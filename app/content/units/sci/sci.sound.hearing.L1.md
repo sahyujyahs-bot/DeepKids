@@ -1,7 +1,7 @@
 # Our ears: hearing sounds from near and far
 `sci.sound.hearing.L1`
 
-**Summary.** Shut your eyes, and you can still tell if Amma is calling from the next room or from right beside you. Your ears catch sounds from every side, near and far. The ear flap catches a sound, and it goes down the ear hole to the eardrum inside. A sound gets softer as it travels further away. Your child tests if their ears can tell near from far, and finds that a soft sound close by can sound far away.
+**Summary.** Shut your eyes, and you can still tell if Amma is calling from the next room or from right beside you. Your ears catch sounds from every side, near and far. The ear flap catches a sound, and it goes down the ear hole to the eardrum inside. A sound gets softer as it travels further away. Your child tests if their ears can tell near from far, and may find that a soft sound close by can sound far away.
 
 **Intro.** *Close your eyes. Somebody says your name. Without looking, can you point to them? Can you tell if they are near or far?* Your eyes are shut, yet you know where the voice is. Your ears found out. Ears catch sounds from in front, from the sides and even from behind you. In this unit you look at your ears, listen for near and far sounds, and test if your ears can be tricked.
 
@@ -33,19 +33,19 @@ The part of your ear you can see is the ear flap. Its curly folds catch sound an
 When a spoon hits a steel tumbler, the sound spreads out on every side at once. Close to the tumbler, a lot of that sound reaches your ear. Far away, the same sound has spread over a much bigger space. So only a little of it reaches you, and it sounds soft. Walls, doors and curtains also soak up some sound on the way. That is why a vegetable seller is loud at your gate, and soft from the end of the street.
 - e.g. A flower seller calls 'Mallepoolu!' at the gate. As she walks away down the street, her call gets softer and softer.
 - e.g. An auto horn right next to you makes you jump. The same horn three streets away is just a small beep.
-- e.g. In the Find the Hidden Song game, the song got louder as you came closer to the phone.
+- e.g. In the Find the Hidden Song activity, the song got louder as you came closer to the phone.
 ### How you tell if a sound is near or far · *defined*
 **Definition:** Your ears hear how loud a sound is. Your brain uses that, and what it already knows, to guess how far away the sound is.
 
-A loud sound usually means near, and a soft sound usually means far. Most of the time that guess is right. But it can be tricked. A soft tap close by can sound far away. A hard tap across the room can sound near. Your brain also uses what it knows. You know how loud Amma's voice usually is, so a very quiet 'Amma' sounds far. Echoes help too. A far sound reaches you with more echo from the walls.
+A loud sound usually means near, and a soft sound usually means far. Most of the time that guess is right. But it can be tricked. A soft tap close by can sound far away. A hard tap across the room can sound near. Your brain also uses what it knows. You know how loud a friend's voice usually is, so a very quiet friend sounds far. Echoes help too. A far sound reaches you with more echo from the walls.
 - e.g. In the Near or Far test, the trick taps often fooled your ears.
 - e.g. Thunder is very loud, yet it is made high up in the clouds, far away.
 - e.g. A mosquito is very soft, yet when you hear one, it is right by your ear.
 ### Every animal hears in their own way · *debated*
-Humans and other animals hear, but not all in the same way. An elephant hears very low rumbles from her family, from far away. A female cricket hears with ears on her front legs, and walks towards a male's song. A frog's eardrums are on the outside, as round circles behind the eyes. A snake has no ear flaps and no ear holes. Snakes pick up the shaking of the ground through their jaw. Plants may hear too. Every being who listens is a mind meeting the world in their own way. Scientists agree that all these animals hear. They argue about whether plants hear.
+Humans and other animals hear, but not all in the same way. An elephant hears very low rumbles from her family, from far away. A female cricket hears with ears on her front legs, and walks towards a male's song. A frog's eardrums are on the outside, as round circles behind the eyes. A snake has no ear flaps and no ear holes. Snakes pick up the shaking of the ground through their jaw. Plants may hear too. Every animal who listens hears the world in her own way. Scientists agree that all these animals hear. They argue about whether plants hear.
 - e.g. In 1984, Katy Payne found that elephants call each other with rumbles too low for people to hear.
 - e.g. In 2019, Lilach Hadany and her team played the buzz of a bee to evening primrose flowers. Within a few minutes, the flowers made their nectar sweeter.
-- e.g. A street dog lifts and turns their ears towards a sound before you have even heard it.
+- e.g. A street dog lifts and turns her ears towards a sound before you have even heard it.
 - **Many biologists who study plants:** The evening primrose flowers heard the bee and got ready for her. Hearing is any way of sensing sound, and these flowers do that in their own way.
 - **Many other scientists:** The flower test is a good start, but it needs to be done again by other teams. They would call it a response to sound, and keep the word 'hearing' for beings with ears.
 
@@ -55,7 +55,7 @@ Humans and other animals hear, but not all in the same way. An elephant hears ve
 - Babies hear before they are born. *How we know:* In 1980, Anthony DeCasper and William Fifer showed that babies only a few days old already prefer their mother's voice. They had heard it from inside her body.
 
 ## How we found out
-**Katy Payne, an American scientist, with William Langbauer and Elizabeth Marshall Thomas, 1984 to 1991.** In May 1984, an American scientist named Katy Payne was watching Asian elephants at a zoo in Portland, in the United States. She stood beside their cage for hours. Now and then she felt a throbbing in the air, though she heard almost nothing. It reminded her of standing next to the biggest pipes of a church organ, which make notes so low you feel them. Katy Payne wondered if the elephants were calling to each other with sounds too low for people to hear. Back then, nobody knew how elephant families far apart kept moving together, and few people thought sound could carry their messages so far. She came back with machines that could record very low sounds. When the recordings were played faster, the low rumbles became easy to hear. She and her team showed that elephants call with deep rumbles, and that other elephants can hear them from far away. Later, in Namibia, elephants turned and walked towards calls played from loudspeakers more than a kilometre away.  
+**Katy Payne, an American scientist, with William Langbauer and Elizabeth Marshall Thomas, 1984 to 1991.** In 1984, an American scientist named Katy Payne was watching Asian elephants at a zoo in Portland, in the United States. She stood beside their cage for hours. Now and then she felt a throbbing in the air, though she heard almost nothing. It reminded her of standing next to the biggest pipes of a church organ, which make notes so low you feel them. Katy Payne wondered if the elephants were calling to each other with sounds too low for people to hear. Nobody had yet shown that elephant families far apart used sound to keep in touch. She came back with machines that could record very low sounds. When the recordings were played faster, the low rumbles became easy to hear. She and her team showed that elephants call with deep rumbles, and that other elephants can hear them from far away. Later, in Namibia, elephants responded to calls played from loudspeakers far away.  
 *What people believed before:* Elephant families far apart cannot keep in touch by sound.
 
 ## Challenging perspectives
@@ -72,29 +72,28 @@ Humans and other animals hear, but not all in the same way. An elephant hears ve
 ## Roots
 We have looked at our ears and tested whether they can tell near from far. Now we ask what the trick taps tell us about ourselves and the world.
 
-**Deep truth.** With your eyes shut, a soft tap close by sounded far away. A hard tap from across the room sounded near. Your ears heard how loud each tap was, and you guessed the distance from that. So whether a sound is near or far is your own guess, and a guess can be fooled.  
+**Deep truth.** With your eyes shut, a soft tap close by can sound far away. A hard tap from across the room can sound near. Your ears hear how loud each tap is, and you guess the distance from that. So near or far is your own guess, and a guess can be fooled.  
 *Habit it breaks:* We think we simply hear where a sound is, the way we see a cup on the table. But ears catch only the sound itself. How far away it is, we work out from how loud it is and from its echoes.  
-*Evidence:* In the Near or Far test, the normal taps were mostly guessed right. In the trick rounds, the soft tap one step away was often called far, and the hard tap across the room was often called near.
+*Evidence:* In the Near or Far test, the normal taps were mostly guessed right. In the trick rounds, a soft tap one step away may be called far, and a hard tap across the room may be called near.
 
 - *who am i:* You are a listener. Your ears catch sounds from every side, all day, and even while you sleep.
 - *what is life:* Every animal listens for what matters to them. A cricket listens for a song, and an elephant listens for her family far away.
 - *what is this world:* The world is full of sounds, near and far, all the time. Each one gets softer as it travels.
 
-One tap of a spoon sends sound out on every side at once. It reaches you, Amma, the crow on the ledge and the neighbour next door. Each of them hears it a little louder or softer, and makes their own guess about where it came from. Everything is conscious, and listening is one of the ways minds meet the same world. One sound becomes as many hearings as there are listeners.
+One tap of a spoon sends sound out on every side at once. It reaches you, your family, the crow on the ledge and the neighbour next door. Each of them hears it a little louder or softer, and makes their own guess about where it came from. Everything is conscious, and each of them listens in their own way.
 
 - **Tirukkural 411, in the chapter on listening (Kelvi):** Thiruvalluvar wrote that the wealth you gain through your ears is the greatest wealth of all. (Your ears bring you news from near and far, from behind you and from the next street, even in the dark. In the Near or Far test, your ears told you a great deal with your eyes covered.)
-- **Thich Nhat Hanh, the bell of mindfulness:** The Vietnamese teacher Thich Nhat Hanh taught people to stop when they hear a bell, breathe, and listen to the sound until it fades away. (When you listen to a bell until the end, you hear it get softer and softer. You notice the moment it becomes too soft to hear. That is what you listened for in the Near or Far test.)
+- **Thich Nhat Hanh, the bell of mindfulness:** The Vietnamese teacher Thich Nhat Hanh taught people to stop when they hear a bell, breathe, and listen to the sound until it fades away. (When you listen to a bell until the end, you hear it get softer and softer. You notice the moment it becomes too soft to hear. You do the same in the practice below.)
 - Science (settled): Babies hear before they are born, and know their mother's voice a few days after birth.
 - Science (debated): Evening primrose flowers made sweeter nectar within minutes of hearing a bee's buzz. Whether plants hear is still argued about.
 - Other view, Many brain scientists: Hearing is something done by beings with ears and nerves. A flower changing their nectar is a response to shaking, not hearing, and calling it listening may be going too far.
 - Practice, Listen until it is gone (3 min): Sit still and close your eyes. I will hit this steel tumbler once, gently. Listen to the sound as long as you can. Raise your hand when you cannot hear it any more. Now take three slow breaths. Where did the sound go?
-- Ask: When Arjun whispered close by, Meena heard him far away. Was she wrong, or was her guess just fooled?
-- Ask: An elephant hears her family from far away. Does she live in a bigger world of sounds than you?
-- Ask: When the tumbler's sound faded away, where did it go?
+- Ask: Which round in the Near or Far test fooled your ears? What did your ears hear, and what did you guess?
+- Ask: When you cannot see where a sound comes from, is knowing how far away it is a hearing or a guess?
 
 ## Deep and big questions
-- *deep:* When Arjun whispered right behind Meena, she heard a voice far away. Was the far-away voice in the room, or in Meena? (hint: Arjun was close. The 'far away' was Meena's guess. Where does a guess happen?)
-- *deep:* Why do you have two ears, one on each side of your head, and not one ear on top? (hint: A sound on your left side reaches your left ear a tiny bit sooner and louder than your right ear.)
+- *deep:* Arjun whispered right behind Meena, and she thought he was far away. Was the mistake in the room, or in Meena's guess? (hint: Arjun was close. The 'far away' was Meena's guess. Where does a guess happen?)
+- *deep:* You can shut your eyes and still know where a voice is. What do you know with your ears, and what do you only guess? (hint: Think about the soft tap close by that sounded far away.)
 - *big:* An elephant hears her family from far away, where you would hear nothing. Is the elephant's world bigger than yours? (hint: Think about all the sounds the elephant hears that you do not. Do you hear some that she does not?)
 - *big:* If you could hear any sound in the world, from as far away as you like, which would you choose? (hint: A friend in another city, the sea, a whale, the inside of a seed, your own heart?)
 
@@ -143,7 +142,7 @@ Meena frowned. 'So my ears can be tricked?'
 
 So Nanamma shut her eyes. Meena whispered 'Nanamma' right next to her. Then Arjun ran to the far end of the corridor and shouted 'Nanamma!' as loud as he could.
 
-'The whisper was far, and the shout was near,' said Nanamma. Then she opened her eyes, saw where they were, and laughed. 'You tricked me!'
+'The whisper came from far away, and the shout from close by,' guessed Nanamma. Then she opened her eyes, saw where they really were, and laughed. 'You tricked me!'
 
 Just then, there was a deep rumble, far away. Arjun grabbed Meena's arm. 'That was very loud,' he said. 'Is it near?'
 
@@ -164,26 +163,26 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 
 ## Games
 ### g1 · Near, Middle, Far: hop to where the sound is (12 min)
-- **rules:** Put the three floor cards in a line, a big step apart. NEAR is closest to the player.; The caller reads one sound card out loud.; The player hops to NEAR, MIDDLE or FAR, and says why.; The caller reads the back. If the player's reason makes sense, they get a point, even if they chose a different card.; A grown-up whispers the cards to a caller who cannot read yet.
+- **rules:** Put the three floor cards in a line, a big step apart. NEAR is closest to the player.; The caller mixes the 14 sound cards and reads the front of one out loud.; The player hops to NEAR, MIDDLE or FAR, and says why.; The caller reads the back. If the player's reason makes sense, the player gets a point, even if the card is not the one on the back.; Play 7 cards, then swap jobs and play the other 7. With 4 players, one is the caller and the others hop in turn, one card each. Add up the points together and try to beat them next time.; A child who cannot read yet can be the caller if a grown-up reads each card quietly to them first.
 - **Printable cards: 3 big floor cards:** NEAR: right next to me; MIDDLE: in the next room or at the door; FAR: down the street or up in the sky
-- **Printable cards: 14 sound cards for the caller:** A mosquito buzzing by your ear (back: Near. A mosquito is soft, so if you hear one, it is very close.); Thunder in a storm (back: Far. Thunder is made high in the clouds. It is so loud you hear it from far away.); The fan above your bed (back: Near. It is right above you.); An aeroplane in the sky (back: Far. Aeroplanes fly very high, but they are very loud.); Amma stirring a pot in your kitchen (back: Middle. In the next room.); A train horn at night (back: Far. Train horns are loud, so you hear them from far away.); A friend whispering a secret (back: Near. A whisper is soft, so your friend must be close.); A koel calling in a tree outside (back: Middle or far. A koel is loud, so the bird can be quite far.); The doorbell of your own flat (back: Middle. At your front door.); A drum band in a festival procession in the street (back: Far or middle. Drums are loud, so you hear them from far down the street.); Your own tummy rumbling (back: Near. It is inside you!); A ticking clock on your table (back: Near. A tick is soft, so you hear it only close by.); A pressure cooker whistle next door (back: Middle. In the next flat.); A ship's horn at the port in Visakhapatnam, heard from a beach far away (back: Far. Ship horns are made very loud so that they carry far.)
+- **Printable cards: 14 sound cards for the caller:** A mosquito buzzing by your ear (back: Near. A mosquito is soft, so if you hear one, it is very close.); Thunder in a storm (back: Far. Thunder is made high in the clouds. It is so loud you hear it from far away.); The fan above your bed (back: Near. It is right above you.); An aeroplane in the sky (back: Far. Aeroplanes fly very high, but they are very loud.); Someone stirring a pot in the kitchen of the next flat (back: Middle. In the next flat.); A train horn at night (back: Far. Train horns are loud, so you hear them from far away.); A friend whispering a secret (back: Near. A whisper is soft, so your friend must be close.); A koel calling in a tree outside (back: Middle or far. A koel is loud, so the bird can be quite far.); The doorbell of your own flat (back: Middle. At your front door.); A drum band in a festival procession in the street (back: Far or middle. Drums are loud, so you hear them from far down the street.); Your own tummy rumbling (back: Near. It is inside you!); A ticking clock on your table (back: Near. A tick is soft, so you hear it only close by.); A pressure cooker whistle next door (back: Middle. In the next flat.); A ship's horn at the harbour, heard from a beach far away (back: Far. Ship horns are made very loud so that they carry far.)
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the three floor cards in a line. 2. Stand your child at the NEAR end.  
   *Parent says:* These cards say near, middle and far. When I read a sound, hop to where that sound would be.  
   *Child mode:* Look at the three cards. Near, middle, far. Get ready to hop.
 - **s2 (8 min)**  
-  *Parent does:* 1. Mix the sound cards. 2. Read one at a time. 3. Your child hops and says why. 4. Read the back.  
+  *Parent does:* 1. Mix the sound cards. 2. Read one at a time. 3. Your child hops and says why. 4. Read the back. 5. After 7 cards, swap: your child reads and you hop.  
   *Parent says:* Thunder in a storm. Is thunder near, middle or far? Hop! Why did you choose that one?  
   *Child mode:* Listen to the card. Hop to near, middle or far. Say why.
   - Ask: Thunder is very loud. Why is it on FAR? (good: Because it is up in the clouds.; It is loud, but it is far away.; Thunder is so big that we hear it from far.)
   - Note: Some cards have more than one good answer. Praise any reason that makes sense, like 'a koel is loud, so she could be far'.
 - **s3 (2 min)**  
-  *Parent does:* Ask the check question. Then let your child be the caller for one round.  
-  *Parent says:* Now you be the caller, and I will hop.  
-  *Child mode:* Now you read a card. A grown-up hops.
+  *Parent does:* Ask the check question. Then add up the points together.  
+  *Parent says:* How many points did we get? Let's try to get more next time.  
+  *Child mode:* Count the points. Can you win more next time?
   - Check: You hear a mosquito buzzing. Where is the mosquito? → **Right next to you**
 ### g2 · Window Sound Bingo (12 min)
-- **rules:** Each player sits by the window or on the balcony with a board and a crayon.; Everyone keeps quiet and listens.; When you hear a sound on your board, cross it off. Write N if it was near, or F if it was far.; The first player to cross off a whole row says 'Bingo!' quietly.; Keep listening until the time is up. Then count your N and F marks.; A grown-up reads the squares to a player who cannot read yet.
+- **rules:** Each player sits by the window or on the balcony with a board and a crayon. With 2 people, you can share one board and play together.; Everyone keeps quiet and listens.; When you hear a sound on your board, cross it off. Write N in the square if it was near, or F if it was far.; The first player to cross off a whole row says 'Bingo!' quietly. Keep listening, because other rows can still be won.; After 8 minutes, stop. If nobody got a whole row, the player with most squares crossed off wins. A shared board is a shared win.; Count your N and F marks. A grown-up reads the squares to a player who cannot read yet.
 - **Printable board: A bingo board of 9 sounds, in 3 rows of 3:** A bird calling; A horn on the road; Someone talking; A dog barking; A door closing; A bell ringing; Water running; A scooter or a bike; A child laughing or crying
 - **Printable score sheet: Near and far count:** Near sounds I heard; Far sounds I heard; The farthest sound I heard
 - **s1 (2 min)**  
@@ -206,15 +205,15 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 ### e1 · Near or Far? Can your ears tell with your eyes shut? (20 min)
 - **question:** With your eyes shut, can your ears tell if a sound is near or far? Can a soft sound close by trick you?
 - **predict:** Guess first. With your eyes covered, will you always know if the tumbler is near or far? Could a soft tap close by trick you? Why do you think so?
-- **fair test:** You sit in the same chair every round, with your eyes covered. The grown-up uses the same tumbler and the same spoon. The grown-up moves only while you cover your ears and count, so footsteps do not give the place away. The order of the rounds comes from paper chits, so the grown-up does not fall into a pattern you could guess.
+- **fair test:** You sit in the same chair every round, with your eyes covered. The grown-up uses the same tumbler and the same spoon. The grown-up moves only while you cover your ears and count, so footsteps do not give the place away. Which spot comes next is decided by the paper chits, so you cannot guess a pattern.
 - **safety:** Never hit the tumbler right next to anyone's ear. The near spot is one big step behind the chair, not at the ear.
 - **record:** Draw yourself on the chair. Draw the near spot and the far spot. Put a tick for each round you got right, and a cross for each round that tricked you.
 - **results table:** Round | Where the grown-up was: near or far | Normal, soft or hard tap | My guess: near or far | Right or wrong
 - **s1 (3 min)**  
-  *Parent does:* 1. Switch off the fan and the TV. 2. Put a chair in the middle of the room. 3. Mark a near spot one big step behind the chair. 4. Mark a far spot across the room, by the door. 5. Make 8 chits.  
+  *Parent does:* 1. Switch off the fan and the TV. 2. Put a chair in the middle of the room. 3. Mark a near spot one big step behind the chair. 4. Mark a far spot across the room, by the door. 5. Make 6 chits.  
   *Parent says:* We are going to test your ears. You will sit here with your eyes covered. I will hit this tumbler with a spoon, sometimes near and sometimes far.  
   *Child mode:* Sit on the chair. Look at the near spot and the far spot.
-  - Note: Write the chits secretly. Four say 'normal near' or 'normal far', two of each. Four say 'soft near' or 'hard far', two of each. Keep the four normal chits in one pile and the four trick chits in another. Mix each pile.
+  - Note: Write the chits secretly. The three normal chits say 'normal near', 'normal far' and 'normal near'. The three trick chits say 'soft near', 'hard far' and 'soft near'. Keep the normal chits in one pile and the trick chits in another, and mix each pile.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess. Write their guess down.  
   *Parent says:* With your eyes covered, will you always know if I am near or far? Could I trick you? Why do you think so?  
@@ -222,21 +221,20 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   - Ask: Why do you think so? (good: Yes, because near sounds are loud.; No, because I can't see you.; Maybe, if you hit it softly.)
   - Note: Any guess is fine. Do not say what will happen.
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* 1. Cover your child's eyes. 2. Pick a normal chit. 3. Your child covers their ears and counts to ten out loud. 4. Walk quietly to the spot. 5. After the count, hit the tumbler once, the same way each time. 6. Write the guess. Do all four normal chits.  
+  *Parent does:* 1. Cover your child's eyes. 2. Pick a normal chit. 3. Your child covers their ears and counts to ten out loud. 4. Walk quietly to the spot. 5. After the count, hit the tumbler once, the same way each time. 6. Write the guess. Do all three normal chits.  
   *Parent says:* Cover your ears and count to ten, out loud. Now hands down. Listen. Was that near or far?  
   *Child mode:* Cover your ears. Count to ten. Hands down. Listen. Near or far?
   - Ask: Near or far? How did you know? (good: Near, because it was loud.; Far, because it was soft and small.)
-  - Note: A normal tap is a medium hit. Most children get these four right. Do not say if a guess is right until the end.
+  - Note: A normal tap is a medium hit. Most children get these right. Do not say if a guess is right until the end.
 - **s4 (5 min) · grown-up needed**  
-  *Parent does:* 1. Now use the trick chits. 2. For 'soft near', just touch the tumbler gently with the spoon. 3. For 'hard far', hit it firmly. 4. Write each guess.  
+  *Parent does:* 1. Now use the three trick chits. 2. For 'soft near', just touch the tumbler gently with the spoon. 3. For 'hard far', hit it firmly, but not hard enough to dent it. 4. Write each guess.  
   *Parent says:* Same again. Cover your ears and count to ten. Hands down. Listen. Near or far?  
   *Child mode:* Cover your ears. Count to ten. Listen. Near or far?
-  - Note: Most children call the soft near tap 'far', and the hard far tap 'near'. If your child gets these right too, ask how they knew. Some children notice the echo in the room, and ears really do use echo. That is a good result too.
+  - Note: Many children call the soft near tap 'far', and the hard far tap 'near'. In a small flat it may not work every time. If your child gets these right too, ask how they knew. Some children notice the echo in the room, and ears really do use echo. That is a good result too.
 - **s5 (4 min)**  
   *Parent does:* 1. Uncover your child's eyes. 2. Show the results together. 3. Ask what they found, what they saw and why. 4. Ask the check question.  
   *Parent says:* Look at the normal rounds and the trick rounds. Which ones tricked you? Why do you think the soft tap close by sounded far away?  
   *Child mode:* Which rounds tricked you? Why did the soft tap sound far?
-  - Ask: Why did the soft tap close by sound far away? (good: Because it was soft, and far sounds are soft.; My ears heard a small sound and I thought it was far.)
   - Check: In the trick round, a soft tap close by sounded far away. Why? → **Your ears heard a soft sound, and soft sounds are usually far**
   - Think: If a loud sound can be far and a soft sound can be near, how else could you tell where a sound is?
 
@@ -252,7 +250,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   *Parent says:* What did you hear? Was it near or far? How do you know?  
   *Child mode:* Say each sound. Was it near or far? How do you know?
   - Ask: How do you know that sound was far? (good: It was soft.; It came from down the road.; It was a small sound.)
-  - Note: Most children hear six to ten sounds in two minutes, even in a quiet flat. Do not explain yet. Just collect their reasons.
+  - Note: Most children hear several sounds in two minutes, even in a quiet flat. Do not explain yet. Just collect their reasons.
 - **s3 (3 min)**  
   *Parent does:* Your child draws one near sound and one far sound.  
   *Parent says:* Draw one sound that was near, and one that was far.  
@@ -273,8 +271,8 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   - Note: Covering the ears blocks some sound. This is how we protect ears from very loud sounds like firecrackers. Cupping makes the ear flap bigger, so it catches more sound.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Why do you think people cover their ears at a firecracker?  
-  *Child mode:* Why do people cover their ears at a firecracker?
+  *Parent says:* Which of these is a safe way to look after your ears?  
+  *Child mode:* Which is a safe way to look after your ears?
   - Check: Which is a safe way to look after your ears? → **Cover them when a sound is very loud**
 ### a3 · Find the Hidden Song: louder means closer (12 min)
 - **record:** Draw a map of the room with the place where the phone was hidden. Draw arrows to show the way you walked.
@@ -306,11 +304,11 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   *Parent says:* A female cricket hears with ears on her front legs, just below her knees. She walks towards a singing male. Crawl to my song!  
   *Child mode:* Be a cricket. Point to your knees. Creep towards the song.
   - Note: A cricket's ears are small round patches on the front legs, just below the knee joint.
+  - Check: Where are a cricket's ears? → **On her front legs**
 - **s3 (3 min)**  
-  *Parent does:* 1. Your child sits like a frog. 2. Show where a frog's eardrum is, on the side of the head behind the eye. 3. Ask the check question.  
+  *Parent does:* 1. Your child sits like a frog. 2. Show where a frog's eardrum is, on the side of the head behind the eye.  
   *Parent says:* A frog's eardrum is a round circle on the outside, just behind the eye. Where is your eardrum?  
   *Child mode:* Be a frog. Where is a frog's eardrum? Where is yours?
-  - Check: Where are a cricket's ears? → **On her front legs**
 
 ## Projects
 ### p1 · My Sound Map: near and far sounds over three days (20 min, 3 days)
@@ -333,14 +331,14 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 
 ## Challenges
 ### c1 · Call Everyone for Dinner Without Shouting (15 min)
-- **problem:** Dinner is ready. Thatha is in the far bedroom, and your sister is on the balcony. Shouting is not allowed, because the baby next door is asleep. How can you call everyone?
+- **problem:** Dinner is ready. Everyone at home is in a different room: one person is in the far bedroom, and another is on the balcony. Shouting is not allowed, because the baby next door is asleep. How can you call everyone?
 - **your turn:** Choose your best idea and try it tonight. Did everyone come? Did the baby next door stay asleep?
 - **constraints:** No shouting.; No phones.; Use things from home, or your own body.
-- **general:** Walk to each room and say it in a normal voice. Going closer makes a soft sound loud enough.; Ring a small bell once. A bell's sound carries far without being as loud as a shout.; Agree on a signal, like three knocks on the door, that means dinner.
+- **general:** Walk to each room and say it in a normal voice. Going closer makes a soft sound loud enough.; Ring a small bell once. Everyone knows it means dinner, and it does not wake the baby like a shout.; Agree on a signal, like three knocks on the door, that means dinner.
 - **creative:** Roll a newspaper into a cone and speak softly through it towards each room.; Flash a torch on the wall where each person sits.; Make up a family clap: clap, clap, pause, clap means 'come and eat'.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child.  
-  *Parent says:* Dinner is ready, but Thatha and your sister are far away. The baby next door is asleep, so no shouting. How could you call them?  
+  *Parent says:* Dinner is ready, but the others are in far rooms. The baby next door is asleep, so no shouting. How could you call them?  
   *Child mode:* Dinner is ready. No shouting. How will you call everyone?
   - Ask: What could you do? (good: Walk to them and tell them.; Ring a bell.; Knock on the door.)
 - **s2 (6 min)**  
@@ -349,7 +347,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   *Child mode:* Draw your idea. Will the far room hear it?
 - **s3 (4 min)**  
   *Parent does:* Try the best idea at home.  
-  *Parent says:* Let's try it. I will be Thatha in the far room.  
+  *Parent says:* Let's try it. I will wait in the far room.  
   *Child mode:* Try your idea. Did the far room hear it?
 - **s4 (2 min)**  
   *Parent does:* Ask the check question.  
@@ -363,19 +361,19 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
    **Answer:** ['ear flap', 'ear hole', 'eardrum']. *Why:* A strong answer names all three. The ear flap catches sound, the ear hole leads in, and the eardrum shakes when sound reaches it.
 2. (match) Draw a line from each animal to where their ears are.  
    **Answer:** A cricket → On her front legs; A frog → Round circles behind the eyes; An elephant → Big flaps on the sides of the head; You → One on each side of your head. *Why:* Every animal's ears are where they help that animal. A cricket's ears are on her front legs, and a frog's eardrums are on the outside of the head.
-3. (sort) You are in your bedroom. Is each sound near you or far away? Circle near sounds in green and far sounds in red.  
-   **Answer:** A mosquito buzzing by your ear → Near me; An aeroplane in the sky → Far away; The fan above your bed → Near me; A train horn at night → Far away; Your own clapping → Near me. *Why:* The mosquito, the fan and your clapping are right by you. The aeroplane and the train are far away, but they are so loud that you still hear them.
+3. (sort) Is each sound near you or far away? Circle near sounds in green and far sounds in red. A grown-up reads each one.  
+   **Answer:** Your own clapping → Near me; A temple bell across the town → Far away; The tap running in your bathroom → Near me; A crow cawing from a tree down the road → Far away; Your own footsteps → Near me. *Why:* Your clapping, your footsteps and the bathroom tap are right by you. The temple bell and the crow are far away, so they sound softer.
 4. (draw) In the Near or Far test, you sat on a chair with your eyes covered. Draw the chair, the near spot and the far spot.  
    **Answer:** A drawing of a chair with one spot close behind it and one spot far away.. *Why:* A strong drawing shows the near spot one step behind the chair and the far spot across the room.
 5. (truefalse) A sound gets softer as it travels further away.  
    **Answer:** True. *Why:* True. The sound spreads out as it travels, so less of it reaches your ear from far away.
 6. (truefalse) A loud sound is always close to you.  
-   **Answer:** False. *Why:* False. Thunder is very loud, but it is far away in the clouds. Loud sounds can be near or far.
+   **Answer:** False. *Why:* False. A fire engine siren far down the road is very loud. Loud sounds can be near or far.
 7. (odd) Three of these are parts of the ear. Which one is not?  
    Options: Ear flap / Eardrum / Eyelid / Ear hole  
    **Answer:** 2. *Why:* The ear flap, the ear hole and the eardrum are parts of the ear. The eyelid is part of the eye.
-8. (write) Say out loud, and a grown-up writes it down: in the trick round, why did the soft tap close by sound far away?  
-   **Answer:** The tap was soft, and far sounds are usually soft. So my ears heard a soft sound and I guessed far.. *Why:* A strong answer says that we guess near or far from how loud a sound is, and that a soft sound close by can trick us.
+8. (write) Say out loud, and a grown-up writes it down: tell one sound you heard at the Listening Window, and how you knew if it was near or far.  
+   **Answer:** A sound the child really heard, with a reason such as 'it was loud, so I thought near' or 'it was soft, so I thought far'.. *Why:* A strong answer names a real sound and gives a reason from how loud it was. It may also say a guess can be wrong.
 9. (mcq) Kavya, a girl in Class 1, hears the vegetable seller calling in the street. The call gets louder and louder. What is the vegetable seller doing?  
    Options: Coming closer to Kavya / Going away from Kavya / Standing still  
    **Answer:** Coming closer to Kavya. *Why:* A sound is louder when it is closer. If the call gets louder and louder, the seller is coming closer.
@@ -383,30 +381,28 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
    **Answer:** A strong answer picks a side and gives a reason. For Lakshmi: closer thunder is louder, so a very loud clap may mean the storm is near. For Bornali: thunder is so big that we hear it from far away.. *Why:* Both girls are partly right. Louder thunder often means a closer storm, but thunder is so loud that even far thunder can sound big.
 11. (draw) Draw something you can hear right now but cannot see.  
    **Answer:** A drawing of a sound-maker that is out of sight, such as a bird outside or a cooker in the kitchen.. *Why:* A strong drawing shows that ears tell us about things we cannot see, even behind walls.
-### Listening Detectives (stretch) (stretch, 11 questions)
+### Listening Detectives (stretch) (stretch, 10 questions)
 1. (mcq) Why do we have two ears, one on each side of the head?  
    Options: To hear sounds from every side and tell where they come from / So that one ear can rest / Because one ear is a spare  
    **Answer:** To hear sounds from every side and tell where they come from. *Why:* A sound on your left reaches your left ear a tiny bit sooner and louder. Your two ears together help you find where a sound is.
-2. (truefalse) Putting a cotton bud or a pencil deep inside your ear is a good way to clean it.  
-   **Answer:** False. *Why:* False. Ear wax cleans the ear hole and moves out by itself. Anything pushed inside can hurt the eardrum. Wipe only the outside.
-3. (order) Put these in order, from the outside of your ear to the inside.  
+2. (order) Put these in order, from the outside of your ear to the inside.  
    **Answer:** ['Ear flap', 'Ear hole', 'Eardrum']. *Why:* Sound is caught by the ear flap, goes down the ear hole, and reaches the eardrum at the end.
-4. (write) Arjun cups his hand behind his ear to hear his grandmother. What happens to her soft voice? Why?  
+3. (write) A boy called Rohan cups his hand behind his ear to hear his grandmother's soft voice. What happens to her voice? Why? Say it out loud, and a grown-up writes it down.  
    **Answer:** Her voice sounds a little louder, because his hand catches more sound and sends it into his ear.. *Why:* A strong answer says the cupped hand works like a bigger ear flap.
-5. (match) Draw a line from each sound to the best thing to do.  
+4. (match) Draw a line from each sound to the best thing to do.  
    **Answer:** A wedding loudspeaker right next to you → Move away or cover your ears; A whisper you want to hear → Come closer, or cup your ear; Firecrackers on Deepavali → Cover your ears and stand far back. *Why:* Very loud sounds can hurt ears, so we move away or cover them. To hear a soft sound, we come closer or catch more of it with a cupped hand.
-6. (sort) Which sounds could trick you? Sort them into 'soft but near' and 'loud but far'.  
-   **Answer:** Arjun whispering right behind you → Soft but near; Thunder → Loud but far; A train horn at night → Loud but far; A ticking clock on your table → Soft but near. *Why:* A soft sound close by can seem far away, and a loud sound far away can seem near. These are the sounds that can trick your ears.
-7. (draw) Draw an elephant listening to her family far away. Draw her family small, at the other side of the page.  
+5. (sort) Which sounds could trick you? Sort them into 'soft but near' and 'loud but far'.  
+   **Answer:** A friend whispering right behind you → Soft but near; Thunder → Loud but far; A fire engine siren far down the road → Loud but far; A watch ticking on your wrist → Soft but near. *Why:* A soft sound close by can seem far away, and a loud sound far away can seem near. These are the sounds that can trick your ears.
+6. (draw) Draw an elephant listening to her family far away. Draw her family small, at the other side of the page.  
    **Answer:** An elephant on one side, with tiny elephants far away on the other side, and maybe lines for the rumble between them.. *Why:* A strong drawing shows a long way between them, because elephants hear their family's low rumbles from far away.
-8. (mcq) Amma stands at the kitchen door and calls 'Dinner!' in her normal voice. Farhan is near the door. Meenakshi is in the far bedroom. Who hears the call louder?  
-   Options: Farhan, because he is closer / Meenakshi, because she is further / Both hear it just as loud  
+7. (mcq) Farhan and his sister Devi are at home. Their mother stands at the kitchen door and calls 'Dinner!' in her normal voice. Farhan is near the door. Devi is in the far bedroom. Who hears the call louder?  
+   Options: Farhan, because he is closer / Devi, because she is further / Both hear it just as loud  
    **Answer:** Farhan, because he is closer. *Why:* The call gets softer as it travels. Farhan is closer, so more of the sound reaches him.
-9. (label) Here is a drawing of a frog's head. Say what each part is, and a grown-up writes it.  
+8. (label) Here is a drawing of a frog's head. Say what each part is, and a grown-up writes it.  
    **Answer:** ['eardrum', 'eye']. *Why:* A frog's eardrum is on the outside of the head, just behind the eye. Ours is hidden deep inside the ear hole.
-10. (truefalse) Babies can hear their mother's voice before they are born.  
+9. (truefalse) Babies can hear their mother's voice before they are born.  
    **Answer:** True. *Why:* True. Babies hear inside their mother's body. A few days after birth, babies already prefer their mother's voice.
-11. (write) Your friend says: 'If I can't see a thing, I can't know where it is.' Shut your eyes. How could your ears show your friend another way?  
+10. (write) Your friend says: 'If I can't see a thing, I can't know where it is.' Shut your eyes. How could your ears show your friend another way? Say it out loud, and a grown-up writes it down.  
    **Answer:** I could shut my eyes and point to my friend when they say my name. Or I could find a hidden phone by walking to where the song gets louder.. *Why:* A strong answer uses something from the unit, such as the Find the Hidden Song game or pointing to a voice, to show that ears can tell where a sound is.
 
 ## Videos
@@ -430,13 +426,13 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 5. (mcq) With her eyes covered, Ammu hears a very soft tap. What will she probably guess?  
    Options: That it is far away / That it is right next to her / That it is thunder  
    **Answer:** That it is far away. *Why:* We usually guess that soft sounds are far away. So a soft tap close by can trick us, as in the Near or Far test.
-6. (mcq) Thunder is very loud. Where is it made?  
-   Options: High up in the clouds, far away / Right inside your house / Inside your ear  
-   **Answer:** High up in the clouds, far away. *Why:* Thunder is made in the clouds, often far away. It is so loud that we still hear it. Loud does not always mean near.
+6. (mcq) How do your ears help you guess if a sound is near or far?  
+   Options: They hear how loud the sound is, and you guess from that / They measure the distance with the eardrum / They see where the sound is  
+   **Answer:** They hear how loud the sound is, and you guess from that. *Why:* Your ears hear how loud a sound is, and you guess the distance from that. The guess is usually right, but a soft sound close by can trick you.
 7. (mcq) Where are a frog's eardrums?  
    Options: On the outside of the head, behind the eyes / On the frog's feet / Inside the frog's mouth  
    **Answer:** On the outside of the head, behind the eyes. *Why:* A frog's eardrums are round circles you can see, just behind the eyes. Ours are hidden inside the ear hole.
-8. (mcq) Katy Payne found that elephants call their family with what kind of sound?  
+8. (mcq) A scientist called Katy Payne found that elephants call their family with what kind of sound?  
    Options: Very low rumbles / Tiny squeaks / Loud claps  
    **Answer:** Very low rumbles. *Why:* Elephants rumble so low that people can hardly hear it, but other elephants hear it from far away.
 9. (mcq) Your ear feels itchy inside. What should you do?  
@@ -451,17 +447,17 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 
 ## Applications
 - Ambulance sirens and train horns are made very loud, so people far away can hear them and move aside.
-- Many hospitals in India check a newborn baby's hearing soon after birth, so help can start early.
+- Some hospitals in India check a newborn baby's hearing soon after birth, so help can start early.
 - Hearing aids make sounds louder for people who hear less.
 - Workers at building sites and airports wear earmuffs to protect their ears from loud machines.
-- Lifeguards on beaches like Marina Beach blow loud whistles that carry far over the noise of the waves.
+- Lifeguards on beaches blow loud whistles that carry far over the noise of the waves.
 
 ## Spotted around us
 - A koel calling 'ku-oo' from a tree in Chennai on a hot summer morning, heard from inside the flat.
 - A woman selling greens calling 'Keerai! Keerai!' as she walks down a street in Madurai, getting softer as she goes.
 - Bihu drums in Guwahati heard from many streets away before the dancers come into sight.
 - A ship's horn at the port in Mumbai, heard across the harbour.
-- A street dog in Kolkata lifting and turning their ears towards a sound before anyone else has heard it.
+- A street dog in Kolkata lifting and turning her ears towards a sound before anyone else has heard it.
 
 ## Open questions
 - **Do plants hear?** In 2019, evening primrose flowers made sweeter nectar after hearing a bee's buzz. Other studies found pea roots growing towards the sound of water in a pipe. More teams need to test this, and scientists argue about whether to call it hearing.
@@ -482,13 +478,12 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 - Why are elephants so good at listening? *Because they are all ears!*
 - What did the whisper say to the shout? *Shh, I'm right here!*
 - Why did the cricket carry her ears on her legs? *So she could run towards the music!*
-- What is the quietest sport? *Bowling, because you can hear a pin drop!*
+- Why did the elephant never need a phone? *She could call her family with a low rumble!*
 - Why did the thunder never win at hide and seek? *Everyone could hear it from far away!*
-- What do you call a dosa that is far away? *A dosa-gone!*
-- Why did the frog not need ear muffs? *Because her eardrums were already on the outside, ready to hear everything!*
+- Why did the drum never win an argument? *Because everyone kept beating it!*
 
 ## Connected maths
-- In the Near or Far test, Nila got 4 out of 4 normal rounds right. In the trick rounds, she got 1 right out of 4. How many trick rounds fooled her? **3 trick rounds fooled her.**. There were 4 trick rounds, and she got 1 right. 4 take away 1 is 3. So 3 trick rounds fooled her, but no normal round did. (queues `math.addition-subtraction.meaning.L1`)
+- In the Near or Far test, Nila got 3 out of 3 normal rounds right. In the trick rounds, she got 1 right out of 3. How many trick rounds fooled her? **2 trick rounds fooled her.**. There were 3 trick rounds, and she got 1 right. 3 take away 1 is 2. So 2 trick rounds fooled her, but no normal round did. (queues `math.addition-subtraction.meaning.L1`)
 - At the Listening Window, Ravi heard 5 near sounds and 3 far sounds. Did he hear more near sounds or more far sounds? How many more? **More near sounds. 2 more.**. 5 is bigger than 3. 5 take away 3 is 2. So Ravi heard 2 more near sounds than far sounds. (queues `math.number-sense.comparing-ordering.L1`)
 - On her Sound Bingo board, Meenakshi made tally marks: near sounds |||| and far sounds ||. She says, 'Far sounds are rare.' Is that true everywhere? **Not always. She heard 4 near sounds and 2 far sounds by her window today. At another window or another time, the counts could be different.**. 4 is twice as many as 2 here. But one window at one time is not every place. At night, when the near sounds stop, far sounds like a train are easier to hear. (queues `math.data.sorting-and-tallies.L1`)
 
@@ -507,7 +502,7 @@ Near and Far (sci.sound.L1): Topic-level song for Sound L1
 - Which part of your ear can you touch? → The ear flap.
 - Where is your eardrum? → Deep inside, at the end of the ear hole.
 - Does a sound get louder or softer as it travels further? → Softer.
-- Is thunder near or far? → Far, up in the clouds. It is loud, but far away.
+- Can a soft sound close by sound far away? → Yes. Your ears hear that it is soft, and you guess it is far.
 - Where are a cricket's ears? → On her front legs.
 - Should you put a cotton bud inside your ear? → No. Wipe only the outside.
 

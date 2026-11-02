@@ -24,42 +24,42 @@
 ### Round things roll · *defined*
 **Definition:** A thing rolls when it is round where it touches the ground. A thing with a flat side stays still, or slides if the slope is steep.
 
-On the slope, the ball, the bottle and the round pencil rolled. The book and the box stayed still. A ball is round all over, so any way it turns, a round part touches the ground. A book has flat sides. To turn over, it would have to lift itself up on one edge. So it stays still, and on a steep slope it slides instead. That is why wheels are round.
+On the slope, the ball, the bottle and the round pencil rolled. The book and the box stayed still. A ball is round all over, so a round part always touches the ground. A book has flat sides, so it cannot turn over. That is why wheels are round.
 - e.g. In the slope test, the ball and the bottle rolled, and the book stayed still.
 - e.g. Car and cycle wheels are round, so they roll along the road.
 - e.g. A lumpy potato rolls a little, stops on a flat bit, then rolls again.
 ### A rolling thing's shape steers it · *defined*
 **Definition:** A thing that is the same width all along, like a bottle, rolls straight. A thing that is wider at one end, like a cup, rolls round in a curve, towards its narrow end.
 
-The bottle and the cup rolled down the same slope. The bottle went straight. The cup curved round in a circle. Look at the cup. Its top is wide and its bottom is narrow. On each turn, the wide end goes a long way and the narrow end goes a short way. So the cup turns, like a cart with one big wheel and one small wheel. The bottle's two ends are the same, so they go the same way, and it rolls straight.
+The bottle and the cup rolled down the same slope. The bottle went straight, and the cup curved round. The cup is wide at the top and narrow at the bottom. On each turn the wide end goes a long way and the narrow end goes a short way, so the cup turns.
 - e.g. In the slope test, the paper cup curved round, and the bottle rolled straight.
-- e.g. Two paper cups taped wide end to wide end roll straight, because both ends are the same.
+- e.g. A tin of dal, the same width all along, rolls straight.
 - e.g. A steel tumbler that is wider at the top also curves when it rolls, but in a bigger circle.
 ### A bounce is a squash and a spring back · *defined*
 **Definition:** When a ball hits the floor, it squashes a little. Then it springs back into its round shape, and that push sends it up again.
 
-A rubber ball hits the floor and squashes for a moment, too fast to see. Then it springs back into shape. That spring back pushes on the floor, and the floor pushes the ball up. A ball of atta dough squashes too, but it does not spring back, so it stays down. A dropped ball never bounces as high as it fell from. On each bounce, some of its movement turns into the sound of the bounce and a tiny bit of warmth. So each bounce is lower than the one before, until the ball stops.
+A rubber ball squashes for a moment when it hits the floor, too fast to see. Then it springs back into shape and pushes off the floor. A ball of atta dough squashes but does not spring back, so it stays down. A dropped ball never bounces as high as it fell from, because some of its movement turns into sound and a little warmth.
 - e.g. In the drop test, the ball dropped from high up bounced higher than the ball dropped from low down.
 - e.g. The ball never came back up as high as the hand that dropped it.
 - e.g. A ball bounces well on hard tiles, and hardly at all on a soft pillow.
 ### A top stands up only while it spins · *defined*
-**Definition:** A spinning thing keeps its middle line pointing the same way. So a top stands up on its point while it spins fast, and falls over when it slows down and stops.
+**Definition:** A top stands up on its point while it spins fast. It falls over when it slows down and stops.
 
-Try to stand a top on its point without spinning it. It falls over at once. Now spin it. It stands up on that same tiny point! A spinning top keeps its middle line pointing the same way. As the point rubs on the floor, the top slowly spins less fast. It begins to wobble. Then it falls. The rubbing at the point is called friction. It slows down every spinning toy in the end.
+Try to stand a top on its point without spinning it. It falls over at once. Spin it, and it stands up on the same tiny point. As the point rubs on the floor, the spin slows, the top wobbles and falls. This rubbing is called friction.
 - e.g. Your colour top fell over when it was still, and stood up while it spun.
-- e.g. A cycle is easy to balance when the wheels are turning, and hard when it stands still.
+- e.g. A pambaram, the string top of Tamil Nadu, stands up while it spins and falls when it stops.
 - e.g. A spinning coin stands on its edge, then wobbles and falls flat as it slows.
 ### Winding stores your push · *defined*
 **Definition:** When you wind a toy or twist a string, you give it a push that it keeps in a twist or a spring. When you let go, the twist or spring undoes itself, and the toy moves.
 
-You twisted the string ten times. When you let go, the sock spun round as the string untwisted. Twenty twists made it spin for longer. A wind-up toy works the same way. Turning the key winds a metal spring inside it tight. When you let go, the spring unwinds and turns the wheels. When the spring has unwound all the way, the toy stops. It moves only as much as you wound it.
+You twisted the string ten times. When you let go, the sock spun as the string untwisted, and twenty twists made it spin for longer. A wind-up toy works the same way. Turning the key winds a metal spring tight, and when you let go, the spring unwinds and turns the wheels. When the spring has unwound all the way, the toy stops.
 - e.g. In Twist and Let Go, more twists made the sock spin for longer.
 - e.g. A pull-back car goes further when you pull it back further.
 - e.g. An old wall clock stops if nobody winds its key.
 
 ## Mostly agreed
 - Every toy starts moving with a push or a pull. *How we know:* A ball rolls when a hand or a slope starts it. A top spins when fingers or a string turn it. A wind-up toy moves when its spring, wound by your hand, pushes the wheels.
-- A dropped ball never bounces back as high as it was dropped from. *How we know:* Anyone can test it by a wall. Scientists have measured it with fast cameras: on each bounce, some movement turns into sound and warmth.
+- A dropped ball never bounces back as high as it was dropped from. *How we know:* Anyone can test it by a wall. Scientists have measured it: on each bounce, some movement turns into sound and warmth.
 - Rubbing, called friction, slows down every rolling and spinning thing. *How we know:* A top spins longer on a smooth plate than on a rough mat. A ball rolls further on tiles than on a carpet.
 
 ## How we found out
@@ -84,11 +84,11 @@ We have rolled things down a slope, bounced a ball, twisted a string and spun a 
 *Habit it breaks:* We think a thing simply goes where it is pushed. The slope pushed the bottle and the cup the same way, and the cup still turned. How a thing is made decides where a push takes it.  
 *Evidence:* In the slope test, the bottle and the cup were let go at the same place on the same slope. The bottle rolled straight on, and the cup curved round in a circle. Two cups taped wide end to wide end rolled straight.
 
-- *who am i:* You are shaped in your own way, like the cup and the bottle. The same push can send you somewhere different from anyone else.
-- *what is life:* Living beings move in their own ways too. A snail glides, a crow hops, a seed spins down from a tree, and you roll on the mat.
+- *who am i:* Your body has its own shape, as the cup does. The same push does not move you and your friend in the same way.
+- *what is life:* Living beings move in their own ways too. A snail glides, a crow hops, a winged seed spins down from a tree, and you roll on the mat.
 - *what is this world:* The world is full of round things that roll and spin, from balls and wheels to the Earth, which spins like a top.
 
-The slope gave every thing the same pull down. Each thing answered in its own way: the ball rolled, the book stayed, and the cup curved round. One force met many shapes and made many paths. Everything is aware in its own way, so the cup meets the slope just as your hand meets the cup. Many scientists say only living beings with nerves are aware.
+The same slope started the ball, the bottle, the book and the cup. Each went its own way, because each is made differently. Everything is conscious in its own way, the cup and the slope too. Many scientists say only living beings with nerves are conscious, and this is still argued.
 
 - **Tao Te Ching 11:** Thirty spokes meet at one hub. It is the empty hole in the middle that makes the wheel useful. (A wheel and a top both turn round their middle. Your colour top spun round the pencil at its centre. The middle of a spinning top hardly moves, while its edge races round.)
 - **Dhammacakkappavattana Sutta, Samyutta Nikaya 56.11 (a Buddhist text):** The Buddha's first teaching is called setting the wheel rolling. The text says that once the wheel was set rolling, nobody could stop it. (People chose a rolling wheel as a picture of something that, once started, keeps going. In our tests, a push started each thing, and its own shape and the floor decided how far and which way it went.)
@@ -131,7 +131,7 @@ Then Tara had an idea. She fetched a paper cup from the kitchen. 'Where will thi
 
 Tara let go. The cup rolled down the board. But on the floor it did not go to the door. It curved away, round and round, and stopped by Ammamma's feet.
 
-Kiran laughed. 'It wants to go to Ammamma!'
+Kiran laughed. 'It is going to Ammamma!'
 
 They tried again. Again the cup curved round. 'Why does it do that?' asked Kiran.
 
@@ -155,28 +155,28 @@ Ammamma wound a string round the top. She threw it down and pulled the string ba
 
 The top spun slower and slower. It began to wobble. Then it tipped over and rolled in a little circle on its side.
 
-That evening, Kiran took two paper cups and some tape. He stuck them together, wide end to wide end. He put them at the top of the board and let go.
+That evening, Kiran looked at the two paper cups on the shelf. 'Could we make a cup that goes straight?' he asked.
 
-The two cups rolled straight down the board, straight across the floor, and bumped into the door.
+'Try it tomorrow,' said Ammamma. 'You know what steers a cup now.'
 
-'Now both ends are the same,' said Kiran proudly. 'So it goes straight.'
+Kiran nodded. 'Both ends must be the same,' he said slowly. Then he went to find the tape.
 
 Ammamma clapped, and Tara wrote it in her science book.
 
-**For the parent:** For the parent: Tara and Kiran find that round things roll and flat things stay still. The paper cup curves round because its wide end goes further on each turn than its narrow end, while a bottle, the same at both ends, rolls straight. Kiran uses this to make two taped cups roll straight. The top stands on its point only while it spins.
+**For the parent:** For the parent: Tara and Kiran find that round things roll and flat things stay still. The paper cup curves round because its wide end goes further on each turn than its narrow end, while a bottle, the same at both ends, rolls straight. Kiran works out that a straight-rolling cup needs both ends the same, and your child can test that in the challenge. The top stands on its point only while it spins.
 
 - Ask: Why did the book stay at the top of the slope, when the ball rolled?
 - Ask: Why did the paper cup curve round to Ammamma, instead of going to the door?
 - Ask: When could the top stand up on its point?
-- Ask: How did Kiran make the cups roll straight?
+- Ask: What does Kiran think a cup needs, to roll straight?
 
 ## Games
 ### g1 · Roll, Bounce, Spin or Slide? The act-it-out card game (12 min)
-- **rules:** Mix the 12 cards and put them face down.; The caller reads the top card out loud. A grown-up reads for a caller who cannot read yet.; Every player acts out the move: roll on a mat, bounce on the spot, spin slowly once, or slide in socks.; The caller turns the card over and reads the answer. Everyone who acted it out right and can say why gets a point.; Play until all 12 cards are read. Then swap callers.
-- **Printable cards: 12 thing cards:** A football kicked along the ground (back: ROLL. It is round all over.); A rubber ball dropped on tiles (back: BOUNCE. It squashes and springs back up.); A top spun on the floor (back: SPIN. It turns round its middle.); A book on a steep slope (back: SLIDE. Its flat side stays on the slope.); A bangle let go on its edge (back: ROLL. It is round like a wheel.); A ceiling fan switched on (back: SPIN. The blades turn round the middle.); A cycle going down the road (back: ROLL. Its round wheels roll.); A child going down a playground slide (back: SLIDE. You slide down on your bottom.); A coin flicked to stand on its edge (back: SPIN. It spins, then wobbles and falls.); A tennis ball thrown at a wall (back: BOUNCE. It springs back off the wall.); A steel plate pushed across the table (back: SLIDE. Its flat bottom slides along.); A coconut falling onto a sandy beach (back: NONE OF THEM. It lands in the soft sand and stays.)
+- **rules:** Mix the 12 cards and put them face down.; The caller reads the top card out loud. A grown-up reads for a caller who cannot read yet.; Everyone, the caller too, acts out the move: roll on a mat, bounce on the spot, spin slowly once, or slide in socks. If the card has none of these moves, drop down flat and stay still.; The caller turns the card over and reads the answer. Everyone who acted it out right and can say why gets a point.; Play until all 12 cards are read. The player with the most points wins. If points are tied, everyone wins. To play again, swap callers.
+- **Printable cards: 12 thing cards:** A football kicked along the ground (back: ROLL. It is round all over.); A rubber ball dropped on tiles (back: BOUNCE. It squashes and springs back up.); A top spun on the floor (back: SPIN. It turns round its middle.); A book on a steep slope (back: SLIDE. Its flat side stays on the slope.); A bangle let go on its edge (back: ROLL. It is round like a wheel.); A ceiling fan switched on (back: SPIN. The blades turn round the middle.); A cycle going down the road (back: ROLL. Its round wheels roll.); A child going down a playground slide (back: SLIDE. You slide down on your bottom.); A coin spun on a table (back: SPIN. It spins, then wobbles and falls.); A tennis ball thrown at a wall (back: BOUNCE. It springs back off the wall.); A steel plate pushed across the table (back: SLIDE. Its flat bottom slides along.); A ball of wet atta dough dropped on the floor (back: NONE OF THEM. It squashes and stays down.)
 - **s1 (2 min)**  
   *Parent does:* Read the rules. Practise each move together, slowly and safely.  
-  *Parent says:* Show me roll: lie down and roll on the mat. Bounce: jump on the spot. Spin: turn round slowly once. Slide: glide in your socks.  
+  *Parent says:* Show me roll: lie down and roll on the mat. Bounce: jump on the spot. Spin: turn round slowly once. Slide: glide in your socks. And if it is none of these, drop down flat and stay still.  
   *Child mode:* Roll, bounce, spin, slide. Try each one.
   - Note: Spin slowly, once, so nobody gets dizzy and falls. Slide only on a clear floor.
 - **s2 (8 min)**  
@@ -189,9 +189,9 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Parent does:* Ask the check question.  
   *Parent says:* One last card to think about.  
   *Child mode:* Answer the last one.
-  - Check: Nandini lets go of a round steel tumbler lying on its side on a slope. What will it do? → **Roll**
+  - Check: A girl lets go of a round steel tumbler lying on its side on a slope. What will it do? → **Roll**
 ### g2 · Bottle Skittles: roll the ball, knock them down (12 min)
-- **rules:** Stand 6 empty plastic bottles in a triangle: 3 at the back, then 2, then 1 at the front.; Lay a dupatta on the floor as the rolling line, about 3 big steps from the bottles.; Each player rolls the ball along the floor from the line. No throwing.; Count how many bottles fall, and write it on the score sheet.; Each player has 3 rolls. Stand the bottles up again after each player.; The player with the most bottles down in all wins.
+- **rules:** Stand 6 empty plastic bottles in a triangle: 3 at the back, then 2, then 1 at the front.; Lay a dupatta on the floor as the rolling line, about 3 big steps from the bottles.; Each player rolls a ball along the floor from the line. No throwing.; After each roll, count how many bottles fell. Write the number on your score sheet, or a grown-up writes it. Then stand all the bottles up again.; Each player has 3 rolls. Add up your 3 numbers, with a grown-up's help.; The player with the highest total wins. If two players tie, both win.
 - **Printable score sheet: Skittles score sheet:** Player name; Roll 1: bottles down; Roll 2: bottles down; Roll 3: bottles down; Total
 - **s1 (2 min)**  
   *Parent does:* Set up the bottles and the line. Show how to roll the ball, low along the floor.  
@@ -207,45 +207,51 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Parent does:* Ask the check question.  
   *Parent says:* Here is a question about the ball.  
   *Child mode:* Answer this one.
-  - Check: Revathi's ball stops before it reaches the bottles. What should she try? → **A bigger push**
+  - Check: Revathi, a girl aged seven, rolls her ball at the bottles, but it stops before it reaches them. What should she try? → **A bigger push**
 
 ## Experiments
-### e1 · Roll, Stay or Slide? The slope test (22 min)
-- **question:** Which things will roll down the slope, and which will stay still or slide? Will a paper cup roll the same way as a bottle?
+### e1 · Roll, Stay or Slide? The slope test (20 min)
+- **question:** Which things will roll down the slope, and which will stay still or slide? Will a paper cup roll the same way as a bottle? How steep must the slope be before a book slides?
 - **predict:** Guess first, for each thing. Will it roll, stay still, or slide? Will the cup go straight like the bottle? Why do you think so?
-- **fair test:** We use the same slope for every thing. We put each thing at the top and let go, without any push. We try each one twice, because one try can be a fluke.
-- **record:** Fold a paper into three parts. Draw a ball at the top of one part (roll), a box in the next (stay) and a sliding book in the last (slide). Draw each thing in the part where it belongs.
+- **fair test:** We use the same slope for every thing. We put each thing at the top and let go, without any push. We try the bottle and the cup twice, because one try can be a fluke.
+- **record:** Look at your folded paper. Each thing is now in the part where it belongs. Draw the ones you did not draw yet.
 - **results table:** Thing | My guess: roll, stay or slide? | What it did
 - **s1 (3 min)**  
-  *Parent does:* 1. Lean the tray on two books on a bare floor. 2. Clear about two big steps of floor in front of it. 3. Put the eight things beside the slope.  
+  *Parent does:* 1. Lean the tray on two books on a bare floor. 2. Clear about two big steps of floor in front of it. 3. Put the eight things beside the slope. Keep the other two books handy. 4. Fold the sheet of paper into three parts. Draw a ball, a box and a sliding book at the top of the parts.  
   *Parent says:* Here is our slope. We will put each of these things at the top and let go. We won't push them at all.  
   *Child mode:* Look at the slope. Look at all the things. We will let go of each one.
   - Note: Bare tiles or stone work best. A carpet stops things too soon.
-- **s2 (4 min)**  
+- **s2 (3 min)**  
   *Parent does:* Hold up each thing. Ask your child to guess: roll, stay or slide. Put each thing in a guess pile.  
   *Parent says:* Look at this onion. When I let go at the top, will it roll, stay still or slide? Why do you think so?  
   *Child mode:* Look at each thing. Will it roll, stay or slide? Why?
   - Ask: Why do you think the ball will roll? (good: It is round.; Balls always roll.)
   - Note: Any guess is fine. Don't say what will happen. The reasons matter most.
-- **s3 (7 min)**  
-  *Parent does:* 1. Your child puts each thing at the top and lets go, without pushing. 2. Watch what it does. 3. Try each thing twice. 4. Move it to the roll, stay or slide pile.  
+- **s3 (5 min)**  
+  *Parent does:* 1. Your child puts each thing at the top and lets go, without pushing. 2. Watch what it does. 3. Try each thing once more if you like. 4. Put it on the part of the folded paper where it belongs: roll, stay or slide.  
   *Parent says:* Put it at the very top. Now open your fingers and let go. No pushing! What did it do? Let's try it once more.  
   *Child mode:* Put it at the top. Let go. No push. What did it do?
   - Ask: Which things rolled? What is the same about them? (good: The ball, the bottle and the pencil rolled. They are round.; The round ones rolled.)
-  - Note: The ball, the bottle and the round pencil should roll. The box, the eraser and the coin usually stay still. The onion may roll a little and stop. If nothing slides, add one more book to make the slope steeper. Then the box or the coin may slide.
-- **s4 (5 min)**  
-  *Parent does:* 1. Lay the bottle on its side at the top. 2. Ask: where will it go on the floor? 3. Let go and watch. 4. Do the same with the cup lying on its side. 5. Try the cup twice.  
+  - Note: The ball, the bottle and the round pencil should roll. The box, the eraser and the book usually stay still. The onion may roll a little and stop.
+- **s4 (3 min)**  
+  *Parent does:* 1. Lay the bottle on its side at the top. 2. Ask: where will it go on the floor? 3. Let go and watch. 4. Do the same with the cup lying on its side. 5. Try the bottle and the cup twice each.  
   *Parent says:* The bottle and the cup are both round. When they reach the floor, will they go the same way? Why do you think so? Let's watch.  
   *Child mode:* Will the bottle and the cup go the same way? Why? Watch.
   - Ask: What did the cup do on the floor? (good: It went round in a circle.; It curved. The bottle went straight.)
   - Note: The bottle rolls straight on. The cup curves round in a circle on the floor. If the cup rolls off the side of the tray, put it in the middle and try again.
-- **s5 (3 min)**  
-  *Parent does:* Ask your child for their claim and evidence. Then ask the check question.  
+- **s5 (4 min)**  
+  *Parent does:* 1. Put the picture book at the top of the slope. 2. Lift the top end of the tray with one more book. 3. Let go of the picture book. 4. Add one more book each time, until the picture book slides. 5. Count the books.  
+  *Parent says:* The book stayed still on our first slope. How many books do you think we need under the tray before it slides? Let's add one at a time and see.  
+  *Child mode:* Add a book under the tray. Let go of the picture book. Does it slide yet?
+  - Ask: What did the steeper slope do to the book? (good: It slid down.; The steep slope made it slide, but it did not roll.)
+  - Note: The book slides with its flat side down, and does not roll. If it still stays after all four books, try the flat steel spoon or the matchbox instead.
+- **s6 (2 min)**  
+  *Parent does:* Ask your child what they found. Then ask the check question.  
   *Parent says:* What did you find out? Which things rolled? Why did the cup go round, and the bottle go straight?  
   *Child mode:* What rolled? Why did the cup go round?
   - Ask: Why did the cup curve? (good: One end is big and one end is small.; The wide end goes further.)
   - Note: Wait for your child's own words first. Then say it plainly: round things roll. The cup's wide end goes further on each turn than its narrow end, so the cup turns. The bottle is the same at both ends, so it goes straight.
-  - Check: Meenakshi lets go of a book and a ball at the top of a slope. What happens? → **The ball rolls, and the book stays still**
+  - Check: Meenakshi, a girl aged seven, lets go of a book and a ball at the top of a slope. What happens? → **The ball rolls, and the book stays still**
 ### e2 · High Drop, Low Drop: how high will the ball bounce? (14 min)
 - **question:** Will a ball dropped from high up bounce higher than one dropped from low down? Will it ever bounce back as high as your hand?
 - **predict:** Guess first. Which drop will make the higher bounce? Will the ball come back up to your hand? Why do you think so?
@@ -278,11 +284,11 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Parent says:* What did you find out? Where did the rest of the ball's movement go? Listen when it bounces.  
   *Child mode:* What did you find? What do you hear when it bounces?
   - Note: Say it plainly after your child's own words: a higher drop gives a higher bounce, but the ball never comes back to the hand. Some movement goes into the sound of the bounce.
-  - Check: Kavya drops a ball from her head. How high will it bounce back? → **Not as high as her head**
+  - Check: Kavya, a girl aged eight, drops a ball from the height of her head. How high will it bounce back? → **Not as high as her head**
 
 ## Activities
 ### a1 · Toy Hunt: how does each toy move? (10 min)
-- **record:** Draw one toy that rolls, one that bounces and one that spins. Draw a hand, a foot or a slope next to each, to show what started it.
+- **record:** Draw three of your toys. Next to each one, draw a hand, a foot or a slope to show what started it moving.
 - **s1 (2 min)**  
   *Parent does:* Ask your child to bring five toys or things that move. Lay them on the floor.  
   *Parent says:* Bring me five toys that can move. Let's lay them out here.  
@@ -297,7 +303,7 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Parent does:* Ask the check question.  
   *Parent says:* Here is one more toy to think about.  
   *Child mode:* Think about this toy.
-  - Check: Divya's toy car is still on the floor. What will make it move? → **A push or a pull**
+  - Check: Divya, a girl aged seven, has a toy car lying still on the floor. What will make it move? → **A push or a pull**
 ### a2 · Twist and Let Go: a string that winds up (10 min)
 - **record:** Draw the sock hanging on the string. Draw curly arrows round it to show it spinning.
 - **s1 (2 min)**  
@@ -319,24 +325,25 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Parent does:* Ask the check question.  
   *Parent says:* A wind-up toy has a spring inside that you twist with a key. What do you think more turns of the key will do?  
   *Child mode:* Answer this one.
-  - Check: Farhan winds his toy with three turns. Lakshmi winds hers with ten turns. Whose toy goes further? → **Lakshmi's toy**
+  - Check: Zainab, a girl aged six, and her friend Lakshmi, aged seven, have the same kind of wind-up toy. Zainab winds hers with three turns. Lakshmi winds hers with ten turns. Whose toy goes further? → **Lakshmi's toy**
 ### a3 · Book on Rollers: push it on round pencils (10 min)
 - **record:** Draw the book on the floor, and then the book on its pencils. Put a big arrow by the one that was easier to push.
 - **s1 (2 min)**  
   *Parent does:* Your child pushes the heavy book across the floor with one finger.  
   *Parent says:* Push this book with just one finger. Is it easy or hard?  
   *Child mode:* Push the book with one finger. Easy or hard?
+  - Note: If the book is easy to push, stack a few more books on it until one finger can only just move it.
 - **s2 (5 min)**  
   *Parent does:* 1. Lay four round pencils side by side, a little apart. 2. Put the book on top. 3. Ask your child to guess. 4. Your child pushes with one finger.  
   *Parent says:* Now the book sits on round pencils. Will it be easier or harder to push? Why do you think so? Try it.  
   *Child mode:* The book is on pencils now. Easier or harder? Why? Push.
   - Ask: Why was it easier? (good: The pencils rolled.; Round things roll, so the book rode on them.)
-  - Note: The book glides easily as the pencils roll. Pencils come out at the back, so move them to the front to keep going. This is how people once moved huge stones, on logs.
+  - Note: The book glides easily as the pencils roll. Pencils come out at the back, so move them to the front to keep going. Rollers like this have been used to move heavy loads.
 - **s3 (3 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* Here is a question about a big box.  
   *Child mode:* Answer this one.
-  - Check: Anjali needs to move a heavy box across the floor. What would help most? → **Putting round rods under it**
+  - Check: Anjali, a girl aged seven, needs to move a heavy box across the floor. What would help most? → **Putting round rods under it**
 ### a4 · Pull-Back Car: short pull, long pull (10 min)
 - **record:** Draw the car and two chappals. Write or draw which pull went further.
 - **s1 (4 min)**  
@@ -367,7 +374,7 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Parent does:* 1. Your child colours one half red and the other half yellow. 2. A grown-up makes a hole at the middle with a sharp pencil point. 3. Push the short pencil through, so a little of its point sticks out below.  
   *Parent says:* Colour one half red and one half yellow. Now I'll make a hole right in the middle, and push the pencil through.  
   *Child mode:* Colour half red, half yellow. A grown-up makes the hole.
-  - Note: The hole must be at the very middle, or the top wobbles and falls at once. Keep the card about two finger-widths above the pencil point.
+  - Note: The hole must be at the very middle, or the top wobbles and falls at once. Keep the card about two finger-widths above the pencil point. If the card slips on the pencil, wrap a little tape round the pencil under the card.
 - **s3 (6 min)**  
   *Parent does:* 1. Your child tries to stand the top on its point without spinning. 2. Then twist the pencil top fast between finger and thumb, and let go on the plate. 3. Watch the colours.  
   *Parent says:* First try to stand it up without spinning. What happens? Now spin it hard. What colour do you see while it spins?  
@@ -378,18 +385,18 @@ Ammamma clapped, and Tara wrote it in her science book.
   *Parent does:* Ask the check question.  
   *Parent says:* Here is a question about your top.  
   *Child mode:* Answer this one.
-  - Check: When can Lakshmi's top stand on its point? → **Only while it spins**
+  - Check: Lakshmi, a girl aged seven, colours half her top red and half yellow. What colour will she see while it spins fast? → **Orange**
 
 ## Challenges
 ### c1 · Make the Cup Roll Straight (15 min)
 - **problem:** Divya wants to send a paper cup rolling straight to her teddy, three steps away. But the cup keeps curving round. How can she make it roll straight?
-- **your turn:** Find one way to make the cup roll straight. Then find a way to make it curve round in a smaller circle. What did you change?
+- **your turn:** Find one way to make the cup roll straight. Draw it, and say what you changed.
 - **constraints:** The cup must roll, not slide.; You may use paper cups, tape and paper.; Let go from the same slope each time.
-- **general:** Wheels on a car are all the same size, so the car goes straight.; A bottle is the same width at both ends, so it rolls straight.; Train wheels are a little wider on the inside than the outside, which helps them stay on the track as it curves.
+- **general:** Wheels on a car are all the same size, so the car goes straight.; A bottle is the same width at both ends, so it rolls straight.
 - **creative:** Tape two cups together, wide end to wide end.; Tape two cups narrow end to narrow end.; Roll a sheet of paper into a tube and slip the cup inside it, so the outside is the same width all along.
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Sit the teddy three steps from the slope. Roll one cup to show how it curves.  
-  *Parent says:* The cup curves away from Teddy. Why does it curve? How could you make it go straight?  
+  *Parent says:* The cup curves away from the teddy. Why does it curve? How could you make it go straight?  
   *Child mode:* The cup curves. How can you make it go straight?
   - Ask: What makes the cup curve? (good: One end is big and one is small.; The wide end goes further.)
 - **s2 (9 min)**  
@@ -407,9 +414,9 @@ Ammamma clapped, and Tara wrote it in her science book.
 ### Roll, Bounce or Spin? (core) (core, 10 questions)
 1. (sort) Will it roll or stay still on a slope? A grown-up reads each one. Circle the rollers in red and the stay-stills in blue.  
    **Answer:** A ball → Rolls; A book → Stays still; An orange → Rolls; A matchbox → Stays still; A bottle on its side → Rolls; A flat eraser → Stays still. *Why:* Round things roll. Things with flat sides stay still, or slide if the slope is steep. A strong answer says round or flat.
-2. (mcq) Divya rolls a paper cup on the floor. Which way does it go?  
-   Options: Round in a curve / Straight ahead / It does not roll at all  
-   **Answer:** Round in a curve. *Why:* The cup's wide end goes further on each turn than its narrow end, so the cup turns round.
+2. (mcq) A toy cart has one big wheel and one small wheel on the same bar. Which way does it go when you push it?  
+   Options: Round in a curve / Straight ahead / It does not move at all  
+   **Answer:** Round in a curve. *Why:* The big wheel goes further on each turn than the small one, so the cart turns, just as the paper cup does.
 3. (draw) Draw a toy that rolls. Colour the round parts that touch the ground.  
    **Answer:** A toy with round parts touching the ground, such as a car with wheels or a ball.. *Why:* A strong drawing shows that the parts touching the ground are round.
 4. (match) Draw a line from each toy to how it moves.  
@@ -419,34 +426,35 @@ Ammamma clapped, and Tara wrote it in her science book.
 6. (odd) Three of these roll. Which one does not?  
    Options: A ball / A bangle on its edge / An orange / A book  
    **Answer:** 3. *Why:* The book has flat sides, so it does not roll. The ball, the bangle and the orange are round where they touch the ground.
-7. (write) Say out loud, and a grown-up writes it down: why did the box stay on the slope, while the bottle rolled down?  
+7. (write) A box and a bottle are put at the top of the same slope. Say why the bottle can roll and the box cannot. Say it out loud and a grown-up writes it.  
    **Answer:** The box has flat sides. The bottle is round, so it can turn over and over.. *Why:* A strong answer says the bottle is round and the box is flat.
-8. (perspective) Lakshmi and her brother Farhan watched the paper cup curve round on the floor.  
-   **Answer:** A strong answer picks a side and gives a reason. For Lakshmi: the bottle rolled straight on the same floor, so the shape made the difference. For Farhan: the floor's grip holds the two ends as they roll. On a very slippery floor the cup would slide, not roll.. *Why:* Both children see something true. The shape decides which way the cup turns, and the floor's grip, called friction, is what lets it roll at all.
+8. (perspective) Lakshmi and her friend Zainab watched the paper cup curve round on the floor.  
+   **Answer:** A strong answer picks a side and gives a reason. For Lakshmi: the bottle rolled straight on the same floor, so the shape made the difference. For Zainab: the floor's grip holds the two ends as they roll. On a very slippery floor the cup would slide, not roll.. *Why:* Both children see something true. The shape decides which way the cup turns, and the floor's grip, called friction, is what lets it roll at all.
 9. (label) Look at the toy car with its inside showing. A grown-up points to each part. Say what it is, and the grown-up writes it.  
    **Answer:** ['wheels', 'spring', 'key']. *Why:* Turning the key winds the spring. The spring unwinds and turns the wheels, and the round wheels roll.
 10. (mcq) Why does a wind-up toy stop after a while?  
    Options: Its spring has unwound all the way / Its wheels fall off / It runs out of air  
    **Answer:** Its spring has unwound all the way. *Why:* The toy moves only while the spring unwinds. When the spring has given back all your winding, the toy stops. Wind it again to go again.
 ### How Toys Move (stretch) (stretch, 10 questions)
-1. (mcq) Meenakshi drops a ball from the top of her head. How high will it bounce back?  
-   Options: Lower than her head / Higher than her head / Exactly to the top of her head  
-   **Answer:** Lower than her head. *Why:* A dropped ball never bounces back as high as it fell from. Some of its movement turns into the sound of the bounce.
-2. (write) Say out loud, and a grown-up writes it: the heavy book was hard to push. Then it sat on round pencils. Why was it easy to push then?  
+1. (mcq) A child drops a ball once on a soft pillow and once on hard tiles. Where does it bounce higher?  
+   Options: On the hard tiles / On the soft pillow / Just the same  
+   **Answer:** On the hard tiles. *Why:* A hard floor sends the ball back up. A soft pillow squashes and does not push back, so the ball hardly bounces.
+2. (write) A heavy book was hard to push. Then it sat on round pencils, and it was easy to push. Why? Say it out loud and a grown-up writes it.  
    **Answer:** The pencils are round, so they rolled, and the book rode along on top.. *Why:* A strong answer says the pencils rolled because they are round.
-3. (order) Put the twisting sock in order, from first to last.  
+3. (order) Put the twisting sock in order, from first to last. A grown-up reads each one.  
    **Answer:** ['Twist the sock ten times', 'Let go of the sock', 'The sock spins fast', 'The sock slows down and stops']. *Why:* First the twist stores your push in the string. When you let go, the string untwists and spins the sock, until the twist is used up.
 4. (draw) Draw the path a bottle makes when it rolls on the floor. Then draw the path a paper cup makes.  
    **Answer:** A straight line for the bottle and a curved line, part of a circle, for the cup.. *Why:* A strong drawing shows the bottle going straight and the cup curving round.
-5. (truefalse) A top can stand on its point when it is not spinning.  
-   **Answer:** False. *Why:* False. A still top falls over at once. It stands on its point only while it spins.
+5. (mcq) A top spins for longer on a smooth plate than on a rough mat. Why?  
+   Options: There is less rubbing on the plate / The plate is heavier / The mat is colder  
+   **Answer:** There is less rubbing on the plate. *Why:* Rubbing, called friction, slows a spinning top. A smooth plate rubs less than a rough mat, so the top spins for longer.
 6. (sort) Which ones bounce well, and which hardly bounce? A grown-up reads each one. Put a tick for bounces well and a cross for hardly bounces.  
    **Answer:** A rubber ball → Bounces well; A ball of wet atta dough → Hardly bounces; A tennis ball → Bounces well; A rolled-up sock → Hardly bounces; A crumpled paper ball → Hardly bounces. *Why:* A ball bounces well if it springs back into shape after it squashes. Dough and socks squash and stay soft, so they hardly bounce.
-7. (perspective) Divya and Arjun are watching a top spin on a steel plate in Hyderabad.  
-   **Answer:** A strong answer picks a side and gives a reason. For Divya: the same top with the same point fell over when it was still, so the spin is what holds it up. For Arjun: a sharp, smooth point rubs less on the plate, so the top keeps spinning longer.. *Why:* Divya has the main reason: spinning keeps a top up. Arjun is right that the point matters, because a point that rubs less lets the top spin for longer.
-8. (mcq) Kavya twists the string twenty times instead of ten. What will the sock do when she lets go?  
-   Options: Spin for longer / Spin for less time / Not spin at all  
-   **Answer:** Spin for longer. *Why:* More twists store more of her push in the string. So the sock spins for longer as it untwists.
+7. (perspective) Divya and Zeenat are watching a top spin on a steel plate in Hyderabad.  
+   **Answer:** A strong answer picks a side and gives a reason. For Divya: the same top with the same point fell over when it was still, so the spin is what holds it up. For Zeenat: a sharp, smooth point rubs less on the plate, so the top keeps spinning longer.. *Why:* Divya has the main reason: spinning keeps a top up. Zeenat is right that the point matters, because a point that rubs less lets the top spin for longer.
+8. (mcq) Which of these gets its push from a spring inside?  
+   Options: A wind-up toy car / A football on the grass / A book on a slope  
+   **Answer:** A wind-up toy car. *Why:* Turning the key winds a spring inside the car. The spring unwinds and turns the wheels.
 9. (label) Look at the three pictures of a bouncing ball. A grown-up points to each picture. Say what is happening, and the grown-up writes it.  
    **Answer:** ['falling', 'squashing', 'springing back up']. *Why:* A bounce has three parts: the fall, the squash, and the spring back that sends the ball up.
 10. (write) Think of a new toy that rolls, bounces or spins. Say what it looks like and what push or pull starts it moving. A grown-up writes it down.  
@@ -461,7 +469,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 1. (mcq) Which of these will roll down a slope?  
    Options: A round bottle on its side / A book / A matchbox  
    **Answer:** A round bottle on its side. *Why:* The bottle is round where it touches the slope, so it rolls. The book and the box have flat sides.
-2. (mcq) Anjali lets go of a box at the top of a gentle slope. What will it most likely do?  
+2. (mcq) A girl lets go of a box at the top of a gentle slope. What will it most likely do?  
    Options: Stay still / Roll down / Bounce  
    **Answer:** Stay still. *Why:* A box has flat sides, so on a gentle slope it stays still. On a steep slope it may slide.
 3. (mcq) A paper cup rolls on the floor. Why does it curve round?  
@@ -473,21 +481,21 @@ Ammamma clapped, and Tara wrote it in her science book.
 5. (mcq) What happens to a rubber ball when it hits the floor?  
    Options: It squashes a little, then springs back / It stays perfectly round / It gets bigger  
    **Answer:** It squashes a little, then springs back. *Why:* A ball squashes for a moment and springs back into shape. That spring back sends it up.
-6. (mcq) Farhan drops a ball from his shoulder and from his knee. Which drop gives the higher bounce?  
-   Options: From his shoulder / From his knee / Both the same  
-   **Answer:** From his shoulder. *Why:* A ball dropped from higher up bounces higher, though never as high as it fell from.
+6. (mcq) A ball is dropped and bounces three times. How does each bounce compare with the one before?  
+   Options: Lower / Higher / The same  
+   **Answer:** Lower. *Why:* A ball loses some movement on each bounce, to sound and warmth. So each bounce is lower, until the ball stops.
 7. (mcq) When can a top stand up on its point?  
    Options: While it spins / When it is still / Only on a carpet  
-   **Answer:** While it spins. *Why:* A spinning top keeps its middle line pointing the same way. When it stops spinning, it falls over.
+   **Answer:** While it spins. *Why:* A spinning top stands up on its point. When it stops spinning, it falls over.
 8. (mcq) Why does a spinning top slow down and fall in the end?  
-   Options: Its point rubs on the floor / It gets bored / The air holds it down  
+   Options: Its point rubs on the floor / It gets heavier / The air holds it down  
    **Answer:** Its point rubs on the floor. *Why:* Rubbing at the point, called friction, slowly uses up the spin. Then the top wobbles and falls.
 9. (mcq) What is inside a wind-up toy that keeps your winding?  
    Options: A spring / Water / A magnet  
    **Answer:** A spring. *Why:* Turning the key winds a metal spring tight. The spring unwinds and turns the wheels.
-10. (mcq) Nandini's toy car is still on the floor. What will start it moving?  
-   Options: A push or a pull / Waiting / Clapping  
-   **Answer:** A push or a pull. *Why:* Every toy starts moving with a push or a pull, from a hand, a foot, a slope or a spring.
+10. (mcq) A ball rolls down a slope and nobody pushes it. What started it moving?  
+   Options: The slope / Its colour / Nothing at all  
+   **Answer:** The slope. *Why:* The slope started it. Every toy starts moving with a push or a pull, from a hand, a foot, a slope or a spring.
 
 ## Applications
 - Every car, bus, auto and cycle rolls on round wheels.
@@ -498,7 +506,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 
 ## Spotted around us
 - Wooden tops and rolling toys for sale at a fair in Channapatna, Karnataka.
-- Children in Madurai playing with a string top, a bambaram, on a flat terrace.
+- Children in Madurai playing with a string top, a pambaram, on a flat terrace.
 - A potter in Khurja or Kumartuli spinning a wheel to shape a clay pot.
 - A child rolling an old cycle tyre along a lane with a stick in a Goa village.
 - The giant wheel at a Durga Puja mela in Kolkata, spinning round its middle.
@@ -519,18 +527,17 @@ Ammamma clapped, and Tara wrote it in her science book.
 ## Jokes
 - Why did the ball go to the doctor? *It was feeling a bit flat!*
 - What did the top say when it got dizzy? *I'm in a spin!*
-- Why did the book stay at the top of the slope? *It had no wheel reason to roll!*
 - What did the paper cup say to the bottle? *You go straight. I'll come round later!*
-- Why was the wind-up car always calm? *It never got too wound up for long!*
-- What is a bouncy ball's favourite dance? *The hop!*
 - Why did the wheel win the race? *It was on a roll!*
 - What did the floor say to the bouncing ball? *Stop dropping in so often!*
-- Why did the top fall asleep? *It had been spinning all day!*
+- Why did the wind-up toy win a prize? *It was full of spring!*
+- Why was the top so good at parties? *It always knew how to spin a story!*
+- Why did the ball go to school? *To get a little more well-rounded!*
 
 ## Connected maths
-- In the slope test, Kavya tried 8 things. 3 of them rolled. How many did not roll? **5 did not roll.**. Start at 8 and take away the 3 that rolled: 7, 6, 5. So 5 things did not roll. (queues `math.addition-subtraction.meaning.L1`)
+- In the slope test, a girl tried 8 things. 3 of them rolled. How many did not roll? **5 did not roll.**. Start at 8 and take away the 3 that rolled: 7, 6, 5. So 5 things did not roll. (queues `math.addition-subtraction.meaning.L1`)
 - Which of these shapes will roll: a ball, a cube like a dice, or a tin can on its side? Which will not? **The ball and the tin can roll. The cube does not.**. A ball is a sphere, round all over, so it rolls any way. A tin can is a cylinder, round on its curved side, so it rolls on that side. A cube has only flat faces, so it does not roll. (queues `math.shapes-3d.solid-shapes.L1`)
-- Lakshmi coloured her top red, yellow, red, yellow, red, and stopped. What colour comes next? **Yellow.**. The colours go red, yellow, red, yellow, so after red comes yellow. (queues `math.patterns.repeating-patterns.L1`)
+- A girl colours the card circle of a top in stripes: red, yellow, red, yellow, red, and she stops. What colour comes next? **Yellow.**. The colours go red, yellow, red, yellow, red, so after red comes yellow. (queues `math.patterns.repeating-patterns.L1`)
 
 ## Song
 Push It, Pull It (sci.forces.L1): Topic-level song for Forces and movement L1

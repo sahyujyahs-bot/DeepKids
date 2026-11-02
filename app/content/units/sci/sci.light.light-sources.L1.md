@@ -22,34 +22,34 @@
 ### A light source makes its own light · *defined*
 **Definition:** A light source is a thing that makes its own light. The Sun, fires, lamps, torches, screens, lightning and fireflies are light sources.
 
-In the dark room test, you could see the torch only when it was switched on. You could see the phone only when its screen was on. You could see the diya only when its flame was lit. These things make their own light, so you can see them even in the dark. Scientists call them light sources. Some light sources are made by nature, like the Sun and lightning. Some are made by people, like lamps and torches. Some are alive: a firefly makes their own light inside their body.
+In the dark room test, you could see the torch only when it was switched on, and the phone only when its screen was on. These things make their own light, so you can see them even in the dark. Some light sources are made by nature, like the Sun and lightning. Some are made by people, like lamps and torches. Some are alive: a firefly makes light inside their body.
 - e.g. In the dark room test, the torch shone the moment it was switched on.
 - e.g. A diya flame lights up a dark room in a power cut.
 - e.g. A firefly flashes their light to find other fireflies at night.
 ### Shiny things only send back light · *defined*
 **Definition:** A shiny thing, like a steel spoon or a mirror, makes no light of its own. It looks bright only when light from a light source falls on it.
 
-In a bright room, the steel spoon and the mirror looked very bright. Many children guess they make light. But in the dark room, you could not see them at all. When you pointed the torch at the spoon, it shone again. When you pointed the torch away, the spoon vanished. The spoon was only sending back the torch's light. So a shiny thing is not a light source. It needs light from somewhere else.
+In a bright room, the steel spoon and the mirror look very bright. Many children guess they make light. But in the dark room, you could not see them at all. When you pointed the torch at the spoon, it shone again. When you pointed the torch away, it vanished. The spoon was only sending back the torch's light.
 - e.g. In the dark room test, the spoon vanished until the torch shone on it.
 - e.g. A steel tumbler shines next to a lamp, and goes dark when the lamp is taken away.
 - e.g. A mirror in a dark cupboard shows nothing.
 ### A lamp makes light only while it is working · *defined*
 **Definition:** A lamp or a torch does not keep light inside it. It makes new light every moment, as long as it has oil, cells or electricity.
 
-When you switched the torch off, the dark came back at once. No light leaked out afterwards. The torch had not kept any light inside. It made new light only while it was switched on. A torch needs cells (people often call them batteries). A tube light needs electricity from the wires. A diya needs oil and a wick, and when the oil runs out, the flame goes out. Every light source needs something to keep it going.
+When you switched the torch off, the dark came back at once. The torch had not kept any light inside. It makes new light only while it is switched on. A torch needs cells (people often call them batteries). A tube light needs electricity from the wires. A diya needs oil and a wick.
 - e.g. In the dark room test, the dark came back the moment the torch was switched off.
 - e.g. In a power cut, every tube light goes dark at the same moment.
 - e.g. A diya goes out when all its oil is used up.
 ### The Sun is a star, and our biggest light source · *defined*
 **Definition:** The Sun is a star: a huge ball of very hot gas that makes its own light. Almost all the light on Earth in the day comes from the Sun.
 
-The Sun is so big that more than a million Earths could fit inside it. It is very far away, so its light takes about 8 minutes to reach us. The Sun never switches off. At night, our side of the Earth is turned away from the Sun, so it is dark. The Sun is so bright that it can hurt your eyes. Never look straight at the Sun, not even for a moment, and never through glasses, a phone camera or binoculars.
+The Sun is so big that more than a million Earths could fit inside it. It is very far away, and its light takes about 8 minutes to reach us. The Sun never switches off. At night, our side of the Earth is turned away from it, so it is dark. Never look straight at the Sun, not even for a moment. Sunglasses and binoculars do not make it safe.
 - e.g. Sunlight coming through a window lights up the whole room in the day.
 - e.g. Plants use sunlight to make their food.
 - e.g. On a cloudy day, the Sun is still shining above the clouds.
 
 ## Mostly agreed
-- A light source makes its own light. *How we know:* Anyone can test it in a dark room. A torch, a phone screen and a flame can be seen in the dark. A spoon, a mirror and a book cannot.
+- A light source makes its own light. *How we know:* Anyone can test it in a dark room. A torch and a phone screen can be seen in the dark. A spoon, a mirror and a book cannot.
 - We see things that are not light sources only when light falls on them. *How we know:* In the dark room, the spoon could be seen only while the torch was pointed at it.
 - The Sun is a star, made mostly of hydrogen gas. *How we know:* In 1925, Cecilia Payne worked this out from the light of the Sun and other stars, using a rule made by the Indian scientist Meghnad Saha.
 
@@ -68,15 +68,15 @@ The Sun is so big that more than a million Earths could fit inside it. It is ver
 ## Roots
 We have tested which things shine in the dark, and switched a torch on and off. Now we ask what that tells us about light, about ourselves and about the world.
 
-**Deep truth.** In the dark room, the torch lit things only while it was switched on. The moment you switched it off, the dark came back. A lamp does not hold light inside, like water in a pot. It makes new light every moment, as long as it has oil, cells or electricity.  
+**Deep truth.** In the dark room, the torch lit things only while it was switched on. The dark came back the moment it went off. So the torch makes new light every moment. Every lamp needs oil, cells or electricity to keep making it.  
 *Habit it breaks:* We talk about light as if it fills a room and stays there, like water in a tank. The torch test shows a room has light only while a light source keeps making it.  
-*Evidence:* In the dark room test, the dark came back the instant the torch went off, and the instant the diya was blown out. In the story, Meenu sees that the tube light makes brand-new light after the power cut.
+*Evidence:* In the dark room test, the dark came back the instant the torch went off. When a grown-up blew out the diya, its light was gone at once too.
 
-- *who am i:* You are someone who sees by light. Every time you see your mother's face, light from a light source has bounced off her face into your eyes.
+- *who am i:* You are someone who sees by light. Every time you see a face you love, light from a light source has bounced off that face into your eyes.
 - *what is life:* Almost all life on Earth runs on the Sun's light. Plants catch sunlight to make food, and humans and other animals eat the plants.
 - *what is this world:* The world is full of light sources, from the Sun and the stars to flames, lamps and fireflies. Each one keeps making new light while it shines.
 
-The Sun is one light source, and many lights come from it. Sesame and coconut plants catch sunlight and store some of that energy in oil. When the oil burns in a diya, that energy comes out again as light and heat. So the one Sun shows up again in a flame, in a lamp's oil and in the food we eat. Everything is aware in its own way, the Sun and a flame too. Many scientists disagree: they say only living beings with nerves are aware.
+Sesame and coconut plants catch sunlight and store some of that energy in oil. When the oil burns in a diya, that energy comes out again as light and heat. So the light of a diya began as sunlight, caught by a plant. Everything is aware in its own way, the Sun and a flame too. Many scientists disagree: they say only living beings with nerves are aware.
 
 - **Heraclitus, fragment 6 (Greece, about 500 BCE):** The Sun is new each day. (Like the torch in the dark room, the Sun keeps making new light. The sunlight on your face this morning left the Sun only about 8 minutes before, not yesterday.)
 - **Brihadaranyaka Upanishad 1.3.28:** Lead me from darkness to light. (In the dark room, a light source led you from darkness to light. You could see your hand only when the torch was making light.)
@@ -160,107 +160,101 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - Ask: Meenu said the tube light was making brand-new light. What did she mean?
 
 ## Games
-### g1 · Light Maker or Not? A card sorting game (10 min)
-- **rules:** Mix the 16 cards and put them in a pile, face down.; Make two places on the floor: a sunny yellow paper for LIGHT SOURCE, and a dark paper for NOT A LIGHT SOURCE.; Take the top card. A grown-up reads it out.; Put it on the yellow paper or the dark paper, and say why.; Turn the card over. A grown-up reads the back. If you were right, keep the card.; Cards that say NOT NOW go in a middle pile. Ask: what would make this one a light source?
+### g1 · Yellow Paper, Dark Paper: a card sorting game (10 min)
+- **rules:** Mix the 16 cards and put them in a pile, face down.; Lay three papers on the floor: a yellow paper for LIGHT SOURCE, a dark paper for NOT A LIGHT SOURCE, and a white paper for NOT NOW (a thing that could make light but is not making it right now).; Take turns, the youngest first. On your turn, take the top card. A grown-up reads the front out loud.; Put the card on the paper you think is right, and say why.; The grown-up turns the card over and reads the back. If you were right, leave the card face up on its paper. If you were wrong, move it to the right paper and turn it face down.; When all 16 cards are sorted, count the cards that are face up. The team wins if 12 or more of the 16 are face up. Play again to beat your score.; Look at the cards on the NOT NOW paper. For each one, ask: what would make this one a light source?
 - **Printable cards: 16 light cards:** The Sun (back: LIGHT SOURCE. The Sun is a star. It makes its own light.); A diya flame (back: LIGHT SOURCE. The flame makes light as it burns oil.); A torch, switched on (back: LIGHT SOURCE. It makes light while its cells send electricity.); A torch, switched off (back: NOT NOW. A switched-off torch makes no light.); A tube light, switched on (back: LIGHT SOURCE. It makes light while electricity flows.); A firefly at night (back: LIGHT SOURCE. A firefly makes their own light inside their body.); Lightning in a storm (back: LIGHT SOURCE. Lightning is a giant spark that makes light.); A phone screen, switched on (back: LIGHT SOURCE. The screen makes its own light.); A campfire (back: LIGHT SOURCE. Burning wood makes light and heat.); A steel spoon (back: NOT A LIGHT SOURCE. It only shines when light falls on it.); A mirror (back: NOT A LIGHT SOURCE. It only sends back light from somewhere else.); A shiny gold bangle (back: NOT A LIGHT SOURCE. In the dark, you cannot see it.); A white page of a book (back: NOT A LIGHT SOURCE. You need a light to read it.); An unlit candle (back: NOT NOW. It will make light only when it is lit.); A glass of water (back: NOT A LIGHT SOURCE. Light can pass through it, but it makes none.); A star in the night sky (back: LIGHT SOURCE. Every star makes its own light, like our Sun.)
 - **s1 (1 min)**  
-  *Parent does:* Lay out the yellow paper and the dark paper. Read the rules together.  
-  *Parent says:* Yellow is for things that make their own light. Dark is for things that don't. Let's sort the cards.  
-  *Child mode:* Yellow: makes light. Dark: makes no light. Let's sort.
+  *Parent does:* Lay out the yellow, dark and white papers. Read the rules together.  
+  *Parent says:* Yellow is for things that make their own light. Dark is for things that don't. White is for things that could, but are not making light right now. Let's sort the cards.  
+  *Child mode:* Yellow: makes light. Dark: makes no light. White: not now. Let's sort.
 - **s2 (7 min)**  
-  *Parent does:* Play through all 16 cards. Read each card's front, wait for your child's choice and reason, then read the back.  
-  *Parent says:* A shiny gold bangle. Yellow or dark? Why? Let's turn it over and see.  
-  *Child mode:* Read the card. Yellow or dark? Why? Turn it over.
+  *Parent does:* Play through all 16 cards, taking turns. Read each card's front, wait for the player's choice and reason, then read the back.  
+  *Parent says:* A shiny gold bangle. Yellow, dark or white? Why? Let's turn it over and see.  
+  *Child mode:* Read the card. Yellow, dark or white? Why? Turn it over.
   - Note: The shiny cards (the spoon, the mirror and the bangle) are the tricky ones. Remind your child of the dark room test if they have done it.
 - **s3 (2 min)**  
-  *Parent does:* Look at the middle pile of NOT NOW cards. Ask what would make each one a light source.  
+  *Parent does:* Count the face-up cards. Then look at the cards on the white NOT NOW paper and ask what would make each one a light source.  
   *Parent says:* The torch is switched off, and the candle is not lit. What would make them light sources?  
   *Child mode:* What would make the torch and the candle shine?
-  - Check: Nisha says a mirror is a light source because it shines. Is she right? → **No, a mirror only sends back light from somewhere else**
+  - Check: Nisha, a girl in your class, says a mirror is a light source because it shines. Is she right? → **No, a mirror only sends back light from somewhere else**
 ### g2 · Torch On, Torch Off: a moving game (8 min)
-- **rules:** Mix the 10 caller cards. The caller holds them.; The caller reads the front of a card out loud. A grown-up reads for a caller who cannot read yet.; Everyone does the move as fast as they can. The back of the card says the move.; The caller reads the back, so everyone can check.; Anyone who did the right move gets a point. Swap callers after all 10 cards.
-- **Printable cards: 10 caller cards:** Torch on! (back: Open both hands wide. Light is coming out.); Torch off! (back: Close both hands into fists. The light stops at once.); The diya is lit! (back: Wave your fingers up like a flame.); Blow out the diya! (back: Blow, then fists. The light is gone.); The Sun rises! (back: Stand up tall and make a big circle with your arms.); Night time! (back: Turn your back. The Sun still shines on the other side of the Earth.); A firefly flashes! (back: Open and close one hand, quick as a blink.); Power cut! (back: Everyone freezes with fists closed. Every tube light goes dark.); The power is back! (back: Open your hands wide. New light again!); A steel spoon! (back: Stand still. A spoon makes no light. Wait for a light to shine on you.)
+- **rules:** Mix the 10 caller cards. The caller holds them.; The caller reads the front of a card out loud. A grown-up reads for a caller who cannot read yet.; The caller and everyone else do the move on the front as fast as they can.; The caller asks: why? A player who can say why the light does that gets one point.; The caller reads the back, so everyone knows the answer.; After Night time, turn round to face the caller again before the next card.; After all 10 cards, the player with the most points wins. If only one child plays, try to get 7 points or more out of 10. Swap callers and play again if you like.
+- **Printable cards: 10 caller cards:** Torch on! Open both hands wide. (back: Light is coming out.); Torch off! Close both hands into fists. (back: The light stops at once.); The diya is lit! Wave your fingers up like a flame. (back: A diya flame makes light while it burns.); Blow out the diya! Blow, then make fists. (back: The light is gone.); The Sun rises! Stand tall and make a big circle with your arms. (back: The Sun is a star and makes its own light.); Night time! Turn your back. (back: The Sun still shines on the other side of the Earth.); A firefly flashes! Open and close one hand, quick as a blink. (back: A firefly makes light inside their body.); Power cut! Freeze with your fists closed. (back: Every tube light goes dark.); The power is back! Open your hands wide. (back: The tube lights make new light again.); A steel spoon! Stand still. (back: A spoon makes no light. It waits for a light to shine on it.)
 - **s1 (2 min)**  
   *Parent does:* Practise the moves for 'Torch on' and 'Torch off' together.  
   *Parent says:* Torch on: open your hands wide, light is coming out. Torch off: fists, quick! The light stops at once.  
   *Child mode:* Torch on: hands wide open. Torch off: fists, fast!
 - **s2 (5 min)**  
-  *Parent does:* Play all 10 cards. After 'Night time', ask where the Sun is.  
+  *Parent does:* Play all 10 cards. After each move, ask 'why?' before you read the back. After 'Night time', ask where the Sun is.  
   *Parent says:* Night time! Turn your back. Is the Sun still shining? Where?  
   *Child mode:* Do each move. Is the Sun still shining at night?
   - Ask: Where is the Sun at night? (good: Still shining, on the other side of the Earth.; Our side has turned away from it.)
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* When you closed your fists for 'Torch off', how fast did the light stop?  
-  *Child mode:* Torch off. How fast does the light stop?
-  - Check: Faiz switches off a torch in a dark room. What happens to the light? → **It stops at once**
+  *Parent says:* When the power comes back, what do the tube lights have to do? What do they need?  
+  *Child mode:* The power is back! What do tube lights need to shine?
+  - Check: Faiz plays 'Power cut!'. The tube light goes dark. What does it need to shine again? → **Electricity from the wires**
 
 ## Experiments
-### e1 · Light Maker or Not? The dark room test (22 min)
+### e1 · Light Maker or Not? The dark room test (15 min)
 - **question:** Which of these things make their own light, and which only look bright?
 - **predict:** Look at each thing in the basket. Will you be able to see it in the dark room? Why do you think so?
 - **fair test:** We use the same dark room for every thing. We wait one whole minute in the dark before we start, so our eyes get used to it. We hold each thing in the same place, an arm's length in front of us.
-- **safety:** Only a grown-up lights, holds and blows out the diya or candle. Keep it on a steel plate, and keep hair, dupattas and paper away from the flame. Walk slowly in the dark room, holding a grown-up's hand.
 - **record:** Draw two big circles. In one, draw the things you could see in the dark. In the other, draw the things that vanished. A grown-up writes the names.
 - **results table:** Thing | My guess: will I see it in the dark? | What happened in the dark
-- **s1 (3 min)**  
+- **s1 (2 min)**  
   *Parent does:* 1. In a bright room, put all the things on the tray. 2. Let your child hold and name each one. 3. Switch the torch and the phone screen on and off once.  
   *Parent says:* Here are some things from our home. Let's name them. Which ones look bright to you?  
   *Child mode:* Hold each thing. Say its name. Which ones look bright?
 - **s2 (3 min)**  
-  *Parent does:* Ask your child to sort the things into two piles: 'will shine in the dark' and 'will vanish in the dark'. Write or draw the guesses in the table.  
+  *Parent does:* Ask your child to sort the things into two piles: 'will shine in the dark' and 'will vanish in the dark'. You write or draw their guesses in the table.  
   *Parent says:* Soon we will go into a dark room. Which things will you still be able to see there? Put them in this pile. Why do you think so?  
   *Child mode:* Which things will you see in the dark? Make a pile. Why?
   - Ask: Why did you put the spoon in that pile? (good: It is shiny, so it will shine.; It has no light of its own, so it will vanish.)
   - Note: Any guess is fine. Many children put the spoon, the mirror and the bangle in the 'will shine' pile, because they look so bright. Don't say what will happen.
-- **s3 (3 min)**  
+- **s3 (2 min)**  
   *Parent does:* 1. Take the tray into the darkest room you have, such as a bathroom with no window. 2. Close the door and switch off the light. 3. Wait one whole minute. 4. Ask your child to hold up a hand.  
   *Parent says:* Let's wait for one minute, so our eyes get used to the dark. Now hold up your hand. Can you see it?  
   *Child mode:* Wait in the dark. Count to sixty with me. Can you see your hand?
   - Note: Do this after dark if you can. If some light comes under the door, put a towel along the gap. A little light is fine: things will look dim instead of vanishing, and you can still compare them.
-- **s4 (4 min)**  
+- **s4 (3 min)**  
   *Parent does:* 1. Hand your child the spoon, the mirror, the bangle, the paper and the switched-off torch, one at a time. 2. Each time, ask if they can see it. 3. Then ask them to switch the phone screen on.  
   *Parent says:* Hold up the spoon. Can you see it? Now the mirror. Now the bangle. Now the torch, switched off. Now switch on the phone screen. What happens?  
   *Child mode:* Hold up each thing. Can you see it? Now switch on the phone.
   - Ask: Which things could you see? (good: Only the phone, when its screen was on.; I could not see the spoon or the mirror.)
-- **s5 (4 min)**  
+- **s5 (3 min)**  
   *Parent does:* 1. Your child switches the torch on and points it at the ceiling. 2. Then off, and on again, three times. 3. Then they shine it on the spoon, and then point it away from the spoon.  
   *Parent says:* Switch the torch on. Now off. Is any light left? Now shine it on the spoon. Now point it away. What happens to the spoon?  
   *Child mode:* Switch the torch on and off. Shine it on the spoon. Now point it away.
   - Ask: What happened when you switched the torch off? (good: It went dark straight away.; No light was left.)
   - Ask: What did the spoon do? (good: It shone when the torch was on it.; It went dark when I pointed the torch away.)
   - Note: Look for two things. The dark comes back the instant the torch goes off. And the spoon shines only while the torch beam is on it.
-- **s6 (3 min) · grown-up needed**  
-  *Parent does:* 1. You light the diya or candle on its steel plate, and hold it. 2. Your child looks from an arm's length away. 3. After a short look, you blow it out.  
-  *Parent says:* Watch. I am lighting the diya. Can you see the flame? Can you see the things near it? Now I will blow it out. What happens?  
-  *Child mode:* Watch the grown-up light the diya. Stay an arm's length away. What happens when it is blown out?
-  - Note: The flame lights up the whole room. When it is blown out, the room goes dark at once. The wick may glow red for a second, because it is still very hot. Switch on the room light before you carry anything out.
-- **s7 (2 min)**  
+- **s6 (2 min)**  
   *Parent does:* Back in the bright room, look at the guesses together. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Which things shone in the dark? Which vanished? Were your guesses right? Why do you think the spoon vanished?  
   *Child mode:* Which things shone in the dark? Which vanished? Why?
-  - Ask: What did you find? (good: Only the torch, the phone and the flame shone in the dark.; The spoon only shines when light is on it.; The torch made light only while it was on.)
-  - Check: Lakshmi is in a dark room with a steel spoon and a switched-on torch. Which one can she see without help from the other? → **The torch**
+  - Ask: What did you find? (good: Only the torch and the phone shone in the dark.; The spoon only shines when light is on it.; The torch made light only while it was on.)
+  - Check: Lakshmi is in a dark room with a steel spoon and a torch that is switched on. Which one makes its own light? → **The torch**
 ### e2 · Which Light Shows the Far Wall? (14 min)
 - **question:** Do all light sources give the same amount of light?
-- **predict:** Which will help you see the drawing best: the phone screen, the torch, or the diya? Why do you think so?
+- **predict:** Which will help you see the drawing best: the phone screen or the torch? Why do you think so? (If you do the diya extra, guess for the diya too.)
 - **fair test:** We stand in the same place each time, and hold each light at the same height. We use one light at a time. We look at the same drawing every time.
-- **safety:** Only a grown-up lights, carries and blows out the diya or candle. Keep it on a steel plate, away from curtains and clothes.
+- **safety:** If you do the diya extra, only a grown-up lights, carries and blows out the diya or candle. Keep it on a steel plate, away from curtains and clothes.
 - **record:** Draw the three lights in a row. Next to each one, draw what you could see of the drawing on the wall.
-- **results table:** Light source | My guess: can I see the drawing? | Could I see its colours?
+- **results table:** Light source (phone, torch, and diya if you use it) | My guess: can I see the drawing? | Could I see its colours?
 - **s1 (2 min)**  
   *Parent does:* 1. Stick the drawing on a wall at the far end of a room. 2. Mark a spot to stand at the other end, about four big steps away.  
   *Parent says:* Here is a drawing of a flower and a bird. Soon it will be dark. Which light will help you see it from over here?  
   *Child mode:* Look at the drawing. Soon it will be dark.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess which light will show the drawing best, and which worst. Write the guesses in the table.  
-  *Parent says:* Phone screen, torch or diya: which will show the drawing best? Why do you think so?  
+  *Parent says:* Phone screen or torch: which will show the drawing best? Why do you think so?  
   *Child mode:* Which light will show the drawing best? Why?
   - Ask: Why do you think so? (good: The torch, because it is the brightest.; The diya, because fire is strong.)
   - Note: Any guess is fine. Don't say what will happen.
 - **s3 (6 min) · grown-up needed**  
-  *Parent does:* 1. Switch off the room light and wait one minute. 2. Your child holds up the phone screen, facing the drawing. 3. Then the torch, pointed at the drawing. 4. Then you hold up the lit diya, at the same spot.  
-  *Parent says:* First the phone screen. Can you see the drawing? Can you see its colours? Now the torch. Now the diya.  
+  *Parent does:* 1. Switch off the room light and wait one minute. 2. Your child holds up the phone screen, facing the drawing. 3. Then the torch, pointed at the drawing. 4. Extra, if a grown-up is happy to light a flame: you hold up the lit diya at the same spot.  
+  *Parent says:* First the phone screen. Can you see the drawing? Can you see its colours? Now the torch. (Extra: now the diya.)  
   *Child mode:* Hold up the phone. Can you see the drawing? Now try the torch.
   - Ask: Which light showed the colours best? (good: The torch. I could see the red and the blue.; With the phone, it was too dark.)
   - Note: The torch usually shows the drawing clearly. The phone screen and the diya make much less light, so the drawing looks dim and its colours are hard to see. A bright phone torch works like a torch.
@@ -291,7 +285,6 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
   *Child mode:* Which light made most bright patches today? The Sun or a lamp?
   - Ask: Which light source lit most of the home? (good: The Sun, through the windows.; In the day, mostly the Sun.)
 ### a2 · The Little Lights Hunt at night (10 min)
-- **safety:** Walk slowly in the dark, holding a grown-up's hand. Keep a torch with you, switched off, in case you need it.
 - **record:** Make one tally mark for each little light you find. Draw your favourite one.
 - **s1 (2 min)**  
   *Parent does:* After dark, switch off the fans and big lights in one or two rooms. Wait one minute together.  
@@ -334,23 +327,23 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 
 ## Projects
 ### p1 · The Paper-Cup Star Lantern (25 min, 2 days)
-- **safety:** A grown-up makes the holes. Push the point into the dough under the cup, away from fingers.
+- **safety:** A grown-up makes the holes. Push the point down into the dough inside the cup, away from fingers.
 - **record:** Draw your cup, and draw the spots of light it made on the ceiling.
-- **schedule:** day 1: Draw dots on the cup, then a grown-up pokes a hole through each dot. (15 min); day 2: At night, put the cup over a torch and look at the spots of light. (10 min)
+- **schedule:** day 1: Draw dots on the cup, then a grown-up pokes a hole through each dot. (15 min); day 2: At night, hold the cup over a torch and look at the spots of light. (10 min)
 - **s1 (5 min)**  
-  *Parent does:* Your child draws 10 to 20 dots all over the bottom and sides of the cup. They can make a shape, like a star or a fish.  
-  *Parent says:* Draw dots on the cup. Each dot will become a hole. What shape will you make?  
-  *Child mode:* Draw dots on the cup. You can make a shape.
+  *Parent does:* Your child draws 6 to 10 dots on the flat bottom of the cup, keeping them apart. They can make a shape, like a star or a fish.  
+  *Parent says:* Draw dots on the bottom of the cup. Each dot will become a hole. What shape will you make?  
+  *Child mode:* Draw dots on the cup's bottom. You can make a shape.
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* 1. Put the cup upside down over the lump of dough. 2. Push the pencil point through each dot into the dough. 3. Your child counts the holes.  
+  *Parent does:* 1. Press the ball of dough inside the cup, up under the flat bottom. 2. Hold the cup upside down on the table. 3. Push the pencil point through each dot into the dough. 4. Your child counts the holes.  
   *Parent says:* I will make a hole through each dot. Let's count them. How many spots of light do you think we will see?  
   *Child mode:* Count the holes. How many spots of light will you see?
 - **s3 (8 min)**  
-  *Parent does:* 1. On the next night, switch off the lights. 2. Stand the torch on the floor, switched on, pointing up. 3. Put the cup over it. 4. Lift the cup slowly towards the ceiling, and back down.  
+  *Parent does:* 1. On the next night, switch off the lights. 2. Hold the torch switched on, pointing up. 3. Put the cup over its lit end, like a hat. 4. Slowly lift the torch and cup towards the ceiling, and back down.  
   *Parent says:* Look up! What do you see? How many spots? Where does each spot's light come from?  
   *Child mode:* Look up at the ceiling. Count the spots. Where does the light come from?
   - Ask: Where does the light come from? (good: From the torch, through the holes.; The cup makes no light. The torch does.)
-  - Note: Each hole lets a little torch light out, so each one makes one spot. Lifting the cup makes the spots bigger and dimmer.
+  - Note: Each hole lets a little torch light out, so each one makes one spot. Lifting the torch and cup makes the spots bigger and dimmer. If the cup is too small, hold the torch's lit end just under it.
 - **s4 (2 min)**  
   *Parent does:* Switch the torch off and on. Ask the check question.  
   *Parent says:* Switch the torch off. What happens to the spots? Why?  
@@ -359,7 +352,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 
 ## Challenges
 ### c1 · Read in the Power Cut (12 min)
-- **problem:** Gayatri's grandmother wants to read her a picture book, but the power has gone. How can they light up the page well enough to see the pictures?
+- **problem:** Gayatri and a grown-up want to read a picture book together, but the power has gone. How can they light up the page well enough to see the pictures?
 - **your turn:** Find two ways to light the book. Which way let you see the colours best? Which light source did each way start with?
 - **constraints:** Pretend the room lights and fans do not work.; Only a grown-up may use a flame.; Use only things you already have at home.
 - **general:** Many families keep a torch or an emergency lamp ready for power cuts.; People light a diya or a candle, and keep it on a plate.; Some homes have solar lamps, which store sunlight's energy in the day and give light at night.
@@ -384,49 +377,50 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 ### Light Makers (core) (core, 10 questions)
 1. (sort) A grown-up reads each one. Is it a light source? Colour the light sources yellow. Leave the others white.  
    **Answer:** The Sun → Light source; A steel tumbler → Not a light source; A lit candle → Light source; A mirror → Not a light source; A switched-on torch → Light source; A book → Not a light source. *Why:* A light source makes its own light. The Sun, the lit candle and the switched-on torch do. The tumbler, the mirror and the book only look bright when light falls on them.
-2. (odd) Three of these make their own light. Which one does not? Circle it.  
-   Options: A firefly / A diya flame / A steel spoon / Lightning  
-   **Answer:** 2. *Why:* The steel spoon makes no light. It shines only when light falls on it. The firefly, the flame and the lightning all make their own light.
-3. (match) Draw a line from each light source to what it needs to keep shining.  
+2. (match) Draw a line from each light source to what it needs to keep shining.  
    **Answer:** A diya → Oil; A torch → Cells; A tube light → Electricity from the wires. *Why:* Every lamp needs something to keep making light. A diya burns oil. A torch uses its cells. A tube light uses electricity from the wires.
-4. (mcq) In the dark room test, Meena held up a mirror and a switched-on phone. Which one could she see?  
-   Options: The phone / The mirror / Neither  
-   **Answer:** The phone. *Why:* The phone screen makes its own light, so Meena could see it in the dark. The mirror makes no light, so it vanished.
-5. (truefalse) When you switch off a torch, its light stays in the room for a little while.  
-   **Answer:** False. *Why:* False. In the dark room test, the dark came back the moment the torch was switched off. A torch makes new light only while it is on.
-6. (draw) Draw three light sources you can find in your home. Draw rays coming out of each one.  
+3. (draw) Draw three light sources you can find in your home. Draw rays coming out of each one.  
    **Answer:** Three light sources, such as a tube light, a torch, a phone screen, a diya or the Sun through a window, each with rays.. *Why:* A strong drawing shows things that make their own light, not shiny things like steel or mirrors.
-7. (write) Say out loud, and a grown-up writes it down: why could you not see the steel spoon in the dark room?  
+4. (write) Say out loud, and a grown-up writes it down: why could you not see the steel spoon in the dark room?  
    **Answer:** The spoon makes no light of its own. It shines only when light falls on it, and in the dark there was no light.. *Why:* A strong answer says the spoon is not a light source, and that it needs light from somewhere else to shine.
-8. (perspective) The power has gone at night. Three people in a family have different ideas about which light to use.  
+5. (perspective) The power has gone at night. Three people in one home have different ideas about which light to use.  
    **Answer:** Any choice with a good reason. The diya needs no electricity but has a flame. The torch is bright and safe but its cells run out. The phone is handy but its screen is dim and uses up its charge.. *Why:* A strong answer gives a real reason for its choice, and fairly says what is good about another choice. Each light source needs something different to keep shining.
-9. (label) Look at this room at night. A grown-up points to each thing. Say 'light source' or 'not a light source', and the grown-up writes it.  
+6. (label) Look at this room at night. A grown-up points to each thing. Say 'light source' or 'not a light source', and the grown-up writes it.  
    **Answer:** ['light source', 'not a light source', 'light source', 'not a light source']. *Why:* The tube light and the phone screen make their own light. The steel plate and the window glass make none: they only look bright when light falls on them or passes through.
-10. (count) Look at the street at night. Count the light sources. Write the number.  
-   **Answer:** 5. *Why:* There are 5 light sources: two street lights, a lit window, a scooter's headlight and a star. The scooter's mirror and the steel gate are not light sources, because they only shine with light from somewhere else.
+7. (count) Look at the street at night. Count the light sources. Write the number.  
+   **Answer:** 5. *Why:* There are 5 light sources: two street lights, a lamp over a shop door, a scooter's headlight and a star. The scooter's mirror and the steel gate are not light sources, because they only shine with light from somewhere else.
+8. (truefalse) The Sun is a star, and it is a light source.  
+   **Answer:** True. *Why:* True. The Sun is a huge ball of very hot gas that makes its own light. It is the star nearest to us.
+9. (mcq) In the story, Kiran says his steel tumbler is a lamp. What is the best way to test it?  
+   Options: Take it into a dark room and see if it still shines / Look at it in a sunny room / Ask it to shine  
+   **Answer:** Take it into a dark room and see if it still shines. *Why:* A light source can be seen in the dark. Kiran's tumbler vanished in the dark, so it makes no light of its own.
+10. (mcq) Which of these gives heat as well as light?  
+   Options: A lit candle / A steel spoon / A mirror  
+   **Answer:** A lit candle. *Why:* A flame makes heat and light. The spoon and the mirror make neither.
 ### Light Makers (stretch) (stretch, 10 questions)
-1. (mcq) Arun is in a dark room with a torch that is switched off. What can he see?  
-   Options: Nothing at all / The torch, because it holds light / Everything, but dimly  
-   **Answer:** Nothing at all. *Why:* A switched-off torch makes no light, so Arun sees nothing. He needs to switch it on.
-2. (order) Put these in order, 1 to 4: what happened in the dark room?  
+1. (order) Put these in order, 1 to 4: what happened in the dark room?  
    **Answer:** [1, 2, 3, 4]. *Why:* The room starts dark. The torch makes light, and the spoon shines when the beam falls on it. When the torch is off, no light is made, and the dark comes back.
-3. (truefalse) A diya keeps shining after all its oil is used up.  
-   **Answer:** False. *Why:* False. A diya makes light by burning oil. When the oil is gone, the flame goes out.
-4. (write) Say out loud, and a grown-up writes it down: your torch is getting dimmer and dimmer. What could be wrong? What would you do?  
+2. (write) Say out loud, and a grown-up writes it down: your torch is getting dimmer and dimmer. What could be wrong? What would you do?  
    **Answer:** The cells are running out. I would put new cells in, or charge it.. *Why:* A strong answer says a torch needs energy from its cells to make light, so dim light means the cells are running out.
-5. (draw) In the dark room, you shine the torch on the steel spoon. Draw what you see. Draw the light going from the torch to the spoon.  
+3. (draw) In the dark room, you shine the torch on the steel spoon. Draw what you see. Draw the light going from the torch to the spoon.  
    **Answer:** A torch with a beam, and a spoon shining where the beam lands. The rest is dark.. *Why:* A strong drawing shows the light starting at the torch and landing on the spoon. The spoon shines only where the torch light falls.
-6. (perspective) It is Karthigai Deepam. Two friends talk about how to light up their balcony.  
+4. (perspective) It is Karthigai Deepam. Two friends talk about how to light up their balcony.  
    **Answer:** Either choice, with a good reason. Diyas need no electricity and use oil from plants, but they have flames and make smoke. LED lights are safe and use little electricity, but they need power from the wires.. *Why:* A strong answer gives a reason, and fairly names something good about the other choice. Both are real light sources. Each needs something different to keep shining.
-7. (mcq) Which light source needs no switch, no oil and no cells from us?  
+5. (mcq) Which light source do we never need to switch on or fill up?  
    Options: The Sun / A torch / A tube light  
-   **Answer:** The Sun. *Why:* The Sun makes its own light all the time. Nobody needs to switch it on or fill it up.
-8. (match) Draw a line from each light source to where you would find it.  
+   **Answer:** The Sun. *Why:* The Sun makes its own light all the time. Nobody needs to switch it on, fill it with oil or put cells in it.
+6. (match) Draw a line from each light source to where you would find it.  
    **Answer:** A lighthouse → By the sea, to guide ships; A street light → Beside a road; A firefly → Among trees, at night; Lightning → In a storm cloud. *Why:* Light sources are found in many places. Some are made by people, like lighthouses and street lights. Some are made by nature, like lightning, and some are living beings, like fireflies.
-9. (label) Label the parts of this diya. A grown-up reads the words: flame, wick, oil, clay pot.  
+7. (label) Label the parts of this diya. A grown-up reads the words: flame, wick, oil, clay pot.  
    **Answer:** ['flame', 'wick', 'oil', 'clay pot']. *Why:* The flame makes the light. The wick carries oil up to the flame. The oil is what burns. The clay pot holds the oil.
-10. (write) Rani says: 'In a power cut, the light runs away to the power station.' Say what you would tell her, and a grown-up writes it.  
+8. (write) Rani, a girl in Class 1, says: 'In a power cut, the light runs away to the power station.' Say what you would tell her, and a grown-up writes it.  
    **Answer:** The light does not run away. The tube light stops making light because no electricity comes to it. When the power comes back, it makes new light.. *Why:* A strong answer says a lamp makes light only while electricity reaches it. The light is not stored anywhere waiting to come back.
+9. (mcq) A solar lamp is put in the sun all day. When can it give light?  
+   Options: At night, using the energy it stored in the day / Only while the sun shines on it / Never  
+   **Answer:** At night, using the energy it stored in the day. *Why:* A solar lamp stores energy from sunlight in the day, and uses it to make light at night.
+10. (mcq) Two torches are the same, but one has weak cells and one has fresh cells. Which one lights the far wall better?  
+   Options: The one with fresh cells / The one with weak cells / Both the same  
+   **Answer:** The one with fresh cells. *Why:* A torch makes light from the energy in its cells. Weak cells give less light, so the far wall looks dim.
 
 ## Videos
 - **Fireflies flashing at night in the Western Ghats** (, 2 min) id `to find`: Shows living light sources: fireflies who make their own light and flash to find each other. *Check:* Find a real clip of fireflies at night in India, such as near Bhandardara in Maharashtra, from a nature or news channel. Check it is real footage, not animation.
@@ -443,27 +437,27 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 3. (mcq) Which light source is alive?  
    Options: A firefly / A torch / A tube light  
    **Answer:** A firefly. *Why:* A firefly is a living being who makes their own light inside their body.
-4. (mcq) Divya puts a steel tumbler in a dark cupboard and shuts the door. Will the tumbler shine?  
-   Options: No, it needs light to fall on it / Yes, steel always shines / Yes, but only a little  
-   **Answer:** No, it needs light to fall on it. *Why:* A steel tumbler makes no light. In a dark cupboard, no light falls on it, so it cannot shine.
-5. (mcq) Why does a mirror look bright in a sunny room?  
+4. (mcq) Why does a mirror look bright in a sunny room?  
    Options: It sends back sunlight / It makes its own light / It is hot  
    **Answer:** It sends back sunlight. *Why:* A mirror makes no light. It looks bright because sunlight falls on it and bounces off into our eyes.
-6. (mcq) Kavitha switches off the tube light at night. Why does the room go dark?  
+5. (mcq) Kavitha switches off the tube light at night. Why does the room go dark?  
    Options: The tube light stops making light / The light goes back into the tube / The light runs out of the window  
    **Answer:** The tube light stops making light. *Why:* A tube light makes new light only while electricity flows through it. Switch it off, and it stops making light.
-7. (mcq) What does a torch need to make light?  
+6. (mcq) What does a torch need to make light?  
    Options: Cells that send it electricity / Sunlight on its glass / Water  
    **Answer:** Cells that send it electricity. *Why:* A torch uses the electricity from its cells. When the cells run out, the torch stops shining.
-8. (mcq) What is the Sun?  
+7. (mcq) What is the Sun?  
    Options: A star / A big lamp in the sky / A planet  
    **Answer:** A star. *Why:* The Sun is a star: a huge ball of very hot gas that makes its own light. It is the nearest star to us.
-9. (mcq) Pooja wants to see the Sun better. What should she do?  
-   Options: Never look straight at it / Look at it through sunglasses / Look at it through her phone camera  
-   **Answer:** Never look straight at it. *Why:* The Sun is so bright it can harm your eyes, even through sunglasses or a camera. Never look straight at the Sun.
-10. (mcq) Where is the Sun at night?  
+8. (mcq) Pooja wants to see the Sun better. What should she do?  
+   Options: Never look straight at it / Look at it through sunglasses / Look at it for just one second  
+   **Answer:** Never look straight at it. *Why:* The Sun is so bright it can harm your eyes, even in one second and even through sunglasses. Never look straight at the Sun.
+9. (mcq) Where is the Sun at night?  
    Options: Still shining, on the other side of the Earth / Switched off until morning / Hiding behind the Moon  
    **Answer:** Still shining, on the other side of the Earth. *Why:* The Sun never stops shining. At night, our side of the Earth is turned away from it.
+10. (mcq) Which of these is a light source made by nature?  
+   Options: Lightning / A tube light / A torch  
+   **Answer:** Lightning. *Why:* Lightning is a giant spark in the sky that makes light. A tube light and a torch are made by people.
 
 ## Applications
 - Lighthouses, like the one on Marina Beach in Chennai, shine a bright light at night so that ships can find the coast.
@@ -491,7 +485,6 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - Is the light in the kitchen a light source? What about the steel vessels?
 - What would happen to the plants if the Sun stopped shining?
 - Which light source do you like best? Why?
-- In a power cut, which light would you reach for first?
 - Is a fire in a kitchen stove a light source too?
 
 ## Jokes
@@ -503,10 +496,9 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - What did the torch say to the cells? *I can't shine without you!*
 - Why did the mirror feel shy in the dark? *Nobody could see it!*
 - What do you call a lamp that tells jokes? *A light-hearted lamp!*
-- Why did the tube light stop talking in the power cut? *It had nothing bright to say!*
 
 ## Connected maths
-- In the dark room test, Meena guessed that 5 things would shine. Only 2 really did: the torch and the phone. How many fewer shone than she guessed? **3 fewer.**. Count on from 2 to 5: 3, 4, 5. That is 3. So 3 fewer things shone than Meena guessed. They were the shiny things. (queues `math.addition-subtraction.meaning.L1`)
+- In the dark room test, Meena, a girl in Class 1, guessed that 5 things would shine. Only 2 really did: the torch and the phone. How many fewer shone than she guessed? **3 fewer.**. Count on from 2 to 5: 3, 4, 5. That is 3. So 3 fewer things shone than Meena guessed. The others were shiny things. (queues `math.addition-subtraction.meaning.L1`)
 - On the Little Lights Hunt, Sowmya found 3 tiny lights in the kitchen and 4 in the hall. Which room had more? How many did she find in all? **The hall. 7 in all.**. 4 is more than 3, so the hall had more. 3 and 4 make 7, so Sowmya found 7 little lights in all. (queues `math.data.sorting-and-tallies.L1`)
 - Joseph's star lantern has 6 holes, and it makes 6 spots on the ceiling. He pokes 4 more holes. How many spots will he see now? **10 spots.**. Each hole lets out a little torch light and makes one spot. 6 holes and 4 more holes make 10 holes. So he will see 10 spots. (queues `math.addition-subtraction.word-problems.L1`)
 - For Karthigai Deepam, Anu sets lamps in a row: diya, diya, LED, diya, diya, LED, diya, diya. What comes next? **An LED.**. The pattern is two diyas, then one LED, again and again. After two diyas comes an LED. (queues `math.patterns.repeating-patterns.L1`)

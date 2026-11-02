@@ -16,7 +16,7 @@
 ## Terms
 - **Phototropism**: Phototropism is a plant growing towards light. 'Photo' means light, and 'tropism' means turning. *e.g.* Rai sprouts on a windowsill bend towards the window. That is phototropism.
 - **Shoot**: The shoot is the part of a young plant that grows up out of the seed: the stem and the first leaves. *e.g.* A rai sprout's shoot is a thin white or green stem with two small leaves on top.
-- **Germinate**: A seed germinates when they start to grow. First a tiny root comes out, then a shoot. *e.g.* Rai seeds on wet tissue germinate in one or two days in warm weather.
+- **Germinate**: To germinate is to start growing from a seed. First a tiny root comes out, then a shoot. *e.g.* Rai seeds on wet tissue germinate in one or two days in warm weather.
 - **Soil**: Soil is the top layer of the ground. It is made of tiny bits of rock, bits of dead plants and animals, water and air. *e.g.* The soil in a flower pot holds the plant up and holds water for the roots.
 - **Minerals**: Minerals are tiny bits from rocks that dissolve in water. Plants take them in through their roots to stay healthy. *e.g.* Farmers add manure to a field, because it puts minerals back into the soil.
 
@@ -45,7 +45,7 @@ Air is a mix of gases. Leaves take in carbon dioxide through tiny holes, too sma
 ### Plants need warmth · *defined*
 **Definition:** Plants grow only when it is warm enough for them. Each kind of plant has the warmth they grow best in.
 
-In cold weather, seeds germinate slowly, and plants grow slowly. Frost, which is frozen dew, can kill the leaves of many plants. Too much heat can dry a plant out. Different plants like different warmth. Rice and bananas like hot, wet weather. Mustard and wheat are sown in the cool winter months in the north of India. Apples grow in cold hill places like Himachal Pradesh and Kashmir.
+In cold weather, seeds germinate slowly, and plants grow slowly. Frost is a thin layer of ice that forms on very cold nights. It can kill the leaves of many plants. Too much heat can dry a plant out. Different plants like different warmth. Rice and bananas like hot, wet weather. Mustard and wheat are sown in the cool winter months in the north of India. Apples grow in cold hill places like Himachal Pradesh and Kashmir.
 - e.g. Rai seeds sprout in a day or two in a warm Chennai kitchen. In a cold Delhi winter they can take several days longer.
 - e.g. Mustard fields in Punjab and Rajasthan turn yellow with flowers in winter.
 - e.g. Coconut palms grow along the warm coasts of Kerala and Goa, but not high in the Himalayas.
@@ -54,7 +54,7 @@ In cold weather, seeds germinate slowly, and plants grow slowly. Frost, which is
 
 A seed carries a small store of food inside. So a seed can germinate on wet tissue, with no soil at all. But the store runs out after some days. To keep growing, a plant needs minerals, which come from the soil. Plants do not eat soil. They make their food in their leaves. Farmers can even grow plants with their roots in water, if they add minerals to the water. This is called hydroponics.
 - e.g. Rai seeds sprout on wet tissue as well as in soil.
-- e.g. A money plant can live for months in a bottle of water, getting minerals from the water.
+- e.g. A money plant can live for months in a bottle of water, with no soil.
 - e.g. Some farms in Indian cities grow lettuce in pipes of water with minerals, without soil.
 ### Does a sprout decide to turn? · *debated*
 Scientists agree on what happens. Light falls on one side of the shoot. A messenger chemical called auxin moves to the shady side. There it makes the stem grow faster, so the stem bends. People describe this in different ways.
@@ -64,12 +64,12 @@ Scientists agree on what happens. Light falls on one side of the shoot. A messen
 - **Many other plant scientists:** The bend is a response, set off by light and carried out by auxin. The sprout does the same thing every time, so they do not call it a decision.
 
 ## Mostly agreed
-- Young shoots of most plants grow towards light. *How we know:* Seedlings on a windowsill bend towards the window. Charles and Francis Darwin showed in 1880 that the shoot tip senses the light. Since then, thousands of experiments have shown the same thing.
+- Young shoots of most plants grow towards light. *How we know:* Seedlings on a windowsill bend towards the window. Charles and Francis Darwin showed in 1880 that the shoot tip senses the light. Since then, many experiments have shown the same thing.
 - Plants need light, water, air, a suitable warmth and minerals to grow. *How we know:* A plant missing any one of these grows weak or dies. Farmers and gardeners everywhere see this, and scientists have tested each one.
 - Plants make their food in their leaves. They do not eat soil. *How we know:* A plant grows heavy, yet the soil in the pot hardly gets lighter. Plants grow in water with minerals, with no soil at all.
 
 ## How we found out
-**Charles Darwin and his son Francis Darwin, in England (1880); Frits Went, a Dutch scientist (1926), The Darwins published their tests in 1880, in their book The Power of Movement in Plants. Went's agar test was in 1926..** People had long seen plants bend towards light. Many thought the part of the stem that bends is the part that senses the light. In 1880, Charles Darwin and his son Francis, in England, tested this. They grew canary grass seedlings, which have a thin shoot with a pointed tip. They put tiny black caps over the tips of some shoots, so no light could reach the tips. Those seedlings hardly bent at all. When the caps let light through, the seedlings bent towards the light as usual. When the tip was in the light but the lower stem was covered, the shoots still bent. So the tip senses the light, and something travels down from the tip to the part that bends. Nobody knew what that something was. In 1926, a young Dutch scientist, Frits Went, cut off shoot tips and stood them on small blocks of agar. Agar is the seaweed jelly sold in India as China grass. A block that had held tips made a cut shoot bend, all by itself. The messenger was a chemical. Today it is called auxin.  
+**Charles Darwin and his son Francis Darwin, in England (1880); Frits Went, a Dutch scientist (1920s), The Darwins published their tests in 1880, in their book The Power of Movement in Plants. Went's agar test was in the 1920s..** People had long seen plants bend towards light. Many thought the part of the stem that bends is the part that senses the light. In 1880, Charles Darwin and his son Francis, in England, tested this. They grew canary grass seedlings, which have a thin shoot with a pointed tip. They put tiny black caps over the tips of some shoots, so no light could reach the tips. Those seedlings hardly bent at all. When the caps let light through, the seedlings bent towards the light as usual. When the tip was in the light but the lower stem was covered, the shoots still bent. So the tip senses the light, and something travels down from the tip to the part that bends. Nobody knew what that something was. In the 1920s, a young Dutch scientist, Frits Went, cut off shoot tips and stood them on small blocks of agar. Agar is the seaweed jelly sold in India as China grass. A block that had held tips made a cut shoot bend, all by itself. The messenger was a chemical. Today it is called auxin.  
 *What people believed before:* That the part of the stem that bends is the part that senses the light. The Darwins showed that the tip senses it, and a message travels down to the part that bends.
 
 ## Challenging perspectives
@@ -88,7 +88,7 @@ We have seen rai sprouts turn back towards the window after we turned their cup.
 
 **Deep truth.** When we turned cup A round, the rai sprouts bent back to the window by the next day. A plant cannot walk to the light, so they move by growing. Every bend stays in the stem. So a plant's shape shows where their light has come from.  
 *Habit it breaks:* We split living things into those who move, like humans and other animals, and those who stay still, like plants. But plants move all the time, by growing, too slowly for us to see.  
-*Evidence:* In the turning cup test, cup A's sprouts curved back towards the window overnight while cup B stayed as it was. In the Straight or Bent project, the tray turned every day grew upright, and the tray never turned leaned to the window.
+*Evidence:* In the turning cup test, cup A's sprouts curved back towards the window overnight while cup B stayed as it was. In the Straight or Bent project, the tray turned every second day grew mostly upright, and the tray never turned leaned to the window.
 
 - *who am i:* Your body grows too, and your shape also shows how you have lived: the hand you write with, the way you stand.
 - *what is life:* Being alive means sensing what is around you and acting on it. The rai sprouts felt where the light was and grew towards it.
@@ -162,7 +162,7 @@ Appa put his cup down. 'So the plant was moving the whole time,' he said. 'Just 
 
 'Yes,' said Meenakshi. 'Turn it all the way round. And tomorrow, we'll see if the mustard turns too.'
 
-Anu turned the tumbler very carefully. Then she leaned her own head towards the window, slowly, slowly, like a mustard shoot. Meenakshi laughed, and leaned with him.
+Anu turned the tumbler very carefully. Then she leaned her own head towards the window, slowly, slowly, like a mustard shoot. Meenakshi laughed, and leaned with her.
 
 **For the parent:** Meenakshi works out that the shoots were not blown over. When the light came from the other side, they bent back to it, by growing. A plant moves by growing.
 
@@ -173,15 +173,14 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 
 ## Games
 ### g1 · Five Needs: grow your plant to a flower (15 min)
-- **rules:** Each player has a plant sheet. Shuffle the 20 cards and put them face down.; Take turns. Turn over the top card and read the front aloud.; If it is a need card, put it in the matching box on your sheet. If you already have that need, put the card at the bottom of the pile.; If it is a Trouble card, read the back aloud. Give back the card it names, if you have one, to the bottom of the pile.; When all five of your boxes are full, colour in your flower and say the five needs aloud.; Keep playing until everyone's plant has flowered.
-- **Printable cards: 20 cards to cut out:** Light: a sunny window (back: Your plant can make food in their leaves.); Light: a bright balcony (back: Your plant can make food in their leaves.); Light: morning sun through the grille (back: Your plant can make food in their leaves.); Water: one spoon a day (back: Your plant's leaves stay firm.); Water: the monsoon rain (back: Your plant's leaves stay firm.); Water: a drink from a steel tumbler (back: Your plant's leaves stay firm.); Air: an open window (back: Leaves take in air to make food. Roots breathe.); Air: a pot with a hole at the bottom (back: Extra water drains away, so the roots get air.); Air: a fresh breeze (back: Leaves take in air to make food. Roots breathe.); Warmth: a warm day in Chennai (back: Your plant grows well in enough warmth.); Warmth: a sunny afternoon (back: Your plant grows well in enough warmth.); Warmth: the end of winter (back: Your plant grows well in enough warmth.); Soil: a pot of good soil (back: Roots hold on and take in minerals.); Soil: manure from the nursery (back: Manure adds minerals to the soil.); Soil: soil from under a tree (back: Roots hold on and take in minerals.); Trouble: someone shuts your plant in a cupboard (back: Give back a Light card. In the dark, a plant cannot make food.); Trouble: the family goes to Madurai for a week, and nobody waters (back: Give back a Water card. A plant wilts without water.); Trouble: the pot is filled to the top with water every day (back: Give back an Air card. Soggy soil has no air, and roots can rot.); Trouble: frost in a cold Shimla winter (back: Give back a Warmth card. Frost can kill tender leaves.); Trouble: the plant is growing in a cup of plain sand (back: Give back a Soil card. Sand has few minerals.)
-- **Printable board: One plant sheet for each player, to draw:** A pot in the middle with five empty boxes around it, labelled Light, Water, Air, Warmth and Soil; A flower drawn at the top, to colour in when all five boxes are full
+- **rules:** Each player draws a plant sheet: a pot with five empty boxes around it, labelled Light, Water, Air, Warmth and Soil, and a flower at the top. Shuffle the 20 cards and put them face down in a pile.; Take turns. Turn over the top card. Read the front aloud, then turn it over and read the back aloud.; If it is a need card and your box for that need is empty, put the card in the box. If you already have that need, put the card at the bottom of the pile.; If it is a Trouble card, give back the need card it names, if you have one. Put the card you gave back and the Trouble card at the bottom of the pile.; When all five of your boxes are full, colour in your flower and say the five needs aloud. Then you stop taking turns.; The game ends when every plant has flowered. Everyone wins together.
+- **Printable cards: 20 cards to cut out:** Light: a sunny window (back: Your plant can make food in their leaves.); Light: a bright balcony (back: Your plant can make food in their leaves.); Light: morning sun through the grille (back: Your plant can make food in their leaves.); Water: one spoon a day (back: Your plant's leaves stay firm.); Water: the monsoon rain (back: Your plant's leaves stay firm.); Water: a drink from a steel tumbler (back: Your plant's leaves stay firm.); Air: an open window (back: Leaves take in a gas from the air to make food. Roots breathe too.); Air: a pot with a hole at the bottom (back: Extra water drains away, so the roots get air.); Air: a fresh breeze (back: Leaves take in a gas from the air to make food. Roots breathe too.); Warmth: a warm day in Chennai (back: Your plant grows well in enough warmth.); Warmth: a sunny afternoon (back: Your plant grows well in enough warmth.); Warmth: the end of winter (back: Your plant grows well in enough warmth.); Soil: a pot of good soil (back: Roots hold on and take in minerals.); Soil: manure from the nursery (back: Manure adds minerals to the soil.); Soil: soil from under a tree (back: Roots hold on and take in minerals.); Trouble: someone shuts your plant in a cupboard (back: Give back a Light card. In the dark, a plant cannot make food.); Trouble: the family goes to Madurai for a week, and nobody waters (back: Give back a Water card. A plant wilts without water.); Trouble: the pot is filled to the top with water every day (back: Give back an Air card. Soggy soil has no air, and roots can rot.); Trouble: frost in a cold Shimla winter (back: Give back a Warmth card. Frost can kill tender leaves.); Trouble: the plant is growing in a cup of plain sand (back: Give back a Soil card. Sand has few minerals.)
 - **g1s1 (3 min)**  
-  *Parent does:* 1. Cut out the 20 cards. 2. Each player draws a plant sheet with five boxes. 3. Shuffle the cards and put them face down.  
+  *Parent does:* 1. Cut out the 20 cards. 2. Each player draws a plant sheet with a pot and five boxes. 3. Shuffle the cards and put them face down.  
   *Parent says:* Your plant needs five things to flower. Can you guess what they are? Let's find out as we play.  
   *Child mode:* Look at your plant sheet. There are five boxes. Each box is a need.
 - **g1s2 (10 min)**  
-  *Parent does:* Take turns turning over cards. Read the fronts and backs aloud. Ask why after each Trouble card.  
+  *Parent does:* Take turns turning over cards. Read the front and then the back aloud. After each Trouble card, ask why.  
   *Parent says:* That is a Trouble card. Why does that hurt the plant? Which card do you give back?  
   *Child mode:* Turn over a card. Read it. Is it a need or a trouble?
   - Ask: Why does filling the pot to the top with water every day hurt the plant? (good: The roots can't get air.; The roots can rot.)
@@ -191,10 +190,10 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   *Child mode:* Say the five needs: light, water, air, warmth, soil.
   - Check: Which one is NOT one of a plant's five needs? → **Sugar**
 ### g2 · Follow the Light: a sprout game with a torch (10 min)
-- **rules:** Each sprout picks a spot and keeps their feet still all game. A sprout cannot walk.; The Sun reads a card aloud and shines the torch from that place.; The sprouts turn or lean as slowly as they can. A sprout who turns fast has to start again from the middle.; After each card, the Sun reads the back, and the sprouts say why they moved that way.; Swap so a child becomes the Sun.
-- **Printable cards: 10 Sun cards to cut out:** The Sun shines from the window (back: Turn slowly to face the window.); The Sun shines from the door (back: Turn slowly to face the door.); The Sun shines from straight above (back: Stand up tall and stretch upwards.); Night: the Sun is gone (back: Stay still and rest. Sprouts keep growing slowly at night.); A cloud covers the Sun (back: Stay where you are. Wait for the light to come back.); Someone turns your pot round (back: Turn your top half back to the light, slowly. Keep your feet still.); The Sun shines from your left (back: Lean slowly to your left.); The Sun shines from your right (back: Lean slowly to your right.); Someone puts a box over you (back: Crouch down. In the dark, stretch up tall and thin, looking for light.); The box is lifted (back: Open your arms like leaves and face the light.)
+- **rules:** Each sprout picks a spot and keeps their feet still all game. A sprout cannot walk.; The Sun turns over a card, reads the front aloud, and shines the torch from that place. If the card says night, switch the torch off.; The sprouts turn or lean as slowly as they can. A sprout who moves a foot, or turns fast, stands up straight and starts that card again.; After each card, the Sun reads the back, and the sprouts say why they moved that way.; When all the cards have been read, swap so a child becomes the Sun.
+- **Printable cards: 9 Sun cards to cut out:** The Sun shines from the window (back: Turn slowly to face the window.); The Sun shines from the door (back: Turn slowly to face the door.); The Sun shines from straight above (back: Stand up tall and stretch upwards.); Night: the Sun is gone (back: Stay still and rest. Sprouts keep growing slowly at night.); A cloud covers the Sun (back: Stay where you are. Wait for the light to come back.); Someone turns your pot round, so the light is behind you (back: Keep your feet still. Slowly turn your top half round to face the light.); The Sun shines from your left (back: Lean slowly to your left.); The Sun shines from your right (back: Lean slowly to your right.); Someone puts a box over you (back: Crouch down low in the dark. Then stretch up slowly, tall and thin. When the Sun lifts the box and shines the torch, open your arms like leaves and face the light.)
 - **g2s1 (2 min)**  
-  *Parent does:* Cut out the 10 Sun cards. Each sprout chooses a spot. Remind them their feet stay still.  
+  *Parent does:* Cut out the 9 Sun cards. Each sprout chooses a spot. Remind them their feet stay still.  
   *Parent says:* You are rai sprouts. Your roots hold you in one spot. You cannot walk. You can only grow towards the light, slowly.  
   *Child mode:* You are a sprout. Keep your feet still. You can only lean, slowly.
 - **g2s2 (7 min)**  
@@ -203,13 +202,13 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   *Child mode:* Lean towards the light, slowly. Why did you lean that way?
   - Ask: How does a real sprout lean, without muscles? (good: By growing more on one side.; The shady side grows longer.)
 - **g2s3 (1 min)**  
-  *Parent does:* End with the turned-pot card.  
-  *Parent says:* Remember our turning cup. How long did the real sprouts take to turn back?  
-  *Child mode:* How long did the real rai sprouts take to turn back?
-  - Ask: How long did they take? (good: About a day.; One night.)
+  *Parent does:* End with the card about the turned pot.  
+  *Parent says:* A real rai sprout turns back to the window in about a day. You turned in a few seconds. What is different about a real sprout?  
+  *Child mode:* A real sprout turns back to the window in about a day. How is a real sprout different from you?
+  - Ask: What is different about a real sprout? (good: They turn by growing, not by moving their feet.; They are much slower.)
 
 ## Experiments
-### e1 · The Turning Cup: will the sprouts turn back? (25 min, 6 days)
+### e1 · The Turning Cup: will the sprouts turn back? (27 min, 5 days)
 - **question:** Rai sprouts by a window lean towards the light. If we turn the cup round, what will the sprouts do?
 - **predict:** Guess first. After we turn the cup round, will the sprouts stay leaning into the room, fall over, or turn back to the window? Why do you think so?
 - **fair test:** Both cups get the same seeds from one packet, the same soil or tissue, the same water and the same window. The only difference is that we turn cup A round and leave cup B as it is. So if cup A changes and cup B does not, the turning made the change.
@@ -221,8 +220,8 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   *Parent says:* We are going to grow rai sprouts in these two cups. Rai is the mustard we put in sambar and poriyal. Help me scatter the seeds.  
   *Child mode:* Fill the two cups. Scatter the rai seeds on top. Sprinkle water. Put both cups by the window.
   - Note: Use a window where light comes from one side, not from all around. A bright window with no hot sun on the cups is best. Seeds just lying on the soil are fine.
-- **s2 (2 min)**  
-  *Parent does:* Give each cup 1 spoon of water. Look closely at the seeds together.  
+- **s2 (4 min)**  
+  *Parent does:* Give each cup 1 spoon of water. Look closely at the seeds together. On day 3, do the same again and look for tiny shoots.  
   *Parent says:* Look closely. What has changed since yesterday?  
   *Child mode:* Give each cup one spoon of water. Look closely at the seeds. What has changed?
   - Ask: What do you see? (good: Tiny white roots.; The seeds have split open.)
@@ -239,8 +238,8 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   *Parent does:* Ask your child to guess what will happen if cup A is turned round. Wait for a guess and a reason. Write it down. Then let your child turn cup A round, so its bindi faces the room. Leave cup B as it is.  
   *Parent says:* If we turn cup A round, the sprouts will lean into the room. What will they do by tomorrow? Why do you think so?  
   *Child mode:* Guess. If you turn cup A round, what will the sprouts do? Why? Now turn cup A round.
-  - Ask: Why do you think so? (good: They will turn back, because they like the light.; They will stay, because plants can't move.; They will fall over.)
-  - Note: Any guess with a reason is good. Many children, and grown-ups, guess that the sprouts will stay leaning into the room. Do not say what will happen. Cup B is our comparison: it shows what the sprouts do when nothing is changed.
+  - Ask: Why do you think so? (good: They will turn back, because they need the light.; They will stay, because plants can't move.; They will fall over.)
+  - Note: Any guess with a reason is good. Many children, and grown-ups, guess that the sprouts will stay leaning into the room. Do not say what will happen. Cup B is the comparison: it shows what the sprouts do when nothing is changed.
   - Check: Why do we leave cup B as it is? → **So we can compare cup A with cup B**
 - **s5 (5 min)**  
   *Parent does:* 1. Look at both cups from the side. 2. Look at the bindi on cup A. Is it still facing the room? 3. Look at the tops of the sprouts in cup A. 4. Draw both cups, with the window.  
@@ -259,7 +258,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   - Ask: How can a plant bend without legs? (good: By growing more on one side.; The side away from the window grew longer.)
   - Note: A strong answer: the sprouts bent back towards the window, because they grow towards light. The proof is that cup A changed and cup B did not. The explanation card then gives the reason: the shady side of the stem grows faster.
   - Think: A plant cannot walk to the light. What else could a plant do to reach the light?
-### e2 · Soil or No Soil? Two cups of rai (20 min, 12 days)
+### e2 · Soil or No Soil? Two cups of rai (20 min, 10 days)
 - **question:** Do rai seeds need soil to sprout? Do the sprouts need soil to keep growing?
 - **predict:** Guess first. Will the seeds on wet tissue sprout? After ten days, which cup will have the bigger plants? Why do you think so?
 - **fair test:** Both cups get the same seeds, the same water, and the same place by the window. The only difference is soil or tissue. We sow 10 seeds in each cup, so we can count fairly.
@@ -279,7 +278,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   - Ask: Did the tissue seeds sprout? (good: Yes, almost as many as in the soil.)
   - Note: Both cups usually sprout about the same number. A seed needs water, air and warmth to germinate, but not soil.
   - Check: Rai seeds on wet tissue, with no soil, did what? → **They sprouted**
-  - Wait: Come back on day 3.
+  - Wait: Come back on day 3. Each day, check that the soil and the tissue are damp, and add a spoon of water if they feel dry.
 - **s3 (3 min)**  
   *Parent does:* Water both cups with 1 spoon each. Look at the leaves.  
   *Parent says:* Look at the leaves in each cup. Do they look the same?  
@@ -287,10 +286,10 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   - Wait: Come back on day 6. Keep both cups damp in between.
 - **s4 (7 min)**  
   *Parent does:* 1. Put the two cups side by side. 2. Pick one plant from each cup and count their leaves. 3. Draw both cups.  
-  *Parent says:* Which cup has the bigger plants now? Why might that be? Remember, the seed brought a little food store with them.  
+  *Parent says:* Which cup has the bigger plants now? Why might that be?  
   *Child mode:* Which cup has bigger plants now? Count the leaves. Why are they different?
   - Ask: Why are the soil plants bigger? (good: The soil gave them something more.; The seed's food ran out on the tissue.; Soil has minerals.)
-  - Note: By day 10 the soil plants usually have new, jagged leaves growing between the first two round ones. The tissue plants often stay small, and their leaves may turn pale. If the two cups still look the same, keep going a few more days. The claim: seeds sprout without soil, but plants need the minerals in soil to keep growing.
+  - Note: The seed brought a little food store with them, so tell your child this only after they have given their own idea. By day 10 the soil plants usually have new, jagged leaves growing between the first two round ones. The tissue plants often stay small, and their leaves may turn pale. If the two cups still look the same, keep going a few more days. The claim: seeds sprout without soil, but plants need the minerals in soil to keep growing.
   - Wait: Come back on day 10.
 
 ## Activities
@@ -344,12 +343,12 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 
 ## Projects
 ### p1 · Straight or Bent? Two trays of rai to eat (25 min, 8 days)
-- **safety:** A grown-up does the snipping with scissors. Wash the sprouts well before eating.
-- **record:** Draw both trays from the side on day 4 and day 8.
+- **safety:** A grown-up snips the sprouts with the scissors. Wash the sprouts well before eating.
+- **record:** Draw both trays from the side on day 6 and day 8.
 - **schedule:** day 1: Fill both trays. Scatter the seeds thickly. Water. Put both trays by the window, and label them TURN and STAY. (6 min); day 2: Water both. Turn the TURN tray round. (2 min); day 4: Water both. Turn the TURN tray. Look at both trays from the side. (3 min); day 6: Water both. Turn the TURN tray. Draw both trays. (3 min); day 8: Compare the trays. Snip the sprouts, wash them and add them to curd rice, a sandwich or a salad. (11 min)
 - **p1s1 (6 min)**  
-  *Parent does:* 1. Fill both trays with 2 cm of soil. 2. Scatter 1 tablespoon of seeds on each. 3. Water both. 4. Label them TURN and STAY. 5. Put them side by side by the window.  
-  *Parent says:* We will turn the TURN tray round every day, and never move the STAY tray. How do you think they will look after a week? Why?  
+  *Parent does:* 1. Fill both trays with 2 cm of cocopeat or fresh potting mix. 2. Scatter 1 tablespoon of seeds on each. 3. Water both. 4. Label them TURN and STAY. 5. Put them side by side by the window.  
+  *Parent says:* We will turn the TURN tray round every second day, and never move the STAY tray. How do you think they will look after a week? Why?  
   *Child mode:* Fill two trays. Scatter seeds. Water them. Guess how each tray will look in a week. Why?
   - Ask: Why do you think so? (good: The STAY tray will lean to the window.; The TURN tray will keep bending back and forth.; The TURN tray will grow straight.)
 - **p1s2 (8 min)**  
@@ -369,6 +368,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 ## Challenges
 ### c1 · The Maze Box: can a shoot find the way out? (25 min)
 - **problem:** Make a box that is dark inside except for one hole. Put a sprouting potato at the far end, behind a wall. Can the shoot find a way round the wall to the hole?
+- **safety:** Do not eat a sprouting potato or its shoots. They can make you ill. A grown-up cuts the hole. Wash hands after touching the potato.
 - **your turn:** Now design your own maze. Draw it first. Check it every 3 days, and close the lid quickly. How many days did your shoot take to reach the light?
 - **constraints:** Use a shoebox or any cardboard box with a lid.; Only one hole may let light in.; Put at least one cardboard wall between the potato and the hole.
 - **general:** Cut a hole about the size of a coin in one end of the box. Tape a cardboard wall halfway across the middle, with a gap at one side. Put the potato at the far end and close the lid.; Stand the box with the hole facing a bright window.
@@ -377,7 +377,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   *Parent does:* 1. A grown-up cuts a coin-sized hole in one end of the box. 2. Tape a cardboard wall across the middle, with a gap on one side. 3. Put the potato in a cup of damp soil at the far end. 4. Close the lid and tape any gaps.  
   *Parent says:* The shoot will be in the dark. Only one hole lets light in, and there is a wall in the way. Do you think the shoot can find the hole? Why?  
   *Child mode:* Build the box with a grown-up. One hole, one wall. Put the potato at the far end. Guess: will the shoot find the hole?
-  - Note: A potato already showing small shoots works best. It does not need much water: the potato carries their own food and water.
+  - Note: A potato that already shows small shoots works best. The potato does not need much water, because they carry their own food and water.
 - **c1s2 (5 min)**  
   *Parent does:* Every 3 days, open the lid for a moment and look. Close it again quickly.  
   *Parent says:* Where is the shoot now? Which way is the shoot growing?  
@@ -394,57 +394,58 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 ### What Plants Need (core) (core, 10 questions)
 1. (sort) Sort these into two groups: what a plant needs, and what a plant does not need.  
    **Answer:** light → A plant needs this; water → A plant needs this; air → A plant needs this; warmth → A plant needs this; soil → A plant needs this; biscuits → A plant does not need this; a television → A plant does not need this; a glass of juice → A plant does not need this. *Why:* The five needs are light, water, air, warmth and soil. Plants make their own food, so they do not need biscuits or juice.
-2. (mcq) Remember the turning cup test? We turned cup A round, so the rai sprouts leaned away from the window. What did they do by the next day?  
-   Options: They stayed leaning into the room / Their tops bent back towards the window / They fell flat  
-   **Answer:** Their tops bent back towards the window. *Why:* The sprouts sensed the light behind them and grew towards it. If you guessed they would stay, that is a very common guess. The test showed that sprouts can change the way they grow.
-3. (draw) Draw cup A on the day you turned the cup round, and again the next day. Draw the window in both pictures.  
-   **Answer:** Day 4: sprouts leaning away from the window. Day 5: the tops curved back towards the window, like hooks.. *Why:* A strong drawing shows where the window is, and shows the bend near the top of each sprout on day 5.
-4. (match) Draw a line from each need to why a plant needs each one.  
-   **Answer:** Light → To make food in the leaves; Water → To keep the leaves and stem firm; Air → So the roots can breathe; Soil → To hold the roots and give minerals. *Why:* Each need does a job. Light, water and air are used to make food. Water keeps the plant firm. Soil holds the roots and gives minerals.
-5. (truefalse) Rai seeds need soil to sprout.  
-   **Answer:** False. *Why:* False. Rai seeds sprout on wet tissue too, because each seed carries a little food store. Soil matters later, for the minerals a growing plant needs.
-6. (label) Label the parts of this rai sprout: root, shoot, leaves. Then draw an arrow to show which way the sprout will bend.  
-   **Answer:** Root at the bottom, shoot in the middle, two leaves at the top. The arrow points towards the window.. *Why:* The shoot is the part that bends towards the light. A strong answer puts the arrow towards the window, not towards the room.
-7. (write) Write one word: what did the bubbles in the soil glass show was hiding in the soil?  
-   **Answer:** Air.. *Why:* When water filled the gaps in the dry soil, it pushed the air out as bubbles. Roots breathe this air.
-8. (odd) Which one does NOT help a plant grow?  
-   Options: A bright window / Damp soil / A pot full of water every day / A warm day  
-   **Answer:** 2. *Why:* A pot full of water every day leaves no air for the roots, and they can rot. The others all give the plant something they need.
-9. (fill) A plant growing towards light is called ______.  
+2. (match) Draw a line from each need to why a plant needs each one.  
+   **Answer:** Light → To make food in the leaves; Water → To keep the leaves and stem firm; Air → So the leaves can make food and the roots can breathe; Soil → To hold the roots and give minerals. *Why:* Each need does a job. Light, water and air are used to make food. Water keeps the plant firm. Soil holds the roots and gives minerals.
+3. (truefalse) A plant eats the soil, the way we eat food.  
+   **Answer:** False. *Why:* False. Plants make their food in their leaves, using light, air and water. The soil gives them water and minerals.
+4. (label) Label the parts of this rai sprout: root, stem, leaves. Then draw an arrow to show which way the sprout will bend.  
+   **Answer:** Root at the bottom, stem in the middle, two leaves at the top. The arrow points towards the window.. *Why:* The stem is the part that bends towards the light. A strong answer puts the arrow towards the window, not towards the room.
+5. (write) Write one reason why a flower pot has a hole in the bottom.  
+   **Answer:** So extra water can drain out, and the roots can get air.. *Why:* A pot full of water has no air in the soil, and roots need air to breathe. The hole lets extra water out.
+6. (odd) Which one does NOT help a plant grow?  
+   Options: A bright window / Damp soil / A shut cupboard with no light / A warm day  
+   **Answer:** 2. *Why:* In the dark, a plant cannot make food. The others all give a plant what they need.
+7. (fill) A plant growing towards light is called ______. Say the word aloud, and a grown-up can write it for you.  
    **Answer:** phototropism. *Why:* 'Photo' means light, and 'tropism' means turning. Phototropism is turning towards light by growing.
-10. (perspective) Two friends in Hyderabad look at a money plant leaning towards the window.  
-   **Answer:** Revathi. In the turning cup test, the sprouts bent back to the window when we turned them, even though the fan blew the same way. Zoya could switch off the fan and turn the pot, and see what the plant does.. *Why:* A strong answer uses the turning cup result as evidence, and is fair to Zoya by giving her a real test to try.
+8. (perspective) Two friends in Hyderabad look at a money plant leaning towards the window.  
+   **Answer:** Revathi. In the turning cup test, the sprouts bent back to the window when we turned the cup. A fan would not make them do that. Zoya could switch off the fan and turn the pot, and see what the plant does.. *Why:* A strong answer uses the turning cup result as evidence, and is fair to Zoya by giving her a real test to try.
+9. (mcq) Which plant needs the least water?  
+   Options: A cactus in Rajasthan / Rice in a flooded field in Thanjavur / Both need the same  
+   **Answer:** A cactus in Rajasthan. *Why:* Different plants need different amounts of water. A cactus can go weeks without rain, but rice grows in fields full of water.
+10. (write) Pick two of the five needs. Write what happens to a plant if each one goes missing.  
+   **Answer:** No light: the plant cannot make food. No water: the leaves go soft and droop.. *Why:* A strong answer names two needs and says what goes wrong for each one. Other pairs are fine, for example no air, so the roots cannot breathe, or no warmth, so the plant grows very slowly.
 ### What Plants Need (stretch) (stretch, 10 questions)
-1. (mcq) Why did we leave cup B without turning it, in the turning cup test?  
-   Options: To see what the sprouts do when nothing changes / Because there was no room to turn it / So cup B would grow faster  
-   **Answer:** To see what the sprouts do when nothing changes. *Why:* Cup B is the comparison. Cup A changed and cup B did not, so the turning caused the change in cup A.
-2. (order) Put these in order, from first to last, for the turning cup test.  
+1. (order) Put these in order, from first to last, for the turning cup test.  
    **Answer:** ['The seeds germinate', 'The sprouts lean to the window', 'We turn cup A round', 'The tops bend back to the window']. *Why:* First the seeds germinate. As they grow, they lean to the light. Then we turn the cup. By the next day, the tops bend back.
-3. (write) The sprout has no legs and no muscles. So how did the sprout bend? Write one or two sentences.  
-   **Answer:** The side of the stem away from the light grew faster than the side facing the light, so the stem bent.. *Why:* A strong answer says the bend comes from growing more on one side. If a child says 'the light pulled them', ask: then why did it take a whole night?
-4. (draw) Kalpana, a girl in Pune, puts a pot of sprouts inside a box with a hole on the left side. Draw how the sprouts will look in two days.  
+2. (draw) Kalpana, a girl in Pune, puts a pot of sprouts inside a box with a hole on the left side. Draw how the sprouts will look in two days.  
    **Answer:** The sprouts bend towards the hole on the left.. *Why:* The only light comes through the hole, so the sprouts grow towards it. A strong drawing shows them bending left, towards the hole.
-5. (truefalse) If the soil in a pot stays soaking wet for many days, the roots can rot.  
-   **Answer:** True. *Why:* True. Water fills the air gaps in the soil, so the roots cannot breathe. That is why pots have a hole in the bottom.
-6. (count) In cup A, 12 rai sprouts grew. The next day, 10 of them had bent back to the window. How many had not bent yet?  
-   **Answer:** 2 sprouts had not bent yet. 12 take away 10 is 2.. *Why:* Sprouts are like children: not all of them do the same thing at the same speed. The 2 may bend by evening.
-7. (write) Your rai seeds sprouted on wet tissue with no soil. Where did the sprouts get their first food from?  
+3. (count) In cup A, 12 rai sprouts grew. The next day, 10 of them had bent back to the window. How many had not bent yet?  
+   **Answer:** 2 sprouts had not bent yet. 12 take away 10 is 2.. *Why:* Not every sprout turns at the same speed. The 2 may bend by evening.
+4. (write) Your rai seeds sprouted on wet tissue with no soil. Where did the sprouts get their first food from?  
    **Answer:** From the food store inside the seed.. *Why:* A seed carries a small store of food. The sprout uses that store until their leaves can make food in the light.
-8. (perspective) Malini's grandmother in Coimbatore gives her tulsi plant water every day. Her grandson Vinod says more water is always better.  
+5. (perspective) Malini, a girl in Coimbatore, has a tulsi plant that her grandmother waters every day. Malini's cousin Vinod says more water is always better.  
    **Answer:** The grandmother. The bubbles showed that soil has air in it, and roots need that air. Too much water fills the gaps. But Vinod is right that plants need water, and they wilt without it.. *Why:* A strong answer uses the bubbles as evidence that soil holds air, and admits Vinod's fair point.
-9. (match) Match each plant to the warmth they grow best in.  
+6. (match) Match each plant to the warmth they grow best in.  
    **Answer:** Coconut palm → Hot all year, by the sea in Kerala; Mustard for oil → Cool winter months in Rajasthan; Apple tree → Cold hills of Himachal Pradesh. *Why:* Each plant grows best in a different warmth. Coconuts like heat, mustard is sown in the cool winter, and apples need cold winters.
-10. (fill) Leaves take in a gas from the air called carbon ______ to make food.  
-   **Answer:** dioxide. *Why:* Carbon dioxide is a gas in the air. Leaves take it in through tiny holes, and use it with water and light to make food.
+7. (mcq) Which gas do leaves take in from the air to make food?  
+   Options: Carbon dioxide / Smoke / Steam  
+   **Answer:** Carbon dioxide. *Why:* Carbon dioxide is a gas in the air. Leaves take it in through tiny holes, and use it with water and light to make food.
+8. (mcq) Some farms grow lettuce with the roots in water and no soil. What must the farm add to the water?  
+   Options: Minerals / Sugar / Stones  
+   **Answer:** Minerals. *Why:* Plants need minerals to keep growing. In soil they come from the soil. With no soil, the farm adds them to the water.
+9. (truefalse) Frost can kill the leaves of many plants.  
+   **Answer:** True. *Why:* True. Frost is a thin layer of ice that forms on very cold nights. It damages the leaves of many plants.
+10. (write) The roots of mangrove trees in the Sundarbans stick up out of the mud. Why might this help the tree?  
+   **Answer:** Mud has very little air. The roots that stick up can take in air from above the mud.. *Why:* Roots need air. A strong answer links the sticking-up roots to the need for air, as in the bubbles from the soil glass.
 ### What Plants Need (challenge) (challenge, 10 questions)
-1. (write) In the Straight or Bent project, one tray was turned every day and one was never turned. Which tray grew straight up, and why?  
-   **Answer:** The tray that was turned every day. The sprouts bent one way, then the other, so the bends evened out and they grew upright.. *Why:* A strong answer says the light kept changing sides, so no side of the stem grew faster for long.
+1. (write) In the Straight or Bent project, one tray was turned every second day and one was never turned. Which tray grew straight up, and why?  
+   **Answer:** The tray that was turned. The sprouts bent one way, then the other, so the bends evened out and they grew upright.. *Why:* A strong answer says the light kept changing sides, so no side of the stem grew faster for long.
 2. (write) Darshana, a girl in Guwahati, wants a pot plant on her table to grow straight and not lean. What should she do? Why?  
    **Answer:** Turn the pot a little every few days, so the light falls on each side in turn.. *Why:* A strong answer uses the idea that plants grow towards the light, and that turning the pot evens it out.
 3. (perspective) Two scientists watch a rai sprout bend back towards the window.  
    **Answer:** Either side can be argued. Dr. Lalitha: the sprout sensed the light and acted on what they sensed, which is what minds do. Dr. Rahul: we can see the chemical steps, and the sprout always does the same thing.. *Why:* This is a real disagreement. A strong answer picks a side with a reason, and says something fair about the other side, for example that Dr. Rahul's chemical steps are true, or that Dr. Lalitha is right that the sprout sensed the light.
-4. (draw) Draw a shoot that has been turned round twice: first away from the window, then back. What shape will the stem be?  
-   **Answer:** A wiggly stem, like the letter S, with the top pointing to the window.. *Why:* Each turn starts a new bend near the growing tip, and the older bends stay in the stem. So the stem keeps a record of where the light came from.
+4. (draw) A cup of rai is turned round, and a day later turned round again. Each time, the tops bend to the light. Draw one stem from the side. How many new bends does it have?  
+   **Answer:** Two new bends, so the stem looks wiggly, like the letter S.. *Why:* Each turn starts a new bend near the growing tip, and the older bends stay in the stem. So the stem keeps a record of where the light came from.
 5. (mcq) The Darwins put tiny black caps on the tips of some grass shoots. Those shoots did not bend to the light. What does that show?  
    Options: The tip is the part that senses the light / Black caps are heavy / Grass does not need light  
    **Answer:** The tip is the part that senses the light. *Why:* When light could not reach the tip, the shoot did not bend. So the tip senses where the light is, and a message travels down to the part that bends.
@@ -457,9 +458,9 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
    **Answer:** At first both used the food store in their seeds, so both sprouted. When the store ran out, only the soil plants had minerals to keep growing.. *Why:* A strong answer explains both days: the seed's food store first, and the soil's minerals later.
 9. (truefalse) Sunflowers in full bloom turn to follow the Sun all day.  
    **Answer:** False. *Why:* False. Young sunflower plants turn with the Sun. Once the flowers open, most stop turning and face east.
-10. (mcq) A seed in a dark cupboard has water and air, but is very cold. Shalini, aged 8, moves the cup to a warm kitchen shelf, still in the dark. What will most likely happen?  
-   Options: The seed sprouts faster / The seed turns green in the dark / The seed stops needing water  
-   **Answer:** The seed sprouts faster. *Why:* Seeds germinate faster when it is warm enough. Without light, the sprout will be pale, but the seed can still germinate.
+10. (mcq) Shalini, aged 8, puts a tulsi in a sunny window and forgets to water the plant for a week. The leaves go soft and droop. She gives the plant water. What will most likely happen next?  
+   Options: The leaves stand up again after a few hours / The leaves turn into soil / Nothing, the plant stays soft for ever  
+   **Answer:** The leaves stand up again after a few hours. *Why:* Water keeps the leaves firm. A plant that is only a little dry can stand up again after a drink.
 
 ## Videos
 - **A time-lapse of seedlings bending towards light** (, 2 min) id `to find`: Shows in seconds what our turning cup did overnight. *Check:* Find a real time-lapse of seedlings bending to a one-sided light. Check that the light really moves or the pot is really turned.
@@ -467,36 +468,36 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 - **Young sunflowers following the Sun** (, 3 min) id `to find`: Shows young sunflowers turning east to west through the day, as in Stacey Harmer's study. *Check:* Find an accurate video. Check it says only young sunflowers turn, and open flowers face east.
 
 ## Quiz
-1. (mcq) Which of these are all things a plant needs?  
-   Options: Light, water, air, warmth and soil / Light, sugar, milk and toys / Only water  
-   **Answer:** Light, water, air, warmth and soil. *Why:* A plant needs light, water, air, warmth and soil. Plants make their own sugar, so they do not need sugar or milk.
+1. (mcq) A plant has light, water, air and warmth. Which of the five needs is still missing?  
+   Options: Soil / Sugar / Milk  
+   **Answer:** Soil. *Why:* The five needs are light, water, air, warmth and soil. Plants make their own sugar, so they do not need sugar or milk.
 2. (mcq) Rai sprouts are growing by a window. Which way do they lean?  
    Options: Straight down / Towards the window / Away from the window  
    **Answer:** Towards the window. *Why:* Young shoots grow towards light. The window is where the light comes from.
-3. (mcq) In the turning cup test, we turned cup A round. Next day, the tops of the sprouts pointed which way?  
-   Options: Into the room, the way we left them / Up at the ceiling light / Back towards the window  
-   **Answer:** Back towards the window. *Why:* The sprouts grew towards the light again. If you chose 'into the room', remember: plants move by growing, slowly.
-4. (mcq) How does a sprout bend towards light?  
+3. (mcq) How does a sprout bend towards light?  
    Options: The sprout walks on their roots / The shady side of the stem grows faster / The light pulls the stem  
    **Answer:** The shady side of the stem grows faster. *Why:* The side away from the light grows faster, so the stem bends towards the light. Light does not pull.
-5. (mcq) Rai seeds on wet tissue, with no soil, will most likely do what?  
+4. (mcq) Rai seeds on wet tissue, with no soil, will most likely do what?  
    Options: Stay dry and still / Turn into soil / Sprout  
    **Answer:** Sprout. *Why:* Seeds carry a little food store. With water, air and warmth they sprout, even with no soil.
-6. (mcq) Why do plants growing for many weeks need soil, or minerals in water?  
+5. (mcq) Why do plants growing for many weeks need soil, or minerals in water?  
    Options: The seed's food store runs out, and the plant needs minerals / Soil is their food / Soil keeps them dark  
    **Answer:** The seed's food store runs out, and the plant needs minerals. *Why:* Plants make their food in their leaves, but they need minerals from the soil to stay healthy. They do not eat the soil.
-7. (mcq) Bubbles came up when we poured water on dry soil. What were they?  
+6. (mcq) Bubbles came up when we poured water on dry soil. What were they?  
    Options: Soap / Gas made by the water / Air from the gaps in the soil  
    **Answer:** Air from the gaps in the soil. *Why:* Soil has gaps full of air. Water pushes the air out. Roots breathe this air.
-8. (mcq) Ranjini, aged 7, keeps her pot full to the top with water every day. What will most likely happen to the roots?  
+7. (mcq) Ranjini, aged 7, keeps her pot full to the top with water every day. What will most likely happen to the roots?  
    Options: Nothing at all / They can rot, because they cannot get air / They grow faster  
    **Answer:** They can rot, because they cannot get air. *Why:* Roots need air as well as water. In soaking soil, water fills the air gaps.
-9. (mcq) Rai seeds are sown in a very cold room and in a warm room. Where will they most likely sprout first?  
+8. (mcq) Rai seeds are sown in a very cold room and in a warm room. Where will they most likely sprout first?  
    Options: In the warm room / In the cold room / Both at exactly the same time  
    **Answer:** In the warm room. *Why:* Seeds germinate faster when it is warm enough for them. In the cold, they are slow.
-10. (mcq) Why did we have a cup B that we never turned?  
-   Options: Because two cups look nicer / To compare with cup A, so we know the turning made the difference / In case cup A broke  
-   **Answer:** To compare with cup A, so we know the turning made the difference. *Why:* A fair test changes one thing only. Cup B shows what happens when nothing is changed.
+9. (mcq) Nisha, a girl in Class 2, wants to know if rai seeds need soil. She sows 10 seeds in soil by a window, and 10 seeds on tissue in a dark cupboard. What is wrong with her test?  
+   Options: She changed two things: soil and light / She used too many seeds / Tissue is not allowed  
+   **Answer:** She changed two things: soil and light. *Why:* A fair test changes one thing only. If the seeds differ, she cannot tell if soil or light made the difference.
+10. (mcq) A potato is kept in a dark kitchen basket with a small gap of light at one side. Which way will the pale shoots grow?  
+   Options: Towards the gap of light / Away from the gap / Straight down  
+   **Answer:** Towards the gap of light. *Why:* Shoots grow towards light, even a small amount. The shoots are pale and long because it is dark.
 
 ## Applications
 - Gardeners turn pots on a windowsill every few days, so the plants grow straight.
@@ -510,35 +511,32 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 - Grass and weeds growing out of cracks in a wall, all bending towards the open sky.
 - Yellow mustard fields in Punjab and Rajasthan in winter, seen from a train window.
 - A potato in the kitchen basket growing pale shoots towards a gap of light.
-- Young sunflower plants in a field near Mysuru, all facing the same way in the morning.
+- Young sunflower plants in a field in Karnataka, all facing the same way in the morning.
 
 ## Open questions
 - **What is it like for a sprout to feel where the light is?** Plants have light sensors, and they act on what they sense. Nobody knows what that feeling is like for a plant.
 - **How does a sprout know which side of their stem is shady?** Scientists know that auxin moves to the shady side. How the sprout compares the two sides so exactly is still being studied.
-- **Why do roots of some plants grow away from light?** Many roots grow away from light, and scientists are still working out how much light really reaches roots in soil, and why this matters.
+- **Why do roots of some plants grow away from light?** Roots of some plants, such as the mustard family, bend away from light in a lab. Scientists are still working out what this does for a plant in the soil.
 
 ## Questions to ask kids
-- Which plant in our home leans the most? Which window is that plant leaning to?
 - If you were a plant in our flat, where would you like to grow? Why?
 - Which of the five needs does a plant on our balcony get for free?
-- What would happen to a plant on a train, going round and round?
 - Is there anything you grow towards, the way a sprout grows towards light?
 
 ## Jokes
 - Why did the sprout lean towards the window? *To get a better view of the Sun!*
-- What did the turned-round sprout say? *Wait for me, light, I'm coming. Slowly.*
 - Why don't plants ever get lost? *They always know which way the light is.*
 - What is a plant's favourite kind of bath? *A damp one, not a flood!*
 - Why did the rai sprout go to school? *To grow up bright.*
 - What did the soil say to the roots? *Take a deep breath. There's air in here!*
-- Why was the potato in the box so tired? *She went round the wall to find the light.*
-- What do you call a plant who turns very, very slowly? *A sprout, of course!*
-- Why did the plant wear sunglasses? *She faced the window all day.*
+- Why was the potato in the dark box so tired? *They had to go round a wall to find the light.*
+- Why can a plant never win a race? *They only move by growing!*
+- Why was the plant so good at maths? *They had square roots!*
 
 ## Connected maths
 - Uma, a girl in Kochi, sowed 10 rai seeds in a cup. By day 3, 7 had sprouted. How many had not sprouted yet? **3 seeds had not sprouted yet.**. 10 take away 7 is 3. Seeds do not all wake up at the same time, so some may sprout tomorrow. (queues `math.addition-subtraction.meaning.L2`)
 - In the soil cup, 9 of the 10 seeds sprouted. On the tissue, 8 of the 10 seeds sprouted. Did soil make a big difference to sprouting? Why do you think so? **No, not a big difference. 9 and 8 are very close.**. 9 is only 1 more than 8. One seed can fail by chance, so a difference of 1 does not show that soil matters for sprouting. A big difference, like 9 and 0, would. (queues `math.number-sense.comparing-ordering.L2`)
-- Cup A's sprouts bent back to the window in 1 night. Nisha turned the cup round every night for a week. How many times did the sprouts turn back? **7 times, one for each night of the week.**. A week has 7 nights. If the sprouts turn back each night, that is 7 turns. The stem may end up wiggly, with a bend for each turn. (queues `math.time.calendar.L2`)
+- Cup A's sprouts bent back to the window in 1 night. Nisha, a girl in Class 2, turned the cup round every night for a week. How many times did the sprouts turn back? **7 times, one for each night of the week.**. A week has 7 nights. If the sprouts turn back each night, that is 7 turns. The stem may end up wiggly, with a bend for each turn. (queues `math.time.calendar.L2`)
 - On day 4, rai sprouts were 2 cm tall. On day 8 they were 6 cm tall. How many centimetres did they grow in those 4 days? **They grew 4 cm.**. 6 cm take away 2 cm is 4 cm. That is about 1 cm each day. (queues `math.measurement-basics.standard-units.L2`)
 
 ## Song

@@ -1,9 +1,9 @@
-# Coins and dice: we cannot know one toss, but we can guess many well
+# Coins and dice: why many tosses are easier to guess than one
 `sci.order-chaos.chance.L2`
 
-**Summary.** Nobody can say whether the next coin toss will land heads or tails. But toss a coin 20 times, and heads comes up close to 10 times. Do it again, and again it is close to 10. Roll a die 30 times, and a six comes up only about 5 times, because a die has six faces and the six is only one of them. Each single toss or roll is a surprise. Many of them together follow a pattern we can count on. That is what scientists call chance.
+**Summary.** Nobody can say whether the next coin toss will land heads or tails. But toss a coin 20 times, and heads comes up close to 10 times. Do it again, and again it is close to 10. Roll a die 30 times, and a six comes up only about 5 times, because a die has six faces and the six is only one of them. Each single toss or roll is a surprise. Many of them together follow a pattern we can count on. Chance is how likely something is when we cannot know for sure.
 
-**Intro.** *Hold a coin. Before you drop it on the bed, say 'heads' or 'tails'. Were you right? Try again. Can you get it right every time?* Some things we can say for sure. The Sun will rise tomorrow. A dropped spoon will fall down. Other things we cannot know, like how the next coin toss will land. But not knowing is not the end of the story. In this unit you toss coins and roll a die many times, and keep count. You find out that one toss is a surprise, but many tosses are not. You learn the words likely, unlikely, certain and impossible, and you play games that are fair and games that are not.
+**Intro.** *Hold a coin. Before you drop it on the bed, say 'heads' or 'tails'. Were you right? Try again. Can you get it right every time?* Some things we can say for sure. The Sun will rise tomorrow. A dropped spoon will fall down. Other things we cannot know, like how the next coin toss will land. In this unit you toss coins and roll a die many times, and keep count. You find out that one toss is a surprise, but many tosses are not. You also learn the words likely, unlikely, certain and impossible, and play games that are fair and games that are not.
 
 ## Learning outcomes
 0. By the end I can say that nobody can know how one coin toss will land, but that many tosses give close to half heads.
@@ -26,23 +26,23 @@
 
 ## Explanations
 ### Why nobody can know how one toss will land · *defined*
-**Definition:** How a coin lands depends on how fast it spins, how high it goes and how it hits the bed. These differ a tiny bit every toss, too little for anyone to see or control. So nobody can know how one toss will land.
+**Definition:** How a coin lands depends on its spin, its height and how it hits the bed. These change a tiny bit with every toss, too little to see or control. So nobody can know how one toss will land.
 
-When you guessed ten tosses in the coin test, you were right some of the time and wrong some of the time. Most people get about half right, however hard they try. That is because the coin's landing depends on tiny differences: a little more shake, a little more spin, a slightly different bounce. Nobody can see or control these. So for one toss, all we can say is that heads and tails each have the same chance.
+When you guessed ten tosses, you were right about half the time. Most people are, however hard they try. The shake, the spin and the bounce are a little different each time, and nobody can see or control that. So for one toss, heads and tails each have the same chance.
 - e.g. Guessing heads or tails before each toss in the coin test
 - e.g. Calling heads or tails before a cricket match
 - e.g. Rolling a die in Ludo and hoping for a six
 ### Why many tosses give close to half heads · *defined*
 **Definition:** Each toss has the same chance of heads as of tails. So when you toss many times, about half the tosses come up heads. The more tosses you make, the closer to half it usually gets.
 
-In the coin test, nobody could say how any one toss would land. Yet when you counted 20 tosses, heads came up close to 10 times. Your grown-up's 20 tosses gave close to 10 too. Each toss was a surprise, but the surprises balanced out. Some runs gave a few more heads, and some a few more tails. When you add many tosses together, the count gets closer and closer to half. Scientists call this the law of large numbers. It means we can guess well about many tosses, even though we cannot know any single one.
+Nobody could say how any one toss would land. Yet your 20 tosses gave close to 10 heads, and so did your grown-up's. Some tosses gave heads and some gave tails, and they balanced out. Scientists call this the law of large numbers. The more tosses we count, the closer heads gets to half of all the tosses.
 - e.g. 20 tosses giving 9, 10 or 11 heads
 - e.g. Adding the family's tosses together and getting close to half heads
-- e.g. A man called John Kerrich tossed a coin 10,000 times and got 5,067 heads
+- e.g. John Kerrich, a mathematician, tossed a coin 10,000 times and got 5,067 heads
 ### Likely, unlikely, certain and impossible · *defined*
 **Definition:** Certain means it will happen for sure. Likely means it will happen more often than not. Unlikely means it will happen less often than not. Impossible means it can never happen.
 
-A die has six faces. Only one face has six dots. So in the six test, six came up only about once in every six rolls. That makes a six unlikely. The other five faces together come up about five times in every six rolls. That makes 'not a six' likely. Some things are certain: every roll gives a number from 1 to 6. Some are impossible: one die can never show a 7. Many people think a six is half and half, because it either comes or it doesn't. The six test shows that this is not so.
+A die has six faces, and only one face has six dots. In the six test, a six came up only about once in every six rolls, so a six is unlikely. The other five faces together came up about five times in every six rolls, so 'not a six' is likely. Some things are certain, like getting a number from 1 to 6. Some are impossible, like a 7 on one die.
 - e.g. Certain: the Sun rises tomorrow morning
 - e.g. Likely: rain on a July day in Kochi, during the monsoon
 - e.g. Unlikely: a six on one roll of a die
@@ -50,20 +50,20 @@ A die has six faces. Only one face has six dots. So in the six test, six came up
 ### What makes a game fair · *defined*
 **Definition:** A game of chance is fair when every player has the same chance of winning. It is unfair when one player's chance is bigger.
 
-In the slips game, there were 8 slips with a star and only 2 blank ones. So a star came out most times, and a blank only now and then. If you win on a star and your friend wins on a blank, the game is unfair. To make it fair, put in the same number of star slips and blank slips. A coin toss is fair because the coin has two sides and each has the same chance. A die is fair because each of its six faces has the same chance.
+In the slips game, 8 slips had a star and only 2 were blank, so a star came out most times. If you win on a star and your friend wins on a blank, the game is unfair. To make it fair, use the same number of star slips and blank slips. A coin is fair because both sides have the same chance. A die is fair because all six faces have the same chance.
 - e.g. Tossing a coin to choose who bats first
 - e.g. 5 star slips and 5 blank slips in a tumbler
 - e.g. A race where one player moves on a six and the other moves on any other number, which is unfair
 ### Each toss starts fresh · *defined*
 **Definition:** The chance of heads is the same on every toss, whatever came before. After many heads in a row, tails is not any more likely than before.
 
-Suppose you toss four heads in a row. Many people then feel sure the next one must be tails. But nothing about the last four tosses changes how the next toss spins and lands. The chance of heads is still the same as the chance of tails. Over many tosses, heads and tails do even out. They do this because there are so many new tosses, not because tails comes to catch up. In the same way, after five rolls with no six, a six is not 'due'. It is still about one chance in six.
+Suppose you toss four heads in a row. Many people then feel sure the next toss must be tails. But nothing about the last four tosses changes how the next one spins and lands. Heads and tails still have the same chance. Over many tosses they even out because new tosses keep coming, not because tails catches up. In the same way, after five rolls with no six, a six is not 'due'. It is still about one chance in six.
 - e.g. Four heads in a row, and the next toss is still half and half
 - e.g. Waiting for a six in Ludo: it does not come sooner because you have waited
 - e.g. A long run of tails in the coin test
 ### Is there such a thing as luck? · *debated*
 Many people say some days, numbers or hands are lucky. When scientists test coins and dice, a 'lucky' hand gets the same counts as any other hand over many tosses. But people do differ in other ways, and scientists are still studying what people mean by luck.
-- e.g. A cricket captain who says he is lucky at the toss
+- e.g. A cricket captain who says she is lucky at the toss
 - e.g. A 'lucky number' for a Ludo roll
 - e.g. Blowing on the dice before rolling
 - **Many people:** Some people, days or numbers are lucky. A lucky person wins the toss more often.
@@ -71,7 +71,7 @@ Many people say some days, numbers or hands are lucky. When scientists test coin
 - **Richard Wiseman, a British psychologist:** He studied people who call themselves lucky. He found they often notice chances that others miss, and try more new things. So 'luck' may partly be how a person meets the world.
 
 ## Mostly agreed
-- Nobody can know how one toss of a coin will land. *How we know:* In the coin test, guesses were right only some of the time, about half. Even a coin-tossing expert cannot call a normal hand toss.
+- Nobody can know how one toss of a coin will land. *How we know:* In the coin test, guesses were right only about half the time, however hard people tried.
 - When a coin is tossed many times, heads comes up close to half the time. *How we know:* In the coin test, each person's 20 tosses gave close to 10 heads. John Kerrich tossed a coin 10,000 times and got 5,067 heads.
 - On a fair die, each face comes up about once in every six rolls, so a six is unlikely on one roll. *How we know:* In the six test, 30 rolls gave only a few sixes and many more not-sixes.
 - Past tosses do not change the chance of the next toss. *How we know:* Scientists have tested this with very many tosses. After a run of heads, the next toss is still heads about half the time.
@@ -102,13 +102,13 @@ We have tossed coins, rolled a die and picked slips without looking. Now we ask 
 - *what is life:* No one can say which seed from a plant will land where they can grow. But a plant gives many seeds, so some are likely to find a good place.
 - *what is this world:* The world is full of single happenings nobody can know, like each raindrop and each toss. Together they make patterns we can count on.
 
-Each toss on its own is a surprise. Put many together, and a steady pattern appears: close to half heads. That pattern is not in any one toss. It shows up only when the many are counted as one group. Everything is conscious, the coin and the die too, each meeting the world in their own way. Many scientists disagree, and say awareness belongs only to living beings with brains.
+Each toss on its own is a surprise. Put many together, and a steady pattern appears: close to half heads. That pattern is not in any one toss. It shows up only when many tosses are counted together. Everything is conscious, including the coin and the die, each in their own way. Many scientists disagree, and say awareness belongs only to living beings with brains.
 
 - **Bhagavad Gita 2.47:** Krishna tells Arjuna that his part is the action itself, and that the result is not his to hold on to. (In the coin test, you could choose how to shake the tumbler, but not how the coin landed. Your part was the toss and the honest count.)
 - **Jain thought, syadvada (the teaching of 'maybe', part of anekantavada):** Jain thinkers taught people to begin a claim with 'syat', which means 'in some way' or 'maybe'. This keeps us from saying more than we really know. (Saying 'heads is likely' or 'a six is unlikely' is the same kind of careful speaking. It says what we know, and no more.)
 - Science (settled): The more times something is tried, the closer the count usually comes to its chance. Jacob Bernoulli first proved this, in a book published in 1713. It is called the law of large numbers.
 - Science (settled): A coin tossed by hand lands on the side that started on top about 51 times in 100. A team found this in 2023 by tossing coins over 350,000 times.
-- Other view, Albert Einstein, in a letter to the physicist Max Born in 1926: Einstein wrote that he was sure God does not throw dice. He meant that underneath, nature has no real chance at all, only causes we have not found. Many people also say coins and dice have no awareness at all.
+- Other view, Albert Einstein, in a letter to the physicist Max Born in 1926: Einstein wrote that he was sure God does not throw dice. He meant that underneath, nature has no real chance at all, only causes we have not found.
 - Practice, Holding not-knowing (3 min): Shake a coin in the tumbler and tip it out. Cover it with your hand before you look. Close your eyes. Breathe in slowly, and out slowly. Right now, nobody knows if it is heads or tails. Notice how that feels. Now open your eyes and lift your hand.
 - Ask: You could not guess one toss, but you could guess 20 tosses well. Where did the pattern come from?
 - Ask: Is not knowing what comes next a good feeling, a bad feeling, or both?
@@ -189,7 +189,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 ## Games
 ### g1 · Certain, Likely, Unlikely, Impossible: a card game (15 min)
 - **rules:** Cut out the 16 happening cards. Shuffle them and put them face down in a pile.; Each player gets four sign cards: Certain, Likely, Unlikely and Impossible.; One player turns over the top card and reads it out.; Everyone puts down one sign card, face down. Then everyone turns their sign over at the same time.; Read the back of the happening card. Everyone who matched it gets a point. Anyone who disagrees can give a reason, and the others decide if it is a good one.; When the pile is finished, the player with the most points wins. Playing alone, sort the cards into four piles and then check the backs.
-- **Printable cards: 16 happening cards to cut out:** You roll one die and get a number from 1 to 6. (back: Certain. Every face has a number from 1 to 6.); You roll one die and get a 7. (back: Impossible. No face has 7 dots.); You roll one die and get a six. (back: Unlikely. Only one face of six is a six.); You roll one die and do not get a six. (back: Likely. Five faces of six are not six.); You toss ten coins and all ten land heads. (back: Unlikely. It almost never happens.); The Sun rises tomorrow morning. (back: Certain. It rises every morning.); A dropped spoon falls up to the ceiling. (back: Impossible. Gravity pulls it down.); It rains on a July day in Kochi. (back: Likely. July is in the monsoon in Kerala.); It snows on Marina Beach in Chennai. (back: Impossible, as far as anyone knows. Chennai is far too warm for snow.); You pick a star from a tumbler with 8 star slips and 2 blank ones. (back: Likely. Most slips have a star.); You pick a blank from a tumbler with 8 star slips and 2 blank ones. (back: Unlikely. Only 2 slips are blank.); A crow comes to a window in a city flat some time this week. (back: Likely. Crows live in almost every Indian city.); Your fan turns when you switch it on, and the power is on. (back: Likely, almost certain. It turns unless it is broken.); Water put in the freezer turns to ice by tomorrow. (back: Certain, if the freezer is working.); A coin lands on its edge and stays standing. (back: Unlikely. It can happen, but very, very rarely.); A tossed coin lands heads. (back: Neither likely nor unlikely. Heads and tails have the same chance.)
+- **Printable cards: 16 happening cards to cut out:** You roll one die and get a number from 1 to 6. (back: Certain. Every face has a number from 1 to 6.); You roll one die and get a 7. (back: Impossible. No face has 7 dots.); You roll one die and get a six. (back: Unlikely. Only one face of six is a six.); You roll one die and do not get a six. (back: Likely. Five faces of six are not six.); You toss ten coins and all ten land heads. (back: Unlikely. It almost never happens.); The Sun rises tomorrow morning. (back: Certain. It rises every morning.); A dropped spoon falls up to the ceiling. (back: Impossible. Gravity pulls it down.); It rains on a July day in Kochi. (back: Likely. July is in the monsoon in Kerala.); It snows on Marina Beach in Chennai. (back: Impossible, as far as anyone knows. Chennai is far too warm for snow.); You pick a star from a tumbler with 8 star slips and 2 blank ones. (back: Likely. Most slips have a star.); You pick a blank from a tumbler with 8 star slips and 2 blank ones. (back: Unlikely. Only 2 slips are blank.); A crow comes to a window in a city flat some time this week. (back: Likely. Crows live in almost every Indian city.); Your fan turns when you switch it on, and the power is on. (back: Likely, almost certain. It turns unless it is broken.); Water put in the freezer turns to ice by tomorrow. (back: Certain, if the freezer is working.); A coin lands on its edge and stays standing. (back: Unlikely. It can happen, but very, very rarely.); You toss a coin 20 times and get heads 18 times or more. (back: Unlikely. In 20 tosses, heads usually comes close to 10.)
 - **Printable cards: 4 sign cards for each player:** Certain; Likely; Unlikely; Impossible
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Read the rules out loud. 3. Put the four sign cards in a row, from impossible to certain.  
@@ -205,7 +205,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
   *Parent does:* 1. Count the points. 2. Ask the question below.  
   *Parent says:* Which card was the hardest to decide? Why?  
   *Child mode:* Which card was the hardest? Why?
-  - Ask: Why is 'a tossed coin lands heads' hard to put in one pile? (good: It is half and half, so it is not likely or unlikely.; Heads and tails have the same chance.)
+  - Ask: Why is a coin standing on its edge unlikely, and not impossible? (good: It can happen, but it almost never does.; A coin has a thin edge, so it could stay standing.)
 ### g2 · The Six Race: is this game fair? (15 min)
 - **rules:** Put both counters on Start.; Take turns to roll one die. Whoever rolls, the counters move by these rules.; First rules: if the die shows a six, Player A moves one square. If it shows any other number, Player B moves one square.; The first counter to reach Finish wins.; Play once with the first rules. Then talk about whether it was fair.; New rules: Player A moves on 1, 2 or 3. Player B moves on 4, 5 or 6. Play again.
 - **Printable board: A race track of 10 squares for each player, from Start to Finish:** Start; 1; 2; 3; 4; 5; 6; 7; 8; 9; Finish
@@ -234,35 +234,35 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
   - Check: Player A moves on 1, 2 or 3. Player B moves on 4, 5 or 6. Is the game fair? → **Yes, each player has three faces of the die**
 
 ## Experiments
-### e1 · The Coin Test: can you guess the toss? (25 min)
+### e1 · The Coin Test: can you guess the toss? (20 min)
 - **question:** Can we guess how one coin toss will land? Can we guess how many heads will come in 20 tosses?
 - **predict:** Before you start: how many of your ten guesses will be right? And in 20 tosses, how many heads will come? Why do you think so?
 - **fair test:** Everyone uses the same kind of coin and tosses it the same way: shake it in a covered tumbler and tip it onto the bed. Nobody looks inside or chooses how it lands. We toss 20 times each, because a few tosses can be a fluke. Two people toss, so we can see if the counts come out close.
 - **record:** Fill in the results table. Keep the tally sheets. Circle the person whose heads count was closest to 10.
 - **results table:** Who tossed | Right guesses out of 10 | Heads in 20 tosses | Tails in 20 tosses
-- **s1 (3 min)**  
+- **s1 (2 min)**  
   *Parent does:* 1. Show your child a coin. 2. Agree that the side with the lions is heads and the number side is tails. 3. Show how to toss. Drop the coin in the tumbler and cover it with a hand. Shake three times and tip it onto the bed.  
   *Parent says:* This side, with the lions, is heads. This side, with the number, is tails. Watch how we toss. Shake, shake, shake, and tip.  
   *Child mode:* The lions side is heads. The number side is tails. Shake the tumbler three times. Tip it onto the bed.
   - Note: Tipping onto a bed or towel stops the coin rolling away under the furniture. A shaken coin cannot be steered, so the toss is fair.
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* 1. Ask the two questions below. 2. Write down your child's guesses and reasons at the top of the paper.  
   *Parent says:* Before each toss, you will say heads or tails. Out of ten guesses, how many will you get right? And if we toss 20 times, how many heads will come? Why do you think so?  
   *Child mode:* How many of ten guesses will you get right? In 20 tosses, how many heads? Why?
   - Ask: How many of your ten guesses will be right? Why? (good: All ten, because I will think hard.; About five, because it could be either.; I don't know, because nobody can see inside the tumbler.)
   - Note: Write the guesses down and do not say who is right. Many children expect to get most guesses right, or expect 20 heads if they 'want' heads.
-- **s3 (6 min)**  
+- **s3 (5 min)**  
   *Parent does:* 1. Before each toss, your child says heads or tails out loud. 2. Your child tosses. 3. Mark a tick if the guess was right and a cross if it was wrong. 4. Do this ten times. 5. Count the ticks.  
   *Parent says:* Say your guess first. Now toss. Were you right? Make a tick or a cross. Let's do ten.  
   *Child mode:* Say heads or tails. Toss. Right or wrong? Make a mark.
   - Ask: How many did you get right? Could you get better by trying harder? (good: About half. Trying harder did not help.; Sometimes right, sometimes wrong. I could not tell.)
   - Note: Most children get between 3 and 7 right. That is what guessing gives. If your child gets 8 or more, do ten more guesses. The count usually comes back towards 5.
-- **s4 (7 min)**  
+- **s4 (6 min)**  
   *Parent does:* 1. Draw two rows on a new paper: heads and tails. 2. Your child tosses 20 times and makes a tally line in the right row each time. 3. You toss 20 times on a second paper. 4. Use tally bundles of five.  
   *Parent says:* Now we stop guessing and just count. Toss 20 times. Each time, make a line in the heads row or the tails row. Then it is my turn.  
   *Child mode:* Toss 20 times. Each time, make a line in the right row.
   - Note: Count the tosses as you go so you stop at 20. Bundles of five make counting easy at the end.
-- **s5 (6 min)**  
+- **s5 (5 min)**  
   *Parent does:* 1. Count the heads and tails on each sheet. 2. Fill in the results table. 3. Ask the questions below. 4. Then read the cards on why nobody can know one toss, and why many tosses give close to half.  
   *Parent says:* How many heads did you get? How many did I get? Were they close to 10? Could you guess each toss? Why was the total easier to guess than one toss?  
   *Child mode:* Count your heads. Count mine. Are they close to 10? Why?
@@ -296,13 +296,13 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
   - Check: In the six test, why did not-six come up many more times than six? → **Five of the six faces are not six**
 
 ## Activities
-### a1 · Sure or Not Sure? a quick talk walk around the flat (6 min)
+### a1 · Sure or Not Sure? A spoon and a coin (6 min)
 - **record:** Say out loud one thing you are sure of and one thing you are not sure of. A grown-up writes them down.
 - **s1 (2 min)**  
   *Parent does:* 1. Hold a spoon above the bed. 2. Ask your child where it will go when you let go. 3. Let go.  
   *Parent says:* If I let go of this spoon, what will happen? Are you sure? Let's see.  
   *Child mode:* Will the spoon fall if I let go? Are you sure?
-  - Note: This is the thing to notice first. Your child is sure the spoon will fall, and is right. Do not explain anything yet.
+  - Note: Your child is sure the spoon will fall, and is right. Do not explain anything yet.
 - **s2 (2 min)**  
   *Parent does:* 1. Show your child a coin. 2. Ask whether it will land lions up. 3. Toss it onto the bed.  
   *Parent says:* Now this coin. Will it land with the lions up? Are you sure, like with the spoon?  
@@ -384,7 +384,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - **your turn:** Make your own fair chooser. Use it 12 times and tally who is chosen. If one child is chosen far more often, change your design and test again.
 - **constraints:** Each of the three children must have the same chance.; Nobody may choose or steer the result.; Use only things you find at home.; Test it at least 12 times and tally who gets chosen.
 - **general:** Three folded slips, one with each name, in a tumbler. Pick one without looking.; Roll a die. 1 or 2 chooses the first child, 3 or 4 the second, 5 or 6 the third.
-- **creative:** Cut a card circle into three equal parts, one per child. Push a pencil through the middle and spin it like a top. The part that touches the floor chooses.; Two coin tosses: heads-heads chooses one child, heads-tails another, tails-heads the third, and tails-tails means toss again.
+- **creative:** Draw straws. Hold three paper strips with the ends hidden, one cut shorter. Each child picks one. The child with the short strip is chosen.; Two coin tosses: heads-heads chooses one child, heads-tails another, tails-heads the third, and tails-tails means toss again.
 - **s1 (4 min)**  
   *Parent does:* 1. Explain the problem. 2. Ask the question below.  
   *Parent says:* A coin has two sides, so it can choose between two people. How could we choose fairly among three?  
@@ -493,7 +493,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 
 ## Applications
 - Weather scientists at the India Meteorological Department say how likely rain is, because they cannot know for sure. The physicist Anna Mani designed many of the weather instruments the department used.
-- Cricket umpires toss a coin to choose which captain decides who bats first, because a coin gives both teams the same chance.
+- In cricket, the two captains toss a coin, and the winner chooses to bat or bowl first. A coin gives both teams the same chance.
 - Board games such as Ludo and snakes and ladders use a die, so nobody can choose how far to move.
 - Doctors test a new medicine on many people, not just one, because one person's result can be a fluke, but many together show what usually happens.
 - Lucky draws at school fairs pick a name without looking, so every ticket has the same chance.
@@ -529,7 +529,7 @@ Outside, the rain went on falling. Nobody knew when it would stop. But everyone 
 - Why did the tally line feel left out? *It was the fifth one, so it had to lie across the others!*
 
 ## Connected maths
-- In the coin test, Ananya made a tally of her heads: IIII IIII I. How many heads did she get? **11 heads.**. Each bundle of IIII with a line across is 5. Two bundles make 10, and one more line makes 11. (queues `math.data.sorting-and-tallies.L2`)
+- In the coin test, Ananya made a tally of her heads. It has two bundles of five lines and one more single line. How many heads did she get? **11 heads.**. Each bundle is 5. Two bundles make 10, and one more line makes 11. (queues `math.data.sorting-and-tallies.L2`)
 - Ananya got 11 heads in 20 tosses. Her Amma got 9 heads in 20 tosses. How many heads did they get altogether, out of 40 tosses? Is that close to half? **20 heads out of 40. That is exactly half.**. 11 and 9 make 20. Half of 40 is 20. One count was a little over half and one a little under, and together they balanced out. (queues `math.data.sorting-and-tallies.L2`)
 - A die has six faces. How many faces are not a six? So which is more likely on one roll: a six, or not a six? **5 faces are not a six, so not a six is more likely.**. 6 faces take away the 1 face with a six leaves 5. Five faces against one face makes 'not a six' much more likely. (queues `math.probability.likely-and-unlikely.L2`)
 - Nandini has 10 slips. 7 have a star. How many are blank? If she picks one without looking, is a star likely or unlikely? What should she change to make a star and a blank just as likely? **3 are blank. A star is likely. She should make 5 star slips and 5 blank slips.**. 10 take away 7 is 3. There are more star slips than blank ones, so a star is likely. With 5 of each, the chances are the same. (queues `math.probability.likely-and-unlikely.L2`)
@@ -539,7 +539,7 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 
 ## Links
 - [Random.org coin flipper](https://www.random.org/coins/) · simulation: A free website that flips pictures of coins for you. Flip many at once and count the heads, to see what many tosses come close to.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with hands-on displays. Look for anything with dice, balls falling through pegs or games of chance.
+- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with hands-on displays. Ask the guides if anything there is about chance or games.
 - [Birla Industrial and Technological Museum]() · place · Kolkata: A big science museum with hands-on galleries. A good outing to ask the museum guides about chance and games.
 
 ## Things to buy

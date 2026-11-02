@@ -23,29 +23,29 @@
 ### Food and drink keep us healthy · *defined*
 **Definition:** Food gives your body what it needs to grow, to move and to mend itself. Water helps every part of your body work.
 
-Your body is always busy. It grows taller. It mends a scraped knee. It keeps you warm and lets you run. All of this needs food. Different foods give different help, so it is good to eat many kinds: grains like rice and ragi, dal, vegetables, fruit, milk or curd, and eggs, fish or meat if your family eats them. Your body also needs water, every day. Some foods, like sweets and sweet drinks, are fine sometimes, but lots of them is hard on your teeth.
+Your body is always busy. It grows taller, mends a scraped knee and lets you run. All of this needs food. Eat many kinds: rice or ragi, dal, vegetables, fruit, curd or milk, and eggs or fish if your family eats them. Lots of sweet food is hard on your teeth.
 - e.g. A plate of rice, sambar, a vegetable and curd gives many kinds of food at once.
 - e.g. A scraped knee heals in about a week, and your body uses food to build the new skin.
-- e.g. Kamala Sohonie, an Indian scientist, studied neera, the sweet sap of palm trees. She found vitamins in it, and suggested it as a cheap, healthy drink for children who did not get enough food.
+- e.g. Kamala Sohonie, a scientist from India, found vitamins in neera, the sweet sap of palm trees. She said it could be a cheap, healthy drink for children who did not get enough food.
 ### Your body needs water every day · *defined*
 **Definition:** More than half of your body is water. You lose some all day, so you need to drink every day.
 
-Your blood is mostly water. So is the inside of your eyes, and the spit in your mouth. Water leaves your body all day. It leaves as sweat through your skin, in your breath, and when you go to the toilet. When your body is short of water, a small part of your brain notices. Then you feel thirsty. Thirst is your body asking for a drink. On hot days, and after running about, you lose more water, so you need to drink more.
+Your blood is mostly water. Water leaves your body all day: as sweat through your skin, in your breath, and when you wee. When your body is short of water, a part of your brain notices, and you feel thirsty. Thirst is your body asking for a drink.
 - e.g. After a game in the sun, your T-shirt is wet with sweat, and you feel thirsty.
 - e.g. In summer in Hyderabad or Nagpur, children need to drink more than in the cool months.
 - e.g. When you breathe onto a cold window, it mists up. That mist is water from your breath.
 ### Some water comes in your food · *defined*
 **Definition:** Most foods have some water inside them. Some foods, like cucumber and watermelon, are mostly water.
 
-A cucumber is about 95 parts water out of every 100. A watermelon is a little less. The cucumber plant drank that water through their roots and stored it in the fruit. When you squeeze a cucumber, some water runs out. When you eat it, your body gets that water. Cooked rice, dal and idli hold water too, because we cook them in water. Dry foods, like biscuits, roasted chana and murmura, hold almost none. So all day long, your food is giving you some water, as well as your drinks.
+A cucumber is about 95 parts water out of every 100. The cucumber plant drank that water through their roots and kept it in the fruit. Cooked rice, dal and idli hold water too, because water is used to cook them. Dry foods, like biscuits, roasted chana and murmura, hold almost none.
 - e.g. Cucumber and watermelon drip water when you squeeze them.
 - e.g. Dry rice grains are hard. Cooked rice is soft, because the grains took in water in the pot.
 - e.g. A biscuit stays dry when you squeeze it. If you dip it in milk, it soaks the milk up.
 ### Why we like the foods we like · *idea*
-Babies are born liking sweet tastes and pulling a face at bitter ones. Scientists have filmed this in newborn babies. But liking is also learned. Small children often push away a new food at first. When they taste it again and again, many come to like it. We also like the foods our family eats, because we taste them often. And every person's tongue and nose are a little different. Scientists are still finding out how much of liking is born in us, and how much is learned.
+Babies are born liking sweet tastes and pulling a face at bitter ones. But liking is also learned. Many children push away a new food at first, and come to like it after many small tastes. Scientists are still finding out how much of liking is born in us, and how much is learned.
 - e.g. A baby smiles at a drop of something sweet, and screws up their face at something bitter.
 - e.g. Many children who disliked karela or pavakkai come to enjoy it when they are older.
-- e.g. Some people find that coriander leaves taste like soap. This seems to be partly in their genes.
+- e.g. Some people find that coriander leaves taste like soap. This seems to be partly because of how their bodies are made.
 - **Scientists who study babies:** Liking sweet and disliking bitter is there from birth. Sweet foods usually carry energy, and many bitter things in nature can make you ill.
 - **Scientists who study how children learn to eat, like Leann Birch:** Most likes are learned. Children come to like the foods they taste many times, without being pushed.
 - **Families and cooks across India:** We learn to enjoy many tastes together. On Ugadi, families in Karnataka, Andhra Pradesh and Telangana eat a pachadi with sweet, sour, salty, bitter and hot tastes in one spoonful.
@@ -81,13 +81,13 @@ We have squeezed water out of a cucumber, and found that some foods are mostly w
 - *what is life:* Every living being needs water. The cucumber plant drank water through their roots and kept it in their fruit.
 - *what is this world:* The same water goes round and round: rain, the soil, a plant, a cucumber, you, the air, and rain again.
 
-Water is one thing, but it takes part in many lives. Rain soaks into the soil. A cucumber plant drinks the rain and holds the water in their fruit. You eat the cucumber, and the water becomes part of you. Then it leaves you in your sweat and breath, and rises to make clouds again.
+The water in a cucumber was rain once. The rain soaked into the soil. Then a cucumber plant stored that water in their fruit. You eat the cucumber, and the water becomes part of you. Then it leaves you in your sweat and breath, and rises to make clouds again.
 
 - **Taittiriya Upanishad 3.2:** The sage Bhrigu thought hard about where living beings come from. He understood that from food beings are born, by food they live, and into food they return. (Your body is built from what you eat and drink. Even the water in you came in through your food and your tumbler.)
-- **Thirukkural 20, by Thiruvalluvar:** The world cannot go on without water. And without rain, no water flows. (Every food in our squeeze test grew with water from rain. The juicy ones still carried that water when we squeezed them.)
+- **Thirukkural 12, by Thiruvalluvar:** Rain grows the food that people eat. Rain is also a drink for them. (Rain grew the cucumber, and the water that drips from it is that rain.)
 - Science (settled): A cucumber is about 95 parts water out of 100. The water is held in tiny living cells, and it keeps the cucumber firm and crisp.
 - Science (open): When your body is short of water, a small part of your brain senses it and makes you feel thirsty. Exactly how thirst switches off so fast when you drink is still being studied.
-- Other view, Many doctors and nutrition scientists: Many doctors keep food and drink apart when they give advice. They say a thirsty child needs a real drink, because watery food alone often does not put back the water lost on a hot day.
+- Other view, Many doctors and nutrition scientists: Some doctors say a thirsty child should drink water first. A few slices of cucumber or watermelon hold much less water than a tumbler does.
 - Practice, One slow bite (3 min): Take one slice of cucumber. Hold it and feel how cool it is. Now take one small bite, and chew very slowly. Feel the water come out on your tongue. Close your eyes. This water was rain once. Then a cucumber plant drank this water. Now the water is becoming part of you.
 - Ask: When you eat a cucumber, are you eating or drinking?
 - Ask: The water in you was in a cucumber, and before that in the rain. Where will it go next?
@@ -102,9 +102,7 @@ Water is one thing, but it takes part in many lives. Rain soaks into the soil. A
 ## Story: Cucumbers at the Station
 *Kavya, Arjun and their mother are made up. Cucumber really is about 95% water, and cucumber slices with salt and chilli really are sold at many Indian railway stations.*
 
-Kavya was six. She lived in Chennai with her mother and her little brother, Arjun, who was four. One hot day in May, the three of them took the train to visit their grandmother in Madurai.
-
-The train was full and warm. The fan above them turned and turned, but the air still felt hot. Kavya pressed her nose to the window bars and watched the fields go by. Arjun sat on Amma's lap and swung his legs.
+Kavya was six. She lived in Chennai with her mother and her little brother, Arjun, who was four. One hot day in May, the three of them took the train to visit their grandmother, Paati, in Madurai.
 
 Amma had filled a big steel bottle with water. Kavya drank some. Arjun drank some. Then Arjun drank some more, and some more. By the time the train stopped at a big station, the bottle was empty.
 
@@ -112,7 +110,7 @@ Amma had filled a big steel bottle with water. Kavya drank some. Arjun drank som
 
 'We will buy water here,' said Amma. She looked out of the window. The water seller was at the far end of the platform, with a long line of people waiting. The train would leave in a few minutes.
 
-Just then a woman walked past the window with a basket on her head. 'Vellarikka! Vellarikka!' she called. In her basket were long, green cucumbers. She cut them into slices and sprinkled them with salt and red chilli powder.
+Just then a woman walked past the window with a basket on her head. 'Vellarikkai! Vellarikkai!' she called. In her basket were long, green cucumbers. She cut them into slices and sprinkled them with salt and red chilli powder.
 
 Amma bought a paper cone of cucumber slices. Kavya took a slice and bit it. It was cold and crunchy. Juice ran down her chin.
 
@@ -134,9 +132,7 @@ Arjun ate one slice. Then another. Then four more. He stopped asking for water. 
 
 At the next station, Amma bought a new bottle of water. 'The cucumber helped,' she said, 'but in this heat, your bodies need a proper drink too.' Arjun and Kavya both drank, slowly, all the way to Madurai.
 
-When they got to Paati's house, Paati gave them glasses of cool buttermilk. Kavya held up her glass. 'Paati,' she said, 'did you know there is water hiding in cucumbers?' Paati smiled. 'And in watermelon,' she said. 'And in oranges, and in the rice I am cooking for you right now.'
-
-That night, Kavya lay on her mat and thought about all the water in the world. Rain falls into the ground. Plants drink it. We eat the plants. The water goes into us. Then it comes out again, in our sweat and our breath. She wondered where the water in her cucumber would go next.
+That night in Madurai, Kavya lay on her mat and thought about all the water in the world. Rain falls into the ground. Plants drink the water. We eat the plants. The water goes into us. Then it comes out again, in our sweat and our breath. She wondered where the water in her cucumber would go next.
 
 **For the parent:** Kavya squeezes a cucumber slice and sees water drip out. She works out that food can carry water inside it, so eating a cucumber also gives you a drink.
 
@@ -146,15 +142,15 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
 
 ## Games
 ### g1 · Wet, Damp or Dry? A food sorting game (15 min)
-- **rules:** Draw the three baskets on a big sheet. Mix the cards and put them face down.; Take turns. Turn over the top card and say the food.; Put the card in the Wet, Damp or Dry basket. Say why.; The grown-up reads the back. If you were right, keep the card.; If you were wrong, put the card at the bottom of the pile to try again.; When the pile is empty, everyone counts their cards.
-- **Printable cards: 18 food cards to cut out:** Cucumber (back: Wet. A cucumber is about 95 parts water out of 100.); Watermelon (back: Wet. Watermelon is more than 90 parts water out of 100.); Tomato (back: Wet. A tomato drips juice when you squeeze it.); Orange (back: Wet. Each segment is full of juice.); Coconut water (back: Wet. It is a drink that grows inside a coconut.); Buttermilk (back: Wet. Buttermilk is mostly water, with a little curd.); Milk (back: Wet. Milk is mostly water.); Curd (back: Wet. Curd is mostly water, held thick.); Banana (back: Damp. A banana is about three-quarters water, held in a soft paste.); Cooked rice (back: Damp. The grains took in water in the pot.); Idli (back: Damp. Idlis are steamed, and hold water inside.); Chapati (back: Damp. A fresh chapati holds some water, but less than rice.); Biscuit (back: Dry. A biscuit is baked until almost all the water is gone.); Roasted chana (back: Dry. Roasting drives out the water.); Murmura or pori (back: Dry. Puffed rice is crisp and dry.); Groundnuts (back: Dry. Groundnuts hold very little water.); Papad (back: Dry. Papad is dried in the sun before it is fried or roasted.); Dry dates (back: Dry. Fresh dates are soft, but dry dates have lost most of their water.)
-- **Printable board: Three baskets to draw on a big sheet:** A blue basket with three drops on it: 'Wet: drips when you squeeze it'; A green basket with one drop on it: 'Damp: soft, with a little water'; A brown basket with a cross on it: 'Dry: crunchy, almost no water'
+- **rules:** Draw the three baskets on a big sheet. Mix the cards and put them face down in a pile.; Take turns. Turn over the top card and say the food. A grown-up can read the card aloud.; Say which basket it goes in, and why. Point to the basket.; The grown-up reads the back of the card. If you were right, put the card in that basket and make a tick for yourself on paper.; If you were wrong, say the right basket together and put the card there. No tick.; When the pile is empty, count the ticks. Most ticks wins. Then count the cards in each basket: which basket has the most?
+- **Printable cards: 18 food cards to cut out:** Cucumber (back: Wet. A cucumber is about 95 parts water out of 100.); Watermelon (back: Wet. Watermelon is more than 90 parts water out of 100.); Tomato (back: Wet. A tomato drips juice when you squeeze it.); Orange (back: Wet. Each segment is full of juice.); Coconut water (back: Wet. It is a drink that grows inside a coconut.); Buttermilk (back: Wet. Buttermilk is mostly water, with a little curd.); Milk (back: Wet. Milk is mostly water.); Curd (back: Wet. Curd is mostly water, held thick.); Banana (back: Damp. A banana is about three-quarters water, held in a soft paste.); Cooked rice (back: Damp. The grains took in water in the pot.); Idli (back: Damp. Idlis are steamed, and hold water inside.); Chapati (back: Damp. A fresh chapati holds some water, but less than rice.); Biscuit (back: Dry. A biscuit is baked until almost all the water is gone.); Roasted chana (back: Dry. Roasting drives out the water.); Murmura or pori (back: Dry. Puffed rice is crisp and dry.); Groundnuts (back: Dry. Groundnuts hold very little water.); Papad (back: Dry. Papad is dried in the sun before it is fried or roasted.); Dry rice grains (back: Dry. Raw rice grains are hard. They go soft only after cooking in water.)
+- **Printable board: Three baskets to draw on a big sheet:** A blue basket with three drops on it: 'Wet: runs or drips, mostly water'; A green basket with one drop on it: 'Damp: soft, with some water held inside'; A brown basket with a cross on it: 'Dry: hard or crunchy, almost no water'
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 18 cards. 2. Draw the three baskets. 3. Mix the cards and stack them face down.  
-  *Parent says:* This game is about water hiding in food. Wet foods drip when you squeeze them. Damp foods are soft. Dry foods are crunchy.  
-  *Child mode:* Wet foods drip. Damp foods are soft. Dry foods crunch. Let's sort!
+  *Parent says:* This game is about water hiding in food. Wet foods run or drip. Damp foods are soft, with water held inside. Dry foods are hard or crunchy.  
+  *Child mode:* Wet foods run or drip. Damp foods are soft. Dry foods are hard or crunchy. Let's sort!
 - **s2 (10 min)**  
-  *Parent does:* Take turns to turn a card, say the food, put it in a basket and say why. Read the back aloud.  
+  *Parent does:* Take turns to turn a card, say the food, point to a basket and say why. The grown-up reads the back aloud.  
   *Parent says:* Where does this one go? Why do you think so? Let's read the back.  
   *Child mode:* Turn a card. Wet, damp or dry? Say why.
   - Note: If you did the squeeze test, remind your child what the cucumber and the biscuit did.
@@ -165,9 +161,8 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
   *Child mode:* On a hot day, which basket would you pick from? Why?
   - Ask: Why that basket? (good: The wet basket, because those foods give you water.)
 ### g2 · Water Keeper: a bean counting game (15 min)
-- **rules:** Each player has a cup or katori and 8 dried beans in it, like rajma or chana. Put a heap of spare beans in the middle.; Mix the cards and stack them face down.; Take turns. Turn over a card and read it. A grown-up reads the back.; Take out or put in beans, as the back says.; If you have 5 beans or fewer, say 'I'm thirsty!' On your next turn, you may skip the card and drink instead: put in 2 beans.; Play until the cards run out. Everyone who kept between 5 and 12 beans had a comfortable day.
-- **Printable cards: 16 day cards to cut out:** You played in the hot sun. (back: You sweated. Take out 2 beans.); You ran round the building three times. (back: You sweated and breathed hard. Take out 2 beans.); You slept all night. (back: Your breath took a little water. Take out 1 bean.); You went to the toilet. (back: Take out 1 bean.); You sat in a cool room and read a book. (back: You lost only a little water. Take out 1 bean.); You ate a bowl of salty chips. (back: Salt makes you thirsty. Take out 1 bean.); You walked to the market in the afternoon heat. (back: Take out 2 beans.); You danced at a wedding. (back: Take out 2 beans.); You drank a tumbler of water. (back: Put in 2 beans.); You drank a glass of buttermilk. (back: Put in 2 beans.); You drank coconut water. (back: Put in 2 beans.); You ate slices of cucumber. (back: Put in 1 bean.); You ate a big piece of watermelon. (back: Put in 1 bean.); You ate curd rice. (back: Put in 1 bean.); You ate a biscuit. (back: A biscuit has almost no water. No beans.); You ate a handful of roasted chana. (back: Roasted chana is dry. No beans.)
-- **Printable score sheet: A cup to draw for each player:** A cup with a line near the top marked 'Too full: 12' and a line low down marked 'Thirsty: 5'. Keep your beans between the lines.
+- **rules:** Each player has a cup or katori with 8 dried beans in it, like rajma. Put a heap of about 20 spare beans in the middle.; Mix the cards and stack them face down.; Take turns. Turn over a card. A grown-up reads it aloud, then reads the back.; Take out beans or put in beans, as the back says. If your cup is empty, you cannot take out any more.; If you have 4 beans or fewer, say 'I'm thirsty!' On your next turn, you may drink instead of reading a card: put in 2 beans from the heap, and put the unread card aside.; Play until the cards run out. Everyone who ends with 5 to 12 beans had a comfortable day. With more than 12 beans, you drank too much. With fewer than 5, you were thirsty. Can everyone have a comfortable day?
+- **Printable cards: 16 day cards to cut out:** You played in the hot sun. (back: You sweated. Take out 2 beans.); You ran round the building three times. (back: You sweated and breathed hard. Take out 2 beans.); You slept all night. (back: Your breath took a little water. Take out 1 bean.); You went to the toilet. (back: Water leaves your body when you wee. Take out 1 bean.); You sat in a cool room and read a book. (back: You lost only a little water. Take out 1 bean.); You ate a bowl of salty chips. (back: Salt makes you thirsty. Take out 1 bean.); You walked to the market in the afternoon heat. (back: You sweated in the heat. Take out 2 beans.); You danced at a wedding. (back: You sweated and breathed hard. Take out 2 beans.); You drank a tumbler of water. (back: Put in 2 beans.); You drank a glass of buttermilk. (back: Put in 2 beans.); You drank coconut water. (back: Put in 2 beans.); You ate slices of cucumber. (back: Put in 1 bean.); You ate a big piece of watermelon. (back: Put in 1 bean.); You ate curd rice. (back: Put in 1 bean.); You ate a biscuit. (back: A biscuit has almost no water. No beans.); You ate a handful of roasted chana. (back: Roasted chana is dry. No beans.)
 - **s1 (2 min)**  
   *Parent does:* 1. Give each player a cup with 8 beans. 2. Explain that the beans stand for the water in your body.  
   *Parent says:* Your beans are the water in your body. Some things make you lose water. Some things give it back.  
@@ -188,7 +183,7 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
 ### e1 · The Squeeze Test: which foods have water inside? (25 min)
 - **question:** Which foods from our kitchen have water inside them, and which have almost none?
 - **predict:** Look at each food and touch it. Which ones do you think have water inside? Which are dry inside? Why do you think so?
-- **fair test:** Each piece of food is about the same size, about one big spoonful. We press each one on paper for the same count of ten. We squeeze each one in the same hanky, as hard as we can.
+- **fair test:** Each piece of food is about one big spoonful. A grown-up mashes or crushes each one with a fork or the back of a spoon first. We press each one on paper for the same count of ten. We squeeze each one in the same hanky, as hard as we can, and dry the hanky between foods.
 - **record:** Draw the six foods in a row. Draw drops under each food that dripped. Draw a cross under each food that stayed dry.
 - **results table:** Food | My guess: wet or dry inside? | Paper test: a wet mark? | Squeeze test: any drops?
 - **s1 (4 min)**  
@@ -196,20 +191,20 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
   *Parent says:* Here are six foods. Touch each one. Which ones do you think have water inside? Why do you think so?  
   *Child mode:* Touch each food. Which ones have water inside? Guess. Say why.
   - Ask: Why do you think so? (good: The cucumber feels cold and wet.; The biscuit is crunchy, so it is dry.; The banana is soft, so maybe it has water.)
-  - Note: Any guess is fine. Write each guess down or put a small paper W or D next to each food. Many children guess that banana is dry, because it feels dry on the outside.
+  - Note: Any guess is fine. You write each guess down, or put a small paper W or D next to each food. Many children guess that banana is dry, because it feels dry on the outside.
 - **s2 (5 min)**  
-  *Parent does:* 1. Put six paper squares on the table. 2. Press each food onto its own square. 3. Count to ten together. 4. Lift the food and look at the paper.  
+  *Parent does:* 1. Put six paper squares (napkin, tissue or newspaper) on the table. 2. A grown-up mashes or crushes each food. 3. Spoon each food onto its own square and press. 4. Count to ten together. 5. Lift the food and look at the paper.  
   *Parent says:* Press the food down on the paper. Let's count to ten. Now lift it. Is the paper wet?  
   *Child mode:* Press the food on the paper. Count to ten. Lift it. Is the paper wet?
   - Ask: Which papers got wet? (good: The cucumber and watermelon papers got very wet.; The banana made a small damp mark.; The biscuit paper stayed dry.)
-  - Note: Cut faces of cucumber, watermelon and tomato make a big wet patch. Banana and cooked rice usually make a small damp, sticky mark. The biscuit and chana leave no wet mark.
+  - Note: Mashed cucumber, watermelon and tomato make a big wet patch. Banana and cooked rice usually make a small damp, sticky mark. The biscuit and chana leave no wet mark.
 - **s3 (9 min)**  
-  *Parent does:* 1. Put the cucumber bits in the middle of the hanky. 2. Gather the corners and twist them over the glass. 3. Squeeze hard. 4. Shake out the hanky and do the same with each food.  
+  *Parent does:* 1. Put the mashed cucumber in the middle of the hanky. 2. Gather the corners and twist them over the glass. 3. Squeeze hard. 4. Pat the hanky dry with a napkin, wipe the glass, and do the same with each food.  
   *Parent says:* Now the squeeze test. Hold the hanky over the glass. Twist and squeeze as hard as you can. What comes out?  
   *Child mode:* Put the food in the hanky. Twist it over the glass. Squeeze hard! What comes out?
   - Ask: What came out of the cucumber? (good: Water dripped out.; Lots of drops fell in the glass.)
   - Ask: What came out of the biscuit? (good: Nothing. Just crumbs.; No water at all.)
-  - Note: Small children's hands may not be strong enough, so twist the hanky together. Cucumber and watermelon give clear drops within a few seconds. Squeeze the dry foods last, so the hanky stays dry for them. Pour the drops from each food onto the steel plate in a row, so you can compare.
+  - Note: Small children's hands may not be strong enough, so twist the hanky together. Cucumber and watermelon give clear drops within a few seconds. Squeeze the dry foods last. Pat the hanky dry and wipe the glass between foods, so you can compare the drops.
 - **s4 (4 min)**  
   *Parent does:* 1. Line up the foods from the one that gave the most water to the one that gave none. 2. Look at the guesses again. 3. Ask your child to say what they found, and what showed it.  
   *Parent says:* Which food gave the most water? Which gave none? Was your guess right? What did you see that tells you?  
@@ -227,15 +222,15 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
 ### a1 · The Feely Bag: guess the fruit or vegetable (10 min)
 - **record:** Draw the one that was hardest to guess.
 - **s1 (6 min)**  
-  *Parent does:* 1. Put the five foods in the bag while your child is not looking. 2. Your child puts one hand in and feels one food. 3. They say what they feel, then guess.  
+  *Parent does:* 1. Put the five foods in the bag while your child is not looking. 2. Your child puts one hand in and feels one food. 3. They say what they feel, then guess, then pull it out. 4. Do the same for each food.  
   *Parent says:* Put your hand in the bag. Hold one thing. Is it smooth or bumpy? Hard or soft? What do you think it is?  
   *Child mode:* Feel one thing in the bag. Is it smooth or bumpy? Hard or soft? Guess!
   - Ask: What does it feel like? (good: Smooth and round.; Bumpy and a bit squishy.; Long and hard at one end.)
   - Note: Ask for describing words before the guess. A lemon has bumpy skin, a tomato is smooth and gives a little when pressed, an onion has dry papery skin.
 - **s2 (4 min)**  
-  *Parent does:* 1. Take all five foods out. 2. Ask which ones are eaten raw and which are cooked at home. 3. Let your child pick one to eat or cook with today.  
-  *Parent says:* Which of these do we eat raw? Which do we cook? Which one would you like to eat today?  
-  *Child mode:* Which ones do we eat raw? Which do we cook? Pick one to eat today.
+  *Parent does:* 1. Line up the five foods. 2. Ask which one your child thinks has the most water inside. 3. Ask which ones we eat raw and which we cook. 4. Let your child pick one to eat or cook with today.  
+  *Parent says:* Which of these do you think has the most water inside? Which do we eat raw? Which do we cook? Which one would you like to eat today?  
+  *Child mode:* Which one has the most water inside? Which do we eat raw? Pick one to eat today.
   - Note: Children often eat more of a food they have touched and chosen themselves.
 ### a2 · Make Kosambari: a crunchy salad from Karnataka (20 min)
 - **record:** Draw your bowl of kosambari. Colour the parts that had water inside.
@@ -243,7 +238,7 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
   *Parent does:* 1. Show your child a few dry moong dal grains next to the soaked dal. 2. Let them press one of each between finger and thumb.  
   *Parent says:* Press a dry dal grain. Now press a soaked one. What is different? Where did the water go?  
   *Child mode:* Press a dry dal. Press a soaked dal. Which is soft? Where did the water go?
-  - Ask: Where did the water go? (good: Into the dal.; The dal drank it up and got bigger.)
+  - Ask: Where did the water go? (good: Into the dal.; The dal soaked up the water and got bigger.)
   - Note: Soaked dal is bigger and soft enough to squash. The water went inside the grains.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up chops the cucumber and grates the carrot. 2. Your child drains the dal and tips everything into the bowl. 3. Your child squeezes the lemon, adds a pinch of salt and stirs.  
@@ -273,14 +268,14 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
   *Parent says:* How many drops did you draw today? When did you feel most thirsty?  
   *Child mode:* Count your drops. When were you most thirsty?
   - Ask: When did you feel most thirsty? (good: After playing.; When it was hot.; After eating chips.)
-  - Note: There is no right number. Most children of 6 drink somewhere around 4 to 6 tumblers a day, and more on hot days. Food gives some water too.
+  - Note: There is no right number. You will drink more on hot days. Food gives some water too.
 
 ## Projects
-### p1 · Ten Tiny Tastes: can I learn to like a food? (30 min, 10 days)
+### p1 · Ten Tiny Tastes: can I learn to like a food? (37 min, 10 days)
 - **record:** The ten faces, one for each taste.
-- **schedule:** day 1: Pick the food. Draw 10 circles. Taste a pea-sized bit and draw a face in circle 1. (5 min); day 2: Taste a tiny bit again. Draw a face in circle 2. (3 min); day 4: Taste again. Draw a face. Has the face changed? (3 min); day 7: Taste again. Draw a face. (3 min); day 10: Taste for the tenth time. Draw the last face. Look at all ten faces together. (8 min)
+- **schedule:** day 1: Pick the food. Draw 10 circles. Taste a pea-sized bit and draw a face in circle 1. (5 min); day 2: Taste a tiny bit again. Draw a face in circle 2. (3 min); day 3: Taste a tiny bit again. Draw a face in circle 3. (3 min); day 4: Taste a tiny bit again. Draw a face in circle 4. (3 min); day 5: Taste a tiny bit again. Draw a face in circle 5. (3 min); day 6: Taste a tiny bit again. Draw a face in circle 6. (3 min); day 7: Taste a tiny bit again. Draw a face in circle 7. (3 min); day 8: Taste a tiny bit again. Draw a face in circle 8. (3 min); day 9: Taste a tiny bit again. Draw a face in circle 9. (3 min); day 10: Taste for the tenth time. Draw the last face. Look at all ten faces together. (8 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Let your child pick one food they do not like yet, from your usual meals. 2. Draw 10 circles together. 3. Put a pea-sized bit on a spoon.  
+  *Parent does:* 1. Let your child pick one food they do not like yet, from your usual meals. 2. Draw 10 circles together. 3. Put a pea-sized bit on a spoon. 4. Your child tastes it and draws a face in circle 1.  
   *Parent says:* Pick a food you don't like yet. Just taste a bit as small as a pea. You don't have to eat more.  
   *Child mode:* Pick a food you don't like yet. Taste a tiny bit. Then draw a face.
   - Note: Never push, bribe or praise heavily for eating it. Leann Birch found that pressure can make children like a food less. Spitting it into a napkin is allowed. The tasting is the whole job.
@@ -289,7 +284,7 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
   *Parent says:* Here is today's tiny taste. How was it? Draw your face.  
   *Child mode:* Taste a tiny bit. How was it? Draw a face.
   - Note: Serve the food the same way each time, so the taste is the same. It is fine to eat it alongside a food your child likes.
-  - Wait: Taste again on days 2, 4 and 7.
+  - Wait: Taste again every day, on days 2 to 9.
 - **s3 (8 min)**  
   *Parent does:* 1. Give the tenth taste. 2. Draw the last face. 3. Look at all ten faces in a row.  
   *Parent says:* Look at your ten faces. Did they change? Why do you think they changed, or stayed the same?  
@@ -305,7 +300,7 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
 - **your turn:** Now plan your own tiffin. Draw it. Pack it on a real day, and see if it worked by lunchtime.
 - **constraints:** Use foods your family has at home.; It must include one wet food and one drink.; It must be something you like to eat.
 - **general:** Pack curd rice and a few cucumber slices, with a bottle of water.; Pack an orange or a few pieces of watermelon, with idli or chapati.; Fill the water bottle to the top, so you have plenty for the day.
-- **creative:** Freeze a half-full bottle of water overnight, then fill it up in the morning. It stays cold for hours and keeps the tiffin cool too.; Wrap the bottle in a wet cotton cloth. As the water dries off the cloth, the bottle stays cooler.; Pack buttermilk with a pinch of salt in a well-closed bottle, for a drink that also tastes good.
+- **creative:** Freeze a half-full bottle of water overnight, then fill it up in the morning. It stays cold for hours and keeps the tiffin cool too.; Wrap the bottle in a wet cotton cloth. As the water dries off the cloth, the bottle stays cooler.; Pack a bottle of lemon water with a pinch of salt and a little sugar, for a drink that tastes good and replaces some of the water you sweat out.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Ask your child what goes wrong with a tiffin on a hot day.  
   *Parent says:* On a hot day at school, what goes wrong with a tiffin? What do you need most?  
@@ -315,7 +310,7 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
   *Parent does:* Your child draws a tiffin with one wet food, one other food and a drink. Ask why they chose each one.  
   *Parent says:* Draw your tiffin. Which food has water inside? Why did you pick it?  
   *Child mode:* Draw your tiffin. Put in one wet food and a drink. Why those?
-  - Note: Curd rice, idli and fruit keep well for a few hours. Very milky or creamy foods spoil faster in the heat.
+  - Note: Curd rice, idli and fruit keep well for a few hours. Very milky or creamy foods, and buttermilk, spoil faster in the heat.
 - **s3 (5 min)**  
   *Parent does:* Pack the planned tiffin on a real day. Afterwards, ask how it was.  
   *Parent says:* Was your tiffin still good at lunch? Was your water cool? What would you change?  
@@ -326,47 +321,47 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
 ### Water in food, and in me (core, 10 questions)
 1. (sort) Colour the wet foods blue. Colour the dry foods brown.  
    **Answer:** cucumber → Wet: drips when squeezed; biscuit → Dry: crunchy, no drips; watermelon → Wet: drips when squeezed; murmura → Dry: crunchy, no drips; orange → Wet: drips when squeezed; papad → Dry: crunchy, no drips. *Why:* Cucumber, watermelon and orange are full of water, so they drip when squeezed. Biscuit, murmura and papad are dried or baked, so they hold almost no water.
-2. (mcq) Remember the squeeze test? You squeezed cucumber in a hanky. What came out?  
-   Options: Crumbs / Drops of water / Nothing at all  
-   **Answer:** Drops of water. *Why:* A cucumber is mostly water. Squeezing it pushes some of the water out.
-3. (draw) Draw the squeeze test. Draw the hanky, the glass, and what dripped out.  
+2. (draw) Draw the squeeze test. Draw the hanky, the glass, and what dripped out.  
    **Answer:** A twisted hanky over a glass, with drops falling from it.. *Why:* A strong drawing shows the food inside the hanky and the drops falling into the glass.
-4. (match) Draw a line from each picture to where the water goes.  
-   **Answer:** A child playing in the hot sun → Out as sweat on the skin; A child breathing on a cold window → Out in the breath; A child drinking from a tumbler → Into the body. *Why:* Water goes into your body when you drink. It leaves as sweat through your skin and as water in your breath.
-5. (truefalse) A biscuit gives your body as much water as a cucumber.  
+3. (mcq) Dry rice grains are hard. Cooked rice is soft. Where did the water in cooked rice come from?  
+   Options: From the cooking pot / From the biscuit tin / From the air  
+   **Answer:** From the cooking pot. *Why:* The grains take in water as they cook in the pot. That is why they swell and go soft.
+4. (truefalse) A biscuit gives your body as much water as a cucumber.  
    **Answer:** False. *Why:* False. A biscuit is baked until almost all the water is gone. A cucumber is mostly water.
-6. (odd) Three of these drip water when you squeeze them. Which one does not?  
+5. (odd) Three of these drip water when you squeeze them. Which one does not?  
    Options: Watermelon / Tomato / Roasted chana / Orange  
    **Answer:** 2. *Why:* Roasted chana has been heated until almost all the water left. The other three are full of juice.
-7. (write) Say it out loud, and a grown-up writes it: why do we need to drink more water on a hot day?  
+6. (write) Say it out loud, and a grown-up writes it: why do we need to drink more water on a hot day?  
    **Answer:** On a hot day we sweat more, so more water leaves our body. We drink more to put it back.. *Why:* A strong answer says that water leaves the body as sweat, and that drinking puts it back.
-8. (perspective) Meena, a girl of 6 in Kochi, has just eaten a big bowl of watermelon. It is a hot afternoon.  
+7. (perspective) Meena, a girl of 6 in Kochi, has just eaten two small pieces of watermelon. It is a hot afternoon. Her grandmother is with her.  
    **Answer:** A strong answer picks a side with a reason. For example: 'Grandmother, because a hot day takes a lot of water out of you.' Then it is fair to the other side: Meena is right that the watermelon gave her water.. *Why:* Both are partly right. Watermelon really does give water. But a bowl of fruit may not put back all the water lost on a hot day, and thirst tells you when you need more.
-9. (label) Here are the six foods from the squeeze test. Write W under each food that dripped. Write D under each food that stayed dry.  
-   **Answer:** W under cucumber and watermelon. D under biscuit and roasted chana. Banana and rice may get D, or a small d for damp.. *Why:* Cucumber and watermelon dripped. The biscuit and chana did not. Banana and rice are damp: they made a small wet mark on paper but hardly dripped.
-10. (mcq) Arun, a boy of 6, has a dry mouth and wants a drink. What is his body telling him?  
+8. (label) Here are the six foods from the squeeze test. Write W under each food that dripped. Write D under each food that stayed dry.  
+   **Answer:** W under cucumber and watermelon. D under banana, cooked rice, biscuit and roasted chana.. *Why:* Cucumber and watermelon dripped. The others did not drip. Banana and rice left a small damp mark on paper, but they hardly dripped.
+9. (draw) Draw one thing you ate or drank today that had water in it.  
+   **Answer:** Any food or drink with water, such as a cucumber, fruit, curd, buttermilk or rice.. *Why:* A strong drawing shows a real food or drink from today, and the child can say where the water is.
+10. (mcq) Pooja, a girl of 6, has a dry mouth and wants a drink. What is his body telling him?  
    Options: I need water / I need a nap / I need a sweet  
    **Answer:** I need water. *Why:* A dry mouth and wanting a drink is thirst. Thirst is the body asking for water.
 ### Thinking about food and drink (stretch, 10 questions)
 1. (order) Put these in order, from the most water inside to the least: banana, biscuit, watermelon.  
    **Answer:** ['watermelon', 'banana', 'biscuit']. *Why:* Watermelon is more than 90 parts water out of 100. Banana is about three-quarters water. A biscuit has almost none.
-2. (mcq) In the squeeze test, banana did not drip, but it left a damp mark on paper. What does that show?  
-   Options: Banana has no water / Banana has water, but holds it tightly / The paper was wet already  
-   **Answer:** Banana has water, but holds it tightly. *Why:* A banana is about three-quarters water. The water is held in a soft paste, so it does not drip, but it still wets the paper.
+2. (mcq) A cook leaves cut cucumber slices on a plate in the hot sun all day. By evening they are small and dry. Where did their water go?  
+   Options: Into the air / Into the plate / Nowhere at all  
+   **Answer:** Into the air. *Why:* Heat and moving air carry water away from the slices as invisible vapour. This is how foods like papad are dried too.
 3. (write) Say it out loud, and a grown-up writes it: your body needs food and it needs water. Why is food alone not enough?  
    **Answer:** Food helps me grow and move, but my body also loses water all day. Dry food does not put that water back.. *Why:* A strong answer says that the body loses water all the time, and that many foods do not give enough water to replace it.
-4. (draw) Draw a tiffin for a hot school day. Put in one wet food and one drink. Colour them.  
-   **Answer:** Any tiffin with a watery food, such as cucumber, orange or curd rice, and a drink.. *Why:* A strong drawing shows food that gives water, as well as a drink, so the child stays well all day.
-5. (perspective) Two sisters in Bhubaneswar, Lipi aged 7 and Rina aged 5, are at dinner. There is karela on the table.  
+4. (perspective) Two sisters in Bhubaneswar, Lipi aged 7 and Rina aged 5, are at dinner. There is karela on the table.  
    **Answer:** A strong answer picks a side with a reason. For example: 'Lipi, because tasting many times helps people like a food.' Then it is fair to the other side: Rina is right that karela is very bitter, and some people never like it.. *Why:* Scientists found that many children come to like a food after tasting it many times. But tongues differ, and some people keep disliking a food. Both views have some truth.
-6. (truefalse) Sugar left on your teeth feeds tiny living beings in your mouth, and they make an acid that can harm your teeth.  
-   **Answer:** True. *Why:* True. Bacteria in the mouth feed on sugar and make acid. Over time the acid can make holes in teeth. Rinsing your mouth and brushing helps.
-7. (sort) Some foods got their water from the plant. Some got it in the cooking pot. Sort them.  
+5. (sort) Some foods got their water from the plant. Some got it in the cooking pot. Sort them.  
    **Answer:** cucumber → Water from the plant; cooked rice → Water from the cooking pot; orange → Water from the plant; idli → Water from the cooking pot; coconut water → Water from the plant; dal → Water from the cooking pot. *Why:* Cucumber, orange and coconut water held water when they grew. Rice, dal and idli batter are made from dry grains, and take in water when they are soaked and cooked.
-8. (count) Ammu drew a drop each time she drank water. She drew 2 drops in the morning, 1 at lunch and 2 after playing. How many drops is that?  
+6. (count) Ammu drew a drop each time she drank water. She drew 2 drops in the morning, 1 at lunch and 2 after playing. How many drops is that?  
    **Answer:** 5. *Why:* 2 and 1 make 3. 3 and 2 more make 5 drops.
-9. (label) Here is a picture of a child. Draw an arrow at each place where water leaves the body.  
+7. (label) Here is a picture of a child. Draw an arrow at each place where water leaves the body.  
    **Answer:** An arrow at the skin, for sweat. An arrow at the mouth and nose, for breath. Going to the toilet is a third way.. *Why:* Water leaves the body as sweat through the skin, as water in the breath, and as wee.
+8. (draw) Draw where the water in a cucumber came from, before the plant drank the water.  
+   **Answer:** Rain falling on the ground, soaking into the soil, and going up the roots of the cucumber plant.. *Why:* A strong drawing shows rain, soil, roots and the cucumber, in that order.
+9. (truefalse) Cooked rice has water inside it.  
+   **Answer:** True. *Why:* True. The grains took in water in the cooking pot, and that is why they are soft.
 10. (mcq) Which of these drinks has no sugar added?  
    Options: Plain water / Rose milk / A packet of fruit juice  
    **Answer:** Plain water. *Why:* Plain water has no sugar. Rose milk has sugar stirred in, and most packet juices have sugar added or are naturally very sweet.
@@ -383,24 +378,23 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
 2. (mcq) Water leaves your body all day. Which of these is one way it leaves?  
    Options: As sweat through your skin / Through your hair growing / Through your nails  
    **Answer:** As sweat through your skin. *Why:* Water leaves as sweat through your skin, in your breath, and when you go to the toilet.
-3. (mcq) In the squeeze test, which food dripped water?  
-   Options: The biscuit / The cucumber / The roasted chana  
-   **Answer:** The cucumber. *Why:* A cucumber is about 95 parts water out of 100, so water runs out when you squeeze it.
-4. (mcq) Why did the biscuit stay dry when squeezed?  
+3. (mcq) Why did the biscuit stay dry when squeezed?  
    Options: It is baked until almost all the water is gone / The hanky soaked up the water / It was not squeezed hard enough  
    **Answer:** It is baked until almost all the water is gone. *Why:* Baking drives the water out of a biscuit. That is what makes it crunchy.
-5. (mcq) When do you need to drink the most water?  
+4. (mcq) When do you need to drink the most water?  
    Options: On a cool day, sitting still / On a hot day, after running about / Just after waking up from a nap in a cool room  
    **Answer:** On a hot day, after running about. *Why:* On a hot day, and when you run about, you sweat more. So more water leaves your body.
-6. (mcq) Selvi, a girl of 6, did not like curd rice the first time she tried it. What might help her like it?  
+5. (mcq) Selvi, a girl of 6, did not like curd rice the first time she tried it. What might help her like it?  
    Options: Never giving it to her again / Tasting a little many times, without being pushed / Making her finish a big bowl  
    **Answer:** Tasting a little many times, without being pushed. *Why:* Many children come to like a food after tasting it many times. Pushing them to eat it can make them like it less.
-7. (mcq) What do tiny living beings in your mouth make from sugar?  
+6. (mcq) What do tiny living beings in your mouth make from sugar?  
    Options: An acid that can harm your teeth / New teeth / Water  
    **Answer:** An acid that can harm your teeth. *Why:* Mouth bacteria feed on sugar and make acid. The acid can make holes in teeth over time.
-8. (truefalse) Some of the water your body needs comes inside your food.  
+7. (truefalse) Some of the water your body needs comes inside your food.  
    **Answer:** True. *Why:* True. Watery foods like cucumber, fruit, curd and cooked rice all give your body water.
-9. (mcq) Before the squeeze test, Kiran guessed banana was dry. The banana made a damp mark on paper. What should Kiran say?  
+8. (truefalse) Eating many kinds of food, with plenty of vegetables and fruit, helps keep your body healthy.  
+   **Answer:** True. *Why:* True. Different foods help your body in different ways, so a mix of many kinds works best.
+9. (mcq) Before the squeeze test, Kiran, a girl of 6, guessed banana was dry. The banana made a damp mark on paper. What should Kiran say?  
    Options: My guess was wrong. The banana has some water inside. / The test is broken. / Bananas are dry, whatever the test shows.  
    **Answer:** My guess was wrong. The banana has some water inside.. *Why:* A good scientist changes their idea when the test shows something new. The damp mark showed the banana has water.
 10. (mcq) You feel thirsty. What is the best thing to do?  
@@ -433,21 +427,20 @@ That night, Kavya lay on her mat and thought about all the water in the world. R
 - Why do you think we feel more thirsty after salty food?
 
 ## Jokes
-- Why did the cucumber blush? *They saw the salad dressing!*
-- What did the biscuit say to the cucumber? *You're so wet, and I'm so crumbly!*
-- What kind of melon is always full of water? *A water-melon, of course!*
-- Why did the tumbler never get thirsty? *It was always full!*
-- What did the banana say when it was squeezed? *I'm keeping my water to myself!*
-- Why was the papad so quiet? *It was too dry to say anything!*
+- Why did the cucumber blush? *She saw the salad dressing!*
 - What do you call a sad strawberry? *A blueberry!*
-- Why did the orange stop rolling? *It ran out of juice!*
-- What is a cloud's favourite drink? *Rain water, served cold!*
+- Why did the orange stop rolling? *She ran out of juice!*
+- Why did the banana go to the doctor? *He wasn't peeling well!*
+- Why did the biscuit go to the doctor? *She was feeling crummy!*
+- Why did the tomato lose the race? *He couldn't ketchup!*
+- What do clouds wear under their raincoats? *Thunderwear!*
+- Why did the cow go to space? *To see the Milky Way!*
 
 ## Connected maths
-- In the squeeze test, 6 foods were tested. 2 foods dripped water. How many did not drip? **4 foods did not drip.**. 6 foods take away the 2 that dripped leaves 4. Those 4 were damp or dry. (queues `math.addition-subtraction.word-problems.L1`)
+- In the squeeze test, 6 foods were tested. 2 foods dripped water. How many did not drip? **4 foods did not drip.**. Start with 6 foods. Take away the 2 that dripped. 4 are left. Those 4 were damp or dry. (queues `math.addition-subtraction.word-problems.L1`)
 - Ammu drank 3 tumblers of water on a cool day and 6 tumblers on a hot day. On which day did she drink more? How many more? **The hot day. She drank 3 more tumblers.**. 6 is more than 3. Count on from 3 to 6: 4, 5, 6. That is 3 more. On hot days we sweat more, so we drink more. (queues `math.number-sense.comparing-ordering.L1`)
 - In the Wet, Damp or Dry game, Divya put 8 cards in the Wet basket, 4 in Damp and 6 in Dry. Which basket has the most cards? **The Wet basket, with 8 cards.**. 8 is more than 6, and 6 is more than 4. So Wet has the most, then Dry, then Damp. (queues `math.data.sorting-and-tallies.L1`)
-- In Ten Tiny Tastes, Nila drew a frown on days 1 to 4, a flat face on days 5 to 8, and a smile on days 9 and 10. Which face did she draw most often? **The frown and the flat face, 4 times each. The smile came 2 times.**. Days 1, 2, 3, 4 make 4 frowns. Days 5, 6, 7, 8 make 4 flat faces. Days 9 and 10 make 2 smiles. Her faces changed as the tastes went on. (queues `math.data.sorting-and-tallies.L1`)
+- In Ten Tiny Tastes, Nila drew a frown on days 1 to 4, a flat face on days 5 to 8, and a smile on days 9 and 10. Which faces did she draw most often? **The frown and the flat face, 4 times each. The smile came 2 times.**. Days 1, 2, 3, 4 make 4 frowns. Days 5, 6, 7, 8 make 4 flat faces. Days 9 and 10 make 2 smiles. Her faces changed as the tastes went on. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Water in My Food (sci.food.L1): Topic-level song for Food L1
@@ -486,4 +479,4 @@ Water in My Food (sci.food.L1): Topic-level song for Food L1
 - Coriander tasting of soap linked partly to the smell receptor gene OR6A2: N. Eriksson and others, 2012.
 - Thirst is quenched before blood changes: C. A. Zimmerman and others (Zachary Knight's lab), Nature, 2016, in mice.
 - Kamala Sohonie's work on neera, the sap of palm trees, and its vitamins, for which she received the Rashtrapati Award.
-- Taittiriya Upanishad 3.2 (Bhrigu Valli): Bhrigu understood that food is Brahman, for from food beings are born, by food they live, and into food they return. Thirukkural 20: the world cannot go on without water, and without rain there is no flow of water.
+- Taittiriya Upanishad 3.2 (Bhrigu Valli): Bhrigu understood that food is Brahman, for from food beings are born, by food they live, and into food they return. Thirukkural 12: rain makes the food that people eat, and is itself a drink.

@@ -82,7 +82,7 @@
    "status": "defined",
    "context": "This card is about what we mean by a season.",
    "definition": "A season is a part of the year with its own kind of weather. The seasons come back in the same order every year.",
-   "description": "Weather is what the air is doing today: hot or cool, rainy or dry, windy or still. A season is the usual weather for many weeks in a row. One cool day in May does not make winter. The seasons come round in a cycle. A cycle is something that happens again and again in the same order, like the days of the week.",
+   "description": "Weather is what the air is doing today: hot or cool, rainy or dry, windy or still. A season is the usual weather for many weeks in a row. One cool day in May does not make winter. A cycle is something that happens again and again in the same order, like the days of the week.",
    "examples": [
     "In Hyderabad, April and May are hot almost every day. That is the summer season.",
     "In Mumbai, it rains on most days of July. That is the monsoon season.",
@@ -96,7 +96,7 @@
    "status": "defined",
    "context": "This card is about the three seasons most people in India talk about.",
    "definition": "Most of India has three big seasons: a hot summer, a rainy monsoon and a cooler winter.",
-   "description": "In most of India, summer comes from March to May. It is the hottest time, and often dry. Then the monsoon comes, usually from June to September. A strong, wet wind blows in from the sea and brings heavy rain. After the rains, the air gets cooler. Winter comes from December to February. The nights are cool, and in the north the mornings can be very cold.",
+   "description": "In most of India, summer comes from March to May. It is the hottest time, and often dry. The monsoon comes from June to September, with a wet wind from the sea and heavy rain. Winter comes from December to February, with cool nights, and very cold mornings in the north.",
    "examples": [
     "Summer: hot days, mangoes, buttermilk, the fan on all night.",
     "Monsoon: heavy rain, puddles, frogs croaking, clothes that will not dry.",
@@ -110,7 +110,7 @@
    "status": "defined",
    "context": "This card is about why summer is hotter than winter.",
    "definition": "In summer, the Sun climbs higher in the sky at midday and stays up longer, so more sunlight reaches the ground each day.",
-   "description": "In summer, the Sun rises earlier and sets later, so there are more hours of sunlight. At midday it is high above your head. In winter, the Sun stays lower in the sky and the days are shorter. More sunlight for more hours makes the ground and the air hotter. You will find out more about why this happens in Class 3.",
+   "description": "In summer, the Sun rises earlier and sets later, so there are more hours of sunlight. At midday it is high in the sky. In winter, the Sun stays lower and the days are shorter. Sunlight for more hours, from higher up, heats the ground and the air more.",
    "examples": [
     "In May, it is still light at 6.30 in the evening in most of India. In December, it is often dark by 6.",
     "At noon in May, your shadow is very short, because the Sun is high.",
@@ -124,7 +124,7 @@
    "status": "defined",
    "context": "This card is about why it can be raining in one Indian city and sunny in another in the same week.",
    "definition": "India is a big country, so the seasons do not start or end on the same day everywhere.",
-   "description": "The monsoon rain usually reaches Kerala first, around the first of June. Then it moves north. It reaches Mumbai about ten days later, and covers most of India by early July. Chennai is different. It gets most of its rain from October to December, from a wind called the northeast monsoon. In Ladakh, high in the mountains, winter is freezing and snowy. In Meghalaya, in the northeast, the monsoon rain is so heavy that Sohra and Mawsynram are among the wettest places on Earth.",
+   "description": "The monsoon rain usually reaches Kerala first, around the first of June. Then it moves north. It reaches Mumbai about ten days later, and most of India by early July. Chennai gets most of its rain from October to December, from a wind called the northeast monsoon.",
    "examples": [
     "In early June, it may be pouring in Kochi while Delhi is still very hot and dry.",
     "In November, Chennai may have heavy rain while Mumbai is dry and sunny.",
@@ -138,7 +138,7 @@
    "status": "defined",
    "context": "This card is about the Black or White test, where you put ice under two cloths in the sun.",
    "definition": "A black cloth absorbs most of the sunlight that falls on it, and that light turns into heat. A white cloth reflects most of the light back.",
-   "description": "Sunlight carries energy. When light is absorbed, its energy turns into heat. Black looks black because it sends back very little light to your eyes. It has taken in almost all of it. White looks bright because it sends back most of the light. So in the same sun, a black cloth gets hotter than a white one. The ice under the black cloth got more heat, so it melted faster.",
+   "description": "Sunlight carries energy. A black cloth sends back very little light, so it takes in almost all of it, and that energy turns into heat. A white cloth sends back most of the light. So in the same sun, a black cloth gets hotter than a white one, and ice under it melts faster.",
    "examples": [
     "A black car seat in the sun can be too hot to sit on. A white seat in the same sun is cooler.",
     "In Ahmedabad, women in many homes have painted their tin roofs white to keep their rooms cooler in summer.",
@@ -152,7 +152,7 @@
    "status": "defined",
    "context": "This card is about how families change what they do as the seasons turn.",
    "definition": "People change their clothes, food, work and festivals with the seasons.",
-   "description": "In summer, people wear loose cotton, drink buttermilk and coconut water, and stay in the shade at noon. In the monsoon, out come umbrellas, raincoats and hot roasted corn. Farmers sow rice and many other crops when the rains start. In winter, sweaters and blankets come out of the cupboard. Many harvest festivals come in winter or after the rains: Pongal in Tamil Nadu, Makar Sankranti and the kite festival of Gujarat, and Magh Bihu in Assam, all in January, and Onam in Kerala in August or September.",
+   "description": "In summer, people wear loose cotton, drink buttermilk and coconut water, and stay in the shade at noon. In the monsoon, out come umbrellas, raincoats and hot roasted corn, and farmers sow rice and many other crops. In winter, sweaters and blankets come out of the cupboard. Festivals follow the seasons too: Onam in Kerala in August or September, and Pongal, Makar Sankranti, Uttarayan in Gujarat and Magh Bihu in Assam in January.",
    "examples": [
     "Neer mor, a thin spiced buttermilk, is given out free at street stalls in Tamil Nadu in summer.",
     "Roasted corn, called bhutta in many places, is sold hot on rainy days.",
@@ -166,7 +166,7 @@
    "status": "defined",
    "context": "This card is about how birds, frogs, insects and trees change with the seasons.",
    "definition": "Other animals and plants sense the season and change what they do.",
-   "description": "In summer, the male koel calls 'koo-oo, koo-oo' from the trees, again and again. He is calling to female koels, because it is their season for raising young. In the monsoon, male frogs croak loudly at night by the puddles, to call female frogs. Peacocks spread their tails and dance for peahens, mostly in the rainy months. Trees change too. Gulmohar trees cover themselves in red flowers in April and May. The konna tree, also called the golden shower tree, hangs out yellow flowers in time for Vishu in Kerala in April.",
+   "description": "In summer, the male koel calls 'koo-oo, koo-oo' again and again, to call female koels. It is the season when koels breed, which means have young ones. In the monsoon, male frogs croak loudly by the puddles to call females, and peacocks spread their tails and dance for peahens. Trees change too: gulmohar trees cover themselves in red flowers in April and May, and the konna tree hangs out yellow flowers in time for Vishu in Kerala.",
    "examples": [
     "The koel's call is one of the loudest sounds of an Indian summer morning.",
     "After the first heavy rain, frogs that hid underground all summer come out and croak.",
@@ -192,7 +192,7 @@
     },
     {
      "who": "The India Meteorological Department",
-     "explanation": "There are four: winter (January and February), summer (March to May), the monsoon (June to September), and the season after the monsoon (October to December)."
+     "explanation": "There are four: winter (January and February), summer (March to May, which it calls the pre-monsoon season), the monsoon (June to September), and the season after the monsoon (October to December)."
     },
     {
      "who": "The old Sanskrit and Tamil calendars",
@@ -216,7 +216,7 @@
    "evidence": "You can feel it on a black and a white cloth in the sun. Ice under a black cloth melts faster."
   },
   {
-   "text": "Many other animals and plants raise young, flower or fruit in a particular season.",
+   "text": "Many other animals and plants breed, flower or fruit in a particular season.",
    "evidence": "People who watch birds, frogs and trees have written down for many years when each one calls, breeds or flowers."
   }
  ],
@@ -241,7 +241,7 @@
    "claim": "A peacock dances to bring the rain.",
    "who": "An old saying in many parts of India",
    "for": "Peacocks dance most in the rainy months, often when clouds gather.",
-   "against": "A male peacock dances to show his tail to peahens. His dancing season is the season for raising young, which in most of India falls during the monsoon. The rain comes from the wind and the clouds, with or without the dance.",
+   "against": "A male peacock dances to show his tail to peahens. His dancing season is the breeding season, which in most of India falls during the monsoon. The rain comes from the wind and the clouds, with or without the dance.",
    "status": "rejected",
    "context": "This card is about why peacocks dance in the monsoon."
   },
@@ -402,7 +402,6 @@
      "title": "Score sheet",
      "items": [
       "Player name",
-      "Cards won",
       "Points"
      ]
     }
@@ -412,7 +411,7 @@
     "The first player takes the top card and reads out the place and the month. A grown-up can read it.",
     "The player says the season there, and names two things to pack.",
     "Turn the card over and read the back. If the season is right, the player gets 1 point. If both things to pack suit the weather, they get 1 more point.",
-    "Take turns until the pile is finished. The player with the most points wins."
+    "Take turns until the pile is finished. The player with the most points wins. If points are equal, the players share the win."
    ],
    "setup": [
     {
@@ -458,7 +457,7 @@
      "kid": "Which trip do you want most? Why?",
      "check": {
       "t": "mcq",
-      "q": "Farhan's aunt lives in Chennai. She says, 'Our big rains come in November.' Farhan lives in Mumbai. When are his big rains?",
+      "q": "Farhan, a boy in Class 2, has an aunt in Chennai. She says, 'Our big rains come in November.' Farhan lives in Mumbai. When are his big rains?",
       "options": [
        "June to September",
        "November",
@@ -557,7 +556,7 @@
     },
     {
      "kind": "board",
-     "title": "Three pile mats: draw three big boxes and label them",
+     "title": "Three pile mats: Summer, Monsoon, Winter",
      "items": [
       "Summer",
       "Monsoon",
@@ -605,19 +604,10 @@
      "do": "Look at any card that went on the wrong mat. Talk about why.",
      "say": "This one went on the wrong mat. What made you think of that season? Where would it go where you live?",
      "kid": "Look at the cards on the wrong mat. Why did you put them there?",
-     "ask": [
-      {
-       "q": "Pongal and the kites of Uttarayan both come in January. Which season is that?",
-       "good": [
-        "Winter.",
-        "January is winter in most of India."
-       ]
-      }
-     ],
      "parent": "Some cards depend on where you live. Fog and seeing your breath belong to winter in the north, but rarely happen in Chennai. That is a good thing to notice, not a mistake.",
      "check": {
       "t": "mcq",
-      "q": "Kavya hears frogs croaking all night by the puddles. Which season is it?",
+      "q": "Kavya, a girl in Class 2, hears frogs croaking all night by the puddles. Which season is it?",
       "options": [
        "Monsoon",
        "Summer",
@@ -634,7 +624,7 @@
   {
    "id": "e1",
    "title": "Black or White: under which cloth does the ice melt first?",
-   "mins": 25,
+   "mins": 30,
    "days": 1,
    "context": "In this experiment you put two ice cubes in the sun. One is under a black cloth and one is under a white cloth. You find out which cloth takes in more of the sun's heat, and why people wear white in summer.",
    "question": "In the same sunshine, does ice melt faster under a black cloth or under a white cloth?",
@@ -675,7 +665,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 30,
      "what": "Guess, set the ice under the two cloths in the sun, feel the cloths, look after 15 minutes, count the spoons of water, and talk about why."
     }
    ],
@@ -727,8 +717,8 @@
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "1. Wait. 2. After 10 minutes, your child lays a palm gently on top of each cloth, one after the other. 3. Write down which one feels warmer.",
+     "mins": 15,
+     "do": "1. Wait. 2. After 10 minutes, your child lays a palm gently on top of each cloth, one after the other. 3. Write down which one feels warmer. 4. Keep waiting until 15 minutes have passed since you put the ice out.",
      "say": "Do not lift the cloths yet. Touch the top of each one gently. Which feels warmer?",
      "kid": "Touch the top of each cloth. Which one is warmer?",
      "ask": [
@@ -740,7 +730,7 @@
        ]
       }
      ],
-     "parent": "In good sun, the black cloth feels clearly warmer within a few minutes. While you wait, read the cards for summer, monsoon and winter, or play one round of Three Piles."
+     "parent": "In good sun, the black cloth feels clearly warmer within a few minutes. While you wait, read the explanation card India's three big seasons, or play one round of Three Piles."
     },
     {
      "id": "s4",
@@ -748,14 +738,15 @@
      "do": "1. After 15 minutes, lift both cloths. 2. Look at the two ice cubes and the water on each plate. 3. Draw what you see.",
      "say": "Let us lift the cloths. Look at both ice cubes. What do you see?",
      "kid": "Lift both cloths. Look at the ice. Which is smaller?",
-     "parent": "In strong sun, the ice under the black cloth is usually much smaller, or gone, with more water round it. The ice under the white cloth is still clearly there. If both are still large, cover them again and wait 10 more minutes."
+     "parent": "In strong sun, the ice under the black cloth is usually much smaller, or gone, with more water round it. The ice under the white cloth is still clearly there. If both are still large, cover them again and wait 10 more minutes. If both are already gone, try again next time with bigger cubes, or look at 8 minutes."
     },
     {
      "id": "s5",
      "mins": 2,
      "do": "Count how many teaspoons of water you can scoop from each plate. Write the numbers in the table.",
      "say": "Let us count the water. Scoop it up with the teaspoon. How many spoons from each plate?",
-     "kid": "Scoop the water with a spoon. Count the spoons on each plate."
+     "kid": "Scoop the water with a spoon. Count the spoons on each plate.",
+     "parent": "The cloths soak up a little meltwater, so count only the water on the plate, and lift the cloth to let it drip first. Both cloths do this, so the test stays fair. Spoons will be few, so also compare how big the ice looks."
     },
     {
      "id": "s6",
@@ -790,7 +781,7 @@
   {
    "id": "e2",
    "title": "The Damp Box: can air make a crisp papad soft?",
-   "mins": 20,
+   "mins": 45,
    "days": 1,
    "context": "In this experiment you put two halves of a crisp papad in two closed boxes. One box has damp air inside, like monsoon air. You find out whether air can carry water into food.",
    "question": "Does a crisp papad go soft in a box of damp air, even when it never touches water?",
@@ -803,7 +794,7 @@
    ],
    "materials": [
     {
-     "item": "one papad, roasted crisp by a grown-up",
+     "item": "one crisp papad: a ready-roasted one from a packet, or an uncooked one that a grown-up has roasted in a microwave for about a minute and let cool",
      "qty": 1
     },
     {
@@ -819,11 +810,11 @@
      "qty": 2
     }
    ],
-   "safety": "A grown-up roasts the papad and pours the hot water. Keep fingers away from the hot cup.",
+   "safety": "A grown-up pours the hot water. Keep fingers away from the hot cup.",
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
+     "mins": 45,
      "what": "Guess, set up the two boxes, wait 30 minutes while doing something else, then test the two halves and talk about why."
     }
    ],
@@ -846,10 +837,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. A grown-up roasts a papad until crisp and lets it cool. 2. Your child snaps a tiny corner to hear the crack. 3. Ask for a guess and a reason.",
+     "do": "1. Take a crisp papad. 2. Your child snaps a tiny corner to hear the crack. 3. Ask for a guess and a reason.",
      "say": "Hear the crack? It is crisp. In one box, the air will be damp, like monsoon air. Will this papad stay crisp in there? Why do you think so?",
      "kid": "Hear the snap? Will it stay crisp in damp air? Why?",
-     "adult": true,
      "parent": "Many children think nothing can happen unless the papad touches water. That is a good guess to test."
     },
     {
@@ -867,7 +857,7 @@
      "do": "Leave both boxes closed for 30 minutes. Play a game or read the story while you wait.",
      "say": "Now we wait half an hour. What do you think is happening in the damp box?",
      "kid": "Wait 30 minutes. What is happening in the box?",
-     "parent": "This waiting time is not counted in the minutes for the experiment."
+     "parent": "Papads differ. If the half from the damp box still snaps after 30 minutes, close the box and wait 30 more minutes before you bend it again."
     },
     {
      "id": "s4",
@@ -884,7 +874,7 @@
        ]
       }
      ],
-     "parent": "The half from the dry box should still snap. The half from the damp box should bend or feel leathery. The drops under the lid show that the air carried water."
+     "parent": "The half from the dry box should still snap. The half from the damp box should bend or feel leathery, or at least be less snappy. The drops under the lid show that the air carried water."
     },
     {
      "id": "s5",
@@ -904,7 +894,7 @@
      "parent": "This is why papads, biscuits and salt go soft or lumpy in the monsoon. Monsoon air is humid: it holds a lot of water you cannot see.",
      "check": {
       "t": "mcq",
-      "q": "Meena's mother in Mumbai leaves an open packet of biscuits on the table in July. What will happen to the biscuits?",
+      "q": "Meena lives in Mumbai. In July her mother leaves an open packet of biscuits on the table. What will happen to the biscuits?",
       "options": [
        "They will go soft",
        "They will get crisper",
@@ -983,7 +973,7 @@
      "kid": "Name three things that changed.",
      "check": {
       "t": "mcq",
-      "q": "In a photo, Farhan is wearing a raincoat and there are puddles on the road. Which season is it?",
+      "q": "In a photo, Farhan, a boy in Class 2, is wearing a raincoat and there are puddles on the road. Which season is it?",
       "options": [
        "Monsoon",
        "Summer",
@@ -1181,7 +1171,7 @@
      "do": "Name the sounds. Decide which ones belong to one season.",
      "say": "What did you hear? Which sounds only come in one season?",
      "kid": "What did you hear? Which sounds come in only one season?",
-     "parent": "Season sounds include the koel's 'koo-oo' in summer, rain and frogs in the monsoon, and crackers or kite-flying shouts in some places in winter. A fan or a cooler running is a summer sound too."
+     "parent": "Season sounds include the koel's 'koo-oo' in summer, rain and frogs in the monsoon, and kite-flying shouts in Gujarat in January. A fan or a cooler running is a summer sound too."
     }
    ]
   },
@@ -1193,7 +1183,7 @@
    "context": "In this activity you leave a piece of crisp papad on a plate in the room. If it goes soft, the air is humid. Try it in different seasons.",
    "materials": [
     {
-     "item": "a small piece of papad, roasted crisp by a grown-up",
+     "item": "a small piece of crisp papad: a ready-roasted one, or an uncooked one that a grown-up has roasted in a microwave and let cool",
      "qty": 1
     },
     {
@@ -1201,7 +1191,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up roasts the papad.",
    "schedule": [
     {
      "day": 1,
@@ -1235,7 +1224,7 @@
      "do": "After two hours, your child bends the papad. Write down if it snapped or bent.",
      "say": "Bend it gently. Does it snap or bend? So is today's air damp or dry?",
      "kid": "Bend the papad. Snap or bend? Is the air damp or dry?",
-     "parent": "In the monsoon, and in coastal cities like Chennai, Mumbai and Kolkata, the papad often goes soft. In a dry winter or summer in Jaipur or Delhi, it may stay crisp all day."
+     "parent": "In the monsoon, and in coastal cities like Chennai, Mumbai and Kolkata, the papad may start to bend instead of snapping. If it still snaps, leave the next piece out for a whole day. In a dry winter or summer in Jaipur or Delhi, it may stay crisp all day."
     }
    ]
   }
@@ -1302,13 +1291,13 @@
      "do": "Colour each month: orange for summer, blue for the monsoon, green for winter. Decide together for your own city.",
      "say": "Which months are hot here? Which are rainy? Which are cool? Let us colour them.",
      "kid": "Colour hot months orange, rainy months blue, cool months green.",
-     "parent": "Use your own city. In Chennai, colour October to December blue. In Mumbai, June to September. In Bengaluru, the rains come in two parts, from June to September and again in October. There is no single right answer for all of India."
+     "parent": "Use your own city. In Chennai, colour October to December blue. In Mumbai, June to September. In Bengaluru, rain falls in many months, with the most in September and October. There is no single right answer for all of India."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "On day 2, ask family members about each month. Draw one festival, food or piece of clothing in each box.",
-     "say": "Let us ask Paati and Appa. What do we eat, wear or celebrate in each month?",
+     "do": "On day 2, ask the people you live with, or call a relative, about each month. Draw one festival, food or piece of clothing in each box.",
+     "say": "Let us ask our family and friends. What do we eat, wear or celebrate in each month?",
      "kid": "Ask your family. What happens in each month? Draw one thing in each box.",
      "parent": "Festivals that move with the moon calendar, like Deepavali or Eid, can fall in different months in different years. Draw them where they fall this year."
     },
@@ -1337,19 +1326,19 @@
   {
    "id": "c1",
    "title": "Keep the Papad Crisp in the Monsoon",
-   "mins": 20,
+   "mins": 46,
    "context": "This is a design challenge. In the monsoon, damp air makes papads go soft. Your job is to design a way to keep a papad crisp in a damp box.",
-   "problem": "Can you keep half a papad crisp for 30 minutes inside a damp box, like the one in the Damp Box test?",
+   "problem": "Can you keep half a papad crisp for 30 minutes inside a damp box, like the one in the Damp Box test? The other half of the papad sits in the same box with no protection, to compare.",
    "constraints": [
     "Use only things from home: a dabba, a plastic bag, a rubber band, paper, a spoon of uncooked rice or salt.",
-    "The papad must stay inside the damp box, with the cup of hot water.",
+    "Both papad halves must stay inside the damp box, with the cup of hot water.",
     "You may wrap or cover the papad, but you must be able to take it out and bend it."
    ],
    "materials": [
-    "a crisp roasted papad, broken in half by a grown-up",
-    "two big steel dabbas with lids",
+    "a crisp papad, broken in half (a ready-roasted one, or an uncooked one a grown-up has roasted in a microwave and let cool)",
+    "one big steel dabba with a lid",
     "a small cup of hot water, poured by a grown-up",
-    "a small plastic bag or a small dabba with a tight lid",
+    "a small plastic bag, or a small dabba with a tight lid",
     "a rubber band",
     "a spoon of uncooked rice"
    ],
@@ -1360,8 +1349,7 @@
    ],
    "creative": [
     "Put a spoon of uncooked rice in the small dabba with the papad. Some people believe dry rice soaks up damp from the air. Does it help?",
-    "Wrap the papad in a few layers of newspaper. Does paper keep the damp out, or soak it up?",
-    "Put the papad on the highest shelf of the damp box, far from the water. Does height help?"
+    "Wrap the papad in a few layers of newspaper. Does paper keep the damp out, or soak it up?"
    ],
    "your_turn": "Try your own design. After 30 minutes, bend the papad. Does it snap? If it bends, think about how the damp air got in, and try again.",
    "setup": [
@@ -1371,7 +1359,7 @@
     },
     {
      "art": "A big open steel dabba with a cup of steaming water inside and a small closed dabba holding a papad beside it.",
-     "caption": "2. Put your protected papad in the damp box. Close the lid."
+     "caption": "2. Put the protected papad and the bare papad in the damp box. Close the lid."
     },
     {
      "art": "A child bending a papad that snaps with a crack, and smiling.",
@@ -1389,20 +1377,28 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child builds the design. A grown-up puts the hot water cup in the big dabba. Put the protected papad inside and close the lid.",
+     "do": "Your child builds the design for one papad half. A grown-up puts the hot water cup in the big dabba. Put the protected half and the bare half inside, not touching the cup, and close the lid.",
      "say": "Build your idea. Then put it in the damp box and close the lid.",
      "kid": "Build your idea. Put it in the damp box. Close the lid.",
      "adult": true
     },
     {
      "id": "s3",
-     "mins": 12,
-     "do": "After 30 minutes, take out the papad and bend it. Talk about what worked.",
+     "mins": 30,
+     "do": "Wait 30 minutes with the lid closed. Play a game or read the story while you wait.",
+     "say": "Which half do you think will stay crisp?",
+     "kid": "Wait 30 minutes. Which half will stay crisp?"
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "Take out both halves and bend each one. Talk about what worked.",
      "say": "Does it snap? What kept the damp air out? What would you change?",
-     "kid": "Bend it. Does it snap? What worked?",
-     "parent": "Waiting time is not counted. A tight lid or a sealed bag usually works best, because the damp air cannot get in."
+     "kid": "Bend both halves. Which one snaps? What worked?",
+     "parent": "A tight lid or a sealed bag usually works best, because the damp air cannot get in. The bare half shows what damp air does. If both halves still snap, the papad may be a slow one: wait 30 more minutes."
     }
-   ]
+   ],
+   "safety": "A grown-up pours the hot water."
   }
  ],
  "videos": [
@@ -1498,7 +1494,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shabnam lives in Chennai. When does Chennai get most of its rain?",
+   "p": "Shabnam, a woman in Chennai, asks when her city gets most of its rain. What is the answer?",
    "opts": [
     "October to December",
     "March to May",
@@ -1507,19 +1503,6 @@
    "a": 0,
    "why": "Chennai gets most of its rain from the northeast monsoon, from October to December.",
    "outcome": 2
-  },
-  {
-   "t": "mcq",
-   "p": "In the Black or White test, which ice melted first?",
-   "opts": [
-    "The ice under the black cloth",
-    "The ice under the white cloth",
-    "Both at the same time"
-   ],
-   "a": 0,
-   "why": "The black cloth absorbed more sunlight and got hotter, so its ice melted first.",
-   "outcome": 3,
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -1542,7 +1525,7 @@
     "To stop the rain"
    ],
    "a": 0,
-   "why": "The monsoon is the frogs' season for raising young. Males croak by the puddles to call females.",
+   "why": "The monsoon is the frogs' breeding season. Males croak by the puddles to call females.",
    "outcome": 4
   },
   {
@@ -1720,7 +1703,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters in Hyderabad are choosing a shirt for a hot afternoon walk.",
+     "p": "Two friends in Hyderabad are choosing a shirt for a hot afternoon walk.",
      "views": [
       {
        "who": "Divya",
@@ -1731,7 +1714,7 @@
        "says": "Wear the loose one, whatever its colour. Air moving under it keeps you cool."
       }
      ],
-     "ask": "Who do you agree with? Give one reason from your test. Then say one thing the other sister has right.",
+     "ask": "Who do you agree with? Give one reason from your test. Then say one thing the other friend has right.",
      "lines": 4,
      "a": "A strong answer picks a side with evidence. Divya is right that white reflects more light, as the ice test showed. Rukhsana is right that loose clothes let moving air carry heat away, as scientists found with desert robes.",
      "why": "Both colour and fit matter. A loose white shirt does both jobs."
@@ -1757,16 +1740,10 @@
     },
     {
      "t": "write",
-     "p": "Ammu lives in Kochi. Her cousin lives in Delhi. In early June, Ammu has rain and her cousin does not. Why?",
+     "p": "Ammu, a girl of 7, lives in Kochi. Her cousin lives in Delhi. In early June, Ammu has rain and her cousin does not. Why?",
      "lines": 2,
      "a": "The monsoon rain reaches Kerala first and moves north slowly. It reaches Delhi weeks later.",
      "why": "A strong answer says the rain travels north and that Kochi is far to the south of Delhi."
-    },
-    {
-     "t": "count",
-     "p": "In Mumbai, the monsoon lasts from June to September. Count the months.",
-     "a": 4,
-     "why": "June, July, August, September: 4 months."
     },
     {
      "t": "draw",
@@ -1793,14 +1770,6 @@
      ],
      "a": 3,
      "why": "Pongal, the kites and chikki for Makar Sankranti all belong to January, in winter. Mangoes come in summer."
-    },
-    {
-     "t": "write",
-     "p": "Your black T-shirt and a white saree hang in the sun. Which one will feel hotter after an hour? Use your ice test to explain.",
-     "lines": 2,
-     "a": "The black T-shirt, because black absorbs more sunlight. In my test, the ice under the black cloth melted first.",
-     "why": "A strong answer uses the evidence from the test, not just 'black is hot'.",
-     "how": "e1"
     },
     {
      "t": "match",
@@ -1861,6 +1830,20 @@
      "lines": 4,
      "a": "Any choice with a reason is strong. Three fits most of India's big changes. Four separates October to December, when Chennai gets rain. Six notices smaller changes, like the dewy months.",
      "why": "Seasons are a way people divide the year. Each way fits some part of the weather better."
+    },
+    {
+     "t": "write",
+     "p": "A friend says, 'In January it is cold all over India.' What would you tell her? Use two places.",
+     "lines": 3,
+     "a": "Not everywhere. In January Leh in Ladakh is freezing, but Thiruvananthapuram and Chennai are warm.",
+     "why": "A strong answer names two places with different weather and says that India is big, so the weather is not the same everywhere."
+    },
+    {
+     "t": "fill",
+     "p": "When wet clothes take two days to dry, the air is very ___.",
+     "a": "humid",
+     "why": "Humid air already holds a lot of water you cannot see, so wet clothes dry slowly.",
+     "how": "e2"
     }
    ]
   },
@@ -1879,7 +1862,7 @@
     },
     {
      "t": "mcq",
-     "p": "Neha wants to test whether a red cloth melts ice faster than a white cloth. Which test is fair?",
+     "p": "Neha, a girl in Class 3, wants to test whether a red cloth melts ice faster than a white cloth. Which test is fair?",
      "opts": [
       "Same size ice, same sun, same time, only the cloth colour changes",
       "Red cloth in the sun, white cloth in the shade",
@@ -2004,7 +1987,8 @@
   "The India Meteorological Department forecasts each year when the monsoon will reach Kerala and how much rain it will bring.",
   "Families store papads, biscuits and salt in airtight tins in the monsoon, so the damp air cannot soften them.",
   "Schools in many states plan their long holidays for the hottest weeks of summer.",
-  "Doctors and city offices warn people to drink water and stay in the shade during summer heat waves."
+  "Doctors and city offices warn people to drink water and stay in the shade during summer heat waves.",
+  "Anna Mani, a physicist from Kerala, led the team at the India Meteorological Department that made India's own weather instruments, including ones to measure sunshine and wind."
  ],
  "spotted": [
   {
@@ -2020,7 +2004,7 @@
    "art": "Rooftops crowded with families flying colourful kites against a clear winter sky."
   },
   {
-   "text": "On a hot afternoon, touch a black car and a white car parked in the same sun. Which is hotter?",
+   "text": "On a hot afternoon, lightly touch the roof of a black car and a white car parked in the same sun with one quick finger. Which is hotter?",
    "art": "A black car and a white car parked side by side in bright sun, with wavy heat lines over the black one."
   },
   {
@@ -2078,10 +2062,6 @@
    "a": "I'm feeling a little drained!"
   },
   {
-   "j": "Why did the sweater hide at the back of the cupboard in May?",
-   "a": "It was waiting for winter to call its name!"
-  },
-  {
    "j": "Knock knock. Who's there? Monsoon. Monsoon who?",
    "a": "Monsoon you'll need an umbrella!"
   },
@@ -2100,7 +2080,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Black or White test, Nila scooped 6 spoons of water from the black plate and 2 spoons from the white plate. How many more spoons came from the black plate?",
+   "problem": "In the Black or White test, Nila, a girl in Class 2, scooped 6 spoons of water from the black plate and 2 spoons from the white plate. How many more spoons came from the black plate?",
    "answer": "4 more spoons.",
    "explain": "6 take away 2 is 4. So the black plate had 4 more spoons of water.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -2125,7 +2105,7 @@
    "why_maths": "Counting days on a calendar shows us how fast the rain moves north."
   },
   {
-   "problem": "Kavya kept a rain chart for one week in July. It rained on Monday, Tuesday, Thursday, Friday and Sunday. On how many days did it not rain?",
+   "problem": "Kavya, a girl in Class 2, kept a rain chart for one week in July. It rained on Monday, Tuesday, Thursday, Friday and Sunday. On how many days did it not rain?",
    "answer": "2 days.",
    "explain": "A week has 7 days. It rained on 5 of them. 7 take away 5 is 2. The dry days were Wednesday and Saturday.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2133,7 +2113,7 @@
    "why_maths": "A tally of rainy days shows how wet a week was, so we can compare it with a week in another season."
   },
   {
-   "problem": "On the Family Season Calendar, Meena coloured 3 months orange for summer, 4 blue for the monsoon and 3 green for winter. The other months were after the rains. How many months were after the rains?",
+   "problem": "On the Family Season Calendar, Meena, a girl in Class 2, coloured 3 months orange for summer, 4 blue for the monsoon and 3 green for winter. The other months were after the rains. How many months were after the rains?",
    "answer": "2 months.",
    "explain": "3 and 4 and 3 make 10. A year has 12 months. 12 take away 10 is 2.",
    "math_unit": "math.addition-subtraction.number-facts.L2",
@@ -2144,8 +2124,7 @@
  ],
  "song": {
   "topic_level": "sci.day-night-seasons.L2",
-  "title": "Hot, Wet and Cool",
-  "note": "Topic-level song for Day, night and seasons L2. The Sun appears to move and Seasons units share it."
+  "title": "Hot, Wet and Cool"
  },
  "links": [
   {
@@ -2290,7 +2269,7 @@
    "what_is_life": "Frogs, koels, trees and people all sense the season and change what they do: they call, flower, sow seeds or change their clothes.",
    "what_is_this_world": "The same Sun shines on all of India, yet one place is rainy and another dry, one roof hot and another cool. What each place and thing does with the light makes the difference."
   },
-  "thread": "One Sun lights the whole of India every day of the year. That one sunlight falls on a black road, a white wall, the sea, the land and a green leaf. Each takes in a different share of it, so each warms differently. The land warming faster than the sea is part of what brings the monsoon wind. The many seasons and the many temperatures of one afternoon all grow from one sunlight meeting many different things.",
+  "thread": "The same Sun lights the whole of India. Each thing it falls on takes in a different share of the light: a black road takes in a lot, a white wall little. Land also warms faster than the sea, and that is one idea for what brings the monsoon wind.",
   "teachings": [
    {
     "source": "Matthew 5:45, the Bible",
@@ -2300,12 +2279,12 @@
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that everything that comes into being keeps changing. Nothing stays the same for ever.",
-    "link": "The seasons show this every year. The hot dry roads of May are rivers in June and foggy in January. Then the change comes round again."
+    "link": "The same street is hot and dry in May and runs like a river in June. Then the change comes round again."
    },
    {
     "source": "Ritusamhara, canto 1, by Kalidasa",
     "teaching": "Kalidasa's old Sanskrit poem has one part for each season. In the summer part, people and other animals look for shade and cool water.",
-    "link": "People in India have long known that summer sun is something to shelter from. Your white cloth was like shade for its ice."
+    "link": "People in India have long known that summer sun is something to shelter from. In your test, the white cloth kept more of its ice."
    }
   ],
   "science": [
@@ -2336,10 +2315,11 @@
   "art": "A child sitting quietly by a sunny window with eyes closed, one hand under a black cloth and one under a white cloth, in a beam of sunlight."
  },
  "how_we_found_out": {
-  "story": "People in hot places have worn white and pale clothes for a very long time. Benjamin Franklin, an American printer and scientist, tested why. In the early 1760s he wrote about it in a letter to Mary Stevenson, a young woman in London who studied science with him by letter. He had laid small squares of cloth of many colours on snow on a sunny morning. A few hours later, the black square had sunk deepest into the snow, because it had melted the most. The white square stayed on top. Franklin said people in hot, sunny places should wear white. For about 200 years, most people thought this settled it: black clothes always make you hotter. In 1980, the scientists Amiram Shkolnik, Virginia Finch and their team tested people of the Bedouin desert tribes, who wear loose black robes. The black robe did get hotter on the outside. But the person inside gained about the same heat as in a white robe. Air moving under the loose robe carried the extra heat away. So colour matters, and so does how clothes fit and how the air moves.",
+  "story": "People in hot places have worn white and pale clothes for a very long time. Benjamin Franklin, an American printer and scientist, tested why. In the early 1760s he wrote about it in a letter to Mary Stevenson, a young woman in London who studied science with him by letter. He had laid small squares of cloth of many colours on snow on a sunny morning. A few hours later, the black square had sunk deepest into the snow, because it had melted the most. The white square stayed on top. Franklin said people in hot, sunny places should wear white. Many people took from this that black clothes always make you hotter. In 1980, the scientists Amiram Shkolnik, Virginia Finch and their team tested people of the Bedouin desert tribes, who wear loose black robes. The black robe did get hotter on the outside. But the person inside gained about the same heat as in a white robe. Air moving under the loose robe carried the extra heat away. So colour matters, and so does how clothes fit and how the air moves.",
   "who": "Benjamin Franklin, who wrote to Mary Stevenson, and later Amiram Shkolnik, Virginia Finch and their team",
   "when": "The early 1760s, and 1980",
   "wrong_idea": "That black clothes always make the wearer hotter in the sun. A black cloth does take in more sunlight, but the 1980 desert study showed that a loose black robe let moving air carry the extra heat away, so the person inside was no hotter.",
   "art": "Squares of coloured cloth on white snow in the sun, the black one sunk deep in a hollow and the white one on top, and beside them a desert scene with a person in a loose black robe."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. Fixed the minutes so the ice test (30) and the Damp Box (45) add up and the 15-minute look comes after a real wait, and took the flame out of the papad steps (ready-roasted or microwaved papad, with an honest note when it stays crisp). Made the papad challenge fair with a bare half to compare, removed repeated questions (Pongal, months in Mumbai, ice melted first, the T-shirt), introduced every named child at first mention, took out family members assumed in steps, and tidied jokes, a stock line and internal notes."
 }

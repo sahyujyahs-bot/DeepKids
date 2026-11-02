@@ -1,4 +1,4 @@
-# What things are made of: wood, metal, plastic, glass, fabric and paper
+# What are things made of?
 `sci.materials.what-is-it-made-of.L1`
 
 **Summary.** A paper cup holds hot tea, yet paper goes soft in water. Everything around us is made of a material: wood, metal, plastic, glass, fabric or paper, and a few more. Your child hunts for each material at home, and learns to tell them apart by looking, touching, tapping and lifting. Then they test a paper cup against a newspaper cone, and cut the cup open. They find a thin plastic skin inside. Many things are made of more than one material.
@@ -68,7 +68,7 @@ Wood comes from trees. Paper is made from wood, or from other plant threads like
   For: Most paper in shops is made from wood from trees.  
   Against: Paper can be made from any plant threads. Old paper was made from rags, bark and old fishing nets. Paper in India is also made from bamboo and from sugarcane waste.
 - **Plastic lasts forever.** (Many people, because plastic does not rot like a banana peel; *debated*)  
-  For: A plastic bag can stay in the ground or the sea for hundreds of years.  
+  For: A plastic bag can stay in the ground or the sea for a very long time, maybe hundreds of years.  
   Against: Sunlight slowly breaks plastic into tiny pieces. In 2016, scientists in Japan found bacteria that can slowly eat one kind of plastic, the kind used for water bottles.
 
 ## Roots
@@ -82,17 +82,17 @@ We have named the materials around us, and found that a paper cup is paper and p
 - *what is life:* Some materials are made by living beings. Trees make wood, cotton plants make cotton, and silkworms spin silk.
 - *what is this world:* The world is full of things, and every one is made of materials. A few materials, used again and again, make most of what you see.
 
-Steel makes a tumbler, a spoon and a train. Paper makes a book, a ticket and a cup. Look closer, and every material is made of tiny atoms, and the same few kinds of atoms make them all. Everything is conscious, from the tree that grew the wood to the atoms in a steel spoon. One world becomes many materials, and many materials become all the things around us.
+Steel makes a tumbler, a spoon and a train. A paper cup is paper and plastic together. All these materials come from the Earth: from trees, plants, rocks, sand and oil. Everything is conscious, including the tree that gave the wood and the rock that gave the steel. Many scientists disagree, as the other view says.
 
-- **Chandogya Upanishad 6.1.4:** The teacher Uddalaka tells his son Shvetaketu: when you know one lump of clay, you know everything made of clay. A pot, a cup and a lamp are only different names and shapes. The clay is what they really are. (In the Material Hunt, steel turned up as a tumbler, a spoon and a plate. Their names were different, but they were all made of one material.)
-- **J.C. Bose, Response in the Living and Non-Living (1902):** The Indian scientist Jagadish Chandra Bose gave metal wires small electric shocks, again and again. Their response grew weaker, then came back after a rest. He saw the same thing in plants and in muscles, and he called it tiredness. (We sort the world into living things and materials. Bose found that metal, a material, responds to what happens to it, much like a living body.)
+- **Chandogya Upanishad 6.1.4:** The teacher Uddalaka tells his son Shvetaketu: when you know one lump of clay, you know everything made of clay. A pot, a cup and a lamp are only different names and shapes. The clay is what they really are. (In the Material Hunt, the metal card held a tumbler, a spoon and a plate. Their names were different, but they were all made of one material.)
+- **J.C. Bose, Response in the Living and Non-Living (1902):** The Indian scientist Jagadish Chandra Bose gave metal wires small electric shocks, again and again. He reported that their response grew weaker, then came back after a rest. He saw the same thing in plants and in muscles, and he called it fatigue, which means tiredness. (We usually sort the world into living beings and materials. Bose reported that a metal responds to what happens to it, much like a muscle does.)
 - Science (settled): Every material is made of tiny particles called atoms, far too small to see. Wood, steel and plastic are made of different atoms, joined in different ways.
 - Science (open): Scientists keep inventing new materials, and nobody knows how many different materials could be made.
 - Other view, Many scientists: Bose's metal wires changed because of changes on the metal's surface. For these scientists, that is a chemical change, and only living beings, or only beings with brains, are aware.
-- Practice, Two spoons, eyes closed (3 min): Close your eyes. I will put a spoon in each of your hands. One is steel and one is wood. Hold them still. Which one feels cool? Which one feels warm? Now tap each one gently on the table, and listen. Both came from the Earth, one from a rock and one from a tree. Open your eyes. Did you guess right?
-- Ask: Is a wooden chair still a little bit of a tree?
+- Practice, Two spoons, eyes closed (3 min): Close your eyes. I will put a spoon in each of your hands. One is steel and one is wood. Hold them still. Which one feels cooler? Now tap each one gently on the table, and listen. Which one rings? Open your eyes. Were you right? One spoon came from a rock and one from a tree.
+- Ask: Which part of your body feels hard like wood, and which part feels soft like cloth?
 - Ask: If a thing is made of two materials, which one is it really?
-- Ask: Is there anything in the world that is not made of any material?
+- Ask: Bose said a metal can get tired like a muscle. What test could you try on a steel spoon?
 
 ## Deep and big questions
 - *deep:* The paper cup is paper outside and plastic inside. Should we still call it a paper cup? (hint: What does the name tell you? What does it leave out?)
@@ -185,9 +185,9 @@ And some things, like her pencil, were made of more than one thing.
 
 ## Games
 ### g1 · Material Bingo: cover all six (15 min)
-- **rules:** Each player draws a board of six squares: wood, metal, plastic, glass, fabric and paper. Draw a small drawing in each square, so you can play without reading.; Each player has six beans or small stones.; The caller mixes the thing cards and reads one out loud.; Each player says what the thing is made of, then puts a bean on that square.; The caller reads the back of the card. A bean on the wrong square comes off.; If a square already has a bean, wait for the next card.; The first player to cover all six squares shouts 'Made of everything!' and wins.
+- **rules:** Each player draws a board of six squares: wood, metal, plastic, glass, fabric and paper. Draw a small drawing in each square, so you can play without reading.; Each player has six beans or small stones.; The caller mixes the thing cards and reads one out loud.; Each player says what the thing is made of, then puts a bean on that square.; The caller reads the back of the card. A bean on the wrong square comes off. If the back names two materials, either one counts.; If a square already has a bean, wait for the next card.; If the cards run out before someone wins, mix them and use them again.; The first player to cover all six squares shouts 'Made of everything!' and wins. If two players finish on the same card, they both win.
 - **Printable board: 6 squares for each player's board:** WOOD (draw a brown plank with lines); METAL (draw a shiny tumbler); PLASTIC (draw a bucket); GLASS (draw a window); FABRIC (draw a shirt); PAPER (draw a book)
-- **Printable cards: 24 thing cards for the caller:** A steel tumbler (back: Metal); A wooden belan for rolling chapatis (back: Wood); A bucket for the bathroom (back: Plastic (most buckets are plastic, some are steel)); A window pane (back: Glass); A cotton towel (back: Fabric); A newspaper (back: Paper); A key (back: Metal); A door (back: Wood (some doors are metal or plastic)); A toothbrush handle (back: Plastic); A mirror (back: Glass); A saree (back: Fabric); A notebook (back: Paper); A one-rupee coin (back: Metal); A cricket bat (back: Wood); A milk packet (back: Plastic); A bottle of coconut oil you can see through (back: Glass or plastic: both can be see-through. Tap it to find out.); A school uniform shirt (back: Fabric); A train ticket (back: Paper); A pressure cooker (back: Metal (with a plastic handle and a rubber ring)); A wooden spinning top, a pambaram (back: Wood, with a metal tip); A plastic chair (back: Plastic); A bangle you can see through (back: Glass); A cloth shopping bag (back: Fabric); A kite (back: Paper, with thin sticks of bamboo)
+- **Printable cards: 24 thing cards for the caller:** A steel tumbler (back: Metal); A wooden belan for rolling chapatis (back: Wood); A lunch box, light and blue (back: Plastic); A window pane (back: Glass); A cotton towel (back: Fabric); A newspaper (back: Paper); A key (back: Metal); A chopping board with brown lines (back: Wood); A toothbrush handle (back: Plastic); A mirror (back: Glass); A saree (back: Fabric); A notebook (back: Paper); A one-rupee coin (back: Metal); A cricket bat (back: Wood); A milk packet (back: Plastic); A pickle jar you can see through (back: Glass); A school uniform shirt (back: Fabric); A train ticket (back: Paper); A pressure cooker (back: Metal (with a plastic handle and a rubber ring)); A wooden spinning top, a pambaram (back: Wood, with a metal tip); A plastic chair (back: Plastic); A glass bangle (back: Glass); A cloth shopping bag (back: Fabric); A kite (back: Paper, with thin sticks of bamboo)
 - **s1 (4 min)**  
   *Parent does:* 1. Help each player fold a sheet into six squares. 2. Your child draws one material in each square. 3. Give each player six beans.  
   *Parent says:* Draw a board with six squares. In each square, draw one material: wood, metal, plastic, glass, fabric and paper.  
@@ -198,14 +198,14 @@ And some things, like her pencil, were made of more than one thing.
   *Parent says:* A key. What is a key made of? Put your bean on that square.  
   *Child mode:* Listen to the card. What is the thing made of? Put a bean on that square.
   - Ask: How do you know a key is metal? (good: It is shiny.; It is hard and cold.; It rings when you drop it.)
-  - Note: Some cards have two answers, like the coconut oil bottle. Let any answer that matches the back count. Ask 'How could we check?'
+  - Note: Some things are made of more than one material, like a pressure cooker with a plastic handle. Let any answer that fits the back count. If your child says something else that could be true, ask 'How could we check?'
 - **s3 (2 min)**  
   *Parent does:* Ask the check question. Then play again with a new caller.  
   *Parent says:* A pressure cooker. Is it made of only one material?  
   *Child mode:* Is a pressure cooker made of only one material?
   - Check: What is a pressure cooker made of? → **Metal, with a plastic handle and a rubber ring**
 ### g2 · Bring Me Something Made Of... (12 min)
-- **rules:** The caller picks a material card and reads it out.; The player finds something made of that material and brings it back before the caller counts to 20.; For glass, the player does not carry anything. They run and touch it gently, and say what it is.; The player says how they know: what they saw, felt or heard.; One point for each right thing. Two points for a thing made of two materials, if the player names both.
+- **rules:** The caller picks a material card and reads it out.; The player finds something made of that material and brings it back before the caller counts to 20. With more than one player, everyone runs at once, and each player who brings back a right thing in time scores.; For glass, and for things too big to carry, like a door, the player does not carry anything. They run and touch it gently, and say what it is.; The player says how they know: what they saw, felt or heard.; One point for each right thing. Two points for a thing made of two materials, if the player names both.; The game ends when each material card has been called once. The player with the most points wins. If you play alone, try to beat your own score next time.
 - **Printable cards: 6 material cards for the caller:** WOOD (back: Ideas: a pencil, a wooden spoon, a chair leg, a door); METAL (back: Ideas: a steel spoon, a key, a coin, a tumbler); PLASTIC (back: Ideas: a comb, a bucket, a pen, a toy); GLASS (back: Point to it, do not carry it. Ideas: a window, a mirror, a jar); FABRIC (back: Ideas: a sock, a towel, a cushion cover, a dupatta); PAPER (back: Ideas: a book, a newspaper, a paper bag, a calendar)
 - **Printable score sheet: Score sheet:** Player name; Things found in time; Two-material things found (2 points each)
 - **s1 (2 min)**  
@@ -223,13 +223,13 @@ And some things, like her pencil, were made of more than one thing.
   *Parent does:* Play one last round with a new rule. Your child must find a thing made of two materials.  
   *Parent says:* Last round. Find one thing made of two materials, and tell me both.  
   *Child mode:* Find one thing made of two materials. Name them both.
-  - Check: Which of these is made of two materials? → **A pencil**
+  - Check: Which of these is made of two materials? → **A knife with a plastic handle**
 
 ## Experiments
 ### e1 · The Paper Cup Puzzle: is it only paper? (25 min)
 - **question:** Paper goes soggy in water. So why does a paper cup hold water? Is a paper cup made only of paper?
 - **predict:** Guess first. When we pour water into the newspaper cone, what will happen? What will happen in the paper cup? Why do you think so?
-- **fair test:** Both cups get the same amount of water, three spoonfuls, at the same time. Both are held over the same steel plate, and we watch both for the same time. Only the cup is different.
+- **fair test:** Both cups get the same amount of water, three spoonfuls each. Both are held over the same steel plate, and we watch both for the same time. Only the cup is different.
 - **safety:** Only a grown-up uses the scissors.
 - **record:** Draw the two cups side by side. Draw what the water did in each one. Then draw the inside of the cut-open paper cup, and colour the plastic skin a different colour from the paper.
 - **results table:** Cup | My guess | What happened to the water | What it is made of
@@ -287,7 +287,7 @@ And some things, like her pencil, were made of more than one thing.
   *Parent does:* 1. Your child finds safe things and puts each one on its card. 2. For glass, they point, and you make a tally mark. 3. For big things like the fridge, they make a tally mark.  
   *Parent says:* Find a thing. What is it made of? How do you know? Put it on that card.  
   *Child mode:* Find a thing. Say what it is made of. Put it on the card.
-  - Ask: How do you know this is plastic? (good: It is light.; It went tock when I tapped it.; It is bright green.)
+  - Ask: How do you know this is plastic? (good: It is light.; It went tock when I tapped it.; It is smooth and light.)
   - Note: Let your child tap, lift and look. If they are not sure, ask 'Is it shiny? Does it ring? Can you see through it?' A thing with two materials, like a knife with a plastic handle, goes between two cards.
 - **s3 (4 min)**  
   *Parent does:* 1. Count the things or marks on each card together. 2. Compare with the guess. 3. Put everything back.  
@@ -308,7 +308,7 @@ And some things, like her pencil, were made of more than one thing.
   *Parent says:* Before you rub, guess. Will the steel plate make a pattern? Why do you think so?  
   *Child mode:* Guess first. Then rub the cloth, the plate and the basket.
   - Ask: What did the steel plate make? (good: Nothing. Just colour.; It is too smooth to make a pattern.)
-  - Note: Jute and towels show criss-cross threads. Steel is so smooth that the rubbing is plain colour.
+  - Note: Jute and coarse woven cloth show criss-cross threads. A towel shows soft bumps. Steel is so smooth that the rubbing is plain colour.
 - **s3 (4 min)**  
   *Parent does:* Mix up the rubbings. Ask your child to say which material made each one.  
   *Parent says:* Can you tell which material made each rubbing, just by looking?  
@@ -352,8 +352,8 @@ And some things, like her pencil, were made of more than one thing.
   - Check: The chips packet opened up again after scrunching. What does that tell you? → **It is mostly plastic, not metal like the foil**
 
 ## Projects
-### p1 · A Shoebox Room of Six Materials (40 min, 2 days)
-- **safety:** A grown-up cuts the window hole and cuts any matchstick heads off first.
+### p1 · A Shoebox Room: one material for each part (40 min, 2 days)
+- **safety:** A grown-up cuts the window hole.
 - **record:** The finished room, with a small paper label on each part naming its material.
 - **schedule:** day 1: Plan the room. Cut a window and fit the clear plastic. Make a bed or a table from ice-cream sticks. (20 min); day 2: Add a cloth bedsheet or curtain, a foil mirror or a bottle-cap plate, and paper pictures for the walls. Label every material and show the room to the family. (20 min)
 - **s1 (5 min)**  
@@ -372,7 +372,7 @@ And some things, like her pencil, were made of more than one thing.
   *Child mode:* Add a cloth sheet, a metal mirror and paper pictures.
   - Wait: Day 2
 - **s4 (5 min)**  
-  *Parent does:* 1. Your child writes or draws a label for each part. 2. They show the room and name every material.  
+  *Parent does:* 1. Your child draws a label for each part, and a grown-up writes the word on it. 2. They show the room and name every material.  
   *Parent says:* Show us your room. Tell us what each part is made of.  
   *Child mode:* Show your room. Name every material.
   - Check: Why did we use clear plastic for the window in the model? → **It is see-through like glass, and safer**
@@ -380,9 +380,9 @@ And some things, like her pencil, were made of more than one thing.
 ## Challenges
 ### c1 · Make a Hand Fan That Works (20 min)
 - **problem:** The power has gone and the fan has stopped. You need a hand fan. Which material makes the best one: paper, cloth or plastic?
-- **your turn:** Make one fan from each material. Wave each one at the paper strip from the same distance. Which one lifts the strip best? Draw your best fan and label its materials.
-- **constraints:** Use only things from home.; The fan must be light enough to wave for one minute.; It must move enough air to lift a small strip of paper from across the table.
-- **general:** Fold a sheet of paper back and forth like a zigzag, then pinch one end. This is a folding fan.; Tape a flat piece of card to a stick, like a small bat.; In South India, many families once used fans made of dried palm leaves.
+- **your turn:** Make one fan from each material, all about the same size. Wave each one ten times at the paper strip from the same distance. Which one lifts the strip best? Draw your best fan and label its materials.
+- **constraints:** Use only things from home.; The fan must be light enough to wave for one minute.; It must move enough air to lift a small strip of paper from a hand-length away.
+- **general:** Fold a sheet of paper back and forth like a zigzag, then pinch one end. This is a folding fan.; Tape a flat piece of cardboard to a stick, like a small bat.; In South India, many families once used fans made of dried palm leaves.
 - **creative:** Stiffen the cloth by taping ice-cream sticks across it.; Fold the plastic folder into a zigzag. It springs back, so it moves air with each wave.; Make one fan from two materials: a paper fan with a stick handle.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child. Show the paper, cloth and plastic.  
@@ -390,23 +390,23 @@ And some things, like her pencil, were made of more than one thing.
   *Child mode:* It is hot. Which material makes the best fan? Why?
   - Ask: Why? (good: Paper, because it is light and you can fold it.; Cloth is too floppy.; Plastic is strong.)
 - **s2 (10 min)**  
-  *Parent does:* 1. Help your child make one fan from each material. 2. Show the zigzag fold for the paper.  
+  *Parent does:* 1. Help your child make one fan from each material, all about the same size. 2. Show the zigzag fold for the paper.  
   *Parent says:* Fold the paper forward, then back, then forward. Pinch one end. That is your fan.  
   *Child mode:* Make a fan from each one. Fold the paper back and forth.
 - **s3 (5 min)**  
-  *Parent does:* 1. Lay a paper strip at the edge of the table. 2. Your child waves each fan from one hand-length away.  
-  *Parent says:* Wave each fan from the same place. Which one lifts the strip best?  
-  *Child mode:* Wave each fan at the strip. Which works best?
+  *Parent does:* 1. Put a paper strip on the table, with half of it hanging over the edge and a book on the other half. 2. Your child waves each fan ten times from one hand-length away.  
+  *Parent says:* Wave each fan ten times from the same place. Which one lifts the strip best?  
+  *Child mode:* Wave each fan ten times at the strip. Which works best?
   - Ask: Which worked best? (good: The paper fan.; The cloth one was too floppy.; The plastic one worked well too.)
-  - Note: A folded paper fan usually works best. Cloth bends too easily to push much air. Stiff plastic can work well.
+  - Note: A stiff fan pushes the most air. Floppy cloth or a thin plastic bag bends away. Whichever fan wins is a real result, so write it down.
 - **s4 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Why did the cloth fan not push much air?  
-  *Child mode:* Why was the cloth fan not so good?
-  - Check: Why does a cloth fan push less air than a folded paper fan? → **Cloth is soft and bends too easily**
+  *Parent says:* If the cloth fan pushed little air, why do you think that was?  
+  *Child mode:* Why did the floppy fan push so little air?
+  - Check: A floppy fan, like one made of cloth, pushes very little air. Why? → **Cloth is soft and bends too easily**
 
 ## Worksheets
-### What Is It Made Of? (core) (core, 12 questions)
+### What Is It Made Of? (core) (core, 11 questions)
 1. (label) Here is a kitchen shelf. Say or write the material of each thing.  
    **Answer:** ['metal', 'glass', 'plastic', 'wood', 'fabric', 'paper']. *Why:* Each clue tells you the material. Shiny and grey is metal. See-through is glass. Light and bright is plastic. Brown lines are wood grain. Soft is fabric. Thin and easy to tear is paper.
 2. (match) Draw a line from each thing to the material it is usually made of.  
@@ -418,43 +418,41 @@ And some things, like her pencil, were made of more than one thing.
 5. (mcq) Meena, a girl in Class 1, taps a tumbler with a spoon. It rings: ting! It is shiny and cold. What is the tumbler made of?  
    Options: Metal / Plastic / Paper  
    **Answer:** Metal. *Why:* Metal is shiny, feels cold to touch and rings when you tap it. A plastic tumbler would go tock, and a paper one would make almost no sound.
-6. (truefalse) A paper cup is made only of paper.  
-   **Answer:** False. *Why:* False. In the Paper Cup Puzzle, the cut-open cup had a thin plastic skin inside. That skin keeps the water in.
-7. (odd) Three of these are made of fabric. Which one is not?  
+6. (odd) Three of these are made of fabric. Which one is not?  
    Options: A towel / A shirt / A spoon / A dupatta  
    **Answer:** 2. *Why:* A towel, a shirt and a dupatta are fabric, soft cloth made of threads. A spoon is hard. It is usually metal, wood or plastic.
-8. (write) Remember the Paper Cup Puzzle, where water went into a newspaper cone and a paper cup. Why did the newspaper cone leak, but the paper cup held the water? Say it, and a grown-up writes it down.  
+7. (write) Remember the Paper Cup Puzzle, where water went into a newspaper cone and a paper cup. Why did the newspaper cone leak, but the paper cup held the water? Say it, and a grown-up writes it down.  
    **Answer:** The newspaper is only paper, and paper soaks up water. The paper cup has a thin plastic skin inside, and water cannot soak through it.. *Why:* A strong answer says what was different: the plastic skin inside the paper cup.
-9. (perspective) Lakshmi and her brother Farhan are looking at a pencil.  
-   **Answer:** A strong answer picks a side with a reason. For Lakshmi: the grey middle is graphite, not wood, and the rubber is rubber. For Farhan: most of a pencil is wood, so he named the main material.. *Why:* Both are partly right. Most of a pencil is wood, but a pencil is made of several materials. Looking at every part tells you the whole answer.
-10. (count) An umbrella has a fabric top, metal spokes and a plastic handle. How many different materials is it made of?  
+8. (perspective) Lakshmi and her brother Kiran are looking at a pencil.  
+   **Answer:** A strong answer picks a side with a reason. For Lakshmi: the grey middle is graphite, not wood, and the rubber is rubber. For Kiran: most of a pencil is wood, so he named the main material.. *Why:* Both are partly right. Most of a pencil is wood, but a pencil is made of several materials. Looking at every part tells you the whole answer.
+9. (count) An umbrella has a fabric top, metal spokes and a plastic handle. How many different materials is it made of?  
    **Answer:** 3. *Why:* Fabric, metal and plastic make 3 materials. Each one does a job: the fabric keeps the rain off, the metal holds it open and the plastic handle is light to hold.
-11. (draw) Draw one thing at home that is made of two materials. Colour each material in a different colour.  
+10. (draw) Draw one thing at home that is made of two materials. Colour each material in a different colour.  
    **Answer:** For example, a knife with a steel blade and a plastic handle, coloured in two colours.. *Why:* A strong drawing shows two clear parts, each made of a different material, and the child can name both.
-12. (truefalse) Glass is made from sand.  
+11. (truefalse) Glass is made from sand.  
    **Answer:** True. *Why:* True. Glass is made by melting sand with a few other materials in a very hot fire, then letting it cool.
 ### Material Detective (stretch) (stretch, 10 questions)
-1. (mcq) Anjali finds a light, red, smooth box. She taps it: tock. She cannot see through it. What is it most likely made of?  
+1. (mcq) Anjali, a girl in Class 1, finds a light, red, smooth box. She taps it: tock. She cannot see through it. What is it most likely made of?  
    Options: Plastic / Glass / Metal  
    **Answer:** Plastic. *Why:* Plastic is light and can be any colour, and it goes tock when tapped. Glass is usually see-through, and metal is heavier and rings.
-2. (write) Remember the Scrunch Ball test, where you scrunched kitchen foil and a chips packet. Your friend says a chips packet is metal, because it is shiny inside. What would you tell your friend? Use what you saw.  
+2. (write) Remember the Scrunch Ball test, where you scrunched kitchen foil and a chips packet. Your friend says a chips packet is metal, because it is shiny inside. What would you tell your friend? Use what you saw. Say it, and a grown-up writes it down.  
    **Answer:** The foil stayed scrunched, but the chips packet opened up again. So the packet is mostly plastic, with only a very thin metal coat inside.. *Why:* A strong answer uses what the child saw: the two balls acted differently, so they are different materials.
 3. (sort) Where does it come from? Sort these into 'from a plant' and 'from under the ground'.  
-   **Answer:** A cotton shirt → From a plant; A notebook → From a plant; A wooden chair → From a plant; A steel spoon → From under the ground; A glass bottle → From under the ground; A plastic bucket → From under the ground. *Why:* Cotton grows on a plant, and paper and wood come from trees. Steel comes from iron in rocks, glass from sand, and most plastic from oil deep under the ground.
+   **Answer:** A cotton shirt → From a plant; A notebook → From a plant; A wooden chair → From a plant; A steel spoon → From the ground; A glass bottle → From the ground; A plastic bucket → From the ground. *Why:* Cotton grows on a plant, and paper and wood come from trees. Steel comes from iron in rocks, glass from sand, and most plastic from oil. All three are dug or pumped out of the ground.
 4. (draw) Draw the newspaper cone from the Paper Cup Puzzle, one minute after the water went in.  
    **Answer:** A dark, soft-looking cone with drops of water falling onto a plate.. *Why:* A strong drawing shows the paper darker where it is wet, and water dripping out. Paper soaks up water and lets it through.
 5. (truefalse) One material, like steel, can be made into many different things.  
    **Answer:** True. *Why:* True. Steel makes tumblers, spoons, keys, plates and even train carriages. The shape and the job change, but the material is the same.
-6. (odd) Which one is not made from a plant?  
-   Options: Paper / A cotton towel / A steel spoon / A wooden spoon  
-   **Answer:** 2. *Why:* Paper comes from plant threads, cotton grows on a plant, and wood comes from trees. Steel comes from iron, which is dug out of rocks.
-7. (write) Why are windows made of glass and not wood? Say one good reason.  
+6. (odd) Three of these are usually made of plastic. Which one is not?  
+   Options: A bucket / A comb / A steel tumbler / A toothbrush handle  
+   **Answer:** 2. *Why:* A bucket, a comb and a toothbrush handle are light and plastic. A steel tumbler is metal, and it rings when you tap it.
+7. (write) Why are windows made of glass and not wood? Say one good reason, and a grown-up writes it down.  
    **Answer:** Glass is see-through, so light comes in and we can see out. Wood would block the light.. *Why:* A strong answer names what the glass does for the job. Glass also keeps out rain and wind while letting light in.
 8. (mcq) Why is a raincoat not made of paper?  
    Options: Paper goes soft and tears when it gets wet / Paper is too heavy to wear / Paper is too shiny  
    **Answer:** Paper goes soft and tears when it gets wet. *Why:* Paper soaks up water, then goes soft and tears, like the newspaper cone in the Paper Cup Puzzle. A raincoat must keep water out, so it is made of plastic or a coated fabric.
-9. (label) Label the parts of a pencil with their materials: wood, graphite, paint, rubber.  
-   **Answer:** ['wood', 'graphite', 'paint', 'rubber']. *Why:* A pencil is made of several materials. The wood holds the graphite, the graphite makes the mark, the paint covers the wood and the rubber rubs out mistakes.
+9. (label) Label the parts of a school water bottle with their materials: metal, plastic, rubber.  
+   **Answer:** ['metal', 'plastic', 'rubber']. *Why:* Each part has a job. The metal body is strong, the plastic lid is light, and the bendy rubber ring keeps the water in.
 10. (match) Match each clue to the material.  
    **Answer:** You can see through it → Glass; It has threads → Fabric; It has brown grain lines → Wood; It is shiny and rings when tapped → Metal; It tears easily and gets soggy in water → Paper. *Why:* Each material has clues you can see, feel or hear. Detectives use these clues to name a material.
 
@@ -473,28 +471,25 @@ And some things, like her pencil, were made of more than one thing.
 3. (mcq) You can see right through a window. What is it usually made of?  
    Options: Glass / Wood / Paper  
    **Answer:** Glass. *Why:* Glass is hard and see-through, so light comes in. Wood and paper block the light.
-4. (mcq) Selvi taps a plate with a spoon and hears a loud ting. What is the plate most likely made of?  
-   Options: Metal / Paper / Fabric  
-   **Answer:** Metal. *Why:* Metal rings when you tap it. Paper and fabric make almost no sound.
-5. (mcq) Which material has thin brown lines called grain?  
+4. (mcq) Which material has thin brown lines called grain?  
    Options: Wood / Glass / Plastic  
    **Answer:** Wood. *Why:* The grain in wood shows how the tree grew. Glass and plastic have no grain.
-6. (mcq) Which of these is made of more than one material?  
+5. (mcq) Which of these is made of more than one material?  
    Options: An umbrella / A sheet of paper / A steel spoon  
    **Answer:** An umbrella. *Why:* An umbrella has a fabric top, metal spokes and a handle. A sheet of paper is only paper, and a steel spoon is only metal.
-7. (mcq) Steel makes tumblers, spoons and keys. What does this show?  
+6. (mcq) Steel makes tumblers, spoons and keys. What does this show?  
    Options: One material can make many different things / Every material makes only one thing / Steel is a kind of plastic  
    **Answer:** One material can make many different things. *Why:* One material can be shaped into many things. The name of a thing tells you its job, and the material tells you what it is made of.
-8. (mcq) Where does wood come from?  
+7. (mcq) Where does wood come from?  
    Options: Trees / Sand / Oil under the ground  
    **Answer:** Trees. *Why:* Wood comes from trees. Glass is made from sand, and most plastic from oil.
-9. (mcq) Most plastic is made from what?  
+8. (mcq) Most plastic is made from what?  
    Options: Oil from deep under the ground / Cotton plants / Sand  
    **Answer:** Oil from deep under the ground. *Why:* Most plastic is made in factories from oil or gas found deep under the ground. Glass is the material made from sand.
-10. (mcq) In the Paper Cup Puzzle, what did the cut-open paper cup have on the inside?  
+9. (mcq) In the Paper Cup Puzzle, what did the cut-open paper cup have on the inside?  
    Options: A thin plastic skin / A layer of glass / Nothing, only paper  
    **Answer:** A thin plastic skin. *Why:* A thin plastic skin lines the inside of most paper cups. Water cannot soak through plastic, so the cup holds water.
-11. (mcq) In the Paper Cup Puzzle, what happened to the newspaper cone?  
+10. (mcq) In the Paper Cup Puzzle, what happened to the newspaper cone?  
    Options: It went dark and soft and leaked / It stayed dry / It turned into plastic  
    **Answer:** It went dark and soft and leaked. *Why:* Paper soaks up water. The newspaper went dark, then soft, and the water dripped through.
 
@@ -503,7 +498,7 @@ And some things, like her pencil, were made of more than one thing.
 - Kabadiwalas sort old things by material, so paper, metal and plastic can each be made into something new.
 - Doctors use steel for tools, because steel can be washed in very hot water and stays clean.
 - Tailors pick cotton for hot weather, because it lets air through and soaks up sweat.
-- Toy makers use wood or soft fabric for baby toys, because they are safe to chew and have no sharp edges.
+- Toy makers use soft fabric for toys for babies, because soft fabric has no sharp edges and does not hurt when it falls.
 
 ## Spotted around us
 - A row of shining steel tiffin boxes on a kitchen shelf in Chennai, each one with a name scratched on the lid.
@@ -533,12 +528,11 @@ And some things, like her pencil, were made of more than one thing.
 - What gets wetter the more it dries? *A towel!*
 - Why did the pencil stop writing? *It had lost its point!*
 - What did the button say to the shirt? *Hold on, I've got you!*
-- Why was the bucket so sad? *It was feeling a little down in the dumps!*
 - What did the paper cup say to the tea? *Don't worry, I've got a plastic skin!*
 
 ## Connected maths
-- In the Material Hunt, Pooja made these tally marks: metal 7, plastic 5, glass 2. Which material had the most things? **Metal, with 7 things.**. 7 is more than 5, and 5 is more than 2. So metal had the most, and glass had the fewest. (queues `math.data.sorting-and-tallies.L1`)
-- In the Material Hunt, Nila found 6 things made of metal and 4 things made of plastic. How many more metal things did she find? **2 more metal things.**. Line up the metal things and the plastic things in pairs. 4 pairs match, and 2 metal things are left over. 6 take away 4 is 2. (queues `math.addition-subtraction.meaning.L1`)
+- In the Material Hunt, Pooja, a girl in Class 1, made these tally marks: metal 7, plastic 5, glass 2. Which material had the most things? **Metal, with 7 things.**. 7 is more than 5, and 5 is more than 2. So metal had the most, and glass had the fewest. (queues `math.data.sorting-and-tallies.L1`)
+- In the Material Hunt, Nila, a girl in Class 1, found 6 things made of metal and 4 things made of plastic. How many more metal things did she find? **2 more metal things.**. Line up the metal things and the plastic things in pairs. 4 pairs match, and 2 metal things are left over. 6 take away 4 is 2. (queues `math.addition-subtraction.meaning.L1`)
 - A pencil has wood, a grey graphite middle, paint and a rubber at the end. How many materials is that? **4 materials.**. Count one finger for each: wood, graphite, paint and rubber. That is 4. (queues `math.number-sense.counting.L1`)
 
 ## Song

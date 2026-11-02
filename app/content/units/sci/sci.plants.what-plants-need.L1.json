@@ -50,7 +50,7 @@
    "concept": "Plants need water",
    "status": "defined",
    "definition": "Every plant needs water to live and grow. A dry seed only starts to sprout once they soak up water.",
-   "description": "A plant drinks water through their roots. The water fills the plant and keeps the stems and leaves firm. When a plant is short of water, they wilt: the leaves droop and go soft. A dry seed stays still for months. Give the seed water, and they swell and start to sprout. But too much water is not good either. Roots that sit in water for days can rot.",
+   "description": "A plant drinks water through their roots. The water keeps the stems and leaves firm. Without water they wilt: the leaves droop and go soft. A dry seed waits for months, and starts to sprout once they soak up water. Too much water is not good either, because roots that sit in water for days can rot.",
    "examples": [
     "Methi seeds on a dry plate stay just as they are. On a wet plate, they sprout in a day or two.",
     "A tulsi plant wilts on a hot day without water, and stands up again after a drink.",
@@ -64,7 +64,7 @@
    "concept": "Plants need light",
    "status": "defined",
    "definition": "Green plants make their own food in their leaves, using light, air and water.",
-   "description": "Humans and other animals eat food. Plants make their own food, in their green leaves, and they need light to do it. A seed has a little store of food inside. So a sprout can grow for a few days in the dark, using that store. But the sprout comes up yellow and thin. When the store runs out, a plant in the dark grows weak and droops. A plant in the light keeps on making food, and keeps on growing.",
+   "description": "Humans and other animals eat food. Plants make their own food in their green leaves, and they need light to do it. A seed has a little food stored inside, so a sprout can grow for a few days in the dark. But they come up yellow and thin, and without light they grow weak.",
    "examples": [
     "Methi under an upturned bowl sprouts, but comes up yellow and thin.",
     "The inside leaves of a cabbage grow in the dark and are pale.",
@@ -77,7 +77,7 @@
   {
    "concept": "A sprout makes their green in the light",
    "status": "debated",
-   "description": "The green in a leaf is made by the plant. Methi, like most flowering plants, makes their green only when they sense light. In the dark, a methi sprout stays yellow and stretches up tall. Put the yellow sprout in the light, and within a day the sprout turns green. Plants have light sensors in their leaves, stems and roots, so they feel the light and answer it. Scientists agree that light sets this off. They argue about how to describe what the plant does.",
+   "description": "The green in a leaf is made by the plant. Methi makes their green only when they sense light. In the dark a sprout stays yellow and stretches tall. Put it in the light, and within a day it turns green. Scientists agree that light sets this off. They argue about how to describe what the plant does.",
    "examples": [
     "Yellow methi sprouts from under the bowl turn green within a day on the windowsill.",
     "Moong sprouts sold in a closed packet are white and yellow, and turn green if left in the light.",
@@ -104,7 +104,7 @@
   },
   {
    "text": "Green plants need light to make their food.",
-   "evidence": "Plants kept in the dark grow yellow and weak, and in the end they die. Plants in the light keep growing. Scientists have tested this in thousands of experiments."
+   "evidence": "Plants kept in the dark grow yellow and weak, and in the end they die. Plants in the light keep growing. Scientists have tested this in many experiments."
   },
   {
    "text": "Plants make their green colour in the light.",
@@ -154,9 +154,9 @@
    "hint": "Think about rice, dal, bananas and milk. Where did each one come from?"
   },
   {
-   "q": "Your skin gets darker in strong sun, and methi turns green. Are they alike?",
+   "q": "Why do the leaves of a plant on a shelf lean towards the window?",
    "kind": "big",
-   "hint": "Both happen slowly, after the light comes. Both are a body answering the light."
+   "hint": "Think about where the light comes from. What does the plant need from the light?"
   }
  ],
  "story": {
@@ -203,8 +203,8 @@
    "id": "g1",
    "title": "What Does Methi Need?",
    "mins": 15,
-   "players": "1 to 4 players and a grown-up",
-   "context": "This is a sorting game about what a plant needs. Each card shows something. Players decide if the methi needs it to grow, or not.",
+   "players": "1 to 4 players and a grown-up who reads the backs",
+   "context": "This is a sorting game about what a plant needs. Each card names something. Players decide if the methi needs it to grow (green basket) or not (grey basket).",
    "printables": [
     {
      "kind": "cards",
@@ -212,106 +212,105 @@
      "items": [
       {
        "f": "Sunlight through a window",
-       "b": "Methi needs this. Plants make their food using light."
+       "b": "Green basket. Methi needs this. Plants make their food using light."
       },
       {
        "f": "A spoon of water",
-       "b": "Methi needs this. Seeds need water to sprout, and plants need water to grow."
+       "b": "Green basket. Methi needs this. Seeds need water to sprout, and plants need water to grow."
       },
       {
        "f": "Rain falling",
-       "b": "Methi needs this. Rain is water for plants."
+       "b": "Green basket. Methi needs this. Rain is water for plants."
       },
       {
        "f": "A bright lamp",
-       "b": "This helps. A bright lamp close by can give light to a plant, though sunlight is stronger."
+       "b": "Green basket. Light from a bright lamp also works, though sunlight is stronger."
       },
       {
        "f": "Air around the plant",
-       "b": "Methi needs this. Plants use air to make food, and their roots need air too."
+       "b": "Green basket. Methi needs this. Plants use air to make food, and their roots need air too."
       },
       {
        "f": "A packet of sugar",
-       "b": "Not needed. Plants make their own sugar in their leaves. We do not have to feed them sugar."
+       "b": "Grey basket. Not needed. Plants make their own sugar in their leaves. We do not have to feed them sugar."
       },
       {
        "f": "A glass of milk",
-       "b": "Not needed. Milk is food for young mammals, not for plants."
+       "b": "Grey basket. Not needed. Milk is food for young mammals, not for plants."
       },
       {
        "f": "A toy car",
-       "b": "Not needed. A plant has no use for a toy car."
+       "b": "Grey basket. Not needed. A plant has no use for a toy car."
       },
       {
        "f": "An upturned steel bowl over the plant",
-       "b": "Not good. The bowl blocks the light, and the sprouts come up yellow."
+       "b": "Grey basket. Not good. The bowl blocks the light, and the sprouts come up yellow."
       },
       {
        "f": "A dark cupboard",
-       "b": "Not good. In the dark, a plant cannot make food."
+       "b": "Grey basket. Not good. In the dark, a plant cannot make food."
       },
       {
        "f": "A puddle that never dries",
-       "b": "Too much. Roots in soggy soil for days can rot. Damp is just right."
+       "b": "Grey basket. Too much. Roots in soggy soil for days can rot. Damp is just right."
       },
       {
        "f": "A dry, cracked pot",
-       "b": "Not good. A plant in dry soil wilts."
+       "b": "Grey basket. Not good. A plant in dry soil wilts."
       },
       {
        "f": "A plate of biscuits",
-       "b": "Not needed. Plants make their own food."
+       "b": "Grey basket. Not needed. Plants make their own food."
       },
       {
        "f": "A watering can",
-       "b": "This helps. A watering can gives the plant water."
+       "b": "Green basket. This gives the plant the water they need."
       }
      ]
     },
     {
      "kind": "board",
-     "title": "Two baskets to draw on a big sheet",
+     "title": "2 basket labels to cut out",
      "items": [
-      "A green basket with a sun and a water drop on it: 'Methi needs this'",
-      "A grey basket with a cross on it: 'Not needed, or not good'"
+      "GREEN BASKET: Methi needs this. (Draw a sun and a water drop.)",
+      "GREY BASKET: Not needed, or not good. (Draw a cross.)"
      ]
     }
    ],
    "rules": [
-    "Put the two baskets on the floor. Mix the cards and put them face down.",
-    "Take turns. Turn over the top card and say what is on it.",
-    "Put the card in the green basket or the grey basket. Say why.",
-    "The grown-up reads the back of the card. If you were right, keep the card.",
-    "If you were wrong, the card goes to the bottom of the pile, to try again later.",
-    "When all the cards are kept, count your cards. Everyone who sorted a card well has helped the methi grow."
+    "Put the two labels on the floor, a little apart. Mix the 14 cards and put them face down in a pile.",
+    "Take turns. The grown-up turns over the top card and reads the front aloud. Think: does the methi need this?",
+    "Put the card on the green label or the grey label, and say why.",
+    "The grown-up reads the back. If you were right, you score 1 point and the card stays there. If you were wrong, the grown-up moves the card to the right label and nobody scores.",
+    "The game ends when the pile is finished. Count your points. The most points wins; if it is a tie, everyone wins. With one player, see how many you got right."
    ],
    "setup": [
     {
-     "art": "A big sheet of paper on the floor with a green basket and a grey basket drawn on it, and a pile of picture cards beside it.",
-     "caption": "1. Draw the two baskets. Mix the cards."
+     "art": "A big sheet of paper on the floor with two labels, a green one and a grey one, and a pile of face-down cards beside them.",
+     "caption": "1. Lay out the two labels. Mix the cards."
     },
     {
-     "art": "A child holding up a card with a picture of sugar, about to put it in the grey basket.",
-     "caption": "2. Turn a card, say why, and put it in a basket."
+     "art": "A child holding up a card that says 'A packet of sugar', about to put it on the grey label.",
+     "caption": "2. Read a card, say why, and put it on a label."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 14 cards. 2. Draw a green basket and a grey basket on a big sheet. 3. Mix the cards and put them face down.",
-     "say": "This game is about what a plant needs. The green basket is for things the methi needs. The grey basket is for things they don't need.",
-     "kid": "Look at the two baskets. Green is for what methi needs. Grey is for what methi does not need."
+     "do": "1. Cut out the 14 cards and the 2 labels. 2. Put the labels on the floor. 3. Mix the cards and put them face down.",
+     "say": "This game is about what a plant needs. The green label is for things the methi needs. The grey label is for things they don't need.",
+     "kid": "Look at the two labels. Green is for what methi needs. Grey is for what methi does not need."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Take turns. Turn over a card, say the picture, put it in a basket and say why. Read the back aloud.",
-     "say": "What is on your card? Does the methi need it? Why do you think so?",
-     "kid": "Turn over a card. Does methi need this? Put it in a basket. Say why.",
+     "do": "Take turns. The grown-up reads a card aloud. The child puts it on a label and says why. The grown-up reads the back and gives a point if the child was right.",
+     "say": "What does the card say? Does the methi need it? Why do you think so?",
+     "kid": "Listen to the card. Does methi need this? Put it on a label. Say why.",
      "ask": [
       {
-       "q": "Why does the sugar go in the grey basket?",
+       "q": "Why does the packet of sugar go on the grey label?",
        "good": [
         "Plants make their own sugar.",
         "Plants make their own food, so they don't need us to feed them."
@@ -322,9 +321,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "At the end, pick up the green basket cards. Ask your child to say what they have in common.",
-     "say": "Look at all the cards in the green basket. What do they have in common?",
-     "kid": "Look at the green basket. What does methi need?",
+     "do": "At the end, look at the cards on the green label together. Ask your child what they have in common.",
+     "say": "Look at all the cards on the green label. What do they have in common?",
+     "kid": "Look at the green label. What does methi need?",
      "check": {
       "t": "mcq",
       "q": "Which one does a plant need?",
@@ -343,7 +342,7 @@
    "id": "g2",
    "title": "Green or Yellow?",
    "mins": 15,
-   "players": "2 or more players and a reader",
+   "players": "1 to 4 players and a reader",
    "context": "This is a guessing game about light. Each card says where a methi sprout grew. Players guess if the sprout will be green or yellow, by holding up a green or a yellow crayon.",
    "printables": [
     {
@@ -395,18 +394,18 @@
        "b": "Green. The yellow sprouts turn green within a day in the light."
       },
       {
-       "f": "Under a steel lid with one small hole",
-       "b": "Mostly yellow, with a little green. A small hole lets in only a little light."
+       "f": "Under a thick black cloth",
+       "b": "Yellow. A thick black cloth blocks the light."
       }
      ]
     }
    ],
    "rules": [
-    "Each player has a green crayon and a yellow crayon.",
-    "The reader mixes the cards and reads one out loud: 'A methi sprout grew…'",
+    "Each player has a green crayon and a yellow crayon. One person is the reader (with two people, the grown-up reads).",
+    "The reader mixes the cards and reads one out loud, starting 'A methi sprout grew…'. Keep the back hidden from the players.",
     "Everyone holds up green or yellow at the same time.",
-    "The reader reads the back. Everyone who was right gets a point.",
-    "Play until all the cards are read. Then a new player becomes the reader."
+    "The reader reads the back. Everyone who was right scores 1 point.",
+    "The game ends when all 12 cards are read. The most points wins; if it is a tie, everyone wins. To play again, someone else is the reader."
    ],
    "setup": [
     {
@@ -450,13 +449,14 @@
      "kid": "Make up a new place for a sprout. Ask a grown-up: green or yellow?",
      "check": {
       "t": "mcq",
-      "q": "A sprout grew in a closed steel dabba. What colour will the sprout be?",
+      "q": "Which of these keeps a methi sprout yellow?",
       "options": [
-       "Green",
-       "Yellow"
+       "A clear glass bowl over it",
+       "A shoebox with the lid shut",
+       "A sunny windowsill"
       ],
       "a": 1,
-      "why": "No light gets into a closed steel dabba. In the dark, methi sprouts stay yellow."
+      "why": "A shut shoebox lets no light in. Under a clear glass bowl or on a sunny windowsill, the sprout gets light and turns green."
      }
     }
    ]
@@ -466,9 +466,9 @@
   {
    "id": "e1",
    "title": "Three Plates of Methi: dry, light and dark",
-   "mins": 30,
+   "mins": 32,
    "days": 6,
-   "context": "In this experiment you put methi seeds on three plates. One plate stays dry. One is wet and in the light. One is wet and under a bowl, in the dark. Over five days, you watch what happens on each plate.",
+   "context": "In this experiment you put methi seeds on three plates. One plate stays dry. One is wet and in the light. One is wet and under a bowl, in the dark. Over six days, you watch what happens on each plate.",
    "question": "Do methi seeds need water to sprout? What happens to methi sprouts that get water but no light?",
    "predict": "Guess first. Which plate will sprout? Which sprouts will be green, and which will not? Why do you think so?",
    "fair_test": "All three plates get the same seeds, from one packet, on the same tissue, in the same place. Plate 1 and plate 2 are different only in water. Plate 2 and plate 3 are different only in light.",
@@ -513,12 +513,17 @@
     {
      "day": 2,
      "mins": 3,
-     "what": "Look at plates 1 and 2. Add 2 spoons of water to plates 2 and 3. Do not lift the bowl for long."
+     "what": "Look at plates 1 and 2. Add 2 spoons of water to plates 2 and 3. Lift the bowl only for a moment."
     },
     {
      "day": 3,
      "mins": 3,
      "what": "Look at plate 2. Add 2 spoons of water to plates 2 and 3."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Add 2 spoons of water to plates 2 and 3. Look at plate 2."
     },
     {
      "day": 5,
@@ -565,7 +570,7 @@
    "setup": [
     {
      "art": "Three steel plates in a row, each with a folded tissue and a small spoonful of methi seeds, the first tissue dry and the other two wet.",
-     "caption": "1. Put one spoon of seeds on each plate. Wet plates 2 and 3 only."
+     "caption": "1. Put one teaspoon of seeds on each plate. Wet plates 2 and 3 only."
     },
     {
      "art": "The three plates on a bright windowsill, with an upturned steel bowl covering plate 3.",
@@ -580,7 +585,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fold a tissue onto each plate. 2. Pour 3 spoons of water on plates 2 and 3. Leave plate 1 dry. 3. Sprinkle one teaspoon of methi seeds on each plate, spread out. 4. Put on the labels.",
+     "do": "1. Fold a tissue onto each plate. 2. Pour 3 spoons of water on plates 2 and 3. Leave plate 1 dry. 3. Sprinkle one teaspoon of methi seeds on each plate, spread out. 4. Draw a small label for each plate (a crossed-out drop, a sun and a drop, a bowl and a drop) and put it beside the plate.",
      "say": "Here are three plates of methi seeds. Plate 1 stays dry. Plates 2 and 3 get water. Help me spread the seeds out.",
      "kid": "Put a tissue on each plate. Wet plates 2 and 3. Keep plate 1 dry. Sprinkle seeds on each plate.",
      "parent": "Use seeds from one packet for all three plates. The tissue on plates 2 and 3 should be wet but with no puddle."
@@ -591,12 +596,12 @@
      "do": "1. Put all three plates on a bright windowsill. 2. Turn the steel bowl upside down over plate 3, so no light gets in.",
      "say": "Plate 3 goes under the bowl. Now it is dark in there. Plates 1 and 2 stay in the light.",
      "kid": "Put the plates by the window. Cover plate 3 with the bowl. Now plate 3 is in the dark.",
-     "parent": "Choose a bright place out of hot afternoon sun. A steel bowl in strong sun gets hot and can cook the seeds."
+     "parent": "Choose a bright place out of hot afternoon sun. A steel bowl in strong sun gets hot and can cook the seeds. Set the bowl flat on the sill, so no light slips in under the edge."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask your child to guess for each plate, and to say why. Write the guesses down.",
+     "do": "Ask your child to guess for each plate, and to say why. You write the guesses down.",
      "say": "Which plate will sprout? What colour will the sprouts be? Why do you think so?",
      "kid": "Guess. Which plate will sprout? Green or not? Why?",
      "ask": [
@@ -613,8 +618,8 @@
     },
     {
      "id": "s4",
-     "mins": 3,
-     "wait": "Come back tomorrow, on day 2.",
+     "mins": 9,
+     "wait": "Come back tomorrow, on day 2. Do the same on days 3 and 4 (3 minutes each day).",
      "do": "1. Look at plates 1 and 2. 2. Add 2 spoons of water to plates 2 and 3. Lift the bowl only for a moment to add the water.",
      "say": "Look closely at plate 1 and plate 2. What has changed?",
      "kid": "Look at plate 1. Look at plate 2. What is different? Add water to plates 2 and 3.",
@@ -627,7 +632,7 @@
        ]
       }
      ],
-     "parent": "Wet methi seeds usually show tiny white roots within one or two days. The dry seeds stay the same. Day 3 is the same: look, then water plates 2 and 3."
+     "parent": "Wet methi seeds usually show tiny white roots within one or two days. The dry seeds stay the same. Days 3 and 4 are the same: look, then water plates 2 and 3. The tissue must stay wet, never dry."
     },
     {
      "id": "s5",
@@ -637,13 +642,6 @@
      "say": "Let's lift the bowl. What do you see? How are plate 2 and plate 3 different?",
      "kid": "Lift the bowl. Look at plate 3. Look at plate 2. What is different?",
      "ask": [
-      {
-       "q": "What colour are the sprouts on plate 3?",
-       "good": [
-        "Yellow.",
-        "Pale, not green."
-       ]
-      },
       {
        "q": "Plates 2 and 3 both got water. So why are they different?",
        "good": [
@@ -681,8 +679,7 @@
        ]
       }
      ],
-     "think": "Nobody painted the sprouts green. Where did the green come from?",
-     "parent": "Most yellow sprouts turn light green within a day in the light, and greener the day after. The claim is: methi needs water to sprout, and light to turn green."
+     "parent": "Most yellow sprouts turn light green within a day in the light, and greener the day after. If they still look yellow, wait one more day. Methi needs water to sprout, and light to turn green."
     }
    ]
   }
@@ -759,6 +756,10 @@
     {
      "item": "a big plate or a clean floor mat",
      "qty": 1
+    },
+    {
+     "item": "crayons, green and yellow",
+     "qty": "1 of each"
     }
    ],
    "safety": "A grown-up cuts the cabbage in half with a knife.",
@@ -814,14 +815,14 @@
      "kid": "Look inside the cabbage. The leaves are wrapped tight. Can light get in?",
      "check": {
       "t": "mcq",
-      "q": "Why are the inside leaves of a cabbage pale?",
+      "q": "Which cabbage leaves got the most light while the cabbage grew?",
       "options": [
-       "They are old",
-       "They grew in the dark, wrapped inside",
-       "Someone washed the colour off"
+       "The outside leaves",
+       "The leaves in the middle",
+       "All the same"
       ],
-      "a": 1,
-      "why": "The inside leaves grew wrapped up by the outer leaves, so very little light reached them. A plant makes their green when they sense light."
+      "a": 0,
+      "why": "The outside leaves covered the others, so they got the light. The leaves in the middle sat in the dark, wrapped up, and stayed pale."
      },
      "parent": "Cook the cabbage afterwards. Nothing goes to waste."
     }
@@ -868,12 +869,12 @@
      "do": "1. Dim the room. 2. Hold each thing in front of a wall. 3. Shine the torch at it from the other side. 4. Look for light on the wall.",
      "say": "Hold the clear glass in front of the wall. I'll shine the torch. Do you see light on the wall?",
      "kid": "Hold one thing up. Shine the torch on it. Is there light on the wall?",
-     "parent": "The thin cloth lets some light through. That is fine: it is a little of both."
+     "parent": "The thin cloth lets some light through. Put it in its own pile: some light. Methi under it would be partly green."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Make two piles. Then ask which cover would keep methi sprouts yellow.",
+     "do": "Make two piles, and a small third pile for the cloth. Then ask which cover would keep methi sprouts yellow.",
      "say": "If we put methi under each of these, which ones would make yellow sprouts? Why?",
      "kid": "Which ones block the light? Under which ones would methi stay yellow?",
      "ask": [
@@ -894,7 +895,7 @@
    "title": "Grow Methi to Eat",
    "mins": 25,
    "days": 12,
-   "context": "In this project you grow a small tray of methi on the windowsill. You give the methi water and light. After about ten days, you pick the leaves and eat them.",
+   "context": "In this project you grow a small tray of methi on the windowsill. You give the methi water and light. After about twelve days, you snip the leaves and eat them.",
    "materials": [
     {
      "item": "methi seeds from the kitchen",
@@ -971,11 +972,11 @@
     {
      "id": "s2",
      "mins": 10,
-     "wait": "Come back on days 3, 6 and 9.",
-     "do": "Each time, sprinkle water so the soil stays damp, not soggy. On day 6, draw the tray.",
+     "wait": "Come back every morning. Look closely on days 3, 6 and 9.",
+     "do": "Each morning, touch the soil and sprinkle a little water if it feels dry. On days 3, 6 and 9, look closely. On day 6, count the leaves on one sprout and draw the tray.",
      "say": "Feel the soil. Is it damp or dry? How much water should we give?",
      "kid": "Touch the soil. Is it dry? Then sprinkle a little water.",
-     "parent": "Water with a spoon or the gentle-rain bottle from the challenge. A strong pour knocks the small sprouts over."
+     "parent": "Water with a spoon, or with the gentle-rain bottle if you made one. A strong pour knocks the small sprouts over."
     },
     {
      "id": "s3",
@@ -1004,7 +1005,7 @@
     "an empty plastic bottle with a cap",
     "a safety pin or a thumbtack, for a grown-up to make holes",
     "water",
-    "a tray of sprouts, or a plate of wet tissue to test on"
+    "a tray or plate of methi sprouts (from the methi test or the methi tray)"
    ],
    "general": [
     "Poke 5 or 6 small holes in the bottle cap. Turn the bottle upside down and squeeze gently.",
@@ -1031,7 +1032,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Pour water from a cup onto a plate of wet tissue with a few sprouts or seeds. Watch what happens.",
+     "do": "Pour water from a cup onto wet tissue with some methi sprouts. Use sprouts from the methi test or the methi tray. Watch what happens.",
      "say": "Watch what a big pour does to the tiny sprouts. How could we make the water fall more gently?",
      "kid": "Pour water from a cup. What happens to the sprouts? How can you be gentler?"
     },
@@ -1060,7 +1061,8 @@
       }
      ]
     }
-   ]
+   ],
+   "safety": "A grown-up makes the holes with the pin, with the cap on a table and fingers well away."
   }
  ],
  "worksheets": [
@@ -1109,14 +1111,14 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the three plates of methi? Plate 1 stayed dry. What happened to the seeds on plate 1?",
+     "p": "Remember the three plates of methi? On day 2, what came out of the wet seeds on plate 2?",
      "opts": [
-      "They sprouted green",
-      "They stayed dry seeds",
-      "They sprouted yellow"
+      "Tiny white roots",
+      "Green leaves",
+      "Flowers"
      ],
-     "a": 1,
-     "why": "Seeds need water to sprout. Without water, the methi seeds stayed just as they were.",
+     "a": 0,
+     "why": "Wet seeds soak up water, swell and put out a tiny white root first. The leaves come later.",
      "how": "e1"
     },
     {
@@ -1156,7 +1158,7 @@
     },
     {
      "t": "label",
-     "p": "Here are the three plates. Write 1, 2 or 3 under each picture. 1 is dry. 2 is wet in the light. 3 is wet under the bowl.",
+     "p": "First draw your three plates from day 5 (or look at your drawing). Then write 1, 2 or 3 under each. 1 is dry. 2 is wet in the light. 3 is wet under the bowl.",
      "a": "1 under the dry seeds, 2 under the short green sprouts, 3 under the tall yellow sprouts.",
      "why": "Dry seeds did not sprout. Wet seeds in the light grew green. Wet seeds in the dark grew yellow.",
      "how": "e1",
@@ -1184,7 +1186,7 @@
     },
     {
      "t": "order",
-     "p": "Put the methi pictures in order, from first to last.",
+     "p": "Put these methi steps in order, from first to last.",
      "items": [
       "Two small leaves open",
       "A dry seed",
@@ -1237,27 +1239,27 @@
     },
     {
      "t": "match",
-     "p": "Draw a line from each place to the colour of the sprouts that grew there.",
+     "p": "Draw a line from each sign to what the plant is short of.",
      "pairs": [
       [
-       "On the windowsill",
-       "Green"
+       "Tall, thin, yellow sprouts",
+       "Light"
       ],
       [
-       "Inside a closed steel dabba",
-       "Yellow"
+       "Droopy leaves and dry soil",
+       "Water"
       ],
       [
-       "Under a clear plastic bag",
-       "Green"
+       "Pale leaves inside a cabbage",
+       "Light"
       ],
       [
-       "In a shut shoebox",
-       "Yellow"
+       "Soft brown roots in soggy soil",
+       "Too much water"
       ]
      ],
      "a": "pairs as given",
-     "why": "Where light gets in, methi makes green. Where no light gets in, the sprouts stay yellow."
+     "why": "Yellow, thin sprouts and pale leaves mean little light. Droopy leaves and dry soil mean little water. Roots in soggy soil cannot get air."
     },
     {
      "t": "sort",
@@ -1303,23 +1305,23 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: your friend wants to grow methi inside a closed cupboard. What would you tell her?",
+     "p": "Say it to a grown-up, who writes it down: a girl in your class wants to grow methi inside a closed cupboard. What would you tell her?",
      "lines": 2,
      "a": "The methi will sprout, but they will be yellow and thin. Put them by a window, so they get light and turn green.",
      "why": "A strong answer says what will happen in the dark and gives a way to fix it."
     },
     {
      "t": "label",
-     "p": "Label the parts of this methi sprout: root, stem, leaf.",
+     "p": "Draw a methi sprout. Then label the parts: root, stem, leaf. Write each word, or ask a grown-up to write it.",
      "a": "The root is the white part at the bottom. The stem is in the middle. The leaves are at the top.",
      "why": "The root takes in water. The stem holds the leaves up. The leaves catch the light.",
      "art": "A large drawing of a methi sprout with a white root, a thin stem and two round leaves, with three empty label lines."
     },
     {
      "t": "count",
-     "p": "Count the green sprouts and the yellow sprouts in the picture. Which colour has more?",
-     "a": "5 green and 3 yellow. There are more green sprouts.",
-     "why": "5 is more than 3. The green ones grew in the light.",
+     "p": "Draw 5 green sprouts and 3 yellow sprouts. Which colour did you draw more of?",
+     "a": "There are more green sprouts: 5 is more than 3.",
+     "why": "5 is more than 3. A strong answer counts the drawing and says which colour has more.",
      "art": "A plate with 5 short green methi sprouts on one side and 3 tall yellow sprouts on the other."
     },
     {
@@ -1328,25 +1330,24 @@
      "items": [
       "Lift the bowl and look",
       "Put the seeds on the plates",
-      "Wet plates 2 and 3",
+      "Wet the tissue on plates 2 and 3",
       "Cover plate 3 with a bowl"
      ],
      "a": [
+      "Wet the tissue on plates 2 and 3",
       "Put the seeds on the plates",
-      "Wet plates 2 and 3",
       "Cover plate 3 with a bowl",
       "Lift the bowl and look"
      ],
-     "why": "First set up the plates, then add the water and the cover, and look at the end.",
+     "why": "First wet the tissue and add the seeds, then cover plate 3. Look at the end.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "The yellow sprouts turned green after one day in the light. Nobody painted them. Who made the green? Say your answer to a grown-up.",
+     "p": "Rina, a girl in Class 1, keeps her methi tray by the window. For a week, the soil stays soggy. What may happen to the roots? What should she do? Say your answer to a grown-up.",
      "lines": 2,
-     "a": "The methi made the green themselves, when they felt the light.",
-     "why": "A strong answer says that the plant made the green, and that light was the reason.",
-     "how": "e1"
+     "a": "The roots may rot, because they cannot get air. She should stop watering until the soil is only damp, and let extra water drain away.",
+     "why": "A strong answer says roots need air as well as water, and gives a way to fix it."
     },
     {
      "t": "mcq",
@@ -1519,7 +1520,6 @@
  "applications": [
   "Farmers water their fields, or sow seeds when the monsoon rains come.",
   "In cold, high places like Ladakh, people grow vegetables in greenhouses with big windows, to catch sunlight and warmth.",
-  "Some farmers tie the leaves over a growing cauliflower, so the white part stays white.",
   "Astronauts on the International Space Station grow lettuce under bright lamps, because plants need light."
  ],
  "spotted": [
@@ -1562,17 +1562,12 @@
   "Which plant in our home gets the most light?",
   "Can you find a green vegetable on your plate? Where did the plant get their light?",
   "What would happen to the tulsi if nobody watered her for a week?",
-  "Is it dark under your bed? Would a sprout be green or yellow there?",
-  "When you come in from the sun, what do your skin and eyes feel?"
+  "Is it dark under your bed? Would a sprout be green or yellow there?"
  ],
  "jokes": [
   {
-   "j": "Why did the methi sprout come out from under the bowl?",
-   "a": "To get some sun-shine on their leaves!"
-  },
-  {
-   "j": "What do you call a plant who never gets water?",
-   "a": "Thirsty-thirsty!"
+   "j": "What did the yellow sprout say when the bowl came off?",
+   "a": "Finally, I can turn over a new leaf!"
   },
   {
    "j": "Why was the yellow sprout so tall?",
@@ -1583,31 +1578,31 @@
    "a": "You light up my day!"
   },
   {
-   "j": "Why did the plant go to the window?",
-   "a": "To see the light!"
-  },
-  {
-   "j": "What did the cabbage say to the inside leaves?",
-   "a": "Come out of your shell, you look pale!"
-  },
-  {
-   "j": "What is a plant's favourite drink?",
-   "a": "Water, every time!"
-  },
-  {
    "j": "Why did the tulsi put on sunglasses?",
    "a": "Too much sunlight on the balcony!"
   },
   {
    "j": "What did the seed say to the rain?",
    "a": "Thanks, I needed that to wake up!"
+  },
+  {
+   "j": "Knock, knock. Who is there? Lettuce. Lettuce who?",
+   "a": "Lettuce in, it is dark out here!"
+  },
+  {
+   "j": "Why did the cabbage win the race?",
+   "a": "She was a head!"
+  },
+  {
+   "j": "Which day of the week do thirsty plants like least?",
+   "a": "Fry-day, when it is hot and dry!"
   }
  ],
  "maths": [
   {
-   "problem": "Divya put 10 methi seeds on plate 2. On day 2, 8 of them had sprouted. How many had not sprouted yet?",
-   "answer": "2 seeds had not sprouted yet.",
-   "explain": "10 seeds take away 8 sprouted seeds leaves 2. Seeds sprout at different times, so the last 2 may sprout tomorrow.",
+   "problem": "Divya, a girl in Class 1, counts 10 methi seeds onto a wet plate. On day 2, 8 of them have tiny white roots. How many do not have roots yet?",
+   "answer": "2 seeds do not have roots yet.",
+   "explain": "10 seeds take away 8 seeds with roots leaves 2. Seeds wake up at different times, so the last 2 may sprout tomorrow.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
    "context": "This is about plate 2 in the three plates of methi test.",
@@ -1632,9 +1627,9 @@
    "why_maths": "Counting days tells us how long the sprouts were in the dark."
   },
   {
-   "problem": "Meena sorted the game cards. She had 6 cards in the green basket and 8 cards in the grey basket. Which basket had more cards?",
+   "problem": "Meena, a girl in Class 1, sorted the game cards. She had 6 cards in the green basket and 8 cards in the grey basket. Which basket had more cards?",
    "answer": "The grey basket had more, with 8 cards.",
-   "explain": "8 is more than 6. There are many things a plant does not need. The things a plant does need are few: light, water and air.",
+   "explain": "8 is more than 6. A plant needs only a few things: light, water and air. Rain, a lamp and a watering can are ways to give them.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "g1",
    "context": "This is about the game What Does Methi Need?, where you sort cards into a green basket and a grey basket.",
@@ -1775,9 +1770,9 @@
   "three": {
    "who_am_i": "Your body senses light too. Your eyes see it, and your skin slowly turns darker in strong sun.",
    "what_is_life": "Being alive means sensing what is around you and answering it. The methi sensed the light and made their green.",
-   "what_is_this_world": "The same Sun lights the methi, the crow and you. Almost all the food on Earth is made by plants, using that light."
+   "what_is_this_world": "The same Sun lights the methi, the crow and you. Nearly all the food we eat comes from plants, which use that light."
   },
-  "thread": "One Sun shines on everything. The methi meets that light and turns green. Your eyes meet the same light and see colours, and your skin meets it and slowly darkens. One light, and many living beings, each answering in their own way.",
+  "thread": "The Sun lights the methi, and the methi answers by turning green. The Sun lights your eyes, and you answer by seeing colours. It lights your skin, and your skin slowly darkens. Each of us senses the light and answers it in our own way.",
   "teachings": [
    {
     "source": "Rig Veda 1.115.1",
@@ -1824,5 +1819,6 @@
   "when": "Priestley's mint jar in 1771; Ingenhousz's tests in the summer of 1779, published the same year",
   "wrong_idea": "That plants freshen the air all the time, in the light and in the dark. Ingenhousz showed that green leaves do it only in light, and that in the dark plants use up air like humans and other animals.",
   "art": "Glass jars of water with green leaves inside on a sunny table, with tiny bubbles on the leaves, and one jar in shadow with no bubbles."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and a 6-year-old in a Mysuru-style city flat. Fixed: the sorting game now says the grown-up reads each card, since many children cannot read yet; worksheets no longer ask children to label or count a picture that is not printed, and ask them to draw it first; the seed-counting maths problem now matches the plates test; the long explanation cards are shorter; the thread no longer uses a stock line; the project no longer needs a bottle only made in the optional challenge; the three video entries still have no address (the validator needs three), so a person must find and watch them. Minutes, schedules and fair test checked and agree."
 }

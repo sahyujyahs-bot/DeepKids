@@ -7,9 +7,9 @@
   "art": "A girl in a flat holding a pencil up at arm's length, one eye closed, measuring a water bottle on a stool across the room."
  },
  "intro": {
-  "hook": "Hold up your thumb at arm's length and close one eye. Can your small thumb hide the big door of your room?",
-  "text": "Your thumb is much smaller than a door. Yet from far enough away, your thumb can hide the door. In this unit you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.",
-  "art": "A child's hand held out with the thumb up, covering a door at the far end of a room, and the child's one closed eye."
+  "hook": "Hold up your thumb at arm's length and close one eye. Can your small thumb hide a big building far outside your window?",
+  "text": "A thumb is much smaller than a building. Yet if the building is far enough away, your thumb can hide it. In this unit you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.",
+  "art": "A child's hand held out with the thumb up, covering a tall building far across the roofs, and the child's one closed eye."
  },
  "outcomes": [
   "By the end I can say that space is the room around things and between them, and find spaces in my home.",
@@ -964,7 +964,7 @@
       },
       {
        "f": "The Andromeda galaxy",
-       "b": "The farthest thing you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us."
+       "b": "One of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us."
       }
      ]
     }
@@ -1119,15 +1119,15 @@
    "materials": [
     "a coin",
     "a cupboard, a door or a tall fridge",
-    "paper and a pencil to count your steps"
+    "paper and a pencil to write what you find"
    ],
    "general": [
-    "Walk back from the cupboard, holding the coin at arm's length, until the coin hides it. Count the steps.",
-    "Stay where you are, and bring the coin nearer to your eye until it hides the cupboard."
+    "Stay where you are, and bring the coin nearer to your eye until it hides the cupboard.",
+    "Look out of a window. Hold the coin at arm's length, and find the far building, tree or water tank that it hides."
    ],
    "creative": [
     "Look through a rolled-up paper tube. Put the coin at the far end of the tube.",
-    "Try a bigger coin and a smaller one, and see which needs fewer steps."
+    "Try a bigger coin and a smaller one, and see which one you must hold nearer to your eye."
    ],
    "your_turn": "Find your own way to make the coin hide the cupboard. Then try to hide something even bigger, like a building outside the window, with the coin.",
    "setup": [
@@ -1136,8 +1136,8 @@
      "caption": "1. Hold up the coin. Does it hide the cupboard?"
     },
     {
-     "art": "The same child further back, and now the coin covers the whole cupboard.",
-     "caption": "2. Change the space between you and the cupboard, or between the coin and your eye."
+     "art": "The same child, now with the coin held close to her eye, and the coin covers the whole cupboard.",
+     "caption": "2. Change the space between the coin and your eye, or between you and what you look at."
     }
    ],
    "flow": [
@@ -1160,10 +1160,10 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Your child tries ways to hide the cupboard. 2. Count the steps back when it works.",
-     "say": "Try it. What do you need to change? Count your steps.",
-     "kid": "Try it. Count your steps when it works.",
-     "parent": "Holding a coin close to the eye hides a lot at once. Walking back also works, but may need a long room, or looking from one room into another."
+     "do": "1. Your child tries ways to hide the cupboard. 2. Then your child looks out of a window and finds a far building that the coin hides.",
+     "say": "Try it. What do you need to change? Then try the coin on something far outside the window.",
+     "kid": "Try it. Then hide a far building with the coin.",
+     "parent": "Holding a coin close to the eye hides a lot at once. Walking back from a cupboard also works, but only in a very long hall, so the window is the easy second try."
     },
     {
      "id": "s3",
@@ -1783,12 +1783,12 @@
    "art": "A row of crows on an electric wire, each one a little apart from the next."
   },
   {
-   "text": "A plane in the sky over Bengaluru or Delhi looks as small as a bird. Its roar reaches you a moment later.",
+   "text": "A plane in the sky over Bengaluru or Delhi looks as small as a bird, though it is very big.",
    "art": "A tiny plane high in a blue sky, with a child pointing up at it."
   },
   {
-   "text": "At night from a terrace in Kochi or Chennai, the Moon looks as big as a coin at arm's length, and the stars look like tiny dots.",
-   "art": "A child on a terrace holding up a coin next to the Moon, with stars around."
+   "text": "At night from a terrace in Kochi or Chennai, the Moon looks about as wide as a small pea held at arm's length, and the stars look like tiny dots.",
+   "art": "A child on a terrace holding a small pea at arm's length next to the Moon, with stars around."
   }
  ],
  "open_questions": [

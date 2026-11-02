@@ -1,9 +1,9 @@
 # Start, stop, faster, slower: how a push changes moving things
 `sci.forces.changing-motion.L1`
 
-**Summary.** Tap a rolling ball from behind, and it goes faster. Tap it from the front, and it slows down or stops. A push or a pull is called a force. A force can start a thing, stop it, speed it up or slow it down. Your child taps, flicks and watches things move, and finds that the side of the push decides what happens.
+**Summary.** Tap a rolling ball from behind, and it goes faster. Tap it from the front, and it slows down or stops. A push or a pull is called a force. Your child taps, flicks and watches, and finds that the side of the push decides what happens.
 
-**Intro.** *Roll a ball slowly across the floor. Can you make it stop without grabbing it?* A rolling ball keeps going until something changes it. You can stop it with a push from the front. You can make it faster with a push from behind. In this unit you find out how pushes start, stop, speed up and slow down moving things. You also find out why a rolling ball stops on its own.
+**Intro.** *Roll a ball slowly across the floor. Can you make it stop without grabbing it?* A rolling ball keeps going until something pushes against it. A push from behind makes it faster. A push from the front slows it or stops it. You also find out why a rolling ball stops on its own.
 
 ## Learning outcomes
 0. By the end I can say that a push or a pull can start a thing moving, and can stop it.
@@ -23,28 +23,28 @@
 ### A push or a pull starts a thing, and a push or a pull stops it · *defined*
 **Definition:** A still thing starts moving only when a force pushes or pulls it. A moving thing stops only when a force pushes or pulls against it.
 
-A ball lying on the floor stays still. It starts to roll when you tap it. Once it is rolling, it needs another push to stop. Your hand in front of the ball pushes against it, and it stops. Starting and stopping both need a force.
+A ball lying on the floor stays still until you tap it. Once it is rolling, it needs another push to stop. Your hand in front of the ball pushes against it. Starting and stopping both need a force.
 - e.g. In the Tap Test, a still ball started rolling after one tap.
 - e.g. A goalkeeper stops a ball by pushing against it with her hands.
 - e.g. An auto starts when its engine pushes it, and stops when its brakes push against the turning wheels.
 ### The side of the push decides: faster or slower · *defined*
 **Definition:** A push the same way a thing is moving makes it go faster. A push against the way it is moving makes it go slower, or stop.
 
-In the Tap Test, you tapped a rolling ball from behind. It went faster. Then you tapped it from the front. It slowed down, or stopped, or even rolled back. The tap was just as gentle each time. Only the side you tapped from changed. So the same push can speed a thing up or slow it down. It depends on which way the push points.
+In the Tap Test, a tap from behind made the rolling ball faster. A tap from the front made it slower, or stopped it. The tap was just as gentle each time. Only the side you tapped from changed.
 - e.g. Tapping the ball from behind made it go faster.
 - e.g. Tapping the ball from the front made it slow down or stop.
 - e.g. A cyclist pedals to speed up and squeezes the brakes to slow down.
 ### A bigger push makes a bigger change · *defined*
 **Definition:** A small push makes a small change in speed. A big push makes a big change.
 
-In the Flick Test, you flicked a bottle cap gently, then harder. The hard flick sent it faster, and it went over more tiles before it stopped. Stopping works the same way. A fast ball needs a bigger push to stop it than a slow ball does. You can feel this in your hand when you catch.
-- e.g. A gentle flick sent the bottle cap over 2 or 3 tiles. A hard flick sent it much further.
+In the Flick Test, the hard flick sent the bottle cap over more tiles than the gentle flick. A fast ball is harder to stop than a slow ball. You can feel this when you catch one.
+- e.g. A gentle flick sent the bottle cap a short way. A hard flick sent it much further.
 - e.g. A fast ball stings your hand more when you catch it than a slow ball.
 - e.g. A heavy cupboard needs a much bigger push to start moving than an empty box.
 ### Why a rolling ball stops on its own · *defined*
 **Definition:** A rolling ball slows down because the floor and the air push against it all the time. These pushes are small, so the ball slows down slowly.
 
-Nobody touches a rolling ball, but it still stops. The floor rubs against it as it rolls, and the air pushes against it too. These small pushes point against the way the ball is going, so they slow it down. On a towel the rubbing is bigger, so the ball stops sooner. On a very smooth floor the rubbing is smaller, so the ball rolls further. The rubbing push between two things that touch is called friction.
+Nobody touches a rolling ball, but it still stops. The floor rubs against it, and the air pushes against it. These small pushes go against the way the ball is moving. On a towel the rubbing is bigger, so the ball stops sooner. This rubbing push is called friction.
 - e.g. A ball rolls a long way on smooth tiles, and stops quickly on a towel or a dari.
 - e.g. A ceiling fan keeps turning for a while after you switch it off, then slowly stops.
 - e.g. Out in space, far from air and floors, a moving thing keeps going for a very long time.
@@ -55,7 +55,7 @@ Nobody touches a rolling ball, but it still stops. The floor rubs against it as 
 - Moving things slow down on Earth because the ground and the air push against them. *How we know:* A ball rolls further on smooth tiles than on a towel. Spacecraft far out in space keep moving for years without engines.
 
 ## How we found out
-**Aristotle, a Greek thinker; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a Persian thinker and doctor; and later Isaac Newton, with Émilie du Châtelet, a French scientist, About 350 BCE to 1759.** Long ago in Greece, the thinker Aristotle asked why a thrown stone keeps flying after it leaves your hand. He said the air behind it pushes it along. Many people believed this for hundreds of years. In the 500s, John Philoponus, in Alexandria in Egypt, said this was wrong. Air slows a stone down, he said, so it cannot be pushing it. He said the thrower's hand gives the stone a push that it carries inside, and that this push slowly wears out. Around 1020, the Persian thinker Ibn Sina went further. He said the push a stone carries would never wear out by itself. In empty space, with no air, a moving thing would keep going and never stop. Centuries later, scientists tested this with rolling balls. In 1687, Isaac Newton wrote it as a law: a moving thing keeps going until a force changes it. In France, Émilie du Châtelet translated Newton's book into French and explained it. Her translation, published in 1759, is still read today.  
+**Aristotle, a Greek thinker; Galileo, an Italian scientist; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a Persian thinker and doctor; and later Isaac Newton, with Émilie du Châtelet, a French scientist, About 350 BCE to 1759.** Long ago in Greece, the thinker Aristotle asked why a thrown stone keeps flying after it leaves your hand. He said the air behind it pushes it along. Many people believed this for hundreds of years. In the 500s, John Philoponus, in Alexandria in Egypt, said this was wrong. Air slows a stone down, he said, so it cannot be pushing it. He said the thrower's hand gives the stone a push that it carries inside, and that this push slowly wears out. Around 1020, the Persian thinker Ibn Sina went further. He said the push a stone carries would never wear out by itself. In empty space, with no air, a moving thing would keep going and never stop. Around 1600, Galileo in Italy rolled balls down slopes and saw that they slowed less on smoother boards. In 1687, Isaac Newton wrote it as a law: a moving thing keeps going until a force changes it. In France, Émilie du Châtelet translated Newton's book into French and explained it. Her translation, published in 1759, is still read today.  
 *What people believed before:* A thrown stone is pushed along by the air behind it, and a moving thing stops on its own when the push ends.
 
 ## Challenging perspectives
@@ -80,17 +80,16 @@ We have tapped, flicked and stopped moving things. Now we ask what the Tap Test 
 - *what is life:* Every living being that moves pushes on something to start and to stop. A duck pushes the water, and a crow pushes the air.
 - *what is this world:* Everything in the world is moving somehow. Pushes and pulls change how fast it moves, all the time.
 
-Starting, stopping, speeding up and slowing down look like four different things. Underneath, they are one change with one kind of cause, a push or a pull. A ball, a boat, an auto and the Earth all follow it. Everything is conscious, and each moving thing meets every push in its own way.
+Starting, stopping, speeding up and slowing down look like four different things. Underneath, they are one change with one kind of cause, a push or a pull. A ball, a boat, an auto and a swing all follow it. Everything is conscious, and each moving thing meets every push in its own way.
 
-- **Tattvartha Sutra 5.17 (Jain):** Jain thinkers taught that two things fill the world. One, called dharma, helps things move. The other, called adharma, helps things come to rest. (These thinkers saw that coming to rest needs a cause, just as moving does. In the Tap Test, stopping the ball needed a push too.)
-- **Tao Te Ching 15:** Who can make muddy water clear? Let it be still, and slowly it becomes clear. Who can bring stillness to life? Let it move, and slowly it comes alive. (Here moving and being still turn into each other slowly. In our tests too, a ball slowed into stillness, and stillness started into rolling with a push.)
-- **Bhagavad Gita 6.34 and 6.35:** Arjuna says the mind is restless, like the wind, and very hard to hold still. Krishna answers that it can be steadied by practice and by letting go. (A moving ball keeps going until something pushes against it again and again. Steadying a busy mind also takes a steady push, given again and again.)
-- Science (settled): A moving thing keeps the same speed until a force acts on it. A force the same way speeds it up, and a force against it slows it down. Scientists call both kinds of change acceleration.
+- **Tattvartha Sutra 5.17 (Jain):** Jain thinkers taught that one thing, called dharma, helps things move, and another, called adharma, helps things come to rest. (These thinkers saw that coming to rest needs a cause, just as moving does. In the Tap Test, stopping the ball needed a push too.)
+- **Tao Te Ching 15:** Who can make muddy water clear? Let it be still, and slowly it becomes clear. Who can bring stillness to life? Let it move, and slowly it comes alive. (In our tests, a rolling ball slowly became still, and a still ball began to roll with one tap.)
+- Science (settled): A moving thing keeps the same speed until a force acts on it. A force the same way speeds it up, and a force against it slows it down.
 - Science (open): Why moving things carry their movement at all is still argued about. The scientist Ernst Mach suggested it may come from all the matter in the universe.
 - Other view, Many physicists: A ball's movement is fully explained by the forces on it. For them, nothing more is going on in the ball, and feeling belongs only to living beings with nerves.
 - Practice, Slow down to still (3 min): Stand up and walk slowly across the room. Now walk even slower, like a snail. Slower still. Now stop. Feel what your feet did to stop you. Stand very still and close your eyes. Is anything in you still moving? Feel your breath going in and out.
+- Ask: When you start to walk, what pushes you forward: you, or the floor?
 - Ask: When you stand very still, is anything in you still moving?
-- Ask: If nothing ever pushed back, would anything ever stop?
 - Ask: Who stopped Ammu's boat: Ammu, the oar, or the water?
 
 ## Deep and big questions
@@ -100,7 +99,7 @@ Starting, stopping, speeding up and slowing down look like four different things
 - *big:* The Earth is moving round the Sun right now, very fast. Why can't we feel it? (hint: Do you feel a smooth train moving when your eyes are shut? When do you feel it?)
 
 ## Story: Ammu Stops the Boat
-*Alappuzha is a real town in Kerala, with many canals and backwaters where people travel in small boats. Ducks really do land feet first, skidding on the water to slow down. Ammu, Ammamma and Kannan are made up. Ammamma means mother's mother in Malayalam.*
+*Alappuzha is a real town in Kerala, with many canals and backwaters where people travel in small boats. Ammu, Ammamma and Kannan are made up. Ammamma means mother's mother in Malayalam.*
 
 Ammu was six. She lived beside the backwaters in Alappuzha, in Kerala. Her grandmother, Ammamma, had a small wooden boat.
 
@@ -144,10 +143,6 @@ She pushed again. The boat slowed more. One more push, and the boat stopped, rig
 
 'You did,' said Ammamma. 'Pull the water back, and we go faster. Push it forward, and we slow down. The same oar, the same arms. Only the way you push is different.'
 
-Just then, a duck flew down to land. She stretched her feet out in front of her. They skidded across the water, splash, and she slowed down and stopped.
-
-'Look!' said Ammu. 'The duck pushes her feet forward, like my oar.'
-
 In the evening, Ammu's little cousin Kannan came to play. He was four. He rolled a coconut along the verandah, and it rolled straight towards the steps.
 
 'Stop it, Ammu!' he shouted.
@@ -164,16 +159,15 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 
 - Ask: Why did the boat bump into the market steps?
 - Ask: What did Ammu do with the oar to stop the boat at home?
-- Ask: How did the duck slow down when she landed?
 - Ask: How did Ammu stop the rolling coconut without grabbing it?
 
 ## Games
 ### g1 · Which Way to Push? (10 min)
-- **rules:** Draw two big arrows on paper and colour them: one green, one red. Cut them out.; A grown-up reads one card out loud.; The player says SAME WAY or AGAINST, and lays the green or red arrow next to the card.; Then the grown-up reads the back. A right answer wins the card.; For a START card, any arrow wins, because a still thing has no way yet.; Play until all 8 cards are won.
-- **Printable cards: 8 moving cards:** A swing is moving forward. Make it go FASTER. (back: Push the same way: from behind, as it swings away.); A ball is rolling to the door. Make it STOP. (back: Push against it: put a hand in front.); A toy car is rolling slowly. Make it go FASTER. (back: Push the same way: tap it from behind.); A bicycle is going down a hill. Make it go SLOWER. (back: Push against it: squeeze the brakes.); A boat is gliding to the steps. Make it STOP. (back: Push against it: push the oar forward in the water.); A ball is lying still. Make it START. (back: Push it any way you like: a tap starts it rolling.); A duck is flying down to the pond. She wants to SLOW DOWN. (back: She pushes against it: feet out in front, wings spread.); A friend on roller skates is rolling slowly. Make her go FASTER. (back: Push the same way: a gentle push on her back.)
+- **rules:** Cut out the 8 cards and the 2 arrows: green is SAME WAY and red is AGAINST.; Put the cards in a pile, front side up. The grown-up reads the front of the top card to the player whose turn it is.; The player says SAME WAY or AGAINST, and lays the green or red arrow next to the card.; The grown-up reads the back. A right answer wins the card. For a START card, any arrow is right, because a still thing has no way yet.; A wrong answer: the grown-up shows it with a ball or a hand, and the card goes to the bottom of the pile to come round again.; Players take turns. The game ends when all 8 cards are won. Whoever has the most cards wins, and a tie means you all win. With two people, the child plays and tries to win all 8.
+- **Printable cards: 8 moving cards:** A swing is moving forward. Make it go FASTER. (back: Push the same way: from behind, as it swings away.); A ball is rolling to the door. Make it STOP. (back: Push against it: put a hand in front.); A toy car is rolling slowly. Make it go FASTER. (back: Push the same way: tap it from behind.); A bicycle is going down a hill. Make it go SLOWER. (back: Push against it: squeeze the brakes.); A boat is gliding to the steps. Make it STOP. (back: Push against it: push the oar forward in the water.); A ball is lying still. Make it START. (back: Push it any way you like: a tap starts it rolling.); A duck is flying down to the pond. She wants to SLOW DOWN. (back: Push against the way she is going: feet out in front, wings spread wide.); A friend on roller skates is rolling slowly. Make her go FASTER. (back: Push the same way: a gentle push on her back.)
 - **Printable tokens: 2 big paper arrows:** SAME WAY arrow (green); AGAINST arrow (red)
 - **s1 (2 min)**  
-  *Parent does:* 1. Make the two arrows. 2. Explain green means SAME WAY and red means AGAINST.  
+  *Parent does:* 1. Cut out the cards and the two arrows. 2. Explain green means SAME WAY and red means AGAINST.  
   *Parent says:* Green means push the same way it is moving. Red means push against it. Listen to each card and pick an arrow.  
   *Child mode:* Green: push the same way. Red: push against it. Pick one for each card.
 - **s2 (7 min)**  
@@ -189,17 +183,17 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   - Check: A swing is moving away from you. You want it to go higher and faster. How do you push? → **The same way it is moving, from behind**
 ### g2 · Cheetah, Snail, Statue (8 min)
 - **safety:** Walk, do not run. Play barefoot or in shoes, not in socks on tiles, so nobody slips.
-- **rules:** Clear a space. Players walk, never run, on a floor that is not slippery.; The caller holds up GO, CHEETAH, SNAIL or STATUE. Players follow the card.; After each STATUE, the caller asks one player what their feet did to stop.; A player who explains well becomes the next caller.
-- **Printable cards: 4 caller cards:** GO (back: Start walking. Your feet push back on the floor.); CHEETAH (back: Walk faster. Push harder with your feet.); SNAIL (back: Walk slower. Push less, and lean back a little.); STATUE (back: Stop and freeze. Your feet push forward on the floor to stop you.)
+- **rules:** Clear a space. Players walk, never run, on a floor that is not slippery.; The caller holds up GO, CHEETAH, SNAIL or STATUE, in any order. Players follow the card.; After each STATUE, the caller asks one player what their feet did to stop.; After 4 STATUEs, the caller swaps with another player. The game ends when every player has been the caller once.
+- **Printable cards: 4 caller cards:** GO (back: Start walking. Your feet push back on the floor.); CHEETAH (back: Walk faster. Push harder with your feet.); SNAIL (back: Walk slower. Push less with your feet.); STATUE (back: Stop and freeze. Your feet push forward on the floor to stop you.)
 - **s1 (1 min)**  
   *Parent does:* Clear a space and read the rules.  
   *Parent says:* I will hold up a card. Do what it says. Walk, never run.  
   *Child mode:* Watch the card. Do what it says. Walk, don't run.
 - **s2 (6 min)**  
-  *Parent does:* Hold up the cards in any order, about every 10 seconds. After each STATUE, ask what their feet did.  
-  *Parent says:* Statue! Freeze! What did your feet do to stop you? Did you lean?  
+  *Parent does:* Hold up the cards in any order, about every 10 seconds. After each STATUE, ask what their feet did. After 4 STATUEs, swap callers.  
+  *Parent says:* Statue! Freeze! What did your feet do to stop you?  
   *Child mode:* Freeze! What did your feet do to stop you?
-  - Ask: What did your feet do to stop? (good: They pushed forward on the floor.; I leaned back and pressed my feet down.)
+  - Ask: What did your feet do to stop? (good: They pushed forward on the floor.; I pressed my feet down on the floor.)
   - Note: To stop, our feet push forward against the floor, and the floor pushes back on us. That push against our movement is what stops us.
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
@@ -211,7 +205,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 ### e1 · The Tap Test: can one tap make a ball faster, slower or stop? (20 min)
 - **question:** What happens when you tap a rolling ball from behind? What happens when you tap it from the front?
 - **predict:** Guess first. If you tap a rolling ball from behind, will it go faster, slower, or stop? If you tap it from the front, what will it do? Why do you think so?
-- **fair test:** We use the same ball, the same rolled newspaper and the same gentle tap every time. The grown-up rolls the ball just as slowly each time. Only the side we tap from changes. We try each side 3 times, because one try can be a fluke.
+- **fair test:** We use the same ball, the same rolled newspaper and the same gentle tap every time. The grown-up rolls the ball just as slowly each time. Only the side we tap from changes. We try each side 3 times, because one try might be luck.
 - **record:** Draw the ball and the newspaper for each tap. Draw a cheetah next to the faster tap and a snail next to the slower tap.
 - **results table:** Where I tapped | My guess | What the ball did
 - **s1 (3 min)**  
@@ -220,7 +214,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   *Child mode:* This is your tapper. Tap gently, like this. Watch what one tap does.
   - Note: A gentle tap with a rolled newspaper is easier to keep the same than a hand. A tiled floor works best. Move mats and dari out of the way.
 - **s2 (3 min)**  
-  *Parent does:* 1. Hold up the ball. 2. Ask both guesses and the reasons. 3. Write or draw the guesses in the table.  
+  *Parent does:* 1. Hold up the ball. 2. Ask both guesses and the reasons. 3. Your child draws the guesses, and a grown-up writes them in the table.  
   *Parent says:* If you tap a rolling ball from behind, what will it do? If you tap it from the front, what will it do? Why do you think so?  
   *Child mode:* Guess. A tap from behind: faster, slower or stop? A tap from the front? Why?
   - Ask: Why do you think so? (good: From behind it will go faster, because I am pushing it along.; From the front it will go faster too, because a hit makes things go.; From the front it will stop, because I am in its way.)
@@ -236,13 +230,13 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   *Parent says:* I will roll the ball slowly. Walk beside it and tap it from behind, gently. Did it speed up, slow down or stop?  
   *Child mode:* Walk beside the ball. Tap it from behind. Faster, slower or stopped?
   - Ask: What did the ball do? (good: It went faster.; It shot away from me.)
-  - Note: Roll the ball really slowly, so your child can walk beside it. If the tap misses, just try again. Put the FASTER slip by the table each time it speeds up.
+  - Note: Roll the ball really slowly, so your child can walk beside it. If the tap misses, just try again. Put the FASTER slip by the ball each time it speeds up.
 - **s5 (4 min)**  
   *Parent does:* 1. Your child kneels in the ball's path. 2. Roll the ball slowly towards them. 3. They tap it gently from the front. 4. Do this 3 times.  
   *Parent says:* Now kneel in front. I will roll the ball to you. Tap it from the front, just as gently. What happens this time?  
   *Child mode:* Kneel in front. The ball comes to you. Tap it from the front. What happens?
   - Ask: What did the ball do? (good: It slowed down.; It stopped.; It rolled back the other way.)
-  - Note: The ball may slow down, stop, or bounce back, depending on the tap. All three are a push against the way it was rolling. If it bounced back, the tap was a little too big.
+  - Note: The ball may slow down, stop, or bounce back, depending on the tap. All three are a push against the way it was rolling. If it bounced back, the tap was a little too big. Put the SLOWER or STOPPED slip by the ball to match what it did.
 - **s6 (2 min)**  
   *Parent does:* Roll the ball towards your child again. They try to make it stop dead with one tap. Give them 3 or 4 tries.  
   *Parent says:* Can you stop the ball dead, with just one tap? Not too hard, not too soft.  
@@ -258,7 +252,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 ### e2 · The Flick Test: does a bigger flick send a bottle cap further? (15 min)
 - **question:** Does a harder flick make a bottle cap go faster and further?
 - **predict:** Guess first. Will a hard flick send the cap further than a gentle flick? How many tiles do you think each one will go? Why do you think so?
-- **fair test:** We use the same cap, the same finger and the same starting line every time. Only how hard we flick changes. We flick 3 times for each, because one flick can be a fluke.
+- **fair test:** We use the same cap, the same finger and the same starting line every time. Only how hard we flick changes. We flick 3 times for each, because one flick might be luck.
 - **record:** Draw a row of tiles. Put a small dot where the gentle flicks stopped and a big dot where the hard flicks stopped.
 - **results table:** Flick | Try 1: tiles | Try 2: tiles | Try 3: tiles
 - **s1 (3 min)**  
@@ -267,16 +261,16 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   *Child mode:* Gentle flick or hard flick: which goes further? Why?
   - Ask: Why do you think so? (good: The hard flick, because it is a bigger push.; They will go the same.)
 - **s2 (5 min)**  
-  *Parent does:* 1. Your child flicks the cap gently 3 times from the line. 2. Count the tiles each time, together. 3. Write the numbers.  
+  *Parent does:* 1. Your child flicks the cap gently 3 times from the line. 2. Count the tiles each time, together. 3. A grown-up writes the numbers.  
   *Parent says:* Flick it gently. Watch it go. Now count the tiles it went over. Let's do it 3 times.  
   *Child mode:* Flick gently. Count the tiles. Do it 3 times.
-  - Note: Count a tile if the cap went past its middle. If you have no tiles, use hand-spans on a table.
+  - Note: Count a tile if the cap went past its middle. If your tiles are very big, stick small bits of tape on the floor, one hand-span apart, and count those. On a table, use hand-spans drawn on paper.
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child flicks hard 3 times. 2. Count the tiles. 3. Write the numbers.  
+  *Parent does:* 1. Your child flicks hard 3 times. 2. Count the tiles. 3. A grown-up writes the numbers.  
   *Parent says:* Now flick it hard. Was it faster? Count the tiles.  
   *Child mode:* Now flick hard. Was it faster? Count the tiles.
   - Ask: What did you see? (good: The hard flick went faster.; It went over more tiles.)
-  - Note: Keep the room clear so the cap does not slide under furniture. A hard flick is still a finger flick, not a throw.
+  - Note: Keep the room clear so the cap does not slide under furniture. A hard flick is still a finger flick, not a throw. Flicks are never exactly the same, so one hard flick may go less far than one gentle flick. That is why we flick 3 times.
 - **s4 (2 min)**  
   *Parent does:* Ask why the cap stopped at all, then the check question.  
   *Parent says:* Nobody stopped the cap. Why did it stop? What was pushing against it?  
@@ -289,7 +283,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **safety:** A grown-up works the switch. Stay well away from the fan blades and never throw things at a fan.
 - **record:** Draw the fan four times: still, slow, fast, and slowing down. Draw lines round the fast one to show it is fast.
 - **s1 (2 min)**  
-  *Parent does:* 1. Your child lies on a mat under the still fan. 2. Switch the fan on at the lowest speed.  
+  *Parent does:* 1. Your child sits on a mat to one side of the fan, not right under it. 2. Switch the fan on at the lowest speed.  
   *Parent says:* Watch the fan. It is still. Now I switch it on. Does it go fast straight away?  
   *Child mode:* Watch the fan. Does it go fast straight away?
   - Ask: What did the fan do? (good: It started slowly.; It got faster and faster.)
@@ -304,13 +298,14 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
   *Parent says:* Now I switch it off. Is it still turning? Let's count until it stops.  
   *Child mode:* The fan is off. Is it still turning? Count until it stops.
   - Ask: Why did it keep turning? (good: It was already moving.; Nothing stopped it straight away.)
-  - Note: Most fans keep turning for half a minute or more. The air and the rubbing inside the fan slowly stop it.
+  - Note: Most fans keep turning for a good while, often half a minute or more. The air and the rubbing inside the fan slowly stop it.
 - **s4 (1 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* The fan was off, but it kept turning. What slowed it down in the end?  
   *Child mode:* What slowed the fan down in the end?
   - Check: A fan keeps turning after you switch it off, and then it stops. Why does it stop? → **The air and the rubbing inside slowly push against it**
 ### a2 · Window Watch: who starts and who stops? (10 min)
+- **safety:** At a balcony, stay behind the grill or railing and never lean over it.
 - **record:** Your paper with ticks in the four boxes, and a drawing of one thing you saw stop.
 - **s1 (5 min)**  
   *Parent does:* Watch out of the window together. Each time your child sees something start, stop, speed up or slow down, they put a tick in that box.  
@@ -352,33 +347,33 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - **record:** The finished book, with a drawing and a push arrow on every page.
 - **schedule:** day 1: Make the book. Draw two things you saw START and STOP today, and what pushed them. (6 min); day 2: Draw two things you saw go FASTER and SLOWER, and what pushed them. (6 min); day 3: Draw yourself starting and stopping. Read the book to someone in the family. (6 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Make the book. 2. Write START and STOP on the first two pages. 3. Your child draws one thing for each.  
+  *Parent does:* 1. Make the book. 2. A grown-up writes START and STOP on the first two pages. 3. Your child draws one thing for each.  
   *Parent says:* What did you see start today? What did you see stop? Draw them. Draw an arrow for the push.  
   *Child mode:* Draw something that started and something that stopped. Add an arrow for the push.
   - Note: Good ideas: a mixie starting, a ball stopping, a door being pushed open, a bus stopping.
 - **s2 (6 min)**  
-  *Parent does:* Write FASTER and SLOWER on the next pages. Your child draws one thing for each.  
+  *Parent does:* A grown-up writes FASTER and SLOWER on the next pages. Your child draws one thing for each.  
   *Parent says:* What did you see go faster today? What went slower? What pushed them?  
   *Child mode:* Draw something going faster and something going slower.
   - Wait: Do this on day 2.
 - **s3 (6 min)**  
   *Parent does:* Your child draws themself starting and stopping, then reads the book to someone.  
-  *Parent says:* Draw yourself starting to walk and stopping. Now read your book to Ammamma or Appa.  
+  *Parent says:* Draw yourself starting to walk and stopping. Now read your book to someone in the family.  
   *Child mode:* Draw yourself starting and stopping. Read your book to someone.
   - Check: Which of these needs a push or a pull? → **Starting, stopping, going faster and going slower**
   - Wait: Do this on day 3.
 
 ## Challenges
 ### c1 · Stop the Ball on the Line (15 min)
-- **problem:** Meenakshi rolls a ball down a slope made of a tray leaning on two books. Can you make the ball stop on a line, about one big step from the bottom, without anyone touching it?
+- **problem:** A ball rolls down a slope made of a tray leaning on two books. Can you make the ball stop on a line, about one big step from the bottom, without anyone touching it?
 - **your turn:** Try two ways of stopping the ball on the line. Which works better? Why do you think so?
 - **constraints:** Nobody may touch the ball once it starts.; Use only things from home.; The ball must stop on the line, not before and not after.
-- **general:** Long jumpers land in a pit of soft sand, which stops them gently.; Runaway truck ramps on some steep ghat roads are filled with loose gravel or sand, to slow down trucks whose brakes have failed.; Cricket nets and goal nets stretch and slowly stop the ball.
-- **creative:** Lay a towel on the floor after the slope. The rubbing slows the ball, so it stops sooner.; Fold the towel to make it thicker, or lay it out only partly, until the ball stops right on the line.; Put a pillow just past the line as a soft wall, to stop the ball gently.
+- **general:** Long jumpers land in a pit of soft sand, which stops them gently.; Some steep mountain roads in the world have runaway truck ramps filled with loose gravel or sand, to slow down trucks whose brakes have failed.; Cricket nets and goal nets stretch and slowly stop the ball.
+- **creative:** Lay a towel on the floor after the slope. The rubbing slows the ball, so it stops sooner.; Fold the towel to make it thicker, or lay it out only partly, until the ball stops right on the line.; Stand a pillow right at the line as a soft wall, so the ball stops gently at the line.
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Let the ball roll once with nothing in its way.  
-  *Parent says:* Watch where the ball stops with nothing in its way. It goes past the line. How could we make it stop sooner?  
-  *Child mode:* Watch the ball. It goes past the line. How can you stop it sooner?
+  *Parent says:* Watch where the ball stops with nothing in its way. It probably goes past the line. If it stops short, move the line further away. How could we make it stop sooner?  
+  *Child mode:* Watch the ball. Does it stop before the line or go past it? How can you make it stop on the line?
   - Ask: What could stop it sooner? (good: Something rough, like a towel.; Something soft in front, like a pillow.)
 - **s2 (10 min)**  
   *Parent does:* Your child tries their ideas. Let them change one thing at a time.  
@@ -416,28 +411,28 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 10. (label) The ceiling fan was still, then on, then fast, then off. Under each picture, say START, FASTER or SLOWER, and a grown-up writes it.  
    **Answer:** ['START', 'FASTER', 'SLOWER']. *Why:* Switching on starts the fan. Turning up the knob makes the motor push harder, so it goes faster. Switching off lets the air slow it down.
 ### Why Things Stop (stretch) (stretch, 10 questions)
-1. (perspective) Lakshmi and her brother Farhan roll a ball across the floor in Hyderabad. It slows down and stops.  
+1. (perspective) Lakshmi and her friend Farhan roll a ball across the floor in Hyderabad. It slows down and stops.  
    **Answer:** A strong answer picks a side with evidence. For Lakshmi: the ball stopped sooner on a towel, so something outside the ball slows it. For Farhan: no person touched it, and the push from the floor is too small to see.. *Why:* Both see something true. No hand touched the ball, but the floor and the air push against it all the time. That is why it stops sooner on a rough towel.
-2. (mcq) A ball rolls onto a towel. What happens?  
-   Options: It stops sooner than on the tiles / It rolls further than on the tiles / It speeds up  
-   **Answer:** It stops sooner than on the tiles. *Why:* The towel rubs against the ball more than smooth tiles do. That push against the ball's movement stops it sooner.
-3. (write) Say out loud, and a grown-up writes it down: the fan was switched off, but it kept turning. Why did it stop in the end?  
-   **Answer:** The air and the rubbing inside the fan pushed against it, little by little, until it stopped.. *Why:* A strong answer says something pushed against the fan's movement. Nothing slows down without a push against it.
-4. (draw) Draw Ammu's boat stopping at the steps. Draw her oar pushing the water forward.  
+2. (draw) Draw Ammu's boat stopping at the steps. Draw her oar pushing the water forward.  
    **Answer:** A boat, a girl, and an oar pushing towards the front of the boat.. *Why:* A strong drawing shows the oar pushing towards the front. Pushing the water forward slows the boat down.
-5. (truefalse) A fast ball needs a bigger push to stop it than a slow ball.  
+3. (truefalse) A fast ball needs a bigger push to stop it than a slow ball.  
    **Answer:** True. *Why:* True. A bigger change needs a bigger push. That is why a fast ball stings your hand more when you catch it.
-6. (sort) In Soft Stop, Hard Stop, what did each stopper do to the ball?  
-   **Answer:** A pillow → Stopped it; A paper tent → Only slowed it; A big book standing up → Stopped it; A single thread across the floor → Only slowed it. *Why:* A pillow and a book push back hard enough to stop the ball. Paper and a thread push back only a little, so the ball only slows.
-7. (count) Farhan flicked a cap 3 times gently. It went 2 tiles, 1 tile and 2 tiles. How many tiles in all?  
+4. (sort) In Soft Stop, Hard Stop, what did each stopper do to the ball?  
+   **Answer:** A pillow → Stopped it; A paper tent → Only slowed it; A big book standing up → Stopped it; A folded blanket → Stopped it. *Why:* A pillow, a blanket and a book push back hard enough to stop the ball. Paper pushes back only a little, so the ball only slows.
+5. (count) Farhan, a boy in Class 1, flicked a cap 3 times gently. It went 2 tiles, 1 tile and 2 tiles. How many tiles in all?  
    **Answer:** 5. *Why:* 2 and 1 make 3. 3 and 2 make 5.
-8. (mcq) A duck flies down to land on a pond. How does she slow down?  
-   Options: She pushes her feet out in front of her / She folds her feet behind her / She flaps faster the same way  
-   **Answer:** She pushes her feet out in front of her. *Why:* Her feet out in front push against her movement, like Ammu's oar pushed forward, so she slows down and stops.
-9. (write) Many people think that things stop by themselves. What test could you do to show that something is slowing them down?  
+6. (write) Many people think that things stop by themselves. What test could you do to show that something is slowing them down?  
    **Answer:** Roll the same ball on tiles and on a towel. If it stops sooner on the towel, something outside the ball is slowing it.. *Why:* A strong answer suggests changing what the ball rolls on and keeping everything else the same.
-10. (label) Look at the picture of a girl on a swing. Say what each push does: FASTER or SLOWER, and a grown-up writes it.  
+7. (label) Look at the picture of a girl on a swing. Say what each push does: FASTER or SLOWER, and a grown-up writes it.  
    **Answer:** ['FASTER', 'SLOWER']. *Why:* A push the same way as the swing speeds it up. Feet dragging on the ground push against it, so it slows down.
+8. (mcq) Two trolleys get the same gentle push. One is empty and one is full of heavy bags. Which one speeds up more?  
+   Options: The empty trolley / The full trolley / They speed up the same  
+   **Answer:** The empty trolley. *Why:* A heavy thing needs a bigger push to change its speed. The same push changes the empty trolley more.
+9. (truefalse) In space, a ball that is pushed gently keeps moving for a very long time.  
+   **Answer:** True. *Why:* True. In space there is almost no air and no floor to push against the ball, so nothing slows it down.
+10. (mcq) A cricketer pulls her hands back as she catches a fast ball. Why?  
+   Options: The ball slows down over a longer time, so it stings less / The ball goes faster / Her hands get bigger  
+   **Answer:** The ball slows down over a longer time, so it stings less. *Why:* Pulling the hands back makes the ball slow down more slowly. The push on her hands is then smaller.
 
 ## Videos
 - **A spacecraft or astronaut drifting on the International Space Station** (, 3 min) id `to find`: Shows that a thing pushed gently in space keeps drifting until something stops it, because there is almost no air and no floor to slow it. *Check:* Find a real clip from NASA or ISRO of an astronaut pushing off gently and floating across a module. Check it is real footage.
@@ -452,7 +447,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
    Options: It goes faster / It slows down / It stops  
    **Answer:** It goes faster. *Why:* A push the same way a thing is moving makes it go faster.
 3. (mcq) A ball is rolling towards you. You put your flat hand in front of it. What happens?  
-   Options: It stops / It goes faster / It turns into a square  
+   Options: It stops / It goes faster / It jumps over your hand  
    **Answer:** It stops. *Why:* Your hand pushes against the way the ball is moving, so it stops.
 4. (mcq) What is a force?  
    Options: A push or a pull / A kind of ball / How fast something goes  
@@ -461,31 +456,31 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
    Options: A hard flick / A gentle flick / No flick  
    **Answer:** A hard flick. *Why:* A bigger push makes a bigger change, so a hard flick makes the cap faster and it goes further.
 6. (mcq) Why does a rolling ball slow down and stop on the floor?  
-   Options: The floor and the air push against it / It gets tired / It forgets how to roll  
+   Options: The floor and the air push against it / Nothing pushes it. It just stops / It runs out of roll  
    **Answer:** The floor and the air push against it. *Why:* The floor rubs against the ball and the air pushes on it. These small pushes against its movement slow it down.
-7. (mcq) Where will a rolling ball stop soonest?  
-   Options: On a towel / On smooth tiles / On a steel plate  
-   **Answer:** On a towel. *Why:* A towel rubs against the ball more than smooth things do, so it slows the ball sooner.
+7. (mcq) You open a drawer by its handle, and it slides towards you. What started it moving?  
+   Options: A pull / A push from behind / No force at all  
+   **Answer:** A pull. *Why:* A force is a push or a pull. Pulling the handle makes the drawer start to move.
 8. (mcq) Divya, a girl in Class 1, wants her swing to go slower. What can she do?  
    Options: Drag her feet on the ground / Ask for a push from behind / Lean forward hard  
    **Answer:** Drag her feet on the ground. *Why:* Her feet on the ground push against the swing's movement, so it slows down.
-9. (mcq) Meera guesses that a tap from the front will make a ball go faster. She tests it, and the ball slows down. What should she say?  
-   Options: My guess was wrong. A tap from the front slows it down. / The test was wrong. / The ball cheated.  
+9. (mcq) Meera, a girl in Class 1, guesses that a tap from the front will make a ball go faster. She tests it, and the ball slows down. What should she say?  
+   Options: My guess was wrong. A tap from the front slows it down. / The test was wrong. / She should still say it goes faster.  
    **Answer:** My guess was wrong. A tap from the front slows it down.. *Why:* A good scientist trusts what the test shows, and changes their idea. A wrong guess is how we learn.
-10. (mcq) Ammu wants to stop her boat. Which way should she push her oar?  
+10. (mcq) Ammu, a girl in a story, wants to stop her boat. Which way should she push her oar?  
    Options: Forward, towards the front of the boat / Backward, like when rowing fast / She should not use the oar  
    **Answer:** Forward, towards the front of the boat. *Why:* Pulling the water back makes the boat go faster. Pushing it forward pushes against the boat's movement, so it slows down and stops.
 
 ## Applications
 - Brakes on bicycles, autos, buses and trains push against the turning wheels to slow them down.
-- Long jumpers land in soft sand, which slows them down gently.
-- Some steep ghat roads have runaway truck ramps of loose sand or gravel, to stop trucks whose brakes fail.
+- A parachute is a big cloth that the air pushes up against, so a person falls slowly.
+- At the end of a railway line, a strong buffer stop pushes against a train that rolls too far.
 - Cricketers pull their hands back as they catch a fast ball, so the ball slows down over a longer time and stings less.
 - Seat belts hold passengers back when a car stops suddenly, pushing against their forward movement.
 
 ## Spotted around us
 - A Mumbai local train slowing down as it comes into a station, and speeding up as it leaves.
-- A bambaram, a wooden spinning top, slowing down and wobbling to a stop on a floor in Madurai.
+- A pambaram, a wooden spinning top, slowing down and wobbling to a stop on a floor in Madurai.
 - A rowing boat gliding to the ghats on the Ganga in Varanasi, the rower pushing the oar forward to stop.
 - A cyclist squeezing her brakes on a steep road in Shillong.
 - A kite at Uttarayan in Ahmedabad climbing when the flyer pulls the string, and drifting down when she lets it go slack.
@@ -501,23 +496,21 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - When you run and want to stop, what do your feet do?
 - Why does a ball roll further on the tiles than on the dari?
 - Can you make your swing go faster? How?
-- If you pushed a ball in space, where would it stop?
 
 ## Jokes
 - Why did the ball stop rolling? *It finally got floored!*
-- What did the brakes say to the bicycle? *Let's slow things down a bit!*
-- Why did the snail win the slow race? *Because nobody pushed her from behind!*
-- What did the floor say to the rolling ball? *Slow down, friend, I am rubbing you the right way!*
-- What did the ball say to the pillow? *Thanks for the soft stop!*
-- Why did the bottle cap go so far? *It got a big flick of luck!*
-- What does a statue do best? *Stop! It never needs brakes!*
-- Why did the duck wear water skis? *She didn't need them, her feet are her brakes!*
-- What did the swing say after a big push? *Wheee, you really sped me up!*
+- What did the brakes say to the bicycle? *Sorry to hold you back!*
+- What did the ball say to the towel? *You really slow me down!*
+- What did the cheetah say to the snail? *Race you! And the snail said, I will get there... eventually.*
+- Why did the duck skid to a stop on the pond? *Her feet were her brakes!*
+- Why did the swing never win an argument? *It kept going back and forth!*
+- Why was the ball so tired of rolling? *Because everybody kept pushing it around!*
+- Why can't a bicycle stand up by itself? *Because it is two tired!*
 
 ## Connected maths
-- In the Flick Test, Kavya's gentle flick went 2 tiles. Her hard flick went 7 tiles. How many more tiles did the hard flick go? **5 more tiles.**. Count on from 2 to 7: 3, 4, 5, 6, 7. That is 5 more. So the bigger push sent the cap 5 tiles further. (queues `math.addition-subtraction.meaning.L1`)
-- Here are Farhan's three flicks: 4 tiles, 1 tile and 6 tiles. One was gentle, one was medium and one was hard. Put them in order from the gentlest to the hardest flick. **1 tile, 4 tiles, 6 tiles.**. A bigger push sends the cap further. So the gentlest flick went the shortest way, 1 tile, and the hardest went the furthest, 6 tiles. (queues `math.number-sense.comparing-ordering.L1`)
-- In Window Watch, Nila made 3 ticks for START, 5 ticks for STOP, 2 ticks for FASTER and 4 ticks for SLOWER. Which change did she see most? Which least? **She saw STOP most, 5 times. She saw FASTER least, 2 times.**. 5 is the biggest number, so STOP came most often. 2 is the smallest, so FASTER came least often. On a busy road, things stop a lot at signals and bus stops. (queues `math.data.sorting-and-tallies.L1`)
+- In the Flick Test, Kavya, a girl in Class 1, flicks a cap. Her gentle flick went 2 tiles. Her hard flick went 7 tiles. How many more tiles did the hard flick go? **5 more tiles.**. Count on from 2 to 7: 3, 4, 5, 6, 7. That is 5 more. So the bigger push sent the cap 5 tiles further. (queues `math.addition-subtraction.meaning.L1`)
+- Farhan, a boy in Class 1, flicks a cap three times: 4 tiles, 1 tile and 6 tiles. One was gentle, one was medium and one was hard. Put them in order from the gentlest to the hardest flick. **1 tile, 4 tiles, 6 tiles.**. A bigger push sends the cap further. So the gentlest flick went the shortest way, 1 tile, and the hardest went the furthest, 6 tiles. (queues `math.number-sense.comparing-ordering.L1`)
+- In Window Watch, Nila, a girl in Class 1, made 3 ticks for START, 5 ticks for STOP, 2 ticks for FASTER and 4 ticks for SLOWER. Which change did she see most? Which least? **She saw STOP most, 5 times. She saw FASTER least, 2 times.**. 5 is the biggest number, so STOP came most often. 2 is the smallest, so FASTER came least often. On a busy road, things stop a lot at signals and bus stops. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Push and Pull (sci.forces.L1): Topic-level song for Forces L1

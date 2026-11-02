@@ -3,7 +3,7 @@
  "title": "Nature in the city: the birds, trees and animals who share our streets",
  "level": 2,
  "summary": {
-  "text": "On a quiet holiday morning you can hear birds that you never hear on a busy school day. They were there all along. A town or a city is a habitat: crows, pigeons, koels, squirrels, street dogs, bees and neem trees all live in it with us. A street tree gives shade, food and places for nests, and some animals do well in cities because they eat many kinds of food and nest on buildings. Your child tests how well soft words can be heard with loud noise on and off, and finds out why many city birds change how they sing.",
+  "text": "On a quiet holiday morning you hear birds that you never hear on a busy school day. They were there all along. A city is a habitat: crows, pigeons, koels, squirrels, street dogs, bees and neem trees all live in it with us. Your child tests how well soft words are heard over loud noise, and finds out why many city birds sing differently.",
   "art": "A busy city road in the morning with buses and autos, and above it a neem tree with a crow on a nest, a koel calling, a squirrel on the trunk and a street dog asleep in the shade below."
  },
  "intro": {
@@ -37,7 +37,7 @@
    "term": "Nest",
    "meaning": "A nest is a home that a bird, a squirrel or an insect builds to keep their eggs or babies safe.",
    "example": "A crow builds a nest of sticks high in a tree. Sometimes a crow uses bits of wire too.",
-   "art": "A crow's nest of sticks and a piece of wire high in a tree fork, with a crow sitting on it."
+   "art": "A crow's nest of sticks and a piece of wire high in a tree fork, with a crow sitting in the nest."
   },
   {
    "term": "Roost",
@@ -63,7 +63,7 @@
    "concept": "A city is a habitat too",
    "status": "defined",
    "definition": "A town or a city is a habitat. It gives many living beings water, food, shelter and places to raise their young.",
-   "description": "People built the buildings and roads, but people do not live there alone. Humans are animals too, and the city is our habitat. It is also home to crows, pigeons, mynas, koels, parakeets, kites, squirrels, street dogs, cats, cows, monkeys, bats, geckos, ants, bees and butterflies. Trees and small plants grow on the roadsides, in compounds and even in cracks in walls. Some Indian cities have whole forests inside them. Sanjay Gandhi National Park is inside Mumbai, and leopards live there. Guindy National Park is inside Chennai, and blackbuck and spotted deer live there.",
+   "description": "People built the buildings and roads, but people do not live here alone. Humans are animals too, and the city is our habitat. It is also home to crows, pigeons, koels, squirrels, street dogs, cows, bats, geckos, ants and bees. Some Indian cities have forests inside them. Sanjay Gandhi National Park is in Mumbai, and leopards live there. Guindy National Park is in Chennai, and blackbuck and spotted deer live there.",
    "examples": [
     "House crows find food at almost every bin and kitchen window.",
     "A neem tree by the gate gives shade, flowers for bees and branches for nests.",
@@ -77,7 +77,7 @@
    "concept": "What a street tree gives",
    "status": "defined",
    "definition": "A street tree gives other living beings shade, food, and places to nest and rest.",
-   "description": "Under a big tree, the road is cooler, so street dogs, cows and people rest there on hot afternoons. Peepal and banyan trees grow small figs, and koels, barbets, mynas, parakeets, squirrels and fruit bats eat them. Flowers on neem, gulmohar and drumstick trees feed bees and butterflies. Crows build stick nests high in the branches, and squirrels build nests of grass and soft bits. Caterpillars eat the leaves. At night, birds and bats roost in the tree. One tree is a home for many beings at once. Harini Nagendra, an ecologist in Bengaluru, studies the trees of Indian cities, and how they help people and other beings.",
+   "description": "Under a big tree the road is cooler, so street dogs, cows and people rest there on hot afternoons. Peepal and banyan trees grow small figs, and koels, barbets, parakeets, squirrels and fruit bats eat them. Neem and drumstick flowers feed bees and butterflies. Crows build stick nests high in the branches. At night, birds and bats roost in the tree. Harini Nagendra, an ecologist in Bengaluru, studies the trees of Indian cities.",
    "examples": [
     "A street dog sleeps in the shade of a rain tree at noon.",
     "Koels and barbets eat the small red figs of a peepal tree.",
@@ -91,7 +91,7 @@
    "concept": "Why some animals do well in cities",
    "status": "defined",
    "definition": "Animals who eat many kinds of food, and who can nest in many kinds of places, usually do well in cities.",
-   "description": "House crows eat almost anything: scraps, insects, fruit and grain. Pigeons come from wild rock doves, who nest on cliff ledges and in caves. To a pigeon, a window ledge or an air conditioner box is like a ledge on a cliff. Mynas nest in holes in walls and pipes. Big rock bees build their hives under the ledges of tall buildings and water tanks. Other beings find a city hard. Hornbills need big old trees with holes. House sparrows have become fewer in many Indian cities, and scientists are still finding out why.",
+   "description": "House crows eat almost anything: scraps, insects, fruit and grain. City pigeons come from wild rock doves, who nest on cliff ledges. To a pigeon, a window ledge is like a ledge on a cliff. Mynas nest in holes in walls and pipes. Other beings find a city hard. Hornbills need big old trees with holes. House sparrows have become fewer in many Indian cities, and scientists are still finding out why.",
    "examples": [
     "Pigeons nest on window ledges, like their wild relatives nest on cliffs.",
     "A myna nests inside a hole in an old wall.",
@@ -105,7 +105,7 @@
    "concept": "How city noise changes bird songs",
    "status": "debated",
    "definition": "Many birds who live near loud roads sing louder, or higher, or at quieter times, than birds of the same kind in quiet places.",
-   "description": "Birds sing to find a mate and to tell other birds where their home is. A song only works if another bird can hear it. Traffic noise is mostly a low, deep rumble. Some birds sing louder over it. Some sing higher notes, above the rumble. Some sing early in the morning, before the traffic starts, or in the gaps between cars. Scientists agree that birds change their songs. They still argue about how the change happens.",
+   "description": "Birds sing to find a mate and to tell other birds where their home is. A song only works if another bird can hear the song. Traffic noise is mostly a low, deep rumble. Some birds sing louder over it. Some sing higher notes, above the rumble. Some sing early in the morning, before the traffic starts. Scientists agree that birds change their songs. They still argue about how the change happens.",
    "examples": [
     "Nightingales in the city of Berlin sang louder in noisier places.",
     "Great tits in noisy parts of a city in the Netherlands sang higher songs than great tits in quiet parts.",
@@ -118,11 +118,11 @@
     },
     {
      "who": "Scientists who study how young birds learn",
-     "explanation": "Young birds learn their songs by listening to older birds. In a noisy place, they may learn the songs that carry best, so the songs of the whole place slowly change."
+     "explanation": "Young birds learn songs by listening to older birds. In a noisy place, they may learn the songs that carry best. So the songs of the whole place slowly change."
     },
     {
      "who": "Scientists who count birds near roads",
-     "explanation": "Birds with low, deep songs are often fewer near very noisy roads. These scientists think some birds cannot change their song enough, and so they move away."
+     "explanation": "Birds with low, deep songs are often fewer near very noisy roads. These scientists think some birds cannot change their song enough, so they move away."
     }
    ],
    "context": "This card says what many birds do about city noise, and what scientists still argue about.",
@@ -132,7 +132,7 @@
    "concept": "Night in the city",
    "status": "debated",
    "definition": "Many insects fly round bright lights at night, and some nocturnal animals hunt them there.",
-   "description": "At night, moths and other insects gather round street lights and balcony lights. House geckos wait on the walls near the lights and catch them. Small bats swoop past the lights to catch insects in the air. Spotted owlets hunt from lamp posts and old buildings. Why insects fly round lights is still argued about. The light can tire them out, and they get eaten more easily.",
+   "description": "At night, moths and other insects gather round street lights and balcony lights. House geckos wait on the walls near the lights and catch them. Small bats swoop past the lights to catch insects in the air. Spotted owlets hunt from lamp posts and old buildings. Why insects fly round lights is still argued about.",
    "examples": [
     "A house gecko waits beside a tube light on the balcony wall.",
     "Moths circle a street light on a summer night.",
@@ -145,7 +145,7 @@
     },
     {
      "who": "Scientists who filmed insects at night in 2024",
-     "explanation": "Insects keep their backs turned towards the brightest light, because in nature the bright sky is above them. Near a lamp this tilts them, so they circle the lamp and cannot fly away."
+     "explanation": "Scientists who filmed insects in 2024 found that insects keep their backs towards the brightest light, because in nature the bright sky is above them. Near a lamp this tilts them, so they circle the lamp and cannot fly away."
     }
    ],
    "context": "This card is about the city at night: the lights, the insects and the animals who hunt them.",
@@ -187,7 +187,7 @@
    "claim": "Feeding street animals is always kind.",
    "who": "Some people",
    "for": "Food helps hungry dogs, cows, crows and pigeons, especially in the hot summer.",
-   "against": "Food like bread, biscuits and fried snacks can make birds ill. Too much food in one place brings huge flocks of pigeons, and their droppings can make people's lungs sick. Monkeys who are fed by people may start to snatch food and bite. Clean water in summer helps almost every animal. Food needs more care.",
+   "against": "Bread, biscuits and fried snacks can make birds ill. Too much food in one place brings huge flocks of pigeons, and their droppings can make people's lungs sick. Monkeys who are fed by people may start to snatch food and bite. Clean water in summer helps almost every animal. Food needs more care.",
    "status": "debated",
    "context": "This card is about a question families argue about: is feeding street animals always a kind thing to do?"
   }
@@ -238,7 +238,7 @@
    "\"You see?\" Kavya said. \"The koel is still there. He is still calling. The buses cover him up, the same way they covered me up.\"",
    "Arjun thought about it. \"So the birds were here every day,\" he said. \"Only we could not hear them.\"",
    "\"Yes,\" said Kavya. \"And that means the road is not only ours. It is their home too.\"",
-   "That afternoon, they looked at the neem tree properly. High up, in a fork of the branches, was a big messy nest of sticks. A crow sat on it. Kavya spotted a bit of wire in the nest too.",
+   "That afternoon, they looked at the neem tree properly. High up, in a fork of the branches, was a big messy nest of sticks. A crow sat on the nest. Kavya spotted a bit of wire in the nest too.",
    "\"Paati, is that the koel's nest?\" Arjun asked.",
    "\"No,\" said Paati. \"A koel mother does not build a nest. She lays her eggs in a crow's nest, and the crows bring up her babies.\"",
    "Arjun laughed. \"That is a clever trick!\"",
@@ -269,12 +269,12 @@
    "id": "g1",
    "title": "Call Over the Traffic",
    "mins": 12,
-   "players": "3 or more: a bird, a friend bird and the traffic. A grown-up can play the traffic.",
-   "context": "This is a calling game. One player is a bird who calls to a friend at the other end of the room. Another player is the traffic, who makes noise. The bird uses tricks to be heard, the way real city birds do.",
+   "players": "2 to 4: a bird, a friend bird and the traffic. With 2 players, the friend bird also plays the traffic. With 4, the fourth player keeps the score on paper.",
+   "context": "This is a calling game. One player is a bird who calls to a friend at the other end of the room. The traffic makes noise. The bird uses tricks to be heard, the way real city birds do. All the players are one team.",
    "printables": [
     {
      "kind": "cards",
-     "title": "8 bird call cards to cut out",
+     "title": "8 call cards to cut out",
      "items": [
       {
        "f": "House crow: Kaa! Kaa!",
@@ -361,8 +361,8 @@
        "b": "Make loud, low noise for 6 seconds."
       },
       {
-       "f": "A quiet gap",
-       "b": "Make no noise for 3 seconds."
+       "f": "A scooter goes by",
+       "b": "Make loud noise for 3 seconds."
       },
       {
        "f": "A wedding band goes by",
@@ -373,21 +373,21 @@
    ],
    "rules": [
     "The bird stands at one end of the room. The friend bird stands at the other end, with their back to the bird.",
-    "The traffic player sits next to the friend bird, with a steel plate and a spoon.",
-    "The bird takes a call card and keeps it secret.",
-    "The traffic player turns over a traffic card and makes noise, or no noise, as it says.",
-    "The bird calls once, softly. The friend bird says the call they heard.",
-    "If the friend bird got it wrong, the bird picks one trick card and calls again using that trick.",
-    "A call heard right on the first try wins 2 points. A call heard right after a trick wins 1 point.",
-    "Swap jobs after every 2 calls. At the end, say which trick worked best."
+    "The traffic player sits next to the friend bird, with a steel plate and a spoon. With 2 players, the friend bird also plays the traffic: turn the traffic card and make the noise yourself.",
+    "The bird takes a call card and keeps the card secret.",
+    "The traffic player turns over a traffic card. Knock on the plate with the spoon for the seconds written on the back of the card. A quiet card means no noise.",
+    "While the noise is going, the bird calls once in a soft voice. The friend bird says the sound they heard, for example \"Kaa kaa\".",
+    "If the friend bird did not say the right sound, the bird picks one trick card and calls again, with the same noise made again. Put the trick card back afterwards. For the quiet gap trick, the bird waits until the noise stops, then calls.",
+    "A call heard right on the first try wins 2 points. A call heard right after a trick wins 1 point. A call still not heard wins no point.",
+    "Play 8 calls, one call card each time. Swap jobs after every 2 calls. Add up all the points as one team score, and say which trick worked best."
    ],
    "setup": [
     {
-     "art": "A living room with a girl at one end holding a card, a boy at the far end with his back turned, and a grandmother next to him tapping a steel plate with a spoon.",
+     "art": "A living room with a child at one end holding a card, another child at the far end with their back turned, and a parent next to them tapping a steel plate with a spoon.",
      "caption": "1. The bird, the friend bird and the traffic take their places."
     },
     {
-     "art": "The girl calling with her hands round her mouth while the grandmother bangs the steel plate, and a trick card saying Call louder on the floor.",
+     "art": "The child calling with hands round the mouth while the parent taps the steel plate, and a trick card saying Call louder on the floor.",
      "caption": "2. The traffic makes noise. The bird uses a trick to be heard."
     }
    ],
@@ -420,9 +420,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the points. Then talk about which trick worked best, and why.",
+     "do": "Add up the points as a team. Then talk about which trick worked best, and why.",
      "say": "Real birds on busy roads use these same tricks. Which trick would you use, if you were a koel?",
-     "kid": "Count your points. Which trick worked best for you?",
+     "kid": "Add up your team points. Which trick worked best for you?",
      "check": {
       "t": "mcq",
       "q": "A koel wants another koel to hear him. A bus is going past. What is the best plan?",
@@ -478,8 +478,8 @@
     "Take turns to turn over two cards.",
     "If one card is a being and the other is a gift that being uses, say why they go together. Keep both cards.",
     "If they do not go together, turn them back face down.",
-    "Some gifts suit more than one being. If you can explain your pair, keep it.",
-    "When all the cards are gone, the player with the most pairs wins."
+    "Some gifts suit more than one being. Keep a pair if you can explain it truthfully.",
+    "The game ends when all the cards are gone, or when no two cards left go together (turn the left-over cards face up to check). The player with the most pairs wins. If you tie, you share the win."
    ],
    "setup": [
     {
@@ -560,7 +560,7 @@
      "qty": 1
     },
     {
-     "item": "the three word lists in the first step",
+     "item": "the word lists in the first step",
      "qty": 1
     },
     {
@@ -605,19 +605,19 @@
    },
    "setup": [
     {
-     "art": "A girl standing facing a wall at one end of a room, and her mother five big steps away holding a word list.",
+     "art": "A child standing facing a wall at one end of a room, and a parent five big steps away holding a word list.",
      "caption": "1. Stand five big steps apart. The listener faces the wall."
     },
     {
-     "art": "The mother speaking softly from her list, and the girl saying a word back, with no noise in the room.",
+     "art": "The parent speaking softly from a list, and the child saying a word back, with no noise in the room.",
      "caption": "2. Round 1: 10 soft words, no noise."
     },
     {
-     "art": "A phone on a stool next to the girl playing loud traffic noise, drawn as zigzags, while the mother speaks softly.",
+     "art": "A phone on a stool next to the child playing loud traffic noise, drawn as zigzags, while the parent speaks softly.",
      "caption": "3. Round 2: 10 new soft words, with loud noise next to the listener."
     },
     {
-     "art": "The mother speaking loudly with the noise still on, and the girl smiling as she hears.",
+     "art": "The parent speaking loudly with the noise still on, and the child smiling as they hear.",
      "caption": "4. Round 3: 10 new words said loudly, with the noise on."
     }
    ],
@@ -625,7 +625,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Stand five big steps apart. 2. Your child faces the wall. 3. Keep these lists hidden: list 1 is crow, tree, cat, leaf, ant, cow, bee, nest, dog, rain. List 2 is kite, bat, frog, moth, fig, bus, road, wall, pond, egg. List 3 is owl, rat, bird, seed, fly, lamp, roof, drain, wing, hen.",
+     "do": "1. Stand five big steps apart. 2. Your child faces the wall. 3. Keep these lists hidden: list 1 is crow, tree, cat, leaf, ant, cow, bee, nest, dog, rain. List 2 is kite, bat, frog, moth, fig, bus, road, wall, pond, egg. List 3 is owl, rat, bird, seed, fly, lamp, roof, drain, wing, hen. List 4 is spare: fan, jug, pot, sun, goat, bell, hill, cup, ship, tail.",
      "say": "I will say some words softly. You say each word back to me. Face the wall, so you can only listen. Then we will count how many you heard.",
      "kid": "Face the wall. Listen. Say each word back.",
      "parent": "Your child faces the wall so they cannot read your lips. Speak softly, as if a baby is asleep in the next room. Keep the same soft voice all through rounds 1 and 2."
@@ -654,7 +654,7 @@
      "do": "Round 1: no noise. Say the 10 words of list 1 softly, one at a time. Tick each word your child says back right.",
      "say": "Here is the first word. Say it back to me.",
      "kid": "Listen to each soft word. Say it back.",
-     "parent": "If your child gets all 10 easily, take two more steps back and start again with list 1. If they hear fewer than 6, step one step closer. You want a distance where soft words are heard well in the quiet."
+     "parent": "If your child gets all 10 easily, take two more steps back. If they hear fewer than 6, step one step closer. Then use the spare list 4 for round 1 instead, and keep the new distance for all three rounds. You want a distance where soft words are heard well in the quiet."
     },
     {
      "id": "s4",
@@ -662,7 +662,7 @@
      "do": "Round 2: put the noise maker about one arm away from your child. Turn it up loud. Say list 2 in the same soft voice. Tick the words heard.",
      "say": "Now the noise is on. Same soft voice. Say back each word you hear.",
      "kid": "The noise is on. Listen hard. Say back each word.",
-     "parent": "The noise should be loud, but not painful. If your child still hears almost every word, turn it up or move the noise maker closer to them. Most children hear far fewer words in this round."
+     "parent": "The noise should be loud, but not painful. Keep the phone an arm away and never at your child's ear. If your child still hears almost every word, turn it up a little or move it closer. Most children hear far fewer words in this round."
     },
     {
      "id": "s5",
@@ -689,7 +689,7 @@
      "think": "A koel calls from a tree beside a busy road. What could the koel do, so that another koel hears him?",
      "check": {
       "t": "mcq",
-      "q": "In which round did you hear the fewest words?",
+      "q": "Most families hear the fewest words in which round?",
       "options": [
        "Round 2: soft words with the noise on",
        "Round 1: soft words with no noise",
@@ -759,7 +759,7 @@
      "do": "Look every 5 minutes. Note the time when each cube has melted away.",
      "say": "Let's look. Which cube is smaller now?",
      "kid": "Look every 5 minutes. Which cube is smaller?",
-     "parent": "In strong sun, the sun cube usually melts much faster. Do not let your child stare at the sun.",
+     "parent": "In strong sun, the sun cube usually melts much faster. The shade cube still melts, only more slowly, because the air is warm too. If it is still there after 12 minutes, write 'not melted yet' and compare the sizes. Do not let your child stare at the sun.",
      "ask": [
       {
        "q": "What is the shade doing for the ice?",
@@ -773,19 +773,19 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Talk about what you saw. Ask where a street dog would rest on a hot day.",
-     "say": "The shade kept the ice cool for longer. On a hot afternoon, where would a street dog or a cow lie down?",
-     "kid": "Shade keeps things cool. Where would a dog lie down on a hot day?",
+     "do": "Talk about what you saw. Ask where your child likes to sit on a hot day.",
+     "say": "The shade kept the ice cool for longer. On a hot afternoon, where do you like to sit: in the sun or in the shade?",
+     "kid": "Shade keeps things cool. Where do you like to sit on a hot day?",
      "check": {
       "t": "mcq",
-      "q": "Why do street dogs sleep under trees on hot afternoons?",
+      "q": "Usually the ice cube in the sun melts first. What was the shade doing for the other cube?",
       "options": [
-       "The shade keeps the ground cooler",
-       "Trees are softer than the road",
-       "Dogs like the colour green"
+       "Keeping the sunlight off it",
+       "Making it warmer",
+       "Adding more ice"
       ],
       "a": 0,
-      "why": "The leaves stop the sunlight, so the ground under a tree stays cooler, just like the plate in your shade."
+      "why": "The leaves or cloth stopped the sunlight, so the ice stayed cooler. The ground under a tree stays cooler for the same reason."
      }
     }
    ]
@@ -813,7 +813,7 @@
      "caption": "1. Watch from a window or balcony."
     },
     {
-     "art": "A notebook page with a tally chart: crows, pigeons, dogs, squirrels, insects, other, with tally marks in groups of five.",
+     "art": "A notebook page with a tally chart: crows, pigeons, other birds, dogs and cats, squirrels, insects, with tally marks in groups of five.",
      "caption": "2. Make a tally mark for each being you see."
     }
    ],
@@ -982,11 +982,11 @@
      "kid": "Which place has the most beings?",
      "ask": [
       {
-       "q": "If the tree was cut down, who would lose a home?",
+       "q": "Which being on your map is busy at night?",
        "good": [
-        "The crows and the squirrels.",
-        "The bees and the birds who eat the fruit.",
-        "The dog who sleeps in the shade."
+        "The gecko by the lamp.",
+        "The moths round the light.",
+        "A bat or an owlet, if you saw one."
        ]
       }
      ]
@@ -999,7 +999,7 @@
    "id": "p1",
    "title": "My Street Nature Diary",
    "days": 5,
-   "mins": 35,
+   "mins": 50,
    "context": "In this project you look out at your street for 5 minutes a day, for five days. Each day you draw one being and write what they were doing.",
    "materials": [
     {
@@ -1014,28 +1014,28 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 7,
+     "mins": 10,
      "what": "Make the diary cover. Watch for 5 minutes. Draw one bird."
     },
     {
      "day": 2,
-     "mins": 7,
+     "mins": 10,
      "what": "Watch for 5 minutes. Draw one animal who is not a bird."
     },
     {
      "day": 3,
-     "mins": 7,
+     "mins": 10,
      "what": "Watch for 5 minutes. Draw one tree or plant, and who uses them."
     },
     {
      "day": 4,
-     "mins": 7,
+     "mins": 10,
      "what": "Watch at dusk for 5 minutes, with a grown-up. Draw who comes out in the evening."
     },
     {
      "day": 5,
-     "mins": 7,
-     "what": "Watch for 5 minutes. Draw one insect. Read the diary to someone at home."
+     "mins": 10,
+     "what": "Watch for 5 minutes. Draw one insect. Then read the diary to someone at home."
     }
    ],
    "record": "The diary, with five drawings and one sentence for each: who, where, and what they were doing.",
@@ -1052,7 +1052,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 7,
+     "mins": 10,
      "do": "Make the cover together: My Street Nature Diary. Then watch for 5 minutes and draw one bird.",
      "say": "Who did you see? Where were they? What were they doing?",
      "kid": "Watch for 5 minutes. Draw one bird. What were they doing?",
@@ -1060,20 +1060,21 @@
     },
     {
      "id": "s2",
-     "mins": 7,
-     "do": "On each of days 2 to 5, watch and draw as the schedule says.",
+     "mins": 30,
+     "do": "On each of days 2 to 4, watch and draw as the schedule says.",
      "say": "Today we look for a different being. Who will you find?",
-     "kid": "Watch again. Draw a new being today."
+     "kid": "Watch again. Draw a new being today.",
+     "parent": "On day 4, watch at dusk from a window or balcony, with a grown-up. A gecko by a light, moths, bats and owlets may come out."
     },
     {
      "id": "s3",
-     "mins": 7,
-     "do": "On day 5, your child reads the whole diary to someone at home.",
-     "say": "Read your diary to Amma. Which being surprised you most?",
+     "mins": 10,
+     "do": "On day 5, watch for 5 minutes and draw one insect. Then your child reads the whole diary to someone at home.",
+     "say": "Read your diary to someone at home. Which being surprised you most?",
      "kid": "Read your diary to someone. Who surprised you most?",
      "check": {
       "t": "mcq",
-      "q": "Ishita saw a gecko by the light at dusk and a squirrel on the tree at noon. What does this show?",
+      "q": "Ishita, a girl in Class 2, saw a gecko by the light at dusk and a squirrel on the tree at noon. What does this show?",
       "options": [
        "Different beings use the street at different times",
        "Geckos and squirrels are the same",
@@ -1095,7 +1096,7 @@
    "constraints": [
     "Draw it on one big sheet of paper, or build it on a tray with blocks, boxes and leaves.",
     "Include at least one thing for birds, one for insects, one for street animals and one for people.",
-    "You have 20 minutes."
+    "You have 15 minutes to draw or build."
    ],
    "materials": [
     {
@@ -1155,7 +1156,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Check the list together. Then ask the your-turn question.",
+     "do": "Check the list together. Then ask the \"one more thing\" question.",
      "say": "Let's check. Has every being got what they need? Who might still find it hard?",
      "kid": "Check your list. Who still needs something?",
      "check": {
@@ -1207,15 +1208,14 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the noise test, where a grown-up said soft words across the room? What happened when the loud noise was on?",
+     "p": "Where does a koel mother lay her eggs?",
      "opts": [
-      "Many soft words were lost in the noise",
-      "Every soft word was easy to hear",
-      "The words got louder by themselves"
+      "In a crow's nest",
+      "In a nest she builds of grass",
+      "In a hole in the ground"
      ],
      "a": 0,
-     "how": "e1",
-     "why": "The noise covered the soft words. A strong answer adds what helped: speaking loudly got the words through again."
+     "why": "A koel mother does not build a nest. She lays her eggs in a crow's nest, and the crows bring up her babies."
     },
     {
      "t": "draw",
@@ -1271,10 +1271,10 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: why do pigeons nest on window ledges?",
+     "p": "Say it to a grown-up, who writes it down: what is one thing you can do to help the birds and animals near your home?",
      "lines": 2,
-     "a": "Wild pigeons, called rock doves, nest on cliff ledges. A window ledge on a tall building is like a cliff ledge.",
-     "why": "A strong answer links the city ledge to the cliff ledges of wild rock doves."
+     "a": "Put out a bowl of clean water in the shade in summer, or watch the animals from a distance and leave them in peace. Do not feed them bread or fried snacks.",
+     "why": "A strong answer gives one kind action and a reason, such as water helping in the heat, or animals needing to be left in peace."
     },
     {
      "t": "perspective",
@@ -1328,7 +1328,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Traffic noise is mostly a low, deep rumble. Which bird song is easiest to hear over it?",
+     "p": "Traffic noise is mostly a low, deep rumble. Which bird song is easiest to hear over the rumble?",
      "opts": [
       "A high, sharp song",
       "A low, deep song",
@@ -1339,11 +1339,11 @@
     },
     {
      "t": "write",
-     "p": "Lalitha heard 9 soft words in the quiet, but only 2 with the noise on. What should the speaker do next time? Why?",
-     "lines": 2,
+     "p": "Two families did the noise test. In both, the child heard 9 soft words in the quiet. With the noise on, one child heard only 2 words, and the other child heard 9. What might have been different in the second family?",
+     "lines": 3,
      "how": "e1",
-     "a": "Speak louder, or wait for a quiet gap, or come closer. Then the words are not covered by the noise.",
-     "why": "A strong answer uses Lalitha's numbers: the noise took away 7 words. It names a way to get the words through and says why it works."
+     "a": "The noise may have been too quiet or too far away, the speaker may have spoken louder, or the child may have seen the speaker's lips.",
+     "why": "A strong answer names one thing that could change the result, such as the noise being weaker, and says why that would let more words through."
     },
     {
      "t": "order",
@@ -1429,14 +1429,14 @@
     },
     {
      "t": "mcq",
-     "p": "Why do house crows do so well in towns and cities?",
+     "p": "Hornbills need big old trees with holes to nest in. Which of these would find a city hardest to live in?",
      "opts": [
-      "They eat almost any kind of food",
-      "They eat only one kind of seed",
-      "They can live only in cities"
+      "A hornbill, who needs big old trees with holes",
+      "A house crow, who eats almost anything",
+      "A pigeon, who nests on ledges"
      ],
      "a": 0,
-     "why": "Crows eat scraps, insects, fruit and grain, so they find food almost everywhere in a city. Crows live in villages and forests too."
+     "why": "Cities have few big old trees with holes. Crows eat almost anything and pigeons nest on ledges, so both do well."
     }
    ]
   }
@@ -1497,14 +1497,14 @@
   },
   {
    "t": "mcq",
-   "p": "What does a big street tree give a street dog on a hot afternoon?",
+   "p": "A crow wants a safe place high up for her nest. What does a street tree give her?",
    "opts": [
-    "Cool shade",
-    "Figs to eat",
-    "A nest"
+    "A high fork in the branches for a stick nest",
+    "A cave to hide in",
+    "A pond to swim in"
    ],
    "a": 0,
-   "why": "The leaves block the sun, so the ground under the tree is cooler.",
+   "why": "Crows build stick nests high in the fork of a branch, where the nest is safer.",
    "outcome": 1
   },
   {
@@ -1650,8 +1650,8 @@
  ],
  "ask_kids": [
   "Which bird did you hear first this morning? Was the road quiet or busy?",
-  "If you were a pigeon, which ledge of our building would you pick for a nest? Why?",
-  "Where would a street dog sleep on our road on a hot day?",
+  "Which birds have you heard near our building? Which call do you like best?",
+  "Which animal on our road did you notice for the first time in this unit?",
   "Who uses the tree outside our building at night?",
   "If our road had no horns for one day, who do you think we would hear?"
  ],
@@ -1665,8 +1665,8 @@
    "a": "Because the cliff was too far to commute!"
   },
   {
-   "j": "What did the koel say to the bus?",
-   "a": "Can you please stop, so I can hear myself sing?"
+   "j": "What do you call a bird who tells jokes?",
+   "a": "A cawmedian!"
   },
   {
    "j": "Why did the street dog sit in the shade?",
@@ -1685,17 +1685,13 @@
    "a": "You light up my life, but you make me dizzy!"
   },
   {
-   "j": "Why did the myna bring a pencil to school?",
-   "a": "To make a tally of all the crows!"
-  },
-  {
    "j": "What is a gecko's favourite part of the house?",
    "a": "The tube light, because that is where the snacks fly in!"
   }
  ],
  "maths": [
   {
-   "problem": "In the noise test, Nandini heard 9 soft words with no noise. With the noise on, she heard only 3. How many words did the noise take away?",
+   "problem": "Nandini, a girl in Class 2, did the noise test. She heard 9 soft words with no noise. With the noise on, she heard only 3. How many words did the noise take away?",
    "answer": "6 words.",
    "explain": "9 words in the quiet take away the 3 heard in the noise leaves 6. 9 - 3 = 6.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1704,7 +1700,7 @@
    "why_maths": "Taking away shows how much the noise covered, which tells us how strong the noise was compared with the voice."
   },
   {
-   "problem": "In 10 minutes at the window, Swati made a tally: 7 crows, 12 pigeons and 3 dogs. Which did she see most? How many more pigeons than crows?",
+   "problem": "In 10 minutes at the window, Swati, a girl in Class 2, made a tally: 7 crows, 12 pigeons and 3 dogs. Which did she see most? How many more pigeons than crows?",
    "answer": "Pigeons. 5 more pigeons than crows.",
    "explain": "12 is the biggest number. 12 - 7 = 5.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1713,7 +1709,7 @@
    "why_maths": "A tally lets us compare at a glance who lives on the street in the biggest numbers."
   },
   {
-   "problem": "Before the lockdown, a sparrow's song could be heard 10 big steps away. In the quiet, it could be heard about twice as far. How far is that?",
+   "problem": "Imagine a sparrow's song could be heard 10 big steps away on a busy road. In the quiet of the lockdown, songs could be heard about twice as far. How far is that?",
    "answer": "About 20 big steps.",
    "explain": "Twice 10 is two groups of 10. 10 + 10 = 20.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -1766,7 +1762,7 @@
    "url": "",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "Old, big trees in the city, with many birds, squirrels and fruit bats."
+   "why": "Old, big trees in the city, with many birds and squirrels."
   },
   {
    "title": "Rabindra Sarobar",
@@ -1783,12 +1779,12 @@
    "a": "Yes. Many beings, including people, live and find what they need there."
   },
   {
-   "q": "Why do pigeons nest on window ledges?",
-   "a": "Ledges are like the cliff ledges where wild rock doves nest."
+   "q": "Which birds nest in holes in walls and pipes?",
+   "a": "Mynas."
   },
   {
-   "q": "What does a street tree give a street dog on a hot day?",
-   "a": "Cool shade."
+   "q": "What is a street tree? Name one.",
+   "a": "A tree that grows beside a road or in a compound, such as a neem or a rain tree."
   },
   {
    "q": "What happens to a soft voice in loud noise?",
@@ -1879,7 +1875,7 @@
    "what_is_life": "Living beings keep fitting themselves to where they are. A koel by a busy road decides when and how to call, so that another koel can hear.",
    "what_is_this_world": "One street is home to many beings at once: people, crows, a neem tree, bees and a sleeping dog. Each one hears and uses the street in their own way."
   },
-  "thread": "One street holds many lives. The same neem tree gives shade to a dog, flowers to bees and a high fork to a crow. The traffic that takes people to work also covers the koel's call, and the koel answers by calling louder, higher or at quieter times. Every being on the street senses and decides: the dog chooses the coolest shade, and the bird chooses when to sing. So the street shapes each life, and each life shapes the street a little in return.",
+  "thread": "One street holds many lives. The same neem tree gives shade to a dog, flowers to bees and a high fork to a crow. Traffic noise covers the koel's call, and the koel answers by calling louder, higher or at quieter times. Each being on the street senses it in their own way and acts on it. So the street shapes each life, and each life shapes the street a little in return.",
   "teachings": [
    {
     "source": "Purananuru 192, by the Tamil poet Kaniyan Pungundranar",
@@ -1904,7 +1900,7 @@
   ],
   "other_view": {
    "who": "Many scientists",
-   "view": "Many scientists say a bird singing louder in noise is an automatic reflex, not a decision. People do the same without noticing: we raise our voices in a noisy bus without choosing to. To these scientists, the change is real, but nobody is deciding anything."
+   "view": "Many scientists say a bird singing louder in noise is an automatic reflex. People do the same without choosing: we raise our voices in a noisy bus. To these scientists, the change is real, and it happens quickly and automatically."
   },
   "practice": {
    "title": "Listen Under the Noise",
@@ -1915,9 +1911,9 @@
   "ask": [
    "When the traffic stops for a moment, what do you hear that was there all along?",
    "If a dog, a crow and you walked down the same street, would you all meet the same street?",
-   "Who lived on this land before our building? Do any of them still live here?"
+   "Which sound on your street do the birds have to sing over?"
   ],
-  "art": "A child sitting by a window with eyes closed, with a band of traffic noise drawn below and small bird notes rising above it from a neem tree."
+  "art": "A child sitting by a window with eyes closed, with a band of traffic noise drawn below and small bird notes rising above the band from a neem tree."
  },
  "how_we_found_out": {
   "context": "How did people find out that city noise changes the songs of birds? This card tells the true story of a team led by a woman scientist, and what happened when a city went quiet.",
@@ -1925,5 +1921,6 @@
   "who": "Elizabeth Derryberry and Jennifer Phillips, American bird scientists, with their team",
   "when": "2003 to 2020",
   "wrong_idea": "Many people thought city noise bothered only humans, and that birds kept singing in the same way whatever the noise."
- }
+ },
+ "playtest": "Played the calling game in my head with 2 and with 4 players: it now works with a parent and child, the traffic cards say how long to make noise, the quiet-gap trick has a clear meaning, and the game ends after 8 calls with a team score. The memory game now ends when no pair is left. In the noise test I added a spare word list so a changed distance stays fair, and made the ice test and the 5-day diary add up in minutes. I removed repeated shade, pigeon and noise questions, a non-joke, and family members assumed in the steps."
 }

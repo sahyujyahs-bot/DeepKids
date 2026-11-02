@@ -82,7 +82,7 @@
    "status": "defined",
    "context": "This card explains what melting is.",
    "definition": "Melting is when a solid turns into a liquid because it has become warm enough.",
-   "description": "In the melting race, the ice cube slowly became a puddle on the plate. The chocolate went soft, then runny, in the warm water. Nothing was added to them. They only got warmer. As each one melted, it stopped keeping its own shape and began to flow.",
+   "description": "In the melting race, the ice cube slowly became a puddle on the plate. The chocolate went soft, then runny, in the warm water. Nothing was added to them. They only got warmer.",
    "examples": [
     "Ice turns into water on a plate.",
     "Butter turns runny in a hot pan.",
@@ -96,7 +96,7 @@
    "status": "defined",
    "context": "This card explains what solidifying and freezing are.",
    "definition": "Solidifying is when a liquid turns into a solid because it has cooled down enough. Freezing is solidifying in the cold, like water turning into ice.",
-   "description": "In the fridge, the melted chocolate, butter and coconut oil set hard again. A drop of candle wax solidified on a steel plate in a few seconds, because the room is far cooler than a candle flame. Water is different. It stayed liquid in the fridge. It solidifies only in the freezer, which is much colder. That is why we say water freezes.",
+   "description": "In the fridge, the melted chocolate, butter and coconut oil set hard again. A drop of candle wax set on a steel plate in a few seconds, because the plate is far cooler than a flame. Water stayed liquid in the fridge. It needs the much colder freezer to turn into ice.",
    "examples": [
     "Water in an ice tray freezes in the freezer.",
     "Hot ghee poured into a jar solidifies on a cold morning.",
@@ -110,12 +110,12 @@
    "status": "defined",
    "context": "This card explains why the solids in the melting race did not all melt together.",
    "definition": "The melting point of a substance is the temperature at which it melts. Different substances have different melting points.",
-   "description": "Ice melts at 0 degrees Celsius, so it melts in any Indian room. Coconut oil melts at about 24 degrees, so it is liquid on most warm days and solid on a cold morning. Butter and chocolate melt a little below the warmth of your body, so they melted in the warm water and in your mouth. Candle wax melts at a temperature more like hot tea, so it stayed hard until it was near the flame. Iron melts only in a furnace, at about 1,500 degrees.",
+   "description": "Ice melts at 0 degrees Celsius, so it melts in almost any room. Coconut oil melts at about 24 degrees, so it is liquid on most warm days and solid on a cold morning. Butter and chocolate melt a little below the warmth of your body, so they melted in the warm water and in your mouth. Candle wax melts at a temperature much hotter than bath water, nearer hot tea, so it stayed hard until it was near the flame. Iron melts only in a furnace, at about 1,500 degrees.",
    "examples": [
     "Ice: 0 degrees Celsius.",
     "Coconut oil: about 24 degrees Celsius.",
     "Chocolate and butter: a little below 37 degrees, the warmth of your body.",
-    "Candle wax: usually between about 50 and 70 degrees.",
+    "Candle wax: usually between about 45 and 70 degrees.",
     "Iron: about 1,500 degrees."
    ],
    "perspectives": [],
@@ -126,7 +126,7 @@
    "status": "defined",
    "context": "This card explains why melted chocolate is still chocolate.",
    "definition": "A reversible change is a change that can be undone. When a substance melts and then solidifies again, it is still the same substance.",
-   "description": "Your chocolate melted in warm water and set again in the fridge. It still tasted of chocolate. Ice that melts is still water, and you can freeze it again. Set chocolate may look dull or streaky on top, because its fat sets in a different pattern. It is still chocolate. Cooking is different. A cooked dosa cannot turn back into batter, so cooking is not a reversible change.",
+   "description": "Your chocolate melted in warm water and set again in the fridge. It still tasted of chocolate. Ice that melts is still water, and you can freeze it again. Set chocolate may look dull or streaky, because its fat sets in a new pattern. It is still chocolate. A cooked dosa cannot turn back into batter, so cooking is not a reversible change.",
    "examples": [
     "Water to ice to water, again and again.",
     "Old candle stubs melted down and poured into a new candle.",
@@ -140,7 +140,7 @@
    "status": "defined",
    "context": "This card explains where the warmth goes when ice melts.",
    "definition": "A solid needs warmth to melt. That warmth comes from whatever is around it: the air, your hand or warm water. When a liquid solidifies, it gives out warmth to what is around it.",
-   "description": "Hold an ice cube, and your hand gets cold. That is because warmth is flowing out of your hand into the ice to melt it. The ice in a glass of nimbu pani cools the drink in the same way. It takes a lot of warmth to melt ice. That is why an ice cube lasts a long time, even in a warm room. Warmth always flows from the warmer thing to the cooler thing.",
+   "description": "Hold an ice cube, and your hand gets cold. Warmth flows out of your hand into the ice and melts it. The ice in a glass of nimbu pani cools the drink in the same way. It takes a lot of warmth to melt ice, so an ice cube lasts a long time, even in a warm room. Warmth always flows from the warmer thing to the cooler thing.",
    "examples": [
     "Ice cools a glass of buttermilk as it melts.",
     "Your hand feels cold when you hold ice.",
@@ -154,7 +154,7 @@
    "status": "defined",
    "context": "This card explains what melting looks like if we could zoom in very far.",
    "definition": "Everything is made of tiny particles, far too small to see. In a solid they hold each other in place. In a liquid they hold on loosely and slide past each other.",
-   "description": "The tiny particles of a solid are always jiggling, even when the solid sits still. Warm them, and they jiggle harder. At the melting point, they jiggle so hard that they can no longer stay in their places. They start to slide past each other, and the solid flows as a liquid. Cool them, and they slow down and settle back into place. In wax the particles hold each other more tightly than in ice, so wax needs more warmth to melt.",
+   "description": "The tiny particles of a solid are always jiggling, even when the solid sits still. Warm them, and they jiggle harder. At the melting point they jiggle so hard that they slide past each other, and the solid flows as a liquid. Cool them, and they slow down and settle back into place. Different substances have different particles, held with different strength, so each one needs its own warmth to melt.",
    "examples": [
     "Ice particles slide apart at 0 degrees Celsius.",
     "Wax particles need a candle flame's warmth to slide apart."
@@ -297,7 +297,7 @@
   {
    "id": "e1",
    "title": "The Melting Race: which solid melts first?",
-   "mins": 32,
+   "mins": 33,
    "days": 1,
    "context": "In this experiment you race five solids: an ice cube, a square of chocolate, a little butter, a little coconut oil and a piece of candle wax. First they sit on a plate in the room. Then they float in a bowl of warm water. Last, a grown-up lights a candle. Then you cool them in the fridge.",
    "question": "Do all solids melt at the same warmth? Which one melts first, and which one needs the most warmth?",
@@ -353,11 +353,11 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up lights and holds the candle, and keeps it away from hair, cloth and paper. The warm water must be only as warm as a bath, so your child can keep a finger in it.",
+   "safety": "A grown-up lights and holds the candle, and keeps it away from hair, cloth and paper. Melted wax near the flame is hot, so nobody touches the pool. The warm water must be only as warm as a bath, so your child can keep a finger in it.",
    "schedule": [
     {
      "day": 1,
-     "mins": 32,
+     "mins": 33,
      "what": "Guess the order. Watch the five solids on a plate for 10 minutes, then in warm water, then see wax melt near a flame. Put them in the fridge for 20 minutes and look again."
     }
    ],
@@ -474,14 +474,14 @@
        ]
       }
      ],
-     "parent": "In most Indian homes, which are warmer than 24 degrees, the coconut oil turns runny within about 10 minutes. The ice starts melting at once but takes much longer to finish. The butter goes soft and shiny. The chocolate and wax usually stay hard. In a cold room, the coconut oil may stay solid, and that is a real result too."
+     "parent": "In most Indian homes, which are warmer than 24 degrees, the coconut oil turns runny within about 10 minutes. The ice starts melting at once but takes much longer to finish. The butter goes soft and shiny. The wax stays hard. The chocolate usually stays hard too, but in a very hot kitchen it may go soft at the edges. In a cold room, the coconut oil may stay solid, and that is a real result too."
     },
     {
      "id": "s3",
      "mins": 8,
      "adult": true,
      "context": "In this step of the melting race, the solids float in a bowl of warm water.",
-     "do": "1. Fill the wide bowl with water as warm as a bath. 2. Your child tests it with a finger. 3. Put each solid in its own katori, and float the katoris on the water. 4. Watch for 5 minutes.",
+     "do": "1. Fill the wide bowl with water as warm as a bath. 2. Your child tests it with a finger. 3. Put each solid in its own katori (scrape the runny ones in), and float the katoris on the water. 4. Watch for 5 minutes.",
      "say": "This water is as warm as a bath. Now which ones will melt? Will the wax melt too? Why do you think so?",
      "kid": "Float each solid on the warm water. Watch for 5 minutes. Which ones melt now?",
      "ask": [
@@ -500,7 +500,7 @@
        ]
       }
      ],
-     "parent": "The chocolate and butter melt in a few minutes, because bath water is warmer than their melting points. The wax stays hard. Let your child press it with a finger to check. Don't explain yet.",
+     "parent": "The chocolate and butter melt in a few minutes, because bath water is warmer than their melting points. The wax stays hard. Let your child press it with a finger to check. Don't explain yet. Melted chocolate may keep its square shape until you poke it, so press it to check.",
      "check": {
       "t": "mcq",
       "q": "The chocolate melted in the warm water, but the wax did not. Why?",
@@ -515,10 +515,10 @@
     },
     {
      "id": "s4",
-     "mins": 3,
+     "mins": 4,
      "adult": true,
      "context": "In this step of the melting race, a grown-up lights a candle to see if wax can melt.",
-     "do": "1. Light the candle and hold it upright on a steel plate. 2. Your child watches from an arm's length away. 3. After about a minute, point to the wax around the wick. 4. Blow it out.",
+     "do": "1. Light the candle and hold it upright on a steel plate. 2. Your child watches from an arm's length away. 3. After two or three minutes, point to the wax around the wick. 4. Blow it out.",
      "say": "Look just under the flame. What is happening to the wax there? Now I will blow it out. Watch the pool.",
      "kid": "Watch from an arm's length. Look under the flame. What is the wax doing?",
      "ask": [
@@ -531,7 +531,7 @@
        ]
       }
      ],
-     "parent": "A small pool of clear liquid wax forms around the wick within a minute or two. After you blow it out, the pool turns white and hard in about a minute. So wax does melt, but only near a flame."
+     "parent": "A small pool of clear liquid wax forms around the wick within two or three minutes. After you blow it out, the pool turns white and hard in about a minute. So wax does melt, but only near a flame."
     },
     {
      "id": "s5",
@@ -691,7 +691,7 @@
        ]
       }
      ],
-     "parent": "Ice usually forms first as a thin skin on top and a ring round the sides, because those parts touch the cold air and the cold cup. The middle freezes last. The steel tumbler usually freezes first, because steel lets warmth out of the water faster than plastic. Freezers vary, so it may take 2 to 4 hours."
+     "parent": "Ice usually forms first as a thin skin on top and a ring round the sides, because those parts touch the cold air and the cold cup. The middle freezes last. The steel tumbler usually freezes first, because steel lets warmth out of the water faster than plastic. Freezers vary, so it may take 2 to 4 hours, and the two tumblers may freeze at nearly the same time. That is a real result too."
     },
     {
      "id": "s3",
@@ -729,7 +729,8 @@
       "why": "The top touches the cold air and the sides touch the cold cup, so warmth leaves the water there first. The middle is last to lose its warmth."
      }
     }
-   ]
+   ],
+   "safety": "Cold steel can stick to a wet finger. Dry your hands and touch the tumblers only on the outside, with a cloth."
   }
  ],
  "activities": [
@@ -829,7 +830,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up lights and holds the candle. Melted wax is hot, so let each drop sit for 10 seconds before your child touches it. Keep hair, cloth and paper away from the flame.",
+   "safety": "A grown-up lights and holds the candle. Melted wax is hot, so let each drop sit for 10 seconds before your child touches it. Keep hair, cloth and paper away from the flame. Keep your face back when drops fall into the water.",
    "schedule": [
     {
      "day": 1,
@@ -857,7 +858,7 @@
      "id": "s1",
      "mins": 4,
      "adult": true,
-     "do": "1. Light the candle. 2. Wait a minute for a pool of wax to form. 3. Tip the candle gently so one drop falls on the plate. 4. Your child counts the seconds until it turns white.",
+     "do": "1. Light the candle. 2. Wait two or three minutes for a pool of wax to form. 3. Tip the candle gently so one drop falls on the plate. 4. Your child counts the seconds until it turns white.",
      "say": "Look at the drop as it lands. It is clear and runny. Count with me. When does it turn white?",
      "kid": "Watch the drop land. Count the seconds. When does it turn white?",
      "ask": [
@@ -1341,7 +1342,7 @@
        ]
       }
      ],
-     "parent": "Many children put the stone or the steel spoon in 'never'. Explain that everything melts if it gets hot enough, even rock."
+     "parent": "Many children put the stone or the steel spoon in 'never'. Explain that rock and metal do melt if they get hot enough."
     },
     {
      "id": "s3",
@@ -1478,7 +1479,7 @@
    "constraints": [
     "Use only things from home.",
     "You may not put it back in the freezer or the fridge.",
-    "Your wrap must fit inside a steel tumbler."
+    "Use one ice cube for each wrap, the same size as the bare one."
    ],
    "materials": [
     "ice cubes of the same size",
@@ -1492,7 +1493,7 @@
    ],
    "creative": [
     "Use many layers: foil, then cloth, then newspaper, so warmth from the room has to pass through all of them.",
-    "Put several ice cubes together in one bundle, so they keep each other cold."
+    "Put the wrapped ice cube inside a closed plastic box, with crumpled newspaper packed round it."
    ],
    "your_turn": "Think of your own wrap. Test it next to a bare ice cube for one hour. Which ice cube was bigger at the end? How could you make your wrap better?",
    "setup": [
@@ -2034,14 +2035,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the melting race, the chocolate and the butter melted in the warm water. What did the candle wax do?",
+   "p": "Mina floats a piece of candle wax and a square of chocolate in bath-warm water. After five minutes, what does she see?",
    "opts": [
-    "It melted first",
-    "It stayed hard until it was near a flame",
-    "It turned into water"
+    "The chocolate is runny and the wax is still hard",
+    "Both are runny",
+    "The wax is runny and the chocolate is still hard"
    ],
-   "a": 1,
-   "why": "Wax has a higher melting point than bath water, so it melts only near a flame.",
+   "a": 0,
+   "why": "Chocolate melts at a little below body warmth, so bath water melts it. Wax needs more warmth than bath water gives.",
    "outcome": 2,
    "how": "e1",
    "context": "This question is about the melting race. You put an ice cube, chocolate, butter, coconut oil and candle wax on a steel plate, then in a bowl of warm water, then near a candle flame."
@@ -2122,10 +2123,10 @@
   }
  ],
  "applications": [
-  "Goldsmiths melt gold and pour it into moulds to make bangles and chains, then it solidifies in the new shape.",
+  "Goldsmiths melt gold and pour it into moulds to make ornaments, and it solidifies in the new shape.",
   "Candle makers melt old wax and pour it into moulds with a wick, where it sets into new candles.",
   "Kulfi makers pour sweet milk into metal cones and pack them in ice mixed with salt, which is colder than plain ice, so the kulfi freezes.",
-  "Steel and iron are melted in huge furnaces and poured into shapes, for rails, bridges and steel tumblers.",
+  "Steel and iron are melted in huge furnaces and poured into moulds. When they solidify, they are rolled and cut into rails, beams and sheets.",
   "Ice keeps fish fresh on boats and at fish markets, from Kochi to Kolkata, because melting ice takes in warmth.",
   "In Ladakh, the engineer Chewang Norphel built artificial glaciers: shallow pools where water freezes in winter and melts slowly in spring, to water the fields."
  ],
@@ -2369,7 +2370,7 @@
    "what_is_life": "Honeybees make wax inside their own bodies, and build their honeycomb from it. The wax stays solid in a hot hive because it melts only at a much higher warmth.",
    "what_is_this_world": "The same water is ice on the Himalayas in winter, and a river in the plains in summer. Rock melts deep inside the Earth and comes out of volcanoes as lava."
   },
-  "thread": "Ice, chocolate, wax and iron look like very different things. Yet every one of them can be a solid and a liquid, and the change goes both ways. Underneath, their tiny particles hold on tightly when cool and slide past each other when warm. Each substance has its own warmth for this change, so one warm room holds a solid, a liquid and a melting thing side by side. Everything is conscious, down to these tiny particles.",
+  "thread": "Ice, chocolate, wax and iron look very different. Yet each one is a solid when cool and a liquid when warm enough, and the change goes both ways. Each has its own warmth for the change. So in one warm room, ice melts, coconut oil is runny and wax stays hard. Everything is conscious, down to these tiny particles.",
   "teachings": [
    {
     "source": "Plato, Cratylus 402a, quoting Heraclitus",
@@ -2430,5 +2431,5 @@
    "Chewang Norphel's artificial glaciers in Ladakh, built from 1987 onwards."
   ]
  },
- "playtest": "Thought through as a parent and child in a flat. The melting race uses things most homes have: an ice cube, a square from any chocolate bar, butter or ghee, coconut oil and a candle. Half a teaspoon of fridge-hard coconut oil goes runny within about 10 minutes in a room above 24 degrees Celsius, which is most Indian homes for most of the year. A note covers a cold room. Bath-warm water, about 40 degrees, melts chocolate and butter in small floating steel katoris within a few minutes, but is below the melting point of paraffin wax, so the wax stays hard. A lit candle makes a clear pool within a minute or two. In 20 minutes in the fridge, the thin layers of chocolate, butter and oil set, while the water stays liquid. The freezer watch takes 2 to 4 hours, with short looks. The spine is the intro, the chocolate tongue test and the melting race (session 1, about 40 minutes), then the explanations, Roots and the quiz (session 2, about 30 minutes). This leads on from the solids, liquids and gases unit, whose experiments use pouring and an ice glove, and it does not repeat them."
+ "playtest": "Thought through as a parent and child in a flat. The melting race uses things most homes have: an ice cube, a square from any chocolate bar, butter or ghee, coconut oil and a candle. Half a teaspoon of fridge-hard coconut oil goes runny within about 10 minutes in a room above 24 degrees Celsius, which is most Indian homes for most of the year. A note covers a cold room. Bath-warm water, about 40 degrees, melts chocolate and butter in small floating steel katoris within a few minutes, but is below the melting point of paraffin wax, so the wax stays hard. A lit candle makes a clear pool within two or three minutes. In 20 minutes in the fridge, the thin layers of chocolate, butter and oil set, while the water stays liquid. The freezer watch takes 2 to 4 hours, with short looks. The spine is the intro, the chocolate tongue test and the melting race (session 1, about 40 minutes), then the explanations, Roots and the quiz (session 2, about 30 minutes). This leads on from the solids, liquids and gases unit, whose experiments use pouring and an ice glove, and it does not repeat them."
 }

@@ -7,8 +7,8 @@
   "art": "A child lifting one end of a chopping board covered with rubber bands, with a steel katori sitting still on it, and a ruler standing upright at the lifted end."
  },
  "intro": {
-  "hook": "Put a steel tumbler on a steel plate. Tilt the plate a little. Now put a rubber band round the tumbler's bottom and try again. What changes?",
-  "text": "Without the rubber band, the tumbler slides. With the rubber band, it stays longer. The tumbler is the same. Only the material it stands on is different. Every job needs a material with the right properties. A tray of tumblers needs grip. A slide in the park needs the opposite. Before you read on, guess. Which material in your home grips best?",
+  "hook": "Put a steel tumbler on a steel plate. Tilt the plate more and more. Now put a rubber band round the tumbler's bottom and try again. What changes?",
+  "text": "Without the rubber band, the tumbler slides. With the rubber band, it stays on until the plate is much steeper. The tumbler is the same. Only the material it stands on is different. Every job needs a material with the right properties. A tray of tumblers needs grip. A slide in the park needs the opposite. Before you read on, guess. Which material in your home grips best?",
   "art": "A child's hand tilting a steel plate, with one steel tumbler sliding off and another, with a rubber band round its base, staying put."
  },
  "outcomes": [
@@ -76,7 +76,7 @@
    "status": "defined",
    "context": "This card explains how to choose a material for something you want to make.",
    "definition": "A material is suitable for a job when it has the properties the job needs. Properties the job does not need do not matter.",
-   "description": "First ask what the job needs. A tumbler must hold water and not break when it is dropped. Steel does both, so steel is suitable. Steel is also shiny, but a tumbler does not need to be shiny. That property does not help the job. A raincoat must keep water out and bend when you move. Plastic does both. Steel keeps water out too, but a steel raincoat could not bend.",
+   "description": "First ask what the job needs. A tumbler must hold water and not break when it is dropped. Steel does both, so steel is suitable. Steel is also shiny, but a tumbler does not need to be shiny. A raincoat must keep water out and bend when you move. Plastic does both. Steel keeps water out too, but a steel raincoat could not bend.",
    "examples": [
     "A towel must soak up water, so it is made of cotton.",
     "A window must let you see through it and keep the rain out, so it is made of glass.",
@@ -90,7 +90,7 @@
    "status": "defined",
    "context": "This card explains what you saw in the tilt test: why the katori stayed on the rubber long after it slid off the other materials.",
    "definition": "Friction is the grip between two things that touch. More friction means a thing needs a steeper slope, or a harder push, before it slides.",
-   "description": "Every surface has tiny bumps, too small to see. Even a shiny katori has them. Rubber is soft. When the katori presses on it, the rubber squashes into the tiny bumps and touches the katori in many more places. More touching means more grip. A plastic sheet is hard and smooth, so it touches the katori in fewer places. The katori slides off sooner.",
+   "description": "Every surface has tiny bumps, too small to see. Even a shiny katori has them. Rubber is soft, so it squashes into the bumps under the katori and touches it in many more places. More touching means more grip. A hard, smooth plastic sheet touches the katori in fewer places, so the katori slides off sooner.",
    "examples": [
     "Chappal soles, bicycle handle grips and the feet of a mixie are rubber, for grip.",
     "A slide in the park is smooth steel or plastic, so children slide down.",
@@ -103,7 +103,7 @@
    "concept": "Cloth bag or plastic bag: more than one thing to think about",
    "status": "debated",
    "context": "This card is about a choice many families make at the vegetable shop. People who think carefully still disagree about it.",
-   "description": "A job is not the only thing we think about when we choose a material. We also ask what it costs, how long it lasts, and what happens to it when it is thrown away. A thin plastic bag is cheap and light. But it can stay as litter for a very long time. A cloth bag lasts for years. But making one cloth bag uses much more water and energy than making one plastic bag. So a cloth bag is the kinder choice only if you use it many, many times.",
+   "description": "We also ask what a material costs, how long it lasts, and what happens to it when it is thrown away. A thin plastic bag is cheap and light, but it can stay as litter for a very long time. Making one cloth bag uses much more water and energy than making one plastic bag. But a cloth bag lasts for years. So a cloth bag is the kinder choice only if you use it many, many times.",
    "examples": [
     "A cotton or jute bag used every week for years.",
     "A thin plastic bag used once and thrown away.",
@@ -204,14 +204,14 @@
   "title": "The Tray That Would Not Sit Still",
   "mins": 8,
   "read_aloud": true,
-  "note": "Filter coffee in a steel tumbler and davara is served in many South Indian homes. Many mixer grinders have rubber feet, and some families put a rubber mat under them to stop them moving. Kavya, Arjun, Amma and Paati are made up.",
+  "note": "Buttermilk in steel tumblers is served in many South Indian homes. Many mixer grinders have rubber feet, and some families put a rubber mat under them to stop them moving. Kavya, Arjun, Amma and Paati are made up.",
   "text": [
    "Kavya was eight. She lived with her Amma, her Paati and her little brother Arjun on the fourth floor of a building in Madurai.",
-   "It was Pongal, and the flat was full of guests. Paati made filter coffee. She poured it into six steel tumblers, each standing in its own small steel bowl, called a davara.",
-   "'Arjun, take the coffee to the guests,' said Amma. She put all six tumblers on a big steel tray.",
-   "Arjun was five. He held the tray with both hands and walked very slowly. But at the kitchen door, he tipped the tray a little. All six tumblers slid to one side with a loud clatter. Coffee splashed onto the floor.",
+   "It was Pongal, and the flat was full of guests. Paati poured cold buttermilk into six steel tumblers.",
+   "'Arjun, take the buttermilk to the guests,' said Amma. She put all six tumblers on a big steel tray.",
+   "Arjun was five. He held the tray with both hands and walked very slowly. But at the kitchen door, he tipped the tray a little. All six tumblers slid to one side with a loud clatter. Buttermilk splashed onto the floor.",
    "'The tray is too slippery,' said Arjun. His lip shook.",
-   "Kavya helped him wipe the floor. Then she looked at the tray. It was smooth, shiny steel. The davaras were smooth, shiny steel too. 'Steel on steel slides,' she said. 'We need something on the tray that grips.'",
+   "Kavya helped him wipe the floor. Then she looked at the tray. It was smooth, shiny steel. The tumblers were smooth, shiny steel too. 'Steel on steel slides,' she said. 'We need something on the tray that grips.'",
    "She tried a plastic sheet first, the kind that covers new books. She put a tumbler on it and tipped the tray a little. The tumbler slid off even faster.",
    "'Worse,' said Arjun.",
    "She tried a sheet of newspaper. The tumbler slid a little later, but it still slid.",
@@ -219,7 +219,7 @@
    "Then Kavya remembered the mixie. When Amma ground idli batter, the mixie used to shake and walk across the counter. So Amma had put a small rubber mat under it, and now it stayed still.",
    "Kavya fetched the rubber mat and laid it on the tray. She put a tumbler on it. She tipped the tray, more and more. The tumbler stayed. She tipped it so far that Arjun gasped. Still the tumbler stayed.",
    "'Rubber!' said Kavya. 'Rubber is the best material.'",
-   "Arjun carried the coffee again, on the rubber mat. Not one tumbler moved. The guests clapped, and Arjun grinned.",
+   "Arjun carried the buttermilk again, on the rubber mat. Not one tumbler moved. The guests clapped, and Arjun grinned.",
    "The next morning, the two of them went down to the play area of their building. There was a long steel slide, shiny from years of children sliding down it.",
    "Arjun did not want to get his new shorts dirty. So he took the rubber mat with him and sat on it at the top of the slide.",
    "He pushed off. He moved a tiny bit, and then he stopped, halfway down. He wriggled. He did not move. He was stuck on the slide, sitting on the rubber mat.",
@@ -228,7 +228,7 @@
    "'Why?' asked Arjun, still stuck.",
    "'The rubber did the same thing both times,' said Kavya slowly. 'It gripped. On the tray, we wanted grip. On the slide, you want to slip.'",
    "She pulled the mat out from under him. Arjun shot down the shiny steel and landed on his feet, laughing.",
-   "At home, Kavya told Paati about the slide. Paati smiled and put down her coffee.",
+   "At home, Kavya told Paati about the slide. Paati smiled and put down her glass.",
    "'A spoon is good for rasam and bad for cutting vegetables,' Paati said. 'A knife is good for cutting and bad for rasam. You don't ask which one is good. You ask: good for what?'",
    "That night, Kavya made a list on the back of a calendar page. On one side she wrote 'Needs grip': the tray, the mixie, chappals, the bathroom mat. On the other side she wrote 'Needs slip': the slide, the drawer in the kitchen, the carrom board.",
    "Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a rubber mat, with a very surprised face."
@@ -240,7 +240,7 @@
    "What did Paati mean by 'good for what?'"
   ],
   "art": [
-   "A small boy at a kitchen door with a steel tray tipping, and six steel tumblers of filter coffee sliding to one side.",
+   "A small boy at a kitchen door with a steel tray tipping, and six steel tumblers of buttermilk sliding to one side.",
    "A girl laughing at the bottom of a shiny steel slide in a building's play area, while her little brother sits stuck halfway down on a small rubber mat."
   ]
  },
@@ -436,14 +436,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In most homes, which material held the katori on the steepest tilt?",
+      "q": "In your results table, what does a bigger number mean?",
       "options": [
-       "The plastic sheet",
-       "The rubber",
-       "The newspaper"
+       "The katori slid off sooner",
+       "The material held the katori longer, so it grips more",
+       "The katori was heavier"
       ],
       "a": 1,
-      "why": "Rubber is soft. It squashes into the tiny bumps under the katori and grips it in many places. If your plastic won, check that the katori was sitting on the plastic and not on tape."
+      "why": "The number is the height of the board when the katori slid. A bigger height means the katori stayed on longer. If your rubber number is small, check that the katori sat on the rubber and not on the tape."
      }
     },
     {
@@ -610,7 +610,7 @@
      "do": "1. Now look for things that need to slip. 2. Try a drawer, the carrom board, an iron box's flat bottom, a plastic comb through hair. 3. Draw all the things.",
      "say": "Now find things that are meant to slide. What would happen if a drawer had a rubber bottom?",
      "kid": "Find 3 things that slip. Draw all your things.",
-     "parent": "Do not test slipperiness by walking on wet floors. Looking and sliding things with your hands is enough."
+     "parent": "Do not test slipperiness by walking on wet floors. Looking and sliding things with your hands is enough. Look at the iron box only when it is unplugged and cool."
     }
    ]
   },
@@ -795,7 +795,7 @@
        "b": "Grip. Rubber or foam stops your hands sliding."
       },
       {
-       "f": "The bottom of a sledge on snow",
+       "f": "The bottom of a sledge on snow in Kashmir",
        "b": "Slip. A smooth bottom glides over snow."
       },
       {
@@ -912,12 +912,12 @@
        "b": "Needs: slippery, strong, rigid. Good material: steel or plastic."
       },
       {
-       "f": "A kadai for cooking",
-       "b": "Needs: rigid, strong, waterproof. Good material: iron or steel."
+       "f": "A water bucket",
+       "b": "Needs: waterproof, strong. Good material: plastic or steel."
       },
       {
        "f": "An umbrella cover",
-       "b": "Needs: waterproof, flexible, strong. Good material: umbrella cloth (nylon)."
+       "b": "Needs: waterproof, flexible, strong. Good material: nylon or polyester umbrella cloth."
       },
       {
        "f": "A bathroom mat",
@@ -981,7 +981,7 @@
      "kid": "Ask a question. Listen to yes or no. Guess the job.",
      "ask": [
       {
-       "q": "It grips, and nothing else matters. What is it?",
+       "q": "A card says only 'Needs: grip'. Which job is it, and which material is good?",
        "good": [
         "A tray mat. Rubber would be good."
        ]
@@ -1197,14 +1197,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the tilt test, which material usually holds the katori on the steepest tilt?",
+     "p": "In the tilt test, what do we measure?",
      "opts": [
-      "Newspaper",
-      "Rubber bands",
-      "A plastic sheet"
+      "How high the lifted end is when the katori slides",
+      "How heavy the katori is",
+      "How long the board is"
      ],
-     "a": 1,
-     "why": "Rubber is soft. It squashes into the tiny bumps under the katori, so it grips. Picking plastic may mean thinking smooth things grip, but smooth and hard means fewer places touch.",
+     "a": 0,
+     "why": "We read the height of the lifted end at the moment the katori starts to slide. A bigger height means more grip.",
      "context": "This question is about the tilt test. You put a steel katori on a board covered with different materials, lift one end slowly, and measure how high it is when the katori slides.",
      "how": "e1"
     },
@@ -1378,12 +1378,12 @@
       },
       {
        "who": "Gurpreet, aged 8",
-       "says": "Make it of plastic. A steel slide gets burning hot in the summer sun."
+       "says": "Make it of plastic. A steel slide gets burning hot in the summer sun, and plastic hurts less."
       }
      ],
      "ask": "Which would you choose? Give a reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks one and gives a reason, such as 'plastic stays cooler'. It also gives the other side its due, such as 'steel lasts longer'.",
+     "a": "A strong answer picks one and gives a reason, such as 'plastic is not as hot to touch'. It also gives the other side its due, such as 'steel lasts longer'.",
      "why": "Both are real reasons. A slide has more than one job: to be slippery, to last, and to be safe to touch in the sun."
     },
     {
@@ -1439,14 +1439,14 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Meenakshi and her cousin Arjun are arguing about rubber.",
+     "p": "Meenakshi and her cousin Anitha are arguing about rubber.",
      "views": [
       {
        "who": "Meenakshi, aged 8",
        "says": "Rubber is a good material. It held the katori best in our tilt test."
       },
       {
-       "who": "Arjun, aged 7",
+       "who": "Anitha, aged 7",
        "says": "Rubber is a bad material. It made me stick halfway down the slide."
       }
      ],
@@ -1977,9 +1977,9 @@
  "roots": {
   "context": "We have tested which material grips a katori, and used the results to choose a tray mat and a slide. Now we ask what the tilt test tells us about materials, and about ourselves.",
   "deep_truth": {
-   "truth": "On your tilted board, the soft rubber held the hard steel katori long after the others let go. The rubber squashed into tiny bumps under the katori and touched it in many more places. The hard, smooth plastic touched only the tops of those bumps. So for grip, being soft can matter more than being strong.",
-   "habit": "We think hard, strong materials hold things best, and that soft ones are weak. In the tilt test, soft, squashy rubber gave by far the best grip.",
-   "evidence": "In the tilt test, the same katori with the same coins slid off the plastic at a low tilt and stayed on the rubber until the board was about twice as high. Rubber is soft enough to squash into the tiny bumps of a surface, so it touches in many more places. This is why tyres, chappal soles and the feet of a mixie are soft rubber."
+   "truth": "On your tilted board, the soft rubber held the hard steel katori long after the others let go. The rubber squashed into tiny bumps under the katori and touched it in many more places. The hard, smooth plastic touched only the tops of those bumps. So a soft material can grip better than a hard one.",
+   "habit": "We think hard materials hold things best, and that soft ones are weak. In the tilt test, soft rubber gave by far the best grip.",
+   "evidence": "In the tilt test, the same katori with the same coins slid off the plastic at a low tilt and stayed on the rubber until the board was much higher. Rubber is soft enough to squash into the tiny bumps of a surface, so it touches in many more places. This is why tyres, chappal soles and the feet of a mixie are soft rubber."
   },
   "three": {
    "who_am_i": "You need grip too. Your bare feet grip a dry floor, and slip on a soapy one.",
@@ -1991,7 +1991,7 @@
    {
     "source": "Plato, Republic, Book 1 (352e to 353a)",
     "teaching": "Socrates says you could cut a vine branch with a dagger or a kitchen knife. But nothing cuts it as well as a pruning knife, made for that job.",
-    "link": "Socrates chose the tool by the job, and so did you. Rubber was the pruning knife of the tray mat job."
+    "link": "Socrates says a tool is best when it is made for the job. You chose rubber for the tray mat in the same way."
    },
    {
     "source": "Zhuangzi, chapter 4 (In the World of Men), the carpenter and the oak at the shrine",
@@ -2010,8 +2010,8 @@
    }
   ],
   "other_view": {
-   "who": "Many engineers",
-   "view": "Some materials really are better for almost every job. A material that is strong, lasts long and is cheap wins again and again, so it is fair to call it a good material."
+   "who": "Some people",
+   "view": "A material that is strong, lasts long and is cheap does well at almost every job, so it is fair to call it a good material."
   },
   "practice": {
    "title": "Grip and slip with your hands",

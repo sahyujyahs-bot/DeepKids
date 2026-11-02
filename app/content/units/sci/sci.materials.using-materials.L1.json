@@ -3,7 +3,7 @@
  "title": "Using the right material: why a spoon is steel and a raincoat is plastic",
  "level": 1,
  "summary": {
-  "text": "A spoon made of paper would work for one scoop. After that it goes soft. Every job needs a material that suits it. A spoon must stay stiff in wet food, so most spoons are steel. A raincoat must keep water out and bend when you move, so many raincoats are plastic. Your child makes spoons from newspaper and card, tests them against a steel spoon, and wraps biscuits to see which material keeps the rain out.",
+  "text": "A paper spoon goes soft in wet food, so most spoons are steel. A raincoat must keep water out and bend when you move, so many raincoats are plastic. Your child makes spoons from newspaper and card, tests them against a steel spoon, and wraps biscuits to see which material keeps the rain out.",
   "art": "A girl at a kitchen table holding up a floppy newspaper spoon in one hand and a shiny steel spoon in the other, with a bowl of water and a bowl of curd in front of her."
  },
  "intro": {
@@ -63,7 +63,7 @@
    "status": "defined",
    "context": "This card says how people choose a material for a thing. It is what the spoon test showed.",
    "definition": "People choose a material that can do the thing's job, again and again, without going wrong.",
-   "description": "First ask what the thing must do. A spoon must carry wet food and stay stiff. A towel must soak up water. A window must let you see through it. Then choose a material that can do that. A material that is right for one job can be wrong for another.",
+   "description": "First ask what the thing must do. A spoon must carry wet food and stay stiff. A towel must soak up water. A material that is right for one job can be wrong for another.",
    "examples": [
     "A towel is made of cotton cloth, because cloth absorbs water.",
     "A window is made of glass, because you can see through glass.",
@@ -77,7 +77,7 @@
    "status": "defined",
    "context": "This card explains why the newspaper spoon and the card spoon went soft in the spoon test.",
    "definition": "Paper and card are made of tiny threads from plants, called fibres. Water gets in between the fibres, and they stop holding each other tightly.",
-   "description": "Tear a piece of paper slowly. At the torn edge you can see tiny hairs. These are the fibres. When paper is dry, the fibres hold on to each other, and the paper is stiff. When water soaks in, it gets between the fibres. They loosen their hold, and the paper goes soft and floppy. Steel does not soak up water, so water cannot get inside it.",
+   "description": "Tear a piece of paper slowly. At the torn edge you can see tiny hairs. These are the fibres. When paper is dry, the fibres hold on to each other, so it is stiff. When water soaks in, it gets between them and they let go, so the paper goes soft. Steel does not soak up water, so water cannot get inside it.",
    "examples": [
     "A paper boat goes soft in a puddle after a few minutes.",
     "A wet paper bag tears easily.",
@@ -91,7 +91,7 @@
    "status": "defined",
    "context": "This card says why most spoons in Indian kitchens are steel. It follows the spoon test.",
    "definition": "Most spoons are made of steel, a metal, because steel is stiff and strong, and it does not soak up water.",
-   "description": "A spoon goes into hot rasam, thick curd and soapy washing water every day. Steel stays the same through all of this. It does not go soft, bend or crack. It can be washed in hot water, and it lasts for years. A plastic spoon also keeps water out. But a thin plastic spoon can go soft and bend in very hot food. Wood is used for spoons too, because it does not get hot in the hand.",
+   "description": "A spoon goes into hot rasam, thick curd and soapy water every day. Steel does not go soft, bend or crack, and it lasts for years. A thin plastic spoon can bend in very hot food. Wood is used for some spoons because it stays cool in the hand.",
    "examples": [
     "A steel spoon in a tumbler of hot payasam stays stiff.",
     "A long steel ladle stirs a big pot of sambar.",
@@ -105,7 +105,7 @@
    "status": "defined",
    "context": "This card says why raincoats are made of plastic. It follows the Biscuit in the Rain activity.",
    "definition": "Many raincoats are made of plastic, or of cloth with a thin layer of plastic or rubber on it, because plastic is waterproof and flexible.",
-   "description": "A raincoat must do two jobs. It must keep the rain out, so it must be waterproof. It must also bend when you walk and lift your arms, so it must be flexible. Plastic does both. A paper raincoat would get soggy and tear. A cotton raincoat would soak up the rain. A steel raincoat would keep you dry, but you could not bend in it.",
+   "description": "A raincoat has two jobs. It must keep the rain out, so it must be waterproof. It must bend when you walk and lift your arms, so it must be flexible. Plastic does both. A paper raincoat would go soggy and tear. A steel raincoat would keep you dry, but you could not bend in it.",
    "examples": [
     "A child's raincoat for the school walk in the Mumbai monsoon.",
     "A plastic sheet over an auto-rickshaw seat, or over a scooter.",
@@ -118,7 +118,7 @@
    "concept": "One job, many materials",
    "status": "debated",
    "context": "This card is about plates. Different families choose different materials for the same job, and each has a reason.",
-   "description": "A plate must hold food. A banana leaf, a steel plate and a paper plate can all do this job. Each one is good in some ways and not in others. People argue about which is best.",
+   "description": "A plate must hold food. A banana leaf, a steel plate and a paper plate can all do this job. Each one is good in some ways and not in others. People disagree about which is best.",
    "examples": [
     "A banana leaf for a meal at a wedding in Tamil Nadu or Kerala.",
     "A steel plate at home every day.",
@@ -135,7 +135,7 @@
     },
     {
      "who": "People who worry about paper plates",
-     "explanation": "Paper plates are easy for a party. But many have a thin plastic layer inside, so they do not rot well in the soil."
+     "explanation": "Paper plates are easy for a party. But some have a thin plastic layer inside, so they do not rot well in the soil."
     }
    ],
    "art": "Three plates side by side with rice and sambar on each: a green banana leaf, a shiny steel plate and a white paper plate."
@@ -148,7 +148,7 @@
   },
   {
    "text": "Paper and card are made of plant fibres, and water makes the fibres loosen their hold on each other.",
-   "evidence": "Under a magnifying glass, the torn edge of paper shows tiny fibres. Wet paper tears far more easily than dry paper."
+   "evidence": "At the torn edge of paper you can see tiny fibres. Wet paper tears far more easily than dry paper."
   },
   {
    "text": "Plastic is waterproof, so it is used for things that must keep water in or out.",
@@ -185,9 +185,9 @@
    "hint": "Think of a towel and a raincoat. Could one material soak up water and keep it out?"
   },
   {
-   "q": "The card came from a tree that drank water. Is that why the card soaks up water?",
+   "q": "Paper is made from trees, and trees take up water. Does paper still behave a little like the tree?",
    "kind": "deep",
-   "hint": "Both the tree and the card are made of plant fibres."
+   "hint": "The wood of a tree and paper are both made of plant fibres, and both take up water."
   },
   {
    "q": "If you could invent a new material, what job would it do?",
@@ -209,18 +209,15 @@
    "Then Ammu's boat began to lean. Its sides went dark and soft. It sank lower and lower, and then it folded in half. Joel's boat did the same, a moment later.",
    "'My boat broke,' said Joel. His lip shook.",
    "Ammu picked up her boat. It was cold and floppy, like a wet leaf. She squeezed it, and water ran out between her fingers. 'It didn't break,' she said slowly. 'It drank the water.'",
-   "Back upstairs, Ammamma put the soggy boats on a steel plate. 'The shape was right,' she said. 'A boat shape floats. But paper drinks water, and then it goes soft. A boat for a long trip needs a material that does not drink water.'",
+   "Back upstairs, Ammamma put the soggy boats on a steel plate. 'The shape was right,' she said. 'But paper drinks water, and then it goes soft. A boat for a long trip needs a material that does not drink water.'",
    "'Like what?' asked Ammu.",
    "Ammamma smiled. 'Look around the kitchen. What keeps water in, and does not drink it?'",
    "Ammu looked. The steel tumbler kept water in, but she could not fold a tumbler. The glass jar kept water in, but she could not fold glass either. Then she saw the empty milk packet by the sink.",
    "'Plastic!' she said. 'The milk packet keeps the milk in. And I can fold it.'",
-   "Ammamma cut the packet open and washed it. It was thin and slippery, and it kept springing open. Ammu held each fold with her thumb while Ammamma pressed it flat. At last they had a shiny plastic boat.",
-   "'Now you show Joel,' said Ammamma. So Ammu showed Joel how to fold the second packet, one fold at a time. 'Hold it down hard,' she told him. 'Plastic likes to spring back.'",
+   "Ammamma cut the packet open and washed it. It was thin and slippery. Ammu held each fold with her thumb while Ammamma pressed it flat. At last they had a shiny plastic boat.",
+   "'Now you show Joel,' said Ammamma. So Ammu showed Joel how to fold the second packet, one fold at a time. 'Hold it down hard,' she told him. 'Plastic springs back.'",
    "They ran down again. The rain had slowed to a drizzle. They put the two plastic boats on the stream.",
    "The boats sailed past the scooters. They sailed past the gate. They spun round in a little whirl near the drain, and Joel shouted. Ammu caught them both before they went down the drain. They were wet outside, but not soft at all.",
-   "That night, Ammu put her plastic boat on the shelf next to her toothbrush. Ammamma hung up the big umbrella to dry.",
-   "'Ammamma,' said Ammu, 'why is your umbrella made of cloth? Cloth drinks water too.'",
-   "'Good question,' said Ammamma. 'My umbrella cloth has a thin waterproof layer on it, so the rain runs off. When I was a girl in our village, we had umbrellas made of dried palm leaves. They kept the rain off too.'",
    "Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel for spoons. And palm leaves for umbrellas.'",
    "'Every job has its own material,' said Ammamma, and she switched off the light."
   ],
@@ -271,16 +268,17 @@
     }
    ],
    "rules": [
-    "Draw the 16 cards on paper and cut them out. Draw a small drawing on each card, so you can play without reading.",
+    "Print the 16 cards and cut them out. On each card, draw what the brackets say, so you can play without reading.",
     "Mix the cards and lay them face down in 4 rows of 4.",
     "On your turn, turn over two cards.",
     "If they are a job and its material, say why that material suits the job. If you can say why, keep the pair.",
     "If they do not match, turn them face down again. The next player has a turn.",
-    "When all the cards are gone, the player with the most pairs wins."
+    "When all the cards are gone, the player with the most pairs wins. If you have the same number, you both win.",
+    "With 2 players, a parent and a child take turns. With 4, everyone takes turns in a circle."
    ],
    "setup": [
     {
-     "art": "Sixteen small hand-drawn cards face down on a mat in four rows of four.",
+     "art": "Sixteen small printed cards face down on a mat in four rows of four.",
      "caption": "1. Lay the cards face down in 4 rows."
     },
     {
@@ -346,7 +344,7 @@
    "id": "g2",
    "title": "Raindrop Hop",
    "mins": 10,
-   "players": "1 or more players and one caller. A grown-up is the caller.",
+   "players": "2 or more players. One person is the caller, and you swap after 6 cards.",
    "context": "This is a moving game. Four material signs lie on the floor. The caller says a job, and you hop to the material that suits it.",
    "printables": [
     {
@@ -415,12 +413,14 @@
     }
    ],
    "rules": [
-    "Draw the four signs on four sheets of paper and lay them on the floor, a big step apart.",
-    "Players stand in the middle.",
+    "Print the four signs and lay them on the floor, a big step apart.",
+    "Print the 12 job cards. One player is the caller and holds them. The other players stand in the middle.",
     "The caller reads a job card out loud.",
-    "Each player hops to the material that suits the job, and says why.",
+    "Each other player hops to the material that suits the job, and says why.",
     "The caller reads the back of the card. A player with a good reason gets one point.",
-    "Some jobs have two right answers. If you can say why, you get the point."
+    "Some jobs have two right answers. If you can say why, you get the point.",
+    "After 6 cards, swap: a new player becomes the caller and reads the other 6 cards.",
+    "When the last card is done, add up the points. The player with the most points wins. If you have the same number, you both win."
    ],
    "setup": [
     {
@@ -428,7 +428,7 @@
      "caption": "1. Lay the four signs on the floor."
     },
     {
-     "art": "A girl hopping onto the sheet with a towel on it while her aunt reads a card.",
+     "art": "A girl hopping onto the sheet with a towel on it while a grown-up reads a card.",
      "caption": "2. Hear the job. Hop to the right material."
     }
    ],
@@ -436,7 +436,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the four signs on the floor. 2. Name each one with your child.",
+     "do": "1. Lay the four printed signs on the floor. 2. Name each one with your child.",
      "say": "When I say a job, hop to the material for that job. Then tell me why.",
      "kid": "Listen to the job. Hop to the right material. Say why."
     },
@@ -476,7 +476,7 @@
    "context": "In this experiment you make two spoons, one from newspaper and one from card. You carry water with them and with a steel spoon. Then you leave all three in water, and try to stir thick curd.",
    "question": "Why are spoons made of steel? Would a spoon made of paper or card work just as well?",
    "predict": "Guess first. After three minutes in water, which spoon will still stir thick curd? Why do you think so?",
-   "fair_test": "All three spoons are about the same size and shape. Each one carries five scoops of water. Then all three sit in the same bowl of water for the same three minutes. Only the material is different.",
+   "fair_test": "All three spoons are about the same length. Each one carries five scoops of water. Then all three sit in the same bowl of water for the same time. If you add two more minutes, all three get them. Only the material is different.",
    "results_table": [
     "Spoon",
     "My guess",
@@ -493,7 +493,7 @@
      "qty": 1
     },
     {
-     "item": "a strip of thin card cut from an empty biscuit or cereal box, about 3 fingers wide and as long as the steel spoon",
+     "item": "a strip of thin plain brown card from an empty biscuit or cereal box (not shiny), about 3 fingers wide and as long as the steel spoon",
      "qty": 1
     },
     {
@@ -574,7 +574,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Fold the newspaper four times into a thick strip. 2. Bend one end up and tape it into a small scoop. 3. Cut the card strip. 4. Bend its end up the same way and tape it.",
+     "do": "1. Fold the newspaper four times into a thick strip. 2. Bend one end up and tape it into a small scoop. 3. Your grown-up cuts the card strip. 4. Bend its end up the same way and tape it.",
      "say": "We are making two new spoons. One is newspaper and one is card. What are they made of? What is our steel spoon made of?",
      "kid": "Watch the spoons being made. One is paper. One is card.",
      "ask": [
@@ -591,7 +591,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Put the three spoons in a row. 2. Ask your child to guess. 3. Draw or write each guess in the table.",
+     "do": "1. Put the three spoons in a row. 2. Ask your child to guess. 3. Draw each guess in the table, or write it for them.",
      "say": "Soon all three spoons will sit in water for three minutes. Then we will stir thick curd. Which spoons will still stir it? Why do you think so?",
      "kid": "Guess. Which spoon will still stir curd after a bath in water? Why?",
      "ask": [
@@ -648,7 +648,7 @@
        ]
       }
      ],
-     "parent": "The card should now be soft and bend in the curd. If it is still stiff, put it back in the water for two more minutes and try again. If you have a plastic spoon, test it too. It works like the steel spoon."
+     "parent": "The card should now be soft and bend in the curd. A thin newspaper strip folded four times may take longer than card to go soft. If either paper spoon is still stiff, put all three spoons back in the water for two more minutes, the steel spoon too so it stays fair, and try again. Shiny card with a plastic coating stays stiff much longer, so use plain card. If you have a plastic spoon, test it too. It works like the steel spoon."
     },
     {
      "id": "s6",
@@ -676,7 +676,7 @@
        "The steel spoon"
       ],
       "a": 2,
-      "why": "Steel does not soak up water, so it stays stiff. The newspaper and the card soaked up water and went soft."
+      "why": "Steel does not soak up water, so it stays stiff. The newspaper and the card soaked up water and went soft. If a paper spoon was slow to go soft, it still goes soft with more time."
      }
     }
    ]
@@ -688,7 +688,7 @@
    "title": "The Biscuit in the Rain: which wrapper keeps it dry?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you wrap biscuits in plastic, paper and cloth. Then you make it rain on them with your fingers, and see which biscuit stays dry and crisp.",
+   "context": "In this activity you wrap biscuits in plastic, paper and cloth. Then you make it rain on them with a spoon of water, and see which biscuit stays driest.",
    "materials": [
     {
      "item": "4 plain biscuits, such as Marie biscuits",
@@ -711,16 +711,16 @@
      "qty": 1
     },
     {
-     "item": "a tumbler of water",
+     "item": "a tumbler of water and a spoon",
      "qty": 1
     }
    ],
-   "safety": "Keep the plastic bag away from faces. Throw away any wet biscuit.",
+   "safety": "Keep the plastic bag away from faces.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Wrap three biscuits, leave one bare, sprinkle water over them, and unwrap to see which stayed dry."
+     "what": "Wrap three biscuits, leave one bare, sprinkle water over them, and unwrap to see which stayed driest."
     }
    ],
    "record": "Draw the four biscuits after the rain. Colour the wet parts blue. Draw a smiley face on the biscuit that stayed driest.",
@@ -734,7 +734,7 @@
      "caption": "2. Make it rain with your fingers."
     },
     {
-     "art": "The unwrapped biscuits: a dry one from the plastic, a damp one from the hanky, a soggy one from the paper napkin and a soggy bare one.",
+     "art": "The unwrapped biscuits: a dry one from the plastic, a slightly damp one from the hanky, a softer damp one from the paper napkin and a wet-patched bare one.",
      "caption": "3. Unwrap. Which biscuit is dry?"
     }
    ],
@@ -759,32 +759,32 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child dips their fingers in the water and flicks drops over each biscuit. 2. Do this ten times for each one. 3. Wait one minute.",
-     "say": "Now it is raining! Ten flicks for each biscuit. Let's count.",
-     "kid": "Make it rain! Flick water ten times on each biscuit.",
-     "parent": "Give each biscuit the same rain. That way, only the coat is different."
+     "do": "1. Stand the four biscuits on the plate. 2. Your child sprinkles three spoonfuls of water, slowly, over each biscuit. 3. Wait two minutes.",
+     "say": "Now it is raining! Three spoonfuls for each biscuit. Let's count.",
+     "kid": "Make it rain! Sprinkle three spoonfuls of water on each biscuit.",
+     "parent": "Give each biscuit the same rain, from the same height. That way, only the coat is different."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Unwrap each biscuit. 2. Your child touches each one and says if it is dry, damp or soggy.",
+     "do": "1. Wipe the water off each wrapper. 2. Unwrap each biscuit. 3. Your child touches each one and says if it is dry, damp or soggy.",
      "say": "Let's open the coats. Touch each biscuit. Is it dry, damp or soggy?",
      "kid": "Open each coat. Touch the biscuit. Is it dry or wet?",
      "ask": [
       {
-       "q": "Which biscuit stayed dry?",
+       "q": "Which biscuit stayed driest?",
        "good": [
         "The one in plastic.",
         "Plastic kept the rain out."
        ]
       }
      ],
-     "parent": "The biscuit in plastic stays dry and crisp. The paper napkin soaks through fast, so that biscuit goes soft. The hanky biscuit is usually damp. The bare one is soggy."
+     "parent": "The biscuit in plastic should be the driest. The paper and the hanky let some water through, so those biscuits are usually damp, and the paper one is often the softest. The bare one has wet, soft patches. How wet each one gets depends on how much water went on, so compare the biscuits with each other. If the plastic has a gap, water runs in."
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "Talk about raincoats. Then eat the dry biscuit, and throw away the wet ones.",
+     "do": "Talk about raincoats. Then eat the driest biscuit, if it is dry and clean, and put the wet ones in the bin.",
      "say": "Which coat would you want in the rain? Why is a raincoat made of plastic?",
      "kid": "Which coat would you wear in the rain? Why?",
      "ask": [
@@ -799,7 +799,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Which wrapper kept the biscuit dry?",
+      "q": "Which wrapper kept the biscuit driest?",
       "options": [
        "The paper napkin",
        "The plastic",
@@ -933,14 +933,14 @@
      "what": "Act out dry paper, wet paper and steel."
     }
    ],
-   "record": "Draw your family holding hands as dry paper threads, and again as wet paper threads.",
+   "record": "Draw yourselves holding hands as dry paper threads, and again as wet paper threads.",
    "setup": [
     {
-     "art": "A mother, a girl and a grandmother standing in a line holding hands tightly, with a sign saying DRY PAPER.",
+     "art": "A grown-up and a girl standing in a line holding hands tightly, with a sign saying DRY PAPER.",
      "caption": "1. Hold hands tightly. You are dry paper threads."
     },
     {
-     "art": "The same family holding hands loosely with only fingertips, while water drops are drawn falling on them, and a sign saying WET PAPER.",
+     "art": "The same two people holding hands loosely with only fingertips, while water drops are drawn falling on them, and a sign saying WET PAPER.",
      "caption": "2. Water comes! Hold only with your fingertips."
     }
    ],
@@ -1061,26 +1061,27 @@
      "id": "s2",
      "mins": 10,
      "do": "Your child chooses two more things, from the bathroom or the bedroom, and draws them.",
-     "say": "Look at the bucket and the towel. Why is the bucket plastic and the towel cloth?",
+     "say": "Look at a bucket and a towel. Why is the bucket plastic and the towel cloth?",
      "kid": "Draw two more things. Why is each one made of its material?",
      "wait": "Do this on the next day."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child draws a silly swap on the last page, such as a paper umbrella or a glass pillow. 2. They show the whole book to the family.",
+     "do": "1. Your child draws a silly swap on the last page, such as a glass pillow or a woollen spoon. 2. They show the whole book to the family.",
      "say": "Draw something made of the wrong material. What would go wrong?",
      "kid": "Draw a silly swap. What goes wrong?",
      "ask": [
       {
-       "q": "What would go wrong with a paper umbrella?",
+       "q": "What would go wrong with a glass pillow?",
        "good": [
-        "It would get soggy and tear.",
-        "The rain would come through."
+        "It would be hard and hurt your head.",
+        "It could break."
        ]
       }
      ],
-     "wait": "Do this on the third day."
+     "wait": "Do this on the third day.",
+     "parent": "Write the swap and what goes wrong under the drawing, in your child's words."
     }
    ]
   }
@@ -1103,20 +1104,20 @@
     "kitchen foil",
     "card from an empty box",
     "sticky tape",
-    "a big leaf, if you have one, or a piece of banana leaf",
+    "a big leaf, if you have one",
     "two bowls, one with water"
    ],
    "general": [
     "Tape a bottle cap to an ice-cream stick. The cap holds water and keeps it in.",
     "In Kerala and other coastal parts of India, people have long made ladles from half a coconut shell, fixed to a wooden or bamboo handle.",
-    "Fold a piece of banana leaf into a scoop. Banana leaves are waxy, so water rolls off."
+    "If you have a big waxy leaf, such as a banana leaf, fold it into a scoop. Waxy leaves are waterproof, so water rolls off."
    ],
    "creative": [
     "Wrap the card spoon tightly in foil, so the water cannot reach the card.",
     "Use two ice-cream sticks for a stronger handle.",
     "Make a spoon from two materials: a foil scoop on a stick handle."
    ],
-   "your_turn": "Make your spoon and test it with five scoops of water. Did it go soft? Draw your spoon, and label each material and its job.",
+   "your_turn": "Make your spoon and test it with five scoops of water. Did it go soft? Draw your spoon. A grown-up writes the label for each material and its job.",
    "setup": [
     {
      "art": "A bottle cap taped to an ice-cream stick, a card spoon wrapped in foil, and a folded piece of banana leaf on a table.",
@@ -1150,7 +1151,7 @@
      "do": "1. Your child builds a spoon. 2. Help with the tape, but let them choose.",
      "say": "Which part holds the water? Which part do you hold?",
      "kid": "Build your spoon. Which part holds the water?",
-     "parent": "A bottle cap on a stick works well. A card spoon wrapped in foil works while the foil has no holes."
+     "parent": "A bottle cap on a stick works well. Wet tape lets go, so wrap the tape round and round and keep it dry. A card spoon wrapped in foil works while the foil has no holes."
     },
     {
      "id": "s3",
@@ -1190,44 +1191,31 @@
      "p": "Draw a line from each thing to its material.",
      "pairs": [
       [
-       "A spoon",
-       "Steel"
+       "A pencil",
+       "Wood"
       ],
       [
-       "A raincoat",
-       "Plastic"
+       "A rubber chappal",
+       "Rubber"
       ],
       [
-       "A towel",
-       "Cotton cloth"
-      ],
-      [
-       "A window",
+       "A pickle jar",
        "Glass"
+      ],
+      [
+       "A kite",
+       "Paper"
       ]
      ],
      "a": "pairs as given",
-     "why": "A spoon must stay stiff, so steel. A raincoat must keep rain out and bend, so plastic. A towel must soak up water, so cloth. A window must let you see out, so glass.",
-     "art": "A spoon, a raincoat, a towel and a window on the left, and the words steel, plastic, cotton cloth and glass on the right, mixed up."
-    },
-    {
-     "t": "mcq",
-     "p": "Which spoon is best for stirring a pot of hot sambar?",
-     "opts": [
-      "A steel spoon",
-      "A paper spoon",
-      "A cloth spoon"
-     ],
-     "a": 0,
-     "why": "Steel stays stiff in hot, wet food. Paper and cloth soak up the sambar and go soft.",
-     "art": "A pot of sambar with steam, and three spoons beside it: steel, paper and cloth."
+     "why": "A pencil is wood, which is easy to sharpen. A rubber chappal bends and keeps your feet out of the wet. A pickle jar is glass, so you can see the pickle and the jar does not soak it up. A kite is paper, which is light.",
+     "art": "A pencil, a rubber chappal, a pickle jar and a kite on the left, and the words wood, rubber, glass and paper on the right, mixed up."
     },
     {
      "t": "truefalse",
-     "p": "In the Spoon Test, the card spoon worked just as well after three minutes in water.",
-     "a": false,
-     "why": "False. After three minutes in water, the card spoon went soft and bent in the curd. The steel spoon still worked.",
-     "how": "e1"
+     "p": "A cloth bag left out in the rain gets wet through.",
+     "a": true,
+     "why": "True. Cloth soaks up water, so a cloth bag in the rain gets wet through. A plastic bag would keep the rain out."
     },
     {
      "t": "draw",
@@ -1309,23 +1297,22 @@
      "why": "A strong answer says what paper does in wet food, such as 'it goes soft' or 'it drinks the water', and what steel does instead."
     },
     {
-     "t": "mcq",
-     "p": "Lakshmi, a girl in Class 1, wraps a biscuit in plastic. Then she flicks water on it. What happens to the biscuit?",
-     "opts": [
-      "It stays dry",
-      "It goes soggy",
-      "It melts"
-     ],
-     "a": 0,
-     "why": "Plastic is waterproof, so the water cannot reach the biscuit. In the Biscuit in the Rain activity, the biscuit in plastic stayed dry.",
-     "how": "a1"
+     "t": "draw",
+     "p": "Draw a boat that would not go soft in a puddle. Tell a grown-up what it is made of.",
+     "a": "A drawing of a boat made of plastic, foil or another material that keeps water out.",
+     "why": "A strong drawing shows a boat made of a material that does not soak up water, such as plastic, and the child can say why paper is not used."
     },
     {
      "t": "draw",
-     "p": "Draw the card spoon and the steel spoon after three minutes in water.",
-     "a": "A drawing of a bent, soft card spoon and a straight steel spoon.",
-     "why": "A strong drawing shows the card spoon bent or floppy, and the steel spoon straight. It may also show the curd.",
-     "how": "e1"
+     "p": "Draw something at home that is made of glass. Tell a grown-up its job.",
+     "a": "A drawing of a glass thing, such as a window, a jar or a tumbler, with its job said aloud.",
+     "why": "A strong drawing shows a glass thing, and the child says its job, such as letting light in so you can see out."
+    },
+    {
+     "t": "truefalse",
+     "p": "Paper goes soft when it is wet.",
+     "a": true,
+     "why": "True. Water gets in between the tiny plant fibres in paper, and they stop holding each other tightly."
     }
    ]
   },
@@ -1344,7 +1331,7 @@
        "says": "Steel is best, because it never goes soft."
       },
       {
-       "who": "Farhan, her brother, aged 5",
+       "who": "Karthik, her brother, aged 5",
        "says": "Plastic is best, because it is light and red."
       },
       {
@@ -1383,12 +1370,6 @@
      "how": "a2"
     },
     {
-     "t": "draw",
-     "p": "Draw an umbrella made of paper in heavy rain. What happens to it?",
-     "a": "A drawing of a soggy, torn paper umbrella, with rain coming through.",
-     "why": "A strong drawing shows the paper going soft and tearing, and the person getting wet."
-    },
-    {
      "t": "match",
      "p": "Match each problem to the fix.",
      "pairs": [
@@ -1411,15 +1392,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Spoon Test, why did the card spoon go soft?",
+     "p": "The handle of a steel pan is often wood or plastic. Why?",
      "opts": [
-      "Water got in between its tiny plant threads",
-      "The water melted it, like ice",
-      "The spoon was too long"
+      "Wood and plastic stay cooler in the hand",
+      "Steel is too soft for a handle",
+      "Wood and plastic are heavier than steel"
      ],
      "a": 0,
-     "why": "Card is made of tiny plant threads called fibres. Water gets between them, and they loosen their hold. Card does not melt like ice.",
-     "how": "e1"
+     "why": "Steel gets hot on the flame. Wood and plastic do not carry the heat to your hand as fast, so they stay cooler."
     },
     {
      "t": "write",
@@ -1457,6 +1437,12 @@
      ],
      "why": "First we make the spoons. Then we carry water. Then the spoons sit in water. Last, we see which one can still stir.",
      "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "One thing can be made of more than one material.",
+     "a": true,
+     "why": "True. An umbrella has a cloth cover, metal rods and a plastic or wooden handle. Each part has its own job."
     }
    ]
   }
@@ -1517,19 +1503,19 @@
   },
   {
    "t": "mcq",
-   "p": "Why is a spoon not made of paper?",
+   "p": "Which spoon is best for a non-stick pan?",
    "opts": [
-    "Paper soaks up the food and goes soft",
-    "Paper is too heavy",
-    "Paper is too shiny"
+    "A wooden spoon",
+    "A steel spoon",
+    "A metal fork"
    ],
    "a": 0,
-   "why": "Paper absorbs water and loses its stiffness. A paper spoon would bend after a few scoops.",
-   "outcome": 1
+   "why": "Wood does not scratch the pan. Steel can scratch it.",
+   "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "Waterproof means:",
+   "p": "What does waterproof mean?",
    "opts": [
     "Water cannot get through",
     "It soaks up water",
@@ -1553,19 +1539,19 @@
   },
   {
    "t": "mcq",
-   "p": "Why is a steel raincoat a bad idea?",
+   "p": "Why are rubber boots good in the monsoon?",
    "opts": [
-    "It is too stiff to move in",
-    "It lets the rain in",
-    "It soaks up water"
+    "Rubber is waterproof and bends",
+    "Rubber soaks up the rain",
+    "Rubber is stiff like steel"
    ],
    "a": 0,
-   "why": "Steel is waterproof, so it would keep the rain out. But it is stiff and heavy, so you could not bend or walk easily.",
+   "why": "Rubber keeps water out, and it bends when you walk.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "In the Spoon Test, Arjun leaves a steel spoon and a card spoon in water for three minutes. Then he stirs thick curd. What happens?",
+   "p": "In the Spoon Test, Arjun, a boy in Class 1, leaves a steel spoon and a card spoon in water for three minutes. Then he stirs thick curd. What happens?",
    "opts": [
     "The steel spoon stirs, and the card spoon bends",
     "Both spoons bend",
@@ -1591,7 +1577,7 @@
   },
   {
    "t": "mcq",
-   "p": "Paper is made of tiny plant threads called:",
+   "p": "What are the tiny plant threads in paper called?",
    "opts": [
     "Fibres",
     "Bubbles",
@@ -1666,36 +1652,32 @@
   },
   {
    "j": "Why did the towel go to the beach?",
-   "a": "To soak up the sun, and the sea."
-  },
-  {
-   "j": "What is a steel spoon's favourite dance?",
-   "a": "The stir and twirl."
+   "a": "To soak up the sun."
   },
   {
    "j": "Why didn't the umbrella get the joke?",
    "a": "It went right over its head."
   },
   {
-   "j": "What do you call a raincoat made of paper?",
-   "a": "A soggy-coat."
+   "j": "What do you call a paper boat in the rain?",
+   "a": "A soggy sailor!"
   },
   {
-   "j": "Why was the ladle so calm in the hot sambar?",
-   "a": "It's made of steel. Nothing makes it go soft."
+   "j": "What music do raincoats like?",
+   "a": "Drip-hop!"
   },
   {
-   "j": "What did the biscuit say to its plastic wrapper?",
-   "a": "Thanks for keeping me crisp!"
+   "j": "Why was the spoon invited to every party?",
+   "a": "It was great at stirring things up."
   },
   {
-   "j": "Why did the paper boat cry?",
-   "a": "It was feeling a bit drained."
+   "j": "Why did the biscuit hide inside plastic?",
+   "a": "It did not want to get into a soggy situation."
   }
  ],
  "maths": [
   {
-   "problem": "In the Spoon Test, Nila carried 5 scoops with the steel spoon and 5 scoops with the card spoon. How many scoops did she carry in all?",
+   "problem": "In the Spoon Test, Nila, a girl in Class 1, carried 5 scoops with the steel spoon and 5 scoops with the card spoon. How many scoops did she carry in all?",
    "answer": "10 scoops.",
    "explain": "5 and 5 more make 10. Count on from 5: 6, 7, 8, 9, 10.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1704,7 +1686,7 @@
    "why_maths": "Adding tells us how much water the spoons moved together."
   },
   {
-   "problem": "Pooja's newspaper spoon dripped after 1 scoop. Her card spoon went soft after 6 scoops. Her steel spoon was still fine after 10 scoops. Put the spoons in order, from lasting the shortest to the longest.",
+   "problem": "Pooja, a girl in Class 1, tests three spoons. Her newspaper spoon dripped after 1 scoop. Her card spoon went soft after 6 scoops. Her steel spoon was still fine after 10 scoops. Put the spoons in order, from lasting the shortest to the longest.",
    "answer": "Newspaper, then card, then steel.",
    "explain": "1 is less than 6, and 6 is less than 10. So the newspaper spoon lasted the shortest time, and the steel spoon lasted the longest.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1713,7 +1695,7 @@
    "why_maths": "Putting numbers in order shows at a glance which material lasted longest."
   },
   {
-   "problem": "In the Biscuit in the Rain activity, Divya flicked 10 drops on each of 4 biscuits. Then she counted the dry biscuits: 1. How many were not dry?",
+   "problem": "In the Biscuit in the Rain activity, Divya, a girl in Class 1, sprinkled water on 4 biscuits. Then she counted the dry ones: 1. How many were not dry?",
    "answer": "3 biscuits were not dry.",
    "explain": "4 biscuits take away 1 dry biscuit leaves 3. Those were the paper, cloth and bare biscuits.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1841,16 +1823,16 @@
  "roots": {
   "context": "We have tested spoons in water and wrapped biscuits in the rain. Now we ask what the spoon test tells us about things, and about ourselves.",
   "deep_truth": {
-   "truth": "Your card spoon had the same shape as the steel spoon. After three minutes in water, the card went soft and bent. Water got between its plant threads, and they loosened their hold on each other. A shape can do its job only while the material holding it stays together.",
+   "truth": "Your card spoon had the same shape as the steel spoon. After its bath in water, the card went soft and bent. Water got between its plant threads, and they loosened their hold on each other. A shape can do its job only while the material holding it stays together.",
    "habit": "We name things by their shape and their job: a spoon, a boat, a raincoat. But the shape is held up by a material. If the material changes, the shape cannot do its job, even though it still looks the same.",
-   "evidence": "In the Spoon Test, the card spoon and the steel spoon were the same size and shape. After three minutes in water, the card spoon bent over in thick curd, and the steel spoon stirred it. At the torn edge of the soft card, tiny fibres could be seen."
+   "evidence": "In the Spoon Test, the card spoon and the steel spoon were the same size and shape. After its bath in water, the card spoon bent over in thick curd, and the steel spoon stirred it. At the torn edge of the soft card, tiny fibres could be seen."
   },
   "three": {
    "who_am_i": "Your body is made of many materials too. Hard bones hold you up, and soft, flexible skin lets you bend and keeps rain out.",
    "what_is_life": "Living beings make materials for their own jobs. A banana plant makes waxy leaves, so rain rolls off them. A spider makes silk for her web.",
    "what_is_this_world": "The world is full of materials, and each one meets water, heat and pushes in its own way. That is why each job has its own material."
   },
-  "thread": "Everything is made of tiny particles called atoms, and the same few kinds of atoms make every material. Joined one way, they make stiff steel. Joined another way, a plant makes soft fibres, and the fibres make paper. Everything is conscious, the plant threads and the steel too, and each material meets water in its own way. One world of atoms becomes many materials, and each material suits its own jobs.",
+  "thread": "Steel, paper, plastic and cloth are all made of atoms, and the same few kinds of atoms make every material. How the atoms are joined decides how a material behaves in water. Everything is conscious, the plant fibres and the steel too, and each material meets water in its own way.",
   "teachings": [
    {
     "source": "Tirukkural 517, by Thiruvalluvar",
@@ -1884,16 +1866,17 @@
    "kid": "Hold a spoon and a paper. Put one drop on each. Breathe slowly. Watch both drops. Where did the paper's drop go?"
   },
   "ask": [
-   "When the card spoon went soft, was it still a spoon?",
-   "The card came from a plant that drank water. Is the card still a little like that plant?",
-   "Is there a material that could do every job?"
+   "Your body is made of materials too. Which parts are stiff, and which parts bend?",
+   "Why does a spider make silk and not paper for her web?",
+   "If you could swap the material of one thing at home, what would you swap, and what would go wrong?"
   ],
   "art": "A girl sitting still, holding a steel spoon with a round drop of water on it in one hand, and a paper with a spreading wet patch in the other."
  },
  "how_we_found_out": {
-  "story": "For a long time, steel spoons and knives went rusty and stained. Lemon, tamarind and vinegar left dark marks on them. People believed that steel always rusts when it gets wet, so they dried and polished their knives after every meal. In 1913, in the steel-making city of Sheffield in England, a scientist named Harry Brearley was testing new kinds of steel. He had started work as a boy, washing bottles in a steel lab. Brearley mixed a metal called chromium into steel. To look at steel closely, scientists usually wash it with acid, which marks the surface. But the acid hardly marked Brearley's new steel. He saw that it did not rust either. Brearley thought it would make good knives and spoons. A cutler tested it with vinegar, and it stayed bright. People called it stainless steel. Scientists in Germany and France were making similar steels at about the same time. Today, most spoons, plates and tumblers in Indian kitchens are stainless steel.",
+  "story": "For a long time, steel spoons and knives went rusty and stained. Lemon, tamarind and vinegar left dark marks on them. People believed that steel always rusts when it gets wet, so they dried and polished their knives after every meal. In 1913, in the steel-making city of Sheffield in England, a scientist named Harry Brearley was testing new kinds of steel. He had started work as a boy, washing bottles in a steel lab. Brearley mixed a metal called chromium into steel. Acid marks ordinary steel, but it hardly marked Brearley's new steel. It did not rust either. Brearley thought it would make good knives and spoons. A cutler tested it with vinegar, and it stayed bright. People called it stainless steel. Today, most spoons, plates and tumblers in Indian kitchens are stainless steel.",
   "who": "Harry Brearley (1871 to 1948), a scientist in Sheffield, England, who started work as a boy washing bottles in a steel lab",
   "when": "1913",
   "wrong_idea": "Steel always rusts when it gets wet, so a steel spoon will always go dark and rusty."
- }
+ },
+ "playtest": "Walked the unit as a parent and a six-year-old in a flat. Card printables now say print, not draw; Raindrop Hop has a swapping caller so two people can play and a winner. Removed three video entries with no checked address and internal notes, a magnifying glass the experiments never use, two story paragraphs that repeated the umbrella fact, and repeated questions (hot sambar spoon, biscuit in plastic, paper umbrella). Made the paper-plate fact and two jokes truer and funnier, shortened the Brearley account, and stopped the deep truth promising the card goes soft in exactly three minutes. Steps, minutes and schedules agree. Not tried in a real kitchen: how fast thick card softens, so the notes say to wait longer for all three spoons."
 }

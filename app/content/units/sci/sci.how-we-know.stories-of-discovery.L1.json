@@ -24,7 +24,7 @@
   {
    "term": "Curious",
    "meaning": "Being curious means wanting to know more about something. A curious person asks lots of questions.",
-   "example": "Meenakshi was curious about why the haldi stain went red, so she asked Paati.",
+   "example": "Meenakshi, a girl in this unit's story, was curious about why the haldi stain went red, so she asked her grandmother.",
    "art": "A girl crouching to look closely at a red spot on a shirt, with a big question mark floating above her head."
   },
   {
@@ -37,7 +37,7 @@
    "term": "Discovery",
    "meaning": "A discovery is finding out something about the world that people did not know before.",
    "example": "Finding out that soap turns haldi red was a discovery for you.",
-   "art": "A child holding up a paper with a red soap spot on yellow haldi, smiling and showing it to her grandmother."
+   "art": "A child holding up a paper with a red soap spot on yellow haldi, smiling and showing it to a grown-up."
   },
   {
    "term": "Test",
@@ -65,7 +65,7 @@
    "status": "defined",
    "context": "This card says who can be a scientist. The answer is: anyone who keeps asking and trying.",
    "definition": "A scientist is anyone who finds out about the world by looking closely, asking questions and testing ideas.",
-   "description": "Scientists are not a special kind of person born clever. They are people who stay curious and keep trying. Some started as children. Mary Anning was about 12 when she and her brother found the bones of a huge sea animal that lived long ago, on a beach in England. Some had little money and no big laboratory. Tu Youyou never had a doctorate, the top university degree, but she found a medicine that has saved millions of lives. Women and girls have always done science, even when people tried to stop them.",
+   "description": "Scientists are not a special kind of person born clever. They are people who stay curious and keep trying. Some started as children. Mary Anning was about 12 when she and her brother found the bones of a huge sea animal that lived long ago, on a beach in England. Some had little money and no big laboratory. Tu Youyou did not have a doctorate, the top university degree, but she found a medicine that has saved millions of lives. Women and girls have always done science, even when people tried to stop them.",
    "examples": [
     "Mary Anning dug up fossils on the beach as a girl, in about 1811 and 1812.",
     "Janaki Ammal, from Thalassery in Kerala, grew new kinds of sugarcane that grow well in Indian fields.",
@@ -129,7 +129,7 @@
   {
    "claim": "Old medicine books always have the right answer.",
    "who": "Some people today",
-   "for": "Tu Youyou found the clue to her malaria medicine in a book about 1,600 years old.",
+   "for": "Tu Youyou found the clue to her malaria medicine in a book about 1,700 years old.",
    "against": "Tu Youyou's team tested hundreds of old recipes against malaria. Most did not work. Only careful testing showed which one did. An old book can give a clue, and a test shows if the clue is right.",
    "status": "rejected",
    "context": "This card is about old books and new tests."
@@ -195,7 +195,7 @@
    "\"What else can turn it red?\" asked Arjun.",
    "\"Let's find out,\" said Meenakshi. Now she was the teacher.",
    "They tried salt water. It stayed yellow. They tried sugar water. Yellow. They tried lemon juice. Yellow.",
-   "Then Paati took the tin of cooking soda that Amma used for the idli batter on busy days. She mixed a pinch with water. Meenakshi dabbed it on the paper. The spot turned orange-red.",
+   "Then Paati took the tin of cooking soda that Amma kept for making bajji. She mixed a pinch with water. Meenakshi dabbed it on the paper. The spot turned orange-red.",
    "\"Soap and cooking soda,\" said Meenakshi slowly. \"Those two make it red. The others don't.\"",
    "Arjun looked at the red spots. \"Can you make it yellow again?\"",
    "Meenakshi did not know. She tried lemon juice on a red spot. Slowly, the red went pale. Then it was yellow again.",
@@ -226,8 +226,8 @@
    "id": "g1",
    "title": "True or False? Who Found Out",
    "mins": 15,
-   "players": "1 to 4 players and a grown-up",
-   "context": "This is a card game of surprising facts. Some are true and some are false. People found out each one by asking and testing. You jump to the True side or the False side, then turn the card over.",
+   "players": "1 to 4 children and a grown-up",
+   "context": "This is a card game of surprising facts. Some are true and some are false. People found out each one by asking and testing. You jump to the True side or the False side, then the grown-up turns the card over.",
    "printables": [
     {
      "kind": "cards",
@@ -263,7 +263,7 @@
       },
       {
        "f": "Plants can feel a touch.",
-       "b": "True. A touch-me-not plant folds up their leaves when you touch them."
+       "b": "True. Touch-me-not plants fold up their leaves when you touch them."
       },
       {
        "f": "The Earth spins round once every day.",
@@ -294,11 +294,11 @@
    ],
    "rules": [
     "Put the TRUE sign on one side of the room and the FALSE sign on the other.",
-    "Stand in the middle. The grown-up reads a card aloud.",
+    "Stand in the middle. The grown-up reads a card aloud and keeps score with tally marks on paper.",
     "Jump to TRUE or FALSE. Say why you think so.",
     "The grown-up turns the card over and reads the back.",
-    "If you were right, keep the card. If not, put it in the middle.",
-    "When the cards are finished, count your cards."
+    "If you were right, you get one tally mark. If not, no mark, and nobody minds: it is a good surprise.",
+    "Put the card aside and read the next one. When the cards are finished, count the marks. Most marks wins. If you are playing alone, try to beat your own count next time."
    ],
    "setup": [
     {
@@ -321,19 +321,19 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Read each card aloud. Wait for the jump and a reason. Then read the back.",
+     "do": "Read each card aloud. Wait for the jump and a reason. Then read the back and give a tally mark to anyone who was right.",
      "say": "Here is a card. Is it true or false? Why do you think so? Now let's turn it over.",
      "kid": "Listen to the card. Jump to True or False. Say why.",
      "ask": [
       {
-       "q": "Why do you think the Moon makes its own light, or does not?",
+       "q": "Does the Moon make its own light? Why do you think so?",
        "good": [
-        "It is bright, so it makes light.",
-        "The Sun shines on it."
+        "Yes, because it is bright at night.",
+        "No, because the Sun shines on it."
        ]
       }
      ],
-     "parent": "Wrong jumps are good. Many grown-ups think the Moon makes its own light, and that all dinosaurs are gone. Ask how people might have found out."
+     "parent": "Wrong jumps are good. Many people are surprised that birds are dinosaurs, and that the Moon has no light of its own. Ask how people might have found out."
     },
     {
      "id": "s3",
@@ -373,7 +373,7 @@
       "Notice: listen. Say one sound you can hear.",
       "Wonder: ask one question about your hands.",
       "Try: blow on your hand softly, then hard. What changes?",
-      "Notice: say one thing that smells good in the kitchen.",
+      "Notice: say one thing that smells good at home.",
       "Wonder: ask one question about the sky.",
       "Try: hold a steel spoon and a wooden spoon. Which feels colder?",
       "Story: name one curious person from this unit.",
@@ -391,16 +391,16 @@
       "a button",
       "a small stone",
       "a coin",
-      "a dice, or six folded paper slips numbered 1 to 3, twice"
+      "a dice, or six folded paper slips numbered 1, 2, 3, 1, 2, 3"
      ]
     }
    ],
    "rules": [
     "Put your counters on Start.",
-    "Take turns to roll the dice and move.",
+    "Take turns to roll the dice and move that many squares.",
     "Do what your square says. Everyone listens.",
-    "If you do it, stay there. If you are stuck, the others can help.",
-    "The first player to reach Finish wins."
+    "If you are stuck, the others can help you. Then your turn ends.",
+    "The first player to reach Finish wins. If your roll takes you past Finish, you still win."
    ],
    "setup": [
     {
@@ -408,7 +408,7 @@
      "caption": "1. Draw the path of squares."
     },
     {
-     "art": "Two children and a grandmother around the board, one child dropping a spoon and a paper ball at the same time.",
+     "art": "Two children and a grown-up around the board, one child dropping a spoon and a paper ball at the same time.",
      "caption": "2. Move, then do what your square says."
     }
    ],
@@ -453,7 +453,7 @@
   {
    "id": "e1",
    "title": "The Haldi Test: which kitchen liquids turn haldi red?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you paint yellow haldi on paper. Then you touch it with six kitchen liquids, one at a time. You find out which ones turn the haldi red.",
    "question": "A haldi stain can turn red in the wash. Which kitchen liquids turn haldi red?",
@@ -474,8 +474,8 @@
      "qty": 1
     },
     {
-     "item": "6 small steel katoris or cups",
-     "qty": 6
+     "item": "small steel katoris or cups: 6 for the liquids and 1 for the haldi",
+     "qty": 7
     },
     {
      "item": "a lemon, cut by a grown-up",
@@ -502,11 +502,11 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the lemon and mixes the soap and cooking soda water. Keep soap water and lemon away from eyes. Haldi stains clothes and fingers yellow, so wear old clothes and work on newspaper.",
+   "safety": "A grown-up cuts the lemon.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Guess, make the haldi paper, test six liquids, and say what you found."
     }
    ],
@@ -532,8 +532,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Show the yellow haldi and the six liquids. 2. Draw the results table together. 3. Ask for a guess and a reason for each liquid. Write the guesses.",
+     "mins": 3,
+     "do": "1. Show the haldi powder and the six liquids you will use. 2. Draw the results table together. 3. Ask for a guess and a reason for each liquid. Write the guesses.",
      "say": "A haldi stain can turn red in the wash. Which of our kitchen liquids does that? For each one, red or yellow? Why?",
      "kid": "Look at the six liquids. Which ones will turn haldi red? Why?",
      "ask": [
@@ -550,33 +550,33 @@
     },
     {
      "id": "s2",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Put a little of each liquid in its own katori. Plain water. Lemon juice. Salt water. Sugar water. 2. Rub the wet soap bar in a katori of water until it is cloudy. 3. Stir a pinch of cooking soda into water.",
      "say": "I am making soap water and soda water. You can help with salt and sugar. Stir until they disappear.",
      "kid": "Help stir the salt and the sugar into water.",
      "adult": true,
-     "parent": "Use a bar of washing soap or bathing soap, or washing powder. Some mild liquid hand washes and shampoos do not turn haldi red. Keep soap water away from eyes."
+     "parent": "Use a bar of washing soap or bathing soap, or washing powder. Some mild liquid hand washes and shampoos do not turn haldi red."
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 4,
      "do": "1. Mix half a teaspoon of haldi with three spoons of water. 2. Paint it thickly on the paper with fingers or a brush. 3. Draw six boxes in pencil and write or draw a liquid in each.",
      "say": "Paint the whole paper yellow. Make it nice and thick. Now we draw six boxes, one for each liquid.",
      "kid": "Paint the paper yellow with haldi. Draw six boxes.",
-     "parent": "The paper can stay damp. The colour change shows even better on damp haldi."
+     "parent": "The paper can stay damp. The colour change shows even better on damp haldi. Haldi stains clothes and fingers, so wear old clothes."
     },
     {
      "id": "s4",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Dip a clean cotton bud in plain water. 2. Dab it in the first box. 3. Wait and watch for ten seconds. 4. Mark the table. 5. Do the same for each liquid, with a clean bud each time.",
      "say": "One drop, in its own box. Watch it. Is it red or yellow? Now the next one, with a clean bud.",
      "kid": "Dab one liquid in its box. Watch. Is it red?",
-     "parent": "Soap water turns the haldi deep red at once. Cooking soda water usually turns it orange-red. Water, lemon, salt and sugar leave it yellow. If the soap box stays yellow, try a different soap bar or washing powder."
+     "parent": "Soap water turns the haldi deep red at once. Cooking soda water usually turns it orange-red. Water, lemon, salt and sugar leave it yellow. If the soap box stays yellow, try a different soap bar or washing powder. Dab small drops, far apart, so the boxes do not run into each other."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look at the paper and the table together. Ask for a claim, the evidence and a reason.",
+     "do": "Look at the paper and the table together. Ask which liquids turned the haldi red and how your child knows.",
      "say": "What did you find out? Which liquids turned haldi red? How do you know? Was any guess different from what happened?",
      "kid": "Which liquids turned it red? How do you know?",
      "ask": [
@@ -628,9 +628,12 @@
     {
      "item": "cotton buds",
      "qty": 4
+    },
+    {
+     "item": "a bar of washing soap or bathing soap, wet",
+     "qty": 1
     }
    ],
-   "safety": "Keep lemon juice and soap water away from eyes.",
    "schedule": [
     {
      "day": 1,
@@ -669,7 +672,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Add a few drops of plain water to spot one, salt water to spot two and lemon juice to spot three. Watch for half a minute.",
+     "do": "Add a few drops of plain water to spot one and salt water to spot two. Add just two or three drops of lemon juice to spot three. Watch for half a minute.",
      "say": "Water on the first. Salt water on the second. Lemon on the third. Watch closely.",
      "kid": "Add one liquid to each red spot. Watch.",
      "parent": "The lemon spot fades to orange and then yellow. It may need a few more drops. Water and salt water leave the spot red."
@@ -677,7 +680,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Add soap water to the yellow lemon spot again. Talk about what you saw.",
+     "do": "Rub the wet soap bar on the yellow lemon spot. If it stays yellow, rub more soap on. Talk about what you saw.",
      "say": "Now soap on the lemon spot. What happens? What does that tell us?",
      "kid": "Put soap on it again. What happens?",
      "check": {
@@ -689,8 +692,9 @@
        "Nothing ever changes it again"
       ],
       "a": 0,
-      "why": "The haldi colouring is still there. Soap turns it red, and lemon turns it yellow, as many times as you like."
-     }
+      "why": "The haldi colouring is still there. Soap turns it red, and lemon turns it yellow again."
+     },
+     "parent": "Lemon used up the soap first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon."
     }
    ]
   }
@@ -722,7 +726,7 @@
    "record": "A drawing of one thing you noticed, with your wonder question written by a grown-up underneath.",
    "setup": [
     {
-     "art": "A girl and her grandmother looking out of a flat window at a tree, a crow on a wire and clouds.",
+     "art": "A child and a grown-up looking out of a flat window at a tree, a crow on a wire and clouds.",
      "caption": "1. Look out quietly. What do you notice?"
     },
     {
@@ -802,7 +806,6 @@
      "qty": 1
     }
    ],
-   "safety": "Keep soap water away from eyes. Haldi stains clothes, so work on newspaper.",
    "schedule": [
     {
      "day": 1,
@@ -912,8 +915,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in cold water. Card 2 says: Try again and again. Card 3 says: Heat can spoil a medicine. Card 4 says: Test carefully, to be safe. Then tell the short story.",
-     "say": "Long ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.",
+     "do": "Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in water and squeeze out the juice. Card 2 says: Most medicines are boiled, but this one says soak. Card 3 says: Try again and again. Card 4 says: Test carefully, to be safe. Then tell the short story.",
+     "say": "More than fifty years ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.",
      "kid": "Tu Youyou looked for a medicine in old books. Find her clues!"
     },
     {
@@ -927,28 +930,28 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Act out the story. Your child is Tu Youyou. You are her team.",
-     "say": "Tu Youyou read that the plant was soaked in cold water. But people usually boiled plants to make medicine. What did she wonder?",
-     "kid": "You are Tu Youyou. You read 'cold water'. What do you wonder?",
+     "do": "Act out the story. Your child is Tu Youyou and you are her team. Your child holds the leaf in the cup of cool water, squeezes it, and says what she wonders.",
+     "say": "Tu Youyou read that the plant was soaked in water and the juice squeezed out. It did not say to boil it. But people usually boiled plants to make medicine. What did she wonder?",
+     "kid": "You are Tu Youyou. You read 'soak and squeeze'. What do you wonder?",
      "ask": [
       {
        "q": "What did she wonder?",
        "good": [
         "Maybe heat spoils the medicine.",
-        "Why cold water and not hot?"
+        "Why soak it and not boil it?"
        ]
       }
      ],
      "check": {
       "t": "mcq",
-      "q": "Tu Youyou guessed that heat was spoiling the medicine. What did she do next?",
+      "q": "In the clue hunt, the old book gave Tu Youyou a clue. What did her test do?",
       "options": [
-       "She made it without much heat and tested it",
-       "She gave up",
-       "She only read more books"
+       "It showed whether her guess was right",
+       "It wrote a new book",
+       "It changed nothing"
       ],
       "a": 0,
-      "why": "A guess has to be tested. She made the medicine without much heat, and it worked. The test showed her guess was right."
+      "why": "A clue is only a start. She made the medicine without much heat and tested it, and the test showed her guess was right."
      }
     }
    ]
@@ -1020,7 +1023,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Your child reads the book to someone, with your help.",
-     "say": "Read your book to Appa or Paati. Tell them what you found, and what you want to find out next.",
+     "say": "Read your book to someone in the family. Tell them what you found, and what you want to find out next.",
      "kid": "Read your book to someone. Tell them what you found.",
      "wait": "Do this the next day",
      "ask": [
@@ -1063,7 +1066,7 @@
     "Draw a kolam or a rangoli pattern in soap water, so a pattern appears in red.",
     "Send a little packet of haldi with the card."
    ],
-   "your_turn": "Now design your own hidden card. Test it on a spare paper first. Did the message stay hidden until it was brushed?",
+   "your_turn": "Now design your own hidden card. Did the message stay hidden until it was brushed? What would you change?",
    "setup": [
     {
      "art": "A folded white card with crayon flowers on the front and the words 'Brush me with haldi water!'",
@@ -1094,17 +1097,17 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child writes the message or draws a pattern in thick soap water and lets it dry. Then they decorate the outside.",
+     "do": "Your child writes the message in thick soap water on the card, and on a spare paper the same way. Let both dry. Then they decorate the outside.",
      "say": "Write your message in soap water. Let it dry. Now decorate the front.",
      "kid": "Write in soap water. Let it dry. Decorate the front.",
-     "parent": "Test a small piece first. Thin soap water may give only a faint pink."
+     "parent": "Thin soap water may give only a faint pink, so go over the letters twice."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Test a spare paper made the same way. Talk about it.",
-     "say": "Did the message stay hidden? Did it appear when you brushed it? What would you change?",
-     "kid": "Did it stay hidden? Did it appear? What would you change?"
+     "do": "Brush haldi water on the spare paper. Talk about it.",
+     "say": "Did the message stay hidden? Did it appear when you brushed it?",
+     "kid": "Did it stay hidden? Did it appear?"
     }
    ]
   }
@@ -1198,7 +1201,7 @@
     "In a dream"
    ],
    "a": 0,
-   "why": "She read a book written about 1,600 years ago. It said to soak the plant in cold water.",
+   "why": "She read a book written about 1,700 years ago. It said to soak the plant in water and squeeze out the juice.",
    "outcome": 3
   },
   {
@@ -1253,15 +1256,15 @@
   },
   {
    "t": "mcq",
-   "p": "Paati saw haldi stains go red for sixty years. Why did she only find out what did it when Meenakshi asked?",
+   "p": "Aryabhata lived in India about 1,500 years ago. What did he write about the Earth?",
    "opts": [
-    "Because they asked a question and tested it",
-    "Because the soap was new",
-    "Because Paati was old"
+    "It spins round",
+    "It is flat",
+    "It is a square"
    ],
    "a": 0,
-   "why": "Seeing something is the start. Asking why and testing is how you find out.",
-   "outcome": 0
+   "why": "Aryabhata wrote in the year 499 that the Earth spins. People in every land have made discoveries.",
+   "outcome": 4
   }
  ],
  "worksheets": [
@@ -1314,15 +1317,14 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Haldi Test? You put lemon juice on the yellow haldi. What happened?",
+     "p": "In the story, Meenakshi rubbed the haldi paper hard with a dry finger and it stayed yellow. What did that show?",
      "opts": [
-      "It turned red",
-      "It stayed yellow",
-      "It turned blue"
+      "Rubbing is not what turns haldi red",
+      "Haldi never changes",
+      "Soap is not needed"
      ],
-     "a": 1,
-     "why": "Lemon juice leaves haldi yellow. Many children guess lemon will turn it red, because it is sour and strong.",
-     "how": "e1"
+     "a": 0,
+     "why": "She tried the rubbing on its own, and nothing changed. So the red came from something else: the soap."
     },
     {
      "t": "match",
@@ -1363,6 +1365,12 @@
      "how": "e1"
     },
     {
+     "t": "fill",
+     "p": "Fill the gap: A scientist notices something, asks a ____, and tries things to find out.",
+     "a": "question",
+     "why": "A scientist starts with a question. Then she tries things to find the answer."
+    },
+    {
      "t": "label",
      "p": "Here is a girl being a scientist. Put an E on what she notices with, a Q on her question, and an H on what she tests with.",
      "a": "E on her eyes, Q on the question mark above her head, H on her hands holding the cotton bud.",
@@ -1380,17 +1388,6 @@
      ],
      "a": 2,
      "why": "'The fan is on' tells us something. The others ask something. Scientists start with questions."
-    },
-    {
-     "t": "mcq",
-     "p": "Who taught Paati something new in the story?",
-     "opts": [
-      "Meenakshi, aged six",
-      "A teacher at school",
-      "The television"
-     ],
-     "a": 0,
-     "why": "Meenakshi asked why, and tested soap, water and rubbing. Paati learned with her. A child can teach a grown-up."
     },
     {
      "t": "perspective",
@@ -1456,6 +1453,12 @@
      "how": "a2"
     },
     {
+     "t": "truefalse",
+     "p": "A strange new idea must be wrong.",
+     "a": false,
+     "why": "False. A strange idea is not always wrong, and not always right. Scientists test it to find out."
+    },
+    {
      "t": "fill",
      "p": "Fill the gap: A guess becomes knowledge only after we ____ it.",
      "a": "test",
@@ -1467,12 +1470,6 @@
      "lines": 3,
      "a": "For example: Does a wet cloth dry faster in the sun? I could hang one in the sun and one in the shade and check which dries first.",
      "why": "A strong answer has a real question and a test that changes only one thing."
-    },
-    {
-     "t": "truefalse",
-     "p": "Tu Youyou's team tested hundreds of old recipes, and most did not work against malaria.",
-     "a": true,
-     "why": "True. Testing showed which recipe worked. An old book gave a clue, and testing showed it was right."
     },
     {
      "t": "perspective",
@@ -1490,6 +1487,12 @@
      "ask": "Who is right? Use Tu Youyou's story. What would you tell each of them?",
      "a": "Neither is fully right. The old book gave Tu Youyou a clue, but most old recipes did not work. She tested them to find out which one did.",
      "why": "A strong answer says that an old idea and a new idea both need testing. It gives each person credit for part of their view."
+    },
+    {
+     "t": "truefalse",
+     "p": "Scientists share what they find, so other people can test it too.",
+     "a": true,
+     "why": "True. A discovery made in one country, like the malaria medicine, can be tested and used in every country."
     },
     {
      "t": "label",
@@ -1522,13 +1525,6 @@
      "a": "pairs as given",
      "why": "Soap and cooking soda turn haldi red. Lemon keeps it yellow, and turns red haldi yellow again.",
      "how": "e2"
-    },
-    {
-     "t": "write",
-     "p": "Many people have seen haldi stains go red and never asked why. Say it to a grown-up: why do you think they never asked?",
-     "lines": 2,
-     "a": "For example: They were busy. They saw it so often that it did not seem strange.",
-     "why": "A strong answer sees that things we see every day stop surprising us. Scientists keep asking about ordinary things."
     }
    ]
   }
@@ -1572,7 +1568,7 @@
    "why_open": "Nobody knows. A big discovery is something nobody knows yet, so nobody can say what it will be."
   },
   {
-   "q": "Are other animals curious the way we are?",
+   "q": "What is curiosity like for a crow, an octopus or a rat?",
    "why_open": "Crows, octopuses, rats and many other animals explore new things. Scientists are still finding out what curiosity is like for each of them."
   }
  ],
@@ -1601,10 +1597,6 @@
    "a": "Thanks for making me myself again!"
   },
   {
-   "j": "Why did the question mark go to the doctor?",
-   "a": "Nobody had an answer for him."
-  },
-  {
    "j": "What do you call a scientist who reads old books?",
    "a": "A page-turner!"
   },
@@ -1623,30 +1615,30 @@
  ],
  "maths": [
   {
-   "problem": "Meenakshi tested 6 liquids on haldi. 2 turned it red. How many stayed yellow?",
+   "problem": "In the story, Meenakshi tested 6 liquids on haldi. 2 turned it red. How many stayed yellow?",
    "answer": "4 liquids stayed yellow.",
    "explain": "6 liquids in all. 2 went red. 6 take away 2 is 4.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
-   "context": "This is about the Haldi Test, where you put six liquids on haldi paper.",
+   "context": "This is about the haldi test, where six liquids are put on haldi paper.",
    "why_maths": "Taking away the red ones shows how many liquids left haldi yellow."
   },
   {
-   "problem": "Lakshmi guessed that 4 liquids would turn haldi red. Only 2 did. Was her guess too many or too few? By how many?",
+   "problem": "Lakshmi, a girl of six, guessed that 4 liquids would turn haldi red. Only 2 did. Was her guess too many or too few? By how many?",
    "answer": "Too many, by 2.",
    "explain": "4 is more than 2. 4 take away 2 is 2. She guessed 2 more than really turned red.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e1",
-   "context": "This is about the Haldi Test, where you guessed first and then tested.",
+   "context": "This is about the haldi test, where six liquids are put on haldi paper.",
    "why_maths": "Comparing the guess with the result shows how far off the guess was."
   },
   {
-   "problem": "Arjun made a tally of the colours in his test: red, yellow, yellow, red, yellow, yellow. Make tally marks for red and for yellow. Which colour came up more?",
+   "problem": "Arjun, Meenakshi's brother in the story, made a list of the colours in his test: red, yellow, yellow, red, yellow, yellow. Make tally marks for red and for yellow. Which colour came up more?",
    "answer": "Red: 2 tally marks. Yellow: 4 tally marks. Yellow came up more.",
    "explain": "Count each colour and make one mark for each. Yellow has 4 marks and red has 2, so yellow came up more.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "e1",
-   "context": "This is about the Haldi Test, with six boxes on the haldi paper.",
+   "context": "This is about the haldi test, where six liquids are put on haldi paper.",
    "why_maths": "Tally marks help us count results quickly and see which happened more often."
   }
  ],
@@ -1757,7 +1749,7 @@
   "founder": [
    "ideas/by_topic/how-we-know.md, 'Stories of science and the True/False card game': the founder's true-or-false fact cards. Used for game g1, rewritten for age 6, with each answer saying how people found out. 'Trees don't talk to each other' was left out because it needs more than one line to explain fairly.",
    "ideas/by_topic/how-we-know.md, 'Grade concept grid: Fringe Science', Grade 1: new ideas must be tested, not just imagined, and some strange ideas later succeed. Used for the 'challenging' cards and for the guess-then-test thread.",
-   "ideas/by_topic/how-we-know.md, SCI Cards: Tu Youyou (cold extraction clue from Ge Hong, tested on herself first). Used for how_we_found_out and activity a3.",
+   "ideas/by_topic/how-we-know.md, SCI Cards: Tu Youyou (low-heat clue from Ge Hong, tested on herself first). Used for how_we_found_out and activity a3.",
    "Ladder: Level 3 (sci.how-we-know.stories-of-discovery.L3) is about lucky accidents and missing names, with the Too-Weak Tape Test, Hot or Cold freezing, Jocelyn Bell's pulsar, the curd story, penicillin and the panakam credit game. This unit repeats none of those. It comes first: scientists are curious people who notice, ask and test, and anyone can do it. Level 3 then shows that discoveries often come from surprises and accidents, and asks who gets the credit."
   ],
   "science": [
@@ -1786,11 +1778,11 @@
    "what_is_life": "Every living being explores. A baby tests a surprising toy, a crow pokes at something new, and a plant's roots search the soil for water.",
    "what_is_this_world": "The world is full of things nobody has asked about yet. Even your kitchen holds answers waiting for a question."
   },
-  "thread": "Questions are not only in people. A plant's roots search the soil, a crow turns over a new thing, an ant tries a new path. Everything is conscious in its own way, and every living being asks the world something and waits for an answer. When you asked the haldi a question with soap, the haldi answered in red. Being curious is one way the whole world comes to know itself.",
+  "thread": "A baby tests a toy that surprised them. A crow turns over something new. An ant tries a new path. Many living beings explore the world around them. Scientists still disagree about how much each of them wonders. People are animals too, and our questions are one kind of exploring among many.",
   "teachings": [
    {
     "source": "Plato, Theaetetus 155d",
-    "teaching": "Socrates, a thinker in ancient Greece, said that wonder is the feeling of a philosopher, a lover of wisdom. Wisdom has no other beginning than wonder.",
+    "teaching": "Socrates, a thinker in ancient Greece, said that wonder is the feeling of a philosopher, a lover of wisdom. He said philosophy has no other beginning than wonder.",
     "link": "Your haldi test began with wonder: why did the stain go red? The wondering came first, and the test came next."
    },
    {
@@ -1826,17 +1818,17 @@
   },
   "ask": [
    "Where do your questions come from?",
-   "Is there anything nobody will ever be able to find out?",
-   "When you asked the haldi a question with soap, did the haldi answer you?"
+   "Is there anything nobody will ever be able to find out?"
   ],
   "art": "A child sitting cross-legged holding a single curry leaf close to her eyes, with a soft question mark of light above her and a kitchen window behind."
  },
  "how_we_found_out": {
   "context": "How did people find a medicine for malaria? This card tells the true story of a scientist who found a clue in a very old book.",
-  "story": "Malaria is an illness that people get from mosquito bites. In 1969, Tu Youyou, a scientist in Beijing, China, was asked to find a new medicine for it. The old medicines were no longer working well. Tu and her team read very old books of Chinese medicine. They tested hundreds of old recipes made from plants. Most did not work. One plant, sweet wormwood, sometimes worked and sometimes did not. Tu read the plant's recipe again, in a book written about 1,600 years ago by a doctor called Ge Hong. It said to soak the leaves in water, squeeze out the juice and drink all the juice. The book did not say to boil the leaves. Most plant medicines were made by boiling. Tu wondered if the heat was spoiling the medicine. She made it a new way, without much heat. In 1971 it worked on mice and monkeys. Then she and two people on her team took it themselves first, to check it was safe. The medicine, artemisinin, has since saved millions of lives. In 2015, Tu Youyou won the Nobel Prize, though she never had a doctorate.",
-  "who": "Tu Youyou, a scientist in China, and her team, using a clue from Ge Hong, a doctor in China about 1,600 years ago",
+  "story": "Malaria is an illness that people get from mosquito bites. In 1969, a scientist called Tu Youyou, in Beijing, China, was asked to find a new medicine for it, because the old medicines were stopping working. Tu and her team read very old books and tested hundreds of plant recipes. Most did not work. One plant, sweet wormwood, worked only sometimes. Tu read its recipe again, in a book by a doctor called Ge Hong, written about 1,700 years ago. It said to soak the leaves in water and squeeze out the juice. It did not say to boil them. Most plant medicines were made by boiling. Tu wondered if heat was spoiling the medicine. So she made it a new way, without much heat. In 1971 it worked very well on mice and monkeys. Then she and her team took it themselves first, to check it was safe. The medicine, artemisinin, has since saved millions of lives. In 2015 Tu won the Nobel Prize, though she never had a doctorate.",
+  "who": "Tu Youyou, a scientist in China, and her team, using a clue from Ge Hong, a doctor in China about 1,700 years ago",
   "when": "1969 (Tu begins the search), 1971 (the low-heat medicine works in mice and monkeys), 1972 (first tests in people), 2015 (the Nobel Prize)",
-  "wrong_idea": "Most people made plant medicines by boiling them, so boiled extracts of sweet wormwood were tried first, and they worked only sometimes. Tu guessed the heat was spoiling the medicine. Her low-heat extract worked every time in her tests, which showed the heat had been the problem.",
+  "wrong_idea": "Most people made plant medicines by boiling them, so boiled sweet wormwood was tried first, and it worked only sometimes. Tu guessed the heat was spoiling the medicine. Her low-heat extract worked very well in mice and monkeys, which showed the heat had been the problem.",
   "art": "A woman scientist in a 1970s laboratory in Beijing, with a very old book open beside glass jars of green plant juice."
- }
+ },
+ "playtest": "Walked through the haldi test, the back-to-yellow test, the secret message, the clue hunt and the hidden card as a parent and child in a flat, with only kitchen things; they all work, and the soap and cooking soda reds and the lemon yellow are what turmeric really does. Both games were played through in my head with two players and with four. The True or False game now scores with tally marks, so cards no longer need to be 'kept' by several players, and the board game says what happens when a roll goes past Finish. I also removed repeated questions, a needless safety line, family members assumed in steps and art, and the unclear names in the maths, and made the Tu Youyou clue cards and acting use the leaf and cup. The three videos still need to be found and watched."
 }

@@ -99,7 +99,7 @@ One air fills the bottle, the room and your lungs. The same air carries the cook
 
 - **Nyaya Sutra 1.1.3, by Gautama (also called Akshapada):** There are four ways to know something truly: perception, inference, comparison, and the word of someone we can trust. The Nyaya teachers' favourite example: see smoke on a far hill, and you know there is fire, though you cannot see the flames. (In the door test, you heard a sound and inferred what made it. Opening the door was perception. The Nyaya teachers would say you used two of their four ways, one to check the other.)
 - **Zhuangzi, chapter 2 (the butterfly dream):** Zhuangzi, a Chinese thinker, dreamed he was a butterfly, flying happily, not knowing he was Zhuangzi. When he woke, he wondered: was he a man who had dreamed of being a butterfly, or a butterfly now dreaming of being a man? (Like Anju with her anklet, Zhuangzi felt the dream was real while he was in it. His question is the one the dream notebook asks: how do we tell a dream from waking?)
-- **Mandukya Upanishad, verses 3 to 7:** The Upanishad describes states that awareness passes through: waking, dreaming, and deep sleep with no dreams. It speaks of a fourth, called turiya, which is aware of all three. (Your dream notebook caught the dreaming state, and you woke into the waking one. The Upanishad says the same you is there in both.)
+- **Mandukya Upanishad, verses 3 to 7:** The Upanishad describes states that awareness passes through: waking, dreaming, and deep sleep with no dreams. It speaks of a fourth, called turiya, which is aware of all three. (Your dream notebook caught the dreaming state, and you woke into the waking one. The Upanishad treats them as two states that the same awareness passes through.)
 - Science (settled): Sound is a vibration that travels through air to the ear. A phone speaker and a tumbler both make real sounds this way.
 - Science (open): Why we dream, and how the brain decides that something feels real, are still open questions.
 - Other view, The Charvaka school of ancient India: They said only what we perceive directly can be trusted. A clue can mislead: what looks like smoke may be mist or dust. So, they said, inference does not give certain knowledge.
@@ -152,11 +152,11 @@ She froze. "Did you hear that?"
 
 "Hear what?" said Rahul.
 
-Anju did not trust her ears yet. This time she wanted to check. She picked up her old bedsheet and shook it. Chilum, chilum. "I heard it!" shouted Rahul. Anju felt along the folds of the sheet with her fingers. There was a small hard lump, caught in the hem where the stitches had come loose. She worked it out with her fingers. It was her kolussu.
+Anju did not trust her ears yet. This time she wanted to check. She picked up the old bedsheet from the pile and shook it. Chilum, chilum. "I heard it!" shouted Rahul. Anju felt along the folds of the sheet with her fingers. There was a small hard lump, caught in the hem where the stitches had come loose. She worked it out with her fingers. It was her kolussu.
 
 "It must have fallen into the bucket with the sheet," said Ammachi. "It went round in the washing, and then it hung on the line all day."
 
-Anju put it on her ankle. Chilum. "The dream showed me the kolussu," she said slowly. "But nothing else agreed with the dream. The jingle was different. I could shake the sheet again. Rahul heard it too. And I could feel it with my fingers."
+Anju put it on her ankle. Chilum. "The dream showed me the kolussu," she said slowly. "But the dream was wrong about where it was. This time I could check. I shook the sheet again, Rahul heard it too, and I felt it with my fingers."
 
 Rahul was thinking about something else. "Ammachi," he said, "is air real? I can't see it."
 
@@ -174,17 +174,17 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 
 ## Games
 ### g1 · Clue Pairs: what is there, and how do we know? (15 min)
-- **rules:** Before you play, draw a small sketch on each card, so a child who cannot read yet can play too.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; If one card is a thing we cannot see, and the other is the clue that tells us it is there, you may have a pair. Say why they go together.; Check by turning both cards over. A pair has the same pair number on the back. If it matches, keep the pair and have another turn.; If they are not a pair, turn them back face down. The next player has a turn.; When all the cards are taken, the player with the most pairs wins.
-- **Printable cards: 16 cards to cut out: 8 thing cards and 8 clue cards:** Air inside a balloon (back: Pair 1); The balloon is round and fat. (back: Pair 1); Wind outside (back: Pair 2); Clothes on the balcony line are flapping. (back: Pair 2); A pressure cooker in the next flat (back: Pair 3); You hear a whistle through the wall. (back: Pair 3); Jasmine flowers in the next room (back: Pair 4); A sweet smell comes through the door. (back: Pair 4); Rain in the night (back: Pair 5); The road is wet in the morning. (back: Pair 5); Air inside an 'empty' bottle (back: Pair 6); A bubble comes out when you tip the bottle under water. (back: Pair 6); A koel hidden in a tree (back: Pair 7); You hear 'koo-oo, koo-oo' from the leaves. (back: Pair 7); Someone frying vadas in the kitchen (back: Pair 8); You hear sizzling and smell hot oil. (back: Pair 8)
+- **rules:** Before you play, draw a small sketch on each card, so a child who cannot read yet can play too.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; If one card is a thing we cannot see, and the other is the clue that tells us it is there, you have a pair. Say why they go together.; If the other players agree that the two cards go together, you keep the pair and have another turn. If you cannot agree, ask a grown-up.; If they are not a pair, turn them back face down. The next player has a turn.; When all the cards are taken, the player with the most pairs wins.
+- **Printable cards: 16 cards to cut out: 8 thing cards and 8 clue cards:** Air inside a balloon (back: Clue Pairs); The balloon is round and fat. (back: Clue Pairs); Wind outside (back: Clue Pairs); Clothes on the balcony line are flapping. (back: Clue Pairs); A pressure cooker in the next flat (back: Clue Pairs); You hear a whistle through the wall. (back: Clue Pairs); Jasmine flowers in the next room (back: Clue Pairs); A sweet smell comes through the door. (back: Clue Pairs); Rain in the night (back: Clue Pairs); The road is wet in the morning. (back: Clue Pairs); Air inside an 'empty' bottle (back: Clue Pairs); A bubble comes out when you tip the bottle under water. (back: Clue Pairs); A koel hidden in a tree (back: Clue Pairs); You hear 'koo-oo, koo-oo' from the leaves. (back: Clue Pairs); Someone frying vadas in the kitchen (back: Clue Pairs); You hear sizzling and smell hot oil. (back: Clue Pairs)
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the 16 cards together. 2. Draw a small sketch on each one. 3. Lay them face down in 4 rows of 4.  
   *Parent says:* Each card is either a thing we cannot see, or a clue that tells us it is there. Let's draw on them first.  
   *Child mode:* Cut out the cards. Draw a sketch on each one. Lay them face down.
 - **s2 (9 min)**  
-  *Parent does:* 1. Take turns. 2. Each player turns over two cards and reads them aloud. 3. Ask why a pair goes together before checking the back.  
+  *Parent does:* 1. Take turns. 2. Each player turns over two cards and reads them aloud. 3. Ask why a pair goes together, and let the other players say if they agree.  
   *Parent says:* Is that a thing and its clue? Why do they go together?  
   *Child mode:* Turn two cards. Is it a thing and its clue? Say why.
-  - Note: Some clue cards could fit more than one thing. That is a good thing to talk about. The pair numbers on the back settle it for the game.
+  - Note: Some clue cards could fit more than one thing. That is a good thing to talk about. If players cannot agree, decide together which clue fits best.
 - **s3 (2 min)**  
   *Parent does:* 1. Count the pairs. 2. Ask the question below.  
   *Parent says:* Which of these could you check another way? How?  
@@ -192,7 +192,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   - Check: You hear a whistle through the wall. What is the best way to check that it was a pressure cooker? → **Ask the neighbour, or listen for it again at meal time**
 ### g2 · Dream or Awake? Spot the dream sign (12 min)
 - **rules:** Shuffle the cards and put them in a pile, face up.; Take turns. Read the top card aloud.; Say 'dream sign', 'awake' or 'check again', and give a reason.; Turn the card over and read the back. If you were right and gave a reason, keep the card.; If you were not right, put the card at the bottom of the pile.; When the pile is gone, the player with the most cards wins.
-- **Printable cards: 12 scene cards, with the answer on the back:** You open the fridge and it is full of stars. (back: Dream sign: fridges hold food, not stars.); Your school bag talks to you in your teacher's voice. (back: Dream sign: bags cannot talk. (Check: is there a phone inside?)); You read the clock: 7 o'clock. You look again: 3 o'clock. (back: Dream sign: awake, a clock moves on by a minute, not four hours.); You flap your arms and float up over Kochi. (back: Dream sign: arms cannot lift a person into the air.); Your classroom turns into your aunt's kitchen. (back: Dream sign: rooms do not change into other rooms.); An elephant fits in your pocket. (back: Dream sign: a grown elephant weighs as much as a small lorry.); Rain starts, and soon the road is wet. (back: Awake: this happens every monsoon.); You drop a steel tumbler and it clangs on the floor. (back: Awake: you can drop it again and hear the same clang.); A crow takes a piece of your dosa from the windowsill. (back: Awake: crows do this a lot.); A neighbour rings the bell with sweets for Pongal. (back: Awake: this can really happen.); On a hot day you see a puddle on the road ahead, but when you get there it is dry. (back: Awake: this is a mirage. Hot air bends light from the sky, so the road looks wet.); You press the light switch again and again, and the light stays off. (back: Check again: it could be a dream, or a power cut. Is the fan off too?)
+- **Printable cards: 12 scene cards, with the answer on the back:** You open the fridge and it is full of stars. (back: Dream sign: fridges hold food, not stars.); Your school bag talks to you in your teacher's voice. (back: Dream sign: bags cannot talk. (Check: is there a phone inside?)); You read the clock: 7 o'clock. You look again: 3 o'clock. (back: Dream sign: awake, a clock moves on by a minute, not four hours.); You flap your arms and float up over Kochi. (back: Dream sign: arms cannot lift a person into the air.); Your classroom turns into your aunt's kitchen. (back: Dream sign: rooms do not change into other rooms.); An elephant fits in your pocket. (back: Dream sign: an elephant is far too big for a pocket.); Rain starts, and soon the road is wet. (back: Awake: this happens every monsoon.); You drop a steel tumbler and it clangs on the floor. (back: Awake: you can drop it again and hear the same clang.); A crow takes a piece of your dosa from the windowsill. (back: Awake: crows do this a lot.); A neighbour rings the bell with sweets for Pongal. (back: Awake: this can really happen.); On a hot day you see a puddle on the road ahead, but when you get there it is dry. (back: Awake: this is a mirage. Hot air bends light from the sky, so the road looks wet.); You press the light switch again and again, and the light stays off. (back: Check again: it could be a dream, or a power cut. Is the fan off too?)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Explain the three answers: dream sign, awake, check again.  
   *Parent says:* A dream sign is something that could only happen in a dream. 'Check again' means you need another test first.  
@@ -209,14 +209,14 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   - Check: You press the light switch and the light stays off. What should you check? → **Whether the fan and other lights are off too**
 
 ## Experiments
-### e1 · Real or Recorded? Guess what is making the sound behind the door (26 min)
+### e1 · Real or Recorded? Guess what is making the sound behind the door (20 min)
 - **question:** Behind a closed door, can your ears tell a real sound from a phone recording of the same sound? Which sounds are hardest to tell?
 - **predict:** You will hear 8 sounds from behind the door. 4 will be real and 4 will come from a phone. How many do you think you will get right? Which sound will be hardest? Why do you think so?
 - **fair test:** Each of the four sounds is made once for real and once from the phone, so every sound gets the same chance. The grown-up plays the phone from the same spot where the real sound is made, and about as loud. A shuffled set of slips decides the order, so nobody can guess from a pattern. The door stays shut every time.
 - **record:** Write the numbers 1 to 8 down the page. After each sound, write R if you think it was real, or P if you think it was the phone. At the end, the grown-up reads out the answers and you tick each one you got right.
 - **results table:** Turn | Sound | My guess: real or phone? | What it really was | Right?
-- **s1 (6 min)**  
-  *Parent does:* 1. Behind the door, record four sounds on the phone, holding it close. 2. Tap the tumbler three times with the spoon. 3. Pour a little water from the tumbler into the steel bowl. 4. Crumple the newspaper sheet. 5. Say: 'Hello, can you hear me?'  
+- **s1 (5 min)**  
+  *Parent does:* 1. With your child watching, record four sounds on the phone, holding it close. 2. Tap the tumbler three times with the spoon. 3. Pour a little water from the tumbler into the steel bowl. 4. Crumple the newspaper sheet. 5. Say: 'Hello, can you hear me?'  
   *Parent says:* I am going to record four sounds on the phone. Later I will make each sound twice, once for real and once from the phone.  
   *Child mode:* Watch your grown-up record four sounds. Listen to each one.
   - Note: Record each sound as its own short clip, so you can play any one quickly. Play them back once to check they are clear. Keep the water well away from the phone.
@@ -226,22 +226,22 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Child mode:* How many will you get right? Which sound will be hardest? Say why.
   - Ask: Why do you think that sound will be the hardest? (good: The newspaper sounds the same on a phone.; The voice will be easy, because I know your real voice.; The door makes everything sound soft.)
   - Note: Write the guess and the reason down, word for word. Don't say whether it is likely to be right.
-- **s3 (8 min)**  
+- **s3 (6 min)**  
   *Parent does:* 1. Your child sits outside the closed door with the list. 2. Behind the door, turn over the top slip. 3. Choose a sound. If the slip says R, make it for real. If it says P, play its recording. 4. Call out the turn number first. 5. Keep the slips in order.  
   *Parent says:* Turn one. Listen carefully. Was that real, or the phone?  
   *Child mode:* Listen to each sound. Write R for real or P for phone.
   - Note: Use each sound once as real and once as phone, so keep a note of which you have used. Make the same small movements every time, so a rustle or a footstep gives nothing away. Set the phone's loudness so it sounds about as loud as the real thing.
-- **s4 (3 min)**  
+- **s4 (2 min)**  
   *Parent does:* 1. Open the door. 2. Read out the slips in order: real or phone, and which sound. 3. Your child ticks each right guess and counts the ticks.  
   *Parent says:* Let's check. Turn one was the spoon on the tumbler, and it was real. Did you write R? How many did you get right altogether?  
   *Child mode:* Open the door. Tick the ones you got right. Count your ticks.
   - Ask: Which sound fooled you, or nearly fooled you? (good: The newspaper on the phone sounded real.; The pouring water was hard.; None fooled me, but the voice was close.)
-- **s5 (4 min)**  
+- **s5 (3 min)**  
   *Parent does:* 1. Swap places. 2. Your child goes behind the door with the slips and the phone. 3. The grown-up guesses all 8. 4. Count the grown-up's right answers too.  
   *Parent says:* Now you make the sounds, and I will guess. Shuffle the slips first.  
   *Child mode:* Now you make the sounds. Your grown-up guesses. Shuffle the slips first.
   - Note: Help your child play the right clip if needed, quietly through the door. It is fine if a grown-up gets fooled. That is part of the result.
-- **s6 (3 min)**  
+- **s6 (2 min)**  
   *Parent does:* 1. Ask what your child thinks now. 2. Ask what they heard. 3. Ask why it happened.  
   *Parent says:* When the phone played the tumbler, was there a real sound? Was there a tumbler clinking? How did you find out what made each sound?  
   *Child mode:* Was the phone's sound real? Was a tumbler clinking? How did you find out?
@@ -335,9 +335,9 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 ## Projects
 ### p1 · My Book of Real Things I Cannot See (32 min, 4 days)
 - **record:** Each page has a drawing, the name of the thing, and one sentence: 'I know it is there because…'
-- **schedule:** day 1: Air page: blow up a balloon or a bag. Draw it. Write the clue that tells you air is inside. (8 min); day 2: Sound page: tap a tumbler with a spoon. Draw the tumbler with shake lines. Write what reached your ears. (8 min); day 3: Smell page: put a pinch of jeera in a cup, cover it, then sniff from across the room. Draw where the smell travelled. (8 min); day 4: Dream page: draw a dream. Write one way it was real and one way it was not. (8 min)
+- **schedule:** day 1: Air page: blow up a balloon. Draw it. Write the clue that tells you air is inside. (8 min); day 2: Sound page: tap a tumbler with a spoon. Draw the tumbler with shake lines. Write what reached your ears. (8 min); day 3: Smell page: crush two elaichi pods in a cup, cover it with a plate, then stand three big steps away. Lift the plate and notice when the smell reaches you. Draw where the smell travelled. (8 min); day 4: Dream page: draw a dream. Write one way it was real and one way it was not. (8 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Make the book together. 2. Blow up the balloon or bag and tie it. 3. Your child draws it and writes the clue.  
+  *Parent does:* 1. Make the book together. 2. Blow up the balloon and tie it. 3. Your child draws it and writes the clue.  
   *Parent says:* We cannot see air. What tells us it is inside the balloon?  
   *Child mode:* Blow up the balloon. Draw it. Write how you know air is inside.
 - **s2 (8 min)**  
@@ -345,9 +345,9 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Parent says:* Touch the rim while it rings. What do you feel? What reached your ears?  
   *Child mode:* Tap the tumbler. Touch the rim. Draw it. Write what you felt.
 - **s3 (8 min)**  
-  *Parent does:* 1. Put a pinch of jeera in a cup and cover it with a plate. 2. Your child stands across the room. 3. Lift the plate. 4. Your child walks closer until they smell it.  
+  *Parent does:* 1. Crush two elaichi pods (or rub a piece of lemon peel) and put them in a cup. Cover it with a plate. 2. Your child stands three big steps away. 3. Lift the plate. 4. Your child says 'now' when the smell reaches them. If it takes long, move a step closer.  
   *Parent says:* You cannot see the smell. How did it reach your nose?  
-  *Child mode:* Walk closer until you smell the jeera. Draw how the smell came to you.
+  *Child mode:* Stand three steps away. Say 'now' when the smell reaches you. Draw how the smell came to you.
 - **s4 (8 min)**  
   *Parent does:* 1. Your child draws a dream from the dream notebook, or any dream. 2. They write one way it was real and one way it was not.  
   *Parent says:* The feeling in your dream was real. Was the thing in it really there? How do you know?  
@@ -359,7 +359,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - **your turn:** Try your own way. Then ask the other person what they think is inside now, and why.
 - **constraints:** You may not say 'there is air inside'. You must show it.; Use only things from home.; Nothing may be broken or wasted.; The other person must be able to see, hear or feel your evidence.
 - **general:** Push the open bottle, mouth down, into a bucket of water, then tip it. A big bubble of air comes out.; Squeeze the bottle with its mouth near a thin strip of tissue. The air that comes out makes the strip jump.
-- **creative:** Put the cap on tightly and try to squash the bottle. It pushes back, because the air inside has nowhere to go.; Stretch a balloon over the mouth, then put the bottle in a bowl of warm water. The air inside spreads out and the balloon lifts a little.
+- **creative:** Put the cap on tightly and try to squash the bottle. It pushes back, because the air inside has nowhere to go.; Stretch a balloon over the mouth of the bottle. A grown-up pours hot tap water into a bowl, and you stand the bottle in it. The air inside spreads out as it warms, and the balloon lifts a little.
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem together. 2. Ask your child for ideas before showing anything.  
   *Parent says:* How could you show someone that this bottle is full, without telling them? What would they see, hear or feel?  
@@ -440,8 +440,8 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
    **Answer:** Open the door and look. *Why:* When one sense cannot tell, another sense can check. Listening again uses the same sense that was already fooled.
 7. (draw) Draw a dream sign: something that could only happen in a dream. Then draw how you would check it.  
    **Answer:** A drawing of something impossible, such as a fridge full of stars, and a check, such as looking again or asking someone.. *Why:* A dream sign is a clue that you are dreaming. Checking is what turns a doubt into knowing.
-8. (match) Draw a line from each animal to something real that they sense and humans cannot.  
-   **Answer:** A bat → very high squeaks; An elephant → very low rumbles; A bee → ultraviolet patterns on flowers; A pit viper, a kind of snake → the warmth of a mouse in the dark. *Why:* Each animal senses things that are really there but that human senses miss. So the world we sense is only part of what is real.
+8. (match) Draw a line from each animal to something real that they sense and we cannot.  
+   **Answer:** A bat → very high squeaks; An elephant → very low rumbles; A bee → ultraviolet patterns on flowers; A pit viper, a kind of snake → the warmth of a mouse in the dark. *Why:* Each animal senses things that are really there but that our senses miss. So the world we sense is only part of what is real.
 9. (fill) The dreaming part of sleep, when the eyes move fast under the lids, is called ____ sleep.  
    **Answer:** ['REM']. *Why:* REM stands for rapid eye movement. Most vivid dreams happen in REM sleep.
 10. (mcq) Farhan's dream notebook had no dream on three of the five mornings. What should he do?  
@@ -495,7 +495,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 ## Spotted around us
 - Pressure cooker whistles from neighbouring flats at breakfast and lunch time, in buildings from Chennai to Pune.
 - A shimmering 'puddle' on a hot road in summer that dries up as you get close: a mirage, seen on highways in Rajasthan, Telangana and Tamil Nadu.
-- Kites rising on Makar Sankranti in Ahmedabad and Jaipur, and on Uttarayan rooftops, lifted by wind nobody can see.
+- Kites rising on Makar Sankranti over rooftops in Ahmedabad and Jaipur, lifted by wind nobody can see.
 - Coconut palms bending and rustling on the Kerala and Goa coasts before the monsoon rain arrives.
 - The call of a koel from a tree you cannot see, in almost every Indian city in spring and summer.
 
@@ -516,12 +516,12 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 ## Jokes
 - What can you hold without ever touching it? *Your breath!*
 - What did the 'empty' bottle say to the bucket of water? *Tip me over, and I'll show you what I'm full of!*
-- Why are ghosts so bad at telling lies? *You can see right through them!*
+- What is all around you, but you cannot see it? *Air!*
 - What has ears but cannot hear? *A field of corn!*
 - Why did the cow have such sweet dreams? *She was a dairy-dreamer!*
 - Why was the sound so tired? *It had been running through the air all day!*
 - Why did the boy take a torch to bed? *He wanted to have bright dreams!*
-- Why did the jeera win the smelling game? *The rice had no scents at all!*
+- What did the pressure cooker say to its lid? *Hold on tight, I am about to whistle!*
 - What did the phone say after fooling everyone in the door test? *Don't look at me, I'm just repeating myself!*
 
 ## Connected maths

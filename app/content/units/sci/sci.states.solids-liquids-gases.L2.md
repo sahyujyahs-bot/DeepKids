@@ -42,14 +42,14 @@ In the thin bottle, the water stood tall. In the wide bowl, it spread out low an
 ### Gases spread out to fill every corner · *defined*
 **Definition:** A gas spreads out to fill all the space it can get to. It has no shape of its own, and it does not settle at the bottom.
 
-In the three bags, the water lay at the bottom of its bag. The air filled the whole of its bag, right up to the top corners. When you squeezed one end, the air pushed into the other end. Air is a gas. Most gases cannot be seen, so we notice them by what they do. The cooking gas in a cylinder is a surprise. Inside, it is squeezed so hard that most of it is a liquid. It turns back into a gas as it comes out.
+In the three bags, the water lay at the bottom of its bag. The air filled the whole bag, right up to the top corners. When you squeezed one end, the air pushed into the other end. Most gases cannot be seen, so we notice them by what they do. Cooking gas in a cylinder is squeezed so hard that most of it is a liquid. It turns into a gas as it comes out.
 - e.g. Air fills a balloon to its round shape.
 - e.g. Air filled the tied bag up to every corner.
 - e.g. Bubbles in a glass of soda are a gas.
 ### Ice, water and steam are the same water · *defined*
 **Definition:** Ice is water as a solid. Liquid water is water as a liquid. Steam is water as a gas. Cooling and warming change water from one state to another.
 
-Water freezes into ice when it gets very cold. Ice melts back into water when it gets warm. Water boils when it gets very hot, and turns into steam. Real steam is invisible. Look just above a kettle spout: there is a small clear gap. That gap is steam. A little higher, the steam cools and turns back into tiny drops of liquid water. Those drops are the white cloud we see. All the way through, it is the same water. Nothing new is added.
+Water freezes into ice when it gets very cold. Ice melts back into water when it gets warm. Water boils when it gets very hot, and turns into steam. Real steam is invisible. Look just above a kettle spout: the small clear gap is the steam. A little higher, the steam cools and turns back into tiny drops of liquid water. Those drops are the white cloud we see. It is the same water all the way through.
 - e.g. Ice cubes melt into water in a glass of nannari sherbet.
 - e.g. Water in an idli pot boils, and steam cooks the idlis.
 - e.g. Snow on the Himalayas melts and flows down into the Ganga.
@@ -71,7 +71,7 @@ In a solid, the particles hold on tight and stay in their places. That is why a 
 *What people believed before:* That ice is water made thicker and heavier by cold, and floats only because of its flat shape. Galileo showed that ice floats in any shape, and rises when pushed down, so it is lighter than water.
 
 ## Challenging perspectives
-- **Water in a tall, thin glass is more than the same water in a wide bowl, because it stands higher.** (A common guess by young children. The scientists Jean Piaget and Alina Szeminska studied it in Switzerland and wrote about it in 1941.; *rejected*)  
+- **Water in a tall, thin glass is more than the same water in a wide bowl, because it stands higher.** (A common guess by young children. Alina Szeminska and Jean Piaget studied it in Switzerland and wrote about it in 1941.; *rejected*)  
   For: The water really does stand higher in the thin glass, and we often judge amounts by height.  
   Against: The thin glass is narrow, so the same water must stand higher in it. Pour it back into the first tumbler, and it reaches the same line.
 - **The white cloud above a kettle or a cooker is steam.** (What most people say; *rejected*)  
@@ -88,13 +88,13 @@ We have poured water into new shapes, squeezed bags of a stone, water and air, a
 *Habit it breaks:* We judge how much there is by how big or tall it looks. The pouring test showed that the height of the water came from the container, while the amount never changed.  
 *Evidence:* In the pouring test, the water stood tall in the thin bottle and low in the wide bowl. Each time, poured back into the tumbler, it came to the bindi line.
 
-- *who am i:* More than half of your body is water. Your skin and the tiny cells inside you hold that water, so it takes the shape of you.
-- *what is life:* A plant stands up firm when the tiny cells in their stems and leaves are full of water. Without water, they droop.
-- *what is this world:* The same water is ice on the Himalayas, a river in the Kaveri, and an invisible gas in the air of a monsoon day in Chennai.
+- *who am i:* More than half of your body is water. It is held inside your skin and inside the tiny cells that make you.
+- *what is life:* A plant stands up firm when the tiny cells in its stems and leaves are full of water. Without water, the plant droops.
+- *what is this world:* The same water is ice on the Himalayas, liquid in the Kaveri river, and an invisible gas in the air of a monsoon day in Chennai.
 
-Ice, liquid water and steam look completely different. Yet they are the same water, and nothing is added or taken away when one turns into another. The tiny particles of water only hold on to each other more tightly or more loosely. One water can take every shape: a cube in a tray, a river, a cloud. Everything is conscious, down to these tiny water particles, and each state is the same water meeting the world in a different way.
+Ice, liquid water and steam look completely different. Yet they are the same water, and nothing is added or taken away when one turns into another. Water particles only hold on to each other more tightly or more loosely. Everything is conscious, down to these tiny water particles.
 
-- **Chandogya Upanishad 6.1.4:** Uddalaka tells his son: when you know one lump of clay, you know everything made of clay. A pot and a lamp have different names and shapes. What they really are is clay. (In our test, the water in the thin bottle and in the wide bowl had different shapes. What it really was, and how much of it there was, stayed the same.)
+- **Chandogya Upanishad 6.1.4:** Uddalaka tells his son Shvetaketu: when you know one lump of clay, you know everything made of clay. The things made from it have different names and shapes. What they really are is clay. (In our test, the water in the thin bottle and in the wide bowl had different shapes. What it really was, and how much of it there was, stayed the same.)
 - **Tao Te Ching 8:** The highest good is like water. Water helps all things and does not fight them. It flows to the low places. (In the three bags, the water always ran to the lowest part of its bag and fitted that shape. The Tao Te Ching, from China, praises water for fitting itself to whatever is around it.)
 - Science (settled): On Earth, water is found naturally as a solid, a liquid and a gas: as ice and snow, as rivers and seas, and as invisible water vapour in the air.
 - Science (open): Scientists still argue about exactly how the particles of liquid water are arranged, because they join and let go of each other very fast.
@@ -168,11 +168,11 @@ Arjun picked up the davara and poured the water into his thin bottle. It went in
 
 "When ice melts, it becomes a liquid," said Kavya. "Then it can take any shape."
 
-Just then, the idli pot on the stove began to hiss. Paati lifted the lid, and a white cloud rose up to the ceiling.
+Just then, the idli pot on the stove began to hiss. Paati lifted the lid, and a white cloud rose up.
 
 "Is that the water too?" asked Arjun.
 
-"Yes," said Paati. "The water in the pot boiled and turned into steam. Steam is water as a gas. It spreads out into the whole kitchen."
+"Yes," said Paati. "The water in the pot boiled and turned into steam. Look just above the pot, where the cloud begins. Do you see a clear gap? That is the real steam. It is a gas, so you cannot see it. Higher up, it cools and turns back into tiny drops of water. The drops make the white cloud."
 
 Arjun looked at the ice tray, the cold water in his bottle and the white cloud over the stove.
 
@@ -208,7 +208,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   - Ask: Why are gases hard to see? (good: Most gases are invisible.; We see bubbles because they are inside a liquid.)
 ### g2 · Freeze, Flow, Fly! Be ice, water and steam (10 min)
 - **rules:** Clear a space in the middle of a room.; One person is the caller. Everyone else starts standing close together as 'water'.; The caller reads a card out loud. The players move the way the card says.; The caller reads the back, so everyone can check. Anyone who moved the wrong way sits out one turn.; After 12 cards, a new player becomes the caller.
-- **Printable cards: 12 call cards to cut out:** Ice! (back: Freeze close together and hold hands or shoulders. Do not move from your spot.); Water! (back: Stay close and touch shoulders, but slide past each other slowly.); Steam! (back: Let go and spread out to every corner of the room.); The freezer door shuts! (back: Water turns to ice. Freeze close together.); The kettle boils! (back: Water turns to steam. Spread out to the corners.); Ice on a hot day! (back: Ice melts into water. Loosen up and slide.); Steam meets a cold lid! (back: Steam turns back into water drops. Come close and slide.); Pour the water into a bowl! (back: Water takes the shape of the bowl. Move to fill a circle on the floor.); Pour the water into a thin bottle! (back: Water takes the shape of the bottle. Line up close in a thin line.); Ice in a thin bottle! (back: Ice keeps its shape. Hold on tight. You cannot squeeze into a line.); Open the steam into the kitchen! (back: A gas fills all the space. Spread out across the whole room.); Kulfi in the freezer! (back: Liquid milk freezes into a solid. Freeze close together.)
+- **Printable cards: 12 call cards to cut out:** Ice! (back: Freeze close together and hold hands or shoulders. Do not move from your spot.); Water! (back: Stay close and touch shoulders, but slide past each other slowly.); Steam! (back: Let go and spread out to every corner of the room.); The freezer door shuts! (back: Water turns to ice. Freeze close together.); The kettle boils! (back: Water turns to steam. Spread out to the corners.); Ice on a hot day! (back: Ice melts into water. Loosen up and slide.); Steam meets a cold lid! (back: Steam turns back into water drops. Come close and slide.); Pour the water into a bowl! (back: Water takes the shape of the bowl. Move to fill a circle on the floor.); Pour the water into a thin bottle! (back: Water takes the shape of the bottle. Line up close in a thin line.); Ice in a thin bottle! (back: Ice keeps its shape. Hold on tight. You cannot squeeze into a line.); Steam fills the kitchen! (back: A gas fills all the space. Spread out across the whole room.); Kulfi in the freezer! (back: Liquid milk freezes into a solid. Freeze close together.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Clear a space. 3. Show the three moves: ice, water and steam.  
   *Parent says:* Ice holds tight and stays put. Water stays close but slides. Steam lets go and spreads out everywhere.  
@@ -362,8 +362,8 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - **problem:** Put 5 spoons of water in a katori in the kitchen. Get as much of it as you can into an empty katori on the other side of the room. You cannot carry it in a cup, a bowl, a bottle or a spoon.
 - **your turn:** Think of your own way. Test it. Then count how many spoons of water reached the far katori. Can you make your way better?
 - **constraints:** Use only things from home.; No cups, bowls, bottles, spoons or other containers to carry the water.; You may take one hour if you need to.
-- **general:** Soak the water up in a sponge or a cloth, carry it, and squeeze it out.; Fold a banana leaf into a cup shape and carry the water in it.
-- **creative:** Freeze the water in an ice tray, carry the ice cubes in your hand, and let them melt in the far katori. A solid can be carried without a container.; Make a long slope from rolled polythene, so the water flows down it into the far katori.
+- **general:** Soak the water up in a sponge or a cloth, carry it, and squeeze it out.; Try two different cloths, wet each with the same amount of water, and see which one carries more.
+- **creative:** Freeze the water in an ice tray, carry the ice cubes in your hand, and let them melt in the far katori. A solid can be carried without a container.; Roll a polythene sheet into a long slope, so the water flows down it into the far katori.
 - **s1 (4 min)**  
   *Parent does:* 1. Measure 5 spoons of water into the first katori. 2. Read the rules together. 3. Ask the questions below.  
   *Parent says:* Water has no shape of its own, so it needs something to hold it. What can hold water, without being a cup?  

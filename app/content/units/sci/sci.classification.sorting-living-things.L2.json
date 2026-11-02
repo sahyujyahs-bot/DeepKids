@@ -87,7 +87,7 @@
    "concept": "Sorting animals by body covering",
    "status": "defined",
    "definition": "We look at what grows on the outside of each animal, and put animals with the same covering together.",
-   "description": "Most animals have one of a few coverings. Hair or fur grows on cows, cats, bats and humans. Feathers grow only on birds. Scales cover fish, snakes and lizards. Some animals have a hard shell or a hard outer case, like snails, tortoises and ants. Frogs and earthworms have soft, bare, wet skin. Fish scales and snake scales share a name, but fish scales are made of a bone-like material. Snake and lizard scales are made of keratin, the same material as your nails.",
+   "description": "Most animals have one of a few coverings. Hair or fur grows on cows, cats, bats and humans. Feathers grow only on birds. Scales cover fish, snakes and lizards. Some animals have a hard shell or a hard outer case, like snails, tortoises and ants. Frogs and earthworms have soft, bare, wet skin.",
    "examples": [
     "Hair or fur: cow, goat, bat, human.",
     "Feathers: crow, hen, parrot.",
@@ -103,7 +103,7 @@
    "concept": "Sorting animals by legs",
    "status": "defined",
    "definition": "We count each animal's legs, and put animals with the same number together.",
-   "description": "Snakes, fish and earthworms have no legs. Birds and humans walk on 2 legs. Cows, cats, frogs and lizards have 4 legs. Every insect, like an ant or a butterfly, has 6 legs. A spider has 8 legs. A crab has 10, counting the two big claws. A centipede has many, and always an odd number of pairs. So no centipede has exactly 100 legs.",
+   "description": "Snakes, fish and earthworms have no legs. Birds and humans walk on 2 legs. Cows, cats, frogs and lizards have 4 legs. Every insect, like an ant or a butterfly, has 6 legs. A spider has 8 legs. A crab has 10, counting the two big claws. A centipede has many legs, in pairs.",
    "examples": [
     "No legs: snake, earthworm, fish.",
     "2 legs: crow, hen, you.",
@@ -164,8 +164,7 @@
    "examples": [
     "A frog tadpole eats tiny water plants, but a grown frog eats insects.",
     "A female mosquito drinks blood for her eggs, and also drinks flower nectar.",
-    "A red panda in Sikkim belongs to the same big group as tigers, yet eats mostly bamboo.",
-    "Deer have been seen eating bird chicks."
+    "A red panda in Sikkim belongs to the same big group as tigers, yet eats mostly bamboo."
    ],
    "perspectives": [
     {
@@ -188,7 +187,7 @@
    "concept": "Animals choose their food",
    "status": "debated",
    "definition": "Animals sense food and choose what to eat.",
-   "description": "Ants sense food with their antennae, the two thin feelers on their heads. They decide which food to carry home. A colony collects both kinds of food, because the young ants need protein to grow, and the workers mostly drink sugary food. Every animal senses, chooses and remembers where good food is.",
+   "description": "Ants sense food with their antennae, the two thin feelers on their heads. They decide which food to carry home. A colony collects both kinds of food, because the young ants need protein to grow, and the workers mostly drink sugary food. Animals sense food and choose between foods, and many remember where good food is.",
    "examples": [
     "Ants found the banana and the dead insect, and carried bits home.",
     "A crow remembers the window where rice is put out each morning."
@@ -209,7 +208,7 @@
  ],
  "agreed": [
   {
-   "text": "Only birds have feathers, and every bird has 2 legs.",
+   "text": "Among animals alive today, only birds have feathers, and every bird has 2 legs.",
    "evidence": "Every kind of bird scientists have found has feathers and 2 legs, even birds who cannot fly, like the ostrich."
   },
   {
@@ -238,7 +237,7 @@
    "claim": "A pangolin is a reptile, because a pangolin is covered in scales.",
    "who": "A common guess by people who see a pangolin for the first time",
    "for": "The Indian pangolin is covered in hard scales, like a lizard.",
-   "against": "A pangolin has hair between the scales and on the belly, and the mother feeds her baby milk. A pangolin is a mammal. One feature alone can fool you.",
+   "against": "A pangolin has some hair on the belly, and the mother feeds her baby milk. A pangolin is a mammal. One feature alone can fool you.",
    "status": "rejected",
    "context": "This card is about the Indian pangolin, an animal with scales and hair."
   },
@@ -249,14 +248,6 @@
    "against": "Deer have been seen eating bird chicks. Food groups say what an animal mostly eats.",
    "status": "rejected",
    "context": "This card is about whether food groups are strict."
-  },
-  {
-   "claim": "Dogs are carnivores.",
-   "who": "Some scientists, and many pet owners",
-   "for": "Dogs come from wolves, who hunt other animals. Dogs have sharp, pointed teeth.",
-   "against": "Dogs' bodies digest starch from rice and wheat better than wolves' bodies do. Street dogs in India live on rice, chapati and scraps. So other scientists call dogs omnivores.",
-   "status": "debated",
-   "context": "This card is about a real argument: which food group are dogs in?"
   }
  ],
  "big_questions": [
@@ -266,9 +257,9 @@
    "hint": "A crow's legs are there all the time. Think about when a crow eats, and what is around."
   },
   {
-   "q": "A pangolin has scales like a lizard, and hair and milk like a cow. Which feature should decide the pangolin's group?",
+   "q": "A butterfly has wings and 6 legs. A fruit bat has wings and 2 legs. Are wings a good way to sort animals?",
    "kind": "deep",
-   "hint": "Think about which features always come together in other animals."
+   "hint": "Think about what else the butterfly and the fruit bat share: covering, legs and food."
   },
   {
    "q": "A human body can eat both plant food and animal food. Many people choose to eat only plants and milk. Which food group are they in?",
@@ -300,7 +291,7 @@
    "Revathi drew a line down the middle of her chart. At the top she wrote: EATS BOTH. She stuck Kaka there. \"Animals who eat both kinds of food are called omnivores,\" said Paati. \"Your teacher will like that word.\"",
    "Nikhil had gone quiet. He was lying on his tummy by the window, looking at the ledge. \"Revathi, come and see,\" he whispered.",
    "On the ledge, the banana bit from Tuesday had a crowd of tiny ants around it. A little way off, there was another crowd, around a dead fly. Some ants were walking away from the fly carrying a tiny piece of wing.",
-   "\"The ants eat both too,\" said Revathi. She found an ant in her picture pile and put the ant next to Kaka.",
+   "\"The ants eat both too,\" said Revathi. She found an ant in her picture pile and put the ant picture next to Kaka.",
    "Nikhil sat up. \"Where do I go?\"",
    "Revathi thought about it. \"You eat fish curry at home. And rice. So you go in the middle.\" She looked at Paati. \"But Paati never eats meat or fish. Does Paati go on the plant side?\"",
    "Paati laughed. \"A human body can eat both kinds of food. I choose to eat plants and milk. Your Aunty in Kochi chooses fish every day. We are the same kind of animal, and we choose different food.\"",
@@ -316,7 +307,7 @@
   "ask": [
    "Why did Revathi first put the crow on the plant side?",
    "What did Revathi do to find out what Kaka really eats?",
-   "Why did Paati say she is in the same group as Aunty, even though they eat different food?"
+   "Paati eats plants and milk, and Aunty eats fish. Why did Paati say they are still the same kind of animal?"
   ],
   "art": [
    "A crow with a grey neck eating a ball of rice on a kitchen window ledge in a city flat.",
@@ -332,7 +323,7 @@
    "title": "Find My Group: a card game with three kinds of rule",
    "mins": 15,
    "players": "2 to 4 players, with a grown-up to start",
-   "context": "This is a card game with 16 animal cards and 12 rule cards. A rule card is turned over, and players lay down every animal card that fits the rule.",
+   "context": "This is a card game with 16 animal cards and 12 rule cards. A rule card is turned over, and players lay down every animal card in their hand that fits the rule.",
    "printables": [
     {
      "kind": "cards",
@@ -425,13 +416,14 @@
    ],
    "rules": [
     "Cut out the 16 animal cards and the 12 rule cards.",
-    "Mix the animal cards. Give each player 4 cards, name side up. Put the rest in a pile.",
+    "Mix the animal cards. Give each player 4 cards, name side up. If any cards are left over, put them in a pile.",
     "Mix the rule cards and put them face down in a pile.",
     "Turn over the top rule card and read it out.",
     "Every player puts down each of their cards that fits the rule, and says why: 'My gecko has scales.'",
     "Anyone can check a card by reading the back. A card that does not fit goes back to that player.",
-    "If you put down no cards, take one card from the animal pile.",
-    "Turn over the next rule card. The first player with no cards left wins."
+    "If you put down no cards and the animal pile still has cards, take the top card. If the pile is empty, just wait.",
+    "Turn over the next rule card. Everyone who has no cards left wins, and the game ends.",
+    "If all 12 rule cards have been turned over and nobody has finished, the player with the fewest cards left wins. Two players with the same number win together."
    ],
    "setup": [
     {
@@ -459,7 +451,7 @@
      "kid": "The rule is feathers. Put down every animal with feathers.",
      "ask": [
       {
-       "q": "Why can the fruit bat not go down?",
+       "q": "A fruit bat has fur and wings. Why does the fruit bat card not go down for the rule 'Feathers'?",
        "good": [
         "A bat has fur, not feathers.",
         "Only birds have feathers."
@@ -478,9 +470,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "At the end, pick up the hen card and ask the question below.",
-     "say": "The hen went down for feathers, for 2 legs and for eats both. Did the hen change, or did the rule change?",
-     "kid": "The hen went down three times. Did the hen change, or the rule?",
+     "do": "At the end, find the hen card and put the hen card on the floor. Then ask the question below.",
+     "say": "The hen fits feathers, 2 legs and eats both. Did the hen change, or did the rule change?",
+     "kid": "The hen fits three different rules. Did the hen change, or the rule?",
      "check": {
       "t": "mcq",
       "q": "Which rule puts the hen in the same group as you?",
@@ -519,11 +511,12 @@
     }
    ],
    "rules": [
-    "One player picks an animal card from Find My Group and hides the card.",
+    "One player picks an animal card from the 16 animal cards of the game Find My Group, and hides the card.",
     "The other players take turns. Each picks a question card and asks it.",
     "The hider answers only 'yes' or 'no'.",
-    "After each answer, the askers may guess. A right guess wins the round.",
-    "Count how many questions it took. Fewer questions is better."
+    "After each answer, the asker may guess the animal. A wrong guess counts as a question. A right guess ends the round.",
+    "Count how many questions it took. Then swap, so someone else hides. Try to guess in fewer questions than the round before.",
+    "Put the question cards back after each round. If all 9 are used and nobody has guessed, the hider shows the card and a new round starts."
    ],
    "setup": [
     {
@@ -547,9 +540,9 @@
      "id": "s2",
      "mins": 6,
      "do": "Play 3 or 4 rounds, taking turns to hide.",
-     "say": "Which question will cut the cards down the most? Feathers, or more than 4 legs?",
+     "say": "Which question will cut the cards down the most? Feathers, or 'Do you eat other animals?'",
      "kid": "Which question helps most? Pick it and ask.",
-     "parent": "A good first question splits the cards into two big groups, like 'Do you have legs?' A question about one rare feature, like feathers, often gets a 'no' and tells less."
+     "parent": "A good first question splits the cards into two big groups, like 'Do you eat other animals?' About half the cards say yes. A question about one rare feature, like feathers, often gets a 'no' and tells less."
     },
     {
      "id": "s3",
@@ -581,7 +574,7 @@
    "context": "In this experiment you put three foods near the ants in your home: banana, rice and a dead insect. Then you watch which foods the ants come to.",
    "question": "Do the ants in our home eat plant food, animal food, or both?",
    "predict": "Guess first. Will the ants come to the banana, the rice, the dead insect, or more than one? Why do you think so?",
-   "fair_test": "We put the three foods out at the same time, each the same distance from the ants. The pieces are about the same size. We count the ants on each food at the same times. If one spot gets all the ants, we swap the foods round and try again, to check the spot was not the reason.",
+   "fair_test": "We put the three foods out at the same time, each the same distance from the ants. The pieces are all small. We count the ants on each food at the same times. If one spot gets all the ants, we swap the foods round on another day and try again, to check the spot was not the reason.",
    "results_table": [
     "Food",
     "Plant food or animal food?",
@@ -714,7 +707,7 @@
        ]
       }
      ],
-     "parent": "Many kitchen ants come to both the banana and the dead insect, and fewer come to plain rice. Kinds of ants differ, so your numbers may be different. If no ants came after 10 minutes, leave the paper and count again in one hour. Whatever you find is a real result.",
+     "parent": "Many kitchen ants come to both the banana and the dead insect, and fewer come to plain rice. Kinds of ants differ, so your numbers may be different. If almost all the ants went to the food nearest their line, do the test again on another day with the foods swapped round. If no ants came after 10 minutes, leave the paper and count again in one hour. Whatever you find is a real result.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: ants on each food after 10 minutes",
@@ -796,7 +789,7 @@
      "caption": "2. Sort them again by legs. Who is with the hen now?"
     },
     {
-     "art": "The cards sorted onto three plates labelled with a leaf, a bone and both, with the hen, crow, ant and child cards on the 'both' plate.",
+     "art": "The cards sorted onto three plates labelled with a leaf, a drumstick and both, with the hen, crow, ant and child cards on the 'both' plate.",
      "caption": "3. Sort them a third time by food."
     }
    ],
@@ -885,7 +878,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child says features of the crow and the hen. Write each on a slip. Your child puts each slip in the crow side, the hen side, or the middle.",
+     "do": "Your child says features of the crow and the hen. Your child writes each on a slip, or you write it for them. Your child puts each slip in the crow side, the hen side, or the middle.",
      "say": "Tell me one thing about the crow. Does the hen have that too? Then where does the slip go?",
      "kid": "Say one thing about the crow. Does the hen have that too? Put the slip in the right place.",
      "parent": "The middle can hold feathers, a beak, 2 legs, 2 wings, lays eggs and eats both. The crow side can hold flies far, and black and grey. The hen side can hold flies only a short way, and a red comb on the head."
@@ -902,7 +895,7 @@
        "good": [
         "Hair.",
         "We both drink milk as babies.",
-        "Eyes, ears and a tail? No, I have no tail!"
+        "Eyes and ears."
        ]
       }
      ],
@@ -977,11 +970,11 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Make a table with 5 columns, one for each day. 2. Watch the crow from the window for 3 minutes, and write what they eat.",
-     "say": "Let's be scientists and watch quietly. What does the crow eat today?",
+     "do": "1. Make a table with 5 columns, one for each day. 2. Watch the crow from the window for 3 minutes, and write what they eat. Your child writes, or you write for them.",
+     "say": "Let's watch quietly. What does the crow eat today?",
      "kid": "Watch the crow for 3 minutes. Write what they eat.",
      "wait": "Watch again tomorrow.",
-     "parent": "Watch from inside, so the crow is not scared away. If no crow comes, a pigeon or a myna works too."
+     "parent": "Watch from inside, so the crow is not scared away. If no crow comes, a myna works too. Name the table after that bird."
     },
     {
      "id": "s2",
@@ -989,7 +982,8 @@
      "do": "On days 2, 3 and 4, watch for 3 minutes each day and add to the table.",
      "say": "What did the crow eat today? Was it something new?",
      "kid": "What did the crow eat today? Write it down.",
-     "wait": "Read the table on day 5."
+     "wait": "Read the table on day 5.",
+     "parent": "If the crow eats nothing in 3 minutes, write 'nothing today'. That is a real result. If you see only the rice, that is a real result too, but also write down anything else you see the crow carry off at other times of day."
     },
     {
      "id": "s3",
@@ -1033,7 +1027,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Draw a grid with 4 columns: animal, covering, legs, food. Fill in the people at home and any animal you can see from the window."
+     "what": "Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row for your child, then any animal you can see from the window."
     },
     {
      "day": 2,
@@ -1089,19 +1083,19 @@
    "title": "Feed the Rescue Centre",
    "mins": 20,
    "context": "This is a planning challenge. You plan the food trays for five animals at a small animal rescue centre.",
-   "problem": "Dr Meenakshi runs a small animal rescue centre in Mysuru. Today she is caring for a calf, a shikra (a small hawk), a star tortoise, a crow and a green parrot. She has only three food trays. How can she fill the trays so that every animal gets food they eat?",
+   "problem": "Dr Meenakshi runs a small animal rescue centre in Mysuru. Today she is caring for a cow, a shikra (a small hawk), a star tortoise, a crow and a green parrot. She has only three food trays. How can she fill the trays so that every animal gets food they eat?",
    "constraints": [
     "There are only three trays.",
     "Every animal must get food they eat.",
-    "Foods to choose from: grass, fruit, seeds, cooked rice, small pieces of meat, and dead insects."
+    "Foods to choose from: grass, fruit, seeds, cooked rice, small pieces of meat, and insects."
    ],
    "materials": [
     "paper and crayons",
-    "the animal cards from Find My Group, or your own drawings"
+    "the crow, cow, parrot and star tortoise cards from Find My Group, if you have them. Draw the hawk yourself."
    ],
    "general": [
     "Make one tray for each food group: a plant tray, a meat tray, and a tray with both.",
-    "Put the calf, the tortoise and the parrot at the plant tray, the shikra at the meat tray, and the crow at the tray with both."
+    "Put the cow, the tortoise and the parrot at the plant tray, the shikra at the meat tray, and the crow at the tray with both."
    ],
    "creative": [
     "The crow eats both, so the crow could share the plant tray and the meat tray. Then the third tray can hold water.",
@@ -1110,7 +1104,7 @@
    "your_turn": "Draw your three trays and the food on each one. Draw lines from each animal to their tray. Then add a new animal, a gecko, and say which tray the gecko needs.",
    "setup": [
     {
-     "art": "Five animals in a row at a rescue centre: a calf, a small grey hawk, a star tortoise, a crow and a green parrot.",
+     "art": "Five animals in a row at a rescue centre: a cow, a small grey hawk, a star tortoise, a crow and a green parrot.",
      "caption": "1. Look at the five animals. What does each one eat?"
     },
     {
@@ -1123,7 +1117,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem to your child. Show the five animal pictures.",
-     "say": "Dr Meenakshi has five animals and only three trays. What does each animal eat?",
+     "say": "A small rescue centre has five animals and only three trays. What does each animal eat?",
      "kid": "Five animals, three trays. What does each animal eat?"
     },
     {
@@ -1132,7 +1126,7 @@
      "do": "Your child draws three trays, fills them, and draws a line from each animal to a tray.",
      "say": "Which foods go on each tray? Which animal goes to which tray?",
      "kid": "Draw three trays. Fill them. Draw a line from each animal to a tray.",
-     "parent": "A shikra eats lizards, small birds and mice, so the shikra needs the meat. A star tortoise eats grass, flowers and fruit. Let your child decide, and ask for a reason each time."
+     "parent": "A shikra eats lizards, small birds and mice, so the shikra needs the meat. A star tortoise eats grass, flowers and fruit. The gecko eats insects, so the gecko needs the meat tray. Let your child decide, and ask for a reason each time."
     },
     {
      "id": "s3",
@@ -1144,12 +1138,12 @@
       "t": "mcq",
       "q": "Which animal can eat from both the plant tray and the meat tray?",
       "options": [
-       "The calf",
+       "The cow",
        "The crow",
        "The star tortoise"
       ],
       "a": 1,
-      "why": "A crow eats both plant food and animal food. The calf and the star tortoise are herbivores, so they need the plant tray."
+      "why": "A crow eats both plant food and animal food. The cow and the star tortoise are herbivores, so they need the plant tray."
      }
     }
    ]
@@ -1295,7 +1289,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before 1960, people thought chimpanzees ate only plants. How did Jane Goodall find out they eat animal food too?",
+   "p": "Many scientists once thought chimpanzees ate only plants. How did Jane Goodall find out they eat animal food too?",
    "opts": [
     "She read it in a book",
     "She watched wild chimpanzees for months",
@@ -1307,7 +1301,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya wants to know what the ants in her kitchen eat. What should she do?",
+   "p": "Kavya, a girl in Class 2, wants to know what the ants in her kitchen eat. What should she do?",
    "opts": [
     "Count their legs",
     "Put out different foods and watch",
@@ -1466,14 +1460,6 @@
      "art": "A cow, a parrot, a tiger and a goat in a row."
     },
     {
-     "t": "write",
-     "p": "Say it, and a grown-up writes it down: how did you find out what the ants eat?",
-     "lines": 2,
-     "a": "We put out banana, rice and a dead insect, and watched which foods the ants came to and carried away.",
-     "why": "A strong answer says the child watched what the ants chose. Looking at the ants' bodies would not have told them.",
-     "how": "e1"
-    },
-    {
      "t": "label",
      "p": "Write or say one way a crow and a hen are the same, and one way they are different.",
      "labels": [
@@ -1489,6 +1475,13 @@
      "art": "A crow and a hen side by side, with two empty boxes underneath."
     },
     {
+     "t": "write",
+     "p": "A friend says a bat is a bird, because a bat has wings. What would you tell your friend?",
+     "lines": 3,
+     "a": "A bat is not a bird. A bat has fur, not feathers, and the mother feeds her babies milk. Only birds have feathers.",
+     "why": "A strong answer uses the covering and the milk as evidence, not only a guess."
+    },
+    {
      "t": "count",
      "p": "Two hens and one cat sit in a yard. Count all their legs.",
      "a": 8,
@@ -1497,14 +1490,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her sister Shalini are sorting animal cards.",
+     "p": "Kavya and her sister Anjali are sorting animal cards.",
      "views": [
       {
        "who": "Kavya",
        "says": "Sort by covering. You can see it in one look."
       },
       {
-       "who": "Shalini",
+       "who": "Anjali",
        "says": "Sort by food. Then you know how to feed each animal."
       }
      ],
@@ -1676,7 +1669,7 @@
   "Zoo keepers and vets sort animals by food, so that each animal gets the right meals.",
   "Bird watchers sort birds by feathers, beaks and size, so they can name the bird they see.",
   "Farmers sort animals by food to plan their feed: hay for cows, grain for hens.",
-  "Scientists who find a new animal check the covering, legs and food first, to see which group the animal belongs to."
+  "Scientists who find a new animal compare the animal's covering, legs and food with animals they already know, to decide which group the animal belongs to."
  ],
  "spotted": [
   {
@@ -1694,17 +1687,9 @@
   {
    "text": "A house gecko waits by the tube light on many Indian walls at night, catching moths.",
    "art": "A pale gecko on a wall next to a glowing tube light, with moths around it."
-  },
-  {
-   "text": "Red pandas live in the forests of Sikkim and Arunachal Pradesh. They eat mostly bamboo.",
-   "art": "A red panda on a mossy branch, holding bamboo leaves."
   }
  ],
  "open_questions": [
-  {
-   "q": "Should dogs be called meat-eaters or omnivores?",
-   "why_open": "Dogs come from wolves, but their bodies have changed while living with people. Scientists still argue about which word fits best."
-  },
   {
    "q": "How does an ant colony know how much sugar and how much protein to collect?",
    "why_open": "Scientists know that colonies with many young collect more protein. How the ants share this information is still being studied."
@@ -1747,16 +1732,16 @@
    "a": "She's a plant-eater. Leaves are her favourite dish."
   },
   {
-   "j": "What did the fish say to the snake?",
-   "a": "We're both scaly, but I'll take the water and you take the wall."
-  },
-  {
-   "j": "Why did the pangolin get confused at the sorting game?",
-   "a": "Scales on top, hair below, and milk for the baby!"
-  },
-  {
    "j": "Knock knock. Who's there? Omni. Omni who?",
    "a": "Omni-vore, and I'll eat whatever you've got!"
+  },
+  {
+   "j": "What do you call a hen who counts her chicks?",
+   "a": "A mathema-chicken!"
+  },
+  {
+   "j": "Why does the gecko stay near the tube light?",
+   "a": "Because the tube light is the only restaurant open all night!"
   }
  ],
  "maths": [
@@ -1862,8 +1847,8 @@
    "a": "A crow, a hen, an ant, or a human."
   },
   {
-   "q": "A pangolin has scales. Is a pangolin a reptile?",
-   "a": "No. A pangolin has hair and feeds the baby milk, so a pangolin is a mammal."
+   "q": "Which animals have hair or fur and feed their babies milk?",
+   "a": "Cows, goats, bats, tigers and humans."
   },
   {
    "q": "How do you find out what an animal eats?",
@@ -1927,7 +1912,7 @@
   "science": [
    "Only birds have feathers among living animals; all birds are bipedal.",
    "Mammals have hair and feed young milk; whales are mammals with sparse hairs.",
-   "Indian pangolin (Manis crassicaudata): keratin scales, with hairs between the scales and on the belly; mammal.",
+   "Indian pangolin (Manis crassicaudata): keratin scales, with sparse hair on the belly; mammal.",
    "Fish scales (teleost) are made of collagen and calcium phosphate, a bone-like material; snake and lizard scales are made of keratin.",
    "Adult insects have 6 legs; spiders 8; true crabs 10 including the claws. Centipedes always have an odd number of leg pairs, so never exactly 100 legs.",
    "House crows and many household ants are omnivores; chickens are omnivores.",
@@ -1955,7 +1940,7 @@
    "what_is_life": "Every animal lives by eating other living beings, or what they made, like fruit and nectar. The ants on the banana were doing what you do at lunch.",
    "what_is_this_world": "The world is full of eaters, and each one chooses their food. A crow, an ant and a person can all find a meal in the same flat."
   },
-  "thread": "The banana grew on a banana plant, from sunlight, water and air. The ants ate the banana, and the banana became part of the ants. A crow may eat an ant, and one day the crow's body will feed the soil. So the same food passes from one living being to the next. One stream of life, fed by the Sun, takes the shape of plants, ants, crows and people.",
+  "thread": "The banana grew on a banana plant, from sunlight, water and air. The ants ate the banana, and the banana became part of the ants. A crow may eat an ant, and one day the crow's body will feed the soil. So the energy that came from the Sun passes from one living being to the next.",
   "teachings": [
    {
     "source": "Bhagavata Purana 1.13.47",
@@ -1989,7 +1974,7 @@
    "kid": "Look at your plate. Point to one food. Where did it live before? Close your eyes. Breathe in and out slowly. Eat one bite slowly."
   },
   "ask": [
-   "The ants ate the banana. Is the banana now part of the ants?",
+   "What do you think a fruit bat eats at night, and how could you find out?",
    "If you watched a crow for a whole year, would you see them eat something new? What might it be?",
    "Why do you think some animals eat only one kind of food, and others eat almost anything?"
   ],
@@ -1997,10 +1982,11 @@
  },
  "how_we_found_out": {
   "context": "Can you find out what an animal eats just by looking at them? This card tells the true story of a woman who watched and found out.",
-  "story": "Before 1960, most scientists thought chimpanzees ate only plants: fruit, leaves and seeds. Jane Goodall was 26, and she had no university degree. The scientist Louis Leakey sent her to watch wild chimpanzees at Gombe, by Lake Tanganyika, in what is now Tanzania. Her mother, Vanne, came with her for the first months. At first the chimpanzees ran away whenever they saw her. Jane went back every day and sat quietly. Slowly they let her come closer. Late in 1960 she saw an old male, whom she named David Greybeard, eating meat from a young wild pig. A few weeks later she saw him push a grass stem into a termite mound, pull it out covered in termites, and eat them. So chimpanzees eat animal food too. They eat both, like crows and like most people. Nobody had found this out from books. Jane found it by watching chimpanzees in their own home, day after day.",
+  "story": "Before 1960, most scientists thought chimpanzees ate only plants: fruit, leaves and seeds. Jane Goodall was 26, and she had no university degree. The scientist Louis Leakey sent her to watch wild chimpanzees at Gombe, by Lake Tanganyika, in what is now Tanzania. Her mother, Vanne, came with her for the first months. At first the chimpanzees ran away whenever they saw her. Jane went back every day and sat quietly. Slowly they let her come closer. Late in 1960 she saw an old male, whom she named David Greybeard, push a grass stem into a termite mound, pull it out covered in termites, and eat them. She also saw chimpanzees eat meat from a young wild pig. So chimpanzees eat animal food too. They eat both, like crows and like most people. Nobody had found this out from books. Jane found it by watching chimpanzees in their own home, day after day.",
   "who": "Jane Goodall, an English scientist who studied chimpanzees, helped at first by her mother Vanne",
   "when": "1960, at Gombe in what is now Tanzania",
   "wrong_idea": "That chimpanzees eat only plants. By watching wild chimpanzees for months, Jane Goodall saw them eat meat and termites, so chimpanzees are omnivores.",
   "art": "A young woman with a ponytail sitting quietly in a forest, watching a grey-bearded chimpanzee poke a grass stem into a termite mound."
- }
+ },
+ "playtest": "Walked through every game, activity and the ant test as a parent and a child in a flat. Find My Group could leave players stuck when the animal pile ran out (4 players deal all 16 cards) and had no end if nobody emptied their hand, so it now says what happens in both cases, and Three Clues now has a clear end and a goal. Fixed the rescue-centre challenge (a young calf drinks milk, so the animal is now a cow), the story and worksheet names (Shalini is now only the story friend), a crow week that can return nothing, and dogs, deer and the pangolin, which came back in too many places. Removed one worksheet question that repeated the ant test, two weak jokes (adding two real ones), and the odd-pairs centipede fact that is too hard for age 7 to 8."
 }

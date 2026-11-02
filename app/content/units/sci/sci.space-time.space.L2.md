@@ -3,7 +3,7 @@
 
 **Summary.** Walk away from a bottle, and it looks smaller, though the bottle stays the same. What changed is the space between you and the bottle. Space is the room around things and between them. The farther apart two things are, the more space is between them. Nobody knows yet whether space goes on for ever.
 
-**Intro.** *Hold up your thumb at arm's length and close one eye. Can your small thumb hide the big door of your room?* Your thumb is much smaller than a door. Yet from far enough away, your thumb can hide the door. In this unit you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.
+**Intro.** *Hold up your thumb at arm's length and close one eye. Can your small thumb hide a big building far outside your window?* A thumb is much smaller than a building. Yet if the building is far enough away, your thumb can hide it. In this unit you find out why. You hunt for spaces in your home and count steps to near and far things. You measure how big a bottle looks from far away. Then you make a tunnel of mirrors that seems to go on for ever, and ask whether space does.
 
 ## Learning outcomes
 0. By the end I can say that space is the room around things and between them, and find spaces in my home.
@@ -201,7 +201,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   - Check: In the hiding game, the hider holds up 'Farther'. What should the seeker do? → **Turn and go back the other way**
 ### g2 · Near to Far: a line-up card game (15 min)
 - **rules:** Cut out the ten cards. Shuffle them.; Each player in turn takes a card and puts it in the line, where they think it goes: nearest at one end, farthest at the other.; A player may move one card that is already in the line, if they give a reason.; When all ten are in the line, turn them over and read the backs from nearest to farthest.; Count how many cards were in the right place. Shuffle and play again to beat your count.
-- **Printable cards: 10 distance cards to cut out:** The tip of your nose (back: Nearest of all. It is on your own face.); The door of your room (back: A few steps away.); The nearest shop (back: Usually a short walk, a few minutes away.); A plane high in the sky (back: About 10 kilometres up. That is a walk of about 2 hours, if you could walk straight up.); The International Space Station (back: About 400 kilometres up, in outer space. People live and work on board.); From the top of India to the bottom (back: About 3,200 kilometres, from Ladakh in the north to Kanyakumari in the south.); The Moon (back: About 384,000 kilometres away. Light from the Moon takes just over 1 second to reach you.); The Sun (back: About 150 million kilometres away. Its light takes about 8 minutes to reach you.); The nearest star after the Sun (back: So far that its light takes more than 4 years to reach us.); The Andromeda galaxy (back: The farthest thing you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us.)
+- **Printable cards: 10 distance cards to cut out:** The tip of your nose (back: Nearest of all. It is on your own face.); The door of your room (back: A few steps away.); The nearest shop (back: Usually a short walk, a few minutes away.); A plane high in the sky (back: About 10 kilometres up. That is a walk of about 2 hours, if you could walk straight up.); The International Space Station (back: About 400 kilometres up, in outer space. People live and work on board.); From the top of India to the bottom (back: About 3,200 kilometres, from Ladakh in the north to Kanyakumari in the south.); The Moon (back: About 384,000 kilometres away. Light from the Moon takes just over 1 second to reach you.); The Sun (back: About 150 million kilometres away. Its light takes about 8 minutes to reach you.); The nearest star after the Sun (back: So far that its light takes more than 4 years to reach us.); The Andromeda galaxy (back: One of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Read the rules out loud. 3. Read each card's front out loud.  
   *Parent says:* Each card is a place. Let's put them in a line, from nearest to us to farthest away.  
@@ -359,18 +359,18 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - **problem:** Make a small coin hide a whole cupboard from your view.
 - **your turn:** Find your own way to make the coin hide the cupboard. Then try to hide something even bigger, like a building outside the window, with the coin.
 - **constraints:** You may not move the cupboard.; You must hold the coin in your hand, at arm's length or nearer.; Close one eye when you look.
-- **general:** Walk back from the cupboard, holding the coin at arm's length, until the coin hides it. Count the steps.; Stay where you are, and bring the coin nearer to your eye until it hides the cupboard.
-- **creative:** Look through a rolled-up paper tube. Put the coin at the far end of the tube.; Try a bigger coin and a smaller one, and see which needs fewer steps.
+- **general:** Stay where you are, and bring the coin nearer to your eye until it hides the cupboard.; Look out of a window. Hold the coin at arm's length, and find the far building, tree or water tank that it hides.
+- **creative:** Look through a rolled-up paper tube. Put the coin at the far end of the tube.; Try a bigger coin and a smaller one, and see which one you must hold nearer to your eye.
 - **s1 (3 min)**  
   *Parent does:* 1. Explain the challenge. 2. Ask the question below.  
   *Parent says:* This coin is tiny, and the cupboard is huge. Can you make the coin hide the whole cupboard? You can't move the cupboard.  
   *Child mode:* Can a small coin hide the whole cupboard? You can't move the cupboard.
   - Ask: What could you change? (good: Where I stand.; How near the coin is to my eye.)
 - **s2 (9 min)**  
-  *Parent does:* 1. Your child tries ways to hide the cupboard. 2. Count the steps back when it works.  
-  *Parent says:* Try it. What do you need to change? Count your steps.  
-  *Child mode:* Try it. Count your steps when it works.
-  - Note: Holding a coin close to the eye hides a lot at once. Walking back also works, but may need a long room, or looking from one room into another.
+  *Parent does:* 1. Your child tries ways to hide the cupboard. 2. Then your child looks out of a window and finds a far building that the coin hides.  
+  *Parent says:* Try it. What do you need to change? Then try the coin on something far outside the window.  
+  *Child mode:* Try it. Then hide a far building with the coin.
+  - Note: Holding a coin close to the eye hides a lot at once. Walking back from a cupboard also works, but only in a very long hall, so the window is the easy second try.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask the question below.  
   *Parent says:* Did the coin get bigger, or the cupboard smaller? What really changed?  
@@ -498,8 +498,8 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - A tall temple gopuram in Madurai, Thanjavur or Srirangam looks small from far across the city, and huge when you stand at its gate.
 - Railway tracks at a station in Kolkata or Hyderabad seem to come together far away, though they stay the same distance apart.
 - Crows or pigeons on a wire in Guwahati or Pune sit with gaps between them, keeping some space for each bird.
-- A plane in the sky over Bengaluru or Delhi looks as small as a bird. Its roar reaches you a moment later.
-- At night from a terrace in Kochi or Chennai, the Moon looks as big as a coin at arm's length, and the stars look like tiny dots.
+- A plane in the sky over Bengaluru or Delhi looks as small as a bird, though it is very big.
+- At night from a terrace in Kochi or Chennai, the Moon looks about as wide as a small pea held at arm's length, and the stars look like tiny dots.
 
 ## Open questions
 - **Does space go on for ever, or does it have an end?** We can only see part of space, because light from farther away has not reached us yet. Measurements of the shape of space fit space going on for ever, but they also fit space being very big and curving round. Nobody knows yet.

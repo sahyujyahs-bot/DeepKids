@@ -3,7 +3,7 @@
 
 **Summary.** A fish has fins, gills and a small bag of air inside her. A camel has a hump of fat, wide feet and long eyelashes. Each of these body parts helps with a problem of their own place: water all around, or hot, dry sand. A body part like this is called an adaptation. Your child makes a bottle fish with coins inside, and finds that a few spoons of air are enough to stop it sinking. You also look at plants suited to dry places and wet places, and at humans, who are animals suited to places too.
 
-**Intro.** *A camel would sink in a river. A fish would dry up on hot sand. Why is each of them so good at living in one place, and so bad at the other?* Look at a fish and a camel side by side. The fish has flat fins, a smooth body and gills on the sides of her head. The camel has a hump, long legs, wide soft feet and very long eyelashes. Nothing about the fish would help on sand, and nothing about the camel would help under water. In this unit you find out what each body part does, and you make a bottle fish to test how a fish stays up in the water.
+**Intro.** *A fish cannot breathe for long on hot sand. A camel cannot breathe under water. Why is each of them so good at living in one place, and so bad at the other?* Look at a fish and a camel side by side. The fish has flat fins, a smooth body and gills on the sides of her head. The camel has a hump, long legs, wide soft feet and very long eyelashes. Nothing about the fish would help on sand, and nothing about the camel would help under water. In this unit you find out what each body part does, and you make a bottle fish to test how a fish stays up in the water.
 
 ## Learning outcomes
 0. By the end I can say what an adaptation is, and give an example of a body part that suits a place.
@@ -23,7 +23,7 @@
 - **Desert**: A desert is a place that gets very little rain. *e.g.* The Thar Desert in Rajasthan is hot in the day and can be cold at night.
 - **Spine**: A spine on a cactus is a hard, sharp point. A cactus's spines are leaves that have changed shape. *e.g.* A cactus on a balcony has spines in place of flat green leaves.
 - **Float and sink**: Something floats when the water holds it up at the top. It sinks when it goes down to the bottom. *e.g.* An empty bottle with the cap on floats. A steel spoon sinks.
-- **Generation**: A generation is one step in a family: grandparents, then parents, then children. *e.g.* You, your mother and your grandmother are three generations.
+- **Generation**: A generation is one step in a family: grandparents, then parents, then children. *e.g.* A camel calf, her mother and her grandmother are three generations of camels.
 
 ## Explanations
 ### What an adaptation is · *defined*
@@ -82,7 +82,7 @@ A camel calf is born with wide feet and long eyelashes, before she has ever walk
 ### Humans are animals suited to places too · *defined*
 **Definition:** Humans have adaptations to their habitats, just like other animals.
 
-Humans cool down by sweating. Our skin has millions of tiny sweat glands, and sweat drying on the skin carries heat away. Some groups of people have adaptations to their own places. The Bajau people of Indonesia have dived for fish for over a thousand years. In 2018, the scientist Melissa Ilardo found that their spleens are bigger than those of their neighbours. The spleen is an organ that stores blood, and a bigger one may help them dive for longer. Tibetan people live high in the mountains, where the air is thin. In 2014, Emilia Huerta-Sánchez and her team found a gene version that helps them live there. People also suit themselves to places by what they make: boats, shawls and houses.
+Humans cool down by sweating. Our skin has millions of tiny sweat glands, and sweat drying on the skin carries heat away. Some groups of people have adaptations to their own places. The Bajau people of Indonesia have dived for fish for over a thousand years. In 2018, the scientist Melissa Ilardo found that their spleens are bigger than those of their neighbours. The spleen is an organ that stores blood, and a bigger one may help them dive for longer. Tibetan people live high in the mountains, where the air is thin. In 2014, Emilia Huerta-Sánchez and her team found a small difference in their genes, the instructions passed from parents to children, that helps them live there. People also suit themselves to places by what they make: boats, shawls and houses.
 - e.g. You sweat when you run on a hot day.
 - e.g. Bajau divers can stay under water for a long time.
 - e.g. Tibetan people live well in thin mountain air.
@@ -114,7 +114,7 @@ Humans cool down by sweating. Our skin has millions of tiny sweat glands, and sw
 ## Roots
 We have looked at fins, gills, a swim bladder, a camel's hump and a cactus's spines, and made a bottle fish float. Now we ask what being suited to a place tells us about ourselves and the world.
 
-**Deep truth.** Your bottle fish sank when it was full of coins and water. Swapping just a few spoons of water for air made the same bottle float. Air weighs almost nothing, so a little air was enough to keep the heavy bottle up. A fish's small swim bladder keeps her heavy body from sinking in the same way.  
+**Deep truth.** Your bottle fish sank when the bottle was full of coins and water. Swapping just a few spoons of water for air made the same bottle float. Air is much lighter than water, so a little air was enough to keep the heavy bottle up. A fish's small swim bladder keeps her heavy body from sinking in the same way.  
 *Habit it breaks:* We think heavy things sink and light things float. But a body of heavy bones and muscles floats in mid-water with only a small bag of gas inside. Whether a body sinks depends on how heavy it is for its size, compared with the water around it.  
 *Evidence:* In the Bottle Fish test, the full bottle with coins sank every time. After two to four spoons of water were swapped for air, the same bottle with the same coins floated.
 
@@ -129,7 +129,7 @@ Fish, camels, cactus plants and you belong to one very old family of life. Long 
 - Science (settled): The bones in your arm and the bones in a fish's fin come from the same ancient ancestors. Scientists see this in fossils, and in how the bones grow in a baby before birth.
 - Science (debated): Fish learn and remember. Some fish have remembered the way out of a net for almost a year. Whether fish feel pain the way we do is still argued about.
 - Other view, Many biologists: A body part was not made for a purpose. Over many generations, the young who happened to have useful parts lived longer and had more young. Saying 'fins are for swimming' is a short way of saying this.
-- Practice, Float Like a Fish (3 min): Sit down and close your eyes. Breathe in slowly, and feel your chest fill with air, like a swim bladder. Hold it for a moment. Now breathe out slowly, and feel your body sink a little lower. Do this three times. Then sit still, and feel where your body meets the floor.
+- Practice, Breathe Like a Fish Floats (3 min): Sit down and close your eyes. Breathe in slowly, and feel your chest fill with air. Hold it for a moment. Now breathe out slowly, and feel your chest go down. Do this three times. Then sit still, and feel where your body meets the floor.
 - Ask: If a camel's family lived in the sea for millions of years, how might their bodies change?
 - Ask: Is a fin a good thing, or only a good thing in water?
 - Ask: Which place on Earth is your body most suited to? How do you know?
@@ -204,8 +204,8 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 
 ## Games
 ### g1 · Who Am I? A three-clue guessing game (15 min)
-- **rules:** Mix the cards and put them in a pile, answers facing down.; One player is the reader. The reader picks up the top card and reads clue 1 aloud.; The other players may make one guess each. A right guess after clue 1 wins 3 points.; If nobody is right, the reader reads clue 2. A right guess now wins 2 points.; If nobody is right, the reader reads clue 3. A right guess now wins 1 point.; The reader turns the card over and reads the answer aloud. Then the next player becomes the reader.; When the pile is finished, add up the points. The player with the most points wins.
-- **Printable cards: 12 riddle cards to cut out, with the answer on the back:** 1. I have fins and gills. 2. I live in ponds in Bengal and Assam. 3. I can breathe air, and I can wriggle across wet ground. (back: The climbing perch, called koi in Bengal.); 1. I live in the desert. 2. I have long eyelashes and wide, soft feet. 3. My hump is full of fat. (back: A camel.); 1. I am a plant. 2. I have spines in place of leaves. 3. I keep water in my thick green stem. (back: A cactus.); 1. I am a plant who grows in a pond. 2. My leaves float. 3. Rain rolls off my waxy leaves. (back: A lotus.); 1. I live high in the snowy mountains of Ladakh. 2. I have thick fur and wide, furry paws. 3. I wrap my long tail round my face to sleep. (back: A snow leopard.); 1. I am a fish who lives on mud by the sea. 2. I hop about at low tide. 3. I can breathe through my skin. (back: A mudskipper.); 1. I am a tree who grows in salty mud. 2. The sea comes in and out around me. 3. My roots poke up out of the mud to get air. (back: A mangrove tree.); 1. I am a fish with no swim bladder. 2. I have a big, oily liver. 3. If I stop swimming, I slowly sink. (back: A shark.); 1. I am a seed. 2. I float on the sea for weeks. 3. I can grow into a tall tree on a far-away beach. (back: A coconut.); 1. I am a plant who stores water in thick, juicy leaves. 2. I open the holes in my leaves at night. 3. Many people keep me on a sunny balcony. (back: An aloe plant.); 1. I am a bird. 2. My family once nested on cliffs. 3. Now I nest on window ledges in cities. (back: A pigeon.); 1. I am an animal. 2. I sweat to keep cool on a hot day. 3. I read this card out loud. (back: A human, like you.)
+- **rules:** Mix the cards and put them in a pile, answers facing down. Have a paper and pencil to keep score.; One player is the reader. The reader picks up the top card and reads clue 1 aloud.; The other players may make one guess each. A right guess after clue 1 wins 3 points.; If nobody is right, the reader reads clue 2. A right guess now wins 2 points.; If nobody is right, the reader reads clue 3. A right guess now wins 1 point.; If nobody is right after clue 3, nobody scores. With two players, you take turns being the reader and the guesser.; The reader turns the card over and reads the answer aloud. Then the next player becomes the reader.; When the pile is finished, add up the points. The player with the most points wins.
+- **Printable cards: 12 clue cards to cut out, with the answer on the back:** 1. I have fins and gills. 2. I live in ponds in Bengal and Assam. 3. I can breathe air, and I can wriggle across wet ground. (back: The climbing perch, called koi in Bengal.); 1. I live in the desert. 2. I have long eyelashes and wide, soft feet. 3. My hump is full of fat. (back: A camel.); 1. I am a plant. 2. I have spines in place of leaves. 3. I keep water in my thick green stem. (back: A cactus.); 1. I am a plant who grows in a pond. 2. My leaves float. 3. Rain rolls off my waxy leaves. (back: A lotus.); 1. I live high in the snowy mountains of Ladakh. 2. I have thick fur and wide, furry paws. 3. I wrap my long tail round my face to sleep. (back: A snow leopard.); 1. I am a fish who lives on mud by the sea. 2. I hop about at low tide. 3. I can breathe through my skin. (back: A mudskipper.); 1. I am a tree who grows in salty mud. 2. The sea comes in and out around me. 3. My roots poke up out of the mud to get air. (back: A mangrove tree.); 1. I am a fish with no swim bladder. 2. I have a big, oily liver. 3. If I stop swimming, I slowly sink. (back: A shark.); 1. I am a seed. 2. I float on the sea for weeks. 3. I can grow into a tall tree on a far-away beach. (back: A coconut.); 1. I am a plant who stores water in thick, juicy leaves. 2. I open the holes in my leaves at night. 3. Many people keep me on a sunny balcony. (back: An aloe plant.); 1. I am a bird. 2. My family once nested on cliffs. 3. Now I nest on window ledges in cities. (back: A pigeon.); 1. I am an animal. 2. I sweat to keep cool on a hot day. 3. I read this card out loud. (back: A human, like you.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Mix them and stack them, answers facing down.  
   *Parent says:* Each card is a living being. Let's see how fast you can guess who they are.  
@@ -222,8 +222,8 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   *Child mode:* Count your points. Which card surprised you?
   - Check: A shark has no swim bladder. What happens if she stops swimming? → **She slowly sinks**
 ### g2 · Air In, Air Out: a moving game (10 min)
-- **rules:** Clear a space on the floor, away from sharp corners.; One player is the caller. The caller mixes the cards and reads the front of one card aloud.; Everyone else does the move on the back. If you are not sure, the caller reads the back aloud.; Anyone who does a different move sits out for one card.; After 6 cards, a new player becomes the caller.; Play until everyone has had a turn as the caller.
-- **Printable cards: 12 call cards to cut out, with the move on the back:** Air in! (back: Your swim bladder fills up. Rise up tall on your toes.); Air out! (back: Your swim bladder gets smaller. Sink down into a crouch.); Tail fin! (back: Wiggle your bottom from side to side and move two steps forward.); Side fins! (back: Hold your arms out like side fins and turn round slowly.); Back fin! (back: Stand still with one hand on top of your head. Do not wobble.); Shark! (back: A shark has no swim bladder. Keep moving your feet, or you sink to a crouch.); Hover! (back: Your swim bladder is just right. Stay perfectly still, halfway down.); Sandstorm! (back: You are a camel now. Shut your eyes and pinch your nose for a count of three.); Hot sand! (back: You are a camel. Kneel down on your knee pads.); Out of the water! (back: Your gills stick together. Freeze, then flop on the floor like a fish.); Mudskipper! (back: Hop like a mudskipper on the mud, three hops.); Back in the water! (back: Stand up and swim with your arms. You can breathe again.)
+- **rules:** Clear a space on the floor, away from sharp corners.; One player is the caller. The caller mixes the cards and reads the front of one card aloud.; Everyone else does the move on the back. If you are not sure, the caller reads the back aloud.; Anyone who does a different move sits out for one card.; After 6 cards, a new player becomes the caller. When the cards run out, mix them and use them again.; Play until everyone has had a turn as the caller.
+- **Printable cards: 12 call cards to cut out, with the move on the back:** Air in! (back: Your swim bladder fills up. Rise up tall on your toes.); Air out! (back: Your swim bladder gets smaller. Sink down into a crouch.); Tail fin! (back: Wiggle your bottom from side to side and move two steps forward.); Side fins! (back: Hold your arms out like side fins and turn round slowly.); Back fin! (back: Stand still with one hand on top of your head. Do not wobble.); Shark! (back: A shark has no swim bladder. Keep marching on the spot until the next card, or you sink to a crouch.); Hover! (back: Your swim bladder is just right. Stay perfectly still, halfway down.); Sandstorm! (back: You are a camel now. Shut your eyes and pinch your nose for a count of three.); Hot sand! (back: You are a camel. Kneel down on your knee pads.); Out of the water! (back: Your gills stick together. Freeze, then flop on the floor like a fish.); Mudskipper! (back: Hop like a mudskipper on the mud, three hops.); Back in the water! (back: Stand up and swim with your arms. You can breathe again.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Clear a space. 3. Read every card aloud once together.  
   *Parent says:* Let's learn the moves first. When I say air in, what do you do?  
@@ -240,7 +240,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   - Ask: Why did the shark have to keep moving? (good: Because a shark has no swim bladder.; Because she would sink if she stopped.)
 
 ## Experiments
-### e1 · The Bottle Fish: how much air stops a heavy body sinking? (25 min)
+### e1 · The Bottle Fish: how much air stops a heavy body sinking? (20 min)
 - **question:** A bottle with coins inside sinks when it is full of water. How many spoons of air does it need before it floats?
 - **predict:** Guess first. Will the bottle need a lot of air to float, about half a bottle, or only a little? Why do you think so?
 - **fair test:** We use the same bottle, the same coins and the same bucket each time. The only change is how much air is inside. We test each amount twice, because a bubble stuck on the outside can fool us once.
@@ -257,57 +257,58 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   *Parent says:* Let go. Does our fish sink or float?  
   *Child mode:* Let go. Does the bottle sink or float?
   - Note: The bottle must sink to the bottom. If it floats, open it, add one more coin or stone, and fill it under water again.
-- **s3 (3 min)**  
+- **s3 (2 min)**  
   *Parent does:* Ask your child to guess and to say why. Write the guess at the top of the table.  
   *Parent says:* We will swap some water for air, one spoon at a time. How many spoons until it floats? Why do you think so?  
   *Child mode:* We will add air, one spoon at a time. How many spoons to float? Why?
-- **s4 (8 min)**  
-  *Parent does:* 1. Take the bottle out and open it. 2. Pour one big spoon of water out of the bottle. 3. Close the cap. 4. Put the bottle under the water and let go. 5. Write sinks or floats in the table. 6. Test it once more.  
+- **s4 (6 min)**  
+  *Parent does:* 1. Take the bottle out and open it. 2. Pour one tablespoon of water out of the bottle. 3. Close the cap. 4. Put the bottle under the water and let go. 5. Write sinks or floats in the table. 6. Test it once more.  
   *Parent says:* One spoon of water out means one spoon of air in. Now let go. Sink or float?  
   *Child mode:* Pour out one spoon of water. Close it. Let go. Sink or float?
-  - Note: Pour slowly from the bottle into the spoon, over the bucket. Each time, push the bottle to the middle of the water before you let go. Many 500 ml bottles with five coins float after two to four spoons.
+  - Note: Pour slowly from the bottle into the spoon, over the bucket. Each time, push the bottle to the middle of the water before you let go. Many 500 ml bottles with five coins float after two to four tablespoons. Tilt the bottle slowly to fill the spoon, then stand the bottle straight.
 - **s5 (3 min)**  
   *Parent does:* 1. Keep going, one spoon at a time, until the bottle floats. 2. Then pour out three more spoons and test again. 3. Look at how high it floats now.  
   *Parent says:* How many spoons did it need? Now let's add even more air. Does it float higher?  
   *Child mode:* Keep going until it floats. Then pour out three more spoons.
   - Ask: How many spoons of air did the bottle need to float? (good: Only two or three spoons.; Just a little air, much less than half the bottle.)
-- **s6 (5 min)**  
+- **s6 (3 min)**  
   *Parent does:* Ask your child three things. What do you think? What did you see? Why did it happen?  
   *Parent says:* The bottle had coins and lots of water inside, but only a little air. Why did a little air help so much?  
   *Child mode:* What did you see? Why did a little air help?
   - Ask: Why did a little air make the heavy bottle float? (good: Air is very light, so the bottle got lighter.; The air took the place of some heavy water.)
-  - Note: A strong answer uses the result. With no air it sank, and with a little air it floated. Air weighs almost nothing. Swapping a little water for air made the whole bottle light enough to float. Many fish have a bag of gas inside like this, called a swim bladder.
+  - Note: A strong answer uses the result. With no air it sank, and with a little air it floated. Air is much lighter than water. Swapping a little water for air made the whole bottle light enough to float. Many fish have a bag of gas inside like this, called a swim bladder.
   - Check: Many fish have a small bag of gas inside, called a swim bladder. What does it do for the fish? → **It stops the fish from sinking**
-### e2 · Wrinkly Fingers: do they grip wet things better? (35 min)
+### e2 · Wrinkly Fingers: do they grip wet things better? (20 min)
 - **question:** Can you move wet marbles from one bowl to another faster with wrinkly fingertips than with smooth ones?
 - **predict:** Guess first. Will wrinkly fingers be faster, slower or the same? Why do you think so?
 - **fair test:** We use the same marbles, the same bowls and the same hand each time, for 30 seconds each. We practise twice first, because people get faster with practice, and we don't want practice to fool us.
 - **safety:** A grown-up checks that the soaking water is only bath-warm, never hot.
 - **record:** Write the number of marbles moved with smooth fingers and with wrinkly fingers. Draw a wrinkly fingertip.
 - **results table:** Fingers | Wet marbles moved in 30 seconds
-- **s1 (5 min)**  
+- **s1 (4 min)**  
   *Parent does:* 1. Put the marbles in the bowl of water. 2. Put the empty bowl next to it. 3. Your child uses one thumb and one finger to move marbles, one at a time, for 30 seconds. 4. Do this twice to practise.  
   *Parent says:* Pick up one marble at a time with your thumb and one finger. Move it to the empty bowl. Ready? Go!  
   *Child mode:* Move the wet marbles, one by one. Go!
   - Note: The two practice tries are only for getting used to it. Do not count them.
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* Now do one real test with smooth fingers. Count the marbles moved in 30 seconds. Write the number down.  
   *Parent says:* This is the real test. Thirty seconds. Go!  
   *Child mode:* Real test. Move as many as you can!
-- **s3 (2 min)**  
+- **s3 (1 min)**  
   *Parent does:* Ask your child to guess and to say why.  
   *Parent says:* Soon your fingertips will go wrinkly. Will you be faster, slower or the same? Why?  
   *Child mode:* Will wrinkly fingers be faster? Why do you think so?
-- **s4 (12 min) · grown-up needed**  
-  *Parent does:* 1. Check the warm water with your own hand first. 2. Your child soaks the same hand in it until the fingertips are wrinkly. 3. This takes about 10 to 15 minutes. 4. Read the story or tell jokes while you wait.  
+- **s4 (8 min) · grown-up needed**  
+  *Parent does:* 1. Check the warm water with your own hand first. 2. Your child soaks the same hand in it until the fingertips are wrinkly. 3. This takes about 5 to 10 minutes. 4. Read the story or tell jokes while you wait.  
   *Parent says:* Let's look at your fingers every few minutes. Are they wrinkly yet?  
   *Child mode:* Soak your hand. Watch your fingertips go wrinkly.
   - Note: Your body makes your fingertips wrinkle, using its nerves. It is not just skin soaking up water. Doctors know this because fingers with a damaged nerve do not wrinkle.
-- **s5 (3 min)**  
+- **s5 (2 min)**  
   *Parent does:* Move the marbles back. Test again for 30 seconds with the wrinkly hand. Write the number down.  
   *Parent says:* Same hand, same marbles. Thirty seconds. Go!  
   *Child mode:* Test again with wrinkly fingers. Go!
-- **s6 (10 min)**  
+  - Note: Wrinkles fade after a few minutes in the air, so start this test straight away.
+- **s6 (3 min)**  
   *Parent does:* Compare the two numbers. Ask your child what they think, what they saw, and why.  
   *Parent says:* Were your wrinkly fingers faster? Scientists have found different answers. What did you find?  
   *Child mode:* Which was faster? What do you think wrinkles are for?
@@ -347,10 +348,10 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   - Ask: Which desert problem do the long eyelashes help with? (good: Sand blowing in her eyes.; The sandstorm.)
   - Note: Hump: a store of fat for days with little food. Eyelashes: keep blowing sand out. Nostrils: close to slits in a sandstorm. Back fur: keeps the sun's heat off her skin. Knee and chest pads: let her kneel on hot sand. Wide feet: spread out so she does not sink into soft sand.
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child tries to close their nostrils without using their fingers. 2. Then they draw the camel and label the six parts.  
-  *Parent says:* Can you close your nose without your fingers, like a camel? Try it!  
+  *Parent does:* 1. Your child tries to close their nostrils without using their fingers (most people cannot, but a camel can). 2. Then they draw the camel and label the six parts. Your child can say the labels and a grown-up writes them.  
+  *Parent says:* Can you close your nose without your fingers, like a camel? It is hard! Try it, then draw the camel.  
   *Child mode:* Try to close your nose, no fingers. Then draw the camel.
-  - Check: What is inside a camel's hump? → **Fat**
+  - Check: What does a camel do with her nostrils in a sandstorm? → **She closes them to thin slits**
 ### a3 · Dry Home or Wet Home? Read a plant's leaves (15 min)
 - **record:** Draw each leaf. Write 'dry home' or 'wet home' under each one.
 - **s1 (5 min)**  
@@ -364,14 +365,14 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   - Ask: Why might a plant from a dry place have thick leaves? (good: To keep water inside.; So the water does not dry out.)
 - **s3 (5 min)**  
   *Parent does:* Tell your child the answers and compare with the guesses.  
-  *Parent says:* Aloe and cactus come from dry places. The money plant comes from rainforests. Were you right?  
+  *Parent says:* Aloe and cactus come from dry places. The money plant comes from rainforests. Were you right? What do you think about the others?  
   *Child mode:* Check your guesses. How many were right?
-  - Note: Aloe vera comes from dry lands in Arabia. Cactus plants come from dry parts of the Americas. The money plant grew wild in a rainforest on an island in the Pacific Ocean, climbing up trees. Tulsi is from India. Curry leaves grow wild in the forests of India.
+  - Note: Aloe vera probably comes from dry lands in Arabia. Most cactus plants come from dry parts of the Americas. The money plant grew wild in a rainforest on an island in the Pacific Ocean, climbing up trees. Tulsi and curry leaves are from India. They are fine to guess about, and a guess with a reason is a good answer.
   - Check: A plant has very thick, juicy leaves. Where does the plant's family most likely come from? → **A dry place**
 ### a4 · Fish at the Market (if your family buys whole fish) (10 min)
 - **record:** Draw the fish with every fin, and write how many fins you counted.
 - **s1 (4 min)**  
-  *Parent does:* Put the fish on a plate. Count the fins together: back, tail, two at the sides near the head, two underneath and one near the tail underneath.  
+  *Parent does:* Put the fish on a plate. Count the fins together: back, tail, two at the sides near the head, two underneath and one near the tail underneath. A rohu or mathi has seven. Other fish can have a different number.  
   *Parent says:* Let's count every fin. Point to each one as you count.  
   *Child mode:* Count every fin on the fish.
 - **s2 (3 min) · grown-up needed**  
@@ -383,31 +384,30 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   *Parent says:* Feel the scales from head to tail. Now the other way. Which way is smoother? Why might that help a fish?  
   *Child mode:* Feel the scales both ways. Which way is smooth?
   - Ask: Why might the scales be smooth from head to tail? (good: So the fish slides forward through the water.; Because the fish swims head first.)
-  - Check: Which fin pushes a fish forward? → **The tail fin**
+  - Check: What are the red, feathery parts under the flap behind a fish's eye? → **Gills**
 
 ## Projects
 ### p1 · A Camel and a Fish from Waste (40 min, 2 days)
-- **safety:** A grown-up does the cutting with scissors.
 - **record:** The two models, each with labels, and a photo or drawing of the fish floating.
-- **schedule:** day 1: Make the camel. Add a hump, long legs and wide paper feet. Label four adaptations. (20 min); day 2: Tape cardboard fins onto the bottle fish. Label the fins. Float the bottle and see how it sits in the water. (20 min)
+- **schedule:** day 1: Make the camel. Add a hump, long legs and wide paper feet. Label the four parts. (20 min); day 2: Tape cardboard fins onto the bottle fish. Label the fins. Float the bottle and see how it sits in the water. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Tape the legs to the box. 2. Tape a ball of newspaper on top as the hump. 3. Cut wide, round paper feet. 4. Draw long eyelashes. 5. Write a small label for each part.  
   *Parent says:* What does our camel need for the desert? Let's give her every part we learned about.  
   *Child mode:* Build the camel. Add a hump, long legs and wide feet. Label them.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Cut a tail fin, a back fin and two side fins from cardboard. 2. Tape them onto the bottle fish. 3. Label each fin.  
+  *Parent does:* 1. Cut a tail fin, a back fin and two side fins from cardboard. 2. Cover each with sticky tape so water does not soak it. 3. Tape them onto the bottle fish. 4. Label each fin.  
   *Parent says:* Where do the fins go on a real fish? What does each one do?  
   *Child mode:* Tape fins on your bottle fish. Label each fin.
   - Wait: Day 2
 - **s3 (5 min)**  
-  *Parent does:* Float the bottle fish in a bucket of water. Push it gently and watch.  
-  *Parent says:* Does the back fin help it stay upright? Does it float higher or lower than before?  
+  *Parent does:* Float the bottle fish, with the amount of air that made the bottle float, in a bucket of water. Push it gently and watch.  
+  *Parent says:* Which way does it float? Push it gently. Do the fins change how it moves?  
   *Child mode:* Float your fish. Push it gently. Watch the fins.
   - Ask: Which part of your camel would be no use to the fish? Why? (good: The wide feet, because the fish never walks on sand.; The hump, because the fish lives in water.)
   - Check: Why did you give the camel wide feet? → **So she does not sink into soft sand**
 
 ## Challenges
-### c1 · Make the Bottle Fish Hover (25 min)
+### c1 · Make the Bottle Fish Hover (20 min)
 - **problem:** Make your bottle fish hang under the water, not floating on top and not lying on the bottom, or sink very slowly, for a count of ten.
 - **your turn:** Make your own hovering fish. Then tell someone at home how much air it needed, and why a little more made it float.
 - **constraints:** Use the same bottle and coins as before.; You may add or take away water, coins or small stones.; You may not hold the bottle once you let go.
@@ -417,7 +417,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   *Parent does:* Read the challenge. Remind your child how the bottle sank with no air and floated with a little air.  
   *Parent says:* Our fish sank, then floated. Can you make it hang in the middle of the water, like a real fish?  
   *Child mode:* Can you make the bottle hang in the middle?
-- **s2 (17 min)**  
+- **s2 (12 min)**  
   *Parent does:* Your child tries ideas and tests each one. Let them try, fail and change the plan.  
   *Parent says:* What could you change? A little more water? One more coin? Try it.  
   *Child mode:* Try one change. Did it hover? Try again.
@@ -441,7 +441,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 4. (draw) Draw your bottle fish twice: once with no air, and once with a little air. Show where each one was in the bucket.  
    **Answer:** One bottle on the bottom of the bucket, and one at the top with a small air space inside.. *Why:* A strong drawing shows the full bottle on the bottom and the bottle with a little air floating at the top, with the air space drawn at the top of the bottle.
 5. (write) Say out loud, and a grown-up writes it down: why did a little air make your heavy bottle float?  
-   **Answer:** Air is very light. It took the place of some heavy water, so the whole bottle got light enough to float.. *Why:* A strong answer says that air weighs almost nothing, and uses what happened: no air, it sank, a little air, it floated.
+   **Answer:** Air is very light. It took the place of some heavy water, so the whole bottle got light enough to float.. *Why:* A strong answer says that air is much lighter than water, and uses what happened: no air, it sank, a little air, it floated.
 6. (label) Label the camel: hump, eyelashes, nostrils, wide feet.  
    **Answer:** ['hump: the lump on her back', 'eyelashes: above and below her eyes', 'nostrils: at the front of her nose', 'wide feet: at the bottom of her legs']. *Why:* The hump stores fat. The eyelashes keep sand out of her eyes. The nostrils close in a sandstorm. The wide feet spread out on soft sand.
 7. (sort) Sort these plants into 'suited to a dry place' and 'suited to a wet place'.  
@@ -453,7 +453,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
    **Answer:** adaptation. *Why:* An adaptation is a body part, or a way of behaving, that helps a living being live in their habitat.
 10. (count) A rohu has 1 fin on her back, 1 tail fin, 2 fins near her head, 2 fins on her belly and 1 fin near her tail underneath. How many fins is that?  
    **Answer:** 7. *Why:* 1 and 1 is 2. 2 more is 4. 2 more is 6. 1 more is 7.
-11. (perspective) Kavya and Arjun live in Chennai. They are arguing about a fish and a camel.  
+11. (perspective) Kavya and Divya live in Chennai. They are arguing about a fish and a camel.  
    **Answer:** A strong answer picks a side and gives a reason, then sees that each animal is suited to their own place.. *Why:* Both are right about their animal. A camel is suited to the desert and a fish to water. Neither would be better in the other's place.
 12. (mcq) What does the fin on a fish's back do?  
    Options: Helps her breathe / Stops her from rolling over / Keeps her warm  
@@ -475,9 +475,9 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 7. (odd) Three of these help animals stay warm in snow. Which one does not?  
    Options: Thick fur / Wide, furry paws / A long tail to wrap round the face / Fins  
    **Answer:** 3. *Why:* Fins are for swimming. Thick fur, furry paws and a tail wrapped round the face all help a snow leopard keep warm.
-8. (fill) You, your mother and your grandmother are three ________.  
+8. (fill) A camel calf, her mother and her grandmother are three ________ of camels.  
    **Answer:** generations. *Why:* A generation is one step in a family. Adaptations change slowly, over very many generations.
-9. (write) Anju's Appa thought a camel's hump was a water tank. What would you tell him, and how do we know?  
+9. (write) In the story Moti and the Mathi, Anju's father thought a camel's hump was a water tank. What would you tell him, and how do we know?  
    **Answer:** The hump is fat, not water. We know because when a camel has little food for a long time, the hump gets smaller and flops over.. *Why:* A strong answer says what the hump is and gives a reason, such as the hump shrinking when food is short.
 10. (count) A camel has 2 toes on each foot. How many toes does she have on her 4 feet?  
    **Answer:** 8. *Why:* 2 toes on each of 4 feet: 2, 4, 6, 8. That is 8 toes.
@@ -514,7 +514,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
    **Answer:** ['spines: the sharp points all over', 'thick green stem: the fat body of the cactus, which stores water', 'waxy skin: the shiny outside of the stem', 'wide roots: spreading under the soil, near the top']. *Why:* Spines in place of leaves lose less water. The thick stem stores water and makes food. The waxy skin keeps water in. Wide roots near the top soak up rain quickly when it comes.
 
 ## Videos
-- **A fish hanging still in the water, then rising and sinking, filmed in an aquarium** (, 3 min) id `to find`: Shows a fish staying at one depth with her fins nearly still, the way the swim bladder lets her. *Check:* Find real footage of a fish hovering. Check that any words say the swim bladder holds gas, and do not say fish breathe with it.
+- **A fish hanging still in the water, then rising and sinking, filmed in an aquarium** (, 3 min) id `to find`: Shows a fish staying at one depth with her fins nearly still, the way the swim bladder lets her. *Check:* Find real footage of a fish hovering. Check that any words say the swim bladder holds gas, and do not say fish breathe with the swim bladder.
 - **Camels walking on soft sand, and closing their nostrils in a sandstorm** (, 4 min) id `to find`: Shows a camel's wide feet spreading on sand, her long eyelashes and her nostrils closing. *Check:* Find a nature film clip. Check it says the hump is fat, not water.
 - **Mudskippers hopping and breathing on mangrove mud** (, 3 min) id `to find`: Shows fish who live much of their life out of water, using their fins to move on mud. *Check:* Find a short nature clip, ideally from the Sundarbans or another Indian mangrove. Check the facts said about breathing through the skin.
 
@@ -527,10 +527,10 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
    **Answer:** The tail fin. *Why:* The tail fin pushes the water back, and the water pushes the fish forward. If you picked the back fin, that one keeps her from rolling over.
 3. (mcq) A fish is taken out of water. Why can't she breathe for long?  
    Options: There is no oxygen in air / Her gills stick together and dry out / Her fins stop working  
-   **Answer:** Her gills stick together and dry out. *Why:* Air has plenty of oxygen. But out of water, the thin gill flaps stick together, like the paintbrush hairs, so the fish cannot take enough of it in.
+   **Answer:** Her gills stick together and dry out. *Why:* Air has plenty of oxygen. But out of water, the thin gill flaps stick together, like the paintbrush hairs, so the fish cannot take enough oxygen in.
 4. (mcq) In the Bottle Fish test, the bottle full of coins and water sank. What made it float?  
    Options: Adding more coins / Swapping a little water for air / Shaking it hard  
-   **Answer:** Swapping a little water for air. *Why:* Air weighs almost nothing. A few spoons of air in place of water made the whole bottle light enough to float.
+   **Answer:** Swapping a little water for air. *Why:* Air is much lighter than water. A few spoons of air in place of water made the whole bottle light enough to float.
 5. (mcq) Many fish have a bag of gas inside their bodies. What is it called?  
    Options: A gill / A swim bladder / A hump  
    **Answer:** A swim bladder. *Why:* The swim bladder holds gas. It stops a fish from sinking, like the air in your bottle fish.
@@ -579,7 +579,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 
 ## Questions to ask kids
 - If you had to live in the sea, which part of your body would you want to change first?
-- What helps that crow on the window live in a city?
+- What helps a crow sitting on a window ledge live in a city?
 - Why do you think a pigeon can stand on such a thin ledge?
 - Look at a plant on the way to the shop. Do you think their family comes from a dry place or a wet place? Why?
 - When you take a big breath in a swimming pool or a bucket bath, do you feel lighter? Why might that be?
@@ -587,7 +587,6 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 ## Jokes
 - Why did the camel bring a hump to school? *In case lunch was late!*
 - Why are fish so good at maths? *They always have their scales ready!*
-- What did the cactus say to the lotus? *You look a bit wet. I like to keep things dry and sharp!*
 - What do you call a fish with no eyes? *A fsh!*
 - What do you call a camel with no hump? *Humphrey!*
 - Why don't sharks ever stop swimming? *They don't want to hit rock bottom!*
@@ -599,7 +598,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 - Lakshmi's bottle fish floated after 3 spoons of water were poured out. Her friend Nila's bottle floated after 5 spoons. How many more spoons did Nila's bottle need? **2 more spoons.**. Count up from 3 to 5: 4, 5. That is 2 more. Nila's bottle may have had more coins, or been a different size. (queues `math.number-sense.comparing-ordering.L2`)
 - Three rohu fish lie on the table at the market. Each rohu has 7 fins. How many fins are there in all? **21 fins.**. 7 and 7 is 14. 7 more is 21. That is three groups of 7. (queues `math.multiplication.equal-groups.L2`)
 - A picture shows 4 camels. You count 7 humps. Some camels have one hump and some have two. How many camels have two humps? **3 camels have two humps, and 1 camel has one hump.**. Every camel has at least one hump, so 4 camels give 4 humps. There are 7 humps, so 3 humps are extra. Each extra hump belongs to a two-humped camel. So 3 camels have two humps. (queues `math.logic.problem-solving.L2`)
-- Your 500 ml bottle holds about 33 big spoons of water. It floated after 3 spoons of water were poured out. Is 3 spoons more or less than half the bottle? **Much less than half.**. Half of 33 is about 16 or 17. 3 is much less than 16. So the bottle needed only a small amount of air to float. (queues `math.number-sense.estimation.L2`)
+- Your 500 ml bottle holds about 30 tablespoons of water. It floated after 3 spoons of water were poured out. Is 3 spoons more or less than half the bottle? **Much less than half.**. Half of 30 is 15. 3 is much less than 15. So the bottle needed only a small amount of air to float. (queues `math.number-sense.estimation.L2`)
 
 ## Song
 Just Right for Here (sci.habitats.L2): Topic-level song for Habitats L2

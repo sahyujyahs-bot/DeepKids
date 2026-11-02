@@ -14,7 +14,7 @@
 5. By the end I can guess first, give a reason, and then say what I saw.
 
 ## Terms
-- **Plant part**: One piece of a plant that has its own job: root, stem, leaf, flower, fruit or seed. *e.g.* A carrot is the root of the carrot plant. Palak is the leaf of the palak plant.
+- **Plant part**: One piece of a plant. Each piece has its own job: root, stem, leaf, flower, fruit or seed. *e.g.* A carrot is the root of the carrot plant. Palak is the leaf of the palak plant.
 - **Edible**: Safe to eat. Only some plant parts are edible. *e.g.* The leaf of a drumstick tree is edible. We cook it as murungai keerai.
 - **Fruit**: The part of a plant that grows from a flower and holds the seeds. To a scientist, a tomato is a fruit. *e.g.* Cut a tomato, a brinjal or a cucumber. You find seeds inside, so each one is a fruit.
 - **Stored food**: Food a plant has made and kept inside a part, to use later. *e.g.* A potato, a carrot and a chana seed are packed with stored food.
@@ -45,7 +45,7 @@ A potato, a carrot and a dry chana seed are packed with food that the plant save
 ### A cactus, a lotus and a banyan: same parts, different homes · *defined*
 **Definition:** Every plant has roots, a stem and leaves, but their shapes are very different. Each plant's parts suit the place where the plant lives.
 
-A cactus lives where it hardly rains. Their thick green stem stores water and makes food. Their leaves are sharp spines, which lose almost no water. A lotus lives in a pond. Their stem grows in the mud, where there is little air. Long tunnels of air run down the leaf stalks to the parts in the mud. A banyan is a huge tree. Roots grow down from her branches into the soil and hold the long branches up like pillars.
+A cactus lives where it hardly rains. Their thick green stem stores water and makes food, and their spines are leaves that lose almost no water. A lotus lives in a pond, with their stem in the mud where there is little air. Long tunnels of air run down the leaf stalks to the stem. A banyan is a huge tree. Roots grow down from her branches into the soil and hold the branches up like pillars.
 - e.g. Cactus: a fat, green stem that stores water, and spines instead of flat leaves.
 - e.g. Lotus: a stem in the mud, long stalks with air tunnels, and big leaves on the water.
 - e.g. Banyan: prop roots that hang from the branches and become new trunks.
@@ -64,7 +64,7 @@ Plants feel and decide with every part. A banyan's hanging root senses which way
 - A lotus has air tunnels in their stalks and underground stem. *How we know:* Cut a lotus stem across and you see a ring of holes. Air travels through these tunnels to the parts in the mud.
 
 ## How we found out
-**John Dacey, an American scientist (1980); Mevi-Schütz and Wolfgang Grosse in Germany (1988), 1980 for the water lily; 1988 for the lotus.** Water lilies and lotus plants grow their stems in pond mud. Mud has almost no air in it, but the stems need air to stay alive. For a long time, scientists thought air reached them only by creeping slowly down the leaf stalks. In 1980, an American scientist named John Dacey studied the yellow water lily. He found that air does not just creep. Young leaves, warmed by the sun, push air down the stalks under pressure. The air flows through the stem in the mud, and comes back up and out through older leaves. Dacey called it an internal wind. In 1988, two scientists in Germany, Mevi-Schütz and Wolfgang Grosse, found a flow of air through the lotus too, driven by the warmth of the sun on the leaves. Scientists are still studying exactly how the lotus pushes the air.  
+**John Dacey; Mevi-Schütz and Wolfgang Grosse in Germany, 1980 for the water lily; 1988 for the lotus.** Water lilies and lotus plants grow their stems in pond mud. Mud has almost no air in it, but the stems need air to stay alive. For a long time, scientists thought air reached them only by creeping slowly down the leaf stalks. In 1980, a scientist named John Dacey studied the yellow water lily. He found that air does not just creep. Young leaves, warmed by the sun, push air down the stalks. The air flows through the stem in the mud, and comes back up and out through older leaves. Dacey called it an internal wind. In 1988, two scientists in Germany, Mevi-Schütz and Wolfgang Grosse, found a flow of air through the lotus too, driven by the warmth of the sun on the leaves. Scientists are still studying exactly how the lotus pushes the air.  
 *What people believed before:* That air reaches the stems of pond plants only by creeping slowly down the stalks. Dacey showed that warm young leaves push air down, so it flows through the plant like a wind.
 
 ## Challenging perspectives
@@ -85,19 +85,18 @@ We have sorted our food by plant part, tested which parts float, and met a cactu
 *Habit it breaks:* We think of vegetables as food that is the same all through, made for us. The float test showed that each part is filled differently inside: one with stored food, another with air. What fills a part tells us the job it was doing for the plant.  
 *Evidence:* In the float test, the potato and dry chana sank, and a tiny crumb of potato sank too. The brinjal piece and the palak leaf floated. Cut open, the potato was firm and packed, and the brinjal was spongy. A lotus stem slice is full of air tunnels.
 
-- *who am i:* Your body is filled for its jobs too. Your lungs are full of tiny air spaces, and your bones are packed hard.
+- *who am i:* Your body is filled for its jobs too. Your lungs are full of tiny air spaces, and your bones are dense and strong.
 - *what is life:* A plant makes food and stores some for later, in a root, a stem or a seed. When we eat it, that saved food becomes ours.
 - *what is this world:* A cactus, a lotus and a banyan all have roots, stems and leaves, but each is shaped by the place they live.
 
-Every plant starts as one seed. From that one seed come roots, a stem, leaves, flowers, fruits and new seeds, each filled and shaped for a different job. The same root, stem and leaf become a water store in a cactus, an air pipe in a lotus and a pillar in a banyan. Everything is conscious, the plant too: each part senses what is around it and sends signals to the others, so the whole plant acts together.
+Most plants start as one seed. From that one seed come roots, a stem, leaves, flowers, fruits and new seeds, each filled and shaped for a different job. The same root, stem and leaf become a water store in a cactus, an air pipe in a lotus and a pillar in a banyan. Everything is conscious, the plant too: each part senses what is around that part and sends signals to the others, so the whole plant acts together.
 
-- **Tirukkural 595:** A lotus stalk grows as long as the water is deep. In the same way, how high a person rises depends on how big their mind is. (A lotus grows their leaf stalks long enough to reach the top of the water. The Tirukkural, from Tamil Nadu, saw that a plant's part grows to fit the place.)
-- **Bhagavad Gita 5.10:** A wise person acts in the world but is not stained by it, like a lotus leaf that sits on water and stays dry. (A lotus leaf rests on the water, and water rolls off in drops. The leaf is full of air spaces, and its waxy top stays dry.)
+- **Tirukkural 595:** A lotus stalk grows as long as the water is deep. In the same way, how high a person rises depends on how strong their will is. (A lotus grows their leaf stalks long enough to reach the top of the water. The Tirukkural, from Tamil Nadu, saw that a plant's part grows to fit the place.)
+- **Bhagavad Gita 5.10:** A wise person acts in the world but is not stained by it, like a lotus leaf that sits on water and stays dry. (A lotus leaf rests on the water, and water rolls off in drops. The top of the leaf is waxy, so it stays dry.)
 - Science (settled): Leaves have many tiny air spaces inside. Air moves through them to the cells that make the plant's food.
 - Science (debated): Whether plants feel what their parts are doing, the way we feel our hands, is still argued about.
 - Other view, Many plant scientists: They explain the parts of a plant without any mind. Over a very long time, plants with parts that suited their home lived and left more seeds. They do not use feeling or deciding to explain it.
 - Practice, Feel the air inside you (3 min): Sit still and put your hands on your chest. Breathe in slowly. Feel your chest get bigger as air fills the tiny spaces in your lungs. Breathe out slowly. A leaf has tiny air spaces too. Breathe in again, and think of a leaf taking in air in the sun.
-- Ask: If you eat the food a plant stored for later, whose food is it?
 - Ask: Your lungs have air spaces, and so does a leaf. What else in your body is filled for its job?
 - Ask: Is a banyan's prop root still a root once it holds the tree up?
 
@@ -108,7 +107,7 @@ Every plant starts as one seed. From that one seed come roots, a stem, leaves, f
 - *big:* A cactus, a lotus and a banyan look nothing alike. Why do they all have roots, a stem and leaves? (hint: Think about the jobs every plant must do, wherever they live.)
 
 ## Story: The Brinjal That Would Not Sink
-*Thamarai thandu (lotus stem) is eaten in Tamil Nadu, often dried as vathal. The Thimmamma Marrimanu banyan is in Andhra Pradesh and is one of the largest trees in the world by the area under her branches. Kavya, Paati and Arjun are made up.*
+*Thamarai thandu is the Tamil name for lotus stem. The Thimmamma Marrimanu banyan is in Andhra Pradesh and is one of the largest trees in the world by the area under her branches. Kavya, Paati and Arjun are made up.*
 
 Kavya was seven, and she lived in Madurai with her grandmother. Everyone called her grandmother Paati. On Sunday mornings, Kavya helped Paati wash the vegetables for sambar.
 
@@ -142,11 +141,11 @@ Kavya thought about it. "Lotus plants grow in ponds," she said slowly. "This ste
 
 Arjun laughed. "A plant with straws inside!"
 
-"In my school there is a cactus in a pot," he said. "It has no leaves at all. Only prickles."
+Then Arjun remembered something. "In my school there is a cactus in a pot," he said. "It has no leaves at all. Only prickles."
 
 "The prickles are the leaves," said Kavya. She had read it in a book. "A cactus lives where it hardly rains. Thin, flat leaves would dry out. So the cactus has spines, and keeps water in a fat green stem."
 
-"And the big tree near your school?" asked Paati. "The one with roots hanging down like ropes?"
+"And the big tree near Kavya's school?" asked Paati. "The one with roots hanging down like ropes?"
 
 "The banyan!" said Kavya. "Her roots grow down from the branches. When they reach the ground, they get thick, like pillars."
 
@@ -165,13 +164,13 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 
 ## Games
 ### g1 · Which Part Do We Eat? (15 min)
-- **rules:** Before you play, draw each food on its card, so a child who cannot read yet can play.; Lay the 6 part cards face up in a row. Mix the food cards and put them face down in a pile.; On your turn, turn over the top food card and read the food aloud.; Put the food card under the part you think it is, and say why.; Turn the card over and read the back. If you were right, keep the card. If not, put it at the bottom of the pile.; When the pile is empty, the player with the most cards wins. Then lay all the cards out and count how many of each part you found.
+- **rules:** Lay the 6 part cards face up in a row. Mix the 18 food cards and put them face down in a pile.; Take turns. On your turn, turn over the top food card and read the food aloud.; Put the food card under the part you think it is, and say why.; Turn the card over and read the back. If you were right, keep the card in your own pile. If not, leave the card under its right part, and nobody keeps it.; When the pile is empty, the player with the most kept cards wins. If two players tie, they share the win. Then put every card under its part and count how many cards each part has.
 - **Printable cards: 18 food cards to cut out:** Carrot (back: Root); Radish (mullangi) (back: Root); Beetroot (back: Root); Sugarcane (back: Stem); Banana stem (vazhaithandu) (back: Stem); Potato (back: Stem. A potato is a stem that grows under the ground.); Palak (back: Leaf); Curry leaves (back: Leaf); Cabbage (back: Leaf. A cabbage is many leaves wrapped tight.); Cauliflower (back: Flower. It is a bunch of tiny flower buds.); Banana flower (vazhaipoo) (back: Flower); Clove (back: Flower. A clove is a dried flower bud.); Tomato (back: Fruit. It grew from a flower and has seeds inside.); Bhindi (back: Fruit); Drumstick (back: Fruit. The long pod holds the seeds.); Rice (back: Seed); Peanut (back: Seed); Toor dal (back: Seed)
 - **Printable cards: 6 part cards to cut out: root, stem, leaf, flower, fruit, seed:** Root; Stem; Leaf; Flower; Fruit; Seed
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards together. 2. Your child draws each food on its card. 3. Lay out the 6 part cards.  
-  *Parent says:* Let's draw each food on its card. Then we can play.  
-  *Child mode:* Cut out the cards. Draw each food on its card.
+  *Parent does:* 1. Cut out the cards together. 2. Lay out the 6 part cards. 3. A child who cannot read yet can first draw a small picture of the food on each food card.  
+  *Parent says:* Let's cut out the cards. Then we can play.  
+  *Child mode:* Cut out the cards. Lay out the 6 part cards. You can draw each food on its card.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns as the rules say. 2. On each turn, ask the player why they chose that part.  
   *Parent says:* Turn over a card. Which part is it? Why do you think so?  
@@ -182,13 +181,13 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Parent says:* Which part of the plant do we eat the most of? Let's count.  
   *Child mode:* Count the cards under each part. Which has the most?
 ### g2 · Cactus, Lotus or Banyan? (12 min)
-- **rules:** Each player draws a cactus, a lotus and a banyan on three answer cards.; Mix the clue cards and put them face down. One player is the reader.; The reader turns over a clue card and reads the front aloud, but not the back.; Everyone else holds up the answer card they think is right, all at the same time.; The reader reads the back. Everyone who was right gets one point.; The next player becomes the reader. Play until all 12 clues are read. The player with the most points wins.
+- **rules:** Each player takes one cactus, one lotus and one banyan answer card.; Mix the clue cards and put them face down. One player is the reader.; The reader turns over a clue card and reads the front aloud, but not the back. The reader does not answer that round.; Everyone else holds up the answer card they think is right, all at the same time.; The reader reads the back. Everyone who was right gets one point.; The next player becomes the reader. Play until all 12 clues are read. The player with the most points wins. If two players tie, they share the win.
 - **Printable cards: 12 clue cards to cut out:** My stem is fat and green, and full of water. (back: Cactus); My leaves are sharp spines. (back: Cactus); I live where it hardly rains for months. (back: Cactus); My roots spread wide just under the sand, to catch rain fast. (back: Cactus); My stem lies in the mud at the bottom of a pond. (back: Lotus); My leaf stalks are full of air tunnels. (back: Lotus); My big round leaves rest on the water or stand just above it. (back: Lotus); Water rolls off my leaves in round drops. (back: Lotus); My roots hang down from my branches like ropes. (back: Banyan); When my hanging roots reach the soil, they grow thick like pillars. (back: Banyan); Birds eat my small red figs and drop my seeds far away. (back: Banyan); One of me can spread so wide that I look like a whole forest. (back: Banyan)
 - **Printable cards: 12 answer cards: cactus, lotus and banyan for up to 4 players:** Cactus; Lotus; Banyan; Cactus; Lotus; Banyan; Cactus; Lotus; Banyan; Cactus; Lotus; Banyan
 - **s1 (3 min)**  
-  *Parent does:* 1. Each player draws a cactus, a lotus and a banyan on three small cards. 2. Mix the clue cards.  
-  *Parent says:* Draw a cactus, a lotus and a banyan. You will hold one up when you hear a clue.  
-  *Child mode:* Draw a cactus, a lotus and a banyan on three cards.
+  *Parent does:* 1. Cut out the clue cards and the answer cards. 2. Give each player a cactus, a lotus and a banyan answer card. 3. Mix the clue cards.  
+  *Parent says:* Here are your three answer cards. You will hold one up when you hear a clue.  
+  *Child mode:* Cut out the cards. Take a cactus, a lotus and a banyan answer card.
 - **s2 (9 min)**  
   *Parent does:* 1. Play as the rules say. 2. After each clue, ask why that part helps the plant.  
   *Parent says:* Listen to the clue. Hold up your answer. Why does that part help the plant?  
@@ -199,16 +198,16 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 ### e1 · The Float Test: which plant parts float, and which sink? (25 min)
 - **question:** Which plant parts float in water, and which sink? Does a tiny piece do the same as a big piece?
 - **predict:** Hold each piece in your hand. Which ones will float, and which will sink? Put them in two groups. Why do you think so?
-- **fair test:** Every piece goes into the same bowl of the same tap water. We drop each piece in gently from just above the water, and wait 10 seconds before we decide. The first pieces are all about the size of your thumb, so size is not the reason one floats and another sinks. Then we change only the size, with one tiny piece of potato and one tiny piece of brinjal.
-- **safety:** A grown-up cuts the vegetables. Put the bowl on the floor or a low table so it cannot tip onto anyone.
+- **fair test:** Every piece goes into the same bowl of the same tap water. We drop each piece in gently from just above the water, and wait 10 seconds before we decide. The four cut pieces (potato, carrot, brinjal, cucumber) are all about the size of your thumb, so size is not the reason one floats and another sinks. The leaf and the chana go in as they are. Then we change only the size, with one tiny piece of potato and one tiny piece of brinjal.
+- **safety:** A grown-up does all the cutting.
 - **record:** Draw the bowl. Draw each food at the top of the water or at the bottom, where it really went. Write F for float or S for sink next to your guess.
-- **results table:** Food | Which plant part it is | My guess: float or sink | What happened | Tiny piece: float or sink
+- **results table:** Food | Plant part | My guess: float or sink | What happened | Tiny piece: float or sink
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut one thumb-sized piece each of potato, carrot, brinjal and cucumber. 2. Lay them on a plate with a palak leaf and 5 dry chana. 3. Fill the bowl with water.  
   *Parent says:* Here are six foods. Each one is a part of a plant. Can you tell me which part each one is?  
   *Child mode:* Look at the six foods. Each one is a part of a plant. Which part is each one?
   - Ask: Which part of the plant is the carrot? And the chana? (good: The carrot is a root. It grew in the soil.; The chana is a seed. It can grow into a new plant.)
-  - Note: Accept any answer now. The vegetable basket sort and the cards explain the parts. Potato is a stem that grows under the ground, which surprises most people.
+  - Note: Accept any answer now. The vegetable basket sort and the card game explains the parts. Potato is a stem that grows under the ground, which surprises most people.
 - **s2 (4 min)**  
   *Parent does:* 1. Let your child hold each piece. 2. Ask them to put the pieces in two groups: will float, will sink. 3. Write down their groups and their reason, word for word.  
   *Parent says:* Hold each piece in your hand. Which ones will float, and which will sink? Make two groups. Why do you think so?  
@@ -220,8 +219,8 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Parent says:* Drop the first piece in gently. Let's count to ten. Is it on top, or at the bottom?  
   *Child mode:* Drop one piece in gently. Count to ten. Is it on top or at the bottom?
   - Note: Usually the brinjal, cucumber and palak leaf float. The potato and dry chana sink. Most carrots sink, but a few float. Write down what yours really did. If a piece floats with a bubble stuck to it, push it under once and let go.
-- **s4 (4 min)**  
-  *Parent does:* 1. Break off a crumb of potato, as small as a grain of rice. 2. Cut a tiny piece of brinjal the same size. 3. Ask your child to guess first. 4. Drop both in.  
+- **s4 (4 min) · grown-up needed**  
+  *Parent does:* 1. A grown-up breaks off a crumb of potato, as small as a grain of rice. 2. Cut a tiny piece of brinjal the same size. 3. Ask your child to guess first. 4. Drop both in.  
   *Parent says:* Some people say small things float and big things sink. Here is a tiny bit of potato. Will it float or sink? Why?  
   *Child mode:* Here is a tiny bit of potato. Will it float or sink? Say why. Now drop it in.
   - Ask: The tiny potato sank, and the big brinjal floated. So is it about size? (good: No. The tiny potato still sank.; It is what is inside that decides.)
@@ -238,7 +237,6 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Parent says:* Tell me what you found. Which parts floated? Which parts sank? Why do you think that happened?  
   *Child mode:* Say what you found. Which floated? Which sank? Why?
   - Ask: Why did the potato and the chana sink? (good: They are packed with stored food.; There is no air inside them.)
-  - Think: A lotus stem is full of holes. Do you think a slice of lotus stem would float or sink?
 ### e2 · Do Seeds Drink? Ten chana in water overnight (20 min, 2 days)
 - **question:** Does a dry seed take in water? How much bigger does a line of 10 chana get after a night in water?
 - **predict:** Look at the dry chana. After a night in water, will the line of 10 chana be shorter, the same, or longer? Why do you think so?
@@ -261,7 +259,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Parent says:* Line up the soaked chana. How long is the line now? Press a soaked one and a dry one. What is different?  
   *Child mode:* Line up the soaked chana. How long is the line now? Press one. Is it soft?
   - Ask: Where did the extra size come from? (good: The chana drank water.; Water went inside the seed.)
-  - Note: Soaked chana usually grow to about twice their dry weight overnight, so the line of 10 grows by a few centimetres. A seed is packed with stored food, and the seed takes in water before the baby plant inside starts to grow. This is why we soak chana before cooking.
+  - Note: Soaked chana are usually a little bigger and softer: the line of 10 often grows by 1 to 3 centimetres, and a soaked chana dents when you press it. Write down what yours really did. A seed is packed with stored food, and the seed takes in water before the baby plant inside starts to grow. This is why we soak chana before cooking.
 
 ## Activities
 ### a1 · The Vegetable Basket Sort: which part are we eating? (15 min)
@@ -272,7 +270,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Child mode:* Look at the six papers. Root, stem, leaf, flower, fruit, seed. Bring the vegetables.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child picks up one food at a time. 2. They say which part they think it is and why. 3. They put it on that paper. 4. Help only with the surprises.  
-  *Parent says:* Pick up a food. Which part of the plant do you think it is? How can you tell?  
+  *Parent says:* Pick up a food. Which plant part do you think this food is? How can you tell?  
   *Child mode:* Pick up a food. Which part is it? Put it on that paper.
   - Ask: How did you know the carrot is a root? (good: It grows in the soil.; It is long and pointed, with thin hairs.)
   - Note: Surprises: a potato is a stem that grows under the ground. An onion is mostly fat leaves wrapped round each other. Cauliflower is a bunch of tiny flower buds. Tomato, brinjal, bhindi and cucumber are fruits.
@@ -285,23 +283,23 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 - **record:** Draw each spice you found on its paper, and write its name.
 - **s1 (4 min)**  
   *Parent does:* 1. Open the masala box. 2. Let your child smell each spice. 3. Put a pinch of each on a steel plate.  
-  *Parent says:* Every spice in this box came from a plant. Smell each one. Which part of a plant do you think it is?  
+  *Parent says:* Every spice in this box came from a plant. Smell each one. Which plant part do you think each spice is?  
   *Child mode:* Smell each spice. Every one came from a plant. Which part do you think?
 - **s2 (8 min)**  
   *Parent does:* 1. Tell your child each answer after they have guessed. 2. They move the pinch to the right paper.  
-  *Parent says:* Guess first, then I will tell you. Mustard and methi are seeds. Curry leaves are leaves. Dried red chilli is a fruit with seeds inside. Turmeric and cinnamon come from stems. A clove is a flower bud that was picked and dried before it opened.  
+  *Parent says:* Guess first, then I will tell you. Which part of a plant do you think this spice is?  
   *Child mode:* Guess first. Then put each spice on its paper.
   - Ask: Which spice surprised you most? (good: The clove, because it is a flower.; Cinnamon, because it is the bark of a stem.)
-  - Note: Turmeric is an underground stem. Cinnamon is the inner bark of a tree's stem and branches. Cloves are dried flower buds. Jeera is a tiny fruit, so it is best left out of the sort.
+  - Note: Answers: mustard and methi are seeds. Dried red chilli is a fruit with seeds inside. Turmeric is an underground stem. Cinnamon is the inner bark of a tree's stem. A clove is a flower bud that was picked and dried before it opened. Leave out jeera: it is a tiny fruit that looks like a seed. A powder such as turmeric or chilli powder cannot be recognised, so use the whole spice if you have it, or tell your child which one it is.
 ### a3 · Three Plants, Three Homes: a cactus, a lotus and a banyan (15 min)
 - **record:** Draw the three plants side by side. Under each, write where the plant lives.
 - **s1 (8 min)**  
-  *Parent does:* 1. Show your child the cards for the cactus, the lotus and the banyan. 2. Your child draws all three. 3. They colour the roots brown, the stems orange and the leaves green.  
+  *Parent does:* 1. Tell your child what each plant looks like, using the notes below. 2. Your child draws all three. 3. They colour the roots brown, the stems orange and the leaves green. These colours are a code to tell the parts apart, not the real colours.  
   *Parent says:* Draw a cactus, a lotus and a banyan. Colour the roots brown, the stems orange and the leaves green. Where are the leaves on the cactus?  
   *Child mode:* Draw the three plants. Roots brown, stems orange, leaves green.
   - Ask: Why is the cactus stem so fat? (good: It keeps water inside.; It lives where it hardly rains.)
   - Ask: Where does the lotus stem grow? (good: In the mud at the bottom of the pond.)
-  - Note: The cactus's spines are their leaves, so colour them green too. The lotus stem lies in the mud, and long leaf stalks rise up to the leaves on the water.
+  - Note: Cactus: a fat green stem full of water, sharp spines instead of flat leaves, and roots that spread wide just under the sand. Lotus: a stem lying in the mud at the bottom of a pond, long leaf stalks rising from it, and big round leaves on the water. Banyan: a huge tree with roots hanging down from her branches. The cactus's spines are their leaves, so colour them green too.
 - **s2 (7 min)**  
   *Parent does:* 1. Call out a plant. 2. Your child acts it out and says one thing about its parts. 3. Swap, and let your child call out.  
   *Parent says:* Be a cactus! Now be a lotus! Now be a banyan! Tell me one thing about your roots or your stem.  
@@ -318,14 +316,15 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Parent does:* 1. Ask your child to guess if a slice will float or sink, and why. 2. Drop a slice into the bowl. 3. Talk about what happened.  
   *Parent says:* Will this slice float or sink? Why do you think so? Let's try.  
   *Child mode:* Will the slice float or sink? Say why. Drop it in.
-  - Note: The holes are air tunnels. They carry air from the leaves above the water down to the stem in the mud. Whatever your slice does, ask your child why. A lotus stem also stores food, so it is not as light as it looks.
+  - Note: The holes are air tunnels. They carry air from the leaves above the water down to the stem in the mud. A cut slice is open at both ends, so water can fill the holes, and a lotus stem also stores food. So nobody can promise what your slice will do: write down what it really did, and ask your child why.
 
 ## Projects
 ### p1 · Roots from a Stem: a money plant or mint in a jar (20 min, 14 days)
+- **safety:** Money plant sap can upset the stomach and the mouth. Do not chew it, keep it from small children and pets, and wash hands after cutting it. A grown-up cuts the stem and the bottle.
 - **record:** Draw the stem on day 1, day 9 and day 14. Write how many roots you can count each time.
 - **schedule:** day 1: Pull the bottom leaves off the stem. Put the stem in a jar of water on a bright windowsill, out of strong sun. (6 min); day 5: Look for tiny white bumps or roots on the stem under the water. Top up the water. (3 min); day 9: Count the roots. Draw the stem and roots. Change the water. (4 min); day 14: Count the roots again. Draw them. Say where on the stem they grew. (7 min)
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water with the bare part under the water.  
+  *Parent does:* 1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water. 4. Keep the bare part under the water, with one leaf bump.  
   *Parent says:* Roots usually grow from a seed, down into the soil. Can roots grow out of a stem? Let's find out.  
   *Child mode:* Pull off the bottom leaves. Put the stem in the water. Will roots grow?
   - Ask: Do you think roots will grow? Where on the stem? (good: Yes, at the bottom.; Where the leaves were.)
@@ -371,8 +370,8 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Child mode:* Measure your branch. Count the roots. How could it grow longer?
 
 ## Worksheets
-### Which Part Is It? (core) (core, 11 questions)
-1. (match) Draw a line from each food to the plant part it is.  
+### Which Part Is It? (core) (core, 10 questions)
+1. (match) Draw a line from each food to its plant part.  
    **Answer:** Carrot → root; Sugarcane → stem; Palak → leaf; Cauliflower → flower; Tomato → fruit; Rice → seed. *Why:* A carrot grows down in the soil like a root. Sugarcane is a tall stem. Palak is a leaf. Cauliflower is a bunch of flower buds. A tomato has seeds inside, so it is a fruit. Rice is a seed.
 2. (mcq) In the float test, what happened to the piece of potato?  
    Options: It floated / It sank / It melted  
@@ -381,36 +380,33 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
    **Answer:** brinjal piece → Floated; potato piece → Sank; palak leaf → Floated; dry chana → Sank; cucumber slice → Floated. *Why:* The parts with air spaces floated. The parts packed with stored food sank.
 4. (draw) Draw the bowl of water from your float test. Draw each food where it really went: at the top or at the bottom.  
    **Answer:** A bowl with brinjal, cucumber and the leaf at the top, and potato and chana at the bottom.. *Why:* A strong drawing puts each food where it really went in the child's own test, even if a piece did something unusual.
-5. (truefalse) A tomato has seeds inside, so a scientist calls it a fruit.  
-   **Answer:** True. *Why:* True. A part that grows from a flower and holds seeds is a fruit, even if we cook it like a vegetable.
-6. (odd) Three of these are leaves we eat. Which one is not a leaf?  
+5. (odd) Three of these are leaves we eat. Which one is not a leaf?  
    Options: Palak / Curry leaves / Carrot / Cabbage  
    **Answer:** 2. *Why:* A carrot is a root. Palak, curry leaves and cabbage are all leaves.
-7. (label) Label the parts of the cactus: stem, spines, roots.  
+6. (label) Label the parts of the cactus: stem, spines, roots.  
    **Answer:** ['the fat green part: stem', 'the sharp points: spines', 'the parts under the sand: roots']. *Why:* A cactus has a fat stem that stores water, spines that are changed leaves, and roots that spread under the sand.
-8. (count) Meenakshi, a girl in Class 2, sorts her vegetable basket. She finds 3 roots, 2 leaves and 4 fruits. How many foods did she sort?  
+7. (count) Meenakshi, a girl in Class 2, sorts her vegetable basket. She finds 3 roots, 2 leaves and 4 fruits. How many foods did she sort?  
    **Answer:** 9. *Why:* 3 + 2 + 4 = 9.
-9. (write) Say out loud, and a grown-up writes it down: why did the tiny crumb of potato sink?  
+8. (write) Say out loud, and a grown-up writes it down: why did the tiny crumb of potato sink?  
    **Answer:** Because the potato is packed with stored food inside. Size does not change what is inside.. *Why:* A strong answer says that what is inside decides, not the size of the piece.
-10. (fill) The sharp points on a cactus are changed ____.  
+9. (fill) The sharp points on a cactus are changed ____.  
    **Answer:** ['leaves']. *Why:* Cactus spines grow where leaves grow on other plants. They lose much less water than flat leaves.
-11. (perspective) Kavya, a girl in Class 2, and her cousin Arjun, aged 6, are looking at a tomato.  
+10. (perspective) Kavya, a girl in Class 2, and her cousin Arjun, aged 6, are looking at a tomato.  
    **Answer:** A strong answer picks one side with a reason, then says the other is also right in its own way.. *Why:* Both are right in their own place. A scientist names a part by how it grew. A cook names a food by how it is used.
-### Cactus, Lotus, Banyan (stretch) (stretch, 11 questions)
+### Cactus, Lotus, Banyan (stretch) (stretch, 10 questions)
 1. (match) Draw a line from each plant to where they live.  
    **Answer:** Cactus → a dry place where it hardly rains; Lotus → a pond with muddy bottom; Banyan → open ground with room to spread. *Why:* Each plant's parts suit their home: water stored in a cactus stem, air tunnels in a lotus stalk, prop roots for a banyan's wide branches.
 2. (mcq) Why does a lotus stem have holes in it?  
    Options: So fish can swim through / They are tunnels that carry air down to the stem in the mud / To make the stem lighter to cook  
    **Answer:** They are tunnels that carry air down to the stem in the mud. *Why:* Mud at the bottom of a pond has almost no air. The tunnels carry air from the leaves down to the stem.
-3. (mcq) Why is a cactus stem so fat?  
-   Options: It stores water for the dry months / It is full of air / It is made of wood  
-   **Answer:** It stores water for the dry months. *Why:* A cactus lives where it hardly rains. Their fat green stem stores water and makes food.
-4. (draw) Draw a banyan tree with three prop roots. Draw an arrow on one root to show which way it grew.  
+3. (draw) Draw a banyan tree with three prop roots. Draw an arrow on one root to show which way it grew.  
    **Answer:** A banyan with roots hanging down from the branches and arrows pointing down to the soil.. *Why:* A strong drawing shows the roots growing down from the branches, not up from the ground.
-5. (truefalse) Almost all cactus plants first grew in North and South America.  
+4. (truefalse) Almost all cactus plants first grew in North and South America.  
    **Answer:** True. *Why:* True. People brought prickly pear cactus to India long ago, and now it grows wild in dry places.
-6. (write) A leaf floated in the float test. Write one reason why.  
+5. (write) A leaf floated in the float test. Say or write one reason why.  
    **Answer:** A leaf has tiny air spaces inside, because a leaf takes in air to make food.. *Why:* A strong answer names the air spaces, and says the leaf uses air.
+6. (fill) A banyan's prop roots grow down from the ____ to the soil.  
+   **Answer:** ['branches']. *Why:* Prop roots start high up on the branches and grow down. When they reach the soil, they get thick and hold the branch up.
 7. (sort) Sort these parts into the plant they belong to.  
    **Answer:** spines → Cactus; air tunnels in the stalk → Lotus; prop roots → Banyan; fat stem full of water → Cactus; leaves resting on water → Lotus; small red figs → Banyan. *Why:* Each plant has the same kinds of parts, shaped for a different home.
 8. (label) Label the lotus: leaf, leaf stalk, stem in the mud, roots.  
@@ -418,15 +414,13 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 9. (odd) Three of these are fruits. Which one is not a fruit?  
    Options: Brinjal / Bhindi / Sugarcane / Drumstick  
    **Answer:** 2. *Why:* Sugarcane is a stem. Brinjal, bhindi and drumstick all grew from flowers and hold seeds, so they are fruits.
-10. (write) Revathi, a girl in Class 2, says: 'Heavy things sink and light things float.' What would you show her from the float test?  
-   **Answer:** A tiny crumb of potato sinks, and a big piece of brinjal floats. So it is what is inside, not how heavy the piece is.. *Why:* A strong answer uses evidence from the test: a small piece that sank and a big piece that floated.
-11. (perspective) Three people talk about a cactus.  
+10. (perspective) Three people talk about a cactus.  
    **Answer:** A strong answer picks a side with a reason, and sees that spines suit a dry place and flat leaves suit a wet one.. *Why:* Each part has a cost and a gain. Spines save water but make little food. Flat leaves make more food but lose more water.
 ### Think Like a Botanist (challenge) (challenge, 10 questions)
-1. (mcq) Nandini, a girl in Class 2, puts a whole potato and a small piece of potato in water. What will happen?  
-   Options: Both sink / Both float / The big one sinks and the small one floats  
-   **Answer:** Both sink. *Why:* Every piece of a potato is packed with stored food in the same way. So any size of potato sinks.
-2. (write) A clove is a dried flower bud. Why do you think we cannot see that it is a flower?  
+1. (mcq) Nandini, a girl in Class 2, drops a dry chana into water and it sinks. She soaks another chana overnight, then drops it in. What do you think happens?  
+   Options: The soaked chana sinks too / The soaked chana floats because it took in water / The soaked chana melts away  
+   **Answer:** The soaked chana sinks too. *Why:* Soaking fills the seed with water, but the seed is still packed with stored food, so the chana still sinks. Water inside does not make a part float. Air spaces do.
+2. (write) A clove is a dried flower bud. Say or write why we cannot see that it is a flower.  
    **Answer:** It was picked before it opened, and it was dried, so it is small, brown and hard.. *Why:* A strong answer says the bud was picked before it opened, and drying changed how it looks.
 3. (draw) Invent a plant that lives in a pond in a desert. Draw their roots, stem and leaves. Show one part that keeps water and one that brings air down.  
    **Answer:** Any plant that has, for example, a fat stem for water and hollow stalks for air.. *Why:* A strong drawing gives each part a clear job and explains it in a label.
@@ -438,7 +432,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
    **Answer:** False. *Why:* False. They grew out of the stem, usually where a leaf had been joined. A banyan grows roots from her branches in the same way.
 7. (label) Label each food with its plant part: turmeric, mustard seeds, cinnamon, dried red chilli.  
    **Answer:** ['turmeric: stem', 'mustard seeds: seed', 'cinnamon: stem', 'dried red chilli: fruit']. *Why:* Turmeric is an underground stem. Cinnamon is the bark of a stem. Mustard seeds are seeds. A chilli grew from a flower and holds seeds, so it is a fruit.
-8. (write) A lotus stem slice has holes. Bijoya, a girl in Kolkata, drops a slice in water. What do you think will happen, and why?  
+8. (write) A lotus stem slice has holes. Bijoya, a girl in Kolkata, drops a slice in water. Say or write what you think will happen, and why.  
    **Answer:** Any guess with a reason. For example: it may float because of the air in the holes, or sink because the stem also stores food.. *Why:* A strong answer gives a guess and a reason that uses what the child knows about air spaces and stored food. Testing is the only way to be sure.
 9. (mcq) Why do farmers sometimes put seeds in water before they sow them, and throw away the ones that float?  
    Options: Floating seeds are often empty or damaged inside / Floating seeds are too heavy / Water makes seeds grow faster in a minute  
@@ -447,9 +441,9 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
    **Answer:** A strong answer sees that prop roots start as roots and take on the job of a trunk.. *Why:* Prop roots begin as roots and take in water from the soil. Later they also hold the tree up, like a trunk. A part can do more than one job.
 
 ## Videos
-- **A banyan tree's hanging roots growing down to the ground (to find)** (, 3 min) id `to find`: Shows prop roots growing from branches and turning into pillars. *Check:* Find a real video, check that it shows a banyan (Ficus benghalensis), and watch it fully first.
-- **A lotus pond: leaves, stalks and the stem in the mud (to find)** (, 3 min) id `to find`: Shows where each lotus part grows, and the holes in a cut lotus stem. *Check:* Find a real video and watch it first.
-- **A cactus swelling after rain (to find)** (, 3 min) id `to find`: Shows a cactus stem storing water. *Check:* Find a real video and check that it shows a true cactus, not another succulent.
+- **A banyan tree's hanging roots growing down to the ground** (, 3 min) id `to find`: Shows prop roots growing from branches and turning into pillars. *Check:* Find a real video, check that it shows a banyan (Ficus benghalensis), and watch it fully first.
+- **A lotus pond: leaves, stalks and the stem in the mud** (, 3 min) id `to find`: Shows where each lotus part grows, and the holes in a cut lotus stem. *Check:* Find a real video and watch it first.
+- **A cactus swelling after rain** (, 3 min) id `to find`: Shows a cactus stem storing water. *Check:* Find a real video and check that it shows a true cactus, not another succulent.
 
 ## Quiz
 1. (mcq) Which part of the plant is a carrot?  
@@ -464,34 +458,30 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 4. (mcq) Why do potato pieces and dry chana sink?  
    Options: They are packed with stored food / They are full of air / They are green  
    **Answer:** They are packed with stored food. *Why:* Stored food is packed tight, with little room for air. Picking 'full of air' mixes them up with the floaters.
-5. (mcq) Sowmya cuts a tiny crumb of potato. Will it float?  
-   Options: Yes, because it is tiny / No, it sinks like a big piece / Only if the water is hot  
-   **Answer:** No, it sinks like a big piece. *Why:* What is inside decides, not the size. A tiny piece of potato is packed with food too.
-6. (mcq) What are the spines on a cactus?  
+5. (mcq) What are the spines on a cactus?  
    Options: Changed leaves / Roots / Flowers  
    **Answer:** Changed leaves. *Why:* Spines grow where leaves grow on other plants. They lose much less water than flat leaves. Picking 'roots' may mean thinking anything thin is a root.
-7. (mcq) Where does a lotus keep their stem?  
+6. (mcq) Where does a lotus keep their stem?  
    Options: High in the air / In the mud at the bottom of the pond / On top of a rock  
    **Answer:** In the mud at the bottom of the pond. *Why:* The lotus stem lies in the mud. Air tunnels bring air down to it.
-8. (mcq) How do a banyan's prop roots help the tree?  
+7. (mcq) How do a banyan's prop roots help the tree?  
    Options: They hold up the long branches like pillars / They catch insects / They make the flowers  
    **Answer:** They hold up the long branches like pillars. *Why:* Prop roots grow down from the branches into the soil, then get thick and hold the branches up.
-9. (mcq) Why does a cactus have a fat stem?  
+8. (mcq) Why does a cactus have a fat stem?  
    Options: To store water for dry months / To float on water / To hold up long branches  
    **Answer:** To store water for dry months. *Why:* A cactus lives where it hardly rains, so their stem stores water. Floating is the lotus, and pillars are the banyan.
-10. (mcq) Farhan, a boy in Class 2, says a tomato is a fruit. Why is he right?  
+9. (mcq) Farhan, a boy in Class 2, says a tomato is a fruit. Why is he right?  
    Options: It is red / It grew from a flower and has seeds inside / It is sweet  
    **Answer:** It grew from a flower and has seeds inside. *Why:* A fruit grows from a flower and holds seeds. Colour and taste are not what make a fruit.
-11. (mcq) Ila, a girl in Class 2, wants to test if a lotus slice floats. What should she do first?  
+10. (mcq) Ila, a girl in Class 2, wants to find out if a piece of cucumber floats. What should she do first?  
    Options: Guess, and say why / Cook it / Look it up and skip the test  
    **Answer:** Guess, and say why. *Why:* A scientist guesses first and gives a reason, then tests to see what really happens.
 
 ## Applications
 - Cooks soak dal and chana before cooking, because dry seeds take in water and get soft.
-- Farmers sometimes put seeds in water before sowing and throw away the ones that float, because those are often empty.
 - Gardeners grow new money plants, tulsi and mint by putting cut stems in water until roots grow.
-- Lotus stem is cooked across India: thamarai thandu in Tamil Nadu, kamal kakdi in much of North India, nadru in Kashmir.
-- Makhana, the puffed snack from Bihar, is the seed of a water plant related to the lotus.
+- Lotus stem is cooked in many parts of India: thamarai thandu in Tamil Nadu, kamal kakdi in much of North India, nadru in Kashmir.
+- Makhana, the puffed snack from Bihar, is the seed of the fox-nut plant, a kind of water lily that grows in ponds.
 
 ## Spotted around us
 - A banyan with hanging roots at a temple, a school or a bus stop. In many villages, people meet in their shade.
@@ -515,12 +505,12 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 ## Jokes
 - Why did the potato sink to the bottom of the bowl? *It had packed too much lunch!*
 - What did the brinjal say in the washing bowl? *I'm just floating an idea!*
-- Why did nobody hug the cactus? *Their leaves were a bit too sharp!*
-- What did the lotus say to the mud? *Thanks for holding my stem. I'll send down some air!*
-- Why is the banyan never lonely? *She is always surrounded by her own roots!*
-- What did the tomato say when someone called her a vegetable? *Check my seeds!*
-- Why did the chana get bigger overnight? *They drank a whole bowl of water!*
-- What do you call a cauliflower that tells jokes? *A funny flower!*
+- Why did nobody hug the cactus? *Her leaves were a bit too sharp!*
+- What did the lotus leaf say to the raindrop? *Don't get comfortable. You're just rolling through!*
+- Why does the banyan never get lost? *She always knows where her roots are!*
+- What did the tomato say to the cook who called her a vegetable? *Check my seeds. I'm a fruit!*
+- What did the dry chana say to the water? *I'm soaking up your advice!*
+- What did the cauliflower say at the vegetable shop? *I'm a flower, so why am I in the curry?*
 
 ## Connected maths
 - In the float test, 3 foods floated and 3 foods sank. How many foods did you test? **6 foods.**. 3 that floated and 3 that sank. 3 + 3 = 6. (queues `math.addition-subtraction.meaning.L2`)
@@ -534,7 +524,7 @@ Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): Topic-level song for P
 ## Links
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden (The Great Banyan)]() · place · Howrah, near Kolkata: Home of the Great Banyan, a single tree with thousands of prop roots, which looks like a forest.
 - [Thimmamma Marrimanu]() · place · Near Kadiri, Andhra Pradesh: One of the largest banyan trees in the world by the area under her branches.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A big garden with a glasshouse, a lotus pond and many cactus plants to compare.
+- [Lalbagh Botanical Garden]() · place · Bengaluru: A big garden with a glasshouse and ponds, where you can look at many kinds of plants.
 - [Plants of the World Online, Kew](https://powo.science.kew.org) · interactive: For the parent: look up any plant, such as Nelumbo nucifera (lotus) or Ficus benghalensis (banyan), and see where in the world it grows.
 
 ## Things to buy

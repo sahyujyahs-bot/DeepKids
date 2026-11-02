@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Hold a sweater, a shawl or a blanket against your cheek. Is it warm?",
-  "text": "Most people say yes, because we call these warm clothes. But a sweater lying on a chair feels only as warm as the chair. Put it on, and in a minute or two it feels warm. So where did that warmth come from? In this unit you find out which things make warmth, and which things only keep it in. Then you test a sweater on some cold coconut oil.",
+  "text": "Most people say yes, because we call these warm clothes. But a sweater lying on a chair feels only as warm as the chair. Put it on, and in a minute or two it feels warm. So where did that warmth come from? In this unit you find out which things make warmth and which only keep it in.",
   "art": "A child holding a folded sweater against one cheek with a puzzled face, and the same sweater lying on a chair behind them."
  },
  "outcomes": [
@@ -76,7 +76,7 @@
    "concept": "Hot, cold and temperature",
    "status": "defined",
    "definition": "Temperature is how hot or cold something is.",
-   "description": "Your skin can feel hot and cold. A tumbler of water from the fridge feels cold. A cup of tea feels hot. Between them are cool and warm. Scientists use one word for all of these: temperature. A high temperature means hot, and a low temperature means cold. Your skin is good at telling hot from cold. It is not good at saying exactly how hot. For that, people use a thermometer, which you will meet later.",
+   "description": "Your skin can tell hot from cold. A tumbler of fridge water feels cold, and a cup of tea feels hot. Scientists use one word for how hot or cold something is: temperature. A high temperature means hot, and a low one means cold. To measure it exactly, people use a thermometer.",
    "examples": [
     "Your forehead feels warm to the back of your hand.",
     "A steel plate left in the sun at noon feels hot.",
@@ -89,7 +89,7 @@
    "concept": "Things that make warmth",
    "status": "defined",
    "definition": "Warmth is made when sunlight lands on things, when things burn, when electricity flows through an iron or a kettle, when things rub, and inside living bodies.",
-   "description": "In the warmth hunt, you found things that are warm. Some of them make their own warmth. The Sun makes warmth, and its light warms what it lands on. A gas flame or a diya burns, and burning makes warmth. An iron box and a kettle turn electricity into warmth. Rubbing your hands together makes them warm. Living bodies, like yours, a dog's and a hen's, make warmth from food all the time.",
+   "description": "Some things make warmth. The Sun does, and its light warms what it lands on. A gas flame or a diya burns, and burning makes warmth. An iron box and a kettle turn electricity into warmth. Rubbing your hands together makes them warm. Living bodies make warmth from food all the time, yours, a dog's and a hen's.",
    "examples": [
     "The sunny spot on the floor where a cat likes to sleep.",
     "The flame under the dosa tawa.",
@@ -102,7 +102,7 @@
    "concept": "A sweater keeps warmth in, but makes none",
    "status": "defined",
    "definition": "A sweater, a blanket or a quilt is an insulator. It slows heat moving through it, in either direction.",
-   "description": "In the Sweater and Coconut Oil test, the bare oil melted first. The oil inside the sweater stayed hard for longer. Warmth from the room was moving into both katoris. The sweater slowed it down. If the sweater made warmth, the wrapped oil would have melted first. When you wear a sweater, your body is the thing making warmth. The sweater slows that warmth from leaving you. Wool holds lots of still air between its hairs, and still air lets heat through slowly.",
+   "description": "In the Sweater and Coconut Oil test, the bare oil melted first, and the oil in the sweater stayed hard for longer. The room's warmth was moving into both katoris, and the sweater slowed it down. If the sweater made warmth, the wrapped oil would have melted first. When you wear a sweater, your body makes the warmth, and the sweater slows it from leaving you. Wool holds still air between its hairs, and still air lets heat through slowly.",
    "examples": [
     "A quilt keeps you warm at night because it keeps your body heat in.",
     "Chapatis wrapped in a cloth stay warm, because the cloth keeps their heat in.",
@@ -115,7 +115,7 @@
    "concept": "Your body makes its own warmth",
    "status": "defined",
    "definition": "Your body makes warmth from food, all day and all night. Inside, you are about 37 degrees Celsius, about as warm as a warm bath.",
-   "description": "Food is your body's fuel. Your cells use it slowly, with the air you breathe, and this gives out warmth. That is why you are warm even while you sleep. When you run or jump, your muscles work harder and make more warmth. When you are cold, your muscles shiver, and that makes warmth too. Other animals with fur or feathers make their warmth in the same way.",
+   "description": "Food is your body's fuel. Your cells use it slowly, together with the air you breathe, and this gives out warmth. That is why you are warm even while you sleep. When you run or jump, your muscles work harder and make more warmth. Other animals with fur or feathers make their warmth in the same way.",
    "examples": [
     "After running up the stairs, your cheeks feel warm.",
     "A hen sits on her eggs, and her body keeps them warm.",
@@ -257,26 +257,26 @@
   "read_aloud": true,
   "note": "Paati means grandmother in Tamil. Ooty, also called Udhagamandalam, is a hill town in the Nilgiris in Tamil Nadu, where winter mornings can bring frost. Meenakshi, Arjun, Paati and Rosie are made up.",
   "text": [
-   "Meenakshi was eight, and she lived in Chennai, where it is warm nearly all year. In December, she and her little brother Arjun went to stay with their Paati in Ooty. Ooty is a town high up in the Nilgiri hills. Arjun was five.",
+   "Meenakshi was eight. She lived in Chennai, where it is warm nearly all year. In December, she and her little brother Arjun went to stay with their Paati in Ooty. Ooty is a town high up in the Nilgiri hills. Arjun was five.",
    "On the first morning, Meenakshi woke up and gasped. The air in the room was cold. Outside the window, the grass was white with frost. Frost is tiny bits of ice that form on very cold nights.",
    "'Sweaters on!' called Paati from the kitchen.",
    "Meenakshi's red sweater lay folded on the chair, where it had been all night. She pulled it over her head. 'Brrr! Paati, my sweater is cold!' she said.",
    "'Wait two minutes,' said Paati, smiling.",
    "Meenakshi waited. Slowly, the sweater began to feel warm and soft. She frowned. On the chair it had been cold. On her it was warm. What had changed?",
-   "At breakfast, Paati gave them hot idlis with coconut chutney. Arjun ate very slowly, because he was watching a big black crow on the wall outside. The crow had puffed up their feathers until they looked twice as fat. By the time Arjun looked back at his plate, his last idli was cold.",
-   "'I know!' said Arjun. 'Sweaters are warm.' He took off his blue sweater, wrapped his idli in it, and sat on the bundle like a hen on an egg.",
+   "At breakfast, Paati gave them hot idlis with coconut chutney. Arjun ate slowly, because he was watching a big black crow on the wall. The crow had puffed up their feathers until they looked twice as fat. By the time Arjun looked back at his plate, his last idli was cold.",
+   "'I know!' said Arjun. 'Sweaters are warm.' He took off his blue sweater and wrapped his idli in it. Then he put the bundle on the chair.",
    "Ten minutes later, he unwrapped it and took a bite. 'Still cold! This sweater is broken!'",
    "Meenakshi laughed. Then she stopped laughing, because she remembered her own cold sweater on the chair. 'Paati,' she said, 'is a sweater warm or not?'",
    "Paati put down her coffee. 'Feel your sweater now, on your arm,' she said. 'Where did that warmth come from?'",
    "Meenakshi thought about it. The chair was not warm. The room was not warm. 'From me?' she said slowly.",
-   "'From you,' said Paati. 'Your body makes warmth all day and all night, from the food you eat. Your sweater makes none of its own. It only keeps your warmth close to you, so it does not escape into the cold air.'",
+   "'From you,' said Paati. 'Your body makes warmth all day and all night, from the food you eat. Your sweater makes none of its own. It only keeps your warmth close to you. So it does not escape into the cold air.'",
    "'Then why did my idli stay cold?' asked Arjun.",
    "'Because your idli had no warmth left to keep,' said Meenakshi. 'The sweater kept it just as cold as it was.' Paati nodded.",
    "After breakfast, the Sun climbed over the hill. They took their tumblers of milk out to the verandah. Paati's cat, Rosie, was already lying in the one bright patch of sunlight. She had found the warmest spot in the house.",
-   "Meenakshi decided to count the things that warmed them. The Sun on the verandah was one. The gas flame under Paati's milk pan was two. Then Arjun rubbed his hands together fast, and they felt warm. That was three. He ran three times round the garden and came back pink and puffing. Running was four. 'And us,' said Meenakshi. 'Our bodies are five. And Rosie's body is six.'",
+   "Meenakshi decided to count the things that warmed them. The Sun on the verandah was one. The gas flame under Paati's milk pan was two. Then Arjun rubbed his hands together fast, and they felt warm. That was three. He ran three times round the garden and came back pink and puffing. Running makes a body give out even more warmth. 'And our bodies,' said Meenakshi. 'That is four. And Rosie's body is five.'",
    "'What about our sweaters?' asked Arjun.",
-   "'Sweaters don't make warmth,' said Meenakshi. 'They only keep it in.'",
-   "At lunch, Paati made dosas. Appa was coming home late from the tea factory, so Paati laid his hot dosas in a steel box lined with a cotton cloth. She folded the cloth over them and closed the lid.",
+   "'Sweaters do not make warmth,' said Meenakshi. 'They only keep it in.'",
+   "At lunch, Paati made dosas. Appa was coming home late from the tea factory. So Paati laid his hot dosas in a steel box lined with a cotton cloth. She folded the cloth over them and closed the lid.",
    "'Arjun, watch,' said Meenakshi. 'The cloth is like your sweater. The dosas were hot when they went in, so the cloth will keep them hot.'",
    "When Appa came home half an hour later, Paati opened the box. A little steam rose out. The dosas were still warm.",
    "Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot,' he said.",
@@ -286,12 +286,12 @@
   "ask": [
    "Meenakshi's sweater was cold on the chair. Why did it feel warm after two minutes?",
    "Arjun wrapped his cold idli in his sweater. Why did it stay cold?",
-   "Meenakshi counted six things that make warmth. Can you name three of them?",
+   "Meenakshi counted five things that make warmth. Can you name three of them?",
    "Why did Appa's dosas stay warm in the cloth-lined box?"
   ],
   "art": [
    "A girl at a frosty window in a hill house, with white frost on the grass outside and a red sweater folded on a chair.",
-   "A small boy sitting on a bundle made of a blue sweater, while a crow with puffed-up feathers watches from a wall.",
+   "A small boy with a bundle made from a blue sweater beside his plate, while a crow with puffed-up feathers watches from a wall.",
    "A grandmother, a girl and a boy on a sunny verandah with tumblers of milk, and a cat stretched out in a patch of sunlight.",
    "A steel box lined with a white cotton cloth, opened to show folded dosas with a little steam rising."
   ]
@@ -300,7 +300,7 @@
   {
    "id": "e1",
    "title": "The Sweater and the Coconut Oil: does a sweater warm things up?",
-   "mins": 25,
+   "mins": 45,
    "days": 1,
    "context": "In this experiment you take two small katoris of coconut oil that have been in the fridge, so the oil is white and hard. You wrap one in a sweater and leave one bare. Then you watch which oil melts first.",
    "question": "If a sweater makes warmth, the oil inside it should melt first. Does it?",
@@ -338,8 +338,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "An hour before, put the oil in the fridge. Then wrap one katori, guess, and check both every 10 minutes. Do the warmth hunt while you wait."
+     "mins": 45,
+     "what": "An hour before, put the oil in the fridge. Then wrap one katori, guess, and check both at 10, 20 and 30 minutes. Do the warmth hunt while you wait."
     }
    ],
    "record": "Draw the two katoris at each check. Colour the hard oil white and the runny oil yellow.",
@@ -375,7 +375,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Take both katoris out of the fridge. 2. Let your child tilt them and touch the oil with a finger. 3. Hand them the sweater to hold.",
+     "do": "1. Take both katoris out of the fridge. 2. Let your child tilt them gently and look at the oil. 3. Hand them the sweater to hold.",
      "say": "Look at the oil. It is white and hard, because the fridge made it cold. Now hold the sweater. We call sweaters warm clothes. What do you think a sweater does?",
      "kid": "Look at the oil. It is white and hard. Now hold the sweater. What does a sweater do?",
      "ask": [
@@ -388,7 +388,7 @@
        ]
       }
      ],
-     "parent": "Coconut oil turns white and hard when it is cooler than about 24 degrees, and melts into a clear liquid when warmer. If the oil in your bottle is already white and hard, your room is too cool for this test. Then use two tumblers of warm water instead, and feel which one is still warm after 30 minutes."
+     "parent": "Coconut oil is white and hard when it is cooler than about 24 degrees, and a clear liquid when it is warmer. In a warm home the oil in the bottle is already runny, and an hour in the fridge makes it hard. If your room is cooler than about 24 degrees, the oil will not melt on the table. Then use two steel tumblers of the same warm tap water instead. Wrap one in the sweater, and feel which one is warmer after 30 minutes."
     },
     {
      "id": "s2",
@@ -417,11 +417,11 @@
     },
     {
      "id": "s4",
-     "mins": 10,
-     "do": "1. At 10 minutes, open the sweater just enough to peep in, then close it. 2. Tilt each katori a little. Is there runny oil? 3. Draw both. 4. Do the same at 20 minutes.",
+     "mins": 30,
+     "do": "1. At 10 minutes, open the sweater just enough to peep in, then close it. 2. Tilt each katori a little. Is there runny oil? 3. Draw both. 4. Do the same at 20 and 30 minutes.",
      "say": "Time to peep. Tilt the bare katori. Is the oil runny? Now peep into the sweater, quickly. Is that oil runny?",
      "kid": "Peep into both katoris. Tilt them gently. Which oil is runny?",
-     "parent": "While you wait between checks, do the warmth hunt (the Make It or Keep It activity). In a warm room, the bare oil usually turns clear at the edges within about 10 to 15 minutes. It is mostly runny by about 20 to 30 minutes. The wrapped oil stays white much longer. In a cooler room, keep checking every 10 minutes until the bare oil has melted."
+     "parent": "While you wait between checks, do the warmth hunt (the Make It or Keep It activity). In a warm room, the bare oil usually turns clear at the edges within about 10 to 15 minutes. It is mostly runny by about 20 to 30 minutes. The wrapped oil stays white much longer. If it is still hard at 30 minutes, that is your answer: the sweater made it slower. You can look again later. In a cooler room, keep checking until the bare oil has melted."
     },
     {
      "id": "s5",
@@ -472,26 +472,26 @@
   },
   {
    "id": "e2",
-   "title": "The Warm Spot Race: where does cold oil melt fastest?",
+   "title": "The Warm Spot Race: where does ice melt fastest?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put a small blob of fridge-cold coconut oil on four steel spoons. You leave each spoon in a different place, one of them in your own hand. Then you watch which blob melts first.",
-   "question": "Which place warms cold coconut oil fastest: your hand, a sunny spot, the table or the floor?",
-   "predict": "Guess first. Which blob will melt first, and which last? Why do you think so?",
-   "fair_test": "Each blob is the same size, scooped from the same cold katori, and every spoon is the same. All four go to their places at the same moment. Only the place is different.",
+   "context": "In this experiment you put a small ice cube in each of four places. One cube sits in your own hand, and three sit on steel plates. Then you watch which ice cube melts first.",
+   "question": "Which place melts ice fastest: your hand, a sunny spot, the table or the floor?",
+   "predict": "Guess first. Which ice cube will melt first, and which last? Why do you think so?",
+   "fair_test": "The four ice cubes are the same size and come from the same tray. All four go to their places at the same moment. Only the place is different.",
    "results_table": [
     "Place",
     "My guess (1st to 4th)",
-    "Minutes until all clear",
+    "Minutes until no ice is left",
     "What came 1st, 2nd, 3rd, 4th"
    ],
    "materials": [
     {
-     "item": "a katori of coconut oil, kept in the fridge for an hour until white and hard",
-     "qty": 1
+     "item": "four small ice cubes of the same size from the freezer tray, kept in the freezer until you start",
+     "qty": 4
     },
     {
-     "item": "four steel teaspoons that are the same",
+     "item": "four small steel plates or katoris that are the same",
      "qty": 4
     },
     {
@@ -503,59 +503,59 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Scoop four blobs, place the spoons, and check every 2 minutes until all have melted."
+     "what": "Put the four ice cubes in their places, and check every 2 minutes until all have melted."
     }
    ],
-   "record": "Write 1, 2, 3 and 4 next to each place, in the order the blobs melted.",
+   "record": "Write 1, 2, 3 and 4 next to each place, in the order the ice cubes melted.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results",
     "x": "Place",
-    "y": "Minutes until all clear",
+    "y": "Minutes until no ice is left",
     "data": [
      {
       "label": "In my hand",
-      "value": 2,
+      "value": 4,
       "emoji": "✋"
      },
      {
       "label": "Sunny window sill",
-      "value": 4,
+      "value": 6,
       "emoji": "☀️"
      },
      {
       "label": "Table",
-      "value": 9,
+      "value": 11,
       "emoji": "🪑"
      },
      {
       "label": "Floor in the shade",
-      "value": 11,
+      "value": 13,
       "emoji": "🟫"
      }
     ]
    },
    "setup": [
     {
-     "art": "Four steel teaspoons in a row, each with a small white blob of hard coconut oil on it.",
-     "caption": "1. Put a small blob of cold, hard oil on each spoon."
+     "art": "Four small steel plates in a row, each with one small ice cube on it.",
+     "caption": "1. Put four small ice cubes of the same size on four plates."
     },
     {
-     "art": "One spoon held gently in a child's closed hand, one on a sunny window sill, one on a table and one on a shady floor.",
-     "caption": "2. Put the spoons in four places. Hold one in your hand."
+     "art": "One ice cube held in a child's closed hand over a plate, with the other plates on a sunny window sill, a table and a shady floor.",
+     "caption": "2. Hold one cube in your hand over a plate. Put the other plates in three different places."
     },
     {
-     "art": "A child peeping at the spoon in their hand, where the oil has become a clear little pool.",
-     "caption": "3. Check every 2 minutes. Which blob melts first?"
+     "art": "A child opening their hand to show a small wet ice cube nearly gone, with water on the plate under it.",
+     "caption": "3. Check every 2 minutes. Which ice cube melts first?"
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Scoop a blob of hard oil, as big as a pea, onto each spoon. 2. Choose four places with your child: your child's hand, a sunny spot, the table and the floor.",
-     "say": "We will race four blobs of cold oil. One will sit in your hand. Which one will melt first? Which last? Why?",
-     "kid": "Which blob will melt first? Which will melt last? Why?",
+     "do": "1. Choose four places with your child: your child's hand, a sunny spot, the table and the floor in the shade. 2. Take four ice cubes of the same size from the freezer tray, only when everyone is ready.",
+     "say": "We will race four ice cubes. One will sit in your hand. Which one will melt first? Which last? Why?",
+     "kid": "Which ice cube will melt first? Which will melt last? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -565,25 +565,25 @@
        ]
       }
      ],
-     "parent": "If no sunlight comes into your home, use a spot near a warm machine instead, such as next to a television or a wifi box that has been on for a while."
+     "parent": "Keep the tray in the freezer until you start. If no sunlight comes into your home, use a spot next to a warm machine instead, such as a television or a wifi box that has been on for a while."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Put all four spoons in their places at the same time. 2. Your child holds one spoon loosely in a closed hand, by the bowl. 3. Every 2 minutes, look at all four. 4. Write the order they melt in.",
-     "say": "Hold the spoon gently in your closed hand. Every 2 minutes we look at all four. Which one is clear and runny?",
-     "kid": "Hold the spoon in your hand. Every 2 minutes, check all four. Which is runny?",
-     "parent": "The blob in the hand usually melts first, within a minute or two, because a hand is warmer than the room. A spoon in strong sun comes next. On the table and the floor it is slower."
+     "do": "1. Put the cubes in their places at the same time. 2. Your child holds one cube in a closed hand, over a plate. 3. Every 2 minutes, look at all four. 4. Write the order they melt in.",
+     "say": "Hold the ice cube in your closed hand, over the plate. Every 2 minutes we look at all four. Which one has melted?",
+     "kid": "Hold the ice in your hand. Every 2 minutes, check all four. Which is gone?",
+     "parent": "The cube in the hand, or the one in strong sun, usually melts first, in a few minutes. The table and the floor are slower, and they may melt at nearly the same time. If so, give them the same number. If the hand gets too cold, swap hands. Stop at 20 minutes and compare how much ice is left on each plate."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Talk about the order together. Ask what your child found, and why.",
-     "say": "Which blob melted first? The spoon in your hand melted fast. What does that tell you about your hand?",
-     "kid": "Which blob melted first? What does that tell you about your hand?",
+     "say": "Which ice cube melted first? Which melted last? What does the cube in your hand tell you about your hand?",
+     "kid": "Which ice melted first? What does that tell you about your hand?",
      "ask": [
       {
-       "q": "Why did the blob in your hand melt so fast?",
+       "q": "Why did the ice in your hand melt so fast?",
        "good": [
         "My hand is warmer than the room.",
         "My body makes warmth, and it went into the spoon."
@@ -592,14 +592,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Why does cold oil melt faster in your hand than on the table?",
+      "q": "Why does ice melt faster in your hand than on the table?",
       "options": [
        "Your body makes warmth, so your hand is warmer than the table.",
        "Your hand is colder than the table.",
        "The table makes the oil hard."
       ],
       "a": 0,
-      "why": "Your body makes warmth from food. Your hand is warmer than the room, so heat moves from your hand into the cold oil faster."
+      "why": "Your body makes warmth from food. Your hand is warmer than the room, so heat moves from your hand into the ice faster."
      }
     }
    ]
@@ -777,7 +777,7 @@
    "context": "In this activity you touch the back of your hand to different parts of your body. You find the warm parts and the cooler parts, and mark them on a drawing of yourself.",
    "materials": [
     {
-     "item": "a sheet of paper with an outline of a child's body",
+     "item": "a sheet of paper. Draw a simple body outline on it: a round head, a body, two arms and two legs.",
      "qty": 1
     },
     {
@@ -789,7 +789,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Feel eight parts of your body and colour them red for warm and blue for cooler."
+     "what": "Feel seven parts of your body and colour them red for warm and blue for cooler."
     }
    ],
    "record": "Colour the body outline: red for the warmest parts, blue for the cooler parts.",
@@ -807,10 +807,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Help your child touch the back of one hand to each part in turn. Try the forehead, neck, tummy, nose, ears, fingers and feet.",
+     "do": "Help your child touch the back of one hand to each part in turn. Try the forehead, neck, tummy (lift the shirt a little), nose, ears, fingers and feet.",
      "say": "Touch the back of your hand to your neck. Warm or cool? Now your nose. Now your tummy. Now your toes.",
      "kid": "Touch your neck. Warm or cool? Now your nose. Now your toes.",
-     "parent": "The back of the hand feels warmth better than the palm. Most children find the neck and tummy warmest, and the nose, ears, fingers and toes cooler. These parts stick out, so they lose heat faster."
+     "parent": "Most children find the neck and tummy warmest, and the nose, ears, fingers and toes cooler. These parts stick out, so they lose heat faster."
     },
     {
      "id": "s2",
@@ -870,7 +870,7 @@
        "b": "Makes warmth"
       },
       {
-       "f": "A lit diya on Karthigai Deepam",
+       "f": "A lit diya (oil lamp) on Karthigai Deepam",
        "b": "Makes warmth"
       },
       {
@@ -886,7 +886,7 @@
        "b": "Makes warmth"
       },
       {
-       "f": "Your own body",
+       "f": "Your own body, all day and night",
        "b": "Makes warmth"
       },
       {
@@ -954,7 +954,7 @@
        "b": "Makes warmth"
       },
       {
-       "f": "A buffalo lying in a pond",
+       "f": "A buffalo lying in a pond on a hot day",
        "b": "Cools you down"
       }
      ]
@@ -971,11 +971,11 @@
    ],
    "rules": [
     "Put the three pile labels in a row on the floor.",
-    "Mix the 24 cards and put them face down in a stack.",
-    "On your turn, take the top card and read it out loud.",
+    "Mix the 24 cards and make a stack with the words side up. The answer is on the other side.",
+    "On your turn, take the top card and read it out loud. Do not turn it over yet.",
     "Put it next to the label you think is right, and say why.",
-    "Turn the card over to check. If you were right, keep the card. If not, put it at the bottom of the stack.",
-    "When the stack is empty, the player with the most cards wins."
+    "Now turn the card over to check. If you were right, keep the card. If not, put it at the bottom of the stack.",
+    "When the stack is empty, the player with the most cards wins. If two players have the same number, they both win."
    ],
    "setup": [
     {
@@ -1036,10 +1036,10 @@
  "projects": [
   {
    "id": "p1",
-   "title": "My Book of Warm Things: two days, six pages",
+   "title": "My Book of Warm Things: two days",
    "mins": 30,
    "days": 2,
-   "context": "In this project you make a small book of six pages. Each page shows one thing that warms you up, and says whether it makes warmth or keeps it in.",
+   "context": "In this project you make a small book. Six pages each show one thing that warms you up, and say whether it makes warmth or keeps it in. The last page is about you.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled or tied with thread",
@@ -1062,7 +1062,7 @@
      "what": "Draw three things that keep warmth in. On the last page, draw yourself and write 'I make my own warmth'."
     }
    ],
-   "record": "A six-page book, with 'makes' or 'keeps' written on each page.",
+   "record": "A book with seven pages. Six pages have 'makes' or 'keeps' written on them, and the last page is you.",
    "setup": [
     {
      "art": "Three sheets of paper folded together and tied with a thread to make a small book, with 'My Warm Things' on the cover.",
@@ -1113,10 +1113,10 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "Keep Amma's Dosa Warm for 20 Minutes",
-   "mins": 25,
-   "context": "This is a design challenge. Amma is coming home in 20 minutes. Can you keep a hot dosa or chapati warm for her, using only things from home?",
-   "problem": "Lakshmi's Amma is coming home in 20 minutes. Keep one hot dosa or chapati warm for her, without putting it back on the stove.",
+   "title": "Keep a Dosa Warm for 20 Minutes",
+   "mins": 30,
+   "context": "This is a design challenge. Someone at home will eat in 20 minutes. Can you keep a hot dosa or chapati warm for them, using only things from home?",
+   "problem": "Someone at home will eat in 20 minutes. Keep one hot dosa or chapati warm, without putting it back on the stove.",
    "constraints": [
     "Use only things from home.",
     "No stove, oven or electricity after the dosa is made.",
@@ -1133,7 +1133,7 @@
    "general": [
     "Wrap the dosa in a clean cotton cloth, the way many families wrap chapatis.",
     "Put it in a steel dabba and close the lid.",
-    "Use a hot case, if your home has one."
+    "Use a hot case (an insulated box for rotis), if your home has one."
    ],
    "creative": [
     "Put the dosa in a dabba, then wrap the whole dabba in a towel.",
@@ -1156,7 +1156,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem. Ask for ideas before showing any.",
-     "say": "Amma will be home in 20 minutes. How can we keep this dosa warm without the stove?",
+     "say": "Someone will eat in 20 minutes. How can we keep this dosa warm without the stove?",
      "kid": "How can you keep a dosa warm for 20 minutes?",
      "ask": [
       {
@@ -1179,7 +1179,7 @@
     },
     {
      "id": "s3",
-     "mins": 15,
+     "mins": 20,
      "do": "Wait 20 minutes. Do another activity meanwhile. Then touch both dosas.",
      "say": "Touch the bare dosa. Now touch yours. Which is warmer? Why?",
      "kid": "Touch both dosas. Which is warmer? Why?",
@@ -1218,7 +1218,7 @@
    "title": "Warm Your Cold Hands, No Fire Allowed",
    "mins": 15,
    "context": "This is a challenge. First your hands get cold from holding a tumbler of fridge water. Then you find the fastest way to warm them, with no stove, no heater and no hot water.",
-   "problem": "After holding a cold tumbler, Divya's hands are cold. Find ways to warm them up in one minute, without fire, a heater or hot water.",
+   "problem": "After holding a cold tumbler, your hands are cold. Find ways to warm them up in one minute, without fire, a heater or hot water.",
    "constraints": [
     "No stove, heater, hot water or hair dryer.",
     "Try each idea for one minute.",
@@ -1232,11 +1232,11 @@
    "general": [
     "Rub your hands together fast.",
     "Tuck your hands under your arms.",
-    "Breathe 'haa' on them with a wide-open mouth."
+    "Sit on your hands for a minute."
    ],
    "creative": [
     "Jump up and down for a minute, then feel your hands.",
-    "Ask a family member for a warm hand-hug.",
+    "Ask someone at home to hold your hands in theirs.",
     "Pull socks over your hands like gloves."
    ],
    "your_turn": "Which idea warmed your hands best? Did any idea make warmth, and which only kept it in? Draw your best idea.",
@@ -1273,7 +1273,7 @@
      "do": "Try three ideas, one minute each. Cool the hands on the tumbler again before each one.",
      "say": "Try your first idea for one minute. Then cool your hands again, and try the next one. Which works best?",
      "kid": "Try one idea for a minute. Then try the next.",
-     "parent": "Rubbing, jumping and the armpits work well. Rubbing makes warmth by friction. Jumping makes your muscles make more warmth. Armpits and socks lend or keep your body's warmth."
+     "parent": "Rubbing, jumping and the armpits work well. Rubbing makes warmth by friction. Jumping makes your muscles make more warmth. Armpits, socks and sitting on your hands keep your body's warmth close to your hands."
     },
     {
      "id": "s3",
@@ -1380,9 +1380,10 @@
     },
     {
      "t": "truefalse",
-     "p": "A sweater makes heat.",
-     "a": false,
-     "why": "False. A sweater makes no heat. It only slows heat moving in or out. When you wear it, your body makes the warmth."
+     "p": "An ice cube melts fast in your hand because your hand is warmer than the ice.",
+     "a": true,
+     "why": "True. Your body makes warmth, so your hand is warmer than the ice. Heat moves from your hand into the ice.",
+     "how": "e2"
     },
     {
      "t": "draw",
@@ -1393,11 +1394,11 @@
     },
     {
      "t": "fill",
-     "p": "How hot or cold something is, is called its ______.",
+     "p": "When you are cold, your muscles shake without you meaning to. This is called to ______.",
      "a": [
-      "temperature"
+      "shiver"
      ],
-     "why": "Temperature is the word for how hot or cold something is."
+     "why": "Shivering makes warmth. Your muscles shake and give out heat."
     },
     {
      "t": "write",
@@ -1408,17 +1409,17 @@
     },
     {
      "t": "count",
-     "p": "In the warmth hunt, Kavya found 3 things that make warmth and 4 things that keep warmth in. How many things did she find?",
+     "p": "Kavya, a girl in Class 2, found 3 things that make warmth and 4 things that keep warmth in. How many things did she find?",
      "a": 7,
      "why": "3 and 4 more make 7.",
      "how": "a1"
     },
     {
      "t": "perspective",
-     "p": "Arjun, aged 6, and his sister Meenakshi, aged 8, talk about the coconut oil test before they try it.",
+     "p": "Arjun, a boy aged 5, and his sister Meenakshi, aged 8, talk about the coconut oil test before they try it.",
      "views": [
       {
-       "who": "Arjun, aged 6",
+       "who": "Arjun, aged 5",
        "says": "A sweater is warm, so it will melt the oil fast."
       },
       {
@@ -1434,14 +1435,14 @@
     },
     {
      "t": "mcq",
-     "p": "Which of these makes warmth by itself?",
+     "p": "Why do your hands get warm when you rub them together?",
      "opts": [
-      "A puppy asleep on the mat",
-      "A stone on the floor",
-      "A folded blanket"
+      "Rubbing makes warmth.",
+      "Rubbing takes warmth from the air.",
+      "Your hands were hot inside all along."
      ],
      "a": 0,
-     "why": "A puppy's body makes warmth from food. A stone and a blanket make none."
+     "why": "Rubbing makes warmth. That is one way things get warm, along with the Sun, fire, electricity and living bodies."
     }
    ]
   },
@@ -1501,10 +1502,10 @@
     },
     {
      "t": "write",
-     "p": "Paati wraps hot chapatis in a cotton cloth. Why do they stay warm?",
+     "p": "A puppy sleeping in a heap with other puppies stays warmer than a puppy sleeping alone. Why? You can say it and a grown-up can write it down.",
      "lines": 2,
-     "a": "The chapatis were hot when they went in. The cloth slows their heat from getting out.",
-     "why": "A strong answer says the warmth came from the chapatis, and the cloth only kept it in."
+     "a": "Every puppy's body makes warmth. In a heap, less of each puppy is out in the cold air, so less warmth escapes. They also warm each other.",
+     "why": "A strong answer says the warmth comes from the puppies' bodies, and the heap keeps more of it in."
     },
     {
      "t": "odd",
@@ -1520,9 +1521,9 @@
     },
     {
      "t": "truefalse",
-     "p": "When you run, your body makes more warmth.",
-     "a": true,
-     "why": "True. Running makes your muscles work hard, and working muscles make more warmth. That is why your cheeks get warm."
+     "p": "You lose most of your body heat through your head, so a cap matters most.",
+     "a": false,
+     "why": "False. A bare head loses about as much heat as any other bare part of the same size. It seems like more only because the rest of you is covered."
     },
     {
      "t": "draw",
@@ -1577,21 +1578,21 @@
    "items": [
     {
      "t": "write",
-     "p": "Arjun wrapped his cold idli in his sweater to warm it up. What will happen? What could he do instead?",
+     "p": "Arjun, a boy aged 5, wrapped his cold idli in his sweater to warm it up. What will happen? What could he do instead? You can say it and a grown-up can write it down.",
      "lines": 3,
      "a": "The idli will stay cold, because the sweater makes no warmth. He could ask a grown-up to warm it on the stove or in steam.",
      "why": "A strong answer says the sweater can only keep the warmth that is already there, and names a real maker of warmth."
     },
     {
      "t": "mcq",
-     "p": "In Ooty, Meenakshi takes her sweater out of the cupboard on a cold morning. It feels cold. Why?",
+     "p": "Some people say mango heats the body and curd cools it. What have scientists found?",
      "opts": [
-      "It is as cold as the cupboard, because it has no warmth of its own.",
-      "Sweaters always make cold at night.",
-      "It is a broken sweater."
+      "They have not found that these foods change body temperature by much.",
+      "A mango raises body temperature by 5 degrees.",
+      "Curd is colder than ice, so it cools you."
      ],
      "a": 0,
-     "why": "A sweater makes no warmth, so it is as warm as wherever it has been. In a cold cupboard, it is cold."
+     "why": "Many families feel that foods heat or cool them. But scientists have not found that a mango or curd changes body temperature by much."
     },
     {
      "t": "perspective",
@@ -1618,42 +1619,11 @@
      "why": "Heat moves from warmer to cooler. Your hand is warmer, so heat moves from your hand into the cold tumbler. That is why your hands get cold."
     },
     {
-     "t": "sort",
-     "p": "Sort these into three groups.",
-     "cats": [
-      "Makes warmth",
-      "Keeps warmth in",
-      "Cools you down"
-     ],
-     "items": [
-      [
-       "Rubbing your hands",
-       "Makes warmth"
-      ],
-      [
-       "A flask",
-       "Keeps warmth in"
-      ],
-      [
-       "A wet cloth on your forehead",
-       "Cools you down"
-      ],
-      [
-       "An iron box switched on",
-       "Makes warmth"
-      ],
-      [
-       "A pair of socks",
-       "Keeps warmth in"
-      ],
-      [
-       "The shade of a tree",
-       "Cools you down"
-      ]
-     ],
-     "a": "see items",
-     "why": "Rubbing and an iron box make warmth. A flask and socks slow heat moving. A wet cloth and shade help warmth leave you, or keep the Sun's light off you.",
-     "how": "g1"
+     "t": "write",
+     "p": "After a swim you shiver. How does shivering help you? You can say it and a grown-up can write it down.",
+     "lines": 2,
+     "a": "Shivering is your muscles shaking. Working muscles make warmth, so shivering makes warmth for your body.",
+     "why": "A strong answer says shivering makes warmth, because muscles that work give out heat."
     },
     {
      "t": "truefalse",
@@ -1662,11 +1632,10 @@
      "why": "False. A blanket makes no warmth and a stone makes none. In the morning, the stone is as warm as the room."
     },
     {
-     "t": "count",
-     "p": "Revathi did the coconut oil test. The bare oil was all runny after 20 minutes. The oil in the sweater was runny after 50 minutes. How many more minutes did the wrapped oil last?",
-     "a": 30,
-     "why": "Count on from 20 to 50 in tens: 30, 40, 50. That is 3 tens, so 30 more minutes.",
-     "how": "e1"
+     "t": "truefalse",
+     "p": "A wet cloth on a hot forehead cools you by taking warmth away from your skin.",
+     "a": true,
+     "why": "True. Heat moves from your warm skin into the cooler wet cloth, and the water carries warmth away as it dries."
     },
     {
      "t": "mcq",
@@ -1681,7 +1650,7 @@
     },
     {
      "t": "write",
-     "p": "Your cousin says: 'A sweater kept the cold oil cold. So wear a sweater in summer to stay cool!' Is she right? Say why.",
+     "p": "A friend says: 'A sweater kept the cold oil cold. So wear a sweater in summer to stay cool!' Is your friend right? Say why. You can say it and a grown-up can write it down.",
      "lines": 3,
      "a": "No. Your body keeps making warmth, and a sweater would keep that warmth in. You would get hotter. The oil makes no warmth, so the sweater only kept its cold.",
      "why": "A strong answer remembers that the body makes its own warmth, while the oil does not."
@@ -1765,7 +1734,7 @@
   },
   {
    "t": "mcq",
-   "p": "Usha wraps one katori of cold coconut oil in a sweater and leaves one bare. What should be the same for both katoris?",
+   "p": "Usha, a girl in Class 2, tests a sweater on cold coconut oil. What should be the same for both katoris?",
    "opts": [
     "The oil, the katori, the table and the time",
     "Nothing",
@@ -1778,14 +1747,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the coconut oil test, the bare oil melted first. What made it melt?",
+   "p": "Usha wants her coconut oil test to be fair. Which change would make it unfair?",
    "opts": [
-    "Warmth from the room",
-    "Cold from the fridge",
-    "The sweater next to it"
+    "Putting one katori in the sun and one in the shade",
+    "Using the same amount of oil in both",
+    "Starting the timer for both at the same time"
    ],
    "a": 0,
-   "why": "The room was warmer than the cold oil, so heat from the room moved into the oil and melted it.",
+   "why": "In a fair test, only the sweater is different. Sun on one katori would change the test too, so we could not tell what melted the oil.",
    "outcome": 4,
    "how": "e1"
   },
@@ -1920,14 +1889,9 @@
   "Is your quilt warm before you get in, or after?",
   "Which part of you feels coolest right now?",
   "Can you find a place in the home where a cat would like to sleep?",
-  "When you hug someone, whose warmth do you feel?",
   "What would happen to a hot dosa if we wrapped it in a sweater?"
  ],
  "jokes": [
-  {
-   "j": "Why did the sweater go to school?",
-   "a": "To learn how to keep its cool!"
-  },
   {
    "j": "What did the quilt say to the child?",
    "a": "You bring the warmth, I'll keep it in!"
@@ -1941,8 +1905,8 @@
    "a": "Hide the heat!"
   },
   {
-   "j": "Why did the coconut oil feel shy?",
-   "a": "It was out of the fridge and starting to melt down!"
+   "j": "What did the cold coconut oil say to the warm room?",
+   "a": "Please be gentle, I am about to melt!"
   },
   {
    "j": "What did the Sun say to the cat?",
@@ -1963,7 +1927,7 @@
  ],
  "maths": [
   {
-   "problem": "In the coconut oil test, Lakshmi checked every 10 minutes. The bare oil was all runny at the 2nd check. The wrapped oil was all runny at the 5th check. How many minutes is that for each?",
+   "problem": "In the coconut oil test, Lakshmi, a girl in Class 2, checked every 10 minutes. The bare oil was all runny at the 2nd check. The wrapped oil was all runny at the 5th check. How many minutes is that for each?",
    "answer": "20 minutes for the bare oil and 50 minutes for the wrapped oil.",
    "explain": "Count in tens. 2 checks is 10, 20, so 20 minutes. 5 checks is 10, 20, 30, 40, 50, so 50 minutes.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -1972,16 +1936,16 @@
    "why_maths": "Counting in equal steps of 10 turns the number of checks into minutes, so we can compare the two katoris."
   },
   {
-   "problem": "In the Warm Spot Race, the blob in Farhan's hand melted at 2 minutes. The blob on the floor melted at 12 minutes. How many minutes longer did the floor blob take?",
+   "problem": "In the Warm Spot Race, the ice cube in the hand of Farhan, a boy in Class 2, melted at 4 minutes. The ice cube on the floor melted at 14 minutes. How many minutes longer did the floor ice take?",
    "answer": "10 minutes longer.",
-   "explain": "Count on from 2 to 12. That is 10. So the floor blob took 10 more minutes.",
+   "explain": "Count on from 4 to 14. That is 10. So the floor ice took 10 more minutes.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e2",
-   "context": "This is about the Warm Spot Race, where you put blobs of cold coconut oil on spoons in different places.",
+   "context": "This is about the Warm Spot Race, where you put ice cubes in different places.",
    "why_maths": "Taking the smaller time from the bigger one shows how much faster your warm hand was than the floor."
   },
   {
-   "problem": "In the warmth hunt, Nila made a tally: Makes warmth: |||| . Keeps warmth in: |||| | . Which column has more, and by how many?",
+   "problem": "In the warmth hunt, Nila, a girl in Class 2, made a tally: Makes warmth: |||| . Keeps warmth in: |||| | . Which column has more, and by how many?",
    "answer": "Keeps warmth in has more, by 1. It has 6 and Makes warmth has 5.",
    "explain": "Count the tally marks. The first column has 5 and the second has 6. 6 is 1 more than 5.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1990,7 +1954,7 @@
    "why_maths": "A tally lets you count each group quickly and compare them."
   },
   {
-   "problem": "Divya says: 'The bare oil melted in 20 minutes. So the oil in the sweater will melt in 20 minutes too.' Will it? What would you expect instead?",
+   "problem": "Divya, a girl in Class 2, says: 'The bare oil melted in 20 minutes. So the oil in the sweater will melt in 20 minutes too.' Will it? What would you expect instead?",
    "answer": "No. It will take longer than 20 minutes, because the sweater slows the room's warmth getting in.",
    "explain": "The sweater changes how fast warmth reaches the oil. So the times will not be the same. We expect a bigger number for the wrapped oil.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2068,7 +2032,7 @@
   "deep_truth": {
    "truth": "Your sweater kept the cold coconut oil hard, while the bare oil melted. So the sweater made no warmth. It only slowed the room's warmth getting in. When you wear it, the warmth you feel is your own body's.",
    "habit": "We call sweaters, shawls and quilts 'warm', as if warmth were stored in them. The coconut oil test shows a sweater keeps a cold thing cold just as well. It only slows heat moving in or out.",
-   "evidence": "In the Sweater and Coconut Oil test, the bare oil melted first, and the oil inside the sweater stayed white and hard for longer. The same sweater, put on, felt warm within two minutes. In the Warm Spot Race, cold oil melted fastest in your own hand."
+   "evidence": "In the Sweater and Coconut Oil test, the bare oil melted first, and the oil inside the sweater stayed white and hard for longer. The same sweater, put on, felt warm within two minutes. In the Warm Spot Race, ice melted fastest in your own hand."
   },
   "three": {
    "who_am_i": "You are a warm body. Your cells make warmth from food all day and night, even while you sleep.",
@@ -2109,16 +2073,16 @@
    "kid": "Sit still. Shut your eyes. Cup your hands near your face. Breathe out slowly. Feel the warm breath. Now put your hands on your tummy. Feel the warmth. You made it from your food."
   },
   "ask": [
-   "Your sweater kept the cold oil cold. Is a sweater a warm thing or a cold thing?",
-   "When you hug someone, whose warmth are you feeling?",
-   "Your warmth came from food. Where was it before that?"
+   "A small baby is held skin to skin on a parent's chest. Whose warmth is keeping the baby warm?",
+   "The Sun, a flame and your body all make warmth. What do they have in common?",
+   "Shivering and goosebumps happen without you planning them. Who or what decides to start them?"
   ],
   "art": "A child sitting cross-legged with eyes shut and hands resting on their tummy, with a soft warm glow around them and a folded sweater beside them."
  },
  "how_we_found_out": {
   "who": "Edgar Rey Sanabria, a doctor in Bogotá, Colombia. Later, Sarmila Mazumder, Nita Bhandari and their team in India",
-  "when": "1978 (in Bogotá) and 2016 (the study in Haryana)",
-  "story": "For a long time, hospitals kept very small babies warm in incubators. An incubator is a warm box with a clear lid. Many doctors thought a very small baby needed one to stay warm. In 1978, a big hospital in Bogotá, the capital of Colombia, was crowded and had too few incubators. A doctor there, Edgar Rey Sanabria, tried something new. Mothers held their small babies upright against their bare chest, skin to skin, under their clothes, for many hours each day. The mother's body made the warmth, and her clothes kept it around the baby. A mother kangaroo carries her baby in a pouch, so people called this care kangaroo mother care. Many studies tested it after that. In Haryana, in India, a team led by Sarmila Mazumder and Nita Bhandari helped families do it at home. In 2016, they reported that more of the small babies lived and grew well. Today the World Health Organization advises it for small babies everywhere, and fathers can do it too.",
+  "when": "1978 (in Bogotá) and 2019 (the study in Haryana)",
+  "story": "For a long time, hospitals kept very small babies warm in incubators. An incubator is a warm box with a clear lid. Many doctors thought a very small baby needed one to stay warm. In 1978, a big hospital in Bogotá, the capital of Colombia, was crowded and had too few incubators. A doctor there, Edgar Rey Sanabria, tried something new. Mothers held their small babies upright against their bare chest, skin to skin, under their clothes, for many hours each day. The mother's body made the warmth, and her clothes kept it around the baby. A mother kangaroo carries her baby in a pouch, so people called this care kangaroo mother care. Many studies tested it after that. In Haryana, in India, a team led by Sarmila Mazumder and Nita Bhandari helped families do it at home. In 2019, they reported that more of the small babies survived. Today the World Health Organization advises it for small babies everywhere, and fathers can do it too.",
   "wrong_idea": "Many doctors thought a very small baby could only be kept warm safely in an incubator. Skin-to-skin care showed that a parent's own body heat can keep the baby warm."
  },
  "plan": {
@@ -2181,10 +2145,11 @@
   "science": [
    "Pretorius T and others, 'Thermal effects of whole head submersion in cold water on nonshivering humans', Journal of Applied Physiology, 2006, and Vreeman R and Carroll A, 'Festive medical myths', BMJ, 2008, on heat lost through the head.",
    "Johnson C and Eccles R, 'Acute cooling of the feet and the onset of common cold symptoms', Family Practice, 2005. Foxman E F, Iwasaki A and others, 'Temperature-dependent innate defense against the common cold virus limits viral replication at warm temperature in mouse airway cells', PNAS, 2015.",
-   "Mazumder S, Taneja S, Bhandari N and others, 'Effect of community-initiated kangaroo mother care on survival of infants with low birthweight: a randomised controlled trial', The Lancet, 2016. On the start of kangaroo mother care in Bogotá in 1978 under Edgar Rey Sanabria, see the World Health Organization's guide Kangaroo Mother Care: a practical guide (2003).",
+   "Mazumder S, Taneja S, Bhandari N and others, 'Effect of community-initiated kangaroo mother care on survival of infants with low birthweight: a randomised controlled trial', The Lancet, 2019. On the start of kangaroo mother care in Bogotá in 1978 under Edgar Rey Sanabria, see the World Health Organization's guide Kangaroo Mother Care: a practical guide (2003).",
    "Robert V A and Casadevall A, 'Vertebrate endothermy restricts most fungi as potential pathogens', Journal of Infectious Diseases, 2009, for the fungus idea about 37 degrees.",
    "Cypess A M and others, 'Identification and importance of brown adipose tissue in adult humans', New England Journal of Medicine, 2009.",
    "Coconut oil melts at about 24 to 25 degrees Celsius."
   ]
- }
+ },
+ "playtest": "Walked through every part as a parent and a child in a city flat. The coconut oil test needs only a fridge, two katoris and a sweater, and its time is now 45 minutes with checks at 10, 20 and 30 minutes, with a note for a cool room. Fixed the card game rules (the words side is up, ties win), the body-outline sheet, the book project page count, and the dosa and cold-hands challenges (no made-up names or assumed family). Fixed Arjun's age and the story's count of warm things, replaced repeated questions in the worksheets and quiz, introduced every made-up child, and cut the weakest joke."
 }

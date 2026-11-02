@@ -13,8 +13,8 @@
  },
  "outcomes": [
   "By the end I can say what order and a pattern are, and find neat and messy things in my home.",
-  "By the end I can show that a flat paper leaf lands in a new place each time, but a crumpled paper ball lands near the same spot.",
-  "By the end I can say that gravity pulls a falling leaf down and the air pushes against it, and that tiny changes send the leaf somewhere new.",
+  "By the end I can show that a flat paper leaf lands in a new place each time, but a paper ball does not.",
+  "By the end I can say that gravity pulls a falling leaf down and the air pushes it, so tiny changes send it somewhere new.",
   "By the end I can show that splashes are never exactly the same, even from the same drop and the same height.",
   "By the end I can say that messy happenings still follow rules, even when we cannot say what will happen.",
   "By the end I can say what scientists still argue about: is anything truly random?"
@@ -35,7 +35,7 @@
   },
   {
    "term": "Messy",
-   "meaning": "Messy means there is no rule that tells you where each thing is.",
+   "meaning": "Messy means there is no rule you can use to say where each thing is.",
    "example": "Rajma beans tipped out of a tumbler land in a messy heap. Nobody can say where each bean will be.",
    "art": "A steel plate with rajma beans scattered across it in an uneven heap."
   },
@@ -161,7 +161,7 @@
  "agreed": [
   {
    "text": "Gravity pulls every falling thing down, and the air pushes against it as it falls.",
-   "evidence": "In the paper leaf test, both the ball and the leaf ended up on the floor, but the flat leaf took longer and swung about, because the air pushed on its big flat side."
+   "evidence": "In the paper leaf test, both landed on the floor. The flat leaf took longer and swung about, because the air pushed on its big flat side."
   },
   {
    "text": "A flat, light thing like a leaf or a feather lands in a different place almost every time it falls.",
@@ -178,7 +178,7 @@
  ],
  "challenging": [
   {
-   "claim": "Splashes are neat, even shapes, all alike.",
+   "claim": "Splashes make neat crowns, with the points spaced evenly.",
    "who": "Arthur Worthington, an English scientist, believed this for many years from his drawings of splashes, made in the late 1800s.",
    "for": "When he saw splashes in a flash of light, they looked like neat crowns with evenly spaced points.",
    "against": "When he took photographs of splashes in the 1890s, they were far less even than his drawings. He had drawn them neater than they really were, without meaning to.",
@@ -209,7 +209,7 @@
    "hint": "What was different about their shapes? Where could the air push?"
   },
   {
-   "q": "If you could let go of the paper leaf in exactly the same way, with the air exactly the same, would it land in the same place?",
+   "q": "Suppose you could let go of the paper leaf in exactly the same way, with the air exactly the same. Would it land in the same place?",
    "kind": "deep",
    "hint": "Do the rules change from one drop to the next, or does something else change?"
   },
@@ -230,9 +230,9 @@
   }
  ],
  "how_we_found_out": {
-  "story": "Splashes happen too fast to see. In 1875, an English scientist called Arthur Worthington found a way to look at them. In a dark room, he let a drop fall. Just as it hit a plate, an electric spark flashed for a tiny moment. In that flash, he saw the splash for an instant, and then drew it from memory. He did this thousands of times. His drawings showed splashes as neat crowns, with points spaced evenly all around, like a pattern. Then, in the 1890s, Worthington began taking photographs of splashes in the flash. When he looked at the photographs, he was surprised. The real splashes were much less even than his drawings. The points were different sizes and not evenly spaced. Without meaning to, he had drawn them neater than they really were. He wrote about this honestly. It taught scientists that our eyes and memory like to see order, even where there is less of it.",
+  "story": "Splashes happen too fast to see. In the 1870s, an English scientist called Arthur Worthington found a way to look at them. In a dark room, he let a drop fall. Just as it hit a plate, an electric spark flashed for a tiny moment. In that flash, he saw the splash for an instant, and then drew it from memory. He did this many times. His drawings showed splashes as neat crowns, with points spaced evenly all around, like a pattern. Then, in the 1890s, Worthington began taking photographs of splashes in the flash. When he looked at the photographs, he was surprised. The real splashes were much less even than his drawings. The points were different sizes and not evenly spaced. Without meaning to, he had drawn them neater than they really were. He wrote about this honestly. It taught scientists that our eyes and memory like to see order, even where there is less of it.",
   "who": "Arthur Mason Worthington, an English physicist",
-  "when": "Drawings from 1875, photographs from the 1890s, his book 'A Study of Splashes' in 1908",
+  "when": "Drawings from the 1870s, photographs from the 1890s, his book 'A Study of Splashes' in 1908",
   "wrong_idea": "That splashes are neat, even shapes. Photographs showed that real splashes are uneven, and that Worthington's drawings had made them look neater.",
   "art": "A man in old-fashioned clothes in a dark room, looking at a drop falling onto a plate lit by a bright spark, with a sketchbook of neat splash drawings beside him."
  },
@@ -289,10 +289,10 @@
   {
    "id": "e1",
    "title": "The Paper Leaf Test: where will it land?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you cut two leaf shapes from the same paper. You crumple one into a ball and keep the other flat. You drop each one ten times from the same height, and mark where it lands.",
-   "question": "If we drop a flat paper leaf and a crumpled paper ball the same way, from the same height, will each one land in the same place every time?",
+   "question": "If we drop a flat paper leaf and a paper ball from the same height, will each land in the same place every time?",
    "predict": "Look at the flat leaf and the paper ball. When we drop them ten times each, which one will land inside the plate circle more often? Why do you think so?",
    "fair_test": "Both come from the same sheet of paper and are the same size, so they weigh the same. We drop both from the same height, holding them over the same spot. We switch off the fan and close the windows, so moving air does not spoil the test. We drop each one ten times, because one drop can be a fluke.",
    "results_table": [
@@ -326,7 +326,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Cut two paper leaves. Crumple one. Drop each one ten times and mark where it lands."
     }
    ],
@@ -377,7 +377,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
+     "mins": 4,
      "context": "This is the first step of the paper leaf test. You make the paper leaf and the paper ball.",
      "do": "1. Fold the notebook paper in half. 2. Draw a leaf about as long as your child's hand on it. 3. Cut through both layers, so you get two leaves the same size. 4. Your child crumples one leaf into a tight ball.",
      "say": "These two leaves came from the same paper, and they are the same size. So they weigh the same. Now crumple one into a tight ball. Keep the other one flat.",
@@ -386,7 +386,7 @@
     },
     {
      "id": "s2",
-     "mins": 4,
+     "mins": 3,
      "context": "In this step of the paper leaf test, you set up the target and guess.",
      "do": "1. Switch off the fan and close the windows. 2. Lay two sheets of newspaper side by side on the floor. 3. Put a steel plate in the middle and draw around it. 4. Ask the question below.",
      "say": "We will drop each one ten times, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?",
@@ -405,7 +405,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 5,
      "context": "In this step of the paper leaf test, you drop the paper ball ten times.",
      "do": "1. Your child stands beside the circle and holds the ball high, arm straight up, over the middle. 2. Let go. Do not throw. 3. Mark where it first lands with a red cross. 4. Pick it up and do it again, ten times in all.",
      "say": "Hold it high over the middle of the circle. Just open your fingers. Don't throw it. Where did it land? Make a red cross there.",
@@ -414,7 +414,7 @@
     },
     {
      "id": "s4",
-     "mins": 6,
+     "mins": 5,
      "context": "In this step of the paper leaf test, you drop the flat paper leaf ten times.",
      "do": "1. Your child holds the flat leaf by the tip, flat side down, high over the middle of the circle. 2. Let go. 3. Mark where it comes to rest with a blue cross. 4. Do it ten times in all, holding it the same way each time.",
      "say": "Now the flat leaf. Hold it flat, by the tip, in the same place. Let go. Watch how it falls. Make a blue cross where it lands.",
@@ -433,7 +433,7 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "context": "This is the last step of the paper leaf test. You count and say what you found.",
      "do": "1. Count the red crosses inside the circle. 2. Count the blue crosses inside the circle. 3. Ask your child what they think, what they saw and why. 4. Then read the card on why a falling leaf never lands in the same place twice.",
      "say": "How many red crosses are inside the circle? How many blue ones? Did the leaf ever land in the same place twice? Why do you think the ball and the leaf were so different?",
@@ -1192,7 +1192,7 @@
        ]
       }
      ],
-     "parent": "If you cannot see the sky, watch the steam rising from a pot of hot water instead. It also never moves the same way twice."
+     "parent": "If you cannot see the sky, a grown-up can hold a pot of hot water. Your child watches the steam from a safe distance. It also never moves the same way twice."
     },
     {
      "id": "s3",
@@ -1237,12 +1237,11 @@
    ],
    "general": [
     "Clip a paper clip to the tip. The heavy tip goes down first, so the leaf falls more straight.",
-    "Fold the leaf in half along the middle, like a V. It swings less."
+    "Fold the leaf in half along the middle, like a V. Does it swing less?"
    ],
    "creative": [
     "Fold the leaf into a cone, like a small paper cup turned upside down.",
-    "Roll the leaf into a tube.",
-    "Cut the leaf into a narrow strip, so the air has less flat side to push."
+    "Fold the leaf in half twice, to make a small thick square."
    ],
    "your_turn": "Make your own leaf design. Drop it ten times and count how many land inside the circle. Can you beat the flat leaf's score?",
    "setup": [
@@ -1279,7 +1278,7 @@
      "do": "1. Your child changes a new leaf in their own way. 2. Drops it ten times from the same height. 3. Counts how many land inside the circle. 4. Tries one more design.",
      "say": "Make your design. Drop it ten times from the same height. Count how many land inside the circle.",
      "kid": "Make your design. Drop it ten times. Count how many land inside.",
-     "parent": "A paper clip on the tip usually makes the leaf dive nose first, so it lands closer to the circle. A cone also falls more straight."
+     "parent": "A paper clip on the tip often makes the leaf dive tip first, so it lands closer to the circle. A cone or a thick folded square may fall straighter too. Some designs will not work, and that is part of the test."
     },
     {
      "id": "s3",
@@ -1291,7 +1290,7 @@
       {
        "q": "Why did your best design work?",
        "good": [
-        "The clip made the front heavy, so it went down straight.",
+        "The clip made the front heavy, so it went down tip first.",
         "Folding stopped it swinging so much."
        ]
       }
@@ -1431,20 +1430,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi, a girl in Class 2, and her brother Arjun watch a dry leaf fall from a tree.",
+     "p": "Arjun, a boy in Class 2, and his older sister Meenakshi watch a dry leaf fall from a tree.",
      "views": [
       {
-       "who": "Meenakshi",
+       "who": "Arjun",
        "says": "Nobody can say where it will land, so it is just luck. No rules decide it."
       },
       {
-       "who": "Arjun",
+       "who": "Meenakshi",
        "says": "Gravity pulls it and the air pushes it every time. So rules decide where it lands."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For example, agreeing with Arjun because gravity and air push on the leaf the same way each time. It also says Meenakshi is right that nobody can predict where it lands.",
+     "a": "A strong answer picks a side and gives a reason. For example, agreeing with Meenakshi because gravity and air push on the leaf the same way each time. It also says Arjun is right that nobody can predict where it lands.",
      "why": "Both have a point. The leaf follows rules, but tiny changes make it impossible to predict. A strong answer uses the paper leaf test as evidence."
     },
     {
@@ -1488,14 +1487,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the splash test, four drops fell from the same height. What did the splashes look like?",
+     "p": "In the splash test, which drop made the most little dots around its splash?",
      "opts": [
-      "All exactly the same",
-      "Each one a little different",
-      "There were no splashes"
+      "A drop from 30 centimetres",
+      "A drop from one metre",
+      "Both made the same number"
      ],
      "a": 1,
-     "why": "Each splash had a different number of little dots, in different places. Choosing 'all exactly the same' is a good guess, because the water and height were the same. The test shows that tiny differences still change each splash.",
+     "why": "A drop from higher up hits harder. It spreads further and breaks into more little dots. Choosing \"the same number\" means thinking that the splash does not care how far the drop falls.",
      "context": "This question is about the splash test. You let drops of yellow haldi water fall onto white paper from the same height, and looked at each splash.",
      "how": "e2"
     },
@@ -1786,15 +1785,15 @@
   }
  ],
  "applications": [
-  "Weather scientists at the India Meteorological Department use the rules of air, water and heat to say what the weather will probably be in the next few days. Because weather is chaotic, they cannot say exactly what it will be weeks ahead.",
+  "Weather scientists at the India Meteorological Department use the rules of air, water and heat to say what the weather will probably be in the next few days. Weather is chaotic, so they cannot say exactly what it will be weeks ahead.",
   "Kolam and rangoli makers use rules of dots and lines, so the same design can be drawn again and taught to others.",
-  "People who make seed packets, parachutes and paper planes change shapes to control how things fall through the air.",
-  "Scientists who study plants film raindrops hitting leaves very fast, to see how splashes carry plant germs from one leaf to the next.",
+  "People who make parachutes and fold paper planes change the shape to control how things fall through the air.",
+  "Some scientists film raindrops hitting leaves very fast. They want to see how splashes carry plant germs from one leaf to the next.",
   "Shopkeepers stack fruit and steel vessels in neat order, so they can find things fast and count them easily."
  ],
  "spotted": [
   {
-   "text": "A kolam drawn at a doorstep early in the morning in Chennai or Madurai, or a rangoli at a doorway during Diwali in Pune: order made by rules.",
+   "text": "A kolam at a doorstep early in the morning in Chennai or Madurai, or a rangoli at a doorway during Diwali in Pune. Both are order made by rules.",
    "art": "A white dot kolam on a swept doorstep in the early morning light."
   },
   {
@@ -1875,9 +1874,9 @@
  ],
  "maths": [
   {
-   "problem": "In the paper leaf test, Divya made a tally for the paper ball: inside the circle, IIII IIII. Outside, I. How many drops did she make?",
+   "problem": "In the paper leaf test, Divya kept a tally for the paper ball. Inside the circle she made one group of 5 marks and one group of 4 marks. Outside she made 1 mark. How many drops did she make?",
    "answer": "10 drops.",
-   "explain": "The tally IIII IIII is 9 marks, so 9 drops landed inside. 1 landed outside. 9 and 1 make 10.",
+   "explain": "5 and 4 make 9, so 9 drops landed inside. 1 landed outside. 9 and 1 make 10.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e1",
    "context": "This question is about the paper leaf test. You dropped a flat paper leaf and a crumpled paper ball ten times each, from the same height, and marked where each one landed.",
@@ -1928,14 +1927,14 @@
    "url": "",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "A big science museum with hands-on displays about motion, falling and air."
+   "why": "A big science museum in Bengaluru with hands-on science displays."
   },
   {
    "title": "DakshinaChitra heritage museum",
    "url": "",
    "kind": "place",
    "where": "Chennai",
-   "why": "A museum of South Indian homes and crafts, where you can see kolams drawn at doorsteps of old houses."
+   "why": "A museum of South Indian homes, crafts and arts."
   }
  ],
  "buy": [],
@@ -2026,10 +2025,10 @@
   },
   "three": {
    "who_am_i": "Every breath you take is a little different from the last one. You follow the same rules of your body each day, and still no two days of you are the same.",
-   "what_is_life": "A plant grows each new leaf by the same rules, and still each leaf comes out with its own small bends and curves.",
+   "what_is_life": "A plant grows each new leaf by the same rules. Still, each leaf has its own small bends and curves.",
    "what_is_this_world": "Clouds, rivers, waves and falling leaves all follow rules. Yet the world never happens the same way twice."
   },
-  "thread": "A few rules, like gravity and the push of the air, act on every falling leaf and every drop. From those same few rules come countless different landings and splashes, and no two are alike. The rules stay the same, and the world still comes out new every moment. Everything is conscious, the moving air and the falling water too, each one meeting the world in their own way. Many scientists disagree, and say only living things with brains can be aware.",
+  "thread": "A few rules, like gravity and the push of the air, act on every falling leaf and every drop. From those same rules come many different landings and splashes, and no two are alike. Everything is conscious, the moving air and the falling water too, each meeting the world in their own way. Many scientists disagree, and say only living things with brains can be aware.",
   "teachings": [
    {
     "source": "Heraclitus, a Greek thinker from about 500 BCE, as reported by Plato in the Cratylus, 402a",
@@ -2038,8 +2037,8 @@
    },
    {
     "source": "Dhammapada, verse 277",
-    "teaching": "The Buddha taught that all things that are made from other things keep changing. Nothing made stays the same.",
-    "link": "No splash, cloud or falling leaf stayed the same or came again. The splash test shows change in a very small, fast moment."
+    "teaching": "The Buddha taught that everything made of parts keeps changing. Nothing made stays the same.",
+    "link": "A splash lasts a moment and is gone, and the next one is different. A cloud keeps changing shape too."
    }
   ],
   "science": [
@@ -2076,7 +2075,7 @@
    "ideas/by_topic/order-chaos-and-chance.md, same grid, debated: can something ever be truly random, or do we just not know the pattern yet? Used for the debated explanation and the open questions."
   ],
   "science": [
-   "Arthur Mason Worthington (1852 to 1916): spark-flash studies of splashes from 1875, photographs from about 1894, 'A Study of Splashes' (1908). He noted that his earlier drawings had shown splashes as more regular than the photographs. Discussed in Lorraine Daston and Peter Galison, 'Objectivity' (2007).",
+   "Arthur Mason Worthington (1852 to 1916): spark-flash studies of splashes from the 1870s, photographs from about 1894, 'A Study of Splashes' (1908). He noted that his earlier drawings had shown splashes as more regular than the photographs. Discussed in Lorraine Daston and Peter Galison, 'Objectivity' (2007).",
    "Falling paper and leaves: fluttering and tumbling of falling plates, for example A. Andersen, U. Pesavento and Z. Jane Wang, 'Unsteady aerodynamics of fluttering and tumbling plates', Journal of Fluid Mechanics (2005).",
    "Rain splash on leaves spreading plant pathogens: T. Gilet and L. Bourouiba, studies of rain-induced droplet ejection from leaves (around 2014 to 2015).",
    "Chaos and weather predictability: Edward Lorenz, 'Deterministic Nonperiodic Flow', Journal of the Atmospheric Sciences (1963). Kept for the Level 4 unit.",

@@ -91,7 +91,7 @@
    "status": "defined",
    "context": "This card explains changes that can be undone.",
    "definition": "A reversible change is a change that can be undone, so the material goes back to how it was before.",
-   "description": "Your squashed dough rolled back into a ball. The dough from the freezer was stiff and cold, but in your warm hands it went soft again. A plastic ruler bent into a curve and then sprang back straight. Each of these changes could be undone. Melting and freezing are reversible changes too. Ice melts into water, and water freezes back into ice.",
+   "description": "Your squashed dough rolled back into a ball. The dough from the freezer was stiff and cold, but in your warm hands it went soft again. A plastic ruler bent into a curve and sprang back straight. Melting and freezing are reversible too. Ice melts into water, and water freezes back into ice.",
    "examples": [
     "Squashed dough rolled back into a ball",
     "Stiff frozen dough warmed until it is soft again",
@@ -106,7 +106,7 @@
    "status": "defined",
    "context": "This card explains changes that cannot be undone.",
    "definition": "An irreversible change is a change that cannot be undone. Often, heating makes a new material that cannot turn back into the old one.",
-   "description": "On the hot tawa, the soft dough became a stiff roti with brown spots. When it cooled, you could not roll it into a ball. Soaking it in water only made it soggy. It did not turn back into dough. The heat had changed the dough into a new material. Snapping a toothpick is irreversible too, but in a different way. The wood is still wood, but you cannot join it back into one piece.",
+   "description": "On the hot tawa, the soft dough became a stiff roti with brown spots. When it cooled, you could not roll it into a ball. Soaking it in water only made it soggy. The heat had changed the dough into a new material. A snapped toothpick is irreversible in a different way. It is still wood, but you cannot join it into one piece.",
    "examples": [
     "Dough cooked into a roti",
     "Dosa batter cooked into a dosa",
@@ -121,7 +121,7 @@
    "status": "defined",
    "context": "This card explains what you saw in the bend test.",
    "definition": "A thing springs back when the tiny particles it is made of are pushed a little out of place and then pull back. It stays bent when they are pushed so far that they slide into new places.",
-   "description": "Every material is made of tiny particles, far too small to see, that hold on to each other. Bend a ruler a little, and its particles are pushed a little apart. When you let go, they pull back, and the ruler springs straight. Bend a paper clip a lot, and its particles slide into new places and hold on there. So the clip stays bent. A toothpick is different again. Its wood fibres pull apart and the toothpick snaps.",
+   "description": "Everything is made of tiny particles, far too small to see, that hold on to each other. Bend a ruler a little, and the particles are pushed a little apart. When you let go, they pull back, so the ruler springs straight. Bend a paper clip a lot, and its particles slide into new places and stay there. So the clip stays bent.",
    "examples": [
     "A ruler bent a little springs back.",
     "A paper clip bent a lot stays bent.",
@@ -240,13 +240,13 @@
    "Athai picked up the crooked pot. Then she squashed it flat between her palms. She rolled it into a ball, and gave the ball back to Selvi.",
    "\"Clay always lets you try again,\" she said. \"Squash it, roll it, start over. It is still clay.\"",
    "So Selvi tried again. This time her pot came out round, with walls as thick as her finger all the way round. She set it on a plank in the shade to dry.",
-   "The next morning, the pot was pale and hard. Karthik tapped it. \"It's done,\" he said. \"Now it's a real pot.\"",
+   "Two days later, the pot was pale and hard. Karthik tapped it. \"It's done,\" he said. \"Now it's a real pot.\"",
    "\"Not yet,\" said Athai. \"Watch.\" She broke a small piece off the edge of an old dried pot she had thrown away. She dropped it into a tumbler of water. In a few minutes, the piece went soft. Athai squeezed it, and it was sticky clay again.",
    "Selvi stared. \"Drying can be undone?\"",
    "\"Drying can be undone,\" said Athai. \"Water dried out of the clay. Put the water back, and it is clay again. A dried pot is still clay. If it rains on it, it turns to mud.\"",
    "\"So how do you make a real pot?\" asked Selvi.",
    "Athai pointed to a round mud oven at the end of the yard. It was taller than Selvi. \"That is my kiln,\" she said. \"It gets much hotter than any kitchen. Hotter than a tawa, hotter than a cooker. We will fire your pot in it.\"",
-   "Two days later, Athai filled the kiln with pots, lamps and Selvi's little pot. She lit the fire, and she kept it burning all day and late into the night. The yard smelled of smoke. Nobody was allowed to go near.",
+   "The next day, Athai filled the kiln with pots, lamps and Selvi's little pot. She lit the fire, and she kept it burning all day and late into the night. The yard smelled of smoke. Nobody was allowed to go near.",
    "In the morning, when the kiln had cooled, Athai lifted the pots out. Selvi's pot was not grey any more. It was a warm orange-red, the colour of a flowerpot. When Selvi tapped it with her nail, it made a little ringing sound, like a bell.",
    "\"Now drop a piece of that in water,\" said Athai. She gave Selvi a chip from a broken red pot.",
    "Selvi dropped it into the tumbler. She waited. She counted to a hundred. She squeezed the chip. It was still hard.",
@@ -1355,7 +1355,7 @@
        "good": [
         "Water froze into ice.",
         "Ghee went hard.",
-        "Hot tea got a skin on top as it cooled."
+        "Melted candle wax went hard."
        ]
       }
      ]

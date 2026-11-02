@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "On the day after a kite festival, people in many Indian cities find birds caught in kite string on trees and balconies. Why can't the bird just break the string and fly away?",
-  "text": "Some string is so strong that a bird cannot break it, however hard the bird pulls. Strong plastic litter can trap animals the same way. Our environment is everything around us: the air, the water, the land and every living being. In this unit we test which kinds of litter can trap an animal. Then we learn what people in India do to care for the places we share.",
+  "text": "A bird cannot break some kinds of string, however hard the bird pulls. Strong plastic litter can trap animals the same way. Our environment is everything around us: the air, the water, the land and every living being. In this unit we test which kinds of litter can trap an animal. Then we learn what people in India do to care for the places we share.",
   "art": "A pigeon sitting on a balcony railing with a piece of kite string looped round one foot, and a girl looking at the bird from behind the glass door."
  },
  "outcomes": [
@@ -41,7 +41,7 @@
   },
   {
    "term": "Plastic",
-   "meaning": "Plastic is a material made by people, mostly from oil. Most plastic is strong, light and does not soak up water.",
+   "meaning": "Plastic is a material made by people, mostly from oil or gas. Most plastic is strong, light and does not soak up water.",
    "example": "Milk packets, carry bags, straws and nylon string are made of plastic.",
    "art": "A milk packet, a carry bag, a straw and a reel of nylon string on a table."
   },
@@ -81,7 +81,7 @@
    "description": "Birds get caught in kite string and in loops of plastic. Cows on Indian streets eat plastic bags that have food scraps inside. Vets have taken heaps of plastic out of cows' stomachs. Turtles in the sea can swallow floating bags.",
    "examples": [
     "A pigeon with kite string wound round a foot.",
-    "A cow eating a plastic bag with vegetable peels in it.",
+    "A cow eating a plastic bag with vegetable peels inside.",
     "A dog cutting a paw on broken glass."
    ],
    "perspectives": [],
@@ -127,7 +127,7 @@
    "status": "defined",
    "context": "This card says what a family can really do to care for the place we share.",
    "definition": "We care for our environment when we keep litter out of it, use less plastic, and protect the beings who live in it.",
-   "description": "Put litter in a bin, and sort it into wet and dry waste. Snip every loop before you throw it away, so it cannot trap an animal. Carry a cloth bag. Keep a bowl of water for birds in summer. Plant trees and look after them.",
+   "description": "Put litter in a bin, and sort it into wet and dry waste. Snip every loop before you throw it away, so the loop cannot trap an animal. Carry a cloth bag. Keep a bowl of water for birds in summer. Plant trees and look after them.",
    "examples": [
     "Snip a rubber band before it goes in the bin.",
     "Fly kites with cotton string, not nylon string.",
@@ -135,6 +135,20 @@
    ],
    "perspectives": [],
    "art": "A family at home: one child snipping a rubber band with scissors, a parent holding a cloth bag, and a water bowl on the balcony with a sparrow drinking."
+  },
+  {
+   "concept": "People in India who cared for the places they live",
+   "status": "defined",
+   "context": "This card tells three true stories of people in India who protected trees and birds.",
+   "definition": "People in India have protected trees and birds by working together, and many of them were women.",
+   "description": "In 1974, Gaura Devi and the women of Reni village hugged the trees so that loggers could not cut them down. This was part of the Chipko movement. Chipko means to hug or to stick to. In Assam, Purnima Devi Barman, a scientist who studies birds, started the Hargila Army. Thousands of village women now protect the nests of the greater adjutant stork, called hargila in Assamese. In Karnataka, Saalumarada Thimmakka planted banyan trees along about 4 kilometres of road and looked after them.",
+   "examples": [
+    "The women of Reni village held on to the trees, and the loggers went away.",
+    "The Hargila Army guards the nesting trees of a rare stork.",
+    "Thimmakka's banyan trees are now giant trees beside a road."
+   ],
+   "perspectives": [],
+   "art": "Women with their arms round a tall tree in a hill village, a stork on a nest in a village tree, and a long road lined with big banyan trees."
   }
  ],
  "agreed": [
@@ -189,7 +203,7 @@
    "hint": "What was inside the bag? What does it smell of?"
   },
   {
-   "q": "Who does the lake belong to: the people who live near it, or the fish, frogs and birds in it too?",
+   "q": "Who does the lake belong to: the people who live near it, or the fish, frogs and birds in the lake too?",
    "kind": "big",
    "hint": "Who needs the lake every day, and for what?"
   },
@@ -215,9 +229,9 @@
    "Dr. Rehana was a vet who lived in the next building. She looked after hurt birds and other animals. She came up in ten minutes, with a towel and a small pair of scissors.",
    "She put the towel gently over the pigeon. The pigeon went still under the soft dark cloth. Then she snipped the string, bit by bit, until the foot was free.",
    "\"This foot is only a little red,\" said Dr. Rehana. \"She was lucky. You called me fast.\"",
-   "Arun looked at the string in her hand. \"Why didn't the pigeon just break it?\" he asked. \"She pulled so hard.\"",
+   "Arun looked at the string in her hand. \"Why didn't the pigeon just break the string?\" he asked. \"She pulled so hard.\"",
    "\"Feel it,\" said Dr. Rehana. Arun pulled the string. It did not break. It cut into his fingers a little, so he stopped.",
-   "\"This string is made of nylon,\" said Dr. Rehana. \"Nylon is a kind of plastic. It is very strong, even when it is wet. A bird cannot break it.\"",
+   "\"This string is made of nylon,\" said Dr. Rehana. \"Nylon is a kind of plastic. It is very strong, even when it is wet. A bird cannot break nylon string.\"",
    "She took the towel off. The pigeon stood up, shook her feathers, and flew to the next roof.",
    "That evening, Meenakshi had an idea. She cut a strip from an old newspaper and a strip from an empty milk packet. She tied each one into a loop and put both loops in a bowl of water.",
    "After ten minutes she took out the paper loop and pulled it gently. It tore at once. Then she pulled the plastic loop. It stretched and went thin, but it did not tear.",
@@ -344,7 +358,7 @@
      "do": "1. Cut two newspaper strips, one cloth strip and one milk-packet strip, all the same size. 2. Help your child tie each strip into a loop with one knot.",
      "say": "These loops are like litter. A bird or a cow could get a foot or a neck caught in a loop. Let's find out which loops they could break.",
      "kid": "A grown-up cuts four strips. Tie each one into a loop.",
-     "parent": "Make the strips two fingers wide and about 30 centimetres long. Tie the paper loop loosely, so it does not tear while you knot it.",
+     "parent": "Make the strips two fingers wide and about 30 centimetres long. Tie the paper loop loosely, so it does not tear while you knot it. Cut the milk packet smoothly, with no nicks in the edge, because a nick can make the plastic tear. Lift the wet paper loop out gently, so it does not tear before the test.",
      "adult": true
     },
     {
@@ -408,7 +422,7 @@
    "title": "Bag in the Bucket: does a floating plastic bag look like a living animal?",
    "mins": 15,
    "days": 1,
-   "context": "Sea turtles eat jellyfish. Jellyfish are soft, see-through animals who float and drift in the sea. In this experiment you put a thin plastic bag in a bucket of water and watch how it moves. You compare it with paper and cloth.",
+   "context": "Some sea turtles eat jellyfish. Jellyfish are soft, see-through animals who float and drift in the sea. In this experiment you put a thin plastic bag in a bucket of water and watch how it moves. You compare it with paper and cloth.",
    "question": "In water, does a thin plastic bag look and move like a floating jellyfish? Do paper and cloth look like that too?",
    "predict": "Guess first. Which one will look most like a floating jellyfish: the plastic bag, the paper or the cloth? Why do you think so?",
    "fair_test": "Each thing goes into the same bucket of water. You stir the water the same way, three slow turns with a spoon. You watch each one from the side for the same time, one minute.",
@@ -440,7 +454,7 @@
      "qty": 1
     },
     {
-     "item": "a picture of a jellyfish (in this unit or in a book)",
+     "item": "a picture of a jellyfish from a book or a phone, or draw one: a round soft dome with long thin arms hanging down",
      "qty": 1
     }
    ],
@@ -463,8 +477,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show a picture of a jellyfish. Ask for a guess and a reason.",
-     "say": "Sea turtles eat jellyfish. Which of these three will look most like a jellyfish in water? Why do you think so?",
+     "do": "Show a picture of a jellyfish, or draw one: a round soft dome with long thin arms hanging down. Ask for a guess and a reason.",
+     "say": "Some sea turtles eat jellyfish. Which of these three will look most like a jellyfish in water? Why do you think so?",
      "kid": "Look at the jellyfish picture. Guess which thing will look like a jellyfish. Why?",
      "ask": [
       {
@@ -480,16 +494,16 @@
      "id": "s2",
      "mins": 9,
      "do": "1. Put the plastic bag in the water. Push it under once. 2. Stir three slow turns. 3. Watch from the side for one minute. 4. Take it out. Do the same with the paper, then the cloth.",
-     "say": "Watch it from the side, like a turtle under the water. Does it float, sink or drift? Does it look alive?",
+     "say": "Watch the bag from the side, like a turtle under the water. Does it float, sink or drift? Does it look alive?",
      "kid": "Put in one thing at a time. Stir slowly. Watch from the side.",
-     "parent": "A thin bag usually puffs open and drifts slowly in the middle of the water, much like a jellyfish. The newspaper goes soggy and sinks or tears. The handkerchief sinks or lies flat."
+     "parent": "A thin bag usually puffs open and drifts slowly in the middle of the water, much like a jellyfish. It may not do this every time. If the bag only lies flat on top, push it under with the spoon and let go. The newspaper goes soggy and sinks or tears. The handkerchief sinks or lies flat."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Compare your child's drawings with the jellyfish picture.",
-     "say": "Which one looked most like a jellyfish? What might a hungry turtle do if she saw it?",
-     "kid": "Which one looked most like a jellyfish? Why might a turtle eat it?",
+     "say": "Which one looked most like a jellyfish? What might a hungry turtle do if she saw the bag?",
+     "kid": "Which one looked most like a jellyfish? Why might a turtle eat the bag?",
      "check": {
       "t": "mcq",
       "q": "Which one drifted and looked most like a jellyfish?",
@@ -502,7 +516,8 @@
       "why": "The thin bag puffed open and drifted, like a jellyfish. Scientists have found plastic bags in the stomachs of sea turtles. Many think the turtles mistake the bags for jellyfish, though they are still studying how often this happens."
      }
     }
-   ]
+   ],
+   "safety": "Stay with your child at the bucket. Keep the plastic bag away from faces, and away from babies and pets. Empty the bucket when you finish."
   }
  ],
  "activities": [
@@ -526,11 +541,11 @@
      "qty": 1
     }
    ],
-   "safety": "Use only clean, dry waste. Leave out anything sharp, such as broken glass or tins. Wash hands with soap after.",
+   "safety": "Use only clean, dry waste. Leave out anything sharp, such as broken glass or tins. Wash hands with soap after. A grown-up snips any used mask.",
    "record": "Make a tally mark for each loop you find and snip.",
    "setup": [
     {
-     "art": "A child and a grandmother spreading dry waste on a newspaper on the floor: packets, a rubber band, a mask, a string.",
+     "art": "A child and a parent spreading dry waste on a newspaper on the floor: packets, a rubber band, a mask, a string.",
      "caption": "1. Spread the dry waste on a newspaper."
     },
     {
@@ -545,13 +560,13 @@
      "do": "Spread one day's clean dry waste on a newspaper. Your child looks for anything shaped like a loop or a long string.",
      "say": "Look for loops and strings. A bird's foot or a dog's nose could get stuck in them.",
      "kid": "Spread the dry waste out. Look for loops and strings.",
-     "parent": "Common loops are rubber bands, mask ear loops, the rings on packets, plastic strapping from parcels and pieces of string."
+     "parent": "Common loops are rubber bands, mask ear loops, the rings on packets, plastic strapping from parcels and pieces of string. Hard plastic strapping is tough, so a grown-up snips it."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Your child snips each loop open, so it becomes a straight strip. Make a tally mark for each one.",
-     "say": "Snip it open. Now it is a strip, not a loop. Can a bird's foot get stuck in it now?",
+     "say": "Snip it open. Now it is a strip, not a loop. Can a bird's foot get stuck in the strip now?",
      "kid": "Snip each loop open. Make a tally mark for each one.",
      "ask": [
       {
@@ -653,11 +668,11 @@
    "record": "Count the sticks of wound string.",
    "setup": [
     {
-     "art": "A mother and daughter on a terrace finding tangled kite string near a water tank.",
+     "art": "A parent and child on a terrace finding tangled kite string near a water tank.",
      "caption": "1. Look for string on the floor, tanks and railings."
     },
     {
-     "art": "A girl winding string round a stick while her mother cuts a tangled bit free.",
+     "art": "A child winding string round a stick while a parent cuts a tangled bit free.",
      "caption": "2. Wind it round a stick. Count the sticks."
     }
    ],
@@ -687,7 +702,7 @@
    "title": "Trap, Swallow or Safe? A card sorting game",
    "mins": 12,
    "players": "2 to 4 players",
-   "context": "This is a card game about litter. Each card shows a piece of litter. You say whether it could trap an animal, be swallowed, cut an animal, or is safer. Then you turn the card over to check.",
+   "context": "This is a card game about litter. Each card names a piece of litter. You say whether that litter could trap an animal, be swallowed, cut an animal, or is safer. Then you turn the card over to check.",
    "printables": [
     {
      "kind": "cards",
@@ -711,7 +726,7 @@
       },
       {
        "f": "A floating plastic bag",
-       "b": "Swallow card. A turtle may think it is a jellyfish."
+       "b": "Swallow card. A turtle may think the bag is a jellyfish."
       },
       {
        "f": "A bottle cap",
@@ -723,11 +738,11 @@
       },
       {
        "f": "A soggy newspaper",
-       "b": "Safe card. Wet paper tears and rots away soon. Still, put it in the bin."
+       "b": "Safer card. Wet paper tears and rots away soon. Still, put it in the bin."
       },
       {
        "f": "A banana peel",
-       "b": "Safe card. Peels rot into soil. They belong in the wet waste or compost."
+       "b": "Safer card. Peels rot into soil. They belong in the wet waste or compost."
       },
       {
        "f": "An old fishing net",
@@ -739,7 +754,7 @@
       },
       {
        "f": "A cotton thread",
-       "b": "Safe card. Cotton breaks more easily and rots away. Still, pick it up."
+       "b": "Safer card. Cotton breaks more easily and rots away. Still, pick it up."
       }
      ]
     },
@@ -759,8 +774,8 @@
     "Mix the litter cards and put them face down in a pile.",
     "Take turns. Turn over the top litter card and read the front aloud.",
     "Put the card under the sorting card you think is right, and say why.",
-    "Turn the card over and read the back. If you were right, keep the card. If not, put it at the bottom of the pile.",
-    "When the pile is gone, the player with the most cards wins. Then everyone says one way to stop each kind of harm."
+    "Turn the card over and read the back. If you were right, keep the card. If not, put the card in the middle, and nobody keeps it.",
+    "When the pile is gone, the player with the most cards wins. If players tie, they share the win. Then everyone says one way to stop each kind of harm."
    ],
    "setup": [
     {
@@ -777,7 +792,7 @@
      "id": "s1",
      "mins": 2,
      "do": "Cut out the cards. Lay the 4 sorting cards in a row. Put the litter cards face down.",
-     "say": "Each card is a piece of litter. We will decide how it could harm an animal.",
+     "say": "Each card names a piece of litter. We will decide how each one could harm an animal.",
      "kid": "Lay out the sorting cards. Mix the litter cards."
     },
     {
@@ -788,11 +803,11 @@
      "kid": "Take turns. Sort each card and say why. Check the back.",
      "check": {
       "t": "mcq",
-      "q": "A rubber band is lying on the road. How could it harm a bird?",
+      "q": "A rubber band is lying on the road. How could the rubber band harm a bird?",
       "options": [
-       "It could close round the bird's foot and trap them",
-       "It could make the bird too heavy to fly",
-       "It could make the bird's feathers wet"
+       "The band could close round the bird's foot and trap the bird",
+       "The band could make the bird too heavy to fly",
+       "The band could make the bird's feathers wet"
       ],
       "a": 0,
       "why": "A rubber band is a strong loop. It can close round a bird's foot or beak. Snipping it open makes it a strip, which cannot close round anything."
@@ -828,7 +843,14 @@
       "Spot 8: a broken bottle on the path",
       "Spot 9: a mask with loops on a bush",
       "Spot 10: a milk packet floating",
-      "Rain track: 8 steps from a small cloud to a big storm cloud"
+      "Rain step 1: a small cloud (the raincloud starts here)",
+      "Rain step 2: a grey cloud",
+      "Rain step 3: a darker cloud",
+      "Rain step 4: a cloud with a few drops",
+      "Rain step 5: light rain",
+      "Rain step 6: heavy rain",
+      "Rain step 7: thunder",
+      "Rain step 8: a big storm cloud"
      ]
     },
     {
@@ -858,7 +880,7 @@
       },
       {
        "f": "Someone drops a wrapper",
-       "b": "Move the raincloud 1 step."
+       "b": "Move the raincloud 1 step along the rain track."
       },
       {
        "f": "Neighbours snip their loops",
@@ -870,7 +892,7 @@
       },
       {
        "f": "A drain full of plastic",
-       "b": "Move the raincloud 2 steps."
+       "b": "Move the raincloud 2 steps along the rain track."
       },
       {
        "f": "A school clean-up day",
@@ -878,7 +900,7 @@
       },
       {
        "f": "Kites flown with nylon string",
-       "b": "Move the raincloud 1 step."
+       "b": "Move the raincloud 1 step along the rain track."
       },
       {
        "f": "Bins with lids by the lake",
@@ -886,7 +908,7 @@
       },
       {
        "f": "Waste thrown in the lake",
-       "b": "Move the raincloud 2 steps."
+       "b": "Move the raincloud 2 steps along the rain track."
       },
       {
        "f": "Cotton string for kites",
@@ -896,13 +918,13 @@
     }
    ],
    "rules": [
-    "Put one litter token on each of the 10 spots. Put the raincloud on the first step of the rain track.",
-    "Mix the action cards and put them face down.",
-    "Take turns. Turn over one action card and read both sides aloud.",
-    "Do what the back says. Say which animal near the lake you helped, or who is now in danger.",
-    "When you take a litter token, name the animal it could have harmed.",
-    "If all 10 litter tokens are gone, the team wins.",
-    "If the raincloud reaches the storm cloud first, the rain washes more litter in. Talk about what could stop it, then play again."
+    "Put one litter token on each of the 10 spots. Put the raincloud token on rain step 1.",
+    "Mix the action cards and put them face down in a pile.",
+    "Take turns. Turn over one action card and read both sides aloud. Do what the back says. If it says to take litter tokens, you choose which ones. If fewer are left, take what is left.",
+    "Put the used card face up beside the pile. When the pile is gone, shuffle the used cards and make a new pile.",
+    "Say which animal near the lake you helped, or who is now in danger. When you take a litter token, name an animal that litter could have harmed.",
+    "If all 10 litter tokens are gone before the raincloud reaches rain step 8, the team wins.",
+    "If the raincloud reaches rain step 8 first, the rain washes more litter in and the team loses. Talk about what could stop it, then play again."
    ],
    "setup": [
     {
@@ -1011,7 +1033,7 @@
      "caption": "1. Put scissors and a tally sheet by the dry bin."
     },
     {
-     "art": "A girl showing her grandfather a finished poster that says 'Snip the loop!' with drawings of rubber bands and a bird.",
+     "art": "A child showing family members a finished poster that says 'Snip the loop!' with drawings of rubber bands and a bird.",
      "caption": "2. At the end of the week, add up and make a poster."
     }
    ],
@@ -1145,18 +1167,6 @@
    "mins": 15,
    "items": [
     {
-     "t": "mcq",
-     "p": "Remember the wet loop test, where you soaked loops in water and pulled them? Which wet loop tore?",
-     "opts": [
-      "The paper loop",
-      "The plastic loop",
-      "The cloth loop"
-     ],
-     "a": 0,
-     "how": "e1",
-     "why": "Water soaks into paper and makes it weak. A strong answer adds that the dry paper did not tear, so the water made the difference."
-    },
-    {
      "t": "draw",
      "p": "Draw the four loops after the wet loop test. Show which ones tore and which stayed whole.",
      "a": "A drawing with the wet paper loop torn, and the dry paper, cloth and plastic loops whole. The plastic loop may look stretched.",
@@ -1173,7 +1183,7 @@
       ],
       [
        "Plastic bag with peels",
-       "A cow swallows it"
+       "A cow swallows the bag"
       ],
       [
        "Broken glass",
@@ -1181,7 +1191,7 @@
       ],
       [
        "Floating bag in the sea",
-       "A turtle swallows it"
+       "A turtle swallows the bag"
       ]
      ],
      "a": "pairs as given",
@@ -1193,6 +1203,12 @@
      "p": "Our environment is only the trees and the animals. People are not part of it.",
      "a": false,
      "why": "False. Our environment is everything around us, living and non-living. People are animals, so we are part of it too."
+    },
+    {
+     "t": "truefalse",
+     "p": "A banana peel can close round a bird's foot and trap the bird, like a rubber band can.",
+     "a": false,
+     "why": "False. A peel is soft and rots away into soil. A rubber band is a strong loop that can close round a foot."
     },
     {
      "t": "sort",
@@ -1234,7 +1250,7 @@
      "t": "write",
      "p": "Say it to a grown-up, who writes it down: why is a plastic loop more dangerous to a bird than a paper loop?",
      "lines": 2,
-     "a": "Plastic stays strong when wet, so a bird cannot break free. Paper tears when wet, so a bird could break it.",
+     "a": "Plastic stays strong when wet, so a bird cannot break free. Paper tears when wet, so a bird could break free.",
      "why": "A strong answer uses the wet loop test as evidence."
     },
     {
@@ -1264,7 +1280,7 @@
      ],
      "ask": "Which friend do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
-     "a": "Either side, with a reason. Divya is right that paper rots away and tears when wet, so it is less likely to trap an animal. Ammu is right that a bag used many times makes the least waste.",
+     "a": "Either side, with a reason. Divya is right that paper rots away and tears when wet, so an animal is less likely to get trapped. Ammu is right that a bag used many times makes the least waste.",
      "why": "A strong answer gives a reason from the unit for one side, and fairly says what the other side has right."
     },
     {
@@ -1303,17 +1319,6 @@
      "why": "The dry loop held and the wet loop tore. The only difference was the water, so the water made the paper weak."
     },
     {
-     "t": "mcq",
-     "p": "Why does a cow eat a plastic bag on the street?",
-     "opts": [
-      "The bag smells of the food scraps inside it",
-      "Cows like the colour of plastic",
-      "Cows need plastic to grow"
-     ],
-     "a": 0,
-     "why": "Food scraps thrown in plastic bags smell like food. The cow swallows the bag with the food, and the plastic stays in their stomach."
-    },
-    {
      "t": "draw",
      "p": "In the bag-in-the-bucket test, a thin bag drifted in the water. Draw a sea turtle seeing a floating bag and a jellyfish side by side.",
      "a": "A drawing of a turtle with a puffed-open bag and a jellyfish that look alike.",
@@ -1335,7 +1340,7 @@
       2,
       3
      ],
-     "why": "First the wrapper is dropped, then rain washes it into a drain, the drain flows to the lake, and an animal meets it there."
+     "why": "First the wrapper is dropped, then rain washes it into a drain, the drain flows to the lake, and an animal meets the wrapper there."
     },
     {
      "t": "truefalse",
@@ -1357,13 +1362,20 @@
       },
       {
        "who": "A bird rescuer",
-       "says": "Most birds are hurt by nylon and glass-coated string, and in the early morning and evening, when many birds fly."
+       "says": "Most birds are hurt by nylon and glass-coated string. Many get hurt in the early morning and evening, when lots of birds are flying."
       }
      ],
      "ask": "Which view do you agree with most? Why? Then say what one of the others has right.",
      "lines": 3,
      "a": "Any view, with a reason. Hetal is right that birds get hurt. The grandmother is right that the festival matters, and that cotton string and picking up help. The rescuer gives facts that help us choose safer ways.",
      "why": "A strong answer uses a fact from the unit and is fair to another view."
+    },
+    {
+     "t": "write",
+     "p": "The women of the Hargila Army are not the government. Say to a grown-up, who writes it down: how can ordinary people still protect animals?",
+     "lines": 2,
+     "a": "Thousands of village women in Assam guard the nests of the rare stork and look after the nesting trees. People working together can protect animals even without special powers.",
+     "why": "A strong answer uses the Hargila Army story as evidence."
     },
     {
      "t": "label",
@@ -1594,7 +1606,6 @@
  "ask_kids": [
   "Is there any loop in this room that could trap a bird?",
   "Where do you think this wrapper would go if we dropped it on the road?",
-  "Why do you think cows search through rubbish heaps?",
   "Which place near our home is cared for best? Who cares for it?",
   "What is one thing you did today that helped the environment?"
  ],
@@ -1616,10 +1627,6 @@
    "a": "See you again tomorrow, and the day after, and the day after that!"
   },
   {
-   "j": "Why did the pigeon fly kites only at midday?",
-   "a": "She wanted the sky all to herself at breakfast!"
-  },
-  {
    "j": "What did the lake say after the clean-up?",
    "a": "I feel so much lighter!"
   },
@@ -1638,7 +1645,7 @@
  ],
  "maths": [
   {
-   "problem": "In the wet loop test, Lakshmi pulled 4 loops. 1 loop tore. How many loops stayed whole?",
+   "problem": "Lakshmi, a girl in Class 2, pulled 4 loops in the wet loop test. 1 loop tore. How many loops stayed whole?",
    "answer": "3 loops.",
    "explain": "4 loops take away the 1 that tore leaves 3. 4 - 1 = 3.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1647,7 +1654,7 @@
    "why_maths": "Taking away tells us how many loops could still trap an animal after a soak."
   },
   {
-   "problem": "In the Loop-Free Week, Kavya's family snipped 3 loops on Monday, 5 on Tuesday and 2 on Wednesday. On which day did they snip the most? How many loops in all?",
+   "problem": "In the Loop-Free Week, Kavya, a girl in Class 2, and her family snipped 3 loops on Monday, 5 on Tuesday and 2 on Wednesday. On which day did they snip the most? How many loops in all?",
    "answer": "Tuesday. 10 loops in all.",
    "explain": "5 is the biggest number, so Tuesday. 3 + 5 + 2 = 10.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1656,7 +1663,7 @@
    "why_maths": "A tally and a total show how many traps one home makes, and which day made the most."
   },
   {
-   "problem": "One home in a building snips 2 loops a day. There are 5 homes in the building, and each snips 2 loops a day. How many loops do they snip in one day?",
+   "problem": "In a building, each of 5 homes snips 2 loops a day. How many loops do they snip in one day?",
    "answer": "10 loops.",
    "explain": "5 groups of 2 make 10. 2 + 2 + 2 + 2 + 2 = 10.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -1800,10 +1807,10 @@
   },
   "three": {
    "who_am_i": "You are one of the many animals who share this place. What you drop, another animal meets.",
-   "what_is_life": "A pigeon feels the string tighten and decides to pull. Every being senses danger and tries to get free.",
+   "what_is_life": "A pigeon feels the string tighten and pulls to get free. Plants also sense touch, light and harm, and they respond.",
    "what_is_this_world": "The world is shared. A lake belongs to the fish, the ducks, the lotus and the people who live by it."
   },
-  "thread": "A piece of litter does not stop mattering when it leaves our hand. It goes on to meet someone: a cow by the road, a pigeon on a roof, a turtle in the sea. Each of them senses it, and decides what to do: eat it, pull against it, or pass it by. What happens next depends on what the litter is made of. So caring for the environment means thinking about the beings who will meet what we leave behind.",
+  "thread": "Litter does not stop mattering when it leaves our hand. The litter goes on to meet someone: a cow by the road, a pigeon on a roof, a turtle in the sea. Each of them senses the litter, and decides what to do: eat it, pull against it, or pass it by. What happens next depends on what the litter is made of. So caring for the environment means thinking about the beings who will meet what we leave behind.",
   "teachings": [
    {
     "source": "Bhagavata Purana 7.14.9",
@@ -1849,5 +1856,6 @@
   "who": "Jennifer Lavers, an Australian scientist, with Hayley Charlton-Howard, Alex Bond and Jack Rivers-Auty",
   "when": "Years of study on Lord Howe Island, and the report in 2023",
   "wrong_idea": "Many people thought that if a sea bird chick swallowed plastic and stayed alive, the plastic did no real harm, like the small stones birds swallow."
- }
+ },
+ "playtest": "Walked through the unit as a parent and child in a flat. The wet loop test needs only newspaper, an old cloth, a washed milk packet and a bowl of water, and the wet paper tears while the plastic only stretches. The bag-in-the-bucket test now says the bag may not drift every time and what to do then. Fixed the Clean Lake board (the rain track is now 8 written steps), the card deck that ran out before the game could end, and the sorting game that could go on for ever. Added a card telling the Chipko, Hargila Army and Thimmakka stories that the quiz asked about, removed repeated questions and a joke that made no sense, made the maths names clear, and took family members out of the pictures and steps."
 }

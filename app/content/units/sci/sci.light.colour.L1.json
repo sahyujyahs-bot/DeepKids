@@ -3,12 +3,12 @@
  "title": "Mixing paints: how three colours make many more",
  "level": 1,
  "summary": {
-  "text": "Mix yellow paint with blue paint, and you get green, a colour that was in neither pot. Your child mixes red, yellow and blue paint and finds orange, green, purple and brown. Every mix comes out darker than yellow, and all three together make a dark, muddy brown. That is because paint absorbs, or soaks up, some of the light that falls on it. Two paints soak up more light than one, so less light comes back to our eyes.",
+  "text": "Mix yellow paint with blue paint, and you get green, a colour that was in neither pot. Your child mixes red, yellow and blue paint and finds orange, green, purple and brown. All three together make a dark, muddy brown. That is because paint absorbs, or soaks up, some of the light that falls on it. More paints soak up more light, so less light comes back to our eyes.",
   "art": "A girl's hand holding a paintbrush over a steel plate with three blobs of paint, red, yellow and blue, and a fresh green patch where the yellow and blue meet."
  },
  "intro": {
   "hook": "Here is yellow paint, and here is blue paint. There is no green paint. Can we make green anyway?",
-  "text": "Put a blob of yellow paint and a blob of blue paint on a plate. Ask your child what will happen if they stir the two together, and why. Then let them stir. A green appears that was not in either pot. Where did it come from? This unit finds out.",
+  "text": "Put a blob of yellow paint and a blob of blue paint on a plate. Ask your child what colour they will make when stirred together, and why. Then let them stir. A green appears that was in neither pot. Where did it come from? This unit finds out.",
   "art": "Two blobs of paint, one yellow and one blue, on a white plate, with a child's finger about to swirl them together."
  },
  "outcomes": [
@@ -51,7 +51,7 @@
    "concept": "Two paints make a new colour",
    "status": "defined",
    "definition": "When you mix two paints, you get a new colour. Yellow and blue make green. Red and yellow make orange. Red and blue make purple.",
-   "description": "In the Colour Mixing Test, you stirred yellow and blue paint together. A green came out, though there was no green in either pot. Red and yellow made orange, like a marigold. Red and blue made purple, like a brinjal. The new colour depends on how much of each paint you use. A lot of yellow and a little blue make a light green. A lot of blue and a little yellow make a dark green.",
+   "description": "In the Colour Mixing Test, you stirred yellow and blue paint together, and green came out, though neither pot was green. Red and yellow made orange, like a marigold. Red and blue made purple, like a brinjal. A lot of yellow and a little blue make a light green. A lot of blue and a little yellow make a dark green.",
    "examples": [
     "Yellow and blue make green, the colour of a parrot or a banana leaf.",
     "Red and yellow make orange, the colour of a marigold or a carrot.",
@@ -65,30 +65,19 @@
    "concept": "Primary colours: the three you start with",
    "status": "defined",
    "definition": "Red, yellow and blue are the primary colours of a paint box. You cannot mix them from the other paints in the box. Many other colours can be mixed from them.",
-   "description": "Try to mix yellow from the other paints. Red and blue make purple, never yellow. So yellow has to come from its own pot. The same is true for red and blue. That is why painters call these three the primary colours. Primary means first. With just these three, and some water or white paint, you can mix hundreds of colours.",
+   "description": "Try to mix yellow from the other paints. Red and blue make purple, never yellow. So yellow has to come from its own pot, and so do red and blue. Primary means first.",
    "examples": [
-    "Orange, green and purple can all be mixed from red, yellow and blue.",
-    "Add white paint to red, and you get pink.",
-    "Printers use three inks too: yellow, a pink called magenta, and a light blue called cyan."
-   ],
-   "perspectives": [
-    {
-     "who": "Painters",
-     "explanation": "Red, yellow and blue are the primary colours. Children's paint boxes and art classes start with them."
-    },
-    {
-     "who": "Printers",
-     "explanation": "Yellow, magenta (a bright pink) and cyan (a light blue) mix a wider range of bright colours. Printers can even mix red from magenta and yellow. The ink in a colour printer uses these three, and black."
-    }
+    "Orange, green and purple can all be mixed from red, yellow and blue."
    ],
    "context": "This card is about the three paints you started with in the Colour Mixing Test.",
-   "art": "A child's paint box with red, yellow and blue cakes, and beside it a colour printer's three ink cartridges in yellow, magenta and cyan."
+   "art": "A child's paint box with red, yellow and blue cakes, and beside it a colour printer's three ink cartridges in yellow, magenta and cyan.",
+   "perspectives": []
   },
   {
    "concept": "Why mixing paints makes colours darker",
    "status": "defined",
    "definition": "Paint absorbs, or soaks up, some of the light that falls on it. It sends the rest back to our eyes, and that is the colour we see. Two paints together absorb more light than one, so a mix is darker.",
-   "description": "Sunlight and lamp light are made of many colours mixed together. Yellow paint soaks up the blue part of the light and sends back the rest. Blue paint soaks up the red, orange and yellow parts. Mix the two paints, and together they soak up nearly everything except green. So green is the light that is left to reach your eyes. Add red paint too, and the green gets soaked up as well. Very little light comes back, so you see a dark brown.",
+   "description": "Sunlight and lamp light are made of many colours mixed together. Yellow paint soaks up the blue part of the light and sends back the rest. Blue paint soaks up the red, orange and yellow parts. Together they soak up nearly everything except green, so green is the light left to reach your eyes. Add red paint too, and the green is soaked up as well. Very little light comes back, so you see dark brown.",
    "examples": [
     "In the Colour Mixing Test, every mix was darker than yellow.",
     "Red, yellow and blue together made a dark, muddy brown.",
@@ -101,11 +90,11 @@
   {
    "concept": "Colours around us, and colours on living beings",
    "status": "defined",
-   "definition": "Most colours around us come from colour stuff, called pigment, in paint, skin, flowers and feathers. Some colours are made by tiny shapes instead, like the shine on a pigeon's neck.",
-   "description": "Flowers use bright colours to call bees and butterflies to their nectar. Bees see a kind of light called ultraviolet, which our eyes cannot see. Many flowers have ultraviolet patterns that guide bees to the nectar. A pigeon's neck shines green and purple as she turns her head. Those colours come from tiny layers in her feathers, not from pigment. A green parrot has yellow pigment in her feathers, and tiny shapes that send back blue. Yellow and blue together look green, just like your paints. Even the sea's blue is not only the sky. In 1921 the Indian scientist C. V. Raman showed that water itself sends back blue light.",
+   "definition": "Many colours come from colour stuff in paint, flowers and feathers. Some colours come from tiny shapes instead, like the shine on a pigeon's neck.",
+   "description": "Flowers use bright colours to call bees and butterflies to their nectar. A pigeon's neck shines green and purple as they turn their head. Tiny layers in the feathers make those colours. A green parrot has yellow colour stuff in the feathers and tiny shapes that send back blue, so yellow and blue together look green, like your paints.",
    "examples": [
     "A marigold's orange calls bees and butterflies.",
-    "A pigeon's neck changes from green to purple as she turns.",
+    "A pigeon's neck changes from green to purple as they turn.",
     "A green parrot's feathers are yellow and blue together."
    ],
    "perspectives": [],
@@ -410,10 +399,10 @@
      "do": "1. Your child takes some green from the plate and adds more and more yellow. 2. Look at the colour after each brushful.",
      "say": "Can we get the yellow back out of the green? Add more yellow. Is it yellow again?",
      "kid": "Add more yellow to the green. Is it yellow again?",
-     "parent": "The green turns yellowish green, but never plain yellow. Now ask for claim and evidence: what did you find, and what did you see that shows it?",
+     "parent": "The green turns yellowish green, but never plain yellow. Now ask: what did you find, and what did you see that shows it?",
      "check": {
       "t": "mcq",
-      "q": "Kavya mixes yellow and blue paint. Then she adds lots more yellow. What does she get?",
+      "q": "A girl mixes yellow and blue paint. Then she adds lots more yellow. What does she get?",
       "options": [
        "A yellowish green",
        "Plain yellow again",
@@ -440,7 +429,7 @@
    ],
    "materials": [
     {
-     "item": "2 clear glass tumblers or clear plastic bottles cut low, half full of water",
+     "item": "2 clear glass tumblers or clear plastic cups: one half full of water, one empty",
      "qty": 2
     },
     {
@@ -540,7 +529,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Pour half the green water into the second glass. 2. Ask your child to guess. 3. They fill it to the top with plain water and stir.",
+     "do": "1. Pour half the green water into the empty glass. 2. Ask your child to guess. 3. They fill that glass to the top with plain water from the jug and stir. 4. Stand it beside the first glass to compare.",
      "say": "Can water turn the green back into yellow? What do you think, and why? Let's pour in lots of water.",
      "kid": "Pour in lots of water. Is it yellow again?",
      "ask": [
@@ -557,12 +546,12 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask the check question.",
+     "do": "Stand the two glasses side by side and look at them together. Then ask the check question.",
      "say": "So, did the water undo the green?",
      "kid": "Did the water undo the green?",
      "check": {
       "t": "mcq",
-      "q": "Nila pours lots of water into her green water. What colour does it turn?",
+      "q": "A girl pours lots of water into her green water. What colour does it turn?",
       "options": [
        "Pale green",
        "Yellow",
@@ -584,7 +573,7 @@
    "context": "This is a short noticing activity, before anyone explains anything. You hunt around your home for one thing of every colour and put them in heaps.",
    "materials": [
     {
-     "item": "8 paper slips, each coloured with a crayon: red, orange, yellow, green, blue, purple, brown and black",
+     "item": "8 small paper slips and crayons",
      "qty": 8
     },
     {
@@ -613,14 +602,14 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 1,
-     "do": "Lay the eight colour slips on the sheet.",
+     "mins": 3,
+     "do": "1. Colour the eight paper slips with crayons: red, orange, yellow, green, blue, purple, brown and black. 2. Lay them in a row on the sheet.",
      "say": "We are going on a colour hunt. Find one thing for each colour, and put it by its slip.",
      "kid": "Find one thing for each colour. Put it by its slip."
     },
     {
      "id": "s2",
-     "mins": 7,
+     "mins": 5,
      "do": "Your child hunts around the home and places each thing by its slip.",
      "say": "Can you find something purple? Now something orange. Which colour is the hardest to find?",
      "kid": "Find something purple. Now orange. Which is the hardest to find?",
@@ -643,14 +632,14 @@
      "kid": "Look at your green thing. Could we make that green with paint?",
      "check": {
       "t": "mcq",
-      "q": "Which of these is a colour?",
+      "q": "Which two paints could we mix to make the green of a curry leaf?",
       "options": [
-       "Purple",
-       "Soft",
-       "Round"
+       "Yellow and blue",
+       "Red and blue",
+       "Red and yellow"
       ],
       "a": 0,
-      "why": "Purple is a colour, like red and green. Soft tells us how a thing feels, and round tells us its shape."
+      "why": "Yellow and blue make green. Red and blue make purple, and red and yellow make orange."
      }
     }
    ]
@@ -683,7 +672,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the beetroot. Turmeric and beetroot stain clothes, so wear an old shirt.",
+   "safety": "A grown-up cuts the beetroot.",
    "schedule": [
     {
      "day": 1,
@@ -710,7 +699,7 @@
      "say": "Long ago, people made paints from plants. Let's make yellow from turmeric and pink from beetroot.",
      "kid": "We are making paint from the kitchen. Yellow from turmeric. Pink from beetroot.",
      "adult": true,
-     "parent": "The beetroot juice comes out deep pink to red. Turmeric makes a strong yellow, though it does not fully dissolve."
+     "parent": "The beetroot juice comes out deep pink to red. If it is faint, rub the slice on the wet bowl. Turmeric makes a strong yellow, though it does not fully dissolve."
     },
     {
      "id": "s2",
@@ -732,18 +721,18 @@
      "id": "s3",
      "mins": 4,
      "do": "Talk about the colours, and ask the check question.",
-     "say": "These colours came from plants. A turmeric root and a beetroot make these colours inside them. What other plant colours do you know?",
+     "say": "These colours came from plants. Turmeric and beetroot come from plants that grow in the ground. What other plant colours do you know?",
      "kid": "These colours came from plants. What other plant colours do you know?",
      "check": {
       "t": "mcq",
       "q": "Where did our yellow paint come from?",
       "options": [
-       "Turmeric, the root of a plant",
+       "Turmeric, from a plant",
        "A shop",
        "Water"
       ],
       "a": 0,
-      "why": "Turmeric is the root of a plant. The turmeric plant makes that yellow inside her root."
+      "why": "Turmeric is dug from the ground. The turmeric plant makes that yellow inside the part we dig up."
      }
     }
    ]
@@ -778,8 +767,8 @@
      "caption": "1. Look closely at a plant's colours."
     },
     {
-     "art": "A pigeon on a window ledge turning her head, her neck shining green on one side and purple on the other.",
-     "caption": "2. Watch a pigeon's neck as she turns."
+     "art": "A pigeon on a window ledge turning their head, their neck shining green on one side and purple on the other.",
+     "caption": "2. Watch a pigeon's neck as they turn."
     }
    ],
    "flow": [
@@ -793,7 +782,7 @@
       {
        "q": "Why do you think the flower is so bright?",
        "good": [
-        "So bees can find her.",
+        "So bees can find them.",
         "To look pretty.",
         "To call butterflies."
        ]
@@ -804,10 +793,10 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Watch the window for a pigeon or a crow. If none comes, look at a photo of a pigeon's neck together.",
-     "say": "Look at the pigeon's neck. What colour is it? Now watch as she turns her head. Does the colour change?",
-     "kid": "Look at the pigeon's neck. Watch it as she turns.",
-     "parent": "A pigeon's neck shines green and purple, and the colours change as she moves. Tiny layers in the feathers make these colours, not pigment. Pigeons come to most city windows, but any bird is fine."
+     "do": "Watch the window for a pigeon or a crow. If none comes, try again later in the day. Any bird is fine.",
+     "say": "Look at the pigeon's neck. What colour is it? Now watch as they turn their head. Does the colour change?",
+     "kid": "Look at the pigeon's neck. Watch it as they turn.",
+     "parent": "A pigeon's neck shines green and purple, and the colours change as they move. Tiny layers in the feathers make these colours, not pigment. Pigeons come to most city windows."
     },
     {
      "id": "s3",
@@ -859,16 +848,16 @@
        "b": "Dark brown"
       },
       {
-       "f": "Red + White",
-       "b": "Pink"
+       "f": "Blue + Green",
+       "b": "Blue-green, like the sea"
       },
       {
-       "f": "Black + White",
-       "b": "Grey"
+       "f": "Red + Green",
+       "b": "Brown"
       },
       {
-       "f": "Blue + White",
-       "b": "Light blue, like the sky"
+       "f": "Orange + Blue",
+       "b": "Dull brown"
       },
       {
        "f": "Lots of yellow + a little blue",
@@ -886,12 +875,12 @@
     }
    ],
    "rules": [
-    "Before you play, colour a small blob of each colour next to its word, with crayons, so everyone can read the cards.",
+    "Before you play, colour a small blob of each colour next to its word on the front of each card, so everyone can read the cards.",
     "Put the cards in a pile, colour sum side up.",
     "On your turn, look at the top card and say what colour the two make.",
     "Turn the card over to check. If you were right, keep the card.",
-    "If you were wrong, put the card at the bottom of the pile. You will meet it again.",
-    "When the pile is empty, the player with the most cards wins."
+    "If you were wrong, say what the two colours make together and put the card aside. Nobody keeps it.",
+    "When the pile is empty, the player with the most cards wins. If you have the same number, play again."
    ],
    "setup": [
     {
@@ -936,14 +925,14 @@
      "kid": "Which card was hardest?",
      "check": {
       "t": "mcq",
-      "q": "What do red, yellow and blue paint make together?",
+      "q": "A card says \"Lots of yellow + a little blue\". What does it make?",
       "options": [
-       "Dark brown",
-       "White",
-       "A rainbow"
+       "Light green",
+       "Dark green",
+       "Purple"
       ],
       "a": 0,
-      "why": "Each paint absorbs some light. All three together absorb most of it, so the mix is dark brown."
+      "why": "Lots of yellow makes the green lighter. Lots of blue would make it darker."
      }
     }
    ]
@@ -952,26 +941,29 @@
    "id": "g2",
    "title": "Mix and Run: hold up the colours, then find one",
    "mins": 10,
-   "players": "1 or more players and a caller.",
+   "players": "2 or more players. One calls, and the others hold up cards and run.",
    "context": "This is a moving game. The caller says a mixed colour. You hold up the two primary colours that make it, then run to touch something of that colour.",
    "printables": [
     {
      "kind": "cards",
-     "title": "3 colour cards to colour in",
+     "title": "6 colour cards to colour in",
      "items": [
-      "A card to colour red",
-      "A card to colour yellow",
-      "A card to colour blue"
+      "Colour this card red",
+      "Colour this card yellow",
+      "Colour this card blue",
+      "Colour this card red",
+      "Colour this card yellow",
+      "Colour this card blue"
      ]
     }
    ],
    "rules": [
-    "Each player colours three cards: one red, one yellow and one blue.",
+    "Print the page once for every two players. Each player takes three cards and colours them: one red, one yellow and one blue.",
     "The caller says a mixed colour: green, orange or purple.",
     "Each player holds up the two cards that make that colour.",
-    "Then everyone runs to touch something in the home of that colour.",
+    "Then everyone runs to touch something in the home of that colour. If you cannot find one, name something you know that has that colour.",
     "Say what you touched. Then the caller says a new colour.",
-    "Take turns being the caller."
+    "Take turns being the caller. Stop when everyone has called once."
    ],
    "setup": [
     {
@@ -1083,7 +1075,8 @@
      "mins": 8,
      "do": "1. Make the book. 2. Your child mixes red and yellow and paints the colour sum on the first page. 3. They draw two orange things from home.",
      "say": "Today's colour is orange. Mix red and yellow, and paint the sum. Then find two orange things at home and draw them.",
-     "kid": "Mix red and yellow. Paint the sum. Draw two orange things."
+     "kid": "Mix red and yellow. Paint the sum. Draw two orange things.",
+     "wait": "The next day."
     },
     {
      "id": "s2",
@@ -1099,7 +1092,6 @@
      "do": "Your child mixes red and blue for the purple page, and draws two purple things. Then read the whole book together.",
      "say": "Today's colour is purple. Mix it and paint the sum. Which page was easiest to fill? Why?",
      "kid": "Mix purple. Paint the sum. Which page was easiest?",
-     "wait": "The next day.",
      "check": {
       "t": "mcq",
       "q": "Which two paints did you mix for the purple page?",
@@ -1121,7 +1113,7 @@
    "title": "Match the Leaf",
    "mins": 15,
    "context": "This is a mixing challenge. You try to mix a green that matches a real leaf, using only red, yellow and blue paint.",
-   "problem": "Meenakshi wants to paint a curry leaf so that it looks real. She has no green paint. Can you mix a green that matches a real leaf?",
+   "problem": "You want to paint a curry leaf so that it looks real. You have no green paint. Can you mix a green that matches a real leaf?",
    "constraints": [
     "Use only red, yellow and blue paint, and water.",
     "Paint a patch right next to the real leaf, to compare."
@@ -1139,7 +1131,7 @@
     "A tiny touch of red makes a bright green duller, like an older leaf."
    ],
    "creative": [
-    "Paint blue first, let it dry, then paint yellow on top, the way Kalamkari painters in Andhra Pradesh do.",
+    "On another day, paint blue first, let it dry, then paint yellow on top, the way Kalamkari painters in Andhra Pradesh do.",
     "Add water to make a pale green for the new leaves at the tip.",
     "Paint the leaf with two greens: a darker one in the middle and a lighter one at the edges."
    ],
@@ -1159,7 +1151,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem to your child, and put the leaf on the paper.",
-     "say": "Meenakshi has no green paint. How can we make a green that looks like this leaf?",
+     "say": "We have no green paint. How can we make a green that looks like this leaf?",
      "kid": "We have no green. How can we make one like this leaf?",
      "ask": [
       {
@@ -1239,7 +1231,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan mixes red, yellow and blue paint all together. What colour does he get?",
+     "p": "Farhan, a boy in Class 1, mixes red, yellow and blue paint all together. What colour does he get?",
      "opts": [
       "Dark brown",
       "White",
@@ -1247,13 +1239,6 @@
      ],
      "a": 0,
      "why": "Every paint soaks up some light. All three together soak up most of it, so very little light comes back. That is why the mix is dark brown, not bright or white.",
-     "how": "e1"
-    },
-    {
-     "t": "truefalse",
-     "p": "Yellow paint and blue paint make green.",
-     "a": true,
-     "why": "True. You saw green appear when you stirred yellow and blue together, though neither pot was green.",
      "how": "e1"
     },
     {
@@ -1293,6 +1278,12 @@
      "why": "Red, yellow and blue are the primary colours, and the other paints cannot make them. Green, orange and purple are each mixed from two of them."
     },
     {
+     "t": "truefalse",
+     "p": "Kalamkari painters make green by painting yellow over blue.",
+     "a": "True",
+     "why": "True. Painters in Srikalahasti paint yellow over indigo blue, and the two colours together look green, as in Lakshmi's story."
+    },
+    {
      "t": "write",
      "p": "Say out loud, and a grown-up writes it down: what happened when you tried to get yellow back out of green?",
      "lines": 2,
@@ -1325,30 +1316,26 @@
        "says": "If I mix every colour, I will get a dark, muddy colour. Each paint makes the mix darker."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Why? Say it out loud, and a grown-up writes it down. Then say one thing the other girl has right.",
      "lines": 3,
      "a": "A strong answer picks Anjali and uses the test: all three paints made dark brown. It also says Thenmozhi has something right: each paint alone is bright, and brown is a useful colour, for a tree trunk or soil.",
-     "why": "Anjali is right about paint. Thenmozhi's idea is right for light, which children meet in a later unit. Both girls are thinking about what mixing does.",
+     "why": "Anjali is right about paint. Thenmozhi's guess is a common one. Mixing light works differently, which a later unit shows. Both girls are thinking about what mixing does.",
      "how": "e1"
     },
     {
      "t": "draw",
-     "p": "Draw a green parrot. Then colour the two paints you would mix to paint her.",
-     "a": "A green parrot, with a yellow blob and a blue blob beside her.",
+     "p": "Draw a green parrot. Then colour the two paints you would mix to paint them.",
+     "a": "A green parrot, with a yellow blob and a blue blob beside the parrot.",
      "why": "A strong drawing shows green made from yellow and blue. Real parrot feathers are yellow and blue together too, as in the story.",
      "art": "A blank box with space for a parrot and two small circles for the paints."
     },
     {
-     "t": "mcq",
-     "p": "Aisha, a girl in Class 1, sees a bee fly straight to a bright orange marigold. Why is the marigold so bright?",
-     "opts": [
-      "Her colour calls bees and butterflies to her nectar",
-      "Her colour keeps the rain off",
-      "Her colour makes her leaves grow"
-     ],
-     "a": 0,
-     "why": "Bright colours help bees and butterflies find the nectar. As they visit, they carry pollen from flower to flower.",
-     "how": "a3"
+     "t": "draw",
+     "p": "Draw a bee flying to a bright flower. Colour the flower.",
+     "a": "A bee near a brightly coloured flower.",
+     "why": "A strong drawing shows a bright flower and a bee coming to the flower, because bright colours call bees and butterflies to their nectar.",
+     "how": "a3",
+     "art": "A blank box with space for a flower and a bee."
     }
    ]
   },
@@ -1376,7 +1363,7 @@
     },
     {
      "t": "mcq",
-     "p": "Bornali adds 1 drop of blue to yellow water, and then 5 more drops. What happens to the green?",
+     "p": "Bornali, a girl in Class 1, adds 1 drop of blue to yellow water, and then 5 more drops. What happens to the green?",
      "opts": [
       "It gets darker",
       "It gets lighter",
@@ -1420,14 +1407,14 @@
     },
     {
      "t": "count",
-     "p": "In the Colour Mixing Test, Divya mixed three colour sums with two paints each, and one with all three paints. How many new colours did she make?",
+     "p": "In the Colour Mixing Test, a girl mixed three colour sums with two paints each, and one with all three paints. How many new colours did she make?",
      "a": 4,
      "why": "Green, orange and purple make 3. The brown from all three makes 4.",
      "how": "e1"
     },
     {
      "t": "fill",
-     "p": "Paint ___ some of the light that falls on it, and sends the rest back to our eyes.",
+     "p": "Ask a grown-up to help you write the missing word. Paint ___ some of the light that falls on it, and sends the rest back to our eyes.",
      "a": "absorbs",
      "why": "To absorb is to soak up. The light that is not absorbed comes back to us, and that is the colour we see."
     },
@@ -1440,14 +1427,14 @@
     },
     {
      "t": "mcq",
-     "p": "A pigeon's neck shines green and then purple as she turns her head. What makes those colours?",
+     "p": "A pigeon's neck shines green and then purple as they turn their head. What makes those colours?",
      "opts": [
-      "Tiny layers in her feathers",
+      "Tiny layers in their feathers",
       "Paint",
       "Sunlight getting tired"
      ],
      "a": 0,
-     "why": "Tiny layers in the feathers send back different colours as the pigeon moves. That is why the colour changes when she turns.",
+     "why": "Tiny layers in the feathers send back different colours as the pigeon moves. That is why the colour changes when they turn.",
      "how": "a3"
     },
     {
@@ -1527,18 +1514,6 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi mixes all three paints together. What does she get?",
-   "opts": [
-    "Dark brown",
-    "White",
-    "A bright new colour"
-   ],
-   "a": 0,
-   "why": "Every paint soaks up some light. Together they soak up most of it, so the mix is dark brown.",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
    "p": "Is a mix of yellow and blue paint lighter or darker than the yellow?",
    "opts": [
     "Darker",
@@ -1551,7 +1526,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya adds lots of water to her green paint. What happens?",
+   "p": "A girl adds lots of water to her green paint. What happens?",
    "opts": [
     "It turns pale green",
     "It turns yellow",
@@ -1586,6 +1561,18 @@
    "why": "Bright colours help bees and butterflies find a flower's nectar.",
    "outcome": 5,
    "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "Why do we see a leaf as green?",
+   "opts": [
+    "The leaf sends green light back to our eyes",
+    "The leaf makes green light in the dark",
+    "Someone paints the leaf green"
+   ],
+   "a": 0,
+   "why": "A leaf soaks up some of the light that falls on it and sends green light back to our eyes. With no light, there is no green to see.",
+   "outcome": 4
   }
  ],
  "videos": [
@@ -1638,7 +1625,7 @@
    "art": "A flock of green parrots with red beaks on a banyan tree in a city."
   },
   {
-   "text": "A pigeon on a balcony in Hyderabad, her neck shining green and purple.",
+   "text": "A pigeon on a balcony in Hyderabad, their neck shining green and purple.",
    "art": "A grey pigeon on a balcony railing with a shining green and purple neck."
   },
   {
@@ -1653,7 +1640,7 @@
  "open_questions": [
   {
    "q": "How many colours can a person tell apart?",
-   "why_open": "Scientists have tried to count them, and their answers range from about a million to many millions. It depends on how you count, and on who is looking."
+   "why_open": "Scientists often say about a million, but they do not agree on one number. It depends on how you count, and on who is looking."
   },
   {
    "q": "Why do we like some colours more than others?",
@@ -1661,7 +1648,7 @@
   },
   {
    "q": "What does a red flower look like to a bee?",
-   "why_open": "Bees see ultraviolet light but see red poorly. We can measure what light a bee's eyes take in. But nobody knows what the colours look like to the bee herself."
+   "why_open": "Bees see ultraviolet light but see red poorly. We can measure what light a bee's eyes take in. But nobody knows what the colours look like to the bee themself."
   },
   {
    "q": "Why are blue flowers and blue animals so rare?",
@@ -1686,20 +1673,12 @@
    "a": "Orange you glad we met?"
   },
   {
-   "j": "Why was the brown paint so tired?",
-   "a": "Because it had been mixed up in everything!"
-  },
-  {
-   "j": "What do you call a parrot who falls in blue paint?",
-   "a": "Still green on the inside!"
-  },
-  {
    "j": "Why did the paintbrush go to the doctor?",
    "a": "It was feeling a bit off-colour!"
   },
   {
-   "j": "What is a painter's favourite fruit?",
-   "a": "An orange, because it is a colour too!"
+   "j": "What is purple and 5000 miles long?",
+   "a": "The Grape Wall of China!"
   },
   {
    "j": "Why did the purple paint call the red paint and the blue paint?",
@@ -1712,11 +1691,19 @@
   {
    "j": "Why was the white paint scared of the black paint?",
    "a": "It did not want to go grey!"
+  },
+  {
+   "j": "What is red and smells like blue paint?",
+   "a": "Red paint!"
+  },
+  {
+   "j": "What is green and goes up and down?",
+   "a": "A frog in a lift!"
   }
  ],
  "maths": [
   {
-   "problem": "Divya has 3 primary colours: red, yellow and blue. She mixes them two at a time. Red and yellow is one mix. How many different mixes of two can she make?",
+   "problem": "A girl has 3 primary colours: red, yellow and blue. She mixes them two at a time. Red and yellow is one mix. How many different mixes of two can she make?",
    "answer": "3 mixes: red and yellow, red and blue, yellow and blue.",
    "explain": "Take each pair once. Red goes with yellow and with blue, which is 2. Then yellow goes with blue, which is 1 more. 2 and 1 make 3.",
    "math_unit": "math.logic.puzzles.L1",
@@ -1725,7 +1712,7 @@
    "why_maths": "Counting the pairs carefully tells you how many mixes to try, so none is missed."
   },
   {
-   "problem": "In the Drop by Drop test, Bornali's water was light green after 1 drop of blue and dark green after 6 drops. How many more drops made it dark?",
+   "problem": "In the Drop by Drop test, a girl's water was light green after 1 drop of blue and dark green after 6 drops. How many more drops made it dark?",
    "answer": "5 more drops.",
    "explain": "Count on from 1 to 6: 2, 3, 4, 5, 6. That is 5 more drops. More blue made the green darker.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1734,12 +1721,12 @@
    "why_maths": "Comparing the two numbers shows how many drops it took to change light green into dark green."
   },
   {
-   "problem": "In the Colour Hunt, Nila found 3 green things, 1 purple thing and 4 red things. Make a tally. Which colour did she find most? Which was hardest to find?",
+   "problem": "A girl counts things in her kitchen: 3 green things, 1 purple thing and 4 red things. Make a tally. Which colour did she find most? Which was hardest to find?",
    "answer": "Red, with 4, was found most. Purple, with 1, was hardest to find.",
    "explain": "Draw one stroke for each thing: green has 3, purple has 1, red has 4. 4 is the biggest, and 1 is the smallest.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a1",
-   "context": "This is about the Colour Hunt, where you found one thing of each colour at home.",
+   "context": "This is about the Colour Hunt, where you looked for colours at home. Count the things in your own kitchen the same way.",
    "why_maths": "A tally shows at a glance which colours are common at home and which are rare."
   }
  ],
@@ -1786,8 +1773,7 @@
     "e1",
     "p1",
     "c1"
-   ],
-   "plan": "Keep the pots for every painting day in this unit."
+   ]
   }
  ],
  "warmup": [
@@ -1816,8 +1802,8 @@
    "a": "No. We need light to see colours."
   },
   {
-   "q": "What colour is a parrot?",
-   "a": "Green, with a red beak. Her green is yellow and blue together."
+   "q": "What colours are inside a green parrot's feathers?",
+   "a": "Yellow and blue together."
   }
  ],
  "roots": {
@@ -1840,9 +1826,9 @@
     "link": "Look deeply at the green on your plate, and you can see the yellow and the blue in it. Without either one, there would be no green."
    },
    {
-    "source": "Tao Te Ching 12",
-    "teaching": "The five colours blind the eye.",
-    "link": "Laozi warns that more and more colour does not help us see. In our test, more and more paint did not make a brighter colour. It made a dark brown."
+    "source": "Johann Wolfgang von Goethe, Theory of Colours (1810)",
+    "teaching": "Colours are the deeds and sufferings of light.",
+    "link": "Paint takes some of the light away and sends the rest back. The colour you see is what happens when light meets the paint."
    }
   ],
   "science": [
@@ -1873,7 +1859,7 @@
   "art": "A child sitting very still before a glass of yellow water, watching a single drop of blue curl down through it and turn it green."
  },
  "how_we_found_out": {
-  "story": "For hundreds of years, painters knew that yellow and blue paint make green. In 1805, the English painter Mary Gartside wrote one of the first books about colour by a woman, with pictures made from patches of mixed watercolour. Many people thought that colours always mix the same way. So yellow light and blue light should make green too. In 1852, the German scientist Hermann von Helmholtz tested this. He took yellow light and blue light from a prism and made them fall on the same spot. The spot did not turn green. It looked nearly white. So why does paint make green? Helmholtz explained that each paint absorbs some of the light that falls on it. Yellow paint absorbs blue light. Blue paint absorbs red and yellow light. Mixed together, they absorb almost everything except green. So the green we see is the light that is left over. Mixing lights adds colours together. Mixing paints takes colours away.",
+  "story": "For hundreds of years, painters knew that yellow and blue paint make green. In 1805, the English painter Mary Gartside wrote a book about colour, with pictures made from patches of mixed watercolour. Many people thought that colours always mix the same way. So yellow light and blue light should make green too. In 1852, the German scientist Hermann von Helmholtz tested this. He took yellow light and blue light from a prism and made them fall on the same spot. The spot did not turn green. It looked nearly white. So why does paint make green? Helmholtz explained that each paint absorbs some of the light that falls on it. Yellow paint absorbs blue light. Blue paint absorbs red and yellow light. Mixed together, they absorb almost everything except green. So the green we see is the light that is left over. Mixing lights adds colours together. Mixing paints takes colours away.",
   "who": "Mary Gartside, an English painter; Hermann von Helmholtz, a German scientist",
   "when": "1805 to 1852",
   "wrong_idea": "Colours always mix the same way, so yellow light and blue light make green, like paint. Helmholtz mixed yellow and blue light and got nearly white, and explained that paint makes green by absorbing light."
@@ -1943,5 +1929,6 @@
    "C. V. Raman, 1922, The molecular scattering of light in water and the colour of the sea, after his 1921 voyage.",
    "Kalamkari of Srikalahasti, Andhra Pradesh: hand-drawn with a bamboo kalam and natural dyes; green made by applying yellow over indigo."
   ]
- }
+ },
+ "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and a six-year-old in a city flat, and checked the minutes, the checks and the printables against the steps. Replaced the Colour Hunt check, which asked a pointless question, with one that matches its step. Made the colour-card game print six cards so two players have a set each, gave it a clear end, and listed the players. Cut the ultraviolet and sea-colour sentences and the printers box from the explanations, since they were too much for age 6 and repeated elsewhere. Replaced repeated unmixing, flower and dark-room questions, a weak joke and a marigold question that said \"their\" for one flower. Made the second-day Kalamkari idea optional, since blue paint needs time to dry. Left the three video slots unfilled, since no clip has been opened and checked."
 }

@@ -27,7 +27,7 @@ More than half of your body is water. You lose some all day, when you breathe ou
 - e.g. A crow drinks from a bowl of water on a window ledge.
 - e.g. A tulsi plant droops when the soil is dry, and stands up after you water her.
 ### Water gets inside things · *defined*
-**Definition:** Water can soak into many things, like poha, rice, dal, cloth, paper and soil. Oil does not soak into poha or rice the same way.
+**Definition:** Water can soak into many things, like poha, rice, dal, cloth, paper and soil. Oil does not soak into poha or rice.
 
 Dry poha is hard. Put poha in water, and the water soaks into each flake. In a few minutes the poha is soft. Put poha in oil, and the oil only coats the outside, so the poha stays hard. This is why we cook rice and dal in water. The water gets inside each grain, and the heat makes it soft. Frying in hot oil does something else: it makes food crisp, like a papad or a murukku.
 - e.g. Poha in water is soft in a few minutes. Poha in oil stays hard.
@@ -41,7 +41,7 @@ Dried dal on a plate is hard and sticks tight. When water soaks into the dried d
 - e.g. Muddy feet get clean under a tap.
 - e.g. Clothes are soaked in soapy water before they are washed.
 ### Do plants feel thirsty? · *debated*
-When the soil is dry, a plant senses the dryness. Their roots grow towards damp soil. Their leaves close tiny holes, called pores, so they lose less water. If the plant stays dry, the leaves droop. Plants feel thirst, and they act on it. Scientists agree that plants sense dry soil and answer it. They argue about how to describe what the plant does.
+When the soil is dry, a plant senses the dryness. Their roots grow towards damp soil. Their leaves close tiny holes, called pores, so they lose less water. If the plant stays dry, the leaves droop. Scientists agree that plants sense dry soil and answer it. They argue about how to describe what the plant does.
 - e.g. A pot plant droops on a hot afternoon and stands up again after a drink.
 - e.g. Roots grow towards a damp part of the soil.
 - e.g. A money plant in a glass of water grows long roots into the water.
@@ -51,7 +51,7 @@ When the soil is dry, a plant senses the dryness. Their roots grow towards damp 
 ## Mostly agreed
 - Every living being needs water. *How we know:* No living being has ever been found that can stay alive and grow with no water at all. Even seeds that wait for years only start to grow when they get water.
 - Almost all our fresh water comes from rain. *How we know:* Rain fills rivers, lakes and ponds. Some rain soaks into the ground and fills wells. High in the mountains, snow melts into rivers too. When the rains fail, rivers, lakes and wells run low.
-- Water soaks into poha, rice and dal, and oil does not soak in the same way. *How we know:* Anyone can test it with poha: in water it goes soft in minutes, and in oil it stays hard. Cooks all over the world boil rice and dal in water to make them soft.
+- Water soaks into poha, rice and dal, and oil does not. *How we know:* Anyone can test it with poha: in water it goes soft in minutes, and in oil it stays hard. Cooks all over the world boil rice and dal in water to make them soft.
 
 ## How we found out
 **Pedro Reis, Sunny Jung, Jeffrey Aristoff and Roman Stocker, scientists in the United States, 2010, published in the journal Science.** For a long time, many people thought a cat drinks by curling the tongue into a little spoon and scooping water up. A cat laps so fast that nobody could see for sure. In 2010, four scientists in the United States, Pedro Reis, Sunny Jung, Jeffrey Aristoff and Roman Stocker, decided to look properly. They filmed cats drinking with very fast cameras, and played the films back slowly. The tongue was not a spoon at all. The cat curls the tip of the tongue back and touches the top of the water lightly, without dipping in. Then the cat pulls the tongue up very fast. The water sticks to the tongue and is pulled up into a little column. Before the column falls back, the cat closes her mouth and catches the top of the column. A pet cat does this about four times every second. The scientists also watched films of lions and tigers, and found that bigger cats lap more slowly.  
@@ -79,10 +79,10 @@ We have seen water soak into poha, dal and soil, and seen many animals drink. No
 - *what is life:* Every living being needs water: you, the crow, the tulsi and the frog. Each one takes it in their own way.
 - *what is this world:* The same rain fills the rivers, the wells, the plants and our tumblers. One water is shared by everyone who lives here.
 
-One rain falls on the land. Some goes into a river, some into a well, some into a tulsi pot. From there it goes into a crow, a cow, a pot of rice and you. The same water does many jobs, because it can get inside so many different things. One water becomes many lives.
+One rain falls on the land. Some goes into a river, some into a well, some into a tulsi pot. From there it goes into a crow, a cow, a pot of rice and you. The same water does many jobs, because it can get inside so many different things.
 
 - **Thirukkural 20, by Thiruvalluvar:** The world cannot go on without water, and without rain, the right order of life cannot go on. (Every job we found for water, from drinking to cooking to the crow's bowl, starts with rain filling our rivers and wells.)
-- **Tao Te Ching, chapter 8:** The highest goodness is like water. Water helps all living things, and does not fight with them. It goes to the low places that others avoid. (Water helps everyone who needs it: the poha in the pot, the tulsi, the crow and you. It flows down into low places, like the tiny gaps inside the poha and the soil.)
+- **Tao Te Ching, chapter 8:** The highest goodness is like water. Water helps all living things, and does not fight with them. It goes to the low places that others avoid. (Water helps everyone who needs it: the poha in the pot, the tulsi, the crow and you.)
 - Science (settled): More than half of your body is water. You lose some every day in your breath, sweat and urine, so you need to drink every day.
 - Science (open): Plants sense dry soil, close their leaf pores and grow roots towards water. What thirst feels like for a plant, nobody knows yet.
 - Other view, Many scientists: Many scientists say water is simply a substance that moves by the rules of physics and chemistry. It soaks into poha because of how its tiny particles stick to the poha, and they would not call that giving or helping.
@@ -120,7 +120,7 @@ In the afternoon, Ammamma washed Arjun's shirt. Then Meenakshi carried a small m
 
 Then she filled an old clay saucer with water and put it on the window ledge. 'This is for the crows,' she told Arjun. 'It is hot, and they are thirsty too.'
 
-They waited behind the curtain. A crow landed on the ledge. The crow looked at the children with one shiny eye. Then the crow dipped their beak in the water, lifted their head, and swallowed. Dip, lift, swallow. Arjun held his breath so the crow would not fly away.
+They waited behind the curtain. A crow landed on the ledge. The crow looked at the children with one shiny eye. Then the crow dipped her beak in the water, lifted her head, and swallowed. Dip, lift, swallow. Arjun held his breath so the crow would not fly away.
 
 In the evening, Arjun ran to the katori of urad dal. 'Ammamma! The dal got fat!' The small black grains had grown big and soft. Arjun pressed one, and it squashed between his fingers.
 
@@ -148,8 +148,8 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 
 ## Games
 ### g1 · Water Jobs (15 min)
-- **rules:** Draw the five baskets on a big sheet. Mix the cards and put them face down.; Take turns. Turn over the top card and say what the water is doing.; Put the card in a basket. Say why.; The grown-up reads the back. If you were right, keep the card.; If you were wrong, the card goes to the bottom of the pile, to try again later.; When all the cards are sorted, count each basket. Which job had the most cards?
-- **Printable cards: 15 cards to cut out:** A girl drinking from a steel tumbler (back: Drinking); A baby having a bottle of water (back: Drinking); A grandmother drinking from a clay pot (back: Drinking); Rice boiling in a pot (back: Cooking); Urad dal soaking for idli batter (back: Cooking); Dal cooking in a pressure cooker (back: Cooking); Hands being washed under a tap (back: Washing); Plates being washed in the sink (back: Washing); Clothes soaking in a bucket (back: Washing); A child watering a tulsi pot (back: Plants); Rain falling on a rice field (back: Plants); A money plant growing in a glass of water (back: Plants); A crow drinking from a clay saucer (back: Animals); A cow drinking from a trough (back: Animals); Fish swimming in a pond (back: Animals: fish live in water and breathe the air that is mixed into the water)
+- **rules:** Draw the five baskets on a big sheet. Mix the cards and put them face down in a pile.; Take turns. Turn over the top card and read it aloud (or ask the grown-up to). Say what the water is doing.; Put the card on the basket you think is right. Say why.; The grown-up reads the back. If the basket is right, the card stays there.; If it is wrong, the card goes to the bottom of the pile, to try again later.; With two players, take turns one after the other. With four, go round the circle. Everyone is helping to fill the baskets.; When the pile is finished, count each basket. Every basket should have 3 cards. If one has more or less, check it together.
+- **Printable cards: 15 cards to cut out:** A girl drinking from a steel tumbler (back: Drinking); A baby having a bottle of water (back: Drinking); A grandmother drinking from a clay pot (back: Drinking); Rice boiling in a pot (back: Cooking); Urad dal soaking for idli batter (back: Cooking); Dal cooking in a pressure cooker (back: Cooking); Hands being washed under a tap (back: Washing); Plates being washed in the sink (back: Washing); Clothes soaking in a bucket (back: Washing); A child watering a tulsi pot (back: Plants); Rain falling on a rice field (back: Plants); A money plant growing in a glass of water (back: Plants); A crow drinking from a clay saucer (back: Animals); A cow drinking from a trough (back: Animals); Fish swimming in a pond (back: Animals)
 - **Printable board: Five baskets to draw on a big sheet:** A basket with a tumbler drawn on it: Drinking; A basket with a cooking pot: Cooking; A basket with a soap and bubbles: Washing; A basket with a leaf: Plants; A basket with a crow: Animals
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 15 cards. 2. Draw the five baskets on a big sheet. 3. Mix the cards and put them face down.  
@@ -161,19 +161,19 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Child mode:* Turn over a card. What is the water doing? Put it in a basket.
   - Ask: Why does the soaking dal go in the cooking basket? (good: It is for making idli.; The water goes inside the dal to make it soft for cooking.)
 - **s3 (3 min)**  
-  *Parent does:* Count the cards in each basket together. Ask which job your family does most.  
+  *Parent does:* Count the cards in each basket together. There should be 3 in each. Ask which job your family does most.  
   *Parent says:* Which of these jobs does our family do every day?  
   *Child mode:* Which of these jobs does your family do every day?
   - Check: A girl pours water on a tulsi pot. Which job is that? → **Plants**
 ### g2 · Who Drinks How? A pairs game (15 min)
-- **rules:** Lay all 12 cards face down in rows.; Take turns. Turn over two cards.; If an animal and their way of drinking match, keep the pair and have another turn.; If they do not match, turn them back over. The next player has a go.; When all the pairs are found, act out each way of drinking together.
-- **Printable cards: 12 cards to cut out: 6 animals and 6 ways of drinking:** A cat (back: Pairs with: laps with a fast tongue); Laps with a fast tongue (back: Pairs with: a cat); An elephant (back: Pairs with: fills a trunk and squirts the water into the mouth); Fills a trunk and squirts the water into the mouth (back: Pairs with: an elephant); A pigeon (back: Pairs with: sucks water up like a straw); Sucks water up like a straw (back: Pairs with: a pigeon); A frog (back: Pairs with: drinks through the skin); Drinks through the skin (back: Pairs with: a frog); A butterfly (back: Pairs with: sips with a long tube tongue); Sips with a long tube tongue (back: Pairs with: a butterfly); A child (back: Pairs with: sips from a tumbler); Sips from a tumbler (back: Pairs with: a child)
+- **rules:** Lay all 12 cards face down in rows. The back of every card is blank.; Take turns. Turn over two cards and read them aloud.; If an animal and their way of drinking match, keep the pair and have another turn.; If they do not match, turn them back over. The next player has a go.; When all the pairs are found, count your pairs. The player with the most pairs wins. If you are playing together, count the pairs and cheer.; Then act out each way of drinking together.
+- **Printable cards: 12 cards to cut out: 6 animals and 6 ways of drinking:** A cat; Laps with a fast tongue; An elephant; Fills a trunk and squirts the water into the mouth; A pigeon; Sucks water up like a straw; A frog; Drinks through the skin; A butterfly; Sips with a long tube tongue; A child; Sips from a tumbler
 - **s1 (2 min)**  
   *Parent does:* Cut out the 12 cards. Read every card aloud once. Mix them and lay them face down.  
   *Parent says:* Six animals, and six ways to drink. Let's find which way goes with which animal.  
   *Child mode:* Six animals. Six ways to drink. Find the pairs.
 - **s2 (10 min)**  
-  *Parent does:* Play until all the pairs are found. Read each card aloud as it is turned over.  
+  *Parent does:* Play until all the pairs are found. Read each card aloud as it is turned over. Count the pairs at the end.  
   *Parent says:* What does your card say? Which animal drinks that way?  
   *Child mode:* Turn over two cards. Do they go together?
   - Ask: Why does a butterfly need a long tube tongue? (good: To sip from deep inside a flower.; To reach drops of water.)
@@ -197,7 +197,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   - Ask: What does the dry poha feel like? (good: Hard.; Flat and crunchy.; It snaps.)
   - Note: Thick poha works best, because thin poha goes soft very fast. Any brand is fine.
 - **s2 (3 min)**  
-  *Parent does:* Show your child the water and the oil. Ask for a guess and a reason for each katori. Write the guesses down.  
+  *Parent does:* Show your child the water and the oil. Ask for a guess and a reason for each katori. Write the guesses down for your child.  
   *Parent says:* We will pour water on one katori and oil on another. The third gets nothing. After ten minutes, which poha will be soft? Why do you think so?  
   *Child mode:* Water on one. Oil on one. Nothing on one. Which poha will go soft? Why?
   - Ask: Why do you think so? (good: The water one, because we soak poha in water at home.; Both the water and the oil, because they are both wet.; None of them, because ten minutes is not long.)
@@ -208,7 +208,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Child mode:* Pour water on the first poha. Now oil on the second. Leave the third one dry.
   - Note: Use the same spoon, wiped, for both liquids. The poha should be covered or nearly covered in both katoris.
 - **s4 (10 min)**  
-  *Parent does:* Wait ten minutes. While you wait, look at the katoris from the side every few minutes. Play the Water Jobs game, or read the story.  
+  *Parent does:* Wait ten minutes. While you wait, look at the katoris from the side every few minutes, and read the story aloud.  
   *Parent says:* Look at the katoris from the side. Is anything changing? Is the water going down? Is the oil going down?  
   *Child mode:* Look at the katoris from the side. Is anything changing?
   - Ask: What do you see in the water katori? (good: The poha got fatter.; The water is going down.; The poha is going pale.)
@@ -226,18 +226,17 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Parent says:* So, what do you think now? What did you see? Why do you think it happened?  
   *Child mode:* Say what you saw. Say why you think it happened.
   - Note: A good claim is: water gets inside poha and makes it soft, and oil does not. Poha in milk goes soft too, because milk is mostly water.
-  - Think: We cook rice and dal in water, not in oil. Can you say why now?
 ### e2 · The Sticky Plate: does soaking help washing? (15 min)
 - **question:** Dried dal sticks hard to a plate. Does a little water and a few minutes make it easier to wipe off?
 - **predict:** Guess first. Which plate will be easier to wipe clean: the dry one, or the one soaked in water? Why do you think so?
-- **fair test:** Both plates get the same dal, dried for the same time. Both get wiped the same way, with the same cloth, for the same count. The only difference is the water.
+- **fair test:** Both plates get the same dal, dried for the same time. Both are wiped the same way, with a dry cloth, for the same count. The only difference is the water.
 - **record:** Draw the two plates after wiping. Draw any dal that is left.
 - **results table:** Plate | How many wipes to clean? | Any dal left?
 - **s1 (3 min)**  
   *Parent does:* 1. Smear one teaspoon of dal on each plate. 2. Spread it into a thin patch. 3. Leave both plates under a fan or in a sunny spot.  
   *Parent says:* We are making two sticky plates. Let's leave them to dry, just like plates that wait too long after lunch.  
   *Child mode:* Smear a little dal on each plate. Leave them to dry.
-  - Note: A thin patch dries in an hour or two under a fan. The dal should feel hard when you touch it.
+  - Note: A thin patch dries in an hour or two under a fan. The dal should feel hard when you touch it. If it is still sticky, wait longer, as it may in a humid city.
   - Wait: Leave the plates under the fan for one or two hours.
 - **s2 (2 min)**  
   *Parent does:* Pour a little water on one plate, just enough to cover the dal. Ask your child to guess, and say why.  
@@ -322,7 +321,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 
 ## Challenges
 ### c1 · Water the Plant While We Are Away (20 min)
-- **problem:** A pot plant needs water every day. Make something from home things that keeps the soil damp for two days while nobody is home.
+- **problem:** A pot plant needs water every day. Make something from home things that keeps the soil damp while nobody is home for two days. Test it for one day.
 - **your turn:** Now invent your own plant waterer. Draw it, make it, and test it for one day. Is the soil still damp?
 - **constraints:** Use only things from home.; The soil must still be damp after one day.
 - **general:** Fill a plastic bottle with water, poke a small hole in the cap, and push it upside down into the soil, so the water drips out slowly.; Put the pot on a plate with a little water, so the soil drinks from the bottom.
@@ -347,50 +346,49 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 ### Water and Its Jobs (core) (core, 10 questions)
 1. (sort) Circle in blue the things that need water. Cross out the things that do not.  
    **Answer:** a crow → Needs water; a tulsi plant → Needs water; you → Needs water; a stone → Does not need water; a spoon → Does not need water; a cow → Needs water. *Why:* Every living being needs water: crows, plants, cows and you. A stone and a spoon are not alive, so they do not drink.
-2. (mcq) Remember the poha test? Which katori of poha went soft?  
-   Options: The one with oil / The one with water / The one with nothing  
-   **Answer:** The one with water. *Why:* Water soaked into the poha and made it soft. Oil only coated the outside, so that poha stayed hard.
+2. (mcq) In the poha test, one katori got nothing. Why did we keep a katori with nothing?  
+   Options: To see what dry poha does by itself / Because we ran out of water / Because the poha was tired  
+   **Answer:** To see what dry poha does by itself. *Why:* The katori with nothing shows what poha does on its own. Then we know the water or the oil made the change.
 3. (draw) Draw one flake of poha from the water katori and one from the oil katori. Show which one squashed.  
    **Answer:** A fat, soft, squashed flake for water. A flat, shiny, hard flake for oil.. *Why:* A strong drawing shows the water flake bigger and squashed, and the oil flake still flat and hard.
 4. (match) Draw a line from each picture to the job water is doing.  
    **Answer:** Rice in a pot of boiling water → Cooking; Soapy hands under a tap → Washing; A girl with a tumbler → Drinking; Water poured on a jasmine pot → Plants. *Why:* Each picture shows one job: rice cooks in water, hands get washed, the girl drinks, and the jasmine plant takes in water through their roots.
-5. (truefalse) Oil makes poha soft, just like water does.  
-   **Answer:** False. *Why:* False. In the poha test, the poha in oil stayed hard. Only water went inside and made it soft.
-6. (label) Here is a picture of rain, a lake, a pipe and a tap. Write 1, 2, 3 and 4 to show the way the water goes, from first to last.  
+5. (label) Here is a picture of rain, a lake, a pipe and a tap. Write 1, 2, 3 and 4 to show the way the water goes, from first to last.  
    **Answer:** 1 rain, 2 lake, 3 pipe, 4 tap.. *Why:* Rain fills the lake. Pipes carry the lake water to our homes. Then it comes out of the tap.
-7. (write) Say it to a grown-up, who writes it down: why do we cook rice in water and not in oil?  
+6. (write) Say it to a grown-up, who writes it down: why do we cook rice in water and not in oil?  
    **Answer:** Water goes inside the rice and makes it soft. Oil does not go inside.. *Why:* A strong answer uses the poha test: water soaked into the poha and oil did not.
+7. (fill) Plants take in water through their ____.  
+   **Answer:** roots. *Why:* A plant's roots are in the soil. They take in the water that soaks into the soil.
 8. (odd) Which one is NOT a water source?  
    Options: Rain / A river / A well / A bag of rice  
    **Answer:** 3. *Why:* A water source is a place we get water from. Rain, rivers and wells give us water. A bag of rice does not.
-9. (mcq) A crow drinks from a bowl. How does the crow swallow?  
-   Options: Dips the beak, then lifts the head / Drinks through the skin / Uses a trunk  
-   **Answer:** Dips the beak, then lifts the head. *Why:* A crow dips their beak in, scoops a little water, then tips their head up so the water runs down the throat.
-10. (perspective) Two friends in Kochi are washing plates after lunch. The rice on the plates has dried hard.  
+9. (perspective) Two friends in Kochi are washing plates after lunch. The rice on the plates has dried hard.  
    **Answer:** Kavya is closer: the soaked plate came clean in a few wipes. But Farhan is right that soaking takes a few minutes of waiting.. *Why:* A strong answer uses the sticky plate result, and is fair to both: soaking makes cleaning easier, but it takes a little time.
+10. (truefalse) Water does only one job: we drink it.  
+   **Answer:** False. *Why:* False. Water also cooks our food, washes things, helps plants grow and gives animals a drink.
 ### Water Gets Inside (stretch) (stretch, 10 questions)
-1. (mcq) Lakshmi puts poha in milk for breakfast. After ten minutes, what will the poha be like?  
+1. (mcq) Lakshmi, a girl in Class 1, puts poha in milk for breakfast. After ten minutes, what will the poha be like?  
    Options: Hard, like dry poha / Soft, because milk is mostly water / Shiny and hard, like poha in oil  
    **Answer:** Soft, because milk is mostly water. *Why:* Milk is mostly water. The water in the milk soaks into the poha and makes it soft.
 2. (fill) Thirsty is how your body feels when it needs ____.  
    **Answer:** water. *Why:* You feel thirsty when your body needs more water.
-3. (order) Put the urad dal pictures in order, from first to last.  
+3. (fill) A well, a lake and a river are all water ____.  
+   **Answer:** sources. *Why:* A water source is a place we get water from.
+4. (order) Put the urad dal pictures in order, from first to last.  
    **Answer:** ['Dry dal in a katori', 'Dal covered with water overnight', 'Fat, soft dal']. *Why:* First the dal is dry. Then it sits in water. The water goes inside, and the dal grows fat and soft.
-4. (match) Draw a line from each animal to the way they drink.  
-   **Answer:** A cat → Laps with a fast tongue; A pigeon → Sucks like a straw; A frog → Through the skin; An elephant → Fills a trunk and squirts. *Why:* Every animal needs water, and each drinks in their own way.
-5. (truefalse) A frog sitting in a pond can take in water through their skin.  
-   **Answer:** True. *Why:* True. A frog takes in most of their water through their skin, so they rarely drink with their mouth.
-6. (draw) Draw your home. Draw every place where your family uses water.  
+5. (draw) Draw your home. Draw every place where your family uses water.  
    **Answer:** A drawing with the kitchen tap, the bathroom, the drinking pot or filter, and plants or a pet bowl.. *Why:* A strong drawing shows water used for at least three different jobs.
-7. (write) Say it to a grown-up, who writes it down: a dry flower pot gets a mug of water. Where does the water go?  
+6. (write) Say it to a grown-up, who writes it down: a dry flower pot gets a mug of water. Where does the water go?  
    **Answer:** It soaks into the soil, and the plant's roots take the water in. Some drips out of the hole at the bottom.. *Why:* A strong answer says the soil soaks up the water, like the poha did, and the plant takes the water in through the roots.
-8. (write) Say it to a grown-up, who writes it down: why do people put out bowls of water for birds in the summer?  
+7. (write) Say it to a grown-up, who writes it down: why do people put out bowls of water for birds in the summer?  
    **Answer:** Birds need water too. In hot weather, many puddles and ponds dry up, so it is hard for birds to find a drink in a city.. *Why:* A strong answer says that birds need water like we do, and that in a hot city water is hard to find.
-9. (mcq) Our tap water came out of a pipe. Where did the water in the pipe come from first?  
+8. (mcq) Our tap water came out of a pipe. Where did the water in the pipe come from first?  
    Options: From the tap itself / From rain, which fills lakes, rivers and wells / From the shop  
    **Answer:** From rain, which fills lakes, rivers and wells. *Why:* Pipes bring water from tanks, lakes, rivers and wells. All of them are filled by rain.
-10. (perspective) Three people in Puducherry talk about the best way to use one bucket of water.  
+9. (perspective) Three people in Puducherry talk about the best way to use one bucket of water.  
    **Answer:** Any choice with a reason is fine. For example: Revathi, because people need water to live. But Priya is right that birds need water too and cannot get it from a tap.. *Why:* A strong answer picks one person, gives a reason, and is fair to another view. Every living being needs water, so there is no single right answer.
+10. (truefalse) The water you drink becomes part of your body.  
+   **Answer:** True. *Why:* True. More than half of your body is water, and you need to drink every day to keep it so.
 
 ## Videos
 - **A cat lapping water, filmed in slow motion** (, 2 min) id `to find`: Shows how a cat pulls up a little column of water with the tip of the tongue, as the scientists in 2010 saw. *Check:* Find a real slow-motion video. Check it shows the tongue touching the top of the water, not scooping.
@@ -422,7 +420,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 8. (mcq) How does a cat drink?  
    Options: Laps with a fast tongue / Through her skin / With a trunk  
    **Answer:** Laps with a fast tongue. *Why:* A cat laps with her tongue, very fast. Each lap pulls up a little water.
-9. (mcq) Arjun guesses that oil will make poha soft. What should he do to find out?  
+9. (mcq) Arjun, the boy in the story, guesses that oil will make poha soft. What should he do to find out?  
    Options: Ask a friend / Try it and look / Just believe it  
    **Answer:** Try it and look. *Why:* The best way to find out is to test it: put poha in oil, wait, and press it.
 10. (mcq) In the poha test, why do all three katoris get the same poha?  
@@ -458,7 +456,6 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - Why did the poha go into the water? *To get a little softer!*
 - What did the oil say to the poha? *Sorry, I can't get through to you!*
 - Why did the urad dal grow so fat? *They drank water all night!*
-- What did the plate say to the water? *Thanks for loosening me up!*
 - What did the crow say at the water bowl? *This one is on the house!*
 - What is a tap's favourite song? *Drip, drip, hooray!*
 - Why did the elephant bring their trunk to the river? *They wanted to pack a drink!*
@@ -466,9 +463,9 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - What does a cloud wear under the raincoat? *Thunder-wear!*
 
 ## Connected maths
-- Gurpreet fills a jug of water using a small tumbler. She pours in 1 tumbler, then 2, then 3, then 4, and the jug is full. How many tumblers does the jug hold? **The jug holds 4 tumblers.**. She counted each tumbler as she poured: 1, 2, 3, 4. A bigger jug would hold more tumblers. A smaller tumbler would need more pours to fill the same jug. (queues `math.weight-capacity.capacity.L1`)
-- On Monday, Divya drank 5 tumblers of water. On Tuesday, after playing in the sun, she drank 7. On which day did she drink more? Why do you think so? **Tuesday. 7 is more than 5.**. 7 is 2 more than 5. On Tuesday she played in the sun and lost more water by sweating, so she felt more thirsty. (queues `math.number-sense.comparing-ordering.L1`)
-- In the Water Jobs game, Bhavna sorted the cards. Drinking got 3, Cooking 3, Washing 3, Plants 3 and Animals 3. How many cards did she sort? **15 cards.**. 3 and 3 is 6. 6 and 3 is 9. 9 and 3 is 12. 12 and 3 is 15. Five jobs with 3 cards each make 15. (queues `math.addition-subtraction.meaning.L1`)
+- Gurpreet fills a jug with water, one small tumbler at a time. She counts each tumbler as she pours: 1, 2, 3, 4. Then the jug is full. How many tumblers does the jug hold? **The jug holds 4 tumblers.**. She counted one tumbler each time she poured, and stopped at 4 when the jug was full. A bigger jug would hold more tumblers. A smaller tumbler would need more pours to fill the same jug. (queues `math.weight-capacity.capacity.L1`)
+- Divya is a girl in Class 1. On Monday, she drank 5 tumblers of water. On Tuesday, after playing in the sun, she drank 7. On which day did she drink more? Why do you think so? **Tuesday. 7 is more than 5.**. 7 is 2 more than 5. On Tuesday she played in the sun and lost more water by sweating, so she felt more thirsty. (queues `math.number-sense.comparing-ordering.L1`)
+- In the Water Jobs game, Bhavna, a girl in Class 1, sorted the cards. Drinking got 3, Cooking 3, Washing 3, Plants 3 and Animals 3. How many cards did she sort? **15 cards.**. 3 and 3 is 6. 6 and 3 is 9. 9 and 3 is 12. 12 and 3 is 15. Five jobs with 3 cards each make 15. (queues `math.addition-subtraction.meaning.L1`)
 - Over 5 days, the bird bowl had these visitors: 2 crows, 1 myna, 3 pigeons and 1 bulbul. Make one tally mark for each bird. Which bird came most? **Pigeons came most, 3 times.**. Crows: 2 marks. Myna: 1 mark. Pigeons: 3 marks. Bulbul: 1 mark. The longest row of marks is the pigeons. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
@@ -492,7 +489,7 @@ Where Does the Water Go? (sci.water.L1): Topic-level song for Water L1
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → story → explanations → g1 → a2 → g2 → e2 → ws-core → a3 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → how_we_found_out → videos → open_questions → roots → quiz
+- Default order: intro → a1 → summary → terms → e1 → story → explanations → g1 → a2 → g2 → e2 → ws-core → a3 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → how_we_found_out → open_questions → roots → quiz
 - Core: a1, e1, g1, ws-core
 
 ## Sources

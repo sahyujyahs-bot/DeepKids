@@ -54,7 +54,7 @@
   {
    "term": "Ghee",
    "meaning": "Ghee is butter that has been heated until its water has bubbled away as steam. It is almost all fat.",
-   "example": "Many families make ghee at home from butter, called vennai in Tamil and makkhan in Hindi.",
+   "example": "Many families make ghee at home from butter (vennai in Tamil, makkhan in Hindi).",
    "art": "A small steel kadai of golden ghee with a few light brown bits at the bottom."
   },
   {
@@ -75,7 +75,7 @@
    "concept": "Cooking changes food",
    "status": "defined",
    "definition": "Cooking changes how food looks, feels, smells and tastes, usually by heating it.",
-   "description": "Raw rice is hard and dry. After boiling, it is soft, white and bigger. A dosa starts as runny batter and ends as a crisp, brown circle. Heat does most of these changes. Water, cold and tiny living beings do others. Cooking makes many foods easier to chew and to digest. Boiling also kills most germs in food.",
+   "description": "Raw rice is hard and dry. After boiling, it is soft, white and bigger. A dosa starts as runny batter and ends as a crisp, brown circle. Heat does most of these changes, and cooking makes many foods easier to chew and digest.",
    "examples": [
     "Raw dal is hard. Cooked dal is soft enough to mash with a spoon.",
     "Runny dosa batter on a hot tawa turns into a firm dosa in a few minutes.",
@@ -89,7 +89,7 @@
    "concept": "Rice absorbs water when it cooks",
    "status": "defined",
    "definition": "When rice cooks in hot water, the starch inside each grain absorbs water and swells, so the grain gets longer, fatter and softer.",
-   "description": "A dry rice grain is hard because its starch is packed tight. In cold water, only a little water gets in. The grain turns white but stays hard. In boiling water, the heat loosens the packed starch. Now water can go deep inside, and the grain swells. Scientists call this gelatinisation. Cooked rice ends up more than half water. That is why one cup of rice with two cups of water fills about three cups when cooked.",
+   "description": "A dry rice grain is hard because its starch is packed tight. In cold water, only a little water gets in, so the grain turns a little whiter but stays hard. In boiling water, the heat loosens the packed starch. Now water can go deep inside, and the grain swells. One cup of rice with two cups of water fills about three cups when cooked.",
    "examples": [
     "Ten boiled grains in a line are about one and a half times as long as ten dry grains. Long grains like basmati can grow to nearly twice as long.",
     "Soaked rice, used for idli and dosa batter, is white and a little bigger, but still hard.",
@@ -103,7 +103,7 @@
    "concept": "Butter melts and sets again, but ghee stays ghee",
    "status": "defined",
    "definition": "Butter melts when warm and sets again when cold. Heated for longer, its water boils away and it becomes ghee, which cannot turn back into butter.",
-   "description": "Butter is mostly fat, with some water and a little milk mixed in. Warm it gently, and the fat melts. Cool it, and the fat sets again. That change can go back. Heat butter longer in a pan, and it fizzes and bubbles. That sound is the water in the butter boiling away as steam. The milk bits sink and turn light brown. What is left is ghee. The water has gone into the air, so the ghee cannot become butter again.",
+   "description": "Butter is mostly fat, with some water and a little milk mixed in. Warm it gently, and the fat melts. Cool it, and the fat sets again. Heat butter longer, and it fizzes. That sound is the water in the butter boiling away as steam. What is left is ghee, and the water cannot come back.",
    "examples": [
     "Butter on hot rice melts, and sets again if the rice gets cold.",
     "Ghee is runny in a Chennai summer and goes solid and grainy on a cold Delhi morning. Both of those changes go back.",
@@ -117,7 +117,7 @@
    "concept": "Bacteria set the curd",
    "status": "defined",
    "definition": "Tiny living beings called bacteria eat the sugar in milk and make an acid. The acid makes the milk thick and sour. That is curd.",
-   "description": "Curd is not made by heat. It is made by bacteria. A spoon of curd holds millions of them. Stir that spoon into warm milk, and the bacteria feed on the milk sugar and multiply. As they feed, they make an acid, which tastes sour. The acid makes the milk thicken. By morning, the whole bowl has set. Cold slows the bacteria down, so milk in the fridge stays runny. Curd cannot turn back into milk.",
+   "description": "Curd is made by bacteria, not by heat. A spoon of curd holds millions of them. In warm milk, they feed on the milk sugar and make an acid, which tastes sour. The acid makes the milk thick, so by morning the whole bowl has set. Cold slows the bacteria down, so milk in the fridge stays runny.",
    "examples": [
     "Families all over India set curd at night, from a spoon of the day's curd, to eat with rice the next day.",
     "Curd rice in Tamil Nadu, mishti doi in Bengal and chaas in Gujarat all start with bacteria working on milk.",
@@ -131,7 +131,7 @@
    "concept": "Some changes go back, and some stay changed",
    "status": "defined",
    "definition": "A change that can be undone is a reversible change. A change that cannot be undone is an irreversible change.",
-   "description": "Melting and setting can go back and forth. Ice melts into water and freezes into ice again. Butter melts and sets again. Other changes make something new. Cooked rice will not turn back into hard, raw rice, even when it is cold. Curd will not turn back into milk. A dosa will not turn back into batter. Many kitchen changes are this second kind.",
+   "description": "Melting and setting can go back and forth. Ice melts into water and freezes into ice again. Other changes make something new. Cooked rice will not turn back into raw rice, even when it is cold. Curd will not turn back into milk.",
    "examples": [
     "Goes back: melted chocolate sets again in the fridge.",
     "Stays changed: a chapati cooked on a tawa cannot become dough again.",
@@ -184,11 +184,6 @@
  ],
  "big_questions": [
   {
-   "q": "Most of a plate of cooked rice is water. So are you eating rice, or drinking water?",
-   "kind": "deep",
-   "hint": "Think about the ten-grain test, and where the water in the pan went."
-  },
-  {
    "q": "Melted butter set again, but ghee never became butter again. When does a thing stop being itself and become something new?",
    "kind": "big",
    "hint": "Think about butter, ghee, milk and curd. Which ones still have the same parts inside?"
@@ -202,6 +197,11 @@
    "q": "Could anything change and then go back to exactly how it was, with nothing at all different?",
    "kind": "deep",
    "hint": "Look closely at melted butter after it sets again. Is it exactly the same?"
+  },
+  {
+   "q": "A spoon of curd can turn a whole bowl of milk into curd. How can something so small change something so big?",
+   "kind": "big",
+   "hint": "Think about what the bacteria do while the milk is warm."
   }
  ],
  "story": {
@@ -252,7 +252,7 @@
    "id": "g1",
    "title": "Can It Go Back? A card sorting game",
    "mins": 15,
-   "players": "1 to 4 players and a grown-up",
+   "players": "2 to 4 players",
    "context": "This is a sorting game about kitchen changes. Each card names a change. Players decide if the change can go back, then turn the card over to check.",
    "printables": [
     {
@@ -285,7 +285,7 @@
       },
       {
        "f": "Ice cream melts in a bowl",
-       "b": "Goes back, mostly. It freezes again, but it turns hard and icy."
+       "b": "Goes back, but not perfectly. It freezes again, but turns hard and icy."
       },
       {
        "f": "Rice is boiled soft",
@@ -324,23 +324,16 @@
        "b": "Stays changed. The milk splits into soft white lumps and watery whey."
       }
      ]
-    },
-    {
-     "kind": "board",
-     "title": "A sorting mat with two halves",
-     "items": [
-      "Left half: Goes back (draw a circle of two arrows)",
-      "Right half: Stays changed (draw one arrow pointing one way)"
-     ]
     }
    ],
    "rules": [
-    "Draw the sorting mat on a big sheet: Goes back on the left, Stays changed on the right.",
-    "Mix the cards and stack them, words up.",
-    "On your turn, read the top card aloud. Say Goes back or Stays changed, and why.",
-    "Turn the card over and read the back. If you were right, keep the card.",
-    "If you were wrong, put the card on the right half of the mat.",
-    "When the stack is empty, the player with the most cards wins. Then count each half of the mat."
+    "Draw a line down the middle of a big sheet. On the left, draw a circle of two arrows and write Goes back. On the right, draw one arrow and write Stays changed.",
+    "Cut out the 16 cards. Mix them and stack them, words up.",
+    "Take turns. On your turn, read the top card aloud. Say Goes back or Stays changed, and why.",
+    "Turn the card over and read the back. If you were right, keep the card in front of you. A back that says 'but not perfectly' still counts as Goes back.",
+    "If you were wrong, put the card face up in the middle.",
+    "When the stack is empty, the player with the most cards wins. If two players tie, they both win.",
+    "Last, put every card on its right half of the mat, yours and the middle ones. Count each half."
    ],
    "setup": [
     {
@@ -380,7 +373,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the cards on each half of the mat. Ask which half has more cooking changes.",
+     "do": "Put every card on its half of the mat. Count the cards on each half. Ask which half has more cooking changes.",
      "say": "Look at the Stays changed half. How many of those use heat? Which ones were done by tiny living beings?",
      "kid": "Count each half. Which has more?",
      "ask": [
@@ -426,11 +419,11 @@
     }
    ],
    "rules": [
-    "Write or draw each card, then cut them out.",
-    "Mix the cards and lay them face down in rows.",
-    "On your turn, turn over two cards. If they are a before and its after, say what changed it: heat, cold, water or tiny living beings. Then keep the pair.",
+    "Cut out the 16 cards. Turn them writing-side down, mix them and lay them in rows.",
+    "On your turn, turn over two cards. A before card matches only its own after card.",
+    "If they are a pair, say what changed the food: heat, cold, water or tiny living beings. Then keep the pair.",
     "If they do not match, turn them face down again.",
-    "When all the pairs are found, the player with the most pairs wins."
+    "When all 8 pairs are found, the player with the most pairs wins. If two players tie, they both win."
    ],
    "setup": [
     {
@@ -446,7 +439,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Write the 16 cards with your child. 2. Cut them out and lay them face down.",
+     "do": "1. Cut out the 16 cards with your child. 2. Turn them writing-side down and lay them in rows.",
      "say": "Each food has a before card and an after card. Your job is to find them.",
      "kid": "Find each before card and its after card."
     },
@@ -475,12 +468,12 @@
   {
    "id": "e1",
    "title": "Ten Grains in a Line: what does cooking do to rice?",
-   "mins": 29,
+   "mins": 30,
    "days": 1,
    "context": "In this experiment you keep some rice grains dry, soak some in cold water and boil some. Then you line up ten grains of each kind and see which line is longest.",
    "question": "We keep ten rice grains dry, soak ten in cold water and boil some in hot water, for the same time. Which ten grains will make the longest line? Which will be soft?",
    "predict": "Will the soaked grains and the boiled grains make longer lines than the dry grains, shorter lines or the same? Which will be soft? Why do you think so?",
-   "fair_test": "All the grains come from the same packet of rice. We line up ten whole grains of each kind, end to end, in the same way. The soaked grains and the boiled grains stay in water for the same 12 minutes. Only one thing changes: no water, cold water or boiling water. So any difference comes from the water and the heat.",
+   "fair_test": "All the grains come from the same packet of rice. The soaked grains and the boiled grains each get one cup of water and stay in it for the same 12 minutes. We line up ten whole grains of each kind, end to end, in the same way. Only one thing changes: no water, cold water or boiling water. So any difference comes from the water and the heat.",
    "results_table": [
     "Grains",
     "My guess",
@@ -526,7 +519,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 29,
+     "mins": 30,
      "what": "Soak and boil the grains for 12 minutes, line up the dry grains while you wait, then line up and compare all three."
     }
    ],
@@ -554,7 +547,7 @@
       "Longest",
       "5 and a half cm",
       "Hard",
-      "White"
+      "A little whiter"
      ],
      [
       "Boiled",
@@ -596,7 +589,7 @@
      "id": "s2",
      "mins": 2,
      "do": "1. Show your child the katori of cold water and the pan. 2. Ask for a guess and a reason. 3. Write the guesses in the table.",
-     "say": "Ten grains stay dry. Ten go in cold water. Ten go in boiling water. Which line of ten will be longest? Which grains will be soft? Why do you think so?",
+     "say": "Ten grains stay dry. Ten go in cold water. Some go in boiling water. Which line of ten will be longest? Which grains will be soft? Why do you think so?",
      "kid": "Some grains stay dry. Some go in cold water. Some go in boiling water. Which will be longest? Why?",
      "ask": [
       {
@@ -612,12 +605,12 @@
     },
     {
      "id": "s3",
-     "mins": 2,
-     "do": "1. Put 10 grains in a katori of cold water. 2. A grown-up boils one cup of water in a small pan. 3. Drop in 20 grains. 4. Turn the gas low and start a 12-minute timer.",
+     "mins": 5,
+     "do": "1. A grown-up puts one cup of water on to boil in a small pan. It takes about 4 minutes. 2. When it bubbles, your child puts 10 grains in a katori with one cup of cold water. 3. At the same moment, the grown-up drops in the 20 grains. 4. Turn the gas down so the water keeps bubbling gently, and start a 12-minute timer.",
      "say": "Both lots of grains go in water at the same moment. That way they get the same time in the water.",
      "kid": "A grown-up drops the grains in boiling water. You put yours in cold water. Start the timer.",
      "adult": true,
-     "parent": "Keep the water bubbling gently. If it gets low, add a little more hot water. The grains must stay under water."
+     "parent": "Keep the water bubbling gently. If it gets low, add a little more hot water. The grains must stay under water. Do the dry-grain line (next step) while the water heats and the timer runs."
     },
     {
      "id": "s4",
@@ -649,7 +642,7 @@
      "do": "1. Lay 10 soaked grains under the dry line, end to end, and mark the ends. 2. Do the same with 10 whole boiled grains. 3. Measure each line. 4. Press one grain of each kind between finger and thumb.",
      "say": "Which line is longest now? Press one grain of each kind. Which ones squash? Which ones are white?",
      "kid": "Make a line of soaked grains and a line of boiled grains. Which is longest? Squash one of each.",
-     "parent": "Expect the boiled line to be clearly longer, often about one and a half times the dry line. The soaked grains turn white and grow only a little. They stay hard. If a boiled grain is bent, straighten it gently."
+     "parent": "Expect the boiled line to be clearly longer, often about one and a half times the dry line. The soaked grains may turn a little whiter and grow only a little. They stay hard. If a boiled grain is bent, straighten it gently. Some kinds of rice need a few minutes longer than 12 to go fully soft. If the middle of a boiled grain is still hard, say so honestly. The boiled line is still the longest."
     },
     {
      "id": "s8",
@@ -694,9 +687,9 @@
    "mins": 25,
    "days": 1,
    "context": "In this experiment two pans get the same amount of water. One pan gets some rice too. After 12 minutes you count the spoons of water left in each pan.",
-   "question": "When rice cooks, the water in the pan goes down. How much does the rice drink, and how much flies off as steam?",
+   "question": "When rice cooks, the water in the pan goes down. How much does the rice drink, and how much goes off as steam?",
    "predict": "Both pans start with 8 spoons of water. Which pan will have less water left? About how many spoons less? Why do you think so?",
-   "fair_test": "Both pans are the same size and get the same 8 tablespoons of water. Both boil on low heat with the lid on, for the same 12 minutes. Only one thing changes: one pan also has 2 tablespoons of rice. Steam leaves both pans. So the extra water missing from the rice pan is the water the rice drank.",
+   "fair_test": "Both pans are the same size and get the same 8 tablespoons of water. Both are brought to a gentle boil, then kept on low heat with the lid on, for the same 12 minutes. Only one thing changes: one pan also has 2 tablespoons of rice. Steam leaves both pans. So the extra water missing from the rice pan is the water the rice drank.",
    "results_table": [
     "Pan",
     "Spoons of water at the start",
@@ -804,7 +797,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. A grown-up puts both pans on low heat, lids on. 2. Boil gently for 12 minutes. 3. Turn off the gas and let the pans cool for 5 minutes.",
+     "do": "1. A grown-up brings both pans to a gentle boil, then turns the heat low, lids on. 2. Keep them bubbling gently for 12 minutes. 3. Turn off the gas and let the pans cool for 5 minutes.",
      "say": "Both pans lose some water as steam. Watch the lids. Can you see steam coming out of both?",
      "kid": "A grown-up boils both pans. Look for steam from both lids.",
      "adult": true,
@@ -830,7 +823,7 @@
        "q": "How many spoons did the rice drink?",
        "good": [
         "The extra spoons missing from the rice pan.",
-        "For example 6 gone take away 2 gone is 4 spoons."
+        "For example, 6 gone minus 2 gone is 4 spoons."
        ]
       }
      ],
@@ -866,7 +859,7 @@
      "qty": 2
     },
     {
-     "item": "a bowl of hot water from the kettle, about as hot as tea",
+     "item": "a bowl of hot water from the stove, about as hot as tea",
      "qty": 1
     },
     {
@@ -905,7 +898,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Put one spoon of butter in each katori. 2. Your child looks, smells and touches one with a clean finger. 3. Ask for a guess.",
+     "do": "1. Put one spoon of butter in a katori. Keep the second spoon for the stove. 2. Your child looks at, smells and touches the butter with a clean finger. 3. Ask for a guess.",
      "say": "One spoon we melt gently, then cool. One spoon I heat on the stove for longer. When they cool, will both be butter again? Why do you think so?",
      "kid": "Look at the butter. Smell it. Will both spoons turn back into butter? Why?",
      "ask": [
@@ -921,7 +914,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Float the first katori in the bowl of hot water. 2. Watch the butter melt. 3. Look for a clear yellow part and some white cloudy bits.",
+     "do": "1. Stand the katori in the bowl of hot water. Do not let water get inside it. 2. Watch the butter melt. 3. Look for a clear yellow part and some white cloudy bits.",
      "say": "Watch the edges first. What colour is the melted butter? Can you see some white bits?",
      "kid": "Watch the butter melt. What colours can you see?",
      "parent": "Butter is mostly fat, with some water and milk bits. When it melts, the white milk bits show up in the clear yellow fat."
@@ -937,7 +930,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. A grown-up heats the second spoon of butter in a small kadai on low heat. 2. Your child listens and watches from an arm's length. 3. When the fizzing goes quiet and the bits at the bottom turn light brown, turn off the gas. 4. Pour the ghee into the katori.",
+     "do": "1. A grown-up heats the second spoon of butter in a small kadai on low heat. 2. Your child listens and watches from an arm's length. 3. When the fizzing goes quiet and the bits at the bottom turn light brown, turn off the gas. 4. Pour the ghee into the second katori.",
      "say": "Listen. Can you hear it fizzing? Bubbles are coming up. What do you think is leaving the butter?",
      "kid": "Listen to the butter fizz. Watch the bubbles. What smell comes now?",
      "adult": true,
@@ -956,9 +949,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Let the ghee cool for 2 minutes. 2. Put it in the freezer next to the butter. 3. While you wait, sort a few kitchen changes. 4. Ask: does melted ice cream go back? Does a dosa go back to batter?",
-     "say": "While we wait, think about your kitchen. Which changes can go back? Which ones stay changed?",
-     "kid": "Think of a change that can go back. Now one that cannot."
+     "do": "1. Let the ghee cool for 2 minutes. 2. Put it in the freezer next to the butter. 3. While you wait, look at the brown bits at the bottom of the ghee and smell it.",
+     "say": "Look at the brown bits in the ghee. They are the milk parts of the butter. Smell it. Is it the same smell as the butter?",
+     "kid": "Look at the ghee. What do the brown bits look like?"
     },
     {
      "id": "s6",
@@ -984,12 +977,12 @@
   {
    "id": "a2",
    "title": "Milk and Curd: what changed overnight?",
-   "mins": 10,
+   "mins": 11,
    "days": 1,
    "context": "In this activity you put milk and curd side by side and use your eyes, nose, tongue and a spoon to find every way they are different.",
    "materials": [
     {
-     "item": "a little milk in a katori",
+     "item": "boiled milk, cooled until it is just warm",
      "qty": "2 tablespoons"
     },
     {
@@ -1004,7 +997,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
+     "mins": 11,
      "what": "Compare milk and curd with your senses, then hear who made the change."
     }
    ],
@@ -1052,6 +1045,14 @@
       "why": "Bacteria from a spoon of curd feed on the milk sugar and make an acid. The acid makes the milk sour and thick."
      },
      "parent": "Curd can never turn back into milk. This is a change that stays."
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "Tonight, stir one teaspoon of curd into a katori of warm milk. Cover it and leave it somewhere warm until morning. Compare it with plain milk.",
+     "say": "Tonight we set our own curd. Tomorrow we will see if the bacteria did their work.",
+     "kid": "Stir a spoon of curd into warm milk. Leave it overnight.",
+     "parent": "On a cold night, wrap the katori in a cloth. It may take until the next afternoon to set."
     }
    ]
   },
@@ -1071,7 +1072,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch from an arm's length from the stove, hot oil and pressure cookers.",
+   "safety": "Stand an arm's length away from the stove, hot oil and pressure cooker.",
    "schedule": [
     {
      "day": 1,
@@ -1190,7 +1191,7 @@
   {
    "id": "p1",
    "title": "My Kitchen Change Diary",
-   "mins": 30,
+   "mins": 36,
    "days": 5,
    "context": "In this project you draw one food change from your kitchen every day for five days. You draw the food before and after, and say what changed it.",
    "materials": [
@@ -1226,8 +1227,8 @@
     },
     {
      "day": 5,
-     "mins": 6,
-     "what": "Draw the last change. Count how many can go back."
+     "mins": 12,
+     "what": "Draw the last change. Then lay out all five pages and count how many can go back."
     }
    ],
    "record": "Five pages, each with a before drawing, an after drawing and one word: heat, cold, water or bacteria.",
@@ -1270,36 +1271,36 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "Set the Butter Fast, With No Fridge",
+   "title": "Set the Butter Fast, Without the Fridge",
    "mins": 20,
-   "context": "This is a design challenge. Imagine the power has gone and the fridge is off. Can you make melted butter set again quickly?",
-   "problem": "A grown-up melts three spoons of butter. Find the fastest way to make melted butter set solid again, without a fridge or a freezer.",
+   "context": "This is a design challenge. Can you make melted butter set again quickly, without putting it in the fridge or freezer?",
+   "problem": "A grown-up melts four spoons of butter: three for the three ways below and one for your own idea. Find the fastest way to make melted butter set solid again, without putting it in the fridge or freezer.",
    "constraints": [
-    "No fridge and no freezer.",
-    "Use only things from home.",
+    "The butter itself does not go in the fridge or freezer.",
+    "Use only things from home. Ice cubes are allowed.",
     "Start all your tries with the same amount of melted butter, one spoon each."
    ],
    "materials": [
-    "3 spoons of butter, melted in katoris floating in hot water",
-    "steel katoris, a steel plate and a plastic plate",
-    "a bowl of cold tap water, and ice if you have it",
-    "a fan",
+    "4 spoons of butter, melted in katoris standing in hot water",
+    "steel katoris, a steel plate and a plastic box lid",
+    "a bowl of cold water, and ice cubes from the freezer",
+    "a piece of cardboard to wave as a fan",
     "a clock or phone timer"
    ],
    "general": [
-    "Stand the katori in a bowl of cold water.",
+    "Stand the katori in a bowl of cold water with ice cubes.",
     "Spread the butter thin on a steel plate, so more of it touches the cold metal.",
-    "Put the katori in front of a fan."
+    "Wave a piece of cardboard over the katori."
    ],
    "creative": [
     "Use a steel katori, not a plastic one. Steel takes heat away faster.",
-    "Stand the katori in water with ice and a pinch of salt. Salty ice water gets colder than plain ice water.",
+    "Add a pinch of salt to the ice water. Salty ice water gets colder than plain ice water.",
     "Do two at once, so you can compare which way wins."
    ],
    "your_turn": "Now try your own idea. Time how long your butter takes to set. Draw your best way and write the time.",
    "setup": [
     {
-     "art": "Three steel katoris of melted yellow butter on a table: one in a bowl of cold water, one spread on a steel plate, one in front of a small fan.",
+     "art": "Three steel katoris of melted yellow butter on a table: one in a bowl of cold water, one spread on a steel plate, one with a child waving cardboard over it.",
      "caption": "1. Try three ways to cool the melted butter."
     },
     {
@@ -1311,9 +1312,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. A grown-up melts the butter in katoris floating in hot water. 2. Your child chooses three ways to cool it.",
-     "say": "The fridge is off. How could we make this butter set fast? What takes heat away?",
-     "kid": "How can you make the butter set fast, with no fridge?",
+     "do": "1. A grown-up melts the butter in katoris standing in hot water. 2. Your child chooses three ways to cool it.",
+     "say": "Today the butter cannot go in the fridge. How could we make it set fast? What takes heat away?",
+     "kid": "How can you make the butter set fast, without the fridge?",
      "adult": true
     },
     {
@@ -1322,12 +1323,12 @@
      "do": "1. Start all three at the same time. 2. Every two minutes, press each one gently with a clean spoon. 3. Write the time when each one is firm.",
      "say": "Which one do you think will set first? Why? Press each one every two minutes.",
      "kid": "Start all three. Press each one every two minutes.",
-     "parent": "A thin layer on a steel plate, or a steel katori in cold water, usually sets first. A fan alone is slow."
+     "parent": "On a hot day, plain tap water may be too warm to set butter, so use ice. A thin layer on a steel plate, or a steel katori in ice water, usually sets first. Waving cardboard alone is slow, and may not work at all in summer."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child says which way won and why. Then they try their own idea.",
+     "do": "Your child says which way won and why. Then they try their own idea with the fourth spoon.",
      "say": "Which way set first? Why do you think it worked best?",
      "kid": "Which way won? Why? Now try your own idea.",
      "ask": [
@@ -1341,7 +1342,8 @@
       }
      ]
     }
-   ]
+   ],
+   "safety": "A grown-up melts the butter and carries the hot water. Keep the fourth katori in the hot water until you need it."
   }
  ],
  "videos": [
@@ -1414,7 +1416,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya melts a spoon of butter in warm water, then puts it in the freezer. What will she find after 10 minutes?",
+   "p": "Divya, a girl of 8, melts a spoon of butter in warm water, then puts it in the freezer. What will she find after 10 minutes?",
    "opts": [
     "Runny butter",
     "Solid butter again",
@@ -1533,18 +1535,10 @@
      "how": "e1"
     },
     {
-     "t": "draw",
-     "p": "Draw one dry rice grain and one boiled grain side by side. Make them the right sizes.",
-     "a": "A thin dry grain and a longer, fatter boiled grain.",
-     "why": "A strong drawing shows the boiled grain clearly longer and fatter, and perhaps white, with the dry one smaller and see-through.",
-     "how": "e1",
-     "art": "Two empty boxes side by side, labelled Dry and Boiled."
-    },
-    {
      "t": "truefalse",
      "p": "Rice soaked in cold water for 12 minutes goes as soft as boiled rice.",
      "a": false,
-     "why": "False. Soaked grains turn white and grow a little, but they stay hard. Heat is needed to let the water go deep inside."
+     "why": "False. Soaked grains may turn a little whiter and grow a little, but they stay hard. Heat is needed to let the water go deep inside."
     },
     {
      "t": "match",
@@ -1659,6 +1653,18 @@
      "a": "A strong answer picks a side with a reason. For example: 'Arjun, because it is butter and it is solid again.' Then it is fair to Kavya: it may look a little different, because the water and milk bits settled.",
      "why": "Both are partly right. The fat melted and set again, so that part went back. But the water and milk bits may have moved, so it is not exactly the same as before.",
      "how": "a1"
+    },
+    {
+     "t": "mcq",
+     "p": "A grown-up melts butter in a katori. What will make it set solid again?",
+     "opts": [
+      "Heating it more",
+      "Making it cold",
+      "Stirring it with a spoon"
+     ],
+     "a": 1,
+     "why": "Butter is mostly fat. Fat sets solid when it gets cold.",
+     "how": "a1"
     }
    ]
   },
@@ -1700,7 +1706,7 @@
     },
     {
      "t": "write",
-     "p": "Meena, a girl of 7 in Kochi, cooked rice. The pan had no water left. Her cousin said, 'All the water turned to steam.' What else happened to the water?",
+     "p": "Anjali, a girl of 7 in Kochi, cooked rice. The pan had no water left. Her cousin said, 'All the water turned to steam.' What else happened to the water?",
      "lines": 2,
      "a": "The rice grains drank most of it.",
      "why": "A strong answer says that some water left as steam, but most of it went inside the grains. The two-pan test shows this."
@@ -1710,14 +1716,6 @@
      "p": "You can turn curd back into milk by stirring it hard.",
      "a": false,
      "why": "False. Stirring makes curd runny, but it is still sour curd. The bacteria have changed the milk for good."
-    },
-    {
-     "t": "fill",
-     "p": "Tiny living beings called ______ turn milk into curd.",
-     "a": [
-      "bacteria"
-     ],
-     "why": "Bacteria from a spoon of curd feed on the milk sugar, make an acid, and thicken the milk."
     },
     {
      "t": "perspective",
@@ -1746,46 +1744,43 @@
      "art": "Two empty katoris drawn side by side, labelled Before and After."
     },
     {
-     "t": "count",
-     "p": "Amma cooked 2 tumblers of dry rice. Each tumbler made 3 tumblers of cooked rice. How many tumblers of cooked rice did she get?",
-     "a": 6,
-     "why": "2 tumblers, and each one becomes 3. So 3 and 3 makes 6 tumblers.",
-     "how": "a4"
+     "t": "write",
+     "p": "In the ten-grain test, we boiled 20 grains but only measured 10. Why did we start with extra?",
+     "lines": 2,
+     "a": "Some grains may break in the water, and we need ten whole ones for a fair line.",
+     "why": "A strong answer says broken grains cannot go in the line, so extra grains make sure there are ten whole ones.",
+     "how": "e1"
     },
     {
      "t": "mcq",
-     "p": "Why does butter fizz in a hot pan, but ghee does not?",
+     "p": "A spoon of curd is stirred into warm milk. What does the spoon of curd bring to the milk?",
      "opts": [
-      "Butter has water in it, and ghee has almost none",
-      "Ghee is colder than butter",
-      "Butter is heavier than ghee"
+      "Bacteria",
+      "Heat",
+      "Sugar"
      ],
      "a": 0,
-     "why": "The fizz is water boiling into steam. Ghee is butter with its water already boiled away, so nothing is left to fizz."
+     "why": "The curd holds millions of bacteria. They feed on the milk sugar and multiply."
     },
     {
-     "t": "match",
-     "p": "Draw a line from each change to what caused it.",
-     "pairs": [
-      [
-       "Rice turns soft",
-       "Heat and water"
-      ],
-      [
-       "Milk sets into curd",
-       "Bacteria"
-      ],
-      [
-       "Ghee goes solid in winter",
-       "Cold"
-      ],
-      [
-       "Ice cream melts",
-       "Warmth"
-      ]
+     "t": "fill",
+     "p": "A change that can go back is called a ______ change.",
+     "a": [
+      "reversible"
      ],
-     "a": "pairs as given",
-     "why": "Heat, cold and tiny living beings all change food in different ways."
+     "why": "Reversible means it can be undone. Melted butter setting again is a reversible change."
+    },
+    {
+     "t": "mcq",
+     "p": "In the two-pan test, why did both pans get the same amount of water and the same time on the stove?",
+     "opts": [
+      "So the steam lost from both pans would be about the same",
+      "So both pans would finish at the same time",
+      "Because the pans were the same colour"
+     ],
+     "a": 0,
+     "why": "If both pans lose the same to steam, the extra water missing from the rice pan is what the rice drank.",
+     "how": "e2"
     }
    ]
   },
@@ -1823,7 +1818,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila stirred curd into warm milk and left it in the fridge overnight. In the morning it was still runny. Why?",
+     "p": "Nila, a girl of 7, stirred curd into warm milk and left it in the fridge overnight. In the morning it was still runny. Why?",
      "opts": [
       "The cold slowed the bacteria down",
       "The fridge is too dark",
@@ -1839,12 +1834,6 @@
      "why": "A strong drawing shows water moving from outside into the grain, and the grain getting bigger. Arrows pointing in are a good way to show it."
     },
     {
-     "t": "truefalse",
-     "p": "Ghee is butter that has had its water boiled away.",
-     "a": true,
-     "why": "True. When butter is heated, its water boils away as steam, and the milk bits brown and sink. What is left is almost all fat."
-    },
-    {
      "t": "odd",
      "p": "Three of these changes are done by heat. Which one is not?",
      "opts": [
@@ -1858,7 +1847,7 @@
     },
     {
      "t": "write",
-     "p": "Find the mistake. Arjun says, 'Melted butter goes back when it is cold. So if I put cooked rice in the fridge, it will turn back into raw rice.' What is wrong?",
+     "p": "Find the mistake. Arjun, a boy of 6, says, 'Melted butter goes back when it is cold. So if I put cooked rice in the fridge, it will turn back into raw rice.' What is wrong?",
      "lines": 3,
      "a": "Cooking rice is not like melting. The grains absorbed water and changed inside, and cold does not undo that.",
      "why": "A strong answer says that some changes go back and some do not. Melting can be undone by cold, but cooking makes a new thing, so cold rice is still cooked rice."
@@ -1909,12 +1898,17 @@
      "art": "A steel katori of clear golden ghee with a scatter of brown bits at the bottom, and two empty label boxes."
     },
     {
-     "t": "fill",
-     "p": "Cooked rice is more than ______ water.",
-     "a": [
-      "half"
-     ],
-     "why": "About two thirds of cooked white rice is water, most of it from the pan."
+     "t": "write",
+     "p": "Does more water in the pan make rice grains swell more? Say how you would test it fairly. What would you keep the same?",
+     "lines": 3,
+     "a": "Cook the same rice for the same time in different amounts of water, and keep the pan, the heat and the time the same.",
+     "why": "A strong answer changes only the amount of water and keeps the rice, pan, heat and time the same."
+    },
+    {
+     "t": "truefalse",
+     "p": "Ice cream that melted and froze again is exactly the same as before.",
+     "a": false,
+     "why": "False. It freezes again, but it turns hard and icy. A change can go back and still leave something a little different."
     }
    ]
   }
@@ -1954,7 +1948,7 @@
   },
   {
    "q": "How many kinds of bacteria live in homemade curd?",
-   "why_open": "Curd from different homes and towns holds different mixes of bacteria. Scientists in India are still finding and naming them."
+   "why_open": "Curd from different homes and towns holds different mixes of bacteria. Scientists are still studying them."
   },
   {
    "q": "When did people first cook rice?",
@@ -1998,10 +1992,6 @@
    "a": "It had been through the fire and came out golden."
   },
   {
-   "j": "Why could the cooked rice never be raw again?",
-   "a": "It was in too deep."
-  },
-  {
    "j": "What do you call a grain of rice that loves swimming?",
    "a": "A soak-er."
   }
@@ -2017,7 +2007,7 @@
    "why_maths": "Taking one length from the other tells us exactly how much the grains grew."
   },
   {
-   "problem": "One tumbler of dry rice makes about 3 tumblers of cooked rice. Amma is cooking for a family lunch with 3 tumblers of dry rice. About how many tumblers of cooked rice will she get?",
+   "problem": "One tumbler of dry rice makes about 3 tumblers of cooked rice. A cook is making rice for a family lunch with 3 tumblers of dry rice. About how many tumblers of cooked rice will there be?",
    "answer": "About 9 tumblers.",
    "explain": "Each tumbler of dry rice becomes 3 tumblers. 3 and 3 and 3 makes 9.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -2035,7 +2025,7 @@
    "why_maths": "Comparing the two pans lets us take away the steam, so we can find just the water the rice drank."
   },
   {
-   "problem": "In her kitchen change hunt, Kavya found 7 changes. 2 could go back and 5 stayed changed. Make tally marks for each kind. Which kind did she find more of, and how many more?",
+   "problem": "Kavya, a girl of 8, watched a meal being cooked and found 7 changes. 2 could go back and 5 stayed changed. Make tally marks for each kind. Which kind did she find more of, and how many more?",
    "answer": "Stays changed, by 3.",
    "explain": "Two tally marks for goes back, five for stays changed. 5 take away 2 is 3, so she found 3 more changes that stayed changed.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2195,7 +2185,7 @@
    {
     "source": "Bhagavad Gita 15.14",
     "teaching": "Krishna says he becomes the fire inside living bodies that digests their food.",
-    "link": "Outside, the fire of the stove changes rice. Inside you, the body goes on changing it. The Gita calls both a kind of fire."
+    "link": "Outside, the fire of the stove changes rice. Inside you, the body goes on changing it, and the Gita speaks of that as a fire too."
    }
   ],
   "science": [
@@ -2220,8 +2210,7 @@
   },
   "ask": [
    "If most of cooked rice is water, where does the rice end and the water begin?",
-   "Melted butter set again, but ghee did not turn back. What makes a change go only one way?",
-   "Bacteria changed the milk while you slept. Who made the curd: you, or the bacteria?"
+   "Melted butter set again, but ghee did not turn back. What makes a change go only one way?"
   ],
   "art": "A child's open palm with one thin dry rice grain and one fat cooked grain, and faint drops of water drawn flowing from a steaming pot into the cooked grain."
  },
@@ -2231,5 +2220,6 @@
   "who": "Louis Pasteur, a French chemist, and Stamen Grigorov, a Bulgarian medical student. Justus von Liebig, a German chemist, held the wrong idea.",
   "when": "Pasteur reported his work in 1857. Grigorov found the curd bacterium in 1905.",
   "wrong_idea": "That milk and other foods turned sour by a chemical change alone, with no living thing involved. Pasteur showed the souring grew and spread only when the tiny living beings were there."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. The sorting game now has 16 real cards, a mat the family draws, and rules that end with a winner for 2 to 4 players. The memory game now says to cut the cards out and turn them face down. In the ten-grain test the step times add up (30 minutes), the cold and boiling grains start together, and a note says honestly that some rice needs a few minutes more. The two-pan test now has heating and cooling in its time. The butter and ghee steps say which katori holds what. The butter-setting challenge no longer needs a fan in a power cut. Unchecked videos, repeated worksheet questions and a weak joke were removed, and names were introduced where they first appear."
 }

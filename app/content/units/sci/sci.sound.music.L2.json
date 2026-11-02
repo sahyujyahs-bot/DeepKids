@@ -88,7 +88,7 @@
    "status": "defined",
    "context": "This card is about how home-made instruments make their sounds.",
    "definition": "A musical instrument makes sound when one part of it vibrates, moving to and fro very fast.",
-   "description": "Every sound starts with something moving. In an instrument, the moving is very fast and very small. Pluck a rubber band, and the band vibrates. Tap a box, and its sides vibrate in and out. Blow across a bottle, and the air inside it vibrates. The vibrating part pushes the air around it, and the air carries the sound to your ears.",
+   "description": "Every sound starts with something moving very fast and very small. Pluck a rubber band, and the band vibrates. Tap a box, and its sides vibrate in and out. Blow across a bottle, and the air inside it vibrates.",
    "examples": [
     "A rubber band stretched over a tissue box: the band vibrates.",
     "A box drum: the side of the box you tap vibrates.",
@@ -103,7 +103,7 @@
    "status": "defined",
    "context": "This card is about why some sounds are high and some are low.",
    "definition": "Pitch is how high or low a sound is. Fast vibrations make high sounds. Slow vibrations make low sounds.",
-   "description": "A high sound, like a squeak, comes from something vibrating very fast. A low sound, like a boom, comes from something vibrating more slowly. Both are still much too fast to count with your eyes. You can feel the difference, though. Hum a low note with your hand on your chest, and you feel a strong buzz. Hum a high note, and the buzz in your chest is much weaker.",
+   "description": "A high sound, like a squeak, comes from something vibrating very fast. A low sound, like a boom, comes from something vibrating more slowly. Hum a low note with your hand on your chest, and you feel a strong buzz. Hum a high note, and the buzz is weaker.",
    "examples": [
     "A mouse squeaks high. A cow moos low.",
     "A pressure cooker whistle is high. Thunder is low.",
@@ -117,7 +117,7 @@
    "status": "defined",
    "context": "This card is about the Big Box, Small Box test, where you tapped boxes of different sizes.",
    "definition": "When things are made of the same material and tapped the same way, the bigger one usually makes a lower sound.",
-   "description": "When you tap a box, its side bends in and springs back, again and again. A small side is short and stiff, so it springs back very fast. That makes a high 'tik'. A big side is wide and floppy, so it moves in and out more slowly. That makes a low 'dhum'. The air inside the box vibrates too, and a big box holds more air, which also makes the sound lower. That is why big drums boom and small drums tick.",
+   "description": "When you tap a box, its side bends in and springs back, again and again. A small side is short and stiff, so it springs back very fast and makes a high 'tik'. A big side is wide and bends easily, so it moves more slowly and makes a low 'dhum'. A big box also holds more air, and that lowers the sound too.",
    "examples": [
     "A big delivery carton booms. A matchbox ticks.",
     "A tabla has two drums. The big one, called the bayan, gives the low sounds. The small one, the dayan, gives the high ones.",
@@ -131,7 +131,7 @@
    "status": "defined",
    "context": "This card is about a mix-up many people make between low sounds and loud sounds.",
    "definition": "Loud or soft depends on how big the vibrations are. High or low depends on how fast they are.",
-   "description": "Many children think a low sound is a loud sound, because big drums are often loud. But you can slap the big carton hard or tap it very gently. A gentle tap is soft, but it is still low. A hard tap on a matchbox is louder, but it is still high. How hard you hit changes how big the vibrations are. The size of the box changes how fast they are.",
+   "description": "Many people think a low sound is a loud sound, because big drums are often loud. But a gentle tap on the big carton is soft and still low. A hard tap on a matchbox is louder, but still high. How hard you hit changes how big the vibrations are, and the size of the box changes how fast they are.",
    "examples": [
     "Tap the big carton with one finger, very gently. You hear a soft, low sound.",
     "A whistle can be loud and high at the same time.",
@@ -145,7 +145,7 @@
    "status": "defined",
    "context": "This card is about the Bottle Hooter, where you blow across the top of a bottle.",
    "definition": "When you blow across the mouth of a bottle, the air inside the bottle vibrates. Less air makes a higher note.",
-   "description": "A bottle that looks empty is full of air. When your breath crosses the top, it makes the air inside bounce up and down very fast. That is the hoot. Pour some water in, and there is less air left to vibrate. Less air vibrates faster, so the hoot goes higher. A big empty bottle has lots of air, so it hoots low.",
+   "description": "A bottle that looks empty is full of air. When your breath crosses the top, the air inside vibrates very fast, and that is the hoot. Pour in some water, and there is less air left to vibrate, so the hoot goes higher. A big empty bottle has lots of air, so it hoots low.",
    "examples": [
     "An empty bottle gives a low hoot.",
     "The same bottle, half full of water, gives a higher hoot.",
@@ -159,7 +159,7 @@
    "status": "defined",
    "context": "This card is about the difference between a beat and a rhythm, from the Name Rhythms activity.",
    "definition": "A beat is a steady pulse that repeats with the same gap each time. A rhythm is a pattern of sounds and gaps that fits over the beat.",
-   "description": "The beat is like the ticking of a clock. It never speeds up or slows down in the middle. The rhythm is what you play on top of it. When you clap 'Mee-nak-shi' and then 'Kavya', the claps change, but the beat underneath stays the same. Drummers, dancers and singers all listen to the same beat. That is how they stay together.",
+   "description": "The beat is like the ticking of a clock. It never speeds up or slows down in the middle. The rhythm is what you play on top of it. When you clap 'Mee-nak-shi' and then 'Kavya', the claps change, but the beat underneath stays the same.",
    "examples": [
     "Your feet marching make a beat. Clapping your name while you march makes a rhythm.",
     "A clock ticks a beat.",
@@ -173,7 +173,7 @@
    "status": "defined",
    "context": "This card is about the Sleepy Song, Dancing Song test, where you counted pats in 15 seconds.",
    "definition": "Tempo is how fast the beat goes: how many beats there are in a fixed time.",
-   "description": "You counted the beats of two songs for 15 seconds each. The lullaby usually gives far fewer pats than the dance song. A slow tempo calms us down, like rocking a baby. A fast tempo makes us want to jump and dance. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.",
+   "description": "You counted the beats of two songs for 15 seconds each. The lullaby usually gives far fewer pats than the dance song. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.",
    "examples": [
     "A lullaby: slow tempo.",
     "A fast film dance song: fast tempo.",
@@ -187,7 +187,7 @@
    "status": "defined",
    "context": "This card is about the Ta Ka Di Mi activity, where you counted Adi talam with your hands.",
    "definition": "In Indian classical music, a tala is a cycle of beats that repeats again and again.",
-   "description": "Carnatic musicians, in South India, keep the tala with their hands. For Adi talam they clap, then count three fingers, then clap and wave, then clap and wave. That makes 8 beats. Then they start again. Hindustani musicians, in North India, use talas too. Teentaal has 16 beats. Drummers also speak their rhythms aloud with syllables like 'ta ka di mi'. This spoken drumming is called konnakol in South India.",
+   "description": "Carnatic musicians, in South India, keep the tala with their hands. For Adi talam they clap, count three fingers, then clap and wave, then clap and wave. That makes 8 beats, and then they start again. Hindustani musicians, in North India, use talas too, and Teentaal has 16 beats.",
    "examples": [
     "Adi talam: 8 beats in each cycle.",
     "Teentaal: 16 beats in each cycle.",
@@ -200,7 +200,7 @@
    "concept": "Do other animals feel a beat?",
    "status": "debated",
    "context": "This card is about whether only humans move in time to music.",
-   "description": "Humans and many other animals make sounds in rhythms. Frogs call in turns, and crickets chirp steadily. Moving in time to the beat of music is rarer. In 2009, scientists filmed a cockatoo called Snowball. He bobbed his head and lifted his feet in time with a song. When they played the song faster or slower, Snowball often changed his speed to match. Later films showed he made up many different dance moves of his own. Scientists still argue about which animals can do this, and why.",
+   "description": "Humans and many other animals make sounds in rhythms, and frogs call in turns. Moving in time to music is rarer. In 2009, scientists filmed a cockatoo called Snowball bobbing his head and lifting his feet in time with a song. When the song was played faster or slower, Snowball often changed his speed to match. Scientists still argue about which animals can do this, and why.",
    "examples": [
     "Snowball, a cockatoo, dancing to a pop song.",
     "Ronan, a sea lion, bobbing her head to the beat.",
@@ -237,7 +237,7 @@
    "evidence": "Big drums, big bells, big bowls and long strings all sound lower than small ones of the same kind. You tested this with boxes and steel bowls."
   },
   {
-   "text": "Almost all the music people make, all over the world, has a steady beat.",
+   "text": "Most of the music people make, all over the world, has a steady beat.",
    "evidence": "Scientists who compared hundreds of songs from many countries found a steady beat in most of them."
   }
  ],
@@ -401,7 +401,7 @@
        "b": "1 clap and 3 knee pats"
       },
       {
-       "f": "Say 'ta ki ta, ta ki ta'. Clap on each 'ta' at the start.",
+       "f": "Say 'ta ki ta, ta ki ta'. Clap on the first 'ta' of each group, pat the rest.",
        "b": "2 claps and 4 knee pats"
       }
      ]
@@ -587,7 +587,7 @@
   {
    "id": "e1",
    "title": "Big Box, Small Box: which makes the deepest sound?",
-   "mins": 28,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you tap four empty boxes of very different sizes in exactly the same way, and listen for which sounds high and which sounds low. Then you check with steel bowls.",
    "question": "If boxes are all made of card and tapped the same way, does the size of a box change how high or low it sounds?",
@@ -601,7 +601,7 @@
    ],
    "materials": [
     {
-     "item": "4 empty cardboard boxes of very different sizes: a matchbox or small medicine box, a toothpaste or tea box, a shoebox, and a big delivery carton",
+     "item": "4 empty cardboard boxes of very different sizes: an empty matchbox (no matches in it) or small medicine box, a toothpaste or tea box, a shoebox, and a big delivery carton",
      "qty": 4
     },
     {
@@ -628,7 +628,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 28,
+     "mins": 20,
      "what": "Guess, tap four boxes the same way, feel the big box buzz, play the eyes-shut round, check with steel bowls, and talk about why."
     }
    ],
@@ -654,7 +654,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "context": "This is the first step of the Big Box, Small Box test. You guess which box will make the deepest sound before you tap any of them.",
      "do": "1. Put the four boxes in a row, from smallest to biggest. 2. Draw the results table with four rows. 3. Ask your child to guess for each box.",
      "say": "We are going to tap each box in exactly the same way. Which one will make the deepest sound? Why do you think so?",
@@ -673,7 +673,7 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Tape each lid shut. 2. Lay each box on the floor on its biggest side. 3. Show the tap: one finger, dropped onto the middle of the top.",
      "say": "Every box must get the same tap, in the same place. Why do you think that matters?",
      "kid": "Tape the lids shut. Lay each box flat. Tap the middle with one finger.",
@@ -690,7 +690,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Your child taps each box twice, from smallest to biggest. 2. After each box, they say a sound word for it: tik, tok, dum or dhum. 3. Write the word and 'high', 'middle' or 'low' in the table.",
      "say": "Tap the smallest box. Listen. Is it high or low? Now the next one. Say a sound word for each.",
      "kid": "Tap each box twice. Listen hard. Is it high or low?",
@@ -707,7 +707,7 @@
     },
     {
      "id": "s4",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Your child rests the fingertips of one hand lightly on the top of the big carton. 2. With the other hand, they slap the side of the carton once with a flat palm. 3. Do the same with the smallest box.",
      "say": "Put your fingers lightly on top of the big carton. Now slap its side. What do your fingers feel?",
      "kid": "Fingers on top of the big box. Slap its side. What do you feel?",
@@ -725,7 +725,7 @@
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 3,
      "do": "1. Your child shuts their eyes and turns their back. 2. Tap one box, chosen at random, twice. 3. Your child names the box. 4. Do this 4 times, and count the right answers.",
      "say": "Eyes shut. I will tap one box. Can you tell which one, just from the sound?",
      "kid": "Shut your eyes. Listen. Which box was it?",
@@ -733,7 +733,7 @@
     },
     {
      "id": "s6",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Stand the three steel bowls on a folded towel. 2. Your child taps the rim of each gently with the spoon. 3. Ask which rings lowest and which highest.",
      "say": "These bowls are all the same steel, from one set. Only the size is different. Which rings lowest?",
      "kid": "Tap each bowl with the spoon. Which rings lowest? Which rings highest?",
@@ -741,7 +741,7 @@
     },
     {
      "id": "s7",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Ask your child what they found, and how they know. 2. Only then, explain why bigger boxes sound lower.",
      "say": "What did you find out? What did you hear that tells you so? Why do you think the big box sounded deeper?",
      "kid": "What did you find? Which sounded deepest? Why, do you think?",
@@ -757,14 +757,14 @@
      "parent": "After your child has said what they think, explain: when you tap a box, its side bends in and springs back again and again. That is vibrating. A big side is floppy, so it vibrates more slowly. Slow vibrations make a low sound.",
      "check": {
       "t": "mcq",
-      "q": "Farhan, a boy in Class 2, has a big carton and a tiny box, both made of card. He taps each the same way. Which sounds lower?",
+      "q": "Meena taps a box and hears a high 'tik'. She wants a lower sound. Which box should she tap next, in the same way?",
       "options": [
-       "The big carton",
-       "The tiny box",
-       "They sound the same, because both are card"
+       "A much bigger box",
+       "A much smaller box",
+       "The same box, but harder"
       ],
       "a": 0,
-      "why": "The big carton's sides are wide and floppy, so they vibrate more slowly, and slow vibrations make a low sound. Both are card, but the size is different."
+      "why": "A bigger box has bigger sides that vibrate more slowly, so the sound is lower. Tapping harder only makes the same sound louder."
      }
     }
    ]
@@ -889,14 +889,14 @@
      "parent": "How fast a beat goes is called its tempo. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.",
      "check": {
       "t": "mcq",
-      "q": "Bidisha, a girl in Kolkata, counts 16 pats for a lullaby and 32 for a dance song, each in 15 seconds. Which song has the faster tempo?",
+      "q": "Thenmozhi pats along to a slow lullaby for 15 seconds. About how many pats will she make?",
       "options": [
-       "The dance song",
-       "The lullaby",
-       "They have the same tempo"
+       "6",
+       "18",
+       "40"
       ],
-      "a": 0,
-      "why": "Tempo is how fast the beat goes. The dance song had 32 beats in 15 seconds, twice as many as the lullaby's 16. So its tempo is faster."
+      "a": 1,
+      "why": "A slow lullaby gives about 15 to 20 pats in 15 seconds. 6 is too few for a steady beat, and 40 is too many, even for a fast dance song."
      }
     }
    ]
@@ -1157,7 +1157,7 @@
      "qty": 1
     }
    ],
-   "safety": "If you use a glass bottle, keep it on a towel on the floor, so it cannot fall and break.",
+   "safety": "If you use a glass bottle, keep it on a towel on the floor, so it cannot fall and break. Wash the bottle's mouth before another person blows on it.",
    "schedule": [
     {
      "day": 1,
@@ -1573,20 +1573,20 @@
    "items": [
     {
      "t": "mcq",
-     "p": "When you hoot a bottle, which part makes the sound?",
+     "p": "Kamala plucks a rubber band on a box. How can she tell that the band is vibrating?",
      "opts": [
-      "The air inside the bottle",
-      "The cap of the bottle",
-      "Your hand holding it"
+      "It goes blurry",
+      "It gets warm",
+      "It gets longer"
      ],
      "a": 0,
-     "why": "A strong answer says the air inside vibrates. The bottle only holds it."
+     "why": "A strong answer says the band moves to and fro so fast that it looks blurry."
     },
     {
      "t": "truefalse",
-     "p": "True or false: a low sound is always a loud sound.",
-     "a": false,
-     "why": "False. A gentle tap on a big carton is soft but still low. Low and high are about how fast things vibrate. Loud and soft are about how big the vibrations are."
+     "p": "True or false: every sound starts with something vibrating.",
+     "a": "True",
+     "why": "True. A plucked band goes blurry, and your throat buzzes when you hum."
     },
     {
      "t": "match",
@@ -1743,14 +1743,14 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi has two steel dabbas from the same set, one big and one small. She taps each with a spoon. Which rings lower?",
+     "p": "Revathi, a girl in Madurai, rings the big bell at the temple and then her small hand bell at home. Which one rings lower?",
      "opts": [
-      "The big dabba",
-      "The small dabba",
-      "Both the same, because both are steel"
+      "The big temple bell",
+      "The small hand bell",
+      "Both the same, because both are bells"
      ],
      "a": 0,
-     "why": "Same steel, different size. The bigger one vibrates more slowly, so it rings lower."
+     "why": "Both are bells, but the bigger one vibrates more slowly, so it rings lower."
     },
     {
      "t": "write",
@@ -1768,21 +1768,21 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out? A big carton drum, a big temple bell, a mouse's squeak, thunder.",
+     "p": "Which is the odd one out?",
      "opts": [
-      "A big carton drum",
-      "A big temple bell",
-      "A mouse's squeak",
-      "Thunder"
+      "A tissue-box ektara",
+      "A veena",
+      "A bottle hooter",
+      "A tambura"
      ],
      "a": 2,
-     "why": "The mouse's squeak is the only high sound. The others are all low."
+     "why": "The ektara, veena and tambura all have a string that vibrates. In the bottle hooter, the air vibrates."
     },
     {
      "t": "truefalse",
-     "p": "True or false: a bottle with more water in it hoots higher than the same bottle when it is empty.",
-     "a": true,
-     "why": "True. Water leaves less air in the bottle. Less air vibrates faster, so the hoot is higher."
+     "p": "True or false: two people can clap different rhythms and still keep the same beat.",
+     "a": "True",
+     "why": "True. In Name Rhythms, your steps stayed the same while the claps changed. The steps were the beat and the claps were the rhythm."
     },
     {
      "t": "fill",
@@ -2028,7 +2028,7 @@
   },
   {
    "text": "The dhakis playing the big dhak drum during Durga Puja in Bengal.",
-   "art": "A drummer with a big dhak drum hung from his shoulder, decorated with white feathers."
+   "art": "A drummer with a big dhak drum hung from his shoulder, decorated with a bright plume."
   },
   {
    "text": "The thavil and nadaswaram at a South Indian wedding: a deep drum and a high, loud pipe.",
@@ -2328,7 +2328,7 @@
  "roots": {
   "context": "We have tapped big and small boxes, hooted bottles and kept a beat together. Now we ask what the Big Box test tells us about sound, and about ourselves.",
   "deep_truth": {
-   "truth": "In the Big Box test, every box was card, tapped the same way. The big carton boomed low and the matchbox ticked high. The steel bowls did the same, from biggest to smallest. So one material can make a low note or a high note, and its size decides which.",
+   "truth": "In the Big Box test, every box was card, tapped the same way. The big carton boomed low and the matchbox ticked high. The steel bowls did the same, from biggest to smallest. So one material can make a low note or a high note, and its size and shape decide which.",
    "habit": "We think each material has its own sound: card goes 'tok' and steel goes 'ting'. But the same card made a deep boom and a high tick. The size and shape of a thing change its note as well as what it is made of.",
    "evidence": "Every box was cardboard, and every tap was one finger on the middle of the top. Yet the big carton went 'dhum', the shoebox 'tok' and the matchbox 'tik'. Three steel bowls from one set rang lowest for the biggest and highest for the smallest."
   },
@@ -2337,17 +2337,17 @@
    "what_is_life": "Many living beings keep time with each other. Frogs call in turns at night, and a cockatoo called Snowball danced to the beat of songs.",
    "what_is_this_world": "The world is full of beats that come round again and again: day and night, your breath and your heartbeat."
   },
-  "thread": "A tap is one quick push. A box answers it with a note of its own, set by its size and shape. The same tap gave a big carton, a small box and a steel bowl three different notes. When many players follow one beat, all those different notes join into one song.",
+  "thread": "A tap is one quick push. A box answers it with a note of its own, set by its size and shape. The same tap gave a big carton, a small box and a steel bowl three different notes. Everything is conscious, the box and the bowl too, and each answers in its own way. When many players follow one beat, all those different notes join into one song.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 2 ('The Adjustment of Controversies', also called 'All Things Are Equal')",
     "teaching": "The Chinese thinker Zhuangzi describes the wind blowing through a great forest. The hollows in the trees are of every size and shape. When the wind blows, each hollow makes its own sound: some roar, some whistle, some hum.",
-    "link": "Your bottle hooted when you blew across it, and hooted higher with less air inside. One breath, like one wind, made a different note in each different hollow."
+    "link": "Your bottle hooted when you blew across it, and hooted higher with less air inside. One breath made a different note in each different hollow."
    },
    {
     "source": "Natya Shastra, chapter 28 in most editions",
     "teaching": "The Natya Shastra, an old Indian book on drama, music and dance, sorts instruments into four kinds: stringed ones (tata), drums covered with skin (avanaddha), solid ones that are struck (ghana), and hollow ones that are blown (sushira).",
-    "link": "Your ektara is a tata instrument, and your bottle hooter is a sushira. Your box drum is struck, like a ghana instrument or a drum. In each kind, a different part vibrates: a string, a skin, a solid body or the air."
+    "link": "Your ektara is a tata instrument, and your bottle hooter is a sushira. Your box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates: a string, a skin, a solid body or the air."
    }
   ],
   "science": [

@@ -25,7 +25,7 @@
 
 Cats have kittens. Cows have calves. Frogs have tadpoles. Humans have babies, because humans are animals too. Some young are born, like puppies, calves and human babies. Some young hatch from eggs, like chicks, baby lizards and baby fish. Either way, every animal comes from parents of their own kind. A cat's kittens always grow up into cats.
 - e.g. A street dog in your lane may have 5 or 6 puppies at a time.
-- e.g. A tiny gecko on your wall hatched from an egg as small as a peanut.
+- e.g. A tiny gecko on your wall hatched from an egg about as big as a pea.
 - e.g. Ants in the kitchen carry their white young from place to place.
 ### Some young look like their parents, and some do not · *defined*
 **Definition:** Some young look like small copies of their parents. Others look very different at first, and change their whole body as they grow up.
@@ -37,25 +37,25 @@ A kitten looks like a small cat, and a calf looks like a small cow. A baby gecko
 ### A baby is shaped differently from a grown-up · *defined*
 **Definition:** A newborn human baby is about 4 heads long. A grown-up is about 7 or 8 heads tall. After birth, the legs grow much more than the head.
 
-A human baby has a big head, big eyes, a short body and short legs. As the child grows, the legs grow fastest. The head grows only a little. So a child of 6 is about 6 heads tall, and a grown-up about 7 or 8. Many other young animals have big heads and big eyes too, like kittens and puppies. But a calf is born with long legs. A calf can stand within about an hour, so they can follow their mother.
-- e.g. In the head strip test, a grown-up was about 7 heads tall, a child about 6, and a baby picture about 4.
+A human baby has a big head, big eyes, a short body and short legs. As the child grows, the legs grow fastest. The head grows too, but much less than the legs. So a child of 6 is about 6 heads tall, and a grown-up about 7 or 8. Many other young animals have big heads and big eyes too, like kittens and puppies. But a calf is born with long legs. A calf can stand within about an hour, so they can follow their mother.
+- e.g. When you measure in the Heads Tall experiment, a grown-up is about 7 heads tall, a child about 6, and a baby photo about 4.
 - e.g. A kitten's head is big for their body. A grown-up cat's head looks small.
 - e.g. A newborn calf stands up on long, wobbly legs soon after birth.
 ### How animal parents care for their young · *debated*
-Many animal parents feed their young, keep them warm and keep them safe. Pigeon mothers and fathers both feed their chicks with a milk they make in their throat. An elephant calf is looked after by the mother, the aunts and the oldest female, who leads the herd. Some fathers do most of the work. A seahorse father carries the eggs in a pouch on his belly. Some parents leave. An olive ridley turtle lays her eggs on a beach in Odisha and goes back to the sea. The babies hatch and find the sea alone. Animal parents feel for their young. A penguin parent finds their own chick among thousands, just by the chick's call. Scientists agree on what parents do. They argue about what parents feel.
+Many animal parents feed their young, keep them warm and keep them safe. Pigeon mothers and fathers both feed their chicks with a milk they make in their throat. An elephant calf is looked after by the mother, the aunts and the oldest female, who leads the herd. Some fathers do most of the work. A seahorse father carries the eggs in a pouch on his belly. Some parents leave. An olive ridley turtle lays her eggs on a beach in Odisha and goes back to the sea. The babies hatch and find the sea alone. Many animal parents know their own young. A penguin parent finds their own chick among thousands, just by the chick's call. Scientists agree on what parents do. They argue about what parents feel.
 - e.g. Both pigeon parents sit on the eggs, and both feed the chicks.
 - e.g. A mother cat carries her kitten gently by the loose skin on the back of the neck.
 - e.g. A great hornbill mother seals herself into a tree hole with her eggs. The father brings food to a slit in the wall. Aparajita Datta, an Indian scientist, has studied hornbill families in Arunachal Pradesh for many years.
 - **Scientists who study animal feelings:** Animal parents feel care and worry for their young, as human parents do. A mother elephant who loses her calf stays by the body and acts upset.
-- **Other scientists:** Parents act this way because of hormones, chemical messengers in the body. They describe what parents do, and do not use words like love or worry for other animals.
+- **Other scientists:** Parents act this way because their bodies tell them to, with chemical messages inside. These scientists describe what parents do, and do not use words like love or worry for other animals.
 
 ## Mostly agreed
-- Every kind of animal has young, and young come only from parents of their own kind. *How we know:* Nobody has ever seen a kitten born to a dog, or maggots grow in a jar that flies could not get into. Scientists have tested this for more than 350 years.
+- Every kind of animal has young, and young come only from parents of their own kind. *How we know:* Nobody has ever seen a kitten born to a dog, or a calf born to a cat. Every young animal comes from parents of their own kind.
 - Some young look like their parents, and some change their whole body as they grow. *How we know:* People can watch a tadpole become a frog, or a caterpillar become a butterfly, at home or in a school. It happens the same way every time.
 - A human baby's head is big for their body, and the legs grow most after birth. *How we know:* Doctors measure babies and children at check-ups, all over the world. A newborn's head is about one quarter of their length. A grown-up's head is about one eighth.
 
 ## How we found out
-**Giovanni Battista Grassi and Salvatore Calandruccio, Italian scientists (1896); Johannes Schmidt, a Danish scientist (1904 to 1922), Grassi and Calandruccio watched the change in 1896. Schmidt published where European eels breed in 1922..** For more than 2,000 years, nobody had ever seen a baby eel. Aristotle, in ancient Greece, wrote that eels grew out of mud. In the sea, fishermen sometimes caught a strange little fish. This fish was flat and clear as glass, shaped like a leaf. Scientists thought the leaf fish was a different kind of fish. They gave the leaf fish a name: Leptocephalus, which means 'thin head'. In 1896, two Italian scientists, Giovanni Battista Grassi and Salvatore Calandruccio, kept some of these glass leaves in tanks of sea water in Messina. They watched the leaf fish every day. Slowly, the flat leaves grew shorter and rounder. They turned into tiny see-through eels. The 'different fish' had been baby eels all along. They just looked nothing like their parents. Later, a Danish scientist, Johannes Schmidt, sailed the Atlantic Ocean for years looking for the smallest ones. They led him to the Sargasso Sea, where the eels of Europe lay their eggs.  
+**Giovanni Battista Grassi and Salvatore Calandruccio, Italian scientists (1896); Johannes Schmidt, a Danish scientist (1904 to 1922), Grassi and Calandruccio watched the change in 1896. Schmidt published where European eels breed in 1922..** For more than 2,000 years, nobody had ever seen a baby eel. Aristotle, in ancient Greece, wrote that eels grew out of mud. In the sea, fishermen sometimes caught a strange little fish. This fish was flat and clear as glass, shaped like a leaf. Scientists thought the leaf fish was a different kind of fish. They gave the leaf fish a name: Leptocephalus, which means 'thin head'. In 1896, two Italian scientists, Giovanni Battista Grassi and Salvatore Calandruccio, kept some of these glass leaves in tanks of sea water in Messina. They watched the leaf fish every day. Slowly, the flat leaves grew shorter and rounder. They turned into tiny see-through eels. The 'different fish' had been baby eels all along. They just looked nothing like their parents. Later, a Danish scientist, Johannes Schmidt, sailed the Atlantic Ocean for years looking for the smallest ones. They led him to the Sargasso Sea, where the eels of Europe are born.  
 *What people believed before:* That eels have no babies and grow out of mud, and that the glassy leaf-shaped fish was a different kind of fish. Grassi and Calandruccio watched the leaf fish turn into young eels.
 
 ## Challenging perspectives
@@ -74,7 +74,7 @@ We have looked at baby animals and measured our own bodies with head strips. Now
 
 **Deep truth.** Our head strips showed a grown-up about 7 heads tall, a child about 6, and a baby about 4. After birth, the legs grow much more than the head does. So growing up changes the shape of a body, as well as the size.  
 *Habit it breaks:* We often picture a baby as a grown-up made small. But a baby's body has their own shape, and each part grows at a different speed.  
-*Evidence:* In the head strip test, each person was measured with a strip of their own head. The grown-up came out about 7 heads tall, the child about 6, and the newborn picture about 4.
+*Evidence:* In the head strip test, each person was measured with a strip of their own head. The grown-up came out about 7 heads tall, the child about 6, and the newborn photo about 4.
 
 - *who am i:* Your body has changed shape since you were born. You are still you, in a new shape.
 - *what is life:* Every living being comes from parents, and keeps growing and changing all through life.
@@ -86,16 +86,16 @@ Every animal begins as one tiny cell, too small to see. That cell grows into a b
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (A mother cat has four kittens and is still a whole cat. Each kitten is a whole new cat of their own.)
 - Science (settled): Right after birth, a baby's head is about one quarter of their whole length. A grown-up's head is about one seventh or one eighth.
 - Science (open): Each part of a growing body grows at its own speed. Exactly how each part knows when to grow, and when to stop, is still being studied.
-- Other view, Many biologists: Many biologists explain the change of shape with genes and hormones. Genes are instructions inside every cell. Hormones are chemical messengers that tell parts of the body when to grow. They describe growing up as the body following those instructions.
+- Other view, Many biologists: Many biologists say a body grows by following instructions. The instructions are inside every cell, and they are called genes. Chemical messages in the body tell each part when to grow.
 - Practice, Curl Small, Grow Tall (3 min): Curl up on the floor, as small as you can, like a tiny baby. Feel your breath, slow and soft. Now, very slowly, uncurl. Stretch one leg, then the other. Now kneel, then stand. Reach up as tall as you can. Feel how long your legs are now. You were once small and curled up like that.
 - Ask: You have changed shape since you were a baby. What about you has stayed the same?
 - Ask: A caterpillar becomes a butterfly. Is the butterfly the same being as the caterpillar?
 - Ask: Why do you think a baby's head starts so big?
 
 ## Deep and big questions
-- *big:* A caterpillar crawls and a butterfly flies. Are they the same being? (hint: The caterpillar never dies. The same body changes inside a case, and comes out with wings.)
+- *big:* A caterpillar crawls and a butterfly flies. Are they the same being? (hint: Inside the case, the caterpillar's body is built again, with wings. Nobody can say for sure where one being ends and the next begins.)
 - *big:* You have changed shape since you were a baby. What about you has stayed the same? (hint: Think about your name, your family, what you remember, and what you like.)
-- *deep:* Why does a baby's head start so big? (hint: The brain is inside the head. Think about how much a baby has to learn.)
+- *deep:* Why does a baby's head start so big? (hint: The brain is inside the head. A baby's brain grows very fast in the first years.)
 - *deep:* A pigeon chick looks nothing like a pigeon at first. How do the parents know the chick is theirs? (hint: Think about where the chick is, and what the chick does when a parent comes.)
 
 ## Story: The Yellow Chicks Behind the AC
@@ -123,9 +123,9 @@ Nandini was not sure. The chicks did not look like their parents at all. Had ano
 
 'Let us find out,' said Ammamma. 'Watch who comes to feed them.'
 
-Soon the father pigeon landed on the AC box. The chicks lifted their wobbly heads. One chick pushed their beak right inside their father's beak. The father pumped his neck up and down.
+Soon the father pigeon landed on the AC box. The chicks lifted their wobbly heads. One chick pushed their beak right inside the father's beak. The father pumped his neck up and down.
 
-'He is feeding her!' said Nandini. 'But he has no worms in his beak.'
+'He is feeding the chick!' said Nandini. 'But he has no worms in his beak.'
 
 'Pigeon parents make a milk in their throat,' said Ammamma. 'Both the mother and the father make it. The chicks drink it from inside their beaks.'
 
@@ -163,11 +163,11 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 
 ## Games
 ### g1 · Like the Parent, or Not Like the Parent? (15 min)
-- **rules:** Put the two mats on the floor. Mix the cards and put them face down.; Take turns. Turn over the top card. The grown-up reads the name.; Put the card on a mat. Say why.; The grown-up reads the back. If you were right, keep the card.; If you were not sure, put the card between the mats. Some babies are a bit of both.; When all the cards are played, look at each mat. Which babies change the most?
-- **Printable cards: 16 baby animal cards to cut out:** Kitten (back: Like the parent. A kitten looks like a small cat, with a big head and big eyes.); Puppy (back: Like the parent. A puppy looks like a small dog.); Calf (back: Like the parent. A calf looks like a small cow, with long legs.); Baby elephant (back: Like the parent. A baby elephant has a short trunk and a hairy head.); Baby gecko on the wall (back: Like the parent. A baby gecko hatches looking just like a tiny grown-up gecko.); Baby crocodile (back: Like the parent. A baby crocodile hatches from an egg, looking like a small crocodile.); Human baby (back: Like the parent in some ways. A baby has the same parts, but a big head and short legs.); Duckling (back: Like the parent in some ways. A duckling has the same shape, but soft yellow fluff, not feathers.); Tadpole (back: Very different. A tadpole has a tail and no legs, and lives in water. Grows up into a frog.); Caterpillar (back: Very different. A caterpillar has no wings. Grows up into a butterfly or a moth.); Maggot (back: Very different. A maggot has no legs and no wings. Grows up into a fly.); Silkworm (back: Very different. A silkworm is a caterpillar. Grows up into a silk moth.); Pigeon chick, just hatched (back: Very different at first. Pink skin and yellow fluff. Grey feathers grow in about four weeks.); Ant young (white and soft) (back: Very different. Ant young are white and soft, with no legs. Grown-up ants feed them.); Flamingo chick (back: Very different at first. Grey and white. Turns pink slowly, from the food the bird eats.); Baby snake (back: Like the parent. A baby snake hatches from an egg, looking like a small snake.)
-- **Printable board: Two mats to draw on a big sheet:** A mat with two matching circles, big and small: 'Looks like a small parent'; A mat with a circle and a star: 'Looks very different'
+- **rules:** Draw the two mats on a big sheet and put them on the floor, a hand apart. The gap between them is for 'A bit of both'. Put the 16 cards in a pile with the baby's name facing up.; Take turns, one player at a time. The grown-up reads the name on the top card. The player puts the card on a mat and says why.; The grown-up reads the back. If the player was right, the player keeps the card.; If the back says 'A bit of both', the card goes in the gap between the two mats, and the player keeps it.; If the player was wrong, the card goes on the right mat and nobody keeps it.; When all 16 cards are played, count your cards. The most cards wins, and a tie is fine. It does not matter if some players had one more turn. If you play alone, try to beat your last count.; Then look at the 'very different' mat. Which babies change the most?
+- **Printable cards: 16 baby animal cards to cut out:** Kitten (back: Like the parent. A kitten looks like a small cat, with a big head and big eyes.); Puppy (back: Like the parent. A puppy looks like a small dog.); Calf (back: Like the parent. A calf looks like a small cow, with long legs.); Baby elephant (back: Like the parent. A baby elephant has a short trunk and a hairy head.); Baby gecko (back: Like the parent. A baby gecko hatches looking just like a tiny grown-up gecko.); Baby crocodile (back: Like the parent. A baby crocodile hatches from an egg, looking like a small crocodile.); Human baby (back: A bit of both. A baby has the same parts as a grown-up, but a big head and short legs.); Duckling (back: A bit of both. A duckling has the same shape as a duck, but soft yellow fluff, not feathers.); Tadpole (back: Very different. A tadpole has a tail and no legs, and lives in water. Grows up into a frog.); Caterpillar (back: Very different. A caterpillar has no wings. Grows up into a butterfly or a moth.); Maggot (back: Very different. A maggot has no legs and no wings. Grows up into a fly.); Silkworm (back: Very different. A silkworm is a caterpillar. Grows up into a silk moth.); Pigeon chick, just hatched (back: Very different at first. Pink skin and yellow fluff. Grey feathers grow in about four weeks.); Ant young (white and soft) (back: Very different. Ant young are white and soft, with no legs. Grown-up ants feed them.); Flamingo chick (back: Very different at first. Grey and white. Turns pink slowly, from the food the bird eats.); Baby snake (back: Like the parent. Many baby snakes hatch from eggs, looking like small snakes.)
+- **Printable board: Two mats to draw on a big sheet:** Mat 1: draw a big circle and a small circle of the same shape. Write 'Looks like a small copy of the parent'.; Mat 2: draw a big circle and a small star. Write 'Looks very different from the parent'.
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 16 cards. 2. Draw the two mats on a big sheet. 3. Mix the cards and put them face down.  
+  *Parent does:* 1. Cut out the 16 cards. 2. Draw the two mats on a big sheet. 3. Put the cards in a pile with the names facing up.  
   *Parent says:* Each card is a baby animal. This mat is for babies who look like small copies of their parents. This mat is for babies who look very different.  
   *Child mode:* Look at the two mats. One is for babies like their parents. One is for babies who look very different.
 - **s2 (9 min)**  
@@ -175,14 +175,14 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   *Parent says:* What does this baby look like? What does the grown-up look like? Are they alike?  
   *Child mode:* Hear the baby's name. Is the baby like the parent? Put the card on a mat. Say why.
   - Ask: Why does the maggot go on the 'very different' mat? (good: A maggot has no wings, but a fly has wings.; A maggot has no legs.)
-  - Note: Human baby and duckling are a bit of both. Let your child decide and explain.
+  - Note: Human baby and duckling are a bit of both, and their backs say so. Let your child decide first and explain.
 - **s3 (3 min)**  
   *Parent does:* Look at the 'very different' mat together. Ask what these babies do as they grow up.  
   *Parent says:* All these babies look very different from their parents. What happens to them as they grow up?  
   *Child mode:* Look at the babies who are very different. What happens when they grow up?
   - Check: Which baby looks most like the parent? → **Kitten**
 ### g2 · Who Carries the Baby? (12 min)
-- **rules:** Each player has a soft toy, or a rolled-up hand towel, as the baby.; The reader reads the front of a card: 'How does a mother cat carry her baby?'; Everyone shows how they think that parent carries the baby.; The reader reads the back. Everyone does it the right way.; Play until all the cards are read. Then a new player becomes the reader.
+- **rules:** Each player who acts has a soft toy, or a rolled-up hand towel, as the baby.; The reader reads the front of a card, for example 'A mother cat'. Then the reader asks, 'How does she carry her baby?'; Everyone shows how they think that parent carries the baby.; The reader reads the back. Everyone does it the right way.; Play until all 10 cards are read. Then swap the reader and play again if you like.
 - **Printable cards: 10 animal parent cards for the reader:** A mother cat (back: She carries her kitten gently in her mouth, by the loose skin on the back of the neck. Pinch the toy gently behind the neck with two fingers, like a cat's mouth.); A mother monkey (back: Her baby holds on tight to her belly while she climbs. Hold the toy against your tummy and walk on all fours.); A mother scorpion (back: Her babies ride on her back. Put the toy on your back and crawl slowly.); A seahorse father (back: He carries the eggs in a pouch on his belly until they hatch. Tuck the toy inside the front of your shirt.); An emperor penguin father (back: He keeps the egg on his feet, under a warm fold of his belly, for about two months. Put the toy on your feet and shuffle.); A mother mugger crocodile (back: She carries her hatchlings to the water in her mouth, very gently. Hold the toy in both hands like jaws, and walk slowly.); A mother kangaroo (back: Her baby lives in a pouch on her belly. Hold the toy in front of your tummy and hop.); A human mother or father (back: Many carry their baby in their arms, in a sling or tied in a saree. Rock the toy gently in your arms.); A mother elephant (back: She does not carry her calf. The calf walks close under her belly, and the aunts walk around them. Walk slowly with the toy between your feet.); A mother olive ridley turtle (back: She lays her eggs in the sand and goes back to the sea. The babies hatch and go to the sea alone. Put the toy down and walk away.)
 - **s1 (2 min)**  
   *Parent does:* Give each player a soft toy or a rolled-up towel. Mix the cards.  
@@ -192,9 +192,9 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   *Parent does:* Read each card. Let everyone act. Then read the back and act it the right way together.  
   *Parent says:* How does a seahorse father carry his babies? Show me. Why do you think so?  
   *Child mode:* Listen. Show how this parent carries the baby. Then say why.
-  - Ask: Which of these parents were fathers? (good: The seahorse and the penguin.; The seahorse father carries the eggs in a pouch.)
+  - Ask: Which of these parents were fathers? (good: The seahorse and the penguin.; A human father can carry a baby too.)
 - **s3 (2 min)**  
-  *Parent does:* Ask about the turtle card.  
+  *Parent does:* 1. Read the turtle card again and talk about the turtle. 2. Ask who carries the eggs in a seahorse family.  
   *Parent says:* The turtle mother left her eggs. How do the babies manage alone?  
   *Child mode:* The turtle babies are alone. How do they find the sea?
   - Note: Olive ridley hatchlings crawl towards the brightest sky, which is usually over the sea. Lights on the beach can lead them the wrong way.
@@ -204,17 +204,17 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 ### e1 · Heads Tall: is a baby shaped like a small grown-up? (25 min)
 - **question:** Is a baby shaped like a small grown-up? How many of their own heads tall are a grown-up, a child and a baby?
 - **predict:** Guess first. How many heads tall is a grown-up? How many heads tall are you? And a baby? Will all three be the same number? Why do you think so?
-- **fair test:** We measure every person the same way. The head strip goes from the chin to the top of the head. The height goes from the floor to the top of the head, with no chappals on, standing straight. Each person is measured with a strip of their own head.
+- **fair test:** We measure every person the same way. The head strip goes from the chin to the top of the head. The height goes from the floor to the top of the head, with no chappals on, standing straight. Each person is measured with a strip of their own head. The baby is measured from a photo, so the answer is only close, not exact.
 - **record:** Draw three people in a row: the baby, you and the grown-up. Under each one, write how many heads tall they are.
 - **results table:** Who | My guess: how many heads tall | What we found: how many heads tall
 - **s1 (3 min)**  
-  *Parent does:* 1. Ask your child to guess how many heads tall a grown-up is, a child is, and a baby is. 2. Write the three guesses down.  
+  *Parent does:* 1. Ask your child to guess how many heads tall a grown-up is, a child is, and a baby is. 2. Write the three guesses down for your child.  
   *Parent says:* Imagine we stack your head on top of itself, again and again, until we reach your feet. How many heads tall are you? And me? And a baby? Why do you think so?  
   *Child mode:* Guess. How many heads tall is a grown-up? And you? And a baby? Why?
   - Ask: Will the baby, you and the grown-up be the same number of heads tall? (good: Yes, because a baby is just small.; No, because a baby has a big head.)
   - Note: Most children guess the same number for everyone, or guess the grown-up has more heads because they are bigger. Any guess is fine. Write it down and say nothing yet.
 - **s2 (6 min)**  
-  *Parent does:* 1. The grown-up sits down. 2. Lay the book flat on top of their head. 3. Your child holds a paper strip upright beside the face, with the end at the chin. 4. Mark the strip where it meets the book. 5. Cut the strip at the mark. 6. Write 'Amma' or the grown-up's name on it.  
+  *Parent does:* 1. The grown-up sits down. 2. Lay the book flat on top of their head. 3. Your child holds a paper strip upright beside the face, with the end at the chin. 4. Mark the strip where it meets the book. 5. Cut the strip at the mark. 6. Write the grown-up's name on it.  
   *Parent says:* This strip is exactly as long as my head, from chin to top. Now we have a head ruler.  
   *Child mode:* Hold the strip by the face. Start at the chin. Mark the top of the head. Cut it.
   - Note: The book makes the top of the head easy to see. Keep the strip straight up and down, not along the curve of the face.
@@ -231,12 +231,12 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   - Ask: How many of your own heads tall are you? (good: About 6.; Less than the grown-up.)
   - Note: A child of 6 usually comes out about 5 and a half to 6 head strips tall.
 - **s5 (4 min)**  
-  *Parent does:* 1. Look at the newborn baby picture. 2. Lay a small paper strip from the baby's chin to the top of the head. Mark it and cut it. 3. Step it from the top of the head to the heels, and count.  
-  *Parent says:* This baby was drawn just the shape of a real newborn. Let's measure the baby the same way. How many heads long is the baby?  
+  *Parent does:* 1. Open the baby photo on the phone, or hold the printed photo. 2. Hold a paper strip against the baby's head. Mark the chin and the top of the head, and cut the strip. 3. Step it from the top of the head to the heels, and count.  
+  *Parent says:* This is a photo of a real newborn baby. Let's measure the baby the same way. How many heads long is the baby?  
   *Child mode:* Make a tiny strip for the baby's head. Step it along the baby. Count.
   - Ask: How many heads long is the baby? (good: About 4.; 4 heads.)
   - Ask: The grown-up was about 7 heads. The baby was about 4. What does that tell you? (good: The baby's head is big for the body.; The baby's legs are short.; A baby is a different shape from a grown-up.)
-  - Note: If you use a real baby photo, choose one where the baby lies straight. A curled-up baby will measure shorter. The claim is: a baby is a different shape from a grown-up, with a bigger head and shorter legs.
+  - Note: Choose a photo where the baby lies fairly straight. A baby with curled legs measures shorter, so any answer from 3 to 5 is fine: it still shows fewer heads than the grown-up. The claim is: a baby is a different shape from a grown-up, with a bigger head and shorter legs.
   - Check: Who had the biggest head for their body? → **The baby**
 
 ## Activities
@@ -246,7 +246,7 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   *Parent does:* Describe each baby, one at a time, without saying the animal's name. Your child draws the grown-up they think the baby becomes. 1. 'This baby is a small wriggling swimmer with a tail and no legs.' 2. 'This baby crawls on leaves and eats them all day.' 3. 'This baby is fluffy and yellow, with webbed feet.' 4. 'This baby is white and wriggly, with no legs, and lives in old fruit.'  
   *Parent says:* Listen to this baby. What will the baby look like when they grow up? Draw the grown-up.  
   *Child mode:* Listen to the baby. Draw the grown-up you think they become.
-  - Note: The four babies are a tadpole (frog), a caterpillar (butterfly or moth), a duckling (duck) and a maggot (fly). The last two are hard. Any guess is fine.
+  - Note: The four babies are a tadpole (frog), a caterpillar (butterfly or moth), a duckling (duck) and a maggot (fly). The maggot is the hardest. Any guess is fine.
 - **s2 (4 min)**  
   *Parent does:* Say what each baby really grows up into. Your child draws an arrow from the baby to the grown-up, and draws the baby if they like.  
   *Parent says:* The wriggling swimmer with a tail is a tadpole. A tadpole grows into a frog. Were you right? Which baby surprised you most?  
@@ -282,14 +282,13 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   *Child mode:* Lie down straight. Count how many string babies fit beside you.
   - Note: A child of 6 is usually a little more than two string babies long, about 110 to 120 centimetres.
 - **s3 (2 min)**  
-  *Parent does:* Ask what part of your child grew the most.  
-  *Parent says:* You grew more than two newborns long. Which part of you do you think grew the most?  
-  *Child mode:* Which part of you grew the most? Your head, or your legs?
-  - Ask: Which part grew the most? (good: My legs.; My legs, like in the head strip test.)
+  *Parent does:* Ask whether your child's head grew as much as the rest of their body.  
+  *Parent says:* You are now more than two newborns long. Did your head grow that much too? Think about the head strips.  
+  *Child mode:* You are more than two string babies long now. Did your head grow that much too?
+  - Ask: Did your head grow as much as the rest of you? (good: No. My legs grew more, like in the head strip test.; No. A baby's head is already big.)
 
 ## Projects
 ### p1 · The Banana Jar: watch fruit fly babies grow (25 min, 12 days)
-- **safety:** Wash hands after touching the jar. At the end, a grown-up opens the jar outside, or on the balcony.
 - **record:** Draw the jar on day 4, day 7 and day 10. Then draw the four stages in a circle.
 - **schedule:** day 1: Put the banana in the open jar on the kitchen counter. When you see a few small flies inside, cover the jar with cloth. (6 min); day 4: Look closely at the banana. Can you see tiny white wrigglers? (3 min); day 7: Look for small brown cases on the side of the jar. Draw what you see. (4 min); day 10: Look for new flies inside the jar. Count them. (4 min); day 12: Draw the whole story: fly, maggot, brown case, fly. A grown-up lets the flies go outside. (8 min)
 - **s1 (6 min)**  
@@ -309,6 +308,7 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   *Parent says:* Where did all these new flies come from? Nobody put them in the jar.  
   *Child mode:* Count the new flies. Where did they come from? Draw the whole story.
   - Ask: Where did the new flies come from? (good: From the maggots.; The first flies laid eggs, and the eggs became maggots, and the maggots became flies.)
+  - Note: If it is cool and there are no new flies by day 12, wait a few more days before you decide. After you let the flies go, wash your hands and rinse the jar. Do not eat the banana from the jar.
   - Check: What is a maggot? → **A baby fly**
   - Wait: Come back on days 10 and 12.
 
@@ -343,7 +343,7 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 3. (draw) Draw yourself as a baby, and yourself now. Make the baby's head the right size for the baby's body.  
    **Answer:** A baby with a big head, about a quarter of the body, and short legs. A child now with a smaller head for the body, and longer legs.. *Why:* A strong drawing shows that the baby's head is big for the body, and that the legs grow the most.
 4. (mcq) In the head strip test, who was the most head strips tall?  
-   Options: The grown-up / The child / The baby picture  
+   Options: The grown-up / The child / The baby photo  
    **Answer:** The grown-up. *Why:* The grown-up was about 7 head strips tall, the child about 6 and the baby about 4. As we grow up, our legs grow much more than our head.
 5. (truefalse) Every kind of animal has young. Humans do too.  
    **Answer:** True. *Why:* True. Every kind of animal has young, and humans are animals.
@@ -352,12 +352,12 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 7. (order) Put the pigeon pictures in order, from first to last.  
    **Answer:** ['Two white eggs in a nest', 'A pink chick with yellow fluff', 'A chick with grey feathers poking out', 'A grey pigeon flying']. *Why:* First the eggs. Then the chick hatches, pink with yellow fluff. Grey feathers grow. After about four weeks, the young pigeon flies.
 8. (odd) Which baby does NOT drink milk from their mother?  
-   Options: Kitten / Calf / Chick / Puppy  
+   Options: Kitten / Calf / Hen's chick / Puppy  
    **Answer:** 2. *Why:* A hen's chick does not drink milk. Kittens, calves and puppies drink their mother's milk. Pigeons are different again: both pigeon parents make a milk in their throat for their chicks.
 9. (write) Say it to a grown-up, who writes it down: a tadpole looks nothing like a frog. How can we know that a tadpole is a baby frog?  
    **Answer:** We can watch a tadpole grow. The tadpole grows legs, loses the tail and becomes a frog. Or we can see frog eggs hatch into tadpoles.. *Why:* A strong answer says we find out by watching: we see the tadpole change, or see where tadpoles come from.
-10. (perspective) Revathi and Ishita, two girls in Kochi, see two pink chicks with yellow fluff in a pigeon nest.  
-   **Answer:** Ishita is right: the parents feed the chicks, and in a few weeks grey feathers grow. But Revathi is right that the chicks look nothing like grey pigeons yet.. *Why:* A strong answer says what to watch (who feeds the chicks, and what colour the feathers grow), and is fair to both girls.
+10. (perspective) Sowmya and Ritu, two girls in Class 1, look at a photo of a newborn baby and a photo of a grown-up.  
+   **Answer:** Ritu is right: a baby is about 4 heads long and a grown-up about 7. But Sowmya is right that a baby has the same parts: two eyes, two arms and two legs.. *Why:* A strong answer uses the head strips to measure, and is fair to both girls.
 ### How Babies Grow and Who Cares for Them (stretch) (stretch, 10 questions)
 1. (mcq) A calf can stand within about an hour of being born. A human baby takes about a year to walk. Why might a calf need to stand so soon?  
    Options: To follow the mother and the herd, and keep safe / Because calves don't like lying down / To play with other calves  
@@ -368,8 +368,8 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
    **Answer:** False. *Why:* False. Pigeon fathers sit on the eggs and feed the chicks. Seahorse fathers carry the eggs. Many human fathers look after their babies.
 4. (draw) Here is a silkworm, eating a mulberry leaf. Draw what the silkworm will grow into.  
    **Answer:** A moth with wings: the silk moth.. *Why:* A silkworm is the young of a silk moth. The silkworm spins a case of silk, changes inside it, and comes out as a moth with wings.
-5. (write) Say it to a grown-up, who writes it down: in the head strip test, a grown-up was about 7 heads tall, a child about 6 and a baby about 4. As a person grows up, what grows more: the head or the legs?  
-   **Answer:** The legs grow more. The head grows only a little, so the number of heads tall gets bigger.. *Why:* A strong answer uses the numbers: more heads tall means the rest of the body grew more than the head.
+5. (write) Say it to a grown-up, who writes it down: a baby crow has just hatched from her egg. What will the crow parents do for the baby in the first week?  
+   **Answer:** They feed the baby, keep the baby warm under them, and keep the baby safe from cats and other danger.. *Why:* A strong answer gives two or three jobs that parents do and says why the baby cannot do them alone yet.
 6. (sort) Sort the babies: hatched from an egg, or born?  
    **Answer:** baby gecko → Hatched from an egg; chick → Hatched from an egg; tadpole → Hatched from an egg; puppy → Born; calf → Born; human baby → Born. *Why:* Geckos, hens and frogs lay eggs, and the babies hatch. Dogs, cows and humans grow their babies inside the mother's body, and the babies are born.
 7. (count) A cat has 3 kittens. A hen has 5 chicks. How many babies are there in all?  
@@ -446,20 +446,19 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 
 ## Jokes
 - What do you call a baby cow who won't stop asking questions? *A calf-ul of questions!*
-- Why did the tadpole feel lonely? *Because he was a little un-frog-gettable!*
+- Where do tadpoles go to change into frogs? *The croak-room!*
 - What did the mother pigeon say to her chick? *Stop being so coo-rious!*
 - Why was the caterpillar not worried about growing up? *She knew things would turn out beautiful!*
-- What do baby fruit flies say on their birthday? *Time flies!*
-- Why did the kitten sit on the clock? *To grow up on time!*
-- What do you call a baby elephant in a hurry? *A trunk on legs!*
-- Why did the duckling cross the road? *To follow her mother, of course!*
-- How does a baby seahorse say thank you? *Thanks, Appa, for the ride in your pocket!*
+- What is a kitten's favourite colour? *Purr-ple!*
+- What do you call a puppy that can do magic? *A labracadabrador!*
+- What do ducklings watch on TV? *Duck-umentaries!*
+- Why did the chick go to school? *To get egg-ucated!*
 
 ## Connected maths
-- In the head strip test, Amma was 7 head strips tall. Kavya was 6. How many more head strips tall was Amma? **1 more head strip.**. 7 take away 6 leaves 1. Amma's legs and body have grown more, so she is more heads tall. (queues `math.addition-subtraction.word-problems.L1`)
+- In the head strip test, a grown-up was 7 head strips tall. A child was 6. How many more head strips tall was the grown-up? **1 more head strip.**. 7 take away 6 leaves 1. The grown-up's legs and body have grown more than the head, so the grown-up is more heads tall. (queues `math.addition-subtraction.word-problems.L1`)
 - Put these in order, from fewest heads tall to most: the grown-up (7), the baby (4), the child (6). **Baby 4, child 6, grown-up 7.**. 4 is less than 6, and 6 is less than 7. The older the person, the more heads tall, because the legs keep growing. (queues `math.number-sense.comparing-ordering.L1`)
 - A street dog had 6 puppies. An elephant had 1 calf. How many more babies did the dog have? Which mother can give each baby more time? **5 more babies. The elephant mother can give her one calf more time.**. 6 take away 1 is 5. With only one calf, the elephant mother, the aunts and the herd can care for that calf for years. (queues `math.number-sense.comparing-ordering.L1`)
-- On day 10, Meena looked at her banana jar. She counted 3 maggots, 4 brown cases and 5 flies. Make a tally. Which was there most of? **Flies, with 5.**. Maggots: 3 marks. Brown cases: 4 marks. Flies: 5 marks. By day 10, many maggots had already turned into cases, and many cases into flies. (queues `math.data.sorting-and-tallies.L1`)
+- On day 10, a girl called Meena looked at her banana jar. She counted 3 maggots, 4 brown cases and 5 flies. Make a tally. Which was there most of? **Flies, with 5.**. Maggots: 3 marks. Brown cases: 4 marks. Flies: 5 marks. By day 10, many maggots had already turned into cases, and many cases into flies. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Little Ones Grow (sci.animals.L1): Topic-level song for Animals L1
@@ -474,11 +473,11 @@ Little Ones Grow (sci.animals.L1): Topic-level song for Animals L1
 
 ## Warm-up
 - What is the young of a cat called? → A kitten.
-- What does a tadpole grow up into? → A frog.
+- What is the young of a hen called? → A chick.
 - Name a baby who looks very different from the parent. → A tadpole, a caterpillar, a maggot or a silkworm.
-- About how many heads long is a newborn baby? → About 4.
-- Which part of you grew the most since you were a baby? → My legs.
-- Who feeds a pigeon chick? → Both the mother and the father.
+- Name an animal that hatches from an egg. → A hen, a pigeon, a gecko, a crocodile or a frog.
+- Is a puppy born, or does a puppy hatch from an egg? → A puppy is born.
+- Where does a baby pigeon grow before hatching? → Inside an egg, in a nest.
 
 ## Plan
 - Start options: intro, e1, story, g1, a1, cards

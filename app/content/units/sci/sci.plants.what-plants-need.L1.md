@@ -22,19 +22,19 @@
 ### Plants need water · *defined*
 **Definition:** Every plant needs water to live and grow. A dry seed only starts to sprout once they soak up water.
 
-A plant drinks water through their roots. The water fills the plant and keeps the stems and leaves firm. When a plant is short of water, they wilt: the leaves droop and go soft. A dry seed stays still for months. Give the seed water, and they swell and start to sprout. But too much water is not good either. Roots that sit in water for days can rot.
+A plant drinks water through their roots. The water keeps the stems and leaves firm. Without water they wilt: the leaves droop and go soft. A dry seed waits for months, and starts to sprout once they soak up water. Too much water is not good either, because roots that sit in water for days can rot.
 - e.g. Methi seeds on a dry plate stay just as they are. On a wet plate, they sprout in a day or two.
 - e.g. A tulsi plant wilts on a hot day without water, and stands up again after a drink.
 - e.g. Rice fields in Thanjavur and Kerala are kept full of water while the young rice plants grow.
 ### Plants need light · *defined*
 **Definition:** Green plants make their own food in their leaves, using light, air and water.
 
-Humans and other animals eat food. Plants make their own food, in their green leaves, and they need light to do it. A seed has a little store of food inside. So a sprout can grow for a few days in the dark, using that store. But the sprout comes up yellow and thin. When the store runs out, a plant in the dark grows weak and droops. A plant in the light keeps on making food, and keeps on growing.
+Humans and other animals eat food. Plants make their own food in their green leaves, and they need light to do it. A seed has a little food stored inside, so a sprout can grow for a few days in the dark. But they come up yellow and thin, and without light they grow weak.
 - e.g. Methi under an upturned bowl sprouts, but comes up yellow and thin.
 - e.g. The inside leaves of a cabbage grow in the dark and are pale.
 - e.g. House plants grow best near a window.
 ### A sprout makes their green in the light · *debated*
-The green in a leaf is made by the plant. Methi, like most flowering plants, makes their green only when they sense light. In the dark, a methi sprout stays yellow and stretches up tall. Put the yellow sprout in the light, and within a day the sprout turns green. Plants have light sensors in their leaves, stems and roots, so they feel the light and answer it. Scientists agree that light sets this off. They argue about how to describe what the plant does.
+The green in a leaf is made by the plant. Methi makes their green only when they sense light. In the dark a sprout stays yellow and stretches tall. Put it in the light, and within a day it turns green. Scientists agree that light sets this off. They argue about how to describe what the plant does.
 - e.g. Yellow methi sprouts from under the bowl turn green within a day on the windowsill.
 - e.g. Moong sprouts sold in a closed packet are white and yellow, and turn green if left in the light.
 - e.g. Farmers tie leaves over a cauliflower so the white part stays white.
@@ -43,7 +43,7 @@ The green in a leaf is made by the plant. Methi, like most flowering plants, mak
 
 ## Mostly agreed
 - Plants need water to live and grow. *How we know:* Seeds without water do not sprout. Plants without water wilt and, after many days, dry up. Farmers everywhere water their crops or plant them when the rains come.
-- Green plants need light to make their food. *How we know:* Plants kept in the dark grow yellow and weak, and in the end they die. Plants in the light keep growing. Scientists have tested this in thousands of experiments.
+- Green plants need light to make their food. *How we know:* Plants kept in the dark grow yellow and weak, and in the end they die. Plants in the light keep growing. Scientists have tested this in many experiments.
 - Plants make their green colour in the light. *How we know:* Sprouts of methi, moong and many other plants grow yellow in the dark and turn green within a day when light reaches them.
 
 ## How we found out
@@ -70,9 +70,9 @@ We have seen methi grow yellow in the dark and green in the light. Now we ask wh
 
 - *who am i:* Your body senses light too. Your eyes see it, and your skin slowly turns darker in strong sun.
 - *what is life:* Being alive means sensing what is around you and answering it. The methi sensed the light and made their green.
-- *what is this world:* The same Sun lights the methi, the crow and you. Almost all the food on Earth is made by plants, using that light.
+- *what is this world:* The same Sun lights the methi, the crow and you. Nearly all the food we eat comes from plants, which use that light.
 
-One Sun shines on everything. The methi meets that light and turns green. Your eyes meet the same light and see colours, and your skin meets it and slowly darkens. One light, and many living beings, each answering in their own way.
+The Sun lights the methi, and the methi answers by turning green. The Sun lights your eyes, and you answer by seeing colours. It lights your skin, and your skin slowly darkens. Each of us senses the light and answers it in our own way.
 
 - **Rig Veda 1.115.1:** The Sun is the self of all that moves and all that stays still. (Plants stay in one place, yet they grow, turn green and make food with the Sun's light. Humans and other animals, who move, eat what plants make.)
 - **Thirukkural 16, by Thiruvalluvar:** Unless drops of rain fall from the sky, not even a blade of green grass will be seen. (Our dry plate showed this. With no water, the methi seeds did not sprout at all.)
@@ -88,7 +88,7 @@ One Sun shines on everything. The methi meets that light and turns green. Your e
 - *deep:* The yellow methi sprouts turned green in the light. Who made the green? (hint: Nobody painted the sprouts. Think about what changed, and what stayed the same.)
 - *deep:* How does a sprout under a bowl know there is no light? (hint: Plants have light sensors all over their bodies. You have light sensors too. Where are yours?)
 - *big:* We need food, and plants make food. What would we eat if there were no sunlight? (hint: Think about rice, dal, bananas and milk. Where did each one come from?)
-- *big:* Your skin gets darker in strong sun, and methi turns green. Are they alike? (hint: Both happen slowly, after the light comes. Both are a body answering the light.)
+- *big:* Why do the leaves of a plant on a shelf lean towards the window? (hint: Think about where the light comes from. What does the plant need from the light?)
 
 ## Story: The Red Bucket on the Balcony
 *Lakshmi, Kannan and Paati are made up. Methi sprouts grown in the dark really are yellow, and really turn green within about a day in the light.*
@@ -141,26 +141,26 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 
 ## Games
 ### g1 · What Does Methi Need? (15 min)
-- **rules:** Put the two baskets on the floor. Mix the cards and put them face down.; Take turns. Turn over the top card and say what is on it.; Put the card in the green basket or the grey basket. Say why.; The grown-up reads the back of the card. If you were right, keep the card.; If you were wrong, the card goes to the bottom of the pile, to try again later.; When all the cards are kept, count your cards. Everyone who sorted a card well has helped the methi grow.
-- **Printable cards: 14 cards to cut out:** Sunlight through a window (back: Methi needs this. Plants make their food using light.); A spoon of water (back: Methi needs this. Seeds need water to sprout, and plants need water to grow.); Rain falling (back: Methi needs this. Rain is water for plants.); A bright lamp (back: This helps. A bright lamp close by can give light to a plant, though sunlight is stronger.); Air around the plant (back: Methi needs this. Plants use air to make food, and their roots need air too.); A packet of sugar (back: Not needed. Plants make their own sugar in their leaves. We do not have to feed them sugar.); A glass of milk (back: Not needed. Milk is food for young mammals, not for plants.); A toy car (back: Not needed. A plant has no use for a toy car.); An upturned steel bowl over the plant (back: Not good. The bowl blocks the light, and the sprouts come up yellow.); A dark cupboard (back: Not good. In the dark, a plant cannot make food.); A puddle that never dries (back: Too much. Roots in soggy soil for days can rot. Damp is just right.); A dry, cracked pot (back: Not good. A plant in dry soil wilts.); A plate of biscuits (back: Not needed. Plants make their own food.); A watering can (back: This helps. A watering can gives the plant water.)
-- **Printable board: Two baskets to draw on a big sheet:** A green basket with a sun and a water drop on it: 'Methi needs this'; A grey basket with a cross on it: 'Not needed, or not good'
+- **rules:** Put the two labels on the floor, a little apart. Mix the 14 cards and put them face down in a pile.; Take turns. The grown-up turns over the top card and reads the front aloud. Think: does the methi need this?; Put the card on the green label or the grey label, and say why.; The grown-up reads the back. If you were right, you score 1 point and the card stays there. If you were wrong, the grown-up moves the card to the right label and nobody scores.; The game ends when the pile is finished. Count your points. The most points wins; if it is a tie, everyone wins. With one player, see how many you got right.
+- **Printable cards: 14 cards to cut out:** Sunlight through a window (back: Green basket. Methi needs this. Plants make their food using light.); A spoon of water (back: Green basket. Methi needs this. Seeds need water to sprout, and plants need water to grow.); Rain falling (back: Green basket. Methi needs this. Rain is water for plants.); A bright lamp (back: Green basket. Light from a bright lamp also works, though sunlight is stronger.); Air around the plant (back: Green basket. Methi needs this. Plants use air to make food, and their roots need air too.); A packet of sugar (back: Grey basket. Not needed. Plants make their own sugar in their leaves. We do not have to feed them sugar.); A glass of milk (back: Grey basket. Not needed. Milk is food for young mammals, not for plants.); A toy car (back: Grey basket. Not needed. A plant has no use for a toy car.); An upturned steel bowl over the plant (back: Grey basket. Not good. The bowl blocks the light, and the sprouts come up yellow.); A dark cupboard (back: Grey basket. Not good. In the dark, a plant cannot make food.); A puddle that never dries (back: Grey basket. Too much. Roots in soggy soil for days can rot. Damp is just right.); A dry, cracked pot (back: Grey basket. Not good. A plant in dry soil wilts.); A plate of biscuits (back: Grey basket. Not needed. Plants make their own food.); A watering can (back: Green basket. This gives the plant the water they need.)
+- **Printable board: 2 basket labels to cut out:** GREEN BASKET: Methi needs this. (Draw a sun and a water drop.); GREY BASKET: Not needed, or not good. (Draw a cross.)
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 14 cards. 2. Draw a green basket and a grey basket on a big sheet. 3. Mix the cards and put them face down.  
-  *Parent says:* This game is about what a plant needs. The green basket is for things the methi needs. The grey basket is for things they don't need.  
-  *Child mode:* Look at the two baskets. Green is for what methi needs. Grey is for what methi does not need.
+  *Parent does:* 1. Cut out the 14 cards and the 2 labels. 2. Put the labels on the floor. 3. Mix the cards and put them face down.  
+  *Parent says:* This game is about what a plant needs. The green label is for things the methi needs. The grey label is for things they don't need.  
+  *Child mode:* Look at the two labels. Green is for what methi needs. Grey is for what methi does not need.
 - **s2 (9 min)**  
-  *Parent does:* Take turns. Turn over a card, say the picture, put it in a basket and say why. Read the back aloud.  
-  *Parent says:* What is on your card? Does the methi need it? Why do you think so?  
-  *Child mode:* Turn over a card. Does methi need this? Put it in a basket. Say why.
-  - Ask: Why does the sugar go in the grey basket? (good: Plants make their own sugar.; Plants make their own food, so they don't need us to feed them.)
+  *Parent does:* Take turns. The grown-up reads a card aloud. The child puts it on a label and says why. The grown-up reads the back and gives a point if the child was right.  
+  *Parent says:* What does the card say? Does the methi need it? Why do you think so?  
+  *Child mode:* Listen to the card. Does methi need this? Put it on a label. Say why.
+  - Ask: Why does the packet of sugar go on the grey label? (good: Plants make their own sugar.; Plants make their own food, so they don't need us to feed them.)
 - **s3 (3 min)**  
-  *Parent does:* At the end, pick up the green basket cards. Ask your child to say what they have in common.  
-  *Parent says:* Look at all the cards in the green basket. What do they have in common?  
-  *Child mode:* Look at the green basket. What does methi need?
+  *Parent does:* At the end, look at the cards on the green label together. Ask your child what they have in common.  
+  *Parent says:* Look at all the cards on the green label. What do they have in common?  
+  *Child mode:* Look at the green label. What does methi need?
   - Check: Which one does a plant need? → **Light**
 ### g2 · Green or Yellow? (15 min)
-- **rules:** Each player has a green crayon and a yellow crayon.; The reader mixes the cards and reads one out loud: 'A methi sprout grew…'; Everyone holds up green or yellow at the same time.; The reader reads the back. Everyone who was right gets a point.; Play until all the cards are read. Then a new player becomes the reader.
-- **Printable cards: 12 place cards for the reader:** On a sunny windowsill (back: Green. There is lots of light.); Under an upturned steel bowl (back: Yellow. Steel blocks all the light.); Under an upturned clear glass bowl (back: Green. Light goes through clear glass.); Inside a closed steel dabba (back: Yellow. No light gets in.); In a closed cupboard (back: Yellow. It is dark inside.); On a table under a bright lamp, all day (back: Green. A bright lamp gives light.); Under a clear plastic bag (back: Green. Light goes through clear plastic.); Inside a cardboard shoebox with the lid shut (back: Yellow. Cardboard blocks the light.); On the balcony, in the morning sun (back: Green. There is lots of light.); Under a thick doormat for a week (back: Yellow. The mat blocks the light.); Under a bowl for 4 days, then on the windowsill for 1 day (back: Green. The yellow sprouts turn green within a day in the light.); Under a steel lid with one small hole (back: Mostly yellow, with a little green. A small hole lets in only a little light.)
+- **rules:** Each player has a green crayon and a yellow crayon. One person is the reader (with two people, the grown-up reads).; The reader mixes the cards and reads one out loud, starting 'A methi sprout grew…'. Keep the back hidden from the players.; Everyone holds up green or yellow at the same time.; The reader reads the back. Everyone who was right scores 1 point.; The game ends when all 12 cards are read. The most points wins; if it is a tie, everyone wins. To play again, someone else is the reader.
+- **Printable cards: 12 place cards for the reader:** On a sunny windowsill (back: Green. There is lots of light.); Under an upturned steel bowl (back: Yellow. Steel blocks all the light.); Under an upturned clear glass bowl (back: Green. Light goes through clear glass.); Inside a closed steel dabba (back: Yellow. No light gets in.); In a closed cupboard (back: Yellow. It is dark inside.); On a table under a bright lamp, all day (back: Green. A bright lamp gives light.); Under a clear plastic bag (back: Green. Light goes through clear plastic.); Inside a cardboard shoebox with the lid shut (back: Yellow. Cardboard blocks the light.); On the balcony, in the morning sun (back: Green. There is lots of light.); Under a thick doormat for a week (back: Yellow. The mat blocks the light.); Under a bowl for 4 days, then on the windowsill for 1 day (back: Green. The yellow sprouts turn green within a day in the light.); Under a thick black cloth (back: Yellow. A thick black cloth blocks the light.)
 - **s1 (2 min)**  
   *Parent does:* Give each player a green and a yellow crayon. Mix the cards.  
   *Parent says:* I will tell you where a methi sprout grew. You guess: will the sprout be green or yellow?  
@@ -174,18 +174,18 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
   *Parent does:* Ask your child to make up one new place card of their own.  
   *Parent says:* Make up a new place for a sprout. Can you trick me?  
   *Child mode:* Make up a new place for a sprout. Ask a grown-up: green or yellow?
-  - Check: A sprout grew in a closed steel dabba. What colour will the sprout be? → **Yellow**
+  - Check: Which of these keeps a methi sprout yellow? → **A shoebox with the lid shut**
 
 ## Experiments
-### e1 · Three Plates of Methi: dry, light and dark (30 min, 6 days)
+### e1 · Three Plates of Methi: dry, light and dark (32 min, 6 days)
 - **question:** Do methi seeds need water to sprout? What happens to methi sprouts that get water but no light?
 - **predict:** Guess first. Which plate will sprout? Which sprouts will be green, and which will not? Why do you think so?
 - **fair test:** All three plates get the same seeds, from one packet, on the same tissue, in the same place. Plate 1 and plate 2 are different only in water. Plate 2 and plate 3 are different only in light.
 - **record:** Draw the three plates on day 5. Colour the sprouts the colour you see. Draw plate 3 again on day 6.
 - **results table:** Plate | Day 2: any sprouts? | Day 5: what colour? | Day 6: after a day in the light
-- **schedule:** day 1: Set up the three plates. Guess what will happen. (10 min); day 2: Look at plates 1 and 2. Add 2 spoons of water to plates 2 and 3. Do not lift the bowl for long. (3 min); day 3: Look at plate 2. Add 2 spoons of water to plates 2 and 3. (3 min); day 5: Lift the bowl. Compare all three plates. Leave plate 3 uncovered on the windowsill. (8 min); day 6: Look at plate 3 again. Have the yellow sprouts changed colour? (5 min)
+- **schedule:** day 1: Set up the three plates. Guess what will happen. (10 min); day 2: Look at plates 1 and 2. Add 2 spoons of water to plates 2 and 3. Lift the bowl only for a moment. (3 min); day 3: Look at plate 2. Add 2 spoons of water to plates 2 and 3. (3 min); day 4: Add 2 spoons of water to plates 2 and 3. Look at plate 2. (3 min); day 5: Lift the bowl. Compare all three plates. Leave plate 3 uncovered on the windowsill. (8 min); day 6: Look at plate 3 again. Have the yellow sprouts changed colour? (5 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Fold a tissue onto each plate. 2. Pour 3 spoons of water on plates 2 and 3. Leave plate 1 dry. 3. Sprinkle one teaspoon of methi seeds on each plate, spread out. 4. Put on the labels.  
+  *Parent does:* 1. Fold a tissue onto each plate. 2. Pour 3 spoons of water on plates 2 and 3. Leave plate 1 dry. 3. Sprinkle one teaspoon of methi seeds on each plate, spread out. 4. Draw a small label for each plate (a crossed-out drop, a sun and a drop, a bowl and a drop) and put it beside the plate.  
   *Parent says:* Here are three plates of methi seeds. Plate 1 stays dry. Plates 2 and 3 get water. Help me spread the seeds out.  
   *Child mode:* Put a tissue on each plate. Wet plates 2 and 3. Keep plate 1 dry. Sprinkle seeds on each plate.
   - Note: Use seeds from one packet for all three plates. The tissue on plates 2 and 3 should be wet but with no puddle.
@@ -193,25 +193,24 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
   *Parent does:* 1. Put all three plates on a bright windowsill. 2. Turn the steel bowl upside down over plate 3, so no light gets in.  
   *Parent says:* Plate 3 goes under the bowl. Now it is dark in there. Plates 1 and 2 stay in the light.  
   *Child mode:* Put the plates by the window. Cover plate 3 with the bowl. Now plate 3 is in the dark.
-  - Note: Choose a bright place out of hot afternoon sun. A steel bowl in strong sun gets hot and can cook the seeds.
+  - Note: Choose a bright place out of hot afternoon sun. A steel bowl in strong sun gets hot and can cook the seeds. Set the bowl flat on the sill, so no light slips in under the edge.
 - **s3 (2 min)**  
-  *Parent does:* Ask your child to guess for each plate, and to say why. Write the guesses down.  
+  *Parent does:* Ask your child to guess for each plate, and to say why. You write the guesses down.  
   *Parent says:* Which plate will sprout? What colour will the sprouts be? Why do you think so?  
   *Child mode:* Guess. Which plate will sprout? Green or not? Why?
   - Ask: Why do you think so? (good: The dry seeds won't grow, because seeds need water.; The ones under the bowl won't grow, because there's no light.; The ones in the light will be green.)
   - Note: Any guess is fine. Many children guess that the seeds under the bowl will not sprout at all. Don't say what will happen.
-- **s4 (3 min)**  
+- **s4 (9 min)**  
   *Parent does:* 1. Look at plates 1 and 2. 2. Add 2 spoons of water to plates 2 and 3. Lift the bowl only for a moment to add the water.  
   *Parent says:* Look closely at plate 1 and plate 2. What has changed?  
   *Child mode:* Look at plate 1. Look at plate 2. What is different? Add water to plates 2 and 3.
   - Ask: What do you see on plate 2? (good: Tiny white roots coming out.; The seeds got bigger.)
-  - Note: Wet methi seeds usually show tiny white roots within one or two days. The dry seeds stay the same. Day 3 is the same: look, then water plates 2 and 3.
-  - Wait: Come back tomorrow, on day 2.
+  - Note: Wet methi seeds usually show tiny white roots within one or two days. The dry seeds stay the same. Days 3 and 4 are the same: look, then water plates 2 and 3. The tissue must stay wet, never dry.
+  - Wait: Come back tomorrow, on day 2. Do the same on days 3 and 4 (3 minutes each day).
 - **s5 (8 min)**  
   *Parent does:* 1. Lift the bowl off plate 3. 2. Put the three plates side by side. 3. Look at the colour and the height of the sprouts on each plate. 4. Draw them. 5. Leave plate 3 uncovered on the windowsill.  
   *Parent says:* Let's lift the bowl. What do you see? How are plate 2 and plate 3 different?  
   *Child mode:* Lift the bowl. Look at plate 3. Look at plate 2. What is different?
-  - Ask: What colour are the sprouts on plate 3? (good: Yellow.; Pale, not green.)
   - Ask: Plates 2 and 3 both got water. So why are they different? (good: Plate 3 was in the dark.; There was no light under the bowl.)
   - Note: Sprouts from the dark are yellow, taller and thinner, and may lean over. If plate 3 has no sprouts, the seeds were too dry or too hot: try again with more water, out of the sun.
   - Check: The sprouts under the bowl had water, but no light. What colour were they? → **Yellow**
@@ -221,8 +220,7 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
   *Parent says:* Yesterday these sprouts were yellow. Look at them now. What happened? Who made the change?  
   *Child mode:* Look at plate 3 again. Are the sprouts still yellow? What changed?
   - Ask: Why did the sprouts turn green? (good: Because they got light.; The methi made the green when the light came.)
-  - Note: Most yellow sprouts turn light green within a day in the light, and greener the day after. The claim is: methi needs water to sprout, and light to turn green.
-  - Think: Nobody painted the sprouts green. Where did the green come from?
+  - Note: Most yellow sprouts turn light green within a day in the light, and greener the day after. If they still look yellow, wait one more day. Methi needs water to sprout, and light to turn green.
   - Wait: Come back on day 6.
 
 ## Activities
@@ -256,16 +254,16 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
   *Parent says:* Look inside. The leaves are wrapped tightly, like a ball. Could the light get in here?  
   *Child mode:* Look inside the cabbage. The leaves are wrapped tight. Can light get in?
   - Note: Cook the cabbage afterwards. Nothing goes to waste.
-  - Check: Why are the inside leaves of a cabbage pale? → **They grew in the dark, wrapped inside**
+  - Check: Which cabbage leaves got the most light while the cabbage grew? → **The outside leaves**
 ### a3 · Light Through or Light Blocked? (10 min)
 - **record:** Draw the things that block the light in one box, and the things that let light through in another box.
 - **s1 (6 min)**  
   *Parent does:* 1. Dim the room. 2. Hold each thing in front of a wall. 3. Shine the torch at it from the other side. 4. Look for light on the wall.  
   *Parent says:* Hold the clear glass in front of the wall. I'll shine the torch. Do you see light on the wall?  
   *Child mode:* Hold one thing up. Shine the torch on it. Is there light on the wall?
-  - Note: The thin cloth lets some light through. That is fine: it is a little of both.
+  - Note: The thin cloth lets some light through. Put it in its own pile: some light. Methi under it would be partly green.
 - **s2 (4 min)**  
-  *Parent does:* Make two piles. Then ask which cover would keep methi sprouts yellow.  
+  *Parent does:* Make two piles, and a small third pile for the cloth. Then ask which cover would keep methi sprouts yellow.  
   *Parent says:* If we put methi under each of these, which ones would make yellow sprouts? Why?  
   *Child mode:* Which ones block the light? Under which ones would methi stay yellow?
   - Ask: Would methi under a clear glass be yellow or green? (good: Green, because the light gets through.)
@@ -280,11 +278,11 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
   *Child mode:* Scatter the seeds on the soil. Press them in. Put the tray by the window.
   - Ask: What will the methi need from us? (good: Water.; Light, so the tray goes by the window.)
 - **s2 (10 min)**  
-  *Parent does:* Each time, sprinkle water so the soil stays damp, not soggy. On day 6, draw the tray.  
+  *Parent does:* Each morning, touch the soil and sprinkle a little water if it feels dry. On days 3, 6 and 9, look closely. On day 6, count the leaves on one sprout and draw the tray.  
   *Parent says:* Feel the soil. Is it damp or dry? How much water should we give?  
   *Child mode:* Touch the soil. Is it dry? Then sprinkle a little water.
-  - Note: Water with a spoon or the gentle-rain bottle from the challenge. A strong pour knocks the small sprouts over.
-  - Wait: Come back on days 3, 6 and 9.
+  - Note: Water with a spoon, or with the gentle-rain bottle if you made one. A strong pour knocks the small sprouts over.
+  - Wait: Come back every morning. Look closely on days 3, 6 and 9.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. A grown-up snips the methi just above the soil. 2. Wash the leaves. 3. Cook them in dal, or in an uttapam or a thepla.  
   *Parent says:* These leaves were made from water, air and sunlight. Now they will be part of our lunch.  
@@ -294,12 +292,13 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 ## Challenges
 ### c1 · A Gentle Rain for Tiny Sprouts (20 min)
 - **problem:** Methi sprouts are tiny and thin. If you pour water from a cup, they fall over. Make a waterer that sprinkles water as gently as light rain.
+- **safety:** A grown-up makes the holes with the pin, with the cap on a table and fingers well away.
 - **your turn:** Now invent your own gentle rain. Draw it, make it, and test it. Did any sprouts fall over?
 - **constraints:** Use only things from home.; Water at least 10 sprouts without knocking any over.
 - **general:** Poke 5 or 6 small holes in the bottle cap. Turn the bottle upside down and squeeze gently.; Dip your fingers in water and flick the drops onto the sprouts.; Use a spoon and let the water drip off the edge.
 - **creative:** Poke tiny holes in the bottom of a plastic cup. Hold the cup over the sprouts and pour water into the cup.; Soak a sponge or a clean cloth and squeeze it gently over the sprouts.; Stand the pot in a plate of water, so the soil drinks from the bottom up.
 - **s1 (5 min)**  
-  *Parent does:* Pour water from a cup onto a plate of wet tissue with a few sprouts or seeds. Watch what happens.  
+  *Parent does:* Pour water from a cup onto wet tissue with some methi sprouts. Use sprouts from the methi test or the methi tray. Watch what happens.  
   *Parent says:* Watch what a big pour does to the tiny sprouts. How could we make the water fall more gently?  
   *Child mode:* Pour water from a cup. What happens to the sprouts? How can you be gentler?
 - **s2 (10 min) · grown-up needed**  
@@ -317,23 +316,23 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 ### Light and Water (core) (core, 10 questions)
 1. (sort) Circle in green the things a plant needs. Cross out the things a plant does not need.  
    **Answer:** water → A plant needs this; sunlight → A plant needs this; sweets → A plant does not need this; a toy → A plant does not need this; air → A plant needs this; milk → A plant does not need this. *Why:* Plants need water, light and air. They make their own food, so they do not need sweets or milk.
-2. (mcq) Remember the three plates of methi? Plate 1 stayed dry. What happened to the seeds on plate 1?  
-   Options: They sprouted green / They stayed dry seeds / They sprouted yellow  
-   **Answer:** They stayed dry seeds. *Why:* Seeds need water to sprout. Without water, the methi seeds stayed just as they were.
+2. (mcq) Remember the three plates of methi? On day 2, what came out of the wet seeds on plate 2?  
+   Options: Tiny white roots / Green leaves / Flowers  
+   **Answer:** Tiny white roots. *Why:* Wet seeds soak up water, swell and put out a tiny white root first. The leaves come later.
 3. (draw) Draw the methi sprouts from under the bowl, and the methi sprouts from the window. Colour them the colours you saw.  
    **Answer:** Tall, thin, yellow sprouts for the bowl. Short sprouts with green leaves for the window.. *Why:* A strong drawing shows both the colour and the shape: the sprouts in the dark are yellow and taller and thinner.
 4. (match) Draw a line from each plant to what they need.  
    **Answer:** A droopy tulsi in dry soil → Water; Yellow sprouts in a cupboard → Light; Dry methi seeds in a jar → Water. *Why:* A plant with droopy leaves and dry soil needs water. Yellow sprouts need light. Dry seeds need water to sprout.
 5. (truefalse) Methi can grow green leaves in a dark cupboard.  
    **Answer:** False. *Why:* False. Methi makes their green only in the light. In a dark cupboard the sprouts come up yellow.
-6. (label) Here are the three plates. Write 1, 2 or 3 under each picture. 1 is dry. 2 is wet in the light. 3 is wet under the bowl.  
+6. (label) First draw your three plates from day 5 (or look at your drawing). Then write 1, 2 or 3 under each. 1 is dry. 2 is wet in the light. 3 is wet under the bowl.  
    **Answer:** 1 under the dry seeds, 2 under the short green sprouts, 3 under the tall yellow sprouts.. *Why:* Dry seeds did not sprout. Wet seeds in the light grew green. Wet seeds in the dark grew yellow.
 7. (write) Say it to a grown-up, who writes it down: plates 2 and 3 both got water. Why were their sprouts different colours?  
    **Answer:** Plate 3 was under the bowl, in the dark. Plate 2 was in the light. Methi makes green only in the light.. *Why:* A strong answer says that light was the only difference between plate 2 and plate 3.
 8. (odd) Which one does NOT help a plant grow?  
    Options: A sunny window / A watering can / A dark cupboard / Rain  
    **Answer:** 2. *Why:* A dark cupboard keeps light away. The sunny window, the watering can and the rain all give the plant something they need.
-9. (order) Put the methi pictures in order, from first to last.  
+9. (order) Put these methi steps in order, from first to last.  
    **Answer:** ['A dry seed', 'A tiny white root comes out', 'Two small leaves open']. *Why:* First the seed soaks up water. Then the root comes out. Then the stem and the first leaves.
 10. (perspective) Two friends in Kochi lift the bowl and see tall yellow methi sprouts.  
    **Answer:** Revathi is closer: on day 6, the yellow sprouts turned green in the light. But Fathima is right that they are weaker: they are thin and some fell over.. *Why:* A strong answer uses the day 6 result, and is fair to both: the sprouts were alive and could turn green, but they were thin and weak.
@@ -341,24 +340,24 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 1. (mcq) Anu, a girl in Class 1, puts methi seeds on wet tissue under a clear glass bowl. What colour will the sprouts be?  
    Options: Green / Yellow / No sprouts at all  
    **Answer:** Green. *Why:* Light goes through clear glass, so the sprouts still get light. They will be green.
-2. (match) Draw a line from each place to the colour of the sprouts that grew there.  
-   **Answer:** On the windowsill → Green; Inside a closed steel dabba → Yellow; Under a clear plastic bag → Green; In a shut shoebox → Yellow. *Why:* Where light gets in, methi makes green. Where no light gets in, the sprouts stay yellow.
+2. (match) Draw a line from each sign to what the plant is short of.  
+   **Answer:** Tall, thin, yellow sprouts → Light; Droopy leaves and dry soil → Water; Pale leaves inside a cabbage → Light; Soft brown roots in soggy soil → Too much water. *Why:* Yellow, thin sprouts and pale leaves mean little light. Droopy leaves and dry soil mean little water. Roots in soggy soil cannot get air.
 3. (sort) Sort these: does light go through, or is the light blocked?  
    **Answer:** a clear glass → Light goes through; a steel plate → Light is blocked; a clear plastic bag → Light goes through; a piece of cardboard → Light is blocked. *Why:* Light passes through clear glass and clear plastic. Steel and cardboard block it, so a sprout under them is in the dark.
 4. (truefalse) The pale leaves deep inside a cabbage are pale because little light reached them.  
    **Answer:** True. *Why:* True. The inside leaves grow wrapped up by the outer leaves. With little light, they make little green.
 5. (draw) Draw a plant who has water but no light. Next to it, draw a plant who has light but no water.  
    **Answer:** A tall, thin, yellow plant in damp soil, in a dark place. A droopy plant with dry soil in the sun.. *Why:* A strong drawing shows the two different signs: no light gives yellow and thin, no water gives droopy and dry.
-6. (write) Say it to a grown-up, who writes it down: your friend wants to grow methi inside a closed cupboard. What would you tell her?  
+6. (write) Say it to a grown-up, who writes it down: a girl in your class wants to grow methi inside a closed cupboard. What would you tell her?  
    **Answer:** The methi will sprout, but they will be yellow and thin. Put them by a window, so they get light and turn green.. *Why:* A strong answer says what will happen in the dark and gives a way to fix it.
-7. (label) Label the parts of this methi sprout: root, stem, leaf.  
+7. (label) Draw a methi sprout. Then label the parts: root, stem, leaf. Write each word, or ask a grown-up to write it.  
    **Answer:** The root is the white part at the bottom. The stem is in the middle. The leaves are at the top.. *Why:* The root takes in water. The stem holds the leaves up. The leaves catch the light.
-8. (count) Count the green sprouts and the yellow sprouts in the picture. Which colour has more?  
-   **Answer:** 5 green and 3 yellow. There are more green sprouts.. *Why:* 5 is more than 3. The green ones grew in the light.
+8. (count) Draw 5 green sprouts and 3 yellow sprouts. Which colour did you draw more of?  
+   **Answer:** There are more green sprouts: 5 is more than 3.. *Why:* 5 is more than 3. A strong answer counts the drawing and says which colour has more.
 9. (order) Put the steps of the three plates test in order.  
-   **Answer:** ['Put the seeds on the plates', 'Wet plates 2 and 3', 'Cover plate 3 with a bowl', 'Lift the bowl and look']. *Why:* First set up the plates, then add the water and the cover, and look at the end.
-10. (write) The yellow sprouts turned green after one day in the light. Nobody painted them. Who made the green? Say your answer to a grown-up.  
-   **Answer:** The methi made the green themselves, when they felt the light.. *Why:* A strong answer says that the plant made the green, and that light was the reason.
+   **Answer:** ['Wet the tissue on plates 2 and 3', 'Put the seeds on the plates', 'Cover plate 3 with a bowl', 'Lift the bowl and look']. *Why:* First wet the tissue and add the seeds, then cover plate 3. Look at the end.
+10. (write) Rina, a girl in Class 1, keeps her methi tray by the window. For a week, the soil stays soggy. What may happen to the roots? What should she do? Say your answer to a grown-up.  
+   **Answer:** The roots may rot, because they cannot get air. She should stop watering until the soil is only damp, and let extra water drain away.. *Why:* A strong answer says roots need air as well as water, and gives a way to fix it.
 11. (mcq) A tulsi plant on the balcony has droopy leaves. The soil is dry and cracked. What does the tulsi need?  
    Options: More light / Water / A blanket  
    **Answer:** Water. *Why:* Droopy leaves and dry soil mean the plant is short of water. A drink will help the leaves stand up again.
@@ -403,7 +402,6 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 ## Applications
 - Farmers water their fields, or sow seeds when the monsoon rains come.
 - In cold, high places like Ladakh, people grow vegetables in greenhouses with big windows, to catch sunlight and warmth.
-- Some farmers tie the leaves over a growing cauliflower, so the white part stays white.
 - Astronauts on the International Space Station grow lettuce under bright lamps, because plants need light.
 
 ## Spotted around us
@@ -423,24 +421,22 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 - Can you find a green vegetable on your plate? Where did the plant get their light?
 - What would happen to the tulsi if nobody watered her for a week?
 - Is it dark under your bed? Would a sprout be green or yellow there?
-- When you come in from the sun, what do your skin and eyes feel?
 
 ## Jokes
-- Why did the methi sprout come out from under the bowl? *To get some sun-shine on their leaves!*
-- What do you call a plant who never gets water? *Thirsty-thirsty!*
+- What did the yellow sprout say when the bowl came off? *Finally, I can turn over a new leaf!*
 - Why was the yellow sprout so tall? *They were stretching up to find the light switch!*
 - What did the sunflower say to the Sun? *You light up my day!*
-- Why did the plant go to the window? *To see the light!*
-- What did the cabbage say to the inside leaves? *Come out of your shell, you look pale!*
-- What is a plant's favourite drink? *Water, every time!*
 - Why did the tulsi put on sunglasses? *Too much sunlight on the balcony!*
 - What did the seed say to the rain? *Thanks, I needed that to wake up!*
+- Knock, knock. Who is there? Lettuce. Lettuce who? *Lettuce in, it is dark out here!*
+- Why did the cabbage win the race? *She was a head!*
+- Which day of the week do thirsty plants like least? *Fry-day, when it is hot and dry!*
 
 ## Connected maths
-- Divya put 10 methi seeds on plate 2. On day 2, 8 of them had sprouted. How many had not sprouted yet? **2 seeds had not sprouted yet.**. 10 seeds take away 8 sprouted seeds leaves 2. Seeds sprout at different times, so the last 2 may sprout tomorrow. (queues `math.addition-subtraction.word-problems.L1`)
+- Divya, a girl in Class 1, counts 10 methi seeds onto a wet plate. On day 2, 8 of them have tiny white roots. How many do not have roots yet? **2 seeds do not have roots yet.**. 10 seeds take away 8 seeds with roots leaves 2. Seeds wake up at different times, so the last 2 may sprout tomorrow. (queues `math.addition-subtraction.word-problems.L1`)
 - On day 5, a green sprout from the window was 3 fingers tall. A yellow sprout from under the bowl was 5 fingers tall. Which sprout was taller? Why do you think so? **The yellow sprout from under the bowl was taller.**. 5 fingers is more than 3 fingers. Sprouts in the dark stretch up tall and thin, as if looking for light. (queues `math.length.comparing-length.L1`)
 - The bowl stayed on plate 3 from day 1 to day 5. How many days is that? **4 days, from the morning of day 1 to the morning of day 5.**. Count on from day 1: day 2, day 3, day 4, day 5. That is 4 jumps, so 4 days. (queues `math.time.daily-time.L1`)
-- Meena sorted the game cards. She had 6 cards in the green basket and 8 cards in the grey basket. Which basket had more cards? **The grey basket had more, with 8 cards.**. 8 is more than 6. There are many things a plant does not need. The things a plant does need are few: light, water and air. (queues `math.number-sense.comparing-ordering.L1`)
+- Meena, a girl in Class 1, sorted the game cards. She had 6 cards in the green basket and 8 cards in the grey basket. Which basket had more cards? **The grey basket had more, with 8 cards.**. 8 is more than 6. A plant needs only a few things: light, water and air. Rain, a lamp and a watering can are ways to give them. (queues `math.number-sense.comparing-ordering.L1`)
 
 ## Song
 Light and Water (sci.plants.L1): Topic-level song for Plants L1

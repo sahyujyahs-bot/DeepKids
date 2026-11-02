@@ -54,7 +54,7 @@
    "description": "Cats have kittens. Cows have calves. Frogs have tadpoles. Humans have babies, because humans are animals too. Some young are born, like puppies, calves and human babies. Some young hatch from eggs, like chicks, baby lizards and baby fish. Either way, every animal comes from parents of their own kind. A cat's kittens always grow up into cats.",
    "examples": [
     "A street dog in your lane may have 5 or 6 puppies at a time.",
-    "A tiny gecko on your wall hatched from an egg as small as a peanut.",
+    "A tiny gecko on your wall hatched from an egg about as big as a pea.",
     "Ants in the kitchen carry their white young from place to place."
    ],
    "perspectives": [],
@@ -79,9 +79,9 @@
    "concept": "A baby is shaped differently from a grown-up",
    "status": "defined",
    "definition": "A newborn human baby is about 4 heads long. A grown-up is about 7 or 8 heads tall. After birth, the legs grow much more than the head.",
-   "description": "A human baby has a big head, big eyes, a short body and short legs. As the child grows, the legs grow fastest. The head grows only a little. So a child of 6 is about 6 heads tall, and a grown-up about 7 or 8. Many other young animals have big heads and big eyes too, like kittens and puppies. But a calf is born with long legs. A calf can stand within about an hour, so they can follow their mother.",
+   "description": "A human baby has a big head, big eyes, a short body and short legs. As the child grows, the legs grow fastest. The head grows too, but much less than the legs. So a child of 6 is about 6 heads tall, and a grown-up about 7 or 8. Many other young animals have big heads and big eyes too, like kittens and puppies. But a calf is born with long legs. A calf can stand within about an hour, so they can follow their mother.",
    "examples": [
-    "In the head strip test, a grown-up was about 7 heads tall, a child about 6, and a baby picture about 4.",
+    "When you measure in the Heads Tall experiment, a grown-up is about 7 heads tall, a child about 6, and a baby photo about 4.",
     "A kitten's head is big for their body. A grown-up cat's head looks small.",
     "A newborn calf stands up on long, wobbly legs soon after birth."
    ],
@@ -92,7 +92,7 @@
   {
    "concept": "How animal parents care for their young",
    "status": "debated",
-   "description": "Many animal parents feed their young, keep them warm and keep them safe. Pigeon mothers and fathers both feed their chicks with a milk they make in their throat. An elephant calf is looked after by the mother, the aunts and the oldest female, who leads the herd. Some fathers do most of the work. A seahorse father carries the eggs in a pouch on his belly. Some parents leave. An olive ridley turtle lays her eggs on a beach in Odisha and goes back to the sea. The babies hatch and find the sea alone. Animal parents feel for their young. A penguin parent finds their own chick among thousands, just by the chick's call. Scientists agree on what parents do. They argue about what parents feel.",
+   "description": "Many animal parents feed their young, keep them warm and keep them safe. Pigeon mothers and fathers both feed their chicks with a milk they make in their throat. An elephant calf is looked after by the mother, the aunts and the oldest female, who leads the herd. Some fathers do most of the work. A seahorse father carries the eggs in a pouch on his belly. Some parents leave. An olive ridley turtle lays her eggs on a beach in Odisha and goes back to the sea. The babies hatch and find the sea alone. Many animal parents know their own young. A penguin parent finds their own chick among thousands, just by the chick's call. Scientists agree on what parents do. They argue about what parents feel.",
    "examples": [
     "Both pigeon parents sit on the eggs, and both feed the chicks.",
     "A mother cat carries her kitten gently by the loose skin on the back of the neck.",
@@ -105,7 +105,7 @@
     },
     {
      "who": "Other scientists",
-     "explanation": "Parents act this way because of hormones, chemical messengers in the body. They describe what parents do, and do not use words like love or worry for other animals."
+     "explanation": "Parents act this way because their bodies tell them to, with chemical messages inside. These scientists describe what parents do, and do not use words like love or worry for other animals."
     }
    ],
    "context": "This card says how animal parents look after their young.",
@@ -115,7 +115,7 @@
  "agreed": [
   {
    "text": "Every kind of animal has young, and young come only from parents of their own kind.",
-   "evidence": "Nobody has ever seen a kitten born to a dog, or maggots grow in a jar that flies could not get into. Scientists have tested this for more than 350 years."
+   "evidence": "Nobody has ever seen a kitten born to a dog, or a calf born to a cat. Every young animal comes from parents of their own kind."
   },
   {
    "text": "Some young look like their parents, and some change their whole body as they grow.",
@@ -156,7 +156,7 @@
   {
    "q": "A caterpillar crawls and a butterfly flies. Are they the same being?",
    "kind": "big",
-   "hint": "The caterpillar never dies. The same body changes inside a case, and comes out with wings."
+   "hint": "Inside the case, the caterpillar's body is built again, with wings. Nobody can say for sure where one being ends and the next begins."
   },
   {
    "q": "You have changed shape since you were a baby. What about you has stayed the same?",
@@ -166,7 +166,7 @@
   {
    "q": "Why does a baby's head start so big?",
    "kind": "deep",
-   "hint": "The brain is inside the head. Think about how much a baby has to learn."
+   "hint": "The brain is inside the head. A baby's brain grows very fast in the first years."
   },
   {
    "q": "A pigeon chick looks nothing like a pigeon at first. How do the parents know the chick is theirs?",
@@ -191,8 +191,8 @@
    "'Those are not pigeons,' said Arul. 'Pigeons are grey. Those are some other bird.'",
    "Nandini was not sure. The chicks did not look like their parents at all. Had another bird left them there?",
    "'Let us find out,' said Ammamma. 'Watch who comes to feed them.'",
-   "Soon the father pigeon landed on the AC box. The chicks lifted their wobbly heads. One chick pushed their beak right inside their father's beak. The father pumped his neck up and down.",
-   "'He is feeding her!' said Nandini. 'But he has no worms in his beak.'",
+   "Soon the father pigeon landed on the AC box. The chicks lifted their wobbly heads. One chick pushed their beak right inside the father's beak. The father pumped his neck up and down.",
+   "'He is feeding the chick!' said Nandini. 'But he has no worms in his beak.'",
    "'Pigeon parents make a milk in their throat,' said Ammamma. 'Both the mother and the father make it. The chicks drink it from inside their beaks.'",
    "'Birds make milk?' said Arul. He opened his mouth so wide that everyone laughed.",
    "Every day, Nandini drew the chicks in her notebook. After a few days, their eyes were open. After two weeks, little grey feathers were poking out, like the tips of paintbrushes. After three weeks, the chicks were almost as big as their parents. They flapped their wings and walked along the AC box.",
@@ -249,7 +249,7 @@
        "b": "Like the parent. A baby elephant has a short trunk and a hairy head."
       },
       {
-       "f": "Baby gecko on the wall",
+       "f": "Baby gecko",
        "b": "Like the parent. A baby gecko hatches looking just like a tiny grown-up gecko."
       },
       {
@@ -258,11 +258,11 @@
       },
       {
        "f": "Human baby",
-       "b": "Like the parent in some ways. A baby has the same parts, but a big head and short legs."
+       "b": "A bit of both. A baby has the same parts as a grown-up, but a big head and short legs."
       },
       {
        "f": "Duckling",
-       "b": "Like the parent in some ways. A duckling has the same shape, but soft yellow fluff, not feathers."
+       "b": "A bit of both. A duckling has the same shape as a duck, but soft yellow fluff, not feathers."
       },
       {
        "f": "Tadpole",
@@ -294,7 +294,7 @@
       },
       {
        "f": "Baby snake",
-       "b": "Like the parent. A baby snake hatches from an egg, looking like a small snake."
+       "b": "Like the parent. Many baby snakes hatch from eggs, looking like small snakes."
       }
      ]
     },
@@ -302,23 +302,24 @@
      "kind": "board",
      "title": "Two mats to draw on a big sheet",
      "items": [
-      "A mat with two matching circles, big and small: 'Looks like a small parent'",
-      "A mat with a circle and a star: 'Looks very different'"
+      "Mat 1: draw a big circle and a small circle of the same shape. Write 'Looks like a small copy of the parent'.",
+      "Mat 2: draw a big circle and a small star. Write 'Looks very different from the parent'."
      ]
     }
    ],
    "rules": [
-    "Put the two mats on the floor. Mix the cards and put them face down.",
-    "Take turns. Turn over the top card. The grown-up reads the name.",
-    "Put the card on a mat. Say why.",
-    "The grown-up reads the back. If you were right, keep the card.",
-    "If you were not sure, put the card between the mats. Some babies are a bit of both.",
-    "When all the cards are played, look at each mat. Which babies change the most?"
+    "Draw the two mats on a big sheet and put them on the floor, a hand apart. The gap between them is for 'A bit of both'. Put the 16 cards in a pile with the baby's name facing up.",
+    "Take turns, one player at a time. The grown-up reads the name on the top card. The player puts the card on a mat and says why.",
+    "The grown-up reads the back. If the player was right, the player keeps the card.",
+    "If the back says 'A bit of both', the card goes in the gap between the two mats, and the player keeps it.",
+    "If the player was wrong, the card goes on the right mat and nobody keeps it.",
+    "When all 16 cards are played, count your cards. The most cards wins, and a tie is fine. It does not matter if some players had one more turn. If you play alone, try to beat your last count.",
+    "Then look at the 'very different' mat. Which babies change the most?"
    ],
    "setup": [
     {
      "art": "A big sheet on the floor with two mats drawn on it, one with a big and a small circle, one with a circle and a star, and a pile of cards beside it.",
-     "caption": "1. Draw the two mats. Mix the cards."
+     "caption": "1. Draw the two mats. Put the cards in a pile, names up."
     },
     {
      "art": "A child holding a card that says Tadpole, putting the card on the 'very different' mat.",
@@ -329,7 +330,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 16 cards. 2. Draw the two mats on a big sheet. 3. Mix the cards and put them face down.",
+     "do": "1. Cut out the 16 cards. 2. Draw the two mats on a big sheet. 3. Put the cards in a pile with the names facing up.",
      "say": "Each card is a baby animal. This mat is for babies who look like small copies of their parents. This mat is for babies who look very different.",
      "kid": "Look at the two mats. One is for babies like their parents. One is for babies who look very different."
     },
@@ -348,7 +349,7 @@
        ]
       }
      ],
-     "parent": "Human baby and duckling are a bit of both. Let your child decide and explain."
+     "parent": "Human baby and duckling are a bit of both, and their backs say so. Let your child decide first and explain."
     },
     {
      "id": "s3",
@@ -374,7 +375,7 @@
    "id": "g2",
    "title": "Who Carries the Baby?",
    "mins": 12,
-   "players": "2 or more players and a reader",
+   "players": "2 or more players. One reads, and the others act.",
    "context": "This is a moving game about how animal parents carry their young. The reader calls out an animal. Everyone acts out how that parent carries the baby, using a soft toy or a rolled-up towel as the baby.",
    "printables": [
     {
@@ -425,11 +426,11 @@
     }
    ],
    "rules": [
-    "Each player has a soft toy, or a rolled-up hand towel, as the baby.",
-    "The reader reads the front of a card: 'How does a mother cat carry her baby?'",
+    "Each player who acts has a soft toy, or a rolled-up hand towel, as the baby.",
+    "The reader reads the front of a card, for example 'A mother cat'. Then the reader asks, 'How does she carry her baby?'",
     "Everyone shows how they think that parent carries the baby.",
     "The reader reads the back. Everyone does it the right way.",
-    "Play until all the cards are read. Then a new player becomes the reader."
+    "Play until all 10 cards are read. Then swap the reader and play again if you like."
    ],
    "setup": [
     {
@@ -460,7 +461,7 @@
        "q": "Which of these parents were fathers?",
        "good": [
         "The seahorse and the penguin.",
-        "The seahorse father carries the eggs in a pouch."
+        "A human father can carry a baby too."
        ]
       }
      ]
@@ -468,7 +469,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask about the turtle card.",
+     "do": "1. Read the turtle card again and talk about the turtle. 2. Ask who carries the eggs in a seahorse family.",
      "say": "The turtle mother left her eggs. How do the babies manage alone?",
      "kid": "The turtle babies are alone. How do they find the sea?",
      "check": {
@@ -493,10 +494,10 @@
    "title": "Heads Tall: is a baby shaped like a small grown-up?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you cut a paper strip as long as a person's head. Then you count how many of those strips make up the whole person. You measure a grown-up, yourself, and a drawing of a newborn baby.",
+   "context": "In this experiment you cut a paper strip as long as a person's head. Then you count how many of those strips make up the whole person. You measure a grown-up, yourself, and a photo of a newborn baby.",
    "question": "Is a baby shaped like a small grown-up? How many of their own heads tall are a grown-up, a child and a baby?",
    "predict": "Guess first. How many heads tall is a grown-up? How many heads tall are you? And a baby? Will all three be the same number? Why do you think so?",
-   "fair_test": "We measure every person the same way. The head strip goes from the chin to the top of the head. The height goes from the floor to the top of the head, with no chappals on, standing straight. Each person is measured with a strip of their own head.",
+   "fair_test": "We measure every person the same way. The head strip goes from the chin to the top of the head. The height goes from the floor to the top of the head, with no chappals on, standing straight. Each person is measured with a strip of their own head. The baby is measured from a photo, so the answer is only close, not exact.",
    "results_table": [
     "Who",
     "My guess: how many heads tall",
@@ -516,11 +517,11 @@
      "qty": 1
     },
     {
-     "item": "a door or a bare wall, with a piece of paper or tape on it to mark on",
+     "item": "a door or a bare wall, with a few sheets of paper taped one above the other, from the floor to above the grown-up's head, to mark on",
      "qty": 1
     },
     {
-     "item": "the newborn baby picture on this card, or a photo of a baby lying straight",
+     "item": "a photo of a newborn baby lying on their back, on a phone or printed. Your own child's baby photo is best",
      "qty": 1
     }
    ],
@@ -528,7 +529,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Make a head strip for a grown-up and for your child. Count how many strips tall each one is. Then measure the baby picture."
+     "what": "Guess. Make a head strip for a grown-up and for your child. Count how many strips tall each one is. Then measure the baby photo."
     }
    ],
    "record": "Draw three people in a row: the baby, you and the grown-up. Under each one, write how many heads tall they are.",
@@ -542,17 +543,17 @@
     ],
     "rows": [
      [
-      "Amma, a grown-up",
+      "A grown-up",
       "5",
       "A little more than 7"
      ],
      [
-      "Kavya, aged 6",
+      "A child aged 6",
       "5",
       "About 6"
      ],
      [
-      "Newborn baby picture",
+      "Newborn baby photo",
       "5",
       "About 4"
      ]
@@ -572,15 +573,15 @@
      "caption": "3. Step the head strip up the door. Count how many fit."
     },
     {
-     "art": "A drawing of a newborn baby lying straight, with a small paper strip the length of the baby's head laid along the baby four times, from the top of the head to the heels.",
-     "caption": "4. Measure the baby picture the same way, with a tiny strip."
+     "art": "A phone showing a photo of a newborn baby lying straight on their back, with a small paper strip held against the screen along the baby, from the top of the head to the heels.",
+     "caption": "4. Measure the baby photo the same way, with a tiny strip."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Ask your child to guess how many heads tall a grown-up is, a child is, and a baby is. 2. Write the three guesses down.",
+     "do": "1. Ask your child to guess how many heads tall a grown-up is, a child is, and a baby is. 2. Write the three guesses down for your child.",
      "say": "Imagine we stack your head on top of itself, again and again, until we reach your feet. How many heads tall are you? And me? And a baby? Why do you think so?",
      "kid": "Guess. How many heads tall is a grown-up? And you? And a baby? Why?",
      "ask": [
@@ -597,7 +598,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. The grown-up sits down. 2. Lay the book flat on top of their head. 3. Your child holds a paper strip upright beside the face, with the end at the chin. 4. Mark the strip where it meets the book. 5. Cut the strip at the mark. 6. Write 'Amma' or the grown-up's name on it.",
+     "do": "1. The grown-up sits down. 2. Lay the book flat on top of their head. 3. Your child holds a paper strip upright beside the face, with the end at the chin. 4. Mark the strip where it meets the book. 5. Cut the strip at the mark. 6. Write the grown-up's name on it.",
      "say": "This strip is exactly as long as my head, from chin to top. Now we have a head ruler.",
      "kid": "Hold the strip by the face. Start at the chin. Mark the top of the head. Cut it.",
      "parent": "The book makes the top of the head easy to see. Keep the strip straight up and down, not along the curve of the face."
@@ -639,8 +640,8 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Look at the newborn baby picture. 2. Lay a small paper strip from the baby's chin to the top of the head. Mark it and cut it. 3. Step it from the top of the head to the heels, and count.",
-     "say": "This baby was drawn just the shape of a real newborn. Let's measure the baby the same way. How many heads long is the baby?",
+     "do": "1. Open the baby photo on the phone, or hold the printed photo. 2. Hold a paper strip against the baby's head. Mark the chin and the top of the head, and cut the strip. 3. Step it from the top of the head to the heels, and count.",
+     "say": "This is a photo of a real newborn baby. Let's measure the baby the same way. How many heads long is the baby?",
      "kid": "Make a tiny strip for the baby's head. Step it along the baby. Count.",
      "ask": [
       {
@@ -671,7 +672,7 @@
       "why": "The baby was only about 4 heads long, so the head is a big part of the whole baby. The grown-up was about 7 heads tall, so their head is a smaller part.",
       "how": "e1"
      },
-     "parent": "If you use a real baby photo, choose one where the baby lies straight. A curled-up baby will measure shorter. The claim is: a baby is a different shape from a grown-up, with a bigger head and shorter legs."
+     "parent": "Choose a photo where the baby lies fairly straight. A baby with curled legs measures shorter, so any answer from 3 to 5 is fine: it still shows fewer heads than the grown-up. The claim is: a baby is a different shape from a grown-up, with a bigger head and shorter legs."
     }
    ]
   }
@@ -714,7 +715,7 @@
      "do": "Describe each baby, one at a time, without saying the animal's name. Your child draws the grown-up they think the baby becomes. 1. 'This baby is a small wriggling swimmer with a tail and no legs.' 2. 'This baby crawls on leaves and eats them all day.' 3. 'This baby is fluffy and yellow, with webbed feet.' 4. 'This baby is white and wriggly, with no legs, and lives in old fruit.'",
      "say": "Listen to this baby. What will the baby look like when they grow up? Draw the grown-up.",
      "kid": "Listen to the baby. Draw the grown-up you think they become.",
-     "parent": "The four babies are a tadpole (frog), a caterpillar (butterfly or moth), a duckling (duck) and a maggot (fly). The last two are hard. Any guess is fine."
+     "parent": "The four babies are a tadpole (frog), a caterpillar (butterfly or moth), a duckling (duck) and a maggot (fly). The maggot is the hardest. Any guess is fine."
     },
     {
      "id": "s2",
@@ -755,6 +756,10 @@
     },
     {
      "item": "a dupatta or towel, rolled into a ring, as a nest",
+     "qty": 1
+    },
+    {
+     "item": "a pen or crayon, to draw beaks on the cups",
      "qty": 1
     }
    ],
@@ -889,15 +894,15 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask what part of your child grew the most.",
-     "say": "You grew more than two newborns long. Which part of you do you think grew the most?",
-     "kid": "Which part of you grew the most? Your head, or your legs?",
+     "do": "Ask whether your child's head grew as much as the rest of their body.",
+     "say": "You are now more than two newborns long. Did your head grow that much too? Think about the head strips.",
+     "kid": "You are more than two string babies long now. Did your head grow that much too?",
      "ask": [
       {
-       "q": "Which part grew the most?",
+       "q": "Did your head grow as much as the rest of you?",
        "good": [
-        "My legs.",
-        "My legs, like in the head strip test."
+        "No. My legs grew more, like in the head strip test.",
+        "No. A baby's head is already big."
        ]
       }
      ]
@@ -930,7 +935,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after touching the jar. At the end, a grown-up opens the jar outside, or on the balcony.",
    "schedule": [
     {
      "day": 1,
@@ -1024,7 +1028,8 @@
       "a": 0,
       "why": "A maggot is the young of a fly. Maggots hatch from eggs that flies lay on food. They do not grow out of the banana.",
       "how": "p1"
-     }
+     },
+     "parent": "If it is cool and there are no new flies by day 12, wait a few more days before you decide. After you let the flies go, wash your hands and rinse the jar. Do not eat the banana from the jar."
     }
    ]
   }
@@ -1187,7 +1192,7 @@
      "opts": [
       "The grown-up",
       "The child",
-      "The baby picture"
+      "The baby photo"
      ],
      "a": 0,
      "why": "The grown-up was about 7 head strips tall, the child about 6 and the baby about 4. As we grow up, our legs grow much more than our head.",
@@ -1231,7 +1236,7 @@
      "opts": [
       "Kitten",
       "Calf",
-      "Chick",
+      "Hen's chick",
       "Puppy"
      ],
      "a": 2,
@@ -1246,20 +1251,21 @@
     },
     {
      "t": "perspective",
-     "p": "Revathi and Ishita, two girls in Kochi, see two pink chicks with yellow fluff in a pigeon nest.",
+     "p": "Sowmya and Ritu, two girls in Class 1, look at a photo of a newborn baby and a photo of a grown-up.",
      "views": [
       {
-       "who": "Revathi, aged 6",
-       "says": "These chicks can't be pigeons. Pigeons are grey. Another bird must have left them here."
+       "who": "Sowmya, aged 6",
+       "says": "A baby is just a small grown-up, with the same shape."
       },
       {
-       "who": "Ishita, aged 7",
-       "says": "These are pigeon chicks. The pigeon parents are feeding them."
+       "who": "Ritu, aged 6",
+       "says": "A baby has a different shape. The head is big for the body."
       }
      ],
-     "ask": "Which girl do you agree with? What could they watch to find out? Then say one thing the other girl got right.",
-     "a": "Ishita is right: the parents feed the chicks, and in a few weeks grey feathers grow. But Revathi is right that the chicks look nothing like grey pigeons yet.",
-     "why": "A strong answer says what to watch (who feeds the chicks, and what colour the feathers grow), and is fair to both girls."
+     "ask": "Which girl do you agree with? What could you measure to find out? Then say one thing the other girl got right.",
+     "a": "Ritu is right: a baby is about 4 heads long and a grown-up about 7. But Sowmya is right that a baby has the same parts: two eyes, two arms and two legs.",
+     "why": "A strong answer uses the head strips to measure, and is fair to both girls.",
+     "how": "e1"
     }
    ]
   },
@@ -1320,11 +1326,11 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: in the head strip test, a grown-up was about 7 heads tall, a child about 6 and a baby about 4. As a person grows up, what grows more: the head or the legs?",
+     "p": "Say it to a grown-up, who writes it down: a baby crow has just hatched from her egg. What will the crow parents do for the baby in the first week?",
      "lines": 2,
-     "a": "The legs grow more. The head grows only a little, so the number of heads tall gets bigger.",
-     "why": "A strong answer uses the numbers: more heads tall means the rest of the body grew more than the head.",
-     "how": "e1"
+     "a": "They feed the baby, keep the baby warm under them, and keep the baby safe from cats and other danger.",
+     "why": "A strong answer gives two or three jobs that parents do and says why the baby cannot do them alone yet.",
+     "how": "a2"
     },
     {
      "t": "sort",
@@ -1374,7 +1380,7 @@
      "p": "Lakshmi and Tanvi watch a pair of crows on a tree in Mysuru. The crows are feeding a koel chick. Koel mothers lay their eggs in crows' nests.",
      "views": [
       {
-       "who": "Lakshmi, aged 7",
+       "who": "Lakshmi, aged 6",
        "says": "The crows feed the chick and keep the chick safe. So the chick is their baby."
       },
       {
@@ -1619,8 +1625,8 @@
    "a": "A calf-ul of questions!"
   },
   {
-   "j": "Why did the tadpole feel lonely?",
-   "a": "Because he was a little un-frog-gettable!"
+   "j": "Where do tadpoles go to change into frogs?",
+   "a": "The croak-room!"
   },
   {
    "j": "What did the mother pigeon say to her chick?",
@@ -1631,31 +1637,27 @@
    "a": "She knew things would turn out beautiful!"
   },
   {
-   "j": "What do baby fruit flies say on their birthday?",
-   "a": "Time flies!"
+   "j": "What is a kitten's favourite colour?",
+   "a": "Purr-ple!"
   },
   {
-   "j": "Why did the kitten sit on the clock?",
-   "a": "To grow up on time!"
+   "j": "What do you call a puppy that can do magic?",
+   "a": "A labracadabrador!"
   },
   {
-   "j": "What do you call a baby elephant in a hurry?",
-   "a": "A trunk on legs!"
+   "j": "What do ducklings watch on TV?",
+   "a": "Duck-umentaries!"
   },
   {
-   "j": "Why did the duckling cross the road?",
-   "a": "To follow her mother, of course!"
-  },
-  {
-   "j": "How does a baby seahorse say thank you?",
-   "a": "Thanks, Appa, for the ride in your pocket!"
+   "j": "Why did the chick go to school?",
+   "a": "To get egg-ucated!"
   }
  ],
  "maths": [
   {
-   "problem": "In the head strip test, Amma was 7 head strips tall. Kavya was 6. How many more head strips tall was Amma?",
+   "problem": "In the head strip test, a grown-up was 7 head strips tall. A child was 6. How many more head strips tall was the grown-up?",
    "answer": "1 more head strip.",
-   "explain": "7 take away 6 leaves 1. Amma's legs and body have grown more, so she is more heads tall.",
+   "explain": "7 take away 6 leaves 1. The grown-up's legs and body have grown more than the head, so the grown-up is more heads tall.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
    "context": "This is about the head strip test, where you counted how many of their own heads tall each person is.",
@@ -1667,7 +1669,7 @@
    "explain": "4 is less than 6, and 6 is less than 7. The older the person, the more heads tall, because the legs keep growing.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e1",
-   "context": "This is about the head strip test with a grown-up, a child and a baby picture.",
+   "context": "This is about the head strip test with a grown-up, a child and a baby photo.",
    "why_maths": "Putting the numbers in order shows a pattern: the older the person, the more heads tall."
   },
   {
@@ -1679,7 +1681,7 @@
    "why_maths": "Comparing the numbers helps us think about why some animals have many young and some have just one."
   },
   {
-   "problem": "On day 10, Meena looked at her banana jar. She counted 3 maggots, 4 brown cases and 5 flies. Make a tally. Which was there most of?",
+   "problem": "On day 10, a girl called Meena looked at her banana jar. She counted 3 maggots, 4 brown cases and 5 flies. Make a tally. Which was there most of?",
    "answer": "Flies, with 5.",
    "explain": "Maggots: 3 marks. Brown cases: 4 marks. Flies: 5 marks. By day 10, many maggots had already turned into cases, and many cases into flies.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1729,24 +1731,24 @@
    "a": "A kitten."
   },
   {
-   "q": "What does a tadpole grow up into?",
-   "a": "A frog."
+   "q": "What is the young of a hen called?",
+   "a": "A chick."
   },
   {
    "q": "Name a baby who looks very different from the parent.",
    "a": "A tadpole, a caterpillar, a maggot or a silkworm."
   },
   {
-   "q": "About how many heads long is a newborn baby?",
-   "a": "About 4."
+   "q": "Name an animal that hatches from an egg.",
+   "a": "A hen, a pigeon, a gecko, a crocodile or a frog."
   },
   {
-   "q": "Which part of you grew the most since you were a baby?",
-   "a": "My legs."
+   "q": "Is a puppy born, or does a puppy hatch from an egg?",
+   "a": "A puppy is born."
   },
   {
-   "q": "Who feeds a pigeon chick?",
-   "a": "Both the mother and the father."
+   "q": "Where does a baby pigeon grow before hatching?",
+   "a": "Inside an egg, in a nest."
   }
  ],
  "plan": {
@@ -1822,7 +1824,7 @@
   "deep_truth": {
    "truth": "Our head strips showed a grown-up about 7 heads tall, a child about 6, and a baby about 4. After birth, the legs grow much more than the head does. So growing up changes the shape of a body, as well as the size.",
    "habit": "We often picture a baby as a grown-up made small. But a baby's body has their own shape, and each part grows at a different speed.",
-   "evidence": "In the head strip test, each person was measured with a strip of their own head. The grown-up came out about 7 heads tall, the child about 6, and the newborn picture about 4."
+   "evidence": "In the head strip test, each person was measured with a strip of their own head. The grown-up came out about 7 heads tall, the child about 6, and the newborn photo about 4."
   },
   "three": {
    "who_am_i": "Your body has changed shape since you were born. You are still you, in a new shape.",
@@ -1854,7 +1856,7 @@
   ],
   "other_view": {
    "who": "Many biologists",
-   "view": "Many biologists explain the change of shape with genes and hormones. Genes are instructions inside every cell. Hormones are chemical messengers that tell parts of the body when to grow. They describe growing up as the body following those instructions."
+   "view": "Many biologists say a body grows by following instructions. The instructions are inside every cell, and they are called genes. Chemical messages in the body tell each part when to grow."
   },
   "practice": {
    "title": "Curl Small, Grow Tall",
@@ -1871,10 +1873,11 @@
  },
  "how_we_found_out": {
   "context": "Some babies look so different from their parents that people thought they were a different animal. This card tells the true story of one of them.",
-  "story": "For more than 2,000 years, nobody had ever seen a baby eel. Aristotle, in ancient Greece, wrote that eels grew out of mud. In the sea, fishermen sometimes caught a strange little fish. This fish was flat and clear as glass, shaped like a leaf. Scientists thought the leaf fish was a different kind of fish. They gave the leaf fish a name: Leptocephalus, which means 'thin head'. In 1896, two Italian scientists, Giovanni Battista Grassi and Salvatore Calandruccio, kept some of these glass leaves in tanks of sea water in Messina. They watched the leaf fish every day. Slowly, the flat leaves grew shorter and rounder. They turned into tiny see-through eels. The 'different fish' had been baby eels all along. They just looked nothing like their parents. Later, a Danish scientist, Johannes Schmidt, sailed the Atlantic Ocean for years looking for the smallest ones. They led him to the Sargasso Sea, where the eels of Europe lay their eggs.",
+  "story": "For more than 2,000 years, nobody had ever seen a baby eel. Aristotle, in ancient Greece, wrote that eels grew out of mud. In the sea, fishermen sometimes caught a strange little fish. This fish was flat and clear as glass, shaped like a leaf. Scientists thought the leaf fish was a different kind of fish. They gave the leaf fish a name: Leptocephalus, which means 'thin head'. In 1896, two Italian scientists, Giovanni Battista Grassi and Salvatore Calandruccio, kept some of these glass leaves in tanks of sea water in Messina. They watched the leaf fish every day. Slowly, the flat leaves grew shorter and rounder. They turned into tiny see-through eels. The 'different fish' had been baby eels all along. They just looked nothing like their parents. Later, a Danish scientist, Johannes Schmidt, sailed the Atlantic Ocean for years looking for the smallest ones. They led him to the Sargasso Sea, where the eels of Europe are born.",
   "who": "Giovanni Battista Grassi and Salvatore Calandruccio, Italian scientists (1896); Johannes Schmidt, a Danish scientist (1904 to 1922)",
   "when": "Grassi and Calandruccio watched the change in 1896. Schmidt published where European eels breed in 1922.",
   "wrong_idea": "That eels have no babies and grow out of mud, and that the glassy leaf-shaped fish was a different kind of fish. Grassi and Calandruccio watched the leaf fish turn into young eels.",
   "art": "A glass tank of sea water with several flat, see-through, leaf-shaped baby eels and one small round see-through eel, and a notebook beside the tank."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and worksheet as a parent and a six-year-old in a flat. The sorting game now says how the gap between the mats is used and how 2 or 4 players share the 16 cards; the Heads Tall test, string baby, Busy Beaks and banana jar add up in minutes and days, and the head-strip steps are fair (own head strip for each person, same standing). I fixed the claim that the head hardly grows (it grows, but less than the legs), the fruit fly timing note for cool weather, ages of the two Class 1 girls, a repeated Redi fact and a repeated head-strip question, and swapped five weak jokes for real ones. The three video entries still have no checked link (the validator needs exactly 3), so they stay marked to find."
 }

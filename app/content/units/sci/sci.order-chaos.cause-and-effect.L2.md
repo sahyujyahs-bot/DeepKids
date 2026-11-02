@@ -3,7 +3,7 @@
 
 **Summary.** Push the first domino in a line, and the last one falls too, even though you never touched it. Each domino falls because the one before it hits it. What makes something happen is called the cause. What happens is called the effect. In a line of dominoes, every domino is the effect of the one before and the cause of the next. If one gap is too wide, the chain of causes stops there, and the rest of the line stays standing.
 
-**Intro.** *Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?* Everything that happens is made to happen by something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this unit you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.
+**Intro.** *Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?* Things around us happen because of something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this unit you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.
 
 ## Learning outcomes
 0. By the end I can say what a cause and an effect are, and give examples from my home.
@@ -25,7 +25,7 @@
 ### Cause and effect: every happening is made to happen · *defined*
 **Definition:** A cause is what makes something happen. An effect is what happens because of it. The cause always comes first, and the effect comes after.
 
-When you switch on the fan, the curtain starts to move. Switching on the fan is the cause. The moving curtain is the effect. When you drop a steel spoon on a steel plate, the clang is the effect. Every action you do has an effect, even a small one. When you clap, the air shakes and someone in the next room may hear it. Scientists look for causes because, once they know the cause, they can make something happen again, or stop it.
+When you switch on the fan, the curtain moves. Switching on the fan is the cause. The moving curtain is the effect. Scientists look for causes because then they can make something happen again, or stop it.
 - e.g. Switching on the fan makes the curtain move.
 - e.g. Stirring sugar into water makes the sugar disappear and the water sweet.
 - e.g. Heat from the gas makes the water in a pot boil.
@@ -33,7 +33,7 @@ When you switch on the fan, the curtain starts to move. Switching on the fan is 
 ### A chain of causes: why the last domino falls · *defined*
 **Definition:** In a chain of causes, each effect becomes the cause of the next thing. A push can travel a long way like this, but only if every link in the chain passes it on.
 
-In the domino test, your finger pushed only the first domino. As it fell, it hit the second one and passed on some of its energy. The second one fell and hit the third, and so on to the end. When the gap was small, every domino could reach the next one, so the whole line fell. When the gap was as wide as a domino is tall, the first domino lay down without touching the next one. The chain stopped there. Taking one domino out of the middle did the same. The push reached the hole and stopped, so everything after it stayed standing.
+In the domino test, your finger pushed only the first domino. When the gaps were small, each domino hit the next and passed on some of its energy, so all ten fell. When the gap was as wide as a domino is tall, the first one lay down without hitting the next, and the chain stopped. Taking one domino out of the middle stopped it too.
 - e.g. A line of dominoes falling one after another
 - e.g. A line of coins passing a push to the last coin
 - e.g. Rain, then a full lane, then a slow school van
@@ -41,7 +41,7 @@ In the domino test, your finger pushed only the first domino. As it fell, it hit
 ### Some effects come much later · *defined*
 **Definition:** Some effects happen straight after their cause. Others take hours, days or years to show.
 
-A domino falls at once when it is hit. But many causes take time. When dry chana is soaked in water at night, the seeds slowly drink the water. By morning they are much bigger. A mango seed planted today becomes a tree only after some years. Because the effect comes so late, people sometimes do not notice what caused it. A good scientist keeps asking: what happened before this, maybe a long time before?
+A domino falls at once when it is hit. But dry chana soaked at night take until morning to swell, and a mango seed takes some years to become a tree. Because the effect comes so late, people may not notice the cause. A good scientist asks: what happened before this, maybe a long time before?
 - e.g. Chana soaked tonight is big and soft tomorrow morning.
 - e.g. A seed planted now becomes a tree years later.
 - e.g. Clothes put out in the sun dry after a few hours.
@@ -49,17 +49,17 @@ A domino falls at once when it is hit. But many causes take time. When dry chana
 ### Something that comes first is not always the cause · *defined*
 **Definition:** Two things can happen one after the other without the first one causing the second. To find the real cause, we test: we change one thing and see what happens.
 
-A rooster crows every morning, and then the Sun rises. Does the rooster make the Sun rise? No. On a day when the rooster stays quiet, the Sun still rises. The rooster crows because morning is coming. So both have the same cause: the Earth turning towards the Sun. This is why scientists do tests. In the domino test, we changed only the gap. Then we knew that the gap was what made the chain stop.
+A rooster often crows, and then the Sun rises. But when the rooster stays quiet, the Sun still rises, so the rooster is not the cause. Scientists do tests to find the real cause. In the domino test we changed only the gap, so we knew the gap made the chain stop.
 - e.g. A rooster crows and then the Sun rises, but the rooster does not cause the sunrise.
 - e.g. People carry umbrellas and then it rains, but umbrellas do not cause rain.
 - e.g. You put on your school shoes and then the van comes, but your shoes do not bring the van.
 ### Does everything have a cause? · *debated*
-Everything big that we see, like a falling domino, a boiling pot or a puddle, has causes we can find. But some very tiny things are harder. Inside some materials, tiny bits called atoms break apart all by themselves. Nobody can find anything that decides the exact moment one of them breaks. Scientists do not agree about what this means.
+Big things we see, like a falling domino, a boiling pot or a puddle, have causes we can find. But inside some materials, tiny atoms break apart by themselves, and nobody can find what decides the exact moment. Scientists do not agree about what this means.
 - e.g. A domino falls because it is pushed.
 - e.g. A tiny atom breaks apart at a moment nobody can predict or explain.
 - **Many physicists today:** For the tiniest things, there may be no cause for the exact moment something happens. It just happens, by chance.
-- **Albert Einstein, and some physicists since:** There may be hidden causes that we have not found yet. Einstein wrote in a letter in 1926 that he was sure nature 'does not throw dice'.
-- **Many thinkers in India and elsewhere:** Nothing happens without causes, but every happening has so many causes that nobody can know them all.
+- **Albert Einstein, and some physicists since:** There may be hidden causes that we have not found yet. In a letter in 1926, Einstein wrote that he was sure the universe does not work by dice and chance.
+- **Buddhist thinkers in India:** Nothing happens without causes, and every happening depends on many causes together, not on one.
 
 ## Mostly agreed
 - A push can pass along a line of dominoes, each one knocking over the next. *How we know:* In the domino test, a single gentle push on the first domino made the whole line fall when the gaps were small.
@@ -178,7 +178,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 
 ## Games
 ### g1 · Chain Builder: a card game of causes (15 min)
-- **rules:** Cut out the 18 cards. Find the three cards that say 'card 1' on the back. Lay them face up in a row. These start the three chains.; Shuffle the other 15 cards. Give each player 4 cards. Put the rest face down in a pile.; On your turn, put down one card that can come next in any chain. Say the chain out loud with 'so': 'The tawa gets hot, so Amma pours the batter.'; The other players turn your card over. If the back shows the right chain and the right number, you keep it there. If not, take it back.; If you cannot put down a card, take one from the pile.; The first player with no cards left wins. Playing alone, build all three chains, then check the backs.
+- **rules:** Cut out the 18 cards. Find the three cards that say 'card 1' on the back. Lay them face up in a row. These start the three chains.; Shuffle the other 15 cards. Give each player 3 cards. Put the rest face down in a pile.; On your turn, put down one card that can come next in any chain. Say the chain out loud with 'so': 'The tawa gets hot, so Amma pours the batter.'; The other players turn your card over. If the back shows the right chain and the right number, you keep it there. If not, take it back.; If you cannot put down a card, take one from the pile.; The first player with no cards left wins. Playing alone, build all three chains, then check the backs.
 - **Printable cards: 18 happening cards to cut out:** Dark clouds blow in from the sea over Kochi. (back: Rain chain, card 1 of 6); Heavy rain falls all afternoon. (back: Rain chain, card 2 of 6); Water fills the lane outside the flats. (back: Rain chain, card 3 of 6); The school van has to drive very slowly. (back: Rain chain, card 4 of 6); Asha reaches school late. (back: Rain chain, card 5 of 6); Asha's teacher waits for her before starting the story. (back: Rain chain, card 6 of 6); Amma lights the gas under the tawa. (back: Dosa chain, card 1 of 6); The tawa gets hot. (back: Dosa chain, card 2 of 6); Amma pours dosa batter onto the hot tawa. (back: Dosa chain, card 3 of 6); The batter cooks and turns crisp and brown. (back: Dosa chain, card 4 of 6); The smell of dosa fills the flat. (back: Dosa chain, card 5 of 6); Thatha comes into the kitchen, hungry. (back: Dosa chain, card 6 of 6); A ripe mango falls from the tree. (back: Mango chain, card 1 of 6); A squirrel eats the mango and leaves the seed. (back: Mango chain, card 2 of 6); Rain soaks the seed lying in the soil. (back: Mango chain, card 3 of 6); The seed sends out a root and a shoot. (back: Mango chain, card 4 of 6); Years later, a young mango tree stands there. (back: Mango chain, card 5 of 6); The young tree grows ripe mangoes. (back: Mango chain, card 6 of 6. This leads back to card 1, so the chain is a loop.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Lay out the three start cards. 3. Read the rules out loud.  
@@ -341,7 +341,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   *Parent does:* 1. Talk about the chain together. 2. Afterwards, move the paper outside or wipe the sugar away, without hurting the ants.  
   *Parent says:* First the sugar. Then one ant found the sugar. Then she left a smell trail. Then many ants came. What started the chain?  
   *Child mode:* One ant found the sugar. Then many came. What started the chain?
-  - Note: Ants sense, decide and tell each other where food is. Some scientists call the trail an automatic response. Either way, one ant's find was the cause of all the others coming.
+  - Note: Ants sense, think and tell each other where food is. Some scientists say the trail is only an automatic reaction, and others say each ant chooses. Either way, one ant's find was the cause of all the others coming.
 
 ## Projects
 ### p1 · Tonight's Cause, Tomorrow's Effect: soaking chana (15 min, 2 days)
@@ -366,8 +366,8 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - **problem:** Make a machine where one gentle push starts a chain of at least four causes, and the last one rings a steel bowl or drops a coin into a cup.
 - **your turn:** Draw your machine first, with an arrow from each cause to its effect. Then build it. If it stops, find the link that did not pass the push on, fix it, and try again.
 - **constraints:** You may touch only the first part, once.; There must be at least four steps, each causing the next.; Use things from home, and put everything back afterwards.
-- **general:** A line of dominoes falls onto a ruler lying across a pencil, like a see-saw. The other end of the ruler flips up and hits the steel bowl.; The last domino pushes a marble down a ramp made from a book. The marble rolls into a steel tumbler and rings it.
-- **creative:** Make the dominoes grow in size, from a matchbox to a small book. Each one can knock over one a little bigger than itself.; Make the marble knock a coin off the edge of a table into a cup.; Add a turn in the domino line, around a corner of a book.
+- **general:** A line of dominoes falls onto one end of a ruler resting on a pencil, like a see-saw. The other end lifts up and taps the steel bowl.; The last domino pushes a marble down a ramp made from a book. The marble rolls into a steel tumbler and rings it.
+- **creative:** Make the dominoes a little bigger each time, for example a small matchbox, then a bigger box, then a thin book. Each one can knock over one a little bigger than itself.; Make the marble knock a coin off the edge of a table into a cup.; Add a turn in the domino line, around a corner of a book.
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem together. 2. Your child draws a plan with arrows.  
   *Parent says:* One push has to start at least four causes in a row. The last one must ring the bowl. Draw your plan first. Put an arrow from each cause to its effect.  
@@ -573,5 +573,5 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 - Lorne A. Whitehead, 'Domino chain reaction', American Journal of Physics 51, 182 (1983): a domino can topple another about 1.5 times larger.
 - Coins and Newton's cradle: a push passes through a line of equal, touching objects, and about the same number leave the far end as came in. Standard school physics of collisions.
 - David Hume, 'An Enquiry Concerning Human Understanding' (1748), Section 7, on cause as constant conjunction.
-- Albert Einstein, letter to Max Born, 4 December 1926: 'He does not throw dice.'
+- Albert Einstein, letter to Max Born, 4 December 1926: the Old One does not play dice (as it is often quoted).
 - Samyutta Nikaya 12.21 (Dasabala Sutta), the dependent arising formula 'imasmim sati idam hoti'. Samkhya Karika 9, the reasons for satkaryavada, with the sesame and sand example from the commentaries.

@@ -1,9 +1,9 @@
 # Elements: things made of just one kind of atom
 `sci.chemistry.elements.L2`
 
-**Summary.** A silver anklet that has gone black can shine again without any rubbing. Your child lays it on aluminium foil in hot water with cooking soda, and watches the black fade. The black layer was silver joined with another element, sulfur. The foil takes the sulfur away, and the same silver is left. Gold, silver, iron, copper, carbon and oxygen are elements: each one is made of just one kind of atom. Most other things, like water, salt and sugar, are elements joined together.
+**Summary.** A silver anklet that has gone black can shine again without any rubbing. Lay it on aluminium foil in hot water with cooking soda, and the black fades. The black was silver joined with another element, sulfur, and the foil takes the sulfur away. Gold, silver, iron, copper, carbon and oxygen are elements, each made of just one kind of atom. Water, salt and sugar are elements joined together.
 
-**Intro.** *Find an old silver anklet, toe ring or coin that has gone dark. Next to it, put a gold earring that has been worn for years. Why did the silver go dark, but not the gold?* Gold, silver, iron and copper are metals that people have used for thousands of years. Each of them is an element. An element is a substance made of just one kind of atom. Atoms are the tiny pieces that everything is made of, far too small to see. In this unit you hunt for elements at home. You make dark silver shine again, using only foil, cooking soda and hot water. And you find out why gold stays shiny for hundreds of years.
+**Intro.** *Find an old silver anklet, toe ring or coin that has gone dark. Next to it, put a gold earring that has been worn for years. Why did the silver go dark, but not the gold?* Gold, silver, iron and copper are metals that people have used for thousands of years. Each is an element, a substance made of just one kind of atom. Atoms are the tiny pieces that everything is made of, far too small to see. In this unit you hunt for elements at home, make dark silver shine again, and find out why gold stays shiny.
 
 ## Learning outcomes
 0. By the end I can say that everything is made of tiny atoms, far too small to see.
@@ -27,35 +27,35 @@
 ### Everything is made of atoms · *defined*
 **Definition:** An atom is the smallest piece of an element. Everything around us is made of atoms.
 
-Cut a sheet of gold foil in half, and in half again, and again. The pieces get smaller and smaller. If you could keep cutting, you would reach a piece so small that it could not be cut any more and still be gold. That smallest piece is a gold atom. Atoms are far too small to see. Your table, your water, the air and you are all made of atoms.
+Imagine cutting a thin sheet of gold in half, and in half again, again and again. The pieces get smaller and smaller. The smallest piece that is still gold is one gold atom. Atoms are far too small to see, but your table, the air and you are all made of them.
 - e.g. A drop of water is made of a huge number of atoms.
 - e.g. The air you breathe is atoms flying about, far apart from each other.
 - e.g. Your own hand is made of atoms.
 ### An element has only one kind of atom · *defined*
 **Definition:** An element is a substance made of just one kind of atom.
 
-There are many kinds of atoms. Each kind has a name, like gold, iron, oxygen or carbon. A lump of pure gold has only gold atoms. An iron nail is mostly iron atoms. The oxygen in the air is only oxygen atoms. You cannot break an element into simpler substances by heating it, mixing it or soaking it. Scientists know of 118 elements. About 90 of them are found in nature.
+There are many kinds of atoms, and each kind has a name, like gold, iron, oxygen or carbon. A lump of pure gold has only gold atoms, and the oxygen in the air has only oxygen atoms. An iron nail is mostly iron atoms. Scientists know of 118 elements, and about 90 of them are found in nature.
 - e.g. Gold: a pure gold coin has only gold atoms.
 - e.g. Oxygen: a gas in the air, made only of oxygen atoms.
 - e.g. Aluminium: kitchen foil is almost all aluminium atoms.
 ### Most things are elements joined together · *defined*
 **Definition:** Most substances are made of two or more kinds of atoms, joined together.
 
-Water is not an element. Each tiny bit of water is two hydrogen atoms joined to one oxygen atom. Salt is sodium and chlorine joined. Sugar is carbon, hydrogen and oxygen joined. When elements join, they make something new that looks nothing like them. Oxygen is a gas, but water is a liquid. A few elements make up almost everything we see, in different mixes.
+Water is not an element. Each tiny bit of water is two hydrogen atoms joined to one oxygen atom. Salt is sodium and chlorine joined, and sugar is carbon, hydrogen and oxygen joined. When elements join, they make something new: oxygen is a gas, but water is a liquid.
 - e.g. Water: hydrogen and oxygen joined.
 - e.g. Salt: sodium and chlorine joined.
 - e.g. Sugar: carbon, hydrogen and oxygen joined.
 ### Why silver goes dark and gold does not · *defined*
 **Definition:** Some elements join easily with other elements, and some hardly join at all.
 
-Silver joins with sulfur from the air, eggs and onions. Silver joined with sulfur is black. That black layer is the tarnish on an old anklet. Iron joins with oxygen and water, and makes orange rust. Gold hardly joins with anything. So a pure gold ornament stays shiny for hundreds of years. On aluminium foil in hot soda water, the sulfur leaves the silver and goes to the aluminium. The silver atoms stay on the anklet, shiny again.
+Silver joins with sulfur from the air, eggs and onions, and the black layer that forms is tarnish. Iron joins with oxygen and water and makes orange rust. Gold hardly joins with anything, so pure gold stays shiny for hundreds of years. On foil in hot soda water, the sulfur moves from the silver to the aluminium, and the silver shines again.
 - e.g. Silver anklets and toe rings go grey, then black, over months.
 - e.g. An iron gate goes rusty in the rain.
 - e.g. Gold jewellery found in very old graves still shines.
 ### Many metals are mixes of elements · *defined*
 **Definition:** An alloy is a metal made by melting two or more elements together.
 
-Many metals at home are not elements. Steel is mostly iron, with a little carbon. Stainless steel also has chromium in it, which stops it from rusting. Brass is copper and zinc. Bronze is copper and tin. Gold jewellery in India is often 22 carat. That means 22 parts gold and 2 parts other metals, like copper or silver, to make it harder.
+Many metals at home are alloys, not elements. Steel is mostly iron with a little carbon, brass is copper and zinc, and bronze is copper and tin. Stainless steel also has chromium, which stops rust. Gold jewellery in India is often 22 carat: 22 parts gold and 2 parts other metals, like copper or silver, to make it harder.
 - e.g. A steel tumbler is mostly iron, with carbon, chromium and nickel.
 - e.g. A brass lamp is copper and zinc.
 - e.g. A 22-carat gold chain is 22 parts gold in every 24.
@@ -72,8 +72,8 @@ Scientists agree that almost every kind of atom except hydrogen and helium was m
 - Pure gold hardly joins with other elements, so it stays shiny. *How we know:* Gold ornaments thousands of years old, dug out of the ground, still shine. Silver and iron objects from the same graves are usually dark or rusty.
 
 ## How we found out
-**Carl Wilhelm Scheele, a Swedish chemist and shopkeeper, showed graphite is carbon. Abraham Gottlob Werner named it. Smithson Tennant showed diamond is carbon., Graphite was found in the 1500s. Scheele tested it in 1779. Werner named it graphite in 1789. Tennant burned a diamond in the 1790s..** In the 1500s, people in Borrowdale, in the north of England, found a soft, shiny black rock. It left dark marks on anything it touched, so shepherds used it to mark their sheep. Soon it was cut into sticks for writing. It looked a bit like the metal lead, so people called it black lead. That is why we still say pencil lead today. For two hundred years, nobody knew what it really was. Then, in 1779, Carl Wilhelm Scheele, a chemist who ran a small chemist's shop in Sweden, tested it. He burned it and studied the gas it gave off. It was the same gas that burning charcoal gives off. Charcoal is mostly carbon. So the black rock was a form of carbon, not lead at all. Ten years later, a German scientist, Abraham Gottlob Werner, named it graphite, from a Greek word that means to write. In the 1790s, Smithson Tennant in England burned a diamond and found that it, too, was pure carbon. So the black inside a pencil and the clearest diamond are the same element.  
-*What people believed before:* That the black in a pencil is a kind of lead. Scheele burned it and got the same gas as from burning charcoal, so it had to be carbon.
+**Carl Wilhelm Scheele, a Swedish chemist and shopkeeper, showed graphite is carbon. Abraham Werner named it. Smithson Tennant showed diamond is carbon., Graphite was found in the 1500s. Scheele tested it in 1779. Werner named it graphite in 1789. Tennant burned a diamond in the 1790s..** In the 1500s, people in Borrowdale, in the north of England, dug up a soft, shiny black rock. It left dark marks on anything it touched, so shepherds used it to mark their sheep, and soon it was cut into sticks for writing. It looked a little like the metal lead, so people called it black lead. That is why we still say pencil lead today. For about two hundred years, nobody knew what it really was. Then, in 1779, Carl Wilhelm Scheele, a chemist who ran a small chemist's shop in Sweden, tested it with strong chemicals. The gas that came off was the same gas that comes off when charcoal burns. Charcoal is mostly carbon, so the black rock was carbon, not lead. In 1789 a German scientist, Abraham Werner, named it graphite, from a Greek word that means to write. In the 1790s, Smithson Tennant in England burned a diamond and found that it was pure carbon too.  
+*What people believed before:* That the black in a pencil is a kind of lead. Scheele tested it and got the same gas as from burning charcoal, so it had to be carbon.
 
 ## Challenging perspectives
 - **Pencils have lead in them.** (Many people, because of the old name 'pencil lead'; *rejected*)  
@@ -99,7 +99,7 @@ We have made dark silver shine on foil, hunted for elements at home and found ou
 
 A few kinds of atoms make up everything: the anklet, the tamarind, the air and you. Each element joins with others to make new things, then can come out again, still itself. Silver joined sulfur and went black, then came back as silver. Everything is conscious, down to each atom, so the silver and the sulfur take part in this joining and parting. Many scientists say atoms only follow forces, and have no inner life.
 
-- **Chandogya Upanishad 6.1.4 to 6.1.6:** Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay. By knowing one copper ornament, you know everything made of copper. By knowing one iron nail-cutter, you know everything made of iron. The shapes are only names. The clay, the copper and the iron are what is real. (A kolusu, a coin and a spoon are different shapes, but if they are silver, they are all the same element. Even the black tarnish still held the same silver.)
+- **Chandogya Upanishad 6.1.4 to 6.1.6:** Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay. By knowing one nugget of gold, you know everything made of gold. By knowing one iron nail-cutter, you know everything made of iron. The shapes are only names. The clay, the gold and the iron are what is real. (A kolusu, a coin and a spoon are different shapes, but if they are silver, they are all the same element. Even the black tarnish still held the same silver.)
 - **The Vaisheshika Sutras of Kanada:** The Vaisheshika school of ancient India taught that everything is made of tiny lasting particles, called paramanu, too small to see. Different kinds of paramanu join to make all the things we see. (Today we call these tiny pieces atoms, and the kinds of atoms elements. The Vaisheshika list of kinds was not the same as the chemists' list, but the idea of a few lasting kinds of tiny pieces is close.)
 - Science (settled): An element cannot be broken into simpler substances by heating, burning or mixing. Its atoms stay the same kind of atom when they join with others and when they come apart again.
 - Science (debated): Almost all the atoms heavier than hydrogen and helium were made inside stars. Where most gold was made is still argued.
@@ -128,13 +128,13 @@ That morning, Amma opened the steel box where the family kept their silver. Insi
 
 Paati put her hand on his arm. 'Wait,' she said. 'Scrubbing takes the black off, but it takes a little silver off with it. Do that every year, and the bells get thin. Let me show you a better way. My mother taught me this.'
 
-Appa put the toothbrush down. 'Show me, Amma,' he said. Even grown-ups call their mothers Amma.
+Appa put the toothbrush down. 'Show me, Amma,' he said to his mother.
 
 Paati asked Lakshmi to bring a steel bowl and the roll of foil that Amma used for wrapping chapatis. Lakshmi lined the bowl with a big sheet of foil, shiny side up. Paati put in two spoons of cooking soda and one spoon of salt. Then Appa poured in hot water from the kettle. The water fizzed and hissed.
 
-'Now put one kolusu in,' said Paati. 'Make sure it lies on the foil.'
+'Now put one kolusu in,' said Paati. 'Make sure it lies on the foil.' Lakshmi held out one anklet, and Appa lowered it in with a spoon.
 
-Lakshmi dropped one anklet in. She leaned over the bowl, careful to keep her face away from the steam. At first nothing happened. Then, slowly, the grey began to fade. A bell turned pale, then white. A faint smell rose from the bowl, like a boiled egg.
+Lakshmi leaned over the bowl, careful to keep her face away from the steam. At first nothing happened. Then, slowly, the grey began to fade. A bell turned pale, then white. A faint smell rose from the bowl, like a boiled egg.
 
 'Chee, what is that smell?' said Arjun, holding his nose.
 
@@ -174,30 +174,30 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 
 ## Games
 ### g1 · Element or Not? A card sorting game (15 min)
-- **rules:** Draw the sorting mat on a big sheet: One element on the left, Two or more on the right.; Mix the cards and stack them, names up.; On your turn, read the top card aloud. Say One element or Two or more, and why.; Turn the card over and read the back. If you were right, keep the card.; If you were wrong, put the card on the right half of the mat for everyone to see.; When the stack is empty, the player with the most cards wins.
-- **Printable cards: 16 cards to cut out:** A gold coin (back: One element: gold.); Kitchen foil (back: One element: aluminium.); The oxygen in the air (back: One element: oxygen.); A diamond (back: One element: carbon.); Copper wire inside a cable (back: One element: copper.); A silver coin (back: One element, mostly: silver.); An iron tawa (back: Mostly one element: iron, with a little carbon.); The helium in a floating balloon (back: One element: helium.); A glass of water (back: Two elements: hydrogen and oxygen.); A spoon of salt (back: Two elements: sodium and chlorine.); A spoon of sugar (back: Three elements: carbon, hydrogen and oxygen.); A steel tumbler (back: Many elements: iron, carbon, chromium and nickel.); A brass lamp (back: Two elements mixed: copper and zinc.); Black tarnish on silver (back: Two elements: silver and sulfur.); Orange rust on a nail (back: Elements joined: iron, oxygen and hydrogen.); A banana (back: Many elements, mostly carbon, hydrogen and oxygen.)
+- **rules:** Draw the sorting mat on a big sheet: One element on the left, Two or more on the right.; Mix the cards and stack them, names up.; On your turn, read the top card aloud. Put it on the half you think is right, and say why.; Turn the card over and read the back. If you were right, keep the card.; If you were wrong, move the card to the correct half and leave it there. Nobody scores it.; When the stack is empty, the player with the most cards wins. If players tie, they all win.
+- **Printable cards: 16 cards to cut out:** A coin of pure gold (back: One element: gold.); Kitchen foil (back: One element: aluminium.); The oxygen in the air (back: One element: oxygen.); A diamond (back: One element: carbon.); Copper wire inside a cable (back: One element: copper.); A coin of pure silver (back: One element: silver.); Yellow sulfur powder (back: One element: sulfur.); The helium in a floating balloon (back: One element: helium.); A glass of water (back: Two elements: hydrogen and oxygen.); A spoon of salt (back: Two elements: sodium and chlorine.); A spoon of sugar (back: Three elements: carbon, hydrogen and oxygen.); A steel tumbler (back: Many elements: iron, carbon, chromium and nickel.); A brass lamp (back: Two elements mixed: copper and zinc.); Black tarnish on silver (back: Two elements: silver and sulfur.); Orange rust on a nail (back: Elements joined: iron, oxygen and hydrogen.); A banana (back: Many elements, mostly carbon, hydrogen and oxygen.)
 - **Printable board: A sorting mat with two halves:** Left half: One element (draw one big dot); Right half: Two or more (draw a group of joined dots)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Draw the sorting mat. 3. Stack the cards.  
   *Parent says:* Some things are just one element, like gold. Most things are two or more elements joined, like water.  
   *Child mode:* Cut out the cards. Draw the mat. Stack the cards.
 - **s2 (10 min)**  
-  *Parent does:* 1. Take turns reading a card and choosing a side. 2. Turn it over to check. 3. Talk about any surprises.  
+  *Parent does:* 1. Take turns reading a card and putting it on a half. 2. Turn it over to check. 3. Talk about any surprises.  
   *Parent says:* Read your card. One element, or two or more? Why do you think so?  
   *Child mode:* Read a card. Is it one element, or two or more? Say why.
   - Note: Children are often surprised that water, salt and steel are not elements, and that a diamond is. Ask them how they decided.
 - **s3 (2 min)**  
-  *Parent does:* Count the cards on each half of the mat and ask the question below.  
-  *Parent says:* Which half has more cards? Why do you think most things are made of two or more elements?  
-  *Child mode:* Which half has more? Why?
+  *Parent does:* Look at the cards left on the mat, then ask the question below.  
+  *Parent says:* These cards stayed on the mat because someone guessed wrong. Which one surprised you? Why do you think most things are made of two or more elements?  
+  *Child mode:* Look at the cards left on the mat. Which one surprised you?
   - Check: A steel tumbler is… → **Iron mixed with other elements**
 ### g2 · Where Do I Live? An element memory game (15 min)
-- **rules:** Write or draw each card, then cut them out.; Mix the cards and lay them face down in rows.; On your turn, turn over two cards. If they are an element and its place, keep the pair.; When you keep a pair, say one more place where that element is found.; If they do not match, turn them face down again.; When all the pairs are found, the player with the most pairs wins.
-- **Printable cards: 16 cards to cut out, making 8 pairs:** Gold; Paati's earrings; Silver; A kolusu, a silver anklet; Iron; A heavy black tawa; Copper; The wire inside a cable; Aluminium; Kitchen foil; Carbon; The black in a pencil; Oxygen; The air you breathe; Helium; A balloon that floats up
+- **rules:** Cut out the 16 cards.; Mix the cards and lay them face down in four rows of four.; On your turn, turn over two cards. If one is an element and the other is a place where that element is found, keep the pair.; When you keep a pair, say one more place where that element is found.; If they do not match, turn them face down again.; When all the pairs are found, the player with the most pairs wins. If players tie, they all win.
+- **Printable cards: 16 cards to cut out, making 8 pairs:** Gold; Gold earrings; Silver; A kolusu, a silver anklet; Iron; A heavy black tawa; Copper; The wire inside a cable; Aluminium; Kitchen foil; Carbon; The black in a pencil; Oxygen; The air you breathe; Helium; A balloon that floats up
 - **s1 (3 min)**  
-  *Parent does:* 1. Write the 16 cards. 2. Mix them and lay them face down in rows.  
+  *Parent does:* 1. Cut out the 16 cards. 2. Mix them and lay them face down in rows.  
   *Parent says:* Each element card has a partner card: a place where we find that element.  
-  *Child mode:* Write the cards. Mix them. Lay them face down.
+  *Child mode:* Cut out the cards. Mix them. Lay them face down.
 - **s2 (10 min)**  
   *Parent does:* Play until all pairs are found. Each time a pair is kept, the player names one more place.  
   *Parent says:* You found aluminium and foil. Where else do we find aluminium?  
@@ -207,13 +207,13 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   *Parent does:* Ask the question below.  
   *Parent says:* Which element did you find most places for?  
   *Child mode:* Which element is in the most places?
-  - Check: Which element is a gas in the air you breathe? → **Oxygen**
+  - Check: A balloon that floats up is filled with which element? → **Helium**
 
 ## Experiments
 ### e1 · The Foil Bowl: can dark silver shine again without rubbing? (25 min)
 - **question:** A dark silver thing sits in hot water with cooking soda. Will the black go away? Does it matter if the silver touches aluminium foil?
 - **predict:** Will the black go away in the bowl with no foil, in the bowl with foil, in both or in neither? Why do you think so?
-- **fair test:** We use the same silver thing in both bowls. Both bowls get the same hot water, the same soda and the same salt, poured at the same time. The silver stays 5 minutes in each. Only one thing changes: foil or no foil. So any difference comes from the foil.
+- **fair test:** We use the same silver thing in both bowls, the same soda and salt, and the same amount of water from the same pan, poured hot just before the silver goes in. The silver stays 5 minutes in each. Only one thing changes: foil or no foil. So any difference comes from the foil.
 - **safety:** Only a grown-up pours the hot water and lifts the silver out with a spoon. Keep faces back from the steam. Do not use silver with stones, pearls or a dark design that was made dark on purpose, called oxidised silver, because this method takes that dark finish off too.
 - **record:** Draw the silver before, after the no-foil bowl and after the foil bowl. Colour each drawing the colour you saw.
 - **results table:** Bowl | My guess | What colour was the silver after 5 minutes? | Any smell?
@@ -230,17 +230,17 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   - Ask: Why do you think so? (good: Hot water cleans things, so both.; The foil is shiny, so it will make the silver shiny.; Soda cleans things, so both bowls.)
   - Note: Most children guess both bowls, because hot soda water sounds like a cleaner. That is a good, sensible guess. The test will show if it is right.
 - **s3 (3 min) · grown-up needed**  
-  *Parent does:* 1. Line one bowl with foil, shiny side up, pressing it flat. 2. Put 2 teaspoons of soda and 1 of salt in each bowl. 3. A grown-up pours 1 cup of hot water into each.  
-  *Parent says:* Listen to the fizz. Both bowls have the same water, soda and salt. Only the foil is different.  
-  *Child mode:* Press the foil into one bowl. Add soda and salt to both. A grown-up pours hot water.
-  - Note: Water that has just boiled works best. Hot tap water is not hot enough. The fizz is gas let out by the soda in the hot water, and it settles quickly.
+  *Parent does:* 1. Line one bowl with foil, shiny side up, pressing it flat. 2. Put 2 teaspoons of soda and 1 of salt in each bowl. 3. A grown-up boils enough water for both bowls in a pan with a lid.  
+  *Parent says:* Both bowls get the same soda and salt. Only the foil is different. The hot water goes in one bowl at a time.  
+  *Child mode:* Press the foil into one bowl. Add soda and salt to both bowls.
+  - Note: Keep the lid on the pan, so the second cup of water is as hot as the first. Water that has just boiled works best. Hot tap water is not hot enough.
 - **s4 (5 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up lowers the silver into the bowl with no foil, using a spoon. 2. Start a 5-minute timer. 3. Your child watches and draws the silver as it is now.  
+  *Parent does:* 1. A grown-up pours 1 cup of hot water into the bowl with no foil, and lowers the silver in with a spoon. 2. Start a 5-minute timer. 3. Your child watches and draws the silver as it is now.  
   *Parent says:* Watch the silver closely. Is the dark going away? Draw it while we wait.  
   *Child mode:* Watch the silver in the bowl with no foil. Draw it. Is it changing?
-  - Note: Usually very little happens in this bowl. The silver stays dark. That is the result we need, so let your child see it clearly.
+  - Note: The fizz is gas let out by the soda in the hot water, and it settles quickly. Usually very little happens in this bowl. The silver stays dark. That is the result we need, so let your child see it clearly.
 - **s5 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up moves the silver on to the foil, so it touches the foil. 2. Start another 5-minute timer. 3. Watch and sniff gently from a little above the bowl.  
+  *Parent does:* 1. A grown-up pours 1 cup of hot water into the foil bowl. 2. The silver moves on to the foil, so it touches the foil. 3. Start another 5-minute timer. 4. Watch, and smell gently from a little way back.  
   *Parent says:* Now it is lying on the foil. Watch the dark parts. Do you notice a smell?  
   *Child mode:* Now the silver is on the foil. Watch it. Can you smell anything?
   - Note: The dark usually fades within a few minutes, starting where the silver touches the foil. A faint smell of boiled eggs is normal. If the silver is very dark, turn it over halfway, or leave it a few more minutes.
@@ -250,7 +250,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   *Child mode:* Which bowl made it shine? What did you see? Why?
   - Ask: The soda water was the same in both bowls. So what made the difference? (good: The foil.; It had to touch the foil.)
   - Ask: Where do you think the dark part went? (good: To the foil.; Into the water.; Into the smell.)
-  - Note: This is the heart of the unit. Tell your child now: the dark layer was silver joined with sulfur. The foil, which is aluminium, took the sulfur. The same silver atoms stayed on the anklet. Polishing rubs a little silver off. This way puts the silver back.
+  - Note: This is the heart of the unit. Tell your child now: the dark layer was silver joined with sulfur. The foil, which is aluminium, took the sulfur. The same silver atoms stayed on the anklet. Scrubbing rubs a little silver off with the black. This way keeps all the silver.
   - Check: In which bowl did the silver turn shiny? → **The bowl with foil**
 ### e2 · Tamarind or Water: which brings back the shine on brass? (20 min)
 - **question:** A brass lamp or copper vessel has gone dull and brown. Will rubbing with tamarind pulp or with plain water bring back the shine?
@@ -258,27 +258,27 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - **fair test:** We use one dull brass or copper thing, so both halves are the same metal. We rub both halves 20 times with the same cloth and the same push. Only one thing changes: tamarind or plain water.
 - **record:** Draw the brass thing with its two halves. Colour the shiny half and the dull half.
 - **results table:** Half | My guess | Shiny, a little shiny or dull?
-- **s1 (3 min)**  
-  *Parent does:* 1. Put the brass thing on newspaper. 2. Tie or hold a paper strip to mark two halves. 3. Ask for a guess and a reason.  
+- **s1 (5 min)**  
+  *Parent does:* 1. Put the tamarind in warm water to soak. 2. Put the brass thing on newspaper and mark two halves with a paper strip. 3. Ask for a guess and a reason.  
   *Parent says:* This brass was shiny once. One half gets tamarind. The other gets plain water. Which will shine? Why do you think so?  
   *Child mode:* One half gets tamarind. One half gets water. Which will shine? Why?
   - Ask: Why do you think so? (good: Tamarind is sour, and sour things clean.; Water washes things, so both.; Rubbing makes things shine, so both.)
-- **s2 (8 min)**  
+- **s2 (7 min)**  
   *Parent does:* 1. Squeeze the soaked tamarind into a soft pulp. 2. Your child rubs one half 20 times with tamarind on a cloth. 3. They rub the other half 20 times with a cloth dipped in water.  
   *Parent says:* Count your rubs out loud. Twenty on each half. Push the same each time.  
   *Child mode:* Rub the tamarind half 20 times. Rub the water half 20 times. Count out loud.
-  - Note: Tamarind is safe on the hands. Wash hands after. If there is a cut on the hand, it may sting.
+  - Note: Wash hands after. If there is a cut on the hand, tamarind may sting.
 - **s3 (4 min)**  
   *Parent does:* 1. Rinse the whole thing under the tap. 2. Dry it with a clean cloth. 3. Hold it in the light and compare the halves.  
   *Parent says:* Look at both halves in the light. Which one shines? What colour is it now?  
   *Child mode:* Rinse it. Dry it. Which half shines?
-  - Note: The tamarind half usually turns bright, often a pinkish gold on copper and a yellow gold on brass. The water half stays dull.
-- **s4 (5 min)**  
+  - Note: The tamarind half usually turns bright, often a pinkish gold on copper and a yellow gold on brass. The water half stays dull. If neither half changes, the brass may have a clear coating (lacquer) on it. Try another brass or copper thing.
+- **s4 (4 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why. Then compare it with the silver test.  
-  *Parent says:* Why did tamarind work but not water? In the silver test, the silver came back. Here, where did the dull layer go?  
+  *Parent says:* Why did tamarind work but not water? In the foil bowl test, the silver came back. Here, where did the dull layer go?  
   *Child mode:* Why did tamarind work? Where did the dull layer go?
   - Ask: Where did the dull layer go? (good: Into the tamarind.; It washed off.; The sour juice took it away.)
-  - Note: Here the dull layer is washed away into the tamarind water, so a very thin bit of metal goes with it. On the foil, the silver stayed on the anklet. Two different ways to get a shine back.
+  - Note: Here the dull layer is washed away into the tamarind water, so a very thin bit of metal goes with it. In the foil bowl, the silver stayed on the anklet. Two different ways to get a shine back.
   - Check: What took the dull layer off the brass? → **The sour tamarind**
 
 ## Activities
@@ -290,20 +290,20 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   *Child mode:* An element has just one kind of atom. Foil is the element aluminium. Find more!
 - **s2 (6 min)**  
   *Parent does:* 1. Your child collects things on a tray. 2. Give clues for the ones that are hard to find.  
-  *Parent says:* Find something copper. Find a pencil. Find something silver or gold. Find salt, sugar and a steel spoon too.  
+  *Parent says:* Find a pencil, something copper, and something silver or gold. Bring salt, sugar and a steel spoon too.  
   *Child mode:* Find foil, a pencil, something copper and something silver or gold. Bring salt, sugar and a steel spoon too.
-  - Note: Mostly one element: aluminium foil, the copper bottom of a vessel or a copper wire, a pencil core (carbon mixed with clay), a silver coin or anklet, a gold ornament (22-carat gold is mostly gold), an iron tawa or kadai (mostly iron). Two or more elements: salt, sugar, water, a steel spoon, a brass lamp, plastic, paper. Do not let your child take apart any cable or plug.
+  - Note: Mostly one element: aluminium foil, the copper bottom of a vessel or a copper wire, a silver coin or anklet, a gold ornament (22-carat gold is mostly gold, with a little copper or silver). Two or more elements: a pencil (carbon and clay in the core, and wood), salt, sugar, water, a steel spoon, a brass lamp, plastic, paper. It is fine if you cannot find everything. Do not let your child take apart any cable or plug.
 - **s3 (4 min)**  
   *Parent does:* 1. Name each thing together. 2. Your child puts it in the One element column or the Two or more column.  
   *Parent says:* Salt is two elements joined: sodium and chlorine. A steel spoon is iron mixed with others. Which column?  
   *Child mode:* Put each thing in a column. One element, or two or more?
-  - Ask: Is water one element? (good: No. Water is hydrogen and oxygen joined.; No, two elements.)
+  - Ask: Where does a pencil go? (good: Two or more: the core has carbon and clay, and the outside is wood.; Two or more columns, because it is made of different things.)
 - **s4 (3 min)**  
   *Parent does:* 1. Count each column. 2. Ask which column is longer, and why.  
   *Parent says:* How many in each column? Which is longer? Why do you think most things are made of two or more elements?  
   *Child mode:* Count each column. Which has more?
   - Note: Most homes find many more things in the Two or more column. Elements are usually joined with others. Pure elements like gold, copper and aluminium are mostly things people have made pure on purpose.
-  - Check: Which of these is made of just one element? → **A sheet of aluminium foil**
+  - Check: Why were more things in the Two or more column? → **Most things are elements joined together**
 ### a2 · Dot Pictures: draw an element and a mix (15 min)
 - **record:** Three circles: one of all-yellow dots, one of red and blue dot groups, one of green and purple dots in rows, each labelled.
 - **s1 (2 min)**  
@@ -325,7 +325,6 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   *Parent says:* Which circle has only one colour? That one is the element. How are the other two different?  
   *Child mode:* Which circle has one colour? That is the element.
   - Ask: Which circle shows an element? (good: Gold.; The one with only yellow dots.)
-  - Ask: Oxygen is a gas. Water is a liquid. Why are they so different? (good: In water, oxygen is joined to hydrogen.; Joining makes something new.)
 ### a3 · The Pencil Mystery: is there lead in a pencil? (12 min)
 - **record:** Stick or draw the pencil patch. Write: the black is carbon.
 - **s1 (4 min)**  
@@ -340,28 +339,27 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   - Note: Graphite feels slippery because it is made of thin flat layers of carbon atoms that slide over each other.
 - **s3 (5 min)**  
   *Parent does:* Tell the short story of the name, then ask the question below.  
-  *Parent says:* People once called this black stuff lead. A chemist burned it and found it was carbon. So why do we still say pencil lead?  
+  *Parent says:* People once called this black stuff lead. A chemist tested it and found it was carbon. So why do we still say pencil lead?  
   *Child mode:* It is not lead. It is carbon. Why do we still call it lead?
   - Ask: Why do we still say pencil lead? (good: Because people called it that long ago.; The old name stayed.)
-  - Check: What is the black line from a pencil mostly made of? → **Carbon**
 ### a4 · The Ornament Survey: which ones go dark? (15 min)
 - **record:** The survey sheet with tally marks, and one sentence: what goes dark, and what stays shiny.
 - **s1 (8 min)**  
   *Parent does:* 1. Your child asks two or three grown-ups to show an old ornament. 2. They ask how old it is, and if it has gone dark. 3. They make a tally mark.  
   *Parent says:* Ask: What is your oldest ornament? Is it gold or silver? Has it gone dark?  
   *Child mode:* Ask a grown-up: what is your oldest ornament? Is it gold or silver? Is it dark?
-  - Note: Fake gold, plated jewellery and German silver are not real gold or silver. Put them in Other metal.
+  - Note: Fake gold, plated jewellery and German silver are not real gold or silver. Put them in Other metal. If nobody at home has old ornaments, ask a neighbour or a relative.
 - **s2 (7 min)**  
   *Parent does:* 1. Count the tally marks. 2. Ask the questions below.  
   *Parent says:* Look at your tallies. Which kind of ornament stays shiny? Which goes dark?  
   *Child mode:* Count your marks. Which ones stay shiny?
-  - Ask: Why do you think gold stays shiny? (good: Gold hardly joins with anything.; Nothing sticks to gold.)
-  - Check: Paati has worn gold earrings for 50 years. What do they look like now? → **Still shiny**
+  - Ask: What do you notice about the gold ornaments compared with the silver ones? (good: The gold ones are shiny, but many silver ones are dark.; Gold stays shiny. Silver goes dark.)
+  - Check: A grandmother has worn her gold earrings for 50 years. What do they look like now? → **Still shiny**
 
 ## Projects
-### p1 · My Element Book: one element a day (30 min, 5 days)
+### p1 · My Element Book: one element a day (36 min, 5 days)
 - **record:** A five-page book, with a drawing, the element's name and one sentence on each page.
-- **schedule:** day 1: Gold: draw a gold ornament at home. Write where gold comes from. (6 min); day 2: Silver: draw something silver. Write what makes it go dark. (6 min); day 3: Iron: draw an iron tawa or gate. Write what makes it rust. (6 min); day 4: Carbon: make a pencil patch on the page. Write that diamond is carbon too. (6 min); day 5: Oxygen: draw yourself breathing. Write one fact about oxygen. Make a cover. (6 min)
+- **schedule:** day 1: Gold: draw a gold ornament at home. Write one thing about gold, such as why it stays shiny. (6 min); day 2: Silver: draw something silver. Write what makes it go dark. (6 min); day 3: Iron: draw an iron tawa or gate. Write what makes it rust. (6 min); day 4: Carbon: make a pencil patch on the page. Write that diamond is carbon too. (6 min); day 5: Oxygen: draw yourself breathing. Write one fact about oxygen. Make a cover and read the whole book together. (12 min)
 - **s1 (6 min)**  
   *Parent does:* Each day, your child finds that day's element at home, draws it and writes one sentence.  
   *Parent says:* Today's element is gold. Where do we have gold? Draw it. What is one thing you know about gold?  
@@ -375,10 +373,10 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 ## Challenges
 ### c1 · Keep the Silver Bright: design a better silver box (20 min)
 - **problem:** Design a way to store a silver coin or anklet at home so that it goes dark as slowly as possible.
-- **your turn:** Now make your own silver box. Leave one silver thing in your box and one in an open katori. Compare them after one week, or after one day if you put egg yolk next to both.
+- **your turn:** Now make your own silver box. Leave one silver thing in your box and one in an open katori. Compare them after one week. For a faster test, if your family eats eggs: stand the closed box in one big jar and the open katori in the other. Put half an egg yolk in a small cap beside each, never touching the silver, and close the lids tight. Compare after one day.
 - **constraints:** Use only things from home.; The silver must be easy to take out and wear.; Test your idea against silver left in an open katori, kept in the same room.
 - **general:** Shut the silver in an airtight box or zip bag, so less air reaches it.; Wrap it in soft cloth or paper.; Keep it away from the kitchen, where eggs, onions and gas cooking add sulfur to the air.
-- **creative:** Put a piece of chalk in the box. Chalk soaks up damp air, and silver darkens faster when the air is damp.; Put a small strip of foil in the box with the silver.; Squeeze all the air out of a zip bag before you close it.
+- **creative:** Squeeze all the air out of a zip bag before you close it.; Wrap the silver in a soft cloth, then close it in a zip bag.
 - **s1 (5 min)**  
   *Parent does:* 1. Talk about what makes silver go dark. 2. Your child thinks of ways to keep sulfur away.  
   *Parent says:* Silver goes dark when sulfur in the air reaches it. How could we stop the air reaching the silver?  
@@ -387,7 +385,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
   *Parent does:* 1. Your child builds a silver box. 2. Put one silver thing inside it. 3. Put the other in an open katori in the same room.  
   *Parent says:* Build your box. Then put one coin in it and one in the katori, side by side.  
   *Child mode:* Build your box. Put one silver thing in it. Put one in a katori.
-  - Note: Silver darkens slowly in most homes, so the difference may take a week or more to see. Half a hard-boiled egg yolk placed beside each one (not touching) makes the open silver go yellow or grey within a day.
+  - Note: Silver darkens slowly in most homes, so the difference may take a week or more to see. For a faster test, put the closed box in one big jar and the open katori in an identical jar, with half a hard-boiled egg yolk in a small cap beside each, not touching the silver. Shut the lids tight. The sulfur from the yolk usually makes the open silver go yellow or grey within a day. Open the jars on the balcony, as they smell. If nothing shows, wait a few more days.
 - **s3 (5 min)**  
   *Parent does:* 1. After a week, or a day with egg yolk, compare the two. 2. Your child says which way worked and why.  
   *Parent says:* Which one stayed brighter? Why do you think your box worked, or did not?  
@@ -406,8 +404,8 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
    **Answer:** A circle full of dots, all the same colour.. *Why:* A strong drawing uses one colour only, because gold has one kind of atom. Dots packed close show that gold is solid.
 4. (match) Draw a line from each element to a place you find it.  
    **Answer:** Aluminium → Kitchen foil; Carbon → Pencil; Oxygen → Air; Copper → Wire in a cable. *Why:* Foil is aluminium, the black in a pencil is carbon, air is about one fifth oxygen, and cable wires are copper.
-5. (truefalse) A steel spoon is made of just one element.  
-   **Answer:** False. *Why:* False. Steel is mostly iron, mixed with carbon. Stainless steel also has chromium and nickel. So it is an alloy, not an element.
+5. (truefalse) The air you breathe is all oxygen.  
+   **Answer:** False. *Why:* False. About one fifth of the air is oxygen. Most of the rest is another gas called nitrogen.
 6. (write) Remember the foil bowl test? Write what happened to the dark silver in the bowl with no foil, and in the bowl with foil.  
    **Answer:** With no foil, it stayed dark. On the foil, it turned shiny.. *Why:* A strong answer names both bowls and what changed. Only the foil was different, so the foil made the difference.
 7. (fill) The dark layer on old silver is silver joined with ______.  
@@ -417,22 +415,22 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
    **Answer:** 2. *Why:* Water is hydrogen and oxygen joined. Gold, iron and oxygen are elements.
 9. (label) Here is the foil bowl. Label the foil, the hot soda water and the silver.  
    **Answer:** Foil lining the bowl, hot soda water filling it, silver lying on the foil.. *Why:* The silver must lie on the foil, under the water. The foil and the silver have to touch for the sulfur to move.
-10. (perspective) Arjun, a boy of 5, sees his sister's black silver anklet. Their grandmother, Paati, looks at it too.  
+10. (perspective) Arjun, a boy of 5, sees the black silver anklet that his sister Lakshmi wears for Pongal. Their grandmother, Paati, looks at it too.  
    **Answer:** A strong answer picks a side with a reason from the foil test. For example: 'Paati, because the black went away on the foil and the silver was shiny.' Then it is fair to Arjun: the anklet did change, and it looked spoilt.. *Why:* Paati is right that the silver atoms were still there. Arjun is right that something changed: silver joined with sulfur is a new, black substance.
 ### Why some metals change (stretch, 10 questions)
-1. (mcq) Paati's gold earrings are 50 years old and still shine. Her silver anklets went black. Why?  
-   Options: Gold is heavier / Gold hardly joins with other elements / Silver is not a metal  
-   **Answer:** Gold hardly joins with other elements. *Why:* Gold hardly joins with sulfur, oxygen or water. Silver joins with sulfur easily, and silver joined with sulfur is black.
+1. (mcq) Many iron gates are painted. Why does paint help?  
+   Options: It keeps air and water away from the iron / It makes the gate heavier / It turns the iron into gold  
+   **Answer:** It keeps air and water away from the iron. *Why:* Iron joins with oxygen and water to make rust. Paint keeps them away from the iron, so less rust grows.
 2. (write) In the foil bowl, the water smelled a little like boiled eggs. Where do you think the smell came from?  
    **Answer:** From the sulfur that left the silver.. *Why:* A strong answer links the smell to sulfur. A boiled egg smells because of a gas with sulfur in it, and the same kind of gas is made in the foil bowl.
-3. (truefalse) Water is an element.  
-   **Answer:** False. *Why:* False. Water is two elements joined: hydrogen and oxygen. A battery can split water into these two gases.
+3. (truefalse) 22-carat gold ornaments are pure gold, with nothing else mixed in.  
+   **Answer:** False. *Why:* False. 22-carat gold is 22 parts gold and 2 parts other metals, such as copper or silver, to make it harder.
 4. (order) Put these in order, for the foil bowl test.  
    **Answer:** ['Line a bowl with foil', 'Add soda, salt and hot water', 'Lay the dark silver on the foil', 'Rinse it and see it shine']. *Why:* The foil goes in first, then the hot soda water. The silver must lie on the foil. After a few minutes it is lifted out and rinsed.
-5. (draw) Draw a zoomed-in circle of salt. Use one colour for sodium atoms and another for chlorine atoms.  
-   **Answer:** Dots of two colours, taking turns in rows.. *Why:* A strong drawing uses two colours, because salt has two kinds of atoms. Neat rows show that salt atoms sit in a grid.
-6. (fill) A pencil does not have lead in it. The black is ______.  
-   **Answer:** ['carbon']. *Why:* Pencil cores are graphite, a form of carbon, mixed with clay.
+5. (draw) Sugar is carbon, hydrogen and oxygen joined. Draw a zoomed-in circle of sugar. Use a different colour for each kind of atom.  
+   **Answer:** Dots of three colours, joined in small groups.. *Why:* A strong drawing uses three colours, because sugar has three kinds of atoms, joined together.
+6. (fill) Brass is a mix of copper and ______.  
+   **Answer:** ['zinc']. *Why:* Brass is an alloy of copper and zinc.
 7. (mcq) Tamarind made the brass shine, but plain water did not. What did the tamarind do?  
    Options: It painted the brass gold / Its sour juice dissolved the dull layer / It made the brass hotter  
    **Answer:** Its sour juice dissolved the dull layer. *Why:* The sour acid in tamarind dissolves the dull layer of copper joined with oxygen. The bright metal underneath shows again.
@@ -442,29 +440,29 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 9. (label) Here is a zoomed-in picture of water. Label an oxygen atom and a hydrogen atom.  
    **Answer:** The big middle dot is oxygen. The two small dots stuck to it are hydrogen.. *Why:* Each tiny bit of water is one oxygen atom joined to two hydrogen atoms.
 10. (perspective) Kavya, a girl of 8, and her friend Farhan, a boy of 8, want to make Kavya's dark silver coin shine for Diwali.  
-   **Answer:** A strong answer gives a reason. For example: 'Farhan, because scrubbing rubs a little silver away, and the foil puts the silver back.' Then it is fair to Kavya: scrubbing is quick and works on silver that cannot go in hot water.. *Why:* Both work. Scrubbing takes the tarnish off along with a little silver. The foil method takes away only the sulfur, so the silver stays. But silver with stones or a dark design should not go in the foil bowl.
+   **Answer:** A strong answer gives a reason. For example: 'Farhan, because scrubbing rubs a little silver away, and the foil bowl keeps all the silver.' Then it is fair to Kavya: scrubbing is quick and works on silver that cannot go in hot water.. *Why:* Both work. Scrubbing takes the tarnish off along with a little silver. The foil method takes away only the sulfur, so the silver stays. But silver with stones or a dark design should not go in the foil bowl.
 ### Thinking like a chemist (challenge, 10 questions)
 1. (write) Oxygen is a gas you cannot see. Water is a liquid you can drink. But water has oxygen in it. How can that be?  
    **Answer:** In water, oxygen is joined to hydrogen. Joined elements make something new.. *Why:* A strong answer says that when elements join, they make a new substance that can look and act nothing like them.
 2. (mcq) Meenakshi, a girl in Class 2, puts her dark silver toe ring in hot soda water, but it does not touch the foil. What will happen?  
    Options: It turns shiny anyway / It stays mostly dark / It turns gold  
    **Answer:** It stays mostly dark. *Why:* The sulfur can only move to the aluminium where the silver touches the foil. So the toe ring stays mostly dark.
-3. (count) Lakshmi's survey found 6 gold ornaments and 5 silver ones. All 6 gold ones were shiny. 4 of the silver ones were dark. How many ornaments were shiny?  
+3. (count) Nisha, a girl in Class 2, asked grown-ups in her building about their oldest ornaments. She found 6 gold ones and 5 silver ones. All 6 gold ones were shiny. 4 of the silver ones were dark. How many ornaments were shiny?  
    **Answer:** 7. *Why:* All 6 gold ones were shiny. Of 5 silver ones, 4 were dark, so 1 was shiny. 6 and 1 makes 7.
 4. (truefalse) A diamond and the black in a pencil are made of the same element.  
    **Answer:** True. *Why:* True. Both are carbon. In a diamond, the carbon atoms are held in a hard, clear pattern. In pencil graphite, they are in soft, flat layers.
 5. (draw) Draw the dark silver before and after the foil bowl. Then draw where the sulfur went.  
    **Answer:** A dark anklet, a shiny anklet, and the sulfur shown on the foil or in the water.. *Why:* A strong drawing shows that the silver stays on the anklet, and the sulfur moves away to the foil. Nothing new is added to the silver.
-6. (perspective) Long ago, many thinkers in India and Greece said water, air, fire and earth were the basic things everything is made of. Today, chemists say there are 118 elements.  
+6. (perspective) Long ago, thinkers in India and Greece named basic things, such as water, air, fire and earth, that everything is made of. Today, chemists say there are 118 elements.  
    **Answer:** A strong answer uses evidence. For example: 'The chemist, because a battery can split water into two gases.' Then it is fair to the thinker: they were right that everything is made of a few basic things, mixed in different ways.. *Why:* Both had the same big idea: a few basic things make up everything. The chemist's list comes from tests that split substances apart.
-7. (write) Farhan says, 'Shiny means it is an element.' Is he right? Give an example to test his idea.  
+7. (write) Farhan, a boy of 8, says, 'Shiny means it is an element.' Is he right? Give an example to test his idea.  
    **Answer:** No. A steel spoon is shiny but it is iron mixed with other elements. Brass is shiny but it is copper and zinc.. *Why:* A strong answer tests the idea with a shiny thing that is not an element, like steel or brass. It may also say that oxygen is an element but is not shiny at all.
 8. (fill) A metal made by melting two or more elements together is called an ______.  
    **Answer:** ['alloy']. *Why:* Brass, bronze and steel are alloys.
 9. (match) Draw a line from each change to what joined.  
    **Answer:** Silver goes black → Silver and sulfur; An iron nail goes orange → Iron, oxygen and water; Brass goes dull brown → Copper and oxygen. *Why:* Each change is a metal joining with something from the air or water. Gold hardly joins with any of these, so it does not change.
 10. (label) Here are four things on a shelf. Label each one: element or alloy.  
-   **Answer:** Gold earring: element. Brass lamp: alloy. Steel tumbler: alloy. Copper wire: element.. *Why:* Gold and copper are elements. Brass is copper and zinc. Steel is mostly iron, with carbon and other elements.
+   **Answer:** Bar of pure gold: element. Brass lamp: alloy. Steel tumbler: alloy. Copper wire: element.. *Why:* Pure gold and copper are elements. Brass is copper and zinc. Steel is mostly iron, with carbon and other elements.
 
 ## Videos
 - **Cleaning tarnished silver with foil, soda and hot water** (, 4 min) id `to find`: Shows the black fading from silver lying on aluminium foil in hot soda water. *Check:* Find a short, clear video. Check it says the sulfur moves to the aluminium, and does not call it magic or dirt washing off.
@@ -483,16 +481,16 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
    **Answer:** Oxygen. *Why:* About one fifth of the air is oxygen. Steam is water, and smoke is a mix of many things.
 4. (mcq) Kitchen foil is made of which element?  
    Options: Iron / Silver / Aluminium  
-   **Answer:** Aluminium. *Why:* Foil is almost all aluminium. If you chose silver, look at the box: it says aluminium foil.
+   **Answer:** Aluminium. *Why:* Foil is almost all aluminium. Silver is a shiny metal too, but kitchen foil is not silver.
 5. (mcq) Nisha, a girl in Class 2, sorts things at home. Which one should go in the 'two or more elements' column?  
    Options: A copper wire / A spoon of sugar / A gold coin  
    **Answer:** A spoon of sugar. *Why:* Sugar is carbon, hydrogen and oxygen joined. Copper and gold are elements.
 6. (mcq) In the foil bowl test, dark silver turned shiny. Where was the silver while it was dark?  
    Options: It had gone away / It was still there, joined with sulfur / It had turned into gold  
    **Answer:** It was still there, joined with sulfur. *Why:* The dark layer was silver joined with sulfur. When the foil took the sulfur, the same silver was left.
-7. (mcq) In the foil bowl test, the silver sat in hot soda water with no foil first. What happened?  
-   Options: It stayed dark / It turned shiny / It turned orange  
-   **Answer:** It stayed dark. *Why:* Without foil, the sulfur has nowhere to go, so the silver stays dark. If you chose shiny, try the test again and watch the bowl with no foil.
+7. (mcq) In the foil bowl test, which part took the sulfur away from the silver?  
+   Options: The aluminium foil / The salt / The steel spoon  
+   **Answer:** The aluminium foil. *Why:* Aluminium holds on to sulfur more strongly than silver does. So the sulfur moves from the silver to the foil, and the silver is left shiny.
 8. (mcq) Why do pure gold ornaments stay shiny for hundreds of years?  
    Options: Gold hardly joins with other elements / Gold is cleaned every day / Gold is very light  
    **Answer:** Gold hardly joins with other elements. *Why:* Gold hardly joins with sulfur, oxygen or water, so no dark layer grows on it.
@@ -511,7 +509,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - Copper is used for electric wires in every home, because electricity flows through it easily.
 - Hospitals give oxygen from tanks to people who cannot get enough by breathing air.
 - Aluminium foil keeps chapatis and dosas warm in tiffin boxes, and aluminium is used for pressure cookers.
-- Museums use the foil-and-soda method, or gentler ones, to clean old silver without rubbing away the silver itself.
+- Many families clean silver anklets and puja items before a festival. The foil-and-soda method cleans them without rubbing the silver away.
 
 ## Spotted around us
 - Silver anklets, toe rings and Diwali coins that have gone grey or black in a drawer, in homes all over India.
@@ -541,13 +539,12 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - Why did the iron nail stay indoors in the monsoon? *It did not want to get rusty.*
 - Why did the diamond and the pencil call each other cousins? *They are both carbon, under the shine.*
 - Why did the helium balloon leave the party early? *It was feeling a bit light-headed.*
-- What is a sulfur atom's favourite breakfast? *Boiled eggs, of course.*
 
 ## Connected maths
-- In the Element Hunt, Kavya found 4 things made of one element and 9 things made of two or more. How many more things were in the two-or-more column? **5 more.**. 9 take away 4 is 5. So the two-or-more column had 5 more things. (queues `math.addition-subtraction.meaning.L2`)
-- Lakshmi's survey found 3 dark silver anklets, 2 dark silver coins and 1 shiny silver coin. How many silver things did she count in all? How many were dark? **6 silver things. 5 were dark.**. 3 and 2 and 1 makes 6 silver things. The dark ones are 3 and 2, which is 5. (queues `math.data.sorting-and-tallies.L2`)
+- In the Element Hunt, Kavya, a girl of 8, found 4 things made of one element and 9 things made of two or more. How many more things were in the two-or-more column? **5 more.**. 9 take away 4 is 5. So the two-or-more column had 5 more things. (queues `math.addition-subtraction.meaning.L2`)
+- Anjali, a girl of 7, counted the silver things in her building's survey: 3 dark anklets, 2 dark coins and 1 shiny coin. How many silver things did she count in all? How many were dark? **6 silver things. 5 were dark.**. 3 and 2 and 1 makes 6 silver things. The dark ones are 3 and 2, which is 5. (queues `math.data.sorting-and-tallies.L2`)
 - Gold jewellery marked 22 carat has 22 parts gold out of 24 parts. How many parts are other metals? **2 parts.**. 24 take away 22 is 2. So 2 parts in every 24 are other metals, like copper or silver. (queues `math.addition-subtraction.number-facts.L2`)
-- Each tiny bit of water is 1 oxygen atom and 2 hydrogen atoms. Farhan draws 4 bits of water. How many hydrogen dots does he need? How many oxygen dots? **8 hydrogen dots and 4 oxygen dots.**. Each bit of water needs 2 hydrogen dots. 2 and 2 and 2 and 2 makes 8. Each bit needs 1 oxygen dot, so 4 bits need 4. (queues `math.multiplication.equal-groups.L2`)
+- Each tiny bit of water is 1 oxygen atom and 2 hydrogen atoms. Farhan, a boy of 8, draws 4 bits of water. How many hydrogen dots does he need? How many oxygen dots? **8 hydrogen dots and 4 oxygen dots.**. Each bit of water needs 2 hydrogen dots. 2 and 2 and 2 and 2 makes 8. Each bit needs 1 oxygen dot, so 4 bits need 4. (queues `math.multiplication.equal-groups.L2`)
 
 ## Song
 One Kind of Atom (sci.chemistry.L2): Topic-level song for Chemistry L2
@@ -555,7 +552,7 @@ One Kind of Atom (sci.chemistry.L2): Topic-level song for Chemistry L2
 ## Links
 - [Royal Society of Chemistry: the periodic table](https://periodic-table.rsc.org/) · interactive: For the parent: a picture and a few plain facts for every element, to look up gold, silver or oxygen together.
 - [PhET: Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom) · simulation: For an older sibling or a curious parent: build atoms and see which element you have made.
-- [Government Museum, Egmore: the bronze gallery]() · place · Chennai: Famous Chola bronzes, made of copper mixed with tin, many hundreds of years old.
+- [Government Museum, Egmore: the bronze gallery]() · place · Chennai: Famous Chola bronzes, made mainly of copper mixed with other metals, many hundreds of years old.
 - [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries, good for a day of trying things out together.
 - [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on galleries and live science shows.
 

@@ -12,7 +12,7 @@
   "art": "Side by side: a calf standing next to a cow in a field, a bare sparrow chick with shut eyes in a nest, and a human baby lying on a mat."
  },
  "outcomes": [
-  "By the end I can say how young animals, and humans, change as they grow into adults.",
+  "By the end I can say how young animals, including humans, change as they grow into adults.",
   "By the end I can say which babies can walk soon after birth, and which need a lot of care.",
   "By the end I can name ways that parents and other helpers care for young: feeding, keeping warm, keeping safe, cleaning and teaching.",
   "By the end I can say how babies help their own care: by begging, calling, crying, holding on and showing bright mouths.",
@@ -70,7 +70,7 @@
    "status": "defined",
    "context": "This card is about what changes when a young animal grows into an adult.",
    "definition": "Growth is how a young animal gets bigger and changes until they become an adult.",
-   "description": "Young animals get bigger as they grow. They also change. A kitten is born with her eyes shut. Her eyes open after about one to two weeks, and later she grows teeth and learns to hunt. A chick hatches with soft fluff, and grows proper feathers in a few weeks. Humans change too. A baby has no teeth, cannot walk and cannot talk. Then teeth grow, the baby walks at about one year old and starts to talk. People keep getting taller until they are teenagers, or a little older. Then they stop getting taller, but their bodies still keep changing all through life.",
+   "description": "Young animals get bigger as they grow, and they also change. A kitten is born with her eyes shut. They open after about one to two weeks, and later she grows teeth and learns to hunt. A human baby has no teeth and cannot walk or talk. Then teeth grow, the baby walks at about one year old and starts to talk.",
    "examples": [
     "A puppy opens their eyes after about two weeks.",
     "A chick's fluff is replaced by feathers.",
@@ -85,7 +85,7 @@
    "status": "defined",
    "context": "This card is about how much a baby animal can do on the first day of life.",
    "definition": "Some young animals can walk and feed soon after birth. Others are born helpless and need a lot of care.",
-   "description": "A calf stands up within about an hour of being born, and soon follows her mother. A goat kid does the same. A hen's chick walks and pecks at food on the day she hatches. A baby gecko hatches from the egg and hunts insects alone. Other babies are born helpless. A sparrow chick hatches with almost no feathers and with shut eyes. A newborn kitten cannot see or walk properly. A human baby cannot hold up their own head at first, and needs years of care. Humans have one of the longest childhoods of any animal.",
+   "description": "A calf stands up within about an hour of birth and soon follows her mother. A goat kid, a duckling and a hen's chick can walk within a day. A sparrow chick hatches with almost no feathers and shut eyes. A newborn kitten cannot see or walk properly. A human baby cannot even hold up their head at first, and needs years of care. Humans have one of the longest childhoods of any animal.",
    "examples": [
     "Born ready: a calf, a goat kid, a hen's chick, a duckling, a baby gecko.",
     "Born needing care: a kitten, a puppy, a sparrow chick, a crow chick, a baby mouse, a human baby."
@@ -98,7 +98,7 @@
    "status": "defined",
    "context": "This card is about the ways that parents, and other helpers, look after young animals.",
    "definition": "Care means feeding the young, keeping them warm, keeping them safe, keeping them clean and teaching them.",
-   "description": "Parents feed their young. Mammal mothers make milk, and sparrow parents bring insects to the nest many times an hour. Parents keep young warm: a hen broods her chicks under her wings. Parents keep young safe: a crow will dive at a person who comes near the nest. A mother cow licks her calf clean. Often more than one carer helps. Both sparrow parents feed the chicks. Among langur monkeys, the other females take turns holding a new baby. In a honeybee hive, the young are fed by their older sisters, the worker bees. Human babies are cared for by parents, grandparents, aunts, older brothers and sisters, and friends.",
+   "description": "Parents feed their young. Mammal mothers make milk, and sparrow parents bring insects to the nest many times an hour. A hen keeps her chicks warm under her wings, and a crow will dive at a person who comes near the nest. Often more than one carer helps. Both sparrow parents feed the chicks, and langur aunts take turns holding a baby. In a honeybee hive, older sisters feed the young. Human babies are cared for by parents, grandparents, aunts, older brothers and sisters, and friends.",
    "examples": [
     "A hen keeps her chicks warm under her wings.",
     "Langur aunts take turns holding a baby.",
@@ -113,7 +113,7 @@
    "status": "defined",
    "context": "This card is about the things babies do to get looked after.",
    "definition": "Young animals send signals that tell carers what they need: begging calls, open mouths, crying, holding on and smiling.",
-   "description": "A sparrow chick stretches up, cheeps and opens a wide yellow-edged mouth when a parent lands. A hungry chick begs harder than a full one. A puppy whimpers when they are cold or alone. A baby langur holds on tight to the fur of whoever carries them. A human baby cries when hungry or uncomfortable, and grips a finger that touches their palm. By about six weeks old, most human babies smile at the faces around them. Each of these signals helps a carer know what to do next. So care is something the baby and the carer do together.",
+   "description": "A sparrow chick stretches up, cheeps and opens a wide yellow-edged mouth when a parent lands. A hungry chick begs harder than a full one. A puppy whimpers when cold or alone, and a baby langur holds on tight to the fur of whoever carries them. A human baby cries when hungry and grips a finger that touches their palm. By about six weeks old, most human babies smile at the faces around them. Each signal helps a carer know what to do next, so care is something the baby and the carer do together.",
    "examples": [
     "A chick opens a bright mouth wide.",
     "A kitten mews when she is away from her mother.",
@@ -164,8 +164,8 @@
   {
    "claim": "Only mothers look after babies.",
    "who": "A common idea",
-   "for": "In many mammals, like cats and cows, the mother does almost all the care. Only mothers make milk.",
-   "against": "Sparrow fathers feed the chicks as often as the mothers do. Langur aunts hold babies. Worker bees, who are sisters, feed young bees. Human babies are cared for by many people: fathers, grandparents, aunts and older children.",
+   "for": "In most mammals, like cats and cows, the mother does almost all the care. Only mother mammals make milk.",
+   "against": "Sparrow fathers feed the chicks about as often as the mothers do. Langur aunts hold babies. Worker bees, who are sisters, feed young bees. Human babies are cared for by many people: fathers, grandparents, aunts and older children.",
    "status": "rejected",
    "context": "This card is about who does the caring."
   },
@@ -173,7 +173,7 @@
    "claim": "If a person touches a baby bird, the parents will smell the person and leave the chick.",
    "who": "A very common belief, told to many children",
    "for": "It is true that people should not touch nests or chicks. Disturbing a nest can scare the parents, and the chicks can get hurt.",
-   "against": "Most birds have a weak sense of smell. Scientists who must handle chicks, to weigh them, find that the parents come back and keep feeding them. Still, leave nests alone and watch from far away.",
+   "against": "Most small birds have a weak sense of smell. Scientists who must handle chicks, to weigh them, find that the parents come back and keep feeding them. Still, leave nests alone and watch from far away.",
    "status": "rejected",
    "context": "This card is about a belief that is wrong, though the advice behind it is good."
   },
@@ -206,7 +206,7 @@
    "hint": "Think about all the things you have learnt since you were a baby. Could a calf learn all of them?"
   },
   {
-   "q": "Does a sparrow parent feel something when the chicks beg? What might it feel like?",
+   "q": "What might a sparrow parent feel when the chicks beg?",
    "kind": "big",
    "hint": "Think about how you feel when a small child asks you for help."
   },
@@ -249,7 +249,7 @@
    "Then, one day, there was a chick sitting on the stair railing, fluffing out their feathers. The chick could fly a little, but not far. The father sparrow landed next to them. The chick shivered their wings and opened their yellow mouth wide. The father fed them a moth.",
    "'The chick has left the nest, and the father is still feeding them,' said Kavya.",
    "'Young birds keep begging for a while after they leave the nest,' said Ammachi. 'The parents keep feeding them until the young ones learn to find food by themselves.'",
-   "That evening, Rahul's mother rang from Bengaluru. Rahul told her all about the sparrows. 'And Kavya says,' he said, 'I was a baby who begged too. I cried, and you came.'",
+   "That evening, Rahul's mother rang from Bengaluru. Rahul told her all about the sparrows. 'Kavya says I was a baby who begged too,' he said. 'I cried, and you came.'",
    "His mother laughed. 'You did. You cried very loudly. And you held my finger so tight, I could not let go.'",
    "Kavya drew one last picture in the notebook. It showed a dark hole, three yellow mouths, and a sparrow flying in. Under it she wrote: 'Who did the caring? Everyone did.'"
   ],
@@ -270,7 +270,7 @@
   {
    "id": "e1",
    "title": "Find the Hungry Mouth: which chick gets fed in a dark nest?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you make a nest of paper chick mouths in four colours. In a dim room, you play the parent bird and feed every mouth you can find. Then you count which colours got fed most.",
    "question": "In a dark nest, which colour of chick mouth does a parent find and feed most often?",
@@ -310,11 +310,11 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the chana away from toddlers, who could choke on them. In the dim room, walk slowly and keep the floor clear.",
+   "safety": "Keep the chana away from toddlers, who could choke on them.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Make 8 paper mouths, line the nest, then feed the mouths in dim light three times and in bright light once. Count and compare."
     }
    ],
@@ -329,8 +329,8 @@
      "caption": "2. Line the nest with dark cloth and scatter the mouths."
     },
     {
-     "art": "A dim room with curtains closed and a child bending over the box, dropping a chana onto a yellow circle, while a grown-up counts on her fingers.",
-     "caption": "3. In dim light, drop one chana on each mouth you can find, in 10 seconds."
+     "art": "A dim room with curtains closed and a child bending over the box, putting a chana onto a yellow circle, while a grown-up counts on her fingers.",
+     "caption": "3. In dim light, put one chana on each mouth you can find, in 10 seconds."
     },
     {
      "art": "The box in bright light with chana on the paper circles, most on the yellow ones, and a child counting.",
@@ -348,7 +348,7 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to guess which colour they will feed most in the dark, and why. Write the guess down.",
      "say": "Soon the room will be dim, like a nest in a hole. You are the parent bird. Which mouths will you feed most? Why do you think so?",
      "kid": "Guess. Which colour will you feed most in the dark? Why?",
@@ -366,7 +366,7 @@
     },
     {
      "id": "s3",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Line the box or kadai with the dark cloth. 2. Your child looks away. 3. Scatter the 8 mouths on the cloth, apart from each other. 4. Close the curtains and switch off the lights.",
      "say": "Close your eyes while I make the nest. Now the room is dim, like a hole in a wall. Can you still see a little?",
      "kid": "Look away while the nest is made. Now the room goes dim.",
@@ -374,10 +374,10 @@
     },
     {
      "id": "s4",
-     "mins": 6,
-     "do": "1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child drops one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, and write the numbers in the table. 5. Mix the mouths again and repeat. Do 3 rounds.",
+     "mins": 5,
+     "do": "1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child puts one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, and write the numbers in the table. 5. Mix the mouths while your child looks away, and make the room dim again. 6. Repeat. Do 3 rounds in all.",
      "say": "Ready, parent bird? You have ten seconds to feed every mouth you can find. One chana on each mouth. Go!",
-     "kid": "Drop one chana on each mouth you see. Be quick! Then count.",
+     "kid": "Put one chana on each mouth you see. Be quick! Then count.",
      "ask": [
       {
        "q": "Which mouths were easy to find?",
@@ -387,11 +387,11 @@
        ]
       }
      ],
-     "parent": "Chana that land on the cloth do not count. Mix the mouths well each time, with your child looking away. Usually yellow mouths get the most chana, then orange. Black and brown are often missed, because they are hard to see against the dark cloth. If every colour is found in every round, the room is too bright: make it dimmer."
+     "parent": "A chana put on the cloth does not count. Mix the mouths well each time, with your child looking away. Usually yellow mouths get the most chana, then orange. Black and brown are often missed, because they are hard to see against the dark cloth. Each mouth can get only one chana, so a colour can get at most 2 in a round and 6 in three rounds. If every colour is found in every round, the room is too bright: make it dimmer. If your result is different, that is a real result too: talk about why."
     },
     {
      "id": "s5",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Switch the lights on and open the curtains. 2. Mix the mouths. 3. Do one more round of 10 seconds in bright light. 4. Count the chana on each colour.",
      "say": "Now let's do it once in bright light. Will the colour still matter?",
      "kid": "Now try in bright light. Is every mouth easy to find?",
@@ -399,7 +399,7 @@
     },
     {
      "id": "s6",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Add up the dim-light rounds for each colour. 2. Your child draws one block for each chana, to make a block graph. 3. Ask what they think, what they saw, and why.",
      "say": "Which colour got fed most in the dark? Was your guess right? Why do you think that colour did best?",
      "kid": "Add up. Which colour got the most food? Why?",
@@ -412,7 +412,7 @@
        ]
       }
      ],
-     "parent": "A strong answer uses the numbers: 'Yellow got 15 chana and black got 3, because yellow shows up in the dark.' Now read the card on why chick mouths are so bright.",
+     "parent": "A strong answer uses the numbers: 'Yellow got 5 chana and black got 1, because yellow shows up in the dark.' Now read the card on why chick mouths are so bright.",
      "check": {
       "t": "mcq",
       "q": "Sparrow chicks live in dark holes in walls. Why are yellow mouth edges useful to them?",
@@ -441,7 +441,7 @@
      "qty": 1
     },
     {
-     "item": "6 small cards with a baby drawn on each: calf, chick, kitten, puppy, human baby, goat kid",
+     "item": "6 small cards with a baby drawn on each: calf, hen's chick, kitten, puppy, human baby, goat kid",
      "qty": 6
     }
    ],
@@ -455,11 +455,11 @@
    "record": "Draw the line in your notebook with each baby in the right place.",
    "setup": [
     {
-     "art": "A string across a floor, with a paper label 'just born' at one end and 'two years' at the other end, and small marks for 'one day', 'one month' and 'one year'.",
+     "art": "A string across a floor, with a paper label 'just born' at one end and 'two years' at the other end, and small marks for 'one hour', 'one day', 'one month' and 'one year'.",
      "caption": "1. Lay a line from 'just born' to 'two years old'."
     },
     {
-     "art": "A child placing small cards of a calf, a chick, a kitten, a puppy and a human baby along the string.",
+     "art": "A child placing small cards of a calf, a goat kid, a chick, a kitten, a puppy and a human baby along the string.",
      "caption": "2. Put each baby where you think they first walk."
     }
    ],
@@ -467,7 +467,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the string across the room. 2. Put a paper at one end saying 'just born'. 3. Put papers along it: 'one day', 'one month', 'one year', and 'two years' at the far end.",
+     "do": "1. Lay the string across the room. 2. Put a paper at one end saying 'just born'. 3. Put papers along it: 'one hour', 'one day', 'one month', 'one year', and 'two years' at the far end.",
      "say": "This line is time. Here is the day a baby is born. Over there, the baby is two years old.",
      "kid": "This line is time. One end is birth. The far end is two years."
     },
@@ -550,7 +550,7 @@
    "record": "A page with three pictures: my first food, my food when I was one, my food now.",
    "setup": [
     {
-     "art": "A girl with a notebook asking her grandmother questions, the grandmother smiling and holding up a small steel bowl.",
+     "art": "A girl with a notebook asking a grown-up questions, the grown-up smiling and holding up a small steel bowl.",
      "caption": "1. Ask a grown-up what you ate as a baby."
     },
     {
@@ -575,7 +575,7 @@
      "kid": "Draw your three foods in order. What changed?",
      "ask": [
       {
-       "q": "Why did a baby you eat soft food?",
+       "q": "Why does a baby eat soft food?",
        "good": [
         "Because I had no teeth.",
         "Because a baby cannot chew hard food."
@@ -586,7 +586,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask who fed your child, and who they feed or help now.",
+     "do": "Ask your child who fed them as a baby, and who or what they feed or help now.",
      "say": "Many people fed you. Is there anyone, or any plant or pet, that you feed now?",
      "kid": "Who fed you? Who do you feed or help now?"
     }
@@ -687,7 +687,7 @@
      "caption": "1. Put the animals in order: who grows up fastest?"
     },
     {
-     "art": "The same five cards in a row from mouse to human, with short labels: weeks, about 1 year, about 2 years, about 15 years, about 18 years.",
+     "art": "The same five cards in a row from mouse to human, with short labels: about 2 months, 1 to 2 years, about 2 years, about 15 years, about 18 years.",
      "caption": "2. Check the real times."
     }
    ],
@@ -704,14 +704,15 @@
      "mins": 5,
      "do": "Read the answers. A mouse is grown up in about two months. A dog in about one to two years. A cow in about two years. An elephant in about 15 years. A human in about 18 years.",
      "say": "A mouse is grown up in about two months. A dog in about one or two years. A cow in about two years. An elephant takes about 15 years. A human takes about 18 years.",
-     "kid": "Check your order. Were you right?"
+     "kid": "Check your order. Were you right?",
+     "parent": "A dog and a cow are close: either order is fine for those two."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Compare with your child's age.",
-     "say": "You are seven. A dog of seven is already a grown-up. How many more years until you are grown up?",
-     "kid": "You are seven. How many years until you are 18?",
+     "do": "Compare with your child's age. Ask how old they are, and how many years are left until 18.",
+     "say": "How old are you? A dog of that age is already a grown-up. How many more years until you are 18?",
+     "kid": "How old are you? How many years until you are 18?",
      "check": {
       "t": "mcq",
       "q": "Which animal takes longest to grow up?",
@@ -765,7 +766,7 @@
       },
       {
        "f": "Elephant calf",
-       "b": "Ready to walk. An elephant calf stands within a few hours, but drinks milk and learns from the herd for years."
+       "b": "Ready. An elephant calf stands within a few hours, but drinks milk and learns from the herd for years."
       },
       {
        "f": "Baby spider",
@@ -815,13 +816,13 @@
     }
    ],
    "rules": [
-    "Before you play, draw the baby quickly on each card, so that a child who cannot read yet can play.",
+    "Draw a quick baby on the front of each card, next to the name.",
     "Lay the two mats on the floor, a little apart.",
     "Mix the cards and put them face down in a pile.",
     "One player turns over the top card and reads the name aloud.",
-    "Everyone races to put a hand on the right mat. A hand on the wrong mat means you sit out that card.",
-    "Turn the card over and read the back aloud to check. The first hand on the right mat wins the card.",
-    "When the pile is finished, the player with the most cards wins. If two players have the same number, they both win."
+    "Everyone, including the reader, races to put a hand on the right mat. A hand on the wrong mat means you sit out that card.",
+    "Turn the card over and read the back aloud to check. The first hand on the right mat wins the card. If nobody was right, put the card at the bottom of the pile.",
+    "Take turns to be the reader. When the pile is finished, the player with the most cards wins. If two players have the same number, they both win."
    ],
    "flow": [
     {
@@ -851,9 +852,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the cards and talk.",
-     "say": "Which mat is the human baby on? Why do you think human babies need help for so long?",
-     "kid": "Count your cards. Why do human babies need help so long?",
+     "do": "Count the cards.",
+     "say": "Which mat is the human baby on? Count your cards.",
+     "kid": "Count your cards. Which mat is the human baby on?",
      "check": {
       "t": "mcq",
       "q": "Which baby needs the most help after birth?",
@@ -1050,7 +1051,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Kavya counted 30 marks for care she got and 12 for care she gave. What does that show?",
+      "q": "Kavya, a girl in Class 2, counted 30 marks for care she got and 12 for care she gave. What does that show?",
       "options": [
        "Kavya never cares for anyone",
        "Kavya gets more care than she gives, but she gives care too",
@@ -1176,12 +1177,12 @@
        "Dog"
       ],
       [
-       "Baby",
-       "Human"
+       "Human baby",
+       "Adult human"
       ]
      ],
      "a": "pairs as given",
-     "why": "A calf grows into a cow, a kid into a goat, a chick into a hen, a puppy into a dog and a baby into an adult human.",
+     "why": "A calf grows into a cow, a kid into a goat, a chick into a hen, a puppy into a dog and a human baby into an adult human.",
      "art": "Five babies on the left and five adults on the right, mixed up."
     },
     {
@@ -1256,9 +1257,9 @@
     },
     {
      "t": "count",
-     "p": "A sparrow mother brings food 4 times. The father brings food 3 times. How many feeds is that?",
-     "a": 7,
-     "why": "4 and 3 make 7 feeds. Both parents feed the chicks."
+     "p": "A hen has 9 chicks. 4 chicks walk away to peck at seeds. How many chicks are still under her wings?",
+     "a": 5,
+     "why": "9 take away 4 leaves 5 chicks under her wings."
     },
     {
      "t": "label",
@@ -1311,19 +1312,10 @@
    "mins": 15,
    "items": [
     {
-     "t": "order",
-     "p": "Put these in order, from the baby who walks first to the baby who walks last.",
-     "items": [
-      "a human baby",
-      "a calf",
-      "a puppy"
-     ],
-     "a": [
-      "a calf",
-      "a puppy",
-      "a human baby"
-     ],
-     "why": "A calf stands within about an hour, a puppy walks at about three or four weeks, and a human baby at about one year."
+     "t": "truefalse",
+     "p": "A baby gecko waits in the nest for her mother to bring her insects.",
+     "a": false,
+     "why": "False. A baby gecko hatches from the egg and hunts insects alone."
     },
     {
      "t": "write",
@@ -1450,9 +1442,9 @@
     },
     {
      "t": "count",
-     "p": "In the dim nest, the yellow mouths got 5, 4 and 6 chana in three rounds. How many in all?",
-     "a": 15,
-     "why": "5 and 4 make 9. 9 and 6 make 15.",
+     "p": "In the dim nest, the yellow mouths got 2, 1 and 2 chana in three rounds. How many in all?",
+     "a": 5,
+     "why": "2 and 1 make 3. 3 and 2 make 5.",
      "how": "e1"
     }
    ]
@@ -1465,10 +1457,10 @@
    "items": [
     {
      "t": "write",
-     "p": "A calf walks within an hour, but a human baby takes about a year. Give one reason why human babies can take so long.",
+     "p": "A sparrow chick hatches with shut eyes and almost no feathers. Why can she not find her own food on the first day?",
      "lines": 3,
-     "a": "Because human babies are carried and looked after by their family, so they do not need to walk at once. And humans have a lot to learn.",
-     "why": "A strong answer says that human babies are carried and protected by carers. A calf must follow the herd soon after birth."
+     "a": "She cannot see, cannot fly and cannot walk far, so she needs her parents to bring food to the nest.",
+     "why": "A strong answer uses what the chick looks like when she hatches: shut eyes and almost no feathers."
     },
     {
      "t": "perspective",
@@ -1491,7 +1483,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya did the dark nest test with a white cloth instead of a dark one. Which mouths would be hardest to find now?",
+     "p": "Kavya, the girl in the sparrow story, did the dark nest test with a white cloth instead of a dark one. Which mouths would be hardest to find now?",
      "opts": [
       "Black ones",
       "Yellow ones",
@@ -1511,7 +1503,7 @@
      "t": "truefalse",
      "p": "If a person touches a baby bird, the parents will always smell the person and leave the chick.",
      "a": false,
-     "why": "False. Most birds have a weak sense of smell, and parents usually come back. But we still never touch nests, because it scares the parents and can hurt the chicks."
+     "why": "False. Most small birds have a weak sense of smell, and parents usually come back. But we still never touch nests, because it scares the parents and can hurt the chicks."
     },
     {
      "t": "write",
@@ -1732,7 +1724,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the dim nest, yellow mouths got 15 chana and black mouths got 3. What does that show?",
+   "p": "In the dim nest, yellow mouths got 5 chana in all and black mouths got 1. What does that show?",
    "opts": [
     "Yellow mouths are easier to find in dim light",
     "Black mouths are hungrier",
@@ -1819,14 +1811,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the chick open her mouth so wide?",
-   "a": "She was hungry for a whole lot of lunch!"
-  },
-  {
-   "j": "What do you call a baby cow who can't stop dancing?",
-   "a": "A calf with happy hooves!"
-  },
-  {
    "j": "What did the sparrow chick say to the parent?",
    "a": "Cheep, cheep! Make it a cheap delivery, please!"
   },
@@ -1839,34 +1823,38 @@
    "a": "Pass the baby!"
   },
   {
-   "j": "Why did the hen sit on her chicks?",
-   "a": "To keep them warm and toasty!"
+   "j": "What do you call a baby cow who is asleep on the grass?",
+   "a": "A calf-nap!"
   },
   {
-   "j": "What is a puppy's favourite drink?",
-   "a": "Milk, with a side of cuddles!"
+   "j": "Why did the kitten sit next to the computer?",
+   "a": "To keep an eye on the mouse!"
   },
   {
-   "j": "Why was the calf so good at standing up?",
-   "a": "She had a lot of practice in her first hour!"
+   "j": "What do you get if a cow jumps on a trampoline?",
+   "a": "A milk shake!"
   },
   {
-   "j": "What did the baby say to the grandmother's finger?",
-   "a": "I've got you!"
+   "j": "Why did the chick not want to leave her egg?",
+   "a": "The egg was egg-stra comfy!"
+  },
+  {
+   "j": "Why did the puppy sit in the shade?",
+   "a": "She did not want to turn into a hot dog!"
   }
  ],
  "maths": [
   {
-   "problem": "In the dim nest, the yellow mouths got 15 chana in all and the black mouths got 3. How many more did the yellow mouths get?",
-   "answer": "12 more.",
-   "explain": "Start at 3 and count up to 15: that is 12 more. So the yellow mouths were found much more often than the black ones.",
+   "problem": "In the dim nest, the yellow mouths got 5 chana in all and the black mouths got 1. How many more did the yellow mouths get?",
+   "answer": "4 more.",
+   "explain": "Start at 1 and count up to 5: that is 4 more. So the yellow mouths were found much more often than the black ones.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e1",
    "context": "This is about the Find the Hungry Mouth test, where you fed paper mouths in a dim nest.",
    "why_maths": "Finding the difference shows how big the effect of the colour was, not just which colour won."
   },
   {
-   "problem": "Kavya watched the sparrow nest for 10 minutes. Each parent brought food 4 times. How many feeds did the chicks get?",
+   "problem": "Kavya, the girl in the sparrow story, watched the nest for 10 minutes. Each parent brought food 4 times. How many feeds did the chicks get?",
    "answer": "8 feeds.",
    "explain": "There are 2 parents, and each brought food 4 times. That is two groups of 4. 4 and 4 make 8.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -1883,9 +1871,9 @@
    "why_maths": "To compare these times, we must think about the units (hours, weeks and months), not only the numbers."
   },
   {
-   "problem": "In the Care Count, Rahul made these marks in one day. Care he got: |||| ||||. Care he gave: |||. Which column has more marks, and how many more?",
-   "answer": "'Care he got' has 9 marks and 'care he gave' has 3. Care he got has 6 more.",
-   "explain": "Count each group of tally marks: 5 and 4 make 9, and the other column has 3. 9 take away 3 is 6. Children get more care than they give, but they give some too.",
+   "problem": "In the Care Count project, Rahul, a boy of six, made these marks in one day. Care he got: |||| |||| (two groups of 4). Care he gave: |||. Which column has more marks, and how many more?",
+   "answer": "'Care he got' has 8 marks and 'care he gave' has 3. Care he got has 5 more.",
+   "explain": "Count each group of tally marks: 4 and 4 make 8, and the other column has 3. 8 take away 3 is 5. Children get more care than they give, but they give some too.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "p1",
    "context": "This is about the Care Count project, where you made tally marks each time care happened.",
@@ -1915,14 +1903,14 @@
    "url": "",
    "kind": "place",
    "where": "Mysuru",
-   "why": "See animal mothers with young, such as deer with fawns and monkeys with babies."
+   "why": "See animal mothers with young when there are babies, such as monkeys and deer."
   },
   {
    "title": "Alipore Zoological Gardens",
    "url": "",
    "kind": "place",
    "where": "Kolkata",
-   "why": "An old zoo where you can watch animal families and birds nesting in the trees."
+   "why": "An old zoo in the city where you can watch animal families."
   }
  ],
  "buy": [],
@@ -2003,13 +1991,10 @@
   ]
  },
  "sources": {
-  "founder": [
-   "ideas/by_topic/growing-up-and-having-young.md was read. Its Nest Watch and Mammal Moms ideas became the Nest Watch activity, the sparrow story and the Who Looks After Me? game. Family Helpers became the Care Count project. The Bubble Nest Breath (hands on belly, slow breaths) is the Roots practice. The notes on human reproduction belong to sci.body.how-babies-grow.L3 and were not used here."
-  ],
   "science": [
-   "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 4.2 'Growing': young animals and humans change as they grow into adults; stages of human life.",
-   "Nestling mouth colour and detectability: P. Heeb, T. Schwander and S. Faoro, 'Nestling detectability affects parental feeding preferences in a cavity-nesting bird', Animal Behaviour 66 (2003) 637-642 (great tits; in dim nests, red-painted mouths were less detected than yellow; no effect in bright nests). K. L. Wiebe and T. Slagsvold (2012) on size and conspicuousness in dark cavity nests.",
-   "Mouth colour as a signal of need or condition: N. Saino and colleagues on barn swallow nestlings (around 2000-2003); Border and colleagues, Behavioral Ecology 2023, on house sparrows.",
+   "Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 4.2 'Growing': young animals, including humans, change as they grow into adults; stages of human life.",
+   "Nestling mouth colour and detectability: P. Heeb, T. Schwander and S. Faoro, 'Nestling detectability affects parental feeding preferences in a cavity-nesting bird', Animal Behaviour 66 (2003) 637-642 (great tits; in dim nests, red-painted mouths were less detected than yellow; no effect in bright nests).",
+   "Mouth colour as a signal of need or condition: N. Saino and colleagues on barn swallow nestlings (around 2000-2003).",
    "Parent-offspring conflict: R. L. Trivers, 'Parent-offspring conflict', American Zoologist 14 (1974).",
    "House sparrow breeding: both parents feed nestlings; young leave the nest at about 14-16 days and are fed by the parents for some days after. Nestlings have yellow gape flanges.",
    "Hanuman langur infant handling by females other than the mother: Phyllis Jay (Dolhinow) in north India (1960s); Sarah Blaffer Hrdy at Mount Abu, Rajasthan (1970s).",
@@ -2078,5 +2063,6 @@
   "when": "Ainsworth watched babies in Uganda in 1954 and 1955 and wrote her book in 1967. Schaffer and Emerson published their study in 1964.",
   "wrong_idea": "That babies love whoever feeds them, and that picking up a crying baby too often spoils them. Watching real babies showed that babies hold on most to the people who answer their cries and play with them.",
   "art": "A woman scientist with a notebook sitting on a mat in a village home, watching a mother and a crawling baby who reaches towards the mother."
- }
+ },
+ "playtest": "Played both games in my head with 2 and with 4 players: the sorting race now has every player, the reader too, racing, and says what happens when nobody is right; the memory game's 16 cards were already all listed. Followed the dark-nest experiment in a flat: each mouth gets only one chana, so the example numbers in the parent notes, maths, quiz and worksheets were impossible and now fit (for example 5 for yellow and 1 for black). Fixed the walking line (a missing 'one hour' mark and the card list), replaced three copies of the same ordering and 'why humans take long' questions, introduced Kavya and Rahul where they appear, cut the jokes to 8 real ones, and removed an unneeded safety warning and an internal source note."
 }

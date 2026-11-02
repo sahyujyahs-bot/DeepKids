@@ -6,7 +6,7 @@
 **Intro.** *Sparrow chicks live in a dark hole in a wall. When a parent flies in with food, how does the parent find the right place to put it?* Every animal starts small and grows into an adult. A calf can stand on the day she is born. A sparrow chick hatches with no feathers and shut eyes. A human baby cannot even sit up for months. Babies like these need someone to look after them. But babies are not only waiting to be cared for. They call, beg, cry and open their mouths wide. In this unit you find out how babies help their own care. You test it with a dark nest full of paper mouths.
 
 ## Learning outcomes
-0. By the end I can say how young animals, and humans, change as they grow into adults.
+0. By the end I can say how young animals, including humans, change as they grow into adults.
 1. By the end I can say which babies can walk soon after birth, and which need a lot of care.
 2. By the end I can name ways that parents and other helpers care for young: feeding, keeping warm, keeping safe, cleaning and teaching.
 3. By the end I can say how babies help their own care: by begging, calling, crying, holding on and showing bright mouths.
@@ -26,7 +26,7 @@
 ### Growing up means getting bigger and changing · *defined*
 **Definition:** Growth is how a young animal gets bigger and changes until they become an adult.
 
-Young animals get bigger as they grow. They also change. A kitten is born with her eyes shut. Her eyes open after about one to two weeks, and later she grows teeth and learns to hunt. A chick hatches with soft fluff, and grows proper feathers in a few weeks. Humans change too. A baby has no teeth, cannot walk and cannot talk. Then teeth grow, the baby walks at about one year old and starts to talk. People keep getting taller until they are teenagers, or a little older. Then they stop getting taller, but their bodies still keep changing all through life.
+Young animals get bigger as they grow, and they also change. A kitten is born with her eyes shut. They open after about one to two weeks, and later she grows teeth and learns to hunt. A human baby has no teeth and cannot walk or talk. Then teeth grow, the baby walks at about one year old and starts to talk.
 - e.g. A puppy opens their eyes after about two weeks.
 - e.g. A chick's fluff is replaced by feathers.
 - e.g. A human baby grows teeth, then walks, then talks.
@@ -34,13 +34,13 @@ Young animals get bigger as they grow. They also change. A kitten is born with h
 ### Born ready, or born needing care · *defined*
 **Definition:** Some young animals can walk and feed soon after birth. Others are born helpless and need a lot of care.
 
-A calf stands up within about an hour of being born, and soon follows her mother. A goat kid does the same. A hen's chick walks and pecks at food on the day she hatches. A baby gecko hatches from the egg and hunts insects alone. Other babies are born helpless. A sparrow chick hatches with almost no feathers and with shut eyes. A newborn kitten cannot see or walk properly. A human baby cannot hold up their own head at first, and needs years of care. Humans have one of the longest childhoods of any animal.
+A calf stands up within about an hour of birth and soon follows her mother. A goat kid, a duckling and a hen's chick can walk within a day. A sparrow chick hatches with almost no feathers and shut eyes. A newborn kitten cannot see or walk properly. A human baby cannot even hold up their head at first, and needs years of care. Humans have one of the longest childhoods of any animal.
 - e.g. Born ready: a calf, a goat kid, a hen's chick, a duckling, a baby gecko.
 - e.g. Born needing care: a kitten, a puppy, a sparrow chick, a crow chick, a baby mouse, a human baby.
 ### How young animals are cared for · *defined*
 **Definition:** Care means feeding the young, keeping them warm, keeping them safe, keeping them clean and teaching them.
 
-Parents feed their young. Mammal mothers make milk, and sparrow parents bring insects to the nest many times an hour. Parents keep young warm: a hen broods her chicks under her wings. Parents keep young safe: a crow will dive at a person who comes near the nest. A mother cow licks her calf clean. Often more than one carer helps. Both sparrow parents feed the chicks. Among langur monkeys, the other females take turns holding a new baby. In a honeybee hive, the young are fed by their older sisters, the worker bees. Human babies are cared for by parents, grandparents, aunts, older brothers and sisters, and friends.
+Parents feed their young. Mammal mothers make milk, and sparrow parents bring insects to the nest many times an hour. A hen keeps her chicks warm under her wings, and a crow will dive at a person who comes near the nest. Often more than one carer helps. Both sparrow parents feed the chicks, and langur aunts take turns holding a baby. In a honeybee hive, older sisters feed the young. Human babies are cared for by parents, grandparents, aunts, older brothers and sisters, and friends.
 - e.g. A hen keeps her chicks warm under her wings.
 - e.g. Langur aunts take turns holding a baby.
 - e.g. Worker bees feed the young bees in the hive.
@@ -48,7 +48,7 @@ Parents feed their young. Mammal mothers make milk, and sparrow parents bring in
 ### Babies help their own care · *defined*
 **Definition:** Young animals send signals that tell carers what they need: begging calls, open mouths, crying, holding on and smiling.
 
-A sparrow chick stretches up, cheeps and opens a wide yellow-edged mouth when a parent lands. A hungry chick begs harder than a full one. A puppy whimpers when they are cold or alone. A baby langur holds on tight to the fur of whoever carries them. A human baby cries when hungry or uncomfortable, and grips a finger that touches their palm. By about six weeks old, most human babies smile at the faces around them. Each of these signals helps a carer know what to do next. So care is something the baby and the carer do together.
+A sparrow chick stretches up, cheeps and opens a wide yellow-edged mouth when a parent lands. A hungry chick begs harder than a full one. A puppy whimpers when cold or alone, and a baby langur holds on tight to the fur of whoever carries them. A human baby cries when hungry and grips a finger that touches their palm. By about six weeks old, most human babies smile at the faces around them. Each signal helps a carer know what to do next, so care is something the baby and the carer do together.
 - e.g. A chick opens a bright mouth wide.
 - e.g. A kitten mews when she is away from her mother.
 - e.g. A human baby cries, grips and smiles.
@@ -72,11 +72,11 @@ Many chicks have bright mouths. Sparrow chicks have yellow edges around the mout
 
 ## Challenging perspectives
 - **Only mothers look after babies.** (A common idea; *rejected*)  
-  For: In many mammals, like cats and cows, the mother does almost all the care. Only mothers make milk.  
-  Against: Sparrow fathers feed the chicks as often as the mothers do. Langur aunts hold babies. Worker bees, who are sisters, feed young bees. Human babies are cared for by many people: fathers, grandparents, aunts and older children.
+  For: In most mammals, like cats and cows, the mother does almost all the care. Only mother mammals make milk.  
+  Against: Sparrow fathers feed the chicks about as often as the mothers do. Langur aunts hold babies. Worker bees, who are sisters, feed young bees. Human babies are cared for by many people: fathers, grandparents, aunts and older children.
 - **If a person touches a baby bird, the parents will smell the person and leave the chick.** (A very common belief, told to many children; *rejected*)  
   For: It is true that people should not touch nests or chicks. Disturbing a nest can scare the parents, and the chicks can get hurt.  
-  Against: Most birds have a weak sense of smell. Scientists who must handle chicks, to weigh them, find that the parents come back and keep feeding them. Still, leave nests alone and watch from far away.
+  Against: Most small birds have a weak sense of smell. Scientists who must handle chicks, to weigh them, find that the parents come back and keep feeding them. Still, leave nests alone and watch from far away.
 - **A parent and a baby always want the same thing.** (A common idea about families; *debated*)  
   For: Parents and babies both need the baby to grow up safe and well.  
   Against: In 1974 an American scientist, Robert Trivers, pointed out that a chick may beg for more food than the parent wants to give. The parent also needs food, and may have other young. Scientists still argue about how much parents and young pull against each other.
@@ -110,7 +110,7 @@ Every animal alive today, including you, was once young. Many were fed by someon
 ## Deep and big questions
 - *deep:* When a baby cries and a grown-up picks them up, who started the caring: the baby or the grown-up? (hint: Think about the dark nest test. Did the paper mouths do anything to get fed? What do real chicks do?)
 - *deep:* Why does a human child need so many years of care, when a calf can walk on the first day? (hint: Think about all the things you have learnt since you were a baby. Could a calf learn all of them?)
-- *big:* Does a sparrow parent feel something when the chicks beg? What might it feel like? (hint: Think about how you feel when a small child asks you for help.)
+- *big:* What might a sparrow parent feel when the chicks beg? (hint: Think about how you feel when a small child asks you for help.)
 - *big:* You were cared for by many people. Who are you caring for now? (hint: A plant, a pet, a younger cousin, a friend, a grandparent: caring can go both ways.)
 - *big:* You grew from a baby into a child of seven. Are you the same person as that baby? (hint: What has changed about you? Is anything still the same?)
 
@@ -161,7 +161,7 @@ Then, one day, there was a chick sitting on the stair railing, fluffing out thei
 
 'Young birds keep begging for a while after they leave the nest,' said Ammachi. 'The parents keep feeding them until the young ones learn to find food by themselves.'
 
-That evening, Rahul's mother rang from Bengaluru. Rahul told her all about the sparrows. 'And Kavya says,' he said, 'I was a baby who begged too. I cried, and you came.'
+That evening, Rahul's mother rang from Bengaluru. Rahul told her all about the sparrows. 'Kavya says I was a baby who begged too,' he said. 'I cried, and you came.'
 
 His mother laughed. 'You did. You cried very loudly. And you held my finger so tight, I could not let go.'
 
@@ -175,8 +175,8 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 
 ## Games
 ### g1 · Ready or Needs Help? (15 min)
-- **rules:** Before you play, draw the baby quickly on each card, so that a child who cannot read yet can play.; Lay the two mats on the floor, a little apart.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone races to put a hand on the right mat. A hand on the wrong mat means you sit out that card.; Turn the card over and read the back aloud to check. The first hand on the right mat wins the card.; When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
-- **Printable cards: 16 baby animal cards to cut out, with the answer on the back:** Calf (back: Ready. A calf stands within about an hour and follows her mother.); Goat kid (back: Ready. A goat kid stands and drinks milk within about an hour.); Hen's chick (back: Ready. A chick walks and pecks on the day she hatches. Her mother still keeps her warm.); Duckling (back: Ready. A duckling walks and swims within a day of hatching.); Baby gecko (back: Ready. A baby gecko hatches and hunts insects alone.); Baby fish (back: Ready. Most baby fish swim off and feed alone.); Elephant calf (back: Ready to walk. An elephant calf stands within a few hours, but drinks milk and learns from the herd for years.); Baby spider (back: Ready. Baby spiders hatch and soon spread out to live alone.); Kitten (back: Needs help. A newborn kitten has shut eyes and cannot walk properly.); Puppy (back: Needs help. A newborn puppy has shut eyes and drinks only milk.); Sparrow chick (back: Needs help. A sparrow chick hatches with almost no feathers and shut eyes.); Crow chick (back: Needs help. A crow chick is fed by both parents in the nest for weeks.); Baby mouse (back: Needs help. A baby mouse is born pink, with no fur and shut eyes.); Bat pup (back: Needs help. A bat pup clings to the mother and drinks her milk.); Honeybee young (back: Needs help. A young bee is a tiny grub, fed by older sister bees.); Human baby (back: Needs help. A human baby cannot hold up their head at first, and needs care for years.)
+- **rules:** Draw a quick baby on the front of each card, next to the name.; Lay the two mats on the floor, a little apart.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone, including the reader, races to put a hand on the right mat. A hand on the wrong mat means you sit out that card.; Turn the card over and read the back aloud to check. The first hand on the right mat wins the card. If nobody was right, put the card at the bottom of the pile.; Take turns to be the reader. When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
+- **Printable cards: 16 baby animal cards to cut out, with the answer on the back:** Calf (back: Ready. A calf stands within about an hour and follows her mother.); Goat kid (back: Ready. A goat kid stands and drinks milk within about an hour.); Hen's chick (back: Ready. A chick walks and pecks on the day she hatches. Her mother still keeps her warm.); Duckling (back: Ready. A duckling walks and swims within a day of hatching.); Baby gecko (back: Ready. A baby gecko hatches and hunts insects alone.); Baby fish (back: Ready. Most baby fish swim off and feed alone.); Elephant calf (back: Ready. An elephant calf stands within a few hours, but drinks milk and learns from the herd for years.); Baby spider (back: Ready. Baby spiders hatch and soon spread out to live alone.); Kitten (back: Needs help. A newborn kitten has shut eyes and cannot walk properly.); Puppy (back: Needs help. A newborn puppy has shut eyes and drinks only milk.); Sparrow chick (back: Needs help. A sparrow chick hatches with almost no feathers and shut eyes.); Crow chick (back: Needs help. A crow chick is fed by both parents in the nest for weeks.); Baby mouse (back: Needs help. A baby mouse is born pink, with no fur and shut eyes.); Bat pup (back: Needs help. A bat pup clings to the mother and drinks her milk.); Honeybee young (back: Needs help. A young bee is a tiny grub, fed by older sister bees.); Human baby (back: Needs help. A human baby cannot hold up their head at first, and needs care for years.)
 - **Printable board: 2 mats to lay on the floor:** Ready soon after birth; Needs a lot of help
 - **s1 (4 min)**  
   *Parent does:* 1. Share the 16 cards and draw a quick baby on each. 2. Lay the two mats on the floor.  
@@ -189,9 +189,9 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   - Ask: The hen's chick can walk, but her mother still keeps her warm. Which mat is she on? (good: Ready, because she can walk and peck.; Ready, but she still needs some care.)
   - Note: The tricky cards are the chick and the elephant calf. They can walk early, but still get care. Let your child argue for their choice.
 - **s3 (2 min)**  
-  *Parent does:* Count the cards and talk.  
-  *Parent says:* Which mat is the human baby on? Why do you think human babies need help for so long?  
-  *Child mode:* Count your cards. Why do human babies need help so long?
+  *Parent does:* Count the cards.  
+  *Parent says:* Which mat is the human baby on? Count your cards.  
+  *Child mode:* Count your cards. Which mat is the human baby on?
   - Check: Which baby needs the most help after birth? → **A sparrow chick**
 ### g2 · Who Looks After Me? A memory game (15 min)
 - **rules:** Mix all 16 cards and lay them face down in rows of four.; On your turn, turn over two cards and read them aloud.; If you turn over a baby and the carer of that baby, you keep the pair and have another turn.; If they do not match, turn them face down again. The next player has a turn.; When all the pairs are found, the player with the most pairs wins. If two players have the same number, they both win.
@@ -213,11 +213,11 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   - Check: Who feeds young honeybees? → **Their older sisters, the worker bees**
 
 ## Experiments
-### e1 · Find the Hungry Mouth: which chick gets fed in a dark nest? (25 min)
+### e1 · Find the Hungry Mouth: which chick gets fed in a dark nest? (20 min)
 - **question:** In a dark nest, which colour of chick mouth does a parent find and feed most often?
 - **predict:** Guess first. In the dim nest, which colour of mouth will you feed most: yellow, orange, brown or black? Why do you think so?
 - **fair test:** All the mouths are the same size, and there are two of each colour. The grown-up mixes them up before every round, so no colour is always in the best place. Each round lasts the same 10 seconds. We do three rounds in dim light, because one round can be luck. Then one round in bright light, to see if the light makes a difference.
-- **safety:** Keep the chana away from toddlers, who could choke on them. In the dim room, walk slowly and keep the floor clear.
+- **safety:** Keep the chana away from toddlers, who could choke on them.
 - **record:** Fill in the results table with the number of chana on each colour. Draw a block for each chana under each colour to make a block graph.
 - **results table:** Colour of mouth | Round 1 | Round 2 | Round 3 | Total in dim light | Bright light round
 - **s1 (5 min)**  
@@ -225,41 +225,41 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Parent says:* These circles are chick mouths. Real chicks have mouths of different colours. Let's make yellow, orange, brown and black ones.  
   *Child mode:* Draw 8 circles. Colour 2 yellow, 2 orange, 2 brown, 2 black. Cut them out.
   - Note: Colour the black and brown circles fully, so no white paper shows. A sketch pen works well.
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* Ask your child to guess which colour they will feed most in the dark, and why. Write the guess down.  
   *Parent says:* Soon the room will be dim, like a nest in a hole. You are the parent bird. Which mouths will you feed most? Why do you think so?  
   *Child mode:* Guess. Which colour will you feed most in the dark? Why?
   - Ask: Why do you think so? (good: Yellow, because yellow is bright.; Black, because it looks like a dark mouth.; All the same, because I will look carefully.)
   - Note: Any guess is fine, as long as there is a reason. Do not tell your child what will happen.
-- **s3 (3 min)**  
+- **s3 (2 min)**  
   *Parent does:* 1. Line the box or kadai with the dark cloth. 2. Your child looks away. 3. Scatter the 8 mouths on the cloth, apart from each other. 4. Close the curtains and switch off the lights.  
   *Parent says:* Close your eyes while I make the nest. Now the room is dim, like a hole in a wall. Can you still see a little?  
   *Child mode:* Look away while the nest is made. Now the room goes dim.
   - Note: The room should be dim, not pitch dark. Your child should just about see the box. Evening with the curtains shut and a light on in another room works well. In daytime, put the box under a table and cover the table with a bedsheet.
-- **s4 (6 min)**  
-  *Parent does:* 1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child drops one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, and write the numbers in the table. 5. Mix the mouths again and repeat. Do 3 rounds.  
+- **s4 (5 min)**  
+  *Parent does:* 1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child puts one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, and write the numbers in the table. 5. Mix the mouths while your child looks away, and make the room dim again. 6. Repeat. Do 3 rounds in all.  
   *Parent says:* Ready, parent bird? You have ten seconds to feed every mouth you can find. One chana on each mouth. Go!  
-  *Child mode:* Drop one chana on each mouth you see. Be quick! Then count.
+  *Child mode:* Put one chana on each mouth you see. Be quick! Then count.
   - Ask: Which mouths were easy to find? (good: The yellow ones. They stood out.; The black ones were hard. They looked like the cloth.)
-  - Note: Chana that land on the cloth do not count. Mix the mouths well each time, with your child looking away. Usually yellow mouths get the most chana, then orange. Black and brown are often missed, because they are hard to see against the dark cloth. If every colour is found in every round, the room is too bright: make it dimmer.
-- **s5 (3 min)**  
+  - Note: A chana put on the cloth does not count. Mix the mouths well each time, with your child looking away. Usually yellow mouths get the most chana, then orange. Black and brown are often missed, because they are hard to see against the dark cloth. Each mouth can get only one chana, so a colour can get at most 2 in a round and 6 in three rounds. If every colour is found in every round, the room is too bright: make it dimmer. If your result is different, that is a real result too: talk about why.
+- **s5 (2 min)**  
   *Parent does:* 1. Switch the lights on and open the curtains. 2. Mix the mouths. 3. Do one more round of 10 seconds in bright light. 4. Count the chana on each colour.  
   *Parent says:* Now let's do it once in bright light. Will the colour still matter?  
   *Child mode:* Now try in bright light. Is every mouth easy to find?
   - Note: In bright light, your child will usually find almost every mouth, whatever the colour. This shows that the colour matters most when the nest is dark.
-- **s6 (5 min)**  
+- **s6 (4 min)**  
   *Parent does:* 1. Add up the dim-light rounds for each colour. 2. Your child draws one block for each chana, to make a block graph. 3. Ask what they think, what they saw, and why.  
   *Parent says:* Which colour got fed most in the dark? Was your guess right? Why do you think that colour did best?  
   *Child mode:* Add up. Which colour got the most food? Why?
   - Ask: Why did that colour get the most food? (good: Yellow is easy to see in the dark.; The black mouths looked like the cloth, so I missed them.)
-  - Note: A strong answer uses the numbers: 'Yellow got 15 chana and black got 3, because yellow shows up in the dark.' Now read the card on why chick mouths are so bright.
+  - Note: A strong answer uses the numbers: 'Yellow got 5 chana and black got 1, because yellow shows up in the dark.' Now read the card on why chick mouths are so bright.
   - Check: Sparrow chicks live in dark holes in walls. Why are yellow mouth edges useful to them? → **A parent can find yellow edges easily in the dark**
 
 ## Activities
 ### a1 · The Walking Line: how soon can each baby walk? (15 min)
 - **record:** Draw the line in your notebook with each baby in the right place.
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the string across the room. 2. Put a paper at one end saying 'just born'. 3. Put papers along it: 'one day', 'one month', 'one year', and 'two years' at the far end.  
+  *Parent does:* 1. Lay the string across the room. 2. Put a paper at one end saying 'just born'. 3. Put papers along it: 'one hour', 'one day', 'one month', 'one year', and 'two years' at the far end.  
   *Parent says:* This line is time. Here is the day a baby is born. Over there, the baby is two years old.  
   *Child mode:* This line is time. One end is birth. The far end is two years.
 - **s2 (4 min)**  
@@ -289,9 +289,9 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Parent does:* Your child draws or writes the answers in order: first food, food at about one year, food now.  
   *Parent says:* Draw your first food, then your food when you were one, then your food now. What changed?  
   *Child mode:* Draw your three foods in order. What changed?
-  - Ask: Why did a baby you eat soft food? (good: Because I had no teeth.; Because a baby cannot chew hard food.)
+  - Ask: Why does a baby eat soft food? (good: Because I had no teeth.; Because a baby cannot chew hard food.)
 - **s3 (2 min)**  
-  *Parent does:* Ask who fed your child, and who they feed or help now.  
+  *Parent does:* Ask your child who fed them as a baby, and who or what they feed or help now.  
   *Parent says:* Many people fed you. Is there anyone, or any plant or pet, that you feed now?  
   *Child mode:* Who fed you? Who do you feed or help now?
 ### a3 · Nest Watch from the Window (if you can see a nest) (15 min)
@@ -321,10 +321,11 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Parent does:* Read the answers. A mouse is grown up in about two months. A dog in about one to two years. A cow in about two years. An elephant in about 15 years. A human in about 18 years.  
   *Parent says:* A mouse is grown up in about two months. A dog in about one or two years. A cow in about two years. An elephant takes about 15 years. A human takes about 18 years.  
   *Child mode:* Check your order. Were you right?
+  - Note: A dog and a cow are close: either order is fine for those two.
 - **s3 (3 min)**  
-  *Parent does:* Compare with your child's age.  
-  *Parent says:* You are seven. A dog of seven is already a grown-up. How many more years until you are grown up?  
-  *Child mode:* You are seven. How many years until you are 18?
+  *Parent does:* Compare with your child's age. Ask how old they are, and how many years are left until 18.  
+  *Parent says:* How old are you? A dog of that age is already a grown-up. How many more years until you are 18?  
+  *Child mode:* How old are you? How many years until you are 18?
   - Check: Which animal takes longest to grow up? → **A human**
 
 ## Projects
@@ -345,7 +346,7 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Parent says:* Which column has more marks? Did you care for anyone? Who cares for the grown-ups?  
   *Child mode:* Count both columns. Which has more? Why?
   - Ask: Why does the 'cared for me' column have more marks? (good: Because I am still a child, and I need more care.; Because grown-ups cook and help me.)
-  - Check: Kavya counted 30 marks for care she got and 12 for care she gave. What does that show? → **Kavya gets more care than she gives, but she gives care too**
+  - Check: Kavya, a girl in Class 2, counted 30 marks for care she got and 12 for care she gave. What does that show? → **Kavya gets more care than she gives, but she gives care too**
   - Wait: Day 3
 
 ## Challenges
@@ -374,7 +375,7 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 ## Worksheets
 ### Babies Grow and Get Care (core) (core, 10 questions)
 1. (match) Draw a line from each baby to their grown-up.  
-   **Answer:** Calf → Cow; Kid → Goat; Chick → Hen; Puppy → Dog; Baby → Human. *Why:* A calf grows into a cow, a kid into a goat, a chick into a hen, a puppy into a dog and a baby into an adult human.
+   **Answer:** Calf → Cow; Kid → Goat; Chick → Hen; Puppy → Dog; Human baby → Adult human. *Why:* A calf grows into a cow, a kid into a goat, a chick into a hen, a puppy into a dog and a human baby into an adult human.
 2. (sort) Sort the babies: ready to walk soon after birth, or needs a lot of help?  
    **Answer:** a calf → Ready soon; a sparrow chick → Needs a lot of help; a duckling → Ready soon; a kitten → Needs a lot of help; a goat kid → Ready soon; a human baby → Needs a lot of help. *Why:* Calves, ducklings and goat kids walk within a day. Sparrow chicks, kittens and human babies are born helpless and need care.
 3. (draw) Remember the Find the Hungry Mouth test. Draw the dark nest and show which colour mouths got the most chana.  
@@ -386,8 +387,8 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
    **Answer:** After about one to two weeks. *Why:* A kitten's eyes open after about one to two weeks. Until then, the kitten finds the mother by smell and touch.
 6. (truefalse) Only mother animals look after babies.  
    **Answer:** False. *Why:* False. Sparrow fathers feed the chicks too. Langur aunts hold babies, and worker bees feed their young sisters. Many people care for a human baby.
-7. (count) A sparrow mother brings food 4 times. The father brings food 3 times. How many feeds is that?  
-   **Answer:** 7. *Why:* 4 and 3 make 7 feeds. Both parents feed the chicks.
+7. (count) A hen has 9 chicks. 4 chicks walk away to peck at seeds. How many chicks are still under her wings?  
+   **Answer:** 5. *Why:* 9 take away 4 leaves 5 chicks under her wings.
 8. (label) Label the chick's picture: open mouth, yellow edge, shut eye, fluff.  
    **Answer:** ['open mouth: the big opening at the front', 'yellow edge: around the corners of the mouth', 'shut eye: on the side of the head', 'fluff: soft little feathers on the body']. *Why:* A young sparrow chick has a wide mouth with yellow edges, shut eyes and only a little fluff.
 9. (perspective) Meena, aged 7, and her friend Joseph, aged 7, live in Mysuru. They are watching a hen with five chicks.  
@@ -395,8 +396,8 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 10. (fill) When a parent bird sits on small chicks to keep them warm, it is called ________.  
    **Answer:** brooding. *Why:* Brooding means sitting over eggs or chicks to keep them warm. A hen broods her chicks under her wings.
 ### Babies Help Their Own Care (stretch) (stretch, 10 questions)
-1. (order) Put these in order, from the baby who walks first to the baby who walks last.  
-   **Answer:** ['a calf', 'a puppy', 'a human baby']. *Why:* A calf stands within about an hour, a puppy walks at about three or four weeks, and a human baby at about one year.
+1. (truefalse) A baby gecko waits in the nest for her mother to bring her insects.  
+   **Answer:** False. *Why:* False. A baby gecko hatches from the egg and hunts insects alone.
 2. (write) Sparrow chicks are fed in a dark hole. Crow chicks are fed in an open nest of sticks, in daylight. Which chicks need bright mouth edges more? Why?  
    **Answer:** The sparrow chicks, because their nest is dark and the parent must find their mouths without much light.. *Why:* A strong answer uses the dark nest test: colour mattered in dim light, and hardly at all in bright light.
 3. (mcq) In the bright light round of the Find the Hungry Mouth test, what usually happened?  
@@ -415,20 +416,20 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
    **Answer:** ['baby: lying down, the smallest', 'toddler: just walking', 'child: about your age', 'teenager: nearly grown', 'adult: fully grown']. *Why:* Humans go from baby to toddler to child to teenager to adult, and keep changing as they grow older.
 9. (fill) A chick's open mouth, often with bright edges, is called the ________.  
    **Answer:** gape. *Why:* The gape is the open mouth of a chick. Many gapes have bright colours or edges.
-10. (count) In the dim nest, the yellow mouths got 5, 4 and 6 chana in three rounds. How many in all?  
-   **Answer:** 15. *Why:* 5 and 4 make 9. 9 and 6 make 15.
+10. (count) In the dim nest, the yellow mouths got 2, 1 and 2 chana in three rounds. How many in all?  
+   **Answer:** 5. *Why:* 2 and 1 make 3. 3 and 2 make 5.
 ### Thinking Like a Nest Scientist (challenge) (challenge, 10 questions)
-1. (write) A calf walks within an hour, but a human baby takes about a year. Give one reason why human babies can take so long.  
-   **Answer:** Because human babies are carried and looked after by their family, so they do not need to walk at once. And humans have a lot to learn.. *Why:* A strong answer says that human babies are carried and protected by carers. A calf must follow the herd soon after birth.
+1. (write) A sparrow chick hatches with shut eyes and almost no feathers. Why can she not find her own food on the first day?  
+   **Answer:** She cannot see, cannot fly and cannot walk far, so she needs her parents to bring food to the nest.. *Why:* A strong answer uses what the chick looks like when she hatches: shut eyes and almost no feathers.
 2. (perspective) Priya, aged 9, and her brother Sameer, aged 7, live in Kolkata. They are talking about why chick mouths are bright.  
    **Answer:** A strong answer uses the test: in dim light, bright mouths were found more, so Priya's idea fits. For Sameer's idea, you would need to see if hungrier chicks have brighter mouths. Scientists have found both ideas can be true, in different birds.. *Why:* Scientists still argue about this. A good answer uses evidence for one side and suggests a fair test for the other.
-3. (mcq) Kavya did the dark nest test with a white cloth instead of a dark one. Which mouths would be hardest to find now?  
+3. (mcq) Kavya, the girl in the sparrow story, did the dark nest test with a white cloth instead of a dark one. Which mouths would be hardest to find now?  
    Options: Black ones / Yellow ones / All the same  
    **Answer:** Yellow ones. *Why:* On a white cloth, yellow mouths are pale like the cloth, so they would be hardest to see. Black mouths would stand out. A mouth is easy to find when its colour is different from what is around it.
 4. (draw) Design a nest for chicks in a dark hole. Draw the chicks with mouths that are easy for the parents to find.  
    **Answer:** A dark hole with chicks whose mouths have bright, light edges.. *Why:* A strong drawing shows mouths that stand out against the dark: yellow, white or with a bright edge.
 5. (truefalse) If a person touches a baby bird, the parents will always smell the person and leave the chick.  
-   **Answer:** False. *Why:* False. Most birds have a weak sense of smell, and parents usually come back. But we still never touch nests, because it scares the parents and can hurt the chicks.
+   **Answer:** False. *Why:* False. Most small birds have a weak sense of smell, and parents usually come back. But we still never touch nests, because it scares the parents and can hurt the chicks.
 6. (write) A sparrow chick begs harder when hungry. Why is that useful for the chick, and for the parents?  
    **Answer:** The hungry chick gets fed, and the parents know which chick needs food most, so they do not waste food.. *Why:* A strong answer says something for both sides: the chick gets food, and the parent learns who needs it.
 7. (sort) Sort these carers: does one carer look after the baby, or many?  
@@ -471,7 +472,7 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 8. (mcq) In the Find the Hungry Mouth test, why do we mix up the mouths before every round?  
    Options: So no colour is always in the best place / To make the game longer / So the chana do not roll  
    **Answer:** So no colour is always in the best place. *Why:* Mixing makes the test fair. If yellow was always in the middle, it might be found because of the place, not the colour.
-9. (mcq) In the dim nest, yellow mouths got 15 chana and black mouths got 3. What does that show?  
+9. (mcq) In the dim nest, yellow mouths got 5 chana in all and black mouths got 1. What does that show?  
    Options: Yellow mouths are easier to find in dim light / Black mouths are hungrier / The test did not work  
    **Answer:** Yellow mouths are easier to find in dim light. *Why:* The yellow mouths were found five times as often. In dim light, bright colours stand out against a dark nest.
 10. (mcq) Which of these is true about humans?  
@@ -507,21 +508,20 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 - Who looks after the grown-ups in our family?
 
 ## Jokes
-- Why did the chick open her mouth so wide? *She was hungry for a whole lot of lunch!*
-- What do you call a baby cow who can't stop dancing? *A calf with happy hooves!*
 - What did the sparrow chick say to the parent? *Cheep, cheep! Make it a cheap delivery, please!*
 - Why did the kitten keep her eyes shut? *She was waiting for the grand opening!*
 - What do baby langurs like to play? *Pass the baby!*
-- Why did the hen sit on her chicks? *To keep them warm and toasty!*
-- What is a puppy's favourite drink? *Milk, with a side of cuddles!*
-- Why was the calf so good at standing up? *She had a lot of practice in her first hour!*
-- What did the baby say to the grandmother's finger? *I've got you!*
+- What do you call a baby cow who is asleep on the grass? *A calf-nap!*
+- Why did the kitten sit next to the computer? *To keep an eye on the mouse!*
+- What do you get if a cow jumps on a trampoline? *A milk shake!*
+- Why did the chick not want to leave her egg? *The egg was egg-stra comfy!*
+- Why did the puppy sit in the shade? *She did not want to turn into a hot dog!*
 
 ## Connected maths
-- In the dim nest, the yellow mouths got 15 chana in all and the black mouths got 3. How many more did the yellow mouths get? **12 more.**. Start at 3 and count up to 15: that is 12 more. So the yellow mouths were found much more often than the black ones. (queues `math.addition-subtraction.meaning.L2`)
-- Kavya watched the sparrow nest for 10 minutes. Each parent brought food 4 times. How many feeds did the chicks get? **8 feeds.**. There are 2 parents, and each brought food 4 times. That is two groups of 4. 4 and 4 make 8. (queues `math.multiplication.equal-groups.L2`)
+- In the dim nest, the yellow mouths got 5 chana in all and the black mouths got 1. How many more did the yellow mouths get? **4 more.**. Start at 1 and count up to 5: that is 4 more. So the yellow mouths were found much more often than the black ones. (queues `math.addition-subtraction.meaning.L2`)
+- Kavya, the girl in the sparrow story, watched the nest for 10 minutes. Each parent brought food 4 times. How many feeds did the chicks get? **8 feeds.**. There are 2 parents, and each brought food 4 times. That is two groups of 4. 4 and 4 make 8. (queues `math.multiplication.equal-groups.L2`)
 - A calf walks after about 1 hour. A kitten walks after about 3 weeks. A human baby walks after about 12 months. Put them in order from first to last. **Calf, kitten, human baby.**. An hour is much shorter than a week, and a week is much shorter than a month. So 1 hour comes first, then 3 weeks, then 12 months. (queues `math.number-sense.comparing-ordering.L2`)
-- In the Care Count, Rahul made these marks in one day. Care he got: |||| ||||. Care he gave: |||. Which column has more marks, and how many more? **'Care he got' has 9 marks and 'care he gave' has 3. Care he got has 6 more.**. Count each group of tally marks: 5 and 4 make 9, and the other column has 3. 9 take away 3 is 6. Children get more care than they give, but they give some too. (queues `math.data.sorting-and-tallies.L2`)
+- In the Care Count project, Rahul, a boy of six, made these marks in one day. Care he got: |||| |||| (two groups of 4). Care he gave: |||. Which column has more marks, and how many more? **'Care he got' has 8 marks and 'care he gave' has 3. Care he got has 5 more.**. Count each group of tally marks: 4 and 4 make 8, and the other column has 3. 8 take away 3 is 5. Children get more care than they give, but they give some too. (queues `math.data.sorting-and-tallies.L2`)
 
 ## Song
 Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
@@ -529,8 +529,8 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a bird or animal with young from your window and find out their name.
 - [Nature Forever Society](https://www.natureforever.org/) · interactive: For the parent: how to put up a sparrow nest box on a balcony, and how to count sparrows.
-- [Sri Chamarajendra Zoological Gardens (Mysuru Zoo)]() · place · Mysuru: See animal mothers with young, such as deer with fawns and monkeys with babies.
-- [Alipore Zoological Gardens]() · place · Kolkata: An old zoo where you can watch animal families and birds nesting in the trees.
+- [Sri Chamarajendra Zoological Gardens (Mysuru Zoo)]() · place · Mysuru: See animal mothers with young when there are babies, such as monkeys and deer.
+- [Alipore Zoological Gardens]() · place · Kolkata: An old zoo in the city where you can watch animal families.
 
 ## Things to buy
 
@@ -548,10 +548,9 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 - Core: a1, e1, g1, ws-core
 
 ## Sources
-- ideas/by_topic/growing-up-and-having-young.md was read. Its Nest Watch and Mammal Moms ideas became the Nest Watch activity, the sparrow story and the Who Looks After Me? game. Family Helpers became the Care Count project. The Bubble Nest Breath (hands on belly, slow breaths) is the Roots practice. The notes on human reproduction belong to sci.body.how-babies-grow.L3 and were not used here.
-- Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 4.2 'Growing': young animals and humans change as they grow into adults; stages of human life.
-- Nestling mouth colour and detectability: P. Heeb, T. Schwander and S. Faoro, 'Nestling detectability affects parental feeding preferences in a cavity-nesting bird', Animal Behaviour 66 (2003) 637-642 (great tits; in dim nests, red-painted mouths were less detected than yellow; no effect in bright nests). K. L. Wiebe and T. Slagsvold (2012) on size and conspicuousness in dark cavity nests.
-- Mouth colour as a signal of need or condition: N. Saino and colleagues on barn swallow nestlings (around 2000-2003); Border and colleagues, Behavioral Ecology 2023, on house sparrows.
+- Cambridge Primary Science Learner's Book 2 (2nd edition), Unit 4.2 'Growing': young animals, including humans, change as they grow into adults; stages of human life.
+- Nestling mouth colour and detectability: P. Heeb, T. Schwander and S. Faoro, 'Nestling detectability affects parental feeding preferences in a cavity-nesting bird', Animal Behaviour 66 (2003) 637-642 (great tits; in dim nests, red-painted mouths were less detected than yellow; no effect in bright nests).
+- Mouth colour as a signal of need or condition: N. Saino and colleagues on barn swallow nestlings (around 2000-2003).
 - Parent-offspring conflict: R. L. Trivers, 'Parent-offspring conflict', American Zoologist 14 (1974).
 - House sparrow breeding: both parents feed nestlings; young leave the nest at about 14-16 days and are fed by the parents for some days after. Nestlings have yellow gape flanges.
 - Hanuman langur infant handling by females other than the mother: Phyllis Jay (Dolhinow) in north India (1960s); Sarah Blaffer Hrdy at Mount Abu, Rajasthan (1970s).

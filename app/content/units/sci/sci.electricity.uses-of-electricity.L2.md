@@ -3,7 +3,7 @@
 
 **Summary.** In a power cut, the fan, the lights and the fridge stop at once, but the torch and the wall clock keep going. The things that stop get mains electricity, which comes along wires from a power station to the socket in the wall. The things that keep going carry their own cells, small stores of electricity. Your child listens to the jobs electricity does at home, then tests old cells that the family thought were dead. Many cells that cannot light a torch still make a clock tick.
 
-**Intro.** *Imagine the power goes off on a hot evening. What stops working? What keeps going?* Most children name the fan, the lights and the TV. Fewer remember the fridge, the lift or the water pump. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop all get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where electricity comes from, and you test how long a cell lasts.
+**Intro.** *Imagine the power goes off on a hot evening. What stops working? What keeps going?* Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where wall electricity comes from, and you test how long a cell lasts.
 
 ## Learning outcomes
 0. By the end I can name things at home that use electricity to make light, sound, heat, cold and movement.
@@ -34,26 +34,26 @@ In the listening activity, you heard the fan whirr and the fridge hum. When the 
 ### Mains electricity comes from a power station along wires · *defined*
 **Definition:** Mains electricity is made in power stations. It travels along wires, on poles or under the ground, to every building and then to the sockets in the walls.
 
-Every appliance with a plug gets its electricity from the wall. The wall does not make it. A wire inside the wall brings it from the meter box of your building. Bigger wires bring it from the street. Even bigger wires on tall towers bring it from a power station, often very far away. Power stations make electricity from burning coal, from falling water at a dam, from the wind and from sunlight. In India, most electricity comes from burning coal. More and more comes from the Sun and the wind. If a wire on the way is broken, everyone after it has a power cut.
+Every appliance with a plug gets its electricity from the wall. The wall does not make it. Wires bring it from a power station, often very far away. First come big wires on tall towers, then wires on street poles, then a wire to your building's meter box and into your wall. Power stations make electricity from coal, falling water, wind, sunlight and other fuels. In India, most of it comes from burning coal. If a wire on the way is broken, everyone after it has a power cut.
 - e.g. The Idukki dam in Kerala uses falling water to make electricity.
 - e.g. Near Kanyakumari in Tamil Nadu, hundreds of tall windmills make electricity from the wind.
 - e.g. At Pavagada in Karnataka, a huge field of solar panels makes electricity from sunlight.
 ### A cell is a store of electricity that runs down slowly · *defined*
 **Definition:** A cell holds chemicals that make electricity flow when the cell is in a torch, a clock or a toy. As the cell is used, the chemicals change, and the cell gives less and less.
 
-A cell is a small store of electricity that you can carry. That is why a torch works in a power cut. Inside a cell are chemicals. When the cell is used, they slowly change and make electricity flow. A cell does not go from full to empty in one moment. It runs down little by little. In the Tired Cell Test, some cells could not light the torch but still made the clock tick. A torch needs a lot of electricity every second. A clock needs only a tiny amount. So the torch stops long before the clock does. A phone's battery is a store you can fill again from the wall.
+A cell is a small store of electricity that you can carry. That is why a torch works in a power cut. Inside a cell are chemicals. When the cell is used, they slowly change and make electricity flow. A cell runs down little by little. In the Tired Cell Test, some cells could not light the torch but still made the clock tick. A torch needs a lot of electricity every second. A clock needs only a tiny amount. A phone's battery is a store you can fill again from the wall.
 - e.g. In the Tired Cell Test, an old cell that could not light the torch often still ran the wall clock.
 - e.g. A wall clock can run for many months on one cell.
 - e.g. A phone battery runs down faster when the torch and the screen are both on.
 ### Living bodies use electricity too · *debated*
 **Definition:** Nerves in animals, including us, send messages as tiny electric signals. Plants also send electric signals through their bodies.
 
-Your body has no plug and no cell, but it uses electricity all the time. Tiny electric signals run along your nerves when you touch something. A tiny electric signal starts every beat of your heart. The energy for these signals comes from the food you eat. Plants use electric signals too. Touch a touch-me-not plant, and a signal runs along her stalk. Her leaves fold within seconds. Plants sense, decide and act with these signals. Scientists still argue about what this means.
+Your body has no plug and no cell, but it uses electricity all the time. Tiny electric signals run along your nerves when you touch something. A tiny electric signal also starts every beat of your heart. The energy for these signals comes from the food you eat. Plants send electric signals too. Touch a touch-me-not plant, and a signal runs along her stalk. Her leaves fold within seconds. Scientists still argue about what this means.
 - e.g. A doctor's ECG machine shows the electric signals of a beating heart as a wavy line.
 - e.g. A touch-me-not plant folds her leaves after a touch, and an electric signal runs along her stalk first.
 - e.g. Jagadish Chandra Bose, a scientist in Kolkata, measured electric signals in plants more than a hundred years ago.
 - **A plain fact, from the work of J. C. Bose and many plant scientists since:** A plant senses a touch, sends the news along her body as an electric signal, and acts on it. That is sensing and deciding, done without a brain.
-- **Some other scientists:** These signals are automatic responses, like a reflex. They say a plant's signals are reflexes, not feelings.
+- **Some other scientists:** These scientists say a plant's signal is an automatic response, like a reflex, and needs no feeling.
 
 ## Mostly agreed
 - Mains electricity is made in power stations and reaches homes along wires. *How we know:* When a wire on the street breaks or a power station stops, every home after it has a power cut until the fault is fixed.
@@ -89,7 +89,7 @@ We have listened to the jobs electricity does, followed the wires back to the po
 - *what is life:* Every living being uses tiny electric signals. A touch-me-not plant sends one along her stalk when you touch her, and her leaves fold.
 - *what is this world:* The light in your room began far away: in a river behind a dam, in coal under the ground, in the wind or in sunshine on a solar panel.
 
-A bulb's light, a fan's breeze and a fridge's cold seem like very different things. In your home, all of them are made from the same electricity, coming along the same wires. That electricity was made from falling water, coal, wind or sunlight. Water is lifted into clouds by the Sun's heat, coal is made from plants that grew in sunlight long ago, and the wind blows because the Sun warms the Earth unevenly. So most of the jobs electricity does in your home began as sunlight.
+A bulb's light, a fan's breeze and a fridge's cold seem very different. In your home, all of them are made from the same electricity, coming along the same wires. That electricity is made from falling water, coal, wind or sunlight. The Sun lifts water into clouds, coal is made from plants that grew in sunlight, and the Sun's heat makes the wind. So most of the electricity in your home began as sunlight.
 
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper, and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. (Look deeply at the light in your room, and you can see the river at the dam, the coal from the mines and the sunshine on the solar panels. You can also see the people who keep the wires working.)
 - **Dhammapada 277:** The Buddha taught that everything that is made keeps changing. Nothing that is made stays the same. (A cell is made in a factory, and its chemicals change a little every minute the clock ticks. It does not stop all at once. It changes slowly, even when we cannot see it.)
@@ -102,7 +102,7 @@ A bulb's light, a fan's breeze and a fridge's cold seem like very different thin
 - Ask: When the light in your room is on, where in the world did it begin?
 
 ## Deep and big questions
-- *deep:* The clock ran on a cell that the torch could not use. Was that cell dead or alive? (hint: Think about what the cell could still do, and what it could not.)
+- *deep:* The clock ran on a cell that the torch could not use. Was that cell empty or not? (hint: Think about what the cell could still do, and what it could not.)
 - *deep:* Where does the electricity in your wall start? Can you follow it all the way back? (hint: Think of the wires on the street, the power station, and what the power station uses: coal, falling water, wind or sunlight.)
 - *big:* Your heart beats with tiny electric signals, but you have no plug and no cell. Where does your electricity come from? (hint: Think about what you eat, and where your food got its energy.)
 - *big:* People lived for thousands of years without electricity. What would you miss most? What would you not miss at all? (hint: Ask a grandparent or an older neighbour what life was like before electricity came to their home.)
@@ -217,31 +217,31 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   - Note: A fridge's hum is a sound, but its job is to make cold. Accept a good reason for a second job.
 
 ## Experiments
-### e1 · The Tired Cell Test: can a cell that fails the torch still run a clock? (25 min)
+### e1 · The Tired Cell Test: can a cell that fails the torch still run a clock? (20 min)
 - **question:** Old cells cannot light a torch any more. Do they still hold any electricity? Can they still run a wall clock?
 - **predict:** Guess first. Will an old cell that cannot light the torch make the clock tick? Why do you think so?
-- **fair test:** We use the same torch and the same clock for every cell. We watch the clock's second hand for the same time, 10 seconds, for every cell. We also try one new cell in both, so we know the torch and the clock work.
+- **fair test:** We use the same torch and the same clock for every cell. We watch the clock's second hand for the same time, 10 seconds, for every cell. We also try new cells in both, so we know the torch and the clock work.
 - **safety:** If a cell has a white or green crust, or feels wet, do not touch it with bare hands. Put it in a paper bag for e-waste, and wash your hands. Never open a cell or put it in your mouth. Keep button cells away from small children.
 - **record:** Fill in the table with a tick or a cross for the torch and the clock. Then colour each cell's sticker: green if it ran both, yellow if it ran only the clock, red if it ran nothing.
 - **results table:** Cell number | Did the torch light? | Did the clock tick?
-- **s1 (4 min) · grown-up needed**  
+- **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Collect the old cells together. 2. Stick a numbered sticker on each one. 3. Check each cell for crust or leaks.  
   *Parent says:* These cells were taken out because they stopped working. Let's give each one a number.  
   *Child mode:* Help collect old cells. Stick a number on each.
   - Note: Look at every cell before your child holds it. Put aside any cell with white or green crust, or a wet look, in a paper bag. Most homes find old cells in remotes, toys, a drawer or a stopped clock.
 - **s2 (3 min)**  
-  *Parent does:* 1. Put the new cell in the torch and the clock to show both work. 2. Ask for a guess and a reason. 3. Write the guess.  
+  *Parent does:* 1. Put the new cell or cells in the torch, and one new cell in the clock, to show both work. 2. Ask for a guess and a reason. 3. Write the guess.  
   *Parent says:* The new cell lights the torch and runs the clock. Now, will an old cell run the clock? Why do you think so?  
   *Child mode:* Will an old cell run the clock? Why do you think so?
   - Ask: Why do you think so? (good: No, because it is dead.; Maybe, because the clock is small.; Some might, because they are not all the same age.)
-  - Note: Any guess is fine. Write it down and do not say what will happen. If your torch takes two cells, keep one new cell in it, and test each old cell alongside it.
-- **s3 (7 min)**  
-  *Parent does:* 1. Put an old cell in the torch. 2. Point it at a wall and switch it on. 3. Mark a tick if it lights, a cross if not. 4. Do the same for every cell.  
+  - Note: Any guess is fine. Write it down and do not say what will happen. If your torch takes two cells, you will test the old cells two at a time in it (1 and 2, then 3 and 4, then 5 and 6). Then you test each cell alone in the clock.
+- **s3 (5 min)**  
+  *Parent does:* 1. Put an old cell in the torch (two cells, if it takes two). 2. Point it at a wall and switch it on. 3. Mark a tick if it lights, a cross if not. 4. Do the same for the other cells. A pair shares one result.  
   *Parent says:* Put cell number 1 in the torch. Switch it on. Does it light the wall? Tick or cross?  
   *Child mode:* Put a cell in the torch. Switch it on. Does it light?
   - Ask: What did you see? (good: Nothing.; A very dim light.; It lit up bright.)
-  - Note: A dim, yellow glow counts as a tick, but say it was dim. Many torches today have bright white lights, called LEDs, that go dark suddenly when cells are weak.
-- **s4 (7 min)**  
+  - Note: A dim glow counts as a tick, but say it was dim. If the torch is dim or dark with a pair, mark a cross for both cells. Many torches today have bright white lights, called LEDs, that go dark suddenly when cells are weak.
+- **s4 (5 min)**  
   *Parent does:* 1. Put an old cell in the clock. 2. Count to ten while you watch the second hand. 3. Mark a tick if it moved, a cross if not. 4. Do the same for every cell.  
   *Parent says:* Now put cell number 1 in the clock. Watch the second hand while we count to ten. Did it move?  
   *Child mode:* Put the cell in the clock. Watch the thin hand. Did it move?
@@ -259,7 +259,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - **fair test:** We use the same phone, not charging, for both tests. Each test lasts exactly 8 minutes on a timer. We read the battery number at the start and at the end of each test.
 - **record:** Write the battery number before and after each test. Draw a bar for how much it dropped in each test.
 - **results table:** Test | Battery at the start | Battery at the end | How much it dropped
-- **s1 (3 min) · grown-up needed**  
+- **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Find the battery number on the phone. 2. Show it to your child. 3. Ask for a guess and a reason.  
   *Parent says:* This number shows how full the phone's battery is. A hundred means full. Which test will make it drop more? Why?  
   *Child mode:* This number shows how full the battery is. Which test will empty it faster?
@@ -269,7 +269,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   *Parent says:* The phone is resting now. While we wait, let's draw what the phone is doing. Now read the number again.  
   *Child mode:* Write the number. Let the phone rest. Read it again after 8 minutes.
   - Note: Use the 8 minutes for the drawing, or play the Power Cut card game. The number may not move at all. That is a result too.
-- **s3 (7 min) · grown-up needed**  
+- **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Write the number. 2. Play a cartoon at full brightness. 3. Switch on the phone's torch. 4. After 8 minutes, write the number again.  
   *Parent says:* Now the phone has two jobs: playing a video and shining its torch. Watch for 8 minutes, then read the number.  
   *Child mode:* Now the video and the torch are on. Read the number after 8 minutes.
@@ -437,8 +437,8 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 3. (mcq) Old cells that ran only the clock are put in a TV remote. What will probably happen?  
    Options: The remote works for a while / The remote never works / The remote makes the cells new again  
    **Answer:** The remote works for a while. *Why:* A remote, like a clock, needs very little electricity. So weak cells can often run it for a while. Nothing makes old cells new, except charging a rechargeable one.
-4. (draw) Draw your body as a home that runs on electricity. Show where its energy comes from.  
-   **Answer:** A child with lines along the arms and legs for nerves, a heart, and food on a plate as the energy store.. *Why:* A strong drawing shows that the body's electric signals run on energy from food, not on a plug or a cell.
+4. (draw) Your heart has no plug and no cell. Draw a child, and show where the energy for her heartbeat comes from.  
+   **Answer:** A child with a heart drawn inside, and an arrow from food on a plate to the heart.. *Why:* A strong drawing shows that the body's electric signals run on energy from food, not on a plug or a cell.
 5. (write) A family has a power cut every evening for an hour. Plan which things they can still use, and say why each one works.  
    **Answer:** They can use a torch and a clock, because they have cells. A phone, an emergency lamp or an inverter work if they were charged during the day.. *Why:* A strong answer sorts things by where they get their electricity, and remembers that batteries must be charged first.
 6. (truefalse) Every power station in India burns coal.  

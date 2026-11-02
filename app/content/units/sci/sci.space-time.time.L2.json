@@ -9,7 +9,7 @@
  "intro": {
   "hook": "Close your eyes and sit still. Now open them. Did time pass? How do you know?",
   "text": "Most children say 'yes', and then find it hard to say how they know. Nobody can see or touch time. We notice it because things change: the fan turns, the light fades, you get hungry. In this unit we look for clues that time has passed. Then we make a clock out of salt and paper, and test whether it keeps steady time.",
-  "art": "A boy of six sitting cross-legged with his eyes shut, while behind him the window light changes from afternoon to evening."
+  "art": "A boy of seven sitting cross-legged with his eyes shut, while behind him the window light changes from afternoon to evening."
  },
  "outcomes": [
   "By the end I can put events in order, saying what came before and what came after.",
@@ -81,7 +81,7 @@
    "concept": "What is time?",
    "status": "debated",
    "context": "This card is about a question people have argued over for thousands of years.",
-   "description": "Everyone uses time, but nobody agrees on exactly what it is. We all agree on one thing: we know time has passed when something changes. Some people say time is just things changing, one after another. Others say time goes on by itself, even if nothing changes. Nobody has found a way to test which is right.",
+   "description": "Everyone uses time, but nobody agrees exactly what it is. We know time has passed when something changes. Some people say time is just things changing, one after another. Others say time goes on by itself, even if nothing changes. Nobody has found a test to show which is right.",
    "examples": [
     "You know the afternoon has passed because the light has changed and you are hungry.",
     "When you wake up, the room looks the same, but the clock and the light at the window tell you night has gone."
@@ -121,7 +121,7 @@
    "status": "defined",
    "definition": "A clock is anything that changes at a steady speed, with a way to count the change.",
    "context": "This card explains why your salt timer is a real clock.",
-   "description": "In the salt timer, salt runs out of the cone at a steady speed. So one spoonful always takes about the same time, and two take about twice as long. Every clock works the same way. Something changes steadily, and we count it. Most wall clocks and wristwatches count the shaking of a tiny crystal of quartz, a kind of stone. It shakes 32,768 times every second, and wheels inside turn the hands. The best clocks of all, atomic clocks, count very fast, very steady ticks inside atoms.",
+   "description": "In the salt timer, salt runs out at a steady speed. So one spoonful always takes about the same time, and two take about twice as long. Every clock works the same way: something changes steadily, and we count it. Most wristwatches count the shaking of a tiny quartz crystal, 32,768 times every second. The best clocks, atomic clocks, count very fast, steady ticks inside atoms.",
    "examples": [
     "A salt or sand timer counts the salt or sand running out.",
     "Long ago in India, a ghati was a small bowl with a hole that floated in water and sank in a set time.",
@@ -136,7 +136,7 @@
    "status": "defined",
    "definition": "A day is one spin of the Earth. A year is one trip of the Earth round the Sun. A month is about one round of the Moon's shapes. Seconds, minutes, hours and weeks are pieces people chose.",
    "context": "This card is about where our units of time come from.",
-   "description": "Some units of time come from the sky. The Earth spins once in a day. The Moon goes from full moon to full moon in about 29 and a half days, which is about a month. The Earth goes round the Sun in about 365 and a quarter days, which is a year. Other units were chosen by people. The 7-day week, 24 hours in a day, and 60 minutes in an hour are all choices. In India, an old unit was the nazhigai, which is 24 minutes. A day had 60 nazhigai.",
+   "description": "Some units of time come from the sky. The Earth spins once in a day. The Moon goes from full moon to the next full moon in about 29 and a half days, which is about a month. The Earth goes round the Sun in about 365 and a quarter days, which is a year. People chose the 7-day week, the 24 hours in a day and the 60 minutes in an hour. Long ago in India, a day had 60 nazhigai, and one nazhigai was 24 minutes.",
    "examples": [
     "60 seconds make 1 minute, and 60 minutes make 1 hour.",
     "7 days make a week. Most months have 30 or 31 days.",
@@ -150,7 +150,7 @@
    "status": "defined",
    "definition": "A calendar is a way of counting days into weeks, months and years. Different calendars count from different starting days.",
    "context": "This card is about the calendars used in India.",
-   "description": "Many Indian wall calendars show more than one date for each day. One is the date used across the world, like 2 November. Another may be the Tamil, Malayalam, Bengali or other date. Many also show the Moon's phase, and the Islamic date. The Tamil new year, Puthandu, comes in the middle of April. The Islamic calendar follows the Moon, so its year is about 11 days shorter. That is why Ramzan comes about 11 days earlier each year. India also has a national calendar, the Saka calendar, used since 1957.",
+   "description": "Many Indian wall calendars show more than one date for each day. One is the date used across the world, like 2 November. Another may be the Tamil, Malayalam or Bengali date. Many also show the Moon's phase and the Islamic date. The Islamic calendar follows the Moon, so its year is about 11 days shorter. That is why Ramzan comes about 11 days earlier each year.",
    "examples": [
     "Onam falls in the Malayalam month of Chingam.",
     "Pohela Boishakh, the Bengali new year, and Puthandu, the Tamil new year, both come in the middle of April.",
@@ -163,7 +163,7 @@
    "concept": "A line or a wheel?",
    "status": "debated",
    "context": "This card is about different ways people picture time.",
-   "description": "People picture time in different ways. Some picture it as a line, going one way, from the past to the future. Others picture it as a wheel, where things come round again. Days, weeks, seasons and festivals do come round. But a broken glass never mends itself, and you never grow younger. Even the side of the table where you lay out the past depends on how you read and speak.",
+   "description": "People picture time in different ways. Some see a line, going one way, from the past to the future. Others see a wheel, where things come round again. Days, weeks, seasons and festivals do come round. But a broken glass never mends itself, and you never grow younger.",
    "examples": [
     "Jain teachings picture time as a great wheel, the kalachakra, with one half turning towards better ages and one half towards worse ages.",
     "Hindu teachings tell of four ages, the yugas, that come round again and again.",
@@ -189,14 +189,14 @@
    "concept": "Who else keeps time?",
    "status": "idea",
    "context": "This card is about the clocks inside living beings.",
-   "description": "You are not the only one who keeps time. A bean plant lifts their leaves before the morning comes. Crows fly home to their trees at dusk. Even tiny bacteria keep a daily clock. Living beings sense the day, remember its rhythm and get ready for what comes next. Some scientists call these automatic body clocks, and say they work like chemistry, not like thinking.",
+   "description": "You are not the only one who keeps time. Bean plants lift their leaves before the morning comes. Crows fly home to their trees at dusk. Even tiny bacteria keep a daily clock. Living beings sense the day, remember its rhythm and get ready for what comes next. Some scientists call these body clocks and describe how they work as chemistry.",
    "examples": [
     "You feel sleepy at about the same time each night.",
     "A rooster starts crowing just before dawn.",
     "Jasmine buds open in the evening."
    ],
    "perspectives": [],
-   "art": "A bean plant lifting their leaves at dawn beside a window, with a crow on the ledge and a sleeping child inside."
+   "art": "Bean plants lifting their leaves at dawn beside a window, with a crow on the ledge and a sleeping child inside."
   }
  ],
  "agreed": [
@@ -222,7 +222,7 @@
    "claim": "Time goes at exactly the same speed everywhere.",
    "who": "What most people think",
    "for": "Clocks in Chennai and Kolkata agree, and a day feels the same length everywhere.",
-   "against": "Albert Einstein worked out that clocks higher up, or moving very fast, tick a tiny bit differently. Very exact atomic clocks have shown this, even with one clock raised less than a metre.",
+   "against": "Albert Einstein worked out that clocks higher up, or moving very fast, tick a tiny bit differently. Very exact atomic clocks have shown this.",
    "status": "rejected",
    "context": "This card is about whether time is the same for everyone. You will learn more about it in a later unit."
   },
@@ -274,9 +274,9 @@
   "title": "The Salt Clock in the Power Cut",
   "mins": 8,
   "read_aloud": true,
-  "note": "Kavya, Arjun, Amma and Paati are made up. The facts in the story are true: Aippasi is a Tamil month in October and November, when the northeast monsoon brings heavy rain to Tamil Nadu. Salt runs from a cone at a steady speed, and many Tamil wall calendars show the Tamil date under the date used across the world.",
+  "note": "Kavya, Arjun, Amma and Paati are made up. Paati means grandmother in Tamil, and Amma means mother. The facts in the story are true: Aippasi is a Tamil month in October and November, when the northeast monsoon brings heavy rain to Tamil Nadu. Salt runs from a cone at a steady speed, and many Tamil wall calendars show the Tamil date under the date used across the world.",
   "text": [
-   "Kavya was seven. She lived in a flat on the third floor in Madurai, with Amma, Paati and her little brother Arjun. Arjun was five.",
+   "Kavya was seven. She lived in a flat on the third floor in Madurai, with her mother Amma, her grandmother Paati and her little brother Arjun. Arjun was five.",
    "It was the month of Aippasi, when the big rains come to Madurai. One evening the rain poured down, and the power went off. The fan stopped. The fridge went quiet. The flat was dark except for one torch.",
    "Kavya held the torch to make shadow animals on the wall. Arjun wanted it too. 'My turn!' he said. 'You had it for ages!'",
    "'I only had it for a little bit,' said Kavya.",
@@ -340,7 +340,7 @@
       },
       {
        "f": "Caterpillar or butterfly: which comes first?",
-       "b": "Caterpillar. The caterpillar makes a case and comes out as a butterfly."
+       "b": "Caterpillar. The caterpillar makes a hard case around herself and comes out as a butterfly."
       },
       {
        "f": "Mango flower or mango: which comes first?",
@@ -351,7 +351,7 @@
        "b": "Rain. The rain falls and the water collects in a puddle."
       },
       {
-       "f": "Ice or water: which came first in your plate?",
+       "f": "An ice cube melts on a plate. Ice or water: which comes first?",
        "b": "Ice. The ice melted into water."
       },
       {
@@ -374,20 +374,21 @@
     }
    ],
    "rules": [
-    "Cut out the 12 cards. Fold or stick each one so the answer is on the back.",
+    "Cut out the 12 cards. Fold or stick each one so the question is on the front and the answer is on the back.",
     "Put the cards in a pile, question side up.",
     "Take turns. Read the top card aloud and say which comes first, and why.",
-    "Turn the card over. If you were right, keep the card.",
-    "If you were wrong, put the card at the bottom of the pile.",
-    "When the pile is gone, the player with the most cards wins."
+    "Turn the card over. If your answer matches the back, keep the card.",
+    "If it does not match, put the card to one side. Read the back aloud together so everyone learns it.",
+    "The moon card is special. Saying 'both', or saying one of them and giving the reason 'they take turns', wins the card.",
+    "When the pile is gone, the player with the most cards wins. With two players, each count your cards. If you have the same number, you both win."
    ],
    "setup": [
     {
-     "art": "Twelve small cards in a pile on a floor mat, each with two small drawings, such as milk and curd.",
+     "art": "Twelve small cards in a pile on a floor mat, each with a question such as 'Milk or curd?' written on it.",
      "caption": "1. Pile the cards question side up."
     },
     {
-     "art": "A girl holding up a card showing a seed and a plant, and pointing at the seed.",
+     "art": "A girl holding up a card that says 'Seed or plant: which comes first?' and pointing at the word seed.",
      "caption": "2. Say which comes first, then turn the card over."
     }
    ],
@@ -395,7 +396,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 12 cards. 2. Read two cards aloud with your child. 3. Pile the rest face up.",
+     "do": "1. Cut out the 12 cards. 2. Read two cards aloud with your child. 3. Pile the rest question side up.",
      "say": "Each card shows two things. Your job is to say which one comes first, and why.",
      "kid": "Each card has two things. Which one comes first?"
     },
@@ -491,7 +492,7 @@
       },
       {
        "f": "Moong seeds sprouting in a wet cloth",
-       "b": "Hours or days: about a day."
+       "b": "Hours or days: about one to two days."
       },
       {
        "f": "The Moon going from full moon to the next full moon",
@@ -529,7 +530,7 @@
      "caption": "1. Lay out the four mats."
     },
     {
-     "art": "A boy putting a card that shows an egg in a pot onto the Minutes mat.",
+     "art": "A boy putting a card that says 'Boiling an egg' onto the Minutes mat.",
      "caption": "2. Put each card on a mat, then check the back."
     }
    ],
@@ -589,12 +590,12 @@
   {
    "id": "e1",
    "title": "The Salt Timer: does each spoonful take the same time?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment your child makes a timer from a paper cone and salt. They time one spoonful three times, then two spoonfuls twice. They find out whether the timer is steady enough to be a clock.",
    "question": "Does one spoon of salt take the same time to run out of a paper cone every time? Do two spoons take twice as long?",
    "predict": "Will one spoon of salt take the same time every try? Will two spoons take twice as long, or less, or more? Why do you think so?",
-   "fair_test": "We use the same cone, the same salt and the same spoon every time. Each spoon is filled level, not heaped. We start and stop the stopwatch the same way every time. Only one thing changes: one spoon or two. We try each one more than once, because one try can be a fluke.",
+   "fair_test": "We use the same cone, the same salt and the same spoon every time. Each spoon is filled level, not heaped. We start and stop the stopwatch the same way every time. Only one thing changes: one spoon or two. We try each one more than once, because one try can be a lucky or unlucky one.",
    "results_table": [
     "Try",
     "Spoons of salt",
@@ -684,7 +685,7 @@
      "caption": "1. Roll a paper cone and tape it."
     },
     {
-     "art": "Scissors snipping the very tip off the paper cone, leaving a hole the size of a peppercorn.",
+     "art": "Scissors snipping the very tip off the paper cone, leaving a hole smaller than a peppercorn.",
      "caption": "2. Snip off the tip to make a small hole."
     },
     {
@@ -699,11 +700,11 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Roll the paper into a cone and tape it. 2. Snip the tip off so the hole is about as wide as a peppercorn. 3. Sit the cone in the mouth of the tumbler.",
+     "mins": 3,
+     "do": "1. Roll the paper into a cone and tape it. 2. Snip the tip off so the hole is about 3 millimetres wide, smaller than a peppercorn. 3. Sit the cone in the mouth of the tumbler.",
      "say": "We are making a timer out of paper and salt. The hole must be small, so the salt runs out slowly.",
      "kid": "Roll the paper into a cone. A grown-up snips a tiny hole at the tip.",
-     "parent": "If the hole is too big, the salt rushes out in a few seconds. Then tape a new tip on and snip less. If the salt sticks, dry it on a warm tawa for a minute and let it cool, or use dry rava."
+     "parent": "If the salt runs out in under 10 seconds, the hole is too big. Make a new cone and snip less. If the salt sticks, a grown-up can dry it on a warm tawa for a minute (let it cool), or use dry rava. In the monsoon, salt often clumps, so keep it in a closed dabba."
     },
     {
      "id": "s2",
@@ -725,7 +726,7 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Hold a finger under the hole. 2. Pour in one level spoon of salt. 3. Say 'go', take the finger away, and start the stopwatch. 4. Stop it when the last salt falls.",
      "say": "Watch the stream. Tell me the moment it stops.",
      "kid": "Watch the salt. Shout 'stop' when the last salt falls.",
@@ -733,7 +734,7 @@
     },
     {
      "id": "s4",
-     "mins": 4,
+     "mins": 3,
      "do": "Do the same with one spoon two more times. Write each time.",
      "say": "Let's try one spoon again. Was it the same as last time?",
      "kid": "Do it two more times. Are the times close?",
@@ -741,7 +742,7 @@
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 4,
      "do": "Now pour in two level spoons and time it. Do this twice.",
      "say": "Two spoons now. Before we start, how long do you think it will take? Why?",
      "kid": "Now try two spoons. Guess first. Then time it twice.",
@@ -749,7 +750,7 @@
     },
     {
      "id": "s6",
-     "mins": 3,
+     "mins": 2,
      "do": "Look at the table together. Ask your child to say what they think, what they saw and why.",
      "say": "What did you find out? Which numbers show it? Why do you think it happened?",
      "kid": "What did you find? Which numbers show it?",
@@ -815,7 +816,7 @@
      "qty": 1
     },
     {
-     "item": "3 or more people to ask, at home or on a video call",
+     "item": "3 or more people to ask: family, neighbours or friends, at home or on a video call",
      "qty": 1
     }
    ],
@@ -884,8 +885,8 @@
        "q": "Why do you think so?",
        "good": [
         "Left to right, because that is how we read.",
-        "Paati may go another way, because she reads Urdu.",
-        "Little Arjun may put them in a pile."
+        "Someone who reads Urdu may go another way.",
+        "A young child who cannot read yet may put them in a pile."
        ]
       }
      ]
@@ -909,8 +910,8 @@
        "q": "What might explain it?",
        "good": [
         "Everyone reads Tamil and English from left to right.",
-        "Uncle reads Urdu, which goes from right to left.",
-        "Arjun cannot read yet, so he made a pile."
+        "One person reads Urdu, which goes from right to left.",
+        "A child who cannot read yet made a pile."
        ]
       }
      ],
@@ -985,7 +986,8 @@
      "mins": 2,
      "do": "Look at the ice cube again. Then look at the baby photo together.",
      "say": "What happened to the ice cube? And look at you as a baby. What has changed?",
-     "kid": "Look at the ice cube now. Look at your baby photo. What changed?"
+     "kid": "Look at the ice cube now. Look at your baby photo. What changed?",
+     "parent": "A small ice cube on a steel plate in a warm flat is mostly melted in about 8 to 10 minutes. If it is still a big lump, say it has changed a little, and look again later."
     },
     {
      "id": "s4",
@@ -1197,7 +1199,7 @@
        ]
       }
      ],
-     "parent": "Jain teachings picture time as a great wheel, and Hindu teachings tell of ages that come round again. Many people picture time as a line. Both see something true. Let your child choose and give a reason."
+     "parent": "Both pictures are true of something. Let your child choose one and give a reason."
     }
    ]
   },
@@ -1266,8 +1268,8 @@
   {
    "id": "p1",
    "title": "A Paper-Chain Countdown to a day you are waiting for",
-   "mins": 27,
-   "days": 7,
+   "mins": 39,
+   "days": 8,
    "context": "In this project your child makes a paper chain with one loop for each day until a festival, a birthday or a visit. Each morning they tear off one loop, and watch the wait get shorter.",
    "materials": [
     {
@@ -1317,7 +1319,12 @@
     {
      "day": 7,
      "mins": 2,
-     "what": "Tear off a loop and talk about how the wait felt."
+     "what": "Tear off one loop. Count the loops left."
+    },
+    {
+     "day": 8,
+     "mins": 12,
+     "what": "Tear off the last loop. The day has come. Talk about how the wait felt."
     }
    ],
    "record": "Write the number of loops left each morning. At the end, draw the chain getting shorter.",
@@ -1335,7 +1342,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Choose a day your child is waiting for, a week or two away. Count the days to it on the calendar.",
+     "do": "Choose a day your child is waiting for, 7 days away. Count the days to it on the calendar.",
      "say": "Which day are you waiting for? Let's count how many days away it is.",
      "kid": "Choose a day you are waiting for. Count the days to it."
     },
@@ -1348,16 +1355,16 @@
     },
     {
      "id": "s3",
-     "mins": 2,
-     "do": "Each morning, your child tears off one loop and counts the loops left.",
+     "mins": 14,
+     "do": "Each morning, from the day after you make the chain, your child tears off one loop and counts the loops left.",
      "say": "Tear off one loop. How many days are left now?",
      "kid": "Tear off one loop. Count how many are left.",
-     "wait": "Do this every morning until the day comes."
+     "wait": "Do this every morning until the day comes. The last loop is torn off on that day."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "On the last day, talk about the chain.",
+     "do": "On the day itself, talk about the chain.",
      "say": "Did the wait feel the same every day? Did some days feel longer?",
      "kid": "Did some days feel longer than others?",
      "ask": [
@@ -1390,9 +1397,9 @@
    "context": "This is a design challenge. Two children want fair turns with one toy. Can you make a salt timer that runs for one minute, so every turn is the same length?",
    "problem": "Make a salt timer that runs out in one minute, give or take 5 seconds.",
    "constraints": [
-    "Use only paper, tape, salt and a tumbler.",
+    "Use only paper, tape, salt, a spoon and a tumbler.",
     "The timer must work three times in a row.",
-    "Check it with a phone stopwatch only while you are making it."
+    "Use the phone stopwatch only to check your timer while you make it."
    ],
    "materials": [
     "a paper cone with a small hole",
@@ -1407,7 +1414,7 @@
     "Mark a line on the cone to show how full to fill it every time."
    ],
    "creative": [
-    "Make the hole smaller with a piece of tape, so less salt lasts longer.",
+    "Make the hole smaller with a piece of tape, so the salt runs more slowly.",
     "Make two cones, one for 30 seconds and one for a minute.",
     "Colour the salt with a little turmeric so the stream is easy to see."
    ],
@@ -1529,19 +1536,6 @@
   },
   {
    "t": "mcq",
-   "p": "In the salt-timer test, one spoon of salt took 15 seconds. About how long will two spoons take?",
-   "opts": [
-    "About 15 seconds",
-    "About 30 seconds",
-    "About 60 seconds"
-   ],
-   "a": 1,
-   "why": "The salt runs at a steady speed. Twice the salt takes about twice the time: 15 and 15 make 30.",
-   "outcome": 2,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "In the salt-timer test, why did we fill the spoon level every time, not heaped?",
    "opts": [
     "So each spoon held the same amount of salt",
@@ -1570,7 +1564,7 @@
    "p": "Why is a day as long as it is?",
    "opts": [
     "The Earth spins once in a day",
-    "The Sun goes to sleep at night",
+    "The Sun stops shining at night",
     "Clocks decide it"
    ],
    "a": 0,
@@ -1628,7 +1622,7 @@
   },
   {
    "t": "truefalse",
-   "p": "Kavya's wall clock is steady but shows 5 minutes late. It can still be a good clock once it is set right.",
+   "p": "A wall clock is steady but shows 5 minutes late. It can still be a good clock once it is set right.",
    "a": true,
    "why": "True. A steady clock only needs to be set right once. A clock that speeds up and slows down is the real problem.",
    "outcome": 1
@@ -1750,36 +1744,36 @@
      ],
      "items": [
       [
-       "a seed",
-       "Comes first"
-      ],
-      [
-       "a plant",
+       "an open flower",
        "Comes later"
       ],
       [
-       "curd",
-       "Comes later"
-      ],
-      [
-       "milk",
+       "flour",
        "Comes first"
       ],
       [
-       "a caterpillar",
+       "dry clothes",
+       "Comes later"
+      ],
+      [
+       "a flower bud",
        "Comes first"
       ],
       [
-       "a butterfly",
+       "a roti",
        "Comes later"
+      ],
+      [
+       "wet clothes",
+       "Comes first"
       ]
      ],
      "a": "see items",
-     "why": "In each pair, the first thing turns into the second. A seed grows into a plant, milk sets into curd, and a caterpillar becomes a butterfly."
+     "why": "In each pair, the first thing becomes the second. A bud opens into a flower, flour is made into a roti, and wet clothes dry on the line."
     },
     {
      "t": "mcq",
-     "p": "Paati's salt timer ran out too fast, in only 3 seconds. What should she change?",
+     "p": "A salt timer ran out too fast, in only 3 seconds. What should the maker change?",
      "opts": [
       "Make the hole smaller",
       "Make the hole bigger",
@@ -1806,29 +1800,15 @@
      "art": "One calendar box with a big '2', a small Tamil date with the month Aippasi, and a small half-Moon drawing."
     },
     {
-     "t": "count",
-     "p": "Today is Monday. Lakshmi's cousin is coming to visit next Monday. How many days must Lakshmi wait?",
-     "a": "7 days.",
-     "why": "Count on from Monday: Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, Monday. That is 7 days, one whole week."
-    },
-    {
      "t": "mcq",
      "p": "What is one year?",
      "opts": [
       "The time the Earth takes to go once round the Sun",
       "The time the Moon takes to go from full to new",
-      "The time between two birthdays of your best friend's grandmother, only"
+      "The time the Earth takes to spin once"
      ],
      "a": 0,
      "why": "A year is one trip of the Earth round the Sun, about 365 and a quarter days. Every birthday comes round once a year because of this."
-    },
-    {
-     "t": "write",
-     "p": "Kavya's salt timer runs out in 30 seconds with one spoon. She wants a timer for 1 minute. What should she do, and why?",
-     "lines": 2,
-     "a": "Use two spoons of salt, because the salt runs steadily, so twice the salt takes twice the time: 30 and 30 make 60 seconds.",
-     "why": "A strong answer says how much salt and gives the reason: steady running means the time grows with the salt.",
-     "how": "e1"
     },
     {
      "t": "truefalse",
@@ -1843,12 +1823,11 @@
      "why": "A week is 7 days. A day, one spin of the Earth, is counted as 24 hours."
     },
     {
-     "t": "draw",
-     "p": "Draw your week as a wheel. Put Sunday at the top, and show what comes after it.",
-     "a": "A circle in seven slices, with the days in order and Monday coming after Sunday.",
-     "why": "A strong drawing shows the days in the right order, and that the wheel joins up: Sunday leads back to Monday.",
-     "how": "a4",
-     "art": "An empty circle drawn round a plate."
+     "t": "write",
+     "p": "Name two things that come round again, like Monday. Name two things that never come back.",
+     "lines": 2,
+     "a": "For example: 'Monday and the rains come round again. Yesterday and my baby days never come back.'",
+     "why": "A strong answer separates things that repeat, like days and seasons, from changes that cannot be undone."
     },
     {
      "t": "perspective",
@@ -1901,6 +1880,36 @@
      ],
      "a": 0,
      "why": "Twelve rounds of the Moon take about 354 days. The Sun's year is about 365 days. So the Moon's year ends about 11 days sooner, and Ramzan moves earlier."
+    },
+    {
+     "t": "count",
+     "p": "A film is 2 hours long. How many minutes is that?",
+     "a": "120 minutes.",
+     "why": "One hour is 60 minutes. 60 and 60 make 120."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each unit of time to where it comes from.",
+     "pairs": [
+      [
+       "A day",
+       "The Earth spinning once"
+      ],
+      [
+       "A year",
+       "The Earth going once round the Sun"
+      ],
+      [
+       "A month",
+       "The Moon going through all its shapes"
+      ],
+      [
+       "An hour",
+       "People chose it"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Days, months and years come from the sky. The hour is a piece that people chose."
     }
    ]
   },
@@ -1910,13 +1919,6 @@
    "tier": "challenge",
    "mins": 20,
    "items": [
-    {
-     "t": "write",
-     "p": "Imagine everything in your room stopped: the fan, the clock, the light at the window, even you. Would time still pass? How could anyone know?",
-     "lines": 3,
-     "a": "For example: 'Nobody could know, because there would be no change to count. Maybe time would still go on, but nothing would show it.'",
-     "why": "There is no agreed answer. A strong answer uses the idea that we know time by counting change, and says what that means if nothing changes."
-    },
     {
      "t": "perspective",
      "p": "Rekha, a woman who teaches science in Chennai, and Mou, a girl of 9 in Kolkata, disagree.",
@@ -1937,19 +1939,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun filled the cone with a heaped spoon of salt for his own turn, and a level spoon for his sister's turn. What happened?",
-     "opts": [
-      "His turn was longer, because more salt takes longer to run out",
-      "Both turns were the same",
-      "His turn was shorter"
-     ],
-     "a": 0,
-     "why": "A heaped spoon holds more salt. The salt runs at a steady speed, so more salt takes more time. That is why fair turns need the same amount of salt.",
-     "how": "c1"
-    },
-    {
-     "t": "mcq",
-     "p": "In the banana card test, Farhana's grandfather, who reads Urdu, laid the cards from right to left. What is the best reason?",
+     "p": "In the banana card test, one person who reads Urdu laid the cards from right to left. What is the best reason?",
      "opts": [
       "Urdu is written from right to left, and people often lay out time the way they read",
       "He made a mistake",
@@ -2010,19 +2000,37 @@
      "why": "Eating idli is fast on some days and slow on others. It is not steady, so it cannot keep time. The other three are steady changes."
     },
     {
-     "t": "count",
-     "p": "Your salt timer ran out in 20 seconds with one spoon. How long will it take with three spoons?",
-     "a": "About 60 seconds, which is 1 minute.",
-     "why": "Count on in 20s: 20, 40, 60. The salt runs steadily, so each spoon adds about 20 seconds.",
-     "how": "e1"
-    },
-    {
      "t": "write",
      "p": "In the clock hunt, the clocks at home did not all agree. Which clock would you trust, and how would you check it?",
      "lines": 2,
      "a": "For example: 'The phone, because it sets itself from the network. I would check the others against it.'",
      "why": "A strong answer names a clock, gives a reason, and says how to check, for example by comparing several clocks.",
      "how": "a5"
+    },
+    {
+     "t": "write",
+     "p": "Besides salt, what else at home could you use to time one minute? How would you check that it is steady?",
+     "lines": 3,
+     "a": "For example: 'A bowl of water with a small hole, or counting 60 slow claps. I would time it three times and see if the answers are close.'",
+     "why": "A strong answer picks a thing that changes steadily and checks it by repeating the test, as in the salt timer."
+    },
+    {
+     "t": "mcq",
+     "p": "In the damp monsoon, the salt in a timer sticks and stops. What does this tell us about the timer that day?",
+     "opts": [
+      "It is not steady that day, so it is a poor clock",
+      "It is a better clock than usual",
+      "It is still a perfect clock"
+     ],
+     "a": 0,
+     "why": "A clock needs a steady change. Sticking salt runs unevenly, so the timer cannot be trusted until the salt is dry again.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "Two different calendars can both be right about the same day.",
+     "a": true,
+     "why": "True. Each calendar counts days in its own way, by the Sun or the Moon. The day itself is the same day."
     }
    ]
   }
@@ -2058,20 +2066,8 @@
  ],
  "open_questions": [
   {
-   "q": "What is time, really?",
-   "why_open": "Physicists can measure time very exactly, but they still argue about whether time is a basic part of the world, or something that comes out of change."
-  },
-  {
    "q": "Why does time only go forward?",
    "why_open": "Many rules of physics work just as well backwards. Yet eggs break and never unbreak. Scientists have ideas about why, but no one is sure."
-  },
-  {
-   "q": "Did time have a beginning?",
-   "why_open": "The universe began about 13.8 billion years ago. Whether time began then too, or something came before, is not known."
-  },
-  {
-   "q": "Why does a minute feel long when we wait and short when we play?",
-   "why_open": "Scientists who study the brain and the body have several ideas, but they do not fully understand how we feel time passing."
   }
  ],
  "ask_kids": [
@@ -2084,8 +2080,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the boy throw the clock out of the window?",
-   "a": "He wanted to see time fly!"
+   "j": "What is a clock's favourite snack?",
+   "a": "Seconds!"
   },
   {
    "j": "What did the calendar say when it got its last page?",
@@ -2094,10 +2090,6 @@
   {
    "j": "Why was the salt timer so calm?",
    "a": "It always took its time."
-  },
-  {
-   "j": "Why did the clock go to the doctor?",
-   "a": "It had a ticking feeling."
   },
   {
    "j": "What is the best day of the week to cook dosa?",
@@ -2131,8 +2123,8 @@
    "why_maths": "Counting on in equal steps lets us predict a long time from one short test."
   },
   {
-   "problem": "Kavya's salt timer took 30 seconds. Arjun's took 20 seconds, with the same salt. Arjun says his timer is broken. Is he right?",
-   "answer": "No. Both timers are steady. Arjun's cone has a bigger hole, so his salt runs out 10 seconds sooner.",
+   "problem": "Kavya, a girl in Class 2, makes a salt timer that takes 30 seconds. Her friend Arjun, a boy in Class 2, makes one that takes 20 seconds, with the same salt. Arjun says his timer is broken. Is he right?",
+   "answer": "No. Both timers can be steady. Arjun's cone probably has a bigger hole, so his salt runs out 10 seconds sooner.",
    "explain": "30 take away 20 is 10, so Arjun's is 10 seconds quicker. A timer is not broken if it is quick. It is good if it takes the same time every try.",
    "math_unit": "math.time.telling-time.L2",
    "how": "e1",
@@ -2140,7 +2132,7 @@
    "why_maths": "Taking away shows how much quicker one timer is, and comparing tries shows whether each one is steady."
   },
   {
-   "problem": "Lakshmi's birthday is on the 20th of the month. Today is the 13th. How many loops does her paper chain need?",
+   "problem": "Divya, a girl in Class 2, has a birthday on the 20th of the month. Today is the 13th. How many loops does her paper chain need?",
    "answer": "7 loops.",
    "explain": "Count on from 13: 14, 15, 16, 17, 18, 19, 20. That is 7 days, so 7 loops. It is exactly one week.",
    "math_unit": "math.time.calendar.L2",
@@ -2149,7 +2141,7 @@
    "why_maths": "Counting on along the calendar tells us how many days we must wait."
   },
   {
-   "problem": "Pongal is 3 weeks away. Kavya wants one loop for each day. How many loops does she need?",
+   "problem": "Pongal is 3 weeks away. Meena, a girl in Class 2, wants one loop for each day. How many loops does she need?",
    "answer": "21 loops.",
    "explain": "One week is 7 days. 3 weeks is 7 and 7 and 7. 7 and 7 make 14, and 14 and 7 make 21.",
    "math_unit": "math.time.calendar.L2",
@@ -2194,7 +2186,7 @@
    "url": "https://www.salarjungmuseum.in/",
    "kind": "place",
    "where": "Hyderabad",
-   "why": "A room full of clocks from many countries, and a famous musical clock that strikes the hour."
+   "why": "A room full of old clocks, and a famous musical clock that strikes the hour."
   }
  ],
  "buy": [],
@@ -2284,9 +2276,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/space-time-and-dimensions.md, 'Grade concept grid: Time', grade 2: time comes from regular motions (day from the Earth's spin, year from the trip round the Sun), seconds to years, sundials and simple water clocks, and our heartbeat and breathing as tiny clocks. Grade 1: before, now and later, and 'is time what the clock shows, or what we feel?' These shaped the units of time card, the salt timer, the clock hunt and the big question on waiting and play.",
-   "No board chapter is listed for this subtopic. It leads on to sci.space-time.time.L4 (is time the same for everyone, time dilation), and sits beside sci.space-time.space.L2 and sci.space-time.dimensions.L2.",
-   "Checked against other units so as not to repeat them: the sinking cup, the leaking bottle, the sense-of-a-minute test, the nazhigai wheel and the window calendar (sci.sky.history-of-astronomy.L3), the pendulum tests (sci.motion.swings-and-pendulums.L3), the clap clock (sci.motion.speed.L2), the shadow stick and sundial (sci.day-night-seasons units), the flower clock and body rhythms (sci.day-night-seasons.rhythms-of-nature.L3), the breath count (sci.health.exercise-and-rest.L2), the festival calendar hunts (sci.community.festivals.L3, sci.sky.moon-phases.L3) and the undo-or-not changes (sci.changes.reversible-and-irreversible.L2)."
+   "ideas/by_topic/space-time-and-dimensions.md, 'Grade concept grid: Time', grade 2: time comes from regular motions (day from the Earth's spin, year from the trip round the Sun), seconds to years, sundials and simple water clocks, and our heartbeat and breathing as tiny clocks. Grade 1: before, now and later, and 'is time what the clock shows, or what we feel?' These shaped the units of time card, the salt timer, the clock hunt and the big question on waiting and play."
   ],
   "science": [
    "Granular flow from an opening runs at a nearly constant rate, independent of how much grain is above it: Beverloo WA, Leniger HA, van de Velde J, The flow of granular solids through orifices, Chemical Engineering Science, 1961.",
@@ -2307,10 +2297,10 @@
   },
   "three": {
    "who_am_i": "You are changing all the time: growing, breathing, thinking. That is how you know that time is passing.",
-   "what_is_life": "Living beings keep time too. You get hungry at lunchtime, crows fly home at dusk, and a bean plant lifts their leaves before the morning.",
+   "what_is_life": "Living beings keep time too. You get hungry at lunchtime, crows fly home at dusk, and bean plants lift their leaves before the morning.",
    "what_is_this_world": "The world is always changing, and some of its changes are very steady: the Earth spins, the Moon goes round, the seasons return. People count these steady changes and call it time."
   },
-  "thread": "Time shows up only through change. Salt falls, the Earth turns, a child grows. The same steady change can be counted by a cone of salt, a clock, a calendar or a living body. A bean plant and a crow sense the day's rhythm, remember that rhythm and get ready for what comes next, just as you feel sleepy at bedtime. Some scientists call these automatic body clocks. Every one of these clocks, of salt or of living cells, is a different way of keeping count of the same changing world.",
+  "thread": "Time shows up only through change. Salt falls, the Earth turns, a child grows. The same steady change can be counted by a cone of salt, a clock, a calendar or a living body. Bean plants and crows sense the day's rhythm, remember that rhythm and get ready for what comes next, just as you feel sleepy at bedtime. Some scientists call these automatic body clocks. Every one of these clocks, of salt or of living cells, is a different way of keeping count of the same changing world.",
   "teachings": [
    {
     "source": "Augustine of Hippo, Confessions, Book 11, chapter 14",
@@ -2349,18 +2339,19 @@
    "kid": "Sit still. Close your eyes. Listen to each sound start and stop. When you open your eyes, guess how long it was."
   },
   "ask": [
-   "If everything stood still, even your heartbeat, would time still pass?",
+   "Is there anything at home that changes so steadily that you could count it as a clock?",
    "Is the time in the clock, in the salt, or in you?",
    "A crow and a bean plant keep time without a clock. How do you think they know?"
   ],
   "art": "A child sitting cross-legged with eyes closed beside a paper cone dropping salt, while through the window the Earth, Moon and Sun turn in the sky and a crow flies home."
  },
  "how_we_found_out": {
-  "context": "How did people find out that not everyone pictures time going the same way? This card tells the true story of two women scientists and a community in Australia.",
-  "story": "For a long time, many people thought everyone pictured time the same way, with the past on the left and the future on the right. In 1991, Barbara Tversky and her colleagues asked children and grown-ups who spoke English, Hebrew and Arabic to put pictures of breakfast, lunch and dinner on a page. English speakers mostly went from left to right. Arabic speakers mostly went from right to left, the way they read. Then Lera Boroditsky and Alice Gaby went to Pormpuraaw, an Aboriginal community in Queensland, Australia. The people there speak Kuuk Thaayorre. In this language you do not say left or right. You say north, south, east and west, even for a cup on a table. The scientists gave people cards showing a banana being eaten, or a man growing older, and asked them to put the cards in order. People sat facing different directions on different days. Every time, they laid out time from east to west, wherever they were facing. The idea that everyone pictures time the same way was wrong.",
+  "context": "How did people find out that not everyone pictures time going the same way? This card tells the true story of women scientists and a community in Australia.",
+  "story": "For a long time, many people thought everyone pictured time the same way, with the past on the left and the future on the right. In 1991, Barbara Tversky and her colleagues asked children and grown-ups who spoke English, Hebrew and Arabic to put events in order on a page. English speakers mostly went from left to right. Arabic speakers mostly went from right to left, the way they read. Then Lera Boroditsky and Alice Gaby went to Pormpuraaw, an Aboriginal community in Queensland, Australia. The people there speak Kuuk Thaayorre. In this language you do not say left or right. You say north, south, east and west, even for a cup on a table. The scientists gave people cards showing a banana being eaten, or a man growing older, and asked them to put the cards in order. People sat facing different directions on different days. Every time, they laid out time from east to west, wherever they were facing. The idea that everyone pictures time the same way was wrong.",
   "who": "Barbara Tversky and her colleagues, and Lera Boroditsky and Alice Gaby, working with Kuuk Thaayorre speakers in Pormpuraaw",
   "when": "1991 (Tversky) and 2010 (Boroditsky and Gaby, published in the journal Psychological Science)",
   "wrong_idea": "Everyone pictures time the same way, going from left to right.",
   "art": "A woman scientist sitting on the ground with an Aboriginal grandmother, who is laying picture cards of a banana being eaten in a row, with a compass arrow showing east to west."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. Wrote out all 12 cards of each card game and played both for two and four players, then fixed the first game so wrong cards cannot loop forever and the moon card can be won. Fixed the paper-chain project so its eight days and minutes match the steps, took made-up family members out of the banana-card steps, introduced every named child, and removed one weak joke and repeated questions (heaped spoon, three spoons, the sort pairs that repeated the card game). The salt timer, calendar hunt and clock hunt all work with kitchen things and a stopwatch."
 }

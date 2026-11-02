@@ -76,7 +76,7 @@
    "status": "defined",
    "context": "This card explains flat and solid, after your hunt for flat and solid things at home.",
    "definition": "A flat (2D) shape has two dimensions: length and width. A solid (3D) shape has three dimensions: length, width and height.",
-   "description": "In the hunt, you found things that look flat, like a sheet of paper or a chapati, and things that are clearly solid, like a ball. A circle drawn on paper is a flat shape. It goes along the paper and across it, but not up off it. A steel tumbler goes up too, so it is a solid. Solids take up space. You can put a solid in your hand, but you can only draw a flat shape.",
+   "description": "In the hunt, you found things that look flat, like paper or a chapati, and things that are clearly solid, like a ball. A circle drawn on paper goes along the paper and across it, but not up. A steel tumbler goes up too, so it is a solid. You can hold a solid in your hand, but you can only draw a flat shape.",
    "examples": [
     "A square drawn on a slate is a flat shape",
     "A dice is a solid shape",
@@ -90,7 +90,7 @@
    "status": "defined",
    "context": "This card explains the flat sides of solid shapes, after you opened out a box.",
    "definition": "A face is a flat side of a solid. An edge is where two faces meet.",
-   "description": "Many solids have flat faces. A dice has 6 square faces. A matchbox has 6 faces too, but they are rectangles. A steel tumbler has one flat round face at the bottom, and a curved side. A ball has no flat face and no edge at all, which is why it rolls every way. When you opened a box out flat, all its faces lay side by side on the floor.",
+   "description": "Many solids have flat faces. A dice has 6 square faces, and a matchbox has 6 rectangle faces. A steel tumbler has one flat round face at the bottom, and a curved side. A ball has no flat face and no edge, so it rolls every way.",
    "examples": [
     "A dice: 6 square faces",
     "A matchbox: 6 rectangle faces",
@@ -104,7 +104,7 @@
    "status": "defined",
    "context": "This card explains what you found in the slice and trace test.",
    "definition": "When you cut straight through a solid, the cut side is a flat shape. Which flat shape you get depends on the solid, and on where and how you cut.",
-   "description": "In the slice and trace test, the cucumber gave circles that were nearly all the same size. The carrot gave circles that got smaller towards the tip. The round potato gave small circles near the top and bottom, and the biggest in the middle. When you cut a corner off the potato cube, you got a triangle. Then you stacked the potato slices back up, and they made the potato again. A solid is like a pile of flat slices, one on top of the next, in the up direction.",
+   "description": "In the slice and trace test, the cucumber gave circles of nearly the same size. The carrot gave circles that got smaller towards the tip. The round potato gave small circles near the ends and the biggest in the middle. A corner cut off the potato cube gave a triangle. Stacked back up, the potato slices made the potato again.",
    "examples": [
     "A cucumber slice: a circle",
     "The middle slice of a round potato: the biggest circle",
@@ -117,7 +117,7 @@
    "concept": "A flat creature's world",
    "status": "idea",
    "context": "This card is about a made-up creature who lives in a flat world, like a drawing on paper. Thinking about her helps us see what our third direction does.",
-   "description": "Imagine Pulli, a flat girl who lives on a sheet of paper. She can move forward, back, left and right, but there is no up for her. A circle drawn round her is a wall she cannot get past, because stepping over means going up. When she looks at a coin lying on her paper, she sees only its edge, as a line. To tell a circle from a square, she must walk round it. A circle looks the same width from every side, but a square looks wider from a corner. If a ball passed down through her world, she would see a dot, then a growing circle, then a shrinking one, then nothing. Nobody has ever met a real flat creature. Scientists and writers use her as a way of thinking.",
+   "description": "Imagine Pulli, a flat girl who lives on a sheet of paper. She can move forward, back, left and right, but there is no up for her. A pencil circle round her is a wall, because stepping over means going up. A ball passing down through her world would look like a dot, then a growing circle, then a shrinking one. Nobody has met a real flat creature. Scientists and writers use her to think with.",
    "examples": [
     "A circle round Pulli locks her in",
     "A coin on her paper looks like a line",
@@ -130,7 +130,7 @@
    "concept": "Is anything really flat?",
    "status": "debated",
    "context": "This card is about a question people still argue about: can a real thing be truly flat?",
-   "description": "A sheet of paper looks flat, but it has a tiny height. Stack 100 sheets and the pile is about 1 centimetre tall. A chapati and a dosa are thin solids too. The thinnest material ever made is called graphene. It is a sheet of carbon only one atom thick. Even one atom has a tiny height. So people disagree about whether anything real is truly 2D.",
+   "description": "A sheet of paper looks flat, but it has a tiny height. Stack 100 sheets and the pile is about 1 centimetre tall. A chapati and a dosa are thin solids too. Graphene is a sheet of carbon one atom thick, one of the thinnest materials made. Even one atom has some height, so people argue about whether anything real is truly 2D.",
    "examples": [
     "A sheet of paper: a very thin solid",
     "A pile of 100 sheets: about 1 centimetre tall",
@@ -382,7 +382,7 @@
     }
    ],
    "rules": [
-    "A grown-up puts 5 solid things into a cloth bag or a pillow cover: for example, a small ball, a dice, a matchbox, a steel tumbler and a lemon.",
+    "A grown-up puts 5 solid things into a cloth bag or a pillow cover: for example, a small ball, a dice, a matchbox, a closed round tin and an orange.",
     "On your turn, put one hand in the bag. Don't look.",
     "Feel one thing. Say its solid shape name: sphere, cube, cuboid, cylinder or cone.",
     "Say how many flat faces it has. Then pull it out to check.",
@@ -391,7 +391,7 @@
    ],
    "setup": [
     {
-     "art": "A cloth bag on a table, with a ball, a dice, a matchbox, a tumbler and a lemon beside it.",
+     "art": "A cloth bag on a table, with a ball, a dice, a matchbox, a closed round tin and an orange beside it.",
      "caption": "1. Put 5 solids in a cloth bag."
     },
     {
@@ -450,7 +450,7 @@
   {
    "id": "e1",
    "title": "Slice and Trace: what flat shapes are hidden inside a solid?",
-   "mins": 27,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment a grown-up cuts a cucumber, a carrot and a round potato straight across. You trace the flat shape of each cut side on paper. Then you find out what shape you get when you cut a corner off a potato cube.",
    "question": "When you cut a solid straight through, what flat shape do you see? Is it the same shape and size wherever you cut?",
@@ -492,7 +492,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 27,
+     "mins": 20,
      "what": "Cut the cucumber, the carrot and a round potato across, and trace each cut side. Then cut a corner off a potato cube and trace that."
     }
    ],
@@ -549,7 +549,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Put the cucumber, the carrot and one round potato on the board. 2. Ask the questions below. 3. Write your child's guesses at the top of the paper. Don't say who is right.",
      "say": "If I cut each of these straight across, what shape will the cut side be? Will every slice be the same size? Why do you think so?",
      "kid": "Look at the three vegetables. What shape will the cut side be? Will every slice be the same size? Why?",
@@ -568,7 +568,7 @@
     },
     {
      "id": "s2",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Cut the cucumber straight across in three places. 2. Cut one hand-width from each end, and one in the middle. 3. Your child presses each cut side on the paper and draws round it. 4. Write 'cucumber' under the three shapes.",
      "say": "Press the cut side down on the paper and draw round it. Now the next one. Are they the same shape? Are they the same size?",
      "kid": "Press the slice on the paper. Draw round it. Is the next one the same size?",
@@ -587,7 +587,7 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 3,
      "do": "1. Cut the carrot straight across at three places: near the thick top, in the middle, and near the thin tip. 2. Your child traces each cut side in a new row, in the same order. 3. Write 'carrot' under the row.",
      "say": "Now the carrot. Trace the thick end first, then the middle, then near the tip. What happens to the circles?",
      "kid": "Trace the carrot slices, thick end first. What happens to the circles?",
@@ -606,7 +606,7 @@
     },
     {
      "id": "s4",
-     "mins": 6,
+     "mins": 4,
      "do": "1. Cut the round potato straight across into 5 slices, from top to bottom. 2. Lay them on the plate in order. 3. Your child traces them in a new row, in the same order. 4. Then your child stacks the slices back up.",
      "say": "Trace the slices in order, from the top of the potato to the bottom. Which circle is the biggest? Now stack the slices back up. What do you get?",
      "kid": "Trace the potato slices in order. Which is biggest? Now stack them back up.",
@@ -625,7 +625,7 @@
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Cut the second potato into a rough cube by cutting off a slice from each of its 6 sides. 2. Ask your child to guess the shape if you cut off one corner. 3. Cut one corner off, about 1 centimetre in from the tip. 4. Your child traces the cut side.",
      "say": "This potato is now a cube, with square faces. If I cut off one corner, what shape will the cut side be? Why?",
      "kid": "This potato is now a cube. Cut off a corner. What shape will it be?",
@@ -1171,7 +1171,7 @@
     "a ruler"
    ],
    "general": [
-    "Roll the paper into a tube and stand it on its end.",
+    "Roll the paper into a wide, short tube, with the long side going round, and stand it on its end.",
     "Fold the paper into a triangle tube and stand it up."
    ],
    "creative": [
@@ -1213,7 +1213,7 @@
      "do": "1. Your child tries ways to fold or roll the sheet. 2. Test each one with the plate. 3. Measure the height with the ruler.",
      "say": "Try it. Does it hold the plate? How high is the plate now?",
      "kid": "Try it. Does it hold the plate? How high?",
-     "parent": "A rolled tube about 3 centimetres wide usually holds a small steel plate easily. If the plate tips, tape the tube to keep it from unrolling."
+     "parent": "A tube rolled from a notebook page, about 6 centimetres wide, usually holds a small steel plate easily. If the plate tips, tape the tube to keep it from unrolling."
     },
     {
      "id": "s3",
@@ -1824,8 +1824,8 @@
    "art": "A white kolam of dots and loops on the floor at the door of a flat."
   },
   {
-   "text": "Gas cylinders delivered in Kochi or Lucknow are cylinders. Their top and bottom are flat circles, and their side is curved.",
-   "art": "A red gas cylinder standing in a kitchen corner."
+   "text": "A round biscuit tin in Kochi or Lucknow is a cylinder. Its top and bottom are flat circles, and its side is curved.",
+   "art": "A round biscuit tin on a kitchen shelf, with its flat round lid and curved side."
   },
   {
    "text": "On a carrom board, the board is a flat square and every coin is a very short cylinder.",
@@ -1847,7 +1847,7 @@
   },
   {
    "q": "Can anything real be truly flat, with no height at all?",
-   "why_open": "Even graphene, the thinnest material ever made, is one atom thick. People still argue about whether anything real is truly 2D, or whether flat shapes are only ideas."
+   "why_open": "Even graphene, one of the thinnest materials made, is one atom thick. People still argue about whether anything real is truly 2D, or whether flat shapes are only ideas."
   },
   {
    "q": "What would it be like to live in a flat world?",

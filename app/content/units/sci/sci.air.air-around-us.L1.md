@@ -10,12 +10,12 @@
 1. By the end I can say that we cannot see air, but we can feel it when it moves.
 2. By the end I can say that wind is moving air, and point to things that moving air pushes.
 3. By the end I can catch air in a bag and feel it push back.
-4. By the end I can say that people and other animals breathe air, and that plants take it in too.
+4. By the end I can say that humans and other animals breathe air, and that plants take it in too.
 5. By the end I can make a guess, test it, and say what I saw.
 
 ## Terms
 - **Air**: Air is all around us. It fills every space that looks empty. We cannot see it, but we can feel it when it moves. *e.g.* There is air in your room, under your bed and inside an empty bucket.
-- **Invisible**: Invisible means we cannot see it. Air is invisible because light goes straight through it. *e.g.* Clean air is invisible. So is the clean water in a clear glass, almost.
+- **Invisible**: Invisible means we cannot see it. Air is invisible because light goes straight through it. *e.g.* Clean air in your room is invisible. You look right through it and see the wall.
 - **Wind**: Wind is air that is moving. We cannot see the wind, but we can see what it pushes. *e.g.* The wind sways the coconut trees and flaps the clothes on the balcony line.
 - **Breathe**: To breathe is to take air into your body and let it out again. You do it all day and all night. *e.g.* When you breathe in, your chest gets bigger. When you breathe out, warm air comes out of your nose.
 
@@ -23,46 +23,46 @@
 ### Air is all around us · *defined*
 **Definition:** Air is a real thing that fills the space around us, indoors and outdoors, all over the Earth.
 
-A room that looks empty is full of air. So is the space under your bed, inside a cupboard and inside an empty bottle. Air is made of tiny bits, far too small to see. They fly about very fast and bump into everything. Air wraps the whole Earth like a blanket, high above the tallest mountains. Higher up, the air gets thinner and thinner.
+A room that looks empty is full of air. So is the space under your bed, inside a cupboard and inside an empty bottle. Air is made of tiny bits, far too small to see, and it wraps the whole Earth like a blanket.
 - e.g. A plastic bag swept under the bed comes out puffed up with air.
 - e.g. An empty bottle with no cap is full of air.
-- e.g. Mountain climbers on very high mountains often carry extra air to breathe, because the air up there is thin.
+- e.g. Mountain climbers on very high mountains carry air in cylinders to breathe, because the air up there is thin.
 ### Why we cannot see air · *defined*
 **Definition:** Something is invisible when light goes straight through it, so nothing comes back to our eyes.
 
-We see a thing when light bounces off it into our eyes. Light goes straight through clean air, like it goes through a clean window. So we see what is on the other side, and not the air. But a very, very large amount of air does send back a little light, mostly blue. That is why the sky looks blue. When you look up at the blue sky, you are seeing air.
+We see a thing when light bounces off it into our eyes. Light goes straight through a little clean air, so we see what is behind it. But a huge amount of air sends back some blue light. That is why the sky looks blue, and when you look up, you are seeing air.
 - e.g. You can see the tree through a clean window, but you hardly see the glass.
 - e.g. Hills far away look a little blue, because there is a lot of air between you and them.
 - e.g. The sky is blue in the day. Where there is no air, out in space, the sky is black.
 ### We feel air when it moves · *defined*
 **Definition:** We feel air when it moves against our skin, or when we move through it. Moving air is called wind.
 
-The tiny bits of air press on your skin all the time, from every side. The push is the same all the time, so you do not notice it. When air moves, it pushes harder on one side. It bends the tiny hairs on your arms and presses your skin, and you feel it. Waving a hand, running, a fan and the wind all move air against you.
+The tiny bits of air touch your skin all the time, from every side. When the air is still, you do not notice it. When air moves, it bends the tiny hairs on your arms and presses your skin, and you feel it.
 - e.g. Sitting still with the fan off, you feel no air on your arm.
 - e.g. When you run, you feel air on your face, even on a still day.
 - e.g. A hand fan, like a palm-leaf visari in Kerala, pushes air onto your face.
 ### Moving air pushes things · *defined*
 **Definition:** Moving air pushes on whatever is in its way. The faster it moves, the harder it pushes.
 
-We cannot see wind, but we can see what it pushes. A gentle breeze sways a curtain. A strong wind bends trees and flies kites. Air pushed out of a bag or blown from your mouth can move a paint drop, a cotton ball or a paper boat. People use moving air to sail boats, fly kites and turn windmills.
+We cannot see wind, but we can see what it pushes. A gentle breeze sways a curtain. A strong wind bends trees and flies kites. Air from your mouth can push a cotton ball or a paper boat.
 - e.g. Kites fly high over Ahmedabad at Uttarayan, held up by the wind.
 - e.g. Tall windmills near Kanyakumari turn in the strong wind and make electricity.
 - e.g. A puff of breath pushes a soap bubble across the room.
 ### Living beings need air · *defined*
-**Definition:** Breathing is taking air into the body and letting it out again. People and other animals breathe all day and all night.
+**Definition:** Breathing is taking air into the body and letting it out again. Humans and other animals breathe all day and all night.
 
-You breathe in through your nose and mouth, and the air goes into your chest. Then you breathe it out again. You do it even when you are asleep. A cat, a crow and a cow breathe air too. A fish takes in the air that is mixed into water, through their gills. Plants take in air through tiny holes in their leaves.
+You breathe air in through your nose and mouth, and out again. You do it even when you are asleep. A cat, a crow and a cow breathe air too. A fish takes in the air mixed into water through her gills. Plants take in air through tiny holes in their leaves.
 - e.g. Put your hand on your chest and breathe in. Feel your chest get bigger.
-- e.g. A fish in a bowl keeps opening and closing their gills, taking in the air mixed into the water.
-- e.g. A tulsi plant on the balcony takes in air through tiny holes under their leaves.
+- e.g. A fish in a bowl keeps opening and closing her gills, taking in the air mixed into the water.
+- e.g. A tulsi plant on the balcony takes in air through tiny holes under the leaves.
 
 ## Mostly agreed
 - Air is a real thing that fills every space that looks empty. *How we know:* A bag swept through any corner of a room fills up with air and pushes back when you squeeze it. A bag squeezed flat and twisted shut stays flat.
 - Wind is moving air. *How we know:* We cannot see air, but we see wind push leaves, clothes and kites. A fan or a waving hand makes a small wind that we feel on our skin.
-- People and other animals need air to live, and plants take in air too. *How we know:* We breathe in and out all day and all night, even asleep. Scientists have seen the tiny holes in leaves that let air in and out.
+- Humans and other animals need air to live, and plants take in air too. *How we know:* We breathe in and out all day and all night, even asleep. Scientists have seen the tiny holes in leaves that let air in and out.
 
 ## How we found out
-**John Tyndall and Lord Rayleigh in Britain, Jean Cabannes in France, and C. V. Raman and K. S. Krishnan in India, 1869 (Tyndall's tube), 1871 and 1899 (Rayleigh), 1915 (Cabannes), 1921 to 1928 (Raman and Krishnan in Kolkata).** Clean air is clear, so people long wondered why the sky is blue. Many thought the blue came from dust or tiny drops of water floating high up. In 1869 John Tyndall, a scientist in London, shone light through a glass tube with a fine mist in it, and the mist glowed blue. That seemed to fit. Lord Rayleigh, another British scientist, worked out that very tiny things send blue light off sideways much more than red light. In 1899 he showed that the tiny bits of air themselves are enough to make the sky blue, with no dust at all. In 1915 Jean Cabannes, in France, shone light through gas with all the dust cleaned out, and the gas still sent light sideways. In 1921 the Indian scientist C. V. Raman was on a ship to England. He looked at the blue sea and asked why it was blue. Back in Kolkata, he and his students shone light through clear liquids and gases for years. In 1928 Raman and K. S. Krishnan found a new kind of scattered light, now called the Raman effect. So when you look up at the blue sky, you are seeing air.  
+**John Tyndall and Lord Rayleigh in Britain, Jean Cabannes in France, and C. V. Raman and K. S. Krishnan in India, 1869 (Tyndall's tube), 1871 and 1899 (Rayleigh), 1915 (Cabannes), 1921 to 1928 (Raman and Krishnan in Kolkata).** Clean air is clear, so people long wondered why the sky is blue. Many thought the blue came from dust or tiny drops of water floating high up. In 1869 John Tyndall, a scientist in London, shone light through a glass tube with a fine mist in it, and the mist glowed blue. That seemed to fit. Lord Rayleigh, another British scientist, worked out that very tiny things send blue light off sideways much more than red light. In 1899 he showed that the tiny bits of air themselves are enough to make the sky blue, with no dust at all. In 1915 Jean Cabannes, in France, shone light through gas with all the dust cleaned out, and the gas still sent light sideways. In 1921 the Indian scientist C. V. Raman was on a ship to England. He looked at the blue sea and asked why it was blue. He worked out that water scatters blue light, as air does, so the sea is not only copying the sky. Back in Kolkata, he and his students shone light through clear liquids and gases for years. In 1928 Raman and K. S. Krishnan found a new kind of scattered light, now called the Raman effect. So when you look up at the blue sky, you are seeing air.  
 *What people believed before:* That clean air has no colour at all, and the sky's blue comes from dust or water drops. Rayleigh showed, and Cabannes saw in a dust-free tube, that the bits of air themselves send blue light our way.
 
 ## Challenging perspectives
@@ -84,7 +84,7 @@ We have caught air in a bag in every corner of our home, and felt it on our skin
 *Evidence:* In Still Air, Moving Air, a child sitting still with the fan off felt no air at all. In Catch the Air, a bag swept through every place, even under the bed and inside an empty bucket, puffed up. When its air was squeezed out onto the cheek, the child felt it straight away.
 
 - *who am i:* You are wrapped in air all the time, and some of it is inside you right now, in your chest.
-- *what is life:* Every living being you know uses air: you, the cat, the crow, the tulsi plant, and the fish in the water.
+- *what is life:* Every living being you know uses air: you, the cat, the crow and the tulsi plant.
 - *what is this world:* A layer of air wraps the whole Earth. There is so much of it that, when we look up, we see it as the blue sky.
 
 One layer of air wraps the whole Earth, with no walls in it. The same air is a sea breeze in Chennai, the breath of a cow in Punjab and the wind over a tea garden in Assam. It goes into you as a breath and comes out again, into the room and the city. Everything is conscious, the moving air too, in its own way. Each breath joins you to all of it.
@@ -95,14 +95,14 @@ One layer of air wraps the whole Earth, with no walls in it. The same air is a s
 - Science (settled): The sky is blue because the tiny bits of air send blue sunlight off in all directions more than red sunlight.
 - Other view, Many scientists: Many scientists say air is not aware of anything. Its tiny bits only bump about. They say feeling needs a living body, with nerves or at least living cells.
 - Practice, Feel the air you cannot see (3 min): Sit very still and close your eyes. Breathe in slowly through your nose. Feel the cool air going in. Now breathe out slowly. Feel the warm air coming out. Now hold up one hand and blow on it gently. Feel that? Now be still again. The air is still touching you, all over, even though you can't feel it.
-- Ask: If you cannot feel something, how could you find out if it is there?
+- Ask: If you cannot notice something, how could you find out if it is there?
 - Ask: The air you breathed out is in the room now. Is it still a part of you?
 - Ask: What else might be all around us that we cannot see or feel?
 
 ## Deep and big questions
 - *deep:* You cannot see air, but you can feel it. What else is real that you cannot see? (hint: Think about smells, sounds and warmth.)
 - *deep:* If air is pressing on you all the time, why don't you feel it when you sit still? (hint: Think about sitting still, then running.)
-- *big:* The air you breathe out goes into the room, then out of the window. Who might breathe it in next? (hint: Think about your family, the crow on the wall and the plant on the balcony.)
+- *big:* The air you breathe out goes into the room, then out of the window. Who might breathe it in next? (hint: Think about your family, a crow outside the window and a plant.)
 - *big:* The sky is blue, and the sky is air. So can we see air after all? (hint: Think about a little air in a room, and a huge pile of air above us.)
 
 ## Story: Ammamma's Visari in the Power Cut
@@ -172,7 +172,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 
 ## Games
 ### g1 · See It or Feel It? A sorting card game (12 min)
-- **rules:** Lay the three mats on the floor.; Mix the cards and put them face down.; Take turns. Pick up a card, and the grown-up reads it aloud.; Put the card on the mat you think is right, and say why.; Turn the card over to check. If you were right, keep the card.; When all the cards are used, count your cards.
+- **rules:** Lay the three mats on the floor.; Mix the cards and put them face down.; Take turns. Pick up a card, and the grown-up reads it aloud.; Put the card on the mat you think is right, and say why.; Turn the card over to check. If you were right, keep the card. If you were wrong, put the card on the mat where it belongs, and nobody keeps it.; When all the cards are used, count your cards. The most cards wins. A tie is fine: you all win.
 - **Printable cards: 12 cards to cut out:** A stone (back: I can see it and feel it.); Water in a steel tumbler (back: I can see it and feel it.); My pillow (back: I can see it and feel it.); An idli (back: I can see it and feel it.); The air from a fan (back: I can feel it, but I can't see it.); A breeze on my face (back: I can feel it, but I can't see it.); My breath on my hand (back: I can feel it, but I can't see it.); The air coming out of a squeezed bag (back: I can feel it, but I can't see it.); A rainbow (back: I can see it, but I can't touch it.); My shadow (back: I can see it, but I can't touch it.); The Moon (back: I can see it, but I can't touch it. It is too far away.); A star at night (back: I can see it, but I can't touch it. It is very, very far away.)
 - **Printable board: 3 sorting mats to draw or print:** I can see it and feel it (draw an eye and a hand); I can feel it, but I can't see it (draw a hand only); I can see it, but I can't touch it (draw an eye only)
 - **s1 (2 min)**  
@@ -191,7 +191,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   *Child mode:* Look at the hand-only cards. What are they all?
   - Check: All the cards on the hand-only mat are about one thing. What is it? → **Air**
 ### g2 · Cotton Ball Race: move it with air only (10 min)
-- **rules:** Put a line of tape or a chappal at the start, and another two big steps away for the finish.; Each player puts a cotton ball on the start line.; Move your cotton ball to the finish line using only air. Don't touch it with anything.; Count your waves, blows or squeezes. The fewest wins the round.; Play three rounds: a notebook fan, your breath, then a bag of air.
+- **rules:** Put a line of tape or a chappal at the start, and another two big steps away for the finish.; Each player puts a cotton ball on the start line, in their own lane.; Move your cotton ball to the finish line using only air. Don't touch it with anything.; Count your waves, blows or squeezes. The fewest wins the round.; Play three rounds: a notebook fan, your breath, then a bag of air.; Whoever wins the most rounds is the champion. If you play with one other person, a tie is fine.
 - **Printable score sheet: Race score sheet:** Player's name; Round 1: fan it with a notebook. How many waves?; Round 2: blow it. How many blows?; Round 3: puff it with a squeezed bag. How many squeezes?
 - **s1 (2 min)**  
   *Parent does:* Make the start and finish lines. Give each player a cotton ball and a notebook.  
@@ -293,8 +293,8 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - **safety:** Blow out through the straw. Never suck in.
 - **record:** Your blow painting. Write or say what pushed the paint.
 - **s1 (3 min)**  
-  *Parent does:* 1. Spread newspaper on the floor. 2. Put a spoon of runny paint near the bottom of the paper.  
-  *Parent says:* Here is a drop of paint. If you blow at it through this straw, what do you think will happen? Why?  
+  *Parent does:* 1. Spread newspaper on the floor. 2. Use the spoon to put a few drops of runny paint near the bottom of the paper.  
+  *Parent says:* Here are some drops of paint. If you blow at them through this straw, what do you think will happen? Why?  
   *Child mode:* What will the paint do if you blow on it? Why?
   - Ask: What will happen? (good: It will move.; It will run away from the straw.)
 - **s2 (7 min)**  
@@ -307,14 +307,14 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   *Parent says:* You never touched the paint. What moved it?  
   *Child mode:* You never touched the paint. What moved it?
   - Ask: What moved the paint? (good: My breath.; Moving air.)
-### a3 · Bubble Catch: air you can see inside a bubble (10 min)
+### a3 · Bubble Blowing: air inside a bubble (10 min)
 - **safety:** Blow out through the straw. Never suck in. If soap gets in an eye, rinse it with clean water.
 - **record:** Draw a bubble with your breath inside it.
 - **s1 (5 min)**  
   *Parent does:* 1. Dip the end of the straw in the soapy water. 2. Hold it up and blow gently through the other end.  
   *Parent says:* Blow very gently. What is inside the bubble?  
   *Child mode:* Blow gently into the straw. What is inside the bubble?
-  - Ask: What is inside the bubble? (good: My breath.; Air.; Nothing... no, air!)
+  - Ask: What is inside the bubble? (good: My breath.; Air.; Air, from my breath.)
   - Note: If no bubbles come, add a little more dishwashing liquid and blow more slowly.
 - **s2 (4 min)**  
   *Parent does:* Your child blows a few bubbles. You fan them gently with the notebook.  
@@ -343,9 +343,9 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   - Wait: Do this the next day
 - **s3 (8 min)**  
   *Parent does:* On page 3, your child draws three living beings that use air. Then they read the book aloud.  
-  *Parent says:* Who uses air? Draw three living beings. Then read your book to Paati or Appa.  
+  *Parent says:* Who uses air? Draw three living beings. Then read your book to a family member.  
   *Child mode:* Draw three living beings that use air. Read your book to someone.
-  - Ask: Who did you draw? (good: Me, the cat and the tulsi plant.; A fish, because they use the air in water.)
+  - Ask: Who did you draw? (good: Me, the cat and the tulsi plant.; A crow, because she breathes air.)
   - Wait: Do this the day after
 
 ## Challenges
@@ -364,7 +364,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   *Parent does:* Let your child try their ideas. Then show the creative ideas one at a time, if they get stuck.  
   *Parent says:* Try it. Count your puffs. Now try a sail. Does the boat go faster?  
   *Child mode:* Try it. Count your puffs. Try a sail. Is it faster?
-  - Note: A paper sail stuck on a toothpick or a rolled paper mast gives the moving air more to push on. A paper boat gets soggy after a while. Make a new one if it does.
+  - Note: A paper sail on a rolled-paper mast taped to the boat gives the moving air more to push on. A paper boat gets soggy after a while. Make a new one if it does.
 - **s3 (3 min)**  
   *Parent does:* Ask the last question.  
   *Parent says:* Which way got your boat across best? What pushed the boat?  
@@ -375,11 +375,11 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 ### Air Is Everywhere (core) (core, 10 questions)
 1. (sort) Is there air here? Put each place in a box.  
    **Answer:** under the bed → Air is here; inside an empty bucket → Air is here; in the kitchen → Air is here; inside a closed cupboard → Air is here; outside the window → Air is here. *Why:* Every place had air. The bag puffed up even under the bed and inside the bucket. A strong answer puts nothing in 'No air here'.
-2. (mcq) Remember Catch the Air? You swept the open bag under the bed. What happened?  
-   Options: It stayed flat / It puffed up / It filled with water  
-   **Answer:** It puffed up. *Why:* The bag scooped up the air under the bed and puffed up. There was air there all along.
-3. (draw) Draw the bag twice: when it was squeezed flat and twisted shut, and after you caught air in it.  
+2. (draw) Draw the bag twice: when it was squeezed flat and twisted shut, and after you caught air in it.  
    **Answer:** A flat, crinkly bag, and a fat, round bag.. *Why:* A strong drawing shows the difference: the bag stayed flat when no air could get in, and puffed up when it scooped air.
+3. (mcq) In Blow Painting, you blew at a drop of paint through a straw. What moved the paint?  
+   Options: Your breath, which is moving air / The straw by itself / The paper  
+   **Answer:** Your breath, which is moving air. *Why:* Your breath is moving air. It pushed the paint along, and you never touched the paint.
 4. (match) Draw a line from each one to what its moving air does.  
    **Answer:** A ceiling fan → flaps the pages of the calendar; The wind outside → sways the coconut trees; Your breath through a straw → pushes the paint drop; A palm-leaf hand fan → cools your face. *Why:* Each of these moves air. The moving air pushes whatever is in its way.
 5. (truefalse) We can see the air in a room.  
@@ -388,12 +388,12 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
    **Answer:** I swept a bag inside the bucket and it puffed up.. *Why:* A strong answer uses evidence from the test, the bag puffing up, not just 'because air is everywhere'.
 7. (label) Here is a balcony on a windy day. Put a W on everything the wind is moving.  
    **Answer:** W on the flapping clothes, the swaying plant, the flying kite and the blowing leaves. No W on the flowerpot or the railing.. *Why:* Wind pushes light, loose things. A heavy flowerpot and a fixed railing stay still.
-8. (mcq) Kavya sits very still in a room with the fan off. She cannot feel any air on her arm. Why?  
+8. (mcq) A girl called Kavya sits very still in a room with the fan off. She feels no air on her arm. Why?  
    Options: There is no air in the room / The air is not moving / Her arm is asleep  
    **Answer:** The air is not moving. *Why:* The air is there, but it is still. Kavya will feel it when it moves, or when she moves through it.
-9. (odd) Which one does NOT breathe air?  
-   Options: A crow / You / A steel spoon / A cow  
-   **Answer:** 2. *Why:* A crow, a cow and you all breathe air in and out. A steel spoon does not breathe.
+9. (odd) Which one is NOT moving air?  
+   Options: The breeze from a fan / Your breath on your hand / A stone on the floor / The wind outside  
+   **Answer:** 2. *Why:* A fan's breeze, your breath and the wind are all moving air. A stone on the floor is not air, and it is not moving.
 10. (perspective) Two friends in Madurai look at an empty water bottle with no cap.  
    **Answer:** Lakshmi is right: the bottle is full of air, just like the bucket and the space under the bed. Divya is right that there is no water and nothing we can see inside.. *Why:* A strong answer uses the bag test: every place that looked empty had air. It is also fair to Divya: 'empty' usually means nothing we can see.
 ### Feeling and Seeing Air (stretch) (stretch, 10 questions)
@@ -408,17 +408,17 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
    **Answer:** True. *Why:* True. Wind is moving air. A fan, a waving hand and the weather outside all make wind.
 5. (write) Say it to a grown-up, who writes it down: a paper on the table stays still when the fan is off. When the fan is on, it flies off. Why?  
    **Answer:** The fan moves the air, and the moving air pushes the paper.. *Why:* A strong answer says it is moving air that pushes the paper. The air was there before, but it was still.
-6. (mcq) Meenakshi waves a notebook near her friend's cheek, one hand-span away, without touching. Her friend's eyes are shut, but she says 'yes!'. What did her friend feel?  
-   Options: The notebook / Nothing at all / Moving air  
-   **Answer:** Moving air. *Why:* The notebook pushed the air, and the moving air pressed on the cheek. The friend felt air she could not see.
-7. (fill) Fill the gap: We cannot ____ air, but we can feel it when it moves.  
+6. (fill) Fill the gap: We cannot ____ air, but we can feel it when it moves.  
    **Answer:** see. *Why:* Air is invisible, because light goes straight through it. We feel it when it moves against our skin.
-8. (label) Here is a child breathing. Draw an arrow for the air going in, and another arrow for the air coming out.  
+7. (label) Here is a child breathing. Draw an arrow for the air going in, and another arrow for the air coming out.  
    **Answer:** One arrow going into the nose, and one coming out of the nose or mouth.. *Why:* We breathe air in through the nose and mouth, into the chest, and then breathe it out again.
-9. (write) Say it to a grown-up, who writes it down: the air in your room looks clear, but the sky looks blue. The sky is made of air too. Why might it look blue?  
+8. (write) Say it to a grown-up, who writes it down: the air in your room looks clear, but the sky looks blue. The sky is made of air too. Why might it look blue?  
    **Answer:** There is a huge amount of air above us, and so much air sends back some blue light.. *Why:* A strong answer says that a little air looks clear, but a very big amount of air looks blue. Any answer that thinks about how much air there is, is a good start.
-10. (sort) Sort these: which does the wind move, and which does it not move on a normal day?  
+9. (sort) Sort these: which does the wind move, and which does it not move on a normal day?  
    **Answer:** a dry leaf → The wind moves it; a kite → The wind moves it; clothes on the line → The wind moves it; a big steel almirah → The wind does not move it; a heavy stone → The wind does not move it. *Why:* Moving air pushes everything, but it moves light things far more easily than heavy ones. Only a very strong storm moves heavy things.
+10. (mcq) In Bubble Blowing, what is inside a bubble you blew?  
+   Options: Your breath, which is air / Nothing at all / Only water  
+   **Answer:** Your breath, which is air. *Why:* A bubble is a thin skin of soapy water with your breath inside. Your breath is air.
 
 ## Videos
 - **Wind moving trees, clothes and kites: a short film for young children** (, 3 min) id `to find`: Shows that we cannot see wind, but we can see what moving air pushes. *Check:* Find a real, accurate video for age 6. Check it says wind is moving air, and does not say trees make the wind.
@@ -429,33 +429,33 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 1. (mcq) Where is there air?  
    Options: Only outside / All around us, indoors and outdoors / Only near a fan  
    **Answer:** All around us, indoors and outdoors. *Why:* Air is everywhere around us, even in a still room and under the bed. Outside, we often feel it more, because it moves.
-2. (mcq) Can you see the air in your room?  
-   Options: Yes, it is white / Yes, it is blue / No, it is invisible  
-   **Answer:** No, it is invisible. *Why:* Light goes straight through clean air, so we see what is behind it. Only a huge amount of air, like the whole sky, looks blue.
-3. (mcq) The clothes on the balcony line are flapping. What is moving them?  
+2. (mcq) The clothes on the balcony line are flapping. What is moving them?  
    Options: Moving air, called wind / Rain / The floor shaking  
    **Answer:** Moving air, called wind. *Why:* Wind is moving air. We cannot see it, but we can see it push the clothes.
-4. (mcq) You catch air in a bag and twist it shut. Then you press the bag. What happens?  
+3. (mcq) You catch air in a bag and twist it shut. Then you press the bag. What happens?  
    Options: It goes flat at once / It pushes back on your hands / It turns into water  
    **Answer:** It pushes back on your hands. *Why:* The air inside takes up room, so the bag pushes back like a soft pillow. A bag with no air goes flat.
-5. (mcq) Which of these breathes air?  
+4. (mcq) Which of these breathes air?  
    Options: A steel plate / A stone / A cat  
    **Answer:** A cat. *Why:* A cat breathes in and out all day and all night, like you. A steel plate and a stone don't breathe.
-6. (mcq) Why do you feel air on your face when you run, but not when you sit still?  
+5. (mcq) Why do you feel air on your face when you run, but not when you sit still?  
    Options: Running moves you through the air, so it rushes against your skin / Running makes new air / Air only comes out when you run  
    **Answer:** Running moves you through the air, so it rushes against your skin. *Why:* The air is there all the time. When you run, you move through it, and it presses on your face.
-7. (mcq) Meera, a girl of six, thinks there is no air under her bed. What could she do to check?  
-   Options: Look under the bed for air / Sweep a bag under the bed and see if it puffs up / Ask her brother  
+6. (mcq) Meera, a girl of six, thinks there is no air under her bed. What could she do to check?  
+   Options: Look under the bed for air / Sweep a bag under the bed and see if it puffs up / Ask a friend  
    **Answer:** Sweep a bag under the bed and see if it puffs up. *Why:* We cannot see air, so looking won't work. A bag that puffs up shows the air was there.
-8. (mcq) An empty bottle has no cap on. What is inside it?  
-   Options: Air / Nothing at all / Water  
-   **Answer:** Air. *Why:* An empty bottle is full of air. Squeeze it near your cheek and you feel the air rush out.
-9. (mcq) A tulsi plant grows on the balcony. How does air get into the plant?  
-   Options: Through their flowers only / Plants never take in air / Through tiny holes in their leaves  
+7. (mcq) A tulsi plant grows on the balcony. How does air get into the plant?  
+   Options: Through the flowers only / Plants never take in air / Through tiny holes in their leaves  
    **Answer:** Through tiny holes in their leaves. *Why:* Leaves have tiny holes, too small to see without a microscope. Air goes in and out through them.
-10. (mcq) You cannot see the wind. How can you tell which way it is blowing?  
+8. (mcq) You cannot see the wind. How can you tell which way it is blowing?  
    Options: Look for blue lines in the air / Watch what it pushes, like leaves, smoke and clothes / Listen for a bell  
    **Answer:** Watch what it pushes, like leaves, smoke and clothes. *Why:* Wind pushes things along with it. Leaves, smoke and clothes all lean or move the way the wind is going.
+9. (mcq) Tall windmills turn and make electricity. What turns them?  
+   Options: Moving air / Still air / Water from the tap  
+   **Answer:** Moving air. *Why:* Wind is moving air. It pushes the big blades round.
+10. (mcq) A kite stays up high in the sky. What holds it up?  
+   Options: A hidden string in the sky / Moving air pushing on the kite / The Moon  
+   **Answer:** Moving air pushing on the kite. *Why:* Moving air pushes against the kite and holds it up while someone holds the string.
 
 ## Applications
 - Ceiling fans, table fans and palm-leaf hand fans move air onto us to cool us on hot days.
@@ -469,7 +469,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - Clothes flapping on a balcony line on a windy afternoon.
 - The sky full of kites over Ahmedabad at Uttarayan, in January.
 - Steam from an idli cooker bending away from the fan.
-- A crow or a kite bird gliding high, hardly flapping, held up by moving air.
+- A black kite bird (cheel) gliding high, hardly flapping her wings, held up by moving air.
 
 ## Open questions
 - **Where does the air end and space begin?** Air gets thinner and thinner the higher you go. There is no sharp edge. Many people use a line 100 kilometres up, but scientists still argue about where the edge should be.
@@ -488,16 +488,15 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - Why did the plastic bag go under the bed? *To catch some air down there.*
 - What did the air say to the fan? *Stop pushing me around!*
 - Why was the balloon so happy? *It was full of air and feeling light.*
-- What did the bucket say when Appu said it was empty? *Empty? I'm full of air!*
-- What do you call a cotton ball in a race against the wind? *Gone with the breeze!*
 - Why did the kite go to school? *To get a little higher.*
 - How does a bubble say goodbye? *Pop!*
 - What did the wind say to the clothes on the line? *Let's dance!*
+- What did the empty bucket say? *I'm not empty, I'm full of air!*
 
 ## Connected maths
-- Revathi caught air in a bag in 6 places. The bag puffed up in every place. In how many places did she find no air? **0 places. She found air in all 6 places.**. 6 places, and the bag puffed up in 6. 6 take away 6 is 0. So there was no place without air. (queues `math.addition-subtraction.meaning.L1`)
-- In the skin test, Meena felt 3 out of 3 waves on her cheek, but only 1 out of 3 on the sole of her foot. Where did she feel more? How many more? **On her cheek. She felt 2 more waves there.**. 3 is more than 1. 3 take away 1 is 2. (queues `math.number-sense.comparing-ordering.L1`)
-- In the Cotton Ball Race, Nisha fanned her ball with a notebook and needed 7 waves. With a bag of air she needed only 4 squeezes. Which way pushed harder each time? Why do you think so? **The bag pushed harder each time, because it needed fewer squeezes to get the ball to the line.**. 7 is more than 4. The same distance took fewer puffs with the bag, so each puff from the bag moved the ball further. (queues `math.number-sense.comparing-ordering.L1`)
+- A girl called Revathi caught air in a bag in 6 places. The bag puffed up in every place. In how many places did she find no air? **0 places. She found air in all 6 places.**. 6 places, and the bag puffed up in 6. 6 take away 6 is 0. So there was no place without air. (queues `math.addition-subtraction.meaning.L1`)
+- In the skin test, a girl called Meena felt 3 out of 3 waves on her cheek, but only 1 out of 3 on the sole of her foot. Where did she feel more? How many more? **On her cheek. She felt 2 more waves there.**. 3 is more than 1. 3 take away 1 is 2. (queues `math.number-sense.comparing-ordering.L1`)
+- In the Cotton Ball Race, a girl called Nisha fanned her ball with a notebook and needed 7 waves. With a bag of air she needed only 4 squeezes. Which way needed fewer? How many fewer? **The bag of air needed fewer. It needed 3 fewer.**. 4 is less than 7. 7 take away 4 is 3. (queues `math.number-sense.comparing-ordering.L1`)
 
 ## Song
 I Can't See You, Air (sci.air.L1): Topic-level song for Air L1

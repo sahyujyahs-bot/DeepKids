@@ -161,7 +161,7 @@
    "claim": "Only living things make sounds.",
    "who": "A common idea among young children",
    "for": "Many sounds we notice are voices: people talking, dogs barking, birds calling.",
-   "against": "Rain, wind, thunder and a falling spoon all make sounds, and none of them is alive. Anything that moves can make a sound.",
+   "against": "Rain, wind, thunder and a falling spoon all make sounds, and none of them is alive. A sound comes from something moving, alive or not.",
    "status": "rejected"
   },
   {
@@ -188,14 +188,14 @@
  ],
  "big_questions": [
   {
-   "q": "The shaker was silent while it sat on the table. Where was the rattle before you shook it?",
+   "q": "The shakers in the Shaker Test were silent while they sat on the table. Where was the rattle before you shook one?",
    "kind": "deep",
    "hint": "Was the rattle waiting inside the bottle? Or did it begin when the chana started hitting the sides?"
   },
   {
    "q": "Can anything move without making any sound at all?",
    "kind": "deep",
-   "hint": "Wave your hand very slowly through the air. Is there a sound too soft for you to hear? Who might hear it: an ant, a cat, a bat?"
+   "hint": "Wave your hand very slowly through the air. Is there a sound too soft for you to hear? Some animals, like bats and dogs, can hear sounds that people cannot."
   },
   {
    "q": "When you talk, what part of you moves to make the sound?",
@@ -217,7 +217,7 @@
   "title": "The Ting in the Night",
   "mins": 6,
   "read_aloud": true,
-  "note": "Paati means grandmother and Akka means big sister in Tamil. Kavya, Arjun, Amma, Paati and Selvi are made up.",
+  "note": "Paati means grandmother in Tamil. Kavya, Arjun, Amma, Paati and Selvi are made up.",
   "text": [
    "Kavya was six. She lived in a flat on the fourth floor in Madurai, with her Amma, her grandmother Paati, and her little brother Arjun, who was four.",
    "One night the whole flat was dark and quiet. Amma was asleep. Paati was asleep. Even the fan was switched off, because the night was cool after the rain.",
@@ -273,7 +273,7 @@
    "context": "In this experiment you make four shakers that look the same, with something different inside each one. You guess which will be loudest. Then you shake them and listen.",
    "question": "Does what is inside a shaker change how loud it sounds? And does shaking harder make it louder?",
    "predict": "Look at the four shakers: chana, rice, cotton and nothing. Which will be loudest? Which will be softest? Why do you think so?",
-   "fair_test": "All four shakers are the same kind of bottle or box. Each has the same amount inside, two big spoons, except the empty one. We shake each one five times, the same way.",
+   "fair_test": "All four shakers are the same kind of bottle or box. Chana and rice are two big spoons each. The cotton is two balls, which fill about the same space. The empty one has nothing in it. Only what is inside is different. We shake each one five times, the same way.",
    "results_table": [
     "Shaker",
     "My guess: loud, middle or soft?",
@@ -328,7 +328,7 @@
      "caption": "2. Listen to the shakers sitting still."
     },
     {
-     "art": "A girl with her eyes closed while her mother shakes a bottle under a dupatta.",
+     "art": "A girl with her eyes closed while a grown-up shakes a bottle under a dupatta.",
      "caption": "3. Shake each one five times. Listen with your eyes closed."
     },
     {
@@ -339,7 +339,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 6,
      "do": "1. Put two big spoons of chana in the first bottle, through the paper funnel. 2. Put two big spoons of rice in the second. 3. Push two cotton balls into the third. 4. Leave the fourth empty. 5. Close all the caps tightly.",
      "say": "We are making four shakers. Each one gets something different inside. Let's draw a picture label for each one.",
      "kid": "Help fill the bottles. Close the caps tight. Draw a picture label for each.",
@@ -347,7 +347,7 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 2,
      "do": "Put all four shakers on the table. Ask your child to sit very still, lean close and listen for ten seconds.",
      "say": "Our shakers are sitting on the table. Put your ear close and listen very carefully. Can you hear them?",
      "kid": "Put your ear close to the shakers. Can you hear them?",
@@ -365,7 +365,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Ask your child to put the shakers in a line, from 'will be loudest' to 'will be softest'. 2. Draw or write the guesses in the table.",
+     "do": "1. Ask your child to put the shakers in a line, from 'will be loudest' to 'will be softest'. 2. Draw or write the guesses in the table. A grown-up writes for a child who cannot write yet.",
      "say": "Soon you will shake each one. Which will be loudest? Put it at this end. Which will be softest? Put it at the other end. Why do you think so?",
      "kid": "Which shaker will be loudest? Which will be softest? Line them up. Why?",
      "ask": [
@@ -405,7 +405,7 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Give your child the chana shaker. 2. Ask them to shake it very gently. 3. Then very hard. 4. Then very gently again.",
      "say": "Now shake the chana one very gently. Now shake it hard. Now gently again. What changes?",
      "kid": "Shake it gently. Now shake it hard. What changes?",
@@ -432,7 +432,7 @@
     },
     {
      "id": "s6",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Open the chana shaker and the cotton shaker. 2. Give your child one chana and one cotton ball. 3. Ask them to tap each one on the table.",
      "say": "Tap the chana on the table. Now tap the cotton. Which one makes a sound?",
      "kid": "Tap a chana on the table. Now tap the cotton. Which makes a sound?",
@@ -450,7 +450,7 @@
     {
      "id": "s7",
      "mins": 2,
-     "do": "Ask your child to tell you three things. Write them down in your child's words.",
+     "do": "Ask your child to tell you three things. Write them down in your child's words. Ask what the shakers did while they sat still.",
      "say": "Tell me three things. What do you think now? What did you hear? Why do you think it happened?",
      "kid": "Say what you think. Say what you heard. Say why.",
      "parent": "A strong answer sounds like this. 'The shakers were silent when they sat still. The chana was loudest. Shaking hard made it louder. Hard chana makes a loud sound, and soft cotton makes a soft sound.'"
@@ -465,7 +465,7 @@
    "context": "In this experiment you drop a steel spoon onto different things and listen. Does the sound change with what the spoon lands on?",
    "question": "When a steel spoon falls, does what it lands on change how loud the sound is?",
    "predict": "We will drop a spoon onto the bare floor, a folded newspaper, a folded towel and a pillow. Which will be loudest? Which will be softest? Why do you think so?",
-   "fair_test": "We use the same spoon every time. We drop it from the same height, your knee. We let it fall, and never throw it.",
+   "fair_test": "We use the same spoon every time. We drop it from the same height, your knee. We let it fall, and never throw it. At the end we change the height on purpose, to see what it does.",
    "results_table": [
     "What the spoon lands on",
     "My guess: loud or soft?",
@@ -526,7 +526,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Ask your child to point to the landing that will be loudest, and the one that will be softest. Draw the guesses in the table.",
+     "do": "Ask your child to point to the landing that will be loudest, and the one that will be softest. Write or draw the guesses in the table.",
      "say": "Which landing will make the loudest sound? Which will make the softest? Why do you think so?",
      "kid": "Which will be loudest? Which will be softest? Why?",
      "ask": [
@@ -629,7 +629,7 @@
    "record": "A sound map: draw yourself in the middle of the page. Around you, draw every sound source you heard. Draw loud ones big and soft ones small.",
    "setup": [
     {
-     "art": "A mother and daughter sitting on a mat with their eyes closed, the girl holding up three fingers.",
+     "art": "A grown-up and a child sitting on a mat with their eyes closed, the child holding up three fingers.",
      "caption": "1. Close your eyes. Count the sounds on your fingers."
     },
     {
@@ -700,7 +700,7 @@
    "record": "Draw the body part that made your favourite sound, with sound lines around it.",
    "setup": [
     {
-     "art": "A girl clapping, a boy stamping, and a grandmother patting her knees, all in a circle on the floor.",
+     "art": "A girl clapping, a boy stamping, and a parent patting their knees, all in a circle on the floor.",
      "caption": "1. Make sounds with your hands, feet and mouth."
     },
     {
@@ -777,7 +777,7 @@
    "record": "Draw each animal you heard, with their call written next to them by a grown-up.",
    "setup": [
     {
-     "art": "A boy and his mother at an open window of a flat, listening, with a crow on a nearby wire and pigeons on a ledge.",
+     "art": "A boy and a parent at an open window of a flat, listening, with a crow on a nearby wire and pigeons on a ledge.",
      "caption": "1. Listen at the window. Who is calling?"
     },
     {
@@ -899,7 +899,7 @@
    "id": "g1",
    "title": "Sound Detective: what made that sound?",
    "mins": 12,
-   "players": "2 or more: a sound maker and a detective. A grown-up reads the cards.",
+   "players": "2 or more: a sound maker and a detective. With 2 players, the grown-up and the child take turns at both.",
    "context": "This is a listening game. The detective closes their eyes, the sound maker makes a sound, and the detective says what made it and what moved.",
    "printables": [
     {
@@ -951,24 +951,25 @@
        "b": "A coin. It hits the floor and bounces."
       },
       {
-       "f": "Shake the chana shaker from the Shaker Test.",
-       "b": "The chana shaker. The chana hit the bottle."
+       "f": "Shake a closed bottle with chana inside.",
+       "b": "A bottle of chana. The chana hits the inside of the bottle."
       }
      ]
     }
    ],
    "rules": [
-    "A grown-up keeps the cards where the detective cannot see them.",
-    "The detective sits with their back to the sound maker, eyes closed.",
-    "The sound maker takes a card, and a grown-up reads it to them in a whisper.",
+    "Shuffle the cards and put them in a pile, front side down. Choose a detective and a sound maker.",
+    "The sound maker turns over the top card and reads the front quietly. If the sound maker cannot read yet, the grown-up whispers it to them.",
+    "Then the detective sits with their back turned and eyes closed.",
     "The sound maker makes that sound, two times.",
     "The detective says what made the sound, and what moved.",
-    "The detective turns round to look. If they were right, they keep the card.",
-    "After six cards, swap: the detective becomes the sound maker."
+    "The detective turns round. The sound maker shows the back of the card. If the detective was right, they keep the card. If not, the card goes to the side.",
+    "With 2 players, swap roles after six cards. With 3 or more, everyone else is a detective, the first to say the right answer keeps the card, and the sound maker's turn passes to the next person after each card.",
+    "The game ends when the pile is finished. The player with the most cards is the best detective. If it is a tie, you are all best detectives."
    ],
    "setup": [
     {
-     "art": "A girl sitting with her back turned and eyes closed, and her grandfather behind her shaking a bunch of keys.",
+     "art": "A girl sitting with her back turned and eyes closed, and a parent behind her shaking a bunch of keys.",
      "caption": "1. The detective closes their eyes. The sound maker makes a sound."
     },
     {
@@ -980,13 +981,13 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Read the rules together. Decide who is the first detective. Collect what the cards need. You need keys, newspaper, a jug, a tumbler and a pencil. You also need a bag with a zip, a plastic bag, a coin and the chana shaker.",
+     "do": "Read the rules together. Decide who is the first detective. Collect what the cards need. You need keys, newspaper, a jug of water and a steel tumbler. You also need a pencil, a bag with a zip, a plastic bag, a coin and a closed bottle with chana inside.",
      "say": "You are the detective. Close your eyes and listen. You have to tell me what made the sound, and what moved.",
      "kid": "You are the detective. Close your eyes. What made the sound?"
     },
     {
      "id": "s2",
-     "mins": 7,
+     "mins": 5,
      "do": "Play six cards with your child as detective. After each guess, ask what moved, then let them turn and look.",
      "say": "Listen. What made that sound? What moved? Turn round and see if you were right.",
      "kid": "Listen. What made that sound? What moved? Now turn and look.",
@@ -1003,8 +1004,8 @@
     },
     {
      "id": "s3",
-     "mins": 3,
-     "do": "Swap roles for the last six cards. Whisper each card to your child, and you guess.",
+     "mins": 5,
+     "do": "Swap roles for the last six cards. Whisper each card to your child, then close your eyes and guess.",
      "say": "Now you are the sound maker. I will whisper the card to you. Make the sound, and I will guess.",
      "kid": "Now you make the sounds. Can you trick me?",
      "check": {
@@ -1049,11 +1050,12 @@
     "Loud beats: players stamp around with big, heavy steps.",
     "Soft beats: players tiptoe, quiet as a cat.",
     "No sound: players freeze like statues until the next beat.",
-    "Anyone who moves in the silence becomes the next drummer."
+    "Anyone who moves in the silence swaps places with the drummer, and the new drummer plays the cards that are left. With one player, the player and the grown-up swap.",
+    "The game ends when all eight cards are played. Shuffle them and play again if you like."
    ],
    "setup": [
     {
-     "art": "A grandmother beating an upside-down blue plastic bucket with a wooden spoon, and two children stamping with big steps.",
+     "art": "A parent beating an upside-down blue plastic bucket with a wooden spoon, and two children stamping with big steps.",
      "caption": "1. Loud beats: stamp. Soft beats: tiptoe."
     },
     {
@@ -1081,7 +1083,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Let your child be the drummer. Ask how they make a beat loud or soft.",
-     "say": "Now you are the drummer. How will you make a loud beat? How will you make a soft one? Did you know real elephants walk very quietly, on soft padded feet?",
+     "say": "Now you are the drummer. How will you make a loud beat? How will you make a soft one?",
      "kid": "You are the drummer now. Make loud beats and soft beats.",
      "ask": [
       {
@@ -1147,7 +1149,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Fold the sheets and staple them into a book. Write LOUD at the top of each left page and SOFT at the top of each right page.",
+     "do": "A grown-up folds the sheets and staples them into a book. Write LOUD at the top of each left page and SOFT at the top of each right page.",
      "say": "We are making a sound book. Each left page is for a loud sound. Each right page is for a soft sound.",
      "kid": "Left page: a loud sound. Right page: a soft sound."
     },
@@ -1171,7 +1173,7 @@
      "id": "s3",
      "mins": 15,
      "do": "On day 2, your child fills the other pages, then reads the book to a family member. For each page, they make the sound, loud or soft.",
-     "say": "Let's finish the book. Then read it to Paati, and make each sound as you show her the page.",
+     "say": "Let's finish the book. Then read it to someone at home, and make each sound as you show them the page.",
      "kid": "Finish your book. Read it to someone. Make each sound.",
      "parent": "Some sounds can be made both loud and soft, like a clap or a drum. If your child notices this, ask how they would draw it."
     }
@@ -1183,8 +1185,8 @@
    "id": "c1",
    "title": "Don't Wake the Baby",
    "mins": 12,
-   "context": "This is a problem to solve. A baby is sleeping. Can you put away steel vessels without a loud clang?",
-   "problem": "Baby Nila is asleep in the next room. Her big sister Meenakshi must carry three steel tumblers and a steel plate to the kitchen and put them on the shelf. How can she do it so quietly that Nila does not wake up?",
+   "context": "This is a problem to solve. Pretend a baby is sleeping. Can you put away steel vessels without a loud clang?",
+   "problem": "Pretend a baby is asleep in the next room. You must carry three steel tumblers and a steel plate to the kitchen and put them on the shelf. How can you do it so quietly that the baby does not wake up?",
    "constraints": [
     "Everything must end up on the kitchen shelf.",
     "Use only things you already have at home.",
@@ -1209,7 +1211,7 @@
    "your_turn": "Try it with a grown-up listening with eyes closed. Did they hear a clang? Which idea made the softest sound? Why?",
    "setup": [
     {
-     "art": "A girl holding three steel tumblers and a steel plate, with a sleeping baby in a cradle in the next room.",
+     "art": "A girl holding three steel tumblers and a steel plate, with a cradle in the next room.",
      "caption": "1. The baby is asleep. How can you carry these without a clang?"
     },
     {
@@ -1221,8 +1223,8 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Read the problem. Put the tumblers and the plate on the floor in one room.",
-     "say": "Baby Nila is sleeping in the next room. You must carry these to the kitchen shelf. How can you do it without a clang?",
+     "do": "Read the problem. Put the tumblers and the plate on the floor in one room, and the tray and towel beside them.",
+     "say": "A baby is sleeping in the next room. You must carry these to the kitchen shelf. How can you do it without a clang?",
      "kid": "A baby is sleeping. Carry these without a clang. How will you do it?",
      "ask": [
       {
@@ -1238,7 +1240,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Let your child try their ideas. You sit with your eyes closed and listen. Say 'clang' if you hear a loud sound.",
-     "say": "Try your idea. I will close my eyes and listen. If I hear a clang, the baby wakes up.",
+     "say": "Try your idea. I will close my eyes and listen. If I hear a clang, the pretend baby wakes up.",
      "kid": "Try your idea. Don't let me hear a clang!",
      "parent": "Help only if asked. Good ideas use something soft between the steel things, or slow, gentle movements."
     },
@@ -1290,7 +1292,7 @@
        "Things"
       ],
       [
-       "Amma singing",
+       "A mother singing",
        "People"
       ],
       [
@@ -1321,7 +1323,7 @@
     },
     {
      "t": "match",
-     "p": "Draw a line from each sound to its source.",
+     "p": "A grown-up reads the words. Draw a line from each sound to its source.",
      "pairs": [
       [
        "Caw caw",
@@ -1346,7 +1348,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Shaker Test, Lakshmi shook the chana shaker gently, then hard. When was it louder?",
+     "p": "In the Shaker Test, a child shook the chana shaker gently, then hard. When was it louder?",
      "opts": [
       "When she shook it gently",
       "When she shook it hard",
@@ -1357,18 +1359,17 @@
      "how": "e1"
     },
     {
-     "t": "truefalse",
-     "p": "A closed bottle of rice makes a sound while it sits still on the table.",
-     "a": false,
-     "why": "False. In the Shaker Test, the still shakers made no sound at all. They rattled only when something moved them.",
-     "how": "e1"
-    },
-    {
      "t": "draw",
      "p": "Draw one thing in your home that makes a loud sound. Then draw one thing that makes a soft sound.",
      "a": "One loud sound source, such as a pressure cooker, a mixie or a doorbell, and one soft sound source, such as a clock, a fan or a whisper.",
      "why": "A strong drawing shows a real sound source for each, and draws something that moves to make the sound.",
      "art": "Two empty boxes, one with big zigzag lines in the corner and one with a single tiny line."
+    },
+    {
+     "t": "truefalse",
+     "p": "Your own body can be a sound source when you clap or stamp.",
+     "a": true,
+     "why": "True. When you clap, your hands move and meet. When you stamp, your foot hits the floor. Anything that moves can make a sound, and your body moves."
     },
     {
      "t": "write",
@@ -1405,7 +1406,7 @@
     },
     {
      "t": "perspective",
-     "p": "Divya wants to call her friend from across the playground. Three children have ideas.",
+     "p": "Divya, a girl in Class 1, wants to call her friend from across the playground. Three children have ideas.",
      "views": [
       {
        "who": "Priya, aged 7",
@@ -1435,7 +1436,7 @@
    "items": [
     {
      "t": "order",
-     "p": "Put the Shaker Test in order. Number the pictures 1, 2 and 3.",
+     "p": "A grown-up reads these steps of the Shaker Test. Number them 1, 2 and 3 in the right order.",
      "items": [
       "Line up the shakers from loud to soft",
       "Guess which shaker will be loudest",
@@ -1451,15 +1452,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Soft Landing test, Kavya dropped a steel spoon onto a pillow and onto the bare floor. Which landing was softer?",
+     "p": "Meera, a girl in Class 1, rings a bell on the table. Then she walks to the other side of the room and listens. How does the ring sound from far away?",
      "opts": [
-      "The bare floor",
-      "The pillow",
-      "Both were the same"
+      "Louder than close up",
+      "Softer than close up",
+      "Just the same"
      ],
      "a": 1,
-     "why": "The soft pillow caught the spoon gently, so the sound was soft. On the hard floor, the spoon hit hard and went clang.",
-     "how": "e2"
+     "why": "A sound gets softer as you move away from its source. That is why you can find a hidden sound by walking towards where it gets louder."
     },
     {
      "t": "mcq",
@@ -1480,13 +1480,13 @@
     },
     {
      "t": "fill",
-     "p": "A thing that makes a sound is called a sound ___.",
+     "p": "A thing that makes a sound is called a sound ___. A grown-up can help write the word.",
      "a": "source",
      "why": "A sound source is the thing that makes a sound, like a bell, a crow or your own voice."
     },
     {
      "t": "match",
-     "p": "Each of these animals makes a sound in a different way. Draw a line to show how.",
+     "p": "A grown-up reads the words. Each of these animals makes a sound in a different way. Draw a line to show how.",
      "pairs": [
       [
        "A bee",
@@ -1525,18 +1525,18 @@
     },
     {
      "t": "perspective",
-     "p": "Rain is falling on the window. The family is arguing about the sound source.",
+     "p": "Meera, a girl aged 8, watches rain fall on a window with her mother and her grandfather. They disagree about the sound source.",
      "views": [
       {
-       "who": "Amma",
+       "who": "Meera's mother",
        "says": "The raindrops are the sound source. They are what is falling."
       },
       {
-       "who": "Thatha, the grandfather",
+       "who": "Meera's grandfather",
        "says": "The window is the sound source. The glass shakes when the drops hit it."
       },
       {
-       "who": "Meera, aged 8",
+       "who": "Meera",
        "says": "Both of them. The drops hit, and the glass moves."
       }
      ],
@@ -1571,10 +1571,10 @@
   },
   {
    "t": "mcq",
-   "p": "Paati's pressure cooker whistles in the kitchen. What is the sound source?",
+   "p": "A pressure cooker whistles in the kitchen. What is the sound source?",
    "opts": [
     "The pressure cooker",
-    "Paati's ear",
+    "A listener's ear",
     "The kitchen window"
    ],
    "a": 0,
@@ -1607,7 +1607,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan claps his hands. What moved to make the sound?",
+   "p": "Farhan, a boy in Class 1, claps his hands. What moved to make the sound?",
    "opts": [
     "His ears",
     "His hands",
@@ -1619,7 +1619,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi wants a louder sound from her drum. What should she do?",
+   "p": "Lakshmi, a girl in Class 1, wants a louder sound from her drum. What should she do?",
    "opts": [
     "Hit it harder",
     "Hit it more gently",
@@ -1668,22 +1668,15 @@
   },
   {
    "t": "mcq",
-   "p": "Sneha hears a sound behind a door, but she cannot see what made it. How can she find the sound source?",
+   "p": "Sneha, a girl in Class 1, hears a sound behind a door, but she cannot see what made it. How can she find the sound source?",
    "opts": [
     "Walk towards where the sound gets louder",
     "Cover her ears",
     "Walk away from the sound"
    ],
    "a": 0,
-   "why": "A sound gets louder as you get closer to its source. Following the sound leads you to it, as Kavya did in the story.",
+   "why": "A sound gets louder as you get closer to its source. Following the sound leads you to it, as the children did in the story.",
    "outcome": 4
-  },
-  {
-   "t": "truefalse",
-   "p": "A cricket is tiny, so a cricket's chirp is always too soft to hear.",
-   "a": false,
-   "why": "False. A cricket rubs his wings together to chirp, and the chirp can fill a whole room at night.",
-   "outcome": 1
   }
  ],
  "videos": [
@@ -1718,7 +1711,7 @@
  "applications": [
   "Horns on buses, autos and scooters, and bells on bicycles, warn people to move out of the way.",
   "A pressure cooker whistles when steam rushes out. The whistles tell the cook how the cooking is going.",
-  "Doctors listen to your heart with a stethoscope. Each heartbeat makes a sound as parts inside the heart snap shut.",
+  "Doctors listen to your heart with a stethoscope. Each heartbeat makes a sound as the little doors inside the heart, called valves, close.",
   "School bells, fire alarms and ambulance sirens are made loud on purpose, so that everyone hears them.",
   "Scientists put microphones in the sea to listen to fish, whales and dolphins, and to learn how they are living."
  ],
@@ -1763,14 +1756,10 @@
   "What is the softest sound in this room right now?",
   "Can you make a sound with your elbow? With your nose?",
   "Which animal near our home is the loudest caller?",
-  "How could you make this spoon make a sound? A loud one? A soft one?",
+  "How could you make a spoon make a sound? A loud one? A soft one?",
   "When everyone is asleep at night, what sounds can you still hear?"
  ],
  "jokes": [
-  {
-   "j": "Why did the pressure cooker whistle?",
-   "a": "It forgot the words of the song!"
-  },
   {
    "j": "Why was the shaker so cheerful?",
    "a": "It was full of beans!"
@@ -1806,7 +1795,7 @@
  ],
  "maths": [
   {
-   "problem": "In the listening minute, Kavya heard 3 sounds made by things and 2 sounds made by animals. How many sounds did she hear in all?",
+   "problem": "In the listening minute, Kavya, a girl in Class 1, heard 3 sounds made by things and 2 sounds made by animals. How many sounds did she hear in all?",
    "answer": "5 sounds.",
    "explain": "Start at 3 and count on 2 more: 4, 5. So Kavya heard 5 sounds in all.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1815,7 +1804,7 @@
    "why_maths": "Adding the groups together shows how many sounds there are in a room that seemed quiet."
   },
   {
-   "problem": "On the Sound Scavenger Hunt, Meera found these sound sources: a fan, a crow, a mixie, rain, a dog, a scooter and the wind. Sort them into 'from nature' and 'made by people'. Which group has more?",
+   "problem": "On the Sound Scavenger Hunt, Meera, a girl in Class 1, found these sound sources: a fan, a crow, a mixie, rain, a dog, a scooter and the wind. Sort them into 'from nature' and 'made by people'. Which group has more?",
    "answer": "From nature: the crow, the rain, the dog and the wind, so 4. Made by people: the fan, the mixie and the scooter, so 3. Nature has 1 more.",
    "explain": "Put each source in its group and count each group. 4 is 1 more than 3.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1832,7 +1821,7 @@
    "why_maths": "Putting things in order is how we compare more than two of them at once."
   },
   {
-   "problem": "In the Body Band, Asha plays a pattern: clap, clap, stamp, clap, clap, stamp. What sound comes next?",
+   "problem": "In the Body Band, Asha, a girl in Class 1, plays a pattern: clap, clap, stamp, clap, clap, stamp. What sound comes next?",
    "answer": "Clap.",
    "explain": "The pattern is clap, clap, stamp, and it starts again. After the second stamp comes a new clap, clap, stamp. So the next sound is a clap.",
    "math_unit": "math.patterns.repeating-patterns.L1",
@@ -1843,8 +1832,7 @@
  ],
  "song": {
   "topic_level": "sci.sound.L1",
-  "title": "Who Made That Sound?",
-  "note": "Topic-level song for Sound L1"
+  "title": "Who Made That Sound?"
  },
  "links": [
   {
@@ -1920,7 +1908,7 @@
    "what_is_life": "Many living beings make sounds to find each other: a calf calling her mother, crows warning their family, crickets chirping at night.",
    "what_is_this_world": "The world is always moving, so it is full of sounds: wind, rain, waves, birds and traffic. Even a quiet room has a fan or a fridge moving."
   },
-  "thread": "One shake of your hand set hundreds of chana moving at once. Each one hit the bottle, and all those tiny hits joined into one rattle. One movement became many, and the many became one sound. The whole world is like this: everything moving together, heard as one great mix of sounds. Everything that moves is aware in its own way, the chana and the bottle too. Many scientists disagree: they say only beings with nerves are aware.",
+  "thread": "Your still hands made no sound, and your moving hands did. The chana, the bell and the crow were the same: each sound came from something moving. Everything that moves is aware in its own way, the chana and the bottle too. Many scientists disagree: they say only beings with nerves are aware.",
   "teachings": [
    {
     "source": "Hakuin Ekaku, a Zen teacher in Japan (1686 to 1769), who gave this question to his students",
@@ -1961,7 +1949,7 @@
   "art": "A child sitting cross-legged with eyes closed, palms rubbing together with small sound lines, and the same child with still hands and no lines."
  },
  "how_we_found_out": {
-  "story": "For a long time, many people thought the sea was a silent place, and that fish made no sounds. During the Second World War, sailors in the American navy listened to the sea with underwater microphones. They heard grunts, croaks, drumming and crackling. The noise made it hard to listen for submarines. So the navy asked a scientist, Marie Poland Fish, to find out what was making the noise. She and her team kept fish and other sea animals in tanks, and recorded one kind at a time. Croaker fish drum with special muscles against a bag of gas inside their bodies. Tiny snapping shrimp crackle by snapping one big claw shut so fast that it makes a popping bubble. Marie Poland Fish recorded the sounds of hundreds of kinds of sea animals. She showed that the sea is full of sound sources. Many kinds of croaker live along India's coasts too.",
+  "story": "For a long time, many people thought the sea was a silent place, and that fish made no sounds. During the Second World War, sailors in the American navy listened to the sea with underwater microphones. They heard grunts, croaks, drumming and crackling. The noise made it hard to listen for submarines. So the navy asked a scientist, Marie Poland Fish, to find out what was making the noise. She and her team kept fish and other sea animals in tanks, and recorded one kind at a time. Croaker fish drum with special muscles against a bag of gas inside their bodies. Tiny snapping shrimp crackle by snapping one big claw shut so fast that it makes a popping bubble. Marie Poland Fish recorded the sounds of many kinds of sea animals. She showed that the sea is full of sound sources. Many kinds of croaker live along India's coasts too.",
   "who": "Marie Poland Fish (1900 to 1989), an American scientist who studied sea animals, and her team",
   "when": "From the 1940s",
   "wrong_idea": "The sea is silent, and fish make no sounds. Recording one kind of sea animal at a time showed that croakers drum and snapping shrimp crackle."
@@ -2031,5 +2019,6 @@
    "The koel's loud 'koo-ooo' call is the male's. The male Asian koel is glossy black with red eyes.",
    "Hakuin Ekaku (1686 to 1769) gave the koan of the sound of one hand. Hatha Yoga Pradipika, chapter 4, describes nadanusandhana: inner sounds heard first like the ocean, clouds and drums, later like the flute, the vina and bees."
   ]
- }
+ },
+ "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a flat, with 2 players and with 4 for the games. The Shaker Test and Soft Landing work with kitchen things, and the shaker fair test says plainly that only what is inside differs; the Shaker Test now ends by asking what the shakers did while still. Sound Detective plays with two, and its card-reading rules now say who reads the card and when the detective turns away. Stamp, Tiptoe, Freeze has an ending and says what happens after a swap. Made-up children are introduced, family members are no longer assumed in steps or pictures, repeated questions were replaced (the stretch spoon-and-pillow question now asks about distance), and weak jokes were cut. The three videos still have no checked address."
 }

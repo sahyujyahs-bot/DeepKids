@@ -275,9 +275,9 @@
    "In the evening, Ammachi took the dry clothes off the balcony line. She dropped the pile on the bed for folding. Anju heard something very faint. Chilum.",
    "She froze. \"Did you hear that?\"",
    "\"Hear what?\" said Rahul.",
-   "Anju did not trust her ears yet. This time she wanted to check. She picked up her old bedsheet and shook it. Chilum, chilum. \"I heard it!\" shouted Rahul. Anju felt along the folds of the sheet with her fingers. There was a small hard lump, caught in the hem where the stitches had come loose. She worked it out with her fingers. It was her kolussu.",
+   "Anju did not trust her ears yet. This time she wanted to check. She picked up the old bedsheet from the pile and shook it. Chilum, chilum. \"I heard it!\" shouted Rahul. Anju felt along the folds of the sheet with her fingers. There was a small hard lump, caught in the hem where the stitches had come loose. She worked it out with her fingers. It was her kolussu.",
    "\"It must have fallen into the bucket with the sheet,\" said Ammachi. \"It went round in the washing, and then it hung on the line all day.\"",
-   "Anju put it on her ankle. Chilum. \"The dream showed me the kolussu,\" she said slowly. \"But nothing else agreed with the dream. The jingle was different. I could shake the sheet again. Rahul heard it too. And I could feel it with my fingers.\"",
+   "Anju put it on her ankle. Chilum. \"The dream showed me the kolussu,\" she said slowly. \"But the dream was wrong about where it was. This time I could check. I shook the sheet again, Rahul heard it too, and I felt it with my fingers.\"",
    "Rahul was thinking about something else. \"Ammachi,\" he said, \"is air real? I can't see it.\"",
    "Anju had an idea. She took a steel tumbler to the bathroom and pushed it, open end down, into a bucket of water. Then she tipped it. A big bubble burst up out of the water. Blub.",
    "\"That was the air inside,\" said Anju. \"It was there all the time. It just does not show itself to eyes.\"",
@@ -302,7 +302,7 @@
   {
    "id": "e1",
    "title": "Real or Recorded? Guess what is making the sound behind the door",
-   "mins": 26,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment a grown-up makes four sounds behind a closed door. Sometimes the sound is real, and sometimes it is a phone recording of the same sound. You guess which, and count how often your ears were right.",
    "question": "Behind a closed door, can your ears tell a real sound from a phone recording of the same sound? Which sounds are hardest to tell?",
@@ -348,7 +348,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 26,
+     "mins": 20,
      "what": "Record four sounds. Then play the guessing game through the closed door, check the answers, and swap places."
     }
    ],
@@ -443,8 +443,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 6,
-     "do": "1. Behind the door, record four sounds on the phone, holding it close. 2. Tap the tumbler three times with the spoon. 3. Pour a little water from the tumbler into the steel bowl. 4. Crumple the newspaper sheet. 5. Say: 'Hello, can you hear me?'",
+     "mins": 5,
+     "do": "1. With your child watching, record four sounds on the phone, holding it close. 2. Tap the tumbler three times with the spoon. 3. Pour a little water from the tumbler into the steel bowl. 4. Crumple the newspaper sheet. 5. Say: 'Hello, can you hear me?'",
      "say": "I am going to record four sounds on the phone. Later I will make each sound twice, once for real and once from the phone.",
      "kid": "Watch your grown-up record four sounds. Listen to each one.",
      "parent": "Record each sound as its own short clip, so you can play any one quickly. Play them back once to check they are clear. Keep the water well away from the phone."
@@ -469,7 +469,7 @@
     },
     {
      "id": "s3",
-     "mins": 8,
+     "mins": 6,
      "do": "1. Your child sits outside the closed door with the list. 2. Behind the door, turn over the top slip. 3. Choose a sound. If the slip says R, make it for real. If it says P, play its recording. 4. Call out the turn number first. 5. Keep the slips in order.",
      "say": "Turn one. Listen carefully. Was that real, or the phone?",
      "kid": "Listen to each sound. Write R for real or P for phone.",
@@ -477,7 +477,7 @@
     },
     {
      "id": "s4",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Open the door. 2. Read out the slips in order: real or phone, and which sound. 3. Your child ticks each right guess and counts the ticks.",
      "say": "Let's check. Turn one was the spoon on the tumbler, and it was real. Did you write R? How many did you get right altogether?",
      "kid": "Open the door. Tick the ones you got right. Count your ticks.",
@@ -494,7 +494,7 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Swap places. 2. Your child goes behind the door with the slips and the phone. 3. The grown-up guesses all 8. 4. Count the grown-up's right answers too.",
      "say": "Now you make the sounds, and I will guess. Shuffle the slips first.",
      "kid": "Now you make the sounds. Your grown-up guesses. Shuffle the slips first.",
@@ -502,7 +502,7 @@
     },
     {
      "id": "s6",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Ask what your child thinks now. 2. Ask what they heard. 3. Ask why it happened.",
      "say": "When the phone played the tumbler, was there a real sound? Was there a tumbler clinking? How did you find out what made each sound?",
      "kid": "Was the phone's sound real? Was a tumbler clinking? How did you find out?",
@@ -990,67 +990,67 @@
      "items": [
       {
        "f": "Air inside a balloon",
-       "b": "Pair 1"
+       "b": "Clue Pairs"
       },
       {
        "f": "The balloon is round and fat.",
-       "b": "Pair 1"
+       "b": "Clue Pairs"
       },
       {
        "f": "Wind outside",
-       "b": "Pair 2"
+       "b": "Clue Pairs"
       },
       {
        "f": "Clothes on the balcony line are flapping.",
-       "b": "Pair 2"
+       "b": "Clue Pairs"
       },
       {
        "f": "A pressure cooker in the next flat",
-       "b": "Pair 3"
+       "b": "Clue Pairs"
       },
       {
        "f": "You hear a whistle through the wall.",
-       "b": "Pair 3"
+       "b": "Clue Pairs"
       },
       {
        "f": "Jasmine flowers in the next room",
-       "b": "Pair 4"
+       "b": "Clue Pairs"
       },
       {
        "f": "A sweet smell comes through the door.",
-       "b": "Pair 4"
+       "b": "Clue Pairs"
       },
       {
        "f": "Rain in the night",
-       "b": "Pair 5"
+       "b": "Clue Pairs"
       },
       {
        "f": "The road is wet in the morning.",
-       "b": "Pair 5"
+       "b": "Clue Pairs"
       },
       {
        "f": "Air inside an 'empty' bottle",
-       "b": "Pair 6"
+       "b": "Clue Pairs"
       },
       {
        "f": "A bubble comes out when you tip the bottle under water.",
-       "b": "Pair 6"
+       "b": "Clue Pairs"
       },
       {
        "f": "A koel hidden in a tree",
-       "b": "Pair 7"
+       "b": "Clue Pairs"
       },
       {
        "f": "You hear 'koo-oo, koo-oo' from the leaves.",
-       "b": "Pair 7"
+       "b": "Clue Pairs"
       },
       {
        "f": "Someone frying vadas in the kitchen",
-       "b": "Pair 8"
+       "b": "Clue Pairs"
       },
       {
        "f": "You hear sizzling and smell hot oil.",
-       "b": "Pair 8"
+       "b": "Clue Pairs"
       }
      ]
     }
@@ -1059,8 +1059,8 @@
     "Before you play, draw a small sketch on each card, so a child who cannot read yet can play too.",
     "Mix the cards and lay them face down in 4 rows of 4.",
     "On your turn, turn over two cards and read them aloud.",
-    "If one card is a thing we cannot see, and the other is the clue that tells us it is there, you may have a pair. Say why they go together.",
-    "Check by turning both cards over. A pair has the same pair number on the back. If it matches, keep the pair and have another turn.",
+    "If one card is a thing we cannot see, and the other is the clue that tells us it is there, you have a pair. Say why they go together.",
+    "If the other players agree that the two cards go together, you keep the pair and have another turn. If you cannot agree, ask a grown-up.",
     "If they are not a pair, turn them back face down. The next player has a turn.",
     "When all the cards are taken, the player with the most pairs wins."
    ],
@@ -1085,10 +1085,10 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Take turns. 2. Each player turns over two cards and reads them aloud. 3. Ask why a pair goes together before checking the back.",
+     "do": "1. Take turns. 2. Each player turns over two cards and reads them aloud. 3. Ask why a pair goes together, and let the other players say if they agree.",
      "say": "Is that a thing and its clue? Why do they go together?",
      "kid": "Turn two cards. Is it a thing and its clue? Say why.",
-     "parent": "Some clue cards could fit more than one thing. That is a good thing to talk about. The pair numbers on the back settle it for the game."
+     "parent": "Some clue cards could fit more than one thing. That is a good thing to talk about. If players cannot agree, decide together which clue fits best."
     },
     {
      "id": "s3",
@@ -1143,7 +1143,7 @@
       },
       {
        "f": "An elephant fits in your pocket.",
-       "b": "Dream sign: a grown elephant weighs as much as a small lorry."
+       "b": "Dream sign: an elephant is far too big for a pocket."
       },
       {
        "f": "Rain starts, and soon the road is wet.",
@@ -1244,7 +1244,7 @@
      "qty": 1
     },
     {
-     "item": "a balloon or a plastic bag, a steel tumbler and spoon, and a spice such as jeera or elaichi",
+     "item": "a balloon, a steel tumbler and spoon, and two elaichi pods (or a piece of orange or lemon peel)",
      "qty": 1
     }
    ],
@@ -1252,7 +1252,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Air page: blow up a balloon or a bag. Draw it. Write the clue that tells you air is inside."
+     "what": "Air page: blow up a balloon. Draw it. Write the clue that tells you air is inside."
     },
     {
      "day": 2,
@@ -1262,7 +1262,7 @@
     {
      "day": 3,
      "mins": 8,
-     "what": "Smell page: put a pinch of jeera in a cup, cover it, then sniff from across the room. Draw where the smell travelled."
+     "what": "Smell page: crush two elaichi pods in a cup, cover it with a plate, then stand three big steps away. Lift the plate and notice when the smell reaches you. Draw where the smell travelled."
     },
     {
      "day": 4,
@@ -1285,7 +1285,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Make the book together. 2. Blow up the balloon or bag and tie it. 3. Your child draws it and writes the clue.",
+     "do": "1. Make the book together. 2. Blow up the balloon and tie it. 3. Your child draws it and writes the clue.",
      "say": "We cannot see air. What tells us it is inside the balloon?",
      "kid": "Blow up the balloon. Draw it. Write how you know air is inside."
     },
@@ -1299,9 +1299,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Put a pinch of jeera in a cup and cover it with a plate. 2. Your child stands across the room. 3. Lift the plate. 4. Your child walks closer until they smell it.",
+     "do": "1. Crush two elaichi pods (or rub a piece of lemon peel) and put them in a cup. Cover it with a plate. 2. Your child stands three big steps away. 3. Lift the plate. 4. Your child says 'now' when the smell reaches them. If it takes long, move a step closer.",
      "say": "You cannot see the smell. How did it reach your nose?",
-     "kid": "Walk closer until you smell the jeera. Draw how the smell came to you."
+     "kid": "Stand three steps away. Say 'now' when the smell reaches you. Draw how the smell came to you."
     },
     {
      "id": "s4",
@@ -1330,7 +1330,7 @@
     "an empty plastic bottle with its cap",
     "a bucket or a big bowl of water",
     "a thin strip of tissue or newspaper",
-    "a balloon or a small plastic bag",
+    "a balloon",
     "a towel for spills"
    ],
    "general": [
@@ -1339,7 +1339,7 @@
    ],
    "creative": [
     "Put the cap on tightly and try to squash the bottle. It pushes back, because the air inside has nowhere to go.",
-    "Stretch a balloon over the mouth, then put the bottle in a bowl of warm water. The air inside spreads out and the balloon lifts a little."
+    "Stretch a balloon over the mouth of the bottle. A grown-up pours hot tap water into a bowl, and you stand the bottle in it. The air inside spreads out as it warms, and the balloon lifts a little."
    ],
    "your_turn": "Try your own way. Then ask the other person what they think is inside now, and why.",
    "setup": [
@@ -1781,7 +1781,7 @@
     },
     {
      "t": "match",
-     "p": "Draw a line from each animal to something real that they sense and humans cannot.",
+     "p": "Draw a line from each animal to something real that they sense and we cannot.",
      "pairs": [
       [
        "A bat",
@@ -1801,7 +1801,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each animal senses things that are really there but that human senses miss. So the world we sense is only part of what is real."
+     "why": "Each animal senses things that are really there but that our senses miss. So the world we sense is only part of what is real."
     },
     {
      "t": "fill",
@@ -1998,7 +1998,7 @@
    "art": "A long straight road on a hot day with a shiny patch ahead that looks like water."
   },
   {
-   "text": "Kites rising on Makar Sankranti in Ahmedabad and Jaipur, and on Uttarayan rooftops, lifted by wind nobody can see.",
+   "text": "Kites rising on Makar Sankranti over rooftops in Ahmedabad and Jaipur, lifted by wind nobody can see.",
    "art": "Many bright kites in a blue sky over flat rooftops, with children holding the strings."
   },
   {
@@ -2046,8 +2046,8 @@
    "a": "Tip me over, and I'll show you what I'm full of!"
   },
   {
-   "j": "Why are ghosts so bad at telling lies?",
-   "a": "You can see right through them!"
+   "j": "What is all around you, but you cannot see it?",
+   "a": "Air!"
   },
   {
    "j": "What has ears but cannot hear?",
@@ -2066,8 +2066,8 @@
    "a": "He wanted to have bright dreams!"
   },
   {
-   "j": "Why did the jeera win the smelling game?",
-   "a": "The rice had no scents at all!"
+   "j": "What did the pressure cooker say to its lid?",
+   "a": "Hold on tight, I am about to whistle!"
   },
   {
    "j": "What did the phone say after fooling everyone in the door test?",
@@ -2264,7 +2264,7 @@
    {
     "source": "Mandukya Upanishad, verses 3 to 7",
     "teaching": "The Upanishad describes states that awareness passes through: waking, dreaming, and deep sleep with no dreams. It speaks of a fourth, called turiya, which is aware of all three.",
-    "link": "Your dream notebook caught the dreaming state, and you woke into the waking one. The Upanishad says the same you is there in both."
+    "link": "Your dream notebook caught the dreaming state, and you woke into the waking one. The Upanishad treats them as two states that the same awareness passes through."
    }
   ],
   "science": [
@@ -2310,5 +2310,5 @@
    "Veits, M., Hadany, L. and others (2019). Flowers respond to pollinator sound within minutes by increasing nectar sugar concentration. Ecology Letters 22: 1483-1492."
   ]
  },
- "playtest": "Checked in a flat in my head: the door test needs only a phone, a tumbler, a spoon, a bowl, newspaper and a door, and gives a score out of 8 every time. Phone speakers sound thinner than the real thing, so many children score 5 to 7; any score is a real result, and the deep truth holds whatever the score. The dream notebook depends on remembering dreams, so it is outside the spine and says what to do on mornings with no dream. No buying needed."
+ "playtest": "Thought through for a city flat: the door test needs only a phone, a tumbler, a spoon, a bowl, newspaper and a door, and gives a score out of 8 every time. Phone speakers sound thinner than the real thing, so many children score 5 to 7; any score is a real result, and the deep truth holds whatever the score. The dream notebook depends on remembering dreams, so it is outside the spine and says what to do on mornings with no dream. No buying needed."
 }

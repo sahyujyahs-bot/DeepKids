@@ -25,7 +25,7 @@
 ### Questions we can test, and questions we can't · *defined*
 **Definition:** A question is testable when you can do something, watch what happens, and get an answer that anyone else would also see.
 
-'Can a pencil lift a bottle of rice?' is testable. You try it, and everyone watching sees the bottle lift, or not. 'Which colour is the best?' is not testable. There is nothing to do that shows one right answer, because it is an opinion. Some questions are not testable yet, like 'Is there life on a planet near another star?' Nobody can travel there today. Some questions can be answered by asking or reading, like 'When was Amma born?' Knowing which kind a question is helps you know how to find out.
+'Can a pencil lift a bottle of rice?' is testable. You try it, and everyone watching sees the same thing. 'Which colour is the best?' is an opinion, so no test can answer it. Some questions are not testable yet, like 'Is there life on a planet near another star?' Nobody can travel there today. Some questions are answered by asking, like 'When was Amma born?'
 - e.g. Testable: 'Does a steel spoon sink in water?' Drop one in and see.
 - e.g. An opinion: 'Is a mango nicer than a banana?' Each person's answer is true for them.
 - e.g. Not testable yet: 'What is at the very edge of space?' Nobody can go there to look.
@@ -33,16 +33,16 @@
 ### A prediction is a guess with a reason · *defined*
 **Definition:** A prediction says what you think will happen in a test, and why you think so, before the test starts.
 
-'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. The reason matters. If the bottle lifts, you know which idea to change: the rice can grip after all. We say the prediction before the test, because after the test anyone can say 'I knew it!' Writing it down first keeps us honest.
+'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. After the test, anyone can say 'I knew it!'
 - e.g. 'The ice will float, because I have seen ice floating in a glass of water.'
 - e.g. 'The crumpled paper will land first, because it is smaller, so the air pushes it less.'
 - e.g. 'It will rain today, because the sky is dark grey and the wind is cool.'
 ### A wrong prediction still teaches you something · *defined*
 **Definition:** When a result does not match a prediction, the idea behind the prediction needs to change.
 
-Many people predict that a pencil cannot lift a bottle of rice. Then they see it lift. That wrong prediction is useful. It shows that their idea, 'rice is too loose to grip', was not right when the rice is pressed tight. Scientists are wrong often. They write down what happened, change their idea, and test again. A test that surprises you is often the one that teaches you most.
+Many people predict that a pencil cannot lift a bottle of rice. Then they see it lift. Their idea, 'rice is too loose to grip', was wrong for packed rice. Scientists are wrong often too. They write down what happened, change their idea, and test again.
 - e.g. In 1835, a French thinker, Auguste Comte, wrote that people would never find out what stars are made of. Within about 30 years, scientists began to find out from starlight.
-- e.g. In the Rice Bottle Lift, many children first say the bottle will fall. Their next prediction, after one try, is often closer.
+- e.g. In the Rice Bottle Lift, loose rice lets the pencil slide out. That result tells you to try packing the rice.
 ### Why the rice held the pencil · *defined*
 **Definition:** Rice grains pressed tightly together push hard on each other and on the pencil, and friction between them holds the pencil.
 
@@ -52,7 +52,7 @@ Loose rice has air gaps between the grains. The grains can slide past each other
 ### Some things can be predicted every time, and some can't · *defined*
 **Definition:** Some events happen the same way every time, so we can predict each one. Others change by chance, so we can only predict what happens over many tries.
 
-A spoon you let go of falls down every single time, because the Earth pulls it. You can predict every drop. A coin shaken in your hands lands heads or tails by chance. Nobody can predict one shake. But over many shakes, about half land heads. The weather is in between. Forecasters at the India Meteorological Department use measurements to predict rain, and they are right often, but not always.
+A spoon you let go of falls down every single time, because the Earth pulls it. You can predict every drop. A coin shaken in your hands lands heads or tails by chance. Nobody can predict one shake, but over many shakes about half land heads. Weather is in between. Forecasters at the India Meteorological Department use measurements to predict rain. They are right often, but not always.
 - e.g. Sure every time: a dropped spoon falls, and the Sun rises in the east.
 - e.g. Chance: one coin toss, one roll of a Ludo die.
 - e.g. Often right: the weather forecast for tomorrow. Anna Mani, a scientist from Kerala, made and improved weather instruments for the India Meteorological Department, so forecasters had better measurements.
@@ -81,26 +81,26 @@ Ants sense, remember and choose. You can test what an ant does: put sugar out an
   For: In 1835 nobody could travel to a star or bring back a piece of one.  
   Against: In 1859 and 1860, Gustav Kirchhoff and Robert Bunsen in Germany found that each kind of material gives out its own colours of light. Starlight carries those colours. In 1925, Cecilia Payne showed from starlight that stars are made mostly of hydrogen and helium.
 - **A real scientific idea must be one that a test could prove wrong.** (Karl Popper, a philosopher born in Austria, in the 1930s; *debated*)  
-  For: If no test could ever show an idea is wrong, then no test can show it is right either.  
+  For: An idea that no test could ever show wrong fits everything, so it tells us nothing.  
   Against: Some scientists say ideas about the very start of the universe are still science, though nobody can test them yet. They hope tests will come later, as they did for the stars.
 
 ## Roots
 We have sorted questions, made predictions and tested them with rice, coins and a die. Now we ask what the Rice Bottle Lift tells us about questions and answers.
 
-**Deep truth.** You and your grown-up each guessed whether the pencil could lift the rice bottle. Then the test showed you both the same result. A question is testable when trying it shows the answer to anyone who looks. 'Which colour is best?' is different: each person's answer is true for them.  
+**Deep truth.** In the Rice Bottle Lift, you and your grown-up made different predictions. The bottle did the same thing in front of both of you. Anyone who repeats the test sees the same result. A question about which colour is best has no test, because each person's answer is true for them.  
 *Habit it breaks:* We treat every question as the same kind: either you know the answer or you don't. But some questions are answered by a test that everyone sees the same way, and others by what each person likes or feels.  
-*Evidence:* In the Rice Bottle Lift, two people made different predictions, and the bottle did the same thing in front of both of them. In the story, the batter rose for Ila and Kiran mama alike, while 'idli or dosa?' had a different right answer for each person.
+*Evidence:* In the Rice Bottle Lift, two people made different predictions, and the bottle did the same thing in front of both of them. In the story, the two tumblers showed the same to Ila and Kiran mama, while 'idli or dosa?' had a different right answer for each person.
 
 - *who am i:* You are someone who can wonder, predict and test. Your likes, like your favourite colour, are part of you too.
-- *what is life:* Every living being predicts. A young sunflower turns to face east during the night, ready for the morning sun.
+- *what is life:* Living beings get ready for what is coming. A young sunflower turns to face east during the night, ready for the morning sun.
 - *what is this world:* The world answers our tests in the same way for everyone who tries. That is why people everywhere can share what they find.
 
-Before the test, the answer was not in your head or in anyone's guess. It was in the rice, the pencil and the way they met. When you pushed and lifted, the world showed what it does. Everyone who watched saw the same thing, because everyone is part of the same world. Your liking for a colour is real too. It is the same world, showing up in a different way in each person.
+Before the test, the answer was not in anyone's guess. It was in the rice and the pencil, and how hard the grains pressed together. Everyone who watched saw the same result. Your liking for a colour is real too, but it belongs to the person who has it.
 
 - **Cula-Malunkyovada Sutta, Majjhima Nikaya 63:** A monk named Malunkyaputta asks the Buddha questions such as 'Is the world eternal?' The Buddha does not answer. He tells of a man hit by a poisoned arrow who refuses help until he knows who shot it. The man would die before the questions were answered. The Buddha says to work first on what can be worked on. (Some questions can be answered by a test today, and some cannot. Knowing which kind you have helps you choose what to do next.)
 - **Confucius, Analects 2.17:** Confucius tells his student: when you know a thing, say that you know it. When you do not know a thing, say that you do not know it. That is real knowing. (A prediction is said honestly before a test. When the test shows it was wrong, a good finder-out says so, and learns.)
 - Science (settled): A test question is answered the same way for everyone who does the test carefully. That is why scientists in different countries can check each other's work.
-- Science (debated): Some questions, like what the stars are made of, looked untestable and were tested later. Others, like what happened before the universe began, may or may not ever be testable. Scientists argue about this.
+- Science (debated): Some questions, like what the stars are made of, looked untestable and were tested later. Others, like what the universe was like at its very start, may or may not ever be testable. Scientists argue about this.
 - Other view, Some philosophers: They say that even a test result is seen by each person in their own way, so no two people ever see exactly the same thing. Others answer that, even so, everyone who watched can agree that the bottle lifted.
 - Practice, Predict your breath (3 min): Sit still and close your eyes. Before you breathe, predict: will this breath feel warm or cool on your top lip? Now breathe out through your nose and feel. Were you right? Now predict a breath in. Breathe in slowly. Notice what really happened. Do it three times.
 - Ask: If a test shows the same thing to everyone, is the answer in the world or in us?
@@ -211,15 +211,15 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
   *Parent does:* Count the cards. Then pick one test card and do the test now, if it is quick.  
   *Parent says:* Who has the most cards? Now let's choose one test question and really try it.  
   *Child mode:* Count your cards. Then try one test for real.
-### g2 · Guess First: the quick test card game (20 min)
+### g2 · Guess First: the quick test card game (24 min)
 - **rules:** Put the cards in a pile, face down. Put the things the cards need nearby: a tumbler of water, a steel spoon, paper, a steel plate, salt, a glass, a bowl of water, an ice cube and a lemon.; Take the top card and read the front aloud. Do not look at the back.; Every player says a prediction and a reason. Write them on the score sheet.; Do the test together and watch closely.; Read the back of the card to check.; Each player gets 1 point for a right prediction and 1 point for giving a reason.; A wrong prediction with a reason still gets 1 point.; After all 10 cards, the player with the most points wins.
-- **Printable cards: 10 quick test cards:** Drop a steel spoon into a tumbler of water. Will it sink or float? (back: It sinks.); Put an ice cube into a tumbler of water. Will it sink or float? (back: It floats, with most of it under the water.); Hold a flat sheet of paper and a crumpled ball of paper at the same height. Let go together. Which lands first? (back: The crumpled ball lands first. The air slows the flat sheet more.); Hold a strip of paper just under your bottom lip, so it hangs down. Blow hard straight ahead. Will the strip go down, stay still or lift up? (back: It lifts up into the moving air. Scientists explain this in more than one way.); Put one drop of water on newspaper and one on a steel plate. Which one stays a round bead? (back: The drop on the steel plate stays a bead. The newspaper soaks the water up.); Half fill a tumbler with water. Tilt it a little. Will the top of the water tilt with the tumbler, or stay flat? (back: The top of the water stays flat, even when the tumbler tilts.); Stir a pinch of salt into a tumbler of water. Will you still see the salt after one minute? (back: No. The salt dissolves: it breaks into pieces too small to see, but it is still there. Taste a drop to check.); Stuff a dry tissue into the bottom of an empty glass. Push the glass straight down, upside down, into a bowl of water. Will the tissue get wet? (back: No. Air is trapped inside the glass, and it keeps the water out.); Look at your face in the back of a shiny steel spoon. Will you be the right way up or upside down? (back: The right way up. Now try the front of the spoon, held at arm's length: you are upside down.); Put a lemon in a bowl of water. Will it sink or float? (back: Most lemons float. The peel is full of tiny air pockets.)
+- **Printable cards: 10 quick test cards:** Drop a steel spoon into a tumbler of water. Will it sink or float? (back: It sinks.); Put an ice cube into a tumbler of water. Will it sink or float? (back: It floats, with most of it under the water.); Hold a flat sheet of paper and a crumpled ball of paper at the same height. Let go together. Which lands first? (back: The crumpled ball lands first. The air slows the flat sheet more.); Hold a strip of paper just under your bottom lip, so it hangs down. Blow hard straight ahead. Will the strip go down, stay still or lift up? (back: It lifts up into the moving air. Scientists explain this in more than one way.); Put one drop of water on newspaper and one on a steel plate. Which one stays on top as a drop? (back: The drop on the steel plate stays on top. The newspaper soaks the water up.); Half fill a tumbler with water. Tilt it a little. Will the top of the water tilt with the tumbler, or stay flat? (back: The top of the water stays flat, even when the tumbler tilts.); Stir a pinch of salt into a tumbler of water. Will you still see the salt after one minute? (back: No. The salt dissolves: it breaks into pieces too small to see, but it is still there. Taste a drop to check.); Stuff a dry tissue into the bottom of an empty glass. Push the glass straight down, upside down, into a bowl of water. Will the tissue get wet? (back: No. Air is trapped inside the glass, and it keeps the water out.); Look at your face in the back of a shiny steel spoon. Will you be the right way up or upside down? (back: The right way up. Now try the front of the spoon, held at arm's length: you are upside down.); Put a lemon in a bowl of water. Will it sink or float? (back: Most lemons float. The peel is full of tiny air pockets.)
 - **Printable score sheet: Prediction score sheet:** Card number; My prediction; My reason; What happened; Points: 1 for a right prediction, 1 for a good reason
 - **s1 (3 min)**  
   *Parent does:* 1. Put all the things on a tray. 2. Fill a tumbler and a bowl with water. 3. Put the cards face down.  
   *Parent says:* Every card is a little test. Before we try it, we each say what we think will happen, and why.  
   *Child mode:* Each card is a test. Guess first. Then try it.
-- **s2 (14 min)**  
+- **s2 (18 min)**  
   *Parent does:* 1. Read a card aloud. 2. Each player predicts and gives a reason. 3. Do the test. 4. Read the back. 5. Give points.  
   *Parent says:* What do you predict? Why do you think so? Now let's try it and watch.  
   *Child mode:* Read the card. Say your guess and why. Now try it.
@@ -262,7 +262,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
   *Parent does:* 1. Your child pokes the pencil in and out, counting aloud. 2. Every 10 pokes, tap the bottle on the tray 5 times. 3. Top up the rice to the very top. 4. After every 10 pokes, leave the pencil in and try a slow lift.  
   *Parent says:* Poke in and out, and count. Every ten, tap the bottle and fill it up again. Then push the pencil in and try lifting.  
   *Child mode:* Poke and count. Every ten, tap it and add rice. Then try to lift.
-  - Note: The rice gets lower as it packs, so keep adding rice to the very top. Many bottles lift after 20 to 50 pokes, but it varies. If yours has not lifted after 60, use a narrower bottle or fill it fuller.
+  - Note: The rice gets lower as it packs, so keep adding rice to the very top. Many bottles lift after 20 to 50 pokes, but it varies. A rough wooden chopstick or ice-cream stick grips better than a shiny painted pencil. If yours has not lifted after 60 pokes, use a narrower bottle or fill it fuller.
 - **s6 (3 min)**  
   *Parent does:* 1. When the bottle lifts, write the number of pokes. 2. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* It lifted! How many pokes did it take? Was your prediction right? What do you think made the difference?  
@@ -289,7 +289,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
   *Parent does:* 1. Draw two columns on paper: 'Blow' and 'No blow'. 2. Ask for a prediction and a reason. Write it down.  
   *Parent says:* Some people blow on a die to get a six. Does it work? What do you predict, and why?  
   *Child mode:* Does blowing on the die bring a six? Guess, and say why.
-  - Ask: Why do you think so? (good: Yes, because people do it in games.; No, because the die can't know I blew.; Maybe, I am not sure.)
+  - Ask: Why do you think so? (good: Yes, because people do it in games.; No, because blowing does not change how the die falls.; Maybe, I am not sure.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child blows on the die in their closed hand, shakes it and rolls it onto the tray. 2. Count 30 rolls. 3. Make a tally mark in 'Blow' for each six.  
   *Parent says:* Blow, shake, roll. Thirty times. Each time it shows six, make a mark in the Blow column.  
@@ -431,7 +431,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 3. (draw) Draw the Rice Bottle Lift. Show the bottle, the rice and the pencil when the bottle lifted.  
    **Answer:** A drawing of a bottle full of rice hanging from a pencil held by a hand.. *Why:* A strong drawing shows the rice right up to the top and the pencil deep inside it.
 4. (write) Say out loud, and a grown-up writes it: before the Rice Bottle Lift, what did you predict? Was it right?  
-   **Answer:** For example: I predicted the bottle would fall, because rice is loose. It was wrong the second time, because packed rice lifted.. *Why:* A strong answer gives the prediction, the reason, and what really happened.
+   **Answer:** For example: I predicted the bottle would fall, because rice is loose. I was wrong when the rice was packed tight, because then the bottle lifted.. *Why:* A strong answer gives the prediction, the reason, and what really happened.
 5. (match) Draw a line from each question to how you could find out.  
    **Answer:** Does salt disappear in water? → Stir some in and look; When was Ammamma born? → Ask her; Which song is the best? → Nobody can test it. It is an opinion; Is there life near another star? → Nobody can test it yet. *Why:* Some questions need a test, some need asking, some are opinions, and some can't be tested yet.
 6. (truefalse) A prediction that turns out wrong is wasted.  
@@ -439,7 +439,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 7. (count) In the Sure or Not Sure activity, Bina dropped a spoon 10 times and predicted right every time. She shook a coin 10 times and was right 4 times. How many coin predictions were wrong?  
    **Answer:** 6. *Why:* 10 take away 4 is 6. Coin shakes land by chance, so many guesses are wrong.
 8. (odd) Three of these are test questions. Which one is an opinion?  
-   Options: Does a steel spoon sink? / Does a lemon float? / Is a lemon prettier than a lime? / Does ice float?  
+   Options: Does a pebble sink in water? / Does a lemon float? / Is a lemon prettier than a lime? / Does ice float?  
    **Answer:** 2. *Why:* Whether a lemon is prettier is what one person feels. The other three can be tested with a bowl of water.
 9. (mcq) In the Lucky Blow test, why do we roll 30 times each, and not just once?  
    Options: One roll can be a fluke / To make the die tired / Because 30 is a lucky number  
@@ -449,8 +449,8 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 11. (write) Say out loud, and a grown-up writes it: 'Which fruit is the best?' Why can't a test answer this?  
    **Answer:** For example: because everyone likes different fruits. My best fruit is mango, but my friend's is banana.. *Why:* A strong answer says it is an opinion, and that different people's answers are all true for them.
 ### Testing ideas (stretch, 11 questions)
-1. (perspective) Two girls in Kolkata, Mitali and Rumki, predict what happens when you push a pencil into a bottle of loose rice and lift it.  
-   **Answer:** A strong answer: with loose rice, Rumki is right, because the grains slide. But Mitali is right once the rice is packed tight: then it grips the pencil.. *Why:* Both girls have part of the answer. The test showed that it depends on how tightly the rice is packed.
+1. (perspective) Two girls in Kolkata, Mitali and Rumki, predict what happens when you push a pencil into a bottle of rice and lift it.  
+   **Answer:** A strong answer: Rumki is right for loose rice, because the grains slide. Mitali is right once the rice is packed tight, because then it grips the pencil. Both are right, in different cases.. *Why:* Both girls have part of the answer. The test showed that it depends on how tightly the rice is packed.
 2. (write) In the story Two Tumblers of Batter, Kiran mama says, 'Batter rises the same in the fridge.' Say how you could test this, and a grown-up writes it.  
    **Answer:** For example: put the same amount of batter in two tumblers, mark the top with a rubber band, put one in the fridge and one on a shelf, and look in the morning.. *Why:* A strong answer uses two tumblers that are the same, changes only where they are kept, and says what to look at.
 3. (order) Put these steps of a test in order.  
@@ -547,7 +547,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - What do you call a guess with a reason? *A prediction with a brain!*
 - Why did the coin go to bed? *It was tossed and tired!*
 - What did Halley's comet say to the Earth? *See you in about 76 years!*
-- Why did the batter rise in the warm kitchen? *It was too cool for the fridge!*
+- What did the batter say in the fridge? *I'm just chilling here. I'll rise later!*
 
 ## Connected maths
 - In the Lucky Blow test, Shreya got 6 sixes with a blow and 4 sixes without, in 30 rolls each. How many more sixes did blowing give? Does that prove blowing works? **2 more. No, that does not prove it.**. 6 take away 4 is 2. But a die lands by chance, so counts of sixes change every time. A difference of 2 is small. Shreya needs to test again to see if it was a fluke. (queues `math.data.sorting-and-tallies.L2`)

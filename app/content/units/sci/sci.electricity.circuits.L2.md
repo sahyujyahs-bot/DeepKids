@@ -3,7 +3,7 @@
 
 **Summary.** A small bulb lights when a cell, two wires and the bulb are joined in a ring. Electricity flows out of one end of the cell, through the bulb, and back into the other end. This ring is called a circuit. Your child builds a circuit, then tests it with the wires coiled, crossed and knotted. The bulb still lights, but it goes dark when both wires touch the same end of the cell.
 
-**Intro.** *Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?* Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why every cell, bulb and plug has two metal ends.
+**Intro.** *Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?* Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why a cell, a bulb and a plug each need two metal parts.
 
 ## Learning outcomes
 0. By the end I can join a cell, two wires and a bulb so that the bulb lights.
@@ -40,7 +40,7 @@ A cell has two ends, + and −. A bulb has two metal places: the tip at the bott
 ### The shape of the wires does not matter · *defined*
 **Definition:** A bulb lights when there is an unbroken metal path from one end of the cell, through the bulb, to the other end. Bending, coiling or knotting a covered wire does not break that path.
 
-In the Shape Test, the bulb lit with straight wires. It also lit with a wire coiled round a pencil, with the wires crossed, and with a knot in one wire. The brightness looked the same each time. Inside the plastic, the metal was still one unbroken piece. What matters is which parts are joined, metal touching metal. A loose bulb, or a wire on the wrong end, makes the bulb dark, however neat the wires look.
+In the Shape Test, the bulb lit with straight wires. It also lit with a coiled wire, crossed wires and a knotted wire. The brightness looked the same each time. Inside the plastic, the metal was still one unbroken piece. A loose bulb, or a wire on the wrong end, makes the bulb dark, however neat the wires look.
 - e.g. The wires inside a wall go round corners, and the light still works.
 - e.g. A phone charger's wire can be coiled up, and the phone still charges.
 - e.g. Electricians bend wires to fit inside a switchboard.
@@ -96,7 +96,7 @@ We have built a circuit, coiled and knotted its wires, and looked inside a bulb.
 - *what is life:* Thinking is not only for brains. A Venus flytrap counts touches with electric signals in her leaf, and decides when to shut. Some scientists call this a reflex.
 - *what is this world:* Everything is conscious, down to the tiny electrons in a wire. Most physicists today disagree. They say an electron only follows fixed laws.
 
-A straight wire and a knotted wire look like two different things. To the circuit, they are the same path, because the metal is unbroken. A map of the Chennai metro works the same way. It does not show the real bends of the streets, only which stations join, and that is enough to travel. Mathematicians study this kind of sameness and call it topology. Underneath many different-looking things, what matters is how they are joined.
+A straight wire and a knotted wire look different. To the circuit they are the same path, because the metal is unbroken. A Chennai metro map works the same way. It does not show the real bends of the streets, only which stations join, and that is enough to travel. What matters is how things are joined.
 
 - **Nagarjuna, Mulamadhyamakakarika 24.18:** Nagarjuna, a teacher in South India about 1,800 years ago, taught that nothing has its nature all by itself. Each thing is what it is because of what it depends on. (A bulb on its own does nothing. It glows only because of what it is joined to: the wires, and the two ends of the cell.)
 - **Avatamsaka Sutra, the net of Indra:** Buddhist teachers describe a great net with a jewel at every knot. Each jewel reflects every other jewel. (In a net, what matters is which knots are joined, not how the net is folded. A circuit is a small net of joins too.)
@@ -332,7 +332,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   *Parent says:* Draw the bulb big. Label the glass, the coil, the two thick wires, the tip and the side.  
   *Child mode:* Draw the bulb. Label the parts.
   - Check: Which part of a bulb glows? → **The thin coiled wire, called the filament**
-### a3 · Count the Twos: why everything has two metal ends (12 min)
+### a3 · Count the Twos: why cells, bulbs and plugs need two (12 min)
 - **safety:** A grown-up switches off and unplugs every appliance first. Children only look at plugs that are out of the wall. Never touch a socket or a plug that is in the wall.
 - **record:** A tally table: each thing, and how many metal ends or pins it has. Circle every 2.
 - **s1 (3 min)**  
@@ -397,9 +397,9 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 
 ## Worksheets
 ### Making a circuit (core, 10 questions)
-1. (mcq) Which of these will make the bulb shine?  
-   Options: One wire from the cell to the bulb / A wire from each end of the cell to the bulb / A cell next to the bulb, with no wires  
-   **Answer:** A wire from each end of the cell to the bulb. *Why:* Electricity flows out of one end of the cell, through the bulb, and back into the other end. A strong answer says the path must go all the way round.
+1. (mcq) Hari has a cell, a bulb and one wire, and the bulb stays dark. What must he add?  
+   Options: A second wire, back to the other end of the cell / A longer wire / A second bulb  
+   **Answer:** A longer wire. *Why:* Electricity flows out of one end of the cell, through the bulb, and back into the other end. A strong answer says the path must go all the way round.
 2. (draw) Draw your circuit: a cell, two wires and a bulb. Draw arrows to show the electricity going round.  
    **Answer:** A cell with one wire from each end to the bulb, and arrows going round in a ring.. *Why:* A strong drawing shows a complete ring, with no gaps and with the two wires on different ends of the cell.
 3. (match) Draw a line from each word to what it means.  
@@ -422,9 +422,9 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 1. (odd) Three of these circuits light the bulb. Which one stays dark?  
    Options: Wires crossed in an X / One wire coiled like a spring / Both wires on the bump of the cell / Very long wires  
    **Answer:** 2. *Why:* With both wires on the bump, there is no path to the flat end. Crossed, coiled and long wires still make a complete path.
-2. (mcq) Anjali turns the cell round in her circuit. What happens?  
-   Options: The bulb lights the same / The bulb goes dark / The bulb gets twice as bright  
-   **Answer:** The bulb lights the same. *Why:* Both ends of the cell are still joined to the bulb. A plain bulb lights whichever way round the cell is.
+2. (mcq) Which of these needs its cell the right way round?  
+   Options: A TV remote / A plain torch bulb in a circuit / A foil wire  
+   **Answer:** A TV remote. *Why:* A remote has tiny parts inside that need the electricity to flow one way. A plain bulb lights whichever way round the cell is.
 3. (order) Put the path of the electricity in order, starting at the bump of the cell.  
    **Answer:** ['the first wire', 'the bulb', 'the second wire', 'the flat end of the cell']. *Why:* Electricity leaves the bump, goes along the first wire, through the bulb, along the second wire, and back into the flat end.
 4. (write) Say out loud, and a grown-up writes it down: why does every plug have at least two pins?  
@@ -463,8 +463,8 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    Options: The filament / The wire's copper / The wire's plastic cover / The cell  
    **Answer:** 2. *Why:* Electricity flows through the metal: the copper, the filament and through the cell. The plastic cover keeps it inside the wire.
 10. (mcq) A Venus flytrap shuts only after an insect touches her trigger hairs twice. What carries the message through her leaf?  
-   Options: An electric signal / A wire / A cell  
-   **Answer:** An electric signal. *Why:* Each touch sends a tiny electric signal through her leaf. She has no wires or cells, but she uses electricity, as our nerves do.
+   Options: An electric signal / A wire / An AA cell  
+   **Answer:** An electric signal. *Why:* Each touch sends a tiny electric signal through her leaf. She has no wires or AA cells, but she uses electricity, as our nerves do.
 
 ## Videos
 - **A child building a simple circuit with a cell, wires and a bulb** (, 3 min) id `to find`: Shows a real circuit being built, the bulb lighting and going dark when one wire is unclipped. *Check:* Find a short real-footage clip, without music that drowns the words. Check that it uses only small cells and no wall sockets.
@@ -515,7 +515,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 ## Spotted around us
 - In Madurai and Chennai, homes light up their golu dolls with strings of tiny bulbs for Navaratri. Each string is one long circuit.
 - In Kolkata during Durga Puja, pandals glow with thousands of small lights, joined by wires that run behind the cloth.
-- A fruit seller's cart at a night market in Hyderabad often has a small light run from a battery.
+- Many fruit sellers' handcarts at night markets, as in Hyderabad, have a small light run from a battery.
 - A cycle rickshaw in Guwahati or Patna may have a small light at the front, joined by wires to a battery.
 - The lighthouse at Mamallapuram, near Chennai, shines its light far out over the sea at night.
 
@@ -558,7 +558,7 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 - [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with galleries on electricity and electronics.
 
 ## Things to buy
-- [A school electric circuit kit: an AA cell holder, torch bulbs (1.5 V or 2.5 V) with holders, and crocodile-clip wires](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Folded kitchen foil can stand in for wires. Used in e1, e2, a1, a2, p1. 
+- [A school electric circuit kit: an AA cell holder, torch bulbs (1.5 V or 2.5 V) with holders, and crocodile-clip wires](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. A torch at home that is not an LED torch has a bulb you can take out, and the cells in a TV remote are AA cells. Folded kitchen foil can stand in for wires. Used in e1, e2, a1, a2, p1. 
 
 ## Warm-up
 - How many wires does a bulb circuit with one cell need? → Two. One out to the bulb and one back to the cell.

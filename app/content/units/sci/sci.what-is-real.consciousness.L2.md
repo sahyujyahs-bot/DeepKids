@@ -51,13 +51,13 @@ The fan hums all evening, and after a while you stop hearing it. The sound still
 In the lemon test, everyone tasted the same lemon juice. Yet people often showed different numbers of fingers for the sour. Even when two people both show four fingers, nobody can be sure their sours feel the same. You cannot step inside another person's tongue to check. So we share our experiences by telling each other about them.
 - e.g. You and your friend both say a mango is sweet, but each of you has your own sweet.
 - e.g. A song can make one person happy and another person sad.
-- e.g. A cold floor may feel nice to you and too cold to your Paati.
+- e.g. A cold floor may feel nice to you and too cold to an older person.
 ### Awake, dreaming and deep sleep · *defined*
 **Definition:** When you are awake, you are aware of the world around you. When you dream, you are aware of a world your sleeping mind makes. In deep sleep you are aware of very little, and later you remember almost nothing of it.
 
 Every night you go through deep sleep and dreaming sleep several times. In a dream, strange things can feel normal, such as flying or talking to a fish. While you dream, the dream usually feels real. Almost everyone dreams every night, even people who remember no dreams. Doctors can also make a person unaware for an operation, with medicines called anaesthetics. Afterwards the person remembers nothing of the operation.
 - e.g. Awake: you hear Amma call and you answer.
-- e.g. Dreaming: you fly over the Howrah Bridge on a giant kite.
+- e.g. Dreaming: you swim through the sky among the clouds.
 - e.g. Deep sleep: the night passes, and in the morning it feels as if no time went by.
 ### Who else is aware? · *debated*
 Every living being notices their world in their own way. An ant notices the smell of food. A crow notices you at the window. A tulsi plant notices which way the light comes from, and grows towards it. Awareness does not need a brain, and it runs through everything, down to the smallest particle. Scientists still argue about which beings are aware, and how.
@@ -70,12 +70,12 @@ Every living being notices their world in their own way. An ant notices the smel
 
 ## Mostly agreed
 - You notice only a small part of what your senses take in. Attention picks out what you notice. *How we know:* In 1999, Daniel Simons and Christopher Chabris asked people to count ball passes in a short film. About half of them did not notice a person in a gorilla suit walking through the middle.
-- You stop noticing a sound, smell or touch that goes on without changing, and you notice when it changes. *How we know:* People in every country report that they stop smelling their own home and notice the quiet when a fan or fridge stops. Experiments on habituation show the same in many animals, including us.
+- You stop noticing a sound, smell or touch that goes on without changing, and you notice when it changes. *How we know:* Many people say that they stop smelling their own home and notice the quiet when a fan or fridge stops. Experiments on habituation show the same in many animals, including us.
 - Almost everyone dreams every night, even people who say they never dream. *How we know:* In sleep laboratories since the 1950s, people woken during dreaming sleep usually say they were having a dream, including people who remember no dreams at home.
 - Doctors can make a person unaware for an operation and then bring their awareness back. *How we know:* Anaesthetics have been used for operations since the 1840s. People wake up afterwards and remember nothing of the operation.
 
 ## How we found out
-**Colin Cherry, Donald Broadbent and Neville Moray in England, and Anne Treisman at the University of Oxford, From 1953 to 1960.** In 1953, Colin Cherry, a scientist in London, played two different spoken messages to people at once, one in each ear. He asked them to repeat one message aloud. Afterwards they could say almost nothing about the other message. In 1958, Donald Broadbent explained this with an idea: the mind shuts out the ear you are not listening to, like closing a door. Then the door idea began to crack. In 1959, Neville Moray found that people often heard their own name in the shut-out ear. In 1960, a young student at Oxford, Anne Treisman, tried a clever test. She played a story into one ear and a different story into the other. Halfway through, she swapped the stories over. Many people followed their story into the wrong ear for a word or two, without meaning to. So the ignored ear had not been shut out. Its sounds were turned down, and some of their meaning still got through. Treisman went on to become one of the best-known scientists of attention in the world.  
+**Colin Cherry, Donald Broadbent and Neville Moray in England, and Anne Treisman at the University of Oxford, From 1953 to 1960.** In 1953, Colin Cherry, a British scientist, played two different spoken messages to people at once, one in each ear. He asked them to repeat one message aloud. Afterwards they could say almost nothing about the other message. In 1958, Donald Broadbent explained this with an idea: the mind shuts out the ear you are not listening to, like closing a door. Then the door idea began to crack. In 1959, Neville Moray found that some people heard their own name in the shut-out ear. In 1960, a young student at Oxford, Anne Treisman, tried a clever test. She played a story into one ear and a different story into the other. Halfway through, she swapped the stories over. Many people followed their story into the wrong ear for a word or two, without meaning to. So the ignored ear had not been shut out. Its sounds were turned down, and some of their meaning still got through. Treisman went on to become one of the best-known scientists of attention in the world.  
 *What people believed before:* That the mind shuts out everything you are not paying attention to, like a closed door. Moray's own-name finding and Treisman's swapped-story test showed that ignored sounds are turned down, not shut out.
 
 ## Challenging perspectives
@@ -84,7 +84,7 @@ Every living being notices their world in their own way. An ant notices the smel
   Against: In the gorilla film test, about half the people did not see a gorilla walking past. In your sound test, you named far fewer sounds when you were busy.
 - **Sounds you are not paying attention to are shut out completely, like a closed door.** (Donald Broadbent, a British scientist, in 1958; *rejected*)  
   For: In Colin Cherry's tests in 1953, people could say almost nothing about a message in the ear they were not listening to.  
-  Against: Neville Moray found in 1959 that people often heard their own name in that ear. Anne Treisman showed in 1960 that some meaning gets through.
+  Against: Neville Moray found in 1959 that some people heard their own name in that ear. Anne Treisman showed in 1960 that some meaning gets through.
 - **Only humans are really aware.** (Many people in the past, and some today; *rejected*)  
   For: Only humans can tell us in words what they experience.  
   Against: Other animals play, feel pain and learn. In 2024, many scientists signed the New York Declaration, saying there is strong evidence that mammals and birds are aware.
@@ -103,7 +103,7 @@ We have tested what we notice when busy and when still, and what the same lemon 
 - *what is life:* Being alive means noticing your world and answering it: an ant notices a crumb, a plant notices the light, you notice a horn.
 - *what is this world:* The world is full of sounds, smells and sights at every moment. Each being notices a different part of it.
 
-At any moment there is one world of sound in your flat. You, Paati, a crow on the ledge and an ant on the floor each notice a different part of it. Each of them is aware in their own way. Awareness runs through all of them, and through everything, down to the smallest particle. So one world is being noticed in countless ways at once.
+At any moment there is one world of sound in your flat. You, a grown-up at home, a crow on the ledge and an ant on the floor each notice a different part of it. Each of them is aware in their own way. Awareness runs through all of them, and through everything, down to the smallest particle. So one world is being noticed in countless ways at once.
 
 - **Mandukya Upanishad, verses 3 to 7:** This Upanishad describes waking, when we are aware of the world outside, dreaming, when we are aware of a world inside, and deep sleep, when we are aware of almost nothing. It names a fourth, turiya: the awareness that is there through all three. (In this unit you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.)
 - **Satipatthana Sutta, the Buddha's teaching on mindfulness (Majjhima Nikaya 10):** The Buddha taught: when walking, know that you are walking. When breathing in, know that you are breathing in. (This is attention on purpose. It is what you did in the still round of the sound test, when you noticed sounds you had been missing.)
@@ -114,10 +114,10 @@ At any moment there is one world of sound in your flat. You, Paati, a crow on th
 - Practice, The Last of the Sound (3 min): Sit comfortably and close your eyes. I will tap this steel tumbler once with a spoon. Listen as the sound gets softer and softer. Raise your hand when it is gone. Keep your eyes closed. What is the next sound you notice? And the next?
 - Ask: When a sound fades from your notice, where does it go?
 - Ask: Is the ant on the kitchen floor noticing you, the way you notice the ant?
-- Ask: Is your sour the same as Paati's sour? How could anyone ever find out?
+- Ask: Is your sour the same as someone else's sour at home? How could anyone ever find out?
 
 ## Deep and big questions
-- *big:* When you and Amma hear the same pressure cooker whistle, do you hear the same sound? (hint: The same sound reaches both of you. But each of you has your own experience of it. How could you ever check?)
+- *big:* When you and a grown-up at home hear the same pressure cooker whistle, do you hear the same sound? (hint: The same sound reaches both of you. But each of you has your own experience of it. How could you ever check?)
 - *deep:* When you stop noticing the fan, where does its sound go? (hint: Think about the moment the fan stopped. How did you know it had stopped, if you were not hearing it?)
 - *big:* What is it like to be an ant on the kitchen floor? (hint: An ant smells and feels the floor through their feelers and feet. Their world is full of smells you cannot sense.)
 - *deep:* In a dream, who is noticing the dream? (hint: Your body is lying still in bed. Yet something is aware of the dream.)
@@ -198,10 +198,10 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Parent says:* Which pile is biggest? What does that tell us about noticing?  
   *Child mode:* Count each pile. Which is biggest?
   - Ask: What does the biggest pile tell us? (good: Lots of things are there that we don't notice.; We notice things when we pay attention.)
-  - Check: You stop noticing the fan after a while. What is this called? → **Getting used to it**
+  - Check: You hardly feel your heartbeat, but after running you do. What changed? → **Your heart beats harder and faster, so you notice it**
 ### g2 · Awake, Dream, Deep Sleep: a moving game (10 min)
 - **rules:** Choose a caller. Everyone else stands in a space with room to move.; Awake: walk around and look about. Dream: float your arms slowly like you are flying. Deep sleep: lie down very still.; The caller reads a card out loud.; Players act out awake, dream or deep sleep.; The caller turns the card and reads the answer.; Take turns being the caller.
-- **Printable cards: 12 caller cards, with the answer on the back:** Amma calls you for breakfast, and you answer. (back: Awake. You notice the world around you and answer it.); You fly over the Howrah Bridge on a giant kite. (back: Dream. Your sleeping mind made this world.); The night passes, and in the morning it feels as if no time went by. (back: Deep sleep. You were aware of very little, and remember almost nothing.); Your teacher turns into a peacock, and you are not surprised. (back: Dream. In dreams, strange things often feel normal.); You count the whistles of the pressure cooker. (back: Awake. Your attention is on the cooker.); You are lying still, breathing slowly, and a soft sound does not wake you. (back: Deep sleep. Quiet sounds do not reach your notice.); You talk to a fish in a Kerala backwater, and the fish talks back. (back: Dream. Your mind is making the fish and their voice.); You taste lemon juice and make a face. (back: Awake. You are aware of the sour.); You run and run but your legs move slowly, as if in thick payasam. (back: Dream. Many people have this kind of dream.); Your body grows and mends itself while you know nothing about it. (back: Deep sleep. Your body is very busy, but you are aware of very little.); You notice the gecko on the wall and watch her catch a moth. (back: Awake. You are noticing another noticer.); You wake up and say, 'That felt so real!' (back: Awake, just after a dream. Dreams usually feel real while we are in them.)
+- **Printable cards: 12 caller cards, with the answer on the back:** Amma calls you for breakfast, and you answer. (back: Awake. You notice the world around you and answer it.); You fly over the Howrah Bridge on a giant kite. (back: Dream. Your sleeping mind made this world.); The night passes, and in the morning it feels as if no time went by. (back: Deep sleep. You were aware of very little, and remember almost nothing.); Your teacher turns into a peacock, and you are not surprised. (back: Dream. In dreams, strange things often feel normal.); You count the whistles of the pressure cooker. (back: Awake. Your attention is on the cooker.); You are lying still, breathing slowly, and a soft sound does not wake you. (back: Deep sleep. Quiet sounds do not reach your notice.); You talk to a fish in a Kerala backwater, and the fish talks back. (back: Dream. Your mind is making the fish and their voice.); You taste lemon juice and make a face. (back: Awake. You are aware of the sour.); You run and run but your legs move slowly, as if in thick payasam. (back: Dream. Many people have this kind of dream.); Someone gently tucks a blanket over you, and in the morning you do not know it happened. (back: Deep sleep. When you are deeply asleep, very little reaches your notice, even a touch.); You notice the gecko on the wall and watch her catch a moth. (back: Awake. You are noticing another noticer.); You wake up and say, 'That felt so real!' (back: Awake, just after a dream. Dreams usually feel real while we are in them.)
 - **s1 (2 min)**  
   *Parent does:* Show the three moves.  
   *Parent says:* Awake, walk and look about. Dream, float your arms. Deep sleep, lie still as a log.  
@@ -213,7 +213,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   - Ask: How did you know it was a dream? (good: People can't fly on kites.; Strange things felt normal.)
 - **s3 (1 min)**  
   *Parent does:* Finish with everyone lying still.  
-  *Parent says:* Last card is deep sleep. Lie still. What are you aware of right now?  
+  *Parent says:* Now everyone lies still, like deep sleep. What are you aware of right now?  
   *Child mode:* Lie still. What are you aware of now?
   - Check: In which state do you remember almost nothing afterwards? → **Deep sleep**
 
@@ -221,14 +221,14 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 ### e1 · Busy or Still: do you notice more sounds when you pay attention? (25 min)
 - **question:** Do you notice more sounds when you sit still and listen than when you are busy with a job?
 - **predict:** Guess first. Will you notice more sounds while you are busy, while you sit still, or the same? Why do you think so?
-- **fair test:** Use the same room, the same two minutes and the same rule each time: tell all the sounds you noticed straight after, and each sound counts once. Only one thing changes: busy or still. Then do it again in a second room in the other order, so going second is not what makes the difference.
+- **fair test:** In each room, use the same two minutes and the same rule: tell all the sounds you noticed straight after, and count each sound once. The sound of the beans themselves does not count. Only one thing changes: a busy job or sitting still and listening. In the still round, keep your eyes on the bowl of beans, as you did in the busy round. Do the second room in the other order, so going second is not what makes the difference.
 - **record:** Fill in the results table with the number of sounds for each round. Circle the bigger number in each room.
 - **results table:** Room | Busy 2 minutes: sounds I noticed | Still 2 minutes: sounds I noticed
 - **s1 (3 min)**  
   *Parent does:* Ask the question. Wait for a guess and a reason. Write the guess at the top of the paper.  
   *Parent says:* We are going to count sounds. Will you notice more sounds while you are busy, or while you sit still? Why do you think so?  
   *Child mode:* Guess. Will you notice more sounds busy or still? Why?
-  - Ask: Why do you think so? (good: Still, because I can listen properly.; The same, because the sounds are the same.; Busy, because the beans make a noise too.)
+  - Ask: Why do you think so? (good: Still, because I can listen properly.; The same, because the sounds are the same.; Busy, because I will be moving and alert.)
   - Note: Any guess is fine if it has a reason. Do not say what usually happens.
 - **s2 (3 min)**  
   *Parent does:* 1. Mix the rajma and chana in the bowl. 2. Put the two katoris beside it. 3. Draw the results table with two rooms.  
@@ -239,13 +239,13 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Parent does:* Room 1, busy round. 1. Start the timer. 2. The child sorts beans for two minutes. 3. Stop. 4. The child tells every sound they noticed. Write the number.  
   *Parent says:* Ready? Sort as fast as you can. Keep your eyes on the beans. Stop! Now tell me every sound you noticed.  
   *Child mode:* Sort the beans fast for two minutes. Then tell every sound you heard.
-  - Note: Do not hint at any sound. Count each sound once, even if it came many times. Your own voice saying start and stop does not count.
+  - Note: Do not hint at any sound. Count each sound once, even if it came many times. Your own voice saying start and stop does not count, and neither does the sound of the beans.
 - **s4 (4 min)**  
-  *Parent does:* Room 1, still round. 1. Put the beans back in the bowl. 2. Start the timer. 3. The child sits still with eyes shut for two minutes. 4. The child tells every sound. Write the number.  
-  *Parent says:* Now sit still and shut your eyes. Just listen. Stop! Tell me every sound you noticed.  
-  *Child mode:* Sit still. Shut your eyes. Listen for two minutes. Then tell every sound.
+  *Parent does:* Room 1, still round. 1. Pour the beans back into the bowl and stir them. 2. Start the timer. 3. The child sits still for two minutes, looking at the bowl and listening. 4. The child tells every sound. Write the number.  
+  *Parent says:* Now sit still. Keep your eyes on the bowl and just listen. Stop! Tell me every sound you noticed.  
+  *Child mode:* Sit still. Look at the bowl. Listen for two minutes. Then tell every sound.
 - **s5 (6 min)**  
-  *Parent does:* Room 2, the other order. 1. Move to a second room, for example the kitchen or a bedroom. 2. Do the still round first. 3. Then mix the beans and do the busy round. 4. Write both numbers.  
+  *Parent does:* Room 2, the other order. 1. Move to a second room, for example the kitchen or a bedroom. 2. Do the still round first. 3. Then stir the beans and do the busy round. 4. Write both numbers.  
   *Parent says:* This time we do the still round first, then the busy round. Why do you think we swap the order?  
   *Child mode:* New room. Still round first. Then the busy round.
   - Ask: Why do we swap the order? (good: In case going second helps you.; So it is fair for both kinds of round.)
@@ -255,7 +255,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Parent says:* Look at your table. In which round did you notice more sounds? Was it the same in both rooms? Was your guess right?  
   *Child mode:* Look at your numbers. Which round was bigger? Was your guess right?
   - Ask: What did you find? (good: I noticed 2 sounds busy and 8 sounds still.; Still was bigger in both rooms.)
-  - Note: Most children notice two or three times as many sounds when still. If busy came out the same or bigger, ask why. Perhaps they listened while sorting, or the beans were noisy. That is a real finding too. Only after the child has said what they saw, read the card on attention.
+  - Note: Most children notice two or three times as many sounds when still. If busy came out the same or bigger, ask why. Perhaps they listened while sorting. That is a real finding too. Only after the child has said what they saw, read the card on attention.
 - **s7 (2 min)**  
   *Parent does:* Ask about one steady sound, such as the fan or fridge, that was on in both rounds.  
   *Parent says:* Was the fan running in the busy round too? Did you notice it then? So did the room change, or did something in you change?  
@@ -272,8 +272,8 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Parent does:* Ask the question. Wait for a guess and a reason.  
   *Parent says:* Everyone will taste the same lemon. Will everyone show the same number of sour fingers? Why do you think so?  
   *Child mode:* Same lemon for everyone. Same fingers? Why?
-  - Ask: Why do you think so? (good: The same, because it is the same lemon.; Different, because Paati likes sour things.; Different, because people are different.)
-  - Note: Any guess is fine if it has a reason. Ask everyone at home who is willing to taste.
+  - Ask: Why do you think so? (good: The same, because it is the same lemon.; Different, because some people like sour things.; Different, because people are different.)
+  - Note: Any guess is fine if it has a reason. Ask everyone at home who is willing to taste. Skip anyone who has a mouth ulcer or does not want to.
 - **s2 (3 min)**  
   *Parent does:* 1. Show the finger scale: 1 finger is a little sour, 5 fingers is very sour. 2. Squeeze three drops onto each spoon.  
   *Parent says:* One finger means a little sour. Five fingers means very, very sour. Three drops each, on your own spoon.  
@@ -289,7 +289,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Child mode:* Say one word for how it felt.
 - **s5 (3 min)**  
   *Parent does:* Look at the table together.  
-  *Parent says:* Did everyone show the same number? If Amma and I both showed four, did we feel the same sour? How could we check?  
+  *Parent says:* Did everyone show the same number? If two of us both showed four, did we feel the same sour? How could we check?  
   *Child mode:* Did everyone show the same? Can you check someone else's sour?
   - Ask: Can we know if two fours feel the same? (good: No, I can only feel my own sour.; We can only tell each other in words and fingers.)
   - Note: Numbers usually differ a little. If everyone showed the same, the question still stands: is your four the same as mine? There is no way to check from the outside. That is the point of the test. Only after the child has said what they think, read the card on what it is like to be you.
@@ -312,7 +312,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Parent says:* Did anything change just now? Before it stopped, were you hearing the sound?  
   *Child mode:* Did something change? Were you hearing it before?
   - Ask: Were you hearing the sound before it stopped? (good: I forgot about it, but I noticed when it stopped.; No, but the quiet felt different.)
-  - Note: Most children notice the stop, yet say they had stopped hearing the sound. This is getting used to it, or habituation. The sound kept reaching their ears all along. That is how they could notice it stop.
+  - Note: Most children notice the stop, yet say they had stopped hearing the sound. This is getting used to it, or habituation. The sound kept reaching their ears all along. That is how they could notice it stop. If your child did not notice the stop, that is a real finding too: they were fully busy with the drawing.
 ### a2 · Watch a Noticer: what does another being notice? (10 min)
 - **record:** A drawing of the being, with arrows to what they noticed.
 - **s1 (2 min)**  
@@ -356,7 +356,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 
 ## Projects
 ### p1 · My Noticing Diary: five days, five senses (50 min, 5 days)
-- **record:** The five-page diary, with one drawing and one sentence a day.
+- **record:** The five-page diary, with one drawing and one sentence a day. The child says the sentence and a grown-up can write it.
 - **schedule:** day 1: Seeing: find one thing in your home you have never noticed before, and draw it. (10 min); day 2: Hearing: sit still at a window for two minutes, then draw the sound you had never noticed before. (10 min); day 3: Touch: feel five surfaces with your eyes shut, and draw the one that surprised you. (10 min); day 4: Smell: smell five things in the kitchen with your eyes shut, such as jeera, coffee, coconut, a lemon and soap. Draw your favourite. (10 min); day 5: Taste: eat one small piece of fruit very slowly, and draw how the taste changed. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Day 1. Make the book. Then do the seeing page.  
@@ -379,7 +379,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 ## Challenges
 ### c1 · A Sign Nobody Can Miss (20 min)
 - **problem:** Your family keeps forgetting to switch off the bathroom light. Make a reminder that they will still notice on the third day.
-- **your turn:** Make your own reminder. Each evening for three days, count how many times the light was left on. Did your reminder still work on day 3?
+- **your turn:** Make your own reminder. First, count how many times the light is left on in one evening with no sign. Then put your reminder up, and each evening for three days count again. Did your reminder still work on day 3?
 - **constraints:** Use only things from home, such as paper, crayons, string and tape.; No loud noises.; It must still work on the third day, not only the first.
 - **general:** A big, bright sign at eye level next to the switch.; A sign with a picture of a light bulb and the word OFF.
 - **creative:** Change the sign's colour or picture every day, so nobody gets used to it.; Hang a paper strip from the door frame that brushes your head as you walk out, so you feel the reminder.
@@ -400,35 +400,35 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 
 ## Worksheets
 ### Noticing (core) (core, 10 questions)
-1. (mcq) Remember the sound test. In which round did you name more sounds?  
-   Options: The busy round / The still round / Both the same  
-   **Answer:** The still round. *Why:* Most children name more sounds in the still round, because their attention is on the sounds. If yours came out differently, say why you think it did.
-2. (draw) Draw yourself in the still round of the sound test. Draw three sounds you noticed around you.  
+1. (draw) Draw yourself in the still round of the sound test. Draw three sounds you noticed around you.  
    **Answer:** A child sitting still with eyes shut, and three sound makers such as a fan, a crow and a car.. *Why:* A strong drawing shows the child still, and real sounds from their own test.
-3. (fill) Choosing what to notice is called your ___.  
+2. (fill) Choosing what to notice is called your ___.  
    **Answer:** attention. *Why:* Attention picks out a small part of everything your senses take in.
-4. (match) Draw a line from each word to what it means.  
+3. (match) Draw a line from each word to what it means.  
    **Answer:** aware → knowing or feeling that something is there; attention → choosing what to notice; experience → what something is like for you. *Why:* These three words are the heart of this unit.
-5. (sort) Sort these sounds into steady sounds we stop noticing, and sudden sounds we notice at once.  
+4. (sort) Sort these sounds into steady sounds we stop noticing, and sudden sounds we notice at once.  
    **Answer:** the fan's hum → Steady: we stop noticing; a cooker whistle → Sudden: we notice at once; the fridge buzzing → Steady: we stop noticing; the doorbell → Sudden: we notice at once; traffic far away → Steady: we stop noticing; a plate falling → Sudden: we notice at once. *Why:* We get used to sounds that go on without changing. A sudden sound is a change, so we notice it.
-6. (truefalse) True or false: when you stop noticing the fan, its sound stops reaching your ears.  
-   **Answer:** False. *Why:* False. The sound still reaches your ears. That is how you notice at once when the fan stops.
-7. (write) Say out loud, and a grown-up writes it down: why did you notice more sounds when you sat still?  
+5. (write) Say out loud, and a grown-up writes it down: why did you notice more sounds when you sat still?  
    **Answer:** Because my attention was on the sounds, not on the beans.. *Why:* A strong answer says the sounds were the same, and only where the attention went changed.
-8. (odd) Which one is the odd one out? A fan humming, a fridge buzzing, a doorbell ringing, traffic far away.  
-   Options: A fan humming / A fridge buzzing / A doorbell ringing / Traffic far away  
-   **Answer:** 2. *Why:* The doorbell is a sudden sound that we notice at once. The others are steady sounds we get used to.
-9. (count) In the Five Things Right Now game, you notice 5 things you see, 4 you hear and 3 you feel. How many things is that?  
-   **Answer:** 12. *Why:* 5 + 4 + 3 = 12. Adding 2 smells and 1 taste would make 15.
-10. (label) Label the picture: draw an arrow to what Meenakshi is noticing, and one to a sound she is not noticing.  
+6. (label) Label the picture: draw an arrow to what Meenakshi is noticing, and one to a sound she is not noticing.  
    **Answer:** ['her sums in the notebook', 'the ceiling fan']. *Why:* Her attention is on her sums. The fan's sound reaches her, but she has got used to it.
+7. (write) Name one sound at home that you hardly ever notice. How could you make yourself notice it? Say it out loud and a grown-up can write it down.  
+   **Answer:** For example: the fridge hum. I could sit still, shut my eyes and listen for it.. *Why:* A strong answer names a real steady sound and says that paying attention, or a change, makes us notice it.
+8. (mcq) In the lemon test, people showed different numbers of fingers for the same lemon. What does this tell us?  
+   Options: Some of them tasted it wrongly / Each person has their own experience, and we learn about it by being told / The lemon changed for each person  
+   **Answer:** Each person has their own experience, and we learn about it by being told. *Why:* Only you have your own sour. Other people learn about it from your words, your face and your fingers.
+9. (mcq) Mira, a girl in Goa, says she flew like a bird in a dream last night. Where was her body?  
+   Options: Flying in the sky / Lying in bed / On the roof  
+   **Answer:** Lying in bed. *Why:* In a dream you are aware of a world your sleeping mind makes. Your body stays in bed.
+10. (truefalse) True or false: almost everyone dreams every night, even people who forget their dreams.  
+   **Answer:** True. *Why:* True. People woken during dreaming sleep in sleep laboratories usually say they were dreaming, even if they forget their dreams at home.
 ### Being You (stretch) (stretch, 10 questions)
 1. (perspective) Nandini, aged 7, and her Thatha tasted the same lemon juice in the lemon test.  
    **Answer:** A strong answer picks a side with a reason. Nandini has evidence: the numbers were different. Thatha has a point too: one person's 5 may not mean the same as another person's 5. Nobody can check from the outside.. *Why:* Both views are real. This is why scientists find experience so hard to study.
 2. (mcq) Riya, a girl in Class 2, did the sound test in one room only. She did the busy round first and the still round second. The still round won. What else could explain it?  
    Options: Nothing else could explain it / In the second round she already knew to listen for sounds / The beans were too big  
    **Answer:** In the second round she already knew to listen for sounds. *Why:* Going second may have helped her. That is why the test is done again in a second room, in the other order.
-3. (write) Farhan, a boy in Class 2, says, 'I didn't hear the fan, so the fan made no sound.' What would you tell him?  
+3. (write) Farhan, a boy in Class 2, says, 'I didn't hear the fan, so the fan made no sound.' What would you tell him? Say it out loud and a grown-up can write it down.  
    **Answer:** The fan was making a sound, but he had got used to it. If it stopped, he would notice.. *Why:* A strong answer says that not noticing a sound is different from no sound, and gives a way to show it, such as switching the fan off.
 4. (truefalse) True or false: you can feel exactly what your friend feels when she tastes a lemon.  
    **Answer:** False. *Why:* False. Only she has her experience. You learn about it from her words, her face and her fingers.
@@ -446,28 +446,29 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
    Options: Seeing / Hearing / Smelling / Deep sleep  
    **Answer:** 3. *Why:* Seeing, hearing and smelling are ways of noticing the world. In deep sleep you are aware of very little.
 ### Questions Nobody Has Finished Answering (challenge) (challenge, 10 questions)
-1. (write) Many people think we notice everything in front of us. Plan a test at home to check. What would you do?  
-   **Answer:** For example: ask Amma to count how many times a ball is passed, while Paati walks past with a pillow on her head. Then ask Amma if she saw anything odd.. *Why:* A strong plan gives the watcher a busy job, adds something unusual, and asks afterwards. That is how Daniel Simons and Christopher Chabris did their gorilla test.
+1. (write) Many people think we notice everything in front of us. Plan a test at home to check. What would you do? Say it out loud and a grown-up can write it down.  
+   **Answer:** For example: ask a grown-up to count how many times a ball is passed, while someone walks past with a pillow on their head. Then ask if they saw anything odd.. *Why:* A strong plan gives the watcher a busy job, adds something unusual, and asks afterwards. That is how Daniel Simons and Christopher Chabris did their gorilla test.
 2. (perspective) Two scientists are talking about a touch-me-not plant, who folds her leaves when touched.  
    **Answer:** A strong answer picks a side and uses evidence: the medicine result, or the fact that brains change awareness in people. Then it says what the other side has right.. *Why:* Scientists really do argue about this. Both use real evidence.
 3. (mcq) Mohona, a girl in Kolkata, did the busy round in a noisy room in the day and the still round in a quiet room at night. The busy round won. Can she say being busy helps you notice sounds?  
    Options: Yes, the busy round won / No, because the room and the time changed too / Yes, because night is always quiet  
    **Answer:** No, because the room and the time changed too. *Why:* In a fair test only one thing changes. Her busy room simply had more sounds in it.
-4. (draw) Draw yourself asleep in bed with a dream above your head. Under it, write who you think is noticing the dream.  
-   **Answer:** A child asleep with a dream cloud, and a sentence such as 'I am, while my body sleeps.'. *Why:* There is no single right answer. A strong drawing shows the body still and the dream as something the sleeper is aware of.
-5. (truefalse) True or false: scientists know exactly how being aware happens.  
+4. (truefalse) True or false: scientists know exactly how being aware happens.  
    **Answer:** False. *Why:* False. Nobody knows how or why being aware happens at all. This is one of the biggest open questions in science.
-6. (count) Tsering, a girl in Gangtok, did the still round in three rooms. She noticed 6, 7 and 8 sounds. How many sounds is that in all?  
+5. (count) Tsering, a girl in Gangtok, did the still round in three rooms. She noticed 6, 7 and 8 sounds. How many sounds is that in all?  
    **Answer:** 21. *Why:* 6 + 7 + 8 = 21. In her busy rounds she noticed 2, 3 and 1, which is only 6 in all.
-7. (label) Label the three pictures: awake, dreaming and deep sleep.  
+6. (label) Label the three pictures: awake, dreaming and deep sleep.  
    **Answer:** ['the child brushing teeth is awake', 'the child with a dream cloud is dreaming', 'the child asleep with no cloud is in deep sleep']. *Why:* Each picture shows a different way of being aware, or of being aware of very little.
-8. (write) If you stop noticing the smell of your own home, has the smell gone? How could a visitor help you find out?  
+7. (write) If you stop noticing the smell of your own home, has the smell gone? How could a visitor help you find out? Say it out loud and a grown-up can write it down.  
    **Answer:** No. The smell is still there. A visitor who has not got used to it can tell you what they smell.. *Why:* A strong answer says that getting used to a smell is different from the smell going, and uses someone fresh to check.
-9. (mcq) Which of these shows that the fan's sound still reaches you when you are not noticing it?  
+8. (mcq) Which of these shows that the fan's sound still reaches you when you are not noticing it?  
    Options: You notice at once when the fan stops / You hear the doorbell / You sing a song  
    **Answer:** You notice at once when the fan stops. *Why:* If the sound was not reaching you, you could not notice the change when it stops.
-10. (sort) Sort these things your body does into 'I usually notice' and 'I usually do not notice'.  
+9. (sort) Sort these things your body does into 'I usually notice' and 'I usually do not notice'.  
    **Answer:** blinking → I usually do not notice; a mosquito bite → I usually notice; digesting food → I usually do not notice; feeling hungry → I usually notice; hair growing → I usually do not notice; a sneeze → I usually notice. *Why:* Your body does a great deal without your noticing. Changes, such as a bite or a sneeze, catch your attention.
+10. (mcq) In 1960, Anne Treisman, a student at Oxford, played one story into each ear and swapped the stories halfway. Many people followed their story into the wrong ear for a word or two. What did this show?  
+   Options: The ear they ignored was shut out completely / Some meaning from the ignored ear still gets through / People cannot hear with two ears  
+   **Answer:** Some meaning from the ignored ear still gets through. *Why:* If the ignored ear were shut out like a closed door, nobody could follow a story into it. Its sounds are turned down, not shut out.
 
 ## Videos
 - **The selective attention test (the gorilla film)** (, 2 min) id `to find`: Your child counts ball passes and may miss something surprising, after they have done the sound test. *Check:* Find the original short film by Daniel Simons and Christopher Chabris. Watch it first, as it works only if the child does not know the surprise.
@@ -498,7 +499,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 8. (mcq) Divya, a girl in Kochi, shows 4 fingers for the sour. How can her Amma learn what Divya's sour was like?  
    Options: By looking inside her mouth / From what Divya tells and shows her / By tasting more lemon herself  
    **Answer:** From what Divya tells and shows her. *Why:* Only Divya has her experience. Others learn about it from her words, face and fingers.
-9. (mcq) Lakshmi flies over Chennai on a giant kite and is not surprised. Is she awake, dreaming or in deep sleep?  
+9. (mcq) Lakshmi, a girl in Chennai, says she walked up the wall and across the ceiling, and it did not seem strange at all. Which state was she in?  
    Options: Awake / Dreaming / Deep sleep  
    **Answer:** Dreaming. *Why:* In dreams, strange things often feel normal. Her sleeping mind is making this world.
 10. (mcq) In which state are you aware of very little, and remember almost nothing later?  
@@ -514,16 +515,16 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 ## Applications
 - Traffic lights, ambulance sirens and road signs are made bright, flashing or changing, so drivers notice them.
 - Doctors called anaesthetists use medicines that make a person unaware during an operation, then let their awareness come back.
-- Alarms in trains and aeroplanes change their sound, because people stop noticing a sound that stays the same.
+- Many alarms beep in a changing pattern, because people stop noticing a sound that stays the same.
 - Teachers clap a rhythm or ring a bell to catch a class's attention.
-- Some schools in India teach children to notice their breath for a minute, to help them settle and pay attention.
+- Some schools teach children to notice their breath for a minute, to help them settle and pay attention.
 
 ## Spotted around us
 - In a Hyderabad flat, everyone notices the sudden quiet when the fan stops in a power cut.
 - A flower seller in a busy Chennai market hears her own name through all the noise.
 - A crow on a Kochi balcony turns her head the moment a steel plate clinks.
 - A tulsi plant on a Pune windowsill leans towards the light.
-- In a Guwahati home, a mother sleeps through the thunder but wakes at her baby's small cry.
+- In a Guwahati home, many mothers say they sleep through thunder but wake at their baby's small cry.
 
 ## Open questions
 - **How does being aware happen at all?** Scientists can see which parts of the brain are busy when people notice things. Nobody knows how or why that comes with an experience. The philosopher David Chalmers called this the hard problem in 1995.
@@ -532,28 +533,27 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 - **Why do we dream?** Scientists have many ideas, such as sorting memories or practising for danger. None has been proved.
 
 ## Questions to ask kids
-- Can you hear the fan right now? Were you hearing it a minute ago?
+- Close your eyes. How many different sounds can you count in one minute?
 - Which sound in our home do you never notice any more?
 - What is the quietest sound you can find in the flat?
 - What does it feel like to be you, right now, in one word?
 - Do you think the crow at the window is noticing us?
-- Did you dream last night? Who was noticing the dream?
+- Did you dream last night? What was in it?
 
 ## Jokes
 - Knock knock. Who's there? Attention. Attention who? *Attention, please! You weren't listening!*
 - Why did nobody notice the fan any more? *Because it never changed its tune!*
-- Why did the girl shut her eyes in the sound test? *To give her ears the spotlight!*
 - What did the sleepy girl say to her dream? *See you tonight!*
 - Why was the ant such a good listener? *She feels sounds through her legs, so she is all feet!*
 - Why was the lemon never lonely? *Everyone made a face when they met her!*
 - Why did the gecko sit next to the clock? *To catch the ticks!*
 - What do you call a dream about dosas? *A crispy dream!*
-- Why did the pressure cooker always get noticed? *Because she blew her whistle!*
+- Why did the pressure cooker always get noticed? *Because it blew its whistle!*
 
 ## Connected maths
 - Riya noticed 3 sounds in the busy round and 8 sounds in the still round, in the same room. How many more sounds did she notice when still? **5 more sounds.**. 8 take away 3 is 5. She noticed many more sounds when her attention was on sounds. (queues `math.addition-subtraction.meaning.L2`)
-- In a family sound test, these were the still-round counts, as tally marks. Paati: 7. Amma: 6. Arjun: 3. Meenakshi: 9. Who noticed the most sounds? Who noticed the fewest? **Meenakshi noticed the most, with 9. Arjun noticed the fewest, with 3.**. Put them in order: 3, 6, 7, 9. The biggest is 9 and the smallest is 3. (queues `math.data.sorting-and-tallies.L2`)
-- Sana did the sound test in four rooms. Busy: 2, 3, 1, 2. Still: 7, 6, 8, 5. In how many rooms did the still round win? What does that tell you that one room alone could not? **The still round won in all 4 rooms. So it was not a fluke of one room.**. Compare each pair: 7 is more than 2, 6 is more than 3, 8 is more than 1, 5 is more than 2. The same pattern four times makes it much more likely to be real. (queues `math.number-sense.comparing-ordering.L2`)
+- Four friends, Ananya, Bilal, Chitra and Deepa, did the still round of the sound test. They made tally marks for the sounds they noticed: Ananya 7, Bilal 6, Chitra 3, Deepa 9. Who noticed the most sounds? Who noticed the fewest? **Deepa noticed the most, with 9. Chitra noticed the fewest, with 3.**. Put them in order: 3, 6, 7, 9. The biggest is 9 and the smallest is 3. (queues `math.data.sorting-and-tallies.L2`)
+- Sana, a girl in Hyderabad, did the sound test in four rooms. Busy: 2, 3, 1, 2. Still: 7, 6, 8, 5. In how many rooms did the still round win? What does that tell you that one room alone could not? **The still round won in all 4 rooms. So it was not a fluke of one room.**. Compare each pair: 7 is more than 2, 6 is more than 3, 8 is more than 1, 5 is more than 2. The same pattern four times makes it much more likely to be real. (queues `math.number-sense.comparing-ordering.L2`)
 - In the lemon test, five people showed 3, 4, 4, 2 and 5 fingers. How many people showed more than 3? Does that mean the lemon tasted more sour to them? **3 people showed more than 3. We can't be sure the lemon tasted more sour to them, because one person's 4 may not feel the same as another's 4.**. 4, 4 and 5 are more than 3. That is 3 people. But the numbers are words for experiences, and only each person has their own experience. (queues `math.number-sense.comparing-ordering.L2`)
 - In Five Things Right Now, you notice 5 things you see, 4 you hear, 3 you feel, 2 you smell and 1 you taste. How many things is that in all? **15 things.**. 5 + 4 = 9. 9 + 3 = 12. 12 + 2 = 14. 14 + 1 = 15. (queues `math.addition-subtraction.number-facts.L2`)
 

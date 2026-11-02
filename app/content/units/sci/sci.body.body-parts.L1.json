@@ -7,8 +7,8 @@
   "art": "A child's hand with the thumb taped flat to the side, trying to pick up one grain of rice from a steel plate, while the other hand, thumb free, pinches a grain easily."
  },
  "intro": {
-  "hook": "Touch your nose. Now touch your elbow. Now try to touch your elbow with the hand on the same arm. Can you do it?",
-  "text": "You cannot touch an elbow with the hand on the same arm, because that arm can only bend one way at the elbow. Every part of your body helps you do some things, and not others. In this unit you name the parts of your body, from your head to your toes. You find out what each part helps you do. Then you tape your thumb down and test which jobs get hard.",
+  "hook": "Touch your nose. Now try to touch your right elbow with your right hand. Can you?",
+  "text": "Almost nobody can touch their elbow with the hand on the same arm. The elbow bends only one way, so the hand cannot get round to it. Every part of your body helps you do some things. In this unit you name your body parts, find what each one does, and tape your thumb down to see which jobs get hard.",
   "art": "A girl twisting and laughing as she tries to touch her right elbow with her right hand, while her grandmother watches."
  },
  "outcomes": [
@@ -56,7 +56,7 @@
    "concept": "Every part of your body helps you do something",
    "status": "defined",
    "definition": "Each body part helps you do some jobs. Many jobs need more than one part.",
-   "description": "Your eyes help you see, and your ears help you hear. Your nose helps you smell and breathe. Your mouth helps you eat, talk and sing. Your arms and hands help you hold and carry. Your legs and feet help you stand, walk and jump. Your skin covers all of you and feels every touch. Most jobs use many parts at once. To catch a ball, your eyes watch, your arms reach and your hands close.",
+   "description": "Eyes see and ears hear. Your nose smells and helps you breathe. Your mouth eats, talks and sings. Hands hold, legs walk, and skin feels every touch. Most jobs need many parts. To catch a ball, your eyes watch, your arms reach and your hands close.",
    "examples": [
     "To eat idli, your eyes find the idli, your fingers break a piece, your arm lifts it and your mouth chews.",
     "To kick a ball, one leg swings while the other leg holds you up.",
@@ -70,11 +70,11 @@
    "concept": "Your thumb meets your fingers",
    "status": "defined",
    "definition": "Your thumb can bend across your hand and press against each finger. Together, the thumb and a finger can pinch and grip.",
-   "description": "Your thumb is not in a row with your other fingers. It sits on the side of your hand, and it can swing across to meet each fingertip. When you pick up a grain of rice, the thumb presses from one side and a finger presses from the other. The grain is held between them. When your thumb was taped down, your fingers could only press against each other. That is why small things and buttons were so hard.",
+   "description": "Your thumb sits on the side of your hand and swings across to meet each fingertip. To pick up a grain of rice, the thumb presses from one side and a finger from the other. With your thumb taped, your fingers could only press on each other. That is why small things and buttons were so hard.",
    "examples": [
     "Doing up a button needs a pinch on each side of the button.",
     "Holding a crayon needs your thumb on one side and two fingers on the other.",
-    "Monkeys and apes have thumbs that can press against their fingers too. Our thumb is longer, so our thumb tip meets each fingertip easily."
+    "Apes and many monkeys have thumbs that press against their fingers too. Ours is longer, so it reaches every fingertip more easily."
    ],
    "perspectives": [],
    "context": "This card is about the thumb test, where you taped your thumb down and tried everyday jobs.",
@@ -84,11 +84,11 @@
    "concept": "Joints are where your body bends",
    "status": "defined",
    "definition": "A joint is a place where two bones meet. Bones do not bend, so your body bends at its joints. Muscles pull on the bones to move them.",
-   "description": "Bones are hard. A bone cannot bend, like a stick of sugarcane cannot bend much. Where two bones meet, there is a joint, and the joint can move. Your elbow, knee, wrist, ankle, neck, shoulder and knuckles are joints. Muscles pull on the bones, and the bones swing at the joint. When your elbow was wrapped in a newspaper tube, your arm could not bend. Your hand could not reach your mouth.",
+   "description": "Bones are hard and stay straight, like a pencil. Where two bones meet, there is a joint, and the joint can move. Muscles pull on the bones, and the bones swing at the joint. With the newspaper tube on your elbow, your arm could not bend, and your hand could not reach your mouth.",
    "examples": [
     "Your elbow and knee bend one way only, like a door on its hinges.",
     "Your shoulder can swing your arm round in a big circle.",
-    "Each finger has three joints, and your thumb has two that you can see bending."
+    "Each finger bends at three joints, and your thumb bends at two."
    ],
    "perspectives": [],
    "context": "This card is about joints, and the straight-arm test, where a newspaper tube stopped the elbow bending.",
@@ -98,7 +98,7 @@
    "concept": "Bodies are alike, and each body is different",
    "status": "defined",
    "definition": "Almost all people have the same kinds of body parts. But each person's body is a different size, shape and colour, and works in their own way.",
-   "description": "You and your grandmother both have two eyes, a nose, two hands and ten fingers and thumbs. But her hands may be bigger and more wrinkled than yours. People's skin, hair and eyes come in many colours. About one person in ten is left-handed. Some people are born with a different body, or lose a part after an accident. They often find another way to do the job. Many people who are deaf talk with their hands, in sign language. Some people with no arms learn to write and paint with their feet.",
+   "description": "You and your grandmother both have two eyes, a nose and two hands. But her hands may be bigger and more wrinkled than yours. Skin, hair and eyes come in many colours. About one person in ten is left-handed. Some people are born with a different body, or lose a part, and find another way to do the job. Many deaf people talk with their hands, in sign language.",
    "examples": [
     "The dancer Sudha Chandran lost her right leg after a road accident in the early 1980s. With an artificial leg called a Jaipur Foot, she danced Bharatanatyam on stage again.",
     "Draw round everyone's hand at home. Every hand has a thumb and four fingers, but no two hands are the same size.",
@@ -112,11 +112,11 @@
    "concept": "Humans and other animals have many of the same parts",
    "status": "defined",
    "definition": "Humans are animals, and many other animals have body parts like ours. Some animals have parts we do not have.",
-   "description": "A crow has two eyes, a beak, two legs and two wings. Inside a crow's wing are bones like the bones in your arm. A cat has elbows and knees, like you. An elephant's trunk is a long nose and upper lip, joined together. The tip of the trunk can pick up a single peanut. An ant has six legs and two feelers on their head. The feelers smell and touch, a little like your nose and your fingers together.",
+   "description": "A crow has two eyes, a beak, two legs and two wings. Inside a crow's wing are bones like the bones in your arm. A cat has elbows and knees, like you. An elephant's trunk is a long nose and upper lip joined together, and the tip of the trunk can pick up a single peanut. An ant has six legs and two feelers on their head. The feelers smell and touch.",
    "examples": [
     "Watch a crow at the window walk, hop and flap. The crow bends their legs at the joints, like you.",
     "A dog smells far more than we do, because so much of a dog's nose is for smelling.",
-    "You have a small tailbone at the bottom of your back. Most other animals with a backbone have a tail there."
+    "You have a small tailbone at the bottom of your back. Many other animals with a backbone have a tail there."
    ],
    "perspectives": [],
    "context": "This card is about body parts in humans and in other animals.",
@@ -125,7 +125,7 @@
   {
    "concept": "Does only your brain think?",
    "status": "debated",
-   "description": "Your whole body senses, feels and decides, not only your brain. If your hand touches a hot tawa, the hand jumps back before you even know it is hot. The message goes up your arm to your spine, and straight back to the arm muscles. Your tummy has millions of nerve cells of its own. They feel the food and decide how to move it along. Many scientists say the brain does the real thinking, and the rest of the body only sends and follows messages.",
+   "description": "Your whole body senses, feels and decides, not only your brain. If your hand touches a hot tawa, the hand jumps back before you even know it is hot. The message goes up your arm to your spine, and straight back to the arm muscles. Your tummy has millions of nerve cells of its own, which feel the food and move it along. Many brain scientists say the brain does the real thinking, and the rest of the body only sends and follows messages.",
    "examples": [
     "Your hand jumps back from a hot tawa before you feel the pain.",
     "Your eye blinks by itself when something comes close to it.",
@@ -189,7 +189,7 @@
   {
    "q": "When your thumb was taped, you found new ways to pick things up. Where did the new way come from?",
    "kind": "deep",
-   "hint": "Think about how you held the rice or the crayon with your thumb taped, and who worked out how to do it."
+   "hint": "Think about how you held the rice with your thumb taped, and who worked out how to do it."
   },
   {
    "q": "Which part of your body would you miss most if it stopped working for a day? Why?",
@@ -236,7 +236,7 @@
    "'Your hand is big and wrinkly,' he said. 'Mine is small and smooth.'",
    "'Count the fingers,' said Paati.",
    "Arjun counted. 'Four fingers and a thumb. Same as mine!'",
-   "'Same parts,' said Paati. 'Different hands. Your hand will grow. Mine has been growing for seventy years.'",
+   "'Same parts,' said Paati. 'Different hands. Your hand will grow. Mine has been working for seventy years.'",
    "By the time the sun came up, the neighbours were drawing their kolams too. Up and down the street there were white flowers, stars and lamps on the ground.",
    "Kavya bent down to look at her kolam. A line of tiny black ants was walking along one of her white lines.",
    "'Paati! The ants are eating my kolam!'",
@@ -331,7 +331,7 @@
     "The reader reads one clue out loud.",
     "Each player touches the part on their own body, and says its name.",
     "The reader turns the card over and reads the answer. Everyone who was right gets a bean.",
-    "When all 12 cards are read, count your beans. Playing alone? Try to win all 12 beans."
+    "When all 12 cards are read, count your beans. With only two of you, the grown-up reads and the child plays, then swap. Playing alone? Try to win all 12 beans."
    ],
    "flow": [
     {
@@ -627,40 +627,39 @@
     },
     {
      "t": "sort",
-     "p": "Do you have one of these, or two? Sort them.",
+     "p": "Is each part in your head, or in your leg? Sort them.",
      "cats": [
-      "One",
-      "Two"
+      "Head",
+      "Leg"
      ],
      "items": [
       [
-       "nose",
-       "One"
-      ],
-      [
        "eyes",
-       "Two"
+       "Head"
       ],
       [
-       "mouth",
-       "One"
+       "knee",
+       "Leg"
       ],
       [
-       "knees",
-       "Two"
+       "nose",
+       "Head"
       ],
       [
-       "chin",
-       "One"
+       "ankle",
+       "Leg"
       ],
       [
        "ears",
-       "Two"
+       "Head"
+      ],
+      [
+       "heel",
+       "Leg"
       ]
      ],
      "a": "see items",
-     "why": "Count each one on your own body. Many body parts come in twos, one on each side.",
-     "how": "a3"
+     "why": "Eyes, ears and nose are on your head. Knee, ankle and heel are on your leg. Touch each one on your own body to check."
     },
     {
      "t": "count",
@@ -679,10 +678,10 @@
     },
     {
      "t": "perspective",
-     "p": "Nithya, aged 7, and her cousin Arjun, aged 5, look at their Paati's hand next to theirs.",
+     "p": "Kavya, aged 7, and her cousin Arjun, aged 5, look at their Paati's hand next to theirs.",
      "views": [
       {
-       "who": "Nithya",
+       "who": "Kavya",
        "says": "Paati's hand is very different from ours. It is big and wrinkly."
       },
       {
@@ -881,12 +880,12 @@
   {
    "id": "e1",
    "title": "Thumb Taped: which jobs can your hand still do?",
-   "mins": 25,
+   "mins": 15,
    "days": 1,
-   "context": "In this experiment you try five everyday jobs with your hand. First you do them with your thumb free. Then a grown-up tapes your thumb down, and you try the same jobs again.",
+   "context": "In this experiment you try three everyday jobs with your hand. First you do them with your thumb free. Then a grown-up tapes your thumb down, and you try the same jobs again.",
    "question": "If your thumb is taped down, which everyday jobs can your hand still do, and which become hard?",
-   "predict": "Guess first. With your thumb taped, which job will be the hardest: picking up rice, picking up a coin, doing a button, drawing, or opening a lid? Which will be the easiest? Why do you think so?",
-   "fair_test": "You use the same hand, the same five jobs and the same things each time. The only change is the thumb: free the first time, taped the second time.",
+   "predict": "Guess first. With your thumb taped, which job will be the hardest: picking up rice, picking up a coin, or doing a button? Which will be the easiest? Why do you think so?",
+   "fair_test": "You use the same hand, the same three jobs and the same things each time. The only change is the thumb: free the first time, taped the second time.",
    "results_table": [
     "Job",
     "Thumb free: easy, slow or could not",
@@ -912,36 +911,28 @@
     {
      "item": "a shirt or a kurta with buttons",
      "qty": 1
-    },
-    {
-     "item": "a crayon or a pencil, and paper",
-     "qty": 1
-    },
-    {
-     "item": "a small plastic bottle with a screw lid, closed",
-     "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Guess which job will be hardest. Do five jobs with your thumb free. Tape your thumb down and do them again. Put a face for each try. Talk about what you found."
+     "mins": 15,
+     "what": "Guess which job will be hardest. Do three jobs with your thumb free. Tape your thumb down and do them again. Put a face for each try. Talk about what you found."
     }
    ],
-   "record": "On a sheet, draw the five jobs down the side. For each job, draw a face for thumb free and a face for thumb taped: a smile for easy, a straight mouth for slow, a sad face for could not.",
+   "record": "On a sheet, draw the three jobs down the side. For each job, draw a face for thumb free and a face for thumb taped: a smile for easy, a straight mouth for slow, a sad face for could not.",
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Lay out the plate of rice, the bowl, the coin on the floor, the shirt, the crayon and paper, and the bottle. 2. Show each job once.",
-     "say": "Here are five jobs. Pick up five rice grains, one by one, into the bowl. Pick up the coin from the floor. Do up one button. Draw a circle. Open the bottle.",
-     "kid": "Look at the five jobs. Rice, coin, button, drawing, bottle.",
+     "mins": 2,
+     "do": "1. Lay out the plate of rice, the bowl, the coin on the floor and the shirt. 2. Show each job once.",
+     "say": "Here are three jobs. Pick up five rice grains, one by one, into the bowl. Pick up the coin from the floor. Do up one button.",
+     "kid": "Look at the three jobs. Rice, coin, button.",
      "parent": "Put the coin flat on a hard floor, not on a mat. Use the hand your child draws with. Do up the button on a shirt lying flat on the floor, or on a shirt your child is wearing."
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to guess, and to say why. Write the guess down, or let your child draw it.",
      "say": "Soon I will tape your thumb down. Which job will be the hardest then? Which will be the easiest? Why do you think so?",
      "kid": "Guess. Which job will be hardest with no thumb? Why?",
@@ -950,7 +941,6 @@
        "q": "Why do you think so?",
        "good": [
         "The coin, because it is flat and I can't get under it.",
-        "Drawing will be easy, because the crayon is big.",
         "All of them will be easy, because I still have four fingers."
        ]
       }
@@ -959,11 +949,11 @@
     },
     {
      "id": "s3",
-     "mins": 5,
-     "do": "1. Your child does all five jobs with the thumb free. 2. After each job, your child picks a face: easy, slow or could not. 3. Draw the face on the sheet.",
+     "mins": 3,
+     "do": "1. Your child does all three jobs with the thumb free. 2. After each job, your child picks a face: easy, slow or could not. 3. Draw the face on the sheet.",
      "say": "First, with your thumb free. Pick up the rice grains. Was that easy, slow, or could you not do it?",
      "kid": "Do each job with your thumb free. Was it easy?",
-     "parent": "With the thumb free, most six-year-olds find all five jobs easy, though the button may be slow. That is fine. It gives us something to compare with."
+     "parent": "With the thumb free, most six-year-olds find all three jobs easy, though the button may be slow. That is fine. It gives us something to compare with."
     },
     {
      "id": "s4",
@@ -976,8 +966,8 @@
     },
     {
      "id": "s5",
-     "mins": 7,
-     "do": "1. Your child does the same five jobs, in the same order, with the thumb taped. 2. After each job, your child picks a face. 3. Draw the face on the sheet. 4. If a job takes more than a minute, stop and mark it 'could not'.",
+     "mins": 4,
+     "do": "1. Your child does the same three jobs, in the same order, with the thumb taped. 2. After each job, your child picks a face. 3. Draw the face on the sheet. 4. If a job takes more than a minute, stop and mark it 'could not'.",
      "say": "Now the same jobs with your thumb taped. Pick up the rice grains. How did that go?",
      "kid": "Do the same jobs again. Your thumb is taped. Was it hard?",
      "ask": [
@@ -992,16 +982,15 @@
        "q": "Did you find a new way to do any job?",
        "good": [
         "I picked up rice between two fingers, like scissors.",
-        "I slid the coin to the edge of the mat.",
-        "I held the crayon between two fingers."
+        "I slid the coin to the wall, then lifted it."
        ]
       }
      ],
-     "parent": "Usually the coin and the button become very hard or impossible. The rice gets slow, and children often pinch grains between two fingers like scissors. The drawing gets wobbly. The lid may still open, pressed in the palm. Every child finds their own ways round, and that is worth talking about too."
+     "parent": "Usually the coin and the button become very hard or impossible. The rice gets slow, and children often pinch grains between two fingers like scissors. Every child finds their own ways round, and that is worth talking about too."
     },
     {
      "id": "s6",
-     "mins": 4,
+     "mins": 2,
      "do": "1. Take off the tape. 2. Your child pinches one grain of rice with thumb and first finger. 3. Ask what they think, what they saw, and why.",
      "say": "Your thumb is free again. Pick up one grain now. What did you find out? Why were some jobs so hard?",
      "kid": "Pinch one grain with your thumb. What did you find out?",
@@ -1051,23 +1040,13 @@
       "Do up a button",
       "slow",
       "could not"
-     ],
-     [
-      "Draw a circle",
-      "easy",
-      "slow"
-     ],
-     [
-      "Open a bottle lid",
-      "easy",
-      "slow"
      ]
     ]
    },
    "setup": [
     {
-     "art": "A floor with a steel plate of rice grains, a small bowl, a coin, a shirt with buttons, a crayon and paper, and a small bottle with a lid, laid in a row.",
-     "caption": "1. Lay out the five jobs."
+     "art": "A floor with a steel plate of rice grains, a small bowl, a coin and a shirt with buttons, laid in a row.",
+     "caption": "1. Lay out the three jobs."
     },
     {
      "art": "A child's hand, thumb free, pinching one grain of rice over a steel bowl.",
@@ -1171,7 +1150,7 @@
      "parent": "Most people move a few more beans with the hand they write with, because they use that hand more. Some people are nearly the same with both. Results change a little each try, so a difference of one or two beans may be luck.",
      "check": {
       "t": "mcq",
-      "q": "Ammu writes with her left hand. Which hand will most likely move more beans?",
+      "q": "Ammu, a girl in Class 1, writes with her left hand. Which hand will most likely move more beans?",
       "options": [
        "Her left hand",
        "Her right hand",
@@ -1305,8 +1284,8 @@
    "context": "In this activity a grown-up wraps a newspaper tube round your elbow, so your arm cannot bend. Then you try to eat a snack with that hand.",
    "materials": [
     {
-     "item": "a sheet of newspaper",
-     "qty": 1
+     "item": "newspaper sheets, or a rolled magazine",
+     "qty": 3
     },
     {
      "item": "tape, or a rubber band",
@@ -1329,11 +1308,11 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Roll a sheet of newspaper round your child's arm, over the elbow. 2. Tape it loosely, so the arm stays straight.",
+     "do": "1. Roll three sheets of newspaper (or a magazine) into a thick tube round your child's arm, over the elbow. 2. Tape it loosely, so the arm stays straight.",
      "say": "This tube will keep your arm straight. Your elbow cannot bend. Tell me if it is too tight.",
      "kid": "Hold your arm out straight. Your grown-up rolls a tube round it.",
      "adult": true,
-     "parent": "The tube must cover the elbow, but leave the hand and wrist free. Keep it loose: it should stop bending, not squeeze."
+     "parent": "The tube must cover the elbow, but leave the hand and wrist free. Keep it loose: it should stop bending, not squeeze. If the arm still bends the tube, add a third sheet or a rolled magazine."
     },
     {
      "id": "s2",
@@ -1354,7 +1333,7 @@
        "good": [
         "My hand could not reach my mouth.",
         "I had to bend down to my hand.",
-        "I could only reach my ear or my chin."
+        "My hand got near my face, but not into my mouth."
        ]
       }
      ],
@@ -1494,7 +1473,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Each person lays one hand flat on the paper, fingers spread. 2. Your child draws round it with a crayon. 3. Use a different colour for each person.",
-     "say": "Spread your fingers. Keep still while I draw round your hand. Now you draw round Paati's hand.",
+     "say": "Spread your fingers. Keep still while I draw round your hand. Now you draw round mine.",
      "kid": "Draw round each hand. Use a new colour each time."
     },
     {
@@ -1712,7 +1691,7 @@
  ],
  "videos": [
   {
-   "title": "How the Jaipur Foot is made and fitted (to find)",
+   "title": "How the Jaipur Foot is made and fitted",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1721,7 +1700,7 @@
    "check": "No video id was confirmed from here. Choose real footage from Jaipur, short and calm enough for a six-year-old. Check that it credits Ram Chandra Sharma as well as Dr P. K. Sethi."
   },
   {
-   "title": "An elephant picking up small things with the trunk (to find)",
+   "title": "An elephant picking up small things with the trunk",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1730,7 +1709,7 @@
    "check": "No video id was confirmed from here. Choose real footage of an elephant who is not performing tricks for people."
   },
   {
-   "title": "An X-ray of a hand moving (to find)",
+   "title": "An X-ray of a hand moving",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1866,7 +1845,7 @@
  "applications": [
   "Makers of artificial limbs, like the Jaipur Foot, copy how a real foot bends, so people can walk, squat and climb again.",
   "Doctors called physiotherapists help people move a joint again after an injury, with gentle exercises.",
-  "Designers make big buttons, thick pencils and easy taps for people whose thumbs and fingers are stiff, like many older people.",
+  "Designers make big buttons, thick pencils and easy-grip handles for people whose thumbs and fingers are stiff, like many older people.",
   "Engineers build robot hands with a thumb that presses against the fingers, so the robot can pick up small things."
  ],
  "spotted": [
@@ -1887,7 +1866,7 @@
    "art": "A dancer's hands making a mudra, the thumb and first finger touching in a circle."
   },
   {
-   "text": "A boatman in the Sundarbans or on the Brahmaputra pulling an oar, his elbows and shoulders bending with each stroke.",
+   "text": "A boatwoman in the Sundarbans or on the Brahmaputra pulling an oar, her elbows and shoulders bending with each stroke.",
    "art": "A man in a small wooden boat pulling a long oar, his elbows bent."
   }
  ],
@@ -1910,7 +1889,7 @@
   "Which of your joints bent when you climbed the stairs?",
   "Can you pick up a bit of chapati or dosa without using your thumb?",
   "What does a crow do with their legs and wings?",
-  "How are your feet different from Paati's or Amma's feet?",
+  "How are your feet different from a grown-up's feet at home?",
   "Which part of your body do you think works hardest all day?"
  ],
  "jokes": [
@@ -1931,16 +1910,16 @@
    "a": "Nobody knows!"
   },
   {
-   "j": "Why are your teeth always so busy?",
-   "a": "Because they have to work through every meal!"
+   "j": "Why is your nose in the middle of your face?",
+   "a": "Because it is the scenter!"
   },
   {
    "j": "What did one eye say to the other eye?",
    "a": "Between you and me, something smells!"
   },
   {
-   "j": "Why did the foot go to the doctor?",
-   "a": "It was feeling a bit heel-less!"
+   "j": "Why can't your nose be twelve inches long?",
+   "a": "Because then it would be a foot!"
   },
   {
    "j": "What is the best part of your body for keeping time?",
@@ -1953,7 +1932,7 @@
  ],
  "maths": [
   {
-   "problem": "In the thumb test, Ammu picked up 9 rice grains in one minute with her thumb free. With her thumb taped, she picked up 3. How many fewer grains did she pick up with her thumb taped?",
+   "problem": "In a thumb test like yours, Ammu picked up 9 rice grains in one minute with her thumb free. With her thumb taped, she picked up 3. How many fewer grains did she pick up with her thumb taped?",
    "answer": "6 fewer grains.",
    "explain": "Start at 3 and count on to 9: 4, 5, 6, 7, 8, 9. That is 6 more. So she picked up 6 fewer grains with her thumb taped, because her fingers had no thumb to press against.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -2101,8 +2080,8 @@
  "roots": {
   "context": "We have named our body parts and found what each one helps us do. Now we ask what the thumb test tells us about where a job really happens.",
   "deep_truth": {
-   "truth": "With your thumb taped down, you could hardly pick up one grain of rice. Your fingers were all still there. But a pinch needs a thumb pressing against a finger. So a pinch belongs to two parts meeting, not to one part alone.",
-   "habit": "We give each job to one part: eyes see, legs walk, hands hold. The thumb test shows that a pinch lives in no single part. It happens only where the thumb and a finger meet.",
+   "truth": "With your thumb taped down, you could hardly pick up one grain of rice. Your fingers were all still there. A pinch needs a thumb on one side and a finger on the other. So a pinch is done by two parts pressing together.",
+   "habit": "We give each job to one part: eyes see, legs walk, hands hold. A pinch needs a thumb and a finger together.",
    "evidence": "In the thumb test, the fingers were free and could still move, but the coin and the button became very hard or impossible. The rice slipped between the fingers. When the tape came off, the thumb and a finger picked up a grain at once."
   },
   "three": {
@@ -2110,7 +2089,7 @@
    "what_is_life": "A living body is busy all day with parts helping each other: the eyes guide the hands, the knees bend so the feet can climb.",
    "what_is_this_world": "Humans and other animals have parts like ours, such as a crow's wing bones and a cat's elbows. Each animal uses their parts in their own way."
   },
-  "thread": "A pinch is not in the thumb, and not in the finger. It appears when the two press together. Many things work like this. A clap is in neither hand. A step needs a foot and the ground. So a job happens in the meeting of parts, and every part is needed for the meeting.",
+  "thread": "A pinch needs a thumb and a finger together. A clap needs two hands. A step needs a foot and the ground. Many jobs need two things to meet, and the job fails if one is missing.",
   "teachings": [
    {
     "source": "Livy, History of Rome 2.32 (the fable of the belly and the limbs)",
@@ -2152,11 +2131,11 @@
  },
  "how_we_found_out": {
   "context": "How do you make an artificial foot that works like a real one? This card tells the true story of the Jaipur Foot.",
-  "story": "In the 1960s, many people in India who lost a leg were given an artificial foot made in the West. It was stiff, and it was made to wear inside a shoe. But many people in India walk barefoot, sit on the floor and squat to cook or work. With a stiff foot, they could not. In 1968, in Jaipur, a craftsman named Ram Chandra Sharma brought an idea to Dr P. K. Sethi, a bone doctor at the city's big hospital. Sharma thought an artificial foot should bend like a real one. A cycle-tyre repairer named Chugga Bhai helped him make the first one from rubber, the way tyres are made. After much testing, they made a rubber foot over a wooden core that bends at the ankle and the toes. People could walk barefoot, squat and even climb trees. This Jaipur Foot is cheap, and is now fitted free for many people. The dancer Sudha Chandran danced Bharatanatyam on stage again with one. For many years Dr Sethi got most of the praise, and Sharma very little.",
+  "story": "In the 1960s, many people in India who lost a leg were given an artificial foot made in the West. It was stiff, and it was made to wear inside a shoe. But many people in India walk barefoot, sit on the floor and squat to cook or work. With a stiff foot, they could not. In 1968, in Jaipur, a craftsman named Ram Chandra Sharma brought an idea to Dr P. K. Sethi, a bone doctor at the city's big hospital. Sharma thought an artificial foot should bend like a real one. A cycle-tyre repairer named Chugga Bhai helped him make the first one from rubber, the way tyres are made. After much testing, they made a rubber foot over a wooden core that bends at the ankle and the toes. People could walk barefoot, squat and even climb trees. This Jaipur Foot is cheap, and is now fitted free for many people. The dancer Sudha Chandran danced Bharatanatyam on stage again with one. Dr Sethi was often named first, and Sharma, the craftsman, is less well known.",
   "who": "Ram Chandra Sharma, a craftsman, Dr P. K. Sethi, a bone doctor, and Chugga Bhai, a cycle-tyre repairer, in Jaipur",
   "when": "1968 onwards",
-  "wrong_idea": "That an artificial foot only needs to be a stiff support inside a shoe. Ram Chandra Sharma saw that a real foot bends at the ankle and toes. When his rubber foot bent the same way, people could squat, sit on the floor and walk barefoot again.",
+  "wrong_idea": "That an artificial foot only needs to be a stiff support inside a shoe. Ram Chandra Sharma saw that a real foot bends at the ankle and toes, and his rubber foot bent the same way. People could then squat, sit on the floor and walk barefoot.",
   "art": "A craftsman's workbench in Jaipur with a rubber foot on a wooden core, and beside it a person squatting barefoot on a mud floor wearing the artificial foot."
  },
- "playtest": "Walked through the thumb test, the straight-arm snack, the counting, the hand family, the bean test, both games, the body book and the picker challenge as a parent and a six-year-old in a city flat would. Everything uses tape or a cloth strip, rice, a coin, a shirt, a crayon, a bottle, newspaper, beans and paper. The thumb and elbow are wrapped by a grown-up, loosely, with a sign to stop. The games need only printed cards and beans, and both work for a single child."
+ "playtest": "Walked through every part as a parent and a six-year-old in a city flat would: thumb test (minutes add to 15, same hand and jobs, thumb the only change), straight-arm snack, counting, hand family, bean test, both games with 2 and 4 players (all 12 and 10 cards written out, reader role and bean scoring now stated), body book and picker. Fixed: the elbow hook now says which hand; the newspaper tube is thicker so it really stops the elbow bending; no assumed grandparent in steps or questions; a worksheet child now matches the story (Kavya, cousin Arjun); a sort that repeated an activity is replaced; the check question names its child; a weak joke is swapped; a boatwoman replaces a boatman; 'to find' removed from video titles; a stiff phrase on finger joints fixed."
 }

@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Imagine the power goes off on a hot evening. What stops working? What keeps going?",
-  "text": "Most children name the fan, the lights and the TV. Fewer remember the fridge, the lift or the water pump. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop all get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where electricity comes from, and you test how long a cell lasts.",
+  "text": "Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where wall electricity comes from, and you test how long a cell lasts.",
   "art": "A child at a dark window in a power cut, holding a torch, with the street lights outside also dark."
  },
  "outcomes": [
@@ -88,7 +88,7 @@
    "concept": "Mains electricity comes from a power station along wires",
    "status": "defined",
    "definition": "Mains electricity is made in power stations. It travels along wires, on poles or under the ground, to every building and then to the sockets in the walls.",
-   "description": "Every appliance with a plug gets its electricity from the wall. The wall does not make it. A wire inside the wall brings it from the meter box of your building. Bigger wires bring it from the street. Even bigger wires on tall towers bring it from a power station, often very far away. Power stations make electricity from burning coal, from falling water at a dam, from the wind and from sunlight. In India, most electricity comes from burning coal. More and more comes from the Sun and the wind. If a wire on the way is broken, everyone after it has a power cut.",
+   "description": "Every appliance with a plug gets its electricity from the wall. The wall does not make it. Wires bring it from a power station, often very far away. First come big wires on tall towers, then wires on street poles, then a wire to your building's meter box and into your wall. Power stations make electricity from coal, falling water, wind, sunlight and other fuels. In India, most of it comes from burning coal. If a wire on the way is broken, everyone after it has a power cut.",
    "examples": [
     "The Idukki dam in Kerala uses falling water to make electricity.",
     "Near Kanyakumari in Tamil Nadu, hundreds of tall windmills make electricity from the wind.",
@@ -101,7 +101,7 @@
    "concept": "A cell is a store of electricity that runs down slowly",
    "status": "defined",
    "definition": "A cell holds chemicals that make electricity flow when the cell is in a torch, a clock or a toy. As the cell is used, the chemicals change, and the cell gives less and less.",
-   "description": "A cell is a small store of electricity that you can carry. That is why a torch works in a power cut. Inside a cell are chemicals. When the cell is used, they slowly change and make electricity flow. A cell does not go from full to empty in one moment. It runs down little by little. In the Tired Cell Test, some cells could not light the torch but still made the clock tick. A torch needs a lot of electricity every second. A clock needs only a tiny amount. So the torch stops long before the clock does. A phone's battery is a store you can fill again from the wall.",
+   "description": "A cell is a small store of electricity that you can carry. That is why a torch works in a power cut. Inside a cell are chemicals. When the cell is used, they slowly change and make electricity flow. A cell runs down little by little. In the Tired Cell Test, some cells could not light the torch but still made the clock tick. A torch needs a lot of electricity every second. A clock needs only a tiny amount. A phone's battery is a store you can fill again from the wall.",
    "examples": [
     "In the Tired Cell Test, an old cell that could not light the torch often still ran the wall clock.",
     "A wall clock can run for many months on one cell.",
@@ -114,7 +114,7 @@
    "concept": "Living bodies use electricity too",
    "status": "debated",
    "definition": "Nerves in animals, including us, send messages as tiny electric signals. Plants also send electric signals through their bodies.",
-   "description": "Your body has no plug and no cell, but it uses electricity all the time. Tiny electric signals run along your nerves when you touch something. A tiny electric signal starts every beat of your heart. The energy for these signals comes from the food you eat. Plants use electric signals too. Touch a touch-me-not plant, and a signal runs along her stalk. Her leaves fold within seconds. Plants sense, decide and act with these signals. Scientists still argue about what this means.",
+   "description": "Your body has no plug and no cell, but it uses electricity all the time. Tiny electric signals run along your nerves when you touch something. A tiny electric signal also starts every beat of your heart. The energy for these signals comes from the food you eat. Plants send electric signals too. Touch a touch-me-not plant, and a signal runs along her stalk. Her leaves fold within seconds. Scientists still argue about what this means.",
    "examples": [
     "A doctor's ECG machine shows the electric signals of a beating heart as a wavy line.",
     "A touch-me-not plant folds her leaves after a touch, and an electric signal runs along her stalk first.",
@@ -127,7 +127,7 @@
     },
     {
      "who": "Some other scientists",
-     "explanation": "These signals are automatic responses, like a reflex. They say a plant's signals are reflexes, not feelings."
+     "explanation": "These scientists say a plant's signal is an automatic response, like a reflex, and needs no feeling."
     }
    ],
    "art": "A touch-me-not plant with one leaf folding after a child's fingertip touches it, and a faint glowing line running down the stalk."
@@ -183,7 +183,7 @@
  ],
  "big_questions": [
   {
-   "q": "The clock ran on a cell that the torch could not use. Was that cell dead or alive?",
+   "q": "The clock ran on a cell that the torch could not use. Was that cell empty or not?",
    "kind": "deep",
    "hint": "Think about what the cell could still do, and what it could not."
   },
@@ -260,12 +260,12 @@
   {
    "id": "e1",
    "title": "The Tired Cell Test: can a cell that fails the torch still run a clock?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you collect old cells that your family thinks are used up. You try each one in a torch and in a wall clock. A torch needs a lot of electricity. A clock needs very little.",
    "question": "Old cells cannot light a torch any more. Do they still hold any electricity? Can they still run a wall clock?",
    "predict": "Guess first. Will an old cell that cannot light the torch make the clock tick? Why do you think so?",
-   "fair_test": "We use the same torch and the same clock for every cell. We watch the clock's second hand for the same time, 10 seconds, for every cell. We also try one new cell in both, so we know the torch and the clock work.",
+   "fair_test": "We use the same torch and the same clock for every cell. We watch the clock's second hand for the same time, 10 seconds, for every cell. We also try new cells in both, so we know the torch and the clock work.",
    "results_table": [
     "Cell number",
     "Did the torch light?",
@@ -273,12 +273,12 @@
    ],
    "materials": [
     {
-     "item": "old AA cells from remotes, toys, clocks or the drawer, at least 4 (ask neighbours if you have none)",
-     "qty": 4
+     "item": "old AA cells from remotes, toys, clocks or the drawer, at least 4 and 6 if you can (ask neighbours if you have none)",
+     "qty": 6
     },
     {
-     "item": "one new AA cell, or a cell from something that works well",
-     "qty": 1
+     "item": "one or two new AA cells, as many as your torch takes",
+     "qty": 2
     },
     {
      "item": "a torch that takes AA cells",
@@ -301,7 +301,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Number the old cells, guess, test each one in the torch and in the clock, and count the results."
     }
    ],
@@ -350,7 +350,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Collect the old cells together. 2. Stick a numbered sticker on each one. 3. Check each cell for crust or leaks.",
      "say": "These cells were taken out because they stopped working. Let's give each one a number.",
      "kid": "Help collect old cells. Stick a number on each.",
@@ -360,7 +360,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Put the new cell in the torch and the clock to show both work. 2. Ask for a guess and a reason. 3. Write the guess.",
+     "do": "1. Put the new cell or cells in the torch, and one new cell in the clock, to show both work. 2. Ask for a guess and a reason. 3. Write the guess.",
      "say": "The new cell lights the torch and runs the clock. Now, will an old cell run the clock? Why do you think so?",
      "kid": "Will an old cell run the clock? Why do you think so?",
      "ask": [
@@ -373,12 +373,12 @@
        ]
       }
      ],
-     "parent": "Any guess is fine. Write it down and do not say what will happen. If your torch takes two cells, keep one new cell in it, and test each old cell alongside it."
+     "parent": "Any guess is fine. Write it down and do not say what will happen. If your torch takes two cells, you will test the old cells two at a time in it (1 and 2, then 3 and 4, then 5 and 6). Then you test each cell alone in the clock."
     },
     {
      "id": "s3",
-     "mins": 7,
-     "do": "1. Put an old cell in the torch. 2. Point it at a wall and switch it on. 3. Mark a tick if it lights, a cross if not. 4. Do the same for every cell.",
+     "mins": 5,
+     "do": "1. Put an old cell in the torch (two cells, if it takes two). 2. Point it at a wall and switch it on. 3. Mark a tick if it lights, a cross if not. 4. Do the same for the other cells. A pair shares one result.",
      "say": "Put cell number 1 in the torch. Switch it on. Does it light the wall? Tick or cross?",
      "kid": "Put a cell in the torch. Switch it on. Does it light?",
      "ask": [
@@ -391,11 +391,11 @@
        ]
       }
      ],
-     "parent": "A dim, yellow glow counts as a tick, but say it was dim. Many torches today have bright white lights, called LEDs, that go dark suddenly when cells are weak."
+     "parent": "A dim glow counts as a tick, but say it was dim. If the torch is dim or dark with a pair, mark a cross for both cells. Many torches today have bright white lights, called LEDs, that go dark suddenly when cells are weak."
     },
     {
      "id": "s4",
-     "mins": 7,
+     "mins": 5,
      "do": "1. Put an old cell in the clock. 2. Count to ten while you watch the second hand. 3. Mark a tick if it moved, a cross if not. 4. Do the same for every cell.",
      "say": "Now put cell number 1 in the clock. Watch the second hand while we count to ten. Did it move?",
      "kid": "Put the cell in the clock. Watch the thin hand. Did it move?",
@@ -499,7 +499,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Find the battery number on the phone. 2. Show it to your child. 3. Ask for a guess and a reason.",
      "say": "This number shows how full the phone's battery is. A hundred means full. Which test will make it drop more? Why?",
      "kid": "This number shows how full the battery is. Which test will empty it faster?",
@@ -516,7 +516,7 @@
     },
     {
      "id": "s3",
-     "mins": 7,
+     "mins": 8,
      "do": "1. Write the number. 2. Play a cartoon at full brightness. 3. Switch on the phone's torch. 4. After 8 minutes, write the number again.",
      "say": "Now the phone has two jobs: playing a video and shining its torch. Watch for 8 minutes, then read the number.",
      "kid": "Now the video and the torch are on. Read the number after 8 minutes.",
@@ -1650,8 +1650,8 @@
     },
     {
      "t": "draw",
-     "p": "Draw your body as a home that runs on electricity. Show where its energy comes from.",
-     "a": "A child with lines along the arms and legs for nerves, a heart, and food on a plate as the energy store.",
+     "p": "Your heart has no plug and no cell. Draw a child, and show where the energy for her heartbeat comes from.",
+     "a": "A child with a heart drawn inside, and an arrow from food on a plate to the heart.",
      "why": "A strong drawing shows that the body's electric signals run on energy from food, not on a plug or a cell."
     },
     {
@@ -2059,7 +2059,7 @@
    "what_is_life": "Every living being uses tiny electric signals. A touch-me-not plant sends one along her stalk when you touch her, and her leaves fold.",
    "what_is_this_world": "The light in your room began far away: in a river behind a dam, in coal under the ground, in the wind or in sunshine on a solar panel."
   },
-  "thread": "A bulb's light, a fan's breeze and a fridge's cold seem like very different things. In your home, all of them are made from the same electricity, coming along the same wires. That electricity was made from falling water, coal, wind or sunlight. Water is lifted into clouds by the Sun's heat, coal is made from plants that grew in sunlight long ago, and the wind blows because the Sun warms the Earth unevenly. So most of the jobs electricity does in your home began as sunlight.",
+  "thread": "A bulb's light, a fan's breeze and a fridge's cold seem very different. In your home, all of them are made from the same electricity, coming along the same wires. That electricity is made from falling water, coal, wind or sunlight. The Sun lifts water into clouds, coal is made from plants that grew in sunlight, and the Sun's heat makes the wind. So most of the electricity in your home began as sunlight.",
   "teachings": [
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",

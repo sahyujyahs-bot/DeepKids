@@ -3,12 +3,12 @@
  "title": "Homes near our home: a tree, a pond, a park and under a stone",
  "level": 1,
  "summary": {
-  "text": "Lift a stone in a park, and the ground underneath is dark, damp and cool. Earthworms, ants and pill bugs live there, and they would dry out in the hot sun a few steps away. A tree, a pond and the grass of a park are homes too, each with their own living beings. Your child lays a plate on wet soil and, a few hours later, finds a damp, dark home right next to dry soil. Every living being lives where a place gives them what they need.",
+  "text": "Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers wet soil with a plate and finds, a few hours later, a damp home right next to dry soil.",
   "art": "A park scene cut in half: on the left a lifted stone with earthworms, ants and a pill bug in the dark soil below; on the right a tree with a crow's nest, a pond with tadpoles and a lotus, and grass with a grasshopper."
  },
  "intro": {
   "hook": "Touch the floor in a sunny spot. Now touch the floor under a bucket or a doormat. Do they feel the same?",
-  "text": "They do not. The floor in the sun is warm and dry. The floor under the bucket is cool, and sometimes damp. A stone in a park does the same thing for the ground under it. Lift a stone, and you may find earthworms, ants and pill bugs living there together. A tree, a pond and the grass are homes too. In this unit we look at the homes near our home, and then we make a small one ourselves.",
+  "text": "They do not. The floor in the sun is usually warm and dry. The floor under the bucket is often cooler and a little damp. The ground under a stone in a park is the same. Lift a stone and you may find earthworms, ants and pill bugs. We will visit homes near our home, and then make a small one.",
   "art": "A girl kneeling on a balcony, one hand on the sunny floor and one hand under an upturned steel bucket, looking surprised."
  },
  "outcomes": [
@@ -51,7 +51,7 @@
    "concept": "A habitat is a home place",
    "status": "defined",
    "definition": "A habitat is the place where a living being lives. A habitat gives them food, water, shelter and the right warmth.",
-   "description": "Every living being lives somewhere. A fish lives in a pond. A crow nests in a tree. An earthworm lives in damp soil. Each place gives them what they need. Humans are animals too, and a home gives us food, water and shelter. Many habitats are close to home: a park, a pond, a tree, and even the ground under one stone.",
+   "description": "Every living being lives somewhere that gives them food, water and shelter. A fish lives in a pond, a crow in a tree and an earthworm in damp soil. Humans are animals too, and our home gives us the same things.",
    "examples": [
     "A pond gives a fish water to swim and breathe in.",
     "A tall tree gives a crow a high, safe place for a nest.",
@@ -65,7 +65,7 @@
    "concept": "Under a stone: dark, damp and cool",
    "status": "defined",
    "definition": "The ground under a stone is dark, damp and cool, because the stone keeps off the sun and holds the water in.",
-   "description": "The sun warms the open ground and dries it. A stone blocks the sunlight, so the ground below stays dark and cool. The water in the soil cannot escape into the air so quickly, so the soil stays damp. Earthworms breathe through their skin, and their skin must stay damp. Pill bugs lose water fast in dry air. Ants keep their young safe in the dark soil. So all of them live under stones, logs and flowerpots.",
+   "description": "The sun warms and dries open ground. A stone keeps the sun off, so the ground below stays dark and cool, and the water stays in the soil. Earthworms breathe through their skin, so it must stay damp. Pill bugs dry out fast in the sun, and ants keep their young in the dark soil.",
    "examples": [
     "Lift a flowerpot that has stood for a week, and the floor underneath is dark and wet.",
     "Ants often build their nest under a flat stone.",
@@ -79,7 +79,7 @@
    "concept": "One tree is home to many",
    "status": "defined",
    "definition": "One tree gives homes and food to many living beings at once.",
-   "description": "High in the branches, crows and squirrels build nests. Mynas, barbets and fruit bats eat the small figs of banyan and peepal trees. Ants run up and down the bark. Spiders spin webs between the leaves. Caterpillars eat the leaves. In the rains, moss and small ferns grow on the bark. The tree is alive too, and the tree's branches, bark and leaves make all these homes.",
+   "description": "Crows and squirrels build nests in the branches. Ants walk up the bark, and spiders spin webs between the leaves. Mynas and barbets eat the small figs of banyan and peepal trees. The tree is alive too, and her branches, bark and leaves make all these homes.",
    "examples": [
     "A squirrel builds a nest of grass and twigs high in a mango tree.",
     "A line of ants walks up a neem trunk.",
@@ -93,7 +93,7 @@
    "concept": "A pond is a home in water",
    "status": "defined",
    "definition": "A pond is still water where water plants and water animals live.",
-   "description": "Fish swim in the water and breathe with gills. Frogs lay eggs in the water, and tadpoles hatch from them and grow into frogs. Pond skaters walk on top of the water without sinking. Dragonflies lay eggs in the water, and the young dragonflies live underwater for months. Lotus and water lilies grow from the mud at the bottom. Egrets and kingfishers come to the edge to catch fish.",
+   "description": "Fish swim in the water and breathe with gills. Frogs lay eggs in the water, and tadpoles hatch from them. Pond skaters walk on the water without sinking. Egrets and kingfishers stand at the edge to catch fish.",
    "examples": [
     "Tadpoles wriggle in a puddle-pond after the first monsoon rains.",
     "A kingfisher dives into a lake in Bengaluru and comes up with a fish.",
@@ -107,7 +107,7 @@
    "concept": "A park has many small habitats",
    "status": "defined",
    "definition": "In a park, the grass, the flowers and the soil are different habitats, each with their own living beings.",
-   "description": "Grasshoppers hide in the grass and eat it. Mynas walk on the grass to catch them. Bees and butterflies visit the flowers to drink a sweet juice called nectar. Under the grass, earthworms dig tunnels in the soil. So one small park holds many homes, one above the other.",
+   "description": "Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil.",
    "examples": [
     "A myna hops behind the grass cutter, picking up the insects that jump out.",
     "A honeybee pushes into a flower to drink nectar.",
@@ -120,10 +120,10 @@
   {
    "concept": "Do small animals choose their home?",
    "status": "debated",
-   "description": "Pill bugs gather under stones and pots, where it is damp and dark. A pill bug senses the dry air and the light, and moves until they find a damp, dark place. Animals sense, choose and remember. Some scientists describe it another way. They found that pill bugs walk fast in dry places and slow down in damp places. So the pill bugs end up together in the damp, the way people slow down and gather at a shady bus stop.",
+   "description": "Pill bugs gather under stones and pots, where it is damp and dark. Some scientists say a pill bug senses dry air and light, and chooses to look for a damp, dark place. Others say pill bugs walk fast in dry places and slow down in damp ones, so they end up together in the damp, like people slowing down at a shady bus stop.",
    "examples": [
     "Pill bugs move quickly across a dry floor and stop under a pot.",
-    "Ants carry their young deeper into the soil when a stone is lifted.",
+    "Pill bugs rest in a damp place and walk on when the floor dries.",
     "An earthworm on a dry path wriggles back towards the damp soil."
    ],
    "perspectives": [
@@ -158,8 +158,8 @@
   {
    "claim": "The small animals under stones are dirty and dangerous.",
    "who": "A common fear among children and grown-ups",
-   "for": "Some animals under stones can hurt you. A centipede or a scorpion can sting or bite.",
-   "against": "Most of the animals under a stone, like earthworms, pill bugs and ants, do not harm people. Earthworms help the soil. Pill bugs eat dead leaves. The safe rule is to look, and not to touch with bare hands.",
+   "for": "A centipede or a scorpion can bite or sting.",
+   "against": "Most animals under a stone, like earthworms, pill bugs and ants, do not hurt people. But a centipede or a scorpion can bite or sting. So look with your eyes and do not touch with bare hands.",
    "status": "rejected",
    "context": "This card is about a common fear: that the animals under a stone are all harmful."
   },
@@ -167,7 +167,7 @@
    "claim": "A pond with green water is a dead, dirty pond.",
    "who": "A common idea",
    "for": "Green water looks dirty, and very green ponds can smell bad.",
-   "against": "The green colour comes from millions of tiny living beings called algae. Algae are food for many small pond animals. But when dirty water flows into a pond, the algae can grow so much that fish get too little air.",
+   "against": "The green colour comes from millions of tiny living beings called algae, which many pond animals eat. But if dirty water flows in, the algae can grow too much and the fish get too little air.",
    "status": "debated",
    "context": "This card is about green ponds: are they full of life, or a sign of trouble?"
   },
@@ -256,68 +256,32 @@
      "kind": "cards",
      "title": "12 cards to cut out: 6 places and 6 living beings",
      "items": [
-      {
-       "f": "Under a stone",
-       "b": "A place: dark, damp and cool. Home to earthworms, pill bugs and ants."
-      },
-      {
-       "f": "A tree",
-       "b": "A place: high branches, bark and leaves. Home to squirrels, crows and ants."
-      },
-      {
-       "f": "A pond",
-       "b": "A place: still water. Home to fish, tadpoles and lotus."
-      },
-      {
-       "f": "Grass in the park",
-       "b": "A place: green and sunny. Home to grasshoppers and the mynas who hunt them."
-      },
-      {
-       "f": "A flower",
-       "b": "A place: sweet nectar inside. Bees and butterflies come to drink."
-      },
-      {
-       "f": "A crack in a wall",
-       "b": "A place: a little soil and rain water. Small plants like peepal can grow there."
-      },
-      {
-       "f": "Earthworm",
-       "b": "Lives in damp soil and under stones. Breathes through damp skin."
-      },
-      {
-       "f": "Squirrel",
-       "b": "Builds a nest high in a tree, safe from cats."
-      },
-      {
-       "f": "Tadpole",
-       "b": "Lives in a pond, and grows into a frog."
-      },
-      {
-       "f": "Grasshopper",
-       "b": "Hides in the grass and eats the grass."
-      },
-      {
-       "f": "Honeybee",
-       "b": "Visits flowers to drink nectar."
-      },
-      {
-       "f": "Peepal seedling",
-       "b": "Can grow in a crack, from a seed a bird dropped."
-      }
+      "Under a stone",
+      "A tree",
+      "A pond",
+      "Grass in the park",
+      "A flower",
+      "A crack in a wall",
+      "Earthworm",
+      "Squirrel",
+      "Tadpole",
+      "Grasshopper",
+      "Honeybee",
+      "Peepal seedling"
      ]
     }
    ],
    "rules": [
-    "Mix the 12 cards and lay them face down on the floor in rows, like stones.",
-    "Take turns. Lift two cards and show them to everyone.",
+    "Mix the 12 cards and lay them face down on the floor in rows, like stones. Six cards are places and six are living beings.",
+    "Take turns. Lift two cards and show them to everyone. After your turn, the next player goes.",
     "If you find a living being and a place where they live, say why they live there. Keep both cards.",
     "Some living beings fit more than one place. Any true pair counts, if you can say why.",
     "If the two cards do not go together, turn them face down again in the same spots.",
-    "When all the cards are gone, count your pairs."
+    "The game ends when no cards are left, or when the cards that are left do not go together. The player with the most pairs wins. If you play as a team, count the pairs together."
    ],
    "setup": [
     {
-     "art": "Twelve cards face down on a floor in three rows, with two children and a grandmother sitting round them.",
+     "art": "Twelve cards face down on a floor in three rows, with two children and a grown-up sitting round them.",
      "caption": "1. Lay the cards face down, like stones."
     },
     {
@@ -329,14 +293,14 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the 12 cards. 2. Read each card aloud once, front and back. 3. Mix them and lay them face down in rows.",
+     "do": "1. Cut out the 12 cards. 2. Read each card aloud once. 3. Mix them and lay them face down in rows.",
      "say": "These cards are like stones on the ground. Under each one is a place, or a living being. Let's find who lives where.",
      "kid": "The cards are like stones. Lift two. Find a living being and their home."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Take turns lifting two cards. When a pair fits, ask why. Read the backs aloud if your child is unsure.",
+     "do": "Take turns lifting two cards. When a pair fits, ask why. If your child is unsure, give a hint from the notes below.",
      "say": "You found the earthworm and the stone. Why does an earthworm live under a stone?",
      "kid": "Lift two cards. Do they go together? Say why.",
      "ask": [
@@ -356,12 +320,12 @@
        ]
       }
      ],
-     "parent": "Accept any true pair with a reason. An earthworm also lives under the grass in the park. Ants live in a tree and under a stone."
+     "parent": "Accept any true pair with a reason. Earthworm: lives in damp soil under stones, and breathes through damp skin. Squirrel: builds a nest high in a tree, safe from cats. Tadpole: lives in a pond and grows into a frog. Grasshopper: hides and eats in the grass. Honeybee: drinks nectar from flowers. Peepal seedling: grows in a wall crack, from a seed a bird dropped. An earthworm also lives under the grass in the park."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the pairs. Lay all the place cards in a row and put each living being under a home.",
+     "do": "Count the pairs. Gather all the place cards in a row and put each living being under a home.",
      "say": "Look at all the homes. Which one is the darkest and dampest?",
      "kid": "Count your pairs. Which home is the darkest and dampest?",
      "check": {
@@ -428,9 +392,9 @@
     "The child is a pill bug and crawls on hands and knees.",
     "The grown-up turns over a place card and reads the front aloud.",
     "In a dry, bright place, the pill bug crawls fast.",
-    "In a damp, dark place, the pill bug slows down and rests.",
-    "If the card says someone touches you, roll up into a ball.",
-    "After all 8 cards, say where the pill bug spent the most time resting."
+    "In a damp, dark place, the pill bug slows down and rests under the cloth.",
+    "If the card says someone touches you, the grown-up taps your shoulder. Roll up into a ball.",
+    "After all 8 cards, talk about it: were you resting in damp places or in dry places?"
    ],
    "setup": [
     {
@@ -446,7 +410,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the 8 cards and mix them. 2. Drape a cloth over a table or a chair to make a dark resting place.",
+     "do": "1. Cut out the 8 cards and mix them. 2. Drape a cloth over a table or a chair. This is the dark resting place under a stone.",
      "say": "You are a pill bug now. Your body dries out in the hot sun. Listen to each place, and move the way a pill bug would.",
      "kid": "You are a pill bug. Listen to each place. Dry and bright? Crawl fast. Damp and dark? Rest."
     },
@@ -493,9 +457,9 @@
   {
    "id": "e1",
    "title": "The Plate on the Soil: what happens under a cover?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
-   "context": "In this experiment you wet the soil in a plant pot and cover half the soil with a plate, like a stone. You leave the pot in the sun for about three hours. Then you look, touch and test both halves of the soil.",
+   "context": "You wet the soil in a pot and cover half of it with a plate, like a stone. You leave the pot in the sun for about three hours. Then you look at and touch both halves.",
    "question": "After a few hours in the sun, is the soil under a plate different from the soil in the open?",
    "predict": "Guess first. After three hours, will the soil under the plate be wet or dry? And the soil in the sun? Why do you think so?",
    "fair_test": "Both halves are in the same pot, with the same soil and the same water, in the same sun, for the same time. Only one thing is different: one half has a plate on top.",
@@ -508,11 +472,11 @@
    ],
    "materials": [
     {
-     "item": "a plant pot with soil, or a steel bowl filled with soil from any pot or the ground near your building",
+     "item": "a plant pot with soil, or a wide plastic tub of soil from any pot",
      "qty": 1
     },
     {
-     "item": "a small steel plate, a flat lid or a tile that covers about half the soil",
+     "item": "a flat clay or ceramic plate, a tile or a flat lid that covers about half the soil (not steel, which gets hot)",
      "qty": 1
     },
     {
@@ -538,14 +502,9 @@
      "day": 1,
      "mins": 13,
      "what": "About three hours later: look, touch and press a tissue on both halves. Say what you found."
-    },
-    {
-     "day": 2,
-     "mins": 5,
-     "what": "If you left the plate on overnight: lift it slowly. Has anyone moved in?"
     }
    ],
-   "record": "Draw the pot from above. Colour the soil under the plate dark and the soil in the sun as you saw it. Stick on the two tissues.",
+   "record": "Fill in the table with your child (a grown-up writes the words). Keep the two tissues next to it to compare.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one family in Hyderabad",
@@ -579,7 +538,7 @@
      "caption": "1. Wet the soil until the top is dark."
     },
     {
-     "art": "A small steel plate lying flat on one half of the soil in a pot, on a sunny windowsill.",
+     "art": "A flat clay plate lying on one half of the soil in a pot, on a sunny windowsill.",
      "caption": "2. Cover half with a plate. Leave the pot in the sun."
     },
     {
@@ -603,7 +562,7 @@
        ]
       }
      ],
-     "parent": "Write down your child's guess and their reason. Choose a plant that can take a few hours of sun. If you have no plant, use a steel bowl of soil."
+     "parent": "Write down your child's guess and their reason. Use a plant that can take a few hours of sun, or a tub of soil with no plant."
     },
     {
      "id": "s2",
@@ -636,7 +595,7 @@
        ]
       }
      ],
-     "parent": "Usually the soil under the plate is darker, wetter and cooler, and leaves a damp mark on the tissue. The soil in the sun goes pale and dry on top. Sometimes small drops form under the plate."
+     "parent": "Usually the soil under the plate is darker, wetter and cooler, and leaves a damp mark on the tissue. The soil in the sun goes pale and dry on top. Small drops may form under the plate. If the day was cloudy, the difference is smaller: leave it longer."
     },
     {
      "id": "s4",
@@ -666,15 +625,6 @@
       "a": 0,
       "why": "The plate blocked the sunlight, and the water in the soil could not escape into the air so quickly. The soil in the open dried in the sun."
      }
-    },
-    {
-     "id": "s5",
-     "mins": 5,
-     "do": "If you like, leave the plate on the soil overnight on the balcony. In the morning, lift it slowly and look.",
-     "say": "Let's leave the plate on tonight, like a stone. Tomorrow we will lift it slowly and see if anyone has moved in.",
-     "kid": "Leave the plate on tonight. Tomorrow, lift it slowly. Has anyone moved in?",
-     "wait": "Leave the plate on overnight.",
-     "parent": "Sometimes ants or a tiny beetle come in one night. Often nobody comes so soon. That is fine. The damp, dark place is still there, ready for whoever finds it."
     }
    ]
   }
@@ -725,7 +675,7 @@
      "do": "Visit five places with your child. Try a sunny windowsill, under the kitchen sink and under the doormat. Then try a corner of the bathroom floor and the soil in a plant pot. Your child touches each one.",
      "say": "Touch this place. Is it damp or dry? Is it dark or bright? Is it cool or warm?",
      "kid": "Touch each place. Damp or dry? Dark or bright? Cool or warm?",
-     "parent": "Draw a sun or a moon for bright or dark, and a drop for damp. Look only under the sink. Do not touch cleaning bottles."
+     "parent": "Draw a sun or a moon for bright or dark, and a drop for damp."
     },
     {
      "id": "s2",
@@ -744,7 +694,8 @@
      ],
      "think": "Our home has many small places. Could each one be home to someone different?"
     }
-   ]
+   ],
+   "safety": "Under the kitchen sink, touch only the floor. Keep away from the cleaning bottles."
   },
   {
    "id": "a2",
@@ -754,7 +705,7 @@
    "context": "If you can see a tree from your window, or pass one on a walk, this activity is for you. You watch one tree for ten minutes and tick every living being and every home you find on it.",
    "materials": [
     {
-     "item": "a tick card: draw a nest, a bird, a squirrel, an ant, a spider web, a hole, a bitten leaf, moss and fruit",
+     "item": "a tick card (a grown-up draws it): a nest, a bird, a squirrel, an ant, a spider web, a hole, a bitten leaf, moss and fruit",
      "qty": 1
     },
     {
@@ -772,7 +723,7 @@
    "record": "Your ticked card, and a drawing of your tree with every home you found.",
    "setup": [
     {
-     "art": "A girl and her mother standing near a neem tree, the girl holding a card with small drawings to tick.",
+     "art": "A girl and a grown-up standing near a neem tree, the girl holding a card with small drawings to tick.",
      "caption": "1. Stand near one tree with your tick card."
     },
     {
@@ -853,11 +804,11 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask how a seed got into a crack so high. Then your child draws one plant in their crack.",
-     "say": "Birds eat the small figs of peepal and banyan trees. The seeds come out in their droppings. How do you think this peepal got here?",
-     "kid": "How did a seed get into this crack? Draw the plant in their crack.",
+     "say": "Birds eat the small figs of peepal and banyan trees. The seeds come out in their droppings. How could a seed get into a crack high on a wall?",
+     "kid": "How did a seed get into this crack? Draw the plant that grows in this crack.",
      "ask": [
       {
-       "q": "How did the peepal seed get into the crack high on the wall?",
+       "q": "How could a peepal seed get into a crack high on a wall?",
        "good": [
         "A bird ate a fig and dropped the seed there.",
         "In the bird's droppings."
@@ -876,7 +827,7 @@
    "context": "If you pass a pond, a lake or a temple tank, this activity is for you. You stand back from the edge and watch for ten minutes. You look for living beings in the water, on top of the water, and in the air above it.",
    "materials": [
     {
-     "item": "a tick card: draw a fish, a frog, a tadpole, a lotus, a dragonfly, a pond skater, an egret and a duck",
+     "item": "a tick card (a grown-up draws it): a fish, a frog, a tadpole, a lotus, a dragonfly, a pond skater, an egret and a duck",
      "qty": 1
     }
    ],
@@ -891,7 +842,7 @@
    "record": "Your ticked card, and a drawing of the pond in three layers: under the water, on top, and in the air.",
    "setup": [
     {
-     "art": "A grandmother and a child standing back from the edge of a temple tank, looking at fish and lotus leaves.",
+     "art": "A grown-up and a child standing back from the edge of a temple tank, looking at fish and lotus leaves.",
      "caption": "1. Stand back from the edge with a grown-up."
     },
     {
@@ -907,7 +858,7 @@
      "do": "Stand with your child well back from the edge. Look under the water first, then on top, then in the air above. Tick what you see.",
      "say": "Let's look under the water first. Now look on top of the water. Now look in the air. Who lives here?",
      "kid": "Look under the water. Look on top. Look in the air. Who lives here?",
-     "parent": "Fish, tadpoles, pond skaters, dragonflies, lotus or water lilies, egrets and ducks are common. Hold your child's hand near the water."
+     "parent": "Fish, tadpoles, pond skaters, dragonflies, lotus or water lilies, egrets and ducks are common."
     },
     {
      "id": "s2",
@@ -938,7 +889,7 @@
    "context": "In this three-day project you make a small damp, dark place with a tile on soil, like a stone. Each morning you lift the tile slowly to see if anyone has moved in. Then you put the tile back gently.",
    "materials": [
     {
-     "item": "a plant pot, a tray or a steel bowl of soil",
+     "item": "a plant pot, a tray or a bowl of soil",
      "qty": 1
     },
     {
@@ -1015,9 +966,11 @@
      "do": "Lift the tile again. Count and draw. Compare with yesterday's drawing.",
      "say": "Are there more today, or fewer, or the same? Why do you think so?",
      "kid": "Count again. More, fewer or the same as yesterday? Why?",
-     "think": "When we stop the project, should we leave the stone home there?"
+     "think": "When we stop the project, should we leave the stone home there?",
+     "parent": "Put the tile back the same way."
     }
-   ]
+   ],
+   "safety": "A grown-up lifts the tile and keeps fingers out from under it, in case of a centipede or a scorpion."
   }
  ],
  "challenges": [
@@ -1028,7 +981,7 @@
    "context": "This is a design challenge. In the hot months, birds in the city find it hard to get water. You design a small, safe water place for birds on your balcony or window ledge.",
    "problem": "Make a place where small birds can drink and bathe safely on a hot day, using things from home.",
    "constraints": [
-    "The water must be shallow, about as deep as your finger is long or less, so small birds can stand in it.",
+    "The water must be shallow, no deeper than the first knuckle of your finger, so small birds can stand in it.",
     "It must be in the shade, so the water stays cool.",
     "It must be safe from cats, and not fall off a ledge.",
     "The water must be changed every day, so mosquitoes cannot lay eggs in it."
@@ -1044,7 +997,7 @@
    ],
    "creative": [
     "Put a flat stone in the middle, so the smallest birds have somewhere to stand.",
-    "Hang a shallow tray from the grill, inside, where cats cannot climb.",
+    "Put the plate on a high shelf inside the grill, where cats cannot reach.",
     "Put a plant pot beside the water, so birds have a place to rest before they drink."
    ],
    "your_turn": "Draw your water place. Put it out, and watch for two days. Who came? Which birds drank, and which bathed?",
@@ -1165,24 +1118,6 @@
      "art": "An empty circle for the top of a plant pot, split in half by a dotted line."
     },
     {
-     "t": "mcq",
-     "p": "Remember the plate test? Where was the soil wetter after three hours?",
-     "opts": [
-      "In the sun",
-      "Under the plate",
-      "Both were the same"
-     ],
-     "a": 1,
-     "why": "Under the plate, the sun could not dry the soil and the water stayed in. If both were the same, check that the pot was in the sun long enough.",
-     "how": "e1"
-    },
-    {
-     "t": "truefalse",
-     "p": "A tree is a home for only one kind of animal.",
-     "a": false,
-     "why": "False. One tree is home to crows, squirrels, ants, spiders, caterpillars and more, and moss can grow on the bark."
-    },
-    {
      "t": "count",
      "p": "Count the animals in this picture of a tree: a crow on a nest, two squirrels, three ants on the bark, and a kite string caught in the branches.",
      "a": 6,
@@ -1241,6 +1176,23 @@
      ],
      "a": 3,
      "why": "A pond, a temple tank and a puddle all hold water, so water animals can live in them. A sunny windowsill is dry."
+    },
+    {
+     "t": "truefalse",
+     "p": "An earthworm likes to lie on hot, dry ground.",
+     "a": false,
+     "why": "False. An earthworm breathes through her skin, and her skin must stay damp. Hot, dry ground would dry her out."
+    },
+    {
+     "t": "mcq",
+     "p": "Which place gives a crow a high, safe home for her nest?",
+     "opts": [
+      "A pond",
+      "A tall tree",
+      "Under a stone"
+     ],
+     "a": 1,
+     "why": "A crow builds her nest in the branches of a tall tree, high above cats and dogs."
     }
    ]
   },
@@ -1252,7 +1204,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi lays a tile on damp soil in a sunny pot. After lunch, she lifts the tile. What will she most likely find?",
+     "p": "Lakshmi, a girl in Class 1, lays a tile on damp soil in a sunny pot. After lunch, she lifts the tile. What will she most likely find?",
      "opts": [
       "Dry, pale soil",
       "Damp, dark soil",
@@ -1291,7 +1243,7 @@
      "t": "write",
      "p": "Say it to a grown-up, who writes it down: on a hot afternoon, do you sit in the sun or under a tree? How is that like a pill bug under a stone?",
      "lines": 3,
-     "a": "Under a tree, because it is cooler in the shade. A pill bug goes under a stone because it is cooler and damper there.",
+     "a": "Under a tree, where the shade is cool. A pill bug goes under a stone because it is cooler and damper there.",
      "why": "A strong answer sees that humans and other animals both look for a shady, cool place when the sun is hot."
     },
     {
@@ -1382,7 +1334,7 @@
     },
     {
      "t": "label",
-     "p": "This is a picture of a pond. Write the names: lotus, fish, frog, dragonfly.",
+     "p": "This is a picture of a pond. Write the names (a grown-up can help with spelling): lotus, fish, frog, dragonfly.",
      "labels": [
       "lotus",
       "fish",
@@ -1400,16 +1352,10 @@
      "art": "A pond with a lotus on top, a fish under the water, a frog at the edge and a dragonfly in the air, each with an empty label line."
     },
     {
-     "t": "mcq",
-     "p": "Why does a peepal seedling sometimes grow in a crack high on a wall?",
-     "opts": [
-      "A bird ate a peepal fig and dropped the seed there",
-      "Someone climbed up and planted the seed",
-      "The wall made the seed"
-     ],
-     "a": 0,
-     "why": "Birds eat the small figs of peepal trees. The seeds pass through the bird and land wherever the bird sits, even on a wall.",
-     "how": "a3"
+     "t": "truefalse",
+     "p": "A pill bug is an insect, like an ant.",
+     "a": "False",
+     "why": "False. A pill bug has 14 legs, and an insect has 6. Pill bugs are cousins of crabs and prawns, not of ants."
     }
    ]
   }
@@ -1518,14 +1464,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the plate test, what made the soil under the plate stay wet?",
+   "p": "In the plate test, which soil was cooler to touch?",
    "opts": [
-    "The plate kept off the sun and held the water in",
-    "The plate made new water",
-    "The soil under the plate was a different soil"
+    "The soil under the plate",
+    "The soil in the open sun",
+    "Both the same"
    ],
    "a": 0,
-   "why": "Both halves had the same soil and the same water. The only difference was the plate, which blocked the sun.",
+   "why": "The plate kept the sun off the soil under it, so that soil stayed cooler. The soil in the open sun warmed up and dried.",
    "how": "e1",
    "outcome": 4
   },
@@ -1555,14 +1501,14 @@
   },
   {
    "t": "mcq",
-   "p": "Why does a pill bug stay under a pot in the day, and not on the hot floor?",
+   "p": "Paati's ants carried their white young away when she tipped the pot. Why?",
    "opts": [
-    "The hot sun would dry the pill bug's body",
-    "Pill bugs like the sound of the pot",
-    "The floor is too soft"
+    "The young ones need a dark place, and the pot's roof was gone",
+    "The young ones wanted to see the sun",
+    "The ants were tidying the floor"
    ],
    "a": 0,
-   "why": "A pill bug loses water fast in dry air. Under the pot, the air and the floor stay damp.",
+   "why": "Ant young ones are kept in the dark and damp. When the pot was lifted, the ants moved them to a darker place.",
    "outcome": 2
   }
  ],
@@ -1625,10 +1571,6 @@
    "a": "Nothing. She was all wrapped up!"
   },
   {
-   "j": "Why did the tadpole never leave the pond?",
-   "a": "Because the tadpole had not grown legs yet!"
-  },
-  {
    "j": "What is a squirrel's favourite house?",
    "a": "A tree-storey building!"
   },
@@ -1637,25 +1579,25 @@
    "a": "The ant heard the rent was free!"
   },
   {
-   "j": "What does a frog say when the pond is full?",
-   "a": "Ribbit, ribbit, home sweet home!"
+   "j": "Why are frogs always so happy?",
+   "a": "They eat whatever bugs them!"
   },
   {
-   "j": "Why did the moss grow on the shady wall?",
-   "a": "Because the sunny wall was too dry for a nap!"
+   "j": "Why do frogs love the pond?",
+   "a": "It has the best lily-pad flats!"
   },
   {
    "j": "What did the stone say to the earthworm?",
    "a": "I've got you covered!"
   },
   {
-   "j": "Why do bees go to the park?",
-   "a": "For a drink at the flower juice shop!"
+   "j": "Why do bees have sticky hair?",
+   "a": "Because they use honeycombs!"
   }
  ],
  "maths": [
   {
-   "problem": "In the plate test, Selvi put the plate on the soil at 9 o'clock. She lifted the plate at 12 o'clock. How many hours did the plate stay on?",
+   "problem": "In the plate test, Selvi, a girl in Class 1, put the plate on the soil at 9 o'clock. She lifted the plate at 12 o'clock. How many hours did the plate stay on?",
    "answer": "3 hours.",
    "explain": "From 9 to 10 is one hour, 10 to 11 is two, and 11 to 12 is three. So the plate stayed on for 3 hours.",
    "math_unit": "math.time.daily-time.L1",
@@ -1664,7 +1606,7 @@
    "why_maths": "Knowing how long the plate stayed on lets us compare our test with a friend's, and try a longer or shorter time."
   },
   {
-   "problem": "Revathi counted small plants growing in wall cracks. She found 4 on the shady wall and 1 on the sunny wall. Which wall had more plants? Why might that be?",
+   "problem": "Revathi, a girl in Class 1, counted small plants growing in wall cracks. She found 4 on the shady wall and 1 on the sunny wall. Which wall had more plants? Why might that be?",
    "answer": "The shady wall had more plants, 4 instead of 1.",
    "explain": "4 is more than 1. A shady wall stays damp for longer after rain, so small plants and moss can live there more easily.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1673,9 +1615,9 @@
    "why_maths": "Comparing the two counts shows a pattern, and the pattern makes us ask why shade helps plants in cracks."
   },
   {
-   "problem": "Mahi lifted her stone home each morning. On day 1 she found 0 ants. On day 2 she found 2 ants. On day 3 she found 5 ants. Which day had the most ants? What is happening to the number?",
-   "answer": "Day 3 had the most ants, 5. The number is going up each day.",
-   "explain": "0, then 2, then 5: each day there were more ants than the day before. More ants were finding the damp, dark place.",
+   "problem": "Mahi, a girl in Class 1, laid a tile on damp soil on day 1. On day 2 she lifted it and found 2 ants. On day 3 she found 5 ants. Which day had more ants? What is happening to the number?",
+   "answer": "Day 3 had more ants, 5. The number is going up.",
+   "explain": "2, then 5: there were more ants on day 3 than on day 2. More ants were finding the damp, dark place.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "p1",
    "context": "This is about the stone home project, where you lifted a tile each morning to see who had moved in.",
@@ -1820,8 +1762,8 @@
  "roots": {
   "context": "We have looked at homes near our home, and made a damp, dark place with a plate. Now we ask what that tells us about places and the beings who live in them.",
   "deep_truth": {
-   "truth": "Our steel plate lay on the soil all morning. Under it, the soil stayed dark, damp and cool. A hand away, the soil in the sun turned pale and dry. So one flat cover makes a new small home, right beside a very different one.",
-   "habit": "We think of a home as a big place, like a forest or a pond. But a home can be as small as the ground under one stone, and it changes when the stone is moved.",
+   "truth": "We covered half of some wet soil with a plate and left it in the sun for three hours. Under the plate, the soil stayed dark, damp and cool. In the open, the same soil turned pale and dry. So a flat cover makes a new place, where animals that need damp can live.",
+   "habit": "We think of a home as a big place, like a forest or a pond. But a home can be as small as the ground under one stone.",
    "evidence": "In the plate test, the same soil, the same water and the same sun gave two different places a hand apart. Only the plate was different."
   },
   "three": {
@@ -1829,12 +1771,12 @@
    "what_is_life": "Every living being needs a place that gives them food, water and safety. Life finds such places everywhere, even under a pot.",
    "what_is_this_world": "The world near your home is made of many small homes side by side: a tree, a puddle, a crack, a stone."
   },
-  "thread": "The same ground, the same sun and the same rain are all around your home. Where a stone, a tree or a puddle sits, they meet in a different way, and a different home appears. So one world, through small changes in light, water and warmth, becomes many homes. Each home has their own living beings, and the stone that lies still for years is part of the making.",
+  "thread": "The same sun and rain fall on all the ground near your home. A stone, a tree or a pond changes how much light, water and warmth reach one spot. So each spot gives different living beings what they need.",
   "teachings": [
    {
     "source": "Tolkappiyam, Porulatikaram (Akattinaiyiyal)",
-    "teaching": "The Tolkappiyam is a very old Tamil book about language and poems. It sorts the land into kinds, such as hills, forest, farmland and seashore. Each kind of land has their own trees, flowers, birds and animals.",
-    "link": "Our plate test found two different homes a hand apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has their own living beings."
+    "teaching": "The Tolkappiyam is a very old Tamil book about language and poems. It sorts the land into kinds, such as hills, forest, farmland and seashore. Each kind of land has its own trees, flowers, birds and animals.",
+    "link": "Our plate test found two different homes a hand apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has its own living beings."
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 4, Lesson 1",
@@ -1864,17 +1806,17 @@
   },
   "ask": [
    "When we lift a stone, whose home are we opening?",
-   "If the plate stayed on the soil for a whole year, who might live under it?",
-   "Did the pill bug choose the damp place, or did the damp place gather the pill bugs?"
+   "If the plate stayed on the soil for a whole year, who might live under it?"
   ],
   "art": "A child sitting cross-legged with cupped hands over their eyes, beside a flat stone with an earthworm and a pill bug resting in the dark soil beneath."
  },
  "how_we_found_out": {
   "context": "How did people find out where small creatures like caterpillars come from, and where they live? This card tells the true story of a woman who watched them closely.",
-  "story": "About 350 years ago, in Germany, many people believed that small creatures like caterpillars and worms grew out of mud, dew or rotting things, all by themselves. A girl called Maria Sibylla Merian wanted to see for herself. When she was 13, she began to raise silkworms and other caterpillars at home. She fed them, watched them every day and drew them. She saw each caterpillar eat and grow, and then make a hard case called a pupa. Later a moth or a butterfly came out. She also saw that many kinds of caterpillar eat only certain plants. So she painted each insect on their own food plant, with the eggs, the caterpillar, the pupa and the grown insect in one picture. In 1679 she published a book of these paintings. Twenty years later, at the age of 52, she sailed to Suriname in South America with her daughter Dorothea, to study the insects and plants there. Her pictures showed that each small creature has a life story and a home plant.",
+  "story": "About 350 years ago, in Germany, many people believed that small creatures like caterpillars and worms grew out of mud, dew or rotting things, all by themselves. A girl called Maria Sibylla Merian wanted to see for herself. When she was 13, she began to raise silkworms and other caterpillars at home. She fed them, watched them every day and drew them. She saw each caterpillar eat and grow, and then make a hard case called a pupa. Later a moth or a butterfly came out. She also saw that many kinds of caterpillar eat only certain plants. So she painted insects on the plants they eat, with the eggs, the caterpillar, the pupa and the grown insect in one picture. In 1679 she published a book of these paintings. Twenty years later, at the age of 52, she sailed to Suriname in South America with her daughter Dorothea, to study the insects and plants there. Her pictures showed that each small creature has a life story and a home plant.",
   "who": "Maria Sibylla Merian, a German artist and naturalist, with her daughter Dorothea",
   "when": "From about 1660 (her first silkworms) to 1705 (her book on the insects of Suriname)",
-  "wrong_idea": "That caterpillars and other small creatures grew out of mud, dew or rotting things by themselves. Merian raised them from eggs, watched every stage, and showed each one living and feeding on their own plant.",
+  "wrong_idea": "That caterpillars and other small creatures grew out of mud, dew or rotting things by themselves. Merian raised them from eggs, watched every stage, and showed them living and feeding on the plants they eat.",
   "art": "A woman in a long dress of the 1600s at a table, painting a caterpillar and a butterfly on a leafy branch, with a box of caterpillars on leaves beside her."
- }
+ },
+ "playtest": "Walked through both games, the plate test, the four activities, the stone-home project and the bird-water challenge as a parent and a child would in a flat, and checked minutes, step ids, schedules and counts. Earlier fixes: game 1 prints 12 plain cards with an ending rule; repeated questions, an overnight step, assumed family members and weak jokes were cut; safety lines were added where real. This pass: game 2 now uses the cloth it asks for and says who taps the shoulder, game 1 says whose turn comes next, the project maths now matches the two lifts in the project, and three repeated questions (plate cooler, ants moving their young, pill bug not an insect) were replaced."
 }

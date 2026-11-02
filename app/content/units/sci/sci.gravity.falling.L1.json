@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Hold a spoon up high. Open your hand. What happens? Now try it with a feather or a balloon. Does that fall too?",
-  "text": "The spoon fell, clang, onto the floor. Did the feather fall too, even though it was slow? In this unit you let go of many things and watch where they go. You find out what holds things up. And you learn the name scientists give to the pull that makes things fall.",
+  "text": "Try the spoon first. Then try a feather and a balloon. Do they all fall? In this unit you let go of many things and watch where they go. You find out what holds things up. And you learn the name scientists give to the pull that makes things fall.",
   "art": "A child's open hand high above a steel plate, with a steel spoon just leaving the fingers."
  },
  "outcomes": [
@@ -44,7 +44,7 @@
    "concept": "Everything falls when we let go",
    "status": "defined",
    "definition": "When nothing holds a thing up, it falls down. The Earth pulls everything towards it. Scientists call this pull gravity.",
-   "description": "In the Let-Go Test, you opened your hand and let go of ten things. The spoon fell. The rice fell. The water fell. Even the feather and the balloon fell, only slowly. Nothing went up, and nothing stayed in the air. The Earth pulls on everything near it, all the time. Scientists call the Earth's pull gravity. Gravity is a force, a pull, like the pulls you know from moving toys. But nobody has to touch the spoon. The Earth pulls it from below, without touching.",
+   "description": "In the Let-Go Test you let go of ten things. The spoon fell. The rice fell. The water fell. Even the feather and the balloon fell, only slowly. Nothing stayed up. The Earth pulls everything down, and nobody has to touch the spoon for it to pull.",
    "examples": [
     "In the Let-Go Test, the spoon, the bottle cap and the lemon fell fast.",
     "In the Let-Go Test, the feather and the balloon fell slowly, but they still landed.",
@@ -58,7 +58,7 @@
    "concept": "A thing stays up only while something holds it",
    "status": "defined",
    "definition": "A thing that is not falling is being held up. A hand, a shelf, a string, a hook or the floor holds it. Something that holds a thing up is called a support.",
-   "description": "In Take Away the Holder, a steel tumbler sat on a book. It did not fall, because the book held it up. When the book was pulled away, the tumbler fell at once. A key on a thread stayed up while you held the thread. When you let go, it fell. The fan is held up by the ceiling. A clock is held up by a nail. You are held up by the floor or your chair. The Earth pulls all of them, all the time. Each one stays up only because a support holds it.",
+   "description": "In Take Away the Holder, a tumbler sat on a book. It did not fall, because the book held it up. When the book was pulled away, the tumbler fell. The Earth pulls the fan, the clock and you too. Each one stays up because a support holds it.",
    "examples": [
     "In Take Away the Holder, the tumbler stayed up on the book, and fell when the book went.",
     "Clothes on a washing line are held up by the pegs and the line.",
@@ -72,7 +72,7 @@
    "concept": "Things fall straight down",
    "status": "defined",
    "definition": "A dropped thing falls straight down, to the spot right under where you let go. Down means towards the ground, the Earth.",
-   "description": "In Right on the Dot, you held a lemon right above a dot and let go. It landed on the dot, or very close. It did not go sideways or curve away. It fell straight down. A sheet of paper did something different. It rocked and slid sideways as it fell, because the air pushed it about. But it still came down to the floor in the end. Wherever you are in India, or anywhere on Earth, down means towards the ground under your feet.",
+   "description": "In Right on the Dot, you held a lemon above a dot and let go. It landed on the dot, or very close. It fell straight down. A sheet of paper rocked and slid sideways, because the air pushed it about. It still came down.",
    "examples": [
     "In Right on the Dot, the lemon landed on the dot under your hand.",
     "Water from a tap falls straight down into the bucket.",
@@ -86,7 +86,7 @@
    "concept": "Some things fall slowly, but they still fall",
    "status": "defined",
    "definition": "Feathers, paper, cotton and blown-up balloons fall slowly, because the air gets in their way. They still fall to the ground.",
-   "description": "The air all around us is made of tiny bits you cannot see. A light, wide thing like a feather has to push through all that air as it falls. The air slows it down. So it drifts down slowly, but it still lands. A balloon you blow up with your mouth falls slowly too. A balloon from a fair is different. It is filled with a gas called helium, which is lighter than air. The heavier air around it slides underneath and pushes it up. When the helium leaks out after a day or two, the balloon comes down.",
+   "description": "Air is all around us. You cannot see it, but it is there. A light, wide thing like a feather has to push through the air as it falls, so the air slows it down. A balloon from a fair is filled with helium gas, which is lighter than air. The air around pushes that balloon up. When the helium leaks out, it comes down.",
    "examples": [
     "In the Let-Go Test, the feather rocked slowly down and landed.",
     "A blown-up balloon floats down and bumps gently on the floor.",
@@ -100,7 +100,7 @@
    "concept": "What is gravity, really?",
    "status": "idea",
    "definition": "",
-   "description": "We know a lot about what gravity does. It makes things fall, it holds you on the ground, and it keeps the Moon going round the Earth. But how does the Earth pull a spoon without touching it? Scientists have two big ideas. Both ideas give the same answers for spoons and mangoes. Nobody yet knows what gravity is at the very tiniest scale.",
+   "description": "We know what gravity does. It makes things fall, and it keeps the Moon going round the Earth. But how does the Earth pull a spoon without touching it? Scientists have two big ideas, and both give the same answers for spoons and mangoes. No one yet knows what gravity is at the very smallest size.",
    "examples": [
     "Gravity pulls the spoon down, without touching it.",
     "Gravity pulls the Moon too, and keeps the Moon going round the Earth."
@@ -185,12 +185,11 @@
   "title": "Nila and the Falling Spoon",
   "mins": 6,
   "read_aloud": true,
-  "note": "Nila, Arul, Amma and Paati are made up. Paati means grandmother in Tamil, and malli is jasmine. Kites, big brown birds of prey, really do circle over Chennai and many Indian cities.",
+  "note": "Nila, Arul and Paati are made up. Paati means grandmother in Tamil, and malli is jasmine. Kites, big brown birds of prey, really do circle over Chennai and many Indian cities.",
   "text": [
    "Nila was six. She lived in a flat on the fourth floor of a building in Chennai. From her window she could see coconut trees, a big water tank and a lot of sky.",
    "Her baby brother Arul was one year old. Every morning he sat in his high chair and ate soft idli. And every morning he did the same thing.",
    "He held his spoon up high. He opened his hand. Clang! The spoon fell onto the floor.",
-   "Amma picked it up and gave it back. Arul held it up high again. He opened his hand. Clang!",
    "'Why does he keep doing that?' asked Nila.",
    "Paati was drinking her coffee. 'He is doing a test,' she said. 'Babies drop things again and again. They are finding out what happens.'",
    "'But the spoon always falls,' said Nila. 'Every single time.'",
@@ -203,10 +202,8 @@
    "'Paati! That bird is not falling!'",
    "Paati came to the window. 'Watch her wings,' she said. 'Her wings push the air down, and the air pushes her up. The air is holding her, the way your hand holds a spoon.'",
    "Just then the kite tucked her wings in a little. Down she swooped, towards the coconut trees. Then she spread them wide again and sailed up.",
-   "Nila thought about this all day. At lunch, she looked at her plate. The plate was not falling. The table was holding it up. She looked at the fan. The ceiling was holding it up. She looked at the clock. A nail in the wall was holding it up.",
-   "She sat on the floor and felt it under her legs. 'The floor is holding me up,' she said.",
+   "Nila thought about this all day. At lunch, she looked at her plate. The table was holding it up. The ceiling was holding up the fan. A nail was holding up the clock.",
    "At dinner, Arul held his spoon up high again. This time Nila was ready. She put her hand under his. He opened his fingers, and the spoon fell, right into her palm.",
-   "Arul stared at the spoon. He stared at Nila. Then he laughed and laughed.",
    "'You see, Arul,' said Nila. 'Everything falls. The feather, the flower and even the balloon. The spoon falls too, unless someone holds it. Tonight I am the one holding it.'",
    "Paati smiled. 'Scientists have a name for the Earth's pull,' she said. 'They call it gravity.'",
    "That night, Nila lay in bed. The bed held her up. The floor held the bed. The building held the floor, and the ground held the building. And under them all, the Earth was pulling, all the time."
@@ -230,7 +227,7 @@
    "id": "g1",
    "title": "Fast, Slow or Up? The let-go card game",
    "mins": 12,
-   "players": "2 or more players and one reader.",
+   "players": "2 or more players. Take turns being the reader.",
    "context": "This is a card game. Each card shows something being let go of. Players guess what it will do: fall fast, fall slowly, or go up.",
    "printables": [
     {
@@ -274,8 +271,8 @@
        "b": "SLOW. It sinks slowly, or pops on the way."
       },
       {
-       "f": "Throw a ball up high",
-       "b": "UP, then DOWN. Your throw pushes it up. Then the Earth pulls it back down."
+       "f": "Smoke rises from an agarbatti",
+       "b": "UP. The hot smoky air is lighter than the air around it, and the heavier air pushes it up."
       },
       {
        "f": "Let go of a helium balloon from a fair",
@@ -289,8 +286,17 @@
     },
     {
      "kind": "tokens",
-     "title": "3 answer tokens for each player",
+     "title": "12 answer tokens: 3 for each of up to 4 players",
      "items": [
+      "FAST (an arrow pointing straight down)",
+      "SLOW (a wavy arrow pointing down)",
+      "UP (an arrow pointing up)",
+      "FAST (an arrow pointing straight down)",
+      "SLOW (a wavy arrow pointing down)",
+      "UP (an arrow pointing up)",
+      "FAST (an arrow pointing straight down)",
+      "SLOW (a wavy arrow pointing down)",
+      "UP (an arrow pointing up)",
       "FAST (an arrow pointing straight down)",
       "SLOW (a wavy arrow pointing down)",
       "UP (an arrow pointing up)"
@@ -299,12 +305,12 @@
    ],
    "rules": [
     "Cut out the 12 cards. Mix them and put them in a pile, question side up.",
-    "Each player has three tokens: FAST, SLOW and UP.",
-    "The reader reads the top card out loud. A grown-up reads for a child who cannot read yet.",
-    "Every player holds up one token at the same time.",
+    "Cut out the tokens. Each player takes one set of three: FAST, SLOW and UP.",
+    "Take turns to be the reader. The reader reads the top card out loud. A grown-up reads for a child who cannot read yet.",
+    "Every player, the reader too, holds up one token at the same time. The reader keeps the back of the card hidden.",
     "The reader turns the card over and reads the back. Everyone with the right token gets a point. Say why for a bonus point.",
-    "If you are not sure, try it at home with a real spoon, paper or ball.",
-    "Play until all 12 cards are read."
+    "If you are not sure, try it with a real spoon, paper or ball afterwards.",
+    "Pass the pile to the next reader after each card. Play until all 12 cards are read. The player with the most points wins. If points are equal, everyone wins."
    ],
    "setup": [
     {
@@ -327,7 +333,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Play all 12 cards. After each card, ask one player why.",
+     "do": "Play all 12 cards. After each card, ask one player why. Swap the reader each time.",
      "say": "Let go of a balloon you blew up. Fast, slow or up? Show me. Why do you think so?",
      "kid": "Listen to the card. Hold up a token. Say why.",
      "ask": [
@@ -339,17 +345,17 @@
        ]
       }
      ],
-     "parent": "The helium balloon and the thrown ball are the tricky cards. A helium balloon goes up only because the heavier air around it pushes it up. A thrown ball goes up only because your hand pushed it."
+     "parent": "The helium balloon and the agarbatti smoke are the tricky cards. Both go up only because the heavier air around them pushes them up. Nothing is pulling them up."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "One last card, and it is a hard one.",
+     "say": "One last question, and it is a hard one.",
      "kid": "Answer the last one.",
      "check": {
       "t": "mcq",
-      "q": "Meenakshi throws a ball up into the air. What happens to it?",
+      "q": "A girl called Meenakshi throws a ball up into the air. What happens to it?",
       "options": [
        "It goes up, then falls back down",
        "It goes up and stays up",
@@ -431,7 +437,7 @@
      "kid": "Count your ticks. Did anything stay up and wait?",
      "check": {
       "t": "mcq",
-      "q": "Jyoti is catching a hanky and a sock ball. Which one gives her more time to catch it?",
+      "q": "A girl called Jyoti is catching a hanky and a sock ball. Which one gives her more time to catch it?",
       "options": [
        "The hanky",
        "The sock ball",
@@ -496,23 +502,17 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "Thenmozhi holds a bottle cap up high and opens her hand. What does the cap do?",
-     "opts": [
-      "It falls down",
-      "It stays in the air",
-      "It goes up"
-     ],
-     "a": 0,
-     "why": "Nothing is holding the cap now, so the Earth's pull makes it fall down.",
-     "how": "e1"
-    },
-    {
      "t": "truefalse",
      "p": "A feather never falls. It floats in the air for ever.",
      "a": false,
      "why": "False. In the Let-Go Test, the feather drifted slowly, but it landed in the end. The air slows a feather, but the Earth still pulls it down.",
      "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "When you jump, the Earth stops pulling you for a moment.",
+     "a": "False",
+     "why": "False. The Earth pulls you all the time. You go up because your legs push, and the Earth's pull brings you back down."
     },
     {
      "t": "match",
@@ -541,18 +541,6 @@
      "how": "a1"
     },
     {
-     "t": "mcq",
-     "p": "Revathi holds a book with a steel tumbler on it. Her brother pulls the book away. What happens to the tumbler?",
-     "opts": [
-      "It falls",
-      "It stays in the air",
-      "It jumps up"
-     ],
-     "a": 0,
-     "why": "The book was the tumbler's support. When the support goes, the tumbler falls at once.",
-     "how": "a1"
-    },
-    {
      "t": "write",
      "p": "Say out loud, and a grown-up writes it down: why did the tumbler fall when the book was pulled away?",
      "lines": 2,
@@ -561,8 +549,20 @@
      "how": "a1"
     },
     {
+     "t": "mcq",
+     "p": "A girl called Mohini lets go of a mango and a feather from the same height at the same time. Which one reaches the floor first?",
+     "opts": [
+      "The mango",
+      "The feather",
+      "They land together"
+     ],
+     "a": 0,
+     "why": "The mango lands first. The air slows the feather, so it takes longer. Both fall.",
+     "how": "e1"
+    },
+    {
      "t": "perspective",
-     "p": "Gurpreet and Lakshmi watched the balloon in the Let-Go Test.",
+     "p": "Gurpreet and Lakshmi watched the balloon in the Let-Go Test. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.",
      "views": [
       {
        "who": "Gurpreet, aged 6",
@@ -573,7 +573,7 @@
        "says": "The balloon fell. It just fell slowly, and then it landed on the floor."
       }
      ],
-     "ask": "Who do you agree with? Why? Say one thing the other girl noticed that is true.",
+     "ask": "Who do you agree with? Why? Say one thing the other child noticed that is true.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason from the test. Lakshmi is right that it landed. Gurpreet is right that it moved very slowly, as if floating, and that it is light.",
      "why": "The balloon did fall, all the way to the floor. But Gurpreet saw something true: it moved so slowly that it seemed to float, because the air slowed it.",
@@ -608,15 +608,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Diya holds a lemon right above a dot on the newspaper and lets go. Where will it land?",
+     "p": "A girl called Kiran squashes a sheet of paper into a tight ball. She drops it next to a flat sheet of the same paper. Which one lands first?",
      "opts": [
-      "On the dot, right under her hand",
-      "Far away from the dot",
-      "It stays in the air"
+      "The tight ball",
+      "The flat sheet",
+      "They land together"
      ],
      "a": 0,
-     "why": "A lemon falls straight down, to the spot right under where you let go.",
-     "how": "e2"
+     "why": "The ball lands first. It is the same paper, but the flat sheet is wide, so the air slows it down more."
     },
     {
      "t": "draw",
@@ -650,15 +649,8 @@
      "how": "a1"
     },
     {
-     "t": "write",
-     "p": "Say out loud, and a grown-up writes it: Bornali jumps as high as she can. Why does she always come back down?",
-     "lines": 2,
-     "a": "The Earth pulls her down. Gravity brings her back every time.",
-     "why": "A strong answer names the Earth's pull, or gravity, as what brings her down."
-    },
-    {
      "t": "perspective",
-     "p": "Ishita and her brother Farhan are watching a kite bird circling high over Kolkata.",
+     "p": "Ishita and her brother Farhan are watching a kite bird circling high over Kolkata. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.",
      "views": [
       {
        "who": "Farhan, aged 6",
@@ -688,7 +680,7 @@
       ],
       [
        "A rubber ball",
-       "Down, then bounces up and down"
+       "Down, bounces up a little, then down again"
       ],
       [
        "Water from a tap",
@@ -719,7 +711,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Wall Marble Run, Kavya puts the marble at the top. Which way does the marble always end up going?",
+     "p": "In the Wall Marble Run, a girl called Kavya puts the marble at the top. Which way does the marble always end up going?",
      "opts": [
       "Down to the bottom",
       "Up to the top of the door",
@@ -731,10 +723,16 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it: smoke from an agarbatti goes up. Does that mean smoke is not pulled by the Earth? What do you think?",
-     "lines": 3,
-     "a": "The Earth pulls smoke too. The air around it is cooler and heavier, so it sinks underneath and pushes the warm smoke up.",
-     "why": "A strong answer says the Earth pulls everything, and that something else pushes the smoke up. Any answer that thinks about what might be pushing it up is a good start."
+     "p": "Say out loud, and a grown-up writes it: a friend says rain falls because the clouds throw it down. What really makes raindrops come down?",
+     "lines": 2,
+     "a": "The Earth's pull, gravity, brings the raindrops down.",
+     "why": "A strong answer says the Earth pulls the raindrops down, the same way it pulls a spoon."
+    },
+    {
+     "t": "truefalse",
+     "p": "If someone took the floor away, you would stay up in the air.",
+     "a": "False",
+     "why": "False. The floor is what holds you up. Without it, the Earth's pull would make you fall, like the tumbler when the book went."
     }
    ]
   }
@@ -780,7 +778,7 @@
      "qty": 1
     },
     {
-     "item": "a balloon, blown up by mouth and tied",
+     "item": "a balloon, blown up and tied by a grown-up",
      "qty": 1
     },
     {
@@ -800,7 +798,7 @@
      "qty": 1
     },
     {
-     "item": "two sheets of paper: one with a big arrow pointing down (FALLS), one with a flat line (STAYS UP)",
+     "item": "two sheets of paper: draw a big arrow pointing down and write FALLS on one, and draw a flat line and write STAYS UP on the other",
      "qty": 2
     }
    ],
@@ -808,7 +806,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Sort the ten things by your guesses, let go of each one, and draw what happened."
+     "what": "Sort the ten things by your guesses, let go of each one, and move each to the sheet where it really belongs."
     }
    ],
    "record": "Draw the ten things on a page. Next to each, draw an arrow down if it fell. Colour the arrow red for fast and blue for slow. A grown-up can write the names.",
@@ -818,12 +816,12 @@
     "data": [
      {
       "label": "Fell fast",
-      "value": 6,
+      "value": 5,
       "emoji": "🥄"
      },
      {
       "label": "Fell slowly",
-      "value": 4,
+      "value": 5,
       "emoji": "🪶"
      },
      {
@@ -855,10 +853,10 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the ten things on a mat. 2. Lay the FALLS sheet and the STAYS UP sheet next to them. 3. Name each thing together.",
+     "do": "1. Put the ten things on a mat. 2. Draw a big down arrow and write FALLS on one sheet. Draw a flat line and write STAYS UP on the other. Lay both sheets next to the things. 3. Name each thing together.",
      "say": "Here are ten things from our home. When we let go of them, what will they do? Let's guess first.",
      "kid": "Look at the ten things. Say the name of each one.",
-     "parent": "Blow up the balloon with your mouth, not with a pump from a fair. Leave a gap around you, away from the fan."
+     "parent": "Blow up the balloon yourself and tie it. Leave a gap around you, away from the fan."
     },
     {
      "id": "s2",
@@ -880,7 +878,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child stands over the steel plate. 2. They hold each heavy thing at shoulder height and open their hand. 3. Do the spoon, the cap, the lemon, the rice and the water.",
+     "do": "1. Your child stands over the steel plate. 2. They hold each solid thing at shoulder height and open their hand. 3. Do the spoon, the cap, the lemon, the rice and the water.",
      "say": "Hold the spoon up. Don't throw it. Just open your hand. Where did it go? Now the rice. Listen to it land.",
      "kid": "Hold the spoon up. Open your hand. Where did it go?",
      "ask": [
@@ -947,7 +945,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Kavya lets go of a feather. What will the feather do?",
+      "q": "A girl called Kavya lets go of a feather. What will the feather do?",
       "options": [
        "Fall slowly and land",
        "Stay up in the air",
@@ -1028,7 +1026,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Spread the newspaper on the floor. 2. Your child draws a big dot in the middle, about the size of a steel plate.",
+     "do": "1. Spread the newspaper on the floor. 2. Your child draws a big dot in the middle, as wide as a steel katori.",
      "say": "Let's draw a target. Make a big dot in the middle of the paper.",
      "kid": "Draw a big dot in the middle of the newspaper."
     },
@@ -1070,7 +1068,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Now your child holds the sheet of paper flat, right above the dot, and lets go. Do it three times. Mark where it lands each time.",
+     "do": "Now your child holds the sheet of paper flat at chest height, right above the dot, and lets go. Do it three times. Mark where it lands each time.",
      "say": "Now the paper. Hold it flat above the dot. Let go. Did it land on the dot? What did it do on the way down?",
      "kid": "Hold the paper flat over the dot. Let go. Where did it go?",
      "ask": [
@@ -1093,7 +1091,7 @@
      "kid": "Where did the lemon land? Where did the paper land? Why?",
      "check": {
       "t": "mcq",
-      "q": "Diya holds a ball right above a steel bowl and lets go. Where will the ball land?",
+      "q": "A girl called Diya holds a ball right above a steel bowl and lets go. Where will the ball land?",
       "options": [
        "In the bowl, right under her hand",
        "Far away from the bowl",
@@ -1198,7 +1196,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Walk around the home together. Point to five things that are up off the floor. For each one, your child says what holds it up.",
-     "say": "Look at the fan. Why isn't it falling? What is holding it up? Now the clock. Now the clothes on the line. What about you?",
+     "say": "Look at the fan. Why isn't it falling? What is holding it up? Now the clock. Now find something else that is up off the floor. What about you?",
      "kid": "Look at the fan. What holds it up? Now find four more things.",
      "ask": [
       {
@@ -1220,7 +1218,7 @@
      "kid": "Answer one question.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi hangs a towel on a hook. What happens if the hook breaks?",
+      "q": "A girl called Lakshmi hangs a towel on a hook. What happens if the hook breaks?",
       "options": [
        "The towel falls down",
        "The towel stays in the air",
@@ -1286,13 +1284,13 @@
        ]
       }
      ],
-     "parent": "Water from the tank on the roof comes down the pipes to your tap. The Earth's pull brings it to you."
+     "parent": "In most flats the water comes from a tank on the roof, down the pipes to your tap. The Earth's pull brings it to you."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Sit at a window or on the balcony for five minutes. Your child makes a tally mark for every falling thing they see.",
-     "say": "Let's watch for five minutes. Every time you see something fall, make a mark. Leaves, rain, a dropped peg, water from a pipe, a bird landing.",
+     "say": "Let's watch for five minutes. Every time you see something fall, make a mark. Leaves, rain, a dropped peg, water from a pipe.",
      "kid": "Watch the window. Every time something falls, make a mark.",
      "ask": [
       {
@@ -1300,12 +1298,11 @@
        "good": [
         "A leaf.",
         "Raindrops.",
-        "Water dripping from the air conditioner pipe.",
-        "A crow coming down to land."
+        "Water dripping from the air conditioner pipe."
        ]
       }
      ],
-     "parent": "On a dry day, there may be only a few things. Look for leaves, dust in a sunbeam, drips from a pipe or a cooler, and birds coming down to land. If there is nothing at all, drop a leaf from a potted plant yourself."
+     "parent": "On a dry day, there may be only a few things. Look for leaves, drips from a pipe or an air cooler, and a peg or a petal that has come off. If there is nothing at all, drop a leaf from a potted plant yourself."
     },
     {
      "id": "s3",
@@ -1315,14 +1312,14 @@
      "kid": "Count your marks. Did anything fall up?",
      "check": {
       "t": "mcq",
-      "q": "Bornali watches the rain from her window in Guwahati. Which way do the raindrops go?",
+      "q": "A girl called Bornali has a potted plant. A dry leaf comes off. Where does the leaf go?",
       "options": [
-       "Down to the ground",
-       "Up to the clouds",
-       "They stay still in the air"
+       "Down to the floor",
+       "Up to the ceiling",
+       "It stays in the air"
       ],
       "a": 0,
-      "why": "Rain falls down because the Earth pulls it. The wind can blow it sideways a little, but it always comes down."
+      "why": "The Earth pulls the leaf down. The leaf sways because the air pushes it about, but it always lands."
      }
     }
    ]
@@ -1399,14 +1396,14 @@
      "kid": "Answer one question.",
      "check": {
       "t": "mcq",
-      "q": "Farhan jumps as high as he can. What happens next?",
+      "q": "A girl called Zoya jumps as high as she can. What happens next?",
       "options": [
-       "He comes back down",
-       "He stays up in the air",
-       "He keeps going up"
+       "She comes back down",
+       "She stays up in the air",
+       "She keeps going up"
       ],
       "a": 0,
-      "why": "The Earth pulls Farhan down, so every jump ends back on the ground."
+      "why": "The Earth pulls Zoya down, so every jump ends back on the ground."
      }
     }
    ]
@@ -1533,7 +1530,7 @@
      "kid": "Answer one question.",
      "check": {
       "t": "mcq",
-      "q": "Revathi puts a marble at the top of her marble run. Which way does it always go in the end?",
+      "q": "A girl called Revathi makes a marble run and puts a marble at the top. Which way does it always go in the end?",
       "options": [
        "Down to the bowl at the bottom",
        "Up to the ceiling",
@@ -1549,15 +1546,15 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "Hold Up Teddy Without Your Hands",
+   "title": "Hold Up a Toy Without Your Hands",
    "mins": 15,
    "context": "This is a design challenge. You must make a small toy stay up in the air, off the floor and off any table, for one whole minute, without holding it.",
-   "problem": "Malini wants her small teddy to stay up in the air for one minute, so she can draw a picture of it. She cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can she keep Teddy up?",
+   "problem": "Malini wants her small teddy to stay up in the air for one minute, so she can draw a picture of it. She cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can she keep it up?",
    "constraints": [
-    "Teddy must be up in the air, not sitting on a floor, table, bed or shelf.",
-    "Nobody may hold Teddy.",
+    "The toy must be up in the air, not sitting on a floor, table, bed or shelf.",
+    "Nobody may hold the toy.",
     "Use only things from home.",
-    "Teddy must stay up for one whole minute."
+    "The toy must stay up for one whole minute."
    ],
    "materials": [
     "a small soft toy",
@@ -1574,19 +1571,19 @@
     "Cable cars, like the ones in Gangtok and other hill towns, hang from strong cables."
    ],
    "creative": [
-    "Tie a dupatta to a door handle and make a little hammock for Teddy.",
-    "Peg Teddy's ear to a clothes hanger and hang the hanger on a hook.",
-    "Put Teddy in a cloth bag and hang the bag from the back of a chair."
+    "Tie a dupatta to a door handle and make a little hammock for the toy.",
+    "Peg the toy's ear to a clothes hanger and hang the hanger on a hook.",
+    "Put the toy in a cloth bag and hang the bag from the back of a chair."
    ],
-   "your_turn": "Find two different ways to keep Teddy up. What is Teddy's support each time? What happens if you take that support away?",
+   "your_turn": "Find two different ways to keep the toy up. What is the toy's support each time? What happens if you take that support away?",
    "setup": [
     {
      "art": "A small teddy on a mat, and next to it a dupatta, string, clothes pegs, a hanger and a cloth bag.",
-     "caption": "1. Teddy must stay up. What could hold Teddy?"
+     "caption": "1. The toy must stay up. What could hold the toy?"
     },
     {
-     "art": "A teddy in a little dupatta hammock tied to a door handle, and a girl watching a phone timer.",
-     "caption": "2. Make a holder. Can Teddy stay up for one minute?"
+     "art": "A small soft toy in a little dupatta hammock tied to a door handle, and a girl watching a phone timer.",
+     "caption": "2. Make a holder. Can the toy stay up for one minute?"
     }
    ],
    "flow": [
@@ -1594,11 +1591,11 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem. Put the toy and the materials on the floor.",
-     "say": "Teddy has to stay up in the air for one minute. You can't hold Teddy. What could hold Teddy up instead?",
-     "kid": "Teddy must stay up. You can't hold Teddy. What could hold Teddy?",
+     "say": "The toy has to stay up in the air for one minute. You can't hold the toy. What could hold the toy up instead?",
+     "kid": "The toy must stay up. You can't hold the toy. What could hold the toy?",
      "ask": [
       {
-       "q": "What could hold Teddy up?",
+       "q": "What could hold the toy up?",
        "good": [
         "A string.",
         "The dupatta, like a swing.",
@@ -1611,26 +1608,26 @@
      "id": "s2",
      "mins": 9,
      "do": "Your child tries their ideas. Time one minute for each. Help with knots only if asked.",
-     "say": "Try your idea. Start the timer. Is Teddy still up? What is holding Teddy now?",
-     "kid": "Try your idea. Is Teddy still up? What is holding Teddy?",
-     "parent": "If Teddy keeps slipping, ask where Teddy is slipping from, and what could hold that part."
+     "say": "Try your idea. Start the timer. Is the toy still up? What is holding the toy now?",
+     "kid": "Try your idea. Is the toy still up? What is holding the toy?",
+     "parent": "If the toy keeps slipping, ask where the toy is slipping from, and what could hold that part."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Ask what worked, and what the support was. Then the check question.",
-     "say": "Which way worked best? What was Teddy's support? What would happen if we cut the string?",
-     "kid": "What held Teddy up? What if we cut the string?",
+     "say": "Which way worked best? What was the toy's support? What would happen if we cut the string?",
+     "kid": "What held the toy up? What if we cut the string?",
      "check": {
       "t": "mcq",
       "q": "Malini's teddy hangs from a string. She cuts the string. What happens?",
       "options": [
-       "Teddy falls down",
-       "Teddy stays up in the air",
-       "Teddy floats up"
+       "The teddy falls down",
+       "The teddy stays up in the air",
+       "The teddy floats up"
       ],
       "a": 0,
-      "why": "The string was Teddy's support. Without it, the Earth's pull makes Teddy fall."
+      "why": "The string was the teddy's support. Without it, the Earth's pull makes the teddy fall."
      }
     }
    ]
@@ -1668,7 +1665,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Arul opens his hand and lets go of a steel spoon. What does the spoon do?",
+   "p": "A baby opens his hand and lets go of a steel spoon. What does the spoon do?",
    "opts": [
     "It falls down",
     "It floats in the air",
@@ -1716,7 +1713,7 @@
   },
   {
    "t": "mcq",
-   "p": "Sana's photo frame hangs on a nail. What is holding the frame up?",
+   "p": "A girl called Sana has a photo frame on a nail. What is holding the frame up?",
    "opts": [
     "The nail",
     "The air",
@@ -1724,18 +1721,6 @@
    ],
    "a": 0,
    "why": "The nail is the frame's support. Without it, the frame would fall.",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
-   "p": "A key hangs on a thread. Nila lets go of the thread. What happens?",
-   "opts": [
-    "The key falls",
-    "The key stays where it was",
-    "The key goes up"
-   ],
-   "a": 0,
-   "why": "The thread was holding the key up. When nothing holds it, the key falls.",
    "outcome": 2
   },
   {
@@ -1752,14 +1737,14 @@
   },
   {
    "t": "mcq",
-   "p": "Malini drops a ball from right above a steel bowl. Where does the ball land?",
+   "p": "A girl called Malini puts a mug right under a dripping tap. Where do the drops land?",
    "opts": [
-    "In the bowl, under her hand",
-    "Behind her",
-    "Up on the shelf"
+    "In the mug, straight below the tap",
+    "On the wall behind the mug",
+    "They go up into the tap"
    ],
    "a": 0,
-   "why": "A dropped ball falls straight down, to the spot under where it was let go.",
+   "why": "A drop falls straight down, to the spot right under where it left the tap.",
    "outcome": 3
   },
   {
@@ -1776,7 +1761,7 @@
   },
   {
    "t": "mcq",
-   "p": "Jyoti is looking out of the window in Kochi during the monsoon. Which of these does she see falling?",
+   "p": "A girl called Jyoti is looking out of the window in Kochi during the monsoon. Which of these does she see falling?",
    "opts": [
     "Raindrops",
     "The clouds coming down to the street",
@@ -1785,6 +1770,18 @@
    "a": 0,
    "why": "Raindrops fall from the clouds to the ground, pulled by the Earth.",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a feather fall more slowly than a steel spoon?",
+   "opts": [
+    "The air slows the feather down",
+    "The Earth does not pull the feather",
+    "The feather is pulled up"
+   ],
+   "a": 0,
+   "why": "The Earth pulls both. The feather is light and wide, so the air gets in its way.",
+   "outcome": 0
   }
  ],
  "applications": [
@@ -1840,20 +1837,16 @@
  ],
  "jokes": [
   {
-   "j": "Why did the spoon jump off the table?",
-   "a": "It wanted to drop in on the floor!"
+   "j": "Why did the lemon fall off the table?",
+   "a": "It was feeling a bit down!"
   },
   {
    "j": "What did the floor say to the falling spoon?",
-   "a": "Don't worry, I've got you!"
+   "a": "Glad you could drop in!"
   },
   {
    "j": "Why was the feather always late?",
    "a": "It took the slow way down!"
-  },
-  {
-   "j": "What did the shelf say to the books?",
-   "a": "Don't worry, I'll hold you up!"
   },
   {
    "j": "Why did the raindrop never get lost?",
@@ -1864,12 +1857,12 @@
    "a": "You go first. I'll be down in a minute!"
   },
   {
-   "j": "Why did the mango fall from the tree?",
-   "a": "It was ripe for a drop!"
+   "j": "Why did the mango leave the tree?",
+   "a": "It was fed up with hanging around!"
   },
   {
-   "j": "What did the ground say to the jumping girl?",
-   "a": "Come back soon!"
+   "j": "What did the teddy say when the string was cut?",
+   "a": "This is a let-down!"
   },
   {
    "j": "Why did the clothes peg love the washing line?",
@@ -1878,7 +1871,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Let-Go Test, Kavya counted 6 things that fell fast and 4 things that fell slowly. Did more things fall fast or slowly? How many things fell in all?",
+   "problem": "A girl called Kavya did the Let-Go Test with a different ten things from yours. She counted 6 things that fell fast and 4 things that fell slowly. Did more things fall fast or slowly? How many things fell in all?",
    "answer": "More fell fast. 10 things fell in all.",
    "explain": "6 is more than 4, so more fell fast. 6 and 4 make 10. That was every thing she tried, so nothing stayed up.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1887,7 +1880,7 @@
    "why_maths": "Sorting and counting the results shows at a glance that every thing fell."
   },
   {
-   "problem": "In Catch It Before It Lands, Lakshmi caught the hanky 3 times out of 3. She caught the sock ball only 1 time out of 3. Which one was easier to catch? Why do you think so?",
+   "problem": "In Catch It Before It Lands, a girl called Lakshmi caught the hanky 3 times out of 3. She caught the sock ball only 1 time out of 3. Which one was easier to catch? Why do you think so?",
    "answer": "The hanky was easier. It falls slowly, so she had more time.",
    "explain": "3 catches is more than 1 catch, so the hanky was easier. The hanky falls slowly because the air slows it down. The sock ball falls fast, so there is less time to catch it.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -2015,9 +2008,9 @@
   "art": "A child lying on her back on a mat with her arms spread and eyes closed, a ceiling fan above her."
  },
  "how_we_found_out": {
-  "story": "Long ago, people thought some things fall and other things rise, just by their nature. About 2,350 years ago, the Greek thinker Aristotle taught this. Stones and water are heavy, he said, so they fall down. Smoke, air and fire are light, so going up is their nature. For about two thousand years, many people agreed. Then, in 1638, the Italian scientist Galileo Galilei wrote about a test. He pushed extra air into a glass bottle and weighed it. Then he let the extra air out and weighed it again. The bottle was lighter. So air has weight, and the Earth pulls on air too. In 1643, Evangelista Torricelli, who had worked with Galileo, showed that all the air above us presses down on everything below. So why does smoke go up? Hot, smoky air is lighter than the cooler air around it. The heavier air sinks underneath and pushes the smoke up, the way water pushes a ball up in a bucket. Nothing near the Earth is free from its pull. Things go up only when something pushes them up.",
-  "who": "Aristotle, a Greek thinker; Galileo Galilei, an Italian scientist; Evangelista Torricelli, an Italian scientist",
-  "when": "About 350 BCE (Aristotle), 1638 (Galileo's book) and 1643 (Torricelli)",
+  "story": "Long ago, people thought some things fall and other things rise, just by their nature. About 2,350 years ago, the Greek thinker Aristotle taught this. Stones and water fall, he said, but smoke, air and fire go up. Many people agreed for about two thousand years. Then, in 1638, the Italian scientist Galileo Galilei wrote about a test. He pushed extra air into a glass bottle and weighed it. Then he let the air out and weighed it again. The bottle was lighter, so air has weight, and the Earth pulls on air too. So why does smoke go up? Hot, smoky air is lighter than the cooler air around it. The heavier air sinks underneath and pushes the smoke up, the way water pushes a ball up in a bucket. Things go up only when something pushes them up.",
+  "who": "Aristotle, a Greek thinker; Galileo Galilei, an Italian scientist",
+  "when": "About 350 BCE (Aristotle) and 1638 (Galileo's book)",
   "wrong_idea": "People thought smoke, air and fire go up by nature, and are not pulled down. Galileo weighed air and found it has weight, so the Earth pulls air too. Smoke rises only because heavier air around it pushes it up."
  },
  "plan": {
@@ -2045,6 +2038,7 @@
    "g2",
    "agreed",
    "challenging",
+   "how_we_found_out",
    "p1",
    "c1",
    "ws-stretch",
@@ -2074,16 +2068,16 @@
  "sources": {
   "founder": [
    "ideas/by_topic/gravity.md, Grade 1 concept: gravity keeps your feet on the floor, every jump comes back down, falling leaves and raindrops, and birds and balloons that seem to escape the pull but are using the air. These became the Let-Go Test, Fall Like a Leaf, the Falling Watch and the kite bird in the story.",
-   "ideas/by_topic/gravity.md: the founder's note that the ground holds you up grew into Take Away the Holder and Hold Up Teddy. Her heavy-and-light drops, crumpled paper and the space-time blanket belong to the Level 3 unit, so this unit uses the let-go sort, the dot drop, the holder hunt and the marble run instead."
+   "ideas/by_topic/gravity.md: the note that the ground holds you up became Take Away the Holder and the toy challenge. The heavy-and-light drops, crumpled paper and the space-time blanket belong to the Level 3 unit, so this unit uses the let-go sort, the dot drop, the holder hunt and the marble run instead."
   ],
   "science": [
    "Aristotle, On the Heavens (De Caelo), Book 4: earth and water move down by nature, fire and air move up.",
    "Galileo Galilei, Two New Sciences (1638), First Day: weighing a glass vessel with extra air forced into it, to show that air has weight.",
-   "Evangelista Torricelli, the mercury tube experiment of 1643-1644, showing the weight of the air.",
    "Archimedes' principle: a thing in a liquid or a gas is pushed up by the weight of what it pushes aside, which is why helium balloons and hot smoke rise.",
    "Isaac Newton, Principia (1687), the law of universal gravitation. Albert Einstein, general relativity (1915).",
    "Gravitropism: plant roots grow down and shoots grow up in response to gravity.",
    "Atharva Veda 12.1 (Prithvi Sukta), verse 6, and Tao Te Ching, chapter 8."
   ]
- }
+ },
+ "playtest": "Played both card games with 2 and with 4 players: the let-go game now has a reader who hides the back, a winner, 12 printed cards and 12 tokens, and the smoke card replaces the thrown ball so every UP card matches its token. Walked the Let-Go Test, dot drop, holder hunt, falling watch, marble run and toy challenge in a flat: minutes add up. Fixed the intro giving the answer, the pie chart and maths counts to match the ten things, bird landing counted as falling, unintroduced names, boy-heavy names, and weak jokes."
 }

@@ -70,7 +70,7 @@
    "status": "defined",
    "context": "This card explains the two words we use when we put things in water.",
    "definition": "A thing floats if it stays at the top of the water and comes back up when you push it under and let go. A thing sinks if it goes to the bottom and stays there.",
-   "description": "In the bucket test, you pushed each thing under with a finger, then let go. The lemon and the rolling pin came back up, so they float. The coin, the spoon and the potato stayed on the bottom, so they sink. Some floaters ride high, like a plastic bottle cap. Some float low, with most of their body under water, like an apple or an ice cube. Both are floating.",
+   "description": "In the bucket test, you pushed each thing under with a finger, then let go. The lemon and the rolling pin came back up, so they float. The coin, the spoon and the potato stayed on the bottom, so they sink. A bottle cap floats high, and an ice cube floats low. Both are floating.",
    "examples": [
     "A lemon bobs back up when you let go, so it floats.",
     "A steel spoon stays at the bottom, so it sinks.",
@@ -98,7 +98,7 @@
    "status": "defined",
    "context": "This card explains what happened when we cut a potato small, and tried a tiny piece of wood.",
    "definition": "For a solid lump of one material, what the material is decides if it floats. A big piece and a small piece of the same material do the same thing.",
-   "description": "The whole potato sank. A grown-up cut off a piece as small as your fingernail, and that sank too. The big wooden rolling pin floated, and so did a tiny matchstick. Think of a piece of wood and the same amount of water, the very same size and shape. The wood is lighter than that water, so it floats. A piece of steel is heavier than the same amount of water, so it sinks. Potato is a little heavier than water, so every piece of potato sinks.",
+   "description": "The whole potato sank, and so did a piece as small as your fingernail. The big rolling pin floated, and so did a tiny matchstick. Wood is lighter than the same amount of water, so wood floats. Steel and potato are heavier than the same amount of water, so they sink.",
    "examples": [
     "A whole potato and a tiny piece of potato both sink.",
     "A big rolling pin and a small matchstick, both wood, both float.",
@@ -112,10 +112,10 @@
    "status": "defined",
    "context": "This card explains what you felt when you pushed a ball down into the bucket.",
    "definition": "Water pushes up on anything put into it. This push is called upthrust.",
-   "description": "When you pushed the ball down, you felt the water pushing back. The deeper you pushed it, the harder the water pushed. When you let go, the ball jumped up. Water pushes up on a coin too, but the push is too small to hold the coin up, so the coin sinks. A thing floats when the push of the water is enough to hold up its whole weight.",
+   "description": "When you pushed the ball down, you felt the water push back. When you let go, the ball jumped up. Water pushes up on a coin too, but the push is too small to hold the coin up, so the coin sinks. A thing floats when the push of the water is enough to hold up its whole weight.",
    "examples": [
     "A ball pushed under water jumps back up when you let go.",
-    "Your arm feels lighter when you lift it in a bucket of water.",
+    "You can feel the water push up on a lemon when you press it down.",
     "A coin gets a tiny push up, but not enough, so it sinks."
    ],
    "perspectives": [],
@@ -138,9 +138,9 @@
   {
    "concept": "Another way to stay on top: the skin of water",
    "status": "defined",
-   "context": "This card is about a different reason some small things can rest on water.",
+   "context": "This card is about a different reason some small things can rest on water. It is why we push each thing under in the bucket test.",
    "definition": "The top of water holds together like a very thin, stretchy skin. Very small, light things can rest on this skin without floating in the usual way.",
-   "description": "If you lay a steel pin very gently on still water, it can rest on top. Push it, and it sinks, because steel is heavier than water. The skin of water held it up, not upthrust. Agnes Pockels, a woman in Germany, studied this skin in her own kitchen with a tray of water and a button. She had not been allowed to study at a university. In 1891, the famous science journal Nature printed her letter about it. That is why, in the bucket test, we push each thing under and let go.",
+   "description": "A steel pin laid very gently on still water can rest on top. Push it under, and it sinks, because steel is heavier than water. The skin of the water held it up, not upthrust. Agnes Pockels, a woman in Germany, studied this skin in her own kitchen with a tray of water and a button. She was not allowed to study at a university, yet in 1891 the science journal Nature printed her letter about it.",
    "examples": [
     "A steel pin laid gently on still water can rest on top.",
     "Pond skaters, insects that walk on ponds, stand on the skin of the water.",
@@ -165,7 +165,7 @@
   }
  ],
  "how_we_found_out": {
-  "story": "About 2,250 years ago, Archimedes lived in Syracuse, a Greek city on the island of Sicily. Many people then, and many people now, thought heavy things sink and light things float. But a big, heavy log floats, while a small pebble sinks. Archimedes worked out a better rule, and wrote it in a book called On Floating Bodies. He said a thing sinks into the water until it has pushed aside water as heavy as itself. A floating log pushes aside its own weight of water while part of it is still above the top. A pebble pushes aside all the water it can and is still heavier, so it sinks. His book was nearly lost. In the year 1229, someone scraped the writing off the old pages and wrote prayers over them. In 1906, the Danish scholar Johan Ludvig Heiberg found the faint old words under the prayers. Years later, a team at the Walters Art Museum in Baltimore, in the United States, read even more of the hidden writing. Abigail Quandt, a book expert there, spent years taking the crumbling pages apart safely.",
+  "story": "About 2,250 years ago, Archimedes lived in Syracuse, a Greek city on the island of Sicily. Many people thought heavy things sink and light things float. But a big, heavy log floats, while a small pebble sinks. Archimedes worked out a better rule and wrote it in a book called On Floating Bodies. He said a floating thing sinks into the water until it has pushed aside water as heavy as itself. His book was nearly lost. In the year 1229, someone scraped the writing off its pages and wrote prayers over them. In 1906, the scholar Johan Ludvig Heiberg found the faint old words under the prayers. Later, a team at the Walters Art Museum in the United States read even more. Abigail Quandt, a book expert there, spent years taking the crumbling pages apart safely.",
   "who": "Archimedes of Syracuse, and the people who saved his book: Johan Ludvig Heiberg, and Abigail Quandt and her team at the Walters Art Museum",
   "when": "About 250 BCE (the book), 1229 (written over), 1906 (found again), from 1999 (read again)",
   "wrong_idea": "That heavy things sink and light things float. Archimedes showed that what matters is how heavy a thing is compared with the water it pushes aside, so a heavy log can float and a small pebble can sink.",
@@ -204,7 +204,7 @@
    "hint": "Your hand feels how heavy the whole thing is. Does it feel how heavy it is for its size?"
   },
   {
-   "q": "A peeled orange sinks and a whole orange floats. Is the peel part of the orange, or is it the orange's boat?",
+   "q": "A peeled orange sinks and a whole orange floats. What does the orange lose when its peel comes off?",
    "kind": "deep",
    "hint": "What is inside the peel that the juicy part does not have?"
   },
@@ -235,7 +235,7 @@
    "Hari swished the rice with his hand. Little brown flakes rose to the top and floated there.",
    "\"Those are husks,\" said Ammamma. \"They are the thin dry coats of the rice. Scoop them off.\"",
    "\"The husks float because they are light,\" said Hari. \"Light things float. Heavy things sink. Everyone knows that.\"",
-   "Nila looked at the rice grains lying on the bottom. One grain was much lighter than her hand. Yet it sank.",
+   "Nila looked at the rice grains lying on the bottom. Each grain was tiny and light. Yet it sank.",
    "\"Is that really true?\" she asked.",
    "Ammamma smiled. She took a big steel bucket and filled it half full with water from the tap. \"Let us find out,\" she said. \"But first, each of you must guess. And you must say why.\"",
    "She put a row of things on the floor. There was a wooden rolling pin, a one-rupee coin, a lemon, a potato, a steel spoon and a whole coconut with its brown hair still on.",
@@ -493,7 +493,7 @@
        ]
       }
      ],
-     "parent": "Pushing each thing down and letting go stops tiny things resting on the water's skin. Expect: rolling pin, lemon, bottle cap, apple, ice and candle float. Coin, potato, spoon and key sink. If a bottle cap fills with water, empty it and lay it flat side down.",
+     "parent": "Pushing each thing down and letting go stops tiny things resting on the water's skin. Expect: rolling pin, lemon, bottle cap, apple, ice and candle float. Coin, potato, spoon and key sink. If a bottle cap fills with water, empty it and lay it flat side down. A few lemons and apples are denser than most and sink. If yours does, write what it did. That is a real result.",
      "check": {
       "t": "mcq",
       "q": "The heavy rolling pin floated, and the light coin sank. What does that show?",
@@ -561,7 +561,7 @@
    "context": "In this experiment you float a whole orange in water. Then you peel it and try again. You also float the peel on its own.",
    "question": "Does an orange float because of its peel?",
    "predict": "The whole orange floats. Will it still float without its peel? Will the peel float on its own? Why do you think so?",
-   "fair_test": "We use the same orange and the same bucket of water each time. We push it down and let go each time. We test the peeled orange three times, because it can float low and hard to judge.",
+   "fair_test": "We use the same orange and the same bucket of water each time. We push it down and let go each time. We test the peeled orange three times, because it sinks slowly and can be hard to judge.",
    "results_table": [
     "What we tested",
     "My guess: float or sink?",
@@ -582,6 +582,10 @@
     },
     {
      "item": "a towel",
+     "qty": 1
+    },
+    {
+     "item": "a second orange to eat, not from the bucket",
      "qty": 1
     }
    ],
@@ -678,9 +682,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Ask the question below. 2. Then share the orange and eat it together.",
+     "do": "1. Ask the question below. 2. Wash your hands. Then share a fresh orange and eat it together. Do not eat the orange from the bucket.",
      "say": "The peel made the orange lighter for its size. Why do you think a life jacket helps a person float?",
-     "kid": "Why does a life jacket help a person float? Now eat the orange.",
+     "kid": "Why does a life jacket help a person float? Now eat a fresh orange. Not the one from the bucket.",
      "ask": [
       {
        "q": "Why does a life jacket help a person float?",
@@ -867,7 +871,7 @@
      "qty": 1
     },
     {
-     "item": "a plastic ball, or a small empty plastic box with its lid closed tight",
+     "item": "a small plastic ball, or a small empty plastic box with its lid closed tight",
      "qty": 1
     },
     {
@@ -909,7 +913,7 @@
        "q": "What did you feel?",
        "good": [
         "A small push up.",
-        "The lemon wanted to come up."
+        "The lemon pushed back up."
        ]
       }
      ]
@@ -917,15 +921,15 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Your child pushes the ball down slowly with both hands. 2. They notice if the push gets stronger as it goes deeper. 3. They let go, keeping faces back from the splash.",
-     "say": "Push the ball down slowly. Is the push bigger than the lemon's? Does it get harder as you go deeper? Now let go.",
+     "do": "1. Your child pushes the ball down slowly with both hands. 2. They notice that it is hard to push, and feel it jump when they let go. 3. They keep faces back from the splash.",
+     "say": "Push the ball down slowly. Is the push bigger than the lemon's? Now let go.",
      "kid": "Push the ball down slowly. Is it harder than the lemon? Let go and step back.",
      "ask": [
       {
        "q": "Was the ball harder to push down than the lemon?",
        "good": [
         "Yes, much harder.",
-        "It got harder as it went deeper."
+        "It pushed back hard the whole way down."
        ]
       }
      ],
@@ -1232,16 +1236,16 @@
     "a one-rupee coin",
     "a bucket of water",
     "sticky tape and a rubber band",
-    "things that float from the bucket test: a lemon, a bottle cap, a wooden rolling pin, a piece of thermocol, wooden ice-cream sticks",
+    "things that float from the bucket test: a lemon, a piece of thermocol, wooden ice-cream sticks",
     "a small steel katori"
    ],
    "general": [
     "Tape the coin on top of a piece of thermocol, which floats very high.",
-    "Lay the coin on top of the floating wooden rolling pin."
+    "Make a flat raft. Tie 6 to 8 wooden ice-cream sticks side by side with rubber bands, and lay the coin on top."
    ],
    "creative": [
     "Tape the coin to a lemon. Does the lemon still float? Test it and see.",
-    "Put the coin in a small steel katori and float the katori. You will find out why a steel bowl floats in Class 4."
+    "Put the coin in a small steel katori and float the katori. Why does a steel bowl float? Think about it, and look up the answer in a later unit."
    ],
    "your_turn": "Think of your own way. Test it. Then try to rescue two coins, then three. How many coins can your floater hold?",
    "setup": [
@@ -1266,7 +1270,7 @@
        "q": "What could you use?",
        "good": [
         "Thermocol, because it floats high.",
-        "The rolling pin."
+        "Wooden sticks, tied together."
        ]
       }
      ]
@@ -1277,7 +1281,7 @@
      "do": "1. Your child chooses a floater and fixes the coin to it. 2. They put it in the water and count to ten. 3. If it sinks, they try another way.",
      "say": "Try your idea. Count to ten. If it sinks, what could you change?",
      "kid": "Try your idea. Count to ten. Did the coin stay up?",
-     "parent": "Thermocol and the rolling pin always work. A lemon may or may not hold a coin, so it is a real test. Let your child try more than one way."
+     "parent": "Thermocol always works. A raft of sticks works if you use enough sticks. A rolling pin does not work, because it rolls over. A lemon may or may not hold a coin, so it is a real test. Let your child try more than one way."
     },
     {
      "id": "s3",
@@ -1535,7 +1539,7 @@
        "says": "Scoop off the floaters and throw them away. They are husks and empty grains."
       },
       {
-       "who": "Fathima, aged 9, who loves to waste nothing",
+       "who": "Fathima, aged 9, who does not like to waste food",
        "says": "Keep the floating grains. They are rice too, so we should cook them."
       }
      ],
@@ -1836,8 +1840,8 @@
    "a": "Just roll with it!"
   },
   {
-   "j": "Why did the orange take off its peel?",
-   "a": "It wanted to see how deep the water was!"
+   "j": "What did the orange peel say to the orange?",
+   "a": "Keep me on, or you will sink!"
   },
   {
    "j": "What did the ice cube say to the spoon?",
@@ -1848,8 +1852,8 @@
    "a": "She always kept her head above water!"
   },
   {
-   "j": "Why was the steel spoon bad at hide and seek in the bucket?",
-   "a": "It always went straight to the bottom of the list."
+   "j": "Why does the coin never win a floating race?",
+   "a": "It always goes down in the first round!"
   }
  ],
  "maths": [
@@ -2002,11 +2006,11 @@
    "evidence": "In the bucket test, the heaviest thing, the rolling pin, floated, and one of the lightest, the coin, sank. A fingernail-sized piece of potato sank, and a matchstick floated like the rolling pin."
   },
   "three": {
-   "who_am_i": "Your body is almost exactly as heavy as the same amount of water. Breathe in deeply, and the air in your lungs helps you float.",
+   "who_am_i": "Your body is about as heavy as the same amount of water. Breathe in deeply, and the air in your lungs helps you float.",
    "what_is_life": "A coconut floats across the sea and grows into a palm on a new island. Floating is one way life travels.",
    "what_is_this_world": "The same water holds up a bamboo coracle on the Kaveri and a floating island on Loktak Lake, and lets a clay idol sink in Mumbai."
   },
-  "thread": "On the kitchen floor, a coin, a rolling pin and a potato look like three separate things. In the bucket, one water meets all of them, and each meets the water in its own way. The answer comes from what each thing is made of, all the way through, down to its tiniest particles. Everything is conscious, and each material has its own way of meeting the water.",
+  "thread": "A coin, a rolling pin and a potato are different things, and the same water meets all of them. What each one does depends on what it is made of. Everything is conscious, and each kind of thing meets the water in its own way.",
   "teachings": [
    {
     "source": "Anguttara Nikaya 3.65 (the Kalama Sutta)",
@@ -2017,11 +2021,6 @@
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "Some blind men each touched one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the ear and said it is like a winnowing basket. Each was sure, and each knew only one part.",
     "link": "Your hand knew only one part of the rolling pin: how heavy it is. The bucket showed another part, what it is made of. You needed both to understand it."
-   },
-   {
-    "source": "Tao Te Ching 78",
-    "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at overcoming what is hard and strong.",
-    "link": "Soft water, which you can pour through your fingers, held up a heavy wooden rolling pin and a whole coconut."
    }
   ],
   "science": [
@@ -2046,7 +2045,7 @@
   },
   "ask": [
    "The rolling pin felt heavy, but it floated. What else might feel one way and be another way?",
-   "If you could choose, would you rather be a floater or a sinker? Why?",
+   "What else could you test to find out if size matters, using wood or potato?",
    "Your hand and the bucket told you different things. When two tests disagree, which one do you trust?"
   ],
   "art": "A child lying on her back on a mat with one hand on her chest, and above her a dreamy picture of a coconut floating on a calm blue sea."
@@ -2068,7 +2067,7 @@
    "Seed sorting by flotation: full seeds usually sink, empty or damaged seeds float.",
    "Phumdis and Keibul Lamjao National Park, Loktak Lake, Manipur, home of the sangai deer. The Ithai barrage was built in the early 1980s.",
    "The Pesse canoe, the Netherlands, about 10,000 years old. People reached Australia by sea more than 50,000 years ago.",
-   "Anguttara Nikaya 3.65 (Kalama Sutta). Udana 6.4 (Tittha Sutta). Tao Te Ching 78."
+   "Anguttara Nikaya 3.65 (Kalama Sutta). Udana 6.4 (Tittha Sutta)."
   ]
  },
  "playtest": "Thought through as a parent and child in a flat. Every material is in most Indian kitchens, and a bucket half full of water fits on a towel on the floor. The bucket test works because each thing is pushed down and let go, so nothing rests on the water's skin. Expected results: wooden rolling pin, lemon, apple, ice cube, candle, matchstick and most bottle caps float. Coin, steel spoon, key and raw potato sink, and so does a fingernail-sized piece of potato. A note covers a marble or steel rolling pin, and a bottle cap that fills with water. The orange test usually gives a slow sink once peeled, with a note to peel off more pith if not. The spine is the intro, Heavy in the Hand and the bucket test (session 1, about 35 minutes), then the explanations, Roots and the quiz (session 2, about 30 minutes). There is no Class 1 unit on this subtopic, so it leads on from the Class 2 solids, liquids and gases unit. It does not use the bottle with coins and air (the Class 2 adaptations unit), foil boats or coin rafts, salt water, clay boats or ships, which the Class 4 and 5 floating units and other units use."

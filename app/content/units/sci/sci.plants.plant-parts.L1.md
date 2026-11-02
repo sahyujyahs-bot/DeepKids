@@ -24,35 +24,35 @@
 ### Roots hold on and drink · *defined*
 **Definition:** Roots grow down into the soil. They hold the plant in place and take in water for the whole plant.
 
-A root grows down from the bottom of the plant. As the root grows, the root pushes into the tiny gaps between bits of soil. The root branches into many thin roots. Near their tips grow tiny hairs, too thin to see well. All these roots and hairs wrap round the bits of soil and hold on. They also drink water from the soil. A plant has far more root than we ever see.
+A root grows down from the bottom of the plant and pushes into the tiny gaps between bits of soil. It branches into many thin roots, with tiny hairs near the tips. The roots and hairs wrap round the bits of soil and hold on, and they drink water from the soil. A plant has far more root than we ever see.
 - e.g. In 1937, Howard Dittmer, an American scientist, measured all the roots of one rye plant grown in a box of soil. Laid end to end, the roots would stretch more than 600 kilometres. That is farther than the road from Chennai to Bengaluru.
 - e.g. A coconut palm has thousands of thin roots. They spread through the soil and hold the tall palm up in storms.
 - e.g. A small peepal plant can grow in a crack in an old wall. The roots grow into the crack and hold on.
 ### The stem holds the plant up and carries water · *defined*
 **Definition:** The stem holds the leaves, flowers and fruits up off the ground. Water travels up the stem from the roots, and food travels down from the leaves.
 
-A stem is like a pole with pipes inside. The stem holds the leaves up into the light. Inside the stem are thin tubes. Water goes up these tubes from the roots to the leaves. Food made in the leaves goes along other tubes to every part of the plant, down to the roots. Some stems are soft and green, like a coriander stem. Some are hard and woody, like a tree trunk.
+A stem is like a pole with thin pipes inside. It holds the leaves up into the light. Water goes up the pipes from the roots to the leaves. Food made in the leaves goes down other pipes to every part of the plant. Some stems are soft and green, like coriander. Some are hard and woody, like a tree trunk.
 - e.g. A coconut palm's trunk is a stem that can grow taller than a four-storey building.
 - e.g. Sugarcane is a stem. The plant stores sweet juice in the stem.
 - e.g. A money plant has a long thin stem that climbs up a wall or a stick.
 ### Leaves make food from sunlight · *defined*
 **Definition:** Green leaves catch sunlight. They use the light to make food for the plant, from air and water.
 
-A plant does not eat food the way humans and other animals do. A plant makes their own food in their leaves. The leaf takes in air through tiny holes. Water comes up from the roots. Using sunlight, the leaf makes sugar from the air and the water. This sugar is the plant's food. Most leaves are flat and thin, so they catch lots of light. The lines on a leaf are veins. Veins carry water into the leaf and food out of the leaf.
+A plant does not eat the way humans and other animals do. A plant makes their own food in the leaves. The leaf takes in air through tiny holes, and water comes up from the roots. Using sunlight, the leaf makes sugar from the air and the water. That sugar is the plant's food. Most leaves are flat and thin, to catch lots of light. The lines on a leaf are veins, and they carry water in and food out.
 - e.g. Hold a palak leaf up to a window. You can see the veins as a pattern of branching lines.
 - e.g. A lotus leaf is big and round. The lotus leaf floats flat on a pond, facing the sky.
 - e.g. A plant left in a dark cupboard for a few weeks goes pale and weak, because the leaves cannot get light.
 ### Flowers, fruits and seeds make new plants · *defined*
 **Definition:** A flower makes seeds. Part of the flower grows into a fruit, which holds the seeds. Each seed can grow into a new plant.
 
-Bees and other insects visit flowers to drink a sweet juice. As they go from flower to flower, they carry a yellow dust called pollen. Pollen helps the flower make seeds. Then the petals fall off, and part of the flower swells into a fruit. The fruit holds the seeds and keeps them safe. Inside each seed is a tiny new plant, with a little packed food. When the seed gets water, the tiny plant wakes up and grows.
+Bees and other insects visit flowers for a sweet juice. They carry a yellow dust called pollen from flower to flower, and pollen helps the flower make seeds. Then the petals fall off, and part of the flower swells into a fruit. The fruit holds the seeds and keeps them safe. Inside each seed is a tiny new plant and a little packed food. When the seed gets water, the tiny plant wakes up and grows.
 - e.g. A purple brinjal flower grows into a brinjal full of tiny seeds.
 - e.g. Cut a bhindi across. You see a star of seed rows inside.
-- e.g. In 1995, Jane Shen-Miller, a plant scientist in the United States, and her team grew a lotus seed from a dry lake bed in China. The seed was about 1,300 years old, and still alive.
+- e.g. In the 1990s, Jane Shen-Miller, a plant scientist in the United States, and her team grew a lotus seed from a dry lake bed in China. The seed was about 1,300 years old, and still alive.
 ### The parts work for the whole plant · *defined*
 **Definition:** A plant is one living body. Each part does a job for the whole plant, and the parts need each other.
 
-The roots cannot make food, because they are in the dark. They get their food from the leaves. The leaves cannot get water from the air. They get their water from the roots. The stem joins them, and carries water up and food down. If a plant loses many roots, the leaves droop. If a plant loses all their leaves, the roots run short of food.
+The roots are in the dark, so they cannot make food. They get food from the leaves. The leaves get most of their water from the roots. The stem joins them, and carries water up and food down. If a plant loses many roots, the leaves droop. If a plant loses all the leaves, the roots run short of food.
 - e.g. A plant whose pot falls over in a storm may droop for a few days. Some roots break, so the leaves get less water. New roots grow, and the leaves stand up again.
 - e.g. The food stored in a carrot was made in the carrot plant's leaves.
 - e.g. A banyan tree sends roots down from the branches into the ground. The roots then hold up the branches like pillars.
@@ -70,7 +70,7 @@ Roots feel and choose where to grow. A root feels which way is down, and grows d
 - A fruit grows from a flower, and holds the seeds. *How we know:* Watch one flower on a brinjal or tomato plant. After the petals fall, a small fruit grows in the same place, with seeds inside.
 
 ## How we found out
-**Suzanne Simard, a forest scientist from Canada, and her team, Her tests in the 1990s; published in 1997.** In the forests of Canada, people who planted trees used to cut down the birch trees that grew among young fir trees. They thought the birch trees took water and light from the firs. They believed each tree lived alone and only fought for their own share. Suzanne Simard grew up in those forests, in a family who had cut trees there for years. She became a forest scientist. She had seen that young firs often did worse after the birch trees were cut. So she tested what happens under the ground. She covered young birch and fir trees with plastic bags. Into the bags she put air with a specially marked kind of carbon, which the trees used to make their food. Later, she tested the other trees for the marked carbon. Some food made by the birch trees had reached the firs. It had travelled through their roots, and through thin threads of fungi that join the roots of many trees. In 1997 she published her results in the science journal Nature. Other scientists still argue about how much food trees really share this way.  
+**Suzanne Simard, a forest scientist from Canada, and her team, The 1990s; published in 1997.** In the forests of Canada, people who planted trees used to cut down the birch trees that grew among young fir trees. They thought the birch trees took water and light from the firs. They believed each tree lived alone and only fought for their own share. Suzanne Simard grew up in those forests, in a family who had cut trees there for years. She became a forest scientist. She had seen that young firs often did worse after the birch trees were cut. So she tested what happens under the ground. She covered young birch and fir trees with plastic bags. Into the bags she put air with a specially marked kind of carbon, which the trees used to make their food. Later, she tested the other trees for the marked carbon. Some food made by the birch trees had reached the firs. It had travelled through their roots, and through thin threads of fungi that join the roots of many trees. In 1997 she published her results in the science journal Nature. Other scientists still argue about how much food trees really share this way.  
 *What people believed before:* That each tree lives alone under the ground, so cutting down the birch trees would always help the firs grow. Simard's marked carbon showed that some food passes between trees through roots and fungi. How much, and how much it matters, is still argued about.
 
 ## Challenging perspectives
@@ -184,7 +184,7 @@ Anu thought about the night of the storm. 'All of them,' she said. 'The leaves n
 
 Outside, in the corner of the balcony, the brinjal plant stood tall, holding on to the soil with every root.
 
-**For the parent:** For the parent: Anu learns each part's job by watching one plant. The roots held the soil in a lump, the leaves drooped when roots broke, the flower became a fruit, and the fruit held seeds. In the end she sees that the parts need each other.
+**For the parent:** Anu learns each part's job by watching one plant. The roots held the soil in a lump, the leaves drooped when roots broke, the flower became a fruit, and the fruit held seeds. In the end she sees that the parts need each other.
 
 - Ask: When the pot fell over, why did the soil come out in one lump?
 - Ask: Why did the leaves droop after the storm, and why did they stand up again?
@@ -192,12 +192,12 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 
 ## Games
 ### g1 · Six Parts, One Plant: a card-collecting game (20 min)
-- **rules:** Before you play, draw the part on each card under the words, so a child who cannot read can play. A mango leaf, a lotus flower, a coconut, and so on.; Mix the cards. Give each player 5 cards. Put the rest face down in a pile.; On your turn, ask one player for a card you need, by plant and part: 'Do you have the lotus stem?'; If they have the card, they give it to you, and you ask again. If not, take one card from the pile, and your turn ends.; When you have all six parts of one plant, lay them down in a line, from the roots at the bottom to the seeds at the top. Someone reads out the back of each card.; If the pile runs out, keep asking. The game ends when all four plants are laid down. The player with the most plants wins. If two players have the same, they both win.
-- **Printable cards: 24 plant part cards: 6 parts of 4 plants:** Mango tree: roots (back: Roots. They hold the mango tree in the ground and drink water.); Mango tree: stem (back: Stem. The thick trunk holds the tree up and carries water to the leaves.) [picture]; Mango tree: leaves (back: Leaves. They catch sunlight and make food for the whole tree.) [picture]; Mango tree: flowers (back: Flowers. Tiny flowers grow in big bunches. A few of them grow into mangoes.) [picture]; Mango tree: fruit (back: Fruit. The mango holds the seed and keeps the seed safe.); Mango tree: seed (back: Seed. The big stone inside the mango. Put the stone in soil, and a new mango tree can grow.); Brinjal plant: roots (back: Roots. Thin roots spread through the soil, hold on and drink.); Brinjal plant: stem (back: Stem. The stem holds up the leaves and the brinjals, and carries water.) [picture]; Brinjal plant: leaves (back: Leaves. Big soft leaves catch sunlight and make food.) [picture]; Brinjal plant: flower (back: Flower. A purple flower. Part of the flower grows into a brinjal.) [picture]; Brinjal plant: fruit (back: Fruit. The brinjal holds the seeds inside.) [picture]; Brinjal plant: seeds (back: Seeds. Tiny flat seeds inside the brinjal. Each one can grow into a new plant.); Lotus: roots (back: Roots. Thin roots hold the lotus in the mud at the bottom of a pond.); Lotus: stem (back: Stem. Lotus stems grow along the mud under the water. People cook them and call them lotus root, but they are stems.); Lotus: leaves (back: Leaves. Big round leaves float on the water and catch sunlight.) [picture]; Lotus: flower (back: Flower. A big pink or white flower that opens in the day.) [picture]; Lotus: fruit (back: Fruit. A seed head like the top of a shower, with a seed in each hole.); Lotus: seeds (back: Seeds. Lotus seeds have a hard coat. Some stay alive for hundreds of years.); Coconut palm: roots (back: Roots. Thousands of thin roots hold the tall palm up in the wind.); Coconut palm: stem (back: Stem. The tall trunk holds the leaves up high in the sun.) [picture]; Coconut palm: leaves (back: Leaves. Long leaves at the top catch sunlight and make food.) [picture]; Coconut palm: flowers (back: Flowers. Small cream flowers on a long bunch. Some grow into coconuts.); Coconut palm: fruit (back: Fruit. The coconut, with a thick husk. The husk lets the coconut float on the sea.) [picture]; Coconut palm: seed (back: Seed. The hard shell holds the seed, with the white coconut and the coconut water inside.)
+- **rules:** Cards with a photo are ready. Before you play, draw a small picture under the words on each card with no photo (a mango, a brinjal, a root), so a child who cannot read can play.; Mix the cards. Give each player 5 cards. Put the rest face down in a pile.; On your turn, ask one player for a card you need, by plant and part: 'Do you have the lotus stem?'; If they have the card, they give it to you, and you ask again. If not, take one card from the pile, and your turn ends. If you have no cards on your turn, take one from the pile.; When you have all six parts of one plant, lay them down in a line, from the roots at the bottom to the seeds at the top. Someone reads out the back of each card.; If the pile runs out, keep asking; if they do not have the card, your turn just ends. The game ends when all four plants are laid down. The player with the most plants wins. If players have the same, they all win.
+- **Printable cards: 24 plant part cards: 6 parts of 4 plants:** Mango tree: roots (back: Roots. They hold the mango tree in the ground and drink water.); Mango tree: stem (back: Stem. The thick trunk holds the tree up and carries water to the leaves.) [picture]; Mango tree: leaves (back: Leaves. They catch sunlight and make food for the whole tree.) [picture]; Mango tree: flowers (back: Flowers. Tiny flowers grow in big bunches. A few of them grow into mangoes.) [picture]; Mango tree: fruit (back: Fruit. The mango holds the seed and keeps the seed safe.); Mango tree: seed (back: Seed. The big stone inside the mango holds the seed. Put the stone in soil, and a new mango tree can grow.); Brinjal plant: roots (back: Roots. Thin roots spread through the soil, hold on and drink.); Brinjal plant: stem (back: Stem. The stem holds up the leaves and the brinjals, and carries water.) [picture]; Brinjal plant: leaves (back: Leaves. Big soft leaves catch sunlight and make food.) [picture]; Brinjal plant: flower (back: Flower. A purple flower. Part of the flower grows into a brinjal.) [picture]; Brinjal plant: fruit (back: Fruit. The brinjal holds the seeds inside.) [picture]; Brinjal plant: seeds (back: Seeds. Tiny flat seeds inside the brinjal. Each one can grow into a new plant.); Lotus: roots (back: Roots. Thin roots hold the lotus in the mud at the bottom of a pond.); Lotus: stem (back: Stem. Lotus stems grow along the mud under the water. People cook them and call them lotus root, but they are stems.); Lotus: leaves (back: Leaves. Big round leaves float on the water and catch sunlight.) [picture]; Lotus: flower (back: Flower. A big pink or white flower that opens in the day.) [picture]; Lotus: fruit (back: Fruit. A seed head like the top of a shower, with a seed in each hole.); Lotus: seeds (back: Seeds. Lotus seeds have a hard coat. Some stay alive for hundreds of years.); Coconut palm: roots (back: Roots. Thousands of thin roots hold the tall palm up in the wind.); Coconut palm: stem (back: Stem. The tall trunk holds the leaves up high in the sun.) [picture]; Coconut palm: leaves (back: Leaves. Long leaves at the top catch sunlight and make food.) [picture]; Coconut palm: flowers (back: Flowers. Small cream flowers on a long bunch. Some grow into coconuts.); Coconut palm: fruit (back: Fruit. The coconut, with a thick husk. The husk lets the coconut float on the sea.) [picture]; Coconut palm: seed (back: Seed. Inside the hard shell is the seed: the white coconut and the coconut water. A new palm can grow from it.)
 - **s1 (6 min)**  
-  *Parent does:* 1. Read each card to your child. 2. You draw the roots, stems and leaves. Your child draws the flowers, fruits and seeds. 3. Mix the cards and deal 5 to each player.  
-  *Parent says:* Each card is one part of a plant. Let's draw them first. You draw the coconut, I'll draw the coconut's roots.  
-  *Child mode:* Draw a little part on each card. A flower. A coconut. A mango seed.
+  *Parent does:* 1. Read each card to your child. 2. Draw a small picture on each card that has no photo: you do the roots and stems, your child does the rest. 3. Mix the cards and deal 5 to each player.  
+  *Parent says:* Each card is one part of a plant. Let's draw the ones with no picture. You draw the coconut, I'll draw the roots.  
+  *Child mode:* Draw a little part on each card with no photo. A mango. A brinjal seed.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns asking for cards. 2. Read the card names aloud for your child. 3. Each time a whole plant is laid down, read out the backs of the cards.  
   *Parent says:* Do you have the brinjal flower? No? Then I take a card from the pile.  
@@ -209,7 +209,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   *Child mode:* Count your plants. Who has the most?
   - Check: A storm blows on a tall coconut palm. Which part keeps the palm from falling over? → **The roots**
 ### g2 · Point to the Part: a clue game (12 min)
-- **rules:** Before you play, the child draws each part in its square on the board: roots, a stem, leaves, a flower, a fruit and seeds.; Lay the six squares in a line on the floor, from roots at the bottom to seeds at the top.; Mix the clue cards. The reader reads one clue out loud.; The player puts a bean or a button on the square that matches the clue.; The reader turns the card over and reads the answer. If the player is right, the player keeps the card.; When all 12 cards are read, count the cards each player kept. Play together and try to keep all 12.
+- **rules:** Before you play, the child draws each part in its square on the board: roots, a stem, leaves, a flower, a fruit and seeds.; Lay the six squares in a line on the floor, from roots at the bottom to seeds at the top.; Mix the clue cards. One person is the reader and reads one clue out loud.; The player puts a bean or a button on the square that matches the clue. With 2 players, the parent reads and the child plays. With 3 or 4, the reader job passes to the next person after each card, and the player is the person on the reader's left.; The reader turns the card over and reads the answer. If the player is right, the player keeps the card.; When all 12 cards are read, count the cards each player kept. Play together and try to keep all 12.
 - **Printable board: 6 squares for the plant board:** Roots; Stem; Leaves; Flower; Fruit; Seeds
 - **Printable cards: 12 clue cards:** I am under the soil. I drink water for the whole plant. (back: Roots); I hold on to the soil, so the wind cannot push the plant over. (back: Roots); I hold the plant up tall. (back: Stem); Water travels up through me, from the roots to the leaves. (back: Stem); I am flat and green. I catch the sunlight. (back: Leaves); I make food for the whole plant, from sunlight, air and water. (back: Leaves); Bees come to visit me for a sweet drink. (back: Flower); I am often bright and colourful. Later, part of me grows into a fruit. (back: Flower); I grow from a flower. I keep the seeds safe inside me. (back: Fruit); A mango, a tomato and a bhindi are each one of me. (back: Fruit); I am small and hard. Inside me is a tiny new plant. (back: Seeds); Put me in wet soil, and I grow into a new plant. (back: Seeds)
 - **s1 (4 min)**  
@@ -313,7 +313,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   *Parent says:* These lines are called veins. Water comes up the stem and travels into the leaf along the veins. Food made in the leaf goes out along the veins too.  
   *Child mode:* These lines are veins. Water travels along them into the leaf.
 - **s3 (4 min)**  
-  *Parent does:* 1. Put a leaf on the table, bumpy side up. 2. Lay thin paper over the leaf. 3. Your child rubs the side of the crayon over the paper, gently.  
+  *Parent does:* 1. Put a leaf on the table, underside up (the paler side, where the veins stick out). 2. Lay thin paper over the leaf. 3. Your child rubs the side of the crayon over the paper, gently.  
   *Parent says:* Rub the crayon over the paper. Watch the veins appear.  
   *Child mode:* Rub the crayon gently. Watch the veins appear.
   - Ask: Why do you think the veins go to every part of the leaf? (good: So every part of the leaf gets water.; So the food can go out from every part.)
@@ -342,7 +342,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 - **record:** Draw the moong cup on day 4, day 8 and day 14. On day 14, draw both lumps of soil.
 - **schedule:** day 1: Fill both cups with soil. Push 15 moong seeds into one cup. Leave the other cup with only soil. Water both the same. Put them on a bright windowsill. (6 min); day 4: Look at the side of the clear cup for white roots. Water both cups the same. (3 min); day 8: Look at the roots and the leaves. Draw the cup. Water both the same. (4 min); day 14: Do not water today. Tip each cup out gently onto newspaper. Compare the two lumps of soil. (12 min)
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up pokes a small hole in the bottom of each cup. 2. Your child fills both cups with soil. 3. Push 15 moong seeds just under the soil in one cup, some near the side. 4. Water both cups with the same amount, two spoons each. 5. Put both on a bright windowsill.  
+  *Parent does:* 1. A grown-up pokes a small hole in the bottom of each cup. 2. Your child fills both cups with soil. 3. Push 15 moong seeds just under the soil in one cup, some near the side. 4. Water both cups with the same amount, enough to make the soil damp all through. 5. Put both on a bright windowsill.  
   *Parent says:* One cup gets moong seeds. The other cup gets only soil. Both get the same water, in the same place.  
   *Child mode:* Fill both cups with soil. Put seeds in one cup. Water both.
   - Note: If you have clear cups, the roots show along the side. Push a few seeds close to the side so that you will see their roots.
@@ -367,31 +367,31 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   - Note: The soil-only cup usually crumbles. The moong cup usually comes out as one lump, wrapped in white roots. If the moong lump crumbles, the roots are still young. Put the soil back, water, and try again in one more week.
 
 ## Challenges
-### c1 · A Plant That Won't Blow Over (20 min)
-- **problem:** Make a paper plant that stands up in a bowl of dry rice and does not fall over when you fan it. What kind of roots work best?
-- **your turn:** Make your own roots for your paper plant. Fan the plant three times. Then change one thing about the roots and fan it again. Which roots held best?
-- **constraints:** Use only paper, a straw or a rolled newspaper, tape, string and things from home.; The plant must stand in a bowl of dry rice, rava or sand.; Fan it with a hand fan or a folded newspaper, the same way each time.
-- **general:** Many thin paper strips spread out at the bottom, like the roots of a coconut palm.; One long root that goes deep down into the rice.; Roots that spread out wide just under the top of the rice.
+### c1 · A Plant That Stays Put: roots that hold (20 min)
+- **problem:** Make a paper plant that is hard to pull out of a bowl of dry rice. What kind of roots work best?
+- **your turn:** Pull the plant with no roots out of the rice. Then give it roots and pull again. Which was harder to pull out? If you like, change the roots (longer, or more) and pull again.
+- **constraints:** Use only paper, thin card from a cereal box, a straw or a rolled newspaper, tape, string and things from home.; Every plant stands in the same bowl of dry rice, rava or sand, buried the same depth, about 4 cm.; Pull the stem straight up, slowly, the same way each time.
+- **general:** Many card strips spread out sideways at the bottom, like the roots of a coconut palm.; One long root that goes deep down into the rice.; Roots that spread out wide, a little under the top of the rice.
 - **creative:** Roots made of wool, which bend round the rice grains.; Extra roots that come down from the side of the stem into the rice, like the prop roots of a banyan tree or a maize plant.; A wide flat mat of roots, taped to the bottom of the stem.
 - **c1s1 (3 min)**  
   *Parent does:* Read the challenge to your child. Show the bowl of rice and the materials.  
-  *Parent says:* Let's make a paper plant that stands in this rice and does not blow over. What roots will you give your plant?  
-  *Child mode:* Make a paper plant. Give your plant roots. Will it stand in the wind?
+  *Parent says:* Let's make a paper plant that is hard to pull out of this rice. What roots will you give your plant?  
+  *Child mode:* Make a paper plant. Give your plant roots. Will it stay in the rice?
 - **c1s2 (5 min)**  
-  *Parent does:* 1. Help your child tape paper leaves to the top of a straw. 2. Push the straw into the rice with no roots. 3. Fan it three times.  
-  *Parent says:* First, no roots at all. Push the stem into the rice. Now I'll fan it. What happens?  
-  *Child mode:* Push the stem in with no roots. Fan it. Does it fall?
-  - Ask: Why did the plant with no roots fall over? (good: Nothing was holding on in the rice.; The stem only went into the rice a little.)
+  *Parent does:* 1. Help your child tape paper leaves to the top of a straw. 2. Hold the straw upright in the empty bowl, with its bottom touching the bottom of the bowl. 3. Pour rice round it until the rice is 4 cm deep. 4. Pull the straw straight up, slowly.  
+  *Parent says:* First, no roots at all. Hold the stem still while I pour the rice. Now pull it slowly. What happens?  
+  *Child mode:* Pull the stem with no roots. Does it come out easily?
+  - Ask: Why did the plant with no roots come out so easily? (good: Nothing was holding on in the rice.; The stem only went into the rice a little.)
 - **c1s3 (8 min)**  
-  *Parent does:* 1. Your child makes roots from paper strips or wool and tapes them to the bottom of a new stem. 2. Push the stem and roots into the rice. 3. Fan it the same way, three times.  
-  *Parent says:* Now give your plant roots. Spread them out in the rice. Fan it the same way as before.  
-  *Child mode:* Tape roots to your stem. Push them into the rice. Fan it.
-  - Ask: Which roots held the plant best? (good: Lots of roots spread out.; Long roots that went down deep.)
+  *Parent does:* 1. Your child cuts strips of thin card and tapes them to the bottom of a new stem, spread out sideways like roots. 2. Put the stem in the empty bowl with the roots spread flat on the bottom. 3. Pour rice round it, 4 cm deep, so the roots are buried. 4. Pull the stem slowly, the same way as before.  
+  *Parent says:* Now give your plant roots. Spread them out in the bowl, and I'll pour the rice. Pull slowly, the same way as before.  
+  *Child mode:* Tape roots to your stem. Bury them in rice. Pull slowly.
+  - Ask: Which roots were hardest to pull out? (good: Lots of roots spread out.; Long roots that went down deep.)
 - **c1s4 (4 min)**  
   *Parent does:* Look at the best plant together. Talk about real roots.  
-  *Parent says:* Your best roots spread out and held on to lots of rice. Real roots grow into the soil the same way, and hold on.  
+  *Parent says:* Real roots grow into the soil, spread out, and hold on to lots of it. Which of your roots held best?  
   *Child mode:* Which roots held best? Why do you think so?
-  - Check: Which paper plant is hardest to blow over? → **One with many roots spread out in the rice**
+  - Check: Which paper plant is hardest to pull out? → **One with many roots spread out in the rice**
 
 ## Worksheets
 ### The Parts of a Plant (core) (core, 12 questions)
@@ -413,8 +413,8 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 8. (odd) Three of these are parts of a plant. Which one is not?  
    Options: Roots / A leaf / A flower pot / A flower  
    **Answer:** 2. *Why:* Roots, leaves and flowers are parts of the plant's body. A flower pot is a container that the plant grows in.
-9. (write) Say out loud, and a grown-up writes it down: why did the sprouts on the cloth hold on when you turned the cloth over?  
-   **Answer:** The roots grew into the gaps in the cloth and held on to the threads.. *Why:* A strong answer uses what the child saw: root tips poking through the cloth, or the cloth tugging when they pulled a sprout.
+9. (write) Say out loud, and a grown-up writes it down: a banyan tree sends roots down from the branches. What do you think those roots are for?  
+   **Answer:** They go into the ground and hold the branches up like pillars, and they drink water too.. *Why:* A strong answer says the new roots hold up the heavy branches, like pillars, and can drink like other roots.
 10. (perspective) Lakshmi and her brother Hari look at the tulsi plant on their balcony in Madurai.  
    **Answer:** A strong answer picks a side with a reason, then sees that the other is right too. The roots need food from the leaves, and the leaves need water from the roots. A plant needs both.. *Why:* Each part does a job the others cannot do. The parts need each other.
 11. (order) Put these in order, from the bottom of a plant to the top.  
@@ -432,7 +432,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 4. (draw) Draw the moong cup on day 14, after you tipped the soil out. Draw the roots.  
    **Answer:** A lump of soil in the shape of the cup, with white roots round the outside.. *Why:* A strong drawing shows the roots wrapped round the lump, holding the soil together.
 5. (match) Match each thing to its plant part.  
-   **Answer:** a coconut tree's trunk → stem; a lotus leaf floating on a pond → leaf; the stone inside a mango → seed; a purple brinjal flower → flower. *Why:* A trunk is a stem. A lotus leaf is a leaf. A mango stone is a seed. A brinjal flower is a flower, which grows into a brinjal.
+   **Answer:** a coconut tree's trunk → stem; a lotus leaf floating on a pond → leaf; the seed inside a mango's stone → seed; a purple brinjal flower → flower. *Why:* A trunk is a stem. A lotus leaf is a leaf. The tiny new plant in a mango is in a seed, inside the hard stone. A brinjal flower is a flower, which grows into a brinjal.
 6. (sort) Which of these have seeds inside? Sort them.  
    **Answer:** a bhindi → Seeds inside; a tomato → Seeds inside; a carrot → No seeds inside; a palak leaf → No seeds inside. *Why:* A bhindi and a tomato are fruits, and fruits hold seeds. A carrot is a root and palak is a leaf, so they have no seeds inside.
 7. (label) Here is a coconut palm. Label the roots, the stem, the leaves and the fruit.  
@@ -446,7 +446,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
    **Answer:** ['the soil', 'the roots', 'the stem', 'the leaves']. *Why:* Water goes from the soil into the roots, up the stem, and into the leaves.
 11. (write) A friend says, 'Plants eat soil with their roots.' What would you tell your friend?  
    **Answer:** Roots drink water from the soil and take in tiny bits of minerals. But the plant's food is made in the leaves, from sunlight, air and water.. *Why:* Many people think plants eat soil. A strong answer says that the leaves make the food, and the roots bring water.
-12. (mcq) Anu's brinjal plant fell over in a storm, and some roots broke. Later that day the leaves drooped. Why?  
+12. (mcq) Anu, a girl in Kochi, has a brinjal plant. It fell over in a storm, and some roots broke. Later that day the leaves drooped. Why?  
    Options: The leaves got less water / The leaves got too much light / The flowers took the water  
    **Answer:** The leaves got less water. *Why:* Roots drink water for the whole plant. With fewer roots, less water reaches the leaves, so the leaves go floppy until new roots grow.
 
@@ -467,7 +467,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
    **Answer:** Makes seeds, and part of the flower grows into a fruit. *Why:* Flowers make seeds. After the petals fall, part of the flower grows into a fruit that holds the seeds.
 4. (mcq) What does a fruit, like a mango, do for the plant?  
    Options: Makes food from sunlight / Holds the seed and keeps the seed safe / Holds on to the soil  
-   **Answer:** Holds the seed and keeps the seed safe. *Why:* A fruit grows from a flower and holds the seeds. The big stone in a mango is the seed.
+   **Answer:** Holds the seed and keeps the seed safe. *Why:* A fruit grows from a flower and holds the seeds. The seed of a mango is inside the big hard stone.
 5. (mcq) What is inside a seed?  
    Options: A tiny new plant and some packed food / Only water / Nothing at all  
    **Answer:** A tiny new plant and some packed food. *Why:* A seed holds a tiny new plant, asleep, and food for when the seed starts to grow.
@@ -528,12 +528,12 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 - What did the stem say to the heavy mango? *Hang on, I've got you!*
 
 ## Connected maths
-- Shreya did the sprout test. On the cloth, 9 sprouts held on. On the bare plate, 2 sprouts held on. How many more sprouts held on to the cloth? **7 more sprouts held on to the cloth.**. Start at 2 and count on to 9: 3, 4, 5, 6, 7, 8, 9. That is 7 more. So many more held on to the cloth, because the roots could grow into the cloth. (queues `math.addition-subtraction.meaning.L1`)
-- In the Six Parts, One Plant game, Kavya has 4 lotus cards. A whole plant needs 6 cards. How many more lotus cards does she need? **2 more cards.**. 4 and 2 make 6. So she needs 2 more lotus cards to have the whole lotus plant. (queues `math.addition-subtraction.number-facts.L1`)
-- On day 8 of the moong cup project, Ritu measured three moong plants with her finger widths. One was 3 fingers tall, one was 5 fingers tall and one was 4 fingers tall. Put them in order, from the shortest to the tallest. **3 fingers, 4 fingers, 5 fingers.**. 3 is less than 4, and 4 is less than 5. So the order is 3, 4, 5. The plants came from the same packet of moong, but they did not all grow the same. (queues `math.number-sense.comparing-ordering.L1`)
+- Shreya did the sprout test. On the cloth, 9 sprouts held on. On the bare plate, 2 sprouts held on. How many more sprouts held on to the cloth? **7 more sprouts held on to the cloth.**. Start at 2 and count on to 9: 3, 4, 5, 6, 7, 8, 9. That is 7 more. The cloth held more sprouts because the roots could grow into the cloth. (queues `math.addition-subtraction.meaning.L1`)
+- In the Six Parts, One Plant game, Kavya, a girl in Class 1, has 4 lotus cards. A whole plant needs 6 cards. How many more lotus cards does she need? **2 more cards.**. 4 and 2 make 6. So she needs 2 more lotus cards to have the whole lotus plant. (queues `math.addition-subtraction.number-facts.L1`)
+- On day 8 of the moong cup project, Ritu, a girl in Class 1, measured three moong plants with her finger widths. One was 3 fingers tall, one was 5 fingers tall and one was 4 fingers tall. Put them in order, from the shortest to the tallest. **3 fingers, 4 fingers, 5 fingers.**. 3 is less than 4, and 4 is less than 5. So the order is 3, 4, 5. The plants came from the same packet of moong, but they did not all grow the same. (queues `math.number-sense.comparing-ordering.L1`)
 
 ## Song
-Roots Hold On (sci.plants.L1): Topic-level song for Plants L1
+Roots Hold On (sci.plants.L1): A short song about how roots hold on.
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant near your home and find out who they are.
@@ -548,7 +548,7 @@ Roots Hold On (sci.plants.L1): Topic-level song for Plants L1
 - Which part of a plant drinks water from the soil? → The roots.
 - Which part makes food from sunlight? → The leaves.
 - What grows from a flower? → A fruit, with seeds inside.
-- Is a mango a fruit or a seed? → A fruit. The stone inside the mango is the seed.
+- Is a mango a fruit or a seed? → A fruit. The seed is inside the hard stone in the mango.
 - How do roots hold on to the soil? → They grow into the tiny gaps between bits of soil and wrap round them.
 
 ## Plan
@@ -557,7 +557,7 @@ Roots Hold On (sci.plants.L1): Topic-level song for Plants L1
 - Core: a1, e1, g2, a2, ws-core
 
 ## Sources
-- ideas/by_topic/plants.md: the weekly journeys 'Let grow and grow' (plant a seed, watch new growth, care for the plant) and 'Leaf it to you' (collect and keep leaves), used for the moong cup project and the leaf vein activity. The SCI cards there (J.C. Bose, Janaki Ammal, Kamala Sohonie) suit higher levels and were not used here.
+- ideas/by_topic/plants.md: the two weekly plant journeys (growing a seed, collecting leaves), used for the moong cup project and the leaf vein activity. The science cards there (J.C. Bose, Janaki Ammal, Kamala Sohonie) suit higher levels and were not used here.
 - Dittmer, H. J. (1937). A quantitative study of the roots and root hairs of a winter rye plant. American Journal of Botany 24: 417-420. About 622 km of roots on one plant grown for four months.
 - Simard, S. W. and others (1997). Net transfer of carbon between ectomycorrhizal tree species in the field. Nature 388: 579-582.
 - Karst, J., Jones, M. D. and Hoeksema, J. D. (2023). Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests. Nature Ecology and Evolution 7: 501-511.

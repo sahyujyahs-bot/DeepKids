@@ -4,7 +4,7 @@
  "level": 2,
  "summary": {
   "text": "Make a bunch of keys go round and round on a string. Look down from above, and you see a circle. Put your eyes at the same height, and the same keys seem to go back and forth, like a swing. Things move in three main paths: straight, round, and back and forth. Your child finds all three at home, sorts things that move by themselves from things that are moved, and tests whether they can walk straight with their eyes shut.",
-  "art": "A girl lying on a tiled floor with her chin on her hands, watching a bunch of keys go round on a string held by her grandmother, with a dotted circle drawn round the keys from above and a straight dotted line drawn from the girl's side view."
+  "art": "A girl lying on a tiled floor with her chin on her hands, watching a bunch of keys go round on a string held by an adult, with a dotted circle drawn round the keys from above and a straight dotted line drawn from the girl's side view."
  },
  "intro": {
   "hook": "Draw a straight line in the air with your finger. Now draw a circle. Now wave your finger back and forth. Those are the three paths.",
@@ -53,7 +53,7 @@
   },
   {
    "term": "Moves by themselves",
-   "meaning": "A thing that moves by themselves starts, stops and turns with no push or pull from outside. Living beings move by themselves, using energy from their food.",
+   "meaning": "A living being moves by themselves when they start, stop and turn with no push or pull from outside. They use energy from their food.",
    "example": "An ant walking to a sugar grain and a crow flying off the grille both move by themselves.",
    "art": "An ant walking along a kitchen counter towards a grain of sugar."
   },
@@ -69,7 +69,7 @@
    "concept": "Three paths",
    "status": "defined",
    "definition": "Most moving things move in one of three paths: straight, round, or back and forth.",
-   "description": "In straight motion, a thing goes along a line and does not turn. In round motion, a thing goes round a middle point, along a circle. In back-and-forth motion, a thing goes one way and then back again, over and over. A swing, a cradle and a ruler buzzing on a table all move back and forth. Back-and-forth motion that is very small and fast is called vibrating.",
+   "description": "In straight motion, a thing goes along a line and does not turn. In round motion, it goes round a middle point, along a circle. In back-and-forth motion, it goes one way and then back again, over and over. Back-and-forth motion that is very small and fast is called vibrating.",
    "examples": [
     "A drawer slides straight out and straight back in.",
     "A clock's hands go round the middle of the clock.",
@@ -97,7 +97,7 @@
    "concept": "Round motion seen from the side",
    "status": "defined",
    "definition": "A thing going round in a circle looks like it goes back and forth when you watch from the side, at the same height.",
-   "description": "From above, you saw the keys go round in a circle. From the side, you could not see them coming towards you or going away. You saw only their left and right. So they seemed to go back and forth, like a swing. One round looked like one back and forth. Their shadow on the wall did the same.",
+   "description": "From above, you saw the keys go round in a circle. From the side, you could not see them coming towards you or going away. You saw only their left and right, so they seemed to go back and forth, like a swing. Their shadow on the wall did the same.",
    "examples": [
     "In the keys test, 10 rounds from above matched about 10 back-and-forths from the side.",
     "A fan's blade tips go round. A gecko on the wall, level with the fan, would see them go back and forth.",
@@ -111,7 +111,7 @@
    "concept": "Moving by themselves, or being moved",
    "status": "debated",
    "definition": "Living beings start, stop and turn by themselves. Most things that are not alive start moving only when a push or a pull starts them.",
-   "description": "An ant decides where to walk, and a crow decides when to fly. Living beings use energy from their food to move their own bodies. A ball, a door and a curtain start moving when something pushes or pulls them: a foot, a hand or the wind. Some things carry a motor or an engine, like a fan, a lift or an auto. They start when electricity or fuel turns the motor, without anyone pushing. People still argue about what 'by themselves' really means.",
+   "description": "An ant decides where to walk, and a crow decides when to fly. They use energy from their food to move their own bodies. A ball, a door and a curtain start moving only when something pushes or pulls them: a foot, a hand or the wind. A fan, a lift or an auto has a motor or engine, so electricity or fuel starts it, not a push. People still argue about what 'by themselves' really means.",
    "examples": [
     "A pigeon walks along the window ledge by herself.",
     "A leaf moves when the wind blows it.",
@@ -119,8 +119,8 @@
    ],
    "perspectives": [
     {
-     "who": "Aristotle, a Greek thinker who lived about 2,350 years ago",
-     "explanation": "Living beings move themselves, and everything else is moved by something. Even an animal moving herself is moved by a part of her own body."
+     "who": "Aristotle, a Greek thinker who lived about 2,400 years ago",
+     "explanation": "Everything that moves is moved by something. In an animal, one part of her body moves another part."
     },
     {
      "who": "Many physicists today",
@@ -154,15 +154,15 @@
    "claim": "A round path and a back-and-forth path are always easy to tell apart.",
    "who": "A common first guess",
    "for": "From above, a circle and a swing look very different.",
-   "against": "In the shadow game, the shadow of keys going round looked almost the same as the shadow of keys swinging. Galileo first took Jupiter's moons for stars going back and forth in a line.",
+   "against": "In the shadow game, the shadow of keys going round looked almost the same as the shadow of keys swinging. Galileo first took Jupiter's moons for ordinary stars in a line, until he saw them change places from night to night.",
    "status": "rejected",
    "context": "This card is about the idea that round and back-and-forth paths always look different."
   },
   {
    "claim": "Only living beings move by themselves.",
-   "who": "A common idea, close to what Aristotle taught",
+   "who": "A common idea",
    "for": "Ants, crows and people start and stop when they choose. A ball lies still until someone kicks it.",
-   "against": "A fan, a lift and an auto start without anyone pushing them, using electricity or fuel. In 1827, Robert Brown, a Scottish plant scientist, saw tiny specks from pollen jiggling in water. Then he saw specks of ground-up rock and glass jiggle too. Later scientists found that water particles, too small to see, bump the specks all the time.",
+   "against": "A fan, a lift and an auto start without anyone pushing them, using electricity or fuel. So a push is not the only thing that starts a motion.",
    "status": "debated",
    "context": "This card is about the idea that only living beings move by themselves."
   },
@@ -170,7 +170,7 @@
    "claim": "Plants stay still. They do not move by themselves.",
    "who": "A common idea, because plants move too slowly for us to notice",
    "for": "A potted plant seems to stay in the same place all day.",
-   "against": "Seedlings by a window lean towards the light in a day or two, and lean back if you turn the pot. The touch-me-not plant folds up their leaves within seconds of a touch.",
+   "against": "Seedlings by a window lean towards the light in a day or two, and lean back if you turn the pot. Touch-me-not plants fold up their leaves within seconds of a touch.",
    "status": "rejected",
    "context": "This card is about the idea that plants never move."
   }
@@ -208,7 +208,7 @@
    "Ammamma's bunch of keys hung on a long red thread from her waist. Revathi untied them. \"Can I play with these, Ammamma?\"",
    "\"Gently,\" said Ammamma. \"And keep them away from faces.\"",
    "Revathi stood near the wall and held the thread. She moved her hand in a tiny circle. The keys went round and round below it. Their big black shadow moved on the wall.",
-   "Arjun was on the sofa. \"You're swinging them,\" he said. \"Like an oonjal.\"",
+   "Arjun was on the sofa. \"You're swinging them,\" he said. \"Like an uyyala.\"",
    "\"I'm not swinging,\" said Revathi. \"They're going round. Look down at them.\"",
    "\"I can only see the shadow,\" said Arjun. \"And it's going back and forth.\"",
    "Revathi frowned. She gave Arjun the keys. \"You do it. Make a tiny circle with your hand. Slowly.\" She showed him how. Then she sat on the sofa, where Arjun had been.",
@@ -233,7 +233,7 @@
    "\"Ammamma,\" Revathi whispered. \"The gecko is level with the fan. I think the gecko sees the blades go back and forth.\"",
    "\"You may be right,\" said Ammamma. \"Go to sleep now.\""
   ],
-  "note": "Hyderabad is a real city in Telangana. Ammamma means mother's mother in Telugu. An oonjal is a swing seat that hangs in many South Indian homes. Revathi, Arjun, Amma and Ammamma are made up. Galileo Galilei was a real scientist who saw Jupiter's moons in 1610.",
+  "note": "Hyderabad is a real city in Telangana. Ammamma means mother's mother in Telugu. An uyyala is a swing seat that hangs in many homes in Telangana and Andhra Pradesh. Revathi, Arjun, Amma and Ammamma are made up. Galileo Galilei was a real scientist who saw Jupiter's moons in 1610.",
   "epiphany": "For the parent: Arjun sees the shadow go back and forth, and Revathi sees the keys go round. Both are right about what they see. Revathi tests it by guessing from the shadow alone, and finds she cannot tell. One motion looks round from above and back and forth from the side. Then the ant, the moth, the keys and the fan show the difference between moving by yourself, being moved, and having a motor.",
   "ask": [
    "Why did Arjun think Revathi was swinging the keys?",
@@ -252,7 +252,7 @@
   {
    "id": "e1",
    "title": "Round or Back and Forth? Keys on a string, seen from two places",
-   "mins": 22,
+   "mins": 20,
    "days": 1,
    "context": "This is the main experiment of the unit. You make a bunch of keys go round and round on a string. Then you watch them from above, from the side, and as a shadow on the wall.",
    "question": "Keys go round and round in a circle on a string. What path do you see when you watch from the side, with your eyes at the same height as the keys?",
@@ -290,7 +290,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 22,
+     "mins": 20,
      "what": "Make the keys go round, guess, watch from above and from the side, count, and play the shadow game."
     }
    ],
@@ -321,17 +321,17 @@
       "The shadow on the wall",
       "A circle",
       "Back and forth",
-      "10 back-and-forths"
+      "Not counted"
      ]
     ]
    },
    "setup": [
     {
-     "art": "A grandmother standing on a tiled floor, holding a string with a bunch of keys hanging near the floor, her hand making a tiny circle, and the keys going round in a big circle drawn with a dotted line.",
+     "art": "An adult standing on a tiled floor, holding a string with a bunch of keys hanging near the floor, the hand making a tiny circle, and the keys going round in a big circle drawn with a dotted line.",
      "caption": "1. Hold the string. Make a tiny circle with your hand. The keys go round."
     },
     {
-     "art": "A girl standing beside her, looking straight down at the keys, with a circle drawn round them.",
+     "art": "A girl standing beside the adult, looking straight down at the keys, with a circle drawn round them.",
      "caption": "2. Look down from above. What path do you see?"
     },
     {
@@ -354,7 +354,7 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Keep the keys going round. 2. Ask for a guess and a reason. 3. Write the guess down.",
      "say": "If you get down low and look from the side, what will you see? A circle, a line, or something else? Why do you think so?",
      "kid": "Guess. From the side, what path will the keys make? Why?",
@@ -389,7 +389,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Your child lies on the floor 2 big steps away, eyes as low as the keys. 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds from above.",
+     "do": "1. Your child lies on the floor 2 big steps away, with chin on hands and eyes as low as the keys (or sits on the floor). 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds.",
      "say": "Now put your eyes as low as the keys. Say tick each time they reach the left end. What path do you see now?",
      "kid": "Lie down. Look from the side. Say tick at the left end.",
      "ask": [
@@ -406,8 +406,8 @@
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "1. Make the room dim. 2. Put the phone torch on a table, shining at a plain wall. 3. Hold the keys between the torch and the wall, close to the wall. 4. Your child looks only at the shadow. 5. Make the keys go round, then swing them back and forth, in any order.",
+     "mins": 3,
+     "do": "1. Make the room dim. 2. Put the phone torch on a table, shining at a plain wall. 3. Hold the keys between the torch and the wall, close to the wall and as high as the torch. 4. Your child looks only at the shadow. 5. Make the keys go round, then swing them back and forth, in any order.",
      "say": "Look only at the shadow on the wall. Am I making the keys go round, or swing back and forth? Tell me which.",
      "kid": "Look only at the shadow. Are the keys going round or swinging? Can you tell?",
      "parent": "The shadow of keys going round and the shadow of keys swinging look almost the same. A sharp-eyed child may notice that a swing's shadow rises a little at each end. That is a good find. Let your child try the shadow game on you too."
@@ -459,7 +459,7 @@
    ],
    "materials": [
     {
-     "item": "a straight line on the floor: the line between two rows of tiles, or a strip of tape about 4 big steps long",
+     "item": "a straight line on the floor about 8 small steps long: the line between two rows of tiles, or a strip of tape",
      "qty": 1
     },
     {
@@ -522,7 +522,7 @@
      "caption": "1. Stand with your toes on the line."
     },
     {
-     "art": "The girl walking along the line with her eyes shut, her grandmother walking close beside her with one hand ready.",
+     "art": "The girl walking along the line with her eyes shut, an adult walking close beside her with one hand ready.",
      "caption": "2. Shut your eyes. Walk 8 steps. A grown-up walks beside you."
     },
     {
@@ -537,7 +537,7 @@
      "do": "1. Find a straight tile line, or stick down a strip of tape. 2. Clear the floor around it. 3. Show your child where to start.",
      "say": "This is our straight line. You will stand at this end and walk 8 steps along it.",
      "kid": "This is the line. Stand at this end with your toes on it.",
-     "parent": "A tile line in a hall or corridor works well. You need about 4 big steps of clear floor."
+     "parent": "A tile line in a hall or corridor works well. You need about 8 small steps of clear floor, plus a little more at the end."
     },
     {
      "id": "s2",
@@ -559,7 +559,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child walks 8 steps along the line with eyes open. 2. Put a slip at their toes. 3. Measure the gap to the line in hand-widths. 4. Do it twice.",
+     "do": "1. Your child walks 8 steps along the line with eyes open. 2. Put a slip at their toes. 3. Measure the gap to the line in hand-widths of your child's hand. 4. Do it twice.",
      "say": "Walk 8 steps along the line with your eyes open. Stop. How far are your toes from the line?",
      "kid": "Eyes open. Walk 8 steps on the line. Stop. Look at your toes.",
      "parent": "With eyes open, most children stay on the line or very close to it."
@@ -689,14 +689,14 @@
      "kid": "Count the ticks. Which column has the most?",
      "check": {
       "t": "mcq",
-      "q": "A toothbrush scrubs your teeth. What path does it take?",
+      "q": "Water falls from a tap into a bucket. What path does the water take?",
       "options": [
-       "Straight",
        "Round",
-       "Back and forth"
+       "Back and forth",
+       "Straight"
       ],
       "a": 2,
-      "why": "A toothbrush goes one way and back again, over and over, so it moves back and forth."
+      "why": "Water falls down along a straight line, so it moves straight."
      }
     }
    ]
@@ -731,7 +731,7 @@
    "record": "Draw one thing in each column.",
    "setup": [
     {
-     "art": "A girl and her mother at a window with a grille, looking out at a crow on a wire, clothes moving on a line and an auto on the road.",
+     "art": "A girl and an adult at a window with a grille, looking out at a crow on a wire, clothes moving on a line and an auto on the road.",
      "caption": "1. Watch from the window for 5 minutes."
     },
     {
@@ -782,14 +782,14 @@
      "parent": "There is no single right answer for a fan. It has a motor, so nobody pushes it, but it stops when the power goes. Praise a good reason.",
      "check": {
       "t": "mcq",
-      "q": "A ball is lying still on the floor. What will start it moving?",
+      "q": "Which of these has a motor or an engine that starts it moving?",
       "options": [
-       "A push or a pull",
-       "Nothing, if we wait long enough it starts",
-       "Its own motor"
+       "A leaf",
+       "An auto",
+       "A crow"
       ],
-      "a": 0,
-      "why": "A ball starts moving when something pushes or pulls it, like a foot or a slope."
+      "a": 1,
+      "why": "An auto has an engine, so fuel starts it, not a push. A leaf is moved by the wind, and a crow moves by herself."
      }
     }
    ]
@@ -880,8 +880,8 @@
    "id": "g1",
    "title": "Three Paths: the card game",
    "mins": 10,
-   "players": "1 or more players and a grown-up who reads the cards.",
-   "context": "This is a card game. Each card names something that moves. The player draws its path in the air, then puts the card on the STRAIGHT, ROUND or BACK AND FORTH mat.",
+   "players": "A child and a grown-up. More children can join and take turns.",
+   "context": "This is a card game. The grown-up reads what each card shows. The player draws its path in the air, then puts the card on the STRAIGHT, ROUND or BACK AND FORTH mat.",
    "printables": [
     {
      "kind": "cards",
@@ -920,7 +920,7 @@
        "b": "ROUND"
       },
       {
-       "f": "An oar rowing a boat in the Kerala backwaters",
+       "f": "An oar rowing a boat across a river",
        "b": "BACK AND FORTH"
       },
       {
@@ -948,12 +948,12 @@
     }
    ],
    "rules": [
-    "Write STRAIGHT, ROUND and BACK AND FORTH on three sheets of paper. These are the mats.",
-    "A grown-up reads one card out loud.",
+    "Cut out the three mats and lay them on the floor.",
+    "The grown-up reads the front of one card out loud.",
     "The player draws the path in the air with a finger, then puts the card on a mat.",
-    "The grown-up reads the back. A right answer wins the card.",
-    "If the player gives a good reason for a different mat, that wins too.",
-    "Play until all 12 cards are won."
+    "The grown-up reads the back. If the player is right, the player keeps the card. If the back names two paths, the player must say which part moves in each path.",
+    "If the player gives a good reason for a different mat, the player keeps the card too.",
+    "A card that is wrong goes back to the bottom of the pile. After 12 cards have been tried, count the cards each player kept. The most cards wins. If you play alone, try to keep more than 8."
    ],
    "setup": [
     {
@@ -961,7 +961,7 @@
      "caption": "1. Lay out the three mats."
     },
     {
-     "art": "A girl drawing a circle in the air with her finger while holding a card, and a grandmother holding the other cards.",
+     "art": "A girl drawing a circle in the air with her finger while holding a card, and an adult holding the other cards.",
      "caption": "2. Draw the path in the air. Put the card on a mat."
     }
    ],
@@ -969,7 +969,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Make the three mats. 2. Draw each path in the air together.",
+     "do": "1. Cut out the three mats and lay them on the floor. 2. Draw each path in the air together.",
      "say": "Here are three mats. Draw a straight line in the air. Now a circle. Now back and forth.",
      "kid": "Draw each path in the air. Straight. Round. Back and forth."
     },
@@ -981,21 +981,21 @@
      "kid": "Listen. Draw the path in the air. Put the card on a mat.",
      "ask": [
       {
-       "q": "Why did you put the cycle on two mats?",
+       "q": "Why does the cycle card fit two mats?",
        "good": [
         "The cycle goes straight, but the wheels go round.",
         "Different parts move in different paths."
        ]
       }
      ],
-     "parent": "Some cards fit two mats. Praise a reason that says which part moves which way."
+     "parent": "Some cards fit two mats. Praise a reason that says which part moves which way. Children take turns with the cards."
     },
     {
      "id": "s3",
      "mins": 1,
-     "do": "Count the cards on each mat.",
-     "say": "Which mat has the most cards? Did any card fit two mats?",
-     "kid": "Count the cards on each mat.",
+     "do": "Count the cards each player kept.",
+     "say": "Who kept the most cards? Did any card fit two mats?",
+     "kid": "Count the cards you kept.",
      "check": {
       "t": "mcq",
       "q": "An oar pushes a boat through the water, again and again. What path does the oar take?",
@@ -1014,8 +1014,8 @@
    "id": "g2",
    "title": "Who Starts It? The quick-hands card game",
    "mins": 10,
-   "players": "2 or more players and a grown-up who reads the cards.",
-   "context": "This is a quick game. A grown-up reads a card, and the players show with their hands what starts that thing moving: itself, a push or pull, or a motor.",
+   "players": "2 or more players. A grown-up can play too.",
+   "context": "This is a quick game. One player reads a card and the other players show with their hands what starts that thing moving: itself, a push or pull, or a motor.",
    "printables": [
     {
      "kind": "cards",
@@ -1074,11 +1074,12 @@
    ],
    "rules": [
     "Agree on three hand signs: hands on your chest for BY THEMSELVES, pushing palms for PUSHED OR PULLED, and rolling fists for MOTOR.",
-    "A grown-up reads one card.",
-    "Everyone shows a sign as fast as they can.",
-    "The grown-up reads the back. Everyone with the right sign gets a point.",
+    "Shuffle the cards and deal them out equally. Each player has a pile. With 2 players, you have 6 cards each.",
+    "Take turns. The reader reads the front of one card and does not show a sign.",
+    "Everyone else shows a sign as fast as they can.",
+    "The reader reads the back. Everyone with the right sign gets a point.",
     "A player who gives a good reason for a different sign also gets a point.",
-    "Play until all 12 cards are read."
+    "Play until all 12 cards are read. The most points wins. If it is a tie, everyone wins."
    ],
    "setup": [
     {
@@ -1086,7 +1087,7 @@
      "caption": "1. Learn the three hand signs."
     },
     {
-     "art": "A grandmother reading a card while two children show their signs.",
+     "art": "An adult reading a card while two children show their signs.",
      "caption": "2. Listen to the card. Show a sign fast."
     }
    ],
@@ -1095,14 +1096,14 @@
      "id": "s1",
      "mins": 2,
      "do": "Teach the three hand signs and practise each one.",
-     "say": "Hands on your chest means it moves by itself. Pushing palms means a push or pull. Rolling fists means a motor.",
+     "say": "Hands on your chest means the thing moves by itself. Pushing palms means a push or pull. Rolling fists means a motor.",
      "kid": "Learn the signs. Chest, pushing palms, rolling fists."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Read the cards one by one. 2. Everyone shows a sign. 3. Read the back and give points.",
-     "say": "A kite in the sky at Sankranti. What starts it moving? Show me your sign!",
+     "do": "1. Deal the cards. 2. The reader reads a card and the others show a sign. 3. Read the back and give points. 4. Next player reads.",
+     "say": "A kite in the sky at Sankranti. What starts it moving? Show your sign!",
      "kid": "Listen. What starts it moving? Show your sign fast!",
      "ask": [
       {
@@ -1125,12 +1126,12 @@
       "t": "mcq",
       "q": "A fish swims to the top of the pond for food. What starts the fish moving?",
       "options": [
-       "The fish, by themselves",
+       "The fish, on her own",
        "A push from the wind",
        "A motor"
       ],
       "a": 0,
-      "why": "A fish moves by themselves, using their fins and tail and the energy from their food."
+      "why": "A fish moves on her own, using her fins and tail and the energy from her food."
      }
     }
    ]
@@ -1284,7 +1285,7 @@
    "title": "Draw a Round Path Without Tracing",
    "mins": 15,
    "context": "This is a design challenge. Can you draw a good circle without tracing round a bangle, a plate or anything else?",
-   "problem": "Shalini wants a big circle for her kolam, but she has no plate big enough to trace round. Can you draw a round path, as big as your hand-span or bigger, without tracing anything?",
+   "problem": "You want to draw a big circle for a kolam, but you have no plate big enough to trace round. Can you draw a round path, as big as your hand-span or bigger, without tracing anything?",
    "constraints": [
     "You may not trace round anything.",
     "The circle must be at least as wide as your hand-span.",
@@ -1294,13 +1295,12 @@
     "paper or newspaper",
     "a pencil or a sketch pen",
     "string or thread",
-    "a ruler or a strip of card",
-    "a coin"
+    "a ruler or a strip of card"
    ],
    "general": [
     "A compass in a geometry box holds one point still while the pencil goes round it.",
     "A string held still at one end and tied to a pencil at the other end keeps the pencil the same distance from the middle.",
-    "Kolam artists in Tamil Nadu often draw circles freehand around a dot, turning their whole hand."
+    "Kolam artists in Tamil Nadu draw smooth curves freehand with rice flour after a lot of practice."
    ],
    "creative": [
     "Hold the string still with one finger in the middle, and pull the pencil round on the tight string.",
@@ -1324,7 +1324,7 @@
      "id": "s1",
      "mins": 2,
      "do": "Read the problem together and ask for ideas.",
-     "say": "Shalini needs a big circle with no plate to trace. How could you keep the pencil going round one middle point?",
+     "say": "We need a big circle and have no plate to trace. How could you keep the pencil going round one middle point?",
      "kid": "How can you draw a circle with nothing to trace round?",
      "ask": [
       {
@@ -1355,7 +1355,7 @@
       "q": "You tie a pencil to a string and hold the other end still. Why does the pencil go round in a circle?",
       "options": [
        "The string keeps it the same distance from the middle",
-       "The pencil likes circles",
+       "The pencil is round",
        "The paper moves"
       ],
       "a": 0,
@@ -1409,18 +1409,6 @@
      "art": "Two blank boxes, one labelled FROM ABOVE and one labelled FROM THE SIDE."
     },
     {
-     "t": "mcq",
-     "p": "Divya, a girl in Class 2, watches keys going round on a string. Her eyes are at the same height as the keys. What does she see?",
-     "opts": [
-      "A circle",
-      "Back and forth in a line",
-      "Keys standing still"
-     ],
-     "a": 1,
-     "why": "From the side, Divya cannot see the keys come towards her and go away. She sees them go only left and right.",
-     "how": "e1"
-    },
-    {
      "t": "sort",
      "p": "Circle in green the things that move by themselves. Circle in blue the things that are moved by a push or pull.",
      "cats": [
@@ -1454,7 +1442,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Ants, crows and you start moving by yourselves. A ball, a door and a leaf move when a foot or the wind pushes them."
+     "why": "Ants, crows and people start moving by themselves. A ball, a door and a leaf move when a foot or the wind pushes them."
     },
     {
      "t": "truefalse",
@@ -1499,17 +1487,23 @@
      "art": "A girl riding a cycle along a straight road, with arrows pointing to the wheels, the pedals and the whole cycle."
     },
     {
-     "t": "count",
-     "p": "In the keys test, Meera counted 10 rounds from above. Her brother watched from the side. How many back-and-forths should he count?",
-     "a": 10,
-     "why": "One round looks like one back and forth from the side. So 10 rounds look like 10 back-and-forths.",
-     "how": "e1"
-    },
-    {
      "t": "fill",
      "p": "A swing goes back and ___.",
      "a": "forth",
      "why": "A swing goes one way, then back the other way, again and again: back and forth."
+    },
+    {
+     "t": "count",
+     "p": "A clock's minute hand goes round once in one hour. How many times does it go round in 3 hours?",
+     "a": 3,
+     "why": "One hour is one round. So 3 hours are 3 rounds."
+    },
+    {
+     "t": "truefalse",
+     "p": "Mustard seedlings by a window lean towards the light by themselves, very slowly.",
+     "a": true,
+     "why": "True. The seedlings sense the light and bend towards it. They move by themselves, too slowly to watch.",
+     "how": "p1"
     }
    ]
   },
@@ -1535,18 +1529,6 @@
      "ask": "Who do you agree with? Say why. Then say one thing the other person might say back.",
      "a": "Both have a point. Nobody pushes the fan, so it seems to move by itself. But it needs electricity to turn its motor, and it slows and stops in a power cut.",
      "why": "A strong answer uses what happens in a power cut. It also sees why the other person thinks so."
-    },
-    {
-     "t": "mcq",
-     "p": "Lakshmi, a girl in Class 2, walks 8 steps along a tile line with her eyes shut. What is most likely to happen?",
-     "opts": [
-      "She stays exactly on the line",
-      "She drifts a little to one side",
-      "She walks backwards"
-     ],
-     "a": 1,
-     "why": "With eyes shut, small turns add up and nothing tells her to fix them, so most people drift off the line.",
-     "how": "e2"
     },
     {
      "t": "draw",
@@ -1607,18 +1589,6 @@
      "art": "Four small pictures: a local train, a merry-go-round, a cloth cradle and a boat with an oar."
     },
     {
-     "t": "mcq",
-     "p": "Pooja, a girl in Class 2, opens a door slowly. What path does the edge of the door take?",
-     "opts": [
-      "A straight line",
-      "Part of a circle round the hinges",
-      "Back and forth by itself"
-     ],
-     "a": 1,
-     "why": "A door turns round its hinges, so its edge moves along part of a circle.",
-     "how": "a1"
-    },
-    {
      "t": "sort",
      "p": "Sort these into STRAIGHT, ROUND and BACK AND FORTH.",
      "cats": [
@@ -1661,6 +1631,24 @@
      "lines": 2,
      "a": "For example, a cycle: it goes straight and its wheels go round. Or a sewing machine: the wheel goes round and the needle goes up and down.",
      "why": "A strong answer names two parts of one thing and gives each part its own path."
+    },
+    {
+     "t": "mcq",
+     "p": "Mira, a girl in Class 2, puts her fingers on the front of her throat and hums. What does she feel?",
+     "opts": [
+      "Nothing, because the throat stays still",
+      "A circle going round",
+      "A buzz, because parts inside her throat vibrate"
+     ],
+     "a": 2,
+     "why": "Parts inside the throat move back and forth very fast when we hum. Moving back and forth very fast is called vibrating.",
+     "how": "a3"
+    },
+    {
+     "t": "count",
+     "p": "A clock's second hand goes round once in one minute. How many times does it go round in 5 minutes?",
+     "a": 5,
+     "why": "One minute is one round. So 5 minutes are 5 rounds."
     }
    ]
   },
@@ -1700,20 +1688,8 @@
      "why": "A strong answer links Jupiter's moons to the keys seen from the side."
     },
     {
-     "t": "mcq",
-     "p": "Sowmya, a girl in Class 2, sees only a shadow going back and forth. Which test would tell her for sure if the keys are swinging or going round?",
-     "opts": [
-      "Watch the shadow for longer",
-      "Look at the keys from above",
-      "Make the torch brighter"
-     ],
-     "a": 1,
-     "why": "From above, a circle and a swing look very different. The shadow shows only one side, so watching it longer does not help.",
-     "how": "e1"
-    },
-    {
      "t": "draw",
-     "p": "Many people think a ball lying still will start rolling by itself if you wait long enough. Draw how you would test this. What do you expect to see?",
+     "p": "Nisha, a girl in Class 2, says a ball lying still will start rolling by itself if you wait long enough. Draw how you would test this. What do you expect to see?",
      "a": "A ball on a flat floor and a clock. The ball stays still until something pushes it or the floor slopes.",
      "why": "A strong plan uses a flat floor, waits a set time, and changes nothing else. It expects the ball to stay still unless a push or a slope starts it."
     },
@@ -1725,10 +1701,10 @@
     },
     {
      "t": "write",
-     "p": "Asha says, 'Plants cannot move by themselves.' How would you test what Asha says?",
+     "p": "Asha, a girl in Class 2, says, 'Plants cannot move by themselves.' How would you test what Asha says?",
      "lines": 2,
      "a": "Grow seedlings by a window, see them lean to the light, turn the cup, and see them lean back by the next day.",
-     "why": "A strong answer describes a test, like the seedling project, where the plant moves with nobody touching her.",
+     "why": "A strong answer describes a test, like the seedling project, where the plant moves with nobody touching the plant.",
      "how": "p1"
     },
     {
@@ -1748,12 +1724,12 @@
        "The wind and the string"
       ],
       [
-       "A boat in the backwaters",
-       "People pushing the oars"
+       "A rowing boat on a river",
+       "People pulling the oars"
       ],
       [
        "A crow",
-       "Their own wings"
+       "Her own wings"
       ]
      ],
      "a": "pairs as given",
@@ -1812,6 +1788,18 @@
      "p": "Kalpana, a girl in Class 2, watches a giant wheel go round 3 times. She stands to the side of the wheel. Her friend's seat goes up and down. How many times does the seat reach the top?",
      "a": 3,
      "why": "Each time the wheel goes round once, the seat goes up to the top once. So 3 rounds make 3 trips to the top."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are moved by a push or a pull. Which one is not?",
+     "opts": [
+      "A football after a kick",
+      "A curtain blowing in the wind",
+      "A cart pulled by a man",
+      "A lift going up"
+     ],
+     "a": 3,
+     "why": "A lift has a motor that starts it. The football, the curtain and the cart are moved by a foot, the wind and a person."
     }
    ]
   }
@@ -1833,11 +1821,11 @@
    "t": "mcq",
    "p": "Which of these goes round?",
    "opts": [
-    "A potter's wheel",
     "A drawer",
-    "A toothbrush"
+    "A toothbrush",
+    "A potter's wheel"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A potter's wheel turns round its middle.",
    "outcome": 0
   },
@@ -1845,11 +1833,11 @@
    "t": "mcq",
    "p": "A cradle rocks in the hall. What path does it take?",
    "opts": [
-    "Back and forth",
     "Straight",
+    "Back and forth",
     "Round"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cradle goes one way, then back again, over and over.",
    "outcome": 0
   },
@@ -1869,24 +1857,24 @@
    "t": "mcq",
    "p": "An auto goes along a straight road. What do its wheels do?",
    "opts": [
-    "They go round",
     "They go back and forth",
-    "They stay still"
+    "They stay still",
+    "They go round"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The auto goes straight while each wheel goes round its middle.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Keys go round on a string. You lie on the floor and look from the side. What do you see?",
+   "p": "A gecko sits on the wall, level with a ceiling fan. The fan blades go round. What path do the blades seem to take to the gecko?",
    "opts": [
-    "Back and forth",
     "A bigger circle",
-    "The keys stop"
+    "Back and forth",
+    "The blades seem to stand still"
    ],
-   "a": 0,
-   "why": "From the side you see only left and right, so a round path looks like back and forth.",
+   "a": 1,
+   "why": "From the side, the gecko sees only the left and right of each blade, so a round path looks like back and forth.",
    "outcome": 2,
    "how": "e1"
   },
@@ -1894,11 +1882,11 @@
    "t": "mcq",
    "p": "Which of these moves by themselves?",
    "opts": [
-    "A crow",
     "A football",
-    "A curtain"
+    "A curtain",
+    "A crow"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A crow starts and stops by herself. A football and a curtain need a push from a foot or the wind.",
    "outcome": 3
   },
@@ -1906,11 +1894,11 @@
    "t": "mcq",
    "p": "Which of these is moved by the wind?",
    "opts": [
-    "A kite",
     "An ant",
+    "A kite",
     "A goat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The wind pushes the kite. The ant and the goat move themselves.",
    "outcome": 3
   },
@@ -1918,25 +1906,25 @@
    "t": "mcq",
    "p": "You walk 8 steps on a line with your eyes shut. What usually happens?",
    "opts": [
-    "You drift off the line a little",
     "You stay exactly on the line",
-    "You walk faster"
+    "You walk faster",
+    "You drift off the line a little"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Without your eyes, small turns add up and you drift.",
    "outcome": 4,
    "how": "e2"
   },
   {
    "t": "mcq",
-   "p": "Ravi guesses the keys will look round from every side. What should he do next?",
+   "p": "Gopal, a boy in Class 2, guesses the keys will look round from every side. What should he do next?",
    "opts": [
     "Test it by looking from the side",
     "Ask a friend and believe them",
     "Give up"
    ],
    "a": 0,
-   "why": "A guess is checked by a test. Ravi can lie down and look from the side.",
+   "why": "A guess is checked by a test. Gopal can lie down and look from the side.",
    "outcome": 5,
    "how": "e1"
   }
@@ -1989,11 +1977,11 @@
   },
   {
    "text": "A cloth cradle rocking in a home in Kerala.",
-   "art": "A cloth cradle hanging from a ceiling hook, a grandmother gently rocking it."
+   "art": "A cloth cradle hanging from a ceiling hook, an adult gently rocking it."
   },
   {
-   "text": "Rowers pulling their oars back and forth in a snake boat race in Alappuzha.",
-   "art": "A long snake boat with many rowers, their oars dipping in the water together."
+   "text": "Boatmen pulling their oars back and forth at the ghats in Varanasi.",
+   "art": "A boat on the river at the Varanasi ghats, a boatman pulling two long oars back and forth."
   },
   {
    "text": "Women drawing round kolam patterns at a doorstep in Madurai.",
@@ -2032,10 +2020,6 @@
    "a": "They always come round to see you!"
   },
   {
-   "j": "Why was the train never late?",
-   "a": "It always took the straight way!"
-  },
-  {
    "j": "What did the ant say to the football?",
    "a": "I can walk myself, thank you!"
   },
@@ -2045,7 +2029,7 @@
   },
   {
    "j": "Why did the seedlings lean to the window?",
-   "a": "They wanted to see the sunshine!"
+   "a": "They wanted a better look at the sun!"
   },
   {
    "j": "Why did the clock's hands never finish their race?",
@@ -2056,13 +2040,13 @@
    "a": "You can't fool me. I know you're going round!"
   },
   {
-   "j": "Why did the fan stop talking in the power cut?",
-   "a": "It lost its train of thought, and its electricity!"
+   "j": "Why did the fan go quiet in the power cut?",
+   "a": "It ran out of power to go round!"
   }
  ],
  "maths": [
   {
-   "problem": "In the keys test, Revathi counted 12 rounds from above. Arjun watched from the side and counted the back-and-forths. Arjun counted 12 too. Why did the counts match?",
+   "problem": "In the story, Revathi counted 12 rounds of her keys from above. Her cousin Arjun watched from the side and counted the back-and-forths. Arjun counted 12 too. Why did the counts match?",
    "answer": "Because one round looks like one back and forth from the side. So 12 rounds look like 12 back-and-forths.",
    "explain": "Each time the keys go round once, they reach the left end once. So the number of ticks from the side is the same as the number of rounds from above. Matching counts show it was one motion seen two ways.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2071,7 +2055,7 @@
    "why_maths": "Comparing the two counts shows that the round path and the back-and-forth path were the same motion."
   },
   {
-   "problem": "In the eyes-shut test, Lakshmi stopped 0 and 0 hand-widths from the line with her eyes open. With her eyes shut she stopped 1, 3 and 2 hand-widths away. Which try was furthest from the line? What do the numbers tell you about eyes?",
+   "problem": "Lakshmi, a girl in Class 2, did the eyes-shut test. She stopped 0 and 0 hand-widths from the line with her eyes open. With her eyes shut she stopped 1, 3 and 2 hand-widths away. Which try was furthest from the line? What do the numbers tell you about eyes?",
    "answer": "The second eyes-shut try, at 3 hand-widths. Every eyes-shut try was further from the line than every eyes-open try.",
    "explain": "3 is the biggest number, so that try drifted most. All the eyes-shut numbers are bigger than 0. So eyes help Lakshmi stay on the line, even though each eyes-shut try was different.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2080,7 +2064,7 @@
    "why_maths": "Comparing the numbers shows a pattern: eyes shut always meant further from the line."
   },
   {
-   "problem": "In the Path Hunt, Fatima ticked 5 things for STRAIGHT, 4 for ROUND and 3 for BACK AND FORTH. Draw a tally for each. How many things did she find in all? Which path did she find most?",
+   "problem": "Fatima, a girl in Class 2, did the Path Hunt. She ticked 5 things for STRAIGHT, 4 for ROUND and 3 for BACK AND FORTH. Draw a tally for each. How many things did she find in all? Which path did she find most?",
    "answer": "12 things in all. STRAIGHT had the most, with 5.",
    "explain": "5 and 4 make 9, and 3 more makes 12. 5 is the biggest number, so straight things were the most common in her home.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2164,7 +2148,7 @@
    },
    {
     "source": "Udana 6.4, a Buddhist text, and the Jain teaching of anekantavada, many-sidedness",
-    "teaching": "Some blind men each touch one part of an elephant. One says an elephant is like a rope, and another says like a wall. Each is right about the part he touched.",
+    "teaching": "Some blind people each touch a different part of an elephant. One says an elephant is like a rope, and another says like a wall. Each is right about the part they touched.",
     "link": "From above you saw a circle, and from the side a line. Each view told the truth about the keys from one place."
    },
    {
@@ -2175,7 +2159,7 @@
   ],
   "science": [
    {
-    "text": "A swing's back-and-forth motion and a round motion seen from the side follow the same pattern. Scientists use circles to work out how swings and springs move.",
+    "text": "A small swing's back-and-forth motion and a round motion seen from the side follow the same pattern. Scientists use circles to work out how swings and springs move.",
     "status": "settled"
    },
    {
@@ -2190,8 +2174,8 @@
   "practice": {
    "title": "Back and forth with your breath",
    "mins": 3,
-   "say": "Sit up tall. Put one hand on your tummy. Breathe in slowly and feel your tummy go out. Breathe out and feel it come back in. That is back and forth. Now draw a slow circle in the air with one finger. Go up as you breathe in, and down as you breathe out. Do it five times. Seen from the side, your finger goes only up and down.",
-   "kid": "Hand on your tummy. Breathe in. It goes out. Breathe out. It comes in. Draw a slow circle in the air. Up as you breathe in. Down as you breathe out."
+   "say": "Sit up tall. Put one hand on your tummy. Breathe in slowly and feel your tummy go out. Breathe out and feel it come back in. That is back and forth. Now draw a slow circle in the air in front of you, as big as a clock face. Do one round for each breath. A grown-up standing beside you sees your finger go only up and down.",
+   "kid": "Hand on your tummy. Breathe in. It goes out. Breathe out. It comes in. Now draw a slow circle in the air, one round for each breath."
   },
   "ask": [
    "The keys went round, and they went back and forth. Which one was the real path, or were both real?",
@@ -2269,9 +2253,9 @@
    "Uniform circular motion seen edge-on, or projected as a shadow, is simple harmonic motion, the same pattern as a small pendulum swing. Any introductory physics text.",
    "Galileo Galilei, Sidereus Nuncius (The Starry Messenger), Venice, March 1610: observations of Jupiter's moons from 7 January 1610. Simon Marius, Mundus Iovialis, 1614, with the names Io, Europa, Ganymede and Callisto.",
    "Souman, J. L., Frissen, I., Sreenivasa, M. N. and Ernst, M. O. (2009). Walking straight into circles. Current Biology 19, 1538-1542.",
-   "Robert Brown, A brief account of microscopical observations, 1828, on particles from pollen and from mineral dust moving in water (observed in 1827).",
    "Phototropism in seedlings: auxin gathers on the shaded side and the shaded side grows faster. Any plant biology text.",
    "Vaisheshika Sutra 1.1.7 on the five kinds of karma (motion). Udana 6.4 on the blind men and the elephant. Aristotle, Physics, Book 7, chapter 1."
   ]
- }
+ },
+ "playtest": "I walked through each game with 2 players and with 4, each experiment, activity, project and challenge step by step as a family would in a flat, and every card and worksheet item on its own. I rewrote both card games so they end, work with a parent and one child, and ask for the answers they print. I made the shadow step and the eyes-shut line fit a flat, introduced every made-up name, cut repeated questions and checks, and tightened the jokes to 8."
 }

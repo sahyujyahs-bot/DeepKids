@@ -41,7 +41,7 @@ Cloth and paper are made of fibres, with tiny gaps between them. Water creeps in
 ### Transparent, translucent and opaque · *defined*
 **Definition:** Transparent materials let light through so you see a clear picture. Translucent materials let some light through, but no clear picture. Opaque materials let no light through.
 
-Look through clear polythene and you see the window clearly. It is transparent. A cotton hanky glows, but the trees are gone. It is translucent. Kitchen foil looks dark. It is opaque. Even clear water is not perfectly transparent. Deep sea water looks blue. In 1921, on a ship to England, the Indian scientist C. V. Raman studied this blue. He showed it is not just the sky reflected. The water itself changes the light passing into it.
+Look through clear polythene and you see the window clearly. It is transparent. A cotton hanky glows, but the trees are gone. It is translucent. Kitchen foil looks dark. It is opaque. Even clear water is not perfectly transparent. In deep sea water, the light that comes back to your eye is blue. In 1921 the Indian scientist C. V. Raman sailed home from England and studied this blue. He showed that the water itself changes the light, and that the blue is not just the sky reflected.
 - e.g. Transparent: a glass tumbler, spectacles, clear polythene.
 - e.g. Translucent: a thin hanky, a paper kite held up to the sky, your closed eyelids.
 - e.g. Opaque: foil, a steel plate, a wooden door.

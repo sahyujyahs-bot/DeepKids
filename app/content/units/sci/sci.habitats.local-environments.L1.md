@@ -1,9 +1,9 @@
 # Homes near our home: a tree, a pond, a park and under a stone
 `sci.habitats.local-environments.L1`
 
-**Summary.** Lift a stone in a park, and the ground underneath is dark, damp and cool. Earthworms, ants and pill bugs live there, and they would dry out in the hot sun a few steps away. A tree, a pond and the grass of a park are homes too, each with their own living beings. Your child lays a plate on wet soil and, a few hours later, finds a damp, dark home right next to dry soil. Every living being lives where a place gives them what they need.
+**Summary.** Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers wet soil with a plate and finds, a few hours later, a damp home right next to dry soil.
 
-**Intro.** *Touch the floor in a sunny spot. Now touch the floor under a bucket or a doormat. Do they feel the same?* They do not. The floor in the sun is warm and dry. The floor under the bucket is cool, and sometimes damp. A stone in a park does the same thing for the ground under it. Lift a stone, and you may find earthworms, ants and pill bugs living there together. A tree, a pond and the grass are homes too. In this unit we look at the homes near our home, and then we make a small one ourselves.
+**Intro.** *Touch the floor in a sunny spot. Now touch the floor under a bucket or a doormat. Do they feel the same?* They do not. The floor in the sun is usually warm and dry. The floor under the bucket is often cooler and a little damp. The ground under a stone in a park is the same. Lift a stone and you may find earthworms, ants and pill bugs. We will visit homes near our home, and then make a small one.
 
 ## Learning outcomes
 0. By the end I can name places near my home where plants and animals live: a park, a pond, a tree and under a stone.
@@ -23,42 +23,42 @@
 ### A habitat is a home place · *defined*
 **Definition:** A habitat is the place where a living being lives. A habitat gives them food, water, shelter and the right warmth.
 
-Every living being lives somewhere. A fish lives in a pond. A crow nests in a tree. An earthworm lives in damp soil. Each place gives them what they need. Humans are animals too, and a home gives us food, water and shelter. Many habitats are close to home: a park, a pond, a tree, and even the ground under one stone.
+Every living being lives somewhere that gives them food, water and shelter. A fish lives in a pond, a crow in a tree and an earthworm in damp soil. Humans are animals too, and our home gives us the same things.
 - e.g. A pond gives a fish water to swim and breathe in.
 - e.g. A tall tree gives a crow a high, safe place for a nest.
 - e.g. Your home gives you a bed, food, water and a roof against the rain.
 ### Under a stone: dark, damp and cool · *defined*
 **Definition:** The ground under a stone is dark, damp and cool, because the stone keeps off the sun and holds the water in.
 
-The sun warms the open ground and dries it. A stone blocks the sunlight, so the ground below stays dark and cool. The water in the soil cannot escape into the air so quickly, so the soil stays damp. Earthworms breathe through their skin, and their skin must stay damp. Pill bugs lose water fast in dry air. Ants keep their young safe in the dark soil. So all of them live under stones, logs and flowerpots.
+The sun warms and dries open ground. A stone keeps the sun off, so the ground below stays dark and cool, and the water stays in the soil. Earthworms breathe through their skin, so it must stay damp. Pill bugs dry out fast in the sun, and ants keep their young in the dark soil.
 - e.g. Lift a flowerpot that has stood for a week, and the floor underneath is dark and wet.
 - e.g. Ants often build their nest under a flat stone.
 - e.g. In the plate test, the soil under the plate stayed dark and damp.
 ### One tree is home to many · *defined*
 **Definition:** One tree gives homes and food to many living beings at once.
 
-High in the branches, crows and squirrels build nests. Mynas, barbets and fruit bats eat the small figs of banyan and peepal trees. Ants run up and down the bark. Spiders spin webs between the leaves. Caterpillars eat the leaves. In the rains, moss and small ferns grow on the bark. The tree is alive too, and the tree's branches, bark and leaves make all these homes.
+Crows and squirrels build nests in the branches. Ants walk up the bark, and spiders spin webs between the leaves. Mynas and barbets eat the small figs of banyan and peepal trees. The tree is alive too, and her branches, bark and leaves make all these homes.
 - e.g. A squirrel builds a nest of grass and twigs high in a mango tree.
 - e.g. A line of ants walks up a neem trunk.
 - e.g. In the Kerala monsoon, green moss covers the shady side of many trees.
 ### A pond is a home in water · *defined*
 **Definition:** A pond is still water where water plants and water animals live.
 
-Fish swim in the water and breathe with gills. Frogs lay eggs in the water, and tadpoles hatch from them and grow into frogs. Pond skaters walk on top of the water without sinking. Dragonflies lay eggs in the water, and the young dragonflies live underwater for months. Lotus and water lilies grow from the mud at the bottom. Egrets and kingfishers come to the edge to catch fish.
+Fish swim in the water and breathe with gills. Frogs lay eggs in the water, and tadpoles hatch from them. Pond skaters walk on the water without sinking. Egrets and kingfishers stand at the edge to catch fish.
 - e.g. Tadpoles wriggle in a puddle-pond after the first monsoon rains.
 - e.g. A kingfisher dives into a lake in Bengaluru and comes up with a fish.
 - e.g. Lotus leaves float on a temple tank in Odisha.
 ### A park has many small habitats · *defined*
 **Definition:** In a park, the grass, the flowers and the soil are different habitats, each with their own living beings.
 
-Grasshoppers hide in the grass and eat it. Mynas walk on the grass to catch them. Bees and butterflies visit the flowers to drink a sweet juice called nectar. Under the grass, earthworms dig tunnels in the soil. So one small park holds many homes, one above the other.
+Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil.
 - e.g. A myna hops behind the grass cutter, picking up the insects that jump out.
 - e.g. A honeybee pushes into a flower to drink nectar.
 - e.g. After rain, small heaps of soil on the grass show where earthworms are working below.
 ### Do small animals choose their home? · *debated*
-Pill bugs gather under stones and pots, where it is damp and dark. A pill bug senses the dry air and the light, and moves until they find a damp, dark place. Animals sense, choose and remember. Some scientists describe it another way. They found that pill bugs walk fast in dry places and slow down in damp places. So the pill bugs end up together in the damp, the way people slow down and gather at a shady bus stop.
+Pill bugs gather under stones and pots, where it is damp and dark. Some scientists say a pill bug senses dry air and light, and chooses to look for a damp, dark place. Others say pill bugs walk fast in dry places and slow down in damp ones, so they end up together in the damp, like people slowing down at a shady bus stop.
 - e.g. Pill bugs move quickly across a dry floor and stop under a pot.
-- e.g. Ants carry their young deeper into the soil when a stone is lifted.
+- e.g. Pill bugs rest in a damp place and walk on when the floor dries.
 - e.g. An earthworm on a dry path wriggles back towards the damp soil.
 - **Scientists who study animal minds:** Small animals sense their world and choose what to do. A pill bug senses dry air and chooses to look for damp.
 - **Scientists who study how pill bugs move:** Pill bugs walk faster and turn more in dry places, and slow down in damp places. That is enough to bring many of them together under a stone.
@@ -69,16 +69,16 @@ Pill bugs gather under stones and pots, where it is damp and dark. A pill bug se
 - Cities are full of habitats. *How we know:* Trees on roadsides, lakes, temple tanks, cracks in walls and the soil in plant pots are all homes. Bird counts in Indian cities find many kinds of birds living right among the buildings.
 
 ## How we found out
-**Maria Sibylla Merian, a German artist and naturalist, with her daughter Dorothea, From about 1660 (her first silkworms) to 1705 (her book on the insects of Suriname).** About 350 years ago, in Germany, many people believed that small creatures like caterpillars and worms grew out of mud, dew or rotting things, all by themselves. A girl called Maria Sibylla Merian wanted to see for herself. When she was 13, she began to raise silkworms and other caterpillars at home. She fed them, watched them every day and drew them. She saw each caterpillar eat and grow, and then make a hard case called a pupa. Later a moth or a butterfly came out. She also saw that many kinds of caterpillar eat only certain plants. So she painted each insect on their own food plant, with the eggs, the caterpillar, the pupa and the grown insect in one picture. In 1679 she published a book of these paintings. Twenty years later, at the age of 52, she sailed to Suriname in South America with her daughter Dorothea, to study the insects and plants there. Her pictures showed that each small creature has a life story and a home plant.  
-*What people believed before:* That caterpillars and other small creatures grew out of mud, dew or rotting things by themselves. Merian raised them from eggs, watched every stage, and showed each one living and feeding on their own plant.
+**Maria Sibylla Merian, a German artist and naturalist, with her daughter Dorothea, From about 1660 (her first silkworms) to 1705 (her book on the insects of Suriname).** About 350 years ago, in Germany, many people believed that small creatures like caterpillars and worms grew out of mud, dew or rotting things, all by themselves. A girl called Maria Sibylla Merian wanted to see for herself. When she was 13, she began to raise silkworms and other caterpillars at home. She fed them, watched them every day and drew them. She saw each caterpillar eat and grow, and then make a hard case called a pupa. Later a moth or a butterfly came out. She also saw that many kinds of caterpillar eat only certain plants. So she painted insects on the plants they eat, with the eggs, the caterpillar, the pupa and the grown insect in one picture. In 1679 she published a book of these paintings. Twenty years later, at the age of 52, she sailed to Suriname in South America with her daughter Dorothea, to study the insects and plants there. Her pictures showed that each small creature has a life story and a home plant.  
+*What people believed before:* That caterpillars and other small creatures grew out of mud, dew or rotting things by themselves. Merian raised them from eggs, watched every stage, and showed them living and feeding on the plants they eat.
 
 ## Challenging perspectives
 - **The small animals under stones are dirty and dangerous.** (A common fear among children and grown-ups; *rejected*)  
-  For: Some animals under stones can hurt you. A centipede or a scorpion can sting or bite.  
-  Against: Most of the animals under a stone, like earthworms, pill bugs and ants, do not harm people. Earthworms help the soil. Pill bugs eat dead leaves. The safe rule is to look, and not to touch with bare hands.
+  For: A centipede or a scorpion can bite or sting.  
+  Against: Most animals under a stone, like earthworms, pill bugs and ants, do not hurt people. But a centipede or a scorpion can bite or sting. So look with your eyes and do not touch with bare hands.
 - **A pond with green water is a dead, dirty pond.** (A common idea; *debated*)  
   For: Green water looks dirty, and very green ponds can smell bad.  
-  Against: The green colour comes from millions of tiny living beings called algae. Algae are food for many small pond animals. But when dirty water flows into a pond, the algae can grow so much that fish get too little air.
+  Against: The green colour comes from millions of tiny living beings called algae, which many pond animals eat. But if dirty water flows in, the algae can grow too much and the fish get too little air.
 - **Wild habitats are only in forests, far away from cities.** (Many people; *rejected*)  
   For: Big wild animals like tigers and elephants live in forests, not in towns.  
   Against: A city tree, a lake, a crack in a wall and the soil under a pot are all wild habitats. Crows, squirrels, frogs, ants and many plants live in them without anyone looking after them.
@@ -86,17 +86,17 @@ Pill bugs gather under stones and pots, where it is damp and dark. A pill bug se
 ## Roots
 We have looked at homes near our home, and made a damp, dark place with a plate. Now we ask what that tells us about places and the beings who live in them.
 
-**Deep truth.** Our steel plate lay on the soil all morning. Under it, the soil stayed dark, damp and cool. A hand away, the soil in the sun turned pale and dry. So one flat cover makes a new small home, right beside a very different one.  
-*Habit it breaks:* We think of a home as a big place, like a forest or a pond. But a home can be as small as the ground under one stone, and it changes when the stone is moved.  
+**Deep truth.** We covered half of some wet soil with a plate and left it in the sun for three hours. Under the plate, the soil stayed dark, damp and cool. In the open, the same soil turned pale and dry. So a flat cover makes a new place, where animals that need damp can live.  
+*Habit it breaks:* We think of a home as a big place, like a forest or a pond. But a home can be as small as the ground under one stone.  
 *Evidence:* In the plate test, the same soil, the same water and the same sun gave two different places a hand apart. Only the plate was different.
 
 - *who am i:* You are an animal who looks for a cool, shady place on a hot day, just as a pill bug does under a stone.
 - *what is life:* Every living being needs a place that gives them food, water and safety. Life finds such places everywhere, even under a pot.
 - *what is this world:* The world near your home is made of many small homes side by side: a tree, a puddle, a crack, a stone.
 
-The same ground, the same sun and the same rain are all around your home. Where a stone, a tree or a puddle sits, they meet in a different way, and a different home appears. So one world, through small changes in light, water and warmth, becomes many homes. Each home has their own living beings, and the stone that lies still for years is part of the making.
+The same sun and rain fall on all the ground near your home. A stone, a tree or a pond changes how much light, water and warmth reach one spot. So each spot gives different living beings what they need.
 
-- **Tolkappiyam, Porulatikaram (Akattinaiyiyal):** The Tolkappiyam is a very old Tamil book about language and poems. It sorts the land into kinds, such as hills, forest, farmland and seashore. Each kind of land has their own trees, flowers, birds and animals. (Our plate test found two different homes a hand apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has their own living beings.)
+- **Tolkappiyam, Porulatikaram (Akattinaiyiyal):** The Tolkappiyam is a very old Tamil book about language and poems. It sorts the land into kinds, such as hills, forest, farmland and seashore. Each kind of land has its own trees, flowers, birds and animals. (Our plate test found two different homes a hand apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has its own living beings.)
 - **Acharanga Sutra, Book 1, Lecture 4, Lesson 1:** This old Jain teaching says that no breathing, living being should be killed, hurt or driven away. Many Jain monks and nuns carry a soft brush to move tiny beings gently out of their path. (When we lift a stone, the beings underneath lose their roof. Putting the stone back gently gives them their home again.)
 - Science (settled): Earthworms breathe through their skin, and their skin must stay damp. Pill bugs lose water fast in dry air. So both live where the ground stays damp.
 - Science (open): A handful of soil holds millions of tiny living beings, and most of their kinds have never been named.
@@ -104,7 +104,6 @@ The same ground, the same sun and the same rain are all around your home. Where 
 - Practice, A small dark home (3 min): Sit comfortably. Cup your hands and cover your eyes, without pressing. See how dark it is inside. Breathe in slowly and out slowly, three times. Feel how warm and still it is in there. Now open your hands slowly, and let the light come in. Your hands made a small, dark home, just as a stone does for an earthworm.
 - Ask: When we lift a stone, whose home are we opening?
 - Ask: If the plate stayed on the soil for a whole year, who might live under it?
-- Ask: Did the pill bug choose the damp place, or did the damp place gather the pill bugs?
 
 ## Deep and big questions
 - *deep:* Why is it cooler under a stone than on top of the stone in the sun? (hint: Think about where the sunlight lands, and where the water in the soil can go.)
@@ -165,29 +164,29 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 
 ## Games
 ### g1 · Lift the Stone: a memory game of homes (10 min)
-- **rules:** Mix the 12 cards and lay them face down on the floor in rows, like stones.; Take turns. Lift two cards and show them to everyone.; If you find a living being and a place where they live, say why they live there. Keep both cards.; Some living beings fit more than one place. Any true pair counts, if you can say why.; If the two cards do not go together, turn them face down again in the same spots.; When all the cards are gone, count your pairs.
-- **Printable cards: 12 cards to cut out: 6 places and 6 living beings:** Under a stone (back: A place: dark, damp and cool. Home to earthworms, pill bugs and ants.); A tree (back: A place: high branches, bark and leaves. Home to squirrels, crows and ants.); A pond (back: A place: still water. Home to fish, tadpoles and lotus.); Grass in the park (back: A place: green and sunny. Home to grasshoppers and the mynas who hunt them.); A flower (back: A place: sweet nectar inside. Bees and butterflies come to drink.); A crack in a wall (back: A place: a little soil and rain water. Small plants like peepal can grow there.); Earthworm (back: Lives in damp soil and under stones. Breathes through damp skin.); Squirrel (back: Builds a nest high in a tree, safe from cats.); Tadpole (back: Lives in a pond, and grows into a frog.); Grasshopper (back: Hides in the grass and eats the grass.); Honeybee (back: Visits flowers to drink nectar.); Peepal seedling (back: Can grow in a crack, from a seed a bird dropped.)
+- **rules:** Mix the 12 cards and lay them face down on the floor in rows, like stones. Six cards are places and six are living beings.; Take turns. Lift two cards and show them to everyone. After your turn, the next player goes.; If you find a living being and a place where they live, say why they live there. Keep both cards.; Some living beings fit more than one place. Any true pair counts, if you can say why.; If the two cards do not go together, turn them face down again in the same spots.; The game ends when no cards are left, or when the cards that are left do not go together. The player with the most pairs wins. If you play as a team, count the pairs together.
+- **Printable cards: 12 cards to cut out: 6 places and 6 living beings:** Under a stone; A tree; A pond; Grass in the park; A flower; A crack in a wall; Earthworm; Squirrel; Tadpole; Grasshopper; Honeybee; Peepal seedling
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out the 12 cards. 2. Read each card aloud once, front and back. 3. Mix them and lay them face down in rows.  
+  *Parent does:* 1. Cut out the 12 cards. 2. Read each card aloud once. 3. Mix them and lay them face down in rows.  
   *Parent says:* These cards are like stones on the ground. Under each one is a place, or a living being. Let's find who lives where.  
   *Child mode:* The cards are like stones. Lift two. Find a living being and their home.
 - **s2 (6 min)**  
-  *Parent does:* Take turns lifting two cards. When a pair fits, ask why. Read the backs aloud if your child is unsure.  
+  *Parent does:* Take turns lifting two cards. When a pair fits, ask why. If your child is unsure, give a hint from the notes below.  
   *Parent says:* You found the earthworm and the stone. Why does an earthworm live under a stone?  
   *Child mode:* Lift two cards. Do they go together? Say why.
   - Ask: Why does an earthworm live under a stone? (good: It is damp there.; The earthworm's skin needs to stay wet.; The sun cannot dry the soil there.)
   - Ask: Why does a squirrel build a nest high in a tree? (good: To be safe from cats and dogs.; It is high up and safe.)
-  - Note: Accept any true pair with a reason. An earthworm also lives under the grass in the park. Ants live in a tree and under a stone.
+  - Note: Accept any true pair with a reason. Earthworm: lives in damp soil under stones, and breathes through damp skin. Squirrel: builds a nest high in a tree, safe from cats. Tadpole: lives in a pond and grows into a frog. Grasshopper: hides and eats in the grass. Honeybee: drinks nectar from flowers. Peepal seedling: grows in a wall crack, from a seed a bird dropped. An earthworm also lives under the grass in the park.
 - **s3 (2 min)**  
-  *Parent does:* Count the pairs. Lay all the place cards in a row and put each living being under a home.  
+  *Parent does:* Count the pairs. Gather all the place cards in a row and put each living being under a home.  
   *Parent says:* Look at all the homes. Which one is the darkest and dampest?  
   *Child mode:* Count your pairs. Which home is the darkest and dampest?
   - Check: Which home is dark, damp and cool? → **Under a stone**
 ### g2 · Pill Bug Says: a crawling game (10 min)
-- **rules:** The child is a pill bug and crawls on hands and knees.; The grown-up turns over a place card and reads the front aloud.; In a dry, bright place, the pill bug crawls fast.; In a damp, dark place, the pill bug slows down and rests.; If the card says someone touches you, roll up into a ball.; After all 8 cards, say where the pill bug spent the most time resting.
+- **rules:** The child is a pill bug and crawls on hands and knees.; The grown-up turns over a place card and reads the front aloud.; In a dry, bright place, the pill bug crawls fast.; In a damp, dark place, the pill bug slows down and rests under the cloth.; If the card says someone touches you, the grown-up taps your shoulder. Roll up into a ball.; After all 8 cards, talk about it: were you resting in damp places or in dry places?
 - **Printable cards: 8 place cards for the grown-up to call out:** The hot floor in the sun (back: Dry and bright: crawl fast!); Under a flowerpot (back: Damp and dark: slow down and rest.); A dry newspaper on the balcony (back: Dry and bright: crawl fast!); Under a pile of wet leaves (back: Damp and dark: slow down and rest.); A sunny windowsill at noon (back: Dry and bright: crawl fast!); Under a stone in the park (back: Damp and dark: slow down and rest.); A dusty road (back: Dry and bright: crawl fast!); Someone touches you! (back: Roll up into a tight ball. Count to five, then uncurl.)
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out the 8 cards and mix them. 2. Drape a cloth over a table or a chair to make a dark resting place.  
+  *Parent does:* 1. Cut out the 8 cards and mix them. 2. Drape a cloth over a table or a chair. This is the dark resting place under a stone.  
   *Parent says:* You are a pill bug now. Your body dries out in the hot sun. Listen to each place, and move the way a pill bug would.  
   *Child mode:* You are a pill bug. Listen to each place. Dry and bright? Crawl fast. Damp and dark? Rest.
 - **s2 (6 min)**  
@@ -204,18 +203,18 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   - Think: Did the pill bug choose the damp place, or just end up there? What do you think?
 
 ## Experiments
-### e1 · The Plate on the Soil: what happens under a cover? (25 min)
+### e1 · The Plate on the Soil: what happens under a cover? (20 min)
 - **question:** After a few hours in the sun, is the soil under a plate different from the soil in the open?
 - **predict:** Guess first. After three hours, will the soil under the plate be wet or dry? And the soil in the sun? Why do you think so?
 - **fair test:** Both halves are in the same pot, with the same soil and the same water, in the same sun, for the same time. Only one thing is different: one half has a plate on top.
-- **record:** Draw the pot from above. Colour the soil under the plate dark and the soil in the sun as you saw it. Stick on the two tissues.
+- **record:** Fill in the table with your child (a grown-up writes the words). Keep the two tissues next to it to compare.
 - **results table:** Which half | Dark or pale? | Wet or dry to touch? | Cool or warm? | Mark on the tissue?
 - **s1 (5 min)**  
   *Parent does:* 1. Pour about half a cup of water slowly over the soil, until the whole top is dark and damp. 2. Let your child touch the soil. 3. Lay the plate flat on one half.  
   *Parent says:* Feel the soil. It is all wet now. This plate is like a stone. What will the soil be like under the plate in three hours? And in the sun? Why do you think so?  
   *Child mode:* Feel the wet soil. Put the plate on one half. The plate is like a stone. What will happen? Why?
   - Ask: What do you think the soil under the plate will be like? Why? (good: Still wet, because the sun can't reach it.; Cool, because it's in the shade.)
-  - Note: Write down your child's guess and their reason. Choose a plant that can take a few hours of sun. If you have no plant, use a steel bowl of soil.
+  - Note: Write down your child's guess and their reason. Use a plant that can take a few hours of sun, or a tub of soil with no plant.
 - **s2 (2 min)**  
   *Parent does:* Put the pot in the sunniest window or on the balcony. Look at the clock together and note the time.  
   *Parent says:* Now the sun gets to work. We will come back in three hours.  
@@ -227,7 +226,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   *Child mode:* Look at the soil in the sun. Lift the plate slowly. Touch both halves. Which is cooler? Which is wetter?
   - Ask: How is the soil under the plate different from the soil in the sun? (good: It is darker.; It is wet and cool.; The tissue got a wet mark.)
   - Ask: Look under the plate itself. Do you see any drops of water? (good: Yes, there are little drops.; The plate is wet underneath.)
-  - Note: Usually the soil under the plate is darker, wetter and cooler, and leaves a damp mark on the tissue. The soil in the sun goes pale and dry on top. Sometimes small drops form under the plate.
+  - Note: Usually the soil under the plate is darker, wetter and cooler, and leaves a damp mark on the tissue. The soil in the sun goes pale and dry on top. Small drops may form under the plate. If the day was cloudy, the difference is smaller: leave it longer.
 - **s4 (5 min)**  
   *Parent does:* Ask your child to say three things: what they think, what they saw, and why. Then look back at their guess together.  
   *Parent says:* Tell me what you found. What did you see and feel? Why do you think the plate made a difference? Was your guess right?  
@@ -235,21 +234,16 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   - Ask: Who would like to live under the plate? Who would like the soil in the sun? (good: An earthworm would like the soil under the plate.; Pill bugs and ants would live under the plate.; Nobody small would like the hot dry soil.)
   - Check: Why did the soil under the plate stay damp? → **The plate kept the sun off and held the water in**
   - Think: A plate is not a home. But the damp, dark place under it could become one. Who might find it first?
-- **s5 (5 min)**  
-  *Parent does:* If you like, leave the plate on the soil overnight on the balcony. In the morning, lift it slowly and look.  
-  *Parent says:* Let's leave the plate on tonight, like a stone. Tomorrow we will lift it slowly and see if anyone has moved in.  
-  *Child mode:* Leave the plate on tonight. Tomorrow, lift it slowly. Has anyone moved in?
-  - Note: Sometimes ants or a tiny beetle come in one night. Often nobody comes so soon. That is fine. The damp, dark place is still there, ready for whoever finds it.
-  - Wait: Leave the plate on overnight.
 
 ## Activities
 ### a1 · Feel the Places: damp or dry, dark or bright, cool or warm? (10 min)
+- **safety:** Under the kitchen sink, touch only the floor. Keep away from the cleaning bottles.
 - **record:** A table of the five places, with a sun or a moon for bright or dark, and a drop for damp.
 - **s1 (6 min)**  
   *Parent does:* Visit five places with your child. Try a sunny windowsill, under the kitchen sink and under the doormat. Then try a corner of the bathroom floor and the soil in a plant pot. Your child touches each one.  
   *Parent says:* Touch this place. Is it damp or dry? Is it dark or bright? Is it cool or warm?  
   *Child mode:* Touch each place. Damp or dry? Dark or bright? Cool or warm?
-  - Note: Draw a sun or a moon for bright or dark, and a drop for damp. Look only under the sink. Do not touch cleaning bottles.
+  - Note: Draw a sun or a moon for bright or dark, and a drop for damp.
 - **s2 (4 min)**  
   *Parent does:* Look at the table together. Ask which place a pill bug would choose, and which place a sunbathing lizard would choose.  
   *Parent says:* A pill bug needs damp and dark. A garden lizard likes to warm up in the sun. Which place would each one choose?  
@@ -278,9 +272,9 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   - Note: Peepal and banyan seedlings, small ferns, moss and grass are common finds. Moss grows most on damp, shady walls.
 - **s2 (4 min)**  
   *Parent does:* Ask how a seed got into a crack so high. Then your child draws one plant in their crack.  
-  *Parent says:* Birds eat the small figs of peepal and banyan trees. The seeds come out in their droppings. How do you think this peepal got here?  
-  *Child mode:* How did a seed get into this crack? Draw the plant in their crack.
-  - Ask: How did the peepal seed get into the crack high on the wall? (good: A bird ate a fig and dropped the seed there.; In the bird's droppings.)
+  *Parent says:* Birds eat the small figs of peepal and banyan trees. The seeds come out in their droppings. How could a seed get into a crack high on a wall?  
+  *Child mode:* How did a seed get into this crack? Draw the plant that grows in this crack.
+  - Ask: How could a peepal seed get into a crack high on a wall? (good: A bird ate a fig and dropped the seed there.; In the bird's droppings.)
   - Think: A crack has only a little soil. What does the plant find there that they need?
 ### a4 · Pond Watch (if you pass a pond, a lake or a temple tank) (15 min)
 - **safety:** Stay well back from the edge and hold a grown-up's hand. Do not lean over the water or go down slippery steps.
@@ -289,7 +283,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   *Parent does:* Stand with your child well back from the edge. Look under the water first, then on top, then in the air above. Tick what you see.  
   *Parent says:* Let's look under the water first. Now look on top of the water. Now look in the air. Who lives here?  
   *Child mode:* Look under the water. Look on top. Look in the air. Who lives here?
-  - Note: Fish, tadpoles, pond skaters, dragonflies, lotus or water lilies, egrets and ducks are common. Hold your child's hand near the water.
+  - Note: Fish, tadpoles, pond skaters, dragonflies, lotus or water lilies, egrets and ducks are common.
 - **s2 (5 min)**  
   *Parent does:* Count the ticks together. Ask which beings live in the water all the time, and which only come to visit.  
   *Parent says:* Who lives in the water all the time? Who only comes to visit?  
@@ -299,6 +293,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 
 ## Projects
 ### p1 · A Stone Home on the Balcony (20 min, 3 days)
+- **safety:** A grown-up lifts the tile and keeps fingers out from under it, in case of a centipede or a scorpion.
 - **record:** A drawing for each morning of what you found under the tile, with a tally of any ants or other small animals.
 - **schedule:** day 1: Wet the soil. Lay the tile flat on it in a shady corner of the balcony or a window ledge inside the grill. (8 min); day 2: Lift the tile slowly. Look, count and draw. Put it back gently. (6 min); day 3: Lift the tile again. Look, count and draw. Compare with yesterday. (6 min)
 - **s1 (8 min)**  
@@ -316,6 +311,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   *Parent does:* Lift the tile again. Count and draw. Compare with yesterday's drawing.  
   *Parent says:* Are there more today, or fewer, or the same? Why do you think so?  
   *Child mode:* Count again. More, fewer or the same as yesterday? Why?
+  - Note: Put the tile back the same way.
   - Think: When we stop the project, should we leave the stone home there?
   - Wait: Come back the next morning.
 
@@ -323,9 +319,9 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 ### c1 · Make a Water Place for Birds on a Hot Day (20 min)
 - **problem:** Make a place where small birds can drink and bathe safely on a hot day, using things from home.
 - **your turn:** Draw your water place. Put it out, and watch for two days. Who came? Which birds drank, and which bathed?
-- **constraints:** The water must be shallow, about as deep as your finger is long or less, so small birds can stand in it.; It must be in the shade, so the water stays cool.; It must be safe from cats, and not fall off a ledge.; The water must be changed every day, so mosquitoes cannot lay eggs in it.
+- **constraints:** The water must be shallow, no deeper than the first knuckle of your finger, so small birds can stand in it.; It must be in the shade, so the water stays cool.; It must be safe from cats, and not fall off a ledge.; The water must be changed every day, so mosquitoes cannot lay eggs in it.
 - **general:** A wide, shallow clay or steel plate filled with a little water.; Put it in a shady spot where you can see it from inside.
-- **creative:** Put a flat stone in the middle, so the smallest birds have somewhere to stand.; Hang a shallow tray from the grill, inside, where cats cannot climb.; Put a plant pot beside the water, so birds have a place to rest before they drink.
+- **creative:** Put a flat stone in the middle, so the smallest birds have somewhere to stand.; Put the plate on a high shelf inside the grill, where cats cannot reach.; Put a plant pot beside the water, so birds have a place to rest before they drink.
 - **s1 (5 min)**  
   *Parent does:* Talk about the problem. Look at the balcony or window ledge together. Find a shady, safe spot.  
   *Parent says:* Birds need water on hot days. Where could a small bird drink safely here? What would keep the water cool?  
@@ -350,24 +346,24 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
    **Answer:** under a stone → Damp and dark; a sunny windowsill → Dry and bright; under a flowerpot → Damp and dark; a hot road at noon → Dry and bright; under a pile of wet leaves → Damp and dark; a sandy path in the sun → Dry and bright. *Why:* A cover keeps off the sun and holds the water in, so the places under a stone, a pot or leaves stay damp and dark.
 3. (draw) Draw the soil from your plate test. Colour the wet soil dark brown and the dry soil pale.  
    **Answer:** The half that was under the plate is coloured dark. The half in the sun is pale.. *Why:* A strong drawing shows the two halves different, as the child saw: dark and damp under the plate, pale and dry in the sun.
-4. (mcq) Remember the plate test? Where was the soil wetter after three hours?  
-   Options: In the sun / Under the plate / Both were the same  
-   **Answer:** Under the plate. *Why:* Under the plate, the sun could not dry the soil and the water stayed in. If both were the same, check that the pot was in the sun long enough.
-5. (truefalse) A tree is a home for only one kind of animal.  
-   **Answer:** False. *Why:* False. One tree is home to crows, squirrels, ants, spiders, caterpillars and more, and moss can grow on the bark.
-6. (count) Count the animals in this picture of a tree: a crow on a nest, two squirrels, three ants on the bark, and a kite string caught in the branches.  
+4. (count) Count the animals in this picture of a tree: a crow on a nest, two squirrels, three ants on the bark, and a kite string caught in the branches.  
    **Answer:** 6. *Why:* One crow, two squirrels and three ants make 6 animals. The kite string was never alive. The tree is alive too, but the tree is a plant.
-7. (label) Write or draw one living being who lives in each place.  
+5. (label) Write or draw one living being who lives in each place.  
    **Answer:** ['pond: a fish, a frog, a tadpole or a lotus', 'tree: a crow, a squirrel or ants', 'under a stone: an earthworm, a pill bug or ants']. *Why:* Any living being who really lives in that place is right. A strong answer can say what the place gives them.
-8. (write) Say it to a grown-up, who writes it down: why does an earthworm live under a stone, and not on the hot road?  
+6. (write) Say it to a grown-up, who writes it down: why does an earthworm live under a stone, and not on the hot road?  
    **Answer:** Under the stone the soil is damp and cool. The earthworm breathes through damp skin, and the hot road would dry the skin.. *Why:* A strong answer links the place (damp and cool) to what the earthworm needs (damp skin to breathe).
-9. (perspective) Two friends in Kochi find a big flat stone in the park.  
+7. (perspective) Two friends in Kochi find a big flat stone in the park.  
    **Answer:** A strong answer picks a side and gives a reason, such as 'Anu, because we can learn who lives there.' Then it is fair to the other side: Fathima is right that the stone is a roof for the animals.. *Why:* Both friends have a point. Looking teaches us about small homes. Lifting the stone slowly, not touching, and putting the stone back the same way keeps the home safe.
-10. (odd) Which place is the odd one out? Think about water.  
+8. (odd) Which place is the odd one out? Think about water.  
    Options: A pond / A temple tank / A puddle after rain / A sunny windowsill  
    **Answer:** 3. *Why:* A pond, a temple tank and a puddle all hold water, so water animals can live in them. A sunny windowsill is dry.
+9. (truefalse) An earthworm likes to lie on hot, dry ground.  
+   **Answer:** False. *Why:* False. An earthworm breathes through her skin, and her skin must stay damp. Hot, dry ground would dry her out.
+10. (mcq) Which place gives a crow a high, safe home for her nest?  
+   Options: A pond / A tall tree / Under a stone  
+   **Answer:** A tall tree. *Why:* A crow builds her nest in the branches of a tall tree, high above cats and dogs.
 ### Homes Near Our Home (stretch) (stretch, 10 questions)
-1. (mcq) Lakshmi lays a tile on damp soil in a sunny pot. After lunch, she lifts the tile. What will she most likely find?  
+1. (mcq) Lakshmi, a girl in Class 1, lays a tile on damp soil in a sunny pot. After lunch, she lifts the tile. What will she most likely find?  
    Options: Dry, pale soil / Damp, dark soil / Hot sand  
    **Answer:** Damp, dark soil. *Why:* The tile keeps off the sun and holds the water in, just like the plate in our test. Dry, pale soil is what the open half looks like.
 2. (order) Put the plate test in order.  
@@ -375,7 +371,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 3. (draw) Draw a tree. Draw three different homes on your tree: one high up, one on the bark and one near the roots.  
    **Answer:** For example, a crow's nest high up, ants on the bark, and an earthworm or a pill bug in the soil at the roots.. *Why:* A strong drawing shows that one tree holds different homes at different heights.
 4. (write) Say it to a grown-up, who writes it down: on a hot afternoon, do you sit in the sun or under a tree? How is that like a pill bug under a stone?  
-   **Answer:** Under a tree, because it is cooler in the shade. A pill bug goes under a stone because it is cooler and damper there.. *Why:* A strong answer sees that humans and other animals both look for a shady, cool place when the sun is hot.
+   **Answer:** Under a tree, where the shade is cool. A pill bug goes under a stone because it is cooler and damper there.. *Why:* A strong answer sees that humans and other animals both look for a shady, cool place when the sun is hot.
 5. (truefalse) A pond is a home only for fish.  
    **Answer:** False. *Why:* False. Frogs, tadpoles, pond skaters, young dragonflies, snails, lotus and many tiny beings live in a pond too.
 6. (match) Draw a line from each place to what the place gives.  
@@ -384,11 +380,10 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
    **Answer:** A strong answer picks a side with a reason, such as 'Ritu, because the pill bugs sense the damp.' Then it is fair to the other side: Deepa is right that pill bugs really do walk faster in dry places.. *Why:* Scientists still describe this in both ways. Pill bugs sense dry and damp, and they also walk faster in the dry. Both sisters are using real evidence.
 8. (sort) Sort these living beings: do they live in water or on land?  
    **Answer:** fish → In water; squirrel → On land; tadpole → In water; earthworm → On land; lotus → In water; grasshopper → On land. *Why:* Fish, tadpoles and lotus live in water. Squirrels, earthworms and grasshoppers live on land, though earthworms need damp soil.
-9. (label) This is a picture of a pond. Write the names: lotus, fish, frog, dragonfly.  
+9. (label) This is a picture of a pond. Write the names (a grown-up can help with spelling): lotus, fish, frog, dragonfly.  
    **Answer:** ['lotus: on top of the water', 'fish: under the water', 'frog: at the edge', 'dragonfly: in the air above']. *Why:* A pond has homes in layers: under the water, on top of it, at the edge and in the air above.
-10. (mcq) Why does a peepal seedling sometimes grow in a crack high on a wall?  
-   Options: A bird ate a peepal fig and dropped the seed there / Someone climbed up and planted the seed / The wall made the seed  
-   **Answer:** A bird ate a peepal fig and dropped the seed there. *Why:* Birds eat the small figs of peepal trees. The seeds pass through the bird and land wherever the bird sits, even on a wall.
+10. (truefalse) A pill bug is an insect, like an ant.  
+   **Answer:** False. *Why:* False. A pill bug has 14 legs, and an insect has 6. Pill bugs are cousins of crabs and prawns, not of ants.
 
 ## Videos
 - **A pill bug rolling into a ball and uncurling, close up** (, 2 min) id `to find`: Shows a pill bug rolling up when touched, which a child may never see up close. *Check:* Find a real, close-up video of a pill bug (a woodlouse who rolls up). Check nobody hurts the animal.
@@ -414,18 +409,18 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 6. (mcq) Why do bees visit the flowers in a park?  
    Options: To drink nectar / To sleep / To swim  
    **Answer:** To drink nectar. *Why:* Flowers make a sweet juice called nectar. Bees and butterflies drink it.
-7. (mcq) In the plate test, what made the soil under the plate stay wet?  
-   Options: The plate kept off the sun and held the water in / The plate made new water / The soil under the plate was a different soil  
-   **Answer:** The plate kept off the sun and held the water in. *Why:* Both halves had the same soil and the same water. The only difference was the plate, which blocked the sun.
+7. (mcq) In the plate test, which soil was cooler to touch?  
+   Options: The soil under the plate / The soil in the open sun / Both the same  
+   **Answer:** The soil under the plate. *Why:* The plate kept the sun off the soil under it, so that soil stayed cooler. The soil in the open sun warmed up and dried.
 8. (mcq) You lift a stone in the park and find ants and a pill bug. What should you do next?  
    Options: Put the stone back gently, the same way / Throw the stone away / Take the pill bug home in your pocket  
    **Answer:** Put the stone back gently, the same way. *Why:* The stone is their roof. Putting the stone back gently gives them their damp, dark home again.
 9. (mcq) Why does a squirrel build a nest high in a tree?  
    Options: To be safe from cats and dogs / To be near the fish / Because the ground is too wet  
    **Answer:** To be safe from cats and dogs. *Why:* High branches keep a squirrel's babies away from cats, dogs and other animals on the ground.
-10. (mcq) Why does a pill bug stay under a pot in the day, and not on the hot floor?  
-   Options: The hot sun would dry the pill bug's body / Pill bugs like the sound of the pot / The floor is too soft  
-   **Answer:** The hot sun would dry the pill bug's body. *Why:* A pill bug loses water fast in dry air. Under the pot, the air and the floor stay damp.
+10. (mcq) Paati's ants carried their white young away when she tipped the pot. Why?  
+   Options: The young ones need a dark place, and the pot's roof was gone / The young ones wanted to see the sun / The ants were tidying the floor  
+   **Answer:** The young ones need a dark place, and the pot's roof was gone. *Why:* Ant young ones are kept in the dark and damp. When the pot was lifted, the ants moved them to a darker place.
 
 ## Applications
 - Gardeners lift pots and stones to check for earthworms, which are a sign of healthy soil.
@@ -455,18 +450,17 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 ## Jokes
 - Why did the earthworm stay under the stone all day? *Because the sun was too hot to handle, and the earthworm has no hands!*
 - What did the pill bug say when someone tapped her? *Nothing. She was all wrapped up!*
-- Why did the tadpole never leave the pond? *Because the tadpole had not grown legs yet!*
 - What is a squirrel's favourite house? *A tree-storey building!*
 - Why did the ant move under the plate? *The ant heard the rent was free!*
-- What does a frog say when the pond is full? *Ribbit, ribbit, home sweet home!*
-- Why did the moss grow on the shady wall? *Because the sunny wall was too dry for a nap!*
+- Why are frogs always so happy? *They eat whatever bugs them!*
+- Why do frogs love the pond? *It has the best lily-pad flats!*
 - What did the stone say to the earthworm? *I've got you covered!*
-- Why do bees go to the park? *For a drink at the flower juice shop!*
+- Why do bees have sticky hair? *Because they use honeycombs!*
 
 ## Connected maths
-- In the plate test, Selvi put the plate on the soil at 9 o'clock. She lifted the plate at 12 o'clock. How many hours did the plate stay on? **3 hours.**. From 9 to 10 is one hour, 10 to 11 is two, and 11 to 12 is three. So the plate stayed on for 3 hours. (queues `math.time.daily-time.L1`)
-- Revathi counted small plants growing in wall cracks. She found 4 on the shady wall and 1 on the sunny wall. Which wall had more plants? Why might that be? **The shady wall had more plants, 4 instead of 1.**. 4 is more than 1. A shady wall stays damp for longer after rain, so small plants and moss can live there more easily. (queues `math.number-sense.comparing-ordering.L1`)
-- Mahi lifted her stone home each morning. On day 1 she found 0 ants. On day 2 she found 2 ants. On day 3 she found 5 ants. Which day had the most ants? What is happening to the number? **Day 3 had the most ants, 5. The number is going up each day.**. 0, then 2, then 5: each day there were more ants than the day before. More ants were finding the damp, dark place. (queues `math.data.sorting-and-tallies.L1`)
+- In the plate test, Selvi, a girl in Class 1, put the plate on the soil at 9 o'clock. She lifted the plate at 12 o'clock. How many hours did the plate stay on? **3 hours.**. From 9 to 10 is one hour, 10 to 11 is two, and 11 to 12 is three. So the plate stayed on for 3 hours. (queues `math.time.daily-time.L1`)
+- Revathi, a girl in Class 1, counted small plants growing in wall cracks. She found 4 on the shady wall and 1 on the sunny wall. Which wall had more plants? Why might that be? **The shady wall had more plants, 4 instead of 1.**. 4 is more than 1. A shady wall stays damp for longer after rain, so small plants and moss can live there more easily. (queues `math.number-sense.comparing-ordering.L1`)
+- Mahi, a girl in Class 1, laid a tile on damp soil on day 1. On day 2 she lifted it and found 2 ants. On day 3 she found 5 ants. Which day had more ants? What is happening to the number? **Day 3 had more ants, 5. The number is going up.**. 2, then 5: there were more ants on day 3 than on day 2. More ants were finding the damp, dark place. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Who Lives Under the Stone? (sci.habitats.L1): Topic-level song for Habitats L1

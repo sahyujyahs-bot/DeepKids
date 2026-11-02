@@ -158,7 +158,7 @@
    "status": "defined",
    "context": "This card explains the kinds of teeth in your mouth and what each kind does.",
    "definition": "Incisors bite and cut, canines grip and tear, premolars crush, and molars grind.",
-   "description": "Food goes on a journey across your teeth. The flat front incisors bite a piece off. The pointed canines grip and tear tough food. Your tongue then pushes the piece to the back. There the wide, bumpy molars grind it into a soft paste you can swallow. Grown-ups also have premolars between the canines and the molars. Children do not have premolars yet. When a child's back milk molars fall out, premolars grow in their place. The new adult molars come in further back.",
+   "description": "Food goes on a journey across your teeth. The flat front incisors bite a piece off. The pointed canines grip and tear tough food. Your tongue pushes the piece to the back, where the wide, bumpy molars grind it into a soft paste. Grown-ups also have premolars, between the canines and the molars. A child of 7 does not have them yet. They grow in when the back milk molars fall out.",
    "examples": [
     "Biting a piece off a banana: incisors.",
     "Tearing a piece of chewy roti or dosa: canines.",
@@ -172,7 +172,7 @@
    "status": "defined",
    "context": "This card explains the layers of a tooth, from the hard outside to the living middle.",
    "definition": "A tooth has a hard outer layer of enamel, a layer of dentine under it, and soft living pulp in the middle. The root holds it in the jaw.",
-   "description": "The part of a tooth you can see is called the crown. Its outside is enamel. Enamel is mostly hard minerals, with calcium in them. Under the enamel is dentine, which is softer and pale yellow. In the middle is the pulp. The pulp is alive. It has blood vessels that bring food and nerves that sense heat, cold and pain. The cells that made the enamel are gone once a tooth comes out. So a deep hole in enamel cannot grow back. A dentist has to fill it.",
+   "description": "The part of a tooth you can see is called the crown. Its outside is enamel, made mostly of hard minerals with calcium in them. Under the enamel is dentine, which is softer and pale yellow. In the middle is the pulp, which is alive. It has blood vessels that bring food, and nerves that sense heat, cold and pain. The cells that made the enamel are gone once a tooth comes out, so a deep hole in enamel cannot grow back. A dentist has to fill it.",
    "examples": [
     "A tooth tingles when you drink something very cold, because the nerves in the pulp sense it.",
     "A chipped front tooth stays chipped, because enamel does not grow back."
@@ -199,7 +199,7 @@
    "status": "defined",
    "context": "This card explains the two places the acid that harms teeth comes from.",
    "definition": "Acid in the mouth comes from sour food and drinks, and from bacteria in plaque, who make acid as they eat sugar.",
-   "description": "The sugar water in our test did not fizz on the eggshell. So how does sugar harm teeth? Your mouth is home to many kinds of tiny living beings called bacteria. Some of them live in plaque on your teeth. They sense sugar and gather where it is. As they eat it, they make acid, right on your teeth. After a sweet snack, they keep making acid for about half an hour or more. So sugar wears teeth through the acid that bacteria make as they eat sugar. How often you eat sugar matters more than how much at one time.",
+   "description": "The sugar water in our test did not fizz on the eggshell. So how does sugar harm teeth? Your mouth is home to many tiny living beings called bacteria. Some of them live in plaque on your teeth. As they eat sugar, they make acid right on your teeth. After a sweet snack, they keep making acid for about half an hour or more. So how often you eat sugar matters more than how much you eat at one time.",
    "examples": [
     "One sweet after lunch gives the bacteria one acid time. Five small sweets through the afternoon give them five.",
     "Sticky sweets like toffee and chikki stay on teeth for longer, so the bacteria have sugar for longer."
@@ -495,7 +495,7 @@
     "One player turns over the top food card and reads it aloud, but not the back.",
     "On the count of three, every player holds up the tooth card that does that job.",
     "Turn the food card over and read the back. Every player who held up the right tooth card gets one point.",
-    "If someone held up a different card, they may say why. If everyone agrees that tooth also does the job, they get a point too.",
+    "If someone held up a different card, they may say why. If everyone agrees that tooth also does the job, they get a point too. On the two cards that say 'A grown-up', a child's molars also earn a point, because a child has no premolars yet.",
     "Take turns to read the next card. After all 12 cards, the player with the most points wins."
    ],
    "setup": [
@@ -616,7 +616,7 @@
        "b": "Acid time. Lemon juice is sour. Eaten with a meal, it is one short acid time."
       },
       {
-       "f": "Spitting out the toothpaste foam, not rinsing a lot",
+       "f": "Spitting out the toothpaste foam, and not rinsing with lots of water",
        "b": "Helper. A little fluoride stays on your teeth."
       },
       {
@@ -761,7 +761,7 @@
      "qty": 1
     }
    ],
-   "safety": "Vinegar and lemon juice sting in the eyes and in cuts. Keep fingers away from the eyes, and wash hands after the test. Do not drink the liquids at the end.",
+   "safety": "Vinegar and lemon juice sting in the eyes and in cuts. Keep fingers away from the eyes. Wash hands after touching the eggshell and the liquids. Do not drink the liquids at the end.",
    "schedule": [
     {
      "day": 1,
@@ -802,7 +802,7 @@
      [
       "Lemon juice",
       "A few",
-      "A little soft at the edges"
+      "Soft and bendy at the edges"
      ],
      [
       "Vinegar",
@@ -857,7 +857,7 @@
      "say": "Every glass gets the same amount, and every piece is about the same size. Then only the liquid is different.",
      "kid": "Help put a label on each glass. Pour 3 spoons into each one.",
      "adult": true,
-     "parent": "Wash the shell in water first, so no egg is left on it. Keep the thin skin on the inside of the shell. That is fine. If you use cowrie shells or seashells, use one small shell in each glass."
+     "parent": "Wash the shell in water first, so no egg is left on it. Keep the thin skin on the inside of the shell. That is fine. If you use cowrie shells or seashells, use one small shell in each glass. Seashells fizz in vinegar too, but they may not go soft in one day, so write only what you see."
     },
     {
      "id": "s3",
@@ -866,7 +866,7 @@
      "do": "1. Drop one piece of shell into each glass, one after the other, quickly. 2. Shine the torch through the side of each glass. 3. Watch each glass for about a minute.",
      "say": "Watch the shell closely. Do you see anything coming off it?",
      "kid": "Drop a shell in each glass. Shine the torch from the side. Look closely.",
-     "parent": "In vinegar, tiny bubbles appear on the shell within a minute. The piece may float up. Lemon juice usually gives fewer, smaller bubbles, so look closely. Water, milk and sugar water show no new bubbles. A few air bubbles may stick to any shell at the very start. They do not keep coming.",
+     "parent": "In vinegar, tiny bubbles appear on the shell within a minute. The piece may float up. Lemon juice also makes bubbles, usually fewer and smaller, so look closely with the torch. Water, milk and sugar water show no new bubbles. A few air bubbles may stick to any shell at the very start. They do not keep coming.",
      "check": {
       "t": "mcq",
       "q": "Which glass had the most bubbles on the shell?",
@@ -913,7 +913,7 @@
      "do": "1. Lift each piece out with a teaspoon. 2. Rinse it under the tap. 3. Let your child press it gently between two fingers. 4. Write 'hard' or 'soft and bendy' in the table.",
      "say": "Press each piece gently. Is it still hard? Or is it soft and bendy?",
      "kid": "Rinse each piece. Press it gently. Is it hard, or soft?",
-     "parent": "The vinegar piece is usually soft and bendy, or partly gone, with only the thin skin left. The lemon piece may be a little soft at the edges. The others stay hard. Sugar water may smell a little. The shell in it stays hard."
+     "parent": "The vinegar piece is usually soft and bendy, or partly gone, with only the thin skin left. The lemon piece may also go soft, sometimes as soft as the vinegar one. Water and sugar water stay hard. If the milk turned sour overnight in a warm room, its shell may go a little soft too, because soured milk has acid in it. Say so, and write what really happened."
     },
     {
      "id": "s7",
@@ -953,16 +953,16 @@
    "title": "The Root Test: why does a milk tooth wobble?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you make a pretend gum from atta dough. You push two pencils into it as pretend teeth: one deep, with a long root, and one shallow, with a short root. Then you push each one gently from the side and count how many pushes it takes to fall over.",
+   "context": "In this experiment you make a pretend gum from atta dough. You push two pencils into it as pretend teeth: one deep, with a long root, and one shallow, with a short root. Then you tap each one gently on its side and count how many taps it takes to fall over.",
    "question": "Does a tooth with a long root stand firmer than a tooth with a short root?",
    "predict": "Look at the two pencils. Which one will fall over first when you push it? Why do you think so?",
-   "fair_test": "Both pencils are the same kind and the same length. They go in the same block of dough. Each push is the same: one finger, a gentle tap at the top of the pencil, from the same side. We do each pencil three times, because one try can be a fluke.",
+   "fair_test": "Both pencils are the same kind and the same length. They go in the same block of dough. Each tap is the same: one finger, a gentle tap on the side of the pencil, at the same height (3 cm above the dough), from the same side. We do each pencil three times, because one try can be a fluke.",
    "results_table": [
     "Pretend tooth",
     "How deep in the dough (cm)",
-    "Try 1: pushes to fall",
-    "Try 2: pushes to fall",
-    "Try 3: pushes to fall"
+    "Try 1: taps to fall",
+    "Try 2: taps to fall",
+    "Try 3: taps to fall"
    ],
    "materials": [
     {
@@ -974,7 +974,7 @@
      "qty": 2
     },
     {
-     "item": "a ruler with centimetres",
+     "item": "a ruler with centimetres and a pen",
      "qty": 1
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
      "art": "A child's finger tapping the top of the short-root pencil from the side, and the pencil tipping over.",
-     "caption": "3. Tap each one gently from the side. Count the taps until it falls."
+     "caption": "3. Tap each one gently on its side, at the same height. Count the taps until it falls."
     }
    ],
    "flow": [
@@ -1054,7 +1054,7 @@
      "id": "s2",
      "mins": 6,
      "context": "In this step you make the pretend gum and put in the pretend teeth.",
-     "do": "1. Knead the dough until firm, and press it into a thick block on the plate, about 6 cm tall. 2. Mark 4 cm on one pencil and 1 cm on the other with a pen. 3. Push each pencil in, point first, up to its mark, about 5 cm apart.",
+     "do": "1. Knead the dough until firm, and press it into a thick block on the plate, about 6 cm tall. 2. Mark 4 cm on one pencil and 1 cm on the other with a pen, measuring from the point. 3. Push each pencil in, point first, up to its mark, about 5 cm apart.",
      "say": "This pencil has a long root, like an adult tooth. This one has a short root, like a milk tooth whose root has been taken away.",
      "kid": "Help knead the dough. Push in one pencil deep. Push in one only a little.",
      "parent": "Firm dough works best. Soft, sticky dough lets both pencils flop. Add a little more atta if it sticks to your fingers."
@@ -1062,11 +1062,11 @@
     {
      "id": "s3",
      "mins": 7,
-     "context": "In this step you push each pretend tooth and count.",
-     "do": "1. Your child taps the top of the short-root pencil gently from the side, counting each tap aloud. 2. Stop when it falls over or leans flat. 3. Do the same with the long-root pencil. 4. Push both back to their marks and do it twice more. 5. Write each count in the table.",
-     "say": "Same gentle tap each time, from the same side. We do it three times, because one try can be a fluke.",
-     "kid": "Tap the top gently, from the side. Count each tap. Stop when it falls.",
-     "parent": "The short-root pencil usually falls in one or two taps. The long-root pencil usually stands for many taps, and may only lean. Keep the taps gentle, the same each time.",
+     "context": "In this step you tap each pretend tooth and count.",
+     "do": "1. Your child taps the short-root pencil gently on its side, 3 cm above the dough, counting each tap aloud. 2. Stop when it falls over or leans flat. If it is still standing after 20 taps, write 20. 3. Do the same with the long-root pencil. 4. Push both back to their marks and do it twice more. 5. Write each count in the table.",
+     "say": "Same gentle tap each time, at the same height, from the same side. We do it three times, because one try can be a fluke.",
+     "kid": "Tap the pencil gently on its side. Count each tap. Stop when it falls.",
+     "parent": "The short-root pencil usually falls in one or two taps. The long-root pencil usually stands for many taps, and may only lean. Keep the taps gentle and the same each time. Hold the ruler beside the pencil to find the tapping height.",
      "check": {
       "t": "mcq",
       "q": "Which pretend tooth fell over with fewer taps?",
@@ -1232,7 +1232,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cutting. Turmeric and beetroot can stain clothes, so wear an old shirt.",
    "schedule": [
     {
      "day": 1,
@@ -1260,7 +1259,7 @@
      "id": "s1",
      "mins": 6,
      "context": "This is the first step of the dough tooth. You make three colours of dough.",
-     "do": "1. Split the dough into three balls: one large, one middle-sized, one small. 2. Knead turmeric into the large ball until it is yellow. 3. Knead beetroot juice into the small ball until it is red. 4. Dust the middle ball with dry atta to keep it pale.",
+     "do": "1. Split the dough into three balls: one large, one middle-sized, one small. 2. Knead turmeric into the large ball until it is yellow. 3. Knead beetroot juice into the small ball until it is red. 4. Leave the middle ball plain, and dust it with dry atta or maida to keep it pale.",
      "say": "The red is the pulp, the living middle. The yellow is dentine. The white is enamel, the hard outside.",
      "kid": "Knead the colours in. Red is pulp. Yellow is dentine. White is enamel.",
      "parent": "If the red dough gets sticky, add a pinch of dry atta."
@@ -1548,10 +1547,10 @@
      "id": "s3",
      "mins": 2,
      "context": "This is the last step of the twig brush. You compare it with a toothbrush.",
-     "do": "Ask your child to compare the twig and the brush.",
-     "say": "A toothbrush has a small head that reaches the back. Toothpaste has fluoride. A twig needs no factory. Which would you choose, and when?",
+     "do": "1. Ask your child to compare the twig and the brush. 2. They draw the chewed end of the twig next to their toothbrush.",
+     "say": "Which would you choose, the twig or the brush, and when? Think about reaching the back teeth, and about what is in toothpaste.",
      "kid": "Which would you choose: the twig or the brush? Why?",
-     "parent": "Scientists still compare how well twigs and brushes clean. Brushing with fluoride toothpaste is what dentists in India advise for children."
+     "parent": "Reaching the back teeth is easier with a small brush head, and toothpaste has fluoride. A twig needs no factory. Scientists still compare how well twigs and brushes clean. Brushing with fluoride toothpaste is what dentists in India advise for children."
     }
    ]
   }
@@ -1601,7 +1600,7 @@
      "caption": "1. Make a small book."
     },
     {
-     "art": "A girl holding the book and asking her grandmother a question, with the grandmother smiling and pointing to her own teeth.",
+     "art": "A girl holding the book and asking an older relative a question, with the relative smiling and pointing to their own teeth.",
      "caption": "2. Ask each person the three questions."
     },
     {
@@ -1625,7 +1624,7 @@
      "wait": "Do this the next day.",
      "context": "This is day 2 of the family tooth book.",
      "do": "Your child asks two more people. A phone call to a grandparent or an aunt works well.",
-     "say": "Who else could we ask? Maybe Paati, or your aunt in Kolkata?",
+     "say": "Who else could we ask? A grandparent, an aunt, an uncle, a neighbour or an older friend?",
      "kid": "Ask two more people. You can call someone on the phone."
     },
     {
@@ -1719,7 +1718,7 @@
      "id": "s3",
      "mins": 5,
      "context": "This is the last step of the tiffin challenge.",
-     "do": "1. Your child shows the plan to the family cook. 2. Agree on a day to make it.",
+     "do": "1. Your child shows the plan to whoever cooks at home. 2. Agree on a day to make it.",
      "say": "Tell us why each thing is in your tiffin.",
      "kid": "Say why you chose each thing."
     }
@@ -1789,7 +1788,7 @@
     "The child pushes it with their tongue"
    ],
    "a": 0,
-   "why": "The root is dissolved bit by bit, so the tooth is held only weakly. Pushing with the tongue does not make a firm tooth wobble.",
+   "why": "The root is dissolved bit by bit, so the tooth is held only weakly. A tongue can move a loose tooth, but it does not make a firm tooth loose.",
    "outcome": 0,
    "how": "e2",
    "context": "This question is about the root test. You push two pencils into a block of atta dough, one deep and one shallow, and see which one falls over first."
@@ -1941,15 +1940,6 @@
      "why": "Front teeth are thin and sharp for cutting. Pointed canines grip. Wide, bumpy back teeth grind."
     },
     {
-     "t": "fill",
-     "p": "A child has ____ milk teeth.",
-     "a": [
-      "20",
-      "twenty"
-     ],
-     "why": "All 20 milk teeth are usually in by about age 3. A grown-up can have up to 32 adult teeth."
-    },
-    {
      "t": "mcq",
      "p": "In the eggshell test, which liquid made the shell go soft and bendy by the next day?",
      "opts": [
@@ -2071,7 +2061,7 @@
        "says": "You must brush them. You will use them for years, and a hole in one can hurt."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
+     "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right. Say your answer out loud, and a grown-up writes it down.",
      "lines": 3,
      "a": "A strong answer agrees with Meenakshi, because milk teeth are used for chewing and speaking for many years, a cavity can hurt, and milk teeth hold the space for adult teeth. It also says Kiran is right that milk teeth do fall out.",
      "why": "Kiran is right that they fall out. Meenakshi is right that they still matter while they are there."
@@ -2125,7 +2115,7 @@
     },
     {
      "t": "write",
-     "p": "In the eggshell test, why did we put one piece of shell in plain water?",
+     "p": "In the eggshell test, why did we put one piece of shell in plain water? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "So we could see what happens with nothing sour or sweet added. If the water shell stays hard, we know the vinegar caused the change.",
      "why": "A strong answer says the water glass is for comparing. Without it, we could not tell if any wet shell goes soft.",
@@ -2168,7 +2158,7 @@
        "says": "I use a toothbrush with fluoride toothpaste. The small head reaches my back teeth, and the fluoride makes enamel harder for acid."
       }
      ],
-     "ask": "Which way would you choose? Give one reason. Then say one thing the other person has right.",
+     "ask": "Which way would you choose? Give one reason. Then say one thing the other person has right. Say your answer out loud, and a grown-up writes it down.",
      "lines": 3,
      "a": "A strong answer picks one and gives a reason, such as 'the brush reaches the back teeth' or 'the twig needs no plastic'. It also says what the other is right about.",
      "why": "Both have good points. Scientists still compare how well twigs and brushes clean. Fluoride is a strong reason to use toothpaste."
@@ -2240,7 +2230,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Tamarind water tastes very sour. If you put a piece of eggshell in it, what do you think would happen? Why?",
+     "p": "Tamarind water tastes very sour. If you put a piece of eggshell in it, what do you think would happen? Why? Say your answer out loud, and a grown-up writes it down.",
      "lines": 3,
      "a": "It would probably make bubbles on the shell and soften it, because sour things have acid in them, like vinegar and lemon.",
      "why": "A strong answer uses the eggshell test as evidence: sour liquids made the shell fizz. It may also say how to check: try it.",
@@ -2249,10 +2239,10 @@
     },
     {
      "t": "write",
-     "p": "Nisha, a girl in Class 3, says: 'My teeth are harder than eggshell, so lemon juice can never harm them.' What is wrong with her thinking?",
+     "p": "Nisha, a girl in Class 3, says: 'My teeth are harder than eggshell, so lemon juice can never harm them.' What is wrong with her thinking? Say your answer out loud, and a grown-up writes it down.",
      "lines": 3,
      "a": "Being hard does not stop acid. Enamel is harder than eggshell, but it has calcium in it too, and acid can slowly dissolve it.",
-     "why": "A strong answer says hardness protects against breaking, not against acid. Many sips of something sour give acid many chances."
+     "why": "A strong answer says hardness protects against scratching and wear, not against acid. Many sips of something sour give acid many chances."
     },
     {
      "t": "perspective",
@@ -2267,7 +2257,7 @@
        "says": "Brushing soon after does very little harm, especially with fluoride toothpaste. What matters most is brushing every day."
       }
      ],
-     "ask": "Which dentist do you agree with? Give one reason. Then say what the other dentist has right. What test would help them decide?",
+     "ask": "Which dentist do you agree with? Give one reason. Then say what the other dentist has right. What test would help them decide? Say your answer out loud, and a grown-up writes it down.",
      "lines": 4,
      "a": "A strong answer picks one with a reason, says something fair about the other, and suggests a test, such as comparing teeth of people who wait and people who don't.",
      "why": "Scientists still argue about this. Both agree that brushing every day with fluoride toothpaste helps."
@@ -2295,10 +2285,15 @@
      "why": "Too much fluoride while teeth are forming spots the enamel. This is called dental fluorosis. It is common in parts of Nalgonda in Telangana and in Rajasthan."
     },
     {
-     "t": "truefalse",
-     "p": "Brushing very hard cleans teeth better than brushing gently.",
-     "a": false,
-     "why": "False. Plaque is soft and comes off with gentle brushing. Hard brushing can hurt the gums."
+     "t": "mcq",
+     "p": "How are a shark's teeth different from yours?",
+     "opts": [
+      "A shark grows new teeth again and again, but we get only two sets",
+      "A shark has no teeth at all",
+      "A shark's teeth never wear down because they are enamel only"
+     ],
+     "a": 0,
+     "why": "Sharks replace their teeth many times. Humans get two sets, and the adult set must last a whole life."
     },
     {
      "t": "draw",
@@ -2313,17 +2308,17 @@
       "The first milk teeth come through the gums",
       "All 20 milk teeth are in",
       "The first adult molars come in at the back",
-      "The front milk teeth fall out",
+      "The back milk teeth fall out and premolars come in",
       "Wisdom teeth may come in"
      ],
      "a": "order shown",
-     "why": "First milk teeth at about 6 months. All 20 by about 3. First adult molars and front teeth change at about 6 to 7. Wisdom teeth at about 17 to 25, if at all."
+     "why": "First milk teeth at about 6 months. All 20 by about 3. First adult molars at about 6. Premolars take the place of the back milk teeth at about 10 to 12. Wisdom teeth at about 17 to 25, if at all."
     },
     {
      "t": "count",
      "p": "A grown-up has 32 teeth. 4 of them are wisdom teeth still hidden in the jaw. How many teeth can you see?",
      "a": 28,
-     "why": "32 take away 4 is 28. Many grown-ups have 28 teeth you can see."
+     "why": "32 take away 4 is 28. A grown-up whose wisdom teeth are still hidden can see 28 teeth."
     },
     {
      "t": "odd",
@@ -2336,15 +2331,6 @@
      ],
      "a": 2,
      "why": "A sweet cola has sugar for the bacteria. The cola is also sour, with acid in the drink itself. The others rinse, make saliva or remove plaque."
-    },
-    {
-     "t": "write",
-     "p": "Why did the shell in vinegar make bubbles? Say what was happening to the shell.",
-     "lines": 3,
-     "a": "The acid in the vinegar was breaking down the shell. As the shell broke down, a gas came out as bubbles.",
-     "why": "A strong answer says the bubbles came from the shell, as the acid broke it down. That is also why the shell went soft by the next day.",
-     "context": "This question is about the eggshell test. You drop pieces of eggshell into water, sugar water, milk, lemon juice and vinegar, watch for bubbles, and feel the pieces again the next day.",
-     "how": "e1"
     }
    ]
   }
@@ -2417,7 +2403,7 @@
   },
   {
    "j": "Why did the molar go to school?",
-   "a": "To grind away at his lessons!"
+   "a": "To grind away at her lessons!"
   },
   {
    "j": "What did the tooth say to the dentist who was leaving?",
@@ -2434,10 +2420,6 @@
   {
    "j": "Why did the toothbrush feel tired?",
    "a": "It worked two minutes, twice a day, every day!"
-  },
-  {
-   "j": "What does a canine tooth say when it meets a dosa?",
-   "a": "Let me tear you a story!"
   },
   {
    "j": "Why did the wobbly tooth always agree?",
@@ -2460,7 +2442,7 @@
    "why_maths": "The mouth is made of four matching quarters, so counting one quarter and making four equal groups is quicker than counting every tooth."
   },
   {
-   "problem": "Divya kept a sweet and sour tally for two days. On Monday she had 6 acid times. On Tuesday she ate her sweet with lunch and drank water after school, and had 3. How many fewer acid times did her teeth have on Tuesday? Which day was better for her teeth?",
+   "problem": "Divya, a girl in Class 2, kept a sweet and sour tally for two days. On Monday she had 6 acid times. On Tuesday she ate her sweet with lunch and drank water after school, and had 3. How many fewer acid times did her teeth have on Tuesday? Which day was better for her teeth?",
    "answer": "3 fewer. Tuesday was better.",
    "explain": "6 take away 3 is 3. Tuesday had 3 fewer acid times, so acid had fewer chances to work on her teeth.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2638,7 +2620,7 @@
  "roots": {
   "context": "We have learned about milk teeth and adult teeth, and tested what acid does to a hard eggshell. Now we ask what the eggshell test tells us about hardness, and about ourselves.",
   "deep_truth": {
-   "truth": "In water, your eggshell stayed hard. In vinegar it fizzed, and by the next day it was soft and bendy. Tooth enamel is harder than eggshell, yet acid wears it away too. Hardness keeps a tooth from breaking when you bite, but it does not stop acid.",
+   "truth": "In water, your eggshell stayed hard. In vinegar it fizzed, and by the next day it was soft and bendy. Tooth enamel is harder than eggshell, and acid wears it away too. Being hard does not protect a tooth from acid.",
    "habit": "We think the hardest thing is the safest thing. Hardness and standing up to acid are two different kinds of strength, and the test showed a hard shell giving way to a sour liquid.",
    "evidence": "In the eggshell test, the shell in water, milk and sugar water stayed hard. The shell in vinegar made bubbles at once and was soft by the next day. Enamel is harder than eggshell, but it is made with calcium too, and acid dissolves it slowly, though without bubbles."
   },
@@ -2647,7 +2629,7 @@
    "what_is_life": "Your body builds teeth, then takes away a milk tooth's root when it is time. Living things build, and take apart, to make room for what comes next.",
    "what_is_this_world": "Teeth, eggshells, seashells and limestone rock all hold calcium. The calcium in your smile came from food, and before that from soil and rock."
   },
-  "thread": "Calcium moves round the world. Rain wears calcium out of rock, and plants take calcium up from the soil. Animals eat the plants. A hen puts calcium into an eggshell, and a child's body puts calcium into enamel. Vinegar sets some of it free again, in bubbles of gas. Everything is conscious, the cells that build teeth too: they sense the signals around them and lay down each layer at the right time.",
+  "thread": "Calcium moves round the world. Rain wears calcium out of rock, and plants take it up from the soil. Animals eat the plants. A hen puts calcium into an eggshell, and a child's body puts it into enamel. Vinegar dissolves some of it again, and bubbles of gas come out. Everything is conscious, the cells that build teeth too: they sense the signals around them and lay down each layer at the right time.",
   "teachings": [
    {
     "source": "Shuo Yuan (Garden of Stories), compiled by Liu Xiang in China in the 1st century BCE: the story of Chang Cong and Laozi",
@@ -2694,5 +2676,6 @@
   "when": "McKay began studying the spots in 1901. The Arizona scientists showed that fluoride caused them in 1931. Dean's studies of fluoride and cavities followed in the 1930s and 1940s.",
   "wrong_idea": "That brown-spotted teeth must be weak teeth. The spotted teeth actually had fewer cavities. The spots came from a lot of fluoride, and a little fluoride turned out to protect teeth from acid.",
   "art": "A woman scientist in a 1930s laboratory coat holding up a glass bottle of water to the window, with small cages of rats on the bench behind her."
- }
+ },
+ "playtest": "Walked the unit as a parent and child in a flat. Counted every printed card (4 tooth cards, 12 food cards, 16 moment cards) and played both games with 2 and with 4 players. Followed the eggshell test and the dough root test step by step, with their minutes and day schedules. Made the root test fair by tapping both pencils at the same height, stopped it at 20 taps, and said honestly that lemon juice and soured milk may also soften the shell. Removed a joke that did not work, repeated worksheet questions, an unneeded safety line, and family members the steps assumed. Fixed an ambiguous order question and added a line saying a grown-up writes the answers."
 }

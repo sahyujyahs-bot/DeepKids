@@ -64,7 +64,7 @@
    "status": "defined",
    "context": "This card is about two kinds of questions: ones a test can answer, and ones it can't.",
    "definition": "A question is testable when you can do something, watch what happens, and get an answer that anyone else would also see.",
-   "description": "'Can a pencil lift a bottle of rice?' is testable. You try it, and everyone watching sees the bottle lift, or not. 'Which colour is the best?' is not testable. There is nothing to do that shows one right answer, because it is an opinion. Some questions are not testable yet, like 'Is there life on a planet near another star?' Nobody can travel there today. Some questions can be answered by asking or reading, like 'When was Amma born?' Knowing which kind a question is helps you know how to find out.",
+   "description": "'Can a pencil lift a bottle of rice?' is testable. You try it, and everyone watching sees the same thing. 'Which colour is the best?' is an opinion, so no test can answer it. Some questions are not testable yet, like 'Is there life on a planet near another star?' Nobody can travel there today. Some questions are answered by asking, like 'When was Amma born?'",
    "examples": [
     "Testable: 'Does a steel spoon sink in water?' Drop one in and see.",
     "An opinion: 'Is a mango nicer than a banana?' Each person's answer is true for them.",
@@ -79,7 +79,7 @@
    "status": "defined",
    "context": "This card is about what a prediction is, and why we say the reason too.",
    "definition": "A prediction says what you think will happen in a test, and why you think so, before the test starts.",
-   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. The reason matters. If the bottle lifts, you know which idea to change: the rice can grip after all. We say the prediction before the test, because after the test anyone can say 'I knew it!' Writing it down first keeps us honest.",
+   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. After the test, anyone can say 'I knew it!'",
    "examples": [
     "'The ice will float, because I have seen ice floating in a glass of water.'",
     "'The crumpled paper will land first, because it is smaller, so the air pushes it less.'",
@@ -93,10 +93,10 @@
    "status": "defined",
    "context": "This card is about what to do when your prediction turns out wrong.",
    "definition": "When a result does not match a prediction, the idea behind the prediction needs to change.",
-   "description": "Many people predict that a pencil cannot lift a bottle of rice. Then they see it lift. That wrong prediction is useful. It shows that their idea, 'rice is too loose to grip', was not right when the rice is pressed tight. Scientists are wrong often. They write down what happened, change their idea, and test again. A test that surprises you is often the one that teaches you most.",
+   "description": "Many people predict that a pencil cannot lift a bottle of rice. Then they see it lift. Their idea, 'rice is too loose to grip', was wrong for packed rice. Scientists are wrong often too. They write down what happened, change their idea, and test again.",
    "examples": [
     "In 1835, a French thinker, Auguste Comte, wrote that people would never find out what stars are made of. Within about 30 years, scientists began to find out from starlight.",
-    "In the Rice Bottle Lift, many children first say the bottle will fall. Their next prediction, after one try, is often closer."
+    "In the Rice Bottle Lift, loose rice lets the pencil slide out. That result tells you to try packing the rice."
    ],
    "perspectives": [],
    "art": "A boy scratching his head as a rice bottle hangs from a pencil, with a crossed-out guess and a new guess written on a slip beside him."
@@ -119,7 +119,7 @@
    "status": "defined",
    "context": "This card is about the Sure or Not Sure tally, where you dropped a spoon and shook a coin.",
    "definition": "Some events happen the same way every time, so we can predict each one. Others change by chance, so we can only predict what happens over many tries.",
-   "description": "A spoon you let go of falls down every single time, because the Earth pulls it. You can predict every drop. A coin shaken in your hands lands heads or tails by chance. Nobody can predict one shake. But over many shakes, about half land heads. The weather is in between. Forecasters at the India Meteorological Department use measurements to predict rain, and they are right often, but not always.",
+   "description": "A spoon you let go of falls down every single time, because the Earth pulls it. You can predict every drop. A coin shaken in your hands lands heads or tails by chance. Nobody can predict one shake, but over many shakes about half land heads. Weather is in between. Forecasters at the India Meteorological Department use measurements to predict rain. They are right often, but not always.",
    "examples": [
     "Sure every time: a dropped spoon falls, and the Sun rises in the east.",
     "Chance: one coin toss, one roll of a Ludo die.",
@@ -185,7 +185,7 @@
   {
    "claim": "A real scientific idea must be one that a test could prove wrong.",
    "who": "Karl Popper, a philosopher born in Austria, in the 1930s",
-   "for": "If no test could ever show an idea is wrong, then no test can show it is right either.",
+   "for": "An idea that no test could ever show wrong fits everything, so it tells us nothing.",
    "against": "Some scientists say ideas about the very start of the universe are still science, though nobody can test them yet. They hope tests will come later, as they did for the stars.",
    "status": "debated",
    "context": "This card is about a big argument: does science need ideas that can be tested?"
@@ -427,7 +427,7 @@
   {
    "id": "g2",
    "title": "Guess First: the quick test card game",
-   "mins": 20,
+   "mins": 24,
    "players": "2 or more players, or with a parent. Works alone too: keep your own score.",
    "context": "This is a prediction game. Each card is a quick test you can do at home. Before you do it, every player predicts what will happen and says why. Then you do the test and see who was right.",
    "printables": [
@@ -452,8 +452,8 @@
        "b": "It lifts up into the moving air. Scientists explain this in more than one way."
       },
       {
-       "f": "Put one drop of water on newspaper and one on a steel plate. Which one stays a round bead?",
-       "b": "The drop on the steel plate stays a bead. The newspaper soaks the water up."
+       "f": "Put one drop of water on newspaper and one on a steel plate. Which one stays on top as a drop?",
+       "b": "The drop on the steel plate stays on top. The newspaper soaks the water up."
       },
       {
        "f": "Half fill a tumbler with water. Tilt it a little. Will the top of the water tilt with the tumbler, or stay flat?",
@@ -519,7 +519,7 @@
     },
     {
      "id": "s2",
-     "mins": 14,
+     "mins": 18,
      "do": "1. Read a card aloud. 2. Each player predicts and gives a reason. 3. Do the test. 4. Read the back. 5. Give points.",
      "say": "What do you predict? Why do you think so? Now let's try it and watch.",
      "kid": "Read the card. Say your guess and why. Now try it.",
@@ -706,7 +706,7 @@
      "do": "1. Your child pokes the pencil in and out, counting aloud. 2. Every 10 pokes, tap the bottle on the tray 5 times. 3. Top up the rice to the very top. 4. After every 10 pokes, leave the pencil in and try a slow lift.",
      "say": "Poke in and out, and count. Every ten, tap the bottle and fill it up again. Then push the pencil in and try lifting.",
      "kid": "Poke and count. Every ten, tap it and add rice. Then try to lift.",
-     "parent": "The rice gets lower as it packs, so keep adding rice to the very top. Many bottles lift after 20 to 50 pokes, but it varies. If yours has not lifted after 60, use a narrower bottle or fill it fuller.",
+     "parent": "The rice gets lower as it packs, so keep adding rice to the very top. Many bottles lift after 20 to 50 pokes, but it varies. A rough wooden chopstick or ice-cream stick grips better than a shiny painted pencil. If yours has not lifted after 60 pokes, use a narrower bottle or fill it fuller.",
      "adult": false
     },
     {
@@ -806,7 +806,7 @@
        "q": "Why do you think so?",
        "good": [
         "Yes, because people do it in games.",
-        "No, because the die can't know I blew.",
+        "No, because blowing does not change how the die falls.",
         "Maybe, I am not sure."
        ]
       }
@@ -1460,7 +1460,7 @@
      "how": "e1",
      "p": "Say out loud, and a grown-up writes it: before the Rice Bottle Lift, what did you predict? Was it right?",
      "lines": 2,
-     "a": "For example: I predicted the bottle would fall, because rice is loose. It was wrong the second time, because packed rice lifted.",
+     "a": "For example: I predicted the bottle would fall, because rice is loose. I was wrong when the rice was packed tight, because then the bottle lifted.",
      "why": "A strong answer gives the prediction, the reason, and what really happened."
     },
     {
@@ -1504,7 +1504,7 @@
      "t": "odd",
      "p": "Three of these are test questions. Which one is an opinion?",
      "opts": [
-      "Does a steel spoon sink?",
+      "Does a pebble sink in water?",
       "Does a lemon float?",
       "Is a lemon prettier than a lime?",
       "Does ice float?"
@@ -1548,7 +1548,7 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Two girls in Kolkata, Mitali and Rumki, predict what happens when you push a pencil into a bottle of loose rice and lift it.",
+     "p": "Two girls in Kolkata, Mitali and Rumki, predict what happens when you push a pencil into a bottle of rice and lift it.",
      "views": [
       {
        "who": "Mitali, aged 7",
@@ -1561,7 +1561,7 @@
      ],
      "ask": "Who do you agree with? Use what you saw in the Rice Bottle Lift. Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer: with loose rice, Rumki is right, because the grains slide. But Mitali is right once the rice is packed tight: then it grips the pencil.",
+     "a": "A strong answer: Rumki is right for loose rice, because the grains slide. Mitali is right once the rice is packed tight, because then it grips the pencil. Both are right, in different cases.",
      "why": "Both girls have part of the answer. The test showed that it depends on how tightly the rice is packed.",
      "how": "e1"
     },
@@ -1703,7 +1703,7 @@
   },
   {
    "text": "A fisher in Puri looking at the sky and the waves before taking the boat out.",
-   "art": "A fisher standing beside a wooden boat on a beach, shading his eyes and looking at the clouds."
+   "art": "A fisher standing beside a wooden boat on a beach, shading her eyes and looking at the clouds."
   },
   {
    "text": "A railway display in Mumbai showing when the next local train is expected.",
@@ -1766,8 +1766,8 @@
    "a": "See you in about 76 years!"
   },
   {
-   "j": "Why did the batter rise in the warm kitchen?",
-   "a": "It was too cool for the fridge!"
+   "j": "What did the batter say in the fridge?",
+   "a": "I'm just chilling here. I'll rise later!"
   }
  ],
  "maths": [
@@ -1941,16 +1941,16 @@
  "roots": {
   "context": "We have sorted questions, made predictions and tested them with rice, coins and a die. Now we ask what the Rice Bottle Lift tells us about questions and answers.",
   "deep_truth": {
-   "truth": "You and your grown-up each guessed whether the pencil could lift the rice bottle. Then the test showed you both the same result. A question is testable when trying it shows the answer to anyone who looks. 'Which colour is best?' is different: each person's answer is true for them.",
+   "truth": "In the Rice Bottle Lift, you and your grown-up made different predictions. The bottle did the same thing in front of both of you. Anyone who repeats the test sees the same result. A question about which colour is best has no test, because each person's answer is true for them.",
    "habit": "We treat every question as the same kind: either you know the answer or you don't. But some questions are answered by a test that everyone sees the same way, and others by what each person likes or feels.",
-   "evidence": "In the Rice Bottle Lift, two people made different predictions, and the bottle did the same thing in front of both of them. In the story, the batter rose for Ila and Kiran mama alike, while 'idli or dosa?' had a different right answer for each person."
+   "evidence": "In the Rice Bottle Lift, two people made different predictions, and the bottle did the same thing in front of both of them. In the story, the two tumblers showed the same to Ila and Kiran mama, while 'idli or dosa?' had a different right answer for each person."
   },
   "three": {
    "who_am_i": "You are someone who can wonder, predict and test. Your likes, like your favourite colour, are part of you too.",
-   "what_is_life": "Every living being predicts. A young sunflower turns to face east during the night, ready for the morning sun.",
+   "what_is_life": "Living beings get ready for what is coming. A young sunflower turns to face east during the night, ready for the morning sun.",
    "what_is_this_world": "The world answers our tests in the same way for everyone who tries. That is why people everywhere can share what they find."
   },
-  "thread": "Before the test, the answer was not in your head or in anyone's guess. It was in the rice, the pencil and the way they met. When you pushed and lifted, the world showed what it does. Everyone who watched saw the same thing, because everyone is part of the same world. Your liking for a colour is real too. It is the same world, showing up in a different way in each person.",
+  "thread": "Before the test, the answer was not in anyone's guess. It was in the rice and the pencil, and how hard the grains pressed together. Everyone who watched saw the same result. Your liking for a colour is real too, but it belongs to the person who has it.",
   "teachings": [
    {
     "source": "Cula-Malunkyovada Sutta, Majjhima Nikaya 63",
@@ -1969,7 +1969,7 @@
     "status": "settled"
    },
    {
-    "text": "Some questions, like what the stars are made of, looked untestable and were tested later. Others, like what happened before the universe began, may or may not ever be testable. Scientists argue about this.",
+    "text": "Some questions, like what the stars are made of, looked untestable and were tested later. Others, like what the universe was like at its very start, may or may not ever be testable. Scientists argue about this.",
     "status": "debated"
    }
   ],

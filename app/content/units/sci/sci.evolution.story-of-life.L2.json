@@ -99,7 +99,7 @@
    "description": "Inside every living cell, the chemicals of life are dissolved in water, like the powders in your bowl. There they meet and react all day long. That is how a cell grows, uses food and makes copies of itself. So scientists think life could only begin where there was liquid water. The oldest clear signs of life come from rocks that formed in shallow sea water about 3.5 billion years ago, in Australia. In 2006, the Australian scientist Abigail Allwood and her team showed that some of these rocks are stromatolites, built by mats of tiny cells. Your own cells are mostly water too. More than half of your body is water.",
    "examples": [
     "The oldest stromatolites formed in shallow sea water about 3.5 billion years ago.",
-    "A moong seed stays dry and still for months, and begins to grow only when it gets water.",
+    "A moong seed stays dry and still for months, and begins to grow only when water reaches the seed.",
     "When people look for life on Mars, they look first for signs of water."
    ],
    "perspectives": [],
@@ -136,7 +136,7 @@
    "status": "defined",
    "context": "This card explains what the first living beings were like.",
    "definition": "A cell is the smallest living unit of any living being. The first living beings were each one single tiny cell.",
-   "description": "The first living beings were far too small to see. About 50 of them, lying side by side, would just stretch across the width of one hair. Each cell had a thin skin around a watery inside. Each cell took in food from the water, grew, and split in two to make more cells. Tiny cells like these sense food and swim towards it, and the first cells sensed their world too. They lived in mats and films on the sea floor. We know about them from stromatolites and from chemicals they left in old rocks. For nearly 3 billion years, almost all life on Earth was tiny cells like these.",
+   "description": "The first living beings were far too small to see. Tiny cells today, like bacteria, are so small that about 50 of them, side by side, would just stretch across one hair. Scientists think the first cells were this tiny too. Each cell had a thin skin around a watery inside. Each cell took in food from the water, grew, and split in two to make more cells. Tiny cells like these sense food and swim towards it, and the first cells sensed their world too. They lived in mats and films on the sea floor. We know about them from stromatolites and from chemicals they left in old rocks. For nearly 3 billion years, almost all life on Earth was tiny cells like these.",
    "examples": [
     "A green slimy film on a wet wall or in a rain puddle is made of tiny water-living cells.",
     "Stromatolites at Shark Bay in Australia are still being built by mats of tiny cells today.",
@@ -238,7 +238,7 @@
   {
    "q": "The fruit salt in the packet waited for months without changing. Living seeds also wait for months, then grow. How is a waiting seed different from waiting powder?",
    "kind": "deep",
-   "hint": "Think about what each one does when it gets water, and what happens after that."
+   "hint": "Think about what happens to the powder and to the seed when water reaches them."
   },
   {
    "q": "If there had been no water on Earth, could life have begun at all?",
@@ -297,7 +297,7 @@
    "Paati laughed. \"Not like this. But something a bit like it happened, very slowly. Chemicals floated in the water. They met and changed, again and again. After a very long time, some of them became the first living cells. Each one was far too small to see. That is why life began in water.\"",
    "She took last year's calendar down from the wall and turned it to January. \"Let's pretend the whole story of the Earth is one year. On the first of January, the Earth forms, hot and rocky.\" She turned to March. \"At the end of March, we find the first signs of tiny cells in the sea.\"",
    "Arun turned the pages. April. May. June. July. \"Where are the animals?\"",
-   "\"Keep turning,\" said Paati. August. September. October. Still tiny cells. At last, in the middle of November, came the first animals big enough to see, soft and flat, on the sea floor. Then everything rushed into December: plants and animals on land, dinosaurs, and flowers.",
+   "\"Keep turning,\" said Paati. August. September. October. Still tiny cells. At last, in the middle of November, came the first animals big enough to see, soft and flat, on the sea floor. Then everything rushed into the last weeks of the year: plants and animals on land, dinosaurs, and flowers.",
    "\"And us?\" asked Arun.",
    "Paati pointed to the last box, the thirty-first of December. \"Humans like us come about half an hour before midnight, on the very last night of the year.\"",
    "Arun was quiet for a moment. \"So the tiny cells had the Earth nearly to themselves, almost all year?\"",
@@ -326,12 +326,12 @@
   {
    "id": "e1",
    "title": "The Dry Mix: will the powders fizz without water?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you mix two dry kitchen powders in four bowls. You keep one bowl dry and add oil, water or sea water to the others. Then you find out which ones change, and why.",
    "question": "Baking soda and citric acid sit together in a bowl. Do they change on their own, or only when we add a liquid? Which liquids make them change?",
    "predict": "We will mix the two dry powders in four bowls. One stays dry. One gets oil. One gets water. One gets salty water, as salty as the sea. Which bowls do you think will fizz? Why do you think so?",
-   "fair_test": "Every bowl gets the same powders: half a spoon of baking soda and half a spoon of citric acid. Every liquid is 2 spoons. The only thing we change is what we add. We watch each bowl for the same time, one minute, so no bowl gets longer to fizz.",
+   "fair_test": "Every bowl gets the same powders: half a spoon of baking soda and half a spoon of citric acid. Every liquid is 2 spoons. A spoon always means a teaspoon here. The only thing we change is what we add. We watch each bowl for the same time, one minute, so no bowl gets longer to fizz.",
    "results_table": [
     "Bowl",
     "What we added",
@@ -377,7 +377,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Make sea water. Put the dry mix in four bowls. Guess, then add oil, water and sea water. Then add water to the oil bowl and drip water on the dry bowl."
     }
    ],
@@ -438,7 +438,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Dry the four katoris well. 2. Label them dry, oil, water and sea water. 3. Stir 1 level spoon of salt into half a tumbler of water.",
      "say": "We need sea water, but we live far from the beach. So let's make some. The sea is salty, about this salty.",
      "kid": "Label four dry bowls. Stir one spoon of salt into half a tumbler of water. Taste one drop from your finger. That is how salty the sea is.",
@@ -446,7 +446,7 @@
     },
     {
      "id": "s2",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Your child puts half a spoon of baking soda and half a spoon of citric acid in each katori. 2. Wipe the spoon dry each time. 3. Stir each heap dry. 4. Look and listen.",
      "say": "These two powders are now touching each other. Look closely. Put your ear near the bowl. Is anything happening?",
      "kid": "Put half a spoon of each powder in every bowl. Stir them dry. Look closely. Listen. Is anything happening?",
@@ -482,7 +482,7 @@
     },
     {
      "id": "s4",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Pour 2 spoons of oil into the oil bowl. Watch for one minute. 2. Pour 2 spoons of water into the water bowl. Watch for one minute. 3. Pour 2 spoons of sea water into the sea water bowl. Watch for one minute. 4. Leave the dry bowl as it is.",
      "say": "Let's do one bowl at a time and watch each one for a whole minute. What is happening in each bowl?",
      "kid": "Pour oil into the oil bowl. Watch for one minute. Then do the water bowl. Then the sea water bowl. Write what happened.",
@@ -490,7 +490,7 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Drip 2 spoons of plain water slowly into the oil bowl. 2. Watch where the drops go. 3. Then let one drop of water fall on the dry bowl.",
      "say": "Was the powder in the oil bowl spoiled? Let's drip water into it and see. Then we put one single drop on the dry bowl.",
      "kid": "Drip water into the oil bowl. Watch the drops sink. Then put one drop on the dry bowl. What happens?",
@@ -498,7 +498,7 @@
     },
     {
      "id": "s6",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Ask for the claim: what does your child now think? 2. Ask for the evidence: what did they see? 3. Ask for the reason: why? 4. Pour everything down the sink and rinse the bowls.",
      "say": "Tell me what you think now. What did you see in each bowl? Why did only some of them fizz?",
      "kid": "Say what you think now. Say what you saw in each bowl. Say why only some fizzed.",
@@ -549,12 +549,16 @@
      "qty": "30 seeds"
     },
     {
-     "item": "3 small cups or katoris",
-     "qty": 3
+     "item": "4 small cups or katoris (3 for the seeds, 1 for mixing)",
+     "qty": "4"
+    },
+    {
+     "item": "a tumbler of water and a teaspoon",
+     "qty": 1
     },
     {
      "item": "salt",
-     "qty": "1 level teaspoon and a pinch"
+     "qty": "1 level teaspoon"
     },
     {
      "item": "3 paper slips and a pencil",
@@ -569,7 +573,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Make three waters: plain, a pinch of salt, and sea-salty. Put 10 moong in each cup. Cover the cups."
+     "what": "Make three waters: plain, a little salty, and sea-salty. Put 10 moong in each cup. Cover the cups."
     },
     {
      "day": 2,
@@ -601,7 +605,7 @@
      ],
      [
       "2",
-      "A pinch of salt",
+      "A little salt",
       "7",
       "9"
      ],
@@ -615,7 +619,7 @@
    },
    "setup": [
     {
-     "art": "Three small cups labelled plain, a pinch, and sea, each with a little water and ten green moong.",
+     "art": "Three small cups labelled plain, a little, and sea, each with a little water and ten green moong.",
      "caption": "1. Put 10 moong in each of three waters."
     },
     {
@@ -631,10 +635,10 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Label three cups: plain, a pinch, sea. 2. Pour 4 spoons of water in each. 3. Add a small pinch of salt to the pinch cup. 4. Stir 1 level spoon of salt into half a tumbler of water, and use 4 spoons of it for the sea cup. 5. Put 10 moong in each cup and cover them.",
+     "do": "1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In the fourth cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three cups and cover them.",
      "say": "All life began in salty sea water, long ago. Moong plants live on land. Can their seeds sprout in sea water? What do you think? Why?",
-     "kid": "Label three cups. Put water in each. Add salt as the labels say. Put 10 moong in each cup. Cover them. Which will sprout? Say why.",
-     "parent": "The seeds should sit in the water, not deep under it, so they get air too. Add a spoon of the same water if a cup dries out.",
+     "kid": "Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the a little cup. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Which will sprout? Say why.",
+     "parent": "Use fresh moong, because very old seeds may not sprout even in plain water. The weak salty water is about one tenth as salty as the sea. The seeds should sit in the water, not deep under it, so they get air too. Add a spoon of the same water if a cup dries out. Keep the cups on a warm shelf: in a cold room, sprouting is slow in every cup, so wait one more day before you count.",
      "wait": "Leave the cups for one day"
     },
     {
@@ -695,7 +699,7 @@
      "qty": 1
     },
     {
-     "item": "12 small paper slips, with one event from the list in this activity written on each",
+     "item": "12 small paper slips. A grown-up writes one event on each, from the list in step 2 (the 'Older Wins' cards work too)",
      "qty": 12
     }
    ],
@@ -733,7 +737,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Read each event slip aloud, one at a time. Your child puts each one in the right month. 1 January, the Earth forms. Mid-January, the first oceans. End of March, the first signs of tiny cells, in stromatolites. Late June, tiny cells have put the first oxygen into the air. Mid-November, the first animals big enough to see, soft and flat, in the sea. About 18 November, sea animals with shells, eyes and legs, and soon the first fish. About 24 November, the first small plants on land. About 1 December, the first animals with four legs walk onto land. About 13 December, the first dinosaurs. About 21 December, the first flowers. 26 December, a huge rock from space hits the Earth, and most dinosaurs die out, but birds live on. 31 December, about half an hour before midnight, the first humans like us, in Africa.",
+     "do": "Read each event slip aloud, one at a time. Your child puts each one in the right month. 1 January, the Earth forms. About 9 January, the first oceans. End of March, the first signs of tiny cells, in stromatolites. Late June, tiny cells have put the first oxygen into the air. Mid-November, the first animals big enough to see, soft and flat, in the sea. About 18 November, sea animals with shells, eyes and legs, and soon the first fish. About 24 November, the first small plants on land. About 1 December, the first animals with four legs walk onto land. About 13 December, the first dinosaurs. About 21 December, the first flowers. 26 December, a huge rock from space hits the Earth, and most dinosaurs die out, but birds live on. 31 December, about half an hour before midnight, the first humans like us, in Africa.",
      "say": "Let's put each moment in its month. Watch what happens to the calendar as we go.",
      "kid": "Listen to each event. Put the slip in the right month. Watch which months fill up.",
      "parent": "On this calendar, one day stands for about 12 million years. The dates are rounded. Scientists still argue a little about some of them, for example when the very first cells began."
@@ -823,7 +827,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Tell your child how small the first cells were. 2. Your child draws the hair very big, with tiny circles across it.",
-     "say": "The first living beings were tiny cells. About 50 of them, side by side, would just stretch across this one hair. How could anyone find something so small, from so long ago?",
+     "say": "The first living beings were tiny cells. Tiny cells today are so small that about 50 of them, side by side, would just stretch across this one hair. How could anyone find something so small, from so long ago?",
      "kid": "About 50 tiny cells fit across one hair. Draw the hair very big. Draw tiny cells across it.",
      "parent": "Scientists find the first life in two ways: stromatolites, the layered rocks that mats of cells built, and tiny fossil cells seen with powerful microscopes.",
      "check": {
@@ -835,7 +839,7 @@
        "As big as a fish"
       ],
       "a": 0,
-      "why": "The first living beings were single cells. About 50 of them, side by side, fit across the width of one hair."
+      "why": "The first living beings were single cells, as tiny as the cells of bacteria today. About 50 of those, side by side, fit across one hair."
      }
     }
    ]
@@ -845,7 +849,7 @@
    "title": "Sea Cousins at the Fish Market (if your family buys fish or seafood)",
    "mins": 15,
    "days": 1,
-   "context": "Many kinds of living beings still live in the sea, where life began. In this activity you look closely at sea animals at a fish market or in your kitchen, and count their legs and eyes.",
+   "context": "Many kinds of living beings still live in the sea, where life began. In this activity you look closely at sea animals at a fish market or in your kitchen, and count the legs of a crab and find eyes.",
    "materials": [
     {
      "item": "a visit to a fish market, or seafood your family has bought, such as prawns, a crab, squid or a whole fish",
@@ -860,10 +864,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Look at sea animals at the market or in the kitchen. Count the kinds, and count the legs and eyes of two of them."
+     "what": "Look at sea animals at the market or in the kitchen. Count the kinds, and count the legs and find the eyes of two of them."
     }
    ],
-   "record": "Draw two sea animals. Write how many legs and eyes each one has. Write how many different kinds you saw.",
+   "record": "Draw two sea animals. Write how many legs the crab has and where the eyes are. Write how many different kinds you saw.",
    "setup": [
     {
      "art": "A fish market stall in Kochi with prawns, crabs, squid and silver fish laid out on ice.",
@@ -871,7 +875,7 @@
     },
     {
      "art": "A child counting the legs of a crab on a steel plate in a kitchen.",
-     "caption": "2. Count the legs and eyes of two animals."
+     "caption": "2. Count a crab's legs and find the eyes of two animals."
     }
    ],
    "flow": [
@@ -886,10 +890,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Pick two animals. 2. Count their legs and find their eyes. 3. Your child draws them.",
-     "say": "Count this prawn's legs. Can you find their eyes? Now the crab. Long ago, the sea had animals called trilobites, with shells and many legs, a bit like these.",
-     "kid": "Count the prawn's legs. Find their eyes. Count the crab's legs. Draw them both.",
-     "parent": "Prawns and crabs are arthropods, animals with jointed legs and a hard outer shell. Trilobites were arthropods too. They lived in the sea for about 270 million years and then died out."
+     "do": "1. Pick a crab or a prawn, and one other animal. 2. Count the crab's legs and find the eyes of both. 3. Your child draws them.",
+     "say": "Count this crab's legs. Can you find the eyes? Now look at the other animal. Long ago, the sea had animals called trilobites, with shells and many legs, a bit like a crab.",
+     "kid": "Count the crab's legs. Find the eyes of both animals. Draw them.",
+     "parent": "A crab has 8 legs for walking and 2 claws. Crabs and prawns are arthropods, animals with jointed legs and a hard outer shell. Trilobites were arthropods too. They lived in the sea for about 270 million years and then died out."
     }
    ]
   }
@@ -912,7 +916,7 @@
       },
       {
        "f": "The first oceans.",
-       "b": "Mid-January. About 4.4 billion years ago."
+       "b": "About 9 January. About 4.4 billion years ago."
       },
       {
        "f": "The first signs of tiny cells, in stromatolites.",
@@ -958,20 +962,19 @@
     }
    ],
    "rules": [
-    "Before you play, draw a small sketch on each card, so a child who cannot read yet can play too.",
     "Mix the cards. Deal 6 cards to each player, face down in a pile.",
     "Both players turn over their top card at the same time and read it aloud.",
     "Each player says which event they think happened first, and why.",
     "Turn both cards over to check the dates on the back. The event that happened first, the older one, wins. Its player keeps both cards.",
-    "Play until the piles run out. The player with the most cards wins."
+    "Play until the piles run out. The player with the most cards wins. If you both have 6 cards, you both win."
    ],
    "setup": [
     {
-     "art": "Twelve cards with small drawings, dealt into two face-down piles on a floor mat.",
+     "art": "Twelve event cards dealt into two face-down piles on a floor mat.",
      "caption": "1. Deal 6 cards each, face down."
     },
     {
-     "art": "Two children each turning over a card: one shows a fish, the other a dinosaur.",
+     "art": "Two children each turning over a card: one shows sea animals with shells, the other the first dinosaurs.",
      "caption": "2. Turn over one card each. The older event wins."
     }
    ],
@@ -979,15 +982,15 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the cards. 2. Your child draws a small sketch on each one. 3. Deal 6 cards each.",
-     "say": "Each card is a moment in the story of life. The date is on the back, but don't peek. Let's draw a sketch on each one first.",
-     "kid": "Cut out the cards. Draw a sketch on each one. Don't look at the backs."
+     "do": "1. Cut out the 12 cards. 2. Mix them and deal 6 cards each, face down.",
+     "say": "Each card is a moment in the story of life. The date is on the back, but don't peek until we have both guessed.",
+     "kid": "Cut out the cards. Mix them. Don't look at the backs."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "1. Play as the rules say. 2. Each time, ask why that event came first before turning the cards over.",
-     "say": "Your card says fish and mine says dinosaurs. Which came first? Why do you think so?",
+     "say": "Your card says sea animals with shells and mine says the first dinosaurs. Which came first? Why do you think so?",
      "kid": "Turn over your top card. Read it out. Which event came first? Say why. Then check the backs.",
      "parent": "A good reason uses the story: animals lived in the sea before they walked on land, and tiny cells came before everything big."
     },
@@ -1020,7 +1023,7 @@
    "printables": [
     {
      "kind": "score sheet",
-     "title": "Score sheet: one column for each player",
+     "title": "Score sheet: print one for each player",
      "items": [
       "Turn 1: I rolled ___. Food or no food? ___. My cells now: ___",
       "Turn 2: I rolled ___. Food or no food? ___. My cells now: ___",
@@ -1031,17 +1034,23 @@
       "Turn 7: I rolled ___. Food or no food? ___. My cells now: ___",
       "Turn 8: I rolled ___. Food or no food? ___. My cells now: ___",
       "Turn 9: I rolled ___. Food or no food? ___. My cells now: ___",
-      "Turn 10: I rolled ___. Food or no food? ___. My cells now: ___"
+      "Turn 10: I rolled ___. Food or no food? ___. My cells now: ___",
+      "Turn 11: I rolled ___. Food or no food? ___. My cells now: ___",
+      "Turn 12: I rolled ___. Food or no food? ___. My cells now: ___",
+      "Turn 13: I rolled ___. Food or no food? ___. My cells now: ___",
+      "Turn 14: I rolled ___. Food or no food? ___. My cells now: ___",
+      "Turn 15: I rolled ___. Food or no food? ___. My cells now: ___"
      ]
     }
    ],
    "rules": [
-    "Each player has a katori with 1 chana in it. That chana is your first cell.",
+    "Each player has a katori with 1 chana (a dried chickpea) in it. That chana is your first cell.",
+    "Put a bowl with about 150 more chana in the middle.",
     "You need a dice. If you have none, write 1 to 6 on six paper slips and pick one from a cup.",
     "On your turn, roll the dice. An even number, 2, 4 or 6, means food: every one of your cells splits in two. Double your chana.",
     "An odd number, 1, 3 or 5, means no food this time. Your cells stay as they are.",
-    "Count your cells out loud and write the number on the score sheet.",
-    "The first player to reach 32 cells wins."
+    "Count your cells out loud and write the number on your score sheet. If the game goes past 15 turns, write on the back.",
+    "The first player to reach 32 cells wins. Finish the round. If two or more players reach 32 in the same round, they all win."
    ],
    "setup": [
     {
@@ -1160,13 +1169,13 @@
      "do": "1. Tell your child about the animals in the parent note. 2. Your child picks four or five and makes them from dough. 3. Hang one or two on threads, as if swimming.",
      "say": "Long ago the sea had animals that look strange to us. One had five eyes. One was flat like a mat. Which ones will you make?",
      "kid": "Pick four or five sea animals from long ago. Make them from dough. Hang one on a thread, swimming.",
-     "parent": "Real animals to make: Dickinsonia, flat and oval with ridges across, with no head and no legs. Charnia, shaped like a fern leaf, fixed to the sea floor. A trilobite, with a hard shell, many legs and eyes. Opabinia, with five eyes and a long nose with a claw at the end. Hallucigenia, with spikes on the back and many soft legs. They did not all live at the same time, but all of them lived more than 500 million years ago."
+     "parent": "Real animals to make: Dickinsonia, flat and oval with ridges across, with no head and no legs. Charnia, shaped like a fern leaf, fixed to the sea floor. A trilobite, with a hard shell, many legs and eyes. Opabinia, with five eyes and a long nose with a claw at the end. Hallucigenia, with spikes on the back and soft legs underneath. They did not all live at the same time, but all of them lived more than 500 million years ago."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "1. Label each animal. 2. Ask your child to show the box to someone and tell them about it.",
-     "say": "Tell Amma or Appa about your sea. Which animal is your favourite? How is that animal different from animals today?",
+     "say": "Tell someone at home about your sea. Which animal is your favourite? How is that animal different from animals today?",
      "kid": "Write a label for each animal. Show your sea to someone. Tell them about your favourite animal."
     }
    ]
@@ -1178,7 +1187,7 @@
    "title": "Fizz Later: make the powder wait in water",
    "mins": 20,
    "context": "In the dry mix test, the powders fizzed as soon as water reached them. This challenge asks you to make a little packet that waits in water before it fizzes.",
-   "problem": "Make a small packet of the dry mix that you drop into a tumbler of water. It must wait at least 10 seconds before it starts to fizz, and then it must still fizz.",
+   "problem": "Make a small packet of the dry mix that you drop into a tumbler of water. It should wait as long as you can before it starts to fizz, and then it must still fizz. Aim for at least 5 seconds.",
    "constraints": [
     "Use only half a spoon of baking soda and half a spoon of citric acid.",
     "Use only home things: tissue, paper, thread, a little cooking oil, sticky tape.",
@@ -1194,11 +1203,11 @@
     "a steel tumbler of water"
    ],
    "general": [
-    "Wrap the mix in one layer of tissue and twist the top. The water takes time to soak through.",
+    "Wrap the mix in one layer of tissue and twist the top. The water takes a second or two to soak through.",
     "Wrap it in two or three layers, so the water takes even longer to reach the powder."
    ],
    "creative": [
-    "Mix the powders with a few drops of oil to make a paste, then drop it in. The oil slows the water down.",
+    "Mix the powders with a few drops of oil, then wrap the mix. The oil may slow the water down. It may also make the fizz small, and that is a result too.",
     "Use thicker paper, like newspaper, folded into a tiny envelope."
    ],
    "your_turn": "Design your own packet. Drop it in and count the seconds. Then change one thing and try again. Which packet waited longest and still fizzed?",
@@ -1233,7 +1242,7 @@
      "do": "1. Drop the packet in. 2. Count the seconds aloud until the first bubbles. 3. Write the number. 4. Try a second design.",
      "say": "Drop it in. Let's count together: one, two, three. When do the bubbles start?",
      "kid": "Drop it in. Count the seconds until the bubbles start. Write the number. Try another packet.",
-     "parent": "One layer of tissue often waits only a few seconds. Three layers, or a paste with oil, usually waits much longer."
+     "parent": "One layer of tissue often waits only a second or two. Three layers, or folded newspaper taped shut, usually wait longer. Results differ from home to home. If no packet reaches 5 seconds, the one that waited longest wins."
     },
     {
      "id": "s4",
@@ -1243,7 +1252,7 @@
      "kid": "Which packet waited the longest? Why did it work?",
      "check": {
       "t": "mcq",
-      "q": "Why did the packet with three layers of tissue wait longer before fizzing?",
+      "q": "A packet with three layers of tissue waited longer than a packet with one layer. Why?",
       "options": [
        "The water took longer to reach the powder",
        "The tissue made the powders weaker",
@@ -1317,6 +1326,18 @@
      "why": "These are the four words the child needs most in this unit."
     },
     {
+     "t": "mcq",
+     "p": "Why do scientists say life began in water?",
+     "opts": [
+      "The chemicals of life can move about, meet and react in water",
+      "Water is cold and keeps things asleep",
+      "There was no land at all"
+     ],
+     "a": 0,
+     "why": "Just as the powders met and fizzed only in water, the chemicals of life met and changed in water. There was land, but life began in the sea.",
+     "context": "This question is about where life began, which you read about after the dry mix test."
+    },
+    {
      "t": "fill",
      "p": "The first living beings on Earth lived in ____.",
      "a": [
@@ -1325,21 +1346,6 @@
       "sea water"
      ],
      "why": "The chemicals of life meet and react in water, and the oldest signs of life come from rocks that formed in sea water."
-    },
-    {
-     "t": "count",
-     "p": "Ananya, a girl in Hyderabad, put the dry mix in 5 katoris. She added water to 3 of them and left the rest dry. How many katoris fizzed?",
-     "a": 3,
-     "why": "Only the 3 katoris with water fizzed. The 2 dry ones stayed the same, because there was no water to let the powders meet.",
-     "context": "This question is about the dry mix test. You mixed baking soda and citric acid in four bowls, and added nothing, oil, water or sea water.",
-     "how": "e1"
-    },
-    {
-     "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: at the end, why did the oil bowl fizz when you dripped water into it?",
-     "lines": 2,
-     "a": "Because the water sank through the oil and reached the powder, and the powders need water to react.",
-     "why": "A strong answer says the powder was ready all along, and fizzed only when water reached it."
     },
     {
      "t": "odd",
@@ -1370,6 +1376,13 @@
      "lines": 3,
      "a": "A strong answer agrees with Lakshmi, because the powder fizzed under the oil once water reached it. It also says Farhan was right that nothing happened while there was only oil.",
      "why": "The test answers this: water dripped into the oil bowl made it fizz. Farhan's observation was true, but his reason was not."
+    },
+    {
+     "t": "write",
+     "p": "Say out loud, and a grown-up writes it down: a moong seed can stay dry for months. What do you think a moong seed needs, to begin to grow?",
+     "lines": 2,
+     "a": "Water. The seed is alive but waiting, and starts to grow when water reaches the seed.",
+     "why": "A strong answer says the seed needs water to start growing, like the first cells needed water."
     },
     {
      "t": "label",
@@ -1418,19 +1431,6 @@
      "how": "a1"
     },
     {
-     "t": "mcq",
-     "p": "On the Year of Life calendar, in which month do the first animals big enough to see appear?",
-     "opts": [
-      "March",
-      "June",
-      "November"
-     ],
-     "a": 2,
-     "why": "They appear in the middle of November. Picking March mixes them up with the first tiny cells, which came at the end of March.",
-     "context": "This question is about the Year of Life calendar, where the whole story of the Earth is squeezed into one year, from 1 January to 31 December.",
-     "how": "a1"
-    },
-    {
      "t": "sort",
      "p": "Sort these living beings: lives in water, or lives on land.",
      "cats": [
@@ -1465,6 +1465,19 @@
      ],
      "a": "see items",
      "why": "Many kinds still live in water, where all life began. The land kinds came from ancestors who once lived in water."
+    },
+    {
+     "t": "mcq",
+     "p": "Tiny cells like the first living cells are very small. About how many would fit side by side across one hair?",
+     "opts": [
+      "About 50",
+      "Only 1",
+      "About 5 million"
+     ],
+     "a": 0,
+     "why": "Tiny cells like the first cells are far too small to see. About 50 of them, side by side, would just stretch across one hair.",
+     "context": "This question is about the hair and the first cells, from the activity on how small the first life was.",
+     "how": "a2"
     },
     {
      "t": "write",
@@ -1587,15 +1600,21 @@
     },
     {
      "t": "draw",
-     "p": "Draw what you think the very first living cell looked like, in the water around it. Draw the parts you cannot see too, and label them.",
-     "a": "A tiny round cell with a thin skin, a watery inside and some chains inside, floating in water.",
-     "why": "A strong drawing shows a skin around a watery inside, with something inside that carries instructions, such as RNA chains."
+     "p": "Draw what you think the very first living cell looked like, floating in water. Label its thin skin and its watery inside.",
+     "a": "A tiny round cell with a thin skin and a watery inside, floating in water.",
+     "why": "A strong drawing shows a skin around a watery inside, floating in water."
     },
     {
      "t": "truefalse",
      "p": "When living beings moved from the water onto land, they left all their water behind.",
      "a": false,
      "why": "False. Every land plant and animal still has cells that are mostly water inside. More than half of your body is water."
+    },
+    {
+     "t": "truefalse",
+     "p": "Monkeys slowly turned into humans.",
+     "a": false,
+     "why": "False. Monkeys and humans are cousins. They both come from the same ancestors, who lived millions of years ago and were neither."
     },
     {
      "t": "sort",
@@ -1653,16 +1672,6 @@
      "a": 0,
      "why": "Many scientists think big animals needed more oxygen, and oxygen built up slowly. They still argue about the other reasons. The Sun and the oceans were there from the start.",
      "context": "This question is about the Year of Life calendar, where the whole story of the Earth is squeezed into one year, from 1 January to 31 December."
-    },
-    {
-     "t": "fill",
-     "p": "Baking soda and citric acid ____ only when water lets them meet.",
-     "a": [
-      "react",
-      "fizz",
-      "change"
-     ],
-     "why": "In water, their tiny pieces can move and meet, so they react and make bubbles of gas."
     }
    ]
   }
@@ -1707,18 +1716,6 @@
    ],
    "a": 0,
    "why": "The powders react only when water dissolves them. Picking 'too old' may mean thinking the powder went bad, but a pinch in water still fizzes.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "Kavya added cooking oil to the dry mix. What happened?",
-   "opts": [
-    "Nothing, until she added water",
-    "It fizzed more than water",
-    "It turned yellow and bubbly at once"
-   ],
-   "a": 0,
-   "why": "Oil does not dissolve the powders, so they could not meet. When water reached them, they fizzed.",
    "outcome": 0
   },
   {
@@ -1803,18 +1800,6 @@
    ],
    "a": 0,
    "why": "On the Year of Life, one day is about 12 million years. 300,000 years is only about half an hour.",
-   "outcome": 4
-  },
-  {
-   "t": "mcq",
-   "p": "On the Year of Life calendar, what made up almost all life from April to October?",
-   "opts": [
-    "Tiny cells",
-    "Dinosaurs",
-    "Trees and flowers"
-   ],
-   "a": 0,
-   "why": "For most of the story, almost all life was tiny cells in water. Big animals and plants came in November and December.",
    "outcome": 4
   },
   {
@@ -1915,8 +1900,8 @@
    "a": "They left 66 million years too early!"
   },
   {
-   "j": "What did the fish say to the four-legged animal leaving the water?",
-   "a": "Don't forget to write. And don't dry out!"
+   "j": "What did the ocean say to the first cell?",
+   "a": "Nothing, it just waved!"
   },
   {
    "j": "Why is the Year of Life calendar so busy in December?",
@@ -1938,7 +1923,7 @@
    "why_maths": "Counting the months shows how long tiny cells had the Earth almost to themselves."
   },
   {
-   "problem": "In the splitting game, Lakshmi starts with 1 cell. Every time she rolls an even number, every cell splits in two. How many cells does she have after 1 split, 2 splits, 3 splits, 4 splits and 5 splits? What pattern do you see?",
+   "problem": "In the splitting game, Lakshmi, a girl in Kochi, starts with 1 cell. Every time she rolls an even number, every cell splits in two. How many cells does she have after 1 split, 2 splits, 3 splits, 4 splits and 5 splits? What pattern do you see?",
    "answer": "2, 4, 8, 16 and 32. Each time, the number doubles.",
    "explain": "1 and 1 more is 2. 2 and 2 is 4. 4 and 4 is 8. 8 and 8 is 16. 16 and 16 is 32. Each number is the last one added to itself.",
    "math_unit": "math.patterns.number-patterns.L2",
@@ -2099,7 +2084,7 @@
  "roots": {
   "context": "We found that dry powders change only when water lets them meet, and we squeezed the story of life into one year. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your dry soda and citric acid sat together and did nothing. When you added a few drops of water, they fizzed at once. Life's chemicals also need water to meet and change. That is why life began in water, and why every cell in you is still mostly water.",
+   "truth": "Dry soda and citric acid sat together and did nothing. A few drops of water made them fizz at once. Inside every cell, chemicals are dissolved in water, so they can meet and react. That is why scientists say life began in water, and why your cells are still mostly water.",
    "habit": "We think of water as something we drink, and of the sea as a faraway place. But water is where the chemistry of every living being happens. When plants and animals moved onto land, they took water with them, inside every cell.",
    "evidence": "In the dry mix test, the dry bowl and the oil bowl did not fizz. The water and sea water bowls fizzed at once, and the oil bowl fizzed as soon as water reached the powder. The oldest signs of life, stromatolites about 3.5 billion years old, formed in shallow sea water."
   },
@@ -2171,5 +2156,6 @@
    "Kvenvolden, K. and others (1970). Evidence for extraterrestrial amino-acids and hydrocarbons in the Murchison meteorite. Nature 228: 923-926.",
    "Year of Life dates worked out from the geological time scale (International Commission on Stratigraphy), with Earth at 4.54 billion years: one day is about 12.4 million years."
   ]
- }
+ },
+ "playtest": "Walked through every experiment, game, activity, project and challenge as a parent and child would in a flat. Fixed the sea-water cup in the moong test (it got double water), the game rules (tie endings, a longer score sheet, no sketching 12 cards), the crab count, and the fizz-later challenge, which now says honestly that results differ. Removed repeated questions and a family assumption, and replaced one weak joke."
 }

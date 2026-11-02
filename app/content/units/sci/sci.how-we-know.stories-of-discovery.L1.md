@@ -14,7 +14,7 @@
 5. By the end I can make a guess, test it, and say what I saw.
 
 ## Terms
-- **Curious**: Being curious means wanting to know more about something. A curious person asks lots of questions. *e.g.* Meenakshi was curious about why the haldi stain went red, so she asked Paati.
+- **Curious**: Being curious means wanting to know more about something. A curious person asks lots of questions. *e.g.* Meenakshi, a girl in this unit's story, was curious about why the haldi stain went red, so she asked her grandmother.
 - **Scientist**: A scientist is a person who finds out how the world works. They look closely, ask questions and test their ideas. *e.g.* Tu Youyou was a scientist in China. She found a new medicine for malaria.
 - **Discovery**: A discovery is finding out something about the world that people did not know before. *e.g.* Finding out that soap turns haldi red was a discovery for you.
 - **Test**: A test is a way to find out if your guess is right. You try it and see what happens. *e.g.* You guessed lemon would turn haldi red. You tested it, and it stayed yellow.
@@ -28,7 +28,7 @@ Scientists notice things. Then they ask a question, like 'Why did the haldi go r
 ### Anyone curious can be a scientist · *defined*
 **Definition:** A scientist is anyone who finds out about the world by looking closely, asking questions and testing ideas.
 
-Scientists are not a special kind of person born clever. They are people who stay curious and keep trying. Some started as children. Mary Anning was about 12 when she and her brother found the bones of a huge sea animal that lived long ago, on a beach in England. Some had little money and no big laboratory. Tu Youyou never had a doctorate, the top university degree, but she found a medicine that has saved millions of lives. Women and girls have always done science, even when people tried to stop them.
+Scientists are not a special kind of person born clever. They are people who stay curious and keep trying. Some started as children. Mary Anning was about 12 when she and her brother found the bones of a huge sea animal that lived long ago, on a beach in England. Some had little money and no big laboratory. Tu Youyou did not have a doctorate, the top university degree, but she found a medicine that has saved millions of lives. Women and girls have always done science, even when people tried to stop them.
 - e.g. Mary Anning dug up fossils on the beach as a girl, in about 1811 and 1812.
 - e.g. Janaki Ammal, from Thalassery in Kerala, grew new kinds of sugarcane that grow well in Indian fields.
 - e.g. Tu Youyou, from China, found a malaria medicine by reading old books and testing.
@@ -53,15 +53,15 @@ People in every land have asked questions and found answers. Aryabhata, in India
 - A guess becomes knowledge only after it is tested. *How we know:* Tu Youyou guessed that heat was spoiling the medicine. She made it without much heat, and it worked. Her test showed her guess was right.
 
 ## How we found out
-**Tu Youyou, a scientist in China, and her team, using a clue from Ge Hong, a doctor in China about 1,600 years ago, 1969 (Tu begins the search), 1971 (the low-heat medicine works in mice and monkeys), 1972 (first tests in people), 2015 (the Nobel Prize).** Malaria is an illness that people get from mosquito bites. In 1969, Tu Youyou, a scientist in Beijing, China, was asked to find a new medicine for it. The old medicines were no longer working well. Tu and her team read very old books of Chinese medicine. They tested hundreds of old recipes made from plants. Most did not work. One plant, sweet wormwood, sometimes worked and sometimes did not. Tu read the plant's recipe again, in a book written about 1,600 years ago by a doctor called Ge Hong. It said to soak the leaves in water, squeeze out the juice and drink all the juice. The book did not say to boil the leaves. Most plant medicines were made by boiling. Tu wondered if the heat was spoiling the medicine. She made it a new way, without much heat. In 1971 it worked on mice and monkeys. Then she and two people on her team took it themselves first, to check it was safe. The medicine, artemisinin, has since saved millions of lives. In 2015, Tu Youyou won the Nobel Prize, though she never had a doctorate.  
-*What people believed before:* Most people made plant medicines by boiling them, so boiled extracts of sweet wormwood were tried first, and they worked only sometimes. Tu guessed the heat was spoiling the medicine. Her low-heat extract worked every time in her tests, which showed the heat had been the problem.
+**Tu Youyou, a scientist in China, and her team, using a clue from Ge Hong, a doctor in China about 1,700 years ago, 1969 (Tu begins the search), 1971 (the low-heat medicine works in mice and monkeys), 1972 (first tests in people), 2015 (the Nobel Prize).** Malaria is an illness that people get from mosquito bites. In 1969, a scientist called Tu Youyou, in Beijing, China, was asked to find a new medicine for it, because the old medicines were stopping working. Tu and her team read very old books and tested hundreds of plant recipes. Most did not work. One plant, sweet wormwood, worked only sometimes. Tu read its recipe again, in a book by a doctor called Ge Hong, written about 1,700 years ago. It said to soak the leaves in water and squeeze out the juice. It did not say to boil them. Most plant medicines were made by boiling. Tu wondered if heat was spoiling the medicine. So she made it a new way, without much heat. In 1971 it worked very well on mice and monkeys. Then she and her team took it themselves first, to check it was safe. The medicine, artemisinin, has since saved millions of lives. In 2015 Tu won the Nobel Prize, though she never had a doctorate.  
+*What people believed before:* Most people made plant medicines by boiling them, so boiled sweet wormwood was tried first, and it worked only sometimes. Tu guessed the heat was spoiling the medicine. Her low-heat extract worked very well in mice and monkeys, which showed the heat had been the problem.
 
 ## Challenging perspectives
 - **Scientists are special people who are born clever.** (A common idea, among children and grown-ups; *rejected*)  
   For: Famous scientists did amazing things, so it seems they must be very different from us.  
   Against: Scientists learn by asking, trying and making mistakes, like everyone. Mary Anning started as a girl collecting shells and fossils on the beach. Many scientists say they kept going because they were curious, not because they were born knowing.
 - **Old medicine books always have the right answer.** (Some people today; *rejected*)  
-  For: Tu Youyou found the clue to her malaria medicine in a book about 1,600 years old.  
+  For: Tu Youyou found the clue to her malaria medicine in a book about 1,700 years old.  
   Against: Tu Youyou's team tested hundreds of old recipes against malaria. Most did not work. Only careful testing showed which one did. An old book can give a clue, and a test shows if the clue is right.
 - **New ideas that sound strange must be wrong.** (A common idea; *rejected*)  
   For: Many strange ideas do turn out to be wrong when people test them.  
@@ -78,9 +78,9 @@ We have tested haldi in our kitchen and heard about curious people from India an
 - *what is life:* Every living being explores. A baby tests a surprising toy, a crow pokes at something new, and a plant's roots search the soil for water.
 - *what is this world:* The world is full of things nobody has asked about yet. Even your kitchen holds answers waiting for a question.
 
-Questions are not only in people. A plant's roots search the soil, a crow turns over a new thing, an ant tries a new path. Everything is conscious in its own way, and every living being asks the world something and waits for an answer. When you asked the haldi a question with soap, the haldi answered in red. Being curious is one way the whole world comes to know itself.
+A baby tests a toy that surprised them. A crow turns over something new. An ant tries a new path. Many living beings explore the world around them. Scientists still disagree about how much each of them wonders. People are animals too, and our questions are one kind of exploring among many.
 
-- **Plato, Theaetetus 155d:** Socrates, a thinker in ancient Greece, said that wonder is the feeling of a philosopher, a lover of wisdom. Wisdom has no other beginning than wonder. (Your haldi test began with wonder: why did the stain go red? The wondering came first, and the test came next.)
+- **Plato, Theaetetus 155d:** Socrates, a thinker in ancient Greece, said that wonder is the feeling of a philosopher, a lover of wisdom. He said philosophy has no other beginning than wonder. (Your haldi test began with wonder: why did the stain go red? The wondering came first, and the test came next.)
 - **Kena Upanishad 1.1:** This old Indian teaching begins with a question: 'By whom is the mind sent out?' It is even named after its first word, 'kena', which means 'by whom'. Asking is where it starts. (The Kena Upanishad starts with a question, the way a scientist does. You started with a question too, and the question led you to the answer.)
 - **Rig Veda 10.129.7 (the Nasadiya Sukta):** This very old hymn asks how the world began. It ends by saying that perhaps even the highest one does not know. It is honest about not knowing. (Scientists also say 'we don't know yet' when they don't. Not knowing is where every new question, and every discovery, begins.)
 - Science (settled): Even babies are curious. In one study, babies of about one year old tested toys that had done something surprising. They dropped or banged them to find out more.
@@ -89,7 +89,6 @@ Questions are not only in people. A plant's roots search the soil, a crow turns 
 - Practice, One minute of wonder (3 min): Pick up one thing near you, like a leaf, a spoon or a grain of rice. Hold it in your hand. Look at it quietly for one whole minute. Turn it over. Feel it. Smell it. Now close your eyes and take one slow breath. Open them. Tell me one thing you wonder about it.
 - Ask: Where do your questions come from?
 - Ask: Is there anything nobody will ever be able to find out?
-- Ask: When you asked the haldi a question with soap, did the haldi answer you?
 
 ## Deep and big questions
 - *deep:* Many people saw haldi stains turn red and never asked why. What else might you see every day without asking about it? (hint: Think about things in your kitchen, your bathroom and outside your window.)
@@ -148,7 +147,7 @@ Arjun came into the kitchen. "What are you two doing?"
 
 They tried salt water. It stayed yellow. They tried sugar water. Yellow. They tried lemon juice. Yellow.
 
-Then Paati took the tin of cooking soda that Amma used for the idli batter on busy days. She mixed a pinch with water. Meenakshi dabbed it on the paper. The spot turned orange-red.
+Then Paati took the tin of cooking soda that Amma kept for making bajji. She mixed a pinch with water. Meenakshi dabbed it on the paper. The spot turned orange-red.
 
 "Soap and cooking soda," said Meenakshi slowly. "Those two make it red. The others don't."
 
@@ -182,28 +181,28 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 
 ## Games
 ### g1 · True or False? Who Found Out (15 min)
-- **rules:** Put the TRUE sign on one side of the room and the FALSE sign on the other.; Stand in the middle. The grown-up reads a card aloud.; Jump to TRUE or FALSE. Say why you think so.; The grown-up turns the card over and reads the back.; If you were right, keep the card. If not, put it in the middle.; When the cards are finished, count your cards.
-- **Printable cards: 12 fact cards to cut out:** The Earth is round, like a ball. (back: True. People in ancient Greece and India worked this out long ago. Today, photos from space show it.); The Sun goes round the Earth. (back: False. The Earth goes round the Sun. Aryabhata in India also wrote that the Earth spins.); The Sun is a star. (back: True. The Sun is our closest star. The other stars are suns very far away.); The Moon makes its own light. (back: False. The Moon shines because sunlight falls on it.); Clouds are made of water. (back: True. Clouds are made of tiny drops of water, or tiny bits of ice.); Air weighs nothing at all. (back: False. Air is very light, but it does weigh something.); An octopus has three hearts. (back: True. An octopus has three hearts and blue blood.); Plants can feel a touch. (back: True. A touch-me-not plant folds up their leaves when you touch them.); The Earth spins round once every day. (back: True. One spin makes one day and one night.); The Himalayas are still growing taller. (back: True. They grow a tiny bit each year, too slowly to see.); All the dinosaurs are gone. (back: False. Birds are dinosaurs. The crow at your window is one.); Soap turns yellow haldi red. (back: True. You can test this one yourself.)
+- **rules:** Put the TRUE sign on one side of the room and the FALSE sign on the other.; Stand in the middle. The grown-up reads a card aloud and keeps score with tally marks on paper.; Jump to TRUE or FALSE. Say why you think so.; The grown-up turns the card over and reads the back.; If you were right, you get one tally mark. If not, no mark, and nobody minds: it is a good surprise.; Put the card aside and read the next one. When the cards are finished, count the marks. Most marks wins. If you are playing alone, try to beat your own count next time.
+- **Printable cards: 12 fact cards to cut out:** The Earth is round, like a ball. (back: True. People in ancient Greece and India worked this out long ago. Today, photos from space show it.); The Sun goes round the Earth. (back: False. The Earth goes round the Sun. Aryabhata in India also wrote that the Earth spins.); The Sun is a star. (back: True. The Sun is our closest star. The other stars are suns very far away.); The Moon makes its own light. (back: False. The Moon shines because sunlight falls on it.); Clouds are made of water. (back: True. Clouds are made of tiny drops of water, or tiny bits of ice.); Air weighs nothing at all. (back: False. Air is very light, but it does weigh something.); An octopus has three hearts. (back: True. An octopus has three hearts and blue blood.); Plants can feel a touch. (back: True. Touch-me-not plants fold up their leaves when you touch them.); The Earth spins round once every day. (back: True. One spin makes one day and one night.); The Himalayas are still growing taller. (back: True. They grow a tiny bit each year, too slowly to see.); All the dinosaurs are gone. (back: False. Birds are dinosaurs. The crow at your window is one.); Soap turns yellow haldi red. (back: True. You can test this one yourself.)
 - **Printable board: 2 signs for the floor:** TRUE (draw a big tick); FALSE (draw a big cross)
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Put the two signs on opposite walls.  
   *Parent says:* Each card tells a fact. Some are true and some are false. You jump to the side you think is right.  
   *Child mode:* Some cards are true. Some are false. Jump to your answer.
 - **s2 (10 min)**  
-  *Parent does:* Read each card aloud. Wait for the jump and a reason. Then read the back.  
+  *Parent does:* Read each card aloud. Wait for the jump and a reason. Then read the back and give a tally mark to anyone who was right.  
   *Parent says:* Here is a card. Is it true or false? Why do you think so? Now let's turn it over.  
   *Child mode:* Listen to the card. Jump to True or False. Say why.
-  - Ask: Why do you think the Moon makes its own light, or does not? (good: It is bright, so it makes light.; The Sun shines on it.)
-  - Note: Wrong jumps are good. Many grown-ups think the Moon makes its own light, and that all dinosaurs are gone. Ask how people might have found out.
+  - Ask: Does the Moon make its own light? Why do you think so? (good: Yes, because it is bright at night.; No, because the Sun shines on it.)
+  - Note: Wrong jumps are good. Many people are surprised that birds are dinosaurs, and that the Moon has no light of its own. Ask how people might have found out.
 - **s3 (3 min)**  
   *Parent does:* Pick one surprising card together. Talk about how someone found it out.  
   *Parent says:* Which card surprised you most? How do you think someone found that out?  
   *Child mode:* Which card surprised you? How did someone find out?
   - Check: How did people find out that soap turns haldi red? → **Someone tried it and looked**
 ### g2 · Notice, Wonder, Try: a board game (15 min)
-- **rules:** Put your counters on Start.; Take turns to roll the dice and move.; Do what your square says. Everyone listens.; If you do it, stay there. If you are stuck, the others can help.; The first player to reach Finish wins.
-- **Printable board: A path of 15 squares to draw:** Start; Notice: say one thing you see in this room that is red.; Wonder: ask one question about the window.; Try: drop a spoon and a paper ball together. Which lands first?; Notice: listen. Say one sound you can hear.; Wonder: ask one question about your hands.; Try: blow on your hand softly, then hard. What changes?; Notice: say one thing that smells good in the kitchen.; Wonder: ask one question about the sky.; Try: hold a steel spoon and a wooden spoon. Which feels colder?; Story: name one curious person from this unit.; Notice: find something that is round.; Wonder: ask one question about an animal you know.; Try: put a drop of water on a steel plate and on a cloth. What happens to each?; Finish: you are a scientist!
-- **Printable tokens: 4 counters and a dice:** a bottle cap; a button; a small stone; a coin; a dice, or six folded paper slips numbered 1 to 3, twice
+- **rules:** Put your counters on Start.; Take turns to roll the dice and move that many squares.; Do what your square says. Everyone listens.; If you are stuck, the others can help you. Then your turn ends.; The first player to reach Finish wins. If your roll takes you past Finish, you still win.
+- **Printable board: A path of 15 squares to draw:** Start; Notice: say one thing you see in this room that is red.; Wonder: ask one question about the window.; Try: drop a spoon and a paper ball together. Which lands first?; Notice: listen. Say one sound you can hear.; Wonder: ask one question about your hands.; Try: blow on your hand softly, then hard. What changes?; Notice: say one thing that smells good at home.; Wonder: ask one question about the sky.; Try: hold a steel spoon and a wooden spoon. Which feels colder?; Story: name one curious person from this unit.; Notice: find something that is round.; Wonder: ask one question about an animal you know.; Try: put a drop of water on a steel plate and on a cloth. What happens to each?; Finish: you are a scientist!
+- **Printable tokens: 4 counters and a dice:** a bottle cap; a button; a small stone; a coin; a dice, or six folded paper slips numbered 1, 2, 3, 1, 2, 3
 - **s1 (3 min)**  
   *Parent does:* Draw the path together. Read each square aloud.  
   *Parent says:* Some squares ask you to notice, some to wonder, some to try. Let's draw the path.  
@@ -220,36 +219,36 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Check: Which of these is a 'wonder'? → **Why do birds sit on wires?**
 
 ## Experiments
-### e1 · The Haldi Test: which kitchen liquids turn haldi red? (25 min)
+### e1 · The Haldi Test: which kitchen liquids turn haldi red? (20 min)
 - **question:** A haldi stain can turn red in the wash. Which kitchen liquids turn haldi red?
 - **predict:** Guess first. Will plain water, lemon juice, salt water, sugar water, soap water and cooking soda water turn the haldi red? Why do you think so?
 - **fair test:** We use the same haldi paper for every liquid. We put one drop of each liquid in its own box. We use a clean cotton bud or a clean spoon tip each time. Only the liquid changes.
-- **safety:** A grown-up cuts the lemon and mixes the soap and cooking soda water. Keep soap water and lemon away from eyes. Haldi stains clothes and fingers yellow, so wear old clothes and work on newspaper.
+- **safety:** A grown-up cuts the lemon.
 - **record:** The haldi paper itself, with each box named, and the results table with a guess and a result for each liquid.
 - **results table:** Liquid | My guess: red or yellow? | What I saw: red or yellow?
-- **s1 (4 min)**  
-  *Parent does:* 1. Show the yellow haldi and the six liquids. 2. Draw the results table together. 3. Ask for a guess and a reason for each liquid. Write the guesses.  
+- **s1 (3 min)**  
+  *Parent does:* 1. Show the haldi powder and the six liquids you will use. 2. Draw the results table together. 3. Ask for a guess and a reason for each liquid. Write the guesses.  
   *Parent says:* A haldi stain can turn red in the wash. Which of our kitchen liquids does that? For each one, red or yellow? Why?  
   *Child mode:* Look at the six liquids. Which ones will turn haldi red? Why?
   - Ask: Which ones do you think will turn it red? Why? (good: Lemon, because it is strong.; Not water, because water just makes it wet.; Salt, because it is like soap.)
   - Note: Don't say what will happen. Many children guess lemon will turn it red, because lemon is strong and sour. Write every guess down.
-- **s2 (5 min) · grown-up needed**  
+- **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Put a little of each liquid in its own katori. Plain water. Lemon juice. Salt water. Sugar water. 2. Rub the wet soap bar in a katori of water until it is cloudy. 3. Stir a pinch of cooking soda into water.  
   *Parent says:* I am making soap water and soda water. You can help with salt and sugar. Stir until they disappear.  
   *Child mode:* Help stir the salt and the sugar into water.
-  - Note: Use a bar of washing soap or bathing soap, or washing powder. Some mild liquid hand washes and shampoos do not turn haldi red. Keep soap water away from eyes.
-- **s3 (6 min)**  
+  - Note: Use a bar of washing soap or bathing soap, or washing powder. Some mild liquid hand washes and shampoos do not turn haldi red.
+- **s3 (4 min)**  
   *Parent does:* 1. Mix half a teaspoon of haldi with three spoons of water. 2. Paint it thickly on the paper with fingers or a brush. 3. Draw six boxes in pencil and write or draw a liquid in each.  
   *Parent says:* Paint the whole paper yellow. Make it nice and thick. Now we draw six boxes, one for each liquid.  
   *Child mode:* Paint the paper yellow with haldi. Draw six boxes.
-  - Note: The paper can stay damp. The colour change shows even better on damp haldi.
-- **s4 (6 min)**  
+  - Note: The paper can stay damp. The colour change shows even better on damp haldi. Haldi stains clothes and fingers, so wear old clothes.
+- **s4 (5 min)**  
   *Parent does:* 1. Dip a clean cotton bud in plain water. 2. Dab it in the first box. 3. Wait and watch for ten seconds. 4. Mark the table. 5. Do the same for each liquid, with a clean bud each time.  
   *Parent says:* One drop, in its own box. Watch it. Is it red or yellow? Now the next one, with a clean bud.  
   *Child mode:* Dab one liquid in its box. Watch. Is it red?
-  - Note: Soap water turns the haldi deep red at once. Cooking soda water usually turns it orange-red. Water, lemon, salt and sugar leave it yellow. If the soap box stays yellow, try a different soap bar or washing powder.
+  - Note: Soap water turns the haldi deep red at once. Cooking soda water usually turns it orange-red. Water, lemon, salt and sugar leave it yellow. If the soap box stays yellow, try a different soap bar or washing powder. Dab small drops, far apart, so the boxes do not run into each other.
 - **s5 (4 min)**  
-  *Parent does:* Look at the paper and the table together. Ask for a claim, the evidence and a reason.  
+  *Parent does:* Look at the paper and the table together. Ask which liquids turned the haldi red and how your child knows.  
   *Parent says:* What did you find out? Which liquids turned haldi red? How do you know? Was any guess different from what happened?  
   *Child mode:* Which liquids turned it red? How do you know?
   - Ask: Which ones turned it red? (good: Soap and cooking soda.; The soap one went the reddest.)
@@ -258,7 +257,6 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 - **question:** Once soap has turned haldi red, can we turn it yellow again?
 - **predict:** Guess first. Will the red spot stay red for ever? Could lemon, water or salt water change it back? Why do you think so?
 - **fair test:** We put one drop of a different liquid on each red spot. All the red spots were made with the same soap water. Only the liquid we add changes.
-- **safety:** Keep lemon juice and soap water away from eyes.
 - **record:** Draw three red spots and colour each one the way it looked after you added a liquid.
 - **results table:** Liquid added to the red spot | My guess | What I saw
 - **s1 (3 min)**  
@@ -267,14 +265,15 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Child mode:* Can a red spot go yellow again? What could do it?
   - Ask: What could turn it yellow? (good: Water could wash it away.; Lemon, because lemon kept it yellow before.)
 - **s2 (6 min)**  
-  *Parent does:* Add a few drops of plain water to spot one, salt water to spot two and lemon juice to spot three. Watch for half a minute.  
+  *Parent does:* Add a few drops of plain water to spot one and salt water to spot two. Add just two or three drops of lemon juice to spot three. Watch for half a minute.  
   *Parent says:* Water on the first. Salt water on the second. Lemon on the third. Watch closely.  
   *Child mode:* Add one liquid to each red spot. Watch.
   - Note: The lemon spot fades to orange and then yellow. It may need a few more drops. Water and salt water leave the spot red.
 - **s3 (3 min)**  
-  *Parent does:* Add soap water to the yellow lemon spot again. Talk about what you saw.  
+  *Parent does:* Rub the wet soap bar on the yellow lemon spot. If it stays yellow, rub more soap on. Talk about what you saw.  
   *Parent says:* Now soap on the lemon spot. What happens? What does that tell us?  
   *Child mode:* Put soap on it again. What happens?
+  - Note: Lemon used up the soap first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon.
   - Check: Soap made haldi red. Lemon made it yellow again. What happens if you add soap again? → **It goes red again**
 
 ## Activities
@@ -296,7 +295,6 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Parent says:* Draw one thing you noticed. I'll write your question under it.  
   *Child mode:* Draw one thing. Tell me your question.
 ### a2 · The Secret Red Message (15 min)
-- **safety:** Keep soap water away from eyes. Haldi stains clothes, so work on newspaper.
 - **record:** The secret message paper, with the red writing on yellow.
 - **s1 (5 min)**  
   *Parent does:* 1. Make the soap water. 2. Your child dips a cotton bud and writes a word or draws a shape on the white paper. 3. Let it dry under the fan for about five minutes.  
@@ -316,8 +314,8 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 ### a3 · Be Tu Youyou: the clue in the old book (12 min)
 - **record:** Tell the story back to a family member, using the four clue cards.
 - **s1 (3 min)**  
-  *Parent does:* Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in cold water. Card 2 says: Try again and again. Card 3 says: Heat can spoil a medicine. Card 4 says: Test carefully, to be safe. Then tell the short story.  
-  *Parent says:* Long ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.  
+  *Parent does:* Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in water and squeeze out the juice. Card 2 says: Most medicines are boiled, but this one says soak. Card 3 says: Try again and again. Card 4 says: Test carefully, to be safe. Then tell the short story.  
+  *Parent says:* More than fifty years ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.  
   *Child mode:* Tu Youyou looked for a medicine in old books. Find her clues!
 - **s2 (5 min)**  
   *Parent does:* Your child hunts for the cards. Read each one aloud when it is found.  
@@ -325,11 +323,11 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Child mode:* Find a clue. What does it say?
   - Note: This is a game. The leaf and water are pretend. Never make or drink a medicine from a plant at home.
 - **s3 (4 min)**  
-  *Parent does:* Act out the story. Your child is Tu Youyou. You are her team.  
-  *Parent says:* Tu Youyou read that the plant was soaked in cold water. But people usually boiled plants to make medicine. What did she wonder?  
-  *Child mode:* You are Tu Youyou. You read 'cold water'. What do you wonder?
-  - Ask: What did she wonder? (good: Maybe heat spoils the medicine.; Why cold water and not hot?)
-  - Check: Tu Youyou guessed that heat was spoiling the medicine. What did she do next? → **She made it without much heat and tested it**
+  *Parent does:* Act out the story. Your child is Tu Youyou and you are her team. Your child holds the leaf in the cup of cool water, squeezes it, and says what she wonders.  
+  *Parent says:* Tu Youyou read that the plant was soaked in water and the juice squeezed out. It did not say to boil it. But people usually boiled plants to make medicine. What did she wonder?  
+  *Child mode:* You are Tu Youyou. You read 'soak and squeeze'. What do you wonder?
+  - Ask: What did she wonder? (good: Maybe heat spoils the medicine.; Why soak it and not boil it?)
+  - Check: In the clue hunt, the old book gave Tu Youyou a clue. What did her test do? → **It showed whether her guess was right**
 
 ## Projects
 ### p1 · My Wonder Book: three days (24 min, 3 days)
@@ -347,7 +345,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Wait: Do this the next day
 - **s3 (6 min)**  
   *Parent does:* Your child reads the book to someone, with your help.  
-  *Parent says:* Read your book to Appa or Paati. Tell them what you found, and what you want to find out next.  
+  *Parent says:* Read your book to someone in the family. Tell them what you found, and what you want to find out next.  
   *Child mode:* Read your book to someone. Tell them what you found.
   - Ask: What did your test show? (good: The steel spoon sank and the plastic one floated.; The cloth in the sun dried first.)
   - Wait: Do this the next day
@@ -355,7 +353,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 ## Challenges
 ### c1 · The Hidden Festival Card (20 min)
 - **problem:** Make a card for Pongal, Onam, Diwali, Eid, Christmas or a birthday. The message inside must be hidden, and appear only when someone brushes it with haldi water.
-- **your turn:** Now design your own hidden card. Test it on a spare paper first. Did the message stay hidden until it was brushed?
+- **your turn:** Now design your own hidden card. Did the message stay hidden until it was brushed? What would you change?
 - **constraints:** The message must be hard to see before it is revealed.; Use only things from home.; Your friend must be able to reveal it on their own, with your instructions.
 - **general:** Write the message in soap water and let it dry.; Draw a picture on the front with crayons.
 - **creative:** Write the instructions on the front: 'Brush me with haldi water!'; Draw a kolam or a rangoli pattern in soap water, so a pattern appears in red.; Send a little packet of haldi with the card.
@@ -365,14 +363,14 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Child mode:* How will you hide your message? What will it say?
   - Ask: How could you hide it? (good: Write it in soap water.; Use soap, because soap turns haldi red.)
 - **s2 (10 min)**  
-  *Parent does:* Your child writes the message or draws a pattern in thick soap water and lets it dry. Then they decorate the outside.  
+  *Parent does:* Your child writes the message in thick soap water on the card, and on a spare paper the same way. Let both dry. Then they decorate the outside.  
   *Parent says:* Write your message in soap water. Let it dry. Now decorate the front.  
   *Child mode:* Write in soap water. Let it dry. Decorate the front.
-  - Note: Test a small piece first. Thin soap water may give only a faint pink.
+  - Note: Thin soap water may give only a faint pink, so go over the letters twice.
 - **s3 (5 min)**  
-  *Parent does:* Test a spare paper made the same way. Talk about it.  
-  *Parent says:* Did the message stay hidden? Did it appear when you brushed it? What would you change?  
-  *Child mode:* Did it stay hidden? Did it appear? What would you change?
+  *Parent does:* Brush haldi water on the spare paper. Talk about it.  
+  *Parent says:* Did the message stay hidden? Did it appear when you brushed it?  
+  *Child mode:* Did it stay hidden? Did it appear?
 
 ## Worksheets
 ### Being a Scientist (core) (core, 10 questions)
@@ -380,23 +378,22 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
    **Answer:** soap water → Turned red; lemon juice → Stayed yellow; salt water → Stayed yellow; cooking soda water → Turned red; plain water → Stayed yellow. *Why:* A strong answer comes from the child's own haldi paper, not from memory. If their soap box stayed yellow, they may have used a mild hand wash.
 2. (draw) Draw your haldi paper. Colour the boxes that went red.  
    **Answer:** A yellow paper with red boxes for soap and cooking soda.. *Why:* A strong drawing shows which liquid was in each box, and colours only those that changed.
-3. (mcq) Remember the Haldi Test? You put lemon juice on the yellow haldi. What happened?  
-   Options: It turned red / It stayed yellow / It turned blue  
-   **Answer:** It stayed yellow. *Why:* Lemon juice leaves haldi yellow. Many children guess lemon will turn it red, because it is sour and strong.
+3. (mcq) In the story, Meenakshi rubbed the haldi paper hard with a dry finger and it stayed yellow. What did that show?  
+   Options: Rubbing is not what turns haldi red / Haldi never changes / Soap is not needed  
+   **Answer:** Rubbing is not what turns haldi red. *Why:* She tried the rubbing on its own, and nothing changed. So the red came from something else: the soap.
 4. (match) Draw a line from each person to what they found.  
    **Answer:** Tu Youyou → a medicine for malaria; Mary Anning → fossil bones of a sea animal; Janaki Ammal → new kinds of sugarcane; You → which liquids turn haldi red. *Why:* Each of these people was curious, asked a question and found something out. That includes you.
 5. (truefalse) Only grown-ups can make discoveries.  
    **Answer:** False. *Why:* False. Mary Anning found famous fossils as a girl. You made a discovery in the haldi test.
 6. (write) Say it to a grown-up, who writes it down: how do you know soap turns haldi red?  
    **Answer:** I put soap water on haldi paper and the spot went red. The other boxes stayed yellow.. *Why:* A strong answer uses evidence from the test, what the child saw, not just 'Paati said so'.
-7. (label) Here is a girl being a scientist. Put an E on what she notices with, a Q on her question, and an H on what she tests with.  
+7. (fill) Fill the gap: A scientist notices something, asks a ____, and tries things to find out.  
+   **Answer:** question. *Why:* A scientist starts with a question. Then she tries things to find the answer.
+8. (label) Here is a girl being a scientist. Put an E on what she notices with, a Q on her question, and an H on what she tests with.  
    **Answer:** E on her eyes, Q on the question mark above her head, H on her hands holding the cotton bud.. *Why:* Scientists notice with their senses, ask questions and test with their hands and tools.
-8. (odd) Which one is NOT a question?  
+9. (odd) Which one is NOT a question?  
    Options: Why is the sky blue? / How do ants find sugar? / The fan is on. / Where do clouds go?  
    **Answer:** 2. *Why:* 'The fan is on' tells us something. The others ask something. Scientists start with questions.
-9. (mcq) Who taught Paati something new in the story?  
-   Options: Meenakshi, aged six / A teacher at school / The television  
-   **Answer:** Meenakshi, aged six. *Why:* Meenakshi asked why, and tested soap, water and rubbing. Paati learned with her. A child can teach a grown-up.
 10. (perspective) Two friends in Chennai talk about scientists.  
    **Answer:** Many children agree with Farhan, because they did the haldi test at home and found something out. Lakshmi is right that many scientists work in laboratories and learn a lot.. *Why:* A strong answer uses evidence, like Mary Anning on the beach or the haldi test in the kitchen. It is also fair to the other side.
 ### Curious People (stretch) (stretch, 10 questions)
@@ -407,20 +404,20 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 3. (mcq) Your hidden soap word turned red when you brushed haldi on it. What does that show?  
    Options: The soap was still there, though you could not see it / Haldi can read / The paper was red  
    **Answer:** The soap was still there, though you could not see it. *Why:* The dried soap was hard to see, but it was still on the paper. The haldi showed where it was.
-4. (fill) Fill the gap: A guess becomes knowledge only after we ____ it.  
+4. (truefalse) A strange new idea must be wrong.  
+   **Answer:** False. *Why:* False. A strange idea is not always wrong, and not always right. Scientists test it to find out.
+5. (fill) Fill the gap: A guess becomes knowledge only after we ____ it.  
    **Answer:** test. *Why:* A guess is an idea. A test shows whether the idea is right.
-5. (write) Say it to a grown-up, who writes it down: what is one question you wonder about? How could you test it?  
+6. (write) Say it to a grown-up, who writes it down: what is one question you wonder about? How could you test it?  
    **Answer:** For example: Does a wet cloth dry faster in the sun? I could hang one in the sun and one in the shade and check which dries first.. *Why:* A strong answer has a real question and a test that changes only one thing.
-6. (truefalse) Tu Youyou's team tested hundreds of old recipes, and most did not work against malaria.  
-   **Answer:** True. *Why:* True. Testing showed which recipe worked. An old book gave a clue, and testing showed it was right.
 7. (perspective) Meera, a girl in Hyderabad, and her grandfather talk about the old book.  
    **Answer:** Neither is fully right. The old book gave Tu Youyou a clue, but most old recipes did not work. She tested them to find out which one did.. *Why:* A strong answer says that an old idea and a new idea both need testing. It gives each person credit for part of their view.
-8. (label) Here is a map of the world. Put a T where Tu Youyou worked, an R where C. V. Raman worked, and an M where Mary Anning found fossils.  
+8. (truefalse) Scientists share what they find, so other people can test it too.  
+   **Answer:** True. *Why:* True. A discovery made in one country, like the malaria medicine, can be tested and used in every country.
+9. (label) Here is a map of the world. Put a T where Tu Youyou worked, an R where C. V. Raman worked, and an M where Mary Anning found fossils.  
    **Answer:** T on China, R on India, M on England.. *Why:* Discoveries come from every part of the world. A strong answer puts T in China, R in India and M in England.
-9. (match) Match each thing to what it does to haldi.  
+10. (match) Match each thing to what it does to haldi.  
    **Answer:** soap → turns it red; lemon juice → keeps it yellow; cooking soda → turns it orange-red; lemon on a red spot → turns it yellow again. *Why:* Soap and cooking soda turn haldi red. Lemon keeps it yellow, and turns red haldi yellow again.
-10. (write) Many people have seen haldi stains go red and never asked why. Say it to a grown-up: why do you think they never asked?  
-   **Answer:** For example: They were busy. They saw it so often that it did not seem strange.. *Why:* A strong answer sees that things we see every day stop surprising us. Scientists keep asking about ordinary things.
 
 ## Videos
 - **Tu Youyou and the malaria medicine: a short film** (, 4 min) id `to find`: Tells the true story of how Tu Youyou found artemisinin in an old book and tested it. *Check:* Find a real, accurate film suitable for young children, for example from the Nobel Prize channel. Check it says she used a low-heat method, and that the clue came from Ge Hong's book.
@@ -442,7 +439,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
    **Answer:** So we could tell which liquid made the colour change. *Why:* If two liquids touched the same box, we would not know which one changed the colour. One liquid in each box keeps the test fair.
 5. (mcq) Tu Youyou found a clue for her medicine. Where?  
    Options: In a very old book of medicine / On the Moon / In a dream  
-   **Answer:** In a very old book of medicine. *Why:* She read a book written about 1,600 years ago. It said to soak the plant in cold water.
+   **Answer:** In a very old book of medicine. *Why:* She read a book written about 1,700 years ago. It said to soak the plant in water and squeeze out the juice.
 6. (mcq) Tu Youyou guessed that heat was spoiling the medicine. How did she find out if she was right?  
    Options: She asked a king / She made it without much heat and tested it / She stopped looking  
    **Answer:** She made it without much heat and tested it. *Why:* She tested her guess. The medicine made without much heat worked.
@@ -455,9 +452,9 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 9. (mcq) A red soap spot is on yellow haldi paper. You add lemon juice. What happens?  
    Options: It turns black / It turns yellow again / It gets more red  
    **Answer:** It turns yellow again. *Why:* Lemon turns the red haldi colouring back to yellow.
-10. (mcq) Paati saw haldi stains go red for sixty years. Why did she only find out what did it when Meenakshi asked?  
-   Options: Because they asked a question and tested it / Because the soap was new / Because Paati was old  
-   **Answer:** Because they asked a question and tested it. *Why:* Seeing something is the start. Asking why and testing is how you find out.
+10. (mcq) Aryabhata lived in India about 1,500 years ago. What did he write about the Earth?  
+   Options: It spins round / It is flat / It is a square  
+   **Answer:** It spins round. *Why:* Aryabhata wrote in the year 499 that the Earth spins. People in every land have made discoveries.
 
 ## Applications
 - Doctors test new medicines carefully before people use them, the way Tu Youyou did.
@@ -476,7 +473,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 ## Open questions
 - **Why are some people more curious than others?** Scientists still argue about this. Some think it is how we are born, and some think it is how we are brought up. Most think it is both.
 - **What will be the next big discovery?** Nobody knows. A big discovery is something nobody knows yet, so nobody can say what it will be.
-- **Are other animals curious the way we are?** Crows, octopuses, rats and many other animals explore new things. Scientists are still finding out what curiosity is like for each of them.
+- **What is curiosity like for a crow, an octopus or a rat?** Crows, octopuses, rats and many other animals explore new things. Scientists are still finding out what curiosity is like for each of them.
 
 ## Questions to ask kids
 - What did you notice today that you had never noticed before?
@@ -490,16 +487,15 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 - What is a scientist's favourite word? *Why?*
 - Why did the curious girl bring a ladder to school? *She wanted to find out what was on the top shelf.*
 - What did the yellow spot say to the lemon? *Thanks for making me myself again!*
-- Why did the question mark go to the doctor? *Nobody had an answer for him.*
 - What do you call a scientist who reads old books? *A page-turner!*
 - Why was the soap so good at secrets? *Its messages stay hidden until haldi comes along.*
 - Why did the crow sit on the wire all day? *To find out if wires are comfy.*
 - Why did Meenakshi stare at the fan all night? *She was a fan of finding out!*
 
 ## Connected maths
-- Meenakshi tested 6 liquids on haldi. 2 turned it red. How many stayed yellow? **4 liquids stayed yellow.**. 6 liquids in all. 2 went red. 6 take away 2 is 4. (queues `math.addition-subtraction.meaning.L1`)
-- Lakshmi guessed that 4 liquids would turn haldi red. Only 2 did. Was her guess too many or too few? By how many? **Too many, by 2.**. 4 is more than 2. 4 take away 2 is 2. She guessed 2 more than really turned red. (queues `math.number-sense.comparing-ordering.L1`)
-- Arjun made a tally of the colours in his test: red, yellow, yellow, red, yellow, yellow. Make tally marks for red and for yellow. Which colour came up more? **Red: 2 tally marks. Yellow: 4 tally marks. Yellow came up more.**. Count each colour and make one mark for each. Yellow has 4 marks and red has 2, so yellow came up more. (queues `math.data.sorting-and-tallies.L1`)
+- In the story, Meenakshi tested 6 liquids on haldi. 2 turned it red. How many stayed yellow? **4 liquids stayed yellow.**. 6 liquids in all. 2 went red. 6 take away 2 is 4. (queues `math.addition-subtraction.meaning.L1`)
+- Lakshmi, a girl of six, guessed that 4 liquids would turn haldi red. Only 2 did. Was her guess too many or too few? By how many? **Too many, by 2.**. 4 is more than 2. 4 take away 2 is 2. She guessed 2 more than really turned red. (queues `math.number-sense.comparing-ordering.L1`)
+- Arjun, Meenakshi's brother in the story, made a list of the colours in his test: red, yellow, yellow, red, yellow, yellow. Make tally marks for red and for yellow. Which colour came up more? **Red: 2 tally marks. Yellow: 4 tally marks. Yellow came up more.**. Count each colour and make one mark for each. Yellow has 4 marks and red has 2, so yellow came up more. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 I Notice, I Wonder, I Try (sci.how-we-know.L1): Topic-level song for How we know L1
@@ -527,7 +523,7 @@ I Notice, I Wonder, I Try (sci.how-we-know.L1): Topic-level song for How we know
 ## Sources
 - ideas/by_topic/how-we-know.md, 'Stories of science and the True/False card game': the founder's true-or-false fact cards. Used for game g1, rewritten for age 6, with each answer saying how people found out. 'Trees don't talk to each other' was left out because it needs more than one line to explain fairly.
 - ideas/by_topic/how-we-know.md, 'Grade concept grid: Fringe Science', Grade 1: new ideas must be tested, not just imagined, and some strange ideas later succeed. Used for the 'challenging' cards and for the guess-then-test thread.
-- ideas/by_topic/how-we-know.md, SCI Cards: Tu Youyou (cold extraction clue from Ge Hong, tested on herself first). Used for how_we_found_out and activity a3.
+- ideas/by_topic/how-we-know.md, SCI Cards: Tu Youyou (low-heat clue from Ge Hong, tested on herself first). Used for how_we_found_out and activity a3.
 - Ladder: Level 3 (sci.how-we-know.stories-of-discovery.L3) is about lucky accidents and missing names, with the Too-Weak Tape Test, Hot or Cold freezing, Jocelyn Bell's pulsar, the curd story, penicillin and the panakam credit game. This unit repeats none of those. It comes first: scientists are curious people who notice, ask and test, and anyone can do it. Level 3 then shows that discoveries often come from surprises and accidents, and asks who gets the credit.
 - Curcumin, the yellow colouring of turmeric, changes from yellow to red-brown as the solution becomes alkaline (above about pH 7.5 to 8.6), and returns to yellow in acid. Bar soap and washing powder are alkaline (about pH 9 to 11). Sodium bicarbonate solution is about pH 8.3 and gives an orange-red. Some mild liquid hand washes are near neutral and give little change. Turmeric paper as an indicator is a standard school activity (NCERT Class 7 Science, acids, bases and salts).
 - Tu Youyou: joined Project 523 in 1969 as head of a research group at the Academy of Traditional Chinese Medicine, Beijing. Her team screened over 2,000 recipes and tested about 380 extracts. Ge Hong's 'Handbook of Prescriptions for Emergencies' (about 340 CE) says to soak a handful of qinghao in water, wring out the juice and drink it. She used a low-temperature ether extraction, and sample 191 was fully effective in mice and monkeys in October 1971. She and colleagues took the extract themselves before the first patient trials in 1972. Nobel Prize in Physiology or Medicine 2015 (shared with William C. Campbell and Satoshi Omura). She had no doctorate, no medical degree and no training abroad. Source: Tu Youyou, Nobel lecture, 2015, and Nobel Prize press release, 2015.

@@ -3,7 +3,7 @@
 
 **Summary.** You can find out what is inside a closed dabba without opening it. Shake it, lift it and tilt it, and the dabba gives you clues. Scientists begin the same way: they notice something, they wonder about it, and they observe closely with all their senses. Your child asks real questions, looks closely at one elaichi pod, and finds out what is hidden in three closed dabbas. They also hear how Inge Lehmann found a ball in the middle of the Earth that nobody has ever seen.
 
-**Intro.** *Amma's steel dabba is shut tight. You shake it, and it goes shhh, like rain. What do you think is inside? How could you know without opening it?* You just found a clue with your ears. A clue is something you notice that helps you work out something hidden. Scientists are people who find out about the world. They start by noticing and wondering, just like you. Then they look, listen, smell and touch very carefully. In this unit you become a finder-out. You ask your own questions, and you work out what is inside closed dabbas.
+**Intro.** *A steel dabba is shut tight. You shake it, and it goes shhh, like rain. What do you think is inside? How could you know without opening it?* You just found a clue with your ears. A clue is something you notice that helps you work out something hidden. Scientists are people who find out about the world. They start by noticing and wondering, just like you. Then they look, listen, smell and touch very carefully. In this unit you become a finder-out. You ask your own questions, and you work out what is inside closed dabbas.
 
 ## Learning outcomes
 0. By the end I can ask a question about something I notice, starting with what, how or why.
@@ -14,7 +14,7 @@
 
 ## Terms
 - **Question**: A question is what you ask when you want to find out something. Many questions start with what, how or why. *e.g.* Why does the pressure cooker whistle?
-- **Observe**: To observe means to notice something very carefully, using your eyes, ears, nose and hands. A scientist observes before saying what something is. *e.g.* Arjun observed an ant. He saw her carry a grain of sugar bigger than her head.
+- **Observe**: To observe means to notice something very carefully, using your eyes, ears, nose and hands. A scientist observes before saying what something is. *e.g.* Rani, a girl in Class 1, watched an ant. The ant carried a crumb bigger than her own head.
 - **Clue**: A clue is something you notice that helps you work out something you cannot see. Scientists call clues evidence. *e.g.* Wet footprints on the floor are a clue that someone just had a bath.
 - **Scientist**: A scientist is a person who asks questions about the world, and finds out by observing and testing. Anyone who does this is doing science, children too. *e.g.* When you shake a dabba to find out what is inside, you are doing what a scientist does.
 
@@ -22,30 +22,30 @@
 ### Science begins with wondering · *defined*
 **Definition:** To wonder is to notice something and ask yourself a question about it: what is it, how does it work, or why does it happen?
 
-Every bit of science started with someone who noticed something and asked a question. You do it all day. Why is the sky dark at night? How does a spider make a web? A good question makes you want to go and look. Some questions have answers that grown-ups know. Some have answers that nobody knows yet. Both kinds are worth asking.
-- e.g. In 1921, C. V. Raman was on a ship, looking at the deep blue sea. He wondered why it was so blue. He found out that water itself spreads out blue light, so the sea is blue for its own reason, and not only because it shows the sky.
-- e.g. Kavya hears a tap-tap at her window every morning. She wonders who is tapping, and why.
+You notice something and ask a question about it. Why is the sky dark at night? How does a spider make a web? Some answers are known, and some nobody knows yet.
+- e.g. In 1921, C. V. Raman was on a ship and looked at the deep blue sea. He wondered why it was so blue. He found that the water itself sends blue light in all directions, not only the sky.
+- e.g. In the story, Kavya, a girl in Bengaluru, hears a tap-tap at her window every morning. She wonders who is tapping, and why.
 - e.g. A child sees the moon in the day sky and asks, 'Why is the moon out when the sun is out?'
 ### Observing means using all your senses carefully · *defined*
 **Definition:** To observe is to notice carefully with your eyes, ears, nose and hands, and to look again instead of only once.
 
-A quick look tells you a little. A slow, close look tells you much more. Turn the thing over. Listen to it. Smell it. Feel if it is rough or smooth, heavy or light. Each sense gives you different clues. Scientists taste things only when they know they are food. A mystery thing is never tasted.
+A quick look tells you a little. A slow look with eyes, ears, nose and hands tells you much more. Never taste a mystery thing.
 - e.g. One elaichi pod looks small and green. Look closer and you see lines on the skin. Shake it, and you hear the seeds inside. Crack it open, and a strong smell comes out.
 - e.g. A doctor listens to your chest, taps your back and looks in your throat. Each one gives her a different clue.
 - e.g. A cook in Kolkata listens to the oil crackle and smells the mustard to know when to add the fish.
 ### Clues tell us about things we cannot see · *defined*
 **Definition:** A clue is something we can sense that tells us about something we cannot sense directly. Scientists call clues evidence, and then they check them.
 
-You cannot see inside a shut dabba. But a shhh sound tells you there are many small things inside. A thump and a roll tell you there is one round thing. Then you open it and check. Scientists find out about many hidden things this way, like what is deep inside the Earth. They use clues first, and they check whenever they can.
+You cannot see inside a shut dabba. A shhh sound tells you there are many small things inside. Then you open it and check.
 - e.g. A shut dabba that goes shhh when shaken probably holds rice, dal or salt.
 - e.g. Little holes in a guava are a clue that someone has been eating it, maybe a parrot or a squirrel.
 - e.g. Nobody has been to the middle of the Earth. Scientists found out what is there from the shaking of earthquakes.
 ### Other living beings find out about the world too · *debated*
-Every living being finds out about the world. A crow turns their head to look at a new thing with one eye, then the other. An ant taps a crumb with her feelers before she carries it. A plant's roots grow towards water in the soil. Scientists still argue about whether these beings wonder the way we do.
-- e.g. A crow on the balcony walks around a new shiny spoon, looks at the spoon, and pecks it once before picking it up.
+Every living being is aware of the world and finds out about it. A crow looks at a new thing with one eye, then the other. An ant taps a crumb with her feelers. A plant's roots sense water and grow towards water. Scientists still argue about whether they wonder the way we do.
+- e.g. A crow on the balcony walks around a new shiny spoon, looks at it from every side, and pecks it once before picking it up.
 - e.g. Ants touch each other with their feelers when they meet, and find out who is from their nest.
 - e.g. A puppy sniffs every corner of a new room before settling down.
-- **Many scientists who study animal minds:** Crows, parrots, rats, octopuses and many other animals explore new things, even when there is no food. To them this looks like curiosity, the wish to find out.
+- **Many scientists who study animal minds:** Crows, parrots, rats, octopuses and many other animals explore new things, even when there is no food. These scientists say this is curiosity, the wish to find out.
 - **Some other scientists:** They say we can see that animals explore, but we cannot know if they wonder or ask questions inside, because they cannot tell us in words.
 
 ## Mostly agreed
@@ -69,19 +69,19 @@ Every living being finds out about the world. A crow turns their head to look at
   Against: Scientists make many wrong guesses. A wrong guess that is checked still teaches something, because it shows which clue fooled you.
 
 ## Roots
-We have asked questions, looked closely at an elaichi pod, and found out what was inside closed dabbas. Now we ask what the Mystery Dabba test tells us about knowing.
+We have asked questions, looked closely at an elaichi pod, and found out what was inside closed dabbas. Now we ask what the Mystery Dabbas experiment tells us about knowing.
 
 **Deep truth.** You never saw inside the closed dabbas. Still, shaking, tilting and lifting told you what each one held. When you opened the lids, you could check your clues. People found out what is in the middle of the Earth the same way, without ever seeing it.  
 *Habit it breaks:* We think we know a thing only when we see it. The test shows that sounds, weight and movement carry true clues about hidden things, and that we can check those clues afterwards.  
-*Evidence:* In the Mystery Dabba test, rice went shhh and slid, the lemon bumped and rolled, and the cotton ball was almost silent and very light. The child named what was inside from these clues, then opened the lids to check.
+*Evidence:* In the Mystery Dabbas experiment, rice went shhh and slid, the lemon bumped and rolled, and the cotton ball was almost silent and very light. The child named what was inside from these clues, then opened the lids to check.
 
 - *who am i:* You are a finder-out. Your eyes, ears, nose and hands bring you clues all day long.
 - *what is life:* Every living being finds out about the world. An ant feels with her feelers, and a crow looks with one eye, then the other.
 - *what is this world:* The world is full of hidden things, like the inside of a dabba or the middle of the Earth. Everything that happens leaves clues.
 
-The lemon in the dabba could not be seen, but it was never cut off from you. When you shook the dabba, the lemon moved, the steel rang, the air carried the sound, and your ear caught it. An earthquake shakes the whole Earth, and the shaking reaches machines on the far side of the world. Everything touches everything else, so nothing is ever fully hidden. Finding out is one part of the world meeting another part.
+The lemon in the dabba was hidden, but you still found it. When you shook the dabba, the lemon knocked the steel, the air carried the sound, and your ear caught it. An earthquake works the same way: the Earth shakes, and machines far away feel it. A hidden thing that moves sends out clues that we can catch.
 
-- **The blind men and the elephant, told in Jain teaching and in the Buddhist Udana 6.4:** Some men who cannot see each touch one part of an elephant. One feels the trunk and says an elephant is like a snake. One feels a leg and says an elephant is like a pillar. Each one is partly right, and none has the whole elephant. (In the Mystery Dabba test, your ears gave one clue, your hands another, and your nose maybe none. Putting the clues together came closest to the whole answer.)
+- **The blind men and the elephant, told in Jain teaching and in the Buddhist Udana 6.4:** Some men who cannot see each touch one part of an elephant. One feels the trunk and says an elephant is like a snake. One feels a leg and says an elephant is like a pillar. Each one is partly right, and none has the whole elephant. (In the Mystery Dabbas experiment, your ears gave one clue, your hands another, and your nose maybe none. Putting the clues together came closest to the whole answer.)
 - **Kena Upanishad 1.2:** The Upanishad asks: what is it that is the ear of the ear and the eye of the eye? Something in you hears through your ears and sees through your eyes. (Your ears heard the shhh, but something in you put the clues together and said 'rice'. The Upanishad asks you to wonder about that knower too.)
 - Science (settled): In 1936, Inge Lehmann used earthquake shaking to show that the Earth has an inner core, a ball inside a ball. Nobody has ever seen it.
 - Science (debated): Crows, parrots, octopuses and many other animals explore new things even when there is no food. Scientists still argue about whether this is the same curiosity we feel.
@@ -128,7 +128,7 @@ Kavya looked closely. The morning sun was shining on the glass. In the glass she
 
 'He is not fighting the window,' Kavya whispered back. 'He sees a bird in the glass. He thinks another bird has come to his ledge.'
 
-At breakfast, Kavya told Amma everything. Amma smiled. 'That is a magpie robin,' she said. 'At this time of year, the father birds chase other father birds away from the places where they make their nests.'
+At breakfast, Kavya told Amma everything. Amma smiled. 'That is a magpie robin,' she said. 'At this time of year, the male birds chase other male birds away from the places where they make their nests.'
 
 'Can you check if you are right?' Amma asked. 'What could you change?'
 
@@ -142,7 +142,7 @@ That afternoon, Kavya and Paati cut stars and moons from old paper and stuck the
 
 Arjun pulled Kavya's sleeve. 'How did you know it was his own picture?'
 
-Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I wondered. Then I watched very quietly and looked closely. Then we tried something to check.'
+Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then I watched very quietly and looked closely. Then we tried something to check.'
 
 'I want to find out something too,' said Arjun.
 
@@ -156,8 +156,8 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
 
 ## Games
 ### g1 · Yes-or-No Detective: find the hidden thing with questions (12 min)
-- **rules:** The thinker looks round the room and secretly picks one thing. They whisper it to a grown-up.; The detectives ask one question at a time. The thinker may only say yes or no.; Spread the question helper cards on the floor. Anyone may pick one up and ask it.; Each question gets one mark on the count sheet.; When a detective thinks they know, they point at the thing and say its name.; Fewer questions is better. Then swap, so everyone gets to be the thinker.
-- **Printable cards: 12 question helper cards:** Is it bigger than my hand?; Is it soft?; Is it alive?; Can it make a sound?; Is it in the kitchen?; Can we eat it?; Is it made of steel?; Is it on the floor?; Does it have a smell?; Is it heavy?; Is it the colour red?; Do we use it every day?
+- **rules:** The thinker looks round the room and secretly picks one thing. The thinker tells no one. If you like, the thinker draws or writes it on a slip, folds it, and keeps it to check at the end.; The detectives ask one question at a time. The thinker may only say yes or no.; Spread the question helper cards on the floor. Anyone may pick one up, and a grown-up reads it out. Put it back after asking. You can also ask your own question.; Each question gets one mark on the count sheet.; When a detective thinks they know, they point at the thing and say its name. If they are right, the round is over. If they are wrong, it still counts as a question.; If nobody has found the thing after 20 questions, the thinker says what it was. Then swap.; Everyone takes a turn as the thinker. The detective who found a thing in the fewest questions wins. With 2 players, compare your two counts, and try to beat them next time.
+- **Printable cards: 12 question helper cards:** Is it bigger than my hand?; Is it soft?; Is it alive?; Can it make a sound?; Is it near the window?; Can we eat it?; Is it made of steel?; Is it on the floor?; Does it have a smell?; Is it heavy?; Is it the colour red?; Do we use it every day?
 - **Printable score sheet: Question count sheet:** Round; Who was the thinker; The hidden thing; How many questions it took
 - **s1 (2 min)**  
   *Parent does:* 1. Spread the question cards. 2. Read three of them aloud. 3. Explain that the answer can only be yes or no.  
@@ -167,7 +167,7 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   *Parent does:* 1. You are the thinker first. Pick something easy, like a pillow. 2. Answer each question with yes or no. 3. Make a mark for each question.  
   *Parent says:* I have picked something. Ask me your first question.  
   *Child mode:* Ask a question. Listen to the answer. Then ask the next one.
-  - Ask: Which question helped you most? Why? (good: 'Is it soft?', because then I knew it was a pillow or a cloth.; 'Is it in the kitchen?', because it took away half the room.)
+  - Ask: Which question helped you most? Why? (good: 'Is it soft?', because then I knew it was a pillow or a cloth.; 'Is it near the window?', because it took away half the room.)
   - Note: Children often start by naming things: 'Is it the fan?' Let them. After a few tries, show how 'Is it soft?' rules out many things at once.
 - **s3 (3 min)**  
   *Parent does:* Swap. Your child is the thinker, and you ask the questions. Think aloud about why you pick each question.  
@@ -176,7 +176,7 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   - Check: Which question tells you the most at the start? → **Is it soft?**
   - Think: What makes a question a good question?
 ### g2 · Question Dice: roll a word, ask a question (12 min)
-- **rules:** Stick the six question words on the six sides of a dice, or write them on six slips of paper and pick one from a bowl.; Put the thing cards in a pile, face down.; A player rolls the dice and turns over the top thing card.; The player asks a question about that thing, starting with the word on the dice. For example: WHY plus A crow makes 'Why do crows caw?'; Everyone claps for every real question. There are no wrong questions.; If nobody at home knows the answer, write the question down to find out later.
+- **rules:** Stick the six question words on the six sides of a dice, or write them on six slips of paper and pick one from a bowl.; Put the thing cards in a pile, face down.; A player rolls the dice and turns over the top thing card. If the word and the thing do not fit together at all, roll again.; The player asks a question about that thing, starting with the word on the dice. For example: WHY plus A crow makes 'Why do crows caw?'; Everyone claps for every real question. There are no wrong questions. Put the card aside.; If nobody at home knows the answer, write the question down to find out later.; The game is won together. You win when all 12 thing cards have a question, and you have written down at least 3 questions to find out later.
 - **Printable cards: 6 question words for the dice faces:** WHAT; WHY; HOW; WHERE; WHEN; WHO
 - **Printable cards: 12 thing cards:** A crow; Rain; A pressure cooker; The Moon; An ant; A banana; A ceiling fan; A coconut; Your shadow; A kolam on the floor; A seed; Ice in a glass
 - **s1 (2 min)**  
@@ -200,7 +200,6 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
 - **question:** Can you find out what is inside a closed dabba without looking? Which of your senses gives you the best clues?
 - **predict:** Guess first. Will you be able to tell what is inside without looking? Which sense will help most: your ears, your hands or your nose? Why do you think so?
 - **fair test:** All three dabbas are the same kind and size, so only what is inside is different. You shake each one the same way, three gentle shakes. You say your guess and your reason for every dabba before any lid comes off.
-- **safety:** A mystery thing is never tasted. Clues come from shaking, lifting, tilting and sniffing at the lid only.
 - **record:** Draw the three dabbas in a row. Under each, draw what you guessed and what was really inside. Put a tick when they match. Next to each, draw an ear, a hand or a nose for the clue that helped most.
 - **results table:** Dabba | What I heard | Heavy or light | Rolls, slides or stays still | My guess | What was really inside
 - **s1 (3 min)**  
@@ -208,25 +207,25 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   *Parent says:* I have hidden one thing in each of these three dabbas. You are not allowed to look inside until the end. Your job is to find out what is in each one.  
   *Child mode:* Three dabbas. One secret thing in each. No peeping!
   - Note: Use dabbas that look the same, so the outside gives no clue. Shut the lids firmly before your child shakes them.
-- **s2 (2 min)**  
+- **s2 (1 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* Do you think you can find out what is inside without looking? Which part of your body will help most? Why do you think so?  
   *Child mode:* Guess. Can you find out without looking? What will help most?
   - Ask: Why do you think so? (good: My ears, because things make sounds when you shake them.; My hands, because I can feel if it is heavy.; Maybe not, because I can't see inside.)
   - Note: Any guess is fine. Do not say what is inside, and do not say which sense works best.
-- **s3 (4 min)**  
+- **s3 (3 min)**  
   *Parent does:* 1. Your child shakes each dabba three times, gently, next to one ear. 2. Ask them to say a word for each sound. 3. Write the word down.  
   *Parent says:* Shake dabba 1 three times, gently. Listen. What does it sound like? Now dabba 2. Now dabba 3.  
   *Child mode:* Shake each one three times. Listen. What does it sound like?
   - Ask: What did each dabba sound like? (good: Number 1 went shhh, like rain on a roof.; Number 2 went bump, like a ball.; Number 3 made no sound at all.)
   - Note: Rice goes shhh, because many small grains hit the steel. The lemon gives one knock and a roll. The cotton ball is almost silent. Do not explain this yet.
-- **s4 (4 min)**  
+- **s4 (3 min)**  
   *Parent does:* 1. Your child lifts two dabbas at once, one in each hand, and says which is heavier. 2. Then they tilt each dabba slowly from side to side and feel what moves.  
   *Parent says:* Hold two dabbas, one in each hand. Which one is heavier? Now tilt each one slowly. Can you feel something roll? Or slide? Or nothing?  
   *Child mode:* Hold two at once. Which is heavier? Now tilt each one slowly. Does something roll?
   - Ask: What did your hands tell you? (good: Number 3 is very light.; Something in number 2 rolled and bumped the end.; Number 1 slid like sand when I tilted it.)
   - Note: The rice and the lemon may feel almost the same weight. That is a real result. Tilting slowly helps more: one round thing rolls and knocks, many grains slide together.
-- **s5 (2 min)**  
+- **s5 (1 min)**  
   *Parent does:* Your child sniffs at the edge of each lid, without opening it.  
   *Parent says:* Now try your nose. Sniff at the edge of each lid. Can you smell anything?  
   *Child mode:* Sniff near each lid. Can you smell anything?
@@ -237,7 +236,7 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   *Parent says:* What do you think is in dabba 1? What clue told you that? And dabba 2? And dabba 3?  
   *Child mode:* Say your guess for each dabba. Say which clue told you.
   - Ask: Why do you think dabba 3 has that inside? (good: Because it made no sound and it was very light, so it is something soft.; Maybe it is empty, because I heard nothing.)
-- **s7 (3 min)**  
+- **s7 (2 min)**  
   *Parent does:* 1. Open dabba 1, then 2, then 3. 2. For each, compare the guess with what is really inside. 3. Ask the check question.  
   *Parent says:* Let's check. Open dabba 1. Were you right? Which clue helped? Now dabba 2 and dabba 3. If a guess was wrong, which clue fooled you?  
   *Child mode:* Open the lids one by one. Was your guess right? What fooled you?
@@ -245,6 +244,11 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   - Note: If your child guessed 'empty' for the cotton ball, praise the reasoning: no sound and very light is exactly what an empty dabba would do. Ask, 'How could we tell empty from cotton next time?'
   - Check: A shut dabba goes shhh when you shake it. What is most likely inside? → **Lots of small grains, like rice**
   - Think: What else could you find out about without looking at it?
+- **s8 (5 min)**  
+  *Parent does:* Swap. Your child hides one thing in each dabba, out of your sight, while you turn your back. Choose from dal, salt, a steel spoon or a twist of paper with atta. You shake, lift and tilt, say your guess and the clue, then open the lids.  
+  *Parent says:* Now you hide something in each dabba, and I will find out without looking. I will think aloud about my clues.  
+  *Child mode:* Hide one thing in each dabba. Don't tell. Can the grown-up find out?
+  - Note: Think aloud as you shake: 'It goes shhh, so many small pieces.' A salt and a dal dabba may sound alike. That is a real result: say which clue could not tell them apart.
 
 ## Activities
 ### a1 · One Elaichi, Four Senses: how many things can you notice? (10 min)
@@ -280,25 +284,25 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   *Parent does:* Read all the questions back. Sort them together into two piles: ones someone at home can answer, and ones nobody at home can answer.  
   *Parent says:* Here are all your questions. Which ones can someone at home answer? Which ones does nobody here know?  
   *Child mode:* Listen to your questions. Which ones does nobody know?
-  - Ask: How could we find out the answer to one we don't know? (good: Look closely at it.; Ask Paati or a teacher.; Try something and see what happens.; Look in a book.)
+  - Ask: How could we find out the answer to one we don't know? (good: Look closely at it.; Ask a grandparent, an older relative or a teacher.; Try something and see what happens.; Look in a book.)
   - Note: Keep the 'nobody knows' slips for the Wonder Jar project.
   - Think: Is a question nobody can answer a bad question, or a good one?
 ### a3 · How Do You Know? Ask a grown-up (10 min)
 - **s1 (2 min)**  
   *Parent does:* Help your child pick a question to ask a grown-up. It could be from the Sticky Questions walk.  
-  *Parent says:* Pick a question about the world to ask Paati. For example, how do you know when rice is cooked?  
+  *Parent says:* Pick a question about the world to ask a grown-up. For example, how do you know when rice is cooked?  
   *Child mode:* Pick a question. Ask a grown-up.
 - **s2 (5 min)**  
   *Parent does:* Your child asks the question, then asks, 'How do you know?' The grown-up answers honestly.  
   *Parent says:* Now ask the second question: How do you know?  
   *Child mode:* Now ask: How do you know?
-  - Ask: How did they find out? (good: She saw it herself.; Somebody told her.; She tried it lots of times.; She read it in a book.)
+  - Ask: How did they find out? (good: They saw it themselves.; Somebody told them.; They tried it lots of times.; They read it in a book.)
   - Note: Grown-ups often say 'Someone told me.' That is a good answer to talk about. Ask, 'How did that person find out?'
 - **s3 (3 min)**  
   *Parent does:* Your child draws how the grown-up found out: by looking, by being told, or by trying it.  
-  *Parent says:* Draw how Paati found out. Did she see it, hear it from someone, or try it?  
+  *Parent says:* Draw how the grown-up found out. Did they see it, hear it from someone, or try it?  
   *Child mode:* Draw how they found out. Did they look, hear or try?
-  - Check: Paati knows rice is cooked when it is soft. How did she find out? → **She pressed many grains of rice, many times, and saw which ones were cooked**
+  - Check: A grown-up knows rice is cooked when it is soft. How did they find out? → **They pressed grains of rice, many times, and saw which were soft**
 
 ## Projects
 ### p1 · The Wonder Jar: one question a day (25 min, 5 days)
@@ -315,7 +319,7 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   - Wait: Do one question each day.
 - **s3 (5 min)**  
   *Parent does:* Help your child find the answer by asking someone: a grandparent, a neighbour, or a teacher on the phone.  
-  *Parent says:* Who might know the answer? Let's ask them. Then ask, 'How do you know?'  
+  *Parent says:* Who might know the answer? Let's ask them.  
   *Child mode:* Today, ask someone who might know.
 - **s4 (5 min)**  
   *Parent does:* Help your child find the answer by trying something safe.  
@@ -329,8 +333,8 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
 
 ## Challenges
 ### c1 · Count the Coins Without Looking (15 min)
-- **problem:** Amma has put some one-rupee coins in a closed dabba. Is it 1 coin, 3 coins or 6 coins? How can you find out without opening the lid?
-- **your turn:** Now you hide some coins in a dabba for Amma. Can she find out how many, without looking?
+- **problem:** A grown-up has put some one-rupee coins in a closed dabba. Is it 1 coin, 3 coins or 6 coins? How can you find out without opening the lid?
+- **your turn:** Now you hide some coins in a dabba for a grown-up. Can they find out how many, without looking?
 - **constraints:** You may not open the dabba until the end.; You may use a second, empty dabba of the same kind, and some coins of your own.; You must say your answer and your reason before you open it.
 - **general:** Shake it and listen. One coin clinks once. Many coins jingle.; Lift it and feel the weight. More coins are heavier.
 - **creative:** Fill the second dabba with 1 coin, then 3, then 6. Shake both, one in each hand, and find the one that sounds the same.; Hold both dabbas, one in each hand, and add coins to yours until they feel equally heavy.
@@ -351,33 +355,32 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
   - Check: Your dabba with 3 coins sounds just like the secret dabba. What does that tell you? → **The secret dabba probably has 3 coins too**
 
 ## Worksheets
-### Noticing and Wondering (core) (core, 11 questions)
+### Noticing and Wondering (core) (core, 10 questions)
 1. (label) Here is an elaichi pod, opened. Say a word for each part, and a grown-up writes it: the outside skin, the inside, and the seeds.  
    **Answer:** ['green, with lines, dry and papery', 'pale and soft', 'small, black and sticky, with a strong smell']. *Why:* A strong answer uses more than one sense for a part: what it looks like, what it feels like, or how it smells.
 2. (match) Draw a line from each sound to what might be inside the shut dabba.  
    **Answer:** Shhh, like rain → Rice; One bump and a roll → A lemon; Almost nothing → A cotton ball; Clink, clink → A steel spoon. *Why:* Many grains make a shhh. One round thing bumps and rolls. Soft things are almost silent. Metal on metal clinks.
-3. (mcq) Kavya hears a tap-tap at her window every morning. What is the best thing to do first?  
+3. (mcq) In a story, Kavya, a girl in Class 1, hears a tap-tap at her window every morning. What is the best thing to do first?  
    Options: Watch quietly to see what makes the sound / Say it is a ghost / Shut the curtain and forget it  
    **Answer:** Watch quietly to see what makes the sound. *Why:* Watching quietly is observing. It gives real clues. Kavya watched and saw a bird pecking at his own reflection.
 4. (draw) Draw something at home that you wonder about. Then say your question out loud, and a grown-up writes it.  
    **Answer:** A drawing of one thing, and a question about it that starts with what, why or how.. *Why:* A strong answer has a real question that the child wants to find out, such as 'Why does the fridge hum?'
 5. (truefalse) You can find out about a thing without seeing it.  
-   **Answer:** True. *Why:* True. In the Mystery Dabba test, sounds, weight and rolling told you what was inside before you looked.
-6. (truefalse) It is safe to taste anything to find out what it is.  
-   **Answer:** False. *Why:* False. Some things are not safe to eat. We taste only things we know are food.
-7. (sort) Some sentences ask. Some sentences tell. Circle the asking ones in green and the telling ones in blue.  
+   **Answer:** True. *Why:* True. In the Mystery Dabbas experiment, sounds, weight and rolling told you what was inside before you looked.
+6. (sort) Some sentences ask. Some sentences tell. Circle the asking ones in green and the telling ones in blue.  
    **Answer:** Why is the sky blue? → Asks a question; The sky is blue. → Tells something; How do ants find sugar? → Asks a question; Ants like sugar. → Tells something; What is inside a coconut? → Asks a question. *Why:* A question asks for something you want to find out. It often starts with what, how or why.
-8. (odd) Three of these words can start a question. Which one cannot?  
+7. (odd) Three of these words can start a question. Which one cannot?  
    Options: Why / How / Mango / What  
    **Answer:** 2. *Why:* Why, how and what are question words. Mango is the name of a fruit.
-9. (write) Say out loud, and a grown-up writes it: in the Mystery Dabba test, which clue helped you most, and why?  
+8. (write) Say out loud, and a grown-up writes it: in the Mystery Dabbas experiment, which clue helped you most, and why?  
    **Answer:** For example: the sound, because the rice went shhh and the lemon went bump.. *Why:* A strong answer names one clue and says how it pointed to what was inside.
-10. (mcq) Ammu wants to know if her glass of milk is hot. What is the safest way to find out first?  
+9. (mcq) You smell something sweet from the kitchen. What is the best way to find out what it is?  
+   Options: Go and look, and ask what is cooking / Say nothing and wonder all day / Taste everything in the kitchen  
+   **Answer:** Go and look, and ask what is cooking. *Why:* Looking and asking are safe ways to get clues. Tasting unknown things is not.
+10. (mcq) Ammu, a girl in Class 1, wants to know if her glass of milk is hot. What is the safest way to find out first?  
    Options: Look for steam and gently touch the outside of the glass / Gulp it fast / Put her finger in the milk  
    **Answer:** Look for steam and gently touch the outside of the glass. *Why:* Steam and a warm glass are clues from the outside. They tell her the milk is hot without hurting her.
-11. (draw) Draw a shut dabba. Inside it, draw what you think is there. Next to it, draw an ear, a hand or a nose for the clue you used.  
-   **Answer:** A drawing of a dabba, a thing inside, and the body part that gave the clue.. *Why:* A strong drawing shows that the guess came from a clue, such as an ear for a sound.
-### Clues and Questions (stretch) (stretch, 11 questions)
+### Clues and Questions (stretch) (stretch, 10 questions)
 1. (perspective) Nila and her friend Tara, two girls in Mysuru, shake a shut dabba. It goes shhh.  
    **Answer:** A strong answer picks one side and gives a reason. For Tara: rice, dal and salt can all go shhh, so checking tells us which. For Nila: the shhh is a real clue, and rice is the most likely thing in a kitchen dabba.. *Why:* Both girls use the clue well. Nila makes a good guess from it. Tara knows that some things sound alike, so a check makes sure.
 2. (order) Put Kavya's steps in order, from the story about the tapping bird.  
@@ -387,22 +390,22 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
 4. (mcq) A doctor wants to know if your heart is beating well. She cannot see inside you. What does she do?  
    Options: She listens with a stethoscope / She opens you up / She guesses  
    **Answer:** She listens with a stethoscope. *Why:* The sound of your heart is a clue. A stethoscope helps her hear it clearly.
-5. (truefalse) When a guess turns out wrong, the test was no use.  
-   **Answer:** False. *Why:* False. A wrong guess shows which clue fooled you. Next time you know to look for a better clue.
-6. (count) Kavya noticed 3 things about an elaichi with her eyes, 2 with her nose and 1 with her ears. How many things did she notice in all?  
-   **Answer:** 6. *Why:* 3 and 2 make 5. 5 and 1 more make 6. Using more senses gave her more to notice.
-7. (draw) Draw an animal finding out about something new. Show the body part they use.  
+5. (draw) Draw an animal finding out about something new. Show the body part they use.  
    **Answer:** For example: an ant touching a crumb with her feelers, a dog sniffing, or a crow looking with one eye.. *Why:* A strong drawing shows a real way an animal finds out, with the right body part.
-8. (match) Draw a line from each animal to the body part they use most to find food.  
+6. (mcq) A crow walks round a new shiny clip and looks at it from every side before touching it. What is the crow doing?  
+   Options: Finding out about it / Sleeping / Singing  
+   **Answer:** Finding out about it. *Why:* The crow gathers clues with her eyes before she touches it, as we gather clues before opening a dabba.
+7. (match) Draw a line from each animal to the body part they use most to find food.  
    **Answer:** An ant → Feelers; A dog → Nose; A crow → Eyes; A snake → Tongue. *Why:* Ants smell and touch with their feelers. Dogs follow smells. Crows spot food with their sharp eyes. A snake flicks the tongue to pick up smells.
-9. (mcq) You hear a drip, drip at night. Which question would help you find out most?  
+8. (mcq) You hear a drip, drip at night. Which question would help you find out most?  
    Options: Where is the sound coming from? / Is it a nice sound? / Should I go to sleep?  
    **Answer:** Where is the sound coming from?. *Why:* Knowing where the sound comes from tells you where to look next: the tap, the window or the roof.
-10. (odd) Which of these can you NOT find out by shaking a shut dabba?  
+9. (odd) Which of these can you NOT find out by shaking a shut dabba?  
    Options: If there is one thing or many / If the thing is hard or soft / The colour of the thing  
    **Answer:** 2. *Why:* Sound and movement tell you about number, hardness and shape. Colour can only be seen.
-11. (write) Ask one question that nobody in your home can answer. A grown-up writes it. Then say how you could find out.  
-   **Answer:** For example: 'Why do cats purr?' I could ask a vet or look in a book.. *Why:* A strong answer has a real question and one way to find out: look closely, ask someone who knows, or try something.
+10. (odd) Which one is NOT a way to find out what is in a shut box?  
+   Options: Shake it and listen / Lift it and feel the weight / Guess with no clue at all  
+   **Answer:** 2. *Why:* A guess with no clue tells you nothing. Listening and lifting give real clues.
 
 ## Videos
 - **Inge Lehmann and the inner core of the Earth, a short explainer** (, 4 min) id `to find`: Shows how earthquake shaking travels through the Earth, and how Inge Lehmann found the inner core from it. *Check:* Find a short, accurate explainer for children or families that names Inge Lehmann and the year 1936.
@@ -416,15 +419,15 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
 2. (mcq) Farhan wants to find out why the ceiling fan makes a clicking sound. What should he do first?  
    Options: Watch and listen to the fan closely / Decide it is broken / Forget about it  
    **Answer:** Watch and listen to the fan closely. *Why:* Observing closely comes first. Farhan may see where the click comes from, and how often.
-3. (mcq) To observe a flower closely, what should you do?  
+3. (mcq) Which question can you answer by looking closely at one ant?  
+   Options: How many legs does the ant have? / Who will win the cricket match? / What is my friend's name?  
+   **Answer:** How many legs does the ant have?. *Why:* You can find out by looking. The other questions have nothing to do with the ant.
+4. (mcq) To observe a flower closely, what should you do?  
    Options: Look at the flower from across the room, once / Look closely, smell the flower and gently touch the petals / Close your eyes and guess  
    **Answer:** Look closely, smell the flower and gently touch the petals. *Why:* Observing means using your senses carefully, and looking more than once. Each sense gives a different clue.
-4. (mcq) Which sense must you never use on a mystery thing?  
+5. (mcq) Which sense must you never use on a mystery thing?  
    Options: Hearing / Tasting / Seeing  
    **Answer:** Tasting. *Why:* A mystery thing might be unsafe to eat. Scientists taste only things they know are food.
-5. (mcq) In the Mystery Dabba test, a shut dabba went shhh when you shook it. What was most likely inside?  
-   Options: One lemon / Lots of rice grains / A cotton ball  
-   **Answer:** Lots of rice grains. *Why:* Many small grains hitting the steel make a shhh sound, like rain. One lemon gives one knock and a roll.
 6. (mcq) A shut dabba makes almost no sound and feels very light. What could be inside?  
    Options: A cotton ball / A steel spoon / A potato  
    **Answer:** A cotton ball. *Why:* A cotton ball is soft and light, so it makes almost no sound. A spoon would clink and a potato would thump.
@@ -434,13 +437,10 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
 8. (mcq) Lakshmi guessed rice, but the dabba had dal in it. What is the best thing for her to do?  
    Options: Feel bad and stop / Say which clue fooled her, and try again / Say she was right anyway  
    **Answer:** Say which clue fooled her, and try again. *Why:* Rice and dal sound alike. Knowing which clue fooled her helps her next time. That is how scientists learn from a wrong guess.
-9. (mcq) Why do we open the dabbas at the end of the test?  
+9. (mcq) You guess what is in a shut dabba. Why do you open it at the end?  
    Options: To check if our clues led us to the right answer / Because shaking is boring / To eat what is inside  
    **Answer:** To check if our clues led us to the right answer. *Why:* Clues help us guess. Opening the lid checks the guess.
-10. (mcq) How did Inge Lehmann find out about the middle of the Earth?  
-   Options: She dug a hole to the middle / She looked closely at records of earthquake shaking / She guessed with no clues  
-   **Answer:** She looked closely at records of earthquake shaking. *Why:* Nobody can dig that deep. Lehmann studied how the shaking from earthquakes came through the Earth, and found clues to what is in the middle.
-11. (mcq) What did Inge Lehmann find in the middle of the Earth?  
+10. (mcq) What did Inge Lehmann find in the middle of the Earth?  
    Options: A ball inside a ball / Only air / A big lake of water  
    **Answer:** A ball inside a ball. *Why:* She found an inner core, a ball inside the liquid outer core. Later scientists showed this inner ball is solid metal.
 
@@ -477,15 +477,14 @@ Kavya counted on her fingers, like Paati did. 'First I noticed the sound. Then I
 - Why are detectives good at science? *They always follow the clues!*
 - Why did the question mark go to bed early? *It had a busy day of wondering!*
 - Why did the elaichi pod go to school? *To become a little more seed-ucated!*
-- What do you call a noisy dabba? *A rattle-box!*
 - Why did the girl stare at the orange juice box? *Because it said 'concentrate'!*
 - What starts with 'why' and never stops? *A six-year-old!*
 - Why did the magpie robin peck the window? *He wanted to win an argument with himself!*
 
 ## Connected maths
-- In the One Elaichi activity, Divya noticed 1 thing after a quick look. After a slow look, she noticed 5 things. How many more things did she notice with the slow look? **4 more things.**. 5 take away 1 is 4. The slow look, with more senses, found 4 more clues. (queues `math.addition-subtraction.meaning.L1`)
+- Divya, a girl in Class 1, looked at an elaichi pod. After a quick look she noticed 1 thing. After a slow look she noticed 5 things. How many more things did she notice with the slow look? **4 more things.**. 5 take away 1 is 4. The slow look, with more senses, found 4 more clues. (queues `math.addition-subtraction.meaning.L1`)
 - In the Yes-or-No Detective game, Meenakshi found the pillow in 6 questions. Her brother Sai found the spoon in 9 questions. Who used fewer questions? **Meenakshi. 6 is fewer than 9.**. Count up from 6 to 9: 7, 8, 9. That is 3 more questions for Sai. So Meenakshi's questions found the answer faster. (queues `math.number-sense.comparing-ordering.L1`)
-- In the Mystery Dabba test, Kavya guessed 3 dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled her? **1 guess was wrong. Maybe the cotton ball, because no sound made her think the dabba was empty.**. 3 take away 2 leaves 1. A dabba with a cotton ball and an empty dabba both make almost no sound, so that clue could fool anyone. (queues `math.addition-subtraction.meaning.L1`)
+- Kavya, a girl in Class 1, guessed what was in 3 shut dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled her? **1 guess was wrong. Maybe the cotton ball, because no sound made her think the dabba was empty.**. 3 take away 2 leaves 1. A dabba with a cotton ball and an empty dabba both make almost no sound, so that clue could fool anyone. (queues `math.addition-subtraction.meaning.L1`)
 
 ## Song
 I Notice, I Wonder (sci.how-we-know.L1): Topic-level song for How we know L1
@@ -501,7 +500,6 @@ I Notice, I Wonder (sci.how-we-know.L1): Topic-level song for How we know L1
 - What do we call something that helps you work out what is hidden? → A clue. Scientists call clues evidence.
 - Name three question words. → For example: what, why and how. Also where, when and who.
 - A shut dabba goes shhh. What might be inside? → Lots of small grains, like rice, dal or salt.
-- Which sense do we never use on a mystery thing? → Taste. We taste only what we know is food.
 - Who found a ball in the middle of the Earth, using earthquake shaking? → Inge Lehmann, a scientist from Denmark, in 1936.
 - What does it mean to observe? → To notice very carefully, with your eyes, ears, nose and hands.
 

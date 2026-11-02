@@ -76,7 +76,7 @@
    "status": "defined",
    "context": "This card is about how to tell that a small creature is an insect.",
    "definition": "An insect has six legs, a body in three parts (head, thorax and abdomen) and two antennae. Most insects also have wings.",
-   "description": "Count the legs first. Every grown-up insect has six legs, three on each side. All six legs join on to the middle part of the body, the thorax. On the head there are two antennae, which smell and touch. Many insects have wings: a bee has four, and a housefly has two. An insect has no bones inside. Instead, a hard skin on the outside holds the body together, like a suit of armour. Some butterflies seem to have only four legs. Look closely: the front two legs are tiny and folded up under the head. So they still have six.",
+   "description": "Count the legs first. Every grown-up insect has six legs, three on each side, and all six join the middle part, the thorax. On the head are two antennae, which smell and touch. Many insects have wings: a bee has four, and a housefly has two. Some butterflies seem to have only four legs, but the front two are tiny and folded up under the head. So they still have six.",
    "examples": [
     "An ant: six legs, three body parts, two antennae, and no wings on most ants.",
     "A honeybee: six legs, four wings, two antennae.",
@@ -91,11 +91,11 @@
    "status": "defined",
    "context": "This card is about why a spider is not an insect, even though both are small and have many legs.",
    "definition": "A spider has eight legs, a body in two parts and no antennae. Insects have six legs, three body parts and two antennae.",
-   "description": "Count a spider's legs and you get eight, four on each side. A spider's body has only two parts: a front part with the legs, eyes and mouth, and a round back part. Spiders have no antennae and no wings. Many spiders have eight eyes. Spiders make silk at the back end of their bodies. Some spiders build webs to catch insects. Others, like the small jumping spiders on our walls, have no web. They creep up and jump on their food. Spiders belong to a group called arachnids, with scorpions, ticks and mites. All of them have eight legs.",
+   "description": "Count a spider's legs and you get eight, four on each side. A spider's body has two parts: a front part with the legs, eyes and mouth, and a round back part. Spiders have no antennae and no wings. Some spiders build webs of silk to catch insects. Others, like the small jumping spiders on our walls, have no web. They creep up and jump on their food. Spiders, scorpions and ticks are all arachnids, and all have eight legs.",
    "examples": [
     "The thin-legged spider in a bathroom corner: eight legs, two body parts.",
     "A jumping spider on a window frame: eight legs and two very big front eyes.",
-    "A scorpion: eight legs, so a scorpion is in the spider family too."
+    "A scorpion: eight legs, so a scorpion is in the spider group too."
    ],
    "perspectives": [],
    "art": "An ant and a spider side by side, the same size, with their legs numbered: 6 on the ant and 8 on the spider, and their body parts outlined."
@@ -105,7 +105,7 @@
    "status": "defined",
    "context": "This card is about how an earthworm moves without any legs.",
    "definition": "An earthworm has no legs. Muscles squeeze and stretch the body, and tiny bristles grip the soil.",
-   "description": "An earthworm's body is made of many rings. Under the skin are muscles. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They hold on to the soil so the worm does not slide back. An earthworm has no eyes, but the skin can sense light, and worms move away from it. Earthworms breathe through their skin, so the skin must stay damp. They eat soil and dead leaves, and leave behind rich soil that plants grow well in.",
+   "description": "An earthworm's body is made of many rings, with muscles under the skin. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They grip the soil so the worm does not slide back. Earthworms breathe through their skin, so the skin must stay damp.",
    "examples": [
     "Earthworms in the soil of a big potted plant.",
     "Earthworms on a wet path after the first monsoon rain.",
@@ -119,7 +119,7 @@
    "status": "defined",
    "context": "This card explains why an ant can carry such a big crumb. Read it after the crumb test.",
    "definition": "A small animal can carry a much bigger load, for the size of their body, than a big animal can.",
-   "description": "Many ants can carry things heavier than their own bodies. A human cannot carry a load as heavy as a car. Here is why size matters. How strong a muscle is depends on how thick it is. How heavy a body is depends on how much of it there is. Imagine an ant made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong. But her body would be about 8 times as heavy. So she would have much less strength left over for a load. A small body is very light for the strength of the muscles. That is why ants, beetles and other small creatures can carry so much.",
+   "description": "Many ants can carry things heavier than their own bodies. A person cannot carry a load as heavy as a car. Here is why size matters. A muscle's strength depends on how thick it is, and a body's weight depends on how much of it there is. Imagine an ant made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong, but her body would be about 8 times as heavy. So a small body is very light for the strength of its muscles, and ants can carry so much.",
    "examples": [
     "An ant carrying a sugar grain bigger than her own head.",
     "A group of ants dragging a crumb too big for one ant.",
@@ -132,7 +132,7 @@
    "concept": "Insects sense, learn and choose",
    "status": "debated",
    "context": "This card is about the minds of small creatures, and what scientists still argue about.",
-   "description": "Ants, bees, spiders and worms sense the world, remember and make choices. A honeybee learns which flower colours give her food, and remembers the way back to them. She then dances in the hive to tell her sisters where the flowers are. An ant chooses which crumb to carry, and calls her sisters to a crumb too big for one. A jumping spider watches her food, then plans a path to creep up on it. Scientists agree about what these animals do. They still argue about what, if anything, the animals feel while they do it.",
+   "description": "Ants, bees, spiders and worms sense the world, remember and make choices. A honeybee learns which flower colours give her food, and remembers the way back. She then dances in the hive to tell her sisters where the flowers are. A jumping spider watches her food, then plans a path to creep up on it. Scientists agree about what these animals do. They still argue about what, if anything, the animals feel while they do it.",
    "examples": [
     "A honeybee dances to show her sisters where the flowers are.",
     "Ants call more ants to a big crumb.",
@@ -186,7 +186,7 @@
    "claim": "Cut an earthworm in two, and you get two worms.",
    "who": "A common belief",
    "for": "Some earthworms can grow back a lost tail end, so a worm with a missing tail can live on.",
-   "against": "In most earthworms, the back half dies. The front half, with the mouth and the important parts inside, can sometimes grow a new tail. So you do not get two worms. And it hurts the worm, so never cut one.",
+   "against": "In most earthworms, the back half dies. The front half, with the mouth and the important parts inside, can sometimes grow a new tail. So you do not get two worms. And cutting harms the worm, so never cut one.",
    "status": "rejected",
    "context": "This card is about a belief that is wrong, and unkind to try."
   },
@@ -244,11 +244,11 @@
    "'Let me count her legs,' she said. 'One, two, three on this side. One, two, three on that side. Six legs!'",
    "'And two feelers on her head,' said Arjun. 'They are waving.'",
    "'Those are her antennae,' said Paati. 'She smells with them. Every insect has six legs and two antennae.'",
-   "Arjun jumped up. 'Then I know another insect. Come!' He ran to the bathroom and pointed at the corner of the ceiling. A spider with long, thin legs hung there, very still, in a messy web.",
+   "Arjun jumped up. 'Let's count another creature. Come!' He ran to the bathroom and pointed at the corner of the ceiling. A spider with long, thin legs hung there, very still, in a messy web.",
    "Meenakshi stood on the step stool and looked through the glass, without touching. She counted slowly. 'One, two, three, four on this side. One, two, three, four on the other side. That is eight!'",
    "'Eight?' said Arjun. 'But insects have six.'",
    "'So the spider is not an insect,' said Meenakshi. She counted again, to be sure. Still eight. 'And look. Her body is in two parts, not three. And she has no antennae.'",
-   "'Spiders are spiders,' said Paati. 'They have their own family, with scorpions. That spider has lived in our bathroom for weeks. She catches mosquitoes in her web.'",
+   "'Spiders are spiders,' said Paati. 'They have their own group, with scorpions. That spider has lived in our bathroom for weeks. She catches mosquitoes in her web.'",
    "Arjun looked up at the spider with new respect. 'Thank you, spider,' he said.",
    "The next morning, the children went out to the balcony. Paati grew pink nithyakalyani flowers in an old paint tin. A big orange butterfly with black edges and white spots was sitting on a flower.",
    "'That is a plain tiger butterfly,' said Paati. 'Watch her drink.' The butterfly uncurled a long, thin tongue, like a straw, and pushed it into the flower.",
@@ -289,7 +289,7 @@
   {
    "id": "e1",
    "title": "The Crumb Test: how big a crumb can an ant carry?",
-   "mins": 30,
+   "mins": 40,
    "days": 1,
    "context": "In this experiment you put biscuit crumbs of four sizes beside a line of ants. You watch for 20 minutes. Then you count which crumbs the ants carried away, and how they did it.",
    "question": "Which sizes of crumb can ants carry away, and which are too big?",
@@ -332,11 +332,11 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 40,
      "what": "Find an ant line, make 20 crumbs of four sizes, lay them beside the line, watch for 20 minutes, then count and talk."
     }
    ],
-   "record": "Fill in the results table. Draw the four sizes of crumb, and draw one ant next to each, to show which ones the ants carried.",
+   "record": "Fill in the results table. A grown-up can write the numbers while your child counts.",
    "setup": [
     {
      "art": "A spoon breaking a biscuit on a plate into four little heaps: tiny crumbs like sugar grains, crumbs like rice grains, crumbs like chana, and big pieces like a thumbnail.",
@@ -400,8 +400,8 @@
     },
     {
      "id": "s5",
-     "mins": 10,
-     "do": "1. Start the timer. 2. Watch quietly. 3. After 10 minutes, count the crumbs left of each size and write them down.",
+     "mins": 11,
+     "do": "1. Start the timer. 2. Watch quietly for 10 minutes. 3. Count the crumbs left of each size and write them down.",
      "say": "Let's watch quietly for ten minutes. Which crumbs are moving? Is one ant carrying, or many ants together?",
      "kid": "Watch the crumbs. Which ones move? One ant, or many?",
      "ask": [
@@ -418,10 +418,10 @@
     },
     {
      "id": "s6",
-     "mins": 3,
-     "do": "After 20 minutes, count the crumbs left of each size again and write them down.",
-     "say": "Twenty minutes! Let's count again. How many of each size are left?",
-     "kid": "Count again. How many of each size are left?"
+     "mins": 11,
+     "do": "Watch for 10 more minutes. After 20 minutes in all, count the crumbs left of each size again and write them down.",
+     "say": "Ten more minutes. Which crumbs are moving now? Then we count again.",
+     "kid": "Watch ten more minutes. Then count again. How many of each size are left?"
     },
     {
      "id": "s7",
@@ -438,18 +438,7 @@
        ]
       }
      ],
-     "check": {
-      "t": "mcq",
-      "q": "In the crumb test, which crumbs did the ants carry away most often?",
-      "options": [
-       "The biggest pieces, as big as a thumbnail",
-       "The smallest crumbs, and some rice-sized ones",
-       "No crumbs at all"
-      ],
-      "a": 1,
-      "why": "Ants usually carry away the tiny crumbs first, and teams can drag rice-sized ones. The biggest pieces are too heavy, so the ants bite off bits instead. If you picked the biggest pieces, look at your table again: how many big pieces were left?"
-     },
-     "parent": "A strong answer uses the numbers: 'All 5 tiny crumbs went, 2 rice crumbs went, and no big pieces moved.' Now read the card on why small bodies are strong for their size."
+     "parent": "A strong answer uses the numbers: 'All 5 tiny crumbs went, 2 rice crumbs went, and no big pieces moved.' Different ants give different results, and that is fine. Now read the card on why small bodies are strong for their size."
     }
    ]
   },
@@ -544,7 +533,7 @@
      "do": "1. Lay the worms gently across the middle line. 2. Cover the tray. 3. Wait 10 minutes. 4. Lift the cover and see where each worm is.",
      "say": "Let's cover them, so it is dark on both sides. In ten minutes we will look.",
      "kid": "Cover the tray. Wait ten minutes. Then look.",
-     "parent": "Most worms move to the damp side. An earthworm breathes through the skin, and the skin must stay damp to do that.",
+     "parent": "Most worms usually move to the damp side. An earthworm breathes through the skin, and the skin must stay damp to do that. If the worms stay in the middle or go to the dry side, write that down too. Worms sometimes do not move much.",
      "check": {
       "t": "mcq",
       "q": "Why do earthworms choose damp places?",
@@ -639,18 +628,7 @@
      "mins": 3,
      "do": "Sort your list into insects (six legs), spiders (eight legs) and others.",
      "say": "Which ones are insects? Which ones are spiders? Were there any with no legs, or lots of legs?",
-     "kid": "Sort your list. Six legs, eight legs, or other?",
-     "check": {
-      "t": "mcq",
-      "q": "You find a small creature with eight legs in a corner. What is she?",
-      "options": [
-       "An insect",
-       "A spider, or one of the spider family",
-       "A worm"
-      ],
-      "a": 1,
-      "why": "Eight legs means a spider, or one of the spider family, like a tick or a scorpion. Insects have six legs and worms have none."
-     }
+     "kid": "Sort your list. Six legs, eight legs, or other?"
     }
    ]
   },
@@ -666,8 +644,8 @@
      "qty": 1
     },
     {
-     "item": "16 short pieces of broom stick, toothpick or matchstick (without the heads), for legs",
-     "qty": 16
+     "item": "14 short pieces of broom stick or toothpick, for legs (6 for the ant, 8 for the spider)",
+     "qty": 14
     },
     {
      "item": "2 more short pieces, for the ant's antennae",
@@ -678,7 +656,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up breaks the sticks. Matchsticks must have the heads broken off.",
+   "safety": "A grown-up breaks the sticks, because the ends can be sharp. If you use matchsticks, break off the heads first.",
    "schedule": [
     {
      "day": 1,
@@ -704,7 +682,7 @@
      "do": "1. Roll three small balls of dough for the ant: a head, a middle and a bigger back part. 2. Press them together in a row. 3. Push three legs into each side of the middle ball. 4. Push two antennae into the head.",
      "say": "An ant has three body parts. All six legs go into the middle part. Where do the antennae go?",
      "kid": "Make three balls. Six legs go in the middle ball. Two antennae on the head.",
-     "parent": "Children often put legs on all three parts. Let them, then ask them to check the ant in the kitchen, or the picture card: where do the legs join?"
+     "parent": "Children often put legs on all three parts. Let them, then ask them to check the ant in the kitchen, or the drawing on the card 'What makes an insect': where do the legs join?"
     },
     {
      "id": "s2",
@@ -748,7 +726,7 @@
    "title": "If I Were an Ant: draw a load my size",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you compare your body with an ant's. You draw round your body on newspaper. Then you draw a crumb next to it, as big for you as the sugar crumb was for the ant.",
+   "context": "In this activity you compare your body with an ant's. You draw round your child on newspaper. Then you draw a crumb next to the outline, bigger than the head, like the ant's crumb.",
    "materials": [
     {
      "item": "old newspapers, taped together to be as long as your child",
@@ -792,16 +770,16 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Remember the ant who carried a crumb bigger than her head. Draw a crumb next to your child's outline, bigger than their head.",
-     "say": "The ant carried a crumb bigger than her head. If you were an ant, your crumb would be this big.",
+     "do": "Draw a crumb next to your child's outline, bigger than their head. Say that an ant can carry a crumb bigger than her own head.",
+     "say": "An ant can carry a crumb bigger than her own head. Here is a crumb bigger than your head.",
      "kid": "Draw a crumb bigger than your head. That is your ant crumb."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Talk about what that crumb would weigh for a person.",
-     "say": "Think of a sack of rice as big as that circle. Could you pick that up and run home with it?",
-     "kid": "Could you carry a rice sack that big? Why not?",
+     "do": "Talk about carrying a load as heavy as your child.",
+     "say": "A big sack of rice weighs about as much as you. An ant can carry a load heavier than herself. Could you pick up a sack as heavy as you and run home with it?",
+     "kid": "Could you carry a load as heavy as you are? Why not?",
      "ask": [
       {
        "q": "Why can an ant carry so much for her size?",
@@ -811,7 +789,7 @@
        ]
       }
      ],
-     "parent": "A sack of rice that big would weigh more than a grown-up. This is the same idea as the card 'Small bodies are strong for their size'.",
+     "parent": "A 25 kg rice sack weighs about as much as a child in Class 2. Many ants can carry more than their own weight. This is the idea on the card 'Small bodies are strong for their size'.",
      "think": "Is the ant strong, or is the ant small? Or both?"
     }
    ]
@@ -883,7 +861,7 @@
      "caption": "1. Lay out the four mats and the pile of creature cards."
     },
     {
-     "art": "Two children slapping their hands on the 'Eight legs' mat while one holds up a card with a scorpion drawn on it.",
+     "art": "Two children slapping their hands on the 'Eight legs' mat while a third holds up a card with the word Scorpion on it.",
      "caption": "2. Turn a card and race to the right mat."
     }
    ],
@@ -934,11 +912,11 @@
       },
       {
        "f": "Scorpion",
-       "b": "Eight legs, plus two big claws at the front. A scorpion belongs to the spider family."
+       "b": "Eight legs, plus two big claws at the front. A scorpion belongs to the spider group."
       },
       {
        "f": "Tick",
-       "b": "Eight legs as a grown-up. A tick belongs to the spider family."
+       "b": "Eight legs as a grown-up. A tick belongs to the spider group."
       },
       {
        "f": "Earthworm",
@@ -963,33 +941,32 @@
      "title": "4 mats to lay on the floor",
      "items": [
       "Six legs: insects",
-      "Eight legs: the spider family",
+      "Eight legs: the spider group",
       "No legs",
       "Lots of legs"
      ]
     }
    ],
    "rules": [
-    "Before you play, draw the creature quickly on each card, so that a child who cannot read yet can play.",
     "Lay the four mats on the floor, a little apart.",
     "Mix the cards and put them face down in a pile.",
-    "One player turns over the top card and reads the name aloud.",
-    "Everyone races to put a hand on the right mat. A hand on the wrong mat means you sit out that card.",
-    "Turn the card over and read the back aloud to check. The first hand on the right mat wins the card.",
+    "Take turns to be the card turner. The card turner turns over the top card and reads the name aloud.",
+    "Everyone, including the card turner, races to put one hand on the mat they think is right. A hand on the wrong mat means you sit out that card.",
+    "The card turner reads the back aloud to check. The first hand on the right mat wins the card. If nobody was right, put the card at the bottom of the pile.",
     "When the pile is finished, the player with the most cards wins. If two players have the same number, they both win."
    ],
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Share the 16 cards and draw a quick creature on each. 2. Lay the four mats on the floor.",
-     "say": "Let's draw the creatures first. Draw the right number of legs on each one!",
-     "kid": "Draw a creature on your cards. Draw the right number of legs."
+     "mins": 3,
+     "do": "1. Cut out the 16 cards and the 4 mats. 2. Lay the four mats on the floor and mix the cards into a face-down pile.",
+     "say": "Here are sixteen small creatures. Each one has six legs, eight legs, no legs or lots of legs. Let's lay out the mats.",
+     "kid": "Lay the four mats on the floor. Mix the cards."
     },
     {
      "id": "s2",
-     "mins": 9,
-     "do": "1. Take turns turning over a card. 2. Race to the right mat. 3. Read the back aloud.",
+     "mins": 10,
+     "do": "1. Take turns to turn over a card and read the name. 2. Everyone races to the right mat. 3. Read the back aloud.",
      "say": "Scorpion! Six, eight, none or lots? Quick!",
      "kid": "Turn over a card. Slap the right mat. Read the back.",
      "ask": [
@@ -1009,17 +986,6 @@
      "do": "Count the cards on each mat together.",
      "say": "Which mat has the most cards? Why do you think there are so many insects?",
      "kid": "Which mat has the most cards?",
-     "check": {
-      "t": "mcq",
-      "q": "Which of these is an insect?",
-      "options": [
-       "A spider",
-       "An earthworm",
-       "A cockroach"
-      ],
-      "a": 2,
-      "why": "A cockroach has six legs, so a cockroach is an insect. A spider has eight legs, and an earthworm has none."
-     },
      "parent": "There are more kinds of insects than of any other animal group. Scientists have named about a million kinds."
     }
    ]
@@ -1032,7 +998,7 @@
    "context": "A honeybee who finds flowers flies home and dances. Her dance tells her sisters which way to fly, and how far. In this game, one player hides a 'flower' and dances to show the others where to find it.",
    "setup": [
     {
-     "art": "A child hiding a paper flower under a cushion while two others cover their eyes near a lamp.",
+     "art": "A child hiding a paper flower under a cushion while two others cover their eyes.",
      "caption": "1. The dancer hides the paper flower."
     },
     {
@@ -1059,17 +1025,17 @@
      "kind": "tokens",
      "title": "1 paper flower to cut out and colour",
      "items": [
-      "A paper flower, about the size of your palm"
+      "Flower"
      ]
     }
    ],
    "rules": [
-    "Choose a 'sun': a lamp or a window. This is where the bees face before the dance.",
-    "The dancer picks a hiding card and hides the paper flower there while the others close their eyes.",
-    "The dancer comes back to the middle of the room. No talking!",
-    "The dancer waggles their body while walking a few steps towards the flower, then circles back. They do this three times.",
-    "A short waggle walk means the flower is near. A long waggle walk means the flower is far.",
-    "The other players follow the dance and search. The first to find the flower is the next dancer."
+    "The first dancer takes a hiding card, hides the paper flower in that place, and the others close their eyes.",
+    "The dancer stands in the middle of the room. No talking!",
+    "The dancer waggles their body from side to side while walking towards the flower, then walks back to the middle. They do this three times.",
+    "A short waggle walk of two or three steps means the flower is near. A long waggle walk of many steps means the flower is far.",
+    "The other players follow the dance and search. The first to find the flower is the next dancer.",
+    "Play until everyone has been the dancer once. With two players, the finder always becomes the dancer, so you take turns."
    ],
    "flow": [
     {
@@ -1085,25 +1051,14 @@
      "do": "Play several rounds. Each time, the dancer hides the flower and dances, without talking.",
      "say": "No words! Only the dance. Which way is the dancer pointing? Is the waggle walk long or short?",
      "kid": "Watch the dance. Which way? Near or far? Go and find the flower!",
-     "parent": "Real bees dance on the honeycomb in the dark hive. The angle of the waggle, compared with straight up, shows the angle of the flowers from the Sun. The game makes this simpler."
+     "parent": "Real bees dance on the honeycomb in the dark hive. The direction of the waggle walk shows which way to fly, and the length shows how far. In the game, the dancer simply walks towards the flower."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Talk about what the game shows.",
      "say": "Was it easy to find the flower from a dance? How do you think the bee sisters learn to read the dance?",
-     "kid": "Was the dance easy to follow? How do bees learn it?",
-     "check": {
-      "t": "mcq",
-      "q": "Why does a honeybee dance in the hive?",
-      "options": [
-       "To keep warm",
-       "To tell her sisters where she found flowers",
-       "To scare away ants"
-      ],
-      "a": 1,
-      "why": "The waggle dance tells the other bees which way to fly and how far to go. Karl von Frisch, an Austrian scientist, worked this out by watching bees for many years."
-     }
+     "kid": "Was the dance easy to follow? How do bees learn it?"
     }
    ]
   }
@@ -1129,7 +1084,7 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Choose the place. Watch for 5 minutes. Draw each creature you see and count the legs."
+     "what": "Choose the place. Watch for 5 minutes. Draw each creature you see, count the legs and make a tally mark for each."
     },
     {
      "day": 2,
@@ -1139,7 +1094,7 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Watch again. Make a tally mark each time you see an ant, a spider or a fly."
+     "what": "Watch again. Which creature has the most tally marks so far?"
     },
     {
      "day": 4,
@@ -1149,7 +1104,7 @@
     {
      "day": 5,
      "mins": 5,
-     "what": "Watch for the last time. Count up: how many insects, how many spiders, how many others?"
+     "what": "Watch for the last time. Then count up: how many insects, how many spiders, how many others?"
     }
    ],
    "record": "The five-day diary, with a final tally of insects, spiders and others.",
@@ -1167,14 +1122,14 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Choose the place with your child. Watch for 5 minutes. Your child draws each creature and counts the legs.",
+     "do": "Choose the place with your child. Watch for 5 minutes. Your child draws each creature, counts the legs and makes a tally mark for each one.",
      "say": "This is our watching place for five days. Let's see who visits. Draw each one and count their legs.",
      "kid": "This is your watching place. Draw who you see. Count their legs."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "On days 2, 3 and 4, watch the same place at about the same time, for 5 minutes. Add tally marks.",
+     "do": "On days 2, 3 and 4, watch the same place at about the same time, for 5 minutes. Add tally marks. On day 4, also look at the weather and write whether it changed who came.",
      "say": "Same place, same time. Who is here today? Is anyone new?",
      "kid": "Watch the same place. Who is here today? Make tally marks.",
      "wait": "Do this once a day, on days 2, 3 and 4.",
@@ -1183,7 +1138,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "On day 5, count up all the tally marks.",
+     "do": "On day 5, watch for 5 minutes, then count up all the tally marks.",
      "say": "Let's count. How many insects did you see? How many spiders? Which creature came every day?",
      "kid": "Count your marks. Who came most often?",
      "ask": [
@@ -1205,10 +1160,10 @@
    "title": "Web Builder: make a web that catches the most paper flies",
    "mins": 25,
    "context": "This is a design challenge. A spider builds a web of silk to catch flying insects. Now you build a web of thread on a clothes hanger, and test how many paper 'flies' it catches.",
-   "problem": "Can you build a thread web on a clothes hanger that catches at least 5 out of 10 paper balls thrown at it?",
+   "problem": "Can you build a thread web on a clothes hanger that catches some of the 10 paper balls thrown at it? Count the catches, change one thing, and try to catch more.",
    "constraints": [
     "Use one clothes hanger and one reel of sewing thread, or wool.",
-    "You may use cello tape, but no paper or cloth in the middle of the web.",
+    "Use cello tape to make the threads sticky, but no paper or cloth in the middle of the web.",
     "The paper flies are 10 small balls of paper, each about the size of a grape.",
     "Throw each fly gently from three big steps away."
    ],
@@ -1222,11 +1177,11 @@
    "general": [
     "Tie threads from side to side across the hanger, like the spokes of a wheel.",
     "Put the threads close together, so the gaps are smaller than a paper ball.",
-    "Tie the threads tight, so they do not sag."
+    "Tie the threads tight, so they do not sag.",
+    "Wrap short strips of cello tape round the threads with the sticky side out, like a spider's sticky silk. Plain thread alone will not hold a paper ball. Use light balls of tissue paper if newspaper falls off."
    ],
    "creative": [
-    "Wind a thread round and round in a spiral over the spokes, like a real spider's web.",
-    "Stick a few pieces of cello tape along the threads with the sticky side out, so the flies stick, like a spider's sticky silk."
+    "Wind a thread round and round in a spiral over the spokes, like a real spider's web."
    ],
    "your_turn": "Design your own web. Throw 10 paper flies and count how many it catches. Change one thing, then test again. Did it catch more?",
    "setup": [
@@ -1266,7 +1221,7 @@
        "q": "What made your web catch more?",
        "good": [
         "Putting the threads closer together.",
-        "Adding sticky tape, like a spider's sticky silk."
+        "Wrapping more sticky tape round the threads."
        ]
       }
      ],
@@ -1351,7 +1306,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Ants, honeybees and butterflies are insects, with six legs. Spiders, scorpions and ticks belong to the spider family, with eight legs.",
+     "why": "Ants, honeybees and butterflies are insects, with six legs. Spiders, scorpions and ticks belong to the spider group, with eight legs.",
      "art": "Six small drawings: an ant, a spider, a honeybee, a scorpion, a butterfly and a tick."
     },
     {
@@ -1364,22 +1319,16 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: in the crumb test, why did the biggest crumbs stay on the paper?",
+     "p": "Say out loud, and a grown-up writes it down: an ant has six legs and a spider has eight. Say one more way a spider's body is different from an ant's.",
      "lines": 2,
-     "a": "The biggest crumbs were too heavy for the ants to carry, so the ants bit off small bits instead.",
-     "why": "A strong answer says the big crumbs were too heavy, and says what the ants did instead.",
-     "how": "e1"
+     "a": "A spider's body has two parts, not three, and a spider has no antennae.",
+     "why": "A strong answer says two body parts, or no antennae. It may also say that a spider has no wings."
     },
     {
-     "t": "mcq",
-     "p": "How many legs does a spider have?",
-     "opts": [
-      "Six",
-      "Eight",
-      "None"
-     ],
-     "a": 1,
-     "why": "A spider has eight legs, four on each side. That is one reason a spider is not an insect."
+     "t": "truefalse",
+     "p": "A butterfly drinks from a flower with a long, thin tongue, like a straw.",
+     "a": true,
+     "why": "True. A butterfly uncurls her long tongue and puts the tongue into the flower to drink."
     },
     {
      "t": "truefalse",
@@ -1429,10 +1378,10 @@
        "says": "Gently move the spider outside on a piece of paper. Then nobody is scared, and she can still catch insects."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. Then say one thing another person has right.",
+     "ask": "Who do you agree with? Give one reason. Then say one thing another person has right. Say it out loud, or a grown-up can write it for you.",
      "lines": 4,
      "a": "A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. Kavya is right that her feelings matter. The aunt finds a way that helps both Kavya and the spider.",
-     "why": "House spiders in Indian homes are harmless to people and catch insects. Moving a spider gently, or leaving her, both avoid harming her."
+     "why": "Common house spiders are not dangerous and they catch insects. Moving a spider gently, or leaving her, both avoid harming her."
     },
     {
      "t": "fill",
@@ -1461,24 +1410,6 @@
      "why": "A spider has eight legs and two body parts, so a spider is not an insect. The others all have six legs."
     },
     {
-     "t": "write",
-     "p": "Arjun says a butterfly on his balcony has four legs. What should he do to check?",
-     "lines": 3,
-     "a": "Look closely near her head, or take a photo and zoom in. Many butterflies keep two small front legs folded up, so they have six.",
-     "why": "A strong answer says to look again, closely, near the head. Counting twice, and looking where legs might be hiding, is how scientists check."
-    },
-    {
-     "t": "mcq",
-     "p": "Why must an earthworm's skin stay damp?",
-     "opts": [
-      "So the worm can breathe through the skin",
-      "So the worm can see",
-      "So birds cannot find the worm"
-     ],
-     "a": 0,
-     "why": "An earthworm breathes through the skin, and this only works when the skin is damp. That is why earthworms live in damp soil."
-    },
-    {
      "t": "draw",
      "p": "Draw a spider and an insect side by side. Show the right number of legs and body parts on each.",
      "a": "An insect with three body parts, six legs on the middle part and two antennae. A spider with two body parts, eight legs on the front part and no antennae.",
@@ -1486,28 +1417,44 @@
      "art": "An empty box for drawing, split down the middle, with 'Insect' on the left and 'Spider' on the right."
     },
     {
+     "t": "truefalse",
+     "p": "Every spider builds a web to catch food.",
+     "a": false,
+     "why": "False. Jumping spiders have no web. They creep up on their food and jump on it."
+    },
+    {
      "t": "order",
-     "p": "In the crumb test, which crumbs did the ants usually carry away first? Put them in order, from first to last.",
+     "p": "Put these small creatures in order, from the fewest legs to the most legs.",
      "items": [
-      "thumbnail-sized pieces",
-      "tiny crumbs like sugar grains",
-      "rice-sized crumbs",
-      "chana-sized crumbs"
+      "a spider",
+      "an earthworm",
+      "a centipede",
+      "an ant"
      ],
      "a": [
-      "tiny crumbs like sugar grains",
-      "rice-sized crumbs",
-      "chana-sized crumbs",
-      "thumbnail-sized pieces"
+      "an earthworm",
+      "an ant",
+      "a spider",
+      "a centipede"
      ],
-     "why": "Usually the tiny crumbs went first, then the rice-sized ones, often pulled by teams. The chana-sized and thumbnail pieces were mostly too heavy, so the ants ate them bit by bit.",
-     "how": "e1"
+     "why": "An earthworm has no legs, an ant has six, a spider has eight and a centipede has lots."
     },
     {
      "t": "truefalse",
      "p": "All the worker ants in a colony are female.",
      "a": true,
      "why": "True. The worker ants are sisters, daughters of the queen. Male ants hatch only at some times of year, and do not do the work of the nest."
+    },
+    {
+     "t": "mcq",
+     "p": "Silk is a strong, thin thread made inside an animal's body. Which of these animals makes silk?",
+     "opts": [
+      "A spider",
+      "A honeybee",
+      "A cockroach"
+     ],
+     "a": 0,
+     "why": "A spider makes silk at the back end of her body, and uses it for her web."
     },
     {
      "t": "label",
@@ -1554,7 +1501,7 @@
     },
     {
      "t": "write",
-     "p": "Fatima, a girl in Hyderabad, says: 'Ants are the strongest animals in the world.' Is she right? Say what you think, and why.",
+     "p": "Fatima, a girl in Hyderabad, says: 'Ants are the strongest animals in the world.' Is she right? Say what you think, and why. (Say it out loud, or a grown-up can write it for you.)",
      "lines": 3,
      "a": "She is partly right. For their size, ants are very strong: they carry crumbs bigger than their heads. But an elephant can lift a much heavier log than any ant. It depends on whether you compare the size of the load with the size of the animal.",
      "why": "A strong answer says ants are strong for their size, but not the strongest in total, and explains the difference."
@@ -1590,14 +1537,14 @@
        "says": "Close the sugar tin tightly and wipe up the crumbs. The ants will stop coming, and nobody gets hurt."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. Then say what one other person has right.",
+     "ask": "Who do you agree with? Give one reason. Then say what one other person has right. Say it out loud, or a grown-up can write it for you.",
      "lines": 4,
      "a": "A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. Lakshmi is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.",
      "why": "Ants come where they find food. Closing tins and wiping crumbs works well, and is kinder than spray. Some chalks sold for ants have poison in them, so they must be kept away from children."
     },
     {
      "t": "write",
-     "p": "Imagine an ant made as big as a dog. Would she still carry a crumb bigger than her own head? Say why.",
+     "p": "Imagine an ant made as big as a dog. Would she still carry a crumb bigger than her own head? Say why. (Say it out loud, or a grown-up can write it for you.)",
      "lines": 3,
      "a": "No. When a body gets bigger, the weight grows much faster than the strength of the muscles. A dog-sized ant would be very heavy, and would have little strength left for a load.",
      "why": "A strong answer says that weight grows faster than strength as a body gets bigger. It may use numbers: twice as big each way means about 4 times the strength but about 8 times the weight."
@@ -1615,7 +1562,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun did the crumb test with tiny red ants. His big crumbs stayed, but the ants ate them in little bits. His cousin Divya used big black ants, and one ant carried a rice crumb alone. Why were the results different?",
+     "p": "Ishaan, a boy in Class 2, did the crumb test with tiny red ants. His big crumbs stayed, but the ants ate them in little bits. His cousin Divya used big black ants, and one ant carried a rice crumb alone. Why were the results different? (Say it out loud, or a grown-up can write it for you.)",
      "lines": 3,
      "a": "The ants were different kinds and sizes. A big black ant is stronger than a tiny red ant, so she can carry a bigger crumb alone. The tiny ants worked as a team or ate the crumb bit by bit.",
      "why": "A strong answer says different kinds of ants are different sizes and strengths, so a fair comparison must use the same kind of ant.",
@@ -1630,7 +1577,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these: insect, spider family, or neither?",
+     "p": "Sort these: insect, spider group, or neither?",
      "cats": [
       "Insect",
       "Spider family",
@@ -1663,14 +1610,14 @@
       ]
      ],
      "a": "see items",
-     "why": "Dragonflies and houseflies have six legs, so they are insects. Scorpions and ticks have eight, so they belong to the spider family. Earthworms have no legs, and centipedes have many, so they are neither.",
+     "why": "Dragonflies and houseflies have six legs, so they are insects. Scorpions and ticks have eight, so they belong to the spider group. Earthworms have no legs, and centipedes have many, so they are neither.",
      "art": "Six small drawings: a dragonfly, a scorpion, an earthworm, a centipede, a housefly and a tick."
     },
     {
      "t": "truefalse",
-     "p": "Many butterflies stand on four legs, so they are not insects.",
+     "p": "If an ant grew as big as a person, she could lift a car.",
      "a": false,
-     "why": "False. Many butterflies keep their two small front legs folded up, so they stand on four. They still have six legs, so they are insects."
+     "why": "False. When a body gets bigger, the weight grows much faster than the strength. A person-sized ant would be very heavy and would have little strength left for a load."
     },
     {
      "t": "label",
@@ -1706,7 +1653,7 @@
     },
     {
      "t": "write",
-     "p": "Bumblebees in a test rolled small balls again and again, with no food as a reward. Some scientists say this is play. Others are not sure. What do you think? Give a reason.",
+     "p": "Bumblebees in a test rolled small balls again and again, with no food as a reward. Some scientists say this is play. Others are not sure. What do you think? Give a reason. (Say it out loud, or a grown-up can write it for you.)",
      "lines": 3,
      "a": "Any answer with a reason. For example: 'I think it is play, because they did it again and again with no food.' Or: 'Maybe they were only checking the balls, so I am not sure.'",
      "why": "A strong answer gives a view and a reason from what the bees did. Scientists still argue about this, so both answers can be strong."
@@ -1773,11 +1720,11 @@
    "p": "Meera, a girl in Pune, counts eight legs on a small creature in a corner. What is the creature?",
    "opts": [
     "An insect",
-    "A spider, or one of the spider family",
+    "A spider, or one of the spider group",
     "A worm"
    ],
    "a": 1,
-   "why": "Eight legs means the spider family. If you picked an insect, remember that insects have six legs.",
+   "why": "Eight legs means the spider group. If you picked an insect, remember that insects have six legs.",
    "outcome": 1
   },
   {
@@ -1806,18 +1753,6 @@
   },
   {
    "t": "mcq",
-   "p": "Where on an insect's body do the six legs join?",
-   "opts": [
-    "The head",
-    "The thorax, the middle part",
-    "The abdomen, the back part"
-   ],
-   "a": 1,
-   "why": "All six legs join the thorax, the middle part of the body. The wings join there too.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
    "p": "Roshni, a girl in Kolkata, sees a butterfly standing on four legs. What is true?",
    "opts": [
     "The butterfly has lost two legs",
@@ -1838,7 +1773,7 @@
    ],
    "a": 1,
    "how": "e1",
-   "why": "The biggest crumbs were too heavy to carry, so many ants crowded on them and took small bits home. If you picked 'carried them away', look again at how many big crumbs were left.",
+   "why": "The biggest crumbs were too big for one ant to carry, so many ants crowded on them and took small bits home. If you picked 'carried them away', look again at how many big crumbs were left.",
    "outcome": 4
   },
   {
@@ -1960,12 +1895,8 @@
    "a": "Because she found her honey!"
   },
   {
-   "j": "What did the earthworm say when she was late?",
-   "a": "Sorry, I was stuck in a long squeeze!"
-  },
-  {
-   "j": "Why are ants never ill?",
-   "a": "Because they have little ANTibodies!"
+   "j": "Why do ants never need a bus?",
+   "a": "Because they have six legs of their own!"
   },
   {
    "j": "What is a butterfly's favourite subject?",
@@ -1973,11 +1904,11 @@
   },
   {
    "j": "Why did the ant carry a crumb bigger than her head?",
-   "a": "Because she had a big appetite and a small body!"
+   "a": "Because she is stronger than she looks!"
   },
   {
    "j": "What did one bee say to her sister after the dance?",
-   "a": "Buzz off and go find those flowers!"
+   "a": "Fly straight, and go find those flowers!"
   }
  ],
  "maths": [
@@ -2187,12 +2118,12 @@
  "roots": {
   "context": "We have counted legs, met insects, spiders and worms, and watched ants carry crumbs. Now we ask what the crumb test tells us about size, strength and ourselves.",
   "deep_truth": {
-   "truth": "In the crumb test, an ant carried off a crumb bigger than her own head. You could not carry a rice sack as big as you. A small body weighs very little for the strength of the muscles in it. So smaller animals are usually stronger for their size.",
+   "truth": "An ant can carry a crumb bigger than her own head. You cannot carry a load as heavy as your own body. A small body weighs very little for the strength of its muscles. So smaller animals are usually stronger for their size.",
    "habit": "We think of big as strong and small as weak. But strength depends on size in a surprising way: as a body grows, the weight grows faster than the strength. So a small body is not a weaker copy of a big one. Being small brings its own powers.",
-   "evidence": "In the crumb test, ants carried away crumbs bigger than their heads, and teams moved even bigger ones. In 1638 Galileo worked out that when a body is made bigger, the weight grows faster than the strength."
+   "evidence": "In the crumb test, ants carried the tiny crumbs, and teams sometimes moved bigger ones. In 1638 Galileo worked out that when a body is made bigger, the weight grows faster than the strength."
   },
   "three": {
-   "who_am_i": "You are a big animal, many thousands of times heavier than an ant. Your size decides what you can lift, and what you cannot.",
+   "who_am_i": "You are a big animal, millions of times heavier than an ant. Your size decides what you can lift, and what you cannot.",
    "what_is_life": "Life comes in every size. Each size has its own strengths: an ant lifts big loads, and a person can carry a baby a long way.",
    "what_is_this_world": "The world is full of small creatures, far more of them than of us. Ants, bees, spiders and worms do huge work together, one small load at a time."
   },
@@ -2242,10 +2173,11 @@
   "art": "A girl lying on her tummy on a kitchen floor with her cheek near the tiles, looking along the floor at a tiny ant carrying a crumb towards her."
  },
  "how_we_found_out": {
-  "story": "About 125 years ago, many scientists thought insects were like tiny machines. In 1898, Albrecht Bethe, a German scientist, wrote that ants and bees only react to smells and other signals. He said they cannot learn. Charles Henry Turner, an African American scientist, decided to test this. People were often unfair to Black scientists then, and he did much of his research while teaching in a school. Turner built a small platform with little paths and bridges leading back to an ants' nest. He put ants on the platform and watched them find their way home, again and again. At first they wandered. Then they found their way faster each time, as if they had learned the route. When he moved things around them, or changed where the light came from, they got lost, then learned the new way. In 1907 he wrote that ants learn and remember the way home. Later he showed that bees learn colours too.",
+  "story": "About 125 years ago, many scientists thought insects were like tiny machines. In 1898, Albrecht Bethe, a German scientist, wrote that ants and bees only react to smells and other signals. He said they cannot learn. Charles Henry Turner, an African American scientist, decided to test this. People were often unfair to Black scientists then, and he did much of his research while teaching in a school. Turner built a small platform with little paths and bridges leading back to an ants' nest. He put ants on the platform and watched them find their way home, again and again. At first they wandered. Then they found their way faster each time, as if they had learned the route. In 1907 he wrote that ants learn and remember the way home. Later he showed that bees learn colours too.",
   "who": "Charles Henry Turner, an African American scientist and teacher, testing an idea of Albrecht Bethe, a German scientist",
   "when": "Bethe wrote his idea in 1898. Turner published his ant tests in 1907, and his bee colour tests in 1910.",
   "wrong_idea": "That insects are like machines, who only react and cannot learn. Turner's tests showed that ants learn their way home and get better with practice.",
   "art": "A man in an old-fashioned suit bending over a table with a small wooden bridge and paper paths, watching ants walk across, with a notebook open beside him."
- }
+ },
+ "playtest": "Played the leg-counting race and the bee dance game for 2 and 4 players, and followed the crumb test, dough models, diary and web challenge step by step in a flat. Fixed the game rules (no drawing on 16 cards, a nobody-wins rule, the unused sun rule), the crumb test minutes, the dough sticks count, the diary schedule and the web, which now needs sticky tape to catch paper balls. Corrected a false rice-sack claim, the story's boy calling a spider an insect, and a deep truth that said ants carried head-sized crumbs in the test. Removed repeated questions and checks."
 }

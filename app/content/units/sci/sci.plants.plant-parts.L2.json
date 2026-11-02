@@ -23,7 +23,7 @@
  "terms": [
   {
    "term": "Plant part",
-   "meaning": "One piece of a plant that has its own job: root, stem, leaf, flower, fruit or seed.",
+   "meaning": "One piece of a plant. Each piece has its own job: root, stem, leaf, flower, fruit or seed.",
    "example": "A carrot is the root of the carrot plant. Palak is the leaf of the palak plant.",
    "art": "A carrot plant pulled up, with their orange root and their feathery green leaves."
   },
@@ -108,7 +108,7 @@
    "status": "defined",
    "context": "This card compares three plants that live in very different places.",
    "definition": "Every plant has roots, a stem and leaves, but their shapes are very different. Each plant's parts suit the place where the plant lives.",
-   "description": "A cactus lives where it hardly rains. Their thick green stem stores water and makes food. Their leaves are sharp spines, which lose almost no water. A lotus lives in a pond. Their stem grows in the mud, where there is little air. Long tunnels of air run down the leaf stalks to the parts in the mud. A banyan is a huge tree. Roots grow down from her branches into the soil and hold the long branches up like pillars.",
+   "description": "A cactus lives where it hardly rains. Their thick green stem stores water and makes food, and their spines are leaves that lose almost no water. A lotus lives in a pond, with their stem in the mud where there is little air. Long tunnels of air run down the leaf stalks to the stem. A banyan is a huge tree. Roots grow down from her branches into the soil and hold the branches up like pillars.",
    "examples": [
     "Cactus: a fat, green stem that stores water, and spines instead of flat leaves.",
     "Lotus: a stem in the mud, long stalks with air tunnels, and big leaves on the water.",
@@ -207,8 +207,8 @@
   }
  ],
  "how_we_found_out": {
-  "story": "Water lilies and lotus plants grow their stems in pond mud. Mud has almost no air in it, but the stems need air to stay alive. For a long time, scientists thought air reached them only by creeping slowly down the leaf stalks. In 1980, an American scientist named John Dacey studied the yellow water lily. He found that air does not just creep. Young leaves, warmed by the sun, push air down the stalks under pressure. The air flows through the stem in the mud, and comes back up and out through older leaves. Dacey called it an internal wind. In 1988, two scientists in Germany, Mevi-Schütz and Wolfgang Grosse, found a flow of air through the lotus too, driven by the warmth of the sun on the leaves. Scientists are still studying exactly how the lotus pushes the air.",
-  "who": "John Dacey, an American scientist (1980); Mevi-Schütz and Wolfgang Grosse in Germany (1988)",
+  "story": "Water lilies and lotus plants grow their stems in pond mud. Mud has almost no air in it, but the stems need air to stay alive. For a long time, scientists thought air reached them only by creeping slowly down the leaf stalks. In 1980, a scientist named John Dacey studied the yellow water lily. He found that air does not just creep. Young leaves, warmed by the sun, push air down the stalks. The air flows through the stem in the mud, and comes back up and out through older leaves. Dacey called it an internal wind. In 1988, two scientists in Germany, Mevi-Schütz and Wolfgang Grosse, found a flow of air through the lotus too, driven by the warmth of the sun on the leaves. Scientists are still studying exactly how the lotus pushes the air.",
+  "who": "John Dacey; Mevi-Schütz and Wolfgang Grosse in Germany",
   "when": "1980 for the water lily; 1988 for the lotus",
   "wrong_idea": "That air reaches the stems of pond plants only by creeping slowly down the stalks. Dacey showed that warm young leaves push air down, so it flows through the plant like a wind.",
   "art": "A cut-away drawing of a pond: lotus leaves on top in the sun, arrows showing air going down one stalk, through the stem in the mud, and up another stalk."
@@ -217,7 +217,7 @@
   "title": "The Brinjal That Would Not Sink",
   "mins": 7,
   "read_aloud": true,
-  "note": "Thamarai thandu (lotus stem) is eaten in Tamil Nadu, often dried as vathal. The Thimmamma Marrimanu banyan is in Andhra Pradesh and is one of the largest trees in the world by the area under her branches. Kavya, Paati and Arjun are made up.",
+  "note": "Thamarai thandu is the Tamil name for lotus stem. The Thimmamma Marrimanu banyan is in Andhra Pradesh and is one of the largest trees in the world by the area under her branches. Kavya, Paati and Arjun are made up.",
   "text": [
    "Kavya was seven, and she lived in Madurai with her grandmother. Everyone called her grandmother Paati. On Sunday mornings, Kavya helped Paati wash the vegetables for sambar.",
    "This Sunday her cousin Arjun had come from Bengaluru. He was six. He stood on a stool at the sink, watching.",
@@ -235,9 +235,9 @@
    "Kavya thought about it. \"Lotus plants grow in ponds,\" she said slowly. \"This stem was down in the mud. Maybe the holes are for air.\"",
    "\"You are right,\" said Paati. \"Mud has almost no air. These tunnels carry air down from the leaves on top of the pond. When I was a girl near Thanjavur, our temple tank was full of lotus. We children used to break a leaf stalk and blow through it. Bubbles came out of the other end.\"",
    "Arjun laughed. \"A plant with straws inside!\"",
-   "\"In my school there is a cactus in a pot,\" he said. \"It has no leaves at all. Only prickles.\"",
+   "Then Arjun remembered something. \"In my school there is a cactus in a pot,\" he said. \"It has no leaves at all. Only prickles.\"",
    "\"The prickles are the leaves,\" said Kavya. She had read it in a book. \"A cactus lives where it hardly rains. Thin, flat leaves would dry out. So the cactus has spines, and keeps water in a fat green stem.\"",
-   "\"And the big tree near your school?\" asked Paati. \"The one with roots hanging down like ropes?\"",
+   "\"And the big tree near Kavya's school?\" asked Paati. \"The one with roots hanging down like ropes?\"",
    "\"The banyan!\" said Kavya. \"Her roots grow down from the branches. When they reach the ground, they get thick, like pillars.\"",
    "\"In Andhra Pradesh there is a banyan called Thimmamma Marrimanu,\" said Paati. \"She has so many pillar roots that she covers more ground than two football fields. People walk inside her like walking in a forest. And it is all one tree.\"",
    "Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus slice with holes. \"Every vegetable is a part of a plant,\" he said. \"And each part is different inside.\"",
@@ -264,10 +264,10 @@
    "context": "In this experiment you put pieces of six plant parts in a bowl of water: potato, carrot, brinjal, cucumber, a palak leaf and dry chana. You guess first, then watch which float and which sink. Then you test if a tiny piece does anything different.",
    "question": "Which plant parts float in water, and which sink? Does a tiny piece do the same as a big piece?",
    "predict": "Hold each piece in your hand. Which ones will float, and which will sink? Put them in two groups. Why do you think so?",
-   "fair_test": "Every piece goes into the same bowl of the same tap water. We drop each piece in gently from just above the water, and wait 10 seconds before we decide. The first pieces are all about the size of your thumb, so size is not the reason one floats and another sinks. Then we change only the size, with one tiny piece of potato and one tiny piece of brinjal.",
+   "fair_test": "Every piece goes into the same bowl of the same tap water. We drop each piece in gently from just above the water, and wait 10 seconds before we decide. The four cut pieces (potato, carrot, brinjal, cucumber) are all about the size of your thumb, so size is not the reason one floats and another sinks. The leaf and the chana go in as they are. Then we change only the size, with one tiny piece of potato and one tiny piece of brinjal.",
    "results_table": [
     "Food",
-    "Which plant part it is",
+    "Plant part",
     "My guess: float or sink",
     "What happened",
     "Tiny piece: float or sink"
@@ -314,7 +314,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the vegetables. Put the bowl on the floor or a low table so it cannot tip onto anyone.",
+   "safety": "A grown-up does all the cutting.",
    "schedule": [
     {
      "day": 1,
@@ -410,7 +410,7 @@
        ]
       }
      ],
-     "parent": "Accept any answer now. The vegetable basket sort and the cards explain the parts. Potato is a stem that grows under the ground, which surprises most people."
+     "parent": "Accept any answer now. The vegetable basket sort and the card game explains the parts. Potato is a stem that grows under the ground, which surprises most people."
     },
     {
      "id": "s2",
@@ -441,7 +441,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Break off a crumb of potato, as small as a grain of rice. 2. Cut a tiny piece of brinjal the same size. 3. Ask your child to guess first. 4. Drop both in.",
+     "do": "1. A grown-up breaks off a crumb of potato, as small as a grain of rice. 2. Cut a tiny piece of brinjal the same size. 3. Ask your child to guess first. 4. Drop both in.",
      "say": "Some people say small things float and big things sink. Here is a tiny bit of potato. Will it float or sink? Why?",
      "kid": "Here is a tiny bit of potato. Will it float or sink? Say why. Now drop it in.",
      "ask": [
@@ -463,7 +463,8 @@
       ],
       "a": 1,
       "why": "If size decided, the tiny crumb would float and the big brinjal would sink. The opposite happened. So what is inside the part decides."
-     }
+     },
+     "adult": true
     },
     {
      "id": "s5",
@@ -506,8 +507,7 @@
         "There is no air inside them."
        ]
       }
-     ],
-     "think": "A lotus stem is full of holes. Do you think a slice of lotus stem would float or sink?"
+     ]
     }
    ]
   },
@@ -612,7 +612,7 @@
        ]
       }
      ],
-     "parent": "Soaked chana usually grow to about twice their dry weight overnight, so the line of 10 grows by a few centimetres. A seed is packed with stored food, and the seed takes in water before the baby plant inside starts to grow. This is why we soak chana before cooking."
+     "parent": "Soaked chana are usually a little bigger and softer: the line of 10 often grows by 1 to 3 centimetres, and a soaked chana dents when you press it. Write down what yours really did. A seed is packed with stored food, and the seed takes in water before the baby plant inside starts to grow. This is why we soak chana before cooking."
     }
    ]
   }
@@ -672,7 +672,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Your child picks up one food at a time. 2. They say which part they think it is and why. 3. They put it on that paper. 4. Help only with the surprises.",
-     "say": "Pick up a food. Which part of the plant do you think it is? How can you tell?",
+     "say": "Pick up a food. Which plant part do you think this food is? How can you tell?",
      "kid": "Pick up a food. Which part is it? Put it on that paper.",
      "ask": [
       {
@@ -749,14 +749,14 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Open the masala box. 2. Let your child smell each spice. 3. Put a pinch of each on a steel plate.",
-     "say": "Every spice in this box came from a plant. Smell each one. Which part of a plant do you think it is?",
+     "say": "Every spice in this box came from a plant. Smell each one. Which plant part do you think each spice is?",
      "kid": "Smell each spice. Every one came from a plant. Which part do you think?"
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "1. Tell your child each answer after they have guessed. 2. They move the pinch to the right paper.",
-     "say": "Guess first, then I will tell you. Mustard and methi are seeds. Curry leaves are leaves. Dried red chilli is a fruit with seeds inside. Turmeric and cinnamon come from stems. A clove is a flower bud that was picked and dried before it opened.",
+     "say": "Guess first, then I will tell you. Which part of a plant do you think this spice is?",
      "kid": "Guess first. Then put each spice on its paper.",
      "ask": [
       {
@@ -767,7 +767,7 @@
        ]
       }
      ],
-     "parent": "Turmeric is an underground stem. Cinnamon is the inner bark of a tree's stem and branches. Cloves are dried flower buds. Jeera is a tiny fruit, so it is best left out of the sort."
+     "parent": "Answers: mustard and methi are seeds. Dried red chilli is a fruit with seeds inside. Turmeric is an underground stem. Cinnamon is the inner bark of a tree's stem. A clove is a flower bud that was picked and dried before it opened. Leave out jeera: it is a tiny fruit that looks like a seed. A powder such as turmeric or chilli powder cannot be recognised, so use the whole spice if you have it, or tell your child which one it is."
     }
    ]
   },
@@ -787,7 +787,7 @@
      "qty": 1
     },
     {
-     "item": "a cactus or a succulent in a pot, if you have one, or the pictures on the cards in this unit",
+     "item": "a cactus or a succulent in a pot, if you have one",
      "qty": 1
     }
    ],
@@ -813,7 +813,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Show your child the cards for the cactus, the lotus and the banyan. 2. Your child draws all three. 3. They colour the roots brown, the stems orange and the leaves green.",
+     "do": "1. Tell your child what each plant looks like, using the notes below. 2. Your child draws all three. 3. They colour the roots brown, the stems orange and the leaves green. These colours are a code to tell the parts apart, not the real colours.",
      "say": "Draw a cactus, a lotus and a banyan. Colour the roots brown, the stems orange and the leaves green. Where are the leaves on the cactus?",
      "kid": "Draw the three plants. Roots brown, stems orange, leaves green.",
      "ask": [
@@ -831,7 +831,7 @@
        ]
       }
      ],
-     "parent": "The cactus's spines are their leaves, so colour them green too. The lotus stem lies in the mud, and long leaf stalks rise up to the leaves on the water."
+     "parent": "Cactus: a fat green stem full of water, sharp spines instead of flat leaves, and roots that spread wide just under the sand. Lotus: a stem lying in the mud at the bottom of a pond, long leaf stalks rising from it, and big round leaves on the water. Banyan: a huge tree with roots hanging down from her branches. The cactus's spines are their leaves, so colour them green too."
     },
     {
      "id": "s2",
@@ -848,10 +848,10 @@
    "title": "Count the Holes in a Lotus Stem (if you can buy one)",
    "mins": 10,
    "days": 1,
-   "context": "Lotus stem is sold in many markets: thamarai thandu in Tamil Nadu, kamal kakdi in much of North India, nadru in Kashmir and bhein in Sindhi homes. In this activity you cut a slice, count the holes, and blow air through it.",
+   "context": "Lotus stem is sold in many markets: thamarai thandu in Tamil Nadu, kamal kakdi in much of North India, nadru in Kashmir and bhein in Sindhi homes. In this activity you cut a slice, count the holes, and test if it floats.",
    "materials": [
     {
-     "item": "one lotus stem, from a vegetable market or a big shop",
+     "item": "one lotus stem, from a vegetable market or a big shop. If you cannot find one, read the lotus stem part of the story again and draw the ring of holes it describes",
      "qty": 1
     },
     {
@@ -905,7 +905,7 @@
      "do": "1. Ask your child to guess if a slice will float or sink, and why. 2. Drop a slice into the bowl. 3. Talk about what happened.",
      "say": "Will this slice float or sink? Why do you think so? Let's try.",
      "kid": "Will the slice float or sink? Say why. Drop it in.",
-     "parent": "The holes are air tunnels. They carry air from the leaves above the water down to the stem in the mud. Whatever your slice does, ask your child why. A lotus stem also stores food, so it is not as light as it looks."
+     "parent": "The holes are air tunnels. They carry air from the leaves above the water down to the stem in the mud. A cut slice is open at both ends, so water can fill the holes, and a lotus stem also stores food. So nobody can promise what your slice will do: write down what it really did, and ask your child why."
     }
    ]
   }
@@ -916,7 +916,7 @@
    "title": "Which Part Do We Eat?",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a card game about the plant parts we eat. You turn over a food card, say which part of the plant it is, and check the back.",
+   "context": "This is a card game about the plant parts we eat. You turn over a food card, say which plant part the food is, and check the back.",
    "printables": [
     {
      "kind": "cards",
@@ -1010,12 +1010,11 @@
     }
    ],
    "rules": [
-    "Before you play, draw each food on its card, so a child who cannot read yet can play.",
-    "Lay the 6 part cards face up in a row. Mix the food cards and put them face down in a pile.",
-    "On your turn, turn over the top food card and read the food aloud.",
+    "Lay the 6 part cards face up in a row. Mix the 18 food cards and put them face down in a pile.",
+    "Take turns. On your turn, turn over the top food card and read the food aloud.",
     "Put the food card under the part you think it is, and say why.",
-    "Turn the card over and read the back. If you were right, keep the card. If not, put it at the bottom of the pile.",
-    "When the pile is empty, the player with the most cards wins. Then lay all the cards out and count how many of each part you found."
+    "Turn the card over and read the back. If you were right, keep the card in your own pile. If not, leave the card under its right part, and nobody keeps it.",
+    "When the pile is empty, the player with the most kept cards wins. If two players tie, they share the win. Then put every card under its part and count how many cards each part has."
    ],
    "setup": [
     {
@@ -1031,9 +1030,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards together. 2. Your child draws each food on its card. 3. Lay out the 6 part cards.",
-     "say": "Let's draw each food on its card. Then we can play.",
-     "kid": "Cut out the cards. Draw each food on its card."
+     "do": "1. Cut out the cards together. 2. Lay out the 6 part cards. 3. A child who cannot read yet can first draw a small picture of the food on each food card.",
+     "say": "Let's cut out the cards. Then we can play.",
+     "kid": "Cut out the cards. Lay out the 6 part cards. You can draw each food on its card."
     },
     {
      "id": "s2",
@@ -1143,12 +1142,12 @@
     }
    ],
    "rules": [
-    "Each player draws a cactus, a lotus and a banyan on three answer cards.",
+    "Each player takes one cactus, one lotus and one banyan answer card.",
     "Mix the clue cards and put them face down. One player is the reader.",
-    "The reader turns over a clue card and reads the front aloud, but not the back.",
+    "The reader turns over a clue card and reads the front aloud, but not the back. The reader does not answer that round.",
     "Everyone else holds up the answer card they think is right, all at the same time.",
     "The reader reads the back. Everyone who was right gets one point.",
-    "The next player becomes the reader. Play until all 12 clues are read. The player with the most points wins."
+    "The next player becomes the reader. Play until all 12 clues are read. The player with the most points wins. If two players tie, they share the win."
    ],
    "setup": [
     {
@@ -1164,9 +1163,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Each player draws a cactus, a lotus and a banyan on three small cards. 2. Mix the clue cards.",
-     "say": "Draw a cactus, a lotus and a banyan. You will hold one up when you hear a clue.",
-     "kid": "Draw a cactus, a lotus and a banyan on three cards."
+     "do": "1. Cut out the clue cards and the answer cards. 2. Give each player a cactus, a lotus and a banyan answer card. 3. Mix the clue cards.",
+     "say": "Here are your three answer cards. You will hold one up when you hear a clue.",
+     "kid": "Cut out the cards. Take a cactus, a lotus and a banyan answer card."
     },
     {
      "id": "s2",
@@ -1198,7 +1197,7 @@
    "context": "A banyan grows roots from her branches. Many plants can grow roots from their stems. In this two-week project you put a piece of money plant or mint stem in a jar of water and watch new roots grow out of the stem.",
    "materials": [
     {
-     "item": "a piece of money plant stem with 3 or 4 leaves, cut by a grown-up, or 2 stems from a bunch of pudina (mint) from the market",
+     "item": "a piece of money plant stem with 3 or 4 leaves and at least one bump where a leaf was joined, cut by a grown-up, or 2 stems from a bunch of pudina (mint) from the market",
      "qty": 1
     },
     {
@@ -1248,7 +1247,7 @@
      "id": "s1",
      "mins": 6,
      "adult": true,
-     "do": "1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water with the bare part under the water.",
+     "do": "1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water. 4. Keep the bare part under the water, with one leaf bump.",
      "say": "Roots usually grow from a seed, down into the soil. Can roots grow out of a stem? Let's find out.",
      "kid": "Pull off the bottom leaves. Put the stem in the water. Will roots grow?",
      "ask": [
@@ -1296,7 +1295,8 @@
      "parent": "You can plant the rooted stem in a pot of soil to keep it growing.",
      "wait": "Day 14"
     }
-   ]
+   ],
+   "safety": "Money plant sap can upset the stomach and the mouth. Do not chew it, keep it from small children and pets, and wash hands after cutting it. A grown-up cuts the stem and the bottle."
   }
  ],
  "challenges": [
@@ -1391,7 +1391,7 @@
    "items": [
     {
      "t": "match",
-     "p": "Draw a line from each food to the plant part it is.",
+     "p": "Draw a line from each food to its plant part.",
      "pairs": [
       [
        "Carrot",
@@ -1475,12 +1475,6 @@
      "why": "A strong drawing puts each food where it really went in the child's own test, even if a piece did something unusual.",
      "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
      "how": "e1"
-    },
-    {
-     "t": "truefalse",
-     "p": "A tomato has seeds inside, so a scientist calls it a fruit.",
-     "a": true,
-     "why": "True. A part that grows from a flower and holds seeds is a fruit, even if we cook it like a vegetable."
     },
     {
      "t": "odd",
@@ -1593,17 +1587,6 @@
      "why": "Mud at the bottom of a pond has almost no air. The tunnels carry air from the leaves down to the stem."
     },
     {
-     "t": "mcq",
-     "p": "Why is a cactus stem so fat?",
-     "opts": [
-      "It stores water for the dry months",
-      "It is full of air",
-      "It is made of wood"
-     ],
-     "a": 0,
-     "why": "A cactus lives where it hardly rains. Their fat green stem stores water and makes food."
-    },
-    {
      "t": "draw",
      "p": "Draw a banyan tree with three prop roots. Draw an arrow on one root to show which way it grew.",
      "a": "A banyan with roots hanging down from the branches and arrows pointing down to the soil.",
@@ -1617,12 +1600,20 @@
     },
     {
      "t": "write",
-     "p": "A leaf floated in the float test. Write one reason why.",
+     "p": "A leaf floated in the float test. Say or write one reason why.",
      "lines": 2,
      "a": "A leaf has tiny air spaces inside, because a leaf takes in air to make food.",
      "why": "A strong answer names the air spaces, and says the leaf uses air.",
      "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
      "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "A banyan's prop roots grow down from the ____ to the soil.",
+     "a": [
+      "branches"
+     ],
+     "why": "Prop roots start high up on the branches and grow down. When they reach the soil, they get thick and hold the branch up."
     },
     {
      "t": "sort",
@@ -1692,15 +1683,6 @@
      "why": "Sugarcane is a stem. Brinjal, bhindi and drumstick all grew from flowers and hold seeds, so they are fruits."
     },
     {
-     "t": "write",
-     "p": "Revathi, a girl in Class 2, says: 'Heavy things sink and light things float.' What would you show her from the float test?",
-     "lines": 3,
-     "a": "A tiny crumb of potato sinks, and a big piece of brinjal floats. So it is what is inside, not how heavy the piece is.",
-     "why": "A strong answer uses evidence from the test: a small piece that sank and a big piece that floated.",
-     "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
-     "how": "e1"
-    },
-    {
      "t": "perspective",
      "p": "Three people talk about a cactus.",
      "views": [
@@ -1732,20 +1714,20 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Nandini, a girl in Class 2, puts a whole potato and a small piece of potato in water. What will happen?",
+     "p": "Nandini, a girl in Class 2, drops a dry chana into water and it sinks. She soaks another chana overnight, then drops it in. What do you think happens?",
      "opts": [
-      "Both sink",
-      "Both float",
-      "The big one sinks and the small one floats"
+      "The soaked chana sinks too",
+      "The soaked chana floats because it took in water",
+      "The soaked chana melts away"
      ],
      "a": 0,
-     "why": "Every piece of a potato is packed with stored food in the same way. So any size of potato sinks.",
-     "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
+     "why": "Soaking fills the seed with water, but the seed is still packed with stored food, so the chana still sinks. Water inside does not make a part float. Air spaces do.",
+     "context": "This question joins the float test and the seed soak. You tested which parts float and measured chana before and after a night in water.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "A clove is a dried flower bud. Why do you think we cannot see that it is a flower?",
+     "p": "A clove is a dried flower bud. Say or write why we cannot see that it is a flower.",
      "lines": 2,
      "a": "It was picked before it opened, and it was dried, so it is small, brown and hard.",
      "why": "A strong answer says the bud was picked before it opened, and drying changed how it looks."
@@ -1815,7 +1797,7 @@
     },
     {
      "t": "write",
-     "p": "A lotus stem slice has holes. Bijoya, a girl in Kolkata, drops a slice in water. What do you think will happen, and why?",
+     "p": "A lotus stem slice has holes. Bijoya, a girl in Kolkata, drops a slice in water. Say or write what you think will happen, and why.",
      "lines": 3,
      "a": "Any guess with a reason. For example: it may float because of the air in the holes, or sink because the stem also stores food.",
      "why": "A strong answer gives a guess and a reason that uses what the child knows about air spaces and stored food. Testing is the only way to be sure."
@@ -1854,7 +1836,7 @@
  ],
  "videos": [
   {
-   "title": "A banyan tree's hanging roots growing down to the ground (to find)",
+   "title": "A banyan tree's hanging roots growing down to the ground",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1863,7 +1845,7 @@
    "check": "Find a real video, check that it shows a banyan (Ficus benghalensis), and watch it fully first."
   },
   {
-   "title": "A lotus pond: leaves, stalks and the stem in the mud (to find)",
+   "title": "A lotus pond: leaves, stalks and the stem in the mud",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1872,7 +1854,7 @@
    "check": "Find a real video and watch it first."
   },
   {
-   "title": "A cactus swelling after rain (to find)",
+   "title": "A cactus swelling after rain",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1929,19 +1911,6 @@
    ],
    "a": 0,
    "why": "Stored food is packed tight, with little room for air. Picking 'full of air' mixes them up with the floaters.",
-   "outcome": 2,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "Sowmya cuts a tiny crumb of potato. Will it float?",
-   "opts": [
-    "Yes, because it is tiny",
-    "No, it sinks like a big piece",
-    "Only if the water is hot"
-   ],
-   "a": 1,
-   "why": "What is inside decides, not the size. A tiny piece of potato is packed with food too.",
    "outcome": 2,
    "how": "e1"
   },
@@ -2007,7 +1976,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ila, a girl in Class 2, wants to test if a lotus slice floats. What should she do first?",
+   "p": "Ila, a girl in Class 2, wants to find out if a piece of cucumber floats. What should she do first?",
    "opts": [
     "Guess, and say why",
     "Cook it",
@@ -2020,10 +1989,9 @@
  ],
  "applications": [
   "Cooks soak dal and chana before cooking, because dry seeds take in water and get soft.",
-  "Farmers sometimes put seeds in water before sowing and throw away the ones that float, because those are often empty.",
   "Gardeners grow new money plants, tulsi and mint by putting cut stems in water until roots grow.",
-  "Lotus stem is cooked across India: thamarai thandu in Tamil Nadu, kamal kakdi in much of North India, nadru in Kashmir.",
-  "Makhana, the puffed snack from Bihar, is the seed of a water plant related to the lotus."
+  "Lotus stem is cooked in many parts of India: thamarai thandu in Tamil Nadu, kamal kakdi in much of North India, nadru in Kashmir.",
+  "Makhana, the puffed snack from Bihar, is the seed of the fox-nut plant, a kind of water lily that grows in ponds."
  ],
  "spotted": [
   {
@@ -2076,27 +2044,27 @@
   },
   {
    "j": "Why did nobody hug the cactus?",
-   "a": "Their leaves were a bit too sharp!"
+   "a": "Her leaves were a bit too sharp!"
   },
   {
-   "j": "What did the lotus say to the mud?",
-   "a": "Thanks for holding my stem. I'll send down some air!"
+   "j": "What did the lotus leaf say to the raindrop?",
+   "a": "Don't get comfortable. You're just rolling through!"
   },
   {
-   "j": "Why is the banyan never lonely?",
-   "a": "She is always surrounded by her own roots!"
+   "j": "Why does the banyan never get lost?",
+   "a": "She always knows where her roots are!"
   },
   {
-   "j": "What did the tomato say when someone called her a vegetable?",
-   "a": "Check my seeds!"
+   "j": "What did the tomato say to the cook who called her a vegetable?",
+   "a": "Check my seeds. I'm a fruit!"
   },
   {
-   "j": "Why did the chana get bigger overnight?",
-   "a": "They drank a whole bowl of water!"
+   "j": "What did the dry chana say to the water?",
+   "a": "I'm soaking up your advice!"
   },
   {
-   "j": "What do you call a cauliflower that tells jokes?",
-   "a": "A funny flower!"
+   "j": "What did the cauliflower say at the vegetable shop?",
+   "a": "I'm a flower, so why am I in the curry?"
   }
  ],
  "maths": [
@@ -2162,7 +2130,7 @@
    "url": "",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "A big garden with a glasshouse, a lotus pond and many cactus plants to compare."
+   "why": "A big garden with a glasshouse and ponds, where you can look at many kinds of plants."
   },
   {
    "title": "Plants of the World Online, Kew",
@@ -2262,21 +2230,21 @@
    "evidence": "In the float test, the potato and dry chana sank, and a tiny crumb of potato sank too. The brinjal piece and the palak leaf floated. Cut open, the potato was firm and packed, and the brinjal was spongy. A lotus stem slice is full of air tunnels."
   },
   "three": {
-   "who_am_i": "Your body is filled for its jobs too. Your lungs are full of tiny air spaces, and your bones are packed hard.",
+   "who_am_i": "Your body is filled for its jobs too. Your lungs are full of tiny air spaces, and your bones are dense and strong.",
    "what_is_life": "A plant makes food and stores some for later, in a root, a stem or a seed. When we eat it, that saved food becomes ours.",
    "what_is_this_world": "A cactus, a lotus and a banyan all have roots, stems and leaves, but each is shaped by the place they live."
   },
-  "thread": "Every plant starts as one seed. From that one seed come roots, a stem, leaves, flowers, fruits and new seeds, each filled and shaped for a different job. The same root, stem and leaf become a water store in a cactus, an air pipe in a lotus and a pillar in a banyan. Everything is conscious, the plant too: each part senses what is around it and sends signals to the others, so the whole plant acts together.",
+  "thread": "Most plants start as one seed. From that one seed come roots, a stem, leaves, flowers, fruits and new seeds, each filled and shaped for a different job. The same root, stem and leaf become a water store in a cactus, an air pipe in a lotus and a pillar in a banyan. Everything is conscious, the plant too: each part senses what is around that part and sends signals to the others, so the whole plant acts together.",
   "teachings": [
    {
     "source": "Tirukkural 595",
-    "teaching": "A lotus stalk grows as long as the water is deep. In the same way, how high a person rises depends on how big their mind is.",
+    "teaching": "A lotus stalk grows as long as the water is deep. In the same way, how high a person rises depends on how strong their will is.",
     "link": "A lotus grows their leaf stalks long enough to reach the top of the water. The Tirukkural, from Tamil Nadu, saw that a plant's part grows to fit the place."
    },
    {
     "source": "Bhagavad Gita 5.10",
     "teaching": "A wise person acts in the world but is not stained by it, like a lotus leaf that sits on water and stays dry.",
-    "link": "A lotus leaf rests on the water, and water rolls off in drops. The leaf is full of air spaces, and its waxy top stays dry."
+    "link": "A lotus leaf rests on the water, and water rolls off in drops. The top of the leaf is waxy, so it stays dry."
    }
   ],
   "science": [
@@ -2300,7 +2268,6 @@
    "kid": "Sit still. Put your hands on your chest. Breathe in slowly. Feel the air fill you. Breathe out. A leaf has air inside too."
   },
   "ask": [
-   "If you eat the food a plant stored for later, whose food is it?",
    "Your lungs have air spaces, and so does a leaf. What else in your body is filled for its job?",
    "Is a banyan's prop root still a root once it holds the tree up?"
   ],
@@ -2318,5 +2285,6 @@
    "Thimmamma Marrimanu: listed by Guinness World Records as the tree with the largest canopy; about 1.6 to 1.9 hectares by different surveys.",
    "Tirukkural 595. Bhagavad Gita 5.10."
   ]
- }
+ },
+ "playtest": "We walked through both card games with 2 and with 4 players, the float test, the chana soak, the kitchen sort, the masala box, the lotus slice, the jar of roots and the paper banyan, step by step as a family in a flat. We made the card games end properly (wrong cards no longer cycle for ever, answer cards match the printed sheet, ties are shared), and fixed the masala box and plant-drawing steps that gave away answers or pointed to pictures that do not exist. We made the soak and lotus-slice results honest, removed repeated questions, a stray joke set and a broken line in the story, and replaced 'it' for living plants."
 }

@@ -17,51 +17,51 @@
 - **Feeling**: A feeling is something you notice inside you, in your body and in your thoughts. Happy, sad, angry and scared are feelings. *e.g.* When your friend shares her mango with you, you feel happy.
 - **Emotion**: Emotion is the word scientists use for a feeling like happy, sad, angry or scared. *e.g.* Fear is an emotion. Your heart beats fast when a loud firecracker bursts nearby.
 - **Calm**: Calm is a quiet, steady feeling. Your body is still, and your breath is slow. *e.g.* Lying on the bed after a bath, listening to the rain, you may feel calm.
-- **Comfort**: To comfort someone is to help them feel better when they are sad, hurt or scared. *e.g.* When your little brother falls and cries, you can comfort him with a hug.
+- **Comfort**: To comfort someone is to help them feel better when they are sad, hurt or scared. *e.g.* When a younger child falls and cries, you can comfort him with a hug.
 - **Well-being**: Well-being means your body and your feelings are both looked after. *e.g.* Sleep, food, water, play and people who listen to you are all part of your well-being.
 
 ## Explanations
 ### What a feeling is · *defined*
 **Definition:** A feeling, or emotion, is something that happens inside you when something happens to you or around you. You notice it in your body and in your thoughts.
 
-Feelings happen in the whole body. When you are scared, your heart beats faster. When you are angry, your face gets hot and your hands may make fists. When you are sad, your throat can feel tight and tears may come. When you are happy, you may want to jump or laugh. Your body and your mind feel it together. Giving the feeling a name is the first step to knowing it.
+Feelings happen in your whole body. A scared heart beats fast. An angry face gets hot, and a sad throat gets tight. Giving the feeling a name is the first step to knowing it.
 - e.g. A dog barks suddenly, and your heart thumps. That is fear.
 - e.g. Your tower of blocks falls down, and your face gets hot. That is anger.
-- e.g. Your grandmother goes back home after a visit, and you feel tears coming. That is sadness.
+- e.g. A cousin you love goes back home after a visit, and you feel tears coming. That is sadness.
 ### Every feeling is all right to have · *defined*
 **Definition:** Every feeling is a normal part of being a person. No feeling is a bad feeling, though some feel hard.
 
-Everyone feels angry sometimes, and everyone feels sad. Grown-ups do, children do, girls and boys do. Each feeling does a job. Fear helps you keep away from danger. Sadness tells the people around you that you need comfort. Anger tells you that something feels unfair. What we do with a feeling matters. Hitting someone when you are angry hurts them. But the feeling itself is all right to have.
+Everyone feels angry sometimes, and everyone feels sad: grown-ups, children, girls and boys. Fear helps you keep away from danger. Sadness tells the people around you that you need comfort. What we do with a feeling matters, so hitting hurts someone, but the feeling itself is all right.
 - e.g. Fear makes you step back from a busy road.
-- e.g. When you cry, Amma or Appa knows you need a hug.
+- e.g. When you cry, a grown-up near you knows you need a hug.
 - e.g. Anger tells you something is unfair, like your turn on the swing being taken.
 ### Feelings come and go · *defined*
 **Definition:** Feelings change. A feeling comes, it may get bigger, then it gets smaller and goes. A new feeling comes in its place.
 
-In one day you may feel sleepy, then happy, then cross, then calm, then excited. Some feelings pass in a few minutes. Sadness often stays longer than other feelings. But feelings keep changing, all through the day. Scientists have found that a feeling usually lasts longer when we keep thinking about what caused it. Doing something else, like playing or helping, lets it change sooner.
+In one day you may feel sleepy, then happy, then cross, then calm, then excited. Some feelings pass in a few minutes, and sadness often stays longer. Scientists have found that a feeling lasts longer when we keep thinking about what caused it. Playing or helping often lets it change sooner.
 - e.g. You feel cross when it is time to stop playing. Ten minutes later you are laughing at dinner.
 - e.g. You feel scared at the start of a thunderstorm. After a while, you feel calm and watch the rain.
 - e.g. You feel sad when a friend moves away. The sadness comes back sometimes, but it gets smaller over the weeks.
 ### Naming a feeling helps · *idea*
-When a feeling is big, saying its name out loud often helps. 'I am angry.' 'I feel sad.' In 2007, Matthew Lieberman, Naomi Eisenberger and their team in the USA tested this. People looked at pictures of angry or scared faces. When they picked a word for the feeling, a part of the brain that reacts to fear got quieter. Lisa Feldman Barrett, a scientist in the USA, found that people who know many feeling words often cope better with hard feelings. Scientists are still finding out exactly why naming helps. It does not always make a feeling go away, but it often makes it a little smaller.
+Saying a feeling's name out loud often helps: 'I am angry.' 'I feel sad.' In 2007, Matthew Lieberman, Naomi Eisenberger and their team in the USA showed people angry and scared faces. When people picked a word for the feeling, a part of the brain that reacts to fear got quieter. Lisa Feldman Barrett and her team found that people who know many feeling words often handle hard feelings better. Naming does not always make a feeling go away, but it often makes it a little smaller, and scientists are still finding out why.
 - e.g. Saying 'I am cross because my drawing got torn' often helps more than shouting.
 - e.g. A small child who says 'I'm scared of the dark' can be helped to switch on a night light.
 - e.g. Knowing the word 'disappointed' helps you say exactly how you feel when a trip is cancelled.
 ### What helps when you feel sad or angry · *debated*
-Many things help when a feeling is big and hard. Take slow breaths. Tell someone how you feel. Get a hug. Go to a quiet place and wait a little. Have a drink of water, or a rest if you are tired. Cry if you need to: crying is all right. Many people used to think the best thing for anger was to let it out by hitting a pillow or shouting. Scientists tested this, and found it usually makes anger last longer. Things that calm the body, like slow breathing, work better.
+Many things help when a feeling is big: slow breaths, telling someone, a hug, a quiet place, a drink of water or a rest. Crying is all right too. Many people used to think the best thing for anger was to let it out by hitting a pillow or shouting. Scientists tested this, and found it usually makes anger last longer. Slow breathing works better.
 - e.g. Five slow breaths, in through the nose and out through the mouth.
-- e.g. Telling Paati, 'I am sad because my balloon burst.'
+- e.g. Telling a grown-up, 'I am sad because my balloon burst.'
 - e.g. Sitting in a quiet corner with a soft toy until the feeling gets smaller.
 - **An old, popular idea:** Anger builds up inside you. If you don't let it out by shouting or hitting a pillow, it will burst out later.
 - **Brad Bushman, Sophie Kjærvik and other scientists who tested it:** Hitting things while angry usually keeps anger going. Calming things like slow breathing, relaxing and taking time out make anger smaller.
 - **Many child doctors and counsellors:** A feeling should not be pushed down and hidden either. Saying it in words, to someone who listens, is the healthy way to let it out.
 ### Other animals have feelings too · *debated*
-Humans are animals, and many other animals have feelings too. A dog wags their tail and jumps when someone they love comes home. Young rats make tiny squeaking calls when they are tickled, too high for us to hear. Jaak Panksepp, a scientist in the USA, found this, and he called it rat laughter. After a fight, one chimpanzee often hugs another who was hurt. Plants feel too: a touch-me-not folds up their leaves when touched. Scientists argue about how much other beings feel, and whether their feelings are like ours.
+Humans are animals, and many other animals have feelings too. A dog wags her tail and jumps when someone she loves comes home. Young rats make tiny squeaking calls when they are tickled, too high for us to hear. Jaak Panksepp, a scientist in the USA, called it rat laughter. After a fight, one chimpanzee often hugs another who was hurt. A touch-me-not plant folds up her leaves when touched, but scientists do not agree that this is a feeling. Scientists argue about how much other beings feel, and whether their feelings are like ours.
 - e.g. A cat purrs and rubs against your leg when she is content.
 - e.g. A crow caws loudly and swoops when someone goes near her nest.
-- e.g. A touch-me-not plant folds up their leaves when a finger touches them.
+- e.g. A touch-me-not plant folds up her leaves when a finger touches them. Is that a feeling? Scientists are not sure.
 - **Many animal scientists today:** Dogs, rats, crows, chimpanzees and many other animals feel joy, fear and anger. We can see it in what they do, and their bodies change as ours do.
-- **Some scientists:** We can watch what other beings do, but we cannot be inside them. So we should not be sure their feelings are like ours. A plant folding their leaves may be a feeling very different from our fear.
+- **Some scientists:** We can watch what other beings do, but we cannot be inside them. So we should not be sure their feelings are like ours. A plant folding her leaves may be a feeling very different from our fear.
 
 ## Mostly agreed
 - Every person has feelings like happy, sad, angry and scared. All of them are normal. *How we know:* Scientists and doctors who have studied children and grown-ups in many countries find these feelings in everyone.
@@ -70,7 +70,7 @@ Humans are animals, and many other animals have feelings too. A dog wags their t
 - Children cope better with hard feelings when they have someone to talk to. *How we know:* Studies that follow children as they grow find that children with a caring grown-up to talk to recover from hard times better.
 
 ## How we found out
-**Brad Bushman, an American scientist who studies anger, and Sophie Kjærvik, who led the 2024 review of more than 150 studies with him, Bushman's punching bag study was published in 2002. The review of more than 150 studies by Kjærvik and Bushman was published in 2024..** For a long time, many people believed that anger builds up inside you. If you did not let it out, they said, it would burst out later. So people were told to hit a pillow or a punching bag when they were angry. Brad Bushman, a scientist in the USA, decided to test this. In a study published in 2002, he made hundreds of students cross, with a rude note about their writing. Then one group hit a punching bag while thinking about the rude person. A second group hit the bag while thinking about getting fit. A third group did not hit anything at all. They just waited quietly. Afterwards, the students who hit the bag while thinking about the rude person were the angriest. They were also the meanest to that person. The students who waited quietly were the least angry. In 2024, Sophie Kjærvik and Brad Bushman put together more than 150 studies. They found that things that calm the body, like slow breathing and relaxing, made anger smaller. So the old idea was wrong.  
+**Brad Bushman, an American scientist who studies anger, and Sophie Kjærvik, who led the 2024 review of more than 150 studies with him, Bushman's punching bag study was published in 2002. The review of more than 150 studies by Kjærvik and Bushman was published in 2024..** For a long time, many people believed that anger builds up inside you. If you do not let it out, they said, it will burst out later. So people were told to hit a pillow or a punching bag when angry. Brad Bushman, a scientist in the USA, tested this in a study published in 2002. He made about 600 students cross with a rude note about their writing. One group hit a punching bag while thinking about the rude person. A second group hit the bag while thinking about getting fit. A third group sat quietly. The students who hit the bag thinking about the rude person were the angriest, and the meanest to that person. The students who sat quietly were the least angry. In 2024, Sophie Kjærvik and Brad Bushman put together more than 150 studies. Calming things, like slow breathing, made anger smaller. So the old idea was wrong.  
 *What people believed before:* That anger builds up inside like steam, so hitting a pillow or shouting lets it out and makes you calm. The tests showed that hitting things while angry keeps the anger going, and calming the body makes it smaller.
 
 ## Challenging perspectives
@@ -87,15 +87,15 @@ Humans are animals, and many other animals have feelings too. A dog wags their t
 ## Roots
 We have named our feelings and drawn them six times in one day. Now we ask what that tells us about ourselves, and about the world.
 
-**Deep truth.** On your feelings chart, you drew several different faces in one day. Even the cross or sad face did not stay. Each feeling came, changed and went, while you were there all day. So when a big feeling comes, you can wait with it, and it will change.  
+**Deep truth.** On your chart you drew several different faces in one day. A cross or sad face did not stay. Each time, the same child stopped and noticed the feeling. So a feeling comes and goes, and the child who has it stays.  
 *Habit it breaks:* We say 'I am angry' or 'she is a sad child', as if a feeling were a fixed part of a person. The chart shows a feeling is something that happens to you for a while, and then changes.  
-*Evidence:* On the feelings chart, almost every child draws three or more different feelings in one day, and a cross or sad face is usually followed by a different one within a few hours.
+*Evidence:* Count the different faces on your own chart, and look at which face came after each cross or sad face.
 
 - *who am i:* You are the one who feels happy, cross, sleepy and calm. The feelings change, and you are still you.
-- *what is life:* Living beings feel. A child, a dog, a rat being tickled and a touch-me-not plant all feel and respond to what happens to them.
+- *what is life:* Living beings feel. A child, a dog and a rat being tickled all feel and respond to what happens to them. A touch-me-not plant responds to touch too.
 - *what is this world:* The world is full of feeling beings, each having feelings that come and go, just as yours do.
 
-In one day you were many: a sleepy you, a happy you, a cross you, a calm you. Yet one you was there under all of them, noticing each feeling. Feelings are the many. The one who notices them is the same all day. Every living being has feelings coming and going like this, and the same awareness is there in all of them.
+In one day you felt sleepy, happy, cross and calm. The same child noticed each feeling. Feelings come and go, and the one who notices them stays. Other living beings have feelings that come and go too.
 
 - **Bhagavad Gita 2.14:** Krishna tells Arjuna that heat and cold, joy and sorrow, come from the senses meeting the world. They come and they go, and they do not last. So bear them patiently. (Your feelings chart showed the same thing: joy and sorrow came and went in one day. Waiting patiently with a feeling lets it change.)
 - **Dhammapada, verse 5:** Hatred is never ended by more hatred. It is ended only by letting go of hatred. (Scientists found the same about anger: hitting and shouting keep anger going. Calming down lets it go.)
@@ -157,30 +157,30 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 
 - Ask: What two feelings did Chinnu have when her castle broke?
 - Ask: What did Chitti do that helped? What did she not say?
-- Ask: Chinnu counted five feelings on the bus. Can you count your feelings from today?
+- Ask: On the bus, Chinnu counted her feelings: happy, angry, sad, calm, happy. Which feeling came two times? What feelings did you have today?
 
 ## Games
 ### g1 · What Would You Feel? A feelings card game (15 min)
-- **rules:** Lay the six face cards in a row, face up. Mix the story cards and put them face down in a pile.; Take turns. The grown-up reads the top story card aloud.; The player says what they would feel, and puts a finger on that face card.; The player shows the feeling with their face and body for three counts.; Everyone else says what they would feel. It is fine to feel something different.; The grown-up reads the back of the card. The player keeps the card.; When the pile is empty, each player picks one card and says what would help with that feeling.
-- **Printable cards: 16 story cards to cut out:** Your ice cream falls on the floor. (back: Many children feel sad or cross. Some laugh!); Your best friend comes to play. (back: Most children feel happy or excited.); A loud thunderclap wakes you up at night. (back: Many children feel scared. Some feel excited by storms.); Someone takes your crayons without asking. (back: Most children feel angry. That is fair: it was not kind.); Paati gives you a big hug. (back: Most children feel happy, warm or calm.); You lose a race at school. (back: Many children feel sad or cross. Some feel proud they tried.); You are going on a train to see your cousins tomorrow. (back: Most children feel excited. Some feel a bit nervous too.); Your kite string snaps and the kite floats away. (back: Many children feel sad. Some feel cross.); You learn to ride a cycle without help. (back: Most children feel proud and happy.); A big dog runs towards you, barking. (back: Many children feel scared. Children who love dogs may feel happy.); Your little brother tears your drawing. (back: Most children feel angry, and sad too. Two feelings can come at once.); It is your birthday, and everyone sings for you. (back: Most children feel happy. Some feel shy too.); Amma goes out, and you are not allowed to go with her. (back: Many children feel sad or cross.); You lie on the bed and listen to the rain. (back: Many children feel calm, or sleepy.); You can't find your favourite toy anywhere. (back: Many children feel worried, then cross.); Your friend shares her lunch when you forgot yours. (back: Most children feel happy and thankful.)
-- **Printable cards: 6 feeling face cards to cut out:** Happy (back: A smiling face with bright eyes.); Sad (back: A face with the mouth turned down and a tear.); Angry (back: A face with eyebrows pulled down and lips pressed tight.); Scared (back: A face with wide eyes and raised eyebrows.); Calm (back: A face with soft eyes and a small, quiet smile.); Excited (back: A face with a big open smile and eyebrows up.)
+- **rules:** Cut out the six feeling cards. Draw the face on each one, using the hint on its back. Lay them in a row, face up. Mix the 16 story cards and put them face down in a pile.; Take turns. The player whose turn it is gives the top story card to another player to read aloud. A child who cannot read yet gives it to the grown-up.; The player says what they would feel, and puts a finger on that feeling card.; The player shows the feeling with their face and body for three counts.; Everyone else says what they would feel. It is fine to feel something different.; The reader reads the back of the story card. Put the card face up in a used pile.; When all 16 story cards are used, each player picks one used card that gave a sad, cross or scared feeling, and says what would help. Then the game is over. Nobody wins or loses: you all named your feelings.
+- **Printable cards: 16 story cards to cut out:** Your ice cream falls on the floor. (back: Many children feel sad or cross. Some laugh!); Your best friend comes to play. (back: Most children feel happy or excited.); A loud thunderclap wakes you up at night. (back: Many children feel scared. Some feel excited by storms.); Someone takes your crayons without asking. (back: Most children feel angry. That is fair: it was not kind.); A grown-up you love gives you a big hug. (back: Most children feel happy, warm or calm.); You lose a race at school. (back: Many children feel sad or cross. Some feel proud they tried.); You are going on a train to see your cousins tomorrow. (back: Most children feel excited. Some feel a bit nervous too.); Your kite string snaps and the kite floats away. (back: Many children feel sad. Some feel cross.); You learn to ride a cycle without help. (back: Most children feel proud and happy.); A big dog runs towards you, barking. (back: Many children feel scared. Children who love dogs may feel happy.); Another child tears your drawing. (back: Most children feel angry, and sad too. Two feelings can come at once.); It is your birthday, and everyone sings for you. (back: Most children feel happy. Some feel shy too.); A grown-up goes out, and you are not allowed to go with them. (back: Many children feel sad or cross.); You lie on the bed and listen to the rain. (back: Many children feel calm, or sleepy.); You can't find your favourite toy anywhere. (back: Many children feel worried, then cross.); Your friend shares her lunch when you forgot yours. (back: Most children feel happy and thankful.)
+- **Printable cards: 6 feeling cards to cut out and draw:** Happy (back: A smiling face with bright eyes.); Sad (back: A face with the mouth turned down and a tear.); Angry (back: A face with eyebrows pulled down and lips pressed tight.); Scared (back: A face with wide eyes and raised eyebrows.); Calm (back: A face with soft eyes and a small, quiet smile.); Excited (back: A face with a big open smile and eyebrows up.)
 - **s1 (2 min)**  
-  *Parent does:* Cut out the cards. Lay the six face cards in a row. Read each face name aloud together.  
-  *Parent says:* These are six feelings: happy, sad, angry, scared, calm and excited. Let's make each face together.  
+  *Parent does:* Cut out the cards. Draw the face on each of the six feeling cards, using the hint on its back. Lay them in a row and read each name aloud together.  
+  *Parent says:* These are six feelings: happy, sad, angry, scared, calm and excited. Let's draw each face and make it ourselves.  
   *Child mode:* Here are six feelings. Say each name. Make each face.
 - **s2 (10 min)**  
   *Parent does:* Play the game by the rules. Read each story card aloud.  
   *Parent says:* Listen: someone takes your crayons without asking. What would you feel? Point to the face. Now show it!  
   *Child mode:* Listen to the story. What would you feel? Point to the face. Show it with your body.
-  - Ask: Would everyone feel the same? (good: No. I felt cross and Akka felt sad.; Some people like dogs and some are scared.)
-  - Note: When two players feel differently, say so warmly: 'You felt scared and Didi felt excited. Both are real feelings.'
+  - Ask: Would everyone feel the same? (good: No. I felt cross and the other player felt sad.; Some people like dogs and some are scared.)
+  - Note: When two players feel differently, say so warmly: 'You felt scared and I felt excited. Both are real feelings.'
 - **s3 (3 min)**  
   *Parent does:* At the end, each player chooses one card and says what would help.  
   *Parent says:* Pick one card that gave a sad or angry feeling. What would help you feel better?  
   *Child mode:* Pick a sad or angry card. What would help you?
-  - Check: Your little brother tears your drawing. You feel angry. What helps most? → **Telling him, 'I am angry. That was my drawing.'**
+  - Check: Another child tears your drawing. You feel angry. What helps most? → **Telling them, 'I am angry. That was my drawing.'**
 ### g2 · Feeling Statues: freeze, then find a helper (10 min)
-- **rules:** Play music on a phone. Everyone dances.; The grown-up stops the music and calls the feeling on the top card.; Everyone freezes like a statue, showing that feeling with their face and whole body.; The grown-up reads the helper call on the back. Everyone does it.; Start the music again, and use the next card.
+- **rules:** Play music on a phone. Everyone dances.; The grown-up stops the music and calls the feeling on the top card.; Everyone freezes like a statue, showing that feeling with their face and whole body.; The grown-up reads the helper call on the back. Everyone does it.; Start the music again, and use the next card. After the eighth card, the game is over.
 - **Printable cards: 8 feeling call cards for the grown-up:** Happy (back: Helper call: Share your happy with someone. Give them a high five.); Sad (back: Helper call: Give yourself a hug.); Angry (back: Helper call: Breathe out slowly, like blowing on hot rasam.); Scared (back: Helper call: Hold a grown-up's hand.); Calm (back: Helper call: Sit down and stay still for three counts.); Excited (back: Helper call: Jump three times, then stand still.); Tired (back: Helper call: Lie down and close your eyes for three counts.); Proud (back: Helper call: Stand tall and say, 'I did it!')
 - **s1 (8 min)**  
   *Parent does:* Play by the rules. Use all eight cards.  
@@ -194,13 +194,13 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   - Ask: Which helper made you calm? (good: Blowing on the rasam.; Lying down with my eyes closed.)
 
 ## Experiments
-### e1 · My Feelings Chart: how many feelings come in one day? (30 min, 2 days)
+### e1 · My Feelings Chart: how many feelings come in one day? (33 min, 2 days)
 - **question:** In one day, do I have one feeling all day, or many different feelings? When a sad or cross feeling comes, does it stay?
 - **predict:** How many different feelings do you think you will draw today? Will one feeling stay all day? Why do you think so?
 - **fair test:** We stop at the same six times in the day: waking up, breakfast, mid-morning, lunch, late afternoon and bedtime. Each time, you name the feeling yourself. Nobody tells you what you feel. Any feeling is a right answer.
 - **record:** The chart of six faces, with a small picture next to any sad, cross or scared face showing what helped.
 - **results table:** Time | My feeling (draw the face) | How big? small, middle or big | What was happening? | If it was sad, cross or scared: what helped?
-- **schedule:** day 1: Make the chart, guess how many feelings will come, and draw the first face when you wake up or soon after. (8 min); day 1: Stop five more times in the day, at breakfast, mid-morning, lunch, late afternoon and bedtime, and draw a face each time. (12 min); day 2: Look at the whole chart. Count the different feelings. Did any feeling stay all day? Compare with your guess. (10 min)
+- **schedule:** day 1: Make the chart, guess how many feelings will come, and draw the first face when you wake up or soon after. (10 min); day 1: Stop five more times in the day, at breakfast, mid-morning, lunch, late afternoon and bedtime, and draw a face each time. If a face is sad, cross or scared, try one helper. (13 min); day 2: Look at the whole chart. Count the different feelings. Did any feeling stay all day? Compare with your guess. (10 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Draw six big circles on the paper. 2. Under them, write the six times: wake up, breakfast, mid-morning, lunch, afternoon, bedtime. 3. Tape the chart where your child can reach it.  
   *Parent says:* Today we are going to be feeling scientists. Six times today, we will stop and ask what you are feeling. You will draw a face for it in a circle.  
@@ -218,8 +218,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   *Child mode:* Stand still. Hand on your tummy. Close your eyes. What do you feel? Is it small, middle or big? Draw its face.
   - Ask: What are you feeling? How big is it? (good: Sleepy, a big sleepy.; Happy, a middle happy.; A little bit cross.)
   - Note: Let your child choose the word. If they are stuck, offer three: 'Happy, sleepy or cross?' Do not tell them what they feel. Show 'how big' with your hands: close together, a bit apart, wide apart.
-  - Check: Which of these is a feeling? → **Angry**
-- **s4 (12 min)**  
+- **s4 (10 min)**  
   *Parent does:* 1. Stop at breakfast, mid-morning, lunch, late afternoon and bedtime. 2. Each time, your child names the feeling and draws the face. 3. Ask what was happening, and write one word next to the circle.  
   *Parent says:* Time to stop again. Hand on your tummy. What are you feeling now? What is happening just now?  
   *Child mode:* Stop again. Hand on your tummy. What do you feel now? Draw it.
@@ -236,7 +235,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   *Child mode:* Look at your chart. Count the different faces. Did any feeling stay all day? Was your guess right?
   - Ask: Did any feeling stay all day? (good: No. I was happy, then cross, then calm.; Happy came back two times, but other feelings came in between.)
   - Ask: What happened to the cross or sad face? (good: It went away after a hug.; The next face was a happy one.; It was small by lunch.)
-  - Note: Almost every child draws at least three different feelings in a day. If your child drew the same face six times, ask whether it was the same size each time, or try the chart again on a school day or a busy day.
+  - Note: Most children draw several different feelings in a day. If your child drew the same face six times, ask whether it was the same size each time, or try the chart again on a school day or a busy day.
 - **s7 (5 min)**  
   *Parent does:* Ask your child to say it in three parts: what I think, what I saw, and why.  
   *Parent says:* Now tell me like a scientist. What do you think about feelings now? What did your chart show? Why do you think so?  
@@ -253,29 +252,29 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   *Child mode:* Feelings have names. They have sizes too. Small, middle, big. Show me with your hands.
   - Note: Sizing a feeling helps a child notice that the same feeling can be small or big, and can change size.
 - **s2 (6 min)**  
-  *Parent does:* Tell these stories one at a time: your ice cream falls on the floor. Your best friend comes to play. A loud thunderclap wakes you. Someone takes your crayons without asking. Your grandmother gives you a hug. You lose a race.  
-  *Parent says:* Listen to this. Your ice cream falls on the floor. What would you feel? How big is it? Show me.  
+  *Parent does:* Tell these stories one at a time: your balloon bursts. Your friend says, 'I will not play with you.' You are told it is bedtime while you are still playing. Your teacher gives you a gold star. A cousin you love goes home after the holidays. The lights go out in a power cut.  
+  *Parent says:* Listen to this. Your balloon bursts. What would you feel? How big is it? Show me.  
   *Child mode:* Listen to the story. What would you feel? Say the name. Show how big.
   - Ask: What would you feel? How big? (good: Sad, a big sad.; Cross, a middle cross.; Scared, a small scared.)
-  - Note: There is no wrong answer. One child feels sad about the ice cream and another feels cross. Some stories bring two feelings at once, like sad and angry.
+  - Note: There is no wrong answer. One child feels sad about the burst balloon and another feels cross. Some stories bring two feelings at once, like sad and angry.
 - **s3 (2 min)**  
   *Parent does:* Ask the last question.  
   *Parent says:* Can a big feeling become a small feeling? What could help it get smaller?  
   *Child mode:* Can a big feeling get small? What could help?
-  - Ask: What could help? (good: A hug.; Taking slow breaths.; Waiting a bit.; Telling Amma.)
+  - Ask: What could help? (good: A hug.; Taking slow breaths.; Waiting a bit.; Telling someone.)
 ### a2 · The Settling Bottle: watch it, and breathe (15 min)
 - **record:** Draw the bottle just after shaking, and again when it has settled.
 - **s1 (5 min)**  
   *Parent does:* 1. Fill the bottle almost to the top with water. 2. Your child adds one spoon of rava or tea leaves, and the colour if you like. 3. Close the cap tightly.  
   *Parent says:* We are making a settling bottle. Pour in the rava. Now let's close it tight.  
   *Child mode:* Pour the rava into the water. Close the cap tight.
-  - Note: Rava settles in about a minute or two. Used tea leaves, rinsed and cooled, take a little longer. Glitter takes longest. Check the cap is tight so it does not leak.
+  - Note: Rava sinks in about 20 to 30 seconds. Used tea leaves, rinsed, take about the same. Glitter takes longer. Check the cap is tight so it does not leak.
 - **s2 (5 min)**  
   *Parent does:* 1. Your child shakes the bottle hard. 2. They hold it still and watch. 3. Breathe slowly together while you watch, in through the nose and out through the mouth.  
   *Parent says:* Shake it hard. Now hold it still. Watch the rava. Let's breathe slowly while it settles. In, and out.  
   *Child mode:* Shake it hard. Now hold it still. Watch. Breathe in slowly. Breathe out slowly.
-  - Ask: What happens when you keep it still? (good: The rava sinks to the bottom.; The water gets clear again.; It takes a long time.)
-  - Note: Count the breaths together. Most children take about eight to twelve slow breaths before the rava settles.
+  - Ask: What happens when you keep it still? (good: The rava sinks to the bottom.; The water gets much clearer.; It takes a few breaths.)
+  - Note: Count the breaths together. Most children take about four to six slow breaths before the rava has sunk. If it settles too fast, shake and breathe again.
 - **s3 (5 min)**  
   *Parent does:* Talk about when to use it. Keep the bottle in a place your child can reach.  
   *Parent says:* When you feel very cross or upset, you can shake the bottle, watch it, and breathe. How do you feel after watching it settle?  
@@ -304,7 +303,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   *Parent says:* Feel your heart again. Is it faster or slower now? When you feel angry or scared, your heart beats fast like the tiger's, even sitting still. Slow breaths help your body calm down.  
   *Child mode:* Feel your heart again. Is it slower? Angry feelings make your heart fast too. Slow breaths help it calm down.
   - Note: Be honest with your child: the tiger heart came from stomping, not from anger. But anger and fear also make the heart beat fast and the breath quick, and slow breathing helps the body settle.
-  - Check: When you feel angry, what can help your body calm down? → **Slow breaths**
+  - Check: You lay down like a cat and breathed slowly. What is your heart doing now? → **Beating slower**
 ### a4 · My Helping Hand: five things that help me (15 min)
 - **record:** Your helping hand, stuck up where you can see it.
 - **s1 (3 min)**  
@@ -315,7 +314,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   *Parent does:* Your child draws one helper on each finger. Offer ideas only if they are stuck.  
   *Parent says:* When you feel sad or angry, what helps you? Draw one thing on each finger.  
   *Child mode:* What helps when you feel sad or angry? Draw one thing on each finger.
-  - Ask: What helps you? (good: A hug from Amma.; Slow breaths.; Telling someone.; Playing with my cat.; A drink of water.; Crying.)
+  - Ask: What helps you? (good: A hug.; Slow breaths.; Telling someone.; Playing with a toy.; A drink of water.; Crying.)
   - Note: Ideas, if needed: slow breaths, a hug, telling someone, a drink of water, a rest, a quiet corner, the settling bottle, crying. Leave out hitting or throwing things: tell your child gently that these hurt people and keep anger going.
 - **s3 (4 min)**  
   *Parent does:* Stick the hand on the wall. Next time your child is upset, look at it together and pick one finger.  
@@ -331,16 +330,16 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
   *Parent says:* What was the biggest feeling you had today? Draw its face. Did anything help? Draw that next to it.  
   *Child mode:* What was your biggest feeling today? Draw the face. What helped? Draw that too.
   - Note: Happy days count too: draw what made the happy feeling. On a hard day, keep it short and gentle.
-- **s2 (18 min)**  
+- **s2 (15 min)**  
   *Parent does:* Each evening for the next five days, do one page.  
   *Parent says:* Time for your feelings book. What was your biggest feeling today? What helped?  
   *Child mode:* Feelings book time. Biggest feeling today? What helped?
   - Wait: Do one page each evening, about 3 minutes
-- **s3 (7 min)**  
-  *Parent does:* On day 7, lay the pages out and look at them together.  
+- **s3 (10 min)**  
+  *Parent does:* On day 7, draw the last page. Then lay all the pages out and look at them together.  
   *Parent says:* Look at your whole week. Which feeling came most? Which helper did you use most? Which one worked best for you?  
   *Child mode:* Look at your week. Which feeling came most? Which helper worked best?
-  - Ask: Which helper worked best? (good: Hugs, because they make me warm.; Telling Amma, because then she knows.; The settling bottle.)
+  - Ask: Which helper worked best? (good: Hugs, because they make me warm.; Telling a grown-up, because then they know.; The settling bottle.)
   - Note: There is no right helper. Different helpers work for different children, and for different feelings.
 
 ## Challenges
@@ -352,14 +351,14 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 - **creative:** A card with five slow breaths drawn on it, as five candles to blow out.; A recording on the phone of you singing their favourite song.; A 'joke jar' with three of your best jokes, drawn or told to a grown-up to write.; A coupon that says 'One free hug from me'.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Ask who the box is for and what helps them.  
-  *Parent says:* Who in our family would you like to make a cheer-up box for? When they feel sad, what helps them?  
+  *Parent says:* Who at home would you like to make a cheer-up box for? When they feel sad, what helps them?  
   *Child mode:* Who is your box for? What helps them when they are sad?
-  - Ask: What helps them? (good: Paati likes old photos.; Thambi likes his soft elephant.; Amma likes it when I hug her.)
+  - Ask: What helps them? (good: A grandparent likes old photos.; A younger brother likes his soft elephant.; My mother likes it when I hug her.)
 - **s2 (12 min)**  
   *Parent does:* Your child decorates the box. Then they fill it: one thing to look at, one to touch and one to do.  
   *Parent says:* Now put in one thing to look at, one thing to touch and one thing to do. Why will each one help?  
   *Child mode:* Put in one thing to look at. One to touch. One to do. Why will each one help?
-  - Note: Help your child think about the other person: what helps you might be different from what helps Paati.
+  - Note: Help your child think about the other person: what helps your child might be different from what helps a grandparent.
 - **s3 (3 min)**  
   *Parent does:* Your child gives the box and tells the person what it is for.  
   *Parent says:* Give your box, and tell them what it is for.  
@@ -374,44 +373,43 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
    **Answer:** Two faces: one smiling, one with eyebrows down or a frown.. *Why:* A strong drawing shows two clearly different faces. The eyebrows and mouth change most.
 3. (mcq) Remember your feelings chart? You drew a face six times in one day. What did most charts show?  
    Options: The same feeling all day / Many different feelings in one day / Only happy faces  
-   **Answer:** Many different feelings in one day. *Why:* Feelings change through the day. Most children draw three or more different feelings in one day.
+   **Answer:** Many different feelings in one day. *Why:* Feelings change through the day. A chart usually shows several different feelings.
 4. (truefalse) It is all right to feel angry sometimes.  
    **Answer:** True. *Why:* True. Everyone feels angry sometimes. The feeling is all right. What matters is what we do with it.
 5. (sort) Colour the things that help with anger green. Colour the things that make anger bigger red.  
    **Answer:** slow breaths → Helps; hitting someone → Makes it bigger; telling someone how you feel → Helps; shouting louder and louder → Makes it bigger; a drink of water and a rest → Helps; throwing things → Makes it bigger. *Why:* Slow breaths, talking and resting calm the body. Hitting, shouting and throwing keep the body hot and fast, and keep the anger going.
 6. (write) Say it out loud, and a grown-up writes it: tell about a time you felt sad. What helped?  
-   **Answer:** For example: 'I was sad when my fish died. Amma hugged me and we talked about him.'. *Why:* A strong answer names the feeling, says what caused it, and names something that helped.
+   **Answer:** For example: 'I was sad when my fish died. A grown-up hugged me and we talked about him.'. *Why:* A strong answer names the feeling, says what caused it, and names something that helped.
 7. (perspective) Anu, a girl of 6 in Hyderabad, is very angry because her cousin broke her toy.  
    **Answer:** A strong answer picks a side with a reason. For example: 'Anu's mother, because slow breaths calm your body, and scientists found that hitting things keeps anger going.' Then it is fair to the other side: Riya is right that hitting a pillow is better than hitting a person.. *Why:* Scientists tested hitting things when angry, and found it usually keeps anger going. Calming the body and talking help more. But Riya's idea is kinder than hitting someone.
-8. (odd) Three of these are feelings. Which one is not a feeling?  
-   Options: Happy / Scared / Table / Sad  
-   **Answer:** 2. *Why:* Happy, scared and sad are feelings. A table is a thing.
+8. (truefalse) A feeling can be small, middle or big.  
+   **Answer:** True. *Why:* True. The same feeling can be small, middle or big, and it can change size.
 9. (label) Here is a child who feels scared. Draw an arrow to where you might feel fear in your body, and say what it does.  
    **Answer:** Arrows to the heart (beats fast), the tummy (feels fluttery or tight), the eyes (open wide) or the legs (want to run).. *Why:* Fear happens in the whole body. The heart beats faster and the body gets ready to run.
-10. (mcq) In the Tiger Body game, you stomped and then felt your chest. What was your heart doing?  
+10. (mcq) After Tiger Body, Cat Body, you stomped and then felt your chest. What was your heart doing?  
    Options: Beating fast / Stopped / Beating very slowly  
    **Answer:** Beating fast. *Why:* Stomping made your heart beat fast. Anger and fear make the heart beat fast too. Slow breaths helped it slow down.
 ### Thinking about feelings (stretch, 10 questions)
-1. (order) Put Chinnu's feelings in order, from the start of the story to the end: angry, happy at the start, calm, happy at the end.  
-   **Answer:** ['happy at the start', 'angry', 'calm', 'happy at the end']. *Why:* Chinnu was happy building her castle. She felt angry when it broke. After slow breaths and a hug she felt calmer. She was happy again when they rebuilt it.
+1. (order) Chinnu's feelings changed from the start of the story to the end. Put her feelings in order.  
+   **Answer:** [0, 1, 2, 3]. *Why:* Chinnu was happy building her castle. She felt angry when it broke. After slow breaths and a hug she felt calmer. She was happy again when they rebuilt it.
 2. (write) Say it out loud, and a grown-up writes it: why does saying 'I am angry' help more than hitting?  
    **Answer:** Saying it lets people know how I feel, and it makes the anger smaller. Hitting hurts someone and keeps me angry.. *Why:* A strong answer says that naming a feeling often makes it smaller and lets others help, and that hitting hurts people and keeps anger going.
 3. (perspective) Ravi, a boy of 7 in Pune, fell and hurt his knee in the park. He is crying.  
    **Answer:** A strong answer picks Meera or the uncle with a reason. For example: 'Meera, because boys feel pain and sadness just like girls, and crying asks for comfort.' Then fair to the other side: the uncle may want Ravi to feel brave.. *Why:* Boys and girls have the same feelings. Crying is a normal way to show hurt and to ask for comfort. The uncle may mean well, but hiding a feeling does not make it go away.
 4. (draw) Draw a helper that would work for you when you feel scared at night.  
-   **Answer:** For example: a night light, a hug from Amma, a soft toy, slow breaths.. *Why:* A strong drawing shows one clear thing that helps, and the child can say why it helps.
+   **Answer:** For example: a night light, a hug, a soft toy, slow breaths.. *Why:* A strong drawing shows one clear thing that helps, and the child can say why it helps.
 5. (truefalse) Good children are happy all the time.  
    **Answer:** False. *Why:* False. Every child feels sad, cross and scared sometimes. These feelings are normal, for good children too.
-6. (mcq) Kavya's chart showed cross at mid-morning and calm at lunch. What does this tell us?  
-   Options: The cross feeling changed / Kavya was cross all day / Kavya drew it wrong  
-   **Answer:** The cross feeling changed. *Why:* The feeling changed between mid-morning and lunch. Feelings come and go.
-7. (count) Arjun's chart had these faces: happy, sleepy, happy, cross, happy, calm. How many different feelings did he have?  
-   **Answer:** 4. *Why:* Happy came three times, but it is one feeling. The four different feelings are happy, sleepy, cross and calm.
+6. (mcq) You see a friend sitting alone, looking sad. What could you say?  
+   Options: Why are you so silly? / Do you want to sit with me? / Nothing, and walk past  
+   **Answer:** Do you want to sit with me?. *Why:* Asking kindly and sitting with someone comforts them. It shows you noticed their feeling.
+7. (count) Chinnu built five towers on her sandcastle. Then two towers fell down. How many towers were still standing?  
+   **Answer:** 3. *Why:* 5 towers take away 2 that fell leaves 3.
 8. (match) Match each feeling with a helper that might work.  
    **Answer:** Sad → A hug; Angry → Slow breaths; Scared → Holding someone's hand; Tired → A rest. *Why:* A hug comforts sadness, slow breaths calm anger, holding a hand helps with fear, and rest helps tiredness. Many helpers work for more than one feeling.
-9. (label) Here is your Settling Bottle just after shaking, and two minutes later. Write 'shaken' under one and 'settled' under the other.  
-   **Answer:** 'Shaken' under the cloudy bottle, 'settled' under the clear one with rava at the bottom.. *Why:* When shaken, the rava swirls and clouds the water. Kept still, it sinks and the water clears. Watching it gives a feeling time to change.
-10. (write) Say it out loud, and a grown-up writes it: a dog wags their tail and jumps when their friend comes home. What feeling do you think the dog has? How can you tell?  
+9. (label) Here is your Settling Bottle just after shaking, and a little later when it has settled. Say which is 'shaken' and which is 'settled', and a grown-up writes the words.  
+   **Answer:** 'Shaken' under the cloudy bottle, 'settled' under the clearer one with rava at the bottom.. *Why:* When shaken, the rava swirls and clouds the water. Kept still, it sinks and the water clears. Watching it gives a feeling time to change.
+10. (write) Say it out loud, and a grown-up writes it: a dog wags her tail and jumps when her friend comes home. What feeling do you think the dog has? How can you tell?  
    **Answer:** Happy or excited, because the dog's whole body moves and the tail wags, just like I jump when I am happy.. *Why:* A strong answer names a feeling and gives the evidence: what the dog does with their body. Scientists judge other animals' feelings the same way, by watching what they do.
 
 ## Videos
@@ -429,15 +427,15 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 3. (mcq) Is it all right to feel sad?  
    Options: Yes, everyone feels sad sometimes / No, only babies feel sad / Only girls feel sad  
    **Answer:** Yes, everyone feels sad sometimes. *Why:* Everyone feels sad sometimes: children and grown-ups, girls and boys. It is a normal feeling.
-4. (mcq) On a feelings chart, a child drew six faces in one day. What would you expect to see?  
-   Options: Six faces all the same / Several different faces / No faces  
-   **Answer:** Several different faces. *Why:* Feelings change during the day, so most charts show several different faces.
+4. (mcq) Chinnu felt happy, then angry, then calm, then happy again, all on one afternoon at the beach. What does this show?  
+   Options: Feelings change through the day / A feeling stays all day / Chinnu drew it wrong  
+   **Answer:** Feelings change through the day. *Why:* Chinnu's feelings changed again and again. Feelings come and go.
 5. (mcq) Selvi, a girl of 6, feels very angry. Which of these helps her calm down?  
-   Options: Taking slow breaths / Hitting her brother / Shouting louder  
+   Options: Taking slow breaths / Hitting someone / Shouting louder  
    **Answer:** Taking slow breaths. *Why:* Slow breaths calm the body. Hitting hurts someone, and shouting keeps the anger going.
-6. (mcq) Many people say hitting a pillow lets anger out. What did scientists find when they tested it?  
-   Options: It made people much calmer / It usually kept people angry / It made people sleepy  
-   **Answer:** It usually kept people angry. *Why:* In tests, people who hit things while angry stayed angrier than people who waited quietly.
+6. (mcq) Where do feelings happen?  
+   Options: In the whole body: heart, tummy, face and thoughts / Only in the head / Only on the face  
+   **Answer:** In the whole body: heart, tummy, face and thoughts. *Why:* A scared heart beats fast, an angry face gets hot, and a sad throat gets tight. Feelings happen in the whole body.
 7. (mcq) Your friend is crying because her balloon burst. What could you do to comfort her?  
    Options: Laugh at her / Sit with her and ask if she wants a hug / Walk away  
    **Answer:** Sit with her and ask if she wants a hug. *Why:* Sitting with someone and offering a hug comforts them. Laughing or walking away can make them feel worse.
@@ -447,7 +445,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 9. (mcq) Chinnu's sandcastle was broken. She felt angry and sad at the same time. Can two feelings come at once?  
    Options: Yes, two feelings can come together / No, only one feeling at a time / Only on the beach  
    **Answer:** Yes, two feelings can come together. *Why:* Two or more feelings often come together, like angry and sad when something you made is broken.
-10. (mcq) A dog jumps and wags their tail when their friend comes home. What feeling does the dog most likely have?  
+10. (mcq) A dog jumps and wags her tail when her friend comes home. What feeling does the dog most likely have?  
    Options: Happy / Sleepy / Scared  
    **Answer:** Happy. *Why:* A wagging tail and jumping usually show a happy, excited dog. Humans and other animals have feelings.
 
@@ -459,7 +457,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 
 ## Spotted around us
 - Faces in a cinema hall: people laugh, gasp and cry at the same film, sometimes all in one evening.
-- A pet dog jumping and wagging their tail at the door when a family member comes home.
+- A pet dog jumping and wagging her tail at the door when a family member comes home.
 - A touch-me-not plant on a roadside or in a pot, folding up their leaves when touched.
 - Bharatanatyam and Kathakali dancers showing feelings with their eyes, face and hands.
 - A baby on a bus who cries, then laughs a minute later when someone plays peekaboo.
@@ -473,7 +471,7 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 - What are you feeling right now? How big is it?
 - What was the best feeling you had today? What made it?
 - Was there a hard feeling today? What helped it change?
-- What do you think the crow at the window is feeling?
+- What do you think a crow is feeling when she caws at your window?
 - Which helper on your helping hand did you use this week?
 
 ## Jokes
@@ -484,13 +482,12 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
 - Why did the cloud cry? *It was feeling under the weather!*
 - What did one shy pebble say to the other? *I wish I was a little boulder!*
 - Why did the bicycle fall over? *It was two tyred!*
-- Why did the idli feel calm? *It had been steaming quietly all morning!*
 - What did the big flower say to the small flower? *Hey there, bud!*
 
 ## Connected maths
-- Lakshmi's feelings chart had 6 circles. She drew a happy face in 2 of them. How many circles had other feelings? **4 circles had other feelings.**. 6 circles take away the 2 happy ones leaves 4. So happy was only part of her day. (queues `math.addition-subtraction.word-problems.L1`)
-- Count the faces on Arjun's chart: happy, cross, happy, calm, sleepy, happy. Make a tally mark for each feeling. Which feeling came most often? **Happy came most often, 3 times. Cross, calm and sleepy came 1 time each.**. Happy: 3 marks. Cross: 1. Calm: 1. Sleepy: 1. 3 is the biggest number, so happy came most. (queues `math.data.sorting-and-tallies.L1`)
-- In the settling bottle, Fathima counted 10 slow breaths before the rava settled. Her brother counted 7. Who took more breaths? How many more? **Fathima took 3 more breaths.**. 10 is more than 7. Count on from 7 to 10: 8, 9, 10. That is 3 more. Slower breaths mean fewer breaths in the same time, so her brother may have breathed more slowly. (queues `math.number-sense.comparing-ordering.L1`)
+- Divya, a girl of 6, made a feelings chart. It had 6 circles. She drew a happy face in 2 of them. How many circles had other feelings? **4 circles had other feelings.**. 6 circles take away the 2 happy ones leaves 4. So happy was only part of her day. (queues `math.addition-subtraction.word-problems.L1`)
+- Arjun, a boy of 6, drew these faces on his chart: happy, cross, happy, calm, sleepy, happy. Make a tally mark for each feeling. Which feeling came most often? **Happy came most often, 3 times. Cross, calm and sleepy came 1 time each.**. Happy: 3 marks. Cross: 1. Calm: 1. Sleepy: 1. 3 is the biggest number, so happy came most. (queues `math.data.sorting-and-tallies.L1`)
+- In the settling bottle, Fathima, a girl of 6, counted 6 slow breaths before the rava sank. Her friend Zoya counted 4. Who took more breaths? How many more? **Fathima took 2 more breaths.**. 6 is more than 4. Count on from 4 to 6: 5, 6. That is 2 more. Slower breaths mean fewer breaths in the same time, so Zoya may have breathed more slowly. (queues `math.number-sense.comparing-ordering.L1`)
 - Look at your own chart. Which feeling did you draw first in the morning? Which did you draw last at bedtime? Were they the same? **Your own answer, for example: sleepy first, sleepy last, but different feelings in between.**. Putting the faces in time order shows how a feeling changed from morning to night. (queues `math.time.daily-time.L1`)
 
 ## Song
@@ -510,7 +507,6 @@ How Do I Feel Today? (sci.health.L1): Topic-level song for Health L1
 - Your heart beats fast and your eyes open wide. What feeling might it be? → Scared.
 - Name one thing that helps when you feel sad. → A hug, telling someone, a rest, crying, slow breaths.
 - Does a feeling stay all day? → No. Feelings change many times in a day.
-- Does hitting a pillow make anger go away? → Usually not. Slow breaths and calming down help more.
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards

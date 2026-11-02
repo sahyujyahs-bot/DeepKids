@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?",
-  "text": "Everything that happens is made to happen by something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this unit you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.",
+  "text": "Things around us happen because of something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this unit you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.",
   "art": "Five matchboxes standing on end in a row on the floor. A finger is about to push the first one, and a dotted arrow runs along the row to the last one."
  },
  "outcomes": [
@@ -64,7 +64,7 @@
    "status": "defined",
    "context": "This card explains the two words this whole unit is about.",
    "definition": "A cause is what makes something happen. An effect is what happens because of it. The cause always comes first, and the effect comes after.",
-   "description": "When you switch on the fan, the curtain starts to move. Switching on the fan is the cause. The moving curtain is the effect. When you drop a steel spoon on a steel plate, the clang is the effect. Every action you do has an effect, even a small one. When you clap, the air shakes and someone in the next room may hear it. Scientists look for causes because, once they know the cause, they can make something happen again, or stop it.",
+   "description": "When you switch on the fan, the curtain moves. Switching on the fan is the cause. The moving curtain is the effect. Scientists look for causes because then they can make something happen again, or stop it.",
    "examples": [
     "Switching on the fan makes the curtain move.",
     "Stirring sugar into water makes the sugar disappear and the water sweet.",
@@ -79,7 +79,7 @@
    "status": "defined",
    "context": "This card explains what you saw in the domino gap test.",
    "definition": "In a chain of causes, each effect becomes the cause of the next thing. A push can travel a long way like this, but only if every link in the chain passes it on.",
-   "description": "In the domino test, your finger pushed only the first domino. As it fell, it hit the second one and passed on some of its energy. The second one fell and hit the third, and so on to the end. When the gap was small, every domino could reach the next one, so the whole line fell. When the gap was as wide as a domino is tall, the first domino lay down without touching the next one. The chain stopped there. Taking one domino out of the middle did the same. The push reached the hole and stopped, so everything after it stayed standing.",
+   "description": "In the domino test, your finger pushed only the first domino. When the gaps were small, each domino hit the next and passed on some of its energy, so all ten fell. When the gap was as wide as a domino is tall, the first one lay down without hitting the next, and the chain stopped. Taking one domino out of the middle stopped it too.",
    "examples": [
     "A line of dominoes falling one after another",
     "A line of coins passing a push to the last coin",
@@ -94,7 +94,7 @@
    "status": "defined",
    "context": "This card explains why we cannot always see the cause and the effect together.",
    "definition": "Some effects happen straight after their cause. Others take hours, days or years to show.",
-   "description": "A domino falls at once when it is hit. But many causes take time. When dry chana is soaked in water at night, the seeds slowly drink the water. By morning they are much bigger. A mango seed planted today becomes a tree only after some years. Because the effect comes so late, people sometimes do not notice what caused it. A good scientist keeps asking: what happened before this, maybe a long time before?",
+   "description": "A domino falls at once when it is hit. But dry chana soaked at night take until morning to swell, and a mango seed takes some years to become a tree. Because the effect comes so late, people may not notice the cause. A good scientist asks: what happened before this, maybe a long time before?",
    "examples": [
     "Chana soaked tonight is big and soft tomorrow morning.",
     "A seed planted now becomes a tree years later.",
@@ -109,7 +109,7 @@
    "status": "defined",
    "context": "This card explains a mistake that everyone makes sometimes.",
    "definition": "Two things can happen one after the other without the first one causing the second. To find the real cause, we test: we change one thing and see what happens.",
-   "description": "A rooster crows every morning, and then the Sun rises. Does the rooster make the Sun rise? No. On a day when the rooster stays quiet, the Sun still rises. The rooster crows because morning is coming. So both have the same cause: the Earth turning towards the Sun. This is why scientists do tests. In the domino test, we changed only the gap. Then we knew that the gap was what made the chain stop.",
+   "description": "A rooster often crows, and then the Sun rises. But when the rooster stays quiet, the Sun still rises, so the rooster is not the cause. Scientists do tests to find the real cause. In the domino test we changed only the gap, so we knew the gap made the chain stop.",
    "examples": [
     "A rooster crows and then the Sun rises, but the rooster does not cause the sunrise.",
     "People carry umbrellas and then it rains, but umbrellas do not cause rain.",
@@ -122,7 +122,7 @@
    "concept": "Does everything have a cause?",
    "status": "debated",
    "context": "This card is about a question scientists still argue about.",
-   "description": "Everything big that we see, like a falling domino, a boiling pot or a puddle, has causes we can find. But some very tiny things are harder. Inside some materials, tiny bits called atoms break apart all by themselves. Nobody can find anything that decides the exact moment one of them breaks. Scientists do not agree about what this means.",
+   "description": "Big things we see, like a falling domino, a boiling pot or a puddle, have causes we can find. But inside some materials, tiny atoms break apart by themselves, and nobody can find what decides the exact moment. Scientists do not agree about what this means.",
    "examples": [
     "A domino falls because it is pushed.",
     "A tiny atom breaks apart at a moment nobody can predict or explain."
@@ -134,11 +134,11 @@
     },
     {
      "who": "Albert Einstein, and some physicists since",
-     "explanation": "There may be hidden causes that we have not found yet. Einstein wrote in a letter in 1926 that he was sure nature 'does not throw dice'."
+     "explanation": "There may be hidden causes that we have not found yet. In a letter in 1926, Einstein wrote that he was sure the universe does not work by dice and chance."
     },
     {
-     "who": "Many thinkers in India and elsewhere",
-     "explanation": "Nothing happens without causes, but every happening has so many causes that nobody can know them all."
+     "who": "Buddhist thinkers in India",
+     "explanation": "Nothing happens without causes, and every happening depends on many causes together, not on one."
     }
    ],
    "art": "On one side, a domino being pushed. On the other, a tiny glowing dot with a question mark beside it."
@@ -831,7 +831,7 @@
      "do": "1. Talk about the chain together. 2. Afterwards, move the paper outside or wipe the sugar away, without hurting the ants.",
      "say": "First the sugar. Then one ant found the sugar. Then she left a smell trail. Then many ants came. What started the chain?",
      "kid": "One ant found the sugar. Then many came. What started the chain?",
-     "parent": "Ants sense, decide and tell each other where food is. Some scientists call the trail an automatic response. Either way, one ant's find was the cause of all the others coming."
+     "parent": "Ants sense, think and tell each other where food is. Some scientists say the trail is only an automatic reaction, and others say each ant chooses. Either way, one ant's find was the cause of all the others coming."
     }
    ]
   }
@@ -925,7 +925,7 @@
    ],
    "rules": [
     "Cut out the 18 cards. Find the three cards that say 'card 1' on the back. Lay them face up in a row. These start the three chains.",
-    "Shuffle the other 15 cards. Give each player 4 cards. Put the rest face down in a pile.",
+    "Shuffle the other 15 cards. Give each player 3 cards. Put the rest face down in a pile.",
     "On your turn, put down one card that can come next in any chain. Say the chain out loud with 'so': 'The tawa gets hot, so Amma pours the batter.'",
     "The other players turn your card over. If the back shows the right chain and the right number, you keep it there. If not, take it back.",
     "If you cannot put down a card, take one from the pile.",
@@ -934,7 +934,7 @@
    "setup": [
     {
      "art": "Three cards in a row on a floor: dark clouds, a gas flame under a tawa, and a mango falling, with small cards in two children's hands.",
-     "caption": "1. Lay out the three start cards. Deal 4 cards each."
+     "caption": "1. Lay out the three start cards. Deal 3 cards each."
     },
     {
      "art": "A girl laying a card that shows a hot tawa next to the gas flame card, saying 'so'.",
@@ -1183,11 +1183,11 @@
     "a coin and a paper cup"
    ],
    "general": [
-    "A line of dominoes falls onto a ruler lying across a pencil, like a see-saw. The other end of the ruler flips up and hits the steel bowl.",
+    "A line of dominoes falls onto one end of a ruler resting on a pencil, like a see-saw. The other end lifts up and taps the steel bowl.",
     "The last domino pushes a marble down a ramp made from a book. The marble rolls into a steel tumbler and rings it."
    ],
    "creative": [
-    "Make the dominoes grow in size, from a matchbox to a small book. Each one can knock over one a little bigger than itself.",
+    "Make the dominoes a little bigger each time, for example a small matchbox, then a bigger box, then a thin book. Each one can knock over one a little bigger than itself.",
     "Make the marble knock a coin off the edge of a table into a cup.",
     "Add a turn in the domino line, around a corner of a book."
    ],
@@ -2144,7 +2144,7 @@
    "Lorne A. Whitehead, 'Domino chain reaction', American Journal of Physics 51, 182 (1983): a domino can topple another about 1.5 times larger.",
    "Coins and Newton's cradle: a push passes through a line of equal, touching objects, and about the same number leave the far end as came in. Standard school physics of collisions.",
    "David Hume, 'An Enquiry Concerning Human Understanding' (1748), Section 7, on cause as constant conjunction.",
-   "Albert Einstein, letter to Max Born, 4 December 1926: 'He does not throw dice.'",
+   "Albert Einstein, letter to Max Born, 4 December 1926: the Old One does not play dice (as it is often quoted).",
    "Samyutta Nikaya 12.21 (Dasabala Sutta), the dependent arising formula 'imasmim sati idam hoti'. Samkhya Karika 9, the reasons for satkaryavada, with the sesame and sand example from the commentaries."
   ]
  },

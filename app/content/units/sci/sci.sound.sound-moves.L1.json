@@ -4,12 +4,12 @@
  "level": 1,
  "summary": {
   "text": "A grown-up rubs two fingers together. Close by, you hear a soft rustle. Step back a few steps, and the rustle is gone, though the fingers are still rubbing. A sound travels out from its source, through the air, to your ears. It spreads out to every side as it goes, so it gets softer the further it travels. Your child tests how far three sounds can travel in your home, finds that a sound reaches them even from behind and round a corner, and sends their voice one way with a paper cone.",
-  "art": "A mother rubbing her fingers beside her ear at one end of a hallway, and her daughter standing a few steps away with eyes closed, with small sound lines that fade out before they reach her."
+  "art": "A grown-up rubbing her fingers beside her ear at one end of a hallway, and a child standing a few steps away with eyes closed, with small sound lines that fade out before they reach her."
  },
  "intro": {
   "hook": "Shut your eyes. A grown-up will tap a spoon on a steel tumbler somewhere in the room. Point to where the sound is. How did the sound find you?",
   "text": "You did not touch the tumbler, and you did not see it. Still, the sound reached you. A sound starts at its source, the thing that makes it. Then it travels through the air, all the way to your ears. In this unit you find out how far a sound can travel, which way it goes, and why far-away sounds are soft.",
-  "art": "A girl sitting on the floor with eyes closed, pointing towards her grandmother, who is tapping a steel tumbler with a spoon across the room."
+  "art": "A girl sitting on the floor with eyes closed, pointing towards a grown-up, who is tapping a steel tumbler with a spoon across the room."
  },
  "outcomes": [
   "By the end I can say that a sound travels from its source, through the air, to my ears.",
@@ -50,7 +50,7 @@
    "concept": "A sound travels from its source to your ears",
    "status": "defined",
    "definition": "A sound starts at its source. It travels through the air until it reaches your ears. Then you hear it.",
-   "description": "When you tapped the tumbler, it moved very fast. It pushed the air next to it. That air pushed the air next to it, and so on, all the way to your ears. You cannot see the air doing this, but you hear the result. Air is not the only thing a sound can travel through. That is why you can hear the neighbour's mixie through the wall. In Class 4 you will test which things carry sound best.",
+   "description": "When you tapped the tumbler, it shook very fast. It pushed the air next to it. That air pushed the air next to it, and so on, all the way to your ears. You cannot see this, but you hear the result. A sound can also travel through a wall, so you can hear the neighbour's mixie.",
    "examples": [
     "The cooker's whistle travelling from the kitchen to the bedroom",
     "A koel's call travelling from a tree to your window",
@@ -98,7 +98,7 @@
     "Seeing fireworks burst in the sky, then hearing the bang"
    ],
    "perspectives": [],
-   "art": "A night sky with a lightning flash over the sea, a family on a balcony counting on their fingers, and a rumble of thunder still on its way."
+   "art": "A night sky with a lightning flash over the sea, a family at a window counting on their fingers, and a rumble of thunder still on its way."
   }
  ],
  "agreed": [
@@ -136,7 +136,7 @@
   },
   {
    "claim": "High sounds travel faster than deep sounds.",
-   "who": "The Greek thinker Aristotle, more than 2,300 years ago, and many people after him",
+   "who": "Greek writers in Aristotle's school, more than 2,000 years ago, and many people after them",
    "for": "High, sharp sounds can seem to reach us quickly and clearly.",
    "against": "In the 1630s, Pierre Gassendi timed the deep boom of a big gun and the sharp crack of a small gun from far away. Both arrived after the same wait.",
    "status": "rejected"
@@ -180,7 +180,7 @@
   "title": "Ammamma's Paper Cone",
   "mins": 7,
   "read_aloud": true,
-  "note": "Ammamma means grandmother, mother's mother, in Malayalam. Chechi means big sister. Nila, Kannan, Zoya, Amma and Ammamma are made up.",
+  "note": "Ammamma means grandmother, mother's mother, in Malayalam. Nila, Kannan, Zoya, Amma and Ammamma are made up.",
   "text": [
    "Nila was six. She lived on the fifth floor of a tall building in Kochi, with Amma, her little brother Kannan, and her grandmother, Ammamma.",
    "Across the road stood another tall building. On the balcony right opposite lived Nila's best friend, Zoya.",
@@ -197,7 +197,7 @@
    "\"Zoya!\" she called. She did not shout this time. She only used her ordinary calling voice. \"I got a new book!\"",
    "Across the road, Zoya jumped. She gave a big thumbs up. Then she ran inside.",
    "A minute later, Zoya came back with her own rolled-up newspaper. \"What book?\" she called through it.",
-   "Nila heard her clearly, over the honking. She laughed. \"A book about the sea!\"",
+   "Nila could hear her, even over the honking. She laughed. \"A book about the sea!\"",
    "Kannan pulled Ammamma's sari. \"Why does the cone work?\"",
    "\"Without the cone, your voice spreads out on every side,\" said Ammamma. \"The cone keeps it from going to the sides. So more of it goes straight to Zoya.\"",
    "Kannan took the cone. He turned round and pointed it at Amma in the kitchen. \"Amma, I'm hungry!\" he called.",
@@ -230,7 +230,7 @@
    "Two tall buildings across a busy road in Kochi, and two girls waving from balconies opposite each other, with autos and buses below.",
    "A grandmother in a sari rolling an old newspaper into a long cone on a balcony, a girl and a small boy watching.",
    "The girl calling through the paper cone towards her friend across the road, and her friend giving a thumbs up.",
-   "A family on a balcony at night in the rain, a white flash of lightning over the sea, the girl counting on her fingers.",
+   "A family at a window at night in the rain, a white flash of lightning over the sea, the girl counting on her fingers.",
    "The girl whispering good night into the cone, and a light blinking in a window across the road."
   ]
  },
@@ -241,7 +241,7 @@
    "mins": 25,
    "days": 1,
    "context": "In this experiment a grown-up makes three different sounds. You walk away, one step at a time, until you cannot hear each one any more. You mark the spot for each sound and see which one travels furthest.",
-   "question": "Does every sound travel the same distance before you stop hearing it? And does a hard tap travel further than a gentle one?",
+   "question": "Does every sound travel the same distance before you stop hearing it? And does a hard crinkle travel further than a gentle one?",
    "predict": "The grown-up will rub fingers, crinkle a plastic bag and tap a spoon on a steel tumbler. Which sound will you hear from furthest away? Which will fade first? Why do you think so?",
    "fair_test": "The grown-up stays on the same spot and holds each sound at the same height, next to their shoulder. They make each sound the same way each time. You take the same small steps, one heel touching the other toe, and you close your eyes before each sound.",
    "results_table": [
@@ -281,11 +281,11 @@
    "record": "Draw the hallway as a long box. Draw the grown-up at one end. Draw a chappal for each sound where it faded, with a small picture of the sound next to it: fingers, a bag, a tumbler.",
    "setup": [
     {
-     "art": "A mother standing at one end of a hallway in a flat, holding a steel tumbler, a spoon and a plastic bag, and her daughter standing next to her.",
+     "art": "A grown-up standing at one end of a hallway in a flat, holding a steel tumbler, a spoon and a plastic bag, and a child standing next to her.",
      "caption": "1. The grown-up stands at one end. You start right next to them."
     },
     {
-     "art": "The girl with her eyes closed, a few steps away, while the mother rubs two fingers together beside her own ear.",
+     "art": "The girl with her eyes closed, a few steps away, while the grown-up rubs two fingers together beside her own ear.",
      "caption": "2. Close your eyes. Say yes if you hear the sound."
     },
     {
@@ -293,7 +293,7 @@
      "caption": "3. Each time you hear it, take one more step back."
     },
     {
-     "art": "The hallway floor with three chappals at different distances from the mother, the nearest beside a picture of fingers and the furthest beside a tumbler.",
+     "art": "The hallway floor with three chappals at different distances from the grown-up, the nearest beside a picture of fingers and the furthest beside a tumbler.",
      "caption": "4. Put a chappal where each sound faded. Which went furthest?"
     }
    ],
@@ -344,8 +344,8 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Your child comes back to your side. 2. Do the same with the crinkling bag. 3. Then with the spoon tapped gently on the tumbler. 4. Put a chappal where each sound faded.",
-     "say": "Now the bag. Same rules. Close your eyes, say yes, and step back. Now the tumbler.",
+     "do": "1. Your child comes back to your side. 2. Do the same with the bag, crinkled gently. 3. Then with the spoon tapped gently on the tumbler. 4. Put a chappal where each sound faded.",
+     "say": "Now the bag, crinkled gently. Same rules. Close your eyes, say yes, and step back. Now the tumbler.",
      "kid": "Now the bag. Then the tumbler. Step back each time you hear it.",
      "ask": [
       {
@@ -433,19 +433,19 @@
    "record": "Draw the grown-up speaking three ways: no cone, cone pointing at you, cone pointing at the wall. Draw a smiling ear next to the clearest one.",
    "setup": [
     {
-     "art": "A grandmother and a boy rolling two sheets of newspaper into a long cone, wide at one end, and sticking it with tape.",
+     "art": "A grown-up and a boy rolling two sheets of newspaper into a long cone, wide at one end, and sticking it with tape.",
      "caption": "1. Roll the newspaper into a cone and tape it."
     },
     {
-     "art": "The boy standing at the far end of a hallway, and the grandmother at the other end speaking quietly with no cone.",
+     "art": "The boy standing at the far end of a hallway, and the grown-up at the other end speaking quietly with no cone.",
      "caption": "2. Go far away. Listen to the voice with no cone."
     },
     {
-     "art": "The grandmother speaking into the narrow end of the cone, with the wide end pointing straight at the boy.",
+     "art": "The grown-up speaking into the narrow end of the cone, with the wide end pointing straight at the boy.",
      "caption": "3. Listen again, with the cone pointing at you."
     },
     {
-     "art": "The grandmother speaking into the cone pointing at the side wall, and the boy leaning forward to listen.",
+     "art": "The grown-up speaking into the cone pointing at the side wall, and the boy leaning forward to listen.",
      "caption": "4. Listen once more, with the cone pointing at the wall."
     }
    ],
@@ -490,7 +490,7 @@
        ]
       }
      ],
-     "parent": "Keep your voice at exactly the same loudness. Use new words each time, like 'Idli for breakfast', 'The crow is on the wall', 'Ten red bangles'. Usually the cone pointing at your child is clearest, and the cone pointing at the wall is the hardest to hear."
+     "parent": "Keep your voice at exactly the same loudness. Use new words each time, like 'Idli for breakfast', 'The crow is on the wall', 'Ten red bangles'. Usually the cone pointing at your child is clearest, and the cone pointing at the wall is the hardest to hear. The change is small but real. If you cannot tell the difference, stand a few steps further back."
     },
     {
      "id": "s4",
@@ -541,7 +541,7 @@
    "record": "Draw the tumbler in the middle of the page. Draw yourself in every spot where you heard it. Draw sound lines going out from the tumbler to every side.",
    "setup": [
     {
-     "art": "A grandmother sitting on a stool in the middle of a room, tapping a steel tumbler with a spoon, and a girl standing in front of her with eyes closed.",
+     "art": "A grown-up sitting on a stool in the middle of a room, tapping a steel tumbler with a spoon, and a girl standing in front of her with eyes closed.",
      "caption": "1. Stand in front. Close your eyes. Listen to the tap."
     },
     {
@@ -667,7 +667,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Look at the numbers together.",
-     "say": "Our numbers got bigger. Is the storm coming closer, or going away? Why do you think so?",
+     "say": "Look at our numbers. Are they getting bigger or smaller? Is the storm coming closer, or going away? Why do you think so?",
      "kid": "Are the numbers getting bigger or smaller? What does that mean?",
      "ask": [
       {
@@ -691,6 +691,10 @@
    "materials": [
     {
      "item": "2 or more people, and a steel plate or a box to be the drum",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper and tape, for the paper ear",
      "qty": 1
     }
    ],
@@ -719,7 +723,7 @@
      "do": "Draw a big ear on a paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.",
      "say": "The plate is the sound source. The paper is an ear. We are the air in between.",
      "kid": "The plate makes the sound. The paper is an ear. We are the air.",
-     "parent": "With only two people, the child can be the air and you can walk the tap along to the ear yourself."
+     "parent": "With only two people, you tap the plate and your child is the air. They pass the tap on to the paper ear."
     },
     {
      "id": "s2",
@@ -767,19 +771,13 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "12 Whisper Walk word cards",
+     "title": "6 Whisper Walk word cards",
      "items": [
       "Elephant",
       "Peacock",
       "Coconut",
-      "Banana",
       "Dosa",
-      "Mango",
-      "Rain",
       "Kite",
-      "Parrot",
-      "Butterfly",
-      "Auto",
       "Boat"
      ]
     }
@@ -788,14 +786,14 @@
     "Cut out the cards and put them face down.",
     "The whisperer stands at one end of the room or the hallway.",
     "The walkers stand at the far end, next to each other.",
-    "The whisperer picks a card and whispers the word.",
+    "The whisperer picks a card and whispers the word. A child who cannot read yet gets the word whispered to them by a grown-up first.",
     "If no walker can hear it, every walker takes one step closer, and the whisperer whispers the same word again.",
     "The first walker to say the word right keeps the card.",
-    "Everyone goes back to the far end for the next card. After four cards, swap who whispers."
+    "Everyone goes back to the far end for the next card, and the next person becomes the whisperer. When the 6 cards run out, the most cards wins. If the cards are level, everyone wins."
    ],
    "setup": [
     {
-     "art": "A mother whispering at one end of a hallway, holding a word card, and two children standing at the far end, listening.",
+     "art": "A grown-up whispering at one end of a hallway, holding a word card, and two children standing at the far end, listening.",
      "caption": "1. The whisperer whispers a word. The walkers listen from far away."
     },
     {
@@ -809,12 +807,13 @@
      "mins": 2,
      "do": "Cut out the cards. Read the rules together. You whisper first.",
      "say": "I will whisper a word from far away. If you can't hear it, take one step closer. Let's see how close you need to come.",
-     "kid": "Listen for the whisper. Can't hear it? Take one step closer."
+     "kid": "Listen for the whisper. Can't hear it? Take one step closer.",
+     "parent": "Many children of 6 cannot read the cards yet. You read each card, then whisper the word to them to pass on."
     },
     {
      "id": "s2",
-     "mins": 6,
-     "do": "Play four cards. Whisper at the same softness each time. After each card, count how many steps the walkers took.",
+     "mins": 4,
+     "do": "Play three cards. Whisper at the same softness each time. After each card, count how many steps the walkers took.",
      "say": "Here is a word. Can you hear it? No? Take a step. Now?",
      "kid": "Can you hear the word? Say it! Or take a step.",
      "ask": [
@@ -830,8 +829,8 @@
     },
     {
      "id": "s3",
-     "mins": 2,
-     "do": "Swap. Your child whispers, and you are the walker.",
+     "mins": 4,
+     "do": "Play the last three cards. The next person whispers each time, so your child whispers too.",
      "say": "Now you whisper, and I walk. Do you think I will need more steps or fewer than you?",
      "kid": "Now you whisper. Make it soft!",
      "check": {
@@ -844,7 +843,8 @@
       ],
       "a": 0,
       "why": "A sound spreads out as it travels, so it gets softer far away. Close to the whisperer, more of the whisper reaches your ears."
-     }
+     },
+     "parent": "Read the card to your child quietly, so they can whisper the word to you."
     }
    ]
   },
@@ -852,7 +852,7 @@
    "id": "g2",
    "title": "Who Hears It Louder? A card game",
    "mins": 10,
-   "players": "2 to 4 players. A grown-up reads the cards.",
+   "players": "1 to 4 players. A grown-up reads the cards and does not play.",
    "context": "This is a card game about sounds travelling. A grown-up reads a card. The players answer and act out the sound if they can.",
    "printables": [
     {
@@ -868,7 +868,7 @@
        "b": "Yes. The whistle travels through the air, out of the kitchen door, to the bedroom."
       },
       {
-       "f": "Paati claps behind Kavya's back. Can Kavya hear the clap?",
+       "f": "Kavya's grandmother claps behind Kavya's back. Can Kavya hear the clap?",
        "b": "Yes. A sound spreads out to every side, so it reaches you from behind too."
       },
       {
@@ -884,16 +884,16 @@
        "b": "At her friend. The cone sends more of the sound out of the wide end."
       },
       {
-       "f": "A koel calls from a tree far away, and another koel calls from the window. Which call sounds louder?",
-       "b": "The koel at the window. Her call has travelled less far."
+       "f": "A koel calls from a tree far away, and another koel calls just outside the window. Both calls are equally loud to start with. Which call sounds louder to you?",
+       "b": "The call outside the window. That sound has travelled less far."
+      },
+      {
+       "f": "A boy rides his cycle down the lane towards your door, ringing his bell. Does the bell get louder or softer as he comes closer?",
+       "b": "Louder. Each step he comes closer, the sound has less far to travel."
       },
       {
        "f": "The neighbour's mixie is running behind the wall. Can you hear it?",
        "b": "Yes. Sound can travel through walls, as well as through air."
-      },
-      {
-       "f": "Two drums are hit equally hard. One is next to you. One is down the road. Which sounds louder?",
-       "b": "The drum next to you. The sound of the far drum has spread out more on the way."
       },
       {
        "f": "Ammu stands round the corner of a door. Amma rings a bell in the room. Can Ammu hear it?",
@@ -904,18 +904,18 @@
    ],
    "rules": [
     "Shuffle the cards and put them face down.",
-    "A grown-up reads a card out loud.",
-    "The players answer. Then they act it out if they can: ring, clap, whisper or whistle.",
-    "The grown-up turns the card and reads the answer.",
-    "A good answer with a reason keeps the card. The most cards at the end wins."
+    "A grown-up reads the top card out loud. The players take turns to answer.",
+    "The player whose turn it is answers, and gives a reason. Then they act it out if they can: ring, clap, whisper or whistle.",
+    "The grown-up turns the card and reads the answer. A good answer with a reason keeps the card. If not, the card is put aside.",
+    "The game ends when all 10 cards have been read. The most cards wins. If the cards are level, everyone wins. With one player, keep as many of the 10 cards as you can, then play again and try to beat your score."
    ],
    "setup": [
     {
-     "art": "Two children and a grandmother sitting on a mat with a pile of cards, the grandmother reading one out.",
+     "art": "Two children and a grown-up sitting on a mat with a pile of cards, the grown-up reading one out.",
      "caption": "1. A grown-up reads a card. Who hears it? Near or far?"
     },
     {
-     "art": "One child standing far away and one close to a clapping grandmother, acting out a card.",
+     "art": "One child standing far away and one close to a clapping grown-up, acting out a card.",
      "caption": "2. Act it out, then turn the card to check."
     }
    ],
@@ -948,18 +948,7 @@
      "mins": 1,
      "do": "Count the cards each player kept.",
      "say": "Which card was the trickiest? Why?",
-     "kid": "Count your cards. Which was the hardest?",
-     "check": {
-      "t": "mcq",
-      "q": "Paati claps behind your back. Can you hear it?",
-      "options": [
-       "Yes, because sound spreads out to every side",
-       "No, because sound only goes forward",
-       "Only if you look at her"
-      ],
-      "a": 0,
-      "why": "A sound spreads out to every side from its source. So it reaches you from in front, from behind and from the sides."
-     }
+     "kid": "Count your cards. Which was the hardest?"
     }
    ]
   }
@@ -981,7 +970,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up uses the pressure cooker. Stay out of the kitchen while it is on the stove.",
+   "safety": "Only a grown-up uses the pressure cooker. Your child listens from the kitchen door and never goes near the stove.",
    "schedule": [
     {
      "day": 1,
@@ -1035,7 +1024,7 @@
        ]
       }
      ],
-     "parent": "A cooker whistles several times, so there is time to visit each room. Stay with your child near the kitchen."
+     "parent": "A cooker whistles several times, so there is time to visit each room. In a small flat the whistle may be heard everywhere. Then use only red and yellow. Stay with your child near the kitchen."
     },
     {
      "id": "s3",
@@ -1061,12 +1050,12 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "Paati Misses the Doorbell",
+   "title": "The Far Room Doorbell",
    "mins": 12,
-   "context": "This is a problem to solve. Paati sits in the far bedroom and often misses the doorbell. How can you help the sound reach her?",
-   "problem": "Paati likes to sit in the far bedroom, with the door half shut. When the doorbell rings, she does not hear it. How can you help the sound of the bell, or of a visitor's knock, travel to her?",
+   "context": "This is a problem to solve. Someone sits in the far bedroom with the door half shut and often misses the doorbell. How can you help the sound reach them?",
+   "problem": "Someone likes to sit in the far bedroom, with the door half shut. When the doorbell rings, they do not hear it. How can you help the sound of the bell, or of a visitor's knock, travel to the far room?",
    "constraints": [
-    "Paati stays in her room.",
+    "The listener stays in the far room.",
     "Use only things you already have at home.",
     "The neighbours should not be disturbed."
    ],
@@ -1076,33 +1065,33 @@
     "a phone that can play a ringing sound, if you have one"
    ],
    "general": [
-    "Open Paati's door, so the sound does not have to go round a corner.",
-    "Open the doors between the front door and her room.",
+    "Open the bedroom door, so the sound does not have to go round a corner.",
+    "Open the doors between the front door and the far room.",
     "Make the bell louder."
    ],
    "creative": [
-    "Put a second bell, or the phone, half-way between the front door and her room.",
-    "Make a paper cone to point the sound down the hallway to her door.",
-    "Agree that whoever hears the bell taps a steel plate near her room."
+    "Put a second bell, or the phone, half-way between the front door and the far room.",
+    "Make a paper cone to point the sound down the hallway to the far room.",
+    "Agree that whoever hears the bell taps a steel plate near the far room."
    ],
-   "your_turn": "Try your idea. One person is the doorbell at the front door. One person is Paati, listening in the far room. Did Paati hear it? Which idea worked best? Why?",
+   "your_turn": "Try your idea. One person is the doorbell at the front door. One person is the listener, in the far room. Did the listener hear it? Which idea worked best? Why?",
    "setup": [
     {
-     "art": "A flat seen from above, with a front door at one end and a grandmother in a far bedroom with the door half shut.",
-     "caption": "1. The doorbell is at one end. Paati is at the other. How can the sound reach her?"
+     "art": "A flat seen from above, with a front door at one end and a grown-up in a far bedroom with the door half shut.",
+     "caption": "1. The doorbell is at one end. The listener is at the other. How can the sound reach the far room?"
     },
     {
      "art": "A girl opening the bedroom door wide while her brother taps a steel tumbler at the front door, sound lines going down the hallway.",
-     "caption": "2. Try your idea. Did Paati hear it?"
+     "caption": "2. Try your idea. Did the listener hear it?"
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Read the problem. One person goes to the far room to be Paati. Tap the tumbler at the front door. Did Paati hear it?",
-     "say": "Paati is in the far room. I am the doorbell. Can she hear me? How could we help the sound get to her?",
-     "kid": "Paati can't hear the bell. How can the sound reach her?",
+     "do": "Read the problem. One person goes to the far room to be the listener. Tap the tumbler at the front door. Did the listener hear it?",
+     "say": "You are in the far room. I am the doorbell. Can you hear me? How could we help the sound get to you?",
+     "kid": "The listener can't hear the bell. How can the sound reach the far room?",
      "ask": [
       {
        "q": "Why is the bell hard to hear in the far room?",
@@ -1117,16 +1106,16 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Let your child try two or three ideas. Tap the tumbler the same way each time. Paati says loud, soft or can't hear.",
-     "say": "Try your idea. I will ring the bell the same way. Paati, could you hear it? Was it loud or soft?",
-     "kid": "Try your idea. Ask Paati if she heard it.",
+     "do": "Let your child try two or three ideas. Tap the tumbler the same way each time. The listener says loud, soft or can't hear.",
+     "say": "Try your idea. I will ring the bell the same way. Could you hear it? Was it loud or soft?",
+     "kid": "Try your idea. Ask the listener if they heard it.",
      "parent": "Help only if asked. Good ideas make the path shorter or more open, or send the sound one way."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Ask your child which idea worked best, and why.",
-     "say": "Which idea helped Paati hear the bell best? Why do you think it worked?",
+     "say": "Which idea helped the listener hear the bell best? Why do you think it worked?",
      "kid": "Which idea worked best? Why?",
      "ask": [
       {
@@ -1149,15 +1138,14 @@
    "mins": 15,
    "items": [
     {
-     "t": "mcq",
-     "p": "Kavya taps a steel tumbler in the kitchen. Her brother hears it in the hall. How did the sound get to him?",
-     "opts": [
-      "It travelled through the air",
-      "He saw the tumbler",
-      "The tumbler was in his hand"
+     "t": "fill",
+     "p": "Say the missing word. The thing that makes a sound is called the sound ____.",
+     "bank": [
+      "source",
+      "ear"
      ],
-     "a": 0,
-     "why": "A sound travels from its source, through the air, to our ears. He did not need to see or touch the tumbler."
+     "a": "source",
+     "why": "The sound source is the thing that makes the sound, like a bell or a cooker. The sound starts there and travels to your ears."
     },
     {
      "t": "draw",
@@ -1180,7 +1168,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Paati claps her hands behind you. You cannot hear the clap, because you are not facing her.",
+     "p": "Someone claps their hands behind you. You cannot hear the clap, because you are not facing them.",
      "a": false,
      "why": "False. A sound spreads out to every side. You can hear a clap from behind you, as you heard the tumbler from behind in All Around the Tumbler.",
      "how": "a1"
@@ -1260,13 +1248,13 @@
        "Use a paper cone"
       ],
       [
-       "Paati can't hear the doorbell in the far room",
+       "Someone in the far room can't hear the doorbell",
        "Open the doors on the way"
       ]
      ],
      "a": "pairs as given",
      "why": "Coming closer means the sound travels less far. A cone sends more of your voice one way. With the doors open, the sound has an open path and does not have to go round them.",
-     "art": "Three small pictures on the left: a girl whispering far away, two girls on balconies, a grandmother in a far room. Three on the right: footsteps, a paper cone, an open door."
+     "art": "Three small pictures on the left: a girl whispering far away, two girls on balconies, a person in a far room. Three on the right: footsteps, a paper cone, an open door."
     },
     {
      "t": "odd",
@@ -1328,33 +1316,11 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "Farhan says the words through a paper cone. Where should his friend stand to hear him best?",
-     "opts": [
-      "In front of the wide end",
-      "Behind Farhan",
-      "Next to the narrow end"
-     ],
-     "a": 0,
-     "how": "e2",
-     "why": "The cone sends more of the sound out of the wide end. So the friend in front of the wide end hears best. Behind Farhan, the voice is softer."
-    },
-    {
-     "t": "mcq",
-     "p": "Nila sees a flash of lightning. She counts to 7 before the thunder. Then she sees another flash and counts to 3. What happened to the storm?",
-     "opts": [
-      "It came closer",
-      "It went further away",
-      "It stayed in the same place"
-     ],
-     "a": 0,
-     "why": "A shorter count means the sound had less far to travel. So the second time, the storm was closer."
-    },
-    {
      "t": "truefalse",
-     "p": "Lightning and thunder are made at the same moment.",
-     "a": true,
-     "why": "True. They are made together. We see the flash first because light travels much faster than sound. The thunder's sound takes longer to reach us."
+     "p": "The finger rub was too far away to hear, so the sound had stopped.",
+     "a": "False",
+     "why": "False. The fingers were still rubbing, so the sound was still being made. It had spread out so much that too little of it reached your ears.",
+     "how": "e1"
     },
     {
      "t": "fill",
@@ -1365,6 +1331,18 @@
      ],
      "a": "softer",
      "why": "As a sound travels, it spreads out. So less of it reaches each ear, and it sounds softer."
+    },
+    {
+     "t": "mcq",
+     "p": "Four children stand 1, 3, 6 and 10 steps from a ringing bell. Who hears the bell softest?",
+     "opts": [
+      "The child 1 step away",
+      "The child 3 steps away",
+      "The child 6 steps away",
+      "The child 10 steps away"
+     ],
+     "a": 3,
+     "why": "The further away you stand, the more the sound has spread out. So the child 10 steps away hears the least of it."
     },
     {
      "t": "draw",
@@ -1399,7 +1377,7 @@
     },
     {
      "t": "count",
-     "p": "In the Walk Away test, Meenakshi heard the finger rub for 3 steps and the crinkly bag for 7 steps. How many more steps did the bag travel?",
+     "p": "In the Walk Away test, Meenakshi, a girl in Class 1, heard the finger rub for 3 steps and the crinkly bag for 7 steps. How many more steps did the bag travel?",
      "a": 4,
      "how": "e1",
      "why": "Count on from 3 to 7: 4, 5, 6, 7. That is 4 more steps. The bag made a bigger sound, so it travelled further before it faded."
@@ -1421,6 +1399,14 @@
      "lines": 3,
      "a": "Zoya's idea matches the tests. The sound spreads out to every side, so less of it reaches far away. Divya is right that far means soft, but sounds do not get tired. With a cone, which stops some of the spreading, a far voice sounds louder.",
      "why": "A strong answer uses evidence, like the cone test or the finger rub fading, and is fair to Divya: she noticed that far sounds are softer."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it down. A friend says: 'A sound only goes the way the speaker is facing.' What would you ask your friend to try, to see if that is true?",
+     "lines": 2,
+     "how": "a1",
+     "a": "Stand behind the person who is making the sound, or round a door, and listen. If you can still hear it, the sound goes every way.",
+     "why": "A strong answer is a test the friend can do, such as listening from behind, and says what they would expect to hear if the sound goes every way."
     }
    ]
   }
@@ -1464,19 +1450,6 @@
   },
   {
    "t": "mcq",
-   "p": "You walk away from someone rubbing their fingers. What happens to the sound?",
-   "opts": [
-    "It gets softer, then you can't hear it",
-    "It gets louder",
-    "It stays the same"
-   ],
-   "a": 0,
-   "why": "The further the sound travels, the more it spreads out, so it gets softer. A few steps away, the finger rub is too soft to hear.",
-   "outcome": 1,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "Which sound can you hear from furthest away?",
    "opts": [
     "A spoon tapped hard on a steel plate",
@@ -1511,18 +1484,6 @@
    "why": "A sound spreads out to every side from its source. In All Around the Tumbler, the tap reached every spot.",
    "outcome": 2,
    "how": "a1"
-  },
-  {
-   "t": "mcq",
-   "p": "Why can you hear a sound from round a corner?",
-   "opts": [
-    "The sound spreads out, through the doorway and round the corner",
-    "Sounds can see round corners",
-    "You can't hear round a corner"
-   ],
-   "a": 0,
-   "why": "A sound spreads out to every side. Some goes through the doorway and spreads out again on the other side, round the corner.",
-   "outcome": 2
   },
   {
    "t": "mcq",
@@ -1561,6 +1522,18 @@
    "why": "A short count means the sound did not have far to travel. So the storm is quite near. A long count means it is far.",
    "outcome": 4,
    "how": "a2"
+  },
+  {
+   "t": "mcq",
+   "p": "An ambulance siren is heard from far away. Why?",
+   "opts": [
+    "It is a big sound to start with, so it can spread a long way and still be heard",
+    "The siren sends its sound only to your ears",
+    "Sound does not get softer when it travels"
+   ],
+   "a": 0,
+   "why": "A loud sound starts big. It spreads out as it travels, but enough of it still reaches ears far away.",
+   "outcome": 1
   }
  ],
  "videos": [
@@ -1661,12 +1634,8 @@
    "a": "To make sure the whole flat heard!"
   },
   {
-   "j": "What did the bell say to the boy behind it?",
-   "a": "Don't worry, I can reach you from here!"
-  },
-  {
    "j": "Why did the koel sit in the tallest tree?",
-   "a": "So her song could travel to the whole street!"
+   "a": "So the song could travel to the whole street!"
   },
   {
    "j": "How does a sound go round a corner?",
@@ -1677,8 +1646,8 @@
    "a": "Can you hear me now?"
   },
   {
-   "j": "Why did the storm count to ten?",
-   "a": "It was playing hide and seek!"
+   "j": "Why is the lightning always on time, but the thunder always late?",
+   "a": "The lightning runs. The thunder has to walk!"
   }
  ],
  "maths": [
@@ -1836,13 +1805,13 @@
    "One bell, many listeners, each hearing it a little differently. Which one hears the real sound?",
    "Where does a sound go after it has passed you?"
   ],
-  "art": "A temple bell ringing in the middle, with rings of sound spreading out to a child close by, a grandmother across a pond, a crow on a roof and a dog far down a lane, each ring a little fainter."
+  "art": "A temple bell ringing in the middle, with rings of sound spreading out to a child close by, a grown-up across a pond, a crow on a roof and a dog far down a lane, each ring a little fainter."
  },
  "how_we_found_out": {
-  "story": "For a very long time, people knew that thunder comes after lightning. But many thought a sound reaches us the moment it is made. The Greek thinker Aristotle also taught that high, sharp sounds travel faster than deep ones. In the 1630s, two French scientists, Marin Mersenne and Pierre Gassendi, tested these ideas. They stood far away from someone firing a gun. They saw the flash and smoke at once. The bang came later. They timed the wait. The further away they stood, the longer the wait. So a sound takes time to travel. Gassendi also compared a big gun, with a deep boom, and a small gun, with a sharp crack. From far away, both bangs arrived after the same wait. So high and deep sounds travel at the same speed. Aristotle was wrong about that. You can test the same idea in any monsoon storm: count from the flash to the thunder.",
+  "story": "For a very long time, people knew that thunder comes after lightning. But many thought a sound reaches us the moment it is made. Writers in the school of the Greek thinker Aristotle also taught that high, sharp sounds travel faster than deep ones. In the 1630s, two French scientists, Marin Mersenne and Pierre Gassendi, tested these ideas. They stood far away from someone firing a gun. They saw the flash and smoke at once. The bang came later. They timed the wait. The further away they stood, the longer the wait. So a sound takes time to travel. Gassendi also compared a big gun, with a deep boom, and a small gun, with a sharp crack. From far away, both bangs arrived after the same wait. So high and deep sounds travel at the same speed. That old teaching was wrong. You can test the same idea in any monsoon storm: count from the flash to the thunder.",
   "who": "Marin Mersenne (1588 to 1648) and Pierre Gassendi (1592 to 1655), French scientists",
   "when": "The 1630s",
-  "wrong_idea": "Aristotle taught that high sounds travel faster than deep sounds. Gassendi timed a deep boom and a sharp crack from far away, and both arrived after the same wait."
+  "wrong_idea": "Writers in Aristotle's school taught that high sounds travel faster than deep sounds. Gassendi timed a deep boom and a sharp crack from far away, and both arrived after the same wait."
  },
  "plan": {
   "start_options": [
@@ -1907,5 +1876,6 @@
    "Nyaya-Vaisheshika on sound propagation: vichi-taranga-nyaya (the maxim of waves and ripples) and kadamba-mukula-nyaya (the maxim of kadamba buds), Vishvanatha's Bhasha-pariccheda (Karikavali). Verse numbers not checked.",
    "Udana 6.4 (Tittha Sutta), the parable of the blind men and the elephant."
   ]
- }
+ },
+ "playtest": "Walked through every experiment, activity, game and project as a family in a flat, and checked minutes, steps and checks against each other. Whisper Walk had 12 cards but only 10 minutes, so it is now 6 written-out cards, the whisperer changes after every card (works for 2 and 4 players), and ties are shared wins. Who Hears It Louder also says what happens on a tie. The three video entries still have no checked address (the validator needs three), so they stay to be found."
 }

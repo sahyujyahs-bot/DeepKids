@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Here are six things: a steel spoon, a pencil, a comb, a key, a bottle cap and a wooden spoon. Can you put them into two groups? What question did you ask to make your groups?",
-  "text": "People sort things every day. Ammamma puts the washed steel vessels on one shelf and the glass jars on another. In Mumbai, the dabbawalas sort thousands of tiffin boxes by the marks painted on the lids. A bangle seller puts the red bangles in one row and the green ones in the next. To sort, you ask one question about each thing, like 'Is it metal?' The things that say yes go in one group. The things that say no go in the other.",
+  "text": "People sort things every day. A grandmother in Kochi puts the steel vessels on one shelf and the glass jars on another. In Mumbai, the dabbawalas sort thousands of tiffin boxes by the marks on the lids. To sort, you ask one question about each thing, like 'Is it metal?' The things that say yes go in one group. The things that say no go in the other.",
   "art": "Three small pictures side by side: a grandmother putting steel vessels on a shelf, a dabbawala in a white cap sorting tiffin boxes with painted marks, and a bangle seller with rows of red and green bangles."
  },
  "outcomes": [
@@ -29,7 +29,7 @@
   {
    "term": "Sort",
    "meaning": "To sort is to put things that are alike together, and things that are different apart.",
-   "example": "After washing up, Ammamma sorts the spoons into one tumbler and the forks into another.",
+   "example": "After washing up, a grandmother sorts the spoons into one tumbler and the forks into another.",
    "art": "A grandmother's hands putting spoons into one steel tumbler and forks into another."
   },
   {
@@ -90,7 +90,7 @@
    "concept": "A test settles a tricky thing",
    "status": "defined",
    "definition": "When you are not sure which group a thing belongs in, you can do a test to find out.",
-   "description": "Some things are tricky. A clear bottle might be glass or plastic. A shiny chain might be metal or plastic. Looking is not always enough, so you test. Tap it and listen. Feel if it is cold. Lift it and feel how heavy it is. Some things are made of two materials, like a knife with a steel blade and a plastic handle. A thing like that can go in both groups, or in a middle group of its own.",
+   "description": "Looking is not always enough. A clear bottle might be glass or plastic. So you test: tap it and listen, feel if it is cold, lift it and feel how heavy it is. A knife has a steel blade and a plastic handle, so it can go in both groups.",
    "examples": [
     "Tap a clear bottle with a spoon. Glass goes ting, and plastic goes tock.",
     "A steel spoon feels cold in your hand. A plastic spoon of the same size feels warmer.",
@@ -104,11 +104,11 @@
    "concept": "Why the steel katori floats and the steel spoon sinks",
    "status": "defined",
    "definition": "Water pushes up on everything you put in it. A thing floats when that push is strong enough to hold it up.",
-   "description": "A steel spoon is small and solid. The water's push is too weak to hold it up, so it sinks. A steel katori has a wide, hollow shape, and the space inside is full of air. Steel and air together are light for how much room they take up. So the water can hold the katori up. When you fill the katori with water, the air is pushed out, and it sinks. Big steel ships float in the same way. Their shape holds a lot of air inside.",
+   "description": "A steel spoon is small and solid, so the water cannot hold it up and it sinks. A steel katori is wide and hollow, with air inside. Steel and air together are light for the space they take up, so the water holds the katori up. Fill it with water, and the air is pushed out, so it sinks. Big steel ships float in the same way.",
    "examples": [
     "A one-rupee coin sinks, but a big wooden log floats. So heavy things do not always sink.",
     "A steel ship at the port in Kochi weighs more than many elephants together, yet it floats.",
-    "With your lungs full of air, your body floats more easily in water."
+    "A rubber ball floats on water, but a pebble of the same size sinks."
    ],
    "perspectives": [],
    "context": "This card explains what you saw in the Sink or Float Sort, where the steel spoon and the steel katori did different things.",
@@ -150,7 +150,7 @@
    "claim": "Plastic is one material.",
    "who": "Most of us, because plastic things look and feel alike",
    "for": "Plastic things are often light and smooth, and they come in every colour.",
-   "against": "There are many kinds of plastic. Some float in water and some sink. Many plastic things have a small number from 1 to 7 inside a triangle, which tells recyclers what kind of plastic it is.",
+   "against": "There are many kinds of plastic. Some float in water and some sink.",
    "status": "rejected",
    "context": "This card is about the plastic group, and why it can split."
   }
@@ -189,7 +189,7 @@
    "what_is_life": "Living beings sort things all the time. A crow picks out the food she wants from a heap. Your tongue sorts sweet from bitter.",
    "what_is_this_world": "The world has many materials, and each one can be made into many shapes. A material and its shape together decide what a thing can do."
   },
-  "thread": "A heap of spoons, keys, combs and pencils looks like many different things. Sort them, and they fall into a few materials: metal, wood and plastic. Every material is made of tiny parts called atoms. The same steel can become a spoon that sinks or a ship that floats. Everything is conscious, the steel, the water and the air, and the child who sorts them.",
+  "thread": "A heap of spoons, keys, combs and pencils falls into a few materials: metal, wood and plastic. But the same steel can be a spoon that sinks or a katori that floats, because the shape holds air. Everything is conscious: the steel, the water, the air, and the child who sorts them.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
@@ -219,7 +219,7 @@
   "practice": {
    "title": "Fill up like a katori",
    "mins": 3,
-   "say": "Sit up tall and put your hand on your tummy. Breathe in slowly through your nose. Feel your body fill with air, like the katori. Now breathe out slowly. Feel the air go. Do it three times. When your chest is full of air, you float more easily in water.",
+   "say": "Sit up tall and put your hand on your tummy. Breathe in slowly through your nose. Feel your body fill with air, like the katori. Now breathe out slowly. Feel the air go. Do it three times.",
    "kid": "Put your hand on your tummy. Breathe in slowly. Fill up with air, like the katori. Breathe out slowly. Do it three times."
   },
   "ask": [
@@ -230,7 +230,7 @@
   "art": "A girl sitting cross-legged with her hand on her tummy, breathing in, and beside her a steel katori floating on a bucket of water."
  },
  "how_we_found_out": {
-  "story": "Long ago, thinkers in Greece and in India sorted all the materials of the world into a few big groups. In Greece, many said that everything is made of earth, water, air and fire. In India, the five elements, the pancha bhuta, were earth, water, fire, air and space. For more than 2,000 years, most people thought water was one of these basic materials. They thought it could not be made from anything else. Then, in the 1780s, an English scientist named Henry Cavendish burned a gas, and drops of water appeared. In France, Antoine Lavoisier tested this carefully. He showed that water is made of two gases joined together. He named one of them hydrogen, which means 'water-maker'. His wife, Marie-Anne Paulze Lavoisier, worked beside him in the laboratory. She kept notes and drew careful pictures of the experiments, and her drawings were printed in his famous book of 1789. That book sorted materials into a new list of 33 basic substances, called elements. Some were wrong: it listed light and heat as elements. Today scientists know 118 elements. Every material you sorted is made from them.",
+  "story": "Long ago, thinkers in Greece and in India sorted all the materials of the world into a few big kinds. In India, the five elements, the pancha bhuta, were earth, water, fire, air and space. For more than 2,000 years, most people thought water was a basic material that could not be made from anything else. Then, in the 1780s, an English scientist named Henry Cavendish burned a gas, and drops of water appeared. In France, Antoine Lavoisier tested this carefully. He showed that water is made of two gases joined together, and he named one of them hydrogen, which means 'water-maker'. His wife, Marie-Anne Paulze Lavoisier, worked beside him. She kept notes and drew the experiments, and her drawings were printed in his book of 1789. That book sorted materials into 33 basic substances, called elements. Some were wrong: it listed light and heat. Today scientists know 118 elements.",
   "who": "Henry Cavendish, an English scientist; Antoine Lavoisier, a French scientist; and Marie-Anne Paulze Lavoisier, who worked with him and drew the pictures of their experiments",
   "when": "The 1780s, and the book of 1789",
   "wrong_idea": "Water is a basic material that cannot be made from anything else. Cavendish and Lavoisier showed that water is made of two gases joined together."
@@ -314,7 +314,7 @@
      "qty": 1
     },
     {
-     "item": "a small steel katori",
+     "item": "a light steel katori or small bowl, wide and thin (a thick, heavy one may sink)",
      "qty": 1
     },
     {
@@ -420,7 +420,7 @@
      "caption": "1. Sort the eight things into metal, wood and plastic."
     },
     {
-     "art": "A girl gently putting a steel katori, right way up, onto the water in a blue bucket, while her mother watches.",
+     "art": "A girl gently putting a steel katori, right way up, onto the water in a blue bucket, while a grown-up watches.",
      "caption": "2. Put each thing in the water gently. Does it float or sink?"
     },
     {
@@ -453,8 +453,8 @@
     },
     {
      "id": "s2",
-     "mins": 4,
-     "do": "1. Point to the metal group, then the wood group, then the plastic group. 2. For each thing, your child says float or sink, and why. 3. Write or draw each guess.",
+     "mins": 3,
+     "do": "1. Point to the metal group, then the wood group, then the plastic group. 2. For each thing, your child says float or sink, and why. 3. Write or draw each guess. A grown-up writes the words.",
      "say": "Now guess. Will this one float or sink when we put it in the water? Why do you think so?",
      "kid": "Look at each thing. Will it float or sink? Say why.",
      "ask": [
@@ -471,8 +471,8 @@
     },
     {
      "id": "s3",
-     "mins": 6,
-     "do": "1. Your child puts one thing at a time gently into the water. 2. Put the katori in right way up, so no water spills in. 3. Count to five together for each one. 4. Take out the sinkers and put them in a sink pile.",
+     "mins": 5,
+     "do": "1. Your child puts one thing at a time gently into the water. 2. Put the katori in right way up, so no water spills in. 3. Count to five together for each one. 4. Leave each thing where it lands.",
      "say": "Put it in gently. One, two, three, four, five. Did it float or sink? Was your guess right?",
      "kid": "Put one thing in the water gently. Count to five. Float or sink?",
      "ask": [
@@ -484,12 +484,12 @@
        ]
       }
      ],
-     "parent": "The spoon, the coin and the key sink at once. The katori floats if you lower it gently, right way up. The wooden spoon, the pencil and the bottle cap float. Many plastic combs sink, but some float, because there are many kinds of plastic. Either result is fine."
+     "parent": "The spoon, the coin and the key sink at once. The katori floats if you lower it gently, right way up. The wooden spoon, the pencil and the bottle cap float. Many plastic combs sink, but some float, because there are many kinds of plastic. Either result is fine. If your katori sinks even when placed gently, use a wider, thinner steel bowl instead."
     },
     {
      "id": "s4",
-     "mins": 3,
-     "do": "1. Put the floaters in one pile and the sinkers in another. 2. Ask your child to look at the metal things.",
+     "mins": 2,
+     "do": "1. Take the floaters out and make one pile. 2. Take the sinkers out and make another pile. 3. Ask your child to look at the metal things.",
      "say": "Look at the float pile and the sink pile. Where did the metal things go? Did they all stay together?",
      "kid": "Look at your two piles. Where are the metal things?",
      "ask": [
@@ -587,7 +587,7 @@
      "qty": 10
     },
     {
-     "item": "a knife with a steel blade and a plastic handle, held by the grown-up only",
+     "item": "a blunt table knife with a steel blade and a plastic handle, held by the grown-up only",
      "qty": 1
     }
    ],
@@ -671,7 +671,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Nila asks 'Is it metal?' about a coin, a pencil and a key. Which one goes in the no circle?",
+      "q": "Nila, a girl in Class 1, asks 'Is it metal?' about a coin, a pencil and a key. Which one goes in the no circle?",
       "options": [
        "The pencil",
        "The coin",
@@ -697,6 +697,10 @@
     {
      "item": "small things made of metal, wood, plastic, cloth and paper, about sixteen in all",
      "qty": 16
+    },
+    {
+     "item": "a steel tumbler and an empty chips packet, for the last plate",
+     "qty": 2
     }
    ],
    "schedule": [
@@ -713,7 +717,7 @@
      "caption": "1. Look at the four things. Which one is different?"
     },
     {
-     "art": "A girl putting four things on a plate while her mother covers her eyes.",
+     "art": "A girl putting four things on a plate while a grown-up covers their eyes.",
      "caption": "2. Now make a plate for the grown-up."
     }
    ],
@@ -781,7 +785,7 @@
     },
     {
      "item": "clean dry things from the waste: old newspaper, a cardboard box, an empty plastic bottle, a milk packet rinsed and dried, and an empty tin",
-     "qty": 6
+     "qty": 5
     }
    ],
    "safety": "A grown-up checks that tins have no sharp edges before your child touches them.",
@@ -799,7 +803,7 @@
      "caption": "1. Make a picture label for each bag."
     },
     {
-     "art": "A boy putting an empty plastic bottle into the plastic bag while his sister holds up a folded newspaper.",
+     "art": "A boy putting an empty plastic bottle into the plastic bag while a girl holds up a folded newspaper.",
      "caption": "2. Sort each thing into its bag."
     }
    ],
@@ -822,7 +826,7 @@
        "q": "Why does the milk packet go in the plastic bag?",
        "good": [
         "It is plastic.",
-        "It is soft and you can't tear it like paper."
+        "It is smooth and bendy, and water does not soak into it."
        ]
       }
      ],
@@ -854,7 +858,7 @@
    "id": "g1",
    "title": "The Sorting Relay: metal basket, not-metal basket",
    "mins": 12,
-   "players": "1 to 4 players and one caller. A grown-up can be the caller.",
+   "players": "2 to 4 people: one calls, and one to three run. With two people, you swap jobs after eight cards.",
    "context": "This is a running game. The caller reads a thing card. You run and drop the card in the metal basket or the not-metal basket. Then the caller reads the back to check.",
    "printables": [
     {
@@ -939,11 +943,12 @@
    ],
    "rules": [
     "Put two baskets or buckets at one end of the room. Draw a tick on paper for the metal basket and a cross for the not-metal basket.",
-    "Players stand at the other end.",
-    "The caller reads a thing card out loud and gives it to the first player.",
+    "Players stand at the other end. Take turns in the same order each time.",
+    "The caller reads a thing card out loud and gives it to the next player.",
     "The player runs and drops the card in the metal basket or the not-metal basket, then runs back.",
-    "The caller reads the back of the card. A card in the right basket scores one point.",
-    "For a tricky card, like the pressure cooker or the chips packet, a player who says why gets one more point."
+    "The caller reads the back of the card. A card in the right basket scores one point. For the pressure cooker card, either basket scores.",
+    "For a tricky card, like the pressure cooker or the chips packet, a player who says why gets one more point.",
+    "After all 16 cards, add up the points. The most points wins. With two people, add up each person's points from both turns."
    ],
    "setup": [
     {
@@ -979,7 +984,7 @@
        ]
       }
      ],
-     "parent": "The kitchen foil card and the chips packet card are tricky. Both are shiny. Foil is metal, and a chips packet is mostly plastic. Let your child test real ones: foil tears and stays crumpled, and a chips packet stretches before it tears."
+     "parent": "The kitchen foil card and the chips packet card are tricky. Both are shiny. Foil is metal, and a chips packet is mostly plastic. If you have real ones, let your child test them: foil stays crumpled when you scrunch it, and a chips packet slowly opens up again. A chips packet is soft and crinkly, and makes no ringing sound when you tap it."
     },
     {
      "id": "s3",
@@ -1119,7 +1124,7 @@
    "context": "In this project you make a small book of sorts. Each day you sort a different heap at home and draw your groups on one page.",
    "materials": [
     {
-     "item": "three sheets of paper, folded and stapled into a little book",
+     "item": "three sheets of paper, folded in half and stapled or tied with string into a little book",
      "qty": 3
     },
     {
@@ -1159,7 +1164,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Make the book. 2. Your child sorts one kitchen shelf by material. 3. They draw each group on page 1.",
+     "do": "1. A grown-up helps make the book. 2. Your child sorts one kitchen shelf by material. 3. They draw each group on page 1.",
      "say": "Today we sort a kitchen shelf by what things are made of. Then draw your groups.",
      "kid": "Sort the shelf by material. Draw each group on page 1.",
      "ask": [
@@ -1199,7 +1204,7 @@
      "wait": "Day 3",
      "check": {
       "t": "mcq",
-      "q": "Kavya sorts her toys by 'Is it soft?' Where does her cloth rabbit go?",
+      "q": "Kavya, a girl in Class 1, sorts her toys by 'Is it soft?' Where does her cloth rabbit go?",
       "options": [
        "In the soft group",
        "In the hard group",
@@ -1294,7 +1299,7 @@
        ]
       }
      ],
-     "parent": "If the raft tips, the toy may be too far to one side, or the raft too narrow. Change one thing and test again."
+     "parent": "If the raft tips, the toy may be too far to one side, or the raft too narrow. A small toy or an eraser needs about ten sticks. If the raft sinks low, add more sticks, or tape the sticks onto an empty plastic bottle. Change one thing and test again."
     },
     {
      "id": "s4",
@@ -1416,15 +1421,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Sink or Float Sort, what did the steel katori do when it was put gently on the water, right way up?",
+     "p": "Which of these is a good question for sorting a heap of things into two groups?",
      "opts": [
-      "It floated",
-      "It sank at once",
-      "It melted"
+      "Is it made of wood?",
+      "Is it nice?",
+      "Is it a good day?"
      ],
      "a": 0,
-     "why": "The katori floated, because its wide, hollow shape held air. The steel spoon, made of the same steel, sank.",
-     "how": "e1"
+     "why": "A good sorting question has a clear answer, yes or no, for every thing. 'Is it nice?' is different for each person."
     },
     {
      "t": "truefalse",
@@ -1462,7 +1466,7 @@
        "says": "It goes in both groups, because it is made of metal and plastic."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the other one has right.",
+     "ask": "Who do you agree with? Why? Then say one thing the other one has right. Say it, and a grown-up can write it down.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason. For Priya: the knife really is made of two materials. For Farhan: the blade is the part that does the cutting, so it is fair to group it with metal things.",
      "why": "Both are partly right. A thing made of two materials can go in two groups. Which group you choose depends on why you are sorting."
@@ -1531,36 +1535,23 @@
     },
     {
      "t": "write",
-     "p": "Fatima, a girl in Class 2, says, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell Fatima?",
+     "p": "Fatima, a girl of 7, says, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell Fatima? Say it, and a grown-up writes it down.",
      "lines": 2,
      "a": "The log floats. So heavy things do not always sink. A small key is light, and it sinks. What a thing is made of, and its shape, matter more than how heavy it is.",
      "why": "A strong answer uses an example that does not fit Fatima's rule, like a heavy log that floats or a light key that sinks."
     },
     {
-     "t": "odd",
-     "p": "Three of these went in the sink pile. Which one went in the float pile?",
-     "opts": [
-      "A coin",
-      "A key",
-      "A pencil",
-      "A steel spoon"
-     ],
-     "a": 2,
-     "why": "A pencil is wood, and wood floats. The coin, the key and the steel spoon are solid metal, and they sank.",
-     "how": "e1"
-    },
-    {
      "t": "count",
-     "p": "In the Sink or Float Sort, Selvi's metal group had a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?",
+     "p": "In the Sink or Float Sort, Selvi, a girl in Class 1, had a metal group with a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?",
      "a": 3,
      "why": "4 metal things, and 1 floated. 4 take away 1 is 3. The spoon, the coin and the key sank.",
      "how": "e1"
     },
     {
      "t": "label",
-     "p": "Here is a pencil. Label each part with its material.",
+     "p": "Here is a pencil. Say what each part is made of, and a grown-up writes the word.",
      "labels": [
-      "the long brown outside",
+      "the long outside, under the paint",
       "the grey point",
       "the pink end",
       "the shiny band holding the pink end"
@@ -1575,15 +1566,8 @@
      "art": "A pencil with a pink rubber and a shiny band, with four empty labels pointing to its parts."
     },
     {
-     "t": "truefalse",
-     "p": "A chips packet is shiny, so it must be metal.",
-     "a": false,
-     "why": "False. A chips packet is mostly plastic, with a very thin shiny coat inside. Shiny things are not always metal.",
-     "how": "a2"
-    },
-    {
      "t": "perspective",
-     "p": "Rukmini and her cousin Kavya are sorting the steel katori after the Sink or Float Sort.",
+     "p": "Rukmini, aged 7, and her cousin Kavya, aged 6, are sorting the steel katori after the Sink or Float Sort.",
      "views": [
       {
        "who": "Rukmini, aged 7",
@@ -1594,7 +1578,7 @@
        "says": "The katori goes in the float group. I saw it float."
       }
      ],
-     "ask": "Who is right? Can they both be right? Say why.",
+     "ask": "Who is right? Can they both be right? Say why. A grown-up can write your answer.",
      "lines": 3,
      "a": "A strong answer says both are right, because they asked different questions. Rukmini asked 'What is it made of?' Kavya asked 'Does it float?' The katori is metal and it floats, right way up.",
      "why": "The same thing can be in different groups when you ask different questions. The groups come from the question.",
@@ -1608,10 +1592,54 @@
     },
     {
      "t": "write",
-     "p": "Kannan, a boy of 4, sorted his toys into 'red' and 'not red'. His sister sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why.",
+     "p": "Kannan, a boy of 4, sorted his toys into 'red' and 'not red'. His sister sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why. A grown-up can write your answer.",
      "lines": 2,
      "a": "Yes. Each question makes its own groups. Kannan sorted by colour and his sister sorted by material. Both are good ways to sort.",
      "why": "A strong answer says that the same heap can be sorted in many ways, and each question gives different groups."
+    },
+    {
+     "t": "truefalse",
+     "p": "All plastic things float in water.",
+     "a": false,
+     "why": "False. A bottle cap floats, but many plastic combs sink. There are many kinds of plastic, and they do not all do the same thing.",
+     "how": "e1"
+    },
+    {
+     "t": "sort",
+     "p": "Sort these by the question 'Can you see through it?'",
+     "cats": [
+      "Yes",
+      "No"
+     ],
+     "items": [
+      [
+       "A glass window",
+       "Yes"
+      ],
+      [
+       "A wooden rolling pin",
+       "No"
+      ],
+      [
+       "A clear plastic bottle",
+       "Yes"
+      ],
+      [
+       "A steel tumbler",
+       "No"
+      ],
+      [
+       "A glass jar",
+       "Yes"
+      ],
+      [
+       "A paper bag",
+       "No"
+      ]
+     ],
+     "a": "see items",
+     "why": "Glass and clear plastic let light through, so you can see through them. Wood, steel and paper do not.",
+     "art": "Six small pictures in a row: a window, a rolling pin, a clear bottle, a steel tumbler, a glass jar and a paper bag."
     }
    ]
   }
@@ -1631,7 +1659,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi asks 'Is it metal?' about each thing. Which one goes in the yes group?",
+   "p": "Lakshmi, a girl of six, asks 'Is it metal?' about each thing. Which one goes in the yes group?",
    "opts": [
     "A steel tumbler",
     "A cotton towel",
@@ -1643,7 +1671,7 @@
   },
   {
    "t": "mcq",
-   "p": "What is a wooden rolling pin made of?",
+   "p": "A rolling pin has thin brown lines on it, called grain. What is it made of?",
    "opts": [
     "Wood",
     "Metal",
@@ -1679,14 +1707,14 @@
   },
   {
    "t": "mcq",
-   "p": "A knife has a steel blade and a plastic handle. Where can it go when you sort by material?",
+   "p": "A steel tumbler and a plastic tumbler are the same size. You hold one in each hand. Which feels colder?",
    "opts": [
-    "In both the metal group and the plastic group",
-    "Only in the plastic group",
-    "In no group at all"
+    "The steel tumbler",
+    "The plastic tumbler",
+    "They feel the same"
    ],
    "a": 0,
-   "why": "The knife is made of two materials, so it can go in both groups, or in a middle group of its own.",
+   "why": "Steel takes warmth from your hand quickly, so it feels cold. Plastic does not, so it feels warmer. This is one test for telling materials apart.",
    "outcome": 2
   },
   {
@@ -1704,19 +1732,6 @@
   },
   {
    "t": "mcq",
-   "p": "Why did the katori sink when you filled it with water?",
-   "opts": [
-    "The water pushed the air out of it",
-    "The katori got heavier steel",
-    "The water got colder"
-   ],
-   "a": 0,
-   "why": "The air inside the katori helped the water hold it up. When water took the place of the air, it sank.",
-   "outcome": 3,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "Big ships are made of steel. Why do they float?",
    "opts": [
     "Their shape holds a lot of air inside",
@@ -1729,7 +1744,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before testing, Nila guessed that the pencil would float. What should she do next?",
+   "p": "Before testing, Nila, a girl in Class 1, guessed that the pencil would float. What should she do next?",
    "opts": [
     "Test it in the water and see",
     "Change her guess without testing",
@@ -1741,7 +1756,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan guessed all the metal things would sink. The katori floated. What does that tell him?",
+   "p": "Farhan, a boy in Class 1, guessed all the metal things would sink. The katori floated. What does that tell him?",
    "opts": [
     "His guess was wrong for the katori, so he learned something new",
     "The test went wrong",
@@ -1842,8 +1857,8 @@
    "a": "Hold me up, I'm full of air!"
   },
   {
-   "j": "Why was the coin so good at hide and seek?",
-   "a": "It always went to the bottom of things!"
+   "j": "What do you call a wooden spoon that cannot sink?",
+   "a": "A very good swimmer!"
   },
   {
    "j": "What kind of music do steel spoons like?",
@@ -1854,25 +1869,21 @@
    "a": "It was a wood-be swimmer!"
   },
   {
-   "j": "What did the yes circle say to the no circle?",
-   "a": "Let's not argue, we can share the knife!"
-  },
-  {
    "j": "Why did the sock go in the cloth pile?",
    "a": "It felt right at home!"
   },
   {
-   "j": "What did the plastic bottle say to the recycling bag?",
-   "a": "See you again, as something new!"
-  },
-  {
    "j": "What has teeth but never bites?",
    "a": "A comb!"
+  },
+  {
+   "j": "Why do cooks love steel spoons?",
+   "a": "They are great at stirring things up!"
   }
  ],
  "maths": [
   {
-   "problem": "In the Sink or Float Sort, Meena put 8 things in the water. 5 floated. How many sank?",
+   "problem": "In the Sink or Float Sort, Meena, a girl in Class 1, put 8 things in the water. 5 floated. How many sank?",
    "answer": "3 sank.",
    "explain": "Count 8 fingers. Fold down 5 for the things that floated. 3 fingers are left, so 3 things sank. 8 take away 5 is 3.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1881,16 +1892,16 @@
    "why_maths": "Taking away tells us how many are in the second group when we know the total and the first group."
   },
   {
-   "problem": "Here are the groups from the Yes-or-No Sort: metal has 5 things, not metal has 5 things. Lakshmi adds the knife to both groups. Which group is bigger now?",
-   "answer": "Neither. Each group has 6 things now.",
-   "explain": "The knife is metal and plastic, so it goes in both groups. 5 and 1 more is 6, for each group. A thing in both groups counts in both.",
+   "problem": "In the Yes-or-No Sort, the metal circle has 4 things and the not-metal circle has 6 things. Lakshmi, a girl of six, lays a knife across the edge of both circles, so it counts in both. How many things are in each circle now?",
+   "answer": "5 things in the metal circle and 7 things in the not-metal circle.",
+   "explain": "The knife is metal and plastic, so it counts in both circles. 4 and 1 more is 5. 6 and 1 more is 7.",
    "math_unit": "math.logic.sets-and-venn.L2",
    "how": "a1",
    "context": "This is about the Yes-or-No Sort, where the knife went across the edge of both circles.",
    "why_maths": "Counting a thing that belongs to two groups shows how groups can overlap."
   },
   {
-   "problem": "Kavya made tally marks for her Recycling Corner this week: paper 6, plastic 9, metal 2. Which bag filled up fastest? What might her family do to throw away less of it?",
+   "problem": "Kavya, a girl in Class 1, made tally marks for her Recycling Corner this week: paper 6, plastic 9, metal 2. Which bag filled up fastest? What might her family do to throw away less of it?",
    "answer": "Plastic, with 9 things. They could carry a cloth bag to the shop, or buy things with less plastic wrapping.",
    "explain": "9 is more than 6, and 6 is more than 2. So the plastic bag got the most things. The numbers show where most of the waste comes from.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1948,8 +1959,8 @@
    "a": "Two."
   },
   {
-   "q": "What was Ammamma's ladle made from?",
-   "a": "Half a coconut shell, with a wooden handle."
+   "q": "In the story, what was the bowl of Ammamma's chiratta ladle made from?",
+   "a": "Half a coconut shell. The handle was wood."
   }
  ],
  "plan": {
@@ -2015,5 +2026,6 @@
    "P. C. Quinn, P. D. Eimas and S. L. Rosenkrantz, 'Evidence for representations of perceptually similar natural categories by 3-month-old and 4-month-old infants', Perception 22 (1993).",
    "Silica aerogel is mostly air, often more than 99% by volume, and is among the lightest solids made."
   ]
- }
+ },
+ "playtest": "Walked through the unit as a parent and child in a flat. Sink or Float Sort: the minutes add up to 20, the metal group is four, wood two and plastic two, and the thin katori floats while the comb may do either, which the step says. Yes-or-No Sort counts match the maths question. Fixed the Sorting Relay so it plays with 2 to 4 people and has no solo rule, replaced a vague sound line, a repeated knife quiz question (now a feel-cold test), a repeated lungs example and a weak joke, and made the milk packet answer and a true or false answer consistent."
 }

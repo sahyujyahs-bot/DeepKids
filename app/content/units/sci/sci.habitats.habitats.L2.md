@@ -26,40 +26,40 @@
 ### What a habitat is · *defined*
 **Definition:** A habitat is the place where a plant or an animal lives and finds what they need to stay alive: water, food, air, shelter and the right warmth.
 
-Every living being needs a few things every day. They need water, food and air. They need shelter from the sun, the rain and danger. They need the right warmth: not too hot and not too cold. A habitat is a place that gives them all of these. Humans are animals too, and our home and town are our habitat.
+Every living being needs water, food and air. They need shelter from the sun, the rain and danger, and the right warmth, not too hot and not too cold. A habitat is a place that gives them all of these. Humans are animals too, and our home and town are our habitat.
 - e.g. A pond gives a frog water for her eggs, insects to eat and mud to hide in.
 - e.g. A tall tree gives a crow a high, safe place for a nest.
 - e.g. Your home gives you water, food, a roof and a safe place to sleep.
 ### Different habitats, different living beings · *defined*
 **Definition:** Each habitat has its own water, warmth, food and shelter, so each one suits different plants and animals.
 
-A pond is wet all the time, so fish, frogs and lotus live there. A forest is shady and damp, with many trees, so monkeys, hornbills and ferns live there. A desert is hot and dry by day, so camels, desert foxes and thorny plants live there. The seashore is sandy and salty, and the waves come and go, so crabs and coconut palms live there. A fish could not live in the desert. A camel could not live in a pond.
+A pond is wet all the time, so fish, frogs and lotus live there. A forest is shady and damp, so monkeys, hornbills and ferns live there. A desert is hot and dry by day, so camels, desert foxes and thorny plants live there. The seashore is sandy and salty, so crabs and coconut palms live there.
 - e.g. Fish breathe with gills, which work only in water.
 - e.g. A camel can go for many days without drinking water.
 - e.g. In the Sundarbans of West Bengal, mangrove trees grow in salty mud where the sea comes in twice a day.
 ### Plants in different habitats · *defined*
 **Definition:** Plants grow in almost every habitat on land and in water, and each kind of plant grows best in the habitat that suits them.
 
-A lotus grows in a pond. Their roots hold the mud at the bottom, and their wide leaves float on top. A cactus grows in dry, sandy places. Their thick stem stores water for the long dry months. Moss grows on damp walls and stones, because moss has no real roots and drinks water through their leaves. A coconut palm grows by the sea, in sandy soil. Plants do not walk, so they live where their seed landed and found what they needed.
+A lotus grows in a pond. Their roots hold the mud at the bottom, and their wide leaves float on top. A cactus grows in dry, sandy places and stores water in the thick stem. Moss grows on damp walls and stones, and drinks water through their leaves. Plants do not walk, so they live where their seed landed and found what they needed.
 - e.g. A money plant can grow in a bottle of water on a windowsill.
 - e.g. Aloe vera grows well in a sunny pot that dries out between waterings.
 - e.g. Ferns and moss grow on the shady, wet walls of old wells.
 ### Animals in different habitats · *defined*
 **Definition:** Animals live in habitats that give them their food, water and shelter, and their bodies suit those places.
 
-A crab lives on the seashore. She digs a hole in the wet sand and hides there when the waves come. A squirrel lives in trees. She climbs fast, and her nest is high up, away from cats. A fish lives in water and breathes through gills. A rock agama, a kind of lizard, lives on rocks. He lies on a warm rock in the morning sun and hides in a crack when danger comes. Animals can move about, so they can go and look for a better place when their habitat changes.
+A crab on the seashore digs a hole in the wet sand and hides there when the waves come. A squirrel climbs fast and keeps her nest high in a tree, away from cats. A rock agama, a kind of lizard, lies on a warm rock in the morning sun, and he hides in a crack when danger comes. Animals can move, so they can go and look for a better place when their habitat changes.
 - e.g. Ghost crabs run across the beach at Marina in Chennai and dive into their holes.
 - e.g. Rock agamas sit on the big boulders at Hampi in Karnataka.
 - e.g. Pigeons nest on window ledges in Mumbai, much as their wild relatives nest on cliff ledges.
 ### Rocks in a habitat · *defined*
 **Definition:** Rocks are part of every habitat on land. They give shelter, some of them hold water, and over a very long time they crumble into soil.
 
-Animals hide under rocks and in the cracks between them. Some rocks are full of tiny holes, so they soak up water and stay damp. Brick and clay are made from clay, and clay is rock broken into very tiny bits. Moss and tiny plants can live on rocks that stay damp. Other rocks, like smooth granite, let the water run off, so they dry fast. Rain, sun and plant roots slowly break rocks into small grains. Mixed with bits of dead plants, these grains become soil.
+Animals hide under rocks and in the cracks between them. Brick and laterite have tiny holes that soak up water, so they stay damp and moss can grow on them. Smooth granite lets the water run off, so it dries fast. Rain, sun and plant roots slowly break rocks into small grains, and the grains mix with bits of dead plants to make soil.
 - e.g. In the diya and stone test, the clay soaked up water and the smooth stone stayed dry on top.
 - e.g. Laterite, a red rock full of holes, is used for walls in Kerala and Goa. In the monsoon, moss grows on these walls.
 - e.g. A peepal seed that lands in a crack in a wall can grow into a small tree.
 ### Does a seed choose when to start growing? · *debated*
-A dry mustard seed can lie in a jar for months and stay just the same. Give the seed water and warmth, and in a day or two a tiny root comes out. Seeds sense water and warmth, and decide when it is time to grow. A seed that starts growing on a dry stone would soon die, so waiting for the right habitat keeps the seed alive. Some scientists describe it another way. They say water starts a chain of changes inside the seed, the way water makes a dry sponge swell, and nothing is chosen.
+A dry mustard seed can stay the same in a jar for months. Give the seed water and warmth, and in a day or two a tiny root comes out. Seeds sense water and warmth, and decide when it is time to grow. A seed that starts on a dry stone would soon die, so waiting keeps the seed alive. Some scientists say it another way: water starts a chain of changes inside the seed, and nothing is chosen.
 - e.g. Mustard seeds in the kitchen jar stay dry and still for months.
 - e.g. On the wet clay diya, mustard seeds sprouted in a day or two.
 - e.g. In the Thar desert, many seeds wait in the dry sand for the monsoon rain.
@@ -89,15 +89,15 @@ A dry mustard seed can lie in a jar for months and stay just the same. Give the 
 ## Roots
 We have looked at habitats near and far, and tested whether a seed can live on a stone. Now we ask what that tells us about rocks, seeds and the places we call home.
 
-**Deep truth.** Our clay diya and smooth stone stood in the same plate of water. Water climbed up through the clay, but not through the stone. Mustard seeds sprouted on the wet clay and dried up on the stone. So a rock becomes a home for a plant only if it can hold water.  
-*Habit it breaks:* We split the world into living things and the bare, non-living places they live on, and we think all rocks are the same hard background. But rocks differ in how much water they hold. Rocks with tiny holes stay damp and become homes. Smooth rocks dry fast and stay bare.  
+**Deep truth.** Our clay diya and smooth stone stood in the same plate of water. Water climbed up through the clay, but not through the stone. Mustard seeds sprouted on the wet clay and dried up on the stone. So a rock is a better home for a plant when the rock can hold water.  
+*Habit it breaks:* We split the world into living beings and the bare, non-living places they live on, and we think all rocks are the same hard background. But rocks differ in how much water they hold. Rocks with tiny holes stay damp and suit moss and seeds. Smooth rocks dry fast, and few plants grow on them.  
 *Evidence:* In the diya and stone test, the water, the seeds, the place and the time were the same for both. Only what the seeds sat on was different, and only the clay's top stayed wet.
 
 - *who am i:* You are an animal who needs water, food and shelter every day, just like a snail or a frog. Your home is your habitat.
 - *what is life:* A seed can wait in a dry jar for months. Life starts again when the seed finds a place that gives water.
 - *what is this world:* The world is made of many habitats side by side. Even the rocks are not all the same: some become homes, and some stay bare.
 
-The same rain falls on a brick wall and on a granite step. On the brick, the water stays, and moss grows. On the granite, the water runs off, and the step stays bare. Over hundreds of years, rain and roots break rock into soil, the soil feeds plants, and the plants feed animals, including us. So one rock can, in time, become a pond's mud, a forest floor or the field our rice grows in. Everything is conscious in its own way, the waiting seed and the rock it lands on too.
+The same rain falls on a brick wall and on a granite step. On the brick, the water stays, and moss grows. On the granite, the water runs off, and the step stays bare. Over hundreds of years, rain and roots break rock into soil, the soil feeds plants, and the plants feed animals, including us. So one rock can, in time, become a pond's mud, a forest floor or the field our rice grows in. Everything is conscious in its own way, the waiting seed and the rock where the seed lands too.
 
 - **Chandogya Upanishad 6.12:** A teacher called Uddalaka asks his son Shvetaketu to break open a banyan fruit, and then one of the tiny seeds inside. Shvetaketu looks inside the seed and sees nothing. Uddalaka says that from this tiny thing that cannot be seen, a great banyan tree grows. (Our mustard seeds looked like dry dots. Given a wet place, each one sent out a root and leaves. A whole plant was waiting inside, for the right habitat.)
 - **Tao Te Ching, chapter 78:** Nothing in the world is softer than water. Yet nothing is better at wearing away what is hard and strong. (Rain is soft, but over hundreds of years it cracks and wears down rock. That is how rock slowly becomes soil, the home of roots and earthworms.)
@@ -106,7 +106,7 @@ The same rain falls on a brick wall and on a granite step. On the brick, the wat
 - Other view, Many scientists: Many scientists say minds belong only to animals with brains. To them, a seed sprouting is a chain of chemical changes started by water, and a rock is simply matter. They agree that habitats matter, but they would not call a seed's waiting a choice.
 - Practice, Hold a Stone (3 min): Pick up a small stone and close your hand round it. Shut your eyes. Breathe slowly three times. Feel the stone get warm from your hand. Now open your hand. Touch the stone with one finger. Is it rough or smooth? Would rain stay on it, or run off? Who might live on a stone like this?
 - Ask: The stone got warm in your hand. Where did the warmth come from?
-- Ask: If rain turns rock into soil, is the soil in a flowerpot very old or very new?
+- Ask: Soil is made from rock that broke very slowly. Is the rock in a flowerpot's soil very old or very new?
 - Ask: A seed waits in a jar for months. Is the seed doing anything while they wait?
 
 ## Deep and big questions
@@ -136,7 +136,7 @@ The next morning, he opened the box. The snail was not moving. She had pulled he
 
 "Lakshmi! Is she dead?" Farhan asked. His voice shook.
 
-Lakshmi held the shell up to the light. "I don't think so," she said. "Feel the box."
+Lakshmi held the shell up to the light. "I think she is still alive," she said. "Feel the box."
 
 Farhan touched the inside of the steel box. It was warm and dry. The biscuit crumb was dry and hard.
 
@@ -150,7 +150,7 @@ Farhan thought. "The wall was wet. It had moss. It was cool, and it was in the s
 
 "Yes," said Lakshmi. "The wall is her habitat. It gives her water, cool shade, and moss and old leaves to eat. Your box gave her a roof and a crumb. But it did not give her what her body needs."
 
-Ammi came into the room with a cup of tea. "Why not take her back to her wall?" she said.
+Farhan's mother, Ammi, came into the room with a cup of tea. "Why not take her back to her wall?" she said.
 
 So they went down together. Lakshmi showed Farhan how to put the snail on a wet leaf at the foot of the wall, in the shade. They sprinkled a little water over the shell from a tumbler. Then they sat on the step and waited.
 
@@ -174,9 +174,9 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 
 ## Games
 ### g1 · Wrong Home Rescue (12 min)
-- **rules:** Lay the 4 habitat mats on the floor.; Mix the 10 rescue cards and put them face down in a pile.; Take turns. Turn over the top card and read the front aloud.; Say what is wrong. Then put the card on the mat where that living being belongs, and say why.; Turn the card over and read the back. If your reason matches, keep the card.; When the pile is empty, count your rescues.
+- **rules:** Lay the 4 habitat mats on the floor.; Mix the 10 rescue cards and put them face down in a pile.; Take turns. Turn over the top card and read the front aloud.; Say what is wrong. Then put the card on the mat where that living being belongs, and say why.; Turn the card over and read the back. If your reason matches, keep the card.; When the pile is empty, count your rescues. The player with the most rescues wins. If you tie, you both win.
 - **Printable board: 4 habitat mats to draw or cut out: pond, forest, desert, seashore:** Pond: still, fresh water, mud at the bottom, plants floating on top.; Forest: many tall trees, shade, damp leaves on the ground.; Desert: hot sand by day, cold nights, very little rain.; Seashore: sand, salty sea water, waves coming in and going out.
-- **Printable cards: 10 rescue cards to cut out:** A fish flapping on desert sand (back: A fish breathes with gills, which work only in water. Rescue: the pond.); A camel standing in a pond (back: A camel lives on dry land. Wide, padded feet help a camel walk on sand. Rescue: the desert.); A lotus planted in dry sand (back: A lotus needs mud under water for the roots, and water for the leaves to float on. Rescue: the pond.); A hornbill on a beach with no trees (back: A hornbill eats forest fruit and nests in a hole in a tall tree. Rescue: the forest.); A crab in the middle of a forest (back: This crab digs a hole in wet sand by the salty sea. Rescue: the seashore.); A cactus in a pond (back: A cactus stores water in a thick stem, and the roots rot if they stay wet. Rescue: the desert.); A frog in the hot desert sand (back: A frog's skin must stay damp, and frog eggs need water. Rescue: the pond.); A lion-tailed macaque in the desert (back: This monkey lives high in the trees of the Western Ghats and eats forest fruit. Rescue: the forest.); A coconut palm in a thick, dark forest (back: A coconut palm needs bright sun and grows well in sandy soil near the sea. Rescue: the seashore.); Moss on a hot, dry desert rock (back: Moss drinks water through their leaves, so they need a damp place. Rescue: the forest, on a wet stone.)
+- **Printable cards: 10 rescue cards to cut out:** A fish flapping on desert sand (back: A fish breathes with gills, which work only in water. Rescue: the pond.); A camel standing in a pond (back: A camel lives on dry land. Wide, padded feet help a camel walk on sand. Rescue: the desert.); A lotus planted in dry sand (back: A lotus needs mud under water for the roots, and water for the leaves to float on. Rescue: the pond.); A hornbill on a beach with no trees (back: A hornbill eats forest fruit and nests in a hole in a tall tree. Rescue: the forest.); A ghost crab in the middle of a forest (back: A ghost crab digs a hole in wet sand by the salty sea. Rescue: the seashore.); A cactus in a pond (back: A cactus stores water in a thick stem, and the roots rot if they stay wet. Rescue: the desert.); A frog in the hot desert sand (back: A frog's skin must stay damp, and frog eggs need water. Rescue: the pond.); A lion-tailed macaque in the desert (back: This monkey lives high in the trees of the Western Ghats and eats forest fruit. Rescue: the forest.); A coconut palm in a thick, dark forest (back: A coconut palm needs bright sun and grows well in sandy soil near the sea. Rescue: the seashore.); Moss on a hot, dry desert rock (back: Moss drinks water through their leaves, so they need a damp place. Rescue: the forest, on a wet stone.)
 - **s1 (3 min)**  
   *Parent does:* 1. Draw the 4 mats on paper, or cut them out. 2. Cut out the 10 cards. 3. Read the 4 mats aloud together.  
   *Parent says:* Each of these mats is a habitat. Each card shows someone in the wrong home. Your job is to rescue them.  
@@ -192,14 +192,14 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   *Parent does:* Count the rescues. Look at all four mats with their cards.  
   *Parent says:* Look at the desert mat. Who lives there now? What does the desert give them?  
   *Child mode:* Count your rescues. Who lives in the desert now?
-  - Check: A frog is in the hot desert sand. Where should the frog go? → **A pond**
+  - Check: Which mat has hot sand by day, cold nights and very little rain? → **Desert**
 ### g2 · Guess My Habitat: a yes-or-no game (10 min)
-- **rules:** One player picks a card and keeps it hidden.; The others ask yes-or-no questions about the habitat only. For example: Is it wet? Is it hot? Are there trees?; The player with the card answers only yes or no.; When you think you know, say the animal's name.; If you guess right, you pick the next card.; Try to guess in 6 questions or fewer.
+- **rules:** One player picks a card and keeps it hidden. Look at the back of the card, so that you answer truthfully.; The others ask yes-or-no questions about where the animal lives. For example: Is it wet? Is it hot? Are there trees?; You may ask one question about the animal's body, such as: Does the animal have fur? Does the animal have a shell?; The player with the card answers only yes or no.; When you think you know, say the animal's name. You may guess once.; If you guess right, you pick the next card. If not, the player with the card shows the card.; Play until everyone has picked a card once. Try to guess in 6 questions or fewer.
 - **Printable cards: 8 animal cards to cut out:** Camel (back: Habitat: the desert. Hot and dry, with sand and thorny plants.); Frog (back: Habitat: a pond. Wet, with mud, water plants and insects to eat.); Hornbill (back: Habitat: a forest. Tall trees with fruit, and holes in trunks for nests.); Ghost crab (back: Habitat: the seashore. Wet sand, salty water and waves.); Rock agama lizard (back: Habitat: rocky hills. Warm rocks to lie on and cracks to hide in.); Fish (back: Habitat: a pond, a river or the sea. Always in water.); Snail (back: Habitat: damp places, like wet walls, shady plants and old leaves.); Squirrel (back: Habitat: trees, in towns and forests. High branches for a safe nest.)
 - **s1 (2 min)**  
-  *Parent does:* Cut out the 8 cards. Read each one aloud once. Then the grown-up picks a card first, to show how to play.  
-  *Parent says:* I have picked an animal. You can ask me only about the habitat. Is it wet? Is it hot? Are there trees? Then guess.  
-  *Child mode:* A grown-up has picked an animal. Ask about the habitat. Then guess.
+  *Parent does:* Cut out the 8 cards. Read each one aloud once. Then the grown-up picks a card first, looks at the back and answers the questions, to show how to play.  
+  *Parent says:* I have picked an animal. Ask me about where it lives. Is it wet? Is it hot? Are there trees? Then guess.  
+  *Child mode:* A grown-up has picked an animal. Ask where it lives. Then guess.
 - **s2 (6 min)**  
   *Parent does:* Take turns picking and guessing. Count the questions on your fingers.  
   *Parent says:* Good question. Yes, it is wet. What else do you need to know?  
@@ -228,15 +228,15 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   - Ask: What happened to the water on the clay? And on the stone? (good: The clay drank it up and went dark.; The water sat on the stone, or ran off.)
   - Note: Unpainted clay soaks up water at once and turns dark. On a smooth stone the drop sits in a bead or runs down the side. If your diya is painted or shiny, use a piece of broken clay pot or brick instead.
 - **s2 (3 min)**  
-  *Parent does:* 1. Stand the diya, upside down, and the stone side by side in the plate. 2. Pour water into the plate until it is one finger deep.  
+  *Parent does:* 1. Stand the diya, upside down, and the stone side by side in the plate. 2. Pour water into the plate until it is one finger deep. 3. Put 20 seeds in the small bowl with a spoon of water, to soak while you wait.  
   *Parent says:* Seeds will sit on top of each one. On which top will they sprout? Why do you think so?  
   *Child mode:* Seeds will sit on top. Where will they sprout? Why do you think so?
   - Ask: Where do you think the seeds will sprout? Why? (good: On the diya, because the clay drinks water.; On both, because both are in water.; On neither, because there is no soil.)
   - Note: Write down your child's guess and their reason. Any guess is fine. The test will answer it.
   - Wait: Leave them for 15 minutes.
 - **s3 (8 min)**  
-  *Parent does:* 1. Look at the diya's colour. 2. Touch the top of the diya, then the top of the stone. 3. Soak 20 seeds in a spoon of water. 4. Put 10 on each top.  
-  *Parent says:* Look at the clay. The dark colour has climbed up. Touch both tops. Which one is wet? Now let's put 10 seeds on each.  
+  *Parent does:* 1. Look at the diya's colour. 2. Touch the top of the diya, then the top of the stone. 3. Put 10 soaked seeds on each top.  
+  *Parent says:* Look at the clay. The dark colour has climbed up. Touch both tops. Which one is wet? Now let's put 10 soaked seeds on each.  
   *Child mode:* Look at the clay. Touch both tops. Which is wet? Put 10 seeds on each.
   - Ask: How did the water get to the top of the diya? (good: The clay pulled it up.; It climbed up through the clay.; The clay has tiny holes that soak it up.)
   - Note: The water climbs through tiny holes in the clay, the way water climbs up a cloth dipped in a bucket. The stone's top stays dry. Put the plate in a bright place, but not in hot afternoon sun.
@@ -246,13 +246,13 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   *Parent says:* Let's count. How many seeds on the clay have sprouted? How many on the stone?  
   *Child mode:* Count the sprouted seeds on each top. Write the numbers.
   - Ask: What do the seeds on the stone look like? (good: Dry and hard.; The same as before.; They did not grow.)
-  - Note: Usually most seeds on the clay sprout in one or two days, and the seeds on the stone dry out and do not sprout. In very damp monsoon weather, a few stone seeds may sprout. Then compare how many and how fast. If no seeds sprout anywhere in three days, the seeds may be old: try methi seeds or a new packet.
+  - Note: Usually most seeds on the clay sprout in one or two days, and the seeds on the stone dry out and do not sprout. In very damp monsoon weather, a few stone seeds may sprout. Then compare how many and how fast. If no seeds sprout anywhere in three days, the seeds may be old: try methi seeds or a new packet. If the diya's top looks dry by day 2, the room is very hot or windy, so move the plate to a shadier spot.
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say three things: what they think, what they saw, and why. Then look back at their guess together.  
   *Parent says:* Tell me what you found. What did you see? Why do you think the seeds grew on one and not the other? Was your guess right?  
   *Child mode:* Say what you found. What did you see? Why did it happen?
   - Check: Why did the seeds sprout on the clay diya, and not on the smooth stone? → **The clay soaked up water and kept the seeds wet**
-  - Think: Moss grows on old brick walls, but not on shiny granite steps. Can you say why now?
+  - Think: Where near your home might moss grow? Look for a damp, shady wall.
 
 ## Activities
 ### a1 · Plant Homes in Our Flat (15 min)
@@ -272,18 +272,18 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   *Parent does:* Walk through the flat and touch things made of rock. Count them together.  
   *Parent says:* Rock is all around us. Let's find things made of rock. The kitchen counter? The floor? The grinding stone?  
   *Child mode:* Find things made of rock in your home. Count them.
-  - Note: Things made of rock: a granite counter, a marble, Kota or granite floor, an ammikal, sil-batta or ammi grinding stone, pebbles in a plant pot, and the sand in cement walls. Bricks and clay pots are made from clay, which is rock broken very small.
+  - Note: Things made of rock: a granite counter, a marble, Kota stone or granite floor, a grinding stone (ammikal, sil-batta or ammi), pebbles in a plant pot, and the sand in cement walls. Bricks and clay pots are made from clay, which is rock broken very small.
 - **s2 (5 min)**  
   *Parent does:* Hold the two stones over the dark paper. Rub them hard together for one minute. Look at what falls.  
   *Parent says:* Rub the stones hard for one minute. What falls on the paper? Now look at a pinch of soil next to it.  
   *Child mode:* Rub two stones hard for one minute. What falls on the paper?
   - Ask: How is the rock dust like the soil? How is it different? (good: Both are tiny bits.; The soil is darker.; The soil has bits of old leaves in it.)
-  - Note: A little fine grey or brown dust falls. Soil is made of rock grains like this, mixed with bits of dead plants. In nature, rain, sun and roots do this rubbing and breaking for hundreds of years.
+  - Note: Bricks give the most dust, and hard stones give only a pinch. Tell your child not to blow the dust and to wash their hands after. A little fine grey or brown dust falls. Soil is made of rock grains like this, mixed with bits of dead plants. In nature, rain, sun and roots do this rubbing and breaking for hundreds of years.
 - **s3 (3 min)**  
-  *Parent does:* Ask your child how long it would take to make a whole pot of soil this way.  
+  *Parent does:* Look again at the dust and the soil. Ask your child how long it would take to make a whole pot of soil this way.  
   *Parent says:* Rain and sun break rocks much more slowly than your hands. How long might a whole field of soil take to make?  
   *Child mode:* How long would a whole pot of soil take to make?
-  - Check: What is soil mostly made of? → **Tiny bits of rock mixed with bits of dead plants**
+  - Check: What fell on the paper when you rubbed the two stones? → **Tiny bits of rock, like dust**
 ### a3 · Who Shares Our Flat? (15 min)
 - **s1 (8 min)**  
   *Parent does:* Look slowly round the kitchen, the corners, the window ledges and the balcony. Look, but don't touch.  
@@ -326,7 +326,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 ### c1 · A Shoebox Home for a Frog (25 min)
 - **problem:** A frog has lost her pond. Design and build a model habitat for her in a shoebox. It must give her everything a frog needs.
 - **your turn:** What else does a frog need that your model does not show yet? Add it, or draw it.
-- **constraints:** Use only things from home: a shoebox, paper, a steel bowl or lid, leaves, stones, clay or atta dough.; The model must show water, shelter, food and shade.; You have 20 minutes to build.
+- **constraints:** Use only things from home: a shoebox, paper, a steel bowl or lid, leaves, stones, clay or atta dough.; The model must show water, shelter, food and shade.; You have 15 minutes to build.
 - **general:** A pond: a bowl of water with stones round the edge.; Shade from leaves, so the frog's skin stays damp.; Insects to eat, made from dough.; A stone with a gap under it, for hiding.
 - **creative:** A slope of stones, so the frog can climb in and out of the water.; A wet cloth on the floor of the box, to keep it damp.; A water plant, like a money plant cutting, floating in the bowl.
 - **s1 (5 min)**  
@@ -361,8 +361,8 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
    **Answer:** 6. *Why:* 3 fish, 2 frogs and 1 lotus make 6 living beings. The stone and the bottle are not alive. The lotus is a plant, and plants are living beings.
 7. (label) Write or draw one plant and one animal who live in each habitat.  
    **Answer:** ['pond: lotus, frog or fish', 'desert: cactus, khejri, camel or desert fox', 'forest: tall trees, ferns, monkey or hornbill']. *Why:* Any plant or animal who really lives there is right. A strong answer says what the habitat gives them.
-8. (write) Say it to a grown-up, who writes it down: why can a fish not live in the desert?  
-   **Answer:** A fish breathes with gills, which work only in water. The desert is dry, so the fish could not breathe.. *Why:* A strong answer links what the fish needs (water to breathe) to what the desert lacks (water).
+8. (write) Say it to a grown-up, who writes it down: why does a camel do well in the desert but not in the sea?  
+   **Answer:** A camel lives on dry land. Wide, padded feet help a camel walk on sand, and the sea is deep and salty. A camel cannot drink salty water.. *Why:* A strong answer links what the camel needs (dry land, fresh water) to what the sea lacks.
 9. (perspective) Two friends in Madurai find a snail on a wet wall.  
    **Answer:** A strong answer picks a side with a reason, for example: 'Revathi, because the wet wall gives the snail water and food.' Then it is fair to the other side: Divya wants to care for the snail, and looking closely teaches us a lot.. *Why:* Both friends care. A snail can be watched for a short time in a damp box with leaves, and then put back. A dry box away from her wall would harm her.
 10. (odd) Which is the odd one out? Think about where each one lives.  
@@ -380,7 +380,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
    **Answer:** For example: moss on top, a lizard in a crack and ants underneath.. *Why:* A strong drawing puts each living being in a place on the rock that suits them: moss where it is damp, a lizard on the warm top or in a crack, ants underneath.
 5. (order) Put these in order, from first to last, to show how rock becomes soil.  
    **Answer:** ['A big rock cracks in the sun and rain', 'The cracks break off small stones', 'The stones wear down into tiny grains', 'The grains mix with dead leaves and become soil']. *Why:* Rock breaks slowly into smaller and smaller pieces. The tiny grains mix with bits of dead plants to make soil. This takes a very long time.
-6. (perspective) A family in Pune is building a new flat. There is an old pond on the land.  
+6. (perspective) A builder in Pune is making a new block of flats on land that has an old pond.  
    **Answer:** A strong answer picks one idea and gives a reason, then thinks about the frogs, the fish and the people who need homes.. *Why:* People need homes, and so do frogs and fish. There is no single right answer. A good answer is fair to both.
 7. (truefalse) A crab from the seashore would do well in a forest pond.  
    **Answer:** False. *Why:* False. A ghost crab lives on salty seashore sand and digs holes there. A forest pond has fresh water and no beach sand.
@@ -413,15 +413,15 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 5. (mcq) Why can a fish not live on land?  
    Options: A fish breathes with gills, which work only in water / A fish is too big / A fish does not like the sun  
    **Answer:** A fish breathes with gills, which work only in water. *Why:* Gills take oxygen from water. Out of water, a fish cannot breathe.
-6. (mcq) Why does moss grow on old brick walls more than on smooth granite?  
-   Options: Brick holds water and stays damp / Granite is too cold / Moss does not like the colour grey  
-   **Answer:** Brick holds water and stays damp. *Why:* Moss needs a damp place. Brick soaks up water and stays damp, but smooth granite dries fast.
+6. (mcq) A lizard slips into a crack between two rocks when a bird flies over. What does the rock give the lizard?  
+   Options: Shelter / Salty water / Fruit  
+   **Answer:** Shelter. *Why:* A crack in a rock is a shelter. Rocks give shelter, some hold water, and over a very long time they crumble into soil.
 7. (mcq) What is soil made from?  
    Options: Tiny bits of rock and bits of dead plants / Only sand / Only water  
    **Answer:** Tiny bits of rock and bits of dead plants. *Why:* Over a long time, rocks crumble into tiny grains. These mix with bits of dead plants and animals to make soil.
-8. (mcq) In the diya and stone test, what made the top of the diya wet?  
-   Options: Water climbed up through the tiny holes in the clay / Someone poured water on top / The seeds made the water  
-   **Answer:** Water climbed up through the tiny holes in the clay. *Why:* The diya stood in the plate of water, and the water climbed up through its tiny holes. The smooth stone has almost no holes, so the stone's top stayed dry.
+8. (mcq) Nila, a girl in Class 2, says before the test: "The seeds will sprout on both the diya and the stone." What is Nila doing?  
+   Options: Making a guess to test / Counting the seeds / Cleaning the plate  
+   **Answer:** Making a guess to test. *Why:* A guess you make before a test is called a prediction. The test then shows whether the guess was right.
 9. (mcq) In the diya and stone test, both stood in the same water. Why is that important?  
    Options: So that only what the seeds sat on was different / So that the plate looked nice / So that the seeds could swim  
    **Answer:** So that only what the seeds sat on was different. *Why:* If only one thing is different, we know that thing made the difference. That is a fair test.
@@ -444,8 +444,8 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 
 ## Open questions
 - **How many kinds of living beings live in the cracks of one old wall?** Many of the tiniest beings in moss and cracks have never been counted or named, so nobody knows.
-- **Exactly how long does it take to make one finger-width of new soil?** It depends on the rock, the rain, the warmth and the plants. Scientists give different answers for different places, from many years to hundreds of years.
-- **How does a seed sense that it is the right time to grow?** Scientists know that water, warmth and sometimes light matter. How a seed puts these together and decides is still being studied.
+- **Exactly how long does it take to make one finger-width of new soil?** It depends on the rock, the rain, the warmth and the plants. Scientists give different answers for different places, from hundreds of years to much longer.
+- **How does a seed sense that the time is right to grow?** Scientists know that water, warmth and sometimes light matter. How a seed puts these together and decides is still being studied.
 
 ## Questions to ask kids
 - Which place in our flat stays damp the longest? Who might live there?
@@ -457,13 +457,12 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 ## Jokes
 - Why did the snail carry a house on her back? *Because she never knew when she would need a roof!*
 - What did the moss say to the brick wall? *I'm stuck on you, because you are so nice and damp!*
-- Why did the fish not go on the desert trip? *Because there was no water bus!*
-- What is a camel's favourite day of the week? *Sun-day, of course!*
+- Why did the camel not mind the long desert walk? *Because she carried her lunch on her back!*
 - Why did the crab never share his sand? *Because he was a little shellfish!*
-- Why did the seed not sprout on the shiny stone? *The stone was too dry to help!*
 - What did the frog say about the dry desert? *It's un-hop-itable!*
 - What kind of music do rocks like? *Rock music!*
-- Why did the lizard sit on the warm rock? *To charge up for the day!*
+- Why did the lizard sit on the warm rock? *To warm up before breakfast!*
+- Why are frogs always so happy? *Because they eat whatever bugs them!*
 
 ## Connected maths
 - In the diya and stone test, Selvi put 10 seeds on the diya. On day 3, 8 had sprouted. How many did not sprout? **2 seeds did not sprout.**. 10 seeds take away the 8 that sprouted leaves 2. 10 - 8 = 2. (queues `math.addition-subtraction.meaning.L2`)
@@ -483,11 +482,11 @@ Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2
 ## Things to buy
 
 ## Warm-up
-- What is a habitat? → The place where a living being lives and finds what they need.
+- Name something a living being needs from their home. → Water, food, air, shelter or the right warmth.
 - Name one animal who lives in the desert. → A camel, a desert fox, a chinkara or a lizard.
-- Where does a lotus grow? → In a pond, with roots in the mud.
-- Which holds water better: clay or smooth granite? → Clay. It has tiny holes that soak up water.
-- What is soil made from? → Tiny bits of rock mixed with bits of dead plants and animals.
+- Which animal lives on the seashore: a ghost crab or a hornbill? → The ghost crab.
+- Where does moss grow? → In damp places, such as walls, stones and tree bark.
+- Name something in your home that is made of rock. → A granite counter, a marble or Kota stone floor, or a grinding stone.
 - Why did the snail close her shell in the dry box? → To keep the water in her body.
 
 ## Plan

@@ -27,31 +27,31 @@
 ### Flat shapes and solid shapes · *defined*
 **Definition:** A flat (2D) shape has two dimensions: length and width. A solid (3D) shape has three dimensions: length, width and height.
 
-In the hunt, you found things that look flat, like a sheet of paper or a chapati, and things that are clearly solid, like a ball. A circle drawn on paper is a flat shape. It goes along the paper and across it, but not up off it. A steel tumbler goes up too, so it is a solid. Solids take up space. You can put a solid in your hand, but you can only draw a flat shape.
+In the hunt, you found things that look flat, like paper or a chapati, and things that are clearly solid, like a ball. A circle drawn on paper goes along the paper and across it, but not up. A steel tumbler goes up too, so it is a solid. You can hold a solid in your hand, but you can only draw a flat shape.
 - e.g. A square drawn on a slate is a flat shape
 - e.g. A dice is a solid shape
 - e.g. A kolam on the floor is made of flat shapes
 ### Faces and edges of solids · *defined*
 **Definition:** A face is a flat side of a solid. An edge is where two faces meet.
 
-Many solids have flat faces. A dice has 6 square faces. A matchbox has 6 faces too, but they are rectangles. A steel tumbler has one flat round face at the bottom, and a curved side. A ball has no flat face and no edge at all, which is why it rolls every way. When you opened a box out flat, all its faces lay side by side on the floor.
+Many solids have flat faces. A dice has 6 square faces, and a matchbox has 6 rectangle faces. A steel tumbler has one flat round face at the bottom, and a curved side. A ball has no flat face and no edge, so it rolls every way.
 - e.g. A dice: 6 square faces
 - e.g. A matchbox: 6 rectangle faces
 - e.g. A ball: no flat faces at all
 ### Inside every solid are flat slices · *defined*
 **Definition:** When you cut straight through a solid, the cut side is a flat shape. Which flat shape you get depends on the solid, and on where and how you cut.
 
-In the slice and trace test, the cucumber gave circles that were nearly all the same size. The carrot gave circles that got smaller towards the tip. The round potato gave small circles near the top and bottom, and the biggest in the middle. When you cut a corner off the potato cube, you got a triangle. Then you stacked the potato slices back up, and they made the potato again. A solid is like a pile of flat slices, one on top of the next, in the up direction.
+In the slice and trace test, the cucumber gave circles of nearly the same size. The carrot gave circles that got smaller towards the tip. The round potato gave small circles near the ends and the biggest in the middle. A corner cut off the potato cube gave a triangle. Stacked back up, the potato slices made the potato again.
 - e.g. A cucumber slice: a circle
 - e.g. The middle slice of a round potato: the biggest circle
 - e.g. A corner cut off a cube: a triangle
 ### A flat creature's world · *idea*
-Imagine Pulli, a flat girl who lives on a sheet of paper. She can move forward, back, left and right, but there is no up for her. A circle drawn round her is a wall she cannot get past, because stepping over means going up. When she looks at a coin lying on her paper, she sees only its edge, as a line. To tell a circle from a square, she must walk round it. A circle looks the same width from every side, but a square looks wider from a corner. If a ball passed down through her world, she would see a dot, then a growing circle, then a shrinking one, then nothing. Nobody has ever met a real flat creature. Scientists and writers use her as a way of thinking.
+Imagine Pulli, a flat girl who lives on a sheet of paper. She can move forward, back, left and right, but there is no up for her. A pencil circle round her is a wall, because stepping over means going up. A ball passing down through her world would look like a dot, then a growing circle, then a shrinking one. Nobody has met a real flat creature. Scientists and writers use her to think with.
 - e.g. A circle round Pulli locks her in
 - e.g. A coin on her paper looks like a line
 - e.g. A ball passing through looks like a circle that grows and shrinks
 ### Is anything really flat? · *debated*
-A sheet of paper looks flat, but it has a tiny height. Stack 100 sheets and the pile is about 1 centimetre tall. A chapati and a dosa are thin solids too. The thinnest material ever made is called graphene. It is a sheet of carbon only one atom thick. Even one atom has a tiny height. So people disagree about whether anything real is truly 2D.
+A sheet of paper looks flat, but it has a tiny height. Stack 100 sheets and the pile is about 1 centimetre tall. A chapati and a dosa are thin solids too. Graphene is a sheet of carbon one atom thick, one of the thinnest materials made. Even one atom has some height, so people argue about whether anything real is truly 2D.
 - e.g. A sheet of paper: a very thin solid
 - e.g. A pile of 100 sheets: about 1 centimetre tall
 - e.g. Graphene: a sheet one atom thick
@@ -197,7 +197,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   *Child mode:* Which match was hardest? Why?
   - Check: In the matching card game, how can a ladoo make a circle? → **A slice cut across it is a circle**
 ### g2 · Feely Bag: name the solid by touch (15 min)
-- **rules:** A grown-up puts 5 solid things into a cloth bag or a pillow cover: for example, a small ball, a dice, a matchbox, a steel tumbler and a lemon.; On your turn, put one hand in the bag. Don't look.; Feel one thing. Say its solid shape name: sphere, cube, cuboid, cylinder or cone.; Say how many flat faces it has. Then pull it out to check.; You get 1 point for the right shape name, and 1 point for the right number of flat faces.; Write your points on the score sheet. The most points after 3 rounds wins.
+- **rules:** A grown-up puts 5 solid things into a cloth bag or a pillow cover: for example, a small ball, a dice, a matchbox, a closed round tin and an orange.; On your turn, put one hand in the bag. Don't look.; Feel one thing. Say its solid shape name: sphere, cube, cuboid, cylinder or cone.; Say how many flat faces it has. Then pull it out to check.; You get 1 point for the right shape name, and 1 point for the right number of flat faces.; Write your points on the score sheet. The most points after 3 rounds wins.
 - **Printable score sheet: Feely bag score sheet:** Player's name; What I felt; Solid shape name; How many flat faces; Right? (tick)
 - **s1 (2 min)**  
   *Parent does:* 1. Put 5 solids in the bag while the players are not looking. 2. Read the rules aloud.  
@@ -216,38 +216,38 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   - Check: In the feely bag game, you feel a thing with no flat faces and no edges at all. What solid is it? → **A sphere**
 
 ## Experiments
-### e1 · Slice and Trace: what flat shapes are hidden inside a solid? (27 min)
+### e1 · Slice and Trace: what flat shapes are hidden inside a solid? (20 min)
 - **question:** When you cut a solid straight through, what flat shape do you see? Is it the same shape and size wherever you cut?
 - **predict:** If we cut the cucumber, the carrot and the round potato straight across, what shape will each cut side be? Will all the slices be the same size? Why do you think so?
 - **fair test:** The grown-up cuts straight down every time, with the knife upright, because a slanting cut changes the shape. We trace every cut side the same way: press it on the paper and draw round it. Only the solid, and the place where we cut, change.
 - **safety:** Only the grown-up uses the knife. The child keeps both hands on the paper while the grown-up cuts.
 - **record:** The traced shapes, in rows: cucumber, carrot, potato and the cube corner. Under each row, write 'same size', 'smaller and smaller' or 'small, big, small'.
 - **results table:** Solid | Where we cut | Shape of the cut side | Small, middle-sized or big?
-- **s1 (4 min)**  
+- **s1 (3 min)**  
   *Parent does:* 1. Put the cucumber, the carrot and one round potato on the board. 2. Ask the questions below. 3. Write your child's guesses at the top of the paper. Don't say who is right.  
   *Parent says:* If I cut each of these straight across, what shape will the cut side be? Will every slice be the same size? Why do you think so?  
   *Child mode:* Look at the three vegetables. What shape will the cut side be? Will every slice be the same size? Why?
   - Ask: What shape will the cut side be, and will all the slices be the same size? Why? (good: A circle, because they are round.; The same size, because it's the same vegetable.; Smaller at the ends, because the ends are thin.)
   - Note: Most children guess a circle for all three. Many guess that every slice will be the same size. Any guess with a reason is a good start.
-- **s2 (5 min) · grown-up needed**  
+- **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut the cucumber straight across in three places. 2. Cut one hand-width from each end, and one in the middle. 3. Your child presses each cut side on the paper and draws round it. 4. Write 'cucumber' under the three shapes.  
   *Parent says:* Press the cut side down on the paper and draw round it. Now the next one. Are they the same shape? Are they the same size?  
   *Child mode:* Press the slice on the paper. Draw round it. Is the next one the same size?
   - Ask: Are the three cucumber circles the same size? (good: Almost the same.; Yes, nearly.)
   - Note: A cucumber is nearly a cylinder, so the circles come out nearly the same size. Keep the cuts away from the very ends, where the cucumber gets thinner.
-- **s3 (5 min) · grown-up needed**  
+- **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. Cut the carrot straight across at three places: near the thick top, in the middle, and near the thin tip. 2. Your child traces each cut side in a new row, in the same order. 3. Write 'carrot' under the row.  
   *Parent says:* Now the carrot. Trace the thick end first, then the middle, then near the tip. What happens to the circles?  
   *Child mode:* Trace the carrot slices, thick end first. What happens to the circles?
   - Ask: What happened to the carrot circles? (good: They got smaller.; Smaller and smaller towards the tip.)
   - Note: A carrot is shaped like a long cone, so its circles get smaller towards the tip.
-- **s4 (6 min) · grown-up needed**  
+- **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut the round potato straight across into 5 slices, from top to bottom. 2. Lay them on the plate in order. 3. Your child traces them in a new row, in the same order. 4. Then your child stacks the slices back up.  
   *Parent says:* Trace the slices in order, from the top of the potato to the bottom. Which circle is the biggest? Now stack the slices back up. What do you get?  
   *Child mode:* Trace the potato slices in order. Which is biggest? Now stack them back up.
   - Ask: Which potato slice was the biggest, and what did the stacked slices make? (good: The middle one.; The potato again.)
   - Note: The top and bottom slices are small, and the middle slice is the biggest. A potato is not a perfect ball, so the shapes may be ovals more than circles. That is fine.
-- **s5 (5 min) · grown-up needed**  
+- **s5 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut the second potato into a rough cube by cutting off a slice from each of its 6 sides. 2. Ask your child to guess the shape if you cut off one corner. 3. Cut one corner off, about 1 centimetre in from the tip. 4. Your child traces the cut side.  
   *Parent says:* This potato is now a cube, with square faces. If I cut off one corner, what shape will the cut side be? Why?  
   *Child mode:* This potato is now a cube. Cut off a corner. What shape will it be?
@@ -363,7 +363,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **problem:** Use one sheet of paper to hold a steel plate at least 5 centimetres above the table.
 - **your turn:** Find your own way to make the flat sheet hold up the plate. Then try to hold up a book.
 - **constraints:** Use only one sheet of paper, about the size of a notebook page.; You may use 2 short pieces of sticky tape.; The plate must stay up for 10 seconds.
-- **general:** Roll the paper into a tube and stand it on its end.; Fold the paper into a triangle tube and stand it up.
+- **general:** Roll the paper into a wide, short tube, with the long side going round, and stand it on its end.; Fold the paper into a triangle tube and stand it up.
 - **creative:** Cut the sheet into three strips and roll three short tubes, to make three legs.; Fold the paper back and forth like a fan, and stand it in a ring.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand the flat sheet up on its edge and let it flop. 2. Explain the challenge.  
@@ -374,7 +374,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   *Parent does:* 1. Your child tries ways to fold or roll the sheet. 2. Test each one with the plate. 3. Measure the height with the ruler.  
   *Parent says:* Try it. Does it hold the plate? How high is the plate now?  
   *Child mode:* Try it. Does it hold the plate? How high?
-  - Note: A rolled tube about 3 centimetres wide usually holds a small steel plate easily. If the plate tips, tape the tube to keep it from unrolling.
+  - Note: A tube rolled from a notebook page, about 6 centimetres wide, usually holds a small steel plate easily. If the plate tips, tape the tube to keep it from unrolling.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask the questions below.  
   *Parent says:* The flat sheet flopped. What changed when you rolled it?  
@@ -502,14 +502,14 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 
 ## Spotted around us
 - A kolam or rangoli at a doorway in Chennai, Pune or Kolkata is made of flat shapes: dots, lines, circles and triangles.
-- Gas cylinders delivered in Kochi or Lucknow are cylinders. Their top and bottom are flat circles, and their side is curved.
+- A round biscuit tin in Kochi or Lucknow is a cylinder. Its top and bottom are flat circles, and its side is curved.
 - On a carrom board, the board is a flat square and every coin is a very short cylinder.
 - A cut onion in a kitchen in Hyderabad or Guwahati shows rings: flat circles inside circles.
 - A temple gopuram in Madurai or Thanjavur is a solid built in layers, each layer a little smaller than the one below.
 
 ## Open questions
 - **Are there more than three directions in space?** Some physicists think there could be extra directions, curled up too small to notice. Nobody has found any in an experiment. Many scientists think there are just three.
-- **Can anything real be truly flat, with no height at all?** Even graphene, the thinnest material ever made, is one atom thick. People still argue about whether anything real is truly 2D, or whether flat shapes are only ideas.
+- **Can anything real be truly flat, with no height at all?** Even graphene, one of the thinnest materials made, is one atom thick. People still argue about whether anything real is truly 2D, or whether flat shapes are only ideas.
 - **What would it be like to live in a flat world?** Nobody has met a flat creature. Writers and scientists imagine it to understand our own three directions better. How a flat body could eat, see or build is still a puzzle people enjoy.
 
 ## Questions to ask kids

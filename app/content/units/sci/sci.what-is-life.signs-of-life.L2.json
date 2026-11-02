@@ -29,7 +29,7 @@
   },
   {
    "term": "Breathe",
-   "meaning": "Breathing is how a living being uses air to get energy from food. Every living being breathes, even plants and tiny beings too small to see.",
+   "meaning": "Breathing is how a living being uses air to get energy from food. Every living being breathes, even plants and many tiny beings too small to see.",
    "example": "You breathe through your nose. A plant breathes through tiny holes in their leaves, stem and roots.",
    "art": "A child breathing out on one side, and a leaf with tiny holes drawn large on the other."
   },
@@ -42,7 +42,7 @@
   {
    "term": "Sense",
    "meaning": "To sense is to notice what is around you, such as light, touch, sound, smell, heat or water.",
-   "example": "A cat senses a sound and turns her ears. A potato shoot senses light and grows towards it.",
+   "example": "A cat senses a sound and turns her ears. A potato shoot senses where the light is and grows that way.",
    "art": "A cat with ears turned towards a bell, and a potato with a pale shoot reaching towards a crack of light."
   },
   {
@@ -103,7 +103,7 @@
    "concept": "Tricky cases: one sign is not enough",
    "status": "defined",
    "context": "This card is about things that seem alive but are not, and things that seem not alive but are.",
-   "definition": "A thing is alive only if their kind can do all seven signs of life, by themselves.",
+   "definition": "A living being does all seven signs of life, in their own way. Something that cannot do them, like a car or a cloud, is not alive.",
    "description": "A toy car moves, but a car never eats, grows or has young. A cloud grows and moves, but a cloud never eats or breathes. A phone senses your touch, but a phone never grows. A dry moong seed seems to do nothing, but the seed is alive and resting. Give the seed water, and they wake up and grow.",
    "examples": [
     "A ceiling fan moves, but was never alive.",
@@ -125,13 +125,13 @@
     "Idli batter rises overnight because of tiny living beings too."
    ],
    "perspectives": [],
-   "art": "A katori of curd with a small circle zooming in to show tiny rod-shaped bacteria."
+   "art": "A katori of curd with a small circle zooming in to show tiny bacteria."
   },
   {
    "concept": "Do plants make choices?",
    "status": "debated",
    "context": "This card is about whether plants feel and decide, or only react.",
-   "description": "Plants sense light, touch, water and warmth, and they act on what they sense. A potato shoot chooses the way to the light. A karela tendril chooses a string to hold. Plants feel, remember and decide, in their own way. Some scientists say these actions are automatic, because plants have no brain.",
+   "description": "Plants sense light, touch, water and warmth, and they act on what they sense. A potato shoot chooses the way to the light. A karela tendril chooses a string to hold. Plants feel, remember and decide, in their own way. Other scientists call these actions automatic.",
    "examples": [
     "A potato shoot in a box grows round corners to reach a hole of light.",
     "A karela tendril that touches nothing stays straight. A tendril that touches a string coils round it.",
@@ -157,11 +157,11 @@
   },
   {
    "text": "Every kind of living being does all seven signs of life.",
-   "evidence": "Scientists have studied millions of kinds of living beings, from bacteria to whales and banyan trees. Every kind eats, breathes, grows, moves, senses, gets rid of waste and has young."
+   "evidence": "Scientists have studied many kinds of living beings, from bacteria to whales and banyan trees. Every kind eats, breathes, grows, moves, senses, gets rid of waste and has young."
   },
   {
    "text": "Curd is set by living bacteria.",
-   "evidence": "Boiled milk with no curd added stays milk. Boiled milk with a spoon of curd sets. Under a microscope, curd is full of tiny rod-shaped bacteria."
+   "evidence": "Boiled milk with no curd added stays milk. Boiled milk with a spoon of curd sets. Under a microscope, curd is full of tiny bacteria."
   }
  ],
  "challenging": [
@@ -193,7 +193,7 @@
    "claim": "Plants feel and choose, just as animals do.",
    "who": "Some plant scientists, and many traditions in India",
    "for": "Plants sense light, touch, water and sound, remember what happened before, and change what they do.",
-   "against": "Plants have no brain or nerves. Many scientists say plants react automatically, and do not feel the way animals do.",
+   "against": "Other scientists call these actions automatic. They point out that plants have no brain or nerves, so they do not count this as feeling.",
    "status": "debated",
    "context": "This card is about whether plants feel and choose."
   }
@@ -217,7 +217,7 @@
   {
    "q": "You breathe out carbon dioxide, and a plant takes carbon dioxide in. Where does your breath go after it leaves you?",
    "kind": "big",
-   "hint": "Think of the tulsi on the balcony, and the neem tree on the road."
+   "hint": "Think of the plants near you, and the trees on the road."
   },
   {
    "q": "Could there be living beings so slow that we never notice they are alive?",
@@ -231,7 +231,7 @@
   "read_aloud": true,
   "note": "Shalini, Nikhil and Ajji are made up. Kamala Sohonie was real. Potato shoots do grow towards light, and a sprouted potato planted in soil usually makes several new potatoes in about three months. Never eat potato shoots or green potato skin, because they contain a substance that can make people sick.",
   "text": [
-   "It was a Sunday morning in a flat in Bengaluru. Ajji was making uppittu for breakfast. 'Shalini, please bring me one onion from the bottom cupboard,' she called.",
+   "It was a Sunday morning in a flat in Bengaluru. Shalini's grandmother, Ajji, was making uppittu for breakfast. 'Shalini, please bring me one onion from the bottom cupboard,' she called.",
    "Shalini was eight. She opened the low cupboard next to the stove. It was dark inside, and it smelled of onions and dust. She pushed the onion basket aside, and then she stopped.",
    "Behind the basket, in the corner, sat an old potato. Long, thin shoots grew out of the potato's skin. They were pale white, with a little purple at the tips. Every single shoot was bent the same way, towards the crack of the cupboard door.",
    "'Ajji! Nikhil! Come and look!' Shalini shouted.",
@@ -267,7 +267,7 @@
    "She looked through the kitchen door at the onion basket. 'Ajji,' she said, 'is the onion alive too?'",
    "Ajji laughed. 'Put one on a glass of water and see,' she said."
   ],
-  "epiphany": "For the parent: Shalini tests the old potato for each sign of life, one by one. The potato used stored food, grew, sensed the light, moved towards it, breathed and had young. Something that looked like still food was alive all along.",
+  "epiphany": "For the parent: Shalini tests the old potato for each sign of life, one by one. The potato used stored food, grew, sensed the light, grew towards the crack of light, breathed and had young. Something that looked like still food was alive all along.",
   "ask": [
    "Why were all the potato shoots bent towards the cupboard door?",
    "Shalini said the potato was soft because of the shoots. What did she mean?",
@@ -342,29 +342,22 @@
        "b": "A mushroom is a fungus, not a plant. A fresh mushroom still breathes. Alive."
       }
      ]
-    },
-    {
-     "kind": "tokens",
-     "title": "Tokens for scoring",
-     "items": [
-      "About 20 bottle caps, buttons or small paper circles, to use as tokens."
-     ]
     }
    ],
    "rules": [
-    "Mix the 12 cards and put them in a pile, front side up.",
-    "On your turn, read the top card aloud.",
+    "Mix the 12 cards and put them in a pile in the middle, front side up.",
+    "On your turn, read the top card aloud. A parent can read it for a child who cannot read it yet.",
     "Say one sign of life the thing seems to show, and one sign that is missing.",
     "Then say: alive, once alive or never alive.",
-    "Turn the card over and read the back. Take one token for a right missing sign, and one token for the right answer.",
-    "If the thing is alive and nothing is missing, say so to win the missing-sign token.",
-    "Play until all 12 cards are done. The player with the most tokens chooses the next game."
+    "Another player turns the card over and reads the back aloud. You score one point for a right missing sign, and one point for the right answer. Keep score with tally marks on a sheet of paper.",
+    "If the thing is alive, no sign is missing. Say \"nothing missing\" to win that point.",
+    "Play until all 12 cards are done. The player with the most points wins. If two players tie, they both win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Write the fronts and backs of the 12 cards on paper or old card. 2. Put out the tokens. 3. Read the rules aloud.",
+     "do": "1. Print and cut out the 12 cards, or write the front and back of each on paper or old card. 2. Put out a sheet of paper and a pencil for scoring. 3. Read the rules aloud.",
      "say": "Each card is a tricky thing. You find one sign it seems to have, and one sign it is missing.",
      "kid": "Read the card. Find one sign it has. Find one sign it is missing."
     },
@@ -378,7 +371,7 @@
       {
        "q": "Why is a dry moong seed alive, though the seed does nothing?",
        "good": [
-        "Because the seed sprouts when you give them water.",
+        "Because seeds sprout when you give them water.",
         "Because seeds are resting, not dead."
        ]
       }
@@ -388,9 +381,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the tokens. Ask the check question.",
+     "do": "Count the points. Ask the check question.",
      "say": "Which card surprised you most? Why?",
-     "kid": "Count your tokens. Which card surprised you?",
+     "kid": "Count your points. Which card surprised you?",
      "check": {
       "t": "mcq",
       "q": "A robot moves and senses walls. Why is the robot not alive?",
@@ -406,12 +399,12 @@
    ],
    "setup": [
     {
-     "art": "A pile of handmade cards on a mat, the top one reading 'A cloud', with bottle-cap tokens beside it.",
+     "art": "A pile of handmade cards on a mat, the top one reading 'A cloud', with a scoring sheet and a pencil beside it.",
      "caption": "1. Read the top card aloud."
     },
     {
-     "art": "A child turning a card over to read the back, while another child holds up two bottle caps.",
-     "caption": "2. Say a sign it has and a sign it is missing. Turn over to check."
+     "art": "A child turning a card over to read the back, while another child makes tally marks on a scoring sheet.",
+     "caption": "2. Say a sign it has and a sign it is missing. Turn the card over to check."
     }
    ]
   },
@@ -445,7 +438,7 @@
    ],
    "rules": [
     "Mix the 14 cards and lay them face down in two rows of seven.",
-    "On your turn, turn over two cards.",
+    "On your turn, turn over two cards and read them aloud. A parent can read for a child who cannot read yet.",
     "If one is a sign card and the other is the plant doing that sign, keep the pair and have another turn.",
     "If not, turn them face down again in the same places.",
     "When all the cards are taken, the player with the most pairs wins."
@@ -454,9 +447,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Write each card on paper or old card. 2. Your child draws a small picture on each plant card. 3. Lay them face down.",
+     "do": "1. Print and cut out the 14 cards, or write each one on paper or old card. 2. If you like, your child draws a small picture on each plant card. 3. Mix the cards and lay them face down.",
      "say": "Let's make the cards. You draw a small picture on each plant card.",
-     "kid": "Draw a picture on each plant card. Then turn them face down."
+     "kid": "Draw a picture on each plant card if you like. Then turn them face down."
     },
     {
      "id": "s2",
@@ -543,7 +536,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up handles the chuna. Chuna can sting eyes and skin, so never taste it and wash hands after touching it. Never drink chuna water. When blowing through the straw, only blow out, never suck in.",
+   "safety": "Only a grown-up handles the chuna. Chuna can sting eyes and skin, so never taste it and wash hands after touching it. Never drink chuna water. When blowing through the straw, only blow out, never suck in. Do not eat the moong from the test afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -660,7 +653,7 @@
       {
        "q": "What do you notice inside the sprout dabba?",
        "good": [
-        "It is damp and a bit warm.",
+        "It is damp.",
         "It smells of sprouts."
        ]
       }
@@ -757,8 +750,8 @@
      "qty": "1 cup"
     },
     {
-     "item": "clear chuna water, made the night before as in the first chuna water test",
-     "qty": "two small glasses"
+     "item": "clear chuna water, made the night before (half a teaspoon of chuna stirred into half a litre of water, in a jug with a plate over it, left to settle overnight)",
+     "qty": "half a litre"
     },
     {
      "item": "two steel dabbas of the same size with tight lids",
@@ -927,7 +920,7 @@
      "qty": 1
     },
     {
-     "item": "tricky things from the house: a dry moong seed, a soaked moong sprout, a spoon of curd in a katori, a potato, a cotton thread, a cooked grain of rice, a phone, a steel spoon, a coconut or a piece of coconut shell, a picture of a cloud",
+     "item": "tricky things from the house: a dry moong seed, a soaked moong sprout, a spoon of curd in a katori, a potato, a cotton thread, a cooked grain of rice, a phone, a steel spoon, a piece of dry coconut shell, a drawing of a cloud (draw one on paper)",
      "qty": "about 10"
     }
    ],
@@ -968,7 +961,7 @@
        ]
       }
      ],
-     "parent": "Let the reasons come first and don't correct straight away. The dry moong, the sprout, the potato and a whole coconut are alive. Curd is a food full of living bacteria. Cotton thread and cooked rice were once alive. A piece of coconut shell was once alive. The phone, the spoon and the cloud were never alive."
+     "parent": "Let the reasons come first and don't correct straight away. The dry moong, the sprout and the potato are alive. Curd is a food full of living bacteria. Cotton thread, cooked rice and coconut shell were once alive. The phone, the spoon and the cloud were never alive."
     },
     {
      "id": "s3",
@@ -1014,7 +1007,7 @@
    "title": "Ant Watch: which signs of life can you see?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you put one grain of sugar near some ants and watch for five minutes. You tick each sign of life you see.",
+   "context": "In this activity you put a few grains of sugar near some ants and watch for five minutes. You tick each sign of life you see.",
    "materials": [
     {
      "item": "a few grains of sugar",
@@ -1025,7 +1018,7 @@
      "qty": 1
     },
     {
-     "item": "a sheet with the seven signs drawn as small pictures, for ticking",
+     "item": "a sheet of paper with seven lines, one for each sign of life: you draw a small picture or write the word on each line, for ticking",
      "qty": 1
     },
     {
@@ -1037,15 +1030,15 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Put sugar near ants. Watch for five minutes. Tick each sign of life you see."
+     "what": "Draw the seven-line sheet. Put sugar near ants. Watch for five minutes. Tick each sign of life you see."
     }
    ],
    "record": "Tick the signs you saw. Draw one ant carrying sugar.",
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
-     "do": "1. Find a line of ants in the kitchen, on a windowsill or on the balcony. 2. Put a few grains of sugar on a small paper near them.",
+     "mins": 4,
+     "do": "1. Draw seven lines on a sheet of paper. On each line, write or draw one sign of life: eat, breathe, grow, move, sense, get rid of waste, have young. 2. Find a line of ants in the kitchen, on a windowsill or on the balcony. 3. Put a few grains of sugar on a small paper near them.",
      "say": "Let's give the ants some sugar. Then we watch and look for signs of life.",
      "kid": "Find some ants. Put sugar near them on a paper.",
      "parent": "Almost every flat has ants somewhere. If you cannot find any, watch a crow or a pigeon at the window, or a pet, for five minutes instead."
@@ -1069,7 +1062,7 @@
     },
     {
      "id": "s3",
-     "mins": 4,
+     "mins": 3,
      "do": "Count the ticks together. Ask which signs you could not see.",
      "say": "Which signs did you see? Which ones did you not see? Does that mean the ants don't do them?",
      "kid": "Count your ticks. Which signs did you not see?",
@@ -1229,7 +1222,7 @@
    "context": "In this three-week project you put a sprouting potato in a shoebox with walls inside and one hole at the end. You watch whether the potato's shoot finds the way to the light.",
    "materials": [
     {
-     "item": "a potato that has started to sprout small shoots (or any old potato left in a dark cupboard for two weeks)",
+     "item": "a potato that has already started to sprout small shoots (or an old potato left in a dark cupboard for two weeks first)",
      "qty": 1
     },
     {
@@ -1324,7 +1317,7 @@
        ]
       }
      ],
-     "parent": "Shoots often reach the hole in two to four weeks. The potato senses the faint light and grows towards it, round each wall. The potato also uses up stored food, so the potato gets soft and wrinkly."
+     "parent": "Shoots often reach the hole in two to four weeks. The potato senses the faint light and grows that way, round each wall. The potato also uses up stored food, so the potato gets soft and wrinkly. If no shoot has reached the hole by day 21, leave the box one more week. Slow is a real result too."
     }
    ],
    "setup": [
@@ -1348,7 +1341,7 @@
    "id": "c1",
    "title": "Catch a Plant Moving",
    "mins": 20,
-   "context": "This is a design challenge. Plants move too slowly for our eyes. You invent a way to catch a plant moving, and try it on a potted plant.",
+   "context": "This is a design challenge. Plants move too slowly for our eyes. You invent a way to catch a plant moving, and try your idea on a potted plant.",
    "problem": "A plant moves so slowly that we never see the movement happen. How could you prove that a potted plant moved, from one day to the next?",
    "constraints": [
     "Use only things from home.",
@@ -1408,12 +1401,12 @@
       "t": "mcq",
       "q": "A money plant was turned away from the window. Two days later, the leaves face the window again. What does this show?",
       "options": [
-       "The plant sensed the light and moved towards it",
+       "The plant sensed the light and moved to face the window",
        "Somebody turned the pot back",
        "The wind blew the leaves"
       ],
       "a": 0,
-      "why": "A plant senses light and slowly turns their leaves towards it, by growing more on the shady side. Two signs of life together: sensing and moving."
+      "why": "A plant senses light and slowly turns their leaves towards the light, by growing more on the shady side. Two signs of life together: sensing and moving."
      }
     }
    ],
@@ -1552,10 +1545,10 @@
     },
     {
      "t": "write",
-     "p": "Shalini found an old potato in a dark cupboard with long shoots, all bent towards the crack of the door. Write two signs of life the potato showed.",
+     "p": "Shalini, a girl in the story, found an old potato in a dark cupboard with long shoots, all bent towards the crack of the door. Write two signs of life the potato showed.",
      "lines": 2,
-     "a": "The potato grew shoots. The shoots sensed the light and moved towards it.",
-     "why": "A strong answer names two signs, such as growing, sensing light, or moving towards it, and says what the potato did for each."
+     "a": "The potato grew shoots. The shoots sensed the light and grew towards the crack of light.",
+     "why": "A strong answer names two signs, such as growing, sensing light, or growing towards the crack of light, and says what the potato did for each."
     },
     {
      "t": "odd",
@@ -1628,9 +1621,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Plants breathe only at night.",
+     "p": "Sprouts in the fridge breathe out more carbon dioxide than sprouts on a warm shelf.",
      "a": false,
-     "why": "False. Plants breathe all day and all night. In sunlight they also make food, which takes in carbon dioxide, so their breathing is hidden by day."
+     "why": "False. Cold slows down breathing. The fridge sprouts breathe out less carbon dioxide, so their chuna water stays clearer."
     },
     {
      "t": "order",
@@ -1676,9 +1669,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a plant showing that they sense light. Draw where the light comes from.",
+     "p": "Draw a plant that senses light. Show where the light comes from and which way the plant bends.",
      "a": "A plant with shoots or leaves bending towards a window or a lamp.",
-     "why": "Plants sense light and grow towards it. A strong drawing shows the light and the plant bending towards it, such as a potato shoot in a maze or a money plant at a window."
+     "why": "Plants sense where the light is and grow that way. A strong drawing shows the light and the plant bending towards the light, such as a potato shoot in a maze or a money plant at a window."
     },
     {
      "t": "mcq",
@@ -1716,10 +1709,10 @@
    "items": [
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 2, left her sprout dabba shut for a whole day and night instead of three hours. What do you think happened to her chuna water? Why?",
+     "p": "Kavya, a girl in Class 2, shut her moong sprouts in a dabba with chuna water. After three hours the water was still clear. She had not pressed the lid down tight. Why might the water still be clear? What should she do next?",
      "lines": 3,
-     "a": "It went even more milky, with a thick white skin, because the sprouts kept breathing out carbon dioxide all that time.",
-     "why": "Sprouts breathe all the time. More time means more carbon dioxide, so the chuna water goes more milky. A strong answer gives the reason."
+     "a": "Breathed-out carbon dioxide may have leaked out through the loose lid, and room air came in. She should press the lid down tight and try again.",
+     "why": "A shut dabba keeps the carbon dioxide inside, so the chuna water can catch it. A strong answer says the loose lid let the gas out and says to repeat the test with a tight lid."
     },
     {
      "t": "perspective",
@@ -1741,11 +1734,11 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan boils some moong, lets them cool and shuts them in a dabba with chuna water. What will happen in three hours?",
+     "p": "Farhan, a boy in Class 2, boils some moong, lets them cool and shuts them in a dabba with chuna water. What will happen in three hours?",
      "opts": [
       "The chuna water stays clear",
       "The chuna water goes milky fast",
-      "The moong sprout"
+      "The moong grow long white tails"
      ],
      "a": 0,
      "why": "Boiling kills the moong, so they no longer breathe. With nothing breathing, the chuna water stays clear. This would make a good fair test against living sprouts."
@@ -1819,7 +1812,7 @@
     },
     {
      "t": "fill",
-     "p": "A dry seed is alive but resting. The seed wakes up when they get ________.",
+     "p": "Dry seeds are alive but resting. Seeds wake up when they get ________.",
      "a": [
       "water"
      ],
@@ -2006,7 +1999,7 @@
   "Fruits and vegetables keep fresh longer in the fridge, because cold slows down their breathing, so they use up their stored food more slowly.",
   "Farmers and grain shops keep grain dry. Damp grain wakes up and breathes, which warms the grain and makes it spoil.",
   "Families set curd every day with a spoon of yesterday's curd, because the living bacteria in that curd make more curd.",
-  "Scientists looking for life on other planets look for signs of life, such as gases that living beings breathe out."
+  "Scientists looking for life on other planets look for signs of life, such as gases that living beings make."
  ],
  "spotted": [
   {
@@ -2033,7 +2026,7 @@
  "open_questions": [
   {
    "q": "Do plants feel anything, the way we feel?",
-   "why_open": "Plants clearly sense light, touch, water and even sound, and they change what they do. Scientists still argue about whether plants feel what happens to them, because plants have no brain."
+   "why_open": "Plants clearly sense light, touch, water and even sound, and they change what they do. Many scientists say plants feel and decide in their own way. Others say plants only react automatically, because plants have no brain. The argument is not settled."
   },
   {
    "q": "How long can a resting seed stay alive?",
@@ -2048,8 +2041,7 @@
   "Is anything on your plate still alive? How could you tell?",
   "Which living being in our flat is the slowest mover?",
   "When you are asleep, which signs of life are you still doing?",
-  "Is the tulsi breathing right now? How do you know?",
-  "If a phone could grow, would it be alive?",
+  "Is a plant near you breathing right now? How do you know?",
   "What do you think a seed is doing while the seed waits in the packet?"
  ],
  "jokes": [
@@ -2074,20 +2066,16 @@
    "a": "Curd you pass the milk? I want to make more curd."
   },
   {
-   "j": "Why did the tendril hold the string so tightly?",
-   "a": "Because it was a very good friend."
+   "j": "What kind of tree fits in your hand?",
+   "a": "A palm."
   },
   {
-   "j": "What did the rain tree say at sunset?",
-   "a": "Good night, I'm folding up."
+   "j": "Why are ants never ill?",
+   "a": "They have lots of ant-ibodies."
   },
   {
-   "j": "Why did the moong sprout feel shy in the dabba?",
-   "a": "Because everyone could see their breath in the chuna water."
-  },
-  {
-   "j": "Why was the phone sad?",
-   "a": "It could talk all day, but it could never grow up."
+   "j": "Why did the banana go to the doctor?",
+   "a": "It wasn't peeling well."
   }
  ],
  "maths": [
@@ -2100,7 +2088,7 @@
    "why_maths": "Counting the signs a thing has, and the signs it is missing, helps us decide if something is alive."
   },
   {
-   "problem": "In the ant watch, Anjana counted ants reaching the sugar. In the first minute, 2 ants came. In the second minute, 5 came. In the third minute, 9 came. What pattern do you see, and why do you think more ants came each minute?",
+   "problem": "In the ant watch, Anjana, a girl in Class 2, counted ants reaching the sugar. In the first minute, 2 ants came. In the second minute, 5 came. In the third minute, 9 came. What pattern do you see, and why do you think more ants came each minute?",
    "answer": "More ants came every minute: 2, then 5, then 9.",
    "explain": "Each minute more ants came than the minute before. One ant found the sugar and left a smell trail. Other ants followed the trail, and more and more found the sugar.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2109,7 +2097,7 @@
    "how": "a2"
   },
   {
-   "problem": "Ajji planted one potato, and the potato made 7 new potatoes. Shalini plants 3 of the new potatoes. If each one makes 5 new potatoes, how many new potatoes will there be?",
+   "problem": "In the story, one potato made 7 new potatoes. Shalini plants 3 of the new potatoes. If each one makes 5 new potatoes, how many new potatoes will there be?",
    "answer": "15 new potatoes.",
    "explain": "3 potatoes, each making 5. That is 3 groups of 5: 5, 10, 15. So there will be 15 new potatoes.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -2117,7 +2105,7 @@
    "why_maths": "Equal groups show how fast living beings can make more of themselves."
   },
   {
-   "problem": "In the dabba test, 1 cup of sprouts made the chuna water milky in about 3 hours. Nandini thinks 2 cups of sprouts in the same dabba would make it milky faster. Do you agree? About how long might it take?",
+   "problem": "In the dabba test, half a cup of sprouts made the chuna water milky in about 3 hours. Nandini, a girl in Class 2, thinks one whole cup of sprouts in the same dabba would make it milky faster. Do you agree? About how long might it take?",
    "answer": "Yes. About half the time, so about 1 and a half hours.",
    "explain": "Twice as many sprouts breathe out about twice as much carbon dioxide each hour. So the same milky colour would come in about half the time. Half of 3 hours is 1 and a half hours. This is a guess, so test it to check.",
    "math_unit": "math.number-sense.estimation.L2",
@@ -2176,7 +2164,7 @@
     "e1",
     "e2"
    ],
-   "plan": "Used in the two chuna water tests. Keep it closed, high up and away from children."
+   "plan": "Keep it closed, high up and away from young children."
   }
  ],
  "warmup": [
@@ -2295,7 +2283,7 @@
    "what_is_life": "Life is something a body keeps doing, all the time, even when nothing seems to happen. The sprouts and the potato were busy while they lay still.",
    "what_is_this_world": "The carbon dioxide you breathe out goes into the air of your room. Plants take it in through their leaves and build it into new leaves."
   },
-  "thread": "Your breath and the sprouts' breath turned the same chuna water milky. The same gas, carbon dioxide, comes out of every breathing being: you, an ant, a sprout and the bacteria in curd. Plants take that gas in through their leaves, and use sunlight to build it into food and new leaves. So the air in your flat passes from one living being to another, all day long. Every one of them senses and acts in their own way.",
+  "thread": "Your breath and the sprouts' breath turned the same chuna water milky. The same gas, carbon dioxide, comes out of every breathing being: you, an ant, a sleeping cat and a sprout. Plants take that gas in through their leaves, and use sunlight to build it into food and new leaves. So the air in your flat passes from one living being to another, all day long. Every one of them senses and acts in their own way.",
   "teachings": [
    {
     "source": "Prashna Upanishad, Question 2",
@@ -2325,8 +2313,8 @@
   "practice": {
    "title": "Still as a seed, breathing",
    "mins": 3,
-   "say": "Sit very still, like a seed in a packet. Put one hand on your tummy. Breathe in slowly through your nose. Breathe out slowly. Feel your tummy rise and fall. You are not moving, but your breath is. Now look at the tulsi or a sprout near you. They are breathing quietly too.",
-   "kid": "Sit as still as a seed. Put a hand on your tummy. Breathe in slowly. Breathe out slowly. Feel your tummy move. The sprouts are breathing too."
+   "say": "Sit very still, like a seed in a packet. Put one hand on your tummy. Breathe in slowly through your nose. Breathe out slowly. Feel your tummy rise and fall. You are not moving, but your breath is. Now look at a plant or a sprout near you. Plants are breathing quietly too.",
+   "kid": "Sit as still as a seed. Put a hand on your tummy. Breathe in slowly. Breathe out slowly. Feel your tummy move. Plants and sprouts are breathing too."
   },
   "ask": [
    "If breathing never stops, is anything in a living body ever really still?",
@@ -2340,5 +2328,6 @@
   "who": "Jan Ingenhousz, a Dutch doctor, and Kamala Sohonie, an Indian scientist, after Joseph Priestley's work in England",
   "when": "1771 (Priestley), 1779 (Ingenhousz) and the late 1930s (Sohonie)",
   "wrong_idea": "That plants only make the air fresh, and do not breathe the way animals do."
- }
+ },
+ "playtest": "Walked through both games card by card with 2 and 4 players: the 12 trick cards and 14 memory cards all work, and the one-line token printable was replaced by tally-mark scoring that cannot run out. Followed both chuna water tests, the ant watch, the sort, the still minute and the potato maze in a flat: minutes and schedules add up, and the ant sheet is now drawn by hand instead of pointing at a page that does not exist. Fixed the 'it' for living beings, the lines that denied plants a mind, unintroduced names, tulsi and neem assumed in the home, a repeated true/false question, and the weak jokes (now 8 real ones)."
 }

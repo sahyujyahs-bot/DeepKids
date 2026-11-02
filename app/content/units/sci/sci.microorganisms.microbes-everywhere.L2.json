@@ -65,7 +65,7 @@
   {
    "term": "Starter",
    "meaning": "A starter is a little curd added to warm milk to turn the milk into curd. The starter carries the curd bacteria.",
-   "example": "Paati saves one spoon of today's curd as the starter for tomorrow's curd.",
+   "example": "Many families save one spoon of today's curd as the starter for tomorrow's curd.",
    "art": "A hand dropping one spoon of white curd into a steel vessel of warm milk."
   },
   {
@@ -87,7 +87,7 @@
    "status": "defined",
    "context": "This card says what a microbe is, and how small microbes are.",
    "definition": "A microbe is a living being too small to see with our eyes alone. Most microbes are a single cell.",
-   "description": "Microbes are tiny. About a thousand bacteria in a line would just reach across a mustard seed. We cannot see one, but we can see a crowd of millions, like a spot on old food. The main kinds are bacteria and some fungi, such as yeast and the first threads of mould. Some scientists count viruses as microbes too.",
+   "description": "Microbes are tiny. About a thousand bacteria in a line would just reach across a mustard seed. We cannot see one, but we can see a crowd of millions, like a spot on old food. Bacteria and tiny fungi such as yeast are microbes, and some scientists count viruses too.",
    "examples": [
     "The bacteria that turn milk into curd.",
     "The yeast that makes bread dough puff up.",
@@ -101,7 +101,7 @@
    "status": "defined",
    "context": "This card is about where microbes live. Remember the potato slices that grew spots.",
    "definition": "Microbes live almost everywhere on Earth: on our skin, inside our bodies, in soil, water and air, and on everything we touch.",
-   "description": "Your hands carry thousands of microbes, even when they look clean. One teaspoon of soil from a flower pot can hold more than a hundred crore bacteria. That is about as many as all the people in India. Microbes also float in the air on dust, and they live in the sea, in hot springs and deep in ice. More microbes live inside your tummy than anywhere else on your body.",
+   "description": "Your hands carry thousands of microbes, even when they look clean. One teaspoon of rich soil can hold about as many bacteria as there are people in India. Microbes float in the air on dust, and live in the sea, in hot springs and deep in ice. Most of the microbes in your body live in your tummy.",
    "examples": [
     "Spots grew on the potato slice your fingers touched.",
     "The soil slice grew the most spots, because soil is packed with microbes.",
@@ -115,7 +115,7 @@
    "status": "defined",
    "context": "This card explains why the spots on the potato slices appeared and grew.",
    "definition": "A bacterium grows a little, then splits into two bacteria. Each of those splits again. This is how microbes multiply.",
-   "description": "In a warm place with food, some bacteria split about every half hour. One becomes 2, then 4, then 8. By the next day, there can be millions of them in one place. That crowd is a colony, and a colony is big enough to see. So each spot on your potato slice started as one or a few microbes that landed there. Mould grows a different way, by spreading thin threads, which is why mould looks fuzzy.",
+   "description": "In a warm place with food, some bacteria split about every half hour. One becomes 2, then 4, then 8, and by the next day there can be millions. That crowd is a colony, big enough to see. Each spot on your potato slice started as one or a few microbes that landed there.",
    "examples": [
     "A shiny yellow or white spot on the potato is a colony of bacteria.",
     "A fuzzy patch is mould, a fungus that grows threads.",
@@ -129,7 +129,7 @@
    "status": "defined",
    "context": "This card explains how a spoon of curd turns milk into curd.",
    "definition": "Curd bacteria eat the sugar in milk and make an acid. The acid makes the milk thick and sour. That thick, sour milk is curd.",
-   "description": "Milk has a sugar in it, even though milk does not taste very sweet. When you add a spoon of curd to warm milk, you add millions of curd bacteria. In the warm milk, they eat the sugar and multiply. They make an acid, and the acid makes the milk proteins clump together into soft curd. Warmth helps them work fast. In the fridge, they slow down, so set curd keeps longer there.",
+   "description": "Milk has a sugar in it, though it does not taste very sweet. A spoon of curd adds millions of curd bacteria to warm milk. They eat the sugar, multiply, and make an acid, and the acid makes the milk proteins clump into soft curd. In the fridge they work slowly, so set curd keeps longer there.",
    "examples": [
     "Thayir, mosaru, perugu, dahi and doi are names for curd in different parts of India.",
     "Mishti doi in West Bengal is set with curd bacteria, after the milk is sweetened.",
@@ -142,9 +142,9 @@
    "concept": "Do microbes sense and decide?",
    "status": "debated",
    "context": "This card is about what microbes do, and what scientists argue about.",
-   "description": "Microbes sense, decide and act. A bacterium senses food in the water around them and swims towards it. Bacteria also give out tiny amounts of chemicals. By sensing these chemicals, they can tell how many of their own kind are near, and then act together. Scientists still argue about what to call this.",
+   "description": "Microbes sense, decide and act. A bacterium senses food in the water and swims towards it. Bacteria also give out tiny amounts of chemicals, and by sensing these they can tell how many of their own kind are near. Scientists still argue about what to call this.",
    "examples": [
-    "A bacterium swims towards sugar and away from things that harm them.",
+    "Bacteria swim towards sugar and away from things that harm them.",
     "Some sea bacteria glow only when enough of them are together, as Bonnie Bassler and other scientists have shown.",
     "Mould threads grow towards food and away from dry places."
    ],
@@ -165,7 +165,7 @@
    "status": "defined",
    "context": "This card is about which microbes help us and which ones can make us ill.",
    "definition": "Most microbes do not make anyone ill. Many are helpful. Only a few, called germs, can make humans and other animals ill.",
-   "description": "Microbes in soil break dead leaves into new soil. Microbes in your tummy help you digest food. Curd bacteria and the microbes in idli batter make food we love. Tiny living beings in the sea, many of them microbes, make about half the oxygen we breathe. A few microbes are germs, and washing hands with soap removes most of them before they get inside us.",
+   "description": "Microbes in soil break dead leaves into new soil, and microbes in your tummy help you digest food. Curd bacteria and the microbes in idli batter make food we love. Tiny living beings in the sea, many of them microbes, make about half the oxygen we breathe. A few microbes are germs, and washing hands with soap removes most of them before they get inside us.",
    "examples": [
     "Curd bacteria are helpful.",
     "The microbes on your skin are mostly harmless, and some of them help keep germs away.",
@@ -208,7 +208,7 @@
   },
   {
    "claim": "Spots and rot come out of the food itself.",
-   "who": "What most people believed until about 160 years ago",
+   "who": "Many people, until about 160 years ago",
    "for": "Food left out seems to grow spots on its own.",
    "against": "In the 1860s, Louis Pasteur showed that boiled soup kept away from dust and air did not spoil. The spots come from microbes that land on the food.",
    "status": "rejected",
@@ -243,11 +243,6 @@
    "q": "Microbes lived on Earth for billions of years before there were any animals. Whose planet is Earth?",
    "kind": "big",
    "hint": "Think about who was here first, and who is here in the biggest numbers."
-  },
-  {
-   "q": "When you eat curd, the bacteria in the curd go into your tummy. What happens to them there?",
-   "kind": "deep",
-   "hint": "Some curd bacteria are killed by the acid in your tummy. Some get through. Scientists are still studying what they do."
   }
  ],
  "how_we_found_out": {
@@ -272,7 +267,7 @@
    "Nila did not believe her. In the morning, she ran to the shelf before brushing her teeth. She lifted the lid. The pot was full of thick, white curd. She tipped it a little. The curd did not move.",
    "'They did it,' she whispered.",
    "That afternoon it rained again. Ammamma opened the balcony door, and a smell came in from the wet pots of tulsi and chilli plants. It was a deep, earthy smell. Nila loved it.",
-   "'Do you know who makes that smell?' asked Ammamma. 'More tiny workers. Bacteria in the soil make that smell, and the rain lifts the smell into the air. A spoon of that soil can hold more bacteria than there are people in India.'",
+   "'Do you know who makes that smell?' asked Ammamma. 'More tiny workers. Bacteria in the soil make that smell, and the rain lifts the smell into the air. One teaspoon of rich soil can hold about as many bacteria as there are people in India.'",
    "Nila looked at her own hands. 'Are there bacteria on me too?'",
    "'Thousands,' said Ammamma. 'On your hands, in your mouth, in your tummy. Most of them are harmless, and many help you. A few can make you ill. That is why we wash with soap before we eat.'",
    "Nila frowned. 'But how can I know they are there, if I cannot see them?'",
@@ -301,7 +296,7 @@
   {
    "id": "e1",
    "title": "Three Potato Slices: where do the spots come from?",
-   "mins": 25,
+   "mins": 28,
    "days": 4,
    "context": "In this experiment you put three slices of boiled potato in three closed boxes. Your fingers touch one slice, a pinch of soil touches another, and nothing touches the third. Over three or four days you count the spots that grow. This shows where microbes were hiding.",
    "question": "Our fingers and the soil in a flower pot look like they have nothing alive on them. Do they carry microbes we cannot see?",
@@ -344,7 +339,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Cut three slices. Guess. Touch one with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place."
+     "what": "Cut three slices. Guess. Touch one with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place. Wash hands."
     },
     {
      "day": 2,
@@ -358,17 +353,17 @@
     },
     {
      "day": 4,
-     "mins": 4,
-     "what": "Count one last time. Draw the slices. Say what you think, what you saw and why. A grown-up throws the closed boxes away."
+     "mins": 7,
+     "what": "Count one last time. Draw the slices. Say what you think, what you saw and why. A grown-up throws the closed boxes away in a tied bag."
     }
    ],
    "record": "Draw the three slices on day 4, with every spot in its colour. Write the number of spots under each slice.",
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
-     "do": "1. Boil one potato with the skin on. 2. Let it cool until you can hold it. 3. Show the potato to your child.",
-     "say": "Look at this boiled potato. Boiling killed almost every microbe in it. Can you see anything living on it?",
+     "mins": 2,
+     "do": "Take the potato that was boiled with its skin on and cooled until you can hold it. Show it to your child.",
+     "say": "Look at this boiled potato. Boiling killed almost every microbe inside the potato. Can you see anything living on it?",
      "kid": "Look at the boiled potato. Can you see anything living on it?",
      "adult": true,
      "ask": [
@@ -380,7 +375,7 @@
        ]
       }
      ],
-     "parent": "You can use a potato boiled for a meal. Keep it aside before anyone touches it. Boiling kills almost all microbes, so the slices start nearly empty of life."
+     "parent": "Boiling takes about 20 minutes, so boil the potato earlier, or use one left from a meal. Keep it aside before anyone touches it. Boiling kills almost all microbes, so the slices start nearly empty of life."
     },
     {
      "id": "s2",
@@ -423,7 +418,7 @@
      "do": "1. Put the three boxes side by side in a warm, dark place, such as a kitchen shelf or inside a cupboard. 2. Leave them closed.",
      "say": "Microbes grow best where it is warm and dark. We leave the boxes here, closed, and look again in two days.",
      "kid": "Put the boxes on a warm, dark shelf. Keep them closed.",
-     "parent": "In a warm Indian kitchen, spots often show by day 2 or 3. In a cool room, below about 20 degrees, it can take up to a week. Keep the boxes closed the whole time.",
+     "parent": "In a warm Indian kitchen, spots often show by day 2 or 3. In a cool room, below about 20 degrees, it can take up to a week. If no slice has a spot on day 4, wait up to day 7 before you decide. Keep the boxes closed the whole time.",
      "wait": "Leave the boxes for two days."
     },
     {
@@ -486,7 +481,7 @@
      "say": "We never open these boxes now. The spots are millions of microbes. I will tie them in a bag and throw them away.",
      "kid": "A grown-up throws the closed boxes away in a tied bag. Wash your hands.",
      "adult": true,
-     "parent": "Throw the boxes away rather than washing them, unless they are steel. Wash steel katoris with soap and hot water, outdoors or by a sink, holding your breath as you tip the slice out."
+     "parent": "Throw the boxes away rather than washing them. If you used steel katoris, a grown-up tips each slice into a bag outdoors, ties the bag, and then washes the katori with soap and hot water."
     }
    ],
    "example_chart": {
@@ -514,7 +509,7 @@
    },
    "setup": [
     {
-     "art": "A grown-up's hands cutting a boiled potato into three thick slices on a steel plate, with three small clear boxes labelled Fingers, Soil and Nobody beside it.",
+     "art": "A grown-up's hands cutting a boiled potato into three thick slices on a steel plate, with three small clear boxes labelled Fingers, Soil and Nobody beside the plate.",
      "caption": "1. Cut three slices of boiled potato and put one in each box."
     },
     {
@@ -616,7 +611,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "1. Put the three covered katoris in a warm place, such as near the stove or inside a closed cupboard. 2. Leave them overnight, about 8 to 10 hours. Don't stir or move them.",
+     "do": "1. Put the three covered katoris in a warm place, such as a closed cupboard or a closed casserole. 2. Leave them overnight, about 8 to 10 hours. Don't stir or move them.",
      "say": "The bacteria need a quiet, warm night. We look in the morning.",
      "kid": "Put the katoris in a warm place. Leave them all night.",
      "wait": "Leave the katoris overnight.",
@@ -658,14 +653,14 @@
      "parent": "A strong answer uses the evidence: the drop katori set, the nothing katori did not, so the curd bacteria in the drop must have multiplied. Do not let anyone taste the Nothing katori.",
      "check": {
       "t": "mcq",
-      "q": "The Drop katori set into curd, but the Nothing katori stayed runny. Why?",
+      "q": "Suppose the Drop katori set into curd, but the Nothing katori stayed runny. Why?",
       "options": [
        "The drop had a few curd bacteria, and they multiplied all night",
        "The plate made the milk thick",
        "Milk always turns into curd by itself"
       ],
       "a": 0,
-      "why": "All three katoris had a plate and warm milk. Only the Nothing katori stayed runny, so milk does not set into curd by itself. The drop carried a few curd bacteria, and by morning they had multiplied into millions."
+      "why": "All three katoris had a plate and warm milk. The Nothing katori stayed runny, so milk does not set into curd by itself. The drop carried a few curd bacteria, and by morning they had multiplied into millions."
      }
     }
    ],
@@ -758,7 +753,7 @@
        ]
       }
      ],
-     "parent": "The earthy smell comes mostly from a substance called geosmin. Soil bacteria make geosmin. Rain and sprinkled water lift tiny amounts into the air. Human noses can smell geosmin even when there is very, very little."
+     "parent": "The earthy smell comes mostly from a substance called geosmin. Soil bacteria make geosmin. Rain and sprinkled water lift tiny amounts into the air. Human noses can smell geosmin even when there is very, very little. If the soil smells of little, try a dry clay diya or matka, which often smells earthy when wet."
     },
     {
      "id": "s4",
@@ -828,7 +823,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Help your child draw a simple map of the home: one box for each room, the balcony and the kitchen.",
-     "say": "Let's draw our home from above, like a bird sees it. One box for each room.",
+     "say": "Let's draw our home from above, like a bird flying over the roof. One box for each room.",
      "kid": "Draw your home from above. Draw a box for each room.",
      "parent": "It does not have to be neat. Boxes and labels are enough."
     },
@@ -902,7 +897,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Draw the smallest dot you can. Put a mustard seed beside it. Talk about how many bacteria would fit across each."
+     "what": "Draw the smallest dot you can. Put a mustard seed beside the dot. Talk about how many bacteria would fit across each."
     }
    ],
    "record": "Draw your dot and a mustard seed, and write: about 300 bacteria across my dot, about 1000 across the seed.",
@@ -910,9 +905,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Ask your child to draw the smallest dot they can with a sharp pencil. Put one mustard seed beside the dot.",
-     "say": "Draw the tiniest dot you can. Now put a mustard seed next to it. Which is smaller?",
-     "kid": "Draw the tiniest dot you can. Put a mustard seed next to it. Which is smaller?",
+     "do": "Ask your child to draw the smallest dot they can with a sharp pencil. Put one mustard seed next to the dot.",
+     "say": "Draw the tiniest dot you can. Now put a mustard seed next to the dot. Which is smaller?",
+     "kid": "Draw the tiniest dot you can. Put a mustard seed next to the dot. Which is smaller?",
      "ask": [
       {
        "q": "Which is smaller, the dot or the seed?",
@@ -955,7 +950,7 @@
      "caption": "1. Draw the tiniest dot you can, next to a mustard seed."
     },
     {
-     "art": "A magnifying glass over the dot, with a zoom circle showing a long row of tiny bacteria lined up across it.",
+     "art": "A magnifying glass over the dot, with a zoom circle showing a long row of tiny bacteria lined up across the dot.",
      "caption": "2. Hundreds of bacteria could line up across your dot."
     }
    ]
@@ -1056,8 +1051,8 @@
        "b": "Lots. Millions of curd bacteria in one spoon."
       },
       {
-       "f": "A pinch of soil from a flower pot",
-       "b": "Lots. One teaspoon of soil can hold more bacteria than there are people in India."
+       "f": "A spoon of soil from a flower pot",
+       "b": "Lots. One teaspoon of rich soil can hold about as many bacteria as there are people in India."
       },
       {
        "f": "Your hands, after playing",
@@ -1068,7 +1063,7 @@
        "b": "Lots. More microbes live in your gut than anywhere else on your body."
       },
       {
-       "f": "A drop of sea water",
+       "f": "A spoon of sea water",
        "b": "Lots. One small spoon of sea water can hold millions of bacteria."
       },
       {
@@ -1089,7 +1084,7 @@
       },
       {
        "f": "A hot spring",
-       "b": "Lots. Some microbes live in water hotter than you could touch."
+       "b": "Lots. Thick mats of microbes grow in hot springs, in water too hot to touch."
       },
       {
        "f": "Water that has just boiled",
@@ -1102,16 +1097,18 @@
      ]
     },
     {
-     "kind": "tokens",
-     "title": "Tokens for scoring",
-     "items": [
-      "About 20 buttons, bottle caps or small paper circles."
-     ]
-    },
-    {
      "kind": "cards",
-     "title": "3 answer cards for each player",
+     "title": "12 answer cards (3 for each of up to 4 players)",
      "items": [
+      "Lots",
+      "A few",
+      "Almost none",
+      "Lots",
+      "A few",
+      "Almost none",
+      "Lots",
+      "A few",
+      "Almost none",
       "Lots",
       "A few",
       "Almost none"
@@ -1119,19 +1116,19 @@
     }
    ],
    "rules": [
-    "Each player gets three answer cards: Lots, A few and Almost none.",
+    "Each player takes three answer cards: Lots, A few and Almost none. Two players use 6 of the 12 answer cards.",
     "Mix the 12 place cards and put them in a pile, front side up.",
-    "One player reads the top card aloud.",
-    "Every player puts one answer card face down at the same time, then everyone turns them over.",
+    "One player reads the top place card aloud.",
+    "Every player puts one answer card face down at the same time, then everyone turns the cards over.",
     "Turn the place card over and read the back aloud.",
-    "Everyone who chose the right answer takes one token.",
-    "Play until all 12 cards are done. The player with the most tokens reads the first card next time."
+    "Everyone who chose the right answer makes one tally mark on a sheet of paper.",
+    "Play until all 12 place cards are done. The player with the most tally marks reads first next time. If marks are level, everyone wins."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Write the 12 place cards, with the front on one side and the back on the other. 2. Make three answer cards for each player. 3. Put out the tokens. 4. Read the rules aloud.",
+     "do": "1. Cut out the 12 place cards and the answer cards. 2. Give each player three answer cards. 3. Put out a sheet of paper for tally marks. 4. Read the rules aloud.",
      "say": "Each card is a place. You guess: lots of microbes, a few, or almost none.",
      "kid": "Each card is a place. Guess: lots of microbes, a few, or almost none?"
     },
@@ -1143,10 +1140,11 @@
      "kid": "Read your card. Choose your answer card. Turn the place card over.",
      "ask": [
       {
-       "q": "Why does boiled water have almost no microbes?",
+       "q": "Why did you choose that answer?",
        "good": [
-        "Because boiling kills them.",
-        "Because it is too hot for them."
+        "Because there is food and it is warm.",
+        "Because it is very hot there.",
+        "Because boiling kills them."
        ]
       }
      ],
@@ -1155,26 +1153,26 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the tokens. Ask the last question.",
+     "do": "Count the tally marks. Ask the last question.",
      "say": "Which card surprised you most? Why?",
-     "kid": "Count your tokens. Which card surprised you most?",
+     "kid": "Count your tally marks. Which card surprised you most?",
      "check": {
       "t": "mcq",
-      "q": "Which place has almost no microbes?",
+      "q": "Scientists found living bacteria in clouds high in the sky. What does this show?",
       "options": [
-       "A spoon of curd",
-       "Water that has just boiled",
-       "Your hands after playing"
+       "Microbes can float in the air and live high up",
+       "Clouds are made of bacteria",
+       "Only the sea has microbes"
       ],
-      "a": 1,
-      "why": "Boiling kills almost all microbes, so just-boiled water has almost none alive. Curd and hands after playing have thousands to millions."
+      "a": 0,
+      "why": "Microbes float in the air on tiny bits of dust, and some have been found alive in clouds. Clouds are made of water drops, and microbes live in many places besides the sea."
      }
     }
    ],
    "setup": [
     {
-     "art": "Twelve hand-made cards spread on a floor mat, each with a small drawing: curd, soil, a hand, a tummy, the sea, batter, a toothbrush, air, a cloud, a hot spring, a boiling pot and a tin.",
-     "caption": "1. Make the 12 place cards and three answer cards for each player."
+     "art": "Twelve cards spread on a floor mat, each with a small drawing: curd, soil, a hand, a tummy, the sea, batter, a toothbrush, air, a cloud, a hot spring, a boiling pot and a tin.",
+     "caption": "1. Cut out the 12 place cards and three answer cards for each player."
     },
     {
      "art": "Two children each laying an answer card face down, with a place card that says A cloud high in the sky in the middle.",
@@ -1257,14 +1255,14 @@
     "Put the three sorting labels on the floor: Helper, Harmless and Germ.",
     "Mix the 12 microbe cards and deal them out, front side up.",
     "On your turn, read one card aloud and put the card by the label you think is right.",
-    "When all the cards are down, turn each one over to check.",
-    "Count how many cards are by each label."
+    "When all 12 cards are down, turn each one over to check. Move any card that is by the wrong label.",
+    "Count how many cards are by each label. The goal is to sort all 12 right together."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Write the 12 microbe cards and the 3 labels. 2. Put the labels on the floor. 3. Read the rules aloud.",
+     "do": "1. Cut out the 12 microbe cards and the 3 labels. 2. Put the labels on the floor. 3. Read the rules aloud.",
      "say": "Each card is a microbe and what that microbe does. Is the microbe a helper, harmless, or a germ?",
      "kid": "Read each card. Is that microbe a helper, harmless, or a germ?"
     },
@@ -1384,10 +1382,10 @@
     {
      "day": 7,
      "mins": 5,
-     "what": "Check the last curd. Count the links. Talk about where the bacteria in today's curd came from."
+     "what": "Eat the last curd. Count the rings on the chart. Talk about where the bacteria in today's curd came from."
     }
    ],
-   "record": "A paper chain chart: one ring for each day, with a word for the curd (thick, soft or runny) and a taste face.",
+   "record": "A paper chain chart: one ring for each katori, with a word for the curd (thick, soft or runny) and a taste face.",
    "flow": [
     {
      "id": "s1",
@@ -1396,7 +1394,8 @@
      "say": "This spoon of curd starts our chain. Tomorrow we will use a spoon of this new curd to make the next one.",
      "kid": "Stir in the spoon of curd. Cover the katori. Draw the first ring on your chart.",
      "adult": true,
-     "wait": "Leave overnight. Check tomorrow."
+     "wait": "Leave overnight. Check tomorrow.",
+     "parent": "Warm milk is enough: if you can keep a clean finger in it for ten seconds, it is right. In cold weather, wrap the katori in a towel."
     },
     {
      "id": "s2",
@@ -1413,24 +1412,24 @@
        ]
       }
      ],
-     "parent": "Rinse the katori with hot water each day. If one day's curd is runny or smells bad, start again with fresh curd from the shop."
+     "parent": "Put the saved spoon of curd in a clean cup, then rinse the katori with hot water and set the next katori. If one day's curd is runny or smells bad, start again with fresh curd from the shop."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "On day 7, count the rings. Ask the questions below.",
-     "say": "Our chain has seven rings. The bacteria in today's curd are the great-great-grand-daughters of the bacteria in the first spoon. How many times did they pass from katori to katori?",
-     "kid": "Count the rings. How many times did the bacteria move to a new katori?",
+     "do": "On day 7, eat the last curd and count the rings. Ask the questions below.",
+     "say": "Our chain has six rings. The bacteria in today's curd came from the very first spoon, passed from katori to katori. How many times did a spoon from one katori go into the next?",
+     "kid": "Count the rings. How many times did a spoon move bacteria into the next katori?",
      "ask": [
       {
-       "q": "How many times did a spoon go into a new katori?",
+       "q": "How many times did a spoon from one katori go into the next?",
        "good": [
-        "Seven times, one each night.",
-        "Every night of the week."
+        "Five times.",
+        "Every night from day 2 to day 6."
        ]
       }
      ],
-     "parent": "Seven katoris were set, one each night. Some families in India keep a curd chain going for years, sharing a spoon of starter with neighbours."
+     "parent": "Six katoris were set, one each night for six nights. The first spoon came from outside, so a saved spoon went into the next katori five times. Many families in India keep a curd going for years, sharing a spoon of starter with neighbours."
     }
    ],
    "setup": [
@@ -1439,7 +1438,7 @@
      "caption": "1. Start the chain with one spoon of curd."
     },
     {
-     "art": "A paper chart with seven rings joined in a chain, each with a word like thick or soft and a little face.",
+     "art": "A paper chart with six rings joined in a chain, each with a word like thick or soft and a little face.",
      "caption": "2. Each night, use a spoon of today's curd to set tomorrow's. Add a ring."
     }
    ]
@@ -1465,7 +1464,7 @@
    "general": [
     "Keep the slice in the fridge, where it is cold and microbes multiply slowly.",
     "Close the box the moment the slice goes in, so fewer microbes land on the slice.",
-    "Dry the slice, because most microbes need water to grow."
+    "Pat the slice dry with a clean tissue before closing the box, because most microbes need water to grow."
    ],
    "creative": [
     "Cover the slice in salt, the way pickles keep, because salt pulls water out of microbes.",
@@ -1637,36 +1636,15 @@
      "why": "Microbes live in all four places. A strong answer labels all four and knows that the air holds microbes too."
     },
     {
-     "t": "sort",
-     "p": "Sort these into helpers and germs.",
-     "cats": [
-      "Helper",
-      "Germ"
+     "t": "mcq",
+     "p": "Why do we wash our hands with soap before we eat?",
+     "opts": [
+      "Soap washes off most germs before they get inside us",
+      "Soap kills every microbe on Earth",
+      "Soap makes food taste better"
      ],
-     "items": [
-      [
-       "curd bacteria",
-       "Helper"
-      ],
-      [
-       "soil bacteria",
-       "Helper"
-      ],
-      [
-       "baker's yeast",
-       "Helper"
-      ],
-      [
-       "cold virus",
-       "Germ"
-      ],
-      [
-       "cholera bacteria",
-       "Germ"
-      ]
-     ],
-     "a": "see items",
-     "why": "Curd bacteria, soil bacteria and yeast help us. The cold virus and cholera bacteria can make people ill."
+     "a": 0,
+     "why": "A few microbes are germs, and soap and water wash most of them off our hands. Soap does not kill every microbe, and most microbes are not harmful."
     }
    ]
   },
@@ -1704,7 +1682,7 @@
      ],
      "how": "e1",
      "a": 0,
-     "why": "Soil is packed with microbes, often more than a hundred crore in a teaspoon. So a pinch of soil put many more microbes on the slice than fingers did."
+     "why": "Soil is packed with microbes. One teaspoon of rich soil can hold about as many bacteria as there are people in India. So a pinch of soil put many more microbes on the slice than fingers did."
     },
     {
      "t": "order",
@@ -1738,13 +1716,13 @@
     },
     {
      "t": "truefalse",
-     "p": "Curd bacteria make milk thick and sour.",
-     "a": true,
-     "why": "True. Curd bacteria eat the sugar in milk and make an acid. The acid makes the milk thick and sour."
+     "p": "Curd sets faster in a cold room than in a warm room.",
+     "a": false,
+     "why": "False. Curd bacteria multiply fastest in warm milk. In the cold they work slowly, so the milk sets slowly."
     },
     {
      "t": "write",
-     "p": "Ammu wants to set curd tonight. She has warm milk, but no curd. Write what she could do.",
+     "p": "Ammu, a girl in Class 2, wants to set curd tonight. She has warm milk, but no curd. Write what she could do.",
      "lines": 2,
      "a": "She could ask a neighbour for one spoon of curd, or buy a little plain curd, and stir it into the warm milk.",
      "why": "A strong answer knows that curd needs a starter with living curd bacteria. Without the bacteria, the milk will not set into smooth curd."
@@ -1811,7 +1789,7 @@
        "says": "Kill 99 percent of germs on every surface, every day."
       },
       {
-       "who": "Farhan's grandmother, who keeps curd and pickles",
+       "who": "A grandmother who keeps curd and pickles",
        "says": "Microbes made my curd and my idli. Most of them are friends."
       },
       {
@@ -1821,19 +1799,19 @@
      ],
      "ask": "Who do you agree with most? Give a reason. Then say what one of the others has right.",
      "lines": 5,
-     "a": "A strong answer picks one view and gives a reason, then answers back from another view. For example: Dr Lakshmi is right that soap removes germs before meals, but Farhan's grandmother is right that most microbes are helpful, so there is no need to kill them everywhere.",
+     "a": "A strong answer picks one view and gives a reason, then answers back from another view. For example: Dr Lakshmi is right that soap removes germs before meals, but the grandmother is right that most microbes are helpful, so there is no need to kill them everywhere.",
      "why": "All three have part of the truth. Most microbes are helpful or harmless, a few are germs, and soap at the right times removes most germs. Scientists are still studying whether meeting many harmless microbes protects children from allergies."
     },
     {
      "t": "write",
-     "p": "Your little cousin says, 'I can't see any microbes, so they are not real.' Write what you would show him to change his mind.",
+     "p": "A friend says, 'I can't see any microbes, so they are not real.' Write what you would show your friend to change their mind.",
      "lines": 3,
-     "a": "I would show him the potato slices, where spots grew from his fingers, or set curd with one drop of curd.",
-     "why": "A strong answer uses evidence the cousin can see: the spots that grow from fingers or soil, or curd that sets from a drop. We can see what microbes do, and the crowds they make."
+     "a": "I would show my friend the potato slices, where spots grew from fingers, or set curd with one drop of curd.",
+     "why": "A strong answer uses evidence a friend can see: the spots that grow from fingers or soil, or curd that sets from a drop. We can see what microbes do, and the crowds they make."
     },
     {
      "t": "mcq",
-     "p": "Kavya does the potato test again. This time she washes her hands with soap before pressing her fingers on the slice. What will probably happen?",
+     "p": "Kavya, a girl in Class 2, does the potato test again. This time she washes her hands with soap before pressing her fingers on the slice. What will probably happen?",
      "opts": [
       "More spots than before",
       "Fewer spots than before",
@@ -1844,10 +1822,10 @@
     },
     {
      "t": "write",
-     "p": "In the curd test, the Drop katori set softer than the Spoon katori. Why do you think so?",
+     "p": "Suppose in the curd test the Drop katori set softer than the Spoon katori. Why do you think so?",
      "lines": 2,
      "how": "e2",
-     "a": "The drop had fewer curd bacteria, so they took longer for them to multiply and set the milk.",
+     "a": "The drop had fewer curd bacteria, so they took longer to multiply and set the milk.",
      "why": "A strong answer links the amount of starter to the number of bacteria, and the number of bacteria to how fast the milk sets."
     },
     {
@@ -1880,42 +1858,17 @@
      "why": "A strong drawing puts the most dots in the tummy, where most of the body's microbes live, and some on skin, hands and in the mouth."
     },
     {
-     "t": "sort",
-     "p": "Sort these places: lots of microbes, or almost none.",
-     "cats": [
-      "Lots",
-      "Almost none"
-     ],
-     "items": [
-      [
-       "a pinch of soil",
-       "Lots"
-      ],
-      [
-       "inside your tummy",
-       "Lots"
-      ],
-      [
-       "water that has just boiled",
-       "Almost none"
-      ],
-      [
-       "food in a sealed new tin",
-       "Almost none"
-      ],
-      [
-       "your toothbrush",
-       "Lots"
-      ]
-     ],
-     "a": "see items",
-     "why": "Soil, curd, hands and the gut are full of microbes. Just-boiled water and food in a sealed tin have almost none alive, because heat killed them."
+     "t": "write",
+     "p": "After the curd sets, many families keep it in the fridge. Why does the curd stay fresh longer there?",
+     "lines": 2,
+     "a": "It is cold in the fridge, so the curd bacteria multiply slowly and the curd turns sour more slowly.",
+     "why": "A strong answer says microbes multiply slowly in the cold. This is why a fridge keeps food fresh longer."
     },
     {
      "t": "count",
-     "p": "In the curd chain, Meera set a new katori of curd every night for 7 nights. Then she shared one spoon with each of 3 neighbours. How many katoris of curd came from her first spoon?",
-     "a": 10,
-     "why": "7 katoris at home and 3 at the neighbours' homes. 7 and 3 make 10. All of them carry bacteria from Meera's first spoon."
+     "p": "In the curd chain, Meera, a girl in Class 3, set a new katori of curd every night for 6 nights. Then she shared one spoon with each of 3 neighbours. How many katoris of curd came from her first spoon?",
+     "a": 9,
+     "why": "6 katoris at home and 3 at the neighbours' homes. 6 and 3 make 9. All of them carry bacteria from Meera's first spoon."
     },
     {
      "t": "label",
@@ -1925,7 +1878,7 @@
       "spot",
       "bread"
      ],
-     "art": "A close-up of a slice of bread with one round fuzzy mould patch, thin threads spreading at its edge.",
+     "art": "A close-up of a slice of bread with one round fuzzy mould patch, thin threads spreading at the edge of the patch.",
      "a": "Thread: the thin lines at the edge. Spot: the round fuzzy patch. Bread: the slice underneath.",
      "why": "Mould is a fungus that grows by spreading thin threads. A strong answer labels the threads at the edge, where the mould is growing outwards."
     }
@@ -1956,19 +1909,6 @@
    "a": 2,
    "why": "Microbes live almost everywhere on Earth. Even clean-looking hands carry thousands.",
    "outcome": 1
-  },
-  {
-   "t": "mcq",
-   "p": "In the potato test, which slice usually grows the fewest spots?",
-   "opts": [
-    "The slice nobody touched",
-    "The soil slice",
-    "The finger slice"
-   ],
-   "a": 0,
-   "why": "Nothing touched that slice, so only a few microbes from the air reached the slice. That is why it grows the fewest spots.",
-   "outcome": 2,
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -2033,7 +1973,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shruti presses unwashed fingers on one potato slice. She puts a second slice in a box without touching it. Why does she need the second slice?",
+   "p": "Shruti, a girl in Class 2, presses unwashed fingers on one potato slice. She puts a second slice in a box without touching it. Why does she need the second slice?",
    "opts": [
     "To eat it later",
     "To compare, so she knows the spots came from her fingers",
@@ -2058,15 +1998,16 @@
   },
   {
    "t": "mcq",
-   "p": "Which of these has almost no living microbes?",
+   "p": "Why does a tiny spoon of curd set a whole katori of warm milk overnight?",
    "opts": [
-    "A spoon of curd",
-    "Water that has just boiled",
-    "A pinch of soil"
+    "The bacteria in the spoon multiply into millions",
+    "The spoon makes the milk cold",
+    "The katori is magic"
    ],
-   "a": 1,
-   "why": "Boiling kills almost all microbes. Curd and soil are full of them.",
-   "outcome": 1
+   "a": 0,
+   "why": "The few curd bacteria in the spoon split again and again all night. By morning there are millions, enough to turn the whole katori into curd.",
+   "outcome": 3,
+   "how": "e2"
   }
  ],
  "videos": [
@@ -2135,10 +2076,6 @@
   {
    "q": "Do the microbes in curd stay and live in our tummy?",
    "why_open": "Some curd bacteria are killed by stomach acid, and some get through. Scientists are still studying how long they stay and what they do there."
-  },
-  {
-   "q": "Do microbes think?",
-   "why_open": "Microbes sense, remember a little and choose what to do. Scientists argue about whether to call this thinking, because microbes have no brain."
   }
  ],
  "ask_kids": [
@@ -2147,7 +2084,7 @@
   "Why do you think we keep curd in the fridge after it sets?",
   "What would happen to the dead leaves in a park if there were no microbes?",
   "Do you think the microbes on your hands are the same kinds as the ones in the soil? How could you find out?",
-  "Why does Paati or Ammamma save a spoon of curd?"
+  "Why do many families save a spoon of curd every day?"
  ],
  "jokes": [
   {
@@ -2167,20 +2104,20 @@
    "a": "A fun-gus."
   },
   {
-   "j": "Why is a bacterium hardly ever alone?",
-   "a": "Because one bacterium soon splits into two."
-  },
-  {
-   "j": "What did one potato spot say to the other?",
-   "a": "Let's grow together."
-  },
-  {
    "j": "Why did the yeast go to the party?",
    "a": "To help everyone rise."
   },
   {
    "j": "Why is soil so popular with microbes?",
    "a": "Because it is the most down-to-earth place to live."
+  },
+  {
+   "j": "Why is curd so polite?",
+   "a": "Because it is full of culture."
+  },
+  {
+   "j": "Why was the idli batter so happy?",
+   "a": "Because it was on the rise."
   }
  ],
  "maths": [
@@ -2339,7 +2276,7 @@
    "Louis Pasteur's swan-necked flask experiments, about 1859 to 1862, against spontaneous generation.",
    "Antonie van Leeuwenhoek's letters to the Royal Society: 'animalcules' in water (1676) and in dental plaque (1683).",
    "Lactic acid bacteria (such as Lactobacillus and Streptococcus thermophilus) ferment lactose to lactic acid, which lowers the pH and makes the milk protein casein coagulate.",
-   "I. J. Bear and R. G. Thomas, 'Nature of argillaceous odour', Nature, 1964, naming petrichor. Geosmin, the main earthy odour, is made by Streptomyces and other soil bacteria, and humans detect it at a few parts per trillion.",
+   "I. J. Bear and R. G. Thomas, 'Nature of argillaceous odour', Nature, 1964, naming petrichor. Geosmin, the main earthy odour, is made by Streptomyces and other soil bacteria, and humans can smell geosmin at a few parts per trillion.",
    "A gram of fertile soil holds roughly 100 million to over a billion bacteria.",
    "Sender, Fuchs and Milo, 2016: about 1.3 bacterial cells for every human cell in the body, most of them in the gut.",
    "Bacterial chemotaxis, and quorum sensing in Vibrio species (Bonnie Bassler and others).",
@@ -2363,12 +2300,12 @@
    "what_is_life": "Most living beings on Earth are too small to see. Life is mostly tiny.",
    "what_is_this_world": "Every handle, pot of soil and katori of curd around you is full of living beings."
   },
-  "thread": "Before anything, there is one whole. From it come the many: stars, rocks, water and life. The first life on Earth was microbes, and for billions of years microbes were all the life there was. Every plant and animal, you too, came from that tiny life. The microbes on your hands are the oldest branch of the same family, still living everywhere the rest of us live.",
+  "thread": "Microbes were the first life on Earth, and for billions of years they were all the life there was. Every plant and animal, you too, came from that tiny life. So the microbes on your hands are not strangers. They are relatives who stayed small, and they live everywhere the rest of us live.",
   "teachings": [
    {
     "source": "Tattvartha Sutra, chapter 2 (Jain teaching)",
     "teaching": "Jain teachers taught that the world is full of living beings, many too small to see. Some live in earth, water and air, and have only the sense of touch. So Jain monks and nuns sweep gently and filter their water, to avoid harming them.",
-    "link": "Long before microscopes, Jain thinkers said that soil, water and air are full of tiny living beings. Our potato slices showed living beings in soil and in the air, just as they said."
+    "link": "Jain thinkers noticed life where eyes cannot see it, long before microscopes. Our potato slices also showed life in soil, on fingers and in the air that no eye could see."
    },
    {
     "source": "Chandogya Upanishad 6.12",
@@ -2398,9 +2335,9 @@
   },
   "ask": [
    "If most living beings are too small to see, what else might we be missing around us?",
-   "The microbes on your skin travel with you everywhere. Are they part of you?",
-   "Microbes were on Earth first. Do you think the Earth is more theirs than ours?"
+   "Uddalaka's son saw nothing inside the seed. Is something we cannot see always empty?"
   ],
   "art": "A child sitting cross-legged with open palms, and a soft zoom circle above one palm showing many tiny round and rod-shaped microbes."
- }
+ },
+ "playtest": "Walked through every experiment, activity, game and the curd project as a parent and child in a city flat, and checked the steps, minutes and schedules against each other. Fixed the potato test timings (boiling is done before the clock starts), took the stove out of the curd test, and corrected the curd chain count to five hand-overs. Rebuilt the card game with real answer cards and tally marks instead of a token line, sharpened the cards and rules of both games. Cut repeated questions and jokes, introduced every named child, and replaced the made-up cousin and relatives."
 }

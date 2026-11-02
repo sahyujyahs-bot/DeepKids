@@ -36,7 +36,7 @@
   {
    "term": "Mirror image",
    "meaning": "A mirror image is what you see in a mirror. It looks the same as the real thing, but flipped from side to side.",
-   "example": "Lift your right hand in front of a mirror. The hand in the mirror goes up on the same side.",
+   "example": "Lift the hand nearest the window. Your mirror image also lifts the hand nearest the window.",
    "art": "A girl lifting one hand in front of a mirror, and her mirror image lifting the hand on the same side."
   },
   {
@@ -51,7 +51,7 @@
    "concept": "Symmetry: two halves that match",
    "status": "defined",
    "definition": "A shape has symmetry when a line can cut it into two halves that match. The line is called the line of symmetry.",
-   "description": "Look at a butterfly. Draw a line down the middle of her body, from her head to the tip of her tail. Her two left wings are on one side. Her two right wings are on the other. The two sides have the same shape, the same size and the same spots. If you could fold her along that line, the two sides would meet. That is symmetry. Many things have it: a leaf, a steel spoon, the letter A, your face. Some things have no line of symmetry at all. A chappal is shaped for one foot, so no line cuts it into two matching halves.",
+   "description": "Look at a butterfly. Draw a line down the middle of her body. Her left wings and right wings have the same shape and the same spots. Fold her along that line, and the two sides would meet. That is symmetry. A leaf, a steel spoon, the letter A and your face have it. A chappal has none, because it is shaped for one foot.",
    "examples": [
     "A butterfly: the line goes down her body.",
     "A steel spoon: the line goes along it, from the tip to the end of the handle.",
@@ -66,7 +66,7 @@
    "concept": "Why a mirror shows the other half",
    "status": "defined",
    "definition": "A mirror shows a thing flipped from side to side. So if you stand a mirror on the line of symmetry, the mirror shows the other half, and you see the whole shape.",
-   "description": "In the Mirror Test, you stood a mirror on the middle line of a butterfly picture. You saw one half on the paper and one half in the mirror. The half in the mirror is the paper half, flipped. For a butterfly, the flipped half is just like her real other half, so you saw a whole butterfly. For a chappal, the flipped half is not like the other half. So the mirror made a strange new chappal, one that fits no foot. That is why a mirror is a good test for symmetry.",
+   "description": "In the Mirror Test, the mirror showed the paper half, flipped. For a butterfly, the flipped half looks just like her other half, so you saw a whole butterfly. For a chappal, the flipped half is different from the other half. So the mirror made a strange chappal that fits no foot.",
    "examples": [
     "A mirror on a butterfly's middle line shows a whole butterfly.",
     "A mirror on the letter A shows a whole A.",
@@ -80,11 +80,11 @@
    "concept": "Why butterflies, fish and people have two matching sides",
    "status": "defined",
    "definition": "Most animals that walk, swim or fly have a left side and a right side that nearly match. This helps them move straight ahead.",
-   "description": "A butterfly flaps her left wings and her right wings together. They are the same size, so they push the same amount of air on each side. That is how she flies straight to a flower, or away from a bird. If one side were much bigger, she would turn round and round. A fish has a matching fin on each side. You have a leg on each side, so you can walk in a straight line. Animals, including us, meet the world head first, with eyes, ears and nose at the front. A leaf has two halves too, one on each side of the middle vein. Both halves face the light and catch it.",
+   "description": "A butterfly flaps her left and right wings together. Wings of the same size push the same amount of air, so she can fly straight. If one wing were much smaller, she would fly crooked. A fish has a fin on each side. You have a leg on each side, so you can walk straight. We all have eyes and a nose at the front, where we are going.",
    "examples": [
     "A butterfly has two wings on the left and two on the right.",
     "A fish has a fin on each side of her body.",
-    "You have one leg on each side, so you walk straight."
+    "You have one leg on each side, so you can walk straight."
    ],
    "perspectives": [],
    "context": "This card says why so many living beings have two matching sides.",
@@ -94,7 +94,7 @@
    "concept": "Nearly, never exactly",
    "status": "defined",
    "definition": "The two halves of a living being nearly match, but never exactly. Each half grows in its own place and has its own small differences.",
-   "description": "In the Mirror Test, half a face and the mirror made a face that looked like the person, but not quite. The other half made a slightly different face again. That is because the two halves of a real face are not exactly the same. One eye may be a little higher, or one side of the smile a little wider. Inside, your heart sits a little to the left. A leaf's two halves never meet perfectly when you fold it. A butterfly may have a nick in one wing, where a bird pecked or a thorn caught. People's drawings and kolams can be made very even. Living beings are nearly even, each in their own way.",
+   "description": "In the Mirror Test, half a face and the mirror made a face that looked like the person, but not quite. That is because the two halves of a real face are not exactly the same. One eye may be a little higher, or one side of the smile a little wider. A folded leaf never meets perfectly at every edge. A butterfly may have a nick in one wing. Living beings are nearly even, each in their own way.",
    "examples": [
     "Your face: each mirror face looked a little different from the real you.",
     "A folded leaf: the two edges almost meet, but not all the way round.",
@@ -219,12 +219,12 @@
   {
    "id": "e1",
    "title": "The Mirror Test: can half a thing and a mirror make the whole?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you stand a small mirror on the middle line of different things. You guess first, then look: does half the thing and the mirror make the whole thing again?",
    "question": "Can half of a thing and a mirror show you the whole thing? Which things work, and which do not?",
    "predict": "For each thing, guess first: will half of it and the mirror make the whole thing again? Why do you think so?",
-   "fair_test": "Stand the mirror straight up every time, with its bottom edge on the line. When a thing does not work, try at least three different lines before you say no, so you are sure no line works.",
+   "fair_test": "Hold the mirror straight up every time, with its bottom edge on the line. When a thing does not work, try at least three different lines before you say no.",
    "results_table": [
     "Thing",
     "My guess",
@@ -245,7 +245,7 @@
      "qty": 1
     },
     {
-     "item": "a steel spoon and a steel tumbler",
+     "item": "a steel spoon and a flat steel plate (thali)",
      "qty": 1
     },
     {
@@ -257,7 +257,7 @@
      "qty": 1
     },
     {
-     "item": "a passport photo of someone in the family, or a phone photo of a face looking straight ahead",
+     "item": "a printed photo of a face looking straight ahead, such as a passport or school photo",
      "qty": 1
     }
    ],
@@ -265,11 +265,11 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Guess for each thing, test it with the mirror, then try a face."
+     "mins": 20,
+     "what": "Guess for each thing, test it with the mirror, try a face, then test three things of your own."
     }
    ],
-   "record": "Make two heaps on the floor, 'whole again' and 'new shape'. Then draw one thing from each heap, with a dotted line where you put the mirror.",
+   "record": "Make two heaps on the floor, 'whole again' and 'new shape'. A grown-up writes each thing's name on a scrap of paper to put in a heap. Then draw one thing from each heap, with a dotted line where you put the mirror.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -286,7 +286,7 @@
      ],
      [
       "Steel spoon",
-      "New shape",
+      "Whole",
       "Whole spoon, with the mirror along it"
      ],
      [
@@ -315,15 +315,15 @@
       "A new shape"
      ],
      [
-      "Amma's photo",
+      "Photo of a face",
       "Whole",
-      "Nearly Amma, but a bit different"
+      "Nearly the same face, but a bit different"
      ]
     ]
    },
    "setup": [
     {
-     "art": "A table with a butterfly picture, a leaf, a steel spoon, a steel tumbler, a chappal, a key, a sheet with a big A and F, a passport photo and a small hand mirror.",
+     "art": "A table with a butterfly picture, a leaf, a steel spoon, a flat steel plate, a chappal, a key, a sheet with a big A and F, a passport photo and a small hand mirror.",
      "caption": "1. Put all the things on a table, with the mirror."
     },
     {
@@ -338,11 +338,11 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
-     "do": "1. Put all the things on the table. 2. Stand the mirror straight up on the middle line of the butterfly picture. 3. Show your child how to look in from one side.",
+     "mins": 2,
+     "do": "1. Put all the things on the table. 2. Hold the mirror straight up on the middle line of the butterfly picture. 3. Show your child how to look in from one side.",
      "say": "Look into the mirror from this side. You can see half the butterfly on the paper, and something in the mirror. What do you see?",
      "kid": "Look into the mirror from one side. What do you see?",
-     "parent": "Hold the mirror straight up, with its bottom edge on the line. Your child may need to tip their head to see the paper half and the mirror together.",
+     "parent": "Hold the mirror straight up, with its bottom edge on the line. Your child may need to tip their head to see the paper half and the mirror together. For the spoon and plate, lay them flat and hold the mirror up on the middle line.",
      "ask": [
       {
        "q": "What do you see?",
@@ -355,9 +355,9 @@
     },
     {
      "id": "s2",
-     "mins": 4,
-     "do": "1. Point at each of the other things in turn. 2. Your child guesses: will half of it and the mirror make the whole thing? 3. Write a tick or a cross in the 'My guess' column. 4. Ask why.",
-     "say": "Now the leaf, the spoon, the tumbler, the chappal, the key and the letters. Will the mirror make each one whole again? Why do you think so?",
+     "mins": 3,
+     "do": "1. Point at each of the other things in turn. 2. Your child guesses: will half of it and the mirror make the whole thing? 3. A grown-up writes a tick or a cross in the 'My guess' column. 4. Ask why.",
+     "say": "Now the leaf, the spoon, the plate, the chappal, the key and the letters. Will the mirror make each one whole again? Why do you think so?",
      "kid": "Guess for each thing. Will the mirror make it whole? Why?",
      "ask": [
       {
@@ -373,8 +373,8 @@
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "1. Your child stands the mirror on each thing in turn, along the line they think is the middle. 2. If a line does not work, they try other lines. 3. They put each thing in a heap: 'whole again' or 'new shape'.",
+     "mins": 5,
+     "do": "1. Your child holds the mirror on each thing in turn, along the line they think is the middle. 2. If a line does not work, they try other lines. 3. They put each thing in a heap: 'whole again' or 'new shape'.",
      "say": "Put the mirror on the spoon. Does it look like a whole spoon? Now try the chappal. Is there any line that makes a whole chappal?",
      "kid": "Put the mirror on the spoon. Is it a whole spoon? Now try the chappal.",
      "ask": [
@@ -387,11 +387,11 @@
        ]
       }
      ],
-     "parent": "What you should see: the butterfly picture comes out whole. So do the spoon along its length, the tumbler from the side and the letter A. The leaf comes out nearly whole. The chappal, the key and the letter F never do. The mirror makes a new shape instead."
+     "parent": "What you should see: the butterfly picture comes out whole. So do the spoon along its length, the plate and the letter A. The leaf comes out nearly whole. The chappal, the key and the letter F never do. The mirror makes a new shape instead."
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 3,
      "do": "1. Lay the face photo flat. 2. Ask your child to guess. 3. They stand the mirror down the middle of the nose. 4. They look at one half with the mirror. 5. They turn the mirror round to look at the other half.",
      "say": "Will half of this face and the mirror make the same face? What do you think, and why? Let's look. Now turn the mirror round and look at the other half.",
      "kid": "Put the mirror down the middle of the nose. Is it the same face?",
@@ -401,7 +401,7 @@
        "good": [
         "Almost, but a bit different.",
         "One looks rounder and one looks thinner.",
-        "It looks like Amma's sister!"
+        "It looks like a different person, a little."
        ]
       }
      ],
@@ -409,7 +409,25 @@
     },
     {
      "id": "s5",
-     "mins": 3,
+     "mins": 5,
+     "do": "1. Your child picks three more things from around the room, such as a fork, a bangle and a book. 2. For each one, they guess, then test it with the mirror on a line they choose. 3. They put each in a heap: 'whole again' or 'new shape'.",
+     "say": "Now you choose three things from this room. Guess first: will the mirror make each one whole again? Then test it, and tell me why you think it worked or not.",
+     "kid": "Pick three things. Guess. Test with the mirror. Put each in a heap.",
+     "ask": [
+      {
+       "q": "Which of your things came out whole, and why?",
+       "good": [
+        "The bangle, because it is round and the same all round.",
+        "The book, because the two sides are the same.",
+        "The fork, along its length, but not across."
+       ]
+      }
+     ],
+     "parent": "Any ordinary object will do. Round things and things with a clear middle usually come out whole. Things with a handle or a pattern on one side only usually do not. Let your child try several lines before they say no."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
      "do": "1. Look at the two heaps together. 2. Ask your child what they found, and what they saw that shows it. 3. Ask the check question.",
      "say": "What did you find out? Which things did the mirror make whole? What did you see that tells you so?",
      "kid": "What did you find? Which things came out whole?",
@@ -579,7 +597,7 @@
      "kid": "Check with the mirror. Now you make a pattern. Find the grain in the wrong place.",
      "check": {
       "t": "mcq",
-      "q": "Farhan puts 2 chana next to the middle line on the left wing. Where should his sister put 2 chana on the right wing?",
+      "q": "Farhan puts 2 chana next to the middle line on the left wing. Where should he put 2 chana on the right wing, to match?",
       "options": [
        "Next to the middle line",
        "Far out at the edge of the wing",
@@ -589,7 +607,8 @@
       "why": "In a symmetric pattern, each grain on one side has a matching grain on the other side, the same distance from the middle line."
      }
     }
-   ]
+   ],
+   "safety": "A grown-up watches, so that no grain goes into a mouth, nose or ear. Keep the grains away from any small child."
   },
   {
    "id": "a3",
@@ -708,10 +727,10 @@
    ],
    "rules": [
     "Stand facing each other, about one big step apart.",
-    "The leader picks a move card, and does the move very slowly.",
-    "The mirror copies at the same time, on the same side, as a real mirror would.",
-    "If the leader lifts the arm on the window side, the mirror lifts the arm on the window side too.",
-    "After 5 cards, swap: the mirror becomes the leader."
+    "The leader picks a move card and does the move very slowly.",
+    "The mirror copies at the same time, on the same side as a real mirror would. If the leader lifts the arm on the window side, the mirror lifts the arm on the window side too.",
+    "After 5 cards, swap: the mirror becomes the leader.",
+    "The game ends when all 10 cards are used. There is no winner. You both do well if you moved like one person."
    ],
    "setup": [
     {
@@ -728,14 +747,14 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the move cards and put them in a pile. 2. Stand facing each other. 3. Stand together in front of a real mirror first, and lift one arm.",
-     "say": "Look in the mirror. When I lift this arm, which side does my mirror image lift? Now you will be my mirror.",
-     "kid": "Lift your arm at the mirror. Which side does your mirror image lift?",
-     "parent": "In a real mirror, the image lifts the arm on the same side as you. So when two people face each other, the mirror person uses their other hand."
+     "say": "Look in the mirror. When I lift the hand near the window, which hand does my mirror image lift? Now you will be my mirror.",
+     "kid": "Lift a hand at the mirror. Which hand does your mirror image lift?",
+     "parent": "In a real mirror, if you lift the hand nearest the window, your image lifts the hand nearest the window too. So when two people face each other, the mirror person lifts their other hand (left for right)."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. You are the leader for 5 cards. 2. Do each move slowly. 3. Then swap.",
+     "do": "1. Take turns to be the leader, 5 cards each. 2. The leader does each move slowly. 3. The other player copies like a mirror.",
      "say": "I am the leader. Copy me like a mirror, at the same time. Ready? Slowly now.",
      "kid": "Copy the leader like a mirror. Same side. Same time.",
      "ask": [
@@ -753,11 +772,11 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "When we stood like mirrors, what did our two bodies make together?",
+     "say": "If I lift the arm on the window side, which arm do you lift as my mirror? What did our two bodies make together?",
      "kid": "When you were a mirror, what did you two make together?",
      "check": {
       "t": "mcq",
-      "q": "Kavya is the leader. She lifts the arm on the window side. Her brother is the mirror, facing her. Which arm does he lift?",
+      "q": "Kavya is the leader. She lifts the arm on the window side. Her friend is the mirror, facing her. Which arm does the friend lift?",
       "options": [
        "The arm on the window side",
        "The arm on the door side",
@@ -773,8 +792,8 @@
    "id": "g2",
    "title": "Two Halves or Not? Run to a side",
    "mins": 10,
-   "players": "1 or more players and a grown-up who reads the cards.",
-   "context": "This is a running game. The grown-up reads a card. You run to the 'two halves' wall if the thing has matching halves, or to the 'no' wall if it does not.",
+   "players": "2 to 5 players. Take turns to be the reader. The reader holds the card and does not run.",
+   "context": "This is a running game. The reader reads a card. Everyone else runs to the 'two halves' wall if the thing has matching halves, or to the 'no' wall if it does not.",
    "printables": [
     {
      "kind": "cards",
@@ -798,7 +817,7 @@
       },
       {
        "f": "A hibiscus flower",
-       "b": "Two halves. Many lines work."
+       "b": "Two halves. Several lines work."
       },
       {
        "f": "The letter A",
@@ -809,7 +828,7 @@
        "b": "No. No line works."
       },
       {
-       "f": "A steel tumbler, seen from the side",
+       "f": "A flat steel plate (thali)",
        "b": "Two halves, down the middle."
       },
       {
@@ -833,11 +852,11 @@
    ],
    "rules": [
     "Choose one wall for 'Two halves' and one wall for 'No'.",
-    "The grown-up reads a card out loud.",
-    "Everyone runs to the wall they choose.",
-    "The grown-up reads the back of the card. Everyone at the right wall gets a point.",
-    "For 'nearly' cards, both walls get a point, if you can say why.",
-    "Play until all 12 cards are read."
+    "The reader reads the front of a card out loud. Everyone else runs to the wall they choose.",
+    "The reader reads the back of the card. Everyone at the right wall gets a point.",
+    "For 'nearly' cards, a player who stands in the middle and says why also gets a point.",
+    "After each card, the next player becomes the reader. With 2 players, you swap after every card.",
+    "Play until all 12 cards are read. The most points wins. If points are level, you both win."
    ],
    "setup": [
     {
@@ -853,14 +872,14 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the cards. 2. Make two signs and put them on two walls. 3. Explain the rules.",
-     "say": "I will read a thing. If it has two matching halves, run to this wall. If not, run to that wall.",
+     "do": "1. Cut out the cards. 2. Make two signs and put them on two walls. 3. Choose who reads first. 4. Explain the rules.",
+     "say": "The reader reads a thing. If it has two matching halves, run to this wall. If not, run to that wall.",
      "kid": "Listen to the card. Two halves? Run to this wall. No? Run to that wall."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Read the cards one by one. Read the back after everyone has run.",
+     "do": "Read the cards one by one. Read the back after everyone has run. Swap the reader after every card.",
      "say": "A chappal! Two halves or not? Run! Now, why did you choose that wall?",
      "kid": "Run to a wall. Then say why you chose it.",
      "ask": [
@@ -883,14 +902,14 @@
      "kid": "Which card was hardest? Why?",
      "check": {
       "t": "mcq",
-      "q": "Which of these has two matching halves?",
+      "q": "The card says 'Your face'. The back says 'Nearly two halves, never exactly'. Why does it say 'nearly'?",
       "options": [
-       "The letter A",
-       "The letter F",
-       "A question mark"
+       "The two sides of a face are close but never exactly the same",
+       "A face has no middle",
+       "A face has three sides"
       ],
       "a": 0,
-      "why": "A line down the middle of an A cuts it into two halves that match. No line does that for an F or a question mark."
+      "why": "In the Mirror Test, the mirror face looked like the person, but not quite. Faces nearly match, never exactly."
      }
     }
    ]
@@ -949,7 +968,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Make the book. 2. Put the leaf under the first page, bumpy side up. 3. Your child rubs over it with the side of a crayon until the shape and veins show. 4. They draw a line down the middle vein.",
+     "do": "1. A grown-up folds the sheets and ties them with thread to make the book. 2. Put the leaf under the first page, bumpy side up. 3. Your child rubs over it with the side of a crayon until the shape and veins show. 4. They draw a line down the middle vein.",
      "say": "Rub gently with the side of the crayon. Watch the leaf appear! Now draw a line down the middle. Do the two halves look the same?",
      "kid": "Rub with the side of the crayon. Watch the leaf appear. Draw a line down the middle.",
      "parent": "The back of a leaf has bumpier veins, so it gives a clearer rubbing. Hold the leaf still with one hand."
@@ -990,7 +1009,7 @@
    "title": "The Balancing Butterfly",
    "mins": 15,
    "context": "This is a making challenge. You cut a paper butterfly and try to balance her on a pencil, along her middle line.",
-   "problem": "Nila wants to make a paper butterfly that balances on a pencil laid along her body. When does the butterfly balance, and when does she tip over?",
+   "problem": "Nila, a girl in Class 1, wants to make a paper butterfly that balances on a pencil laid along her body. When does the butterfly balance, and when does she tip over?",
    "constraints": [
     "Use one piece of card or thick paper.",
     "The pencil must lie under the butterfly's middle line, from head to tail."
@@ -998,18 +1017,19 @@
    "materials": [
     "a piece of thin card, such as an old greeting card or the side of a box",
     "scissors",
-    "a pencil",
-    "2 paper clips"
+    "a pencil that does not roll, with flat sides (or a round pencil with tape at both ends)",
+    "2 paper clips",
+    "a bit of tape"
    ],
    "general": [
     "Fold the card in half and cut half a butterfly against the fold. When you open it, both wings are the same.",
-    "A butterfly with matching wings balances on the pencil along her middle line.",
+    "Bend the wings down a little, like a tent. A butterfly with matching wings balances on the pencil along her middle line.",
     "If one side is heavier, she tips towards that side."
    ],
    "creative": [
     "Add a paper clip to one wing, and watch her tip. Then add one to the other wing in the same place.",
     "Cut a bit off one wing on purpose. What must you do to the other wing to make her balance again?",
-    "Bend the wings down a little, like a tent. Does she balance more easily?"
+    "Bend the wings down more, like a tent. Does she balance more easily?"
    ],
    "your_turn": "Make your butterfly balance with two paper clips on her. Where did you put them? Why does that work?",
    "setup": [
@@ -1031,14 +1051,14 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Read the problem to your child. 2. Fold the card in half. 3. Your child draws half a butterfly against the fold and cuts along the line. 4. Open the card.",
-     "say": "Nila wants a butterfly that balances on a pencil. Let's fold the card and cut half a butterfly against the fold. What will we have when we open it?",
+     "say": "We will make a butterfly that balances on a pencil. Let's fold the card and cut half a butterfly against the fold. What will we have when we open it?",
      "kid": "Fold the card. Draw half a butterfly by the fold. Cut it out. Open it.",
      "parent": "Help with the cutting if the card is thick. Keep the fold uncut, or the wings will come apart."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Lay the pencil on the table. 2. Your child rests the butterfly on the pencil, with the fold along the pencil. 3. Then they add a paper clip to one wing, and then to the other.",
+     "do": "1. Lay the pencil on the table. If it is round, tape both ends to the table. 2. Your child bends the wings down a little, like a tent. 3. They rest the butterfly on the pencil, with the fold along the pencil. 4. Then they add a paper clip to one wing, and then to the other.",
      "say": "Put her on the pencil, along the fold. Does she balance? Now put a paper clip on one wing. What do you think will happen? Why?",
      "kid": "Put her on the pencil along the fold. Does she balance? Now add a clip to one wing.",
      "ask": [
@@ -1083,7 +1103,7 @@
    "items": [
     {
      "t": "match",
-     "p": "Draw a line from each thing to its line of symmetry.",
+     "p": "A grown-up reads the choices. Draw a line from each thing to its line of symmetry.",
      "pairs": [
       [
        "A butterfly",
@@ -1114,17 +1134,6 @@
      "art": "Half a butterfly with three spots on her wings, drawn to the left of a dotted vertical line, with the right side blank."
     },
     {
-     "t": "mcq",
-     "p": "Circle the thing that has two matching halves.",
-     "opts": [
-      "A steel plate",
-      "A chappal",
-      "Your hand"
-     ],
-     "a": 0,
-     "why": "A line across the middle of a round steel plate cuts it into two matching halves. A chappal is shaped for one foot, and a hand has the thumb on one side only."
-    },
-    {
      "t": "truefalse",
      "p": "A real butterfly's two sides match exactly, with no tiny differences at all.",
      "a": false,
@@ -1147,7 +1156,7 @@
        "No matching halves"
       ],
       [
-       "A steel tumbler",
+       "A flat steel plate",
        "Two matching halves"
       ],
       [
@@ -1164,7 +1173,7 @@
       ]
      ],
      "a": "see items",
-     "why": "In the Mirror Test, the A, the tumbler and the leaf came out whole. The F, the key and the chappal made new shapes.",
+     "why": "In the Mirror Test, the A, the plate and the leaf came out whole. The F, the key and the chappal made new shapes.",
      "how": "e1"
     },
     {
@@ -1200,11 +1209,11 @@
      "opts": [
       "The letter A",
       "A butterfly",
-      "A steel tumbler",
+      "A flat steel plate",
       "The letter F"
      ],
      "a": 3,
-     "why": "No line cuts the letter F into two matching halves. The A, the butterfly and the tumbler each have a line of symmetry."
+     "why": "No line cuts the letter F into two matching halves. The A, the butterfly and the plate each have a line of symmetry."
     },
     {
      "t": "draw",
@@ -1218,6 +1227,17 @@
      "p": "Count a butterfly's wings. She has two on the left and two on the right. How many wings does she have in all?",
      "a": 4,
      "why": "Two on the left and two on the right make 4. The two sides match, so each side has the same number."
+    },
+    {
+     "t": "mcq",
+     "p": "Sunita folds a paper in half and cuts a shape on the fold. She opens the paper. What does she see?",
+     "opts": [
+      "A shape with two matching halves",
+      "A shape with no middle",
+      "Two different shapes"
+     ],
+     "a": 0,
+     "why": "The two halves were cut together, so they match. The fold becomes the line of symmetry."
     }
    ]
   },
@@ -1252,14 +1272,7 @@
       "A new shape, not a flower"
      ],
      "a": 0,
-     "why": "A hibiscus flower has two matching halves on each side of a line through her centre. So the mirror shows the other half, and she sees a whole flower."
-    },
-    {
-     "t": "write",
-     "p": "Say it out loud, and a grown-up writes it down: why does a butterfly need her left wings and right wings to match?",
-     "lines": 2,
-     "a": "So both sides push the same air when she flaps, and she flies straight to the flower. If one side were bigger, she would turn round and round.",
-     "why": "A strong answer links matching wings to flying straight."
+     "why": "A hibiscus flower has two matching halves on each side of a line through the flower's centre. So the mirror shows the other half, and she sees a whole flower."
     },
     {
      "t": "label",
@@ -1336,6 +1349,12 @@
      ],
      "a": "pairs as given",
      "why": "All three ways make a second half that matches the first, flipped over. A strong answer can say which way made the most exact copy."
+    },
+    {
+     "t": "truefalse",
+     "p": "A paper kite with one side much bigger than the other flies straight.",
+     "a": false,
+     "why": "False. The bigger side catches more wind and pulls the kite round. A kite needs two matching sides to fly straight."
     }
    ]
   }
@@ -1404,19 +1423,6 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi tries the mirror on a chappal, along many different lines. What does she find?",
-   "opts": [
-    "No line makes a whole chappal",
-    "Every line makes a whole chappal",
-    "Only the line across the middle works"
-   ],
-   "a": 0,
-   "why": "A chappal is shaped for one foot, so its halves never match. The mirror always makes a new shape.",
-   "outcome": 2,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "Are the two sides of your face exactly the same?",
    "opts": [
     "Nearly, but not exactly",
@@ -1430,18 +1436,6 @@
   },
   {
    "t": "mcq",
-   "p": "How many wings does a butterfly have?",
-   "opts": [
-    "Four: two on each side",
-    "Two: one on each side",
-    "Six: three on each side"
-   ],
-   "a": 0,
-   "why": "A butterfly has two wings on the left and two on the right. Each side matches the other.",
-   "outcome": 3
-  },
-  {
-   "t": "mcq",
    "p": "Why does a butterfly need her two sides to match?",
    "opts": [
     "So both sides push the same air, and she flies straight",
@@ -1449,7 +1443,7 @@
     "So she stays warm at night"
    ],
    "a": 0,
-   "why": "Matching wings push the same amount of air on each side. If one side were bigger, she would turn round and round.",
+   "why": "Matching wings push the same amount of air on each side. If one side were much smaller, she would fly crooked.",
    "outcome": 4
   },
   {
@@ -1464,6 +1458,30 @@
    "why": "Rubbing copies the drawing onto the other half, flipped like a mirror image. Together the two halves make a whole flower.",
    "outcome": 5,
    "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "What do we call the middle line where a shape folds into two matching halves?",
+   "opts": [
+    "The line of symmetry",
+    "The edge",
+    "The corner"
+   ],
+   "a": 0,
+   "why": "Fold a shape along its line of symmetry, and the two halves match.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A bird pecked a small piece out of one wing of a butterfly. Do her two sides still nearly match?",
+   "opts": [
+    "Yes, nearly, but now one side is a little different",
+    "No, they are completely different",
+    "Yes, exactly the same"
+   ],
+   "a": 0,
+   "why": "Real butterflies nearly match, never exactly. A nick makes one small difference, and the rest of the wings still match.",
+   "outcome": 3
   }
  ],
  "videos": [
@@ -1560,10 +1578,6 @@
    "a": "Because it never found its matching half!"
   },
   {
-   "j": "What did the leaf say when it was folded in half?",
-   "a": "Nearly a perfect match!"
-  },
-  {
    "j": "Why did half a dosa go to the mirror?",
    "a": "To feel like a whole dosa again!"
   },
@@ -1594,7 +1608,7 @@
    "why_maths": "Halving shows how many parts are on each side of the line of symmetry."
   },
   {
-   "problem": "In the Mirror Test, Nila tested 8 things. 5 came out whole again, and 3 made new shapes. Make a tally. Which heap was bigger, and by how many?",
+   "problem": "In the Mirror Test, Nila, a girl in Class 1, tested 8 things. 5 came out whole again, and 3 made new shapes. Make a tally. Which heap was bigger, and by how many?",
    "answer": "The 'whole again' heap was bigger, by 2.",
    "explain": "Draw 5 strokes for 'whole again' and 3 strokes for 'new shape'. Match them up one by one. 2 strokes in the first heap have no partner, so it is bigger by 2.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1603,8 +1617,8 @@
    "why_maths": "A tally shows at a glance which heap is bigger, so you can compare what you found."
   },
   {
-   "problem": "In the Dal Butterfly, Gurpreet puts 3 rajma and 4 moong on the left wings. Her brother must make the right wings match. How many grains does he need? How many grains are on the butterfly in all?",
-   "answer": "He needs 7 grains: 3 rajma and 4 moong. There are 14 grains in all.",
+   "problem": "In the Dal Butterfly, a girl puts 3 rajma and 4 moong on the left wings. Her partner must make the right wings match. How many grains does the partner need? How many grains are on the butterfly in all?",
+   "answer": "The partner needs 7 grains: 3 rajma and 4 moong. There are 14 grains in all.",
    "explain": "To match, the right side needs the same as the left: 3 and 4 make 7. Both sides together are 7 and 7, which make 14.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "a2",
@@ -1720,7 +1734,7 @@
   "ask": [
    "If you saw only your left half in a mirror, would you know what your right half looks like?",
    "A butterfly's two sides match. Is she one pattern made twice, or two patterns that agree?",
-   "Why do you think most beings that walk, swim or fly have a left side and a right side?"
+   "When you breathed with a hand on each side of your chest, did both sides move the same?"
   ],
   "art": "A child sitting cross-legged with one hand on each side of her chest, eyes closed, and a butterfly with matching wings resting on a plant beside her."
  },
@@ -1796,5 +1810,6 @@
    "The heart's position left of the midline; left-right patterning in the early embryo is still being studied.",
    "The Taj Mahal is symmetric, except that Shah Jahan's cenotaph sits beside Mumtaz Mahal's, off the centre line."
   ]
- }
+ },
+ "playtest": "Walked through every game, activity, experiment, project and challenge as a parent and a six-year-old would in a flat, and wrote out all 10 move cards and 12 thing cards. Made both games work for 2 players and more (turns, an ending, a winner, a check that fits), lengthened the Mirror Test to 20 minutes with three things of the child's own, and made the Balancing Butterfly work with a pencil that cannot roll. Removed family members assumed in steps, a mistaken ears-at-the-front line, a chappal quiz question and a wings-count question that repeated other items, a butterfly worksheet question that repeated the quiz, and one weak joke."
 }

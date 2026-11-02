@@ -1,4 +1,4 @@
-# Our five senses: what reaches us from far, and what we must touch
+# Our five senses: which work from far away, and which need touching
 `sci.senses.five-senses.L1`
 
 **Summary.** You can smell an orange from a few steps away, but you can taste the orange only when it touches your tongue. We have five senses: seeing, hearing, smelling, tasting and touching. Each one has its own sense organ: eyes, ears, nose, tongue and skin. Your child finds which senses work from across the room and which need touching. They find out that when they smell something, tiny bits of it have floated into their nose.
@@ -22,26 +22,26 @@
 ### Five senses, five sense organs · *defined*
 **Definition:** We have five main senses: seeing, hearing, smelling, tasting and touching. Each one has a sense organ: eyes, ears, nose, tongue and skin.
 
-Your eyes tell you colours and shapes. Your ears tell you sounds. Your nose tells you smells. Your tongue tells you tastes, like sweet, sour, salty and bitter. Your skin tells you if a thing is hard or soft, warm or cold. Each sense organ sends messages to your brain, and then you know. You have more senses than these five, like the sense that keeps your balance. You will meet them later.
+Your eyes tell you colours and shapes. Your ears tell you sounds. Your nose tells you smells. Your tongue tells you tastes: sweet, sour, salty and bitter. Your skin tells you if a thing is hard or soft, warm or cold. Each sense organ sends messages to your brain, and then you know.
 - e.g. Eating a dosa, you see it is golden, hear it crunch, smell the ghee, taste the salt and feel that it is hot.
 - e.g. Your skin covers all of you, so you can feel a touch on your toes, your back and your nose.
 - e.g. Spinning round and round makes you dizzy. That is your sense of balance, one of your other senses.
 ### Some senses reach far, some need touching · *defined*
 **Definition:** Seeing, hearing and smelling can tell you about a thing far away. Tasting and touching work only when the thing touches you.
 
-Light travels from a thing to your eyes, so you can see a kite high in the sky. Sound travels through the air to your ears, so you hear a bell from the next street. Tiny bits of a thing float through the air to your nose, so you smell food cooking in another room. But to taste a mango, the mango must be on your tongue. To feel if a stone is smooth, your skin must touch it.
+Light bounces off a kite into your eyes, so you can see it high in the sky. Sound travels through the air to your ears, so you hear a bell from the next street. Tiny bits of food float through the air to your nose, so you smell cooking in another room. But to taste a mango, the mango must be on your tongue. To feel if a stone is smooth, your skin must touch it.
 - e.g. From the balcony you see a crow on the next building, and hear her caw.
 - e.g. The smell of Onam payasam comes out of the kitchen before anyone brings it to you.
 - e.g. You only know if the payasam is sweet when it is in your mouth.
 ### When you smell a thing, a little of it is in your nose · *defined*
 **Definition:** A smell is tiny bits of a thing, floating in the air. They are far too small to see. When they reach your nose, you smell the thing.
 
-When you peel an orange, tiny drops of oil spray out of the peel. Tiny bits from that oil float through the air. Some of them go into your nose when you breathe in. Inside your nose are smell catchers. They catch the bits, and send a message to your brain: orange! The closer you are, the more bits reach you. That is why a smell is stronger near the plate. A fan or a breeze carries the bits further and faster.
+When you peel an orange, tiny drops of oil spray out of the peel. Tiny bits of that oil float through the air. Some go into your nose when you breathe in. Inside your nose are smell catchers. They catch the bits and send a message to your brain: orange! The closer you are, the more bits reach you. A fan or a breeze carries the bits further.
 - e.g. In the Smell Steps test, you smelled the peeled orange a few steps away, with your eyes shut.
 - e.g. Jasmine in someone's hair can be smelled before they come into the room.
 - e.g. A breeze through the window brings the smell of rain on hot ground.
 ### Every living being senses the world in their own way · *debated*
-Humans and other animals all have senses, but not the same ones. A dog can follow the smell of one person's footsteps along a road. An ant smells with her feelers, the two thin threads on her head. A housefly tastes with her feet. A snake flicks out his tongue to pick up smells from the air. Plants sense too. A touch-me-not plant folds their leaves when you touch them. Every living being senses and feels the world. Scientists agree that all these beings sense. They argue about what each one feels.
+Humans and other animals all have senses, but not the same ones. A dog can follow the smell of one person's footsteps along a road. An ant smells with her feelers, the two thin threads on her head. A housefly tastes with their feet. A snake flicks out their tongue to pick up smells from the air. Plants sense too. A touch-me-not plant folds their leaves when you touch them. Every living being senses and feels the world. Scientists agree that all these beings sense. They argue about what each one feels.
 - e.g. Ants walk in a line because they follow a smell trail left by other ants.
 - e.g. In 2006, Consuelo De Moraes and her team showed that a climbing plant called dodder grows towards the smell of a tomato plant.
 - e.g. In Mumbai, the scientists Veronica Rodrigues and Obaid Siddiqi studied how fruit flies smell and taste.
@@ -55,12 +55,12 @@ Humans and other animals all have senses, but not the same ones. A dog can follo
 
 ## How we found out
 **Paul Broca, a French doctor; a team at the University of California, Berkeley; John McGann, an American brain scientist; Linda Buck and Richard Axel, American scientists, From the late 1800s to 2017.** In the late 1800s, a French doctor named Paul Broca studied the brains of humans and other animals. He saw that the part of the human brain used for smell is small next to the rest of the brain. So he put humans in a group of animals with a weak sense of smell. For more than a hundred years, books repeated that people smell poorly. In 2007, scientists at the University of California, Berkeley, tested this. They laid a trail of chocolate smell across a grassy field. People wore blindfolds and earmuffs, and crawled with their noses near the ground, like dogs. Most of them followed the trail, and they got faster with practice. In 2017, the scientist John McGann looked at all the evidence and called the weak human nose a myth. Earlier, in 1991, Linda Buck and Richard Axel had found the genes for the smell catchers inside the nose. Humans have about 400 kinds. Buck and Axel won the Nobel Prize for this in 2004.  
-*What people believed before:* People have a weak sense of smell, much weaker than other animals.
+*What people believed before:* People have a poor sense of smell.
 
 ## Challenging perspectives
-- **People have a weak sense of smell, much weaker than other animals.** (A French doctor, Paul Broca, in the 1800s, and many books after him; *rejected*)  
+- **People have a poor sense of smell.** (A French doctor, Paul Broca, in the 1800s, and many books after him; *rejected*)  
   For: Dogs can smell many things we miss, and the smell part of the human brain is small compared with the whole brain.  
-  Against: In 2007, blindfolded people followed a trail of chocolate smell across a field, sniffing like dogs. Humans are very good at some smells, sometimes better than dogs.
+  Against: In 2007, blindfolded people followed a chocolate smell trail across a field, sniffing like dogs. People have about 400 kinds of smell catchers and can tell many smells apart.
 - **You taste sweet only at the tip of your tongue, and bitter only at the back.** (A 'tongue map' that was printed in school books for many years; *rejected*)  
   For: The map came from a German study in 1901, and was copied again and again.  
   Against: Every part of your tongue that has taste buds can taste sweet, sour, salty and bitter. Put a little sugar on the side of your tongue, and you taste sweet there too.
@@ -77,29 +77,29 @@ We have tested our five senses, and found which ones reach far and which need to
 
 - *who am i:* You are a body full of senses. Your eyes, ears, nose, tongue and skin bring the world to you all day.
 - *what is life:* Every living being senses the world. An ant smells with her feelers, and a plant feels a touch.
-- *what is this world:* The world keeps sending things to you: light to your eyes, sound to your ears, and tiny bits of itself to your nose.
+- *what is this world:* Light goes to your eyes, sound goes to your ears, and tiny bits of things go to your nose.
 
-An orange sits on a plate, and you stand across the room. Yet tiny bits of the orange float over and become part of the air you breathe in. Everything is conscious, and every being meets the world through their own senses. The world and the one who senses it are always meeting, one breath at a time.
+You stand across the room from an orange, and still you smell it. Tiny bits of the orange float through the air into your nose. Light and sound also reach you from far away. Every being meets the world through their own senses, and what each one senses is different.
 
 - **Chandogya Upanishad 6.13:** A teacher, Uddalaka, asks his son to put salt in water overnight. In the morning the salt cannot be seen. But when the son sips from the top, the middle and the bottom, the water is salty everywhere. (Your eyes could not see the salt, but your tongue found it. In the Smell Steps test, your eyes could not see the bits of orange in the air, but your nose found them.)
-- **Kabir, a doha often quoted as 'Kasturi kundal basai':** The musk deer smells the sweet smell of musk and runs through the forest looking for it. But the musk is in the deer's own body. (A smell can seem to come from far away. Kabir uses this to say that what we look for far away may be very close to us. Your nose found the orange's smell before you reached the orange.)
+- **Kabir, a doha often quoted as 'Kasturi kundal basai':** The musk deer smells the sweet smell of musk and runs through the forest looking for it. But the musk is in the deer's own body. (In the poem, the deer follows a smell. A real smell is also tiny bits of a thing carried by the air, as you found with the orange.)
 - **Buddhist teaching of the six sense bases (Salayatana Samyutta, Samyutta Nikaya 35):** The Buddha spoke of six senses: seeing, hearing, smelling, tasting, touching, and the mind, which knows thoughts. (We found five senses with sense organs. This teaching adds the mind as a sixth sense, which knows what the other five bring.)
 - Science (settled): A smell is made of tiny particles, called molecules, that float from a thing through the air. Smell catchers in the nose, called receptors, catch them.
 - Science (debated): How many smells people can tell apart is still argued about. Guesses go from thousands to more than a trillion.
 - Other view, Many brain scientists: The tiny bits from the orange are only chemicals. They have no smell until a nose and a brain meet them. So for these scientists, the smell of orange is made inside you, not in the orange.
-- Practice, One slow sniff (3 min): Hold a curry leaf or a piece of orange peel. Close your eyes. Breathe out slowly. Now breathe in slowly through your nose, and feel the smell come in. Breathe out. Do it two more times. Tiny bits of the leaf are now inside you. Where does the leaf end?
-- Ask: When you smell rain, is a little of the rain inside you?
-- Ask: Is the smell in the orange, or in you, or in both?
+- Practice, One slow sniff (3 min): Hold a curry leaf or a piece of orange peel. Close your eyes. Breathe out slowly. Now breathe in slowly through your nose, and feel the smell come in. Breathe out. Do it two more times. Tiny bits of the leaf are now inside your nose.
+- Ask: When you smell the ground after rain, is a little of the ground inside your nose?
+- Ask: If you smell jasmine in a friend's hair, what has travelled from her hair to you?
 - Ask: What would the world be like if you could smell as well as a dog?
 
 ## Deep and big questions
 - *deep:* You smelled the orange from a few steps away. Is the smell in the orange, or in you? (hint: The bits came from the orange. The smell happened when they reached your nose. Can there be a smell with no nose?)
 - *deep:* Why can you see the orange from far away, but taste the orange only when it touches you? (hint: Think about what travels from the orange to your eyes, and to your nose. Does anything travel to your tongue?)
 - *big:* A dog smells many things we miss. Is the dog's world full of smells we never meet? (hint: Think about what a dog does on a walk, and how long the dog sniffs one spot.)
-- *big:* If you could have one new sense, what would you want to find out about the world? (hint: Snakes sense warmth from far away. Birds find their way home across the sea. What would you choose?)
+- *big:* If you could have one new sense, what would you want to find out about the world? (hint: Some snakes sense the warmth of a mouse in the dark. Many birds find their way home across the sea. What would you choose?)
 
 ## Story: Ammamma's Nose
-*Kochi is a city in Kerala. Banana chips fried in coconut oil are a Kerala snack. 'Meen' means fish in Malayalam. Ammu, Ammamma, Fatima, Lakshmi and Kannan are made up.*
+*Kochi is a city in Kerala. Banana chips fried in coconut oil are a Kerala snack. 'Meen' means fish in Malayalam. Ammu, Ammamma, Fatima and Lakshmi are made up.*
 
 Ammu was six. She lived on the third floor of a block of flats in Kochi, with her grandmother. Everyone called her grandmother Ammamma.
 
@@ -145,8 +145,6 @@ Ammu held the chip. It felt warm and hard. She looked at it. It was round and ye
 
 Ammu thought. 'My nose. From all the way upstairs. My tongue had to wait till the chip was in my mouth.'
 
-That evening, Ammu's little cousin Kannan came over. He was five. Ammu taught him the game. 'Close your eyes,' she said. 'Now, what is cooking?' Kannan sniffed. 'Something with ghee!' 'Yes. And what is that sound?' 'The fan!'
-
 At night the lights went out for a while, as they sometimes did in the rain. The flat was dark. But Ammu smelled the jasmine flowers in Ammamma's hair. She knew Ammamma was close, even before Ammamma's hand found hers.
 
 **For the parent:** For the parent: Ammu finds that a smell is tiny bits of a thing that travel to us, so her nose knew about the chips long before her tongue could. She also sees that Ammamma, whose eyes are weak, knows a great deal through her other senses.
@@ -158,13 +156,13 @@ At night the lights went out for a while, as they sometimes did in the rain. The
 
 ## Games
 ### g1 · Hop to the Sense: which body part tells you? (12 min)
-- **rules:** Put the five big sense cards on the floor, a big step apart.; The caller reads one thing card out loud.; The player hops onto the sense card that would tell them about that thing.; If more than one sense would tell you, put one foot on one card and one hand on another.; The caller reads the back of the card. If the player found one of the right senses, they get a point.; A grown-up whispers the cards to a caller who cannot read yet.
+- **rules:** Put the five big sense cards on the floor, a big step apart.; Shuffle the 16 thing cards into a pile. The caller reads the top card out loud.; The player whose turn it is hops onto the sense card that would tell them about that thing.; If more than one sense would tell you, put one foot on one card and one hand on another.; The caller reads the back of the card. If the player found one of the right senses, they get a point.; Players take turns, one card each. When the pile is finished, count the points. The most points wins. If you play alone, try to beat your own points next time.; Then swap: the caller hops, and a player becomes the caller. A grown-up whispers the cards to a caller who cannot read yet.
 - **Printable cards: 5 big sense cards for the floor:** EYES: seeing; EARS: hearing; NOSE: smelling; TONGUE: tasting; SKIN: touching
 - **Printable cards: 16 thing cards for the caller:** A rainbow in the sky (back: Eyes); A pressure cooker whistle (back: Ears); Jasmine flowers (back: Nose); A spoon of sugar in your mouth (back: Tongue); A soft kitten (back: Skin); A crow cawing on the balcony (back: Ears and eyes); A hot cup of tea (back: Skin, nose and tongue); Rain on the window (back: Ears and eyes); A lemon cut in half (back: Eyes, nose and tongue); A rough coconut shell (back: Skin and eyes); A temple bell (back: Ears); Cold water on your feet (back: Skin); Fresh dosa on the tawa (back: Nose, ears and eyes); Bitter karela (back: Tongue); The smell of rain on hot ground (back: Nose); A mango (back: All five senses can tell you something)
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay the five sense cards on the floor, a big step apart. 2. Point to each one with your child and touch that part of your body.  
-  *Parent says:* These cards are your five senses. Touch your eyes. Now your ears. Now your nose. Stick out your tongue. Now stroke the skin on your arm.  
-  *Child mode:* Look at the five cards. Touch your eyes, ears, nose, tongue and skin.
+  *Parent does:* 1. Lay the five sense cards on the floor, a big step apart. 2. Read each card to your child.  
+  *Parent says:* These cards are your five senses. Which part of your body goes with each card?  
+  *Child mode:* Look at the five cards. Which part of your body goes with each?
 - **s2 (8 min)**  
   *Parent does:* 1. Mix the thing cards. 2. Read one at a time. 3. Your child hops onto a sense card. 4. Read the back.  
   *Parent says:* A temple bell. Which sense tells you about a bell? Hop onto it!  
@@ -172,12 +170,12 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   - Ask: A mango! Which senses can tell you about a mango? (good: Eyes see it is yellow.; Nose smells it.; Tongue tastes it is sweet.; Skin feels it is smooth.; Ears hear the slurp!)
   - Note: Many things use more than one sense. Praise any sense that really works, and ask 'Any more?'
 - **s3 (2 min)**  
-  *Parent does:* Ask the check question. Then let your child be the caller for one round.  
+  *Parent does:* Ask the check question. Then let your child be the caller for one round, and you hop.  
   *Parent says:* Now you be the caller, and I will hop.  
   *Child mode:* Now you read a card. A grown-up hops.
-  - Check: Which sense organ tells you that cold water is cold? → **Your skin**
+  - Check: A friend whispers a secret to you. Which sense organ do you use? → **Your ears**
 ### g2 · Guess the Home Sound: ears only (12 min)
-- **rules:** The listener sits and closes their eyes.; The sound maker picks a card, makes that sound once, and asks 'What was that?'; The listener guesses. The sound maker reads the back of the card.; A right guess gets a tick. Swap jobs after six sounds.; A grown-up reads the cards to a sound maker who cannot read yet.
+- **rules:** The listener sits and closes their eyes. With more than two players, everyone except the sound maker listens, and each listener keeps their own score sheet.; The sound maker picks a card, makes that sound once, and asks 'What was that?'; The listener guesses. The sound maker reads the back of the card.; A right guess gets a tick. After the sound maker has made six sounds, put all 12 cards back, shuffle, and swap jobs, so everyone is the sound maker once. With 4 players, that is four turns of six sounds.; At the end, count the ticks. The most ticks wins, or everyone tries to beat their own ticks next time.; A grown-up reads the cards to a sound maker who cannot read yet.
 - **Printable cards: 12 sound cards for the sound maker:** Pour water from a jug into a steel tumbler. (back: Pouring water); Tear a sheet of newspaper slowly. (back: Tearing paper); Stir a spoon round inside a steel tumbler. (back: A spoon in a tumbler); Shake a closed dabba with a little rice in it. (back: Rice in a dabba); Clap your hands twice. (back: Clapping); Close a door gently. (back: A door closing); Brush your hair with a comb near the listener. (back: Combing hair); Bite into an apple or a carrot. (back: Biting a fruit); Open and shut a zip on a bag. (back: A zip); Bounce a ball on the floor three times. (back: A bouncing ball); Rub your palms together fast. (back: Rubbing hands); Put on and take off a bangle or a steel bracelet. (back: Bangles)
 - **Printable score sheet: Score sheet: tick for a right guess:** Round 1; Round 2; Round 3; Round 4; Round 5; Round 6
 - **s1 (1 min)**  
@@ -185,10 +183,10 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   *Parent says:* Close your eyes. Your ears are going to do all the work. Ready?  
   *Child mode:* Close your eyes. Only your ears can help you now.
 - **s2 (9 min)**  
-  *Parent does:* 1. Make the sound on one card. 2. Ask what it was. 3. Read the back. 4. Tick the score sheet. 5. After six sounds, swap jobs.  
+  *Parent does:* 1. Make the sound on one card. 2. Ask what it was. 3. Read the back. 4. Tick the score sheet. 5. After six sounds, shuffle the cards and swap jobs.  
   *Parent says:* What was that sound? What do you think made it? Why do you think so?  
   *Child mode:* Listen. What made that sound? Say why you think so.
-  - Ask: How did you know it was water? (good: It sounded splashy.; It went higher and higher as the tumbler filled.)
+  - Ask: How did you know what made the sound? (good: It sounded splashy, like water.; It was a crunch, like biting an apple.)
   - Note: Ask for the reason, not only the guess. 'It was splashy' is the start of good listening.
 - **s3 (2 min)**  
   *Parent does:* Talk about which sounds were easy and which were hard.  
@@ -197,48 +195,54 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   - Check: The listener's eyes were shut. Which sense organ found the sounds? → **The ears**
 
 ## Experiments
-### e1 · Smell Steps: how close must you come to smell an orange? (25 min)
+### e1 · Smell Steps: how close must you come to smell an orange? (20 min)
 - **question:** From across the room, which senses can tell you about an orange? How close must you come to smell the orange?
 - **predict:** Guess first. Standing far away, will you see the orange? Hear it? Smell it? Taste it? Feel it? How many steps will you take before you smell it? Why do you think so?
 - **fair test:** Every round starts at the same line, with the same small steps and three sniffs at each step. The fan is off and the windows are shut, so moving air does not help one round more than another. In one round the plate is empty. That shows whether you really smell something, or are only guessing.
 - **safety:** The child walks with their eyes shut, so clear toys and wires off the floor first. A grown-up walks right beside them.
-- **record:** Draw the five sense organs in a row. Under each, draw a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange.
-- **results table:** Round | What was on the plate | Steps I took before I smelled something
-- **s1 (3 min)**  
+- **record:** Draw the five sense organs in a row. Under each, draw a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.
+- **results table:** Round | What was on the plate | Steps before I smelled something
+- **s1 (2 min)**  
   *Parent does:* 1. Switch off the fan and shut the windows. 2. Put a whole orange on a steel plate on a low table. 3. Mark a start line six small child steps from the table. 4. Clear the floor between.  
   *Parent says:* We are going to test your senses. Here is an orange on a plate. You will stand back here, at this line.  
   *Child mode:* Look at the orange on the plate. Now stand on the start line.
   - Note: Keep the second plate empty and out of sight in the kitchen. Do not peel the orange yet. Your hands must not smell of orange for the empty round.
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* Ask your child to guess for each sense, from the start line. Write their guesses down.  
   *Parent says:* From this line, which of your senses can tell you about the orange? Can you see it? Hear it? Smell it? Taste it? Feel it? Why do you think so?  
   *Child mode:* Guess. From here, can you see the orange? Hear it? Smell it? Taste it? Feel it? Why?
   - Ask: Why do you think so? (good: I can see it, because it is in front of me.; I can't taste it, because it is not in my mouth.; Maybe I can smell it, because smells come out of the kitchen.)
   - Note: Any guess is fine. Do not say what will happen.
-- **s3 (4 min)**  
+- **s3 (2 min)**  
   *Parent does:* 1. Your child looks at the orange from the line. 2. Tap the plate twice with the steel spoon. 3. Ask about each sense. 4. Tick or cross each one.  
   *Parent says:* Can you see the orange from here? Now listen. Did you hear the plate? Can you smell the orange? Can you taste it, or feel it?  
   *Child mode:* Look at the orange. Listen to the spoon. Can you smell it, taste it, or feel it?
   - Ask: Which senses worked from the line? (good: My eyes saw it.; My ears heard the spoon on the plate.; I can't smell it yet.)
-  - Note: A whole orange gives off very little smell, so most children smell nothing from the line. That is a good result. Tasting and touching need contact, so they get a cross.
-- **s4 (4 min) · grown-up needed**  
+  - Note: A whole orange gives off little smell, so many children smell nothing from the line. Whatever your child finds is a real result. Tasting and touching need contact, so they get a cross.
+- **s4 (3 min) · grown-up needed**  
   *Parent does:* 1. Your child covers their eyes. 2. Quietly swap the orange for the empty plate, and take the orange to the kitchen. 3. Your child takes one small step at a time, and sniffs three times at each step. 4. Count the steps.  
   *Parent says:* Close your eyes. There may be something on the plate, or there may be nothing. Take one small step, and sniff three times. Raise your hand only if you really smell something.  
   *Child mode:* Close your eyes. Take one small step. Sniff three times. Hand up only if you smell something.
   - Ask: Did you smell anything? (good: No, nothing.; Maybe a tiny bit of the kitchen.)
   - Note: This is the empty round. Walk right beside your child. If they raise a hand, say 'Tell me what you smell', but do not say the plate is empty until the end.
-- **s5 (5 min) · grown-up needed**  
-  *Parent does:* 1. Your child goes back to the line and covers their eyes. 2. In the kitchen, peel the orange by hand. Squeeze a piece of peel over the plate. 3. Wash your hands with soap. 4. Put the plate with the fruit and peel on the table. 5. Do the smell steps again and count.  
+- **s5 (3 min) · grown-up needed**  
+  *Parent does:* 1. Your child sits on the start line and covers their eyes. 2. In the kitchen, with the door shut, peel the orange by hand. Squeeze a piece of peel over the plate. 3. Wash your hands with soap. 4. Put the plate with the fruit and peel on the table. 5. Your child stands, and does the smell steps again. Count the steps.  
   *Parent says:* Eyes closed again. Same as before: one small step, three sniffs. Hand up when you smell something. What do you smell?  
   *Child mode:* Eyes closed. One small step. Sniff three times. Hand up when you smell something.
   - Ask: What do you smell? How many steps did you take? (good: Orange!; I smelled it after three steps.; I smelled it straight away, from the line.)
-  - Note: Squeezing the peel sprays tiny drops of oil, so the smell gets strong. Most children smell it one to three steps away from the plate. If your child smells it from the line, that is a real result too. Write the number of steps.
-- **s6 (3 min)**  
+  - Note: Squeezing the peel sprays tiny drops of oil, so the smell gets strong. Many children smell it a few steps from the plate. If your child smells nothing until the plate, squeeze the peel again or move the start line two steps closer, and repeat. If they smell it from the line, that is a real result too. Write the number of steps.
+- **s6 (5 min)**  
+  *Parent does:* 1. Swap jobs. Your child holds the plate with the peeled orange. 2. You stand on the start line with your eyes shut. Take small steps, with three sniffs at each step. 3. Your child counts your steps.  
+  *Parent says:* Now it is my turn. Count my steps. Who smelled the orange from further away, you or me?  
+  *Child mode:* Count the grown-up's steps. Who smelled the orange from further away?
+  - Ask: Did the grown-up smell the orange at the same place as you? (good: No, the grown-up smelled it sooner.; Yes, we stopped at the same place.)
+  - Note: The room already smells of orange after the last round, so you may smell it from the line. That is a real result. Different noses smell at different distances, and that is fine.
+- **s7 (2 min)**  
   *Parent does:* 1. Your child opens their eyes and comes to the plate. 2. They touch the peel. 3. They taste one piece of the fruit.  
   *Parent says:* Now touch the peel. What does it feel like? Now taste one piece. Could you taste it from the line?  
   *Child mode:* Touch the peel. Now taste a piece. Could you taste it from far away?
   - Ask: What did your skin and tongue tell you? (good: The peel is bumpy and a bit oily.; It tastes sweet and a bit sour.; I could only taste it when it was in my mouth.)
-- **s7 (3 min)**  
+- **s8 (1 min)**  
   *Parent does:* Ask what they found, what they saw, and why. Then ask the check question.  
   *Parent says:* Which senses told you about the orange from far away? Which needed touching? The orange never moved. So how did the smell get to your nose?  
   *Child mode:* Which senses worked from far? Which needed touching? How did the smell reach you?
@@ -262,14 +266,13 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   - Note: For touch, many children point to their hands. Tell them that the skin all over the body feels touch, even the skin on their back and feet.
   - Check: Which sense organ told you that the jaggery is sweet? → **The tongue**
 ### a2 · Lights Out: which senses still work in the dark? (10 min)
-- **safety:** Stay together and sit still while the room is dark. Keep the torch in your hand.
 - **record:** Draw a dark room. Draw the senses that still worked in the dark inside it.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Sit with your child on the floor or a bed. 2. Close the curtains and switch off the lights.  
   *Parent says:* Let's sit together in the dark. I am right here. What can you see now?  
   *Child mode:* Sit with your grown-up. The light goes off. What can you see?
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Tap the tumbler. 2. Hold the lemon near your child's nose. 3. Put the cotton or your hand on their arm. 4. Ask about each sense.  
+  *Parent does:* 1. Tap the tumbler. 2. Hold the lemon near your child's nose. 3. Put your hand gently on their arm. 4. Ask about each sense.  
   *Parent says:* Can you hear the tumbler? Can you smell the lemon? Can you feel my hand on your arm? Which senses still work in the dark?  
   *Child mode:* Listen. Smell. Feel. Which senses still work in the dark?
   - Ask: Which sense stopped in the dark? (good: Seeing. I can't see anything.; My eyes don't work in the dark.)
@@ -294,6 +297,7 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   *Child mode:* Sort them. Rough here. Smooth there. Now soft and hard.
   - Check: Which one feels soft? → **A cotton ball**
 ### a4 · Shaker Pairs: match them with your ears (12 min)
+- **safety:** Close the boxes tightly, with tape if needed, so nothing spills or goes into little mouths.
 - **record:** Draw the three pairs you found, and what was inside each.
 - **s1 (3 min)**  
   *Parent does:* 1. Out of sight, fill two boxes with rice, two with salt and two with a few rajma. 2. Close them tightly. 3. Mix them up on the floor.  
@@ -304,6 +308,7 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   *Parent says:* Shake this one. Now that one. Do they sound the same? What do you think is inside? Why?  
   *Child mode:* Shake two boxes. Do they sound the same? What is inside?
   - Ask: What do you think is in this one? Why? (good: Big things, because it goes clonk clonk.; Tiny things, because it sounds like sand.)
+  - Note: Rice and salt can sound alike. If your child mixes them up, that is part of the game. Open the boxes to check.
 - **s3 (3 min)**  
   *Parent does:* Open the boxes and check.  
   *Parent says:* Let's open them. Did your ears get it right?  
@@ -313,50 +318,50 @@ At night the lights went out for a while, as they sometimes did in the rain. The
 ## Projects
 ### p1 · My Five Senses Book: one sense each day (25 min, 5 days)
 - **record:** The finished book, with one drawing for each sense.
-- **schedule:** day 1: Make the book. Draw something you saw today on the 'Eyes' page. (5 min); day 2: Draw something you heard on the 'Ears' page. (5 min); day 3: Draw something you smelled on the 'Nose' page. (5 min); day 4: Draw something you tasted on the 'Tongue' page. (5 min); day 5: Draw something you touched on the 'Skin' page. Read the whole book to someone. (5 min)
+- **schedule:** day 1: Make the book. Draw something you saw today on the 'Eyes' page. (5 min); day 2: Draw something you heard on the 'Ears' page. (5 min); day 3: Draw something you smelled on the 'Nose' page. (5 min); day 4: Draw something you tasted on the 'Tongue' page. (5 min); day 5: Draw something you touched on the 'Skin' page. Tell the whole book to someone. (5 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Fold and tie the book. 2. Write 'My Senses' on the cover. 3. Write one sense at the top of each page: Eyes, Ears, Nose, Tongue, Skin.  
+  *Parent does:* 1. Fold and tie the book. 2. Write 'My Senses' on the cover. 3. Write one sense at the top of each page: Eyes, Ears, Nose, Tongue, Skin. Your child writes what they can, and you write the rest.  
   *Parent says:* Each day this week, you will catch one thing with one sense, and draw it. Today is the eyes day. What did you see today that you liked?  
   *Child mode:* Make your book. Today, draw something you saw.
 - **s2 (5 min)**  
   *Parent does:* Each day, help your child choose one thing for that day's sense and draw it.  
   *Parent says:* Today is the ears day. What did you hear today? Was it loud or soft? Where did it come from?  
   *Child mode:* Today, draw something you heard. Was it loud or soft?
-  - Wait: Do one page each day for the next four days.
+  - Wait: Do the next page tomorrow, and the next each day after that.
 - **s3 (5 min)**  
   *Parent does:* On the nose day, ask where the smell came from.  
   *Parent says:* What did you smell today? Were you near it, or far away when you smelled it?  
   *Child mode:* Draw something you smelled. Were you near or far?
 - **s4 (5 min)**  
-  *Parent does:* On the tongue and skin days, ask about tastes and touch words.  
-  *Parent says:* Was the taste sweet, sour, salty or bitter? What did the thing feel like: rough, smooth, soft or hard?  
-  *Child mode:* Draw a taste. Draw a touch. Say a word for each.
+  *Parent does:* On the tongue day, ask about tastes.  
+  *Parent says:* Was the taste sweet, sour, salty or bitter? Draw it.  
+  *Child mode:* Draw something you tasted. Say a word for the taste.
 - **s5 (5 min)**  
-  *Parent does:* On the last day, your child reads or tells the whole book to someone at home.  
-  *Parent says:* Read your book to Paati. Which page do you like best?  
-  *Child mode:* Show your book to someone. Tell them each page.
+  *Parent does:* On the last day, your child draws something they touched on the Skin page. Then they tell the whole book to someone at home.  
+  *Parent says:* What did you touch today? Was it rough, smooth, soft or hard? Now show your book to someone at home. Which page do you like best?  
+  *Child mode:* Draw something you touched. Then show your book to someone and tell them each page.
   - Check: Which page of your book could have a drawing of jasmine flowers? → **The nose page**
 
 ## Challenges
-### c1 · A Doorbell for Someone Who Cannot Hear (20 min)
-- **problem:** Paati lives with you and cannot hear sounds. When someone rings the doorbell, she does not know. How could you let her know someone is at the door, using her eyes, her nose or her skin?
-- **your turn:** Draw your own doorbell for Paati. Then try it out at home: one person is Paati, and one person comes to the door.
-- **constraints:** It must not need Paati to hear anything.; Use things from home.; A child must be able to use it, or set it going.
-- **general:** Many homes with someone who cannot hear have a doorbell that flashes a light.; Some people wear a band on the wrist that shakes when the bell rings.; A family member can tap Paati gently on the shoulder.
-- **creative:** Tie a long ribbon from the door to Paati's chair. A pull at the door makes the ribbon wiggle.; Flash a torch on the wall where Paati sits.; Wave a bright cloth through the doorway.
+### c1 · A Doorbell for a Neighbour Who Cannot Hear (20 min)
+- **problem:** A neighbour of yours cannot hear any sounds. When someone rings her doorbell, she does not know. How could you let her know someone is at the door, using her eyes, her nose or her skin?
+- **your turn:** Draw your own doorbell for your neighbour. Then try it out at home: one person is the neighbour, and one person comes to the door.
+- **constraints:** It must not need her to hear anything.; Use things from home.; A child must be able to use it, or set it going.; Keep string off the floor where people walk, so nobody trips.
+- **general:** Many homes with someone who cannot hear have a doorbell that flashes a light.; Some people wear a band on the wrist that shakes when the bell rings.; Someone can tap her gently on the shoulder.
+- **creative:** She holds one end of a long string. Someone at the door tugs the other end, and she feels it in her hand.; Flash a torch on the wall where she sits.; Wave a bright cloth through the doorway.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child.  
-  *Parent says:* Paati cannot hear. When the doorbell rings, she does not know someone is there. Which other senses could tell her?  
-  *Child mode:* Paati cannot hear the bell. Which other sense could tell her?
+  *Parent says:* A neighbour cannot hear. When her doorbell rings, she does not know someone is there. Which other senses could tell her?  
+  *Child mode:* A neighbour cannot hear the bell. Which other sense could tell her?
   - Ask: Which senses could help? (good: Her eyes, if a light flashes.; Her skin, if something touches her.; Her nose? That would be hard!)
 - **s2 (8 min)**  
   *Parent does:* Your child draws one or two ideas. Talk about each one.  
-  *Parent says:* Draw your idea. Which sense does it use? How would Paati know it is the door, and not something else?  
+  *Parent says:* Draw your idea. Which sense does it use? How would she know it is the door, and not something else?  
   *Child mode:* Draw your doorbell. Which sense does it use?
 - **s3 (7 min)**  
-  *Parent does:* Try the best idea at home. One person plays Paati, sitting with their ears covered.  
-  *Parent says:* Let's test it. You come to the door and use your doorbell. I'll be Paati, with my hands over my ears.  
-  *Child mode:* Test it. Did Paati know someone was at the door?
+  *Parent does:* Try the best idea at home. One person plays the neighbour, sitting with their ears covered.  
+  *Parent says:* Let's test it. You come to the door and use your doorbell. I'll be the neighbour, with my hands over my ears.  
+  *Child mode:* Test it. Did the neighbour know someone was at the door?
 - **s4 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* Did it work? What would you change?  
@@ -375,45 +380,40 @@ At night the lights went out for a while, as they sometimes did in the rain. The
    **Answer:** A drawing of the child a few steps from the plate, with their hand raised.. *Why:* A strong drawing shows the child still some steps away from the plate. The smell reached them before they touched the orange.
 5. (truefalse) Your eyes need light to see.  
    **Answer:** True. *Why:* True. In a dark room you cannot see, though your eyes are open. When the light comes back, you see again.
-6. (truefalse) You can taste a mango from across the room.  
-   **Answer:** False. *Why:* False. You can see a mango and smell a mango from across the room. You taste the mango only when it is in your mouth.
+6. (truefalse) You can feel a touch on your back, not only on your hands.  
+   **Answer:** True. *Why:* True. Skin covers your whole body, so you can feel a touch on your back, your feet and your nose too.
 7. (odd) Three of these are sense organs. Which one is not?  
    Options: Nose / Ear / Knee / Tongue  
    **Answer:** 2. *Why:* The nose, ears and tongue are sense organs. The knee helps your leg bend, but it is not a sense organ for one of the five senses.
 8. (write) Say out loud, and a grown-up writes it down: how did the smell of the orange get to your nose, when your nose never touched the orange?  
    **Answer:** Tiny bits from the orange peel floated through the air and went into my nose.. *Why:* A strong answer says that something from the orange travelled through the air to the nose.
-9. (mcq) Riya, a girl in Class 1, closes her eyes. Her mother pours water into a tumbler. Which sense tells Riya what her mother did?  
+9. (mcq) Riya, a girl in Class 1, closes her eyes. Someone pours water into a tumbler. Which sense tells Riya what they did?  
    Options: Hearing / Tasting / Smelling  
    **Answer:** Hearing. *Why:* The water makes a splashing sound. The sound travels to Riya's ears.
 10. (perspective) Meenakshi and her friend Deepa are smelling jasmine flowers in a garden in Madurai.  
    **Answer:** A strong answer picks one side and gives a reason. For Deepa: the bits travelled into my nose, and I smelled them only when they arrived. For Meenakshi: the bits came from the flowers, and they smell like jasmine because of the flowers.. *Why:* Both girls are partly right. The tiny bits come from the flowers, but the smell happens when they reach a nose. Scientists and thinkers still talk about where a smell really is.
 11. (draw) Draw your favourite food. Around it, draw each sense organ that can tell you something about it.  
    **Answer:** A food with several sense organs drawn around it, such as an eye, a nose and a tongue.. *Why:* A strong drawing has more than one sense organ, because most foods can be seen, smelled, tasted and touched, and some can be heard.
-### Near and Far Senses (stretch) (stretch, 11 questions)
-1. (mcq) In the Smell Steps test, one round had an empty plate. Why did we do that round?  
-   Options: To check whether you really smelled something, or were only guessing / To make the orange smell stronger / To give your nose a rest  
-   **Answer:** To check whether you really smelled something, or were only guessing. *Why:* If you smelled nothing with the empty plate, then the smell in the next round really came from the orange.
+### Near and Far Senses (stretch) (stretch, 10 questions)
+1. (write) Sowmya says: 'I can only smell a dosa if I can see it.' Is she right? Say what you think, and tell about a time you smelled food you could not see. A grown-up writes it down.  
+   **Answer:** No. Tiny bits of the dosa float through the air to your nose, so you can smell it from another room.. *Why:* A strong answer says that smell travels through the air, so the thing does not have to be in sight.
 2. (truefalse) If the fan is on, the smell of the orange may reach you faster.  
    **Answer:** True. *Why:* True. Moving air carries the tiny smell bits further and faster. That is why we kept the fan off, so every round was the same.
 3. (sort) Which sense would tell you first? Sort each one.  
    **Answer:** A pressure cooker whistling in the kitchen → Ears first; Dosa burning on the tawa in the next room → Nose first; A rainbow across the sky → Eyes first; A friend calling your name from the next flat → Ears first; Sambar cooking while you are in the bedroom → Nose first. *Why:* Things you cannot see from where you are reach you as sounds or smells. A rainbow makes no sound or smell, so only your eyes find it.
-4. (write) Ammamma's eyes are weak. Say how she knew that Fatima Aunty was frying banana chips, and a grown-up writes it down.  
-   **Answer:** She smelled the coconut oil and banana. The smell floated up from Fatima Aunty's kitchen to her window.. *Why:* A strong answer names her nose and says the smell travelled to her through the air.
-5. (match) Draw a line from each living being to how they sense.  
-   **Answer:** An ant → smells with her feelers; A housefly → tastes with her feet; A snake → smells with his tongue; A touch-me-not plant → feels touch and folds their leaves. *Why:* Every living being senses the world, but in their own way. These are real ways that each one senses.
-6. (odd) Which of these can you NOT sense from across the room?  
-   Options: A temple bell ringing / A bright red kite / Whether a lime is sour / Jasmine in the next room  
-   **Answer:** 2. *Why:* To know if a lime is sour, it must touch your tongue. You can hear the bell, see the kite and smell the jasmine from far away.
-7. (draw) Draw an idea for a doorbell for someone who cannot hear. Show which sense it uses.  
-   **Answer:** A doorbell that flashes a light, shakes something, or moves a ribbon, with the sense it uses shown.. *Why:* A strong design uses seeing or touching, not hearing.
-8. (mcq) Kavya, a girl in Class 1, sits in a dark room. Her brother switches on a torch. Why can she see again?  
-   Options: Light from the torch reaches things and then her eyes / Her eyes were asleep / The torch makes a sound  
-   **Answer:** Light from the torch reaches things and then her eyes. *Why:* Eyes need light. The torch light bounces off things in the room and into Kavya's eyes, so she sees them.
-9. (label) Here is a dosa on a plate. Label what each sense tells you about the dosa.  
+4. (truefalse) A dog can tell where a person walked, even after the person has gone.  
+   **Answer:** True. *Why:* True. A person leaves tiny smell bits on the ground, and a dog's nose can follow them.
+5. (write) In the story 'Ammamma's Nose', Ammu's grandmother cannot see small things. Say what other things Ammamma used to know what was happening in the building, and a grown-up writes it down.  
+   **Answer:** She used her ears and her nose: the cooker whistle, the fish seller's basket and the smell of banana chips.. *Why:* A strong answer names the ears and the nose, and says what each one told her.
+6. (match) Draw a line from each living being to how they sense.  
+   **Answer:** An ant → smells with her feelers; A housefly → tastes with their feet; A snake → smells with their tongue; A touch-me-not plant → feels touch and folds their leaves. *Why:* Every living being senses the world, but in their own way. These are real ways that each one senses.
+7. (draw) Draw an ant walking to a grain of sugar. Draw the smell trail she follows, and the feelers she smells with.  
+   **Answer:** An ant with two feelers on her head, a trail of tiny dots on the ground, and a sugar grain at the end.. *Why:* A strong drawing shows the feelers on the ant's head and the smell trail on the ground that leads her to the sugar.
+8. (label) Here is a dosa on a plate. Say what each sense tells you about the dosa, and a grown-up writes it down.  
    **Answer:** ['golden and round', 'it crunches', 'it smells of ghee', 'it is salty', 'it is hot']. *Why:* One dosa gives every sense something. Each sense organ tells you something different about the same dosa.
-10. (perspective) Lakshmi and her brother Farhan are talking about dogs in Hyderabad.  
+9. (perspective) Nirmala and her brother Farhan are talking about dogs in Hyderabad.  
    **Answer:** A strong answer uses evidence: people followed a chocolate smell trail across a field, so human noses are good. Farhan is right that dogs smell many things we miss.. *Why:* For a long time people said human noses are weak. Tests now show humans are good at many smells, while dogs are better at others.
-11. (write) You use your nose many times a day. Name one smell that told you something today, and say what it told you.  
+10. (write) Name one smell that told you something today, and say what it told you. A grown-up writes it down.  
    **Answer:** I smelled toast burning, so I told Amma.. *Why:* A strong answer names a real smell and what the child knew from it, such as food being ready or something burning.
 
 ## Videos
@@ -450,18 +450,17 @@ At night the lights went out for a while, as they sometimes did in the rain. The
    Options: The plant senses touch / The plant is asleep / The wind did it  
    **Answer:** The plant senses touch. *Why:* The leaves fold right after a touch, so the plant sensed the touch and answered.
 10. (mcq) Gauri in Pune tests her nose: one plate has an orange, one plate is empty. Why the empty plate?  
-   Options: To check she is not just guessing / Because oranges are expensive / To make the room smell nice  
+   Options: To check she is not just guessing / To count how many steps she takes / To make the room smell nice  
    **Answer:** To check she is not just guessing. *Why:* If Gauri smells nothing at the empty plate, then the smell she finds at the other plate really came from the orange. That makes the test fair.
-11. (mcq) Before a test, what should you do first?  
-   Options: Guess what will happen, and say why / Look up the answer / Skip the test  
-   **Answer:** Guess what will happen, and say why. *Why:* First you guess, and say why. Then the test shows whether your guess was right.
+11. (mcq) Why does every round of the Smell Steps test start at the same line?  
+   Options: So the rounds are fair to compare / So the orange smells nicer / So the orange is bigger  
+   **Answer:** So the rounds are fair to compare. *Why:* If every round starts at the same line, a different number of steps means a different distance. That makes the test fair.
 
 ## Applications
 - Cooks smell and taste food as they cook, to know when it is ready.
 - Gas companies add a strong smell to cooking gas, so people can smell a leak and stay safe.
 - Doctors often check a baby's eyes and ears soon after birth, to make sure the senses work.
 - Police dogs follow the smell of a lost person to find them.
-- Doorbells that flash a light help people who cannot hear.
 
 ## Spotted around us
 - The smell of filter coffee drifting out of a kitchen in Chennai in the morning, before anyone says it is ready.
@@ -484,15 +483,15 @@ At night the lights went out for a while, as they sometimes did in the rain. The
 - Which sense would you miss most? Why?
 
 ## Jokes
-- Why did the nose not go to school? *Because it was tired of being picked on!*
 - What did one eye say to the other eye? *Between you and me, something smells!*
+- Why is your nose in the middle of your face? *Because it is the scenter!*
 - Why did the orange stop in the middle of the road? *It ran out of juice!*
 - What has ears but cannot hear? *A field of corn!*
-- Why did the tongue go to the party? *It wanted a taste of fun!*
+- What has a tongue but cannot talk? *A shoe!*
+- What has an eye but cannot see? *A needle!*
+- What has teeth but cannot bite? *A comb!*
+- What has hands but cannot clap? *A clock!*
 - What did the jasmine say to the nose? *Smell you later!*
-- Why are ants so good at finding sugar? *They follow their noses, even though their noses are their feelers!*
-- What do you call a sense that is always on time? *Common sense!*
-- What did the hand say to the cotton ball? *You are so soft, I can feel it!*
 
 ## Connected maths
 - In the Smell Steps test, Nila smelled the orange after 3 small steps. Her brother Sai smelled the orange after 5 small steps. Both started at the same line. Who smelled the orange from further away? **Nila. She took fewer steps, so she was further from the plate.**. Both started at the same line. Fewer steps means you stopped further from the plate. 3 is less than 5, so Nila was further away when the smell reached her. (queues `math.number-sense.comparing-ordering.L1`)

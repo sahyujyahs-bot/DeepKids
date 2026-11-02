@@ -1,9 +1,9 @@
 # Mixing paints: how three colours make many more
 `sci.light.colour.L1`
 
-**Summary.** Mix yellow paint with blue paint, and you get green, a colour that was in neither pot. Your child mixes red, yellow and blue paint and finds orange, green, purple and brown. Every mix comes out darker than yellow, and all three together make a dark, muddy brown. That is because paint absorbs, or soaks up, some of the light that falls on it. Two paints soak up more light than one, so less light comes back to our eyes.
+**Summary.** Mix yellow paint with blue paint, and you get green, a colour that was in neither pot. Your child mixes red, yellow and blue paint and finds orange, green, purple and brown. All three together make a dark, muddy brown. That is because paint absorbs, or soaks up, some of the light that falls on it. More paints soak up more light, so less light comes back to our eyes.
 
-**Intro.** *Here is yellow paint, and here is blue paint. There is no green paint. Can we make green anyway?* Put a blob of yellow paint and a blob of blue paint on a plate. Ask your child what will happen if they stir the two together, and why. Then let them stir. A green appears that was not in either pot. Where did it come from? This unit finds out.
+**Intro.** *Here is yellow paint, and here is blue paint. There is no green paint. Can we make green anyway?* Put a blob of yellow paint and a blob of blue paint on a plate. Ask your child what colour they will make when stirred together, and why. Then let them stir. A green appears that was in neither pot. Where did it come from? This unit finds out.
 
 ## Learning outcomes
 0. By the end I can say which colour two paints make: yellow and blue make green, red and yellow make orange, and red and blue make purple.
@@ -23,32 +23,28 @@
 ### Two paints make a new colour · *defined*
 **Definition:** When you mix two paints, you get a new colour. Yellow and blue make green. Red and yellow make orange. Red and blue make purple.
 
-In the Colour Mixing Test, you stirred yellow and blue paint together. A green came out, though there was no green in either pot. Red and yellow made orange, like a marigold. Red and blue made purple, like a brinjal. The new colour depends on how much of each paint you use. A lot of yellow and a little blue make a light green. A lot of blue and a little yellow make a dark green.
+In the Colour Mixing Test, you stirred yellow and blue paint together, and green came out, though neither pot was green. Red and yellow made orange, like a marigold. Red and blue made purple, like a brinjal. A lot of yellow and a little blue make a light green. A lot of blue and a little yellow make a dark green.
 - e.g. Yellow and blue make green, the colour of a parrot or a banana leaf.
 - e.g. Red and yellow make orange, the colour of a marigold or a carrot.
 - e.g. Red and blue make purple, the colour of a brinjal or a jamun.
 ### Primary colours: the three you start with · *defined*
 **Definition:** Red, yellow and blue are the primary colours of a paint box. You cannot mix them from the other paints in the box. Many other colours can be mixed from them.
 
-Try to mix yellow from the other paints. Red and blue make purple, never yellow. So yellow has to come from its own pot. The same is true for red and blue. That is why painters call these three the primary colours. Primary means first. With just these three, and some water or white paint, you can mix hundreds of colours.
+Try to mix yellow from the other paints. Red and blue make purple, never yellow. So yellow has to come from its own pot, and so do red and blue. Primary means first.
 - e.g. Orange, green and purple can all be mixed from red, yellow and blue.
-- e.g. Add white paint to red, and you get pink.
-- e.g. Printers use three inks too: yellow, a pink called magenta, and a light blue called cyan.
-- **Painters:** Red, yellow and blue are the primary colours. Children's paint boxes and art classes start with them.
-- **Printers:** Yellow, magenta (a bright pink) and cyan (a light blue) mix a wider range of bright colours. Printers can even mix red from magenta and yellow. The ink in a colour printer uses these three, and black.
 ### Why mixing paints makes colours darker · *defined*
 **Definition:** Paint absorbs, or soaks up, some of the light that falls on it. It sends the rest back to our eyes, and that is the colour we see. Two paints together absorb more light than one, so a mix is darker.
 
-Sunlight and lamp light are made of many colours mixed together. Yellow paint soaks up the blue part of the light and sends back the rest. Blue paint soaks up the red, orange and yellow parts. Mix the two paints, and together they soak up nearly everything except green. So green is the light that is left to reach your eyes. Add red paint too, and the green gets soaked up as well. Very little light comes back, so you see a dark brown.
+Sunlight and lamp light are made of many colours mixed together. Yellow paint soaks up the blue part of the light and sends back the rest. Blue paint soaks up the red, orange and yellow parts. Together they soak up nearly everything except green, so green is the light left to reach your eyes. Add red paint too, and the green is soaked up as well. Very little light comes back, so you see dark brown.
 - e.g. In the Colour Mixing Test, every mix was darker than yellow.
 - e.g. Red, yellow and blue together made a dark, muddy brown.
 - e.g. In a dark room, no light falls on the paint, so every colour looks black.
 ### Colours around us, and colours on living beings · *defined*
-**Definition:** Most colours around us come from colour stuff, called pigment, in paint, skin, flowers and feathers. Some colours are made by tiny shapes instead, like the shine on a pigeon's neck.
+**Definition:** Many colours come from colour stuff in paint, flowers and feathers. Some colours come from tiny shapes instead, like the shine on a pigeon's neck.
 
-Flowers use bright colours to call bees and butterflies to their nectar. Bees see a kind of light called ultraviolet, which our eyes cannot see. Many flowers have ultraviolet patterns that guide bees to the nectar. A pigeon's neck shines green and purple as she turns her head. Those colours come from tiny layers in her feathers, not from pigment. A green parrot has yellow pigment in her feathers, and tiny shapes that send back blue. Yellow and blue together look green, just like your paints. Even the sea's blue is not only the sky. In 1921 the Indian scientist C. V. Raman showed that water itself sends back blue light.
+Flowers use bright colours to call bees and butterflies to their nectar. A pigeon's neck shines green and purple as they turn their head. Tiny layers in the feathers make those colours. A green parrot has yellow colour stuff in the feathers and tiny shapes that send back blue, so yellow and blue together look green, like your paints.
 - e.g. A marigold's orange calls bees and butterflies.
-- e.g. A pigeon's neck changes from green to purple as she turns.
+- e.g. A pigeon's neck changes from green to purple as they turn.
 - e.g. A green parrot's feathers are yellow and blue together.
 
 ## Mostly agreed
@@ -57,7 +53,7 @@ Flowers use bright colours to call bees and butterflies to their nectar. Bees se
 - We need light to see colours. *How we know:* In a dark room, every paint looks black. Switch on a light, and the colours come back.
 
 ## How we found out
-**Mary Gartside, an English painter; Hermann von Helmholtz, a German scientist, 1805 to 1852.** For hundreds of years, painters knew that yellow and blue paint make green. In 1805, the English painter Mary Gartside wrote one of the first books about colour by a woman, with pictures made from patches of mixed watercolour. Many people thought that colours always mix the same way. So yellow light and blue light should make green too. In 1852, the German scientist Hermann von Helmholtz tested this. He took yellow light and blue light from a prism and made them fall on the same spot. The spot did not turn green. It looked nearly white. So why does paint make green? Helmholtz explained that each paint absorbs some of the light that falls on it. Yellow paint absorbs blue light. Blue paint absorbs red and yellow light. Mixed together, they absorb almost everything except green. So the green we see is the light that is left over. Mixing lights adds colours together. Mixing paints takes colours away.  
+**Mary Gartside, an English painter; Hermann von Helmholtz, a German scientist, 1805 to 1852.** For hundreds of years, painters knew that yellow and blue paint make green. In 1805, the English painter Mary Gartside wrote a book about colour, with pictures made from patches of mixed watercolour. Many people thought that colours always mix the same way. So yellow light and blue light should make green too. In 1852, the German scientist Hermann von Helmholtz tested this. He took yellow light and blue light from a prism and made them fall on the same spot. The spot did not turn green. It looked nearly white. So why does paint make green? Helmholtz explained that each paint absorbs some of the light that falls on it. Yellow paint absorbs blue light. Blue paint absorbs red and yellow light. Mixed together, they absorb almost everything except green. So the green we see is the light that is left over. Mixing lights adds colours together. Mixing paints takes colours away.  
 *What people believed before:* Colours always mix the same way, so yellow light and blue light make green, like paint. Helmholtz mixed yellow and blue light and got nearly white, and explained that paint makes green by absorbing light.
 
 ## Challenging perspectives
@@ -85,7 +81,7 @@ We have mixed paints and watched new colours appear. Now we ask what the green o
 Red, yellow and blue gave you orange, green, purple and many browns. All of those colours came from three pots and one light. Every colour you see is the same light, with a different part soaked up. Everything is conscious, and every paint, flower and feather meets the light in its own way.
 
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper, and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. (Look deeply at the green on your plate, and you can see the yellow and the blue in it. Without either one, there would be no green.)
-- **Tao Te Ching 12:** The five colours blind the eye. (Laozi warns that more and more colour does not help us see. In our test, more and more paint did not make a brighter colour. It made a dark brown.)
+- **Johann Wolfgang von Goethe, Theory of Colours (1810):** Colours are the deeds and sufferings of light. (Paint takes some of the light away and sends the rest back. The colour you see is what happens when light meets the paint.)
 - Science (settled): Paint mixing works by absorbing light: each paint soaks up some colours, and a mix soaks up more. Mixing coloured lights works the other way, by adding light.
 - Science (open): How the eye and brain turn light into the feeling of green is still not understood.
 - Other view, Many scientists and philosophers: Colour is not in the paint at all, only in the eyes and brain of whoever looks. The paint only soaks up and sends back light, and the green is made inside you. For many of them, the paint itself senses nothing.
@@ -168,8 +164,8 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 
 ## Games
 ### g1 · Colour Sums: say what they make (10 min)
-- **rules:** Before you play, colour a small blob of each colour next to its word, with crayons, so everyone can read the cards.; Put the cards in a pile, colour sum side up.; On your turn, look at the top card and say what colour the two make.; Turn the card over to check. If you were right, keep the card.; If you were wrong, put the card at the bottom of the pile. You will meet it again.; When the pile is empty, the player with the most cards wins.
-- **Printable cards: 10 colour sum cards:** Yellow + Blue (back: Green); Red + Yellow (back: Orange); Red + Blue (back: Purple); Red + Yellow + Blue (back: Dark brown); Red + White (back: Pink); Black + White (back: Grey); Blue + White (back: Light blue, like the sky); Lots of yellow + a little blue (back: Light green); Lots of blue + a little yellow (back: Dark green); Green + lots of water (back: Pale green)
+- **rules:** Before you play, colour a small blob of each colour next to its word on the front of each card, so everyone can read the cards.; Put the cards in a pile, colour sum side up.; On your turn, look at the top card and say what colour the two make.; Turn the card over to check. If you were right, keep the card.; If you were wrong, say what the two colours make together and put the card aside. Nobody keeps it.; When the pile is empty, the player with the most cards wins. If you have the same number, play again.
+- **Printable cards: 10 colour sum cards:** Yellow + Blue (back: Green); Red + Yellow (back: Orange); Red + Blue (back: Purple); Red + Yellow + Blue (back: Dark brown); Blue + Green (back: Blue-green, like the sea); Red + Green (back: Brown); Orange + Blue (back: Dull brown); Lots of yellow + a little blue (back: Light green); Lots of blue + a little yellow (back: Dark green); Green + lots of water (back: Pale green)
 - **s1 (2 min)**  
   *Parent does:* 1. Colour the blobs on the cards together. 2. Put them in a pile.  
   *Parent says:* Each card shows two colours. You say what they make together. Then we turn it over to check.  
@@ -184,10 +180,10 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   *Parent does:* Ask the check question.  
   *Parent says:* Which card was hardest? Why?  
   *Child mode:* Which card was hardest?
-  - Check: What do red, yellow and blue paint make together? → **Dark brown**
+  - Check: A card says "Lots of yellow + a little blue". What does it make? → **Light green**
 ### g2 · Mix and Run: hold up the colours, then find one (10 min)
-- **rules:** Each player colours three cards: one red, one yellow and one blue.; The caller says a mixed colour: green, orange or purple.; Each player holds up the two cards that make that colour.; Then everyone runs to touch something in the home of that colour.; Say what you touched. Then the caller says a new colour.; Take turns being the caller.
-- **Printable cards: 3 colour cards to colour in:** A card to colour red; A card to colour yellow; A card to colour blue
+- **rules:** Print the page once for every two players. Each player takes three cards and colours them: one red, one yellow and one blue.; The caller says a mixed colour: green, orange or purple.; Each player holds up the two cards that make that colour.; Then everyone runs to touch something in the home of that colour. If you cannot find one, name something you know that has that colour.; Say what you touched. Then the caller says a new colour.; Take turns being the caller. Stop when everyone has called once.
+- **Printable cards: 6 colour cards to colour in:** Colour this card red; Colour this card yellow; Colour this card blue; Colour this card red; Colour this card yellow; Colour this card blue
 - **s1 (2 min)**  
   *Parent does:* 1. Your child colours the three cards. 2. Clear a space to run.  
   *Parent says:* I will call a colour. Hold up the two cards that make it. Then run and touch something that colour.  
@@ -239,8 +235,8 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   *Parent does:* 1. Your child takes some green from the plate and adds more and more yellow. 2. Look at the colour after each brushful.  
   *Parent says:* Can we get the yellow back out of the green? Add more yellow. Is it yellow again?  
   *Child mode:* Add more yellow to the green. Is it yellow again?
-  - Note: The green turns yellowish green, but never plain yellow. Now ask for claim and evidence: what did you find, and what did you see that shows it?
-  - Check: Kavya mixes yellow and blue paint. Then she adds lots more yellow. What does she get? → **A yellowish green**
+  - Note: The green turns yellowish green, but never plain yellow. Now ask: what did you find, and what did you see that shows it?
+  - Check: A girl mixes yellow and blue paint. Then she adds lots more yellow. What does she get? → **A yellowish green**
 ### e2 · Drop by Drop: can water undo green? (15 min)
 - **question:** Each drop of blue makes the green darker. Can adding water turn the green back into yellow?
 - **predict:** Guess first. Will lots of water make the green yellow again? Why do you think so?
@@ -258,25 +254,25 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   *Child mode:* Add one drop. Stir. Count. Is it lighter or darker now?
   - Ask: What happens as you add more blue? (good: It gets darker green.; It went from light green to dark green.)
 - **s3 (4 min)**  
-  *Parent does:* 1. Pour half the green water into the second glass. 2. Ask your child to guess. 3. They fill it to the top with plain water and stir.  
+  *Parent does:* 1. Pour half the green water into the empty glass. 2. Ask your child to guess. 3. They fill that glass to the top with plain water from the jug and stir. 4. Stand it beside the first glass to compare.  
   *Parent says:* Can water turn the green back into yellow? What do you think, and why? Let's pour in lots of water.  
   *Child mode:* Pour in lots of water. Is it yellow again?
   - Ask: What colour is it now? (good: Pale green.; Lighter, but still green, not yellow.)
   - Note: Water spreads the colours out, so the green gets paler. But the yellow and blue are both still there, so it stays green.
 - **s4 (3 min)**  
-  *Parent does:* Ask the check question.  
+  *Parent does:* Stand the two glasses side by side and look at them together. Then ask the check question.  
   *Parent says:* So, did the water undo the green?  
   *Child mode:* Did the water undo the green?
-  - Check: Nila pours lots of water into her green water. What colour does it turn? → **Pale green**
+  - Check: A girl pours lots of water into her green water. What colour does it turn? → **Pale green**
 
 ## Activities
 ### a1 · Colour Hunt: one thing of every colour (10 min)
 - **record:** Draw the colour you found hardest, and the thing you found for it.
-- **s1 (1 min)**  
-  *Parent does:* Lay the eight colour slips on the sheet.  
+- **s1 (3 min)**  
+  *Parent does:* 1. Colour the eight paper slips with crayons: red, orange, yellow, green, blue, purple, brown and black. 2. Lay them in a row on the sheet.  
   *Parent says:* We are going on a colour hunt. Find one thing for each colour, and put it by its slip.  
   *Child mode:* Find one thing for each colour. Put it by its slip.
-- **s2 (7 min)**  
+- **s2 (5 min)**  
   *Parent does:* Your child hunts around the home and places each thing by its slip.  
   *Parent says:* Can you find something purple? Now something orange. Which colour is the hardest to find?  
   *Child mode:* Find something purple. Now orange. Which is the hardest to find?
@@ -286,15 +282,15 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   *Parent does:* Look at the heaps together, and ask the check question.  
   *Parent says:* Look at your green thing. Do you think we could make that green with paint?  
   *Child mode:* Look at your green thing. Could we make that green with paint?
-  - Check: Which of these is a colour? → **Purple**
+  - Check: Which two paints could we mix to make the green of a curry leaf? → **Yellow and blue**
 ### a2 · Kitchen Paints: colours from turmeric and beetroot (15 min)
-- **safety:** A grown-up cuts the beetroot. Turmeric and beetroot stain clothes, so wear an old shirt.
+- **safety:** A grown-up cuts the beetroot.
 - **record:** Paint a flower with your kitchen paints, and the colour you got when you mixed them.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Stir the turmeric into 2 spoons of water in one bowl. 2. Cut the beetroot and squeeze or press the slice into a spoon of water in the other bowl.  
   *Parent says:* Long ago, people made paints from plants. Let's make yellow from turmeric and pink from beetroot.  
   *Child mode:* We are making paint from the kitchen. Yellow from turmeric. Pink from beetroot.
-  - Note: The beetroot juice comes out deep pink to red. Turmeric makes a strong yellow, though it does not fully dissolve.
+  - Note: The beetroot juice comes out deep pink to red. If it is faint, rub the slice on the wet bowl. Turmeric makes a strong yellow, though it does not fully dissolve.
 - **s2 (6 min)**  
   *Parent does:* Your child paints with each colour, then mixes a little of both in a spoon.  
   *Parent says:* Paint with the yellow, and then the pink. What will they make together? Why do you think so?  
@@ -302,22 +298,22 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   - Ask: What did yellow and pink make? (good: Orange.; A reddish orange, like a marigold.)
 - **s3 (4 min)**  
   *Parent does:* Talk about the colours, and ask the check question.  
-  *Parent says:* These colours came from plants. A turmeric root and a beetroot make these colours inside them. What other plant colours do you know?  
+  *Parent says:* These colours came from plants. Turmeric and beetroot come from plants that grow in the ground. What other plant colours do you know?  
   *Child mode:* These colours came from plants. What other plant colours do you know?
-  - Check: Where did our yellow paint come from? → **Turmeric, the root of a plant**
+  - Check: Where did our yellow paint come from? → **Turmeric, from a plant**
 ### a3 · Colour at the Window: flowers, leaves and birds (10 min)
 - **record:** Draw a bird or a flower you saw, and colour the drawing in.
 - **s1 (4 min)**  
   *Parent does:* Look at the plant together. Count how many greens you can see on the leaves.  
   *Parent says:* How many different greens can you see on this plant? Why do you think a flower is so bright?  
   *Child mode:* How many greens can you see? Why is the flower so bright?
-  - Ask: Why do you think the flower is so bright? (good: So bees can find her.; To look pretty.; To call butterflies.)
+  - Ask: Why do you think the flower is so bright? (good: So bees can find them.; To look pretty.; To call butterflies.)
   - Note: Flowers use bright colours to call bees and butterflies to their nectar. Bees see a kind of light called ultraviolet, which we cannot see, so a flower may look different to a bee.
 - **s2 (4 min)**  
-  *Parent does:* Watch the window for a pigeon or a crow. If none comes, look at a photo of a pigeon's neck together.  
-  *Parent says:* Look at the pigeon's neck. What colour is it? Now watch as she turns her head. Does the colour change?  
-  *Child mode:* Look at the pigeon's neck. Watch it as she turns.
-  - Note: A pigeon's neck shines green and purple, and the colours change as she moves. Tiny layers in the feathers make these colours, not pigment. Pigeons come to most city windows, but any bird is fine.
+  *Parent does:* Watch the window for a pigeon or a crow. If none comes, try again later in the day. Any bird is fine.  
+  *Parent says:* Look at the pigeon's neck. What colour is it? Now watch as they turn their head. Does the colour change?  
+  *Child mode:* Look at the pigeon's neck. Watch it as they turn.
+  - Note: A pigeon's neck shines green and purple, and the colours change as they move. Tiny layers in the feathers make these colours, not pigment. Pigeons come to most city windows.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* Why do many flowers have bright colours?  
@@ -332,6 +328,7 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   *Parent does:* 1. Make the book. 2. Your child mixes red and yellow and paints the colour sum on the first page. 3. They draw two orange things from home.  
   *Parent says:* Today's colour is orange. Mix red and yellow, and paint the sum. Then find two orange things at home and draw them.  
   *Child mode:* Mix red and yellow. Paint the sum. Draw two orange things.
+  - Wait: The next day.
 - **s2 (8 min)**  
   *Parent does:* Your child mixes yellow and blue for the green page, and draws two green things.  
   *Parent says:* Today's colour is green. Mix it, paint the sum, and draw two green things you can find.  
@@ -342,18 +339,17 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   *Parent says:* Today's colour is purple. Mix it and paint the sum. Which page was easiest to fill? Why?  
   *Child mode:* Mix purple. Paint the sum. Which page was easiest?
   - Check: Which two paints did you mix for the purple page? → **Red and blue**
-  - Wait: The next day.
 
 ## Challenges
 ### c1 · Match the Leaf (15 min)
-- **problem:** Meenakshi wants to paint a curry leaf so that it looks real. She has no green paint. Can you mix a green that matches a real leaf?
+- **problem:** You want to paint a curry leaf so that it looks real. You have no green paint. Can you mix a green that matches a real leaf?
 - **your turn:** Mix two greens and paint them next to the leaf. Which one matches best? What did you add to make it match?
 - **constraints:** Use only red, yellow and blue paint, and water.; Paint a patch right next to the real leaf, to compare.
 - **general:** Painters mix yellow and blue to make green.; More yellow makes a lighter green. More blue makes a darker green.; A tiny touch of red makes a bright green duller, like an older leaf.
-- **creative:** Paint blue first, let it dry, then paint yellow on top, the way Kalamkari painters in Andhra Pradesh do.; Add water to make a pale green for the new leaves at the tip.; Paint the leaf with two greens: a darker one in the middle and a lighter one at the edges.
+- **creative:** On another day, paint blue first, let it dry, then paint yellow on top, the way Kalamkari painters in Andhra Pradesh do.; Add water to make a pale green for the new leaves at the tip.; Paint the leaf with two greens: a darker one in the middle and a lighter one at the edges.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child, and put the leaf on the paper.  
-  *Parent says:* Meenakshi has no green paint. How can we make a green that looks like this leaf?  
+  *Parent says:* We have no green paint. How can we make a green that looks like this leaf?  
   *Child mode:* We have no green. How can we make one like this leaf?
   - Ask: How can we make green? (good: Mix yellow and blue.; Like in the Colour Mixing Test.)
 - **s2 (9 min)**  
@@ -373,29 +369,28 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
    **Answer:** Yellow + Blue → Green; Red + Yellow → Orange; Red + Blue → Purple. *Why:* These are the three mixes from the Colour Mixing Test. A strong answer matches all three, and the child can say which paints they used.
 2. (draw) Draw the Colour Mixing Test: the plate, the three paints, and the new colour you made in the middle. Colour it in.  
    **Answer:** A plate with red, yellow and blue blobs, and a green, orange or purple patch where two met.. *Why:* A strong drawing shows two paints going in and a new colour coming out.
-3. (mcq) Farhan mixes red, yellow and blue paint all together. What colour does he get?  
+3. (mcq) Farhan, a boy in Class 1, mixes red, yellow and blue paint all together. What colour does he get?  
    Options: Dark brown / White / Bright pink  
    **Answer:** Dark brown. *Why:* Every paint soaks up some light. All three together soak up most of it, so very little light comes back. That is why the mix is dark brown, not bright or white.
-4. (truefalse) Yellow paint and blue paint make green.  
-   **Answer:** True. *Why:* True. You saw green appear when you stirred yellow and blue together, though neither pot was green.
-5. (sort) Some colours come straight from the paint box. Others you mix. Put each colour in the right box: from the box, or mixed.  
+4. (sort) Some colours come straight from the paint box. Others you mix. Put each colour in the right box: from the box, or mixed.  
    **Answer:** Red → Primary: from the paint box; Green → Mixed from two paints; Yellow → Primary: from the paint box; Orange → Mixed from two paints; Blue → Primary: from the paint box; Purple → Mixed from two paints. *Why:* Red, yellow and blue are the primary colours, and the other paints cannot make them. Green, orange and purple are each mixed from two of them.
+5. (truefalse) Kalamkari painters make green by painting yellow over blue.  
+   **Answer:** True. *Why:* True. Painters in Srikalahasti paint yellow over indigo blue, and the two colours together look green, as in Lakshmi's story.
 6. (write) Say out loud, and a grown-up writes it down: what happened when you tried to get yellow back out of green?  
    **Answer:** I added more yellow, but it only turned yellowish green. It never turned plain yellow.. *Why:* A strong answer says what the child saw, and that the blue was still in the mix.
 7. (odd) Three of these can be mixed from other paints. Which one cannot?  
    Options: Green / Orange / Purple / Yellow  
    **Answer:** 3. *Why:* Yellow is a primary colour. Green, orange and purple can each be mixed from two primary colours.
 8. (perspective) Thenmozhi and her friend Anjali are mixing paints in Chennai.  
-   **Answer:** A strong answer picks Anjali and uses the test: all three paints made dark brown. It also says Thenmozhi has something right: each paint alone is bright, and brown is a useful colour, for a tree trunk or soil.. *Why:* Anjali is right about paint. Thenmozhi's idea is right for light, which children meet in a later unit. Both girls are thinking about what mixing does.
-9. (draw) Draw a green parrot. Then colour the two paints you would mix to paint her.  
-   **Answer:** A green parrot, with a yellow blob and a blue blob beside her.. *Why:* A strong drawing shows green made from yellow and blue. Real parrot feathers are yellow and blue together too, as in the story.
-10. (mcq) Aisha, a girl in Class 1, sees a bee fly straight to a bright orange marigold. Why is the marigold so bright?  
-   Options: Her colour calls bees and butterflies to her nectar / Her colour keeps the rain off / Her colour makes her leaves grow  
-   **Answer:** Her colour calls bees and butterflies to her nectar. *Why:* Bright colours help bees and butterflies find the nectar. As they visit, they carry pollen from flower to flower.
+   **Answer:** A strong answer picks Anjali and uses the test: all three paints made dark brown. It also says Thenmozhi has something right: each paint alone is bright, and brown is a useful colour, for a tree trunk or soil.. *Why:* Anjali is right about paint. Thenmozhi's guess is a common one. Mixing light works differently, which a later unit shows. Both girls are thinking about what mixing does.
+9. (draw) Draw a green parrot. Then colour the two paints you would mix to paint them.  
+   **Answer:** A green parrot, with a yellow blob and a blue blob beside the parrot.. *Why:* A strong drawing shows green made from yellow and blue. Real parrot feathers are yellow and blue together too, as in the story.
+10. (draw) Draw a bee flying to a bright flower. Colour the flower.  
+   **Answer:** A bee near a brightly coloured flower.. *Why:* A strong drawing shows a bright flower and a bee coming to the flower, because bright colours call bees and butterflies to their nectar.
 ### Why Mixes Get Darker (stretch) (stretch, 10 questions)
 1. (order) Put the Drop by Drop test in order.  
    **Answer:** ['Make yellow water', 'Add blue, one drop at a time', 'Pour in lots of water']. *Why:* First we make yellow water, then we add blue to make green, then we try to undo the green with water.
-2. (mcq) Bornali adds 1 drop of blue to yellow water, and then 5 more drops. What happens to the green?  
+2. (mcq) Bornali, a girl in Class 1, adds 1 drop of blue to yellow water, and then 5 more drops. What happens to the green?  
    Options: It gets darker / It gets lighter / It turns yellow  
    **Answer:** It gets darker. *Why:* Each drop of blue adds more blue, which absorbs more light. So the green gets darker.
 3. (write) Say out loud, and a grown-up writes it down: why did the green water stay green, even after you poured in lots of water?  
@@ -404,15 +399,15 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
    **Answer:** ['red and yellow', 'red and blue', 'yellow and blue', 'red, yellow and blue']. *Why:* A strong answer names the right mix for each. The tree trunk is brown, which needs all three.
 5. (truefalse) In a dark room, a red tomato still looks red.  
    **Answer:** False. *Why:* False. We need light to see colours. With no light falling on the tomato, it cannot send red light to our eyes, so it looks black.
-6. (count) In the Colour Mixing Test, Divya mixed three colour sums with two paints each, and one with all three paints. How many new colours did she make?  
+6. (count) In the Colour Mixing Test, a girl mixed three colour sums with two paints each, and one with all three paints. How many new colours did she make?  
    **Answer:** 4. *Why:* Green, orange and purple make 3. The brown from all three makes 4.
-7. (fill) Paint ___ some of the light that falls on it, and sends the rest back to our eyes.  
+7. (fill) Ask a grown-up to help you write the missing word. Paint ___ some of the light that falls on it, and sends the rest back to our eyes.  
    **Answer:** absorbs. *Why:* To absorb is to soak up. The light that is not absorbed comes back to us, and that is the colour we see.
 8. (draw) Draw a torch shining on yellow paint and on brown paint. Draw more arrows of light coming back from the one that sends back more light.  
    **Answer:** More arrows coming back from the yellow paint, and very few from the brown.. *Why:* Brown is a mix of all three paints, so it absorbs the most light. Yellow absorbs only a little, so lots of light comes back.
-9. (mcq) A pigeon's neck shines green and then purple as she turns her head. What makes those colours?  
-   Options: Tiny layers in her feathers / Paint / Sunlight getting tired  
-   **Answer:** Tiny layers in her feathers. *Why:* Tiny layers in the feathers send back different colours as the pigeon moves. That is why the colour changes when she turns.
+9. (mcq) A pigeon's neck shines green and then purple as they turn their head. What makes those colours?  
+   Options: Tiny layers in their feathers / Paint / Sunlight getting tired  
+   **Answer:** Tiny layers in their feathers. *Why:* Tiny layers in the feathers send back different colours as the pigeon moves. That is why the colour changes when they turn.
 10. (write) Say out loud, and a grown-up writes it down: green was not in the yellow pot or the blue pot. So where did the green come from?  
    **Answer:** Yellow paint soaks up blue light and blue paint soaks up red and yellow light. Together, green is what is left to come back to my eyes.. *Why:* A strong answer says that each paint soaks up some light, and green is the light left over. Any answer that uses what the child saw in the test is good thinking.
 
@@ -437,21 +432,21 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 5. (mcq) Which of these colours can you mix from two other paints?  
    Options: Orange / Red / Yellow  
    **Answer:** Orange. *Why:* Orange is mixed from red and yellow. Red and yellow are primary colours.
-6. (mcq) Lakshmi mixes all three paints together. What does she get?  
-   Options: Dark brown / White / A bright new colour  
-   **Answer:** Dark brown. *Why:* Every paint soaks up some light. Together they soak up most of it, so the mix is dark brown.
-7. (mcq) Is a mix of yellow and blue paint lighter or darker than the yellow?  
+6. (mcq) Is a mix of yellow and blue paint lighter or darker than the yellow?  
    Options: Darker / Lighter / Just the same  
    **Answer:** Darker. *Why:* The blue paint absorbs more of the light, so less light comes back. The green is darker than the yellow.
-8. (mcq) Kavya adds lots of water to her green paint. What happens?  
+7. (mcq) A girl adds lots of water to her green paint. What happens?  
    Options: It turns pale green / It turns yellow / It turns blue  
    **Answer:** It turns pale green. *Why:* Water spreads the colours out, so the green gets paler. The yellow and blue are both still there.
-9. (mcq) What does paint do with some of the light that falls on it?  
+8. (mcq) What does paint do with some of the light that falls on it?  
    Options: It absorbs, or soaks up, the light / It makes new light / It stores the light for night  
    **Answer:** It absorbs, or soaks up, the light. *Why:* Paint absorbs some light and sends the rest back to our eyes. That is the colour we see.
-10. (mcq) Why do many flowers have bright colours?  
+9. (mcq) Why do many flowers have bright colours?  
    Options: To call bees and butterflies / To keep warm / To frighten the Sun  
    **Answer:** To call bees and butterflies. *Why:* Bright colours help bees and butterflies find a flower's nectar.
+10. (mcq) Why do we see a leaf as green?  
+   Options: The leaf sends green light back to our eyes / The leaf makes green light in the dark / Someone paints the leaf green  
+   **Answer:** The leaf sends green light back to our eyes. *Why:* A leaf soaks up some of the light that falls on it and sends green light back to our eyes. With no light, there is no green to see.
 
 ## Applications
 - Painters mix a few paints to get the exact colour they need, instead of buying hundreds of pots.
@@ -464,14 +459,14 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 - Bright coloured powders in heaps at a market before Holi in Mathura or Kolkata.
 - A kolam in front of a house in Madurai at Pongal, filled with coloured powders.
 - Green parrots screeching in a neem or banyan tree in Bengaluru or Pune.
-- A pigeon on a balcony in Hyderabad, her neck shining green and purple.
+- A pigeon on a balcony in Hyderabad, their neck shining green and purple.
 - Marigolds, orange and yellow, strung into garlands at a temple in Guwahati or Chennai.
 - A wall paint shop in Kochi, where a machine squirts a few colours into a tin of white.
 
 ## Open questions
-- **How many colours can a person tell apart?** Scientists have tried to count them, and their answers range from about a million to many millions. It depends on how you count, and on who is looking.
+- **How many colours can a person tell apart?** Scientists often say about a million, but they do not agree on one number. It depends on how you count, and on who is looking.
 - **Why do we like some colours more than others?** Some studies find that many people like blue. Others find that it depends on where you grew up and what you remember. Scientists still argue about it.
-- **What does a red flower look like to a bee?** Bees see ultraviolet light but see red poorly. We can measure what light a bee's eyes take in. But nobody knows what the colours look like to the bee herself.
+- **What does a red flower look like to a bee?** Bees see ultraviolet light but see red poorly. We can measure what light a bee's eyes take in. But nobody knows what the colours look like to the bee themself.
 - **Why are blue flowers and blue animals so rare?** Many blue animals make their blue with tiny shapes, not pigment. Scientists think blue pigment may be hard for living beings to make, but nobody is sure.
 
 ## Questions to ask kids
@@ -485,18 +480,18 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 ## Jokes
 - Why did the yellow paint and the blue paint get married? *Because together they were evergreen!*
 - What did the red paint say to the yellow paint? *Orange you glad we met?*
-- Why was the brown paint so tired? *Because it had been mixed up in everything!*
-- What do you call a parrot who falls in blue paint? *Still green on the inside!*
 - Why did the paintbrush go to the doctor? *It was feeling a bit off-colour!*
-- What is a painter's favourite fruit? *An orange, because it is a colour too!*
+- What is purple and 5000 miles long? *The Grape Wall of China!*
 - Why did the purple paint call the red paint and the blue paint? *To say thank you, Amma and Appa!*
 - What colour is a burp? *Burple!*
 - Why was the white paint scared of the black paint? *It did not want to go grey!*
+- What is red and smells like blue paint? *Red paint!*
+- What is green and goes up and down? *A frog in a lift!*
 
 ## Connected maths
-- Divya has 3 primary colours: red, yellow and blue. She mixes them two at a time. Red and yellow is one mix. How many different mixes of two can she make? **3 mixes: red and yellow, red and blue, yellow and blue.**. Take each pair once. Red goes with yellow and with blue, which is 2. Then yellow goes with blue, which is 1 more. 2 and 1 make 3. (queues `math.logic.puzzles.L1`)
-- In the Drop by Drop test, Bornali's water was light green after 1 drop of blue and dark green after 6 drops. How many more drops made it dark? **5 more drops.**. Count on from 1 to 6: 2, 3, 4, 5, 6. That is 5 more drops. More blue made the green darker. (queues `math.number-sense.comparing-ordering.L1`)
-- In the Colour Hunt, Nila found 3 green things, 1 purple thing and 4 red things. Make a tally. Which colour did she find most? Which was hardest to find? **Red, with 4, was found most. Purple, with 1, was hardest to find.**. Draw one stroke for each thing: green has 3, purple has 1, red has 4. 4 is the biggest, and 1 is the smallest. (queues `math.data.sorting-and-tallies.L1`)
+- A girl has 3 primary colours: red, yellow and blue. She mixes them two at a time. Red and yellow is one mix. How many different mixes of two can she make? **3 mixes: red and yellow, red and blue, yellow and blue.**. Take each pair once. Red goes with yellow and with blue, which is 2. Then yellow goes with blue, which is 1 more. 2 and 1 make 3. (queues `math.logic.puzzles.L1`)
+- In the Drop by Drop test, a girl's water was light green after 1 drop of blue and dark green after 6 drops. How many more drops made it dark? **5 more drops.**. Count on from 1 to 6: 2, 3, 4, 5, 6. That is 5 more drops. More blue made the green darker. (queues `math.number-sense.comparing-ordering.L1`)
+- A girl counts things in her kitchen: 3 green things, 1 purple thing and 4 red things. Make a tally. Which colour did she find most? Which was hardest to find? **Red, with 4, was found most. Purple, with 1, was hardest to find.**. Draw one stroke for each thing: green has 3, purple has 1, red has 4. 4 is the biggest, and 1 is the smallest. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Who Makes the Light? (sci.light.L1): Topic-level song for Light, seeing and shadows L1
@@ -508,7 +503,7 @@ Who Makes the Light? (sci.light.L1): Topic-level song for Light, seeing and shad
 - [Nehru Science Centre]() · place · Mumbai: A science centre with hands-on exhibits, including some on light.
 
 ## Things to buy
-- [Poster colours: red, yellow and blue]() (material): For mixing in the Colour Mixing Test, the colour book and the leaf challenge. Food colours in water can stand in for them. Used in e1, p1, c1. Keep the pots for every painting day in this unit.
+- [Poster colours: red, yellow and blue]() (material): For mixing in the Colour Mixing Test, the colour book and the leaf challenge. Food colours in water can stand in for them. Used in e1, p1, c1. 
 
 ## Warm-up
 - What do yellow and blue paint make? → Green.
@@ -517,7 +512,7 @@ Who Makes the Light? (sci.light.L1): Topic-level song for Light, seeing and shad
 - Name the three primary colours of a paint box. → Red, yellow and blue.
 - What do all three paints make together? → Dark brown.
 - Can you see colours in the dark? → No. We need light to see colours.
-- What colour is a parrot? → Green, with a red beak. Her green is yellow and blue together.
+- What colours are inside a green parrot's feathers? → Yellow and blue together.
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards

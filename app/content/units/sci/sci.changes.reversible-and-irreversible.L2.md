@@ -35,7 +35,7 @@ In the dough test, you squashed a ball of dough into a flat disc. Then you rolle
 ### Reversible changes: changes we can undo · *defined*
 **Definition:** A reversible change is a change that can be undone, so the material goes back to how it was before.
 
-Your squashed dough rolled back into a ball. The dough from the freezer was stiff and cold, but in your warm hands it went soft again. A plastic ruler bent into a curve and then sprang back straight. Each of these changes could be undone. Melting and freezing are reversible changes too. Ice melts into water, and water freezes back into ice.
+Your squashed dough rolled back into a ball. The dough from the freezer was stiff and cold, but in your warm hands it went soft again. A plastic ruler bent into a curve and sprang back straight. Melting and freezing are reversible too. Ice melts into water, and water freezes back into ice.
 - e.g. Squashed dough rolled back into a ball
 - e.g. Stiff frozen dough warmed until it is soft again
 - e.g. A bent ruler springing back straight
@@ -43,7 +43,7 @@ Your squashed dough rolled back into a ball. The dough from the freezer was stif
 ### Irreversible changes: changes we cannot undo · *defined*
 **Definition:** An irreversible change is a change that cannot be undone. Often, heating makes a new material that cannot turn back into the old one.
 
-On the hot tawa, the soft dough became a stiff roti with brown spots. When it cooled, you could not roll it into a ball. Soaking it in water only made it soggy. It did not turn back into dough. The heat had changed the dough into a new material. Snapping a toothpick is irreversible too, but in a different way. The wood is still wood, but you cannot join it back into one piece.
+On the hot tawa, the soft dough became a stiff roti with brown spots. When it cooled, you could not roll it into a ball. Soaking it in water only made it soggy. The heat had changed the dough into a new material. A snapped toothpick is irreversible in a different way. It is still wood, but you cannot join it into one piece.
 - e.g. Dough cooked into a roti
 - e.g. Dosa batter cooked into a dosa
 - e.g. A raw egg cooked until it is hard
@@ -51,7 +51,7 @@ On the hot tawa, the soft dough became a stiff roti with brown spots. When it co
 ### Why some things spring back and others stay bent · *defined*
 **Definition:** A thing springs back when the tiny particles it is made of are pushed a little out of place and then pull back. It stays bent when they are pushed so far that they slide into new places.
 
-Every material is made of tiny particles, far too small to see, that hold on to each other. Bend a ruler a little, and its particles are pushed a little apart. When you let go, they pull back, and the ruler springs straight. Bend a paper clip a lot, and its particles slide into new places and hold on there. So the clip stays bent. A toothpick is different again. Its wood fibres pull apart and the toothpick snaps.
+Everything is made of tiny particles, far too small to see, that hold on to each other. Bend a ruler a little, and the particles are pushed a little apart. When you let go, they pull back, so the ruler springs straight. Bend a paper clip a lot, and its particles slide into new places and stay there. So the clip stays bent.
 - e.g. A ruler bent a little springs back.
 - e.g. A paper clip bent a lot stays bent.
 - e.g. A strip of foil stays bent even after a small bend.
@@ -135,7 +135,7 @@ Athai picked up the crooked pot. Then she squashed it flat between her palms. Sh
 
 So Selvi tried again. This time her pot came out round, with walls as thick as her finger all the way round. She set it on a plank in the shade to dry.
 
-The next morning, the pot was pale and hard. Karthik tapped it. "It's done," he said. "Now it's a real pot."
+Two days later, the pot was pale and hard. Karthik tapped it. "It's done," he said. "Now it's a real pot."
 
 "Not yet," said Athai. "Watch." She broke a small piece off the edge of an old dried pot she had thrown away. She dropped it into a tumbler of water. In a few minutes, the piece went soft. Athai squeezed it, and it was sticky clay again.
 
@@ -147,7 +147,7 @@ Selvi stared. "Drying can be undone?"
 
 Athai pointed to a round mud oven at the end of the yard. It was taller than Selvi. "That is my kiln," she said. "It gets much hotter than any kitchen. Hotter than a tawa, hotter than a cooker. We will fire your pot in it."
 
-Two days later, Athai filled the kiln with pots, lamps and Selvi's little pot. She lit the fire, and she kept it burning all day and late into the night. The yard smelled of smoke. Nobody was allowed to go near.
+The next day, Athai filled the kiln with pots, lamps and Selvi's little pot. She lit the fire, and she kept it burning all day and late into the night. The yard smelled of smoke. Nobody was allowed to go near.
 
 In the morning, when the kiln had cooled, Athai lifted the pots out. Selvi's pot was not grey any more. It was a warm orange-red, the colour of a flowerpot. When Selvi tapped it with her nail, it made a little ringing sound, like a bell.
 
@@ -380,7 +380,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
   *Parent does:* 1. Your child finds two new changes. 2. Ask for one made by cooling.  
   *Parent says:* Can you find a change made by cooling today? Can it be undone?  
   *Child mode:* Find two new changes. Can you find one made by cooling?
-  - Ask: What change did cooling make? (good: Water froze into ice.; Ghee went hard.; Hot tea got a skin on top as it cooled.)
+  - Ask: What change did cooling make? (good: Water froze into ice.; Ghee went hard.; Melted candle wax went hard.)
   - Wait: The next day
 - **s3 (7 min)**  
   *Parent does:* 1. Your child finds two more changes. 2. Then reads the whole diary aloud to someone at home.  

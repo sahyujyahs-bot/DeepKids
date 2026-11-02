@@ -3,12 +3,12 @@
  "title": "Start, stop, faster, slower: how a push changes moving things",
  "level": 1,
  "summary": {
-  "text": "Tap a rolling ball from behind, and it goes faster. Tap it from the front, and it slows down or stops. A push or a pull is called a force. A force can start a thing, stop it, speed it up or slow it down. Your child taps, flicks and watches things move, and finds that the side of the push decides what happens.",
-  "art": "A girl kneeling on a tiled floor, tapping a rolling ball gently with a rolled-up newspaper, while her mother rolls the ball towards her."
+  "text": "Tap a rolling ball from behind, and it goes faster. Tap it from the front, and it slows down or stops. A push or a pull is called a force. Your child taps, flicks and watches, and finds that the side of the push decides what happens.",
+  "art": "A girl kneeling on a tiled floor, tapping a rolling ball gently with a rolled-up newspaper, while a grown-up rolls the ball towards her."
  },
  "intro": {
   "hook": "Roll a ball slowly across the floor. Can you make it stop without grabbing it?",
-  "text": "A rolling ball keeps going until something changes it. You can stop it with a push from the front. You can make it faster with a push from behind. In this unit you find out how pushes start, stop, speed up and slow down moving things. You also find out why a rolling ball stops on its own.",
+  "text": "A rolling ball keeps going until something pushes against it. A push from behind makes it faster. A push from the front slows it or stops it. You also find out why a rolling ball stops on its own.",
   "art": "A ball rolling across a tiled floor towards a small child's open hand held flat in front of it."
  },
  "outcomes": [
@@ -51,7 +51,7 @@
    "concept": "A push or a pull starts a thing, and a push or a pull stops it",
    "status": "defined",
    "definition": "A still thing starts moving only when a force pushes or pulls it. A moving thing stops only when a force pushes or pulls against it.",
-   "description": "A ball lying on the floor stays still. It starts to roll when you tap it. Once it is rolling, it needs another push to stop. Your hand in front of the ball pushes against it, and it stops. Starting and stopping both need a force.",
+   "description": "A ball lying on the floor stays still until you tap it. Once it is rolling, it needs another push to stop. Your hand in front of the ball pushes against it. Starting and stopping both need a force.",
    "examples": [
     "In the Tap Test, a still ball started rolling after one tap.",
     "A goalkeeper stops a ball by pushing against it with her hands.",
@@ -65,7 +65,7 @@
    "concept": "The side of the push decides: faster or slower",
    "status": "defined",
    "definition": "A push the same way a thing is moving makes it go faster. A push against the way it is moving makes it go slower, or stop.",
-   "description": "In the Tap Test, you tapped a rolling ball from behind. It went faster. Then you tapped it from the front. It slowed down, or stopped, or even rolled back. The tap was just as gentle each time. Only the side you tapped from changed. So the same push can speed a thing up or slow it down. It depends on which way the push points.",
+   "description": "In the Tap Test, a tap from behind made the rolling ball faster. A tap from the front made it slower, or stopped it. The tap was just as gentle each time. Only the side you tapped from changed.",
    "examples": [
     "Tapping the ball from behind made it go faster.",
     "Tapping the ball from the front made it slow down or stop.",
@@ -79,9 +79,9 @@
    "concept": "A bigger push makes a bigger change",
    "status": "defined",
    "definition": "A small push makes a small change in speed. A big push makes a big change.",
-   "description": "In the Flick Test, you flicked a bottle cap gently, then harder. The hard flick sent it faster, and it went over more tiles before it stopped. Stopping works the same way. A fast ball needs a bigger push to stop it than a slow ball does. You can feel this in your hand when you catch.",
+   "description": "In the Flick Test, the hard flick sent the bottle cap over more tiles than the gentle flick. A fast ball is harder to stop than a slow ball. You can feel this when you catch one.",
    "examples": [
-    "A gentle flick sent the bottle cap over 2 or 3 tiles. A hard flick sent it much further.",
+    "A gentle flick sent the bottle cap a short way. A hard flick sent it much further.",
     "A fast ball stings your hand more when you catch it than a slow ball.",
     "A heavy cupboard needs a much bigger push to start moving than an empty box."
    ],
@@ -93,7 +93,7 @@
    "concept": "Why a rolling ball stops on its own",
    "status": "defined",
    "definition": "A rolling ball slows down because the floor and the air push against it all the time. These pushes are small, so the ball slows down slowly.",
-   "description": "Nobody touches a rolling ball, but it still stops. The floor rubs against it as it rolls, and the air pushes against it too. These small pushes point against the way the ball is going, so they slow it down. On a towel the rubbing is bigger, so the ball stops sooner. On a very smooth floor the rubbing is smaller, so the ball rolls further. The rubbing push between two things that touch is called friction.",
+   "description": "Nobody touches a rolling ball, but it still stops. The floor rubs against it, and the air pushes against it. These small pushes go against the way the ball is moving. On a towel the rubbing is bigger, so the ball stops sooner. This rubbing push is called friction.",
    "examples": [
     "A ball rolls a long way on smooth tiles, and stops quickly on a towel or a dari.",
     "A ceiling fan keeps turning for a while after you switch it off, then slowly stops.",
@@ -170,7 +170,7 @@
   "title": "Ammu Stops the Boat",
   "mins": 6,
   "read_aloud": true,
-  "note": "Alappuzha is a real town in Kerala, with many canals and backwaters where people travel in small boats. Ducks really do land feet first, skidding on the water to slow down. Ammu, Ammamma and Kannan are made up. Ammamma means mother's mother in Malayalam.",
+  "note": "Alappuzha is a real town in Kerala, with many canals and backwaters where people travel in small boats. Ammu, Ammamma and Kannan are made up. Ammamma means mother's mother in Malayalam.",
   "text": [
    "Ammu was six. She lived beside the backwaters in Alappuzha, in Kerala. Her grandmother, Ammamma, had a small wooden boat.",
    "Every morning, Ammamma rowed across the water to buy fish at the market. Today, Ammu was going with her.",
@@ -193,8 +193,6 @@
    "She pushed again. The boat slowed more. One more push, and the boat stopped, right beside the steps. It did not even touch them.",
    "'I did it!' said Ammu.",
    "'You did,' said Ammamma. 'Pull the water back, and we go faster. Push it forward, and we slow down. The same oar, the same arms. Only the way you push is different.'",
-   "Just then, a duck flew down to land. She stretched her feet out in front of her. They skidded across the water, splash, and she slowed down and stopped.",
-   "'Look!' said Ammu. 'The duck pushes her feet forward, like my oar.'",
    "In the evening, Ammu's little cousin Kannan came to play. He was four. He rolled a coconut along the verandah, and it rolled straight towards the steps.",
    "'Stop it, Ammu!' he shouted.",
    "Ammu did not grab it. She put her flat hand gently in front of the coconut. It pushed against her hand and stopped.",
@@ -206,13 +204,12 @@
   "ask": [
    "Why did the boat bump into the market steps?",
    "What did Ammu do with the oar to stop the boat at home?",
-   "How did the duck slow down when she landed?",
    "How did Ammu stop the rolling coconut without grabbing it?"
   ],
   "art": [
    "A grandmother in a white mundu rowing a small wooden boat on a green Kerala backwater lined with coconut palms, a girl sitting at the front.",
    "The front of the boat bumping gently into stone market steps, a basket of onions wobbling and a fish seller laughing.",
-   "The girl pushing the oar forward in the water, the boat stopping beside the steps, and a duck landing feet first with a splash.",
+   "The girl pushing the oar forward in the water and the boat stopping beside the steps.",
    "The girl holding her flat hand in front of a rolling coconut on a verandah, while a small boy watches."
   ]
  },
@@ -225,7 +222,7 @@
    "context": "This is the main experiment of the unit. A grown-up rolls a ball slowly across the floor. You tap it with a rolled-up newspaper: when it is still, from behind, and from the front. What does the same gentle tap do each time?",
    "question": "What happens when you tap a rolling ball from behind? What happens when you tap it from the front?",
    "predict": "Guess first. If you tap a rolling ball from behind, will it go faster, slower, or stop? If you tap it from the front, what will it do? Why do you think so?",
-   "fair_test": "We use the same ball, the same rolled newspaper and the same gentle tap every time. The grown-up rolls the ball just as slowly each time. Only the side we tap from changes. We try each side 3 times, because one try can be a fluke.",
+   "fair_test": "We use the same ball, the same rolled newspaper and the same gentle tap every time. The grown-up rolls the ball just as slowly each time. Only the side we tap from changes. We try each side 3 times, because one try might be luck.",
    "results_table": [
     "Where I tapped",
     "My guess",
@@ -314,7 +311,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Hold up the ball. 2. Ask both guesses and the reasons. 3. Write or draw the guesses in the table.",
+     "do": "1. Hold up the ball. 2. Ask both guesses and the reasons. 3. Your child draws the guesses, and a grown-up writes them in the table.",
      "say": "If you tap a rolling ball from behind, what will it do? If you tap it from the front, what will it do? Why do you think so?",
      "kid": "Guess. A tap from behind: faster, slower or stop? A tap from the front? Why?",
      "ask": [
@@ -361,7 +358,7 @@
        ]
       }
      ],
-     "parent": "Roll the ball really slowly, so your child can walk beside it. If the tap misses, just try again. Put the FASTER slip by the table each time it speeds up."
+     "parent": "Roll the ball really slowly, so your child can walk beside it. If the tap misses, just try again. Put the FASTER slip by the ball each time it speeds up."
     },
     {
      "id": "s5",
@@ -379,7 +376,7 @@
        ]
       }
      ],
-     "parent": "The ball may slow down, stop, or bounce back, depending on the tap. All three are a push against the way it was rolling. If it bounced back, the tap was a little too big."
+     "parent": "The ball may slow down, stop, or bounce back, depending on the tap. All three are a push against the way it was rolling. If it bounced back, the tap was a little too big. Put the SLOWER or STOPPED slip by the ball to match what it did."
     },
     {
      "id": "s6",
@@ -427,7 +424,7 @@
    "context": "In this experiment you flick a bottle cap across a tiled floor, first gently and then harder. You count how many tiles it goes over before it stops.",
    "question": "Does a harder flick make a bottle cap go faster and further?",
    "predict": "Guess first. Will a hard flick send the cap further than a gentle flick? How many tiles do you think each one will go? Why do you think so?",
-   "fair_test": "We use the same cap, the same finger and the same starting line every time. Only how hard we flick changes. We flick 3 times for each, because one flick can be a fluke.",
+   "fair_test": "We use the same cap, the same finger and the same starting line every time. Only how hard we flick changes. We flick 3 times for each, because one flick might be luck.",
    "results_table": [
     "Flick",
     "Try 1: tiles",
@@ -440,7 +437,7 @@
      "qty": 1
     },
     {
-     "item": "a tiled floor, or a long table with a line every hand-span drawn on paper",
+     "item": "a tiled floor, or a long table with a line every hand-span drawn on paper (if your tiles are very big, use tape marks on the floor one hand-span apart)",
      "qty": 1
     },
     {
@@ -510,15 +507,15 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Your child flicks the cap gently 3 times from the line. 2. Count the tiles each time, together. 3. Write the numbers.",
+     "do": "1. Your child flicks the cap gently 3 times from the line. 2. Count the tiles each time, together. 3. A grown-up writes the numbers.",
      "say": "Flick it gently. Watch it go. Now count the tiles it went over. Let's do it 3 times.",
      "kid": "Flick gently. Count the tiles. Do it 3 times.",
-     "parent": "Count a tile if the cap went past its middle. If you have no tiles, use hand-spans on a table."
+     "parent": "Count a tile if the cap went past its middle. If your tiles are very big, stick small bits of tape on the floor, one hand-span apart, and count those. On a table, use hand-spans drawn on paper."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child flicks hard 3 times. 2. Count the tiles. 3. Write the numbers.",
+     "do": "1. Your child flicks hard 3 times. 2. Count the tiles. 3. A grown-up writes the numbers.",
      "say": "Now flick it hard. Was it faster? Count the tiles.",
      "kid": "Now flick hard. Was it faster? Count the tiles.",
      "ask": [
@@ -530,7 +527,7 @@
        ]
       }
      ],
-     "parent": "Keep the room clear so the cap does not slide under furniture. A hard flick is still a finger flick, not a throw."
+     "parent": "Keep the room clear so the cap does not slide under furniture. A hard flick is still a finger flick, not a throw. Flicks are never exactly the same, so one hard flick may go less far than one gentle flick. That is why we flick 3 times."
     },
     {
      "id": "s4",
@@ -586,11 +583,11 @@
    "record": "Draw the fan four times: still, slow, fast, and slowing down. Draw lines round the fast one to show it is fast.",
    "setup": [
     {
-     "art": "A mother pointing to a ceiling fan switch on the wall while a boy lies on a mat looking up at the still fan.",
-     "caption": "1. Lie on the floor and look up at the still fan."
+     "art": "A grown-up pointing to a ceiling fan switch on the wall while a boy sits on a mat across the room, looking up at the still fan.",
+     "caption": "1. Sit on a mat to one side and look up at the still fan."
     },
     {
-     "art": "A ceiling fan with blurred blades, and the boy on the mat counting on his fingers.",
+     "art": "A ceiling fan with blurred blades, and the boy on the mat to one side counting on his fingers.",
      "caption": "2. Switch it on, then off. Count until it stops."
     }
    ],
@@ -598,7 +595,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Your child lies on a mat under the still fan. 2. Switch the fan on at the lowest speed.",
+     "do": "1. Your child sits on a mat to one side of the fan, not right under it. 2. Switch the fan on at the lowest speed.",
      "say": "Watch the fan. It is still. Now I switch it on. Does it go fast straight away?",
      "kid": "Watch the fan. Does it go fast straight away?",
      "ask": [
@@ -643,7 +640,7 @@
        ]
       }
      ],
-     "parent": "Most fans keep turning for half a minute or more. The air and the rubbing inside the fan slowly stop it."
+     "parent": "Most fans keep turning for a good while, often half a minute or more. The air and the rubbing inside the fan slowly stop it."
     },
     {
      "id": "s4",
@@ -656,7 +653,7 @@
       "q": "A fan keeps turning after you switch it off, and then it stops. Why does it stop?",
       "options": [
        "The air and the rubbing inside slowly push against it",
-       "It gets tired and wants to sleep",
+       "Nothing pushes it. It just stops",
        "The switch pulls it back"
       ],
       "a": 0,
@@ -677,7 +674,7 @@
      "qty": 1
     },
     {
-     "item": "a paper with 4 boxes: START, STOP, FASTER, SLOWER, or 4 drawings: a green light, a red light, a cheetah and a snail",
+     "item": "a sheet of paper with 4 boxes drawn on it, each with a word: START, STOP, FASTER, SLOWER (or a drawing: a green light, a red light, a cheetah, a snail)",
      "qty": 1
     },
     {
@@ -695,7 +692,7 @@
    "record": "Your paper with ticks in the four boxes, and a drawing of one thing you saw stop.",
    "setup": [
     {
-     "art": "A girl and her grandmother at a flat window, looking down at a road with autos, a scooter and a bus stopping at a stop.",
+     "art": "A girl and a grown-up at a flat window, looking down at a road with autos, a scooter and a bus stopping at a stop.",
      "caption": "1. Look out for 5 minutes."
     },
     {
@@ -747,7 +744,8 @@
       "why": "A moving thing slows down when something pushes against its movement. The brakes press on the wheels and slow them down."
      }
     }
-   ]
+   ],
+   "safety": "At a balcony, stay behind the grill or railing and never lean over it."
   },
   {
    "id": "a3",
@@ -761,7 +759,7 @@
      "qty": 1
     },
     {
-     "item": "a pillow or a folded blanket",
+     "item": "a pillow or a folded blanket, propped upright against a wall or the sofa",
      "qty": 1
     },
     {
@@ -852,7 +850,7 @@
    "id": "g1",
    "title": "Which Way to Push?",
    "mins": 10,
-   "players": "1 or more players and a grown-up who reads the cards.",
+   "players": "1 to 4 players and a grown-up who reads the cards. With two people, the grown-up reads and the child plays.",
    "context": "This is a card game. Each card shows something moving and what you want it to do. You put a paper arrow down to show which way to push: the same way it is moving, or against it.",
    "printables": [
     {
@@ -885,7 +883,7 @@
       },
       {
        "f": "A duck is flying down to the pond. She wants to SLOW DOWN.",
-       "b": "She pushes against it: feet out in front, wings spread."
+       "b": "Push against the way she is going: feet out in front, wings spread wide."
       },
       {
        "f": "A friend on roller skates is rolling slowly. Make her go FASTER.",
@@ -903,12 +901,12 @@
     }
    ],
    "rules": [
-    "Draw two big arrows on paper and colour them: one green, one red. Cut them out.",
-    "A grown-up reads one card out loud.",
+    "Cut out the 8 cards and the 2 arrows: green is SAME WAY and red is AGAINST.",
+    "Put the cards in a pile, front side up. The grown-up reads the front of the top card to the player whose turn it is.",
     "The player says SAME WAY or AGAINST, and lays the green or red arrow next to the card.",
-    "Then the grown-up reads the back. A right answer wins the card.",
-    "For a START card, any arrow wins, because a still thing has no way yet.",
-    "Play until all 8 cards are won."
+    "The grown-up reads the back. A right answer wins the card. For a START card, any arrow is right, because a still thing has no way yet.",
+    "A wrong answer: the grown-up shows it with a ball or a hand, and the card goes to the bottom of the pile to come round again.",
+    "Players take turns. The game ends when all 8 cards are won. Whoever has the most cards wins, and a tie means you all win. With two people, the child plays and tries to win all 8."
    ],
    "setup": [
     {
@@ -916,7 +914,7 @@
      "caption": "1. A grown-up reads a card."
     },
     {
-     "art": "A card with a picture of a swing, and a green arrow laid next to it pointing the same way as the swing.",
+     "art": "A card that reads \"A swing is moving forward. Make it go FASTER.\", and a green paper arrow laid next to it.",
      "caption": "2. Lay down the arrow: same way or against."
     }
    ],
@@ -924,7 +922,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Make the two arrows. 2. Explain green means SAME WAY and red means AGAINST.",
+     "do": "1. Cut out the cards and the two arrows. 2. Explain green means SAME WAY and red means AGAINST.",
      "say": "Green means push the same way it is moving. Red means push against it. Listen to each card and pick an arrow.",
      "kid": "Green: push the same way. Red: push against it. Pick one for each card."
     },
@@ -969,7 +967,7 @@
    "id": "g2",
    "title": "Cheetah, Snail, Statue",
    "mins": 8,
-   "players": "1 or more players and a caller.",
+   "players": "2 or more players. One is the caller, a grown-up first.",
    "context": "This is a moving game. The caller holds up a card, and the players walk faster, slower, start or stop. Then you say what your feet did.",
    "printables": [
     {
@@ -986,7 +984,7 @@
       },
       {
        "f": "SNAIL",
-       "b": "Walk slower. Push less, and lean back a little."
+       "b": "Walk slower. Push less with your feet."
       },
       {
        "f": "STATUE",
@@ -997,9 +995,9 @@
    ],
    "rules": [
     "Clear a space. Players walk, never run, on a floor that is not slippery.",
-    "The caller holds up GO, CHEETAH, SNAIL or STATUE. Players follow the card.",
+    "The caller holds up GO, CHEETAH, SNAIL or STATUE, in any order. Players follow the card.",
     "After each STATUE, the caller asks one player what their feet did to stop.",
-    "A player who explains well becomes the next caller."
+    "After 4 STATUEs, the caller swaps with another player. The game ends when every player has been the caller once."
    ],
    "safety": "Walk, do not run. Play barefoot or in shoes, not in socks on tiles, so nobody slips.",
    "setup": [
@@ -1023,15 +1021,15 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Hold up the cards in any order, about every 10 seconds. After each STATUE, ask what their feet did.",
-     "say": "Statue! Freeze! What did your feet do to stop you? Did you lean?",
+     "do": "Hold up the cards in any order, about every 10 seconds. After each STATUE, ask what their feet did. After 4 STATUEs, swap callers.",
+     "say": "Statue! Freeze! What did your feet do to stop you?",
      "kid": "Freeze! What did your feet do to stop you?",
      "ask": [
       {
        "q": "What did your feet do to stop?",
        "good": [
         "They pushed forward on the floor.",
-        "I leaned back and pressed my feet down."
+        "I pressed my feet down on the floor."
        ]
       }
      ],
@@ -1107,7 +1105,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Make the book. 2. Write START and STOP on the first two pages. 3. Your child draws one thing for each.",
+     "do": "1. Make the book. 2. A grown-up writes START and STOP on the first two pages. 3. Your child draws one thing for each.",
      "say": "What did you see start today? What did you see stop? Draw them. Draw an arrow for the push.",
      "kid": "Draw something that started and something that stopped. Add an arrow for the push.",
      "parent": "Good ideas: a mixie starting, a ball stopping, a door being pushed open, a bus stopping."
@@ -1115,7 +1113,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Write FASTER and SLOWER on the next pages. Your child draws one thing for each.",
+     "do": "A grown-up writes FASTER and SLOWER on the next pages. Your child draws one thing for each.",
      "say": "What did you see go faster today? What went slower? What pushed them?",
      "kid": "Draw something going faster and something going slower.",
      "wait": "Do this on day 2."
@@ -1124,7 +1122,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Your child draws themself starting and stopping, then reads the book to someone.",
-     "say": "Draw yourself starting to walk and stopping. Now read your book to Ammamma or Appa.",
+     "say": "Draw yourself starting to walk and stopping. Now read your book to someone in the family.",
      "kid": "Draw yourself starting and stopping. Read your book to someone.",
      "wait": "Do this on day 3.",
      "check": {
@@ -1148,7 +1146,7 @@
    "title": "Stop the Ball on the Line",
    "mins": 15,
    "context": "This is a design challenge. A ball rolls down a slope. You must make it stop on a line drawn on the floor, without touching it.",
-   "problem": "Meenakshi rolls a ball down a slope made of a tray leaning on two books. Can you make the ball stop on a line, about one big step from the bottom, without anyone touching it?",
+   "problem": "A ball rolls down a slope made of a tray leaning on two books. Can you make the ball stop on a line, about one big step from the bottom, without anyone touching it?",
    "constraints": [
     "Nobody may touch the ball once it starts.",
     "Use only things from home.",
@@ -1163,13 +1161,13 @@
    ],
    "general": [
     "Long jumpers land in a pit of soft sand, which stops them gently.",
-    "Runaway truck ramps on some steep ghat roads are filled with loose gravel or sand, to slow down trucks whose brakes have failed.",
+    "Some steep mountain roads in the world have runaway truck ramps filled with loose gravel or sand, to slow down trucks whose brakes have failed.",
     "Cricket nets and goal nets stretch and slowly stop the ball."
    ],
    "creative": [
     "Lay a towel on the floor after the slope. The rubbing slows the ball, so it stops sooner.",
     "Fold the towel to make it thicker, or lay it out only partly, until the ball stops right on the line.",
-    "Put a pillow just past the line as a soft wall, to stop the ball gently."
+    "Stand a pillow right at the line as a soft wall, so the ball stops gently at the line."
    ],
    "your_turn": "Try two ways of stopping the ball on the line. Which works better? Why do you think so?",
    "setup": [
@@ -1187,8 +1185,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem. Let the ball roll once with nothing in its way.",
-     "say": "Watch where the ball stops with nothing in its way. It goes past the line. How could we make it stop sooner?",
-     "kid": "Watch the ball. It goes past the line. How can you stop it sooner?",
+     "say": "Watch where the ball stops with nothing in its way. It probably goes past the line. If it stops short, move the line further away. How could we make it stop sooner?",
+     "kid": "Watch the ball. Does it stop before the line or go past it? How can you make it stop on the line?",
      "ask": [
       {
        "q": "What could stop it sooner?",
@@ -1219,7 +1217,7 @@
       "options": [
        "The towel rubbed against the ball more, pushing against its movement",
        "The towel pulled the ball forward",
-       "The ball wanted to sleep on the towel"
+       "The ball was too heavy to roll"
       ],
       "a": 0,
       "why": "The rubbing between the towel and the ball pushes against the ball's movement. The bigger rubbing on a towel slows it down sooner. This rubbing is called friction."
@@ -1391,7 +1389,7 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Lakshmi and her brother Farhan roll a ball across the floor in Hyderabad. It slows down and stops.",
+     "p": "Lakshmi and her friend Farhan roll a ball across the floor in Hyderabad. It slows down and stops.",
      "views": [
       {
        "who": "Farhan, aged 6",
@@ -1407,26 +1405,6 @@
      "a": "A strong answer picks a side with evidence. For Lakshmi: the ball stopped sooner on a towel, so something outside the ball slows it. For Farhan: no person touched it, and the push from the floor is too small to see.",
      "why": "Both see something true. No hand touched the ball, but the floor and the air push against it all the time. That is why it stops sooner on a rough towel.",
      "how": "c1"
-    },
-    {
-     "t": "mcq",
-     "p": "A ball rolls onto a towel. What happens?",
-     "opts": [
-      "It stops sooner than on the tiles",
-      "It rolls further than on the tiles",
-      "It speeds up"
-     ],
-     "a": 0,
-     "why": "The towel rubs against the ball more than smooth tiles do. That push against the ball's movement stops it sooner.",
-     "how": "c1"
-    },
-    {
-     "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: the fan was switched off, but it kept turning. Why did it stop in the end?",
-     "lines": 2,
-     "a": "The air and the rubbing inside the fan pushed against it, little by little, until it stopped.",
-     "why": "A strong answer says something pushed against the fan's movement. Nothing slows down without a push against it.",
-     "how": "a1"
     },
     {
      "t": "draw",
@@ -1462,31 +1440,20 @@
        "Stopped it"
       ],
       [
-       "A single thread across the floor",
-       "Only slowed it"
+       "A folded blanket",
+       "Stopped it"
       ]
      ],
      "a": "see items",
-     "why": "A pillow and a book push back hard enough to stop the ball. Paper and a thread push back only a little, so the ball only slows.",
+     "why": "A pillow, a blanket and a book push back hard enough to stop the ball. Paper pushes back only a little, so the ball only slows.",
      "how": "a3"
     },
     {
      "t": "count",
-     "p": "Farhan flicked a cap 3 times gently. It went 2 tiles, 1 tile and 2 tiles. How many tiles in all?",
+     "p": "Farhan, a boy in Class 1, flicked a cap 3 times gently. It went 2 tiles, 1 tile and 2 tiles. How many tiles in all?",
      "a": 5,
      "why": "2 and 1 make 3. 3 and 2 make 5.",
      "how": "e2"
-    },
-    {
-     "t": "mcq",
-     "p": "A duck flies down to land on a pond. How does she slow down?",
-     "opts": [
-      "She pushes her feet out in front of her",
-      "She folds her feet behind her",
-      "She flaps faster the same way"
-     ],
-     "a": 0,
-     "why": "Her feet out in front push against her movement, like Ammu's oar pushed forward, so she slows down and stops."
     },
     {
      "t": "write",
@@ -1499,7 +1466,7 @@
      "t": "label",
      "p": "Look at the picture of a girl on a swing. Say what each push does: FASTER or SLOWER, and a grown-up writes it.",
      "labels": [
-      "Mother pushes from behind as the swing goes away",
+      "A grown-up pushes from behind as the swing goes away",
       "The girl drags her feet on the ground"
      ],
      "a": [
@@ -1507,7 +1474,35 @@
       "SLOWER"
      ],
      "why": "A push the same way as the swing speeds it up. Feet dragging on the ground push against it, so it slows down.",
-     "art": "A girl on a swing, with her mother behind her and her feet just touching the ground, and two empty labels."
+     "art": "A girl on a swing, with a grown-up behind her and her feet just touching the ground, and two empty labels."
+    },
+    {
+     "t": "mcq",
+     "p": "Two trolleys get the same gentle push. One is empty and one is full of heavy bags. Which one speeds up more?",
+     "opts": [
+      "The empty trolley",
+      "The full trolley",
+      "They speed up the same"
+     ],
+     "a": 0,
+     "why": "A heavy thing needs a bigger push to change its speed. The same push changes the empty trolley more."
+    },
+    {
+     "t": "truefalse",
+     "p": "In space, a ball that is pushed gently keeps moving for a very long time.",
+     "a": true,
+     "why": "True. In space there is almost no air and no floor to push against the ball, so nothing slows it down."
+    },
+    {
+     "t": "mcq",
+     "p": "A cricketer pulls her hands back as she catches a fast ball. Why?",
+     "opts": [
+      "The ball slows down over a longer time, so it stings less",
+      "The ball goes faster",
+      "Her hands get bigger"
+     ],
+     "a": 0,
+     "why": "Pulling the hands back makes the ball slow down more slowly. The push on her hands is then smaller."
     }
    ]
   }
@@ -1543,7 +1538,7 @@
    "opts": [
     "It stops",
     "It goes faster",
-    "It turns into a square"
+    "It jumps over your hand"
    ],
    "a": 0,
    "why": "Your hand pushes against the way the ball is moving, so it stops.",
@@ -1578,8 +1573,8 @@
    "p": "Why does a rolling ball slow down and stop on the floor?",
    "opts": [
     "The floor and the air push against it",
-    "It gets tired",
-    "It forgets how to roll"
+    "Nothing pushes it. It just stops",
+    "It runs out of roll"
    ],
    "a": 0,
    "why": "The floor rubs against the ball and the air pushes on it. These small pushes against its movement slow it down.",
@@ -1587,15 +1582,15 @@
   },
   {
    "t": "mcq",
-   "p": "Where will a rolling ball stop soonest?",
+   "p": "You open a drawer by its handle, and it slides towards you. What started it moving?",
    "opts": [
-    "On a towel",
-    "On smooth tiles",
-    "On a steel plate"
+    "A pull",
+    "A push from behind",
+    "No force at all"
    ],
    "a": 0,
-   "why": "A towel rubs against the ball more than smooth things do, so it slows the ball sooner.",
-   "outcome": 4
+   "why": "A force is a push or a pull. Pulling the handle makes the drawer start to move.",
+   "outcome": 0
   },
   {
    "t": "mcq",
@@ -1611,11 +1606,11 @@
   },
   {
    "t": "mcq",
-   "p": "Meera guesses that a tap from the front will make a ball go faster. She tests it, and the ball slows down. What should she say?",
+   "p": "Meera, a girl in Class 1, guesses that a tap from the front will make a ball go faster. She tests it, and the ball slows down. What should she say?",
    "opts": [
     "My guess was wrong. A tap from the front slows it down.",
     "The test was wrong.",
-    "The ball cheated."
+    "She should still say it goes faster."
    ],
    "a": 0,
    "why": "A good scientist trusts what the test shows, and changes their idea. A wrong guess is how we learn.",
@@ -1623,7 +1618,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ammu wants to stop her boat. Which way should she push her oar?",
+   "p": "Ammu, a girl in a story, wants to stop her boat. Which way should she push her oar?",
    "opts": [
     "Forward, towards the front of the boat",
     "Backward, like when rowing fast",
@@ -1665,8 +1660,8 @@
  ],
  "applications": [
   "Brakes on bicycles, autos, buses and trains push against the turning wheels to slow them down.",
-  "Long jumpers land in soft sand, which slows them down gently.",
-  "Some steep ghat roads have runaway truck ramps of loose sand or gravel, to stop trucks whose brakes fail.",
+  "A parachute is a big cloth that the air pushes up against, so a person falls slowly.",
+  "At the end of a railway line, a strong buffer stop pushes against a train that rolls too far.",
   "Cricketers pull their hands back as they catch a fast ball, so the ball slows down over a longer time and stings less.",
   "Seat belts hold passengers back when a car stops suddenly, pushing against their forward movement."
  ],
@@ -1676,7 +1671,7 @@
    "art": "A crowded Mumbai local train pulling into a station platform, with people waiting."
   },
   {
-   "text": "A bambaram, a wooden spinning top, slowing down and wobbling to a stop on a floor in Madurai.",
+   "text": "A pambaram, a wooden spinning top, slowing down and wobbling to a stop on a floor in Madurai.",
    "art": "A girl crouching over a wooden top spinning on a stone floor, its string in her hand."
   },
   {
@@ -1711,8 +1706,7 @@
   "How does a bus slow down at a bus stop?",
   "When you run and want to stop, what do your feet do?",
   "Why does a ball roll further on the tiles than on the dari?",
-  "Can you make your swing go faster? How?",
-  "If you pushed a ball in space, where would it stop?"
+  "Can you make your swing go faster? How?"
  ],
  "jokes": [
   {
@@ -1721,40 +1715,36 @@
   },
   {
    "j": "What did the brakes say to the bicycle?",
-   "a": "Let's slow things down a bit!"
+   "a": "Sorry to hold you back!"
   },
   {
-   "j": "Why did the snail win the slow race?",
-   "a": "Because nobody pushed her from behind!"
+   "j": "What did the ball say to the towel?",
+   "a": "You really slow me down!"
   },
   {
-   "j": "What did the floor say to the rolling ball?",
-   "a": "Slow down, friend, I am rubbing you the right way!"
+   "j": "What did the cheetah say to the snail?",
+   "a": "Race you! And the snail said, I will get there... eventually."
   },
   {
-   "j": "What did the ball say to the pillow?",
-   "a": "Thanks for the soft stop!"
+   "j": "Why did the duck skid to a stop on the pond?",
+   "a": "Her feet were her brakes!"
   },
   {
-   "j": "Why did the bottle cap go so far?",
-   "a": "It got a big flick of luck!"
+   "j": "Why did the swing never win an argument?",
+   "a": "It kept going back and forth!"
   },
   {
-   "j": "What does a statue do best?",
-   "a": "Stop! It never needs brakes!"
+   "j": "Why was the ball so tired of rolling?",
+   "a": "Because everybody kept pushing it around!"
   },
   {
-   "j": "Why did the duck wear water skis?",
-   "a": "She didn't need them, her feet are her brakes!"
-  },
-  {
-   "j": "What did the swing say after a big push?",
-   "a": "Wheee, you really sped me up!"
+   "j": "Why can't a bicycle stand up by itself?",
+   "a": "Because it is two tired!"
   }
  ],
  "maths": [
   {
-   "problem": "In the Flick Test, Kavya's gentle flick went 2 tiles. Her hard flick went 7 tiles. How many more tiles did the hard flick go?",
+   "problem": "In the Flick Test, Kavya, a girl in Class 1, flicks a cap. Her gentle flick went 2 tiles. Her hard flick went 7 tiles. How many more tiles did the hard flick go?",
    "answer": "5 more tiles.",
    "explain": "Count on from 2 to 7: 3, 4, 5, 6, 7. That is 5 more. So the bigger push sent the cap 5 tiles further.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1763,7 +1753,7 @@
    "why_maths": "Taking the small number from the big one shows how much difference the bigger push made."
   },
   {
-   "problem": "Here are Farhan's three flicks: 4 tiles, 1 tile and 6 tiles. One was gentle, one was medium and one was hard. Put them in order from the gentlest to the hardest flick.",
+   "problem": "Farhan, a boy in Class 1, flicks a cap three times: 4 tiles, 1 tile and 6 tiles. One was gentle, one was medium and one was hard. Put them in order from the gentlest to the hardest flick.",
    "answer": "1 tile, 4 tiles, 6 tiles.",
    "explain": "A bigger push sends the cap further. So the gentlest flick went the shortest way, 1 tile, and the hardest went the furthest, 6 tiles.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1772,7 +1762,7 @@
    "why_maths": "Putting the numbers in order lets us guess which flick was which, without seeing them."
   },
   {
-   "problem": "In Window Watch, Nila made 3 ticks for START, 5 ticks for STOP, 2 ticks for FASTER and 4 ticks for SLOWER. Which change did she see most? Which least?",
+   "problem": "In Window Watch, Nila, a girl in Class 1, made 3 ticks for START, 5 ticks for STOP, 2 ticks for FASTER and 4 ticks for SLOWER. Which change did she see most? Which least?",
    "answer": "She saw STOP most, 5 times. She saw FASTER least, 2 times.",
    "explain": "5 is the biggest number, so STOP came most often. 2 is the smallest, so FASTER came least often. On a busy road, things stop a lot at signals and bus stops.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1847,27 +1837,22 @@
    "what_is_life": "Every living being that moves pushes on something to start and to stop. A duck pushes the water, and a crow pushes the air.",
    "what_is_this_world": "Everything in the world is moving somehow. Pushes and pulls change how fast it moves, all the time."
   },
-  "thread": "Starting, stopping, speeding up and slowing down look like four different things. Underneath, they are one change with one kind of cause, a push or a pull. A ball, a boat, an auto and the Earth all follow it. Everything is conscious, and each moving thing meets every push in its own way.",
+  "thread": "Starting, stopping, speeding up and slowing down look like four different things. Underneath, they are one change with one kind of cause, a push or a pull. A ball, a boat, an auto and a swing all follow it. Everything is conscious, and each moving thing meets every push in its own way.",
   "teachings": [
    {
     "source": "Tattvartha Sutra 5.17 (Jain)",
-    "teaching": "Jain thinkers taught that two things fill the world. One, called dharma, helps things move. The other, called adharma, helps things come to rest.",
+    "teaching": "Jain thinkers taught that one thing, called dharma, helps things move, and another, called adharma, helps things come to rest.",
     "link": "These thinkers saw that coming to rest needs a cause, just as moving does. In the Tap Test, stopping the ball needed a push too."
    },
    {
     "source": "Tao Te Ching 15",
     "teaching": "Who can make muddy water clear? Let it be still, and slowly it becomes clear. Who can bring stillness to life? Let it move, and slowly it comes alive.",
-    "link": "Here moving and being still turn into each other slowly. In our tests too, a ball slowed into stillness, and stillness started into rolling with a push."
-   },
-   {
-    "source": "Bhagavad Gita 6.34 and 6.35",
-    "teaching": "Arjuna says the mind is restless, like the wind, and very hard to hold still. Krishna answers that it can be steadied by practice and by letting go.",
-    "link": "A moving ball keeps going until something pushes against it again and again. Steadying a busy mind also takes a steady push, given again and again."
+    "link": "In our tests, a rolling ball slowly became still, and a still ball began to roll with one tap."
    }
   ],
   "science": [
    {
-    "text": "A moving thing keeps the same speed until a force acts on it. A force the same way speeds it up, and a force against it slows it down. Scientists call both kinds of change acceleration.",
+    "text": "A moving thing keeps the same speed until a force acts on it. A force the same way speeds it up, and a force against it slows it down.",
     "status": "settled"
    },
    {
@@ -1886,18 +1871,18 @@
    "kid": "Walk slowly. Walk slower, like a snail. Stop. What did your feet do? Stand still. Shut your eyes. Feel your breath move."
   },
   "ask": [
+   "When you start to walk, what pushes you forward: you, or the floor?",
    "When you stand very still, is anything in you still moving?",
-   "If nothing ever pushed back, would anything ever stop?",
    "Who stopped Ammu's boat: Ammu, the oar, or the water?"
   ],
   "art": "A girl standing very still with her eyes closed in a quiet room, one hand on her chest, a ball resting still on the floor beside her."
  },
  "how_we_found_out": {
   "context": "Do moving things stop on their own? This card tells how people slowly found out.",
-  "who": "Aristotle, a Greek thinker; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a Persian thinker and doctor; and later Isaac Newton, with Émilie du Châtelet, a French scientist",
+  "who": "Aristotle, a Greek thinker; Galileo, an Italian scientist; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a Persian thinker and doctor; and later Isaac Newton, with Émilie du Châtelet, a French scientist",
   "when": "About 350 BCE to 1759",
   "wrong_idea": "A thrown stone is pushed along by the air behind it, and a moving thing stops on its own when the push ends.",
-  "story": "Long ago in Greece, the thinker Aristotle asked why a thrown stone keeps flying after it leaves your hand. He said the air behind it pushes it along. Many people believed this for hundreds of years. In the 500s, John Philoponus, in Alexandria in Egypt, said this was wrong. Air slows a stone down, he said, so it cannot be pushing it. He said the thrower's hand gives the stone a push that it carries inside, and that this push slowly wears out. Around 1020, the Persian thinker Ibn Sina went further. He said the push a stone carries would never wear out by itself. In empty space, with no air, a moving thing would keep going and never stop. Centuries later, scientists tested this with rolling balls. In 1687, Isaac Newton wrote it as a law: a moving thing keeps going until a force changes it. In France, Émilie du Châtelet translated Newton's book into French and explained it. Her translation, published in 1759, is still read today."
+  "story": "Long ago in Greece, the thinker Aristotle asked why a thrown stone keeps flying after it leaves your hand. He said the air behind it pushes it along. Many people believed this for hundreds of years. In the 500s, John Philoponus, in Alexandria in Egypt, said this was wrong. Air slows a stone down, he said, so it cannot be pushing it. He said the thrower's hand gives the stone a push that it carries inside, and that this push slowly wears out. Around 1020, the Persian thinker Ibn Sina went further. He said the push a stone carries would never wear out by itself. In empty space, with no air, a moving thing would keep going and never stop. Around 1600, Galileo in Italy rolled balls down slopes and saw that they slowed less on smoother boards. In 1687, Isaac Newton wrote it as a law: a moving thing keeps going until a force changes it. In France, Émilie du Châtelet translated Newton's book into French and explained it. Her translation, published in 1759, is still read today."
  },
  "plan": {
   "start_options": [
@@ -1961,5 +1946,6 @@
    "Mach's principle, Ernst Mach (1883): the idea that inertia comes from the rest of the matter in the universe. Still debated.",
    "Tattvartha Sutra 5.17 on dharma and adharma as the media of motion and rest."
   ]
- }
+ },
+ "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a flat. Made both games finish with 2 or 4 players (a winner in Which Way to Push, caller turns in Cheetah, Snail, Statue) and moved the child out from under the ceiling fan. Added tile-size and uneven-flick notes to the Flick Test, and a balcony warning to Window Watch. Removed repeated worksheet and quiz questions and extra jokes, and introduced every made-up child at first mention. Second pass: took the extra duck out of the story to keep it short, made the pillow stand up so it can stop a ball, said what to do if the ball stops short of the line, wrote the game ending for ties and for two people, made the game picture match the text-only cards, replaced two applications and a mountain-road claim I could not check, made Lakshmi and Farhan friends, and swapped four weak jokes."
 }

@@ -3,7 +3,7 @@
 
 **Summary.** Every bird has feathers, and no other animal alive today has them. A hen is a bird, and a bat is not. Birds use their beaks as tools, build nests for their eggs, and call to each other all day long. Your child drops a bean in a cup for every bird call they hear at the window, at three times of day. Then you find out what the birds were saying.
 
-**Intro.** *Close your eyes at the window for one minute. How many birds can you hear?* Even in a big city, birds call outside almost every window. You may hear a crow, a myna, a pigeon or a koel. Count the calls on your fingers. Did one bird call, and then another bird answer? In this unit we find out what birds are, and what their calls mean.
+**Intro.** *Close your eyes at the window for one minute. How many birds can you hear?* Even in a big city, birds call outside almost every window. You may hear a crow, a myna, a pigeon or a koel. Count the calls on your fingers. In this unit we find out what birds are, and what their calls mean.
 
 ## Learning outcomes
 0. By the end I can say what makes a bird a bird: feathers.
@@ -24,14 +24,14 @@
 ### What makes a bird a bird · *defined*
 **Definition:** A bird is an animal with feathers. Today, only birds have feathers.
 
-Many people think a bird is any animal that flies. But a bat flies and has fur, not feathers. A bat is not a bird. A hen and an ostrich can hardly fly, but they have feathers. So they are birds.
+Many people think a bird is any animal that flies. But a bat flies and has fur, not feathers. A bat is not a bird. A hen can only flap a short way, and an ostrich cannot fly at all, but both have feathers. So they are birds.
 - e.g. A hen is a bird. She has feathers.
 - e.g. A bat is not a bird. A bat has fur.
 - e.g. A butterfly is not a bird. A butterfly is an insect.
 ### Feathers do many jobs · *defined*
 **Definition:** Feathers help a bird fly, keep warm, keep dry and show colours.
 
-Stiff feathers on the wings push on the air, so the bird can fly. Soft, fluffy feathers near the skin hold warm air close to the body. On a cold morning, a pigeon fluffs up like a ball to hold in more warm air. Each feather has tiny hooks that zip the strands together. A bird combs and zips her feathers with her beak every day.
+Stiff feathers on the wings push on the air, so the bird can fly. Soft, fluffy feathers near the skin hold warm air close to the body. Each feather has tiny hooks that zip the strands together. A bird combs and zips her feathers with her beak every day.
 - e.g. A pigeon on a winter morning looks round and fat, because the feathers are fluffed up.
 - e.g. A peacock shows his long, shining tail feathers.
 - e.g. Birds drop old feathers and grow new ones. That is why we find feathers on the ground.
@@ -50,7 +50,7 @@ Most birds do not live in a nest all year. They build one when it is time to lay
 - e.g. A tailorbird's nest hides inside two leaves stitched together.
 - e.g. A red-wattled lapwing lays her eggs on bare ground, and sometimes on a flat roof.
 ### Bird calls are messages · *debated*
-Birds call to tell other birds things. One call can mean 'danger, a cat is near'. Another can mean 'here is food' or 'where are you?'. Birds sing to say 'this place is mine' and to find a partner. Birds talk to each other, and they mean what they say. Some scientists say only humans have a real language, and bird calls are simpler signals.
+Birds call to tell other birds things. One call can mean 'danger, a cat is near'. Another can mean 'here is food' or 'where are you?'. Birds sing to say 'this place is mine' and to find a partner. Other birds act on these calls, so the calls are messages. Some scientists say only humans have a real language, and bird calls are simpler signals.
 - e.g. Crows call loudly together when they see a cat or an owl.
 - e.g. A koel calls again and again in the hot months before the rains.
 - e.g. A chick calls when hungry, and the parents bring food.
@@ -70,8 +70,8 @@ In an Indian summer, city birds can find it hard to get water. A shallow bowl of
 - Birds call and sing most in the early morning. *How we know:* Bird watchers all over the world hear the loudest singing around sunrise. It is called the dawn chorus.
 
 ## How we found out
-**Margaret Morse Nice, an American scientist who studied song sparrows from her home, From 1928, for about eight years; her books on the song sparrow came out in 1937 and 1943.** About a hundred years ago, many bird experts studied birds as dead specimens in museum drawers. A small brown bird in a backyard seemed to have little to teach. Margaret Morse Nice thought differently. She lived in Columbus, a city in America, and had no job at a university. From 1928, she studied the song sparrows by the river below her home. She caught the birds gently and put tiny coloured rings on their legs. Each bird got a different set of colours, so she could tell them apart. Over about eight years she ringed hundreds of birds and watched them again and again. She found that each male sang his own set of songs, and guarded his own patch of ground. Some birds stayed all winter, and some flew away and came back. Each sparrow had their own life. Other scientists later said her work started a new way of studying birds: watching living birds, one by one.  
-*What people believed before:* That you could learn what you needed about a kind of bird from dead specimens in a museum, as if every bird of that kind were the same. Nice watched living, ringed birds for years and showed each one had their own songs, their own patch and their own life.
+**Margaret Morse Nice, an American scientist who studied song sparrows from her home, From 1928, for about eight years; her books on the song sparrow came out in 1937 and 1943.** About a hundred years ago, many bird experts studied birds as dead specimens in museum drawers. A small brown bird in a backyard seemed to have little to teach. Margaret Morse Nice thought differently. She lived in Columbus, a city in America, and had no job at a university. From 1928, she studied the song sparrows by the river below her home. She caught the birds gently and put tiny coloured rings on their legs. Each bird got a different set of colours, so she could tell them apart. Over about eight years she ringed hundreds of birds and watched them again and again. She found that each male sang his own set of songs, and guarded his own patch of ground. Some birds stayed all winter, and some flew away and came back. No two sparrows lived in the same way. Other scientists later said her work started a new way of studying birds: watching living birds, one by one.  
+*What people believed before:* That you could learn what you needed about a kind of bird from dead specimens in a museum, as if every bird of that kind were the same. Nice watched living, ringed birds for years and showed that each male had his own songs and his own patch, and lived a life different from the next.
 
 ## Challenging perspectives
 - **A bird is any animal that flies.** (A common idea, among children and grown-ups; *rejected*)  
@@ -87,18 +87,18 @@ In an Indian summer, city birds can find it hard to get water. A shallow bowl of
 ## Roots
 We have listened to the birds outside our window and counted their calls. Now we ask what all that calling tells us about birds, and about us.
 
-**Deep truth.** At the window, we counted far more bird calls at some times of day than at others. Often one bird called and another answered. Each call carries a message, like 'I am here' or 'a cat is near'. So the sounds outside a flat are many birds talking with each other.  
+**Deep truth.** When one crow calls loudly, other crows look, fly over or go quiet. The call changed what they did. So a bird call is a message, and the birds who hear it understand it.  
 *Habit it breaks:* We call bird sounds 'chirping' or 'noise', as if they meant nothing. But birds act on each other's calls, so the calls are messages between someones.  
-*Evidence:* In the bean test, the cups filled at different speeds at different times of day, and we heard birds answer each other. In the story, the bulbul's alarm call made the other bulbul and a myna act at once.
+*Evidence:* At your window, watch what the other crows do when one crow calls. In the bean test, you also listened for birds answering each other.
 
 - *who am i:* You learned to talk by listening to the people around you. A young bird learns to sing by listening too.
 - *what is life:* A bird's day is full: finding food, calling to friends, warning of danger and caring for chicks.
 - *what is this world:* The air outside your window is full of messages between birds. We hear only a few of them.
 
-Every bird has the same few parts: feathers, a beak, two wings and two legs. From these few parts come about 11,000 kinds of birds, and more than 1,300 of them live in India. Each kind has their own beak, their own nest and their own calls. One plan for a body has become thousands of ways of living.
+Every bird has the same few parts: feathers, a beak, two wings and two legs. There are about 11,000 kinds of birds, and more than 1,300 of them live in India. Each kind has a different beak, nest and call, so each lives in a different way.
 
 - **Mundaka Upanishad 3.1.1 (also in Rig Veda 1.164.20):** Two birds sit on the same tree. One bird eats the fruit. The other bird does not eat, and only watches. (In the bean test, you sat still and only listened, like the watching bird. Just listening let you notice the birds talking.)
-- **Farid ud-Din Attar, The Conference of the Birds (Mantiq al-Tayr), about 1177:** In this Persian poem, the birds of the world meet, talk together and set off on a long journey as one flock. (Real birds call to each other and act together too, as the crows did when they gathered at dusk.)
+- **Farid ud-Din Attar, The Conference of the Birds (Mantiq al-Tayr), about 1177:** In this Persian poem, the birds of the world meet, talk together and set off on a long journey as one flock. (Real birds call to each other and gather together too, as crows, mynas and parakeets do in big trees before dark.)
 - Science (settled): Many birds learn their songs by listening to grown-up birds, as human babies learn to talk.
 - Science (debated): Japanese tits put two calls together in a set order, and other tits understand the order. Whether any bird has a language like ours is still argued about.
 - Other view, Many scientists who study language: They say only humans have a true language. Bird calls carry a few messages, like danger or food, but birds cannot put calls together to say endless new things, as people do with words.
@@ -132,7 +132,7 @@ For three days the bulbuls worked. The nest became a small, neat cup, like a tin
 
 Now one bulbul sat on the eggs almost all day. The other bulbul brought food. The family watered the plants very quietly, and only from the edge.
 
-One afternoon, the neighbour's cat walked along the balcony wall. At once the bulbul on the railing called, sharp and fast. "Pit-pit-pit-pit!" The bulbul on the nest pressed down flat and kept very still. A myna on the next balcony began to scold the cat too.
+One afternoon, the neighbour's cat walked along the balcony wall. At once the bulbul on the railing called, sharp and fast. The bulbul on the nest pressed down flat and kept very still. A myna on the next balcony began to scold the cat too.
 
 The cat looked up, looked around, and jumped down.
 
@@ -168,8 +168,8 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 
 ## Games
 ### g1 · Bird or Not a Bird? Look for the feathers (10 min)
-- **rules:** Put two sheets of paper on the floor. Write BIRD on one and NOT A BIRD on the other.; Mix the cards and put them in a pile, face up.; Take turns. Take the top card. The grown-up reads the name aloud.; Put the card on BIRD or NOT A BIRD. Say why.; Turn the card over. The grown-up reads the back. If you were right, keep the card.; When the pile is finished, count your cards. Then find the bird who cannot fly, and the animal who flies but is not a bird.
-- **Printable cards: 12 cards to cut out:** Hen (back: A bird. She has feathers, even though she can hardly fly.); Bat (back: Not a bird. A bat flies, but has fur and no feathers.); Ostrich (back: A bird. An ostrich cannot fly, but has feathers.); Butterfly (back: Not a bird. A butterfly is an insect, with tiny scales on the wings.); Crow (back: A bird. Feathers, a beak, two wings, two legs.); Housefly (back: Not a bird. A fly is an insect with six legs and no feathers.); Penguin (back: A bird. A penguin swims instead of flying, and has feathers.); Peacock (back: A bird. His long tail is made of feathers.); Paper kite (back: Not a bird. A paper kite flies, but was never alive.); Black kite, the brown bird circling over the city (back: A bird. This kite has feathers. Only the paper kite is not a bird.); Duck (back: A bird. Her feathers keep her dry in the water.); Aeroplane (back: Not a bird. An aeroplane flies, but has no feathers and is a machine.)
+- **rules:** Put two sheets of paper on the floor. Write BIRD on one and NOT A BIRD on the other.; Mix the cards and put them in a pile, name side up.; Take turns. Take the top card. The grown-up reads the name aloud.; Put the card on BIRD or NOT A BIRD. Say why.; Turn the card over. The grown-up reads the back. If you were right, keep the card in front of you. If you were wrong, put it back at the bottom of the pile and try again later.; When the pile is finished, count your cards. The most cards wins, and a tie is a shared win. Then find the two birds that cannot fly at all, and the animals that fly but are not birds.
+- **Printable cards: 12 cards to cut out:** Hen (back: A bird. She has feathers, even though she can hardly fly.); Bat (back: Not a bird. A bat flies, but has fur and no feathers.); Ostrich (back: A bird. An ostrich cannot fly, but has feathers.); Butterfly (back: Not a bird. A butterfly is an insect, with tiny scales on the wings.); Crow (back: A bird. Feathers, a beak, two wings, two legs.); Housefly (back: Not a bird. A fly is an insect with six legs and no feathers.); Penguin (back: A bird. A penguin swims instead of flying, and has feathers.); Peacock (back: A bird. His long tail is made of feathers.); Paper kite (back: Not a bird. A paper kite flies, but was never alive.); Black kite (the brown bird circling over the city) (back: A bird. This kite is a bird of prey with feathers. The paper kite is a different thing.); Duck (back: A bird. Her feathers keep her dry in the water.); Aeroplane (back: Not a bird. An aeroplane flies, but has no feathers and is a machine.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Lay out the two sheets. 3. Ask your child how they will decide.  
   *Parent says:* What makes a bird a bird? How will you decide which cards go on BIRD?  
@@ -188,18 +188,18 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Child mode:* What do all the birds have?
   - Check: Which animal is a bird? → **A hen**
 ### g2 · Danger Call: a running and freezing game (10 min)
-- **rules:** Choose a safe place, like the sofa or a mat. This is the tree.; Scatter a handful of paper scraps on the floor. These are the seeds.; One player is the lookout bird. The others are birds, pecking up seeds with two fingers.; The lookout picks a call card and makes that call. The other birds do what the call means.; A bird who does the wrong thing becomes the next lookout.; Play until every player has been the lookout once.
-- **Printable cards: 6 call cards for the lookout:** Danger! A cat! (back: Call 'pit-pit-pit-pit' fast. Birds fly to the safe place.); Danger! A hawk above! (back: Call one long 'seeee'. Birds freeze and stay still.); Food here! (back: Call 'chuk-chuk'. Birds come to the lookout.); Where are you? (back: Call 'kaa'. Every bird calls 'kaa' back.); All safe now (back: Sing a long, happy tune. Birds go back to pecking.); Feed me! (back: Call 'cheep cheep'. The nearest bird brings you a pretend worm.)
+- **rules:** Choose a safe place, like the sofa or a mat. This is the tree.; Tear newspaper into small scraps and scatter them on the floor. These are the seeds.; One player is the lookout bird. The others are birds, pecking up seeds with two fingers. With only two players, there is one lookout and one bird.; The lookout picks a call card and makes that call. The other birds do what the call means.; A bird who does the wrong thing says 'oops' and tries again at the next call.; Each lookout makes three calls, then passes the cards to the next player. Play until every player has been the lookout once.
+- **Printable cards: 6 call cards for the lookout:** Danger! A cat! (back: Call 'pit-pit-pit-pit' fast. Birds fly to the safe place.); Danger! A hawk above! (back: Call one long 'seeee'. Birds freeze and stay still.); Food here! (back: Call 'chuk-chuk'. Birds come to the lookout.); Where are you? (back: Call 'kaa'. Every bird calls 'kaa' back.); All safe now (back: Sing a long, happy tune. Birds go back to pecking.); Feed me! (back: Call 'cheep cheep'. The nearest bird brings you a paper scrap as a pretend worm.)
 - **s1 (2 min)**  
   *Parent does:* 1. Tear a sheet of newspaper into small scraps and scatter them. 2. Choose the tree. 3. Read the call cards aloud together.  
   *Parent says:* Birds use different calls for different dangers. Let's learn the calls first.  
   *Child mode:* Learn the calls. Each call means something different.
   - Note: These calls are made-up sounds for the game. Real alarm calls differ between kinds of birds, but many small birds do use one call for a danger on the ground and another for a hawk in the sky.
 - **s2 (6 min)**  
-  *Parent does:* Play. The grown-up is the first lookout, then the children take turns.  
+  *Parent does:* Play. The grown-up is the first lookout, then the others take turns. Each lookout makes three calls.  
   *Parent says:* Peck, peck, peck. Listen carefully. What is the lookout saying?  
   *Child mode:* Peck the seeds. Listen for the lookout's call. Then act fast.
-  - Ask: Why did you freeze for the hawk call but run for the cat call? (good: A hawk sees things that move.; Running from a cat is safest.)
+  - Ask: Why did you freeze for the hawk call but run for the cat call? (good: Staying still hides me from a hawk above.; Going up the tree keeps me away from a cat on the ground.)
 - **s3 (2 min)**  
   *Parent does:* Sit down together. Ask why a bird needs more than one danger call.  
   *Parent says:* Why do birds need a different call for a cat and for a hawk?  
@@ -210,7 +210,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 ### e1 · A Bean for Every Call: when do birds call most? (30 min)
 - **question:** When do the birds outside our window call most: in the early morning, in the afternoon or in the evening?
 - **predict:** Guess first. Which cup will have the most beans: morning, afternoon or evening? Why do you think so?
-- **fair test:** We listen at the same window each time, for the same 5 minutes, with the TV and music off. The same person drops the beans. One bean means one call, however loud.
+- **fair test:** We listen at the same window each time, for the same 5 minutes, with the TV and music off. The same person drops the beans. One bean means one call, or one burst of calls when they come too fast.
 - **safety:** A grown-up stays with the child at an open window or on the balcony. Keep the beans away from babies and toddlers, who could choke on them.
 - **record:** Draw the three cups. Draw the beans from each cup in a line under it. Draw the birds you heard.
 - **results table:** Time | Beans in the cup | Which birds did we hear? | Did one bird answer another?
@@ -221,7 +221,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   - Ask: Why do you think so? (good: Birds wake up in the morning.; In the afternoon it is too hot.; Birds go to sleep in the evening.)
   - Note: Write the guess and the reason on a slip of paper and put it under the cup. Don't say what usually happens.
 - **s2 (6 min)**  
-  *Parent does:* 1. Early morning, sit at the window. 2. Start a 5-minute timer. 3. Your child drops one bean in the Morning cup for every call. 4. Whisper the bird's name if you know it.  
+  *Parent does:* 1. Early morning, within an hour after sunrise, sit at the window. 2. Start a 5-minute timer. 3. Your child drops one bean in the Morning cup for every call. 4. Whisper the bird's name if you know it.  
   *Parent says:* Shh. Listen. Every time you hear a bird, drop a bean. Did that bird get an answer?  
   *Child mode:* Listen. Drop one bean for each bird call. Is another bird answering?
   - Ask: Did one bird call, and then another bird answer? (good: Yes, two crows were calling to each other.; The koel called and another koel called back.)
@@ -243,12 +243,12 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Child mode:* Put each cup's beans in a line. Which line is longest?
   - Ask: Which time had the most calls? (good: The morning, the line is longest.; The evening had more than the afternoon.)
   - Ask: Was your guess right? (good: Yes, I guessed morning.; No, I thought evening.)
-  - Note: Lining up the beans makes a picture graph your child can see at a glance. In most homes the morning line is longest. If your result is different, that is a real result. Talk about why: rain, traffic or a tree nearby can change it.
+  - Note: Lining up the beans makes a picture graph your child can see at a glance. In most homes the morning line is longest. If your result is different, that is a real result. Talk about why: rain, traffic or a tree nearby can change the result.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say what they found, what they saw and why they think it happened.  
   *Parent says:* What did you find? What did the beans show? Why do you think the birds called so much at that time?  
   *Child mode:* Tell your grown-up what you found. Why did birds call most then?
-  - Ask: Why do birds call so much in the morning? (good: To say 'I am here'.; To find their friends after the night.; It is too dark to look for food, so they sing.)
+  - Ask: Why do birds call so much in the morning? (good: To say "I am here".; To find their friends after the night.)
   - Check: Most birds call the most at one time of day. When is it, for most birds? → **Early morning**
   - Think: When one bird called and another answered, what were they saying?
 
@@ -265,7 +265,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Parent says:* I have made a gap. Can we mend it? What do you think will happen if we stroke it?  
   *Child mode:* Make a gap. Now stroke the feather gently. What happens?
   - Ask: What happened to the gap? (good: It closed up.; The strands stuck together again.)
-  - Note: Each strand has tiny hooks along the side, too small to see without a strong magnifier. Stroking hooks them together again. Birds do this with their beaks every day.
+  - Note: Each strand has tiny hooks along the side, too small to see without a strong magnifier. Stroking hooks them together again. Birds do this with their beaks every day. Some craft feathers are cut or glued and zip poorly. A pigeon or crow feather picked up from the ground works best, washed as described above.
 - **s3 (3 min)**  
   *Parent does:* Hold the feather by the stem and blow gently on the fluffy part at the bottom.  
   *Parent says:* Blow on the fluffy part. Why do you think birds have fluffy feathers close to their skin?  
@@ -284,8 +284,9 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Parent says:* Try the spoon. Now try the straw. Which works best? Why?  
   *Child mode:* Try the spoon. Then try the straw. Which works?
   - Ask: Why did the straw work? (good: It is long and thin.; It reaches the bottom.)
+  - Note: A teaspoon should not reach the juice. If it does, use a taller, narrower bottle.
 - **s3 (2 min)**  
-  *Parent does:* Show the picture of a sunbird. Ask how the sunbird's beak is like the straw.  
+  *Parent does:* Tell your child about the sunbird: she has a long, thin, curved beak and sips nectar from deep inside flowers. Ask how her beak is like the straw.  
   *Parent says:* A flower keeps the sweet juice, called nectar, deep inside. How does a sunbird reach it?  
   *Child mode:* How is a sunbird's beak like the straw?
   - Check: Which beak is best for sipping nectar deep inside a flower? → **Long, thin and curved**
@@ -308,15 +309,15 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Parent says:* Did anyone come? Are the grains gone? Why must we change the water every day?  
   *Child mode:* Who came to your café? Change the water.
   - Ask: Why change the water every day? (good: So it stays clean.; So mosquitoes don't lay eggs.)
-  - Note: Birds may take days to find a new bowl. Mosquitoes can breed in water left for a few days, so change it daily.
+  - Note: Birds may take a few days to find a new bowl, so nobody coming on day 2 is a real result. Keep the bowl out and look again. Mosquitoes can breed in water left for a few days, so change it daily.
   - Wait: Come back tomorrow
 
 ## Projects
 ### p1 · My Window Bird Book (35 min, 5 days)
 - **record:** One page for each day: the bird, the beak, and what the bird was doing.
-- **schedule:** day 1: Make the book. Watch from a window for 5 minutes and draw the first bird. (10 min); day 2: Watch for 5 minutes. Draw a bird and their beak. (5 min); day 3: Watch for 5 minutes. Draw what a bird was doing: eating, calling, flying or resting. (5 min); day 4: Listen with eyes closed. Draw the bird you heard. (5 min); day 5: Finish the cover. Read your book to the family. (10 min)
+- **schedule:** day 1: Make the book. Watch from a window for 5 minutes and draw the first bird. (10 min); day 2: Watch for 5 minutes. Draw a bird and the bird's beak. (5 min); day 3: Watch for 5 minutes. Draw what a bird was doing: eating, calling, flying or resting. (5 min); day 4: Listen with eyes closed. Draw the bird you heard. (5 min); day 5: Finish the cover. Tell your book to someone at home, page by page. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fold and staple the book. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird.  
+  *Parent does:* 1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird.  
   *Parent says:* Let's make a book of our window birds. Which bird can you see? What colour is the beak?  
   *Child mode:* Make your bird book. Watch the window. Draw a bird.
   - Note: If you see no bird, draw one you heard, or a bird you have seen before from this window. Crows and pigeons are nearly always about.
@@ -326,9 +327,9 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Child mode:* Watch the bird. What is the bird doing? Draw the bird.
   - Ask: What was the bird doing? (good: Eating seeds.; Calling to another crow.; Sitting in the sun.)
 - **s3 (10 min)**  
-  *Parent does:* On day 5, your child makes the cover and reads the book to the family.  
-  *Parent says:* Read your bird book to us. Which bird did you like best? Why?  
-  *Child mode:* Read your book to your family. Which bird was your favourite?
+  *Parent does:* On day 5, your child makes the cover and tells the book to someone at home, page by page.  
+  *Parent says:* Tell me about your bird book. Which bird did you like best? Why?  
+  *Child mode:* Show your book and tell about each page. Which bird was your favourite?
 
 ## Challenges
 ### c1 · Stitch a Cradle Like a Tailorbird (20 min)
@@ -338,15 +339,15 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 - **general:** A tailorbird pokes holes along the edges of a leaf with her sharp beak.; She pulls plant thread or spider silk through the holes, and ties knots so the thread holds.; Inside the cone of leaves, she builds a soft cup of grass and fluff.
 - **creative:** Fold one big leaf into a cone and stitch only one side.; Stitch three small leaves into a bowl.; Line the cradle with cotton wool, like the soft cup inside a real nest.
 - **s1 (4 min)**  
-  *Parent does:* Show a picture of a tailorbird's nest. Tell your child how she stitches leaves.  
+  *Parent does:* Tell your child how a tailorbird sews leaves into a cradle with her beak and thread.  
   *Parent says:* A tailorbird sews two leaves together with her beak. How could we do that with thread?  
   *Child mode:* A tailorbird sews leaves. How could you sew them?
 - **s2 (12 min)**  
-  *Parent does:* 1. A grown-up helps poke holes with a pencil tip. 2. Your child threads the wool through and ties knots. 3. Put in two chana.  
+  *Parent does:* 1. Cut two leaf shapes from paper. A grown-up helps poke holes with a pencil tip. 2. Your child pushes the wool through the holes. A grown-up ties the knots. 3. Put in two chana.  
   *Parent says:* Where do the holes need to go? How will the knots stop the thread coming out?  
-  *Child mode:* Poke holes. Push the wool through. Tie a knot.
+  *Child mode:* Poke holes. Push the wool through. Ask for help with the knot.
   - Ask: Why do you need knots? (good: So the thread doesn't slip out.; To hold the leaves tight.)
-  - Note: Leaves tear if holes are too close to the edge. Put them about one finger-width in. Paper leaves are easier for small hands.
+  - Note: Paper tears if holes are too close to the edge. Put them about one finger-width in. Twist the end of the wool tight so it goes through a hole easily.
 - **s3 (4 min)**  
   *Parent does:* Tip the cradle gently. If an egg falls out, ask your child what to change.  
   *Parent says:* Tip it gently. Did the eggs stay? What could you change?  
@@ -361,9 +362,9 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    **Answer:** Short, thick beak (sparrow) → Seeds; Long, curved beak (sunbird) → Nectar in a flower; Long, sharp beak (kingfisher) → Fish. *Why:* A thick beak cracks seeds, a long curved beak reaches into flowers, and a long sharp beak grabs slippery fish.
 3. (draw) Draw a bird. Colour the feathers. Show the beak, two wings and two legs.  
    **Answer:** A bird with feathers, a beak, two wings and two legs.. *Why:* A strong drawing shows all four parts every bird has: feathers, a beak, two wings and two legs.
-4. (mcq) Remember the bean test at the window? When did most homes hear the most bird calls?  
-   Options: Early morning / Afternoon / Midnight  
-   **Answer:** Early morning. *Why:* Most birds call and sing most around sunrise. If your evening cup was fuller, that is a real result too: many city birds gather noisily before dark.
+4. (mcq) In the story of the bulbuls, why did the bulbul on the nest press down flat and stay still?  
+   Options: She heard the danger call / She was sleepy / She was looking for food  
+   **Answer:** She heard the danger call. *Why:* The other bulbul gave the danger call when the cat came. The bulbul on the nest hid, and so the cat did not find her.
 5. (draw) Draw the three cups from your bean test. Draw the beans from each cup in a line underneath.  
    **Answer:** Three lines of beans of different lengths, labelled morning, afternoon and evening.. *Why:* A strong drawing shows the longest line under the time with the most calls, as the child found.
 6. (truefalse) A bird uses a nest to keep the eggs and chicks safe.  
@@ -375,11 +376,11 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 9. (write) Say it to a grown-up, who writes it down: a crow calls loudly and other crows fly to her. What might she be saying?  
    **Answer:** She might be saying 'danger', or 'come here', or 'there is food'.. *Why:* A strong answer says the call is a message, and gives a reason from what the other crows did.
 10. (perspective) Two friends in Kochi see a baby bird hopping on the ground under a tree.  
-   **Answer:** A strong answer picks a side with a reason, such as 'Revathi, because the parents are still feeding the chick.' Then it is fair to Anjali: she wants to keep the chick safe from cats.. *Why:* A chick hopping on the ground is often learning to fly, and the parents still feed them. Watching from far away is usually best. If the chick is hurt, a grown-up can call a bird rescue group.
+   **Answer:** A strong answer picks a side with a reason, such as 'Revathi, because the parents are still feeding the chick.' Then it is fair to Anjali: she wants to keep the chick safe from cats.. *Why:* A chick hopping on the ground is often learning to fly, and the parents still feed the chick. Watching from far away is usually best. If the chick is hurt, a grown-up can call a bird rescue group.
 ### The World of Birds (stretch) (stretch, 10 questions)
-1. (odd) Which one is not a bird?  
-   Options: A penguin / A duck / A bat / A hen  
-   **Answer:** 2. *Why:* A penguin, a duck and a hen have feathers. A bat has fur, so a bat is not a bird, even though a bat flies.
+1. (odd) Which of these is NOT a job that feathers do?  
+   Options: Keep a bird warm / Help a bird fly / Help a bird see in the dark / Keep a bird dry  
+   **Answer:** 2. *Why:* Feathers help a bird fly, keep warm, keep dry and show colours. They do not help a bird see.
 2. (draw) Draw a pigeon on a cold morning and a pigeon on a hot afternoon.  
    **Answer:** A round, fluffed-up pigeon for the cold morning, and a thin, sleek pigeon for the hot afternoon.. *Why:* A strong drawing shows the fluffed-up feathers in the cold, because fluffing holds more warm air.
 3. (mcq) In the sunbird activity, why did the straw reach the juice when the spoon did not?  
@@ -391,11 +392,11 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    **Answer:** clean water → Good for birds; broken rice → Good for birds; salty chips → Not good for birds; a slice of banana → Good for birds; a sweet biscuit → Not good for birds; spicy namkeen → Not good for birds. *Why:* Water, grains and fruit are good. Salty, sugary and spicy foods can make birds ill.
 6. (order) Put the bulbul story in order.  
    **Answer:** ['The bulbuls build a nest', 'Two eggs appear in the nest', 'The eggs hatch', 'The chicks fly away']. *Why:* Birds build the nest first, then lay eggs, then the eggs hatch, then the chicks grow feathers and fly.
-7. (count) Meenakshi dropped beans for bird calls: 5 in the first minute and 3 in the next minute. How many calls in the two minutes?  
+7. (count) Meenakshi, a girl in Class 1, dropped beans for bird calls: 5 in the first minute and 3 in the next minute. How many calls in the two minutes?  
    **Answer:** 8. *Why:* 5 and 3 more make 8. Each bean is one call.
-8. (write) Say it to a grown-up, who writes it down: why do you think birds call so much in the early morning?  
-   **Answer:** Any reason the child can explain, such as 'to say I am here after the night' or 'it is too dark to find food, so they sing'.. *Why:* Scientists still argue about this, so there is no single right answer. A strong answer gives a reason and links it to what a bird does.
-9. (truefalse) Only birds have feathers.  
+8. (write) Say it to a grown-up, who writes it down: a crow has a strong beak and eats almost anything. Why is that useful in a city?  
+   **Answer:** In a city a crow can find grain, scraps, insects and fruit, and her strong beak can eat all of them. She will not go hungry if one food is gone.. *Why:* A crow can eat many foods, so she can live where food changes. A strong beak is the tool that makes this work.
+9. (truefalse) Today, only birds have feathers.  
    **Answer:** True. *Why:* True. Today no other animal has feathers. Bats and insects fly without them.
 10. (perspective) Two sisters in Kolkata talk about the pigeons on their balcony.  
    **Answer:** A strong answer picks a side with a reason. For Moumita: the grain helps the birds. For Tumpa: too many pigeons push other birds away, and the droppings can make people ill. Then the child is fair to the other side.. *Why:* This is a real argument. Feeding helps some birds, but feeding a lot in one place can bring huge flocks of one kind. Water in summer helps every kind of bird.
@@ -427,7 +428,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 7. (mcq) In the bean test, what did one bean in the cup stand for?  
    Options: One bird / One bird call / One minute  
    **Answer:** One bird call. *Why:* We dropped one bean every time we heard a call. So more beans means more calls.
-8. (mcq) A bulbul calls 'pit-pit-pit' fast when a cat comes. What does the call mean?  
+8. (mcq) A bulbul gives a fast, sharp call when a cat comes near. What does the call mean?  
    Options: Danger! / Good morning / I am hungry  
    **Answer:** Danger!. *Why:* A fast, sharp call when a cat comes near is an alarm call. Other birds hide when they hear it.
 9. (mcq) Which is the best thing to give birds on a hot summer day?  
@@ -439,7 +440,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 
 ## Applications
 - Bird watchers count birds every year to see which kinds are growing in number and which are going down.
-- Doctors and scientists study how young birds learn songs to understand how children learn to talk.
+- Scientists study how young birds learn songs, to understand how children learn to talk.
 - Families put out clay bowls of water for birds in the hot months.
 - In Assam, the scientist Purnima Devi Barman and a group of village women protect the trees where greater adjutant storks nest.
 
@@ -461,7 +462,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 - Is that bird fluffed up or sleek today? Is it warm or cold?
 - What shape is that bird's beak? What do you think the bird eats?
 - Where could a bird build a nest in our building?
-- When a crow calls, does another crow answer?
+- Which bird near our home is the loudest? Where does that bird sit?
 
 ## Jokes
 - Why do birds wake up so early? *Because the early bird gets the worm!*
@@ -470,14 +471,13 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 - Which bird is always out of breath? *A puffin!*
 - Why did the pigeon fluff up? *She forgot her sweater.*
 - What do you give a sick bird? *Tweet-ment!*
-- Why don't birds need a comb? *They comb their feathers with their beaks!*
 - What does a bird say when she builds a nest? *Home, tweet home!*
 - Why was the tailorbird so tidy? *She always had things sewn up!*
 
 ## Connected maths
-- In the bean test, Kavya's morning cup had 12 beans and her afternoon cup had 4 beans. Which time had more calls? Why do you think so? **The morning had more calls.**. 12 is more than 4. Many birds call most in the early morning, and rest in the afternoon heat. (queues `math.number-sense.comparing-ordering.L1`)
+- In the bean test, Kavya, a girl in Class 1, had 12 beans in her morning cup and 4 beans in her afternoon cup. Which time had more calls? Why do you think so? **The morning had more calls.**. 12 is more than 4. Many birds call most in the early morning, and rest in the afternoon heat. (queues `math.number-sense.comparing-ordering.L1`)
 - A bulbul laid 2 eggs. A crow laid 4 eggs. How many eggs in all? **6 eggs.**. 2 and 4 make 6. (queues `math.addition-subtraction.word-problems.L1`)
-- Farida made a tally of birds she saw from her window: crows ||||, pigeons |||, a sunbird |. Which bird did she see most? If she sees one more sunbird, will sunbirds catch up with the crows? **Crows, 4 times. No: with one more, sunbirds would be 2, still less than 4.**. 4 tally marks for crows is the most. 1 and 1 more is 2, and 2 is less than 4. (queues `math.data.sorting-and-tallies.L1`)
+- Farida, a girl in Class 1, made a tally of birds she saw from her window: crows ||||, pigeons |||, a sunbird |. Which bird did she see most? If she sees one more sunbird, will sunbirds catch up with the crows? **Crows, 4 times. No: with one more, sunbirds would be 2, still less than 4.**. 4 tally marks for crows is the most. 1 and 1 more is 2, and 2 is less than 4. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1
@@ -501,14 +501,14 @@ Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1
 
 ## Plan
 - Start options: intro, e1, g1, story, a1, cards
-- Default order: intro → summary → terms → g1 → e1 → explanations → story → g2 → a1 → a2 → ws-core → a3 → agreed → challenging → c1 → p1 → ws-stretch → how_we_found_out → big_questions → videos → open_questions → roots → quiz
+- Default order: intro → summary → terms → g1 → e1 → explanations → story → g2 → a1 → a2 → ws-core → a3 → agreed → challenging → c1 → p1 → ws-stretch → how_we_found_out → videos → big_questions → open_questions → roots → quiz
 - Core: g1, e1, a2, ws-core
 
 ## Sources
 - ideas/by_topic/the-world-of-birds.md: evolution picture book and species ladder (birds from dinosaurs, about 150 million years ago); kept for Level 4, nothing used at this level.
 - Feathers are found only in living birds; all birds have beaks, lay eggs and have no teeth (any ornithology text).
 - Feather structure: barbs with barbules and hooklets that re-zip when preened; down traps air for insulation; birds moult.
-- Dawn chorus: the peak of bird song around sunrise; its cause is still debated (acoustic transmission, low light for foraging, and other ideas).
+- Dawn chorus: the peak of bird song around sunrise; the cause is still debated (acoustic transmission, low light for foraging, and other ideas).
 - Song learning: W. H. Thorpe, chaffinches reared in isolation sang abnormal songs (1950s).
 - Compositional syntax in Japanese tit calls: Suzuki, Wheatcroft and Griesser, Nature Communications, 2016.
 - Common tailorbird (Orthotomus sutorius) stitches leaf edges with plant fibre or spider silk; red-vented bulbuls nest in shrubs and balcony plants, lay 2 to 3 spotted eggs.

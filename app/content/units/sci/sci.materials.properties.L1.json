@@ -40,7 +40,7 @@
   },
   {
    "term": "Reflect",
-   "meaning": "When light bounces off a thing, we say the thing reflects the light. Smooth things reflect light back together, so they shine.",
+   "meaning": "When light bounces off a thing, we say the thing reflects the light. Smooth things reflect light back in one direction, so they shine.",
    "example": "A steel plate reflects torch light onto the wall as a bright spot.",
    "art": "A torch shining on a tilted steel plate, and a bright round spot of light on the wall."
   }
@@ -50,7 +50,7 @@
    "concept": "Properties: words for what a material is like",
    "status": "defined",
    "definition": "A property is what a material is like. We find properties by touching, pressing, bending and looking.",
-   "description": "Every thing is made of a material. A steel spoon is hard, smooth, stiff and shiny. A cotton towel is soft, a little rough, bendy and dull. These words are the properties of steel and cotton. You find them with your own body. Your fingers tell you rough or smooth. A press of your thumb tells you hard or soft. A gentle bend tells you bendy or stiff. Your eyes tell you shiny or dull.",
+   "description": "A steel spoon is hard, smooth, stiff and shiny. A cotton towel is soft, a little rough, bendy and dull. You find these with your own body: fingers stroke, a thumb presses, hands bend and eyes look.",
    "examples": [
     "A coconut shell is hard and rough.",
     "A banana leaf is bendy, smooth and shiny.",
@@ -64,11 +64,11 @@
    "concept": "Hard and soft, rough and smooth",
    "status": "defined",
    "definition": "A soft thing changes shape when you press it. A hard thing does not. A rough surface has bumps you can feel. A smooth surface feels flat and even.",
-   "description": "Press your thumb into a pillow. The pillow squashes, so it is soft. Press your thumb on a steel tumbler. Nothing changes, so it is hard. Now stroke a coconut shell. You feel bumps and hairs, so it is rough. Stroke a glass bottle. It feels flat and even, so it is smooth. Some smooth things still have tiny bumps, too small for your finger to feel. Paper feels smooth, but it is made of tiny threads, called fibres, lying in a tangle.",
+   "description": "Press your thumb into a pillow. It squashes, so it is soft. A steel tumbler does not squash, so it is hard. A coconut shell has bumps and hairs you can feel, so it is rough. A glass bottle feels flat, so it is smooth.",
    "examples": [
     "Idli batter is soft. A spoon goes in easily.",
-    "A floor tile is hard and smooth. A doormat is soft and rough.",
-    "The torn edge of a paper shows tiny fibres, like little hairs."
+    "A floor tile is hard and smooth. A coir doormat is hard and rough.",
+    "The torn edge of a sheet of paper shows tiny threads, called fibres, like little hairs."
    ],
    "perspectives": [],
    "context": "This card is about what your thumb and fingers found in the Touch Hunt.",
@@ -78,7 +78,7 @@
    "concept": "Bendy and stiff: shape matters too",
    "status": "defined",
    "definition": "A bendy thing bends easily. A stiff thing keeps its shape when you push it. The same material can be bendy or stiff, depending on its shape.",
-   "description": "A sheet of paper is bendy. Lay it across two books, and it sags in the middle. Fold the same paper into a zigzag, like a fan. Now it is stiff, and it can hold up coins. Nothing was added to the paper. Only its shape changed. Thickness matters too. A thin steel wire bends easily, but a thick steel spoon is stiff.",
+   "description": "Lay a sheet of paper across two books, and it sags. Fold the same paper into a zigzag, like a fan, and it holds coins. Nothing was added, only the shape changed. A thin steel wire bends easily, but a thick steel spoon is stiff.",
    "examples": [
     "In the paper bridge test, a flat sheet sagged under one coin. The zigzag sheet held many coins.",
     "Cardboard boxes have a wavy layer of paper inside, which makes them stiff.",
@@ -91,8 +91,8 @@
   {
    "concept": "Why a smooth thing shines",
    "status": "defined",
-   "definition": "Light bounces off every thing we see. A very smooth surface reflects light back together, in one direction, so it shines. A rough surface sends light off in many directions, so it looks dull.",
-   "description": "Shine a torch at a steel plate, and a bright spot jumps onto the wall. The smooth steel sent the light back together. Shine the torch at a cloth, and no spot comes. The cloth's tiny threads sent the light off every which way. When you breathed on the cold plate, tiny drops of water covered its surface. The drops made it bumpy, so it went dull. When they dried, the plate shone again. Still water is smooth too, so it shines like a mirror.",
+   "definition": "Light bounces off most things we see. A very smooth surface reflects light back in one direction, so it shines. A rough surface sends light off in many directions, so it looks dull.",
+   "description": "Shine a torch at a steel plate, and a bright spot jumps onto the wall. Smooth steel sends the light back in one direction. A cloth's tiny threads send it off in all directions, so no spot comes. Your breath leaves tiny drops of water on a cold plate. The drops make it bumpy, so it goes dull until they dry.",
    "examples": [
     "In the Torch Spot Test, the steel plate, the mirror and the bowl of still water made a bright spot. The cloth and the newspaper did not.",
     "When you splash still water, the bright spot breaks into wobbly pieces.",
@@ -145,9 +145,9 @@
  ],
  "big_questions": [
   {
-   "q": "Your breath made the steel plate dull for a few seconds. Was the plate still shiny under the mist?",
+   "q": "A thick steel spoon is stiff, but a thin steel wire bends. Is stiffness in the steel, or in the shape?",
    "kind": "deep",
-   "hint": "The steel did not change. What sat on top of it? What happened when that went away?"
+   "hint": "It is the same steel. What is different about the two?"
   },
   {
    "q": "Paper feels smooth to your finger. Would an ant find the paper smooth, as she walks across?",
@@ -169,7 +169,7 @@
   "title": "The Grey Mirror",
   "mins": 6,
   "read_aloud": true,
-  "note": "Aranmula is a real village in Kerala, beside the Pampa river. Families there make mirrors of polished metal, called Aranmula kannadi. Kannadi means mirror in Malayalam. Achamma means father's mother. Meenu, Achamma and Unni are made up.",
+  "note": "Aranmula is a real village in Kerala, beside the Pampa river. Families there make mirrors of polished metal, called Aranmula kannadi. Kannadi means mirror in Malayalam. Achamma means father's mother. Meenu and Achamma are made up.",
   "text": [
    "Meenu was six. She lived in Aranmula, a village in Kerala beside the Pampa river. Her grandmother, Achamma, made mirrors.",
    "They were not glass mirrors. Achamma made mirrors out of metal. People came from far away to buy them. They are called Aranmula kannadi.",
@@ -187,21 +187,18 @@
    "Meenu looked in, and there she was. Her two eyes. Her two plaits. The gap where her front teeth had fallen out.",
    "'It's me!' Meenu shouted. 'Achamma, what did you put on it?'",
    "'Nothing,' said Achamma. 'It is the same metal. I only made its surface smooth. Smoother than your finger can feel.'",
+   "Meenu touched the mirror again. It felt cool and flat and even, with no bumps she could feel.",
+   "Achamma smiled. 'Now you know how a mirror is made.'",
    "Meenu leaned close to the mirror and said 'Haaa.' A white mist covered her face. The mirror went dull.",
    "'Oh no! I spoiled it!'",
    "Achamma laughed. 'Watch.'",
    "The mist shrank from the edges, like a cloud going away. Meenu's face came back, bright and clear.",
    "'Your breath left tiny drops of water on top,' said Achamma. 'For a moment, the surface was bumpy again. Then the drops dried, and the smooth metal shone.'",
-   "That afternoon, Meenu's cousin Unni came to play. He was four. Meenu filled a brass uruli with water and set it on the floor.",
-   "'Look in,' she said. Unni saw his face in the still water.",
-   "Unni splashed it with his hand. His face broke into wobbly pieces.",
-   "'Wait,' said Meenu. 'Don't touch it.' The water went still and smooth. Unni's face came back.",
-   "'A shiny thing is a smooth thing,' Meenu told him. 'Even water.'",
-   "In the evening, they walked to the river. The Pampa was still, and it shone like Achamma's mirror. The whole pink sky was in the water.",
+   "In the evening, Meenu and Achamma walked to the river. The Pampa was still, and it shone like Achamma's mirror. The whole pink sky was in the water.",
    "A long boat went past. Ripples spread out, and the sky in the river broke into a hundred pieces.",
-   "Meenu held Unni's hand, and they waited. Slowly the river smoothed itself, and the sky came back."
+   "Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, and the sky came back."
   ],
-  "epiphany": "For the parent: Meenu finds that the dull grey disc and the bright mirror are the same metal. Polishing only made its surface smooth. Her breath and Unni's splash make smooth things bumpy for a moment, so they go dull, and they shine again when they are smooth.",
+  "epiphany": "For the parent: Meenu finds that the dull grey disc and the bright mirror are the same metal. Polishing only made its surface smooth. Her breath and a boat's ripples make smooth things bumpy for a moment, so they go dull, and they shine again when they are smooth.",
   "ask": [
    "Why could Meenu not see herself in the grey disc at first?",
    "What did Achamma put on the disc to make it a mirror?",
@@ -212,7 +209,7 @@
    "A grandmother in a white mundu and blouse on a Kerala verandah, holding up a dull grey metal disc while a girl with two plaits peers into it.",
    "The grandmother and the girl side by side, rubbing the disc round and round with soft cloths.",
    "The girl laughing at her own clear face in a round metal mirror, with a little white mist fading from the edges.",
-   "Two children at the edge of a still river at sunset, the pink sky reflected in the water, and a long boat leaving ripples."
+   "A girl and her grandmother at the edge of a still river at sunset, the pink sky reflected in the water, and a long boat leaving ripples."
   ]
  },
  "experiments": [
@@ -224,7 +221,7 @@
    "context": "In this experiment you shine a torch on things from home, in a dim room. A shiny thing throws a bright spot of light onto the wall. Then you try to make a shiny thing dull, and a dull-looking thing shine.",
    "question": "Which of these things will throw a bright spot of torch light onto the wall? What is the same about the ones that do?",
    "predict": "Guess first. For each thing, say: shiny or dull? Will it make a bright spot on the wall? Why do you think so?",
-   "fair_test": "Every thing gets the same torch, held at the same slant, about one ruler away. The room stays equally dim for every thing. We feel every thing with the same finger, so we compare them fairly.",
+   "fair_test": "Each thing gets the same torch, held at the same slant, about one ruler away. The room stays equally dim. We touch each thing in the same way, with one finger.",
    "results_table": [
     "Thing",
     "My guess: shiny or dull?",
@@ -265,7 +262,6 @@
      "qty": 1
     }
    ],
-   "safety": "Shine the torch at things, never into anyone's eyes.",
    "schedule": [
     {
      "day": 1,
@@ -349,13 +345,13 @@
      "do": "1. Put the steel plate in the fridge 10 minutes before you start. 2. Draw the curtains or switch off the lights. 3. Shine the torch on a pale wall.",
      "say": "We are going to test which things are shiny. First, look. This is the torch's light on the wall.",
      "kid": "Look at the torch light on the wall. Soon you will test some things.",
-     "parent": "A dim room makes the spots easy to see. Evening, with the lights off, works well. Keep the plate in the fridge until step 4."
+     "parent": "A dim room makes the spots easy to see. Evening, with the lights off, works well. Keep the steel plate in the fridge until step 4."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Hold up each thing, one at a time. 2. Ask your child to guess. 3. Write their guesses in the table.",
-     "say": "Here is a mirror, foil, newspaper, a hanky and a wooden spoon. For each one, is it shiny or dull? Will it make a bright spot on the wall? Why do you think so?",
+     "do": "1. Hold up each thing, one at a time. Name the steel plate in the fridge too, and show it in step 4. 2. Ask your child to guess. 3. Write their guesses in the table.",
+     "say": "Here are a mirror, foil, newspaper, a hanky, a wooden spoon, a steel plate and a bowl of water. For each one, is it shiny or dull? Will it make a bright spot on the wall? Why do you think so?",
      "kid": "Look at each thing. Shiny or dull? Will it make a bright spot? Why?",
      "ask": [
       {
@@ -372,7 +368,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Lay each thing flat on the table, near the wall. 2. Hold the torch at a slant, about one ruler away. 3. Look for a bright spot on the wall or ceiling. 4. Your child strokes each thing with one finger.",
+     "do": "1. Lay the mirror, foil, newspaper, hanky and wooden spoon flat on the table, one at a time, near the wall. 2. Hold the torch at a slant, about one ruler away. 3. Look for a bright spot on the wall or ceiling. 4. Your child strokes each thing with one finger. The steel plate waits for the next step.",
      "say": "Let's shine the torch on the mirror. Look at the wall. Do you see a bright spot? Now touch the mirror. Is it smooth or rough?",
      "kid": "Look at the wall. Do you see a bright spot? Now touch the thing. Smooth or rough?",
      "ask": [
@@ -389,7 +385,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Take the cold steel plate from the fridge. 2. Shine the torch on it and find the spot. 3. Your child breathes 'haaa' onto the plate. 4. Watch the spot, then watch the plate for a few seconds.",
+     "do": "1. Take the cold steel plate from the fridge. 2. Shine the torch on it and find the spot. Your child strokes the plate with one finger. 3. Your child breathes 'haaa' onto the plate. 4. Watch the spot, then watch the plate for a few seconds.",
      "say": "Here is the cold steel plate. See its bright spot? Now breathe on the plate, 'haaa'. What happens to the spot? Keep watching.",
      "kid": "Breathe 'haaa' on the cold plate. Watch the spot on the wall. Keep watching.",
      "ask": [
@@ -401,7 +397,7 @@
        ]
       }
      ],
-     "parent": "A cold plate mists up well and clears in a few seconds. The mist is tiny drops of water from the breath. If the room is very warm, breathe again closer to the plate."
+     "parent": "A cold plate mists up well and clears in a few seconds. The mist is tiny drops of water from the breath. In humid weather the cold plate may mist by itself when you take it out. Wipe it dry with a cloth, then shine the torch. A scratched plate gives a fainter spot than the mirror, which is fine. After the breath, wait, and the shine comes back as the plate warms."
     },
     {
      "id": "s5",
@@ -423,8 +419,8 @@
     {
      "id": "s6",
      "mins": 2,
-     "do": "Ask your child what was the same about every thing that made a spot. Then ask the check question.",
-     "say": "Think about the mirror, the cold plate and the still water. What was the same about every thing that made a bright spot?",
+     "do": "Ask your child what was the same about each thing that made a spot. Then ask the check question.",
+     "say": "Think about the mirror, the cold plate and the still water. What was the same about each thing that made a bright spot?",
      "kid": "What was the same about all the things that made a spot?",
      "ask": [
       {
@@ -446,7 +442,7 @@
       "a": 0,
       "why": "Your breath left tiny drops of water on the steel. The drops made the surface bumpy, so the light went off in many directions. When the drops dried, the smooth steel shone again."
      },
-     "parent": "Wait for your child's own claim first. Then say the explanation: smooth surfaces reflect light back together."
+     "parent": "Wait for your child's own claim first. Then say the explanation: smooth surfaces reflect light back in one direction."
     }
    ]
   },
@@ -538,7 +534,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Your child puts coins gently on the middle of the flat bridge, one at a time. Count until it sags to the floor.",
+     "do": "Your child puts coins gently on the middle of the flat bridge, one at a time. Count until it sags down.",
      "say": "Put one coin in the middle, gently. And another. Count with me. When does it sag down?",
      "kid": "Put coins in the middle, one at a time. Count. When does it sag?",
      "parent": "A flat sheet usually sags under one or two coins, or even under none."
@@ -628,7 +624,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the four slips on the floor. 2. Show your child how to press with a thumb and how to stroke with a finger.",
+     "do": "1. Write HARD, SOFT, ROUGH and SMOOTH on the four slips, and lay them on the floor. 2. Show your child how to press with a thumb and how to stroke with a finger.",
      "say": "We are hunting for things. Press with your thumb. Does it squash? Then it is soft. Stroke it with your finger. Can you feel bumps? Then it is rough.",
      "kid": "Press with your thumb. Does it squash? Stroke with your finger. Can you feel bumps?"
     },
@@ -652,9 +648,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Pick up one thing and ask the check question.",
-     "say": "Here is a sponge. Press it. Stroke it. What two words tell us what the sponge is like?",
-     "kid": "Press the sponge. Stroke it. Which two words fit?",
+     "do": "Pick up a pillow or cushion and ask the check question.",
+     "say": "Here is a pillow. Press it with your thumb. What is it like?",
+     "kid": "Press the pillow. What is it like?",
      "check": {
       "t": "mcq",
       "q": "You press a pillow and it squashes. What is the pillow like?",
@@ -678,14 +674,14 @@
    "materials": [
     {
      "item": "thin paper, such as old notebook pages or printer paper",
-     "qty": 4
+     "qty": 6
     },
     {
      "item": "a crayon with the paper wrapper taken off",
      "qty": 1
     },
     {
-     "item": "things to rub: a coin, a leaf, a grater, a doormat, a floor tile, a steel plate",
+     "item": "things to rub: a coin, a leaf, a comb, a doormat, a floor tile, a steel plate",
      "qty": 1
     }
    ],
@@ -742,7 +738,7 @@
       "t": "mcq",
       "q": "Which surface would leave the plainest rubbing?",
       "options": [
-       "A smooth glass bottle",
+       "A smooth floor tile",
        "A rough doormat",
        "A coconut shell"
       ],
@@ -866,7 +862,7 @@
       },
       {
        "f": "SHINY",
-       "b": "It reflects light back together. A steel tumbler, a mirror, a phone screen."
+       "b": "It reflects light back in one direction. A steel tumbler, a mirror, a phone screen."
       },
       {
        "f": "DULL",
@@ -879,8 +875,8 @@
     "The caller mixes the 8 property cards and reads one out loud.",
     "Every player runs to touch something in the room that has that property.",
     "Each player says what they touched, and how they know.",
-    "A good reason gets a point. A grown-up reads the cards for a caller who cannot read yet.",
-    "Play until all 8 cards have been read. Then swap callers."
+    "A good reason gets a point. A grown-up reads the cards for a caller who cannot read yet. If a player cannot find anything, the caller gives a hint.",
+    "Play until all 8 cards have been read. Then swap callers and play again. At the end, add up the points. The highest wins, or try to beat your own total next time."
    ],
    "setup": [
     {
@@ -966,7 +962,7 @@
       },
       {
        "f": "A doormat",
-       "b": "Clues: rough, bendy, dull."
+       "b": "Clues: rough, hard, dull, a little stiff."
       },
       {
        "f": "A mirror",
@@ -1003,16 +999,17 @@
     "Mix the cards and put them face down.",
     "The first player takes a card and keeps it secret. A grown-up whispers it to a player who cannot read yet.",
     "The player gives one clue at a time, using only property words: hard, soft, rough, smooth, bendy, stiff, shiny or dull.",
-    "The others guess after each clue. Whoever guesses right takes the next card.",
-    "A player may give a clue with a real thing too: 'It is as rough as the doormat.'"
+    "The others guess after each clue. Whoever guesses right gets a point and takes the next card. If nobody guesses after all the clues, show the card and let the next player take a card.",
+    "After the property clues, a player may add one more clue with a real thing: 'It is as rough as the doormat.'",
+    "Play until every player has had two turns, or the cards run out. The most points wins, or just count the family's total."
    ],
    "setup": [
     {
-     "art": "A girl holding a card close to her chest, saying hard and shiny, while her father and brother think.",
+     "art": "A girl holding a card close to her chest, saying hard and shiny, while two friends think.",
      "caption": "1. Pick a secret card. Give one property clue."
     },
     {
-     "art": "The father calling out steel tumbler, and the girl showing the card with a tumbler drawn on it.",
+     "art": "A boy calling out steel tumbler, and the girl turning her card over to show it.",
      "caption": "2. Guess after each clue."
     }
    ],
@@ -1080,7 +1077,7 @@
      "qty": 1
     },
     {
-     "item": "small bits to stick: a scrap of cloth, foil, sandpaper or a bit of doormat, a thread, a leaf, a square of newspaper",
+     "item": "small bits to stick: a scrap of cloth, foil, sandpaper or a bit of doormat, a thread, a leaf, a toothpick, a square of newspaper",
      "qty": 1
     },
     {
@@ -1107,7 +1104,7 @@
     {
      "day": 4,
      "mins": 6,
-     "what": "Fill the SHINY and DULL pages. Read the book to someone, letting them touch each page."
+     "what": "Fill the SHINY and DULL pages. Show the book to someone, letting them touch each page."
     }
    ],
    "record": "The finished book, with something to touch or see on every page.",
@@ -1141,7 +1138,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Write BENDY and STIFF on the next pages. Your child sticks on a thread or leaf for bendy, and draws or sticks a matchstick-sized twig for stiff.",
+     "do": "Write BENDY and STIFF on the next pages. Your child sticks on a thread or leaf for bendy, and a toothpick for stiff.",
      "say": "Today, bendy and stiff. What can you stick on that bends? What stays straight?",
      "kid": "Stick on something bendy and something stiff.",
      "wait": "The next day."
@@ -1149,9 +1146,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Write SHINY and DULL on the last pages. Your child sticks on foil for shiny and newspaper for dull. Then they read the book to someone.",
-     "say": "Last pages: shiny and dull. Then read your whole book to Paati, or to anyone at home. Let them touch every page.",
-     "kid": "Stick on something shiny and something dull. Read your book to someone.",
+     "do": "Write SHINY and DULL on the last pages. Your child sticks on foil for shiny and newspaper for dull. Then they show the book to someone and tell them about each page.",
+     "say": "Last pages: shiny and dull. Then show your whole book to someone at home, or on a call. Tell them about each page, and let them touch every page they can.",
+     "kid": "Stick on something shiny and something dull. Show your book to someone and tell them about it.",
      "wait": "The next day."
     }
    ]
@@ -1163,7 +1160,7 @@
    "title": "A Mirror for a Doll",
    "mins": 20,
    "context": "This is a design challenge. You make a mirror for a doll or a toy, using things from home. A good mirror lets you see a face in it.",
-   "problem": "Divya's doll has no mirror. Can you make one from things at home? You must be able to see your face in it, even a little.",
+   "problem": "A doll has no mirror. Can you make one from things at home? You must be able to see your face in it, even a little.",
    "constraints": [
     "Use only things from home.",
     "It must be small enough for a doll.",
@@ -1184,7 +1181,7 @@
    "creative": [
     "Smooth kitchen foil very flat over a piece of card, with no creases.",
     "Use the back of a shiny steel spoon. Your face looks funny, because the spoon is curved.",
-    "Put clear plastic over black paper. The plastic reflects a little, and the black behind it helps you see your face."
+    "Put clear plastic over black paper. It reflects only a little, so dim the room and look closely for a faint face."
    ],
    "your_turn": "Make two different mirrors. Which one shows your face best? Why do you think so?",
    "setup": [
@@ -1202,8 +1199,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem to your child.",
-     "say": "Divya's doll has no mirror. Can we make one? What does a mirror need to be like, so we can see a face in it?",
-     "kid": "Divya's doll needs a mirror. What must a mirror be like?",
+     "say": "The doll has no mirror. Can we make one? What does a mirror need to be like, so we can see a face in it?",
+     "kid": "The doll needs a mirror. What must a mirror be like?",
      "ask": [
       {
        "q": "What must a mirror be like?",
@@ -1227,18 +1224,7 @@
      "mins": 7,
      "do": "Compare the mirrors. Your child picks the best one and gives a reason.",
      "say": "Which mirror shows your face best? Why do you think that one works best?",
-     "kid": "Which mirror is best? Why?",
-     "check": {
-      "t": "mcq",
-      "q": "Which foil mirror shows your face better?",
-      "options": [
-       "Foil smoothed very flat",
-       "Foil crumpled into a ball",
-       "Foil with many creases"
-      ],
-      "a": 0,
-      "why": "Flat, smooth foil reflects light back together, so you see a face. Crumpled foil sends light off in many directions."
-     }
+     "kid": "Which mirror is best? Why?"
     }
    ]
   }
@@ -1270,7 +1256,7 @@
     },
     {
      "t": "match",
-     "p": "Draw a line from each thing to the test that tells you about it.",
+     "p": "Draw a line from each question to the test that answers it.",
      "pairs": [
       [
        "Is the pillow soft?",
@@ -1295,7 +1281,7 @@
     },
     {
      "t": "sort",
-     "p": "In the Torch Spot Test, which things made a bright spot on the wall? Circle the shiny ones in yellow and the dull ones in brown.",
+     "p": "Which of these would make a bright spot on the wall with a torch? Circle the shiny ones in yellow and the dull ones in brown.",
      "cats": [
       "Shiny: made a bright spot",
       "Dull: no spot"
@@ -1327,7 +1313,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Smooth steel, a mirror and still water reflect light back together, so they make a spot. Paper, cloth and clay have tiny bumps that send the light every which way.",
+     "why": "Smooth steel, a mirror and still water reflect light back in one direction, so they make a spot. Newspaper, cloth and clay have tiny bumps that send the light off in all directions.",
      "how": "e1"
     },
     {
@@ -1340,9 +1326,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Only things made of metal can be shiny.",
+     "p": "A mirror makes its own light.",
      "a": false,
-     "why": "False. Still water, glass and a banana leaf shine too. A thing shines when its surface is very smooth."
+     "why": "False. A mirror only sends back light that falls on it. In a dark room it does not shine."
     },
     {
      "t": "odd",
@@ -1358,10 +1344,10 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why did the cold steel plate go dull when you breathed on it?",
+     "p": "Many children think only metal things are shiny. Say out loud, and a grown-up writes it: which shiny things did you find that are not metal?",
      "lines": 2,
-     "a": "My breath left tiny drops of water on it. The drops made it bumpy, so it stopped shining.",
-     "why": "A strong answer says that something on top made the surface bumpy, and that the steel itself did not change.",
+     "a": "Still water, a glass bottle, a glazed cup, a banana leaf.",
+     "why": "A strong answer names shiny things that are not metal and says what they share: a very smooth surface.",
      "how": "e1"
     },
     {
@@ -1392,7 +1378,7 @@
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
      "a": "A strong answer picks a side and gives evidence. For Thenmozhi: the water made a bright spot, and it shows faces when still. For Kavya: you can see through water, and its spot was fainter than the mirror's.",
-     "why": "Both girls see something true. Water lets most light through, so it shines less than a mirror. But its smooth surface still reflects some light back together, so still water shines.",
+     "why": "Both girls see something true. Water lets most light through, so it shines less than a mirror. But its smooth surface still reflects some light back in one direction, so still water shines.",
      "how": "e1"
     },
     {
@@ -1412,14 +1398,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Nila folded a sheet of paper into a zigzag. Her zigzag bridge held 12 coins. A flat sheet of the same paper held none. What changed?",
+     "p": "Nila, a girl in Class 1, folds her paper bridge so the folds run across the gap, not from one pile of books to the other. How will it hold coins?",
      "opts": [
-      "The shape of the paper",
-      "The material of the paper",
-      "The size of the coins"
+      "It sags with few coins, because folds must run from pile to pile",
+      "It holds the same as the zigzag bridge",
+      "It holds more than the zigzag bridge"
      ],
      "a": 0,
-     "why": "Both bridges were the same paper. Folding changed only the shape, and the zigzag shape is stiff.",
+     "why": "Folds that run from pile to pile stop the paper bending downwards. Folds across the gap let it bend like a flat sheet.",
      "how": "e2"
     },
     {
@@ -1475,7 +1461,7 @@
     },
     {
      "t": "draw",
-     "p": "In the story, Meenu sees the sky in the river. Draw the river when it is still. Then draw it just after a boat goes past.",
+     "p": "In the story The Grey Mirror, Meenu, a girl in Kerala, sees the sky in the Pampa river. Draw the river when it is still. Then draw it just after a boat goes past.",
      "a": "A still river with the sky in it, and a rippled river with the sky broken into pieces.",
      "why": "A strong drawing shows a clear sky in the smooth water, and broken pieces in the rippled water.",
      "art": "A blank box split in two, labelled STILL and AFTER THE BOAT."
@@ -1499,17 +1485,15 @@
      "why": "A strong answer sees that the girls did two different tests. Pressing tells you soft or hard. Stroking tells you rough or smooth. One thing can be soft and rough."
     },
     {
-     "t": "odd",
-     "p": "Which one would NOT make a bright spot in the Torch Spot Test?",
+     "t": "mcq",
+     "p": "The sole of a chappal is rough underneath. Why is that useful?",
      "opts": [
-      "A mirror",
-      "Still water",
-      "A steel plate",
-      "A cotton towel"
+      "The bumps grip the floor, so your foot does not slip",
+      "The bumps make the chappal shine",
+      "The bumps make the chappal lighter"
      ],
-     "a": 3,
-     "why": "A mirror, still water and a steel plate are very smooth, so they reflect light back together. A towel's threads send it every which way.",
-     "how": "e1"
+     "a": 0,
+     "why": "A rough surface has bumps that catch on the floor. A smooth sole slides more easily."
     },
     {
      "t": "label",
@@ -1556,14 +1540,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, Achamma rubbed a grey metal disc for many days, until Meenu could see her face. What changed?",
+     "p": "In the story The Grey Mirror, Meenu's grandmother Achamma rubbed a grey metal disc for many days, until Meenu could see her face. What changed?",
      "opts": [
       "The surface of the metal became very smooth",
       "The metal turned into glass",
       "The metal became soft"
      ],
      "a": 0,
-     "why": "It was the same metal all along. Rubbing took away the tiny bumps, so the smooth surface reflected light back together."
+     "why": "It was the same metal all along. Rubbing took away the tiny bumps, so the smooth surface reflected light back in one direction."
     }
    ]
   }
@@ -1626,12 +1610,12 @@
     "It makes its own light"
    ],
    "a": 0,
-   "why": "A very smooth surface reflects light back together. A mirror does not make light. In a dark room it does not shine.",
+   "why": "A very smooth surface reflects light back in one direction. A mirror does not make light. In a dark room it does not shine.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Bornali splashes a bucket of still water. Her face in the water breaks into pieces. Why?",
+   "p": "Bornali, a girl in Class 1, splashes a bucket of still water. Her face in the water breaks into pieces. Why?",
    "opts": [
     "The ripples make the surface bumpy",
     "The water went dark",
@@ -1655,19 +1639,19 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan lays a flat sheet of paper across two books. It sags. What can he do to make the same paper stiff?",
+   "p": "Cardboard boxes have a wavy layer of paper inside. Why?",
    "opts": [
-    "Fold it into a zigzag",
-    "Make it wet",
-    "Colour it in"
+    "The waves make the card stiff",
+    "The waves make the card shiny",
+    "The waves make the card softer"
    ],
    "a": 0,
-   "why": "Folding changes the paper's shape. A zigzag shape is stiff, so it holds coins.",
+   "why": "A wavy layer is like the zigzag paper bridge. The shape makes thin paper stiff.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Selvi guesses that the hanky will make a bright spot in the torch test. It does not. What should she do?",
+   "p": "Selvi, a girl in Class 1, guesses that the hanky will make a bright spot in the torch test. It does not. What should she do?",
    "opts": [
     "Say what she saw, and change her idea",
     "Keep her guess, because it was hers",
@@ -1679,9 +1663,9 @@
   },
   {
    "t": "mcq",
-   "p": "Why do we hold the torch at the same slant for every thing in the torch test?",
+   "p": "Why do we hold the torch at the same slant for each thing in the torch test?",
    "opts": [
-    "So the test is fair for every thing",
+    "So the test is fair for each thing",
     "So the torch does not get hot",
     "So the things stay clean"
    ],
@@ -1723,8 +1707,7 @@
   "Cooks choose soft, bendy banana leaves to serve and wrap food, and hard steel for pots.",
   "Shoemakers make chappal soles rough underneath, so they grip the floor.",
   "Mirror makers polish metal or coat glass to make a very smooth, shiny surface.",
-  "Lines painted on roads have tiny glass beads in the paint, so they shine back at car headlights at night.",
-  "Cardboard boxes have a wavy layer of paper inside, which makes them stiff."
+  "Lines painted on roads have tiny glass beads in the paint, so they shine back at car headlights at night."
  ],
  "spotted": [
   {
@@ -1766,7 +1749,7 @@
   "What is the softest thing in this room? How do you know?",
   "Can you find something shiny in the kitchen? Is it smooth?",
   "Is your chappal bendy or stiff? Try it.",
-  "Why do you think the steel plate stopped shining when you breathed on it?",
+  "Where in your home can you find something both soft and rough?",
   "Is your hair rough or smooth? Is your cheek?",
   "What would happen if a pillow was hard?"
  ],
@@ -1802,17 +1785,13 @@
   {
    "j": "What is the shiniest day of the week?",
    "a": "Sun-day!"
-  },
-  {
-   "j": "Why did the foil go to the party?",
-   "a": "To shine on the dance floor!"
   }
  ],
  "maths": [
   {
-   "problem": "In the Torch Spot Test, Nila tested 7 things. 3 of them made a bright spot. How many made no spot?",
-   "answer": "4.",
-   "explain": "7 things take away the 3 that made a spot leaves 4. So 4 things were dull.",
+   "problem": "In the Torch Spot Test, Nila, a girl in Class 1, tested 7 things. 4 of them made a bright spot. How many made no spot?",
+   "answer": "3.",
+   "explain": "7 things take away the 4 that made a spot leaves 3. So 3 things were dull.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
    "context": "This is about the Torch Spot Test, where you shone a torch on things from home.",
@@ -1879,16 +1858,16 @@
    "a": "Stiff. It keeps its shape."
   },
   {
-   "q": "Why does a mirror shine?",
-   "a": "Its surface is very smooth."
+   "q": "Name something in your kitchen that is shiny.",
+   "a": "A steel plate, a tumbler or foil. Shiny things have a very smooth surface."
   },
   {
    "q": "Can water be shiny?",
    "a": "Yes, when it is still and smooth."
   },
   {
-   "q": "What can make flat paper stiff?",
-   "a": "Folding it into a zigzag."
+   "q": "Is a banana leaf bendy or stiff?",
+   "a": "Bendy. It bends easily."
   }
  ],
  "roots": {
@@ -1903,7 +1882,7 @@
    "what_is_life": "Living beings have surfaces too. A banana leaf is smooth and shiny, a coconut's husk is rough, and a cat's fur is soft.",
    "what_is_this_world": "The world is full of surfaces, and light bounces off every one. How smooth a surface is decides whether it shines."
   },
-  "thread": "Steel, glass, water and a banana leaf are very different things. Yet they all shine for the same reason: their surfaces are very smooth. One way that light behaves gives us the shine of a mirror, a river and a tiffin box. Everything is conscious, and every surface meets the light and our touch in its own way.",
+  "thread": "Steel, glass, water and a banana leaf are very different things. Yet they all shine for the same reason: their surfaces are very smooth. Everything is conscious, and each of them meets the light in its own way.",
   "teachings": [
    {
     "source": "Bhagavad Gita 3.38",
@@ -1938,12 +1917,12 @@
   "practice": {
    "title": "Watch the mist go",
    "mins": 3,
-   "say": "Hold a cold steel spoon or plate close to your face. Breathe out slowly onto it, 'haaa'. Now stay very still and watch. See the mist shrink from the edges. Breathe in slowly while it goes. When it has gone, look at the shine. The shine was there under the mist all the time.",
-   "kid": "Breathe 'haaa' on a cold spoon. Stay still. Watch the mist shrink away. Breathe in slowly. See the shine come back."
+   "say": "Take a steel spoon or plate that has been in the fridge for 10 minutes. Hold it close to your face. Breathe out slowly onto it, 'haaa'. Now stay very still and watch. See the mist shrink from the edges. Breathe in slowly while it goes. When it has gone, look at the shine. The steel was the same steel all the time.",
+   "kid": "Breathe 'haaa' on a spoon from the fridge. Stay still. Watch the mist shrink away. Breathe in slowly. See the shine come back."
   },
   "ask": [
-   "When the plate was misty, was it still shiny underneath?",
-   "Is the shine in the plate, in the light, or in your eyes?",
+   "When the plate was misty, was it still the same steel?",
+   "Name something dull that could shine if it were smoother.",
    "Why do you think so many people love shiny things?"
   ],
   "art": "A girl holding a steel spoon close to her face, a small mist on the spoon shrinking from the edges, and her calm face reflected in the clear middle."
@@ -2017,5 +1996,6 @@
    "Aranmula kannadi: hand-made metal mirrors from Aranmula, Kerala, cast from a copper and tin alloy and polished by hand. They have a Geographical Indication tag.",
    "Katrien Meert, Mario Pandelaere and Vanessa Patrick, 'Taking a shine to it', Journal of Consumer Psychology 24 (2014): the idea that the liking for glossy things is linked to a need for water."
   ]
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat, at 2 and at 4 players, checking printables, minutes and schedules. Fixed: the cold plate would mist by itself in humid weather and was shown too early, so the steps now keep it in the fridge, wipe it dry and say what a scratched plate gives; the doormat clue now agrees with the Touch Hunt; the story is shorter, with the repeated water scene and the extra child cut; the roots practice no longer says the shine hides under mist; and repeated questions (foil mirror, cold plate, paper fold, cardboard) were replaced with new ones. Video ids are still to find."
 }

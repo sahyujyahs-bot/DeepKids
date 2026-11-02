@@ -3,7 +3,7 @@
 
 **Summary.** Peas from one pod are all green and round, like every pea from that plant. Yet no two of them are the same size. Children are like that too. A child gets their kind, and many features, from their parents, and still comes out as someone new. Your child opens pea pods to see what is alike and what is different, then looks at old family photos to find features passed down.
 
-**Intro.** *Hold a pea pod in your hand. Before you open it, guess: are all the peas inside the same?* Every person is like other people in many ways. We all have two eyes, a nose and a beating heart. And every person is a little different. Some of your features are like your Amma's, some are like your Appa's, and some are all your own. In this unit we open pea pods, the homes of pea plant babies. Then we look at family photos, to see which features children get from their parents.
+**Intro.** *Hold a pea pod in your hand. Before you open it, guess: are all the peas inside the same?* Every person is like other people in many ways. We all have two eyes, a nose and a beating heart. And every person is a little different. Some of your features are like one parent's, some are like your other parent's, and some are all your own. In this unit we open pea pods, the homes of pea plant babies. Then we look at family photos, to see which features children get from their parents.
 
 ## Learning outcomes
 0. By the end I can say ways I am like other people, and ways I am different.
@@ -15,57 +15,54 @@
 ## Terms
 - **Similar**: Similar means alike in some way. *e.g.* You and your cousin are similar, because you both have curly hair.
 - **Feature**: A feature is one part of how a being looks or is, like hair, eyes, ears or the shape of a leaf. *e.g.* Curly hair is a feature. Big brown eyes are a feature. A dimple is a feature.
-- **Inherit**: To inherit a feature is to get it from your parents. You get it before you are born. *e.g.* Thenu inherited her curly hair from her family. A kitten inherits her fur colour from her parents.
+- **Inherit**: To inherit a feature is to get it from your parents. You get it before you are born. *e.g.* A girl inherits her curly hair from her family. A kitten inherits her fur colour from her parents.
 - **Pod**: A pod is the case that holds the seeds of a pea or bean plant. *e.g.* When you press a pea pod along the edge, it splits open, and you see the peas in a row.
 
 ## Explanations
 ### We are similar, and we are different · *defined*
 **Definition:** All people are alike in many ways, and each person is different in some ways.
 
-All people need food, water and air. We all have a heart, two lungs and a brain. Most of us have two eyes, two ears and ten fingers. That is how we are similar. But look closely, and every person is different. Hair can be curly or straight, thick or thin. Skin can be lighter or darker. Noses, ears and eyebrows have many shapes. Even twins who look the same are different in small ways. Humans are animals, and other animals are the same. Every crow on the wall is a crow, and no two crows are exactly alike.
+All people need food, water and air. We all have a heart and a brain. Most of us have two eyes, two ears and ten fingers. That is how we are alike. But look closely: hair can be curly or straight, and noses and ears have many shapes. Even twins who look the same are different in small ways. Humans are animals, and other animals are the same. Every crow on the wall is a crow, and no two crows are exactly alike.
 - e.g. At an Onam lunch, everyone eats from a banana leaf. Every hand that eats has five fingers, but no two hands are the same size.
 - e.g. Your family photo from Pongal or Durga Puja shows many faces. Each face has eyes, a nose and a mouth, and each face is different.
 - e.g. Two street dogs may both be brown, with the same pointed ears, and still have different tails.
 ### Children inherit features from both parents · *defined*
 **Definition:** Children get features from their mother and from their father. This is called inheriting.
 
-A child gets features from both parents before birth. Inside every living being are tiny instructions for how to grow. Scientists call them genes. Half of a child's genes come from the mother, and half from the father. So a child may have the father's eyebrows and the mother's chin. A child can also have a feature that neither parent shows. A parent can pass on a feature that does not show on the parent. That feature may come from a grandparent. It is the same for other animals and for plants. A kitten inherits features from the mother cat and the father cat. A pea plant's seeds grow into pea plants.
+A child gets features from both parents before birth. Inside every living being are tiny instructions for how to grow. Scientists call them genes. Half of a child's genes come from the mother, and half from the father. So a child may have the father's eyebrows and the mother's chin. A child can also have a feature that neither parent shows. It may come from a grandparent. It is the same for other animals and for plants.
 - e.g. A girl may have her Amma's dimple and her Appa's thick eyebrows.
 - e.g. A boy with curly hair may have two parents with straight hair, and a grandmother with curls.
 - e.g. A mango stone grows into a mango tree, never a neem tree.
 ### Why children of the same parents are not the same · *defined*
 **Definition:** Brothers and sisters each get a different mix of features from their parents, and each grows in their own way.
 
-Two things make children of the same parents different. First, each child gets a different mix of the parents' features. One sister may get Amma's nose, and her brother may get Appa's nose. Second, each child grows in their own way and their own place. You saw this with the peas. A pea flower usually makes seeds with their own pollen, so the peas in one pod are very close to copies. Yet each pea grew in their own spot in the pod. Some got more food from the plant than others, so they grew to different sizes. Identical twins come from one egg that split in two, so they have the same genes. Even so, their fingerprints are different, and they grow up liking different things.
+Two things make children of the same parents different. First, each child gets a different mix of the parents' features. One sister may get Amma's nose, and her brother may get Appa's nose. Second, each child grows in their own place. Peas from one pod are very much alike, because they have the same parent plant. Yet each pea sat in their own spot in the pod, and some may have got more food than others. So they grew to different sizes. Identical twins start from one egg that split in two, and still their fingerprints are different.
 - e.g. In the pod test, all the peas were green and round, but no two were the same size.
 - e.g. Kittens from one mother cat can be black, ginger, white or patchy.
 - e.g. Twin sisters who look the same can have a different number of moles, and different favourite foods.
 ### A seed carries the parent plant's features · *defined*
 **Definition:** A seed grows into a plant of the same kind as the parent plant, with many of the parent's features.
 
-A pea is a seed. Inside it is a tiny baby plant and a store of food. When you plant a pea, a pea plant grows, with pea leaves and pea flowers. The parent plant fed each pea through a tiny stalk inside the pod. A seed senses water and warmth, and chooses when to start growing. Some scientists call this an automatic response. Plants can also have babies from just one parent. Put a cut mint stem in water, and the stem grows roots. The new mint plant is almost a copy of the parent, because there was only one parent to inherit from.
+A pea is a seed. Inside it is a tiny baby plant and a store of food. When you plant a pea, a pea plant grows. A seed is alive and aware. She senses water and warmth, and starts to grow when the time is right. Some scientists say a plant does this without any awareness. Plants can also have babies from just one parent. Put a cut mint stem in water, and the stem grows roots. The new plant is almost a copy of the parent, because there was only one parent.
 - e.g. Tomato seeds from a red tomato grow into tomato plants.
 - e.g. Farmers in Punjab and in the Kaveri delta save seeds from their best plants to sow next year.
-- e.g. A cut stem of money plant, mint or tulsi can grow roots in water and become a new plant.
+- e.g. A cut stem of money plant or mint can grow roots in water and become a new plant.
 
 ## Mostly agreed
-- Children get features from both of their parents. *How we know:* Gregor Mendel showed this with pea plants in the 1860s. Since then, scientists have tested it in thousands of plants and animals, including humans. Doctors can now read the genes a child got from each parent.
+- Children get features from both of their parents. *How we know:* A monk named Gregor Mendel showed this with pea plants in the 1860s. Since then, scientists have tested it in thousands of plants and animals, including humans. Doctors can now read the genes a child got from each parent.
 - A living being always comes from parents of the same kind. *How we know:* A pea seed always grows a pea plant, and a cat's kittens always grow into cats. Farmers and gardeners have seen this for thousands of years.
 - No two people are exactly the same, not even identical twins. *How we know:* Identical twins have the same genes, yet their fingerprints are different. Police in India and all over the world use fingerprints to tell people apart.
 
 ## How we found out
-**Gregor Mendel, a monk and scientist in Brno (1856 to 1866); Edith Rebecca Saunders, a plant scientist in Cambridge, England (early 1900s), Mendel grew his peas from 1856 to 1863 and published in 1866. His work was found again in 1900, and Saunders published with William Bateson in 1902..** Long ago, most people thought a child was a blend of the two parents, like two colours of paint mixed together. A tall parent and a short parent should have a child in between. Gregor Mendel was a monk in Brno, a city now in the Czech Republic. He tested this idea with pea plants. From 1856 to 1863, he grew thousands of pea plants in the monastery garden. He put pollen from tall pea plants onto the flowers of short pea plants. If the blending idea was right, the babies would be medium. But every baby plant grew tall. Then he let those tall babies make seeds of their own. In the next generation, about one plant in every four was short again. The shortness had been passed on, hidden, and came back. So features are not mixed like paint. They are passed on whole. Mendel published his work in 1866, but hardly anyone read it. In 1900, other scientists found it again. In England, Edith Saunders bred flowers called stocks and showed that the same rules worked in other plants too.  
+**Gregor Mendel, a monk in Brno; Edith Rebecca Saunders, a plant scientist in Cambridge, England, Mendel grew his peas from 1856 to 1863 and published in 1866. His work was found again in 1900, and Saunders published with William Bateson in 1902..** Long ago, most people thought a child was a blend of the two parents, like two colours of paint mixed together. A tall parent and a short parent should have a child in between. Gregor Mendel was a monk in Brno, a city now in the Czech Republic. He tested this idea with pea plants. From 1856 to 1863, he grew thousands of pea plants in the monastery garden. He put pollen from tall pea plants onto the flowers of short pea plants. If the blending idea was right, the babies would be medium. But every baby plant grew tall. Then he let those tall babies make seeds of their own. In the next generation, about one plant in every four was short again. The shortness had been passed on, hidden, and came back. So features are not mixed like paint. They are passed on whole. Mendel published his work in 1866, but hardly anyone read it. In 1900, other scientists found it again. In England, Edith Saunders bred flowers called stocks and showed that the same rules worked in other plants too.  
 *What people believed before:* That a child is a blend of the two parents, like two paints mixed together. Mendel's tall and short pea plants had all tall babies, not medium ones, and short plants came back in the next generation.
 
 ## Challenging perspectives
 - **A child is a blend of the two parents, like two paints mixed together.** (What most people thought until about 1900; *rejected*)  
   For: Many children do look a bit like each parent, and some are in between their parents in height.  
   Against: Mendel crossed tall pea plants with short ones. The children were all tall, not medium. In the next generation, short plants came back. Features are passed on whole, and can hide and come back.
-- **Twins who look the same are the same in every way.** (A common idea; *rejected*)  
-  For: Identical twins have the same genes, and some look so alike that even friends mix them up.  
-  Against: Their fingerprints are different. They may have different moles, and grow to slightly different heights. And each twin has their own thoughts, likes and dislikes.
-- **A child can only look like their Amma or their Appa.** (A common first guess; *rejected*)  
-  For: A child gets all of their genes from their two parents.  
+- **A child can only look like their mother or their father.** (A common first guess; *rejected*)  
+  For: A child gets their genes from their two parents.  
   Against: A parent can pass on a feature that does not show on the parent. So a child can have the curls of a grandmother, when both parents have straight hair.
 
 ## Roots
@@ -79,23 +76,23 @@ We have opened pea pods and looked for features we share with our family. Now we
 - *what is life:* Every living being comes from parents of their own kind, and passes features on to their own young.
 - *what is this world:* Every pea, kitten and child in the world is like their family, and also someone new.
 
-Before you, there were your parents, and their parents, and theirs, going back a very long way. Each of them passed features on to their children. Each child was a new mix, and passed on a new mix again. In this way, one long family of life keeps making new beings, and no two are ever the same.
+Before you, there were your parents, and their parents, and theirs, going back a very long way. Each of them passed features on to their children. Each child was a new mix, and passed on a new mix again. In this way, one long family of life keeps making new beings, and each one is a new mix.
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Shvetaketu sees nothing inside. Uddalaka tells him that the whole great banyan tree grows from that fine, unseen thing. (A pea looks small and plain. Yet everything needed to grow a whole pea plant, like the parent, is inside that one pea.)
 - **Thirukkural 68:** When children grow wiser than their parents, it brings joy to everyone in the world. (A child is never just a copy of the parents. Each child is someone new, who can become more than anyone before them.)
 - Science (settled): Each child gets half of their genes from the mother and half from the father. Each child gets a different mix, so brothers and sisters differ.
 - Science (open): How genes work together to build the exact shape of a nose or a leaf is still being worked out.
 - Other view, Many biologists: Many biologists explain every feature by genes and the conditions a child grew in. They see the mix each child gets as chance, like shuffling cards. For them, a new mix is just a new arrangement of old genes.
-- Practice, Hands of My Family (3 min): Sit still, and hold your hands in front of you. Look at your fingers, your nails and the lines on your palms. Breathe in slowly, and breathe out slowly. These hands grew with features your family passed on to you. Think of Amma or Appa, and breathe in. Think of someone in your family who lived long ago, and breathe out. Now look at your hands again. They are a mix that nobody ever had before.
+- Practice, Hands of My Family (3 min): Sit still, and hold your hands in front of you. Look at your fingers, your nails and the lines on your palms. Breathe in slowly, and breathe out slowly. These hands grew with features your family passed on to you. Think of a parent, and breathe in. Think of someone in your family who lived long ago, and breathe out. Now look at your hands again. They are a mix that nobody ever had before.
 - Ask: Which of your features came from someone who lived long before you were born?
 - Ask: If every child is a new mix, will anyone ever have your exact mix again?
-- Ask: A mint plant grown from a cut stem is almost a copy of the parent. Is the new plant the same being, or someone new?
+- Ask: What would you like to ask your oldest relative about the features in your family?
 
 ## Deep and big questions
-- *big:* If you have your Ammamma's curls and your Appa's eyes, which parts of you are only yours? (hint: Think about your thoughts, what you like and what you remember.)
+- *big:* If you have a grandparent's curls and a parent's eyes, which parts of you are only yours? (hint: Think about your thoughts, what you like and what you remember.)
 - *big:* A mint plant grown from a cut stem is almost a copy of the parent. Is the new plant the same being, or someone new? (hint: Think about whether the two plants live in the same pot, drink the same water and grow the same new leaves.)
 - *deep:* Why were the peas in one pod different sizes, if they all came from one plant? (hint: Think about where each pea sat in the pod, and how food reached them.)
-- *deep:* How can a feature hide in a parent and then show up in a child? (hint: Remember Mendel's short pea plants, who came back in the grandchildren.)
+- *deep:* How can a feature hide in a parent and then show up in a child? (hint: Think of the short pea plants a monk named Gregor Mendel grew. They did not show in their children, and came back in the grandchildren.)
 
 ## Story: Whose Curls?
 *Thenu, Kathir, Revathi, Amma, Appa and Ammamma are made up. Peas really do differ in size within one pod, and a child really can have a feature like a grandparent's that neither parent shows.*
@@ -154,29 +151,30 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 - Ask: Which feature of yours is like someone else's in your family?
 
 ## Games
-### g1 · Coin Babies: make babies for two Moonbugs (15 min)
-- **rules:** Draw Amma Moonbug and Appa Moonbug at the top of a sheet.; Put the five feature cards in a pile. You need one coin.; Take the top card. Toss the coin. Read the back of the card to see which feature the baby gets.; Write it on the record sheet. Do all five cards. That is one baby.; Draw the baby and give them a name.; Make four babies. Then put the drawings side by side. Are any two babies the same?
-- **Printable cards: 5 feature cards to cut out:** Ears (back: Heads: round ears, like Amma Moonbug. Tails: pointy ears, like Appa Moonbug.); Body colour (back: Heads: blue, like Amma Moonbug. Tails: yellow, like Appa Moonbug.); Pattern (back: Heads: spots, like Amma Moonbug. Tails: stripes, like Appa Moonbug.); Eyes (back: Heads: three eyes, like Amma Moonbug. Tails: two eyes, like Appa Moonbug.); Tail (back: Heads: a curly tail, like Amma Moonbug. Tails: a straight tail, like Appa Moonbug.)
-- **Printable board: The two Moonbug parents, to draw on one sheet:** Amma Moonbug: a blue body with spots, round ears, three eyes and a curly tail.; Appa Moonbug: a yellow body with stripes, pointy ears, two eyes and a straight tail.
-- **Printable score sheet: Baby record sheet:** A row for each baby: ears, body colour, pattern, eyes, tail, and a box to draw the baby.; Baby 1; Baby 2; Baby 3; Baby 4
+### g1 · Coin Babies: make babies for two Gumbis (20 min)
+- **rules:** Draw Amma Gumbi and Appa Gumbi at the top of a sheet.; Put the five feature cards in a pile. You need one coin.; Take the top card. Toss the coin. Read the back of the card to see which feature the baby gets.; Write it on the record sheet. Do all five cards. That is one baby.; Draw the baby and give them a name.; Make four babies. With more children, take turns, and each child makes one baby.; Then put the drawings side by side. Are any two babies the same?
+- **Printable cards: 5 feature cards to cut out:** Ears (back: Heads: round ears, like Amma Gumbi. Tails: pointy ears, like Appa Gumbi.); Body colour (back: Heads: blue, like Amma Gumbi. Tails: yellow, like Appa Gumbi.); Pattern (back: Heads: spots, like Amma Gumbi. Tails: stripes, like Appa Gumbi.); Eyes (back: Heads: three eyes, like Amma Gumbi. Tails: two eyes, like Appa Gumbi.); Tail (back: Heads: a curly tail, like Amma Gumbi. Tails: a straight tail, like Appa Gumbi.)
+- **Printable board: The two Gumbi parents, to draw on one sheet:** Amma Gumbi: a blue body with spots, round ears, three eyes and a curly tail.; Appa Gumbi: a yellow body with stripes, pointy ears, two eyes and a straight tail.
+- **Printable score sheet: 4 baby record boxes to cut out:** Baby 1. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.; Baby 2. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.; Baby 3. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.; Baby 4. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the five feature cards. 2. Help your child draw the two Moonbug parents at the top of a sheet.  
-  *Parent says:* These are two pretend creatures, Amma Moonbug and Appa Moonbug. They are going to have four babies. Each baby gets every feature from one parent or the other.  
-  *Child mode:* Meet Amma Moonbug and Appa Moonbug. They will have four babies.
+  *Parent does:* 1. Cut out the five feature cards. 2. Help your child draw the two Gumbi parents at the top of a sheet.  
+  *Parent says:* These are two pretend creatures, Amma Gumbi and Appa Gumbi. They are going to have four babies. Each baby gets every feature from one parent or the other.  
+  *Child mode:* Meet Amma Gumbi and Appa Gumbi. They will have four babies.
   - Note: This game is a pretend model. Real children get thousands of features from their parents, and some features mix in more complicated ways. The idea that a baby gets some features from each parent is true.
-- **s2 (7 min)**  
+- **s2 (6 min)**  
   *Parent does:* 1. Your child takes a card and tosses the coin. 2. Read the back of the card aloud. 3. Your child writes or draws that feature on the record sheet. 4. Do all five cards, then draw the whole baby.  
-  *Parent says:* Heads or tails? Heads, so this baby gets round ears, like Amma Moonbug. Next card. Toss again.  
+  *Parent says:* Heads or tails? Heads, so this baby gets round ears, like Amma Gumbi. Next card. Toss again.  
   *Child mode:* Toss the coin. Find out which feature the baby gets. Draw it.
   - Ask: Before you toss, can you guess which ears this baby will get? (good: No, the coin decides.; It could be either.)
-- **s3 (5 min)**  
-  *Parent does:* 1. Make three more babies the same way. 2. Lay all four drawings in a row. 3. Ask your child to compare them.  
+- **s3 (11 min)**  
+  *Parent does:* 1. Make three more babies the same way. With more children, each child makes a baby in turn. 2. Lay all four drawings in a row. 3. Ask your child to compare them.  
   *Parent says:* Look at all four babies. They all have the same Amma and Appa. Are any two babies the same? Does any baby look just like one parent?  
   *Child mode:* Put the babies in a row. Are any two the same?
   - Ask: Why are the babies different, when they have the same parents? (good: Each baby got a different mix.; The coin gave each baby different features.)
-  - Check: Four Moonbug babies have the same two parents. What did you find? → **Each baby had a different mix of features**
+  - Note: Two babies can come out the same by chance, because the coin decides. If that happens, say so, and toss for two more babies.
+  - Check: Four Gumbi babies have the same two parents. What did you find? → **Each baby had a different mix of features**
 ### g2 · Alike Jump, Different Spin (10 min)
-- **rules:** Clear a space on the floor.; The grown-up reads a card.; The child jumps and says one way the two are alike.; Then the child spins round once and says one way they are different.; Any true answer counts. The back of each card has ideas.; Play until all the cards are used, or everyone is dizzy.
+- **rules:** Clear a space on the floor.; The grown-up reads a card. With more than one child, take turns.; The child jumps gently and says one way the two are alike.; Then the child spins round once and says one way they are different.; Any true answer counts. The back of each card has ideas.; Play until all the cards are used, or everyone is dizzy.
 - **Printable cards: 16 call cards to cut out:** You and your Amma (back: Alike: maybe the same eyes or smile. Different: you are smaller, and you are a new mix.); Two peas from one pod (back: Alike: both green and round. Different: their size.); A cat and her kitten (back: Alike: both cats, with fur and whiskers. Different: the kitten is small, and may be another colour.); You and your best friend (back: Alike: two eyes, a nose, a mouth. Different: your hair, your height, your voice.); A mango tree and a mango seedling (back: Alike: the same kind of leaves. Different: the seedling is tiny.); Twin sisters (back: Alike: the same face. Different: their fingerprints, and what each one likes.); Two curry leaves from one stalk (back: Alike: the same smell and shape. Different: size, and the exact edge.); A crow and a pigeon (back: Alike: both birds, with wings and feathers. Different: their colour and their call.); You and your brother, sister or cousin (back: Alike: features from the same family. Different: each of you got a different mix.); Two street dogs (back: Alike: four legs, a tail, a wet nose. Different: their colour and their bark.); A mint plant and her cut stem growing roots (back: Alike: almost everything, because the stem has only one parent. Different: the cut stem is younger and smaller.); Your two hands (back: Alike: five fingers each. Different: one is left and one is right, and their lines differ.); A hen and her chick (back: Alike: both birds, with a beak and two legs. Different: the chick has soft fluff.); You and your Ammamma, Paati, Nani or Dadi (back: Alike: maybe your hair, nose or laugh. Different: your age, and your own mix.); Two bananas from one bunch (back: Alike: the same colour and taste. Different: their size and their curve.); An elephant mother and her calf (back: Alike: a trunk, big ears, grey skin. Different: the calf is small and has more hair.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards and mix them. 2. Show your child how to play with the first card.  
@@ -190,7 +188,7 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
   - Note: Accept any true answer. If your child gets stuck, read the back of the card as a hint.
 - **s3 (1 min)**  
   *Parent does:* Ask the last question and let your child think.  
-  *Parent says:* Was there any pair that was the same in every way?  
+  *Parent says:* That was the last card. Think back over all of them.  
   *Child mode:* Was any pair the same in every way?
   - Ask: Were any two exactly the same? (good: No, even twins and the two peas were different.; No, everything had something different.)
 
@@ -230,28 +228,28 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
   *Parent does:* 1. Ask your child three things, one at a time. First, what they found. Then, what they saw that shows it. Last, why they think it happened. 2. Then read the explanation cards together.  
   *Parent says:* So, are the peas in one pod all the same? What did you see that tells you? Why do you think they are all green and round? Why are they not all the same size?  
   *Child mode:* Say what you found. Say what you saw. Why do you think it happened?
-  - Note: A strong answer: the peas are all green and round because they are all babies of pea plants. They are different sizes because each pea grew in their own spot and got a different share of food. Let your child say it in their own words first. Cook the peas afterwards in a sundal, kurma or poha.
+  - Note: A strong answer: the peas are all green and round because they are all babies of pea plants. They are different sizes probably because each pea grew in their own spot and may have got a different share of food. Let your child say it in their own words first. Cook the peas afterwards in a sundal, kurma or poha.
 
 ## Activities
 ### a1 · Old Photos: which features came from my family? (12 min)
 - **record:** A drawing of your face. Colour each feature in the colour of the person you got it from.
 - **s1 (4 min)**  
   *Parent does:* 1. Sit together with the photos. 2. Find a photo of each parent, and of a grandparent if you can. 3. Ask your child to look at one feature at a time. Try the hair, the eyes, the eyebrows, the nose, the ears and the smile.  
-  *Parent says:* Let us be detectives. Look at Amma's eyebrows in this photo. Now look at yours in the mirror. Are they the same shape? Now let us look at the ears.  
+  *Parent says:* Let us be detectives. Look at a parent's eyebrows in this photo. Now look at yours in the mirror. Are they the same shape? Now let us look at the ears.  
   *Child mode:* Look at the photo. Now look in the mirror. Do you see the same eyebrows? The same ears?
-  - Ask: Which of your features is like Amma's, or like Appa's? (good: My eyes are like Appa's.; My smile is like Amma's.)
+  - Ask: Which of your features is like a parent's? (good: My eyes are like my father's.; My smile is like my mother's.)
   - Note: Families are made in many ways. If your child is adopted, or a parent is not in the photos, compare with any relative, or with photos of a cat family with kittens. You can also say plainly that children in a family share a lot that is not in their faces.
 - **s2 (4 min)**  
   *Parent does:* 1. Look at an old photo of a grandparent when young, if you have one. 2. Ask whether your child has any feature that neither parent has, but a grandparent does.  
-  *Parent says:* Here is Paati when she was young. Do you see anything of yours in her face? Something Amma and Appa don't have?  
-  *Child mode:* Look at Paati when she was young. Do you have anything like her?
-  - Ask: Do you have a feature like a grandparent's? (good: My curly hair is like Thatha's.; My nose is like Paati's.)
+  *Parent says:* Here is a grandparent when young. Do you see anything of yours in the face? Something your parents don't have?  
+  *Child mode:* Look at a grandparent when young. Do you have anything like them?
+  - Ask: Do you have a feature like a grandparent's? (good: My curly hair is like my grandfather's.; My nose is like my grandmother's.)
   - Note: Not every family finds one. That is fine. The point is to look closely and compare.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child draws their own face. 2. Pick one colour for each person. 3. Your child colours each shared feature in that person's colour. 4. Leave the features that are all their own in pencil.  
-  *Parent says:* Choose a colour for Amma and a colour for Appa. Colour each feature you share with them. Which features are all your own?  
+  *Parent says:* Choose a colour for each parent. Colour each feature you share with them. Which features are all your own?  
   *Child mode:* Draw your face. Colour the features you share. Which ones are only yours?
-  - Ask: Did all your features come from one person? (good: No, some from Amma and some from Appa.; No, I am a mix.)
+  - Ask: Did all your features come from one person? (good: No, some from my mother and some from my father.; No, I am a mix.)
 ### a2 · Ask the Elders: who else in the family has it? (10 min)
 - **record:** A family line with three rows: grandparents at the top, parents in the middle, children at the bottom. Colour everyone who has the feature.
 - **s1 (2 min)**  
@@ -259,21 +257,20 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
   *Parent says:* Let us choose one feature to follow through our family. Which one shall we choose?  
   *Child mode:* Choose one feature. Curls? A dimple? Thick eyebrows?
 - **s2 (4 min)**  
-  *Parent does:* Your child asks a grandparent or another elder: who in the family has this feature? Help write down the names.  
-  *Parent says:* Ask Paati: who in our family has a dimple? Did anyone have one long ago?  
+  *Parent does:* Your child asks a grandparent or another older relative: who in the family has this feature? Write down the names for your child.  
+  *Parent says:* Ask your grandparent: who in our family has a dimple? Did anyone have one long ago?  
   *Child mode:* Ask an elder: who in our family has it?
   - Note: Older relatives often love this question and remember features of people long gone. If no elder can be asked, use the family photos instead.
 - **s3 (4 min)**  
-  *Parent does:* 1. Draw three rows of circles: grandparents, parents, children. 2. Write a name by each circle. 3. Your child colours everyone who has the feature.  
+  *Parent does:* 1. Draw three rows of circles: grandparents, parents, children. 2. Write a name by each circle for your child. 3. Your child colours everyone who has the feature.  
   *Parent says:* Colour everyone who has the feature. Does it show in every row? Did it skip anyone?  
   *Child mode:* Colour everyone who has it. Did it skip anyone?
-  - Ask: Did the feature show on every person in the line? (good: No, Amma doesn't have it, but Paati and I do.; Yes, everyone has it.)
+  - Ask: Did the feature show on every person in the line? (good: No, my mother doesn't have it, but my grandmother and I do.; Yes, everyone has it.)
 
 ## Projects
 ### p1 · Mint Babies: a plant with only one parent (18 min, 14 days)
-- **safety:** A grown-up cuts the plastic bottle.
 - **record:** Draw the stems on day 1, day 8 and day 14. Show the roots and the new leaves.
-- **schedule:** day 1: Pick 3 fresh stems. Pull off the lower leaves. Stand the stems in a glass of water by a bright window. (6 min); day 4: Change the water. Look at the bottom of the stems. (3 min); day 8: Look for white roots. Draw them. (4 min); day 14: Look at the new leaves. Smell them. Compare them with mint from the shop. Plant the stems in soil, if you have a pot. (5 min)
+- **schedule:** day 1: Pick 3 fresh stems. Pull off the lower leaves. Stand the stems in a glass of water by a bright window. (6 min); day 4: Change the water. Look at the bottom of the stems. (3 min); day 8: Look for white roots. Draw them. (4 min); day 14: Look at the new leaves. Smell them. Compare them with a fresh leaf from the same bunch. Plant the stems in soil, if you have a pot. (5 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Pick 3 stems from the bunch with fresh green tops. 2. Pull off the leaves from the bottom half of each stem. 3. Stand them in the glass with water up to halfway. 4. Put the glass by a bright window, out of strong afternoon sun.  
   *Parent says:* This mint stem came from one mint plant. Let us see if a stem can grow into a whole new plant. What do you think will happen?  
@@ -292,10 +289,10 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
   - Note: If no roots show by day 10, the stems may have been old. Try again with a fresh bunch.
   - Wait: Come back on day 8.
 - **s4 (5 min)**  
-  *Parent does:* 1. Look at the new leaves. 2. Rub one leaf and smell it. 3. Compare it with a leaf of shop mint. 4. Plant the rooted stems in soil, if you have a pot.  
+  *Parent does:* 1. Look at the new leaves. 2. Rub one leaf and smell it. 3. Compare it with a leaf from the same bunch. 4. Plant the rooted stems in soil, if you have a pot.  
   *Parent says:* Smell this new leaf. Does it smell like mint? A plant grown from a stem has only one parent. So the new plant is almost a copy of that parent.  
-  *Child mode:* Smell the new leaf. Is it like the parent's leaf? Plant the stems in soil.
-  - Ask: Why is the new mint plant so like the parent? (good: It has only one parent.; It grew from a part of the parent.)
+  *Child mode:* Smell the new leaf. Is it like the parent's leaf? If you have a pot, plant the stems in soil.
+  - Ask: Why is the new mint plant so like the parent? (good: The new plant has only one parent.; The new plant grew from a part of the parent.)
   - Wait: Come back on day 14.
 
 ## Challenges
@@ -303,7 +300,7 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 - **problem:** Design three babies for Amma Starfish-Bird and Appa Starfish-Bird. Each baby must have features from both parents. No two babies may be the same.
 - **your turn:** Now invent your own two parent creatures, and design three babies for them. Ask someone to guess which feature came from which parent.
 - **constraints:** Every baby has at least one feature from each parent.; No two babies are the same.; Each baby is the same kind of creature as the parents.
-- **general:** Make a list of each parent's features first. Then pick some from each list for every baby.; Give the first baby most features from Amma, the second most from Appa, and the third an even mix.; Draw the parents along the top and the babies below, with lines from each feature to the parent it came from.
+- **general:** Make a list of each parent's features first. Your grown-up can write it for you. Then pick some from each list for every baby.; Give the first baby most features from Amma, the second most from Appa, and the third two from each.; Draw the parents along the top and the babies below, with lines from each feature to the parent it came from.
 - **creative:** Give one baby a feature from a grandparent, which neither parent shows. Draw the grandparent too.; Make the babies grow up: draw one of them as a grown-up with babies of their own.; Cut feature shapes from paper so you can swap them around to make many more babies.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw the two parents together with your child. 2. Amma Starfish-Bird: orange, star-shaped, long legs, a crest on her head. 3. Appa Starfish-Bird: purple, round, short legs, big wings.  
@@ -326,18 +323,17 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
    **Answer:** A mango stone → A mango tree; A chick → A hen; A pea → A pea plant; A puppy → A dog. *Why:* Every seed and every baby grows into the same kind of being as their parents.
 2. (draw) Draw the peas from one of your pods in a row. Make each pea the size it really was.  
    **Answer:** A row of peas of different sizes, all round.. *Why:* A strong drawing shows that the peas from one pod were all round, but not all the same size.
-3. (mcq) In the pod test, what was the same about all the peas?  
-   Options: Their colour and shape / Their size / Nothing at all  
-   **Answer:** Their colour and shape. *Why:* All the peas were green and round, like every pea from a pea plant. Their sizes were different.
-4. (truefalse) Two peas from the same pod are always exactly the same size.  
-   **Answer:** False. *Why:* False. Each pea grows in their own spot in the pod, and gets a different share of food. So they grow to different sizes.
+3. (truefalse) Two peas from the same pod are always exactly the same size.  
+   **Answer:** False. *Why:* False. Each pea grows in their own spot in the pod, and may get a different share of food. So they grow to different sizes.
+4. (truefalse) A child gets features from only one parent.  
+   **Answer:** False. *Why:* False. A child gets features from both parents, so a child can have a dimple from one parent and thick eyebrows from the other.
 5. (sort) Colour the features a child can get from their parents. Cross out the things that happen to a child after birth.  
    **Answer:** curly hair → From the parents; the shape of the nose → From the parents; a cut on the knee → Happened after birth; a dimple → From the parents; short hair after a haircut → Happened after birth; the colour of the skin → From the parents. *Why:* Hair that curls, the shape of the nose, a dimple and skin colour come from the parents. A cut and a haircut happen after birth, and a child cannot pass them on.
 6. (odd) Circle the one that a child does NOT get from their parents.  
    Options: The colour of the eyes / Hair that curls / A plaster on a finger / The shape of the ears  
    **Answer:** 2. *Why:* A plaster goes on after a cut. Eye colour, curly hair and ear shape are features a child inherits.
-7. (write) Say it to a grown-up, who writes it down. Rukmini has two brothers. All three have the same Amma and Appa. Why don't the three look exactly the same?  
-   **Answer:** Each child got a different mix of features from Amma and Appa. And each child grew in their own way.. *Why:* A strong answer says that every child gets a different mix from the same parents.
+7. (write) Say it to a grown-up, who writes it down. Name one feature you have like someone in your family. Who else has it?  
+   **Answer:** Any true feature and person, for example: my curly hair is like my grandmother's.. *Why:* A strong answer names a real feature and the family member who shares it.
 8. (perspective) Kavya and Lalitha, two sisters in Kochi, look at their new baby cousin, Siddharth.  
    **Answer:** Both can be right. A baby gets features from both parents, so he can have his Amma's face and his Appa's ears.. *Why:* A strong answer sees that a child is a mix, and is fair to both girls.
 9. (label) Here are a girl, her Amma and her Appa. Draw a red ring round a feature the girl shares with Amma. Draw a blue ring round a feature she shares with Appa.  
@@ -347,22 +343,22 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 ### Alike and Different (stretch) (stretch, 10 questions)
 1. (order) Put these in order, from first to last.  
    **Answer:** ['A pea is planted in soil', 'The pea plant grows flowers', 'A pod grows where a flower was', 'Peas grow inside the pod']. *Why:* A pea grows into a plant. The plant flowers. Each flower becomes a pod, and new peas grow inside. Each new pea can grow into a pea plant again.
-2. (mcq) A mint stem from Amma's mint plant grows roots in water. What will the new plant's leaves smell like?  
-   Options: Like mint / Like tulsi / Like nothing  
-   **Answer:** Like mint. *Why:* The new plant grew from a part of the mint plant, so the new plant has only one parent. Their leaves smell like mint, just like the parent's.
-3. (write) Say it to a grown-up, who writes it down. Ammu has curly hair. Her Amma and her Appa both have straight hair. Where could Ammu's curls have come from?  
+2. (write) Say it to a grown-up, who writes it down. Ammu has curly hair. Her Amma and her Appa both have straight hair. Where could Ammu's curls have come from?  
    **Answer:** From a grandparent. A parent can pass on a feature that does not show on the parent.. *Why:* A strong answer says the curls could come from someone in the family before her parents, passed on through a parent.
-4. (draw) Here are two pretend parents. Draw a baby who has two features from each parent.  
-   **Answer:** A baby with two features from Amma Moonbug (for example spots and round ears) and two from Appa Moonbug (for example stripes on the tail and two eyes).. *Why:* A strong drawing shows features from both parents, mixed in one baby.
-5. (truefalse) Identical twins are the same in every way.  
-   **Answer:** False. *Why:* False. Identical twins have the same genes, but their fingerprints are different, and each twin has their own likes and thoughts.
-6. (fill) A child gets features from both of their ______.  
+3. (mcq) A black mother cat has four kittens. One is black, one ginger, one white and one patchy. What does this show?  
+   Options: Each kitten got a different mix of features from the two parents / Only the black kitten is really her baby / The kittens changed colour after they were born  
+   **Answer:** Each kitten got a different mix of features from the two parents. *Why:* Kittens of the same parents get different mixes. All four are her babies, and the colours were not changed after birth.
+4. (fill) A child gets features from both of their ______.  
    **Answer:** parents. *Why:* Half of a child's genes come from the mother and half from the father.
-7. (perspective) Meenakshi and Farhana, two girls in Hyderabad, are talking about pea plants.  
+5. (fill) Gregor Mendel grew pea plants to find out how features are passed from parents to ______.  
+   **Answer:** children. *Why:* Mendel's pea plants showed that features are passed on from parents to their young.
+6. (perspective) Meenakshi and Farhana, two girls in Hyderabad, are talking about pea plants.  
    **Answer:** Farhana is closer. When Gregor Mendel did this, all the babies were tall. Short plants came back in the next generation. Meenakshi's idea makes sense, because many children look a bit like both parents.. *Why:* A strong answer says to grow the seeds and look, and is fair to Meenakshi's idea.
-8. (odd) Which baby is most like a copy of their one parent?  
+7. (odd) Which baby is most like a copy of their one parent?  
    Options: A kitten / A mint plant grown from a cut stem / A human baby / A puppy  
    **Answer:** 1. *Why:* A mint plant grown from a stem has only one parent, so they are almost a copy of the parent. A kitten, a human baby and a puppy each have two parents and get a mix.
+8. (write) Say it to a grown-up, who writes it down. A farmer saves seeds from her best tomato plant. Why does she do that?  
+   **Answer:** The seeds will grow into tomato plants like the parent, so next year's plants may have the same good features.. *Why:* A strong answer says that a seed grows into a plant with many of the parent plant's features.
 9. (label) Here are the peas from one pod. Write B on the biggest pea and S on the smallest. Write T on the tiny one that did not grow.  
    **Answer:** B on the biggest round pea, S on the smallest round pea, T on the flat speck.. *Why:* A strong answer looks closely at size, and sees that peas from one pod are not all the same.
 10. (write) Say it to a grown-up, who writes it down. Why did we open five pods, and not just one?  
@@ -389,25 +385,25 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 5. (mcq) Ayesha and her sister have the same Amma and Appa. Why do they look different?  
    Options: Each sister got a different mix of features from their parents / Because one sister is older / Because they eat different food  
    **Answer:** Each sister got a different mix of features from their parents. *Why:* Children of the same parents each get a different mix of features. Being older or eating different food does not change the shape of a nose.
-6. (mcq) In the pod test, what did we find about the peas from one pod?  
-   Options: They were all the same size / They were the same colour and shape, but not the same size / Some of them were beans  
-   **Answer:** They were the same colour and shape, but not the same size. *Why:* All the peas were green and round, but no two were exactly the same size.
-7. (mcq) Pod 1 held 6 peas. Pod 2 held 8 peas. Both came from the same bag. What does this show?  
+6. (mcq) Pod 1 held 6 peas. Pod 2 held 8 peas. Both came from the same bag. What does this show?  
    Options: Pods of the same kind can hold different numbers of peas / Pod 2 is not a pea pod / Peas grow after you open the pod  
    **Answer:** Pods of the same kind can hold different numbers of peas. *Why:* Every pod of the same kind of plant is a little different, so pods hold different numbers of peas.
-8. (mcq) Which of these did Mahesh NOT get from his parents?  
-   Options: His dark brown eyes / A scar on his knee from falling off his cycle / The shape of his ears  
-   **Answer:** A scar on his knee from falling off his cycle. *Why:* The scar came from a fall after he was born. His eye colour and ear shape are features he inherited.
-9. (mcq) Someone plants a pea in a pot. What will grow?  
+7. (mcq) A girl feeds a crow and a street dog. Which of them are animals?  
+   Options: Only the crow and the dog / The crow, the dog and the girl / Only the dog  
+   **Answer:** The crow, the dog and the girl. *Why:* Humans are animals too. A girl, a crow and a dog are all animals.
+8. (mcq) Someone plants a pea in a pot. What will grow?  
    Options: A pea plant / A mango tree / Any plant at all  
    **Answer:** A pea plant. *Why:* A seed grows into the same kind of plant as the parent. A pea grows into a pea plant.
-10. (mcq) Anu and Annapoorna are identical twins. They look nearly the same. Is anything different about them?  
+9. (mcq) Anu and Annapoorna are identical twins. They look nearly the same. Is anything different about them?  
    Options: No, nothing at all / Yes, small things, like their fingerprints and what they like / Yes, they have different parents  
    **Answer:** Yes, small things, like their fingerprints and what they like. *Why:* Identical twins have the same genes and the same parents. Still, their fingerprints are different, and each twin has their own likes.
+10. (mcq) Rani had her long hair cut short. Will her children be born with short hair because of that?  
+   Options: Yes, they get her short hair / No, a haircut happens after birth and is not passed on / Yes, but only her daughters  
+   **Answer:** No, a haircut happens after birth and is not passed on. *Why:* A haircut is something that happens to a person after birth. Children get features such as curly hair from their parents, but not a haircut or a cut on the knee.
 
 ## Applications
 - Farmers save seeds from their best plants to sow next year, because a plant's seeds grow into plants like the parent.
-- Plant nurseries grow new mango trees by grafting, and new curry leaf and rose plants from cut stems, so the new plants have the parent's features.
+- Plant nurseries grow new mango trees by grafting, and new rose and money plants from cut stems, so the new plants have the parent's features.
 - Doctors ask about the health of a child's parents and grandparents, because some illnesses run in families.
 - Police use fingerprints to tell people apart, because no two people have the same fingerprints, not even identical twins.
 
@@ -431,28 +427,27 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 
 ## Jokes
 - What did baby corn say to mama corn? *Where is pop corn?*
-- Why are peas always cheerful? *Because they grow up in a pod full of sisters and brothers.*
 - Why did the girl bring a ladder to look at her family photos? *She heard she came from a family tree!*
 - What did the kitten say when her fur came out the same colour as her Amma's? *That is purr-fect!*
 - What do you call two peas who look exactly alike? *Nobody knows. We never found two!*
-- Why did the mint stem grow roots in the glass? *She wanted to put down roots and start a family.*
+- Why did the mint stem grow roots in the glass? *To put down roots and start a family.*
 - What did one twin say to the other twin? *You look just like me, but I am the one telling this joke.*
 - What did the baby crow get from her parents? *Her caw-ful loud voice!*
-- Why did the pea go to the doctor? *She was feeling a little green.*
+- Why did the pea go to the doctor? *The pea was feeling a little green.*
 
 ## Connected maths
-- Kavya opened 5 pods. They held 6, 8, 5, 8 and 7 peas. Make a tally. Which number came most often? **8 came most often. Two pods held 8 peas.**. 6: one mark. 8: two marks. 5: one mark. 7: one mark. Two pods held 8 peas, so 8 has the most marks. The other numbers came once each. (queues `math.data.sorting-and-tallies.L1`)
+- Meera, a girl in Class 1, opened 5 pods. They held 6, 8, 5, 8 and 7 peas. Make a tally. Which number came most often? **8 came most often. Two pods held 8 peas.**. 6: one mark. 8: two marks. 5: one mark. 7: one mark. Two pods held 8 peas, so 8 has the most marks. The other numbers came once each. (queues `math.data.sorting-and-tallies.L1`)
 - Pod A held 8 peas. Pod B held 5 peas. How many more peas did pod A hold? **3 more peas.**. 8 take away 5 leaves 3. Both pods came from the same kind of plant, yet one held 3 more peas. (queues `math.addition-subtraction.word-problems.L1`)
-- Lalitha made 4 Moonbug babies. Baby 1 had 3 eyes, baby 2 had 2 eyes, baby 3 had 2 eyes and baby 4 had 3 eyes. How many babies got Amma Moonbug's 3 eyes? **2 babies.**. Baby 1 and baby 4 had 3 eyes, like Amma Moonbug. Baby 2 and baby 3 had 2 eyes, like Appa Moonbug. So half the babies got each parent's eyes this time. (queues `math.data.sorting-and-tallies.L1`)
+- Lalitha, a girl in Class 1, made 4 Gumbi babies in the Coin Babies game. Baby 1 had 3 eyes, baby 2 had 2 eyes, baby 3 had 2 eyes and baby 4 had 3 eyes. How many babies got Amma Gumbi's 3 eyes? **2 babies.**. Baby 1 and baby 4 had 3 eyes, like Amma Gumbi. Baby 2 and baby 3 had 2 eyes, like Appa Gumbi. So half the babies got each parent's eyes this time. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
-A Bit of Amma, a Bit of Appa (sci.evolution.L1): Topic-level song for Evolution L1
+A Bit of Amma, a Bit of Appa (sci.evolution.L1): A song about getting a bit from Amma and a bit from Appa.
 
 ## Links
 - [Learn.Genetics: the basics of heredity](https://learn.genetics.utah.edu/content/basics/) · interactive: For the parent: clear pages and pictures from the University of Utah on how features are passed on.
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: See the Great Banyan, one tree that has spread into what looks like a small forest, and many plant families.
 - [Lalbagh Botanical Garden]() · place · Bengaluru: Many kinds of trees and flowers, and a glass house with flower shows twice a year.
-- [Government Botanical Garden]() · place · Ooty: Hill plants from many parts of the world, and families of the same plant growing side by side.
+- [Government Botanical Garden]() · place · Ooty: Hill plants and flowers from many parts of the world.
 
 ## Things to buy
 
@@ -470,7 +465,7 @@ A Bit of Amma, a Bit of Appa (sci.evolution.L1): Topic-level song for Evolution 
 - Core: e1, g1, ws-core
 
 ## Sources
-- ideas/by_topic/genes-and-inheriting-features.md: the notebook's RNA story says copies of life were 'never 100%' and that each cell carries chromosomes from both parents in pairs. That became the core idea here, at a six-year-old's level: a child gets features from both parents and is never a copy. The Mendel card from the notebook became how_we_found_out. Most of the file's other notes are for older levels.
+- the notebook's RNA story says copies of life were 'never 100%' and that each cell carries chromosomes from both parents in pairs. That became the core idea here, at a six-year-old's level: a child gets features from both parents and is never a copy. The Mendel card from the notebook became how_we_found_out. Most of the file's other notes are for older levels.
 - Mendel, G. (1866). Versuche über Pflanzen-Hybriden. Verhandlungen des naturforschenden Vereines in Brünn 4: 3 to 47. Tall by short crosses gave all tall offspring; short reappeared in about one quarter of the next generation.
 - Rediscovery of Mendel's work in 1900 by Hugo de Vries, Carl Correns and Erich von Tschermak. Edith Rebecca Saunders bred stocks (Matthiola) with William Bateson and confirmed Mendelian inheritance in other plants: Bateson and Saunders, Reports to the Evolution Committee of the Royal Society, 1902.
 - Garden pea (Pisum sativum) is mostly self-pollinating. Seed size within a pod varies with position and resource supply; unfertilised or aborted ovules show as small flat specks.

@@ -55,7 +55,7 @@
    "term": "Outline",
    "meaning": "The outline is the line all round the edge of a shape.",
    "example": "A shadow shows only the outline of a thing, not its colour or its face.",
-   "art": "A coloured toy cow next to their black shadow, which shows only the outline."
+   "art": "A coloured toy elephant on the left, and a plain black elephant-shaped shadow on the right that shows only the outline."
   },
   {
    "term": "Sharp shadow",
@@ -132,9 +132,8 @@
    "definition": "When a thing moves nearer the light, its shadow gets bigger. When it moves nearer the wall, its shadow gets smaller, until it is about the same size as the thing.",
    "description": "Light spreads out from a torch, like a cone. Close to the torch, the cone is narrow, so a small toy blocks a big part of it. That blocked part spreads out all the way to the wall, so the shadow is big. Close to the wall, the light has already spread wide, and the toy blocks only a small part, so the shadow is small. The toy itself stays the same size the whole time.",
    "examples": [
-    "A toy about as tall as your finger made a shadow about as tall as a ruler when it was close to the torch.",
-    "In a shadow play, a puppeteer pulls a puppet back towards the lamp to make the shadow grow huge.",
-    "Walk towards a street light at night, and your shadow behind you gets shorter. Walk away from it, and your shadow gets longer."
+    "A toy about as tall as your finger made a shadow about as tall as a ruler when it was a ruler's length from the torch.",
+    "In a shadow play, a puppeteer pulls a puppet back towards the lamp to make the shadow grow huge."
    ],
    "perspectives": [],
    "art": "Three pictures of the same toy between a torch and a wall: next to the wall with a small shadow, halfway with a bigger one, and next to the torch with a huge one."
@@ -144,7 +143,7 @@
    "status": "defined",
    "context": "This card is about why some shadows have a crisp edge and some have a soft one.",
    "definition": "A shadow is sharpest when the light is small and the thing is close to the surface. It gets a fuzzy edge when the light is big or the thing is close to the light.",
-   "description": "A torch is not a single point. Light comes from all over its bright part. Near the edge of a shadow, some of that bright part is hidden by your hand and some is not. So that part of the wall gets a little light. It looks grey, not dark. That grey ring is the fuzzy edge, the penumbra. A tiny phone torch makes sharper shadows than a big torch. A big cloudy sky makes very soft shadows.",
+   "description": "A torch is not a single point. Light comes from all over its bright part. Near the edge of a shadow, your hand hides some of that bright part but not all of it. So that part of the wall gets a little light and looks grey, not dark. That grey ring is the fuzzy edge, the penumbra. A tiny phone torch makes sharper shadows than a big torch.",
    "examples": [
     "Your hand pressed close to the wall makes a sharp shadow.",
     "Your hand close to the torch makes a big shadow with a fuzzy edge.",
@@ -192,10 +191,6 @@
    ],
    "perspectives": [
     {
-     "who": "Many people long ago, in many lands",
-     "explanation": "A shadow is a part of a person, like a dark copy that follows them. Some people thought a shadow was even a part of the soul."
-    },
-    {
      "who": "The Mohists, thinkers in China about 2,300 years ago",
      "explanation": "A shadow is the place where light is blocked. It does not really travel along with you. Where the light comes back, the old shadow is gone, and a new one forms in the new place."
     },
@@ -209,12 +204,12 @@
   {
    "concept": "Living beings that sense shadows",
    "status": "defined",
-   "context": "This card is about plants and other animals that notice shadows and act on them.",
+   "context": "This card is about plants and animals that notice shadows and act on them.",
    "definition": "Many living beings sense shadows and change what they do.",
    "description": "A plant in the shade of other leaves senses the shade. The light under leaves has less red light, and plants feel that change. The plant then grows a longer stem to reach the sunlight. Giant clams in the sea pull in quickly when a shadow passes over them. A shadow can mean a fish is coming close. In Africa, a bird called the black heron spreads her wings into an umbrella over the water while she fishes.",
    "examples": [
     "A tulsi plant on a crowded windowsill grows taller and thinner than one with space round them.",
-    "A pigeon on the balcony rail often flies off when your shadow falls over them.",
+    "A pigeon on the balcony rail may fly off when your shadow falls over them.",
     "The black heron fishes in the shade of her own wings."
    ],
    "perspectives": [
@@ -234,7 +229,7 @@
    "status": "defined",
    "context": "This card is about shadow plays, where people tell stories with shadows.",
    "definition": "A shadow play tells a story with the shadows of flat puppets, moved between a light and a screen.",
-   "description": "India has many shadow plays. In Kerala, tholpavakoothu puppeteers in Palakkad perform behind a long white cloth, with a row of oil lamps behind them, and tell the Ramayana over many nights. In Andhra Pradesh it is called tholu bommalata, in Karnataka togalu gombeyaata, and in Odisha ravanachhaya. The puppets are cut from leather. Indonesia, China and Turkey have shadow plays too. In 1926, a German artist called Lotte Reiniger made a whole film with shadow puppets she cut from paper, The Adventures of Prince Achmed. It is the oldest full-length cartoon film that still survives.",
+   "description": "India has many shadow plays. In Kerala, tholpavakoothu puppeteers in Palakkad work behind a long white cloth, with a row of oil lamps behind them, and tell the Ramayana over many nights. In Andhra Pradesh it is called tholu bommalata, in Karnataka togalu gombeyaata, and in Odisha ravanachhaya. The puppets are cut from leather. In 1926, a German artist called Lotte Reiniger made a whole film with shadow puppets cut from thin card, The Adventures of Prince Achmed. It is the oldest full-length animated film that still survives.",
    "examples": [
     "Tholpavakoothu in Kerala.",
     "Tholu bommalata in Andhra Pradesh.",
@@ -319,7 +314,7 @@
    "hint": "What blocks the Sun's light from you at night?"
   },
   {
-   "q": "A plant can sense the shade of a neighbour. What else might notice when your shadow falls on them?",
+   "q": "A plant can sense the shade of a neighbour. Which other living beings might notice when your shadow falls over them?",
    "kind": "big",
    "hint": "Think of ants on the floor, a pigeon on the rail, or a cat asleep in the sun."
   }
@@ -344,11 +339,11 @@
    "Arjun held the elephant up near the wall. A small, sharp elephant appeared, about the size of his hand. A tiny dot of light shone through the eye.",
    "\"It is only a baby elephant,\" said Arjun, disappointed.",
    "\"Try moving it,\" said Paati. \"But keep it away from the flame.\"",
-   "Arjun stepped back towards the table, holding the elephant out in front of him. The shadow on the wall grew. Its ears spread wide. Its trunk got longer and longer, until the elephant was taller than Amma, who had come back with the torch.",
+   "Arjun stepped back towards the table, holding the elephant out in front of him. He stopped a long arm's length from the flame. The shadow on the wall grew. Its ears spread wide. Its trunk got longer and longer, until the elephant was taller than Amma, who had come back with the torch.",
    "\"It is growing!\" Arjun shouted. \"Is the elephant getting bigger?\"",
    "Nila looked at the card elephant in his hand. It was the same small elephant. Then she looked at the lamp. Its light spread out from the little flame, wider and wider, all the way to the wall.",
    "\"The elephant is not growing,\" said Nila. \"When it is close to the lamp, it blocks a lot of the light. That missing light spreads all the way to the wall. So the dark patch is huge. When it is close to the wall, it only blocks a little bit.\"",
-   "Paati smiled. \"That is exactly what the tholpavakoothu puppeteers do. When Ravana comes on, angry and proud, they pull him back towards the lamps, and he fills the whole cloth.\"",
+   "Paati smiled. \"Shadow puppeteers use the same trick,\" she said. \"When Ravana comes on, angry and proud, they pull him back towards the lamps, and he fills the whole cloth.\"",
    "Amma switched on the torch and shone it at the elephant from the other side of the room. Now there were two elephants on the wall, one from the lamp and one from the torch. Each one was grey, not black. Where they crossed, there was one dark patch.",
    "\"Two lights, two shadows,\" said Amma.",
    "Arjun counted. \"One elephant. Two shadows.\" He thought for a moment. \"So the shadow belongs to the lamp, too. Not only to the elephant.\"",
@@ -409,7 +404,7 @@
       },
       {
        "f": "Make a shadow vanish without moving the thing.",
-       "b": "Hint: switch off the torch, or move the torch behind the thing."
+       "b": "Hint: switch off the torch, or turn the torch away from the thing."
       },
       {
        "f": "Make a round shadow with a steel plate.",
@@ -424,8 +419,8 @@
        "b": "Hint: ask a grown-up to switch on a second light."
       },
       {
-       "f": "Make a shadow taller than the door handle.",
-       "b": "Hint: move closer to the torch, or put the torch down low."
+       "f": "Make your hand's shadow reach the top of the wall.",
+       "b": "Hint: put the torch low down, and bring your hand close to the torch."
       },
       {
        "f": "Make a hand shadow with no gaps between the fingers.",
@@ -444,12 +439,12 @@
     }
    ],
    "rules": [
-    "Close the curtains and make the room dim. One grown-up holds the torch, or rests it on a pile of books pointing at a plain wall.",
-    "Mix the cards and put them face down in a pile.",
-    "The first player takes the top card and reads it aloud, or a grown-up reads it.",
+    "Close the curtains and make the room dim. One person holds the torch, or rests it on a pile of books pointing at a plain wall.",
+    "Put the cards in a pile with the challenge side up and the hint side down.",
+    "The first player takes the top card and reads it aloud, or someone reads it for them.",
     "The player has one minute to make the shadow on the card. They may ask for the torch to be moved.",
-    "If everyone agrees the shadow was made, the player gets 2 points. If they needed the hint on the back, they get 1 point.",
-    "Take turns until the pile is finished. The player with the most points wins."
+    "If everyone agrees the shadow was made, the player gets 2 points. If they needed to turn the card over and read the hint, they get 1 point.",
+    "Take turns until the pile is finished. The player with the most points wins. If points are equal, you all win."
    ],
    "setup": [
     {
@@ -465,7 +460,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 12 cards. 2. Make the room dim. 3. Rest the torch on a pile of books, pointing at a plain wall.",
+     "do": "1. Cut out the 12 cards. 2. Find a steel plate, a spoon and a second light, such as a table lamp or another phone torch. 3. Make the room dim. 4. Rest the torch on a pile of books, pointing at a plain wall.",
      "say": "Each of these cards asks for a shadow trick. You will need to think about where the light is.",
      "kid": "Each card asks for a shadow trick. Think about where the light is.",
      "parent": "Keep the room dim but not pitch dark, so nobody trips. A phone torch gives the sharpest shadows."
@@ -511,7 +506,7 @@
    "id": "g2",
    "title": "Giant, Tiny, Gone!",
    "mins": 10,
-   "players": "2 or more players, with one caller",
+   "players": "2 or more players. One of you is the caller.",
    "context": "This is a moving game. A caller shows a card, and the players must change their own shadows on the wall to match it, as fast as they can.",
    "printables": [
     {
@@ -548,17 +543,18 @@
       },
       {
        "f": "Hide!",
-       "b": "Stand behind a bigger player, in their shadow. Your shadow joins theirs and seems to vanish."
+       "b": "Stand right behind the caller, in the caller's shadow. Your own shadow joins theirs and seems to vanish."
       }
      ]
     }
    ],
    "rules": [
-    "A grown-up puts a torch on the floor at one end of a room, pointing at a plain wall about three big steps away.",
-    "The players stand between the torch and the wall, where they can see their shadows.",
-    "The caller holds up a card and reads it aloud.",
+    "Put a torch on the floor at one end of a room, pointing at a plain wall about four big steps away.",
+    "The caller stands near the torch. The other players stand between the torch and the wall, where they can see their shadows.",
+    "The caller holds up the top card and reads it aloud.",
     "The players change their shadows to match the card. The caller reads the back aloud to check.",
-    "The first player to get it right becomes the next caller."
+    "The first player to get it right keeps the card and becomes the next caller. If nobody gets it right, the caller keeps the card.",
+    "The game ends when the cards run out. The player with the most cards wins."
    ],
    "setup": [
     {
@@ -600,19 +596,19 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Sit down together and ask the question below.",
-     "say": "When you stood behind me, your shadow seemed to vanish. Where did it go?",
-     "kid": "When you hid behind me, where did your shadow go?",
+     "do": "Sit down together and ask the question below. If the Hide! card did not come up, try it now.",
+     "say": "When you stood behind the caller, your shadow seemed to vanish. Where did it go?",
+     "kid": "When you hid behind the caller, where did your shadow go?",
      "ask": [
       {
-       "q": "Where did your shadow go when you hid behind a grown-up?",
+       "q": "Where did your shadow go when you hid behind the caller?",
        "good": [
-        "It was inside your shadow.",
+        "It was inside the caller's shadow.",
         "No light reached me, so there was nothing to block."
        ]
       }
      ],
-     "parent": "A strong answer says that the grown-up was already blocking the light, so the child was standing in the dark and made no new shadow."
+     "parent": "A strong answer says that the caller was already blocking the light, so the child was standing in the dark and made no new shadow."
     }
    ]
   }
@@ -621,7 +617,7 @@
   {
    "id": "e1",
    "title": "Near or Far: when does a shadow grow?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you move one toy between a torch and a wall, and mark how tall its shadow is each time. You find out what changes the size of a shadow.",
    "question": "When a toy moves from the wall towards the torch, what happens to the size of its shadow?",
@@ -647,7 +643,7 @@
      "qty": 1
     },
     {
-     "item": "two sheets of paper, taped one above the other on the wall",
+     "item": "two sheets of paper, taped one above the other on the wall, with the long sides upright",
      "qty": 2
     },
     {
@@ -655,7 +651,7 @@
      "qty": 1
     },
     {
-     "item": "a ruler, or your own fingers to count finger widths",
+     "item": "a ruler about 30 centimetres long, or your own fingers to count finger widths",
      "qty": 1
     },
     {
@@ -666,7 +662,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Guess, set up the torch and paper, mark the toy's shadow at three places, measure, and talk about why."
     }
    ],
@@ -677,7 +673,7 @@
      "caption": "1. Tape paper on the wall. Lay the torch about one metre away, pointing at it."
     },
     {
-     "art": "Three paper strips on the table in a line between the torch and the wall: one a hand-span from the wall, one halfway, one a hand-span from the torch.",
+     "art": "Three paper strips on the table in a line between the torch and the wall: one half a ruler from the wall, one halfway, one a ruler's length from the torch.",
      "caption": "2. Mark three places: near the wall, halfway, near the torch."
     },
     {
@@ -692,7 +688,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Draw the results table on paper, with three rows: near the wall, halfway, near the torch. 2. Show your child the toy. 3. Ask for a guess and a reason for each place.",
      "say": "We will put this toy in three places between the torch and the wall. Where will its shadow be biggest? Why do you think so?",
      "kid": "Where will the shadow be biggest? Near the wall, halfway, or near the torch? Why?",
@@ -710,23 +706,23 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "1. Push the table against a plain wall, or work on the floor next to the wall. 2. Tape the two sheets of paper on the wall, one above the other, starting at the table top. 3. Lay the torch on its side about one metre from the wall, pointing at the paper. 4. Close the curtains and switch off the room lights.",
+     "mins": 4,
+     "do": "1. Push the table against a plain wall, or work on the floor next to the wall. 2. Tape the two sheets of paper on the wall, one above the other, starting at the table top. 3. Lay the torch on its side on the table, about one metre from the wall, pointing at the paper. 4. Close the curtains and switch off the room lights.",
      "say": "This is our test track. The torch must stay exactly here the whole time. Why do you think that matters?",
      "kid": "The torch stays in one place. Only the toy moves.",
      "adult": true,
-     "parent": "One metre is about two big steps for a child of 7. If you use a phone, prop it against a box so the torch on the back faces the wall. Evening is easiest, with the curtains closed."
+     "parent": "One metre is about two big steps for a child of 7. If you use a phone, prop it against a box so the torch on the back faces the wall. Evening is easiest, with the curtains closed. Keep the torch as low as the table top, so the shadows start at the table."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Put one paper strip a grown-up's hand-span from the wall. 2. Put one halfway between the torch and the wall. 3. Put one a hand-span from the torch. 4. All three go in a straight line between the torch and the wall.",
+     "do": "1. Put one paper strip half a ruler (about 15 centimetres) from the wall. 2. Put one halfway between the torch and the wall. 3. Put one a whole ruler (about 30 centimetres) from the torch. 4. All three go in a straight line between the torch and the wall.",
      "say": "These strips are the three places for the toy. Let us put them in a straight line, so the shadow always lands on the paper.",
      "kid": "Put the three strips in a line. Near the wall, halfway, near the torch."
     },
     {
      "id": "s4",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Your child stands the toy on the strip near the wall. 2. They look at the shadow on the paper. 3. They make a pencil mark at the top of the shadow. 4. Write 'wall' next to the mark.",
      "say": "Stand the toy near the wall. Look at its shadow. Put a small mark at the very top of the shadow.",
      "kid": "Stand the toy near the wall. Mark the top of its shadow.",
@@ -734,7 +730,7 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Move the toy to the halfway strip, and mark the top of the shadow. Write 'halfway'. 2. Move it to the strip near the torch. Mark the top and write 'torch'. 3. Try each place a second time to check the marks.",
      "say": "Now move the toy to halfway. Is the shadow changing? Now move it near the torch. What do you see? Look at the edge too.",
      "kid": "Move the toy to halfway. Mark it. Then near the torch. Mark it. Look at the edge.",
@@ -751,11 +747,11 @@
     },
     {
      "id": "s6",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Switch the room lights back on. 2. Measure each mark from the table top with a ruler, or count finger widths. 3. Write the numbers in the table.",
      "say": "Let us measure each mark. Which one is tallest? How many times taller is it than the one near the wall?",
      "kid": "Measure each mark. Which is tallest? Write the numbers.",
-     "parent": "With a toy of about 8 centimetres and the torch one metre away, expect about 9 or 10 centimetres near the wall, about 14 halfway and about 30 near the torch. Your numbers will be different, but the pattern will be the same."
+     "parent": "With a toy about 8 centimetres tall and the torch one metre from the wall, expect about 9 or 10 centimetres near the wall, about 16 halfway and about 27 near the torch. Your numbers will be different, but the pattern will be the same."
     },
     {
      "id": "s7",
@@ -824,14 +820,14 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess, then try one light, two lights, and each light alone. Count the shadows and fill in the table."
+     "what": "Guess, then try light A alone, both lights, and light B alone. Count the shadows and fill in the table."
     }
    ],
    "record": "Fill in the results table. Draw what the wall looked like with both lights on.",
    "setup": [
     {
-     "art": "A toy standing on a table near a plain wall, with two torches on piles of books about a big step apart, both pointing at the toy.",
-     "caption": "1. Two lights, a big step apart, both pointing at the toy."
+     "art": "A toy standing on a table near a plain wall, with two torches on piles of books about a hand-span apart, both pointing at the toy.",
+     "caption": "1. Two lights, a hand-span apart, both pointing at the toy."
     },
     {
      "art": "The wall behind the toy showing two pale grey toy shadows side by side, overlapping a little in a darker patch.",
@@ -846,7 +842,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the results table with four rows: light A only, both lights, light B only, no lights. 2. Ask your child to guess, with a reason.",
+     "do": "1. Draw the results table with three rows: light A only, both lights, light B only. 2. Ask your child to guess, with a reason.",
      "say": "We have one toy and two lights. When both lights are on, how many shadows will the toy have? Why do you think so?",
      "kid": "One toy. Two lights. How many shadows? Why?",
      "ask": [
@@ -864,7 +860,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Stand the toy on a table near a plain wall. 2. Put light A on a pile of books, a big step from the toy, pointing at it. 3. Put light B a big step to one side of light A, also pointing at the toy. 4. Make the room dark.",
+     "do": "1. Stand the toy on a table, a hand-span from a plain wall. 2. Put light A on a pile of books, a big step from the toy, pointing at it. 3. Put light B a hand-span to one side of light A, also pointing at the toy. 4. Make the room dark.",
      "say": "Let us set up both lights. They must both point at the toy, but from different places.",
      "kid": "Two lights. Both point at the toy, from different places.",
      "adult": true,
@@ -883,7 +879,7 @@
      "do": "1. Switch on light B as well. 2. Your child counts the shadows. 3. They look at where the shadows overlap. 4. Write it in the table.",
      "say": "Now both lights. How many shadows? Are they as dark as before? Look where they cross.",
      "kid": "Both lights on. Count the shadows. Look where they cross.",
-     "parent": "You should see two shadows, each a paler grey than before. Where they overlap, it is dark. If the shadows are on top of each other, move one light further to the side."
+     "parent": "You should see two shadows, each a paler grey than before. Where they overlap, it is dark. If the shadows are on top of each other, move one light a little further to the side. If they do not touch at all, move the lights closer together or the toy closer to the wall."
     },
     {
      "id": "s5",
@@ -983,7 +979,7 @@
        ]
       }
      ],
-     "parent": "The three ways are: switch off the light, take away the hand, or take away the wall by pointing the torch out of an open window at the night sky. Some children also hide the hand behind the torch, which is the same as taking it away from the light."
+     "parent": "The three ways are: switch off the light, take away the hand, or take away the wall by pointing the torch out of an open window at the night sky. Some children also hide the hand behind the torch, which is the same as taking it away from the light. Stay beside your child at the window and keep them back from the edge or grill."
     },
     {
      "id": "s3",
@@ -993,14 +989,14 @@
      "kid": "What does a shadow need? Count them on your fingers.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi switches off the torch. What happens to her hand shadow?",
+      "q": "Lakshmi, a girl of 7, switches off the torch. What happens to her hand shadow?",
       "options": [
        "It disappears at once",
        "It stays on the wall for a while",
        "It gets darker"
       ],
       "a": 0,
-      "why": "A shadow needs light. With no light, there is no lit wall round the shadow, so the shadow is gone at once. Nothing is left on the wall."
+      "why": "A shadow is the place light cannot reach. With the torch off, no light reaches the wall at all, so there is no dark patch to see. The shadow is gone at once."
      }
     }
    ]
@@ -1151,14 +1147,14 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the paper on the floor and stand the toy in the middle. 2. Make the room dim. 3. Your child holds the torch low, on one side of the toy, and draws round the shadow.",
-     "say": "Hold the torch low, here on this side. Where is the shadow? Draw round it.",
-     "kid": "Hold the torch low on one side. Draw round the shadow."
+     "do": "1. Lay the paper on the floor and stand the toy in the middle. 2. Make the room dim. 3. Lay the torch on the paper, low down, on one side of the toy, pointing at it. Prop it on a small book to keep it still. 4. Your child draws round the shadow.",
+     "say": "The torch is low, here on this side. Where is the shadow? Draw round it.",
+     "kid": "The torch is low on one side. Draw round the shadow."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Before each move, ask your child to guess where the shadow will go. 2. Move the torch to the other three sides in turn. 3. Draw each shadow.",
+     "do": "1. Before each move, ask your child to guess where the shadow will go. 2. Move the torch to the other three sides in turn, and prop it to keep it still. 3. Draw each shadow, and an arrow showing where the torch was.",
      "say": "Before you move the torch, guess: where will the shadow go now? Why?",
      "kid": "Guess where the shadow will go. Then move the torch and see.",
      "ask": [
@@ -1258,8 +1254,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Put two or three portraits up. Ask someone who did not watch to guess who is who.",
-     "say": "Can Amma guess who this is from the outline alone? What gives it away?",
+     "do": "Show the portrait to someone who did not watch it being made. Ask them to guess who it is.",
+     "say": "Can someone who did not watch guess who this is from the outline alone? What gives it away?",
      "kid": "Can someone guess who it is? What gives it away?",
      "ask": [
       {
@@ -1385,7 +1381,7 @@
      "caption": "1. Cut a window in a box. Cover it with white paper."
     },
     {
-     "art": "Three card puppets on sticks: a crow, a clay pot and a tree.",
+     "art": "Three card puppets on sticks: a crow, a clay pot and a handful of pebbles.",
      "caption": "2. Make three puppets on sticks."
     },
     {
@@ -1409,7 +1405,7 @@
      "do": "1. Choose a short story with three characters, such as The Thirsty Crow. 2. Your child draws three puppets on card. 3. Cut them out and tape on the stick handles.",
      "say": "Which story shall we tell? Who are the three characters? Draw each one with a clear outline.",
      "kid": "Pick a story. Draw three puppets with clear outlines.",
-     "parent": "The Thirsty Crow works well: a crow, a pot and some pebbles. Remind your child that only outlines show, so add holes for eyes or for water in the pot."
+     "parent": "In The Thirsty Crow, a crow drops pebbles into a pot until the water rises high enough to drink. The three puppets are a crow, a pot and some pebbles. Only outlines show, so add holes for eyes or for water in the pot."
     },
     {
      "id": "s3",
@@ -1465,7 +1461,7 @@
     "Move the monster close to the torch to make it grow, and back to the wall to shrink it."
    ],
    "creative": [
-    "Hold a tea strainer in front for a head full of tiny dots of light.",
+    "Hold a tea strainer in front for a head full of tiny dots of light. A very fine mesh makes only a pale, speckled patch, so try a coarser one.",
     "Switch on a second light to give the monster two shadows, like twin monsters.",
     "Move the torch while the monster stays still, so the shadow seems to walk."
    ],
@@ -1596,18 +1592,6 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun moves his puppet from the torch towards the wall. What happens to the shadow?",
-   "opts": [
-    "It gets smaller and sharper",
-    "It gets bigger and fuzzier",
-    "It stays the same"
-   ],
-   "a": 0,
-   "why": "As the puppet gets nearer the wall, it blocks less of the spreading light, so the shadow shrinks. Close to the wall, the edge is sharp.",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
    "p": "A torch shines on a doll from the right. Where is the doll's shadow?",
    "opts": [
     "On the left of the doll",
@@ -1629,19 +1613,6 @@
    "a": 0,
    "why": "The light comes from above, so the blocked place is below the table, on the floor.",
    "outcome": 3
-  },
-  {
-   "t": "mcq",
-   "p": "One toy stands between two torches that are both on. How many shadows does it make?",
-   "opts": [
-    "Two",
-    "One",
-    "Three"
-   ],
-   "a": 0,
-   "why": "Each torch makes its own shadow, so two torches make two shadows.",
-   "outcome": 4,
-   "how": "e2"
   },
   {
    "t": "mcq",
@@ -1830,10 +1801,10 @@
     },
     {
      "t": "count",
-     "p": "Look at the picture. A doll stands between a lamp and a torch, both switched on. How many shadows does the doll have?",
-     "a": 2,
-     "why": "Each light makes its own shadow. Two lights make two shadows.",
-     "art": "A doll on a table with a lamp on one side and a torch on the other, both lit, and two grey doll shadows on the wall."
+     "p": "Look at the picture. Three toys stand in a row on a table, and one torch shines on all of them. How many shadows are on the wall?",
+     "a": 3,
+     "why": "Each toy blocks the light of the torch, so each toy has its own shadow. One torch and three toys make three shadows.",
+     "art": "Three small toys in a row on a table, one lit torch on one side, and three grey toy shadows on the wall."
     },
     {
      "t": "order",
@@ -1910,21 +1881,21 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out? A steel plate, a book, a clean glass window, your hand.",
+     "p": "Which one is the odd one out? A lit diya, the Sun, a tube light, the Moon.",
      "opts": [
-      "A steel plate",
-      "A book",
-      "A clean glass window",
-      "Your hand"
+      "A lit diya",
+      "The Sun",
+      "A tube light",
+      "The Moon"
      ],
-     "a": 2,
-     "why": "Clear glass lets most light through, so it makes only a very pale shadow. The others are opaque and make dark shadows."
+     "a": 3,
+     "why": "A diya, the Sun and a tube light give out their own light, so they are light sources. The Moon gives out none. We see the Moon because sunlight bounces off it."
     },
     {
      "t": "truefalse",
-     "p": "True or false: when you switch off the torch, the shadow stays on the wall for a few seconds.",
-     "a": false,
-     "why": "False. A shadow needs light round it. When the light goes, the shadow is gone at once."
+     "p": "True or false: a shadow can fall on the ceiling.",
+     "a": true,
+     "why": "True. A shadow falls wherever something blocks the light and a surface is there. Hold your hand above a torch that points up, and its shadow falls on the ceiling."
     },
     {
      "t": "fill",
@@ -1981,33 +1952,33 @@
        "says": "The shade cuts the bright glare on the water, so she can see the fish."
       },
       {
-       "who": "Lakshmi",
+       "who": "Thenmozhi, a girl who watches birds",
        "says": "Small fish like to hide in shady places, so they swim into her shadow."
       },
       {
-       "who": "Arjun",
+       "who": "Gauri, her friend",
        "says": "It does both jobs at once."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing another person has right.",
      "lines": 4,
-     "a": "A strong answer picks a side with a reason. Dr Asha is right that shade makes it easier to see into water. Lakshmi is right that many small fish hide in shade. Arjun may be right too. Scientists still argue about this.",
+     "a": "A strong answer picks a side with a reason. Dr Asha is right that shade makes it easier to see into water. Thenmozhi is right that many small fish hide in shade. Gauri may be right too. Scientists still argue about this.",
      "why": "This is a real question that scientists are still studying, so more than one answer can be well argued."
     },
     {
      "t": "write",
-     "p": "Hetal wants a huge shadow of her small doll for a puppet show. Where should she put the doll? Why will that work?",
+     "p": "Hetal, a girl in Class 2, wants the shadow of her toy to be almost the same size as the toy. Where should she hold it? Why?",
      "lines": 3,
-     "a": "Close to the torch, because there the doll blocks a big part of the light, and that blocked part spreads out to the wall.",
-     "why": "A strong answer gives the place and the reason, using the Near or Far test.",
+     "a": "As close to the wall as she can, because there the toy blocks only a small part of the spreading light, so the shadow is about the same size as the toy.",
+     "why": "A strong answer gives the place and says the shadow grows as the toy moves towards the torch, so near the wall it stays small.",
      "how": "e1"
     },
     {
      "t": "draw",
-     "p": "Draw the shadow of a steel tumbler when the torch shines from straight above it. Then draw its shadow when the torch shines from the side.",
-     "a": "From above: a circle. From the side: a rectangle, a little wider at the top.",
-     "why": "A shadow shows the outline of a thing as seen from the light. From above, a tumbler looks round. From the side, it looks like a rectangle.",
-     "art": "An empty box split into two halves: from above, and from the side."
+     "p": "Draw the shadow of a steel tumbler standing up, when a torch shines at it from the side. Then draw its shadow when the tumbler lies on its side with the open end facing the torch.",
+     "a": "Standing: a rectangle, a little wider at the top. Lying with the open end to the torch: a circle.",
+     "why": "A shadow shows the outline of a thing as seen from the light. A standing tumbler seen from the side looks like a rectangle. Seen from its open end, it looks round.",
+     "art": "An empty box split into two halves: standing, and lying down."
     },
     {
      "t": "mcq",
@@ -2120,11 +2091,9 @@
  ],
  "applications": [
   "Shadow-puppet plays in Kerala, Andhra Pradesh, Karnataka and Odisha tell long stories with leather puppets, lamps and a white cloth.",
-  "Lotte Reiniger made The Adventures of Prince Achmed in 1926 with paper shadow puppets. It is the oldest full-length cartoon film that still survives.",
   "Umbrellas, sun hats, shade nets and trees block sunlight to keep people and other animals cool.",
   "Plant nurseries in India grow young plants under green shade nets, which block part of the strong sunlight.",
-  "An X-ray picture is a kind of shadow picture. Bones block more X-rays than the soft parts do, so they show up pale.",
-  "Astronomers use the shadows of the Earth and the Moon to work out when eclipses will happen."
+  "An X-ray picture is a kind of shadow picture. Bones block more X-rays than the soft parts do, so they show up pale."
  ],
  "spotted": [
   {
@@ -2142,24 +2111,12 @@
   {
    "text": "On a hot afternoon, people wait for the bus in the shade of a banyan tree or a bus shelter.",
    "art": "People standing in the cool shade of a big banyan tree next to a bus stop, with bright sunlight round them."
-  },
-  {
-   "text": "In a room with a tube light and a lamp, a chair has two shadows. Count them tonight.",
-   "art": "A chair on a tiled floor with two grey shadows pointing different ways."
-  },
-  {
-   "text": "A pigeon on the balcony rail may fly off when your shadow falls over them.",
-   "art": "A pigeon on a balcony rail with a child's shadow falling across the rail."
   }
  ],
  "open_questions": [
   {
    "q": "Did shadow-puppet plays begin in India, in China, or somewhere else?",
    "why_open": "Shadow plays are very old in India, China and South-East Asia. Old written records are few, so historians still argue about where the first ones were."
-  },
-  {
-   "q": "Why exactly does the black heron fish under an umbrella of her wings?",
-   "why_open": "Bird scientists know she fishes this way. They still argue about whether the shade mostly cuts glare, mostly attracts fish, or does both."
   },
   {
    "q": "How does a plant weigh up a neighbour's shade against everything else they sense?",
@@ -2194,18 +2151,6 @@
    "a": "Shadow you, everywhere you go!"
   },
   {
-   "j": "Why did the chair have two shadows at dinner?",
-   "a": "Someone switched on the lamp and the tube light!"
-  },
-  {
-   "j": "What did the shadow say when the lights went out?",
-   "a": "Bye! I'm going nowhere, and I'm gone!"
-  },
-  {
-   "j": "Why are shadow puppets never late for the show?",
-   "a": "They always wait in the wings, close to the light!"
-  },
-  {
    "j": "What is the tallest thing in the room at night?",
    "a": "A tiny toy's shadow, standing next to the torch!"
   },
@@ -2216,11 +2161,19 @@
   {
    "j": "How do you make a shadow disappear without touching it?",
    "a": "Switch off the light!"
+  },
+  {
+   "j": "Why do shadows make good detectives?",
+   "a": "They follow everyone everywhere and never say a word!"
+  },
+  {
+   "j": "What is a shadow's favourite game?",
+   "a": "Follow the leader!"
   }
  ],
  "maths": [
   {
-   "problem": "In the Near or Far test, Nila's toy made a shadow 10 centimetres tall near the wall and 30 centimetres tall near the torch. How many times taller was the shadow near the torch?",
+   "problem": "In a Near or Far test, a toy's shadow was 10 centimetres tall near the wall and 30 centimetres tall near the torch. How many times taller was the shadow near the torch?",
    "answer": "3 times taller.",
    "explain": "Count in tens: 10, 20, 30. That is three tens. So 30 centimetres is 3 times 10 centimetres.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -2402,7 +2355,7 @@
   ],
   "science": [
    "Shadow formation, rectilinear propagation of light, umbra and penumbra from an extended source: any school optics text.",
-   "Shadow size from similar triangles: shadow height is about object height times the light-to-wall distance divided by the light-to-object distance. The numbers in e1 are worked out this way for an 8 centimetre toy and a torch 1 metre from the wall.",
+   "Shadow size from similar triangles: shadow height is about object height times the light-to-wall distance divided by the light-to-object distance. The numbers in e1 are worked out this way for an 8 centimetre toy, a torch on the table 1 metre from the wall, and the toy 15, 50 and 70 centimetres from the wall.",
    "Mohist Canon optics entries on shadows (two lights give two shadows, shadow size depends on slant and distance, the shadow does not move but is re-formed): Joseph Needham, Science and Civilisation in China, volume 4 part 1 (1962), and A. C. Graham, Later Mohist Logic, Ethics and Science (1978).",
    "Shade avoidance in plants, sensed through the red to far-red ratio by phytochromes: standard plant biology, for example Casal, Annual Review of Plant Biology (2013).",
    "Black heron (Egretta ardesiaca) canopy feeding, with its purpose debated: standard ornithology accounts.",
@@ -2475,5 +2428,6 @@
   "when": "About 2,300 years ago (the 4th to 3rd centuries BCE)",
   "wrong_idea": "That a shadow is a dark copy of a person, or even part of their soul, that follows them about. Watching how shadows double under two lights, and grow and shrink with distance, showed that a shadow is only where light is blocked.",
   "art": "An old Chinese scroll with brushed writing, and beside it two lamps on a low table and a figure casting two shadows on a paper wall."
- }
+ },
+ "playtest": "Played both games with 2 players and with 4. Fixed cards that showed their hints face down, a Hide! card needing a second player, and a game with no end. Followed every experiment, activity and project in a flat, step by step. Fixed the Near or Far distances so the shadow fits the paper and the numbers match, a torch that could not be held and drawn round at once, and a table row never used. Cut repeated questions, jokes and facts, and made the worksheet and quiz questions different from each other."
 }

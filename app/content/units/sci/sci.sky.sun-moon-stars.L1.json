@@ -156,11 +156,6 @@
    "q": "Every star at night is a sun. Could a child far away, near another star, be looking at our Sun as a tiny dot tonight?",
    "kind": "big",
    "hint": "Our Sun is a star too. From very far away, it would look like a small dot."
-  },
-  {
-   "q": "Plants turn their leaves to the sunshine, and lizards lie in it to get warm. Who else in your home loves the Sun?",
-   "kind": "big",
-   "hint": "Look at the crows, the pigeons, the potted plants, the clothes on the line, and yourself."
   }
  ],
  "story": {
@@ -184,7 +179,7 @@
    "\"No,\" said Ajji. \"The Moon makes no light of its own. The Sun shines on the Moon, the way the bulb shines on your steel tumbler. The Moon sends some of that sunlight down to us.\"",
    "The next morning, Tara ran up to the roof. The sky was bright blue. There was not a single star.",
    "\"Ajji, where did the stars go?\" she called.",
-   "Ajji came up with a small torch and a piece of cardboard. She fixed the cardboard over the front of the torch with a rubber band. Then she poked one tiny hole in it with a pencil point.",
+   "Ajji came up with a small torch and a piece of cardboard. She fixed the cardboard over the front of the torch with a rubber band. She poked one tiny hole in it with a pencil point, and taped a bit of thin paper over the hole.",
    "\"This is our star,\" she said. She switched on the torch and stood in the bright sunshine, a few steps away. \"Can you see it?\"",
    "Tara looked hard. She could only just see a dull little dot. Manu could not see it at all.",
    "Then Ajji took them down into the dark storeroom, where the rice sacks were kept. She shut the door. The little torch star shone bright and clear.",
@@ -219,7 +214,7 @@
    "context": "In this experiment you make a tiny star from a torch and a piece of cardboard. Then you look at it in a bright place and in a dark room, to find out where the stars go in the daytime.",
    "question": "Does a small light still shine in a bright place? Can we see it there?",
    "predict": "We will look at the torch star by a bright window, and then in a dark room. Where will you see it best? Why do you think so?",
-   "fair_test": "We use the same torch and the same tiny hole every time. You stand the same distance away, three big steps, every time. Only one thing changes: how bright it is around the star.",
+   "fair_test": "We use the same torch, the same tiny hole and the same thin paper every time. You stand the same distance away, three big steps, every time. Only one thing changes: how bright it is around the star.",
    "results_table": [
     "Where the star was",
     "My guess: will I see it?",
@@ -239,6 +234,10 @@
      "qty": 1
     },
     {
+     "item": "thin paper, such as notebook paper or tissue paper, 3 small squares",
+     "qty": 3
+    },
+    {
      "item": "a sharp pencil (for a grown-up)",
      "qty": 1
     },
@@ -251,7 +250,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never look at the Sun. Stand so that the Sun is behind you or off to the side, not behind the torch. Do not look into the torch without its cardboard cap.",
+   "safety": "Never look at the Sun. Keep the Sun off to one side, out of your child's view.",
    "schedule": [
     {
      "day": 1,
@@ -262,15 +261,15 @@
    "record": "Draw the torch star twice: once by the bright window, and once in the dark room. Draw it as big and bright as it looked each time.",
    "setup": [
     {
-     "art": "A mother fixing a piece of cardboard over the front of a torch with a rubber band, and poking one tiny hole in it with a pencil.",
-     "caption": "1. Cover the torch with cardboard. Make one tiny hole."
+     "art": "A grown-up fixing a piece of cardboard over the front of a torch with a rubber band, poking one tiny hole in it with a pencil, and taping a small square of thin paper over the hole.",
+     "caption": "1. Cover the torch with cardboard. Make one tiny hole. Tape thin paper over it."
     },
     {
-     "art": "The mother holding the switched-on torch next to a bright window in the day, and a girl three big steps away squinting at it, with the Sun not in view.",
+     "art": "The grown-up holding the switched-on torch next to a bright window in the day, and a girl three big steps away squinting at it, with the Sun not in view.",
      "caption": "2. Look at the star by a bright window."
     },
     {
-     "art": "The same mother and girl in a dark bathroom, the tiny point of light from the torch shining clearly.",
+     "art": "The same grown-up and girl in a dark bathroom, the tiny point of light from the torch shining clearly.",
      "caption": "3. Look at the same star in a dark room."
     },
     {
@@ -301,11 +300,11 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Put the cardboard over the front of the torch. 2. Hold it on with a rubber band or tape. 3. Poke one tiny hole in the middle with a sharp pencil point. 4. Switch the torch on to check that only a tiny dot of light comes out.",
-     "say": "We are making a pretend star. The torch light can only come out of this tiny hole. That makes one small dot of light, like a star.",
+     "do": "1. Put the cardboard over the front of the torch. 2. Hold it on with a rubber band or tape. 3. Poke one tiny hole in the middle with a sharp pencil point. 4. Tape one small square of thin paper over the hole. 5. Switch the torch on to check that only a dim dot of light comes out.",
+     "say": "We are making a pretend star. The torch light can only come out of this tiny hole, through a thin paper. That makes one small dim dot of light, like a star.",
      "kid": "Watch the grown-up make the star. Light comes out of one tiny hole.",
      "adult": true,
-     "parent": "Push the pencil gently, with the torch lying on a table, away from fingers. If the cardboard glows all over, use thicker cardboard or two layers."
+     "parent": "Push the pencil gently, with the torch lying on a table, away from fingers. The paper makes the dot dim, as real stars are. If the cardboard glows all over, use thicker cardboard or two layers."
     },
     {
      "id": "s3",
@@ -328,7 +327,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Stand right next to the brightest window, or on the balcony, in the day. 2. Your child stands three big steps away, facing you. 3. Switch the star on and point it at your child. 4. Ask what they see.",
+     "do": "1. Stand at the brightest window, or on the balcony, in the day. 2. Your child stands three big steps away, facing you. 3. Switch the star on and point it at your child. 4. Ask what they see.",
      "say": "Here is our star, shining. Look at the hole in the cardboard. Can you see the star? Is it bright, faint, or can you not see it at all?",
      "kid": "Look at the hole in the cardboard. Can you see the star?",
      "ask": [
@@ -341,7 +340,7 @@
        ]
       }
      ],
-     "parent": "Check that the Sun is not behind you, so your child never looks towards it. By a bright window, the tiny star looks very faint or vanishes. Let your child walk one step closer and back again."
+     "parent": "Stand so the Sun is off to one side, not in your child's view. By a bright window, the dim star should look very faint or vanish. If your child still sees it clearly, tape on another square of paper and look again. Use that same star in the dark room. Let your child walk one step closer and back again."
     },
     {
      "id": "s5",
@@ -359,7 +358,7 @@
        ]
       }
      ],
-     "parent": "In the dark, the same tiny point of light looks bright and sharp. This is the surprise. A little light under the door is fine."
+     "parent": "In the dark, the same dim dot looks bright and sharp. This is the surprise. If you cannot see it in the dark either, take off one square of paper, then look again by the window with the same star. A little light under the door is fine."
     },
     {
      "id": "s6",
@@ -395,7 +394,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Nila holds the torch star by a sunny window. Her brother can hardly see it. Why?",
+      "q": "Nila, a girl in Class 1, holds the torch star by a sunny window. Her brother can hardly see it. Why?",
       "options": [
        "The bright light around it hides the star",
        "The torch stops shining in the day",
@@ -443,7 +442,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never look at the Sun. A steel bowl in strong sunshine can get hot, so touch it gently first.",
+   "safety": "Never look at the Sun. A sunny floor or railing can be hot, so touch it gently first.",
    "schedule": [
     {
      "day": 1,
@@ -462,7 +461,7 @@
      "caption": "2. One bowl in the sunshine, one in the shade."
     },
     {
-     "art": "The girl and her mother looking into both bowls: the sunny one has a small piece of ice in a puddle, the shady one a bigger cube.",
+     "art": "The girl and a grown-up looking into both bowls: the sunny one has a small piece of ice in a puddle, the shady one a bigger cube.",
      "caption": "3. Look every 5 minutes. Which melts first?"
     }
    ],
@@ -534,7 +533,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Revathi puts one ice cube in the sunshine and one in the shade. Which melts first?",
+      "q": "Revathi, a girl in Class 1, puts one ice cube in the sunshine and one in the shade. Which melts first?",
       "options": [
        "The one in the sunshine",
        "The one in the shade",
@@ -558,10 +557,6 @@
     {
      "item": "nothing to buy: a window or a balcony, in the day",
      "qty": 1
-    },
-    {
-     "item": "paper and crayons",
-     "qty": 1
     }
    ],
    "safety": "Never look straight at the Sun, not even for a moment, and not through glass or sunglasses.",
@@ -569,18 +564,18 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Look at the day sky from a window, and draw what is there."
+     "what": "Look at the day sky from a window, and say what you see."
     }
    ],
-   "record": "Draw the day sky on one half of a paper. Leave the other half for the night sky.",
+   "record": "Tell a grown-up three things you saw in the sky.",
    "setup": [
     {
-     "art": "A girl and her grandmother at a window of a flat, looking at a blue sky with clouds and a flying crow, the Sun out of view above the window.",
+     "art": "A girl and a grown-up at a window of a flat, looking at a blue sky with clouds and a flying crow, the Sun out of view above the window.",
      "caption": "1. Look at the day sky. What can you see?"
     },
     {
-     "art": "A paper folded in half: one half drawn with a blue sky, clouds and a crow, the other half empty and dark.",
-     "caption": "2. Draw the day sky. Guess the night sky."
+     "art": "A girl pointing at the sky out of a window and telling a grown-up what she sees, with a thought bubble of a dark sky.",
+     "caption": "2. Say what you see. Guess the night sky."
     }
    ],
    "flow": [
@@ -622,19 +617,20 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Your child draws the day sky. Then ask what the night sky will show, and whether the stars are up there now.",
-     "say": "Tonight, what will we see in the sky? Are the stars up there right now? Why do you think so?",
-     "kid": "What will the night sky show? Are the stars there now?",
+     "do": "Ask your child what the night sky will show. Listen to the guesses.",
+     "say": "Tonight, what will we see in the sky? Will the Moon be there? Will there be stars?",
+     "kid": "What will the night sky show?",
      "ask": [
       {
-       "q": "Are the stars there now?",
+       "q": "What will the night sky show?",
        "good": [
-        "No, they come at night.",
-        "Yes, but we can't see them."
+        "The Moon.",
+        "Stars.",
+        "Lights on the buildings."
        ]
       }
      ],
-     "parent": "Don't give the answer. The torch star test will help your child find out."
+     "parent": "Don't give answers. The torch star test will help your child find out about the stars."
     }
    ]
   },
@@ -665,7 +661,7 @@
    "record": "Make two rows of tally marks: stars seen with the lights on, and stars seen with the lights off.",
    "setup": [
     {
-     "art": "A girl and her aunt at a balcony at night with a lit room behind them, counting three stars over the buildings.",
+     "art": "A girl and a grown-up at a balcony at night with a lit room behind them, counting three stars over the buildings.",
      "caption": "1. Count the stars with the room lights on."
     },
     {
@@ -811,7 +807,7 @@
    "id": "g1",
    "title": "Day Sky or Night Sky? A card sorting game",
    "mins": 10,
-   "players": "1 or more players, and a grown-up to read the cards.",
+   "players": "1 or more players, and a grown-up to read the cards. Players take turns.",
    "context": "This is a card game. You sort cards into the day sky, the night sky, or both.",
    "printables": [
     {
@@ -880,10 +876,11 @@
    "rules": [
     "Mix the 14 cards and put them in a pile, face down.",
     "Make three places on the floor: a yellow paper for DAY, a dark paper for NIGHT, and a place in the middle for BOTH.",
-    "Take the top card. A grown-up reads it out.",
+    "Players take turns. On your turn, take the top card. A grown-up reads the front out.",
     "Put it on DAY, NIGHT or BOTH, and say why.",
-    "Turn the card over. A grown-up reads the back. If you were right, keep the card.",
-    "When all the cards are sorted, talk about the stars card: are the stars in the sky in the day?"
+    "A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.",
+    "When all 14 cards are sorted, count the cards each player kept. Play again to keep more.",
+    "At the end, talk about the stars card: are the stars in the sky in the day?"
    ],
    "setup": [
     {
@@ -891,7 +888,7 @@
      "caption": "1. Put out a yellow paper, a dark paper and a space for both."
     },
     {
-     "art": "A girl putting the card 'A pale half Moon' in the middle, and her grandfather turning over another card.",
+     "art": "A girl putting the card 'A pale half Moon' in the middle, and a grown-up turning over another card.",
      "caption": "2. Sort each card. Turn it over to check."
     }
    ],
@@ -916,18 +913,7 @@
      "mins": 2,
      "do": "Talk about the stars card.",
      "say": "We put the stars on night. But are the stars in the sky right now, in the day?",
-     "kid": "Are the stars in the sky right now?",
-     "check": {
-      "t": "mcq",
-      "q": "Are the stars in the sky in the daytime?",
-      "options": [
-       "Yes, but the bright sky hides them",
-       "No, they go away",
-       "No, they switch off"
-      ],
-      "a": 0,
-      "why": "The stars shine all the time. In the day, sunlight makes the sky so bright that we cannot see them."
-     }
+     "kid": "Are the stars in the sky right now?"
     }
    ]
   },
@@ -935,7 +921,7 @@
    "id": "g2",
    "title": "Sun Up, Sun Down: a moving game",
    "mins": 8,
-   "players": "2 or more players, and one caller.",
+   "players": "2 or more players. One person is the caller and reads the cards. The others do the moves.",
    "context": "This is a moving game. The caller reads a card, and everyone shows with their hands and body what happens in the sky.",
    "printables": [
     {
@@ -960,7 +946,7 @@
       },
       {
        "f": "The Moon!",
-       "b": "Make a big circle with your arms. Turn your face towards the Sun player, because your light comes from the Sun."
+       "b": "Make a big circle with your arms. Turn your face towards the paper Sun, because your light comes from the Sun."
       },
       {
        "f": "Hot sunshine!",
@@ -986,16 +972,16 @@
     }
    ],
    "rules": [
+    "Stick a yellow paper Sun on a wall at one end of the room. This is the Sun.",
     "Mix the 10 caller cards. The caller holds them.",
-    "One player stands at one end of the room and is the Sun, with arms wide.",
-    "The caller reads the front of a card out loud. A grown-up reads for a caller who cannot read yet.",
-    "Everyone does the move. The back of the card says the move.",
-    "The caller reads the back, so everyone can check. Swap the caller and the Sun after all 10 cards."
+    "The caller reads the front of a card, and then the back. A grown-up reads for a caller who cannot read yet.",
+    "Everyone else does the move on the back of the card.",
+    "After all 10 cards, swap the caller, and play again."
    ],
    "setup": [
     {
-     "art": "A girl at one end of a room with her arms spread wide as the Sun, and a boy holding up a card that says Sun up.",
-     "caption": "1. One player is the Sun. The caller reads a card."
+     "art": "A yellow paper Sun stuck on a wall at one end of a room, and a boy holding up a card that says Sun up while a girl stretches her arms wide.",
+     "caption": "1. Stick up a paper Sun. The caller reads a card."
     },
     {
      "art": "Two children twinkling their fingers behind their backs, as the caller holds a card that says Stars in the day.",
@@ -1090,7 +1076,7 @@
      "caption": "2. In the day, draw the day sky."
     },
     {
-     "art": "The same girl at the window at night with her mother, drawing the Moon and a few stars on a dark page.",
+     "art": "The same girl at the window at night with a grown-up, drawing the Moon and a few stars on a dark page.",
      "caption": "3. At night, draw the night sky from the same window."
     }
    ],
@@ -1098,9 +1084,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Fold the two papers in half, put one inside the other, and staple or tie them at the fold. Your child draws a Sun and a Moon on the cover.",
+     "do": "A grown-up folds the two papers in half, puts one inside the other, and staples or ties them at the fold. Your child draws a Sun and a Moon on the cover.",
      "say": "We are making a sky book. The front pages are for the day sky, and the back pages are for the night sky.",
-     "kid": "Make your sky book. Draw a Sun and a Moon on the cover."
+     "kid": "Make your sky book. Draw a Sun and a Moon on the cover.",
+     "adult": true
     },
     {
      "id": "s2",
@@ -1160,7 +1147,7 @@
    "title": "Save the Ice Cube from the Sunshine (if you have a sunny spot)",
    "mins": 15,
    "context": "This is a problem to solve. An ice cube is sitting in the sunshine. How can you keep it from melting for as long as you can?",
-   "problem": "Kamala's ice cube must sit in a patch of sunshine. She wants it to last as long as it can. What can she use to help it?",
+   "problem": "Kamala, a girl in Class 1, must keep an ice cube in a patch of sunshine. She wants it to last as long as it can. What can she use to help it?",
    "constraints": [
     "The ice cube must stay in the same sunny spot.",
     "Use only things you already have at home.",
@@ -1198,7 +1185,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem to your child and show the things they may use.",
-     "say": "Kamala's ice cube must stay in the sunshine. How can we help it last longer? What could we use?",
+     "say": "An ice cube must stay in the sunshine. How can we help it last longer? What could we use?",
      "kid": "How can you keep the ice from melting? What could you use?",
      "ask": [
       {
@@ -1227,7 +1214,7 @@
      "kid": "Which lasted longer? Why?",
      "check": {
       "t": "mcq",
-      "q": "Kamala puts a cardboard roof over one ice cube in the sunshine. Why does that ice last longer?",
+      "q": "Kamala, a girl in Class 1, puts a cardboard roof over one ice cube in the sunshine. Why does that ice last longer?",
       "options": [
        "The roof makes shade, so less sunshine reaches the ice",
        "Cardboard is cold",
@@ -1273,43 +1260,41 @@
        "Light"
       ],
       [
-       "A crow warming up in the sun",
+       "A sunny patch on the floor",
        "Both"
       ]
      ],
      "a": "see items",
-     "why": "The Sun gives light and heat together. A strong answer sees that some things use mostly the light, like a leaf making food, and some use mostly the heat, like drying clothes. Other answers can be fair too if the child gives a reason."
+     "why": "The Sun gives light and heat together. A sunny patch is bright and warm, so it is both. A strong answer sees that some things use mostly the light, like a leaf making food, and some use mostly the heat, like drying clothes."
     },
     {
      "t": "odd",
-     "p": "Three of these make their own light. Which one does not? Circle it.",
+     "p": "Three of these are safe to do in the sun. Which one is not safe? Circle it.",
      "opts": [
-      "The Sun",
-      "A star",
-      "The Moon",
-      "A diya flame"
+      "Feeling the sunshine on your hand",
+      "Drying clothes on a sunny line",
+      "Looking straight at the Sun",
+      "Sitting in the shade of a tree"
      ],
      "a": 2,
-     "why": "The Moon makes no light of its own. It shines because the Sun lights it up. The Sun, the stars and a flame all make their own light."
+     "why": "Looking straight at the Sun, even for a moment, can hurt your eyes. The other three are safe."
     },
     {
      "t": "mcq",
-     "p": "In the ice test, Divya put one ice cube in the sunshine and one in the shade. Which one melted first?",
+     "p": "Meena has wet clothes. Where will they dry fastest?",
      "opts": [
-      "The one in the sunshine",
-      "The one in the shade",
-      "Both together"
+      "On a sunny balcony line",
+      "In a shady cupboard",
+      "Under the bed"
      ],
      "a": 0,
-     "why": "The sunshine brought the Sun's heat to the ice, so it melted first.",
-     "how": "e2"
+     "why": "The Sun's heat dries clothes. In the sunshine they get more heat, so the water goes into the air faster."
     },
     {
      "t": "truefalse",
-     "p": "The stars go away in the daytime.",
-     "a": false,
-     "why": "False. The stars shine all the time. In the day, the sky is so bright that we cannot see them, like the torch star by the sunny window.",
-     "how": "e1"
+     "p": "The Moon is a ball of rock that goes round the Earth.",
+     "a": true,
+     "why": "True. The Moon is a big ball of rock. It makes no light of its own, and shines with the Sun's light."
     },
     {
      "t": "draw",
@@ -1372,7 +1357,7 @@
        "says": "I want to play in the sun. It is the brightest time of day."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one good thing about someone else's idea.",
+     "ask": "Who do you agree with? Why? Then say one good thing about someone else's idea. Say it, and a grown-up writes it down.",
      "lines": 3,
      "a": "Any choice with a good reason. Sunshine brings useful light and heat. Too much of its heat in the afternoon can be hard on bodies, so shade helps then.",
      "why": "A strong answer gives a reason, and fairly says something good about another view. The Sun's heat helps us, and too much of it can be too hot."
@@ -1405,18 +1390,18 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Leela sees the Moon shining at night. Where does the Moon's light come from?",
+     "p": "A solar water heater on a roof warms bath water. What does it use from the Sun?",
      "opts": [
-      "The Sun shines on the Moon",
-      "The Moon makes its own light",
-      "The street lights shine on the Moon"
+      "Its heat",
+      "Moonlight",
+      "Starlight"
      ],
      "a": 0,
-     "why": "The Moon has no light of its own. Sunlight falls on the Moon, and some of it bounces down to us."
+     "why": "Sunshine brings heat. The solar water heater catches the Sun's heat and uses it to warm the water."
     },
     {
      "t": "order",
-     "p": "Put these in order, 1 to 4: what happened in the torch star test?",
+     "p": "Put these in order, 1 to 4: what happened in the torch star test? A grown-up reads each line.",
      "items": [
       "We made a tiny hole in the cardboard over the torch.",
       "By the bright window, the star was hard to see.",
@@ -1434,17 +1419,17 @@
     },
     {
      "t": "truefalse",
-     "p": "On a sunny day, a steel bowl in the shade gets just as warm as one in the sunshine.",
-     "a": false,
-     "why": "False. The bowl in the sunshine gets the Sun's heat, so it gets warmer. The one in the shade stays cooler."
+     "p": "A white cloud can look bright in the day because sunlight falls on it.",
+     "a": true,
+     "why": "True. A cloud makes no light of its own. It looks bright and white because the Sun shines on it."
     },
     {
      "t": "write",
-     "p": "Sunita's little brother says, 'The stars switch on at night, like lamps.' What would you tell him? Use the torch star test.",
+     "p": "A friend says, 'The Sun is so far away that it cannot warm me.' What would you tell your friend? Use the ice test. Say it, and a grown-up writes it down.",
      "lines": 3,
-     "a": "The stars are always shining. In the torch test, the star was shining by the window too, but it was too bright there to see it. The sky in the day is like that.",
-     "why": "A strong answer uses the test as evidence: the same torch star was there all the time, and only the light around it changed.",
-     "how": "e1"
+     "a": "The Sun's light travels all the way here, and it brings heat. In the ice test, nothing touched the ice except sunshine, but the ice in the sunshine melted first.",
+     "why": "A strong answer uses the ice test as evidence: only sunshine reached the ice, and it melted first, so the sunshine brought heat.",
+     "how": "e2"
     },
     {
      "t": "draw",
@@ -1455,7 +1440,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya counts 3 stars from her balcony with all the lights on. She switches off the lights and waits. What will she most likely see?",
+     "p": "Kavya, a girl in Class 1, counts 3 stars from her balcony with all the lights on. She switches off the lights and waits. What will she most likely see?",
      "opts": [
       "A few more stars",
       "No stars at all",
@@ -1495,7 +1480,7 @@
     },
     {
      "t": "write",
-     "p": "Why do children in a village far from a town see more stars than children in a big city?",
+     "p": "Why do children in a village far from a town see more stars than children in a big city? Say it, and a grown-up writes it down.",
      "lines": 2,
      "a": "The city has many lights, which make the night air glow. That hides the faint stars. In the village the sky is darker, so more stars can be seen.",
      "why": "A strong answer says the stars are the same, and the lights around us change how many we can see."
@@ -1513,7 +1498,7 @@
        "says": "If we can't see the stars in the day, how do we know they are there? Maybe they really go away."
       }
      ],
-     "ask": "Who do you agree with? What evidence would you show the other friend?",
+     "ask": "Who do you agree with? What evidence would you show the other friend? Say it, and a grown-up writes it down.",
      "lines": 3,
      "a": "Most children agree with Priya and show the torch star test, or tell Arjun about a total eclipse, when stars appear in the day. Arjun's question is still a good one: a scientist asks how we know.",
      "why": "A strong answer picks a side and gives evidence. It also says why Arjun's question is fair: we should ask how we know something we cannot see."
@@ -1536,15 +1521,15 @@
   },
   {
    "t": "mcq",
-   "p": "Ravi puts one steel spoon in the sunshine and one in the shade for 10 minutes. Which spoon feels warmer?",
+   "p": "Which of these is a star?",
    "opts": [
-    "The one in the sunshine",
-    "The one in the shade",
-    "They feel the same"
+    "The Sun",
+    "The Moon",
+    "A cloud"
    ],
    "a": 0,
-   "why": "Sunshine brings heat. The spoon in the sunshine gets more of it.",
-   "outcome": 1
+   "why": "The Sun is a star: a huge ball of hot gas that makes its own light. The Moon and clouds only look bright when sunlight falls on them.",
+   "outcome": 0
   },
   {
    "t": "mcq",
@@ -1609,26 +1594,26 @@
   },
   {
    "t": "mcq",
-   "p": "Which one makes its own light?",
+   "p": "Ravi puts one steel spoon in the sunshine and one in the shade for 10 minutes. Which spoon feels warmer?",
    "opts": [
-    "A star",
-    "The Moon",
-    "A cloud"
+    "The one in the sunshine",
+    "The one in the shade",
+    "They feel the same"
    ],
    "a": 0,
-   "why": "A star is a huge ball of hot gas that makes its own light. The Moon and clouds only look bright when sunlight falls on them.",
-   "outcome": 2
+   "why": "Sunshine brings heat. The spoon in the sunshine gets more of it.",
+   "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Why can we see more stars far away from a city?",
+   "p": "Why is the sky bright in the daytime?",
    "opts": [
-    "There are fewer lights to hide the faint stars",
-    "There are more stars over villages",
-    "The stars are closer there"
+    "Sunlight lights up the air",
+    "The Moon is shining",
+    "The stars shine more by day"
    ],
    "a": 0,
-   "why": "The stars are the same everywhere. City lights make the night air glow, which hides the faint ones.",
+   "why": "Sunlight lights up the air and makes the whole day sky bright. That bright sky hides the stars.",
    "outcome": 3
   },
   {
@@ -1728,7 +1713,6 @@
   "Where is the sunniest spot in our home right now?",
   "Is the Moon in the sky today? Let's look.",
   "Where are the stars right now?",
-  "Who in our home uses the sunshine? The plants, the clothes, the crow, you?",
   "Which feels warmer, the balcony railing or the shady wall?",
   "Why do we switch on lights when the Sun goes down?"
  ],
@@ -1742,16 +1726,8 @@
    "a": "The Sun lends it light every night!"
   },
   {
-   "j": "What did the ice cube say in the sunshine?",
-   "a": "I'm feeling a bit melty today!"
-  },
-  {
    "j": "Why did the Sun not go to college?",
    "a": "It already had millions of degrees!"
-  },
-  {
-   "j": "Where do the stars go in the day?",
-   "a": "Nowhere. They are just playing hide and seek!"
   },
   {
    "j": "What did the shade say to the sunshine?",
@@ -1768,11 +1744,15 @@
   {
    "j": "What is a star's favourite game?",
    "a": "Twinkle, twinkle, hide and seek!"
+  },
+  {
+   "j": "Why did the Moon skip dinner?",
+   "a": "It was already full!"
   }
  ],
  "maths": [
   {
-   "problem": "Kavya counted 3 stars from her balcony with the lights on. With the lights off she counted 7. How many more stars did she see?",
+   "problem": "Kavya, a girl in Class 1, counted 3 stars from her balcony with the lights on. With the lights off she counted 7. How many more stars did she see?",
    "answer": "4 more.",
    "explain": "Count on from 3 to 7: 4, 5, 6, 7. That is 4. So she saw 4 more stars once the lights near her were off. Those stars were there all along.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1781,7 +1761,7 @@
    "why_maths": "Taking one count away from the other shows how many stars the lights were hiding."
   },
   {
-   "problem": "In the ice test, Divya looked at both ice cubes every 5 minutes. The sunny one was gone at the 3rd look. The shady one was gone at the 6th look. Which lasted longer? How many more looks did it last?",
+   "problem": "Divya, a girl in Class 1, did the ice test. She looked at both ice cubes every 5 minutes. The sunny one was gone at the 3rd look. The shady one was gone at the 6th look. Which lasted longer? How many more looks did it last?",
    "answer": "The shady one, by 3 looks.",
    "explain": "6 is more than 3, so the shady ice lasted longer. From 3 to 6 is 3 more looks. Each look was 5 minutes apart, so that is 15 more minutes in the shade.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1790,7 +1770,7 @@
    "why_maths": "Comparing the two numbers shows how much longer the ice lasts when the Sun's heat cannot reach it."
   },
   {
-   "problem": "Tara draws a sky pattern: Sun, Moon, star, Sun, Moon, star, Sun, Moon. What comes next?",
+   "problem": "Tara, the girl in the story, draws a sky pattern: Sun, Moon, star, Sun, Moon, star, Sun, Moon. What comes next?",
    "answer": "A star.",
    "explain": "The pattern is Sun, Moon, star, again and again. After Sun and Moon comes a star.",
    "math_unit": "math.patterns.repeating-patterns.L1",
@@ -1798,7 +1778,7 @@
    "why_maths": "Spotting the pattern lets us say what comes next without looking."
   },
   {
-   "problem": "In the sorting game, Nila put 5 cards on DAY, 6 cards on NIGHT and 3 cards on BOTH. Which pile had the most cards? Is she right that we see more things in the night sky than the day sky?",
+   "problem": "Nila, a girl in Class 1, played the sorting game. She put 5 cards on DAY, 6 on NIGHT and 3 on BOTH. Which pile had the most cards? Nila says, 'So there are more things in the night sky than in the day sky.' Is she right?",
    "answer": "NIGHT had the most. But the stars are in the day sky too, just hidden, so the night pile is only what we can see.",
    "explain": "6 is more than 5 and more than 3, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1878,7 +1858,7 @@
   "context": "We have felt the Sun's heat, and found that a small light can shine without being seen. Now we ask what that tells us about the sky, about ourselves and about the world.",
   "deep_truth": {
    "truth": "By the sunny window, our torch star was hard to see. In the dark room, it shone brightly. The torch did not change, and the real stars do not change from day to night either. They shine all day, but we see them only when the sky around them is dark.",
-   "habit": "We say the stars 'come out' at night, as if they switch on like street lights. The torch test shows that the stars never change. What changes is how bright the sky is around them.",
+   "habit": "We say the stars 'come out' at night, as if they switch on like street lights. The torch test shows that a star can stay the same while the light around it changes.",
    "evidence": "In the torch star test, the same star was faint by the bright window and bright in the dark room. In a total eclipse of the Sun, stars appear at midday."
   },
   "three": {
@@ -1890,7 +1870,7 @@
   "teachings": [
    {
     "source": "Rig Veda 1.50.2 (a hymn to Surya, the Sun)",
-    "teaching": "The stars slip away like thieves, together with the night, when the all-seeing Sun comes.",
+    "teaching": "The stars slip away like thieves, together with their beams, before the all-seeing Sun.",
     "link": "The old hymn says what everyone sees: the stars vanish at sunrise. The torch test shows that they do not really go anywhere. The Sun's bright light hides them."
    },
    {
@@ -1921,8 +1901,7 @@
   },
   "ask": [
    "The stars were there all day, though nobody could see them. Is something real even when nobody sees it?",
-   "The Sun's light hides the other stars. Can something very bright stop us seeing something else?",
-   "Our Sun is a star. From a planet near another star, would our Sun look like a tiny dot?"
+   "The Sun's light hides the other stars. Can something very bright stop us seeing something else?"
   ],
   "art": "A child at a dark window, looking up at one bright star, with the faint outline of a Sun drawn on the other side of the Earth below."
  },
@@ -1994,5 +1973,6 @@
    "Aditya-L1 was launched by ISRO on 2 September 2023; its project director was Nigar Shaji, from Tenkasi district in Tamil Nadu. Chandrayaan-3 landed near the Moon's south pole on 23 August 2023.",
    "The Sun is about 150 million km from the Earth, and sunlight takes about 8 minutes 20 seconds to reach us. The Hanle Dark Sky Reserve in Ladakh was set up in 2022 around the Indian Astronomical Observatory."
   ]
- }
+ },
+ "playtest": "Walked through every step of the torch star and ice experiments, the three activities, the sorting and moving games, the sky book project and the ice challenge, as a parent and a 6-year-old in a flat. Fixed the moving game, which needed a third person to be the Sun; a paper Sun on the wall now works with 2 players, and the caller reads the move before anyone does it. Gave the sorting game turns and a score, made the torch test safer to set up, sorted out duplicate questions across the worksheets and quiz, and introduced every made-up child at first mention. Removed family members from the art, a wrong Both answer on the light and heat sort, and the repeated drawing, jokes and questions."
 }

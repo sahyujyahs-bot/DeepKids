@@ -26,14 +26,14 @@
 ### Every push and every pull is a force · *defined*
 **Definition:** A force is any push or any pull. Every force is between two things: one gives the push or pull, and the other is pushed or pulled.
 
-In the force hunt, you found pushes and pulls all over the home. Your hand pulled a drawer open. The wind from the fan pushed a paper. The Earth pulled a falling spoon to the floor. A magnet pulled a steel pin. These look very different, but scientists give them all one name. They are all forces. For every force, you can ask two questions. Who or what gives the force? And who or what gets pushed or pulled?
+In the force hunt, you found pushes and pulls all over the home. Your hand pulled a drawer open. The wind from the fan pushed a paper. The Earth pulled a falling spoon to the floor. A magnet pulled a paper clip. Scientists give them all one name: force. For every force, ask two questions. Who or what gives the force? And who or what gets pushed or pulled?
 - e.g. In the force hunt, the tap water pushed a steel cup in the sink.
 - e.g. A crow pulls a twig from a broom to build her nest.
 - e.g. At the Rath Yatra in Puri, in Odisha, thousands of people pull huge wooden chariots with ropes.
 ### We cannot see a force, but we see and feel what it does · *defined*
 **Definition:** A force cannot be seen. We know a force is there because we see what it does, or because we feel it on our body.
 
-Nobody has ever seen the wind's push itself. We see the clothes flap on the line, and we feel the wind on our face. Nobody has seen the Earth's pull. We see a mango fall, and we feel a full bag pull on our fingers. A force can start a thing moving, stop it, or squash it. It can also press on you while nothing moves at all. In the Secret Packet test, the bag hung still. You still felt it pulling your hand down.
+Nobody has ever seen the wind's push itself. We see the clothes flap on the line, and we feel the wind on our face. Nobody has seen the Earth's pull. We see a mango fall, and we feel a full bag pull on our fingers. A force can start a thing moving, stop it, or squash it. It can also press on you while nothing moves. In the Secret Packet test, the bag hung still, and you still felt it pulling your hand down.
 - e.g. In the Secret Packet test, the still bag pulled down on your fingers.
 - e.g. A fridge magnet holds a paper up, and the paper does not fall.
 - e.g. During the monsoon in Kerala, strong winds bend the coconut trees.
@@ -47,9 +47,9 @@ The bag with two water bottles pulled hard on your fingers. The empty bag hardly
 ### How your hand feels a pull · *defined*
 **Definition:** Your skin, muscles and joints have tiny sensors that notice pushes and pulls. Your hand notices a change in a pull by comparing it with what it already holds.
 
-When a bag pulls on your fingers, your skin is pressed and stretched. Tiny gates in your nerve cells open when they are pressed or stretched. Scientists call one of these gates Piezo2. The nerves then send news up your arm to your brain. In the Secret Packet test, the packet pulled down by the same amount both times. In the empty bag, the packet was a big part of the whole pull, so you felt it. In the heavy bag, the packet was a tiny part, so you often missed it. Lifting the bag up and down gently helps a little, because your muscles and joints join in.
-- e.g. In the Secret Packet test, children usually feel the packet in the empty bag almost every time.
-- e.g. In the heavy bag, many children get only about half their answers right, which is what guessing gives.
+When a bag pulls on your fingers, your skin is pressed and stretched. Tiny sensors in your skin notice this. Nerves then send the news up your arm to your brain. In the Secret Packet test, the packet pulled down by the same amount both times. In the empty bag, the packet was a big part of the whole pull, so you felt it. In the heavy bag, it was a tiny part, so you often missed it.
+- e.g. In the Secret Packet test, the packet is usually easy to feel in the empty bag.
+- e.g. In the heavy bag, you may get only about half your answers right, which is what guessing gives.
 - e.g. You notice your school bag when you first put it on. After a while, you stop noticing it.
 - **Many brain scientists:** The nerves in your hand carry signals, like wires. The feeling of 'heavy', and the comparing, happen in the brain.
 - **Another view:** Sensing happens all along the way. The nerve cells in your skin notice the pull themselves, and they fire less when a pull stays the same for a while. Your body as a whole feels the bag, not only your brain.
@@ -60,7 +60,7 @@ When a bag pulls on your fingers, your skin is pressed and stretched. Tiny gates
 - The smallest extra weight a person can notice grows with the weight they already hold. *How we know:* Ernst Weber showed this in Germany in the 1830s, by asking people to compare weights. Many tests since then have found the same.
 
 ## How we found out
-**Ernst Heinrich Weber, a German doctor and scientist. Later, Gustav Fechner, a German scientist, and Ardem Patapoutian, a scientist born in Lebanon who works in the United States, The 1830s (Weber's tests), 1860 (Fechner) and 2021 (the Nobel Prize for the touch sensors).** It seems natural to think that a careful hand can feel any extra weight, however small, if you pay attention. In the 1830s, a doctor named Ernst Weber tested this in Leipzig, in Germany. He asked people to hold or lift two weights and say which was heavier. He found that a small extra was easy to notice when the weight was light. When the weight was heavy, the same small extra was missed. To be noticed, the extra had to grow as the load grew. Weber also found that people did better when they lifted the weights than when the weights just rested on a still hand. In 1860, another German scientist, Gustav Fechner, named this rule Weber's law. Much later, scientists asked how a nerve feels a push at all. Ardem Patapoutian's team in the United States found tiny gates in nerve cells, called Piezo2, that open when the skin is pressed or stretched. In 2021, he shared the Nobel Prize for this work.  
+**Ernst Heinrich Weber, a German doctor and scientist. Later, Gustav Fechner, a German scientist, and Ardem Patapoutian, a scientist born in Lebanon who works in the United States, The 1830s (Weber's tests), 1860 (Fechner) and 2021 (the Nobel Prize for the touch sensors).** It seems natural to think that a careful hand can feel any extra weight, however small, if you pay attention. In the 1830s, a doctor named Ernst Weber tested this in Leipzig, in Germany. He asked people to hold two weights and say which was heavier. A small extra was easy to notice when the weight was light. When the weight was heavy, the same small extra was missed. To be noticed, the extra had to grow as the load grew. Weber also found that people did better when they lifted the weights than when the weights just rested on a still hand. In 1860, another German scientist, Gustav Fechner, named this rule Weber's law. Much later, in 2021, Ardem Patapoutian, a scientist born in Lebanon, shared the Nobel Prize for finding the tiny touch sensors in our nerve cells.  
 *What people believed before:* People assume a careful hand can feel any small extra weight. Weber showed that the extra must be bigger when the load is heavier, so a small extra in a heavy load goes unnoticed.
 
 ## Challenging perspectives
@@ -80,19 +80,19 @@ When a bag pulls on your fingers, your skin is pressed and stretched. Tiny gates
 ## Roots
 We have hunted for forces, felt pushes with our eyes shut and tried to catch a secret packet. Now we ask what the packet test tells us about ourselves and the world.
 
-**Deep truth.** With eyes shut, you felt the packet land in the empty bag. In the bag with two bottles, the same packet went unnoticed. The packet pulled on your hand just as much both times. So your hand feels a change in a pull by comparing it with what it already holds.  
+**Deep truth.** With eyes shut, you felt the packet land in the empty bag. In the bag with two bottles, the same packet was often missed. The packet pulled on your hand just as much both times. So your hand feels a change in a pull by comparing it with what it already holds.  
 *Habit it breaks:* We trust our hands to tell us how heavy things are, the way a scale does. The packet test shows that a hand judges a change by comparing it with what it already holds.  
-*Evidence:* In the Secret Packet test, children usually feel the packet in the empty bag nearly every time, and often get only about half right with the heavy bag, as if guessing. A hanger balance shows the same packet every time.
+*Evidence:* In this test the packet is usually easy to feel in the empty bag. With the heavy bag, results often fall to about half right, which is what guessing gives. A balance can show the packet that the hand misses.
 
-- *who am i:* You are a force-feeler. Your skin, nerves and brain notice every push and pull on you, and compare it with what came before.
+- *who am i:* You are a force-feeler. Your skin, nerves and brain notice pushes and pulls on you, and compare them with what came before.
 - *what is life:* Every living being senses pushes and pulls. A touch-me-not plant folds her leaves at a touch, and a spider feels a fly tugging at her web.
 - *what is this world:* The world is full of forces we cannot see: the Earth's pull, the wind's push and the floor holding us up.
 
-A kick, the wind, a magnet and the Earth's pull look like many different things. Scientists give them all one name, force, and trace them back to just a few basic forces of nature. Every force is a meeting: something gives it, and something gets it. Feeling a force is a meeting too. Your skin and nerves notice and compare, not only your brain. Many scientists say that feeling happens only in the brain, and that nerves just carry messages.
+A kick, the wind, a magnet and the Earth's pull look like many different things. Scientists give them all one name, force, and trace them back to just a few basic forces of nature. Every force is a meeting: something gives it, and something gets it. Feeling a force is a meeting too. Your skin and nerves also notice and compare, before the brain gets the news. Many scientists say that feeling happens only in the brain, and that nerves just carry messages.
 
 - **Bhagavad Gita 2.14:** Krishna tells Arjuna that when the senses touch things, they bring cold and heat, pleasure and pain. These feelings come and go, and they do not last. Bear them calmly. (In the packet test, the same packet was felt once and missed once. A feeling is a meeting between you and a thing, and it changes with the moment.)
 - **Samyutta Nikaya 12.1 (a Buddhist text):** The Buddha taught that feeling arises from contact. With contact as its condition, feeling comes. (The packet's pull reached your hand only through contact with the bag. Whether you felt it also depended on what your hand already held.)
-- Science (settled): Weber's law: the smallest extra weight a person can notice grows with the weight they already hold. It has been tested many times since the 1830s.
+- Science (settled): Weber's law: the smallest extra weight a person can notice grows roughly in step with the weight they already hold. It has been tested many times since the 1830s.
 - Science (open): Nobody yet fully knows how the signals from skin, muscles and joints come together into the feeling of heaviness.
 - Other view, Many brain scientists: The nerves in your hand are like wires. They only carry signals. The feeling of heavy, and the comparing, are work done by the brain.
 - Practice, Feel the forces on you (3 min): Sit still and shut your eyes. Feel the floor or the chair pushing up under you. Feel your hands resting on your knees. Feel how heavy they are. Feel your clothes on your skin. Now hold one hand out, palm up, and feel the Earth pulling it down. Rest it again. Which of these forces had you stopped noticing before we began?
@@ -101,7 +101,7 @@ A kick, the wind, a magnet and the Earth's pull look like many different things.
 - Ask: Which forces on you right now have you stopped noticing?
 
 ## Deep and big questions
-- *deep:* In the heavy bag, the packet was still pulling down. Where did its pull go, if you did not notice it? (hint: Think about the bag, the bottles and your fingers. Did the bag's pull on your fingers change?)
+- *deep:* Why can a balance notice a small extra pull that a hand misses? (hint: A balance compares two sides side by side. What does a hand compare the packet with?)
 - *deep:* Could there be a force so small that nothing at all could notice it? (hint: Your hand missed the packet, but a balance noticed it. Could something notice even smaller forces than a balance?)
 - *big:* Is heaviness in the bag, or in your hand? (hint: The packet was the same both times. What changed was what your hand already held.)
 - *big:* You and a friend hold the same bag. You say it is heavy, and your friend says it is light. Who is right? (hint: Think about what each of you was holding before, and how strong each of your arms is.)
@@ -163,9 +163,9 @@ The lemon pulled down just as much in both bags. In the little bag, the lemon wa
 
 'I know!' she said. 'My hand noticed the lemon when it was big next to what I was holding. In the heavy bag, it was too small to notice.'
 
-At home, she gave Kiran an empty steel tiffin box. 'Shut your eyes,' she said. She dropped in one coin. Kiran felt it at once.
+At home, she gave Kiran an empty steel tiffin box. 'Shut your eyes,' she said. She dropped in three coins. Kiran felt them at once.
 
-Then she filled the tiffin box with rice. She gave it back to him. Very gently, she laid one coin on top.
+Then she filled the tiffin box with rice. She gave it back to him. Very gently, she laid three coins on top.
 
 Kiran opened his eyes. 'Did you put it in yet?'
 
@@ -186,28 +186,28 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 
 ## Games
 ### g1 · Force Bingo: who gave the push or pull? (12 min)
-- **rules:** Each player takes one bingo board and 9 small paper scraps to cover squares.; The caller mixes the 12 caller cards and reads the top one out loud.; Players say who or what gave the force. The caller turns the card to check.; If that giver is on your board, cover it.; A full row, up, down or across, wins. Say 'Force!' when you get one.; Keep playing until someone covers the whole board.
+- **rules:** Each player takes one bingo board, or a team shares one. Take 9 small paper scraps each to cover squares. The boards are 3 rows of 3 squares.; Mix the 12 caller cards. Players take turns reading the top card out loud, front side only.; Everyone says who or what gave the force. The reader turns the card over to check the answer.; If that giver is on your board, cover it. If it is not, do nothing.; The first player to cover a full row, up, down or across, calls 'Force!' and wins. If two players finish on the same card, they both win.; If nobody has a row after all 12 cards, the player with the most squares covered wins.
 - **Printable board: Bingo board A: 9 givers:** A foot; The wind; Running water; The Earth; A magnet; An ant; A rubber band; Your breath; A spring
 - **Printable board: Bingo board B: 9 givers:** The sea waves; A bullock; A foot; The Earth; A spring; The wind; A magnet; A crow; Running water
-- **Printable cards: 12 caller cards:** A mango falls from the tree. (back: The Earth); A kite flies up high at Uttarayan. (back: The wind); A steel pin jumps to the fridge door. (back: A magnet); A ball flies across the room after a kick. (back: A foot); A paper boat rushes along a rain gutter. (back: Running water); A grain of rice moves slowly across the floor. (back: An ant); A soap bubble floats away from your lips. (back: Your breath); A catapult sends a paper ball flying. (back: A rubber band); A cart of sugarcane rolls down the village road. (back: A bullock); A fishing boat bobs up and down near the beach. (back: The sea waves); A twig is lifted onto a branch for a nest. (back: A crow); A clothes clip snaps shut on a towel. (back: A spring)
+- **Printable cards: 12 caller cards:** A mango falls from the tree. (back: The Earth); A kite flies up high at Uttarayan. (back: The wind); A steel pin jumps across the table to a magnet. (back: A magnet); A ball flies across the room after a kick. (back: A foot); A paper boat rushes along a rain gutter. (back: Running water); A grain of rice moves slowly across the floor. (back: An ant); A soap bubble floats away from your lips. (back: Your breath); A rubber band is stretched back with a paper ball in it. Then it is let go, and the ball flies. (back: A rubber band); A cart of sugarcane rolls down the village road. (back: A bullock); A fishing boat bobs up and down near the beach. (back: The sea waves); A twig is lifted onto a branch for a nest. (back: A crow); A clothes clip snaps shut on a towel. (back: A spring)
 - **s1 (2 min)**  
   *Parent does:* Hand out the boards and paper scraps. Read the rules together.  
-  *Parent says:* The caller reads what happened. You say who or what gave the force. Then cover it on your board.  
+  *Parent says:* One of us reads what happened. We both say who or what gave the force. Then we cover it on our boards.  
   *Child mode:* Listen to the card. Who gave the force? Cover it.
 - **s2 (8 min)**  
-  *Parent does:* Play. After each card, ask whether the force was a push or a pull.  
+  *Parent does:* Play. After some cards, ask whether the force was a push or a pull.  
   *Parent says:* A mango falls from the tree. Who gave the force? Was it a push or a pull?  
   *Child mode:* Who gave the force? Push or pull?
   - Ask: Was the Earth's force on the mango a push or a pull? (good: A pull. It pulled the mango down.; A pull, towards the ground.)
-  - Note: The catapult card is a pull: the stretched rubber band pulls back towards its own shape. The clothes clip is the spring pushing the two sides together. Accept a good reason over a quick answer.
+  - Note: Some cards can be argued either way, such as the ant moving a grain of rice. Accept a push or a pull if your child can say why. The stretched rubber band pushes the paper ball forward as it springs back. The clothes clip is a spring pushing the two sides together. Accept a good reason over a quick answer.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* One last card, and it is a tricky one.  
+  *Parent says:* Here is one last card to try.  
   *Child mode:* Answer one last card.
   - Check: A dry leaf blows across the balcony floor. Who gave the push? → **The wind**
 ### g2 · The Force Caller: move the way the force moves you (10 min)
-- **rules:** The caller mixes the 10 force cards and reads one out loud.; Everyone moves the way that force would move them.; The caller says whether the force is big or small. Big forces mean big moves.; On the 'Still!' card, everyone freezes. Anyone who moves becomes the next caller.
-- **Printable cards: 10 force cards for the caller:** A strong wind pushes you from behind. (back: Lean and step forward.); A giant magnet on the wall pulls your hands. (back: Hands reach out to the wall.); The Earth pulls you extra hard. (back: Sink down slowly to the floor.); A big wave pushes you towards the beach. (back: Rock forward and back.); A rope ties you to a friend, and they pull. (back: Walk slowly towards the puller.); A soft breeze pushes a feather in your hand. (back: Move one hand gently.); A rubber band pulls your arm back. (back: Pull one arm back behind you.); A crowd pushes you on a busy train platform. (back: Take small steps sideways.); You hold a heavy bag of rice. (back: Bend one arm down low.); Still! No new force. (back: Freeze where you are.)
+- **rules:** Mix the 10 force cards. The reader reads the front of one card out loud, then the back, which says whether the force is big or small and how to move.; Everyone else moves the way that force would move them. Big forces mean big moves, and small forces mean small moves.; On the 'Still!' card, everyone freezes. Anyone who moves becomes the next reader.; The game ends when all 10 cards have been read.
+- **Printable cards: 10 force cards for the caller:** A strong wind pushes you from behind. (back: Big force. Lean and step forward.); Pretend you are a steel pin. A giant magnet on the wall pulls you. (back: Big force. Slide towards the wall.); The Earth pulls you extra hard. (back: Big force. Sink down slowly to the floor.); A big wave pushes you towards the beach. (back: Big force. Rock forward and back.); A rope ties you to a friend, who pulls gently. (back: Small force. Walk slowly towards the puller.); A soft breeze pushes a feather in your hand. (back: Small force. Move one hand gently.); A rubber band pulls your arm back. (back: Small force. Pull one arm back a little.); A crowd pushes you on a busy train platform. (back: Big force. Take small steps sideways.); You hold a heavy bag of rice. (back: Big force. Bend one arm down low.); Still! No new force. (back: Freeze where you are.)
 - **s1 (2 min)**  
   *Parent does:* Clear a space. Read the rules.  
   *Parent says:* I will name a force. Move the way it would move you. A big force means a big move.  
@@ -222,7 +222,7 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   *Parent does:* Ask the check question.  
   *Parent says:* One question about the game.  
   *Child mode:* Answer one question.
-  - Check: Which card had the biggest force? → **A big wave pushes you towards the beach**
+  - Check: In the Force Caller game, which card has the biggest force? → **A big wave pushes you towards the beach**
 
 ## Experiments
 ### e1 · The Secret Packet: can your hand feel a small extra pull? (20 min)
@@ -253,14 +253,14 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   *Parent says:* Now the heavy bag. Eyes shut again. Did the packet go in, or not?  
   *Child mode:* Now the heavy bag. Eyes shut. Did the packet go in?
   - Ask: Was it easier or harder this time? (good: Harder. I couldn't tell.; I was just guessing with the heavy bag.)
-  - Note: Most children get 5 or 6 right with the empty bag and about 3 with the heavy bag, which is what guessing gives. If your child gets nearly all the heavy-bag tries right, use a smaller packet of 1 spoon of rice and try again. If they miss it in the empty bag too, use 4 spoons of rice.
+  - Note: Results differ from child to child. Often the packet is felt 5 or 6 times out of 6 in the empty bag, and only about 3 times in the heavy bag, which is no better than guessing. If your child gets nearly all the heavy-bag tries right, use a smaller packet of 1 spoon of rice and try again. If they miss it in the empty bag too, use 4 spoons of rice. Let your child rest their arm between tries. Whatever your child finds is a real result.
 - **s5 (3 min)**  
   *Parent does:* Count the ticks together. Ask your child what they found, and why. Then ask the check question.  
   *Parent says:* How many did you get right with the empty bag? With the heavy bag? The packet was the same both times. Why do you think it was harder to feel in the heavy bag?  
   *Child mode:* Count your ticks for each bag. Which bag was harder? Why?
   - Ask: Why was the packet harder to feel in the heavy bag? (good: The bag was already pulling a lot, so a little more did not feel different.; The packet was tiny next to the bottles.)
   - Note: Wait for your child's own claim and evidence first. Then say it plainly: the packet pulled down just as much both times. In the empty bag it was a big part of the pull, so the hand felt it. In the heavy bag it was a tiny part, so the hand missed it.
-  - Check: Meera's packet went into a bag with two bottles. She did not feel it. Was the packet still pulling the bag down? → **Yes, just as much as in the empty bag**
+  - Check: Meera, a girl in Class 2, holds a bag with two bottles, with her eyes shut. A packet is slipped in and she cannot tell it is there. Was the packet still pulling the bag down? → **Yes, just as much as in the empty bag**
 ### e2 · Push the Scale: how big is your push? (15 min)
 - **question:** Which push is biggest: one finger, one hand or two hands? Is two hands twice as big as one hand?
 - **predict:** Guess first. Which push will show the biggest number? Will two hands show twice as much as one hand? Why do you think so?
@@ -271,20 +271,20 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   *Parent does:* 1. Put the scale on a hard, flat floor. 2. Show how the number goes to zero with nothing on it. 3. Ask for guesses and reasons.  
   *Parent says:* This scale shows how hard something pushes on it. Which push will show the biggest number? Will two hands be twice one hand? Why?  
   *Child mode:* Which push will be biggest? Will two hands be twice one hand? Why?
-  - Note: A digital scale may need a tap with your foot to switch on. Some switch off if the push is very small. If the finger push shows zero, that is a result too.
+  - Note: Put the scale on a dry, flat, non-slip floor, and hold its edge with your foot so it does not slide. A digital scale may need a tap with your foot to switch on. Some will not show a number for a very small push. If the finger push shows zero, that is a result too. If the scale shows nothing at all, skip this experiment.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child kneels and pushes down with one finger as hard as they can, for three seconds. 2. Read the number. 3. Then one hand. 4. Then two hands. 5. Write each number.  
   *Parent says:* Push with one finger, as hard as you can. Hold it. What does it say? Now one hand. Now two hands.  
   *Child mode:* Push with one finger. Hold it. Read the number. Now one hand. Now two.
   - Ask: Which push was biggest? (good: Two hands.; Two hands showed the biggest number.)
-  - Note: Don't let your child jump on the scale, as it can break. The numbers are kilograms, the same numbers the scale shows for weight.
+  - Note: The scale shows kilograms. It is really measuring the push on it, and showing that as if it were a weight.
 - **s3 (4 min)**  
   *Parent does:* Compare the numbers. Ask whether two hands gave twice as much as one hand. Then ask the check question.  
   *Parent says:* Look at the numbers. Was two hands twice as big as one hand? Why do you think so?  
   *Child mode:* Was two hands twice one hand? Why?
   - Ask: Why might two hands not be twice as much? (good: My arms got tired.; I can only push as hard as my body can lean.)
   - Note: Two hands usually give a bigger number than one hand. Whether it is twice as much depends on how much of their body your child leans on their hands.
-  - Check: Fathima pushes the scale with one finger, then with her whole hand. Which shows the bigger number? → **Her whole hand**
+  - Check: Fathima, a girl in Class 2, pushes a scale with one finger, then with her whole hand. Which shows the bigger number? → **Her whole hand**
 
 ## Activities
 ### a1 · Who Is Pushing? A force hunt at home (12 min)
@@ -297,10 +297,10 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   - Note: If your child says 'nothing', ask why the spoon went down and not up. Then say: the Earth pulls everything down. Scientists call that pull gravity.
 - **s2 (8 min)**  
   *Parent does:* 1. Walk round the home together. 2. Find at least 8 forces. 3. For each one, ask: who or what gives the force? 4. Your child draws it in a column.  
-  *Parent says:* Let's find forces. Turn on the tap. Hold a paper near the fan. Put the magnet near the spoon. Who or what is pushing or pulling each time?  
+  *Parent says:* Let's find forces. Turn on the tap. Hold a paper near the fan. Put the magnet near the paper clip. Who or what is pushing or pulling each time?  
   *Child mode:* Find a push or a pull. Who or what gave it? Draw it.
   - Ask: Who gave the push when the fan blew the paper? (good: The wind from the fan.; The air pushed it.)
-  - Note: Good ones to try: tap water pushing a cup, the fan's wind pushing a paper, a magnet pulling a spoon, the Earth pulling a dropped ball, an ant pulling a crumb, and you pulling a drawer. Keep fingers away from the fan blades.
+  - Note: Good ones to try: tap water pushing a cup, the fan's wind pushing a paper, a magnet pulling a paper clip, the Earth pulling a dropped ball, an ant pulling a crumb, and you pulling a drawer. Keep fingers away from the fan blades.
 - **s3 (2 min)**  
   *Parent does:* Count each column. Ask the check question.  
   *Parent says:* How many forces did people and other animals give? How many did other things give? Which column has more?  
@@ -321,7 +321,7 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   - Check: With your eyes shut, how did you know a force was on your hand? → **I felt it**
 ### a3 · Kitchen Forces: make panakam and name every push and pull (15 min)
 - **safety:** A grown-up cuts the lemon with the knife.
-- **record:** Draw three kitchen forces you used. Write P for a push or L for a pull next to each.
+- **record:** Draw three kitchen forces you used. Write 'push' or 'pull' next to each.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Pull open the drawer for the spoon. 2. Pour the water into the jug. 3. Add the jaggery and stir. 4. Cut the lemon (grown-up). 5. Your child squeezes it. 6. Add the cardamom and stir again.  
   *Parent says:* Every time you push or pull, say it out loud. Opening the drawer: push or pull? Pouring water: who pulls the water down?  
@@ -355,8 +355,8 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 
 ## Challenges
 ### c1 · Catch the Secret Packet: build a hanger balance (20 min)
-- **problem:** Kavya's hand could not tell when the rice packet went into a heavy bag. Build something that shows it every time, without using your hand to feel.
-- **your turn:** Build your own packet-catcher. Does it show the packet in an empty bag? Does it still show it when each bag holds a water bottle? Draw your design.
+- **problem:** Your hand could not tell when the rice packet went into a heavy bag. Build something that shows it every time, without using your hand to feel.
+- **your turn:** Build your own packet-catcher. Does it show the packet in an empty bag? Does it still show it when each bag holds a small 500 ml water bottle? Draw your design.
 - **constraints:** Use only things from home.; You may not look inside the bag to check.; It must work for an empty bag first. Then try it with heavy bags.
 - **general:** Vegetable sellers use a two-pan balance: weights on one side, vegetables on the other.; Shops use electronic scales that show the weight as a number.; Doctors weigh babies on a scale, not by holding them.
 - **creative:** Hang two same bags from the ends of a hanger, and mark where the ends rest on a paper behind it.; Hang a single bag from a rubber band, and mark how far it stretches.; Sit the bag on a kitchen sponge and watch whether the sponge squashes a little more.
@@ -365,14 +365,14 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   *Parent says:* Your hand missed the packet in the heavy bag. What could you build that shows when it goes in?  
   *Child mode:* Your hand missed the packet. What could you build to catch it?
   - Ask: What could you use? (good: A hanger with a bag on each end.; A scale.; A rubber band that stretches more.)
-- **s2 (12 min)**  
-  *Parent does:* 1. Help your child build their idea. 2. For a hanger balance, hang one bag on each end. 3. Move the bags until the hanger hangs level. 4. Mark where the ends are. 5. Drop the packet into one bag.  
-  *Parent says:* Make it hang level first. Now drop in the packet. Did one side go down? Now put a water bottle in each bag and try again.  
+- **s2 (12 min) · grown-up needed**  
+  *Parent does:* 1. Help your child build their idea. 2. For a hanger balance, hang one bag on each end. 3. Move the bags until the hanger hangs level. 4. Mark where the ends are. 5. Drop the packet into one bag. 6. Then put a small 500 ml water bottle in each bag, make it level again, and drop the packet into one bag.  
+  *Parent says:* Make it hang level first. Now drop in the packet. Did one side go down? Now put a small 500 ml bottle in each bag and try again.  
   *Child mode:* Make it level. Drop in the packet. Did it tip?
-  - Note: With empty bags, the hanger tips clearly. With a heavy bottle in each bag, it tips only a little, so watch the pencil marks closely. A small tip still counts.
+  - Note: Hang the hanger low, from a door handle you can reach, and keep feet clear in case a bottle falls. With empty bags, the hanger tips clearly. With a bottle in each bag, it tips only a little, so watch the pencil marks closely. A small tip still counts. If it does not move at all, that is a real result. A longer stick, such as a broom handle hung from its middle by a string, can tip more.
 - **s3 (5 min)**  
   *Parent does:* Talk about what worked. Ask the check question.  
-  *Parent says:* Did your packet-catcher work with empty bags? With heavy bags? How is it like Lakshmamma's balance in the story?  
+  *Parent says:* Did your packet-catcher work with empty bags? With heavy bags? How is it like the vegetable seller's balance in the story, The Lemon in the Bag?  
   *Child mode:* Did it catch the packet? With heavy bags too?
   - Check: Two same bags hang level on a hanger. You drop a packet into the left bag. What happens? → **The left side goes down**
 
@@ -398,20 +398,20 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
    **Answer:** ['force']. *Why:* Force is the scientists' word for any push or any pull.
 9. (perspective) Meenakshi and her brother Arjun did the Secret Packet test.  
    **Answer:** Each is right about one bag. A hand feels a small change easily when it holds little, and misses it when it holds a lot. So hands are good at feeling changes compared with what they hold.. *Why:* A strong answer uses the results from both bags, and does not call either child simply wrong.
-10. (count) In the force hunt, Rani found 4 pulls and 5 pushes. How many forces did she find?  
+10. (count) Rani did the force hunt at home. She found 4 pulls and 5 pushes. How many forces did she find?  
    **Answer:** 9. *Why:* 4 and 5 more make 9. Every push and every pull is a force, so she found 9 forces.
 ### Big forces, small forces (stretch) (stretch, 10 questions)
 1. (odd) Three of these are the Earth pulling. Which one is not?  
    Options: A mango falls from a tree / Rain falls from a cloud / A kite rises in the wind / A ball rolls down a slope  
    **Answer:** 2. *Why:* The kite rises because the wind pushes it up. The Earth pulls things down, not up.
-2. (mcq) Arjun did not feel the packet go into the heavy bag. Was the packet still pulling the bag down?  
-   Options: Yes, just as much as before / No, it stopped pulling / It pulled the bag up  
-   **Answer:** Yes, just as much as before. *Why:* The Earth pulls the packet down by the same amount wherever it is. Arjun's hand missed it because the bag already pulled hard.
+2. (mcq) A bucket is pulled up a well with a rope. Is the rope's force a push or a pull?  
+   Options: A pull / A push / Not a force  
+   **Answer:** A pull. *Why:* The rope pulls the bucket up towards the person above. Every pull is a force.
 3. (order) Put the steps of the Secret Packet test in order.  
    **Answer:** order shown. *Why:* We guess first, so the test can check the guess. We count at the end to compare the two bags.
 4. (label) Look at the girl flying a kite. Write the giver next to each arrow.  
    **Answer:** ['the wind', "the girl's hands", 'the Earth']. *Why:* The wind pushes the kite up, the girl pulls the string, and the Earth pulls the kite down. One kite has three forces on it at once.
-5. (write) Kiran says: 'There are no forces in a still room.' Name two forces that are there right now.  
+5. (write) Ishita, a girl in Class 2, says: 'There are no forces in a still room.' Name two forces that are there right now. Say them out loud, and a grown-up can write them down.  
    **Answer:** The Earth is pulling everything down, like the cups on the shelf. The floor is pushing up on the chair. My clothes press on my skin.. *Why:* A strong answer names real forces that act while nothing moves, such as the Earth's pull and a shelf or floor holding things up.
 6. (draw) Draw yourself holding a heavy bag. Show where you feel the pull.  
    **Answer:** A child holding a bag, with the fingers or shoulder marked where the pull is felt.. *Why:* A strong drawing marks the fingers, hand or shoulder, where the bag pulls down.
@@ -419,13 +419,13 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
    **Answer:** True. *Why:* True. Every push is a force, whatever its size. A breeze on a feather and a storm on a tree are both forces.
 8. (sort) Big force or small force? Sort these jobs.  
    **Answer:** Lifting a feather → Small force; Pulling a full bucket up from a well → Big force; Picking up a pencil → Small force; Pushing a loaded handcart → Big force; Pressing a lift button → Small force; Lifting a full pressure cooker → Big force. *Why:* Heavy jobs need big forces and light jobs need small ones. A strong answer thinks about how heavy each thing is.
-9. (mcq) Sana pushes a bathroom scale with one finger, and it shows 2. With one hand, it shows 8. What might two hands show?  
+9. (mcq) Nila, a girl in Class 2, pushes a bathroom scale with one finger, and it shows 2 kilograms. With one hand, it shows 8 kilograms. What might two hands show?  
    Options: Less than 2 / More than 8 / Exactly 8  
    **Answer:** More than 8. *Why:* Two hands can push harder than one hand, so the number goes up. It may not be quite twice as much.
-10. (perspective) Lakshmamma sells tomatoes in a market. Her son Ravi helps her.  
+10. (perspective) Lakshmamma sells tomatoes in a market. Her son Ravi helps her. They talk about holding bags of vegetables.  
    **Answer:** A strong answer agrees with Lakshmamma for heavy bags, because a hand can miss a small extra in a heavy load. It also says Ravi is right that a hand can guess quickly, and can feel small changes in light bags.. *Why:* A strong answer uses evidence from the test and is fair to both sides.
 ### Feeling forces (challenge) (challenge, 10 questions)
-1. (write) Guess: a bag with just one water bottle. Will the packet be easier or harder to feel than in the two-bottle bag? Why?  
+1. (write) Guess: a bag with just one water bottle. Will the packet be easier or harder to feel than in the two-bottle bag? Why? Say it out loud, and a grown-up can write it down.  
    **Answer:** Easier, because the packet is a bigger part of what the hand holds when there is only one bottle.. *Why:* A strong answer uses the idea that a hand compares a change with what it already holds.
 2. (mcq) Your hand missed the packet in the heavy bag. What could help you feel it better?  
    Options: Lift the bag up and down gently / Hold the bag very, very still / Hold it behind your back  
@@ -438,19 +438,19 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
    **Answer:** False. *Why:* False. In the heavy bag, the packet still pulled down, and a balance showed it. Our hands miss small changes in big pulls.
 6. (mcq) On the space station, the astronaut Sunita Williams holds a bag of rice. What does the bag do?  
    Options: It floats, and hardly presses on her hand / It pulls her hand down hard / It pulls her hand up  
-   **Answer:** It floats, and hardly presses on her hand. *Why:* On the space station, the astronaut and the bag fall around the Earth together. So the bag does not pull down on her hand, and floats.
+   **Answer:** It floats, and hardly presses on her hand. *Why:* Inside the space station, everything floats, so the bag does not press on her hand. The Earth still pulls the bag, but the bag and the station fall around the Earth together.
 7. (fill) To compare two weights fairly, a vegetable seller uses a ____.  
    **Answer:** ['balance', 'weighing scale', 'scale']. *Why:* A balance shows small differences that a hand would miss in a heavy load.
 8. (odd) Three of these are forces. Which one is not?  
    Options: A push on a swing / The wind on a sail / The colour of a ball / A magnet pulling a pin  
    **Answer:** 2. *Why:* A colour is not a push or a pull, so it is not a force.
-9. (count) Thenmozhi got 6 right with the empty bag and 3 right with the heavy bag. How many more did she get right with the empty bag?  
-   **Answer:** 3. *Why:* 6 take away 3 is 3. She got 3 more right when the bag was empty.
-10. (write) Radha felt the packet in the heavy bag on her first try. Does that prove her hand can feel it? What should she do next?  
+9. (count) Gita, a girl in Class 2, kept a Force Diary with 9 drawings. 4 of the forces were big. How many were small?  
+   **Answer:** 5. *Why:* 9 take away 4 is 5. So 5 of her forces were small.
+10. (write) Radha did the Secret Packet test. She felt the packet in the heavy bag on her first try. Does that prove her hand can feel it? What should she do next? Say it out loud, and a grown-up can write it down.  
    **Answer:** No. One right answer could be a lucky guess. She should try many more times and count how many she gets right.. *Why:* A strong answer says that one try can be luck, and that more tries show the real pattern.
 
 ## Videos
-- **How we sense touch: the Piezo sensors behind the 2021 Nobel Prize** (, 3 min) id `to find`: Shows the tiny sensors in our nerve cells that open when skin is pressed or stretched. *Check:* Find a short, accurate clip from the Nobel Prize channel or a science museum about Ardem Patapoutian's Piezo work. Check it is suitable for a child of 7, or use it for the parent.
+- **A vegetable seller weighing on a two-pan balance** (, 2 min) id `to find`: Shows the balance from the story: the pans hang level when the weights match. *Check:* Find a short, real clip of a market seller using a two-pan balance in India. Check that the pans and the weights can be seen clearly.
 - **Thousands of people pulling the chariots at the Rath Yatra in Puri** (, 2 min) id `to find`: Shows a huge pull made by many people on ropes, a force everyone can see the effect of. *Check:* Find real news footage of the Rath Yatra chariots being pulled in Puri, Odisha. Check it shows the ropes and the crowd pulling.
 - **Astronauts on the space station showing that things float** (, 3 min) id `to find`: Shows that on the space station, a bag does not pull down on a hand. *Check:* Find a NASA or ISRO clip of astronauts letting go of objects that float inside the International Space Station.
 
@@ -470,24 +470,24 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 5. (mcq) Which job needs the biggest pull?  
    Options: Pulling a full bucket of water up from a well / Pulling a feather off a pillow / Pulling a tissue from a box  
    **Answer:** Pulling a full bucket of water up from a well. *Why:* The full bucket is heaviest, so it needs the biggest pull. A strong reason talks about how heavy the thing is.
-6. (mcq) Lakshmi, a girl in Class 2, shuts her eyes and holds an empty cloth bag. Her aunt slips in a small rice packet. What will most likely happen?  
+6. (mcq) Lakshmi, a girl in Class 2, shuts her eyes and holds an empty cloth bag. A grown-up slips in a small rice packet. What will most likely happen?  
    Options: Lakshmi feels it / Lakshmi feels nothing / The bag feels lighter  
    **Answer:** Lakshmi feels it. *Why:* The packet is a big part of what Lakshmi holds, so her hand notices the extra pull.
 7. (mcq) Now Lakshmi holds the bag with two full water bottles in it. The same packet goes in. What will most likely happen?  
    Options: She often cannot tell / She feels it every time / The bag falls  
    **Answer:** She often cannot tell. *Why:* The packet is now a tiny part of what she holds, so her hand often misses it. Choosing 'every time' may mean thinking a hand feels any small extra.
-8. (mcq) Why is the packet harder to feel in the heavy bag?  
-   Options: It is small next to everything the hand already holds / A packet pulls less in a heavy bag / Hands stop working with heavy bags  
-   **Answer:** It is small next to everything the hand already holds. *Why:* The packet pulls down just as much as before. The hand compares the change with what it holds, and in a heavy bag the change is tiny.
-9. (mcq) In the Secret Packet test, why do we try six times with each bag, not just once?  
-   Options: One right answer could be a lucky guess / Six makes the bag heavier / So our arms get tired  
-   **Answer:** One right answer could be a lucky guess. *Why:* Many tries show the real pattern. With only one try, a lucky guess could fool us.
-10. (mcq) Diya pushes a swing, and a crow pulls a twig from a broom. Which of these is a force?  
+8. (mcq) Which one of these is a pull?  
+   Options: A magnet drawing a steel pin towards itself / A foot kicking a ball / A fan blowing a paper away  
+   **Answer:** A magnet drawing a steel pin towards itself. *Why:* A magnet moves the pin towards itself, so it pulls. A kick and a fan's wind both push things away.
+9. (mcq) How can you tell that a force is big?  
+   Options: It does a big job, like lifting something heavy / You can see it clearly / It makes a loud sound  
+   **Answer:** It does a big job, like lifting something heavy. *Why:* We cannot see a force. We tell a big one from a small one by what it does.
+10. (mcq) Diya, a girl in Class 2, pushes a swing, and a crow pulls a twig from a broom. Which of these is a force?  
    Options: Both of them / Only Diya's push / Only the crow's pull  
    **Answer:** Both of them. *Why:* Every push and every pull is a force, whoever gives it.
 
 ## Applications
-- Shops weigh rice, dal and vegetables on scales, because hands miss small differences in heavy loads.
+- Shops weigh rice, dal and vegetables on scales, so every customer gets a fair amount. Hands miss small differences in heavy loads.
 - Doctors and nurses weigh newborn babies on a scale, not by holding them.
 - Many lifts have a sensor that feels the push of the people inside, and beeps if there are too many.
 - Engineers such as Allison Okamura, at Stanford University in the United States, build robot tools for surgeons that let the doctor feel how hard the tool is pushing.
@@ -514,19 +514,18 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 ## Jokes
 - Why did the kite get top marks? *Because the wind pushed it to the top of the class!*
 - What did the Earth say to the falling mango? *I've got a pull on you!*
-- Why was the fridge magnet so popular? *Everything made of steel was attracted to it!*
+- Why did the mango fall from the tree? *It was tired of hanging around!*
 - What did the lemon say when it sneaked into the heavy bag? *Nobody will feel a thing!*
 - Why did the bag of rice go to the gym? *To pull its weight!*
-- What do you call a door that only opens one way? *A push-over!*
+- What did the strong boy say to the heavy door? *I will push you open!*
 - Why did the balance never take sides? *It always wanted things level!*
 - What did the wind say to the clothes on the line? *Don't worry, I've got your back!*
-- Why did the feather lose the tug of war? *Its pull was too small!*
 
 ## Connected maths
-- In the Secret Packet test, Lakshmi got 5 right out of 6 with the empty bag. With the heavy bag, she got 3 right. How many more did she get right with the empty bag? **2 more.**. Count on from 3 to 5: 4, 5. That is 2 more. So the empty bag was easier by 2 right answers. (queues `math.addition-subtraction.meaning.L2`)
+- Lakshmi, a girl in Class 2, did the Secret Packet test. She got 5 right out of 6 with the empty bag. With the heavy bag, she got 3 right. How many more did she get right with the empty bag? **2 more.**. Count on from 3 to 5: 4, 5. That is 2 more. So the empty bag was easier by 2 right answers. (queues `math.addition-subtraction.meaning.L2`)
 - If you did not feel anything at all and just guessed 'in' or 'not in', about how many of 6 tries would you get right? **About 3.**. Each guess has two choices, and one of them is right. So about half the guesses are right. Half of 6 is 3. If you get only about 3 right with the heavy bag, you were probably guessing. (queues `math.fractions.halves-and-quarters.L2`)
-- In the force hunt, Farhan found 5 forces given by people and 7 forces given by other things, like the wind and the Earth. Make a tally of each. Which group has more, and by how many? **Other things, by 2.**. The tally shows 5 marks for people and 7 for other things. 7 is more than 5. 7 take away 5 is 2. So other givers gave 2 more forces. (queues `math.data.sorting-and-tallies.L2`)
-- Sana pushed a bathroom scale with one hand, and it showed 6. With two hands, it showed 10. Is 10 double 6? **No. Double 6 is 12, and 10 is 2 less.**. Double means two lots of the same. 6 and 6 make 12. Sana's two hands gave 10, which is less than 12. So two hands gave more than one hand, but not double. (queues `math.addition-subtraction.mental-strategies.L2`)
+- Farhan, a boy in Class 2, did the force hunt at home. He found 5 forces given by people and 7 forces given by other things, like the wind and the Earth. Make a tally of each. Which group has more, and by how many? **Other things, by 2.**. The tally shows 5 marks for people and 7 for other things. 7 is more than 5. 7 take away 5 is 2. So other givers gave 2 more forces. (queues `math.data.sorting-and-tallies.L2`)
+- Sana, a girl in Class 2, pushed a bathroom scale with one hand, and it showed 6 kilograms. With two hands, it showed 10 kilograms. Is 10 double 6? **No. Double 6 is 12, and 10 is 2 less.**. Double means two lots of the same. 6 and 6 make 12. Sana's two hands gave 10, which is less than 12. So two hands gave more than one hand, but not double. (queues `math.addition-subtraction.mental-strategies.L2`)
 
 ## Song
 Every Push, Every Pull (sci.forces.L2): Topic-level song for Forces and movement L2
@@ -553,7 +552,7 @@ Every Push, Every Pull (sci.forces.L2): Topic-level song for Forces and movement
 - Core: a1, a2, e1, g1, a3, ws-core
 
 ## Sources
-- ideas/by_topic/forces-and-movement.md, Everyday forces: the 'journal of forces noticed through a day' became the Force Diary (p1), and 'a child discovering hidden forces' became the force hunt (a1). The note that the ground pushes and holds you appears in the roots practice. Tug of war, the balloon rocket, the wall push and force arrows are in Level 3, and the box slide, the two-sided door and the push-or-pull card game are in Level 1, so this unit uses the Secret Packet test, the force hunt, the bathroom scale and the hanger balance instead.
+- ideas/by_topic/forces-and-movement.md, Everyday forces: the 'journal of forces noticed through a day' became the Force Diary (p1), and 'a child discovering hidden forces' became the force hunt (a1). The note that the ground pushes and holds you appears in the roots practice.
 - Cambridge Primary Science Stage 2, Unit 2 'Forces and movement', 2.1 Forces around us: pushes and pulls are forces, forces cannot be seen, small and big forces, and senses and forces.
 - E. H. Weber, De Pulsu, Resorptione, Auditu et Tactu: Annotationes Anatomicae et Physiologicae (Leipzig, 1834), on comparing lifted and resting weights.
 - G. T. Fechner, Elemente der Psychophysik (1860), where the rule is named after Weber.

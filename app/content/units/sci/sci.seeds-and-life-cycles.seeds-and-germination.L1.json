@@ -3,12 +3,12 @@
  "title": "Seeds: how a seed grows into a new plant",
  "level": 1,
  "summary": {
-  "text": "Plant a chana seed, and for days nothing shows above the soil. But under the soil, the seed is busy. A seed is a tiny living plant, and when they get water, they grow a root first, down into the soil. Then a shoot comes up into the light. Your child plants five chana seeds and gently digs one up each day to see what is happening underneath.",
+  "text": "Plant a chana seed, and for days nothing shows above the soil. But under the soil, the seed is busy. A seed is a tiny living plant, and when the seed gets water, the seed grows a root first, down into the soil. Then a shoot comes up into the light. Your child plants five chana seeds and gently digs one up each day to see what is happening underneath.",
   "art": "A cup of soil cut away like a cross-section, showing a chana seed with a long white root going down and a small curled shoot just reaching the top of the soil."
  },
  "intro": {
   "hook": "Hold a dry chana seed. Is this hard little ball alive? Could a whole plant come out of this seed?",
-  "text": "Every plant you know, from the tulsi on the balcony to the big neem tree on the road, began as a seed. Seeds look like small stones. But put a seed in damp soil, and a new plant grows out of them. In this unit we plant seeds and watch. We also peek under the soil, to find out what a seed does before we can see anything.",
+  "text": "Many plants you know, from the tulsi on the balcony to the big neem tree on the road, began as a seed. Seeds look like small stones. But put a seed in damp soil, and a new plant grows out of the seed. In this unit we plant seeds and watch. We also peek under the soil, to find out what a seed does before we can see anything.",
   "art": "A child's open palm holding a few dry chana seeds, with a pot of tiny green chana plants in front."
  },
  "outcomes": [
@@ -17,7 +17,7 @@
   "By the end I can say which part comes out of a seed first: the root.",
   "By the end I can say what the root does and what the shoot does.",
   "By the end I can plant a seed, look after the seed, and say what I saw each day.",
-  "By the end I can say that a seed grows into the same kind of plant they came from."
+  "By the end I can say that a seed grows into the same kind of plant as the plant that made the seed."
  ],
  "cards_mins": 8,
  "terms": [
@@ -58,11 +58,11 @@
    "status": "defined",
    "context": "This card says what is inside a seed.",
    "definition": "A seed holds a tiny baby plant and a store of food, wrapped in a seed coat.",
-   "description": "A seed looks like a small stone, but the seed is alive. Inside the hard coat there is a tiny baby plant, already with a root tip and a tiny shoot. Most of the seed is food for that baby plant. A dry seed stays still and waits, sometimes for years. When the seed gets water, the seed swells and starts to grow.",
+   "description": "A seed looks like a small stone, but the seed is alive. Inside the hard coat there is a tiny baby plant, with a store of food next to the baby plant. A dry seed waits, sometimes for years. When the seed gets water, the seed swells and starts to grow.",
    "examples": [
     "A dry chana seed in a jar stays the same for months. Soaked overnight, the chana is fat and soft by morning.",
     "Rice, wheat, chana and dal are seeds that people eat.",
-    "A mango stone is the mango tree's seed."
+    "A mango stone has the mango tree's seed inside."
    ],
    "perspectives": [],
    "art": "A big drawing of a chana seed opened up, with the seed coat, a tiny baby plant at one edge, and the two big halves full of food."
@@ -72,7 +72,7 @@
    "status": "defined",
    "context": "Remember the chana you dug up each day? This card says what you saw.",
    "definition": "When a seed sprouts, the root nearly always comes out first and grows down. The shoot comes later and grows up.",
-   "description": "The root comes out first, through the seed coat. The root grows down into the soil, drinks water and holds the seed in place. Only after that does the shoot grow. The shoot comes up curled, like a bent finger, so the tender tip is not scraped by the soil. At the top, the shoot straightens and the seed leaves open in the light. So for the first days, most of the growing happens under the soil, where we cannot see it.",
+   "description": "The root comes out first, through the seed coat. The root grows down into the soil, drinks water and holds the plant in place. Then the shoot grows up, curled like a bent finger so the soil does not scrape the tender tip. So for the first days, most of the growing happens under the soil, where we cannot see it.",
    "examples": [
     "Your chana grew a white root before any green showed above the soil.",
     "Moong sprouts in the kitchen have a white tail. That tail is the root.",
@@ -82,18 +82,18 @@
    "art": "Four chana seeds in a row on a plate, from left to right: a fat seed, a seed with a short root, a seed with a long root, and a seed with a long root and a curled shoot."
   },
   {
-   "concept": "Each seed grows into their own kind of plant",
+   "concept": "A seed grows into the same kind of plant as the plant that made the seed",
    "status": "defined",
    "context": "This card is about why a mango seed never grows into a coconut palm.",
-   "definition": "A seed grows into the same kind of plant as the plant the seed came from.",
-   "description": "Plant a pumpkin seed, and you get a pumpkin plant. Plant a chana seed, and you get a chana plant. The water and soil can be the same, but each seed grows the way their own kind grows. Big seeds do not always make big plants. A banyan seed is smaller than a grain of rai, and a banyan grows into one of the biggest trees in India.",
+   "definition": "A seed grows into the same kind of plant as the plant that made the seed.",
+   "description": "Plant a pumpkin seed, and you get a pumpkin plant. Plant a chana seed, and you get a chana plant. The size of the seed does not decide the plant. The kind of seed does.",
    "examples": [
     "Seeds from a pumpkin grow into pumpkin plants.",
     "A tamarind seed grows into a tamarind tree.",
-    "A tiny banyan seed grows into a huge banyan tree."
+    "A mango stone grows into a mango tree, never a coconut palm."
    ],
    "perspectives": [],
-   "art": "Three pairs side by side: a pumpkin seed and a pumpkin plant, a tamarind seed and a tamarind tree, and a tiny banyan seed next to a huge banyan tree."
+   "art": "Three pairs side by side: a pumpkin seed and a pumpkin plant, a tamarind seed and a tamarind tree, and a mango stone and a mango tree."
   }
  ],
  "agreed": [
@@ -128,7 +128,7 @@
    "status": "rejected"
   },
   {
-   "claim": "A plant grows their leaves first, then their roots.",
+   "claim": "Leaves grow first, and roots come later.",
    "who": "A common guess, because leaves are what we see first",
    "context": "This card is about a common guess: that leaves come before roots.",
    "for": "When we plant a seed, the first thing we see is a green shoot coming up.",
@@ -165,7 +165,7 @@
   "note": "Leela, Varun and Paati are made up. Peepal and banyan plants really do sprout from cracks in walls in Indian cities, from seeds dropped by birds, and their roots grow deep into the cracks.",
   "text": [
    "Leela lived in a flat in Chennai, at the top of an old building. She was six. Her little brother Varun was four. Every evening, they went up to the terrace with their grandmother, Paati, to take the dry clothes off the line.",
-   "One evening, Leela saw something green on the wall of the water tank. It was a tiny plant, growing out of a crack in the cement. The plant had three small leaves. Each leaf was shaped like a heart, with a long pointed tip.",
+   "One evening, Leela saw something green on the wall of the water tank. A tiny plant was growing out of a crack in the cement. The plant had three small leaves. Each leaf was shaped like a heart, with a long pointed tip.",
    "'Paati, look! Who planted a plant up here?' asked Leela.",
    "Paati bent down and looked. 'Nobody planted this one,' she said. 'This is a peepal. A peepal grows into a very big tree.'",
    "Varun laughed. 'A big tree? That's tiny! And there's no soil here. Only a wall.'",
@@ -181,7 +181,7 @@
    "So the next morning, they filled an old paint tin with soil. Paati worked the little plant out of the crack, very slowly, so the long root came out whole. Leela held the pot, and Varun poured water from a steel tumbler.",
    "Every evening after that, Leela checked the peepal. For a week, nothing changed on top. 'Is she sad?' asked Varun.",
    "'She is busy underneath,' said Leela. 'The root comes first. You'll see.'",
-   "On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. 'The root finished!' he shouted. 'Now she is growing up!'"
+   "On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. 'The peepal is growing up now!' he shouted."
   ],
   "epiphany": "Leela sees that the little peepal's root is much longer than the plant above, and understands that a seed grows down first, to find water and hold on, before the shoot grows up.",
   "ask": [
@@ -200,12 +200,12 @@
    "id": "g1",
    "title": "Whose Seed? A memory game",
    "mins": 15,
-   "players": "2 to 4 players and a grown-up",
-   "context": "This is a memory game. Half the cards are seeds and half are the plants they grow into. Players find a seed and their own plant.",
+   "players": "2 to 4 players. Anyone who cannot read yet asks another player to read the card.",
+   "context": "This is a memory game. Half the cards are seeds and half are the plants they grow into. Players match each seed to the plant that grows from the seed.",
    "printables": [
     {
      "kind": "cards",
-     "title": "16 cards to cut out and draw on",
+     "title": "16 cards to cut out. Each card has its name on it.",
      "items": [
       "A mango stone",
       "A mango tree",
@@ -227,17 +227,17 @@
     }
    ],
    "rules": [
-    "A grown-up writes one name on each card and draws it simply. Seed cards get a brown border, plant cards a green border.",
+    "Cut out the 16 cards. Colour the border of each card: brown for seeds and green for plants.",
     "Mix the cards and lay them face down in rows.",
-    "On your turn, turn over one brown card and one green card. The grown-up reads them out.",
+    "On your turn, turn over one brown card and one green card. Read them out loud.",
     "If the seed grows into that plant, keep the pair and have another turn.",
     "If not, turn both cards back over. The next player has a turn.",
-    "When all the pairs are found, each player counts their pairs. Then lay the pairs out and look: which tiny seed made the biggest plant?"
+    "When all the pairs are found, each player counts their pairs. The player with the most pairs wins, or everyone wins together if it is a tie. Then lay the pairs out and look: which tiny seed made the biggest plant?"
    ],
    "setup": [
     {
-     "art": "Sixteen small cards on a floor mat, half with brown borders showing seeds and half with green borders showing plants.",
-     "caption": "1. Draw the seeds and the plants. Lay the cards face down."
+     "art": "Sixteen small cards with names on them lying on a floor mat, half with brown borders and half with green borders.",
+     "caption": "1. Colour the borders brown and green. Lay the cards face down."
     },
     {
      "art": "A child turning over a card with a mango stone and a card with a mango tree, smiling.",
@@ -248,14 +248,14 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the 16 cards. 2. Write and draw one thing on each. 3. Mix them and lay them face down.",
+     "do": "1. Cut out the 16 cards. 2. Colour the borders: brown for seeds, green for plants. 3. Mix the cards and lay them face down.",
      "say": "Each brown card is a seed. Each green card is a plant. Can you find each seed and their own plant?",
      "kid": "Brown cards are seeds. Green cards are plants. Find the pairs."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Take turns. Each player turns one brown and one green card. Read both aloud.",
+     "do": "Take turns. Each player turns one brown and one green card. Read both out loud.",
      "say": "What did you turn over? Does this seed grow into this plant? Why do you think so?",
      "kid": "Turn one brown card and one green card. Do they go together?",
      "ask": [
@@ -272,9 +272,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Lay out all the pairs. Put them in order from the smallest seed to the biggest seed.",
+     "do": "Lay out all the pairs. Count each player's pairs. Look at the banyan pair.",
      "say": "Look at the banyan seed and the banyan tree. Which seed is smallest? Which plant is biggest?",
-     "kid": "Find the smallest seed. Find the biggest plant. Are they a pair?",
+     "kid": "Look at the tiny banyan seed. Look at the huge banyan tree. Are they a pair?",
      "check": {
       "t": "mcq",
       "q": "A banyan seed is tiny. What does a banyan seed grow into?",
@@ -286,7 +286,7 @@
       "a": 1,
       "why": "A banyan seed is smaller than a grain of rai, but a banyan grows into a huge tree. The kind of seed decides, not the size."
      },
-     "parent": "The banyan pair is the surprise. Banyan seeds are less than a millimetre across."
+     "parent": "The banyan pair is the surprise. Banyan seeds are tiny, about a millimetre across."
     }
    ]
   },
@@ -345,11 +345,11 @@
     }
    ],
    "rules": [
-    "The caller mixes the cards, then puts Dry seed on top.",
-    "The caller reads the front of a card out loud.",
+    "The caller puts the ten cards in the order they are printed, with Dry seed on top.",
+    "The caller reads the front of the top card out loud.",
     "Everyone moves the way the back of the card says. The caller reads the back if needed.",
-    "After a few cards, the caller says 'Freeze!' Everyone stays still. The caller asks one player which part of the plant they are.",
-    "Swap callers after all ten cards."
+    "After a few cards, the caller says 'Freeze!' Everyone stays still. The caller asks one player what their body is doing, and which part of the plant does that.",
+    "Swap callers after all ten cards, and play again. This time the players say what comes next before the caller reads the card."
    ],
    "setup": [
     {
@@ -365,7 +365,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Clear a space on the floor. Put the Dry seed card on top of the pile.",
+     "do": "Clear a space on the floor. Put the cards in order, with the Dry seed card on top.",
      "say": "You are a seed. Curl up small. I will read a card, and you move.",
      "kid": "Curl up small. You are a dry seed."
     },
@@ -375,23 +375,14 @@
      "do": "Read the cards one at a time. Do the moves together the first time.",
      "say": "Root! Which way does the root grow? Show me with your feet.",
      "kid": "Listen to the card. Move like that part of the plant.",
-     "ask": [
-      {
-       "q": "Which comes out first, the root or the shoot?",
-       "good": [
-        "The root.",
-        "The root comes first and goes down."
-       ]
-      }
-     ],
      "parent": "If the child shoots up before the root, say 'Root first!' and let them try again."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Say Freeze. Ask what each player is.",
-     "say": "Freeze! Which part are you? What are you doing for the plant?",
-     "kid": "Freeze! Which part are you? What do you do?",
+     "say": "Freeze! What is your body doing? Which part of the plant does that? What is that part doing for the plant?",
+     "kid": "Freeze! What is your body doing? Which part of the plant does that?",
      "check": {
       "t": "mcq",
       "q": "What does the root do for a young plant?",
@@ -411,7 +402,7 @@
   {
    "id": "e1",
    "title": "Peek Under the Soil: what does a seed do first?",
-   "mins": 35,
+   "mins": 33,
    "days": 6,
    "context": "In this experiment you plant five chana seeds in a box of soil. Each day you gently dig one up, look at the seed, and put the seed back. You find out what a seed does under the soil before you can see anything.",
    "question": "After we plant a seed, what happens under the soil before anything shows on top?",
@@ -433,7 +424,7 @@
      "qty": 1
     },
     {
-     "item": "a small plastic box, a cut-off milk packet or a pot, with a few holes poked in the bottom",
+     "item": "a small plastic box, a cut-off milk packet or a pot, with a few holes poked in the bottom, on a plate or tray",
      "qty": 1
     },
     {
@@ -457,7 +448,7 @@
     },
     {
      "day": 1,
-     "mins": 12,
+     "mins": 10,
      "what": "Plant 5 seeds, each next to a numbered stick. Guess what will happen."
     },
     {
@@ -483,13 +474,13 @@
     {
      "day": 6,
      "mins": 4,
-     "what": "Look for seed 5's shoot coming up. Say what you found out."
+     "what": "Look for seed 5's shoot coming up. If it is not up, look again each day."
     }
    ],
    "record": "Each day, draw the seed you dug up, as big as your hand. On day 5, put the drawings in a row.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results",
+    "title": "Made-up example results. Your seeds may be a day faster or slower.",
     "cols": [
      "Seed",
      "Day",
@@ -514,12 +505,12 @@
      [
       "4",
       "Day 5",
-      "A long root. The curled shoot almost at the top of the soil."
+      "A long root. A curled shoot, growing up."
      ],
      [
       "5",
       "Day 6",
-      "A green shoot showing above the soil."
+      "A green shoot, or a small bump, showing above the soil."
      ]
     ]
    },
@@ -544,13 +535,13 @@
      "do": "In the evening, put 6 whole chana seeds in a bowl. Cover them with water.",
      "say": "We are going to plant chana seeds tomorrow. Tonight they soak in water. Feel how hard they are now.",
      "kid": "Feel the hard chana. Put them in the water. They soak all night.",
-     "parent": "Use whole chana, not dal. Split dal has lost the baby plant's root tip, so dal cannot sprout.",
+     "parent": "Use whole chana, not dal. Split dal is damaged where the baby plant sits, so dal does not sprout.",
      "wait": "Plant the seeds tomorrow morning."
     },
     {
      "id": "s2",
-     "mins": 6,
-     "do": "1. Fill the box with soil, 3 fingers deep. 2. Push 5 sticks into the soil, in a row, a hand apart. 3. Next to each stick, push one seed down one finger-joint deep. 4. Cover with soil. 5. Sprinkle water until the soil is damp.",
+     "mins": 8,
+     "do": "1. Fill the box with soil, 3 fingers deep. 2. Push 5 sticks into the soil, in a row, a hand apart. 3. Next to each stick, push one seed down one finger-joint deep. 4. Cover with soil. 5. Sprinkle water until the soil is damp. 6. Put the box by a bright window, out of hot afternoon sun.",
      "say": "Feel the chana now. What has changed since last night? Now let's plant each seed next to a stick.",
      "kid": "Feel the chana. Are they hard or soft? Plant one seed next to each stick.",
      "ask": [
@@ -581,7 +572,8 @@
        ]
       }
      ],
-     "parent": "Any guess is fine. Many children guess that a leaf comes first, or that nothing happens in the dark. Don't tell them what will happen. Keep the box by a window, out of hot afternoon sun."
+     "parent": "Any guess is fine. Many children guess that a leaf comes first, or that nothing happens in the dark. Don't tell them what will happen.",
+     "wait": "Come back tomorrow, on day 2."
     },
     {
      "id": "s4",
@@ -600,12 +592,12 @@
       }
      ],
      "parent": "Handle the seed by the sides, not the white tip. Put the seed back quickly, root down. Most replanted seeds keep growing.",
-     "wait": "Come back tomorrow, on day 2."
+     "wait": "Come back tomorrow, on day 3."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Dig up seed 2 the same way. Put the drawing next to yesterday's drawing.",
+     "do": "On day 3, dig up seed 2 the same way. Draw it and put the drawing next to yesterday's drawing.",
      "say": "Here is seed 2. Which way is the white part growing? Up or down?",
      "kid": "Dig up seed 2. Which way is the white part going?",
      "ask": [
@@ -617,14 +609,42 @@
        ]
       }
      ],
-     "parent": "On day 3 the root is usually as long as a fingernail. In a cold room it may be a day slower. Dig up seed 3 the same way on day 4.",
-     "wait": "Come back on day 3 and day 4."
+     "parent": "On day 3 the root is usually as long as a fingernail. In a cold room it may be a day slower.",
+     "wait": "Come back tomorrow, on day 4."
     },
     {
      "id": "s6",
+     "mins": 4,
+     "do": "Dig up seed 3 the same way. Put the drawing next to the others.",
+     "say": "Here is seed 3. Is the root longer than yesterday? Is anything else coming out?",
+     "kid": "Dig up seed 3. Is the root longer? What else is coming out?",
+     "ask": [
+      {
+       "q": "What is different from seed 2?",
+       "good": [
+        "The root is longer.",
+        "There are little side roots.",
+        "A curled shoot is starting."
+       ]
+      }
+     ],
+     "parent": "Seed 3 usually has a long root, often with little side roots.",
+     "wait": "Come back tomorrow, on day 5."
+    },
+    {
+     "id": "s7",
+     "mins": 4,
+     "do": "On day 4, dig up seed 3 the same way. Draw it and put the drawing in the row.",
+     "say": "Here is seed 3. Is the root longer than yesterday? Is anything new coming out?",
+     "kid": "Dig up seed 3. Is the root longer? Is anything new coming out?",
+     "parent": "On day 4 the root is usually long, with little side roots, and a curled shoot may be starting. Everything may be a day slower in a cold room.",
+     "wait": "Come back tomorrow, on day 6."
+    },
+    {
+     "id": "s8",
      "mins": 5,
-     "do": "1. Dig up seed 4. 2. Look at the top of the soil by stick 5. 3. Put all four drawings in a row, from seed 1 to seed 4.",
-     "say": "Look at your drawings in a row. What came out first? What came next? Is anything showing above the soil yet?",
+     "do": "1. On day 5, dig up seed 4. 2. Look at the top of the soil by stick 5. 3. Put all four drawings in a row, from seed 1 to seed 4.",
+     "say": "Seed 5 is coming up now. But was the seed doing nothing before today? What did you find out?",
      "kid": "Look at all your drawings. What came out first? What came next?",
      "ask": [
       {
@@ -653,14 +673,14 @@
       "a": 1,
       "why": "A seed grows a root first. The root grows down, drinks water and holds on. The shoot comes later."
      },
-     "parent": "Seed 4 usually has a long root and a curled shoot near the top. If the seeds smell bad or rot, the soil was too wet: try again with damp, not soggy, soil.",
-     "wait": "Come back on day 5."
+     "parent": "Ask for the claim (the root comes first), the evidence (the four drawings) and the reason (the root needs to drink and hold on). Chana can need 6 to 10 days to show above the soil, so if seed 5 is not up, wait a few more days.",
+     "wait": "Come back on day 6."
     },
     {
-     "id": "s7",
+     "id": "s9",
      "mins": 4,
-     "do": "Look for the green shoot of seed 5 coming up. Ask your child to say what they found out.",
-     "say": "Seed 5 is coming up now. But was the seed doing nothing before today? What did you find out?",
+     "do": "On day 6, look at the top of the soil by stick 5 for a green shoot. If it is not up yet, look again each day. Ask your child to say what they found out.",
+     "say": "Look at seed 5. Is a green shoot up yet? For days nothing showed on top, but was the seed doing nothing? What did you find out?",
      "kid": "Look at seed 5. Was the seed busy before we saw anything? Say what you found.",
      "ask": [
       {
@@ -672,8 +692,7 @@
        ]
       }
      ],
-     "think": "For four days, nothing showed on top. What else might be growing where we cannot see?",
-     "parent": "Ask for the claim (the root comes first), the evidence (the four drawings) and the reason (the root needs to drink and hold on). If seed 5 is not up yet, wait a day or two."
+     "parent": "Ask for the claim (the root comes first), the evidence (the four drawings) and the reason (the root needs to drink and hold on). Chana can take 6 to 10 days to show above the soil, so wait a few days if seed 5 is not up."
     }
    ]
   },
@@ -681,14 +700,13 @@
    "id": "e2",
    "title": "Big Seed, Small Seed: who sprouts first?",
    "mins": 20,
-   "days": 4,
+   "days": 3,
    "context": "In this experiment you put rajma, moong and rai seeds on wet tissue, side by side. You watch to find out which kind shows a root first.",
    "question": "Does a big seed sprout faster than a small seed?",
    "predict": "Guess first. Which seed will show a root first: the big rajma, the middle moong, or the tiny rai? Why do you think so?",
    "fair_test": "All three kinds soak for the same time, sit on the same wet tissue on one plate, and get the same water in the same place. Only the kind of seed is different.",
    "results_table": [
     "Seed",
-    "Day 1: root?",
     "Day 2: root?",
     "Day 3: root?"
    ],
@@ -707,6 +725,10 @@
     },
     {
      "item": "a spoon and a cup of water",
+     "qty": 1
+    },
+    {
+     "item": "a tea strainer",
      "qty": 1
     }
    ],
@@ -750,12 +772,13 @@
      "do": "In the evening, put 6 rajma, 6 moong and 6 rai in three small bowls. Cover each with water.",
      "say": "Look at the three kinds of seed. Which is the biggest? Which is the smallest?",
      "kid": "Look at the three seeds. Which is biggest? Which is smallest?",
-     "wait": "Lay them out tomorrow morning."
+     "wait": "Lay them out tomorrow morning.",
+     "parent": "Do not eat these seeds raw: raw rajma is poisonous. Small seeds must stay out of mouths and noses, so keep the plate away from small children. Soaked rai goes slimy. That is normal."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Wet the tissue on the plate. 2. Drain the seeds. 3. Lay them in three rows. 4. Ask for a guess and a reason.",
+     "do": "1. Wet the tissue on the plate. 2. Pour each bowl through a tea strainer to drain the seeds. 3. Lay them in three rows. 4. Ask for a guess and a reason.",
      "say": "Which seed will show a root first? Why do you think so?",
      "kid": "Put the seeds in three rows. Which will show a root first? Why?",
      "ask": [
@@ -763,7 +786,7 @@
        "q": "Why do you think so?",
        "good": [
         "The rajma, because rajma are biggest and strongest.",
-        "The rai, because it is small and quick."
+        "The rai, because they are small and quick."
        ]
       }
      ],
@@ -794,17 +817,6 @@
        ]
       }
      ],
-     "check": {
-      "t": "mcq",
-      "q": "On the rajma, the moong and the rai, what came out first?",
-      "options": [
-       "The root",
-       "A leaf",
-       "A flower"
-      ],
-      "a": 0,
-      "why": "Big seed or small seed, the root comes out first on every one."
-     },
      "parent": "A big seed takes longer to soak up enough water, which is probably part of why rajma are slower. The kind of seed matters too."
     }
    ]
@@ -855,7 +867,7 @@
      "mins": 3,
      "do": "Put two of each seed on the plate. Let your child look at and touch each one.",
      "say": "These are all seeds. Each one has a tiny baby plant inside. Feel each kind. Which is smooth? Which is wrinkly?",
-     "kid": "These are all seeds. Touch each one. Which is smooth? Which is bumpy?",
+     "kid": "These are all seeds. Touch each one. Which is smooth? Which is wrinkly?",
      "parent": "Chana is wrinkly, rajma is smooth and shiny, groundnut has a thin papery skin, moong is small and smooth."
     },
     {
@@ -872,12 +884,13 @@
         "Big and smooth, so rajma."
        ]
       }
-     ]
+     ],
+     "parent": "Small seeds can choke a young child. Stay beside your child, and keep the seeds out of mouths and noses."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the last question.",
+     "do": "Ask your child what would grow if each seed were planted.",
      "say": "All of these are seeds. What would happen if we planted each one?",
      "kid": "What would grow from each seed?",
      "ask": [
@@ -885,7 +898,7 @@
        "q": "What would grow from the groundnut?",
        "good": [
         "A groundnut plant.",
-        "A new plant, the same kind as their parent plant."
+        "A new groundnut plant, the same kind as the plant the seed came from."
        ]
       }
      ],
@@ -934,7 +947,7 @@
      "do": "Mix the seeds on the floor. Your child lines them up on the strip, smallest to biggest.",
      "say": "Can you put these seeds in a line, from the smallest to the biggest?",
      "kid": "Put the seeds in a line. Smallest first. Biggest last.",
-     "parent": "Rai is smallest, then moong, chana, rajma, groundnut, and a mango stone is the biggest."
+     "parent": "Rai is smallest, then moong, then chana. Rajma and groundnut are close in size, so either order is fine. A mango stone is the biggest."
     },
     {
      "id": "s2",
@@ -978,7 +991,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Wash the seeds. Count ten. Dry them for planting."
+     "what": "Wash the seeds. Count ten. Spread them to dry for two days."
     }
    ],
    "record": "Draw one seed and the fruit they came from.",
@@ -1058,7 +1071,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Fill the cup with soil. Plant 4 seeds, one finger-joint deep. Water. Give your plant a name."
+     "what": "Fill the cup with soil. Plant 4 seeds, one finger-joint deep. Water. Give each plant a name."
     },
     {
      "day": 3,
@@ -1073,12 +1086,12 @@
     {
      "day": 9,
      "mins": 4,
-     "what": "Look at the seed leaves. Are they the same shape as the later leaves?"
+     "what": "Look at the seed leaves. Is a tiny new leaf in the middle yet? Is it the same shape?"
     },
     {
      "day": 14,
      "mins": 10,
-     "what": "Draw your plants. Tell the family the story of your seed, from plate to plant."
+     "what": "Draw your plants. Compare the seed leaves with the newer leaves. Tell someone at home the story of your seed, from plate to plant."
     }
    ],
    "record": "Draw your cup on day 1, day 6 and day 14.",
@@ -1097,8 +1110,8 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Fill the cup with soil. 2. Push 4 seeds in, one finger-joint deep, flat side down. 3. Cover and sprinkle water until the soil is damp. 4. Put the cup on a saucer by a bright window.",
-     "say": "These seeds came from our pumpkin. Let's plant them. What do you think will grow? What name shall we give your plant?",
-     "kid": "Push 4 seeds into the soil. Cover them. Sprinkle water. Give your plant a name.",
+     "say": "These seeds came from our pumpkin. Let's plant them. What do you think will grow? What name shall we give each plant?",
+     "kid": "Push 4 seeds into the soil. Cover them. Sprinkle water. Give each plant a name.",
      "parent": "Poke holes in the bottom so extra water drains out. Soggy soil makes seeds rot."
     },
     {
@@ -1115,33 +1128,24 @@
      "do": "Look for curled shoots coming up. Draw the cup.",
      "say": "Look! What is coming up? Why do you think the shoot is curled over?",
      "kid": "Look for a curled shoot. Draw what you see.",
-     "ask": [
-      {
-       "q": "What was the seed doing before the shoot came up?",
-       "good": [
-        "Growing a root under the soil.",
-        "The root came first."
-       ]
-      }
-     ],
      "parent": "Pumpkin and melon seeds usually come up in 4 to 8 days in warm weather. Tomato seeds can take up to 2 weeks. In a cold room, they take longer.",
      "wait": "Come back on day 9."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "Look at the seed leaves and the first true leaf.",
-     "say": "Look at the first two leaves, the seed leaves. Now look at the new leaf in the middle. Are they the same shape?",
-     "kid": "Look at the first two leaves. Look at the new leaf. Same shape or different?",
-     "parent": "Pumpkin seed leaves are smooth and round. The true leaves are big, rough and wavy at the edges.",
+     "do": "Look at the seed leaves. Look for a tiny new leaf in the middle, if it has come yet.",
+     "say": "Look at the first two leaves, the seed leaves. Is a tiny new leaf in the middle yet? If so, is it the same shape?",
+     "kid": "Look at the first two leaves. Draw one.",
+     "parent": "Pumpkin seed leaves are smooth and round. The true leaves come a little later and are big, rough and wavy at the edges. If you cannot see one yet, look again on day 14.",
      "wait": "Come back on day 14."
     },
     {
      "id": "s5",
      "mins": 10,
-     "do": "Your child draws the plants and tells the family the story, from the plate to the plant.",
-     "say": "Tell everyone your seed's story. Where did the seed come from? What came out first? What happened next?",
-     "kid": "Tell your family the story of your seed. Where did the seed come from? What grew first?",
+     "do": "Your child draws the plants and compares the seed leaves with the newer leaves. Then your child tells someone at home the story, from plate to plant.",
+     "say": "Tell your story. Where did the seed come from? What came out first? What happened next? Are the newer leaves the same shape as the seed leaves?",
+     "kid": "Tell someone at home the story of your seed. Where did the seed come from? What grew first?",
      "ask": [
       {
        "q": "What kind of plant grew from the pumpkin seed?",
@@ -1202,12 +1206,12 @@
      "do": "Show a dry tissue and a wet tissue. Leave a wet tissue on a plate and come back in the evening.",
      "say": "If nobody waters the seeds, what happens to the tissue? How could we keep the tissue wet without pouring water?",
      "kid": "What happens to wet tissue if nobody waters it? How could we keep it wet?",
-     "parent": "On a warm day, a thin wet tissue can dry in a few hours."
+     "parent": "On a warm day, a thin wet tissue can dry in a few hours. For step 2, soak a handful of moong the evening before."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child picks an idea, or invents one, and builds it with your help.",
+     "do": "Your child picks an idea, or invents one, and builds it with your help, using the moong soaked the night before.",
      "say": "Which idea will you try? Why do you think it will keep the tissue wet?",
      "kid": "Pick an idea. Build it. Say why you think it will work.",
      "ask": [
@@ -1218,7 +1222,8 @@
         "The lid stops the water drying away."
        ]
       }
-     ]
+     ],
+     "parent": "A grown-up cuts any plastic bottle. Do not eat these sprouts. They are for looking."
     },
     {
      "id": "s3",
@@ -1323,10 +1328,10 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: for four days nothing showed above the soil. Was the seed doing nothing? How do you know?",
+     "p": "Say it to a grown-up, who writes it down: feel a dry chana and a soaked chana. How are they different? Why?",
      "lines": 2,
-     "a": "No. The seed was growing a root under the soil. We saw the root when we dug up the seeds.",
-     "why": "A strong answer uses what the child saw when they dug up the seeds.",
+     "a": "The soaked chana is fat and soft. It drank water. The dry chana is hard and small.",
+     "why": "A strong answer says what the child felt and says that the seed took in water.",
      "how": "e1"
     },
     {
@@ -1386,14 +1391,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Remember the race between rajma, moong and rai on wet tissue? Which usually showed a root first?",
+     "p": "Remember when you put rajma, moong and rai on wet tissue? Which usually showed a root first?",
      "opts": [
       "The big rajma",
       "The small moong and rai",
       "None of them"
      ],
      "a": 1,
-     "why": "Small seeds like moong and rai usually sprout first. A big seed takes longer to soak up enough water.",
+     "why": "Small seeds like moong and rai usually sprout first. A big seed usually takes longer to soak up enough water.",
      "how": "e2"
     },
     {
@@ -1405,7 +1410,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a young plant with their root and shoot. Draw an arrow to show which way each one grows.",
+     "p": "Draw a young plant. Show the root and the shoot, with an arrow for the way each one grows.",
      "a": "The root with an arrow pointing down, the shoot with an arrow pointing up.",
      "why": "Roots grow down into the soil and shoots grow up into the light."
     },
@@ -1413,7 +1418,7 @@
      "t": "truefalse",
      "p": "Split dal can sprout, just like whole moong.",
      "a": false,
-     "why": "False. Splitting the seed breaks off the baby plant's root tip, so split dal cannot sprout. Whole seeds can."
+     "why": "False. Splitting the seed damages the baby plant's root tip, so split dal does not sprout. Whole, raw seeds can."
     },
     {
      "t": "sort",
@@ -1440,7 +1445,7 @@
        "Will not sprout"
       ],
       [
-       "pumpkin seeds",
+       "raw pumpkin seeds",
        "Will sprout"
       ],
       [
@@ -1450,17 +1455,6 @@
      ],
      "a": "as given",
      "why": "Whole, raw seeds have a living baby plant inside. Roasting kills the baby plant, and splitting breaks off the root tip. A marble was never alive."
-    },
-    {
-     "t": "mcq",
-     "p": "Gurpreet, a girl in Amritsar, says: a big seed always grows a big plant. Which seed shows she is wrong?",
-     "opts": [
-      "A coconut",
-      "A banyan seed",
-      "A mango stone"
-     ],
-     "a": 1,
-     "why": "A banyan seed is tiny, and a banyan grows into a huge tree. So the size of a seed is not what matters."
     },
     {
      "t": "label",
@@ -1516,6 +1510,13 @@
      ],
      "a": "pairs as given",
      "why": "Each part has a job. The seed coat protects the seed while the seed waits."
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down: many people think a seed needs sunlight to start growing. How could you test this with two cups of damp soil and some chana?",
+     "lines": 3,
+     "a": "Plant soaked chana in two cups. Keep one cup in the light and one in a dark cupboard. Give both the same water. See which seeds grow a root.",
+     "why": "A strong answer changes only the light and keeps the seeds, soil and water the same."
     }
    ]
   }
@@ -1613,7 +1614,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi plants a pumpkin seed. What will grow?",
+   "p": "Lakshmi, a girl in Class 1, plants a pumpkin seed. What will grow?",
    "opts": [
     "A mango tree",
     "A pumpkin plant",
@@ -1622,19 +1623,6 @@
    "a": 1,
    "why": "A seed grows into the same kind of plant the seed came from.",
    "outcome": 5
-  },
-  {
-   "t": "mcq",
-   "p": "Farhan planted chana two days ago. Nothing shows on top. What is the chana doing?",
-   "opts": [
-    "Nothing",
-    "Growing a root under the soil",
-    "Turning into a stone"
-   ],
-   "a": 1,
-   "why": "Under the soil, the seed grows a root first. The shoot shows later.",
-   "outcome": 2,
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -1651,7 +1639,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya plants seeds in a cup. What should she do every few days?",
+   "p": "Kavya, a girl in Class 1, plants seeds in a cup. What should she do every few days?",
    "opts": [
     "Touch the soil and water if dry",
     "Pour in water until the cup overflows",
@@ -1664,19 +1652,31 @@
   },
   {
    "t": "mcq",
-   "p": "Which tiny seed grows into a huge tree?",
+   "p": "The shoot comes up bent over, like a finger. Why?",
    "opts": [
-    "A rai seed",
-    "A banyan seed",
-    "A moong seed"
+    "So the soil does not scrape the soft tip",
+    "So the shoot can hide from the sun",
+    "Because the shoot is tired"
    ],
-   "a": 1,
-   "why": "A banyan seed is tiny, smaller than rai, and grows into a huge tree.",
-   "outcome": 5
+   "a": 0,
+   "why": "The bent shoot pushes up with its back first, so the soft tip stays safe.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Where do pumpkin seeds come from?",
+   "opts": [
+    "From inside the pumpkin",
+    "From the roots",
+    "From the soil"
+   ],
+   "a": 0,
+   "why": "A pumpkin holds many seeds. Each seed has a tiny baby pumpkin plant inside.",
+   "outcome": 0
   }
  ],
  "applications": [
-  "Farmers sow seeds of rice, ragi, wheat and cotton when the soil is damp, often just as the monsoon rains come.",
+  "Farmers sow seeds of rice, ragi and cotton when the soil is damp, often just as the monsoon rains come.",
   "Families sprout moong, chana and methi in the kitchen to eat.",
   "People plant mango, jackfruit and tamarind seeds to grow trees that give fruit for many years.",
   "Seed banks keep seeds of many crops dry and cold, so the crops can be grown again in the future."
@@ -1699,8 +1699,8 @@
    "art": "A thick bed of young green rice seedlings, with a woman farmer lifting a bundle of them."
   },
   {
-   "text": "A tomato or chilli plant who came up on their own in a pot, from a seed in the kitchen waste.",
-   "art": "A balcony pot with a small tomato plant who came up on their own next to the main plant."
+   "text": "A tomato or chilli plant coming up in a pot from a seed in the kitchen waste, though nobody planted a seed there.",
+   "art": "A balcony pot with a small tomato plant coming up next to the main plant."
   }
  ],
  "open_questions": [
@@ -1710,7 +1710,7 @@
   },
   {
    "q": "How long can a seed stay alive and wait?",
-   "why_open": "Some seeds have sprouted after about 2,000 years. Nobody knows how long the longest-lasting seeds could wait."
+   "why_open": "Seeds can wait a very long time, but nobody knows the longest a seed can wait."
   },
   {
    "q": "What is it like for a root to feel the soil?",
@@ -1721,7 +1721,7 @@
   "Which seeds did you eat today? Could any of them grow?",
   "When you see a plant on a wall, how did the seed get there?",
   "If you were a seed, would you grow your root or your shoot first? Why?",
-  "Is our tulsi's root bigger or smaller than the part we can see?",
+  "Is the root of a pot plant at home bigger or smaller than the part we can see?",
   "Where do the seeds in a papaya or a tomato go if nobody eats them?"
  ],
  "jokes": [
@@ -1730,74 +1730,70 @@
    "a": "Nobody gave them a drink to wake up!"
   },
   {
-   "j": "What did the root say to the shoot?",
-   "a": "You go up, I've got this down here!"
+   "j": "Why did the root never get lost?",
+   "a": "She always knew which way was down!"
   },
   {
    "j": "Why was the seed so good at hide and seek?",
    "a": "They grew their root where nobody could see!"
   },
   {
-   "j": "What do you call a chana who just had a bath?",
-   "a": "Soaked and ready!"
-  },
-  {
-   "j": "Why did the pumpkin seed smile?",
-   "a": "They knew they would grow into a pumpkin, not a pebble!"
-  },
-  {
-   "j": "What did the tiny banyan seed say to the big coconut?",
-   "a": "Size isn't everything!"
+   "j": "Why did the chana stay in the bowl all night?",
+   "a": "They were having a long bath!"
   },
   {
    "j": "Why did the shoot come up bent over?",
    "a": "To bow and say hello to the sunlight!"
   },
   {
-   "j": "What is a seed's favourite game?",
-   "a": "Root, shoot, and grow!"
+   "j": "Why did the root go to every cricket match?",
+   "a": "To root for the home team!"
   },
   {
-   "j": "Why did the moong win the race?",
-   "a": "They had a head start, with a white tail!"
+   "j": "Why did the little seed get a gold star?",
+   "a": "Because they came up with a great idea!"
+  },
+  {
+   "j": "Where do seeds go to learn?",
+   "a": "Seed-ondary school!"
   }
  ],
  "maths": [
   {
    "problem": "You planted 5 chana seeds. You dug up one each day for 4 days. How many seeds were never dug up?",
    "answer": "1 seed was never dug up.",
-   "explain": "5 take away 4 is 1. That was seed 5, who came up by themself.",
+   "explain": "5 take away 4 is 1. That was seed 5, left to grow in the soil.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
    "context": "This is about the five chana seeds in the Peek Under the Soil test.",
-   "why_maths": "Counting the seeds tells us which one was left to come up on their own."
+   "why_maths": "Counting the seeds tells us which one was left in the soil."
   },
   {
-   "problem": "On day 3 the root was 2 fingernails long. On day 5 the root was 6 fingernails long. Did the root grow more between day 3 and day 5, or was the root already long on day 3?",
-   "answer": "The root grew a lot more. 6 is 4 more than 2.",
-   "explain": "Count on from 2 to 6: 3, 4, 5, 6. That is 4 more fingernails. The root grew faster as the days went on.",
+   "problem": "Seed 2's root was 1 fingernail long. Seed 4's root was 5 fingernails long. How many fingernails longer was seed 4's root?",
+   "answer": "Seed 4's root was 4 fingernails longer.",
+   "explain": "Count on from 1 to 5: 2, 3, 4, 5. That is 4 more fingernails.",
    "math_unit": "math.length.comparing-length.L1",
    "how": "e1",
    "context": "This is about the chana roots in the Peek Under the Soil test.",
-   "why_maths": "Comparing two lengths shows that the root kept growing fast under the soil."
+   "why_maths": "Comparing two lengths shows how much the root grew."
   },
   {
-   "problem": "In the seed race, 6 moong had roots on day 1, but only 1 rajma did. Which kind sprouted faster? How many more moong had roots?",
+   "problem": "Imagine a test like Big Seed, Small Seed. On day 2, 6 moong had roots, but only 1 rajma did. Which kind sprouted faster? How many more moong had roots?",
    "answer": "The moong sprouted faster. 5 more moong had roots.",
    "explain": "6 is more than 1. 6 take away 1 is 5.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e2",
-   "context": "This is about the Big Seed, Small Seed race.",
-   "why_maths": "Comparing two numbers tells us which kind of seed won the race, without guessing."
+   "context": "This is about the Big Seed, Small Seed test.",
+   "why_maths": "Comparing two numbers tells us which kind of seed was first, without guessing."
   },
   {
-   "problem": "Put these seeds in order from smallest to biggest: rajma, rai, mango stone, moong.",
-   "answer": "Rai, moong, rajma, mango stone.",
-   "explain": "Rai is tiniest, then moong, then rajma. A mango stone is much bigger than all of them.",
-   "math_unit": "math.measurement-basics.comparing-and-non-standard.L1",
-   "how": "a2",
-   "context": "This is about the Line Up the Seeds activity.",
-   "why_maths": "Putting seeds in order of size lets us ask if bigger seeds grow bigger plants."
+   "problem": "You counted 10 pumpkin seeds. You plant 4 of them in a cup. How many seeds are left to dry and keep?",
+   "answer": "6 seeds are left.",
+   "explain": "10 take away 4 is 6. You can check: 6 and 4 make 10.",
+   "math_unit": "math.addition-subtraction.word-problems.L1",
+   "how": "a3",
+   "context": "This is about the pumpkin seeds in What's in the Pumpkin? and the project Plant a Seed from Your Plate.",
+   "why_maths": "Taking away shows how many seeds we still have to plant later."
   }
  ],
  "song": {
@@ -1831,7 +1827,7 @@
    "url": "",
    "kind": "place",
    "where": "Mumbai",
-   "why": "A large old garden with many kinds of trees, near the city centre."
+   "why": "A large old garden with many kinds of trees."
   }
  ],
  "buy": [
@@ -1849,20 +1845,12 @@
  ],
  "warmup": [
   {
-   "q": "What grows out of a seed?",
-   "a": "A new plant."
+   "q": "Name two seeds that people eat.",
+   "a": "For example chana, rajma, moong, rice or wheat."
   },
   {
-   "q": "What does a seed need to start growing?",
-   "a": "Water."
-  },
-  {
-   "q": "What comes out of a seed first?",
-   "a": "The root."
-  },
-  {
-   "q": "Which way does a root grow?",
-   "a": "Down, into the soil."
+   "q": "What is inside a seed, besides the baby plant?",
+   "a": "A store of food."
   },
   {
    "q": "What will a mango stone grow into?",
@@ -1870,7 +1858,11 @@
   },
   {
    "q": "Can split dal sprout?",
-   "a": "No. Only whole seeds can sprout."
+   "a": "No. Only whole, raw seeds can sprout."
+  },
+  {
+   "q": "Is a dry seed alive?",
+   "a": "Yes. A dry seed is alive and waits for water."
   }
  ],
  "plan": {
@@ -1923,7 +1915,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md: Week 7.0 'Let grow and grow' (plant a seed, name the plant, water every day, record progress). Used in the project, where the child names their plant. The Vavilov SCI card was left for a higher level."
+   "Week 7.0 'Let grow and grow': plant a seed, name the plant, water the plant and record progress. Used in the project, where the child names their plant."
   ],
   "science": [
    "Germination is completed when the radicle (embryonic root) emerges through the seed coat. In almost all flowering plants the radicle emerges before the shoot. Bewley and others, Seeds: Physiology of Development, Germination and Dormancy (Springer, 3rd edition 2013).",
@@ -1939,20 +1931,20 @@
  "roots": {
   "context": "We planted chana, dug them up day by day, and saw what a seed does under the soil. Now we ask what that tells us about plants, and about ourselves.",
   "deep_truth": {
-   "truth": "Our chana showed nothing above the soil for four days. Under the soil, each one had already grown a long root. A seed grows down first, to drink and hold on. Only then does the shoot come up into the light.",
+   "truth": "Our chana showed nothing above the soil for days. Under the soil, each one had already grown a root. A seed grows a root down first, to drink and hold on. Only then does the shoot come up into the light.",
    "habit": "We judge whether something is growing by what we can see. Above the soil nothing seemed to happen, yet the first days of a plant's life were busy underground.",
-   "evidence": "In Peek Under the Soil, seed 1 had a tiny root tip, seed 2 a root as long as a fingernail, seed 3 a long root with side roots, and seed 4 a long root with a curled shoot. Only after that did seed 5's shoot show above the soil."
+   "evidence": "In Peek Under the Soil, the dug-up seeds showed a root that got longer each day: a tiny tip on seed 1, a root as long as a fingernail on seed 2, and a long root on seed 3. A curled shoot came last."
   },
   "three": {
-   "who_am_i": "You grew where nobody could see too, for nine months before you were born.",
+   "who_am_i": "You also grew out of sight, for nine months before you were born.",
    "what_is_life": "A living seed senses water and which way is down, and chooses where to grow, even in the dark.",
    "what_is_this_world": "Under every pot, field and forest, roots are growing where we cannot see. Much of the world's living happens out of sight."
   },
-  "thread": "A seed starts in the dark, with no light to guide them. The root feels which way is down and grows towards water. The shoot feels which way is up and grows towards the light. One tiny seed becomes two parts going two ways, down into the soil and up into the sky. The plant joins the ground and the air.",
+  "thread": "A seed starts in the dark. The root senses which way is down and grows towards water. The shoot grows up towards the light. So one tiny seed becomes two parts going two ways, down into the soil and up into the air.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
-    "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Shvetaketu says he sees nothing inside. Uddalaka says the great banyan tree grows from that very fine thing which he cannot see.",
+    "teaching": "Uddalaka asks his son Shvetaketu to break open a banyan fruit, and then one of its tiny seeds. Shvetaketu says he sees nothing inside. Uddalaka says the great banyan tree grows from that very fine thing which he cannot see.",
     "link": "Our chana showed nothing on top for days, yet a whole root was growing. A big plant starts from something too small, or too hidden, to see."
    },
    {
@@ -1982,18 +1974,19 @@
    "kid": "Stand with bare feet. Close your eyes. Press your feet down. Slowly lift your arms up. Breathe in. Breathe out."
   },
   "ask": [
-   "The chana was busy under the soil while we saw nothing. What else might be busy where we cannot see?",
-   "In the dark, how does a root know which way is down?",
-   "Was the dry chana in the jar asleep, or awake and waiting?"
+   "If we had waited five days before looking, what would we have missed?",
+   "A tulsi on the balcony has roots too. Where are they, and what are they doing right now?",
+   "What did your chana need from you, and what did the chana do by itself?"
   ],
   "art": "A child standing barefoot with arms raised, next to a cup of soil cut away to show a chana seedling with a long root going down and a shoot going up."
  },
  "how_we_found_out": {
   "context": "How long can a seed stay alive? This card tells the true story of a very old seed.",
-  "story": "In the 1960s, archaeologists digging at Masada, an old fort on a hill in Israel, found date seeds in a jar. The seeds were about 2,000 years old. Most people thought seeds that old must be long dead. The seeds sat in a drawer for about 40 years. Then a doctor and scientist, Sarah Sallon, wondered if they could still grow. She asked a plant scientist, Elaine Solowey, to try. In January 2005, Elaine Solowey soaked three of the seeds and planted them. After about eight weeks, one seed sent up a shoot. The team named the young date palm Methuselah, after a very old man in the Bible. Bits of the seed coat were still stuck to the roots, so scientists could test how old the seed was. The seed was about 2,000 years old. In 2008 the team wrote about it in the journal Science. At that time, Methuselah was the oldest seed ever known to grow into a plant. The tiny baby plant inside had stayed alive and waited for water for 2,000 years.",
+  "story": "In the 1960s, archaeologists digging at Masada, an old fort on a hill in Israel, found date seeds in a jar. The seeds were about 2,000 years old. Most people thought seeds that old must be long dead. The seeds sat in a drawer for about 40 years. Then a doctor and scientist, Sarah Sallon, wondered if they could still grow. She asked a plant scientist, Elaine Solowey, to try. In January 2005, Elaine Solowey soaked three of the seeds and planted them. After about eight weeks, one seed sent up a shoot. The team named the young date palm Methuselah, after a very old man in the Bible. Scientists tested a small piece of a leftover seed from the same place, and found the seed was about 2,000 years old. In 2008 the team wrote about it in the journal Science. At that time, Methuselah was the oldest seed ever known to grow into a plant. The tiny baby plant inside had stayed alive and waited for water for 2,000 years.",
   "who": "Sarah Sallon, a doctor and scientist, and Elaine Solowey, a plant scientist, in Israel",
   "when": "The seeds were found in the 1960s. Planted in January 2005. Reported in the journal Science in 2008.",
   "wrong_idea": "That seeds thousands of years old must be dead. One 2,000-year-old date seed planted by Elaine Solowey sprouted and grew into a palm.",
   "art": "A woman in a greenhouse kneeling beside a small young date palm in a pot, with an old clay jar of seeds on a bench behind her."
- }
+ },
+ "playtest": "Walked the unit as a parent and a 6-year-old in a city flat. Fixed: the chana test now has one step per day, so steps (33 min), schedule, wait lines and dug-up seeds all agree and a step for digging up seed 3 was added; the seed-leaf day is checked gently. Memory game now has a winner; the moving game reads cards in order so shoot never comes before root. Removed repeated exercises (Farhan quiz, two same questions, repeated deep questions), unchecked video entries and weak jokes, and fixed pronouns, the sort list, maths numbers and the Masada seed-age line."
 }

@@ -70,7 +70,7 @@
    "status": "defined",
    "context": "This card says what a cloud is made of.",
    "definition": "A cloud is made of millions and millions of tiny drops of water, or tiny bits of ice, floating in the air.",
-   "description": "From far away, a cloud looks soft and solid, like cotton. Up close, it is wet mist. People who walk on hills in Munnar or Shillong sometimes walk right through a cloud. It feels cool and damp, and tiny drops collect on their hair. Each cloud drop is far thinner than a hair. There are so many of them that, all together, they hide the sky behind them.",
+   "description": "From far away, a cloud looks soft and solid, like cotton. Up close, it is wet mist. People who walk on hills in Munnar or Shillong sometimes walk right through a cloud, and tiny drops collect on their hair. Each cloud drop is far thinner than a hair.",
    "examples": [
     "Walking through a cloud on a hill road feels like cool, wet mist.",
     "Tiny drops collect on your hair and clothes inside a cloud.",
@@ -84,7 +84,7 @@
    "status": "defined",
    "context": "This card explains what you saw in the torch beam, when the mist drifted and the spoon drop fell fast.",
    "definition": "Every drop falls, but a tiny drop falls very slowly. The air pushes against it as it falls, and for a tiny drop that push matters a lot.",
-   "description": "In the torch beam, the drop from the spoon fell in a blink. The tiny drops of mist drifted, and some floated for many seconds. A cloud drop is even smaller than a mist drop. It falls less than one centimetre each second. Air in the sky is often rising, and rising air easily carries such tiny drops up. That is why a cloud can float, even though it is made of water. A big raindrop falls several metres each second, about as fast as a person cycling. Clouds are heavy. Peggy LeMone, a cloud scientist in the United States, worked out that one small puffy cloud holds about 500 tonnes of water. That is about as heavy as 100 elephants. Yet the cloud floats, because that water is split into tiny, slow drops.",
+   "description": "In the torch beam, the drop from the spoon fell in a blink. The tiny drops of mist drifted, and some floated for many seconds. A cloud drop is even smaller than a mist drop. It falls only about a centimetre each second, and rising air in the sky easily carries it up. A big raindrop falls several metres each second, about as fast as a person cycling. A small puffy cloud holds about 500 tonnes of water, as heavy as 100 elephants, says Peggy LeMone, a cloud scientist in the United States. Yet it floats, because that water is split into tiny, slow drops.",
    "examples": [
     "The spoon drop fell straight to the floor.",
     "The mist drifted slowly in the torch beam.",
@@ -98,7 +98,7 @@
    "status": "defined",
    "context": "This card explains what you saw in the spray plate test, when the tiny drops clung on until they joined.",
    "definition": "Inside a cloud, tiny drops bump into each other and join. When a drop has grown big and heavy enough, it falls as rain.",
-   "description": "On your steel plate, the first sprays left tiny drops that stayed still. As you sprayed more, the drops grew, touched and joined. Only a big drop ran down. Inside a cloud, the same kind of joining happens again and again. One raindrop holds about as much water as a million cloud drops. In very tall clouds, the top is freezing cold. There, tiny bits of ice grow, join and fall. They melt into raindrops on the way down.",
+   "description": "On your steel plate, the first sprays left tiny drops that stayed still. As you sprayed more, the drops grew, touched and joined. Only a big drop ran down. Inside a cloud, the same joining happens again and again. In very tall clouds the top is freezing cold, and tiny bits of ice grow there, join and fall. They melt into raindrops on the way down.",
    "examples": [
     "On the plate, many tiny drops joined into one drop that ran down.",
     "On a window in the rain, a big drop races down and swallows the small drops in its way.",
@@ -112,7 +112,7 @@
    "status": "defined",
    "context": "This card explains how water from the sea, rivers and wet clothes ends up in a cloud.",
    "definition": "The Sun warms water in seas, rivers, ponds and wet things, and the water evaporates into the air as invisible water vapour. High in the sky the air is cold, and the vapour condenses into tiny drops. That is a cloud.",
-   "description": "Water is always evaporating, from the Bay of Bengal, from the Kaveri, from a puddle and from the wet clothes on your balcony. The water vapour mixes into the air, and you cannot see it. Warm air rises. The higher it goes, the colder it gets. When the air is cold enough, the vapour condenses into tiny drops, each one round a speck of dust or sea salt too small to see. Millions of drops together make a cloud. When the drops join and fall as rain, the water comes back down to the land and the sea.",
+   "description": "Water is always evaporating, from the Bay of Bengal, from the Kaveri, from a puddle and from the wet clothes on your balcony. The water vapour mixes into the air, and you cannot see it. Warm air rises, and the higher it goes, the colder it gets. When the air is cold enough, the vapour condenses into tiny drops, each one round a speck of dust or sea salt too small to see. Millions of these drops together make a cloud.",
    "examples": [
     "Wet clothes dry because their water evaporates into the air.",
     "Monsoon winds carry damp air from the sea over Kerala and the Western Ghats.",
@@ -126,7 +126,7 @@
    "status": "defined",
    "context": "This card explains why some clouds are white and others are dark grey.",
    "definition": "A thin cloud lets plenty of sunlight through, so it looks white. A very thick cloud stops most of the light before it reaches the bottom, so its underside looks grey or nearly black.",
-   "description": "All clouds are made of the same clear water drops. A white cloud and a grey cloud are not different kinds of water. A thick cloud has many more drops, piled up high. The light gets spread out by so many drops that little comes out of the bottom. A thick cloud also has more water, and its drops have more chances to join. That is why dark grey clouds are the ones that usually bring rain. Joanne Simpson, the first woman to earn a doctorate in weather science, spent her life studying tall rain clouds over warm seas, like the clouds of India's monsoon.",
+   "description": "All clouds are made of the same clear water drops. A thick cloud has many more drops, piled up high, and so many drops spread the light out that little comes out of the bottom. A thick cloud also has more water, and its drops have more chances to join. That is why dark grey clouds are the ones that usually bring rain. Joanne Simpson, the first woman to earn a doctorate in weather science, spent her life studying tall rain clouds over warm seas.",
    "examples": [
     "Thin white clouds on a sunny morning rarely rain.",
     "Before a monsoon storm, the sky turns dark grey.",
@@ -186,11 +186,6 @@
  ],
  "big_questions": [
   {
-   "q": "A cloud weighs as much as many elephants. So why doesn't it fall?",
-   "kind": "deep",
-   "hint": "Think about the mist in the torch beam. Did the tiny drops fall fast or slowly?"
-  },
-  {
    "q": "Why do some clouds rain, and others float away without a drop?",
    "kind": "deep",
    "hint": "On the plate, what had to happen before a drop ran down?"
@@ -212,7 +207,7 @@
   }
  ],
  "how_we_found_out": {
-  "story": "If clouds are made of water, why do they float? Water is much heavier than air. In the 1700s, many scientists in Europe had an answer. They said the specks in a cloud are tiny hollow bubbles, like soap bubbles, filled with air. A hollow bubble is very light, so it floats. Some even said they had seen rainbow colours on these bubbles. Horace-Bénédict de Saussure, a Swiss scientist who climbed the Alps to study the air, believed in the bubbles too. Then, in 1846, Augustus Waller, a young doctor in London, looked at the mist above hot water through a microscope. He saw solid round drops, not hollow bubbles. He sent his findings to the Royal Society, a famous science society in London, and they were printed in 1847. Other scientists agreed with him in the years after. Today we know a cloud is made of solid water drops. They float because they are so tiny that they fall very slowly, and rising air carries them up.",
+  "story": "If clouds are made of water, why do they float? Water is much heavier than air. In the 1700s, many scientists in Europe had an answer. They said the specks in a cloud are tiny hollow bubbles, like soap bubbles, filled with air. A hollow bubble is very light, so it floats. Horace-Bénédict de Saussure, a Swiss scientist who climbed the Alps to study the air, believed in the bubbles too. Then, in 1846, Augustus Waller, a doctor in London, looked at the mist above hot water through a microscope. He saw solid round drops, not hollow bubbles. He sent his findings to the Royal Society, a famous science society in London, and they were printed in 1847. Other scientists agreed with him in the years after. Today we know a cloud is made of solid water drops. They float because they are so tiny that they fall very slowly, and rising air carries them up.",
   "who": "Horace-Bénédict de Saussure, a Swiss scientist who believed cloud specks were bubbles, and Augustus Waller, a doctor in London who looked at them with a microscope",
   "when": "The 1700s (the bubble idea) and 1846 (Waller's microscope study, printed in 1847)",
   "wrong_idea": "That cloud specks are tiny hollow bubbles filled with air, which is why they float. Waller's microscope showed solid round drops instead.",
@@ -271,12 +266,12 @@
   {
    "id": "e1",
    "title": "The Spray Plate: how many sprays until a drop runs down?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you spray a fine mist onto a steel plate, one spray at a time. You count how many sprays it takes before a drop grows big enough to run down. It shows how a cloud's tiny drops turn into rain.",
    "question": "When tiny drops of mist land on a plate, do they run down straight away? How many sprays does it take before a drop runs down?",
    "predict": "When I spray the plate once, will the water run down straight away? How many sprays do you think it will take before a drop runs down? Why do you think so?",
-   "fair_test": "We stand the plate the same way each time, and spray from the same distance, one ruler length away. We spray once at a time and count every spray. We wipe the plate dry before each try. We do three tries, because one try can be a fluke.",
+   "fair_test": "We stand the plate the same way each time, and spray from the same distance, one ruler length away. We spray once at a time and count every spray. We wipe the plate dry before each try. We do three tries, because one try can be just by chance.",
    "results_table": [
     "Try",
     "My guess: how many sprays?",
@@ -287,7 +282,7 @@
     {
      "item": "a spray bottle that makes a fine mist, such as the one used for ironing clothes or for plants, filled with water",
      "qty": 1,
-     "buy": "If you have none, a small plastic spray bottle costs about 50 rupees at a hardware or plastics shop. Or dip an old toothbrush in water and run your thumb over the bristles to flick a fine spray."
+     "buy": "If you have none, a small plastic spray bottle is cheap at a hardware or plastics shop. Or dip an old toothbrush in water and run your thumb over the bristles to flick a fine spray."
     },
     {
      "item": "a steel plate, or the flat lid of a steel dabba",
@@ -313,7 +308,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Guess. Spray the plate one spray at a time and count until a drop runs down. Do it three times. Say what you found."
     }
    ],
@@ -331,19 +326,19 @@
      [
       "1",
       "1 spray",
-      "11",
+      "9",
       "Tiny dots like rava, then fat drops like mustard seeds"
      ],
      [
       "2",
       "8 sprays",
-      "14",
+      "13",
       "The same: tiny dots first, then they joined"
      ],
      [
       "3",
       "12 sprays",
-      "12",
+      "10",
       "The big drop swallowed the small drops on its way down"
      ]
     ]
@@ -369,8 +364,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Stand the plate on its edge on the tray, leaning against a wall. 2. Turn the nozzle to its finest mist. 3. Show your child the plate and the bottle.",
+     "mins": 3,
+     "do": "1. Do this in the kitchen or bathroom, where a wet wall does not matter. 2. Stand the plate on its edge on the tray, leaning against the wall. 3. Turn the nozzle to its finest mist. 4. Show your child the plate and the bottle.",
      "say": "I am going to spray a fine mist onto this plate, one spray at a time. Will the water run down straight away? How many sprays will it take? Why do you think so?",
      "kid": "Look at the plate and the spray bottle. Will the water run down at once? Guess how many sprays. Say why.",
      "ask": [
@@ -387,7 +382,7 @@
     },
     {
      "id": "s2",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Your child holds the bottle one ruler length from the plate. 2. They spray once. 3. You both look closely at the plate from the side.",
      "say": "Spray once. Now look very closely. What is on the plate? Is anything moving?",
      "kid": "Spray once. Look very closely at the plate. What do you see? Does anything move?",
@@ -405,7 +400,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Your child sprays one spray at a time, with a short wait between. 2. You make one tally mark for each spray. 3. Stop when the first drop runs down. 4. Count the marks together.",
      "say": "Keep spraying, one at a time. I will make a mark for each spray. Watch the drops. Shout stop when one runs down.",
      "kid": "Spray again, one at a time. Watch the drops grow. Shout stop when one runs down.",
@@ -423,9 +418,9 @@
     },
     {
      "id": "s4",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Wipe the plate completely dry. 2. Do the test again, from the same distance, counting every spray. 3. Dry it and do it a third time. 4. Write all three numbers in the table.",
-     "say": "Let us do it twice more, the same way, in case the first try was a fluke. Did you get the same number each time?",
+     "say": "Let us do it twice more, the same way, in case the first try was just by chance. Did you get the same number each time?",
      "kid": "Wipe the plate dry. Do it again. Then once more. Write your three numbers.",
      "ask": [
       {
@@ -440,8 +435,8 @@
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "1. Ask your child for a claim, the evidence and a reason. 2. Then tell them about clouds. 3. Drip one spoonful drop onto the dry plate and watch it run at once.",
+     "mins": 3,
+     "do": "1. Ask your child why the tiny drops stayed still and what made one run down. 2. Then tell them about clouds. 3. Take one big drop on the tip of a spoon, about as big as a pea. Touch it to the dry plate near the top and watch it run.",
      "say": "Why did the first sprays not run down? What had to happen first? Now watch one big drop from a spoon. A cloud is made of drops even tinier than the mist.",
      "kid": "Why did the tiny drops stay still? What made one run down? Now watch a big spoon drop.",
      "ask": [
@@ -453,7 +448,7 @@
        ]
       }
      ],
-     "parent": "Wait for your child's reason before you explain. The spoon drop runs down at once, because it is already big and heavy. Tiny drops cling on until many have joined.",
+     "parent": "Wait for your child's reason before you explain. A big drop like this usually runs down at once, because it is already big and heavy. If it clings, add a second drop to it. Tiny drops cling on until many have joined.",
      "check": {
       "t": "mcq",
       "q": "Why did the tiny drops from the first spray stay on the plate?",
@@ -471,9 +466,9 @@
   {
    "id": "e2",
    "title": "Raindrops in Atta: are all raindrops the same size?",
-   "mins": 20,
+   "mins": 40,
    "days": 1,
-   "context": "In this experiment you catch real raindrops in a plate of flour. Each drop makes a little ball of dough, so you can see how big it was. Do it on a rainy day, from a balcony or a window.",
+   "context": "In this experiment you catch real raindrops in a plate of flour. Each drop makes a little ball of dough, so you can see how big it was. Do it on a rainy day, from a balcony or a window. You need a rainy day. If it is not raining, keep this for the next rainy day.",
    "question": "Are all raindrops the same size, or are some big and some small?",
    "predict": "When we catch raindrops in flour, will all the dough balls be the same size? Why do you think so?",
    "fair_test": "We hold the plate out for just 3 seconds, so the drops don't land on top of each other. We use a smooth, flat layer of flour. We sort the balls by size only after they have dried a little.",
@@ -508,8 +503,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
-     "what": "On a rainy day, hold the flour plate out in the rain for 3 seconds. Let the balls firm up for 20 minutes, sieve them out and sort them by size."
+     "mins": 40,
+     "what": "On a rainy day, hold the flour plate out in the rain for 3 seconds. Leave it indoors for 20 minutes while the balls firm up. Then sieve them out and sort them by size."
     }
    ],
    "record": "Draw the three circles. Put the dough balls in the right circle and count them. Write the numbers under each circle.",
@@ -582,8 +577,16 @@
     },
     {
      "id": "s3",
+     "mins": 20,
+     "do": "1. Take the plate in at once. 2. Put it somewhere dry indoors and do not shake it. 3. Leave it for 20 minutes, so the dough balls firm up.",
+     "say": "Now we wait 20 minutes, so the dough balls can firm up. While we wait, watch the rain from the window.",
+     "kid": "Wait 20 minutes. Watch the rain from the window.",
+     "wait": "Leave the plate for at least 20 minutes before sieving."
+    },
+    {
+     "id": "s4",
      "mins": 10,
-     "do": "1. Leave the plate for 20 minutes, so the dough balls firm up. 2. Gently sieve the flour with a tea strainer. 3. Your child sorts the balls onto the three circles and counts them.",
+     "do": "1. Gently sieve the flour with a tea strainer. 2. Your child sorts the balls onto the three circles. 3. Count the balls in each circle together.",
      "say": "Let us sieve out the balls. Put each one in the right circle. Which circle has the most?",
      "kid": "Sieve out the dough balls. Put each one in a circle. Count them.",
      "ask": [
@@ -594,11 +597,10 @@
         "There were many sizes, not just one."
        ]
       }
-     ],
-     "wait": "Leave the plate for at least 20 minutes before sieving."
+     ]
     },
     {
-     "id": "s4",
+     "id": "s5",
      "mins": 3,
      "do": "Ask your child why the raindrops were different sizes.",
      "say": "Why were some raindrops big and some small? Think about the spray plate.",
@@ -612,7 +614,7 @@
        ]
       }
      ],
-     "parent": "Raindrops grow by joining, and each drop meets a different number of others, so sizes vary. If it is not raining today, save this for the next rainy day.",
+     "parent": "Raindrops grow by joining, and each drop meets a different number of others, so sizes vary.",
      "check": {
       "t": "mcq",
       "q": "Why were the raindrops in the flour different sizes?",
@@ -830,7 +832,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Each of you picks one big drop near the top. 2. Follow it down with a finger on the dry side of the glass. 3. Count how many small drops it swallows.",
+     "do": "1. Each of you picks one big drop near the top. 2. Follow it down with a finger held just in front of the glass. 3. Count how many small drops it swallows.",
      "say": "Pick a racer. Follow it down. Count each small drop it swallows. What happens to its speed?",
      "kid": "Pick a big drop. Follow it down. Count the small drops it swallows.",
      "ask": [
@@ -875,126 +877,36 @@
      "kind": "cards",
      "title": "30 drop cards to cut out",
      "items": [
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "1 tiny drop",
-       "b": "Add 1."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "2 tiny drops",
-       "b": "Add 2."
-      },
-      {
-       "f": "3 tiny drops",
-       "b": "Add 3."
-      },
-      {
-       "f": "3 tiny drops",
-       "b": "Add 3."
-      },
-      {
-       "f": "3 tiny drops",
-       "b": "Add 3."
-      },
-      {
-       "f": "3 tiny drops",
-       "b": "Add 3."
-      },
-      {
-       "f": "3 tiny drops",
-       "b": "Add 3."
-      },
-      {
-       "f": "3 tiny drops",
-       "b": "Add 3."
-      },
-      {
-       "f": "4 tiny drops",
-       "b": "Add 4."
-      },
-      {
-       "f": "4 tiny drops",
-       "b": "Add 4."
-      },
-      {
-       "f": "4 tiny drops",
-       "b": "Add 4."
-      },
-      {
-       "f": "4 tiny drops",
-       "b": "Add 4."
-      },
-      {
-       "f": "Sun card",
-       "b": "The Sun warms your cloud. One card of your choice evaporates: put it back under the pile."
-      },
-      {
-       "f": "Sun card",
-       "b": "The Sun warms your cloud. One card of your choice evaporates: put it back under the pile."
-      },
-      {
-       "f": "Sun card",
-       "b": "The Sun warms your cloud. One card of your choice evaporates: put it back under the pile."
-      },
-      {
-       "f": "Sun card",
-       "b": "The Sun warms your cloud. One card of your choice evaporates: put it back under the pile."
-      }
+      "●  1 tiny drop",
+      "●  1 tiny drop",
+      "●  1 tiny drop",
+      "●  1 tiny drop",
+      "●  1 tiny drop",
+      "●  1 tiny drop",
+      "●  1 tiny drop",
+      "●  1 tiny drop",
+      "● ●  2 tiny drops",
+      "● ●  2 tiny drops",
+      "● ●  2 tiny drops",
+      "● ●  2 tiny drops",
+      "● ●  2 tiny drops",
+      "● ●  2 tiny drops",
+      "● ●  2 tiny drops",
+      "● ●  2 tiny drops",
+      "● ● ●  3 tiny drops",
+      "● ● ●  3 tiny drops",
+      "● ● ●  3 tiny drops",
+      "● ● ●  3 tiny drops",
+      "● ● ●  3 tiny drops",
+      "● ● ●  3 tiny drops",
+      "● ● ● ●  4 tiny drops",
+      "● ● ● ●  4 tiny drops",
+      "● ● ● ●  4 tiny drops",
+      "● ● ● ●  4 tiny drops",
+      "Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile.",
+      "Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile.",
+      "Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile.",
+      "Sun card: the Sun warms your cloud. Choose one of your drop cards. It evaporates: put it back under the pile."
      ]
     },
     {
@@ -1002,8 +914,7 @@
      "title": "Raindrop score sheet",
      "items": [
       "Player name",
-      "Raindrops made (draw one raindrop for each)",
-      "Total drops joined"
+      "Raindrops made (draw one raindrop for each)"
      ]
     }
    ],
@@ -1011,9 +922,9 @@
     "Cut out the 30 cards. Shuffle them and put them face down in a pile. This pile is the cloud.",
     "Take turns. On your turn, take the top card from the pile and put it face up in front of you. Add up all your drops.",
     "When your drops add up to exactly 10, you have made a raindrop. It falls. Draw a raindrop on the score sheet and put those cards aside.",
-    "If your drops add up to more than 10, the drop is too big and splits. Put your last card back under the pile.",
-    "If you take a Sun card, choose one of your drop cards to evaporate, and put it back under the pile with the Sun card.",
-    "When the pile is used up, or after 15 minutes, the player with the most raindrops wins."
+    "If your drops add up to more than 10, the drop is too big and splits. Put the card you just took back under the pile.",
+    "If you take a Sun card, choose one of your drop cards to evaporate. Put it back under the pile, with the Sun card. If you have no drop cards, just put the Sun card back under the pile.",
+    "When the pile is used up, or after 15 minutes, the player with the most raindrops wins. If you have the same number, you both win."
    ],
    "setup": [
     {
@@ -1072,74 +983,39 @@
    "id": "g2",
    "title": "Float, Join, Fall! A cloud drop moving game",
    "mins": 10,
-   "players": "2 or more players, best with 3 to 6",
-   "context": "This is a moving game. Everyone is a tiny cloud drop. When the caller says 'Bump!', drops join hands. When enough drops have joined, they fall as rain.",
+   "players": "2 to 6 players",
+   "context": "This is a moving game. Everyone is a tiny cloud drop. When a card says 'Bump!', drops join hands. When a card says 'Rain!', the joined drops fall.",
    "printables": [
     {
      "kind": "cards",
-     "title": "12 caller cards to cut out",
+     "title": "12 action cards to cut out",
      "items": [
-      {
-       "f": "Float",
-       "b": "Drift slowly around the room on tiptoe, arms out wide."
-      },
-      {
-       "f": "Float",
-       "b": "Drift slowly around the room on tiptoe, arms out wide."
-      },
-      {
-       "f": "Float",
-       "b": "Drift slowly around the room on tiptoe, arms out wide."
-      },
-      {
-       "f": "Rising air",
-       "b": "Float up: stretch up as tall as you can and drift."
-      },
-      {
-       "f": "Rising air",
-       "b": "Float up: stretch up as tall as you can and drift."
-      },
-      {
-       "f": "Bump!",
-       "b": "Join hands with the nearest drop or group."
-      },
-      {
-       "f": "Bump!",
-       "b": "Join hands with the nearest drop or group."
-      },
-      {
-       "f": "Bump!",
-       "b": "Join hands with the nearest drop or group."
-      },
-      {
-       "f": "Bump!",
-       "b": "Join hands with the nearest drop or group."
-      },
-      {
-       "f": "Rain!",
-       "b": "Any group of 3 or more falls: crouch down and pat the floor like rain."
-      },
-      {
-       "f": "Rain!",
-       "b": "Any group of 3 or more falls: crouch down and pat the floor like rain."
-      },
-      {
-       "f": "Sun",
-       "b": "Rain on the floor evaporates: let go of hands, stand up slowly and float again."
-      }
+      "Float: drift slowly around the room on tiptoe, arms out wide.",
+      "Float: drift slowly around the room on tiptoe, arms out wide.",
+      "Float: drift slowly around the room on tiptoe, arms out wide.",
+      "Rising air: stretch up as tall as you can and drift.",
+      "Rising air: stretch up as tall as you can and drift.",
+      "Bump! Join hands with the nearest drop or group.",
+      "Bump! Join hands with the nearest drop or group.",
+      "Bump! Join hands with the nearest drop or group.",
+      "Bump! Join hands with the nearest drop or group.",
+      "Rain! Every group of two or more people falls: crouch down and pat the floor like rain. A drop on its own is too small, and keeps floating.",
+      "Rain! Every group of two or more people falls: crouch down and pat the floor like rain. A drop on its own is too small, and keeps floating.",
+      "Sun: the rain on the floor evaporates. Let go of hands, stand up slowly and float again."
      ]
     }
    ],
    "rules": [
-    "Clear a space in the room. One person is the caller, and everyone else is a tiny cloud drop.",
-    "The caller shuffles the 12 cards, turns them over one at a time and reads them out.",
-    "Everyone does what the card says. Drops who have joined hands move together as one bigger drop.",
-    "With only 2 players, a group of 2 can fall as rain.",
-    "Take turns being the caller. Play until all the cards have been read twice."
+    "Clear a space in the room. Everyone is a tiny cloud drop. Shuffle the 12 cards and put them in a pile, face down.",
+    "Take turns to turn over the top card and read it out. Everyone, including the reader, does what it says.",
+    "Drops who have joined hands move together as one bigger drop.",
+    "On Rain!, every group of two or more falls. A drop on its own keeps floating. If nobody has joined hands yet, nobody falls.",
+    "With 2 players, you join into one group of two. With 3 or more, make as many groups as you can.",
+    "When the pile is finished, shuffle it and read through it once more. Then the game ends."
    ],
    "setup": [
     {
-     "art": "Children drifting on tiptoe around a cleared room with arms out wide, and a mother holding up a card that says 'Float'.",
+     "art": "Children drifting on tiptoe around a cleared room with arms out wide, and a grown-up holding up a card that says 'Float'.",
      "caption": "1. Everyone is a tiny drop. Float around the room."
     },
     {
@@ -1151,15 +1027,15 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Clear a space. 2. Cut out and shuffle the cards. 3. Choose the first caller.",
+     "do": "1. Clear a space. 2. Cut out and shuffle the cards. 3. Choose who reads the first card.",
      "say": "You are all tiny cloud drops. Tiny drops are light, so you float slowly. Listen for the cards.",
      "kid": "You are a tiny cloud drop. Float slowly on tiptoe. Listen to the caller."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. The caller reads out one card at a time. 2. Everyone acts it out. 3. Swap callers halfway.",
-     "say": "Bump! Join hands with the drop nearest you. Now you are a bigger drop. Rain! Who is big enough to fall?",
+     "do": "1. Turn over one card at a time and read it out. 2. Everyone acts it out. 3. Pass the pile to the next person after each card.",
+     "say": "Bump! Join hands with the drop nearest you. Now you are a bigger drop. Rain! Who is joined up and can fall?",
      "kid": "Do what the card says. Join hands on Bump. Fall on Rain.",
      "ask": [
       {
@@ -1194,7 +1070,7 @@
   {
    "id": "p1",
    "title": "Grey Sky, Rainy Day? Four weeks of sky pictures",
-   "mins": 60,
+   "mins": 77,
    "days": 28,
    "context": "In this project you draw the sky once a day for four weeks, and mark whether it rained. At the end you count: do grey-cloud days bring more rain than white-cloud days?",
    "materials": [
@@ -1251,11 +1127,11 @@
     },
     {
      "id": "s2",
-     "mins": 2,
+     "mins": 52,
      "do": "Each day, your child draws the sky and marks rain or no rain.",
      "say": "Time for the sky book. What is the sky like today? Did it rain?",
      "kid": "Look at the sky. Draw it in today's box. Mark a raindrop if it rained.",
-     "wait": "Do this once a day from day 2 to day 27."
+     "wait": "Do this once a day from day 2 to day 27. It takes about 2 minutes each day."
     },
     {
      "id": "s3",
@@ -1272,7 +1148,7 @@
        ]
       }
      ],
-     "parent": "Most families find that rain came mostly on grey days. Some grey days stay dry too. A grey sky makes rain more likely, not certain."
+     "parent": "You will probably find that rain came mostly on grey days. Some grey days stay dry too. A grey sky makes rain more likely, not certain."
     }
    ]
   }
@@ -1281,7 +1157,7 @@
   {
    "id": "c1",
    "title": "A Rain Shelter for a Paper Doll",
-   "mins": 25,
+   "mins": 20,
    "problem": "Make a shelter that keeps a small paper doll dry in a 'rainstorm' of 20 sprays from a spray bottle.",
    "constraints": [
     "Use only things from home.",
@@ -1325,7 +1201,7 @@
     },
     {
      "id": "s2",
-     "mins": 12,
+     "mins": 7,
      "do": "Your child chooses materials and builds a shelter on the tray.",
      "say": "Which things will keep water out? Which will soak it up? How will the water get away?",
      "kid": "Pick your materials. Build your shelter. Where will the water go?",
@@ -1395,19 +1271,6 @@
      ],
      "a": "pairs as given",
      "why": "These are the main words of the unit. A strong answer links each word to what really happens."
-    },
-    {
-     "t": "mcq",
-     "p": "In the spray plate test, what did the water do after just one spray?",
-     "opts": [
-      "It ran straight down",
-      "It stayed on the plate as tiny drops",
-      "It vanished at once"
-     ],
-     "a": 1,
-     "why": "After one spray the plate was covered in tiny drops that stayed still. They were too small to run down. Picking 'ran straight down' is the guess most people make before they try it.",
-     "context": "This question is about the spray plate test. You spray fine mist on a steel plate, one spray at a time, and count the sprays until a drop runs down.",
-     "how": "e1"
     },
     {
      "t": "draw",
@@ -1507,7 +1370,7 @@
     },
     {
      "t": "perspective",
-     "p": "Anjali and Tara, two sisters in Mysuru, look at a big white cloud on a sunny day.",
+     "p": "Anjali and Tara, two sisters in Mysuru, look at a small white cloud on a sunny day.",
      "views": [
       {
        "who": "Anjali, aged 8",
@@ -1518,10 +1381,23 @@
        "says": "It is white and thin. It won't rain from that cloud."
       }
      ],
-     "ask": "Who do you agree with more? Give one reason. Then say one thing the other sister has right.",
+     "ask": "Who do you agree with more? Give one reason. Then say one thing the other sister has right. Say it, and a grown-up writes it.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, such as 'white clouds are thinner, so they rain less'. It also says what the other gets right, such as 'every cloud does hold water'.",
      "why": "Both have a point. Every cloud is made of water, as Anjali says. But a thin white cloud rarely rains, as Tara says. Thick grey clouds hold more water, and their drops have more chances to join."
+    },
+    {
+     "t": "mcq",
+     "p": "On a rainy window, a big drop runs down. What happens to the small drops in its way?",
+     "opts": [
+      "The big drop joins them and gets bigger",
+      "The big drop jumps over them",
+      "The small drops push the big drop back up"
+     ],
+     "a": 0,
+     "why": "A big drop that meets small drops joins them and grows. Drops in a cloud grow the same way.",
+     "context": "This question is about the window race. You watch drops on a window and follow a big drop as it runs down.",
+     "how": "a3"
     }
    ]
   },
@@ -1551,30 +1427,11 @@
      "why": "Water goes up as invisible vapour, becomes tiny drops in the cold, and falls only after the drops join."
     },
     {
-     "t": "mcq",
-     "p": "In the torch beam, the spoon drop fell in a blink. What did the mist do?",
-     "opts": [
-      "It fell just as fast",
-      "It drifted slowly, and some floated",
-      "It went up to the ceiling and stayed there"
-     ],
-     "a": 1,
-     "why": "Tiny drops fall very slowly, so the mist drifted in the light. Cloud drops are even smaller, which is why a cloud can float.",
-     "context": "This question is about the torch beam activity. You spray mist into a torch beam in a dark room, and drop one big drop from a spoon.",
-     "how": "a1"
-    },
-    {
      "t": "write",
-     "p": "Ramya says, 'Clouds are made of cotton.' What would you tell her, and how could she check?",
+     "p": "Ramya, a girl in your class, says, 'Clouds are made of cotton.' What would you tell her, and how could she check? Say it, and a grown-up writes it.",
      "lines": 3,
      "a": "Clouds are made of tiny water drops. She could walk through a cloud on a hill and feel her hair get wet, or look at the mist from a spray bottle.",
      "why": "A strong answer gives the right idea and a real way to check it, not just 'because my teacher said so'."
-    },
-    {
-     "t": "fill",
-     "p": "One raindrop holds about as much water as a ______ cloud drops.",
-     "a": "million",
-     "why": "Cloud drops are so tiny that about a million of them have to join to make one raindrop."
     },
     {
      "t": "draw",
@@ -1585,7 +1442,7 @@
     },
     {
      "t": "count",
-     "p": "In the window race, Priya's racer drop swallowed 4 small drops. Shabnam's racer swallowed twice as many. How many did Shabnam's racer swallow?",
+     "p": "Priya and her friend Shabnam do the window race. Priya's racer drop swallowed 4 small drops. Shabnam's racer swallowed twice as many. How many did Shabnam's racer swallow?",
      "a": 8,
      "why": "Twice 4 is 8. The more small drops a racer swallows, the bigger it grows.",
      "how": "a3",
@@ -1648,10 +1505,22 @@
        "says": "Put them out, but watch the sky and bring them in if it gets darker."
       }
      ],
-     "ask": "Whose plan would you pick? Give one reason. Then say one good point in another person's plan.",
+     "ask": "Whose plan would you pick? Give one reason. Then say one good point in another person's plan. Say it, and a grown-up writes it.",
      "lines": 3,
      "a": "A strong answer picks a plan and gives a reason from what we learned about grey clouds. It also names a real point in another plan.",
      "why": "Grey clouds make rain more likely, but not certain. Each plan weighs that risk differently. Sameer's plan uses fresh evidence: watching whether the clouds get thicker."
+    },
+    {
+     "t": "truefalse",
+     "p": "A cloud that is raining holds some bigger drops among its tiny drops.",
+     "a": true,
+     "why": "Scientists flew planes through clouds and measured the drops. Clouds that were raining had bigger drops. Clouds that were not raining had almost only tiny drops."
+    },
+    {
+     "t": "fill",
+     "p": "A tiny cloud drop falls only about a centimetre each ______, so it floats.",
+     "a": "second",
+     "why": "A cloud drop is so tiny that it falls very slowly. Rising air easily holds it up."
     }
    ]
   },
@@ -1663,14 +1532,14 @@
    "items": [
     {
      "t": "write",
-     "p": "Many people think a cloud falls when it gets heavy, like a stone. A cloud weighs as much as many elephants. Why does it stay up?",
+     "p": "Many people think a cloud falls when it gets heavy, like a stone. A cloud weighs as much as many elephants. Why does it stay up? Say it, and a grown-up writes it.",
      "lines": 3,
      "a": "Its water is split into millions of tiny drops. Each tiny drop falls very slowly, and rising air holds the drops up.",
      "why": "A strong answer says the weight is spread over tiny drops, and that tiny drops fall slowly. The weight of the whole cloud does not pull it down like a stone."
     },
     {
      "t": "mcq",
-     "p": "Deepa sprayed her plate from far away, so less mist landed each time. What do you think happened?",
+     "p": "Deepa, a girl in Madurai, sprayed her plate from far away, so less mist landed each time. What do you think happened?",
      "opts": [
       "She needed more sprays before a drop ran down",
       "She needed fewer sprays",
@@ -1748,14 +1617,14 @@
        "says": "Rain comes when there are enough tiny drops in one place."
       }
      ],
-     "ask": "Who is right? Can more than one of them be right? Explain.",
+     "ask": "Who is right? Can more than one of them be right? Explain. Say it, and a grown-up writes it.",
      "lines": 4,
      "a": "A strong answer sees that all three describe part of the story: the winds bring the damp air, the drops must join, and there must be enough water.",
      "why": "Each person sees a different part of how rain happens. The farmer sees the wind and the season. The scientist and the girl see what happens inside the cloud."
     },
     {
      "t": "count",
-     "p": "In the flour test, Usha found 12 small balls, 6 medium balls and 2 big balls. How many raindrops did she catch in all?",
+     "p": "Usha, a girl in Pune, caught raindrops in flour. She found 12 small balls, 6 medium balls and 2 big balls. How many raindrops did she catch in all?",
      "a": 20,
      "why": "12 and 6 make 18, and 2 more make 20. Most were small, because only some drops grow big.",
      "how": "e2",
@@ -1763,9 +1632,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A raindrop is shaped like a tear, with a pointed top.",
+     "p": "Water vapour is the white, puffy stuff you see in a cloud.",
      "a": false,
-     "why": "False. Small raindrops are round. Big ones are squashed flat at the bottom by the air as they fall, like a bun. The pointed shape is only how a drop hangs from a tap."
+     "why": "Water vapour is invisible. The white you see in a cloud is made of tiny drops of liquid water."
     },
     {
      "t": "fill",
@@ -1775,7 +1644,7 @@
     },
     {
      "t": "write",
-     "p": "Your window race showed big drops swallowing small ones. How could you test whether bigger racers run faster?",
+     "p": "Your window race showed big drops swallowing small ones. How could you test whether bigger racers run faster? Say it, and a grown-up writes it.",
      "lines": 3,
      "a": "Pick a small racer and a big racer at the same height. Start them together and see which reaches the bottom first. Try it three times.",
      "why": "A strong answer compares two drops fairly, from the same place, and tries more than once.",
@@ -1838,20 +1707,6 @@
    "a": 0,
    "why": "Clouds do weigh a lot. But their water is split into tiny drops that fall very slowly. The hollow bubble idea was shown wrong in 1846.",
    "outcome": 1
-  },
-  {
-   "t": "mcq",
-   "p": "In the spray plate test, when did a drop finally run down?",
-   "opts": [
-    "After the first spray",
-    "After many sprays, when tiny drops had joined into a big one",
-    "Never"
-   ],
-   "a": 1,
-   "why": "The tiny drops clung on until many had joined. Only the big, heavy drop ran down.",
-   "outcome": 2,
-   "how": "e1",
-   "context": "This question is about the spray plate test. You spray fine mist on a steel plate, one spray at a time, and count the sprays until a drop runs down."
   },
   {
    "t": "mcq",
@@ -1929,7 +1784,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nandini did the spray test three times and got 10, 13 and 11 sprays. What should she say?",
+   "p": "Nandini, a girl in Pune, did the spray test three times and got 10, 13 and 11 sprays. What should she say?",
    "opts": [
     "The test failed, because the numbers are different",
     "It always took many sprays before a drop ran down",
@@ -1998,25 +1853,15 @@
   }
  ],
  "ask_kids": [
-  "Look out of the window. Are the clouds white or grey today? Do you think it will rain?",
   "If a cloud is made of clear water, why does it look white?",
   "Where do you think the water in tonight's rain was last week?",
   "If you could hold a piece of cloud, what would it feel like?",
-  "Why do you think drops on a window move only when they get big?",
   "Can you spot fog, mist or steam today? How are they like a cloud?"
  ],
  "jokes": [
   {
    "j": "What did one cloud say to the other cloud?",
    "a": "Let's join up and make it rain!"
-  },
-  {
-   "j": "Why did the cloud drop stay up in the sky?",
-   "a": "It was too light to come down."
-  },
-  {
-   "j": "What is a cloud's favourite game?",
-   "a": "Drop and catch."
   },
   {
    "j": "How does a cloud get dressed?",
@@ -2031,30 +1876,34 @@
    "a": "A drop-out."
   },
   {
-   "j": "Why did the tiny drop never fall?",
-   "a": "It had not found enough friends yet."
-  },
-  {
    "j": "What did the window say to the racing raindrop?",
    "a": "Slow down, you are eating all the little ones!"
   },
   {
    "j": "What does a cloud do when it is itchy?",
    "a": "It finds a skyscraper."
+  },
+  {
+   "j": "Why did the cloud go to the doctor?",
+   "a": "It was feeling under the weather."
+  },
+  {
+   "j": "What goes up when the rain comes down?",
+   "a": "An umbrella."
   }
  ],
  "maths": [
   {
-   "problem": "Revathi did the spray plate test three times. The first drop ran down at 8, 11 and 9 sprays. Which try took the most sprays? Which took the fewest?",
+   "problem": "Revathi, a girl in Madurai, did the spray plate test three times. The first drop ran down at 8, 11 and 9 sprays. Which try took the most sprays? Which took the fewest?",
    "answer": "The second try took the most, 11 sprays. The first try took the fewest, 8 sprays.",
    "explain": "11 is bigger than 9, and 9 is bigger than 8. The numbers are close, so every try agrees: it takes many sprays, never just one.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e1",
    "context": "This question is about the spray plate test. You spray fine mist on a steel plate, one spray at a time, and count the sprays until a drop runs down.",
-   "why_maths": "Putting the three numbers in order shows how close the tries were, and that the result was not a fluke."
+   "why_maths": "Putting the three numbers in order shows how close the tries were, and that the result was not just by chance."
   },
   {
-   "problem": "In the card game, Fathima has drop cards of 3 and 4. How many more drops does she need to make a raindrop of 10?",
+   "problem": "In the card game, Fathima, a girl in Kozhikode, has drop cards of 3 and 4. How many more drops does she need to make a raindrop of 10?",
    "answer": "3 more drops.",
    "explain": "3 and 4 make 7. From 7, count on 8, 9, 10. That is 3 more.",
    "math_unit": "math.addition-subtraction.number-facts.L2",
@@ -2063,7 +1912,7 @@
    "why_maths": "Making 10 from smaller numbers is like tiny drops joining into one raindrop."
   },
   {
-   "problem": "Lakshmi kept a sky book for 4 weeks. Grey sky: 10 days, and it rained on 7 of them. White or clear sky: 18 days, and it rained on 2 of them. On which kind of day was rain more likely? Draw tallies to show it.",
+   "problem": "Lakshmi, a girl in Coimbatore, kept a sky book for 4 weeks. Grey sky: 10 days, and it rained on 7 of them. White or clear sky: 18 days, and it rained on 2 of them. On which kind of day was rain more likely? Draw tallies to show it.",
    "answer": "Grey days. Rain came on 7 out of 10 grey days, but only 2 out of 18 white or clear days.",
    "explain": "7 out of 10 is most of the grey days. 2 out of 18 is very few of the white days. So grey skies make rain much more likely, though not certain: 3 grey days stayed dry.",
    "math_unit": "math.probability.likely-and-unlikely.L2",
@@ -2215,7 +2064,7 @@
   "teachings": [
    {
     "source": "Tirukkural, chapter 2, 'The Excellence of Rain', couplet 20",
-    "teaching": "Thiruvalluvar, a Tamil poet and thinker, wrote that the world cannot go on without water, and that water cannot flow without rain.",
+    "teaching": "Thiruvalluvar, a Tamil poet and thinker, wrote that the world cannot go on without water, and that water comes from rain.",
     "link": "Every river and tap is filled, in the end, by rain. And rain only comes when tiny cloud drops join, as they did on your plate."
    },
    {
@@ -2271,5 +2120,6 @@
    "Tamil Nadu made rooftop rainwater harvesting compulsory for buildings in 2003.",
    "Raindrops in flour: Wilson Bentley, 'Studies of raindrops and raindrop phenomena', Monthly Weather Review, 1904."
   ]
- }
+ },
+ "playtest": "Walked through every game, experiment and activity as a parent and child in a Chennai flat. The two games were rewritten so every card is written out and both work with only 2 players. The flour test now counts its 20-minute wait, the sky-book project adds up, the spoon drop on the plate is marked as a drop that may need a second one, and each made-up child is introduced. Repeated questions and weak jokes were cut."
 }

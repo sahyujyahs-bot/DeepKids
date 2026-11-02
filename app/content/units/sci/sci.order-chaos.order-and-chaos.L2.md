@@ -7,8 +7,8 @@
 
 ## Learning outcomes
 0. By the end I can say what order and a pattern are, and find neat and messy things in my home.
-1. By the end I can show that a flat paper leaf lands in a new place each time, but a crumpled paper ball lands near the same spot.
-2. By the end I can say that gravity pulls a falling leaf down and the air pushes against it, and that tiny changes send the leaf somewhere new.
+1. By the end I can show that a flat paper leaf lands in a new place each time, but a paper ball does not.
+2. By the end I can say that gravity pulls a falling leaf down and the air pushes it, so tiny changes send it somewhere new.
 3. By the end I can show that splashes are never exactly the same, even from the same drop and the same height.
 4. By the end I can say that messy happenings still follow rules, even when we cannot say what will happen.
 5. By the end I can say what scientists still argue about: is anything truly random?
@@ -16,7 +16,7 @@
 ## Terms
 - **Order**: Order is when things are arranged by a rule, so you can say where each one goes or what comes next. *e.g.* Pencils lined up from shortest to longest are in order. A kolam drawn around a grid of dots has order too.
 - **Pattern**: A pattern is something that repeats in the same way, again and again. *e.g.* Red, blue, red, blue on a border of a saree is a pattern. So is the beat in a song you clap along to.
-- **Messy**: Messy means there is no rule that tells you where each thing is. *e.g.* Rajma beans tipped out of a tumbler land in a messy heap. Nobody can say where each bean will be.
+- **Messy**: Messy means there is no rule you can use to say where each thing is. *e.g.* Rajma beans tipped out of a tumbler land in a messy heap. Nobody can say where each bean will be.
 - **Chaos**: Chaos is a word scientists use for things that follow rules but still never happen the same way twice. A tiny change at the start makes a big change at the end. *e.g.* A falling leaf is chaotic. Let go of it a tiny bit differently, and it lands far from the last place.
 - **Predict**: To predict is to say what will happen before it happens. *e.g.* You can predict that a crumpled paper ball will land right under your hand.
 - **Gravity**: Gravity is the force that pulls things down towards the Earth. *e.g.* When you let go of a spoon, gravity pulls it down to the floor.
@@ -66,17 +66,17 @@ Something is random if nothing at all decides how it comes out. The leaf and the
 - **Other physicists:** They say there may be hidden rules even for the tiniest particles, that we have not found yet. Nobody has settled this.
 
 ## Mostly agreed
-- Gravity pulls every falling thing down, and the air pushes against it as it falls. *How we know:* In the paper leaf test, both the ball and the leaf ended up on the floor, but the flat leaf took longer and swung about, because the air pushed on its big flat side.
+- Gravity pulls every falling thing down, and the air pushes against it as it falls. *How we know:* In the paper leaf test, both landed on the floor. The flat leaf took longer and swung about, because the air pushed on its big flat side.
 - A flat, light thing like a leaf or a feather lands in a different place almost every time it falls. *How we know:* In the paper leaf test, the crosses for the leaf were spread across the paper. The crosses for the ball were bunched near the middle.
 - No two splashes are exactly the same, even from the same drop and the same height. *How we know:* In the splash test, each splash had a different number of little dots, in different places. Scientists filming splashes very fast see the same thing.
 - Some things follow exact rules and still cannot be predicted, because tiny changes grow. Scientists call this chaos. *How we know:* Weather follows the rules of air, water and heat. Yet weather scientists can say what will happen only a few days ahead, because tiny changes in the air grow over time.
 
 ## How we found out
-**Arthur Mason Worthington, an English physicist, Drawings from 1875, photographs from the 1890s, his book 'A Study of Splashes' in 1908.** Splashes happen too fast to see. In 1875, an English scientist called Arthur Worthington found a way to look at them. In a dark room, he let a drop fall. Just as it hit a plate, an electric spark flashed for a tiny moment. In that flash, he saw the splash for an instant, and then drew it from memory. He did this thousands of times. His drawings showed splashes as neat crowns, with points spaced evenly all around, like a pattern. Then, in the 1890s, Worthington began taking photographs of splashes in the flash. When he looked at the photographs, he was surprised. The real splashes were much less even than his drawings. The points were different sizes and not evenly spaced. Without meaning to, he had drawn them neater than they really were. He wrote about this honestly. It taught scientists that our eyes and memory like to see order, even where there is less of it.  
+**Arthur Mason Worthington, an English physicist, Drawings from the 1870s, photographs from the 1890s, his book 'A Study of Splashes' in 1908.** Splashes happen too fast to see. In the 1870s, an English scientist called Arthur Worthington found a way to look at them. In a dark room, he let a drop fall. Just as it hit a plate, an electric spark flashed for a tiny moment. In that flash, he saw the splash for an instant, and then drew it from memory. He did this many times. His drawings showed splashes as neat crowns, with points spaced evenly all around, like a pattern. Then, in the 1890s, Worthington began taking photographs of splashes in the flash. When he looked at the photographs, he was surprised. The real splashes were much less even than his drawings. The points were different sizes and not evenly spaced. Without meaning to, he had drawn them neater than they really were. He wrote about this honestly. It taught scientists that our eyes and memory like to see order, even where there is less of it.  
 *What people believed before:* That splashes are neat, even shapes. Photographs showed that real splashes are uneven, and that Worthington's drawings had made them look neater.
 
 ## Challenging perspectives
-- **Splashes are neat, even shapes, all alike.** (Arthur Worthington, an English scientist, believed this for many years from his drawings of splashes, made in the late 1800s.; *rejected*)  
+- **Splashes make neat crowns, with the points spaced evenly.** (Arthur Worthington, an English scientist, believed this for many years from his drawings of splashes, made in the late 1800s.; *rejected*)  
   For: When he saw splashes in a flash of light, they looked like neat crowns with evenly spaced points.  
   Against: When he took photographs of splashes in the 1890s, they were far less even than his drawings. He had drawn them neater than they really were, without meaning to.
 - **A leaf falls wherever luck sends it, and no rules decide where it lands.** (Many people think this.; *rejected*)  
@@ -94,13 +94,13 @@ We have dropped paper leaves and paper balls, made splashes and drawn a kolam. N
 *Evidence:* In the paper leaf test, two pieces of the same paper, with the same weight, were dropped the same way. The ball's crosses were bunched in the circle. The leaf's crosses were spread across the newspaper.
 
 - *who am i:* Every breath you take is a little different from the last one. You follow the same rules of your body each day, and still no two days of you are the same.
-- *what is life:* A plant grows each new leaf by the same rules, and still each leaf comes out with its own small bends and curves.
+- *what is life:* A plant grows each new leaf by the same rules. Still, each leaf has its own small bends and curves.
 - *what is this world:* Clouds, rivers, waves and falling leaves all follow rules. Yet the world never happens the same way twice.
 
-A few rules, like gravity and the push of the air, act on every falling leaf and every drop. From those same few rules come countless different landings and splashes, and no two are alike. The rules stay the same, and the world still comes out new every moment. Everything is conscious, the moving air and the falling water too, each one meeting the world in their own way. Many scientists disagree, and say only living things with brains can be aware.
+A few rules, like gravity and the push of the air, act on every falling leaf and every drop. From those same rules come many different landings and splashes, and no two are alike. Everything is conscious, the moving air and the falling water too, each meeting the world in their own way. Many scientists disagree, and say only living things with brains can be aware.
 
 - **Heraclitus, a Greek thinker from about 500 BCE, as reported by Plato in the Cratylus, 402a:** Heraclitus said that you cannot step twice into the same river. The water you stepped into has already flowed on, and new water has come. (The river follows the same rules every day, but it is never the same water twice. Your paper leaf and your splashes were like that too: the same rules, but a new result each time.)
-- **Dhammapada, verse 277:** The Buddha taught that all things that are made from other things keep changing. Nothing made stays the same. (No splash, cloud or falling leaf stayed the same or came again. The splash test shows change in a very small, fast moment.)
+- **Dhammapada, verse 277:** The Buddha taught that everything made of parts keeps changing. Nothing made stays the same. (A splash lasts a moment and is gone, and the next one is different. A cloud keeps changing shape too.)
 - Science (settled): Things that follow exact rules can still be impossible to predict, because tiny changes at the start grow into big changes. Scientists call this chaos. Weather is chaotic.
 - Science (debated): Whether anything in nature is truly random, with nothing at all deciding it, is still argued about by physicists.
 - Other view, Pierre-Simon Laplace, a French scientist, in 1814, and many people since: If we knew everything about the leaf and the air, we could predict exactly where it would land. So 'never the same twice' is only about what we know, not about the world. Many also say air and water have no awareness at all.
@@ -111,7 +111,7 @@ A few rules, like gravity and the push of the air, act on every falling leaf and
 
 ## Deep and big questions
 - *deep:* The paper ball and the paper leaf were made of the same paper. Why did only one of them land in the same place each time? (hint: What was different about their shapes? Where could the air push?)
-- *deep:* If you could let go of the paper leaf in exactly the same way, with the air exactly the same, would it land in the same place? (hint: Do the rules change from one drop to the next, or does something else change?)
+- *deep:* Suppose you could let go of the paper leaf in exactly the same way, with the air exactly the same. Would it land in the same place? (hint: Do the rules change from one drop to the next, or does something else change?)
 - *deep:* Is a messy room just a room where nobody has decided where things go? (hint: Think of the rajma beans on the plate. Did anything decide where each bean went?)
 - *big:* If the future cannot be known exactly, is that a good thing or a bad thing? (hint: Think of a game whose ending you always know. Would it still be fun?)
 - *big:* Every falling leaf and every splash is new. Is anything in the world ever exactly the same twice? (hint: Think of today's breakfast, the sky this morning, and yourself.)
@@ -218,36 +218,36 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   - Note: A pattern has order, so it can be repeated. Free drumming has no pattern, like the beans on the plate.
 
 ## Experiments
-### e1 · The Paper Leaf Test: where will it land? (25 min)
-- **question:** If we drop a flat paper leaf and a crumpled paper ball the same way, from the same height, will each one land in the same place every time?
+### e1 · The Paper Leaf Test: where will it land? (20 min)
+- **question:** If we drop a flat paper leaf and a paper ball from the same height, will each land in the same place every time?
 - **predict:** Look at the flat leaf and the paper ball. When we drop them ten times each, which one will land inside the plate circle more often? Why do you think so?
 - **fair test:** Both come from the same sheet of paper and are the same size, so they weigh the same. We drop both from the same height, holding them over the same spot. We switch off the fan and close the windows, so moving air does not spoil the test. We drop each one ten times, because one drop can be a fluke.
 - **safety:** If the child stands on a chair to drop, a grown-up holds the chair. Dropping from the child's own raised hand is high enough.
 - **record:** Fill in the results table with a tick for inside and a cross for outside. Count the ticks for the ball and for the leaf. Draw the newspaper with all the crosses on it.
 - **results table:** Drop number | Paper ball: inside or outside the circle? | Paper leaf: inside or outside the circle?
-- **s1 (5 min)**  
+- **s1 (4 min)**  
   *Parent does:* 1. Fold the notebook paper in half. 2. Draw a leaf about as long as your child's hand on it. 3. Cut through both layers, so you get two leaves the same size. 4. Your child crumples one leaf into a tight ball.  
   *Parent says:* These two leaves came from the same paper, and they are the same size. So they weigh the same. Now crumple one into a tight ball. Keep the other one flat.  
   *Child mode:* Cut two paper leaves the same size. Crumple one into a ball. Keep one flat.
   - Note: Folding the paper before cutting gives two leaves of exactly the same size and weight. That makes it a fair test.
-- **s2 (4 min)**  
+- **s2 (3 min)**  
   *Parent does:* 1. Switch off the fan and close the windows. 2. Lay two sheets of newspaper side by side on the floor. 3. Put a steel plate in the middle and draw around it. 4. Ask the question below.  
   *Parent says:* We will drop each one ten times, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?  
   *Child mode:* You will drop each one ten times over the circle. Which lands inside more often? Why?
   - Ask: Which one will land inside the circle more often? Why? (good: The ball, because it is round and falls straight.; The leaf, because it is flat and floats down slowly.; The same, because they weigh the same.)
   - Note: Write down your child's guess and reason. Do not say who is right. Many children think that the same weight means the same fall.
-- **s3 (6 min)**  
+- **s3 (5 min)**  
   *Parent does:* 1. Your child stands beside the circle and holds the ball high, arm straight up, over the middle. 2. Let go. Do not throw. 3. Mark where it first lands with a red cross. 4. Pick it up and do it again, ten times in all.  
   *Parent says:* Hold it high over the middle of the circle. Just open your fingers. Don't throw it. Where did it land? Make a red cross there.  
   *Child mode:* Hold the ball high over the circle. Open your fingers. Mark where it lands.
   - Note: Mark the spot where it first touches the paper, even if it bounces a little. Most drops land inside or close to the circle.
-- **s4 (6 min)**  
+- **s4 (5 min)**  
   *Parent does:* 1. Your child holds the flat leaf by the tip, flat side down, high over the middle of the circle. 2. Let go. 3. Mark where it comes to rest with a blue cross. 4. Do it ten times in all, holding it the same way each time.  
   *Parent says:* Now the flat leaf. Hold it flat, by the tip, in the same place. Let go. Watch how it falls. Make a blue cross where it lands.  
   *Child mode:* Hold the flat leaf the same way each time. Let go. Watch it fall. Mark where it lands.
   - Ask: How did the leaf fall? Was it the same as the ball? (good: It swung from side to side.; It turned over and slid sideways.; It fell slowly, and the ball fell fast.)
   - Note: The leaf usually swings, turns or slides, and lands somewhere new each time, often outside the circle. If a leaf lands off the newspaper, put a cross at the edge closest to it.
-- **s5 (4 min)**  
+- **s5 (3 min)**  
   *Parent does:* 1. Count the red crosses inside the circle. 2. Count the blue crosses inside the circle. 3. Ask your child what they think, what they saw and why. 4. Then read the card on why a falling leaf never lands in the same place twice.  
   *Parent says:* How many red crosses are inside the circle? How many blue ones? Did the leaf ever land in the same place twice? Why do you think the ball and the leaf were so different?  
   *Child mode:* Count the red crosses inside. Count the blue ones. Why were they so different?
@@ -355,7 +355,7 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   *Parent says:* Look out of the window. Draw the clouds. We will look again this evening. Will they be the same?  
   *Child mode:* Draw the clouds this morning. Look again this evening. Are they the same?
   - Ask: Were the clouds the same in the evening? (good: No, they changed shape.; The sky was clear in the evening.)
-  - Note: If you cannot see the sky, watch the steam rising from a pot of hot water instead. It also never moves the same way twice.
+  - Note: If you cannot see the sky, a grown-up can hold a pot of hot water. Your child watches the steam from a safe distance. It also never moves the same way twice.
   - Wait: The next day
 - **s3 (7 min)**  
   *Parent does:* 1. Your child finds two new things in the kitchen. 2. Then reads the whole diary aloud.  
@@ -369,8 +369,8 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - **problem:** Change a flat paper leaf so that it lands inside the plate circle as often as possible, without crumpling it into a ball.
 - **your turn:** Make your own leaf design. Drop it ten times and count how many land inside the circle. Can you beat the flat leaf's score?
 - **constraints:** Use a paper leaf the same size as in the paper leaf test.; Do not crumple it into a ball.; You may fold it, add one paper clip, or cut it.; Drop it from the same height each time, ten times.
-- **general:** Clip a paper clip to the tip. The heavy tip goes down first, so the leaf falls more straight.; Fold the leaf in half along the middle, like a V. It swings less.
-- **creative:** Fold the leaf into a cone, like a small paper cup turned upside down.; Roll the leaf into a tube.; Cut the leaf into a narrow strip, so the air has less flat side to push.
+- **general:** Clip a paper clip to the tip. The heavy tip goes down first, so the leaf falls more straight.; Fold the leaf in half along the middle, like a V. Does it swing less?
+- **creative:** Fold the leaf into a cone, like a small paper cup turned upside down.; Fold the leaf in half twice, to make a small thick square.
 - **s1 (4 min)**  
   *Parent does:* 1. Remind your child of the flat leaf's score from the paper leaf test. 2. Ask the question below.  
   *Parent says:* The flat leaf landed in a new place each time. We cannot crumple it. How could we change it so it lands in the circle more often?  
@@ -380,12 +380,12 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   *Parent does:* 1. Your child changes a new leaf in their own way. 2. Drops it ten times from the same height. 3. Counts how many land inside the circle. 4. Tries one more design.  
   *Parent says:* Make your design. Drop it ten times from the same height. Count how many land inside the circle.  
   *Child mode:* Make your design. Drop it ten times. Count how many land inside.
-  - Note: A paper clip on the tip usually makes the leaf dive nose first, so it lands closer to the circle. A cone also falls more straight.
+  - Note: A paper clip on the tip often makes the leaf dive tip first, so it lands closer to the circle. A cone or a thick folded square may fall straighter too. Some designs will not work, and that is part of the test.
 - **s3 (4 min)**  
   *Parent does:* 1. Compare the scores. 2. Ask the question below.  
   *Parent says:* Which design landed in the circle most often? Why do you think it worked?  
   *Child mode:* Which design was best? Why do you think it worked?
-  - Ask: Why did your best design work? (good: The clip made the front heavy, so it went down straight.; Folding stopped it swinging so much.)
+  - Ask: Why did your best design work? (good: The clip made the front heavy, so it went down tip first.; Folding stopped it swinging so much.)
   - Note: Designs that stop the leaf swinging make it easier to predict. That is why a seed like a coconut drops straight, but a light, winged seed drifts far.
 
 ## Worksheets
@@ -407,17 +407,17 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
    **Answer:** 1. *Why:* 10 take away 9 is 1. So only 1 drop landed outside the circle. The ball was easy to predict.
 8. (label) Label the arrows on the falling leaf: 'gravity pulls down' and 'air pushes up'.  
    **Answer:** ['arrow pointing down: gravity pulls down', 'arrow pointing up: air pushes up']. *Why:* Gravity pulls every falling thing down. The air pushes back against it. On a flat leaf, the air's push is big, so the leaf falls slowly and swings.
-9. (perspective) Meenakshi, a girl in Class 2, and her brother Arjun watch a dry leaf fall from a tree.  
-   **Answer:** A strong answer picks a side and gives a reason. For example, agreeing with Arjun because gravity and air push on the leaf the same way each time. It also says Meenakshi is right that nobody can predict where it lands.. *Why:* Both have a point. The leaf follows rules, but tiny changes make it impossible to predict. A strong answer uses the paper leaf test as evidence.
+9. (perspective) Arjun, a boy in Class 2, and his older sister Meenakshi watch a dry leaf fall from a tree.  
+   **Answer:** A strong answer picks a side and gives a reason. For example, agreeing with Meenakshi because gravity and air push on the leaf the same way each time. It also says Arjun is right that nobody can predict where it lands.. *Why:* Both have a point. The leaf follows rules, but tiny changes make it impossible to predict. A strong answer uses the paper leaf test as evidence.
 10. (odd) Three of these follow a pattern you can repeat. Which one does not?  
    Options: Red, blue, red, blue beads / Clap, clap, stamp / Rain splashing on a step / A kolam around nine dots  
    **Answer:** 2. *Why:* Every rain splash is different, so it cannot be repeated. The beads, the clap and the kolam all follow a rule.
 11. (order) Put the paper leaf test in order.  
    **Answer:** [0, 1, 2, 3]. *Why:* First you make two leaves that weigh the same. Then you make one into a ball. Then you drop and mark, and last you count to compare.
 ### Rules You Can't See (stretch) (stretch, 10 questions)
-1. (mcq) In the splash test, four drops fell from the same height. What did the splashes look like?  
-   Options: All exactly the same / Each one a little different / There were no splashes  
-   **Answer:** Each one a little different. *Why:* Each splash had a different number of little dots, in different places. Choosing 'all exactly the same' is a good guess, because the water and height were the same. The test shows that tiny differences still change each splash.
+1. (mcq) In the splash test, which drop made the most little dots around its splash?  
+   Options: A drop from 30 centimetres / A drop from one metre / Both made the same number  
+   **Answer:** A drop from one metre. *Why:* A drop from higher up hits harder. It spreads further and breaks into more little dots. Choosing "the same number" means thinking that the splash does not care how far the drop falls.
 2. (write) The water and the height were the same. Why were the four splashes still different?  
    **Answer:** Each drop wobbles a little as it falls, and the paper has tiny bumps. These tiny differences change where the splash breaks into little dots.. *Why:* A strong answer names a tiny difference we cannot see, such as the wobble of the drop or bumps on the paper. Saying 'by luck' does not say what made them different.
 3. (draw) Draw a splash from 30 centimetres and a splash from one metre. Show how they were different.  
@@ -479,14 +479,14 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
    **Answer:** Scientists still argue about it. *Why:* Some scientists think the tiniest particles are truly random. Others think there may be hidden rules. Nobody has settled this yet.
 
 ## Applications
-- Weather scientists at the India Meteorological Department use the rules of air, water and heat to say what the weather will probably be in the next few days. Because weather is chaotic, they cannot say exactly what it will be weeks ahead.
+- Weather scientists at the India Meteorological Department use the rules of air, water and heat to say what the weather will probably be in the next few days. Weather is chaotic, so they cannot say exactly what it will be weeks ahead.
 - Kolam and rangoli makers use rules of dots and lines, so the same design can be drawn again and taught to others.
-- People who make seed packets, parachutes and paper planes change shapes to control how things fall through the air.
-- Scientists who study plants film raindrops hitting leaves very fast, to see how splashes carry plant germs from one leaf to the next.
+- People who make parachutes and fold paper planes change the shape to control how things fall through the air.
+- Some scientists film raindrops hitting leaves very fast. They want to see how splashes carry plant germs from one leaf to the next.
 - Shopkeepers stack fruit and steel vessels in neat order, so they can find things fast and count them easily.
 
 ## Spotted around us
-- A kolam drawn at a doorstep early in the morning in Chennai or Madurai, or a rangoli at a doorway during Diwali in Pune: order made by rules.
+- A kolam at a doorstep early in the morning in Chennai or Madurai, or a rangoli at a doorway during Diwali in Pune. Both are order made by rules.
 - Leaves falling from a gulmohar or neem tree outside the window, each one drifting a new way.
 - Raindrops splashing on a balcony floor or a steel bucket during the monsoon in Kochi or Mumbai.
 - Smoke curling up from an agarbatti at home, never swirling the same way twice.
@@ -516,7 +516,7 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - Why did the splash need glasses? *It was always seeing spots!*
 
 ## Connected maths
-- In the paper leaf test, Divya made a tally for the paper ball: inside the circle, IIII IIII. Outside, I. How many drops did she make? **10 drops.**. The tally IIII IIII is 9 marks, so 9 drops landed inside. 1 landed outside. 9 and 1 make 10. (queues `math.data.sorting-and-tallies.L2`)
+- In the paper leaf test, Divya kept a tally for the paper ball. Inside the circle she made one group of 5 marks and one group of 4 marks. Outside she made 1 mark. How many drops did she make? **10 drops.**. 5 and 4 make 9, so 9 drops landed inside. 1 landed outside. 9 and 1 make 10. (queues `math.data.sorting-and-tallies.L2`)
 - Divya's paper ball landed inside the circle 9 times out of 10. Her flat leaf landed inside 2 times out of 10. If she drops the leaf once more, is it likely or unlikely to land inside? **Unlikely.**. The leaf landed inside only 2 times out of 10, and outside 8 times. So it is unlikely to land inside next time. But it could, because sometimes it did. (queues `math.probability.likely-and-unlikely.L2`)
 - Nila draws a kolam border with a pattern: big loop, small loop, small loop, big loop, small loop, small loop. What are the next three loops? **Big loop, small loop, small loop.**. The pattern repeats every three loops: big, small, small. So after the second small loop, it starts again with big, small, small. (queues `math.patterns.repeating-patterns.L2`)
 - In the splash test, Sreeja's four splashes from 30 cm had 4, 7, 3 and 5 little dots. Her splash from one metre had 14. Which splash from 30 cm had the most dots? How many more did the high splash have than that one? **The splash with 7 dots had the most. The high splash had 7 more.**. 7 is bigger than 4, 3 and 5. 14 take away 7 is 7. So even the busiest low splash had only half as many dots as the high one. (queues `math.number-sense.comparing-ordering.L2`)
@@ -526,8 +526,8 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 
 ## Links
 - [PhET Plinko Probability](https://phet.colorado.edu/en/simulations/plinko-probability) · simulation: A free online simulation. Balls bounce down through rows of pegs, and no two take the same path. Drop many and watch a shape build up at the bottom.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A big science museum with hands-on displays about motion, falling and air.
-- [DakshinaChitra heritage museum]() · place · Chennai: A museum of South Indian homes and crafts, where you can see kolams drawn at doorsteps of old houses.
+- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A big science museum in Bengaluru with hands-on science displays.
+- [DakshinaChitra heritage museum]() · place · Chennai: A museum of South Indian homes, crafts and arts.
 
 ## Things to buy
 
@@ -548,7 +548,7 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 - ideas/by_topic/order-chaos-and-chance.md, 'Grade concept grid: Chaos, Order, Unpredictability, Probability', Grade 1: blocks fall differently, leaves scatter, order as things lining up neatly. Used for the paper leaf test, the bean tip and the neat row.
 - ideas/by_topic/order-chaos-and-chance.md, same grid, art and life: rhythm in songs versus free drumming. Used for the Copy My Clap game.
 - ideas/by_topic/order-chaos-and-chance.md, same grid, debated: can something ever be truly random, or do we just not know the pattern yet? Used for the debated explanation and the open questions.
-- Arthur Mason Worthington (1852 to 1916): spark-flash studies of splashes from 1875, photographs from about 1894, 'A Study of Splashes' (1908). He noted that his earlier drawings had shown splashes as more regular than the photographs. Discussed in Lorraine Daston and Peter Galison, 'Objectivity' (2007).
+- Arthur Mason Worthington (1852 to 1916): spark-flash studies of splashes from the 1870s, photographs from about 1894, 'A Study of Splashes' (1908). He noted that his earlier drawings had shown splashes as more regular than the photographs. Discussed in Lorraine Daston and Peter Galison, 'Objectivity' (2007).
 - Falling paper and leaves: fluttering and tumbling of falling plates, for example A. Andersen, U. Pesavento and Z. Jane Wang, 'Unsteady aerodynamics of fluttering and tumbling plates', Journal of Fluid Mechanics (2005).
 - Rain splash on leaves spreading plant pathogens: T. Gilet and L. Bourouiba, studies of rain-induced droplet ejection from leaves (around 2014 to 2015).
 - Chaos and weather predictability: Edward Lorenz, 'Deterministic Nonperiodic Flow', Journal of the Atmospheric Sciences (1963). Kept for the Level 4 unit.

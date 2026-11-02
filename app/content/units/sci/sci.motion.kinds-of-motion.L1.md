@@ -25,21 +25,21 @@
 ### Five ways to move · *defined*
 **Definition:** Most moving things roll, slide, spin, swing or bounce. Many things can move in more than one of these ways.
 
-Rolling is turning over while going along. Sliding is going along while rubbing. Spinning is turning round in one place. Swinging is going back and forth from a hanging point. Bouncing is hitting something and springing back. A ball can roll, spin and bounce. So the kind of motion is about how a thing moves, not only about what it is.
+A ball can roll, spin and bounce. A steel plate can slide, spin and roll. How a thing moves depends on how it is pushed and how it touches the floor.
 - e.g. A ball rolls on the floor, spins on a finger and bounces off a wall.
 - e.g. Your body can roll on a mat, slide in socks, spin round, swing your arms and bounce on the spot.
 - e.g. A steel plate slides on the table, spins when you twist it and rolls when you stand it on its edge.
 ### Rolling goes further than sliding · *defined*
 **Definition:** With the same push, a thing that rolls goes much further than the same thing sliding, because rolling rubs the floor far less.
 
-When the dabba slid, its whole flat bottom rubbed along the floor. That rubbing pushes against the movement and stops it soon. When the dabba rolled, each part touched the floor for a moment and was lifted off again. It hardly rubbed at all, so it kept going. Scientists call the rubbing that slows things down friction. This is why wheels make heavy things easier to move.
+When the dabba slid, its whole flat bottom rubbed along the floor, and the rubbing stopped it soon. When the dabba rolled, each part touched the floor for a moment and lifted off again, so it hardly rubbed. The rubbing that slows things down is called friction. This is why wheels make heavy things easier to move.
 - e.g. In the Roll or Slide Test, the dabba on its side rolled many tiles. Standing flat, it slid only one or two.
 - e.g. A suitcase with wheels is easy to pull. Without wheels, it scrapes and is hard to drag.
 - e.g. Gas cylinders are tipped onto their round edge and rolled, not dragged.
 ### Bouncing is squashing and springing back · *defined*
 **Definition:** A thing bounces when it squashes as it hits the floor and then springs back to its shape, pushing itself up.
 
-A rubber ball squashes a tiny bit when it hits the floor. It springs back to round so fast that it pushes off the floor and jumps up. A ball of atta dough squashes too, but it stays squashed. It does not spring back, so it does not bounce. Things that spring back well bounce well.
+A rubber ball squashes a tiny bit when it hits the floor. Then it springs back to round, and that pushes it up off the floor. Dough squashes and stays squashed, so it does not bounce.
 - e.g. In the Bounce Test, the rubber ball bounced high and the dough ball went splat.
 - e.g. A crumpled paper ball bounced a little, because the paper springs back only a little.
 - e.g. Your knees bend and straighten when you bounce on the spot.
@@ -57,7 +57,7 @@ When a fan spins, the middle of the fan stays put while the blades go round it. 
 - The Earth spins round once a day. *How we know:* The Sun, the Moon and the stars all seem to move across the sky once a day. Photos from space show the Earth turning.
 
 ## How we found out
-**Potters in Mesopotamia, in what is now Iraq; early cart-makers in Mesopotamia and Europe; and the people of the Indus Valley cities, such as Harappa and Mohenjo-daro, About 5,500 to 4,000 years ago.** Many people think the first wheel was made for carts. But archaeologists, people who dig up and study the past, found something different. The oldest wheels we know of did not roll at all. They spun. In Mesopotamia, in what is now Iraq, potters put clay on a flat round wheel and turned it, more than 5,500 years ago. The clay spun round and round in one place while the potter shaped a round pot. Later, people stood wheels on their edge and fixed them to carts. Now the wheels rolled along the ground. A heavy load that was hard to drag could be pulled easily. The oldest wooden wheel found so far, from a marsh in Slovenia, is about 5,150 years old. In the Indus Valley cities of Harappa and Mohenjo-daro, about 4,500 years ago, children played with small clay toy carts with wheels that turned. The same round shape could spin flat or roll on its edge. Potters in India still spin clay on wheels today.  
+**Potters in Mesopotamia, in what is now Iraq; early cart-makers in Mesopotamia and Europe; and the people of the Indus Valley cities, such as Harappa and Mohenjo-daro, About 5,500 to 4,000 years ago.** Many people think the first wheel was made for carts. But archaeologists, people who dig up and study the past, found something different. Many of them now think the first wheels did not roll at all. They spun. In Mesopotamia, in what is now Iraq, potters put clay on a flat round wheel and turned it, about 5,500 years ago. The clay spun round and round in one place while the potter shaped a round pot. Later, people stood wheels on their edge and fixed them to carts. Now the wheels rolled along the ground. A heavy load that was hard to drag could be pulled easily. The oldest wooden wheel found so far, from a marsh in Slovenia, is about 5,150 years old. In the Indus Valley cities of Harappa and Mohenjo-daro, about 4,500 years ago, small clay toy carts with wheels that turn were made, and children may have played with them. The same round shape could spin flat or roll on its edge. Potters in India still spin clay on wheels today.  
 *What people believed before:* The wheel was first made for carts, to roll along the ground.
 
 ## Challenging perspectives
@@ -74,22 +74,22 @@ When a fan spins, the middle of the fan stays put while the blades go round it. 
 ## Roots
 We have rolled, slid, spun, swung and bounced, at home and with our own bodies. Now we ask what the Roll or Slide Test tells us about ourselves and the world.
 
-**Deep truth.** With the same push, your dabba rolled far on its side but slid only a little standing flat. Nothing about the dabba changed, only how it met the floor. A rolling thing lifts each part off the floor instead of rubbing it along. So the way a thing moves can matter more than what it is made of.  
-*Habit it breaks:* We usually think what a thing is made of, and how heavy it is, decide how far it goes. The test kept the dabba exactly the same and changed only how it touched the floor, and that made the biggest difference.  
+**Deep truth.** With the same push, your dabba rolled far on its side and slid only a little standing flat. It was the same dabba both times. Rolling rubs the floor much less than sliding. So how a thing touches the floor changes how far it goes.  
+*Habit it breaks:* We often think how far a thing goes depends only on what it is and how hard we push. The test kept both the same and changed only how the dabba touched the floor.  
 *Evidence:* In the Roll or Slide Test, the same dabba with the same push went many tiles rolling on its side and only one or two tiles sliding flat.
 
 - *who am i:* You are a body that can roll, slide, spin, swing and bounce. The same you moves in many ways.
-- *what is life:* Living beings move in all five ways. A snake slides on her belly, a bat swings down from a branch, and a frog bounces from leaf to leaf.
+- *what is life:* Humans and other animals move in these ways too. A snake slides along the ground, a monkey swings from branch to branch, and a child rolls, spins and bounces.
 - *what is this world:* Everything in the world is moving somehow. Even the floor under you is spinning with the whole Earth.
 
-Rolling, sliding, spinning, swinging and bouncing look like five separate things. But the same dabba or plate can do several of them. The kind of motion grows out of how a thing meets the floor, the air and every push. Everything is conscious, and each moving thing meets the world in its own way, so one thing can show many ways of moving.
+Rolling, sliding, spinning, swinging and bouncing are five ways of moving, and one dabba or plate can do several of them. What decides the way is how the thing is pushed and how it touches the floor. Everything is moving all the time, even the floor under you.
 
-- **Tao Te Ching 11:** Thirty spokes meet at the hub of a wheel. It is the empty space at the centre that makes the wheel useful. (A wheel turns round its middle, and its middle stays where it is. In Spin It, every spinning thing turned round a middle that stayed put.)
+- **Tao Te Ching 11:** Thirty spokes meet at the hub of a wheel. It is the empty space at the centre that makes the wheel useful. (A wheel turns round its hub, and the hub stays in place. In Spin It, every spinning thing turned round a middle that stayed put.)
 - **Plato, Cratylus 402a, reporting Heraclitus:** The Greek thinker Heraclitus taught that everything moves and nothing stays still. You cannot step into the same river twice. (We found motion everywhere: in the kitchen, in our bodies, and in the spinning Earth under a dabba that seems still.)
 - Science (settled): Rolling rubs much less than sliding. That is why wheels need only a small push to move heavy loads.
 - Science (settled): The Earth spins round once a day. In India, the ground under you is carried round faster than an aeroplane flies.
 - Other view, Many physicists: A rolling dabba is fully explained by the forces on it and the way it touches the floor. For them, nothing more is going on in the dabba, and feeling belongs only to living beings with nerves.
-- Practice, Still on a spinning Earth (3 min): Sit on the floor and close your eyes. Sit very, very still. Now think: the floor is spinning with the whole Earth. You are moving faster than an aeroplane. Can you feel it? Now roll gently onto your side, and then sit up. Which was moving: you, or the floor?
+- Practice, Still on a spinning Earth (3 min): Sit on the floor and close your eyes. Sit very, very still. The floor is spinning with the whole Earth, and you are moving faster than an aeroplane. Can you feel it? Now roll gently onto your side and sit up. You felt that, because you changed how you were moving. A smooth, steady spin is very hard to feel.
 - Ask: The dabba was the same both times. So what made the difference?
 - Ask: When you sit very still, are you really still?
 - Ask: Is there anything in the world that is not moving at all?
@@ -150,15 +150,15 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 
 ## Games
 ### g1 · Five Ways: the sorting card game (10 min)
-- **rules:** Write ROLL, SLIDE, SPIN, SWING and BOUNCE on five sheets of paper. These are the mats.; A grown-up reads one card out loud.; The player shows the motion with their hands, then puts the card on a mat.; The grown-up reads the back. A right answer wins the card.; If the player gives a good reason for a different mat, that wins too.; Play until all 12 cards are won.
+- **rules:** Cut out the five mats, or write ROLL, SLIDE, SPIN, SWING and BOUNCE on five sheets of paper. Lay them on the floor.; Mix the 12 cards and make a pile, front side up. The grown-up reads the top card out loud.; The player shows that motion with their hands, then puts the card on a mat.; The grown-up turns the card over and reads the back. If the mat is right, the player keeps the card. The auto wheels card fits two mats, ROLL and SPIN, and either one is right.; If the player gives a good reason for a different mat, that wins too.; If the mat is wrong, the grown-up shows the right mat and slides the card under the pile for one more try. After a second wrong try, the card goes on its right mat and nobody keeps it.; The game ends when the pile is finished. The player with the most cards wins. When one child plays, try to keep 8 or more of the 12.
 - **Printable cards: 12 moving cards:** A ball going down a slope (back: ROLL); A chappal on a wet bathroom floor (back: SLIDE); A ceiling fan (back: SPIN); An oonjal, a swing seat hanging in the hall (back: SWING); A rubber ball dropped on the floor (back: BOUNCE); A coconut falling off a cart and going down the road (back: ROLL); A child going down a slide in the park (back: SLIDE); A bambaram, a wooden top (back: SPIN); Your arms when you walk (back: SWING); You jumping on a mattress (back: BOUNCE); The wheels of an auto (back: ROLL, and they also spin); A box pushed across the floor (back: SLIDE)
-- **Printable tokens: 5 mats:** ROLL mat; SLIDE mat; SPIN mat; SWING mat; BOUNCE mat
+- **Printable tokens: 5 mats (cut out, or write the words on five sheets of paper):** ROLL mat; SLIDE mat; SPIN mat; SWING mat; BOUNCE mat
 - **s1 (2 min)**  
   *Parent does:* 1. Make the five mats. 2. Read each word together and act it out with hands.  
   *Parent says:* Here are five mats. Show me rolling with your hands. Now sliding, spinning, swinging and bouncing.  
   *Child mode:* Show each one with your hands. Roll, slide, spin, swing, bounce.
 - **s2 (7 min)**  
-  *Parent does:* 1. Read the cards one by one. 2. Your child acts out the motion and puts the card on a mat.  
+  *Parent does:* 1. Read the cards one by one. 2. Your child acts out the motion and puts the card on a mat. 3. Turn the card over and read the back.  
   *Parent says:* A ceiling fan. Show me with your hands how it moves. Which mat does it go on?  
   *Child mode:* Listen. Show it with your hands. Put it on a mat.
   - Ask: Why did you put the auto wheels on ROLL? (good: They go round and round along the road.; They turn as the auto moves.)
@@ -169,7 +169,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Child mode:* Count the cards on each mat.
   - Check: A chappal moves on a wet floor, and the same part keeps touching the floor. Which mat? → **SLIDE**
 ### g2 · Find It Fast: the motion slip game (10 min)
-- **rules:** Fold the five slips and put them in a steel tumbler.; The player picks one slip. The grown-up reads it.; The grown-up counts slowly to 10.; Before 10, the player finds something in the room that moves that way and makes it move.; Each one found wins a tick on the score sheet. Put the slip back and pick again.; No running, and nothing breakable.
+- **rules:** Fold the five slips and put them in a steel tumbler.; The player picks one slip. The grown-up reads it.; The grown-up counts slowly to 10.; Before 10, the player finds something in the room that moves that way and makes it move.; Each one found wins a tick on the score sheet. Put the slip back and pick again.; Each player gets 5 turns. The player with the most ticks wins. If you play alone, try to beat your own total next time.; No running, and nothing breakable.
 - **Printable cards: 5 motion slips:** ROLL; SLIDE; SPIN; SWING; BOUNCE
 - **Printable score sheet: Score sheet:** Player name; ROLL; SLIDE; SPIN; SWING; BOUNCE; Total
 - **s1 (1 min)**  
@@ -177,7 +177,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Parent says:* Pick a slip. I will read it. Then find something that moves that way, before I count to ten.  
   *Child mode:* Pick a slip. Find something that moves that way. Be quick!
 - **s2 (8 min)**  
-  *Parent does:* 1. Your child picks slips and hunts. 2. Count slowly to 10 each time. 3. Tick the score sheet.  
+  *Parent does:* 1. Your child picks slips and hunts. 2. Count slowly to 10 each time. 3. Tick the score sheet. 4. Stop after 5 turns each.  
   *Parent says:* Swing! One, two, three... What did you find? Show me how it swings.  
   *Child mode:* Find it. Show how it moves. Get a tick!
   - Ask: What did you find for SPIN? (good: The ceiling fan.; A bottle cap I twisted.; Me!)
@@ -197,7 +197,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 - **results table:** How the dabba sat | My guess | How many tiles it went
 - **s1 (3 min)**  
   *Parent does:* 1. Stick two tape lines on the floor, one hand-width apart. 2. Show your child the dabba and the book.  
-  *Parent says:* This is our pusher. You hold the book on the first line. Then you slide it to the second line and stop. That is one push.  
+  *Parent says:* This is our pusher. The dabba touches the front of the book. You slide the book to the second line and stop. That is one push.  
   *Child mode:* This book is your pusher. Slide it from one line to the next. Then stop.
   - Note: Stopping the book at the second line keeps every push about the same. A short, wide dabba stands flat without tipping over. Close it tight. A roll of cello tape works just as well.
 - **s2 (3 min)**  
@@ -207,18 +207,18 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Ask: Why do you think so? (good: On its side it can roll.; Standing up it is flat, so it will stop.; It is the same dabba, so the same.)
   - Note: Any guess is fine. Write it down as your child says it. Do not explain yet.
 - **s3 (5 min)**  
-  *Parent does:* 1. Lay the dabba on its side just past the stop line, pointing down the room. 2. Your child pushes with the book 3 times. 3. Put a slip where it stops each time.  
-  *Parent says:* Lie the dabba on its side. Push it with the book, and stop at the line. Watch where it stops. Put a slip there.  
+  *Parent does:* 1. Lay the dabba on its side, touching the book. 2. Your child pushes 3 times. 3. Put a slip where it stops each time.  
+  *Parent says:* Lie the dabba on its side, touching the book. Slide the book to the line and stop. Watch where the dabba stops. Put a slip there.  
   *Child mode:* Lie the dabba on its side. Push with the book. Mark where it stops.
-  - Note: If the dabba curves into a wall, just try again. A rolling dabba often goes many tiles.
+  - Note: The round side must be on the floor, with the flat ends facing left and right. If the dabba curves into a wall, just try again. A rolling dabba often goes many tiles. If it reaches the end of the room, write "all the way". Push the same way each time, firmly enough that the standing dabba slides.
 - **s4 (5 min)**  
-  *Parent does:* 1. Stand the dabba flat at the same place. 2. Your child pushes the same way 3 times. 3. Mark where it stops each time.  
+  *Parent does:* 1. Stand the dabba flat at the same place, touching the book. 2. Your child pushes the same way 3 times. 3. Mark where it stops each time.  
   *Parent says:* Now stand the dabba flat. Push it the very same way. Where does it stop this time?  
   *Child mode:* Stand the dabba up flat. Push it the same way. Mark where it stops.
   - Ask: What did you see? (good: It slid a tiny bit and stopped.; It scraped on the floor.; It went much less far.)
   - Note: Standing flat, the dabba usually slides only a short way, often less than two tiles. Let your child hear the scrape.
 - **s5 (4 min)**  
-  *Parent does:* 1. Count the tiles to each slip together. 2. Fill in the table. 3. Ask what your child saw and why.  
+  *Parent does:* 1. Count the tiles to each slip together, or count hand-widths if your floor has no tiles. 2. Fill in the table. 3. Ask what your child saw and why.  
   *Parent says:* Let us count the tiles. Which way went further? What did you see? Why do you think it went further that way?  
   *Child mode:* Count the tiles. Which way went further? Why, do you think?
   - Ask: Why did it go further on its side? (good: It rolled.; Standing up, it rubbed on the floor.; Rolling only touches a little bit of the floor.)
@@ -235,7 +235,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Parent does:* 1. Line up the five things. 2. Ask for a guess and a reason for each. 3. Write or draw the guesses.  
   *Parent says:* Here are five things to drop. Which will bounce high, which a little, and which not at all? Why do you think so?  
   *Child mode:* Look at the five things. Which will bounce? Which will not? Why?
-  - Ask: Why do you think the dough will do that? (good: It is soft.; It is sticky.; It is squishy, so it will squash.)
+  - Ask: What do you think will happen to the dough ball when it lands? Why? (good: It will go flat, because it is soft.; It will stick, because it is sticky.; It will squash, because it is squishy.)
   - Note: Write each guess down as your child says it. Do not explain yet.
 - **s2 (7 min)**  
   *Parent does:* 1. Your child holds each thing at the edge of the table and lets go. 2. Drop each one twice. 3. Say together: high, a little, or no bounce.  
@@ -257,7 +257,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 
 ## Activities
 ### a1 · Five Ways With My Body: roll, slide, spin, swing, bounce (8 min)
-- **safety:** Move the furniture with corners out of the way. Slide slowly in socks, holding a grown-up's hand. Spin only 3 turns, then stop and sit if you feel dizzy.
+- **safety:** Move furniture with corners out of the way. Slide slowly in socks, holding a grown-up's hand.
 - **record:** Draw yourself doing your favourite one of the five.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the mat. 2. Show your child how to lie down and roll sideways like a log.  
@@ -275,7 +275,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Child mode:* Spin round three times. Stop. Now swing your arms back and forth.
   - Note: Spinning is turning round in one place. Swinging is going back and forth from one point. Your arms swing from your shoulders.
 - **s4 (2 min)**  
-  *Parent does:* 1. Your child bounces on the spot on their toes 5 times. 2. Ask which way was easiest and which was hardest.  
+  *Parent does:* 1. Your child bounces on the spot on their toes 5 times. 2. Ask which of the five ways they liked best.  
   *Parent says:* Now bounce on your toes, five times. Feel your knees bend and spring. Which of the five ways did you like best?  
   *Child mode:* Bounce on your toes five times. Which way did you like best?
   - Check: You turned round and round in one place. Which way of moving was that? → **Spinning**
@@ -312,8 +312,8 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Note: It usually swings 10 to 20 times before it nearly stops. The air and the rubbing at the handle slow it down.
 - **s3 (2 min)**  
   *Parent does:* 1. Point to the handle. 2. Ask your child to show the still point and the moving part.  
-  *Parent says:* Show me the part that stayed still. Show me the part that swung. What do you swing from when you walk?  
-  *Child mode:* Point to the still part. Point to the part that swung. What swings when you walk?
+  *Parent says:* Show me the part that stayed still. Show me the part that swung. When you walk, which part of you swings from your shoulder?  
+  *Child mode:* Point to the still part. Point to the part that swung. What swings from your shoulder when you walk?
   - Check: What stayed still while the bag swung? → **The door handle**
 ### a4 · Spin It: what spins, and where is its middle? (8 min)
 - **record:** Draw each thing with a dot at the middle and a curved arrow round it.
@@ -332,39 +332,39 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Parent says:* Which one spun the longest? Why did they all stop in the end?  
   *Child mode:* Which spun the longest? Why did they stop?
   - Note: Rubbing on the floor slows each one down. A plate or a top on its point often spins longest.
-  - Check: A pencil spins on the floor. Which part goes round the most? → **Its two ends**
+  - Check: A pencil spins on the floor. Which part moves round in the biggest circle? → **Its two ends**
 
 ## Projects
-### p1 · A Swing for Teddy (20 min)
-- **safety:** A grown-up makes the holes in the box with a pencil. Keep the chairs steady, and do not climb on them.
+### p1 · A Swing for a Toy (20 min)
+- **safety:** A grown-up makes the holes in the box, because a pencil point can slip.
 - **record:** Draw your toy on the swing, with a curved arrow going both ways.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Put two chairs a little apart with their backs facing. 2. Lay the broom handle across the two backs.  
+  *Parent does:* 1. Put two chairs a little apart with their backs facing. 2. Lay the broom handle across the two backs, and tape it down so it cannot roll off.  
   *Parent says:* This stick is the top of our swing. The swing will hang from it.  
   *Child mode:* Lay the stick across the chairs. The swing hangs from here.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Make a hole in each corner of the box with a pencil. 2. Tie a string through each hole. 3. Tie the strings to the stick so the box hangs level.  
-  *Parent says:* Tie a string to each corner. Then tie them to the stick. Make the box hang flat, so Teddy does not fall.  
+  *Parent says:* Tie a string to each corner. Then tie them to the stick. Make the box hang flat, so the toy does not fall.  
   *Child mode:* Tie the strings. Make the box hang flat.
   - Note: Two strings at the front and two at the back work best. Tape can hold them if knots are hard.
 - **s3 (6 min)**  
   *Parent does:* 1. Sit the toy in the box. 2. Your child gives one gentle push. 3. Watch it swing back and forth.  
-  *Parent says:* Sit Teddy in the swing. Give one gentle push. Where is the still point the swing hangs from?  
-  *Child mode:* Sit Teddy in. Push gently. Watch Teddy swing!
+  *Parent says:* Sit the toy in the swing. Give one gentle push. Where is the still point the swing hangs from?  
+  *Child mode:* Sit the toy in. Push gently. Watch the toy swing!
   - Ask: Why does the swing come back to you? (good: It hangs from the stick, so it goes back and forth.; It goes up, then comes back down.)
 - **s4 (2 min)**  
   *Parent does:* Ask how to make it swing again after it stops.  
   *Parent says:* The swing has stopped. How can you make it swing again?  
   *Child mode:* It stopped. How can you make it swing again?
-  - Check: Teddy's swing slows down and stops. How do you make it swing again? → **Give it another push**
+  - Check: The toy's swing slows down and stops. How do you make it swing again? → **Give it another push**
 
 ## Challenges
 ### c1 · Make the Bottle Slide, Not Roll (15 min)
-- **problem:** Divya's water bottle keeps rolling off the table. Can you make a round bottle lying on its side slide when you push it, instead of rolling?
+- **problem:** A water bottle lying on its side keeps rolling off the table. Can you make it slide when you push it, instead of rolling?
 - **your turn:** Try two ways to make the bottle slide. Which worked better? Why do you think so?
 - **constraints:** The bottle must lie on its side.; Use only things from home.; When you push it gently, it must slide and not roll.
-- **general:** Wheels let things roll, and brakes stop wheels turning, so a cycle with its brakes on slides.; Pencils are made with six flat sides so they do not roll off the desk.; A wedge pushed under a car wheel stops it rolling.
-- **creative:** Tape two pencils along the bottle, so they stick out and stop it turning.; Press a lump of dough on one side, so the bottle lies on it like a foot.; Put the bottle inside a small box, so the flat box slides instead.; Put a thick rubber band round it, so the bump catches the floor.
+- **general:** Wheels let things roll. A cycle skids when its wheels stop turning and slide along the road.; Many pencils have six flat sides, so they roll off the desk less easily than round ones.; A wedge pushed under a car wheel stops it rolling.
+- **creative:** Tape a piece of flat cardboard along the bottle, so the bottle lies on it and cannot turn.; Press a lump of dough on one side, so the bottle lies on it like a foot.; Put the bottle inside a small box, so the flat box slides instead.; Tape the bottle onto a thin book, so the book slides.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the bottle on its side. 2. Your child pushes it gently and watches it roll.  
   *Parent says:* Push the bottle gently. What does it do? Now we want it to slide instead. How could we stop it rolling?  
@@ -374,12 +374,12 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Parent does:* 1. Your child tries one idea, then pushes. 2. Then tries a second idea.  
   *Parent says:* Try your idea. Push it gently. Did it roll or slide? Now try another idea.  
   *Child mode:* Try your idea. Push it. Did it slide? Try another.
-  - Note: If your child is stuck, ask: what could stop it turning over? Any bump, flat side or foot works.
+  - Note: If your child is stuck, ask: what could stop it turning over? Any flat side or foot works.
 - **s3 (3 min)**  
   *Parent does:* Ask which idea worked best and why.  
   *Parent says:* Which idea worked best? Why did it stop the bottle rolling?  
   *Child mode:* Which idea worked best? Why?
-  - Check: Why do pencils with flat sides stay on the desk? → **Their flat sides stop them rolling**
+  - Check: You tape a bottle onto a flat piece of cardboard and push the cardboard. Why does the bottle slide and not roll? → **The flat cardboard sits on the table, so the bottle cannot turn over**
 
 ## Worksheets
 ### Five Ways to Move (core) (core, 10 questions)
@@ -387,55 +387,53 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
    **Answer:** A ceiling fan → Spin; A swing → Swing; A ball going down a slope → Roll; A rubber ball dropped on the floor → Bounce; A plate pushed on a table → Slide. *Why:* A fan turns round in one place, a swing goes back and forth, a ball on a slope turns over as it goes, a dropped rubber ball springs back up, and a pushed plate rubs along the table.
 2. (draw) Draw the Roll or Slide Test: the dabba on its side and the dabba standing flat. Draw a long line for the one that went further.  
    **Answer:** The dabba on its side with a long line, and the dabba standing flat with a short line.. *Why:* A strong drawing shows that the rolling dabba went much further than the sliding one.
-3. (mcq) Meena, a girl in Class 1, pushes a round dabba lying on its side, and then standing flat. She gives the same push. Which goes further?  
-   Options: Lying on its side / Standing flat / Both the same  
-   **Answer:** Lying on its side. *Why:* On its side the dabba rolls, and rolling hardly rubs the floor. Standing flat it slides, and its whole bottom rubs, so it stops soon.
-4. (sort) Circle in blue the things that roll. Circle in red the things that slide.  
-   **Answer:** A lemon falling off the table → Roll; Socks on a smooth floor → Slide; A cycle wheel → Roll; A book pushed across a table → Slide; A marble → Roll; A child on a park slide → Slide. *Why:* Rolling things turn over as they move along. Sliding things keep the same part touching and rubbing.
-5. (truefalse) A ball of atta dough bounces as high as a rubber ball.  
+3. (sort) Circle in blue the things that roll. Circle in red the things that slide.  
+   **Answer:** A lemon pushed along the floor → Roll; Socks on a smooth floor → Slide; A cycle wheel → Roll; A book pushed across a table → Slide; A marble → Roll; A child on a park slide → Slide. *Why:* Rolling things turn over as they move along. Sliding things keep the same part touching and rubbing.
+4. (truefalse) A ball of atta dough bounces as high as a rubber ball.  
    **Answer:** False. *Why:* False. The dough squashes and stays squashed, so it does not bounce. The rubber ball springs back to round and bounces up.
-6. (write) Say out loud, and a grown-up writes it down: why did the dabba go further when it rolled?  
+5. (write) Say out loud, and a grown-up writes it down: why did the dabba go further when it rolled?  
    **Answer:** Because when it rolled it hardly rubbed the floor. Standing flat, its bottom rubbed and stopped it.. *Why:* A strong answer says what the dabba did and talks about rubbing on the floor.
-7. (odd) Three of these spin. Which one does not?  
+6. (odd) Three of these spin. Which one does not?  
    Options: A ceiling fan / A top / A bag on a door handle / A twisted steel plate  
    **Answer:** 2. *Why:* A bag on a door handle swings back and forth. The others turn round in one place, which is spinning.
-8. (label) Look at the girl moving her body five ways. Under each, say ROLL, SLIDE, SPIN, SWING or BOUNCE, and a grown-up writes it.  
+7. (label) Look at the girl moving her body five ways. Under each, say ROLL, SLIDE, SPIN, SWING or BOUNCE, and a grown-up writes it.  
    **Answer:** ['ROLL', 'SLIDE', 'SPIN', 'SWING', 'BOUNCE']. *Why:* Each picture shows one of the five ways the body moved in Five Ways With My Body.
-9. (draw) Draw one thing in your kitchen that rolls, and one that swings.  
+8. (draw) Draw one thing in your kitchen that rolls, and one that swings.  
    **Answer:** For example, a lemon or rolling pin that rolls, and a ladle on a hook that swings.. *Why:* A strong drawing shows a real kitchen thing for each, and an arrow showing how it moves.
-10. (count) In the Roll or Slide Test, the dabba slid 1 tile, then 2 tiles. How many tiles in all?  
+9. (count) In the Roll or Slide Test, the dabba slid 1 tile, then 2 tiles. How many tiles in all?  
    **Answer:** 3. *Why:* 1 and 2 make 3.
+10. (fill) A thing that hangs from one point and goes back and forth is ___.  
+   **Answer:** swinging. *Why:* Swinging is going back and forth while hanging from one point, like the bag on the door handle.
 ### Why Things Move the Way They Do (stretch) (stretch, 10 questions)
 1. (perspective) Anjali and her brother Rohan look at a round steel plate.  
    **Answer:** Anjali. A plate slides when pushed flat, spins when twisted, and rolls when stood on its edge.. *Why:* A strong answer uses a test with a real plate. It also sees why Rohan thought so: we usually only see plates slide on a table.
-2. (mcq) Why does a rubber ball bounce?  
-   Options: It squashes and springs back to round / It is round / It is light  
-   **Answer:** It squashes and springs back to round. *Why:* A round dough ball does not bounce. The rubber ball bounces because it springs back to its shape and pushes off the floor.
-3. (draw) Draw the bag swinging on the door handle. Put a dot on the part that stays still.  
+2. (draw) Draw the bag swinging on the door handle. Put a dot on the part that stays still.  
    **Answer:** A bag hanging below a handle, with a dot on the handle and a curved arrow under it.. *Why:* A strong drawing puts the dot at the handle, the point the bag hangs and swings from.
-4. (write) Many people think round things always roll. Say what you saw in the Roll or Slide Test that shows this is not always true.  
+3. (write) Many people think round things always roll. Say what you saw in the Roll or Slide Test that shows this is not always true.  
    **Answer:** The round dabba standing flat did not roll. It slid, because its flat bottom touched the floor.. *Why:* A strong answer uses the dabba standing flat as evidence: round, but it slid.
-5. (order) Put the Bounce Test in order.  
+4. (order) Put the Bounce Test in order.  
    **Answer:** ['Guess which will bounce', 'Hold it at the table edge and let go', 'Look at the shape after it lands']. *Why:* First we guess, then we drop it, then we look at what happened to its shape.
-6. (truefalse) A swing keeps going for ever after one push.  
+5. (truefalse) A swing keeps going for ever after one push.  
    **Answer:** False. *Why:* False. The bag on the handle swung smaller and smaller and stopped. A swing needs more pushes to keep going.
-7. (mcq) Why do suitcases have wheels?  
+6. (mcq) Why do suitcases have wheels?  
    Options: Rolling is easier than sliding / Wheels make them lighter / Wheels look nice  
    **Answer:** Rolling is easier than sliding. *Why:* A rolling wheel hardly rubs the floor, so a small pull moves a heavy suitcase. Without wheels it would scrape and slide.
-8. (label) A ceiling fan is spinning. Label the part that stays still and the part that goes round the most.  
-   **Answer:** ['Stays still', 'Goes round the most']. *Why:* A spinning thing turns round its middle. The tips are furthest from the middle, so they go round in the biggest circle.
-9. (fill) A thing that turns round and round in one place is ___.  
+7. (label) A ceiling fan is spinning. Label the part that stays still and the part that moves round in the biggest circle.  
+   **Answer:** ['Stays still', 'Moves round in the biggest circle']. *Why:* A spinning thing turns round its middle. The tips are furthest from the middle, so they go round in the biggest circle.
+8. (fill) A thing that turns round and round in one place is ___.  
    **Answer:** spinning. *Why:* Spinning is turning round in one place, like a fan or a top.
-10. (write) Say out loud, and a grown-up writes it down: in the story, how did Selvi akka move the heavy cylinder, and why was it easier?  
+9. (write) In the story of Kanmani and the Rice Tin, Selvi akka brings gas cylinders. Say out loud, and a grown-up writes it down: how did she move a heavy cylinder, and why was it easier?  
    **Answer:** She tipped it onto its round edge and rolled it. Rolling rubs the floor much less than dragging.. *Why:* A strong answer says she rolled it and links this to the dabba rolling further than sliding.
+10. (truefalse) A cart wheel rubs the road as much as a box dragged along the same road.  
+   **Answer:** False. *Why:* False. A wheel rolls, so only a little of it touches the road at a time. A dragged box rubs its whole bottom along the road.
 ### Motion Puzzles (challenge) (challenge, 10 questions)
 1. (perspective) Lakshmi, Kavya and their friend Arjun watch an auto go by.  
    **Answer:** Lakshmi and Kavya are both right. Each wheel spins round its middle while it rolls along the road. The auto does not slide, unless it skids.. *Why:* A strong answer sees that one wheel can roll and spin at the same time, and that rolling is not sliding.
-2. (write) Divya's pencil keeps rolling off the desk. What could she do to stop it rolling? Say why it would work.  
-   **Answer:** Use a pencil with flat sides, or put a rubber band round it. A flat side or a bump stops it turning over.. *Why:* A strong answer changes how the pencil touches the desk, like in the bottle challenge.
-3. (mcq) Riya drops a sock ball and a rubber ball from the same table. Only the rubber ball bounces. What is the best reason?  
+2. (write) A pencil keeps rolling off the desk. What could you do to stop it rolling? Say why it would work.  
+   **Answer:** Use a pencil with flat sides, or press a lump of dough on one side so it sits flat. A flat side or a lump stops it turning over.. *Why:* A strong answer changes how the pencil touches the desk, like in the bottle challenge.
+3. (mcq) Riya, a girl in Class 1, drops a sock ball and a rubber ball from the same table. Only the rubber ball bounces well. What is the best reason?  
    Options: The socks squash but spring back only a little / The sock ball was dropped from lower down / Socks are always heavier  
-   **Answer:** The socks squash but spring back only a little. *Why:* Both fell from the same height. The socks squash and stay soft, so they do not spring back and push off the floor.
+   **Answer:** The socks squash but spring back only a little. *Why:* Both fell from the same height. The socks squash but spring back only a little, so they push off the floor only weakly.
 4. (draw) Draw a new toy that can roll, spin and bounce. Show with arrows how it does each one.  
    **Answer:** Any toy, such as a ball, with an arrow for rolling, a curved arrow for spinning, and an up arrow for bouncing.. *Why:* A strong drawing shows one thing moving in three ways, with a clear arrow for each.
 5. (sort) Sort these into: moves along the floor, or stays in one place.  
@@ -449,8 +447,8 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 9. (mcq) A coconut rolls down a slope and hits a pile of sand. It stops. Why?  
    Options: The sand rubs against it and holds it / The coconut got tired / Coconuts can only roll a little way  
    **Answer:** The sand rubs against it and holds it. *Why:* Soft sand rubs and pushes against the coconut much more than a hard road, so it stops quickly.
-10. (label) Here is a bicycle going along. Label what each part does: ROLL, SPIN or SWING.  
-   **Answer:** ['ROLL', 'SPIN', 'SWING']. *Why:* Wheels roll along the road. Pedals turn round in one place, round their middle. A hanging dupatta swings back and forth.
+10. (label) Look at a cycle going along, and a cycle turned upside down on its seat. Label each: ROLL, SPIN or SWING.  
+   **Answer:** ['ROLL', 'SPIN', 'SWING']. *Why:* Wheels roll along the road. A wheel turned in the air spins round its middle. A hanging bag swings back and forth from the handlebar.
 
 ## Videos
 - **A rubber ball bouncing, in slow motion** (, 2 min) id `to find`: Shows the ball squashing flat where it hits the floor and springing back to round, as in the Bounce Test. *Check:* Find real slow-motion footage of a rubber or tennis ball hitting a hard floor, where the squash is clearly visible.
@@ -467,27 +465,27 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 3. (mcq) Which of these swings?  
    Options: A bag hanging on a door handle / A ball on a slope / A box pushed on the floor  
    **Answer:** A bag hanging on a door handle. *Why:* A swinging thing hangs from one point and goes back and forth.
-4. (mcq) The same dabba gets the same push. Which way does it go further?  
-   Options: On its side, rolling / Standing flat, sliding / Both the same  
-   **Answer:** On its side, rolling. *Why:* Rolling hardly rubs the floor, so the dabba keeps going. Sliding rubs, so it stops soon.
-5. (mcq) Why did the dabba standing flat stop so soon?  
-   Options: Its flat bottom rubbed on the floor / It was heavier standing up / It got tired  
-   **Answer:** Its flat bottom rubbed on the floor. *Why:* When a thing slides, the same part rubs along the floor all the way, and the rubbing slows it down.
-6. (mcq) A ball of atta dough falls on the floor. What happens?  
+4. (mcq) Meera, a girl in Class 1, must move a heavy round tin across the floor with a small push. What should she do?  
+   Options: Lay it on its side and roll it / Push it standing up / Fill it with more rice  
+   **Answer:** Lay it on its side and roll it. *Why:* Rolling hardly rubs the floor, so a small push moves it. Sliding it standing up rubs its whole bottom.
+5. (mcq) A ball of atta dough falls on the floor. What happens?  
    Options: It goes flat and does not bounce / It bounces high / It rolls away  
    **Answer:** It goes flat and does not bounce. *Why:* Dough squashes and stays squashed. It does not spring back, so it does not bounce.
-7. (mcq) What does a ball need to do to bounce?  
-   Options: Squash and spring back to its shape / Be very big / Be dropped very gently  
-   **Answer:** Squash and spring back to its shape. *Why:* A ball bounces when it springs back after squashing, pushing itself off the floor.
-8. (mcq) Which of these does a steel plate NOT do easily?  
-   Options: Bounce high / Slide / Spin  
-   **Answer:** Bounce high. *Why:* A steel plate slides when pushed and spins when twisted. It hardly springs back, so it does not bounce high.
-9. (mcq) Why do carts, cycles and suitcases have wheels?  
-   Options: Rolling needs a much smaller push than sliding / Wheels make things lighter / Wheels stop things moving  
-   **Answer:** Rolling needs a much smaller push than sliding. *Why:* A wheel rolls and hardly rubs the ground, so heavy things move with a small push.
-10. (mcq) Ravi guesses the dabba will go further standing flat. What should he do next?  
+6. (mcq) A grandmother pushes a steel plate flat across the floor. How does it move?  
+   Options: It slides / It bounces / It swings  
+   **Answer:** It slides. *Why:* The same flat part keeps touching and rubbing along the floor, so it slides.
+7. (mcq) A child finds a heavy box very hard to drag. What could help?  
+   Options: Put it on a cart with wheels / Make it heavier / Drag it more slowly on its side  
+   **Answer:** Put it on a cart with wheels. *Why:* A wheel rolls and hardly rubs the ground, so heavy things move with a small push.
+8. (mcq) Ravi, a boy in Class 1, guesses the dabba will go further standing flat. What should he do next?  
    Options: Test it, and see what happens / Ask someone and believe them / Give up  
    **Answer:** Test it, and see what happens. *Why:* A guess is checked by a test. Push the dabba both ways with the same push and count the tiles.
+9. (mcq) A rolling pin goes over and over as it moves along the kitchen floor. How does it move?  
+   Options: It rolls / It swings / It bounces  
+   **Answer:** It rolls. *Why:* Rolling is turning over and over while moving along.
+10. (mcq) What does a rubber ball do for a moment when it hits the floor?  
+   Options: It squashes a little, then springs back / It spins in one place / It slides along the floor  
+   **Answer:** It squashes a little, then springs back. *Why:* The ball squashes a little where it hits, then springs back to round and pushes itself up.
 
 ## Applications
 - Wheels on carts, cycles, autos, trains and suitcases make heavy things roll instead of slide.
@@ -500,9 +498,9 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 ## Spotted around us
 - Gas cylinder delivery workers in Chennai tipping a cylinder on its edge and rolling it into a flat.
 - A potter in a Khurja or Kutch workshop spinning a wheel to shape a pot.
-- A wooden oonjal swinging in a home in Kerala or Gujarat.
+- A wooden oonjal swinging in a home in Kerala, Tamil Nadu or Gujarat.
 - Kites spinning and swooping at Makar Sankranti in Hyderabad and Ahmedabad.
-- Children sliding down the sand at Marina Beach in Chennai, and boats sliding over the sand to the sea in Odisha.
+- A child sliding down a smooth slide in a park in any Indian city.
 - A tennis ball bouncing on a gully cricket pitch in a lane in Kolkata.
 
 ## Open questions
@@ -510,9 +508,9 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 - **Who made the very first wheel, and where?** The oldest wheels found are more than 5,000 years old, from several parts of the world. Nobody knows whether one group of people invented the wheel and others copied it, or whether people in different places found it on their own.
 
 ## Questions to ask kids
-- How did the bus wheels move on the way here?
+- How do the wheels of a bus or an auto move?
 - What in the kitchen spins?
-- Can you roll a chapati rolling pin across the table? Does the rolling pin roll or slide?
+- Can you roll a rolling pin across the table? Does the rolling pin roll or slide?
 - Which parts of you swing when you walk?
 - Is the Earth rolling, spinning or swinging?
 - What in this room would bounce if you dropped it?
@@ -524,14 +522,13 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 - What is a swing's favourite music? *Swing music, of course!*
 - Why did the plate go to the playground? *To try the slide!*
 - What did the rubber ball say to the floor? *I'll be right back!*
-- Why did the bottle never win a race? *Someone stuck pencils on it!*
 - What did the dabba say after rolling across the room? *That was wheely fun!*
 - Why did the top get dizzy? *It spent all day going round in circles!*
 
 ## Connected maths
-- In the Roll or Slide Test, Meena's rolling dabba went 9 tiles. Her sliding dabba went 2 tiles. Which went further, and how many more tiles? **The rolling dabba went further, by 7 tiles.**. Count on from 2 to 9: 3, 4, 5, 6, 7, 8, 9. That is 7 more. So rolling went 7 tiles further with the same push. (queues `math.addition-subtraction.meaning.L1`)
-- In the Kitchen Motion Hunt, Fatima put 4 things on ROLL, 2 on SLIDE, 3 on SPIN, 1 on SWING and 1 on BOUNCE. Which slip had the most? Which kind was hardest to find? **ROLL had the most, 4 things. SWING and BOUNCE were hardest, with 1 each.**. 4 is the biggest number, so ROLL had the most. 1 is the smallest, and two slips had 1. Many kitchen things are round, which may be why so many rolled. (queues `math.data.sorting-and-tallies.L1`)
-- Teddy's swing went back and forth. Swati counted the swings after one push: 12. After a bigger push she counted 17. Put the pushes in order, from the one that swung fewest times to the most. **The first push, 12 swings, then the bigger push, 17 swings.**. 12 is less than 17. The bigger push made the swing go wider, so it took more swings to die down. (queues `math.number-sense.comparing-ordering.L1`)
+- In the Roll or Slide Test, a rolling dabba went 9 tiles. The sliding dabba went 2 tiles. Which went further, and how many more tiles? **The rolling dabba went further, by 7 tiles.**. Count on from 2 to 9: 3, 4, 5, 6, 7, 8, 9. That is 7 more. So rolling went 7 tiles further with the same push. (queues `math.addition-subtraction.meaning.L1`)
+- In a Kitchen Motion Hunt, 4 things were put on ROLL, 2 on SLIDE, 3 on SPIN, 1 on SWING and 1 on BOUNCE. Which slip had the most? Which kind was hardest to find? **ROLL had the most, 4 things. SWING and BOUNCE were hardest, with 1 each.**. 4 is the biggest number, so ROLL had the most. 1 is the smallest, and two slips had 1. Many kitchen things are round, which may be why so many rolled. (queues `math.data.sorting-and-tallies.L1`)
+- Two children each gave a cloth bag on a door handle one push and counted the swings. One counted 12 swings. The other counted 17. Put the counts in order, from fewest swings to most. **12 swings first, then 17 swings.**. 12 is less than 17. So the order is 12 first, then 17. (queues `math.number-sense.comparing-ordering.L1`)
 
 ## Song
 Roll, Slide, Spin, Swing and Bounce (sci.motion.L1): Topic-level song for Motion L1
@@ -561,7 +558,7 @@ Roll, Slide, Spin, Swing and Bounce (sci.motion.L1): Topic-level song for Motion
 - The Level 1 unit on how toys move uses a slope test, a drop-height bounce test and a colour top. This unit uses a flat-floor push test with one dabba two ways, a bounce test of five materials from one height, a swinging bag and a toy swing instead.
 - Rolling resistance is far smaller than sliding friction for hard wheels on hard floors. Any introductory physics text.
 - Ball deformation during a bounce: slow-motion studies of tennis and rubber balls on hard surfaces.
-- Earth's rotation speed at the latitude of India, about 1,500 to 1,650 kilometres an hour, against airliner cruising speeds of about 900 kilometres an hour.
+- Earth's rotation speed at the latitudes of India, about 1,400 to 1,650 kilometres an hour, against airliner cruising speeds of about 900 kilometres an hour.
 - Early potter's wheels in Mesopotamia from about the 4th millennium BCE, and the Ljubljana Marshes wheel, Slovenia, dated to about 3150 BCE.
 - Terracotta toy carts with wheels from Harappan sites, about 2600 to 1900 BCE.
 - Tao Te Ching chapter 11, and Plato, Cratylus 402a, on Heraclitus.

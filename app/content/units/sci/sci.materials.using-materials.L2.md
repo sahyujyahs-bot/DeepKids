@@ -3,7 +3,7 @@
 
 **Summary.** Put a steel katori on a tilted plastic sheet, and it slides off. Put it on rubber, and it stays, even when the board is steep. A material is right for a job when it has the properties the job needs. Your child tests five materials as a mat for a tray, and measures how high the board can go before the katori slides. Then they use the same results to choose a material for a slide, where the winner is the other way round.
 
-**Intro.** *Put a steel tumbler on a steel plate. Tilt the plate a little. Now put a rubber band round the tumbler's bottom and try again. What changes?* Without the rubber band, the tumbler slides. With the rubber band, it stays longer. The tumbler is the same. Only the material it stands on is different. Every job needs a material with the right properties. A tray of tumblers needs grip. A slide in the park needs the opposite. Before you read on, guess. Which material in your home grips best?
+**Intro.** *Put a steel tumbler on a steel plate. Tilt the plate more and more. Now put a rubber band round the tumbler's bottom and try again. What changes?* Without the rubber band, the tumbler slides. With the rubber band, it stays on until the plate is much steeper. The tumbler is the same. Only the material it stands on is different. Every job needs a material with the right properties. A tray of tumblers needs grip. A slide in the park needs the opposite. Before you read on, guess. Which material in your home grips best?
 
 ## Learning outcomes
 0. By the end I can say what a job needs, and choose a material that has those properties.
@@ -27,19 +27,19 @@
 ### Choosing a material: start with the job · *defined*
 **Definition:** A material is suitable for a job when it has the properties the job needs. Properties the job does not need do not matter.
 
-First ask what the job needs. A tumbler must hold water and not break when it is dropped. Steel does both, so steel is suitable. Steel is also shiny, but a tumbler does not need to be shiny. That property does not help the job. A raincoat must keep water out and bend when you move. Plastic does both. Steel keeps water out too, but a steel raincoat could not bend.
+First ask what the job needs. A tumbler must hold water and not break when it is dropped. Steel does both, so steel is suitable. Steel is also shiny, but a tumbler does not need to be shiny. A raincoat must keep water out and bend when you move. Plastic does both. Steel keeps water out too, but a steel raincoat could not bend.
 - e.g. A towel must soak up water, so it is made of cotton.
 - e.g. A window must let you see through it and keep the rain out, so it is made of glass.
 - e.g. A tray mat must stop tumblers sliding, so rubber is a good choice.
 ### Friction: why rubber grips and plastic slips · *defined*
 **Definition:** Friction is the grip between two things that touch. More friction means a thing needs a steeper slope, or a harder push, before it slides.
 
-Every surface has tiny bumps, too small to see. Even a shiny katori has them. Rubber is soft. When the katori presses on it, the rubber squashes into the tiny bumps and touches the katori in many more places. More touching means more grip. A plastic sheet is hard and smooth, so it touches the katori in fewer places. The katori slides off sooner.
+Every surface has tiny bumps, too small to see. Even a shiny katori has them. Rubber is soft, so it squashes into the bumps under the katori and touches it in many more places. More touching means more grip. A hard, smooth plastic sheet touches the katori in fewer places, so the katori slides off sooner.
 - e.g. Chappal soles, bicycle handle grips and the feet of a mixie are rubber, for grip.
 - e.g. A slide in the park is smooth steel or plastic, so children slide down.
 - e.g. Wet tiles are slippery, because a thin layer of water keeps your feet from touching the tiles.
 ### Cloth bag or plastic bag: more than one thing to think about · *debated*
-A job is not the only thing we think about when we choose a material. We also ask what it costs, how long it lasts, and what happens to it when it is thrown away. A thin plastic bag is cheap and light. But it can stay as litter for a very long time. A cloth bag lasts for years. But making one cloth bag uses much more water and energy than making one plastic bag. So a cloth bag is the kinder choice only if you use it many, many times.
+We also ask what a material costs, how long it lasts, and what happens to it when it is thrown away. A thin plastic bag is cheap and light, but it can stay as litter for a very long time. Making one cloth bag uses much more water and energy than making one plastic bag. But a cloth bag lasts for years. So a cloth bag is the kinder choice only if you use it many, many times.
 - e.g. A cotton or jute bag used every week for years.
 - e.g. A thin plastic bag used once and thrown away.
 - e.g. An old plastic bag used again and again until it tears.
@@ -70,9 +70,9 @@ A job is not the only thing we think about when we choose a material. We also as
 ## Roots
 We have tested which material grips a katori, and used the results to choose a tray mat and a slide. Now we ask what the tilt test tells us about materials, and about ourselves.
 
-**Deep truth.** On your tilted board, the soft rubber held the hard steel katori long after the others let go. The rubber squashed into tiny bumps under the katori and touched it in many more places. The hard, smooth plastic touched only the tops of those bumps. So for grip, being soft can matter more than being strong.  
-*Habit it breaks:* We think hard, strong materials hold things best, and that soft ones are weak. In the tilt test, soft, squashy rubber gave by far the best grip.  
-*Evidence:* In the tilt test, the same katori with the same coins slid off the plastic at a low tilt and stayed on the rubber until the board was about twice as high. Rubber is soft enough to squash into the tiny bumps of a surface, so it touches in many more places. This is why tyres, chappal soles and the feet of a mixie are soft rubber.
+**Deep truth.** On your tilted board, the soft rubber held the hard steel katori long after the others let go. The rubber squashed into tiny bumps under the katori and touched it in many more places. The hard, smooth plastic touched only the tops of those bumps. So a soft material can grip better than a hard one.  
+*Habit it breaks:* We think hard materials hold things best, and that soft ones are weak. In the tilt test, soft rubber gave by far the best grip.  
+*Evidence:* In the tilt test, the same katori with the same coins slid off the plastic at a low tilt and stayed on the rubber until the board was much higher. Rubber is soft enough to squash into the tiny bumps of a surface, so it touches in many more places. This is why tyres, chappal soles and the feet of a mixie are soft rubber.
 
 - *who am i:* You need grip too. Your bare feet grip a dry floor, and slip on a soapy one.
 - *what is life:* A house gecko walks across your ceiling. Tiny hairs on their toes give them the grip their life needs.
@@ -80,11 +80,11 @@ We have tested which material grips a katori, and used the results to choose a t
 
 Rubber and steel are made of tiny particles. Where they touch, the particles hold on to each other, and that holding is part of friction. Everything is conscious, so this holding is also a meeting, where each material answers the other. Many physicists describe it only as electric forces between particles, with no awareness in it. Either way, the job comes from someone who needs it: the same meeting helps on a tray and gets in the way on a slide.
 
-- **Plato, Republic, Book 1 (352e to 353a):** Socrates says you could cut a vine branch with a dagger or a kitchen knife. But nothing cuts it as well as a pruning knife, made for that job. (Socrates chose the tool by the job, and so did you. Rubber was the pruning knife of the tray mat job.)
+- **Plato, Republic, Book 1 (352e to 353a):** Socrates says you could cut a vine branch with a dagger or a kitchen knife. But nothing cuts it as well as a pruning knife, made for that job. (Socrates says a tool is best when it is made for the job. You chose rubber for the tray mat in the same way.)
 - **Zhuangzi, chapter 4 (In the World of Men), the carpenter and the oak at the shrine:** A carpenter passed a huge oak and called the tree useless. Boats from their wood would sink, and doors would ooze sap. That night the oak spoke to him in a dream. Being useless to carpenters, the oak said, was what had let them grow so old and so great. (The oak's wood was wrong for the carpenter's jobs and right for the oak's own long life. Useful always means useful for someone's job.)
 - Science (settled): Rubber grips well partly because it is soft. It squashes into the tiny bumps of the other surface and touches it in many more places.
 - Science (open): Scientists still cannot fully explain friction from what the tiny particles do where two surfaces touch.
-- Other view, Many engineers: Some materials really are better for almost every job. A material that is strong, lasts long and is cheap wins again and again, so it is fair to call it a good material.
+- Other view, Some people: A material that is strong, lasts long and is cheap does well at almost every job, so it is fair to call it a good material.
 - Practice, Grip and slip with your hands (3 min): Press your palms together and slide them slowly past each other. Feel how they grip. Now put a hanky between them and slide again. Feel how they slip. Now sit very still. Feel the floor holding you up, and the chair holding you in place. Breathe in slowly, and breathe out. Everything you touch is gripping you a little, all the time.
 - Ask: If nothing had any grip, could anything stay where you put it?
 - Ask: Is a material good, or is it only good for something?
@@ -98,19 +98,19 @@ Rubber and steel are made of tiny particles. Where they touch, the particles hol
 - *big:* Who decides what a material is for? (hint: Patsy Sherman's mixture was made for one job and turned out right for another.)
 
 ## Story: The Tray That Would Not Sit Still
-*Filter coffee in a steel tumbler and davara is served in many South Indian homes. Many mixer grinders have rubber feet, and some families put a rubber mat under them to stop them moving. Kavya, Arjun, Amma and Paati are made up.*
+*Buttermilk in steel tumblers is served in many South Indian homes. Many mixer grinders have rubber feet, and some families put a rubber mat under them to stop them moving. Kavya, Arjun, Amma and Paati are made up.*
 
 Kavya was eight. She lived with her Amma, her Paati and her little brother Arjun on the fourth floor of a building in Madurai.
 
-It was Pongal, and the flat was full of guests. Paati made filter coffee. She poured it into six steel tumblers, each standing in its own small steel bowl, called a davara.
+It was Pongal, and the flat was full of guests. Paati poured cold buttermilk into six steel tumblers.
 
-'Arjun, take the coffee to the guests,' said Amma. She put all six tumblers on a big steel tray.
+'Arjun, take the buttermilk to the guests,' said Amma. She put all six tumblers on a big steel tray.
 
-Arjun was five. He held the tray with both hands and walked very slowly. But at the kitchen door, he tipped the tray a little. All six tumblers slid to one side with a loud clatter. Coffee splashed onto the floor.
+Arjun was five. He held the tray with both hands and walked very slowly. But at the kitchen door, he tipped the tray a little. All six tumblers slid to one side with a loud clatter. Buttermilk splashed onto the floor.
 
 'The tray is too slippery,' said Arjun. His lip shook.
 
-Kavya helped him wipe the floor. Then she looked at the tray. It was smooth, shiny steel. The davaras were smooth, shiny steel too. 'Steel on steel slides,' she said. 'We need something on the tray that grips.'
+Kavya helped him wipe the floor. Then she looked at the tray. It was smooth, shiny steel. The tumblers were smooth, shiny steel too. 'Steel on steel slides,' she said. 'We need something on the tray that grips.'
 
 She tried a plastic sheet first, the kind that covers new books. She put a tumbler on it and tipped the tray a little. The tumbler slid off even faster.
 
@@ -126,7 +126,7 @@ Kavya fetched the rubber mat and laid it on the tray. She put a tumbler on it. S
 
 'Rubber!' said Kavya. 'Rubber is the best material.'
 
-Arjun carried the coffee again, on the rubber mat. Not one tumbler moved. The guests clapped, and Arjun grinned.
+Arjun carried the buttermilk again, on the rubber mat. Not one tumbler moved. The guests clapped, and Arjun grinned.
 
 The next morning, the two of them went down to the play area of their building. There was a long steel slide, shiny from years of children sliding down it.
 
@@ -144,7 +144,7 @@ Kavya laughed so much that she had to sit down. Then she stopped laughing and th
 
 She pulled the mat out from under him. Arjun shot down the shiny steel and landed on his feet, laughing.
 
-At home, Kavya told Paati about the slide. Paati smiled and put down her coffee.
+At home, Kavya told Paati about the slide. Paati smiled and put down her glass.
 
 'A spoon is good for rasam and bad for cutting vegetables,' Paati said. 'A knife is good for cutting and bad for rasam. You don't ask which one is good. You ask: good for what?'
 
@@ -161,7 +161,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 ## Games
 ### g1 · Grip or Slip? (10 min)
 - **rules:** Cut out the 12 cards. Put them face down in a pile.; One player is the caller. The caller turns over the top card and reads the front out loud.; Everyone else does the move at once. Stamp your feet for grip. Slide your hands past each other for slip.; The caller reads the back. Everyone who did the right move gets a point.; Take turns being the caller. The player with the most points when the pile is used up wins.
-- **Printable cards: 12 job cards to cut out:** A chappal sole (back: Grip. Rubber stops you slipping on the road.); A slide in the park (back: Slip. Smooth steel or plastic lets you slide down.); A mat for a tray of tumblers (back: Grip. Rubber stops the tumblers sliding.); A bathroom mat (back: Grip. It stops wet feet slipping on the tiles.); A kitchen drawer (back: Slip. It must slide open easily.); A bicycle handle (back: Grip. Rubber or foam stops your hands sliding.); The bottom of a sledge on snow (back: Slip. A smooth bottom glides over snow.); The feet of a mixie (back: Grip. Rubber feet stop the mixie moving.); A tug-of-war rope (back: Grip. A rough rope is easier to hold.); A carrom board (back: Slip. Smooth wood and powder let the coins glide.); The bottom of an iron box (back: Slip. Smooth metal glides over the clothes.); A cricket shoe (back: Grip. Its sole stops the player slipping.)
+- **Printable cards: 12 job cards to cut out:** A chappal sole (back: Grip. Rubber stops you slipping on the road.); A slide in the park (back: Slip. Smooth steel or plastic lets you slide down.); A mat for a tray of tumblers (back: Grip. Rubber stops the tumblers sliding.); A bathroom mat (back: Grip. It stops wet feet slipping on the tiles.); A kitchen drawer (back: Slip. It must slide open easily.); A bicycle handle (back: Grip. Rubber or foam stops your hands sliding.); The bottom of a sledge on snow in Kashmir (back: Slip. A smooth bottom glides over snow.); The feet of a mixie (back: Grip. Rubber feet stop the mixie moving.); A tug-of-war rope (back: Grip. A rough rope is easier to hold.); A carrom board (back: Slip. Smooth wood and powder let the coins glide.); The bottom of an iron box (back: Slip. Smooth metal glides over the clothes.); A cricket shoe (back: Grip. Its sole stops the player slipping.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Show your child the two moves.  
   *Parent says:* If a job needs grip, stamp your feet. If it needs to slip, slide your hands past each other, like this.  
@@ -179,7 +179,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   - Ask: Which job would go wrong with grip? (good: The slide. You would get stuck.; The drawer would not open.)
 ### g2 · Job Detective (15 min)
 - **rules:** Cut out all the cards. Lay the 8 question cards face up. Put the job cards face down.; The detective-keeper takes a job card and looks at it secretly.; The other players take turns to pick a question card and ask it. The keeper answers 'yes' or 'no', using the back of the job card.; After 5 questions, the other players guess the job and name a good material.; A right job gets 1 point. A suitable material gets 1 more point. Then the next player is keeper.
-- **Printable cards: 10 secret job cards to cut out:** A window (back: Needs: see-through, rigid, waterproof. Good material: glass.); A towel (back: Needs: soaks up water, flexible. Good material: cotton.); A raincoat (back: Needs: waterproof, flexible. Good material: plastic.); A tray mat (back: Needs: grip. Good material: rubber.); A slide in the park (back: Needs: slippery, strong, rigid. Good material: steel or plastic.); A kadai for cooking (back: Needs: rigid, strong, waterproof. Good material: iron or steel.); An umbrella cover (back: Needs: waterproof, flexible, strong. Good material: umbrella cloth (nylon).); A bathroom mat (back: Needs: grip, waterproof. Good material: rubber or rough plastic.); A school bag (back: Needs: strong, flexible. Good material: canvas or nylon cloth.); A rope to dry clothes (back: Needs: strong, flexible. Good material: nylon or coir rope.)
+- **Printable cards: 10 secret job cards to cut out:** A window (back: Needs: see-through, rigid, waterproof. Good material: glass.); A towel (back: Needs: soaks up water, flexible. Good material: cotton.); A raincoat (back: Needs: waterproof, flexible. Good material: plastic.); A tray mat (back: Needs: grip. Good material: rubber.); A slide in the park (back: Needs: slippery, strong, rigid. Good material: steel or plastic.); A water bucket (back: Needs: waterproof, strong. Good material: plastic or steel.); An umbrella cover (back: Needs: waterproof, flexible, strong. Good material: nylon or polyester umbrella cloth.); A bathroom mat (back: Needs: grip, waterproof. Good material: rubber or rough plastic.); A school bag (back: Needs: strong, flexible. Good material: canvas or nylon cloth.); A rope to dry clothes (back: Needs: strong, flexible. Good material: nylon or coir rope.)
 - **Printable cards: 8 question cards to cut out:** Does it need to grip?; Does it need to be slippery?; Does it need to be waterproof?; Does it need to soak up water?; Does it need to be see-through?; Does it need to bend?; Does it need to be rigid?; Does it need to be strong?
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Read the 8 question cards aloud with your child.  
@@ -189,7 +189,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   *Parent does:* 1. You start as the keeper, to show how it works. 2. Answer each question from the back of your card. 3. Swap roles after each round.  
   *Parent says:* I have a secret job. Ask me a question card.  
   *Child mode:* Ask a question. Listen to yes or no. Guess the job.
-  - Ask: It grips, and nothing else matters. What is it? (good: A tray mat. Rubber would be good.)
+  - Ask: A card says only 'Needs: grip'. Which job is it, and which material is good? (good: A tray mat. Rubber would be good.)
   - Note: Help your child use the answers together: 'It needs grip and it needs to be waterproof. What could that be?'
 - **s3 (2 min)**  
   *Parent does:* Ask the question below.  
@@ -231,7 +231,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   *Parent says:* Look at the middle numbers. Which material held the katori on the steepest tilt? Which let it slide first?  
   *Child mode:* Find the biggest number and the smallest number. Which materials are they?
   - Ask: Was your guess right? (good: Yes, the rubber held it highest.; No, I thought the cloth would be best, but the rubber was best.)
-  - Check: In most homes, which material held the katori on the steepest tilt? → **The rubber**
+  - Check: In your results table, what does a bigger number mean? → **The material held the katori longer, so it grips more**
 - **s6 (2 min)**  
   *Parent does:* 1. Ask the first question below. 2. Then ask the second one. 3. Let your child answer both from the table.  
   *Parent says:* Paati wants a mat for her tray, so the tumblers don't slide. Which material should she use? Now a park needs a new slide. Which material should it be covered with?  
@@ -272,7 +272,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   *Parent does:* 1. Now look for things that need to slip. 2. Try a drawer, the carrom board, an iron box's flat bottom, a plastic comb through hair. 3. Draw all the things.  
   *Parent says:* Now find things that are meant to slide. What would happen if a drawer had a rubber bottom?  
   *Child mode:* Find 3 things that slip. Draw all your things.
-  - Note: Do not test slipperiness by walking on wet floors. Looking and sliding things with your hands is enough.
+  - Note: Do not test slipperiness by walking on wet floors. Looking and sliding things with your hands is enough. Look at the iron box only when it is unplugged and cool.
 ### a3 · Heavy or Light: does a heavier katori grip better? (12 min)
 - **record:** Write the three heights for the empty katori and for the heavy one. Circle the middle numbers.
 - **s1 (2 min)**  
@@ -353,9 +353,9 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 ### Grip, Slip and the Right Material (core) (core, 10 questions)
 1. (match) Draw a line from each job to the property it needs most.  
    **Answer:** a tray mat → grips; a raincoat → waterproof; a towel → soaks up water; a window → see-through. *Why:* Each job needs a different property. We choose the material by what the job needs.
-2. (mcq) In the tilt test, which material usually holds the katori on the steepest tilt?  
-   Options: Newspaper / Rubber bands / A plastic sheet  
-   **Answer:** Rubber bands. *Why:* Rubber is soft. It squashes into the tiny bumps under the katori, so it grips. Picking plastic may mean thinking smooth things grip, but smooth and hard means fewer places touch.
+2. (mcq) In the tilt test, what do we measure?  
+   Options: How high the lifted end is when the katori slides / How heavy the katori is / How long the board is  
+   **Answer:** How high the lifted end is when the katori slides. *Why:* We read the height of the lifted end at the moment the katori starts to slide. A bigger height means more grip.
 3. (truefalse) Friction is the grip between two things that touch.  
    **Answer:** True. *Why:* True. Friction stops things sliding. It is why your chappal does not slip on the road.
 4. (draw) Draw the tilted board with the katori sitting on the rubber bands. Draw an arrow to show which way the katori would slide.  
@@ -387,7 +387,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 5. (truefalse) A katori full of coins always stays on a steeper tilt than an empty katori.  
    **Answer:** False. *Why:* False. The full katori presses down harder and grips more, but it is also pulled down the slope more. On paper or cloth, they slide at about the same tilt.
 6. (perspective) A park in Hyderabad needs a new slide. Revathi and Gurpreet disagree.  
-   **Answer:** A strong answer picks one and gives a reason, such as 'plastic stays cooler'. It also gives the other side its due, such as 'steel lasts longer'.. *Why:* Both are real reasons. A slide has more than one job: to be slippery, to last, and to be safe to touch in the sun.
+   **Answer:** A strong answer picks one and gives a reason, such as 'plastic is not as hot to touch'. It also gives the other side its due, such as 'steel lasts longer'.. *Why:* Both are real reasons. A slide has more than one job: to be slippery, to last, and to be safe to touch in the sun.
 7. (draw) Draw a silly tray mat made of a very slippery material. Show what happens to the tumblers.  
    **Answer:** A tray with a shiny plastic mat and tumblers sliding off.. *Why:* A strong drawing shows the tumblers sliding, because a slippery mat has little grip.
 8. (label) Label each part of the umbrella with its material and the job it does.  
@@ -398,7 +398,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 10. (fill) A material that is right for a job is called ____ for that job.  
    **Answer:** ['suitable']. *Why:* Suitable means it has the properties the job needs.
 ### Good for What? (challenge) (challenge, 10 questions)
-1. (perspective) Meenakshi and her cousin Arjun are arguing about rubber.  
+1. (perspective) Meenakshi and her cousin Anitha are arguing about rubber.  
    **Answer:** A strong answer says both are right about different jobs: rubber's grip is good for a tray and bad for a slide.. *Why:* Grip is not good or bad on its own. It is good or bad for a job.
 2. (write) Patsy Sherman's spilt mixture was made for the fuel pipes of jet planes. It turned out to be right for a different job. What job, and what property made it right?  
    **Answer:** Keeping cloth clean. Water and oil ran off it, so dirt did not stick.. *Why:* A strong answer names the new job and the property that made the material suit it.

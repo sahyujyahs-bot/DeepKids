@@ -26,33 +26,33 @@
 **Definition:** An inherited feature is one that comes from the genes you got from your parents.
 
 Inside the cells of your body are tiny instructions called genes. You got half of them from your mother and half from your father. Genes help decide many features: the colour of your eyes, whether your hair is curly, the shape of your ears. Some inherited features show at birth. Others grow later, like your adult teeth. Practice does not change them. In the Practice Test, your thumb stayed the same length, however much you wiggled it.
-- e.g. Brown eyes like Appa's, or a dimple like Amma's, come from genes.
+- e.g. Brown eyes like a parent's, or a dimple like a grandparent's, come from genes.
 - e.g. Curly hair can be straightened for a day. The new hair still grows out curly.
 - e.g. A kitten inherits the colour of her fur from her parents.
 ### Skills we learn · *defined*
 **Definition:** A learned skill is something you can do because you practised it, or because someone showed you how.
 
-Nobody is born riding a cycle, speaking Telugu or drawing a kolam. You learn these by watching, trying, and trying again. Each try changes you a little. Your eyes, hands and muscles learn to work together. The connections between the cells in your brain change too. Eleanor Maguire, a scientist in London, studied taxi drivers who had learned thousands of streets by heart. A part of the brain that helps with finding the way was bigger in them than in most people. In the Practice Test, your throws got better in just five minutes.
+Nobody is born riding a cycle, speaking Telugu or drawing a kolam. You learn these by watching, trying, and trying again. Each try changes you a little, and the connections between the cells in your brain change too. Eleanor Maguire, a scientist in London, found that taxi drivers who had learned thousands of streets had a bigger part of the brain that helps with finding the way. In the Practice Test, your throws got better in just five minutes.
 - e.g. A girl in Pune learns to ride a cycle while her sister holds the seat.
 - e.g. A boy in Kochi learns to swim in a pool with a teacher.
 - e.g. A child in Guwahati learns a Bihu song by singing along with her aunt.
 ### Many things are a bit of both · *defined*
 **Definition:** Many features come from genes and also from the life a being lives.
 
-Height is a good example. Genes from both parents set about how tall a child can grow. Good food, sleep and health help the child reach that height. In many countries, children today grow taller than their grandparents did, because they get more food and fewer illnesses. Language is another example. Every baby is born able to learn any language. Janet Werker, a scientist in Canada, tested babies from English-speaking homes with two different 't' sounds. Speakers of Hindi, Tamil and Telugu hear these as two sounds. English speakers hear them as one. At 6 to 8 months old, most of the babies could tell the two sounds apart. By 10 to 12 months, most could not. Their ears had tuned in to the language around them.
+Height is a good example. Genes from both parents set about how tall a child can grow. Good food, sleep and health help the child reach that height. Language is another example. Every baby is born able to learn any language. Janet Werker, a scientist in Canada, found that babies of 6 to 8 months can hear the difference between sounds that are used in Hindi, Tamil and Telugu. By 10 to 12 months, babies from English-speaking homes mostly cannot. Their ears have tuned in to the language around them.
 - e.g. Two bean plants from the same packet grow to different heights if one sits in the sun and one in a dark corner.
 - e.g. A child with tall parents grows taller with good food than with too little food.
 - e.g. A baby born in Chennai to Bengali-speaking parents can grow up speaking both Bengali and Tamil.
 ### A skill is not passed on at birth · *defined*
 **Definition:** What a parent learns or does to their body during their life does not pass to their baby at birth.
 
-A mother who is a great singer has a baby who must still learn to sing. A father who lifts heavy sacks builds strong arms. His baby is not born with those strong arms. Long ago, many people thought such changes were passed on. In the 1880s, August Weismann cut the tails off mice for five generations, and every baby mouse was still born with a full tail. Skills travel a different way. They pass from person to person by teaching and copying. That is why a skill can go to anyone who learns it, not only to a child in the family.
+A mother who is a great singer has a baby who must still learn to sing. A father who lifts heavy sacks builds strong arms. His baby is not born with those strong arms. Long ago, many people thought such changes were passed on, but tests showed it was not true. Skills pass from person to person by teaching and copying, so a skill can go to anyone who learns it.
 - e.g. A baby adopted into a Malayalam-speaking home grows up speaking Malayalam, whatever language the birth parents spoke.
 - e.g. A Bharatanatyam dancer's daughter learns to dance in classes, step by step, like every other student.
-- e.g. Paati can teach her kolam to her granddaughter and to the girl next door.
+- e.g. A grandmother who draws kolams can teach her granddaughter, and also the girl next door.
 ### Other animals, and plants, learn too · *debated*
-Humans are one kind of animal, and other animals learn as well. A young male zebra finch learns his song by listening to an older male. A young finch who never hears another finch sings a strange, broken song. Young chimpanzees learn to fish for termites with a stick by watching their mothers. Elizabeth Lonsdorf found that chimpanzee daughters watch their mothers more closely than sons do, and learn sooner. Plants learn and remember too. Monica Gagliano dropped touch-me-not plants gently, again and again. At first they folded their leaves each time. After many harmless drops, they stopped folding, and they remembered this for weeks. Some scientists call this habituation, and argue about whether it is learning.
-- e.g. A kitten learns to hunt by watching her mother and playing with her sisters and brothers.
+Humans are one kind of animal, and other animals learn as well. A young male zebra finch learns his song by listening to an older male. A young finch who never hears another finch sings a strange, broken song. Young chimpanzees learn to fish for termites with a stick by watching their mothers. Some scientists say plants learn too. Monica Gagliano dropped touch-me-not plants gently, again and again, and after many harmless drops they stopped folding their leaves. Other scientists call this habituation, a simple kind of getting used to something, and want more tests.
+- e.g. A kitten gets better at hunting by watching her mother and playing with her sisters and brothers.
 - e.g. A young zebra finch sings his father's kind of song.
 - e.g. A touch-me-not plant learns that a gentle drop is harmless.
 - **Monica Gagliano and other plant scientists:** The touch-me-not plants changed what they did after many harmless drops, and kept the change for weeks. They still folded when shaken, so they had not just got tired. That is learning and remembering.
@@ -60,7 +60,7 @@ Humans are one kind of animal, and other animals learn as well. A young male zeb
 
 ## Mostly agreed
 - Many features, like eye colour and hair shape, come from genes we get from both parents. *How we know:* Scientists can read a person's genes and match them to features. Features like these follow clear patterns in families.
-- Skills a parent learns are not passed on to their baby at birth. *How we know:* Weismann's mice were all born with full tails. Babies adopted into a family grow up speaking the language of that family, not the language of their birth parents.
+- Skills a parent learns are not passed on to their baby at birth. *How we know:* Babies adopted into a family grow up speaking the language of that family, not the language of their birth parents. Scientists have tested many times whether changes to a parent's body pass to babies, and they do not.
 - Practice changes the body, and also the brain. *How we know:* Eleanor Maguire found that London taxi drivers who learned thousands of streets had a bigger part of the brain that helps with finding the way. Muscles grow stronger with use.
 
 ## How we found out
@@ -73,7 +73,7 @@ Humans are one kind of animal, and other animals learn as well. A young male zeb
   Against: Nobody is born playing the veena or drawing a kolam. Even people with a gift for a skill practise for years to become good at it.
 - **Changes a parent makes to their own body are passed on to their children.** (Many people, including Jean-Baptiste Lamarck in 1809; *rejected*)  
   For: Children of strong, hard-working parents are often strong, and children of musicians are often musical.  
-  Against: Weismann cut the tails off mice for five generations, and every baby still had a full tail. Children of musicians usually grow up hearing music every day, so they learn it at home.
+  Against: Tests found that changes to a parent's body, such as muscles built by hard work, are not passed on. Children of musicians usually grow up hearing music every day, so they learn it at home.
 - **Being left-handed is a bad habit, so children should be made to write with the right hand.** (A common idea in many places, including India, until not long ago; *rejected*)  
   For: Most tools and desks are made for right-handed people, so life can be easier for them.  
   Against: About 1 person in 10 is left-handed. It runs partly in families and starts before birth. It is not a habit. Forcing a child to switch hands makes writing harder for them.
@@ -81,7 +81,7 @@ Humans are one kind of animal, and other animals learn as well. A young male zeb
 ## Roots
 We have tested what practice can change and what it cannot. Now we ask what this tells us about who we are.
 
-**Deep truth.** In your test, practice made your throws land better, but your thumb stayed the same length. Your thumb grew from genes you got from your parents. Your throwing skill grew from your own tries. A skill is not passed on at birth, so every child must learn it again.  
+**Deep truth.** In your test, practice made your throws land better, but your thumb stayed the same length. Your thumb's length comes mostly from the genes you got from your parents. Your throwing skill grew from your own tries. A skill is not passed on at birth, so every child must learn it again.  
 *Habit it breaks:* We say a skill 'runs in the family', as if it came with the body. The test shows that features come through genes, while skills come through practice and teaching.  
 *Evidence:* In the Practice Test, more balls went in the bucket after five minutes of practice. The thumb mark on the paper strip stayed in the same place.
 
@@ -99,13 +99,13 @@ Every child starts with features from a long line of parents. Then each child ad
 - Other view, Some scientists who study twins: Twin studies show that genes also shape how easily a person learns some skills, like music or running. So for them, being good at something is never only practice. Genes and practice work together.
 - Practice, Born Breath, Learned Breath (3 min): Sit still, with your hands in your lap. Just breathe, the way you always do. Nobody taught you to breathe. You could do it the moment you were born. Now let us try a learned breath. Breathe in slowly while I count to four. Breathe out slowly while I count to four. Do it three more times. Was the last one easier than the first? That is practice, working on you right now.
 - Ask: If you could choose, would you rather be born with a skill, or learn it yourself? Why?
-- Ask: When Paati teaches you her kolam, does she still have it? Who has it now?
+- Ask: When an older person teaches you a kolam, do they still have it? Who has it now?
 - Ask: A touch-me-not plant learns, a finch learns, and you learn. Is learning the same thing in all three?
 
 ## Deep and big questions
-- *big:* If Paati teaches you her song, and one day you teach it to your own child, whose song is it? (hint: Think about where the song lives. Is it in Paati, in you, or in everyone who sings it?)
+- *big:* If an older person teaches you a song, and one day you teach it to your own child, whose song is it? (hint: Think about where the song lives. Is it in the person who taught you, in you, or in everyone who sings it?)
 - *big:* Is a language something a family owns, or something anyone can learn? (hint: Think about a child from another state who learned your language at school.)
-- *deep:* Why did your throws get better, but your thumb did not? (hint: Think about what changes when you practise: your aim, your hand, your brain. Then think about what built your thumb.)
+- *deep:* Two children practise the same amount. Must they become equally good? (hint: Think about the idea that genes can help some people learn a skill faster. Does that mean practice does not matter?)
 - *deep:* A baby can hear the sounds of every language. Most grown-ups cannot. What happens in between? (hint: Remember Janet Werker's babies, and the two 't' sounds.)
 
 ## Story: Paati's Kolam Hands
@@ -160,41 +160,41 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 
 ## Games
 ### g1 · Born, Learned or Both? A sorting game (15 min)
-- **rules:** Lay the three mats on the floor: Born with it, Learned it, and Both.; Shuffle the cards and put them in a pile, words up.; Take the top card. Read it, or ask a grown-up to read it.; Say which mat it goes on, and why. Then turn the card over to check.; If you were right, keep the card. If not, put it on the right mat.; Play until all the cards are used. The player with the most cards wins.
+- **rules:** Lay the three mats on the floor: Born with it, Learned it, and Both.; Shuffle the cards and put them in a pile, words up.; Take turns. On your turn, take the top card. Read it, or ask a grown-up to read it.; Say which mat it goes on, and why. Then turn the card over to check the answer.; If you were right, you score 1 point. If you were wrong, you score nothing. Either way, put the card on the right mat.; Play until all 16 cards are on the mats. The player with the most points wins. If you tie, you all win. If you play alone, try to beat your own score next time.
 - **Printable cards: 16 sorting cards to cut out:** Brown eyes (back: Born with it. Eye colour comes from the genes you got from your parents.); Speaking Telugu (back: Learned it. A baby learns the language spoken around them.); Riding a cycle (back: Learned it. Everyone wobbles at first, and gets better with practice.); Curly hair (back: Born with it. Curly hair comes from genes. Straightened hair still grows out curly.); Drawing a kolam (back: Learned it. It takes many mornings of practice.); Being tall (back: Both. Genes set about how tall you can grow. Good food and health help you get there.); Swimming (back: Learned it. People learn to swim with practice, often with a teacher.); A dimple (back: Born with it. A dimple comes from the genes you got from your parents.); Making rasam (back: Learned it. Someone shows you, and you try it many times.); A newborn baby holding a finger tightly (back: Born with it. Babies can grip a finger tightly from the day they are born.); A duckling swimming the day after she hatches (back: Born with it. Ducklings can swim almost as soon as they hatch.); A young zebra finch singing his song (back: Learned it. He learns the song by listening to an older male finch.); Being left-handed (back: Both. It runs partly in families. But even identical twins can use different hands.); The shape of your ears (back: Born with it. Ear shape comes from genes.); Singing a Bihu song (back: Learned it. Children in Assam learn Bihu songs from the people around them.); Being a fast runner (back: Both. Genes help shape your legs and muscles. Training makes you faster.)
-- **Printable board: Three sorting mats, one on each sheet:** Born with it; Learned it; Both
+- **Printable board: 3 sorting mats, one on each sheet:** Born with it; Learned it; Both
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 16 cards and write the three mats. 2. Lay the mats on the floor. 3. Read the rules aloud.  
+  *Parent does:* 1. Cut out the 16 cards. 2. Lay the three mats on the floor. 3. Read the rules aloud.  
   *Parent says:* Some things about us come from our parents' genes. Some we learn. Some are a bit of both. Let us sort these cards and see.  
   *Child mode:* Look at the three mats. Born with it. Learned it. Both.
 - **s2 (9 min)**  
-  *Parent does:* 1. Take turns with the cards. 2. Ask for a reason each time. 3. Turn the card over to check.  
+  *Parent does:* 1. Take turns with the cards. 2. Ask for a reason each time. 3. Turn the card over to check. 4. Give 1 point for a right answer.  
   *Parent says:* Speaking Telugu. Which mat? Why do you think so? Now turn it over and check.  
   *Child mode:* Read the card. Pick a mat. Say why. Turn it over.
   - Ask: Why does riding a cycle go on Learned it? (good: Nobody is born riding a cycle.; You have to practise to get better.)
   - Note: Accept any good reason, then let the back of the card decide. The Both cards are the tricky ones. Talk about them a little longer.
 - **s3 (3 min)**  
-  *Parent does:* Count the cards on each mat together, then ask the last question.  
-  *Parent says:* Which mat has the most cards? Was any card a surprise?  
-  *Child mode:* Count the cards on each mat. Which card surprised you?
+  *Parent does:* Count the cards on each mat together and add up the points, then ask the last question.  
+  *Parent says:* Which mat has the most cards? Which player has the most points? Was any card a surprise?  
+  *Child mode:* Count the cards on each mat. Count your points. Which card surprised you?
   - Check: Which card goes on the Both mat? → **Being tall**
-### g2 · Who Taught Them? A memory game (12 min)
-- **rules:** Mix the 16 cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; If one card shows a skill and the other says how that skill was learned, you keep the pair and have another turn.; If not, turn them face down again. The next player has a turn.; When all the pairs are found, the player with the most pairs wins.
-- **Printable cards: 16 memory cards to cut out, in 8 pairs:** A girl in Kochi speaks Malayalam.; She heard her family speak it every day.; A young chimpanzee fishes for termites with a stick.; She watched her mother do it many times.; A young zebra finch sings his song.; He listened to an older male finch sing.; A boy in Pune rides a cycle.; His sister held the seat while he practised.; A girl in Madurai draws a kolam.; Her Paati showed her, morning after morning.; A touch-me-not plant keeps her leaves open when she is dropped gently.; She was dropped many times, and was never hurt.; A kitten catches a paper ball.; She watched her mother hunt and played with her sisters and brothers.; A girl in Imphal plays football well.; She played every evening with her friends.
+### g2 · How Did They Learn? A memory game (12 min)
+- **rules:** Mix the 16 cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; If the two cards belong together, one showing a skill and one saying how that same skill was learned, you keep the pair and have another turn.; If not, turn them face down again. The next player has a turn.; When all 8 pairs are found, the player with the most pairs wins. If you tie, you all win.
+- **Printable cards: 16 memory cards to cut out, in 8 pairs:** A girl in Kochi speaks Malayalam.; The girl in Kochi heard her family speak Malayalam every day.; A young chimpanzee fishes for termites with a stick.; The young chimpanzee watched her mother fish with a stick, many times.; A young zebra finch sings his song.; The young zebra finch listened to an older male finch sing.; A boy in Pune rides a cycle.; The boy in Pune practised while his sister held the seat.; A girl in Madurai draws a kolam.; The girl in Madurai was shown by her Paati, morning after morning.; A touch-me-not plant stays open when dropped gently.; The touch-me-not plant was dropped gently many times, and was never hurt.; A kitten catches a paper ball.; The kitten watched her mother hunt, and played with her sisters and brothers.; A girl in Imphal plays football well.; The girl in Imphal played football with her friends every evening.
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Mix them and lay them face down in 4 rows of 4.  
   *Parent says:* Each skill card has a partner card that says how the skill was learned. Let us find the pairs.  
   *Child mode:* Lay the cards face down. Find a skill and how it was learned.
 - **s2 (8 min)**  
   *Parent does:* Take turns turning over two cards. Read both aloud each time.  
-  *Parent says:* A boy in Pune rides a cycle. His sister held the seat while he practised. Is that a pair?  
-  *Child mode:* Turn over two cards. Read them. Is it a pair?
+  *Parent says:* A boy in Pune rides a cycle. The boy in Pune practised while his sister held the seat. Do those two belong together?  
+  *Child mode:* Turn over two cards. Read them. Do they belong together?
   - Ask: Who taught the young zebra finch his song? (good: An older male finch.; He learned it by listening.)
-  - Note: The touch-me-not card may surprise your child. Plants learn and remember too: scientists dropped these plants gently many times, and the plants stopped folding their leaves.
+  - Note: The touch-me-not card may surprise your child. Scientists dropped these plants gently many times, and the plants stopped folding their leaves. Some scientists say this is learning, and some say it is getting used to something.
 - **s3 (2 min)**  
   *Parent does:* When all pairs are found, ask the last question.  
-  *Parent says:* Was any of these skills something the learner was born with?  
-  *Child mode:* Were any of these skills there from birth?
+  *Parent says:* Now think about all eight skills. Which of them did someone have from the day they were born?  
+  *Child mode:* Which of these skills were there from birth?
   - Ask: Were any of these skills there from birth? (good: No, every one was learned.; They all needed someone to watch, or lots of tries.)
 
 ## Experiments
@@ -205,23 +205,23 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 - **record:** Fill in the table for Round 1 and Round 2. Stick the thumb strip under the table.
 - **results table:** Round | Balls in the bucket, out of 10 | Thumb mark on the strip
 - **s1 (3 min)**  
-  *Parent does:* 1. Show your child the bucket, the balls and the paper strip. 2. Ask both questions, and for a reason each time. 3. Write the guesses at the top of a sheet.  
+  *Parent does:* 1. Show your child the bucket, the balls and the paper strip. 2. Ask both questions, and for a reason each time. 3. Write the guesses at the top of a sheet for your child.  
   *Parent says:* We are going to practise two things. Throwing, and stretching your thumb. After five minutes, will more balls go in? Will your thumb be longer? Why do you think so?  
   *Child mode:* You will practise throwing. You will practise stretching your thumb. Guess what will change. Why?
   - Ask: Will your thumb be longer after practice? (good: No, because a thumb does not grow from practice.; Maybe a tiny bit, if I stretch it hard.)
   - Note: Any guess is fine. Write it down and say nothing yet. Some children think stretching might make the thumb longer. The test will show them.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child uses the hand they do not write with. They lay the strip along that thumb, from the tip to the crease at the base. 2. You make a small pencil mark at the crease. 3. Write 'before' next to it.  
+  *Parent does:* 1. Your child uses the hand they do not write with. They lay the strip along that thumb, with the end of the strip level with the tip of the thumb. 2. You make a small pencil mark on the strip at the crease where the thumb joins the hand. 3. Write 'before' next to the mark.  
   *Parent says:* Lay the strip along your thumb, from the tip to the line where your thumb joins your hand. Hold still while I mark it.  
   *Child mode:* Lay the strip on your thumb. Hold still. We mark where it ends.
   - Note: Always measure from the same place, the tip of the thumb to the crease at the base. That keeps the test fair.
 - **s3 (4 min)**  
-  *Parent does:* 1. Put the bucket two big steps away from the chappal line. 2. Your child throws 10 times with the hand they do not write with. 3. Count the balls that land in. 4. Pick up the balls after every three throws.  
+  *Parent does:* 1. Put the bucket two big steps away from the chappal line. 2. Your child throws 10 times with the hand they do not write with. 3. Count the balls that land in and stay in. 4. Pick up the balls after every three throws. 5. Write the number in the table as Round 1.  
   *Parent says:* Stand behind the line. Use the hand you do not write with. Throw 10 times. I will count how many go in.  
   *Child mode:* Stand at the line. Use your other hand. Throw 10 times. Count with me.
-  - Note: We use the hand your child does not write with, so there is lots of room to get better. Write the number in the table as Round 1.
+  - Note: We use the hand your child does not write with, so there is lots of room to get better.
 - **s4 (6 min)**  
-  *Parent does:* 1. Set a timer for five minutes. 2. Your child keeps throwing from the same line, with the same hand. 3. Every minute, your child also wiggles and stretches the thumb 10 times.  
+  *Parent does:* 1. Set a timer for five minutes. 2. Your child keeps throwing from the same line, with the same hand, and picks up the balls when they are all thrown. 3. Every minute, your child also wiggles and stretches the thumb 10 times.  
   *Parent says:* Now practise. Watch where each ball lands, and change your throw a little each time. Every minute, stretch your thumb 10 times too.  
   *Child mode:* Practise throwing for five minutes. Watch where the ball lands. Stretch your thumb too.
   - Ask: What are you changing as you practise? (good: How hard I throw.; Where I aim.; How high I throw.)
@@ -229,13 +229,13 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   *Parent does:* 1. Your child throws 10 more times from the same line. 2. Count the balls that land in and write it as Round 2. 3. Measure the thumb again with the same strip, and mark it 'after'.  
   *Parent says:* Now the real test again. Ten throws. Then let us measure your thumb with the same strip.  
   *Child mode:* Throw 10 times again. Count. Then measure your thumb again.
-  - Note: If the number did not go up, that can happen in one short session. Practise again tomorrow for five minutes and test again. Most children's scores rise by the second day. The thumb mark will be in the same place.
+  - Note: If the number did not go up, that can happen in one short session. Practise again tomorrow for five minutes and test again. Scores usually rise with more practice. The new thumb mark should be in the same place, or within the width of a pencil line. A tiny difference comes from measuring, not from growing.
   - Check: What did you find after practice? → **More balls went in, and the thumb stayed the same**
 - **s6 (4 min)**  
   *Parent does:* 1. Ask your child three things, one at a time. What did you find? What did you see that shows it? Why do you think it happened? 2. Then read the explanation cards together.  
   *Parent says:* So, what changed with practice? What did you see that tells you? Why do you think the throws changed, but the thumb did not?  
   *Child mode:* Say what you found. Say what you saw. Why do you think it happened?
-  - Note: A strong answer: more balls went in after practice, but the thumb mark stayed in the same place. Throwing is a skill, so practice changes it. The length of my thumb is a feature I inherited, so practice does not change it. Let your child say it in their own words first.
+  - Note: A strong answer: more balls went in after practice, but the thumb mark stayed in the same place. Throwing is a skill, so practice changes it. The length of the thumb is a feature inherited through genes, so practice does not change it. Let your child say it in their own words first.
 
 ## Activities
 ### a1 · Born With It or Learned It? A family survey (12 min)
@@ -245,15 +245,15 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   *Parent says:* We are going to be scientists who ask questions. For each person, we find one thing they got from their parents, and one thing they learned.  
   *Child mode:* Draw the table. Choose two or three people to ask.
 - **s2 (6 min)**  
-  *Parent does:* Your child asks each person these questions, and you help write the answers. 1. What is one feature you got from your parents? 2. Which language did you speak first, and who did you learn it from? 3. What is one thing someone taught you to do?  
-  *Parent says:* Ask Amma: what feature did you get from your parents? Which language did you speak first? Who taught you to cook?  
+  *Parent does:* Your child asks each person these questions, and you help write the answers in the table. 1. What is one feature you got from your parents? 2. What is one thing you learned to do? 3. Who taught you?  
+  *Parent says:* Ask each person: what feature did you get from your parents? What is one thing you learned to do? Who taught you?  
   *Child mode:* Ask each person. What did you get from your parents? What did you learn? Who taught you?
   - Note: Families are made in many ways. If your child is adopted, or some relatives are far away, ask anyone in the household. The learned column works for everyone.
 - **s3 (3 min)**  
   *Parent does:* Look at the table together and ask the questions below.  
   *Parent says:* Look at the Who taught them column. Was it always a parent? Did anyone learn something from a friend, a teacher or a neighbour?  
   *Child mode:* Look at the table. Who taught each skill? Was it always a parent?
-  - Ask: Did every skill come from a parent? (good: No, Amma learned to cycle from her brother.; No, Appa learned English at school.)
+  - Ask: Did every skill come from a parent? (good: No, one person learned to cycle from a brother.; No, one person learned English at school.)
 ### a2 · What Could I Do When I Was Born? (10 min)
 - **record:** A chart with two columns: Born able to, and Learned later. Draw one picture in each column.
 - **s1 (4 min)**  
@@ -271,18 +271,19 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   *Child mode:* Which list is longer? Why?
   - Note: There is no single answer. Human babies are born able to do only a few things, and learn most things later from the people around them.
 ### a3 · Three New Words (8 min, 2 days)
-- **record:** Write or draw the three words and what they mean. Put a tick by each one you remembered the next day.
+- **record:** You write the three words and what they mean (or your child draws them). Put a tick by each one your child remembered the next day.
 - **schedule:** day 1: Learn three words from someone who speaks another language. (6 min); day 2: Say the three words again without help. (2 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Find someone who speaks a language your child does not. A grandparent's language, a neighbour's, or a friend's. 2. Your child asks them for three words: water, thank you, and good morning. 3. Your child says each word five times.  
-  *Parent says:* Ask Aunty Grace how to say water, thank you and good morning in Mizo. Say each word five times.  
+  *Parent does:* 1. Find someone who speaks a language your child does not. A grandparent's language, a neighbour's, a friend's, or a relative on a phone call. 2. Your child asks them for three words: water, thank you, and good morning. 3. Your child says each word five times. 4. You write each word down, with what it means.  
+  *Parent says:* Ask them how to say water, thank you and good morning in their language. Say each word five times.  
   *Child mode:* Ask for three words. Water. Thank you. Good morning. Say each one five times.
   - Note: Any language works: Konkani, Tulu, Bengali, Mizo, Urdu, Kannada, or a language from abroad. The point is that your child was not born with these words, and learns them now.
 - **s2 (2 min)**  
   *Parent does:* The next day, your child says the three words without help. Tick the ones they remember.  
   *Parent says:* Can you still say the three words? You were not born knowing them. Now they are part of you.  
   *Child mode:* Say your three words. Did you remember them?
-  - Ask: Where did these words come from? (good: I learned them from Aunty.; Someone taught me.)
+  - Ask: Where did these words come from? (good: I learned them from the person who taught me.; Someone taught me.)
+  - Note: It is fine if your child forgot one word. That shows how practice keeps a skill. Say the word again together a few times.
   - Wait: Come back tomorrow.
 
 ## Projects
@@ -290,7 +291,7 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 - **record:** Seven kolam drawings with the date and the number of breaks on each. A row of numbers from day 1 to day 7.
 - **schedule:** day 1: Draw five dots and loop one line round them. Count the breaks in your line. Write the date. (6 min); day 2: Draw the same kolam. Count the breaks. (4 min); day 3: Draw the same kolam. Count the breaks. (4 min); day 4: Draw the same kolam. Count the breaks. (4 min); day 5: Draw the same kolam. Count the breaks. (4 min); day 6: Draw the same kolam. Count the breaks. (4 min); day 7: Draw the kolam one last time. Lay all seven in a row and compare. (9 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Draw a simple five-dot kolam for your child to copy. 2. Your child makes five dots and tries to loop one line round them, without lifting the pencil. 3. Count the places where the line broke or the pencil lifted. 4. Write the date and the number.  
+  *Parent does:* 1. Draw the pattern for your child to copy: five dots in a row, about two finger-widths apart. 2. Your child draws their own five dots. 3. Your child loops one line round all the dots, over and under the row, back to the start. 4. The pencil must not lift. 5. Count the places where the line broke or the pencil lifted. 6. Write the date and the number.  
   *Parent says:* Every day this week, you will draw this same kolam. Today is day 1. Let us count how many times your line breaks.  
   *Child mode:* Make five dots. Loop one line round them. Count the breaks.
   - Note: Use the same pattern every day, so you can compare fairly. A break is any place where the line stops and starts again.
@@ -303,22 +304,21 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   *Parent does:* 1. On day 7, your child draws the kolam one last time. 2. Lay all seven drawings in a row. 3. Read the numbers of breaks aloud, from day 1 to day 7.  
   *Parent says:* Look at day 1 and day 7 side by side. What changed? Did your fingers change, or did your skill change?  
   *Child mode:* Lay out all seven. Look at day 1 and day 7. What changed?
-  - Ask: What made your kolam better? (good: I practised every day.; My hand learned to move slowly and evenly.)
   - Check: Your kolam got better over seven days. Why? → **You practised**
 
 ## Challenges
 ### c1 · Teach It in Five Minutes (18 min)
-- **problem:** Teach a grown-up a small skill they cannot do yet, in five minutes, so that at the end they can do it alone.
+- **problem:** Teach a grown-up a small skill they do not know yet, in five minutes, so that at the end they can do it alone.
 - **your turn:** Now pick a new skill, and teach it to someone younger than you. Which way of teaching worked best?
 - **constraints:** You have five minutes.; You may not do it for them.; At the end, they must do it alone, while you watch.
 - **general:** Show the whole skill slowly, once, before they try.; Break it into small steps, and teach one step at a time.; Let them try each step, and help only when they are stuck.
 - **creative:** Draw a picture guide with one step in each box.; Make up a short rhyme that says the steps in order.; Teach the whole skill without talking, only by showing.
 - **s1 (3 min)**  
-  *Parent does:* 1. Your child picks a skill: a paper boat, a clapping game, a three-dot kolam or a few words in another language. 2. Your child picks a grown-up who cannot do it yet.  
+  *Parent does:* 1. Your child picks a skill: a paper boat, a clapping game, a three-dot kolam or a few words in another language. 2. Your child picks a grown-up who does not know it yet.  
   *Parent says:* You are the teacher today. Which skill will you teach, and to whom?  
   *Child mode:* Pick a skill you can do. Pick a grown-up to teach.
 - **s2 (10 min)**  
-  *Parent does:* 1. Start the timer for five minutes. 2. Your child teaches. 3. The grown-up tries each step, and does not pretend to know it.  
+  *Parent does:* 1. Start the timer for five minutes. 2. Your child teaches. 3. The grown-up tries each step, and does not pretend to know it. 4. Use the rest of the time to set up and put things away.  
   *Parent says:* Teach me. I will try every step. If I get stuck, show me again.  
   *Child mode:* Teach your grown-up. Show slowly. Let them try.
   - Note: Be a real learner. Make the mistakes a beginner makes. This lets your child see how a skill passes from one person to another.
@@ -332,49 +332,48 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 ### Born or Learned? (core) (core, 10 questions)
 1. (sort) Sort these into two groups: Born with it, and Learned it.  
    **Answer:** curly hair → Born with it; speaking Kannada → Learned it; brown eyes → Born with it; tying shoelaces → Learned it; the shape of your nose → Born with it; swimming → Learned it. *Why:* Hair shape, eye colour and nose shape come from genes. Speaking a language, tying laces and swimming are learned by practice.
-2. (mcq) In the Practice Test, what changed after five minutes of practice?  
-   Options: How many balls went in the bucket / How long the thumb was / Nothing changed  
-   **Answer:** How many balls went in the bucket. *Why:* Throwing is a skill, so practice made it better. The thumb is a feature that grew from genes, so it stayed the same.
-3. (draw) Draw your thumb strip from the Practice Test. Show the 'before' mark and the 'after' mark where they really were.  
+2. (draw) Draw your thumb strip from the Practice Test. Show the 'before' mark and the 'after' mark where they really were.  
    **Answer:** One strip with the two marks at the same place.. *Why:* A strong drawing shows the two marks in the same place, because practice did not change the length of the thumb.
-4. (write) Say it to a grown-up, who writes it down. In the Practice Test, why did we throw 10 balls in each round, and not just 1?  
+3. (write) Say it to a grown-up, who writes it down. In the Practice Test, why did we throw 10 balls in each round, and not just 1?  
    **Answer:** One throw can be lucky or unlucky. Ten throws show how good you really are.. *Why:* A strong answer says that one throw could be a fluke, so many throws make the test fair.
-5. (truefalse) A baby is born already able to speak the language of her parents.  
-   **Answer:** False. *Why:* False. Every baby learns the language spoken around them, after they are born.
-6. (match) Draw a line from each skill to how it was learned.  
+4. (truefalse) If you straighten curly hair for a day, the new hair that grows out will be straight.  
+   **Answer:** False. *Why:* False. Straightening changes only the hair you already have. The new hair grows from the same genes, so it comes out curly.
+5. (match) Draw a line from each skill to how it was learned.  
    **Answer:** Riding a cycle → Practising while someone held the seat; Speaking Bengali → Hearing people speak it every day; Drawing a kolam → Being shown, and trying every morning; A young finch's song → Listening to an older male finch. *Why:* Every one of these skills was learned, by practice, by listening or by being shown.
-7. (perspective) Kavya, a girl in Class 2, and her brother Rohan listen to their aunt sing Carnatic music.  
-   **Answer:** Kavya is closer. Nobody is born singing Carnatic music, so the aunt practised a lot. Rohan may be a little right: genes can help a voice, but they do not teach a song.. *Why:* A strong answer says singing is learned by practice, and is fair to Rohan's idea that genes can help.
-8. (label) Here is Lakshmi, a girl in Class 2. Draw a ring round two things she inherited. Draw a box round two things she learned.  
+6. (perspective) Mala, a girl in Class 2, and her brother Rohan listen to their aunt sing Carnatic music.  
+   **Answer:** Mala is closer. Nobody is born singing Carnatic music, so the aunt practised a lot. Rohan may be a little right: genes can help a voice, but they do not teach a song.. *Why:* A strong answer says singing is learned by practice, and is fair to Rohan's idea that genes can help.
+7. (label) Here is Lakshmi, a girl in Class 2. Draw a ring round two things she inherited. Draw a box round two things she learned.  
    **Answer:** Rings round her curly hair and her dimple. Boxes round the veena she is playing and the Tamil book she is reading.. *Why:* Hair shape and a dimple come from genes. Playing the veena and reading are skills she learned.
-9. (count) Nandini, a girl in Class 2, did the Practice Test. In Round 1, 2 balls went in. In Round 2, after practice, 5 balls went in. How many more went in after practice?  
-   **Answer:** 3 more. *Why:* 5 take away 2 leaves 3. Practice helped 3 more balls land in the bucket.
-10. (fill) To get better at a skill, you need to ________.  
+8. (count) Kamala, a girl in Class 2, asked 5 relatives who taught them a skill. 3 said a parent. The others said a teacher or a friend. How many did not learn from a parent?  
+   **Answer:** 2. *Why:* 5 take away 3 leaves 2. So 2 people learned from someone who was not a parent.
+9. (fill) To get better at a skill, you need to ________.  
    **Answer:** practise. *Why:* A skill gets better each time you practise it.
+10. (fill) The shape of your hair comes from your ________.  
+   **Answer:** genes. *Why:* Hair shape is an inherited feature. It comes from the genes you got from your parents.
 ### Born or Learned? (stretch) (stretch, 10 questions)
 1. (order) Put these steps of learning to ride a cycle in order, from first to last.  
    **Answer:** ['Someone holds the seat while you pedal', 'You wobble and put your feet down', 'You ride a little way alone', 'You ride all the way down the road alone']. *Why:* A skill grows step by step. Each try makes you a little better.
-2. (write) Say it to a grown-up, who writes it down. Priya's Amma is a wonderful cook. Will Priya be born able to make rasam? What will she need to do?  
+2. (write) Say it to a grown-up, who writes it down. Priya, a girl in Class 2, has an Amma who is a wonderful cook. Was Priya born able to make rasam? What will she need to do?  
    **Answer:** No. Priya will need someone to show her, and she will need to practise many times.. *Why:* A strong answer says cooking is a skill, so Priya must learn it. Her Amma can teach her.
 3. (mcq) Very young babies can hear the difference between the sounds of every language. What happens by the time they are one year old?  
    Options: They get better at the sounds of the language around them, and lose some others / They can hear no sounds at all / They can speak every language  
    **Answer:** They get better at the sounds of the language around them, and lose some others. *Why:* Janet Werker found that babies of 6 to 8 months could tell two Hindi 't' sounds apart, and by 10 to 12 months most could not. Their ears tune in to the language they hear.
-4. (perspective) Deepa and Grace, two girls in Mumbai, are talking about Deepa's uncle. He lifts heavy sacks at the market every day, and his arms are very strong.  
-   **Answer:** Grace is right. Muscles built by work are not passed on at birth. August Weismann cut the tails off mice for five generations, and every baby was born with a full tail. Deepa is right that strong parents often have strong children, because genes help shape a body.. *Why:* A strong answer picks Grace, uses Weismann's mice as evidence, and is fair to Deepa's idea.
-5. (draw) Draw one thing you could do on the day you were born, and one thing you learned later.  
-   **Answer:** For example, a baby gripping a finger, and a child riding a cycle.. *Why:* A strong drawing shows a born-able action, like gripping or crying, and a learned skill, like walking or cycling.
-6. (truefalse) If a mother cuts her finger and it leaves a scar, her baby will be born with the same scar.  
-   **Answer:** False. *Why:* False. A scar is a change to the mother's body during her life. It does not pass to the baby.
+4. (perspective) Deepa and Grace, two girls in Mumbai, are talking about Deepa's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.  
+   **Answer:** Grace is right. Muscles built by work are not passed on at birth. Deepa is right that strong parents often have strong children, because genes help shape a body.. *Why:* A strong answer picks Grace and is fair to Deepa's idea.
+5. (draw) Draw two bean plants that grew from the same packet of seeds. One sat in the sun and one sat in a dark corner. Show how each plant looks after two weeks.  
+   **Answer:** One tall green plant in the sun, and one short pale or thin plant in the dark corner.. *Why:* The two plants have the same kind of genes, but they grew differently because of the light. Genes and life work together.
+6. (truefalse) Only children can learn a new language. Grown-ups cannot.  
+   **Answer:** False. *Why:* False. Grown-ups can learn new languages too. It is often easier when you are young, but it can be done at any age.
 7. (odd) Which one is NOT learned?  
    Options: Speaking Marathi / Swimming / The colour of your eyes / Writing your name  
    **Answer:** 2. *Why:* Eye colour comes from genes. Speaking Marathi, swimming and writing are learned.
-8. (count) Revathi, a girl in Class 2, drew the same kolam for a week. On day 1, her line broke 5 times. On day 7, it broke 1 time. How many fewer breaks did she make on day 7?  
-   **Answer:** 4 fewer. *Why:* 5 take away 1 leaves 4. Her line broke 4 fewer times after a week of practice.
-9. (mcq) Thenu's parents are both tall. Thenu eats good food and plays outside. Why is Thenu tall?  
+8. (mcq) Thenu, a girl in Class 2, has two tall parents. She eats good food and sleeps well. Why is Thenu tall?  
    Options: Only because of her genes / Only because of her food / Because of her genes and her food  
    **Answer:** Because of her genes and her food. *Why:* Height comes from genes and from good food and health, so it is a bit of both.
-10. (write) Say it to a grown-up, who writes it down. Scientists dropped a touch-me-not plant gently, again and again. At first she folded her leaves. Later she kept them open. Did she inherit this, or learn it? Why do you think so?  
-   **Answer:** She learned it. She changed during her own life, after many harmless drops.. *Why:* A strong answer says the change came after many drops in the plant's own life. So this was learned, not inherited.
+9. (write) Say it to a grown-up, who writes it down. Scientists dropped a touch-me-not plant gently, again and again. At first the plant folded the leaves. Later the plant kept the leaves open. Was this behaviour inherited, or learned? Why do you think so?  
+   **Answer:** Learned. The plant changed during their own life, after many harmless drops.. *Why:* A strong answer says the change came after many drops in the plant's own life. So this was learned, not inherited.
+10. (write) Say it to a grown-up, who writes it down. A teacher tells a left-handed child to write with the right hand. Is this a good idea? Why do you think so?  
+   **Answer:** No. Being left-handed is not a bad habit. It starts before birth, and forcing a child to switch hands makes writing harder.. *Why:* A strong answer says left-handedness is not a habit that can be trained out.
 
 ## Videos
 - **A young zebra finch learning to sing** (, 3 min) id `to find`: Shows a young bird learning his song by listening to an older male, so the child sees that other animals learn too. *Check:* Find a short, accurate clip from a university or science channel. Check it says young males learn from an older male, and shows the song getting better.
@@ -382,19 +381,19 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 - **A young chimpanzee learning to fish for termites** (, 3 min) id `to find`: Shows a young chimpanzee watching her mother and copying her, so the child sees a skill passed on by watching. *Check:* Find a calm, real wildlife clip, ideally from Gombe in Tanzania. Check it shows a young chimpanzee watching and then trying.
 
 ## Quiz
-1. (mcq) Revathi has her Amma's curly hair. How did she get it?  
+1. (mcq) Revathi, a girl in Class 2, has her Amma's curly hair. How did she get it?  
    Options: She inherited it from her parents / She learned it / She practised it  
    **Answer:** She inherited it from her parents. *Why:* Curly hair comes from genes that Revathi got from her parents.
-2. (mcq) Joseph, a boy in Kottayam, can swim across the pond. How did he get this skill?  
+2. (mcq) In the story, Meera got something from Paati when she was born. What was it?  
+   Options: Her long fingers / Her kolam skill / Her Tamil words  
+   **Answer:** Her long fingers. *Why:* Meera inherited long fingers through genes. The kolam and the words are learned.
+3. (mcq) Joseph, a boy in Kottayam, can swim across the pond. How did he get this skill?  
    Options: He was born with it / He learned it by practising / He got it from his Appa's genes  
    **Answer:** He learned it by practising. *Why:* Swimming is a skill. Joseph learned it by practising.
-3. (mcq) In the Practice Test, you stretched your thumb for five minutes. What happened to its length?  
-   Options: It got longer / It stayed the same / It got shorter  
-   **Answer:** It stayed the same. *Why:* The length of your thumb is an inherited feature. Practice does not change it.
 4. (mcq) In the Practice Test, why do we throw from the same line in every round?  
    Options: So the test is fair / Because the bucket is heavy / So we can throw faster  
    **Answer:** So the test is fair. *Why:* If the line moved closer, more balls would go in, even without practice. Keeping it the same makes the test fair.
-5. (mcq) Anjali's Amma speaks five languages. What will Anjali's new baby brother speak on the day he is born?  
+5. (mcq) Anjali, a girl in Class 2, has a new baby brother. Anjali's Amma speaks five languages. What will the baby speak on the day he is born?  
    Options: All five languages / No language yet. He will learn from the people around him / Only English  
    **Answer:** No language yet. He will learn from the people around him. *Why:* Languages are learned. A baby is born able to learn any language, but speaks none on the first day.
 6. (mcq) In the 1880s, August Weismann cut the tails off mice. What tails did their babies have?  
@@ -409,7 +408,7 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 9. (mcq) Why do young chimpanzees watch their mothers fish for termites with a stick?  
    Options: They learn how to do it by watching / They are bored / They already know how  
    **Answer:** They learn how to do it by watching. *Why:* Young chimpanzees learn to fish for termites by watching their mothers, and then trying.
-10. (mcq) Shabnam's family has drawn rangoli for many generations, and Shabnam is very good at it. What is the best reason?  
+10. (mcq) Shabnam, a girl in Class 2, comes from a family that has drawn rangoli for many generations. Shabnam is very good at it. What is the best reason?  
    Options: She practised with her family for years / She was born knowing how / Rangoli is in her genes  
    **Answer:** She practised with her family for years. *Why:* Rangoli is a skill. It passes from person to person by teaching and practice, not through genes.
 
@@ -426,31 +425,30 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 - A family that speaks two or three languages at home, like Tamil and Telugu, or Bengali and Hindi.
 
 ## Open questions
-- **How much of being good at music or sport comes from genes, and how much from practice?** Studies of twins show both matter. How the two work together for each skill is still being worked out.
+- **How much of being good at music or sport comes from genes, and how much from practice?** Studies of twins show both matter. Scientists are still working out how the two work together for each skill.
 - **Can a parent's life leave small marks that pass to a child?** Genes can be switched on and off. Some scientists think things like hunger in a parent may change these switches in a child. Others say the evidence is weak. It is still argued about.
 - **Why do young children usually learn a new language more easily than grown-ups?** Scientists agree it is often easier when young. They argue about why, and about whether there is a best age to start.
 
 ## Questions to ask kids
 - Who taught you that? Was it a parent, a friend or a teacher?
 - What is one thing you can do now that you could not do last month?
-- What did you get from Amma or Appa that you did not have to learn?
+- What did you get from your parents that you did not have to learn?
 - Look at the crow at the window. Do you think she learned anything today?
-- If you could learn any skill from anyone in our family, which would it be?
+- If you could learn any skill from anyone in your family, which would it be?
 
 ## Jokes
 - Why did the cycle fall over? *It was two tyred.*
 - What did the baby say when someone asked if he could talk? *Nothing. He was still learning!*
 - Why did the zebra finch go to music class? *To learn to tweet in tune.*
 - Why did the girl bring a ladder to her singing lesson? *To reach the high notes.*
-- What did the genes say to the skills? *We will give her the eyes. You give her the moves!*
-- Knock knock. Who is there? Practice. Practice who? *Practice makes progress!*
+- What did the genes say to the skills? *We gave you your eyes. Now you have to learn the rest!*
 - Why was the dosa so good at flipping? *It practised every morning on the tawa.*
 - Why did the kolam never get lost? *It always looped round and came back home.*
 - What do you call a dog who learned magic tricks? *A labracadabrador.*
 
 ## Connected maths
 - Nandini did the Practice Test three times. Round 1: 3 balls went in. Round 2: 6 went in. Round 3: 7 went in. Between which two rounds did she improve the most? **Between Round 1 and Round 2.**. From Round 1 to Round 2, she went from 3 to 6. That is 3 more. From Round 2 to Round 3, she went from 6 to 7. That is 1 more. 3 is bigger than 1, so she improved most between Round 1 and Round 2. (queues `math.number-sense.comparing-ordering.L2`)
-- Selvi asked 8 people in her building which language they spoke first. Tamil: 4 people. Telugu: 2 people. Malayalam: 1 person. Bengali: 1 person. Draw a pictograph with one face for each person. Which language has the most faces? **Tamil, with 4 faces.**. Draw a row for each language. Tamil gets 4 faces, Telugu 2, Malayalam 1 and Bengali 1. Tamil's row is the longest. 4 + 2 + 1 + 1 = 8, so every person is shown. (queues `math.data.pictographs.L2`)
+- Selvi asked 8 relatives who taught them their best skill. A parent: 4 people. A teacher: 2 people. A friend: 1 person. A brother or sister: 1 person. Draw a pictograph with one face for each person. Who taught the most people? **A parent, with 4 faces.**. Draw a row for each kind of teacher. A parent gets 4 faces, a teacher 2, a friend 1 and a brother or sister 1. The parent row is the longest. 4 + 2 + 1 + 1 = 8, so every person is shown. (queues `math.data.pictographs.L2`)
 - Revathi counted the breaks in her kolam line each day for a week: 6, 5, 5, 3, 2, 2, 1. How many fewer breaks did she make on day 7 than on day 1? On how many days was the number the same as the day before? **5 fewer breaks. On 2 days the number was the same as the day before.**. 6 take away 1 leaves 5. Day 3 had 5, the same as day 2. Day 6 had 2, the same as day 5. So the number stayed the same on 2 days, and still went down over the week. (queues `math.addition-subtraction.number-facts.L2`)
 
 ## Song

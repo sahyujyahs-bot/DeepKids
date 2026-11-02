@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Hold a dry onion skin in one hand and a banana peel in the other. Which one feels wet? Now guess. Which bin does each one go in?",
-  "text": "The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. To rot means to be slowly eaten by tiny living beings, until it turns into soil. Dry waste means waste that does not rot quickly. So how do you know which bin a thing goes in, if feeling it does not tell you? Your napkin test will help you find out.",
+  "text": "The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? Your napkin test will help you find out.",
   "art": "A child's two hands, one holding a shiny wet banana peel and one holding a crackly brown onion skin, with a question mark between them."
  },
  "outcomes": [
@@ -94,7 +94,7 @@
    "status": "defined",
    "context": "This card explains what wet waste is, and why a dry leaf belongs with it.",
    "definition": "Wet waste is waste that rots. It comes from plants or animals: food, peels, shells, leaves and flowers.",
-   "description": "Wet waste gets its name because most kitchen scraps are wet. But the real rule is that it rots. A peel, an onion skin and a dry leaf all came from a plant. Tiny living beings called decomposers eat them, and in some weeks they turn into soil. Bacteria and fungi choose this food, take it in and grow. That is why a dry leaf goes in the wet bin, even though it feels dry.",
+   "description": "Most kitchen scraps are wet, so wet waste got its name. But the real rule is that it rots. A peel, an onion skin and a dry leaf all came from plants, and decomposers slowly eat them. So a dry leaf goes in the wet bin, even though it feels dry.",
    "examples": [
     "Peels of banana, potato, carrot and onion.",
     "Leftover rice, idli, sambar or chapati.",
@@ -109,7 +109,7 @@
    "status": "defined",
    "context": "This card explains what dry waste is, and why a wet milk packet still belongs with it.",
    "definition": "Dry waste is waste that does not rot quickly, like plastic, paper, glass, metal and cloth.",
-   "description": "Most decomposers cannot eat plastic, glass or metal, so these things stay the same for years. Much dry waste can be recycled, which means made into new things. But it must be clean and dry first. A milk packet with milk inside is wet, yet it goes in the dry bin. Rinse it, let it dry, and it is ready for the dry bin. Paper comes from trees, but it goes in the dry bin, because clean paper can be made into new paper.",
+   "description": "Decomposers cannot easily eat plastic, glass or metal, so these do not rot quickly. Much dry waste can be recycled, which means made into new things, but only if it is clean and dry. So a milk packet with milk inside must be rinsed and dried first. Paper comes from trees, but it goes in the dry bin, because clean paper can be made into new paper.",
    "examples": [
     "A rinsed milk packet or oil packet.",
     "Old newspaper and cardboard boxes.",
@@ -124,7 +124,7 @@
    "status": "defined",
    "context": "This card explains what happens to the waste from our bins after it leaves home.",
    "definition": "Waste does not disappear when it leaves home. Sorted wet waste can go to a compost place. Sorted dry waste can go to a sorting shed and then for recycling. Mixed waste often goes to a dump.",
-   "description": "A waste collector takes the bins from your home. In many cities, wet waste goes to a compost place, where decomposers turn it into compost for plants. Dry waste goes to a sorting shed. There, workers, many of them women, sort it into paper, plastic, glass and metal, and sell it to be made into new things. When wet and dry waste are mixed, they are hard to use. Mixed waste often goes to a dump outside the town, where it smells, attracts flies and can catch fire.",
+   "description": "A waste collector takes the bins from your home. In many cities, wet waste goes to a compost place, where decomposers turn it into compost for plants. Dry waste goes to a sorting shed, where workers, many of them women, sort it into paper, plastic, glass and metal to be sold and made into new things. Mixed waste is hard to use, so it often goes to a dump outside the town.",
    "examples": [
     "Peels from a sorted green bin can become compost in a few weeks.",
     "A rinsed milk packet from a blue bin can be sold and made into new plastic things.",
@@ -137,14 +137,14 @@
    "concept": "Where should dry leaves go?",
    "status": "debated",
    "context": "This card is about dry leaves, a thing people do not all agree about.",
-   "description": "Dry leaves rot, so most city guides say they go with wet waste. But some people burn them, and some cities collect leaves and garden waste on their own. People still argue about the best way.",
+   "description": "Dry leaves rot, so most city guides say they go with wet waste. Some people burn them, and some cities collect leaves separately. People still argue about the best way.",
    "examples": [
     "A dry leaf from a potted plant can go in the wet bin or in a compost pot.",
     "Burning a heap of leaves makes thick smoke."
    ],
    "perspectives": [
     {
-     "who": "Most city guides and the Class 3 NCERT book",
+     "who": "Most city guides",
      "explanation": "Dry leaves rot like peels, so they go in the green bin, with wet waste."
     },
     {
@@ -230,7 +230,7 @@
   "title": "Thangam Akka's Two Drums",
   "mins": 8,
   "read_aloud": true,
-  "note": "Kavya, her Paati, Arun, Appa and Thangam Akka are made up. Many Indian cities use a green bin for wet waste and a blue bin for dry waste. In many buildings a waste collector comes each morning with a cart.",
+  "note": "Kavya, her Paati, Arun, Appa, Thangam Akka and Muniyamma are made up. Kodungaiyur is a real waste dump in Chennai. Many Indian cities use a green bin for wet waste and a blue bin for dry waste.",
   "text": [
    "Kavya lived on the third floor of a building in Chennai. She was seven. Every morning at seven o'clock, the bell rang twice. That was Thangam Akka, who collected the waste.",
    "Thangam Akka pushed a cart with two big drums on it. One drum was green. One drum was blue. She wore a bright orange sari and thick yellow gloves, and she knew every child in the building by name.",
@@ -469,7 +469,7 @@
      "qty": 1
     },
     {
-     "item": "a spoon of leftover cooked rice",
+     "item": "a spoon of leftover cooked rice, spread flat",
      "qty": 1
     },
     {
@@ -497,7 +497,7 @@
      "qty": 1
     },
     {
-     "item": "8 paper napkins, or 4 cut in half, or 8 squares of pale tissue",
+     "item": "8 paper napkins or squares of pale tissue",
      "qty": 8
     },
     {
@@ -511,9 +511,13 @@
     {
      "item": "a pencil, to write a number on each napkin",
      "qty": 1
+    },
+    {
+     "item": "a folded tea towel or old cloth, to lay over the napkins",
+     "qty": 1
     }
    ],
-   "safety": "Wash hands with soap after touching the waste. Use a peel from today's cooking, not old smelly waste.",
+   "safety": "Wash hands with soap after touching the waste. Use a peel from today's cooking, not old smelly waste. Leave out glass and sharp tin edges.",
    "schedule": [
     {
      "day": 1,
@@ -580,7 +584,7 @@
     },
     {
      "art": "Each piece covered with a second napkin, and a heavy book pressing down on top of all of them.",
-     "caption": "2. Cover them. Press with a heavy book for 10 minutes."
+     "caption": "2. Fold each napkin over its piece. Cover with a cloth and press with a heavy book for 10 minutes."
     },
     {
      "art": "The book lifted and the pieces removed, showing wet grey spots on some napkins and clean white napkins under the onion skin, dry leaf, wrapper and newspaper.",
@@ -613,10 +617,10 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Write the numbers 1 to 8 on eight napkins. 2. Lay them on the tray. 3. Put one piece on each napkin. 4. Cover each with a second napkin. 5. Put the heavy book on top.",
+     "do": "1. Write the numbers 1 to 8 on eight napkins. 2. Lay them on the tray. 3. Put one piece on each napkin and fold the napkin over it. 4. Lay a folded cloth over all eight. 5. Put the heavy book on top.",
      "say": "Every piece is the same size. Every piece gets the same book on top. Then only the kind of waste is different.",
      "kid": "Put one piece on each napkin. Cover them. Put the book on top.",
-     "parent": "Put the peel inside face down. The book should press all eight. If it is too small, use a steel plate with a full bottle on it."
+     "parent": "Put the peel inside face down. The cloth makes thick and thin pieces press the same. If the book is too small, use a steel plate with a full bottle on it."
     },
     {
      "id": "s3",
@@ -718,7 +722,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands with soap after handling the waste. Tie the wet bag shut so nothing drips.",
+   "safety": "Wash hands with soap after handling the waste. Tie the wet bag shut so nothing drips. Leave glass, tins and other sharp things out of the bags.",
    "schedule": [
     {
      "day": 1,
@@ -1389,7 +1393,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mou, a girl in Class 2 in Kolkata, throws a dosa wrapped in greasy paper. Which bin is best for the greasy paper?",
+     "p": "Mou, a girl in Class 2 in Kolkata, has finished a dosa that came wrapped in greasy paper. Which bin is best for the greasy paper?",
      "opts": [
       "The wet bin, because it is soaked with food and will rot",
       "The dry bin, because all paper is dry waste",
@@ -1600,7 +1604,7 @@
   "Homes and buildings in many Indian cities keep a green bin for wet waste and a blue bin for dry waste.",
   "Compost made from sorted wet waste is used in parks, farms and balcony pots.",
   "Clean dry waste is sold to kabadiwalas and sorting centres, and made into new paper, plastic and metal things.",
-  "Temples and wedding halls send old flowers to be made into compost.",
+  "Some temples and wedding halls send old flowers to be made into compost.",
   "Schools and railway stations put two coloured bins side by side."
  ],
  "spotted": [
@@ -1702,7 +1706,7 @@
   {
    "problem": "Farida, a girl in Class 2 in Pune, made tally marks: wet waste |||| ||, dry waste ||||. Which has more, and by how many?",
    "answer": "Wet waste, by 3.",
-   "explain": "|||| || is 7 and |||| is 4. 7 take away 4 is 3. So his family threw 3 more wet things than dry things.",
+   "explain": "|||| || is 7 and |||| is 4. 7 take away 4 is 3. So her family threw 3 more wet things than dry things.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e2",
    "context": "This question is about the Hanger Balance. You hang one meal's wet waste and dry waste from the two ends of a clothes hanger, and see which side goes down.",
@@ -1728,7 +1732,7 @@
    "title": "NCERT textbooks online",
    "url": "https://ncert.nic.in/textbook.php",
    "kind": "interactive",
-   "why": "For the parent: the Class 3 science book, Our Wondrous World, has a chapter on taking charge of waste, which comes next after this unit."
+   "why": "For the parent: the Class 3 science book, Our Wondrous World, has a chapter on waste, which comes next after this unit."
   },
   {
    "title": "A dry waste collection centre in your ward",
@@ -1818,7 +1822,7 @@
  "sources": {
   "founder": [
    "ideas/by_topic/waste.md: the 'Waste is not a waste' week and the idea of seeing things differently, used for the roots and the question 'Will it rot?'. The Semmelweis SCI card fits handwashing and germs better than Class 2 sorting, so it was not used here.",
-   "NCERT Class 3 Our Wondrous World, Chapter 12 'Taking Charge of Waste': green bin for things that rot easily, including dried leaves and eggshells, and blue bin for metal, glass, plastic and paper. This unit leads into the Class 3 unit, which tests what wet waste does to dry waste."
+   "NCERT Class 3 Our Wondrous World, chapter on waste: green bin for things that rot easily, including dried leaves and eggshells, and blue bin for metal, glass, plastic and paper. This unit leads into the Class 3 unit, which tests what wet waste does to dry waste."
   ],
   "science": [
    "Supreme Court of India, Almitra H. Patel and another versus Union of India, Writ Petition (Civil) 888 of 1996; the Barman Committee report of 1998; Municipal Solid Wastes (Management and Handling) Rules, 2000; Solid Waste Management Rules, 2016, which ask every home to separate biodegradable, non-biodegradable and domestic hazardous waste.",
@@ -1840,7 +1844,7 @@
    "what_is_life": "Bacteria, fungi and worms eat what is left of plants and animals. Their eating turns it back into soil, where new plants grow.",
    "what_is_this_world": "Nothing is ever thrown right out of the world. Every peel and every packet goes somewhere."
   },
-  "thread": "A peel was part of a living banana plant. In the bin, bacteria and fungi find the peel, choose it as food and eat it. Their bodies grow, and what is left becomes soil. A new plant grows from that soil, and one day makes a new banana. Plastic sits outside this circle for now, because almost no decomposer eats it.",
+  "thread": "A peel was part of a living banana plant. In the bin, bacteria and fungi find the peel, choose it as food and eat it. Their bodies grow, and what is left becomes soil. New plants can grow in that soil. Plastic sits outside this circle for now, because almost no decomposer eats it.",
   "teachings": [
    {
     "source": "Tao Te Ching 16",
@@ -1861,6 +1865,10 @@
    {
     "text": "In 2016, scientists in Japan described bacteria that can slowly eat one kind of plastic. Whether such living beings could ever deal with most of our plastic is still an open question.",
     "status": "open"
+   },
+   {
+    "text": "Bacteria and fungi sense food and grow towards it. They are conscious beings, and thinking is not only done by brains.",
+    "status": "debated"
    }
   ],
   "other_view": {
@@ -1881,8 +1889,8 @@
   "art": "A child holding a dry onion skin over a green bin, with a dotted path from the bin into the soil and up into a small green plant."
  },
  "how_we_found_out": {
-  "story": "For a long time, many towns in India treated waste in one simple way. Trucks carried mixed garbage out of the town and tipped it onto open land. Many officials thought that once it was out of town, the problem was gone. Almitra Patel, an engineer living near Bengaluru, saw what those dumps were really like. They smelled. They caught fire. Rain washed dirty water out of them into the ground and into wells. People who lived nearby got sick. She visited many towns to see how they handled their waste. She argued that cities must collect waste every day, keep wet and dry waste apart, and turn wet waste into compost. Many people said this would never work in India. In 1996, she took the problem to the Supreme Court of India. The court set up a committee to study it. Its work led to India's first national rules for city waste, in 2000. Newer rules, in 2016, say every home must sort its waste. Almitra Patel showed that waste is never thrown away. It only goes somewhere else.",
-  "who": "Almitra Patel, engineer and campaigner, Bengaluru; the Supreme Court of India and its committee",
+  "story": "For a long time, many towns in India took mixed garbage out of town and tipped it onto open land. Many people thought the problem was gone once it was out of sight. Almitra Patel, a scientist and campaigner near Bengaluru, looked at what those dumps were really like. They smelled and caught fire. Rain washed dirty water out of them, into the ground and into wells. She said cities must collect waste every day, keep wet and dry waste apart, and make compost from wet waste. In 1996 she took the problem to the Supreme Court of India. The court set up a committee to study it. Its work led to India's first national rules for city waste, in 2000. Rules from 2016 say every home must sort its waste. The dump was never the end of the waste. It only moved it somewhere else.",
+  "who": "Almitra Patel, scientist and campaigner, near Bengaluru; the Supreme Court of India and its committee",
   "when": "1996 (court case); 2000 (first national rules); 2016 (newer rules)",
   "wrong_idea": "That taking mixed garbage out of town and dumping it solved the problem. Almitra Patel showed that dumps poison air, soil and water, and that sorting at home, collecting every day and composting wet waste work better.",
   "art": "A woman in her sixties with short grey hair and a notebook, standing at the edge of a smoking garbage dump outside a town, writing down what she sees."

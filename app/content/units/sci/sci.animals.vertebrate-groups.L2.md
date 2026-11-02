@@ -1,7 +1,7 @@
 # Animals with a backbone: five groups and how to tell them apart
 `sci.animals.vertebrate-groups.L2`
 
-**Summary.** A fish, a frog, a lizard, a crow and you all have a backbone: a chain of small bones down the middle of the back. Animals with a backbone are called vertebrates. Scientists sort them into five groups: fish, amphibians, reptiles, birds and mammals. You tell the groups apart by checking more than one clue: what covers the body, how they breathe, and how their babies start life. Your child feels their own backbone, then makes a straw backbone to find out how a chain of hard bones can bend.
+**Summary.** A fish, a frog, a lizard, a crow and you all have a backbone, a chain of small bones down the middle of the back. Animals with a backbone are called vertebrates. Scientists sort them into five groups: fish, amphibians, reptiles, birds and mammals. You tell the groups apart by checking more than one clue. The clues are what covers the body, how they breathe, and how their babies start life. Your child feels their own backbone, then makes a straw backbone to find out how a chain of hard bones can bend.
 
 **Intro.** *Ask a grown-up to bend forward. Run your fingers down the middle of their back. You feel a row of hard bumps. Is that one long bone, or many?* The bumps you feel are bones. Together they make the backbone. A fish has a backbone too, and so do a frog, a lizard, a crow and a cow. An ant, a prawn and an earthworm do not have one. In this unit you meet the five groups of animals with a backbone. You learn the clues that tell them apart. And you build a backbone from a straw, to find out how a row of hard bones can bend.
 
@@ -32,7 +32,7 @@
 ### A backbone is a chain of small bones · *defined*
 **Definition:** A backbone is a row of small bones, called vertebrae, joined one after another along the back.
 
-Your backbone is not one long bone. It is a chain of 33 small bones called vertebrae, though a few of them join together as you grow. Between them are soft pads. Each joint can tilt only a little. But many small tilts add up, so your back can bend a lot. Each vertebra has a hole in the middle. Through the holes runs the spinal cord, a thick bundle of nerves. Nerves carry messages between your brain and your body. So the backbone holds you up, lets you bend, and keeps your spinal cord safe.
+Your backbone is not one long bone. It is a chain of 33 small bones called vertebrae, with soft pads between them. Each joint tilts only a little, but many small tilts add up, so your back can bend a lot. Every vertebra has a hole in the middle, and the spinal cord runs through the holes. The spinal cord is a thick bundle of nerves that carries messages between your brain and your body. So the backbone holds you up, lets you bend, and keeps your spinal cord safe.
 - e.g. You have 33 vertebrae.
 - e.g. A snake has a few hundred, so a snake can curl up into rings.
 - e.g. A frog has only about nine, so a frog's back is short and stiff.
@@ -57,7 +57,7 @@ A fish takes water in through the mouth and pushes it out over the gills. The gi
 A frog lays soft eggs in jelly, in water. A tadpole hatches, with a tail and gills, like a small fish. Slowly the tadpole grows legs, loses the tail and becomes a frog. A grown frog breathes with lungs, and also through the damp skin. That is why frogs stay in damp places. Amphibians include frogs, toads, and caecilians, who have no legs and live in wet soil in the Western Ghats and the Northeast.
 - e.g. The common Indian toad, seen on wet roads in the monsoon.
 - e.g. A tree frog with sticky toe pads.
-- e.g. The purple frog of the Western Ghats, who lives underground most of the year.
+- e.g. The purple frog of the Western Ghats, who lives underground most of the year. The Indian scientist S. D. Biju described her in 2003.
 - e.g. A caecilian, who looks like a big earthworm but has a backbone.
 ### Reptiles · *defined*
 **Definition:** Reptiles have dry skin covered in scales. They breathe with lungs, and most lay eggs on land.
@@ -118,7 +118,7 @@ Most school books use five groups, and the five are easy to tell apart. But some
   Against: Snake skin is dry. The shine comes from smooth scales. Frogs and toads are the ones with damp skin.
 - **Fish do not feel pain.** (An old idea, still held by some scientists; *debated*)  
   For: Fish brains are built differently from ours. Fish do not cry out or make faces when hurt.  
-  Against: Fish feel pain and fear. In 2003 the British scientist Lynne Sneddon found nerves in trout lips that sense harm. Trout given a sting stopped eating, rocked and rubbed their lips on the gravel. Some scientists still argue that fish only react, without the feeling.
+  Against: Fish feel pain and fear. In 2003 the British scientist Lynne Sneddon found nerves on the faces of trout that sense harm. Trout given a sting rocked from side to side, rubbed their lips on the gravel, and were slow to start eating again. Some scientists still argue that fish only react, without the feeling.
 - **Birds should be counted as reptiles.** (Many scientists who study family trees; *debated*)  
   For: Birds come from dinosaurs, who were reptiles. A bird's closest living relative is the crocodile. Birds have scales on their legs and lay eggs with shells, like reptiles.  
   Against: Birds have feathers, and they make their own body heat, which most reptiles do not. Many scientists find it more useful to keep birds as a group of their own.
@@ -134,7 +134,7 @@ We have learnt that a backbone is a chain of small bones, and that every fish, a
 - *what is life:* Every fish, frog, lizard, bird and mammal is built round the same kind of chain of bones.
 - *what is this world:* The world is full of backbones of every length: a frog's short one, a snake's long one and yours.
 
-More than 500 million years ago, the first animals with a backbone swam in the sea. Every fish, frog, lizard, bird and mammal alive today comes from them, humans too. The same plan, a chain of small bones, has grown into a snake's coil, a frog's short, stiff back, a giraffe's tall neck and your own bending spine. One way of building a body has become thousands of different bodies.
+More than 500 million years ago, the first animals with a backbone swam in the sea. Every fish, frog, lizard, bird and mammal alive today comes from them, humans too. The same plan, a chain of small bones, has grown into a snake's coil, a frog's short, stiff back, a giraffe's tall neck and your own bending spine.
 
 - **Samyutta Nikaya 5.10, the Vajira Sutta:** Vajira, a Buddhist nun, taught that the word 'chariot' is a name we give to many parts put together. In the same way, she said, 'a being' is a name for many parts. (In this unit, 'backbone' is one word for a chain of many vertebrae. The bending you felt happens at the joints between the parts.)
 - **Tirukkural 322:** Thiruvalluvar, the Tamil poet, wrote that sharing your food and caring for the many kinds of living beings is the greatest of all teachings. (Fish, frogs, lizards, birds and mammals are the many kinds of beings with a backbone, and humans are one of them. Knowing how each group lives, wet skin or dry, water or air, is a first step in caring for them.)
@@ -184,7 +184,7 @@ Meenakshi looked. There were no bones at all. 'The prawn has no backbone,' she s
 
 Kiran stood up and wriggled. 'I am a bendy chain,' he said. 'Like the fish.'
 
-After lunch, Meenakshi sat at the window with her notebook. She wrote two lists: 'Backbone' and 'No backbone'. A crow landed on the ledge. 'A crow has a backbone,' said Ajji, 'and so does the gecko behind the tube light.' The ants on the ledge went in the other list.
+After lunch, Meenakshi sat at the window with her notebook. She wrote two lists: 'Backbone' and 'No backbone'. A crow landed on the ledge. 'A crow has a backbone,' said Ajji. 'So does the gecko behind the tube light.' The ants on the ledge went in the other list.
 
 'So all the backbone animals are one big family?' asked Meenakshi.
 
@@ -224,7 +224,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 
 ## Games
 ### g1 · Backbone Detective: a yes-or-no question game (15 min)
-- **rules:** Before you play, draw the animal quickly on each card, so that a child who cannot read yet can play.; Mix the cards and put them face down in a pile.; One player is the keeper. The keeper takes the top card and looks at it secretly.; The others ask questions about the animal's body. The keeper may answer only yes or no.; Good questions are about clues: Does the animal have feathers? Does the mother make milk? Does the animal have gills?; When someone thinks they know the group, they say it. Then they try to guess the animal.; Count the questions. Whoever guesses the animal wins the card and becomes the next keeper.; When the pile is finished, the player with the most cards wins.
+- **rules:** Draw the animal quickly on the front of each card, under its name.; Mix the cards and put them face down in a pile.; One player is the keeper. The keeper takes the top card and reads the back secretly. The back has the clues.; The others take turns to ask one question each about the animal's body. The keeper may answer only yes or no, using the clues on the back.; Good questions are about clues: Does the animal have feathers? Does the mother make milk? Does the animal have gills?; When someone thinks they know the group, they say it. Then they try to guess the animal.; The player who guesses the animal wins the card and is the next keeper. A wrong guess means that player cannot guess again for this card.; If nobody has guessed after 15 questions, or everyone has guessed wrongly, the keeper keeps the card. The next keeper is the player on the keeper's left. With two players, you simply swap.; When the pile is finished, the player with the most cards wins.
 - **Printable cards: 20 animal cards to cut out, with the group and the clues on the back:** Sardine (back: Fish. Fins, gills and scales.); Shark (back: Fish. Fins and gills.); Seahorse (back: Fish. Gills and a small fin on the back.); Rohu (back: Fish. Fins, gills and scales.); Frog (back: Amphibian. Smooth damp skin, and starts life as a tadpole.); Toad (back: Amphibian. Damp, bumpy skin with no scales.); Purple frog (back: Amphibian. Lives underground in the Western Ghats.); House gecko (back: Reptile. Dry scales, lays eggs.); Cobra (back: Reptile. Dry scales, no legs, lays eggs.); Mugger crocodile (back: Reptile. Dry scales, lays eggs in a hole in the sand.); Olive ridley turtle (back: Reptile. A shell and dry scales, lays eggs on a beach.); Crow (back: Bird. Feathers and a beak.); Peacock (back: Bird. Feathers and a beak, and can fly up into trees.); Hen (back: Bird. Feathers, lays eggs with hard shells.); Duck (back: Bird. Feathers, and swims with webbed feet.); Cow (back: Mammal. Hair, and feeds her calf milk.); Bat (back: Mammal. Fur, and feeds her baby milk.); River dolphin (back: Mammal. Breathes air and feeds her baby milk.); Pangolin (back: Mammal. Scales, but some hair too, and feeds her baby milk.); Elephant (back: Mammal. Hair, and feeds her calf milk.)
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the 20 cards. 2. Share them and draw a quick animal on each.  
@@ -237,7 +237,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   - Ask: What is a good first question? (good: Does the animal have feathers?; Does the mother make milk?)
   - Note: Questions about clues work better than guesses. 'Does the animal have feathers?' cuts the animals in two. 'Is the animal a crow?' rules out only one animal.
 - **s3 (9 min)**  
-  *Parent does:* Take turns being the keeper. Count the questions each time.  
+  *Parent does:* Take turns being the keeper. Try to find the animal in as few questions as you can.  
   *Parent says:* Your turn to be the keeper. How few questions can we do it in?  
   *Child mode:* Now you are the keeper. Answer only yes or no.
   - Note: The pangolin, bat and river dolphin are the tricky cards. If someone asks 'Does the animal have scales?' about the pangolin, the answer is yes. Then the milk question shows she is a mammal.
@@ -265,37 +265,32 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - **record:** Fill in the results table. Draw the shape each chain made round the tumbler.
 - **results table:** Number of pieces | How many pieces touch the tumbler | Biggest gap: how many fingers fit? | Draw the shape
 - **s1 (3 min)**  
-  *Parent does:* Your child feels a grown-up's backbone while the grown-up bends forward. Ask what they feel.  
-  *Parent says:* Run your fingers down my back while I bend. What do you feel? Is it one bone or many?  
-  *Child mode:* Feel a grown-up's back while they bend. What do you feel?
-  - Ask: What did you feel? (good: Lots of bumps in a row.; Hard bits with small gaps between them.)
-- **s2 (3 min)**  
   *Parent does:* 1. Wrap tape round one end of the wool to make a stiff tip. 2. Push the tip through the straw. 3. Tie a big knot at the other end.  
-  *Parent says:* This straw is our pretend backbone. The wool is like the spinal cord that runs through the middle.  
+  *Parent says:* This straw is our pretend backbone. The wool is like the spinal cord that runs through the middle of your own backbone.  
   *Child mode:* Push the wool through the straw. This is your pretend backbone.
-- **s3 (3 min)**  
+- **s2 (3 min)**  
   *Parent does:* Show the four chains you will test: 1, 2, 4 and 8 pieces. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will cut the straw into more and more pieces. Which one will wrap round the tumbler best? Why do you think so?  
   *Child mode:* Guess. Which will wrap round the tumbler best? Why?
   - Ask: Why do you think so? (good: Eight pieces, because it can bend in more places.; One piece, because it is strong.)
   - Note: Any guess is fine, as long as there is a reason. Do not tell your child what will happen.
-- **s4 (4 min)**  
+- **s3 (4 min)**  
   *Parent does:* 1. Hold the tumbler still. 2. Wrap the straw round it. 3. Pull both ends of the wool gently. 4. Count the pieces that touch the tumbler. 5. Try to fit fingers in the biggest gap.  
   *Parent says:* Wrap it round the tumbler and pull the wool gently. How many pieces touch the tumbler? How many fingers fit in the gap?  
   *Child mode:* Wrap it round the tumbler. Count the pieces that touch. Fit your fingers in the gap.
-  - Note: A whole straw stays straight. It touches the tumbler at one point, and three or four fingers fit in the gap at each end.
-- **s5 (8 min)**  
+  - Note: A whole straw stays nearly straight. It touches the tumbler at one point, and three or four fingers fit in the gap at each end. A thin plastic straw may kink if you pull hard. A kink is a fold, not a joint, so pull gently, or use the rolled newspaper tube.
+- **s4 (11 min) · grown-up needed**  
   *Parent does:* 1. Pull the straw off the wool. 2. Cut it in half. 3. Thread both pieces and test again. 4. Cut each piece in half again for 4 pieces, then again for 8. Test each time.  
   *Parent says:* Now cut it in half and test again. Then cut again. What changes each time?  
   *Child mode:* Cut the straw in half. Test again. Then cut again and test.
   - Ask: What happens as you add more pieces? (good: It bends round more.; The gaps get smaller.; More pieces touch the tumbler.)
-  - Note: Usually 2 pieces make a bent V and touch at 2 places. 4 pieces make a square-ish shape. 8 short pieces hug the tumbler almost all the way round, with gaps too small for a finger. Each joint only tilts a little, but more joints add up to a bigger curve. Keep the pull on the wool gentle, so it does not snap.
-- **s6 (4 min)**  
-  *Parent does:* 1. Look at the results table together. 2. Ask what your child thinks, what they saw, and why. 3. Feel the grown-up's back again, bending slowly.  
-  *Parent says:* Which chain bent best? Was your guess right? Now feel my back again as I bend. Why can a backbone bend?  
-  *Child mode:* Which chain bent best? Why? Feel the grown-up's back again.
+  - Note: Usually 2 pieces make a bent V and touch at 2 places. 4 pieces make a square-ish shape. 8 short pieces hug the tumbler almost all the way round, with gaps too small for a finger. Each joint only tilts a little, but more joints add up to a bigger curve. Keep the pull on the wool gentle, so it does not snap. Cutting and threading three times is fiddly, so the grown-up helps with the scissors and the wool.
+- **s5 (4 min)**  
+  *Parent does:* 1. Look at the results table together. 2. Ask what your child thinks, what they saw, and why.  
+  *Parent says:* Which chain bent best? Was your guess right? Why can a backbone bend?  
+  *Child mode:* Which chain bent best? Why?
   - Ask: Why can your back bend, if every bone in it is hard? (good: Because it is many small bones, and each one tilts a little.; Like the 8-piece straw, it bends at lots of joints.)
-  - Note: A strong answer uses the evidence: 'The 8-piece chain hugged the tumbler, but the whole straw stayed straight. My backbone has many bones, so it bends at many joints.' Now read the card on what a backbone is.
+  - Note: A strong answer uses the evidence: 'The 8-piece chain hugged the tumbler, but the whole straw stayed straight. A backbone has many bones, so it bends at many joints.' Now read the card on what a backbone is.
   - Check: A snake can curl up into rings. What does the Bendy Backbone test tell you about a snake's backbone? → **It has a great many small vertebrae**
 ### e2 · The Clue Test: which clue sorts animals into their groups? (25 min)
 - **question:** Which clue sorts animals into their true groups best: where they live, how they move, or what covers their body?
@@ -303,22 +298,22 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - **fair test:** We use the same 18 cards every time. Only the clue changes. We count the colours on each mat the same way every time. Then we add them up. Five colours in all would mean every group stayed together.
 - **record:** Fill in the results table. Circle the clue with the fewest colours in all.
 - **results table:** Clue | Colours on each mat | Colours in all | Which animals were mixed up?
-- **s1 (6 min)**  
-  *Parent does:* 1. Write the 18 names from the note below, one on each card. 2. Your child draws each animal quickly. 3. Out of sight, put a coloured dot on the back of each card.  
-  *Parent says:* Draw a quick picture on each card. I will put a secret colour on the back. It shows the animal's true group.  
-  *Child mode:* Draw each animal on a card. Do not look at the backs!
+- **s1 (8 min)**  
+  *Parent does:* 1. Write the 18 names from the list in the grown-up note below, one on each card. 2. Your child adds a tiny picture to each. 3. Out of sight, put a coloured dot on the back of each card.  
+  *Parent says:* Add a tiny picture to each card. I will put a secret colour on the back. It shows the animal's true group.  
+  *Child mode:* Add a tiny picture to each card. Do not look at the backs!
   - Note: The 18 animals: sardine, shark, seahorse, frog, toad, tree frog, house gecko, cobra, crocodile, sea turtle, crow, duck, peacock, bat, river dolphin, cow, pangolin, you. Dots: blue for sardine, shark, seahorse. Green for frog, toad, tree frog. Brown for gecko, cobra, crocodile, turtle. Red for crow, duck, peacock. Yellow for bat, river dolphin, cow, pangolin, you.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* We will sort by three clues. Which clue will keep each group together best? Why do you think so?  
   *Child mode:* Guess. Which clue will keep the groups together? Why?
   - Ask: Why do you think so? (good: Where they live, because fish all live in water.; The covering, because fish have scales and birds have feathers.)
-- **s3 (5 min)**  
+- **s3 (4 min)**  
   *Parent does:* 1. Lay 3 mats: Water, Land, Air. 2. Your child puts each card where that animal spends most time. 3. Turn the cards over and count the colours on each mat. 4. Add them up.  
   *Parent says:* First clue: where do they live? Put each animal on Water, Land or Air. Now turn them over. How many colours on each mat?  
   *Child mode:* Sort by where they live. Turn the cards over. Count the colours.
   - Note: There is no wrong place if your child has a reason. Usually the Water mat gets 4 or 5 colours, because the dolphin, turtle, crocodile and duck join the fish. The total is usually about 10 or 11.
-- **s4 (5 min)**  
+- **s4 (4 min)**  
   *Parent does:* 1. Lay 3 mats: Swims, Walks or crawls, Flies. 2. Sort again. 3. Turn over, count and add up.  
   *Parent says:* Second clue: how do they move? Does this clue mix the groups more, or less?  
   *Child mode:* Sort by how they move. Count the colours again.
@@ -333,7 +328,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   *Parent does:* 1. Add one more clue: does the mother feed the babies milk? 2. Move every milk animal to the Hair or fur mat. 3. Count again. 4. Ask what your child thinks, what they saw, and why.  
   *Parent says:* Now add one more clue. Which animals drink milk as babies? Move them. How many colours now? What did you find?  
   *Child mode:* Move the milk animals to Hair or fur. Count again. What did you find?
-  - Note: Now there should be 5 colours in all, one on each mat. A strong answer says: 'Where they live mixed up 11 colours. Covering mixed up 7. Covering and milk together got all 5 groups right.'
+  - Note: Now there should be 5 colours in all, one on each mat. A strong answer says: 'Where they live gave 11 colours in all. Covering gave 7. Covering and milk together got all 5 groups right.'
   - Check: In the Clue Test, a pangolin went on the Dry scales mat with the reptiles. Which clue moved her to the mammals? → **Her mother fed her milk**
 
 ## Activities
@@ -386,16 +381,16 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   *Parent says:* Draw round your hand. You have five fingers, and there are five groups of animals with a backbone.  
   *Child mode:* Draw round your hand. Five fingers, five groups!
 - **s2 (8 min)**  
-  *Parent does:* For each finger, help your child write the group, one clue and draw one animal. Thumb: fish, gills. Next: amphibians, damp skin. Middle: reptiles, dry scales. Next: birds, feathers. Little finger: mammals, milk.  
+  *Parent does:* For each finger, help your child write the group, one clue and draw one animal. Thumb: fish, gills. Pointing finger: amphibians, damp skin. Middle finger: reptiles, dry scales. Ring finger: birds, feathers. Little finger: mammals, milk.  
   *Parent says:* Which group goes on your thumb? What clue helps you know a fish? Draw one.  
   *Child mode:* Write a group on each finger. Add a clue. Draw an animal.
   - Ask: Which finger are you on? (good: The mammal finger, because I have hair and drank milk.)
-  - Note: Let your child choose the animals. Help with the writing if needed. Keep the hand chart on the wall for the games.
+  - Note: Let your child choose the animals. Help with the writing if needed. Keep the hand chart on the wall to look at.
 
 ## Projects
 ### p1 · Five Dough Animals on One Backbone (40 min, 2 days)
 - **record:** A row of five dough animals with labels, and a photo or drawing of them.
-- **schedule:** day 1: Make five backbones of threaded straw pieces. Wrap dough round each to make a fish, a frog, a lizard, a bird and a person. (25 min); day 2: Add the coverings: pressed scales, smooth skin, paper feathers and wool hair. Make a label for each group and show the family. (15 min)
+- **schedule:** day 1: Make five backbones of threaded straw pieces. Wrap dough round each to make a fish, a frog, a lizard, a bird and a person. (25 min); day 2: Add the coverings: pressed scales, smooth skin, paper feathers and wool hair. Make a label for each group and show someone at home. (15 min)
 - **s1 (25 min)**  
   *Parent does:* 1. Thread 5 short chains of straw pieces. 2. Make the fish chain bendy and long. Make the frog chain very short. 3. Wrap dough round each chain to shape the five animals.  
   *Parent says:* Every animal here has a backbone. Shall we make the frog's short and the lizard's long?  
@@ -406,7 +401,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   *Parent says:* Now give each animal the right covering. Which one gets feathers? Which one stays smooth and damp?  
   *Child mode:* Give each animal the right covering. Then label them.
   - Ask: Which covering does the lizard get, and why? (good: Dry scales, because lizards are reptiles.)
-  - Wait: Do this the next day, when the dough is a little firmer.
+  - Wait: Cover the five animals with a damp cloth overnight, so the dough stays soft for pressing scales.
 
 ## Challenges
 ### c1 · A Backbone That Bends and Stands Up (20 min)
@@ -423,7 +418,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   *Parent does:* Your child tries their own ideas with the materials.  
   *Parent says:* Try one idea. Does it stand with the coin? Does it still bend?  
   *Child mode:* Try an idea. Test it. Change one thing and test again.
-  - Note: Pulling the wool tight is usually the first thing that works. Too tight, and the chain stops bending. Let your child find the balance.
+  - Note: Pulling the wool tight is usually the first thing that works. Too tight, and the chain stops bending. Let your child find the balance. It is hard to get both. A chain that stands but bends only a little, or bends well but needs a hand to stand, is still a good result. Your real backbone solves this with discs, ligaments and muscles all working together.
 - **s3 (5 min)**  
   *Parent does:* Test the best design twice: standing with the coin for 10 seconds, then wrapping round the tumbler.  
   *Parent says:* Let's test it both ways. What made it work?  
@@ -453,33 +448,30 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
    **Answer:** A strong answer sees that both ways are useful for different jobs. Lakshmi's way helps shoppers and cooks. Dr Asha's way shows which animals have the same kind of body and are related.. *Why:* There is more than one good way to sort. The scientist's five groups are best for finding relatives. The seller's way is best for cooking and selling.
 10. (count) Count the legs: a crow, a cow and a cobra. How many legs in all?  
    **Answer:** 6. *Why:* A crow has 2 legs, a cow has 4 and a cobra has none. 2 and 4 and 0 make 6. Legs alone do not tell you the group.
-### Telling the Groups Apart (stretch) (stretch, 11 questions)
-1. (odd) Which one is not a bird?  
-   Options: Crow / Sparrow / Bat / Peacock  
-   **Answer:** 2. *Why:* A bat has fur, and the mother feeds her baby milk, so a bat is a mammal. The others have feathers.
-2. (mcq) A tadpole lives in a pond. What does a tadpole breathe with?  
+### Telling the Groups Apart (stretch) (stretch, 10 questions)
+1. (mcq) A tadpole lives in a pond. What does a tadpole breathe with?  
    Options: Gills / Lungs / Feathers  
    **Answer:** Gills. *Why:* A tadpole breathes with gills, like a fish. When the tadpole becomes a frog, the frog breathes with lungs and through the damp skin.
-3. (write) An olive ridley turtle swims in the sea all her life. Why is she not a fish? Give two clues.  
+2. (write) An olive ridley turtle swims in the sea all her life. Why is she not a fish? Give two clues. A grown-up can write down what you say.  
    **Answer:** She breathes air with lungs, not gills. She has dry scales and a shell. She lays her eggs on a beach.. *Why:* A strong answer gives two clues that show she is a reptile: lungs, dry scales, eggs laid on land.
-4. (sort) Sort by skin: dry scales, or smooth damp skin?  
+3. (sort) Sort by skin: dry scales, or smooth damp skin?  
    **Answer:** house gecko → Dry scales; toad → Smooth damp skin; cobra → Dry scales; frog → Smooth damp skin; crocodile → Dry scales; tree frog → Smooth damp skin. *Why:* Geckos, cobras and crocodiles are reptiles, with dry scales. Toads, frogs and tree frogs are amphibians, with skin that has no scales. A toad's skin is bumpy, but still has no scales.
-5. (order) Put a frog's life in order.  
+4. (order) Put a frog's life in order.  
    **Answer:** ['Eggs in jelly in the water', 'A tadpole with a tail and gills', 'A tadpole with back legs', 'A young frog with a short tail', 'A grown frog']. *Why:* Eggs, then a tadpole, then legs grow, then the tail shrinks, then a grown frog. Amphibians begin life in water.
-6. (draw) Make up a new reptile and draw them. Show two clues that tell people your animal is a reptile.  
+5. (draw) Make up a new reptile and draw them. Show two clues that tell people your animal is a reptile.  
    **Answer:** A made-up animal with dry scales, and eggs with shells laid on land, or lungs.. *Why:* A strong drawing shows reptile clues, like dry scales and shelled eggs, and leaves out feathers, fur and gills.
-7. (perspective) After the Clue Test, Ammu and her friend Divya, both aged 7, argue about the best clue.  
+6. (perspective) After the Clue Test, Ammu and her friend Divya, both aged 7, argue about the best clue.  
    **Answer:** A strong answer uses the test results. Covering sorted most animals well, so Ammu is partly right. But milk only tells you about mammals, and does nothing for a frog or a lizard. Using both clues together got every animal right.. *Why:* Each clue does part of the job. Checking more than one clue works best.
-8. (label) Label the fish: gills, fin, scales, tail.  
+7. (label) Label the fish: gills, fin, scales, tail.  
    **Answer:** ['gills: under the flap behind the eye', 'fin: on the back and belly', 'scales: covering the body', 'tail: at the back end']. *Why:* Gills take in oxygen from water. Fins steer, the tail pushes, and scales cover and protect the body.
-9. (truefalse) All birds can fly.  
+8. (truefalse) All birds can fly.  
    **Answer:** False. *Why:* False. Every bird has feathers, but not every bird flies. An ostrich cannot fly, and a hen only flutters a little way.
-10. (fill) Baby frogs and toads are called ________.  
+9. (fill) Baby frogs and toads are called ________.  
    **Answer:** tadpoles. *Why:* Frogs and toads start life as tadpoles in water, with tails and gills.
-11. (count) In the Clue Test, when you sorted by where animals live, the mats had 5, 4 and 2 colours. How many colours was that in all?  
+10. (count) In the Clue Test, when you sorted by where animals live, the mats had 5, 4 and 2 colours. How many colours was that in all?  
    **Answer:** 11. *Why:* 5 and 4 make 9. 9 and 2 make 11. With only 5 groups, 11 colours means the groups were very mixed up.
-### Tricky Animals (challenge) (challenge, 11 questions)
-1. (write) A pangolin is covered in scales, like a lizard. Which clues show that she is a mammal?  
+### Tricky Animals (challenge) (challenge, 10 questions)
+1. (write) A pangolin is covered in scales, like a lizard. Which clues show that she is a mammal? A grown-up can write down what you say.  
    **Answer:** She has some hair on her face and belly, and the mother feeds her baby milk.. *Why:* A strong answer names milk, and hair if known. Scales alone do not decide the group, because fish, reptiles and pangolins all have them.
 2. (perspective) Two scientists argue about where birds belong.  
    **Answer:** A strong answer picks a side with a reason, and sees that both are right about something. Feathers make birds easy to tell apart. But birds and crocodiles really are close relatives.. *Why:* Scientists really do argue about this. It depends whether groups are for telling animals apart, or for showing who is related to whom.
@@ -488,10 +480,10 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
    **Answer:** Amphibians, like frogs. *Why:* Smooth, damp skin with no scales is the amphibian clue. A caecilian has a backbone, so is not an invertebrate. No legs is not enough to make an animal a snake.
 4. (draw) In the Bendy Backbone test you tried 1, 2, 4 and 8 pieces. Predict and draw what a chain of 16 pieces would look like round the tumbler.  
    **Answer:** An almost perfect circle round the tumbler, with almost no gaps.. *Why:* A strong drawing shows that 16 pieces curve even more closely than 8, because there are even more joints, each tilting a little.
-5. (truefalse) Every animal with scales is a reptile.  
-   **Answer:** False. *Why:* False. Fish have scales, and so does the pangolin, who is a mammal. Scales are one clue, but you need to check others too.
-6. (write) A snake has a few hundred vertebrae. You have 33. How do so many vertebrae help a snake?  
+5. (write) A snake has a few hundred vertebrae. You have 33. How do so many vertebrae help a snake? A grown-up can write down what you say.  
    **Answer:** With so many joints, a snake can bend into tight curves, coil up and wriggle along the ground without legs.. *Why:* A strong answer links many vertebrae to many joints, and many joints to a bigger, rounder bend, as in the Bendy Backbone test.
+6. (truefalse) Every animal that lives in water is a fish.  
+   **Answer:** False. *Why:* False. A river dolphin is a mammal and a sea turtle is a reptile, and both live in water. Tadpoles are amphibians. Where an animal lives is only one clue.
 7. (sort) Sort the animals: lays eggs, or gives birth to babies?  
    **Answer:** hen → Lays eggs; cow → Gives birth to babies; cobra → Lays eggs; crocodile → Lays eggs; bat → Gives birth to babies; frog → Lays eggs. *Why:* Birds, most reptiles and amphibians lay eggs. Cows and bats are mammals, and most mammals give birth to babies.
 8. (label) Label the bird: beak, feathers, wing, legs.  
@@ -501,8 +493,6 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 10. (mcq) Which of these animals is an invertebrate?  
    Options: A crab / A shark / A toad  
    **Answer:** A crab. *Why:* A crab has a hard shell outside and no backbone. A shark is a fish and a toad is an amphibian, so both have a backbone.
-11. (write) Ravi, aged 8, says: 'A bat is a bird, because a bat has wings and flies.' What would you tell Ravi?  
-   **Answer:** Flying is only one clue. A bat has fur, not feathers, and the mother feeds her baby milk. So a bat is a mammal.. *Why:* A strong answer explains why one clue is not enough and names the clues that put bats with the mammals.
 
 ## Videos
 - **A frog's life cycle: from eggs to tadpoles to frogs** (, 4 min) id `to find`: Shows how an amphibian starts life in water with gills, then grows legs and lungs. *Check:* Find a real time-lapse of frog eggs hatching into tadpoles and tadpoles growing legs, ideally an Indian species. Check the narration is accurate and calls the frogs she, he or they.
@@ -542,9 +532,9 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
    **Answer:** Where the animals live. *Why:* Sorting by where they live put the dolphin, turtle, crocodile and duck with the fish. Body covering kept most groups together.
 11. (truefalse) A river dolphin is a fish because she lives in water.  
    **Answer:** False. *Why:* False. A river dolphin breathes air and her baby drinks her milk. She is a mammal, even though she lives in water.
-12. (mcq) Which clue belongs to birds alone?  
-   Options: Two legs / Feathers / Eggs  
-   **Answer:** Feathers. *Why:* Only birds have feathers. People also walk on two legs, and reptiles, fish and amphibians lay eggs too.
+12. (mcq) How many bones are in a giraffe's neck?  
+   Options: 3 / 7 / 20  
+   **Answer:** 7. *Why:* A giraffe has 7 neck bones, the same number as you. Each of the giraffe's bones is just much longer.
 
 ## Applications
 - Doctors and physiotherapists check how a person's backbone bends, to help people with back pain move well again.
@@ -557,13 +547,13 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - A crow, a bird, on a window ledge in Chennai, with feathers and a strong black beak.
 - A house gecko, a reptile, waiting for insects beside a tube light in Hyderabad.
 - A common Indian toad, an amphibian, hopping across a wet road in Kolkata on a monsoon night.
-- Fish swimming in the temple tank at Madurai or in a pond in Guwahati.
+- Fish swimming in a village pond in Kerala or in a pond in Guwahati.
 - Indian flying foxes, big bats who are mammals, hanging upside down in a banyan tree in Bengaluru.
 - Olive ridley turtles, reptiles, coming up the beach at Rushikulya in Odisha to lay eggs in the sand.
 
 ## Open questions
 - **Why did the first animals grow a backbone?** The first animals with a backbone lived in the sea more than 500 million years ago. Scientists think a backbone may have helped them swim, or protected the nerve cord, but the fossils do not tell us for sure.
-- **How many kinds of frogs live in India?** Scientists keep finding new ones. In 2017 the Indian scientist Sonali Garg and her team named seven new night frogs from the Western Ghats. Some were small enough to sit on a thumbnail. Many more may still be waiting to be found.
+- **How many kinds of frogs live in India?** Scientists keep finding new ones. In 2017 the Indian scientist Sonali Garg and her team named seven new night frogs from the Western Ghats. Some are tiny frogs. Many more may still be waiting to be found.
 - **What is it like to be a fish?** Fish feel pain and fear, and they learn and remember. But fish sense the world through water, with gills, a sense of touch along the side of the body and eyes made for water. What that feels like from the inside, nobody knows.
 
 ## Questions to ask kids
@@ -578,7 +568,6 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - What do you call a fish with no eyes? *A fsh!*
 - Why are frogs so happy in the monsoon? *They just love to croak about the rain!*
 - What did the backbone say to the vertebra? *I couldn't stand up without you!*
-- Why did the crow sit on the clock? *To be on time for the five groups class!*
 - Which group of animals is best at music? *The fish, because they have so many scales!*
 - Why did the bat go to the bird party? *Nobody checked for feathers at the door!*
 - What do you call a turtle who takes photos? *A snapping turtle!*
@@ -588,7 +577,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - In the Bendy Backbone test, 1 piece touched the tumbler at 1 place, and 2 pieces at 2 places. 4 pieces touched at 4 places. How many places for 8 pieces? **8 places.**. Each piece touched the tumbler once. So the number of places is the same as the number of pieces: 1, 2, 4, 8. Each time we cut every piece in half, the number doubles. (queues `math.patterns.number-patterns.L2`)
 - In the Clue Test, sorting by where animals live gave 11 colours in all. Sorting by body covering gave 7. Which clue mixed up the groups less, and by how many colours? **Body covering, by 4 colours.**. Count on from 7 to 11: 8, 9, 10, 11. That is 4. Fewer colours means fewer groups mixed up, so body covering was the better clue. (queues `math.addition-subtraction.meaning.L2`)
 - Draw two overlapping circles. One is 'Lives in water'. The other is 'Has a backbone'. Where do these go: a sardine, a prawn, a crow, a frog, a crab? **Sardine and frog in the middle, where the circles overlap. Prawn and crab in 'Lives in water' only. Crow in 'Has a backbone' only.**. A sardine lives in water and has a backbone. A frog lives in and near water and has a backbone. Prawns and crabs live in water but have no backbone. A crow has a backbone but does not live in water. (queues `math.logic.sets-and-venn.L2`)
-- Ajji, Amma, Meenakshi and Kiran each have 7 bones in the neck. How many neck bones are there in the family? **28 neck bones.**. There are 4 people with 7 each. 7 and 7 make 14. 14 and 14 make 28. (queues `math.multiplication.equal-groups.L2`)
+- In the story, Meenakshi, her little brother Kiran, her mother Amma and her grandmother Ajji each have 7 bones in the neck. How many neck bones do these four people have in all? **28 neck bones.**. There are 4 people with 7 each. 7 and 7 make 14. 14 and 14 make 28. (queues `math.multiplication.equal-groups.L2`)
 
 ## Song
 Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2

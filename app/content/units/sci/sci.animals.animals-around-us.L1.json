@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Who lives in your home? Count everyone. Did you count the ants, the gecko and the spider?",
-  "text": "Most families count only the people. But many other animals live in a flat too. Ants live in tiny cracks. A gecko hides behind a cupboard in the day. A spider sits in a corner. Each of them eats, finds a home and moves about, just as you do. In this unit we find the animals in our home, and then we find out what our own teeth tell us about what we eat.",
+  "text": "Most families count only the people. But many other animals live in a flat too. Ants live in tiny cracks, a gecko hides behind a cupboard, and a spider sits in a corner. In this unit we find the animals in our home, and then we look at our own teeth.",
   "art": "A girl standing in a kitchen doorway counting on her fingers, with an ant line on the wall, a gecko on the ceiling and a crow at the window."
  },
  "outcomes": [
@@ -57,7 +57,7 @@
    "concept": "Humans are animals too",
    "status": "defined",
    "definition": "An animal is a living being who has to eat food to live. Plants make their own food using light. Animals find their food.",
-   "description": "An ant, a crow, a cow and a child are all animals. All of them eat food, breathe air and grow. Most of them move about to find food. Humans are animals as well, one kind among many. Your body has bones, blood and a heart, like a cat's or a cow's. So when you count the animals in your home, count yourself too.",
+   "description": "An ant, a crow, a cow and a child are all animals. All of them eat food, breathe air and grow. Your body has bones, blood and a heart, like a cat's or a cow's. So when you count the animals in your home, count yourself too.",
    "examples": [
     "You eat, breathe, grow and move. So does the crow at the window.",
     "A cat, a cow and a human mother all feed their babies milk.",
@@ -71,7 +71,7 @@
    "concept": "Every mouth fits a food",
    "status": "defined",
    "definition": "Animals eat many different foods. The shape of an animal's mouth fits the food they eat.",
-   "description": "Ants eat sugar, crumbs and dead insects. A gecko eats moths and mosquitoes. A cow eats grass all day. A crow eats almost anything: rice, fruit, insects and scraps. Each mouth fits the food. A cow has wide, flat back teeth to grind tough grass. A gecko has many tiny teeth to grip an insect. A pigeon has a short beak to pick up grains. Humans have thin front teeth to bite, and wide back teeth to chew, because humans eat many kinds of food.",
+   "description": "Ants eat sugar and crumbs. A gecko eats moths and mosquitoes. A cow eats grass, and a crow eats almost anything. Each mouth fits the food: a cow has wide, flat back teeth to grind grass, a gecko has tiny teeth to grip an insect, and a pigeon has a short beak to pick up grains. You have thin front teeth to bite and wide back teeth to chew, because you eat many kinds of food.",
    "examples": [
     "A cow has no front teeth on top, only a hard pad. She grips grass between her bottom teeth and that pad.",
     "A butterfly has a long, thin tube for a mouth. She sips the sweet juice from flowers.",
@@ -85,7 +85,7 @@
    "concept": "Every animal has a home place",
    "status": "defined",
    "definition": "Animals live where they can find food and stay safe.",
-   "description": "An animal's home is near their food, and keeps them safe from danger, rain and heat. Ants live inside cracks in walls and floors, close to the crumbs in our kitchen. A gecko hides behind a cupboard or a photo frame in the day. At night, the gecko comes out near the lights, because insects fly to the light. A pigeon rests on a ledge or on top of an air-conditioner box. A spider makes a web in a quiet corner, where insects fly in. So one flat is home to many animals at once.",
+   "description": "An animal's home is near their food and keeps them safe from danger, rain and heat. Ants live in cracks in the walls, close to the crumbs in the kitchen. A gecko hides behind a cupboard in the day and comes out near the lights at night, because insects fly to the light. A spider makes a web in a quiet corner, where insects fly in. So one flat is home to many animals.",
    "examples": [
     "Ants live inside a crack near the kitchen, close to the food.",
     "A gecko waits near the tube light at night, where the moths come.",
@@ -99,7 +99,7 @@
    "concept": "Animals move in many ways",
    "status": "defined",
    "definition": "Animals move to find food, to find a home and to get away from danger.",
-   "description": "A pigeon walks, nodding her head with each step. A sparrow hops on both feet together. A crow can walk and hop. Ants walk fast on six legs. A gecko climbs straight up a wall. Under each toe the gecko has millions of tiny hairs that cling to the wall. A snake has no legs. A snake bends their body and pushes on the ground with their belly scales. An earthworm stretches long and thin, then squeezes short and fat. Humans walk and run on two legs.",
+   "description": "A pigeon walks, nodding her head with each step. A sparrow hops on both feet together. Ants walk fast on six legs. A gecko climbs straight up a wall, because the tiny hairs under each toe cling to the wall. A snake has no legs, and slides along on her belly scales. You walk and run on two legs.",
    "examples": [
     "A pigeon walks on the ledge. A sparrow hops.",
     "A gecko runs up the wall and across the ceiling.",
@@ -112,7 +112,7 @@
   {
    "concept": "Do the animals around us choose?",
    "status": "debated",
-   "description": "A gecko waits by the tube light every night, because moths come there. A crow tries a new food, then comes back for more. An ant tastes a crumb and decides to carry it home. Animals sense, choose and remember. A gecko learns where the moths come, and a crow learns which window has rice. Some scientists use a different word for this. They call it instinct, and say the animal is born knowing what to do.",
+   "description": "A gecko waits by the tube light every night, because moths come there. A crow tries a new food, then comes back for more. An ant tastes a crumb and decides to carry the crumb home. Animals sense, choose and remember. A gecko learns where the moths come, and a crow learns which window has rice. Some scientists use a different word for this. They call it instinct, and say the animal is born knowing what to do.",
    "examples": [
     "A gecko comes back to the same tube light every night.",
     "A crow learns which family puts out rice in the morning.",
@@ -143,7 +143,7 @@
   },
   {
    "text": "Many wild animals live in towns and cities, right next to us.",
-   "evidence": "Crows, pigeons, sparrows, squirrels, geckos, ants and spiders live in Indian cities. People who count birds in cities, like the yearly bird counts, find dozens of kinds."
+   "evidence": "Crows, pigeons, sparrows, squirrels, geckos, ants and spiders live in Indian cities. When people count the birds in a city, they find dozens of kinds."
   }
  ],
  "challenging": [
@@ -174,11 +174,6 @@
  ],
  "big_questions": [
   {
-   "q": "You have front teeth and back teeth. A crow has a beak and no teeth. How does a crow manage to eat so many kinds of food?",
-   "kind": "deep",
-   "hint": "Watch a crow eat. Does the crow hold the food with a foot? Does the crow break the food into pieces?"
-  },
-  {
    "q": "Why does a gecko live in our home, and not in the forest?",
    "kind": "deep",
    "hint": "Think about the lights, the insects that come to them, and the cracks behind the cupboards."
@@ -192,6 +187,11 @@
    "q": "If you were a different animal, what would you eat? Would your teeth have to change?",
    "kind": "big",
    "hint": "Think about a cow's teeth, a gecko's teeth and your own."
+  },
+  {
+   "q": "Do the ants, the gecko and the crow notice us the way we notice them?",
+   "kind": "big",
+   "hint": "Think about what the ants do when you walk past, and what the crow does when you come to the window."
   }
  ],
  "story": {
@@ -200,18 +200,18 @@
   "read_aloud": true,
   "note": "Ponni, Selvan, Amma and Paati are made up. Everything the animals do in the story is true of crows, ants, spiders and house geckos in Indian homes.",
   "text": [
-   "Ponni lived in a flat in Coimbatore, on the fourth floor. She was six. She lived with Amma, her grandmother Paati, and her little brother Selvan.",
+   "Ponni lived in a flat in Coimbatore, on the fourth floor. She was six. She lived with her mother, Amma, her grandmother, Paati, and her little brother Selvan.",
    "One morning, Ponni drew a picture of her family. 'Only four of us live here,' she said.",
    "Amma smiled. 'Are you sure? Look around today, and count again.'",
    "Ponni went to the kitchen first. By the sugar dabba, she saw a thin black line. It was a line of tiny ants. One ant held a white grain of sugar in her jaws. Ponni bent down close. The ants walked fast on their six legs, all the way to a crack under the tiles. Then they went inside, one by one.",
    "'They live in the wall,' said Ponni. 'And they eat our sugar.' She drew the ants on her picture.",
-   "After lunch, Paati put a small ball of rice on the window ledge. 'Kaa, kaa,' called Paati. Soon a crow landed on the grill. He held the rice under one foot. He pecked it into pieces with his strong black beak. Then he flew away with a piece of rice, to the tall coconut tree across the road.",
-   "'The crow lives in that tree,' said Paati. 'He comes here every day for his rice.' Ponni drew the crow too.",
+   "After lunch, Paati put a small ball of rice on the window ledge. 'Kaa, kaa,' called Paati. Soon a crow landed on the grill. She held the rice under one foot. She pecked it into pieces with her strong black beak. Then she flew away with a piece of rice, to the tall coconut tree across the road.",
+   "'The crow lives in that tree,' said Paati. 'She comes here every day for her rice.' Ponni drew the crow too.",
    "In the evening, Ponni went into the bathroom. High in the corner, there was a fine web. A brown spider sat in the middle, very still. A tiny fly was caught in the web. The spider walked over on long, thin legs.",
    "'Amma! The spider has caught her dinner,' said Ponni. She drew the spider and her web.",
    "That night, the tube light was on in the hall. Moths flew round and round the light. Selvan pointed up and squealed. A gecko was on the wall, right beside the light. The gecko stayed very still. Then, quick as a blink, the gecko ran forward and snapped up a moth.",
    "'Will the gecko bite us?' asked Selvan. 'Is the gecko poisonous?'",
-   "'No,' said Amma. 'Our gecko has no poison. The gecko eats the moths and the mosquitoes. In the day, the gecko hides behind the cupboard, where it is dark and safe.'",
+   "'No,' said Amma. 'Our gecko has no poison. The gecko eats the moths and the mosquitoes. In the day, the gecko hides behind the cupboard, in the dark and safe.'",
    "'How does the gecko walk on the ceiling?' asked Ponni.",
    "'The gecko's toes have millions of tiny hairs,' said Amma. 'They cling to the wall, so the gecko does not fall.'",
    "Ponni drew the gecko next to the light. Then she looked at her picture. There were four people, a crow, a spider, a gecko and so many ants that she could not count them.",
@@ -224,7 +224,7 @@
   "epiphany": "Ponni finds that her flat is home to many animals, each with their own food, home and way of moving, and that she is one of the animals too.",
   "ask": [
    "Which animals did Ponni find in her flat? What did each one eat?",
-   "Where does the gecko hide in the day? Why do you think the gecko waits by the light at night?",
+   "Why did Selvan ask if the gecko is poisonous? What did Amma say?",
    "Why did Ponni write 'animal' next to her own face?"
   ],
   "art": [
@@ -240,8 +240,8 @@
    "id": "g1",
    "title": "Feed Us! A feeding card game",
    "mins": 15,
-   "players": "2 to 4 players and a grown-up",
-   "context": "This is a card game about what animals eat. Each animal card shows an animal from around our home. Players take food cards and give each food to an animal who eats it.",
+   "players": "2 to 4 players (a grown-up can be one of them)",
+   "context": "This is a card game about what animals eat. Eight animal cards lie in a row. Players turn over food cards and give each food to an animal who eats that food.",
    "printables": [
     {
      "kind": "cards",
@@ -291,7 +291,7 @@
       },
       {
        "f": "A ball of rice",
-       "b": "Crow, ant, and you. Pigeons peck at rice grains too."
+       "b": "Crow, pigeon, ant, and you."
       },
       {
        "f": "A moth",
@@ -339,7 +339,7 @@
       },
       {
        "f": "A plate of dosa",
-       "b": "You. A crow would gladly take a piece."
+       "b": "You and the crow."
       },
       {
        "f": "Vegetable peels",
@@ -347,18 +347,18 @@
       },
       {
        "f": "A spoon of dal",
-       "b": "You, and a crow if you share."
+       "b": "You and the crow."
       }
      ]
     }
    ],
    "rules": [
-    "Lay the 8 animal cards in a row, face up. Mix the food cards and put them face down in a pile.",
-    "Take turns. Turn over the top food card and read it out with the grown-up.",
-    "Put the food card under an animal who eats it. Say how that animal's mouth gets the food.",
-    "The grown-up reads the back of the food card. If your animal is on the back, keep the card.",
-    "If not, put the card at the bottom of the pile, to try again later.",
-    "When the pile is used up, count your cards. Then look at the row. Which animal got the most food cards?"
+    "Lay the 8 animal cards in a row, face up. Mix the 16 food cards and put them face down in a pile.",
+    "Take turns. Turn over the top food card and read the front aloud. A grown-up helps with reading.",
+    "Put the food card under an animal who you think eats that food. Say how that animal's mouth gets the food.",
+    "Turn the card over and read the back. If your animal is on the back, you score 1. Make a tally mark on paper.",
+    "If your animal is not on the back, move the card under an animal from the back. Nobody scores.",
+    "When the pile is used up, add up the tally marks. The player with the most wins. If it is a tie, you both win. Then look at the row. Which animal got the most food cards?"
    ],
    "setup": [
     {
@@ -367,7 +367,7 @@
     },
     {
      "art": "A child placing a moth card under the gecko card, while a grown-up reads the back of the card.",
-     "caption": "2. Give each food to an animal who eats it, and say why."
+     "caption": "2. Give each food to an animal who eats that food. Check the back."
     }
    ],
    "flow": [
@@ -375,14 +375,14 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 8 animal cards and 16 food cards. 2. Lay the animal cards in a row. 3. Mix the food cards and pile them face down.",
-     "say": "Every animal here needs food. Your job is to give each food to an animal who eats it.",
+     "say": "Every animal here needs food. Your job is to give each food to an animal who eats that food.",
      "kid": "Look at the animals in the row. Each one needs food."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Take turns. Turn a food card, put it under an animal, and read the back aloud.",
-     "say": "Who eats this food? How does that animal pick it up or chew it?",
+     "do": "Take turns. Turn a food card, put it under an animal, then read the back aloud. Score 1 for a right match.",
+     "say": "Who eats this food? How does that animal pick up or chew this food?",
      "kid": "Turn a card. Who eats this food? Put it under that animal.",
      "ask": [
       {
@@ -404,9 +404,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "At the end, look at the row together. Ask which animal got the most cards, and why.",
-     "say": "Look at the crow's pile and the butterfly's pile. Why did the crow get so many cards?",
-     "kid": "Which animal got the most food? Why?",
+     "do": "At the end, count the tally marks and look at the row together. Ask which animal got the most cards, and why.",
+     "say": "Look at the row. Which animal got the most food cards, and which got the fewest? Why?",
+     "kid": "Which animal got the most food cards? Why?",
      "check": {
       "t": "mcq",
       "q": "Which animal eats grass?",
@@ -416,7 +416,7 @@
        "Spider"
       ],
       "a": 1,
-      "why": "A cow eats grass and grinds it with wide, flat back teeth. A gecko and a spider eat insects."
+      "why": "A cow eats grass and grinds the grass with wide, flat back teeth. A gecko and a spider eat insects."
      }
     }
    ]
@@ -434,53 +434,53 @@
      "items": [
       {
        "f": "Ant",
-       "b": "Hide near a kitchen corner or a crack in the floor. Ants live in cracks, close to crumbs."
+       "b": "Hide: near a kitchen corner or a crack in the floor. Why: Ants live in cracks, close to crumbs."
       },
       {
        "f": "Gecko",
-       "b": "Hide behind a photo frame or a cupboard. Geckos hide in dark gaps in the day."
+       "b": "Hide: behind a photo frame or a cupboard. Why: Geckos hide in dark gaps in the day."
       },
       {
        "f": "Spider",
-       "b": "Hide high in a corner. Spiders make webs in quiet corners where insects fly in."
+       "b": "Hide: a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in."
       },
       {
        "f": "Pigeon",
-       "b": "Hide on a window ledge. Pigeons rest on ledges and on air-conditioner boxes."
+       "b": "Hide: a low shelf near a window. Why: Pigeons rest on ledges and on air-conditioner boxes."
       },
       {
        "f": "Mosquito",
-       "b": "Hide near a bucket or a plant pot saucer. Mosquitoes lay eggs in still water."
+       "b": "Hide: near a bucket or a plant pot saucer. Why: Mosquitoes lay eggs in still water."
       },
       {
        "f": "Cockroach",
-       "b": "Hide under the kitchen sink. Cockroaches like dark, damp places near food."
+       "b": "Hide: under the kitchen sink. Why: Cockroaches like dark, damp places near food."
       },
       {
        "f": "Crow",
-       "b": "Hide near the window that looks out at a tree. Crows build nests high up in trees."
+       "b": "Hide: near the window that looks out at a tree. Why: Crows build nests high up in trees."
       },
       {
        "f": "Moth",
-       "b": "Hide near a light. Many moths fly to lights at night."
+       "b": "Hide: near a light. Why: Many moths fly to lights at night."
       },
       {
        "f": "Squirrel",
-       "b": "Hide near a window with a tree outside. Squirrels make nests of grass high in trees."
+       "b": "Hide: near a window with a tree outside. Why: Squirrels make nests of grass high in trees."
       },
       {
        "f": "Me, a human",
-       "b": "Hide on your bed. You live here too!"
+       "b": "Hide: on your bed. Why: You live here too!"
       }
      ]
     }
    ],
    "rules": [
     "The grown-up hides the 10 cards around the home, each in a place where that animal might really live.",
-    "The child searches the home and finds the cards.",
+    "The child searches the home and finds the cards. If a card is hard to find, the grown-up gives a clue.",
     "For each card found, the child says why that animal might live there.",
-    "The grown-up reads the back of the card.",
-    "When all 10 cards are found, the child puts them on a drawing of the home."
+    "The grown-up reads the part of the back after the word Why.",
+    "When all 10 cards are found, put them on a drawing of the home."
    ],
    "setup": [
     {
@@ -496,15 +496,15 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 10 cards. 2. While your child waits in another room, hide each card where the back says.",
+     "do": "1. Cut out the 10 cards. 2. While your child waits in another room, hide each card in the place written after the word Hide on its back.",
      "say": "I have hidden 10 animals in our home. Each one is where that animal might really live.",
      "kid": "Ten animals are hiding in your home. Can you find them?",
-     "parent": "Hide the spider and pigeon cards where your child can reach or see them. Never on a high window ledge outside the grill."
+     "parent": "Hide every card where your child can reach it. Never hide one on a window ledge outside the grill."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Your child searches. For each card found, ask why that animal might live there. Read the back aloud.",
+     "do": "Your child searches. For each card found, ask why that animal might live there. Read the words after Why aloud.",
      "say": "You found the gecko behind the photo frame. Why might a gecko live there?",
      "kid": "Find a card. Why does this animal live there? Say why.",
      "ask": [
@@ -512,7 +512,7 @@
        "q": "Why does a gecko hide behind a photo frame?",
        "good": [
         "It is dark and safe there.",
-        "The gecko can hide in the day."
+        "The gecko can hide there in the day."
        ]
       },
       {
@@ -534,7 +534,7 @@
       "t": "mcq",
       "q": "Where does a gecko hide in the day?",
       "options": [
-       "Behind a cupboard, where it is dark",
+       "Behind a cupboard, in the dark",
        "In the middle of the floor",
        "Inside the fridge"
       ],
@@ -554,7 +554,7 @@
    "context": "In this experiment you look at your own teeth in a mirror. Then you eat five small foods, one at a time. For each one, you notice which teeth bite and which teeth chew, and a grown-up counts your chews.",
    "question": "Which teeth do you use to bite and to chew each food? Which food needs the most chews?",
    "predict": "Guess first. Which food will need the most chews? Which will need no chewing at all? Why do you think so?",
-   "fair_test": "Every piece is about the size of the top of your thumb. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.",
+   "fair_test": "Every solid piece is about the size of the top of your thumb. Curd is one small spoon. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.",
    "results_table": [
     "Food",
     "Which teeth bit it?",
@@ -591,7 +591,7 @@
      "qty": 1
     }
    ],
-   "safety": "Sit down to eat, and use small pieces. Use only foods your child already eats. A grown-up cuts the carrot.",
+   "safety": "Sit down to eat, and stay with your child the whole time. Use small pieces and a thin carrot stick. Use only foods your child already eats, and wash hands first. A grown-up cuts the carrot.",
    "schedule": [
     {
      "day": 1,
@@ -678,7 +678,7 @@
      "id": "s2",
      "mins": 3,
      "adult": true,
-     "do": "1. Cut one thumb-sized piece of each food. 2. Put them on a plate. 3. Ask your child to guess, and to say why.",
+     "do": "1. Cut a thumb-sized piece of banana, carrot and chapati. 2. Put one spoon of curd and a small pinch of puffed rice on the plate. 3. Ask your child to guess, and to say why.",
      "say": "Which food will need the most chews? Which will need none? Why do you think so?",
      "kid": "Guess. Which food needs the most chews? Which needs none? Why?",
      "ask": [
@@ -748,7 +748,7 @@
        ]
       }
      ],
-     "think": "A cow has wide, flat back teeth and eats grass all day. What would a cow's chew count for grass be?",
+     "think": "A cow eats grass all day. Why might she need to chew so much?",
      "check": {
       "t": "mcq",
       "q": "Which teeth bite a piece off a carrot?",
@@ -806,7 +806,7 @@
      "do": "Walk slowly round the home. Look in the kitchen corners, under the sink, by the lights, in high corners and out of the windows. Use the torch for dark places.",
      "say": "Let's find every animal who lives in our home. Look for the animals, and for signs, like a web or droppings.",
      "kid": "Look for animals in your home. Look in corners and under the sink. Look out of the window too.",
-     "parent": "Ants, a spider web, a gecko or gecko droppings, a mosquito, a moth or a pigeon on a ledge are the usual finds. Don't touch the animals. Look only.",
+     "parent": "Ants, a spider web, a gecko or gecko droppings, a mosquito, a moth or a pigeon on a ledge are the usual finds. Don't touch the animals. Look only. Wash hands afterwards, and do not put a hand into dark gaps.",
      "ask": [
       {
        "q": "Where did you find the ants? Why do you think they live there?",
@@ -894,8 +894,8 @@
       {
        "q": "How does a gecko climb a wall?",
        "good": [
-        "With sticky toes.",
-        "The toes have tiny hairs that hold on."
+        "Tiny hairs on the toes cling to the wall.",
+        "The toes have millions of tiny hairs that hold on."
        ]
       }
      ],
@@ -926,7 +926,7 @@
      "what": "Put out a few grains of rice. Watch a bird and see if the bird walks or hops."
     }
    ],
-   "record": "Draw the bird's footprints: one-two-one-two for walking, or pairs side by side for hopping.",
+   "record": "Draw how the bird moved: one-two-one-two footprints for walking, or pairs side by side for hopping.",
    "setup": [
     {
      "art": "A few rice grains on a window ledge, and a pigeon walking towards them with one foot forward.",
@@ -941,10 +941,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Put a few rice grains on the ledge or the balcony floor. Stand back from the window and wait quietly. Watch how the bird moves.",
+     "do": "An hour before, put a few rice grains on the ledge or the balcony floor. Then stand back from the window and wait quietly. Watch how the bird moves.",
      "say": "Watch the bird's feet. Does the bird put one foot, then the other? Or both feet together?",
      "kid": "Watch the bird's feet. One foot, then the other? Or both feet together?",
-     "parent": "Pigeons and mynas walk, one foot at a time. Pigeons nod their head with each step. Sparrows hop with both feet together. Crows walk and also hop. If no bird comes, watch on the way to the shop.",
+     "parent": "Pigeons and mynas walk, one foot at a time. Pigeons nod their head with each step. Sparrows hop with both feet together. Crows walk and also hop. Stay behind the window grill and never lean out. Birds may not come in five minutes. If none comes, watch again later in the day, or on a short walk outside.",
      "ask": [
       {
        "q": "Did the bird walk or hop?",
@@ -1018,7 +1018,7 @@
      "caption": "1. Draw three animals, cut them out and tape them to sticks."
     },
     {
-     "art": "A child behind a table holding up a crow puppet, with a grandmother and a little brother watching.",
+     "art": "A child behind a table holding up a crow puppet, with family watching.",
      "caption": "2. Put on a show. Each puppet says what they eat, where they live and how they move."
     }
    ],
@@ -1030,12 +1030,12 @@
      "do": "1. Your child chooses three animals from the home hunt. 2. They draw each one on cardboard, about the size of a hand. 3. A grown-up cuts them out. 4. Tape each one to a stick.",
      "say": "Which three animals live with us? Let's make a puppet of each one.",
      "kid": "Choose three animals from your home. Draw each one. Your grown-up cuts them out.",
-     "parent": "Good choices are animals your child has really seen: ants, a gecko, a crow, a pigeon or a spider."
+     "parent": "Good choices are animals your child has really seen: ants, a gecko, a crow, a pigeon or a spider.",
+     "wait": "Come back tomorrow for the show."
     },
     {
      "id": "s2",
      "mins": 10,
-     "wait": "Come back tomorrow for the show.",
      "do": "Your child holds up each puppet and speaks for that animal. The family asks the puppet questions.",
      "say": "Hello, gecko! What do you eat? Where do you live? How do you move?",
      "kid": "Hold up a puppet. Talk like that animal. Say what you eat, where you live and how you move.",
@@ -1068,7 +1068,7 @@
    "materials": [
     "atta dough or clay",
     "paper, crayons and scissors",
-    "small things for the body, such as rice grains for teeth or matchsticks for legs"
+    "small things for the body, such as rice grains for teeth or thin strips of paper for legs"
    ],
    "general": [
     "A gecko eats insects that come to the lights, hides behind cupboards, and climbs walls with clinging toes.",
@@ -1238,13 +1238,13 @@
     },
     {
      "t": "truefalse",
-     "p": "Humans are animals.",
-     "a": true,
-     "why": "True. Humans eat, breathe, grow and have babies like other animals. We are one kind of animal among many."
+     "p": "A crow has teeth.",
+     "a": false,
+     "why": "False. A crow has a beak and no teeth. The beak picks up and breaks the food."
     },
     {
      "t": "label",
-     "p": "Write how each animal moves: walk, hop, climb or slither.",
+     "p": "Say or write how each animal moves: walk, hop, climb or slither.",
      "labels": [
       "a pigeon on the ledge",
       "a sparrow on the balcony",
@@ -1290,7 +1290,7 @@
      ],
      "ask": "Which sister do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, such as 'Nandini, because the gecko eats mosquitoes that bite us.' Then the child is fair to the other side: Kayal is right that we must keep the gecko away from our food.",
+     "a": "A strong answer picks a side and gives a reason, such as 'Nandini, because the gecko eats mosquitoes that bite us.' Then the child is fair to the other side: Kayal is right that a gecko should not walk on our food.",
      "why": "Both sisters have a point. The gecko helps by eating insects and has no poison. But any animal walking on food can carry germs, so food is kept covered."
     }
    ]
@@ -1399,25 +1399,6 @@
      "why": "False. A snake moves with no legs, using their body and belly scales. An earthworm stretches and squeezes. A fish swims with fins."
     },
     {
-     "t": "label",
-     "p": "Here is a picture of a flat. Write where each animal might live: ant, gecko, spider, pigeon.",
-     "labels": [
-      "a crack by the kitchen floor",
-      "behind a photo frame",
-      "a high corner of the bathroom",
-      "the window ledge"
-     ],
-     "a": [
-      "crack: ant",
-      "photo frame: gecko",
-      "high corner: spider",
-      "window ledge: pigeon"
-     ],
-     "why": "Each animal lives where they find food and safety: ants near crumbs, the gecko in a dark gap, the spider where insects fly in, the pigeon on a ledge.",
-     "how": "g2",
-     "art": "A drawing of a flat with four empty labels: a kitchen floor crack, a photo frame, a bathroom corner and a window ledge."
-    },
-    {
      "t": "perspective",
      "p": "Three friends in Pune talk about who owns their building.",
      "views": [
@@ -1436,52 +1417,30 @@
      ],
      "ask": "Who do you agree with most? Why? Then say one thing another friend has right.",
      "lines": 3,
-     "a": "Any side can be argued well. A strong answer gives a reason, such as 'Grace, because the ants and the gecko live here too and need it.' Then it is fair to another friend, such as 'Isha is right that people built it.'",
+     "a": "Any side can be argued well. A strong answer gives a reason, such as 'Grace, because the ants and the gecko live here too and need the building.' Then it is fair to another friend, such as 'Isha is right that people built it.'",
      "why": "This is a real question with no single answer. People built the building, other animals live in it too, and many animals lived on this land before."
     },
     {
+     "t": "truefalse",
+     "p": "A butterfly bites flowers with her teeth.",
+     "a": false,
+     "why": "False. A butterfly has no teeth. She sips sweet nectar from flowers through a long, thin tube."
+    },
+    {
      "t": "mcq",
-     "p": "Riya, a girl in Class 1, finds a line of ants by the sugar dabba. Where do the ants most likely live?",
+     "p": "Why do humans have thin front teeth and wide back teeth?",
      "opts": [
-      "In a crack in the wall nearby",
-      "Inside the fridge",
-      "On the ceiling fan"
+      "Humans eat many kinds of food",
+      "Humans only eat grass",
+      "Humans only eat insects"
      ],
      "a": 0,
-     "why": "Ants live in small cracks in walls and floors, close to food. The fridge is too cold, and the fan keeps spinning."
+     "why": "Front teeth bite pieces off and back teeth chew them up. Humans eat many kinds of food, so we need both."
     }
    ]
   }
  ],
- "videos": [
-  {
-   "title": "A house gecko catching an insect near a light, slowed down",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows how fast a gecko snaps up a moth, which is hard to see at home.",
-   "check": "Find a real video of a house gecko (Hemidactylus) hunting at a light. Check nothing is staged or cruel."
-  },
-  {
-   "title": "Close-up of a gecko's toes climbing glass",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows the toe pads that let a gecko climb walls and ceilings.",
-   "check": "Find a real close-up of gecko toe pads on glass. Check it does not say the toes are sticky with glue."
-  },
-  {
-   "title": "How a cow chews: grass, flat teeth and chewing the cud",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a cow's flat back teeth grinding grass, to compare with the chewing test.",
-   "check": "Find a short, accurate video showing a cow chewing. Check it shows that cows have no top front teeth."
-  }
- ],
+ "videos": [],
  "quiz": [
   {
    "t": "mcq",
@@ -1626,7 +1585,7 @@
    "art": "A group of pigeons walking on station steps, heads bobbing."
   },
   {
-   "text": "A squirrel running along an electric wire in Bengaluru, tail held high for balance.",
+   "text": "A squirrel running along an electric wire in Bengaluru.",
    "art": "An Indian palm squirrel with three stripes running along a wire."
   },
   {
@@ -1661,10 +1620,6 @@
    "a": "For a quick moth-ful of dinner!"
   },
   {
-   "j": "What do you call a crow with no teeth?",
-   "a": "A crow. Crows never have teeth, silly!"
-  },
-  {
    "j": "Why do ants never get lost in the kitchen?",
    "a": "They always follow their noses... I mean their antennae!"
   },
@@ -1681,21 +1636,21 @@
    "a": "The world wide web!"
   },
   {
-   "j": "Why did the carrot go to the back of the mouth?",
-   "a": "The front teeth sent it there for chewing practice."
-  },
-  {
-   "j": "What does a pigeon say when she walks?",
-   "a": "Nod, nod, nod!"
-  },
-  {
    "j": "Knock knock. Who's there? Ant. Ant who?",
    "a": "Ant you going to share your sugar?"
+  },
+  {
+   "j": "Why was the crow so good at school?",
+   "a": "She always gave the caw-rect answer!"
+  },
+  {
+   "j": "Why do ants never get sick?",
+   "a": "Because they have little ant-ibodies!"
   }
  ],
  "maths": [
   {
-   "problem": "In the chewing test, Ponni chewed the carrot 24 times and the banana 6 times. Which food needed more chews? Why do you think so?",
+   "problem": "In the chewing test, Ponni, a girl in Class 1, chewed the carrot 24 times and the banana 6 times. Which food needed more chews? Why do you think so?",
    "answer": "The carrot needed more chews.",
    "explain": "24 is more than 6. The carrot is hard, so the back teeth must grind it many times. The banana is soft.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1704,16 +1659,16 @@
    "why_maths": "Comparing the two numbers shows that the hard food needed far more work from the back teeth."
   },
   {
-   "problem": "Meera found 3 animals in the kitchen, 2 in the bathroom and 1 at the window. How many animals did she find? Did she count herself?",
-   "answer": "She found 6 animals. With herself, that makes 7.",
-   "explain": "3 and 2 make 5, and 1 more makes 6. Meera is an animal too, so 6 and 1 more is 7.",
+   "problem": "Meera, a girl in Class 1, saw 9 ants climbing the kitchen wall. Then 4 ants went into a crack. How many ants are still on the wall?",
+   "answer": "5 ants are still on the wall.",
+   "explain": "9 take away 4 leaves 5. Counting back from 9: 8, 7, 6, 5.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "a1",
    "context": "This is about the home hunt, where you looked for every animal in your home.",
-   "why_maths": "Adding up the animals from each room shows how many share our home, and reminds us to count ourselves."
+   "why_maths": "Taking away shows how many ants are still out after some go home."
   },
   {
-   "problem": "Divya watched a ledge for a few minutes. She made a tally: pigeons ||||, sparrows ||, crows |. Which bird came most? How many birds came in all?",
+   "problem": "Divya, a girl in Class 1, watched a ledge for a few minutes. She made a tally: pigeons ||||, sparrows ||, crows |. Which bird came most? How many birds came in all?",
    "answer": "Pigeons came most, 4 times. 7 birds came in all.",
    "explain": "4 tally marks for pigeons is the most. 4 and 2 and 1 make 7.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1739,7 +1694,7 @@
    "url": "",
    "kind": "place",
    "where": "Chennai",
-   "why": "One of the oldest and largest zoos in India, with animals from all over the country."
+   "why": "One of the largest zoos in India, with animals from all over the country."
   },
   {
    "title": "Sanjay Gandhi National Park",
@@ -1753,7 +1708,7 @@
    "url": "",
    "kind": "place",
    "where": "Hyderabad",
-   "why": "A large zoo with a lake that draws many wild birds as well."
+   "why": "A large zoo in Hyderabad where children can see many Indian animals."
   }
  ],
  "buy": [],
@@ -1811,7 +1766,6 @@
    "c1",
    "ws-stretch",
    "big_questions",
-   "videos",
    "open_questions",
    "roots",
    "quiz"
@@ -1865,8 +1819,8 @@
   "teachings": [
    {
     "source": "Zhuangzi, chapter 2 (Discussion on Making All Things Equal)",
-    "teaching": "Zhuangzi, a Chinese thinker, wrote that people eat meat and grain, deer eat grass, centipedes like snakes, and owls and crows like mice. Then he asked: which of them knows the right taste?",
-    "link": "Our chewing test and our home hunt found the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone."
+    "teaching": "Zhuangzi, a Chinese thinker, wrote that people eat the meat of farm animals, deer eat grass, centipedes eat snakes, and owls and crows eat mice. Then he asked: which of them knows the right taste?",
+    "link": "Our home hunt found the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone."
    },
    {
     "source": "Thirukkural 322, by Thiruvalluvar",
@@ -1895,18 +1849,19 @@
    "kid": "Close your eyes. Bite the raisin with your front teeth. Feel your back teeth chew. Think of the crow, eating too."
   },
   "ask": [
-   "A crow has no teeth, and you have twenty. Who has the better mouth?",
-   "If the ants and the gecko live in our flat too, whose home is it?",
-   "Is it fair that some animals eat other animals?"
+   "A crow has no teeth, and you have about twenty. Who has the better mouth?",
+   "Why might one animal love a food that another animal leaves alone?",
+   "What do you think the crow at the window learns about you?"
   ],
   "art": "A child with eyes closed, slowly biting a raisin, with a crow on the window ledge outside eating rice at the same moment."
  },
  "how_we_found_out": {
   "context": "How can people find out what an animal ate, even an animal who lived long ago? This card tells the true story of a woman who found out.",
-  "story": "About 200 years ago, in Lyme Regis, a seaside town in England, a young woman called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. With her brother Joseph, she found one of the first skeletons of an ichthyosaur. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary was not allowed to join the Geological Society of London, because she was a woman.",
+  "story": "About 200 years ago, in Lyme Regis, a seaside town in England, a girl called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. Her brother Joseph dug up the skull of an ichthyosaur, and Mary found the rest of the skeleton, and she grew up to be a famous fossil hunter. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary was not allowed to join the Geological Society of London, because she was a woman.",
   "who": "Mary Anning, an English fossil hunter, with her brother Joseph; William Buckland, who named coprolites",
   "when": "The ichthyosaur skeleton about 1811 to 1812; coprolites named in 1829",
   "wrong_idea": "That the 'bezoar stones' on the beach were just odd stones. Mary Anning found them inside ichthyosaur skeletons, broke them open and found fish bones and scales: they were fossil poo, which showed what ichthyosaurs ate.",
-  "art": "A young woman in a long dress and bonnet on a rocky beach, breaking open a round stone to show tiny fish bones, with a fossil skeleton in the cliff behind her."
- }
+  "art": "A woman in a long dress and bonnet on a rocky beach, breaking open a round stone to show tiny fish bones, with a fossil skeleton in the cliff behind her."
+ },
+ "playtest": "Walked through the unit as a parent and a six-year-old in a city flat. Played both card games with 2 and with 4 players: all 8 animal cards, 16 food cards and 10 hiding cards are written out, with a score and a winner. Checked the chewing test (five foods, minutes add to 25, fair pieces), home hunt, gecko watch, bird watch, puppet show and invent-an-animal steps against their minutes and materials. Fixed a crow called 'he' in the story, made the bird-watch rice go out an hour before, moved the puppet 'come back tomorrow' to day 1, listed exactly what to cut for the chewing test, replaced a repeated true-or-false and a repeated joke, corrected Mary Anning's age, and removed three video entries with no address that carried internal notes."
 }

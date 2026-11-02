@@ -62,8 +62,8 @@
   {
    "concept": "Three ways a material can treat light",
    "status": "defined",
-   "definition": "A transparent material lets light go straight through. A translucent material lets some light through but scatters it, so you see no clear picture. An opaque material lets no light through.",
-   "description": "Remember the three plates, where you held things up to the window? Glass and clear plastic showed you the window clearly. They are transparent. A napkin and an onion skin glowed, but you could not see the window through them. They are translucent. A steel plate looked dark, with no glow at all. It is opaque. To scatter light means to send it off in many directions, so the picture gets mixed up.",
+   "definition": "A transparent material lets light go straight through. A translucent material lets some light through, but spreads it in all directions, so you see no clear picture. An opaque material lets no light through.",
+   "description": "Remember the three plates, where you held things up to the window? Glass and clear plastic showed you the window clearly. They are transparent. A napkin and an onion skin glowed, but you could not see the window through them. They are translucent. A steel plate was dark, with no glow at all. It is opaque.",
    "examples": [
     "Transparent: a glass tumbler, a clear polythene bag, clean water.",
     "Translucent: a paper napkin, a dry onion skin, a thin cotton dupatta.",
@@ -77,7 +77,7 @@
    "concept": "Each layer stops some of the light",
    "status": "defined",
    "definition": "When light goes through a layer of a material, some of the light is stopped and the rest goes on. Each new layer stops some more. So many layers let through much less light than one.",
-   "description": "Remember the Layer Test, where you piled squares on a drawing? One square of paper let you see the drawing. With every square you added, the drawing got fainter, until it was gone. Each layer bounced some light back and soaked up a little. Only the rest went on to the next layer. The polythene stopped very little light at each layer, so the drawing still showed through many layers.",
+   "description": "Remember the Layer Test, where you piled squares on a drawing? One square of paper let you see the drawing. With every square you added, the drawing got fainter, until it was gone. Each layer sent some light back and soaked up some more. Only the rest went on to the next layer. Polythene stopped very little light, so the drawing still showed through many layers.",
    "examples": [
     "In the Layer Test, the drawing got fainter with each paper square.",
     "One napkin glows at a window, but a whole packet of napkins looks dark.",
@@ -91,7 +91,7 @@
    "concept": "Hidden is not the same as dark",
    "status": "defined",
    "definition": "A pile of translucent layers can hide a picture completely and still let light through.",
-   "description": "In the Layer Test, a few paper squares hid your drawing. Then you shone a torch behind the same pile, and it glowed. So light was still getting through. Each layer scatters the light a little more, so the picture gets more and more mixed up. After a few layers, there is no picture left to see. But some light still comes out. Only an opaque thing, like the steel plate, gives no glow at all.",
+   "description": "In the Layer Test, a few paper squares hid your drawing. Then you shone a torch behind the same pile, and it glowed. So light was still getting through. Each layer spreads the light out a bit more, so the picture gets mixed up. After a few layers, no picture is left, but some light still comes out.",
    "examples": [
     "The paper pile that hid the drawing still glowed with the torch behind it.",
     "A closed bathroom window of frosted glass lets in daylight, but you cannot see out.",
@@ -105,7 +105,7 @@
    "concept": "Thin enough, almost anything lets light through",
    "status": "defined",
    "definition": "A thin enough slice of almost any material lets some light through. A thick enough piece of any material stops nearly all light.",
-   "description": "A whole cucumber is opaque. A paper-thin slice of the same cucumber glows at the window. Many things work like this. Gold beaten into very thin gold leaf lets greenish light through, but a gold bangle does not. Scientists who study rocks grind them into slices thinner than paper, and most rocks then let light through. So being opaque often depends on how thick a piece is.",
+   "description": "A whole cucumber is opaque. A paper-thin slice of the same cucumber glows at the window. Gold hammered into very thin gold leaf lets greenish light through, but a gold bangle does not. Scientists who study rocks grind them into slices thinner than paper, and most rocks then let light through. So whether something is opaque often depends on how thick it is.",
    "examples": [
     "A thin cucumber slice glows. A thick piece looks dark.",
     "Thin gold leaf lets green light through. A gold coin does not.",
@@ -119,7 +119,7 @@
    "concept": "Why the deep sea is dark",
    "status": "defined",
    "definition": "Water is transparent, but each metre of water stops a little light. Below about 1,000 metres, no sunlight reaches at all.",
-   "description": "A glass of water is clear. But sunlight going down into the sea passes through more and more water. Each metre stops a little of the light. About 200 metres down, it is very dim. Below about 1,000 metres, no sunlight reaches, and the water is completely dark. Many animals live down there. Lots of them make their own light.",
+   "description": "A glass of water is clear. But sunlight going down into the sea passes through more and more water. Each metre stops a little of the light. About 200 metres down, it is very dim. Below about 1,000 metres, there is no sunlight left, and the water is completely dark. Many animals live there, and lots of them make their own light.",
    "examples": [
     "Water in a glass is clear.",
     "In the milk test, half a glass of cloudy water let the coin show, but a full glass hid it.",
@@ -213,7 +213,7 @@
    "Ajji folded the dosa in half, and then in half again. Now it was four layers thick. Nila held it up to the window again. It still glowed, but it was much dimmer.",
    "Varun ran to get his steel tumbler. He held it up to the window. \"This one is dark!\" he said. \"No light at all.\"",
    "\"The steel is opaque,\" said Ajji. \"It does not let light through.\"",
-   "By now there was a pile of folded dosas on the plate, six of them, one on top of another. Nila lifted the whole pile carefully and held it up. It was dark. No glow came through at all.",
+   "By now there was a pile of folded dosas on the plate, six of them, one on top of another. Nila lifted the whole pile carefully and held it up. It was very dark. Almost no glow came through.",
    "Nila frowned. \"So is a dosa translucent, or opaque?\"",
    "\"What do you think?\" asked Ajji.",
    "Nila thought about it. One dosa glowed brightly. Four layers glowed less. Six folded dosas, which made many layers, did not glow at all. \"It depends how many there are,\" she said slowly. \"Every layer stops some of the light. If there are enough layers, all the light is stopped.\"",
@@ -293,7 +293,7 @@
      "qty": 1
     }
    ],
-   "safety": "Don't shine the torch into anyone's eyes. A grown-up cuts the polythene, and keeps plastic bags away from babies.",
+   "safety": "Don't shine the torch into anyone's eyes. Keep plastic bags and squares away from babies and toddlers.",
    "schedule": [
     {
      "day": 1,
@@ -301,7 +301,7 @@
      "what": "Pile squares of three materials on a drawing, count the layers that hide it, then test each pile with a torch."
     }
    ],
-   "record": "Fill in the table. Then draw a tower of squares for each material, as tall as the number of layers it took.",
+   "record": "Fill in the table (a grown-up can write the words, and your child writes the numbers). Then draw a tower of squares for each material, as tall as the number of layers it took.",
    "setup": [
     {
      "art": "A table by a window with a white card showing a thick black sun drawing, and three neat piles of squares: clear polythene, white tissue and white paper, plus a steel plate and a torch.",
@@ -316,8 +316,8 @@
      "caption": "3. When the sun is gone, write down how many layers."
     },
     {
-     "art": "A dim room, a mother holding a phone torch pressed under a pile of paper squares, and the pile glowing softly while the girl looks.",
-     "caption": "4. Put the torch behind the pile. Does it glow?"
+     "art": "A dim room, a phone torch lying on a table with its light pointing up under a pile of paper squares, and the pile glowing softly while a girl looks.",
+     "caption": "4. Put the pile over the torch light. Does it glow?"
     }
    ],
    "flow": [
@@ -366,7 +366,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Draw the curtains or go to a dim room. 2. Take the paper pile that hid the sun. 3. Press the torch under it, and switch it on. 4. Do the same with the tissue pile and the steel plate.",
+     "do": "1. Draw the curtains or go to a dim room. 2. Lay the torch on the table with its light pointing up. A phone lies face down, with its torch pointing up. 3. Switch it on. 4. Lay the paper pile that hid the sun over the light, and look down at it. 5. Do the same with the tissue pile and the steel plate.",
      "say": "This paper pile hid the sun completely. Now I put the torch behind it. Do you think any light will get through? Why?",
      "kid": "The paper pile hid the sun. Will the torch glow through it?",
      "ask": [
@@ -428,9 +428,9 @@
    "title": "The Milk Cloud: how many drops hide the coin?",
    "mins": 18,
    "days": 1,
-   "context": "In this experiment you drop milk into a glass of clear water, a few drops at a time. You count the drops until you can no longer see a coin at the bottom. Then you pour half the water away and look again.",
-   "question": "How many drops of milk does it take to hide a coin at the bottom of a glass of water? If we pour half the cloudy water away, can we see the coin again?",
-   "predict": "How many drops do you think it will take to hide the coin? When we pour half the water away, will the coin show again? Why do you think so?",
+   "context": "In this experiment you drop milk into a glass of clear water, a few drops at a time. You count the drops until you can no longer see a coin at the bottom. Then you take half the water out and look again.",
+   "question": "How many drops of milk does it take to hide a coin at the bottom of a glass of water? If we take half the cloudy water out, can we see the coin again?",
+   "predict": "How many drops do you think it will take to hide the coin? When we take half the water out, will the coin show again? Why do you think so?",
    "fair_test": "We use the same glass, the same coin and the same window light. We stir the same way after every 5 drops. We always look straight down from the same height.",
    "results_table": [
     "What we did",
@@ -440,6 +440,14 @@
    "materials": [
     {
      "item": "a clear glass tumbler, or a clear plastic bottle with the top cut off by a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a second tumbler or steel glass, to hold the water you take out",
+     "qty": 1
+    },
+    {
+     "item": "a small steel katori or cup, to scoop water out",
      "qty": 1
     },
     {
@@ -459,7 +467,7 @@
      "qty": 1
     },
     {
-     "item": "a torch",
+     "item": "a torch, for the last step if there is time",
      "qty": 1
     }
    ],
@@ -467,7 +475,7 @@
     {
      "day": 1,
      "mins": 18,
-     "what": "Drip milk into water until a coin disappears, then pour half away and look again."
+     "what": "Drip milk into water until a coin disappears, then take half out and look again."
     }
    ],
    "record": "Write how many drops it took. Draw the glass full, with the coin hidden, and half full, with the coin showing or not.",
@@ -485,8 +493,8 @@
      "caption": "3. Count the drops until the coin is gone."
     },
     {
-     "art": "A mother pouring half the cloudy water into a steel tumbler, and the girl looking down into the half-full glass where the coin shows faintly.",
-     "caption": "4. Pour half away. Can you see the coin now?"
+     "art": "A parent scooping cloudy water out of the glass with a small steel katori into a steel tumbler, and the girl looking down into the half-full glass where the coin shows faintly.",
+     "caption": "4. Scoop half the water out. Can you see the coin now?"
     }
    ],
    "flow": [
@@ -525,7 +533,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Pour about half the cloudy water into another tumbler. Your child looks straight down into the half-full glass.",
+     "do": "Scoop about half the cloudy water into the other tumbler with the katori, so the coin stays put. Your child looks straight down into the half-full glass.",
      "say": "The water is just as cloudy as before. But now there is only half as much. Will the coin show again? Why?",
      "kid": "Now there is half as much water. Can you see the coin?",
      "ask": [
@@ -537,7 +545,7 @@
        ]
       }
      ],
-     "parent": "Usually the coin shows again, faintly. If it doesn't, pour away a little more. If you have time, shine a torch at the side of the glass in a dim room. The cloudy water glows, so light gets through it. It is translucent."
+     "parent": "Usually the coin shows again, faintly. If it doesn't, scoop out a little more. If you have time, shine a torch at the side of the glass in a dim room. The cloudy water glows, so light gets through it. It is translucent."
     },
     {
      "id": "s5",
@@ -549,7 +557,7 @@
       "t": "mcq",
       "q": "Shreya, a girl in Pune, has a full glass of cloudy milky water. She cannot see the coin at the bottom. What can she do to see the coin, without adding anything?",
       "options": [
-       "Pour half the water away",
+       "Take half the water out",
        "Stir it faster",
        "Put the glass in a darker room"
       ],
@@ -684,7 +692,7 @@
    "record": "Draw the three pieces, and colour the ones that glowed.",
    "setup": [
     {
-     "art": "A mother cutting a cucumber on a board into a paper-thin slice, a slice as thick as a finger and a big chunk.",
+     "art": "A grown-up cutting a cucumber on a board into a paper-thin slice, a slice as thick as a finger and a big chunk.",
      "caption": "1. A grown-up cuts a thin slice, a thick slice and a chunk."
     },
     {
@@ -753,7 +761,7 @@
    "id": "g1",
    "title": "Thin or Thick? A card game",
    "mins": 15,
-   "players": "2 or more players, and a grown-up to read the cards.",
+   "players": "2 to 6 players. Take turns being the reader.",
    "context": "This is a card game. Each card names a thing. You say whether light goes straight through it, glows through it, or is stopped. Then you find the pairs: the thin and thick versions of the same material.",
    "printables": [
     {
@@ -813,18 +821,19 @@
    ],
    "rules": [
     "Mix the 12 cards and put them in a pile, face down.",
-    "Take the top card. A grown-up reads the front out loud.",
-    "Everyone shows their answer with their hands. Open hands wide means 'see through'. Wiggling fingers means 'glows'. Fists mean 'dark'.",
-    "Turn the card over. A grown-up reads the back. Everyone who was right gets a point.",
-    "When all the cards are read, lay them face up. Find the pairs: a thin thing and a thick thing made of the same material. Each pair you find is one more point."
+    "The reader takes the top card and reads the front out loud. The reader keeps the back hidden.",
+    "Everyone else shows an answer with their hands. Open hands wide means 'see through'. Wiggling fingers means 'glows'. Fists mean 'dark'. Everyone says why.",
+    "The reader turns the card over and reads the back. Everyone who was right gets a point. Then the next player is the reader.",
+    "When all the cards are read, lay them face up. Find the five pairs: a thin thing and a thick thing made of the same material. Each pair you find is one more point. The window pane and the eyelids have no partner, so leave them out.",
+    "Add up the points. The most points wins. If you tie, you all win."
    ],
    "setup": [
     {
-     "art": "Twelve cards in a pile on a mat, and a grandmother and two children sitting around them.",
+     "art": "Twelve cards in a pile on a mat, and a parent and two children sitting around them.",
      "caption": "1. Put the cards in a pile, face down."
     },
     {
-     "art": "Two children showing answers with their hands, one with open hands, one wiggling her fingers, while a grandmother reads a card.",
+     "art": "Two children showing answers with their hands, one with open hands, one wiggling her fingers, while a parent reads a card.",
      "caption": "2. Show your answer with your hands. Then turn the card."
     },
     {
@@ -836,14 +845,14 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Read the rules together. Practise the three hand signs.",
+     "do": "Read the rules together. Practise the three hand signs. Decide who reads first.",
      "say": "Open hands means see through. Wiggly fingers means glows. Fists mean dark. Let's try each one.",
      "kid": "Open hands: see through. Wiggly fingers: glows. Fists: dark."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Play all 12 cards. Read each front. Wait for every player's hand sign and reason. Then read the back.",
+     "do": "Play all 12 cards. The reader reads each front, waits for every hand sign and reason, then reads the back. Pass the cards to the next reader.",
      "say": "One paper napkin. Show me with your hands. Why did you choose that?",
      "kid": "Listen to the card. Show your answer with your hands.",
      "parent": "The gold leaf and the rock slice are the surprises. If your child shows a fist, ask: what happened to the thin cucumber slice?"
@@ -872,7 +881,7 @@
    "id": "g2",
    "title": "Window, Curtain, Wall: a moving game",
    "mins": 8,
-   "players": "1 or more players, and a grown-up to call out.",
+   "players": "1 or more players, and a grown-up to call out. Take turns calling if you like.",
    "context": "This is a moving game. A grown-up calls out a thing. If light goes straight through it, you are a window. If it glows, you are a curtain. If it stops light, you are a wall.",
    "printables": [
     {
@@ -935,7 +944,8 @@
     "Curtain: sway gently from side to side, like a curtain in the breeze.",
     "Wall: stand stiff and still, with your arms tight at your sides.",
     "A grown-up calls out a thing. Everyone moves as fast as they can.",
-    "The grown-up says the answer. Anyone who chose differently says why. A good reason counts too."
+    "The grown-up says the answer. Anyone who chose differently says why. A good reason counts too.",
+    "When all 12 calls are done, count how many you moved right at the first try. Try to beat that next time."
    ],
    "setup": [
     {
@@ -943,7 +953,7 @@
      "caption": "1. Learn the three moves: window, curtain, wall."
     },
     {
-     "art": "A mother reading from a card, 'A thick quilt!', and three children all standing stiff like walls.",
+     "art": "A parent reading from a card, 'A thick quilt!', and three children all standing stiff like walls.",
      "caption": "2. A grown-up calls a thing. Move fast!"
     }
    ],
@@ -958,7 +968,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Call out all 12 things, in any order. After each call, say the answer.",
+     "do": "Call out all 12 things, in any order. After each call, say the answer. Keep count of the right moves.",
      "say": "One paper napkin! Now: a whole packet of paper napkins! Why did you change?",
      "kid": "Listen. Are you a window, a curtain or a wall?",
      "parent": "The napkin and the packet of napkins are the key pair. One layer glows, many layers stop the light."
@@ -1001,7 +1011,7 @@
      "qty": 1
     },
     {
-     "item": "two more sheets of the same white paper",
+     "item": "two more sheets of the same white paper, and a third in case you need it",
      "qty": 2
     },
     {
@@ -1031,7 +1041,7 @@
      "caption": "2. Stick two sheets over it. Draw a picture on top."
     },
     {
-     "art": "A grandmother holding the letter up to a bright window, and the dark letters of the message showing through clearly.",
+     "art": "A parent holding the letter up to a bright window, and the dark letters of the message showing through clearly.",
      "caption": "3. Hold it up to a bright window. The message appears."
     }
    ],
@@ -1075,7 +1085,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Vaishnavi, a girl in Madurai, makes a window letter with 2 layers. Her brother can read it on the table. What should she do?",
+      "q": "Vaishnavi, a girl in Madurai, covers her message with 2 sheets of paper. Her brother can still read it on the table. What should she do?",
       "options": [
        "Add another layer of paper on top",
        "Use thinner paper on top",
@@ -1101,8 +1111,8 @@
     "Count every layer you use."
    ],
    "materials": [
-    "a shoebox with a window cut in its lid, about the size of your palm, and a small peephole at one end",
-    "a small white paper toy, or a white paper star, inside the box",
+    "a shoebox. A grown-up cuts a window in the lid, about the size of your palm, and a small peephole at one end",
+    "a small white paper cat or star, to stand inside the box",
     "newspaper",
     "paper napkins",
     "a thin cloth",
@@ -1112,12 +1122,12 @@
     "tape"
    ],
    "general": [
-    "Pile on sheets of newspaper until you can no longer see the white toy through the peephole.",
+    "Pile on sheets of newspaper until you can no longer see the white cat through the peephole.",
     "Cover the window with one piece of cardboard."
    ],
    "creative": [
     "Use one piece of kitchen foil, which is opaque even when thin.",
-    "Make a flap that lifts up, with two layers of paper for a soft glow, and a thick towel on top for the nap.",
+    "Make a flap that lifts. Two layers of paper on the flap give a soft glow for waking up. A thick towel on top makes it dark for the nap.",
     "Fold the thick towel twice, so one towel makes four layers."
    ],
    "your_turn": "Find two ways to make the room dark. Which used the fewest layers? Can you make a cover that gives a soft glow for waking up?",
@@ -1136,7 +1146,7 @@
      "id": "c-s1",
      "mins": 3,
      "do": "Set up the shoebox next to a bright window. Your child looks through the peephole. Read the problem.",
-     "say": "Can you see the white cat through the peephole? Now we must make the room dark, with as few layers as we can.",
+     "say": "Can you see the white paper cat through the peephole? Now we must make the room dark, with as few layers as we can.",
      "kid": "Look through the peephole. Can you see the cat? Now make it dark.",
      "ask": [
       {
@@ -1226,7 +1236,7 @@
      "opts": [
       "Clear polythene",
       "White paper",
-      "Tissue"
+      "A steel plate"
      ],
      "a": 0,
      "why": "Each polythene layer stops only a little light, so the sun still shows through many layers. Paper stops much more at each layer.",
@@ -1325,20 +1335,8 @@
    "mins": 15,
    "items": [
     {
-     "t": "mcq",
-     "p": "Remember the Milk Cloud test, where you dripped milk into a glass of water with a coin at the bottom. What happened to the water?",
-     "opts": [
-      "It turned cloudy, and the coin was hidden",
-      "It stayed clear",
-      "It turned black"
-     ],
-     "a": 0,
-     "why": "Milk has tiny drops of fat in it. They send light off in all directions, so the water turns cloudy and the coin is hidden.",
-     "how": "e2"
-    },
-    {
      "t": "write",
-     "p": "In the Milk Cloud test, you poured half the cloudy water away, and the coin showed again. Why? Say it, and a grown-up writes it.",
+     "p": "In the Milk Cloud test, you took half the cloudy water out, and the coin showed again. Why? Say it, and a grown-up writes it.",
      "lines": 2,
      "a": "There was less cloudy water in the way, so more light got down to the coin and back up to my eyes.",
      "why": "A strong answer says the water was just as cloudy, but there was less of it, like taking squares off a pile.",
@@ -1346,7 +1344,7 @@
     },
     {
      "t": "order",
-     "p": "Here are Kavya's Layer Test results: paper hid the sun at 4 layers, tissue at 8, and polythene still showed it at 10. Put the materials in order, from the one that stops the most light at each layer to the one that stops the least.",
+     "p": "Here are some Layer Test results: paper hid the sun at 4 layers, tissue at 8, and polythene still showed it at 10. Put the materials in order, from the one that stops the most light at each layer to the one that stops the least.",
      "items": [
       "Paper",
       "Tissue",
@@ -1383,29 +1381,11 @@
      "why": "True. Scientists grind rocks into very thin slices, and most of them then let light through. This is how they study rocks under a microscope."
     },
     {
-     "t": "mcq",
-     "p": "Why is the deep sea completely dark, when a glass of sea water is clear?",
-     "opts": [
-      "There is so much water above that it stops all the sunlight",
-      "Deep sea water is black",
-      "The fish block the light"
-     ],
-     "a": 0,
-     "why": "Each metre of water stops a little light. Below about 1,000 metres, there is so much water above that no sunlight reaches."
-    },
-    {
      "t": "draw",
-     "p": "Draw the sea from the top to the bottom. Colour it bright at the top, dimmer in the middle and dark at the bottom. Draw one animal that makes their own light at the bottom.",
+     "p": "Draw the sea from the top to the bottom. Colour it bright at the top, dimmer in the middle and dark at the bottom. Draw one animal at the bottom, with the light she makes.",
      "a": "Bright at the top, dim in the middle, black at the bottom, with a glowing animal deep down.",
      "why": "A strong drawing shows the light fading little by little with depth, not stopping all at once.",
      "art": "A tall, empty box with a wavy line at the top for the surface of the sea."
-    },
-    {
-     "t": "fill",
-     "p": "A very thin slice of cucumber glows at the window. A whole cucumber is ____.",
-     "a": "opaque",
-     "why": "A thick piece of cucumber stops the light, so it is opaque. A thin slice is translucent.",
-     "how": "a2"
     },
     {
      "t": "sort",
@@ -1460,6 +1440,34 @@
      "lines": 3,
      "a": "Both are right about what they saw. One sheet of paper is translucent. Enough sheets, like a thick notebook, can be opaque.",
      "why": "A strong answer says the answer depends on how thick the paper is, and uses evidence from the Layer Test. It is fair to both girls."
+    },
+    {
+     "t": "mcq",
+     "p": "A bathroom window is made of frosted glass. What does it do?",
+     "opts": [
+      "Lets light in, but no clear view",
+      "Lets no light in",
+      "Gives a clear view outside"
+     ],
+     "a": 0,
+     "why": "Frosted glass scatters the light that goes through it. The room gets daylight, but you cannot see a clear picture of outside."
+    },
+    {
+     "t": "truefalse",
+     "p": "One sheet of paper and a thick closed notebook are both translucent.",
+     "a": false,
+     "why": "False. One sheet glows, so it is translucent. A thick notebook has so many sheets that it can stop nearly all the light."
+    },
+    {
+     "t": "mcq",
+     "p": "You close your eyes and face a bright window. What do you see?",
+     "opts": [
+      "A warm red glow",
+      "A clear picture of the window",
+      "Complete blackness"
+     ],
+     "a": 0,
+     "why": "Your eyelids are thin, so some light gets through them. It is a glow, not a picture."
     }
    ]
   },
@@ -1522,12 +1530,6 @@
      "art": "A tall, empty box with a Sun drawn above it."
     },
     {
-     "t": "truefalse",
-     "p": "Clear water lets all the light through, however deep it is.",
-     "a": false,
-     "why": "False. Each metre of water stops a little light. The deep sea is completely dark below about 1,000 metres."
-    },
-    {
      "t": "mcq",
      "p": "When Ritu presses a torch to the back of a pile of 5 paper squares, the front glows. What does the glow tell her?",
      "opts": [
@@ -1555,30 +1557,27 @@
      "why": "Each napkin stops some light, so more napkins let less light through."
     },
     {
-     "t": "fill",
-     "p": "A slice of rock ground thinner than ____ lets light through.",
-     "a": "paper",
-     "why": "Scientists grind rock slices thinner than paper, and most rocks then let light through."
+     "t": "truefalse",
+     "p": "A thick enough piece of any material stops nearly all the light.",
+     "a": true,
+     "why": "True. Each layer stops some light, so enough thickness stops almost all of it, even for glass or water."
     },
     {
-     "t": "match",
-     "p": "Match each thick thing with a thin version that lets some light through.",
-     "pairs": [
-      [
-       "A whole cucumber",
-       "A paper-thin cucumber slice"
-      ],
-      [
-       "A gold bangle",
-       "Gold leaf"
-      ],
-      [
-       "A packet of napkins",
-       "One napkin"
-      ]
+     "t": "mcq",
+     "p": "Why are blackout curtains made with thick or double layers?",
+     "opts": [
+      "More layers stop more light",
+      "Thin cloth is opaque",
+      "Layers make light brighter"
      ],
-     "a": "pairs as given",
-     "why": "In each pair, the material is the same. Only the thickness changes, and the thin one lets some light through."
+     "a": 0,
+     "why": "Each layer stops some light, so thick or double curtains keep a bedroom dark in the day."
+    },
+    {
+     "t": "fill",
+     "p": "Light that comes out of a pile of translucent paper is a glow, not a clear ____.",
+     "a": "picture",
+     "why": "The layers scatter the light, so the picture gets mixed up, but some light still comes out."
     }
    ]
   }
@@ -1598,14 +1597,14 @@
   },
   {
    "t": "mcq",
-   "p": "A paper napkin glows at the window, but you cannot see the window through it. What is it?",
+   "p": "Which word means that light gets through, but you see no clear picture?",
    "opts": [
     "Translucent",
     "Transparent",
     "Opaque"
    ],
+   "why": "Translucent means light gets through, but no clear picture. Transparent means you see clearly through it. Opaque means no light gets through.",
    "a": 0,
-   "why": "Light gets through, but no clear picture. That is what translucent means.",
    "outcome": 0
   },
   {
@@ -1622,14 +1621,14 @@
   },
   {
    "t": "mcq",
-   "p": "Pooja holds a dry onion skin up to the window. It glows, but she sees no clear picture. Which plate does it go on?",
+   "p": "Which of these is translucent?",
    "opts": [
-    "Glow: translucent",
-    "See through: transparent",
-    "Dark: opaque"
+    "A dry onion skin",
+    "A glass window",
+    "A steel spoon"
    ],
+   "why": "An onion skin lets light through but shows no clear picture. Glass is transparent, and a steel spoon is opaque.",
    "a": 0,
-   "why": "It lets light through but no clear picture, so it is translucent.",
    "outcome": 1
   },
   {
@@ -1799,10 +1798,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the napkin hide behind the whole packet?",
-   "a": "It didn't want anyone to see through it!"
-  },
-  {
    "j": "What did the steel plate say to the torch?",
    "a": "Sorry, you shall not pass!"
   },
@@ -1811,24 +1806,28 @@
    "a": "Everyone can see right through it!"
   },
   {
-   "j": "How many napkins does it take to stop the light?",
-   "a": "Just keep piling, and you'll find out!"
-  },
-  {
    "j": "Why was the deep-sea fish never afraid of the dark?",
    "a": "She brought her own light!"
   },
   {
-   "j": "What did one paper square say to the pile?",
-   "a": "Together, we can hide anything!"
-  },
-  {
-   "j": "Why did the cucumber slice glow with pride?",
-   "a": "Because she was so thin that the light came through!"
-  },
-  {
    "j": "What do you call a window that tells jokes?",
    "a": "A pane in the class!"
+  },
+  {
+   "j": "What did the curtain say to the window?",
+   "a": "I'll cover for you!"
+  },
+  {
+   "j": "Why did the lamp go to the doctor?",
+   "a": "It was feeling light-headed!"
+  },
+  {
+   "j": "Why is a wall good at keeping secrets?",
+   "a": "Nobody can see through it!"
+  },
+  {
+   "j": "Why did the torch go to school?",
+   "a": "To get a little brighter!"
   }
  ],
  "maths": [
@@ -1851,7 +1850,7 @@
    "why_maths": "Putting the results in order shows at a glance which material stops the most light at each layer."
   },
   {
-   "problem": "Nila folds a paper napkin in half. Now it is 2 layers. She folds it in half again: 4 layers. Again: 8 layers. How many layers after one more fold?",
+   "problem": "Nila, a girl of 7, folds a paper napkin in half. Now it is 2 layers. She folds it in half again: 4 layers. Again: 8 layers. How many layers after one more fold?",
    "answer": "16 layers.",
    "explain": "Each fold doubles the layers: 2, 4, 8, then 8 and 8 more, which is 16.",
    "math_unit": "math.patterns.number-patterns.L2",
@@ -1997,10 +1996,10 @@
   "art": "A child sitting cross-legged facing a bright window with eyes closed, a soft red-orange glow drawn over the closed eyes, and a small pile of paper squares on the floor beside them."
  },
  "how_we_found_out": {
-  "story": "For a long time, people thought rocks were simply opaque. Light could not get through them, so the only way to study a rock was to look at its outside. In the 1830s, William Nicol in Scotland found a way to grind fossil wood so thin that light shone through it. Around 1850, Henry Clifton Sorby, a scientist in Sheffield, England, did the same with rocks. He glued a chip of rock to glass and ground it down until it was thinner than paper. Held up to the light, most of the rock was not opaque at all. It glowed, and under a microscope he could see the tiny grains inside it. Some people laughed at a man who looked at mountains with a microscope. But his method spread. In the 1890s, Florence Bascom, one of the first women geologists in the USA, became an expert at reading rock slices like these. Geologists all over the world, in India too, still study thin rock slices today.",
+  "story": "For a long time, people thought rocks were simply opaque. Light could not get through them, so the only way to study a rock was to look at its outside. In the 1830s, William Nicol in Scotland found a way to grind fossil wood so thin that light shone through it. Around 1850, Henry Clifton Sorby, a scientist in Sheffield, England, did the same with rocks. He glued a chip of rock to glass and ground it down until it was thinner than paper. Held up to the light, most of the rock was not opaque at all. It glowed, and under a microscope he could see the tiny grains inside it. His method spread. In the 1890s, Florence Bascom, one of the first women geologists in the USA, became an expert at reading rock slices like these. Geologists all over the world, in India too, still study thin rock slices today.",
   "who": "William Nicol, a Scottish scientist; Henry Clifton Sorby, an English scientist; Florence Bascom, an American geologist",
   "when": "About 1830 to the 1890s",
-  "wrong_idea": "People thought rocks were opaque, so nobody could look inside one. Sorby ground rocks thinner than paper and showed that most of them let light through."
+  "wrong_idea": "People thought a rock could only be studied from the outside, because rock is opaque. Sorby ground rocks thinner than paper and showed that most of them let light through."
  },
  "plan": {
   "start_options": [
@@ -2067,5 +2066,6 @@
    "Transparent wood: lignin removed and replaced with a clear polymer (Li and colleagues, KTH, 2016; Zhu and colleagues, University of Maryland, 2016).",
    "Bhagavad Gita 3.38: dhumenavriyate vahnir yathadarsho malena cha, yatholbenavrito garbhas tatha tenedam avritam. Tattvartha Sutra chapter 8 (sutra 4 or 5, by edition) lists the eight kinds of karma, beginning with jnanavarana. Samyutta Nikaya 22.95 (Phena Sutta): form like foam, feeling like a bubble, perception like a mirage, fabrications like a banana trunk with no heartwood, consciousness like a magic trick."
   ]
- }
+ },
+ "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child would in a flat. Fixed the torch step in the Layer Test (the pile now lies over the torch light), added the missing second tumbler to the Milk Cloud, and made the cat in the shoebox challenge the same everywhere. Rewrote the card game so two people can play it (they take turns reading), gave both games a clear score or goal, and said which cards have no pair. Replaced the weak jokes with real ones, and swapped worksheet questions that repeated the quiz for new ones. The three videos still need their addresses found."
 }

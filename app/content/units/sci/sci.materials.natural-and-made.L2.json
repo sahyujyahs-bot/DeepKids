@@ -76,7 +76,7 @@
    "status": "defined",
    "context": "This card explains what a natural material is.",
    "definition": "A natural material is found in nature. It comes from plants, from animals or from the ground.",
-   "description": "Wood and cotton grow on plants. Wool grows on sheep, and silk is spun by silkworms, who are the caterpillars of a moth. Clay, sand, stone and the rocks that metals come from are dug out of the ground. People may cut or clean a natural material, but it stays the same material. A wooden plank is still wood.",
+   "description": "Wood and cotton grow on plants. Wool grows on sheep. Silk is spun by silkworms, who are baby moths. Clay, sand and stone are dug out of the ground, and so are the rocks that metals come from. People may cut or clean a natural material, but it stays the same material. A wooden plank is still wood.",
    "examples": [
     "From plants: wood, cotton, jute, coir from coconuts, bamboo.",
     "From animals: wool, silk, beeswax.",
@@ -89,7 +89,7 @@
    "concept": "Made materials",
    "status": "defined",
    "context": "This card explains what a made material is, and where its raw material comes from.",
-   "definition": "A made material is made by people, by changing one or more natural materials so much that they become a new material.",
+   "definition": "A made material is a new material that people make by changing natural materials.",
    "description": "People never start from nothing. Every made material begins as a natural raw material. Glass begins as sand. Paper begins as wood or other plant parts. Plastic begins as oil and gas from deep under the ground. Brick begins as clay. The raw material is changed by heating, mashing or mixing, and a new material comes out.",
    "examples": [
     "Sand becomes glass.",
@@ -104,8 +104,8 @@
    "concept": "How glass is made from sand",
    "status": "defined",
    "context": "This card explains what you saw in the sugar test: why the melted sugar was clear, and how sand becomes glass in the same way.",
-   "definition": "Glass is made by melting sand with a little soda and limestone in a furnace, then letting it cool into a hard, clear solid.",
-   "description": "Each grain of glass-making sand is a tiny clear piece. A heap of grains looks pale and you cannot see through it, because light bounces off the edges of every grain. In a furnace at about 1,500 degrees Celsius, the grains melt into one thick, glowing liquid. Now there are no edges inside, so light goes straight through. Workers blow, press or pull the hot glass into bottles, windows and bangles. As it cools, it goes hard. The melted sugar did the same thing. It was white as grains, and clear as one piece.",
+   "definition": "Glass is made by melting sand, with a little soda and limestone, in a furnace. It then cools into a hard, clear solid.",
+   "description": "A heap of sand looks pale, and you cannot see through it. Light bounces off the edges of every grain. In a furnace at about 1,500 degrees Celsius, the grains melt into one glowing liquid. Now there are no edges inside, so light goes straight through. Workers blow, press or pull the hot glass into bottles, windows and bangles. The melted sugar did the same. It was white as grains, and clear as one piece.",
    "examples": [
     "Bangles from Firozabad are made of melted glass, pulled and coiled while hot.",
     "Old glass bottles are crushed and melted again to make new ones.",
@@ -118,8 +118,8 @@
    "concept": "How paper is made from plants",
    "status": "defined",
    "context": "This card explains how paper is made, and what you saw in the water shake.",
-   "definition": "Paper is made by mashing plant parts in water until they come apart into tiny fibres, then spreading the fibres thin, pressing them and drying them.",
-   "description": "Most paper is made from wood. In India, a lot of paper is also made from bamboo and from bagasse. Bagasse is what is left of sugarcane after the juice is squeezed out. In a paper mill, the plant parts are cooked and beaten in water into a soft mush called pulp. The pulp is spread on a fine screen, and the water drains away. The fibres dry and hold on to each other, and that makes a sheet. When paper gets very wet, the fibres let go again. That is why your tissue fell apart in the water shake.",
+   "definition": "Paper is made by mashing plant parts in water into tiny fibres. The fibres are then spread thin, pressed and dried.",
+   "description": "Most paper is made from wood. In India, a lot of paper is also made from bamboo and from bagasse. Bagasse is what is left of sugarcane after the juice is squeezed out. In a paper mill, the plant parts are cooked and beaten in water into a soft mush called pulp. The pulp is spread on a screen and the water drains away. The fibres dry and hold on to each other, and that makes a sheet. When paper gets very wet, the fibres let go again. That is why your tissue fell apart in the water shake.",
    "examples": [
     "A paper mill in Karur, Tamil Nadu, makes paper from sugarcane bagasse.",
     "Notebooks, newspapers, paper bags and tissues are all plant fibres.",
@@ -131,13 +131,13 @@
   {
    "concept": "How plastic is made from oil",
    "status": "defined",
-   "context": "This card explains where plastic comes from, and why it did not change in the soil cup test.",
-   "definition": "Most plastic is made in factories from oil and natural gas, which are dug out from deep under the ground.",
-   "description": "Oil formed over millions of years from the remains of tiny living beings that lived in the sea. In a factory, very small particles from oil are joined into very long chains. Those chains make plastic. Plastic is melted and pressed into buckets, bottles and bags. The bacteria and fungi in soil eat banana peel and paper easily. They have very few ways to eat plastic, so plastic can stay in soil for a very long time. Scientists have found a few bacteria that can eat some kinds of plastic, but only slowly.",
+   "context": "This card explains where plastic comes from, and why it does not change in the soil cup test.",
+   "definition": "Most plastic is made in factories from oil and natural gas. Both are dug out from deep under the ground.",
+   "description": "Oil formed over millions of years from the remains of tiny living beings of the sea. In a factory, very small particles from oil are joined into very long chains. Those chains make plastic. Bacteria and fungi in soil eat banana peel and paper easily. They have very few ways to eat plastic, so plastic can stay in soil for a very long time. Scientists have found a few bacteria that can eat some kinds of plastic, but only slowly.",
    "examples": [
     "Buckets, mugs, toothbrushes and milk packets are plastic.",
     "Polyester cloth in many clothes is a plastic too.",
-    "In the soil cup test, the plastic bag looked the same after two weeks."
+    "In a soil cup test, a plastic bag usually looks the same after two weeks."
    ],
    "perspectives": [],
    "art": "A drop of black oil deep under the ground, then a factory, then a plastic bucket and a bottle."
@@ -211,21 +211,6 @@
  ],
  "big_questions": [
   {
-   "q": "Why was the heap of sugar white, but the melted sheet clear?",
-   "kind": "deep",
-   "hint": "Think of light bouncing off the edges of every little grain."
-  },
-  {
-   "q": "If you crushed a clear glass bangle into powder, what colour would the powder be? Why?",
-   "kind": "deep",
-   "hint": "Remember what happened when you crushed a piece of your sugar sheet."
-  },
-  {
-   "q": "Is a bird's nest natural or made?",
-   "kind": "big",
-   "hint": "A bird made it from grass. People make paper from wood. What is the difference?"
-  },
-  {
    "q": "When a glass bangle breaks and is thrown away, will it ever become sand again?",
    "kind": "big",
    "hint": "Think of waves rolling broken glass on a beach for many years."
@@ -234,10 +219,20 @@
    "q": "Is anything in your home not made from something natural?",
    "kind": "big",
    "hint": "Pick any thing and follow it back. What was it before?"
+  },
+  {
+   "q": "Why do people still use glass for windows, even though it can break?",
+   "kind": "big",
+   "hint": "Think of what a window must do: let light in, and keep rain and wind out."
+  },
+  {
+   "q": "Why do glass makers melt old bottles again, instead of using only new sand?",
+   "kind": "big",
+   "hint": "Think of what has to be dug up, and what happens to a bottle that is thrown away."
   }
  ],
  "how_we_found_out": {
-  "story": "About 2,000 years ago, a Roman writer named Pliny the Elder told a story about how glass was first made. Some sailors, he said, landed on a sandy beach and cooked their food. They had no stones for their pot, so they rested it on lumps of soda from their cargo. In the heat of the fire, the soda and the sand melted together, and a stream of clear glass ran out. For a long time many people believed this story. But glass makers today know that a cooking fire is not hot enough to melt sand into glass. It needs a closed furnace, much hotter than any open fire. Archaeologists have found that people in West Asia were making glass beads more than 4,000 years ago. In India, glass makers at Arikamedu, near Puducherry, made tiny glass beads that travelled across Asia and Africa. The American archaeologist Vimala Begley, working with the Indian archaeologist K. V. Raman, dug at Arikamedu from 1989 to 1992. Her team showed that the bead making there began more than 2,000 years ago.",
+  "story": "About 2,000 years ago, a Roman writer named Pliny the Elder told a story about the first glass. Some sailors, he said, cooked their food on a sandy beach. They rested their pot on lumps of soda from their ship. The soda and the sand melted together, and clear glass ran out. For a long time, many people believed this story. But glass makers today know that a cooking fire is not hot enough to melt sand. Glass needs a closed furnace. People in West Asia were making glass beads more than 4,000 years ago. In India, glass makers at Arikamedu, near Puducherry, made tiny glass beads that travelled across Asia and Africa. The American archaeologist Vimala Begley and the Indian archaeologist K. V. Raman dug there from 1989 to 1992. Their team showed that bead making at Arikamedu began more than 2,000 years ago.",
   "who": "Pliny the Elder, a Roman writer; the glass bead makers of Arikamedu; Vimala Begley and K. V. Raman, archaeologists",
   "when": "Glass beads in West Asia more than 4,000 years ago; Pliny's story about 2,000 years ago; digs at Arikamedu, 1989 to 1992",
   "wrong_idea": "That glass was first made by chance on a beach, when sailors' cooking fire melted sand and soda. A cooking fire is not hot enough. Glass needs a closed furnace, which is why early glass was made by skilled workers in workshops.",
@@ -249,7 +244,7 @@
   "read_aloud": true,
   "note": "Sea glass is real: broken glass rolled by waves and sand for years becomes smooth and frosted. Wet sea glass looks clearer, because water fills the tiny scratches for a while. Nila, Arun and their mother are made up.",
   "text": [
-   "Nila was seven. She lived in Puducherry, near the sea. Every Sunday morning, before the sun got hot, she walked on the beach with her mother and her little brother Arun.",
+   "Nila was seven. She lived in Puducherry, near the sea. Every Sunday morning she walked on the beach with her mother and her little brother Arun.",
    "Arun was five. He liked to collect shells. Nila liked to collect anything that looked strange.",
    "One Sunday, near the line of wet sand, Nila saw something green. She picked it up. It was smooth and flat, with soft round edges. It was cloudy, like a piece of green ice.",
    "\"Amma, I found a green stone,\" she said.",
@@ -273,7 +268,7 @@
    "Arun took the glass and looked at Nila through it. \"So glass is just sand that melted,\" he said.",
    "\"Sand that people melted,\" said Nila. \"The sand came from nature. The glass was made by people. And now the sea is rubbing it back into sand.\"",
    "Arun thought about this. \"Then is it natural or not?\" he asked.",
-   "Nila did not know. Amma did not say. They walked home with the green glass in Nila's pocket, and Arun's question still in the air."
+   "Nila did not know. Amma did not say. They walked home with the green glass in Nila's pocket."
   ],
   "epiphany": "A heap of sand is not see-through because light bounces off the edges of all its grains. Melted into one piece, with no edges inside, the same sand becomes clear glass.",
   "ask": [
@@ -291,7 +286,7 @@
   {
    "id": "e1",
    "title": "The Sugar Test: can heat turn white grains into a clear sheet?",
-   "mins": 25,
+   "mins": 31,
    "days": 1,
    "context": "In this experiment a grown-up melts sugar with a little water and pours it onto an oiled plate. When it cools, you compare it with a heap of dry sugar. Glass is made from sand in the same way, but sand needs a furnace far hotter than a kitchen stove.",
    "question": "White sugar grains are not see-through. If we melt them and let them cool, what will they look like?",
@@ -336,8 +331,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Look at the sugar and guess. A grown-up melts and pours it. Wait for it to cool. Compare the sheet with dry sugar on a newspaper. Crush a piece and look again."
+     "mins": 31,
+     "what": "Look at the sugar and guess. A grown-up melts and pours it. While it cools, fill in the table for the dry heap. Then compare the sheet with the dry sugar on a newspaper. Crush a piece and look again."
     }
    ],
    "record": "Fill in the table. Draw the dry heap and the sheet side by side, on top of the newspaper words. Write one sentence: what heat did to the sugar.",
@@ -393,7 +388,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Put one spoon of dry sugar in a heap on a newspaper word. 2. Let your child look closely. 3. Ask for a guess and a reason.",
      "say": "Can you read the word under the sugar? Now, if I melt this sugar and let it cool, what will it look like? Why do you think so?",
      "kid": "Look at the sugar heap. Can you see the word under it? What will melted sugar look like? Why?",
@@ -411,12 +406,12 @@
     },
     {
      "id": "s2",
-     "mins": 8,
+     "mins": 12,
      "adult": true,
      "do": "1. Put 4 tablespoons of sugar and 2 tablespoons of water in the pan. 2. Heat on a medium flame. 3. Stir until the sugar is gone, then stop stirring. 4. Let it bubble for about 6 to 10 minutes.",
      "say": "Stay back where you are. Watch the bubbles. Tell me when they change.",
      "kid": "Stand back from the stove. Watch the bubbles. Do they change?",
-     "parent": "After a few minutes the bubbles get smaller and slower, and the syrup turns pale gold. Drop a little into the cold water. If it goes hard and snaps, it is ready. If it bends like chewing gum, heat one or two minutes more. Take it off before it turns dark brown."
+     "parent": "After a few minutes the bubbles get smaller and slower, and the syrup turns pale gold. Drop a little into the cold water. If it goes hard and snaps, it is ready. If it bends like chewing gum, heat one or two minutes more. Take it off before it turns dark brown. If the syrup turns white and grainy, it has set back into crystals. Start again in a clean pan, and add 3 drops of lemon juice."
     },
     {
      "id": "s3",
@@ -429,24 +424,14 @@
     },
     {
      "id": "s4",
-     "mins": 6,
-     "do": "1. Set a timer for 10 minutes. 2. While you wait, look at a few dry grains of sugar on a dark cloth or paper, close up. 3. After 10 minutes, tap the sheet with a spoon to check it is hard.",
-     "say": "While it cools, look at just a few grains close up. What does one grain look like? Is it white, or can you see light through it?",
-     "kid": "Look at a few sugar grains up close. Is one grain white? Or is it clear?",
-     "ask": [
-      {
-       "q": "What does one grain look like up close?",
-       "good": [
-        "It is shiny and clear, like a tiny piece of glass.",
-        "It is a little box shape and light comes through."
-       ]
-      }
-     ],
-     "parent": "Under a torch or a phone's camera zoom, single sugar grains look clear and glassy. Only the heap looks white."
+     "mins": 10,
+     "do": "1. Set a timer for 10 minutes. 2. While you wait, fill in the 'Dry sugar heap' column of your table. 3. After 10 minutes, tap the sheet with a spoon to check it is hard.",
+     "say": "While it cools, look at the dry heap again. What colour is it? Can you read the word under it? Let's write that in the table.",
+     "kid": "Fill in the 'Dry sugar heap' column of your table while you wait."
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Lift the cool sheet off the plate. 2. Lay it on a newspaper word next to the dry heap. 3. Count the letters you can read through each. 4. Wrap a small piece in a cloth and tap it with a spoon until it is powder. 5. Look at the powder.",
      "say": "How many letters can you read through the heap? Through the sheet? Now, what colour is the crushed sheet? Why do you think it changed?",
      "kid": "Count the letters you can read through each one. Now crush a small piece. What colour is it now?",
@@ -460,7 +445,7 @@
        ]
       }
      ],
-     "parent": "A strong answer uses what your child saw: 'The sheet let me read the word, but the crushed bits did not.' Now read the card 'How glass is made from sand'. You can eat a small piece of the sugar sheet. Break it in the cloth, as edges can be sharp.",
+     "parent": "A strong answer uses what your child saw: 'The sheet let me read the word, but the crushed bits did not.' In damp weather the sheet turns sticky after a few hours, so compare it soon after it cools. Now read the card 'How glass is made from sand'. When the sheet is fully cool, your child may taste a small piece. Break it in the cloth first, as the edges can be sharp.",
      "check": {
       "t": "mcq",
       "q": "Fathima, a girl in Class 2, crushes a clear glass marble into powder. What colour will the powder look?",
@@ -478,12 +463,12 @@
   {
    "id": "e2",
    "title": "The Soil Cup Test: which materials break down?",
-   "mins": 20,
+   "mins": 22,
    "days": 14,
    "context": "In this experiment you bury small pieces of four materials in damp soil. Two are natural and two are made by people. You dig them up after one week and after two weeks to see which ones have started to break down.",
    "question": "Which materials break down in damp soil in two weeks: banana peel, newspaper, cotton cloth or a plastic bag?",
    "predict": "Which piece do you think will change the most in two weeks? Which will change the least? Why do you think so?",
-   "fair_test": "Every piece is about the size of a matchbox. Each one goes in its own cup, under the same amount of soil from the same pot. We give every cup the same 2 spoons of water every two days, and keep them all in the same place.",
+   "fair_test": "Every piece is about the size of a matchbox. Each one goes in its own cup, under the same amount of soil from the same pot. Every cup gets the same 2 spoons of water twice a week, and all cups stay in the same place.",
    "results_table": [
     "Material",
     "Natural or made?",
@@ -521,23 +506,23 @@
      "what": "Guess. Bury one piece in each cup, label the cups, and water them."
     },
     {
-     "day": 3,
+     "day": 4,
      "mins": 1,
      "what": "Add 2 spoons of water to each cup."
     },
     {
      "day": 7,
      "mins": 5,
-     "what": "Dig each piece up with a spoon, look, write what you see, and bury it again."
+     "what": "Dig each piece up with a spoon, look, write what you see, and bury it again. Add 2 spoons of water."
     },
     {
-     "day": 10,
+     "day": 11,
      "mins": 1,
      "what": "Add 2 spoons of water to each cup."
     },
     {
      "day": 14,
-     "mins": 6,
+     "mins": 7,
      "what": "Dig up each piece. Compare them. Which changed the most? Sort them: broke down, changed a little, did not change."
     }
    ],
@@ -580,7 +565,7 @@
     },
     {
      "art": "A child adding two spoons of water to a cup of soil.",
-     "caption": "2. Water each cup every two days."
+     "caption": "2. Water each cup twice a week."
     },
     {
      "art": "Four pieces dug up and laid on a newspaper: a black, crumbly banana peel, a soft torn newspaper piece, a stained cloth and an unchanged plastic piece.",
@@ -617,7 +602,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "wait": "Leave the cups for 7 days. Water them every 2 days.",
+     "wait": "Leave the cups for 7 days. Water them twice a week.",
      "do": "1. Dig each piece up with a spoon. 2. Put it on a newspaper and look. 3. Write what you see. 4. Bury it again.",
      "say": "What has changed? Look at the colour, and feel how soft it is with the spoon.",
      "kid": "Dig up each piece with a spoon. What has changed?",
@@ -644,11 +629,11 @@
        "q": "Why didn't the plastic change?",
        "good": [
         "The tiny living beings in the soil can't eat it easily.",
-        "Plastic is made from oil, and soil bacteria have few ways to eat it."
+        "Plastic is made from oil, and soil bacteria have few ways to eat plastic."
        ]
       }
      ],
-     "parent": "Cotton takes months to break down, so it may only look stained or a little weaker. That is a real result too. Then read the card 'How plastic is made from oil'.",
+     "parent": "Cotton takes months to break down, so it may only look stained or a little weaker. That is a real result too. Then read the card 'How plastic is made from oil'. If the peel only dried out, the soil was too dry. Water it more, and look again after a few days.",
      "check": {
       "t": "mcq",
       "q": "Lakshmi, a girl in Madurai, buries a banana leaf and a plastic plate in soil. After two weeks, which will have changed more?",
@@ -658,7 +643,7 @@
        "Both the same"
       ],
       "a": 0,
-      "why": "In the soil cup test, the banana peel turned soft and black, but the plastic bag did not change. Bacteria and fungi in the soil eat plant materials easily, and plastic only very slowly."
+      "why": "Banana leaf and banana peel are plant materials. Bacteria and fungi in soil eat them easily, and eat plastic only very slowly."
      }
     }
    ]
@@ -834,11 +819,11 @@
    "context": "In this activity you shake a piece of tissue paper and a piece of plastic bag in jars of water. You see which one falls apart, and why.",
    "materials": [
     {
-     "item": "2 jars or bottles with lids, half full of water",
+     "item": "2 glass jars or wide bottles with lids, half full of water",
      "qty": 2
     },
     {
-     "item": "a piece of tissue paper or toilet paper, about the size of your palm",
+     "item": "a piece of toilet paper or tissue paper, about the size of your palm",
      "qty": 1
     },
     {
@@ -902,7 +887,7 @@
        ]
       }
      ],
-     "parent": "Tissue falls apart fastest. Newspaper takes longer, so use tissue or toilet paper. Throw the mush in the dustbin, not down the sink."
+     "parent": "Toilet paper falls apart fastest. Newspaper takes longer. Throw the mush in the dustbin, not down the sink."
     }
    ]
   },
@@ -983,102 +968,42 @@
      "kind": "cards",
      "title": "10 thing cards to cut out",
      "items": [
-      {
-       "f": "A glass bottle",
-       "b": "Made from: sand"
-      },
-      {
-       "f": "A notebook",
-       "b": "Made from: a tree"
-      },
-      {
-       "f": "A plastic bucket",
-       "b": "Made from: oil from under the ground"
-      },
-      {
-       "f": "A cotton shirt",
-       "b": "Made from: a cotton plant"
-      },
-      {
-       "f": "A steel tumbler",
-       "b": "Made from: rock with iron in it"
-      },
-      {
-       "f": "A brick",
-       "b": "Made from: clay"
-      },
-      {
-       "f": "A silk saree",
-       "b": "Made from: a silkworm's cocoon"
-      },
-      {
-       "f": "A woollen sweater",
-       "b": "Made from: a sheep's wool"
-      },
-      {
-       "f": "A coir doormat",
-       "b": "Made from: a coconut's husk"
-      },
-      {
-       "f": "A clay diya",
-       "b": "Made from: wet clay"
-      }
+      "A glass bottle",
+      "A notebook",
+      "A plastic bucket",
+      "A cotton shirt",
+      "A steel tumbler",
+      "A brick",
+      "A silk saree",
+      "A woollen sweater",
+      "A coir doormat",
+      "A jute bag"
      ]
     },
     {
      "kind": "cards",
      "title": "10 start cards to cut out",
      "items": [
-      {
-       "f": "Sand",
-       "b": "Becomes: a glass bottle"
-      },
-      {
-       "f": "A tree",
-       "b": "Becomes: a notebook"
-      },
-      {
-       "f": "Oil from under the ground",
-       "b": "Becomes: a plastic bucket"
-      },
-      {
-       "f": "A cotton plant",
-       "b": "Becomes: a cotton shirt"
-      },
-      {
-       "f": "Rock with iron in it",
-       "b": "Becomes: a steel tumbler"
-      },
-      {
-       "f": "Clay",
-       "b": "Becomes: a brick"
-      },
-      {
-       "f": "A silkworm's cocoon",
-       "b": "Becomes: a silk saree"
-      },
-      {
-       "f": "A sheep's wool",
-       "b": "Becomes: a woollen sweater"
-      },
-      {
-       "f": "A coconut's husk",
-       "b": "Becomes: a coir doormat"
-      },
-      {
-       "f": "Wet clay",
-       "b": "Becomes: a clay diya"
-      }
+      "Sand",
+      "A tree",
+      "Oil from under the ground",
+      "A cotton plant",
+      "Rock with iron in it",
+      "Clay",
+      "A silkworm's cocoon",
+      "A sheep's wool",
+      "A coconut's husk",
+      "Jute plant stems"
      ]
     }
    ],
    "rules": [
-    "Cut out all 20 cards. Mix them up. Lay them face down in rows.",
+    "Cut out all 20 cards. First lay them face up, and match each thing to its start material together.",
+    "Mix all 20 cards up. Lay them face down in rows.",
     "The youngest player goes first. Turn over any two cards and read them aloud.",
-    "If one card is a thing and the other is what it was made from, you have a pair. Say how the start material was changed. Keep the pair and have another turn.",
-    "If they are not a pair, turn them face down again. The next player has a turn.",
-    "Check a pair by reading the back of the thing card.",
-    "When all the cards are gone, the player with the most pairs wins."
+    "If one card is a thing and the other is the natural material it was made from, you have a pair. Say how the start material was changed. Keep the pair and have another turn.",
+    "If they are not a pair, turn them face down again in the same places. The next player has a turn.",
+    "The game ends when all the cards are gone. The player with the most pairs wins. If players have the same number, they all win."
    ],
    "setup": [
     {
@@ -1087,16 +1012,16 @@
     },
     {
      "art": "Two cards turned face up: 'A glass bottle' and 'Sand'.",
-     "caption": "2. Turn over two. Is it a thing and its start material?"
+     "caption": "2. Turn over two. Is it a thing and the natural material it was made from?"
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Read all the pairs aloud once with your child. 3. Mix and lay them face down.",
-     "say": "Every made thing started as something natural. Let's read the pairs first, then hide them.",
-     "kid": "Read the pairs. Then mix them and turn them face down."
+     "do": "1. Cut out the cards. 2. Lay them all face up and match each thing to its start material with your child. 3. Mix them and lay them face down.",
+     "say": "Every made thing started as something natural. Let's match them face up first, then hide them.",
+     "kid": "Match each thing to its start material. Then mix the cards and turn them face down."
     },
     {
      "id": "s2",
@@ -1190,7 +1115,7 @@
        "b": "Natural: stand up"
       },
       {
-       "f": "A rubber balloon",
+       "f": "A plastic bucket",
        "b": "Made: sit down"
       },
       {
@@ -1213,12 +1138,12 @@
     }
    ],
    "rules": [
-    "One player is the caller and holds the cards. Everyone else stands in a line.",
+    "One player is the caller and holds the cards, after shuffling them. Everyone else stands in a line.",
     "The caller reads a card aloud, but not the back.",
     "If it is a natural material, stand up tall. If it is made by people, sit down on the floor.",
-    "The caller reads the back. Anyone who got it wrong does 3 jumps and stays in.",
+    "The caller reads the back. Anyone who got it wrong does 3 jumps, then plays on.",
     "If the back says 'Tricky', everyone stops. Each player says natural or made, and why. No one does jumps.",
-    "After 8 cards, a new player becomes the caller."
+    "After 8 cards, a new player becomes the caller. The game ends after all 16 cards."
    ],
    "setup": [
     {
@@ -1242,14 +1167,14 @@
      "id": "s2",
      "mins": 6,
      "do": "Play through the cards. When a tricky card comes, stop and let each player give a reason.",
-     "say": "A bird's nest. Is it natural or made? A bird made it from grass. People make paper from wood. What is the difference?",
+     "say": "A bird's nest. Is the nest natural or made? The bird made the nest from grass. People make paper from wood. What is the difference?",
      "kid": "A bird's nest. Natural or made? Why?",
      "ask": [
       {
        "q": "Is a bird's nest natural or made?",
        "good": [
         "Natural, because a bird is part of nature.",
-        "Made, because the bird built it.",
+        "Made, because the bird built the nest.",
         "Both. The grass is natural, and the bird made the nest."
        ]
       }
@@ -1273,7 +1198,7 @@
    "title": "A Window for a Shoebox House",
    "mins": 20,
    "context": "This is a making challenge. Before glass was cheap, people in many places used other materials to let light into their homes. You make a window for a shoebox house without using glass.",
-   "problem": "Cut a window in a shoebox. Cover it with a material that lets light in and keeps a puff of air or a sprinkle of water out. You must be able to tell a toy is inside without opening the box.",
+   "problem": "Cut a window in a shoebox. Cover it with a material that lets light in and keeps a few drops of water out. You must be able to tell that a toy is inside without opening the box.",
    "constraints": [
     "No glass.",
     "Use only things from home.",
@@ -1282,7 +1207,7 @@
    "materials": [
     "a shoebox or a carton with a lid",
     "a small toy",
-    "butter paper, a clear plastic packet, a polythene bag, a sheet of white paper, a few drops of cooking oil, cloth",
+    "butter paper, a clear plastic packet, a sheet of white paper, a few drops of cooking oil, a thin white cloth",
     "scissors, sticky tape",
     "a torch"
    ],
@@ -1292,9 +1217,9 @@
    ],
    "creative": [
     "White paper rubbed with a few drops of oil. The oil fills the gaps between the fibres, so more light gets through. Before glass was common, people in China and Japan used oiled paper or paper screens in windows.",
-    "A very thin slice of a clear plastic bottle, cut flat."
+    "A thin white cloth, such as a hanky or muslin, with a few drops of oil rubbed in."
    ],
-   "your_turn": "Make your own window. Shine a torch through it from outside. Can you tell the toy is inside? Then make it better.",
+   "your_turn": "Make your own window. Put the toy right behind it, shine a torch at the window from the side, and look through. Can you tell the toy is inside? Then make it better.",
    "setup": [
     {
      "art": "A shoebox with a square window cut in one side and a toy elephant inside.",
@@ -1306,7 +1231,7 @@
     },
     {
      "art": "A torch shining through a paper window into the box, with the toy's shape just visible.",
-     "caption": "3. Shine a torch in. Can you see the toy?"
+     "caption": "3. Shine a torch at the window from the side. Can you see the toy?"
     }
    ],
    "flow": [
@@ -1338,9 +1263,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Your child tapes the best material over the window. 2. Shine a torch through it from outside. 3. Sprinkle a few drops of water on it.",
+     "do": "1. Your child tapes the best material over the window, with the toy right behind it. 2. Shine a torch at the window from the side and look through. 3. Sprinkle a few drops of water on the outside.",
      "say": "Can you tell the toy is inside? Did the water get in?",
-     "kid": "Tape on your window. Shine a torch. Can you see the toy?"
+     "kid": "Tape on your window. Shine a torch from the side. Can you see the toy?"
     },
     {
      "id": "s4",
@@ -1418,19 +1343,6 @@
      ],
      "a": "pairs as given",
      "why": "Every made material starts as a natural raw material."
-    },
-    {
-     "t": "mcq",
-     "p": "In the sugar test, what did the sugar look like after it was melted and cooled?",
-     "opts": [
-      "White grains, like before",
-      "A clear, hard sheet",
-      "A brown powder"
-     ],
-     "a": 1,
-     "why": "Melted and cooled, the sugar set into one clear piece. Picking 'white grains' may mean thinking a material always keeps its look. Heat changed it.",
-     "context": "This question is about the sugar test. A grown-up melts sugar with a little water and pours it on an oiled plate. When it cools, you compare it with a heap of dry sugar grains.",
-     "how": "e1"
     },
     {
      "t": "draw",
@@ -1594,11 +1506,10 @@
     },
     {
      "t": "truefalse",
-     "p": "Clear glass, crushed into powder, would look white.",
-     "a": true,
-     "why": "True. The powder has many tiny edges, and light bounces off all of them, just like the crushed sugar sheet.",
-     "context": "This question is about the sugar test. A grown-up melts sugar with a little water and pours it on an oiled plate. When it cools, you compare it with a heap of dry sugar grains.",
-     "how": "e1"
+     "p": "A cooking fire on a beach is hot enough to melt sand into glass.",
+     "a": false,
+     "why": "False. Glass needs a closed furnace at about 1,500 degrees Celsius. A cooking fire is far cooler.",
+     "context": "This question is about the sugar test. A grown-up melts sugar with a little water and pours it on an oiled plate. When it cools, you compare it with a heap of dry sugar grains."
     },
     {
      "t": "mcq",
@@ -1615,18 +1526,18 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and her brother Farhan see a paper wasp's nest on their balcony.",
+     "p": "Meenakshi and her friend Farhan see a paper wasp's nest on a balcony.",
      "views": [
       {
-       "who": "Meenakshi, aged 9",
+       "who": "Meenakshi, aged 8",
        "says": "The nest is natural. A wasp made it, and wasps are part of nature."
       },
       {
        "who": "Farhan, aged 7",
-       "says": "Then our notebooks are natural too. People are animals, and we made the paper the same way, from wood."
+       "says": "Then notebooks are natural too. People are animals, and people make paper from wood too."
       }
      ],
-     "ask": "Do you agree with Meenakshi, Farhan, or both? Give a reason. Then say one way a wasp's paper and our paper are different.",
+     "ask": "Do you agree with Meenakshi, Farhan, or both? Give a reason. Then say one way a wasp's paper and the paper in a notebook are different.",
      "lines": 3,
      "a": "A strong answer gives a clear reason, for example that people are animals too, so both could be called natural. It also names a difference, for example that people use big machines, chemicals and factories.",
      "why": "There is no single right answer. It depends on where we draw the line between natural and made."
@@ -1711,7 +1622,7 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi, a girl in Kochi, watches her mother pour melted sugar onto a plate. When it cools, what will it look like?",
+   "p": "Revathi, a girl in Kochi, watches a grown-up pour melted sugar onto a plate. When it cools, what will it look like?",
    "opts": [
     "White grains",
     "A clear, hard sheet",
@@ -1768,7 +1679,7 @@
     "The plastic bag"
    ],
    "a": 2,
-   "why": "Soil bacteria and fungi have very few ways to eat plastic. Picking newspaper may mean thinking all made materials last. Paper is plant fibres, so it breaks down.",
+   "why": "Soil bacteria and fungi have very few ways to eat plastic. Picking newspaper may mean thinking all made materials last. Paper is plant fibres, so paper breaks down.",
    "outcome": 4,
    "how": "e2"
   },
@@ -1786,7 +1697,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before the sugar test, Farhan guessed the melted sugar would stay white. After the test, what should he do?",
+   "p": "Before the sugar test, Farhan, a boy in Class 2, guessed the melted sugar would stay white. After the test, what should he do?",
    "opts": [
     "Keep his guess, because guesses are always right",
     "Say what he saw, and change his idea",
@@ -1816,7 +1727,7 @@
   },
   {
    "text": "A kabadiwala's cart with old newspapers, glass bottles and plastic, ready to be sold for recycling.",
-   "art": "A man pushing a cart piled with bundled newspapers, bottles and plastic tins."
+   "art": "A woman pushing a cart piled with bundled newspapers, bottles and plastic tins."
   },
   {
    "text": "A potter in Kolkata's Kumartuli or in Puducherry shaping wet clay.",
@@ -1845,46 +1756,45 @@
   "What is your school bag made of? Is that natural or made by people?",
   "If all the plastic in our home vanished, what would we miss most?",
   "What natural material is your favourite? Why?",
-  "Look at the window. What do you think the glass was before it was glass?",
   "Which things in our dustbin would break down in soil?"
  ],
  "jokes": [
-  {
-   "j": "Why did the sand go to school?",
-   "a": "It wanted to become a glass act!"
-  },
   {
    "j": "What did the window say to the sand?",
    "a": "I can see right through you now!"
   },
   {
-   "j": "Why did the notebook visit the forest?",
+   "j": "Why did the notebook go to the forest?",
    "a": "To meet its family tree!"
   },
   {
-   "j": "What did the banana peel say to the plastic bag in the soil?",
-   "a": "See you never, I'm breaking down!"
+   "j": "What did the paper say to the pencil?",
+   "a": "Write on!"
   },
   {
-   "j": "Why was the glass bangle so calm?",
-   "a": "It had already been through the fire."
+   "j": "Why is a plastic bottle bad at hide and seek?",
+   "a": "Everyone can see right through it!"
   },
   {
-   "j": "What is a tree's favourite thing to read?",
-   "a": "Anything printed on its cousins!"
+   "j": "What did the tree say to the paper mill?",
+   "a": "Leaf me alone!"
   },
   {
-   "j": "Why did the sugar grain feel shy in the heap?",
-   "a": "Nobody could see through to the real her!"
+   "j": "What did the clear sugar sheet say to the white heap?",
+   "a": "I'm clear and you're not!"
   },
   {
-   "j": "What did the clay say after the kiln?",
-   "a": "I'm a brick now, and I'm not going back!"
+   "j": "Why are glass bangles never lonely?",
+   "a": "They always come in a set!"
+  },
+  {
+   "j": "What did one brick say to the other?",
+   "a": "Let's stick together!"
   }
  ],
  "maths": [
   {
-   "problem": "In the sugar test, Nila read 0 letters through the sugar heap and 8 letters through the sugar sheet. How many more letters could she read through the sheet?",
+   "problem": "In the sugar test, Tamanna, a girl in Class 2, read 0 letters through the sugar heap and 8 letters through the sugar sheet. How many more letters could she read through the sheet?",
    "answer": "8 more letters.",
    "explain": "8 take away 0 is 8. The sheet showed 8 letters, the heap showed none.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1893,7 +1803,7 @@
    "why_maths": "Counting letters turns 'clearer' into a number, so we can compare the heap and the sheet."
   },
   {
-   "problem": "The grown-up set a 10 minute timer for the sugar sheet to cool. After 4 minutes, Selvi asked if it was ready. How many more minutes did she have to wait?",
+   "problem": "The grown-up set a 10 minute timer for the sugar sheet to cool. After 4 minutes, Selvi, a girl in Class 2, asked if it was ready. How many more minutes did she have to wait?",
    "answer": "6 more minutes.",
    "explain": "Count on from 4 to 10: 5, 6, 7, 8, 9, 10. That is 6 minutes.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1902,7 +1812,7 @@
    "why_maths": "Working out the time left helps us wait safely until the hot sugar is hard."
   },
   {
-   "problem": "Bornali counted 12 plastic things in her kitchen. Her friend Fathima counted 9 in hers. Who counted more, and how many more?",
+   "problem": "Bornali, a girl in Guwahati, counted 12 plastic things in her kitchen. Her friend Fathima counted 9 in hers. Who counted more, and how many more?",
    "answer": "Bornali counted 3 more.",
    "explain": "12 is more than 9. Count on from 9 to 12: 10, 11, 12. That is 3.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -1911,7 +1821,7 @@
    "why_maths": "Comparing counts shows which home uses more plastic, and by how much."
   },
   {
-   "problem": "In the changing line, Kavya put 8 things down. 5 were nearer the 'Changed a lot by people' end. How many were nearer the 'As nature made it' end? Which side had more?",
+   "problem": "In the changing line, Kavya, a girl in Class 2, put 8 things down. 5 were nearer the 'Changed a lot by people' end. How many were nearer the 'As nature made it' end? Which side had more?",
    "answer": "3 things. The 'changed a lot' side had 2 more.",
    "explain": "8 take away 5 is 3. 5 is more than 3, and 5 take away 3 is 2.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1920,7 +1830,7 @@
    "why_maths": "Counting each half tells us whether most of the things in our home were changed a lot by people."
   },
   {
-   "problem": "In the soil cup test, Lakshmi waters each of her 4 cups with 2 spoons of water. How many spoons does she use every time she waters?",
+   "problem": "In the soil cup test, Lakshmi, a girl in Madurai, waters each of her 4 cups with 2 spoons of water. How many spoons does she use every time she waters?",
    "answer": "8 spoons.",
    "explain": "4 cups, 2 spoons each: 2, 4, 6, 8.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -2048,12 +1958,12 @@
    "what_is_life": "Living beings make materials. A cotton plant grows fibres, a silkworm spins silk, and a wasp chews wood into paper.",
    "what_is_this_world": "Everything people make, from a window to a bucket, began as sand, wood, clay, rock or oil from the Earth."
   },
-  "thread": "Sand, a glass bangle and the sea glass on a beach are all the same material, arranged in different ways. Heat joins the grains into one piece, and waves scratch them apart again. Everything is conscious, down to the particles in a grain of sand. The sand does not stop being itself when it becomes a bangle. It changes its shape and its place.",
+  "thread": "Sand, a glass bangle and sea glass are mostly the same material in different arrangements. Heat joins the grains into one piece, and waves scratch the piece apart into grains again. Everything is conscious, down to the particles in a grain of sand. The sand is not lost when it becomes a bangle. Only its arrangement changes.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "By knowing one lump of clay, you know everything made of clay. The pot and the lamp are only names and shapes. What is real is the clay.",
-    "link": "A glass bottle, a window and a bangle have different names and shapes. Underneath, all three are melted sand."
+    "link": "A glass bottle, a window and a bangle have different names and shapes. Underneath, all three are glass, made mainly from sand."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",
@@ -2078,12 +1988,11 @@
   "practice": {
    "title": "Look through the window",
    "mins": 3,
-   "say": "Sit near a window. Breathe in slowly, and breathe out slowly. Look through the glass at the sky or the building across the road. This glass was once sand on a beach or a riverbank. Now it lets the light reach your eyes. Breathe in and out three more times, and keep looking.",
+   "say": "Sit near a window. Breathe in slowly, and breathe out slowly. Look through the glass at the sky or the building across the road. This glass was once sand dug from the ground. Now it lets the light reach your eyes. Breathe in and out three more times, and keep looking.",
    "kid": "Sit near a window. Breathe in slowly. Breathe out. Look through the glass. It was once sand. Breathe three more times."
   },
   "ask": [
    "If glass is melted sand, is a window natural or made?",
-   "When sea glass turns back into sand, is it still glass?",
    "What else might look one way in pieces and another way as one?"
   ],
   "art": "A child sitting by a window, looking through the clear glass at the sky, with a faint picture of a sandy beach in the glass."
@@ -2104,5 +2013,6 @@
    "Chandogya Upanishad 6.1.4. Thich Nhat Hanh, The Heart of Understanding (1988)."
   ],
   "walkthrough": "The sugar test was thought through for a city kitchen. 4 tablespoons of sugar with 2 of water, boiled on a medium flame, reach the hard crack stage in about 6 to 10 minutes and turn pale gold. Poured as thin as a coin on an oiled steel plate, they set hard in about 10 minutes, clear enough to read newsprint through. Crushed in a cloth, the sheet turns to white powder. In humid weather the sheet goes sticky after some hours, so compare it soon after it cools. In the soil cup test, banana peel goes dark and soft within a week in damp soil, newspaper softens, cotton changes only a little in two weeks, and the plastic does not change."
- }
+ },
+ "playtest": "Walked through the sugar test, the soil cup test, all four activities, both games and the window challenge as a parent and child in a flat. Fixed the memory game, whose printed cards showed the answers on their backs and had two cards that could match the same partner. Made the minutes agree with the steps in both experiments, and removed a repeat of the grain-looking activity from the sugar test. Cut the jokes down to eight real ones, removed repeated questions, and introduced every named child at first mention."
 }

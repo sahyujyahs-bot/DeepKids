@@ -106,7 +106,7 @@
    "status": "defined",
    "context": "This card is about what legs do when an animal walks, runs or jumps.",
    "definition": "Legs move a body by pushing back and down on the ground. The ground pushes back, and the body moves forward and up.",
-   "description": "A leg is made of bones joined at joints, such as the knee and the ankle. Muscles pull on the bones to bend and straighten the leg. When a straightening leg presses on the ground, the ground pushes the body the other way. The push lasts only while the leg is straightening. That is why a bent leg can push for longer than a straight one, and a longer push gives a faster start.",
+   "description": "A leg is made of bones joined at joints, such as the knee. Muscles pull on the bones to bend and straighten the leg. When a leg straightens against the ground, the ground pushes the body the other way. A bent leg can push for longer than a straight one, and a longer push gives a faster start.",
    "examples": [
     "When you walk, each foot pushes back on the floor, and you move forward.",
     "On a slippery floor your foot slides back, so the push is lost and you hardly move.",
@@ -120,7 +120,7 @@
    "status": "defined",
    "context": "This card is about animals whose legs are made for jumping, and how they do it.",
    "definition": "Jumping animals have long back legs that fold up when resting and straighten very fast to push off.",
-   "description": "A frog's back legs fold in three parts under her body, like a letter Z. When she jumps, they all straighten at once. Because the legs are long, they keep pushing on the ground for longer. A grasshopper's back legs are much bigger than the front ones. A grasshopper also stores up energy in their legs before a jump, like pulling back a catapult, and lets it go all at once. Some frogs and grasshoppers can jump many times the length of their own body.",
+   "description": "A frog's back legs fold in three parts under her body, like a letter Z. When she jumps, they all straighten at once. Because the legs are long, they keep pushing on the ground for longer. A grasshopper's big back legs work like a stretched rubber band: they store up energy, then let it go all at once.",
    "examples": [
     "A frog's back legs, opened out, are longer than her head and body together.",
     "A grasshopper's big back legs make the jump. The four smaller legs are for walking.",
@@ -134,7 +134,7 @@
    "status": "defined",
    "context": "This card is about how birds, bats and insects use wings.",
    "definition": "A wing flies by pushing air down and back. The air pushes the wing up and forward, and that holds the animal up.",
-   "description": "On the way down, a bird spreads the wing wide and flat, so the wing pushes a lot of air. On the way back up, many birds bend the wing in a little, so the wing pushes less air the wrong way. Birds' wings are covered in feathers. A bat's wing is skin stretched over very long finger bones. A butterfly has four thin wings, and a housefly has only two. Many birds start flying with a jump, using their legs to push off the ground.",
+   "description": "On the way down, a bird spreads the wing wide and flat, so the wing pushes a lot of air. On the way up, many birds bend the wing in a little, so it pushes less air the wrong way. A bird's wing is covered in feathers. A bat's wing is skin stretched over very long finger bones, and a butterfly has four thin wings.",
    "examples": [
     "A pigeon claps her wings loudly as she takes off.",
     "A black kite circles high over the city, hardly flapping, on rising warm air.",
@@ -162,7 +162,7 @@
    "status": "defined",
    "context": "This card is about how animals push on water to swim.",
    "definition": "Swimmers move by pushing water backwards with a tail, fins, flippers or webbed feet.",
-   "description": "A fish bends her body from side to side, and the tail fin pushes water back. The other fins steer, stop and keep the fish steady. A duck pushes back with her feet spread open, so the skin between the toes pushes a lot of water. Then she folds her toes together to bring the foot forward, so it pushes less water the wrong way. Frogs kick with long, webbed back legs. Penguins swim by flapping their wings under the water.",
+   "description": "A fish bends her body from side to side, and her tail fin pushes water back. The other fins steer and keep her steady. A duck spreads her toes to push back, so the skin between them pushes a lot of water. Then she folds her toes to bring the foot forward. Frogs kick with long, webbed back legs.",
    "examples": [
     "A rohu fish swings her tail from side to side.",
     "Ducks paddle in the backwaters of Kuttanad in Kerala.",
@@ -176,7 +176,7 @@
    "status": "defined",
    "context": "This card is about snakes, earthworms and snails, who move without legs.",
    "definition": "Animals without legs move by pushing parts of their body against the ground and the things on it.",
-   "description": "A snake bends her body into curves. Each curve pushes sideways against stones, sticks and bumps on the ground, and that pushes the snake forward. The scales on a snake's belly catch on rough ground. On very smooth glass, a snake slides about and moves slowly. An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles on her body grip the soil so she does not slide back. A snail glides on a layer of slime, moved by waves of muscle under her foot.",
+   "description": "A snake bends her body into curves. Each curve pushes sideways against stones, sticks and bumps, and that pushes the snake forward. On very smooth glass she has little to push on, so she slides about and moves slowly. An earthworm makes her body long and thin, then short and fat, and tiny bristles grip the soil. A snail glides on a layer of slime.",
    "examples": [
     "A rat snake moves fast through grass, pushing on the stems.",
     "An earthworm stretches forward, grips, and pulls the back part along.",
@@ -190,7 +190,7 @@
    "status": "defined",
    "context": "This card is about the different kinds of teeth, and how they match what an animal eats.",
    "definition": "Animals have teeth shaped for their food: incisors cut, canines grip and tear, and molars grind.",
-   "description": "A cow eats grass. She has no top front teeth, only a hard pad of gum. She wraps her long tongue round the grass, holds it between her bottom front teeth and that pad, and tears it off. Her wide, flat molars grind it, as her jaw moves from side to side. A tiger eats meat. Her long canines grip and tear, and her back teeth cut like scissors. A tiger's jaw moves mostly up and down. A squirrel's front teeth never stop growing, and gnawing on nuts keeps them short. Humans eat many kinds of food, so we have all three kinds of teeth. Some animals, like snakes, swallow their food whole.",
+   "description": "A cow eats grass. She has no top front teeth, only a hard pad of gum, and she tears grass off between that pad and her bottom front teeth. Her wide, flat molars grind the grass as her jaw moves from side to side. A tiger's long canines grip and tear meat, her back teeth cut like scissors, and her jaw moves mostly up and down. A squirrel's front teeth never stop growing, so gnawing keeps them short. Humans eat many kinds of food, so we have all three kinds of teeth.",
    "examples": [
     "A child has 20 milk teeth. Most grown-ups have 32 teeth.",
     "An elephant's tusks are two very long front teeth.",
@@ -289,7 +289,7 @@
    "who": "What many people think when they watch a bird fly",
    "for": "Wings do the flying once a bird is in the air.",
    "against": "Scientists filmed birds taking off and measured the push of their feet. Many birds get most of their starting speed from a jump with their legs, then the wings take over.",
-   "status": "accepted",
+   "status": "rejected",
    "context": "This card is about how a bird leaves the ground."
   },
   {
@@ -339,7 +339,7 @@
    "\"Ammamma!\" Anjali called softly. \"There is a frog on the wall!\"",
    "Anjali was seven. She lived on the first floor of a building near the backwaters, with Amma, her grandmother Ammamma, and her brother Joel, who was five. Ammamma had taught biology in a school for thirty years.",
    "Joel came running first. \"Catch her!\" he shouted, and reached out his hand.",
-   "\"Wait,\" said Ammamma, from the door. \"Don't touch her with toothpaste on your fingers. A frog's skin is thin and soft. She drinks water through her skin, and soap or toothpaste can hurt her.\"",
+   "\"Wait,\" said Ammamma, from the door. \"Don't grab her. A frog's skin is thin and soft. She drinks water through her skin, and soap or dry hands can hurt her.\"",
    "Joel pulled his hand back. They all looked at the frog. The frog looked at them, and did not move.",
    "\"How is she holding on to the wall?\" asked Anjali. \"The tiles are so smooth.\"",
    "\"Look at her toes,\" said Ammamma. \"See the little round pads at the ends? They are sticky and soft. They press close to the tile, and wet tiles help them hold. This is a tree frog. Tree frogs climb trees, and walls too.\"",
@@ -424,7 +424,7 @@
       },
       {
        "f": "You, a human",
-       "b": "Walks, runs and jumps on two legs. Climbs with hands and feet. Swims if you have learnt."
+       "b": "Walks, runs and jumps on two legs. Climbs with hands and feet."
       }
      ]
     },
@@ -434,7 +434,7 @@
      "items": [
       {
        "f": "1. A pond",
-       "b": "Swimmers can cross: duck, frog, rohu fish, snake, or you if you can swim."
+       "b": "Swimmers can cross: duck, frog, rohu fish, snake."
       },
       {
        "f": "2. A dry, dusty road",
@@ -454,7 +454,7 @@
       },
       {
        "f": "6. Up to a high branch",
-       "b": "Climbers and fliers can get there: crow, gecko, ant, snake."
+       "b": "Climbers and fliers can get there: crow, gecko, ant, snake, you."
       },
       {
        "f": "7. Down to the mud at the bottom of a pond",
@@ -503,15 +503,15 @@
     }
    ],
    "rules": [
-    "Before you play, draw each animal on their card, so that a child who cannot read yet can play.",
+    "Before you play, draw each animal on that animal's card, so that a child who cannot read yet can play.",
     "Lay the 8 animal cards face up in a row. Put a coin on Start as the message.",
     "Mix the 12 place cards and put them face down in a pile.",
-    "Turn over the top place card and read it aloud.",
-    "The team chooses one animal who can get through that place, and says how: with legs, wings, fins, sticky toes or the whole body.",
-    "Turn the place card over to check. If the animal is on the back, move the message one square forward.",
-    "Each animal can carry the message only twice. When an animal has gone twice, turn their card over to rest.",
-    "If no resting animal is left who can get through a place, put that place card at the bottom of the pile and try the next one.",
-    "The team wins when the message reaches Home. If the pile runs out first, count how far the message got, and play again to beat it."
+    "Turn over the top place card and read the place aloud, but do not read the back.",
+    "The team chooses one animal who can get through that place, and says how: with legs, wings, fins, sticky toes or the whole body. If the team is stuck, read the back aloud and choose from it.",
+    "Check the back. If your animal is named there, move the message one square forward. If not, nothing moves, and you choose again.",
+    "Each animal can carry the message only twice. When an animal has gone twice, turn that card face down to rest.",
+    "If every animal who can get through is resting, wake them all: turn all 8 cards face up again. You can do this once in a game. After that, put the place card aside, and the message stays where it is.",
+    "The game ends when all 12 place cards are used. The team wins if the message is at Home. If not, count how far it got, and play again to beat it."
    ],
    "flow": [
     {
@@ -563,7 +563,7 @@
      "caption": "1. Lay out the animal cards."
     },
     {
-     "art": "A paper track of 13 squares with a coin on Start and a place card showing a pond.",
+     "art": "A paper track of 13 squares with a coin on Start and a place card that reads 'A pond'.",
      "caption": "2. Turn over a place card and choose who can get through."
     }
    ]
@@ -631,7 +631,7 @@
     },
     {
      "kind": "score sheet",
-     "title": "A score sheet with one column for each player",
+     "title": "A score sheet with three rows of points and one column for each player",
      "items": [
       "Guess after clue 1: 3 points",
       "Guess after clue 2: 2 points",
@@ -643,10 +643,10 @@
     "Mix the clue cards and put them face down in a pile.",
     "The reader takes the top card and reads clue 1 aloud.",
     "The other players may guess. A right guess after clue 1 wins 3 points.",
-    "If nobody is right, read clue 2. A right guess now wins 2 points. After clue 3, a right guess wins 1 point.",
+    "If nobody is right, read clue 2. A right guess now wins 2 points. After clue 3, a right guess wins 1 point. If nobody is right after clue 3, nobody scores.",
     "Each player gets one guess for each clue.",
     "After each card, the reader turns it over and reads the answer aloud. Then the next player becomes the reader.",
-    "When all 12 cards are done, the player with the most points wins. A grown-up can be the reader for a child who cannot read yet."
+    "When all 12 cards are done, the player with the most points wins. With 2 players, you take turns as reader and guesser. A grown-up can read for a child who cannot read yet."
    ],
    "flow": [
     {
@@ -698,7 +698,7 @@
      "caption": "1. Put the clue cards face down."
     },
     {
-     "art": "A grandmother reading a clue card aloud while two children think, one with her hand up.",
+     "art": "A parent reading a clue card aloud while two children think, one with her hand up.",
      "caption": "2. Read one clue at a time and guess."
     }
    ]
@@ -784,7 +784,7 @@
      "do": "1. Your child keeps the knees straight and stiff, and jumps forward using only ankles and toes. 2. Put a coin where the back of the nearest heel lands. 3. Measure from the line to the coin. 4. Do it three times.",
      "say": "Straight legs first. Keep your knees stiff, like sticks. Now jump as far as you can.",
      "kid": "Keep your knees stiff. Jump forward as far as you can.",
-     "parent": "Measure from the start line to the back of the heel that landed nearest the line. With stiff knees most children only hop a little way, often less than two foot-lengths."
+     "parent": "Measure from the start line to the back of the heel that landed nearest the line. With stiff knees most children only hop a short way."
     },
     {
      "id": "s4",
@@ -916,7 +916,7 @@
      "do": "1. Your child presses the tumbler straight down on one leaf and lifts it, 10 times. 2. Do the same on the second leaf. 3. Look closely at both.",
      "say": "Press straight down and lift. Count to ten. Press hard, like squeezing a lime.",
      "kid": "Press down and lift. Do it ten times. Look at the leaf.",
-     "parent": "Pressed leaves usually go flat and get a few dark, bruised marks, but they stay in one piece."
+     "parent": "Pressed leaves usually go flat and get dark, bruised marks, and may leave a little juice, but they mostly stay in one piece. Leaves differ: curry leaves are tough and spinach is soft. If the result is not clear, count the bits."
     },
     {
      "id": "s4",
@@ -1021,7 +1021,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Ask what all three did before jumping. 2. If a bird is on your window ledge, watch the legs as the bird flies off.",
+     "do": "Ask what all three did before jumping.",
      "say": "What did the frog, the cat and the grasshopper all do just before jumping?",
      "kid": "What did every jumper do first?",
      "ask": [
@@ -1053,7 +1053,7 @@
      "caption": "1. Be a frog, a cat and a grasshopper getting ready."
     },
     {
-     "art": "A pigeon on a window ledge bending her legs, just about to take off.",
+     "art": "A cat crouching low with her legs bent, just about to jump onto a wall.",
      "caption": "2. Notice what every jumper does first."
     }
    ]
@@ -1086,7 +1086,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put the tissue bits in a small pile on the floor. 2. Your child holds the notebook flat, about one hand-width above the bits. 3. Swing the notebook down fast, without touching the bits.",
+     "do": "1. Switch off the fan and close the window. 2. Put the tissue bits in a small pile on the floor. 3. Your child holds the notebook flat, about one hand-width above the bits. 4. Swing the notebook down fast, without touching the bits.",
      "say": "Your notebook is a wing. Hold it flat and swing it down fast. Don't touch the tissue. What happens?",
      "kid": "Hold the notebook flat. Swing it down fast. Watch the tissue!",
      "ask": [
@@ -1150,7 +1150,7 @@
      "qty": 1
     },
     {
-     "item": "cushions, pillows or rolled-up bedsheets",
+     "item": "cushions, pillows, school bags or rolled-up bedsheets",
      "qty": "4 to 6"
     }
    ],
@@ -1185,7 +1185,8 @@
         "The cushions gave me something to push against."
        ]
       }
-     ]
+     ],
+     "parent": "Cushions are softer than stones, so your child may still move only a little. Stack the cushions against a wall or use rolled-up mats to give a firmer push."
     },
     {
      "id": "s3",
@@ -1203,7 +1204,8 @@
       ],
       "a": 0,
       "why": "A snake bends into curves and pushes each curve sideways against stones, sticks and bumps. The ground pushes back and moves her forward. On smooth glass she has little to push on, so she slides about."
-     }
+     },
+     "parent": "An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles on her body grip the soil."
     }
    ],
    "setup": [
@@ -1235,6 +1237,10 @@
     {
      "item": "paper and a pencil",
      "qty": 1
+    },
+    {
+     "item": "blue, yellow and green pencils or crayons",
+     "qty": 3
     }
    ],
    "schedule": [
@@ -1409,7 +1415,7 @@
      "do": "1. Put a few grains of sugar where you have seen ants, and wait. 2. Your child watches an ant walk and carry food. 3. Draw the ant, with six legs, and write what the ant pushes on.",
      "say": "What does the ant push on to walk? What does she do with the sugar?",
      "kid": "Watch an ant walk. Draw her legs. What does she push on?",
-     "parent": "Ants have six legs and strong jaws that work from side to side, like pincers. They carry food in their jaws."
+     "parent": "Ants have six legs and strong jaws that work from side to side, like pincers. They carry food in their jaws. If no ants come, try again the next day."
     },
     {
      "id": "s2",
@@ -1426,15 +1432,6 @@
      "do": "Your child draws themselves walking and jumping, and draws their teeth. Then compare all three pages.",
      "say": "Now you are the animal. What do you push on? What kinds of teeth do you have?",
      "kid": "Draw yourself jumping. Draw your teeth.",
-     "ask": [
-      {
-       "q": "What did all three animals push on to move?",
-       "good": [
-        "The ground or the floor.",
-        "The bird pushed on the air too."
-       ]
-      }
-     ],
      "check": {
       "t": "mcq",
       "q": "What do an ant, a crow and you all push on to walk?",
@@ -1476,7 +1473,7 @@
     "sheets of paper",
     "paper clips",
     "scissors, used with a grown-up",
-    "a phone or clock to time the fall, or count out loud"
+    "a phone stopwatch to time the fall, or count out loud"
    ],
    "general": [
     "Make the paper lizard wide and flat, like the lizard's spread-out skin flaps.",
@@ -1503,7 +1500,7 @@
      "do": "Your child makes a paper lizard, drops the paper lizard from shoulder height and counts how long the fall takes. Then they change the shape and try again.",
      "say": "How long did that take? What could you change to make the fall slower?",
      "kid": "Drop your lizard. Count. Change the shape. Try again.",
-     "parent": "A wide, flat shape with a paper clip at the front usually glides forward and lands later. A grown-up helps with scissors."
+     "parent": "A wide, flat shape falls slowly. A paper clip at the front stops it from tumbling, but its weight can also make the fall faster, so try with and without the clip. A grown-up helps with scissors."
     },
     {
      "id": "s3",
@@ -1539,7 +1536,7 @@
      "caption": "1. Make a paper ball and a flat paper lizard."
     },
     {
-     "art": "A child holding a paper lizard flat at shoulder height and letting go, while a grandmother counts.",
+     "art": "A child holding a paper lizard flat at shoulder height and letting go, while a parent counts.",
      "caption": "2. Drop it from the same height and count the fall."
     }
    ]
@@ -1642,11 +1639,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw yourself just before your longest jump in the Jump Test. Show how your knees were bent.",
-     "a": "A child with knees well bent, hands on hips, behind the start line.",
-     "why": "A strong drawing shows bent knees, because the jumps with a bend went farther than the straight-legged jumps.",
-     "how": "e1",
-     "art": "An empty box with a dupatta start line drawn along the bottom."
+     "p": "Pick a food: seeds, fish or nectar. Draw the head of a bird with a beak that fits that food.",
+     "a": "A bird head with a short, thick beak for seeds, a long, straight, sharp beak for fish, or a long, thin, curved beak for nectar.",
+     "why": "A strong drawing gives the beak a shape that suits the food it picked, because each beak is shaped for the way that bird gets food.",
+     "art": "An empty box with the words seeds, fish and nectar along the bottom."
     },
     {
      "t": "write",
@@ -1735,7 +1731,7 @@
     },
     {
      "t": "write",
-     "p": "In the Press or Grind test, which way broke the leaf into small bits? Say why that helps a cow.",
+     "p": "Say out loud, and a grown-up writes it down: in the Press or Grind test, which way broke the leaf into small bits? Say why that helps a cow.",
      "lines": 3,
      "a": "Rubbing round and round tore the leaf into bits and made green juice. Pressing only flattened it. A cow rubs her flat back teeth from side to side, so the grass is ground up small.",
      "why": "A strong answer gives the result of the test (rubbing tore the leaf) and links it to the side-to-side chewing of a cow.",
@@ -1788,14 +1784,6 @@
      ],
      "a": "see items",
      "why": "Cows and elephants eat plants. Tigers and kingfishers eat other animals. Crows and most humans eat both plants and animals."
-    },
-    {
-     "t": "draw",
-     "p": "Draw a snake moving between stones. Draw arrows where her body pushes on the stones.",
-     "a": "A snake in an S-shape with arrows from the outside of each curve to a stone.",
-     "why": "A strong drawing shows the curves of the snake's body pressing sideways against the stones, because that push moves the snake forward.",
-     "how": "a3",
-     "art": "An empty box with a few stones drawn in it."
     },
     {
      "t": "label",
@@ -1863,9 +1851,9 @@
     },
     {
      "t": "count",
-     "p": "A child has 20 milk teeth. Riya, who is seven, has lost 4 of them. How many milk teeth does Riya still have?",
+     "p": "A child has 20 milk teeth. Zoya, who is seven, has lost 4 of them. How many milk teeth does Zoya still have?",
      "a": 16,
-     "why": "20 take away 4 is 16. Riya still has 16 milk teeth. Big new teeth will grow where the 4 fell out."
+     "why": "20 take away 4 is 16. Zoya still has 16 milk teeth. Big new teeth will grow where the 4 fell out."
     }
    ]
   },
@@ -1895,21 +1883,21 @@
     },
     {
      "t": "write",
-     "p": "Many people think that bigger animals always jump farther. What would you test to find out if that is true?",
+     "p": "Say out loud, and a grown-up writes it down: many people think that bigger animals always jump farther. What would you test to find out if that is true?",
      "lines": 3,
      "a": "I would ask a big person and a small person to jump from the same line in the same way, three times each, and measure. I could also look up how far a grasshopper jumps compared to her body length.",
      "why": "A strong answer describes a fair test: the same start line, the same way of jumping, more than one try, and a measurement. It may also say that tiny animals like grasshoppers jump many times their own length."
     },
     {
      "t": "draw",
-     "p": "Draw your arm and a bat's wing side by side. Colour the same bones the same colour.",
+     "p": "Look at the card 'One bone plan in many limbs'. Draw your arm and a bat's wing side by side. Colour the same bones the same colour.",
      "a": "An arm and a bat wing, each with one long upper bone, two lower bones, small wrist bones and long finger bones in the wing.",
      "why": "A strong drawing shows the same pattern in both: one bone, then two, then wrist bones, then fingers. The bat's fingers are very long to hold the skin of the wing.",
      "art": "An empty box split into two halves."
     },
     {
      "t": "write",
-     "p": "Invent an animal who lives in a pond and eats seeds that float on the water. Say how the animal moves and what the mouth looks like.",
+     "p": "Say out loud, and a grown-up writes it down: invent an animal who lives in a pond and eats seeds that float on the water. How does the animal move, and what does the mouth look like?",
      "lines": 4,
      "a": "My animal has webbed feet to paddle, and a short, thick beak with comb-like edges to scoop up floating seeds and crack them.",
      "why": "A strong answer gives the animal a body part that pushes on water, such as webbed feet or fins, and a mouth that fits seeds, such as a short, thick beak."
@@ -2002,18 +1990,6 @@
    "a": 1,
    "why": "An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles grip the soil so she does not slide back. If you said jumping, think of the frog: jumping needs legs.",
    "outcome": 3
-  },
-  {
-   "t": "mcq",
-   "p": "Sana, a girl in Hyderabad, does a jump test. She jumps with straight, stiff legs and with knees well bent. Which jump is most likely longer?",
-   "opts": [
-    "The straight-legged jump",
-    "The bent-knee jump",
-    "Both the same"
-   ],
-   "a": 1,
-   "why": "Bent legs can push on the floor for longer as they straighten, so Sana leaves the ground faster. Stiff legs have almost no bend left to push with.",
-   "outcome": 1
   },
   {
    "t": "mcq",
@@ -2120,7 +2096,7 @@
     "Nothing at all"
    ],
    "a": 0,
-   "why": "A snake pushes the curves of her body sideways against bumps on the ground. In the Snake Wiggle you moved much better with cushions to push on.",
+   "why": "A snake pushes the curves of her body sideways against bumps on the ground. In the Snake Wiggle, the cushions gave you something to push on.",
    "outcome": 3
   },
   {
@@ -2167,7 +2143,7 @@
  ],
  "applications": [
   "Swimmers wear rubber flippers on their feet, which push a lot of water back, like a duck's webbed feet.",
-  "Engineers build snake robots that can push their way through broken buildings after an earthquake to find people.",
+  "Engineers are building snake robots that can push their way through broken buildings after an earthquake to find people.",
   "Engineers build small jumping robots that store up energy and let it go at once, like a grasshopper's legs.",
   "Athletes in the long jump and high jump bend their legs before take-off, to push on the ground for longer.",
   "Animal doctors look at the teeth of horses and cows to tell how old they are."
@@ -2196,16 +2172,12 @@
  ],
  "open_questions": [
   {
-   "q": "How did the first birds begin to fly?",
-   "why_open": "Some scientists think small feathered dinosaurs glided down from trees. Others think they flapped while running on the ground. The fossils are few, so nobody knows for sure."
-  },
-  {
    "q": "Why did some fish first come out of the water and walk?",
    "why_open": "Long ago, some fish with bony, fleshy fins began to move on land. Scientists still argue about why: to find food, to escape hunters, or to move between drying pools."
   },
   {
    "q": "Why do some birds hop and others walk?",
-   "why_open": "Sparrows mostly hop, pigeons walk, and crows do both. Scientists have ideas about body size and where birds find food, but there is no clear answer yet."
+   "why_open": "Sparrows mostly hop, pigeons walk, and crows do both. Scientists have ideas, but there is no clear answer yet."
   }
  ],
  "ask_kids": [
@@ -2233,24 +2205,24 @@
    "a": "She gets it toad!"
   },
   {
-   "j": "Why did the cow chew sideways?",
-   "a": "She wanted to grind her way through lunch!"
-  },
-  {
-   "j": "What did the duck say at the swimming race?",
-   "a": "Watch my feet do the paddle!"
-  },
-  {
-   "j": "Why did the parrot not need a nutcracker?",
-   "a": "Her beak was the nutcracker!"
-  },
-  {
    "j": "How does a fish stay steady?",
    "a": "Fin-tastically!"
   },
   {
-   "j": "What did the grasshopper say before the big jump?",
-   "a": "Legs, get folding!"
+   "j": "What do you call a sleeping cow?",
+   "a": "A bulldozer!"
+  },
+  {
+   "j": "Why do ducks make good detectives?",
+   "a": "They always quack the case!"
+  },
+  {
+   "j": "What do you call a fish with no eyes?",
+   "a": "A fsh!"
+  },
+  {
+   "j": "How do you count cows?",
+   "a": "With a cow-culator!"
   }
  ],
  "maths": [
@@ -2427,7 +2399,7 @@
  "roots": {
   "context": "We have tested our own jumps, flapped like a bird, wiggled like a snake and ground leaves like a cow. Now we ask what the Jump Test tells us about moving, and about ourselves.",
   "deep_truth": {
-   "truth": "With straight legs you hardly moved, but with knees well bent you jumped much farther. Your feet push on the floor only while your legs straighten. A bigger bend gives a longer push, so you leave the floor faster. So a jump is made on the ground, before you ever leave it.",
+   "truth": "With straight legs you jumped only a short way, but with knees well bent you jumped much farther. Your feet push on the floor only while your legs straighten. A bigger bend gives a longer push, so you leave the floor faster. So a jump is made on the ground, before you ever leave it.",
    "habit": "We think of a jump as the flying part, through the air. But once your feet leave the floor, nothing more can push you. The whole jump was made in the short push before, while you still touched the ground.",
    "evidence": "In the Jump Test, straight-legged jumps went only a little way, and jumps with a big knee bend went much farther. A frog's long back legs fold up in a Z, so her push on the ground lasts a long time."
   },
@@ -2446,7 +2418,7 @@
    {
     "source": "Tao Te Ching, chapter 76",
     "teaching": "Laozi says that living things are soft and bendable, and dead things are stiff and hard. What is stiff will break. What is soft and bendable will last.",
-    "link": "In the Jump Test, stiff, straight legs could hardly push at all. Bent legs, ready to straighten, gave the longest jumps. Being able to bend is what let your legs act."
+    "link": "In the Jump Test, stiff, straight legs pushed only a little. Bent legs, ready to straighten, gave the longest jumps. Being able to bend is what let your legs act."
    }
   ],
   "science": [
@@ -2475,7 +2447,7 @@
   },
   "ask": [
    "When you were crouched and still, was the jump already there in your legs?",
-   "Your arm and a bat's wing have the same bones. In what way are you and a bat the same animal?",
+   "Your arm and a bat's wing have the same bones. In what ways are you and a bat built alike?",
    "A frog waits, then jumps. Who decides the moment: the frog, her legs, or both together?"
   ],
   "art": "A girl crouched low and still beside a pond, and next to her a heron standing still in the water and a frog with folded legs on a lily leaf."
@@ -2486,5 +2458,6 @@
   "when": "1835 and 1837, then 1973 to 1978",
   "wrong_idea": "Darwin first thought the birds with different beaks were different kinds of birds, not all finches. He also thought beaks change far too slowly for anyone to see.",
   "art": "A woman scientist on a rocky island holding a small finch gently and measuring the bird's beak with a small tool."
- }
+ },
+ "playtest": "Walked through both games with 2 and with 4 players: Message Relay now has a clear end, a wake-up rule when every useful animal is resting, and a rule for a wrong choice, and the swim and climb cards agree. Followed every experiment, activity and the project step by step in a flat: made the snake and leaf results honest, added the colours, and removed a bird-watching step that repeated Take-off Watch. Cut repeated drawings and questions, fixed a wrong status on the bird take-off claim, a toothpaste line in the story, and a teeth-count mismatch, and kept 9 real jokes."
 }

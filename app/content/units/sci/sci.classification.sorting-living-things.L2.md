@@ -29,7 +29,7 @@
 ### Sorting animals by body covering · *defined*
 **Definition:** We look at what grows on the outside of each animal, and put animals with the same covering together.
 
-Most animals have one of a few coverings. Hair or fur grows on cows, cats, bats and humans. Feathers grow only on birds. Scales cover fish, snakes and lizards. Some animals have a hard shell or a hard outer case, like snails, tortoises and ants. Frogs and earthworms have soft, bare, wet skin. Fish scales and snake scales share a name, but fish scales are made of a bone-like material. Snake and lizard scales are made of keratin, the same material as your nails.
+Most animals have one of a few coverings. Hair or fur grows on cows, cats, bats and humans. Feathers grow only on birds. Scales cover fish, snakes and lizards. Some animals have a hard shell or a hard outer case, like snails, tortoises and ants. Frogs and earthworms have soft, bare, wet skin.
 - e.g. Hair or fur: cow, goat, bat, human.
 - e.g. Feathers: crow, hen, parrot.
 - e.g. Scales: fish, snake, gecko.
@@ -38,7 +38,7 @@ Most animals have one of a few coverings. Hair or fur grows on cows, cats, bats 
 ### Sorting animals by legs · *defined*
 **Definition:** We count each animal's legs, and put animals with the same number together.
 
-Snakes, fish and earthworms have no legs. Birds and humans walk on 2 legs. Cows, cats, frogs and lizards have 4 legs. Every insect, like an ant or a butterfly, has 6 legs. A spider has 8 legs. A crab has 10, counting the two big claws. A centipede has many, and always an odd number of pairs. So no centipede has exactly 100 legs.
+Snakes, fish and earthworms have no legs. Birds and humans walk on 2 legs. Cows, cats, frogs and lizards have 4 legs. Every insect, like an ant or a butterfly, has 6 legs. A spider has 8 legs. A crab has 10, counting the two big claws. A centipede has many legs, in pairs.
 - e.g. No legs: snake, earthworm, fish.
 - e.g. 2 legs: crow, hen, you.
 - e.g. 4 legs: cow, frog, gecko.
@@ -71,27 +71,26 @@ Many animals do not fit one food group neatly. Some are mostly one kind of eater
 - e.g. A frog tadpole eats tiny water plants, but a grown frog eats insects.
 - e.g. A female mosquito drinks blood for her eggs, and also drinks flower nectar.
 - e.g. A red panda in Sikkim belongs to the same big group as tigers, yet eats mostly bamboo.
-- e.g. Deer have been seen eating bird chicks.
 - **Many scientists:** Food groups are useful, but they describe what an animal mostly eats. Most animals eat a little outside their group.
 - **Some scientists who study dogs:** Dogs come from wolves, who are carnivores, so dogs are carnivores who also eat some plant food.
 - **Other scientists who study dogs:** Dogs have lived with people for thousands of years. Their bodies now digest rice and wheat better than wolves do, so dogs are omnivores.
 ### Animals choose their food · *debated*
 **Definition:** Animals sense food and choose what to eat.
 
-Ants sense food with their antennae, the two thin feelers on their heads. They decide which food to carry home. A colony collects both kinds of food, because the young ants need protein to grow, and the workers mostly drink sugary food. Every animal senses, chooses and remembers where good food is.
+Ants sense food with their antennae, the two thin feelers on their heads. They decide which food to carry home. A colony collects both kinds of food, because the young ants need protein to grow, and the workers mostly drink sugary food. Animals sense food and choose between foods, and many remember where good food is.
 - e.g. Ants found the banana and the dead insect, and carried bits home.
 - e.g. A crow remembers the window where rice is put out each morning.
 - **Scientists who study animal minds:** Ants sense, choose and remember. A colony decides together what to collect, from what each ant senses.
 - **Other scientists:** An ant follows simple built-in rules, and the colony's choices come from many ants following those rules.
 
 ## Mostly agreed
-- Only birds have feathers, and every bird has 2 legs. *How we know:* Every kind of bird scientists have found has feathers and 2 legs, even birds who cannot fly, like the ostrich.
+- Among animals alive today, only birds have feathers, and every bird has 2 legs. *How we know:* Every kind of bird scientists have found has feathers and 2 legs, even birds who cannot fly, like the ostrich.
 - Animals with hair or fur feed their babies milk. *How we know:* A cow, a goat, a bat, a dog and a human mother all feed their young milk. Scientists call this group mammals.
 - Every insect has 6 legs as an adult. *How we know:* Ants, cockroaches, butterflies, bees and houseflies all have 6 legs. Spiders have 8, so spiders are not insects.
 - Humans and many other animals are omnivores. *How we know:* Crows, hens, ants and humans can all eat both plant food and animal food. Jane Goodall found that chimpanzees do too.
 
 ## How we found out
-**Jane Goodall, an English scientist who studied chimpanzees, helped at first by her mother Vanne, 1960, at Gombe in what is now Tanzania.** Before 1960, most scientists thought chimpanzees ate only plants: fruit, leaves and seeds. Jane Goodall was 26, and she had no university degree. The scientist Louis Leakey sent her to watch wild chimpanzees at Gombe, by Lake Tanganyika, in what is now Tanzania. Her mother, Vanne, came with her for the first months. At first the chimpanzees ran away whenever they saw her. Jane went back every day and sat quietly. Slowly they let her come closer. Late in 1960 she saw an old male, whom she named David Greybeard, eating meat from a young wild pig. A few weeks later she saw him push a grass stem into a termite mound, pull it out covered in termites, and eat them. So chimpanzees eat animal food too. They eat both, like crows and like most people. Nobody had found this out from books. Jane found it by watching chimpanzees in their own home, day after day.  
+**Jane Goodall, an English scientist who studied chimpanzees, helped at first by her mother Vanne, 1960, at Gombe in what is now Tanzania.** Before 1960, most scientists thought chimpanzees ate only plants: fruit, leaves and seeds. Jane Goodall was 26, and she had no university degree. The scientist Louis Leakey sent her to watch wild chimpanzees at Gombe, by Lake Tanganyika, in what is now Tanzania. Her mother, Vanne, came with her for the first months. At first the chimpanzees ran away whenever they saw her. Jane went back every day and sat quietly. Slowly they let her come closer. Late in 1960 she saw an old male, whom she named David Greybeard, push a grass stem into a termite mound, pull it out covered in termites, and eat them. She also saw chimpanzees eat meat from a young wild pig. So chimpanzees eat animal food too. They eat both, like crows and like most people. Nobody had found this out from books. Jane found it by watching chimpanzees in their own home, day after day.  
 *What people believed before:* That chimpanzees eat only plants. By watching wild chimpanzees for months, Jane Goodall saw them eat meat and termites, so chimpanzees are omnivores.
 
 ## Challenging perspectives
@@ -100,13 +99,10 @@ Ants sense food with their antennae, the two thin feelers on their heads. They d
   Against: A whale breathes air, has a few hairs, and the mother feeds her baby milk. That puts whales with the mammals, like cows and us.
 - **A pangolin is a reptile, because a pangolin is covered in scales.** (A common guess by people who see a pangolin for the first time; *rejected*)  
   For: The Indian pangolin is covered in hard scales, like a lizard.  
-  Against: A pangolin has hair between the scales and on the belly, and the mother feeds her baby milk. A pangolin is a mammal. One feature alone can fool you.
+  Against: A pangolin has some hair on the belly, and the mother feeds her baby milk. A pangolin is a mammal. One feature alone can fool you.
 - **A plant-eater never eats animal food.** (A common idea; *rejected*)  
   For: Cows, goats and deer eat plants nearly all day.  
   Against: Deer have been seen eating bird chicks. Food groups say what an animal mostly eats.
-- **Dogs are carnivores.** (Some scientists, and many pet owners; *debated*)  
-  For: Dogs come from wolves, who hunt other animals. Dogs have sharp, pointed teeth.  
-  Against: Dogs' bodies digest starch from rice and wheat better than wolves' bodies do. Street dogs in India live on rice, chapati and scraps. So other scientists call dogs omnivores.
 
 ## Roots
 We have sorted animals by covering, by legs and by food. Now we ask what the ant test tells us about eating, and about where we fit.
@@ -119,7 +115,7 @@ We have sorted animals by covering, by legs and by food. Now we ask what the ant
 - *what is life:* Every animal lives by eating other living beings, or what they made, like fruit and nectar. The ants on the banana were doing what you do at lunch.
 - *what is this world:* The world is full of eaters, and each one chooses their food. A crow, an ant and a person can all find a meal in the same flat.
 
-The banana grew on a banana plant, from sunlight, water and air. The ants ate the banana, and the banana became part of the ants. A crow may eat an ant, and one day the crow's body will feed the soil. So the same food passes from one living being to the next. One stream of life, fed by the Sun, takes the shape of plants, ants, crows and people.
+The banana grew on a banana plant, from sunlight, water and air. The ants ate the banana, and the banana became part of the ants. A crow may eat an ant, and one day the crow's body will feed the soil. So the energy that came from the Sun passes from one living being to the next.
 
 - **Bhagavata Purana 1.13.47:** Beings without hands are food for beings with hands. Beings without legs are food for beings with four legs. One living being is the life of another. (This old verse sorts animals by hands, by legs and by who eats whom, as you did with the cards. The ants and the mosquito showed its last line on your own paper.)
 - **Taittiriya Upanishad 3.2:** The young seeker Bhrigu came to understand that food is Brahman, the one reality. From food all beings are born. By food they live. Into food they return. (Every food in the ant test came from a living being: a banana plant, a rice plant and a mosquito. The ants grew from what they ate.)
@@ -127,13 +123,13 @@ The banana grew on a banana plant, from sunlight, water and air. The ants ate th
 - Science (open): How the ants in a colony share what the colony needs is still being studied.
 - Other view, Jain teachers: Jain teachers say that living by other beings' lives is not something to simply accept. A person can choose to harm as few living beings as possible. Many Jains eat only plant food and milk, and many do not eat root vegetables, to spare the tiny beings in the soil.
 - Practice, Where did my lunch live? (3 min): Before you eat, look at your plate. Point to one food. Ask: where did this live before it came to me? A rice plant? A cow? Say it out loud. Now close your eyes. Breathe in slowly, and breathe out slowly. Then eat your first bite slowly.
-- Ask: The ants ate the banana. Is the banana now part of the ants?
+- Ask: What do you think a fruit bat eats at night, and how could you find out?
 - Ask: If you watched a crow for a whole year, would you see them eat something new? What might it be?
 - Ask: Why do you think some animals eat only one kind of food, and others eat almost anything?
 
 ## Deep and big questions
 - *deep:* You can count a crow's legs in one look. Why does it take days of watching to find out what a crow eats? (hint: A crow's legs are there all the time. Think about when a crow eats, and what is around.)
-- *deep:* A pangolin has scales like a lizard, and hair and milk like a cow. Which feature should decide the pangolin's group? (hint: Think about which features always come together in other animals.)
+- *deep:* A butterfly has wings and 6 legs. A fruit bat has wings and 2 legs. Are wings a good way to sort animals? (hint: Think about what else the butterfly and the fruit bat share: covering, legs and food.)
 - *big:* A human body can eat both plant food and animal food. Many people choose to eat only plants and milk. Which food group are they in? (hint: Is a food group about what a body can eat, or what someone chooses to eat?)
 - *big:* The ants ate the banana. Is the banana now part of the ants? (hint: Think about how your own body grows from what you eat.)
 
@@ -168,7 +164,7 @@ Nikhil had gone quiet. He was lying on his tummy by the window, looking at the l
 
 On the ledge, the banana bit from Tuesday had a crowd of tiny ants around it. A little way off, there was another crowd, around a dead fly. Some ants were walking away from the fly carrying a tiny piece of wing.
 
-"The ants eat both too," said Revathi. She found an ant in her picture pile and put the ant next to Kaka.
+"The ants eat both too," said Revathi. She found an ant in her picture pile and put the ant picture next to Kaka.
 
 Nikhil sat up. "Where do I go?"
 
@@ -192,11 +188,11 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 
 - Ask: Why did Revathi first put the crow on the plant side?
 - Ask: What did Revathi do to find out what Kaka really eats?
-- Ask: Why did Paati say she is in the same group as Aunty, even though they eat different food?
+- Ask: Paati eats plants and milk, and Aunty eats fish. Why did Paati say they are still the same kind of animal?
 
 ## Games
 ### g1 · Find My Group: a card game with three kinds of rule (15 min)
-- **rules:** Cut out the 16 animal cards and the 12 rule cards.; Mix the animal cards. Give each player 4 cards, name side up. Put the rest in a pile.; Mix the rule cards and put them face down in a pile.; Turn over the top rule card and read it out.; Every player puts down each of their cards that fits the rule, and says why: 'My gecko has scales.'; Anyone can check a card by reading the back. A card that does not fit goes back to that player.; If you put down no cards, take one card from the animal pile.; Turn over the next rule card. The first player with no cards left wins.
+- **rules:** Cut out the 16 animal cards and the 12 rule cards.; Mix the animal cards. Give each player 4 cards, name side up. If any cards are left over, put them in a pile.; Mix the rule cards and put them face down in a pile.; Turn over the top rule card and read it out.; Every player puts down each of their cards that fits the rule, and says why: 'My gecko has scales.'; Anyone can check a card by reading the back. A card that does not fit goes back to that player.; If you put down no cards and the animal pile still has cards, take the top card. If the pile is empty, just wait.; Turn over the next rule card. Everyone who has no cards left wins, and the game ends.; If all 12 rule cards have been turned over and nobody has finished, the player with the fewest cards left wins. Two players with the same number win together.
 - **Printable cards: 16 animal cards to cut out:** 🐦 Crow (back: Feathers. 2 legs. Eats both: rice, fruit, insects and scraps.); 🐔 Hen (back: Feathers. 2 legs. Eats both: grain, worms and insects.); 🦜 Parrot (back: Feathers. 2 legs. Plant-eater: fruit, seeds and buds.); 🐄 Cow (back: Hair. 4 legs. Plant-eater: grass and hay.); 🐐 Goat (back: Hair. 4 legs. Plant-eater: leaves and grass.); 🐅 Tiger (back: Fur. 4 legs. Meat-eater: deer and wild pigs.); 🦇 Fruit bat (back: Fur. 2 legs and 2 wings. Plant-eater: fruit and flower nectar.); 🧒 You (back: Hair on skin. 2 legs. A human body can eat both. Each person chooses.); 🦎 Gecko (back: Tiny scales. 4 legs. Meat-eater: moths, flies and other insects.); 🐍 Rat snake (back: Scales. No legs. Meat-eater: rats, frogs and birds' eggs.); 🐸 Frog (back: Bare, wet skin. 4 legs. Meat-eater: insects and worms.); 🐜 Ant (back: A hard outer case. 6 legs. Eats both: sweet plant juice and dead insects.); 🦋 Butterfly (back: A hard outer case, and tiny scales on the wings. 6 legs. Plant-eater: flower nectar.); 🕷️ Spider (back: A hard outer case. 8 legs. Meat-eater: insects.); 🐌 Snail (back: Soft, wet skin and a hard shell. No legs, one wide foot. Plant-eater: mostly leaves.); 🐢 Star tortoise (back: A hard shell and scaly skin. 4 legs. Plant-eater: grass, fruit and flowers.)
 - **Printable cards: 12 rule cards to cut out:** Hair or fur; Feathers; Scales; A hard shell or a hard outer case; Bare, wet skin; No legs; 2 legs; 4 legs; 6 or more legs; Plant-eater (herbivore); Meat-eater (carnivore); Eats both (omnivore)
 - **s1 (3 min)**  
@@ -207,19 +203,19 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
   *Parent does:* Turn over a covering rule first, such as 'Feathers'. Each player lays down the cards that fit.  
   *Parent says:* The rule is feathers. Which of your animals have feathers? How do you know?  
   *Child mode:* The rule is feathers. Put down every animal with feathers.
-  - Ask: Why can the fruit bat not go down? (good: A bat has fur, not feathers.; Only birds have feathers.)
+  - Ask: A fruit bat has fur and wings. Why does the fruit bat card not go down for the rule 'Feathers'? (good: A bat has fur, not feathers.; Only birds have feathers.)
 - **s3 (5 min)**  
   *Parent does:* Keep playing. Turn over leg rules and food rules. Read the back of any card a player is unsure about.  
   *Parent says:* The rule is 'eats both'. Look at the back if you are not sure. Who eats plant food and animal food?  
   *Child mode:* The rule is 'eats both'. Who eats plants and animals? Check the back.
   - Note: The 'eats both' group is the crow, the hen, the ant and you. Children often put the cow there, because a cow gives milk. Ask what the cow eats, not what the cow gives.
 - **s4 (2 min)**  
-  *Parent does:* At the end, pick up the hen card and ask the question below.  
-  *Parent says:* The hen went down for feathers, for 2 legs and for eats both. Did the hen change, or did the rule change?  
-  *Child mode:* The hen went down three times. Did the hen change, or the rule?
+  *Parent does:* At the end, find the hen card and put the hen card on the floor. Then ask the question below.  
+  *Parent says:* The hen fits feathers, 2 legs and eats both. Did the hen change, or did the rule change?  
+  *Child mode:* The hen fits three different rules. Did the hen change, or the rule?
   - Check: Which rule puts the hen in the same group as you? → **2 legs**
 ### g2 · Three Clues: guess the animal (10 min)
-- **rules:** One player picks an animal card from Find My Group and hides the card.; The other players take turns. Each picks a question card and asks it.; The hider answers only 'yes' or 'no'.; After each answer, the askers may guess. A right guess wins the round.; Count how many questions it took. Fewer questions is better.
+- **rules:** One player picks an animal card from the 16 animal cards of the game Find My Group, and hides the card.; The other players take turns. Each picks a question card and asks it.; The hider answers only 'yes' or 'no'.; After each answer, the asker may guess the animal. A wrong guess counts as a question. A right guess ends the round.; Count how many questions it took. Then swap, so someone else hides. Try to guess in fewer questions than the round before.; Put the question cards back after each round. If all 9 are used and nobody has guessed, the hider shows the card and a new round starts.
 - **Printable cards: 9 question cards to cut out:** Do you have hair or fur?; Do you have feathers?; Do you have scales?; Do you have a hard shell or case?; Do you have legs?; Do you have more than 4 legs?; Do you eat plants?; Do you eat other animals?; Do you eat both?
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the question cards. 2. The grown-up hides the first animal card, so the child sees how to play.  
@@ -227,9 +223,9 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
   *Child mode:* Your grown-up is hiding an animal. Ask the questions. Then guess.
 - **s2 (6 min)**  
   *Parent does:* Play 3 or 4 rounds, taking turns to hide.  
-  *Parent says:* Which question will cut the cards down the most? Feathers, or more than 4 legs?  
+  *Parent says:* Which question will cut the cards down the most? Feathers, or 'Do you eat other animals?'  
   *Child mode:* Which question helps most? Pick it and ask.
-  - Note: A good first question splits the cards into two big groups, like 'Do you have legs?' A question about one rare feature, like feathers, often gets a 'no' and tells less.
+  - Note: A good first question splits the cards into two big groups, like 'Do you eat other animals?' About half the cards say yes. A question about one rare feature, like feathers, often gets a 'no' and tells less.
 - **s3 (2 min)**  
   *Parent does:* Ask which question was most useful.  
   *Parent says:* Which question helped you most? Why?  
@@ -240,7 +236,7 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 ### e1 · Ant Lunch: do ants eat plant food, animal food, or both? (20 min)
 - **question:** Do the ants in our home eat plant food, animal food, or both?
 - **predict:** Guess first. Will the ants come to the banana, the rice, the dead insect, or more than one? Why do you think so?
-- **fair test:** We put the three foods out at the same time, each the same distance from the ants. The pieces are about the same size. We count the ants on each food at the same times. If one spot gets all the ants, we swap the foods round and try again, to check the spot was not the reason.
+- **fair test:** We put the three foods out at the same time, each the same distance from the ants. The pieces are all small. We count the ants on each food at the same times. If one spot gets all the ants, we swap the foods round on another day and try again, to check the spot was not the reason.
 - **safety:** Use the small ants of your kitchen, not big red ants, which can bite. Watch the ants, but don't touch them. Pick up the dead insect with a tissue, and wash your hands afterwards. Throw the food away at the end and wipe the spot.
 - **record:** Draw the paper with the three foods on it. Draw a dot for each ant you counted on each food after 10 minutes. Write P next to plant food and A next to animal food.
 - **results table:** Food | Plant food or animal food? | Ants after 5 minutes | Ants after 10 minutes
@@ -260,7 +256,7 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
   *Parent says:* How many ants are on the banana? On the rice? On the mosquito? What are they doing there?  
   *Child mode:* Count the ants on each food. Write the numbers. What are the ants doing?
   - Ask: What are the ants doing? (good: Drinking the banana juice.; Pulling a leg off the mosquito.; Carrying bits away in a line.)
-  - Note: Many kitchen ants come to both the banana and the dead insect, and fewer come to plain rice. Kinds of ants differ, so your numbers may be different. If no ants came after 10 minutes, leave the paper and count again in one hour. Whatever you find is a real result.
+  - Note: Many kitchen ants come to both the banana and the dead insect, and fewer come to plain rice. Kinds of ants differ, so your numbers may be different. If almost all the ants went to the food nearest their line, do the test again on another day with the foods swapped round. If no ants came after 10 minutes, leave the paper and count again in one hour. Whatever you find is a real result.
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say what they found, what they saw, and why. Then wipe up the food.  
   *Parent says:* Was your guess right? Which foods did the ants come to? So which food group are our ants in?  
@@ -291,7 +287,7 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
   *Parent says:* This hoop is the crow, and this hoop is the hen. The middle is for things that both of them have.  
   *Child mode:* This hoop is for the crow. That hoop is for the hen. The middle is for both.
 - **s2 (5 min)**  
-  *Parent does:* Your child says features of the crow and the hen. Write each on a slip. Your child puts each slip in the crow side, the hen side, or the middle.  
+  *Parent does:* Your child says features of the crow and the hen. Your child writes each on a slip, or you write it for them. Your child puts each slip in the crow side, the hen side, or the middle.  
   *Parent says:* Tell me one thing about the crow. Does the hen have that too? Then where does the slip go?  
   *Child mode:* Say one thing about the crow. Does the hen have that too? Put the slip in the right place.
   - Note: The middle can hold feathers, a beak, 2 legs, 2 wings, lays eggs and eats both. The crow side can hold flies far, and black and grey. The hen side can hold flies only a short way, and a red comb on the head.
@@ -299,20 +295,21 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
   *Parent does:* Clear the hoops. Now put the 'you' card and the cow card in the hoops, and compare again.  
   *Parent says:* Now compare yourself and a cow. What do you share? What is only yours?  
   *Child mode:* Now compare you and a cow. What do you both have?
-  - Ask: What is in the middle? (good: Hair.; We both drink milk as babies.; Eyes, ears and a tail? No, I have no tail!)
+  - Ask: What is in the middle? (good: Hair.; We both drink milk as babies.; Eyes and ears.)
   - Check: Which feature goes in the middle for you and a cow? → **Hair**
 ### a3 · Crow Menu: a week of watching (if a crow visits your window or balcony) (15 min, 5 days)
 - **schedule:** day 1: Make a table with a column for each day. Watch the crow for 3 minutes and write what they eat. (3 min); day 2: Watch for 3 minutes. Write what the crow eats. (3 min); day 3: Watch for 3 minutes. Write what the crow eats. (3 min); day 4: Watch for 3 minutes. Write what the crow eats. (3 min); day 5: Read the table. Mark each food P for plant or A for animal. Which food group is the crow in? (3 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Make a table with 5 columns, one for each day. 2. Watch the crow from the window for 3 minutes, and write what they eat.  
-  *Parent says:* Let's be scientists and watch quietly. What does the crow eat today?  
+  *Parent does:* 1. Make a table with 5 columns, one for each day. 2. Watch the crow from the window for 3 minutes, and write what they eat. Your child writes, or you write for them.  
+  *Parent says:* Let's watch quietly. What does the crow eat today?  
   *Child mode:* Watch the crow for 3 minutes. Write what they eat.
-  - Note: Watch from inside, so the crow is not scared away. If no crow comes, a pigeon or a myna works too.
+  - Note: Watch from inside, so the crow is not scared away. If no crow comes, a myna works too. Name the table after that bird.
   - Wait: Watch again tomorrow.
 - **s2 (9 min)**  
   *Parent does:* On days 2, 3 and 4, watch for 3 minutes each day and add to the table.  
   *Parent says:* What did the crow eat today? Was it something new?  
   *Child mode:* What did the crow eat today? Write it down.
+  - Note: If the crow eats nothing in 3 minutes, write 'nothing today'. That is a real result. If you see only the rice, that is a real result too, but also write down anything else you see the crow carry off at other times of day.
   - Wait: Read the table on day 5.
 - **s3 (3 min)**  
   *Parent does:* Read the whole table together. Mark each food P for plant or A for animal.  
@@ -323,7 +320,7 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 ## Projects
 ### p1 · Our Home Animal Grid (25 min, 2 days)
 - **record:** The grid itself, with at least 6 animals, including a person.
-- **schedule:** day 1: Draw a grid with 4 columns: animal, covering, legs, food. Fill in the people at home and any animal you can see from the window. (12 min); day 2: Add the animals you found today. Colour each food box: green for plants, red for animals, both colours for both. (13 min)
+- **schedule:** day 1: Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row for your child, then any animal you can see from the window. (12 min); day 2: Add the animals you found today. Colour each food box: green for plants, red for animals, both colours for both. (13 min)
 - **s1 (12 min)**  
   *Parent does:* 1. Draw a grid with 4 columns: animal, covering, legs, food. 2. Fill in the first row for your child. 3. Add any animal you can see from the window.  
   *Parent says:* The first row is you. What covers your body? How many legs? What do you eat?  
@@ -338,20 +335,20 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 
 ## Challenges
 ### c1 · Feed the Rescue Centre (20 min)
-- **problem:** Dr Meenakshi runs a small animal rescue centre in Mysuru. Today she is caring for a calf, a shikra (a small hawk), a star tortoise, a crow and a green parrot. She has only three food trays. How can she fill the trays so that every animal gets food they eat?
+- **problem:** Dr Meenakshi runs a small animal rescue centre in Mysuru. Today she is caring for a cow, a shikra (a small hawk), a star tortoise, a crow and a green parrot. She has only three food trays. How can she fill the trays so that every animal gets food they eat?
 - **your turn:** Draw your three trays and the food on each one. Draw lines from each animal to their tray. Then add a new animal, a gecko, and say which tray the gecko needs.
-- **constraints:** There are only three trays.; Every animal must get food they eat.; Foods to choose from: grass, fruit, seeds, cooked rice, small pieces of meat, and dead insects.
-- **general:** Make one tray for each food group: a plant tray, a meat tray, and a tray with both.; Put the calf, the tortoise and the parrot at the plant tray, the shikra at the meat tray, and the crow at the tray with both.
+- **constraints:** There are only three trays.; Every animal must get food they eat.; Foods to choose from: grass, fruit, seeds, cooked rice, small pieces of meat, and insects.
+- **general:** Make one tray for each food group: a plant tray, a meat tray, and a tray with both.; Put the cow, the tortoise and the parrot at the plant tray, the shikra at the meat tray, and the crow at the tray with both.
 - **creative:** The crow eats both, so the crow could share the plant tray and the meat tray. Then the third tray can hold water.; Draw the food on each tray as a picture label, so a helper who cannot read knows which tray is which.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child. Show the five animal pictures.  
-  *Parent says:* Dr Meenakshi has five animals and only three trays. What does each animal eat?  
+  *Parent says:* A small rescue centre has five animals and only three trays. What does each animal eat?  
   *Child mode:* Five animals, three trays. What does each animal eat?
 - **s2 (12 min)**  
   *Parent does:* Your child draws three trays, fills them, and draws a line from each animal to a tray.  
   *Parent says:* Which foods go on each tray? Which animal goes to which tray?  
   *Child mode:* Draw three trays. Fill them. Draw a line from each animal to a tray.
-  - Note: A shikra eats lizards, small birds and mice, so the shikra needs the meat. A star tortoise eats grass, flowers and fruit. Let your child decide, and ask for a reason each time.
+  - Note: A shikra eats lizards, small birds and mice, so the shikra needs the meat. A star tortoise eats grass, flowers and fruit. The gecko eats insects, so the gecko needs the meat tray. Let your child decide, and ask for a reason each time.
 - **s3 (5 min)**  
   *Parent does:* Your child explains the plan. Ask the check question.  
   *Parent says:* Tell me your plan. Why does each animal go to that tray?  
@@ -373,13 +370,13 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 6. (odd) Circle the one who is not a plant-eater.  
    Options: Cow / Parrot / Tiger / Goat  
    **Answer:** 2. *Why:* A tiger eats other animals, so a tiger is a meat-eater. The cow, the parrot and the goat eat plants.
-7. (write) Say it, and a grown-up writes it down: how did you find out what the ants eat?  
-   **Answer:** We put out banana, rice and a dead insect, and watched which foods the ants came to and carried away.. *Why:* A strong answer says the child watched what the ants chose. Looking at the ants' bodies would not have told them.
-8. (label) Write or say one way a crow and a hen are the same, and one way they are different.  
+7. (label) Write or say one way a crow and a hen are the same, and one way they are different.  
    **Answer:** ['Same: feathers, a beak, 2 legs, 2 wings, they lay eggs, or they eat both.', 'Different: a crow flies far and a hen flies only a short way, or a crow is black and grey.']. *Why:* Any true shared feature and any true difference is a good answer.
+8. (write) A friend says a bat is a bird, because a bat has wings. What would you tell your friend?  
+   **Answer:** A bat is not a bird. A bat has fur, not feathers, and the mother feeds her babies milk. Only birds have feathers.. *Why:* A strong answer uses the covering and the milk as evidence, not only a guess.
 9. (count) Two hens and one cat sit in a yard. Count all their legs.  
    **Answer:** 8. *Why:* Each hen has 2 legs, so 2 hens have 4. The cat has 4. 4 and 4 make 8.
-10. (perspective) Kavya and her sister Shalini are sorting animal cards.  
+10. (perspective) Kavya and her sister Anjali are sorting animal cards.  
    **Answer:** A strong answer picks one and gives a reason. Covering is quick and needs no watching, which helps a bird watcher. Food tells you how to look after an animal, which helps a zoo keeper or a vet.. *Why:* Both ways are good. Each one is better for a different job.
 ### Covering, Legs and Food (stretch) (stretch, 10 questions)
 1. (mcq) The Indian pangolin is covered in hard scales. A pangolin also has hair on the belly, and the mother feeds her baby milk. Which group is a pangolin in?  
@@ -438,10 +435,10 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 9. (mcq) Sorted by covering, the hen goes with the crow. Sorted by food, who else joins them?  
    Options: A cow / An ant / A tiger  
    **Answer:** An ant. *Why:* The hen, the crow and the ant all eat both plant food and animal food. A cow eats only plants and a tiger eats only meat.
-10. (mcq) Before 1960, people thought chimpanzees ate only plants. How did Jane Goodall find out they eat animal food too?  
+10. (mcq) Many scientists once thought chimpanzees ate only plants. How did Jane Goodall find out they eat animal food too?  
    Options: She read it in a book / She watched wild chimpanzees for months / She looked at their fur  
    **Answer:** She watched wild chimpanzees for months. *Why:* Jane Goodall watched wild chimpanzees in their forest home. She saw them eat meat and termites. Food is found by watching, not by looking at fur.
-11. (mcq) Kavya wants to know what the ants in her kitchen eat. What should she do?  
+11. (mcq) Kavya, a girl in Class 2, wants to know what the ants in her kitchen eat. What should she do?  
    Options: Count their legs / Put out different foods and watch / Look at their colour  
    **Answer:** Put out different foods and watch. *Why:* You find out what an animal eats by watching what they choose. Legs and colour tell you nothing about food.
 
@@ -449,17 +446,15 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - Zoo keepers and vets sort animals by food, so that each animal gets the right meals.
 - Bird watchers sort birds by feathers, beaks and size, so they can name the bird they see.
 - Farmers sort animals by food to plan their feed: hay for cows, grain for hens.
-- Scientists who find a new animal check the covering, legs and food first, to see which group the animal belongs to.
+- Scientists who find a new animal compare the animal's covering, legs and food with animals they already know, to decide which group the animal belongs to.
 
 ## Spotted around us
 - In many South Indian homes, a ball of rice is put out for crows in the morning. Crows come for it, and also eat insects and scraps.
 - At a fish market in Kolkata, you can see the shiny scales on rohu and hilsa, and the hard shells of crabs.
 - Goats on a lane in Ahmedabad nibble leaves from a hedge. They are plant-eaters.
 - A house gecko waits by the tube light on many Indian walls at night, catching moths.
-- Red pandas live in the forests of Sikkim and Arunachal Pradesh. They eat mostly bamboo.
 
 ## Open questions
-- **Should dogs be called meat-eaters or omnivores?** Dogs come from wolves, but their bodies have changed while living with people. Scientists still argue about which word fits best.
 - **How does an ant colony know how much sugar and how much protein to collect?** Scientists know that colonies with many young collect more protein. How the ants share this information is still being studied.
 - **How many kinds of insects are there?** About a million kinds of insects have been named. Many more have never been found, and guesses of the total are very different.
 
@@ -477,9 +472,9 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 - What did the snake say when asked to count her legs? *That was quick!*
 - Why do ants never go hungry at a picnic? *Because they eat both the banana and the fly that came for it!*
 - Why did the goat refuse the fish curry? *She's a plant-eater. Leaves are her favourite dish.*
-- What did the fish say to the snake? *We're both scaly, but I'll take the water and you take the wall.*
-- Why did the pangolin get confused at the sorting game? *Scales on top, hair below, and milk for the baby!*
 - Knock knock. Who's there? Omni. Omni who? *Omni-vore, and I'll eat whatever you've got!*
+- What do you call a hen who counts her chicks? *A mathema-chicken!*
+- Why does the gecko stay near the tube light? *Because the tube light is the only restaurant open all night!*
 
 ## Connected maths
 - Three ants walk onto the banana in the ant test. Each ant has 6 legs. How many legs is that altogether? **18 legs.**. 3 groups of 6 legs: 6, 12, 18. So 3 ants have 18 legs. (queues `math.multiplication.equal-groups.L2`)
@@ -505,7 +500,7 @@ Fur, Feathers, Scales (sci.classification.L2): Topic-level song for Sorting livi
 - How many legs does an insect have? → 6 legs.
 - What do we call an animal who eats only plants? → A herbivore, or plant-eater.
 - Name an animal who eats both plant food and animal food. → A crow, a hen, an ant, or a human.
-- A pangolin has scales. Is a pangolin a reptile? → No. A pangolin has hair and feeds the baby milk, so a pangolin is a mammal.
+- Which animals have hair or fur and feed their babies milk? → Cows, goats, bats, tigers and humans.
 - How do you find out what an animal eats? → Watch what they eat.
 
 ## Plan
@@ -518,7 +513,7 @@ Fur, Feathers, Scales (sci.classification.L2): Topic-level song for Sorting livi
 - curriculum/sci.json: board chapter Cambridge Stage 2 4.1 'Comparing animals' (cambridge/sci-L2-04.json: comparing animals, mammals have hair or fur, birds have feathers, counting legs).
 - Only birds have feathers among living animals; all birds are bipedal.
 - Mammals have hair and feed young milk; whales are mammals with sparse hairs.
-- Indian pangolin (Manis crassicaudata): keratin scales, with hairs between the scales and on the belly; mammal.
+- Indian pangolin (Manis crassicaudata): keratin scales, with sparse hair on the belly; mammal.
 - Fish scales (teleost) are made of collagen and calcium phosphate, a bone-like material; snake and lizard scales are made of keratin.
 - Adult insects have 6 legs; spiders 8; true crabs 10 including the claws. Centipedes always have an odd number of leg pairs, so never exactly 100 legs.
 - House crows and many household ants are omnivores; chickens are omnivores.

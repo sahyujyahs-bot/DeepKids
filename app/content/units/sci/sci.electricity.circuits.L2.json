@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?",
-  "text": "Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why every cell, bulb and plug has two metal ends.",
+  "text": "Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why a cell, a bulb and a plug each need two metal parts.",
   "art": "A cell, a small bulb in a holder and two red and black wires lying apart on a wooden table, with a child's hand reaching for them."
  },
  "outcomes": [
@@ -95,7 +95,7 @@
    "concept": "The shape of the wires does not matter",
    "status": "defined",
    "definition": "A bulb lights when there is an unbroken metal path from one end of the cell, through the bulb, to the other end. Bending, coiling or knotting a covered wire does not break that path.",
-   "description": "In the Shape Test, the bulb lit with straight wires. It also lit with a wire coiled round a pencil, with the wires crossed, and with a knot in one wire. The brightness looked the same each time. Inside the plastic, the metal was still one unbroken piece. What matters is which parts are joined, metal touching metal. A loose bulb, or a wire on the wrong end, makes the bulb dark, however neat the wires look.",
+   "description": "In the Shape Test, the bulb lit with straight wires. It also lit with a coiled wire, crossed wires and a knotted wire. The brightness looked the same each time. Inside the plastic, the metal was still one unbroken piece. A loose bulb, or a wire on the wrong end, makes the bulb dark, however neat the wires look.",
    "examples": [
     "The wires inside a wall go round corners, and the light still works.",
     "A phone charger's wire can be coiled up, and the phone still charges.",
@@ -789,7 +789,7 @@
   },
   {
    "id": "a3",
-   "title": "Count the Twos: why everything has two metal ends",
+   "title": "Count the Twos: why cells, bulbs and plugs need two",
    "mins": 12,
    "days": 1,
    "context": "In this activity you hunt round your home for things that use electricity. You count their metal ends: on cells, bulbs and plugs. You look for a pattern.",
@@ -1292,11 +1292,11 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Which of these will make the bulb shine?",
+     "p": "Hari has a cell, a bulb and one wire, and the bulb stays dark. What must he add?",
      "opts": [
-      "One wire from the cell to the bulb",
-      "A wire from each end of the cell to the bulb",
-      "A cell next to the bulb, with no wires"
+      "A second wire, back to the other end of the cell",
+      "A longer wire",
+      "A second bulb"
      ],
      "a": 1,
      "why": "Electricity flows out of one end of the cell, through the bulb, and back into the other end. A strong answer says the path must go all the way round.",
@@ -1454,14 +1454,14 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali turns the cell round in her circuit. What happens?",
+     "p": "Which of these needs its cell the right way round?",
      "opts": [
-      "The bulb lights the same",
-      "The bulb goes dark",
-      "The bulb gets twice as bright"
+      "A TV remote",
+      "A plain torch bulb in a circuit",
+      "A foil wire"
      ],
      "a": 0,
-     "why": "Both ends of the cell are still joined to the bulb. A plain bulb lights whichever way round the cell is.",
+     "why": "A remote has tiny parts inside that need the electricity to flow one way. A plain bulb lights whichever way round the cell is.",
      "how": "e2"
     },
     {
@@ -1689,10 +1689,10 @@
      "opts": [
       "An electric signal",
       "A wire",
-      "A cell"
+      "An AA cell"
      ],
      "a": 0,
-     "why": "Each touch sends a tiny electric signal through her leaf. She has no wires or cells, but she uses electricity, as our nerves do."
+     "why": "Each touch sends a tiny electric signal through her leaf. She has no wires or AA cells, but she uses electricity, as our nerves do."
     }
    ]
   }
@@ -1876,7 +1876,7 @@
    "art": "A tall pandal at night covered in patterns of small yellow and blue lights."
   },
   {
-   "text": "A fruit seller's cart at a night market in Hyderabad often has a small light run from a battery.",
+   "text": "Many fruit sellers' handcarts at night markets, as in Hyderabad, have a small light run from a battery.",
    "art": "A handcart piled with bananas and guavas, lit by a small bulb on a wire from a battery box."
   },
   {
@@ -2023,7 +2023,7 @@
    "id": "b-kit",
    "item": "A school electric circuit kit: an AA cell holder, torch bulbs (1.5 V or 2.5 V) with holders, and crocodile-clip wires",
    "kind": "tool",
-   "why": "Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Folded kitchen foil can stand in for wires.",
+   "why": "Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. A torch at home that is not an LED torch has a bulb you can take out, and the cells in a TV remote are AA cells. Folded kitchen foil can stand in for wires.",
    "url": "https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder",
    "used_in": [
     "e1",
@@ -2072,7 +2072,7 @@
    "what_is_life": "Thinking is not only for brains. A Venus flytrap counts touches with electric signals in her leaf, and decides when to shut. Some scientists call this a reflex.",
    "what_is_this_world": "Everything is conscious, down to the tiny electrons in a wire. Most physicists today disagree. They say an electron only follows fixed laws."
   },
-  "thread": "A straight wire and a knotted wire look like two different things. To the circuit, they are the same path, because the metal is unbroken. A map of the Chennai metro works the same way. It does not show the real bends of the streets, only which stations join, and that is enough to travel. Mathematicians study this kind of sameness and call it topology. Underneath many different-looking things, what matters is how they are joined.",
+  "thread": "A straight wire and a knotted wire look different. To the circuit they are the same path, because the metal is unbroken. A Chennai metro map works the same way. It does not show the real bends of the streets, only which stations join, and that is enough to travel. What matters is how things are joined.",
   "teachings": [
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
