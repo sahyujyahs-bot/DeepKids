@@ -57,7 +57,7 @@ function ioptsView() {
 // the top of Today: the time-of-day picture with the greeting, the day's progress and the read-aloud button on it
 function todayHero(sub) {
   const st = streak();
-  return `<section class="thero t${dayPart()}"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
+  return `<section class="thero ${dayPart() < 2 ? "" : "night"}"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
 }
 function calHead(d) {
   return calHead0(d) + cancelNote(d);
@@ -308,7 +308,7 @@ const dayPart = () => {
 };
 const greetWord = () => ["Good morning", "Good afternoon", "Good evening"][dayPart()];
 // Today's picture follows the time of day, all drawn by the founder: climbing the tree in the morning sun, the fruit tree with friends, dancing under the night star
-const greetPic = () => `media/ui/greet-${["morning", "afternoon", "evening"][dayPart()]}.jpg`;
+const greetPic = () => `media/ui/greet-${dayPart() < 2 ? "day" : "night"}.jpg`;
 function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
