@@ -1,11 +1,79 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.body.teeth.L2/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.body.teeth.L2/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.body.teeth.L2/expl.3.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.body.teeth.L2/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.body.teeth.L2/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.body.teeth.L2/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.body.teeth.L2/flow.a4.jpg",
+  "drawn": true
+ },
  "flow.a5": {
   "src": "media/img/sci.body.teeth.L2/flow.a5.jpg",
   "credit": "Tejas M, CC BY, via iNaturalist"
  },
+ "flow.e1": {
+  "src": "media/img/sci.body.teeth.L2/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.body.teeth.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.body.teeth.L2/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.body.teeth.L2/intro.jpg",
   "credit": "DRosenbach at English Wikipedia, Public domain, via Wikimedia Commons"
+ },
+ "setup.e1.0": {
+  "src": "media/img/sci.body.teeth.L2/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.body.teeth.L2/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.body.teeth.L2/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e1.3": {
+  "src": "media/img/sci.body.teeth.L2/setup.e1.3.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.body.teeth.L2/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.body.teeth.L2/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.body.teeth.L2/setup.e2.2.jpg",
+  "drawn": true
  },
  "summary": {
   "src": "media/img/sci.body.teeth.L2/summary.jpg",

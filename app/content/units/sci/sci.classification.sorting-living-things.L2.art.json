@@ -1,4 +1,12 @@
 {
+ "flow.a1": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/flow.a2.jpg",
+  "drawn": true
+ },
  "flow.a3": {
   "src": "media/img/sci.classification.sorting-living-things.L2/flow.a3.jpg",
   "credit": "avocat, CC BY, via iNaturalist"
@@ -7,9 +15,61 @@
   "src": "media/img/sci.classification.sorting-living-things.L2/flow.e1.jpg",
   "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
  },
+ "flow.p1": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.classification.sorting-living-things.L2/intro.jpg",
   "credit": "Aditya Rao, CC BY, via iNaturalist"
+ },
+ "setup.a1.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.a1.0.jpg",
+  "drawn": true
+ },
+ "setup.a1.1": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.a1.1.jpg",
+  "drawn": true
+ },
+ "setup.a1.2": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.a1.2.jpg",
+  "drawn": true
+ },
+ "setup.a2.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.a2.0.jpg",
+  "drawn": true
+ },
+ "setup.a2.1": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.a2.1.jpg",
+  "drawn": true
+ },
+ "setup.a3.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.a3.0.jpg",
+  "drawn": true
+ },
+ "setup.a3.1": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.a3.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.classification.sorting-living-things.L2/setup.p1.1.jpg",
+  "drawn": true
  },
  "summary": {
   "src": "media/img/sci.classification.sorting-living-things.L2/summary.jpg",
