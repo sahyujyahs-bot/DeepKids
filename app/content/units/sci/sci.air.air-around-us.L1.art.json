@@ -3,9 +3,53 @@
   "src": "media/img/sci.air.air-around-us.L1/expl.0.jpg",
   "credit": "NASA, public domain"
  },
+ "expl.1": {
+  "src": "media/img/sci.air.air-around-us.L1/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.air.air-around-us.L1/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.air.air-around-us.L1/expl.3.jpg",
+  "drawn": true
+ },
  "expl.4": {
   "src": "media/img/sci.air.air-around-us.L1/expl.4.jpg",
   "credit": "Tejas M, CC BY, via iNaturalist"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.air.air-around-us.L1/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.air.air-around-us.L1/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.air.air-around-us.L1/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.air.air-around-us.L1/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.air.air-around-us.L1/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.air.air-around-us.L1/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.air.air-around-us.L1/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.air.air-around-us.L1/intro.jpg",
+  "drawn": true
  },
  "setup.e1.0": {
   "src": "media/img/sci.air.air-around-us.L1/setup.e1.0.jpg",
@@ -31,8 +75,24 @@
   "src": "media/img/sci.air.air-around-us.L1/setup.e2.1.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.air.air-around-us.L1/summary.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.air.air-around-us.L1/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.air.air-around-us.L1/term.1.jpg",
+  "drawn": true
+ },
  "term.2": {
   "src": "media/img/sci.air.air-around-us.L1/term.2.jpg",
   "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.air.air-around-us.L1/term.3.jpg",
+  "drawn": true
  }
 }
