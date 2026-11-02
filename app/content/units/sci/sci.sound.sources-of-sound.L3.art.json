@@ -3,9 +3,57 @@
   "src": "media/img/sci.sound.sources-of-sound.L3/expl.9.jpg",
   "credit": "Morten Ross, CC BY, via iNaturalist"
  },
+ "flow.a1": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.a5.jpg",
+  "drawn": true
+ },
  "flow.a6": {
   "src": "media/img/sci.sound.sources-of-sound.L3/flow.a6.jpg",
   "credit": "Viral joshi, CC BY, via iNaturalist"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/intro.jpg",
+  "drawn": true
  },
  "setup.e1.0": {
   "src": "media/img/sci.sound.sources-of-sound.L3/setup.e1.0.jpg",
@@ -43,8 +91,64 @@
   "src": "media/img/sci.sound.sources-of-sound.L3/setup.e3.2.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/summary.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.10.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.11.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.13.jpg",
+  "drawn": true
+ },
+ "term.14": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.14.jpg",
+  "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.15.jpg",
+  "drawn": true
+ },
+ "term.16": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.16.jpg",
+  "drawn": true
+ },
  "term.19": {
   "src": "media/img/sci.sound.sources-of-sound.L3/term.19.jpg",
   "credit": "Josep Fracés Balaguer, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.5.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.7.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.sound.sources-of-sound.L3/term.9.jpg",
+  "drawn": true
  }
 }

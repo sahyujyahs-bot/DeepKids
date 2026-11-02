@@ -1,11 +1,55 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.states.crystals.L3/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.states.crystals.L3/expl.1.jpg",
   "credit": "Misiek1962, CC BY 4.0, via Wikimedia Commons"
  },
+ "expl.2": {
+  "src": "media/img/sci.states.crystals.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.states.crystals.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.states.crystals.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.states.crystals.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.states.crystals.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.states.crystals.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.states.crystals.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.states.crystals.L3/flow.a4.jpg",
+  "drawn": true
+ },
  "flow.c1": {
   "src": "media/img/sci.states.crystals.L3/flow.c1.jpg",
   "credit": "Mineral photos, CC BY 4.0, via Wikimedia Commons"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.states.crystals.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.states.crystals.L3/flow.e1.jpg",
+  "drawn": true
  },
  "flow.e2": {
   "src": "media/img/sci.states.crystals.L3/flow.e2.jpg",
@@ -50,5 +94,37 @@
  "summary": {
   "src": "media/img/sci.states.crystals.L3/summary.jpg",
   "credit": "Давид Андронов, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.0": {
+  "src": "media/img/sci.states.crystals.L3/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.states.crystals.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.states.crystals.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.states.crystals.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.states.crystals.L3/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.states.crystals.L3/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.states.crystals.L3/term.6.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.states.crystals.L3/term.7.jpg",
+  "drawn": true
  }
 }

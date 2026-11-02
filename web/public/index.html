@@ -54,6 +54,11 @@
   --r-xl: 14px;
   --lift: none;
   --night: #1e1436;
+  /* Progress constellation tiles: deep and light subjects alternate */
+  --sky-math: #2b3a7a;
+  --sky-eng: #f3c04a;
+  --sky-hin: #e8735a;
+  --sky-sci: #1f7a5c;
   /* the calm look (approved redesign, Nov 2026): soft white cards on paper, round pills, one red action */
   --r-card: 20px;
   --r-btn: 14px;
@@ -1660,7 +1665,9 @@ dialog.sheet::backdrop {
   gap: 12px;
 }
 .skyt {
+  --t: var(--c);
   display: grid;
+  grid-template-columns: 1fr auto;
   gap: 2px;
   justify-items: start;
   text-align: left;
@@ -1673,16 +1680,45 @@ dialog.sheet::backdrop {
   background:
     radial-gradient(circle at 20% 30%, #fff8 0.6px, transparent 1.2px) 0 0 / 23px 29px,
     radial-gradient(circle at 70% 60%, #fff6 0.6px, transparent 1.2px) 0 0 / 31px 37px,
-    radial-gradient(120% 100% at 70% 0%, var(--c), color-mix(in srgb, var(--c) 35%, #120a2a));
+    radial-gradient(120% 100% at 70% 0%, var(--t), color-mix(in srgb, var(--t) 35%, #120a2a));
+}
+.skyt[data-s="math"] {
+  --t: var(--sky-math);
+}
+.skyt[data-s="sci"] {
+  --t: var(--sky-sci);
+}
+.skyt[data-s="eng"] {
+  --t: var(--sky-eng);
+}
+.skyt[data-s="hin"] {
+  --t: var(--sky-hin);
+}
+/* the light tiles: ink stars on a sunlit sky */
+.skyt[data-s="eng"],
+.skyt[data-s="hin"] {
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 20% 30%, #1f244033 0.7px, transparent 1.3px) 0 0 / 23px 29px,
+    radial-gradient(circle at 70% 60%, #1f244026 0.7px, transparent 1.3px) 0 0 / 31px 37px,
+    radial-gradient(120% 100% at 70% 0%, color-mix(in srgb, var(--t) 70%, #fff), var(--t));
+}
+.skyt:is([data-s="eng"], [data-s="hin"]) :is(.on, .off, .half) {
+  fill: var(--ink);
+}
+.skyt:is([data-s="eng"], [data-s="hin"]) .glow {
+  fill: #fff;
+  opacity: 0.7;
+}
+.skyt:is([data-s="eng"], [data-s="hin"]) .ln line {
+  stroke: var(--ink);
+  stroke-opacity: 0.5;
 }
 .skyt:nth-child(odd) {
   transform: rotate(-1.2deg);
 }
 .skyt:nth-child(even) {
   transform: rotate(1.2deg);
-}
-.skyt {
-  grid-template-columns: 1fr auto;
 }
 .skyt b {
   font: 600 18px var(--display);
@@ -1709,12 +1745,12 @@ dialog.sheet::backdrop {
   opacity: 0.85;
 }
 .skyt .ln line {
-  stroke: color-mix(in srgb, var(--c) 30%, #fff);
+  stroke: color-mix(in srgb, var(--t) 30%, #fff);
   stroke-opacity: 0.6;
   stroke-width: 1;
 }
 .skyt .glow {
-  fill: color-mix(in srgb, var(--c) 30%, #fff);
+  fill: color-mix(in srgb, var(--t) 30%, #fff);
   opacity: 0.3;
 }
 .skyt .on {
