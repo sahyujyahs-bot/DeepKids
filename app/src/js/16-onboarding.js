@@ -314,13 +314,13 @@ function fxObQuiz() {
 const FXINTRO = [
   [
     "intro-eye",
-    "Learning that goes deep",
-    "Every topic followed all the way: from your child's hands to atoms, stars and the big questions nobody has answered yet.",
+    "Everything you need, in one place",
+    "Lessons, worksheets, experiments, videos, stories and printables for every topic, ready to use. No more hours spent gathering material.",
   ],
   [
     "intro-mirror",
     "A plan that fits your family",
-    "Classes, rest days, outings and curiosity. DeepKids plans each day around them and re-plans itself as your child learns.",
+    "Classes, rest days, outings and curiosity. DeepKids plans each day around them, and re-plans as your child learns.",
   ],
   [
     "intro-arch",
@@ -329,8 +329,8 @@ const FXINTRO = [
   ],
   [
     "intro-play",
-    "Together, or on their own",
-    "Step-by-step for you to teach, or read aloud for your child to follow alone. Games, stories, experiments and songs in every lesson.",
+    "Learning that goes deep",
+    "Every topic followed all the way, from your child's hands to atoms, stars and the big questions nobody has answered yet.",
   ],
 ];
 /* Today: the week strip is gone (the calendar below already moves day by day) */
