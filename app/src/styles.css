@@ -6068,6 +6068,7 @@ header.top .iconbtn {
   flex: 0 0 100%;
   scroll-snap-align: center;
   display: grid;
+  align-content: start;
   gap: 8px;
   padding: 0 4px;
 }
@@ -6085,6 +6086,19 @@ header.top .iconbtn {
 .fxslide2 p {
   margin: 0;
   color: var(--muted);
+}
+.fxpts {
+  display: grid;
+  gap: 6px;
+  margin: 2px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 14px;
+}
+.fxpts li {
+  padding: 8px 12px;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--sun) 18%, #fff);
 }
 .fxdots {
   display: flex;
