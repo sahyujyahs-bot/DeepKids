@@ -631,6 +631,11 @@ const MONTHS = {
 const DAYW = { sun: 0, mon: 1, tue: 2, tues: 2, wed: 3, thu: 4, thur: 4, thurs: 4, fri: 5, sat: 6 };
 const CLASSW =
   /\b(tuition|class|classes|coaching|lesson|lessons|swim\w*|dance|dancing|tabla|music|piano|guitar|keyboard|violin|singing|karate|taekwondo|judo|chess|art|drawing|painting|abacus|robotics|coding|cricket|football|tennis|badminton|skating|yoga|gym|sports?|practice|training|kathak|bharatanatyam|carnatic|hindustani|veena|mridangam|sloka|shloka|vedic|phonics|tutor|camp)\b/i;
+// what a parent's own calendar entry or shelf item is about, so Today can show the fitting drawing
+const SPORTW =
+  /\b(swim\w*|karate|taekwondo|judo|cricket|football|soccer|tennis|badminton|skating|yoga|gym|gymnastics|sports?|athletics|running|kabaddi|kho-?kho|basketball|volleyball|hockey|dance|dancing|zumba|cycling|training|practice)\b/i;
+const TUITIONW = /\b(tuitions?|coaching|tutor(?:ing)?|class(?:es)?|lessons?)\b/i;
+const GAMEW = /\b(games?|ludo|chess|carrom|puzzles?|cards|monopoly|scrabble|uno|jenga|snakes)\b/i;
 const OUTW =
   /\b(trip|visit|visiting|outing|zoo|museum|park|picnic|party|birthday|wedding|function|holiday|vacation|festival|temple|travel|travelling|going to|movie|show|exhibition|fair|mela|library|farm|beach|grandma|grandpa|nani|dadi|nana|dada|cousin)\b/i;
 const APPTW =
@@ -852,7 +857,7 @@ function localParse(text) {
             who: "you",
             category: /\b(book|books|comic|comics|story|novel|encyclopedia|atlas)\b/i.test(n)
               ? "book"
-              : /\b(game|ludo|chess|carrom|puzzle|cards|monopoly|scrabble|uno|jenga|snakes)\b/i.test(n)
+              : GAMEW.test(n)
                 ? "game"
                 : /\b(tablet|laptop|computer|ipad|phone|kindle|tv|speaker)\b/i.test(n)
                   ? "electronics"

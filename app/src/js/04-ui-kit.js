@@ -197,16 +197,12 @@ function streak() {
   }
   return n;
 }
-function dayRing() {
+// when the last of the day's DeepKids items is ticked, cheer once for the day
+function dayCheer() {
   const it = dayPlan(today).filter((i) => isTask(i) && OURS(i)),
-    n = it.length,
-    dn = it.filter((i) => i.done).length;
-  if (!n) return "";
-  const C = 2 * Math.PI * 16,
-    p = dn / n,
-    prev = ui.ringP ?? p;
-  ui.ringP = p;
-  setTimeout(animRings, 40);
+    p = it.length ? it.filter((i) => i.done).length / it.length : 0,
+    prev = ui.dayShare ?? p;
+  ui.dayShare = p;
   if (p === 1 && prev < 1 && Date.now() - lastTap < 5000 && !(S.cel || {})[today]) {
     S.cel = { [today]: 1 };
     setTimeout(() => {
@@ -216,12 +212,6 @@ function dayRing() {
     }, 500);
     setTimeout(save, 0);
   }
-  return `<span class="dring ${p === 1 ? "full" : ""}" title="${dn} of ${n} DeepKids items done today"><svg viewBox="0 0 40 40" width="40" height="40"><circle cx="20" cy="20" r="16" class="rbg"/><circle cx="20" cy="20" r="16" class="rfg" stroke-dasharray="${C}" stroke-dashoffset="${C * (1 - prev)}" data-to="${C * (1 - p)}"/></svg><b>${p === 1 ? "✓" : dn + "/" + n}</b></span>`;
-}
-function animRings() {
-  document.querySelectorAll(".dring .rfg[data-to]").forEach((c) => {
-    c.style.strokeDashoffset = c.dataset.to;
-  });
 }
 const CHEER = ["Nice!", "Shabash!", "Well done!", "Lovely!", "One more done!", "Super!"];
 function burst(x, y, txt) {

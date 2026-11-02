@@ -1411,8 +1411,9 @@ function fxDaySteps(u, n) {
 }
 // On the board track, a family opens the DeepKids units linked to their own boards' chapters; the rest show, locked.
 // The DeepKids track opens every unit (TRACKS.md "Who can see what").
+const onDkTrack = () => ["combined", "none"].includes(S.board);
 function dkUnitOpen(id) {
-  if (["combined", "none"].includes(S.board)) return true;
+  if (onDkTrack()) return true;
   const B = boardsOn();
   return unitChapters(id).some((i) => B.includes(i.board));
 }
@@ -1494,9 +1495,16 @@ const fxUnitBtns = (L) =>
 // what a locked unit says when tapped
 const dkLocked = () =>
   toast(
-    "This unit is on the DeepKids track. Your board track opens the DeepKids units for your board's chapters. To open them all, choose the DeepKids track in App settings.",
+    "This unit is on the DeepKids track. Your Board track opens only the DeepKids units linked to your book's chapters. To open them all, go to App settings, then Syllabus and how you learn, then Change syllabus or subjects, and pick the DeepKids track.",
     7000,
   );
+// opens a unit at its first experiment
+async function fxOpenExperiment(uid) {
+  await fxOpen(uid);
+  const ids = (FXU?.experiments || []).map((e) => e.id),
+    i = (FXALL?.sections || []).findIndex((x) => ids.includes(x.id));
+  if (i >= 0) fxGo(i, 0);
+}
 const fxDaysSince = (d) => Math.round((parse(today) - parse(d)) / 864e5);
 function fxPS(id, p) {
   const F = fxSt(),

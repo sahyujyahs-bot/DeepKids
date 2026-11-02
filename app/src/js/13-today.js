@@ -54,10 +54,12 @@ function ioptsView() {
   }
   return h + `</div>`;
 }
-// the top of Today: the time-of-day picture with the greeting, the day's progress and the read-aloud button on it
-function todayHero(sub) {
-  const st = streak();
-  return `<section class="thero ${dayPart() < 2 ? "" : "night"}"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
+// the top of Today: the time-of-day picture with the greeting and the day's line (who, which day, how much is done)
+function todayHero(parts) {
+  dayCheer();
+  const st = streak(),
+    bits = [...parts, ...(st > 1 ? [`<span class="streak">${st} days in a row</span>`] : [])];
+  return `<section class="thero ${dayPart() < 2 ? "" : "night"}"><img src="${greetPic()}" alt=""><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${bits.map((b) => `<span>${b}</span>`).join("")}</p></div></section>`;
 }
 function calHead(d) {
   return calHead0(d) + cancelNote(d);
@@ -237,16 +239,21 @@ const DAYPIC = {
   finish: "finish",
   exps: "science",
   paper: "science",
-  refresh: "play",
+  refresh: "refresh",
   shelf: "other",
   mynote: "other",
   other: "other",
 };
 const DAYICON = { todo: "prep", plan: "week", event: "event" };
+// a calendar entry or shelf item shows the drawing for what it is: a sport, a tuition or class, or a game
+const evPic = (title) =>
+  SPORTW.test(title) ? "sport" : TUITIONW.test(title) ? "tuition" : GAMEW.test(title) ? "games" : "";
 function dayPic(it) {
   const img = (src, cls = "") => `<span class="ic pic ${cls}"><img src="${esc(src)}" alt="" loading="lazy"></span>`;
   if (it.kind === "lesson") return img(lessonPic(it.u));
   if (it.kind === "paper" && it.p?.cover?.src) return img(it.p.cover.src);
+  const own = it.kind === "event" || it.kind === "shelf" ? evPic(it.title) : "";
+  if (own) return img(`media/ui/day-${own}.webp`, "draw");
   if (DAYPIC[it.kind]) return img(`media/ui/day-${DAYPIC[it.kind]}.webp`, "draw");
   return `<span class="ic">${icon(DAYICON[it.kind] || "spark")}</span>`;
 }
@@ -546,11 +553,28 @@ const wk1Lessons = () => [
     .map((i) => i.u),
   ...offers().map((o) => o.nx.u),
 ];
-// for now the guide's lesson and printable come from a finished, checked science unit (one in today's plan, else the
-// first one); when every subject is written this goes back to today's first lesson (OPEN_ITEMS)
+// the guide's lesson, experiment and printable come from the family's own track: on the DeepKids track a DeepKids unit
+// (today's, else the first one), on a board track their board's lessons, and a DeepKids unit only when one is in today's plan
 const wk1Unit = () =>
   wk1Lessons().find((u) => u.board === "unit") ||
-  unitBy("unit|" + Object.values(DATA.units || {}).sort((a, b) => a.order - b.order)[0]?.id);
+  (onDkTrack() ? unitBy("unit|" + Object.values(DATA.units || {}).sort((a, b) => a.order - b.order)[0]?.id) : null);
+// Day 2: an experiment opens at once. DeepKids track: the first experiment of a DeepKids unit. Board track: the
+// experiment step of today's science lesson from their own book
+function wk1Experiment() {
+  const sci = dayPlan(today).filter((i) => i.kind === "lesson" && i.u.subj === "sci"),
+    it = sci.find((i) => !i.done) || sci[0],
+    u =
+      it?.u.board === "unit"
+        ? it.u
+        : onDkTrack()
+          ? wk1Lessons().find((x) => x.board === "unit" && x.subj === "sci") || wk1Unit()
+          : null;
+  if (u) return fxOpenExperiment(u.c.unit);
+  if (it) return playItem(it, true);
+  tab = "library";
+  ui.lt = "topics";
+  render();
+}
 // Day 1 starts a lesson from the card: a finished science unit, or today's first lesson, or the next one
 function wk1Lesson(d0) {
   const U = wk1Unit();
@@ -599,9 +623,11 @@ function viewToday() {
     lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
     left = real.filter((i) => !i.done),
     doneL = real.filter((i) => i.done);
-  let h = todayHero(
-    `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? `${dn} of ${real.length} done` : "nothing planned"}`,
-  );
+  let h = todayHero([
+    ...(S.child ? [esc(S.child) + "'s day"] : []),
+    longDate(),
+    real.length ? `${dn} of ${real.length} done` : "nothing planned",
+  ]);
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);

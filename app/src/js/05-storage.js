@@ -93,9 +93,11 @@ async function openAccount(acct, name) {
           .catch(() => null);
         if (old && old.exists) legacy = old.data();
       }
-      // a Google account's first open brings in the families saved under the older phone-number screen, so signing
-      // in again never starts a family afresh; the fullest family (old or new) is the base and the others merge into it
-      const older = !known.adopted && acct.startsWith("g") ? await olderFamilies(acct) : [];
+      // a Google account that has no family yet brings in the families saved under the older phone-number screen, so
+      // signing in again never starts a family afresh; the fullest family (old or new) is the base and the others merge
+      // into it. An account that already has its own family never takes another log-in's family, whatever the session says
+      const hasOwn = [local, remote, legacy].some((x) => x?.setup),
+        older = !known.adopted && !hasOwn && acct.startsWith("g") ? await olderFamilies(acct) : [];
       let cands = [local, remote, legacy]
         .filter((x) => x && x.setup !== undefined)
         .sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));

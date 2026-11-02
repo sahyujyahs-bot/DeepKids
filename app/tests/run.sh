@@ -19,5 +19,7 @@ node "$ROOT/app/tests/chat.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/mybooks.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/research.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/life.js" http://127.0.0.1:8777/app.html
+node "$ROOT/app/tests/wk1.js" http://127.0.0.1:8777/app.html
+node "$ROOT/app/tests/accounts.js" http://127.0.0.1:8777/app.html
 [ "$1" = snapshot ] && node "$ROOT/app/tests/snapshot.js" http://127.0.0.1:8777/app.html "${2:-$ROOT/app/tests/snapshots}"
 exit 0

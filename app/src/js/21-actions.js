@@ -1,8 +1,11 @@
 /* What every tap does (onAct) and the event dialog */
-function playItem(it) {
-  // a DeepKids-track unit opens as the unit itself, where the family left off
-  if (it.u.board === "unit") return fxOpen(it.u.c.unit);
+function playItem(it, toExperiment) {
+  // a DeepKids-track unit opens as the unit itself, where the family left off (or at its first experiment)
+  if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit);
   setTimeout(autoRead, 100);
+  const st = stepState(it),
+    exp = st.findIndex((x) => x.sec === "lab" && x.kind === "exp"),
+    lab = exp >= 0 ? exp : st.findIndex((x) => x.sec === "lab");
   openSheet({
     mode: "player",
     s: it.s,
@@ -10,12 +13,14 @@ function playItem(it) {
     n: it.n,
     tot: it.tot,
     bonus: it.bonus,
-    i: Math.max(
-      0,
-      stepState(it).findIndex((x) => !x.ok),
-    ),
+    i:
+      toExperiment && lab >= 0
+        ? lab
+        : Math.max(
+            0,
+            st.findIndex((x) => !x.ok),
+          ),
   });
-  if (ui.sheet.i < 0) ui.sheet.i = 0;
 }
 function onAct(e) {
   if (ob) {
@@ -1512,17 +1517,9 @@ function onAct(e) {
       );
       break;
     }
-    case "wk1exp": {
-      const u = wk1Lessons().find((x) => x.subj === "sci");
-      if (u?.board === "unit") fxOpen(u.c.unit);
-      else if (u) openSheet({ mode: "chapter", k: u.k });
-      else {
-        tab = "library";
-        ui.lt = "topics";
-        render();
-      }
+    case "wk1exp":
+      wk1Experiment();
       break;
-    }
     case "qgame":
       openSheet({ mode: "qgame", u: b.dataset.u, g: b.dataset.g });
       break;

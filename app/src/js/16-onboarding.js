@@ -61,7 +61,7 @@ function startOnboarding(step) {
       JSON.stringify({
         child: S.child,
         age: S.age,
-        board: S.board,
+        board: S.setup ? S.board : "combined", // a new family starts on the DeepKids track; a family changing its set-up keeps its own
         plus: S.plus,
         subjects: S.subjects,
         levels: S.levels,

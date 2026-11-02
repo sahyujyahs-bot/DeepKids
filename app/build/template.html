@@ -3566,35 +3566,6 @@ table.rtab th {
   width: 13px;
   height: 13px;
 }
-.dring {
-  position: relative;
-  flex: none;
-  width: 40px;
-  height: 40px;
-  display: grid;
-  place-items: center;
-}
-.dring svg {
-  position: absolute;
-  inset: 0;
-  transform: rotate(-90deg);
-}
-.dring .rbg {
-  fill: none;
-  stroke: rgba(43, 35, 64, 0.1);
-  stroke-width: 4;
-}
-.dring .rfg {
-  fill: none;
-  stroke: var(--forest);
-  stroke-width: 4;
-  stroke-linecap: round;
-  transition: stroke-dashoffset 0.9s cubic-bezier(0.3, 1.4, 0.5, 1);
-}
-.dring b {
-  font: 700 11px var(--display);
-  position: relative;
-}
 .streak {
   color: var(--tang);
   font-weight: 700;
@@ -3790,9 +3761,6 @@ a.btn {
   .tr.done .ck {
     animation: none !important;
   }
-  .dring .rfg {
-    transition: none;
-  }
 }
 .dump {
   display: grid;
@@ -3939,12 +3907,16 @@ a.btn {
 /* the ten kinds of thing to add: a compact grid of five, an emoji over a short name */
 .addkinds {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(76px, 1fr));
+  grid-auto-rows: 1fr;
   gap: 6px;
 }
 .addk {
   display: grid;
   justify-items: center;
+  align-content: center;
+  min-width: 0;
+  overflow-wrap: anywhere;
   gap: 2px;
   padding: 8px 2px;
   border: 1.5px solid var(--line);
@@ -4011,13 +3983,6 @@ a.btn {
   to {
     transform: none;
   }
-}
-.dring.full .rfg {
-  stroke: var(--sun);
-}
-.dring.full b {
-  color: var(--forest);
-  font-size: 15px;
 }
 .burst {
   max-width: 80vw;
@@ -6891,10 +6856,16 @@ body {
 /* each picture has open sky at the top: the greeting sits on it */
 .therotxt {
   position: absolute;
-  top: 18px;
-  left: 18px;
-  right: 110px;
-  padding: 0;
+  top: 14px;
+  left: 14px;
+  max-width: calc(100% - 28px);
+  padding: 10px 14px 12px;
+  border-radius: 18px;
+  background: rgb(255 252 245 / 80%);
+  backdrop-filter: blur(3px);
+}
+.thero.night .therotxt {
+  background: rgb(30 20 60 / 55%);
 }
 .thero.night :is(h1, p) {
   color: #fff;
@@ -6905,39 +6876,22 @@ body {
   color: var(--ink);
 }
 .thero p {
-  font: 500 14px/1.4 var(--body);
-  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  font: 600 14px/1.5 var(--body);
+  color: var(--ink);
   margin-top: 4px;
+}
+.thero p > span {
+  white-space: nowrap;
+}
+.thero p > span + span::before {
+  content: "·";
+  margin: 0 7px;
+  opacity: 0.6;
 }
 .thero .streak {
   color: var(--tang);
-}
-.therobtns {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  display: flex;
-  gap: 8px;
-}
-.therobtns .readbtn,
-.therobtns .dring {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.92);
-  color: var(--ink);
-}
-.therobtns .readbtn {
-  display: grid;
-  place-items: center;
-  padding: 0;
-  margin: 0;
-  border: 0;
-  box-shadow: none;
-}
-.therobtns .readbtn .ico {
-  width: 20px;
-  height: 20px;
 }
 .sec.cal {
   background: 0 0;
@@ -7925,16 +7879,12 @@ function streak() {
   }
   return n;
 }
-function dayRing() {
+// when the last of the day's DeepKids items is ticked, cheer once for the day
+function dayCheer() {
   const it = dayPlan(today).filter((i) => isTask(i) && OURS(i)),
-    n = it.length,
-    dn = it.filter((i) => i.done).length;
-  if (!n) return "";
-  const C = 2 * Math.PI * 16,
-    p = dn / n,
-    prev = ui.ringP ?? p;
-  ui.ringP = p;
-  setTimeout(animRings, 40);
+    p = it.length ? it.filter((i) => i.done).length / it.length : 0,
+    prev = ui.dayShare ?? p;
+  ui.dayShare = p;
   if (p === 1 && prev < 1 && Date.now() - lastTap < 5000 && !(S.cel || {})[today]) {
     S.cel = { [today]: 1 };
     setTimeout(() => {
@@ -7944,12 +7894,6 @@ function dayRing() {
     }, 500);
     setTimeout(save, 0);
   }
-  return `<span class="dring ${p === 1 ? "full" : ""}" title="${dn} of ${n} DeepKids items done today"><svg viewBox="0 0 40 40" width="40" height="40"><circle cx="20" cy="20" r="16" class="rbg"/><circle cx="20" cy="20" r="16" class="rfg" stroke-dasharray="${C}" stroke-dashoffset="${C * (1 - prev)}" data-to="${C * (1 - p)}"/></svg><b>${p === 1 ? "✓" : dn + "/" + n}</b></span>`;
-}
-function animRings() {
-  document.querySelectorAll(".dring .rfg[data-to]").forEach((c) => {
-    c.style.strokeDashoffset = c.dataset.to;
-  });
 }
 const CHEER = ["Nice!", "Shabash!", "Well done!", "Lovely!", "One more done!", "Super!"];
 function burst(x, y, txt) {
@@ -8189,9 +8133,11 @@ async function openAccount(acct, name) {
           .catch(() => null);
         if (old && old.exists) legacy = old.data();
       }
-      // a Google account's first open brings in the families saved under the older phone-number screen, so signing
-      // in again never starts a family afresh; the fullest family (old or new) is the base and the others merge into it
-      const older = !known.adopted && acct.startsWith("g") ? await olderFamilies(acct) : [];
+      // a Google account that has no family yet brings in the families saved under the older phone-number screen, so
+      // signing in again never starts a family afresh; the fullest family (old or new) is the base and the others merge
+      // into it. An account that already has its own family never takes another log-in's family, whatever the session says
+      const hasOwn = [local, remote, legacy].some((x) => x?.setup),
+        older = !known.adopted && !hasOwn && acct.startsWith("g") ? await olderFamilies(acct) : [];
       let cands = [local, remote, legacy]
         .filter((x) => x && x.setup !== undefined)
         .sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));
@@ -9586,6 +9532,11 @@ const MONTHS = {
 const DAYW = { sun: 0, mon: 1, tue: 2, tues: 2, wed: 3, thu: 4, thur: 4, thurs: 4, fri: 5, sat: 6 };
 const CLASSW =
   /\b(tuition|class|classes|coaching|lesson|lessons|swim\w*|dance|dancing|tabla|music|piano|guitar|keyboard|violin|singing|karate|taekwondo|judo|chess|art|drawing|painting|abacus|robotics|coding|cricket|football|tennis|badminton|skating|yoga|gym|sports?|practice|training|kathak|bharatanatyam|carnatic|hindustani|veena|mridangam|sloka|shloka|vedic|phonics|tutor|camp)\b/i;
+// what a parent's own calendar entry or shelf item is about, so Today can show the fitting drawing
+const SPORTW =
+  /\b(swim\w*|karate|taekwondo|judo|cricket|football|soccer|tennis|badminton|skating|yoga|gym|gymnastics|sports?|athletics|running|kabaddi|kho-?kho|basketball|volleyball|hockey|dance|dancing|zumba|cycling|training|practice)\b/i;
+const TUITIONW = /\b(tuitions?|coaching|tutor(?:ing)?|class(?:es)?|lessons?)\b/i;
+const GAMEW = /\b(games?|ludo|chess|carrom|puzzles?|cards|monopoly|scrabble|uno|jenga|snakes)\b/i;
 const OUTW =
   /\b(trip|visit|visiting|outing|zoo|museum|park|picnic|party|birthday|wedding|function|holiday|vacation|festival|temple|travel|travelling|going to|movie|show|exhibition|fair|mela|library|farm|beach|grandma|grandpa|nani|dadi|nana|dada|cousin)\b/i;
 const APPTW =
@@ -9807,7 +9758,7 @@ function localParse(text) {
             who: "you",
             category: /\b(book|books|comic|comics|story|novel|encyclopedia|atlas)\b/i.test(n)
               ? "book"
-              : /\b(game|ludo|chess|carrom|puzzle|cards|monopoly|scrabble|uno|jenga|snakes)\b/i.test(n)
+              : GAMEW.test(n)
                 ? "game"
                 : /\b(tablet|laptop|computer|ipad|phone|kindle|tv|speaker)\b/i.test(n)
                   ? "electronics"
@@ -15230,8 +15181,9 @@ function fxDaySteps(u, n) {
 }
 // On the board track, a family opens the DeepKids units linked to their own boards' chapters; the rest show, locked.
 // The DeepKids track opens every unit (TRACKS.md "Who can see what").
+const onDkTrack = () => ["combined", "none"].includes(S.board);
 function dkUnitOpen(id) {
-  if (["combined", "none"].includes(S.board)) return true;
+  if (onDkTrack()) return true;
   const B = boardsOn();
   return unitChapters(id).some((i) => B.includes(i.board));
 }
@@ -15313,9 +15265,16 @@ const fxUnitBtns = (L) =>
 // what a locked unit says when tapped
 const dkLocked = () =>
   toast(
-    "This unit is on the DeepKids track. Your board track opens the DeepKids units for your board's chapters. To open them all, choose the DeepKids track in App settings.",
+    "This unit is on the DeepKids track. Your Board track opens only the DeepKids units linked to your book's chapters. To open them all, go to App settings, then Syllabus and how you learn, then Change syllabus or subjects, and pick the DeepKids track.",
     7000,
   );
+// opens a unit at its first experiment
+async function fxOpenExperiment(uid) {
+  await fxOpen(uid);
+  const ids = (FXU?.experiments || []).map((e) => e.id),
+    i = (FXALL?.sections || []).findIndex((x) => ids.includes(x.id));
+  if (i >= 0) fxGo(i, 0);
+}
 const fxDaysSince = (d) => Math.round((parse(today) - parse(d)) / 864e5);
 function fxPS(id, p) {
   const F = fxSt(),
@@ -16352,7 +16311,7 @@ function topicsTab() {
       `<section class="card r-out tint"><b style="font:600 17px var(--display)">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm" data-act="tgen" style="justify-self:start" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm" style="color:var(--bad)">${esc(ui.terr)}</p>` : ""}</section></section>`;
     return h;
   }
-  const track = ui.btrack || (["combined", "none"].includes(S.board) ? "dk" : "board"),
+  const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
     head = `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div><div class="pickl">Track</div><div class="seg trackseg">${[
       ["dk", "DeepKids track"],
       ["board", "Board track"],
@@ -17168,10 +17127,12 @@ function ioptsView() {
   }
   return h + `</div>`;
 }
-// the top of Today: the time-of-day picture with the greeting, the day's progress and the read-aloud button on it
-function todayHero(sub) {
-  const st = streak();
-  return `<section class="thero ${dayPart() < 2 ? "" : "night"}"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
+// the top of Today: the time-of-day picture with the greeting and the day's line (who, which day, how much is done)
+function todayHero(parts) {
+  dayCheer();
+  const st = streak(),
+    bits = [...parts, ...(st > 1 ? [`<span class="streak">${st} days in a row</span>`] : [])];
+  return `<section class="thero ${dayPart() < 2 ? "" : "night"}"><img src="${greetPic()}" alt=""><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${bits.map((b) => `<span>${b}</span>`).join("")}</p></div></section>`;
 }
 function calHead(d) {
   return calHead0(d) + cancelNote(d);
@@ -17351,16 +17312,21 @@ const DAYPIC = {
   finish: "finish",
   exps: "science",
   paper: "science",
-  refresh: "play",
+  refresh: "refresh",
   shelf: "other",
   mynote: "other",
   other: "other",
 };
 const DAYICON = { todo: "prep", plan: "week", event: "event" };
+// a calendar entry or shelf item shows the drawing for what it is: a sport, a tuition or class, or a game
+const evPic = (title) =>
+  SPORTW.test(title) ? "sport" : TUITIONW.test(title) ? "tuition" : GAMEW.test(title) ? "games" : "";
 function dayPic(it) {
   const img = (src, cls = "") => `<span class="ic pic ${cls}"><img src="${esc(src)}" alt="" loading="lazy"></span>`;
   if (it.kind === "lesson") return img(lessonPic(it.u));
   if (it.kind === "paper" && it.p?.cover?.src) return img(it.p.cover.src);
+  const own = it.kind === "event" || it.kind === "shelf" ? evPic(it.title) : "";
+  if (own) return img(`media/ui/day-${own}.webp`, "draw");
   if (DAYPIC[it.kind]) return img(`media/ui/day-${DAYPIC[it.kind]}.webp`, "draw");
   return `<span class="ic">${icon(DAYICON[it.kind] || "spark")}</span>`;
 }
@@ -17660,11 +17626,28 @@ const wk1Lessons = () => [
     .map((i) => i.u),
   ...offers().map((o) => o.nx.u),
 ];
-// for now the guide's lesson and printable come from a finished, checked science unit (one in today's plan, else the
-// first one); when every subject is written this goes back to today's first lesson (OPEN_ITEMS)
+// the guide's lesson, experiment and printable come from the family's own track: on the DeepKids track a DeepKids unit
+// (today's, else the first one), on a board track their board's lessons, and a DeepKids unit only when one is in today's plan
 const wk1Unit = () =>
   wk1Lessons().find((u) => u.board === "unit") ||
-  unitBy("unit|" + Object.values(DATA.units || {}).sort((a, b) => a.order - b.order)[0]?.id);
+  (onDkTrack() ? unitBy("unit|" + Object.values(DATA.units || {}).sort((a, b) => a.order - b.order)[0]?.id) : null);
+// Day 2: an experiment opens at once. DeepKids track: the first experiment of a DeepKids unit. Board track: the
+// experiment step of today's science lesson from their own book
+function wk1Experiment() {
+  const sci = dayPlan(today).filter((i) => i.kind === "lesson" && i.u.subj === "sci"),
+    it = sci.find((i) => !i.done) || sci[0],
+    u =
+      it?.u.board === "unit"
+        ? it.u
+        : onDkTrack()
+          ? wk1Lessons().find((x) => x.board === "unit" && x.subj === "sci") || wk1Unit()
+          : null;
+  if (u) return fxOpenExperiment(u.c.unit);
+  if (it) return playItem(it, true);
+  tab = "library";
+  ui.lt = "topics";
+  render();
+}
 // Day 1 starts a lesson from the card: a finished science unit, or today's first lesson, or the next one
 function wk1Lesson(d0) {
   const U = wk1Unit();
@@ -17713,9 +17696,11 @@ function viewToday() {
     lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
     left = real.filter((i) => !i.done),
     doneL = real.filter((i) => i.done);
-  let h = todayHero(
-    `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? `${dn} of ${real.length} done` : "nothing planned"}`,
-  );
+  let h = todayHero([
+    ...(S.child ? [esc(S.child) + "'s day"] : []),
+    longDate(),
+    real.length ? `${dn} of ${real.length} done` : "nothing planned",
+  ]);
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
@@ -21621,7 +21606,7 @@ function startOnboarding(step) {
       JSON.stringify({
         child: S.child,
         age: S.age,
-        board: S.board,
+        board: S.setup ? S.board : "combined", // a new family starts on the DeepKids track; a family changing its set-up keeps its own
         plus: S.plus,
         subjects: S.subjects,
         levels: S.levels,
@@ -23626,10 +23611,13 @@ const fxHome = () => {
 };
 
 /* What every tap does (onAct) and the event dialog */
-function playItem(it) {
-  // a DeepKids-track unit opens as the unit itself, where the family left off
-  if (it.u.board === "unit") return fxOpen(it.u.c.unit);
+function playItem(it, toExperiment) {
+  // a DeepKids-track unit opens as the unit itself, where the family left off (or at its first experiment)
+  if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit);
   setTimeout(autoRead, 100);
+  const st = stepState(it),
+    exp = st.findIndex((x) => x.sec === "lab" && x.kind === "exp"),
+    lab = exp >= 0 ? exp : st.findIndex((x) => x.sec === "lab");
   openSheet({
     mode: "player",
     s: it.s,
@@ -23637,12 +23625,14 @@ function playItem(it) {
     n: it.n,
     tot: it.tot,
     bonus: it.bonus,
-    i: Math.max(
-      0,
-      stepState(it).findIndex((x) => !x.ok),
-    ),
+    i:
+      toExperiment && lab >= 0
+        ? lab
+        : Math.max(
+            0,
+            st.findIndex((x) => !x.ok),
+          ),
   });
-  if (ui.sheet.i < 0) ui.sheet.i = 0;
 }
 function onAct(e) {
   if (ob) {
@@ -25139,17 +25129,9 @@ function onAct(e) {
       );
       break;
     }
-    case "wk1exp": {
-      const u = wk1Lessons().find((x) => x.subj === "sci");
-      if (u?.board === "unit") fxOpen(u.c.unit);
-      else if (u) openSheet({ mode: "chapter", k: u.k });
-      else {
-        tab = "library";
-        ui.lt = "topics";
-        render();
-      }
+    case "wk1exp":
+      wk1Experiment();
       break;
-    }
     case "qgame":
       openSheet({ mode: "qgame", u: b.dataset.u, g: b.dataset.g });
       break;

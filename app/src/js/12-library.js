@@ -598,7 +598,7 @@ function topicsTab() {
       `<section class="card r-out tint"><b style="font:600 17px var(--display)">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm" data-act="tgen" style="justify-self:start" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm" style="color:var(--bad)">${esc(ui.terr)}</p>` : ""}</section></section>`;
     return h;
   }
-  const track = ui.btrack || (["combined", "none"].includes(S.board) ? "dk" : "board"),
+  const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
     head = `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div><div class="pickl">Track</div><div class="seg trackseg">${[
       ["dk", "DeepKids track"],
       ["board", "Board track"],
