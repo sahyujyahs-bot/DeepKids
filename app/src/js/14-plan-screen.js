@@ -527,7 +527,7 @@ function viewTasks() {
   return h + (k === "going" ? goingView() : k === "new" ? newView() : queuesView());
 }
 const taskRow = (x, extra = "") =>
-  `<div class="trow"><span class="tic" aria-hidden="true">${WT[x.ty][1]}</span><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:11px">Ongoing</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
+  `<div class="trow"><img class="tpic" src="${esc(lessonPic(x.u))}" alt="" loading="lazy"><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:11px">Ongoing</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
 function grouped(list, empty, rowFn) {
   const by = Object.keys(WT)
     .map((t) => [t, list.filter((x) => x.ty === t)])

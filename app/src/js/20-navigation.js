@@ -57,6 +57,7 @@ const SEGS = {
     ["life", "Skills and life", "Classes, sports, music, art, and everything learned outside lessons"],
     ["work", "Photos and files", "Photos, videos and files of what your child made, and what's still to do"],
     ["school", "School", "Report, entrance test and a folder to send to a school"],
+    ["history", "History", "Every lesson part, project and experiment finished, newest first"],
   ],
 };
 const seg = (k) => {

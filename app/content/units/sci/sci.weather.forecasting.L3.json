@@ -497,7 +497,11 @@
       },
       {
        "f": "Peacocks calling loudly in July.",
-       "b": "Rain in a day or two (not certain: peacocks call every monsoon, so this tells the season more than tomorrow)"
+       "b": "Rain in a day or two (not certain: peacocks call every monsoon, so this tells the season more than tomorrow)",
+       "img": {
+        "src": "media/cards/forecasting-g1-0-14.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "The forecast says 10% chance of rain.",

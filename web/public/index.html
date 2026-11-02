@@ -7446,6 +7446,53 @@ body {
     width: 220px;
   }
 }
+
+/* History (Progress → History): a day heading, then a soft card per finished part with the lesson's picture */
+.hday {
+  margin: 16px 0 6px;
+  font: 700 13px var(--body);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.hlist {
+  display: grid;
+  gap: 8px;
+}
+.hrow {
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  text-align: left;
+  border: 0;
+  border-radius: var(--r-card);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+.tpic {
+  width: 48px;
+  height: 48px;
+  flex: none;
+  border-radius: 12px;
+  object-fit: cover;
+}
+.hrow img {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  object-fit: cover;
+}
+.hrow > span {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+.hrow b {
+  font: 600 16px/1.25 var(--display);
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -7477,9 +7524,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="220ab214f7629259ba";window.DK_APPV="220ab214f7";window.DK_DATAV="629214328b"</script>
-<script src="/config.js?v=220ab214f7629259ba"></script>
+<script>window.DK_BUILD="94647a673f629259ba";window.DK_APPV="94647a673f";window.DK_DATAV="629214328b"</script>
+<script src="/config.js?v=94647a673f629259ba"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=220ab214f7629259ba"></script>
+<script src="/platform.js?v=94647a673f629259ba"></script>
 </body>
 </html>

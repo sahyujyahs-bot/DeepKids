@@ -10717,7 +10717,7 @@ function viewTasks() {
   return h + (k === "going" ? goingView() : k === "new" ? newView() : queuesView());
 }
 const taskRow = (x, extra = "") =>
-  `<div class="trow"><span class="tic" aria-hidden="true">${WT[x.ty][1]}</span><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:11px">Ongoing</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
+  `<div class="trow"><img class="tpic" src="${esc(lessonPic(x.u))}" alt="" loading="lazy"><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:11px">Ongoing</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
 function grouped(list, empty, rowFn) {
   const by = Object.keys(WT)
     .map((t) => [t, list.filter((x) => x.ty === t)])
@@ -12086,33 +12086,39 @@ function doneItems() {
     });
   return out.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
 }
+// everything finished, newest first, grouped by day: each row shows the lesson's picture, the lesson, and the part done
 function doneHistory() {
   const ty = WT[ui.hty] ? ui.hty : "all",
     sj = S.subjects.includes(ui.hs) ? ui.hs : "all",
     A = doneItems(),
     L = A.filter((x) => (ty === "all" || x.ty === ty) && (sj === "all" || x.u?.subj === sj)),
-    n = ui.hn || 25;
-  const cnt = (t) => A.filter((x) => x.ty === t && (sj === "all" || x.u?.subj === sj)).length;
-  return `<section class="sec"><div class="sech"><h3>History</h3><span class="xs muted">Every finished part, newest first</span></div>
-   <div class="seg qtypes"><button aria-pressed="${ty === "all"}" data-act="hty" data-t="all">All</button>${Object.entries(
-     WT,
-   )
-     .map(
-       ([k, [nm, ic]]) =>
-         `<button aria-pressed="${ty === k}" data-act="hty" data-t="${k}">${ic} ${nm} <small>${cnt(k)}</small></button>`,
-     )
-     .join("")}</div>
-   <div class="seg">${["all", ...S.subjects].map((x) => `<button aria-pressed="${sj === x}" data-act="hs" data-s="${x}">${x === "all" ? "All subjects" : SUBJ[x]}</button>`).join("")}</div>
+    n = ui.hn || 25,
+    cnt = (t) => A.filter((x) => x.ty === t && (sj === "all" || x.u?.subj === sj)).length,
+    types = Object.entries(WT).filter(([k]) => cnt(k) || ty === k),
+    row = (x) => {
+      const what = x.sub2 || (x.u ? chT(x.u) : ""),
+        part = x.title.replace(" done:", " ·");
+      return `<button class="hrow" ${x.open || ""}><img src="${esc(x.u ? lessonPic(x.u) : subjPic("dks"))}" alt="" loading="lazy"><span><b>${esc(what || part)}</b>${what ? `<span class="sm">${esc(part)}</span>` : ""}<span class="xs muted">${WT[x.ty][1]} ${WT[x.ty][0].replace(/ies$/, "y").replace(/zzes$/, "z").replace(/s$/, "")}${x.u ? " · " + esc(SUBJ[x.u.subj]) : ""}${x.sub ? " · " + esc(x.sub) : ""}</span></span></button>`;
+    },
+    shown = L.slice(0, n),
+    days = [...new Set(shown.map((x) => x.date || ""))];
+  return `<section class="sec"><div class="sech"><h3>History</h3><span class="xs muted">${A.length} finished</span></div>
+   ${pickRow("s", "Show", `<button class="chip" aria-pressed="${ty === "all"}" data-act="hty" data-t="all">All</button>${types.map(([k, [nm, ic]]) => `<button class="chip" aria-pressed="${ty === k}" data-act="hty" data-t="${k}">${ic} ${nm} ${cnt(k)}</button>`).join("")}`)}
+   ${S.subjects.length > 1 ? pickRow("c", "Subject", ["all", ...S.subjects].map((x) => `<button class="chip" aria-pressed="${sj === x}" data-act="hs" data-s="${x}">${x === "all" ? "All" : SUBJ[x]}</button>`).join("")) : ""}
    ${
      L.length
-       ? `<div class="col" style="gap:8px">${L.slice(0, n)
+       ? days
            .map(
-             (x) =>
-               `<div class="trow"><span class="tic" aria-hidden="true">${WT[x.ty][1]}</span><div style="min-width:0;flex:1"><b>${esc(x.title)}</b><br><span class="xs muted">${x.u && x.ty !== "les" ? esc(chT(x.u)) + " · " : ""}${x.u ? esc(SUBJ[x.u.subj]) : ""}${x.sub ? " · " + esc(x.sub) : ""}${x.date ? " · " + esc(fmt(x.date)) : ""}</span></div>${x.open ? `<button class="btn xs soft" ${x.open}>Open</button>` : ""}</div>`,
+             (d) =>
+               `<div class="hday">${d ? esc(fmt(d)) : "Earlier"}</div><div class="hlist">${shown
+                 .filter((x) => (x.date || "") === d)
+                 .map(row)
+                 .join("")}</div>`,
            )
-           .join(
-             "",
-           )}</div>${L.length > n ? `<button class="btn soft sm" data-act="hmore" style="justify-self:start">Show ${Math.min(25, L.length - n)} more</button>` : ""}`
+           .join("") +
+         (L.length > n
+           ? `<button class="btn soft sm" data-act="hmore" style="justify-self:start">Show ${Math.min(25, L.length - n)} more</button>`
+           : "")
        : `<p class="note">Nothing finished here yet. Things you finish show up here, newest first. What's in progress is under Plan → Ongoing.</p>`
    }</section>`;
 }
@@ -12185,6 +12191,7 @@ function viewJourneyTabs() {
   else if (k === "life") h += lifeTab();
   else if (k === "work")
     h += `<section class="sec">${uploadsView()}</section><section class="sec"><button class="menurow" data-act="tofinish">${blob("var(--tang)", 11, "calm", "", 'width="40" height="40"')}<span><b>Still to do</b><br><span class="xs muted">What your child started and hasn't finished, and what's not tried yet</span></span>${icon("next")}</button><button class="menurow" data-act="folder">${blob("var(--leaf)", 14, "wow", "", 'width="40" height="40"')}<span><b>Worksheets and quizzes, with answers</b><br><span class="xs muted">Everything finished in the app, to save or print</span></span>${icon("next")}</button></section>`;
+  else if (k === "history") h += doneHistory();
   else h += `<section class="sec">${schoolView()}</section>`;
   return h;
 }
@@ -13933,7 +13940,6 @@ function viewJourney0() {
   ];
   h += `<section class="sec">${rows.map(([k, t, s, b]) => `<button class="menurow" data-act="jrsheet" data-p="${k}">${b}<span><b>${t}</b><br><span class="xs muted">${s}</span></span>${icon("next")}</button>`).join("")}</section>`;
   h += rfCard();
-  h += doneHistory();
   return h;
 }
 
@@ -15626,6 +15632,7 @@ const SEGS = {
     ["life", "Skills and life", "Classes, sports, music, art, and everything learned outside lessons"],
     ["work", "Photos and files", "Photos, videos and files of what your child made, and what's still to do"],
     ["school", "School", "Report, entrance test and a folder to send to a school"],
+    ["history", "History", "Every lesson part, project and experiment finished, newest first"],
   ],
 };
 const seg = (k) => {
