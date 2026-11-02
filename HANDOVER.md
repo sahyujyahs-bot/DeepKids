@@ -13,14 +13,14 @@ The founder is not a programmer. Short, plain replies. She pays for every token 
 - Science units: Levels 1 to 3 all written, play-tested, live (42 + 64 + 147). Level 4 (160 planned) and Level 5 (248 planned) not written: Class 4 is next. One sample unit each exists.
 - All 928 book-detail questions rewritten as concept questions. Done.
 - Media still to do for Levels 1 and 2: set-up drawings (about 75 units, about 450 drawings left), many card pictures, videos missing on 25 units (35 videos; use a cheap Haiku helper with `app/build/find_videos.py --search`), songs not written for any unit (founder said later).
-- Level 3: 20 units have empty cover, experiment or project pictures (85 pictures; list built by the audit). About 1,500 explanation and word cards have no picture and probably should stay that way.
+- Level 3: the covers, experiments and projects that were empty are now drawn. About 1,500 explanation and word cards have no picture and probably should stay that way.
 - Welcome screen, Today pictures, Progress (constellation tiles), subject colours (navy maths, yellow English, coral Hindi, green science) are done and approved. The founder's drawings are in `app/content/drawings/` (README lists them).
 - Waiting on the founder: the 77 Canva pictures (Excel list sent), a new picture for the "Know what your child has learned" welcome slide, a redraw of the rooftop picture if she wants one, whether the Meet IAm slide should say "Part of DeepKids Plus" (it does).
 - Stale web tests: `web/tests/test_web.js`, `test_plus.js`, `test_edits.js`, `test_flash.js` still expect the old phone log-in.
 - Not done yet: white text on the new yellow English colour may be hard to read in a few places (labels, finished-chapter dots).
 
 ## Running when the old chat ended
-- Level 3 fill, batch 2 (10 units, 51 pictures, Fable, started about 19:10 on 2 Nov). Helpers write the pictures straight into the repo. When it is done: validate the 10 units (`python3 app/build/validate_unit.py <unit>`; success prints `: OK`), run `python3 app/build/combined/build.py`, delete `*.dl`, commit and push. Units: sci.waste.sorting-waste, sci.water.saving-water, sci.water.water-cycle, sci.water.water-sources-and-uses, sci.weather.forecasting, sci.weather.weather, sci.weather.wind-and-air, sci.what-is-life.cells, sci.what-is-life.edge-of-life, sci.what-is-life.signs-of-life (all .L3).
+- Nothing. The Level 3 fill (covers, experiments, projects for 20 units) finished and was saved.
 
 ## How the drawing jobs work
 - Style engine: an anidoodle project (flatKit.ts and moongFlat.ts are in `app/build/drawings/`). It lives only in a session scratchpad (`.../scratchpad/art`, with node_modules); in a new session, create one with `node <anidoodle skill>/engine/tools/scaffold.mjs` and copy those two files into `src/canvas-core/`.
