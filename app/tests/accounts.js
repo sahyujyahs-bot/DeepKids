@@ -101,6 +101,107 @@ const { chromium } = require("playwright");
     JSON.stringify(fresh.r),
     fresh.errs.join("|"),
   );
+  // Delete this profile: the family is wiped, the log-in is signed out, and signing in again starts clean, with no other
+  // log-in's family brought in
+  const del = await (async () => {
+    const ctx = await b.newContext({ viewport: { width: 400, height: 860 } });
+    await ctx.addInitScript(() => {
+      const dbs = {
+        "data/users/u1/acct_g1": {
+          setup: true,
+          board: "combined",
+          child: "Liri",
+          age: 8,
+          subjects: ["math"],
+          levels: { math: 3 },
+          updatedAt: 2000,
+          events: [
+            {
+              id: "c1",
+              title: "Maths tuition",
+              kind: "class",
+              who: "kid",
+              rep: "once",
+              date: "2026-11-05",
+              start: "16:00",
+              end: "17:00",
+            },
+          ],
+          log: [],
+        },
+        "data/users/u1/acct_g2": {
+          setup: true,
+          board: "ncert",
+          boards: ["ncert"],
+          child: "Asha",
+          age: 9,
+          subjects: ["math"],
+          levels: { math: 3 },
+          updatedAt: 1000,
+          events: [],
+          log: [],
+        },
+        "data/users/u1/session": { acct: "g1", migrated: true },
+      };
+      window.__db = dbs;
+      const doc = (path) => ({
+        get: async () => ({ exists: path in dbs, data: () => JSON.parse(JSON.stringify(dbs[path])) }),
+        set: async (v) => {
+          dbs[path] = JSON.parse(JSON.stringify(v));
+        },
+        onSnapshot: () => () => {},
+      });
+      const db = {
+        doc,
+        collection: (path) => ({
+          get: async () => ({
+            docs: Object.keys(dbs)
+              .filter((k) => k.startsWith(path + "/"))
+              .map((k) => ({ id: k.slice(path.length + 1), data: () => JSON.parse(JSON.stringify(dbs[k])) })),
+          }),
+        }),
+      };
+      window.claude = { use: async (n) => (n === "db" ? db : { id: async () => "u1" }) };
+      if (!sessionStorage.getItem("seen")) localStorage.setItem("dk-acct", "g1");
+    });
+    const p = await ctx.newPage();
+    await p.goto(URL);
+    await p.waitForTimeout(1200);
+    await p.evaluate(() => {
+      S.guide = { on: false };
+      document.getElementById("guide")?.remove();
+      openSheet({ mode: "settings" });
+      ui.sopen = "delete";
+      renderSheet();
+    });
+    await p.waitForTimeout(300);
+    const ask = await p.evaluate(() => !!document.querySelector('[data-act="delprofile"]'));
+    await p.evaluate(() => document.querySelector('[data-act="delprofile"]').click());
+    await p.waitForTimeout(300);
+    const sure = await p.evaluate(() => !!document.querySelector('[data-act="delprofileyes"]'));
+    await p.evaluate(() => document.querySelector('[data-act="delprofileyes"]').click());
+    await p.waitForTimeout(1200);
+    const after = await p.evaluate(() => ({
+      acct: localStorage.getItem("dk-acct"),
+      cloud: window.__db["data/users/u1/acct_g1"],
+      adopted: window.__db["data/users/u1/session"].adopted,
+      login: !!document.getElementById("lgPhone") || !!document.querySelector(".fxintro"),
+    }));
+    await ctx.close();
+    return { ask, sure, ...after };
+  })();
+  const okDel =
+    del.ask &&
+    del.sure &&
+    !del.acct &&
+    del.cloud.setup === false &&
+    !(del.cloud.events || []).length &&
+    del.adopted === true &&
+    del.login;
+  console.log(
+    okDel ? "accounts delete profile: ok" : "accounts delete profile: FAIL",
+    JSON.stringify({ ...del, cloud: { setup: del.cloud?.setup, events: (del.cloud?.events || []).length } }),
+  );
   await b.close();
-  process.exit(okMine && okFresh ? 0 : 1);
+  process.exit(okMine && okFresh && okDel ? 0 : 1);
 })();

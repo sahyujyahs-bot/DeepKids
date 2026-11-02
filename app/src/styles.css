@@ -6850,16 +6850,9 @@ body {
 /* each picture has open sky at the top: the greeting sits on it */
 .therotxt {
   position: absolute;
-  top: 14px;
-  left: 14px;
-  max-width: calc(100% - 28px);
-  padding: 10px 14px 12px;
-  border-radius: 18px;
-  background: rgb(255 252 245 / 80%);
-  backdrop-filter: blur(3px);
-}
-.thero.night .therotxt {
-  background: rgb(30 20 60 / 55%);
+  top: 18px;
+  left: 18px;
+  right: 18px;
 }
 .thero.night :is(h1, p) {
   color: #fff;
@@ -6872,9 +6865,14 @@ body {
 .thero p {
   display: flex;
   flex-wrap: wrap;
-  font: 600 14px/1.5 var(--body);
+  font: 700 14px/1.5 var(--body);
   color: var(--ink);
   margin-top: 4px;
+}
+.thero:not(.night) :is(h1, p) {
+  text-shadow:
+    0 0 10px rgb(255 252 245 / 90%),
+    0 0 3px rgb(255 252 245 / 80%);
 }
 .thero p > span {
   white-space: nowrap;

@@ -209,6 +209,18 @@ function mergeIn(a, b) {
     parent: { ...keep(b.parent), ...keep(a.parent) },
   };
 }
+// wipes this log-in's family (plan, progress, classes, notes), so the welcome slides, sign-in and set-up can be tried afresh
+async function deleteProfile() {
+  const acct = ACC;
+  clearTimeout(saveTimer);
+  S = fresh();
+  S.acct = acct;
+  S.updatedAt = Date.now();
+  lsSet(LSK(), JSON.stringify(S));
+  lsDel("dk-backup-" + acct);
+  lsSet("dk-known", JSON.stringify(JSON.parse(lsGet("dk-known") || "[]").filter((x) => x.acct !== acct)));
+  if (store) await writeNow().catch(() => {});
+}
 async function logout() {
   if (store) {
     clearTimeout(saveTimer);
@@ -222,7 +234,12 @@ async function logout() {
   }
   if (DBR) {
     try {
-      await DBR.doc("data/users/" + UIDR + "/session").set({ acct: null, at: Date.now(), migrated: true });
+      await DBR.doc("data/users/" + UIDR + "/session").set({
+        acct: null,
+        at: Date.now(),
+        migrated: true,
+        adopted: true,
+      });
     } catch (e) {}
   }
   lsDel("dk-acct");

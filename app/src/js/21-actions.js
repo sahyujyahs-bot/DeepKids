@@ -22,6 +22,21 @@ function playItem(it, toExperiment) {
           ),
   });
 }
+// logging out: on the website it signs out of Google; in the app it forgets the log-in on this device. The family's
+// plan stays with its account
+function logOutNow() {
+  sheet.close();
+  if (window.DK_PLATFORM?.signOut) {
+    writeNow()
+      .catch(() => {})
+      .then(() => window.DK_PLATFORM.signOut());
+    return;
+  }
+  logout().then(() => {
+    ui.saved = null;
+    toast("Logged out");
+  });
+}
 function onAct(e) {
   if (ob) {
     const d = ob.d,
@@ -317,21 +332,18 @@ function onAct(e) {
       });
       break;
     }
-    case "logout": {
-      sheet.close();
-      // on the website, logging out signs out of Google; the family's plan stays with their Google account
-      if (window.DK_PLATFORM?.signOut) {
-        writeNow()
-          .catch(() => {})
-          .then(() => window.DK_PLATFORM.signOut());
-        break;
-      }
-      logout().then(() => {
-        ui.saved = null;
-        toast("Logged out");
-      });
+    case "logout":
+      logOutNow();
       break;
-    }
+    case "delprofile":
+    case "delprofileno":
+      ui.delAsk = a === "delprofile";
+      renderSheet();
+      break;
+    case "delprofileyes":
+      ui.delAsk = false;
+      deleteProfile().then(logOutNow);
+      break;
     case "checksaved": {
       if (!store) {
         ui.saved = { err: "This view isn't connected to your account, so data is only on this device." };

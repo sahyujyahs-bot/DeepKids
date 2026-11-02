@@ -172,6 +172,15 @@ function settingsView() {
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
   ${grp("rem", "Reminders", R.time ? `Daily at ${clock(hm(R.time))}` : "Free-time nudges on Today", remView())}
   ${grp("data", "Your data", "Save a copy, or bring one in from another device", dataBox())}
+  ${grp(
+    "delete",
+    "Delete this profile",
+    "Start again from the welcome screens",
+    ui.delAsk
+      ? `<p class="sm">This wipes ${esc(S.child || "this family")}'s plan, progress, classes and notes from this log-in, then signs you out. It cannot be undone. Use “Save a copy” under Your data first if you want one.</p><div class="row"><button class="btn bad sm" data-act="delprofileyes">Yes, delete everything</button><button class="btn soft sm" data-act="delprofileno">Keep it</button></div>`
+      : `<p class="sm">Wipe this log-in's family and sign out, then try the welcome screens, sign-in and set-up from the start.</p><button class="btn line sm" data-act="delprofile">Delete this profile…</button>`,
+    ui.delAsk,
+  )}
   ${grp("sound", "Sound and reading aloud", `${soundOn ? "Sounds on" : "Sounds off"} · ${S.autoRead ? "reads each step aloud" : "read aloud on tap"}`, `<label class="zrow"><input type="checkbox" data-act="sndtoggle" ${soundOn ? "checked" : ""}><span><b class="sm">Sounds</b><br><span class="xs muted">Little chimes when things are done</span></span></label><label class="zrow"><input type="checkbox" data-act="autoread" ${S.autoRead ? "checked" : ""}><span><b class="sm">Read each lesson step aloud</b><br><span class="xs muted">Or tap 🔊 on any screen to hear it</span></span></label>`)}
   <p class="xs muted">${syncMode === "account" ? `Everything is saved privately to your claude.ai account${lastSaved ? " · last saved " + new Date(lastSaved).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : ""}. It follows you to any device where you're signed in.` : store ? "Couldn't reach your account just now. Saved on this device; it will retry." : "Saved in this browser only."}</p>`;
   document.getElementById("sheetTitle").textContent = "App settings";
