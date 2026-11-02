@@ -1,0 +1,2267 @@
+{
+ "id": "sci.forces.changing-motion.L2",
+ "title": "Three things a force can change: shape, speed and direction",
+ "level": 2,
+ "summary": {
+  "text": "Roll a marble round the inside of a curved card wall, and it follows the curve. Where the wall ends, the marble goes off in a straight line. So the wall was pushing it sideways all the way round. A force is a push or a pull, and it can change three things: the shape of a thing, its speed and its direction. Your child crumples foil, races a ball down ramps and bends a marble's path, to see each change happen.",
+  "art": "A girl of 7 kneeling on a tiled floor, watching a marble roll round the inside of a curved card wall and shoot off straight where the wall ends, with a dotted line showing the straight path."
+ },
+ "intro": {
+  "hook": "Roll a ball across the floor. Without touching the ball, can you make it turn a corner?",
+  "text": "A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this unit you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.",
+  "art": "A rubber ball rolling across a kitchen floor towards a book standing on its edge at a slant, with a curved arrow showing the ball turning away after it touches the book."
+ },
+ "outcomes": [
+  "By the end I can say that a force is a push or a pull, and that a force can change the shape, the speed or the direction of a thing.",
+  "By the end I can change the shape of foil, a bottle or a rubber band with a push or a pull, and say whether the new shape stays.",
+  "By the end I can show that a ball rolls faster and further from a steeper ramp, and say that gravity pulls it down the slope.",
+  "By the end I can make a rolling ball change direction with a push from the side or a wall.",
+  "By the end I can say that a ball going round a bend needs a push all the way round, and goes straight on when the push stops.",
+  "By the end I can guess what will happen, give a reason, test it, and say if my guess was right."
+ ],
+ "cards_mins": 12,
+ "terms": [
+  {
+   "term": "Force",
+   "meaning": "A force is a push or a pull. You cannot see a force, but you can see what it does.",
+   "example": "When you push a door shut, your hand puts a force on the door.",
+   "art": "A child's hand pushing a wooden door, with a thick arrow from the hand into the door."
+  },
+  {
+   "term": "Shape",
+   "meaning": "The shape of a thing is its outline: round, flat, long, bent or twisted.",
+   "example": "A ball of dough is round. Roll it out, and its shape becomes flat.",
+   "art": "A round ball of dough next to a flat rolled-out roti on a wooden board."
+  },
+  {
+   "term": "Squash",
+   "meaning": "To squash something is to push on it so that it gets flatter or smaller.",
+   "example": "When you sit on a cushion, you squash it.",
+   "art": "A cushion squashed flat under a sitting child, with the edges bulging out."
+  },
+  {
+   "term": "Stretch",
+   "meaning": "To stretch something is to pull it so that it gets longer.",
+   "example": "Pull a hair rubber band between two fingers, and it stretches.",
+   "art": "Two fingers pulling a hair rubber band into a long thin loop."
+  },
+  {
+   "term": "Twist",
+   "meaning": "To twist something is to turn one end one way and the other end the other way.",
+   "example": "When you wring out a wet towel, you twist it.",
+   "art": "Two hands twisting a wet towel, with drops of water falling into a bucket."
+  },
+  {
+   "term": "Speed",
+   "meaning": "Speed is how fast something is moving.",
+   "example": "A cycle going downhill has more speed than a cycle going uphill.",
+   "art": "Two cycles on a hill road, one racing down and one going slowly up."
+  },
+  {
+   "term": "Direction",
+   "meaning": "The direction of a moving thing is the way it is going: forwards, back, left, right, up or down.",
+   "example": "An auto-rickshaw turning left at a corner changes its direction.",
+   "art": "An auto-rickshaw turning left at a street corner, with a curved arrow showing its path."
+  },
+  {
+   "term": "Spring back",
+   "meaning": "A thing springs back when it goes back to its old shape by itself after a push or a pull stops.",
+   "example": "Squeeze a sponge and let go. It springs back.",
+   "art": "A kitchen sponge squeezed in a hand, and next to it the same sponge back to its full size."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "A force is a push or a pull",
+   "status": "defined",
+   "context": "This card is about what a force is.",
+   "definition": "A force is a push or a pull on a thing.",
+   "description": "You push a door to close it. You pull a drawer to open it. Pushes and pulls are both called forces. You cannot see a force. You see what it does to a thing. A force can change three things: its shape, its speed and its direction. A force needs something to push or pull, like a hand, a wall, the wind or the Earth.",
+   "examples": [
+    "Your foot pushes a football.",
+    "The Earth pulls a ball down a slide. This pull is called gravity.",
+    "The wind pushes a kite up into the sky."
+   ],
+   "perspectives": [],
+   "art": "Three small pictures in a row: a hand squashing foil, a ball racing down a ramp, and a ball turning at a wall, each with an arrow for the force."
+  },
+  {
+   "concept": "A force can change a thing's shape",
+   "status": "defined",
+   "context": "This card is about the first thing a force can change: shape.",
+   "definition": "When you squash, stretch, bend or twist a thing, a force changes its shape.",
+   "description": "Crumple a sheet of foil, and your push makes it a ball. Pull a rubber band, and it gets longer. Some things keep their new shape when you stop. Foil stays crumpled and dough stays flat. Other things spring back, like a sponge, a rubber band or a capped bottle. A thing springs back when its tiny particles pull themselves back into place, or when air inside it pushes back.",
+   "examples": [
+    "A potter pushes wet clay into the shape of a pot, and it keeps that shape.",
+    "You stretch a rubber band round a box, and it springs back when you take it off.",
+    "You squeeze a lemon, and it stays squashed."
+   ],
+   "perspectives": [
+    {
+     "who": "Prashastapada, a thinker of the Vaisheshika school in India, about 1,500 years ago",
+     "explanation": "He gave a name to the way some things go back to their shape after a push. He called it sthitisthapaka, which means 'putting back the state'."
+    }
+   ],
+   "art": "A hand crumpling foil into a ball next to a hand letting go of a squeezed sponge that springs back."
+  },
+  {
+   "concept": "A force can change a thing's speed",
+   "status": "defined",
+   "context": "This card is about the second thing a force can change: speed.",
+   "definition": "A force can make a moving thing go faster or slower.",
+   "description": "A ball let go at the top of a ramp starts slowly. The Earth pulls it down the slope, and it goes faster and faster. This pull is called gravity. On a steeper ramp, gravity speeds the ball up more, so it rolls further across the floor. On a cloth or a rug, the cloth rubs against the ball and slows it down. This rubbing is called friction.",
+   "examples": [
+    "A cycle goes faster downhill because gravity pulls it down the slope.",
+    "A cyclist squeezes the brakes, and the brakes rub the wheels to slow the cycle.",
+    "A football slows down when it rolls onto grass."
+   ],
+   "perspectives": [],
+   "art": "A ball rolling down a board propped on three books, with the ball drawn three times, further apart each time, to show it going faster."
+  },
+  {
+   "concept": "A force can change a thing's direction",
+   "status": "defined",
+   "context": "This card is about the third thing a force can change: direction.",
+   "definition": "A push or a pull from the side can make a moving thing turn.",
+   "description": "A rolling ball goes straight until something pushes it. Push it from behind, and it goes faster. Push it from the front, and it slows down. Push it from the side, and it turns. A wall can push too. Roll a ball straight at a wall, and it comes back towards you. Roll it at a slant, and it bounces off at a slant the other way.",
+   "examples": [
+    "A cricket bat pushes the ball back the way it came.",
+    "In carrom, the striker bounces off the wooden frame.",
+    "A crow pushes the air with their wings and tail to turn in the sky."
+   ],
+   "perspectives": [],
+   "art": "A ball rolling at a slant towards a wall and bouncing off at a slant the other way, with arrows for its path."
+  },
+  {
+   "concept": "Going round a bend needs a push all the way round",
+   "status": "defined",
+   "context": "This card is about the Bend Wall test, where a marble rolled round a curved card wall.",
+   "definition": "A moving thing goes in a straight line unless a force pushes or pulls it sideways. To go round a curve, it needs a sideways push all the way round.",
+   "description": "A marble rolled round the inside of a curved wall. The wall pushed it sideways at every moment, so its path bent. Where the wall ended, nothing pushed it sideways any more. So it went off straight, in the direction it was going at that moment. Turning is a change in motion, just like speeding up or slowing down. So turning needs a force too.",
+   "examples": [
+    "The rim of a steel plate pushes a marble inwards, so the marble runs round and round inside it.",
+    "On a curve, the rails push a train's wheels sideways, so the train turns.",
+    "The Earth's gravity pulls the Moon all the time, so the Moon goes round the Earth instead of flying off straight."
+   ],
+   "perspectives": [],
+   "art": "A top view of a curved wall with a marble's path following the curve and then a straight dotted line where the wall ends."
+  },
+  {
+   "concept": "Why does a moving thing keep going straight?",
+   "status": "idea",
+   "context": "This card is about a question scientists can describe but not fully answer.",
+   "description": "Isaac Newton wrote it down as a rule in 1687: a moving thing keeps going straight at the same speed until a force changes it. Space probes far from any planet do exactly this. But why the world works this way is still a question. Nobody knows for sure.",
+   "examples": [
+    "A marble rolling off the end of a curved wall goes straight.",
+    "A space probe far out in space keeps going for years without an engine."
+   ],
+   "perspectives": [
+    {
+     "who": "Many physicists",
+     "explanation": "It is simply how the world works. Newton's rule describes it, and we may never find a deeper reason."
+    },
+    {
+     "who": "Ernst Mach, an Austrian scientist, in 1883",
+     "explanation": "He suggested that the way things keep moving might depend on all the stars and other matter in the universe. Scientists still argue about this idea."
+    }
+   ],
+   "art": "A small space probe far out in black space, with a long straight dotted line behind it and stars all around."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A force can change the shape, the speed or the direction of a thing.",
+   "evidence": "Anyone can test it at home: crumple foil, roll a ball down a ramp, or roll a ball at a wall."
+  },
+  {
+   "text": "A moving thing goes in a straight line unless a force pushes or pulls it sideways.",
+   "evidence": "A marble leaving a curved wall goes straight. Space probes far from planets travel in straight lines for years."
+  },
+  {
+   "text": "Gravity pulls things down a slope, so they speed up as they roll down.",
+   "evidence": "A ball let go on a steeper ramp rolls faster and further. People have measured this since Galileo rolled balls down ramps in Italy, about 400 years ago."
+  },
+  {
+   "text": "The Moon goes round the Earth because the Earth's gravity pulls the Moon all the time.",
+   "evidence": "Isaac Newton worked out in 1687 how much the Moon's path bends each day, and it matched the pull of the Earth's gravity. Satellites sent up by ISRO and others follow the same rules."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "A ball that has been going round a curve keeps curving after the curve ends.",
+   "who": "A common guess among children, and among many grown-ups too",
+   "for": "The ball was going round, so it seems it should keep going round for a while.",
+   "against": "In the Bend Wall test, the marble went straight the moment the wall ended. In 1980, Michael McCloskey, Alfonso Caramazza and Bert Green in the United States asked university students the same question with a curved tube. Many of the students guessed wrong too.",
+   "status": "rejected",
+   "context": "This card is about what a ball does when a curve ends."
+  },
+  {
+   "claim": "Turning a corner needs no force, as long as the speed stays the same.",
+   "who": "A common idea, because a turning ball does not get faster or slower",
+   "for": "When a ball goes round a curve at the same speed, it does not look as if anything is changing.",
+   "against": "The direction changes, and that is a change in motion. A ball only turns when a wall, a hand or a pull pushes it sideways. Take the wall away, and it goes straight.",
+   "status": "rejected",
+   "context": "This card is about whether turning needs a force."
+  },
+  {
+   "claim": "Only soft things change shape when you push them.",
+   "who": "A common first idea",
+   "for": "Dough, sponge and foil change shape easily, but a steel spoon or a stone floor does not seem to.",
+   "against": "A steel spoon bends if you push hard enough, and a car's steel body dents in a crash. Hard things change shape too, but a much bigger force is needed, or the change is too small to see.",
+   "status": "rejected",
+   "context": "This card is about whether hard things can change shape."
+  },
+  {
+   "claim": "Gravity is not a pull at all. Big things like the Earth bend space and time, and the Moon follows the bend.",
+   "who": "Albert Einstein's theory of gravity, from 1915",
+   "for": "Einstein's idea explains things Newton's pull cannot, like light from far stars bending as it passes the Sun. This was measured during an eclipse in 1919.",
+   "against": "For the Moon, a ball on a ramp and a satellite, thinking of gravity as a pull works perfectly well. Nobody yet knows how to join Einstein's idea with the physics of tiny particles.",
+   "status": "accepted",
+   "context": "This card is about two ways of describing gravity, the force that bends the Moon's path."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "The Moon turns a little every moment as it goes round the Earth. What is pulling it, and why does it not fall onto the Earth?",
+   "kind": "deep",
+   "hint": "Think of the marble in the Bend Wall test. It was moving sideways fast, and the wall kept bending its path."
+  },
+  {
+   "q": "Foil stayed crumpled, but a rubber band sprang back. What is different inside them?",
+   "kind": "deep",
+   "hint": "Think of tiny particles holding on to each other. Do they go back to their old places, or find new ones?"
+  },
+  {
+   "q": "Can anything move, stop or turn without being pushed or pulled at all?",
+   "kind": "deep",
+   "hint": "Try to think of one example. Then look for the push or the pull you missed."
+  },
+  {
+   "q": "The Earth carries you round the Sun very fast, and turns you all the time. Why do you not feel it?",
+   "kind": "big",
+   "hint": "The turn is very gentle, and everything around you turns with you. You feel a turn in a bus because the bus turns sharply."
+  },
+  {
+   "q": "Your body changes shape a little every time you sit, jump or smile. Are you the same shape as you were yesterday?",
+   "kind": "big",
+   "hint": "Think of your cheeks when you smile, and your feet when you stand on them."
+  }
+ ],
+ "story": {
+  "title": "Paati's Corner Shot",
+  "mins": 9,
+  "read_aloud": true,
+  "note": "A made-up story. Kavya, Arjun and Paati are made up. Paati means grandmother in Tamil. Chennai really does get most of its rain from October to December. Everything the striker does in the story is what a real carrom striker does.",
+  "text": [
+   "It had rained in Chennai for three days. The roads were full of puddles, and the school had a holiday. Kavya was seven. She stood at the window of their flat and watched the rain fall.",
+   "Her cousin Arjun had come from Pune for the holidays. He was eight. He was bored, and he said so every ten minutes.",
+   "\"Then we will play carrom,\" said Paati. Paati was Kavya's grandmother. She pulled the big square board out from under the bed and blew the dust off it.",
+   "Paati sprinkled a pinch of white carrom powder on the board. She rubbed it in with her palm. \"Now the coins will slide well,\" she said.",
+   "She set the coins in a flower shape in the middle. The red queen went in the centre. The black and white coins went round her in a ring.",
+   "Arjun went first. He put the striker on the line in front of him. He flicked it as hard as he could. The striker shot across the board. Coins flew everywhere. One white coin dropped into a pocket.",
+   "\"I won!\" shouted Arjun.",
+   "\"You got one coin,\" said Kavya. \"There are nineteen.\"",
+   "Arjun flicked again, very gently this time. The striker crept forward and stopped before it reached any coin.",
+   "\"Too soft,\" said Paati. \"A big flick gives a big push. A small flick gives a small push. Your finger decides how fast the striker goes.\"",
+   "Arjun looked at his finger. \"Look, Kavya,\" said Paati. \"Press your finger on the board, the way you do before you flick.\" Kavya pressed. The tip of her finger went flat and white. \"Your finger changed shape,\" said Paati. \"The board pushed back on it. When you lift it, it goes round again.\"",
+   "Now it was Kavya's turn. A black coin sat right next to the far pocket. But the red queen was in the way. There was no straight path to the black coin.",
+   "\"I cannot hit it,\" said Kavya. \"The queen is in front.\"",
+   "Paati smiled. \"Then do not go straight. Go round.\"",
+   "\"Round? A striker cannot go round corners,\" said Arjun.",
+   "\"Can it not?\" said Paati. She put her own fingers on the striker. She did not aim at the black coin. She aimed at the side of the board, at the wooden frame.",
+   "She flicked. The striker raced at a slant to the side of the board. It hit the wooden frame with a little knock. Then it shot off at a slant the other way. It slid past the queen and tapped the black coin. The black coin dropped into the pocket.",
+   "Arjun's mouth fell open. \"How did it turn?\"",
+   "\"Put your hand on the frame, here, where it hit,\" said Paati. She flicked the striker at the frame again. Arjun felt a small knock against his palm.",
+   "\"I felt the striker push the frame,\" he said.",
+   "\"And the frame pushed the striker back,\" said Paati. \"That push turned it. A striker goes straight until something pushes it. Your finger pushes it to start it. A coin pushes it when they bump. The frame pushes it when it hits the side. Each push changes where it goes, or how fast.\"",
+   "\"But the frame is not alive,\" said Arjun. \"It cannot push.\"",
+   "\"Lean on the wall,\" said Kavya. Arjun leaned on the wall of the flat. \"Why do you not fall over?\" she asked.",
+   "Arjun thought. \"The wall is holding me up.\"",
+   "\"It is pushing you,\" said Kavya. \"Paati says everything that you push pushes you back.\"",
+   "Paati laughed. \"Kavya listens better than I thought.\"",
+   "They played all afternoon. Arjun practised bouncing the striker off the frame. Kavya drew a picture of the board with arrows to show where the striker went. Each time it hit the frame at a slant, it came off at a slant the other way.",
+   "By the evening the rain had stopped. Arjun stood at the window. An auto-rickshaw drove down the wet road. At the corner, the driver turned the handle, and the auto swung round to the left.",
+   "\"Kavya,\" said Arjun. \"What pushed the auto round the corner? There is no wall there.\"",
+   "Kavya looked at the auto's front wheel, turned to the left. She looked at the road. She was not sure.",
+   "\"Paati!\" they both called."
+  ],
+  "epiphany": "For the parent: Arjun thinks a striker can only go straight, and that a wooden frame cannot push anything. Paati shows him that the frame pushes the striker and turns it. Kavya adds that a wall pushes him when he leans on it. Every change in the striker's speed or direction comes from a push: a finger, a coin or the frame. The open question at the end has an answer the child can work out: the turned wheel pushes sideways on the road, and the road pushes the wheel back, which turns the auto.",
+  "ask": [
+   "Why did the striker go faster when Arjun flicked it harder?",
+   "How did Paati get the striker to the black coin when the queen was in the way?",
+   "What pushed the striker when it changed direction?",
+   "What do you think pushed the auto-rickshaw round the corner?"
+  ],
+  "art": [
+   "A grandmother in a cotton saree sprinkling white powder on a square carrom board on the floor of a small Chennai flat, while rain streams down the window behind her.",
+   "A boy of 8 flicking the striker hard, with black and white coins scattering across the board.",
+   "A top view of a carrom board, with the striker's path drawn as an arrow going to the side frame and bouncing off at a slant to a black coin near a pocket, past the red queen.",
+   "A girl and a boy at a window in the evening, watching an auto-rickshaw turn left at a wet street corner."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Bend Wall: where does the marble go when the wall ends?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you make a curved wall from a strip of card. You roll a marble round the inside of it. You find out which way the marble goes when the wall ends.",
+   "question": "A marble rolls round the inside of a curved wall. When the wall ends, will the marble keep curving, go straight on, or swing out wide?",
+   "predict": "Look at the three paths drawn on the paper. Path A keeps curving. Path B goes straight on. Path C swings out wide. Which path will the marble take when the wall ends? Why do you think so?",
+   "fair_test": "Start the marble from the same mark each time, with the same gentle push. Try each wall three times, because one try can go wrong. Change only how long the wall is.",
+   "results_table": [
+    "Wall",
+    "My guess: A, B or C",
+    "Try 1",
+    "Try 2",
+    "Try 3",
+    "Was my guess right?"
+   ],
+   "materials": [
+    {
+     "item": "a marble (goli), or a small hard ball such as a ping-pong ball",
+     "qty": 1
+    },
+    {
+     "item": "a large steel plate with a rim, such as a thali",
+     "qty": 1
+    },
+    {
+     "item": "a strip of thin card cut from a cereal box or shoe box, about 5 centimetres wide and 60 centimetres long (tape two shorter strips end to end if needed)",
+     "qty": 1
+    },
+    {
+     "item": "a big sheet of newspaper or chart paper, taped flat on a smooth floor",
+     "qty": 1
+    },
+    {
+     "item": "3 or 4 steel tumblers or small heavy books, to hold the wall up",
+     "qty": 4
+    },
+    {
+     "item": "cellotape, scissors and a sketch pen",
+     "qty": 1
+    }
+   ],
+   "safety": "Marbles are a choking risk for children under 3. Keep them away from babies and toddlers, and pick them all up afterwards.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Swirl the marble in a plate, build the card wall, guess the path, test two lengths of wall, and talk about why."
+    }
+   ],
+   "record": "Fill in the results table. Draw the wall from above, and draw the path the marble really took with an arrow.",
+   "setup": [
+    {
+     "art": "A girl swirling a large steel plate with a rim in small circles on the floor, with a marble running round the inside of the rim.",
+     "caption": "1. Swirl a marble round the inside of a steel plate."
+    },
+    {
+     "art": "A long strip of cereal-box card standing on its edge on a sheet of newspaper, bent into a half circle and held up from outside by three steel tumblers and some cellotape.",
+     "caption": "2. Stand a card strip up in a half circle on newspaper. Prop it with tumblers."
+    },
+    {
+     "art": "A top view of the half-circle card wall with a start mark at one end and three paths drawn from the far end: A curving on, B going straight on, C swinging out wide.",
+     "caption": "3. Draw the start mark and the three paths, A, B and C."
+    },
+    {
+     "art": "A child's hand giving a marble a gentle push along the inside of the card wall, with the marble's path drawn as a curve that becomes a straight dotted line where the wall ends.",
+     "caption": "4. Push the marble gently along the wall. Watch where it goes when the wall ends."
+    },
+    {
+     "art": "The same card wall with its last part folded back flat, making the curve only a quarter circle, and a new straight dotted path leaving from the new end.",
+     "caption": "5. Fold back the end to make a shorter wall. Try again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Put the marble in the steel plate on the floor. 2. Your child moves the plate in small circles until the marble runs round the rim. 3. Then hold the plate still and watch.",
+     "say": "Swirl the plate gently. What is the marble doing? What keeps it from rolling away?",
+     "kid": "Swirl the plate gently. Watch the marble run round. What keeps it in?",
+     "ask": [
+      {
+       "q": "What keeps the marble going round?",
+       "good": [
+        "The edge of the plate.",
+        "The rim stops it going out.",
+        "The rim pushes it back in."
+       ]
+      }
+     ],
+     "parent": "The marble runs round the rim many times. Do not explain yet. Just agree that the rim keeps it in."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "adult": true,
+     "do": "1. Tape the newspaper flat on the floor. 2. A grown-up cuts the card strip. 3. Stand the strip on its long edge and bend it into a half circle. 4. Hold it up from outside with tumblers and tape.",
+     "say": "This card is a wall, like the rim of the plate. But this wall stops halfway round.",
+     "kid": "Help stand the card up in a half circle. It is a wall.",
+     "parent": "The wall must stand firm, so the marble can run along it without knocking it over. Tape the bottom edge to the paper on the outside."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Mark a start dot at one end of the wall, on the inside. 2. At the far end, draw three paths with the sketch pen. 3. A keeps curving, B goes straight on, C swings out wide. 4. Ask for a guess and a reason.",
+     "say": "The marble will run round the wall. Then the wall ends. Will it take path A, B or C? Why do you think so?",
+     "kid": "When the wall ends, will the marble go A, B or C? Why?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "A, because it was going round, so it keeps going round.",
+        "B, because nothing is pushing it any more.",
+        "C, because it was going fast and flies out."
+       ]
+      }
+     ],
+     "parent": "Every guess is fine if it has a reason. Many children, and many grown-ups, guess A. Write the guess in the table."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Put the marble on the start dot, touching the wall. 2. Your child gives it a gentle push along the wall. 3. Watch where it goes when the wall ends. 4. Put a small dot where it crosses the paper edge. 5. Try three times.",
+     "say": "Push it gently along the wall. Watch the end of the wall. Which path did it take?",
+     "kid": "Push the marble gently along the wall. Which path did it take?",
+     "parent": "The marble follows the curve and then goes off straight, along path B. If it jumps over the wall, push more gently. If it stops before the end, push a little harder."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Fold the last part of the wall flat outwards, so the curve is only a quarter circle. 2. Ask for a new guess. 3. Try three times and mark each path.",
+     "say": "Now the wall ends sooner. Where will the marble go now? Try it three times.",
+     "kid": "Now the wall is shorter. Guess, then try three times.",
+     "parent": "The marble again goes straight on, but now in a different direction. It goes the way it was heading at the moment the wall ended."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "1. Your child holds the middle of the wall lightly from outside with one finger. 2. Roll the marble again. 3. Then talk about what they saw, and why.",
+     "say": "Hold the wall lightly from outside. Did you feel the marble knock against it? So what was the wall doing to the marble all the way round?",
+     "kid": "Hold the wall lightly. Do you feel a little knock? What did the wall do?",
+     "ask": [
+      {
+       "q": "Why did the marble go straight when the wall ended?",
+       "good": [
+        "Nothing was pushing it round any more.",
+        "The wall was pushing it, and then the push stopped.",
+        "It only turns when something pushes it sideways."
+       ]
+      }
+     ],
+     "parent": "The knock is small with a marble. A heavier ball, such as a small rubber ball, gives a bigger one. A strong answer says: 'I thought A. It went B. The wall was pushing it round, and when the wall ended, it went straight.' Then read the card on going round a bend.",
+     "check": {
+      "t": "mcq",
+      "q": "A marble runs round inside a curved wall. The wall ends. Which way does the marble go?",
+      "options": [
+       "Straight on, the way it was going",
+       "It keeps curving round",
+       "It stops at once"
+      ],
+      "a": 0,
+      "why": "Nothing pushes it sideways after the wall ends, so it goes straight on. If you picked 'keeps curving', try the Bend Wall again and watch the very end of the wall."
+     }
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Ramp Race: does a steeper ramp make a faster ball?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this experiment you let a ball roll down a ramp onto a cloth. You change how high the ramp is. You count how far the ball rolls each time.",
+   "question": "If you let a ball roll down a ramp without pushing it, does a steeper ramp make it go faster and roll further?",
+   "predict": "Will the ball roll furthest from a ramp on 1 book, 2 books or 3 books? Why do you think so?",
+   "fair_test": "Use the same ball and the same ramp each time. Let the ball go from the same top mark, and never push it. Change only the number of books. Try each height three times, because one try can be a fluke.",
+   "results_table": [
+    "Books under the ramp",
+    "My guess",
+    "Try 1 (hand-spans)",
+    "Try 2 (hand-spans)",
+    "Try 3 (hand-spans)"
+   ],
+   "materials": [
+    {
+     "item": "a ramp about 40 centimetres long: a wooden chopping board, a tray, a big hardcover book or stiff cardboard",
+     "qty": 1
+    },
+    {
+     "item": "3 books of the same thickness",
+     "qty": 3
+    },
+    {
+     "item": "a small ball that rolls well, such as a rubber ball or a tennis ball",
+     "qty": 1
+    },
+    {
+     "item": "a bedsheet, towel or durrie spread flat at the bottom of the ramp",
+     "qty": 1
+    },
+    {
+     "item": "small paper slips, to mark where the ball stops",
+     "qty": 9
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Guess, then roll the ball from 1, 2 and 3 books, three times each, and count the hand-spans."
+    }
+   ],
+   "record": "Fill in the results table. Circle the height that sent the ball furthest.",
+   "setup": [
+    {
+     "scene": "ramp",
+     "object": "ball",
+     "height": 3,
+     "caption": "1. Put one end of the ramp on 1 book. Spread a cloth at the bottom."
+    },
+    {
+     "scene": "ramp",
+     "object": "ball",
+     "height": 6,
+     "caption": "2. Let the ball go from the top mark. Do not push it."
+    },
+    {
+     "art": "A ball stopped on a flat bedsheet, with a paper slip beside it and a child's hand measuring hand-spans from the end of the ramp.",
+     "caption": "3. Count the hand-spans from the end of the ramp to the ball."
+    },
+    {
+     "scene": "ramp",
+     "object": "ball",
+     "height": 9,
+     "caption": "4. Add a book and try again. Then add a third book."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw the results table. 2. Ask your child to guess which height will send the ball furthest, and why.",
+     "say": "We will roll a ball down a ramp, without pushing it. Which ramp will send it furthest: 1 book, 2 books or 3? Why do you think so?",
+     "kid": "Which ramp will send the ball furthest? Why do you think so?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "3 books, because it is steeper.",
+        "3 books, because the ball goes faster downhill.",
+        "They will be the same, because it is the same ball."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Put one end of the ramp on 1 book. 2. Spread the cloth flat at the bottom. 3. Mark the top of the ramp. 4. Your child holds the ball on the mark and lets go. 5. Mark where it stops. 6. Try three times.",
+     "say": "Hold the ball on the mark. Open your fingers and let it go. Do not push it. Where did it stop?",
+     "kid": "Hold the ball on the mark. Let go. Do not push.",
+     "parent": "The cloth slows the ball down, so it stops in a few hand-spans instead of rolling across the room."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Add a second book and do three tries. 2. Add a third book and do three tries. 3. Each time, count the hand-spans from the end of the ramp to the ball.",
+     "say": "Now the ramp is steeper. Watch the ball at the bottom of the ramp. Is it going faster? Count your hand-spans.",
+     "kid": "Add a book. Let go again. Count the hand-spans.",
+     "parent": "From 3 books the ball comes off the ramp faster and rolls further. Count in your child's hand-spans, so the numbers are theirs."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Look at the table together. Ask what they think, what they saw and why.",
+     "say": "Which ramp sent the ball furthest? Nobody pushed the ball. So what made it go faster?",
+     "kid": "Which ramp won? Nobody pushed the ball. What made it go?",
+     "ask": [
+      {
+       "q": "What made the ball go faster on the steep ramp?",
+       "good": [
+        "The Earth pulled it down.",
+        "Gravity pulled it down the slope.",
+        "It was going downhill more steeply."
+       ]
+      }
+     ],
+     "parent": "Gravity, the pull of the Earth, speeds the ball up as it rolls down. On a steeper ramp it speeds the ball up more. The cloth then slows it down. So one force sped it up and another slowed it.",
+     "check": {
+      "t": "mcq",
+      "q": "Nobody pushed the ball, but it went faster down the ramp. What pulled it?",
+      "options": [
+       "Gravity, the pull of the Earth",
+       "The cloth",
+       "Nothing pulled it"
+      ],
+      "a": 0,
+      "why": "Gravity pulls everything down. On a slope, it pulls the ball down the slope and speeds it up. The cloth did the opposite: it slowed the ball down."
+     }
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Foil Shapes: squash, bend, twist and stretch",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you change the shape of kitchen foil and a rubber band with your hands. You find out which new shapes stay and which spring back.",
+   "materials": [
+    {
+     "item": "a sheet of kitchen foil about the size of a notebook page, or a sheet of newspaper",
+     "qty": 1
+    },
+    {
+     "item": "a hair rubber band",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper with two columns: STAYS and SPRINGS BACK",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Squash, bend, twist and stretch foil and a rubber band, and sort the changes."
+    }
+   ],
+   "record": "Draw your foil shape. Write or draw each change in the STAYS or SPRINGS BACK column.",
+   "setup": [
+    {
+     "art": "A child's hands squashing a sheet of kitchen foil into a ball on a table.",
+     "caption": "1. Squash the foil into a ball."
+    },
+    {
+     "art": "A long foil snake bent into an S shape, and another foil snake twisted like a rope.",
+     "caption": "2. Roll it into a snake. Bend it. Twist it."
+    },
+    {
+     "art": "Two fingers stretching a hair rubber band, and the same band back to its small size beside them.",
+     "caption": "3. Stretch a rubber band, then let go."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Give your child the foil. 2. Ask them to squash it into a ball. 3. Then ask them to open their hands and look.",
+     "say": "Squash the foil into a ball with both hands. Your hands are pushing. Now open your hands. Is it still a ball?",
+     "kid": "Squash the foil into a ball. Now open your hands. Is it still a ball?"
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Your child rolls the foil ball into a long snake on the table. 2. Then they bend the snake into an S. 3. Then they twist it like a rope.",
+     "say": "Roll it into a snake. Now bend it. Now twist it, one end one way and the other end the other way. Does each new shape stay?",
+     "kid": "Roll a snake. Bend it. Twist it. Does each shape stay?"
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Your child stretches the rubber band between two fingers. 2. Then lets one end go gently, pointing it at nobody.",
+     "say": "Stretch the band. That is a pull. Now let it go. What happens to its shape?",
+     "kid": "Stretch the band. Let go gently. What happens?",
+     "parent": "Point the band away from faces when letting go."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Your child writes or draws each change in the STAYS or SPRINGS BACK column.",
+     "say": "Which shapes stayed? Which sprang back? Why do you think they are different?",
+     "kid": "Which shapes stayed? Which sprang back?",
+     "ask": [
+      {
+       "q": "What changed the shape each time?",
+       "good": [
+        "My hands pushed it.",
+        "I pulled it.",
+        "A push or a pull."
+       ]
+      }
+     ],
+     "parent": "Foil keeps its new shape. The rubber band springs back. Both changed shape because of a push or a pull."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Bottle Squeeze: cap on or cap off?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you squeeze an empty plastic bottle, first with its cap off and then with its cap on. You find out which one is harder to squash, and which springs back.",
+   "materials": [
+    {
+     "item": "an empty thin plastic water bottle, with its cap",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Squeeze an empty bottle with the cap off, then with the cap on, and compare."
+    }
+   ],
+   "record": "Draw the bottle with the cap off and with the cap on, while you squeeze it. Write which was harder.",
+   "setup": [
+    {
+     "art": "A child squeezing an open empty plastic bottle near their cheek, with little lines showing air rushing out of the neck.",
+     "caption": "1. Cap off: squeeze the bottle near your cheek."
+    },
+    {
+     "art": "A child squeezing the same bottle with its cap screwed on, and the bottle hardly dented.",
+     "caption": "2. Cap on: squeeze the bottle again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Take the cap off. 2. Your child holds the neck near their cheek and squeezes the bottle hard. 3. Then lets go.",
+     "say": "Squeeze the bottle with the cap off. What do you feel on your cheek? Now let go. Does it go back?",
+     "kid": "Cap off. Squeeze near your cheek. What do you feel?",
+     "parent": "Air rushes out of the neck onto the cheek. When your child lets go, the bottle may stay dented, or come back slowly with a crackle as air goes back in."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Put some air back in by pulling the bottle to its old shape. 2. Screw the cap on tight. 3. Your child squeezes as hard as before.",
+     "say": "Now the cap is on. Squeeze as hard as before. Is it easier or harder? Let go. What happens?",
+     "kid": "Cap on. Squeeze hard again. Easier or harder?",
+     "ask": [
+      {
+       "q": "Why is it harder with the cap on?",
+       "good": [
+        "The air cannot get out.",
+        "The air inside pushes back.",
+        "It is full of air."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about what your child felt.",
+     "say": "With the cap on, the air was trapped inside. Your squeeze pushed on the air, and the air pushed back. Which bottle sprang back to its shape?",
+     "kid": "The air was trapped. It pushed back. Which bottle sprang back?",
+     "parent": "With the cap on, the squeezed air pushes outwards on the plastic, so the bottle springs back at once. Air is invisible, but it can push."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Bounce Off the Wall: which way does the ball go?",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you roll a ball at a wall, first straight on and then at a slant. You watch which way the wall sends it.",
+   "materials": [
+    {
+     "item": "a rubber ball or a tennis ball",
+     "qty": 1
+    },
+    {
+     "item": "a smooth floor next to a plain wall, with nothing breakable nearby",
+     "qty": 1
+    },
+    {
+     "item": "paper slips and cellotape, to mark the paths on the floor",
+     "qty": 6
+    },
+    {
+     "item": "a steel tumbler lying on its side, as a target",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Roll a ball at a wall straight on and at a slant, mark the paths, then try to hit a target by bouncing off the wall."
+    }
+   ],
+   "record": "Draw the wall from above. Draw arrows for the ball's path before and after it hit the wall.",
+   "setup": [
+    {
+     "art": "A top view of a child rolling a ball straight at a wall, with an arrow going to the wall and an arrow coming straight back.",
+     "caption": "1. Roll the ball straight at the wall."
+    },
+    {
+     "art": "A top view of a ball rolled at a slant towards a wall, bouncing off at a slant the other way, with paper slips taped along both paths.",
+     "caption": "2. Roll it at a slant. Mark where it goes."
+    },
+    {
+     "art": "A steel tumbler lying on its side on the floor, and a ball bouncing off the wall at a slant and rolling into it.",
+     "caption": "3. Bounce the ball off the wall into the tumbler."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Your child sits about two big steps from the wall. 2. They roll the ball straight at the wall. 3. Watch where it comes back.",
+     "say": "Roll the ball straight at the wall. Where does it go after it hits?",
+     "kid": "Roll the ball straight at the wall. Where does it go?"
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Your child moves to one side and rolls the ball at a slant. 2. Before rolling, ask where it will go after it hits. 3. Mark the path in and the path out with paper slips. 4. Try three times.",
+     "say": "Now roll it at a slant. Where will it go after it hits the wall? Show me with your arm. Why do you think so?",
+     "kid": "Roll it at a slant. Where will it go after? Show with your arm.",
+     "ask": [
+      {
+       "q": "Which way did the ball go after the wall?",
+       "good": [
+        "It went off to the other side.",
+        "It came out at a slant the other way.",
+        "It did not come back to me."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Put the tumbler on its side, a little away from the wall. 2. Your child tries to bounce the ball off the wall so it rolls into the tumbler. 3. Count the tries it takes.",
+     "say": "Can you get the ball into the tumbler by bouncing it off the wall? Where on the wall should you aim?",
+     "kid": "Bounce the ball off the wall into the tumbler. Where will you aim?",
+     "parent": "A ball that hits the wall at a slant comes off at about the same slant the other way. Spin and bumps on the floor change it a little, so it takes a few tries."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Talk about it.",
+     "say": "The wall did not move. But the ball changed direction. What pushed the ball?",
+     "kid": "The wall did not move. What pushed the ball?",
+     "parent": "The wall pushed the ball. A wall pushes back on anything that pushes it."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Change Spotter: a tally from the window and the kitchen",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you watch from a window and in the kitchen for 10 minutes. You make a tally of every change of shape, speed or direction you see.",
+   "materials": [
+    {
+     "item": "a sheet of paper with three columns: SHAPE, SPEED, DIRECTION",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Watch from a window and in the kitchen, and tally the changes."
+    }
+   ],
+   "record": "Your tally chart, with the column that has the most marks circled.",
+   "setup": [
+    {
+     "art": "A child at a window looking down at a street with an auto-rickshaw turning, a bus stopping and a crow landing on a wire.",
+     "caption": "1. Watch from a window for 5 minutes."
+    },
+    {
+     "art": "A child in a kitchen watching a grown-up press dough flat and squeeze a lemon over a bowl.",
+     "caption": "2. Watch in the kitchen for 5 minutes."
+    },
+    {
+     "art": "A tally chart with three columns, SHAPE, SPEED and DIRECTION, with tally marks in groups of five.",
+     "caption": "3. Make a tally mark for each change you see."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Stand at a window with the tally sheet. 2. For every change your child sees, they make a tally mark in the right column.",
+     "say": "Watch the road. A bus slowing down is a change of speed. A scooter turning is a change of direction. Make a mark for each one.",
+     "kid": "Watch the road. Make a mark for every change you see.",
+     "parent": "Crows and pigeons landing count as speed changes. A bird swooping round counts as direction."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Go to the kitchen. 2. Your child watches someone cook, or presses dough, squeezes a lemon or folds a cloth themself. 3. Add tally marks.",
+     "say": "In the kitchen, look for changes of shape. Kneading dough, squeezing a lemon, folding a cloth. Make a mark for each.",
+     "kid": "Look for changes of shape in the kitchen. Make a mark for each."
+    },
+    {
+     "id": "s3",
+     "mins": 1,
+     "do": "Count each column.",
+     "say": "Which column has the most marks? What pushed or pulled each thing?",
+     "kid": "Count each column. Which has the most?"
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Shape, Speed or Direction?",
+   "mins": 15,
+   "players": "2 to 4 players",
+   "context": "This is a card game about the three things a force can change. Each card tells of something happening. Players show with their hands what the force changed.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "18 cards to cut out, with the answer on the back",
+     "items": [
+      {
+       "f": "Amma rolls a ball of dough into a flat roti.",
+       "b": "Shape. The rolling pin pushes the dough flat."
+      },
+      {
+       "f": "A bus pulls away from the stop and goes faster and faster.",
+       "b": "Speed. The engine turns the wheels, and the wheels push on the road."
+      },
+      {
+       "f": "A cricket ball hits the bat and flies back the way it came.",
+       "b": "Direction. The bat pushes the ball back."
+      },
+      {
+       "f": "You squeeze half a lemon over your rasam.",
+       "b": "Shape. Your squeeze squashes the lemon and pushes out the juice."
+      },
+      {
+       "f": "A cyclist squeezes the brakes before the signal.",
+       "b": "Speed. The brakes rub the wheels, and the cycle slows down."
+      },
+      {
+       "f": "An auto-rickshaw turns left at the corner.",
+       "b": "Direction. The turned front wheel pushes on the road, and the road pushes the auto round."
+      },
+      {
+       "f": "A football rolls onto a rug and slows down.",
+       "b": "Speed. The rug rubs against the ball and slows it."
+      },
+      {
+       "f": "A girl jumps on a mattress, and it sinks under her feet.",
+       "b": "Shape. Her feet push the mattress down. It springs back when she gets off."
+      },
+      {
+       "f": "A kite on Uttarayan in Ahmedabad suddenly swoops to one side.",
+       "b": "Direction. The wind and the pull of the string turn the kite."
+      },
+      {
+       "f": "A carrom striker hits the side of the board and comes back.",
+       "b": "Direction. The wooden frame pushes the striker back."
+      },
+      {
+       "f": "A boat on the Kerala backwaters is rowed harder and goes faster.",
+       "b": "Speed. The oars push the water back, and the water pushes the boat forward."
+      },
+      {
+       "f": "You stretch a hair rubber band round your fingers.",
+       "b": "Shape. Your pull makes the band longer. It springs back when you let go."
+      },
+      {
+       "f": "A ball rolls down a slide and goes faster and faster.",
+       "b": "Speed. Gravity pulls the ball down the slope."
+      },
+      {
+       "f": "A potter in Khurja presses wet clay on a wheel to make a pot.",
+       "b": "Shape. The potter's hands push the clay into a new shape that stays."
+      },
+      {
+       "f": "A crow flying straight turns sharply to land on a wire.",
+       "b": "Direction. The crow pushes the air with their wings and tail to turn."
+      },
+      {
+       "f": "You crumple a sheet of paper into a ball.",
+       "b": "Shape. Your hands push the paper in from all sides."
+      },
+      {
+       "f": "A train slows down as it comes into Howrah station.",
+       "b": "Speed. The brakes slow the train down."
+      },
+      {
+       "f": "A kabaddi player swerves away from the players chasing her.",
+       "b": "Direction. She pushes her foot sideways on the ground, and the ground pushes her the other way."
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "Learn the three hand signs. Shape: squeeze your two fists together. Speed: roll your hands fast round each other. Direction: point one arm and swing it sideways.",
+    "Mix the cards and put them in a pile, words up.",
+    "One player reads the top card aloud.",
+    "On the count of three, everyone shows a hand sign at the same time.",
+    "Turn the card over and read the back aloud. Everyone with the right sign gets one point.",
+    "The reader then says what pushed or pulled. If they get it right, they get one more point.",
+    "Take turns reading. When the pile is finished, the player with the most points wins."
+   ],
+   "setup": [
+    {
+     "art": "Eighteen small cards cut from paper in a pile, words up, on a mat between a girl and her mother.",
+     "caption": "1. Cut out the cards and put them in a pile."
+    },
+    {
+     "art": "Three drawings of hand signs: two fists squeezed together, two hands rolling round each other, and one arm pointing and swinging sideways.",
+     "caption": "2. Learn the three hand signs."
+    },
+    {
+     "art": "A girl and her mother both showing the rolling-hands sign while the mother holds up a card about a bus.",
+     "caption": "3. Read a card, count to three, and show your sign."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Cut out the cards. Show the three hand signs and practise them once.",
+     "say": "Squeezed fists mean shape. Rolling hands mean speed. A swinging arm means direction.",
+     "kid": "Fists for shape. Rolling hands for speed. Swinging arm for direction."
+    },
+    {
+     "id": "s2",
+     "mins": 11,
+     "do": "Play by the rules. Take turns reading. After each card, ask what did the pushing or pulling.",
+     "say": "One, two, three, show! Now turn it over. What pushed or pulled here?",
+     "kid": "Read the card. Count to three. Show your sign.",
+     "parent": "Some cards change two things. The bat also changes the ball's speed. Give a point for any answer your child can explain."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Count the points. Ask one last question.",
+     "say": "Which card was the hardest? Can you think of a new card of your own?",
+     "kid": "Which card was hardest? Make up a new card.",
+     "check": {
+      "t": "mcq",
+      "q": "A scooter turns right at a corner. What did the force change?",
+      "options": [
+       "Its direction",
+       "Its shape",
+       "Nothing"
+      ],
+      "a": 0,
+      "why": "Turning is a change of direction. If you picked shape, look at the scooter: it is the same shape. Only the way it goes has changed."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Ball Hockey Round the Corner",
+   "mins": 15,
+   "players": "2 players or more, taking turns",
+   "context": "This is a floor game. You steer a ball round a corner into a goal, using only gentle pushes from a rolled newspaper. The player who uses the fewest pushes wins.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "6 course cards, one for each round",
+     "items": [
+      "Course 1: The goal is straight ahead, 3 big steps away. No walls.",
+      "Course 2: Put one book standing up halfway. Go round it to reach the goal.",
+      "Course 3: The goal is round a corner, behind a pillow. Turn once.",
+      "Course 4: Two books standing up, one on each side of the path. Go between them, then turn to the goal.",
+      "Course 5: The goal is behind you. Start the ball going away from it, then turn it all the way back.",
+      "Course 6: Make your own course with up to 3 books and a pillow. Your partner plays it first."
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Course | Player 1: number of pushes | Player 2: number of pushes",
+      "Course 1 | |",
+      "Course 2 | |",
+      "Course 3 | |",
+      "Course 4 | |",
+      "Course 5 | |",
+      "Course 6 | |",
+      "Total | |"
+     ]
+    }
+   ],
+   "rules": [
+    "Roll a sheet of newspaper into a tight stick and tape it. This is your hockey stick.",
+    "Make the goal with two chappals on the floor, a hand-span apart.",
+    "Pick a course card and set it up.",
+    "Put the ball on the start line. Move it only with gentle pushes from the stick, never with your hands or feet.",
+    "Count every push. If the ball goes off the course, put it back where it left and add one push.",
+    "When the ball goes through the goal, write your number of pushes on the score sheet.",
+    "Both players play each course. After all six courses, the player with the fewest pushes in total wins."
+   ],
+   "setup": [
+    {
+     "art": "A tightly rolled newspaper stick held with tape, and two chappals on the floor a hand-span apart as a goal.",
+     "caption": "1. Make a newspaper stick and a chappal goal."
+    },
+    {
+     "art": "A floor course with a pillow on the floor and a chappal goal behind it, and a ball at the start line.",
+     "caption": "2. Set up a course from a course card."
+    },
+    {
+     "art": "A child pushing a rolling ball gently from the side with a newspaper stick, with a curved arrow showing the ball turning towards the goal.",
+     "caption": "3. Push the ball from the side to turn it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Make the stick and the goal. Set up Course 1.",
+     "say": "You can only push the ball with the stick. Where will you push it to make it go faster? To slow it down? To turn it?",
+     "kid": "Push only with the stick. Where do you push to turn the ball?",
+     "ask": [
+      {
+       "q": "Where should you push to turn the ball?",
+       "good": [
+        "From the side.",
+        "On the left side, to make it go right.",
+        "Not from behind."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play the courses by the rules. Write the pushes on the score sheet.",
+     "say": "Count your pushes out loud. Which push made the ball turn?",
+     "kid": "Play the course. Count your pushes out loud.",
+     "parent": "Gentle pushes work best. A push from behind speeds the ball up, from the front slows it, and from the side turns it."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Add up the scores and talk about it.",
+     "say": "Which course needed the most pushes? Why was it hard?",
+     "kid": "Add up your pushes. Which course was hardest?",
+     "check": {
+      "t": "mcq",
+      "q": "A ball is rolling towards the goal but will miss it on the left. Where should you push it?",
+      "options": [
+       "From its left side, to send it right",
+       "From behind, to make it faster",
+       "From the front, to stop it"
+      ],
+      "a": 0,
+      "why": "A push from the side turns the ball. Pushing on its left side sends it to the right. A push from behind only makes it faster, so it misses by more."
+     }
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "My Force Book: shape, speed and direction",
+   "mins": 30,
+   "days": 3,
+   "context": "In this project you make a small book with three pages: shape, speed and direction. Each day you find, try and draw one kind of change.",
+   "materials": [
+    {
+     "item": "2 sheets of paper folded in half and stapled or stitched into a small book",
+     "qty": 2
+    },
+    {
+     "item": "crayons or sketch pens",
+     "qty": 1
+    },
+    {
+     "item": "a ball, some foil or dough, and a rolled newspaper stick, from the earlier tests",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Make the book. Shape page: change the shape of three things and draw them before and after."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Speed page: make a ball speed up and slow down, and draw the push with an arrow."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Direction page: turn a ball three ways, and draw each path with arrows. Read the book to someone."
+    }
+   ],
+   "record": "The finished book, with a before and after drawing on the shape page and arrows on the speed and direction pages.",
+   "setup": [
+    {
+     "art": "Two sheets of paper folded in half and stapled into a small book, with the cover reading MY FORCE BOOK.",
+     "caption": "1. Fold and staple a small book."
+    },
+    {
+     "art": "An open book page headed SHAPE with three before and after drawings: a ball of foil, a roti, a squeezed sponge.",
+     "caption": "2. Day 1: draw shape changes, before and after."
+    },
+    {
+     "art": "An open book page headed DIRECTION with a ball drawn with curved arrows bouncing off a wall and turning round a book.",
+     "caption": "3. Day 3: draw direction changes with arrows."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Fold and staple the book. 2. Your child writes MY FORCE BOOK on the cover. 3. On the SHAPE page, they change three things and draw each one before and after.",
+     "say": "Find three things you can change the shape of. Draw each one before you change it, and after.",
+     "kid": "Change the shape of three things. Draw before and after."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "wait": "Day 2",
+     "do": "1. On the SPEED page, your child rolls a ball. 2. They make it faster with a push from behind. 3. Then they make it slower with a push from the front. 4. They draw both pushes with arrows.",
+     "say": "Make the ball go faster. Now make it slower. Draw an arrow to show where you pushed each time.",
+     "kid": "Make the ball faster, then slower. Draw arrows for your pushes."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "wait": "Day 3",
+     "do": "1. On the DIRECTION page, your child turns a ball three ways: with a side push, off a wall, and round a curve. 2. They draw each path with arrows. 3. They read the whole book to someone.",
+     "say": "Turn the ball three different ways. Draw each path. Then read your book to someone, and tell them what pushed each time.",
+     "kid": "Turn the ball three ways. Draw each path. Read your book to someone.",
+     "ask": [
+      {
+       "q": "What is the same about every page of your book?",
+       "good": [
+        "A push or a pull made every change.",
+        "There is a force on every page.",
+        "Something pushed each thing."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Round the Bend: get the ball into the tumbler",
+   "mins": 20,
+   "context": "This is a design challenge. A steel tumbler lies on its side behind a book, so a ball cannot roll straight in. Your job is to build walls that turn the ball into the tumbler.",
+   "problem": "Can you build walls from card and books that turn a rolling ball round the book and into the tumbler?",
+   "constraints": [
+    "You give the ball one push at the start, and then you may not touch it.",
+    "Use only card strips, books, tumblers and tape.",
+    "The ball must end up inside the tumbler."
+   ],
+   "materials": [
+    "a ball or a marble",
+    "a steel tumbler lying on its side",
+    "a big book standing up, to block the straight path",
+    "strips of card from an old box",
+    "small books and tumblers to hold walls up",
+    "cellotape"
+   ],
+   "general": [
+    "Make a curved card wall, like the Bend Wall, that turns the ball round the book.",
+    "Stand a flat book at a slant, so the ball bounces off it towards the tumbler, like the striker bouncing off a carrom frame.",
+    "Use two straight walls that meet at a corner, so the ball bounces twice."
+   ],
+   "creative": [
+    "Add a ramp at the start, so gravity gives the ball its speed instead of your push.",
+    "Make the course turn the ball all the way round in a half circle and come back to you."
+   ],
+   "your_turn": "Build your own walls. If the ball misses, watch where it goes straight after the last wall. Move that wall, and try again.",
+   "setup": [
+    {
+     "art": "A top view of a steel tumbler lying on its side, with a big book standing up in front of it blocking the straight path from a start line.",
+     "caption": "1. Put a book between the start and the tumbler."
+    },
+    {
+     "art": "A curved card wall held up with small books, guiding a ball round the big book and into the tumbler.",
+     "caption": "2. Build walls to turn the ball."
+    },
+    {
+     "art": "A child giving the ball one push and watching it follow the curved wall into the tumbler.",
+     "caption": "3. Give one push, then hands off."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Set up the tumbler, the book and the start line. Read the challenge together.",
+     "say": "The book is in the way, so the ball cannot go straight. How can you make it turn without touching it?",
+     "kid": "The book is in the way. How can walls turn the ball?"
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Your child builds walls and tests them. Help hold walls while they tape.",
+     "say": "Try it. Where did the ball go after your last wall? What will you change?",
+     "kid": "Build your walls. Push once. Where did the ball go?",
+     "parent": "When the ball misses, it goes straight on after the last wall. Ask your child to move that wall so the straight path points at the tumbler."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Talk about what worked.",
+     "say": "Which wall did the turning? What did each wall do to the ball?",
+     "kid": "Which wall turned the ball? What did it do?",
+     "check": {
+      "t": "mcq",
+      "q": "The ball leaves the last wall and misses the tumbler. Which way did it go after the wall?",
+      "options": [
+       "Straight on, the way it was going",
+       "It kept curving round",
+       "It turned back by itself"
+      ],
+      "a": 0,
+      "why": "After the last wall, nothing pushes the ball sideways, so it goes straight. Move the last wall so that its straight path points into the tumbler."
+     }
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "What a Force Can Do (core)",
+   "tier": "core",
+   "mins": 15,
+   "items": [
+    {
+     "t": "match",
+     "p": "Draw a line from each thing that happens to what the force changed.",
+     "pairs": [
+      [
+       "You flatten a ball of dough",
+       "shape"
+      ],
+      [
+       "A cycle goes faster downhill",
+       "speed"
+      ],
+      [
+       "A ball bounces off a wall at a slant",
+       "direction"
+      ],
+      [
+       "You stretch a rubber band",
+       "shape"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Flattening and stretching change a thing's shape. Going faster is a change of speed. Bouncing off at a slant is a change of direction.",
+     "art": "Four small pictures on the left (dough, cycle on a hill, ball at a wall, rubber band) and three words on the right: shape, speed, direction."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Bend Wall test, the marble rolled round a curved card wall. Which way did it go when the wall ended?",
+     "opts": [
+      "Straight on",
+      "It kept curving round",
+      "It rolled back to the start"
+     ],
+     "a": 0,
+     "why": "When the wall ended, nothing pushed the marble sideways any more, so it went straight on.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Bend Wall from above. Draw the marble's path with an arrow, from the start mark to after the wall ends.",
+     "a": "A curved wall, a curved arrow following the inside of the wall, and then a straight arrow leaving the end of the wall.",
+     "why": "A strong drawing shows the path curving only while the wall pushes it, and going straight once the wall ends.",
+     "how": "e1",
+     "art": "An empty box with a faint half-circle wall drawn in it and a dot for the start mark."
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: a push can change the shape of a thing.",
+     "a": true,
+     "why": "True. When you squash foil or flatten dough, your push changes its shape."
+    },
+    {
+     "t": "sort",
+     "p": "Remember Foil Shapes. Sort these into STAYS and SPRINGS BACK.",
+     "cats": [
+      "Stays",
+      "Springs back"
+     ],
+     "items": [
+      [
+       "crumpled foil",
+       "Stays"
+      ],
+      [
+       "a stretched rubber band",
+       "Springs back"
+      ],
+      [
+       "a squeezed sponge",
+       "Springs back"
+      ],
+      [
+       "dough pressed flat",
+       "Stays"
+      ]
+     ],
+     "a": "see items",
+     "why": "Foil and dough keep their new shape. A rubber band and a sponge go back to their old shape when you let go.",
+     "how": "a1"
+    },
+    {
+     "t": "fill",
+     "p": "A push or a pull is called a ___.",
+     "a": "force",
+     "why": "Pushes and pulls are both forces."
+    },
+    {
+     "t": "write",
+     "p": "Say out loud, and a grown-up writes it down: in the Ramp Race, which ramp sent the ball furthest, and why?",
+     "lines": 2,
+     "a": "The ramp on 3 books. It was the steepest, so gravity made the ball go fastest.",
+     "why": "A strong answer names the steepest ramp and says that the pull of the Earth sped the ball up more on it.",
+     "how": "e2"
+    },
+    {
+     "t": "count",
+     "p": "In the Ramp Race, the ball rolled 3 hand-spans from 1 book and 7 hand-spans from 3 books. How many more hand-spans did it roll from 3 books?",
+     "a": 4,
+     "why": "From 3 up to 7 is 4 more: 4, 5, 6, 7.",
+     "how": "e2"
+    },
+    {
+     "t": "label",
+     "p": "Label the picture of the Ramp Race: ramp, books, ball, cloth.",
+     "labels": [
+      "ramp",
+      "books",
+      "ball",
+      "cloth"
+     ],
+     "a": [
+      "ramp: the board the ball rolls down",
+      "books: under the high end of the ramp",
+      "ball: at the top of the ramp",
+      "cloth: at the bottom, where the ball stops"
+     ],
+     "why": "Knowing each part helps you explain the test to someone else. A strong answer puts each label on the right part.",
+     "how": "e2",
+     "art": "A board propped on a pile of books with a ball at the top and a cloth at the bottom, and four empty label lines."
+    },
+    {
+     "t": "odd",
+     "p": "Which one is the odd one out? A car turning a corner, a ball bouncing off a wall, a balloon being squashed, a kite swooping sideways.",
+     "opts": [
+      "A car turning a corner",
+      "A ball bouncing off a wall",
+      "A balloon being squashed",
+      "A kite swooping sideways"
+     ],
+     "a": 2,
+     "why": "The balloon changes shape. The other three change direction."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Turning, Speeding and Squashing (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "perspective",
+     "p": "Three friends are talking about the Bend Wall test, where a marble rolled round a curved card wall.",
+     "views": [
+      {
+       "who": "Meenakshi",
+       "says": "The marble did not get faster or slower going round. So turning needs no force."
+      },
+      {
+       "who": "Farida",
+       "says": "The wall pushed the marble sideways all the way round. That push made it turn."
+      },
+      {
+       "who": "Joseph",
+       "says": "The marble pushed the wall. I felt it knock on my finger. So the marble did the pushing, not the wall."
+      }
+     ],
+     "ask": "Who do you agree with? Give one reason from the test. Then say one thing another friend has right.",
+     "lines": 4,
+     "a": "A strong answer agrees with Farida, because the marble went straight as soon as the wall ended. Meenakshi is right that the speed hardly changed, but the direction did. Joseph is right that the marble pushed the wall too: when two things push, each pushes the other.",
+     "why": "Turning is a change of direction, so it needs a force. Joseph's point is true as well: the wall and the marble push on each other at the same time.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Nila, a girl in Class 2, lets the same ball roll down a ramp on 2 books, then on 4 books. Which ball will roll further across the floor?",
+     "opts": [
+      "The one from 4 books",
+      "The one from 2 books",
+      "They will roll the same"
+     ],
+     "a": 0,
+     "why": "A steeper ramp lets gravity speed the ball up more, so it rolls further.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "In the Ramp Race, why did we let the ball go from the same top mark every time, and never push it?",
+     "lines": 2,
+     "a": "So that only the height of the ramp changed. A push would give some balls extra speed, and the test would not be fair.",
+     "why": "A strong answer says that a fair test changes only one thing.",
+     "how": "e2"
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the Bend Wall test in order.",
+     "items": [
+      "Push the marble gently along the wall.",
+      "Guess which path the marble will take.",
+      "Stand the card wall up in a half circle.",
+      "Mark where the marble goes after the wall ends."
+     ],
+     "a": [
+      "Stand the card wall up in a half circle.",
+      "Guess which path the marble will take.",
+      "Push the marble gently along the wall.",
+      "Mark where the marble goes after the wall ends."
+     ],
+     "why": "You build the wall first, then guess before you test, so the test can show if your guess was right.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: if a ball keeps the same speed, nothing needs to push it to make it go round a bend.",
+     "a": false,
+     "why": "False. Going round a bend changes the ball's direction. Something must push it sideways all the way round, like the card wall or the rim of a plate."
+    },
+    {
+     "t": "draw",
+     "p": "A ball is rolled at a slant towards a wall. Draw where it goes after it bounces.",
+     "a": "An arrow going to the wall at a slant, and an arrow coming away from the wall at a slant the other way.",
+     "why": "A strong drawing shows the ball bouncing off at about the same slant, on the other side.",
+     "how": "a3",
+     "art": "An empty box with a thick line along the top for the wall and a ball near the bottom left corner."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Bottle Squeeze, why was the bottle with its cap on hard to squash, and why did it spring back?",
+     "opts": [
+      "The trapped air inside pushed back",
+      "The cap made the bottle heavy",
+      "The plastic gets stronger when the cap is on"
+     ],
+     "a": 0,
+     "why": "With the cap on, air cannot escape. When you squeeze, the air pushes back on the plastic and pushes the bottle back into shape.",
+     "how": "a2"
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each action to the word for the shape change.",
+     "pairs": [
+      [
+       "wringing a wet towel",
+       "twist"
+      ],
+      [
+       "sitting on a cushion",
+       "squash"
+      ],
+      [
+       "pulling a rubber band",
+       "stretch"
+      ],
+      [
+       "folding a paper boat",
+       "bend"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Wringing turns the ends opposite ways, which is a twist. Sitting squashes. Pulling stretches. Folding bends.",
+     "art": "Four small pictures on the left and the words twist, squash, stretch and bend on the right."
+    },
+    {
+     "t": "label",
+     "p": "Label the Bend Wall picture: card wall, marble, start mark, end of the wall, straight path.",
+     "labels": [
+      "card wall",
+      "marble",
+      "start mark",
+      "end of the wall",
+      "straight path"
+     ],
+     "a": [
+      "card wall: the curved strip",
+      "marble: on the inside of the wall",
+      "start mark: at one end of the wall",
+      "end of the wall: where the curve stops",
+      "straight path: the dotted line after the end"
+     ],
+     "why": "A strong answer shows that the straight path starts exactly where the wall ends.",
+     "how": "e1",
+     "art": "A top view of a curved card wall with a marble, a dot at one end and a dotted line leaving the other end, and five empty label lines."
+    },
+    {
+     "t": "write",
+     "p": "A girl on a cycle wants to slow down and turn left at the corner. What does she do to slow down? What does she do to turn?",
+     "lines": 3,
+     "a": "She squeezes the brakes to slow down. She turns the handle to the left, so the front wheel pushes on the road and the road pushes the cycle round.",
+     "why": "A strong answer names two different forces: the brakes rubbing the wheels to change the speed, and the road pushing the turned wheel to change the direction."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Force Puzzles (challenge)",
+   "tier": "challenge",
+   "mins": 20,
+   "items": [
+    {
+     "t": "perspective",
+     "p": "Three cousins are talking about the Moon, which goes round the Earth.",
+     "views": [
+      {
+       "who": "Aditi",
+       "says": "The Moon goes round and round by itself. Nothing needs to pull it."
+      },
+      {
+       "who": "Kamala",
+       "says": "The Earth's gravity pulls the Moon all the time, like the card wall pushing the marble round."
+      },
+      {
+       "who": "Rahul",
+       "says": "If the Earth pulls the Moon, the Moon should fall down onto us. It doesn't, so the Earth can't be pulling it."
+      }
+     ],
+     "ask": "Who do you agree with? Use the Bend Wall test in your answer. Then answer back to one of the others.",
+     "lines": 4,
+     "a": "A strong answer agrees with Kamala. The marble only went round while the wall pushed it, and went straight when the push stopped. Without the Earth's pull, the Moon would go off straight too. Rahul asks a good question: the Moon is moving sideways very fast, so the pull bends its path round the Earth instead of pulling it down.",
+     "why": "Anything that goes round a curve needs a force towards the middle. For the Moon, that force is the Earth's gravity. Rahul's puzzle is real, and Isaac Newton answered it: the Moon is always falling towards the Earth, but it is going sideways fast enough to keep missing.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Imagine the rim of the steel plate had a gap cut halfway round. The marble is running round inside. What would it do when it reached the gap? Why?",
+     "lines": 3,
+     "a": "It would roll out through the gap in a straight line, because the rim stops pushing it there.",
+     "why": "A strong answer uses the Bend Wall result: where the wall or rim ends, the push ends, and the marble goes straight on.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "A boy swings a sock tied on a string round and round, then lets go of the string. Which way does the sock fly?",
+     "opts": [
+      "Straight off, the way it was going at that moment",
+      "Round in a circle, as before",
+      "Straight back to his hand"
+     ],
+     "a": 0,
+     "why": "The string was pulling the sock inwards to make it go round. When he lets go, nothing pulls it, so it flies off straight, like the marble leaving the wall."
+    },
+    {
+     "t": "draw",
+     "p": "Design a marble track that makes a marble turn two corners. Draw the walls and the marble's path.",
+     "a": "Two curved or slanted walls, with the path bending at each wall and going straight between them.",
+     "why": "A strong design puts a wall wherever the path must turn, and shows straight paths between the walls.",
+     "art": "An empty box with a START dot in one corner and a FINISH cup in the opposite corner."
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: a hard steel spoon can change shape if the force is big enough.",
+     "a": true,
+     "why": "True. A strong push can bend a steel spoon. Hard things need a much bigger force to change shape than soft ones."
+    },
+    {
+     "t": "sort",
+     "p": "Sort what a cyclist does into SPEEDS UP, SLOWS DOWN and TURNS.",
+     "cats": [
+      "Speeds up",
+      "Slows down",
+      "Turns"
+     ],
+     "items": [
+      [
+       "pedals harder",
+       "Speeds up"
+      ],
+      [
+       "squeezes the brakes",
+       "Slows down"
+      ],
+      [
+       "turns the handle",
+       "Turns"
+      ],
+      [
+       "rolls down a hill",
+       "Speeds up"
+      ],
+      [
+       "rides up a hill without pedalling harder",
+       "Slows down"
+      ]
+     ],
+     "a": "see items",
+     "why": "Pedalling and going downhill give a push or pull forwards. Brakes and going uphill work against the motion. Turning the handle makes the road push the wheel sideways."
+    },
+    {
+     "t": "count",
+     "p": "In the Ramp Race from 2 books, the ball rolled 5, 6 and 5 hand-spans. Which number came up most often?",
+     "a": 5,
+     "why": "5 came up twice and 6 only once. Trying three times shows us the usual result, even if one try is a little different.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this unit shows what really happens? What does it show?",
+     "lines": 3,
+     "a": "The Bend Wall test. When the wall ended, the marble went straight on. It does not keep curving.",
+     "why": "A strong answer names the test and the evidence, and says that the ball goes straight once nothing pushes it sideways.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these needs a force: a ball speeding up, a ball slowing down, or a ball turning?",
+     "opts": [
+      "Only speeding up",
+      "Speeding up and slowing down, but not turning",
+      "All three"
+     ],
+     "a": 2,
+     "why": "Speeding up, slowing down and turning are all changes in how a thing moves. Every change needs a push or a pull."
+    },
+    {
+     "t": "label",
+     "p": "On each picture, draw an arrow where the push is: a hand squeezing a lemon, a rolling pin flattening dough, a wall turning a ball.",
+     "labels": [
+      "the hand on the lemon",
+      "the rolling pin on the dough",
+      "the wall on the ball"
+     ],
+     "a": [
+      "arrow from the fingers into the lemon",
+      "arrow from the rolling pin down into the dough",
+      "arrow from the wall into the ball, pointing away from the wall"
+     ],
+     "why": "A strong answer shows each push going from the thing that pushes into the thing that changes.",
+     "art": "Three empty boxes: a hand holding half a lemon, a rolling pin on dough, and a ball touching a wall."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is a force?",
+   "opts": [
+    "A push or a pull",
+    "A kind of ball",
+    "How fast a thing goes"
+   ],
+   "a": 0,
+   "why": "A force is a push or a pull. Speed is how fast a thing goes.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You crumple a sheet of foil into a ball. What did your push change?",
+   "opts": [
+    "Its shape",
+    "Its colour",
+    "Nothing"
+   ],
+   "a": 0,
+   "why": "Your hands squashed the foil, so its shape changed.",
+   "outcome": 1,
+   "how": "a1"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these goes back to its old shape when you let go?",
+   "opts": [
+    "A stretched rubber band",
+    "Crumpled foil",
+    "Dough pressed flat"
+   ],
+   "a": 0,
+   "why": "A rubber band springs back. Foil and dough keep their new shape.",
+   "outcome": 1,
+   "how": "a1"
+  },
+  {
+   "t": "mcq",
+   "p": "The same ball is let go on a ramp on 1 book and on a ramp on 3 books. Which rolls further?",
+   "opts": [
+    "The ball from 3 books",
+    "The ball from 1 book",
+    "Both the same"
+   ],
+   "a": 0,
+   "why": "The steeper ramp lets gravity speed the ball up more, so it rolls further.",
+   "outcome": 2,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "What makes a ball speed up as it rolls down a ramp?",
+   "opts": [
+    "Gravity, the pull of the Earth",
+    "The cloth at the bottom",
+    "The air"
+   ],
+   "a": 0,
+   "why": "Gravity pulls the ball down the slope. The cloth slows it down.",
+   "outcome": 2,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "A ball is rolling across the floor. You push it gently from its side. What happens?",
+   "opts": [
+    "It turns",
+    "It goes faster in the same direction",
+    "It changes shape"
+   ],
+   "a": 0,
+   "why": "A push from the side changes the ball's direction.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You roll a ball straight at a wall. What does it do after it hits?",
+   "opts": [
+    "It comes back towards you",
+    "It goes through the wall",
+    "It goes off to the side"
+   ],
+   "a": 0,
+   "why": "The wall pushes the ball back the way it came.",
+   "outcome": 3,
+   "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "A marble rolls round the inside of the rim of a steel plate. What keeps it going round?",
+   "opts": [
+    "The rim pushes it inwards all the time",
+    "The marble likes going round",
+    "The plate is heavy"
+   ],
+   "a": 0,
+   "why": "The rim pushes the marble inwards at every moment. That push bends its path into a circle.",
+   "outcome": 4,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "A marble is running round a curved card wall. The wall ends. What happens next?",
+   "opts": [
+    "It goes straight on",
+    "It keeps curving round",
+    "It stops dead"
+   ],
+   "a": 0,
+   "why": "Nothing pushes the marble sideways after the wall ends, so it goes straight on.",
+   "outcome": 4,
+   "how": "e1"
+  },
+  {
+   "t": "truefalse",
+   "p": "True or false: a bus going round a corner at the same speed needs no force.",
+   "a": false,
+   "why": "False. The bus changes direction, and that needs a force. The road pushes on its turned wheels.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Lakshmi, a girl in Class 2, guessed the marble would keep curving. It went straight. What is the best thing for her to do?",
+   "opts": [
+    "Write down what really happened, and think about why",
+    "Change her guess in the table so it looks right",
+    "Stop doing the test"
+   ],
+   "a": 0,
+   "why": "A wrong guess is useful. Writing what really happened, and thinking about why, is how scientists learn.",
+   "outcome": 5,
+   "how": "e1"
+  }
+ ],
+ "videos": [
+  {
+   "title": "Forces can change shape, speed and direction",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "Shows everyday pushes and pulls changing shape, speed and direction, after your child has tried them at home.",
+   "check": "Find a short, accurate clip for children of 6 to 8. Check that it calls a force a push or a pull, and shows all three changes."
+  },
+  {
+   "title": "A ball leaving a curved track goes straight",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 3,
+   "why": "Shows, in slow motion if possible, a ball leaving a curved track or a circle with a gap and going straight on, to go with the Bend Wall test.",
+   "check": "Find a clip showing a real ball or puck leaving a curved wall. Check that it goes straight on, not in a curve, and that the clip does not talk about a force flinging things outwards."
+  },
+  {
+   "title": "How the Moon stays in its path round the Earth",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "Shows how the Earth's gravity bends the Moon's path, like the wall bending the marble's path.",
+   "check": "Find a simple animation for children. Check that it says the Moon would go off straight without the Earth's pull, and does not say the Moon is held by nothing."
+  }
+ ],
+ "applications": [
+  "Cycles, scooters and buses use brakes to slow down, and turned wheels to change direction.",
+  "Potters, cooks and tailors change the shape of clay, dough and cloth with pushes, pulls and twists.",
+  "On a curve, the rails push a train's wheels sideways, and that push turns the whole train.",
+  "In 2014, ISRO's Mangalyaan fired its engine near Mars to slow down, so that Mars's gravity could bend its path into a loop round Mars. Ritu Karidhal was one of the women scientists who led the mission's work.",
+  "Carrom, cricket and football players aim a ball or striker at a wall, a bat or the ground to change its direction."
+ ],
+ "spotted": [
+  {
+   "text": "An auto-rickshaw at a street corner turns its front wheel, and the road pushes it round the bend.",
+   "art": "An auto-rickshaw turning a corner on a busy street, with a curved arrow showing its path."
+  },
+  {
+   "text": "On a curve, a Mumbai local train leans and you sway to the side. Your body tries to go straight while the train turns.",
+   "art": "Passengers in a Mumbai local train holding the handles and swaying to one side as the train goes round a curve."
+  },
+  {
+   "text": "In a kitchen in Kolkata, a cook presses balls of dough flat to make luchis.",
+   "art": "A woman's hands pressing a small ball of dough flat with a rolling pin on a round board."
+  },
+  {
+   "text": "On Uttarayan in Gujarat, a flier pulls the kite string, and the kite swoops and turns.",
+   "art": "A sky full of colourful kites over the rooftops of Ahmedabad, with a girl on a terrace pulling a kite string."
+  },
+  {
+   "text": "At the Thiruvarur temple car festival in Tamil Nadu, thousands of people pull thick ropes together to start the huge wooden chariot rolling.",
+   "art": "Crowds of people pulling long thick ropes in front of a tall decorated wooden temple chariot."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why does a moving thing keep going in a straight line when nothing pushes it?",
+   "why_open": "Isaac Newton described this rule, and it works everywhere we look. But nobody knows why the world works this way. Some scientists think it may depend on all the matter in the universe."
+  },
+  {
+   "q": "Is gravity a pull, or is it the Earth bending space and time?",
+   "why_open": "Albert Einstein's idea of bent space and time explains gravity very well. But scientists have not yet found how to fit it together with the physics of the tiniest particles."
+  },
+  {
+   "q": "Exactly how much force will make a material crack instead of bend?",
+   "why_open": "Engineers can test materials and make good guesses. But a tiny hidden crack can change the answer, so the exact moment a thing breaks is still hard to predict."
+  }
+ ],
+ "ask_kids": [
+  "What did you change the shape of today?",
+  "When the bus or auto turned a corner, which way did your body sway?",
+  "What made the cycle slow down?",
+  "Can you make a ball turn without touching it with your hands?",
+  "What changes shape when you sit down on it?",
+  "What would happen to a marble in a thali with a gap in the rim?",
+  "Which goes faster down a slide, and why: a ball or a book?",
+  "What pushed the striker when it bounced off the side of the carrom board?"
+ ],
+ "jokes": [
+  {
+   "j": "What did the roti say to the rolling pin?",
+   "a": "You really flatter me!"
+  },
+  {
+   "j": "Why did the bicycle fall over?",
+   "a": "It was two tired."
+  },
+  {
+   "j": "Why did the marble win a prize at school?",
+   "a": "It was a well-rounded student."
+  },
+  {
+   "j": "What did the wall say to the ball?",
+   "a": "Not this way. Try that way!"
+  },
+  {
+   "j": "Why did the football leave the game?",
+   "a": "It was tired of being kicked around."
+  },
+  {
+   "j": "Why was the rubber band never worried?",
+   "a": "It always bounced back."
+  },
+  {
+   "j": "How does the Moon cut his hair?",
+   "a": "Eclipse it!"
+  },
+  {
+   "j": "Why did the auto-rickshaw go to school?",
+   "a": "To learn how to turn things around."
+  },
+  {
+   "j": "What do you call a lemon that has been squeezed?",
+   "a": "A little bit pressed."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Ramp Race, the ball rolled 3 hand-spans from 1 book, 5 from 2 books and 7 from 3 books. If the pattern goes on, how far will it roll from 4 books?",
+   "answer": "About 9 hand-spans.",
+   "explain": "Each extra book adds 2 hand-spans: 3, 5, 7. The next number is 7 and 2 more, which is 9. A real ball may not follow the pattern exactly, so test it to check.",
+   "math_unit": "math.patterns.number-patterns.L2",
+   "how": "e2",
+   "context": "This is about the Ramp Race, where you rolled a ball down ramps on 1, 2 and 3 books.",
+   "why_maths": "Spotting a pattern lets you make a good guess before you test."
+  },
+  {
+   "problem": "In the Change Spotter tally, you saw 4 shape changes, 6 speed changes and 5 direction changes. Which kind did you see most? How many changes did you see in all?",
+   "answer": "Speed changes, with 6. 15 changes in all.",
+   "explain": "6 is more than 5 and more than 4. 4 and 6 make 10, and 10 and 5 make 15.",
+   "math_unit": "math.data.sorting-and-tallies.L2",
+   "how": "a4",
+   "context": "This is about the Change Spotter, where you made tally marks for changes you saw from the window and in the kitchen.",
+   "why_maths": "A tally lets you count many things quickly and compare them at a glance."
+  },
+  {
+   "problem": "The Bend Wall was a card strip 60 centimetres long. For the second test, you folded back half of it. How long was the curved part then?",
+   "answer": "30 centimetres.",
+   "explain": "Half of 60 is 30, because 30 and 30 make 60.",
+   "math_unit": "math.fractions.halves-and-quarters.L2",
+   "how": "e1",
+   "context": "This is about the Bend Wall test, where you made a curved wall from a strip of card.",
+   "why_maths": "Halving tells you how big the shorter wall is, so you can make it the same way next time."
+  },
+  {
+   "problem": "In Ball Hockey Round the Corner, Divya, a girl in Class 2, used 4 pushes on Course 1 and 7 pushes on Course 3. Why do you think Course 3 needed more pushes?",
+   "answer": "Course 3 has a corner, so the ball must be turned. Turning takes extra pushes from the side.",
+   "explain": "On Course 1 the ball only goes straight. On Course 3 it must also change direction, and each change needs a push. 7 is 3 more than 4.",
+   "math_unit": "math.number-sense.comparing-ordering.L2",
+   "how": "g2",
+   "context": "This is about Ball Hockey Round the Corner, where you steered a ball with a newspaper stick.",
+   "why_maths": "Comparing two numbers and asking why they are different helps you find what made the difference."
+  },
+  {
+   "problem": "On squared paper, draw a ball's path: 3 squares forward, turn right, 2 squares forward, turn right, 3 squares forward. Where does the ball end up?",
+   "answer": "2 squares to the right of where it started.",
+   "explain": "The two 3-square parts go forward and then back, so they cancel out. Only the 2 squares to the right are left.",
+   "math_unit": "math.position.directions-and-grids.L2",
+   "context": "This is about changing direction, like the turns in Ball Hockey Round the Corner.",
+   "why_maths": "A grid lets you follow every change of direction exactly, one square at a time."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.forces.L2",
+  "title": "Squash It, Speed It, Turn It",
+  "note": "Topic-level song for Forces L2"
+ },
+ "links": [
+  {
+   "title": "Forces and Motion: Basics (PhET simulation)",
+   "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+   "kind": "simulation",
+   "why": "For the parent and child together: push a cart or a crate with a person and watch how the push changes its speed."
+  },
+  {
+   "title": "Birla Industrial and Technological Museum",
+   "url": "",
+   "kind": "place",
+   "where": "Kolkata",
+   "why": "A science museum with hands-on galleries on motion and machines."
+  },
+  {
+   "title": "Kerala State Science and Technology Museum",
+   "url": "",
+   "kind": "place",
+   "where": "Thiruvananthapuram",
+   "why": "A science museum and science park with exhibits on forces and motion."
+  }
+ ],
+ "buy": [
+  {
+   "item": "a small packet of glass marbles (goli)",
+   "kind": "material",
+   "why": "Marbles roll smoothly along a card wall, so the Bend Wall result is easy to see. A ping-pong ball or any small hard ball works too.",
+   "url": "",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Use them in the Bend Wall test and the Round the Bend challenge. Keep them away from children under 3."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is a push or a pull called?",
+   "a": "A force."
+  },
+  {
+   "q": "Name the three things a force can change.",
+   "a": "Shape, speed and direction."
+  },
+  {
+   "q": "Does crumpled foil spring back?",
+   "a": "No, it stays crumpled."
+  },
+  {
+   "q": "What pulls a ball down a ramp?",
+   "a": "Gravity, the pull of the Earth."
+  },
+  {
+   "q": "How do you make a rolling ball turn?",
+   "a": "Push it from the side."
+  },
+  {
+   "q": "A marble leaves the end of a curved wall. Which way does it go?",
+   "a": "Straight on."
+  },
+  {
+   "q": "What does a cyclist use to slow down?",
+   "a": "The brakes."
+  },
+  {
+   "q": "Why is a capped bottle hard to squash?",
+   "a": "The trapped air pushes back."
+  }
+ ],
+ "roots": {
+  "context": "We have changed shapes, sped a ball up on a ramp and turned a marble with a card wall. Now we ask what the Bend Wall test tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your marble ran round inside the curved wall. Where the wall ended, the marble went off straight. So the wall was pushing it sideways all the way round. Going round a curve needs a push every moment, even when the speed stays the same.",
+   "habit": "We think a force is needed only to start, stop, speed up or slow down. Turning seems to cost nothing, because the marble goes no faster or slower. But a change of direction is a change in motion too, and it needs a force all the way round.",
+   "evidence": "In the Bend Wall test, the marble followed the wall and went straight on the moment the wall ended, with a long wall and a short one. A finger held on the outside of the wall felt the marble knocking against it."
+  },
+  "three": {
+   "who_am_i": "You change direction many times as you walk round your home. Each turn happens because your feet push the floor sideways, and the floor pushes you back.",
+   "what_is_life": "A crow, an ant, a fish and you all turn by pushing on something: the air, the ground or the water. The crow chooses when to turn, and the air answers the push of their wings.",
+   "what_is_this_world": "The Moon goes round the Earth, and the Earth goes round the Sun, because something pulls them all the time. Without that pull, each would fly off in a straight line."
+  },
+  "thread": "Nothing in the Bend Wall test turned by itself. The marble turned because the wall pushed it, and the wall felt the marble push back. Every change of shape, speed or direction in this unit came from two things meeting and pushing on each other. A rolling marble, a turning crow and the circling Moon are all changed by what they meet. Everything that took part, the marble and the wall too, is part of one conscious world, sensing and answering what it meets.",
+  "teachings": [
+   {
+    "source": "Prashastapada, Padarthadharmasangraha (Vaisheshika school, India)",
+    "teaching": "Prashastapada described three kinds of samskara, a tendency a thing keeps after it is acted on. Vega is the tendency of a moving thing to keep moving. Sthitisthapaka is the tendency of a bent thing to spring back. Bhavana is the impression an experience leaves in the mind, which lets us remember.",
+    "link": "Vega is the marble rolling straight on after the wall ends. Sthitisthapaka is the rubber band springing back in Foil Shapes. Prashastapada put both in the same family as memory."
+   },
+   {
+    "source": "Dhammapada, verse 277",
+    "teaching": "The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change.",
+    "link": "In every test in this unit, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too."
+   }
+  ],
+  "science": [
+   {
+    "text": "A moving thing keeps going straight at the same speed unless a force acts on it. Isaac Newton wrote this down as his first law in 1687.",
+    "status": "settled"
+   },
+   {
+    "text": "Why moving things behave this way has no agreed deeper reason. Ernst Mach suggested in 1883 that it depends on all the matter in the universe.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists",
+   "view": "Many physicists say there is no awareness in a marble or a wall. They describe the push between them as tiny electric forces between particles, and say nothing more is going on."
+  },
+  "practice": {
+   "title": "The Turning Walk",
+   "mins": 3,
+   "say": "Stand at one side of the room. Walk slowly in a straight line. Just before the wall, turn round and walk back. Do it three times, very slowly. Feel your feet as you turn. Which way do they push on the floor? Now stand still and breathe out slowly. Your body went straight until your feet pushed. Where else did something push you today?",
+   "kid": "Walk slowly in a straight line. Turn round before the wall. Feel your feet push the floor. Do it three times. Stand still and breathe out slowly. What pushed you round?"
+  },
+  "ask": [
+   "The marble went straight when the wall ended. Is going straight what a thing does when nothing changes it?",
+   "When you lean on a wall, you push the wall and the wall pushes you. Which one is doing the pushing?",
+   "The Moon has gone round the Earth for billions of years. What would happen to the Moon if the Earth's pull stopped?"
+  ],
+  "art": "A girl walking slowly across a room and turning before the wall, with soft arrows at her feet pushing sideways on the floor, and through the window the Moon with a curved path round the Earth."
+ },
+ "how_we_found_out": {
+  "context": "Do things that move in circles keep curving by themselves? This card tells how people found out.",
+  "who": "Aristotle, a Greek thinker; Robert Hooke and Isaac Newton, English scientists; and Michael McCloskey, Alfonso Caramazza and Bert Green, scientists in the United States",
+  "when": "About 350 BCE, 1679, 1687 and 1980",
+  "wrong_idea": "Things that move in circles, like the Moon and the planets, keep curving by themselves, without any force.",
+  "story": "For about 2,000 years, many people followed the ideas of Aristotle, a Greek thinker. He taught that the Moon, the Sun and the planets move in circles naturally. Circles, he said, were the perfect motion of the sky, and needed no cause. In 1679, Robert Hooke, an English scientist, wrote a letter to Isaac Newton with a new idea. A planet, he said, would move in a straight line if nothing pulled it. Its path bends into a curve because the Sun pulls it all the time. Newton worked out the maths. In 1687, in his book called the Principia, he showed that one pull, gravity, bends the Moon's path round the Earth and the planets' paths round the Sun. A moving thing goes straight unless a force turns it. In 1980, three scientists in the United States asked university students what a ball does when it shoots out of a curved tube. Many of them guessed it would keep curving. So the old idea, that curving can carry on by itself, is still in many people's heads today.",
+  "art": "An old letter with a quill pen on a wooden desk, and beside it a drawing of a planet's path: a straight dotted line bent into a curve by an arrow pointing to the Sun."
+ },
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "summary",
+   "terms",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz",
+   "story",
+   "e2",
+   "g1",
+   "ws-core",
+   "a2",
+   "a3",
+   "a4",
+   "agreed",
+   "challenging",
+   "g2",
+   "p1",
+   "c1",
+   "ws-stretch",
+   "big_questions",
+   "videos",
+   "how_we_found_out",
+   "ws-challenge",
+   "open_questions"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/forces-and-movement.md, Motion in 1D, 2D, 3D: 'draw curved paths on the floor and roll balls' became the Bend Wall test and the Round the Bend challenge. Everyday forces and Friction: 'mime of brakes slowing a bicycle' became the cyclist questions. The founder's gravity notes on moving straight on forever in empty space are behind the card on why moving things keep going straight.",
+   "Cambridge Primary Science Stage 2, Unit 2 (2.2 Changing shape, 2.3 Changing speed, 2.4 Changing direction). The Level 1 unit on this subtopic uses the Tap Test, the Flick Test, the ceiling fan and Window Watch. The Level 3 unit uses dough shaping, the clay drop, wet ball prints, the sponge and ruler, and the paper bridge. None of those are repeated here: this unit uses Foil Shapes, the Bottle Squeeze, the Ramp Race, Bounce Off the Wall and the Bend Wall."
+  ],
+  "science": [
+   "Newton's first and second laws; circular motion needs a centripetal force (here the normal force of the wall or rim). Any introductory physics text.",
+   "M. McCloskey, A. Caramazza and B. Green, 'Curvilinear motion in the absence of external forces: naive beliefs about the motion of objects', Science 210 (1980) 1139-1141.",
+   "Robert Hooke's letter to Isaac Newton of November 1679, proposing that orbital motion is a straight tangential motion bent by an attraction to the central body. Newton, Philosophiae Naturalis Principia Mathematica (1687).",
+   "Aristotle, On the Heavens, on circular motion as the natural motion of the heavenly bodies.",
+   "Prashastapada, Padarthadharmasangraha (Vaisheshika, often dated to about the 6th century CE): samskara of three kinds, vega (impetus), bhavana (mental impression) and sthitisthapaka (elastic restoring).",
+   "Ernst Mach, The Science of Mechanics (1883), on inertia and the rest of the matter in the universe. Still debated.",
+   "Einstein's general relativity (1915) and the 1919 eclipse measurements of starlight bending near the Sun.",
+   "ISRO Mars Orbiter Mission: Mars orbit insertion burn on 24 September 2014. Ritu Karidhal was a deputy operations director.",
+   "Dhammapada, verse 277: all conditioned things are impermanent."
+  ]
+ }
+}

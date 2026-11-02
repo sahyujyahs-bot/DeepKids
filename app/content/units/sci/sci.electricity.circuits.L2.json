@@ -1,0 +1,2187 @@
+{
+ "id": "sci.electricity.circuits.L2",
+ "title": "Making a circuit: how a cell, two wires and a bulb make light",
+ "level": 2,
+ "summary": {
+  "text": "A small bulb lights when a cell, two wires and the bulb are joined in a ring. Electricity flows out of one end of the cell, through the bulb, and back into the other end. This ring is called a circuit. Your child builds a circuit, then tests it with the wires coiled, crossed and knotted. The bulb still lights, but it goes dark when both wires touch the same end of the cell.",
+  "art": "A child's hands on a table holding two wires that join an AA cell to a small glowing torch bulb in a holder, one wire coiled like a spring."
+ },
+ "intro": {
+  "hook": "Here is a cell, a small bulb and two wires. Can you make the bulb shine using only these?",
+  "text": "Most children try one wire first, and the bulb stays dark. With two wires joined the right way, it shines. Then a new question comes up. Does it matter how the wires lie? In this unit you build your first circuit. You twist, coil and knot the wires, and find out what the bulb really needs. You look inside a bulb at the thin wire that glows. And you find out why every cell, bulb and plug has two metal ends.",
+  "art": "A cell, a small bulb in a holder and two red and black wires lying apart on a wooden table, with a child's hand reaching for them."
+ },
+ "outcomes": [
+  "By the end I can join a cell, two wires and a bulb so that the bulb lights.",
+  "By the end I can trace the path of electricity round my circuit with a finger.",
+  "By the end I can say why a bulb stays dark when there is a gap in the circuit.",
+  "By the end I can say that both ends of the cell must join the bulb.",
+  "By the end I can say that the shape of the wires does not change whether the bulb lights.",
+  "By the end I can name the parts of a torch bulb and say which part glows."
+ ],
+ "cards_mins": 10,
+ "terms": [
+  {
+   "term": "Circuit",
+   "meaning": "A circuit is a complete ring that electricity flows round. It goes out of the cell, through the bulb and back to the cell.",
+   "example": "A torch has a circuit inside. When you switch it on, the ring is complete and the bulb shines.",
+   "art": "A cell, two wires and a glowing bulb joined in a ring, with small arrows going round."
+  },
+  {
+   "term": "Cell",
+   "meaning": "A cell is a small store of electricity. Many people call it a battery. It has two ends, one marked + and one marked −.",
+   "example": "An AA cell from the TV remote has a bump at the + end and a flat − end.",
+   "art": "One AA cell lying on its side, with a big + by the bump and a big − by the flat end."
+  },
+  {
+   "term": "Bulb",
+   "meaning": "A bulb makes light when electricity flows through it. A torch bulb is small, with a glass top and a metal bottom.",
+   "example": "An old torch has a small bulb behind its glass.",
+   "art": "A small torch bulb with a clear glass top and a silver screw base."
+  },
+  {
+   "term": "Filament",
+   "meaning": "The filament is the very thin wire inside a bulb. Electricity makes it so hot that it glows.",
+   "example": "Look at a torch bulb closely, and you can see the filament as a tiny coil.",
+   "art": "A close-up of a torch bulb, with its tiny coiled filament glowing orange in the middle."
+  },
+  {
+   "term": "Wire",
+   "meaning": "A wire is a thin piece of metal that electricity flows along. It is covered in plastic, with bare metal at the ends.",
+   "example": "The charger for a phone has wires inside its plastic cover.",
+   "art": "A red plastic-covered wire with shiny copper showing at both ends."
+  },
+  {
+   "term": "Connection",
+   "meaning": "A connection is a place where two metal parts touch, so electricity can pass from one to the other.",
+   "example": "A crocodile clip biting the end of a cell makes a connection.",
+   "art": "A metal crocodile clip gripping the flat end of an AA cell."
+  },
+  {
+   "term": "Gap",
+   "meaning": "A gap is a break in the circuit, where metal does not touch metal. Electricity cannot cross it, so the bulb goes dark.",
+   "example": "Unclip one wire, and there is a gap. The bulb goes out at once.",
+   "art": "A circuit with one wire lifted away from the cell and a dark bulb."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "A circuit is a complete ring",
+   "status": "defined",
+   "definition": "A circuit is a complete path that electricity can flow round, from one end of the cell, through the bulb, and back to the other end.",
+   "description": "In your first circuit, one wire went from the cell to the bulb. The other wire went from the bulb back to the cell. When you traced it with a finger, your finger came back to where it started. That ring is the circuit. When you unclipped one wire, the ring had a gap. The bulb went dark at once, even though everything else was still there.",
+   "examples": [
+    "A torch is a circuit you can hold. The switch opens and closes a gap in the ring.",
+    "A doorbell rings only while the button is pressed. Pressing it closes the gap.",
+    "A toy car runs only when its cells are in and its switch is on."
+   ],
+   "perspectives": [],
+   "art": "A circuit drawn from above, with a finger tracing arrows from the cell, through the bulb and back."
+  },
+  {
+   "concept": "Both ends of the cell must be joined",
+   "status": "defined",
+   "definition": "Electricity flows out of one end of a cell and comes back in at the other end. So each end of the cell must be joined to a different metal part of the bulb.",
+   "description": "A cell has two ends, + and −. A bulb has two metal places: the tip at the bottom and the metal side. In the Shape Test, the bulb stayed dark when both wires were on the flat end of the cell. The wires still made a ring, but it started and ended at the same end. Electricity needs a path from one end of the cell to the other.",
+   "examples": [
+    "Every AA cell has a + end with a bump and a flat − end.",
+    "A torch bulb touches the circuit at its tip and at its metal side.",
+    "In a remote, one spring touches the flat end of each cell, and a flat plate touches the bump."
+   ],
+   "perspectives": [],
+   "art": "A cell with one wire going from the + end and one from the − end, both to a bulb, beside a second cell with both wires on its flat end and a dark bulb."
+  },
+  {
+   "concept": "The shape of the wires does not matter",
+   "status": "defined",
+   "definition": "A bulb lights when there is an unbroken metal path from one end of the cell, through the bulb, to the other end. Bending, coiling or knotting a covered wire does not break that path.",
+   "description": "In the Shape Test, the bulb lit with straight wires. It also lit with a wire coiled round a pencil, with the wires crossed, and with a knot in one wire. The brightness looked the same each time. Inside the plastic, the metal was still one unbroken piece. What matters is which parts are joined, metal touching metal. A loose bulb, or a wire on the wrong end, makes the bulb dark, however neat the wires look.",
+   "examples": [
+    "The wires inside a wall go round corners, and the light still works.",
+    "A phone charger's wire can be coiled up, and the phone still charges.",
+    "Electricians bend wires to fit inside a switchboard."
+   ],
+   "perspectives": [],
+   "art": "Four small circuits side by side, each with a glowing bulb: straight wires, a coiled wire, crossed wires and a knotted wire."
+  },
+  {
+   "concept": "Why the bulb glows",
+   "status": "defined",
+   "definition": "When electricity flows through the very thin filament, the filament gets so hot that it glows and gives out light.",
+   "description": "Electricity flows easily through the thick wires. The filament is far thinner than a hair, and it is hard for electricity to get through it. That makes it very hot, and hot metal glows, like an iron rod in a blacksmith's fire. The glass keeps air away from the filament, so it does not burn up. That is why a bulb that has been on for a while feels warm.",
+   "examples": [
+    "A torch bulb feels warm after it has been on for a minute.",
+    "The coil in an electric heater glows orange when it is hot.",
+    "A blacksmith's iron rod glows red in the fire."
+   ],
+   "perspectives": [],
+   "art": "A torch bulb drawn large, with the electricity flowing up one thick wire, through the glowing coiled filament and down the other thick wire."
+  },
+  {
+   "concept": "What moves in the wire",
+   "status": "defined",
+   "definition": "A metal wire is full of tiny particles called electrons. A cell pushes them round the circuit, all at once, all the way round.",
+   "description": "You cannot see electricity in a wire. Scientists have found that metal is full of tiny particles called electrons, far too small to see. When the circuit is complete, the cell pushes these electrons along the whole ring at once. That is why the bulb lights the moment the last clip goes on. You will learn more about them in later years.",
+   "examples": [
+    "The bulb lights the moment you close the last gap, not a little later.",
+    "Copper wires carry electricity in homes, because their electrons move easily.",
+    "Lightning is a huge number of electrons moving through the air at once."
+   ],
+   "perspectives": [],
+   "art": "A zoom into a wire, showing tiny dots moving along together inside the copper."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A bulb lights only when there is a complete circuit from one end of the cell, through the bulb, to the other end.",
+   "evidence": "Unclip any wire, unscrew the bulb, or put both wires on one end of the cell, and the bulb goes dark at once. Children and scientists everywhere get the same result."
+  },
+  {
+   "text": "A bulb glows because its thin filament gets very hot.",
+   "evidence": "A bulb that has been on for a while feels warm. Through a magnifying glass you can see that only the thin filament glows."
+  },
+  {
+   "text": "A small AA cell is safe to play with in circuits, but the sockets in the wall are not.",
+   "evidence": "An AA cell gives 1.5 volts, which you cannot feel through dry skin. Indian homes get mains electricity at about 230 volts, which can kill. That is why we never use wall sockets for experiments."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "One wire from the cell to the bulb should be enough, because the electricity just goes into the bulb.",
+   "who": "A common idea among children and many grown-ups",
+   "for": "It looks as if the cell fills the bulb with electricity, like water filling a cup.",
+   "against": "With one wire, the bulb stays dark. It lights only when a second wire goes back to the other end of the cell. The electricity has to go round and come back.",
+   "status": "rejected",
+   "context": "This card is about how many wires a circuit needs."
+  },
+  {
+   "claim": "A knot or a coil in the wire will block the electricity.",
+   "who": "A common guess before the Shape Test",
+   "for": "A knot in a water pipe blocks the water. Electricity seems to flow like water.",
+   "against": "In the Shape Test, the bulb lit just as brightly with a knotted wire and a coiled wire. The metal inside the plastic was still one unbroken piece.",
+   "status": "rejected",
+   "context": "This card is about whether the shape of a wire matters."
+  },
+  {
+   "claim": "The + end of the cell must go to the tip of the bulb, or the bulb will not light.",
+   "who": "A common guess",
+   "for": "Cells in a remote only work one way round, so it seems the bulb should care too.",
+   "against": "In the Which Way Round test, the bulb lit just the same with the cell turned round. A plain bulb lights either way. A remote has parts inside that need the electricity to flow one way.",
+   "status": "rejected",
+   "context": "This card is about whether a bulb lights both ways round."
+  },
+  {
+   "claim": "Thomas Edison invented the light bulb on his own.",
+   "who": "Many school books",
+   "for": "Edison's team made bulbs that lasted a long time, and his name is the one most people know.",
+   "against": "Joseph Swan in England showed a working carbon bulb early in 1879. Many people had tried before them. Lewis Latimer, a Black American engineer, found a better way to make the glowing carbon threads in 1882.",
+   "status": "rejected",
+   "context": "This card is about who made the electric bulb."
+  },
+  {
+   "claim": "Only animals with a brain can count or decide.",
+   "who": "Many people",
+   "for": "Counting and deciding seem to need a brain like ours.",
+   "against": "A Venus flytrap plant counts. She shuts her trap only after an insect touches her trigger hairs twice. Each touch sends an electric signal through her leaf. Some scientists call this a reflex, not counting.",
+   "status": "debated",
+   "context": "This card is about electric signals in living beings."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Your knotted wire still lit the bulb. What would you have to do to the wire to make the bulb go dark?",
+   "kind": "deep",
+   "hint": "Think about what is inside the plastic, and what has to stay unbroken."
+  },
+  {
+   "q": "The bulb goes dark the moment you unclip one wire. How does the bulb know the gap is there, far away at the cell?",
+   "kind": "deep",
+   "hint": "Think about the electrons in the wire. They are pushed round the whole ring at once."
+  },
+  {
+   "q": "A metro map shows which stations join, but not the real shape of the streets. Is a drawing of a circuit the same kind of map?",
+   "kind": "big",
+   "hint": "Draw your circuit two ways, neat and messy. Would both drawings help someone build it?"
+  },
+  {
+   "q": "Your nerves carry tiny electric signals from your fingers to your brain. Is your body full of circuits too?",
+   "kind": "big",
+   "hint": "Think about what happens when you touch something hot, and how fast you pull your hand away."
+  }
+ ],
+ "story": {
+  "title": "The Light in the Golu Temple",
+  "mins": 8,
+  "read_aloud": true,
+  "note": "Thenmozhi, Arun, Selvi chithi and Paati are made up. Chithi means mother's younger sister in Tamil, and Paati means grandmother. Golu is a display of dolls on steps, set up for Navaratri in many homes in Tamil Nadu, Karnataka and Andhra Pradesh.",
+  "text": [
+   "Thenmozhi was seven. She lived in a flat in Madurai with her Amma, her Appa and her little cousin Arun, who was five.",
+   "It was nine days before Navaratri. In Thenmozhi's home, that meant one thing. It was time to set up the golu.",
+   "The golu was a set of wooden steps covered in a white cloth. On the steps sat rows of clay dolls. There were kings and queens, a wedding party, cows, a temple and a tiny vegetable seller with a basket.",
+   "This year, Thenmozhi had one wish. 'I want a light inside the little temple,' she said. 'So it glows at night.'",
+   "'Ask Selvi chithi,' said Amma. 'She will know.'",
+   "Selvi chithi was Amma's younger sister. She was an electrician. She fixed wiring in shops and houses all over the city. She came that evening with her tool bag.",
+   "'First, a rule,' said Selvi chithi. 'The sockets in the wall are never for experiments. Their electricity is strong enough to kill. We will use this.' She held up a small AA cell, the kind that goes in the TV remote.",
+   "'That is too small to hurt you,' she said. 'But it can light a bulb.'",
+   "From her bag she took a tiny torch bulb in a holder, and two wires. One was red and one was black. Each wire had a metal clip at both ends, with teeth like a crocodile.",
+   "'Make it shine,' said Selvi chithi. Then she sat back and drank her coffee.",
+   "Thenmozhi clipped the red wire to the bump on top of the cell. She clipped the other end to the bulb holder. Nothing happened.",
+   "'It needs more electricity,' said Arun.",
+   "'No,' said Thenmozhi slowly. 'I think it needs the other wire.' She clipped the black wire to the other side of the bulb holder. Then she held its far end in the air. Where should it go?",
+   "She looked at the cell. It had a bump at the top and a flat end at the bottom. She clipped the black wire to the flat end.",
+   "The bulb shone. It was a small, warm, yellow light.",
+   "Arun clapped. Selvi chithi smiled. 'Now follow the path with your finger,' she said.",
+   "Thenmozhi put her finger on the bump of the cell. She slid it along the red wire to the bulb. Then out of the bulb, along the black wire, and into the flat end of the cell. Her finger was back where it started.",
+   "'It goes round,' she said. 'Out of one end and back into the other.'",
+   "'That ring has a name,' said Selvi chithi. 'It is called a circuit.'",
+   "Now came the hard part. The temple was on the top step, and the cell had to hide behind the dolls. The wires had to go round the dancing girls and under the wedding party. Arun helped. He wound the red wire round a pencil to make it fit. He pushed the black wire in a loop behind the cows.",
+   "'You will spoil it,' said Thenmozhi. 'All those twists will block the electricity.'",
+   "Arun let go of the wire, and they both looked at the temple. The bulb was still shining, just as brightly.",
+   "'The wire is still one piece inside,' said Selvi chithi. 'You can bend it and coil it. The metal inside does not break.'",
+   "Then Arun had another idea. He wanted the cell to lie flat in a little box, so he unclipped the red wire and clipped it next to the black one, on the flat end. The temple went dark.",
+   "'You broke it!' said Thenmozhi.",
+   "'I did not cut anything,' said Arun. 'Both wires are still on the cell.'",
+   "Thenmozhi looked at the cell for a long time. Both wires were there. But both were on the same end.",
+   "'The electricity has to come out of one end and go back into the other,' she said. 'If both wires are on the same end, it has nowhere to go.' She moved the red wire back to the bump. The temple glowed again.",
+   "Selvi chithi nodded. 'An electrician looks at what joins to what,' she said. 'Not at how pretty the wires look.'",
+   "On the first night of Navaratri, the neighbours came to see the golu. Paati from upstairs bent down and peered at the little temple. 'There is a light inside!' she said. 'How did you do that?'",
+   "Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, through the bulb, and back into the other end. The wires can go any way you like.'"
+  ],
+  "epiphany": "For the parent: a bulb lights when there is an unbroken metal path from one end of the cell, through the bulb, to the other end. Coiling or looping a covered wire does not break the metal inside, so the bulb stays lit. Putting both wires on the same end of the cell leaves no path from one end to the other, so the bulb goes dark. Thenmozhi found that what joins to what matters, and the shape of the wires does not.",
+  "ask": [
+   "Why did the bulb stay dark with only one wire?",
+   "Arun coiled the wire round a pencil. Why did the bulb still shine?",
+   "Both wires were still on the cell. Why did the temple go dark?"
+  ],
+  "art": [
+   "A golu display of clay dolls on white-covered steps in a Madurai flat, with a tiny clay temple on the top step.",
+   "A woman electrician with a tool bag watching a girl clip a red wire to an AA cell while a small boy looks on.",
+   "The little clay temple glowing yellow from inside, with a red wire coiled like a spring running behind a row of clay cows.",
+   "A grandmother bending down to peer at the glowing temple while the girl explains, smiling."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Shape Test: does it matter how the wires lie?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you build a circuit with a cell, two wires and a bulb. Then you change the wires: coil one, cross them, knot one. You also try two wrong joins. Before each test, you guess whether the bulb will light.",
+   "question": "Does the bulb still light if the wires are coiled, crossed or knotted? What does the bulb really need to light?",
+   "predict": "Before each test, guess: will the bulb light or stay dark? Why do you think so?",
+   "fair_test": "We use the same cell, the same two wires and the same bulb for every test. We change only one thing each time. After each test we put the circuit back to straight wires and check that the bulb still lights, so we know nothing else has gone wrong.",
+   "results_table": [
+    "Test",
+    "My guess: light or dark?",
+    "What happened: light or dark?"
+   ],
+   "materials": [
+    {
+     "item": "one AA cell, 1.5 volts. A new one, or one that still lights a torch well.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a small torch bulb marked 1.5 V or 2.5 V, screwed into a bulb holder. An LED will not light from one AA cell.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "two plastic-covered wires, about 20 cm long, with bare metal at both ends. Crocodile-clip wires are easiest.",
+     "qty": 2,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a rubber band, to hold the wire ends on the cell",
+     "qty": 1
+    },
+    {
+     "item": "a pencil, to coil a wire round",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil for the results table",
+     "qty": 1
+    }
+   ],
+   "safety": "Use only small AA cells. Never use a wall socket, a plug or a phone charger. If a wire or the cell gets warm, unclip it at once. It means the two ends of the cell are joined without the bulb.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Build the circuit, then guess and test six ways of joining it. Count how many lit."
+    }
+   ],
+   "record": "Fill in the table with the six tests: 1 straight wires, 2 coiled wire, 3 crossed wires, 4 knotted wire, 5 both wires on the flat end, 6 bulb unscrewed. Draw a sun for light and a dark circle for dark. Then count the suns.",
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example: what Kavitha found in the Shape Test",
+    "x": "What happened",
+    "y": "Number of tests",
+    "data": [
+     {
+      "label": "Bulb lit",
+      "value": 4,
+      "emoji": "💡"
+     },
+     {
+      "label": "Bulb stayed dark",
+      "value": 2,
+      "emoji": "⚫"
+     }
+    ]
+   },
+   "setup": [
+    {
+     "art": "An AA cell with a rubber band stretched along it from end to end, and the bare end of a red wire tucked under the band at the bump and a black wire at the flat end, both wires going to a glowing bulb in a holder.",
+     "caption": "1. Build the circuit with straight wires. The bulb lights."
+    },
+    {
+     "art": "The same circuit with the red wire wound round a pencil like a spring, and the bulb still glowing.",
+     "caption": "2. Coil one wire round a pencil. Guess, then look."
+    },
+    {
+     "art": "The same circuit with the two wires crossed over each other in an X, plastic touching plastic, and another version with a loose knot tied in one wire.",
+     "caption": "3. Cross the wires. Then tie a loose knot in one wire."
+    },
+    {
+     "art": "An AA cell with both wire ends tucked under the rubber band at the flat end, and a dark bulb.",
+     "caption": "4. Put both wires on the flat end of the cell. Guess, then look."
+    },
+    {
+     "art": "A hand unscrewing the bulb in its holder by one turn, and the bulb going dark.",
+     "caption": "5. Unscrew the bulb one turn. Guess, then look."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Wrap the rubber band along the cell, over both ends. 2. Tuck the bare end of one wire under the band at the bump. 3. Tuck the other wire under the band at the flat end. 4. Clip the far ends to the two screws of the bulb holder.",
+     "say": "Let's build our circuit. One wire goes on the bump of the cell, and one on the flat end. Both go to the bulb.",
+     "kid": "Put one wire on the bump of the cell. Put the other on the flat end. Join both to the bulb.",
+     "adult": true,
+     "parent": "Press the bare metal ends firmly under the band, so metal touches metal. If the bulb only glows faintly, that is fine in a dim room. A bulb marked 2.5 V glows dimmer on one cell than one marked 1.5 V. If it does not light at all, try a fresh cell and check the bulb is screwed in."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Draw the table with six rows. 2. Write test 1, straight wires: it lit. 3. Ask for a guess and a reason for test 2.",
+     "say": "Test 1 is our straight circuit. It lights. Now I will wind one wire round a pencil. Will the bulb light or stay dark? Why do you think so?",
+     "kid": "Will a coiled wire still light the bulb? Why do you think so?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "It will stay dark, because the coil is like a knot.",
+        "It will light, because the wire is still joined.",
+        "It might be dimmer, because the path is twisty."
+       ]
+      }
+     ],
+     "parent": "Write the guess in the table before you test. Do not say what you think will happen. Any guess with a reason is a good guess."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Wind one wire five times round the pencil, then slide the pencil out. 2. Look at the bulb. 3. Write light or dark. 4. Unwind the wire.",
+     "say": "Look at the bulb now. Is it lit? Is it as bright as before?",
+     "kid": "Look at the bulb. Is it lit? Is it as bright?",
+     "ask": [
+      {
+       "q": "Was your guess right?",
+       "good": [
+        "No, I thought it would stop, but it is still lit.",
+        "Yes, it is still lit."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Ask for a guess, then cross the two wires over each other in an X. 2. Look and write. 3. Ask for a guess, then tie a loose knot in one wire. 4. Look and write. 5. Untie the knot.",
+     "say": "Now I will cross the wires over each other. Light or dark? Why? Next, I will tie a knot in one wire. Light or dark? Why?",
+     "kid": "Guess first. Then cross the wires. Then tie a knot. Is the bulb lit?",
+     "parent": "Cross only the plastic-covered parts, never the bare metal ends. Tie the knot loosely, so the wire does not snap. In both tests the bulb should stay lit and look just as bright."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Ask for a guess. 2. Move the wire from the bump and tuck it under the band at the flat end, next to the other wire. 3. Look and write. 4. Put it back on the bump. 5. Ask for a guess, then unscrew the bulb one turn. 6. Look and write.",
+     "say": "Both wires are still on the cell. Will it light if they are both on the flat end? Why? Now, what if I unscrew the bulb a little?",
+     "kid": "Guess. Put both wires on the flat end. Is it lit? Now unscrew the bulb a little.",
+     "parent": "With both wires on the flat end, the bulb stays dark. With the bulb unscrewed about one turn, it goes dark too. If it still glows, unscrew it a little more. Screw it back in afterwards."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "do": "1. Count the tests that lit and the tests that stayed dark. 2. Ask what your child found, and why. 3. Ask the check question.",
+     "say": "How many tests lit the bulb? How many stayed dark? What was the same about the ones that stayed dark?",
+     "kid": "Count the suns. Count the dark circles. Why did two stay dark?",
+     "ask": [
+      {
+       "q": "Why did the coiled and knotted wires still light the bulb?",
+       "good": [
+        "The metal inside was still one piece.",
+        "The path from the cell to the bulb and back was still joined."
+       ]
+      },
+      {
+       "q": "Why did the bulb go dark in tests 5 and 6?",
+       "good": [
+        "Both wires were on the same end, so there was no path to the other end.",
+        "The bulb was loose, so there was a gap."
+       ]
+      }
+     ],
+     "parent": "Wait for your child's own claim and evidence. Then say it plainly: the bulb lights when one end of the cell joins the bulb and the bulb joins the other end, metal touching metal. The shape of the wires makes no difference. A wire on the wrong end, or a loose bulb, leaves a gap.",
+     "check": {
+      "t": "mcq",
+      "q": "Leela ties a knot in a wire of her circuit. What happens to the bulb?",
+      "options": [
+       "It stays lit",
+       "It goes dark",
+       "It gets much brighter"
+      ],
+      "a": 0,
+      "why": "The metal inside the wire is still one piece, so the circuit is still complete. A knot in a water pipe can block water, but a knot in a covered wire does not break the path for electricity."
+     }
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Which Way Round? Turning the cell and the bulb",
+   "mins": 15,
+   "days": 1,
+   "context": "In this experiment you find out whether a bulb cares which way round the cell is. You turn the cell round, then swap the wires at the bulb, and watch the bulb each time.",
+   "question": "Does the bulb still light if we turn the cell round, so the electricity goes the other way?",
+   "predict": "Guess first. If we turn the cell round, will the bulb light, stay dark or get dimmer? Why do you think so?",
+   "fair_test": "We use the same cell, wires and bulb each time. We only turn the cell round, or swap the wires at the bulb. We look at the bulb in the same spot in the room, so the brightness is easy to compare.",
+   "results_table": [
+    "Test",
+    "My guess",
+    "What happened"
+   ],
+   "materials": [
+    {
+     "item": "one AA cell, 1.5 volts. A new one, or one that still lights a torch well.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a small torch bulb marked 1.5 V or 2.5 V, screwed into a bulb holder. An LED will not light from one AA cell.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "two plastic-covered wires, about 20 cm long, with bare metal at both ends. Crocodile-clip wires are easiest.",
+     "qty": 2,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a rubber band, to hold the wire ends on the cell",
+     "qty": 1
+    },
+    {
+     "item": "a TV remote with its cells, to compare at the end",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up takes the cells out of the remote and puts them back. Keep any button cells far away from small children.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Build the circuit, turn the cell round, swap the wires at the bulb, and compare with a remote."
+    }
+   ],
+   "record": "Draw the circuit three times: as it was, with the cell turned round, and with the wires swapped at the bulb. Draw rays round each bulb that lit.",
+   "setup": [
+    {
+     "art": "A circuit on a table with the cell's bump pointing left, the red wire on the bump, and a glowing bulb.",
+     "caption": "1. Build the circuit. Note which way the cell points."
+    },
+    {
+     "art": "The same circuit with the cell turned round so the bump points right, the wires still tucked under the band, and the bulb glowing.",
+     "caption": "2. Turn the cell round. Does the bulb still light?"
+    },
+    {
+     "art": "A child's hand swapping the two clips on the bulb holder's screws.",
+     "caption": "3. Swap the wires at the bulb. Look again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Build the circuit with a rubber band on the cell. 2. Check that the bulb lights. 3. Ask for a guess and a reason.",
+     "say": "The bump end is called plus, and the flat end is minus. If I turn the cell round, what will happen? Why do you think so?",
+     "kid": "Guess. If you turn the cell round, will the bulb light?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "It will go dark, because the cell is the wrong way.",
+        "It will light, because both ends are still joined."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Take the wire ends out from under the band. 2. Turn the cell round. 3. Tuck each wire back under the band at the end now beside it. 4. Look at the bulb. 5. Then swap the two clips at the bulb holder and look again.",
+     "say": "Now the electricity has to go round the other way. Look at the bulb. Is it lit? Is it as bright?",
+     "kid": "Turn the cell round. Is the bulb lit? Now swap the clips at the bulb.",
+     "parent": "The bulb lights just the same both ways. A plain bulb does not care which way the electricity flows through it."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Open the remote's cell cover. 2. Show the + and − marks inside. 3. Turn one cell round and press a button. 4. Put it back the right way.",
+     "say": "Now look at the remote. Inside it says which way the cells go. Let's turn one round and press a button.",
+     "kid": "Look at the + and − marks in the remote. Turn one cell round. Does it work?",
+     "adult": true,
+     "parent": "With one cell turned round, the remote usually stops working. Its tiny parts inside need the electricity to flow one way. A plain bulb does not. Put the cell back the right way afterwards."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Ask what your child found, and why. Then ask the check question.",
+     "say": "What happened when we turned the cell round in our circuit? What happened in the remote? Why are they different?",
+     "kid": "What did the bulb do? What did the remote do?",
+     "ask": [
+      {
+       "q": "Why did the bulb light both ways?",
+       "good": [
+        "Both ends of the cell were still joined to the bulb.",
+        "The bulb does not mind which way the electricity goes."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Murali turns the cell round in his bulb circuit. What happens?",
+      "options": [
+       "The bulb lights just the same",
+       "The bulb goes dark",
+       "The bulb breaks"
+      ],
+      "a": 0,
+      "why": "Each end of the cell is still joined to the bulb, so the path is still complete. A plain bulb lights whichever way the electricity flows. Some things, like a remote, need the cells the right way round."
+     }
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Your First Circuit: make the bulb shine",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you get a cell, a bulb in a holder and two wires. Your job is to make the bulb shine. Then you trace the path of the electricity with your finger.",
+   "materials": [
+    {
+     "item": "one AA cell, 1.5 volts. A new one, or one that still lights a torch well.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a small torch bulb marked 1.5 V or 2.5 V, screwed into a bulb holder. An LED will not light from one AA cell.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "two plastic-covered wires, about 20 cm long, with bare metal at both ends. Crocodile-clip wires are easiest.",
+     "qty": 2,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a rubber band, to hold the wire ends on the cell",
+     "qty": 1
+    },
+    {
+     "item": "paper and coloured pencils",
+     "qty": 1
+    }
+   ],
+   "safety": "Use only AA cells, never a wall socket or a charger. If a wire or the cell gets warm, unclip it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make the bulb shine, trace the path with a finger, make a gap, and draw the circuit."
+    }
+   ],
+   "record": "Draw your circuit. Colour the wires. Draw arrows from the bump of the cell, through the bulb and back to the flat end.",
+   "setup": [
+    {
+     "art": "An AA cell with a rubber band along it, a bulb in a holder and two wires lying apart on a table.",
+     "caption": "1. Look at the parts. Can you make the bulb shine?"
+    },
+    {
+     "art": "A child's finger following the red wire from the bump of the cell to the glowing bulb, and back along the black wire to the flat end.",
+     "caption": "2. Trace the path with your finger, all the way round."
+    },
+    {
+     "art": "The same circuit with one wire lifted off the cell, and the bulb dark.",
+     "caption": "3. Lift one wire off. What happens?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Lay out the cell, the bulb in its holder and two wires. 2. Name each part together. 3. Show the bump and the flat end of the cell.",
+     "say": "This is a cell. It has a bump at one end and a flat end at the other. This is a bulb in a holder. These are two wires.",
+     "kid": "Here is a cell, a bulb and two wires. Find the bump and the flat end.",
+     "adult": true,
+     "parent": "Put the rubber band along the cell from end to end, so wire ends can be tucked under it at the bump and at the flat end."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Say the challenge. 2. Let your child try for at least four minutes before you help.",
+     "say": "Can you make the bulb shine using only these things? Try any way you like.",
+     "kid": "Make the bulb shine. Try any way you like.",
+     "ask": [
+      {
+       "q": "What have you tried so far?",
+       "good": [
+        "One wire from the cell to the bulb.",
+        "A wire from each end of the cell to the bulb."
+       ]
+      }
+     ],
+     "parent": "If they are stuck, give one hint: 'Use both wires. Where can each wire go on the cell?' The bulb lights when one wire joins the bump to one screw of the holder, and the other wire joins the flat end to the other screw."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Ask your child to trace the path with a finger. 2. Lift one wire off the cell. 3. Put it back.",
+     "say": "Put your finger on the bump of the cell. Follow the path all the way. Where does your finger end up? Now watch when I lift this wire.",
+     "kid": "Follow the path with your finger. Where do you end up? Now lift one wire.",
+     "ask": [
+      {
+       "q": "Why did the bulb go out when the wire came off?",
+       "good": [
+        "There was a gap.",
+        "The path did not go all the way round any more."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Your child draws the circuit and adds arrows going round.",
+     "say": "Draw what you built. Add arrows to show where the electricity goes.",
+     "kid": "Draw your circuit. Draw arrows going round.",
+     "parent": "Accept any drawing that shows a ring: cell, wire, bulb, wire, back to the cell. Many children draw only one wire at first. Ask them to check against the real circuit.",
+     "check": {
+      "t": "mcq",
+      "q": "Which circuit will make the bulb shine?",
+      "options": [
+       "One wire from the bump to the bulb",
+       "A wire from the bump to the bulb, and a wire from the bulb to the flat end",
+       "Two wires from the bump to the bulb"
+      ],
+      "a": 1,
+      "why": "Electricity must flow out of one end of the cell, through the bulb, and back into the other end. One wire leaves no way back. Two wires on the bump give no path to the flat end."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Look Inside a Bulb: the thin wire that glows",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you look closely at a torch bulb with a magnifying glass or a phone camera. You find the parts inside. Then you light the bulb and see which part glows.",
+   "materials": [
+    {
+     "item": "a spare torch bulb (the one from your circuit is fine)",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a magnifying glass, or a phone camera zoomed in",
+     "qty": 1
+    },
+    {
+     "item": "your circuit from Your First Circuit",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Look at the glowing bulb for a few seconds only. Hold the bulb by its metal base, not the glass, because the glass gets warm.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Look at a bulb up close, draw it, light it and find the part that glows."
+    }
+   ],
+   "record": "Draw the bulb large. Label the glass, the filament, the two thick wires, the tip and the metal side.",
+   "setup": [
+    {
+     "art": "A child looking at a torch bulb through a magnifying glass, with the tiny coiled filament and two thick wires visible inside.",
+     "caption": "1. Look inside the bulb. Find the thin coiled wire."
+    },
+    {
+     "art": "The same bulb lit in a circuit, with only the tiny coil glowing bright orange-yellow.",
+     "caption": "2. Light it. Which part glows?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Hold the bulb up to a window. 2. Look through the magnifying glass or the phone camera. 3. Find the parts together.",
+     "say": "Look inside the glass. Can you see two thicker wires? Can you see a tiny coil joining them?",
+     "kid": "Look inside the bulb. Find two thick wires. Find a tiny coil.",
+     "parent": "The tiny coil is the filament. It is thinner than a hair. The bulb's base has two metal places: the tip at the bottom and the metal side. One thick wire goes to each."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Screw the bulb into your circuit. 2. Look for a few seconds only. 3. After one minute, touch the glass gently with a fingertip.",
+     "say": "Which part is glowing? Now touch the glass gently. What do you feel?",
+     "kid": "Which part glows? Touch the glass gently. Is it warm?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Why is the glass warm?",
+       "good": [
+        "The coil is hot.",
+        "The glowing wire makes heat."
+       ]
+      }
+     ],
+     "parent": "A small torch bulb on one AA cell gets warm, not hot. Only the filament glows. It glows because it is very hot."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Your child draws and labels the bulb.",
+     "say": "Draw the bulb big. Label the glass, the coil, the two thick wires, the tip and the side.",
+     "kid": "Draw the bulb. Label the parts.",
+     "check": {
+      "t": "mcq",
+      "q": "Which part of a bulb glows?",
+      "options": [
+       "The thin coiled wire, called the filament",
+       "The glass",
+       "The metal base"
+      ],
+      "a": 0,
+      "why": "Electricity makes the very thin filament so hot that it glows. The glass only keeps the air away, so the filament does not burn up."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Count the Twos: why everything has two metal ends",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you hunt round your home for things that use electricity. You count their metal ends: on cells, bulbs and plugs. You look for a pattern.",
+   "materials": [
+    {
+     "item": "an AA cell, a torch bulb and a phone charger",
+     "qty": 1
+    },
+    {
+     "item": "two or three appliances that are switched off and unplugged by a grown-up, such as a mixie, a table lamp and an iron",
+     "qty": 3
+    },
+    {
+     "item": "paper with a tally table: Thing, Number of metal ends",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up switches off and unplugs every appliance first. Children only look at plugs that are out of the wall. Never touch a socket or a plug that is in the wall.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Count the metal ends on a cell, a bulb and some unplugged plugs, and find the pattern."
+    }
+   ],
+   "record": "A tally table: each thing, and how many metal ends or pins it has. Circle every 2.",
+   "setup": [
+    {
+     "art": "An AA cell and a torch bulb on a table, with arrows pointing to the two ends of the cell and the two metal places on the bulb.",
+     "caption": "1. Count the metal ends on a cell and a bulb."
+    },
+    {
+     "art": "A grown-up holding an unplugged mixie plug with three pins and a two-pin charger plug, while a child counts and writes tally marks.",
+     "caption": "2. A grown-up unplugs. You count the pins."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Hold up the cell and the bulb. 2. Count the metal ends together. 3. Write the tallies.",
+     "say": "How many metal ends does the cell have? How many metal places does the bulb have?",
+     "kid": "Count the metal ends on the cell. Count them on the bulb.",
+     "ask": [
+      {
+       "q": "Why do you think the cell has two ends?",
+       "good": [
+        "One for the electricity to go out, one for it to come back."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Switch off and unplug each appliance. 2. Hold up the plug. 3. Your child counts the pins and writes the tally.",
+     "say": "I have unplugged the mixie. Count the pins on its plug. Now the charger. Now the lamp.",
+     "kid": "Count the pins on each plug. Do not touch the wall socket.",
+     "adult": true,
+     "parent": "Indian plugs have two or three pins. The third, thicker pin is the earth pin. It is there for safety and is not part of the path that runs the appliance. The other two are the way in and the way back."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Look at the tallies together. 2. Ask for the pattern and the reason.",
+     "say": "Look at our table. What number keeps coming up? Why do you think every one has at least two?",
+     "kid": "What number keeps coming up? Why?",
+     "ask": [
+      {
+       "q": "Why does every plug have at least two pins?",
+       "good": [
+        "The electricity needs a way in and a way back.",
+        "It is a circuit, like our bulb."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Why does a phone charger plug have two pins?",
+      "options": [
+       "Electricity goes in through one and back through the other",
+       "Two pins hold it in the wall more tightly",
+       "One pin is a spare"
+      ],
+      "a": 0,
+      "why": "Every circuit needs a way out and a way back. The charger's two pins are like the two wires in your bulb circuit."
+     }
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Find the Fault: a circuit detective game",
+   "mins": 15,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a detective game for 2 or more players with a real circuit. One player secretly makes one fault, so the bulb goes dark. The other player finds it and fixes it.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "8 fault cards",
+     "items": [
+      {
+       "f": "LOOSE BULB",
+       "b": "Unscrew the bulb one turn, so it still looks in place."
+      },
+      {
+       "f": "CLIP ON THE PLASTIC",
+       "b": "Clip one wire onto its own plastic cover, not the metal."
+      },
+      {
+       "f": "SAME END",
+       "b": "Move one wire so both wires are on the flat end of the cell."
+      },
+      {
+       "f": "WIRE JUST OFF",
+       "b": "Take one wire end out from under the band, but leave it lying close to the cell."
+      },
+      {
+       "f": "TIRED CELL",
+       "b": "Swap in a used-up cell from the drawer."
+      },
+      {
+       "f": "PAPER UNDER THE BAND",
+       "b": "Slip a small piece of paper between one wire end and the cell."
+      },
+      {
+       "f": "TURN THE CELL",
+       "b": "Turn the cell round. Trick card: the bulb still lights, so there is no fault!"
+      },
+      {
+       "f": "NO FAULT",
+       "b": "Change nothing. The finder must say 'There is no fault.'"
+      }
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Detective score sheet",
+     "items": [
+      "Round",
+      "Fault card",
+      "Found it? (yes or no)",
+      "Points"
+     ]
+    }
+   ],
+   "rules": [
+    "Build a working circuit with a cell, a rubber band, two wires and a bulb.",
+    "The finder turns away. The fixer takes a fault card, reads the back, and does what it says.",
+    "The finder turns back and looks. They must say what is wrong before they touch anything.",
+    "Then the finder fixes it. If the bulb lights, the finder gets 2 points.",
+    "Swap jobs each round. After 8 rounds, the player with the most points wins."
+   ],
+   "setup": [
+    {
+     "art": "A girl turned away with her hands over her eyes while her father secretly unscrews the bulb by one turn.",
+     "caption": "1. The finder turns away. The fixer makes one fault."
+    },
+    {
+     "art": "The girl bending close to the circuit, pointing at the loose bulb, with a fault card face up beside it.",
+     "caption": "2. The finder says what is wrong, then fixes it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the cards. 2. Build the circuit and check it lights. 3. Play one round yourself as the fixer.",
+     "say": "I will make one thing wrong while you look away. Then you be the detective. Say what is wrong before you touch it.",
+     "kid": "Look away. Then find what is wrong. Say it first, then fix it.",
+     "adult": true,
+     "parent": "Keep a used-up cell ready for the TIRED CELL card. If you have none, take that card out."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Take turns being the fixer and the finder. After each round, ask how they found the fault.",
+     "say": "How did you find it? Where did you look first?",
+     "kid": "How did you find it?",
+     "ask": [
+      {
+       "q": "What do you check first when the bulb is dark?",
+       "good": [
+        "Every place where metal touches metal.",
+        "Both ends of the cell, then the bulb."
+       ]
+      }
+     ],
+     "parent": "Good detectives follow the path round with a finger and check each join. The TURN THE CELL card is a trick, because the bulb still lights. Ask why.",
+     "check": {
+      "t": "mcq",
+      "q": "The bulb is dark. Both wires are on the cell, and the bulb is screwed in. What should you check next?",
+      "options": [
+       "Whether the wires are on different ends of the cell",
+       "Whether the wires are the same colour",
+       "Whether the table is wooden"
+      ],
+      "a": 0,
+      "why": "If both wires are on the same end of the cell, there is no path from one end to the other. The colour of the wires and the table make no difference."
+     }
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Light or Dark? a drawing game",
+   "mins": 10,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a quick drawing game. One player draws a circuit from a card. The others say light or dark, and why. Then you build it to check.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "10 drawing cards",
+     "items": [
+      {
+       "f": "Draw a cell and a bulb joined by one wire.",
+       "b": "Dark. There is no way back to the cell."
+      },
+      {
+       "f": "Draw a cell with a wire from each end to the bulb.",
+       "b": "Light. It is a complete ring."
+      },
+      {
+       "f": "Draw two wires, both on the bump of the cell, going to the bulb.",
+       "b": "Dark. There is no path to the flat end."
+      },
+      {
+       "f": "Draw a circuit with one wire curled like a snake.",
+       "b": "Light. The shape does not matter."
+      },
+      {
+       "f": "Draw a circuit with a gap between one wire and the bulb.",
+       "b": "Dark. Electricity cannot cross a gap."
+      },
+      {
+       "f": "Draw a circuit with the cell turned upside down.",
+       "b": "Light. The bulb lights either way round."
+      },
+      {
+       "f": "Draw a circuit with very long, wiggly wires round the page.",
+       "b": "Light. The path is still complete."
+      },
+      {
+       "f": "Draw a circuit with no cell, only wires and a bulb.",
+       "b": "Dark. Nothing pushes the electricity."
+      },
+      {
+       "f": "Draw a circuit with both wires on the flat end of the cell.",
+       "b": "Dark. There is no path to the bump."
+      },
+      {
+       "f": "Draw a circuit with the two wires crossed in an X.",
+       "b": "Light. Covered wires can cross."
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "Mix the cards and put them face down.",
+    "The drawer takes a card, reads the front quietly and draws that circuit.",
+    "The others say 'light' or 'dark', and give a reason.",
+    "Turn the card over to check. One point for the right answer and one point for a good reason.",
+    "If anyone is unsure, build the circuit with the real kit to see."
+   ],
+   "setup": [
+    {
+     "art": "A boy drawing a cell with two curly wires going to a bulb on a sheet of paper while his sister watches.",
+     "caption": "1. Draw the circuit on your card."
+    },
+    {
+     "art": "The sister shouting 'Light!' and pointing at the drawing, with the card turned over beside it.",
+     "caption": "2. Say light or dark, and why. Check the back."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Read one card and draw it yourself, to show how to play.",
+     "say": "I will draw a circuit. Will this bulb light or stay dark? Tell me why.",
+     "kid": "Look at the drawing. Light or dark? Why?"
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Take turns drawing. After each answer, ask for the reason before you turn the card.",
+     "say": "Why do you think it will be dark? Show me with your finger where the path breaks.",
+     "kid": "Show the path with your finger. Where does it break?",
+     "ask": [
+      {
+       "q": "How can you tell from a drawing if the bulb will light?",
+       "good": [
+        "Follow the path from one end of the cell, through the bulb, to the other end.",
+        "Look for gaps."
+       ]
+      }
+     ],
+     "parent": "A drawing with no cell, or both wires on one end, catches many children. Let them build it to see for themselves."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "A Lighthouse with a Light on Top",
+   "mins": 40,
+   "days": 2,
+   "context": "In this project you build a paper lighthouse, like the one at Mamallapuram in Tamil Nadu. A bulb shines at the top. The wires run up inside, out of sight, so the cell can sit at the bottom.",
+   "materials": [
+    {
+     "item": "an empty toilet roll tube, or a sheet of thick paper rolled into a tube",
+     "qty": 1
+    },
+    {
+     "item": "a paper cup or a small plastic cap for the top",
+     "qty": 1
+    },
+    {
+     "item": "one AA cell, 1.5 volts. A new one, or one that still lights a torch well.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a small torch bulb marked 1.5 V or 2.5 V, screwed into a bulb holder. An LED will not light from one AA cell.",
+     "qty": 1,
+     "buy": "b-kit"
+    },
+    {
+     "item": "two long plastic-covered wires, about 40 cm each, or two kit wires joined by their clips",
+     "qty": 2,
+     "buy": "b-kit"
+    },
+    {
+     "item": "a rubber band, to hold the wire ends on the cell",
+     "qty": 1
+    },
+    {
+     "item": "cello tape, glue, colour pencils and paper",
+     "qty": 1
+    }
+   ],
+   "safety": "Only a grown-up uses scissors to make holes. Use only AA cells. Unclip the cell when you finish, so it does not run down.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Decorate the tube and fix the bulb at the top."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "Run the wires down inside, join the cell at the bottom, and test the light."
+    }
+   ],
+   "record": "Draw your lighthouse, and draw the hidden wires inside it with dotted lines.",
+   "setup": [
+    {
+     "art": "A toilet roll tube painted in red and white stripes, with a small bulb in its holder taped on top inside a cut-down paper cup.",
+     "caption": "1. Decorate the tube. Fix the bulb at the top."
+    },
+    {
+     "art": "A cut-away drawing of the tube showing two wires running down inside from the bulb to an AA cell at the bottom.",
+     "caption": "2. Run the wires down inside. Join them to the cell."
+    },
+    {
+     "art": "The finished paper lighthouse on a dark table, its top glowing.",
+     "caption": "3. Switch off the room light. Does your lighthouse shine?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 20,
+     "do": "Day 1: 1. Decorate the tube with stripes or windows. 2. A grown-up cuts a hole in the bottom of the paper cup. 3. Push the bulb holder into the cup and tape it on top of the tube.",
+     "say": "Real lighthouses stand on the coast, so ships can see them at night. Let's build one. The bulb goes at the very top.",
+     "kid": "Colour your lighthouse. Fix the bulb at the top.",
+     "adult": true,
+     "parent": "The lighthouse at Mamallapuram, near Chennai, is a real one that visitors can climb. A picture of it is good to copy from."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Day 2: 1. Clip the two long wires to the bulb holder. 2. Push them down inside the tube. 3. Put the rubber band on the cell. 4. Tuck one wire at the bump and one at the flat end.",
+     "say": "The wires go down inside, where nobody can see them. Will the bulb still light with the wires bent and hidden? Why?",
+     "kid": "Push the wires down inside. Join them to the cell. Will it light?",
+     "ask": [
+      {
+       "q": "Will the bulb light with the wires hidden and bent? Why?",
+       "good": [
+        "Yes, because the path is still joined.",
+        "Yes, the shape does not matter."
+       ]
+      }
+     ],
+     "parent": "If the bulb does not light, play detective: check every join where metal touches metal, and check that the wires are on different ends of the cell."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Switch off the room light and look at the lighthouse. Then unclip the cell.",
+     "say": "Switch off the light. Our lighthouse is shining. What would a ship's captain see?",
+     "kid": "Switch off the room light. Look at your lighthouse shine.",
+     "check": {
+      "t": "mcq",
+      "q": "The lighthouse wires are hidden and bent inside the tube. Why does the bulb still light?",
+      "options": [
+       "The metal path from the cell to the bulb and back is unbroken",
+       "Bent wires carry more electricity",
+       "Paper makes electricity"
+      ],
+      "a": 0,
+      "why": "The bulb needs a complete path, metal touching metal. Bending or hiding a covered wire does not break the metal inside."
+     }
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "The Foil Wire Challenge",
+   "mins": 20,
+   "context": "This is a design challenge. You have no bought wires. Can you light the bulb using kitchen foil as the wires?",
+   "problem": "Light the bulb with no bought wires. You may use kitchen foil, paper and tape. The bulb must stay lit for one minute without anyone holding the joins.",
+   "constraints": [
+    "No bought wires.",
+    "Only one AA cell.",
+    "Nobody holds the joins once it is built."
+   ],
+   "materials": [
+    "one AA cell",
+    "a torch bulb in a holder, or a loose torch bulb",
+    "a sheet of kitchen aluminium foil",
+    "cello tape",
+    "a strip of cardboard",
+    "a rubber band"
+   ],
+   "general": [
+    "Fold a strip of foil lengthwise four times to make a strong foil wire.",
+    "Tape one foil wire to each end of the cell, pressing the foil flat against the metal.",
+    "Wrap the other end of each foil wire round a screw on the bulb holder."
+   ],
+   "creative": [
+    "Tape the foil wires onto a strip of cardboard, so they do not tear and do not touch each other.",
+    "Hold the foil on the cell with a rubber band instead of tape, so the joins press tightly.",
+    "With a loose bulb, wrap one foil wire round the metal side and stand the bulb's tip on the other foil wire."
+   ],
+   "your_turn": "Now design your own foil circuit. Draw it first. Build it, then let go and count to 60. Is the bulb still lit?",
+   "setup": [
+    {
+     "art": "A long strip of kitchen foil being folded lengthwise into a narrow foil wire by a child's hands.",
+     "caption": "1. Fold foil into strong foil wires."
+    },
+    {
+     "art": "Two foil wires taped to the two ends of an AA cell and wrapped round the screws of a bulb holder, with the bulb glowing.",
+     "caption": "2. Join the cell to the bulb with foil. Let go. Count to 60."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Read the problem together. 2. Draw two ideas before building.",
+     "say": "We have no wires today. Could foil do the job of a wire? Why do you think so? Let's draw two ideas first.",
+     "kid": "No wires today. Can foil be a wire? Draw two ideas."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "1. Build the best idea. 2. Let go and count to 60. 3. If it goes dark, find the loose join and improve it.",
+     "say": "Build it, then let go. Count to sixty with me. Is it still lit?",
+     "kid": "Build it. Let go. Count to 60. Is it still lit?",
+     "parent": "Foil is metal, so it carries electricity like a wire. Make sure the two foil wires never touch each other. If they do, the cell gets warm and the bulb goes out. Pull them apart at once."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Read the usual and creative ideas together. Ask which one your child would try next.",
+     "say": "Look at the other ideas. Which one would make your circuit stronger?",
+     "kid": "Which idea would you try next?"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Making a circuit",
+   "tier": "core",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which of these will make the bulb shine?",
+     "opts": [
+      "One wire from the cell to the bulb",
+      "A wire from each end of the cell to the bulb",
+      "A cell next to the bulb, with no wires"
+     ],
+     "a": 1,
+     "why": "Electricity flows out of one end of the cell, through the bulb, and back into the other end. A strong answer says the path must go all the way round.",
+     "how": "a1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw your circuit: a cell, two wires and a bulb. Draw arrows to show the electricity going round.",
+     "a": "A cell with one wire from each end to the bulb, and arrows going round in a ring.",
+     "why": "A strong drawing shows a complete ring, with no gaps and with the two wires on different ends of the cell.",
+     "how": "a1"
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each word to what it means.",
+     "pairs": [
+      [
+       "Cell",
+       "A small store of electricity"
+      ],
+      [
+       "Filament",
+       "The thin wire in a bulb that glows"
+      ],
+      [
+       "Circuit",
+       "A complete ring for electricity"
+      ],
+      [
+       "Gap",
+       "A break where metal does not touch"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These are the words for the parts of a circuit. A strong answer can also point to each part in a real circuit."
+    },
+    {
+     "t": "truefalse",
+     "p": "If you tie a knot in a covered wire, the bulb goes dark.",
+     "a": false,
+     "why": "False. In the Shape Test, the bulb stayed lit with a knot in the wire. The metal inside the plastic was still one unbroken piece.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "A bulb lights only in a ____ circuit, with no gaps.",
+     "a": [
+      "complete"
+     ],
+     "why": "A complete circuit has no gaps, so electricity can flow all the way round."
+    },
+    {
+     "t": "count",
+     "p": "In the Shape Test, Kavitha tried 6 ways. 4 lit the bulb. How many stayed dark?",
+     "a": 2,
+     "why": "6 take away 4 is 2. The two that stayed dark were both wires on the same end of the cell, and the loose bulb.",
+     "how": "e1",
+     "context": "This question is about the Shape Test, where the wires were coiled, crossed and knotted."
+    },
+    {
+     "t": "label",
+     "p": "Label the bulb: glass, filament, tip, metal side.",
+     "labels": [
+      "glass",
+      "filament",
+      "tip",
+      "metal side"
+     ],
+     "a": [
+      "glass: the clear top",
+      "filament: the tiny coil inside",
+      "tip: the small metal dot at the bottom",
+      "metal side: the screw part of the base"
+     ],
+     "why": "Electricity goes in at one metal place, through the filament, and out at the other. A strong answer knows which part glows.",
+     "art": "A large drawing of a torch bulb with four empty label lines pointing to the glass, the coil inside, the bottom tip and the screw side.",
+     "how": "a2"
+    },
+    {
+     "t": "sort",
+     "p": "Sort these: will the bulb light or stay dark?",
+     "cats": [
+      "Lights",
+      "Stays dark"
+     ],
+     "items": [
+      [
+       "Wires coiled round a pencil",
+       "Lights"
+      ],
+      [
+       "Both wires on the flat end",
+       "Stays dark"
+      ],
+      [
+       "Wires crossed in an X",
+       "Lights"
+      ],
+      [
+       "Bulb unscrewed one turn",
+       "Stays dark"
+      ]
+     ],
+     "a": "see items",
+     "why": "The bulb lights when the path is complete, whatever shape the wires make. A wire on the wrong end or a loose bulb makes a gap.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Say out loud, and a grown-up writes it down: why did the bulb go out when you lifted one wire?",
+     "lines": 2,
+     "a": "Lifting the wire made a gap. The electricity could not get all the way round.",
+     "why": "A strong answer uses the word gap, or says the path was not complete any more.",
+     "how": "a1"
+    },
+    {
+     "t": "perspective",
+     "p": "Priya and her brother Dev look at a circuit with very long, curly wires.",
+     "views": [
+      {
+       "who": "Priya, aged 8",
+       "says": "It will light. The wires go from each end of the cell to the bulb."
+      },
+      {
+       "who": "Dev, aged 6",
+       "says": "It might not light. The wires are so curly, the electricity could get lost."
+      }
+     ],
+     "ask": "Who do you agree with? Say why. Then say one thing the other person is thinking about carefully.",
+     "lines": 3,
+     "a": "Priya is right, because the Shape Test showed coiled wires still light the bulb. Dev is right to look closely at the wires before building.",
+     "why": "A strong answer uses the Shape Test as evidence and says what Dev noticed, without calling him silly.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Circuits in new places",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "odd",
+     "p": "Three of these circuits light the bulb. Which one stays dark?",
+     "opts": [
+      "Wires crossed in an X",
+      "One wire coiled like a spring",
+      "Both wires on the bump of the cell",
+      "Very long wires"
+     ],
+     "a": 2,
+     "why": "With both wires on the bump, there is no path to the flat end. Crossed, coiled and long wires still make a complete path.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Anjali turns the cell round in her circuit. What happens?",
+     "opts": [
+      "The bulb lights the same",
+      "The bulb goes dark",
+      "The bulb gets twice as bright"
+     ],
+     "a": 0,
+     "why": "Both ends of the cell are still joined to the bulb. A plain bulb lights whichever way round the cell is.",
+     "how": "e2"
+    },
+    {
+     "t": "order",
+     "p": "Put the path of the electricity in order, starting at the bump of the cell.",
+     "items": [
+      "the flat end of the cell",
+      "the bulb",
+      "the first wire",
+      "the second wire"
+     ],
+     "a": [
+      "the first wire",
+      "the bulb",
+      "the second wire",
+      "the flat end of the cell"
+     ],
+     "why": "Electricity leaves the bump, goes along the first wire, through the bulb, along the second wire, and back into the flat end."
+    },
+    {
+     "t": "write",
+     "p": "Say out loud, and a grown-up writes it down: why does every plug have at least two pins?",
+     "lines": 2,
+     "a": "Electricity needs a way in and a way back, like the two wires in a bulb circuit.",
+     "why": "A strong answer links the two pins to the two wires of a circuit. The third pin on some plugs is for safety.",
+     "how": "a3"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a circuit that looks neat but will not light. Then draw a messy one that will.",
+     "a": "A neat drawing with a gap, or with both wires on one end, and a messy drawing with every join in place.",
+     "why": "A strong answer shows that the joins matter and the shape does not."
+    },
+    {
+     "t": "truefalse",
+     "p": "The glass of a bulb is the part that glows.",
+     "a": false,
+     "why": "False. The thin filament inside glows because it gets very hot. The glass keeps air away from it.",
+     "how": "a2"
+    },
+    {
+     "t": "fill",
+     "p": "The thin wire inside a bulb that glows is called the ____.",
+     "a": [
+      "filament"
+     ],
+     "why": "The filament is far thinner than a hair. Electricity makes it so hot that it glows."
+    },
+    {
+     "t": "match",
+     "p": "Match each problem to how to fix it.",
+     "pairs": [
+      [
+       "Bulb is loose",
+       "Screw it in"
+      ],
+      [
+       "Both wires on the flat end",
+       "Move one wire to the bump"
+      ],
+      [
+       "Clip on the plastic",
+       "Clip it onto the metal"
+      ],
+      [
+       "Used-up cell",
+       "Put in a fresh cell"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each fix makes the path complete again, metal touching metal, with a cell that can push.",
+     "how": "g1"
+    },
+    {
+     "t": "label",
+     "p": "Label the circuit: cell, bump, flat end, wire, bulb.",
+     "labels": [
+      "cell",
+      "bump",
+      "flat end",
+      "wire",
+      "bulb"
+     ],
+     "a": [
+      "cell: the long round part",
+      "bump: the + end of the cell",
+      "flat end: the − end of the cell",
+      "wire: the red or black line",
+      "bulb: the glowing part"
+     ],
+     "why": "A strong answer names every part of the ring.",
+     "art": "A drawing of a cell with two wires going to a bulb, with five empty label lines."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these: does it have a circuit inside?",
+     "cats": [
+      "Has a circuit",
+      "No circuit"
+     ],
+     "items": [
+      [
+       "Torch",
+       "Has a circuit"
+      ],
+      [
+       "Steel tumbler",
+       "No circuit"
+      ],
+      [
+       "Doorbell",
+       "Has a circuit"
+      ],
+      [
+       "Wooden spoon",
+       "No circuit"
+      ]
+     ],
+     "a": "see items",
+     "why": "Anything that uses electricity has a circuit inside. A tumbler and a wooden spoon do not use electricity."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Circuit puzzles",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "perspective",
+     "p": "Three people talk about why a bulb lights.",
+     "views": [
+      {
+       "who": "Swathi, aged 9",
+       "says": "The cell fills the bulb with electricity, like water filling a cup."
+      },
+      {
+       "who": "Rahima, a science teacher",
+       "says": "The electricity goes round and comes back to the cell."
+      },
+      {
+       "who": "Joseph, aged 7",
+       "says": "The wires make the light."
+      }
+     ],
+     "ask": "Who do you agree with? Use what you saw with one wire and with two wires. Then say what the others got partly right.",
+     "lines": 4,
+     "a": "Rahima, because the bulb lit only when a second wire went back to the cell. Swathi is right that the cell gives the bulb its energy. Joseph is right that the wires are needed.",
+     "why": "A strong answer uses evidence from building the circuit, and finds something true in each view.",
+     "how": "a1"
+    },
+    {
+     "t": "write",
+     "p": "Say out loud, and a grown-up writes it down: a torch has no wires you can see. How can it be a circuit?",
+     "lines": 3,
+     "a": "Metal strips and the metal case inside the torch do the job of wires. They join the cells, the switch and the bulb in a ring.",
+     "why": "A strong answer says that any metal path can do the job of a wire."
+    },
+    {
+     "t": "mcq",
+     "p": "Nandini's circuit was working. Now the bulb is dark, but every clip is in place. What should she try first?",
+     "opts": [
+      "Screw the bulb in tighter",
+      "Paint the wires",
+      "Make the wires longer"
+     ],
+     "a": 0,
+     "why": "A loose bulb leaves a gap at its tip. Paint and longer wires do not close a gap.",
+     "how": "g1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a circuit where the wire goes all the way round a plate of idli before it reaches the bulb. Will it light?",
+     "a": "A circuit with a long wire curving round a plate, with both ends of the cell joined to the bulb. Yes, it lights.",
+     "why": "A strong answer shows a complete path and says that the long, curved shape does not matter."
+    },
+    {
+     "t": "truefalse",
+     "p": "A wire from the bump to the bulb, and a second wire from the bulb back to the bump, makes the bulb light.",
+     "a": false,
+     "why": "False. Both wires are on the same end. Electricity needs a path from one end of the cell to the other.",
+     "how": "e1"
+    },
+    {
+     "t": "count",
+     "p": "Sunita has 3 bulbs. Each bulb needs 2 wires for its own circuit. How many wires does she need?",
+     "a": 6,
+     "why": "2 wires for each bulb, 3 times: 2, 4, 6. So she needs 6 wires."
+    },
+    {
+     "t": "write",
+     "p": "Say out loud, and a grown-up writes it down: why should you never use a wall socket for a circuit experiment?",
+     "lines": 2,
+     "a": "Mains electricity from the wall is about 230 volts and can kill. A small AA cell is only 1.5 volts and is safe.",
+     "why": "A strong answer says the wall is much stronger than a cell, and only cells are safe for experiments."
+    },
+    {
+     "t": "label",
+     "p": "This circuit does not work. Label the gap with a G, and say how to fix it.",
+     "labels": [
+      "G"
+     ],
+     "a": [
+      "G: between the second wire and the flat end of the cell. Fix it by joining the wire to the flat end."
+     ],
+     "why": "A strong answer finds the place where metal does not touch metal, and says how to close it.",
+     "art": "A drawing of a cell, two wires and a dark bulb, with the second wire ending a little way from the flat end of the cell."
+    },
+    {
+     "t": "odd",
+     "p": "Which of these is NOT part of the path the electricity flows through?",
+     "opts": [
+      "The filament",
+      "The wire's copper",
+      "The wire's plastic cover",
+      "The cell"
+     ],
+     "a": 2,
+     "why": "Electricity flows through the metal: the copper, the filament and through the cell. The plastic cover keeps it inside the wire."
+    },
+    {
+     "t": "mcq",
+     "p": "A Venus flytrap shuts only after an insect touches her trigger hairs twice. What carries the message through her leaf?",
+     "opts": [
+      "An electric signal",
+      "A wire",
+      "A cell"
+     ],
+     "a": 0,
+     "why": "Each touch sends a tiny electric signal through her leaf. She has no wires or cells, but she uses electricity, as our nerves do."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "How many wires does a simple circuit with one cell and one bulb need?",
+   "opts": [
+    "Two",
+    "One",
+    "None"
+   ],
+   "a": 0,
+   "why": "One wire takes the electricity to the bulb and one brings it back to the cell. Choosing one wire means thinking the bulb fills up with electricity.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Where must the two wires go on the cell?",
+   "opts": [
+    "One on each end",
+    "Both on the bump",
+    "Both on the flat end"
+   ],
+   "a": 0,
+   "why": "Electricity flows out of one end and back into the other. With both wires on one end, there is no path.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You unclip one wire. What happens to the bulb?",
+   "opts": [
+    "It goes dark at once",
+    "It stays lit for a minute",
+    "It gets brighter"
+   ],
+   "a": 0,
+   "why": "Unclipping makes a gap, so the circuit is not complete. The bulb goes dark the moment the gap opens.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Leela coils a wire round a pencil. What happens to the bulb?",
+   "opts": [
+    "It stays lit",
+    "It goes dark",
+    "It flickers on and off"
+   ],
+   "a": 0,
+   "why": "The metal inside the wire is still one piece. The shape of the wire does not matter.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "What is a circuit?",
+   "opts": [
+    "A complete ring that electricity flows round",
+    "A kind of bulb",
+    "A box for cells"
+   ],
+   "a": 0,
+   "why": "A circuit is the whole ring: cell, wire, bulb, wire and back to the cell.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which part of a bulb glows?",
+   "opts": [
+    "The filament",
+    "The glass",
+    "The metal base"
+   ],
+   "a": 0,
+   "why": "Electricity makes the thin filament so hot that it glows. The glass keeps the air away.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a bulb feel warm after a while?",
+   "opts": [
+    "The filament is very hot",
+    "The cell is cold",
+    "The room is warm"
+   ],
+   "a": 0,
+   "why": "The filament gets hot enough to glow, and some of that heat warms the glass.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Arjun's bulb is dark. He finds it is unscrewed a little. Why is it dark?",
+   "opts": [
+    "There is a gap at the bulb",
+    "The wires are too short",
+    "The cell is upside down"
+   ],
+   "a": 0,
+   "why": "A loose bulb does not touch the holder at its tip, so there is a gap in the path.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Mehrunissa traces her circuit with a finger, starting at the bump. Where does her finger end?",
+   "opts": [
+    "At the flat end of the cell",
+    "At the bulb",
+    "At the bump again, without passing the bulb"
+   ],
+   "a": 0,
+   "why": "The path goes from the bump, along a wire, through the bulb, along the other wire and into the flat end.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which is safe to use for a circuit experiment?",
+   "opts": [
+    "An AA cell",
+    "A wall socket",
+    "A phone charger plugged into the wall"
+   ],
+   "a": 0,
+   "why": "An AA cell is only 1.5 volts. The wall socket and anything plugged into it carry mains electricity, which can kill.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Two wires cross each other in an X, plastic touching plastic. What happens to the bulb?",
+   "opts": [
+    "It stays lit",
+    "It goes dark",
+    "It gets dimmer and dimmer"
+   ],
+   "a": 0,
+   "why": "The plastic covers keep the metal of each wire apart, and each wire's path is still unbroken.",
+   "outcome": 4
+  }
+ ],
+ "videos": [
+  {
+   "title": "A child building a simple circuit with a cell, wires and a bulb",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 3,
+   "why": "Shows a real circuit being built, the bulb lighting and going dark when one wire is unclipped.",
+   "check": "Find a short real-footage clip, without music that drowns the words. Check that it uses only small cells and no wall sockets."
+  },
+  {
+   "title": "Inside a torch bulb, close up",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 2,
+   "why": "Shows the filament glowing up close, so children see which part makes the light.",
+   "check": "Find a slow close-up of a filament bulb being switched on. Check that it is real footage, not a cartoon."
+  },
+  {
+   "title": "A Venus flytrap closing",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 2,
+   "why": "Shows a plant who counts touches and acts on an electric signal in her leaf.",
+   "check": "Find real footage of a Venus flytrap closing after her trigger hairs are touched twice. Check that it does not say she closes after one touch."
+  }
+ ],
+ "applications": [
+  "Every torch, doorbell, toy car and TV remote has a circuit inside, with metal paths in place of loose wires.",
+  "Electricians follow the path of a circuit to find faults in homes and shops, just like the Find the Fault game.",
+  "Phones and computers have thousands of tiny circuits printed as thin metal lines on a board.",
+  "Hertha Ayrton, a scientist in London, studied the bright electric arc lamps that once lit streets. In 1899 she became the first woman member of the Institution of Electrical Engineers in Britain."
+ ],
+ "spotted": [
+  {
+   "text": "In Madurai and Chennai, homes light up their golu dolls with strings of tiny bulbs for Navaratri. Each string is one long circuit.",
+   "art": "Rows of clay dolls on steps lit by a string of small coloured bulbs."
+  },
+  {
+   "text": "In Kolkata during Durga Puja, pandals glow with thousands of small lights, joined by wires that run behind the cloth.",
+   "art": "A tall pandal at night covered in patterns of small yellow and blue lights."
+  },
+  {
+   "text": "A fruit seller's cart at a night market in Hyderabad often has a small light run from a battery.",
+   "art": "A handcart piled with bananas and guavas, lit by a small bulb on a wire from a battery box."
+  },
+  {
+   "text": "A cycle rickshaw in Guwahati or Patna may have a small light at the front, joined by wires to a battery.",
+   "art": "A cycle rickshaw at dusk with a small glowing light on the front."
+  },
+  {
+   "text": "The lighthouse at Mamallapuram, near Chennai, shines its light far out over the sea at night.",
+   "art": "A tall pale lighthouse on rocks by the sea at dusk, its light shining."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "What is an electron, really?",
+   "why_open": "Scientists can measure how electrons move and push on each other very exactly. But what an electron is in itself, and whether it has any parts, is still not known."
+  },
+  {
+   "q": "How does a Venus flytrap keep count of the touches?",
+   "why_open": "Scientists can measure the electric signals in her leaf, and know she shuts after two touches. Exactly how her cells hold the count for a short time is still being worked out."
+  },
+  {
+   "q": "Can we make lights that waste no energy as heat?",
+   "why_open": "An old bulb turns most of its energy into heat, which is why it gets warm. LED lights waste much less, but every light still makes some heat. Scientists are still trying to waste less."
+  }
+ ],
+ "ask_kids": [
+  "Where do you think the circuit is in our doorbell?",
+  "If we coiled the TV remote's cells' path round and round, would it still work?",
+  "How many things in this room have a circuit inside?",
+  "What is the first thing you would check if a torch would not light?",
+  "Why do you think wires are covered in plastic?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the bulb go to school?",
+   "a": "To get a little brighter!"
+  },
+  {
+   "j": "What did one wire say to the other?",
+   "a": "Let's stay connected!"
+  },
+  {
+   "j": "Why was the circuit so friendly?",
+   "a": "It always came back round!"
+  },
+  {
+   "j": "What did the bulb say when the wire came off?",
+   "a": "I'm in the dark about this!"
+  },
+  {
+   "j": "Why did the cell bring two wires to the party?",
+   "a": "It wanted to go out and come back!"
+  },
+  {
+   "j": "Why was the knotted wire not worried?",
+   "a": "It knew it was still all in one piece!"
+  },
+  {
+   "j": "What does a detective say when the bulb is dark?",
+   "a": "There's a gap in the case!"
+  },
+  {
+   "j": "What did the filament say after a long day?",
+   "a": "I'm all glowed out!"
+  },
+  {
+   "j": "Why did the electricity go round the circuit?",
+   "a": "It was the only way home!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Shape Test, Kavitha's bulb lit in 4 tests and stayed dark in 2. How many tests did she do?",
+   "answer": "6 tests.",
+   "explain": "4 lit and 2 stayed dark. 4 add 2 is 6. So she did 6 tests in all.",
+   "math_unit": "math.addition-subtraction.meaning.L2",
+   "how": "e1",
+   "context": "This is about the Shape Test, where the wires were coiled, crossed and knotted.",
+   "why_maths": "Adding the two groups together checks that every test has been counted."
+  },
+  {
+   "problem": "Every circuit needs 2 wires. Count in twos: how many wires do 1, 2, 3, 4 and 5 circuits need? What pattern do you see?",
+   "answer": "2, 4, 6, 8, 10. Each time it goes up by 2.",
+   "explain": "One circuit needs 2 wires. Each new circuit adds 2 more. So the numbers go 2, 4, 6, 8, 10. They are all even numbers.",
+   "math_unit": "math.patterns.number-patterns.L2",
+   "context": "This is about building more than one circuit, each with its own cell, bulb and two wires.",
+   "why_maths": "Spotting the counting-in-twos pattern lets you work out the wires for any number of circuits without counting each one."
+  },
+  {
+   "problem": "In Count the Twos, Farida found a cell with 2 ends, a bulb with 2 metal places, a charger with 2 pins and a mixie plug with 3 pins. Make a tally chart. Which number came up most?",
+   "answer": "2 came up 3 times. 3 came up once.",
+   "explain": "Make one tally mark for each thing. Under 2 there are 3 marks: the cell, the bulb and the charger. Under 3 there is 1 mark: the mixie plug. Its third pin is the earth pin, for safety.",
+   "math_unit": "math.data.sorting-and-tallies.L2",
+   "how": "a3",
+   "context": "This is about Count the Twos, where you counted the metal ends on a cell, a bulb and some plugs.",
+   "why_maths": "A tally chart shows at a glance that 2 is the number that keeps coming up, which is the pattern we were looking for."
+  },
+  {
+   "problem": "In the Find the Fault game, Ammu found the fault in 5 rounds out of 8. Her brother found it in 3 rounds out of 8. Each find gets 2 points. Who won, and by how many points?",
+   "answer": "Ammu won, by 4 points.",
+   "explain": "Ammu: 5 finds, 2 points each, is 10 points. Her brother: 3 finds is 6 points. 10 take away 6 is 4. So Ammu won by 4 points.",
+   "math_unit": "math.multiplication.equal-groups.L2",
+   "how": "g1",
+   "context": "This is about the Find the Fault game, where one player hides a fault and the other finds it.",
+   "why_maths": "Counting in equal groups of 2 turns finds into points, so we can compare the two players fairly."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.electricity.L2",
+  "title": "Plug or Cell",
+  "note": "Topic-level song for Electricity L2"
+ },
+ "links": [
+  {
+   "title": "PhET Circuit Construction Kit: DC",
+   "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc",
+   "kind": "simulation",
+   "why": "A free online circuit kit from the University of Colorado. Drag cells, wires and bulbs together and watch the bulb light. Best played with a grown-up."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A science museum with hands-on galleries about electricity and machines."
+  },
+  {
+   "title": "Nehru Science Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Mumbai",
+   "why": "A large science centre with hands-on exhibits about electricity and light."
+  },
+  {
+   "title": "Kerala State Science and Technology Museum",
+   "url": "",
+   "kind": "place",
+   "where": "Thiruvananthapuram",
+   "why": "A science museum with galleries on electricity and electronics."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-kit",
+   "item": "A school electric circuit kit: an AA cell holder, torch bulbs (1.5 V or 2.5 V) with holders, and crocodile-clip wires",
+   "kind": "tool",
+   "why": "Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Folded kitchen foil can stand in for wires.",
+   "url": "https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "p1"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "How many wires does a bulb circuit with one cell need?",
+   "a": "Two. One out to the bulb and one back to the cell."
+  },
+  {
+   "q": "What is a circuit?",
+   "a": "A complete ring that electricity flows round."
+  },
+  {
+   "q": "Which part of a bulb glows?",
+   "a": "The thin wire inside, called the filament."
+  },
+  {
+   "q": "Does a knot in a covered wire stop the bulb lighting?",
+   "a": "No. The metal inside is still one piece."
+  },
+  {
+   "q": "Both wires on the flat end of the cell: light or dark?",
+   "a": "Dark. There is no path to the other end."
+  },
+  {
+   "q": "Is a wall socket safe for experiments?",
+   "a": "Never. Only small cells are safe."
+  }
+ ],
+ "roots": {
+  "context": "We have built a circuit, coiled and knotted its wires, and looked inside a bulb. Now we ask what the Shape Test tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your bulb lit with the wires straight, coiled, crossed or knotted. It stayed dark when both wires touched the same end of the cell. So whether a bulb lights depends on what is joined to what. The shape of the wires does not change it.",
+   "habit": "We judge things by how they look: a neat ring looks as if it should work, and a tangle looks as if it should not. The Shape Test shows that the joins decide, and the shape does not.",
+   "evidence": "In the Shape Test, four very different shapes all lit the bulb equally. A tidy-looking circuit with both wires on the flat end stayed dark."
+  },
+  "three": {
+   "who_am_i": "Your body has paths for electric signals too. Your nerves carry tiny signals from your fingertips to your brain, round every bend in your arm.",
+   "what_is_life": "Thinking is not only for brains. A Venus flytrap counts touches with electric signals in her leaf, and decides when to shut. Some scientists call this a reflex.",
+   "what_is_this_world": "Everything is conscious, down to the tiny electrons in a wire. Most physicists today disagree. They say an electron only follows fixed laws."
+  },
+  "thread": "A straight wire and a knotted wire look like two different things. To the circuit, they are the same path, because the metal is unbroken. A map of the Chennai metro works the same way. It does not show the real bends of the streets, only which stations join, and that is enough to travel. Mathematicians study this kind of sameness and call it topology. Underneath many different-looking things, what matters is how they are joined.",
+  "teachings": [
+   {
+    "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
+    "teaching": "Nagarjuna, a teacher in South India about 1,800 years ago, taught that nothing has its nature all by itself. Each thing is what it is because of what it depends on.",
+    "link": "A bulb on its own does nothing. It glows only because of what it is joined to: the wires, and the two ends of the cell."
+   },
+   {
+    "source": "Avatamsaka Sutra, the net of Indra",
+    "teaching": "Buddhist teachers describe a great net with a jewel at every knot. Each jewel reflects every other jewel.",
+    "link": "In a net, what matters is which knots are joined, not how the net is folded. A circuit is a small net of joins too."
+   }
+  ],
+  "science": [
+   {
+    "text": "A bulb lights only when there is a complete metal path from one end of the cell, through the bulb, to the other end.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether a circuit is complete depends only on its joins, not on the shape of its wires. Mathematicians call properties like this topological.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "Most physicists",
+   "view": "An electron in a wire is a tiny particle that follows fixed laws of nature. They say it has no inner life at all, and that awareness needs a brain, or at least a living body."
+  },
+  "practice": {
+   "title": "Feel the join",
+   "mins": 3,
+   "say": "Sit still and close your eyes. Touch the tip of your first finger to the tip of your thumb. Your hand makes a ring. Feel the place where they meet. Now move them apart, just a hair's width. Can you still feel each other? Touch them again. Breathe slowly three times. Where does your finger end and your thumb begin?",
+   "kid": "Close your eyes. Touch your finger to your thumb. Your hand makes a ring. Move them apart a tiny bit. Touch again. Where does your finger end?"
+  },
+  "ask": [
+   "Your knotted wire and your straight wire did the same job. In what way were they the same?",
+   "A bulb glows only because of what it is joined to. What are you joined to?",
+   "If everything is conscious, what might the electrons in a wire be aware of?"
+  ],
+  "art": "A child sitting cross-legged with eyes closed, finger and thumb touching in a ring, beside a glowing bulb joined by a knotted wire to a cell."
+ },
+ "how_we_found_out": {
+  "who": "Joseph Swan, a chemist in Newcastle in England, and Lewis Latimer, a Black American engineer who taught himself technical drawing",
+  "when": "1879 (Swan's carbon bulb) and 1882 (Latimer's better carbon threads)",
+  "story": "In the 1800s, inventors found that a thin thread of carbon glows when electricity flows through it. But their bulbs burned out within minutes. Joseph Swan, a chemist in Newcastle in England, worked on this for years. He worked out that the trouble was the air left inside the glass. Hot carbon burns when air touches it. In 1865, Hermann Sprengel had invented a much better pump for taking air out of glass. Using a pump like this, Swan took almost all the air out of his bulbs. Now the carbon thread glowed without burning up. Early in 1879, he showed his bulb to a hall full of people in Newcastle. Thomas Edison's team in America made long-lasting bulbs at about the same time. Then the carbon threads were hard to make, and many broke. Lewis Latimer, a Black American engineer who had taught himself technical drawing, found a better way to make them. He was given a patent for it in 1882. The wrong idea was that a glowing thread would always burn up quickly. Taking the air away showed that it need not.",
+  "wrong_idea": "Many early bulbs burned out in minutes, and a long-lasting electric bulb seemed out of reach. Swan showed that air inside the glass was burning the hot carbon. With the air taken out, the thread glowed for hours."
+ },
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "summary",
+   "terms",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz",
+   "story",
+   "a2",
+   "g1",
+   "ws-core",
+   "e2",
+   "a3",
+   "g2",
+   "agreed",
+   "challenging",
+   "ws-stretch",
+   "c1",
+   "p1",
+   "big_questions",
+   "videos",
+   "ws-challenge",
+   "open_questions"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "playtest": "Checked for a city flat: every activity needs an AA cell, a torch bulb in a holder and two wires, from a school circuit kit or an electrical shop, plus a rubber band, a pencil and kitchen foil. A rubber band stretched along an AA cell holds bare wire ends firmly on both ends. A bulb marked 2.5 V glows dimly but visibly on one 1.5 V cell, so the Shape Test works best in a dim room. Coiled, crossed and knotted covered wires light the bulb just the same. Both wires on the flat end, and a bulb unscrewed about one turn, give a dark bulb. In the foil challenge, the two foil strips must not touch each other.",
+ "sources": {
+  "founder": [
+   "ideas/by_topic/electricity-and-staying-safe-with-it.md, Electricity: 'build a simple circuit with battery, wires and bulb' became Your First Circuit (a1) and the Shape Test (e1); 'card-matching symbols to components' and 'quiz on circuit components' became the Light or Dark drawing game (g2); 'draw circuit diagrams as art' became the drawing steps.",
+   "Cambridge Primary Science Stage 2, Unit 6.3 'Making a circuit': the parts of a circuit, tracing the flow with a finger, and why some circuits do not work. The Level 3 unit (Simple circuits) already has the one-wire bulb challenge, the conductor test, where the gap is, two cells, a torch taken apart and a paper clip switch, so this unit uses the shape of the wires, which way round, a close look at the bulb, counting metal ends and a fault-finding game instead."
+  ],
+  "science": [
+   "Mains supply in India is about 230 volts. An AA cell gives 1.5 volts.",
+   "J. W. Swan's carbon filament lamp, shown in Newcastle upon Tyne early in 1879, and his use of a Sprengel mercury pump (H. Sprengel, 1865) for a better vacuum (IET Archives biography of Joseph Swan).",
+   "L. H. Latimer, US Patent 252,386, 'Process of Manufacturing Carbons', 17 January 1882.",
+   "J. Böhm and others, 'The Venus Flytrap Dionaea muscipula Counts Prey-Induced Action Potentials to Induce Sodium Uptake', Current Biology 26 (2016): two touches trigger fast closure.",
+   "Hertha Ayrton, elected the first woman member of the Institution of Electrical Engineers in 1899.",
+   "Nagarjuna, Mulamadhyamakakarika 24.18, on dependent origination."
+  ]
+ }
+}
