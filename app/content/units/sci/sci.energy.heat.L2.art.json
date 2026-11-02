@@ -3,8 +3,104 @@
   "src": "media/img/sci.energy.heat.L2/expl.1.jpg",
   "credit": "NASA/SDO/AIA, public domain"
  },
+ "expl.4": {
+  "src": "media/img/sci.energy.heat.L2/expl.4.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.energy.heat.L2/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.energy.heat.L2/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.energy.heat.L2/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.energy.heat.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.energy.heat.L2/flow.p1.jpg",
+  "drawn": true
+ },
+ "setup.a1.0": {
+  "src": "media/img/sci.energy.heat.L2/setup.a1.0.jpg",
+  "drawn": true
+ },
+ "setup.a1.1": {
+  "src": "media/img/sci.energy.heat.L2/setup.a1.1.jpg",
+  "drawn": true
+ },
+ "setup.a2.0": {
+  "src": "media/img/sci.energy.heat.L2/setup.a2.0.jpg",
+  "drawn": true
+ },
+ "setup.a2.1": {
+  "src": "media/img/sci.energy.heat.L2/setup.a2.1.jpg",
+  "drawn": true
+ },
+ "setup.a3.0": {
+  "src": "media/img/sci.energy.heat.L2/setup.a3.0.jpg",
+  "drawn": true
+ },
+ "setup.a3.1": {
+  "src": "media/img/sci.energy.heat.L2/setup.a3.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.0": {
+  "src": "media/img/sci.energy.heat.L2/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.energy.heat.L2/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.energy.heat.L2/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.energy.heat.L2/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.energy.heat.L2/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.energy.heat.L2/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.energy.heat.L2/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.energy.heat.L2/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.energy.heat.L2/term.0.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.energy.heat.L2/term.3.jpg",
+  "drawn": true
+ },
  "term.4": {
   "src": "media/img/sci.energy.heat.L2/term.4.jpg",
   "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+ },
+ "term.5": {
+  "src": "media/img/sci.energy.heat.L2/term.5.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.energy.heat.L2/term.7.jpg",
+  "drawn": true
  }
 }
