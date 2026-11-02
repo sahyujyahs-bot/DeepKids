@@ -980,7 +980,11 @@
       },
       {
        "f": "Drumstick",
-       "b": "Fruit. The long pod holds the seeds."
+       "b": "Fruit. The long pod holds the seeds.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-14.jpg",
+        "credit": "Shonali Chenzira, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Rice",
