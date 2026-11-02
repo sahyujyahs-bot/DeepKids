@@ -11383,7 +11383,7 @@ function planPart(k) {
     const Q = askList();
     return (
       `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3><p class="xs muted">Classes, outings, to-dos, reminders. Two ways to add them:</p><div class="seg addmode">${[
-        ["pick", "Fill in a form"],
+        ["pick", "Quick add"],
         ["say", "Type or speak"],
       ]
         .map(

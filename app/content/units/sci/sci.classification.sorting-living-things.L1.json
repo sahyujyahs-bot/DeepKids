@@ -229,63 +229,123 @@
      "items": [
       {
        "f": "🐦 Crow",
-       "b": "2 legs, 2 wings, feathers and a beak."
+       "b": "2 legs, 2 wings, feathers and a beak.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐔 Hen",
-       "b": "2 legs, 2 wings, feathers and a beak. She can fly a short way, up onto a wall."
+       "b": "2 legs, 2 wings, feathers and a beak. She can fly a short way, up onto a wall.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-01.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🦚 Peacock",
-       "b": "2 legs, 2 wings, feathers and a beak. He has a long tail of bright feathers."
+       "b": "2 legs, 2 wings, feathers and a beak. He has a long tail of bright feathers.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-02.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🦇 Bat",
-       "b": "2 wings, 2 legs and fur. No feathers and no beak. A bat mother feeds her baby milk."
+       "b": "2 wings, 2 legs and fur. No feathers and no beak. A bat mother feeds her baby milk.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-03.jpg",
+        "credit": "sam-rajnikant, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🦋 Butterfly",
-       "b": "6 legs and 4 wings. No feathers."
+       "b": "6 legs and 4 wings. No feathers.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-04.jpg",
+        "credit": "Christopher, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐜 Ant",
-       "b": "6 legs. The ants we see in the kitchen have no wings."
+       "b": "6 legs. The ants we see in the kitchen have no wings.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-05.jpg",
+        "credit": "Joss Carr, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🕷️ Spider",
-       "b": "8 legs and no wings."
+       "b": "8 legs and no wings.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-06.jpg",
+        "credit": "Lucas Schrader, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🦀 Crab",
-       "b": "10 legs. The front two end in big claws. A hard shell."
+       "b": "10 legs. The front two end in big claws. A hard shell.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-07.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐍 Snake",
-       "b": "No legs. Dry skin covered in scales."
+       "b": "No legs. Dry skin covered in scales.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-08.jpg",
+        "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🪱 Earthworm",
-       "b": "No legs. Soft, wet skin."
+       "b": "No legs. Soft, wet skin.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-09.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐟 Fish",
-       "b": "No legs. Fins for swimming, and most fish have scales."
+       "b": "No legs. Fins for swimming, and most fish have scales.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-10.jpg",
+        "credit": "Amar Bharathy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐸 Frog",
-       "b": "4 legs. Smooth, wet skin."
+       "b": "4 legs. Smooth, wet skin.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-11.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "🦎 Gecko",
-       "b": "4 legs. Dry skin with tiny scales."
+       "b": "4 legs. Dry skin with tiny scales.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-12.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐄 Cow",
-       "b": "4 legs and hair. A cow mother feeds her calf milk."
+       "b": "4 legs and hair. A cow mother feeds her calf milk.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-13.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐘 Elephant",
-       "b": "4 legs, a trunk and a little hair."
+       "b": "4 legs, a trunk and a little hair.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-14.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🧒 You",

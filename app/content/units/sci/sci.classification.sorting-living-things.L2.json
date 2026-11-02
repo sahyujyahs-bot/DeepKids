@@ -331,31 +331,59 @@
      "items": [
       {
        "f": "🐦 Crow",
-       "b": "Feathers. 2 legs. Eats both: rice, fruit, insects and scraps."
+       "b": "Feathers. 2 legs. Eats both: rice, fruit, insects and scraps.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐔 Hen",
-       "b": "Feathers. 2 legs. Eats both: grain, worms and insects."
+       "b": "Feathers. 2 legs. Eats both: grain, worms and insects.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-01.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🦜 Parrot",
-       "b": "Feathers. 2 legs. Plant-eater: fruit, seeds and buds."
+       "b": "Feathers. 2 legs. Plant-eater: fruit, seeds and buds.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-02.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐄 Cow",
-       "b": "Hair. 4 legs. Plant-eater: grass and hay."
+       "b": "Hair. 4 legs. Plant-eater: grass and hay.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-03.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐐 Goat",
-       "b": "Hair. 4 legs. Plant-eater: leaves and grass."
+       "b": "Hair. 4 legs. Plant-eater: leaves and grass.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-04.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐅 Tiger",
-       "b": "Fur. 4 legs. Meat-eater: deer and wild pigs."
+       "b": "Fur. 4 legs. Meat-eater: deer and wild pigs.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-05.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🦇 Fruit bat",
-       "b": "Fur. 2 legs and 2 wings. Plant-eater: fruit and flower nectar."
+       "b": "Fur. 2 legs and 2 wings. Plant-eater: fruit and flower nectar.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-06.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🧒 You",
@@ -363,35 +391,67 @@
       },
       {
        "f": "🦎 Gecko",
-       "b": "Tiny scales. 4 legs. Meat-eater: moths, flies and other insects."
+       "b": "Tiny scales. 4 legs. Meat-eater: moths, flies and other insects.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-08.jpg",
+        "credit": "Ravuri Krishna Chaitanya, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐍 Rat snake",
-       "b": "Scales. No legs. Meat-eater: rats, frogs and birds' eggs."
+       "b": "Scales. No legs. Meat-eater: rats, frogs and birds' eggs.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-09.jpg",
+        "credit": "Christopher, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐸 Frog",
-       "b": "Bare, wet skin. 4 legs. Meat-eater: insects and worms."
+       "b": "Bare, wet skin. 4 legs. Meat-eater: insects and worms.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-10.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "🐜 Ant",
-       "b": "A hard outer case. 6 legs. Eats both: sweet plant juice and dead insects."
+       "b": "A hard outer case. 6 legs. Eats both: sweet plant juice and dead insects.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-11.jpg",
+        "credit": "Devin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🦋 Butterfly",
-       "b": "A hard outer case, and tiny scales on the wings. 6 legs. Plant-eater: flower nectar."
+       "b": "A hard outer case, and tiny scales on the wings. 6 legs. Plant-eater: flower nectar.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-12.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🕷️ Spider",
-       "b": "A hard outer case. 8 legs. Meat-eater: insects."
+       "b": "A hard outer case. 8 legs. Meat-eater: insects.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-13.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐌 Snail",
-       "b": "Soft, wet skin and a hard shell. No legs, one wide foot. Plant-eater: mostly leaves."
+       "b": "Soft, wet skin and a hard shell. No legs, one wide foot. Plant-eater: mostly leaves.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-14.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🐢 Star tortoise",
-       "b": "A hard shell and scaly skin. 4 legs. Plant-eater: grass, fruit and flowers."
+       "b": "A hard shell and scaly skin. 4 legs. Plant-eater: grass, fruit and flowers.",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-15.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       }
      ]
     },

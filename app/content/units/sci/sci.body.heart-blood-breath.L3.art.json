@@ -19,9 +19,53 @@
   "src": "media/img/sci.body.heart-blood-breath.L3/flow.a1.jpg",
   "credit": "Unknown, CC BY 4.0, via Wikimedia Commons"
  },
+ "flow.a2": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.c1.jpg",
+  "drawn": true
+ },
  "flow.c2": {
   "src": "media/img/sci.body.heart-blood-breath.L3/flow.c2.jpg",
   "credit": "formulatehealth, CC BY 2.0, via Wikimedia Commons"
+ },
+ "flow.e1": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/intro.jpg",
+  "drawn": true
  },
  "setup.e1.0": {
   "src": "media/img/sci.body.heart-blood-breath.L3/setup.e1.0.jpg",
@@ -59,16 +103,40 @@
   "src": "media/img/sci.body.heart-blood-breath.L3/setup.e3.2.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/summary.jpg",
+  "drawn": true
+ },
  "term.0": {
   "src": "media/img/sci.body.heart-blood-breath.L3/term.0.jpg",
   "credit": "OpenStax College, CC BY 3.0, via Wikimedia Commons"
+ },
+ "term.10": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/term.10.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/term.13.jpg",
+  "drawn": true
  },
  "term.16": {
   "src": "media/img/sci.body.heart-blood-breath.L3/term.16.jpg",
   "credit": "Arek Socha, CC0, via Wikimedia Commons"
  },
+ "term.17": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/term.17.jpg",
+  "drawn": true
+ },
  "term.19": {
   "src": "media/img/sci.body.heart-blood-breath.L3/term.19.jpg",
   "credit": "HujiStat, Public domain, via Wikimedia Commons"
+ },
+ "term.9": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/term.9.jpg",
+  "drawn": true
  }
 }

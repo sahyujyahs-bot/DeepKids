@@ -1,0 +1,22 @@
+{
+ "flow.a1": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/flow.a1.jpg",
+  "credit": "haemanthus, CC BY, via iNaturalist"
+ },
+ "flow.a3": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/flow.a3.jpg",
+  "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "flow.e1": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/flow.e1.jpg",
+  "credit": "Haneesh K M, CC0, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/intro.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
+ "summary": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/summary.jpg",
+  "credit": "sunnyjosef, CC BY, via iNaturalist"
+ }
+}
