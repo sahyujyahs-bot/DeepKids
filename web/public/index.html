@@ -54,11 +54,6 @@
   --r-xl: 14px;
   --lift: none;
   --night: #1e1436;
-  /* Progress constellation tiles: deep and light subjects alternate */
-  --sky-math: #2b3a7a;
-  --sky-eng: #f3c04a;
-  --sky-hin: #e8735a;
-  --sky-sci: #1f7a5c;
   /* the calm look (approved redesign, Nov 2026): soft white cards on paper, round pills, one red action */
   --r-card: 20px;
   --r-btn: 14px;
@@ -1665,7 +1660,6 @@ dialog.sheet::backdrop {
   gap: 12px;
 }
 .skyt {
-  --t: var(--c);
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 2px;
@@ -1680,19 +1674,7 @@ dialog.sheet::backdrop {
   background:
     radial-gradient(circle at 20% 30%, #fff8 0.6px, transparent 1.2px) 0 0 / 23px 29px,
     radial-gradient(circle at 70% 60%, #fff6 0.6px, transparent 1.2px) 0 0 / 31px 37px,
-    radial-gradient(120% 100% at 70% 0%, var(--t), color-mix(in srgb, var(--t) 35%, #120a2a));
-}
-.skyt[data-s="math"] {
-  --t: var(--sky-math);
-}
-.skyt[data-s="sci"] {
-  --t: var(--sky-sci);
-}
-.skyt[data-s="eng"] {
-  --t: var(--sky-eng);
-}
-.skyt[data-s="hin"] {
-  --t: var(--sky-hin);
+    radial-gradient(120% 100% at 70% 0%, var(--c), color-mix(in srgb, var(--c) 35%, #120a2a));
 }
 /* the light tiles: ink stars on a sunlit sky */
 .skyt[data-s="eng"],
@@ -1701,7 +1683,7 @@ dialog.sheet::backdrop {
   background:
     radial-gradient(circle at 20% 30%, #1f244033 0.7px, transparent 1.3px) 0 0 / 23px 29px,
     radial-gradient(circle at 70% 60%, #1f244026 0.7px, transparent 1.3px) 0 0 / 31px 37px,
-    radial-gradient(120% 100% at 70% 0%, color-mix(in srgb, var(--t) 70%, #fff), var(--t));
+    radial-gradient(120% 100% at 70% 0%, color-mix(in srgb, var(--c) 70%, #fff), var(--c));
 }
 .skyt:is([data-s="eng"], [data-s="hin"]) :is(.on, .off, .half) {
   fill: var(--ink);
@@ -1745,12 +1727,12 @@ dialog.sheet::backdrop {
   opacity: 0.85;
 }
 .skyt .ln line {
-  stroke: color-mix(in srgb, var(--t) 30%, #fff);
+  stroke: color-mix(in srgb, var(--c) 30%, #fff);
   stroke-opacity: 0.6;
   stroke-width: 1;
 }
 .skyt .glow {
-  fill: color-mix(in srgb, var(--t) 30%, #fff);
+  fill: color-mix(in srgb, var(--c) 30%, #fff);
   opacity: 0.3;
 }
 .skyt .on {
@@ -6029,16 +6011,16 @@ header.top .hello b {
   background: var(--aqua);
 }
 .s-math {
-  --c: #0f6e6b;
+  --c: #3a4c94;
 }
 .s-eng {
-  --c: #5b4bb7;
+  --c: #f3c04a;
 }
 .s-hin {
-  --c: #c2372b;
+  --c: #e8735a;
 }
 .s-sci {
-  --c: #3c8a3f;
+  --c: #2a8f6c;
 }
 .s-dks {
   --c: #b07a0e;
