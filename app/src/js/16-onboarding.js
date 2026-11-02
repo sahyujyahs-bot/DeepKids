@@ -323,7 +323,7 @@ const FXINTRO = [
     "Classes, rest days, outings and curiosity. DeepKids plans each day around them and re-plans itself as your child learns.",
   ],
   [
-    "intro-schools",
+    "intro-arch",
     "Ready for any school",
     "Everything NCERT, Cambridge and NIOS teach, and more. Follow your board's book, or let DeepKids lead by topic.",
   ],

@@ -465,7 +465,11 @@
       },
       {
        "f": "A squeeze running along a spring toy",
-       "b": "Wave. The squeeze travels along the coils. Each coil only moves a little and comes back."
+       "b": "Wave. The squeeze travels along the coils. Each coil only moves a little and comes back.",
+       "img": {
+        "src": "media/cards/waves-g1-0-10.jpg",
+        "credit": "Gotfryd, Bernard, photographer, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "An auto driving down the road",

@@ -1,4 +1,8 @@
 {
+ "flow.a2": {
+  "src": "media/img/sci.sound.waves.L3/flow.a2.jpg",
+  "credit": "Tramonto5, CC BY 4.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sound.waves.L3/setup.e1.0.jpg",
   "drawn": true
@@ -26,5 +30,9 @@
  "setup.e2.2": {
   "src": "media/img/sci.sound.waves.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.sound.waves.L3/term.15.jpg",
+  "credit": "Fitrah 9131, CC BY 4.0, via Wikimedia Commons"
  }
 }
