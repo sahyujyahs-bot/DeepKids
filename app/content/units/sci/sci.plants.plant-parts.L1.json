@@ -394,11 +394,19 @@
       },
       {
        "f": "Coconut palm: stem",
-       "b": "Stem. The tall trunk holds the leaves up high in the sun."
+       "b": "Stem. The tall trunk holds the leaves up high in the sun.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-19.jpg",
+        "credit": "Vivaan jalan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coconut palm: leaves",
-       "b": "Leaves. Long leaves at the top catch sunlight and make food."
+       "b": "Leaves. Long leaves at the top catch sunlight and make food.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-20.jpg",
+        "credit": "Mr. Abhay Suresh Hule, Ph.D. in Zoology, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coconut palm: flowers",
@@ -406,7 +414,11 @@
       },
       {
        "f": "Coconut palm: fruit",
-       "b": "Fruit. The coconut, with a thick husk. The husk lets the coconut float on the sea."
+       "b": "Fruit. The coconut, with a thick husk. The husk lets the coconut float on the sea.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-22.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coconut palm: seed",
