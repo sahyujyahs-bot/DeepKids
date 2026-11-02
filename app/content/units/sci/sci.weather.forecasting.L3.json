@@ -1935,22 +1935,20 @@
    "check": "Not yet watched by a person: watch it first. No video could be looked up from here. Find one under 6 minutes that shows observations, a computer model and a forecaster, and preview it."
   },
   {
-   "title": "The butterfly effect and weather (for the parent)",
-   "channel": "a short explainer on Edward Lorenz and chaos",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
-   "why": "For the parent and curious older children: why small differences grow and limit how far ahead weather can be forecast.",
-   "check": "Not found from here. Choose one that tells the true story of Lorenz's rounded number, and preview it."
+   "title": "Chaos Theory",
+   "channel": "Met Office - Learn About Weather",
+   "youtube": "Wps2vtzi1TU",
+   "mins": 4,
+   "why": "For the parent and curious older children: why tiny differences grow and limit how far ahead weather can be forecast.",
+   "check": "Found by search: \"Chaos Theory\" by Met Office - Learn About Weather, 4 minutes, 2 seconds. A parent may preview it."
   },
   {
-   "title": "Cyclone Phailin 2013: how the warning saved lives",
-   "channel": "for example a news report or a World Meteorological Organization film",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows a real forecast of a dangerous storm, and the evacuation of close to a million people in Odisha and Andhra Pradesh.",
-   "check": "Not found from here. Choose a calm report suitable for children, and preview it, since storm footage can frighten some children."
+   "title": "Evacuations saved lives in Cyclone Phailin",
+   "channel": "CNN",
+   "youtube": "M3Pf3Xsdvvo",
+   "mins": 2,
+   "why": "Shows the real evacuation in Odisha that saved lives after the forecast of Cyclone Phailin.",
+   "check": "Found by search: \"Evacuations saved lives in Cyclone Phailin\" by CNN, 2 minutes, 8 seconds. A parent may preview it."
   }
  ],
  "quiz": [

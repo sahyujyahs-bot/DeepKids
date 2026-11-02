@@ -1072,7 +1072,11 @@
       },
       {
        "f": "Elephant",
-       "b": "Mammal. Hair, and feeds her calf milk."
+       "b": "Mammal. Hair, and feeds her calf milk.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-19.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       }
      ]
     }

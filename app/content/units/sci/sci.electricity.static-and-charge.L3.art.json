@@ -11,8 +11,16 @@
   "src": "media/img/sci.electricity.static-and-charge.L3/intro.jpg",
   "credit": "Piper from Colorado, CC BY 2.0, via Wikimedia Commons"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.electricity.static-and-charge.L3/setup.e1.0.jpg",
+  "drawn": true
+ },
  "setup.e1.0.0": {
   "src": "media/img/sci.electricity.static-and-charge.L3/setup.e1.0.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.electricity.static-and-charge.L3/setup.e1.1.jpg",
   "drawn": true
  },
  "setup.e1.1.1": {
@@ -27,12 +35,24 @@
   "src": "media/img/sci.electricity.static-and-charge.L3/setup.e1.2.2.jpg",
   "drawn": true
  },
+ "setup.e2.0": {
+  "src": "media/img/sci.electricity.static-and-charge.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
  "setup.e2.0.0": {
   "src": "media/img/sci.electricity.static-and-charge.L3/setup.e2.0.0.jpg",
   "drawn": true
  },
+ "setup.e2.1": {
+  "src": "media/img/sci.electricity.static-and-charge.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
  "setup.e2.1.1": {
   "src": "media/img/sci.electricity.static-and-charge.L3/setup.e2.1.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.electricity.static-and-charge.L3/setup.e2.2.jpg",
   "drawn": true
  },
  "setup.e2.2.2": {

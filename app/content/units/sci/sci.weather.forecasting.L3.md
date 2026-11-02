@@ -610,8 +610,8 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 
 ## Videos
 - **How Do We Know When It Will Rain? | Weather Science | SciShow Kids** (SciShow Kids, 4 min) id `dLQ0lHpyZd8`: Shows the steps of a modern forecast: measuring, computing and checking. *Check:* Not yet watched by a person: watch it first. No video could be looked up from here. Find one under 6 minutes that shows observations, a computer model and a forecaster, and preview it.
-- **The butterfly effect and weather (for the parent)** (a short explainer on Edward Lorenz and chaos, 5 min) id `to find`: For the parent and curious older children: why small differences grow and limit how far ahead weather can be forecast. *Check:* Not found from here. Choose one that tells the true story of Lorenz's rounded number, and preview it.
-- **Cyclone Phailin 2013: how the warning saved lives** (for example a news report or a World Meteorological Organization film, 4 min) id `to find`: Shows a real forecast of a dangerous storm, and the evacuation of close to a million people in Odisha and Andhra Pradesh. *Check:* Not found from here. Choose a calm report suitable for children, and preview it, since storm footage can frighten some children.
+- **Chaos Theory** (Met Office - Learn About Weather, 4 min) id `Wps2vtzi1TU`: For the parent and curious older children: why tiny differences grow and limit how far ahead weather can be forecast. *Check:* Found by search: "Chaos Theory" by Met Office - Learn About Weather, 4 minutes, 2 seconds. A parent may preview it.
+- **Evacuations saved lives in Cyclone Phailin** (CNN, 2 min) id `M3Pf3Xsdvvo`: Shows the real evacuation in Odisha that saved lives after the forecast of Cyclone Phailin. *Check:* Found by search: "Evacuations saved lives in Cyclone Phailin" by CNN, 2 minutes, 8 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Meera, a girl in Class 3 in Coimbatore, sees a low grey sheet of cloud covering the whole sky. What weather is most likely?  

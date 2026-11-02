@@ -579,7 +579,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 ## Videos
 - **This Bird Doesnt Make Any Sense** (A Curious Birb, 4 min) id `9Gvc8TB7Tkw`: Shows the longest yearly journey of any animal, with the tracked route drawn on a map. *Check:* Not yet watched by a person: watch it first.
 - **Watch a Breathtaking Monarch Butterfly Swarm** (Nature on PBS, 4 min) id `lWOySU_hAz0`: Shows millions of monarchs covering the fir trees, which children can compare with the story of how the forests were found. *Check:* Not yet watched by a person: watch it first.
-- **Humpback whales: a mother and calf in warm water** (, 4 min) id `to find`: Shows a humpback mother and calf in the warm sea where calves are born, with the cold feeding seas explained. *Check:* Find a real video. Check that it describes the migration between cold feeding seas and warm calving seas.
+- **Humpback Whales Migration to Australian Waters (Built to Survive)** (National Geographic UK, 2 min) id `hLiu6VJzG8s`: Shows humpback whales migrating to warm Australian waters, the journey between feeding seas and calving seas. *Check:* Found by search: "Humpback Whales Migration to Australian Waters | Built to Survive | National Geographic WILD UK" by National Geographic UK, 2 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What makes a journey a migration?  
