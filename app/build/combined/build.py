@@ -217,6 +217,8 @@ for subj in plan:
                     if it.get('k') == e.get('k'):
                         it.setdefault('c', {})['units'] = refs
 print('units:', len(data['units']))
+# the welcome slides before log-in: one list (app/content/welcome.json), also copied next to the website's sign-in page
+data['welcome'] = json.load(open(os.path.join(APP, 'content', 'welcome.json')))
 # songs: lyrics, chords, sheet music (ABC) and the backing track, embedded so the artifact can play them too
 import base64
 data['songs'] = {}

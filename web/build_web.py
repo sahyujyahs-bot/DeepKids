@@ -47,6 +47,7 @@ os.makedirs(os.path.join(PUB, 'icons'), exist_ok=True)
 open(os.path.join(PUB, 'app.js'), 'w').write(script)
 open(os.path.join(PUB, 'data.js'), 'w').write('window.DK_DATA=' + DATA + ';\n')
 shutil.copy(os.path.join(WEB, 'src/platform.js'), os.path.join(PUB, 'platform.js'))
+shutil.copy(os.path.join(ROOT, 'app/content/welcome.json'), os.path.join(PUB, 'welcome.json'))  # the sign-in page's slides: the same list the app uses
 shutil.copy(os.path.join(WEB, 'src/privacy.html'), os.path.join(PUB, 'privacy.html'))  # linked from Google sign-in's consent screen
 # lesson media (explainer videos) are served as files next to the app
 MED = os.path.join(os.path.dirname(WEB), 'app', 'content', 'media')

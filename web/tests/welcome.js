@@ -1,17 +1,32 @@
-/* The website's sign-in screen and the app show the same five welcome slides: same pictures, headings, lines and points. */
+/* The website's sign-in screen shows the five welcome slides from app/content/welcome.json, the same list the app uses.
+   node web/tests/welcome.js <address of web/public, e.g. http://127.0.0.1:8779/index.html> */
+const URL = process.argv[2] || "http://127.0.0.1:8779/index.html";
 const fs = require("fs");
-const app = fs.readFileSync(__dirname + "/../../app/src/js/16-onboarding.js", "utf8"),
-  web = fs.readFileSync(__dirname + "/../src/platform.js", "utf8");
-const grab = (src, start, end) => {
-  const a = src.slice(src.indexOf(start), src.indexOf(end, src.indexOf(start)));
-  return [...a.matchAll(/"((?:[^"\\]|\\.)*)"/g)].map((m) => m[1]).filter((x) => !/^intro-/.test(x) || true);
-};
-const A = grab(app, "const FXINTRO = [", "\n];").map((x) => x.replace(/^intro-/, "")),
-  W = grab(web, "const FEATS=[", "\n  ];");
-const ok = A.length > 20 && JSON.stringify(A) === JSON.stringify(W);
-console.log(ok ? "welcome: the app and the website show the same five slides" : "welcome: FAIL, the two sets differ");
-if (!ok) {
-  const k = A.findIndex((x, i) => x !== W[i]);
-  console.log("first difference:", JSON.stringify(A[k]), "vs", JSON.stringify(W[k]));
-}
-process.exit(ok ? 0 : 1);
+const { chromium } = require("playwright");
+(async () => {
+  const want = JSON.parse(
+    fs.readFileSync(__dirname + "/../../app/content/welcome.json", "utf8"),
+  ).map((s) => s[1]);
+  const b = await chromium.launch(),
+    p = await b.newPage({ viewport: { width: 400, height: 900 } });
+  await p.goto(URL);
+  await p.waitForTimeout(2500);
+  const got = await p.evaluate(() =>
+    [...document.querySelectorAll(".dkg .slide b")].map((x) => x.textContent),
+  );
+  const imgs = await p.evaluate(() =>
+    [...document.querySelectorAll(".dkg .slide img")].every(
+      (i) => i.complete && i.naturalWidth > 0,
+    ),
+  );
+  const ok =
+    want.length === 5 && JSON.stringify(got) === JSON.stringify(want) && imgs;
+  console.log(
+    ok
+      ? "welcome: the sign-in page shows the five slides from welcome.json"
+      : "welcome: FAIL",
+    JSON.stringify({ got, imgs }),
+  );
+  await b.close();
+  process.exit(ok ? 0 : 1);
+})();
