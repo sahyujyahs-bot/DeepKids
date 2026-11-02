@@ -3880,8 +3880,18 @@ a.btn {
   background: color-mix(in srgb, var(--sun) 25%, #fff);
   border-color: var(--sun);
 }
-.addmode {
-  margin: 10px 0 12px;
+.seg.addmode {
+  margin: 8px 0 12px;
+  background: color-mix(in srgb, var(--peri) 12%, #fff);
+}
+/* the two ways to add: the form in green, typing or speaking in violet */
+.addmode button[aria-pressed="true"][data-m="pick"] {
+  background: var(--forest) !important;
+  color: #fff !important;
+}
+.addmode button[aria-pressed="true"][data-m="say"] {
+  background: var(--peri) !important;
+  color: #fff !important;
 }
 .addform {
   display: grid;
@@ -7428,9 +7438,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="e93596a564190edae0";window.DK_APPV="e93596a564";window.DK_DATAV="190e05b8e5"</script>
-<script src="/config.js?v=e93596a564190edae0"></script>
+<script>window.DK_BUILD="4be3c3d191190edae0";window.DK_APPV="4be3c3d191";window.DK_DATAV="190e05b8e5"</script>
+<script src="/config.js?v=4be3c3d191190edae0"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=e93596a564190edae0"></script>
+<script src="/platform.js?v=4be3c3d191190edae0"></script>
 </body>
 </html>

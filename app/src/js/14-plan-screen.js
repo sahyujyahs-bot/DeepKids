@@ -1129,7 +1129,7 @@ function askList() {
 function dumpCard() {
   const D_ = ui.dump || {};
   if (!fxAIOn())
-    return `<button class="dumpline" data-act="plus" data-r="chat">${iamFace("mini")}<span class="dlt">Just tell IAm your plans</span><span class="dlplus">🔒 Plus</span></button>`;
+    return `<button class="dumpline" data-act="plus" data-r="chat">${iamFace("mini")}<span class="dlt">Add by chatting with IAm</span><span class="dlplus">🔒 Plus</span></button>`;
   return `<div class="dump"><p class="xs muted">Type or speak your plans, or send a photo of a timetable. DeepKids adds them to your plan.</p>
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><input class="ptitle" data-pi="${i}" value="${esc(it.title)}" maxlength="80" aria-label="Name (tap to change)"><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
@@ -1185,8 +1185,8 @@ function planPart(k) {
   if (k === "add") {
     const Q = askList();
     return (
-      `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3><div class="seg addmode">${[
-        ["pick", "Pick what it is"],
+      `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3><p class="xs muted">Classes, outings, to-dos, reminders. Two ways to add them:</p><div class="seg addmode">${[
+        ["pick", "Fill in a form"],
         ["say", "Type or speak"],
       ]
         .map(

@@ -3862,8 +3862,18 @@ a.btn {
   background: color-mix(in srgb, var(--sun) 25%, #fff);
   border-color: var(--sun);
 }
-.addmode {
-  margin: 10px 0 12px;
+.seg.addmode {
+  margin: 8px 0 12px;
+  background: color-mix(in srgb, var(--peri) 12%, #fff);
+}
+/* the two ways to add: the form in green, typing or speaking in violet */
+.addmode button[aria-pressed="true"][data-m="pick"] {
+  background: var(--forest) !important;
+  color: #fff !important;
+}
+.addmode button[aria-pressed="true"][data-m="say"] {
+  background: var(--peri) !important;
+  color: #fff !important;
 }
 .addform {
   display: grid;

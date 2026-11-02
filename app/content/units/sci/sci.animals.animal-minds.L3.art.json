@@ -31,6 +31,54 @@
   "src": "media/img/sci.animals.animal-minds.L3/expl.9.jpg",
   "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
  },
+ "flow.a1": {
+  "src": "media/img/sci.animals.animal-minds.L3/a1.jpg",
+  "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.animals.animal-minds.L3/a2.jpg",
+  "credit": "MarvalPhotography19, CC BY, via iNaturalist"
+ },
+ "flow.a3": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.animals.animal-minds.L3/c1.jpg",
+  "credit": "Donald Davesne, CC BY, via iNaturalist"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.animals.animal-minds.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.animals.animal-minds.L3/p1.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
  "intro": {
   "src": "media/img/sci.animals.animal-minds.L3/intro.jpg",
   "credit": "Tejas M, CC BY, via iNaturalist"
@@ -79,12 +127,64 @@
   "src": "media/img/sci.animals.animal-minds.L3/summary.jpg",
   "credit": "Aparna Shyam, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.10.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.11.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.13.jpg",
+  "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.15.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.2.jpg",
+  "drawn": true
+ },
  "term.3": {
   "src": "media/img/sci.animals.animal-minds.L3/term.3.jpg",
   "credit": "Sundar Lakshmanan, CC BY, via iNaturalist"
  },
+ "term.4": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.4.jpg",
+  "drawn": true
+ },
  "term.5": {
   "src": "media/img/sci.animals.animal-minds.L3/term.5.jpg",
   "credit": "Ben Keen, CC0, via iNaturalist"
+ },
+ "term.6": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.6.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.7.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.animals.animal-minds.L3/term.9.jpg",
+  "drawn": true
  }
 }
