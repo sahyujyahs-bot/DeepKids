@@ -44,6 +44,7 @@ const fxSt = () => {
 };
 let FXCUR = 0,
   FXU = null,
+  FXPU = {},
   FXCARDS = [],
   FXOBS = null;
 function fxImg(u, key, brief, cls) {
@@ -1042,16 +1043,48 @@ function fxFindItem(u, k) {
         }
   return null;
 }
-async function fxPractise(id) {
-  let u;
+/* the questions a refresher adds: ones that make a child reason (a quiz question, an odd one out, an order, a sort, a claim
+   to judge), never fill-ins, term matching or drawing */
+const FXDEEP = ["mcq", "odd", "order", "sort", "truefalse"];
+function fxDeepItems(u) {
+  const seen = new Set(),
+    out = [],
+    add = (k, it) => {
+      if (!it || !FXDEEP.includes(it.t) || seen.has(it.p)) return;
+      seen.add(it.p);
+      out.push({ k, it });
+    };
+  (u.quiz || []).forEach((it, i) => add("quiz." + i, it));
+  (u.worksheets || []).forEach((w) => (w.items || []).forEach((it, i) => add("ws." + w.id + "." + i, it)));
+  return out;
+}
+// a refresher for one or more units: each unit gives its wrong answers first, then deep questions, at least 5 a unit
+// and at least 5 in all
+async function fxPractise(ids) {
+  let units;
   try {
-    u = await fxLoad(id);
+    units = await Promise.all([].concat(ids).map(fxLoad));
   } catch (e) {
     return toast("Couldn't open this unit just now.");
   }
+  const u = units[0];
   FXU = u;
+  FXPU = Object.fromEntries(units.map((x) => [x.id, x]));
   FXALL = FXALL?.sections && FXU === u ? FXALL : fxCards(u);
-  const L = (fxSt().ref[id] || []).filter((r) => r.k);
+  const items = [],
+    spare = [];
+  units.forEach((x) => {
+    const L = (fxSt().ref[x.id] || []).filter((r) => r.k),
+      have = new Set(L.map((r) => r.k)),
+      wrong = L.map((r) => ({ u: x, r, it: fxFindItem(x, r.k), wrong: true })).filter((y) => y.it),
+      more = fxDeepItems(x)
+        .filter((y) => !have.has(y.k))
+        .map((y) => ({ u: x, r: { k: y.k }, it: y.it })),
+      n = Math.max(0, 5 - wrong.length);
+    items.push(...wrong, ...more.slice(0, n));
+    spare.push(...more.slice(n));
+  });
+  items.push(...spare.slice(0, Math.max(0, 5 - items.length)));
   let d = document.getElementById("fxDlg");
   if (!d) {
     d = document.createElement("dialog");
@@ -1066,15 +1099,7 @@ async function fxPractise(id) {
   }
   FXSI = -3;
   d.dataset.mode = fxSt().mode;
-  // the questions they got wrong come first, then the unit's quiz questions, so a refresher is a real quiz
-  const have = new Set(L.map((r) => r.k)),
-    wrong = L.map((r) => ({ r, it: fxFindItem(u, r.k), wrong: true })).filter((x) => x.it),
-    more = (u.quiz || [])
-      .map((q, i) => ({ r: { k: "quiz." + i }, it: q }))
-      .filter((x) => !have.has(x.r.k))
-      .slice(0, Math.max(0, 8 - wrong.length)),
-    items = [...wrong, ...more];
-  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}</div><div class="fxtxt">${fxItem(u, "rf." + Date.now() + "~" + r.k, { ...it, context: it.context || (r.sec ? "From: " + r.sec : "") }, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
+  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, { ...it, context: it.context || (r.sec ? "From: " + r.sec : "") }, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
   if (!d.open) d.showModal();
 }
 // A worksheet as a printable A4 sheet: each question type in a form a child can do with a pencil, answers on their own page
@@ -1246,8 +1271,8 @@ function fxClick(e) {
   const b = e.target.closest("[data-fx]");
   if (!b) return;
   const a = b.dataset.fx,
-    u = FXU,
     sec = b.closest(".fxc") || document.querySelector(`#fxDlg .fxc[data-i="${FXCUR}"]`),
+    u = FXPU[sec?.dataset.uid] || FXU,
     F = fxSt(),
     d = document.getElementById("fxDlg");
   if (a === "close") return fxClose();

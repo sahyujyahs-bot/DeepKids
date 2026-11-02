@@ -2040,18 +2040,6 @@ function onAct(e) {
       qGen();
       break;
     }
-    case "rfmix": {
-      const g = b.dataset.g,
-        t = b.dataset.t,
-        R = RFS(),
-        v = Math.max(0, Math.min(100, R[g].mix[t] + +b.dataset.d));
-      S.rfs = { ...(S.rfs || {}), [g]: { ...((S.rfs || {})[g] || {}), mix: { ...R[g].mix, [t]: v } } };
-      delete (S.rfp || {})[today];
-      sfx("tap");
-      commit();
-      renderSheet();
-      break;
-    }
     case "rfday": {
       const R = RFS(),
         d = +b.dataset.d,

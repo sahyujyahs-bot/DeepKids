@@ -168,7 +168,31 @@ const everyUnit = () =>
       return [...c.board, ...c.gen, ...c.ex];
     }),
   );
-const unitBy = (k) => everyUnit().find((u) => u.k === k) || allUnits().find((u) => u.k === k);
+// unitBy is called many times on every screen, so its lookup table is built once for each set-up (track, boards, subjects,
+// levels and mode); a unit in the family's own list wins over the same key in the full list
+let _unitIdx = null,
+  _unitSig = "";
+function unitBy(k) {
+  const sig = [
+    S.board,
+    (S.boards || []).join(),
+    S.subjects.join(),
+    JSON.stringify(S.levels),
+    S.plus ? 1 : 0,
+    S.mode || "",
+    allUnits().length,
+  ].join("|");
+  if (!_unitIdx || sig !== _unitSig) {
+    _unitIdx = new Map(allUnits().map((u) => [u.k, u]));
+    const own = new Set();
+    everyUnit().forEach((u) => {
+      if (!own.has(u.k)) _unitIdx.set(u.k, u);
+      own.add(u.k);
+    });
+    _unitSig = sig;
+  }
+  return _unitIdx.get(k);
+}
 const st = (k) => (k.startsWith("unit|") ? fxUnitSt(k) : S.progress[k]?.status || "none");
 const done = (k) => (k.startsWith("unit|") ? fxSessionsDone(k) : S.progress[k]?.sessions || 0);
 const rank = { none: 0, learning: 1, completed: 2, mastered: 3 };

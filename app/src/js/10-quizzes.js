@@ -17,17 +17,20 @@ function qBank(u) {
     };
   if (P) {
     (P.check || []).forEach((c) => add({ q: c.q, a: c.a, why: c.why, kind: "open" }));
-    (P.words || []).forEach(([w, m]) => add({ q: `What does “${w}” mean?`, a: m, kind: "open" }));
+    (P.words || []).forEach(([w, m]) => add({ q: `What does “${w}” mean?`, a: m, kind: "open", rote: true }));
     (P.worksheets || []).forEach((w) =>
       w.sections.forEach(([, its]) =>
         its.forEach((it) => {
           if (it.t === "mcq" && Array.isArray(it.opts) && Number.isInteger(it.a) && it.opts[it.a] != null)
             add({ q: it.p, opts: it.opts, ans: it.a, a: String(it.opts[it.a]), why: it.why, kind: "mcq" });
-          else if (it.t === "fill" && it.a?.length) add({ q: it.p, a: it.a.join(" / "), why: it.why, kind: "open" });
+          else if (it.t === "fill" && it.a?.length)
+            add({ q: it.p, a: it.a.join(" / "), why: it.why, kind: "open", rote: true });
           else if (it.t === "match" && it.pairs?.length)
             it.pairs
               .slice(0, 3)
-              .forEach(([x, y]) => add({ q: `${String(it.p).replace(/\.$/, "")}: ${x}?`, a: String(y), kind: "open" }));
+              .forEach(([x, y]) =>
+                add({ q: `${String(it.p).replace(/\.$/, "")}: ${x}?`, a: String(y), kind: "open", rote: true }),
+              );
         }),
       ),
     );
@@ -112,17 +115,17 @@ const MGN = { not: "Not grasped yet", grasped: "Grasped", mastered: "Mastered" }
     grasped: "No wrong answers, but some parts of the lesson aren't done yet.",
     mastered: "Every part done, and no wrong answers.",
   },
-  RTN = { qz: "Quiz questions", think: "Big think", reread: "Re-read", act: "Redo an activity" };
+  RTN = { qz: "Quiz questions" };
 const RFDEF = {
-  not: { every: 1, mix: { qz: 50, think: 20, reread: 30, act: 0 } },
-  grasped: { every: 3, mix: { qz: 50, think: 30, reread: 10, act: 10 } },
-  mastered: { every: 10, mix: { qz: 30, think: 50, reread: 0, act: 20 } },
+  not: { every: 1 },
+  grasped: { every: 3 },
+  mastered: { every: 10 },
   mins: 45,
   days: [0, 1, 2, 3, 4, 5, 6],
 };
 function RFS() {
   const s = S.rfs || {},
-    g = (k) => ({ ...RFDEF[k], ...(s[k] || {}), mix: { ...RFDEF[k].mix, ...(s[k]?.mix || {}) } });
+    g = (k) => ({ ...RFDEF[k], ...(s[k] || {}) });
   return {
     not: g("not"),
     grasped: g("grasped"),
@@ -136,73 +139,11 @@ const hsh = (s) => {
   for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
   return h;
 };
-function thinkFor(u, i) {
-  const P = u.c?.p;
-  if (P?.voices?.length) {
-    const v = P.voices[i % P.voices.length];
-    return {
-      title: "Big think: " + v.who.split(/[,(]/)[0].trim(),
-      body: v.idea,
-      ask: "What do you think, and why? Is there another way to see it?",
-    };
-  }
-  if (P?.goals?.length) {
-    const g = P.goals[i % P.goals.length].replace(/^By the end your child can\s*/i, "");
-    return {
-      title: "Big think: " + u.title,
-      body: "Can you still " + g.replace(/\.$/, "") + "?",
-      ask: "Show me or tell me, in your own words.",
-    };
-  }
-  return {
-    title: "Teach it back: " + u.title,
-    body: "Your child teaches you what they remember from this chapter, as if you were the student.",
-    ask: "What is one question about it you still have?",
-  };
-}
-function rereadFor(u) {
-  const P = u.c?.p;
-  if (P) return { title: "Re-read: " + u.title, body: P.summary, words: (P.words || []).slice(0, 5) };
-  return {
-    title: "Re-read: " + chT(u),
-    body: `Open ${u.book || "the book"} at this chapter. Your child reads a page aloud and tells you what it was about.`,
-  };
-}
-function actFor(u, i) {
-  const P = u.c?.p,
-    c = u.c || {},
-    pool = [];
-  if (P) {
-    (P.experiments || []).forEach((e) => pool.push({ title: e.title, body: e.question, steps: e.steps, need: e.need }));
-    (P.activities || []).forEach((a) =>
-      pool.push({
-        title: a.title,
-        body: a.outcome ? "You end up with: " + a.outcome : "",
-        steps: a.steps,
-        need: a.need,
-      }),
-    );
-  }
-  if (c.game) pool.push({ title: c.game[0], body: c.game[1] });
-  (c.exp || []).forEach((e) => pool.push({ title: e.split(":")[0].slice(0, 50), body: e }));
-  (c.act || []).forEach((e) => pool.push({ title: e.split(":")[0].slice(0, 50), body: e }));
-  return pool.length ? pool[i % pool.length] : null;
-}
-function pickType(mix, h) {
-  const T = Object.entries(mix).filter(([, v]) => v > 0),
-    tot = T.reduce((a, [, v]) => a + v, 0);
-  if (!tot) return "qz";
-  let x = h % tot;
-  for (const [k, v] of T) {
-    if (x < v) return k;
-    x -= v;
-  }
-  return T[0][0];
-}
 /* the day's refresher: topics due by their list's frequency, a mix of short bits by their list's mix */
 // `seen`: topics the refresher will already have covered on the days before (when planning days ahead)
 function rfPlanFromAnswers(date, seen = {}) {
-  if (S.rfp?.[date]) return S.rfp[date];
+  const saved = S.rfp?.[date];
+  if (saved && !saved.fxOnly && saved.slots?.length && saved.slots.every((s) => s.ty === "qz")) return saved;
   const R = RFS();
   if (!R.days.includes(parse(date).getDay())) return null;
   const M = lastAnswers(),
@@ -229,38 +170,28 @@ function rfPlanFromAnswers(date, seen = {}) {
   if (!due.length) return null;
   const ord = { not: 0, grasped: 1, mastered: 2 };
   due.sort((a, b) => ord[a.g] - ord[b.g] || b.gap - a.gap || hsh(date + a.u.k) - hsh(date + b.u.k));
-  // about 15 minutes a topic, up to the daily time, so one topic isn't stretched over the whole refresher
+  // at least 5 concept questions for each topic (up to 3 topics), and never fewer than 5 in all. No word-meaning, fill-in
+  // or matching questions: the ones the child got wrong come first, then new ones, then the rest
   const T = due.slice(0, 3),
-    mins = Math.min(R.mins, 15 * T.length),
-    n = Math.max(3, Math.round(mins / 3)),
-    slots = [];
-  for (let i = 0; i < n; i++) {
-    const t = T[i % T.length],
-      h = hsh(date + "|" + i + "|" + t.u.k);
-    let ty = pickType(R[t.g].mix, h);
-    if (ty === "qz") {
-      const B = qBank(t.u),
-        w = B.filter((q) => M[q.id]?.r === 0),
-        fresh = B.filter((q) => !M[q.id]),
-        pool = w.length ? w : fresh.length ? fresh : B,
-        used = new Set(slots.filter((s) => s.q).map((s) => s.q.id)),
-        cand = pool.filter((q) => !used.has(q.id));
-      if (cand.length) {
-        slots.push({ ty, k: t.u.k, g: t.g, q: cand[h % cand.length] });
-        continue;
-      }
-      ty = "think";
-    }
-    if (ty === "act") {
-      const a = actFor(t.u, h);
-      if (a) {
-        slots.push({ ty, k: t.u.k, g: t.g, ...a });
-        continue;
-      }
-      ty = "think";
-    }
-    slots.push({ ty, k: t.u.k, g: t.g, ...(ty === "reread" ? rereadFor(t.u) : thinkFor(t.u, h)) });
+    slots = [],
+    used = new Set(),
+    pri = (x) => (M[x.id]?.r === 0 ? 0 : M[x.id] ? 2 : 1),
+    take = (u, g, n) =>
+      qBank(u)
+        .filter((x) => !x.rote && !used.has(x.id))
+        .sort((a, b) => pri(a) - pri(b) || hsh(date + a.id) - hsh(date + b.id))
+        .slice(0, n)
+        .forEach((x) => {
+          used.add(x.id);
+          slots.push({ ty: "qz", k: u.k, g, q: x });
+        });
+  T.forEach((t) => take(t.u, t.g, 5));
+  for (const u of learnedUnits()) {
+    if (slots.length >= 5) break;
+    if (!T.some((t) => t.u.k === u.k)) take(u, masteryOf(u, M), 5 - slots.length);
   }
+  if (!slots.length) return null;
+  const mins = slots.length * 3;
   const p = {
     date,
     mins,
@@ -270,7 +201,7 @@ function rfPlanFromAnswers(date, seen = {}) {
       T.map((t) => t.u.title)
         .slice(0, 2)
         .join(" · ") + (T.length > 2 ? ` +${T.length - 2}` : ""),
-    sub: `${slots.length} short bits from ${T.length} past topic${T.length > 1 ? "s" : ""}`,
+    sub: `${slots.length} concept questions from ${T.length} past topic${T.length > 1 ? "s" : ""}`,
   };
   if (date === today) {
     S.rfp = { ...(S.rfp || {}), [date]: p };
@@ -280,18 +211,22 @@ function rfPlanFromAnswers(date, seen = {}) {
 function rfPlan(date, seen) {
   const p = rfPlanFromAnswers(date, seen),
     U = fxRefs(),
-    V = fxReviews(date),
-    n = U.reduce((a, x) => a + x.n, 0);
-  if (!n && !V.length) return p;
-  const extra = [
-    n ? `${Math.max(8, n)} questions, ${n} you got wrong` : "",
-    V.length ? `${V.length} unit${V.length > 1 ? "s" : ""} to review` : "",
-  ]
-    .filter(Boolean)
-    .join(" · ");
+    V = fxReviews(date);
+  if (!U.length && !V.length) return p;
+  // each unit with wrong answers or due for review gives at least 5 questions
+  const ids = [...new Set([...U.map((x) => x.id), ...V.map((x) => x.id)])],
+    total = ids.reduce((a, id) => a + Math.max(5, U.find((x) => x.id === id)?.n || 0), 0),
+    extra = `${total} questions from ${ids.length} unit${ids.length > 1 ? "s" : ""}`;
   if (p) return { ...p, sub: (p.sub || "") + " · plus " + extra };
-  const m = Math.min(RFS().mins, 10 + n * 2 + V.length * 5);
-  return { date, mins: m, topics: [], slots: [], title: "Quick revision quiz", sub: extra, fxOnly: true };
+  return {
+    date,
+    mins: Math.min(RFS().mins, total * 2),
+    topics: [],
+    slots: [],
+    title: "Quick revision quiz",
+    sub: extra,
+    fxOnly: true,
+  };
 }
 function qCard(q, state) {
   const res = state?.r,
@@ -479,15 +414,10 @@ function rfTiming() {
     every = (n) => (n === 1 ? "every day" : `every ${n} days`);
   const timing = (g) => `<div class="col" style="gap:6px"><b class="sm">${MGN[g]}</b>
     <div class="row" style="align-items:center"><span class="sm">Comes back</span><select class="inp" style="width:auto;height:40px" data-rfe="${g}">${EV.map((v) => `<option value="${v}" ${R[g].every === v ? "selected" : ""}>${every(v)}</option>`).join("")}</select></div>
-    ${Object.keys(RTN)
-      .map(
-        (t) =>
-          `<div class="row" style="align-items:center;justify-content:space-between;flex-wrap:nowrap"><span class="sm">${RTN[t]}</span><div class="stepper"><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="-10" ${R[g].mix[t] <= 0 ? "disabled" : ""} aria-label="Less ${RTN[t]}">−</button><span class="sm" style="min-width:48px;text-align:center">${R[g].mix[t]}%</span><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="10" ${R[g].mix[t] >= 100 ? "disabled" : ""} aria-label="More ${RTN[t]}">+</button></div></div>`,
-      )
-      .join("")}</div>`;
+</div>`;
   return `<section class="card"><b style="font:600 var(--fs-5) var(--display)">Refresher</b><p class="xs muted">Already set for you. Change it only if you want to.</p>
    <div class="row" style="align-items:center"><span class="sm">Each day</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>
-   <details><summary class="sm">How often each list comes back, and what a refresher is made of</summary><div class="col" style="gap:14px;margin-top:10px">${timing("not")}${timing("grasped")}${timing("mastered")}</div></details></section>`;
+   <details><summary class="sm">How often each list comes back</summary><div class="col" style="gap:14px;margin-top:10px">${timing("not")}${timing("grasped")}${timing("mastered")}</div></details></section>`;
 }
 function quizTranscript() {
   const R = S.qzr || [],
@@ -585,7 +515,7 @@ function refreshAnswersView() {
   if (!it)
     return `<p class="note">No refresher today. It starts the day after your first lesson, and follows the refresher settings.</p><button class="link" data-act="rfset">Refresher settings and lists →</button>`;
   const r = it.rf;
-  if (date === today && !S.rfp?.[date]) {
+  if (date === today && !S.rfp?.[date] && !r.fxOnly) {
     S.rfp = { ...(S.rfp || {}), [date]: r };
     save();
   }
@@ -601,23 +531,14 @@ function refreshAnswersView() {
     `<div class="row"><button class="btn green wide" data-act="tlcheck" data-id="refresh" data-date="${date}">${icon("check")}${it.done ? "Done ✓" : "We did it"}</button></div><button class="link" data-act="rfset">Refresher settings and lists →</button>`
   );
 }
-// "Play it" on a refresher made from units starts its quiz at once: the questions they got wrong first, else a unit due for review
+// "Play it" on a refresher made from units starts its quiz at once, with every unit that has wrong answers or is due for review
 function startRefresherQuiz() {
-  const U = fxRefs(),
-    V = fxReviews(today);
-  if (U.length) {
-    fxPractise(U[0].id);
-    return true;
-  }
-  if (!V.length) return false;
-  const R = (S.fxRev = S.fxRev || {}),
-    o = R[V[0].id] || { n: 0 };
-  R[V[0].id] = { n: o.n + 1, at: today };
+  const ids = [...new Set([...fxRefs().map((x) => x.id), ...fxReviews(today).map((x) => x.id)])];
+  if (!ids.length) return false;
+  const R = (S.fxRev = S.fxRev || {});
+  fxReviews(today).forEach((x) => (R[x.id] = { n: (R[x.id]?.n || 0) + 1, at: today }));
   save();
-  fxOpen(V[0].id).then(() => {
-    const i = (FXALL?.sections || []).findIndex((s) => s.id === "quiz");
-    if (i >= 0) fxGo(i, 0);
-  });
+  fxPractise(ids);
   return true;
 }
 function refreshView() {

@@ -278,6 +278,14 @@ const NAV = [
 // The whole screen: the daily profile check, the main view (keeping its scroll place), then the
 // edit layer, the AI button and the way-finding bar
 function render() {
+  _planMemo = {};
+  try {
+    drawAll();
+  } finally {
+    _planMemo = null;
+  }
+}
+function drawAll() {
   if (ui.profDay !== today) {
     ui.profDay = today;
     try {
