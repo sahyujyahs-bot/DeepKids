@@ -328,7 +328,7 @@ const FXINTRO = [
     "No more hours of research collecting material. No more sleepless nights planning your days.",
     [
       ["Ready to use", "Lessons, worksheets, experiments, videos and printables"],
-      ["Planned for you", "Each day laid out, with what to gather"],
+      ["Planned for you", "Every day laid out, ready to start"],
     ],
   ],
   [
