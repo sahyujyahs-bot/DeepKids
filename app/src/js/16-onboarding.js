@@ -323,6 +323,15 @@ const FXINTRO = [
     ],
   ],
   [
+    "intro-calm",
+    "Everything ready, every day",
+    "No more hours of research collecting material. No more sleepless nights planning your days.",
+    [
+      ["Ready to use", "Lessons, worksheets, experiments, videos and printables"],
+      ["Planned for you", "Each day laid out, with what to gather"],
+    ],
+  ],
+  [
     "intro-mirror",
     "A plan that adapts to your family",
     "Year, month, week and day, planned in minutes. Nothing is fixed: it follows your child's interests and your life.",

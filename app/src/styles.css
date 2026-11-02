@@ -6090,7 +6090,9 @@ header.top .iconbtn {
 .fxpts {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-top: 6px;
+  margin-top: 10px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
 }
 .fxpts div {
   display: grid;
