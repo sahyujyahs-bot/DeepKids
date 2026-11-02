@@ -897,7 +897,11 @@
       },
       {
        "f": "A kolam drawn around nine dots",
-       "b": "Same again. Follow the rule and draw it again."
+       "b": "Same again. Follow the rule and draw it again.",
+       "img": {
+        "src": "media/cards/order-and-chaos-g1-0-02.jpg",
+        "credit": "Balaji.B, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A raindrop splashing on a step",

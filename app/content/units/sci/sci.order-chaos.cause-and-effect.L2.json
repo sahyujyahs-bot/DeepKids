@@ -902,7 +902,11 @@
       },
       {
        "f": "A squirrel eats the mango and leaves the seed.",
-       "b": "Mango chain, card 2 of 6"
+       "b": "Mango chain, card 2 of 6",
+       "img": {
+        "src": "media/cards/cause-and-effect-g1-0-13.jpg",
+        "credit": "Jay Pruett, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rain soaks the seed lying in the soil.",
@@ -914,7 +918,11 @@
       },
       {
        "f": "Years later, a young mango tree stands there.",
-       "b": "Mango chain, card 5 of 6"
+       "b": "Mango chain, card 5 of 6",
+       "img": {
+        "src": "media/cards/cause-and-effect-g1-0-16.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "The young tree grows ripe mangoes.",

@@ -6111,12 +6111,26 @@ header.top .iconbtn {
   margin: 2px 0 0;
   padding: 0;
   list-style: none;
-  font-size: 14px;
+  font-size: 15px;
 }
 .fxpts li {
-  padding: 8px 12px;
-  border-radius: 12px;
-  background: color-mix(in srgb, var(--sun) 18%, #fff);
+  position: relative;
+  padding-left: 18px;
+  color: var(--muted);
+  line-height: 1.4;
+}
+.fxpts li::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 0.5em;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--sun);
+}
+.fxpts b {
+  color: var(--ink);
 }
 .fxdots {
   display: flex;
