@@ -1,4 +1,12 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/expl.1.jpg",
+  "drawn": true
+ },
  "expl.2": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/expl.2.jpg",
   "credit": "Ameet Mandavia, CC BY, via iNaturalist"
@@ -19,9 +27,45 @@
   "src": "media/img/sci.animals.vertebrate-groups.L2/expl.6.jpg",
   "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
  },
+ "expl.7": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/expl.8.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/flow.a1.jpg",
+  "drawn": true
+ },
  "flow.a2": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/flow.a2.jpg",
   "credit": "Rafael Tosi, CC BY, via iNaturalist"
+ },
+ "flow.a3": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/intro.jpg",
@@ -63,6 +107,14 @@
   "src": "media/img/sci.animals.vertebrate-groups.L2/summary.jpg",
   "credit": "Aditya Rao, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/term.1.jpg",
+  "drawn": true
+ },
  "term.10": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/term.10.jpg",
   "credit": "Gopakumar VR Namboothiri, CC BY, via iNaturalist"
@@ -70,6 +122,10 @@
  "term.11": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/term.11.jpg",
   "credit": "Morten Ross, CC BY, via iNaturalist"
+ },
+ "term.2": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/term.2.jpg",
+  "drawn": true
  },
  "term.3": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/term.3.jpg",
@@ -79,12 +135,24 @@
   "src": "media/img/sci.animals.vertebrate-groups.L2/term.4.jpg",
   "credit": "Richard Poort, CC BY, via iNaturalist"
  },
+ "term.5": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/term.5.jpg",
+  "drawn": true
+ },
  "term.6": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/term.6.jpg",
   "credit": "Rohit Naniwadekar, CC BY, via iNaturalist"
  },
+ "term.7": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/term.7.jpg",
+  "drawn": true
+ },
  "term.8": {
   "src": "media/img/sci.animals.vertebrate-groups.L2/term.8.jpg",
   "credit": "Devika M B, CC BY, via iNaturalist"
+ },
+ "term.9": {
+  "src": "media/img/sci.animals.vertebrate-groups.L2/term.9.jpg",
+  "drawn": true
  }
 }

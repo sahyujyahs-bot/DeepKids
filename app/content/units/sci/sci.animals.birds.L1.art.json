@@ -31,6 +31,10 @@
   "src": "media/img/sci.animals.birds.L1/flow.a2.jpg",
   "credit": "Shiva Shenoy, CC BY, via iNaturalist"
  },
+ "flow.a3": {
+  "src": "media/img/sci.animals.birds.L1/flow.a3.jpg",
+  "drawn": true
+ },
  "flow.c1": {
   "src": "media/img/sci.animals.birds.L1/flow.c1.jpg",
   "credit": "sunnyjosef, CC BY, via iNaturalist"
@@ -38,6 +42,10 @@
  "flow.e1": {
   "src": "media/img/sci.animals.birds.L1/flow.e1.jpg",
   "credit": "Ahirbudhnyan M, CC BY, via iNaturalist"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.animals.birds.L1/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.animals.birds.L1/intro.jpg",
