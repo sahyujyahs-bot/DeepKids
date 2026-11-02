@@ -8043,13 +8043,16 @@ async function openAccount(acct, name) {
           .catch(() => null);
         if (old && old.exists) legacy = old.data();
       }
-      // a Google account's first open brings in the families saved under the older phone-number log-in, so
-      // signing in again never starts a family afresh; the fullest one is the base and the others merge into it
+      // a Google account's first open brings in the families saved under the older phone-number screen, so signing
+      // in again never starts a family afresh; the fullest family (old or new) is the base and the others merge into it
       const older = !known.adopted && acct.startsWith("g") ? await olderFamilies(acct) : [];
       let cands = [local, remote, legacy]
         .filter((x) => x && x.setup !== undefined)
         .sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));
-      if (older.length) cands = [...older, ...cands.filter((x) => x.setup)];
+      if (older.length)
+        cands = [...older, ...cands.filter((x) => x.setup)].sort(
+          (a, b) => JSON.stringify(b).length - JSON.stringify(a).length,
+        );
       if (cands.length) {
         let m = cands[0];
         cands.slice(1).forEach((c) => (m = mergeIn(m, c)));
@@ -8091,14 +8094,13 @@ async function openAccount(acct, name) {
   lsSet("dk-known", JSON.stringify(k.slice(0, 5)));
   render();
 }
-// the set-up families this person saved under other log-ins, fullest first
+// the set-up families this person saved under other log-ins
 async function olderFamilies(acct) {
   try {
     const all = await DBR.collection("data/users/" + UIDR).get();
     return all.docs
       .filter((d) => d.id.startsWith("acct_") && d.id !== "acct_" + acct && d.data()?.setup)
-      .map((d) => d.data())
-      .sort((a, b) => JSON.stringify(b).length - JSON.stringify(a).length);
+      .map((d) => d.data());
   } catch (e) {
     return [];
   }
