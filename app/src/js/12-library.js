@@ -1,4 +1,7 @@
 /* Library: topics, syllabus browsing, resources, the home shelf */
+// one labelled row of choices (Board, Subject, Class...): the label says what the row picks, each kind has its colour
+const pickRow = (kind, label, chips) =>
+  `<div class="pick ${kind}"><span class="pickl">${label}</span><div class="row chips">${chips}</div></div>`;
 function combinedTopicList() {
   const sj = "sci",
     cls = Object.keys(DATA.combined?.[sj] || {})
@@ -6,7 +9,7 @@ function combinedTopicList() {
       .sort((a, b) => a - b),
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.sci) ? S.levels.sci : cls[0],
     L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
-  return `<div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
+  return `${pickRow("c", "Class", cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join(""))}
    ${dkViewPick(`${L.length} topics`)}<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`;
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
@@ -27,7 +30,13 @@ function combinedCard(e) {
 function dkTrackBrowse() {
   const subjs = SUBJ_KEYS.filter((k) => !WFS.includes(k)),
     sj = subjs.includes(ui.bs) ? ui.bs : "sci",
-    chips = `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>`;
+    chips = pickRow(
+      "s",
+      "Subject",
+      subjs
+        .map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`)
+        .join(""),
+    );
   if (sj !== "sci")
     return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is coming soon. For now, its chapters are under Board track.</p>`;
   return chips + combinedBrowse();
@@ -62,7 +71,7 @@ function fxTopicLadder() {
           .filter(([id]) => DATA.units?.[id]),
       ])
       .filter(([, L]) => L.length);
-  return `${dkViewPick(`${have.length} units`)}<div class="row chips">${lvs.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Level ${l}</button>`).join("")}</div>
+  return `${dkViewPick(`${have.length} units`)}${pickRow("c", "Level", lvs.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Level ${l}</button>`).join(""))}
    <p class="xs muted">Level ${lv} is about Class ${DATA.levels?.[lv]?.cls || lv}. Add any unit to your plan, alongside your class plan.${["combined", "none"].includes(S.board) ? "" : " Units with a 🔒 open on the DeepKids track."}</p>
    <section class="fxnew">${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
 }
@@ -590,7 +599,7 @@ function topicsTab() {
     return h;
   }
   const track = ui.btrack || (["combined", "none"].includes(S.board) ? "dk" : "board"),
-    head = `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div><div class="seg">${[
+    head = `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div><div class="pickl">Track</div><div class="seg trackseg">${[
       ["dk", "DeepKids track"],
       ["board", "Board track"],
     ]
@@ -630,9 +639,9 @@ function topicsTab() {
             ? "Level " + (l <= 3 ? "A" : "B")
             : "Level " + l;
   h += `${head}
-   <div class="row chips">${BT.map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join("")}</div>${`
-   ${subjs.length > 1 ? `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>` : ""}
-   ${levels.length > 1 ? `<div class="row chips">${levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")}</div>` : ""}
+   ${pickRow("b", "Board", BT.map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join(""))}${`
+   ${subjs.length > 1 ? pickRow("s", "Subject", subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")) : ""}
+   ${levels.length > 1 ? pickRow("c", B === "cambridge" ? "Stage" : B === "nios" ? "Level" : "Class", levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")) : ""}
    <p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
    ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:11px">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`}`;
   if (gen.length)
@@ -945,7 +954,7 @@ const CATS = {
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
-  let h = `<section class="sec libtop"><h1>Library</h1><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
+  let h = `<section class="sec libtop"><h1>Library</h1><div class="seg libtabs">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "research") h += researchTab();
   else if (t === "games") h += gamesTab();

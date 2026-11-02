@@ -6217,6 +6217,53 @@ header.top .wrap {
   height: 44px !important;
   padding: 0 16px !important;
 }
+/* section tabs (the Library's Syllabus, Research Papers, Games; the Plan tabs): a soft violet track, the chosen tab filled */
+.segmain,
+.libtabs {
+  background: color-mix(in srgb, var(--peri) 12%, #fff);
+}
+.segmain button[aria-pressed="true"],
+.libtabs button[aria-pressed="true"] {
+  background: var(--peri) !important;
+  color: #fff !important;
+}
+/* the track switch: DeepKids track in DeepKids red, Board track in blue */
+.trackseg button[aria-pressed="true"][data-v="dk"] {
+  background: var(--tang) !important;
+  color: #fff !important;
+}
+.trackseg button[aria-pressed="true"][data-v="board"] {
+  background: var(--sky) !important;
+  color: #fff !important;
+}
+/* labelled rows of choices: Board, Subject, Class; each kind has its colour when chosen */
+.pick {
+  display: grid;
+  gap: 6px;
+  margin-top: 10px;
+}
+.pickl {
+  font: 700 12px var(--body);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-top: 10px;
+}
+.pick .pickl {
+  margin-top: 0;
+}
+.pick.b .chip[aria-pressed="true"] {
+  background: var(--sky) !important;
+  border-color: var(--sky) !important;
+}
+.pick.s .chip[aria-pressed="true"] {
+  background: var(--peri) !important;
+  border-color: var(--peri) !important;
+}
+.pick.c .chip[aria-pressed="true"] {
+  background: var(--forest) !important;
+  border-color: var(--forest) !important;
+}
 .fxsh {
   font: 700 18px var(--body);
   margin: 22px 0 4px;

@@ -274,7 +274,11 @@
       },
       {
        "f": "Milk",
-       "b": "Animal. A cow, a buffalo or a goat makes milk."
+       "b": "Animal. A cow, a buffalo or a goat makes milk.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-01.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Banana",
@@ -286,7 +290,11 @@
       },
       {
        "f": "Coconut",
-       "b": "Plant. A coconut is the fruit of the coconut palm."
+       "b": "Plant. A coconut is the fruit of the coconut palm.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-04.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Curd",
@@ -302,7 +310,11 @@
       },
       {
        "f": "Carrot",
-       "b": "Plant. A carrot is the root of the carrot plant."
+       "b": "Plant. A carrot is the root of the carrot plant.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-08.jpg",
+        "credit": "Peter de Lange, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Paneer",
@@ -314,7 +326,11 @@
       },
       {
        "f": "Fish",
-       "b": "Animal. A fish lives in the sea, a river or a pond."
+       "b": "Animal. A fish lives in the sea, a river or a pond.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-11.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Peanuts",
@@ -334,7 +350,11 @@
       },
       {
        "f": "Ragi",
-       "b": "Plant. Ragi grains are the seeds of the ragi plant."
+       "b": "Plant. Ragi grains are the seeds of the ragi plant.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-16.jpg",
+        "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Buttermilk",
@@ -362,7 +382,11 @@
       },
       {
        "f": "Mushroom",
-       "b": "Neither. A mushroom is a fungus, not a plant and not an animal."
+       "b": "Neither. A mushroom is a fungus, not a plant and not an animal.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-23.jpg",
+        "credit": "Lucian Clanet, CC BY, via iNaturalist"
+       }
       }
      ]
     },
@@ -452,25 +476,85 @@
      "title": "20 cards: 10 foods and 10 makers",
      "items": [
       "Milk",
-      "A cow",
+      {
+       "f": "A cow",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-01.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
+      },
       "Egg",
-      "A hen",
+      {
+       "f": "A hen",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-03.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "Honey",
-      "Honey bees",
+      {
+       "f": "Honey bees",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-05.jpg",
+        "credit": "Harshad Sharma, CC BY, via iNaturalist"
+       }
+      },
       "Rice",
-      "A rice plant",
+      {
+       "f": "A rice plant",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-07.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
       "Coconut",
-      "A coconut palm",
+      {
+       "f": "A coconut palm",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-09.jpg",
+        "credit": "Анна Митрошенкова, CC BY, via iNaturalist"
+       }
+      },
       "Peanuts",
-      "A peanut plant",
+      {
+       "f": "A peanut plant",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-11.jpg",
+        "credit": "Agnes, CC BY, via iNaturalist"
+       }
+      },
       "Jaggery",
-      "Sugarcane",
+      {
+       "f": "Sugarcane",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-13.jpg",
+        "credit": "Guillaume Delaitre, CC BY, via iNaturalist"
+       }
+      },
       "Palak",
-      "A palak plant",
+      {
+       "f": "A palak plant",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-15.jpg",
+        "credit": "Tanzil Rahman Tonoy, CC0, via iNaturalist"
+       }
+      },
       "Banana",
-      "A banana plant",
+      {
+       "f": "A banana plant",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-17.jpg",
+        "credit": "Patricia Rose, CC BY, via iNaturalist"
+       }
+      },
       "Mango",
-      "A mango tree"
+      {
+       "f": "A mango tree",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-19.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
+      }
      ]
     }
    ],

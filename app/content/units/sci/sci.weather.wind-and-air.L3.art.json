@@ -34,5 +34,13 @@
  "setup.e3.2": {
   "src": "media/img/sci.weather.wind-and-air.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.weather.wind-and-air.L3/term.13.jpg",
+  "credit": "Tero Linjama, CC0, via iNaturalist"
+ },
+ "term.14": {
+  "src": "media/img/sci.weather.wind-and-air.L3/term.14.jpg",
+  "credit": "NASA, public domain"
  }
 }
