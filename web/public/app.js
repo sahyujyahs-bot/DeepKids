@@ -13956,7 +13956,7 @@ function skyTile(s) {
         : x.started
           ? `<small>${x.started} started</small>`
           : "";
-  return `<button class="skyt ${SC(s)}" data-act="jsub" data-s="${s}"><b>${SUBJ[s]}</b><svg viewBox="0 0 120 100" aria-hidden="true"><g class="ln">${lines}</g>${stars}</svg><span>${x.D.length} of ${n} ${what} done</span>${more}</button>`;
+  return `<button class="skyt ${SC(s)}" data-act="jsub" data-s="${s}"><b>${SUBJ[s]}</b><em class="num">${n ? Math.round((100 * x.D.length) / n) : 0}%</em><svg viewBox="0 0 120 100" aria-hidden="true"><g class="ln">${lines}</g>${stars}</svg><span>${x.D.length} of ${n} ${what} done</span>${more}</button>`;
 }
 function viewJourney0() {
   const kid = esc(S.child || "Your child"),

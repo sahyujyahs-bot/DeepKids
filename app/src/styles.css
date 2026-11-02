@@ -1663,8 +1663,20 @@ dialog.sheet::backdrop {
 .skyt:nth-child(even) {
   transform: rotate(1.2deg);
 }
+.skyt {
+  grid-template-columns: 1fr auto;
+}
 .skyt b {
   font: 600 18px var(--display);
+}
+.skyt em {
+  font: 700 26px/1 var(--display);
+  font-style: normal;
+}
+.skyt svg,
+.skyt span,
+.skyt small {
+  grid-column: 1 / -1;
 }
 .skyt svg {
   width: 100%;
