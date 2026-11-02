@@ -980,7 +980,11 @@
       },
       {
        "f": "A crow flying straight turns sharply to land on a wire.",
-       "b": "Direction. She pushes the air with her wings and tail to turn."
+       "b": "Direction. She pushes the air with her wings and tail to turn.",
+       "img": {
+        "src": "media/cards/changing-motion-g1-0-14.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You crumple a sheet of paper into a ball.",

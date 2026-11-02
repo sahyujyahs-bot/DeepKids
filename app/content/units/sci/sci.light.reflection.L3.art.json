@@ -3,9 +3,61 @@
   "src": "media/img/sci.light.reflection.L3/expl.12.jpg",
   "credit": "NASA, public domain"
  },
+ "expl.2": {
+  "src": "media/img/sci.light.reflection.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.light.reflection.L3/expl.3.jpg",
+  "drawn": true
+ },
  "expl.9": {
   "src": "media/img/sci.light.reflection.L3/expl.9.jpg",
   "credit": "Devika M B, CC BY, via iNaturalist"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.light.reflection.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.light.reflection.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.light.reflection.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a7": {
+  "src": "media/img/sci.light.reflection.L3/flow.a7.jpg",
+  "drawn": true
+ },
+ "flow.a9": {
+  "src": "media/img/sci.light.reflection.L3/flow.a9.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.light.reflection.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.light.reflection.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.light.reflection.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.light.reflection.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.light.reflection.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.light.reflection.L3/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.light.reflection.L3/intro.jpg",
@@ -47,6 +99,14 @@
   "src": "media/img/sci.light.reflection.L3/setup.e3.2.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.light.reflection.L3/summary.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.light.reflection.L3/term.10.jpg",
+  "drawn": true
+ },
  "term.12": {
   "src": "media/img/sci.light.reflection.L3/term.12.jpg",
   "credit": "S Pakhrin from DC, USA, CC BY 2.0, via Wikimedia Commons"
@@ -54,6 +114,10 @@
  "term.5": {
   "src": "media/img/sci.light.reflection.L3/term.5.jpg",
   "credit": "NASA/SDO/AIA, public domain"
+ },
+ "term.6": {
+  "src": "media/img/sci.light.reflection.L3/term.6.jpg",
+  "drawn": true
  },
  "term.9": {
   "src": "media/img/sci.light.reflection.L3/term.9.jpg",

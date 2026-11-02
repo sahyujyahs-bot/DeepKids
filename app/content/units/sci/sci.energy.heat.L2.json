@@ -923,7 +923,11 @@
       },
       {
        "f": "A crow's fluffed-up feathers",
-       "b": "Keeps warmth in"
+       "b": "Keeps warmth in",
+       "img": {
+        "src": "media/cards/heat-g1-0-15.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A ceiling fan blowing on you",
@@ -931,7 +935,11 @@
       },
       {
        "f": "The shade of a neem tree",
-       "b": "Cools you down"
+       "b": "Cools you down",
+       "img": {
+        "src": "media/cards/heat-g1-0-17.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A wet cloth on your forehead",
@@ -955,7 +963,11 @@
       },
       {
        "f": "A buffalo lying in a pond on a hot day",
-       "b": "Cools you down"
+       "b": "Cools you down",
+       "img": {
+        "src": "media/cards/heat-g1-0-23.jpg",
+        "credit": "Meghaa, CC BY, via iNaturalist"
+       }
       }
      ]
     },

@@ -299,7 +299,11 @@
       },
       {
        "f": "Spinach or keerai",
-       "b": "Protect. Green leaves give iron for blood and folate."
+       "b": "Protect. Green leaves give iron for blood and folate.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-12.jpg",
+        "credit": "Tanzil Rahman Tonoy, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Carrot",
@@ -307,11 +311,19 @@
       },
       {
        "f": "Guava",
-       "b": "Protect. Guava has lots of vitamin C."
+       "b": "Protect. Guava has lots of vitamin C.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-14.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Amla",
-       "b": "Protect. Amla has lots of vitamin C."
+       "b": "Protect. Amla has lots of vitamin C.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-15.jpg",
+        "credit": "rajesh rocky, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tomato",
@@ -319,7 +331,11 @@
       },
       {
        "f": "Banana",
-       "b": "Protect, and energy too. Bananas have sugar and minerals."
+       "b": "Protect, and energy too. Bananas have sugar and minerals.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-17.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Jalebi",
@@ -475,7 +491,11 @@
       },
       {
        "f": "Papaya",
-       "b": "Protect"
+       "b": "Protect",
+       "img": {
+        "src": "media/cards/healthy-food-g2-0-14.jpg",
+        "credit": "B Jaeger-Stanley, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cucumber",
@@ -483,7 +503,11 @@
       },
       {
        "f": "Bhindi",
-       "b": "Protect"
+       "b": "Protect",
+       "img": {
+        "src": "media/cards/healthy-food-g2-0-16.jpg",
+        "credit": "Sham dattatray chavhan, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Orange",

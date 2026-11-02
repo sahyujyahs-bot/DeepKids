@@ -282,7 +282,11 @@
       },
       {
        "f": "Banana",
-       "b": "Plant. A banana is the fruit of the banana plant."
+       "b": "Plant. A banana is the fruit of the banana plant.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-02.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Egg",
@@ -302,7 +306,11 @@
       },
       {
        "f": "Palak",
-       "b": "Plant. Palak is the leaf of the palak plant."
+       "b": "Plant. Palak is the leaf of the palak plant.",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-06.jpg",
+        "credit": "Tanzil Rahman Tonoy, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Ghee",

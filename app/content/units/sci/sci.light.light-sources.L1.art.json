@@ -1,0 +1,22 @@
+{
+ "expl.0": {
+  "src": "media/img/sci.light.light-sources.L1/expl.0.jpg",
+  "credit": "NASA/JPL-Caltech/GSFC/JAXA, public domain"
+ },
+ "expl.3": {
+  "src": "media/img/sci.light.light-sources.L1/expl.3.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.a3": {
+  "src": "media/img/sci.light.light-sources.L1/flow.a3.jpg",
+  "credit": "siddarth varanasi, CC BY 2.0, via Wikimedia Commons"
+ },
+ "intro": {
+  "src": "media/img/sci.light.light-sources.L1/intro.jpg",
+  "credit": "NASA/SDO/AIA, public domain"
+ },
+ "summary": {
+  "src": "media/img/sci.light.light-sources.L1/summary.jpg",
+  "credit": "Richa Yadav, CC BY 2.0, via Wikimedia Commons"
+ }
+}

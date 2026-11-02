@@ -370,7 +370,11 @@
       },
       {
        "f": "A cat and her kitten",
-       "b": "Alike: both cats, with fur and whiskers. Different: the kitten is small, and may be another colour."
+       "b": "Alike: both cats, with fur and whiskers. Different: the kitten is small, and may be another colour.",
+       "img": {
+        "src": "media/cards/inheritance-g2-0-02.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You and your best friend",
@@ -378,7 +382,11 @@
       },
       {
        "f": "A mango tree and a mango seedling",
-       "b": "Alike: the same kind of leaves. Different: the seedling is tiny."
+       "b": "Alike: the same kind of leaves. Different: the seedling is tiny.",
+       "img": {
+        "src": "media/cards/inheritance-g2-0-04.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Twin sisters",
@@ -386,7 +394,11 @@
       },
       {
        "f": "Two curry leaves from one stalk",
-       "b": "Alike: the same smell and shape. Different: size, and the exact edge."
+       "b": "Alike: the same smell and shape. Different: size, and the exact edge.",
+       "img": {
+        "src": "media/cards/inheritance-g2-0-06.jpg",
+        "credit": "Aruna Gamuz, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A crow and a pigeon",
@@ -402,7 +414,11 @@
       },
       {
        "f": "A mint plant and her cut stem growing roots",
-       "b": "Alike: almost everything, because the stem has only one parent. Different: the cut stem is younger and smaller."
+       "b": "Alike: almost everything, because the stem has only one parent. Different: the cut stem is younger and smaller.",
+       "img": {
+        "src": "media/cards/inheritance-g2-0-10.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Your two hands",
@@ -422,7 +438,11 @@
       },
       {
        "f": "An elephant mother and her calf",
-       "b": "Alike: a trunk, big ears, grey skin. Different: the calf is small and has more hair."
+       "b": "Alike: a trunk, big ears, grey skin. Different: the calf is small and has more hair.",
+       "img": {
+        "src": "media/cards/inheritance-g2-0-15.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       }
      ]
     }

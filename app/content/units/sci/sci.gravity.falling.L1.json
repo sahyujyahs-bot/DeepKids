@@ -280,7 +280,11 @@
       },
       {
        "f": "A kite bird folds her wings",
-       "b": "FAST. Without her wings spread on the air, she swoops down."
+       "b": "FAST. Without her wings spread on the air, she swoops down.",
+       "img": {
+        "src": "media/cards/falling-g1-0-11.jpg",
+        "credit": "Harsha Jayaramaiah, CC BY, via iNaturalist"
+       }
       }
      ]
     },

@@ -1,4 +1,80 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.family.family.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.family.family.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.family.family.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.family.family.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.family.family.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.family.family.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.family.family.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.family.family.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.family.family.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.family.family.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.family.family.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.family.family.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.family.family.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.family.family.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.family.family.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.family.family.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.family.family.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.family.family.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.family.family.L3/intro.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.family.family.L3/setup.e1.0.jpg",
   "drawn": true
@@ -30,5 +106,41 @@
  "term.0": {
   "src": "media/img/sci.family.family.L3/term.0.jpg",
   "credit": "whatsthatpicture from Hanwell, London, UK, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.1": {
+  "src": "media/img/sci.family.family.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.family.family.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.family.family.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.family.family.L3/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.family.family.L3/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.family.family.L3/term.6.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.family.family.L3/term.7.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.family.family.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.family.family.L3/term.9.jpg",
+  "drawn": true
  }
 }

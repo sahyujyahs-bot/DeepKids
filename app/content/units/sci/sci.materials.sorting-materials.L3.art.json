@@ -7,6 +7,62 @@
   "src": "media/img/sci.materials.sorting-materials.L3/expl.12.jpg",
   "credit": "garywwilson, CC BY, via iNaturalist"
  },
+ "flow.a1": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.a7": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.a7.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.e4": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.e4.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.materials.sorting-materials.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.materials.sorting-materials.L3/intro.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.materials.sorting-materials.L3/setup.e1.0.jpg",
   "drawn": true
@@ -55,8 +111,32 @@
   "src": "media/img/sci.materials.sorting-materials.L3/setup.e4.2.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.materials.sorting-materials.L3/summary.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.materials.sorting-materials.L3/term.11.jpg",
+  "drawn": true
+ },
  "term.18": {
   "src": "media/img/sci.materials.sorting-materials.L3/term.18.jpg",
   "credit": "NASA, public domain"
+ },
+ "term.2": {
+  "src": "media/img/sci.materials.sorting-materials.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.23": {
+  "src": "media/img/sci.materials.sorting-materials.L3/term.23.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.materials.sorting-materials.L3/term.5.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.materials.sorting-materials.L3/term.7.jpg",
+  "drawn": true
  }
 }

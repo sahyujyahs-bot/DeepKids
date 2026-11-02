@@ -521,7 +521,11 @@
       },
       {
        "f": "Mudskipper!",
-       "b": "Hop like a mudskipper on the mud, three hops."
+       "b": "Hop like a mudskipper on the mud, three hops.",
+       "img": {
+        "src": "media/cards/adaptations-g2-0-10.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Back in the water!",

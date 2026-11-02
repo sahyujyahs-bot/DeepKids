@@ -883,7 +883,11 @@
       },
       {
        "f": "A duck is flying down to the pond. She wants to SLOW DOWN.",
-       "b": "Push against the way she is going: feet out in front, wings spread wide."
+       "b": "Push against the way she is going: feet out in front, wings spread wide.",
+       "img": {
+        "src": "media/cards/changing-motion-g1-0-06.jpg",
+        "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A friend on roller skates is rolling slowly. Make her go FASTER.",

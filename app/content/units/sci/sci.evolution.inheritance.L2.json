@@ -302,7 +302,11 @@
       },
       {
        "f": "A young zebra finch singing his song",
-       "b": "Learned it. He learns the song by listening to an older male finch."
+       "b": "Learned it. He learns the song by listening to an older male finch.",
+       "img": {
+        "src": "media/cards/inheritance-g1-0-11.jpg",
+        "credit": "pimelea, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Being left-handed",

@@ -278,35 +278,67 @@
      "items": [
       {
        "f": "House crow: Kaa! Kaa!",
-       "b": "House crows live in almost every Indian town. They eat almost anything."
+       "b": "House crows live in almost every Indian town. They eat almost anything.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Koel: Ku-oo! Ku-oo! Ku-oo!",
-       "b": "The male koel calls loudly in the hot months, from mango, neem and peepal trees."
+       "b": "The male koel calls loudly in the hot months, from mango, neem and peepal trees.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-01.jpg",
+        "credit": "Tom Heijnen, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pigeon: Gutr-goo, gutr-goo",
-       "b": "Pigeons coo softly on window ledges, where they nest like their wild relatives on cliffs."
+       "b": "Pigeons coo softly on window ledges, where they nest like their wild relatives on cliffs.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-02.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rose-ringed parakeet: Kee-ak! Kee-ak!",
-       "b": "Green parakeets fly over towns in noisy flocks and roost together in big trees."
+       "b": "Green parakeets fly over towns in noisy flocks and roost together in big trees.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-03.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coppersmith barbet: Tuk, tuk, tuk, tuk",
-       "b": "This small green bird sounds like a coppersmith tapping on metal. Barbets eat figs from peepal and banyan trees."
+       "b": "This small green bird sounds like a coppersmith tapping on metal. Barbets eat figs from peepal and banyan trees.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-04.jpg",
+        "credit": "Anirban Datta-Roy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Common myna: Chak-chak, keek-keek",
-       "b": "Mynas chatter in pairs and groups. They nest in holes in walls and pipes."
+       "b": "Mynas chatter in pairs and groups. They nest in holes in walls and pipes.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-05.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Spotted owlet: Chirurr-chirurr",
-       "b": "This small owl is nocturnal. Spotted owlets chatter at dusk from old buildings and trees."
+       "b": "This small owl is nocturnal. Spotted owlets chatter at dusk from old buildings and trees.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-06.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Palm squirrel: Chip-chip-chip!",
-       "b": "Squirrels call like this when they see a cat or a crow. They are animals, not birds, but they call to each other too."
+       "b": "Squirrels call like this when they see a cat or a crow. They are animals, not birds, but they call to each other too.",
+       "img": {
+        "src": "media/cards/city-nature-g1-0-07.jpg",
+        "credit": "Daniel S. Katz, CC BY, via iNaturalist"
+       }
       }
      ]
     },
@@ -448,14 +480,44 @@
      "kind": "cards",
      "title": "8 being cards to cut out",
      "items": [
-      "A crow",
+      {
+       "f": "A crow",
+       "img": {
+        "src": "media/cards/city-nature-g2-0-00.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
       "A street dog",
-      "A honeybee",
-      "A fruit bat",
-      "A palm squirrel",
+      {
+       "f": "A honeybee",
+       "img": {
+        "src": "media/cards/city-nature-g2-0-02.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A fruit bat",
+       "img": {
+        "src": "media/cards/city-nature-g2-0-03.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A palm squirrel",
+       "img": {
+        "src": "media/cards/city-nature-g2-0-04.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
       "A caterpillar",
       "A parakeet flock",
-      "A koel"
+      {
+       "f": "A koel",
+       "img": {
+        "src": "media/cards/city-nature-g2-0-07.jpg",
+        "credit": "egorbirder, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

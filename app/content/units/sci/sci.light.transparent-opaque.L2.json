@@ -770,7 +770,11 @@
      "items": [
       {
        "f": "One glass of water",
-       "b": "SEE THROUGH. A little water is transparent."
+       "b": "SEE THROUGH. A little water is transparent.",
+       "img": {
+        "src": "media/cards/transparent-opaque-g1-0-00.jpg",
+        "credit": "Alabama Extension, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "The deep sea, one kilometre down",
@@ -890,7 +894,11 @@
      "items": [
       {
        "f": "A glass tumbler",
-       "b": "Window"
+       "b": "Window",
+       "img": {
+        "src": "media/cards/transparent-opaque-g2-0-00.jpg",
+        "credit": "Kurt Kaiser, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A wooden door",
@@ -914,7 +922,11 @@
       },
       {
        "f": "A whole packet of paper napkins",
-       "b": "Wall"
+       "b": "Wall",
+       "img": {
+        "src": "media/cards/transparent-opaque-g2-0-06.jpg",
+        "credit": "Alanthebox, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A dry onion skin",

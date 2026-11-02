@@ -275,14 +275,50 @@
      "kind": "cards",
      "title": "8 animal cards to cut out",
      "items": [
-      "Bat",
-      "House crow",
-      "Cat",
-      "Honeybee",
+      {
+       "f": "Bat",
+       "img": {
+        "src": "media/cards/sleep-g1-0-00.jpg",
+        "credit": "sam-rajnikant, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "House crow",
+       "img": {
+        "src": "media/cards/sleep-g1-0-01.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cat",
+       "img": {
+        "src": "media/cards/sleep-g1-0-02.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Honeybee",
+       "img": {
+        "src": "media/cards/sleep-g1-0-03.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
+      },
       "Upside-down jellyfish",
-      "Parrot",
+      {
+       "f": "Parrot",
+       "img": {
+        "src": "media/cards/sleep-g1-0-05.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "Newborn baby",
-      "Fish"
+      {
+       "f": "Fish",
+       "img": {
+        "src": "media/cards/sleep-g1-0-07.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

@@ -321,7 +321,11 @@
       },
       {
        "f": "The coconut tree's shadow is a small dark circle under the tree.",
-       "b": "Noon. The Sun is nearly overhead."
+       "b": "Noon. The Sun is nearly overhead.",
+       "img": {
+        "src": "media/cards/sun-appears-to-move-g1-0-04.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "The orange sunlight comes in through the west window.",

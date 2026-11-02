@@ -809,9 +809,21 @@
       "A foot",
       "The wind",
       "Running water",
-      "The Earth",
+      {
+       "f": "The Earth",
+       "img": {
+        "src": "media/cards/push-and-pull-g1-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "A magnet",
-      "An ant",
+      {
+       "f": "An ant",
+       "img": {
+        "src": "media/cards/push-and-pull-g1-0-05.jpg",
+        "credit": "Jake Nitta, CC BY, via iNaturalist"
+       }
+      },
       "A rubber band",
       "Your breath",
       "A spring"
@@ -822,13 +834,31 @@
      "title": "Bingo board B: 9 givers",
      "items": [
       "The sea waves",
-      "A bullock",
+      {
+       "f": "A bullock",
+       "img": {
+        "src": "media/cards/push-and-pull-g1-1-01.jpg",
+        "credit": "Paul Asman, CC BY, via iNaturalist"
+       }
+      },
       "A foot",
-      "The Earth",
+      {
+       "f": "The Earth",
+       "img": {
+        "src": "media/cards/push-and-pull-g1-1-03.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "A spring",
       "The wind",
       "A magnet",
-      "A crow",
+      {
+       "f": "A crow",
+       "img": {
+        "src": "media/cards/push-and-pull-g1-1-07.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
       "Running water"
      ]
     },

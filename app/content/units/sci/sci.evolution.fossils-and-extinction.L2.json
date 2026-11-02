@@ -294,7 +294,11 @@
      "items": [
       {
        "f": "A line of footprints in rock, each with three long toes.",
-       "b": "A dinosaur walked here, over soft mud that later turned to rock."
+       "b": "A dinosaur walked here, over soft mud that later turned to rock.",
+       "img": {
+        "src": "media/cards/fossils-and-extinction-g1-0-00.jpg",
+        "credit": "Anne S. Schulp, Mohammed Al-Wosabi and Nancy J. Stevens, CC BY 2.5, via Wikimedia Commons"
+       }
       },
       {
        "f": "A sea shell inside a rock on a hill, far from the sea.",
@@ -419,7 +423,11 @@
      "items": [
       {
        "f": "Tyrannosaurus rex. Huge. Ate only meat, and needed a lot of it.",
-       "b": "Died out. There was not enough food for such a big meat-eater."
+       "b": "Died out. There was not enough food for such a big meat-eater.",
+       "img": {
+        "src": "media/cards/fossils-and-extinction-g2-0-00.jpg",
+        "credit": "USDAgov, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "A tiny furry mammal, about the size of a mouse. Ate insects and seeds. Hid in burrows.",
@@ -427,11 +435,19 @@
       },
       {
        "f": "A crocodile. Lived in rivers. Could go for months without eating.",
-       "b": "Lived through it. Crocodiles are still here today."
+       "b": "Lived through it. Crocodiles are still here today.",
+       "img": {
+        "src": "media/cards/fossils-and-extinction-g2-0-02.jpg",
+        "credit": "Mike Prince, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A turtle. Lived in ponds and rivers, and could rest for a long time.",
-       "b": "Lived through it. Turtles are still here today."
+       "b": "Lived through it. Turtles are still here today.",
+       "img": {
+        "src": "media/cards/fossils-and-extinction-g2-0-03.jpg",
+        "credit": "Hopeland, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A small bird who lived on the ground and ate seeds.",
@@ -439,7 +455,11 @@
       },
       {
        "f": "An ammonite. A sea animal with a coiled shell.",
-       "b": "Died out. Every kind of ammonite was gone."
+       "b": "Died out. Every kind of ammonite was gone.",
+       "img": {
+        "src": "media/cards/fossils-and-extinction-g2-0-05.jpg",
+        "credit": "Becks, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A titanosaur. A long-necked dinosaur, one of the biggest land animals ever. Ate huge amounts of plants.",
@@ -451,11 +471,19 @@
       },
       {
        "f": "A frog. Lived in ponds and could hide in the mud.",
-       "b": "Lived through it. Frogs are still here today."
+       "b": "Lived through it. Frogs are still here today.",
+       "img": {
+        "src": "media/cards/fossils-and-extinction-g2-0-08.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A small snake. Could hide in holes and go a long time without food.",
-       "b": "Lived through it. Snakes are still here today."
+       "b": "Lived through it. Snakes are still here today.",
+       "img": {
+        "src": "media/cards/fossils-and-extinction-g2-0-09.jpg",
+        "credit": "Christopher, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A shark. Lived in the sea and ate many kinds of food.",

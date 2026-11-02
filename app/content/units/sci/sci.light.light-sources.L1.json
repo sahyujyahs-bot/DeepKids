@@ -777,11 +777,19 @@
      "items": [
       {
        "f": "The Sun",
-       "b": "LIGHT SOURCE. The Sun is a star. It makes its own light."
+       "b": "LIGHT SOURCE. The Sun is a star. It makes its own light.",
+       "img": {
+        "src": "media/cards/light-sources-g1-0-00.jpg",
+        "credit": "NASA/JPL-Caltech/JAXA, public domain"
+       }
       },
       {
        "f": "A diya flame",
-       "b": "LIGHT SOURCE. The flame makes light as it burns oil."
+       "b": "LIGHT SOURCE. The flame makes light as it burns oil.",
+       "img": {
+        "src": "media/cards/light-sources-g1-0-01.jpg",
+        "credit": "siddarth varanasi, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A torch, switched on",
@@ -797,7 +805,11 @@
       },
       {
        "f": "A firefly at night",
-       "b": "LIGHT SOURCE. A firefly makes their own light inside their body."
+       "b": "LIGHT SOURCE. A firefly makes their own light inside their body.",
+       "img": {
+        "src": "media/cards/light-sources-g1-0-05.jpg",
+        "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Lightning in a storm",
@@ -837,7 +849,11 @@
       },
       {
        "f": "A star in the night sky",
-       "b": "LIGHT SOURCE. Every star makes its own light, like our Sun."
+       "b": "LIGHT SOURCE. Every star makes its own light, like our Sun.",
+       "img": {
+        "src": "media/cards/light-sources-g1-0-15.jpg",
+        "credit": "NASA, public domain"
+       }
       }
      ]
     }

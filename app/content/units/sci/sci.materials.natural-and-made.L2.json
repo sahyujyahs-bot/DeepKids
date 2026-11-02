@@ -968,7 +968,13 @@
      "kind": "cards",
      "title": "10 thing cards to cut out",
      "items": [
-      "A glass bottle",
+      {
+       "f": "A glass bottle",
+       "img": {
+        "src": "media/cards/natural-and-made-g1-0-00.jpg",
+        "credit": "Cindy Shebley, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "A notebook",
       "A plastic bucket",
       "A cotton shirt",
@@ -985,14 +991,38 @@
      "title": "10 start cards to cut out",
      "items": [
       "Sand",
-      "A tree",
+      {
+       "f": "A tree",
+       "img": {
+        "src": "media/cards/natural-and-made-g1-1-01.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      },
       "Oil from under the ground",
-      "A cotton plant",
+      {
+       "f": "A cotton plant",
+       "img": {
+        "src": "media/cards/natural-and-made-g1-1-03.jpg",
+        "credit": "Daniel Cahen, CC BY, via iNaturalist"
+       }
+      },
       "Rock with iron in it",
       "Clay",
       "A silkworm's cocoon",
-      "A sheep's wool",
-      "A coconut's husk",
+      {
+       "f": "A sheep's wool",
+       "img": {
+        "src": "media/cards/natural-and-made-g1-1-07.jpg",
+        "credit": "Barney M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A coconut's husk",
+       "img": {
+        "src": "media/cards/natural-and-made-g1-1-08.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
       "Jute plant stems"
      ]
     }
@@ -1104,7 +1134,11 @@
       },
       {
        "f": "A bamboo pole",
-       "b": "Natural: stand up"
+       "b": "Natural: stand up",
+       "img": {
+        "src": "media/cards/natural-and-made-g2-0-08.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A steel plate",
@@ -1112,7 +1146,11 @@
       },
       {
        "f": "Sheep's wool",
-       "b": "Natural: stand up"
+       "b": "Natural: stand up",
+       "img": {
+        "src": "media/cards/natural-and-made-g2-0-10.jpg",
+        "credit": "Dan Fitzgerald (Fitz), CC0, via iNaturalist"
+       }
       },
       {
        "f": "A plastic bucket",

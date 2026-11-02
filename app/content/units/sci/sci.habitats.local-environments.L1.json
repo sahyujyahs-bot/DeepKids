@@ -257,16 +257,58 @@
      "title": "12 cards to cut out: 6 places and 6 living beings",
      "items": [
       "Under a stone",
-      "A tree",
-      "A pond",
+      {
+       "f": "A tree",
+       "img": {
+        "src": "media/cards/local-environments-g1-0-01.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A pond",
+       "img": {
+        "src": "media/cards/local-environments-g1-0-02.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
       "Grass in the park",
-      "A flower",
+      {
+       "f": "A flower",
+       "img": {
+        "src": "media/cards/local-environments-g1-0-04.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
       "A crack in a wall",
-      "Earthworm",
-      "Squirrel",
+      {
+       "f": "Earthworm",
+       "img": {
+        "src": "media/cards/local-environments-g1-0-06.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Squirrel",
+       "img": {
+        "src": "media/cards/local-environments-g1-0-07.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
       "Tadpole",
-      "Grasshopper",
-      "Honeybee",
+      {
+       "f": "Grasshopper",
+       "img": {
+        "src": "media/cards/local-environments-g1-0-09.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Honeybee",
+       "img": {
+        "src": "media/cards/local-environments-g1-0-10.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
+      },
       "Peepal seedling"
      ]
     }

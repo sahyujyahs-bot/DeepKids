@@ -360,7 +360,13 @@
       "A shallow plate of water in the shade",
       "Moth stuck at the window",
       "Switch off the light and open the window",
-      "Snail on the wet path",
+      {
+       "f": "Snail on the wet path",
+       "img": {
+        "src": "media/cards/caring-g2-0-08.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
+      },
       "Walk round her, and do not pick her up",
       "Wrapper lying by the drain",
       "Pick it up and put it in the dry waste bin"

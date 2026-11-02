@@ -178,7 +178,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 ### g2 · Question Dice: roll a word, ask a question (12 min)
 - **rules:** Stick the six question words on the six sides of a dice, or write them on six slips of paper and pick one from a bowl.; Put the thing cards in a pile, face down.; A player rolls the dice and turns over the top thing card. If the word and the thing do not fit together at all, roll again.; The player asks a question about that thing, starting with the word on the dice. For example: WHY plus A crow makes 'Why do crows caw?'; Everyone claps for every real question. There are no wrong questions. Put the card aside.; If nobody at home knows the answer, put a star next to the question on the paper, to find out later.; The game is won together. You win when all 12 thing cards have a question. Then pick the 3 questions you most want to find out later, and write them down.
 - **Printable cards: 6 question words for the dice faces:** WHAT; WHY; HOW; WHERE; WHEN; WHO
-- **Printable cards: 12 thing cards:** A crow; Rain; A pressure cooker; The Moon; An ant; A banana; A ceiling fan; A coconut; Your shadow; A kolam on the floor; A seed; Ice in a glass
+- **Printable cards: 12 thing cards:** A crow [picture]; Rain; A pressure cooker; The Moon [picture]; An ant [picture]; A banana; A ceiling fan; A coconut [picture]; Your shadow; A kolam on the floor; A seed; Ice in a glass
 - **s1 (2 min)**  
   *Parent does:* 1. Make the dice or the bowl of slips. 2. Read the six question words with your child.  
   *Parent says:* These are question words. What, why, how, where, when and who. Every question needs one of them, or a yes-or-no start.  

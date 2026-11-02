@@ -343,14 +343,38 @@
      "kind": "cards",
      "title": "12 thing cards",
      "items": [
-      "A crow",
+      {
+       "f": "A crow",
+       "img": {
+        "src": "media/cards/asking-questions-g2-1-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
       "Rain",
       "A pressure cooker",
-      "The Moon",
-      "An ant",
+      {
+       "f": "The Moon",
+       "img": {
+        "src": "media/cards/asking-questions-g2-1-03.jpg",
+        "credit": "NASA/Kim Shiflett, public domain"
+       }
+      },
+      {
+       "f": "An ant",
+       "img": {
+        "src": "media/cards/asking-questions-g2-1-04.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "A banana",
       "A ceiling fan",
-      "A coconut",
+      {
+       "f": "A coconut",
+       "img": {
+        "src": "media/cards/asking-questions-g2-1-07.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
       "Your shadow",
       "A kolam on the floor",
       "A seed",

@@ -813,11 +813,19 @@
       },
       {
        "f": "The Moon in the night sky",
-       "b": "Sun, then the Moon."
+       "b": "Sun, then the Moon.",
+       "img": {
+        "src": "media/cards/light-sources-g1-0-04.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "A lit diya at Karthigai Deepam",
-       "b": "LIGHT SOURCE. The flame makes its own light."
+       "b": "LIGHT SOURCE. The flame makes its own light.",
+       "img": {
+        "src": "media/cards/light-sources-g1-0-05.jpg",
+        "credit": "Richa Yadav, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Your face in a mirror",
@@ -829,7 +837,11 @@
       },
       {
        "f": "Fireflies flashing in the dark",
-       "b": "LIGHT SOURCE. Fireflies make their own light."
+       "b": "LIGHT SOURCE. Fireflies make their own light.",
+       "img": {
+        "src": "media/cards/light-sources-g1-0-08.jpg",
+        "credit": "Ken-ichi Ueda, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Inside a shut steel dabba",

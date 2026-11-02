@@ -173,7 +173,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 ## Games
 ### g1 · Who Sleeps How? A matching pairs game (15 min)
 - **rules:** Cut out all 16 cards. Mix them and lay them face down in 4 rows of 4.; Take turns. Turn over two cards and read them aloud. A grown-up can read for a child who cannot read them yet.; If one card is an animal and the other says how that animal sleeps, keep the pair and have another go.; If they do not match, turn them face down again in the same places. Try to remember where they are.; When all the pairs are found, the player with the most pairs wins. If you tie, you both win.; Play again tomorrow morning. Do you remember more places after a night's sleep?
-- **Printable cards: 8 animal cards to cut out:** Bat; House crow; Cat; Honeybee; Upside-down jellyfish; Parrot; Newborn baby; Fish
+- **Printable cards: 8 animal cards to cut out:** Bat [picture]; House crow [picture]; Cat [picture]; Honeybee [picture]; Upside-down jellyfish; Parrot [picture]; Newborn baby; Fish [picture]
 - **Printable cards: 8 sleep cards to cut out:** I sleep in the day, hanging upside down by my feet.; At dusk I fly to a big tree and sleep in a crowd.; I curl up for many naps in the day, and my ears prick up at a sound.; At night I keep very still and my antennae droop.; I have no brain, but at night I pulse slowly and rest.; I turn my head round and tuck my beak into my back feathers.; I am a human baby. I sleep about 14 to 17 hours a day, in short bits.; Like most fish, I have no eyelids, so I rest with my eyes open.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Read each card aloud once with your child. 3. Mix them and lay them face down in 4 rows of 4.  

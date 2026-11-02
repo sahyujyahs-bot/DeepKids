@@ -243,11 +243,19 @@
       },
       {
        "f": "The Sun is a star.",
-       "b": "True. The Sun is our closest star. The other stars are suns very far away."
+       "b": "True. The Sun is our closest star. The other stars are suns very far away.",
+       "img": {
+        "src": "media/cards/stories-of-discovery-g1-0-02.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The Moon makes its own light.",
-       "b": "False. The Moon shines because sunlight falls on it."
+       "b": "False. The Moon shines because sunlight falls on it.",
+       "img": {
+        "src": "media/cards/stories-of-discovery-g1-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "Clouds are made of water.",
@@ -259,11 +267,19 @@
       },
       {
        "f": "An octopus has three hearts.",
-       "b": "True. An octopus has three hearts and blue blood."
+       "b": "True. An octopus has three hearts and blue blood.",
+       "img": {
+        "src": "media/cards/stories-of-discovery-g1-0-06.jpg",
+        "credit": "Donald Davesne, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Plants can feel a touch.",
-       "b": "True. Touch-me-not plants fold up their leaves when you touch them."
+       "b": "True. Touch-me-not plants fold up their leaves when you touch them.",
+       "img": {
+        "src": "media/cards/stories-of-discovery-g1-0-07.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "The Earth spins round once every day.",
@@ -271,7 +287,11 @@
       },
       {
        "f": "The Himalayas are still growing taller.",
-       "b": "True. They grow a tiny bit each year, too slowly to see."
+       "b": "True. They grow a tiny bit each year, too slowly to see.",
+       "img": {
+        "src": "media/cards/stories-of-discovery-g1-0-09.jpg",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "All the dinosaurs are gone.",

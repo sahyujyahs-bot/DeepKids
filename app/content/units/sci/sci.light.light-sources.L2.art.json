@@ -1,0 +1,26 @@
+{
+ "flow.a2": {
+  "src": "media/img/sci.light.light-sources.L2/flow.a2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.light.light-sources.L2/intro.jpg",
+  "credit": "NASA, public domain"
+ },
+ "summary": {
+  "src": "media/img/sci.light.light-sources.L2/summary.jpg",
+  "credit": "NASA/Kim Shiflett, public domain"
+ },
+ "term.0": {
+  "src": "media/img/sci.light.light-sources.L2/term.0.jpg",
+  "credit": "NASA/SDO/AIA, public domain"
+ },
+ "term.2": {
+  "src": "media/img/sci.light.light-sources.L2/term.2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.4": {
+  "src": "media/img/sci.light.light-sources.L2/term.4.jpg",
+  "credit": "siddarth varanasi, CC BY 2.0, via Wikimedia Commons"
+ }
+}

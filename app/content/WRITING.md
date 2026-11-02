@@ -41,6 +41,13 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
   - Not: "DeepKids believes stuff and energy are one thing wearing two faces, and both come from the One. Your weight changes from Earth to Moon. Something about you does not."
   - But: "On the Moon you would weigh less, because the Moon pulls you less. But you would still be made of exactly the same amount of stuff. That stuff, and the energy inside it, both come from the same one source."
 
+## Questions test ideas, never the book
+Every question anywhere (quizzes, refreshers, worksheets, checks, games, fill-ins, matching) asks about the idea: what it is, why it happens, what would change if, how you could test it. A child who understood the topic but never read the book, story or unit must be able to answer it.
+- Never ask about a book's, story's or unit's own details: a character's name, who is in someone's family, what a character did or said, what happened in a story, what was on a page, or which test was done in the lesson.
+- A name may set up a new situation ("Kavya tosses 4 coins. Which result is most likely?"), as long as the answer comes from the idea, not from remembering the story.
+- Facts are fine when they are part of the idea (the Sun is a star). A detail that is only there to be remembered (a river's exact length, the year a scientist wrote something, who found what) is not.
+- Before: "Who are the members of Bela's family?" After: "Name three ways families can be different from each other."
+
 ## Parent words and child words
 
 - `say` is what the parent says out loud, word for word, as natural speech.

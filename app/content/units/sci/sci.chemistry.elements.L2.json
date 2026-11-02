@@ -992,7 +992,11 @@
       },
       {
        "f": "A banana",
-       "b": "Many elements, mostly carbon, hydrogen and oxygen."
+       "b": "Many elements, mostly carbon, hydrogen and oxygen.",
+       "img": {
+        "src": "media/cards/elements-g1-0-15.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
       }
      ]
     },

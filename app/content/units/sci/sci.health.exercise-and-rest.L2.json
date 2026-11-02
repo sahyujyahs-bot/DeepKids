@@ -294,7 +294,11 @@
      "items": [
       {
        "f": "A wild African elephant",
-       "b": "Pair: about 2 hours a day, mostly standing up"
+       "b": "Pair: about 2 hours a day, mostly standing up",
+       "img": {
+        "src": "media/cards/exercise-and-rest-g1-0-00.jpg",
+        "credit": "dhfischer, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "About 2 hours a day, mostly standing up",
@@ -318,7 +322,11 @@
       },
       {
        "f": "A house cat",
-       "b": "Pair: about 12 to 15 hours, in many naps"
+       "b": "Pair: about 12 to 15 hours, in many naps",
+       "img": {
+        "src": "media/cards/exercise-and-rest-g1-0-06.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "About 12 to 15 hours, in many naps",
@@ -334,7 +342,11 @@
       },
       {
        "f": "A little brown bat",
-       "b": "Pair: about 20 hours, hanging upside down"
+       "b": "Pair: about 20 hours, hanging upside down",
+       "img": {
+        "src": "media/cards/exercise-and-rest-g1-0-10.jpg",
+        "credit": "LeeAnn Latremouille, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "About 20 hours, hanging upside down",

@@ -232,6 +232,8 @@ function itemDetail(it, date) {
 // each row's picture: a lesson shows its unit's picture (or its subject's), a research paper its cover, some kinds one
 // of the founder's drawings; the rest keep an icon until they have an illustration that fits
 const DAYPIC = {
+  prep: "prep",
+  warm: "jokes",
   finish: "finish",
   exps: "science",
   paper: "science",
@@ -240,7 +242,7 @@ const DAYPIC = {
   mynote: "other",
   other: "other",
 };
-const DAYICON = { prep: "prep", todo: "prep", plan: "week", warm: "warm", event: "event" };
+const DAYICON = { todo: "prep", plan: "week", event: "event" };
 function dayPic(it) {
   const img = (src, cls = "") => `<span class="ic pic ${cls}"><img src="${esc(src)}" alt="" loading="lazy"></span>`;
   if (it.kind === "lesson") return img(lessonPic(it.u));

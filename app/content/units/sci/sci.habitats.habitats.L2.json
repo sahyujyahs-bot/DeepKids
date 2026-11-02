@@ -415,35 +415,67 @@
      "items": [
       {
        "f": "Camel",
-       "b": "Habitat: the desert. Hot and dry, with sand and thorny plants."
+       "b": "Habitat: the desert. Hot and dry, with sand and thorny plants.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-00.jpg",
+        "credit": "Subash Jeyan, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Frog",
-       "b": "Habitat: a pond. Wet, with mud, water plants and insects to eat."
+       "b": "Habitat: a pond. Wet, with mud, water plants and insects to eat.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-01.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Hornbill",
-       "b": "Habitat: a forest. Tall trees with fruit, and holes in trunks for nests."
+       "b": "Habitat: a forest. Tall trees with fruit, and holes in trunks for nests.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-02.jpg",
+        "credit": "Rohit Naniwadekar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ghost crab",
-       "b": "Habitat: the seashore. Wet sand, salty water and waves."
+       "b": "Habitat: the seashore. Wet sand, salty water and waves.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-03.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rock agama lizard",
-       "b": "Habitat: rocky hills. Warm rocks to lie on and cracks to hide in."
+       "b": "Habitat: rocky hills. Warm rocks to lie on and cracks to hide in.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-04.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Fish",
-       "b": "Habitat: a pond, a river or the sea. Always in water."
+       "b": "Habitat: a pond, a river or the sea. Always in water.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-05.jpg",
+        "credit": "Ben Costamagna, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Snail",
-       "b": "Habitat: damp places, like wet walls, shady plants and old leaves."
+       "b": "Habitat: damp places, like wet walls, shady plants and old leaves.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-06.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Squirrel",
-       "b": "Habitat: trees, in towns and forests. High branches for a safe nest."
+       "b": "Habitat: trees, in towns and forests. High branches for a safe nest.",
+       "img": {
+        "src": "media/cards/habitats-g2-0-07.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       }
      ]
     }

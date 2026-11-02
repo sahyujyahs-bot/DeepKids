@@ -486,7 +486,11 @@
       },
       {
        "f": "Frogs croaking all night by the puddles",
-       "b": "Monsoon"
+       "b": "Monsoon",
+       "img": {
+        "src": "media/cards/seasons-g2-0-01.jpg",
+        "credit": "Viral joshi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You can see your breath on a cold morning in Delhi",
@@ -494,7 +498,11 @@
       },
       {
        "f": "Gulmohar trees covered in red flowers",
-       "b": "Summer"
+       "b": "Summer",
+       "img": {
+        "src": "media/cards/seasons-g2-0-03.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Wet clothes take two days to dry",
@@ -510,7 +518,11 @@
       },
       {
        "f": "Peacocks dancing with their tails spread",
-       "b": "Monsoon"
+       "b": "Monsoon",
+       "img": {
+        "src": "media/cards/seasons-g2-0-07.jpg",
+        "credit": "akshaymurthy76, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Fog on the road so thick you cannot see the bus",
@@ -542,7 +554,11 @@
       },
       {
        "f": "The koel calling 'koo-oo' from the trees",
-       "b": "Summer"
+       "b": "Summer",
+       "img": {
+        "src": "media/cards/seasons-g2-0-15.jpg",
+        "credit": "egorbirder, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Snake boat races on the backwaters of Kerala",

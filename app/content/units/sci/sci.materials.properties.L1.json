@@ -958,7 +958,11 @@
       },
       {
        "f": "A banana leaf",
-       "b": "Clues: bendy, smooth, shiny."
+       "b": "Clues: bendy, smooth, shiny.",
+       "img": {
+        "src": "media/cards/properties-g2-0-03.jpg",
+        "credit": "Lucas Christofides, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A doormat",

@@ -3,9 +3,49 @@
   "src": "media/img/sci.environment.conservation.L3/expl.1.jpg",
   "credit": "Haneesh K M, CC0, via iNaturalist"
  },
+ "expl.2": {
+  "src": "media/img/sci.environment.conservation.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.environment.conservation.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.environment.conservation.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.environment.conservation.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.environment.conservation.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.environment.conservation.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.environment.conservation.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.environment.conservation.L3/flow.a2.jpg",
+  "drawn": true
+ },
  "flow.a3": {
   "src": "media/img/sci.environment.conservation.L3/flow.a3.jpg",
   "credit": "katorisi, CC BY 2.5, via Wikimedia Commons"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.environment.conservation.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.environment.conservation.L3/flow.c1.jpg",
+  "drawn": true
  },
  "flow.e1": {
   "src": "media/img/sci.environment.conservation.L3/flow.e1.jpg",
@@ -14,6 +54,10 @@
  "flow.e2": {
   "src": "media/img/sci.environment.conservation.L3/flow.e2.jpg",
   "credit": "Eleftherios Katsillis, CC BY, via iNaturalist"
+ },
+ "flow.e3": {
+  "src": "media/img/sci.environment.conservation.L3/flow.e3.jpg",
+  "drawn": true
  },
  "flow.p1": {
   "src": "media/img/sci.environment.conservation.L3/flow.p1.jpg",
@@ -67,6 +111,10 @@
   "src": "media/img/sci.environment.conservation.L3/summary.jpg",
   "credit": "Rejoice Gassah, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.environment.conservation.L3/term.0.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.environment.conservation.L3/term.1.jpg",
   "credit": "Alix Sanchis, CC BY, via iNaturalist"
@@ -79,12 +127,32 @@
   "src": "media/img/sci.environment.conservation.L3/term.2.jpg",
   "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
  },
+ "term.3": {
+  "src": "media/img/sci.environment.conservation.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.environment.conservation.L3/term.4.jpg",
+  "drawn": true
+ },
  "term.5": {
   "src": "media/img/sci.environment.conservation.L3/term.5.jpg",
   "credit": "Willem van Aken, CSIRO, CC BY 3.0, via Wikimedia Commons"
  },
+ "term.6": {
+  "src": "media/img/sci.environment.conservation.L3/term.6.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.environment.conservation.L3/term.7.jpg",
+  "drawn": true
+ },
  "term.8": {
   "src": "media/img/sci.environment.conservation.L3/term.8.jpg",
   "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
+ },
+ "term.9": {
+  "src": "media/img/sci.environment.conservation.L3/term.9.jpg",
+  "drawn": true
  }
 }

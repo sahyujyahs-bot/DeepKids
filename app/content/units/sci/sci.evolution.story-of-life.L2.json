@@ -920,7 +920,11 @@
       },
       {
        "f": "The first signs of tiny cells, in stromatolites.",
-       "b": "End of March. About 3.5 billion years ago."
+       "b": "End of March. About 3.5 billion years ago.",
+       "img": {
+        "src": "media/cards/story-of-life-g1-0-02.jpg",
+        "credit": "Ed Landing &amp; Markes E. Johnson (in: Journal of Marine Science and Engineerin, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Tiny cells put the first oxygen into the air.",

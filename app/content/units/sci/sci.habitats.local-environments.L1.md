@@ -165,7 +165,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 ## Games
 ### g1 · Lift the Stone: a memory game of homes (10 min)
 - **rules:** Mix the 12 cards and lay them face down on the floor in rows, like stones. Six cards are places and six are living beings.; Take turns. Lift two cards and show them to everyone. After your turn, the next player goes.; If you find a living being and a place where they live, say why they live there. Keep both cards.; Some living beings fit more than one place. Any true pair counts, if you can say why.; If the two cards do not go together, turn them face down again in the same spots.; The game ends when no cards are left, or when the cards that are left do not go together. The player with the most pairs wins. If you play as a team, count the pairs together.
-- **Printable cards: 12 cards to cut out: 6 places and 6 living beings:** Under a stone; A tree; A pond; Grass in the park; A flower; A crack in a wall; Earthworm; Squirrel; Tadpole; Grasshopper; Honeybee; Peepal seedling
+- **Printable cards: 12 cards to cut out: 6 places and 6 living beings:** Under a stone; A tree [picture]; A pond [picture]; Grass in the park; A flower [picture]; A crack in a wall; Earthworm [picture]; Squirrel [picture]; Tadpole; Grasshopper [picture]; Honeybee [picture]; Peepal seedling
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Read each card aloud once. 3. Mix them and lay them face down in rows.  
   *Parent says:* These cards are like stones on the ground. Under each one is a place, or a living being. Let's find who lives where.  

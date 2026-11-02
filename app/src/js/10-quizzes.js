@@ -58,8 +58,11 @@ function learnedUnits() {
       (k) => (S.progress[k].sessions || 0) > 0 || rank[S.progress[k].status] >= 2,
     ),
   ]);
-  return [...ks].map(unitByK).filter((u) => u && S.subjects.includes(u.subj));
+  return [...ks].map(unitByK).filter((u) => u && S.subjects.includes(u.subj) && !bookScience(u));
 }
+// on the DeepKids track, science quizzes and refreshers come from DeepKids lessons, never from a board book's chapter
+const bookScience = (u) =>
+  S.board === "combined" && u.subj === "sci" && ["ncert", "cambridge", "nios"].includes(u.board);
 /* every answer to every question, from part quizzes, quick quizzes and refreshers; the latest one counts */
 function lastAnswers() {
   const M = {};

@@ -11,8 +11,20 @@
   "src": "media/img/sci.materials.testing-materials.L2/flow.e1.jpg",
   "credit": "Dean Hochman, CC BY 2.0, via Wikimedia Commons"
  },
+ "intro": {
+  "src": "media/img/sci.materials.testing-materials.L2/intro.jpg",
+  "credit": "Zachary Crespin, CC BY 4.0, via Wikimedia Commons"
+ },
+ "summary": {
+  "src": "media/img/sci.materials.testing-materials.L2/summary.jpg",
+  "credit": "Stiller Beobachter from Ansbach, Germany, CC BY 2.0, via Wikimedia Commons"
+ },
  "term.0": {
   "src": "media/img/sci.materials.testing-materials.L2/term.0.jpg",
   "credit": "Мария Павлуша, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.2": {
+  "src": "media/img/sci.materials.testing-materials.L2/term.2.jpg",
+  "credit": "Dean Hochman, CC BY 2.0, via Wikimedia Commons"
  }
 }

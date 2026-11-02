@@ -7,17 +7,101 @@
   "src": "media/img/sci.materials.magnetic-materials.L3/e3.2.jpg",
   "drawn": true
  },
+ "expl.0": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/expl.1.jpg",
+  "drawn": true
+ },
  "expl.10": {
   "src": "media/img/sci.materials.magnetic-materials.L3/expl.10.jpg",
   "credit": "James St. John, CC BY 2.0, via Wikimedia Commons"
+ },
+ "expl.11": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/expl.11.jpg",
+  "drawn": true
+ },
+ "expl.12": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/expl.12.jpg",
+  "drawn": true
  },
  "expl.13": {
   "src": "media/img/sci.materials.magnetic-materials.L3/expl.13.jpg",
   "credit": "MPIA/NASA/Calar Alto Observatory, public domain"
  },
+ "expl.15": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/expl.15.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/expl.7.jpg",
+  "drawn": true
+ },
  "expl.9": {
   "src": "media/img/sci.materials.magnetic-materials.L3/expl.9.jpg",
   "credit": "Fred Anzley Annet, Public domain, via Wikimedia Commons"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.a7": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a7.jpg",
+  "drawn": true
+ },
+ "flow.a8": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.a8.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.materials.magnetic-materials.L3/intro.jpg",
@@ -67,8 +151,40 @@
   "src": "media/img/sci.materials.magnetic-materials.L3/term.0.jpg",
   "credit": "Zureks, CC0, via Wikimedia Commons"
  },
+ "term.1": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.11.jpg",
+  "drawn": true
+ },
  "term.14": {
   "src": "media/img/sci.materials.magnetic-materials.L3/term.14.jpg",
   "credit": "James St. John, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.17": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.17.jpg",
+  "drawn": true
+ },
+ "term.19": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.19.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.20": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.20.jpg",
+  "drawn": true
+ },
+ "term.21": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.21.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.materials.magnetic-materials.L3/term.6.jpg",
+  "drawn": true
  }
 }

@@ -679,11 +679,19 @@
      "items": [
       {
        "f": "Cucumber",
-       "b": "Wet. A cucumber is about 95 parts water out of 100."
+       "b": "Wet. A cucumber is about 95 parts water out of 100.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-00.jpg",
+        "credit": "Patricia Rose, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Watermelon",
-       "b": "Wet. Watermelon is more than 90 parts water out of 100."
+       "b": "Wet. Watermelon is more than 90 parts water out of 100.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-01.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tomato",
@@ -691,11 +699,19 @@
       },
       {
        "f": "Orange",
-       "b": "Wet. Each segment is full of juice."
+       "b": "Wet. Each segment is full of juice.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-03.jpg",
+        "credit": "Jeanene Arrington-Fisher, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coconut water",
-       "b": "Wet. It is a drink that grows inside a coconut."
+       "b": "Wet. It is a drink that grows inside a coconut.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-04.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Buttermilk",
@@ -711,7 +727,11 @@
       },
       {
        "f": "Banana",
-       "b": "Damp. A banana is about three-quarters water, held in a soft paste."
+       "b": "Damp. A banana is about three-quarters water, held in a soft paste.",
+       "img": {
+        "src": "media/cards/healthy-food-g1-0-08.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cooked rice",

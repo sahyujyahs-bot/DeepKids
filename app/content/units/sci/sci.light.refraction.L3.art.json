@@ -11,6 +11,54 @@
   "src": "media/img/sci.light.refraction.L3/expl.6.jpg",
   "credit": "Dreamora96x, CC BY 4.0, via Wikimedia Commons"
  },
+ "expl.9": {
+  "src": "media/img/sci.light.refraction.L3/expl.9.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.light.refraction.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.light.refraction.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.light.refraction.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.light.refraction.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.light.refraction.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.light.refraction.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.light.refraction.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.light.refraction.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.light.refraction.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.light.refraction.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.light.refraction.L3/intro.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.light.refraction.L3/setup.e1.0.jpg",
   "drawn": true
@@ -47,6 +95,14 @@
   "src": "media/img/sci.light.refraction.L3/setup.e3.2.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.light.refraction.L3/summary.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.light.refraction.L3/term.0.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.light.refraction.L3/term.1.jpg",
   "credit": "MarshyBoardwalk, CC0, via Wikimedia Commons"
@@ -55,6 +111,26 @@
   "src": "media/img/sci.light.refraction.L3/term.11.jpg",
   "credit": "Phillips, R. J. (Richard Jones), Public domain, via Wikimedia Commons"
  },
+ "term.12": {
+  "src": "media/img/sci.light.refraction.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.light.refraction.L3/term.13.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.light.refraction.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.light.refraction.L3/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.light.refraction.L3/term.5.jpg",
+  "drawn": true
+ },
  "term.6": {
   "src": "media/img/sci.light.refraction.L3/term.6.jpg",
   "credit": "The original uploader was Mis306 at English Wikibooks., Public domain, via Wikimedia Commons"
@@ -62,5 +138,9 @@
  "term.7": {
   "src": "media/img/sci.light.refraction.L3/term.7.jpg",
   "credit": "Heptagon, Public domain, via Wikimedia Commons"
+ },
+ "term.8": {
+  "src": "media/img/sci.light.refraction.L3/term.8.jpg",
+  "drawn": true
  }
 }

@@ -6,18 +6,42 @@
   "src": "media/img/sci.magnets.magnets-and-materials.L3/expl.11.jpg",
   "credit": "Nigel Voaden, CC BY, via iNaturalist"
  },
+ "expl.12": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/expl.12.jpg",
+  "drawn": true
+ },
  "expl.2": "media/img/sci.magnets.magnets-and-materials.L3/expl.2.svg",
  "expl.3": "media/img/sci.magnets.magnets-and-materials.L3/expl.3.svg",
+ "expl.4": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/expl.4.jpg",
+  "drawn": true
+ },
  "expl.5": "media/img/sci.magnets.magnets-and-materials.L3/expl.5.svg",
  "expl.6": {
   "src": "media/img/sci.magnets.magnets-and-materials.L3/expl.6.jpg",
   "credit": "James St. John, CC BY 2.0, via Wikimedia Commons"
  },
+ "expl.7": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/expl.7.jpg",
+  "drawn": true
+ },
  "expl.8": "media/img/sci.magnets.magnets-and-materials.L3/expl.8.svg",
  "expl.9": "media/img/sci.magnets.magnets-and-materials.L3/expl.9.svg",
+ "flow.a1": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a1.jpg",
+  "drawn": true
+ },
  "flow.a2": {
   "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a2.jpg",
   "credit": "Alexander Wilmer Duff, Public domain, via Wikimedia Commons"
+ },
+ "flow.a3": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a4.jpg",
+  "drawn": true
  },
  "flow.a5": {
   "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a5.jpg",
@@ -27,9 +51,33 @@
   "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a6.jpg",
   "credit": "NASA, public domain"
  },
+ "flow.a7": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a7.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.e2.jpg",
+  "drawn": true
+ },
  "flow.e3": {
   "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.e3.jpg",
   "credit": "Tatiana Gerus from Brisbane, Australia, CC BY 2.0, via Wikimedia Commons"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.magnets.magnets-and-materials.L3/intro.jpg",
@@ -59,6 +107,10 @@
  "setup.e3.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.e3.2.svg",
  "setup.g2.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.g2.2.svg",
  "setup.p1.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.p1.2.svg",
+ "summary": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/summary.jpg",
+  "drawn": true
+ },
  "term.0": "media/img/sci.magnets.magnets-and-materials.L3/term.0.svg",
  "term.1": "media/img/sci.magnets.magnets-and-materials.L3/term.1.svg",
  "term.10": {
@@ -75,6 +127,10 @@
  "term.15": "media/img/sci.magnets.magnets-and-materials.L3/term.15.svg",
  "term.16": "media/img/sci.magnets.magnets-and-materials.L3/term.16.svg",
  "term.17": "media/img/sci.magnets.magnets-and-materials.L3/term.17.svg",
+ "term.18": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/term.18.jpg",
+  "drawn": true
+ },
  "term.19": "media/img/sci.magnets.magnets-and-materials.L3/term.19.svg",
  "term.2": "media/img/sci.magnets.magnets-and-materials.L3/term.2.svg",
  "term.20": "media/img/sci.magnets.magnets-and-materials.L3/term.20.svg",
@@ -86,8 +142,16 @@
   "src": "media/img/sci.magnets.magnets-and-materials.L3/term.22.jpg",
   "credit": "Codrin Bucur, CC BY, via iNaturalist"
  },
+ "term.3": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/term.3.jpg",
+  "drawn": true
+ },
  "term.4": "media/img/sci.magnets.magnets-and-materials.L3/term.4.svg",
  "term.5": "media/img/sci.magnets.magnets-and-materials.L3/term.5.svg",
+ "term.6": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/term.6.jpg",
+  "drawn": true
+ },
  "term.7": "media/img/sci.magnets.magnets-and-materials.L3/term.7.svg",
  "term.8": "media/img/sci.magnets.magnets-and-materials.L3/term.8.svg",
  "term.9": "media/img/sci.magnets.magnets-and-materials.L3/term.9.svg"
