@@ -9615,7 +9615,7 @@ function ioptsView() {
 // the top of Today: the time-of-day picture with the greeting, the day's progress and the read-aloud button on it
 function todayHero(sub) {
   const st = streak();
-  return `<section class="thero"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
+  return `<section class="thero ${dayPart() ? "" : "over"}"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
 }
 function calHead(d) {
   return calHead0(d) + cancelNote(d);

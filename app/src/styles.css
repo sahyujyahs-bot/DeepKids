@@ -6758,6 +6758,18 @@ body {
 .therotxt {
   padding: 14px 2px 0;
 }
+/* the morning picture has open sky at the top: the greeting sits on it */
+.thero.over img {
+  height: 230px;
+  object-position: center 30%;
+}
+.thero.over .therotxt {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  right: 110px;
+  padding: 0;
+}
 .thero h1 {
   font: 400 clamp(25px, 7vw, 34px) / 1.1 var(--poster);
   color: var(--ink);
