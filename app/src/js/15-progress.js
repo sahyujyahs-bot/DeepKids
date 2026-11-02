@@ -1925,17 +1925,78 @@ function jsubView() {
 }
 const ring = (p, col) =>
   `<svg class="ring" viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" fill="none" stroke="var(--sunk)" stroke-width="5"/><circle cx="22" cy="22" r="18" fill="none" stroke="${col}" stroke-width="5" stroke-linecap="round" stroke-dasharray="${113 * p} 113" transform="rotate(-90 22 22)"/><text x="22" y="26" text-anchor="middle" font-family="Fredoka,sans-serif" font-size="10" font-weight="600" fill="var(--ink)">${Math.round(p * 100)}%</text></svg>`;
+/* the overview's subject tiles: each subject is a constellation, one star for each unit (or chapter) in this year's plan;
+   a star lights up when it is done, and the lit stars join up */
+function skyStats(s) {
+  const L = [...new Map(plannedAt(s, S.levels[s]).map((u) => [u.k, u])).values()],
+    units = L.some((u) => u.board === "unit"),
+    isDone = (u) => rank[st(u.k)] >= 2,
+    D = L.filter(isDone),
+    topic = (u) => DATA.units?.[u.c?.unit]?.topic;
+  return {
+    L,
+    D,
+    units,
+    started: L.filter((u) => st(u.k) === "learning").length,
+    topics: units ? new Set(L.map(topic)).size : 0,
+    topicsDone: units ? new Set(D.map(topic)).size : 0,
+    levels: [...new Set(D.map((u) => u.level))].sort(),
+  };
+}
+function skyTile(s) {
+  const x = skyStats(s),
+    n = x.L.length,
+    seed = hsh(s),
+    jit = (i, k) => ((hsh(s + i + k) % 1000) / 1000 - 0.5) * 7,
+    P = x.L.map((u, i) => {
+      const a = i * 2.39996 + (seed % 7),
+        r = 6 + 36 * Math.sqrt((i + 0.5) / Math.max(n, 1));
+      return [
+        60 + r * 1.25 * Math.cos(a) + jit(i, "x"),
+        50 + r * 0.95 * Math.sin(a) + jit(i, "y"),
+        x.D.includes(u),
+        st(u.k) === "learning",
+      ];
+    });
+  // the lit stars join up, each to its nearest lit neighbour in turn
+  const lit = P.filter((q) => q[2]),
+    path = lit.length ? [lit.shift()] : [];
+  while (lit.length) {
+    const [ax, ay] = path[path.length - 1];
+    let b = 0;
+    lit.forEach((q, i) => {
+      if (Math.hypot(q[0] - ax, q[1] - ay) < Math.hypot(lit[b][0] - ax, lit[b][1] - ay)) b = i;
+    });
+    path.push(lit.splice(b, 1)[0]);
+  }
+  const f = (v) => v.toFixed(1),
+    lines = path
+      .slice(1)
+      .map((q, i) => `<line x1="${f(path[i][0])}" y1="${f(path[i][1])}" x2="${f(q[0])}" y2="${f(q[1])}"/>`)
+      .join(""),
+    stars = P.map(([px, py, on, half]) =>
+      on
+        ? `<circle class="glow" cx="${f(px)}" cy="${f(py)}" r="5"/><circle class="on" cx="${f(px)}" cy="${f(py)}" r="2.4"/>`
+        : `<circle class="${half ? "half" : "off"}" cx="${f(px)}" cy="${f(py)}" r="${half ? 2 : 1.5}"/>`,
+    ).join(""),
+    what = x.units ? "units" : "chapters",
+    lv = x.levels.length
+      ? ` · Level${x.levels.length > 1 ? `s ${x.levels[0]}–${x.levels.at(-1)}` : " " + x.levels[0]}`
+      : "",
+    more =
+      x.units && x.D.length
+        ? `<small>${x.topicsDone} of ${x.topics} topics${lv}</small>`
+        : x.started
+          ? `<small>${x.started} started</small>`
+          : "";
+  return `<button class="skyt ${SC(s)}" data-act="jsub" data-s="${s}"><b>${SUBJ[s]}</b><svg viewBox="0 0 120 100" aria-hidden="true"><g class="ln">${lines}</g>${stars}</svg><span>${x.D.length} of ${n} ${what} done</span>${more}</button>`;
+}
 function viewJourney0() {
   const kid = esc(S.child || "Your child"),
     Qn = quotes().length,
     W = workOf().length,
     bs = boardsOn();
-  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="stack3">${S.subjects
-    .map((s) => {
-      const x = subjStats(s);
-      return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${pctTxt(x.pct)}</span><span class="xs" style="font-weight:800">${x.parts} of ${x.allParts} parts done · ${x.completed} of ${x.us.length} chapters finished${x.learning ? ` · ${x.learning} started` : ""}</span>${sblob(s, "happy")}</button>`;
-    })
-    .join("")}</div></section>`;
+  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
   const rows = [
     [
       "high",

@@ -327,7 +327,11 @@
       },
       {
        "f": "A sleeping cat",
-       "b": "Seems still. Breathing, heart beating, growing. Alive."
+       "b": "Seems still. Breathing, heart beating, growing. Alive.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-08.jpg",
+        "credit": "Ramnarayan K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A whole coconut with the husk on",
@@ -339,7 +343,11 @@
       },
       {
        "f": "A fresh mushroom from the shop",
-       "b": "A mushroom is a fungus, not a plant. A fresh mushroom still breathes. Alive."
+       "b": "A mushroom is a fungus, not a plant. A fresh mushroom still breathes. Alive.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-11.jpg",
+        "credit": "Katja Schulz, CC BY, via iNaturalist"
+       }
       }
      ]
     }

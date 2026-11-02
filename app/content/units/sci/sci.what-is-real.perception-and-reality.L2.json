@@ -1014,7 +1014,11 @@
       },
       {
        "f": "Jasmine flowers in the next room",
-       "b": "Clue Pairs"
+       "b": "Clue Pairs",
+       "img": {
+        "src": "media/cards/perception-and-reality-g1-0-06.jpg",
+        "credit": "Scott Edmunds, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A sweet smell comes through the door.",
@@ -1038,7 +1042,11 @@
       },
       {
        "f": "A koel hidden in a tree",
-       "b": "Clue Pairs"
+       "b": "Clue Pairs",
+       "img": {
+        "src": "media/cards/perception-and-reality-g1-0-12.jpg",
+        "credit": "Tom Heijnen, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You hear 'koo-oo, koo-oo' from the leaves.",
@@ -1155,7 +1163,11 @@
       },
       {
        "f": "A crow takes a piece of your dosa from the windowsill.",
-       "b": "Awake: crows do this a lot."
+       "b": "Awake: crows do this a lot.",
+       "img": {
+        "src": "media/cards/perception-and-reality-g2-0-08.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A neighbour rings the bell with sweets for Pongal.",

@@ -1,11 +1,75 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.6.jpg",
+  "drawn": true
+ },
  "expl.7": {
   "src": "media/img/sci.sky.the-sun.L3/expl.7.jpg",
   "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
  },
+ "expl.8": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.8.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.c1.jpg",
+  "drawn": true
+ },
  "flow.c2": {
   "src": "media/img/sci.sky.the-sun.L3/flow.c2.jpg",
   "credit": "NASA/Carla Thomas, public domain"
+ },
+ "flow.e1": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.sky.the-sun.L3/intro.jpg",
@@ -51,6 +115,22 @@
   "src": "media/img/sci.sky.the-sun.L3/term.1.jpg",
   "drawn": true
  },
+ "term.10": {
+  "src": "media/img/sci.sky.the-sun.L3/term.10.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.sky.the-sun.L3/term.11.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.sky.the-sun.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.sky.the-sun.L3/term.13.jpg",
+  "drawn": true
+ },
  "term.14": {
   "src": "media/img/sci.sky.the-sun.L3/term.14.jpg",
   "credit": "Manav Dhamani, CC BY, via iNaturalist"
@@ -63,8 +143,44 @@
   "src": "media/img/sci.sky.the-sun.L3/term.16.jpg",
   "credit": "NASA/Carla Thomas, public domain"
  },
+ "term.17": {
+  "src": "media/img/sci.sky.the-sun.L3/term.17.jpg",
+  "drawn": true
+ },
+ "term.18": {
+  "src": "media/img/sci.sky.the-sun.L3/term.18.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.sky.the-sun.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.sky.the-sun.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.sky.the-sun.L3/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.sky.the-sun.L3/term.5.jpg",
+  "drawn": true
+ },
  "term.6": {
   "src": "media/img/sci.sky.the-sun.L3/term.6.jpg",
   "credit": "The original uploader was Mis306 at English Wikibooks., Public domain, via Wikimedia Commons"
+ },
+ "term.7": {
+  "src": "media/img/sci.sky.the-sun.L3/term.7.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.sky.the-sun.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.sky.the-sun.L3/term.9.jpg",
+  "drawn": true
  }
 }

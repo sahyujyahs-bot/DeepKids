@@ -68,7 +68,11 @@ const GUIDE = {
       "Progress",
       "How each subject is going, time spent, finished work with photos, and reports for a school.",
     ],
-    [".scard", "Each subject", "Tap a subject to see its chapters and what's done."],
+    [
+      ".skyt",
+      "Each subject",
+      "One star for each unit or chapter this year. A star lights up when it is done. Tap a subject to see them all.",
+    ],
   ],
   library: [
     [
