@@ -1243,12 +1243,12 @@
    "a": "It reflects red light and absorbs the other colours. In only green light it would look very dark or black."
   },
   {
-   "q": "What did Ole Rømer and Eratosthenes each find out?",
-   "a": "Rømer: light takes time to travel. Eratosthenes: the size of the Earth, using shadows."
+   "q": "At noon on the same day, a stick in one city has no shadow, but a stick in a city far to the north has a short shadow. What does this tell us about the Earth, and how could it help measure its size?",
+   "a": "The Earth's surface is curved, so the Sun hits the two places at different angles. Measuring how different the shadows are, and how far apart the cities are, lets you work out how big the round Earth is."
   },
   {
-   "q": "How did Diskit find her way home?",
-   "a": "Her shadow always pointed away from the Sun. In the afternoon, with the Sun in the west, it pointed east, towards the village."
+   "q": "You are lost in the afternoon, and you know your village is to the east. How can your shadow help you find the way?",
+   "a": "Your shadow always points away from the Sun. In the afternoon the Sun is in the west, so your shadow points east. Walk the way your shadow points."
   }
  ]
 }

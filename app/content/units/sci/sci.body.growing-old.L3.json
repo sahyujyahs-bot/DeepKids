@@ -1220,7 +1220,7 @@
     },
     {
      "t": "sort",
-     "p": "Remember the Sticky-Note Body, where you swapped paper 'cells' on a body outline? Sort these by how often the body replaces them.",
+     "p": "Your body keeps replacing old cells with new ones. Sort these by how often the body replaces them.",
      "cats": [
       "Every few days or weeks",
       "Every few months or years",
@@ -2876,15 +2876,15 @@
   },
   {
    "t": "mcq",
-   "p": "Kristen Hawkes, an American scientist, watched Hadza grandmothers in Tanzania dig up food for their grandchildren. Which idea did this lead to?",
+   "p": "In some families that gather wild food, grandmothers dig up food for their grandchildren. How might this help explain why humans live long after they stop having babies?",
    "opts": [
-    "The grandmother idea: grandmothers who help feed grandchildren may have helped humans evolve long lives",
+    "Grandmothers who help feed grandchildren help more children survive",
     "Grandmothers never get old",
     "Only humans have grandmothers",
     "Children do not need food from grown-ups"
    ],
    "a": 0,
-   "why": "Hawkes and her team suggested in 1998 that long-lived grandmothers helped more children survive. It is debated, and other scientists suggest other reasons too.",
+   "why": "This is called the grandmother idea: long-lived grandmothers helped more children survive, so long lives were passed on. It is debated, and other scientists suggest other reasons too.",
    "outcome": 7
   }
  ],

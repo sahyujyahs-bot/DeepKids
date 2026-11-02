@@ -1686,26 +1686,26 @@
   },
   {
    "t": "mcq",
-   "p": "What did Nicolas Steno find in 1669 by studying quartz?",
+   "p": "Two quartz crystals look very different. One is long and lopsided, and one is short and neat. What stays the same in every quartz crystal?",
    "opts": [
-    "All quartz crystals are the same size",
-    "The angles between matching faces are the same in every quartz crystal",
-    "Quartz is frozen ice"
+    "Their size",
+    "The angles between matching faces",
+    "Their colour"
    ],
    "a": 1,
-   "why": "However lopsided, every quartz crystal had the same angles between its faces. Picking 'frozen ice' is the old idea from Pliny, which was wrong.",
+   "why": "However lopsided a crystal grows, its particles join in the same pattern, so the faces always meet at the same angles. Only the sizes of the faces change. Picking 'size' mixes up how big a crystal grew with how its particles join.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Before Steno, what did many people think about crystals of one kind?",
+   "p": "No two quartz crystals look exactly alike. Why might someone wrongly think crystals of one kind follow no rule?",
    "opts": [
-    "That they could grow in any shape, since no two looked alike",
-    "That they were all perfect cubes",
-    "That they were alive"
+    "Their faces grow to different sizes, which hides that the angles stay the same",
+    "They are all perfect cubes",
+    "They are alive"
    ],
    "a": 0,
-   "why": "No two quartz crystals look alike, so people thought there was no rule. Steno showed that the angles follow a rule, even when the face sizes don't.",
+   "why": "Uneven growth makes some faces big and others small, so the crystals look different. But measuring the angles shows the rule: they are the same every time.",
    "outcome": 5
   },
   {
@@ -1717,7 +1717,7 @@
     "Leave the syrup still for many days"
    ],
    "a": 2,
-   "why": "Slow, still growth gives big crystals. Stirring and fast cooling start too many small crystals, which is how Arjun's syrup turned sandy.",
+   "why": "Slow, still growth gives big crystals. Stirring and fast cooling start too many small crystals at once, so the sugar comes out fine and sandy.",
    "outcome": 2
   }
  ],
@@ -2117,9 +2117,9 @@
     },
     {
      "t": "write",
-     "p": "Sana, a girl in Class 4, says: 'My salt crystals are lopsided, so they are not real cubes.' Is she right? Explain using what Steno found.",
+     "p": "Sana, a girl in Class 4, says: 'My salt crystals are lopsided, so they are not real cubes.' Is she right? Explain using the angles between the faces.",
      "lines": 3,
-     "a": "She is partly right that they are not perfect cubes. But their faces still meet at square corners. Steno found that only the sizes of the faces change, not the angles.",
+     "a": "She is partly right that they are not perfect cubes. But their faces still meet at square corners. When a crystal grows unevenly, only the sizes of the faces change, not the angles.",
      "why": "A strong answer separates face size, which can change, from the angles, which stay the same."
     },
     {

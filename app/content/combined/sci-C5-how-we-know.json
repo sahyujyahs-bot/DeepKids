@@ -482,11 +482,11 @@
      [
       {
        "t": "mcq",
-       "p": "Clever Hans, a horse in Berlin, seemed to do sums by tapping his hoof. How did he really know when to stop?",
+       "p": "A horse seems to do sums by tapping its hoof. But it always fails when the asker does not know the answer. How does it really know when to stop?",
        "opts": [
-        "he could count in his head",
-        "he saw tiny changes in the asker's face and body",
-        "his owner gave him a secret signal on purpose"
+        "it can count in its head",
+        "it sees tiny changes in the asker's face and body",
+        "its owner gives it a secret signal on purpose"
        ],
        "a": 1
       },
@@ -543,7 +543,7 @@
       },
       {
        "t": "write",
-       "p": "The experts in 1904 watched Clever Hans and found no trick. Why was watching closely not enough?",
+       "p": "Experts watched a horse that seemed to do sums and found no trick. Later a careful test showed the horse was reading tiny movements of the asker. Why was watching closely not enough?",
        "lines": 3
       }
      ]
@@ -657,7 +657,7 @@
      [
       {
        "t": "write",
-       "p": "Remember the bouncing ball on Day 6. It never bounced higher than where it was dropped. Where did its energy go?",
+       "p": "You drop a ball. It bounces, but never comes back as high as where you dropped it. Where did its energy go?",
        "lines": 3
       },
       {
@@ -710,13 +710,13 @@
       },
       {
        "t": "mcq",
-       "p": "Uranus was not moving where the maths said, and Neptune was found. Mercury was not moving where the maths said, and no planet was found. What explained Mercury in the end?",
+       "p": "Uranus was not moving where the maths said, and a new planet, Neptune, was found pulling on it. Mercury was not moving where the maths said either, but no new planet was ever found. What should scientists think about next?",
        "opts": [
-        "a planet called Vulcan",
-        "a new theory of gravity by Einstein",
-        "a mistake in the telescope"
+        "the idea of gravity itself might need fixing",
+        "there must be a hidden planet anyway",
+        "the telescope must be broken"
        ],
-       "a": 1
+       "a": 0
       },
       {
        "t": "sort",
@@ -737,11 +737,12 @@
       },
       {
        "t": "fill",
-       "p": "Blondlot still saw N-rays after Robert Wood secretly took away the ____.",
+       "p": "A scientist says he still sees his rays even after someone secretly takes away the part that makes them. He was seeing what he ____ to see.",
        "a": [
-        "prism",
-        "aluminium prism",
-        "aluminum prism"
+        "expected",
+        "wanted",
+        "hoped",
+        "believed"
        ]
       }
      ]
@@ -970,16 +971,16 @@
  ],
  "check": [
   {
-   "q": "How did Clever Hans seem to do sums, and how was he caught?",
-   "a": "He watched the asker, who relaxed very slightly at the right number without knowing it. Oskar Pfungst showed that when the asker did not know the answer, or Hans could not see the asker, Hans failed."
+   "q": "A horse seems to do sums by tapping its hoof until it reaches the right number. How could you test whether it really counts, or is reading the person asking?",
+   "a": "Ask a question the asker does not know the answer to, or hide the asker from the horse. If the horse then fails, it was watching the asker, who relaxes very slightly at the right number without knowing it."
   },
   {
    "q": "What is confirmation bias? Give an example from the secret rule game.",
    "a": "Looking only for evidence that agrees with you. Most people test 8, 10, 12 and 20, 22, 24, which fit 'add 2', and never try 6, 4, 2, which could show their idea is wrong."
   },
   {
-   "q": "Why did our lucky snack stop being lucky?",
-   "a": "Its first result was a fluke from only 6 rolls, picked out from ten snacks. With a plan written first and 30 rolls, it got about the same sixes as any other snack."
+   "q": "With one snack, you rolled 3 sixes in 6 rolls, more than with nine other snacks. Then, with a plan written first and 30 rolls, it got about as many sixes as any snack. Why did its luck vanish?",
+   "a": "The first result was a fluke from only 6 rolls, picked out because it looked best among ten snacks. A bigger test, planned first, shows what really happens."
   },
   {
    "q": "What is pre-registration, and what mistake does it stop?",
@@ -990,8 +991,8 @@
    "a": "Energy is never made from nothing. Every machine loses some energy as heat and sound, like the ball that bounced lower each time, so with nothing coming in it must stop."
   },
   {
-   "q": "In the dabba game, why did one chana not make you change your mind completely?",
-   "a": "Dabba A also has 2 chana, so one chana is weak evidence. Each bean should move how sure you are by an amount that fits how strong it is."
+   "q": "Box A has mostly beans and 2 chana. Box B has mostly chana. You pull one chana out of one box without looking. Why should this not make you completely sure it is box B?",
+   "a": "Box A has chana too, so one chana is weak evidence. It should make you a little more sure it is box B, not completely sure. Each clue should change how sure you are by an amount that fits how strong it is."
   },
   {
    "q": "What is the difference between bold frontier science and unhealthy fringe?",

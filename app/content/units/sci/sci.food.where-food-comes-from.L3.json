@@ -1364,9 +1364,9 @@
     },
     {
      "t": "write",
-     "p": "In a warm Chennai kitchen, idli batter rises overnight. In a cold Delhi winter, it often stays flat unless it is kept somewhere warm. Use what you found in the Milk to Curd test to explain why.",
+     "p": "In a warm Chennai kitchen, idli batter rises overnight. In a cold Delhi winter, it often stays flat unless it is kept somewhere warm. Curd also sets in warm milk but stays runny in the fridge. Use this to explain why.",
      "lines": 4,
-     "a": "Idli batter rises because microbes in it feed and make gas. In the curd test, the bacteria worked only when the milk was warm. The cold fridge katori stayed runny. So in a cold kitchen the batter microbes work very slowly, and the batter stays flat.",
+     "a": "Idli batter rises because microbes in it feed and make gas. Curd bacteria work only when the milk is warm, and milk in the fridge stays runny. So in a cold kitchen the batter microbes work very slowly, and the batter stays flat.",
      "why": "A strong answer links the two: both are microbes at work, and both need warmth.",
      "how": "e1"
     },
@@ -1485,15 +1485,15 @@
     },
     {
      "t": "mcq",
-     "p": "About how long ago did people begin farming?",
+     "p": "Before farming, people got food by gathering wild plants and hunting. Why did farming let people stay in one place and build villages?",
      "opts": [
-      "About 11,000 years ago",
-      "About 100 years ago",
-      "About 500 years ago",
-      "Before there were any people"
+      "They could grow food near their homes year after year",
+      "Wild animals stopped moving",
+      "Farming needed no work",
+      "Rivers stopped flooding"
      ],
      "a": 0,
-     "why": "Farming began about 11,000 years ago, in several parts of the world. Before that, people gathered wild plants and hunted. The Green Revolution in India was only about 60 years ago."
+     "why": "Hunters and gatherers had to follow the food. With fields and animals near home, people could stay put, store food and build villages. Farming began about 11,000 years ago."
     }
    ]
   },
@@ -1566,7 +1566,7 @@
     },
     {
      "t": "write",
-     "p": "In the story A Field in Every Packet, the real scientists of the Leningrad seed collection in 1941 were starving, but they did not eat their seeds. Give two reasons why saving the seeds was so important.",
+     "p": "During a war, scientists guarding a big seed collection were starving, but they did not eat the seeds. Give two reasons why saving the seeds was so important.",
      "lines": 4,
      "a": "First, each seed is a baby plant that can grow into a plant that makes many more seeds. Eaten, a seed is one mouthful, but planted, a seed becomes a field. Second, the collection held many kinds of crops from all over the world. If they were lost, farmers might never get them back.",
      "why": "Seeds are both food and the future of food. A strong answer gives both reasons: one seed grows into many, and many kinds of crops must not be lost."
@@ -3289,14 +3289,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did scientists find at deep-sea vents in 1977?",
+   "p": "Deep in the sea there is no sunlight at all. Yet whole groups of animals live around hot vents there. What could their food chain start with?",
    "opts": [
-    "Animals living without sunlight, fed by microbes that use chemicals",
+    "Microbes that make food from chemicals in the hot water",
     "Plants growing in the dark",
-    "Nothing alive at all"
+    "Nothing: the animals need no food"
    ],
    "a": 0,
-   "why": "At the vents, microbes make food from chemicals in the hot water, and whole communities of animals depend on them. Before 1977, most scientists thought every community of animals depended on sunlight. Picking 'plants growing in the dark' means forgetting that plants need light.",
+   "why": "At the vents, microbes make food from chemicals in the hot water, and the animals depend on them. Before scientists found this in 1977, most thought every animal community depended on sunlight. Plants cannot grow without light.",
    "outcome": 6
   },
   {

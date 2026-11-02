@@ -429,7 +429,7 @@
           {"t": "mcq", "p": "You eat a meal and then stand on your head. Does the food still go down to your stomach?", "opts": ["No, it falls back to the mouth", "Yes, because the muscles of the food pipe squeeze it along", "Only if you drink water", "Only liquid food does"], "a": 1}
         ]],
         ["B. Weighing the voices", [
-          {"t": "write", "p": "Marshall and Warren were laughed at, but they were right. What evidence finally convinced other doctors?", "lines": 3},
+          {"t": "write", "p": "Doctors once thought tummy sores were caused by stress and spicy food. Two doctors thought germs caused them, and were laughed at. What evidence could convince other doctors that germs were the cause?", "lines": 3},
           {"t": "write", "p": "Doctors followed Galen for over a thousand years. Why do you think nobody checked his ideas for so long?", "lines": 3},
           {"t": "write", "p": "Sushruta said surgeons must study real bodies. Is it better to learn from books or from looking? Give one reason for each.", "lines": 3}
         ]]

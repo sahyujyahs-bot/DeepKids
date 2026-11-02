@@ -1211,14 +1211,14 @@
   },
   {
    "t": "mcq",
-   "p": "Tu Youyou found a clue for her medicine. Where?",
+   "p": "A scientist is looking for a new medicine. Where could she find a clue?",
    "opts": [
-    "In a very old book of medicine",
+    "In old books about medicine, which she then tests",
     "On the Moon",
-    "In a dream"
+    "In a dream, with no test"
    ],
    "a": 0,
-   "why": "She read a book written about 1,700 years ago. It said to soak the plant in water and squeeze out the juice.",
+   "why": "Old books hold what people tried long ago. A clue from them is a start, but it must be tested. Tu Youyou found her clue this way.",
    "outcome": 3
   },
   {
@@ -1235,14 +1235,14 @@
   },
   {
    "t": "mcq",
-   "p": "Janaki Ammal grew new kinds of sugarcane. Which country was she from?",
+   "p": "Where do discoveries in science come from?",
    "opts": [
-    "India",
-    "China",
-    "England"
+    "People in every country",
+    "Only one country",
+    "Only rich countries"
    ],
    "a": 0,
-   "why": "Janaki Ammal was from Thalassery in Kerala, India. Tu Youyou was from China, and Mary Anning from England.",
+   "why": "Anyone who asks questions and tests them can find things out. Great scientists have come from India, China, England and everywhere else.",
    "outcome": 4
   },
   {
@@ -1273,14 +1273,14 @@
   },
   {
    "t": "mcq",
-   "p": "Aryabhata lived in India about 1,500 years ago. What did he write about the Earth?",
+   "p": "Long ago, a thinker said the Earth spins round. What do we see every day that fits his idea?",
    "opts": [
-    "It spins round",
-    "It is flat",
-    "It is a square"
+    "The Sun seems to rise and set",
+    "The Earth looks flat",
+    "The Earth is a square"
    ],
    "a": 0,
-   "why": "Aryabhata wrote in the year 499 that the Earth spins. People in every land have made discoveries.",
+   "why": "As the Earth spins, our side turns towards the Sun and away again. So the Sun seems to rise and set. Aryabhata in India said the Earth spins.",
    "outcome": 4
   }
  ],
@@ -1334,7 +1334,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, Meenakshi rubbed the haldi paper hard with a dry finger and it stayed yellow. What did that show?",
+     "p": "A girl rubs haldi paper hard with a dry finger, and it stays yellow. Then soap turns it red. What did the rubbing show?",
      "opts": [
       "Rubbing is not what turns haldi red",
       "Haldi never changes",
@@ -1490,19 +1490,19 @@
     },
     {
      "t": "perspective",
-     "p": "Meera, a girl in Hyderabad, and her grandfather talk about the old book.",
+     "p": "Meera, a girl in Hyderabad, and her grandfather talk about old books.",
      "views": [
       {
        "who": "Meera, aged 7",
-       "says": "Old books are always right. That's how Tu Youyou found her medicine."
+       "says": "Old books are always right. They have been read for hundreds of years."
       },
       {
        "who": "Thatha, her grandfather",
        "says": "Old books can be wrong. We should only trust new things."
       }
      ],
-     "ask": "Who is right? Use Tu Youyou's story. What would you tell each of them?",
-     "a": "Neither is fully right. The old book gave Tu Youyou a clue, but most old recipes did not work. She tested them to find out which one did.",
+     "ask": "Who is right? What would you tell each of them?",
+     "a": "Neither is fully right. An old book can give a good clue, but many old ideas turn out to be wrong. The way to know is to test them.",
      "why": "A strong answer says that an old idea and a new idea both need testing. It gives each person credit for part of their view."
     },
     {
@@ -1513,9 +1513,9 @@
     },
     {
      "t": "label",
-     "p": "Here is a map of the world. Put a T where Tu Youyou worked, an R where C. V. Raman worked, and an M where Mary Anning found fossils.",
-     "a": "T on China, R on India, M on England.",
-     "why": "Discoveries come from every part of the world. A strong answer puts T in China, R in India and M in England.",
+     "p": "Here is a map of the world. Put a star on India, on China and on England. Great scientists have made discoveries in all three. What does that tell you?",
+     "a": "Stars on India, China and England. Discoveries come from every part of the world.",
+     "why": "A strong answer finds the three countries and says that science belongs to people everywhere.",
      "art": "A simple world map showing India, China and England clearly outlined, with a star for each."
     },
     {

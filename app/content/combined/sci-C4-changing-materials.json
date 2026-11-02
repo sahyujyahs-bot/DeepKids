@@ -518,7 +518,7 @@
       },
       {
        "t": "write",
-       "p": "In the story, a ship carried ice from America to India packed in sawdust. Why did the sawdust help? Use the word insulator.",
+       "p": "Long ago, ships carried ice across hot seas packed in sawdust. Why did the sawdust help? Use the word insulator.",
        "lines": 2
       },
       {
@@ -676,7 +676,7 @@
       },
       {
        "t": "mcq",
-       "p": "Mária Telkes, a scientist, stored the Sun's heat to warm a house at night by…",
+       "p": "How could a house store the Sun's heat in the day to warm itself at night?",
        "opts": [
         "melting a salt by day and letting it set at night",
         "freezing water",

@@ -1943,14 +1943,14 @@
   },
   {
    "t": "mcq",
-   "p": "Tartaglia was an Italian mathematician who taught himself. What did he say about the path of a cannonball?",
+   "p": "You throw a ball far across a field. Which part of its path is really straight?",
    "opts": [
-    "No part of it is really straight, because its weight pulls it down all the time",
-    "It goes in a straight line for ever",
-    "It goes straight, then drops straight down"
+    "No part of it, because its weight pulls it down all the time",
+    "All of it, in a straight line",
+    "The first part, then it drops straight down"
    ],
    "a": 0,
-   "why": "Many people before him thought the path was straight and then dropped like a hook. Tartaglia argued it curves all the way, and Galileo later showed with experiments that it is a smooth curve called a parabola.",
+   "why": "Gravity pulls the ball down from the moment it leaves your hand, while it also moves forward. So the path bends all the way, in a smooth curve. Picking 'straight, then drops' is a very old idea that turned out wrong.",
    "outcome": 6
   }
  ],
@@ -2440,7 +2440,7 @@
     },
     {
      "t": "write",
-     "p": "In Galileo's Table, Aparna, a girl in Class 4, found that her marbles landed 30 cm, 42 cm and 58 cm from the table. Her friend says the marble falls straight down for a while, then moves forward. Use Aparna, a girl in Class 4, found that her results to show why that is wrong.",
+     "p": "In Galileo's Table, Aparna, a girl in Class 4, found that her marbles landed 30 cm, 42 cm and 58 cm from the table. Her friend says the marble falls straight down for a while, then moves forward. Use Aparna's results to show why that is wrong.",
      "lines": 5,
      "a": "If the marble fell straight down first, it would land close to the table each time. But it landed further away when it was faster, so it was moving forward the whole time it fell. Its path was a curve, starting at the table edge.",
      "why": "A strong answer uses the evidence, the landing distances, to test someone else's idea.",
@@ -2501,7 +2501,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila, the girl in the story, stands on a scale in her house. She bends her knees and jumps up. Just as she pushes off, what does the scale show?",
+     "p": "A girl stands on a bathroom scale. She bends her knees and jumps up. Just as she pushes off, what does the scale show?",
      "opts": [
       "More than her weight, because she pushes down harder",
       "Less than her weight",

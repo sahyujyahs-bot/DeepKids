@@ -1223,7 +1223,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the Colour Mixing Test: the plate, the three paints, and the new colour you made in the middle. Colour it in.",
+     "p": "Draw a plate with red, yellow and blue paint. Show two of the paints mixing, and the new colour they make in the middle. Colour it in.",
      "a": "A plate with red, yellow and blue blobs, and a green, orange or purple patch where two met.",
      "why": "A strong drawing shows two paints going in and a new colour coming out.",
      "how": "e1",

@@ -1168,10 +1168,10 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: what did you guess before the tickle test, and was your guess right?",
+     "p": "Say out loud, and a grown-up writes it down: will a stroke on your foot tickle less if you do it yourself, or if someone else does it? Why?",
      "lines": 2,
-     "a": "I guessed my own stroke would tickle less, and I was right. My own stroke scored 0 and my mother's scored 3.",
-     "why": "A strong answer says what the guess was, and uses the scores from the test to say if it was right.",
+     "a": "My own stroke tickles less. My brain knows exactly when and how my own hand will move, so it expects the touch.",
+     "why": "A strong answer makes a guess and gives a reason: the brain predicts its own movements.",
      "how": "e1"
     },
     {

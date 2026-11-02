@@ -451,7 +451,7 @@
       },
       {
        "t": "mcq",
-       "p": "In the blind spot test, the dot vanished. What did you see in its place?",
+       "p": "When a dot on a white card falls on your blind spot, it vanishes. What do you think you see in its place?",
        "opts": [
         "a black hole",
         "plain white card",
@@ -505,7 +505,7 @@
       },
       {
        "t": "mcq",
-       "p": "In Plato's cave story, the prisoners saw shadows on the wall. The shadows were…",
+       "p": "Imagine people who have only ever seen the shadows of things on a wall, never the things themselves. The shadows they see are…",
        "opts": [
         "not real at all",
         "real shadows, but only part of the truth",
@@ -579,7 +579,7 @@
       },
       {
        "t": "mcq",
-       "p": "Thomas Young shone light through two narrow slits. What did he see on the wall?",
+       "p": "Water waves pass through two gaps in a wall. Behind the wall, some places get big waves and some get almost none. Light shone through two narrow slits does the same. What do you see on the wall behind?",
        "opts": [
         "two bright lines",
         "many bright and dark stripes",
@@ -616,7 +616,7 @@
       },
       {
        "t": "mcq",
-       "p": "Thomas Nagel said we could learn everything about how a bat's brain works and still not know…",
+       "p": "You could learn everything about how a bat's brain works and still not know…",
        "opts": [
         "how big a bat is",
         "what it is like to be a bat",
@@ -704,9 +704,9 @@
      [
       {
        "t": "write",
-       "p": "Farhan, a boy in Class 4, says: 'If I can't see it, it isn't real.' Use two things from this week to answer him.",
+       "p": "Farhan, a boy in Class 4, says: 'If I can't see it, it isn't real.' Use two examples to answer him.",
        "lines": 4,
-       "a": "A strong answer uses evidence such as the blind spot (you can't see the gap, yet it is there), atoms (too small to see), the stripes of light, or laws of nature, which are patterns, not objects."
+       "a": "A strong answer uses examples such as the blind spot (you can't see the gap, yet it is there), atoms (too small to see), air, or laws of nature, which are patterns, not objects."
       },
       {
        "t": "write",
@@ -733,7 +733,7 @@
       },
       {
        "t": "draw",
-       "p": "Draw Plato's cave: the prisoners, the wall, the fire and the people carrying things. Then draw one prisoner walking out into the sunlight."
+       "p": "Draw people who have only ever seen shadows on a wall: the wall, a fire behind them, and things carried in front of the fire. Then draw one person walking out into the sunlight and seeing the real things."
       }
      ]
     ]
@@ -1177,19 +1177,19 @@
    "a": "For example: the length of a table is real for everyone, because anyone can measure it. My toothache is real for me, because only I feel it."
   },
   {
-   "q": "What did the breath counter show?",
-   "a": "People often breathe differently once they know they are being counted. Watching can change what you watch. This is the observer effect."
+   "q": "When people know their breaths are being counted, they often breathe differently. What does this show about watching and measuring?",
+   "a": "Watching can change what you watch. This is the observer effect, so scientists must plan tests where being watched does not spoil the result."
   },
   {
    "q": "What is an atom mostly made of, and why does a table feel solid?",
    "a": "A tiny heavy nucleus with a cloud of electrons spread around it. The table feels solid because the electron clouds of its atoms and your hand push each other away."
   },
   {
-   "q": "What did Thomas Nagel mean when he asked what it is like to be a bat?",
-   "a": "That we could know every fact about a bat's brain from the outside and still not know how it feels to be that bat from the inside."
+   "q": "Could you know every fact about a bat's brain and still not know what it feels like to be a bat? Why?",
+   "a": "Yes. Facts from the outside tell you how the brain works, but not how it feels from the inside. The thinker Thomas Nagel asked this question."
   },
   {
-   "q": "How did the ants make their trail, and what does it show?",
+   "q": "Ants make long trails to sugar, but no ant plans the trail. How can that happen, and what does it show?",
    "a": "Ants who found sugar left a smell trail and others followed it. No ant planned it. Many simple parts together did something none did alone. This is emergence."
   }
  ],

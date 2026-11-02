@@ -1249,7 +1249,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw one chalk piece from your Tiffin Test before shaking and after shaking. Show the corners clearly.",
+     "p": "A piece of chalk is shaken many times in a closed tiffin with stone chips. Draw it before shaking and after shaking. Show the corners clearly.",
      "a": "A sharp-cornered piece, then a rounded piece with no sharp corners.",
      "why": "A strong drawing shows the corners going round, because the corners stick out and get knocked off first.",
      "how": "e1"
@@ -1333,9 +1333,9 @@
        "says": "A river made it round, by knocking it against other stones for a long time."
       }
      ],
-     "ask": "Who do you agree with? Use your Tiffin Test to say why. Then say one thing the other girl is right about.",
+     "ask": "Who do you agree with? Use what happens when stones are knocked together again and again. Then say one thing the other girl is right about.",
      "a": "Anu is right for river pebbles. But Revathi has a point: some shop pebbles are rounded in a machine drum by people.",
-     "why": "A strong answer uses the Tiffin Test: knocking made chalk round, so knocking in a river can make stone round. It also sees that people can do the same knocking in a machine.",
+     "why": "A strong answer uses knocking: soft chalk shaken in a tiffin goes round, so knocking in a river can make stone round. It also sees that people can do the same knocking in a machine.",
      "how": "e1"
     },
     {
@@ -1661,14 +1661,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Tiffin Test, which pieces lost their corners first?",
+   "p": "Soft chalk pieces and hard stone chips are shaken together in a closed tiffin box. Which lose their corners first?",
    "opts": [
     "The soft chalk pieces",
     "The hard stone chips",
     "All pieces at the same speed"
    ],
    "a": 0,
-   "why": "Chalk is soft, so each knock takes off grains. Hard stone loses grains very slowly, so it hardly changed.",
+   "why": "Chalk is soft, so each knock takes off grains. Hard stone loses grains very slowly, so it hardly changes.",
    "outcome": 3,
    "how": "e1"
   },
@@ -1698,14 +1698,14 @@
   },
   {
    "t": "mcq",
-   "p": "The Taj Mahal is built mostly of which rock?",
+   "p": "A builder wants a stone for a great monument that can be polished till it shines white. Which rock fits best?",
    "opts": [
     "White marble",
     "Red laterite",
     "Black coal"
    ],
    "a": 0,
-   "why": "The Taj Mahal is white marble from Makrana in Rajasthan. Marble can be polished till it shines.",
+   "why": "Marble can be polished till it shines. The Taj Mahal is built of white marble. Laterite is red and rough, and coal is black and crumbles.",
    "outcome": 1
   },
   {

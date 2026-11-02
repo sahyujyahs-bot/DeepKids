@@ -1783,7 +1783,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Paper Cup Puzzle, what did the cut-open paper cup have on the inside?",
+   "p": "A paper cup holds water, but a cone made of newspaper leaks. What must the paper cup have on the inside?",
    "opts": [
     "A thin plastic skin",
     "A layer of glass",
@@ -1796,14 +1796,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Paper Cup Puzzle, what happened to the newspaper cone?",
+   "p": "You pour water into a cone made of newspaper. What will happen?",
    "opts": [
-    "It went dark and soft and leaked",
-    "It stayed dry",
-    "It turned into plastic"
+    "It goes dark and soft, and leaks",
+    "It stays dry",
+    "It turns into plastic"
    ],
    "a": 0,
-   "why": "Paper soaks up water. The newspaper went dark, then soft, and the water dripped through.",
+   "why": "Paper soaks up water. The newspaper goes dark, then soft, and the water drips through.",
    "how": "e1",
    "outcome": 4
   }

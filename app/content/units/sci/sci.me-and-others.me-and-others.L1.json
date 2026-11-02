@@ -1427,14 +1427,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, Nila, her father and her grandmother all showed thumbs up for one food. Which one?",
+     "p": "A girl, her father and her grandmother taste jaggery and karela with their eyes closed. Which food are they most likely all to give a thumbs up?",
      "opts": [
       "Jaggery",
       "Pavakkai (karela)",
       "Neither"
      ],
      "a": 0,
-     "why": "All three of them gave the jaggery a thumbs up. Sweet is a taste nearly everyone likes. The pavakkai got three different thumbs."
+     "why": "Sweet is a taste nearly everyone likes. Bitter foods like karela taste very different to different people, so they often get different thumbs."
     },
     {
      "t": "draw",
@@ -1635,14 +1635,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, Kavya said 'Yuck' about Bornali's sour fish curry. What would have been a kind thing to say?",
+     "p": "A new friend opens her lunch box. It is a sour fish curry that smells strange to you. What would be a kind thing to say?",
      "opts": [
       "'That smells funny.'",
       "'What is it called? Can I smell it?'",
       "'Throw it away.'"
      ],
      "a": 1,
-     "why": "Asking about Bornali's food is kind. It shows Kavya wants to know her. Saying 'Yuck' made Bornali feel sad."
+     "why": "Asking about her food is kind. It shows you want to know her. Saying 'Yuck' could make her feel sad and left out."
     },
     {
      "t": "write",

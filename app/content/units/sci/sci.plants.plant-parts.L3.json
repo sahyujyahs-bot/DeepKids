@@ -1201,7 +1201,7 @@
        "says": "The leaves matter most. They make all the plant's food. Without leaves, the plant starves."
       }
      ],
-     "ask": "Whose side are you on? Give one piece of evidence from this unit. Then say what the other sister has right.",
+     "ask": "Whose side are you on? Give one piece of evidence. Then say what the other sister has right.",
      "lines": 5,
      "a": "A strong answer picks a side and gives evidence. For the roots: a cut rose with no roots lasts only a few days. For the leaves: leaves catch the sunlight that makes the plant's food, and a covered leaf cannot do it. A strong answer then admits the other side's point, because a plant needs both: the roots bring water to the leaves, and the leaves send food to the roots.",
      "why": "There is no single winner. Roots and leaves depend on each other. A good answer notices this, and still argues one side with real evidence."
@@ -1388,22 +1388,22 @@
     },
     {
      "t": "perspective",
-     "p": "In this unit's story, Jasmeet and her mother Harpreet grow carrots on their farm in Haryana. At harvest time, they disagree about what to do with the carrots.",
+     "p": "A farming family in Haryana grows carrots. At harvest time, the mother and her daughter disagree about what to do with the carrots.",
      "views": [
       {
-       "who": "Harpreet, Jasmeet's mother",
+       "who": "The mother",
        "says": "Pull up and sell every fat carrot now. A carrot that is left to flower goes woody, and nobody will buy them."
       },
       {
-       "who": "Jasmeet, aged 9",
+       "who": "The daughter, aged 9",
        "says": "Leave the ten best carrots in the ground. They will use their stored sugar to make seed, so next year we will not have to buy any."
       }
      ],
      "ask": "Which plan would you choose for the family? Use what you know about what a carrot's stored food is for. Then say what the other person has right.",
      "lines": 5,
-     "a": "A strong answer uses the science. A carrot stores sugar in their root for their own next stage. If they are left, they spend it on a flower stalk and seeds, so the root goes woody. For Jasmeet: ten carrots give a whole tin of seed, and shop seed costs a lot. For Harpreet: those ten carrots cannot be sold, and the family needs money now. A strong answer gives the other side's point too.",
+     "a": "A strong answer uses the science. A carrot stores sugar in their root for their own next stage. If they are left, they spend it on a flower stalk and seeds, so the root goes woody. For the daughter: ten carrots give a whole tin of seed, and shop seed costs a lot. For the mother: those ten carrots cannot be sold, and the family needs money now. A strong answer gives the other side's point too.",
      "why": "This is a real farmer's choice between money now and seed later. Both plans make sense. What makes an answer strong is knowing that the carrot's food is for the carrot's own flowers and seeds.",
-     "context": "In this unit's story, Jasmeet finds an old carrot that has flowered. Their root has gone woody, and the flower has made lots of seed."
+     "context": "A carrot left in the ground for a long time grows a flower. Their root goes woody, and the flower makes lots of seed."
     },
     {
      "t": "draw",
@@ -3301,15 +3301,15 @@
   },
   {
    "t": "mcq",
-   "p": "What did some of the earliest land plants, about 430 million years ago, look like?",
+   "p": "Fossils show that the very first land plants were tiny stems, with no roots and no leaves. Why could they not grow tall?",
    "opts": [
-    "Tiny forked stems with no roots and no leaves",
-    "Huge trees with wide leaves",
-    "Flowers like roses",
-    "Cactuses"
+    "With no roots, they could not hold on or soak up water from deep in the soil",
+    "They had too many flowers",
+    "They were too heavy",
+    "They had spines"
    ],
    "a": 0,
-   "why": "Fossils show the earliest land plants were small stems without roots or leaves. Roots, wide leaves and flowers came much later. Picking 'huge trees' imagines the past like today's forests.",
+   "why": "Roots hold a plant down and bring up water. Without them, a plant has to stay small and close to wet ground. Roots, wide leaves and flowers came much later, and then plants could grow tall.",
    "outcome": 6
   }
  ],

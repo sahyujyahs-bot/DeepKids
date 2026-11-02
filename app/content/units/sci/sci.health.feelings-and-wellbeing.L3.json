@@ -1488,10 +1488,10 @@
     },
     {
      "t": "write",
-     "p": "In the Face Test, which half of the face helped you most, the eyes or the mouth? Use your results to explain.",
+     "p": "When you can see only the eyes of a face, or only the mouth, which feelings are easier to read from the eyes, and which from the mouth? Why?",
      "lines": 3,
-     "a": "A strong answer names a feeling for each, for example: 'The eyes helped most for scared and angry. The mouth helped most for happy.' It uses the ticks from the table.",
-     "why": "Different feelings show in different parts of the face. Your own table is the evidence.",
+     "a": "A strong answer names a feeling for each, for example: 'The eyes help most for scared and angry. The mouth helps most for happy.' It says why: a happy mouth turns up, while fear and anger show in the eyes and eyebrows.",
+     "why": "Different feelings show in different parts of the face.",
      "how": "e1"
     },
     {
@@ -1599,10 +1599,10 @@
     },
     {
      "t": "write",
-     "p": "Farhan, a boy in Class 3, says, 'I can always tell what my friends feel just by looking at them.' Use what you found in the Face Test to answer him.",
+     "p": "Farhan, a boy in Class 3, says, 'I can always tell what my friends feel just by looking at them.' What would you tell him?",
      "lines": 4,
-     "a": "In the Face Test, some feelings got mixed up, like scared and surprised. People also hide feelings or smile politely. So looking gives clues, but Farhan should ask to be sure.",
-     "why": "A strong answer uses evidence from the child's own results.",
+     "a": "Some feelings look alike, like scared and surprised. People also hide feelings or smile politely. So looking gives clues, but Farhan should ask to be sure.",
+     "why": "A strong answer says faces give clues, not proof, and that asking is the way to know.",
      "how": "e1"
     },
     {
@@ -1631,7 +1631,7 @@
     },
     {
      "t": "mcq",
-     "p": "After a bad night's sleep, Nila, the girl in the story, snapped at her brother over a small thing. What is the best explanation?",
+     "p": "After a bad night's sleep, Nila snapped at her brother over a small thing. What is the best explanation?",
      "opts": [
       "Nila is an unkind person",
       "Too little sleep makes small things feel bigger and makes people cross more easily",
@@ -1650,15 +1650,15 @@
     },
     {
      "t": "order",
-     "p": "Put Darwin's face test in order.",
+     "p": "Put these steps of a test of whether people agree about what faces show in a sensible order.",
      "items": [
-      "Duchenne photographs faces moved by gentle electric currents",
-      "Darwin chooses 11 of the photographs",
-      "Darwin shows them one at a time to more than 20 visitors",
-      "Darwin finds visitors agree on some faces and argue about others"
+      "Take photos of faces showing different feelings",
+      "Choose some of the photos",
+      "Show them one at a time to many people, and write down what each says",
+      "Compare: do people agree on some faces and argue about others?"
      ],
      "a": "order shown",
-     "why": "Duchenne's photographs came first, in 1862. Darwin's test with visitors was in 1868."
+     "why": "First make the photos, then choose them, then test many people, then look at the results. Darwin did a test like this in 1868."
     },
     {
      "t": "sort",
@@ -1992,41 +1992,41 @@
   },
   {
    "t": "mcq",
-   "p": "What did scientists find when toddlers gave treats away?",
+   "p": "Many people feel happy when they share a treat with a friend. What does this show about happiness?",
    "opts": [
-    "They cried",
-    "They looked happier than when they got treats",
-    "They did not notice",
-    "They became angry"
+    "Happiness can come from giving, not only from getting",
+    "Only getting things makes us happy",
+    "Sharing always makes people angry",
+    "Feelings never change"
    ],
-   "a": 1,
-   "why": "In the study, children under two looked happier giving a treat than getting one.",
+   "a": 0,
+   "why": "Giving can make us feel good inside. Scientists found that even children under two looked happier giving a treat than getting one.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "What did Guillaume Duchenne find about a real smile?",
+   "p": "How can you often tell a real, happy smile from a polite one?",
    "opts": [
-    "It uses only the mouth",
-    "It also uses a muscle around the eye that crinkles the eye corner",
-    "It uses the ears",
-    "Real and polite smiles are the same"
+    "A real smile uses only the mouth",
+    "A real smile also crinkles the corners of the eyes",
+    "A real smile moves the ears",
+    "You cannot tell: they are the same"
    ],
    "a": 1,
-   "why": "Duchenne found a happy smile lifts the cheeks and crinkles the eye corners. A polite smile often uses only the mouth.",
+   "why": "A happy smile lifts the cheeks and crinkles the eye corners. A polite smile often uses only the mouth.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Charles Bell said animals do not have the face muscles people use to show feelings. Who showed he was wrong?",
+   "p": "Someone says animals do not have the face muscles people use to show feelings. How could you check?",
    "opts": [
-    "Charles Darwin",
-    "Paul Ekman",
-    "Duchenne's visitors",
-    "Nobody"
+    "Compare the faces and face muscles of people with apes, monkeys and dogs",
+    "Ask a friend",
+    "Look at one photo of a person",
+    "Nobody can check"
    ],
    "a": 0,
-   "why": "Darwin compared people with apes, monkeys and dogs and found shared muscles and expressions.",
+   "why": "Comparing is how you find out. Charles Darwin did this and found that people and other animals share face muscles and expressions.",
    "outcome": 6
   },
   {

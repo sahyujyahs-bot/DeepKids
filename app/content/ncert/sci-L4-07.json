@@ -668,7 +668,7 @@
             },
             {
               "t": "write",
-              "p": "You coloured a spinner half red and half yellow. What colour did you see when it spun fast? Explain why.",
+              "p": "A spinner is coloured half red and half yellow. What colour would you see when it spins fast? Explain why.",
               "lines": 2
             }
           ]
@@ -729,7 +729,7 @@
             },
             {
               "t": "write",
-              "p": "Arjun says, 'Big things sink and small things float.' Give two examples from your tests that prove him wrong.",
+              "p": "Arjun says, 'Big things sink and small things float.' Give two examples that prove him wrong.",
               "lines": 2
             }
           ]
@@ -788,12 +788,12 @@
           [
             {
               "t": "write",
-              "p": "Colombe said ice floats because it is flat. Galileo said ice floats because it is lighter than the same amount of water. What test with an ice cube would help decide? What did you find?",
+              "p": "Colombe said ice floats because it is flat. Galileo said ice floats because it is lighter than the same amount of water. What test with an ice cube would help decide? What result would show who is right?",
               "lines": 3
             },
             {
               "t": "write",
-              "p": "Newton said white light is a mix of colours. Hooke disagreed. How does your seven-colour spinner support Newton? Why did it look greyish instead of pure white?",
+              "p": "Newton said white light is a mix of colours. Hooke disagreed. A spinner painted with the seven rainbow colours looks whitish-grey when it spins fast. How does this support Newton? Why does it look greyish instead of pure white?",
               "lines": 3
             },
             {
@@ -1106,7 +1106,7 @@
       "a": "It wobbles, leans and rolls round on its edge with a faster rattling sound, then falls flat. Friction with the table and the air slow it down."
     },
     {
-      "q": "What did you see when the half-red, half-yellow spinner spun fast? Why?",
+      "q": "A spinner is coloured half red and half yellow. What colour would you see when it spins fast? Why?",
       "a": "Orange. The eye holds each picture for a moment, so when the colours pass very quickly the brain mixes them into one colour."
     },
     {

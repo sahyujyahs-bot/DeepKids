@@ -1319,14 +1319,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the story, Meera got something from Paati when she was born. What was it?",
+   "p": "A girl has long fingers like her grandmother, draws kolam like her grandmother, and speaks Tamil like her grandmother. Which one did she get from her grandmother when she was born?",
    "opts": [
     "Her long fingers",
     "Her kolam skill",
     "Her Tamil words"
    ],
    "a": 0,
-   "why": "Meera inherited long fingers through genes. The kolam and the words are learned.",
+   "why": "Long fingers come through genes. Kolam and Tamil words are learned from the people around her.",
    "outcome": 0
   },
   {

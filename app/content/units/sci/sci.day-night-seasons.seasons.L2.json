@@ -1629,10 +1629,10 @@
     },
     {
      "t": "write",
-     "p": "Remember the Black or White test. Say it, and a grown-up writes it down: which ice melted first, and why?",
+     "p": "Two ice cubes sit in the sun, one under a black cloth and one under a white cloth. Say it, and a grown-up writes it down: which melts first, and why?",
      "lines": 2,
-     "a": "The ice under the black cloth melted first. The black cloth took in more sunlight and got hotter.",
-     "why": "A strong answer names what they saw (more water on the black plate) and the reason (black absorbs more light).",
+     "a": "The ice under the black cloth melts first. The black cloth takes in more sunlight and gets hotter.",
+     "why": "A strong answer names the black cloth and gives the reason: black takes in more sunlight and gets hotter.",
      "how": "e1"
     },
     {
@@ -1727,9 +1727,9 @@
        "says": "Wear the loose one, whatever its colour. Air moving under it keeps you cool."
       }
      ],
-     "ask": "Who do you agree with? Give one reason from your test. Then say one thing the other friend has right.",
+     "ask": "Who do you agree with? Give one reason. Then say one thing the other friend has right.",
      "lines": 4,
-     "a": "A strong answer picks a side with evidence. Divya is right that white reflects more light, as the ice test showed. Rukhsana is right that loose clothes let moving air carry heat away, as scientists found with desert robes.",
+     "a": "A strong answer picks a side with evidence. Divya is right that white reflects more light, so ice under a white cloth melts more slowly than under a black one. Rukhsana is right that loose clothes let moving air carry heat away, as scientists found with desert robes.",
      "why": "Both colour and fit matter. A loose white shirt does both jobs."
     }
    ]
@@ -1767,9 +1767,9 @@
     },
     {
      "t": "truefalse",
-     "p": "True or false: in the Damp Box test, the papad went soft because it touched the water.",
+     "p": "True or false: a papad kept in a closed box beside a cup of hot water can only go soft if it touches the water.",
      "a": false,
-     "why": "False. The papad never touched the water. The water went into the air, and the papad took it in from the air.",
+     "why": "False. The papad does not need to touch the water. The water goes into the air in the box, and the papad takes it in from the air.",
      "how": "e2"
     },
     {
@@ -1922,7 +1922,7 @@
     },
     {
      "t": "write",
-     "p": "In which season would the Papad Weather Test show soft papad in your city? Why?",
+     "p": "In which season would a papad left out in the open go soft in your city? Why?",
      "lines": 2,
      "a": "In the monsoon, because the air is humid and the papad takes water from the air.",
      "why": "A strong answer links soft papad to damp, humid air.",

@@ -2466,15 +2466,15 @@
   },
   {
    "t": "mcq",
-   "p": "In the old Indian surgery book, the Sushruta Samhita, what is a magnet used for?",
+   "p": "Long ago, Indian surgeons used a magnet to help pull a smooth iron arrowhead out of a wound. Why does this work?",
    "opts": [
-    "Finding north",
-    "Drawing a smooth iron arrowhead out of a wound",
-    "Making music",
-    "Cooking"
+    "The magnet attracts the iron, but not the skin",
+    "The magnet makes the wound heal faster",
+    "A magnet attracts every metal",
+    "The magnet pulls on the blood"
    ],
-   "a": 1,
-   "why": "The Sushruta Samhita describes using a magnet, called ayaskanta, to draw out iron arrowheads without barbs. A magnet attracts iron, but not skin. Picking 'finding north' mixes this up with the compass, which came into use later.",
+   "a": 0,
+   "why": "A magnet attracts iron, but not skin or flesh. So it can pull on the arrowhead without tearing the body. A magnet does not attract every metal: brass and copper do not stick.",
    "outcome": 4
   },
   {
@@ -2726,7 +2726,7 @@
        "says": "The tiny one is stronger. It is much harder to pull off the fridge door."
       }
      ],
-     "ask": "Which sister do you agree with? Use what you found in the paper clip chain test. Then say one thing the other sister has right.",
+     "ask": "Which sister do you agree with? Say how you could test it, for example by counting how many paper clips each magnet can hold in a chain. Then say one thing the other sister has right.",
      "lines": 5,
      "a": "A strong answer uses evidence, such as the number of clips each magnet held. It sees that size is not the whole story: a tiny magnet made of a strong material can beat a big flexible one. It also gives the other sister her due. Meena is right that, of two magnets made the same way, the bigger one is usually stronger. Divya is right that how hard it is to pull off is a real clue, but counting clips is fairer than feeling.",
      "why": "There is no single right answer without a test. Strength depends on what the magnet is made of and how well its tiny magnets line up, as well as its size."
@@ -2871,7 +2871,7 @@
     },
     {
      "t": "write",
-     "p": "In the story 'The Iron Fish', Amina, a ten-year-old girl on a sailing ship, rubbed the iron fish with the black stone 'from tail to nose, never back and forth'. Explain why, using the words 'tiny magnets'.",
+     "p": "To turn an iron needle into a magnet, you stroke it with a magnet from one end to the other, always the same way, never back and forth. Explain why, using the words 'tiny magnets'.",
      "lines": 3,
      "a": "Each stroke in one direction turns more of the tiny magnets inside the iron to point the same way. Rubbing back and forth would turn some of them back again, so they would stay jumbled.",
      "why": "A strong answer says that strokes in one direction line the tiny magnets up, and back-and-forth undoes the work."

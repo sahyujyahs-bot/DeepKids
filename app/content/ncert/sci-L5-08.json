@@ -533,12 +533,12 @@
             },
             {
               "t": "mcq",
-              "p": "Cloth that is hand-spun and hand-woven, made famous by Gandhi ji, is called:",
+              "p": "Khadi is spun and woven by hand. Why does a hand-woven cloth take much longer to make than mill cloth?",
               "opts": [
-                "Nylon",
-                "Khadi",
-                "Polyester",
-                "Rayon"
+                "Hand-woven cloth uses more cotton",
+                "A person spins and weaves each thread, instead of fast machines",
+                "Mills use no thread",
+                "Hand-woven cloth is dyed for weeks"
               ],
               "a": 1
             }
@@ -690,10 +690,12 @@
             },
             {
               "t": "fill",
-              "p": "Pashmina wool comes from the Changthangi ____ of Ladakh.",
+              "p": "Animals that live in very cold places, like goats high in Ladakh, often grow thick, soft ____ to keep warm.",
               "a": [
-                "goat",
-                "goats"
+                "wool",
+                "fur",
+                "hair",
+                "coats"
               ]
             }
           ]

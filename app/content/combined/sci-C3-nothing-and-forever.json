@@ -607,11 +607,11 @@
       },
       {
        "t": "mcq",
-       "p": "Scientists trained honeybees to fly to the card with fewer shapes. Then they showed a card with no shapes. What did the bees do?",
+       "p": "Bees are trained to fly to the card with fewer shapes. Then they see a card with one shape and a blank card. If a bee understands that 'no shapes' is less than one shape, which card will it fly to?",
        "opts": [
-        "They ignored it.",
-        "They treated it as less than one shape.",
-        "They treated it as the most shapes."
+        "The card with one shape",
+        "The blank card",
+        "It cannot choose"
        ],
        "a": 1
       }
@@ -1337,8 +1337,8 @@
    "a": "It holds the empty tens place. Without it, the 2 slides over and the number becomes 25."
   },
   {
-   "q": "What are Brahmagupta's three rules for zero?",
-   "a": "A number plus zero is the same number. A number minus zero is the same number. A number times zero is zero."
+   "q": "What happens when you add zero to a number, take zero away from it, or multiply it by zero? Why?",
+   "a": "A number plus zero is the same number, and a number minus zero is the same number, because nothing was added or taken. A number times zero is zero, because zero groups of anything is nothing."
   },
   {
    "q": "Why can't you divide 12 by 0?",

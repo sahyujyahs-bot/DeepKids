@@ -3430,7 +3430,7 @@
     },
     {
      "t": "perspective",
-     "p": "In the story Ten Packets of Salt, a girl called Pushpa found that the contractor's balance was set wrongly. So who should check the scales in a market? Here are three views.",
+     "p": "A shop's balance is found to be set wrongly, so customers got less salt than they paid for. Who should check the scales in a market? Here are three views.",
      "views": [
       {
        "who": "Selvi, who runs a vegetable shop in Madurai",
@@ -3445,10 +3445,10 @@
        "says": "An officer should check every scale and put a seal on it. Then everyone trusts the same check."
       }
      ],
-     "ask": "Pick the view you agree with most. Give a reason from the story or from your own scale checks. Then say one problem with your view that another person would point out.",
+     "ask": "Pick the view you agree with most. Give a reason, from your own scale checks if you can. Then say one problem with your view that another person would point out.",
      "lines": 5,
      "a": "Every view has a real point. Selvi checks often, but nobody checks her. Fathima is right about who gains, but customers cannot check every scale. An officer is fair to both sides, but visits only now and then. A strong answer might mix them: the officer seals the scale, and anyone may check it with a known weight.",
-     "why": "A strong answer picks a side, uses evidence (for example, Pushpa's ten salt packets, or a scale that did not read zero), and names a fair weakness in its own view.",
+     "why": "A strong answer picks a side, uses evidence (for example, a packet that weighed less than it said, or a scale that did not read zero), and names a fair weakness in its own view.",
      "how": "c2"
     },
     {

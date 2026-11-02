@@ -2217,10 +2217,10 @@
        "says": "Look at those thin streaks getting thicker. I think rain is coming."
       }
      ],
-     "ask": "Which sister do you agree with? Use what you found in the forecast contest. Then say one thing the other sister has right.",
+     "ask": "Which sister do you agree with? Give a reason. Then say one thing the other sister has right.",
      "lines": 5,
      "how": "e1",
-     "a": "A strong answer picks a side and gives evidence, for example from the forecast contest. It sees that Asha is right on most ordinary days, and that Bhavana's way can catch the days when the weather changes. A very strong answer suggests using both.",
+     "a": "A strong answer picks a side and gives a reason. It sees that Asha is right on most ordinary days, because the weather often stays the same, and that Bhavana's way can catch the days when the weather changes. A very strong answer suggests using both.",
      "why": "Both sisters are partly right. 'Same as today' wins on settled days and loses when the weather changes."
     },
     {
@@ -2354,7 +2354,7 @@
     },
     {
      "t": "mcq",
-     "p": "Edward Lorenz ran his weather program twice. The second time he typed 0.506 instead of 0.506127. What happened?",
+     "p": "A weather computer works out the same forecast twice. The second time, one starting number is rounded off from 0.506127 to 0.506. What will most likely happen?",
      "opts": [
       "Both forecasts came out the same",
       "The computer broke",
@@ -2362,7 +2362,7 @@
       "The second forecast was always better"
      ],
      "a": 2,
-     "why": "The tiny difference grew until the two forecasts were completely different. This is why detailed forecasts many weeks ahead are not possible."
+     "why": "The tiny difference grows until the two forecasts are completely different. This is why detailed forecasts many weeks ahead are not possible."
     },
     {
      "t": "sort",
@@ -2491,7 +2491,7 @@
     },
     {
      "t": "write",
-     "p": "In a story in this unit, Kavya's family runs a forecast contest, and the weather app wins. Kavya's seven-year-old cousin Arjun says, 'So I should never use my own eyes.' Do you agree? Why or why not?",
+     "p": "A family tests three ways of forecasting for a week: the weather app, a grandmother's sayings, and 'same as today'. The app wins. A seven-year-old says, 'So I should never use my own eyes.' Do you agree? Why or why not?",
      "lines": 4,
      "a": "No. The app is usually best, but your own eyes see what is happening right now where you are, such as a storm cloud growing, which can help the app's forecast.",
      "why": "A strong answer sees that both have a use: the app sees far away, and your eyes see right here and right now."
@@ -2513,10 +2513,10 @@
    "items": [
     {
      "t": "write",
-     "p": "Zainab, a girl in Pune, says, 'If we measured every bit of air on Earth perfectly, we could forecast the weather a year ahead.' What do you think? Use Lorenz's story.",
+     "p": "Zainab, a girl in Pune, says, 'If we measured every bit of air on Earth perfectly, we could forecast the weather a year ahead.' What do you think? Remember that a weather computer given a starting number rounded off by a tiny amount soon gives a completely different forecast.",
      "lines": 5,
      "a": "Perhaps for a while, but even the tiniest bit of air we missed, or rounded off, would grow. We can never measure every bit perfectly, so forecasts a year ahead will never be possible day by day.",
-     "why": "A strong answer uses the rounded number 0.506 and says that tiny differences grow, and that perfect measurement is not possible in practice."
+     "why": "A strong answer says that tiny differences grow, and that perfect measurement is not possible in practice."
     },
     {
      "t": "perspective",

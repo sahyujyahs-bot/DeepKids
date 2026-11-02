@@ -2971,14 +2971,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did Jane Goodall see a chimpanzee do in 1960?",
+   "p": "A chimpanzee pokes a grass stem into a termite mound, and pulls it out covered in termites to eat. What does this show?",
    "opts": [
-    "Poke a grass stem into a termite mound to fish out termites",
-    "Build a house",
-    "Draw a picture"
+    "Chimpanzees can use a tool to get food",
+    "Chimpanzees are building a house",
+    "Chimpanzees are drawing a picture"
    ],
    "a": 0,
-   "why": "This showed humans are not the only tool makers. Picking 'build a house' is a guess with no evidence.",
+   "why": "The stem is a tool: the chimpanzee uses it to reach food it could not get with its fingers. So humans are not the only tool users. Picking 'building a house' is a guess with no evidence.",
    "outcome": 1
   },
   {
@@ -3021,14 +3021,14 @@
   },
   {
    "t": "mcq",
-   "p": "Clever Hans got sums wrong when the asker did not know the answer. Why?",
+   "p": "A horse seems to answer sums by tapping his hoof. But he gets them wrong whenever the person asking does not know the answer. What is the best explanation?",
    "opts": [
-    "He was tired",
-    "He could no longer read the answer from the asker's face",
-    "The sums were harder"
+    "He gets tired when the sums are hard",
+    "He is reading the answer from the asker's face, without the asker meaning to give it",
+    "The sums are harder when the asker does not know them"
    ],
    "a": 1,
-   "why": "Hans read tiny relaxations in the asker's face. With no answer to give away, he had no clue. This is why scientists use blind tests.",
+   "why": "If the horse really did sums, it would not matter who asked. He fails only when the asker does not know, so he must be reading tiny clues in the asker's face. This is why scientists use blind tests.",
    "outcome": 4
   },
   {

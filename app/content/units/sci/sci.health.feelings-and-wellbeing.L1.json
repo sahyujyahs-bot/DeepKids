@@ -1320,7 +1320,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember your feelings chart? You drew a face six times in one day. What did most charts show?",
+     "p": "If you drew a face for how you feel six times in one day, what would the faces probably show?",
      "opts": [
       "The same feeling all day",
       "Many different feelings in one day",
@@ -1329,7 +1329,7 @@
      "a": 1,
      "why": "Feelings change through the day. A chart usually shows several different feelings.",
      "how": "e1",
-     "context": "This question is about the feelings chart. You stopped six times in one day and drew a face each time."
+     "context": "This question is about a feelings chart. You stop six times in one day and draw a face for how you feel each time."
     },
     {
      "t": "truefalse",
@@ -1437,7 +1437,7 @@
    "items": [
     {
      "t": "order",
-     "p": "Chinnu's feelings changed from the start of the story to the end. Put her feelings in order.",
+     "p": "A girl builds a sandcastle. A wave knocks it down. She takes slow breaths and gets a hug. Then she builds it again. Put her feelings in order.",
      "items": [
       "happy at the start",
       "angry",
@@ -1450,8 +1450,8 @@
       2,
       3
      ],
-     "why": "Chinnu was happy building her castle. She felt angry when it broke. After slow breaths and a hug she felt calmer. She was happy again when they rebuilt it.",
-     "context": "This question is about Chinnu's Sandcastle, the story in this unit. Chinnu has different feelings from the start to the end.",
+     "why": "She is happy building her castle. She feels angry when it breaks. After slow breaths and a hug she feels calmer. She is happy again when she rebuilds it.",
+     "context": "This question is about how feelings change as things happen.",
      "how": null
     },
     {

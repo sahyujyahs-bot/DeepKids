@@ -552,7 +552,7 @@
         ["B. Forcemeters", [
           {"t": "fill", "p": "Force is measured in ____ (N).", "a": ["newtons", "newton"]},
           {"t": "mcq", "p": "A 100 g packet of salt hangs on a forcemeter. The reading is about:", "opts": ["100 N", "10 N", "1 N", "0 N"], "a": 2},
-          {"t": "table", "p": "Write four pulls you measured on Day 8 and their sizes.", "cols": ["Pull", "Force (N)"], "rows": 4},
+          {"t": "table", "p": "Measure four pulls with a forcemeter, such as opening a drawer or lifting a bag. Write each pull and its size.", "cols": ["Pull", "Force (N)"], "rows": 4},
           {"t": "write", "p": "Why should you pull the forcemeter slowly and steadily, not with a jerk?", "lines": 2}
         ]],
         ["C. Forces around us", [
@@ -782,6 +782,6 @@
     {"q": "Put in order from biggest to smallest force: a bird picking up a leaf, a train pulling wagons, a girl lifting a book.", "a": "Train pulling wagons, girl lifting a book, bird picking up a leaf."},
     {"q": "What is a forcemeter and what unit does it measure in?", "a": "A tool with a spring that stretches to measure the size of a pull; it measures in newtons (N), named after Isaac Newton."},
     {"q": "What is friction, and give one way it helps us and one way it is a nuisance.", "a": "A force that acts when two surfaces rub together. Helps: shoes grip the floor, brakes stop a cycle. Nuisance: squeaky hinges, stiff drawers, wearing out shoes."},
-    {"q": "In our friction test, which surfaces needed the biggest pull and how did we make the test fair?", "a": "Rough or soft surfaces like sandpaper, gravel or a towel; we used the same toy with the same load, pulled slowly and steadily, and measured three times on each surface."}
+    {"q": "Which surfaces need the biggest pull to drag a toy across them, and how would you make the test fair?", "a": "Rough or soft surfaces like sandpaper, gravel or a towel; we used the same toy with the same load, pulled slowly and steadily, and measured three times on each surface."}
   ]
 }

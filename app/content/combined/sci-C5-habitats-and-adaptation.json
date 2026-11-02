@@ -670,11 +670,11 @@
      [
       {
        "t": "mcq",
-       "p": "Abbott Thayer said flamingos are pink to hide against the sunset sky. Most scientists now think…",
+       "p": "Flamingos in a zoo that are not fed shrimp and algae slowly turn pale. What does this tell you about their pink colour?",
        "opts": [
-        "he was right",
-        "this was wrong. Flamingos get their pink from their food and use colour to show off to mates",
-        "flamingos are not pink"
+        "They are pink to hide against the sunset sky",
+        "Their pink comes from their food",
+        "Flamingos are not really pink"
        ],
        "a": 1
       },
@@ -690,11 +690,11 @@
       },
       {
        "t": "mcq",
-       "p": "The Nicobar megapode doesn't sit on their eggs. Instead they…",
+       "p": "A bird does not sit on her eggs, but the eggs still need to stay warm. Which could she do instead?",
        "opts": [
-        "carries them",
-        "buries them in mounds where rotting leaves and warm sand give heat",
-        "leaves them in water"
+        "carry them",
+        "bury them in mounds where rotting leaves and warm sand give heat",
+        "leave them in cold water"
        ],
        "a": 1
       },
@@ -1189,8 +1189,8 @@
    "a": "Langurs and chital warn each other of tigers and leopards, and langurs drop food for chital."
   },
   {
-   "q": "Who was Alfred Russel Wallace?",
-   "a": "A self-taught British naturalist who discovered natural selection independently of Darwin in 1858, while ill on the island of Ternate, and founded the study of where species live."
+   "q": "Animals on islands close to each other are often alike, but each fits its own island a little differently. What does this tell us about how living things change?",
+   "a": "They probably came from the same family long ago. Once they were apart, each group slowly changed to fit its own island. Alfred Russel Wallace studied where animals live and came to the idea of natural selection this way."
   }
  ]
 }

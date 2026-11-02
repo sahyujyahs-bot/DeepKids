@@ -2322,15 +2322,15 @@
   },
   {
    "t": "mcq",
-   "p": "Carl Woese found a new big group of tiny living things in 1977. What are they called?",
+   "p": "Some tiny living things look just like bacteria, but inside their cells they are very different. How should scientists group them?",
    "opts": [
-    "Archaea",
-    "Fungi",
-    "Mammals",
-    "Insects"
+    "In a new big group of their own",
+    "With bacteria, because they look the same",
+    "With mammals",
+    "With insects"
    ],
    "a": 0,
-   "why": "Woese and George Fox found the archaea by comparing a molecule every cell has. Fungi are a different group: mushrooms, moulds and yeast.",
+   "why": "Looks can fool you. Carl Woese and George Fox compared a molecule every cell has and put these living things in a new group, the archaea.",
    "outcome": 6
   },
   {
@@ -2379,7 +2379,7 @@
        "says": "The green chilli goes with the tomato and the brinjal. They have the same green cap and the same small, flat, round seeds, so they are relatives."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from the vegetable test. Then say one thing the other person has right.",
+     "ask": "Which idea do you agree with most? Give a reason. Then say one thing the other person has right.",
      "lines": 5,
      "a": "A strong answer says both sorts are right for their own job. Colour suits a salad. Caps and seeds show relatives, which matters for a garden because relatives get the same diseases.",
      "why": "A sort is right for a job. Only the family sort tells you who is related."
@@ -2806,15 +2806,15 @@
     },
     {
      "t": "mcq",
-     "p": "Carl Woese compared one molecule in many tiny living things. What did he find?",
+     "p": "Scientists compare one molecule found in every cell. Two tiny living things look the same, but their molecules are very different. What does this tell the scientists?",
      "opts": [
-      "All tiny living things are the same",
-      "Some 'bacteria' were as different from bacteria as bacteria are from us",
-      "Bacteria are plants",
-      "Viruses are bacteria"
+      "They look alike, but they may not be close relatives",
+      "They must be the same kind",
+      "Molecules tell you nothing",
+      "They are both plants"
      ],
-     "a": 1,
-     "why": "Woese and George Fox found the archaea in 1977. They look like bacteria but are very different inside."
+     "a": 0,
+     "why": "What is inside tells more about relatives than looks do. This is how archaea were found in 1977: they look like bacteria but are very different inside."
     },
     {
      "t": "truefalse",

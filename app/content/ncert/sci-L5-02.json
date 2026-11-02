@@ -425,9 +425,9 @@
       "day": 4,
       "sections": [
         ["A. From source to sea", [
-          {"t": "fill", "p": "The Godavari begins at ____ in the Western Ghats in Maharashtra.", "a": ["Trimbakeshwar", "Trimbak"]},
+          {"t": "fill", "p": "Most big rivers begin high up in the ____, where rain and melting snow run downhill into streams.", "a": ["hills", "mountains"]},
           {"t": "fill", "p": "Small streams that join a bigger river are called ____.", "a": ["tributaries", "tributary"]},
-          {"t": "mcq", "p": "Where does the Godavari end?", "opts": ["The Arabian Sea", "The Bay of Bengal", "The Rann of Kutch", "The Ganga"], "a": 1},
+          {"t": "mcq", "p": "A river starts in the hills near India's west coast, and the land slopes down towards the east. Where will it most likely end?", "opts": ["The Arabian Sea", "The Bay of Bengal", "The Rann of Kutch", "The Ganga"], "a": 1},
           {"t": "match", "p": "Match the word to its meaning.", "pairs": [["Perennial river", "Flows all year round"], ["Seasonal river", "Flows only in the rainy season"], ["Delta", "Fan of small streams where a river meets the sea"], ["Mangrove", "Trees that grow where river water meets salty sea"]]}
         ]],
         ["B. How the river helps", [
@@ -470,7 +470,7 @@
         ["A. Puzzles", [
           {"t": "write", "p": "The fertiliser jar went green, but fish in a green-blanket river die mostly at night and after the algae die. Explain why. (Hint: what do rotting things use up?)", "lines": 3},
           {"t": "mcq", "p": "Our sand-and-charcoal filter made muddy water clear. What can still get through?", "opts": ["Leaves", "Pebbles", "Dissolved salt, sugar and germs", "Sand"], "a": 2},
-          {"t": "fill", "p": "The Ganges river dolphin is almost blind and finds its way using ____.", "a": ["sound", "echoes", "echolocation"]}
+          {"t": "fill", "p": "A river dolphin lives in muddy water where it can hardly see. It makes clicks and finds fish by listening for the ____ that bounce back.", "a": ["echoes", "echo", "sound", "sounds"]}
         ]],
         ["B. What if?", [
           {"t": "write", "p": "What if a big dam stopped all the silt (soil) from reaching the Godavari delta? What might happen to the delta and the farms there over many years?", "lines": 3},
@@ -680,8 +680,8 @@
     }
   ],
   "check": [
-    {"q": "Where does the Godavari begin and end, and how long is it?", "a": "It begins at Trimbakeshwar in the Western Ghats in Maharashtra, and ends in the Bay of Bengal after 1,465 km; it is India's second longest river after the Ganga."},
-    {"q": "What is a tributary? Name one tributary of the Godavari.", "a": "A smaller river or stream that joins a bigger one; for example the Manjira, Indravati or Sabari."},
+    {"q": "A river starts high in the hills and ends at the sea. Why does it flow that way, and what changes along the way?", "a": "Water flows downhill, so the river runs from the high hills down to the low sea. Near its start it is small and fast. Streams join it, so it grows bigger and slower as it reaches flatter land."},
+    {"q": "What is a tributary? Why does a river get bigger as it flows?", "a": "A smaller river or stream that joins a bigger one. Each tributary adds its water, so the main river carries more and more water as it flows."},
     {"q": "What is the difference between a perennial and a seasonal river?", "a": "A perennial river flows all year round; a seasonal river flows only in the rainy season."},
     {"q": "What is a delta and how does it form?", "a": "The fan-shaped land at a river's mouth where it splits into many small streams. It forms when the river slows down near the sea and drops the soil it carried."},
     {"q": "Give one benefit and one problem of a dam.", "a": "Benefit: it stores water for drinking, crops and electricity, even in dry seasons. Problem: the reservoir floods land, forests and villages, and people and animals must leave their homes."},

@@ -1736,7 +1736,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi's Paati said a calling crow brings a guest. Why did she feel the saying always came true?",
+   "p": "A grandmother says a calling crow means a guest is coming. She feels the saying always comes true. Why might she feel that, even if it is not true?",
    "opts": [
     "Because crows can see guests coming",
     "Because she remembered the days a guest came and forgot the days nobody came",
@@ -1744,7 +1744,7 @@
     "Because she counted every day"
    ],
    "a": 1,
-   "why": "A guest is easy to remember, and an ordinary day is easy to forget. Meenakshi's tally of every day showed 9 crow days with no guest.",
+   "why": "A guest is easy to remember, and an ordinary day is easy to forget. Only a tally of every day, with or without a crow, shows whether the saying is true.",
    "outcome": 5
   },
   {
@@ -1927,10 +1927,10 @@
     },
     {
      "t": "write",
-     "p": "In the Sure or Right? test, what did you find out about the answers people were very sure about? Use your own results.",
+     "p": "People answer some quiz questions and say how sure they feel. Then each answer is checked. What would you expect to find about the answers people felt 'very sure' about? Why do we still need to check?",
      "lines": 3,
-     "a": "A strong answer gives numbers, such as 'There were 10 very sure answers and 2 were wrong', and says what that shows.",
-     "why": "The answer uses the child's own evidence, not a guess.",
+     "a": "A strong answer says most very sure answers will be right, but some will be wrong, because feeling sure is only a feeling. Checking is the only way to know.",
+     "why": "A strong answer separates the feeling of being sure from the evidence of checking.",
      "how": "e1"
     },
     {
@@ -1947,7 +1947,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the jar from the Top-Spoon Test before it was mixed. Show where the spoonful came from, and label the part the spoonful missed.",
+     "p": "A jar has a layer of chana on top and a layer of moong at the bottom. Draw the jar. Show a spoonful taken from the top, and label the part the spoonful misses.",
      "a": "A jar with two layers, a spoon at the top in the chana, and a label on the moong at the bottom saying 'missed'.",
      "why": "A strong drawing shows that the sample came only from the top.",
      "art": "A blank outline of a tall jar and a spoon.",
@@ -1974,7 +1974,7 @@
     },
     {
      "t": "write",
-     "p": "Why did Meenakshi say they must write down the boring days, when no guest came?",
+     "p": "A family wants to test the saying 'a calling crow brings a guest'. Why must they also write down the boring days, when no guest came?",
      "lines": 3,
      "a": "Because the boring days are the ones people forget. Without them, every guest seems to come on a crow day. Writing every day shows the misses as well as the hits.",
      "why": "A strong answer says that people remember hits and forget misses."
@@ -2058,15 +2058,15 @@
     },
     {
      "t": "mcq",
-     "p": "In the Be Clever Hans activity, the tapper did well when the watching grown-up knew the answer, and badly when nobody watching knew it. What does this tell us about Clever Hans the horse?",
+     "p": "A horse seems to answer sums by tapping its hoof. It gets them right when the people watching know the answer, and wrong when nobody watching knows it. What is the horse really doing?",
      "opts": [
-      "Hans did the sums in his head",
-      "Hans read tiny signs from the people watching him",
-      "Hans was not trying",
-      "Hans could read numbers on paper"
+      "Doing the sums in his head",
+      "Reading tiny signs from the people watching him",
+      "Not trying",
+      "Reading numbers on paper"
      ],
      "a": 1,
-     "why": "If Hans had done the sums, it would not have mattered who knew the answer. He was reading faces and bodies, which is a real skill of its own.",
+     "why": "If the horse did the sums, it would not matter who knew the answer. He was reading faces and bodies, which is a real skill of its own.",
      "how": "a3"
     },
     {
@@ -2118,7 +2118,7 @@
        "says": "Says who? The company wants to sell cereal. And children who eat breakfast might do better anyway, whatever they eat."
       }
      ],
-     "ask": "Which friend do you agree with more? Use the three questions in your answer. Then say one thing the other friend has right.",
+     "ask": "Which friend do you agree with more? Ask: Says who? How do they know? Who is missing? Then say one thing the other friend has right.",
      "lines": 5,
      "a": "A strong answer asks who tested it, how, and against what. It also gives Anjali her due: there are rules about what can be printed on food packets.",
      "why": "Marks go for using the three questions, and for stating the other view fairly."
@@ -2166,9 +2166,9 @@
     },
     {
      "t": "write",
-     "p": "Robert Wood removed the prism without telling Blondlot. Why was it important that Blondlot did not know?",
+     "p": "A scientist says he can see special rays through a prism. Another scientist quietly takes the prism away in the dark, without telling him. Why was it important that the first scientist did not know?",
      "lines": 3,
-     "a": "If Blondlot had known, he would have expected to see nothing, and he would have reported nothing whether the rays were real or not. Not knowing meant only the rays could decide what he saw.",
+     "a": "If he had known, he would have expected to see nothing, and he would have reported nothing whether the rays were real or not. Not knowing meant only the rays could decide what he saw.",
      "why": "A strong answer says that what we expect can change what we think we see."
     },
     {
@@ -2351,56 +2351,56 @@
     },
     {
      "t": "write",
-     "p": "Pfungst found Clever Hans read tiny signs from people. Does that mean Hans was not clever? Explain your view.",
+     "p": "A horse seemed to do sums by tapping his hoof. Tests showed he was really reading tiny signs from the people watching. Does that mean the horse was not clever? Explain your view.",
      "lines": 4,
-     "a": "A strong answer says Hans did not do sums, but he was very good at noticing tiny changes in people's faces and bodies, better than most humans. He was clever in a different way from the one people claimed.",
-     "why": "A good answer separates the claim that was wrong (Hans did sums) from what Hans really could do.",
+     "a": "A strong answer says the horse did not do sums, but he was very good at noticing tiny changes in people's faces and bodies, better than most humans. He was clever in a different way from the one people claimed.",
+     "why": "A good answer separates the claim that was wrong (he did sums) from what the horse really could do.",
      "how": "a3"
     },
     {
      "t": "order",
-     "p": "Put Robert Wood's N-rays test in the order it happened.",
+     "p": "Put these steps of checking a claim in a sensible order.",
      "items": [
-      "Blondlot kept reading out the same numbers",
-      "Wood quietly took the prism away in the dark",
-      "Wood wrote up what happened in the journal Nature",
-      "Blondlot said he saw N-rays spread out by a prism"
+      "Look at the result",
+      "Do a test that could show the claim is wrong",
+      "Share what happened so others can judge",
+      "Someone makes a claim"
      ],
      "a": [
-      "Blondlot said he saw N-rays spread out by a prism",
-      "Wood quietly took the prism away in the dark",
-      "Blondlot kept reading out the same numbers",
-      "Wood wrote up what happened in the journal Nature"
+      "Someone makes a claim",
+      "Do a test that could show the claim is wrong",
+      "Look at the result",
+      "Share what happened so others can judge"
      ],
      "why": "First the claim, then the test that could fail, then the result, then sharing it so others could judge."
     },
     {
      "t": "match",
-     "p": "Match each mistake to the story or test that showed it.",
+     "p": "Match each mistake to an example of it.",
      "pairs": [
       [
        "Remembering hits and forgetting misses",
-       "Paati's Crow"
+       "Saying your lucky shirt always wins matches, and forgetting the matches lost in it"
       ],
       [
        "Seeing what you expect to see",
-       "N-rays"
+       "Still 'seeing' something after it has secretly been taken away"
       ],
       [
        "Leaving a group out of the evidence",
-       "Crash-test dummies"
+       "Asking only the front row, then saying 'the whole class agrees'"
       ],
       [
        "Being sure and still wrong",
-       "Sure or Right?"
+       "Feeling certain of a quiz answer that turns out wrong"
       ]
      ],
      "a": "pairs as given",
-     "why": "Each story shows a different way evidence can go wrong."
+     "why": "Each example shows a different way evidence can go wrong."
     },
     {
      "t": "label",
-     "p": "Here is Meenakshi's two-week tally from the story Paati's Crow: crow and guest 4, crow and no guest 9, no crow and guest 0, no crow and no guest 1. Label the box Paati remembered, and the box she forgot.",
+     "p": "A grandmother believes a calling crow brings a guest. Her granddaughter keeps a two-week tally: crow and guest 4, crow and no guest 9, no crow and guest 0, no crow and no guest 1. Label the box the grandmother probably remembers, and the box she probably forgets.",
      "a": "Remembered: crow and guest (4). Forgot: crow and no guest (9).",
      "why": "The hits were remembered and the misses forgotten. The no-crow boxes are too small to tell anything, because there was only one quiet day.",
      "art": "A 2 by 2 grid with the four numbers filled in and two empty labels.",

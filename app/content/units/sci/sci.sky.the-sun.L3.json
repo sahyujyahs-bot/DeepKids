@@ -1957,16 +1957,16 @@
   },
   {
    "t": "mcq",
-   "p": "In 1920, Arthur Eddington suggested how the Sun shines. What new measurement helped him?",
+   "p": "A helium atom weighs a little less than four hydrogen atoms put together. Why does this help explain how the Sun shines?",
    "opts": [
-    "That a helium atom weighs a little less than four hydrogen atoms",
-    "That the Sun is shrinking",
-    "That the Sun is full of coal",
-    "That sunlight takes 8 minutes to arrive"
+    "When hydrogen joins into helium, the missing bit of material turns into energy",
+    "It shows the Sun is shrinking",
+    "It shows the Sun is full of coal",
+    "It shows sunlight takes 8 minutes to arrive"
    ],
    "a": 0,
    "outcome": 6,
-   "why": "Francis Aston measured that a helium atom weighs a little less than four hydrogen atoms. Eddington saw that if the Sun joins hydrogen into helium, the missing material could become the Sun's energy."
+   "why": "In the Sun's core, hydrogen joins into helium. A little material goes missing each time, and it becomes the energy that makes the Sun shine."
   }
  ],
  "worksheets": [

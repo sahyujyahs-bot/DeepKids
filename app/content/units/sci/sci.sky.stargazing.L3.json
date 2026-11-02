@@ -1693,15 +1693,15 @@
   },
   {
    "t": "mcq",
-   "p": "What did Edmond Halley find in 1718?",
+   "p": "An astronomer compares today's sky with a star map made 1,600 years ago. Most stars match, but a few bright ones are in slightly different places. What does this show?",
    "opts": [
-    "Some bright stars had moved since Ptolemy's time",
+    "Some stars really move, so slowly that it takes hundreds of years to notice",
     "The Earth goes round the Sun",
-    "There are 88 constellations"
+    "Every star jumps about each night"
    ],
    "a": 0,
    "outcome": 4,
-   "why": "Halley compared his star positions with Ptolemy's list from about 150 CE. Sirius and Arcturus were out of place. The 'fixed stars' were moving."
+   "why": "If the old map were simply careless, the mistakes would be everywhere. Only a few stars are out of place, so those stars have really moved. The 'fixed stars' move too, just very slowly."
   },
   {
    "t": "mcq",
@@ -1899,14 +1899,14 @@
     },
     {
      "t": "mcq",
-     "p": "Karthigai Deepam is lit on the day the Moon is in which nakshatra?",
+     "p": "Many Indian festivals fall on the day the Moon is in a certain nakshatra. Why does such a festival come on a different date of the English calendar each year?",
      "opts": [
-      "Krittika",
-      "Rohini",
-      "Thiruvonam"
+      "The Moon's trip round the nakshatras does not fit evenly into the English months",
+      "The stars move to new places every year",
+      "People choose a new date each year"
      ],
      "a": 0,
-     "why": "Karthigai Deepam is in the month of Karthigai, on Krittika day. The name Karthigai comes from Krittika. Thiruvonam is the nakshatra of Onam."
+     "why": "The Moon goes round all the nakshatras in about 27 days. That does not divide evenly into the months of the English calendar, so the day the Moon reaches a nakshatra shifts from year to year."
     },
     {
      "t": "perspective",
@@ -2042,14 +2042,14 @@
     },
     {
      "t": "mcq",
-     "p": "Edmond Halley compared his star positions with Ptolemy's old star list. What did he find?",
+     "p": "An astronomer compares her star positions with a star list made about 1,600 years earlier. Most stars match well, but a few bright ones are far out of place. What is the best explanation?",
      "opts": [
-      "All the stars were exactly where Ptolemy put them",
-      "A few bright stars, such as Sirius and Arcturus, had moved",
-      "The stars had all moved together by the same amount"
+      "All the old positions were careless mistakes",
+      "Those few stars have really moved, slowly, over the centuries",
+      "Every star had moved by the same amount"
      ],
      "a": 1,
-     "why": "Most stars matched, but a few bright ones were out of place by about the width of the full Moon or more. Halley reasoned they had really moved. Picking 'exactly where Ptolemy put them' is the old idea of the fixed stars."
+     "why": "Careless mistakes would be spread over many stars, not only a few bright ones. So those few stars must have really moved. Picking 'careless mistakes' ignores that most stars matched."
     },
     {
      "t": "truefalse",
@@ -2130,10 +2130,10 @@
     },
     {
      "t": "label",
-     "p": "Label the seven stars of the Saptarishi on the drawing with their Indian names: Kratu, Pulaha, Pulastya, Atri, Angiras, Vasishtha, Marichi. Then mark where Arundhati is.",
-     "a": "Kratu at the top outer corner of the bowl, Pulaha below him, Pulastya at the bottom inner corner, Atri where the bowl meets the handle, then Angiras, Vasishtha and Marichi along the handle. Arundhati is a tiny star next to Vasishtha.",
-     "why": "Kratu and Pulaha are the two 'pointer' stars of the bowl. Arundhati sits just beside Vasishtha, the middle star of the handle.",
-     "art": "The seven stars of the Saptarishi as dots joined into a ladle, with seven blank label lines and one tiny unlabelled dot beside the middle star of the handle."
+     "p": "On the drawing of the Saptarishi, label the bowl and the handle. Then draw a line through the two stars at the outer edge of the bowl, and keep going, to show where it points.",
+     "a": "The bowl is the four stars in a box shape, and the handle is the three stars in a bent line. A line through the two outer stars of the bowl, carried on about five times the gap between them, reaches the Pole Star.",
+     "why": "The two outer stars of the bowl are called pointers, because people use them to find the Pole Star, and so north, at night.",
+     "art": "The seven stars of the Saptarishi as dots joined into a ladle, with two blank label lines and one faint dot further out for the Pole Star."
     },
     {
      "t": "odd",
@@ -2166,14 +2166,14 @@
     },
     {
      "t": "mcq",
-     "p": "In about 50,000 years, the Saptarishi will look bent out of shape. Which stars will have moved away from the others?",
+     "p": "Five stars of the Saptarishi travel through space together. The other two travel in different directions. What will the ladle look like in about 50,000 years?",
      "opts": [
-      "Kratu and Marichi, the two end stars",
-      "All seven, by the same amount",
-      "None, because stars are fixed"
+      "Bent out of shape, because two stars have drifted away from the others",
+      "Exactly the same, because stars are fixed",
+      "Bigger and brighter, because all seven moved together"
      ],
      "a": 0,
-     "why": "Five of the seven stars move through space together. Kratu and Marichi move in other directions, so over tens of thousands of years they drift out of the pattern."
+     "why": "Stars that move in different directions slowly pull the pattern apart. Over tens of thousands of years, the two stars that travel differently drift out of the ladle."
     },
     {
      "t": "write",
@@ -2274,9 +2274,9 @@
     },
     {
      "t": "write",
-     "p": "Sneha, a girl in Class 5, says: 'Halley must have been wrong. Ptolemy's list was just full of mistakes.' How did Halley answer that worry?",
+     "p": "Sneha, a girl in Class 5, says: 'If an old star list does not match today's sky, the old list must just be full of mistakes.' Most stars on the list match well. Only a few bright ones are far out of place. How does that help you decide?",
      "lines": 4,
-     "a": "Halley noticed that most stars matched Ptolemy's list well. Only a few bright stars, like Sirius and Arcturus, were out of place by a lot. It is unlikely that Ptolemy would make large mistakes only on the brightest stars and not their neighbours. So those stars had really moved.",
+     "a": "If the old list were careless, the mistakes would be spread over many stars. But most stars match, and only a few bright ones are far out. It is unlikely someone would make big mistakes only on the brightest stars and not their neighbours. So those stars have really moved.",
      "why": "A strong answer explains that the pattern of the differences, not one difference, is the evidence."
     },
     {
@@ -2331,10 +2331,10 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi says the Saptarishi is 'real from here'. Write what you think she means, using the thread model and the story of Arundhati.",
+     "p": "Someone says the Saptarishi is 'real from here'. Write what you think they mean. Use the thread model in your answer.",
      "lines": 5,
-     "a": "The ladle shape is real when you look from Earth, because the seven stars really do lie in those directions. But it is not a group of stars that belong together, because they are at different distances. Arundhati and Vasishtha are different: they really are close in space.",
-     "why": "A strong answer separates the view from Earth and the real places in space, and uses the Arundhati pair as an example of true neighbours."
+     "a": "The ladle shape is real when you look from Earth, because the seven stars really do lie in those directions. But it is not a group of stars that belong together, because they are at different distances. A cluster like Krittika is different: its stars really are close in space.",
+     "why": "A strong answer separates the view from Earth and the real places in space, and may compare it with stars that really are neighbours."
     }
    ]
   }

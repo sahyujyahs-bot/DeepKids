@@ -721,11 +721,11 @@
       },
       {
        "t": "mcq",
-       "p": "The villagers of Pangti once trapped Amur falcons. What changed?",
+       "p": "A village used to trap the birds that stopped there each year, and fewer birds came each time. What would best protect the birds?",
        "opts": [
-        "the falcons stopped coming",
-        "the community chose to protect them",
-        "a fence was built"
+        "wait for the birds to stop coming",
+        "the whole village agrees to protect them",
+        "build a fence round the village"
        ],
        "a": 1
       },

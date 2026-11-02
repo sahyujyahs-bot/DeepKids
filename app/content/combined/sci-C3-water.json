@@ -675,10 +675,10 @@
       },
       {
        "t": "mcq",
-       "p": "John Snow was a doctor in London in 1854. He showed that cholera, a deadly illness, was spread by…",
+       "p": "Many people who drink from one water pump fall ill with cholera. People nearby who drink from a different pump stay well. What is most likely spreading the illness?",
        "opts": [
         "bad smells in the air",
-        "dirty water from a pump",
+        "dirty water from the first pump",
         "the hot weather"
        ],
        "a": 1
@@ -1163,8 +1163,8 @@
    "a": "For example: rice water for plants, last rinse water for mopping, closing the tap while brushing, fixing drips."
   },
   {
-   "q": "Why did the frog's well fill up again?",
-   "a": "The johad held the rain back so it soaked into the ground and refilled the groundwater, which seeped into the well."
+   "q": "A village builds a low mud wall, called a johad, to hold back rainwater. Months later, the dry wells nearby have water again. Why?",
+   "a": "The johad held the rain back long enough for it to soak into the ground. That refilled the groundwater, which seeped into the wells."
   }
  ]
 }

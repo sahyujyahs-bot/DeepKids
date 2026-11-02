@@ -1925,15 +1925,15 @@
   },
   {
    "t": "mcq",
-   "p": "What did Galileo see beside Jupiter in 1610?",
+   "p": "Through a telescope you see four small dots beside Jupiter. Night after night they change sides, but always stay close to Jupiter. What are they most likely to be?",
    "opts": [
-    "Four moons going round Jupiter",
+    "Moons going round Jupiter",
     "Rings round Jupiter",
     "A comet hitting Jupiter",
-    "A new star"
+    "New stars"
    ],
    "a": 0,
-   "why": "He saw dots that changed sides night after night, and worked out they were moons going round Jupiter. Picking 'rings' mixes Jupiter up with Saturn, whose rings are easy to see in a telescope.",
+   "why": "Dots that stay with Jupiter but swap sides must be going round it, so they are moons. Galileo worked this out in 1610. Rings would not look like separate dots that move.",
    "outcome": 0
   },
   {
@@ -2041,15 +2041,15 @@
   },
   {
    "t": "mcq",
-   "p": "In 1803, thousands of stones fell near L'Aigle in France. What did the scientist Jean-Baptiste Biot show?",
+   "p": "People say they saw stones fall from the sky. How could a scientist check whether the stones really came from space?",
    "opts": [
-    "The stones really had fallen from the sky",
-    "The stones had been thrown up by a volcano",
-    "The stones had been struck by lightning",
-    "Nobody had really seen anything"
+    "Talk to many people who saw it, map where the stones landed, and check whether they are unlike the local rock",
+    "Decide that lightning made them",
+    "Decide that a volcano threw them up",
+    "Ignore what the people say"
    ],
    "a": 0,
-   "why": "Biot talked to many people who saw the fall, mapped where the stones landed, and found they were unlike local rock. This convinced scientists that stones fall from space. 'Lightning' and 'volcano' were the old explanations that his study ruled out.",
+   "why": "Many witnesses, a map of the fall, and stones unlike any local rock together make strong evidence. Deciding before looking is not testing. This is how scientists became sure, in 1803, that stones fall from space.",
    "outcome": 6
   }
  ],
@@ -2196,7 +2196,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun's grain of rava in the story could not glow on its own. What would it need to do to make a light like a shooting star?",
+     "p": "A grain of rava on your plate does not glow. What would it need to do to make a light like a shooting star?",
      "lines": 3,
      "a": "It would have to rush into the air extremely fast, tens of kilometres every second. Then it would squash the air in front of it, which gets very hot, and the grain would turn into glowing gas.",
      "why": "A strong answer says it is the speed, not the size, that makes the light."
@@ -2539,20 +2539,20 @@
     },
     {
      "t": "order",
-     "p": "Put these events from the story of meteorites in the order they happened.",
+     "p": "How does a new idea come to be accepted by scientists? Put these steps in order.",
      "items": [
-      "Biot studies the stones that fell at L'Aigle.",
-      "Chladni writes that fireballs come from space.",
-      "Scientists say stones can't fall from the sky.",
-      "Scientists accept that stones fall from space."
+      "Scientists test it with careful evidence",
+      "Someone suggests a new idea",
+      "Most scientists accept the idea",
+      "Many scientists doubt it"
      ],
      "a": [
-      "Scientists say stones can't fall from the sky.",
-      "Chladni writes that fireballs come from space.",
-      "Biot studies the stones that fell at L'Aigle.",
-      "Scientists accept that stones fall from space."
+      "Someone suggests a new idea",
+      "Many scientists doubt it",
+      "Scientists test it with careful evidence",
+      "Most scientists accept the idea"
      ],
-     "why": "Chladni's book came in 1794 and the L'Aigle fall in 1803. A strong answer notices that careful evidence, not just an idea, changed people's minds."
+     "why": "A new idea is often doubted at first. Careful evidence, not just the idea, changes people's minds. That is how scientists came to accept that stones fall from space."
     },
     {
      "t": "write",

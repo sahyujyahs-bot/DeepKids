@@ -406,10 +406,10 @@
       },
       {
        "t": "mcq",
-       "p": "In our test, where did the mould grow?",
+       "p": "Where is mould most likely to grow?",
        "opts": [
-        "on the dry bread in the sun",
-        "on the damp bread in the dark box",
+        "on dry bread in the sun",
+        "on damp bread in a dark box",
         "on both the same"
        ],
        "a": 1
@@ -572,11 +572,11 @@
      [
       {
        "t": "mcq",
-       "p": "In the story, Kavya made a clean, bright box with one fresh green leaf for the woodlice. For the woodlice, this box was…",
+       "p": "A child makes a clean, bright box with one fresh green leaf for some woodlice. For the woodlice, this box is…",
        "opts": [
         "a better home for them",
         "a worse home: too bright and dry",
-        "the same as under the pot"
+        "the same as under a flowerpot"
        ],
        "a": 1
       },
@@ -1022,8 +1022,8 @@
    "a": "Awake at night. Owl, bat, moth, gecko, many frogs."
   },
   {
-   "q": "Where did the mould grow, and why there?",
-   "a": "On the damp bread in the dark box. Mould needs food and water. The dry bread had food but no water."
+   "q": "A slice of damp bread and a slice of dry bread are kept in the same dark box for a week. Which grows mould, and why?",
+   "a": "The damp bread. Mould needs food and water. The dry bread has food but no water."
   }
  ]
 }

@@ -319,7 +319,7 @@
         ["A. Democracy and voting", [
           {"t": "fill", "p": "Democracy is government of the people, by the people and ____ the people.", "a": ["for"]},
           {"t": "fill", "p": "In India, every citizen aged ____ or above whose name is on the voters' list can vote.", "a": ["18", "eighteen"]},
-          {"t": "mcq", "p": "India's Constitution came into force on:", "opts": ["15 August 1947", "26 January 1950", "2 October 1869", "1 May 1960"], "a": 1}
+          {"t": "mcq", "p": "Why does a country need a constitution?", "opts": ["It sets the rules for how the country is run and protects people's rights", "It lists all the cities", "It tells people what to eat", "It chooses the cricket team"], "a": 0}
         ]],
         ["B. Three organs", [
           {"t": "match", "p": "Match each organ to its job.", "pairs": [["Legislature", "Makes laws"], ["Executive", "Carries out laws and runs the country"], ["Judiciary", "Explains laws and protects the Constitution"]]},
@@ -327,7 +327,7 @@
         ]],
         ["C. Parliament and states", [
           {"t": "match", "p": "Match each to its term.", "pairs": [["Lok Sabha", "5 years"], ["Rajya Sabha member", "6 years"], ["Governor (usually)", "5 years"]]},
-          {"t": "mcq", "p": "Members of the Rajya Sabha are elected by:", "opts": ["all voters directly", "members of the state legislative assemblies", "the Prime Minister", "the Supreme Court"], "a": 1},
+          {"t": "mcq", "p": "Rajya Sabha members are elected by the state assemblies. Why might this be a good idea?", "opts": ["The voters choose nobody", "Each state gets a voice in making the country's laws", "It makes voting faster", "It lets the Supreme Court decide"], "a": 1},
           {"t": "fill", "p": "In a state, the head of the government who leads the ministers is the Chief ____.", "a": ["Minister"]},
           {"t": "fill", "p": "If no party has a majority, several parties may form a ____ government.", "a": ["coalition"]}
         ]]
@@ -348,7 +348,7 @@
           {"t": "table", "p": "Fill in your own representatives.", "cols": ["Level", "Body", "Name of my representative"], "rows": 4, "prefill": ["Local (ward or panchayat)", "State", "Centre (Lok Sabha)", "Head of state government"]}
         ]],
         ["C. Explain", [
-          {"t": "write", "p": "Your family vote: did the winner change when you used a run-off? What does this tell you about voting rules?", "lines": 3},
+          {"t": "write", "p": "Five friends vote on a picnic place. No place gets more than half the votes. They drop the least-liked place and vote again. Could the winner change? What does this tell you about voting rules?", "lines": 3},
           {"t": "write", "p": "In the pasture game, what happened without rules, and what changed with rules? Which panchayat duty is like this game?", "lines": 3}
         ]]
       ]
@@ -521,7 +521,7 @@
   "check": [
     {"q": "What is democracy, and who can vote in India?", "a": "Government of the people, by the people, for the people. Every Indian citizen aged 18 or over whose name is on the voters' list."},
     {"q": "Name the three organs of government and what each does.", "a": "Legislature makes laws; executive carries them out and runs the administration; judiciary explains laws, settles disputes and protects the Constitution and rights."},
-    {"q": "How are the Lok Sabha and Rajya Sabha different?", "a": "Lok Sabha: elected directly by voters, 543 elected seats, 5-year term, the majority there forms the government. Rajya Sabha: elected by state MLAs, up to 250 members including 12 nominated, never dissolved, each member serves 6 years."},
+    {"q": "Why does India have two houses of Parliament, one elected directly by voters and one elected by the state assemblies?", "a": "The Lok Sabha speaks for the voters directly, and the government is formed from it. The Rajya Sabha gives the states a voice, and because it is never dissolved, it keeps steady and takes a second careful look at laws."},
     {"q": "How does someone become Prime Minister, and what is a coalition government?", "a": "The leader of the party or group with a majority (at least 272 of 543) in the Lok Sabha becomes Prime Minister. When no party has a majority, several parties join to form a coalition government."},
     {"q": "Who is the head of a state's government, and who represents the President in a state?", "a": "The Chief Minister heads the state government; the Governor, appointed by the President, is the constitutional head of the state."},
     {"q": "What is a gram sabha, and when must it meet?", "a": "The meeting of all adult voters of a panchayat area; it must meet at least four times a year, on 26 January, 1 May, 15 August and 2 October."},

@@ -2399,15 +2399,15 @@
   },
   {
    "t": "mcq",
-   "p": "At Minamata in Japan, a factory poured mercury into the sea. What happened to it?",
+   "p": "A factory pours a little mercury, a poison, into the sea. Tiny living things take it in, small fish eat them, and big fish eat many small fish. What happens to the mercury?",
    "opts": [
-    "It spread out and became harmless",
-    "It built up in fish, and people and cats who ate them were poisoned",
-    "It turned into salt",
-    "It sank and stayed in the factory pipe"
+    "It spreads out and becomes harmless",
+    "It builds up in the big fish, and people and cats who eat them can be poisoned",
+    "It turns into salt",
+    "It sinks and stays in the factory pipe"
    ],
    "a": 1,
-   "why": "Tiny living things took up the mercury, small fish ate them and big fish ate many small fish. So the poison built up. This is why poisonous waste is kept apart.",
+   "why": "Each big fish eats many small fish, and keeps the poison from all of them. So the poison builds up at each step. This is why poisonous waste is kept apart.",
    "outcome": 3
   },
   {

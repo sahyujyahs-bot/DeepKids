@@ -1970,26 +1970,26 @@
   },
   {
    "t": "mcq",
-   "p": "In 1572, what did Tycho Brahe find when he measured the new star night after night?",
+   "p": "A bright new light appears in the night sky. Night after night it never shifts against the stars near it, though the Moon does. What does this tell you?",
    "opts": [
-    "It moved quickly across the sky",
-    "It never shifted against the stars near it",
-    "It was a cloud of smoke"
+    "It is very near, closer than the Moon",
+    "It is far beyond the Moon",
+    "It is a cloud of smoke"
    ],
    "a": 1,
-   "why": "A near thing seems to shift a little against far stars as the Earth turns. The new star never shifted, so it was far beyond the Moon.",
+   "why": "A near thing seems to shift a little against far stars as the Earth turns. The new light never shifted, so it must be very far away, beyond the Moon.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "What old idea did Tycho Brahe's new star show was wrong?",
+   "p": "People once believed the sky beyond the Moon never changes. What kind of evidence could show this idea is wrong?",
    "opts": [
-    "That the Earth is round",
-    "That the sky beyond the Moon never changes",
-    "That stars are hot"
+    "One person saying they once saw something odd",
+    "A new light far beyond the Moon, measured again and again",
+    "A picture in an old book"
    ],
    "a": 1,
-   "why": "Many people in Europe followed Aristotle, who taught that the sky beyond the Moon was perfect and unchanging. A new star far beyond the Moon showed that the sky can change.",
+   "why": "A strong claim needs careful evidence. A new light, measured night after night and shown to be far beyond the Moon, would show that the sky out there can change.",
    "outcome": 5
   }
  ],
@@ -2277,7 +2277,7 @@
     },
     {
      "t": "order",
-     "p": "In the story 'The Pencil Line on the Wall', Farzana checked a crack in the wall. Put her plan in order.",
+     "p": "You want to find out whether a crack in your wall is growing. Put the plan in order.",
      "items": [
       "Check every Sunday and after heavy rain",
       "Draw pencil lines past both ends and write the date",
@@ -2405,14 +2405,14 @@
     },
     {
      "t": "mcq",
-     "p": "In 1847 Maria Mitchell found a comet nobody had reported. Why could she tell it was new?",
+     "p": "A girl looks at the same patch of night sky on every clear night for a year. One night she sees a faint light that was never there before. Why can she be sure it is new?",
      "opts": [
-      "She had looked at the same sky on so many nights that she knew what was usually there",
-      "Comets always shine brighter than stars",
-      "She used the biggest telescope in the world"
+      "She has looked so often that she knows what is usually there",
+      "New lights always shine brighter than stars",
+      "She is using the biggest telescope in the world"
      ],
      "a": 0,
-     "why": "Looking again and again at the same place gave her a record in her head and in her notebook. A new light stood out against what she knew."
+     "why": "Looking again and again at the same place gives her a record, in her head and in her notebook. A new light stands out against what she knows."
     }
    ]
   },
@@ -2460,10 +2460,10 @@
     },
     {
      "t": "write",
-     "p": "In the story 'The Pencil Line on the Wall', Farzana checked the crack for six weeks, and it never changed. Her little brother Imran called it the most boring science in the world. Was the checking a waste of time? Explain.",
+     "p": "A family checks a crack in their wall every week for six weeks, and it never changes. A boy in the family calls it the most boring science in the world. Was the checking a waste of time? Explain.",
      "lines": 4,
-     "a": "It was not a waste. 'No change' is a real answer. It showed Abba's memory was wrong, so the family did not need to worry, and the marks will show at once if the crack ever starts to grow.",
-     "why": "A strong answer sees that finding no change is a result, and that it settled an argument that memory could not settle."
+     "a": "It was not a waste. 'No change' is a real answer. It shows the crack is not growing, so the family need not worry, and the marks will show at once if it ever starts to grow.",
+     "why": "A strong answer sees that finding no change is a result, and that it settles a question that memory alone could not."
     },
     {
      "t": "mcq",
@@ -2546,33 +2546,33 @@
     },
     {
      "t": "order",
-     "p": "Put Tycho Brahe's test of the new star in order.",
+     "p": "A bright new star appears. Put the steps of finding out whether it is nearer or further than the Moon in order.",
      "items": [
-      "He concluded it was far beyond the Moon",
-      "He saw a bright new star in Cassiopeia",
-      "He measured its position against nearby stars, night after night",
-      "He asked: is it nearer or further than the Moon?",
-      "He found it never shifted"
+      "Decide it is far beyond the Moon",
+      "Notice a bright new star",
+      "Measure its place against nearby stars, night after night",
+      "Ask: is it nearer or further than the Moon?",
+      "Find that it never shifts"
      ],
      "a": [
-      "He saw a bright new star in Cassiopeia",
-      "He asked: is it nearer or further than the Moon?",
-      "He measured its position against nearby stars, night after night",
-      "He found it never shifted",
-      "He concluded it was far beyond the Moon"
+      "Notice a bright new star",
+      "Ask: is it nearer or further than the Moon?",
+      "Measure its place against nearby stars, night after night",
+      "Find that it never shifts",
+      "Decide it is far beyond the Moon"
      ],
      "why": "Noticing comes first, then a clear question, then a planned measurement repeated over time, then the result, then what it means."
     },
     {
      "t": "mcq",
-     "p": "Why did Tycho measure the new star on many nights, instead of just once?",
+     "p": "Why is it better to measure a new star on many nights, instead of just once?",
      "opts": [
       "A single measurement could be a mistake, and many matching ones are much stronger evidence",
-      "He liked staying up late",
-      "The star was only visible every other night"
+      "Because staying up late is fun",
+      "Because stars can only be seen every other night"
      ],
      "a": 0,
-     "why": "One measurement could be thrown off by a shaky hand or a cloud. Many measurements that agree are strong evidence. He also wanted to see whether the star changed over time, and it slowly faded."
+     "why": "One measurement could be thrown off by a shaky hand or a cloud. Many measurements that agree are strong evidence. Measuring over many nights also shows whether the star changes over time."
     },
     {
      "t": "odd",

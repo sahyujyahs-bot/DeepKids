@@ -1322,14 +1322,14 @@
   },
   {
    "t": "mcq",
-   "p": "Why did the spit not make the curd runny?",
+   "p": "Spit has amylase, which cuts starch. You stir spit into a bowl of thick curd. Why does the curd not go runny?",
    "opts": [
     "Curd is thick from milk protein, not starch",
     "There was too much curd",
     "The curd was cold"
    ],
    "a": 0,
-   "why": "Amylase cuts starch. Curd is thick because milk protein has set, so amylase does not thin it.",
+   "why": "Amylase cuts starch. Curd is thick because milk protein has set, not because of starch, so amylase does not thin it.",
    "outcome": 2,
    "how": "e1"
   },

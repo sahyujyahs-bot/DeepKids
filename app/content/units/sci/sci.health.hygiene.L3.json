@@ -1318,11 +1318,11 @@
     },
     {
      "t": "write",
-     "p": "In the story, Anna was nine. She nearly did not speak, because the man in front of her was a doctor. Why is it good for science when everyone's observations count, not only those of important people?",
+     "p": "A child notices a clue that a doctor has missed, but nearly does not speak, because the doctor is an important man. Why is it good for science when everyone's observations count, not only those of important people?",
      "lines": 4,
-     "a": "A strong answer says that anyone can notice a clue, and the person who notices may not be important. Anna knew that ordinary soap did not remove a bad smell, but chlorine water did. If the doctor had not listened, the clue would have been lost.",
-     "why": "Evidence matters, not who brings it. Anna and her chlorine tub are made up, but the midwives' careful counts were real evidence.",
-     "context": "In this unit's story, The Basin by the Door, Anna is a nine-year-old girl who helps her mother wash hospital sheets in Vienna in 1847."
+     "a": "A strong answer says that anyone can notice a clue, and the person who notices may not be important. If only important people were listened to, many true clues would be lost. What matters is the evidence, not who brings it.",
+     "why": "Evidence matters, not who brings it.",
+     "context": "Long ago, many doctors did not listen to clues from ordinary people, such as the women who washed the hospital sheets."
     },
     {
      "t": "write",
@@ -2730,14 +2730,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did Semmelweis do in 1847?",
+   "p": "A doctor notices that many mothers fall ill when doctors come straight from touching sick bodies to the mothers' beds. What change would best test whether the doctors' hands carry the illness?",
    "opts": [
-    "Made doctors wash their hands in chlorine water before touching mothers",
-    "Invented the microscope",
-    "Discovered soap"
+    "Make doctors wash their hands in strong cleaning water before touching mothers, and count how many fall ill",
+    "Give the doctors a microscope",
+    "Make a new kind of soap"
    ],
    "a": 0,
-   "why": "The washing basin made deaths in his ward fall sharply. Picking 'microscope' is a mix-up: microscopes were around for 200 years before him.",
+   "why": "If washing hands makes the number of sick mothers fall sharply, the hands were carrying the illness. Counting before and after is the evidence.",
    "outcome": 5
   },
   {

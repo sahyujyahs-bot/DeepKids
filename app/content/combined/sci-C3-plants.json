@@ -439,17 +439,17 @@
       },
       {
        "t": "mcq",
-       "p": "Why did the plants in the soaked pot D droop?",
+       "p": "A plant's pot is kept soaked with water all the time. Its leaves droop. Why?",
        "opts": [
-        "they had too little water",
-        "their roots had no air and began to rot",
-        "they had too much light"
+        "it has too little water",
+        "its roots have no air and begin to rot",
+        "it has too much light"
        ],
        "a": 1
       },
       {
        "t": "write",
-       "p": "What did we keep the same in all four pots? Why did that make it a fair test?",
+       "p": "You test four pots of plants, changing only one thing in each. Name three things you would keep the same, and say why that makes it a fair test.",
        "lines": 3
       }
      ]
@@ -697,9 +697,9 @@
      [
       {
        "t": "mcq",
-       "p": "Professor Bholu is the muddled scientist in the Mission book. He says: 'Plants make oxygen, so they never need any.' What is true?",
+       "p": "A friend says: 'Plants make oxygen, so they never need any.' What is true?",
        "opts": [
-        "he is right",
+        "your friend is right",
         "plants use oxygen day and night to get energy from food, but in daylight they make more than they use",
         "plants only need oxygen at night"
        ],
@@ -707,7 +707,7 @@
       },
       {
        "t": "mcq",
-       "p": "Professor Bholu says: 'When a tree burns, it turns back into soil.' Where does most of it really go?",
+       "p": "A friend says: 'When a tree burns, it turns back into soil.' Where does most of it really go?",
        "opts": [
         "into the ground",
         "into the air, as carbon dioxide and water vapour",
@@ -1182,8 +1182,8 @@
    "a": "You change only one thing and keep everything else the same."
   },
   {
-   "q": "Who was Janaki Ammal?",
-   "a": "An Indian botanist who helped breed sweeter sugarcane and studied plant chromosomes, and faced discrimination as a woman."
+   "q": "A scientist crosses two kinds of sugarcane to get a sweeter one. Why can mixing two kinds of plant sometimes give a better plant?",
+   "a": "The young plant gets features from both parents, so it can get the sweetness of one and the strength of the other. The Indian botanist Janaki Ammal bred sweeter sugarcane this way."
   }
  ]
 }

@@ -723,13 +723,13 @@
      [
       {
        "t": "mcq",
-       "p": "On many flat maps, Greenland looks about as big as Africa. What is true?",
+       "p": "On many flat maps, Greenland looks about as big as Africa. On a globe, Africa looks far bigger. Why do the flat maps get it wrong?",
        "opts": [
-        "they are the same size",
-        "Greenland is bigger",
-        "Africa is about 14 times bigger"
+        "A round Earth cannot be laid flat without stretching, and places near the poles get stretched most",
+        "Greenland is growing",
+        "Globes are always wrong"
        ],
-       "a": 2
+       "a": 0
       },
       {
        "t": "sort",

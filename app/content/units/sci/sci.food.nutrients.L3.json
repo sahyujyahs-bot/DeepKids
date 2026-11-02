@@ -1078,20 +1078,20 @@
    "items": [
     {
      "t": "order",
-     "p": "Put the steps of the Faulhorn test by Fick and Wislicenus in order.",
+     "p": "You want to find out whether muscles run mainly on protein. Put the steps of a fair test in order.",
      "items": [
-      "They measured the nitrogen in their urine",
-      "They ate no protein, only starch, fat and sugar",
-      "They worked out that protein gave only a small part of the energy",
-      "They climbed the Faulhorn mountain"
+      "Measure how much protein the body used",
+      "Eat no protein, only starch, fat and sugar",
+      "Work out whether protein gave enough energy for the climb",
+      "Climb a big hill"
      ],
      "a": [
-      "They ate no protein, only starch, fat and sugar",
-      "They climbed the Faulhorn mountain",
-      "They measured the nitrogen in their urine",
-      "They worked out that protein gave only a small part of the energy"
+      "Eat no protein, only starch, fat and sugar",
+      "Climb a big hill",
+      "Measure how much protein the body used",
+      "Work out whether protein gave enough energy for the climb"
      ],
-     "why": "First they made sure no protein came from food. Then they climbed, measured the nitrogen, which comes from protein the body breaks down, and compared the energy."
+     "why": "First make sure no protein comes from food. Then do the hard work, measure the protein the body broke down, and compare it with the energy the climb needed."
     },
     {
      "t": "mcq",
@@ -2530,14 +2530,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 1865, Fick and Wislicenus climbed a mountain to test an idea. What did they find?",
+   "p": "Two scientists ate no protein, then climbed a mountain. They measured how much protein their bodies used. It was far too little to give the energy for the climb. What does this show?",
    "opts": [
     "Muscles run mainly on carbohydrates and fats, not protein",
     "Muscles run only on protein",
     "Climbing needs no energy"
    ],
    "a": 0,
-   "why": "They measured the nitrogen in their urine to see how much protein they used. It was far too little for the climb. So the energy came mostly from carbohydrates and fats.",
+   "why": "The climb needed a lot of energy, but very little protein was used. So the energy must have come mostly from carbohydrates and fats.",
    "outcome": 5
   }
  ],

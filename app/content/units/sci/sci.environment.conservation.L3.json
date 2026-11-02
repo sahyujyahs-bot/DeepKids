@@ -1920,15 +1920,15 @@
     },
     {
      "t": "mcq",
-     "p": "Why did Tamil Nadu make rainwater harvesting compulsory for buildings in 2003?",
+     "p": "In a city, roofs and roads cover most of the ground, and the wells are going dry. Why would a rule that every building must catch its rain help?",
      "opts": [
-      "Roofs and roads stopped rain soaking in, and groundwater was falling",
-      "Rain was damaging the roofs",
-      "The sea was too full"
+      "Rain sent into pits soaks down and refills the groundwater, instead of running into drains",
+      "Rain is damaging the roofs",
+      "The sea is too full"
      ],
      "a": 0,
      "outcome": 5,
-     "why": "When the ground is covered by buildings and roads, rain runs into drains. Sending it into pits helps refill the groundwater."
+     "why": "When the ground is covered by buildings and roads, rain runs into drains. Sending it into pits helps refill the groundwater that wells draw on."
     },
     {
      "t": "fill",
@@ -1990,15 +1990,15 @@
     },
     {
      "t": "mcq",
-     "p": "In 1982, buffaloes were sent out of Keoladeo National Park, a wetland for birds in Rajasthan. What happened next?",
+     "p": "Buffaloes are kept out of a bird wetland to protect the nests. But the buffaloes had been eating a tall grass there. What might go wrong?",
      "opts": [
-      "A tall wetland grass spread over the shallow water",
-      "More birds came than ever",
-      "The water dried up at once"
+      "The grass may spread over the shallow water that water birds need",
+      "More birds will come than ever",
+      "The water will dry up at once"
      ],
      "a": 0,
      "outcome": 6,
-     "why": "The buffaloes had been eating the grass called Paspalum. Without them, it spread over the open water that many water birds use."
+     "why": "The buffaloes kept the grass down. Without them, it can spread over the open water many water birds use. Taking one animal out can change the whole place."
     },
     {
      "t": "order",
@@ -2175,15 +2175,15 @@
     },
     {
      "t": "mcq",
-     "p": "In 2019, the main lakes that supply Chennai went almost dry. How did the city get water?",
+     "p": "After a weak monsoon, a city's lakes go almost dry. What can the city do now, and what could stop it happening again?",
      "opts": [
-      "From trains and tankers bringing water from elsewhere",
-      "From the sea, by boat",
-      "It rained every day"
+      "Bring in water by train and tanker now, and save more rain in pits and tanks for later years",
+      "Wait for the sea to fill the lakes",
+      "Nothing, cities do not need rain"
      ],
      "a": 0,
      "outcome": 5,
-     "why": "Water was brought in by train and by tanker lorries. The crisis showed how much the city depends on rain being saved."
+     "why": "Water can be brought from elsewhere in a crisis, but that is costly. Saving rain every year keeps the groundwater and lakes fuller for dry years. Chennai faced this in 2019."
     },
     {
      "t": "order",
@@ -2324,15 +2324,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why did a wetland grass spread over the water at Keoladeo after 1982?",
+   "p": "Buffaloes used to graze in a wetland and keep a tall grass short. Then the buffaloes were sent out. What will most likely happen?",
    "opts": [
-    "The buffaloes that ate it were sent out",
-    "Too much rain fell",
-    "The birds planted it"
+    "The grass grows tall and spreads over the open water",
+    "Too much rain falls",
+    "The birds plant more grass"
    ],
    "a": 0,
    "outcome": 6,
-   "why": "The buffaloes had kept the grass short. Without them, it grew over the open water."
+   "why": "The buffaloes had kept the grass short. Without them, it grows over the open water. This happened at Keoladeo after 1982."
   },
   {
    "t": "mcq",
@@ -2372,15 +2372,15 @@
   },
   {
    "t": "mcq",
-   "p": "What does India's Prevention of Cruelty to Animals Act of 1960 do?",
+   "p": "Why do many countries, India among them, have laws against beating, starving or neglecting animals?",
    "opts": [
-    "Makes it a crime to beat, starve or neglect an animal",
-    "Bans keeping cows",
-    "Lets anyone keep wild animals"
+    "Animals feel pain and need care, and they cannot speak up for themselves",
+    "To stop people keeping cows",
+    "So anyone can keep wild animals"
    ],
    "a": 0,
    "outcome": 0,
-   "why": "The law protects animals from cruelty. People may keep animals, but must care for them."
+   "why": "Animals can suffer, so the law protects them from cruelty. People may keep animals, but must care for them."
   },
   {
    "t": "mcq",

@@ -365,7 +365,7 @@
       "sections": [
         ["A. States and capitals", [
           {"t": "match", "p": "Match each state to its capital.", "pairs": [["Madhya Pradesh", "Bhopal"], ["Manipur", "Imphal"], ["Karnataka", "Bengaluru"], ["Odisha", "Bhubaneswar"], ["Chhattisgarh", "Raipur"], ["Meghalaya", "Shillong"]]},
-          {"t": "fill", "p": "The city that is the capital of both Punjab and Haryana is ____.", "a": ["Chandigarh"]},
+          {"t": "fill", "p": "The city where a state's government meets and makes its decisions is called the state's ____.", "a": ["capital"]},
           {"t": "fill", "p": "Today India has ____ states and 8 union territories.", "a": ["28", "twenty-eight"]}
         ]],
         ["B. Globe", [

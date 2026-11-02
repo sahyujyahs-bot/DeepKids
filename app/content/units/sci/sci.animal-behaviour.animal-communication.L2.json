@@ -1465,14 +1465,14 @@
     },
     {
      "t": "mcq",
-     "p": "Dorothy Cheney and Robert Seyfarth hid a speaker in a bush in Kenya. They played a vervet monkey's eagle alarm call. No eagle was there. What did the monkeys do?",
+     "p": "Scientists hid a speaker in a bush and played a monkey's eagle alarm call, with no eagle there. Why did they use a speaker and no real eagle?",
      "opts": [
-      "They ran up into the trees.",
-      "They looked up at the sky and ran into the bushes.",
-      "They stood up and looked at the grass."
+      "So they knew the monkeys were reacting to the sound alone",
+      "Because eagles are too big",
+      "So the monkeys would sleep"
      ],
-     "a": 1,
-     "why": "At the eagle call, vervets looked up and hid in bushes. At the leopard call they ran up trees, and at the snake call they stood up and looked down. The sound alone told them which danger."
+     "a": 0,
+     "why": "With no eagle to see, only the call could tell the monkeys what to do. They looked up and hid in bushes, so the sound itself carried the message 'eagle'."
     },
     {
      "t": "draw",

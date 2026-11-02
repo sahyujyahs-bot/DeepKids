@@ -2278,14 +2278,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the story Thatha and the Six Towers, Meenakshi drew a map for her grandfather. Why did he walk the wrong way, even though her first map showed every tower?",
+     "p": "A girl draws a map of her street for her grandfather. It shows every shop, but it has no direction arrow. He turns round and walks the wrong way. Why?",
      "opts": [
-      "The towers had moved",
+      "The shops had moved",
       "When he turned round, the map did not turn with him, so left and right swapped",
       "He could not read"
      ],
      "a": 1,
-     "why": "Her first map had no direction arrow, so he did not know how to turn it. After she added an east arrow, he could turn the map to match the ground."
+     "why": "With no direction arrow, he could not tell how to turn the map to match the ground. An arrow, such as one pointing east, lets you line the map up with the real street."
     },
     {
      "t": "perspective",

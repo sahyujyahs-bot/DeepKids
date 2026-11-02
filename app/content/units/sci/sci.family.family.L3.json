@@ -1456,14 +1456,14 @@
   },
   {
    "t": "mcq",
-   "p": "India's Time Use Survey in 2019 found that women who did unpaid home work spent about 299 minutes a day on it. What did it find for men who did any?",
+   "p": "In many Indian homes, women do most of the unpaid home work, like cooking, cleaning and caring. If a survey timed this work for women and for men, what would it most likely find?",
    "opts": [
-    "About 300 minutes, the same",
-    "About 97 minutes",
-    "About 600 minutes"
+    "Both spend about the same time",
+    "Women spend much more time on it than men",
+    "Men spend much more time on it than women"
    ],
    "a": 1,
-   "why": "Men who did any unpaid home work spent about 97 minutes a day. That is about one third of the women's 299 minutes. Women in India do most of this work.",
+   "why": "If women do most of the unpaid home work, they spend far more minutes on it each day. India's Time Use Survey found about 299 minutes a day for women and about 97 for men.",
    "outcome": 3
   },
   {
@@ -1480,14 +1480,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 1848 in Pune, Savitribai Phule and Jyotirao Phule did something new. What was it?",
+   "p": "Long ago, most girls in India were kept at home and not sent to school. What would change that most for girls?",
    "opts": [
-    "They opened a school for girls",
-    "They built a hospital",
-    "They started a newspaper"
+    "Opening schools where girls are welcome to study",
+    "Building more hospitals",
+    "Starting a newspaper"
    ],
    "a": 0,
-   "why": "They opened a school for girls, at a time when most girls were not sent to school. People threw mud at Savitribai on her way to teach, but she kept going.",
+   "why": "Girls can only learn at school if there is a school that lets them in. When people opened schools for girls, more girls learned to read, even though some people fought against it.",
    "outcome": 5
   },
   {
@@ -1795,14 +1795,14 @@
     },
     {
      "t": "mcq",
-     "p": "John B. Watson and Rosalie Rayner Watson wrote a book for parents in 1928. What did they tell parents?",
+     "p": "Long ago, some experts told parents not to hug or kiss their children. Later studies showed that baby monkeys clung to a soft cloth mother for comfort. What does that tell us about the old advice?",
      "opts": [
-      "Hug your children often",
-      "Do not hug or kiss your children",
-      "Let grandparents raise your children"
+      "It was right: hugs spoil children",
+      "It was wrong: comfort and touch are something young ones need",
+      "It does not matter either way"
      ],
      "a": 1,
-     "why": "They told parents not to hug or kiss their children. Later studies, such as Harlow's, showed that comfort and touch are what children need."
+     "why": "Baby monkeys chose a soft, comforting mother even over one that gave milk. Comfort and touch matter to young ones, so telling parents not to hug was poor advice."
     },
     {
      "t": "fill",
@@ -1900,20 +1900,20 @@
     },
     {
      "t": "truefalse",
-     "p": "In the 2011 Census, more women than men in India could read and write.",
-     "a": false,
-     "why": "False. About 65 in every 100 women could read and write, and about 82 in every 100 men."
+     "p": "If, for many years, fewer girls than boys are sent to school, then later there will be fewer women than men who can read and write.",
+     "a": true,
+     "why": "True. Reading is mostly learned at school. If fewer girls go, fewer women grow up able to read. In India's 2011 Census, about 65 in every 100 women could read and write, and about 82 in every 100 men."
     },
     {
      "t": "mcq",
-     "p": "Kristen Hawkes studied Hadza grandmothers in Tanzania. What did she think their digging of food lets mothers do?",
+     "p": "In some families, grandmothers find food and care for the older grandchildren. What might this let the mothers do?",
      "opts": [
-      "Have the next baby sooner",
+      "Have and care for a new baby more easily",
       "Go to school",
       "Stop caring for babies"
      ],
      "a": 0,
-     "why": "Hawkes thought that when grandmothers find food for grandchildren, mothers can have the next baby sooner. This is called the grandmother idea."
+     "why": "When a grandmother feeds and looks after the older children, the mother has more time and strength for a new baby. Scientists call this the grandmother idea."
     }
    ]
   },

@@ -1488,10 +1488,10 @@
     },
     {
      "t": "write",
-     "p": "In the 1600s, van Helmont grew a willow tree in a pot for five years. The tree gained about 74 kilograms. The soil lost only about 57 grams. What does this show? What did van Helmont himself get wrong?",
+     "p": "A willow tree grows in a pot for five years. The tree gains about 74 kilograms. The soil loses only about 57 grams. What does this show? If the tree's body did not come from the soil, where else could it have come from?",
      "lines": 4,
-     "a": "It shows that the tree's body did not come from the soil, because the soil hardly changed. Van Helmont decided the tree was made from water alone. He missed the air. Most of a tree's dry body is built from carbon dioxide in the air, joined with water using sunlight.",
-     "why": "A strong answer uses the numbers as evidence, then says that water was only part of the answer. Most people today still guess 'the soil'."
+     "a": "It shows that the tree's body did not come from the soil, because the soil hardly changed. It must have come from what else the tree took in: water and air. Most of a tree's dry body is built from carbon dioxide in the air, joined with water using sunlight.",
+     "why": "A strong answer uses the numbers as evidence, then names water and air. Most people guess 'the soil', and the numbers show that cannot be right."
     },
     {
      "t": "mcq",
@@ -1542,7 +1542,7 @@
     },
     {
      "t": "mcq",
-     "p": "Why do farmers in Réunion and in Kerala move vanilla pollen by hand?",
+     "p": "Vanilla flowers only make pods after pollen is moved inside the flower. In Mexico, where vanilla first grew wild, small bees do this. Why do farmers in Kerala move vanilla pollen by hand?",
      "opts": [
       "It makes the pods sweeter",
       "Hand-moving is a religious custom",
@@ -1550,8 +1550,8 @@
       "Vanilla flowers have no pollen"
      ],
      "a": 2,
-     "why": "In Mexico, certain bees are thought to push past the little flap inside the vanilla flower. Those bees do not live in other countries. So people do the bees' job with a thin stick and a thumb. Picking 'no pollen' misses the point of the story: the pollen was always there, hidden behind the flap.",
-     "context": "In this unit's story, Edmond, a 12-year-old boy on an island in the Indian Ocean, finds out how to make vanilla flowers grow pods in 1841."
+     "why": "Certain bees in Mexico push past the little flap inside the vanilla flower. Those bees do not live in other countries. So people do the bees' job with a thin stick and a thumb. Picking 'no pollen' misses the point: the pollen is there, hidden behind the flap, but nothing moves it.",
+     "context": "Vanilla pods are the fruits of an orchid flower that first grew wild in Mexico."
     },
     {
      "t": "write",
@@ -1742,10 +1742,10 @@
     },
     {
      "t": "write",
-     "p": "Charles Darwin called the fast spread of flowering plants 'an abominable mystery'. Give two ideas scientists have for why flowering plants spread so fast.",
+     "p": "Flowering plants spread over the world much faster than other plants. Think about what flowers and fruits do. Give two reasons why having flowers could help a plant spread fast.",
      "lines": 4,
      "a": "Any two of these. Flowers changed together with the insects and birds that move their pollen. Flowering plants finish their life cycles quickly. Fruits let animals carry seeds far away. Changes in the climate helped them.",
-     "why": "Scientists still argue about this. A good answer gives two different ideas.",
+     "why": "A good answer links each reason to a job: flowers bring insects and birds to carry pollen, and fruits get animals to carry seeds far away. Scientists still argue about which mattered most.",
      "context": "The first flowering plants appeared about 130 million years ago. Today almost 9 in every 10 kinds of land plant have flowers."
     },
     {
@@ -3626,16 +3626,16 @@
   },
   {
    "t": "mcq",
-   "p": "Who found the way to make vanilla flowers grow pods outside Mexico, using a thin stick and his thumb?",
+   "p": "Outside Mexico, vanilla flowers used to drop off without making pods. The small bees that move vanilla pollen live only in Mexico. How can farmers in other places get pods?",
    "opts": [
-    "Isaac Newton",
-    "Edmond Albius, a 12-year-old boy, in 1841",
-    "Charles Darwin",
-    "Gregor Mendel"
+    "Water the vines more",
+    "Use a thin stick to move the pollen inside each flower by hand",
+    "Give the vines more sunlight",
+    "Cut the flowers off early"
    ],
    "a": 1,
    "outcome": 6,
-   "why": "Edmond Albius found the method in 1841, on the island now called Réunion. It is still used today. Picking Darwin is a common guess, because he studied plants and flowers. But he did not find this.",
+   "why": "A flower must get pollen to make a fruit. If the insect that does this job is missing, people can do it by hand, and farmers still do this today. Water and sunlight help a plant grow, but they cannot move pollen.",
    "context": "Vanilla pods are the fruits of an orchid flower. Outside Mexico, the flowers used to drop off without making pods."
   }
  ],

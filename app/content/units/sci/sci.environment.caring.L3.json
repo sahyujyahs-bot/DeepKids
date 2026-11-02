@@ -2092,7 +2092,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Closed Box Test, what was the ONE thing that was different between the two boxes?",
+     "p": "You want to find out whether a lid keeps the water in a box of seedlings. You set up two boxes. What is the ONE thing that should be different between them?",
      "opts": [
       "the number of seeds",
       "the lid",
@@ -2100,7 +2100,7 @@
      ],
      "how": "e1",
      "a": 1,
-     "why": "Everything else was kept the same: the box, the cotton, the water, the seeds and the place. That is why any difference must come from the lid."
+     "why": "Keep everything else the same: the box, the cotton, the water, the seeds and the place. Then any difference must come from the lid."
     },
     {
      "t": "draw",
@@ -2241,10 +2241,10 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Class 3, and her family pour soapy water from washing clothes into the street drain. Use the Drain Test to explain what this water might do in a lake.",
+     "p": "Seeds are grown in plain water, in water with a little washing powder, and in water with a lot. The 'a lot' cup sprouts fewer seeds, with shorter roots. A family pours soapy water from washing clothes into the street drain. What might this water do in a lake?",
      "lines": 4,
      "how": "e2",
-     "a": "The Drain Test showed that a lot of washing powder in water made fewer seeds sprout, with shorter roots. If lots of soapy water reaches a lake, it may harm the seeds and plants that live there. In Bellandur Lake in Bengaluru, soap and sewage made thick froth.",
+     "a": "The test shows that a lot of washing powder in water stops many seeds sprouting and keeps roots short. Drains carry soapy water to lakes. If lots of it reaches a lake, it may harm the seeds and plants that live there, and the animals that need them.",
      "why": "A strong answer uses the evidence from the test and links it to living things in a lake."
     },
     {
@@ -2419,14 +2419,14 @@
     },
     {
      "t": "mcq",
-     "p": "In Biosphere 2, the microbes should also have made extra carbon dioxide. But the carbon dioxide did not rise as much as expected. Scientists found it was being taken up by something in the building. What was it?",
+     "p": "In a sealed building, carbon dioxide rises less than expected. Something is taking it up. Which is the most likely to take up a gas from the air?",
      "opts": [
-      "The glass windows",
-      "The bare concrete walls",
+      "Glass windows, which do not change",
+      "Fresh, bare concrete walls, which can react with carbon dioxide",
       "The people's clothes"
      ],
      "a": 1,
-     "why": "The bare, fresh concrete reacted with carbon dioxide and locked it away. The building itself was part of the environment inside, though nobody had planned it that way. This is why Jeff Severinghaus and others had to look so hard for the missing gas."
+     "why": "Glass does not react with carbon dioxide, and clothes hold little. Fresh concrete reacts with carbon dioxide and locks it away. So the building itself was part of the closed world inside, though nobody had planned it."
     },
     {
      "t": "write",
@@ -2545,17 +2545,19 @@
     },
     {
      "t": "fill",
-     "p": "Saalumarada Thimmakka of Karnataka, with her husband, planted and cared for 385 ____ trees along a road.",
+     "p": "A woman plants hundreds of young trees along a dusty road and waters them for years. The trees grow big and give shade. Young trees need a lot of ____ until their roots go deep.",
      "a": [
-      "banyan"
+      "water",
+      "care",
+      "watering"
      ],
-     "why": "She and her husband, Bikkala Chikkaiah, planted the banyans along about 4 km of road between Hulikal and Kudur, and watered them for years. She was given the Padma Shri in 2019."
+     "why": "Young trees have short roots, so they dry out easily. Once their roots reach deep into the soil, they can find water themselves. That is why people who plant trees water them for years."
     },
     {
      "t": "write",
-     "p": "Biosphere 2 was meant to be a closed world, like our closed box. Write one thing the closed box test and Biosphere 2 both show about living in a closed world.",
-     "a": "In a closed world, nothing new comes in except light. So what the living things use up or give out stays inside and changes things for everyone there. In the box, water went round. In Biosphere 2, the oxygen used by the microbes was not replaced.",
-     "why": "A strong answer finds something that is true of both, and gives an example from each.",
+     "p": "Imagine people living for two years inside a huge sealed glass building, like a giant closed box with plants. Nothing goes in or out except light. Write one thing the closed box test helps you predict about life in there.",
+     "a": "In a closed world, nothing new comes in except light. So whatever the living things use up or give out stays inside and changes things for everyone. In the box, water went round and round. In the building, if microbes used up oxygen, the people would have less, unless someone pumped more in.",
+     "why": "A strong answer uses something true of the closed box and says what it would mean in the building.",
      "lines": 4
     },
     {
@@ -2584,20 +2586,20 @@
     },
     {
      "t": "order",
-     "p": "Put these events from Biosphere 2 in the order they happened.",
+     "p": "People are sealed in a closed building with plants. Slowly, the oxygen falls. Put these in the order they would happen.",
      "items": [
-      "fresh oxygen is pumped in, in 1993",
-      "eight people are sealed inside in 1991",
-      "scientists find the microbes and the concrete were the cause",
-      "the oxygen slowly falls for over a year"
+      "fresh oxygen is pumped in to keep people safe",
+      "people are sealed inside",
+      "scientists measure everything to find what used up the oxygen",
+      "the oxygen slowly falls"
      ],
      "a": [
-      "eight people are sealed inside in 1991",
-      "the oxygen slowly falls for over a year",
-      "fresh oxygen is pumped in, in 1993",
-      "scientists find the microbes and the concrete were the cause"
+      "people are sealed inside",
+      "the oxygen slowly falls",
+      "fresh oxygen is pumped in to keep people safe",
+      "scientists measure everything to find what used up the oxygen"
      ],
-     "why": "The oxygen fell first, then oxygen had to be added for the people's safety, and the causes were worked out by careful measuring."
+     "why": "The oxygen can only fall after people are sealed in. Safety comes first, so oxygen is added before the long work of finding the cause by careful measuring."
     }
    ]
   }

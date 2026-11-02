@@ -1234,15 +1234,15 @@
   },
   {
    "t": "mcq",
-   "p": "In 1939, what did Albert Einstein think about black holes?",
+   "p": "Long ago, some great scientists thought black holes could not form in nature. What kind of evidence would show they are real?",
    "opts": [
-    "That one was about to hit the Earth",
-    "That they could not form in nature",
-    "That they were made of light"
+    "A story about one hitting the Earth",
+    "Stars racing round a spot where nothing can be seen",
+    "A photo of a bright light"
    ],
    "a": 1,
    "outcome": 5,
-   "why": "Einstein thought something in nature would always stop a star collapsing that far. Later evidence, like the stars going round the centre of our galaxy, showed that black holes are real."
+   "why": "Only something with huge mass could pull stars round that fast. If nothing can be seen there, it is a black hole. Evidence like this showed that black holes are real, even though Albert Einstein once doubted they could form."
   }
  ],
  "worksheets": [
@@ -1598,9 +1598,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Andrea Ghez was the first woman ever to win the Nobel Prize in Physics.",
-     "a": false,
-     "why": "False. She was the fourth, in 2020. Before her came Marie Curie in 1903, Maria Goeppert Mayer in 1963 and Donna Strickland in 2018."
+     "p": "Astronomers can find a black hole they cannot see by watching how fast nearby stars move round it.",
+     "a": true,
+     "why": "True. A black hole gives no light, but its pull makes nearby stars race round it. From how fast they go, astronomers work out how much mass is there. Andrea Ghez won a Nobel Prize in 2020 for this work."
     },
     {
      "t": "write",

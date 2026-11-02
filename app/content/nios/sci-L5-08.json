@@ -292,7 +292,7 @@
         ]],
         ["B. Steps of farming", [
           {"t": "table", "p": "Put the jobs of growing a crop in order and write why each matters.", "cols": ["Step", "Why it matters"], "rows": 7, "prefill": ["Preparing the field", "Sowing on time", "Seed treatment", "Weeding and hoeing", "Irrigation", "Manure and fertiliser", "Harvesting and sorting"]},
-          {"t": "mcq", "p": "When is a field ready to plough, according to the book?", "opts": ["When it is flooded", "When it is bone dry", "When a squeezed lump holds together but crumbles when pressed", "Only in winter"], "a": 2}
+          {"t": "mcq", "p": "When is a field ready to plough?", "opts": ["When it is flooded", "When it is bone dry", "When a squeezed lump holds together but crumbles when pressed", "Only in winter"], "a": 2}
         ]],
         ["C. Feeding and protecting", [
           {"t": "write", "p": "Why should a farmer test the soil before adding fertiliser?", "lines": 2},
@@ -332,7 +332,7 @@
         ]],
         ["B. Weigh the evidence", [
           {"t": "write", "p": "The Green Revolution fed crores of people but used lots of water and fertiliser. Write one gain and one cost, and suggest one way to keep the gain while reducing the cost.", "lines": 4},
-          {"t": "write", "p": "Studies show organic farms often give smaller harvests but healthier soil. If you were India's farm minister, would you ask all farmers to go organic at once? Give reasons, and mention what happened in Sri Lanka in 2021.", "lines": 5}
+          {"t": "write", "p": "Studies show organic farms often give smaller harvests but healthier soil. If you were India's farm minister, would you ask all farmers to go organic at once? Give reasons. What could happen if every farm switched at once and harvests fell?", "lines": 5}
         ]],
         ["C. Design a test", [
           {"t": "write", "p": "Design a fair test to find out whether compost helps methi seeds grow taller. Say what you will change, what you will keep the same, how many seeds, and what you will measure.", "lines": 4}
@@ -493,12 +493,12 @@
   ],
   "check": [
     {"q": "What is humus, and why is the top layer of soil called the farmer's wealth?", "a": "Humus is rotted plant and animal matter that makes soil soft, fertile and able to hold water. The top layer has the most humus and plant food, so crops depend on it."},
-    {"q": "Name the four soil types in the book and one crop that suits each.", "a": "Clay soil (rice, cotton, sugarcane, gram); sandy soil (groundnut, watermelon, potato); alluvial soil (most crops, such as wheat); acidic soil (needs lime first)."},
+    {"q": "How are sandy soil and clay soil different, and which kind of crop suits each?", "a": "Sandy soil has big grains with big gaps, so water drains away fast; it suits crops like groundnut and watermelon that do not like wet roots. Clay soil has tiny grains and holds water; it suits crops like rice that need a lot of water."},
     {"q": "In your water test, which soil held the most water and which the least? Why?", "a": "Clay held the most because its tiny particles have tiny gaps; sand held the least because its big particles have big gaps."},
     {"q": "List the main jobs of growing a crop in order.", "a": "Prepare the field (plough at the right moisture), sow on time, treat seeds, weed and hoe, irrigate, add compost or fertiliser, protect the crop, harvest on time, then sort, dry and store."},
     {"q": "Why should soil be tested before adding fertiliser?", "a": "To know which nutrients are missing, so the right amount is added; too much fertiliser wastes money, harms crops and soil, and pollutes water."},
     {"q": "Name three kinds of organic manure.", "a": "Cow-dung manure, compost (nadep), vermicompost, neem cake (oil-cake compost), green manure."},
     {"q": "What are rabi, kharif and zaid crops? Give two examples of each with their sowing months.", "a": "Rabi: sown in winter (October–December), e.g. wheat, gram, mustard, peas. Kharif: sown with the monsoon (June–August), e.g. rice, maize, cotton, jowar. Zaid: sown in March–April between the two, e.g. watermelon, cucumber, sunflower."},
-    {"q": "What does the saying 'Kacha khet na jote koi' teach, and why does timing matter in farming?", "a": "Don't plough a field that is too wet (raw); it won't hold seed or sprout. Sowing, weeding, watering and harvesting must all be done at the right time or the crop is lost, as Tulsidas's saying about late rain also teaches."}
+    {"q": "Why should a farmer not plough a field that is too wet, and why does timing matter in farming?", "a": "A field that is too wet turns to sticky lumps when ploughed; it will not hold seed well or let it sprout. Sowing, weeding, watering and harvesting must all be done at the right time, or the crop is lost to weather, weeds or pests."}
   ]
 }

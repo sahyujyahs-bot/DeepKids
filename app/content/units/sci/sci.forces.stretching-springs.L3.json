@@ -1024,16 +1024,16 @@
     },
     {
      "t": "mcq",
-     "p": "In this unit's story, a girl called Ammu watches a festival swing on a mango branch. In the morning the seat hangs at her chin. After the big children swing hard, it hangs at her shoulder. Why is that a warning?",
+     "p": "A swing hangs from a thin mango branch. In the morning the seat hangs at a child's chin. After big children swing hard all day, it hangs at her shoulder. Why is that a warning?",
      "opts": [
       "The branch bent and stayed bent, so it had passed its elastic limit and might break",
       "The ropes got longer in the hot sun",
-      "Ammu had grown taller that day",
+      "The child had grown taller that day",
       "A lower swing is always safer"
      ],
      "a": 0,
-     "why": "A branch that springs all the way back is still elastic. One that stays bent has gone past its limit, and that comes just before breaking. Picking the ropes is a fair guess, but the story says the branch was what had sagged.",
-     "context": "In the story The Tired Branch, children in Kerala hang an Onam swing from a thin, high mango branch."
+     "why": "A branch that springs all the way back is still elastic. One that stays bent has gone past its limit, and that comes just before breaking. Picking the ropes is a fair guess, but ropes stretch very little. A branch that bends a lot under heavy swinging is far more likely to have sagged.",
+     "context": "A swing hangs from a thin, high mango branch."
     },
     {
      "t": "match",
@@ -1396,7 +1396,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the catapult from the Catapult Challenge, pressed down and ready to fire. Label where the energy is stored before you let go.",
+     "p": "Draw a simple catapult made from a bent stick or rubber bands, pressed down and ready to fire. Label where the energy is stored before you let go.",
      "how": "c1",
      "a": "A drawing of the catapult with the arm pressed down. The label points to the bent stick or the stretched rubber bands.",
      "why": "The bent stick and the stretched bands store the energy. When you let go, they spring back and fling the ball.",
@@ -1512,15 +1512,15 @@
     },
     {
      "t": "mcq",
-     "p": "In 2015, an instrument in the United States called LIGO caught a gravitational wave, a ripple in space itself. LIGO has arms 4 kilometres long. How much did the wave stretch them?",
+     "p": "When a gravitational wave passes, space itself stretches by a tiny amount. Scientists built a detector with arms 4 kilometres long to catch it. Why make the arms so long?",
      "opts": [
-      "By less than the width of a tiny speck inside an atom",
-      "By about 1 metre",
-      "By about 1 centimetre",
-      "It snapped them"
+      "Each bit of a long arm stretches a tiny amount, and all the bits add up to a stretch big enough to measure",
+      "Long arms look more impressive",
+      "Short arms would snap",
+      "Long arms make the wave stronger"
      ],
      "a": 0,
-     "why": "The stretch was less than a hundredth of the width of a proton. A proton is a speck inside an atom. That is why LIGO took decades to build. Picking 1 metre shows how hard it is to imagine something so small."
+     "why": "The stretch is far smaller than an atom, even over 4 kilometres. Every piece of the arm stretches a little, so a longer arm gives a bigger total. This is the same reason a long wire or a chain of bands stretches more than a short one."
     },
     {
      "t": "mcq",
@@ -3557,14 +3557,14 @@
   },
   {
    "t": "mcq",
-   "p": "After a giant earthquake in Chile in 1960, what did instruments find the whole Earth doing for days?",
+   "p": "Rock is elastic: when it is pushed, it springs back a little. After a giant earthquake, what would you expect the whole Earth to do for a while?",
    "opts": [
-    "Vibrating slowly, like a bell after it is struck",
-    "Spinning backwards",
-    "Getting bigger"
+    "Vibrate slowly, like a bell after it is struck",
+    "Spin backwards",
+    "Get bigger"
    ],
    "a": 0,
-   "why": "Rock is elastic, so the whole planet rang like a bell. The shaking travelled through it as waves.",
+   "why": "Rock springs back, so after a huge push the whole planet rings like a bell that has been struck. The shaking travels through it as waves for days.",
    "outcome": 6
   }
  ],

@@ -750,7 +750,7 @@
           [
             {
               "t": "write",
-              "p": "Your cousin skips breakfast and then feels tired and grumpy in the first class. Which part of the chapter explains this, and what would you tell him?",
+              "p": "Your cousin skips breakfast and then feels tired and grumpy in the first class. Why might that happen, and what would you tell him?",
               "lines": 3
             },
             {
@@ -844,7 +844,7 @@
             },
             {
               "t": "write",
-              "p": "Darwin's critics said worms were too small to change the land. What evidence did Darwin collect to show they were wrong?",
+              "p": "Some people say earthworms are too small to change the land. What evidence could you collect to show they are wrong?",
               "lines": 2
             }
           ]

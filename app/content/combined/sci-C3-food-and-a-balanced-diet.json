@@ -767,7 +767,7 @@
       },
       {
        "t": "mcq",
-       "p": "Eijkman's chickens got ill on white rice and got better on rice with its outer layer. What did Grijns say?",
+       "p": "Chickens fed only white rice got ill. When they were given rice with its outer layer, they got better. What is the best explanation?",
        "opts": [
         "White rice has a poison in it.",
         "The outer layer has something the body needs.",
@@ -777,9 +777,9 @@
       },
       {
        "t": "mcq",
-       "p": "In the 1960s, many experts said poor children in India needed special protein foods. What did C. Gopalan find most of them needed?",
+       "p": "Many poor children eat rice and dal, but not enough of it, and they are thin and weak. What would most likely help them?",
        "opts": [
-        "more of their usual food, because they did not get enough food overall",
+        "more of their usual food, because they do not get enough food overall",
         "only milk powder",
         "less rice"
        ],
@@ -787,7 +787,7 @@
       },
       {
        "t": "fill",
-       "p": "Barry Marshall showed that most stomach ulcers are caused by a ____, not by spicy food.",
+       "p": "Most stomach ulcers can be cured with medicine that kills germs. So most ulcers are caused by a ____, not by spicy food.",
        "a": [
         "bacterium",
         "germ",
@@ -1384,16 +1384,16 @@
    "a": "Carbohydrates, such as rice. Proteins, such as dal. Fats, such as ghee or peanuts. Vitamins, such as vitamin C in amla. Minerals, such as calcium in milk or ragi."
   },
   {
-   "q": "How did we test foods for starch, and what did we find?",
-   "a": "We put a drop of iodine on each food. Rice, idli and potato turned blue-black, so they have starch. Paneer, sugar and salt stayed brown."
+   "q": "How can you test a food for starch with iodine? What would you expect to see on rice, and on sugar?",
+   "a": "Put a drop of iodine on the food. If it turns blue-black, the food has starch. Rice would turn blue-black. Sugar has no starch, so it would stay brown."
   },
   {
    "q": "Why does a peanut have so much fat?",
    "a": "A peanut is a seed. It stores fat as food for its baby plant. The paper test showed a big see-through spot for it."
   },
   {
-   "q": "Why did the two sailors with oranges and a lemon get better?",
-   "a": "Oranges and lemons have vitamin C, and the sailors' food had none. Missing vitamin C for a long time causes scurvy."
+   "q": "Sailors on long trips with no fresh fruit got scurvy. Why would oranges and lemons make them better?",
+   "a": "Oranges and lemons have vitamin C, and the sailors' food had none. Missing vitamin C for a long time causes scurvy, so giving it back helps them get better."
   },
   {
    "q": "What does a balanced plate look like?",

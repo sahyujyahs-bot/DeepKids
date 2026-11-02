@@ -2215,12 +2215,14 @@
     },
     {
      "t": "fill",
-     "p": "The rural job guarantee's first work began in 2006 in Bandlapalli village, in ____ district of Andhra Pradesh.",
+     "p": "In the dry months there is little farm work in a village. The rural job guarantee gives people paid work, like digging ponds, so families still have ____ to buy food.",
      "a": [
-      "Anantapur",
-      "Anantapuramu"
+      "money",
+      "wages",
+      "income",
+      "pay"
      ],
-     "why": "Prime Minister Manmohan Singh launched it there on 2 February 2006."
+     "why": "The job guarantee promises work close to home when farms have none. The wages keep families fed until farm work comes back."
     },
     {
      "t": "mcq",
@@ -2264,7 +2266,7 @@
     },
     {
      "t": "draw",
-     "p": "In the story The Name on the List, Ratnamma is a grandmother who digs a farm pond. Draw her job card. Show that she worked 15 days in April, and the wages she was paid.",
+     "p": "A job card is a worker's own record under the rural job guarantee. Draw a job card for a grandmother who dug a farm pond and worked 15 days in April. Show the days she worked and the wages she was paid.",
      "a": "A drawing of a small booklet with her name, a table of dates or days, and a wage column.",
      "why": "A job card is the worker's own record. A strong drawing shows the days worked, so it can be compared with the register.",
      "how": "a3"
@@ -2290,14 +2292,14 @@
     },
     {
      "t": "mcq",
-     "p": "Tomatoes, potatoes and chillies are now part of many Indian meals. Where did they first come from?",
-     "a": 1,
-     "why": "They came from the Americas about 500 years ago. Trade across oceans has been changing what we eat for a long time.",
+     "p": "Tomatoes, potatoes and chillies first grew far away, across the ocean. Now they are part of many Indian meals. What brought them here?",
+     "a": 0,
+     "why": "Traders and sailors carried seeds across oceans, about 500 years ago. Farmers here planted them. Trade has been changing what we eat for a long time.",
      "opts": [
-      "China",
-      "The Americas",
-      "Australia",
-      "Africa"
+      "People trading across oceans carried seeds and food",
+      "The wind blew the seeds here",
+      "They grew here by themselves all along",
+      "Birds carried them"
      ]
     },
     {

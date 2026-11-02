@@ -2183,14 +2183,14 @@
   },
   {
    "t": "mcq",
-   "p": "Galvani thought the twitching frog legs were caused by electricity inside the frog. What did Volta show?",
+   "p": "A dead frog's leg twitched when touched with two different metals, so one scientist thought the electricity came from inside the frog. Another scientist made electricity with discs of two metals and salty cloth, with no frog at all. What does that show?",
    "opts": [
     "Frogs make no electricity at all",
     "Two different metals with something wet between them make electricity, even with no frog",
     "The twitching was caused by the weather"
    ],
    "a": 1,
-   "why": "Volta made electricity with discs of two metals and salty cloth, with no frog, and built the first battery in 1799. Galvani was partly right too, because nerves really do use electrical signals. Picking 'frogs make no electricity' goes too far.",
+   "why": "Electricity appeared with no frog, so the frog was not needed to make it. That pile of discs was the first battery, built in 1799. The first scientist was partly right too, because nerves really do use electrical signals. Picking 'frogs make no electricity' goes too far.",
    "outcome": 6
   }
  ],

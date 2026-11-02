@@ -517,7 +517,7 @@
       },
       {
        "t": "fill",
-       "p": "Stanley Miller made sparks in a flask of gases and found ____ acids, the building blocks of proteins.",
+       "p": "Proteins are built from small pieces called ____ acids.",
        "a": [
         "amino"
        ]
@@ -681,7 +681,7 @@
       },
       {
        "t": "mcq",
-       "p": "In the story 'The Guest Who Stayed', Kavya is a girl who runs a race. Her mitochondria came from which parent?",
+       "p": "Kavya is a girl who runs a race. Her mitochondria came from which parent?",
        "opts": [
         "her mother",
         "her father",
@@ -1339,12 +1339,12 @@
  ],
  "check": [
   {
-   "q": "What did Pasteur's swan-neck flask show?",
+   "q": "Boiled broth in a flask with a long, bent neck stays clear for months. When the neck is broken off, the broth soon goes cloudy. What does this show?",
    "a": "Boiled broth stayed clear when dust and microbes were trapped in the bent neck, and went cloudy when the neck was broken. So microbes come from the air and dust, and life today comes only from life."
   },
   {
-   "q": "What did Stanley Miller's experiment make, and from what?",
-   "a": "Amino acids, the building blocks of proteins, from methane, ammonia, hydrogen and water vapour, using electric sparks like lightning. It did not make life."
+   "q": "Scientists sparked a mix of gases like the early Earth's air and found amino acids, the building blocks of proteins. What does this show, and what does it not show?",
+   "a": "It shows that building blocks of life can form from simple gases with sparks like lightning. It does not show that life itself can be made this way."
   },
   {
    "q": "What is a catalyst, and why did the raw potato foam but not the boiled one?",

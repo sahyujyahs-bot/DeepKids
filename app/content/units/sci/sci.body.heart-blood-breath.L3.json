@@ -2437,7 +2437,7 @@
     },
     {
      "t": "write",
-     "p": "In the story about Helen Taussig, a children's heart doctor, the blue babies turned pink after the operation. Why did they turn pink?",
+     "p": "Some babies are born with bluish lips, because too little of their blood goes to the lungs. A doctor adds a new pipe that sends more blood to the lungs. Why do the babies' lips turn pink?",
      "lines": 3,
      "a": "The new pipe sent more blood to the lungs. In the lungs, the blood picked up oxygen and turned bright red. So the babies' lips turned pink.",
      "why": "Blood only picks up oxygen when it goes through the lungs. A strong answer says that more blood reached the lungs, not that the babies got more blood."
@@ -2533,7 +2533,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "William Harvey could not see how blood got from the arteries into the veins. In 1661 Marcello Malpighi looked at a frog's lung under a microscope. What did he see?",
+     "p": "Blood leaves the heart in arteries and comes back in veins. But you cannot see with your eyes how it gets from one to the other. What would you expect to find in a thin slice of lung under a microscope?",
      "opts": [
       "Tiny blood vessels, called capillaries, joining the arteries to the veins",
       "Holes in the wall between the two sides of the heart",
@@ -2541,7 +2541,7 @@
       "Tiny doors that let air into the blood"
      ],
      "a": 0,
-     "why": "Malpighi saw capillaries, the tiny tubes that link arteries to veins. They were the missing piece in Harvey's idea that blood goes round and round."
+     "why": "If blood goes round and round, something must link arteries to veins. Capillaries are those tiny tubes, too thin to see without a microscope."
     },
     {
      "t": "mcq",
@@ -2882,15 +2882,15 @@
   },
   {
    "t": "mcq",
-   "p": "Ibn al-Nafis, a doctor in Cairo about 780 years ago, said something new. What was it?",
+   "p": "Blood leaves the right side of the heart and comes back to the left side. Where does it go in between, and why?",
    "opts": [
-    "Blood goes from the heart to the lungs and back",
-    "The heart is where we think",
-    "Blood is blue",
-    "The lungs pump blood"
+    "To the lungs, to pick up oxygen",
+    "To the brain, so we can think",
+    "Nowhere, it goes straight through the heart",
+    "To the stomach, to pick up air"
    ],
    "a": 0,
-   "why": "He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, centuries before others.",
+   "why": "The right side of the heart pumps blood to the lungs. There it picks up oxygen and comes back to the left side, which pumps it to the rest of the body.",
    "outcome": 5
   },
   {

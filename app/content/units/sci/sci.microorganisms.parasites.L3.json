@@ -1773,14 +1773,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 1897, in Secunderabad, what did Ronald Ross find?",
+   "p": "A scientist lets mosquitoes bite a person who has malaria. Days later he finds malaria parasites growing inside the mosquitoes. What does this show?",
    "opts": [
-    "Malaria parasites growing in the stomach of a mosquito",
-    "A medicine for malaria",
-    "That malaria spreads in water"
+    "Mosquitoes carry malaria from person to person",
+    "Mosquitoes cure malaria",
+    "Malaria spreads through water"
    ],
    "a": 0,
-   "why": "Ross let mosquitoes feed on a person with malaria, then cut them open and found the parasites growing in a mosquito's stomach. That showed mosquitoes carry malaria.",
+   "why": "The parasites grew inside the mosquitoes after they drank infected blood. When such a mosquito bites someone else, it can pass the parasites on. So stopping mosquitoes stops malaria spreading.",
    "outcome": 5
   }
  ],

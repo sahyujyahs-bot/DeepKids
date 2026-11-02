@@ -540,11 +540,11 @@
       },
       {
        "t": "mcq",
-       "p": "Henrietta Leavitt studied stars called Cepheids. What do they do?",
+       "p": "Some stars blink, getting brighter and dimmer again and again. The brighter such a star really is, the slower it blinks. How does this help astronomers?",
        "opts": [
-        "They blink, getting brighter and dimmer again and again",
-        "They stay exactly the same",
-        "They move across the sky every night"
+        "The blink tells how bright the star really is, so comparing with how bright it looks tells how far away it is",
+        "It shows the star is about to explode",
+        "It tells which way the star moves every night"
        ],
        "a": 0
       },
@@ -806,11 +806,11 @@
       },
       {
        "t": "mcq",
-       "p": "Penzias and Wilson, two scientists, heard a hiss in their antenna from every direction. They cleaned out the pigeon droppings. What happened?",
+       "p": "A faint hiss in a radio antenna comes from every direction in the sky. If you clean the antenna, what would you expect to happen?",
        "opts": [
-        "The hiss stopped",
-        "The hiss stayed, because it came from the sky",
-        "The pigeons made a louder hiss"
+        "The hiss stops",
+        "The hiss stays, because it comes from the sky",
+        "The hiss gets much louder"
        ],
        "a": 1
       }
@@ -1359,8 +1359,8 @@
    "a": "About 13.8 billion years ago, everything was packed close and very hot, and space has been growing and cooling ever since. It was not a bomb in one spot. Space grew everywhere at once."
   },
   {
-   "q": "What did Penzias and Wilson find, and how?",
-   "a": "They heard a hiss in their antenna from every direction. Even after cleaning out the pigeon droppings it stayed. It was the cosmic microwave background, the afterglow of the early universe."
+   "q": "A radio antenna picks up a faint hiss that comes from every direction, day and night. It stays even after the antenna is cleaned. What could it be, and why?",
+   "a": "It is not coming from the antenna or from anything nearby, because it stays after cleaning and comes from everywhere. It is the cosmic microwave background, the faint afterglow of the hot early universe, which fills all of space."
   },
   {
    "q": "Nobody can see dark matter. How do scientists know it is there?",

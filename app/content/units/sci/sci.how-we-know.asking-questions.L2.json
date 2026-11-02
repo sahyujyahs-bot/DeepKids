@@ -1371,26 +1371,26 @@
   },
   {
    "t": "mcq",
-   "p": "What did Edmond Halley predict in 1705?",
+   "p": "Comets were seen in 1531, 1607 and 1682. They all moved the same way across the sky, and came about 75 years apart. What is a good prediction?",
    "opts": [
-    "That a comet seen in 1682 would come back around 1758",
-    "That the Moon would fall",
-    "That it would rain in London"
+    "It is one comet coming back, so it will return about 75 years after 1682",
+    "The Moon will fall",
+    "It will rain tomorrow"
    ],
    "a": 0,
-   "why": "Halley saw that comets seen in 1531, 1607 and 1682 moved the same way, so he predicted it was one comet coming back.",
+   "why": "Same path and a steady gap of years suggest one comet coming back again and again. A good prediction uses the pattern, and then a test can check it.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Nicole-Reine Lepaute helped to predict the comet's return more exactly. How?",
+   "p": "A comet comes back about every 75 years. On its trip it passes near big planets like Jupiter and Saturn. Why might it come back a little later than expected?",
    "opts": [
-    "She worked out how the pull of Jupiter and Saturn would slow it down",
-    "She saw it first through a telescope",
-    "She guessed a date"
+    "The pull of the big planets can slow it down",
+    "It gets tired",
+    "Comets always come early"
    ],
    "a": 0,
-   "why": "Lepaute, Clairaut and Lalande spent months calculating how big planets would pull on the comet and delay it.",
+   "why": "Big planets pull on things that pass near them. Working out these pulls makes a prediction more exact.",
    "outcome": 5
   }
  ],
@@ -1564,7 +1564,7 @@
     },
     {
      "t": "write",
-     "p": "In the story Two Tumblers of Batter, Kiran mama says, 'Batter rises the same in the fridge.' Say how you could test this, and a grown-up writes it.",
+     "p": "Someone says, 'Batter rises the same in the fridge.' Say how you could test this, and a grown-up writes it.",
      "lines": 3,
      "a": "For example: put the same amount of batter in two tumblers, mark the top with a rubber band, put one in the fridge and one on a shelf, and look in the morning.",
      "why": "A strong answer uses two tumblers that are the same, changes only where they are kept, and says what to look at."
@@ -1588,14 +1588,14 @@
     },
     {
      "t": "mcq",
-     "p": "In 1835, Auguste Comte said nobody would ever find out what stars are made of. What happened?",
+     "p": "We can never visit a star. But each material gives out its own colours of light. How could we still find out what stars are made of?",
      "opts": [
-      "Scientists found out from the colours in starlight",
-      "He was right, and we still don't know anything",
-      "Someone brought back a piece of a star"
+      "By looking at the colours in starlight",
+      "We can never know anything about it",
+      "By bringing back a piece of a star"
      ],
      "a": 0,
-     "why": "Each material gives out its own colours of light. Cecilia Payne used starlight to show that stars are mostly hydrogen and helium."
+     "why": "Each material gives out its own pattern of colours. Matching the colours in starlight to these patterns shows that stars are mostly hydrogen and helium."
     },
     {
      "t": "fill",

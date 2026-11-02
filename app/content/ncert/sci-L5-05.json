@@ -430,12 +430,12 @@
         ]],
         ["B. Flag and national days", [
           {"t": "match", "p": "Match each part of the flag to what it stands for.", "pairs": [["Saffron", "Strength and courage"], ["White", "Peace and truth"], ["Ashoka Chakra", "Duty (dharma)"], ["Green", "Growth and prosperity"]]},
-          {"t": "fill", "p": "India became independent on 15 August ____.", "a": ["1947"]},
+          {"t": "fill", "p": "The book of rules that a country agrees to follow, which says how it is run and what rights its people have, is called the ____.", "a": ["Constitution"]},
           {"t": "mcq", "p": "Why do we celebrate 26 January as Republic Day?", "opts": ["India won a war that day", "India began to follow its Constitution on 26 January 1950", "It is Gandhi ji's birthday", "The flag was invented that day"], "a": 1}
         ]],
         ["C. National symbols", [
           {"t": "match", "p": "Match the national symbol.", "pairs": [["National animal", "Tiger"], ["National bird", "Peacock"], ["National emblem", "Three lions with the Ashoka Chakra"]]},
-          {"t": "fill", "p": "Today, wild Asiatic lions are found only in the ____ forests of Gujarat.", "a": ["Gir"]}
+          {"t": "fill", "p": "When all the wild animals of one kind live in just one area, a single disease could kill them all. Moving some of them to a ____ home would make them safer.", "a": ["second", "new", "another"]}
         ]]
       ]
     },
@@ -468,8 +468,8 @@
       "sections": [
         ["A. Puzzles", [
           {"t": "write", "p": "Why does a banknote have so many hidden features, like a watermark, a security thread and raised ink? What would happen to people's trust in money without them?", "lines": 3},
-          {"t": "mcq", "p": "The national emblem shows three lions, but the Lion Capital at Sarnath has more. How many lions does it really have?", "opts": ["Three", "Four, standing back to back", "Five", "Two"], "a": 1},
-          {"t": "fill", "p": "The ₹ symbol combines the Devanagari letter 'र' and the Roman letter ____.", "a": ["R"]}
+          {"t": "mcq", "p": "The national emblem shows three lions, but the stone carving it comes from has four lions standing back to back. Why does a picture of it show only three?", "opts": ["One lion is missing", "From any one side, the fourth lion is hidden behind the others", "One lion is very small", "The fourth lion is painted"], "a": 1},
+          {"t": "fill", "p": "A good symbol, like ₹ or a road sign, works because people can understand it ____ reading many words.", "a": ["without"]}
         ]],
         ["B. What if?", [
           {"t": "write", "p": "What if everyone in India spoke only one language? Write one thing that might become easier and two things that would be lost.", "lines": 4},
@@ -689,9 +689,9 @@
   ],
   "check": [
     {"q": "What do the colours and the chakra on our flag stand for?", "a": "Saffron for strength and courage, white for peace and truth, green for growth and prosperity, and the blue 24-spoked Ashoka Chakra for duty (dharma)."},
-    {"q": "What is the difference between Independence Day and Republic Day?", "a": "On 15 August 1947 India became free from British rule. On 26 January 1950 India began following its own Constitution and became a republic."},
+    {"q": "What is the difference between a country becoming free and a country starting to follow its own Constitution? Which of our national days remembers each?", "a": "Becoming free means another country no longer rules you. Following your own Constitution means rules the people agreed on decide how the country is run. India became free on 15 August 1947, remembered on Independence Day, and began following its Constitution on 26 January 1950, remembered on Republic Day."},
     {"q": "Name three things you can find on a currency note and one hidden security feature.", "a": "For example: the value in Hindi and English plus 15 more languages, a monument (like Konark on ₹10), Gandhi ji's portrait, the emblem, the ₹ symbol, the Swachh Bharat spectacles. Hidden features: watermark, security thread, raised print, colour-changing number, micro-lettering."},
-    {"q": "What is the National Emblem and where does it come from?", "a": "Three lions on a round platform with the Ashoka Chakra and the motto 'Satyameva Jayate', taken from Emperor Ashoka's Lion Capital at Sarnath."},
+    {"q": "Why does a country choose symbols like a national emblem and a flag? What can a symbol say about a country?", "a": "A symbol lets people see and share an idea quickly, without words, even if they speak different languages. It can show what the country is proud of and what it hopes to stand for, such as its long history, or a motto like 'Truth alone triumphs'."},
     {"q": "Why do scientists want some Gir lions moved to a second home?", "a": "All the world's wild Asiatic lions live in one area, so one disease or disaster could kill them all; a second population would make them safer. Gujarat has opposed it, so it is still debated."},
     {"q": "Why do Hindi and Bengali share many words while Tamil sounds different?", "a": "Hindi and Bengali belong to the Indo-Aryan family; Tamil belongs to the Dravidian family. Languages from the same family grew from the same older language."},
     {"q": "Why does the book say a forest is stronger than a garden?", "a": "A forest has many kinds of plants and animals that support each other and it looks after itself; a garden has few kinds and needs constant care. Experiments show diverse communities often survive droughts and pests better."},

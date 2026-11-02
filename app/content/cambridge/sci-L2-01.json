@@ -586,7 +586,7 @@
           {"t": "write", "p": "You find a big hole in the ground with fresh soil around it and footprints going in. Name two clues and say what animal might live there. How could you find out without disturbing it?", "lines": 4}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "Alfred Wegener said the continents move, but other scientists laughed because he could not explain what pushed them. Was it fair to doubt him? What evidence finally changed their minds?", "lines": 4},
+          {"t": "write", "p": "A scientist says the continents move, but others laugh because he cannot explain what pushes them. Was it fair to doubt him? What kind of evidence could change their minds?", "lines": 4},
           {"t": "write", "p": "The Chipko villagers wanted to keep their forests; the companies wanted wood to sell. Give one good reason on each side, then say what you would decide.", "lines": 4}
         ]]
       ]

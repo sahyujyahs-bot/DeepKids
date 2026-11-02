@@ -1343,15 +1343,15 @@
     },
     {
      "t": "mcq",
-     "p": "Mantis shrimps have 12 kinds of colour cells in their eyes. Humans have 3. What did scientists find in 2014?",
+     "p": "A mantis shrimp has 12 kinds of colour cells in its eyes. You have 3. How could scientists test whether it tells close colours apart better than you?",
      "opts": [
-      "Mantis shrimp were worse than us at telling close colours apart",
-      "Mantis shrimp see every colour much better than us",
-      "Mantis shrimp are colour-blind",
-      "Humans have 12 too"
+      "Train it to pick one colour for food, then show it two very close shades and see if it still picks right",
+      "Count its colour cells again",
+      "Look at the colours on its shell",
+      "Ask other scientists what they think"
      ],
      "a": 0,
-     "why": "Hanne Thoen and her team found that mantis shrimp seem to recognise colours quickly, but are poor at telling close shades apart. More colour cells does not always mean seeing more colours. Picking 'see every colour much better' is what most people guess."
+     "why": "A test of what the animal can do is better than a guess from its eyes. When scientists tested it this way, mantis shrimp were worse than us at close shades. More colour cells does not always mean seeing more colours."
     },
     {
      "t": "write",

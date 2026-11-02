@@ -1643,7 +1643,7 @@
   },
   {
    "t": "mcq",
-   "p": "Four players share a pond of 20 fish in the Shared Pond Test. Each one takes 5 fish in the first round. What happens?",
+   "p": "A pond has 20 fish. After each round, the fish left in the pond double, up to 20. Four players each take 5 fish in the first round. What happens?",
    "opts": [
     "The pond fills up again",
     "No fish are left, so the pond is empty for good",
@@ -1656,39 +1656,39 @@
   },
   {
    "t": "mcq",
-   "p": "In Revathi's family, the pond lasted in the talking game but ran out in the silent game. What made the difference?",
+   "p": "Two groups play the same fish-sharing game with the same pond. One group chooses in silence. The other talks first and agrees a rule. Which pond is more likely to last, and why?",
    "opts": [
-    "They used different chana",
-    "They talked and agreed a rule before choosing",
-    "They played fewer rounds"
+    "The silent group's, because nobody argues",
+    "The talking group's, because they agreed how much to leave",
+    "Both the same, because the fish are the same"
    ],
    "a": 1,
-   "why": "The fish, the players and the rounds were the same. Only the talking changed, so the talking and the rule made the difference.",
+   "why": "The fish, the players and the rounds are the same. Only the talking changes. Agreeing a rule lets everyone leave enough fish to breed.",
    "outcome": 4,
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "What did Elinor Ostrom find when she studied villages that share meadows, forests and water?",
+   "p": "A village has shared one forest for 300 years without using it up. What is the most likely reason?",
    "opts": [
-    "Shared things are always ruined",
-    "Many villages keep shared things for hundreds of years with their own rules",
-    "Only governments can look after shared things"
+    "Nobody ever took anything from the forest",
+    "The villagers made their own rules about how much each could take, and checked that the rules were kept",
+    "The forest grew faster every year by luck"
    ],
    "a": 1,
-   "why": "Ostrom found that many communities make their own rules, check them and keep their shared things for centuries. In 2009 she became the first woman to win the Nobel Prize in Economics.",
+   "why": "Shared things can last a very long time when the people who use them agree rules and check them. Scientists have found many villages like this around the world.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Garrett Hardin wrote in 1968 that shared things are always spoiled. Why did he think so?",
+   "p": "Some people say a shared pond will always be emptied. What reason do they give?",
    "opts": [
     "Because each person gets the whole gain from taking more, but shares the loss with everyone",
     "Because people do not like fish",
     "Because ponds dry up in summer"
    ],
    "a": 0,
-   "why": "Hardin said each user gets all the gain from taking more, but the harm is shared by all. So each keeps taking. Ostrom showed this is not always what happens.",
+   "why": "Each person gets all the gain from taking one more fish, but the loss is shared by everyone. So each keeps taking. Villages with good rules show this does not always happen.",
    "outcome": 5
   },
   {
@@ -1705,14 +1705,14 @@
   },
   {
    "t": "mcq",
-   "p": "Which of these did India's Constitution do, under Dr B.R. Ambedkar's lead?",
+   "p": "In India today, can a child grow up to do any job she chooses, even if her family has always done a different job?",
    "opts": [
-    "It said each person must do their family's work",
-    "It ended untouchability and gave every citizen the right to choose their work",
-    "It made all jobs pay the same"
+    "No, each person must do their family's work",
+    "Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law",
+    "Only if all jobs pay the same"
    ],
    "a": 1,
-   "why": "The Constitution came into force in 1950. It ended untouchability and gives every citizen the right to choose their profession. It did not make every job pay the same.",
+   "why": "India's Constitution gives every citizen the right to choose their work, and it ended untouchability. It did not make every job pay the same.",
    "outcome": 1
   }
  ],
@@ -1810,7 +1810,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of one round of the Shared Pond Test in order.",
+     "p": "In a pond-sharing game, each player secretly chooses how many fish to take, and the fish left over breed. Put one round in a sensible order.",
      "a": [
       "Each player writes a number in secret",
       "Open the slips together",
@@ -1828,7 +1828,7 @@
     },
     {
      "t": "count",
-     "p": "In one round of the Shared Pond Test in the story The Tank on the Roof, Amma takes 3 fish, Paati takes 2, Karthik takes 4 and Revathi takes 1. How many fish did they take in all?",
+     "p": "In a pond game with 20 fish, four players take 3, 2, 4 and 1 fish in one round. How many fish did they take in all?",
      "a": 10,
      "why": "3 + 2 + 4 + 1 = 10. A strong answer adds that 10 fish are left from 20, and 10 doubled is 20, so the pond stays full.",
      "how": "e1"
@@ -1933,9 +1933,9 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the story The Tank on the Roof, Revathi's building has 12 flats. Every flat says, \"I only take my share.\" Yet the tank is empty by afternoon. What is the most likely reason?",
+     "p": "A building has 12 flats sharing one water tank. Every flat says, \"I only take my share.\" Yet the tank is empty by afternoon. What is the most likely reason?",
      "a": 1,
-     "why": "Each flat's share seemed small to them, but all the shares added up to more than the tank holds. This is just what happened in the silent pond game.",
+     "why": "Each flat's share seemed small, but all the shares added up to more than the tank holds. This is just what happens in a silent pond game.",
      "opts": [
       "The lorry brought no water",
       "Each flat's share added up to more than the tank holds",
@@ -2046,13 +2046,13 @@
     },
     {
      "t": "mcq",
-     "p": "In the story The Tank on the Roof, Paati tells of her village near Kanchipuram, where farmers shared one rain tank, called an eri. Who opened the sluice so each field got water in turn?",
+     "p": "Long ago, farmers in a Tamil Nadu village shared one rain tank. A water keeper opened the gate so each field got water in turn. Why was this better than each farmer opening the gate whenever they liked?",
      "a": 0,
-     "why": "The neerkatti was the water keeper of a Tamil Nadu village tank. He opened the sluice for each field in turn, and the farmers paid him with a share of their harvest.",
+     "why": "Taking turns, with one person in charge, shares the water fairly and makes it last. If everyone opened the gate at once, the nearest fields would take most of it.",
      "opts": [
-      "The neerkatti, the village water keeper",
-      "The postman",
-      "Each farmer, whenever they liked"
+      "The far fields still got water, and the tank did not empty in one day",
+      "The water keeper wanted to stay busy",
+      "Water flows faster when one person opens the gate"
      ]
     },
     {
@@ -2192,9 +2192,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Elinor Ostrom showed that shared things never get used up.",
+     "p": "Shared things, like a village pond, are never used up, whatever people do.",
      "a": false,
-     "why": "False. She showed that many communities keep shared things for a long time with good rules. Without good rules, shared things are often used up, as Hardin warned."
+     "why": "False. With good rules that people agree and check, shared things can last a long time. Without good rules, they are often used up."
     },
     {
      "t": "mcq",
@@ -2290,12 +2290,14 @@
     },
     {
      "t": "fill",
-     "p": "In 2009, ____ became the first woman to win the Nobel Prize in Economics, for her work on how people share things.",
+     "p": "When a group shares a pond, a rule works best when the people who use it ____ it together, and someone checks it.",
      "a": [
-      "Elinor Ostrom",
-      "Ostrom"
+      "agree",
+      "make",
+      "decide",
+      "make up"
      ],
-     "why": "Elinor Ostrom studied shared meadows, forests and water around the world."
+     "why": "People keep a rule they helped to make, and checking shows whether everyone keeps it."
     },
     {
      "t": "mcq",
@@ -2310,8 +2312,8 @@
     },
     {
      "t": "write",
-     "p": "In the story The Tank on the Roof, Revathi's family talked before the second pond game. What else, besides talking, helped the pond last?",
-     "a": "For example: Paati counted the bowl after every round, so everyone could see whether the rule was kept. Everyone also knew the number to leave, which was 10.",
+     "p": "Two families played the same pond game. Both talked first, but one family's pond still ran out. Besides talking, what else helps a shared pond last?",
+     "a": "For example: a clear limit everyone knows, such as 'leave 10 fish', and someone who counts after every round, so everyone can see whether the rule was kept.",
      "why": "A strong answer names something more than talk: a clear limit, a person who checks, or a way to see the pond.",
      "lines": 4,
      "how": "e1"

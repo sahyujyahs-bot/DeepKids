@@ -1642,26 +1642,26 @@
   },
   {
    "t": "mcq",
-   "p": "Brahmagupta wrote the first rules for zero. When and where did he live?",
+   "p": "Zero is a number with its own rules. Which rule is right?",
    "opts": [
-    "In India, about 1,400 years ago",
-    "In Italy, about 800 years ago",
-    "In Egypt, about 4,000 years ago"
+    "5 × 0 = 0",
+    "5 × 0 = 5",
+    "5 × 0 = 50"
    ],
    "a": 0,
-   "why": "Brahmagupta wrote his book in 628, in Bhillamala, now Bhinmal in Rajasthan. Italy is where Fibonacci taught the Indian digits, about 800 years ago.",
+   "why": "5 × 0 means five groups of nothing, which is nothing. Treating zero as a number with rules lets us calculate with it like any other number.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "The word 'zero' travelled with the idea. Which word did it start from?",
+   "p": "The Sanskrit word for zero, shunya, means 'empty'. Why is 'empty' a good name for zero?",
    "opts": [
-    "Shunya, Sanskrit for empty",
-    "Zebra",
-    "Circle"
+    "Zero is how many things are on an empty plate",
+    "Zero is a very big number",
+    "Zero is the shape of a circle"
    ],
    "a": 0,
-   "why": "Shunya became sifr in Arabic, zephirum in Latin, and then zero.",
+   "why": "Zero is the number for none, like the dosas on an empty plate. The round shape of 0 is only how we write it.",
    "outcome": 5
   },
   {
@@ -1916,14 +1916,14 @@
     },
     {
      "t": "mcq",
-     "p": "The Maya of Central America drew a sign for zero more than 1,500 years ago. What does this tell us?",
+     "p": "People in places far apart, who never met, each made their own sign for an empty place in a number. What does this tell us?",
      "opts": [
-      "More than one people found the idea of an empty place",
-      "Zero was invented in India after the Maya",
-      "The Maya zero was a number with rules, just like Brahmagupta's"
+      "Anyone who writes big numbers in places soon needs a sign for an empty place",
+      "They must have copied each other",
+      "A zero sign is only useful in one country"
      ],
      "a": 0,
-     "why": "The Maya made their own sign for an empty place, as Babylon did. India was the first to make zero a number with rules."
+     "why": "When digits get their value from their place, an empty place needs a mark, or numbers get mixed up. So different peoples found the same need on their own."
     },
     {
      "t": "truefalse",
@@ -2007,11 +2007,12 @@
     },
     {
      "t": "fill",
-     "p": "Shunya became ____ in Arabic, which also means empty.",
+     "p": "Zero is the number for ____: an empty plate has zero dosas.",
      "a": [
-      "sifr"
+      "none",
+      "nothing"
      ],
-     "why": "Sifr then became zephirum in Latin, and later zero. The English word 'cipher' also comes from sifr."
+     "why": "Zero is a real answer to 'how many?'. It means none."
     },
     {
      "t": "draw",
@@ -2035,27 +2036,27 @@
     },
     {
      "t": "match",
-     "p": "Match each person or thing to what it did for zero.",
+     "p": "Match each 0 to the job it is doing.",
      "pairs": [
       [
-       "Brahmagupta",
-       "wrote the first rules for calculating with zero, in 628"
+       "the 0 in 205",
+       "holds the empty tens place"
       ],
       [
-       "The Gwalior temple stone",
-       "shows a round 0 in the number 270, carved in 876"
+       "the 0 in 250",
+       "holds the empty ones place"
       ],
       [
-       "Al-Khwarizmi",
-       "wrote in Baghdad about calculating with Indian digits"
+       "0 mm on a rain gauge",
+       "says no rain fell"
       ],
       [
-       "Fibonacci",
-       "taught the Indian digits to Europe in 1202"
+       "the 0 mark on a ruler",
+       "shows where measuring starts"
       ]
      ],
      "a": "pairs as given",
-     "why": "Together they show zero's journey from India across the world."
+     "why": "A 0 can hold an empty place, say how many (none), or mark a starting point."
     },
     {
      "t": "truefalse",
@@ -2118,9 +2119,9 @@
        "says": "India gave the world zero as a number with rules. That is something different."
       }
      ],
-     "ask": "Who do you think is most right? Use dates and facts from this unit. Then say what each of the others has right.",
+     "ask": "Who do you think is most right? Use what you know about a sign for an empty place and a number with rules. Then say what each of the others has right.",
      "lines": 6,
-     "a": "A strong answer sees that all three have part of it. Babylon and the Maya made signs for an empty place. India, with Brahmagupta in 628, made zero a number with its own rules, inside the ten-digit system the world uses. So the grandmother's view fits the facts best, but Bina is right that our zero came from India, and the aunt is right that others found the idea too.",
+     "a": "A strong answer sees that all three have part of it. A sign for an empty place was made in more than one place. Treating zero as a number with its own rules, inside the ten-digit system the world uses, is something different. So the grandmother's view fits best, but Bina is right that our zero came from India, and the aunt is right that others found the idea too.",
      "why": "This is a real argument among historians. The answer depends on what 'inventing zero' means: a sign for an empty place, or a number with rules."
     },
     {
@@ -2132,15 +2133,15 @@
     },
     {
      "t": "mcq",
-     "p": "Honeybees were trained to pick the card with fewer shapes. Then they were shown a blank card and a card with one shape. What did they do?",
+     "p": "Bees learn to pick the card with fewer shapes. Then they are shown a blank card and a card with one shape. If they pick the blank card, what might that tell us?",
      "opts": [
-      "They picked the blank card, as if none is less than one",
-      "They ignored the blank card",
-      "They always picked the card with one shape",
-      "They flew away"
+      "They may treat none as less than one",
+      "They cannot see blank cards",
+      "They always like one shape best",
+      "They were not hungry"
      ],
      "a": 0,
-     "why": "In the 2018 test in Melbourne, the bees put the blank card below one. Scientists still argue whether this means the bees understand zero, or just 'less'."
+     "why": "Picking the blank card as 'fewer' would mean they put none below one. Scientists still argue whether that means bees understand zero, or just 'less'."
     },
     {
      "t": "write",
@@ -2183,11 +2184,11 @@
     },
     {
      "t": "fill",
-     "p": "The Gwalior stone, carved in the year ____, shows a round zero in the number 270.",
+     "p": "In the number 270, the 0 holds the empty ____ place.",
      "a": [
-      "876"
+      "ones"
      ],
-     "why": "It is the oldest zero in India whose date everyone agrees on."
+     "why": "270 is 2 hundreds, 7 tens and no ones. Without the 0, it would read 27."
     },
     {
      "t": "write",

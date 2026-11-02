@@ -1770,14 +1770,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Hidden Colours test, which colours came out of a fresh green leaf?",
+   "p": "You crush a fresh green leaf and let its colours climb up a paper strip. Which colours would you expect to see?",
    "opts": [
     "Green and yellow",
     "Only green",
     "Red and blue"
    ],
    "a": 0,
-   "why": "The green leaf made a green band and a yellow band. The yellow was in the leaf all along, hidden under the green.",
+   "why": "A green leaf gives a green band and a yellow band. The yellow is in the leaf all along, hidden under the green. When the green fades, the yellow shows.",
    "outcome": 3,
    "how": "e1"
   },
@@ -1831,26 +1831,26 @@
   },
   {
    "t": "mcq",
-   "p": "Pongal, in Tamil Nadu, celebrates what?",
+   "p": "Pongal, Lohri and Magh Bihu all come in mid-January. What do farmers in many parts of India have to celebrate at that time?",
    "opts": [
-    "The rice harvest in January",
+    "The new harvest, such as rice",
     "The first rain of the monsoon",
     "The hottest day of summer"
    ],
    "a": 0,
-   "why": "Pongal, in mid-January, celebrates the harvest. The Pongal dish is cooked with the new rice.",
+   "why": "Crops sown in the rainy months are ready to cut by winter. Harvest festivals come when the new crop is in. The Pongal dish is cooked with the new rice.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "What did Garner and Allard find out about plants?",
+   "p": "A gardener puts one plant in a dark box every afternoon, so it gets short days. The same kind of plant left outside does not flower yet, but the boxed plant flowers. What does this show?",
    "opts": [
     "Many plants use the length of the day and night to know when to flower",
     "Plants flower only when they are very big",
     "Plants flower only in the rain"
    ],
    "a": 0,
-   "why": "They gave tobacco plants short days by putting them in a dark hut each afternoon. The plants flowered in summer. So day length, and really night length, tells many plants the season.",
+   "why": "Only the length of light and dark was changed, and the flowering changed. So day length, and really night length, tells many plants the season.",
    "outcome": 6
   },
   {

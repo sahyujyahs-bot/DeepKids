@@ -1578,7 +1578,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, the posters said sparrows only eat rice. What did Lan see that the posters missed?",
+     "p": "Posters once told people that sparrows only eat rice, so the sparrows were chased away until most died. The next year, insects ate far more of the rice. What had the posters missed?",
      "opts": [
       "Sparrows eat only grass",
       "Sparrows also eat caterpillars and other insects that eat rice",
@@ -1586,8 +1586,8 @@
       "Sparrows eat cats"
      ],
      "a": 1,
-     "why": "Lan saw sparrows carrying caterpillars to their chicks. So sparrows are part of a web. They eat some rice, but they also eat the insects that eat rice. Picking 'only grass' does not match what Lan saw.",
-     "context": "In this unit's story, a girl called Lan lives in a Chinese village in 1958. Everyone is told that sparrows are pests that eat the rice, and they are chased until they die."
+     "why": "Sparrows feed caterpillars and other insects to their chicks. So sparrows are part of a web. They eat some rice, but they also eat the insects that eat rice. Take the sparrows away, and the insects eat in peace.",
+     "context": "Sparrows eat some grain, but they also catch insects to feed their chicks."
     },
     {
      "t": "sort",
@@ -1679,16 +1679,16 @@
     },
     {
      "t": "mcq",
-     "p": "Robert Paine kept taking starfish off one stretch of rocky shore. What happened?",
+     "p": "On a rocky shore, starfish eat mussels. What would you expect to happen if you kept taking all the starfish away?",
      "opts": [
-      "The shore had more kinds of living things than before",
-      "Nothing changed",
-      "The starfish grew back the next day",
-      "Mussels took over, and the number of kinds of living things fell from 15 to 8"
+      "The shore would have more kinds of living things than before",
+      "Nothing would change",
+      "The starfish would grow back the next day",
+      "Mussels would take over the rocks, and fewer kinds of living things could live there"
      ],
      "a": 3,
-     "why": "Starfish eat mussels. Without them, mussels covered the rocks and crowded out other living things. Picking 'more kinds' is a natural guess, since one predator was gone. But that predator kept the mussels from taking over.",
-     "context": "Robert Paine was an American ecologist. From 1963 he tested what happens when one animal is taken out of a rocky shore."
+     "why": "Without starfish, nothing keeps the mussels in check. They cover the rocks and crowd out other living things. Picking 'more kinds' is a natural guess, since one predator is gone. But that predator kept the mussels from taking over.",
+     "context": "Starfish are hunters on rocky shores. Mussels are shellfish that cling to the rocks and crowd together."
     },
     {
      "t": "match",

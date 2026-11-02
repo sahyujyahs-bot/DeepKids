@@ -361,7 +361,7 @@
       "sections": [
         ["A. Puzzles", [
           {"t": "write", "p": "Sugar did not turn blue-black with iodine, yet sugar is a carbohydrate. How can both be true?", "lines": 2},
-          {"t": "write", "p": "People in very cold places like Ladakh often eat more butter and fat. Use the book to explain why fat helps them.", "lines": 2},
+          {"t": "write", "p": "People in very cold places like Ladakh often eat more butter and fat. Explain why fat helps them.", "lines": 2},
           {"t": "mcq", "p": "Why did the government choose salt, and not, say, mangoes, to carry iodine to everyone?", "opts": ["Salt is sweet", "Almost every family uses a little salt every day all year", "Mangoes have too much iodine", "Salt is grown on trees"], "a": 1}
         ]],
         ["B. Fair tests", [

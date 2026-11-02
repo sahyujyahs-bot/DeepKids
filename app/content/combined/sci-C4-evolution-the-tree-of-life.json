@@ -543,7 +543,7 @@
       },
       {
        "t": "write",
-       "p": "In the story, Murugan's rice plants were all the same and all died in the salt water. Chellamma's red rice plants were all a little different, and a few lived. Why did the differences matter?",
+       "p": "One farmer's rice plants were all exactly the same, and all died when salt water flooded the field. Another farmer's red rice plants were all a little different, and a few lived. Why did the differences matter?",
        "lines": 3,
        "a": "A strong answer says that when the field changed, plants that were all the same had the same weakness, but among plants that varied, a few happened to stand the salt. Without variation there is nothing for selection to keep."
       }
@@ -1329,16 +1329,16 @@
    "a": "Fossils in rock layers, such as Tiktaalik between fish and four-legged animals. The same bones in a human arm, a bat wing and a whale flipper. DNA comparisons, where closer relatives have fewer differences."
   },
   {
-   "q": "Put these in order, oldest first: animals in the sea, first life, the end of the big dinosaurs, Tiktaalik, many-celled red algae.",
-   "a": "First life (at least 3.5 billion years ago), many-celled red algae (about 1.6 billion), animals in the sea (about 600 million), Tiktaalik (375 million), the end of the big dinosaurs (66 million)."
+   "q": "Put these in order, oldest first, and say why the order makes sense: fish-like animals with legs, first life, many-celled living things, the big dinosaurs.",
+   "a": "First life (single cells), then many-celled living things, then fish-like animals with legs, then the big dinosaurs. Simple bodies came before complex ones, and animals moved from water onto land before big land animals like dinosaurs could appear."
   },
   {
-   "q": "How did one kind of shortwing bird become two species in the Western Ghats?",
-   "a": "The birds on the two sides of the Palghat Gap could not cross it, so the two groups were kept apart for a very long time. Each group gathered its own mutations and was shaped by its own surroundings, until they became two species: the Nilgiri sholakili and the white-bellied sholakili."
+   "q": "Some birds live on two sides of a wide gap in the hills that they cannot cross. How could one kind of bird become two species over a very long time?",
+   "a": "The two groups are kept apart, so they cannot mix. Each group gathers its own mutations and is shaped by its own surroundings. After a very long time they are so different that they become two species."
   },
   {
-   "q": "What did Lynn Margulis argue about mitochondria, which later evidence showed was right?",
-   "a": "That they were once free-living bacteria that came to live inside a bigger cell as partners. They still have their own DNA, like bacteria."
+   "q": "Mitochondria, the tiny power parts inside our cells, have their own DNA, like bacteria. What does this clue suggest about where they came from?",
+   "a": "That they were once free-living bacteria that came to live inside a bigger cell as partners, and stayed. Their own bacteria-like DNA is left over from that time."
   },
   {
    "q": "How is evolution happening today in hospitals?",

@@ -1422,20 +1422,20 @@
     },
     {
      "t": "order",
-     "p": "Put the Spoon Test in order.",
+     "p": "You want to find out which spoon can still stir curd after sitting in water. Put the steps in order.",
      "items": [
       "Try to stir curd with each spoon",
       "Make a newspaper spoon and a card spoon",
       "Leave the spoons in water for three minutes",
-      "Carry five scoops of water with each spoon"
+      "Guess which spoon will still stir, and say why"
      ],
      "a": [
       "Make a newspaper spoon and a card spoon",
-      "Carry five scoops of water with each spoon",
+      "Guess which spoon will still stir, and say why",
       "Leave the spoons in water for three minutes",
       "Try to stir curd with each spoon"
      ],
-     "why": "First we make the spoons. Then we carry water. Then the spoons sit in water. Last, we see which one can still stir.",
+     "why": "You need the spoons first. The guess comes before the test. Then the spoons get wet, and stirring shows which one stayed stiff.",
      "how": "e1"
     },
     {

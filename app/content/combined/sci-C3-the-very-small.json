@@ -792,11 +792,12 @@
       },
       {
        "t": "fill",
-       "p": "In the story, Bibha Chowdhuri caught the tracks of tiny particles from the sky on ____ plates.",
+       "p": "Tiny particles from the sky are far too small to see. But when they pass through a special photographic plate, each one leaves a ____ that scientists can look at.",
        "a": [
-        "photographic",
-        "photograph",
-        "glass"
+        "track",
+        "trail",
+        "line",
+        "mark"
        ]
       }
      ]
@@ -1236,8 +1237,8 @@
    "a": "Protons have a plus charge. Neutrons have no charge. Both are in the nucleus. Electrons have a minus charge and are found around the nucleus."
   },
   {
-   "q": "How did scientists find out that an atom is almost all empty space?",
-   "a": "In 1909, Geiger and Marsden fired tiny particles at thin metal. Almost all went straight through, and about 1 in 8,000 bounced back. So each atom has a tiny, heavy centre with almost nothing around it, like the battery under the card."
+   "q": "How could scientists find out that an atom is almost all empty space, without seeing inside it?",
+   "a": "Fire lots of tiny particles at very thin metal and see where they go. If almost all go straight through and only a very few bounce back, each atom must be mostly empty, with a tiny, heavy centre, like a battery hidden under a card."
   },
   {
    "q": "Why do scientists draw an electron as a cloud, not as a track?",

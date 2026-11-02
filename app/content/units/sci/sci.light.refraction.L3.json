@@ -1191,14 +1191,14 @@
     },
     {
      "t": "mcq",
-     "p": "In 1919, during a total eclipse of the Sun, astronomers photographed stars that were close to the darkened Sun in the sky. What did they find?",
+     "p": "Light from a far star passes very close to the Sun on its way to us. Suppose the Sun's gravity bends that light a little. Where would the star seem to be?",
      "opts": [
-      "The stars were exactly where they always are",
-      "The stars looked slightly out of place, because the Sun's gravity bent their light",
-      "The stars had disappeared"
+      "Exactly where it always is",
+      "Slightly out of its usual place",
+      "It would disappear"
      ],
      "a": 1,
-     "why": "Albert Einstein had predicted in 1915 that gravity bends the path of light. The photos showed the stars shifted by about the amount he predicted. This is not refraction through a material. It is gravity bending light."
+     "why": "Our eyes follow light back in a straight line. If the light bent on the way, the star seems to be in a slightly different place. Photos during a total eclipse in 1919 showed exactly this. It is not refraction through a material. It is gravity bending light."
     },
     {
      "t": "fill",

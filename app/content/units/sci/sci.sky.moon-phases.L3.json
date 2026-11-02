@@ -2926,7 +2926,7 @@
   },
   {
    "t": "mcq",
-   "p": "In 499 CE, the Indian astronomer Aryabhata wrote that an eclipse is caused by what?",
+   "p": "What really causes an eclipse?",
    "opts": [
     "A shadow",
     "A demon swallowing the Sun or Moon",
@@ -2934,11 +2934,11 @@
    ],
    "a": 0,
    "outcome": 6,
-   "why": "Aryabhata wrote in the Aryabhatiya that in a solar eclipse the Moon covers the Sun, and in a lunar eclipse the Earth's shadow covers the Moon. The demon was Rahu, from an old story."
+   "why": "In a solar eclipse the Moon covers the Sun. In a lunar eclipse the Earth's shadow covers the Moon. Aryabhata wrote this in India in 499 CE. The demon Rahu comes from an old story."
   },
   {
    "t": "mcq",
-   "p": "Wang Zhenyi explained lunar eclipses with a model. What did she use for the Earth?",
+   "p": "You want to show a lunar eclipse with a lamp, a round table and a small mirror. Which one should be the Earth?",
    "opts": [
     "A round table",
     "A mirror",
@@ -2946,7 +2946,7 @@
    ],
    "a": 0,
    "outcome": 6,
-   "why": "The round table was the Earth, the lamp was the Sun and the mirror was the Moon. The table's round shadow fell on the mirror, as the Earth's shadow falls on the Moon."
+   "why": "The lamp is the Sun and the mirror is the Moon. The round table must be the Earth, because its round shadow falls on the mirror, as the Earth's shadow falls on the Moon. Wang Zhenyi used this model in China."
   },
   {
    "t": "mcq",

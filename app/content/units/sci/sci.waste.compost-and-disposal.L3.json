@@ -2092,10 +2092,10 @@
     },
     {
      "t": "write",
-     "p": "Your friend says, 'This bag says biodegradable, so it will rot in the landfill in a few weeks.' Using what Rathje's team found, what would you tell your friend?",
+     "p": "In a landfill, rubbish is pressed down tight, with almost no air. Your friend says, 'This bag says biodegradable, so it will rot in the landfill in a few weeks.' What would you tell your friend?",
      "lines": 4,
-     "a": "In a landfill, garbage is pressed down with almost no air. Even newspapers and food barely rotted there for decades. So a bag that might rot in a compost heap may last for years in a landfill.",
-     "why": "A strong answer uses evidence (the landfill digs) and the reason (no air) to question the label."
+     "a": "Microbes that make things rot quickly need air. In a landfill there is almost no air, so even paper and food rot very slowly there. A bag that might rot in a compost heap may last for years in a landfill.",
+     "why": "A strong answer uses the reason (no air means slow rotting) to question the label."
     },
     {
      "t": "order",

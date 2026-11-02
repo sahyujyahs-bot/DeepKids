@@ -602,13 +602,13 @@
       },
       {
        "t": "mcq",
-       "p": "Scientists worked out a Greenland shark's age by testing…",
+       "p": "The centre of an animal's eye lens forms before it is born and never changes after. Why could testing it help work out the age of a very old shark?",
        "opts": [
-        "the shark's teeth",
-        "the centre of the eye lens, which formed before the shark was born",
-        "the colour of the skin"
+        "it keeps a record from when the shark was born",
+        "it changes colour every year",
+        "it grows a new layer every day"
        ],
-       "a": 1
+       "a": 0
       },
       {
        "t": "match",

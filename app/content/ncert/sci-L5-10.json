@@ -431,8 +431,8 @@
       "day": 4,
       "sections": [
         ["A. The blue planet", [
-          {"t": "fill", "p": "The first Indian to reach the International Space Station was Group Captain Shubhanshu ____.", "a": ["Shukla"]},
-          {"t": "fill", "p": "Wing Commander Rakesh ____ was the first Indian in space.", "a": ["Sharma"]},
+          {"t": "fill", "p": "From space, you cannot see the ____ that people draw between countries on maps.", "a": ["borders", "lines"]},
+          {"t": "fill", "p": "Astronauts must carry their own ____ to breathe, because there is none in space.", "a": ["air", "oxygen"]},
           {"t": "mcq", "p": "Are all the oceans on Earth connected to each other?", "opts": ["Yes, they are all joined", "No, each is separate", "Only the Indian and Pacific Oceans", "Only in the monsoon"], "a": 0},
           {"t": "write", "p": "What does 'nature has no boundaries' mean? Give one example.", "lines": 2}
         ]],
@@ -678,7 +678,7 @@
     {"q": "Why did astronaut Shubhanshu Shukla say no borders exist when he saw the Earth from space?", "a": "From space the Earth looks like one whole; borders are lines people draw on maps and cannot be seen. We are all part of one humanity living on one Earth."},
     {"q": "What does 'nature has no boundaries' mean? Give two examples.", "a": "Air, water, clouds, seeds and animals move freely across countries. For example rosy starlings fly from Russia and Mongolia to India; rivers like the Brahmaputra flow through several countries; dust and smoke drift in the wind."},
     {"q": "How do rosy starlings help Indian farmers?", "a": "They come to India in winter and eat locusts and grasshoppers, which are pests on crops."},
-    {"q": "Where did chillies come from, and who brought them to India?", "a": "From South America; Portuguese travellers brought them about 400–500 years ago. Before that, Indian food was spiced with black pepper."},
+    {"q": "Chillies first grew in South America, but now they are in almost every Indian kitchen. How do foods and plants travel from one part of the world to another?", "a": "People carry seeds and plants with them when they travel and trade. If the plants grow well in the new place, they become part of the food there."},
     {"q": "Name two things that went from India to the world and two that came to India.", "a": "Went from India: sugar-making, yoga, rice, mangoes, bananas, black pepper, Gir cows, indigo, zero. Came to India: chilli, potato, tomato, peanut, cashew, marigold, paper (from China)."},
     {"q": "Why did the ice under the glass jar melt faster? How is the Earth's air like the jar?", "a": "Sunlight came in through the glass but the warmth could not escape easily, so it got hotter inside. Gases in the Earth's air, like carbon dioxide, trap heat in a similar way, and burning fuels adds more, warming the whole planet."},
     {"q": "How did our sock walk show that seeds travel?", "a": "Seeds stuck to the sock and grew into seedlings in the tray, showing that seeds hitch rides on clothes and animal fur and can grow in new places."},

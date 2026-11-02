@@ -800,7 +800,11 @@
      "items": [
       {
        "f": "A butterfly",
-       "b": "Two halves. Her left wings match her right wings."
+       "b": "Two halves. Her left wings match her right wings.",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g2-0-00.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A chappal",
@@ -816,7 +820,11 @@
       },
       {
        "f": "A hibiscus flower",
-       "b": "Two halves. Several lines work."
+       "b": "Two halves. Several lines work.",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g2-0-04.jpg",
+        "credit": "Jean-Paul Boerekamps, CC0, via iNaturalist"
+       }
       },
       {
        "f": "The letter A",
@@ -832,7 +840,11 @@
       },
       {
        "f": "A curry leaf",
-       "b": "Nearly two halves, one on each side of the middle vein."
+       "b": "Nearly two halves, one on each side of the middle vein.",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g2-0-08.jpg",
+        "credit": "Aruna Gamuz, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A door key",

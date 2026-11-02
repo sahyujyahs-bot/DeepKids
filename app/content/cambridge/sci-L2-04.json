@@ -556,7 +556,7 @@
         ["B. Growing", [
           {"t": "match", "p": "Match each adult to its young.", "pairs": [["cow", "calf"], ["hen", "chick"], ["tiger", "cub"], ["goat", "kid"], ["frog", "tadpole"]]},
           {"t": "table", "p": "Sofia measured people with bottles. Fill in her results from page 99.", "cols": ["Person", "Number of bottles tall"], "rows": 3, "prefill": ["Toddler aged 5", "Child aged 10", "Adult aged 30"]},
-          {"t": "mcq", "p": "What is the pattern in Sofia's results?", "opts": ["Older people were taller", "Younger people were taller", "Everyone was the same height", "There is no pattern"], "a": 0}
+          {"t": "mcq", "p": "A girl measures children of different ages: a 2-year-old is 85 cm, a 6-year-old is 115 cm, a 9-year-old is 132 cm and a 12-year-old is 150 cm. What is the pattern?", "opts": ["Older people were taller", "Younger people were taller", "Everyone was the same height", "There is no pattern"], "a": 0}
         ]],
         ["C. Inheriting", [
           {"t": "fill", "p": "Young animals get characteristics from their parents. We say they ____ them.", "a": ["inherit"]},
@@ -601,7 +601,7 @@
           {"t": "write", "p": "In the egg shell test, why did we put one shell in plain water as well as one in the sugary drink?", "lines": 3}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "Many doctors laughed at Semmelweis for saying doctors should wash their hands. What evidence did he have? Why do you think people still did not believe him?", "lines": 4},
+          {"t": "write", "p": "Long ago, a doctor saw that far more mothers died in a ward where doctors came straight from other work without washing their hands. When he made them wash, fewer died. Yet many doctors laughed at him. Why do you think they still did not believe him?", "lines": 4},
           {"t": "write", "p": "Your book says some people can roll their tongues and some cannot. Scientists once said this was simply inherited, but then found identical twins who were different. What would you need to see to believe a characteristic is inherited?", "lines": 4}
         ]]
       ]

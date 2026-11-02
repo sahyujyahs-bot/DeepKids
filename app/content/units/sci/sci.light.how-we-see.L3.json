@@ -1416,7 +1416,7 @@
     },
     {
      "t": "draw",
-     "p": "In the story The Lamp-Seller's Daughter, the scholar Ibn al-Haytham, who lived in Cairo, makes a small hole in the shutter of a dark room. A donkey stands outside in the sunlight. Draw the room, the hole and the donkey. Draw arrows to show how the picture of the donkey got onto the wall.",
+     "p": "A scholar makes a small hole in the shutter of a dark room. A donkey stands outside in the sunlight. Draw the room, the hole and the donkey. Draw arrows to show how the picture of the donkey got onto the wall.",
      "a": "An arrow from the Sun to the donkey, then arrows from the donkey, through the hole, to the wall.",
      "why": "Light from the Sun bounced off the donkey. Some of it came through the hole and landed on the wall. A strong drawing has every arrow pointing away from the Sun and towards the wall.",
      "art": "An outline of a dark room with a small hole, and a donkey in a sunny street outside."
@@ -2907,14 +2907,14 @@
   },
   {
    "t": "mcq",
-   "p": "Who showed, about a thousand years ago in Cairo, that light comes into the eye?",
+   "p": "A scholar makes a tiny hole in the shutter of a dark room. An upside-down picture of the sunny street outside appears on the wall. What does this show?",
    "opts": [
-    "Ibn al-Haytham",
-    "Isaac Newton",
-    "Aristotle"
+    "Light travels from things outside into the room, in straight lines",
+    "Our eyes send out rays to see",
+    "The wall makes its own light"
    ],
    "a": 0,
-   "why": "Ibn al-Haytham wrote the Book of Optics in Cairo. Isaac Newton was born more than 600 years later. Aristotle lived about 1,300 years earlier. He thought something passes from things to the eye, but he did not test it the way Ibn al-Haytham did.",
+   "why": "Light from the bright street comes in through the hole in straight lines and lands on the wall. The same thing happens in our eyes: light comes in, our eyes do not send it out. A scholar in Cairo tested this about a thousand years ago.",
    "outcome": 5
   },
   {

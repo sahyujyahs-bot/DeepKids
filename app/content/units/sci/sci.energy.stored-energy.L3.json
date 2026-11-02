@@ -1852,14 +1852,14 @@
   },
   {
    "t": "mcq",
-   "p": "Robert Mayer said that the warmth and movement of a body come from what?",
+   "p": "After you run, you feel warm and you are soon hungry. Where does the energy for your warmth and movement come from?",
    "opts": [
     "A special life force",
-    "The energy stored in food",
-    "The heat of the Sun on the skin"
+    "The energy stored in the food you ate",
+    "The heat of the Sun on your skin"
    ],
    "a": 1,
-   "why": "Mayer said a body's warmth and work come from the energy in food. Rubner's measurements with dogs later showed this. The 'life force' was the old idea he argued against.",
+   "why": "Your body slowly uses the energy stored in food to keep warm and to move. That is why you get hungry after hard work. Picking the Sun on your skin forgets that you stay warm at night too.",
    "outcome": 6
   }
  ],
@@ -1994,9 +1994,9 @@
     },
     {
      "t": "write",
-     "p": "Remember Ammamma's clock in the story, which stopped while she was away. Why did the clock stop, and what made it start again?",
+     "p": "A wind-up clock stops while the family is away for two weeks. Nothing is broken. Why did it stop, and what will make it start again?",
      "lines": 3,
-     "a": "The clock stopped because nobody wound it, so its spring had let out all its stored energy. Ammamma wound the key, which coiled the spring tight and stored energy in it again.",
+     "a": "The clock stopped because nobody wound it, so its spring had let out all its stored energy. Winding the key coils the spring tight and stores energy in it again.",
      "why": "A strong answer says nothing was broken: the store was empty, and winding filled it."
     },
     {
@@ -2024,15 +2024,15 @@
     },
     {
      "t": "order",
-     "p": "Put these in the order they happen when Ammamma's clock runs.",
+     "p": "Put these in the order they happen when a wind-up clock runs.",
      "items": [
       "The spring slowly unwinds, one tick at a time",
-      "Ammamma turns the key",
+      "Someone turns the key",
       "The spring is coiled tight, with energy waiting",
       "After eight days the spring has no energy left"
      ],
      "a": [
-      "Ammamma turns the key",
+      "Someone turns the key",
       "The spring is coiled tight, with energy waiting",
       "The spring slowly unwinds, one tick at a time",
       "After eight days the spring has no energy left"
@@ -2150,7 +2150,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Three Holes test, which jet of water shot out hardest?",
+     "p": "A tall bottle full of water has three holes: one near the top, one in the middle and one near the bottom. Which jet of water shoots out hardest?",
      "opts": [
       "The top hole",
       "The middle hole",
@@ -2162,7 +2162,7 @@
     },
     {
      "t": "truefalse",
-     "p": "As the bottle in the Three Holes test emptied, all three jets got weaker.",
+     "p": "A tall bottle full of water has three holes, one above the other. As the bottle empties, all three jets get weaker.",
      "a": true,
      "why": "True. As the water level fell, every hole had less water above it, so every jet slowed. The top jet stopped first.",
      "how": "a4"
@@ -2300,7 +2300,7 @@
     },
     {
      "t": "write",
-     "p": "Ammamma winds her clock for a few minutes, and it ticks for eight days. Does the clock get more energy out than Ammamma put in? Explain.",
+     "p": "A grandmother winds her clock for a few minutes, and it ticks for eight days. Does the clock get more energy out than she put in? Explain.",
      "lines": 4,
      "a": "No. The clock lets the energy out very slowly, a tiny bit at each tick, so a few minutes of winding last eight days. But the total energy out is no more than went in. Some of it even spreads out as sound and warmth.",
      "why": "A strong answer separates how long a store lasts from how much it holds."
@@ -2319,21 +2319,21 @@
     },
     {
      "t": "write",
-     "p": "Mayer saw that sailors' blood was bright red in hot Java and dark in cold Germany. Explain how this led him to the idea that body heat comes from food.",
+     "p": "On a cold day you get hungry sooner, and when you run you breathe hard. Explain how food and the oxygen you breathe work together to keep your body warm.",
      "lines": 4,
-     "a": "He thought the body burns food slowly with oxygen to keep warm. In a hot place the body needs less warmth, so it uses less oxygen from the blood, and the blood stays bright red. So warmth must come from burning food, not from a special life force.",
-     "why": "A strong answer joins the colour of the blood to the use of oxygen, and the oxygen to burning food for warmth."
+     "a": "The body slowly burns food with oxygen, a little like a very slow fire, and this gives warmth and energy. In a cold place the body loses more warmth, so it needs to burn more food, and you feel hungry sooner. Running uses energy fast, so you breathe hard to take in more oxygen.",
+     "why": "A strong answer joins food and oxygen into one idea: the body burns food slowly with oxygen to make warmth and movement."
     },
     {
      "t": "mcq",
-     "p": "Max Rubner kept dogs in a closed box and measured all the heat they gave out. What did his result show?",
+     "p": "A dog is kept in a closed box for a day. Scientists measure all the heat the dog gives out, and all the energy in the food the dog uses. What would you expect them to find?",
      "opts": [
-      "Dogs make heat from nothing",
-      "The heat matched the energy in the food the dogs used",
-      "Dogs give out more heat than their food holds"
+      "The dog makes heat from nothing",
+      "The heat matches the energy in the food the dog used",
+      "The dog gives out more heat than its food holds"
      ],
      "a": 1,
-     "why": "The heat matched the energy in the food almost exactly. That showed living bodies follow the same rule as everything else: energy is not made from nothing."
+     "why": "Energy is never made from nothing. So the heat the dog gives out should match the energy in the food the dog used. When scientists did this, it matched almost exactly. Living bodies follow the same rule as everything else."
     },
     {
      "t": "draw",

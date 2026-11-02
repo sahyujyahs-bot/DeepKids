@@ -1858,9 +1858,9 @@
   },
   {
    "t": "mcq",
-   "p": "What did Stanley Miller's spark experiment show?",
+   "p": "Scientists put water and simple gases in a sealed flask and passed sparks through it for a week. Building blocks of proteins formed. What does this show?",
    "a": 0,
-   "why": "It showed that amino acids, building blocks of proteins, can form from water and simple gases with energy, without any living thing.",
+   "why": "Nothing in the flask was alive, yet amino acids, the building blocks of proteins, formed from water and simple gases with energy. Stanley Miller did this in 1953.",
    "opts": [
     "Building blocks of life can form without living things",
     "Life can be made in a week",
@@ -2109,9 +2109,9 @@
    "items": [
     {
      "t": "draw",
-     "p": "Draw Stanley Miller's flask. Label the gases, the water, the spark and the brown water at the end of the week.",
-     "a": "A glass flask with water and the gases methane, ammonia and hydrogen, two metal points with a spark between them, and brown water at the end with amino acids in it.",
-     "why": "Everything in the flask was non-living, yet amino acids formed."
+     "p": "Draw an experiment that could test whether building blocks of life can form without anything living. Show what you put in, where the energy comes from, and what you look for at the end.",
+     "a": "For example: a sealed flask with water and simple gases, sparks for energy, and a check for new chemicals, like amino acids, at the end.",
+     "why": "A strong drawing uses only non-living things, gives them energy, and says what result would show building blocks had formed."
     },
     {
      "t": "write",
@@ -2180,14 +2180,14 @@
     },
     {
      "t": "mcq",
-     "p": "Venkatraman Ramakrishnan, who shared the 2009 Nobel Prize for working out the shape of the ribosome, was born in which town?",
+     "p": "A ribosome is the part of a cell that builds proteins. Why did scientists want to work out its exact shape?",
      "a": 2,
-     "why": "He was born in Chidambaram, in Tamil Nadu. He shared the prize with Ada Yonath and Thomas Steitz.",
+     "why": "How something is shaped tells you how it works. Many medicines for germs work by jamming their ribosomes, so knowing the shape helps make better ones.",
      "opts": [
-      "Kolkata",
-      "Mumbai",
-      "Chidambaram",
-      "Delhi"
+      "To give it a name",
+      "Because it is the biggest thing in a cell",
+      "Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes",
+      "To find out how old it is"
      ]
     },
     {

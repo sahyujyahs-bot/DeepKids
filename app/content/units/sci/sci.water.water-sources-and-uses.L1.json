@@ -1191,7 +1191,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the poha test, one katori got nothing. Why did we keep a katori with nothing?",
+     "p": "To test what water and oil do to poha, you set up three katoris of poha: one with water, one with oil, and one with nothing. Why keep one with nothing?",
      "opts": [
       "To see what dry poha does by itself",
       "Because we ran out of water",
@@ -1280,9 +1280,9 @@
        "says": "Let's just scrub hard with a dry cloth. It is quicker."
       }
      ],
-     "ask": "Which friend do you agree with? Use what you saw in the sticky plate test. Then say one thing the other friend got right.",
-     "a": "Kavya is closer: the soaked plate came clean in a few wipes. But Farhan is right that soaking takes a few minutes of waiting.",
-     "why": "A strong answer uses the sticky plate result, and is fair to both: soaking makes cleaning easier, but it takes a little time.",
+     "ask": "Which friend do you agree with? Think about what water does to dried, hard food. Then say one thing the other friend got right.",
+     "a": "Kavya is closer: water soaks into the dried rice and loosens it, so a soaked plate comes clean in a few wipes. But Farhan is right that soaking takes a few minutes of waiting.",
+     "why": "A strong answer uses what water does to dried food, and is fair to both: soaking makes cleaning easier, but it takes a little time.",
      "how": "e2"
     },
     {
@@ -1492,14 +1492,14 @@
   },
   {
    "t": "mcq",
-   "p": "Why did the poha in water go soft?",
+   "p": "Dry poha is put in a katori of plain water. After a while it goes soft. Why?",
    "opts": [
     "The water went inside each flake",
     "The water was hot",
     "The katori was steel"
    ],
    "a": 0,
-   "why": "Water soaks into poha. The water was not hot, and all the katoris were the same.",
+   "why": "Water soaks into each flake of poha and makes it soft. It does not need to be hot.",
    "outcome": 2,
    "how": "e1"
   },

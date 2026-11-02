@@ -565,7 +565,7 @@
           {"t": "table", "p": "Draw or write the life stages of these living things.", "cols": ["Living thing", "Stage 1", "Stage 2", "Stage 3"], "rows": 3, "prefill": ["Frog", "Butterfly", "Mango tree"]}
         ]],
         ["C. Data", [
-          {"t": "table", "p": "Use your Activity 3.4 data. Make a tally chart of eye colours.", "cols": ["Eye colour", "Tally", "Total"], "rows": 4},
+          {"t": "table", "p": "Ask your family and friends what colour their eyes are. Make a tally chart of eye colours.", "cols": ["Eye colour", "Tally", "Total"], "rows": 4},
           {"t": "fill", "p": "In a tally, the fifth line is drawn ____ the first four.", "a": ["across", "through"]},
           {"t": "mcq", "p": "Which fingerprint type has lines that come in from one side, curve round and go back out the same side?", "opts": ["Whorl", "Arch", "Loop", "Spiral"], "a": 2}
         ]]
@@ -780,7 +780,7 @@
     {"q": "Is a fire alive? Explain.", "a": "No. It needs air, grows and moves, but it cannot sense, does not produce young like living things do, and is not made of living cells."},
     {"q": "What are the stages of growth of a human being?", "a": "Baby, toddler, child, teenager, adult."},
     {"q": "How do plants get their food, and how do animals get theirs?", "a": "Plants make their own sugars using sunlight, carbon dioxide from the air and water, giving out oxygen. Animals eat plants or other animals."},
-    {"q": "How do plants move? What did our shoebox test show?", "a": "They move slowly by growing, for example towards the light; their seeds also move. Our seedlings bent towards the hole where the light came in."},
+    {"q": "How do plants move? What would seedlings in a dark shoebox with one hole do?", "a": "They move slowly by growing, for example towards the light; their seeds also move. Seedlings in the box bend towards the hole where the light comes in."},
     {"q": "Give one animal that cares for its young and one that does not.", "a": "Cares: kangaroo (pouch), bird (nest), polar bear (den). Does not: most fish, butterflies (caterpillars look after themselves)."},
     {"q": "Name the three types of fingerprint, and say why we sort living things into groups using questions.", "a": "Loop, whorl and arch. Grouping helps scientists find, name and study the millions of kinds of living things; yes/no questions about features you can see make the sorting clear and repeatable."}
   ]

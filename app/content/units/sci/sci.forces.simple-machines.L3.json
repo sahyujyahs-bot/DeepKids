@@ -1170,20 +1170,20 @@
     },
     {
      "t": "perspective",
-     "p": "In the story Where Jonaki Stood, Jonaki, a girl of eight, wants to work the dhenki. A dhenki is a long wooden beam on a post. Stepping on one end lifts a heavy head at the other end, which pounds rice. Jonaki and her aunt Pehi disagree.",
+     "p": "A dhenki is a long wooden beam on a post. Stepping on one end lifts a heavy head at the other end, which pounds rice. A girl of eight wants to work the dhenki. She and her aunt disagree.",
      "views": [
       {
-       "who": "Pehi, Jonaki's aunt",
+       "who": "The aunt",
        "says": "The dhenki listens only to heavy feet. A light child cannot work it."
       },
       {
-       "who": "Jonaki",
+       "who": "The girl",
        "says": "Light feet work too, if they stand at the very end of the beam, far from the post."
       }
      ],
      "ask": "Who is right? Use what you found in the ruler see-saw to back up your answer. Then say what the other person could say back.",
      "lines": 5,
-     "a": "Jonaki is right that where you stand matters: one coin far out balanced two coins close in. But Pehi has a point. At the same spot, a heavier foot does push down more, and Jonaki needed her brother's weight beside her to lift the head high. So a strong answer says both weight and distance count.",
+     "a": "The girl is right that where you stand matters: one coin far out balanced two coins close in. But the aunt has a point. At the same spot, a heavier foot does push down more, and a light child may need someone beside her to lift the head high. So a strong answer says both weight and distance count.",
      "why": "A strong answer uses the ruler see-saw as evidence, picks a side, and gives fair credit to the other view.",
      "how": "e1"
     },

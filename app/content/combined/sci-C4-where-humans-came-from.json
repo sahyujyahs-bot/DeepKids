@@ -506,12 +506,9 @@
       },
       {
        "t": "fill",
-       "p": "Our own species, Homo sapiens, began in Africa about ____ years ago.",
+       "p": "The oldest bones of our own species, Homo sapiens, are found in Africa. People of our kind reached other places later. So our species most likely began in ____.",
        "a": [
-        "300,000",
-        "300000",
-        "3 lakh",
-        "three hundred thousand"
+        "Africa"
        ]
       },
       {
@@ -633,14 +630,14 @@
       },
       {
        "t": "sort",
-       "p": "Did each thing happen before or after our species began, about 300,000 years ago?",
+       "p": "Our species began about 300,000 years ago. Did each thing happen before or after our species began?",
        "items": [
-        "Lucy was alive",
-        "the Laetoli footprints were made",
-        "hand-axes were made near Chennai",
-        "people of our kind reached India",
-        "paintings were made at Bhimbetka",
-        "Neanderthals died out"
+        "the ancestor we share with chimpanzees was alive",
+        "the first apes walked on two legs",
+        "the first stone tools were made",
+        "the first farms were made",
+        "people first wrote words",
+        "the first cities were built"
        ],
        "cats": [
         "before our species began",
@@ -747,9 +744,11 @@
       },
       {
        "t": "fill",
-       "p": "The old picture of Neanderthals as stooped brutes came from one old man's skeleton. He had a joint disease called ____.",
+       "p": "Scientists once drew Neanderthals as stooped and clumsy, using one skeleton. That man was old and had a joint disease. This shows it is risky to judge a whole kind of human from only ____ skeleton.",
        "a": [
-        "arthritis"
+        "one",
+        "a single",
+        "1"
        ]
       }
      ]

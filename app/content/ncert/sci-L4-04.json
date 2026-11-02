@@ -366,15 +366,15 @@
         ["A. Flowers, houses and colours", [
           {"t": "fill", "p": "Palash is called the 'flame of the ____' because its orange-red flowers make the forest look on fire.", "a": ["forest"]},
           {"t": "sort", "p": "Sort these building materials.", "items": ["Clay", "Hay", "Cow dung", "Bamboo", "Cement", "Plastic sheet", "Steel rods", "Wooden sticks"], "cats": ["Natural material", "Made in a factory"]},
-          {"t": "mcq", "p": "What did Grandmother use to paint the wall?", "opts": ["Oil paint from the market", "A dye of rice flour and water", "Coloured chalk", "Plastic paint"], "a": 1}
+          {"t": "mcq", "p": "A family wants to paint patterns on a mud wall, using only things from the kitchen. Which would work, and is safe for the earth?", "opts": ["Oil paint from the market", "A dye of rice flour and water", "Coloured chalk", "Plastic paint"], "a": 1}
         ]],
         ["B. Making a dye", [
-          {"t": "write", "p": "Write the three steps for making a natural dye, as given on page 60.", "lines": 4},
+          {"t": "write", "p": "How could you make a natural dye at home, from turmeric, a flower or leaves? Write three steps, and say why each one is needed.", "lines": 4},
           {"t": "mcq", "p": "Which of these could give a natural yellow dye?", "opts": ["Haldi", "Salt", "Sugar", "Rice"], "a": 0}
         ]],
         ["C. Keeping food and people safe", [
           {"t": "match", "p": "Match each traditional method to what it does.", "pairs": [["Neem leaves in an earthen grain pot", "Keep insects and pests away from the grain"], ["Cow dung coating on a bamboo basket", "Protects stored grain from insects"], ["Tumri", "A container made from a dried bottle gourd (Uttarakhand)"], ["Neem-oil mixture on hands and feet", "Keeps mosquitoes away"]]},
-          {"t": "fill", "p": "The Jenu Kurubas of Karnataka collect ____ and sing songs to apologise to the bees.", "a": ["honey"]},
+          {"t": "fill", "p": "Some forest people take only part of the honey from a hive and leave the rest. This way the bees stay, and make more ____ next year.", "a": ["honey"]},
           {"t": "write", "p": "Name four things you would keep in a first-aid box.", "lines": 2}
         ]]
       ]
@@ -418,7 +418,7 @@
         ["C. Comparing views", [
           {"t": "write", "p": "Tu Youyou used a clue from a very old herbal book, then tested it carefully in the lab. Why do you think she needed both the old book and the tests?", "lines": 3},
           {"t": "mcq", "p": "Many people say curcumin from haldi cures many illnesses. Some chemists say the evidence is weak. Which evidence would convince you most?", "opts": ["An advertisement", "Your aunt's story", "A large fair test in which people did not know if they got curcumin or a dummy pill, and those with curcumin got better faster", "A video with many likes"], "a": 2},
-          {"t": "write", "p": "Indian scientists got the American turmeric patent cancelled. What evidence did they use, and why did it work?", "lines": 3}
+          {"t": "write", "p": "A company in another country got a patent saying it had invented using turmeric to heal wounds. How could Indian scientists show this was not a new idea, and why would that work?", "lines": 3}
         ]]
       ]
     }
@@ -597,10 +597,10 @@
     {"q": "Why is palash called the 'flame of the forest'?", "a": "When its bright orange-red flowers bloom, the whole forest looks reddish-orange from a distance, as if it were on fire."},
     {"q": "What were the village houses made of, and why are such houses good to live in?", "a": "Clay, hay, cow dung and other natural materials. They are cheap and found nearby, easy to repair, keep cool in summer and warm in winter, and go back into the soil."},
     {"q": "How do you make a natural dye?", "a": "Collect plant parts with colour (beetroot, hibiscus, marigold, haldi, onion skins), boil them in water for 30 minutes to an hour with a cover, then strain out the plant material. Soak cloth in the dye overnight, squeeze and dry it."},
-    {"q": "How did the village keep stored grain safe from insects?", "a": "Earthen pots were lined inside with neem leaves, and bamboo baskets were coated with cow dung on the outside. Other ways include the tumri (a dried bottle gourd) and mud bins."},
+    {"q": "Insects and damp spoil stored grain. Without bought chemicals, how could a family keep grain safe, and why would it work?", "a": "Keep it dry in closed pots, bins or baskets, and add dried neem leaves, which insects dislike. Dry grain does not go mouldy, and a closed, coated container keeps insects out."},
     {"q": "Name two plants used for health, the part used and the use.", "a": "For example: tulsi leaves for coughs and colds; ajwain seeds for stomach ache; neem leaves and oil to keep insects away; haldi on small cuts; ginger for colds."},
     {"q": "Why does water in a matka stay cool?", "a": "Water seeps through tiny holes in the clay and evaporates from the outside of the pot. Evaporation takes heat from the pot and the water, so the water cools."},
     {"q": "What is a sacred grove, and why is it important?", "a": "A patch of forest protected by a local community for worship, where trees are not cut and animals are not hunted. It keeps old trees, rare plants and animals and water sources safe, and is a place for the community to gather."},
-    {"q": "How did Tu Youyou use an old herbal book, and why was testing still needed?", "a": "A 1,600-year-old Chinese book said to soak sweet wormwood in cold water, which gave her the idea to extract it without heat. She found artemisinin, which cures malaria. Testing was needed to show which remedy really worked and how well; most remedies tested did not work."}
+    {"q": "An old book of herbal remedies says a plant cures a fever. Why would scientists still need to test it?", "a": "Old books can be wrong, and many remedies do not work. A careful test shows whether the plant really works and how well, and how to get the medicine out of it without spoiling it."}
   ]
 }

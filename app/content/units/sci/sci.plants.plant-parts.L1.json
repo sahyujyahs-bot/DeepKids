@@ -397,7 +397,7 @@
        "b": "Stem. The tall trunk holds the leaves up high in the sun.",
        "img": {
         "src": "media/cards/plant-parts-g1-0-19.jpg",
-        "credit": "Vivaan jalan, CC BY, via iNaturalist"
+        "credit": "Анна Митрошенкова, CC BY, via iNaturalist"
        }
       },
       {
@@ -417,7 +417,7 @@
        "b": "Fruit. The coconut, with a thick husk. The husk lets the coconut float on the sea.",
        "img": {
         "src": "media/cards/plant-parts-g1-0-22.jpg",
-        "credit": "phiroza, CC BY, via iNaturalist"
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
        }
       },
       {
@@ -1830,14 +1830,14 @@
   },
   {
    "t": "mcq",
-   "p": "Before you turned the cloth and the plate over, what did you do first?",
+   "p": "Before a test, why do scientists make a guess and say why?",
    "opts": [
-    "Made a guess and said why",
-    "Threw the sprouts away",
-    "Washed the plate"
+    "So the test can show if the guess was right",
+    "So they can throw the sprouts away",
+    "So the plate gets washed"
    ],
    "a": 0,
-   "why": "Scientists guess first and give a reason. Then the test shows if the guess was right.",
+   "why": "A guess with a reason is an idea to test. Then the test shows whether the idea was right, or needs to change.",
    "how": "e1",
    "outcome": 4
   }

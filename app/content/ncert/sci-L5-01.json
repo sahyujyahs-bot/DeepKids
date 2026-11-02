@@ -503,7 +503,7 @@
         ["A. Puzzles", [
           {"t": "write", "p": "If water keeps going round in the water cycle and is never used up, why do people say we are running out of water?", "lines": 3},
           {"t": "mcq", "p": "In our salt plate, the water disappeared but the salt stayed. Rain clouds form over the salty sea. Is rain salty?", "opts": ["Yes, very salty", "No, because only the water evaporates and the salt is left behind", "Only near the sea", "Only in summer"], "a": 1},
-          {"t": "fill", "p": "The Luni river does not reach any sea. It ends in the marshy lands of the Rann of ____.", "a": ["Kutch", "Kachchh"]}
+          {"t": "fill", "p": "Some rivers never reach the sea. In a hot, ____ land, their water soaks into the ground or dries up first.", "a": ["dry", "desert", "sandy"]}
         ]],
         ["B. What if?", [
           {"t": "write", "p": "What if water vapour never cooled into droplets? Think through the water cycle and say what would happen to rivers.", "lines": 3},
@@ -755,6 +755,6 @@
     {"q": "What is groundwater, and why do cities with lots of cement get less of it?", "a": "Rainwater that soaks down through soil and rock and is stored deep underground. Cement and tar do not let rain soak in, so it runs into drains instead of recharging the ground."},
     {"q": "Why do the Godavari and Kaveri flow to the Bay of Bengal and not to the Arabian Sea?", "a": "They start in the Western Ghats near the west coast, and the land slopes down to the east, so water flows downhill towards the east coast."},
     {"q": "Name two animals and one plant of a pond and how each is suited to water.", "a": "For example: fish have gills and fins; the pond heron has long legs and a pointed beak; the lotus has waxy floating leaves and roots in the mud; the water scorpion breathes through a tail tube."},
-    {"q": "What did Perrault do that settled the argument about where rivers come from?", "a": "He measured the rain falling on the land around the upper river Seine and the water flowing in the river, and showed the rain was several times more than enough to feed the river."}
+    {"q": "Long ago people argued about whether rain alone is enough to feed a river. How could you test it?", "a": "Measure the rain that falls on the land around the river, and measure the water flowing in the river. If the rain is more than the river carries, rain is enough. Perrault did this for the river Seine and found the rain was several times more than enough."}
   ]
 }

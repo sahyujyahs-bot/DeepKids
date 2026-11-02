@@ -394,7 +394,7 @@
         ["C. Insects", [
           {"t": "fill", "p": "An insect has ____ pairs of legs and one pair of antennae.", "a": ["three", "3"]},
           {"t": "sort", "p": "Which of these are insects?", "items": ["Ant", "Spider", "Butterfly", "Earthworm", "Grasshopper", "Bee", "Snail", "Housefly"], "cats": ["Insect", "Not an insect"]},
-          {"t": "mcq", "p": "Animals that live both on land and in water, like the frog, are found in the book on page 48. Which animal in this list can also live on land and in water?", "opts": ["Fish", "Crocodile", "Sparrow", "Butterfly"], "a": 1}
+          {"t": "mcq", "p": "Some animals, like the frog, live both on land and in water. Which animal in this list also spends its life both on land and in water?", "opts": ["Fish", "Crocodile", "Sparrow", "Butterfly"], "a": 1}
         ]]
       ]
     },
@@ -609,6 +609,6 @@
     {"q": "How do water animals' bodies help them? Give two examples.", "a": "Fish have fins to swim; turtles have hard shells for safety and webbed feet to swim; the gharial's thin snout catches fish; frogs can live on land and in water."},
     {"q": "What are the two kinds of vein patterns in leaves? Give an example of each.", "a": "Net veins that branch like a net, as in mango, peepal and hibiscus; and parallel veins that run side by side, as in grass, banana and maize."},
     {"q": "In the Web of Life game, what happened when one part was removed? Give a real example.", "a": "The web weakened because everything that depended on it was affected, and then the things that depended on those. For example, if grass disappears, deer go hungry and then tigers do; when DDT poisoned food chains, eagles and falcons could not hatch their eggs."},
-    {"q": "Who was Salim Ali and why is he remembered?", "a": "An Indian bird scientist (1896–1987), the 'Birdman of India', who carefully watched and recorded India's birds, wrote 'The Book of Indian Birds', and helped protect places like Bharatpur, even though he had no zoology degree."}
+    {"q": "What makes careful bird-watching good science, even for someone with no degree?", "a": "Watching carefully again and again, writing down exactly what you see, and sharing it so others can check. That is how people learn which birds live where, and how to protect their homes."}
   ]
 }

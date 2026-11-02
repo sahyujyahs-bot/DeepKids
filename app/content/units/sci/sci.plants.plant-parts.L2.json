@@ -1126,18 +1126,90 @@
      "kind": "cards",
      "title": "12 answer cards: cactus, lotus and banyan for up to 4 players",
      "items": [
-      "Cactus",
-      "Lotus",
-      "Banyan",
-      "Cactus",
-      "Lotus",
-      "Banyan",
-      "Cactus",
-      "Lotus",
-      "Banyan",
-      "Cactus",
-      "Lotus",
-      "Banyan"
+      {
+       "f": "Cactus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-00.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lotus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-01.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Banyan",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-02.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cactus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-03.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lotus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-04.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Banyan",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-05.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cactus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-06.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lotus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-07.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Banyan",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-08.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cactus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-09.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lotus",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-10.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Banyan",
+       "img": {
+        "src": "media/cards/plant-parts-g2-1-11.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],
@@ -1595,9 +1667,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Almost all cactus plants first grew in North and South America.",
+     "p": "A cactus stores water in its thick green stem, so it can live through long dry spells.",
      "a": true,
-     "why": "True. People brought prickly pear cactus to India long ago, and now it grows wild in dry places."
+     "why": "True. The fat stem holds water like a tank, and the spines are leaves that lose almost no water. That is why cactus grows wild in dry places."
     },
     {
      "t": "write",

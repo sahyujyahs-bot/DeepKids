@@ -386,10 +386,10 @@
       "day": 4,
       "sections": [
         ["A. Bela's family", [
-          {"t": "fill", "p": "Bela's two brothers are Banku Bhaiya and little ____.", "a": ["Bishu"]},
-          {"t": "mcq", "p": "Who is Shiru?", "opts": ["Bela's cousin", "The family's pet dog", "Munni's brother", "A parrot in the garden"], "a": 1},
-          {"t": "mcq", "p": "Kusum Mausi is:", "opts": ["Bela's mother's real sister", "Bela's father's sister", "Bela's mother's close friend who is like a sister", "Bela's grandmother"], "a": 2},
-          {"t": "fill", "p": "Bela calls her grandmother ____ and her grandfather Dadaji.", "a": ["Dadiji", "Dadi"]}
+          {"t": "fill", "p": "Your father's mother is your ____.", "a": ["dadi", "dadiji", "grandmother", "paternal grandmother"]},
+          {"t": "mcq", "p": "Which of these can be part of a family?", "opts": ["Only parents", "Only people born in the same house", "Grandparents, cousins, close friends who are like family, and even pets", "Only children"], "a": 2},
+          {"t": "mcq", "p": "Many children call their mother's close friend 'Mausi', though she is not a relative. What does this show?", "opts": ["Mausi always means mother's real sister", "Families can include people who are not related by birth", "The child is confused", "Friends can never be like family"], "a": 1},
+          {"t": "fill", "p": "Your father's father is your ____.", "a": ["dada", "dadaji", "grandfather", "paternal grandfather"]}
         ]],
         ["B. My family", [
           {"t": "table", "p": "Write the names of your family members.", "cols": ["Name", "Relationship with you", "What you call them"], "rows": 5},
@@ -398,7 +398,7 @@
         ]],
         ["C. Sharing the work", [
           {"t": "table", "p": "Who does it in your home?", "cols": ["Work", "Who does it?"], "rows": 5, "prefill": ["Cooking food", "Watering plants", "Mending things", "Cleaning the house", "Buying things from the market"]},
-          {"t": "mcq", "p": "In Bela's home, who does the housework?", "opts": ["Only her mother", "Only Dadiji", "Her parents help each other in all of it, and the children help too", "Nobody"], "a": 2},
+          {"t": "mcq", "p": "Who should do the housework at home?", "opts": ["Only the mother", "Only the grandmother", "Everyone helps each other, grown-ups and children too", "Nobody"], "a": 2},
           {"t": "write", "p": "Write two ways you help someone in your family who needs special care.", "lines": 2}
         ]]
       ]
@@ -442,7 +442,7 @@
         ]],
         ["C. Comparing views", [
           {"t": "write", "p": "Some people say only humans truly have friends. Jane Goodall saw chimpanzees groom, hug and share food with the same partners for years. What would you need to see to believe an animal has a friend?", "lines": 4},
-          {"t": "mcq", "p": "Robin Dunbar said a person can keep about 150 friends and relatives. In 2021 other scientists checked his maths. What did they say?", "opts": ["It is exactly 150 for everyone", "The number cannot be fixed so exactly; it could be much smaller or larger", "People can have only 5 friends", "Dunbar had never studied it"], "a": 1},
+          {"t": "mcq", "p": "A scientist says every person can keep about 150 friends and relatives. Why might the real number be different for different people?", "opts": ["It is exactly 150 for everyone", "People and their lives are different, so the number cannot be fixed so exactly", "People can have only 5 friends", "Friends can never be counted"], "a": 1},
           {"t": "write", "p": "Elephant herds with older leaders did better at telling friends from strangers. Why might an older leader help a family, among elephants or people?", "lines": 3}
         ]]
       ]
@@ -593,12 +593,12 @@
     }
   ],
   "check": [
-    {"q": "Who are the members of Bela's family?", "a": "Her father and mother, her brothers Banku Bhaiya and little Bishu, her grandparents Dadiji and Dadaji, and their dog Shiru."},
+    {"q": "Name three ways families can be different from each other.", "a": "Some families are big and some are small. Some have grandparents living with them and some do not. Some have one parent, some have pets, and families may speak different languages and follow different customs."},
     {"q": "Is a small family a real family? Why?", "a": "Yes. Families can be big or small and have different members; what makes a family is that they love, care for and support each other."},
     {"q": "Who is your mama, your bua and your mausi?", "a": "Mama is your mother's brother, bua is your father's sister, and mausi is your mother's sister."},
     {"q": "Name three jobs done in your home and who does them. Why should work be shared?", "a": "For example cooking (Mummy and Papa), watering plants (Dadaji and me), buying vegetables (Papa). Sharing is fair, gets work done faster and stops one person getting too tired."},
-    {"q": "How did Munni make colours for her rangoli, and what happened when we added lemon to hibiscus juice?", "a": "She used colours made from dried flowers, and sometimes leaves and flowers. Hibiscus juice turned bright pink with lemon (an acid) and green with soap or baking soda (a base)."},
-    {"q": "Why do we not hurt or tease animals, and how did Bela's family treat Shiru?", "a": "Animals feel pain and fear and are part of our families and neighbourhoods. Bela and Banku never hurt Shiru and shared their food with him."},
+    {"q": "How can you make colours for rangoli from flowers and leaves, and what happens when you add lemon juice to hibiscus juice?", "a": "Dry and crush flowers and leaves to get colours. Hibiscus juice turns bright pink with lemon (an acid) and green with soap or baking soda (a base), because some flower colours change with acids and bases."},
+    {"q": "Why do we not hurt or tease animals? Name two ways a family can look after a pet well.", "a": "Animals feel pain and fear, and they are part of our families and neighbourhoods. A family can give a pet food, water and a safe place, play with it gently, and take it to a vet when it is ill."},
     {"q": "Why might the oldest female be the best leader of an elephant family?", "a": "She has the longest memory: she knows friends from strangers and where to find water and food, and scientists found families with older matriarchs reacted better to strangers and raised more calves."}
   ]
 }

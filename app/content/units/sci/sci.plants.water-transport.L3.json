@@ -3164,15 +3164,15 @@
   },
   {
    "t": "mcq",
-   "p": "In Be Stephen Hales, the plant lost more weight on a sunny day than on a cloudy day. Which other result in this unit agrees with this?",
+   "p": "A plant whose soil is sealed in a bag loses more weight on a sunny day than on a cloudy day. Which other result would agree with this?",
    "opts": [
-    "In the Sweating Branch test, the bag in the sun collected more water",
-    "In the Blue Climb, the plain-water flower stayed white",
-    "In the Two-Colour Flower, each side took a different colour"
+    "A clear bag over a leafy branch in the sun collects more water than one in the shade",
+    "A white flower in plain water stays white",
+    "A split flower stem takes up two colours"
    ],
    "a": 0,
    "outcome": 4,
-   "why": "Both results show that leaves let out more water in the sun. When two different tests agree, we can trust the idea more. The other two results are true, but they are about the tubes, not about sun and shade.",
+   "why": "Both results show that leaves let out more water in the sun. When two different tests agree, we can trust the idea more. The other two are about the tubes, not about sun and shade.",
    "context": "In the Be Stephen Hales project, you weigh a plant every day with the soil sealed. In the Sweating Branch test, you tie clear bags over a branch in the sun and a branch in the shade.",
    "how": "p1"
   },
@@ -3192,15 +3192,15 @@
   },
   {
    "t": "mcq",
-   "p": "Jagadish Chandra Bose thought living cells pump water up stems. What do most scientists think today?",
+   "p": "Some people think living cells in the stem pump water up. Then coloured water still climbs a stem whose cells have all been killed. What does this show?",
    "opts": [
-    "Water is pulled up from the top by evaporation, so Bose was wrong about this",
-    "Bose was right",
-    "Nobody has any idea"
+    "Water can be pulled up from the top as it evaporates from the leaves, without living pumps",
+    "Living pumps are needed after all",
+    "Nobody can tell how water climbs"
    ],
    "a": 0,
    "outcome": 5,
-   "why": "The pulling idea of Dixon and Joly is accepted today. Bose was wrong about this one idea, but he made many other great discoveries. Picking 'nobody has any idea' is not fair to the evidence. Scientists are sure about the main idea, though some details are still being studied."
+   "why": "A dead stem has no living pumps, yet water still climbs. So the pull from evaporation at the top is enough. Picking 'nobody can tell' is not fair to the evidence."
   },
   {
    "t": "mcq",

@@ -1711,14 +1711,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 1790, a flask of snow in front of a mirror made a thermometer across the room fall. What did Pierre Prévost show?",
+   "p": "A flask of snow is set in front of a mirror, and a thermometer across the room starts to fall. What is really happening?",
    "opts": [
     "Snow sends out rays of cold",
-    "The thermometer gave more heat to the snow than it got back",
+    "The thermometer gives out more heat towards the snow than it gets back",
     "Mirrors make things cold"
    ],
    "a": 1,
-   "why": "Prévost said everything sends out heat, and warmer things send out more. The thermometer lost more heat to the snow than it gained, so it cooled. Only heat was moving.",
+   "why": "Everything sends out heat, and warmer things send out more. The thermometer loses more heat towards the snow than it gains from it, so it cools. Only heat is moving.",
    "outcome": 6
   },
   {
@@ -1931,7 +1931,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Tumbler in a Bowl test, the hot tumbler started at 62 °C and the bowl water at 30 °C. Where did the two numbers stop?",
+     "p": "A tumbler of hot water at 62 °C stands in a bowl of water at 30 °C. The bowl holds three times as much water as the tumbler. Where will the two numbers stop?",
      "opts": [
       "Both at 62 °C",
       "Both at about 37 °C, nearer the bowl's start",
@@ -1939,7 +1939,7 @@
      ],
      "a": 1,
      "how": "e2",
-     "why": "Heat moved from the tumbler into the bowl until both were the same. The bowl held three times as much water, so it went up only a little while the tumbler came down a lot. They met at about 37 °C."
+     "why": "Heat moves from the tumbler into the bowl until both are the same. The bowl holds three times as much water, so it goes up only a little while the tumbler comes down a lot. They meet at about 37 °C."
     },
     {
      "t": "truefalse",

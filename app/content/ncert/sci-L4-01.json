@@ -377,13 +377,13 @@
           {"t": "write", "p": "Name one public place near your home. Write two ways you can help keep it clean and safe.", "lines": 3}
         ]],
         ["B. Van Mahotsav", [
-          {"t": "fill", "p": "Van Mahotsav is celebrated every year from 1 July to ____ July.", "a": ["7", "seven"]},
+          {"t": "fill", "p": "Young trees are best planted in the ____ season, when the soil stays wet.", "a": ["rainy", "monsoon", "rain"]},
           {"t": "mcq", "p": "Why is Van Mahotsav held during the rainy season?", "opts": ["Schools are closed", "The wet soil and rain help young saplings grow roots", "Trees are cheaper in July", "It is too cold to plant in winter"], "a": 1},
           {"t": "mcq", "p": "Mallika wants to plant trees in the park mainly so that:", "opts": ["The park looks dark", "Her grandmother and friends enjoy their walks and have better air to breathe", "The children can climb them", "Noor can sell more saplings"], "a": 1}
         ]],
         ["C. Workers and tools", [
           {"t": "match", "p": "Match each worker to a tool or material they use.", "pairs": [["Mason", "Trowel, bricks and cement"], ["Carpenter", "Wood, nails and hammer"], ["Electrician", "Wires and screwdriver"], ["Gardener", "Khurpi and watering can"]]},
-          {"t": "mcq", "p": "How did the people of Kanker cross the river after it overflowed in 2024?", "opts": ["They waited for the government to send a boat", "The whole community built a bamboo and stone bridge in two days", "They swam across", "They moved to another village"], "a": 1}
+          {"t": "mcq", "p": "A river floods, and a village has no way across. What could the community do?", "opts": ["Do nothing and wait", "Work together to build a simple bridge from bamboo and stones", "Swim across every day", "Leave the village for ever"], "a": 1}
         ]]
       ]
     },
@@ -399,7 +399,7 @@
           {"t": "mcq", "p": "A farmer grows tomatoes. Who does the farmer depend on to get the tomatoes to your kitchen?", "opts": ["Only the farmer's family", "The truck driver, the mandi trader and the vegetable seller", "Only the police", "Nobody"], "a": 1}
         ]],
         ["B. Working together", [
-          {"t": "write", "p": "In our straw test, why did a bundle of straws hold far more coins than one straw? How is this like the Kanker bridge?", "lines": 3},
+          {"t": "write", "p": "In our straw test, why did a bundle of straws hold far more coins than one straw? How is this like people working together?", "lines": 3},
           {"t": "table", "p": "Plan a cleanliness drive for your building. Write who does what.", "cols": ["Person", "Job", "Tool or material"], "rows": 4},
           {"t": "fill", "p": "A person who offers to do a job for the community without being paid is a ____.", "a": ["volunteer"]}
         ]],
@@ -421,7 +421,7 @@
           {"t": "fill", "p": "In the pond game, the fish ran out fastest when the players were not allowed to ____ and make a rule.", "a": ["talk", "speak", "discuss"]}
         ]],
         ["B. What if?", [
-          {"t": "write", "p": "What if every family in Chandan's village used plastic plates at the feast instead of banana leaves, and buried them in the pit? What would happen to the pit after one year?", "lines": 3},
+          {"t": "write", "p": "What if every family in a village used plastic plates at a feast instead of banana leaves, and buried them in a pit? What would happen to the pit after one year?", "lines": 3},
           {"t": "write", "p": "What if everyone in your locality decided to do only their own work and never help with shared places? Describe the park after one year.", "lines": 3}
         ]],
         ["C. Comparing views", [
@@ -591,12 +591,12 @@
   ],
   "check": [
     {"q": "Name four public places in your locality and say how each one helps people.", "a": "For example: road (connects people and lets goods move), school (helps children learn), health centre (treats illness), park (a place to play, walk and meet), bus stop (lets people travel), post office (sends letters and parcels)."},
-    {"q": "What is Van Mahotsav, and why is it held in the first week of July?", "a": "India's tree-planting festival, 1–7 July. It is in the rainy season so the soil is wet and the saplings get rain to grow roots."},
+    {"q": "Why is the rainy season a good time to plant young trees?", "a": "The soil is wet and rain keeps falling, so the saplings get water while they grow new roots."},
     {"q": "Name three people who helped get the park ready and what each did.", "a": "Sameer fixed the benches with wood and nails, Babita repaired the street light, and Noor brought saplings from her nursery to plant along the boundary (also cleaners, painters, cooks)."},
-    {"q": "How did the people of Kanker solve the problem of the overflowing river?", "a": "In 2024 the whole community came together and built a simple, strong bridge in two days using bamboo, stones and other material, so students and villagers could cross."},
+    {"q": "A river floods and cuts a village off. How can a whole community working together solve a problem one family could not?", "a": "Many hands share the work and bring different skills and materials, so a big job, like building a simple bridge of bamboo and stones, can be done in a few days."},
     {"q": "Why were the banana leaves from the feast put in a pit, and why should plastic plates not go there?", "a": "Leaves are eaten by tiny living things in the soil and rot into manure that improves the soil. Plastic cannot be eaten by them, so it does not rot and stays as rubbish for hundreds of years."},
     {"q": "How is an ant colony like a human community?", "a": "Each member has a job: some collect food, some care for the young, some protect the home, and together they make life better for all. In honeybees the jobs change as the bee gets older."},
-    {"q": "What are Bhela Ghar and Khetala?", "a": "Bhela Ghar is a hut of bamboo and hay that people in Assam build together on Uruka, the first day of Magh Bihu, before a big feast. Khetala are people in Sikkim skilled in farming who help each other harvest crops."},
-    {"q": "Garrett Hardin said shared things like a village pasture will always be ruined. What did Elinor Ostrom find?", "a": "That many real communities share forests, water and pastures well for a long time when they can talk, make their own fair rules and check that everyone follows them, though it does not always work."}
+    {"q": "Why do people in many villages build things or bring in the harvest together, instead of each family alone?", "a": "Big jobs go faster with many hands, and each family gets help in turn. Working together also brings people closer."},
+    {"q": "Some people say a shared pasture will always be ruined. What helps communities share forests, water and pastures well for a long time?", "a": "Talking together, making their own fair rules, and checking that everyone follows them. It does not always work, but it often does."}
   ]
 }

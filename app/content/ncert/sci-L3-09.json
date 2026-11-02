@@ -368,7 +368,7 @@
         ]],
         ["B. Old ways of keeping clean", [
           {"t": "match", "p": "Match each traditional thing to what it was used for.", "pairs": [["Neem or babool datun", "Cleaning teeth"], ["Reetha and shikakai", "Washing hair"], ["Ash and coconut husk", "Scrubbing utensils"], ["Orange peel and vinegar", "Home cleaner for floors"]]},
-          {"t": "mcq", "p": "Why did Moyna's Dadu like his twig brush?", "opts": ["It was made of plastic", "It was fresh every day, removed food between teeth and massaged his gums", "It was sweet", "It lasted for a year"], "a": 1}
+          {"t": "mcq", "p": "Some people clean their teeth with a fresh neem twig instead of a brush. What could be good about a twig brush?", "opts": ["It is made of plastic", "It is fresh every day, cleans between the teeth and rubs the gums", "It is sweet", "It lasts for a year"], "a": 1}
         ]],
         ["C. Moving and staying safe", [
           {"t": "mcq", "p": "After running fast, you breathe faster and your heart beats faster. Why?", "opts": ["You are scared", "Your muscles need more oxygen, so the heart and lungs work harder", "You are hungry", "Your shoes are tight"], "a": 1},
@@ -592,6 +592,6 @@
     {"q": "What happens to your heartbeat and breathing when you run fast, and why?", "a": "They get faster and deeper, because the muscles need more oxygen and food, so the heart pumps more blood and the lungs take in more air. We also feel warm, get red cheeks and sweat."},
     {"q": "Name two places that are unsafe to play and say why.", "a": "A busy road (vehicles can hit you), a roof without railings (you can fall), a construction site (pits, falling things, sharp rods, machines)."},
     {"q": "A stranger offers you sweets or a ride home. What should you do?", "a": "Say 'No, thank you', walk away to a safe place, and tell a trusted adult. Never go with anyone who does not know the family password."},
-    {"q": "Our bread test: which slice grew the most mould, and what did it teach us?", "a": "Usually the one touched with dirty hands. Unwashed hands carry many tiny living things we cannot see; washing with soap removes most of them."}
+    {"q": "You touch one slice of bread with unwashed hands and another with hands washed with soap, then keep both in bags for a week. Which grows more mould, and what does it teach us?", "a": "Usually the one touched with unwashed hands. Unwashed hands carry many tiny living things we cannot see; washing with soap removes most of them."}
   ]
 }

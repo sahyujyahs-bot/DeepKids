@@ -1166,9 +1166,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Hans Geiger and Ernest Marsden looked through their microscope and saw single atoms.",
+     "p": "Scientists can look through an ordinary microscope and see single atoms.",
      "a": false,
-     "why": "False. They could not see atoms. They saw tiny flashes of light on a screen, each one made when an alpha particle hit it. By counting where the flashes appeared, they worked out what the alpha particles had hit."
+     "why": "False. Atoms are far too small for an ordinary microscope. Scientists learn about atoms from clues, such as tiny flashes on a screen when particles hit it, and work out what must have caused them."
     },
     {
      "t": "mcq",
@@ -1454,10 +1454,10 @@
     },
     {
      "t": "write",
-     "p": "Who had the idea of atoms first, Kanada in India or Democritus in Greece? Explain why nobody can say for sure. Then say whether you think it matters who was first.",
+     "p": "More than 2,000 years ago, thinkers in India and in Greece both had the idea that everything is made of tiny pieces. They had no microscopes. Does it matter who had the idea first? Give a reason.",
      "lines": 4,
-     "a": "Democritus lived about 2,400 years ago, and his dates are fairly well known. Nobody knows exactly when Kanada lived. Scholars guess somewhere between about 600 and 200 years before the Common Era. So nobody can say who was first. I think it matters less than the idea itself, because both reached it by careful thinking, on their own.",
-     "why": "A strong answer explains that Kanada's dates are uncertain, then gives an opinion with a reason.",
+     "a": "For example: I think it matters less than the idea itself. Both reached it on their own, by careful thinking about everyday clues. When two people far apart get the same idea, it shows the idea is a good one.",
+     "why": "A strong answer gives an opinion with a reason, and may say that the same idea found twice is a sign it fits the evidence.",
      "context": "Kanada was a thinker in ancient India, and Democritus a thinker in ancient Greece."
     },
     {

@@ -529,7 +529,7 @@
         ["C. Plan a fair test", [
           {"t": "write", "p": "Meera wants to find out whether ice melts faster on a steel plate or a plastic plate. Write her question.", "lines": 1},
           {"t": "table", "p": "Plan her fair test.", "cols": ["What she changes", "What she keeps the same", "What she measures"], "rows": 1},
-          {"t": "write", "p": "How can Meera make her results reliable?", "lines": 2}
+          {"t": "write", "p": "A girl times how long sugar takes to dissolve in warm water. She does it only once. How can she make her results reliable?", "lines": 2}
         ]]
       ]
     },

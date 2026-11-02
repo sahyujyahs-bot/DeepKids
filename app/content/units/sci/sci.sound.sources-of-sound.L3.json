@@ -2917,14 +2917,14 @@
   },
   {
    "t": "mcq",
-   "p": "Katy Payne, an American scientist, felt a throbbing in the air near elephants at a zoo, but heard almost nothing. What had she found?",
+   "p": "Standing near some elephants, a person feels a throbbing in the air, but hears almost nothing. What is the best explanation?",
    "opts": [
     "Elephants call with sounds too low for people to hear",
-    "The zoo's machines were shaking",
-    "The wind was blowing hard"
+    "Nearby machines are shaking",
+    "The wind is blowing hard"
    ],
    "a": 0,
-   "why": "In 1984 she guessed that the elephants were making sounds too low for human ears, called infrasound. Recordings proved her right.",
+   "why": "A sound is a vibration. Very low sounds, called infrasound, are too low for human ears, but you can still feel the air throbbing. Elephants use such low calls to talk over long distances.",
    "outcome": 6
   },
   {

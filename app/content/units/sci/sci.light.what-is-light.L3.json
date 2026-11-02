@@ -2931,11 +2931,11 @@
   },
   {
    "t": "mcq",
-   "p": "In the Flash and Bang experiment, what was the one thing you changed between tries?",
+   "p": "A helper bangs two plates, and you see the flash of the bang before you hear it. You want to show that the gap grows with distance. What is the one thing you should change between tries?",
    "opts": [
-    "How far you stood from the helper",
+    "How far you stand from the helper",
     "The kind of plates",
-    "How hard the helper banged"
+    "How hard the helper bangs"
    ],
    "a": 0,
    "why": "A fair test changes only one thing. Changing only the distance shows that the gap between seeing and hearing grows with distance.",
@@ -2957,27 +2957,27 @@
   },
   {
    "t": "mcq",
-   "p": "Ole Rømer showed in 1676 that light takes time to travel. What did he use as his clock?",
+   "p": "To show that light takes time to cross space, you need a steady 'clock' far away. Why is a moon going round a far planet at a steady pace a good clock?",
    "opts": [
-    "Jupiter's moon Io, which goes round Jupiter at a steady pace",
-    "A candle that burned down",
-    "The tides of the sea"
+    "Its timing is steady, so if it seems late, the light must have had further to travel",
+    "It makes its own light",
+    "It is very close to the Earth"
    ],
    "a": 0,
-   "why": "Io disappears into Jupiter's shadow at steady times. When those times seemed late, Rømer worked out that the light had further to travel.",
+   "why": "The moon always keeps time. If it seems late when the Earth is further from the planet, the delay must be the extra time the light took to travel.",
    "outcome": 3,
    "how": "a4"
   },
   {
    "t": "mcq",
-   "p": "In 1849, Hippolyte Fizeau measured the speed of light on Earth for the first time. What did he use?",
+   "p": "Light is far too fast to time with a stopwatch. How could you measure its speed here on the Earth?",
    "opts": [
-    "A fast-spinning wheel with teeth, and a mirror far away",
-    "Two lanterns on hills",
+    "Send light through a gap in a fast-spinning wheel with teeth, to a far mirror and back, and see how fast the wheel must spin for a tooth to block it",
+    "Two lanterns on hills and a stopwatch",
     "A glow star"
    ],
    "a": 0,
-   "why": "Light went through a gap between two teeth, bounced off a mirror about 8 kilometres away and came back. At the right speed of spin, a tooth blocked it on the way back. From that he worked out light's speed.",
+   "why": "You know how far the light went, there and back. The spinning wheel tells you how long the next tooth took to move into the gap. Distance and time together give the speed.",
    "outcome": 3
   },
   {

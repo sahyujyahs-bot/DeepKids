@@ -2180,20 +2180,20 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, from first to last, in the story of how we learned why films move.",
+     "p": "Put these steps in order to make a flip book that seems to move.",
      "items": [
-      "Wertheimer flashes two lines and people see one line move",
-      "Films come to cinema halls",
-      "Spinning picture toys like the thaumatrope are sold in London",
-      "Scientists today say persistence of vision is not the answer"
+      "On each next page, draw the ball a little higher",
+      "Flick through the pages fast and watch",
+      "Draw a ball at the bottom of the first page",
+      "Hold the pages together at one edge"
      ],
      "a": [
-      "Spinning picture toys like the thaumatrope are sold in London",
-      "Films come to cinema halls",
-      "Wertheimer flashes two lines and people see one line move",
-      "Scientists today say persistence of vision is not the answer"
+      "Draw a ball at the bottom of the first page",
+      "On each next page, draw the ball a little higher",
+      "Hold the pages together at one edge",
+      "Flick through the pages fast and watch"
      ],
-     "why": "The toys came in the 1820s, films in the 1890s, Wertheimer's test in 1912, and today's view after that."
+     "why": "Each page is a still picture. When the pages flick past fast, the brain joins them and sees the ball move. Films work the same way."
     },
     {
      "t": "match",
@@ -2281,7 +2281,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the Illusion Museum in order.",
+     "p": "You set up an illusion show for visitors. Put the steps in order.",
      "items": [
       "Count how many visitors were fooled",
       "Draw 4 or 5 illusions neatly, each with a question card",

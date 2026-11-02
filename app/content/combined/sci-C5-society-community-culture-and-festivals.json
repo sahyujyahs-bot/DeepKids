@@ -524,7 +524,7 @@
       },
       {
        "t": "write",
-       "p": "The Taj Mahal is made of marble. Use the vinegar test to explain why smoke from nearby factories could harm it.",
+       "p": "The Taj Mahal is made of marble. Marble fizzes and slowly wears away in vinegar, which is an acid. Use this to explain why smoke from nearby factories could harm it.",
        "lines": 3
       }
      ]
@@ -738,11 +738,11 @@
      [
       {
        "t": "mcq",
-       "p": "For centuries nobody could read Ashoka's edicts. What finally proved that the king called 'Piyadasi' in the edicts was Ashoka?",
+       "p": "For centuries nobody could read some old writings carved in stone. When they were read at last, they called the king only 'Piyadasi'. How could historians prove which king this was?",
        "opts": [
-        "an edict found at Maski in Karnataka that called the king Ashoka",
-        "a painting of Ashoka",
-        "a story told by grandparents"
+        "find another old writing that gives both of his names together",
+        "look at a modern painting of the king",
+        "trust a story told by grandparents"
        ],
        "a": 0
       },
@@ -768,7 +768,7 @@
      [
       {
        "t": "mcq",
-       "p": "David Tilman, an American scientist, grew many small plots of grassland. Then a drought came. Which plots kept growing best?",
+       "p": "A scientist grows many small plots of grassland. Then a drought comes. Which plots will most likely keep growing best?",
        "opts": [
         "plots with many kinds of plants",
         "plots with only one kind of plant",
@@ -778,7 +778,7 @@
       },
       {
        "t": "mcq",
-       "p": "Gordon Allport, an American psychologist, studied prejudice. He said meeting people of another group reduces prejudice best when...",
+       "p": "Children from two groups who do not trust each other are brought together. When is meeting most likely to make them trust each other more?",
        "opts": [
         "they meet as equals and work towards a shared goal",
         "one group is in charge of the other",
@@ -834,7 +834,7 @@
       },
       {
        "t": "write",
-       "p": "Valli, the mother in this week's story 'Her Own Name', said a vote must belong to one person, not to a house or a husband. If you were writing a new country's rules, who would you allow to vote, and why?",
+       "p": "Some people once said a vote should belong to a house or a husband, not to each person. If you were writing a new country's rules, who would you allow to vote, and why?",
        "lines": 4
       }
      ]
@@ -1408,8 +1408,8 @@
    "a": "Parliament makes the laws. The executive, the President, Prime Minister, ministers and officials, carries them out. The courts decide whether the laws were kept."
   },
   {
-   "q": "Why is Republic Day on 26 January?",
-   "a": "On 26 January 1950 India's Constitution came into force. The date was chosen because on 26 January 1930 the Congress had called for full freedom."
+   "q": "What is the difference between what India celebrates on Independence Day and on Republic Day?",
+   "a": "Independence Day marks the day India became free of British rule. Republic Day marks the day India's own Constitution came into force, so the country was run by rules its own people had made, with leaders chosen by vote."
   }
  ]
 }

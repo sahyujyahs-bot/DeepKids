@@ -1863,7 +1863,7 @@
   },
   {
    "t": "mcq",
-   "p": "How did scientists find out where monarch butterflies go in winter?",
+   "p": "How could scientists find out where monarch butterflies go in winter?",
    "opts": [
     "Volunteers tagged butterflies, and the tags pointed the way to Mexico",
     "They followed them in an aeroplane",
@@ -2032,11 +2032,11 @@
     },
     {
      "t": "write",
-     "p": "In the bowl test, you walked your usual steps from a secret new start. Where did you stop, and why?",
+     "p": "With your eyes shut, you learn to walk from a mark to a bowl in your usual steps. Then someone moves your start 2 steps to the left, without telling you. Where will you stop, and why?",
      "lines": 3,
      "how": "e1",
-     "a": "I stopped about as far to one side of the bowl as my start had been moved. My steps went the same way and the same distance as always, so they ended in a new place.",
-     "why": "A strong answer uses the child's own numbers and says the steps carry a direction and a distance, not the place of the bowl."
+     "a": "About 2 steps to the left of the bowl. My steps go the same way and the same distance as always, so they end in a new place.",
+     "why": "A strong answer says the steps carry a direction and a distance, not the place of the bowl."
     },
     {
      "t": "mcq",
@@ -2241,7 +2241,7 @@
     },
     {
      "t": "write",
-     "p": "In the paper butterfly test, why did the butterfly go further with the fan behind her, even though she took about the same time to fall?",
+     "p": "A paper butterfly is dropped twice from the same height: once in still air, and once with a fan blowing from behind. Why does she land further away with the fan, even though the fall takes about the same time?",
      "lines": 3,
      "how": "e2",
      "a": "All the time she was falling, the moving air pushed her forward. The fall took about the same time, but now she was moving forward the whole way down, so she landed further away.",
@@ -2491,20 +2491,20 @@
     },
     {
      "t": "order",
-     "p": "Put these events in the story of how the monarch's winter home was found, in order.",
+     "p": "Scientists want to find where butterflies go in winter. Put these steps in the order that makes sense.",
      "items": [
-      "Catalina Aguado and Ken Brugger find the forests full of monarchs.",
-      "Volunteers start sticking paper tags on monarchs.",
-      "Tagged butterflies from the United States are found in those forests.",
+      "People search there and find forests full of butterflies.",
+      "Volunteers stick paper tags on butterflies.",
+      "Tagged butterflies are found in those forests.",
       "Tags are posted back from further and further south."
      ],
      "a": [
-      "Volunteers start sticking paper tags on monarchs.",
+      "Volunteers stick paper tags on butterflies.",
       "Tags are posted back from further and further south.",
-      "Catalina Aguado and Ken Brugger find the forests full of monarchs.",
-      "Tagged butterflies from the United States are found in those forests."
+      "People search there and find forests full of butterflies.",
+      "Tagged butterflies are found in those forests."
      ],
-     "why": "The tags came first, pointing south. The forests were found in 1975, and then tagged butterflies were found there, proving the journey."
+     "why": "The tags come first, pointing the way. Then people search where the tags point. Finding tagged butterflies in the forests proves the journey."
     },
     {
      "t": "mcq",

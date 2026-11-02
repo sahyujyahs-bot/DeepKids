@@ -2150,15 +2150,15 @@
   },
   {
    "t": "mcq",
-   "p": "Before 1822, many people in Europe thought swallows spent the winter where?",
+   "p": "Long ago, many people thought swallows slept all winter in the mud at the bottom of lakes, because the birds vanished each autumn. Which find would best show they were wrong?",
    "opts": [
-    "Asleep in the mud at the bottom of lakes",
-    "In India",
-    "In Africa",
-    "In nests on houses"
+    "A swallow seen sleeping on a wire",
+    "A bird that comes back in spring carrying something from a faraway land",
+    "Mud that is cold in winter",
+    "Swallows nesting on houses in summer"
    ],
-   "a": 0,
-   "why": "Writers such as Olaus Magnus said swallows slept in mud. A stork found with an African spear in 1822 helped show that birds fly far away instead.",
+   "a": 1,
+   "why": "Something from a faraway land shows the bird had been there and flown back. In 1822 a stork came back to Germany with an African spear in its neck, which helped show that birds fly far away instead of sleeping in mud.",
    "outcome": 5
   },
   {
@@ -2215,15 +2215,15 @@
   },
   {
    "t": "mcq",
-   "p": "Amur falcons rest in Nagaland in October. Where do they fly next?",
+   "p": "Some falcons fly from cold eastern Asia to spend the winter in warm southern Africa, across a wide sea. On the way, they stop for weeks in north-east India. Why do they stop?",
    "opts": [
-    "Up the Himalayas to sleep",
-    "To Antarctica",
-    "Across the Arabian Sea to southern Africa",
-    "Back to China straight away"
+    "To sleep through the winter",
+    "To rest and eat plenty before the long flight across the sea",
+    "Because they have reached the South Pole",
+    "To build nests for their chicks"
    ],
-   "a": 2,
-   "why": "After feeding in Nagaland, Amur falcons cross the Arabian Sea to spend the winter in southern Africa, then fly back in spring.",
+   "a": 1,
+   "why": "Over the open sea there is nowhere to land or feed, so migrating birds must eat plenty first. Amur falcons do this in Nagaland, then cross the Arabian Sea.",
    "outcome": 4
   }
  ],
@@ -2553,9 +2553,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Eberhard Gwinner kept warblers in a room where the light stayed the same all year. They still became restless at about migration time.",
+     "p": "Birds are kept in a room where the light stays the same all year. They still become restless at about the time their kind migrates. This shows their timing comes partly from inside them.",
      "a": true,
-     "why": "True. The birds have a yearly clock inside them. In the steady room it ran about 10 months, not 12, so in the wild, day length keeps it on time."
+     "why": "True. Nothing outside changed, so the timing came from a yearly clock inside the birds. In such a room it ran about 10 months, not 12, so in the wild, day length keeps it on time."
     },
     {
      "t": "write",
@@ -2629,9 +2629,9 @@
        "says": "The swallows are born knowing. Something inside them tells them when."
       }
      ],
-     "ask": "Which sister do you think is closer to the truth? Use the warbler experiment in your answer. Then say what the other sister might have right.",
+     "ask": "Which sister do you think is closer to the truth? Think about birds kept in a room where the light stays the same all year: they still become restless at migration time. Then say what the other sister might have right.",
      "lines": 5,
-     "a": "A strong answer uses Gwinner's warblers, which became restless at migration time in a closed room, so the timing is inside them, as Revathi says. It also gives Nila her due: many birds fly in flocks, and some learn the route from others. Timing and route might be learned in different ways.",
+     "a": "A strong answer uses the birds in the steady room, which became restless at migration time with no change outside, so the timing is inside them, as Revathi says. It also gives Nila her due: many birds fly in flocks, and some learn the route from others. Timing and route might be learned in different ways.",
      "why": "Scientists think the timing comes mostly from inside, set by day length, while finding the way uses inborn sense and learning together."
     },
     {
@@ -2655,18 +2655,18 @@
     },
     {
      "t": "label",
-     "p": "On this map, label: the place Amur falcons start, the place they rest in India, and the place they spend the winter.",
+     "p": "Some birds fly a long way each year. On this map, label: the place where they raise chicks in summer, the place where they rest and feed on the way, and the place where they spend the winter.",
      "labels": [
-      "eastern China and Russia",
-      "Nagaland",
-      "southern Africa"
+      "raise chicks in summer",
+      "rest and feed on the way",
+      "spend the winter"
      ],
      "a": [
-      "eastern China and Russia",
-      "Nagaland",
-      "southern Africa"
+      "raise chicks in summer",
+      "rest and feed on the way",
+      "spend the winter"
      ],
-     "why": "Amur falcons nest in eastern China and Russia, rest and feed in Nagaland in October and November, and fly across the Arabian Sea to winter in southern Africa.",
+     "why": "Migrating birds raise chicks where summer brings plenty of food, stop to eat before long crossings, and spend the winter where it stays warm and food lasts.",
      "art": "An outline map of Asia, the Arabian Sea and Africa with three blank label boxes and a dotted path between them.",
      "how": "a4"
     }
@@ -2710,7 +2710,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, Arjun's grandmother Paati says, 'The eesal come out after the first big rain.' This year the rain came a month late. When did the eesal come?",
+     "p": "A grandmother says, 'The winged termites come out after the first big rain.' This year the rain came a month late. When did the winged termites most likely come?",
      "opts": [
       "On the same date as last year",
       "Before the rain, as a warning",

@@ -1826,15 +1826,15 @@
   },
   {
    "t": "mcq",
-   "p": "Before Galileo, most astronomers in Europe thought what?",
+   "p": "From the ground, the Sun, the Moon and the stars all seem to move across the sky each day. Why did people long ago think the Earth stood still in the middle?",
    "opts": [
-    "The Earth stood still in the centre and everything went round it",
-    "The Sun went round Venus",
-    "There were no planets",
-    "The Earth went round the Moon"
+    "The ground feels still under us, and everything seems to go round us",
+    "They had telescopes that showed it",
+    "The Sun really does go round the Earth",
+    "The stars told them"
    ],
    "a": 0,
-   "why": "Most followed Ptolemy's Earth-centred plan for about 1,500 years. Galileo's view of Venus showed it was wrong.",
+   "why": "We cannot feel the Earth moving, so it looks as if the sky turns round us. It took careful watching through telescopes to show that the Earth and the planets go round the Sun.",
    "outcome": 4
   },
   {

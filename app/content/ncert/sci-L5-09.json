@@ -431,7 +431,7 @@
         ["A. Day and night", [
           {"t": "mcq", "p": "Day and night happen because:", "opts": ["The Sun goes round the Earth", "The Earth rotates (spins)", "Clouds cover the Sun", "The Moon blocks the Sun"], "a": 1},
           {"t": "fill", "p": "The Sun seems to rise in the ____ and set in the west.", "a": ["east"]},
-          {"t": "fill", "p": "The first village in India to see the sunrise is Dong in ____.", "a": ["Arunachal Pradesh"]},
+          {"t": "fill", "p": "The Sun rises first in the part of India that is furthest to the ____.", "a": ["east"]},
           {"t": "mcq", "p": "Seas and oceans cover about how much of the Earth?", "opts": ["One-fourth", "Half", "Three-fourths", "All of it"], "a": 2}
         ]],
         ["B. Changes", [

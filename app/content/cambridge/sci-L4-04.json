@@ -569,7 +569,7 @@
       "day": 9,
       "sections": [
         ["A. Using the map", [
-          {"t": "sort", "p": "Using the map on page 78, sort these places by their risk of volcanoes and earthquakes.", "items": ["Japan", "Chile", "Indonesia", "Most of Australia", "Northern Europe", "Philippines", "Mexico", "Central Africa away from the DRC"], "cats": ["High risk", "Low risk"]},
+          {"t": "sort", "p": "Volcanoes and earthquakes happen most where pieces of the Earth's crust meet and move, like around the Pacific Ocean. Sort these places by their risk.", "items": ["Japan", "Chile", "Indonesia", "Most of Australia", "Northern Europe", "Philippines", "Mexico", "Central Africa away from the DRC"], "cats": ["High risk", "Low risk"]},
           {"t": "write", "p": "Nepal is far from the Pacific Ring of Fire but has big earthquakes. Using what you know about the Indian plate, explain why.", "lines": 3}
         ]],
         ["B. Tsunami thinking", [

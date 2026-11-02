@@ -545,7 +545,7 @@
       },
       {
        "t": "write",
-       "p": "Think of the path in the story. Use it to explain why practising a little every day works better than practising a lot once.",
+       "p": "A path across a field gets clearer each time someone walks on it, and grows over when nobody does. Use this to explain why practising a little every day works better than practising a lot once.",
        "lines": 3
       }
      ]
@@ -1075,11 +1075,11 @@
    "a": "The brain fills in gaps: what we see is partly built by the brain."
   },
   {
-   "q": "Why did many people miss the gorilla?",
-   "a": "They were paying attention to the passes. We notice what we focus on and miss much of the rest."
+   "q": "People watching a video of a ball game are asked to count the passes. Many of them miss a person in a gorilla suit walking through. Why?",
+   "a": "They are paying attention to the passes. We notice what we focus on and miss much of the rest."
   },
   {
-   "q": "What did your forgetting test show, and how can you remember better?",
+   "q": "When do we forget fastest after learning something new, and how can you remember better?",
    "a": "We forget fastest soon after learning. To remember better, practise again after a gap, make a picture, and sleep."
   },
   {
@@ -1087,8 +1087,8 @@
    "a": "For example, crows make hooks, octopuses explore with their arms, and bees roll balls."
   },
   {
-   "q": "A slime mould has no brain. What did it do in the maze, and does that count as thinking?",
-   "a": "It sensed the food and grew along the shortest path to it. It sensed, decided and solved the maze, so it thinks in its own way. Some scientists keep the word thinking for animals with nerves."
+   "q": "A slime mould has no brain. If you put food at the end of a maze, how could it find the shortest path? Does that count as thinking?",
+   "a": "It spreads out, senses the food, and keeps the branches that reach the food by the shortest way while the others shrink. It senses, decides and solves the maze, so it thinks in its own way. Some scientists keep the word thinking for animals with nerves."
   }
  ]
 }

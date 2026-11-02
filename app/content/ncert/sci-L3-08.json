@@ -371,7 +371,7 @@
       "day": 5,
       "sections": [
         ["A. Why we eat", [
-          {"t": "mcq", "p": "Shirin often fell sick. What did the champion say she should change?", "opts": ["Eat only rice and potatoes", "Eat many kinds of food: vegetables, fruits, different grains, dal and nuts, cooked at home", "Stop eating breakfast", "Eat more sweets"], "a": 1},
+          {"t": "mcq", "p": "A girl eats mostly rice and potatoes and often falls sick. What change would help her most?", "opts": ["Eat only rice and potatoes", "Eat many kinds of food: vegetables, fruits, different grains, dal and nuts, cooked at home", "Stop eating breakfast", "Eat more sweets"], "a": 1},
           {"t": "sort", "p": "Sort these foods into the group they mostly belong to.", "items": ["Rice", "Roti", "Ghee", "Dal", "Paneer", "Egg", "Palak", "Guava", "Carrot"], "cats": ["Go (energy)", "Grow (body-building)", "Glow (protective)"]},
           {"t": "fill", "p": "In summer we sweat a lot and lose ____ from our body, so we must drink more.", "a": ["water"]}
         ]],
@@ -607,7 +607,7 @@
   ],
   "check": [
     {"q": "Why do we need to eat and drink?", "a": "Food gives us energy to move, play and think, helps our body grow and repair itself, and keeps us healthy; water keeps the body working and replaces water lost in sweat, breath and urine."},
-    {"q": "What did the champion tell Shirin, and what happened?", "a": "To eat many kinds of food, not only rice and potatoes: vegetables, fruits, different grains, dal and nuts, cooked at home. Shirin stopped falling sick, ran faster, felt energetic and won a medal."},
+    {"q": "Why is it better to eat many kinds of food, not only rice and potatoes?", "a": "Different foods give the body different things: grains give energy, dal and nuts help us grow, and vegetables and fruits help keep us from falling sick. A mix of foods, cooked at home, keeps the body strong and full of energy."},
     {"q": "What is a balanced diet? Give an example of a balanced meal.", "a": "Meals with a mix of energy-giving, body-building and protective foods, plus water. For example rice or roti, dal, a green vegetable, curd and a fruit."},
     {"q": "Name the six tastes of chhappan bhog. Is it true we taste sweet only on the tip of the tongue?", "a": "Sweet, spicy, astringent, sour, salty and bitter. No: our tongue test showed every taste can be felt all over the tongue; the tongue map was a mistake."},
     {"q": "Why do we eat seasonal food, and why do we drink more in summer?", "a": "Seasonal food is fresh, tasty, cheaper and suits the weather. In summer we sweat more, losing water, so we need to drink more."},

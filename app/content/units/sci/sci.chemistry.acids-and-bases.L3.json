@@ -1840,14 +1840,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 1675, Nicolas Lémery said acids taste sour because of what?",
+   "p": "Long ago, a chemist guessed that acids taste sour because their tiny particles have sharp spikes. How could chemists check an idea like this?",
    "opts": [
-    "Sharp spikes on their particles",
-    "Charged hydrogen particles",
-    "Tiny living beings"
+    "Look for the spikes with better tools, and test what acids do in water",
+    "Taste more lemons",
+    "Vote on whether they like the idea"
    ],
    "a": 0,
-   "why": "Lémery imagined spiky acid particles. Later chemists found that all acids give out charged hydrogen particles in water, and the spikes were never found.",
+   "why": "An idea must be tested. When chemists looked, they never found spikes. Instead they found that all acids give out charged hydrogen particles in water.",
    "outcome": 6
   }
  ],
@@ -1945,7 +1945,7 @@
     },
     {
      "t": "truefalse",
-     "p": "In the Cabbage Colour Line test, every glass got the same amount of cabbage water, so that only the added liquid changed.",
+     "p": "To compare liquids fairly with cabbage water, every glass should get the same amount of cabbage water, so that only the added liquid changes.",
      "a": true,
      "why": "True. Keeping everything else the same is what makes it a fair test. Then any colour difference comes from the liquid.",
      "how": "e1"
@@ -1976,7 +1976,7 @@
     },
     {
      "t": "order",
-     "p": "In the Cabbage Colour Line test, put these glasses in order from pinkest to greenest.",
+     "p": "Each of these is added to a glass of purple cabbage water. Put the glasses in order from pinkest to greenest.",
      "items": [
       "soapy water",
       "lemon juice",
@@ -2017,10 +2017,10 @@
        "says": "Use tamarind, like we always did. It is cheap and it works."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that someone else has right.",
+     "ask": "Which idea do you agree with most? Give a reason. Then say one thing that someone else has right.",
      "lines": 5,
      "a": "A strong answer picks one side and backs it with a fact. For example: 'I agree with Lakshmi, because lemon is a weak acid, safe to touch, and a strong cleaner can burn skin.' Then it says what another side has right: 'But Paati is right too, because tamarind also has an acid, and Amma is right that a strong cleaner is faster for a grown-up.'",
-     "why": "There is no single right answer. Lemon and tamarind both clean brass because their weak acids dissolve the dull coating. A good answer uses what the unit taught: strong acids and bases burn, weak ones are safe to handle."
+     "why": "There is no single right answer. Lemon and tamarind both clean brass because their weak acids dissolve the dull coating. A good answer uses the idea that strong acids and bases burn, and weak ones are safe to handle."
     },
     {
      "t": "write",
@@ -2052,7 +2052,7 @@
     },
     {
      "t": "mcq",
-     "p": "In The Purple Surprise, a squeeze of lemon turns purple cabbage water pink. What is the pink telling you?",
+     "p": "A squeeze of lemon turns purple cabbage water pink. What is the pink telling you?",
      "opts": [
       "The lemon juice has an acid in it",
       "The lemon juice is a base",
@@ -2341,12 +2341,11 @@
     },
     {
      "t": "fill",
-     "p": "The Danish chemist who gave liquids pH numbers in 1909 was Søren ____.",
+     "p": "On the pH scale, 7 means neutral. A liquid with a number lower than 7 is an ____.",
      "a": [
-      "Sørensen",
-      "Sorensen"
+      "acid"
      ],
-     "why": "Søren Sørensen made the pH scale at the Carlsberg Laboratory in Copenhagen."
+     "why": "Numbers below 7 mean acids, and the lower the number, the stronger the acid. Numbers above 7 mean bases. Lemon juice is about 2, plain water about 7, and soapy water about 10."
     },
     {
      "t": "match",

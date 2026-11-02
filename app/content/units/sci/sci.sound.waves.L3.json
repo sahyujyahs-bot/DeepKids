@@ -1807,26 +1807,26 @@
   },
   {
    "t": "mcq",
-   "p": "Inge Lehmann found a solid ball at the centre of the Earth. How?",
+   "p": "Nobody can dig to the centre of the Earth. How can scientists find out what is inside?",
    "opts": [
-    "She dug a deep hole",
-    "She studied the times when earthquake waves arrived at machines around the world",
-    "She looked through a telescope"
+    "Dig a very deep hole",
+    "Time when earthquake waves arrive at machines around the world",
+    "Look through a telescope"
    ],
    "a": 1,
-   "why": "Nobody can dig that deep. Lehmann studied when earthquake waves arrived at seismographs far away. Faint waves arrived where a fully liquid core would leave none, so she worked out that the core has a solid ball inside.",
+   "why": "Earthquake waves travel through the Earth and change as they pass through different layers. By timing when they arrive at machines far away, scientists can work out what the waves passed through.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Before 1936, what did many scientists think about the Earth's core?",
+   "p": "Some earthquake waves cannot pass through liquid. Yet faint waves still arrive on the far side of the Earth, after passing near its centre. What does this suggest?",
    "opts": [
-    "It was hollow",
-    "It was liquid all the way through",
-    "It was made of ice"
+    "The core is hollow",
+    "There is something solid in the middle",
+    "The core is made of ice"
    ],
    "a": 1,
-   "why": "Many scientists thought the whole core was liquid metal. Inge Lehmann showed that a solid inner core explained the faint waves better. Later measurements in 1970 confirmed it.",
+   "why": "If the whole core were liquid, those places would get no waves. A solid ball in the middle can bend some waves so they reach there.",
    "outcome": 6
   }
  ],

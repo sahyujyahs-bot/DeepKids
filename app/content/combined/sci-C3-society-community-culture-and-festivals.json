@@ -578,7 +578,7 @@
       },
       {
        "t": "write",
-       "p": "In the ant test, what did the ants do after the path was wiped? Why?",
+       "p": "Ants walk in a line along the same path to food. If you wipe across the path with a wet finger, what do you think the ants will do? Why?",
        "lines": 3
       }
      ]
@@ -705,11 +705,11 @@
       },
       {
        "t": "mcq",
-       "p": "Monkeys on Koshima island washed their sweet potatoes. How did they come to do it?",
+       "p": "A young monkey starts washing her sweet potatoes in the sea. A few years later, many monkeys in her group do it too. How did the others most likely learn?",
        "opts": [
         "They were born knowing how.",
-        "They learned it by watching Imo and each other.",
-        "The scientists taught them."
+        "They learned it by watching her and each other.",
+        "Someone explained it to them in words."
        ],
        "a": 1
       }
@@ -763,11 +763,11 @@
       },
       {
        "t": "mcq",
-       "p": "Elinor Ostrom studied villages that share ponds, forests and fields. What did she find?",
+       "p": "Many families in a village share one pond and one forest. What can keep them from being used up or spoiled?",
        "opts": [
-        "Shared things are always spoiled.",
-        "Many villages make fair rules and look after shared things for hundreds of years.",
-        "Only governments can protect shared things."
+        "Nothing. Shared things are always spoiled.",
+        "The families make fair rules together and check that everyone keeps them.",
+        "Only a government far away can protect them."
        ],
        "a": 1
       },
@@ -1247,8 +1247,8 @@
    "a": "For example: the cook, the shopkeeper, the farmer and the truck driver. Also the miller and the dairy worker."
   },
   {
-   "q": "What did the paper-bag test show?",
-   "a": "When each person does one step, the group usually makes more, because each person gets quick at their step. This is the division of labour."
+   "q": "Why can a group make more paper bags when each person does one step, instead of each person making whole bags?",
+   "a": "Each person does the same step again and again, so they get quick at it, and nobody wastes time switching jobs. So the group usually makes more. This is the division of labour."
   },
   {
    "q": "What are public services, and who pays for them?",

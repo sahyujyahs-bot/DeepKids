@@ -309,7 +309,7 @@
       "sections": [
         ["A. Situations", [
           {"t": "match", "p": "Match each problem to the law that helps.", "pairs": [["A 9-year-old girl is kept home to work", "Right to Education Act"], ["A village wants to know how the money for its road was spent", "Right to Information Act"], ["A farm worker has no work in the dry months", "MGNREGA"], ["A school refuses a child for having no transfer certificate", "Right to Education Act"]]},
-          {"t": "write", "p": "Ramu applied for work at the Gram Panchayat 20 days ago and has not got any work. What does MGNREGA say should happen?", "lines": 2}
+          {"t": "write", "p": "A law promises work within 15 days to anyone in a village who asks for it, or else a daily allowance. Ramu applied 20 days ago and has not got any work. What should happen, and why is it good that the law says so?", "lines": 2}
         ]],
         ["B. Money and records", [
           {"t": "write", "p": "A bill for ₹500 of groceries shows ₹25 GST. How much was the price before tax? Who gets the ₹25, and what might it pay for?", "lines": 3},
@@ -458,11 +458,11 @@
   ],
   "check": [
     {"q": "What is globalization? Give an example from your home.", "a": "The whole world becoming connected through trade, travel, jobs and communication; for example a phone or toy made in another country, or Indian tea sold abroad."},
-    {"q": "What does the Right to Education Act promise?", "a": "Free and compulsory education up to class 8 for every child aged 6 to 14 (up to 18 for children with disabilities), free books, uniform and mid-day meal in government schools, 25% seats in private schools for poor children, no admission tests, no donations, no refusal for missing documents."},
+    {"q": "Why might a country make a law that every child aged 6 to 14 can go to school for free?", "a": "So that no child misses school because the family is poor, or because a school turns them away. Schooling helps every child read, think and earn later, and that makes the whole country stronger. In India, the Right to Education Act does this."},
     {"q": "Why do citizens have a right to know how the government spends money?", "a": "Because it is the people's money: everyone pays tax, even on small things. Knowing how it is spent helps stop cheating and makes the government open and accountable."},
     {"q": "How do you apply under RTI, and how soon must the answer come?", "a": "Write on plain paper to the Public Information Officer of the department, with ₹10 fee (free for BPL families), no reason needed. The answer must come in 30 days, or 48 hours if it concerns someone's life or liberty; delay can bring a ₹250-a-day penalty, up to ₹25,000."},
     {"q": "What does MGNREGA promise, and where do you apply?", "a": "Up to 100 days of paid manual work a year to each rural household that wants it, applied for at the Gram Panchayat. Job card free; work within 15 days or an allowance; wages into a bank or post office account within 15 days; equal pay for women and men."},
     {"q": "What facilities must be at an MGNREGA work site?", "a": "Drinking water, shade, a crèche for small children, and free treatment if a worker is injured."},
-    {"q": "How did our social audit catch cheating, and who started public hearings like this?", "a": "By comparing the muster roll with job cards and what villagers said, we found a fake name and a wrong attendance. The MKSS with Aruna Roy in Rajasthan read official records aloud at village hearings, which led to the RTI movement."}
+    {"q": "How can a village check that money meant for workers is not being stolen?", "a": "Compare the official list of workers and days with the workers' own job cards and what villagers say. Read the records aloud at a public meeting, so everyone can spot a fake name or a wrong attendance."}
   ]
 }

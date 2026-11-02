@@ -1751,7 +1751,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In the story, Arjun says, \"An empty bottle has nothing in it.\" Describe a test that shows him he is wrong.",
+     "p": "A friend says, \"An empty bottle has nothing in it.\" Describe a test that shows your friend is wrong.",
      "lines": 3,
      "a": "Push a balloon into the bottle and stretch its mouth over the neck. Try to blow it up. It hardly grows, because the bottle is full of air, and the air has nowhere to go.",
      "why": "A strong answer names a real test and says what you would see, and why it shows air is there.",
@@ -1868,7 +1868,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, the girl in the story, measures round her chest with a string. When she breathes in deeply, the measure gets bigger. Why?",
+     "p": "A girl measures round her chest with a string. When she breathes in deeply, the measure gets bigger. Why?",
      "lines": 2,
      "a": "Her lungs fill with air, and air takes up space. Her ribs move out to make room, so her chest gets bigger.",
      "why": "A strong answer links the bigger chest to air taking up space.",
@@ -2170,10 +2170,10 @@
     },
     {
      "t": "write",
-     "p": "Hero of Alexandria, a Greek engineer who lived about 2,000 years ago, wrote that air is made of tiny pieces with empty space between them. Which of your tests supports this idea best? Explain.",
+     "p": "Long ago, a Greek engineer wrote that air is made of tiny pieces with empty space between them. You push the plunger of a closed syringe full of air, then of one full of water. What would you see, and how does it support his idea?",
      "lines": 4,
-     "a": "The syringe test. Air could be squashed into less space, but water could not. If air is tiny pieces with gaps between them, pushing moves the pieces closer and closes the gaps.",
-     "why": "A strong answer picks the syringe and explains how gaps between particles let air be squashed.",
+     "a": "The air can be squashed into less space, but the water cannot. If air is tiny pieces with gaps between them, pushing moves the pieces closer and closes the gaps.",
+     "why": "A strong answer says the air squashes and the water does not, and explains how gaps between particles let air be squashed.",
      "how": "e2"
     },
     {

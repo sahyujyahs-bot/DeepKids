@@ -722,11 +722,11 @@
       },
       {
        "t": "mcq",
-       "p": "In the story, Meena's magnet would not pick up two brass keys from a drain. But the keys hung on a steel ring. How did the keys come up?",
+       "p": "A magnet will not pick up brass keys. But these brass keys hang on a steel ring. If you lower a magnet onto them, what happens?",
        "opts": [
-        "They did not come up.",
-        "The magnet lifted the ring, and the keys hung on the ring.",
-        "The magnet lifted only one key."
+        "They do not come up.",
+        "The magnet lifts the ring, and the keys hang on the ring.",
+        "The magnet lifts only one key."
        ],
        "a": 1
       },
@@ -1362,8 +1362,8 @@
    "a": "The Earth is a magnet. The needle is a magnet too, and it turns to line up with the Earth's magnetic field."
   },
   {
-   "q": "In the story, why did Meena aim the magnet at the ring and not the keys?",
-   "a": "The keys were brass, which is not magnetic. The ring was steel, which a magnet attracts, and the keys hung on the ring."
+   "q": "Two brass keys hang on a steel ring, and they have fallen into a drain. Why should you aim a magnet at the ring and not the keys?",
+   "a": "Brass is not magnetic, so the magnet will not pull the keys. The ring is steel, which a magnet attracts, and the keys hang on the ring."
   }
  ]
 }

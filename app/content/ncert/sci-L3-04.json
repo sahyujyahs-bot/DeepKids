@@ -425,7 +425,7 @@
           {"t": "mcq", "p": "A money plant cannot stand up by itself because:", "opts": ["Its stem is thin and bendy", "It has no leaves", "Its roots are too long", "It is a tree"], "a": 0}
         ]],
         ["C. Parts and jobs", [
-          {"t": "draw", "p": "Draw a tomato plant like the one on page 58. Label: root, stem, leaf, flower, fruit, seed."},
+          {"t": "draw", "p": "Draw a tomato plant. Label: root, stem, leaf, flower, fruit, seed."},
           {"t": "match", "p": "Match each part to its job.", "pairs": [["Root", "Holds the plant in the soil and takes in water"], ["Stem", "Holds the plant up and carries water up and food down"], ["Leaf", "Makes food using sunlight"], ["Flower", "Makes seeds"], ["Seed", "Grows into a new plant"]]}
         ]]
       ]

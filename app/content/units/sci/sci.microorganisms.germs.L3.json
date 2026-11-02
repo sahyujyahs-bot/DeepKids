@@ -2071,9 +2071,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw the Broad Street story as a germ chain: from the sick baby to the cesspit, to the well, to the pump, to the people who drank. Then draw where John Snow broke it.",
-     "a": "A chain of five pictures joined by arrows, with the break at the pump handle.",
-     "why": "Drawing the chain shows that cholera travelled in water, and that removing the handle broke the link between the well and the people."
+     "p": "Draw a germ chain for an illness that travels in water: from a sick person, to dirty waste, to a well, to the people who drink from it. Then draw where you could break the chain.",
+     "a": "A chain of pictures joined by arrows, with a break marked, for example at the well or the pump.",
+     "why": "Drawing the chain shows how the illness travels in water, and that breaking one link, like closing a dirty well, protects everyone after it."
     },
     {
      "t": "perspective",
@@ -2157,13 +2157,13 @@
     },
     {
      "t": "truefalse",
-     "p": "John Snow's famous map was drawn after he had already decided that cholera spread through water.",
+     "p": "A scientist can gather evidence, such as a map of where people fell ill, to show others an idea she already thinks is right.",
      "a": true,
-     "why": "True. Snow had argued since 1849 that cholera spread through water. He drew the map for a second edition of his book in 1855, to show his evidence to others."
+     "why": "True. Scientists often have an idea first, then gather and show evidence so others can check it. John Snow drew his cholera map this way."
     },
     {
      "t": "write",
-     "p": "In the story, Kavya cannot know whether her care stopped Paati catching a cold. Why is it hard to count illnesses that did not happen?",
+     "p": "You wash your hands carefully all week, and your grandmother does not catch your cold. Why is it hard to be sure your care is what stopped her getting ill?",
      "a": "Because when a chain is broken, nothing happens, and nothing is easy to miss. You can only compare with times or places where the chain was not broken.",
      "why": "Scientists measure this by comparing many families or towns, some with a habit and some without."
     },
@@ -2300,26 +2300,26 @@
   },
   {
    "t": "mcq",
-   "p": "Before John Snow, what did most people think caused cholera?",
+   "p": "Long ago, many people thought bad-smelling air caused cholera. Which finding would show that dirty water, not air, was the cause?",
    "opts": [
-    "Bad air, called miasma",
-    "Dirty water",
-    "Mosquitoes"
+    "People who breathed the same air but drank clean water did not fall ill",
+    "The air near the river smelled bad",
+    "Mosquitoes were seen near the houses"
    ],
    "a": 0,
-   "why": "Most people in 1854 thought bad-smelling air caused cholera. Snow showed it came from dirty water. Mosquitoes spread other illnesses, such as malaria and dengue, not cholera.",
+   "why": "If air were the cause, everyone breathing it would fall ill. If only those who drank the dirty water fell ill, the water is to blame. Mosquitoes spread other illnesses, like malaria, not cholera.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "How did John Snow show the Broad Street pump was to blame?",
+   "p": "Many people near one water pump fall ill. How could you find out whether the pump is to blame?",
    "opts": [
-    "He found that most people who died had drunk its water",
-    "He saw the bacteria with his own eyes",
-    "He smelled the air near it"
+    "Ask each family where they get their water, and see whether most who fell ill drank from that pump",
+    "Look for the germ with your own eyes",
+    "Smell the air near it"
    ],
    "a": 0,
-   "why": "He went from house to house and asked where each family got their water. Most who died had drunk from that pump, even some who lived far away. He did not see the germ himself.",
+   "why": "Comparing who drank the water with who fell ill shows the link. Germs are too small to see with your eyes. John Snow did this in London in 1854.",
    "outcome": 5
   }
  ],

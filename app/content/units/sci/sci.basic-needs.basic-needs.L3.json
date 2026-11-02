@@ -1713,14 +1713,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did Santorio find with his weighing chair?",
+   "p": "A man weighs everything he eats and drinks, and everything that leaves his body as urine and stools. The waste weighs much less, yet his own weight stays about the same. What does this show?",
    "opts": [
     "That the body loses a lot of water we cannot see",
     "That food makes us heavier forever",
     "That breathing does nothing"
    ],
    "a": 0,
-   "why": "Santorio found that much of what he ate and drank left his body unseen, through his skin and breath. He called it insensible perspiration.",
+   "why": "Much of what goes in must leave the body unseen, as water through the skin and in the breath. We lose water all the time, even when we cannot feel it.",
    "outcome": 6
   },
   {

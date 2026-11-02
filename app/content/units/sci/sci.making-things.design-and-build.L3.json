@@ -1506,26 +1506,26 @@
   },
   {
    "t": "mcq",
-   "p": "Why did ISRO give Chandrayaan-3's lander stronger legs and more fuel?",
+   "p": "A team's first Moon lander crashed. What is the best thing to do for the next one?",
    "opts": [
-    "To make it look better",
-    "Because the Chandrayaan-2 lander crashed, and they learned from it",
-    "Because the Moon had changed"
+    "Make it look better",
+    "Study what went wrong, and make those parts stronger",
+    "Hope the Moon has changed"
    ],
    "a": 1,
-   "why": "The Chandrayaan-2 lander crashed in 2019. ISRO studied what went wrong and improved the design. Chandrayaan-3 landed safely in 2023.",
+   "why": "A failure shows where a design is weak. India's Chandrayaan-2 lander crashed in 2019. ISRO gave Chandrayaan-3 stronger legs and more fuel, and it landed safely in 2023.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Stephanie Kwolek made a cloudy, runny liquid. What did she do that others might not have?",
+   "p": "A scientist makes a cloudy, runny liquid. Everyone expects liquids like it to be useless. What should she do?",
    "opts": [
-    "Threw it away",
-    "Tested it by spinning it into a fibre",
-    "Mixed it with water"
+    "Throw it away",
+    "Test it anyway, for example by spinning it into a fibre",
+    "Mix it with water"
    ],
    "a": 1,
-   "why": "Liquids like hers were usually thrown away, because people expected them to be useless. She insisted on testing it, and it made a very strong fibre, later called Kevlar.",
+   "why": "A guess is not a test. A scientist who insisted on testing a liquid like this found it made a very strong fibre, later called Kevlar.",
    "outcome": 6
   },
   {
@@ -1775,7 +1775,7 @@
     },
     {
      "t": "mcq",
-     "p": "Why did Kavya, in the story, test with half-full pots first?",
+     "p": "You are testing a new way to carry water pots on a bicycle. Why test with half-full pots first?",
      "opts": [
       "Half-full pots look nicer",
       "So a failure would spill less water",
@@ -1831,18 +1831,20 @@
     },
     {
      "t": "order",
-     "p": "Put Kavya's three bicycle designs from the story in order, first to last.",
+     "p": "Put these steps of making a design better in order, first to last.",
      "items": [
-      "Pots in cloth bags tied firmly, so they cannot twist",
-      "Shorter ropes, so the pots do not hit the wheel",
-      "Pots on long ropes, one on each side"
+      "Test the new version",
+      "Build a first version",
+      "Change the design to fix what went wrong",
+      "Test it and see what goes wrong"
      ],
      "a": [
-      "Pots on long ropes, one on each side",
-      "Shorter ropes, so the pots do not hit the wheel",
-      "Pots in cloth bags tied firmly, so they cannot twist"
+      "Build a first version",
+      "Test it and see what goes wrong",
+      "Change the design to fix what went wrong",
+      "Test the new version"
      ],
-     "why": "Each design came from what went wrong in the one before: swinging, then twisting."
+     "why": "Each new design comes from what went wrong in the one before. Then it must be tested again."
     },
     {
      "t": "match",
@@ -1994,28 +1996,30 @@
     },
     {
      "t": "fill",
-     "p": "Stephanie Kwolek's very strong fibre was later named ____.",
+     "p": "When a test shows a weak spot, a designer changes the design and then ____ it again.",
      "a": [
-      "Kevlar"
+      "tests",
+      "test",
+      "checks"
      ],
-     "why": "It is used in helmets, cut-proof gloves, ropes and protective vests."
+     "why": "A change might fix one problem and cause another, so each new version must be tested too."
     },
     {
      "t": "order",
-     "p": "Put Stephanie Kwolek's discovery in order.",
+     "p": "Put these steps of a surprising discovery in order.",
      "items": [
-      "The fibre was far stronger than expected",
-      "She made a cloudy, runny liquid",
-      "She persuaded the worker to spin it",
-      "Others expected it to be useless"
+      "The test shows it is far better than expected",
+      "Someone makes something new",
+      "People guess it will be useless",
+      "She tests it anyway"
      ],
      "a": [
-      "She made a cloudy, runny liquid",
-      "Others expected it to be useless",
-      "She persuaded the worker to spin it",
-      "The fibre was far stronger than expected"
+      "Someone makes something new",
+      "People guess it will be useless",
+      "She tests it anyway",
+      "The test shows it is far better than expected"
      ],
-     "why": "The guess said 'useless'. The test showed the opposite."
+     "why": "The guess said 'useless'. The test showed the opposite. A test, not a guess, decides."
     },
     {
      "t": "write",
@@ -2047,14 +2051,14 @@
     },
     {
      "t": "label",
-     "p": "Kavya's third bicycle design from the story is drawn here. Label what each part does: cloth bag, tied handles, tied bottom corner, equal water.",
+     "p": "This bicycle carries two round water pots in cloth bags. Label what each part does: cloth bag, tied handles, tied bottom corner, equal water.",
      "a": [
       "cloth bag: holds the round pot snugly",
       "tied handles: fix the bag to the carrier",
       "tied bottom corner: stops the bag swinging into the wheel",
       "equal water: keeps both sides the same weight so the bicycle stays upright"
      ],
-     "why": "Each part fixes a weak spot found in an earlier test.",
+     "why": "Each part fixes a weak spot: slipping, swinging or tipping.",
      "art": "A bicycle with two cloth bags tied to the carrier, each holding a round water pot, with four blank labels."
     },
     {

@@ -511,7 +511,7 @@
         ["A. Fair tests", [
           {"t": "mcq", "p": "Meera tests fabrics for a raincoat. Which test is fair?", "opts": ["One drop of water on each fabric, same size pieces", "A bucket of water on one, a drop on another", "Only testing the fabric she likes", "Testing in the dark"], "a": 0},
           {"t": "table", "p": "Kabir pulled paper strips until they tore. Make a block graph from his results (in bricks) and say which is strongest.", "cols": ["Paper", "Bricks long", "Strongest?"], "rows": 3, "prefill": ["Newspaper: 3", "Brown paper bag: 6", "Notebook paper: 4"]},
-          {"t": "write", "p": "Kabir's friend got different numbers. What should they do?", "lines": 2}
+          {"t": "write", "p": "You and a friend do the same test, but you get different numbers. What should you do?", "lines": 2}
         ]],
         ["B. Choose the material", [
           {"t": "match", "p": "Match each object to the best material.", "pairs": [["Kadhai for cooking", "iron or steel"], ["Bath towel", "cotton"], ["Raincoat", "plastic or nylon"], ["Window", "glass"], ["Cricket bat", "wood"]]},
@@ -531,14 +531,14 @@
       "sections": [
         ["A. What if?", [
           {"t": "write", "p": "What if glass were not transparent? Name two things in your home that would have to change, and what you might use instead.", "lines": 3},
-          {"t": "write", "p": "A plastic bottle is flexible, waterproof, light and shiny. Which of these properties matter for a water bottle, and which do not? Explain like Sam's chair on page 72.", "lines": 4}
+          {"t": "write", "p": "A plastic bottle is flexible, waterproof, light and shiny. Which of these properties matter for a water bottle, and which do not? Say why for each one.", "lines": 4}
         ]],
         ["B. Puzzles", [
           {"t": "mcq", "p": "A cotton T-shirt is made in a factory. Is the material natural or made?", "opts": ["Natural: cotton grows on a plant", "Made: it came from a factory", "Neither", "It is a kind of plastic"], "a": 0},
           {"t": "write", "p": "Design a test to find out which cloth bag can carry the most potatoes. What will you change, what will you keep the same, and what will you measure?", "lines": 4}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "Scientists once said burning wood gives out phlogiston. Lavoisier showed burning joins things with oxygen from the air. What did he do that the phlogiston believers had not done carefully?", "lines": 3},
+          {"t": "write", "p": "Long ago, some people thought burning wood gives something out into the air. Others thought burning takes something in from the air. What could you measure to help decide who is right?", "lines": 3},
           {"t": "write", "p": "Ravi says 'Plastic is fine as long as we recycle it.' Anjali says 'We should mostly use less plastic.' Who do you agree with more? Give a reason.", "lines": 3}
         ]]
       ]

@@ -327,12 +327,12 @@
         ["A. The flag", [
           {"t": "fill", "p": "The length and breadth of our flag are in the ratio ____ : 2.", "a": ["3"]},
           {"t": "match", "p": "Match each part of the flag to what it stands for.", "pairs": [["Saffron", "Sacrifice and renunciation"], ["White", "Peace and truth"], ["Green", "Greenery, prosperity and faith"], ["Chakra", "Keep moving forward"]]},
-          {"t": "fill", "p": "The Ashoka Chakra has ____ spokes.", "a": ["24", "twenty-four"]},
+          {"t": "fill", "p": "A flag uses colours and shapes instead of words, so that people who speak ____ languages can all understand it.", "a": ["different", "many", "all"]},
           {"t": "mcq", "p": "Which of these shows respect for the flag?", "opts": ["Flying it upside down", "Using it as a tablecloth", "Folding it neatly after taking it down", "Flying a torn flag"], "a": 2}
         ]],
         ["B. Emblem and money", [
-          {"t": "mcq", "p": "'Satyamev Jayate' means:", "opts": ["Long live India", "Truth alone triumphs", "Victory to the king", "Work is worship"], "a": 1},
-          {"t": "fill", "p": "Our national emblem was taken from the Lion Capital of Ashoka at ____.", "a": ["Sarnath"]},
+          {"t": "mcq", "p": "A country's motto says what it hopes to stand for. India's motto, 'Satyamev Jayate', means 'truth alone triumphs'. Which act fits this motto best?", "opts": ["Telling the truth even when it is hard", "Winning a game by cheating", "Hiding a mistake", "Shouting the loudest"], "a": 0},
+          {"t": "fill", "p": "The national emblem was copied from a stone carving more than 2,000 years old. Choosing such an old carving shows that the country is proud of its long ____.", "a": ["history", "past"]},
           {"t": "draw", "p": "Draw the rupee symbol and the Lion Capital as you saw them on a coin."}
         ]],
         ["C. Animal, bird, flower", [
@@ -350,7 +350,7 @@
         ["A. Spot the mistake", [
           {"t": "write", "p": "On 15 August you see a building with the flag hung green side up. What is wrong, and what should be done?", "lines": 2},
           {"t": "write", "p": "After a school function, small paper flags are lying on the ground. What should you do and why?", "lines": 2},
-          {"t": "mcq", "p": "A shop is selling handkerchiefs printed with the national flag. According to the flag rules in the book, this is:", "opts": ["Correct", "Not allowed", "Allowed only on 26 January", "Allowed if they are clean"], "a": 1}
+          {"t": "mcq", "p": "Printing the national flag on handkerchiefs is not allowed. What is the best reason?", "opts": ["Handkerchiefs are used for wiping and get dirty, which does not show respect for the flag", "Handkerchiefs are too small to print on", "Flags may only be made of paper", "Cloth cannot be printed"], "a": 0}
         ]],
         ["B. The anthem and the song", [
           {"t": "sort", "p": "Sort these names from the anthem.", "items": ["Punjab", "Gujarat", "Utkala", "Banga", "Vindhya", "Himachal", "Yamuna", "Ganga"], "cats": ["Region or state", "Mountains", "River"]},

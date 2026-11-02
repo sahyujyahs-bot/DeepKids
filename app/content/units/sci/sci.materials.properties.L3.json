@@ -3731,7 +3731,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the story, Shefali cut every thread to the same length and used shells of the same size. Why?",
+   "p": "A girl tests whether dampness changes how strong a thread is. She cuts every thread to the same length and uses shells of the same size. Why?",
    "opts": [
     "So that only the dampness changed, and the numbers could be compared",
     "So that the shells would not fall out",
@@ -3741,7 +3741,7 @@
    "a": 0,
    "outcome": 5,
    "why": "A fair test changes one thing. Same length and same shells meant that any difference in the count came from the dampness. 'Neat' and 'the village' are not reasons that make numbers comparable.",
-   "context": "In The Thread That Held at Dawn, a girl dropped cowrie shells into a cup hung from threads, at dawn and at noon."
+   "context": "In a dry or damp test, you hang a cup from a thread at dawn and at noon, and drop in shells until it breaks."
   },
   {
    "t": "mcq",

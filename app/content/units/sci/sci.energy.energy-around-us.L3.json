@@ -1750,15 +1750,15 @@
   },
   {
    "t": "mcq",
-   "p": "Émilie du Châtelet was a French scientist. What did she do with 's Gravesande's results?",
+   "p": "A brass ball that lands twice as fast makes a dent about four times as deep in soft clay. What does this tell us?",
    "opts": [
-    "She explained in her physics book that they showed a faster ball carries much more energy",
-    "She proved they were wrong",
-    "She built the first wind turbine",
-    "She discovered uranium"
+    "A faster ball carries much more energy, not just twice as much",
+    "The clay was softer the second time",
+    "Speed does not change energy",
+    "Heavier balls always make smaller dents"
    ],
    "a": 0,
-   "why": "In her book of 1740, she explained that the clay dents agreed with Gottfried Leibniz: twice the speed means four times the effect.",
+   "why": "Twice the speed gave four times the dent. So a moving thing's energy grows much faster than its speed: twice the speed means four times the energy.",
    "outcome": 5
   }
  ],

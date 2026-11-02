@@ -2137,7 +2137,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ukichiro Nakaya grew snowflakes in a cold laboratory in Japan. What did he find decides whether a snowflake grows as a plate, a needle or a branching star?",
+     "p": "A scientist grows snowflakes in a cold laboratory. What could he change to make them grow as a plate, a needle or a branching star?",
      "opts": [
       "The colour of the cloud",
       "The temperature and the moisture of the air",
@@ -2145,7 +2145,7 @@
       "The shape of the ground"
      ],
      "a": 1,
-     "why": "Nakaya showed that temperature and moisture decide the shape. That is why a snowflake's arms change as it falls through different air, and why all six arms change together."
+     "why": "Temperature and moisture decide the shape. That is why a snowflake's arms change as it falls through different air, and why all six arms change together."
     },
     {
      "t": "fill",
@@ -2384,9 +2384,9 @@
        "says": "Nature is never really symmetrical. Every leaf and face is a bit lopsided."
       }
      ],
-     "ask": "Who is more right? Use evidence from at least two activities in this unit. Then say what the other cousin has right.",
+     "ask": "Who is more right? Use at least two examples you have seen, such as bubbles, flowers, leaves or your own hands. Then say what the other cousin has right.",
      "lines": 5,
-     "a": "A strong answer sees that both are partly right. Many natural shapes are nearly symmetrical, like the middle bubbles, a snowflake's arms and a periwinkle. But none is perfectly even: edge bubbles, the window plant and your own two hands show small breaks, each caused by something different on one side.",
+     "a": "A strong answer sees that both are partly right. Many natural shapes are nearly symmetrical, like bubbles in the middle of a raft, a snowflake's arms and a periwinkle. But none is perfectly even: bubbles at the edge, a plant leaning to a window and your own two hands show small breaks, each caused by something different on one side.",
      "why": "This question has no single right side. A strong answer uses evidence for both."
     },
     {

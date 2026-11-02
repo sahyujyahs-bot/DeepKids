@@ -2550,14 +2550,14 @@
     },
     {
      "t": "mcq",
-     "p": "Glass frogs live in rainforests in Central and South America. When a glass frog sleeps, the frog becomes more see-through. How?",
+     "p": "A frog's skin and muscles are almost see-through, but red blood is easy to spot. How could a sleeping frog make itself harder to see?",
      "opts": [
-      "They stop breathing",
-      "They pack most of their red blood cells into their liver",
-      "They drink a lot of water"
+      "Stop breathing",
+      "Pack most of its red blood cells into one place, its liver",
+      "Drink a lot of water"
      ],
      "a": 1,
-     "why": "Scientists found this in 2022. Red blood is easy to spot, so while they sleep the frog hides most of their red blood cells in the liver. When they wake, the blood flows out again."
+     "why": "Red blood flowing through a see-through body gives the frog away. Glass frogs hide most of their red blood cells in their liver while they sleep, so the rest of the body looks clear. When they wake, the blood flows out again."
     },
     {
      "t": "mcq",

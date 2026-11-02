@@ -368,7 +368,7 @@
         ["A. Communication then and now", [
           {"t": "sort", "p": "Sort these ways of communicating.", "items": ["Drumbeats", "Carvings on rocks", "Pigeon carrying a message", "Video call", "Email", "Telegram", "Text message", "Letter by messenger"], "cats": ["Long ago", "Today"]},
           {"t": "fill", "p": "After the postman collects letters from the postbox, the post office ____ them by region and sends them on.", "a": ["sorts", "sort"]},
-          {"t": "mcq", "p": "Why did Dada ji say he sometimes misses letters?", "opts": ["They were faster than phones", "He misses the joy of writing and receiving a handwritten letter", "Phones are too costly", "Letters had pictures"], "a": 1}
+          {"t": "mcq", "p": "Phones are much faster than letters. Why might someone still miss handwritten letters?", "opts": ["Letters were faster than phones", "The joy of writing and receiving something made by hand", "Phones are too costly", "Letters had pictures"], "a": 1}
         ]],
         ["B. Transport", [
           {"t": "mcq", "p": "How does a flyover save time?", "opts": ["It makes cars go faster", "Vehicles pass above busy roads and crossings without stopping", "It has no traffic lights inside cars", "It is shorter than the road"], "a": 1},
@@ -593,7 +593,7 @@
   "check": [
     {"q": "Put these in order from oldest to newest: telephone, drumbeats, internet, postal service, messengers and pigeons.", "a": "Drumbeats (and rock carvings), messengers and pigeons, postal service, telephone (then radio and television), internet."},
     {"q": "What happens to a letter after you drop it in a postbox?", "a": "A postman collects it and takes it to the post office, where letters are sorted by region (using the PIN code) and sent to the right city; another postman delivers it to the house."},
-    {"q": "How do flyovers and metros make travel faster, and what problem did Dada ji point out?", "a": "Flyovers let vehicles pass above busy roads and crossings without stopping, and metros run fast on their own tracks. But many trees, birds and animals have disappeared because of these changes, so we need a balance, such as planting trees."},
+    {"q": "How do flyovers and metros make travel faster, and what can a city lose when it builds them?", "a": "Flyovers let vehicles pass above busy roads and crossings without stopping, and metros run fast on their own tracks. But trees are cut and birds and animals lose their homes, so we need a balance, such as planting new trees."},
     {"q": "Name three people who work in a hospital and what each does.", "a": "For example: doctor (treats patients and prescribes medicines), nurse (cares for patients and gives medicines), pharmacist (gives out medicines), lab technician (tests blood), ambulance driver (brings patients quickly)."},
     {"q": "Why do people keep money in a bank, and what is an ATM?", "a": "A bank keeps money safe and helps people save for the future (and gives loans, pays bills). An ATM, Automated Teller Machine, lets you take out money from your account at any time."},
     {"q": "What was the problem with the barter system?", "a": "It was hard to find someone who had what you wanted and wanted what you had, and to agree how much of one thing equals another. Money made exchange simple."},

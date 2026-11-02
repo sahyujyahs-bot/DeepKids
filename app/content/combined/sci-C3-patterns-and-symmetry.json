@@ -594,7 +594,7 @@
      [
       {
        "t": "write",
-       "p": "In the story, the peacocks all walked round the circle in the same direction. Why could a mirror not show the missing quarter?",
+       "p": "In a circle pattern, four peacocks all walk round the circle in the same direction. One quarter is missing. Why could a mirror not show the missing quarter?",
        "lines": 3
       },
       {
@@ -1350,8 +1350,8 @@
    "a": "Salt's tiny particles stack in a pattern that repeats in every direction, like boxes stacked in a godown. That pattern is a cube."
   },
   {
-   "q": "In the story, why couldn't Meenakshi use a mirror to find the missing quarter?",
-   "a": "The peacocks all walked round the circle the same way. A mirror flips them, so they would face each other. The pattern had rotational symmetry, so she had to trace a quarter and turn it."
+   "q": "A circle pattern has four peacocks, all walking round the circle the same way. One quarter is missing. Why can't a mirror show what the missing quarter looks like?",
+   "a": "A mirror flips things, so a flipped peacock would face the other way. The pattern has turning (rotational) symmetry, not mirror symmetry, so you must trace a quarter and turn it."
   }
  ],
  "story": {

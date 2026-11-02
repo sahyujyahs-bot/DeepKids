@@ -675,11 +675,11 @@
       },
       {
        "t": "mcq",
-       "p": "Robin Warren and Barry Marshall, two Australian doctors, said a germ causes most stomach ulcers. Other doctors finally believed them after…",
+       "p": "Two doctors said a germ causes most stomach ulcers. Most other doctors did not believe them. What would be the best way to convince them?",
        "opts": [
-        "careful evidence, Marshall's self-experiment and antibiotics curing ulcers",
-        "they shouted louder",
-        "drug companies asked them"
+        "Careful evidence, such as showing that medicine which kills the germ cures the ulcers",
+        "Shouting louder",
+        "Asking drug companies to agree"
        ],
        "a": 0
       },
@@ -1079,8 +1079,8 @@
    "a": "Mechanical breaks food into smaller pieces (chewing, churning). Chemical breaks it into different, smaller substances with enzymes and acid (amylase turning starch into sugar)."
   },
   {
-   "q": "What did the iodine test show?",
-   "a": "Starch with warm saliva stayed light, because amylase broke the starch down. Starch with water turned blue-black. Cold saliva worked more slowly."
+   "q": "Iodine turns starch blue-black. You mix starch with warm saliva in one cup and with water in another, wait, then add iodine. What do you expect, and why?",
+   "a": "The cup with warm saliva stays light, because amylase in saliva breaks the starch down. The cup with water turns blue-black, because its starch is still there. Cold saliva would work more slowly."
   },
   {
    "q": "Why is the small intestine long and covered in villi?",
@@ -1095,8 +1095,8 @@
    "a": "Microbes in her rumen digest the cellulose. She chews the cud to break it down more."
   },
   {
-   "q": "What did Alexis St Martin's stomach teach Beaumont?",
-   "a": "That digestion is chemical: stomach juice digested food even outside the body."
+   "q": "How could you test whether the stomach digests food by chemistry, and not only by squeezing it?",
+   "a": "Take some stomach juice and put a piece of food in it, in a warm bottle with no squeezing. If the food still breaks down, digestion is chemical."
   }
  ],
  "story": {

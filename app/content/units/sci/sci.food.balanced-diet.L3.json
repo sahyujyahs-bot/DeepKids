@@ -928,14 +928,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the story The Brown Jar, Kamal's mother, Sakhu, ate rice and thin dal every day and always felt full. Yet she grew pale and ill. Why?",
+     "p": "A woman eats rice and thin dal every day and always feels full. Yet she grows pale and ill. Why?",
      "opts": [
       "Enough food is not the same as the right food. Her meals were missing something her body needed.",
       "She ate too much rice",
       "Feeling full always means the body is well fed"
      ],
      "a": 0,
-     "why": "Sakhu's stomach was full, but her meals had almost no vegetables, fruit, milk or eggs. So her body was short of a vitamin it needs only a pinch of. A full stomach and a balanced diet are not the same thing."
+     "why": "Her stomach is full, but her meals have almost no vegetables, fruit, milk or eggs. So her body is short of a vitamin it needs only a pinch of. A full stomach and a balanced diet are not the same thing."
     },
     {
      "t": "write",

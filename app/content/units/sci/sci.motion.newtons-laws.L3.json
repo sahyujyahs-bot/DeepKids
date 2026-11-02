@@ -2047,14 +2047,14 @@
   },
   {
    "t": "mcq",
-   "p": "Aryabhata said the stars seem to move west because the Earth turns. What did he compare this to?",
+   "p": "The stars seem to move west across the night sky. If really the Earth is turning and the stars are still, which is the best comparison?",
    "opts": [
     "A person in a moving boat, who sees the trees on the bank move backwards",
     "A spinning top",
     "A falling stone"
    ],
    "a": 0,
-   "why": "Aryabhata wrote this comparison around 499 CE, in his book the Aryabhatiya.",
+   "why": "When you move, still things seem to move the other way. Aryabhata used this same comparison around 499 CE to explain that the Earth turns.",
    "outcome": 5
   },
   {

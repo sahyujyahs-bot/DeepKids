@@ -239,6 +239,6 @@
   {"q": "Why is a mushroom not a plant?", "a": "It can't make food from sunlight. It digests food outside its body, like the mould on our bread."},
   {"q": "Give two different ways people have sorted living things.", "a": "For example: by family tree (scientists), by use (healers, cooks), by number of senses (the Tolkappiyam)."},
   {"q": "What does the tree of life show?", "a": "That all living things are related, with shared ancestors. No branch is at the top."},
-  {"q": "What did Lynn Margulis discover about our cells?", "a": "Mitochondria (and chloroplasts in plants) were once free-living bacteria that became partners inside bigger cells."}
+  {"q": "Mitochondria inside our cells have their own small loop of DNA, like bacteria, and they split in two like bacteria. What might this tell us about where they came from?", "a": "They were probably once free-living bacteria that went to live inside bigger cells and became partners. Chloroplasts in plants seem to have begun the same way."}
  ]
 }

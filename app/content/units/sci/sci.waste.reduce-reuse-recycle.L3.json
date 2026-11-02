@@ -1480,9 +1480,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Ideonella sakaiensis, a bacterium that eats PET bottle plastic, was found near a bottle recycling plant in Japan, where there was plenty of PET to feed on.",
+     "p": "If scientists were looking for a microbe that can eat bottle plastic, a good place to search would be near a bottle recycling plant, where there is plenty of plastic to feed on.",
      "a": true,
-     "why": "True. Scientists found these bacteria in 2016 near a recycling plant in Sakai, Japan. Living beings often turn up where their food is. Over the years, some microbes there had found a way to feed on PET."
+     "why": "True. Living beings often turn up where their food is. Over many years, some microbes near plastic waste can find a way to feed on it, and one has been found near a recycling plant."
     },
     {
      "t": "truefalse",
@@ -1492,11 +1492,11 @@
     },
     {
      "t": "write",
-     "p": "In the story, Kamla asked the officer, 'Cleared away where?' Explain the science behind her question.",
+     "p": "An officer says a garden of statues made from broken glass and tiles should be 'cleared away'. Someone asks, 'Cleared away where?' Explain the science behind the question.",
      "lines": 4,
-     "a": "Glass and tile don't rot, because no microbes can eat them, and their atoms are never destroyed. So taking them away would only move them to the dump, where they would stay for hundreds of years. In the garden, the same pieces were useful and beautiful.",
-     "why": "Her question works because there is no away. Things only move or change form.",
-     "context": "In the story The Garden of Broken Things, officials want to clear away a secret garden of statues made from broken glass and tiles."
+     "a": "Glass and tile don't rot, because no microbes can eat them, and their atoms are never destroyed. So taking them away would only move them to the dump, where they would stay for hundreds of years. In the garden, the same pieces are useful and beautiful.",
+     "why": "The question works because there is no away. Things only move or change form.",
+     "context": "Officials want to clear away a garden of statues made from broken glass and tiles."
     },
     {
      "t": "mcq",
@@ -1519,15 +1519,15 @@
     },
     {
      "t": "mcq",
-     "p": "Most waste pickers in Pune's union are women. What did they win by organising together?",
+     "p": "Waste pickers often work alone, and the city does not see them as workers. Why might they get more by organising together?",
      "opts": [
-      "Nothing",
-      "Recognition as workers, identity cards, and door-to-door collection work with the city",
-      "Their own factory on the Moon",
-      "The right to burn waste"
+      "Nothing would change",
+      "Together they can ask for identity cards, fair pay and regular collection work with the city",
+      "They could build a factory on the Moon",
+      "They would win the right to burn waste"
      ],
      "a": 1,
-     "why": "By organising from 1993, they won identity cards from the city and the right to collect waste door to door through their cooperative, SWaCH. Their work is still hard, and many still fight for fair pay."
+     "why": "One person alone is easy to ignore. A large group speaking together is harder to ignore, so they can win recognition as workers and steady work. The work is still hard, and many still fight for fair pay."
     },
     {
      "t": "truefalse",

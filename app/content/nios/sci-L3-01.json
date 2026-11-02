@@ -288,7 +288,7 @@
         ["A. Types of families", [
           {"t": "sort", "p": "Sort these sentences into the type of family they describe.", "items": ["Grandparents, uncles, aunts and cousins live together", "Only mother, father and their unmarried children", "One kitchen cooks for everyone", "The grandfather makes most decisions", "Husband and wife decide together", "No one is nearby to help in an emergency"], "cats": ["Joint family", "Nuclear family"]},
           {"t": "fill", "p": "A family is the ____ unit of society.", "a": ["smallest"]},
-          {"t": "mcq", "p": "Why are expenses lower in Rekha's joint family?", "opts": ["They never buy anything", "One kitchen and shared festivals cost less than many separate ones", "The children earn money", "They live in a village"], "a": 1}
+          {"t": "mcq", "p": "Why can a joint family spend less money than the same people living in separate homes?", "opts": ["They never buy anything", "One kitchen and shared festivals cost less than many separate ones", "The children earn money", "They live in a village"], "a": 1}
         ]],
         ["B. Strong relations", [
           {"t": "mcq", "p": "Two brothers both want the window seat. What does the book say keeps relations strong?", "opts": ["The bigger one takes it", "They settle it by discussion, for example taking turns", "They stop talking to each other", "They cry until a parent shouts"], "a": 1},

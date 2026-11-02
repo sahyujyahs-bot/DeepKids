@@ -1599,15 +1599,15 @@
     },
     {
      "t": "mcq",
-     "p": "Agnes Pockels's numbers kept jumping about at first. Why?",
+     "p": "A woman measures the skin of water in her kitchen many times, but her numbers keep jumping about. Some days there is soap on the bowl, dust on the water, or grease on her fingers. What is the most likely reason?",
      "opts": [
-      "Her balance was broken",
-      "She was changing several things without noticing, like soap, dust and greasy fingers",
+      "Her balance is broken",
+      "She is changing several things without noticing, like soap, dust and greasy fingers",
       "Water is different every day",
-      "She could not read numbers well"
+      "She cannot read numbers well"
      ],
      "a": 1,
-     "why": "Many small things changed at once. Once she kept everything the same, her results agreed. Picking 'her balance was broken' is a common guess when results look messy. But the balance was the same each time. The surface of the water was not.",
+     "why": "Many small things changed at once. Once everything is kept the same, the results agree. Picking 'her balance is broken' is a common guess when results look messy. But the balance was the same each time. The surface of the water was not.",
      "context": "This unit's story is about Agnes Pockels. About 140 years ago, in Germany, she tested the skin of water in her kitchen, by lifting a button off the water with a small balance."
     },
     {

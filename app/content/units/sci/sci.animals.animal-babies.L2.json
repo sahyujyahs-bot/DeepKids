@@ -1228,18 +1228,18 @@
     },
     {
      "t": "draw",
-     "p": "Remember the Find the Hungry Mouth test. Draw the dark nest and show which colour mouths got the most chana.",
+     "p": "Paper chick mouths of four colours, including yellow and black, are laid on a dark cloth in dim light. Draw them, and show which colour you think gets found most.",
      "a": "A dark nest with paper circles, and most chana on the yellow ones.",
-     "why": "A strong drawing shows the dark cloth, the circles of four colours, and more chana on yellow (or the colour your child found most) than on black.",
+     "why": "A strong drawing shows the dark cloth, the circles of four colours, and more chana on the bright yellow ones than on the black ones.",
      "how": "e1",
      "art": "An empty box for drawing, with a dark rectangle at the bottom for the nest."
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: in the Find the Hungry Mouth test, why were the black mouths often missed?",
+     "p": "Say out loud, and a grown-up writes it down: in dim light, black paper mouths on a dark cloth are often missed. Why?",
      "lines": 2,
-     "a": "The black mouths looked like the dark cloth, so they were hard to see in dim light.",
-     "why": "A strong answer says the black mouths were the same colour as the cloth, and that the room was dim.",
+     "a": "The black mouths look like the dark cloth, so they are hard to see in dim light.",
+     "why": "A strong answer says the black mouths are the same colour as the cloth, and that the light is dim.",
      "how": "e1"
     },
     {
@@ -1331,14 +1331,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the bright light round of the Find the Hungry Mouth test, what usually happened?",
+     "p": "Paper chick mouths of different colours are laid on a dark cloth. Now the room is brightly lit. What do you think happens?",
      "opts": [
-      "Only yellow mouths got food",
-      "Almost every mouth got food, whatever the colour",
-      "No mouths got food"
+      "Only yellow mouths get food",
+      "Almost every mouth gets food, whatever the colour",
+      "No mouths get food"
      ],
      "a": 1,
-     "why": "In bright light, every colour is easy to see. That shows the colour matters most when the nest is dark.",
+     "why": "In bright light, every colour is easy to see. So bright mouth colours matter most when the nest is dark.",
      "how": "e1"
     },
     {
@@ -1479,15 +1479,15 @@
        "says": "Bright mouths tell the parents which chick is hungriest."
       }
      ],
-     "ask": "Who do you agree with? Use the dark nest test as evidence. Then say what test could show if the other person is right.",
+     "ask": "Who do you agree with? Use what happens when coloured mouths are hidden in a dark nest. Then say what test could show if the other person is right.",
      "lines": 4,
-     "a": "A strong answer uses the test: in dim light, bright mouths were found more, so Priya's idea fits. For Sameer's idea, you would need to see if hungrier chicks have brighter mouths. Scientists have found both ideas can be true, in different birds.",
+     "a": "A strong answer uses evidence: in dim light, bright mouths are found more, so Priya's idea fits. For Sameer's idea, you would need to see if hungrier chicks have brighter mouths. Scientists have found both ideas can be true, in different birds.",
      "why": "Scientists still argue about this. A good answer uses evidence for one side and suggests a fair test for the other.",
      "how": "e1"
     },
     {
      "t": "mcq",
-     "p": "Kavya, the girl in the sparrow story, did the dark nest test with a white cloth instead of a dark one. Which mouths would be hardest to find now?",
+     "p": "Kavya lays coloured paper chick mouths on a white cloth instead of a dark one. Which mouths would be hardest to find now?",
      "opts": [
       "Black ones",
       "Yellow ones",
@@ -1587,7 +1587,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mary Ainsworth watched babies at home in Uganda for many months. Which people did the babies follow and hold on to most?",
+     "p": "A scientist watches babies at home for many months. Which people do you think the babies will follow and hold on to most?",
      "opts": [
       "Only the person who fed them",
       "The people who came when they cried, talked and played with them",
@@ -1712,7 +1712,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Find the Hungry Mouth test, why do we mix up the mouths before every round?",
+   "p": "In a game, paper chick mouths of different colours are laid in a dark box. A 'parent' drops chana into the ones it finds. Why should the mouths be mixed up before every round?",
    "opts": [
     "So no colour is always in the best place",
     "To make the game longer",

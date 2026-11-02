@@ -519,7 +519,7 @@
       },
       {
        "t": "fill",
-       "p": "The black soil of the Deccan came from ancient ____ rock.",
+       "p": "Lava cools and hardens into ____ rock, which can break down over a very long time into rich soil.",
        "a": [
         "volcanic",
         "lava",
@@ -702,13 +702,13 @@
       },
       {
        "t": "mcq",
-       "p": "Why did many people on Simeulue survive the 2004 tsunami?",
+       "p": "People on an island have an old song: if the ground shakes hard and the sea runs away, run to the hills. A big earthquake strikes and the sea pulls back. Why does following the song save lives?",
        "opts": [
-        "they had a warning siren",
-        "an old story told them to run to the hills when the sea runs away",
-        "the wave missed them"
+        "the sea pulling back means a giant wave is coming, and the hills are above it",
+        "the song stops the wave",
+        "the hills are warmer"
        ],
-       "a": 1
+       "a": 0
       },
       {
        "t": "mcq",
@@ -1179,8 +1179,8 @@
    "a": "Rich soil (Deccan black soil), new land, silt on farmland, hot springs."
   },
   {
-   "q": "Why did far fewer people die in Odisha's 2013 cyclone than in 1999?",
-   "a": "Better warnings, cyclone shelters and moving about a million people to safety."
+   "q": "Two cyclones of about the same strength hit the same coast, years apart. The second one kills far fewer people. What could explain this?",
+   "a": "Better warnings, safe cyclone shelters, and moving people away from the coast before the storm hit."
   }
  ],
  "story": {

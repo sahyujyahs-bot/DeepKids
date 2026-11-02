@@ -607,11 +607,11 @@
       },
       {
        "t": "mcq",
-       "p": "Indian Standard Time is set by the line at...",
+       "p": "India uses one clock time for the whole country. Which line would be the best one to set it by?",
        "opts": [
-        "82.5°E, near Mirzapur",
-        "0°, Greenwich",
-        "77°E, Delhi"
+        "A line near the middle of India, from north to south",
+        "A line through London",
+        "A line at India's far western edge"
        ],
        "a": 0
       },
@@ -691,13 +691,13 @@
       },
       {
        "t": "mcq",
-       "p": "Why was the prime meridian put through Greenwich in 1884?",
+       "p": "The line where longitude starts, at 0°, could have been put anywhere. Why would countries agree to put it where most ships' maps already had it?",
        "opts": [
-        "it is the centre of the Earth",
-        "Britain had the most ships and sea charts using it",
-        "it is on the equator"
+        "Then most sailors would not need to change their maps",
+        "It is the centre of the Earth",
+        "It is on the equator"
        ],
-       "a": 1
+       "a": 0
       },
       {
        "t": "write",
@@ -1101,8 +1101,8 @@
    "a": "The Earth turns 15 degrees every hour, so places to the east see the Sun earlier."
   },
   {
-   "q": "Where is Indian Standard Time set, and how far ahead of Greenwich is it?",
-   "a": "At 82.5°E, near Mirzapur. It is 5 hours 30 minutes ahead of Greenwich."
+   "q": "Why does all of India use one clock time, set by a line near the middle of the country, even though the Sun rises much earlier in the east than in the west?",
+   "a": "One time for the whole country makes trains, offices and phone calls simple. A line near the middle keeps the clock close to the Sun's time for most people. The east sees sunrise about two hours before the far west."
   }
  ],
  "story": {

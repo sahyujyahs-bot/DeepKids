@@ -695,11 +695,11 @@
       },
       {
        "t": "mcq",
-       "p": "Fanny Hesse suggested agar instead of gelatin for growing bacteria. Why was agar better?",
+       "p": "Scientists grow bacteria on a jelly in a warm place. Gelatin jelly melts when warm, and many bacteria eat it. Agar jelly stays firm when warm, and few bacteria eat it. Which is better, and why?",
        "opts": [
-        "agar stays firm when warm, and few bacteria can eat it",
-        "agar tastes sweet",
-        "gelatin cost too much"
+        "agar, because it stays firm and the bacteria grow on it without eating it away",
+        "gelatin, because it melts",
+        "both are just as good"
        ],
        "a": 0
       },
@@ -1343,8 +1343,8 @@
    "a": "The fridge only slows them down. Boiling kills most of them, though a few bacterial spores can survive."
   },
   {
-   "q": "What did Pasteur's swan-neck flasks show?",
-   "a": "Boiled broth stayed clear while microbes from the air were trapped in the bend, and went cloudy when the neck was broken. So microbes come from other microbes, not out of the broth by itself."
+   "q": "Boiled broth in a flask with a long bent neck stays clear for months, because dust from the air gets stuck in the bend. When the neck is broken off, the broth goes cloudy. What does this show?",
+   "a": "The microbes come in on dust from the air. While the bend traps the dust, the broth stays clear; once dust can fall in, microbes grow. So microbes come from other microbes, not out of the broth by itself."
   },
   {
    "q": "Why is agar used to grow bacteria, and who suggested it?",

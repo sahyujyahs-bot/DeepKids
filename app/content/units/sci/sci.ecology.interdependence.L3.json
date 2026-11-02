@@ -1799,15 +1799,15 @@
     },
     {
      "t": "mcq",
-     "p": "In the Juice Test, Box W had washed tomato seeds on water. Box J had seeds on tomato juice. Which box sprouted more?",
+     "p": "Seeds sit inside a ripe tomato, wet with juice, but do not sprout there. Some washed seeds are put on water, and some on tomato juice. Which will most likely sprout more?",
      "opts": [
-      "Box W, with water",
-      "Box J, with juice",
+      "The washed seeds on water",
+      "The seeds on juice",
       "Both the same",
-      "Neither sprouted at all"
+      "Neither will sprout at all"
      ],
      "a": 0,
-     "why": "The washed seeds on water sprouted, while seeds in juice mostly did not. The juice holds seeds back from sprouting.",
+     "why": "The juice holds seeds back from sprouting, which is why they do not sprout inside the fruit. Washed seeds on water have nothing holding them back.",
      "how": "e1"
     },
     {
@@ -1993,9 +1993,9 @@
     },
     {
      "t": "truefalse",
-     "p": "In some apple orchards in Sichuan, in China, people pollinate flowers by hand with brushes because too few bees are left.",
+     "p": "If sprays kill most of the bees near an apple orchard, people may have to carry pollen from flower to flower by hand to get apples.",
      "a": true,
-     "why": "True. Where sprays have killed many bees, people must do the bees' work. It is slow and costly. Harming one kind of living thing harms the plants that depend on them."
+     "why": "True. Apple flowers need pollen carried between them to make fruit, and bees do that job. Without bees, people must do it with brushes, which is slow and costly. This has happened in parts of China."
     },
     {
      "t": "sort",

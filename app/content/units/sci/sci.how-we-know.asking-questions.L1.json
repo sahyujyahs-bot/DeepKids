@@ -1263,14 +1263,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did Inge Lehmann find in the middle of the Earth?",
+   "p": "Nobody can dig to the middle of the Earth. How can scientists find out what is there?",
    "opts": [
-    "A ball inside a ball",
-    "Only air",
-    "A big lake of water"
+    "By studying how earthquake shaking travels through the Earth",
+    "Only by guessing",
+    "By looking down a deep well"
    ],
    "a": 0,
-   "why": "She found an inner core, a ball inside the liquid outer core. Later scientists showed this inner ball is solid metal.",
+   "why": "Earthquake shaking travels differently through solid rock, liquid and metal. By studying it, scientists found a ball inside a ball: a solid inner core inside a liquid outer core.",
    "outcome": 4
   }
  ],
@@ -1325,14 +1325,14 @@
     },
     {
      "t": "mcq",
-     "p": "In a story, Kavya, a girl in Class 1, hears a tap-tap at her window every morning. What is the best thing to do first?",
+     "p": "A girl hears a tap-tap at her window every morning. What is the best thing to do first?",
      "opts": [
       "Watch quietly to see what makes the sound",
       "Say it is a ghost",
       "Shut the curtain and forget it"
      ],
      "a": 0,
-     "why": "Watching quietly is observing. It gives real clues. Kavya watched and saw a bird pecking at his own reflection."
+     "why": "Watching quietly is observing. It gives real clues, for example that a bird is pecking at its own reflection."
     },
     {
      "t": "draw",
@@ -1451,7 +1451,7 @@
     },
     {
      "t": "order",
-     "p": "Put Kavya's steps in order, from the story about the tapping bird.",
+     "p": "Put these steps of finding something out in order.",
      "items": [
       "Watch quietly",
       "Try something to check",
@@ -1464,14 +1464,14 @@
       "Watch quietly",
       "Try something to check"
      ],
-     "why": "Kavya noticed first, then wondered, then observed, then opened half the window to check her idea."
+     "why": "First you notice, then you wonder, then you watch closely, then you try something to check your idea."
     },
     {
      "t": "write",
-     "p": "Nobody has ever been to the middle of the Earth. Say out loud how Inge Lehmann found out what is there, and a grown-up writes it.",
+     "p": "Nobody has ever been to the middle of the Earth. Say out loud how scientists could find out what is there, and a grown-up writes it.",
      "lines": 2,
-     "a": "She looked very closely at the shaking from earthquakes as it came through the Earth.",
-     "why": "A strong answer says she used clues from earthquake shaking, the way we used the sounds from a shaken dabba."
+     "a": "They can look very closely at how the shaking from earthquakes comes through the Earth.",
+     "why": "A strong answer says scientists use clues from earthquake shaking, the way we used the sounds from a shaken dabba."
     },
     {
      "t": "mcq",

@@ -1346,14 +1346,14 @@
   },
   {
    "t": "mcq",
-   "p": "Many scientists once thought chimpanzees ate only plants. How did Jane Goodall find out they eat animal food too?",
+   "p": "Many scientists once thought chimpanzees ate only plants. How could someone find out if they eat animal food too?",
    "opts": [
-    "She read it in a book",
-    "She watched wild chimpanzees for months",
-    "She looked at their fur"
+    "Read it in a book",
+    "Watch wild chimpanzees for months",
+    "Look at their fur"
    ],
    "a": 1,
-   "why": "Jane Goodall watched wild chimpanzees in their forest home. She saw them eat meat and termites. Food is found by watching, not by looking at fur.",
+   "why": "Food is found by watching, not by looking at fur. Jane Goodall watched wild chimpanzees and saw them eat meat and termites.",
    "outcome": 5
   },
   {

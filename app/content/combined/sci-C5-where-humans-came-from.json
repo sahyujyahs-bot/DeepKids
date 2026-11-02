@@ -665,39 +665,39 @@
       },
       {
        "t": "mcq",
-       "p": "About how much of the DNA of people whose ancestors lived outside Africa comes from Neanderthals?",
+       "p": "Most people whose ancestors lived outside Africa carry a little Neanderthal DNA. What does that tell us?",
        "opts": [
-        "about 1 to 2 parts in 100",
-        "about half",
-        "none at all"
+        "Our ancestors and Neanderthals had children together",
+        "Neanderthals came from us",
+        "Our ancestors and Neanderthals never met"
        ],
        "a": 0
       },
       {
        "t": "sort",
-       "p": "Sort these events. Did they happen before Homo sapiens first appeared, about 300,000 years ago, or after?",
+       "p": "Sort these clues by what they mostly tell us about our ancestors: how their bodies were built, or what they made and did.",
        "items": [
-        "Lucy walked in Ethiopia",
-        "the first known stone tools were made at Lomekwi",
-        "hand axes were made at Attirampakkam, near Chennai",
-        "the Toba volcano erupted",
-        "the last Neanderthals died out",
-        "people painted animals in a cave on Sulawesi"
+        "a hip bone shaped for walking upright",
+        "a stone hand axe",
+        "the size of a skull's brain case",
+        "a painting of animals on a cave wall",
+        "the hole for the spinal cord under the skull",
+        "burnt bones at an old fireplace"
        ],
        "cats": [
-        "Before",
-        "After"
+        "How their bodies were built",
+        "What they made and did"
        ],
        "a": {
-        "Before": [
-         "Lucy walked in Ethiopia",
-         "the first known stone tools were made at Lomekwi",
-         "hand axes were made at Attirampakkam, near Chennai"
+        "How their bodies were built": [
+         "a hip bone shaped for walking upright",
+         "the size of a skull's brain case",
+         "the hole for the spinal cord under the skull"
         ],
-        "After": [
-         "the Toba volcano erupted",
-         "the last Neanderthals died out",
-         "people painted animals in a cave on Sulawesi"
+        "What they made and did": [
+         "a stone hand axe",
+         "a painting of animals on a cave wall",
+         "burnt bones at an old fireplace"
         ]
        }
       }
@@ -708,9 +708,9 @@
      [
       {
        "t": "write",
-       "p": "Raymond Dart's Taung Child had a small brain, but the hole for the spinal cord was under the skull, as in a hominin that walks upright. Why did many scientists refuse to believe Dart for more than 20 years? What fooled them?",
+       "p": "A skull is found with a small brain, but the hole for the spinal cord is underneath, as in an animal that walks upright. Many scientists at the time expected big brains to come before upright walking. Why might they refuse to believe the find? What evidence could change their minds?",
        "lines": 4,
-       "a": "A strong answer says they expected the big brain to come first, and the fake Piltdown skull, with a human-like brain case and an ape jaw, fitted what they expected. Many also expected humans to have begun in Europe or Asia, not Africa. The fake was exposed in 1953."
+       "a": "A strong answer says they expected the big brain to come first, so a find that did not fit seemed wrong to them. People find it hard to give up what they expect. More fossils with small brains and upright bodies, or showing that a fossil which fitted their idea was a fake, could change their minds."
       },
       {
        "t": "write",
@@ -1095,8 +1095,8 @@
    "a": "About 6 to 7 million years ago there lived one kind of ape in Africa. Some of their descendants led to chimpanzees and bonobos, and others led to us. So we are cousins. Neither came from the other."
   },
   {
-   "q": "What did Lucy and the Laetoli footprints show about walking and brains?",
-   "a": "Lucy had a brain about the size of a chimpanzee's but hips and knees for walking upright. The footprints show upright walking with the big toe in line, 3.66 million years ago. So walking on two legs came long before big brains."
+   "q": "A fossil has a brain about the size of a chimpanzee's, but hips and knees made for walking upright. What does that tell us about walking and big brains?",
+   "a": "Walking on two legs came long before big brains. Lucy is a fossil like this, and footprints in volcanic ash at Laetoli show upright walking 3.66 million years ago, long before brains grew big."
   },
   {
    "q": "How do scientists find out how old a fossil in East Africa is?",

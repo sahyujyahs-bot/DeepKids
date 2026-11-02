@@ -582,9 +582,9 @@
       },
       {
        "t": "write",
-       "p": "Arjun says: 'Chimpanzees use tools, but they don't really think.' Use the termite-fishing tools or Ayumu's memory test to answer him.",
+       "p": "Arjun says: 'Chimpanzees use tools, but they don't really think.' A chimpanzee picks a stem, strips off its leaves and chews the tip into a brush before it fishes for termites. Use this to answer him.",
        "lines": 3,
-       "a": "A strong answer uses evidence: chimpanzees choose and shape a tool before they use it (stripping leaves, chewing a brush tip), which needs planning. Ayumu remembered the places of numbers in a fraction of a second, better than most people. So chimpanzees do think, though they may think differently from us."
+       "a": "A strong answer says that choosing and shaping a tool before using it needs planning: the chimpanzee knows what it wants the tool to do before it starts. So chimpanzees do think, though they may think differently from us."
       },
       {
        "t": "write",
@@ -643,9 +643,9 @@
       },
       {
        "t": "fill",
-       "p": "The only wild apes in India are the ____ gibbons of the North East.",
+       "p": "Gibbons swing through trees like monkeys, but they are apes. One clue is that, like all apes, they have no ____.",
        "a": [
-        "hoolock"
+        "tail"
        ]
       },
       {
@@ -747,10 +747,10 @@
      [
       {
        "t": "mcq",
-       "p": "On the island of Koshima, a young macaque named Imo began washing sweet potatoes in water. Which monkeys learned it last, or never?",
+       "p": "In a group of monkeys, a young one invents a new trick: washing sandy food in water before eating it. Which monkeys are most likely to learn it last, or never?",
        "opts": [
-        "her young playmates",
-        "her mother",
+        "its young playmates",
+        "its mother",
         "the older adult males"
        ],
        "a": 2
@@ -1051,8 +1051,8 @@
    "a": "For example: a gibbon must reach fruit at the tips of thin branches, so they have very long arms and hook-like hands for swinging. A langur eats tough leaves, so they have a stomach with chambers where bacteria break the leaves down. A slender loris hunts insects at night, so they have huge eyes that gather dim light."
   },
   {
-   "q": "What did Jane Goodall see in 1960, and why did it matter?",
-   "a": "She saw a chimpanzee strip leaves from a grass stem and use the stem to fish termites out of a mound. Scientists had said only humans make tools, so the idea of what makes humans special had to change."
+   "q": "A chimpanzee strips the leaves off a grass stem, then pokes it into a termite mound to fish out termites. Why did seeing this change what scientists thought makes humans special?",
+   "a": "The chimpanzee made a tool: it chose a stem and shaped it before using it. Scientists had said only humans make tools, so the idea of what makes humans special had to change."
   },
   {
    "q": "What is culture in animals? Give an example.",

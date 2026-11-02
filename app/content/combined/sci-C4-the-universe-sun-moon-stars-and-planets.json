@@ -637,9 +637,12 @@
       },
       {
        "t": "fill",
-       "p": "India's lander Vikram landed near the Moon's ____ pole in 2023.",
+       "p": "The Moon has no air, so a lander cannot slow down with a parachute. It must use its ____ to land gently.",
        "a": [
-        "south"
+        "rockets",
+        "engines",
+        "rocket",
+        "engine"
        ]
       },
       {
@@ -712,11 +715,9 @@
       },
       {
        "t": "fill",
-       "p": "Indian calendars add an extra month called Adhik ____ to keep step with the Sun.",
+       "p": "A Moon year is about 11 days shorter than a Sun year. To keep festivals in the same season, some calendars add an extra ____ every few years.",
        "a": [
-        "Maas",
-        "Mas",
-        "maas"
+        "month"
        ]
       },
       {
@@ -1075,8 +1076,8 @@
    "a": "Sunlight and the Sun's wind push the gas and dust away from the Sun."
   },
   {
-   "q": "What did Chandrayaan-3 do in 2023?",
-   "a": "Its lander Vikram landed near the Moon's south pole and its rover Pragyan studied the soil."
+   "q": "Why do scientists send a rover to drive about on the Moon, instead of only looking through telescopes?",
+   "a": "A rover can touch and test the soil close up, which no telescope on Earth can do."
   }
  ],
  "story": {

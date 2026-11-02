@@ -369,7 +369,7 @@
           {"t": "fill", "p": "Breaking food into tiny particles the body can use is called ____.", "a": ["digestion"]},
           {"t": "fill", "p": "Digested food is carried to every part of the body in the ____.", "a": ["blood"]},
           {"t": "mcq", "p": "When iodine is dropped on bread it turns blue-black. This shows the bread contains:", "opts": ["Protein", "Fat", "Starch", "Water"], "a": 2},
-          {"t": "mcq", "p": "Why did chewed bread turn less blue-black?", "opts": ["The bread got wet", "Saliva broke down some of the starch into sugar", "The iodine was old", "Chewing adds starch"], "a": 1}
+          {"t": "mcq", "p": "Iodine turns starch blue-black. Bread that has been chewed for a while turns less blue-black than unchewed bread. Why?", "opts": ["The bread got wet", "Saliva broke down some of the starch into sugar", "The iodine was old", "Chewing adds starch"], "a": 1}
         ]],
         ["C. Other animals", [
           {"t": "write", "p": "A rabbit's small intestine is much longer than a cat's. Why?", "lines": 3},
@@ -413,7 +413,7 @@
           {"t": "write", "p": "Lind used only two sailors per treatment. Why would twenty per group have been better? Why might it have been hard to do?", "lines": 3}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "Doctors once said ulcers were caused by stress, and Marshall and Warren said a germ caused them. What evidence finally changed doctors' minds? Why was drinking the germ a risky way to get evidence?", "lines": 4},
+          {"t": "write", "p": "Doctors once said stomach ulcers were caused by stress. Two scientists thought a germ caused them. What evidence would change doctors' minds? Why would drinking the germ yourself be a risky way to get evidence?", "lines": 4},
           {"t": "write", "p": "Some scientists say the human appendix is useless; others say it stores helpful gut microbes. What would you need to measure to find out who is right?", "lines": 3}
         ]]
       ]
@@ -563,6 +563,6 @@
     {"q": "How do you test a food for starch, and how do you stay safe?", "a": "Add a drop of iodine solution; it turns from yellow-brown to blue-black if starch is present. Do not swallow or taste iodine, and keep it off clothes; an adult handles it."},
     {"q": "Why is a rabbit's digestive system different from a cat's?", "a": "A rabbit eats plants full of tough fibre, so it needs a longer intestine and a large appendix and takes longer to digest; a cat eats meat, which is easier to digest."},
     {"q": "What is a balanced diet? Give an Indian meal that is balanced.", "a": "Eating the right kinds of food in the right amounts: plenty of fruit and vegetables and whole-grain carbohydrates, some protein, only a little fat and sugar, plus water and fibre. For example: whole-wheat roti, dal, a green sabzi, dahi and a fruit."},
-    {"q": "What did James Lind find out, and why was his investigation fair?", "a": "That oranges and lemons cure scurvy. It was fair because all the sailors had scurvy and ate the same food, and only the treatment was changed between the pairs."}
+    {"q": "Some sailors are all sick with scurvy. How could you fairly test which food cures them?", "a": "Give the same ordinary food to all of them, and give each pair a different extra treatment. Only the treatment changes. James Lind did this, and the pair given oranges and lemons got better."}
   ]
 }

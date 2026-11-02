@@ -577,7 +577,7 @@
         ["B. Rays", [
           {"t": "fill", "p": "Light travels in ____ lines.", "a": ["straight"]},
           {"t": "draw", "p": "Draw a ray diagram to show how you see a cup on a table lit by a lamp. Label the arriving ray and the reflected ray. Use a ruler and arrowheads."},
-          {"t": "write", "p": "Describe the test with the bendy tube. What did it prove?", "lines": 3}
+          {"t": "write", "p": "You look at a candle through a straight tube, then through a bent tube. What do you see each time, and what does that tell you about how light travels?", "lines": 3}
         ]],
         ["C. Reflection", [
           {"t": "mcq", "p": "Which surface reflects light best?", "opts": ["Wooden board", "Cotton towel", "Smooth mirror", "Crumpled paper"], "a": 2},

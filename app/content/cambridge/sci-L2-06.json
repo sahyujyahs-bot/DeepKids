@@ -596,7 +596,7 @@
     {"q": "Name an appliance that uses electricity to make light, one to make heat, and one to make things move.", "a": "For example: a tube light (light), an iron or geyser (heat), a fan or mixer (move)."},
     {"q": "What is the difference between mains electricity and a cell?", "a": "Mains electricity is very powerful, made in a power station and comes through wires to sockets; a cell is a small, safe source of electricity used in things we carry, like torches and watches."},
     {"q": "Give four electricity safety rules.", "a": "For example: only adults plug in mains appliances; never touch sockets; never touch electrical things with wet hands; keep away from damaged wires; keep water and dirt away; never open or burn cells."},
-    {"q": "What three kinds of switches did we find?", "a": "Press switches, rocker switches and slide switches."},
+    {"q": "What does a switch do in a circuit? Name two kinds of switch you could find at home.", "a": "A switch closes or opens the gap in a circuit. Closed, electricity flows and the bulb lights. Open, it stops. Kinds include press switches, rocker switches and slide switches."},
     {"q": "What is a circuit, and why does a lamp go out if one wire is unclipped?", "a": "A complete path for electricity to flow around from the cell and back; unclipping a wire makes a gap, so the electricity cannot flow."},
     {"q": "Which materials conducted electricity in our test?", "a": "The metals: steel spoon, paper clip, foil, coin, key. Plastic, wood, rubber, paper, cloth and glass did not."},
     {"q": "Why are wires made of copper covered with plastic?", "a": "Copper is a good conductor so electricity flows through it; plastic does not conduct, so it keeps us safe."},

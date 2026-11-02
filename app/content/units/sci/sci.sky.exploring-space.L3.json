@@ -1907,38 +1907,38 @@
   },
   {
    "t": "mcq",
-   "p": "What did Chandrayaan-3 do in 2023?",
+   "p": "A spacecraft is going to land on the Moon to look for ice. Where is the best place to land?",
    "opts": [
-    "It went to Mars",
-    "It landed near the Moon's south pole and drove a rover there",
-    "It carried astronauts"
+    "In a sunny spot near the Moon's middle",
+    "Near a pole, beside deep craters that never get sunlight",
+    "Anywhere, because the Moon has lakes"
    ],
    "a": 1,
-   "why": "Chandrayaan-3's lander Vikram landed near the south pole on 23 August 2023, and its rover Pragyan drove about 100 metres. Mangalyaan was the Mars mission.",
+   "why": "Ice cannot last in sunlight on the Moon. Deep craters near the poles never see the Sun, so ice can stay frozen there. That is why India landed Chandrayaan-3 near the south pole in 2023.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Who was the first Indian to travel into space?",
+   "p": "An astronaut goes outside the space station to fix something. Why must she wear a sealed suit with its own air?",
    "opts": [
-    "Kalpana Chawla",
-    "Rakesh Sharma",
-    "Vikram Sarabhai"
+    "Space is too bright",
+    "There is almost no air in space to breathe",
+    "To look smart in photos"
    ],
    "a": 1,
-   "why": "Rakesh Sharma flew in 1984. Kalpana Chawla flew later, in 1997, as an American astronaut. Vikram Sarabhai started India's space programme but did not go to space.",
+   "why": "Space has almost no air, so there is no oxygen to breathe. Astronauts and rockets must carry their own.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Before 2009, most scientists thought the Moon had no water at all. What did India's Chandrayaan-1 help show?",
+   "p": "A spacecraft circling the Moon cannot touch the ground. How could it find signs of water there?",
    "opts": [
-    "The Moon has lakes",
-    "There are thin traces of water in the Moon's dust, and later its data showed ice in dark polar craters",
-    "The Moon is made of ice"
+    "By listening for waves",
+    "By measuring the sunlight reflected from the ground, because water takes in some kinds of light and leaves a gap",
+    "By catching rain"
    ],
    "a": 1,
-   "why": "An instrument on Chandrayaan-1 found the gap in reflected light that water leaves. The traces are thin, and the ice is in craters that never see sunlight.",
+   "why": "Water takes in certain kinds of light, so light reflected from damp dust has a gap in it. India's Chandrayaan-1 found thin traces of water in the Moon's dust this way, and later ice in dark polar craters.",
    "outcome": 6
   }
  ],
@@ -2058,11 +2058,11 @@
     },
     {
      "t": "fill",
-     "p": "Chandrayaan-3's lander was called Vikram, and its rover was called ____.",
+     "p": "There is almost no air on the Moon, so footprints and rover tracks there are never blown away by the ____.",
      "a": [
-      "Pragyan"
+      "wind"
      ],
-     "why": "Pragyan drove about 100 metres on the Moon in 2023 and tested the soil."
+     "why": "Wind is moving air. With no air, nothing moves the dust, so tracks on the Moon can last for millions of years."
     },
     {
      "t": "truefalse",
@@ -2114,11 +2114,11 @@
     },
     {
      "t": "fill",
-     "p": "Indian rockets are launched from ____, an island on the coast of Andhra Pradesh.",
+     "p": "A rocket must carry its own ____, because there is no air in space for its fuel to burn with.",
      "a": [
-      "Sriharikota"
+      "oxygen"
      ],
-     "why": "ISRO's launch pad is at Sriharikota. Thumba, near Thiruvananthapuram, is where India's first rocket went up in 1963."
+     "why": "Burning needs oxygen. Near the ground, air gives a flame its oxygen, but space has almost none, so rockets carry it in tanks."
     },
     {
      "t": "truefalse",
@@ -2235,45 +2235,45 @@
     },
     {
      "t": "truefalse",
-     "p": "Kalpana Chawla, an astronaut who flew on American space shuttles, was born in India.",
-     "a": true,
-     "why": "True. She was born in Karnal, in Haryana, and later became an American citizen. She flew in 1997 and in 2003."
+     "p": "An astronaut on the space station can open a window to let in fresh air.",
+     "a": false,
+     "why": "False. Outside the station there is almost no air. Opening a window would let the station's own air rush out. All the air must be carried up or made on board."
     },
     {
      "t": "sort",
-     "p": "Sort these into what came before Chandrayaan-1 in 2008, and what came after.",
+     "p": "A crew is going on a long trip to Mars. Sort these into what they must carry or make on board, and what they get free in space.",
      "cats": [
-      "Before 2008",
-      "After 2008"
+      "Must carry or make",
+      "Free in space"
      ],
      "items": [
       [
-       "Aryabhata",
-       "Before 2008"
+       "oxygen to breathe",
+       "Must carry or make"
       ],
       [
-       "Mangalyaan reaching Mars",
-       "After 2008"
+       "sunlight for solar panels",
+       "Free in space"
       ],
       [
-       "Rakesh Sharma in space",
-       "Before 2008"
+       "drinking water",
+       "Must carry or make"
       ],
       [
-       "104 satellites on one rocket",
-       "After 2008"
+       "food",
+       "Must carry or make"
       ],
       [
-       "the first rocket from Thumba",
-       "Before 2008"
+       "a dark sky for seeing stars",
+       "Free in space"
       ],
       [
-       "Chandrayaan-3 landing",
-       "After 2008"
+       "air inside the ship",
+       "Must carry or make"
       ]
      ],
      "a": "see items",
-     "why": "Aryabhata was 1975, Rakesh Sharma 1984 and Thumba 1963. Mangalyaan was 2014, the 104 satellites 2017 and Chandrayaan-3 2023."
+     "why": "Space has plenty of light and darkness, but almost no air, water or food. Everything a body needs to stay alive must be carried or made on board."
     },
     {
      "t": "mcq",
@@ -2448,21 +2448,21 @@
     },
     {
      "t": "mcq",
-     "p": "Why was Thumba chosen for India's first rocket launches in 1963?",
+     "p": "Why are many rocket launch sites built next to the sea?",
      "opts": [
-      "It is the highest place in India",
-      "The Earth's magnetic equator passes close by, which suits studying the high air",
-      "It is the coldest place in India"
+      "Rockets need sea water to fly",
+      "If something goes wrong, falling rocket parts land in the water, away from towns",
+      "The sea is the highest place"
      ],
      "a": 1,
-     "why": "The Earth's magnetic equator passes close to Thumba, which made it a special place to study the air high above."
+     "why": "Rockets drop used parts as they climb, and a launch can fail. Launching out over the sea keeps people on the ground safe. India's launch site at Sriharikota is on the coast for this reason."
     },
     {
      "t": "write",
-     "p": "No spacecraft had landed near the Moon's south pole before 2023. What earlier evidence from Chandrayaan-1 made scientists think it was a good place to look for water?",
+     "p": "No spacecraft had landed near the Moon's south pole before 2023. Landing is hard and costly. What evidence would you want first, from a spacecraft circling the Moon, before choosing that spot to look for water?",
      "lines": 3,
-     "a": "Chandrayaan-1's instrument found the gap in reflected light that water leaves, strongest near the poles. Later, its data showed ice in dark craters at both poles. So the poles were the best place to look for water.",
-     "why": "A strong answer uses the evidence in order: the gap in the light, strongest near the poles, then the ice found in the craters."
+     "a": "I would want measurements of reflected light showing signs of water, strongest near the poles, and signs of ice in the dark craters. Then I would know the poles are the best place to look, before spending money on a landing.",
+     "why": "A strong answer names evidence that can be collected from above, and says why checking first is wise before a costly landing."
     }
    ]
   }

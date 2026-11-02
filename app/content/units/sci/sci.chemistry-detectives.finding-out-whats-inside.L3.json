@@ -1709,11 +1709,11 @@
   },
   {
    "t": "mcq",
-   "p": "In 1835, Auguste Comte said we would never know what stars are made of. How were Bunsen and Kirchhoff able to show he was wrong?",
+   "p": "Someone says we can never know what stars are made of, because we can never go there. How could we find out without going?",
    "opts": [
-    "They flew to the Sun",
-    "They found that each element's light has its own pattern, and matched sodium's pattern in sunlight",
-    "They dug up a fallen star"
+    "Fly to the Sun",
+    "Each element's light has its own pattern of colours, so read the pattern in the starlight",
+    "Dig up a fallen star"
    ],
    "a": 1,
    "why": "Kirchhoff and Bunsen found that each element gives out its own set of colours. Sodium's yellow matched two dark lines in sunlight, which showed sodium is in the Sun. Nobody had to go there.",
@@ -1721,14 +1721,14 @@
   },
   {
    "t": "mcq",
-   "p": "Bunsen and Kirchhoff found a new element in spring water because of a colour no known element gave. What colour was it?",
+   "p": "Scientists heat something from spring water in a flame. They see a colour of light that no known element gives. What can they say?",
    "opts": [
-    "Sky blue, so they named it caesium",
-    "Bright green, so they named it chlorine",
-    "Yellow, so they named it sodium"
+    "There may be a new element in the water",
+    "The flame is broken",
+    "The water has no elements in it"
    ],
    "a": 0,
-   "why": "In 1860 they saw blue lines that no known element made. They named the new element caesium, from a Latin word for sky blue. A year later, red lines led them to rubidium.",
+   "why": "Each element gives its own colours. A colour no known element gives must come from an unknown one. This is how caesium was found in 1860.",
    "outcome": 4
   },
   {
@@ -1823,7 +1823,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the Which Pen test in order.",
+     "p": "Put these steps for testing which pen wrote a secret note in a sensible order.",
      "items": [
       "Hang the strips so their ends dip in the water",
       "Draw a pencil line 2 cm from the bottom of each strip",
@@ -1935,7 +1935,7 @@
        "says": "The ink is really blue and purple. The black is just a trick."
       }
      ],
-     "ask": "Who do you agree with more? Use what you saw in the Which Pen test. Then say one thing the other friend has right.",
+     "ask": "Who do you agree with more? Use what the split dot shows. Then say one thing the other friend has right.",
      "lines": 5,
      "a": "A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. Lakshmi is right that the mixture looks black. Farhan is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.",
      "why": "This question asks the child to use evidence and to see that 'looks black' and 'is made of blue and purple dyes' can both be true."

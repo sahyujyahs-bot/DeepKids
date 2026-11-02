@@ -399,7 +399,7 @@
         ["C. Can you see through it?", [
           {"t": "sort", "p": "Sort these materials.", "items": ["Window glass", "Clean water", "Butter paper", "Frosted bathroom glass", "Thin dupatta", "Wooden door", "Steel plate", "Cardboard"], "cats": ["Transparent", "Translucent", "Opaque"]},
           {"t": "fill", "p": "Materials we cannot see through at all are called ____.", "a": ["opaque"]},
-          {"t": "mcq", "p": "What is the safety rule on page 126?", "opts": ["Always look at the sun through glass", "Never look at the sun, directly or through any object", "Look at the sun only in the morning", "Look at the sun through coloured plastic"], "a": 1}
+          {"t": "mcq", "p": "Which is the safe rule about looking at the Sun?", "opts": ["Always look at the sun through glass", "Never look at the sun, directly or through any object", "Look at the sun only in the morning", "Look at the sun through coloured plastic"], "a": 1}
         ]]
       ]
     },

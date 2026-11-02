@@ -1311,9 +1311,9 @@
     },
     {
      "t": "write",
-     "p": "Look at your two sorts above, 'Is it made of metal?' and 'Is it shiny?'. Which thing was 'not metal' in the first sort but 'shiny' in the second? Why did it move, when nothing about it changed?",
+     "p": "A glass bangle is sorted twice: first by 'Is it made of metal?', then by 'Is it shiny?'. Which group does it go in each time? Why did it move, when nothing about it changed?",
      "lines": 3,
-     "a": "The glass bangle. It is not a metal, but it is shiny. A strong answer says the bangle stayed the same. Only the question changed, and each rule asks about a different property.",
+     "a": "Not metal in the first sort, and shiny in the second. A strong answer says the bangle stayed the same. Only the question changed, and each rule asks about a different property.",
      "why": "One thing can belong to many groups, because each rule asks one question about it."
     },
     {
@@ -1657,12 +1657,12 @@
     },
     {
      "t": "write",
-     "p": "Look back at your own One Heap, Three Rules results. Which thing changed group most often across your three rules? Why do you think that thing moved so much?",
+     "p": "A glass bangle, a steel spoon and a wooden spoon are sorted by three rules: hard or soft, shiny or dull, metal or not metal. Which thing is with the steel spoon in two sorts but not in the third? Why do some things move between groups more than others?",
      "lines": 4,
      "how": "e1",
      "context": "In the experiment One Heap, Three Rules, you sort the same twelve things by three different rules.",
-     "a": "A strong answer names a real thing from the child's own sort and the groups it landed in. For example, the glass bangle was hard, shiny and not metal, so it was with the steel spoon in two sorts and away from it in the third. It explains that the thing has a mix of properties that the rules split differently.",
-     "why": "Using your own results is evidence. Things with an unusual mix of properties move the most."
+     "a": "The glass bangle. It is hard and shiny like the steel spoon, but it is not metal. A strong answer explains that the bangle has a mix of properties that the rules split differently.",
+     "why": "Things with an unusual mix of properties move the most."
     },
     {
      "t": "mcq",
@@ -1889,12 +1889,12 @@
     },
     {
      "t": "mcq",
-     "p": "In 1865 John Newlands noticed a repeating pattern in the elements, and other chemists laughed at him. Four years later Mendeleev's table was believed. What did Mendeleev add?",
+     "p": "Two scientists each find a pattern in the elements. One just lists the pattern. The other leaves gaps and says what the missing elements will be like. Why are more people convinced by the second?",
      "opts": [
-      "Gaps, and predictions of elements that were later found",
-      "A longer list of names",
-      "A different colour for each element",
-      "A rule that nobody could check"
+      "The pattern predicts something new that can be checked",
+      "The list is longer",
+      "It uses a different colour for each element",
+      "Nobody can check it"
      ],
      "a": 0,
      "why": "Mendeleev left gaps and said what the missing elements would be like. Gallium, scandium and germanium were found and matched. A pattern that predicts something new is much harder to laugh at."
@@ -3650,14 +3650,14 @@
   },
   {
    "t": "mcq",
-   "p": "Why did Mendeleev leave gaps in his table?",
+   "p": "A scientist sorts all the known elements into a table by a pattern. Some places in the pattern have no element. What should he do?",
    "opts": [
-    "He expected undiscovered elements to fill them",
-    "He lost some cards",
-    "He ran out of ideas"
+    "Leave gaps, because elements nobody has found yet may fit there",
+    "Squeeze the elements together to hide the gaps",
+    "Give up on the pattern"
    ],
    "a": 0,
-   "why": "The pattern pointed to elements nobody had found. Three of them, gallium, scandium and germanium, were found and matched his predictions.",
+   "why": "A good pattern can point to things nobody has found yet. Mendeleev left gaps like this, and gallium, scandium and germanium were later found and matched his predictions.",
    "outcome": 6
   },
   {

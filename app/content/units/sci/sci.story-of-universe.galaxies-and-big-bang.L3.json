@@ -1564,14 +1564,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 1927, a Belgian physicist and priest said that a growing universe must once have been tiny and hot. Who was he?",
+   "p": "Far galaxies are all moving apart, so the universe is growing. If you ran time backwards, what would the universe have been like long ago?",
    "opts": [
-    "Georges Lemaître",
-    "Albert Einstein",
-    "Fred Hoyle"
+    "Tiny, packed close together and very hot",
+    "Just the same size as today",
+    "Bigger and colder than today"
    ],
    "a": 0,
-   "why": "Georges Lemaître said this first. Einstein thought at first that the universe stays the same size. Fred Hoyle never accepted a beginning.",
+   "why": "If everything is moving apart now, then going back in time brings it all closer. Long ago it must have been packed tight, and packed things get hot.",
    "outcome": 5
   },
   {
@@ -1639,14 +1639,14 @@
     },
     {
      "t": "fill",
-     "p": "Light from the Andromeda galaxy takes about ____ million years to reach us.",
+     "p": "The Andromeda galaxy is about 2.5 million light-years away. So its light takes about ____ million years to reach us.",
      "a": [
       "2.5",
       "two and a half",
       "2 and a half",
       "2½"
      ],
-     "why": "Andromeda is about 2.5 million light-years away, so its light takes about 2.5 million years to get here."
+     "why": "A light-year is how far light travels in one year. So something 2.5 million light-years away sends light that takes 2.5 million years to get here."
     },
     {
      "t": "write",
@@ -1850,14 +1850,14 @@
     },
     {
      "t": "mcq",
-     "p": "Henrietta Leavitt studied stars that get brighter and dimmer again and again. What did she find?",
+     "p": "Some stars get brighter and dimmer again and again. The brighter such a star really is, the slower it blinks. Two of these stars blink at the same speed, but one looks much fainter. What does that tell you?",
      "opts": [
-      "The brighter such a star really is, the slower it blinks",
-      "All these stars blink at the same speed",
-      "These stars are all inside the Solar System"
+      "The fainter one is much further away",
+      "The fainter one is smaller and closer",
+      "They are both inside the Solar System"
      ],
      "a": 0,
-     "why": "In 1912 she showed that brighter Cepheids blink more slowly. So timing the blinks tells you how bright the star really is, and that lets you work out how far away it is."
+     "why": "Same blink speed means they are really just as bright. If one looks fainter, it must be further away. Timing the blinks lets you work out how far away a star is."
     },
     {
      "t": "write",
@@ -2126,7 +2126,7 @@
     },
     {
      "t": "mcq",
-     "p": "In 1929, Edwin Hubble compared how far away galaxies are with how fast they move away. What pattern did he find?",
+     "p": "If the whole universe is stretching, like the bindi balloon, what pattern would you expect between how far away a galaxy is and how fast it moves away?",
      "opts": [
       "The further away a galaxy is, the faster it moves away",
       "The nearer a galaxy is, the faster it moves away",
@@ -2134,7 +2134,7 @@
       "Galaxies are not moving at all"
      ],
      "a": 0,
-     "why": "Further away means faster. This is just what the bindis did. Today it is called the Hubble-Lemaître law, because Georges Lemaître had worked it out first, in 1927."
+     "why": "When everything stretches, there is more stretching space between you and a far galaxy than a near one. So far galaxies move away faster. This is just what the bindis did, and it is what astronomers measure."
     },
     {
      "t": "order",
@@ -2180,14 +2180,14 @@
     },
     {
      "t": "mcq",
-     "p": "Fred Hoyle made up the name 'Big Bang' on the radio in 1949. Did he believe the universe had a beginning?",
+     "p": "Someone believes the universe has always been the same, with no beginning. Which discovery would be hardest for this idea to explain?",
      "opts": [
-      "No, he believed the universe had always been the same",
-      "Yes, he was the first to suggest it",
-      "Yes, he found the leftover glow"
+      "A faint glow from every direction, left over from a time when everything was hot and packed together",
+      "Stars shining at night",
+      "Galaxies having spiral arms"
      ],
      "a": 0,
-     "why": "Hoyle backed the steady state idea. The name stuck, even though he used it for the idea he did not believe."
+     "why": "A leftover glow means there was a hot, packed time long ago. A universe that never changes never had such a time, so it cannot explain the glow."
     }
    ]
   }

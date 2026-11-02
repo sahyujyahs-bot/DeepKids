@@ -1431,7 +1431,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. In the made-up example chart, which shape held the most?",
+     "p": "You stand paper columns made from the same paper under a board: round tubes, square tubes or zigzags. You add books until they crumple. Which shape would you expect to hold the most?",
      "opts": [
       "The zigzags",
       "The round tubes",
@@ -1439,9 +1439,9 @@
       "All the same"
      ],
      "a": 1,
-     "why": "The round tubes held the most. A tube spreads the weight evenly all the way round, so it is strong without being heavy. Insect and crab legs are tubes of armour for the same reason.",
+     "why": "A round tube spreads the weight evenly all the way round, so it is strong without being heavy. Square tubes bend at their corners, and zigzags fold up. Insect and crab legs are tubes of armour for the same reason.",
      "how": "e2",
-     "context": "Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled.",
+     "context": "Paper columns of three shapes, round tubes, square tubes and zigzags, stand under a board, and books are added until they crumple.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: how many books each set of paper columns held",

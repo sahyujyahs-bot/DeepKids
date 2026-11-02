@@ -1170,15 +1170,15 @@
     },
     {
      "t": "mcq",
-     "p": "In the story The Lamps That Stay, Iba got home by following the glowing mushrooms, not the fireflies. Why did that work?",
+     "p": "You are lost at night in a forest. Fireflies flash all around you, and glowing mushrooms grow on fallen bamboo by a stream that runs past your home. Which is better to follow home, and why?",
      "opts": [
-      "The mushrooms glowed steadily and stayed where they grew, by the stream",
-      "The fireflies were too hot to go near",
-      "The mushrooms were brighter than the Sun"
+      "The mushrooms, because they glow steadily and stay where they grow, by the stream",
+      "The fireflies, because their light is too hot to go near",
+      "The mushrooms, because they are brighter than the Sun"
      ],
      "a": 0,
-     "why": "Fireflies flash and move about, talking to each other. The mushrooms stay on old bamboo by the stream, glowing all night. Picking 'too hot' misses that firefly light is cold.",
-     "context": "In the story The Lamps That Stay, Iba, a girl of eleven, and her little brother are lost at night in a forest in Meghalaya. Fireflies flash all around them, and glowing mushrooms grow on fallen bamboo."
+     "why": "Fireflies flash on and off and fly about, signalling to each other, so they cannot mark a path. Mushrooms stay where they grow and glow all night. Picking 'too hot' misses that firefly light is cold.",
+     "context": "Fireflies and some mushrooms both make their own light, called living light."
     },
     {
      "t": "order",

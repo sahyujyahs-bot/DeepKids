@@ -2185,10 +2185,10 @@
     },
     {
      "t": "write",
-     "p": "Svante Arrhenius's examiners thought his idea was wrong. What evidence later showed he was right?",
+     "p": "Someone says salt breaks into two tiny charged bits when it dissolves, but sugar stays whole. What could you test to check this idea?",
      "lines": 3,
-     "a": "Salt lowers the freezing point of water about twice as much as the same number of sugar particles, because each bit of salt splits into two ions. And salt solutions carry electricity even when very dilute.",
-     "why": "A strong answer names a measurement that his idea explained and the old idea did not."
+     "a": "Test whether salt water and sugar water carry electricity, for example with a battery and a bulb. If salt has charged bits, salt water should carry electricity and sugar water should not.",
+     "why": "A strong answer names a test whose result would be different if the idea were right or wrong."
     },
     {
      "t": "draw",
@@ -2318,14 +2318,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Full Glass Test, which did the same small amount of water dissolve more of?",
+   "p": "A glass of water stops dissolving salt after 3 spoons. Then sugar is stirred into the same full salt water, and it keeps dissolving. What does this show?",
    "opts": [
-    "Salt",
-    "Sugar",
-    "The same of both"
+    "Water has a different limit for each thing",
+    "The salt turned into sugar",
+    "The water was never full"
    ],
-   "a": 1,
-   "why": "The water took two or three spoons of salt and more than ten of sugar. Many children guess salt or the same, because the grains look alike.",
+   "a": 0,
+   "why": "The water was full for salt but not for sugar. Each thing has its own limit in water, even when the grains look alike.",
    "outcome": 2,
    "how": "e1"
   },
@@ -2407,14 +2407,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did Svante Arrhenius show about salt in water?",
+   "p": "Salt dissolved in water lets electricity pass through, but sugar dissolved in water does not. What does this tell us about salt in water?",
    "opts": [
     "It turns into sugar",
-    "It comes apart into charged particles called ions by itself",
+    "It comes apart into tiny charged bits",
     "It does not dissolve"
    ],
    "a": 1,
-   "why": "Arrhenius showed that salt splits into ions as it dissolves, with no electric current needed. His examiners doubted him, but he won the Nobel Prize in 1903.",
+   "why": "Electricity needs charged bits that can move. Salt comes apart into charged bits called ions as it dissolves. Sugar stays whole, so sugar water does not carry electricity.",
    "outcome": 6
   }
  ],

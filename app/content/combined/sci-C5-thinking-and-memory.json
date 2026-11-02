@@ -460,11 +460,11 @@
       },
       {
        "t": "mcq",
-       "p": "Henry Molaison could not form new event memories, but he could…",
+       "p": "A person's brain can no longer form new event memories. Which might they still be able to do?",
        "opts": [
         "learn mirror drawing",
         "remember new faces",
-        "remember what he had for lunch"
+        "remember what they had for lunch"
        ],
        "a": 0
       },
@@ -1098,7 +1098,7 @@
    "a": "For example: brainstem, breathing and heartbeat. Cerebellum, balance and skilled movement. Hippocampus, new event memories. Cortex, thinking, sensing and planning. Amygdala, alarm and fear."
   },
   {
-   "q": "What did Henry Molaison's story teach scientists?",
+   "q": "A man's hippocampus is damaged. He can still learn a new skill, like mirror drawing, but he cannot remember the lessons where he learned it. What does this tell us about memory?",
    "a": "The hippocampus is needed to form new event memories, and skill memory works separately."
   },
   {

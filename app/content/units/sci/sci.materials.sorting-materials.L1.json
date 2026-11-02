@@ -1447,9 +1447,9 @@
     },
     {
      "t": "write",
-     "p": "Remember the Sink or Float Sort. When you poured water into the floating katori, what happened, and why? Say it, and a grown-up writes it down.",
+     "p": "A steel katori floats right way up. What happens if you pour water into it, and why? Say it, and a grown-up writes it down.",
      "lines": 2,
-     "a": "It sank. The water pushed the air out of the katori, and without the air the water could not hold it up.",
+     "a": "It sinks. The water pushes the air out of the katori, and without the air the water cannot hold it up.",
      "why": "A strong answer says what happened (it sank) and why (the air inside was gone).",
      "how": "e1"
     },
@@ -1498,7 +1498,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these by the question 'Did it float in the Sink or Float Sort?'",
+     "p": "Sort these by the question 'Will it float in water?'",
      "cats": [
       "Floated",
       "Sank"
@@ -1719,14 +1719,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Sink or Float Sort, the steel spoon sank. What did the steel katori do, right way up?",
+   "p": "A steel spoon sinks in water. What will a steel katori do, put in the water right way up?",
    "opts": [
-    "It floated",
-    "It sank too",
-    "It broke"
+    "It floats",
+    "It sinks too",
+    "It breaks"
    ],
    "a": 0,
-   "why": "The katori floated, because its shape held air. Both are steel, but they did different things.",
+   "why": "The katori floats, because its bowl shape holds air. Both are steel, but their shapes make them do different things.",
    "outcome": 3,
    "how": "e1"
   },

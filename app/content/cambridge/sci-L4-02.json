@@ -561,8 +561,8 @@
           {"t": "write", "p": "Trace the energy in a bowl of curd all the way back to where it started. Use at least four arrows.", "lines": 3}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "Scientists once thought heat was an invisible fluid called caloric. How did Rumford's cannon test argue against that idea?", "lines": 3},
-          {"t": "write", "p": "Mayer and Lindeman both had important ideas that were ignored or nearly rejected. What do their stories teach us about how new ideas are treated in science?", "lines": 4}
+          {"t": "write", "p": "Scientists once thought heat was an invisible fluid stored inside things. When you rub two things together, they keep getting warmer for as long as you rub. How does this argue against the fluid idea?", "lines": 3},
+          {"t": "write", "p": "Sometimes a new idea in science is ignored or laughed at at first. Why might that happen, and what can make other scientists take it seriously?", "lines": 4}
         ]]
       ]
     }
@@ -770,7 +770,7 @@
   "check": [
     {"q": "What is energy? Name four forms of energy.", "a": "Energy is anything that can cause movement or carry out an action or change. Forms include movement, heat, light, sound and electrical energy (and energy stored in food and fuels)."},
     {"q": "What is an energy transfer? Give an example as an energy chain.", "a": "When energy moves from one object to another. Example: hot water → steel spoon → surrounding air, or Sun → clothes on the line."},
-    {"q": "In Zara's spoon test, what did we change, what did we keep the same, and what did we measure?", "a": "Changed: the spoon material. Kept the same: spoon length, bead, amount of Vaseline, water temperature and amount, starting time. Measured: the time for each bead to fall."},
+    {"q": "You want to find out which spoon material carries heat fastest. What will you change, what will you keep the same, and what will you measure?", "a": "Change: only the spoon material. Keep the same: spoon length, the bead and the blob of Vaseline holding it, how hot the water is and how much, and when you start the clock. Measure: the time for each bead to fall."},
     {"q": "Describe the energy changes in a ceiling fan.", "a": "Electrical energy changes into movement energy of the blades (useful), and some changes into sound and heat that go into the surroundings."},
     {"q": "A cup of hot chai goes cold. Has its energy been used up? Explain.", "a": "No. Energy cannot be used up, made or destroyed. The heat has been transferred from the chai to the cup and into the surrounding air, where it is spread out so thinly that we do not notice it."},
     {"q": "Why are plants called producers and animals called consumers?", "a": "Plants make their own food using light energy from the Sun. Animals cannot make food; they must eat (consume) plants or other animals to get energy."},

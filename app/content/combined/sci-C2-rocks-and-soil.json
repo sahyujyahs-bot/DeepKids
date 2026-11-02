@@ -624,11 +624,11 @@
       },
       {
        "t": "mcq",
-       "p": "Charles Darwin studied earthworms for many years. What did he find?",
+       "p": "Earthworms eat soil underground and leave little heaps of it on top. A stone lies on a lawn full of worms for many years. What happens to it?",
        "opts": [
-        "Worms mix the soil and slowly bury stones.",
-        "Worms eat rocks.",
-        "Worms harm all plants."
+        "Worms mix the soil and slowly bury the stone.",
+        "Worms eat the stone.",
+        "Worms push the stone up into the air."
        ],
        "a": 0
       },
@@ -1317,8 +1317,8 @@
  ],
  "check": [
   {
-   "q": "Name one hard rock and one soft rock. How did we test them?",
-   "a": "Granite is hard and chalk is soft. We scratched them with a fingernail and a steel key. The nail scratched chalk, but even the key didn't scratch granite."
+   "q": "How could you test whether a rock is hard or soft, using things from home?",
+   "a": "Scratch it with a fingernail, then with a steel key. A soft rock like chalk is scratched by a nail. A hard rock like granite is not scratched even by the key."
   },
   {
    "q": "What does waterproof mean? Name a rock that is waterproof.",
@@ -1337,8 +1337,8 @@
    "a": "They are the biggest and heaviest pieces, so they sank first."
   },
   {
-   "q": "What is a fossil, and who was Mary Anning?",
-   "a": "A fossil is the shape or remains of a living thing from long ago, kept in rock. Mary Anning was a poor girl in England who found famous fossils of sea reptiles."
+   "q": "What is a fossil, and why are fossils found inside rock?",
+   "a": "A fossil is the shape or remains of a living thing from long ago, kept in rock. The living thing was buried in mud or sand, which slowly hardened into rock around it."
   },
   {
    "q": "Name one thing we get and one thing we may lose when a quarry is dug.",

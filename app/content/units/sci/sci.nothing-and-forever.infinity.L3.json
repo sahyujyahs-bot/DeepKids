@@ -1574,14 +1574,14 @@
     },
     {
      "t": "mcq",
-     "p": "Archimedes, a Greek thinker who lived about 2,200 years ago, heard people say that the grains of sand were infinite. What did he show?",
+     "p": "Imagine filling a whole room with sand. Is the number of grains infinite?",
      "opts": [
-      "The grains of sand can be given a number, even if it is huge",
-      "The grains of sand really are infinite",
+      "No. It is a huge number, but the room has an end, so the grains can be given a number",
+      "Yes. Sand is always infinite",
       "Sand is too small to count"
      ],
      "a": 0,
-     "why": "Archimedes worked out that the grains of sand needed to fill the whole universe, as he pictured it, would be fewer than a 1 followed by 63 zeros. That is huge, but it is a number."
+     "why": "Very many is not the same as endless. You could count a spoonful and multiply, as in the rice test. Only something with no end can be infinite."
     },
     {
      "t": "draw",
@@ -1984,14 +1984,14 @@
   },
   {
    "t": "mcq",
-   "p": "Long ago, some people said the grains of sand were infinite. What did Archimedes, a Greek thinker, show?",
+   "p": "Some people say the grains of sand on all the beaches are infinite. What would you tell them?",
    "opts": [
-    "The sand has a number, even if it is huge",
+    "The sand has a number, even if it is huge, because the beaches do not go on for ever",
     "The sand really is infinite",
     "Sand can't be counted at all"
    ],
    "a": 0,
-   "why": "Archimedes showed that even sand filling the universe, as he pictured it, would be fewer than a 1 followed by 63 zeros. A huge number is still a number.",
+   "why": "A beach has an end, so its grains can be given a number, even a huge one. A huge number is still a number. Archimedes showed this long ago.",
    "outcome": 5
   },
   {

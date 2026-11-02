@@ -551,7 +551,7 @@
   "check": [
     {"q": "What is energy, and why do we need it even when sleeping?", "a": "Energy is the power to do work. While we sleep our heart, lungs and brain keep working and the body stays warm, which all need energy."},
     {"q": "What is the difference between renewable and non-renewable sources? Give two examples of each.", "a": "Non-renewable sources get used up and cannot be replaced in our lifetime, like coal and petrol. Renewable sources keep coming back, like sunlight and wind (also flowing water and food)."},
-    {"q": "Name the seven kinds of energy in the book.", "a": "Food energy, solar energy, wind energy, hydro energy, organic (biogas) energy, electrical energy and magnetic energy."},
+    {"q": "Name four sources of energy we use, and say what each one is good for.", "a": "For example: food gives our bodies energy; sunlight can heat water and make electricity with solar panels; wind can turn windmills; falling water can make electricity; dung and waste can make biogas for cooking."},
     {"q": "Why does a pinwheel spin faster when you run with it?", "a": "More air pushes on the blades, so the wind energy is greater and more work of spinning is done."},
     {"q": "How is electricity made in a hydro power station?", "a": "Water stored behind a dam falls through pipes and spins turbines, which turn generators that make electricity."},
     {"q": "What goes into a biogas plant and what comes out?", "a": "Animal dung, dead plants, dry leaves and crop waste go in; bacteria break them down without air and give a gas (mostly methane) for cooking and light, and the leftover is manure."},

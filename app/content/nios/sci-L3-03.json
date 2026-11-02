@@ -325,14 +325,14 @@
       "day": 4,
       "sections": [
         ["A. Makara Sankranti", [
-          {"t": "match", "p": "Match the state to its name or custom for Makara Sankranti.", "pairs": [["Tamil Nadu", "Pongal"], ["Assam", "Bihu"], ["Punjab", "Lohri"], ["Gujarat", "Kite flying"], ["Bihar and Uttar Pradesh", "Khichadi Sankranti"]]},
+          {"t": "match", "p": "Match each word to the idea behind it.", "pairs": [["Amavasya", "The Moon is between the Earth and the Sun"], ["Purnima", "The Earth is between the Sun and the Moon"], ["A moon calendar", "Each month begins with the new crescent"], ["A harvest festival", "Held when the new crops are ready"], ["Uttarayan", "The noon sun climbs higher each day"]]},
           {"t": "mcq", "p": "Makara Sankranti is mainly a festival of:", "opts": ["The monsoon", "The harvest", "A king's victory", "The new year at school"], "a": 1}
         ]],
         ["B. Holi, Eid and Guru Parva", [
           {"t": "fill", "p": "Holi is celebrated on the full moon day of the month of ____.", "a": ["Phalgun", "Phalguna"]},
-          {"t": "fill", "p": "The bonfire on the eve of Holi is called Holika ____.", "a": ["Dahan"]},
+          {"t": "fill", "p": "Holi comes on a full-moon night. On a full-moon night, the Moon's whole lit side faces the ____.", "a": ["Earth", "earth"]},
           {"t": "mcq", "p": "Eid-ul-Fitr is celebrated:", "opts": ["On 25 December", "The day after the crescent moon is seen at the end of Ramazan", "On Kartik Purnima", "On Amavasya"], "a": 1},
-          {"t": "fill", "p": "The money elders give to younger ones on Eid is called ____.", "a": ["Eidi"]},
+          {"t": "fill", "p": "A moon-month is about 29 and a half days. So 12 moon-months make about ____ days.", "a": ["354", "355"]},
           {"t": "mcq", "p": "In a langar, food is served to:", "opts": ["Only Sikhs", "Only the poor", "Everyone, whatever their caste, religion or status", "Only the priests"], "a": 2}
         ]],
         ["C. Good habits", [
@@ -348,7 +348,7 @@
       "sections": [
         ["A. Who am I?", [
           {"t": "mcq", "p": "I am celebrated for nine nights before a tenth day when effigies are burnt. I am:", "opts": ["Christmas", "Navratri and Dussehra", "Pongal", "Republic Day"], "a": 1},
-          {"t": "mcq", "p": "I fall on the darkest night of Kartik and my five days end with Bhai Dooj. I am:", "opts": ["Holi", "Eid", "Deepawali", "Lohri"], "a": 2},
+          {"t": "mcq", "p": "A festival of lamps falls on the darkest night of the month, when no moon can be seen. Why is that night so dark?", "opts": ["The Moon is between the Earth and the Sun, so its lit side faces away from us", "The Moon has gone out", "Clouds always cover the Moon that night", "The Sun is closer that night"], "a": 0},
           {"t": "mcq", "p": "I remember a teacher who said non-violence is the highest religion. I am:", "opts": ["Mahavir Jayanti", "Bihu", "Christmas", "Lohri"], "a": 0}
         ]],
         ["B. Science inside festivals", [
@@ -374,7 +374,7 @@
           {"t": "mcq", "p": "Why does Deepawali stay in October or November even though it follows the moon?", "opts": ["It does not follow the moon", "An extra month is added to the Hindu calendar about every three years", "The moon is always full in Kartik", "The government fixes it"], "a": 1}
         ]],
         ["B. What if?", [
-          {"t": "write", "p": "What if the Earth did not spin? Would we still have day and night? Think about what Aryabhata said.", "lines": 3},
+          {"t": "write", "p": "What if the Earth did not spin? Would we still have day and night? Explain using a ball and a lamp.", "lines": 3},
           {"t": "write", "p": "What if every festival in India were celebrated by only one religion and no one joined anyone else's? What would we lose?", "lines": 3}
         ]],
         ["C. Comparing views", [
@@ -565,11 +565,11 @@
   ],
   "check": [
     {"q": "What does 'unity in diversity' mean, and how do festivals show it?", "a": "People of many religions, regions and languages live as one country. Festivals show it because people of other religions join each other's celebrations, such as Eid seviyan, Christmas cake and Diwali sweets shared among neighbours."},
-    {"q": "Give three names of Makara Sankranti in different states, and say why it is celebrated.", "a": "Pongal in Tamil Nadu, Bihu in Assam, Lohri in Punjab, kite-flying Uttarayan in Gujarat, Khichadi Sankranti in Bihar and Uttar Pradesh. It is a harvest festival when new crops like rice, til and sugarcane are in."},
-    {"q": "What is the story behind Holika Dahan, and what does the book say spoils Holi?", "a": "Holika, who could not be burnt, sat in a fire with Prahlad, but Prahlad was saved and Holika burnt: good over evil. Holi is spoiled by mud, coal-tar, chemical colours, drunkenness and taking revenge."},
+    {"q": "One harvest festival in mid-January has different names and customs in different states. Why might that be, and why is it held at that time?", "a": "India is large, with many languages and ways of life, so each place celebrates in its own way, with its own name and food. It comes in mid-January because new crops like rice, til and sugarcane are ready, and the noon sun is starting to climb higher."},
+    {"q": "Many festivals tell a story of good winning over evil. Why might people keep telling such stories? And what can make a festival like Holi unsafe or unkind?", "a": "The stories remind people to be brave and do right, and they bring families together each year. Holi is spoiled by mud, chemical colours that hurt skin and eyes, drunkenness and using the day for revenge."},
     {"q": "Why does Eid come about 11 days earlier every year?", "a": "The Islamic calendar follows the moon: 12 moon-months are about 354 days, 11 days fewer than a 365-day year. Each month begins when the new crescent moon is seen."},
     {"q": "What is langar and what does it teach?", "a": "Langar is the free community meal in a gurdwara, served to everyone, whatever their caste, religion or status, sitting together. It teaches equality, sharing and service."},
-    {"q": "Name the five days of Deepawali and say why too many crackers are harmful.", "a": "Dhanteras, Narak Chaturdashi (Choti Diwali), Deepawali with Lakshmi Puja on Amavasya, Govardhan Puja, Bhai Dooj. Crackers make smoke full of tiny particles and harmful gases, and loud noise, which hurt children, old and sick people most."},
+    {"q": "Why are too many crackers at Deepawali harmful, and who do they hurt most?", "a": "Crackers make smoke full of tiny particles and harmful gases, and very loud noise. These hurt the lungs and ears of children, old people, sick people and animals most."},
     {"q": "What are our three national festivals and what does each mark?", "a": "Independence Day, 15 August, freedom from British rule in 1947; Republic Day, 26 January, the Constitution coming into force in 1950; Gandhi Jayanti, 2 October, Mahatma Gandhi's birth in 1869."},
     {"q": "Why does the moon look different on Amavasya and Purnima?", "a": "The moon is lit by the sun. On Amavasya it is between the Earth and the sun, so we see its dark side; on Purnima it is on the far side of the Earth, so we see its whole lit face."}
   ]

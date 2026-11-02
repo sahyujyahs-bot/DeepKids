@@ -873,7 +873,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the Catch the Beam test in order.",
+     "p": "Put the steps for testing how a mirror bounces a torch beam in order.",
      "items": [
       "Make a thin beam with a slit card on the torch",
       "Stand the mirror on the top edge of the paper",
@@ -914,16 +914,16 @@
     },
     {
      "t": "truefalse",
-     "p": "The James Webb Space Telescope collects starlight with 18 mirrors coated in gold.",
+     "p": "True or false: a big space telescope can use mirrors to collect faint starlight.",
      "a": true,
-     "why": "True. Its 18 six-sided mirrors are coated in a thin layer of gold, and together they are 6.5 metres wide."
+     "why": "True. A curved mirror bounces all the light that falls on it to one spot, so a big mirror gathers a lot of faint light. The James Webb Space Telescope uses mirrors like this."
     },
     {
      "t": "write",
-     "p": "In the How Many of Me test, you made the gap between the two mirrors smaller. Did you see more images or fewer? Explain why, using the word 'reflect'.",
+     "p": "Two mirrors stand at an angle, with a toy between them. You make the gap between the mirrors smaller. Do you see more images of the toy or fewer? Explain why, using the word 'reflect'.",
      "lines": 4,
      "a": "More images. Light from the toy reflects from one mirror to the other and back again. In a smaller gap, the light can bounce more times before it comes out to my eye. Each bounce makes another image.",
-     "why": "A strong answer reports the result and explains it with light bouncing between the mirrors, not with the mirrors 'making' toys.",
+     "why": "A strong answer explains it with light bouncing between the mirrors, not with the mirrors 'making' toys.",
      "how": "e3"
     },
     {
@@ -1032,7 +1032,7 @@
     },
     {
      "t": "draw",
-     "p": "Remember the Sunlight Postman? Draw the Sun, your mirror and the bright spot on a shady wall, with arrows for the light. Then draw where the spot goes if you tilt the mirror a little.",
+     "p": "You use a mirror to bounce sunlight onto a shady wall. Draw the Sun, the mirror and the bright spot on the wall, with arrows for the light. Then draw where the spot goes if you tilt the mirror a little.",
      "a": "An arrow from the Sun to the mirror, and an arrow from the mirror to the spot on the wall. A second drawing shows the mirror tilted and the spot moved along the wall.",
      "why": "A strong drawing shows the light reflecting off at the same angle it came in. When the mirror tilts, the reflected beam swings, so the spot moves. It moves further than you might expect.",
      "how": "a5"
@@ -1070,7 +1070,7 @@
      ],
      "ask": "Do you think it really happened? Give a reason from what you know about mirrors. Then argue for the other side.",
      "lines": 5,
-     "a": "A strong answer uses mirror science: each mirror can send a bright spot of sunlight to one place, as in the Sunlight Postman, and many spots together get hot. It also weighs the history: a moving ship, clouds and no writer from that time. It then argues fairly for the other side.",
+     "a": "A strong answer uses mirror science: each mirror can send a bright spot of sunlight to one place, and many spots together get hot. It also weighs the history: a moving ship, clouds and no writer from that time. It then argues fairly for the other side.",
      "why": "This is still argued about. Mirrors really can focus sunlight to start a fire. Whether Archimedes did it in a real battle is much less likely."
     },
     {
@@ -1118,7 +1118,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ibn al-Haytham argued that light travels into our eyes, not out of them. Which fact did he use?",
+     "p": "Which fact best shows that light travels into our eyes, not out of them?",
      "opts": [
       "Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye",
       "Mirrors are made of glass",
@@ -1129,14 +1129,14 @@
     },
     {
      "t": "mcq",
-     "p": "In 1957 the scientist Chien-Shiung Wu tested whether nature works the same in a mirror world. What did she find?",
+     "p": "Scientists wondered if nature works exactly the same in a mirror world. Which test could check this?",
      "opts": [
-      "One of nature's forces, the weak force, does not act the same in a mirror world",
-      "Everything in nature acts exactly the same in a mirror world",
-      "Mirrors change the speed of light"
+      "Set up an experiment and its exact mirror copy, and see if both give the same result",
+      "Look in a mirror and see if you are still there",
+      "Ask people whether mirrors are fair"
      ],
      "a": 0,
-     "why": "Her test showed that the weak force treats an object and its mirror image differently. Physicists still do not know why nature is built this way."
+     "why": "To test it, you build the real setup and its mirror copy and compare them. When Chien-Shiung Wu did this in 1957, one force of nature, the weak force, did not act the same."
     },
     {
      "t": "mcq",
@@ -1240,9 +1240,9 @@
     },
     {
      "t": "write",
-     "p": "Ibn al-Haytham used narrow tubes to let through only a thin beam of light. How is your slit card in Catch the Beam like his tubes?",
+     "p": "Why is a thin beam of light better than a wide one when you study how a mirror bounces light?",
      "lines": 3,
-     "a": "Both make a thin beam, so you can follow exactly where the light goes. A wide beam would make a wide patch that is hard to measure.",
+     "a": "A thin beam lets you follow exactly where the light goes. A wide beam would make a wide patch that is hard to measure.",
      "why": "A strong answer says the thin beam lets you follow one ray and measure its angle.",
      "how": "e1"
     }
@@ -2696,7 +2696,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the story Written for the Mirror, Noor paints a sign on the inside of a chai stall's glass window. Why does she paint the letters backwards?",
+   "p": "A chai stall owner paints a sign on the inside of her glass window, for people on the road to read. Why should she paint the letters backwards?",
    "opts": [
     "So people on the road, who see the glass from the other side, read it the right way",
     "Because she can only write backwards",

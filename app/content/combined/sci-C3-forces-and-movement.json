@@ -727,7 +727,7 @@
      [
       {
        "t": "write",
-       "p": "In the story, Arjun wished there was no friction. Write three things that would go wrong in your house, and one thing that would be better.",
+       "p": "Imagine there was no friction at all. Write three things that would go wrong in your house, and one thing that would be better.",
        "lines": 3
       },
       {
@@ -791,11 +791,11 @@
       },
       {
        "t": "mcq",
-       "p": "Leonardo da Vinci, an Italian artist and scientist, tested blocks sliding on a table. He found that friction depends mostly on what?",
+       "p": "You slide the same block along a table: first on its big face, then on its small face, then with a heavy book on top. Which change makes the friction much bigger?",
        "opts": [
-        "how big the touching face is",
-        "how hard the surfaces press together",
-        "the colour of the surface"
+        "Turning it onto a different face",
+        "Adding the book, so it presses harder on the table",
+        "Painting it a different colour"
        ],
        "a": 1
       },
@@ -1119,8 +1119,8 @@
    "a": "Rolling things don't rub along the surface, so there's much less friction."
   },
   {
-   "q": "In our surface test, what did we keep the same and what did we change?",
-   "a": "We kept the same shoe, the same weight and the same slow pull. We changed only the surface."
+   "q": "You test how hard it is to pull a shoe over different surfaces. What should you keep the same, and what do you change?",
+   "a": "Keep the same shoe, the same weight and the same slow pull. Change only the surface."
   },
   {
    "q": "A book lies still on a table. Are there forces on it?",

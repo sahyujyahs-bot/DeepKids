@@ -2140,10 +2140,10 @@
     },
     {
      "t": "write",
-     "p": "Meera, a girl in Class 3, says the pandal in the story leaned because Arun's knots were loose. Is she right? What really happened?",
+     "p": "A pandal made of poles tied into squares leans over in the wind. Not one knot came undone and no pole broke. Meera says the knots must have been loose. Is she right? What really made it lean, and how could you fix it?",
      "lines": 3,
-     "a": "No. Not one knot came undone and no pole broke. The pandal leaned because its frame was made of squares, which can lean when their corners turn. The cross poles made triangles and stopped it.",
-     "why": "A strong answer uses the story's evidence and names the missing triangles."
+     "a": "No. The knots held and the poles did not break. The pandal leaned because its frame was made of squares, which can lean when their corners turn. Tying cross poles from corner to corner makes triangles, and that stops it leaning.",
+     "why": "A strong answer uses the evidence that nothing broke and names the missing triangles."
     },
     {
      "t": "order",

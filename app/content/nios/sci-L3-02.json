@@ -348,7 +348,7 @@
           {"t": "write", "p": "In our paper-bag test, how many bags did you make alone and as a team? Why was there a difference?", "lines": 3}
         ]],
         ["C. Working together", [
-          {"t": "write", "p": "The hand pump in your lane is broken. Write three things the neighbours could do, as in Sonia's village.", "lines": 3},
+          {"t": "write", "p": "The hand pump in your lane is broken. Write three things the neighbours could do together.", "lines": 3},
           {"t": "sort", "p": "Is this helping or hindering a public service?", "items": ["Shouting at a nurse", "Putting garbage in the municipal van", "Writing the PIN code on a letter", "Breaking a park bench", "Waiting your turn at the bank", "Calling 112 as a joke"], "cats": ["Helping", "Hindering"]}
         ]]
       ]
@@ -506,6 +506,6 @@
     {"q": "What does a government hospital give for free?", "a": "Treatment and food in general wards, many tests, life-saving medicines, children's vaccines, and an ambulance for poor patients. Emergency cases are treated first."},
     {"q": "What does a bank do, and what is interest?", "a": "A bank keeps money safe, lets you take it out when needed, keeps valuables in lockers and gives loans. Interest is the extra money the bank pays you for keeping your money there (or that you pay when you borrow)."},
     {"q": "Where do you lodge an FIR, and where does a poor person get a free lawyer?", "a": "An FIR is lodged at a police station. A poor person gets free legal help from the Legal Aid Cell in a court, and the judge can waive the fee."},
-    {"q": "How did Sonia's village develop?", "a": "Through everyone's cooperation: people kept homes and lanes clean, repaired the hand pump together, gave free labour for the streets, and the panchayat decided by agreement. Seeing this unity, the government and voluntary groups helped build the school and health centre."}
+    {"q": "How can the people of a village or colony work together to make it a better place? Give three examples.", "a": "They can keep homes and lanes clean, repair a broken hand pump together, give their time to build or mend streets, and decide things together in the panchayat. When people work together, the government and other groups are also more willing to help."}
   ]
 }

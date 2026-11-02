@@ -1282,7 +1282,7 @@
       ],
       [
        "A girl who lives with only her father",
-       "Joyita and her Baba"
+       "A family with one parent"
       ]
      ],
      "a": "pairs as given",
@@ -1517,14 +1517,14 @@
     },
     {
      "t": "mcq",
-     "p": "Scientists found that people in one home share many skin microbes. Ammachi, Nila's grandmother, goes to stay for two weeks with her daughter Revathi, the mother of baby Kayal. What do you guess will happen?",
+     "p": "Scientists found that people in one home share many skin microbes. A grandmother goes to stay for two weeks with her daughter's family. What do you guess will happen?",
      "opts": [
-      "She will share more microbes with Revathi's family",
+      "She will share more microbes with her daughter's family",
       "All her microbes will go away",
       "Nothing will change at all"
      ],
      "a": 0,
-     "why": "People who live together share more skin microbes. So she will likely share more with Revathi and Kayal. Scientists are still finding out how long shared microbes stay."
+     "why": "People who live together share more skin microbes. So she will likely share more with her daughter's family. Scientists are still finding out how long shared microbes stay."
     },
     {
      "t": "perspective",

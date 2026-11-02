@@ -1300,7 +1300,7 @@
    "a": "A red circle gives an order, a red triangle warns, and a blue rectangle gives information. To cross, stop at the edge, look right, look left, look right again, and walk when the road is clear."
   },
   {
-   "q": "What did the dust cards show, and what can make the air near roads cleaner?",
+   "q": "Oily cards are left for two days, one by a busy road and one in a cupboard. Which gets dirtier, and what can make the air near roads cleaner?",
    "a": "The road-side card was dirtiest, because traffic puts soot and dust into the air. Fewer cars, more buses, trains, cycling and walking, and cleaner engines all help."
   },
   {
@@ -1308,8 +1308,8 @@
    "a": "It lays a smell trail of a chemical called a pheromone, from the food back to the nest. Other ants follow it. When the trail was wiped, the ants stopped and searched, because the smell message was gone."
   },
   {
-   "q": "Why did Kabir and Zoya's torch flashes work as messages?",
-   "a": "Because they had agreed on a code: one flash for yes, two for no, and so on. A message travels only when the sender and the receiver share the same code."
+   "q": "Two friends send messages with torch flashes. Why do the flashes work as messages only if they agree on a code first?",
+   "a": "A flash means nothing by itself. Only if both agree, for example one flash for yes and two for no, can the receiver understand. A message travels only when the sender and the receiver share the same code."
   }
  ]
 }

@@ -1866,15 +1866,15 @@
   },
   {
    "t": "mcq",
-   "p": "In Korea in 1441, how did the crown prince improve on digging into wet soil to measure rain?",
+   "p": "Long ago, people measured rain by digging to see how deep the soil was wet. Which is a better way to measure rain?",
    "opts": [
-    "He measured rain in a metal vessel with a ruler",
-    "He counted the raindrops",
-    "He asked farmers to guess",
-    "He weighed the clouds"
+    "Catch the rain in a straight-sided metal pot and measure the water's depth with a ruler",
+    "Count the raindrops",
+    "Ask farmers to guess",
+    "Weigh the clouds"
    ],
    "a": 0,
-   "why": "A vessel soaks up nothing, so its water depth shows only the rain. Soil soaks up different amounts depending on how dry it was.",
+   "why": "A pot soaks up nothing, so the depth of water in it shows only the rain. Soil soaks up different amounts depending on how dry it was before.",
    "outcome": 5
   },
   {
@@ -2017,20 +2017,20 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the Sun or Shade test in order.",
+     "p": "You want to find out whether a thermometer reads differently in the sun and in the shade. Put the steps of your test in order.",
      "items": [
       "Read the thermometer in the sun",
-      "Read the thermometer in the shade",
-      "Guess the three readings, and say why",
-      "Read it under the white paper roof in the sun"
+      "Hang the thermometer in the shade and wait a few minutes",
+      "Guess the readings, and say why",
+      "Write down both readings and compare them"
      ],
      "a": [
-      "Guess the three readings, and say why",
-      "Read the thermometer in the shade",
+      "Guess the readings, and say why",
+      "Hang the thermometer in the shade and wait a few minutes",
       "Read the thermometer in the sun",
-      "Read it under the white paper roof in the sun"
+      "Write down both readings and compare them"
      ],
-     "why": "First guess, then measure in the shade, then in the sun, then in the sun with the roof. Guessing first lets the test answer your question.",
+     "why": "First guess, then measure, then compare. Guessing first lets the test answer your question, and waiting gives the thermometer time to settle.",
      "how": "e1"
     },
     {

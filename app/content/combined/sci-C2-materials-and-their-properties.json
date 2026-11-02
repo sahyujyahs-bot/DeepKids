@@ -633,19 +633,21 @@
       },
       {
        "t": "mcq",
-       "p": "Stephanie Kwolek, a chemist, made a liquid that looked cloudy. What did the test show?",
+       "p": "A chemist makes a liquid that looks cloudy. Should she throw it away?",
        "opts": [
-        "it was spoiled",
-        "it made a very strong fibre",
-        "it was water"
+        "Yes: cloudy means it is spoiled",
+        "No: test it first, because looks do not tell you what it can do",
+        "Yes: it must be water"
        ],
        "a": 1
       },
       {
        "t": "fill",
-       "p": "Wootz was a famous ____ made in South India long ago.",
+       "p": "A sword must be hard and must not snap. A good material for it is ____.",
        "a": [
-        "steel"
+        "steel",
+        "metal",
+        "iron"
        ]
       },
       {
@@ -1058,8 +1060,8 @@
    "a": "It soaks up water. Usually the kitchen towel: the water climbed highest up it."
   },
   {
-   "q": "How did we make the climbing water test fair?",
-   "a": "Every strip was the same size, dipped the same depth and timed for the same 5 minutes. Only the material changed."
+   "q": "You test which materials soak up water fastest by dipping strips of them in water. How do you make the test fair?",
+   "a": "Make every strip the same size, dip each the same depth and time each for the same 5 minutes. Only the material changes."
   },
   {
    "q": "Why do scientists repeat a test?",
@@ -1070,8 +1072,8 @@
    "a": "The peel rotted because tiny living things broke it down (it is biodegradable). The plastic hardly changed because they cannot easily break it down."
   },
   {
-   "q": "How did Stephanie Kwolek find out her cloudy liquid was special?",
-   "a": "She tested it. She filtered it, then had it spun into a thread and pulled, and the thread was very strong."
+   "q": "A chemist makes a liquid that looks cloudy and wrong. How could she find out if it is useful?",
+   "a": "She tests it. She could filter it, spin it into a thread and pull it. Stephanie Kwolek did this, and the thread was very strong."
   }
  ]
 }

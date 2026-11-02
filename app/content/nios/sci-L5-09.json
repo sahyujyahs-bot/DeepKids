@@ -347,7 +347,7 @@
           {"t": "write", "p": "Hugh Bennett was called an alarmist before the Dust Bowl. How can we tell the difference between a warning that is true and one that is exaggerated?", "lines": 4},
           {"t": "write", "p": "Sikkim went fully organic; Sri Lanka's sudden ban on chemical fertiliser cut its harvests. List one reason each experience might have turned out so differently.", "lines": 4},
           {"t": "mcq", "p": "Which of these is the strongest kind of evidence that a pest spray works?", "opts": ["An advertisement says so", "A farmer's grandfather used it", "Many fields with and without the spray are compared over several seasons", "It smells strong"], "a": 2},
-          {"t": "write", "p": "The Chipko women had no power or money. Why do you think their protest worked?", "lines": 3}
+          {"t": "write", "p": "Some village women with no power or money hugged the trees in their forest to stop them being cut, and the cutting stopped. Why do you think a protest like this can work?", "lines": 3}
         ]]
       ]
     }

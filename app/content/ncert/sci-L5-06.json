@@ -502,18 +502,18 @@
       "sections": [
         ["A. Islands and the sea", [
           {"t": "fill", "p": "Land surrounded by water on all sides is called an ____.", "a": ["island"]},
-          {"t": "fill", "p": "The southernmost point of India is ____ Point, in the Nicobar Islands.", "a": ["Indira"]},
+          {"t": "fill", "p": "Plants or animals found naturally in only one place, and nowhere else in the world, are called ____.", "a": ["endemic"]},
           {"t": "mcq", "p": "Why do some trees in the Andaman forests have wide roots spreading out from the bottom of the trunk?", "opts": ["To catch rain", "To support the tall tree so it stays upright", "To store food", "To scare away animals"], "a": 1},
           {"t": "mcq", "p": "A coral is:", "opts": ["A coloured stone", "A kind of seaweed", "A tiny sea animal that builds a hard home", "A fish"], "a": 2},
           {"t": "write", "p": "Why must everyone wear a life jacket on a ferry, even good swimmers?", "lines": 2}
         ]],
         ["B. The Sundarbans", [
-          {"t": "fill", "p": "The Sundarbans is the largest ____ forest in the world.", "a": ["mangrove"]},
+          {"t": "fill", "p": "Trees that grow in salty mud along the sea coast, with roots that poke up out of the mud to breathe, are called ____ trees.", "a": ["mangrove"]},
           {"t": "mcq", "p": "The stick-like roots poking out of the mud help mangroves to:", "opts": ["Breathe air", "Catch fish", "Drink sea water faster", "Climb other trees"], "a": 0},
           {"t": "write", "p": "Give two ways people of the Sundarbans depend on the mangrove forest.", "lines": 2}
         ]],
         ["C. Northeast India", [
-          {"t": "sort", "p": "Sort these into the place where Shanti saw them.", "items": ["Andaman hornbill", "Breathing roots", "Living root bridge", "Coral reef", "Tiger masks", "Hargila stork", "Bhut jolokia chilli", "Buttress roots"], "cats": ["Andaman and Nicobar Islands", "Sundarbans", "Northeast India"]},
+          {"t": "sort", "p": "Sort these. Is each one a way a plant fits its home, or a way people fit their home?", "items": ["Breathing roots that poke up out of wet mud", "Wide buttress roots that hold up a tall tree", "Leaves that push out extra salt", "Houses on bamboo stilts above floodwater", "A bridge grown from living tree roots", "Masks worn on the back of the head, so a tiger thinks you are watching"], "cats": ["How a plant fits its home", "How people fit their home"]},
           {"t": "mcq", "p": "Many houses in the Northeast are built on bamboo stilts. One good reason is:", "opts": ["To keep them above floodwater and mud", "Bamboo is very heavy", "So people can fish from the window", "Because it never rains there"], "a": 0}
         ]]
       ]
@@ -535,8 +535,8 @@
           {"t": "mcq", "p": "We put cucumber slices in very salty water and they went floppy. This shows that:", "opts": ["Salt makes plants grow faster", "Salty water pulls water out of plant cells", "Cucumbers like salt", "Salt water is the same as tap water for plants"], "a": 1}
         ]],
         ["C. Map and rivers", [
-          {"t": "table", "p": "Fill in the table for each place on Shanti's trip.", "cols": ["Place", "Which part of India?", "One plant or animal", "How people care for it"], "rows": 4, "prefill": ["Andaman Islands", "Sundarbans", "Meghalaya", "Western Ghats"]},
-          {"t": "fill", "p": "The Godavari, Krishna and Kaveri rivers begin in the ____ Ghats.", "a": ["Western"]}
+          {"t": "table", "p": "Fill in the table for each place. Think about what the land is like, how living things fit it, and how people can care for it.", "cols": ["Place", "What are the land and weather like?", "How could a plant or animal fit this home?", "How can people care for it?"], "rows": 4, "prefill": ["Andaman Islands", "Sundarbans", "Meghalaya", "Western Ghats"]},
+          {"t": "fill", "p": "Many big rivers of South India begin high in the hills, where the most rain falls. Forests on the hills soak up the rain and let it out slowly. If those forests were cut down, the rivers would have ____ water in the dry months.", "a": ["less"]}
         ]]
       ]
     },
@@ -756,7 +756,7 @@
     {"q": "What is a coral, and how does a coral reef help fish?", "a": "A coral is a tiny sea animal that builds a hard stony home; together they form reefs, which give fish places to hide, lay eggs and find food."},
     {"q": "Name two special things about mangroves.", "a": "They grow in salty, muddy water by keeping out or pushing out salt; they have breathing roots that stick up out of the mud for air; their roots hold soil and weaken waves."},
     {"q": "What is a living root bridge and where is it found?", "a": "A bridge grown from the living roots of rubber fig trees guided across a stream over many years, made by Khasi and Jaintia people in Meghalaya."},
-    {"q": "What is a protected area? Name one in the Western Ghats.", "a": "A place kept safe by the government where trees must not be cut and animals must not be harmed; for example Silent Valley National Park, Periyar Tiger Reserve or Bandipur."},
-    {"q": "Who is the Hargila Army and what did they do?", "a": "Village women in Assam, led by biologist Purnima Devi Barman, who protect the nests of the Greater Adjutant Stork (Hargila) and changed people's minds about the bird, so its numbers grew."}
+    {"q": "What is a protected area, and how does it help plants and animals?", "a": "A place kept safe by law, where trees must not be cut and animals must not be harmed. Animals have safe homes and food there, and plants can grow, so living things that are disappearing elsewhere can survive."},
+    {"q": "A big bird is disappearing because the trees where it nests are being cut down, and people think the bird is dirty. What could a village do to help it?", "a": "Protect the nesting trees, watch over the nests so chicks are safe, and help people learn why the bird matters, so they stop harming it. When people change their minds about an animal, its numbers can grow again."}
   ]
 }

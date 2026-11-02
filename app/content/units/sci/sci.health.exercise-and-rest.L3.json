@@ -1922,14 +1922,14 @@
   },
   {
    "t": "mcq",
-   "p": "Eugene Aserinsky, a scientist, recorded his son Armond sleeping. What did he see several times a night?",
+   "p": "A scientist watches people sleep. Several times a night, their eyes dart about under closed eyelids. People woken at those times usually say they were dreaming. What does this suggest?",
    "opts": [
-    "Armond's eyes darting about under his closed eyelids",
-    "Armond's heart stopping",
-    "Armond growing taller"
+    "Sleep has different stages, and dreaming happens in one with fast eye movements",
+    "Their hearts stop for a while",
+    "They are growing taller"
    ],
    "a": 0,
-   "why": "Aserinsky saw bursts of rapid eye movement, with busy brain signals. People woken at those times usually said they had been dreaming. This was dreaming sleep, or REM sleep.",
+   "why": "The eye movements come and go in a pattern through the night, and they match dreaming. So sleep is not all the same: dreaming sleep, or REM sleep, is one stage of it.",
    "outcome": 5
   },
   {
@@ -2396,11 +2396,14 @@
     },
     {
      "t": "fill",
-     "p": "In 1927, Yellapragada Subbarow and Cyrus Fiske found a quick fuel in muscle called ____.",
+     "p": "In short, hard bursts, a muscle uses a quick store of fuel. During rest, this store is ____.",
      "a": [
-      "phosphocreatine"
+      "refilled",
+      "filled up again",
+      "topped up",
+      "filled again"
      ],
-     "why": "Phosphocreatine is the store a muscle uses in short, hard bursts, and refills during rest."
+     "why": "The quick fuel store runs low in hard bursts, and fills up again while you rest. That is why a short rest lets you go hard again."
     },
     {
      "t": "odd",

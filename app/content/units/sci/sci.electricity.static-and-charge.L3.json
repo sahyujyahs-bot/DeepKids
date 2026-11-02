@@ -2089,14 +2089,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 1752, what did Thomas-François Dalibard's helper in France get from a tall iron rod during a storm?",
+   "p": "Long ago, scientists put up a tall iron rod pointing at the sky during a storm. Sparks jumped from the bottom of the rod. What did this show?",
    "opts": [
-    "Rain water",
-    "Electric sparks",
-    "A magnet"
+    "Rain water is made of iron",
+    "Storm clouds carry electric charge, and lightning is electricity",
+    "Iron makes thunder"
    ],
    "a": 1,
-   "why": "Sparks jumped from the iron rod, which showed that storm clouds are electrically charged and that lightning is electricity. Benjamin Franklin had suggested the test.",
+   "why": "Sparks are electricity, so the charge must have come from the storm clouds. This was first done in France in 1752. It is very dangerous: people have been killed trying it.",
    "outcome": 7
   }
  ],
@@ -2355,7 +2355,7 @@
     },
     {
      "t": "write",
-     "p": "Arun says, 'Rubbing a balloon makes electricity.' Use what you saw in this unit to explain what rubbing really does.",
+     "p": "Arun says, 'Rubbing a balloon makes electricity.' Use what you have seen with rubbed balloons and hair to explain what rubbing really does.",
      "lines": 4,
      "a": "Rubbing does not make charge. It moves electrons from one thing to the other. The balloon gets extra minus charge, and the hair is left with the same amount of plus. My hair rose to the balloon, which shows the hair was charged too.",
      "why": "A strong answer corrects the idea and uses the rising hair as evidence that both things got charged."

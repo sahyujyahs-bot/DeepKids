@@ -323,18 +323,18 @@
       "sections": [
         ["A. Traders become rulers", [
           {"t": "fill", "p": "In ancient times India was called the ____ bird.", "a": ["golden"]},
-          {"t": "fill", "p": "Vasco da Gama reached the port of ____ in 1498.", "a": ["Calicut", "Kozhikode"]},
-          {"t": "mcq", "p": "After which battle did the East India Company take control of Bengal?", "opts": ["Panipat", "Plassey", "Haldighati", "Talikota"], "a": 1},
-          {"t": "mcq", "p": "Under British rule, many farmers were forced to grow:", "opts": ["only wheat and rice", "indigo, opium and cotton", "only fruits", "tea for themselves"], "a": 1}
+          {"t": "fill", "p": "European traders came to India by ____, because the long land routes were slow and costly.", "a": ["sea", "ship", "ships", "boat"]},
+          {"t": "mcq", "p": "How could winning a battle help a trading company take control of a region?", "opts": ["It could collect taxes and put rulers who obeyed it on the throne", "It made the company's goods cheaper", "It ended all trade", "It made the people vote for the company"], "a": 0},
+          {"t": "mcq", "p": "Under British rule, many farmers were forced to grow indigo and cotton instead of food. Why did this hurt them?", "opts": ["They had less food to eat, and had to sell the crops cheaply", "Indigo grows too fast", "Cotton cannot be sold", "They had to stop farming"], "a": 0}
         ]],
         ["B. 1857", [
           {"t": "match", "p": "Match the leader of 1857 to the place.", "pairs": [["Rani Lakshmibai", "Jhansi"], ["Begum Hazrat Mahal", "Lucknow"], ["Nana Sahib", "Kanpur"], ["Kunwar Singh", "Bihar"], ["Bahadur Shah Zafar", "Delhi"]]},
-          {"t": "fill", "p": "After 1857, Queen ____ of England took over the government of India.", "a": ["Victoria"]}
+          {"t": "fill", "p": "When a country is ruled from far away, the rulers often do not understand the ____ of the people they rule.", "a": ["needs", "lives", "problems"]}
         ]],
         ["C. Congress and Gandhiji", [
-          {"t": "fill", "p": "The Indian National Congress was founded in the year ____.", "a": ["1885"]},
-          {"t": "sort", "p": "Sort these early Congress leaders.", "items": ["Gopal Krishna Gokhale", "Dadabhai Naoroji", "Bal Gangadhar Tilak", "Lala Lajpat Rai", "Bipin Chandra Pal"], "cats": ["Moderate", "Radical"]},
-          {"t": "write", "p": "What was the Champaran Satyagraha of 1917 about, and how did Gandhiji fight it?", "lines": 3}
+          {"t": "fill", "p": "Leaders from many parts of India joined one group, the Indian National Congress, so that they could speak with one ____.", "a": ["voice"]},
+          {"t": "sort", "p": "Sort these ways of asking for change: moderate or radical?", "items": ["Writing polite requests to the rulers", "Asking for small changes, step by step", "Calling for full freedom now", "Refusing to buy British goods", "Holding huge public protests"], "cats": ["Moderate", "Radical"]},
+          {"t": "write", "p": "Farmers are forced to grow a crop that keeps them poor. How could they protest peacefully, without fighting? Why might that work?", "lines": 3}
         ]]
       ]
     },
@@ -349,11 +349,11 @@
         ]],
         ["B. Causes and effects", [
           {"t": "write", "p": "Give two reasons why the 1857 revolt failed, apart from weapons.", "lines": 3},
-          {"t": "mcq", "p": "Why did Gandhiji call off the Non-Cooperation Movement in 1922?", "opts": ["The British agreed to leave", "Violence broke out at Chauri Chaura, and he insisted the movement stay non-violent", "He fell ill", "Everybody stopped protesting"], "a": 1},
+          {"t": "mcq", "p": "A peaceful protest movement turns violent in one town. Why might its leader stop the whole movement, even though it is growing?", "opts": ["The rulers had agreed to leave", "He believed the movement must stay non-violent, or it would lose its meaning", "He fell ill", "Everybody had stopped protesting"], "a": 1},
           {"t": "write", "p": "Why did Gandhiji choose salt to break the law? Give two reasons.", "lines": 3}
         ]],
         ["C. Your experiments", [
-          {"t": "write", "p": "Your salt test: where did the water go, and why was the salt left behind?", "lines": 2},
+          {"t": "write", "p": "Salty water is left in a plate in the sun. After a few days, only salt is left. Where did the water go, and why was the salt left behind?", "lines": 2},
           {"t": "write", "p": "Your Dandi walk: at your speed, how many days would it take you to walk 385 km if you walked 6 hours a day? Show your working.", "lines": 3}
         ]]
       ]
@@ -365,7 +365,7 @@
       "day": 7,
       "sections": [
         ["A. Different views", [
-          {"t": "write", "p": "A British officer in 1858 called 1857 'the Sepoy Mutiny'. Savarkar in 1909 called it 'the Indian War of Independence'. Why might each have chosen that name? Which evidence from the lesson supports each?", "lines": 5},
+          {"t": "write", "p": "A British officer in 1858 called 1857 'the Sepoy Mutiny'. Savarkar in 1909 called it 'the Indian War of Independence'. Why might each have chosen that name? What would each want people to believe about 1857?", "lines": 5},
           {"t": "write", "p": "Gandhiji believed in non-violence; Bhagat Singh and Subhash Chandra Bose believed force was sometimes needed. Write one argument for each view, and say what you think and why.", "lines": 5}
         ]],
         ["B. Puzzles", [
@@ -498,13 +498,13 @@
     }
   ],
   "check": [
-    {"q": "Why did European traders want to come to India, and who first reached India by sea from Europe?", "a": "For India's spices (especially pepper and cardamom), fine cotton cloth, indigo and silk, which sold for high prices in Europe. Vasco da Gama of Portugal reached Calicut in 1498."},
+    {"q": "Why did European traders want to come to India, and why did they want a sea route to get here?", "a": "For India's spices (especially pepper and cardamom), fine cotton cloth, indigo and silk, which sold for high prices in Europe. A sea route let them buy straight from India, without paying many traders along the long, slow land routes."},
     {"q": "How did the East India Company become a ruler?", "a": "It set up armed trading posts, defeated other European companies, took sides among weakened Indian rulers, won the Battle of Plassey in 1757 and then got the right to collect taxes in Bengal, Bihar and Orissa, and kept taking more kingdoms."},
     {"q": "Name two ways British rule harmed Indians.", "a": "Farmers were forced to grow indigo, opium and cotton instead of food; Indians were not free to set up industries or trade; kingdoms like Jhansi and Awadh were taken; wealth was drained to Britain."},
     {"q": "What sparked the revolt of 1857, and name three of its leaders.", "a": "Anger at unfair treatment and losses, sparked by cartridges rumoured to be greased with cow and pig fat. Leaders: Mangal Pandey, Rani Lakshmibai, Nana Sahib, Tantia Tope, Begum Hazrat Mahal, Kunwar Singh, Bahadur Shah Zafar."},
     {"q": "What changed after 1857?", "a": "The East India Company's rule ended and the British Crown (Queen Victoria) took over, ruling through a Viceroy."},
-    {"q": "What were ahimsa and satyagraha, and name Gandhiji's movements in order.", "a": "Ahimsa is non-violence; satyagraha is peacefully refusing to obey unjust laws and accepting punishment. Champaran (1917), Non-Cooperation (1920), Salt March / Civil Disobedience (1930), Quit India (1942)."},
-    {"q": "Why did Gandhiji march to Dandi and what did he do there?", "a": "To protest the British salt law and tax, which hurt everyone, especially the poor. He walked about 385 km and on 6 April 1930 picked up salt, breaking the law; lakhs followed by making salt."},
-    {"q": "When did India become free, and what sad event came with it?", "a": "On 15 August 1947. Freedom came with Partition into India and Pakistan, which forced crores to leave their homes and caused terrible violence."}
+    {"q": "What are ahimsa and satyagraha? Why can peacefully refusing to obey be powerful when lakhs of people do it together?", "a": "Ahimsa is non-violence; satyagraha is peacefully refusing to obey unjust laws and accepting punishment. When lakhs refuse together, the rulers cannot run the country, and the world sees who is being unfair."},
+    {"q": "Why did Gandhiji choose to break the salt law, and why did making a pinch of salt matter so much?", "a": "Everyone needs salt, so the salt tax hurt everyone, especially the poor. Making salt was a simple law-breaking that anyone could copy, so lakhs joined in, and it showed the law was unfair."},
+    {"q": "India's freedom came with Partition into two countries. Why did dividing a country cause so much suffering for ordinary people?", "a": "Crores of people found themselves on the 'wrong' side of a new border and had to leave their homes, land and friends. Fear and anger between groups led to terrible violence."}
   ]
 }

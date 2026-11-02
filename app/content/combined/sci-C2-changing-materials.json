@@ -616,11 +616,11 @@
       },
       {
        "t": "mcq",
-       "p": "About 300 years ago, scientists thought burning gave out a fire-stuff. What did they call it?",
+       "p": "About 300 years ago, scientists thought burning gave out a fire-stuff, so burnt things should get lighter. Then they found some metals get heavier when they burn. What did that show?",
        "opts": [
-        "phlogiston",
-        "oxygen",
-        "steam"
+        "The fire-stuff idea was wrong: burning joins things with part of the air",
+        "Metals cannot burn",
+        "The scales were broken"
        ],
        "a": 0
       },
@@ -1141,16 +1141,16 @@
    "a": "The wax melts (reversible) and the wax burns (irreversible), making gases and water vapour."
   },
   {
-   "q": "Where did the burnt part of Noor's candle go?",
+   "q": "When a candle burns down, where does the burnt part go?",
    "a": "Into the air, as invisible gases (carbon dioxide and water vapour). It wasn't destroyed."
   },
   {
-   "q": "What did Lavoisier find out by weighing?",
-   "a": "Burning is a material joining with part of the air (oxygen). Nothing is destroyed, and some things even get heavier."
+   "q": "How could you use weighing to find out whether burning destroys a material, or joins it with part of the air?",
+   "a": "Burn something in a closed jar and weigh the jar before and after. If the weight stays the same, nothing was destroyed. Some metals even get heavier when they burn in the open, because they join with part of the air, oxygen."
   },
   {
-   "q": "In the fruit test, what did we change and what did we keep the same?",
-   "a": "We changed what we put on the slice. We kept the fruit, size of slice and time the same."
+   "q": "You want to find out what stops a cut apple slice going brown: lemon juice, salt water or nothing. What would you change, and what would you keep the same?",
+   "a": "Change only what goes on the slice. Keep the fruit, the size of the slice and the time the same, so the test is fair."
   },
   {
    "q": "What three things does a fire need? How does a lid put out a pan of burning oil?",

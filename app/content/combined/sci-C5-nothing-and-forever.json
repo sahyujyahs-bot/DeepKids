@@ -626,9 +626,9 @@
       },
       {
        "t": "write",
-       "p": "Two people explain why a drink goes up a straw. Lakshmi says: 'Sucking makes an empty space, and the empty space pulls the drink up.' Saroja akka, the pump mechanic in the story says: 'Empty space pulls nothing. The air outside pushes the drink up into the emptier space.' Pick one side. Use what happened with the sealed bottle and straw to argue for it. Then say what the other person might answer.",
+       "p": "Two people explain why a drink goes up a straw. Lakshmi says: 'Sucking makes an empty space, and the empty space pulls the drink up.' A pump mechanic says: 'Empty space pulls nothing. The air outside pushes the drink up into the emptier space.' Pick one side. Use what happens when you suck through a straw in a sealed bottle, where no air can get in, to argue for it. Then say what the other person might answer.",
        "lines": 5,
-       "a": "A strong answer picks Saroja akka's side and uses the sealed bottle as evidence: with the mouth sealed no water came up, and with a hole poked in the dough it rose at once. Nothing changed inside the mouth, only whether air could press on the water. A strong answer also gives Lakshmi's view fairly: it feels like pulling, because you feel your cheeks working."
+       "a": "A strong answer picks the mechanic's side and uses the sealed bottle as evidence: with the bottle sealed, no water comes up, and with a hole poked in the seal it rises at once. Nothing changes inside the mouth, only whether air can press on the water. A strong answer also gives Lakshmi's view fairly: it feels like pulling, because you feel your cheeks working."
       }
      ]
     ]
@@ -755,9 +755,9 @@
       },
       {
        "t": "write",
-       "p": "Hilbert's hotel is full, but it can still take more guests. Could a real hotel in Kochi do the same? Why or why not?",
+       "p": "Imagine a hotel with endless rooms. It is full, but it can still take a new guest: every guest moves up one room, and room 1 is free. Could a real hotel in Kochi do the same? Why or why not?",
        "lines": 3,
-       "a": "A strong answer says the trick works only because Hilbert's hotel has no last room, so everyone can move up. A real hotel in Kochi has a last room, so the guest in it would have nowhere to go."
+       "a": "A strong answer says the trick works only because the imaginary hotel has no last room, so everyone can move up. A real hotel in Kochi has a last room, so the guest in it would have nowhere to go."
       },
       {
        "t": "write",
@@ -1447,16 +1447,16 @@
    "a": "It is the lowest temperature there can be, −273.15 °C. Nothing can be cooled exactly to it, though scientists have come within a billionth of a degree."
   },
   {
-   "q": "How does a drink go up a straw? What did the sealed bottle show?",
-   "a": "Sucking makes the space in your mouth emptier, and the air outside pushes the drink up. In the sealed bottle no air could press on the water, so no water came up until we poked a hole."
+   "q": "How does a drink go up a straw? What happens if the bottle is sealed, so no air can press on the drink?",
+   "a": "Sucking makes the space in your mouth emptier, and the air outside pushes the drink up. If the bottle is sealed, no air can press on the drink, so none comes up until a hole is poked."
   },
   {
    "q": "Why does 12 ÷ 0 have no answer, when 12 ÷ 0.001 does?",
    "a": "12 ÷ 0.001 is 12,000. As you divide by numbers closer to 0, the answer grows without end, and from below zero it goes hugely negative. So at 0 there is no one answer."
   },
   {
-   "q": "Hilbert's hotel was full. How did it make room for a new guest?",
-   "a": "Every guest moved from their room to the next room up. There is no last room, so nobody was left out, and room 1 became free."
+   "q": "A hotel has endless rooms, numbered 1, 2, 3 and on for ever, and every room is full. How can it make room for one new guest?",
+   "a": "Every guest moves from their room to the next room up. There is no last room, so nobody is left out, and room 1 becomes free."
   },
   {
    "q": "How do you know some infinities are bigger than others?",

@@ -468,7 +468,7 @@
         ]],
         ["C. Telling time", [
           {"t": "fill", "p": "A device that tells time from a shadow is called a ____.", "a": ["sundial"]},
-          {"t": "write", "p": "Name the giant sundial at Jantar Mantar and the king who built it.", "lines": 2}
+          {"t": "write", "p": "Some old sundials were built as big as a building. Why would a very big sundial tell the time more exactly than a small one?", "lines": 2}
         ]]
       ]
     },
@@ -733,6 +733,6 @@
     {"q": "In the torch and stick test, how did the shadow change when the stick moved closer to the torch, and when the torch moved?", "a": "Closer to the torch, the shadow got bigger. When the torch moved, the shadow moved to the opposite side; a low torch made a long shadow, a high torch a short one."},
     {"q": "How does a sundial tell time? Name a famous one in India.", "a": "A stick or edge casts a shadow that moves as the Sun moves across the sky; marks show where the shadow falls at each hour. The Samrat Yantra at Jantar Mantar, Jaipur, built by Raja Jai Singh."},
     {"q": "Why does the Moon seem to change shape? What are Poornima and Amavasya?", "a": "The Moon shines by reflected sunlight and the Sun always lights half of it; as the Moon goes round the Earth in about a month, we see different amounts of that lit half. Poornima is full Moon (all of the lit face visible); Amavasya is new Moon (none visible)."},
-    {"q": "Name a festival linked to the Moon and one linked to the Sun, and say what Chandrayaan-3 did.", "a": "Moon: Diwali (Amavasya), Raksha Bandhan or Buddha Poornima (full Moon), Eid (first crescent), Karva Chauth. Sun: Pongal, Makar Sankranti, Chhath Puja. Chandrayaan-3's Vikram lander landed near the Moon's south pole on 23 August 2023 and its Pragyan rover studied the soil."}
+    {"q": "Name a festival linked to the Moon and one linked to the Sun. Why do Moon festivals move around in the ordinary calendar, while Sun festivals come on about the same date every year?", "a": "Moon: Diwali (Amavasya), Buddha Poornima (full Moon), Eid (first crescent). Sun: Pongal, Makar Sankranti. Moon festivals follow the Moon's phases, and twelve Moon months are about 11 days shorter than a year, so they shift. Sun festivals follow the Sun's yearly path, which matches the ordinary calendar."}
   ]
 }

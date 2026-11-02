@@ -2263,7 +2263,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Jean Buridan, a teacher in Paris about 700 years ago, said that a spinning top proves the air does not push moving things along. What was his reason?",
+     "p": "Long ago, many people thought a moving thing keeps moving because air rushes in behind it and pushes it along. How does a spinning top show this idea is wrong?",
      "lines": 3,
      "a": "A spinning top keeps turning but stays in the same place. There is no gap behind it for air to rush into and push it. So the motion must be carried by the top itself.",
      "why": "A strong answer explains why staying in one place matters to the argument."
@@ -2384,7 +2384,7 @@
      "t": "truefalse",
      "p": "Leela, a girl in Class 3, says, 'If a spinning top had no friction at all, it would never stop spinning.' Is she right?",
      "a": true,
-     "why": "True. Friction at the tip and the air are what take the spin away. With nothing rubbing, nothing would slow it, just as Buridan and later Newton said."
+     "why": "True. Friction at the tip and the air are what take the spin away. With nothing rubbing, nothing would slow it, so it would keep spinning."
     },
     {
      "t": "sort",

@@ -1219,7 +1219,7 @@
     },
     {
      "t": "draw",
-     "p": "In the Near or Far test, you sat on a chair with your eyes covered. Draw the chair, the near spot and the far spot.",
+     "p": "Plan a game to test if you can tell how far away a sound is. Draw a chair where you sit with your eyes covered, a near spot and a far spot where a grown-up taps.",
      "a": "A drawing of a chair with one spot close behind it and one spot far away.",
      "why": "A strong drawing shows the near spot one step behind the chair and the far spot across the room.",
      "how": "e1",
@@ -1547,14 +1547,14 @@
   },
   {
    "t": "mcq",
-   "p": "A scientist called Katy Payne found that elephants call their family with what kind of sound?",
+   "p": "Elephant families can be far apart in a big forest. Which kind of sound would carry far enough to call them?",
    "opts": [
     "Very low rumbles",
     "Tiny squeaks",
     "Loud claps"
    ],
    "a": 0,
-   "why": "Elephants rumble so low that people can hardly hear it, but other elephants hear it from far away.",
+   "why": "Very low sounds travel a long way, even through trees. Elephants rumble so low that people can hardly hear it, but other elephants hear it from far away.",
    "outcome": 3
   },
   {

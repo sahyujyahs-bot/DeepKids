@@ -483,7 +483,7 @@
           {"t": "write", "p": "What if there were no sanitation workers for one month in your city? What would happen, week by week?", "lines": 4}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "One person says: 'One person cannot make a difference to the environment.' Use Jadav Payeng's story to answer, and also say what he could NOT have done alone.", "lines": 4},
+          {"t": "write", "p": "One person says: 'One person cannot make a difference to the environment.' Think of a man who planted trees on a bare riverbank every day for years until it became a forest. Use this to answer, and also say what one person could NOT do alone.", "lines": 4},
           {"t": "mcq", "p": "A town says its white-roof scheme made homes cooler. Which evidence is strongest?", "opts": ["The roofs look nice", "Indoor temperatures measured in many white-roof and dark-roof homes on the same hot days", "One family said they felt better", "A poster about it"], "a": 1}
         ]]
       ]

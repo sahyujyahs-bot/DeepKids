@@ -1280,11 +1280,11 @@
     },
     {
      "t": "write",
-     "p": "Karthik, a boy aged 11, says in the story that stars are tiny sparks. His cousin Sai, a girl aged 9, has seen the lighthouse lamp. Use that lamp to explain why stars might be giant suns.",
+     "p": "A boy aged 11 says stars are tiny sparks. His cousin has seen a lighthouse lamp that is taller than a man, yet from far out at sea it looks like one small star. Use that lamp to explain why stars might be giant suns.",
      "lines": 4,
-     "a": "In the story, the lamp was taller than Sai's father. But from far out at sea it looked like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.",
-     "why": "A strong answer uses the story as evidence: the lamp was huge, yet looked like a small star from far out at sea. It then links looking small to being far away, not to being small.",
-     "context": "In this unit's story, a lighthouse lamp taller than a man looks like one small star from a fishing boat far out at sea. The story is made up, but real lighthouse lights can be seen from 30 kilometres away or more."
+     "a": "The lamp is taller than a man, but from far out at sea it looks like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.",
+     "why": "A strong answer links looking small to being far away, not to being small.",
+     "context": "Real lighthouse lights can be seen from 30 kilometres away or more."
     },
     {
      "t": "write",
@@ -1457,7 +1457,7 @@
        "says": "Most children in our city have never seen the Milky Way. The light shining up into the sky is wasted, and it hides the stars."
       }
      ],
-     "ask": "Whose side are you on? Give a reason from this unit. Then suggest one idea that could help more than one of them.",
+     "ask": "Whose side are you on? Give a reason. Then suggest one idea that could help more than one of them.",
      "lines": 5,
      "a": "A strong answer picks a side with a reason, for example that light shining up into the sky helps no one on the road. It then looks for a fix that helps more than one person, like lamps that shine only downwards, dimmer orange lights near the beach in the hatching months, or lights that switch off late at night.",
      "why": "This is a real trade-off. Light keeps people safe, but light that goes up or sideways hides the stars and confuses turtles and birds. Lamps that point down give drivers the light they need, with much less glow in the sky."

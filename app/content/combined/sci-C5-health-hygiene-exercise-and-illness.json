@@ -616,9 +616,9 @@
      [
       {
        "t": "mcq",
-       "p": "John Snow, the doctor in the story, found that workers at a brewery near the pump did not get cholera. Why did that matter?",
+       "p": "A doctor thinks one water pump is spreading cholera. Workers at a brewery next to the pump did not get ill. They drank beer and water from the brewery's own well. Why does that matter?",
        "opts": [
-        "They drank beer and water from the brewery's own well, not from the pump. So the pump was the likely cause",
+        "They did not drink from the pump and stayed well, so the pump is the likely cause",
         "Beer cures cholera",
         "Brewery workers are stronger"
        ],
@@ -1060,8 +1060,8 @@
    "a": "1 litre of clean water, 6 level teaspoons of sugar, half a teaspoon of salt. Sugar helps the gut take in salt and water."
   },
   {
-   "q": "How did John Snow find the source of the cholera?",
-   "a": "He asked every household where they got water, mapped the deaths, and noticed exceptions like the brewery workers."
+   "q": "Many people in one part of a city fall ill with cholera. How could a doctor find out where it is coming from?",
+   "a": "Ask every household where they get their water, mark the illnesses on a map, and look for one shared source. Then check the people nearby who stayed well, to see if they used different water."
   },
   {
    "q": "Name a risk factor a person can change and one they can't change alone.",
@@ -1072,8 +1072,8 @@
    "a": "Some diseases thought non-infectious, like ulcers and some cancers, turned out to be caused by germs."
   },
   {
-   "q": "Who was Carlos Finlay, and why does his story matter?",
-   "a": "A Cuban doctor who said mosquitoes carry yellow fever. He was ignored for 20 years and others got much of the credit."
+   "q": "Why might a scientist with a correct idea be ignored for many years, and why does that matter?",
+   "a": "The idea may be new or surprising, there may not be enough proof yet, or the scientist may be less famous or from a small country. It matters because ideas should be judged by the evidence, not by who says them, and people should get fair credit."
   }
  ]
 }

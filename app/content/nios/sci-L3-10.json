@@ -519,12 +519,12 @@
             },
             {
               "t": "mcq",
-              "p": "In 1903 the Wright brothers made the first flight in:",
+              "p": "Gliders could already fly before the first aeroplanes. Why did an aeroplane need an engine?",
               "opts": [
-                "A balloon",
-                "An aeroplane with an engine",
-                "A helicopter",
-                "A glider pulled by horses"
+                "Engines make planes lighter",
+                "A glider can only drift down, but an engine keeps the plane moving forward so it can stay up",
+                "Engines stop the wind",
+                "Gliders could not fly at all"
               ],
               "a": 1
             }
@@ -986,7 +986,7 @@
       "a": "Rolling has much less friction than dragging, so heavy loads can be moved easily. The rubber band stretched most when dragging, less on rollers and least on wheels."
     },
     {
-      "q": "Name the five kinds of transport in the lesson with one example of each.",
+      "q": "What are the different ways people and goods can travel? Give one example of each.",
       "a": "Road (bus, truck, cycle, bullock cart), rail (train, metro), water (boat, ship), air (aeroplane, helicopter), pipeline (water, petrol, cooking gas)."
     },
     {
@@ -994,8 +994,8 @@
       "a": "Red: stop before the line; yellow: get ready to stop, wait and look; green: go carefully. Signs warn about the road ahead and control traffic so accidents are prevented."
     },
     {
-      "q": "When and where did India's first train run, and what pulled it?",
-      "a": "In 1853, from Mumbai (Bombay) to Thane, about 34 km. It was pulled by steam engines (the book says horses, but that is not correct)."
+      "q": "Why did steam trains change how far and how fast people could travel?",
+      "a": "A steam engine could pull many heavy carriages, far and fast, without tiring like horses or bullocks. So journeys that took days could take hours."
     },
     {
       "q": "What is communication? Name three old ways and three new ways.",
@@ -1010,8 +1010,8 @@
       "a": "By smell. Ants lay a smelly trail from food to the nest for others to follow; dogs find things by sniffing."
     },
     {
-      "q": "Our book had some mistakes, like 'the Wright brothers flew in a balloon'. What is true, and how can we check a fact?",
-      "a": "In 1903 the Wright brothers flew the first engine-powered aeroplane. We can check facts in other trusted books, encyclopaedias, museums or official sources, and see if they agree."
+      "q": "A book says something that sounds wrong. How can we check whether a fact is true?",
+      "a": "Look in other trusted books, encyclopaedias, museums or official sources, and see whether they agree."
     }
   ]
 }

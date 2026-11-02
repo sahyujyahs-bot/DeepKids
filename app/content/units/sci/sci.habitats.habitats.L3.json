@@ -2792,9 +2792,9 @@
     },
     {
      "t": "write",
-     "p": "Europa, a moon of Jupiter, has an ocean of salty water under thick ice. No sunlight reaches it. Which discovery in the deep sea gives scientists hope that something could live there? Explain.",
+     "p": "Europa, a moon of Jupiter, has an ocean of salty water under thick ice. No sunlight reaches it. In Earth's deep sea, there are warm cracks where living things get their energy from chemicals, not sunlight. Why does that give scientists hope that something could live on Europa?",
      "lines": 4,
-     "a": "A strong answer names the deep sea vents found in 1977. It explains that life there gets energy from chemicals, not sunlight. So an ocean with no light might still be a habitat, if it has warmth and the right chemicals. It says honestly that nobody knows yet.",
+     "a": "A strong answer says that life does not always need sunlight. If Europa's ocean has warmth and the right chemicals, living things could get energy from them, like life at the deep-sea cracks. It says honestly that nobody knows yet.",
      "why": "Every living thing we know needs liquid water and some source of energy. The vents showed that the energy does not have to be sunlight.",
      "context": "Hydrothermal vents are cracks in the deep sea floor where water heated inside the rock comes out."
     },
@@ -3105,15 +3105,15 @@
   },
   {
    "t": "mcq",
-   "p": "What did scientists find in 1977 at warm vents more than two kilometres down in the sea?",
+   "p": "More than two kilometres down in the sea, no sunlight ever reaches. But warm water full of chemicals pours out of cracks in the sea floor. Could anything live there?",
    "opts": [
-    "Crowds of worms, clams and crabs, living with no sunlight",
-    "Nothing at all",
-    "A sunken city",
-    "Only sand"
+    "Yes: bacteria can make food from the chemicals, and worms, clams and crabs feed on them",
+    "No: nothing can live without sunlight",
+    "Only plants could live there",
+    "Only sand is there"
    ],
    "a": 0,
-   "why": "They expected an empty, dark floor. They found life fed by bacteria that make food from chemicals. Picking 'nothing at all' is what they expected before they looked.",
+   "why": "Living things need energy, but it does not have to come from sunlight. Bacteria there make food from the chemicals, and animals eat the bacteria. Picking 'nothing can live without sunlight' is what scientists also thought before they looked.",
    "outcome": 5
   },
   {

@@ -1465,7 +1465,7 @@
     },
     {
      "t": "draw",
-     "p": "In the story The Grey Mirror, Meenu, a girl in Kerala, sees the sky in the Pampa river. Draw the river when it is still. Then draw it just after a boat goes past.",
+     "p": "A girl sees the sky in a river. Draw the river when it is still. Then draw it just after a boat goes past.",
      "a": "A still river with the sky in it, and a rippled river with the sky broken into pieces.",
      "why": "A strong drawing shows a clear sky in the smooth water, and broken pieces in the rippled water.",
      "art": "A blank box split in two, labelled STILL and AFTER THE BOAT."
@@ -1544,7 +1544,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the story The Grey Mirror, Meenu's grandmother Achamma rubbed a grey metal disc for many days, until Meenu could see her face. What changed?",
+     "p": "A dull grey metal disc is rubbed for many days, until you can see your face in it. What changed?",
      "opts": [
       "The surface of the metal became very smooth",
       "The metal turned into glass",

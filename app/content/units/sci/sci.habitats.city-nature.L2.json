@@ -1409,20 +1409,20 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, to tell what happened to the sparrows of San Francisco in 2020.",
+     "p": "Put these in order, to tell what can happen to city birds' songs when busy roads go quiet.",
      "items": [
-      "The sparrows sang more softly",
-      "The roads were busy, and the sparrows sang over the noise",
-      "Their songs could be heard about twice as far",
-      "In the lockdown, the roads went quiet"
+      "The birds sing more softly",
+      "The roads are busy, and the birds sing over the noise",
+      "Their songs can be heard further",
+      "The roads go quiet"
      ],
      "a": [
-      "The roads were busy, and the sparrows sang over the noise",
-      "In the lockdown, the roads went quiet",
-      "The sparrows sang more softly",
-      "Their songs could be heard about twice as far"
+      "The roads are busy, and the birds sing over the noise",
+      "The roads go quiet",
+      "The birds sing more softly",
+      "Their songs can be heard further"
      ],
-     "why": "When the noise stopped, the birds did not need to sing so loudly, and their songs still carried further. They changed their songs within weeks."
+     "why": "When the noise stops, the birds do not need to sing so loudly, and their songs still carry further. Birds can change their songs within weeks."
     },
     {
      "t": "truefalse",
@@ -1643,14 +1643,14 @@
   },
   {
    "t": "mcq",
-   "p": "When the roads of San Francisco went quiet in 2020, what did the sparrows do?",
+   "p": "City birds sing loudly to be heard over the traffic. If the roads suddenly went quiet for weeks, what would you expect the birds to do?",
    "opts": [
-    "They sang more softly",
-    "They all flew away",
-    "They sang much louder"
+    "Sing more softly",
+    "All fly away",
+    "Sing much louder"
    ],
    "a": 0,
-   "why": "With less noise to sing over, they sang more softly, and their songs still carried about twice as far.",
+   "why": "With less noise to sing over, they would not need to sing so loudly, and their songs would still carry further. When this really happened in a quiet city, the birds sang more softly.",
    "outcome": 4
   },
   {

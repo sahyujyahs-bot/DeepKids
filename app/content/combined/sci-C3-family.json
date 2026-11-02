@@ -247,8 +247,8 @@
   {"q": "Give one feature passed on through genes and one that is learned.", "a": "For example, curly hair (genes) and speaking Malayalam (learned)."},
   {"q": "How many great-great-grandparents does a person have, and why do everyone's family trees join?", "a": "Sixteen. Ancestors double each generation until there are more places than people who lived, so the same ancestors fill many places and trees join."},
   {"q": "Who leads an elephant family, and why does it matter?", "a": "The oldest female, the matriarch; her memory and experience help the family find water and avoid danger."},
-  {"q": "What did the chore survey show, and why does unpaid work matter?", "a": "Your own result; unpaid cooking, cleaning and caring keeps every family alive but is often unseen and unevenly shared."},
+  {"q": "Who does the cooking, cleaning and caring in a home? Why does this unpaid work matter?", "a": "It is often shared unevenly, and mostly done by women. Unpaid cooking, cleaning and caring keeps every family alive, but it is often unseen."},
   {"q": "Name three things every child has a right to.", "a": "For example: food, a safe home, health care, love, schooling (free from 6 to 14 in India), play, being listened to."},
-  {"q": "What did Tara glue in the roots of her tree, and why?", "a": "Rice grains spreading out, because her roots, like everyone's, are shared by everybody."}
+  {"q": "If you trace your family tree back many generations, why do everyone's roots end up shared?", "a": "Your ancestors double each generation, until there are more places in the tree than people who lived. So the same ancestors fill many places, and everyone's roots join."}
  ]
 }

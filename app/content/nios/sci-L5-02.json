@@ -327,20 +327,20 @@
       "day": 5,
       "sections": [
         ["A. People of India", [
-          {"t": "match", "p": "Match each religion to its two sects named in the book.", "pairs": [["Islam", "Shia and Sunni"], ["Christianity", "Catholic and Protestant"], ["Buddhism", "Mahayana and Theravada (Hinayana)"], ["Jainism", "Digambara and Shvetambara"]]},
-          {"t": "fill", "p": "The Constitution of India recognises ____ languages in its Eighth Schedule.", "a": ["22", "twenty-two"]},
+          {"t": "match", "p": "Match each word to what it means.", "pairs": [["religion", "what a person believes about God and how to live"], ["sect", "a group within one religion that does some things differently"], ["harmony", "living together peacefully"], ["festival", "a special day people celebrate together"]]},
+          {"t": "fill", "p": "When the law lets people use their own ____ in school and with the government, people from every part of the country feel they belong.", "a": ["language", "languages"]},
           {"t": "write", "p": "Name three tribes of India.", "lines": 1}
         ]],
         ["B. Mixed culture", [
           {"t": "mcq", "p": "Which of these is a reason the book gives for India's diverse culture?", "opts": ["Everyone in India eats the same food", "People from outside came, settled and mingled with local people", "India has only one kind of climate", "Nobody travels within India"], "a": 1},
-          {"t": "match", "p": "Match the January harvest festival to the state.", "pairs": [["Lohri", "Punjab"], ["Pongal", "Tamil Nadu"], ["Bihu", "Assam"], ["Uttarayan (kites)", "Gujarat"]]},
+          {"t": "match", "p": "Match each thing to the reason people celebrate it.", "pairs": [["A January harvest festival", "the crops are ready to cut"], ["Flying kites when the Sun begins to stay longer", "the days are getting longer"], ["Sharing sweets with neighbours of another faith", "friendship across religions"], ["Dancing after the crop is brought in", "thanks for a good harvest"]]},
           {"t": "fill", "p": "Bhangra and Bihu are both danced to celebrate a good ____.", "a": ["harvest", "crop"]}
         ]],
         ["C. Unity and harmony", [
           {"t": "fill", "p": "It is the duty of every citizen to work towards the ____ and integrity of the nation.", "a": ["unity"]},
           {"t": "mcq", "p": "In the Constitution of India, all people are:", "opts": ["equal", "ranked by caste", "ranked by wealth", "ranked by religion"], "a": 0},
-          {"t": "fill", "p": "Ashoka's officers who spread his message were called Dhamma-____.", "a": ["Mahamattas", "Mahamatta", "mahamattas"]},
-          {"t": "fill", "p": "Akbar's policy of 'peace with all' was called Sulh-i-____.", "a": ["kul", "Kul"]}
+          {"t": "fill", "p": "Long ago most people could not read. So a king who wanted everyone to know his message had officers read it ____.", "a": ["aloud", "out loud"]},
+          {"t": "fill", "p": "A rule of 'peace with all' means treating people of every ____ with respect.", "a": ["religion", "faith"]}
         ]]
       ]
     },
@@ -517,12 +517,12 @@
   ],
   "check": [
     {"q": "What does 'unity in diversity' mean? Give one example.", "a": "People with many different languages, religions, foods and customs living together as one nation. For example, Lohri, Pongal and Bihu are different names for harvest festivals, but all celebrate the same season."},
-    {"q": "Name four religions followed in India and the two sects of Islam.", "a": "Any four of Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism, Zoroastrianism (Parsi) and Judaism, and tribal faiths. Islam: Shia and Sunni."},
-    {"q": "How many languages does the Constitution recognise, and name four.", "a": "22, for example Hindi, Tamil, Bangla, Marathi, Telugu, Urdu, Santali, Konkani."},
+    {"q": "Name four religions followed in India. Why can people of different faiths live as good neighbours?", "a": "Any four of Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism, Zoroastrianism (Parsi), Judaism and tribal faiths. People can live as good neighbours when they respect each other's beliefs, share festivals and help each other, and when the law treats everyone equally."},
+    {"q": "India has many languages. Why might a country with many languages choose to recognise many of them, not just one?", "a": "So that people can learn, read the law and talk to the government in their own language, and so that no group feels left out. Respecting everyone's language helps people feel they belong."},
     {"q": "Give two reasons why India's culture is mixed.", "a": "India's large size and different climates and land; and peoples from outside (Greeks, Kushanas, Shakas, Huns, Arabs, Turks, Mughals, Europeans) came, settled and mingled with local people."},
     {"q": "Name three things that unite all Indians.", "a": "Any three: the Constitution, the national flag, the national anthem, the shared freedom struggle, sport such as cricket and hockey, the armed forces, shared festivals."},
     {"q": "What is harmony, and what does the Constitution say about equality?", "a": "Harmony is living together peacefully with no one treated as high or low, rich or poor. The Constitution says everyone is equal before the law and no one may be discriminated against because of religion, caste, sex or place of birth."},
-    {"q": "Why did Ashoka change after the Kalinga war, and what did he do to spread peace?", "a": "He was horrified by the killing and suffering and was inspired by the Buddha's teachings. He appointed Dhamma-Mahamattas, had messages carved on rocks and pillars and read aloud, and taught respect for all religions and kindness to all creatures."},
-    {"q": "What did Akbar do to build harmony between Hindus and Muslims?", "a": "He gave high posts to Hindu nobles and scholars, married a Rajput princess who kept her own faith, celebrated festivals of both, abolished the jizya tax, held debates between faiths and followed Sulh-i-kul, peace with all."}
+    {"q": "Why might seeing the suffering of a war change how a ruler wants to rule? What could a ruler do to spread peace?", "a": "Seeing the killing and suffering could make a ruler feel sorry and want no more war. A ruler could send officers to explain kindness to people, put messages where everyone can see or hear them, and teach respect for all religions and kindness to all creatures. Ashoka did this after the Kalinga war."},
+    {"q": "What could a ruler do to build harmony between people of different religions?", "a": "Treat all faiths with respect, give important jobs to able people of every faith, take part in everyone's festivals, remove unfair taxes on any one group, and let people of different faiths talk and debate peacefully. Akbar did many of these things."}
   ]
 }

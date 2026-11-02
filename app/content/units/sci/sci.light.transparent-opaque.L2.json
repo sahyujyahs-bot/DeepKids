@@ -1645,14 +1645,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Layer Test, what happened to the drawing as more paper squares were added?",
+   "p": "You put squares of thin paper on a drawing, one on top of another. What happens to the drawing as you add more squares?",
    "opts": [
-    "It got fainter and then disappeared",
-    "It got brighter",
-    "It stayed the same"
+    "It gets fainter and then disappears",
+    "It gets brighter",
+    "It stays the same"
    ],
    "a": 0,
-   "why": "Each layer stops some light, so the drawing faded with every square until it was gone.",
+   "why": "Each layer stops some light, so the drawing fades with every square until it is gone.",
    "outcome": 2
   },
   {
@@ -1717,14 +1717,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Milk Cloud test, which glass let the coin show again?",
+   "p": "Two glasses hold the same cloudy, milky water, with a coin at the bottom of each. One glass is full and one is half full. In which glass is the coin easier to see?",
    "opts": [
     "The half-full glass",
     "The full glass",
     "Neither"
    ],
    "a": 0,
-   "why": "With less cloudy water in the way, more light reached the coin and came back.",
+   "why": "With less cloudy water in the way, more light reaches the coin and comes back to your eyes.",
    "outcome": 5
   }
  ],

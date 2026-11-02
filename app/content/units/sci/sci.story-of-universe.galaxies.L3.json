@@ -1366,7 +1366,7 @@
   },
   {
    "t": "mcq",
-   "p": "In 1610, Galileo looked at the Milky Way through his telescope. What did he find?",
+   "p": "You look at the faint glow of the Milky Way through a telescope. What do you see?",
    "opts": [
     "It is a river of water",
     "It is made of countless stars",
@@ -1374,7 +1374,7 @@
    ],
    "a": 1,
    "outcome": 2,
-   "why": "His telescope made the gaps between the stars look bigger, so the glow broke into stars. Our eyes alone see only the glow."
+   "why": "A telescope makes the gaps between the stars look bigger, so the glow breaks into stars. Our eyes alone see only the glow."
   },
   {
    "t": "mcq",
@@ -1402,19 +1402,19 @@
   },
   {
    "t": "mcq",
-   "p": "Henrietta Leavitt worked at Harvard, studying photos of stars. What did she find?",
+   "p": "Some pulsing stars pulse more slowly when they are really brighter. Why is this so useful to astronomers?",
    "opts": [
-    "The first planet round another star",
-    "That brighter pulsing stars pulse more slowly, which lets us measure distances",
-    "The black hole at the centre of the galaxy"
+    "It tells us when a star will explode",
+    "From the pulse we know how bright the star really is, so how faint it looks tells us how far away it is",
+    "It shows which stars have planets"
    ],
    "a": 1,
    "outcome": 4,
-   "why": "Leavitt found that the brighter a certain kind of pulsing star really is, the more slowly it pulses. So its pulse tells how bright it really is, and how faint it looks tells how far away it is."
+   "why": "The pulse tells how bright the star really is. A star that is really bright but looks faint must be far away. So these stars work like distance markers in the sky."
   },
   {
    "t": "mcq",
-   "p": "In 1923, Edwin Hubble found a pulsing star in the Andromeda nebula. What did it show?",
+   "p": "Astronomers find a pulsing star in the fuzzy Andromeda patch and work out that it is millions of light-years away. Our galaxy is only about 100,000 light-years across. What does this show?",
    "opts": [
     "Andromeda is a cloud of gas inside the Milky Way",
     "Andromeda is a galaxy far outside the Milky Way",
@@ -1422,7 +1422,7 @@
    ],
    "a": 1,
    "outcome": 4,
-   "why": "Using Leavitt's rule, Hubble worked out that the star was far beyond the edge of our galaxy. So Andromeda is a whole galaxy of its own, and the Milky Way is not the whole universe."
+   "why": "The star is far beyond the edge of our galaxy. So Andromeda is a whole galaxy of its own, and the Milky Way is not the whole universe."
   },
   {
    "t": "mcq",
@@ -1593,13 +1593,12 @@
     },
     {
      "t": "fill",
-     "p": "In many Indian languages, the Milky Way is called ____, the Ganga of the sky.",
+     "p": "Long ago, people saw the Milky Way as a long, glowing band across the night sky, like a ____ flowing through the dark.",
      "a": [
-      "Akashganga",
-      "Akash Ganga",
-      "Akasha Ganga"
+      "river",
+      "stream"
      ],
-     "why": "People saw the band as a river flowing across the sky. The English name and the Greek word 'galaxy' both come from milk."
+     "why": "From inside our flat galaxy, its stars make a long band round the sky. In India it is called Akashganga, the Ganga of the sky. The English name and the Greek word 'galaxy' both come from milk."
     },
     {
      "t": "odd",
@@ -1699,12 +1698,12 @@
     },
     {
      "t": "fill",
-     "p": "The black hole at the centre of the Milky Way is called Sagittarius A ____.",
+     "p": "Nobody can see the black hole at the centre of the Milky Way. We know it is there because nearby stars race round it very ____.",
      "a": [
-      "star",
-      "*"
+      "fast",
+      "quickly"
      ],
-     "why": "Its name is written Sagittarius A* and said 'Sagittarius A star'. It is in the direction of the constellation Sagittarius."
+     "why": "Only something very heavy can pull stars round that fast. The black hole gives out no light of its own, so we find it by how stars move around it."
     },
     {
      "t": "write",
@@ -1784,16 +1783,16 @@
     },
     {
      "t": "mcq",
-     "p": "In the Coin activity, the whole solar system was a 1 rupee coin. At that size, how far away was the nearest star?",
+     "p": "If the whole solar system, out to Neptune, shrank to the size of a 1 rupee coin, the nearest star would be about 90 metres away, a football field. What does this tell you?",
      "how": "a2",
      "context": "In the Coin activity, a 1 rupee coin stands for the whole solar system, out to Neptune.",
      "opts": [
-      "About 1 metre",
-      "About 90 metres",
-      "About 2,000 kilometres"
+      "Stars are very far apart compared with the size of a solar system",
+      "The nearest star is inside our solar system",
+      "Stars are packed close together"
      ],
-     "a": 1,
-     "why": "The nearest star would be about 90 metres away, a football field. 2,000 kilometres is the size of the whole Milky Way at that scale."
+     "a": 0,
+     "why": "A whole solar system is a tiny coin, and the next one is a football field away. Most of a galaxy is empty space between the stars."
     },
     {
      "t": "odd",
@@ -2023,13 +2022,14 @@
     },
     {
      "t": "fill",
-     "p": "The Milky Way is about 100,000 light-years across but only about ____ light-years thick.",
+     "p": "The Milky Way is about 100,000 light-years across but only about 1,000 light-years thick. So its shape is a flat ____.",
      "a": [
-      "1,000",
-      "1000",
-      "one thousand"
+      "disc",
+      "disk",
+      "plate",
+      "dosa"
      ],
-     "why": "The disc is about 100 times wider than it is thick, flatter than a dosa. That is why we see it as a band."
+     "why": "The disc is about 100 times wider than it is thick, flatter than a dosa. That is why we see it as a band from inside."
     },
     {
      "t": "label",

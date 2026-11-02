@@ -592,17 +592,17 @@
       },
       {
        "t": "mcq",
-       "p": "Jadav Payeng planted trees on a bare sandbank in a big river in Assam. Who came to live there?",
+       "p": "A man plants trees on a bare sandbank in a big river, year after year, until it becomes a forest. What will most likely come to live there?",
        "opts": [
         "only people",
-        "birds, deer, rhinos, tigers and elephants",
+        "birds, deer and other animals that need trees",
         "nothing"
        ],
        "a": 1
       },
       {
        "t": "fill",
-       "p": "Wangari Maathai started a movement in Kenya. In it, women planted ____.",
+       "p": "Planting ____ on bare land holds the soil and gives birds and animals a home.",
        "a": [
         "trees"
        ]
@@ -1054,8 +1054,8 @@
    "a": "A place kept safe for plants and animals. Your child says your reserve's rule."
   },
   {
-   "q": "Who were the Chipko women, and what did they do?",
-   "a": "Village women in the Himalayas, led by Gaura Devi in Reni, who stood in the forest and stopped the trees being cut."
+   "q": "How can a group of people with no weapons stop the trees in their forest from being cut down?",
+   "a": "By standing together in the forest and holding on to the trees, so the cutters cannot cut without hurting them. Many people together, peacefully, are hard to ignore."
   }
  ]
 }

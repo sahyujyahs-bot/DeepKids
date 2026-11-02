@@ -668,7 +668,7 @@
       },
       {
        "t": "mcq",
-       "p": "In the crowded methi cup, how did the seedlings grow?",
+       "p": "Twenty methi seeds are sown close together in one cup, and three in another cup of the same size. How will the crowded seedlings most likely grow?",
        "opts": [
         "thin, pale and leaning",
         "thicker and greener than in the other cup",
@@ -791,11 +791,11 @@
       },
       {
        "t": "mcq",
-       "p": "What do Bishnoi villages in Rajasthan protect?",
+       "p": "A village decides never to cut its trees or hunt the deer that live nearby. What is most likely to happen to the deer over many years?",
        "opts": [
-        "khejri trees and blackbuck",
-        "factories",
-        "fishing boats"
+        "they stay and grow in number, because they have food and safety",
+        "they all leave",
+        "nothing can change"
        ],
        "a": 0
       },

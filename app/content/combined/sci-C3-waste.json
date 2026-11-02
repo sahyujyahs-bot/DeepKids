@@ -737,11 +737,11 @@
       },
       {
        "t": "mcq",
-       "p": "Two scientists left bags labelled 'biodegradable' in soil and in the sea for three years. What did they find?",
+       "p": "A shopping bag is labelled 'biodegradable'. What is the best way to find out if it really rots in soil and in the sea?",
        "opts": [
-        "Some bags could still carry shopping",
-        "All the bags rotted in a week",
-        "All the bags turned into soil"
+        "Leave some bags in soil and in the sea for a long time, then check them",
+        "Trust the label, because labels are always true",
+        "See whether the bag looks thin"
        ],
        "a": 0
       },

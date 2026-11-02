@@ -589,11 +589,11 @@
       },
       {
        "t": "mcq",
-       "p": "Robert Paine, a scientist, kept taking the starfish off one stretch of rocky seashore. What happened there?",
+       "p": "On a rocky seashore, starfish eat mussels. What would most likely happen if all the starfish were taken away?",
        "opts": [
-        "More kinds of animals lived there",
-        "Mussels took over and many other kinds disappeared",
-        "Nothing changed"
+        "More kinds of animals would live there",
+        "Mussels would take over and many other kinds would disappear",
+        "Nothing would change"
        ],
        "a": 1
       }
@@ -691,13 +691,13 @@
       },
       {
        "t": "mcq",
-       "p": "Wolves were brought back to Yellowstone, a national park in the USA. What do scientists say about how much the wolves changed the plants and rivers there?",
+       "p": "Wolves are brought back to a big park. Some scientists say the wolves changed the plants and rivers a lot. Others say much less. What should we do with an argument like this?",
        "opts": [
-        "all agree the wolves saved the rivers",
-        "still argue about how much the wolves changed the plants and rivers",
-        "found the wolves had no effect on anything"
+        "keep measuring and checking before deciding",
+        "believe whoever spoke first",
+        "stop studying the park"
        ],
-       "a": 1
+       "a": 0
       },
       {
        "t": "sort",
@@ -1214,8 +1214,8 @@
    "a": "They break down or eat dead things and return them to the soil, closing the loop."
   },
   {
-   "q": "What happened when India's vultures disappeared, and why did they disappear?",
-   "a": "A cattle painkiller, diclofenac, poisoned them; carcasses rotted, stray dogs and rabies increased."
+   "q": "Vultures eat dead animals. What might happen in a place where the vultures disappear?",
+   "a": "Dead animals would lie rotting for longer. More stray dogs and rats would feed on them, and diseases such as rabies could spread."
   },
   {
    "q": "How do trees and grass protect soil?",

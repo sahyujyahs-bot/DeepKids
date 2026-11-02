@@ -1372,10 +1372,10 @@
     },
     {
      "t": "write",
-     "p": "The women of the Hargila Army are not the government. Say to a grown-up, who writes it down: how can ordinary people still protect animals?",
+     "p": "Ordinary people are not the government. Say to a grown-up, who writes it down: how can ordinary people still protect animals?",
      "lines": 2,
-     "a": "Thousands of village women in Assam guard the nests of the rare stork and look after the nesting trees. People working together can protect animals even without special powers.",
-     "why": "A strong answer uses the Hargila Army story as evidence."
+     "a": "They can guard nests, look after the trees animals live in, pick up litter, and tell others why the animals matter. Many people working together can protect animals even without special powers.",
+     "why": "A strong answer gives a real thing people can do, and why it helps the animal."
     },
     {
      "t": "label",
@@ -1527,26 +1527,26 @@
   },
   {
    "t": "mcq",
-   "p": "In 1974, what did Gaura Devi and other women of Reni village do?",
+   "p": "Village women hear that loggers are coming to cut down their forest. They have no weapons and no power. What could they do that might save the trees?",
    "opts": [
-    "They held on to the trees so they could not be cut down",
-    "They planted rice",
-    "They built a dam"
+    "Hold on to the trees so they cannot be cut down",
+    "Plant rice",
+    "Build a dam"
    ],
    "a": 0,
-   "why": "This was part of the Chipko movement. 'Chipko' means 'to hug' or 'to stick to'. The loggers went away.",
+   "why": "Standing with the trees means the loggers cannot cut them without hurting people. Many people together, peacefully, are hard to ignore. Women in the Himalayas really did this, and it was called Chipko, 'to hug'.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Who leads the Hargila Army of women in Assam?",
+   "p": "A rare stork nests in tall trees near villages. People cut the trees and chase the birds away. What would help the storks most?",
    "opts": [
-    "Purnima Devi Barman, a scientist who studies birds",
-    "A king",
-    "A football team"
+    "Village people guarding the nests and the nesting trees",
+    "A king giving an order",
+    "A football team playing nearby"
    ],
    "a": 0,
-   "why": "Purnima Devi Barman and thousands of village women protect the nests of the greater adjutant stork, called hargila in Assamese.",
+   "why": "The storks need their nesting trees and peace while they raise their young. People who live nearby can protect both every day.",
    "outcome": 5
   },
   {

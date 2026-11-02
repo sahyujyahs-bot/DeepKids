@@ -1311,8 +1311,8 @@
    "a": "Birds who nest on the ground, like hens and lapwings, have chicks who hatch with down and open eyes, so they can escape danger. Birds who nest high up, like crows and pigeons, have helpless chicks who stay safe in the nest while the parents feed them."
   },
   {
-   "q": "Tell the story of the finches and the drought in your own words.",
-   "a": "In the 1977 drought on Daphne Major only big, hard seeds were left. Finches with bigger, deeper beaks could crack them and survived. Their chicks had bigger beaks. No bird changed their own beak. This is natural selection."
+   "q": "In a long drought, only big, hard seeds are left on an island. Explain how birds with bigger beaks could become more common, even though no bird changes its own beak.",
+   "a": "Birds with bigger, deeper beaks can crack the hard seeds, so more of them survive. Their chicks tend to have big beaks too. After a few generations there are more big-beaked birds. No bird changed their own beak. This is natural selection."
   },
   {
    "q": "A koel needs no teacher, but a young sparrow does. Why?",
@@ -1323,8 +1323,8 @@
    "a": "Birds use the Sun by day, the stars at night, landmarks like coasts and rivers, and the Earth's magnetism. Scientists still do not know exactly how birds sense magnetism."
   },
   {
-   "q": "Why did India's vultures die, and why does it matter?",
-   "a": "They ate dead cattle who had been given the painkiller diclofenac, which damaged their kidneys. Without vultures, dead animals rotted for longer and more stray dogs came, which can spread disease."
+   "q": "Vultures eat dead cattle. What would happen if the cattle were given a medicine that damages vultures' kidneys? Why does it matter for people?",
+   "a": "Many vultures would die. Then dead animals would lie rotting for longer, and more stray dogs would come to eat them, which can spread disease. Losing one animal changes the whole food web."
   }
  ],
  "story": {

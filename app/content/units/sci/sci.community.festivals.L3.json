@@ -1721,14 +1721,14 @@
   },
   {
    "t": "mcq",
-   "p": "At which festival do families in Kerala eat a sadya on a banana leaf and make a pookalam of flower petals?",
+   "p": "In Kerala, Onam comes just when the rice is harvested. Families cook a big meal with the new crop and share it. Why do so many festivals come at harvest time?",
    "opts": [
-    "Lohri",
-    "Onam",
-    "Durga Puja"
+    "People have new food to share, and want to give thanks for it",
+    "Schools are closed then",
+    "It never rains at harvest time"
    ],
-   "a": 1,
-   "why": "Onam is Kerala's harvest festival, with a sadya and a pookalam. Lohri is a Punjabi bonfire festival in January. Durga Puja is best known in West Bengal, for its pandals.",
+   "a": 0,
+   "why": "After the harvest, there is plenty of food and the hardest work is done. So people gather, share the new crop and give thanks. Schools and rain have nothing to do with it.",
    "outcome": 1
   },
   {
@@ -1832,14 +1832,14 @@
   },
   {
    "t": "mcq",
-   "p": "Antoine Lavoisier, a French chemist, thought every acid contains oxygen. How was this shown to be wrong?",
+   "p": "A chemist thinks every acid contains oxygen. What would show that this idea is wrong?",
    "opts": [
-    "Humphry Davy showed that the acid from salt has no oxygen in it",
-    "Lavoisier tasted an acid with no oxygen",
-    "Nobody has ever found an acid without oxygen"
+    "Finding just one acid that has no oxygen in it",
+    "Finding more acids that do have oxygen in them",
+    "Tasting an acid"
    ],
    "a": 0,
-   "why": "In 1810 Humphry Davy showed that the acid made from salt is made of hydrogen and chlorine, with no oxygen. This acid is in your stomach. So oxygen is not what makes something an acid.",
+   "why": "One clear case that breaks a rule is enough to show the rule is wrong. The acid made from salt, which is also in your stomach, is made of hydrogen and chlorine, with no oxygen. Finding more acids with oxygen cannot prove the rule, because the next one might break it.",
    "outcome": 6
   }
  ],
@@ -1939,14 +1939,14 @@
     },
     {
      "t": "mcq",
-     "p": "Which food is made at Pongal by boiling rice, moong dal, jaggery and ghee in a new pot?",
+     "p": "At Pongal, families boil the newly harvested rice with jaggery in a new pot until it bubbles over. What is the boiling over a sign of?",
      "opts": [
-      "Pitha",
-      "Sakkarai pongal",
-      "Seviyan"
+      "Plenty: a full harvest and a good year ahead",
+      "A mistake in cooking",
+      "That the pot is too small"
      ],
-     "a": 1,
-     "why": "Sakkarai pongal, sweet pongal, is cooked in a new pot until it boils over. Pitha is a rice cake of Assam, and seviyan is a sweet made at Eid."
+     "a": 0,
+     "why": "Pongal is a harvest festival. The pot boiling over shows plenty, which is what people hope the harvest brings. Festival food often carries a meaning like this, as well as being tasty."
     },
     {
      "t": "write",

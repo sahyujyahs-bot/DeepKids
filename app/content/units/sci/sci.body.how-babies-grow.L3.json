@@ -2620,14 +2620,14 @@
     },
     {
      "t": "mcq",
-     "p": "In 1694 a scientist named Nicolaas Hartsoeker drew a tiny curled-up man inside a sperm cell. How did later scientists show this idea was wrong?",
+     "p": "Long ago, some people thought a baby starts as a tiny, ready-made person who just grows bigger. How could scientists test this idea?",
      "opts": [
-      "They asked mothers what they felt",
-      "They weighed newborn babies",
-      "They watched hen's eggs day by day and saw the body parts form one after another"
+      "Ask mothers what they felt",
+      "Weigh newborn babies",
+      "Watch hen's eggs day by day, to see whether the body parts are there from the start or form one after another"
      ],
      "a": 2,
-     "why": "In 1759 Caspar Friedrich Wolff watched chicks forming in hen's eggs. The parts appeared one by one. Later, better microscopes showed that the first cell has no body parts at all."
+     "why": "Watching eggs day by day shows the parts appearing one by one, which a tiny ready-made chick would not do. Later, microscopes showed that the first cell has no body parts at all. Weighing babies or asking mothers cannot show what the first cell looks like."
     },
     {
      "t": "match",
@@ -2794,7 +2794,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Floating Safe test, what was the one thing you changed between the two jars?",
+   "p": "You want to test whether water around an egg protects it when it is shaken. You shake two raw eggs in two jars. What should be the only difference between the jars?",
    "opts": [
     "The size of the egg",
     "How hard you shook",

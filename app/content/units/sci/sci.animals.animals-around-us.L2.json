@@ -1833,9 +1833,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw the dough animal that stood up in the Dough Legs test. Show how many legs it had.",
+     "p": "Draw a dough animal that could stand up by itself. Show how many legs it needs and where they go.",
      "a": "A dough body on three or more legs, spread out.",
-     "why": "A strong drawing shows three or more legs spread out under the body, because those stood by themselves.",
+     "why": "A strong drawing shows three or more legs spread out under the body, because spread-out legs make a steady base to stand on.",
      "how": "e1",
      "art": "An empty box with a small wooden board drawn at the bottom."
     },
@@ -2147,11 +2147,11 @@
     },
     {
      "t": "mcq",
-     "p": "In the Roll Stopper test, a floating bottle rolled over when flicked. What happened when a fin was taped on underneath?",
+     "p": "A floating bottle rolls over when you flick it. What do you think happens if a fin is taped on underneath?",
      "opts": [
-      "The bottle rolled more",
-      "The bottle rocked and stopped",
-      "The bottle sank"
+      "The bottle rolls more",
+      "The bottle rocks and stops",
+      "The bottle sinks"
      ],
      "a": 1,
      "why": "The fin pushes against the water when the bottle starts to roll, so it rocks and stops. A fish's back fin does the same job.",
@@ -2424,14 +2424,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Dough Legs test, which dough animal stood without help?",
+   "p": "You make three dough animals: one with one leg, one with two thin legs, and one with three legs spread out. Which one will stand without help?",
    "opts": [
     "The one with three legs spread out",
     "The one with one leg",
     "The one with two thin legs"
    ],
    "a": 0,
-   "why": "Three legs spread out stood, and one leg or two thin legs fell over. Three feet make a triangle to stand on.",
+   "why": "Three legs spread out make a triangle to stand on. One leg or two thin legs only give a point or a line, so they fall over.",
    "how": "e1",
    "outcome": 3
   },

@@ -714,9 +714,11 @@
       },
       {
        "t": "fill",
-       "p": "In 1820, Hans Christian Ørsted saw a compass needle move when electricity flowed in a nearby ____.",
+       "p": "Put a compass next to a wire. When electricity flows in the wire, the compass needle ____, because electricity makes a magnetic push.",
        "a": [
-        "wire"
+        "moves",
+        "swings",
+        "turns"
        ]
       }
      ]
@@ -1474,8 +1476,8 @@
    "a": "They need to stay in a thin layer of mud with just a little oxygen, but they cannot see or feel which way is down. The chain lines them up with the Earth's field, which slants down into the ground in the northern half of the Earth, so swimming forward takes them down to the mud."
   },
   {
-   "q": "How did Franklin's group test Mesmer's claim about animal magnetism?",
-   "a": "They used blind tests: they blindfolded people and sometimes told them they were being magnetised when they were not. People reacted just as strongly either way, so the effects came from what people expected, not from a magnetic fluid."
+   "q": "Someone says a hidden 'magnetic fluid' from his hands makes people feel better. How could you test whether it is the magnetism, or only what people expect?",
+   "a": "Use a blind test: blindfold people, and sometimes tell them they are being treated when they are not. If they react just as strongly either way, the effect comes from what they expect, not from any magnetic fluid."
   }
  ]
 }

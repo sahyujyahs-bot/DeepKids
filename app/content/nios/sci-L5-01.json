@@ -340,8 +340,8 @@
         ]],
         ["B. Heritage places", [
           {"t": "match", "p": "Match each monument to its city.", "pairs": [["Taj Mahal", "Agra"], ["Charminar", "Hyderabad"], ["Golden Temple", "Amritsar"], ["Hawa Mahal", "Jaipur"], ["Bada Imambara", "Lucknow"], ["Gateway of India", "Mumbai"]]},
-          {"t": "mcq", "p": "Who built the Sanchi Stupa?", "opts": ["Shah Jahan", "Ashoka", "The Pallava kings", "Raja Jai Singh"], "a": 1},
-          {"t": "fill", "p": "The stone rathas (chariot temples) at Mahabalipuram were made by the ____ kings.", "a": ["Pallava", "Pallavas"]}
+          {"t": "mcq", "p": "An old stone stupa has carvings that show how people lived 2,000 years ago. Why is it worth protecting?", "opts": ["It is only a heap of stones", "It tells us about the people and ideas of long ago", "Old things are always ugly", "Only its builder can visit it"], "a": 1},
+          {"t": "fill", "p": "Old temples, forts, songs and crafts that come to us from people of the past, and that we must look after, are called our ____.", "a": ["heritage", "cultural heritage"]}
         ]],
         ["C. Protecting heritage", [
           {"t": "write", "p": "Write three ways monuments get damaged, and one thing you can do to help.", "lines": 4},
@@ -540,9 +540,9 @@
   ],
   "check": [
     {"q": "What is culture? Give one physical and one non-physical example.", "a": "Culture is a way of living we have received from our forefathers. Physical: clothes, food, pots, buildings. Non-physical: ideas, ideals, feelings and beliefs, such as respect for elders."},
-    {"q": "Name the four general characteristics of culture in the book.", "a": "It is learnt and acquired; it is accumulated (it grows from generation to generation); it keeps changing; it is diverse."},
+    {"q": "How does culture change from one generation to the next? Give an example from your own family.", "a": "Culture is learnt from the people around us. Each generation keeps some of it and adds or changes something, like a new dish or a festival done a new way. So culture keeps growing and changing, and it is different from family to family."},
     {"q": "What is the difference between culture and heritage?", "a": "Culture is our whole way of living and keeps changing; heritage is what we have received from our forefathers, such as monuments, scriptures and knowledge, which we must protect and pass on."},
-    {"q": "Where are the Taj Mahal, Charminar, Sanchi Stupa and the Golden Temple, and who built the Taj?", "a": "Taj Mahal: Agra, built by Shah Jahan for Mumtaz Mahal. Charminar: Hyderabad. Sanchi Stupa: near Bhopal, Madhya Pradesh. Golden Temple: Amritsar, Punjab."},
+    {"q": "Why do we protect old buildings like the Taj Mahal and the Charminar? Name two things that can harm them.", "a": "They show how people built, lived and believed long ago, and they belong to everyone, including people not yet born. Polluted air and acid rain, soot, scratching and writing on walls, and neglect can all harm them."},
     {"q": "Give three ways monuments get damaged and say who looks after them.", "a": "Weather and age, air pollution (acids and soot), and careless people writing on walls, breaking things or living in them. The Archaeological Survey of India (department of archaeology) looks after them, but every citizen must help."},
     {"q": "Why did the chalk fizz in vinegar, and what does it teach us about the Taj Mahal?", "a": "Chalk and marble are calcium carbonate, which acids eat away, giving off carbon dioxide bubbles. Polluted air makes rain slightly acidic and leaves soot, so it slowly harms and stains marble."},
     {"q": "Name three things forests give us and two things they do for the land.", "a": "Wood, herbs, rubber, lac, silk, food and homes for animals. They help bring rainfall, stop soil erosion and make the soil richer."},

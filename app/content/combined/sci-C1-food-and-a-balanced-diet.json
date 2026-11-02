@@ -489,7 +489,7 @@
      [
       {
        "t": "mcq",
-       "p": "You breathed slowly on a cold mirror. What did you see?",
+       "p": "If you breathe slowly on a cold mirror, what will you see?",
        "opts": [
         "a misty patch of tiny water drops",
         "smoke",
@@ -694,7 +694,7 @@
       },
       {
        "t": "fill",
-       "p": "Barry Marshall, a doctor in Australia, showed that sores in the stomach are mostly caused by ____, not by spicy food.",
+       "p": "Some tummy sores are caused by tiny living things too small to see without a microscope, not by spicy food. These tiny living things are called ____.",
        "a": [
         "germs",
         "bacteria",
@@ -740,7 +740,7 @@
       },
       {
        "t": "write",
-       "p": "In the story, Sundari the temple elephant ate many sweet rice balls every day and felt heavy and unwell. Why did she feel better after eating grass all day in the forest?",
+       "p": "An elephant is fed many sweet rice balls every day, and feels heavy and unwell. Then she spends her days in the forest eating grass and leaves, and feels better. Why?",
        "lines": 3,
        "a": "A strong answer says an elephant's body needs lots of plants, eaten slowly through the day. The sweets filled her up quickly, so she did not eat the grass her body needed."
       }

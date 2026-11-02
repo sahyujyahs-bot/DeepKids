@@ -651,10 +651,10 @@
             },
             {
               "t": "mcq",
-              "p": "Most iron rusts, but the Delhi Iron Pillar hardly has. What did scientists find?",
+              "p": "Iron rusts when air and water reach it. An old iron pillar, never painted, has hardly rusted. Which is the best explanation?",
               "opts": [
-                "It is painted every year",
-                "A thin protective layer formed on its surface",
+                "Iron never rusts",
+                "A thin layer on its surface keeps air and water off the iron",
                 "It is not really iron"
               ],
               "a": 1

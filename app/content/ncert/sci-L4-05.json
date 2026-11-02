@@ -358,8 +358,8 @@
       "sections": [
         ["A. The six tastes", [
           {"t": "match", "p": "Match each taste to a food.", "pairs": [["Sweet", "Jaggery"], ["Sour", "Tamarind"], ["Salty", "Salt"], ["Pungent", "Green chilli"], ["Bitter", "Neem"], ["Astringent", "Raw mango"]]},
-          {"t": "fill", "p": "The six tastes are called ____ rasa in Ayurveda.", "a": ["shad", "shada"]},
-          {"t": "mcq", "p": "Ugadi Pachadi is special because:", "opts": ["It is very spicy", "It has all six tastes blended together", "It is made of millets only", "It is eaten cold"], "a": 1}
+          {"t": "fill", "p": "Sweet, sour, salty, bitter, pungent and astringent are the six ____ that many Indian meals try to balance.", "a": ["tastes", "rasas", "rasa"]},
+          {"t": "mcq", "p": "A festival dish mixes jaggery, tamarind, neem flowers, salt, chilli and raw mango. What makes it special?", "opts": ["It is very spicy", "It has all six tastes blended together", "It is made of millets only", "It is eaten cold"], "a": 1}
         ]],
         ["B. Millets", [
           {"t": "sort", "p": "Which of these are millets?", "items": ["Jowar", "Bajra", "Ragi", "Rice", "Wheat", "Maize"], "cats": ["Millet", "Not a millet"]},

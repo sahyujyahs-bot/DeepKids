@@ -359,7 +359,7 @@
         ]],
         ["C. Comparing views", [
           {"t": "write", "p": "In 2006 astronomers voted that Pluto is a dwarf planet; some scientists still call it a planet. What rule would you choose for what counts as a planet, and would Pluto pass?", "lines": 4},
-          {"t": "write", "p": "The children in the book believed stories about cows, Sheshnag and tortoises holding up the Earth. What evidence would you show them that the Earth floats in space?", "lines": 4}
+          {"t": "write", "p": "Some old stories say that animals hold up the Earth. What evidence would you show that the Earth floats in space?", "lines": 4}
         ]]
       ]
     }

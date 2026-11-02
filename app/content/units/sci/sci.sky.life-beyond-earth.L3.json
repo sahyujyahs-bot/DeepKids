@@ -1760,14 +1760,14 @@
   },
   {
    "t": "mcq",
-   "p": "Before Thomas Brock's work in Yellowstone in the 1960s, what did many biologists think?",
+   "p": "Bacteria have been found living in hot springs at 70 degrees and hotter, where people once thought nothing could live. What does this tell us?",
    "opts": [
-    "Life could not survive in water much hotter than about 73 degrees",
-    "Hot springs were full of fish",
-    "Microbes could only live in ice"
+    "Life can survive in places much hotter than people once thought",
+    "Hot springs are full of fish",
+    "Microbes can only live in ice"
    ],
    "a": 0,
-   "why": "Brock found bacteria in springs at 70 degrees and pink threads of bacteria in water even hotter, which showed the old limit was wrong.",
+   "why": "Pink threads of bacteria live even in water close to boiling. So we should not decide where life cannot live until we have looked carefully.",
    "outcome": 5
   },
   {

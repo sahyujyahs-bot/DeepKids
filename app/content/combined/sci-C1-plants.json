@@ -485,11 +485,11 @@
       },
       {
        "t": "mcq",
-       "p": "We turned the jar upside down. What did the roots do?",
+       "p": "A jar of sprouting seeds is turned upside down. What will the roots do?",
        "opts": [
-        "kept growing up",
-        "turned round and grew down",
-        "stopped growing"
+        "keep growing up",
+        "turn round and grow down",
+        "stop growing"
        ],
        "a": 1
       }
@@ -988,8 +988,8 @@
    "a": "Towards the window, because shoots grow towards light."
   },
   {
-   "q": "What did the roots do when we turned the jar upside down?",
-   "a": "They turned round and grew down again, because roots feel gravity."
+   "q": "If you turn a jar of sprouting seeds upside down, what will the roots do, and why?",
+   "a": "They will turn round and grow down again, because roots feel gravity."
   },
   {
    "q": "What happened to the moong in the dark?",

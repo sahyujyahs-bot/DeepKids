@@ -375,7 +375,7 @@
         ]],
         ["C. The 5Rs", [
           {"t": "match", "p": "Match each action to its R.", "pairs": [["Saying no to a paper cup", "Refuse"], ["Writing on both sides of a page", "Reduce"], ["Using a gift bag again", "Reuse"], ["Making a vase from an old bottle", "Repurpose"], ["Turning old newspaper into handmade paper", "Recycle"]]},
-          {"t": "write", "p": "Before paper was common, what did people in India write on? Name two things.", "lines": 2}
+          {"t": "write", "p": "Before paper was common, people wrote on things from plants and animals around them. Name two things that could work, and say why.", "lines": 2}
         ]]
       ]
     },
@@ -392,7 +392,7 @@
         ]],
         ["B. Which R?", [
           {"t": "sort", "p": "Sort these actions into the 5Rs.", "items": ["Asking the shop not to give a bill printout", "Using an old calendar's back for drawing", "Wrapping a gift in last year's gift paper", "Making a pen stand from a toilet-roll tube", "Selling newspapers to the raddiwala for recycling"], "cats": ["Refuse", "Reduce", "Reuse", "Repurpose", "Recycle"]},
-          {"t": "write", "p": "The shopkeeper on page 125 turns old newspapers into envelopes. Why is this repurpose and not recycle?", "lines": 2}
+          {"t": "write", "p": "A shopkeeper folds old newspapers into envelopes. Why is this repurposing and not recycling?", "lines": 2}
         ]],
         ["C. Think it through", [
           {"t": "write", "p": "Our recycled paper was rougher and weaker than a notebook page. Give two reasons.", "lines": 3},
@@ -419,7 +419,7 @@
         ["C. Comparing views", [
           {"t": "write", "p": "Cai Lun is often called the inventor of paper, but older paper has been found. Was he an inventor or an improver? Give your reason.", "lines": 3},
           {"t": "write", "p": "Scientists dated three parts of the Bakhshali manuscript and got very different ages. Some experts say the whole book was written by one person at one time. How could both be true? What would you check?", "lines": 3},
-          {"t": "write", "p": "Louis Braille's school refused his dot system for years. Why do you think good ideas are sometimes rejected? What finally made people change their minds?", "lines": 3}
+          {"t": "write", "p": "A new idea, like an alphabet of raised dots for blind readers, is sometimes refused for years. Why do you think good ideas are sometimes rejected? What could help people change their minds?", "lines": 3}
         ]]
       ]
     }
@@ -638,8 +638,8 @@
     {"q": "Why does recycled paper feel rougher than a drawing book page?", "a": "It is made from old paper whose fibres are shorter and mixed, it is not bleached or pressed as hard, and it has no smooth coating."},
     {"q": "In the natural colour test, what did you keep the same, and why?", "a": "The size of the paper pieces and the amount of each ingredient, so that only the dye was different and the test was fair."},
     {"q": "Why is tissue paper used for wiping and cardboard for boxes?", "a": "Tissue is thin, soft and soaks up water quickly. Cardboard is thick, stiff and strong, so it protects things inside a box."},
-    {"q": "What did people in India write on before paper? How do blind people read?", "a": "Palm leaves (talapatra), birch bark, cloth and wooden boards. Blind people read Braille, patterns of raised dots felt with the fingertips."},
+    {"q": "Before paper was common, people wrote on things they found around them. What makes a material good to write on? And how can a person who cannot see read?", "a": "It should be flat, thin, strong and last a long time, and hold ink or scratches, like dried palm leaves, birch bark or cloth. A person who cannot see can read with their fingertips, using patterns of raised dots called Braille."},
     {"q": "Name the 5Rs and give one example of each.", "a": "Refuse (say no to a paper cup), Reduce (write on both sides), Reuse (use a gift bag again), Repurpose (make a vase from an old bottle), Recycle (turn old newspaper into new paper)."},
-    {"q": "Is the age of the Bakhshali manuscript settled? Why or why not?", "a": "No. A 2017 radiocarbon test gave some leaves a very early date, but other experts argue the manuscript was written at one time and the bark may be older than the writing, so it is still debated."}
+    {"q": "A test can tell how old the bark or leaf of an old book is. Does that always tell you when the writing was done? Why or why not?", "a": "No. The bark or leaf could be older than the writing, because people may have kept blank leaves for years before writing on them. So experts can argue about the age of such a book even after a test."}
   ]
 }

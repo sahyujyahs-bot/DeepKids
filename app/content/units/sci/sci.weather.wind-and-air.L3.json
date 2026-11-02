@@ -2013,7 +2013,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kiran, the six-year-old boy in the story, wants to fly his kite but there is no wind. What should he do?",
+   "p": "A boy wants to fly his kite, but there is no wind at all. What should he do?",
    "opts": [
     "Run with the kite",
     "Add a heavier tail",
@@ -2054,16 +2054,16 @@
   },
   {
    "t": "mcq",
-   "p": "Galileo thought the trade winds were air left behind by the spinning Earth. What did Halley show instead?",
+   "p": "Sailors noticed that some winds over the oceans blow the same way all year round. What mostly drives such steady winds?",
    "opts": [
-    "There are no trade winds",
+    "There are no such winds",
     "The Moon makes the winds",
-    "The winds are blown by the sea",
+    "The sea blows them",
     "The Sun's heating drives the winds"
    ],
    "outcome": 5,
    "a": 3,
-   "why": "Halley gathered sailors' reports into a map and argued that the Sun's heating drives the winds. Later, Hadley showed that the Earth's spin bends them."
+   "why": "The Sun heats the Earth most near the middle. Warm air rises there and cooler air flows in to take its place, so the winds keep blowing the same way. The Earth's spin bends them."
   },
   {
    "t": "mcq",
@@ -2577,7 +2577,7 @@
     },
     {
      "t": "write",
-     "p": "In the story The Kite That Waited for the Sea, Lakshmamma's father sailed out with the land breeze before dawn and home with the sea breeze in the afternoon. What would happen to his plan on a cloudy, cool day? Explain.",
+     "p": "A fisherman sails out with the land breeze before dawn, and comes home with the sea breeze in the afternoon. What would happen to his plan on a cloudy, cool day? Explain.",
      "lines": 4,
      "a": "On a cloudy day the land would not get much warmer than the sea. So the sea breeze might be weak or might not come at all, and it would be hard to sail home.",
      "why": "A strong answer says that the sea breeze needs the land to be warmer than the sea, and clouds stop the sun warming the land."

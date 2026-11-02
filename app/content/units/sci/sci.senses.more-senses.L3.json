@@ -2084,7 +2084,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the bowl of water from Spin and Stop, just after the bowl stopped. Show with arrows what the water was doing.",
+     "p": "A bowl of water with a paper arrow floating on it is spun round, then stopped suddenly. Draw the bowl just after it stops. Show with arrows what the water is doing.",
      "how": "a1",
      "a": "A still bowl, with curved arrows showing the water and the paper arrow still turning.",
      "why": "The water keeps turning after the bowl stops, just as the liquid in your ear loops keeps swirling after you stop spinning."
@@ -2169,7 +2169,7 @@
        "says": "They are the same temperature. The railing just takes heat from your hand faster."
       }
      ],
-     "ask": "Who do you agree with? Use what you saw in the Ice Race. Then say one thing the other person has right.",
+     "ask": "Who do you agree with? Use what happens when one ice cube is put on a steel plate and one on a wooden board. Then say one thing the other person has right.",
      "lines": 4,
      "how": "e1",
      "a": "A strong answer agrees with Divya, using the evidence that ice melts faster on steel, which could not happen if the steel were colder. It also says Karthik is right about what he feels: the railing really does feel colder.",
@@ -2488,11 +2488,11 @@
     },
     {
      "t": "write",
-     "p": "Some people say a sense is 'a window onto the world'. After the Ice Race, would you agree? What does your sense of cold really show you?",
+     "p": "Some people say a sense is 'a window onto the world'. Steel feels colder than wood, but ice melts faster on steel. Would you agree with the saying? What does your sense of cold really show you?",
      "lines": 4,
      "how": "e1",
      "a": "Partly. The sense of cold does tell me about the world, but not the temperature. It shows how fast heat is leaving my hand, which depends on me and on what I touch.",
-     "why": "A strong answer uses the Ice Race to say what the sense actually reports."
+     "why": "A strong answer uses the ice on steel and wood to say what the sense actually reports."
     },
     {
      "t": "sort",

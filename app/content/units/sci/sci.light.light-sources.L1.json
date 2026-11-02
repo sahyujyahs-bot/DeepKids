@@ -1360,14 +1360,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, Kiran says his steel tumbler is a lamp. What is the best way to test it?",
+     "p": "A boy says his shiny steel tumbler is a lamp, because it shines. What is the best way to test it?",
      "opts": [
       "Take it into a dark room and see if it still shines",
       "Look at it in a sunny room",
       "Ask it to shine"
      ],
      "a": 0,
-     "why": "A light source can be seen in the dark. Kiran's tumbler vanished in the dark, so it makes no light of its own."
+     "why": "A light source can be seen in the dark. A tumbler only shines when light falls on it, so in a dark room it vanishes. It makes no light of its own."
     },
     {
      "t": "mcq",

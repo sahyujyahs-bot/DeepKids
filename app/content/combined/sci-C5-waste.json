@@ -772,7 +772,7 @@
      [
       {
        "t": "mcq",
-       "p": "Alappuzha, a town in Kerala, closed its dump in 2012. What does the town do with most wet waste now?",
+       "p": "A town closes its rubbish dump. What is the best way for it to deal with most of its wet waste now?",
        "opts": [
         "Homes and neighbourhoods compost it or make biogas near where it is made.",
         "It sends it to a dump in another state.",
@@ -1218,8 +1218,8 @@
    "a": "Organic waste comes from things that were once alive, such as peels and paper, and decomposers can feed on it. Inorganic waste comes from things that were never alive, such as glass and metal. Plastic is sorted with the inorganic, dry waste, because decomposers cannot feed on it."
   },
   {
-   "q": "What did the air test show?",
-   "a": "The same peels rotted in different ways. In the stirred open bowl, microbes used oxygen, and the peels turned dark and smelled earthy. In the sealed bag, the oxygen ran out, other microbes took over, the bag puffed up with gas, and the peels turned slimy and smelled rotten. So rotting with air and without air are different."
+   "q": "Fruit peels are left to rot in two ways: in an open bowl that is stirred, and in a sealed bag. How will the rotting be different, and why?",
+   "a": "In the stirred open bowl, microbes use oxygen, and the peels turn dark and smell earthy. In the sealed bag, the oxygen runs out, other microbes take over, the bag puffs up with gas, and the peels turn slimy and smell rotten. So rotting with air and without air are different."
   },
   {
    "q": "Why can a dump catch fire by itself?",
@@ -1242,8 +1242,8 @@
    "a": "Batteries can leak harmful metals. CFL bulbs hold mercury, which escapes if they break. Old medicines can poison animals and seep into water. E-waste holds metals such as lead. Kept apart, they cannot hurt waste pickers or reach soil and water."
   },
   {
-   "q": "What is segregation at source, and why do Indore and Alappuzha both depend on it?",
-   "a": "It means keeping wet, dry and hazardous waste apart right where it is made, at home. If waste is mixed, wet waste spoils the dry waste so it cannot be recycled, and dry waste spoils the compost. Both cities need sorted waste, whether it is composted at home or sent to big plants."
+   "q": "What is segregation at source, and why does a town need it, whether waste is composted at home or sent to big plants?",
+   "a": "It means keeping wet, dry and hazardous waste apart right where it is made, at home. If waste is mixed, wet waste spoils the dry waste so it cannot be recycled, and dry waste spoils the compost. So any way of dealing with waste works only if it is sorted first."
   }
  ],
  "story": {

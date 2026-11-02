@@ -2590,15 +2590,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the story 'The Pepper Tree That Wasn't', why did the painter think pepper grew on a jackfruit tree?",
+     "p": "Long ago, a painter drew pepper growing on a jackfruit tree. Pepper is a climber. What most likely fooled him?",
      "opts": [
       "The pepper climber was holding on to the jackfruit trunk, so they looked like one plant",
       "Jackfruit trees really do make pepper",
       "Someone tied pepper on the tree"
      ],
      "a": 0,
-     "why": "Pepper is a climber. They grow up a tree, holding on with little roots. From a distance, the two plants look like one. Picking 'jackfruit trees make pepper' is exactly the painter's mistake.",
-     "context": "This question is about the story 'The Pepper Tree That Wasn't', about a Dutch painter in Kerala in 1675."
+     "why": "Pepper is a climber. It grows up a tree, holding on with little roots. From a distance, the two plants look like one. Picking 'jackfruit trees make pepper' is exactly the painter's mistake.",
+     "context": "Pepper is a climbing plant that grows up the trunks of other trees."
     },
     {
      "t": "write",

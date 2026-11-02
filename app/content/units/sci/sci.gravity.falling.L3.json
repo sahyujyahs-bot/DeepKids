@@ -3590,14 +3590,14 @@
   },
   {
    "t": "mcq",
-   "p": "Did Galileo really drop balls from the Leaning Tower of Pisa?",
+   "p": "Someone says: 'A famous scientist dropped a heavy ball and a light ball from a tall tower, and they landed together.' Nobody wrote down seeing it at the time. How could you check the idea yourself?",
    "opts": [
-    "Historians are not sure. It may be a legend",
-    "Yes, everyone saw it and wrote about it",
-    "No, he lived nowhere near Pisa"
+    "Drop a heavy and a light thing of the same shape from the same height, and listen for one thud",
+    "Believe it, because a famous person did it",
+    "You cannot check it"
    ],
    "a": 0,
-   "why": "The story comes from his student, written years after Galileo died. Galileo himself left no clear record of it.",
+   "why": "You do not need to trust a story. A fair test you can do yourself is the best evidence. If the two land with one thud, heavy and light fall together.",
    "outcome": 3
   },
   {
@@ -3652,14 +3652,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did astronomers see during the eclipse of 1919?",
+   "p": "Einstein said a heavy thing like the Sun bends the space around it, so even light passing close to it should bend. During an eclipse, the sky goes dark and we can see stars near the Sun. What should those stars look like?",
    "opts": [
-    "Starlight bending as it passed the Sun",
-    "Stars falling out of the sky",
-    "The Sun stopping"
+    "Shifted a little from where they usually are",
+    "Exactly where they always are",
+    "Falling into the Sun"
    ],
    "a": 0,
-   "why": "The stars near the dark Sun looked shifted. This showed that gravity bends light, as Einstein said.",
+   "why": "Starlight passing the Sun bends a little, so the stars seem to move from their usual places. Astronomers checked this during an eclipse, and the stars had shifted, as Einstein said.",
    "outcome": 6
   },
   {

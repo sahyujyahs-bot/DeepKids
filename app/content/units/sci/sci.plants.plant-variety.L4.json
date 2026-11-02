@@ -2452,7 +2452,7 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out, and why? Neelakurinji, red sanders, Nepenthes khasiana, gulmohar.",
+     "p": "Which one is the odd one out, and why? Neelakurinji (grows wild only in India), red sanders (grows wild only in India), Nepenthes khasiana (grows wild only in India), gulmohar (came to India from Madagascar and grows in many countries).",
      "a": "Gulmohar, because gulmohar came from Madagascar. The other three are endemic to India: they grow wild only in India.",
      "why": "Endemic plants grow wild in only one place. Gulmohar grows in many countries, and came to India from Madagascar."
     },
@@ -2491,14 +2491,14 @@
     },
     {
      "t": "mcq",
-     "p": "Neelakurinji covered the hills of Munnar in blue in 2018. About how often does a neelakurinji plant bloom?",
+     "p": "All the neelakurinji plants on a hillside bloom together, once in about 12 years, then make seeds and die. How might blooming all at once help them?",
      "opts": [
-      "Once in about 12 years",
-      "Every spring",
-      "Every month"
+      "So many seeds are made together that seed-eaters cannot eat them all",
+      "Because the flowers are blue",
+      "So each flower can see the others"
      ],
      "a": 0,
-     "why": "Neelakurinji grows for about 12 years, then all the plants on a hillside bloom together, make seeds and die. Nobody yet knows how they keep count."
+     "why": "When every plant makes seeds at the same time, animals that eat seeds get far more than they can eat, so many seeds survive. Nobody yet knows how the plants keep count of the years."
     }
    ]
   },
@@ -2926,14 +2926,14 @@
   },
   {
    "t": "mcq",
-   "p": "Asima Chatterjee helped make Ayush-56, a medicine for epilepsy. Which plant did Ayush-56 come from?",
+   "p": "A medicine for epilepsy was made from a small water fern that people in Bengal eat as a green. Why do scientists study plants that people already use as food or medicine?",
    "opts": [
-    "A small water fern, Marsilea minuta",
-    "Neem",
-    "Clove"
+    "Such plants may hold useful chemicals worth testing",
+    "Every plant is a medicine",
+    "Ferns are the only plants with medicines"
    ],
    "a": 0,
-   "why": "Asima Chatterjee studied Marsilea minuta, a water fern eaten in Bengal as sushni shak.",
+   "why": "If people have used a plant for a long time, it may contain something that works. Scientists then test it carefully to find out what it does and whether it is safe.",
    "outcome": 2
   },
   {
@@ -2974,14 +2974,14 @@
   },
   {
    "t": "mcq",
-   "p": "Tamarind is used in rasam all over South India. Where did tamarind first grow?",
+   "p": "Tamarind is used in rasam all over South India, but it first grew in Africa. How could it end up growing all over India?",
    "opts": [
-    "Africa",
-    "Tamil Nadu",
-    "America"
+    "People carried its seeds and planted them, long ago",
+    "Its seeds floated across the sea by themselves to every village",
+    "Plants can walk to new places"
    ],
    "a": 0,
-   "why": "Tamarind first grew in Africa and reached India long ago.",
+   "why": "People carry seeds when they travel and trade. Many foods we think of as Indian, like tamarind, chilli and tomato, first grew somewhere else.",
    "outcome": 4
   },
   {

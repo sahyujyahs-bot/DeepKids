@@ -1774,11 +1774,11 @@
   },
   {
    "t": "mcq",
-   "p": "Before you left the drops under the fan, what did you do first?",
+   "p": "You are about to test whether a fan makes a drop of sugar water dry faster. What should you do first?",
    "opts": [
-    "Made a guess and said why",
-    "Ate the sugar",
-    "Washed the plates"
+    "Make a guess and say why",
+    "Eat the sugar",
+    "Wash the plates"
    ],
    "a": 0,
    "why": "Scientists guess first and give a reason. Then the test shows if the guess was right.",

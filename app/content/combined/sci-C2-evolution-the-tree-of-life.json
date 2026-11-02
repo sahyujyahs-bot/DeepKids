@@ -526,11 +526,11 @@
      [
       {
        "t": "mcq",
-       "p": "Remember the beak test. In Round 2 there was no moong, only groundnuts stuck deep in dough. Which beak got food?",
+       "p": "Food is stuck deep in a narrow crack. One bird has a long, thin beak like a clothes peg. Another has a wide, short beak like a spoon. Which beak will get the food?",
        "opts": [
         "The spoon beak",
         "The clothes-peg beak",
-        "Both got the same"
+        "Both get the same"
        ],
        "a": 1
       },
@@ -573,7 +573,7 @@
       },
       {
        "t": "write",
-       "p": "In the moth hunt, why did the newspaper moths have more babies than the white moths?",
+       "p": "Moths rest on a wall covered in newspaper print. Some moths are plain white. Others have a print pattern like the newspaper. A bird hunts them. Why will the newspaper moths have more babies over time?",
        "lines": 2,
        "a": "A strong answer says the bird found the white moths more easily on newspaper, so fewer white moths survived. More newspaper moths survived to have young, so there were more of them each round."
       },
@@ -616,11 +616,11 @@
        "t": "sort",
        "p": "Who did the choosing? Sort each one.",
        "items": [
-        "bigger beaks on Daphne Major after the drought",
+        "bigger beaks in island finches after a drought",
         "cauliflower",
         "a pug's short nose",
         "dark moths in smoky towns",
-        "Mappillai Samba rice",
+        "a rice that farmers kept seeds of for its big grains",
         "mosquitoes the spray cannot kill"
        ],
        "cats": [
@@ -726,7 +726,7 @@
      [
       {
        "t": "write",
-       "p": "Imagine every finch on Daphne Major had exactly the same beak. Could the drought have changed the beaks of the next generation? Why or why not?",
+       "p": "Imagine every finch on an island had exactly the same beak. Then a drought left only big, hard seeds. Could the drought have changed the beaks of the next generation? Why or why not?",
        "lines": 3,
        "a": "A strong answer says no. If all the beaks were the same, the drought could not pick out any birds with better beaks. Natural selection needs variation."
       },
@@ -1246,7 +1246,7 @@
    "a": "No. A scar happens during her life. Only features she was born with, in her instructions, can be passed on."
   },
   {
-   "q": "Why did more finches on Daphne Major have big beaks after the drought?",
+   "q": "After a long drought on an island, only big, hard seeds were left for the finches to eat. Why would more finches have big beaks a few generations later?",
    "a": "Only big, hard seeds were left. Finches born with bigger beaks could crack them, so more of them survived and had chicks. The chicks inherited the big beaks."
   },
   {

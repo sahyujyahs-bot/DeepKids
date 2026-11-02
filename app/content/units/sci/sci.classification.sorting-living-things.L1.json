@@ -1110,7 +1110,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "In the story, Lakshmi puts a crow, a hen and a peacock in one group. What is her rule?",
+   "p": "A girl puts a crow, a hen and a peacock in one group. What could her rule be?",
    "opts": [
     "They all have feathers",
     "They are all black",
@@ -1182,11 +1182,11 @@
   },
   {
    "t": "mcq",
-   "p": "Before the leaf test, what did you do first?",
+   "p": "Before you do a test, what should a scientist do first?",
    "opts": [
-    "Guessed what would happen and said why",
-    "Threw away the leaves",
-    "Looked up the answer"
+    "Guess what will happen, and say why",
+    "Throw away the things to test",
+    "Look up the answer"
    ],
    "a": 0,
    "why": "Scientists guess first and give a reason. Then the test shows whether the guess was right.",
@@ -1218,14 +1218,14 @@
   },
   {
    "t": "mcq",
-   "p": "Maria Sibylla Merian watched caterpillars for many days. What did she find?",
+   "p": "You feed a caterpillar and watch it for many days. It makes a hard case, and later a butterfly comes out. What does this show?",
    "opts": [
-    "A caterpillar grows into a moth or a butterfly",
+    "A caterpillar grows into a butterfly",
     "Caterpillars grow out of mud",
     "Caterpillars turn into fish"
    ],
    "a": 0,
-   "why": "Merian fed caterpillars and watched them. Each one made a hard case, and a moth or butterfly came out. They look different, but they are one animal.",
+   "why": "Watching the same animal day after day shows the change. A caterpillar and a butterfly look different, but they are one animal. Maria Sibylla Merian found this by watching.",
    "outcome": 5
   }
  ],

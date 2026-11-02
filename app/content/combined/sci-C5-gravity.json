@@ -1236,8 +1236,8 @@
    "a": "Gravity pulls it towards the Earth while it moves sideways so fast that it keeps falling and missing."
   },
   {
-   "q": "What is a Lagrange point? Name a spacecraft at one.",
-   "a": "A spot where the pulls of the Sun and the Earth together let a spacecraft go round in step with the Earth. Aditya-L1 orbits around the Sun–Earth L1 point."
+   "q": "What is a Lagrange point, and why is one a good place for a spacecraft that watches the Sun?",
+   "a": "A spot where the pulls of the Sun and the Earth together let a spacecraft go round in step with the Earth. At the point between them, it stays between the Earth and the Sun, so it can watch the Sun all the time and send messages home. Aditya-L1 is there."
   },
   {
    "q": "Why are there two high tides a day?",
@@ -1248,8 +1248,8 @@
    "a": "Starlight bending near the Sun (1919 eclipse), GPS clock corrections, or gravitational waves (2015)."
   },
   {
-   "q": "What did Vera Rubin's spinning galaxies show?",
-   "a": "There is far more mass than we can see (dark matter), or our law of gravity needs changing. Most scientists favour dark matter."
+   "q": "Stars at the edges of a galaxy go round much faster than the mass we can see should allow. What could this mean?",
+   "a": "There is far more mass than we can see (dark matter), or our law of gravity needs changing. Most scientists favour dark matter. Vera Rubin found this."
   }
  ],
  "story": {

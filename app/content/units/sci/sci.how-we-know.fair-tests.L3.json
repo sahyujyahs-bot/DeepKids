@@ -1833,28 +1833,28 @@
   },
   {
    "t": "mcq",
-   "p": "In Lind's test, what was different between the six pairs of sailors?",
+   "p": "A ship's doctor wants to find which treatment cures sailors sick with scurvy. He splits them into six pairs. To make it a fair test, what should be different between the pairs?",
    "opts": [
-    "The treatment they were given",
-    "The food they ate",
-    "The part of the ship they slept in",
-    "The illness they had"
+    "The treatment they are given",
+    "The food they eat",
+    "The part of the ship they sleep in",
+    "The illness they have"
    ],
    "a": 0,
-   "why": "Lind gave every pair the same food and the same place to sleep, and all had scurvy. Only the treatment was different, so it was the treatment that helped the oranges and lemons pair.",
+   "why": "Every pair should have the same food, the same place to sleep and the same illness. Only the treatment changes, so if one pair gets better, it must be the treatment that helped.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Which pair of sailors in Lind's test got better fastest?",
+   "p": "Sailors on long trips got scurvy, because their food had no vitamin C. Which treatment would help them get better fastest?",
    "opts": [
-    "The pair given sea water",
-    "The pair given vinegar",
-    "The pair given oranges and lemons",
-    "The pair given dilute acid"
+    "Sea water",
+    "Vinegar",
+    "Oranges and lemons",
+    "Dilute acid"
    ],
    "a": 2,
-   "why": "Oranges and lemons have vitamin C, which the body needs. One of that pair was fit for work after six days.",
+   "why": "Oranges and lemons have vitamin C, which the body needs. The other treatments do not give it.",
    "outcome": 6
   },
   {

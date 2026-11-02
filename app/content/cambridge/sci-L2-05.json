@@ -610,7 +610,7 @@
   "check": [
     {"q": "What is a light source? Give three examples.", "a": "Something that makes its own light, such as the Sun, a candle or diya flame, a bulb, a torch or a TV screen."},
     {"q": "Is the Moon a light source? Explain.", "a": "No. It reflects light from the Sun; it does not make its own light."},
-    {"q": "How did we find out which torch was brightest?", "a": "We counted how many sheets of paper were needed to stop its light; the brightest needed the most sheets."},
+    {"q": "How could you find out which of three torches is brightest, using sheets of paper?", "a": "Shine each torch through sheets of paper, adding one sheet at a time, until its light no longer shows through. The brightest torch needs the most sheets. Use the same paper and the same distance for every torch."},
     {"q": "Why can't we see anything in a completely dark room?", "a": "There is no light to shine on things and bounce into our eyes; we need light to see."},
     {"q": "Which colours are easiest to see in dim light, and why?", "a": "White and light colours, because they reflect more light into our eyes."},
     {"q": "Why do people who work at night wear clothes with reflective strips?", "a": "So that lights such as car headlights reflect off them and others can see them."},

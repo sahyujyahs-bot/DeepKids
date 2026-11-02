@@ -1471,28 +1471,28 @@
   },
   {
    "t": "mcq",
-   "p": "What does 26 January remember?",
+   "p": "India became free in 1947, but it became a republic only when its Constitution came into force. What does a constitution do?",
    "opts": [
-    "India became free in 1947",
-    "Gandhi's birthday",
-    "The Constitution came into force in 1950",
-    "The first Olympic gold"
+    "It sets out how the country is run and the rights of every citizen",
+    "It lists the winners of the Olympics",
+    "It is the words of the national song",
+    "It gives the date of Gandhi's birthday"
    ],
-   "a": 2,
-   "why": "On 26 January 1950 the Constitution came into force, and India became a republic. Independence Day is 15 August.",
+   "a": 0,
+   "why": "A constitution is the country's main set of rules: who makes the laws, how leaders are chosen, and what rights every person has. Republic Day, 26 January, remembers the day India's came into force.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Who wrote Vande Mataram, the national song?",
+   "p": "India has a national anthem and a national song, as well as a flag. Why might a country choose songs as symbols?",
    "opts": [
-    "Rabindranath Tagore",
-    "Bankim Chandra Chattopadhyay",
-    "Mahatma Gandhi",
-    "Pingali Venkayya"
+    "Singing together lets many people share one feeling at the same time",
+    "Songs are cheaper than flags",
+    "Flags cannot be seen at night",
+    "Every country must have exactly two songs"
    ],
-   "a": 1,
-   "why": "Bankim Chandra Chattopadhyay wrote Vande Mataram and put it in his novel Anandamath in 1882. Tagore wrote the anthem.",
+   "a": 0,
+   "why": "A song is shared in a way a picture is not: everyone sings the same words at the same moment, which makes people feel part of one country.",
    "outcome": 2
   },
   {
@@ -1538,28 +1538,28 @@
   },
   {
    "t": "mcq",
-   "p": "What did scientists find at Sariska Tiger Reserve in 2005?",
+   "p": "A forest's records count tigers from their footprints. Then careful searches find no tigers there at all. What most likely went wrong?",
    "opts": [
-    "Twice as many tigers as expected",
-    "No tigers at all, though the records still counted some",
-    "A new kind of tiger",
-    "Tigers with no stripes"
+    "Old or repeated footprints were counted as tigers, though nobody saw the tigers",
+    "Tigers are invisible",
+    "The tigers changed their stripes",
+    "Footprints always give the right number"
    ],
-   "a": 1,
-   "why": "Searches in 2004 and 2005 found no tigers at Sariska, though the old footprint records still showed tigers. This led India to change how it counts.",
+   "a": 0,
+   "why": "Footprints change with the ground and the step, and one tiger can leave many. Counting prints without seeing the animals let tigers vanish without anyone knowing. This happened at Sariska, and India changed how it counts.",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "A quiz book says hockey is India's official national game. What did the sports ministry say in 2012?",
+   "p": "A quiz book says hockey is India's official national game. How could you check whether this is true?",
    "opts": [
-    "Hockey is the national game",
-    "Cricket is the national game",
-    "No sport has been declared the national game",
-    "Kabaddi is the national game"
+    "Believe it, because it is printed",
+    "Ask the government, which keeps the record of what is official",
+    "Count which sport has the most players",
+    "Ask a friend who likes hockey"
    ],
-   "a": 2,
-   "why": "In 2012, replying to a schoolgirl's question under the Right to Information law, the sports ministry said no sport has been declared India's national game.",
+   "a": 1,
+   "why": "A printed claim can be wrong. Only the official record can say what has been declared. When a schoolgirl asked the government, the answer was that no sport has been declared the national game.",
    "outcome": 5
   },
   {
@@ -1622,12 +1622,12 @@
     },
     {
      "t": "fill",
-     "p": "The Ashoka Chakra in the middle of the flag has ____ spokes.",
+     "p": "The Ashoka Chakra has 24 spokes, spaced evenly round the wheel. If you fold it in half along a spoke, each half has ____ spokes.",
      "a": [
-      "24",
-      "twenty-four"
+      "12",
+      "twelve"
      ],
-     "why": "24 spokes. The folding activity shows why: half, three, half, half gives 2 × 3 × 2 × 2 = 24.",
+     "why": "24 shared equally between two halves is 12. The folding activity shows the same idea: half, three, half, half gives 2 × 3 × 2 × 2 = 24.",
      "how": "a1"
     },
     {
@@ -1638,15 +1638,15 @@
     },
     {
      "t": "mcq",
-     "p": "Who wrote India's national anthem, Jana Gana Mana?",
+     "p": "When India's national anthem plays, everyone stands still together. Why do people do this?",
      "opts": [
-      "Bankim Chandra Chattopadhyay",
-      "Rabindranath Tagore",
-      "Pingali Venkayya",
-      "Mahatma Gandhi"
+      "To show respect for the country, all together",
+      "Because sitting is never allowed",
+      "So the music sounds louder",
+      "To be ready to leave"
      ],
-     "a": 1,
-     "why": "Rabindranath Tagore wrote Jana Gana Mana in Bengali. Bankim Chandra wrote Vande Mataram, the national song. Pingali Venkayya designed the flag that ours grew from."
+     "a": 0,
+     "why": "Standing together is a way of showing respect that everyone can share. The anthem is a symbol, and how we behave towards it shows what it means to us."
     },
     {
      "t": "match",
@@ -1815,18 +1815,20 @@
     },
     {
      "t": "order",
-     "p": "Put the story of India's flag in order.",
+     "p": "Put these steps for drawing India's flag in order.",
      "items": [
-      "The Ashoka Chakra replaces the spinning wheel",
-      "Pingali Venkayya shows Gandhi a red and green flag",
-      "Congress adopts a saffron, white and green flag with a spinning wheel"
+      "Colour saffron at the top, white in the middle, green at the bottom",
+      "Draw the blue wheel in the centre of the white band",
+      "Draw a rectangle 3 parts long and 2 parts high",
+      "Divide the height into three equal bands"
      ],
      "a": [
-      "Pingali Venkayya shows Gandhi a red and green flag",
-      "Congress adopts a saffron, white and green flag with a spinning wheel",
-      "The Ashoka Chakra replaces the spinning wheel"
+      "Draw a rectangle 3 parts long and 2 parts high",
+      "Divide the height into three equal bands",
+      "Colour saffron at the top, white in the middle, green at the bottom",
+      "Draw the blue wheel in the centre of the white band"
      ],
-     "why": "1921 at Vijayawada, then 1931, then 22 July 1947."
+     "why": "The shape comes first, then the bands, then the colours. The wheel goes last, because it sits on the white band."
     },
     {
      "t": "write",
@@ -1837,29 +1839,30 @@
     },
     {
      "t": "truefalse",
-     "p": "Vande Mataram is India's national anthem.",
+     "p": "Two footprints of different widths in the ground must have been made by two different tigers.",
      "a": false,
-     "why": "False. Vande Mataram is the national song, written by Bankim Chandra Chattopadhyay. The national anthem is Jana Gana Mana. Both are given equal honour."
+     "why": "False. One fist pressed into atta can leave prints of different widths, depending on the ground and how hard it presses. So one tiger can leave prints of different sizes."
     },
     {
      "t": "mcq",
-     "p": "Why did India's leaders start the Constitution on 26 January 1950, two months after it was agreed?",
+     "p": "Why might a country choose a special old date to start something new, like its Constitution?",
      "opts": [
       "The printing was late",
-      "To honour 26 January 1930, when the freedom movement asked for complete independence",
-      "Because it was a holiday",
-      "Because Gandhi was born that day"
+      "To honour an earlier day that meant a lot to people",
+      "Because any date is a holiday",
+      "Because new things must start in January"
      ],
      "a": 1,
-     "why": "On 26 January 1930, the freedom movement asked for Purna Swaraj, complete independence. Starting the Constitution on the same date honoured it. Gandhi was born on 2 October."
+     "why": "Choosing an old date links the new start to an earlier moment people care about. India started its Constitution on 26 January to honour the day in 1930 when the freedom movement asked for complete independence."
     },
     {
      "t": "fill",
-     "p": "The words under India's emblem, Satyamev Jayate, mean '____ alone wins'.",
+     "p": "A motto is a short saying that tells what a group or a country ____ in.",
      "a": [
-      "truth"
+      "believes",
+      "believe"
      ],
-     "why": "Satyamev Jayate means 'truth alone wins'. It comes from the Mundaka Upanishad."
+     "why": "India's motto, Satyamev Jayate, means 'truth alone wins'. It says what the country believes in."
     },
     {
      "t": "mcq",
@@ -2050,11 +2053,12 @@
     },
     {
      "t": "fill",
-     "p": "India's flag was first designed by ____ ____, a teacher from Andhra Pradesh.",
+     "p": "India's flag is always 3 parts long for every ____ parts high.",
      "a": [
-      "Pingali Venkayya"
+      "2",
+      "two"
      ],
-     "why": "Pingali Venkayya showed Gandhi his design in 1921. Our flag grew from it."
+     "why": "The flag's length and height are always 3 to 2, so a flag of any size has the same shape."
     },
     {
      "t": "write",

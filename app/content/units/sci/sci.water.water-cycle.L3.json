@@ -3190,14 +3190,14 @@
   },
   {
    "t": "mcq",
-   "p": "When does the monsoon usually reach Kerala?",
+   "p": "In most of India, the big rains come from June to September. A farmer wants rain to water her young rice plants. When should she plant them?",
    "opts": [
-    "Around 1 January",
-    "Around 1 June",
-    "Around 1 October"
+    "Just before June",
+    "In January",
+    "In November"
    ],
-   "a": 1,
-   "why": "The monsoon usually arrives in Kerala around the first of June, and covers all of India by about 8 July. October is when it is usually leaving.",
+   "a": 0,
+   "why": "The monsoon usually reaches Kerala around the first of June and covers India by July. Planting just before it means the young plants get water while they grow. In January and November the monsoon is not here.",
    "outcome": 5
   },
   {

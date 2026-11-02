@@ -1818,18 +1818,18 @@
     },
     {
      "t": "order",
-     "p": "Put these parts of the story Kutti Follows the Sunshine in order.",
+     "p": "You want to find out whether the sun patch on the floor moves by itself. Put the steps in order.",
      "items": [
-      "The bright corner has moved away from the coin.",
-      "Meenakshi carries Kutti to the sofa.",
-      "Meenakshi puts a coin at the corner of the sun patch."
+      "See whether the bright corner has moved away from the coin.",
+      "Wait a while and touch nothing.",
+      "Put a coin at the corner of the sun patch."
      ],
      "a": [
-      "Meenakshi puts a coin at the corner of the sun patch.",
-      "Meenakshi carries Kutti to the sofa.",
-      "The bright corner has moved away from the coin."
+      "Put a coin at the corner of the sun patch.",
+      "Wait a while and touch nothing.",
+      "See whether the bright corner has moved away from the coin."
      ],
-     "why": "The coin marks the corner first. Then Kutti is moved away, and the corner still moves, so Kutti did not move it."
+     "why": "The coin marks where the corner starts. Waiting without touching anything means nobody moved it. Then, if the corner has moved, it moved because the Sun seems to move."
     }
    ]
   },

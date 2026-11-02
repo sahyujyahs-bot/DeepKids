@@ -391,7 +391,7 @@
           {"t": "write", "p": "In our bread test, what would you change to make it fairer? (Think about the bread, the hands and where the bags were kept.)", "lines": 3}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "Semmelweis said doctors' hands carried something that killed mothers. Other doctors said disease came from 'bad air'. What evidence did Semmelweis have? Why do you think they did not believe him?", "lines": 4},
+          {"t": "write", "p": "A doctor says doctors' hands carry something that makes mothers ill. Other doctors say illness comes from 'bad air'. What evidence would show who is right? Why might the others not believe him?", "lines": 4},
           {"t": "write", "p": "Some scientists say children who meet more germs when small get fewer allergies. Does that mean we should stop washing our hands? Explain what you think.", "lines": 3},
           {"t": "mcq", "p": "Old Indian texts describe rebuilding a nose with a flap of skin. Why did surgeons use skin from the person's own cheek or forehead?", "opts": ["It was the prettiest skin", "Skin from your own body is accepted by your body and stays alive", "It was the thickest skin", "It was easiest to see"], "a": 1}
         ]]
@@ -549,7 +549,7 @@
     {"q": "What should you do if something gets into your eye? Into your ear?", "a": "Eye: don't rub; wash with clean water; see a doctor if it stays. Ear: don't poke with fingers or anything; go to a doctor."},
     {"q": "Why should we never clean our ears with a matchstick or pin?", "a": "It can tear the eardrum and damage hearing. We clean only the outer ear with a soft cloth; earwax moves out by itself."},
     {"q": "How should we look after our teeth, and why not chew paan, gutka or tobacco?", "a": "Brush twice a day, clean the tongue and rinse after every meal. Paan, gutka and tobacco stain teeth, cause mouth wounds and can cause mouth cancer."},
-    {"q": "What did our bread test show about handwashing?", "a": "Bread touched with dirty hands grew the most mould, water-only less, and soap-washed least. Washing with soap removes many more germs than water alone."},
+    {"q": "Slices of bread are touched by dirty hands, by hands washed with water only, and by hands washed with soap. Which would grow the most mould, and what does that show about handwashing?", "a": "Bread touched with dirty hands would grow the most mould, water-only less, and soap-washed least. Washing with soap removes many more germs than water alone."},
     {"q": "Give two jobs of the skin and two ways to care for it.", "a": "It protects the inner organs from heat, cold, dust and dirt, and removes waste as sweat (and feels touch). Bathe daily with clean water, dry with a clean towel, don't use detergent or rough scrubbers."},
     {"q": "What are private parts, how do we keep them clean, and what is the safety rule?", "a": "The parts we keep covered, used to pass urine and stool. Wash them while bathing and after the toilet with clean water, then wash hands with soap. They are private: no one should touch or look at them except a parent helping or a doctor with a parent present; if anyone tries, say no and tell a trusted adult."}
   ]

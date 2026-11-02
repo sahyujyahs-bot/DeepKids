@@ -1729,14 +1729,14 @@
   },
   {
    "t": "mcq",
-   "p": "Long ago, many teachers said that when two things truly mix, each stops being itself. What did Daniel Sennert, a doctor in the 1600s, do to show this was wrong?",
+   "p": "Some people once said that when silver dissolves in a strong acid, the silver stops existing. Which result would show they were wrong?",
    "opts": [
-    "He dissolved silver in a strong acid and got the same silver back",
-    "He looked at silver particles with a microscope",
-    "He weighed the air"
+    "Getting the same silver back out of the acid",
+    "Seeing nothing in the acid",
+    "Weighing the air"
    ],
    "a": 0,
-   "why": "If the silver had stopped existing, he could not have got it back. So it must have been there all along, as tiny particles. Microscopes of his time could not show particles.",
+   "why": "If the silver had stopped existing, nobody could get it back. So it must have been there all along, as tiny particles. A doctor called Daniel Sennert did this in the 1600s.",
    "outcome": 5
   },
   {

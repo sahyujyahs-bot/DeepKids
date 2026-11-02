@@ -407,7 +407,7 @@
       },
       {
        "t": "mcq",
-       "p": "Karl Popper said a claim is scientific if…",
+       "p": "A claim is scientific if…",
        "opts": [
         "a famous person says it",
         "it could be shown wrong if it were wrong",
@@ -583,23 +583,23 @@
       },
       {
        "t": "mcq",
-       "p": "When Tharp first showed the rift valley, her colleague…",
+       "p": "A scientist shows a surprising new finding. Some people dismiss it because of who found it. What is the scientific way to judge it?",
        "opts": [
-        "gave her a prize",
-        "dismissed it as 'girl talk'",
-        "agreed straight away"
+        "agree straight away because it is new",
+        "look at the evidence and test it again",
+        "dismiss it because of who found it"
        ],
        "a": 1
       },
       {
        "t": "mcq",
-       "p": "Tu Youyou's key clue from the 1,700-year-old book was to…",
+       "p": "An old medicine book says to soak a plant in cold water, not boil it. A scientist trying to get the medicine out had failed with boiling. What might the clue tell her?",
        "opts": [
-        "boil the plant for hours",
-        "soak it in cold water",
-        "dry it in the sun"
+        "heat may destroy the useful part of the plant",
+        "the plant must be boiled for even longer",
+        "the plant must be dried in the sun"
        ],
-       "a": 1
+       "a": 0
       }
      ]
     ],
@@ -891,7 +891,7 @@
  ],
  "check": [
   {
-   "q": "What makes a claim scientific, according to Karl Popper?",
+   "q": "What makes a claim scientific?",
    "a": "It can be tested, and it could be shown wrong if it were wrong."
   },
   {
@@ -899,8 +899,8 @@
    "a": "Whatever happens he has an answer: rain means the stone worked, no rain means your heart wasn't pure."
   },
   {
-   "q": "What was the control in the salty seed test, and why did we need it?",
-   "a": "The dishes with plain water. They show what the seeds do anyway, so we know any difference comes from the salt."
+   "q": "You test whether salty water stops seeds sprouting. What should your control be, and why do you need it?",
+   "a": "Dishes of the same seeds with plain water. They show what the seeds do anyway, so you know any difference comes from the salt."
   },
   {
    "q": "Why do scientists do blind tests?",
@@ -915,8 +915,8 @@
    "a": "No: hot weather causes both. Happening together (correlation) is not the same as causing."
   },
   {
-   "q": "How did Marie Tharp help prove that continents move?",
-   "a": "She mapped the ocean floor from depth readings and found a rift valley where the sea floor is pulling apart."
+   "q": "How could a map of the ocean floor help show that continents move?",
+   "a": "If the map shows a long rift valley in the middle of the ocean where the sea floor is pulling apart, the sea floor on each side must be moving away, carrying the continents with it."
   },
   {
    "q": "What does 'chance favours the prepared mind' mean?",

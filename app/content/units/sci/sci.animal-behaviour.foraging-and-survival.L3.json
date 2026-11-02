@@ -1691,7 +1691,7 @@
   },
   {
    "t": "mcq",
-   "p": "On a newspaper, which paper caterpillars did the hunter miss most often?",
+   "p": "Newspaper strips and plain white strips are scattered on a sheet of newspaper. A hunter picks them up as fast as she can. Which strips will she most likely miss?",
    "opts": [
     "The newspaper strips",
     "The plain strips",
@@ -1699,7 +1699,7 @@
     "The hunter missed none"
    ],
    "a": 0,
-   "why": "The newspaper strips matched the background, so the hunter's eyes passed over them. If you picked 'the plain strips', look at your table again.",
+   "why": "The newspaper strips match the background, so the hunter's eyes pass over them. That is camouflage. The plain strips stand out, so they are found first.",
    "outcome": 3,
    "how": "e1"
   },
@@ -2275,14 +2275,14 @@
        "says": "The moth chose that tree. Some moths even turn round until their pattern lines up with the bark."
       }
      ],
-     "ask": "Which sister do you agree with? Can both be right? Use what scientists found about moths on bark.",
+     "ask": "Which sister do you agree with? Can both be right? Think about what a moth gets from her parents, and what she might decide for herself.",
      "lines": 5,
      "a": "A strong answer sees that both can be right. The moth's colour came from her parents and their parents, over many generations. But scientists in South Korea filmed some moths walking and turning on bark until they were better hidden, so where she rests is her choice.",
      "why": "Colour is passed down. Where and how to rest is decided by the moth. A strong answer separates the two."
     },
     {
      "t": "mcq",
-     "p": "Hannah Rowland and her team put small pastry caterpillars on branches for wild birds to find. Which caterpillars were eaten least?",
+     "p": "Sunlight comes from above, so the top of a caterpillar is lit and its belly is in shadow. Pastry caterpillars are put on branches for wild birds to find. Which will the birds eat least?",
      "opts": [
       "Ones darker on top and paler below",
       "Ones paler on top and darker below",
@@ -2290,7 +2290,7 @@
       "All were eaten the same"
      ],
      "a": 0,
-     "why": "The countershaded caterpillars, darker on top and paler below, looked flatter and were harder to find. This was a real test, like your paper caterpillars, but with wild birds as the hunters."
+     "why": "Darker on top and paler below cancels out the light and shadow, so the caterpillar looks flat and is harder to spot. This is called countershading. When scientists tried this with wild birds, these caterpillars were eaten least."
     },
     {
      "t": "mcq",

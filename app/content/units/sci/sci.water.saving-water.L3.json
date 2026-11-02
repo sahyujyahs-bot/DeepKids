@@ -2046,15 +2046,15 @@
   },
   {
    "t": "mcq",
-   "p": "In 1892, Altona had far less cholera than Hamburg, next door. What was different?",
+   "p": "Two towns stand side by side, with the same air and the same ground. One town filters its river water through sand, and the other does not. The filtering town has far less cholera. What does this show?",
    "opts": [
-    "Altona had cleaner air",
-    "Altona filtered its river water through sand",
-    "Altona had no river",
-    "Altona's people were stronger"
+    "Cholera spreads through the air",
+    "Cholera travels in water, and filtering stops much of it",
+    "The towns had different weather",
+    "The people in one town were stronger"
    ],
    "a": 1,
-   "why": "Both towns had the same air and ground. Altona's water passed through slow sand filters, and Hamburg's did not. This showed cholera travels in water.",
+   "why": "The air and the ground were the same, so the big difference was the water. That makes it like a natural fair test.",
    "outcome": 6
   },
   {
@@ -2562,7 +2562,7 @@
     },
     {
      "t": "label",
-     "p": "Label what each step of Kavya's Two-Step Water Cleaner removes.",
+     "p": "A home water cleaner has two steps: phitkari and settling, then a sand filter. Label what each step removes.",
      "a": [
       "Phitkari and settling: most of the mud, as flocs",
       "Sand filter: flocs that floated up and finer bits",

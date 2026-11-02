@@ -1575,14 +1575,14 @@
     },
     {
      "t": "mcq",
-     "p": "In 1862, Lord Kelvin said the Earth was much younger than it is. What did he not know about?",
+     "p": "A scientist works out the Earth's age from how fast it has cooled. Later, people find that rocks inside the Earth make their own heat. What does this mean for his answer?",
      "opts": [
-      "Radioactive rock, which heats the Earth from inside",
-      "That the Earth is round",
-      "That the Sun gives light"
+      "The Earth cooled more slowly, so it is older than he worked out",
+      "The Earth must be younger",
+      "Nothing changes"
      ],
      "a": 0,
-     "why": "Radioactivity was found only in 1896. It heats the Earth, so the Earth cooled much more slowly than Kelvin worked out. People already knew the Earth was round."
+     "why": "Extra heat from inside means the Earth took much longer to cool. So it is older. This happened to Lord Kelvin, who did not know about radioactive rock."
     },
     {
      "t": "perspective",

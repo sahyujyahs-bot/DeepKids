@@ -638,9 +638,9 @@
      [
       {
        "t": "write",
-       "p": "Pick a side. In the story, Kavya meets a visitor with horns and claws. Divya says: 'Horns and claws are scary. Kavya was right to be scared at first.' Meera says: 'You cannot tell what someone is like from how they look. Kavya should have asked first.' Who do you agree with? Give a reason. Then say what the other girl would answer back.",
+       "p": "Pick a side. A child meets a visitor with horns and claws. Divya says: 'Horns and claws are scary. It is right to be scared at first.' Meera says: 'You cannot tell what someone is like from how they look. Ask first.' Who do you agree with? Give a reason. Then say what the other girl would answer back.",
        "lines": 3,
-       "a": "A strong answer picks a side and gives a reason (being careful keeps you safe, or the visitor was kind and scared too). Then it answers back fairly from the other side. Both views have sense in them."
+       "a": "A strong answer picks a side and gives a reason (being careful keeps you safe, or someone who looks scary may be kind and scared too). Then it answers back fairly from the other side. Both views have sense in them."
       }
      ]
     ],
@@ -1047,12 +1047,12 @@
    "a": "Every person's voice sounds different, so I knew them by their voices."
   },
   {
-   "q": "How did Ullas Karanth tell one tiger from another?",
+   "q": "Camera traps in a forest take photos of tigers. How could you tell one tiger from another in the photos?",
    "a": "From camera photos. No two tigers have the same stripes."
   },
   {
-   "q": "In the story, why was the visitor's hand shaking? What does that tell you?",
-   "a": "He was scared too. Someone who looks scary can be kind and scared inside, so you cannot tell what someone is like just from how they look."
+   "q": "Someone who looks scary to you has a shaking hand. What might that tell you about them? What does it tell you about judging people by how they look?",
+   "a": "They may be scared too. Someone who looks scary can be kind and scared inside, so you cannot tell what someone is like just from how they look."
   }
  ],
  "story": {

@@ -649,21 +649,21 @@
      [
       {
        "t": "mcq",
-       "p": "Hugh Bennett said the Dust Bowl was caused mainly by…",
+       "p": "Farmers plough up grassland and leave the soil bare. Then a long drought comes, with strong winds. What happens to the soil?",
        "opts": [
-        "ploughing up grassland and leaving soil bare in a drought",
-        "earthquakes",
-        "too many trees"
+        "It dries and blows away as dust",
+        "It turns into rock",
+        "Trees grow on it by themselves"
        ],
        "a": 0
       },
       {
        "t": "mcq",
-       "p": "Sri Lanka banned chemical fertilisers suddenly in 2021. What happened?",
+       "p": "A country suddenly stops all farmers from using chemical fertilisers, with no time to switch to other ways of feeding the soil. What is most likely to happen to harvests at first?",
        "opts": [
-        "Harvests of rice and tea fell sharply and the ban was soon reversed",
-        "Harvests doubled",
-        "Nothing changed"
+        "Harvests fall, because the crops get less food from the soil",
+        "Harvests double",
+        "Nothing changes"
        ],
        "a": 0
       },
@@ -1116,12 +1116,12 @@
    "a": "For example: they hold soil, feed springs and rivers, cool the air, store carbon, and are home to animals and forest people."
   },
   {
-   "q": "What did Eunice Foote's experiment show?",
-   "a": "That air with carbon dioxide heats up more in sunlight: the greenhouse effect."
+   "q": "Two jars stand in the sunlight. One holds ordinary air and one holds air with extra carbon dioxide. Which heats up more, and what does that tell us about the Earth?",
+   "a": "The jar with carbon dioxide heats up more. So more carbon dioxide in the air makes the Earth warmer: the greenhouse effect. Eunice Foote showed this in 1856."
   },
   {
-   "q": "Why does the Amur falcon show that nature has no borders?",
-   "a": "It nests in north-east Asia, rests in Nagaland and winters in Africa, depending on habitats in many countries."
+   "q": "A bird nests in one country, rests in a second and spends winter in a third. Why does protecting it need many countries?",
+   "a": "It needs safe places all along its route. If one country harms its stopping place, the bird suffers everywhere. The Amur falcon, which rests in Nagaland, is like this: nature has no borders."
   },
   {
    "q": "What does Vasudhaiva Kutumbakam mean?",

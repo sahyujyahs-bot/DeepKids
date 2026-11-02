@@ -475,7 +475,7 @@
         ]],
         ["B. Spoiling or not?", [
           {"t": "sort", "p": "Is each change caused by microbes?", "items": ["Green fuzz on bread", "Cut apple turning brown in 10 minutes", "Milk turning into curd", "Ice cream melting", "Idli batter rising", "Dal smelling sour after 2 days outside"], "cats": ["Caused by microbes", "Not caused by microbes"]},
-          {"t": "write", "p": "How did our apple test show that browning is not caused by microbes?", "lines": 2}
+          {"t": "write", "p": "How could you test whether a cut apple turns brown because of microbes or because of the air?", "lines": 2}
         ]],
         ["C. Plan it", [
           {"t": "table", "p": "Plan how to keep these foods safe in summer without a fridge.", "cols": ["Food", "What could spoil it", "How I would keep it safe"], "rows": 4, "prefill": ["Boiled milk", "Cooked rice", "Raw mangoes", "Fresh coriander"]},

@@ -2248,7 +2248,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the Fan Test in order.",
+     "p": "Put these steps of a fair test of how far things blow in front of a fan in order.",
      "a": [
       "Lay a paper track in front of the fan and mark it every 25 cm",
       "Guess which will travel farthest and say why",
@@ -2279,7 +2279,7 @@
     {
      "t": "perspective",
      "p": "Two friends in Hyderabad argue about spores and seeds.",
-     "a": "A strong answer uses the Fan Test: spores travelled far, seeds stayed near. It sees that each way has a cost: spores have no food, seeds travel less far. It agrees with one friend and gives one fair point from the other.",
+     "a": "A strong answer uses how far things blow: tiny spores travel far, heavy seeds stay near. It sees that each way has a cost: spores have no food, seeds travel less far. It agrees with one friend and gives one fair point from the other.",
      "why": "There is no single winner. Each way of making new plants suits a different kind of life.",
      "views": [
       {
@@ -2291,7 +2291,7 @@
        "says": "Spores are better. They are so light that the wind carries them far, and a fern makes millions of them."
       }
      ],
-     "ask": "Which friend do you agree with? Use what you saw in the Fan Test. Then say one thing the other friend has right.",
+     "ask": "Which friend do you agree with? Use what you know about how far light and heavy things blow in the wind. Then say one thing the other friend has right.",
      "lines": 5,
      "how": "e1"
     },
@@ -2604,18 +2604,20 @@
     },
     {
      "t": "write",
-     "p": "Linnaeus put ferns, mosses, algae and fungi into one group because none of them has flowers. Using what Hofmeister found, explain why 'has no flowers' is a poor way to make a group.",
-     "a": "No flowers only says what the plants lack. Hofmeister showed that mosses and ferns follow the same pattern of life as conifers. Conifers, ferns and mosses are relatives, but fungi and algae are far away on the tree. A good group needs a shared ancestor, not a shared missing part.",
+     "p": "Long ago, ferns, mosses, algae and fungi were put into one group because none of them has flowers. Why is 'has no flowers' a poor way to make a group?",
+     "a": "No flowers only says what the plants lack. Mosses and ferns turned out to be relatives of conifers, but fungi and algae are far away on the tree of life. A good group needs a shared ancestor, not a shared missing part.",
      "why": "A strong answer says that a group made from something missing can mix unrelated living beings, and that a shared ancestor is what makes a real group.",
      "lines": 4
     },
     {
      "t": "fill",
-     "p": "Much of the coal in Jharkhand and Odisha formed from ancient forests that included a seed plant without flowers called ____.",
+     "p": "Much of India's coal formed from ancient ____ that were buried and squashed for millions of years.",
      "a": [
-      "Glossopteris"
+      "forests",
+      "plants",
+      "trees"
      ],
-     "why": "Glossopteris had tongue-shaped leaves and lived about 250 to 300 million years ago. Their forests helped form much of India's coal."
+     "why": "Coal is the remains of plants that lived long ago, such as forests of Glossopteris, a seed plant without flowers. Buried deep and squashed for millions of years, they slowly turned into coal."
     },
     {
      "t": "sort",
@@ -2776,7 +2778,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Fan Test, haldi travelled far and rajma dropped close. What does this tell us about fern spores?",
+   "p": "Fine haldi powder blown by a fan travels far. Heavy rajma drops close. Fern spores are as tiny and light as haldi grains. What does this tell us about fern spores?",
    "opts": [
     "Being tiny and light, spores can be carried far by gentle wind",
     "Spores are heavier than seeds",

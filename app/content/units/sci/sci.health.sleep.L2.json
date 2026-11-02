@@ -1296,14 +1296,14 @@
   },
   {
    "t": "mcq",
-   "p": "An upside-down jellyfish has no brain. What did scientists find in 2017?",
+   "p": "An upside-down jellyfish has no brain. At night it pulses more slowly and is slower to respond. Kept awake all night, it is sluggish the next day. What does this suggest?",
    "opts": [
     "The jellyfish never rests",
-    "The jellyfish has a sleep-like rest every night",
+    "Something like sleep does not need a brain",
     "The jellyfish sleeps only in winter"
    ],
    "a": 1,
-   "why": "At night the jellyfish pulsed more slowly and were slower to respond. Kept awake all night, they were sleepy the next day. So sleep does not need a brain.",
+   "why": "Slowing down at night, responding slowly, and being sleepy after a night kept awake are all signs of sleep. So a sleep-like rest does not need a brain.",
    "outcome": 4
   },
   {
@@ -1449,7 +1449,7 @@
     },
     {
      "t": "count",
-     "p": "In the story, Nila slept for about 7 hours. A girl of 7 needs at least 9 hours. How many hours short was she?",
+     "p": "A girl of 7 slept for about 7 hours. A child of 7 needs at least 9 hours. How many hours short was she?",
      "a": "2 hours short.",
      "why": "Count on from 7 to 9: 8, 9. That is 2 more hours. 9 take away 7 is 2."
     }
@@ -1487,10 +1487,10 @@
     },
     {
      "t": "write",
-     "p": "Upside-down jellyfish have no brain. Scientists say they still have a sleep-like rest. What did the scientists see that made them say so? A grown-up can write your answer.",
+     "p": "Upside-down jellyfish have no brain. How could scientists find out whether they still have a sleep-like rest? Name two things they could watch for. A grown-up can write your answer.",
      "lines": 3,
-     "a": "At night they pulsed more slowly. They were slower to respond when moved. After a night kept awake, they were sleepy the next day.",
-     "why": "A strong answer gives at least two of the three tests. Each test shows one sign of sleep."
+     "a": "Whether they pulse more slowly at night. Whether they are slower to respond when moved. Whether, after a night kept awake, they are sleepy the next day.",
+     "why": "A strong answer gives at least two signs. Each one is a sign of sleep that can be watched without looking at a brain."
     },
     {
      "t": "draw",

@@ -1245,7 +1245,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Paper Moon test, where a torch shone on different sheets in the dark. Which sheet let you see the most pictures?",
+     "p": "A torch shines on different sheets in the dark, and each sheet bounces light onto a card of pictures. Which sheet will let you see the most pictures?",
      "opts": [
       "White paper",
       "Black cloth",
@@ -1416,7 +1416,7 @@
     },
     {
      "t": "perspective",
-     "p": "In a power cut, Kavya's Amma, her Paati and her friend Farhan, aged 8, talk about what darkness is.",
+     "p": "In a power cut, Kavya's Amma, her Paati and her friend Farhan, aged 8, talk about what darkness is. When you open the door of a dark room onto a lit hall, light comes into the room, but no dark goes out into the hall.",
      "views": [
       {
        "who": "Amma",
@@ -1431,10 +1431,10 @@
        "says": "Darkness comes in when the lights go off, like water flowing in."
       }
      ],
-     "ask": "Which idea fits the Door Test best? Give a reason. Then say one thing about another idea that makes sense.",
+     "ask": "Which idea fits what happens at the door best? Give a reason. Then say one thing about another idea that makes sense.",
      "lines": 3,
-     "a": "Amma's idea fits the door test best: light came in, and no dark ever came out. Paati is right that we really do see the dark. Farhan's idea does not fit, because nothing came in when the lights went off.",
-     "why": "A strong answer uses the door test as evidence. People in India argued about this long ago: some schools said darkness is only missing light, and Jain thinkers counted it as something real."
+     "a": "Amma's idea fits the door best: light came in, and no dark ever came out. Paati is right that we really do see the dark. Farhan's idea does not fit, because nothing came in when the lights went off.",
+     "why": "A strong answer uses the door as evidence. People in India argued about this long ago: some schools said darkness is only missing light, and Jain thinkers counted it as something real."
     },
     {
      "t": "write",
@@ -1445,7 +1445,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the box from the Blackest Black test. Colour the hole and the black paper. Make the darker one darker.",
+     "p": "Draw a shut box with a small hole in its side, and a piece of black paper next to it. Colour the hole and the black paper. Make the darker one darker.",
      "a": "The hole is coloured darker than the black paper.",
      "why": "Black paper sends back a little light. Almost no light comes back out of the hole, so it looks darkest.",
      "how": "e2"

@@ -1849,26 +1849,26 @@
   },
   {
    "t": "mcq",
-   "p": "What did the Maya track very carefully?",
+   "p": "Venus comes back to the same place in the sky about every 584 days. Why could people who watched it carefully for many years predict where it would be?",
    "opts": [
-    "The planet Venus",
-    "Halley's Comet only",
-    "The Earth's shadow on Mars"
+    "Its movement repeats in a steady cycle",
+    "Venus never moves",
+    "Venus shines only once"
    ],
    "a": 0,
-   "why": "The Maya Dresden Codex has a table of Venus, which comes back every 584 days.",
+   "why": "Anything that repeats in a steady cycle can be predicted once you have counted the cycle. Long records let sky-watchers count it.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "What did Chinese astronomers record in 1054?",
+   "p": "A bright new star suddenly appears in the sky, bright enough to see by day. It fades over months. Today a glowing cloud of gas is in that spot. What was the new star most likely?",
    "opts": [
-    "A new 'guest star', which was an exploding star",
-    "The first telescope",
-    "The Earth going round the Sun"
+    "A star exploding",
+    "A new planet being born",
+    "The Moon passing by"
    ],
    "a": 0,
-   "why": "They recorded a guest star bright enough to see by day. It was an exploding star, and its leftover cloud is the Crab Nebula.",
+   "why": "An exploding star suddenly shines very brightly, then fades, and leaves a spreading cloud of gas behind. Old written records of such 'guest stars' help astronomers today.",
    "outcome": 3
   },
   {
@@ -1909,14 +1909,14 @@
   },
   {
    "t": "mcq",
-   "p": "Karthigai Deepam is lit on a full Moon. Which star group is the Moon in that night?",
+   "p": "Many Indian months are named after the star group where the full Moon sits that month. Why is the full Moon in a different star group each month?",
    "opts": [
-    "Krittika, the Pleiades",
-    "The Great Bear",
-    "Orion's belt"
+    "The Moon moves along its path among the stars as it goes round the Earth",
+    "The stars move to new places every month",
+    "The Moon jumps about at random"
    ],
    "a": 0,
-   "why": "The month Karthigai is named after Krittika. On Karthigai Deepam, the full Moon sits in Krittika.",
+   "why": "The Moon goes round the Earth about once a month, so it slowly moves past the star groups. Each full Moon happens a bit further along, in or near a different star group.",
    "outcome": 6
   }
  ],
@@ -2220,9 +2220,9 @@
     },
     {
      "t": "truefalse",
-     "p": "The Maya learned how to count Venus from the Babylonians.",
-     "a": false,
-     "why": "False. The Maya lived across the ocean, in what is now Mexico and Central America, with no contact with Asia. They found the Venus cycle by watching it themselves."
+     "p": "Two peoples living on opposite sides of the world, who never met, could both find the same repeating pattern in the sky.",
+     "a": true,
+     "why": "True. The sky is the same for everyone. Anyone who watches carefully and keeps records for long enough can find its repeats, like the cycle of Venus."
     },
     {
      "t": "mcq",
@@ -2336,9 +2336,9 @@
     },
     {
      "t": "truefalse",
-     "p": "We have 60 minutes in an hour because the Babylonians counted in sixties.",
+     "p": "Counting in sixties is handy for time, because 60 can be shared out evenly into halves, thirds, quarters, fifths and sixths.",
      "a": true,
-     "why": "True. Babylonian astronomers used sixties, and later Greek and Arab astronomers kept them. Why the Babylonians chose 60 is still not known for sure."
+     "why": "True. 60 divides evenly by 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30. That makes it easy to split an hour into equal parts, which is one reason sky-watchers liked it."
     },
     {
      "t": "mcq",
@@ -2445,13 +2445,14 @@
     },
     {
      "t": "fill",
-     "p": "Indian Hindu calendars add an extra month now and then to stay with the seasons. It is called adhika ____.",
+     "p": "Twelve Moon months are about 11 days shorter than a year. To stay with the seasons, Indian calendars add one extra ____ every two and a half to three years.",
      "a": [
+      "month",
+      "moon month",
       "masa",
-      "maasa",
-      "masam"
+      "maasa"
      ],
-     "why": "Adhika masa means 'extra month'. It is added about every two and a half to three years."
+     "why": "Eleven days a year add up to about a whole month in under three years. Adding an extra month pulls the calendar back in step with the Sun and the seasons."
     },
     {
      "t": "mcq",

@@ -633,13 +633,13 @@
      [
       {
        "t": "mcq",
-       "p": "Who taught people in Boston about smallpox inoculation in 1721?",
+       "p": "Long before vaccines, some healers put a tiny bit of smallpox into a scratch on a healthy person. Why did this protect them?",
        "opts": [
-        "Edward Jenner",
-        "Onesimus, an enslaved African man",
-        "Louis Pasteur"
+        "A mild illness taught the body to fight smallpox the next time",
+        "It made smallpox disappear from the air",
+        "It stopped people travelling"
        ],
-       "a": 1
+       "a": 0
       },
       {
        "t": "match",
@@ -1158,8 +1158,8 @@
    "a": "Colds are caused by viruses, and antibiotics only work on bacteria. Using antibiotics when they are not needed helps resistant bacteria spread."
   },
   {
-   "q": "Who else, apart from Jenner, should be remembered for protecting people from smallpox?",
-   "a": "The tikadars of India, Onesimus, Lady Mary Wortley Montagu, the vaccinators who ended smallpox."
+   "q": "Why is it unfair to give all the credit for a big discovery, like protecting people from smallpox, to one person?",
+   "a": "Many people usually help: those who tried the idea first, those who shared what they knew, and those who carried it to everyone. For smallpox, healers in India and Africa, and the vaccinators who ended it, all played a part."
   }
  ]
 }

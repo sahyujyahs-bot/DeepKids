@@ -3973,14 +3973,14 @@
   },
   {
    "t": "mcq",
-   "p": "Jagadish Chandra Bose built the crescograph, a machine that made a plant's growth look thousands of times bigger. What did it show?",
+   "p": "A machine makes a plant's growth look thousands of times bigger. You touch the plant, then warm it. What would you most likely see?",
    "opts": [
-    "That plants never grow at night",
-    "That a plant's growth speeds up and slows down from minute to minute",
-    "That plants grow only when someone is watching"
+    "The growth never changes",
+    "The growth speeds up or slows down within minutes",
+    "The plant grows only when someone is watching"
    ],
    "a": 1,
-   "why": "Bose saw a plant's growth change within minutes, for example when they were touched or warmed. Plants respond to what is around them all the time. Picking 'never at night' is wrong: plants grow at night too.",
+   "why": "Plants respond to what is around them all the time, so their growth changes within minutes when they are touched or warmed. Jagadish Chandra Bose saw this with his crescograph.",
    "outcome": 6
   }
  ],

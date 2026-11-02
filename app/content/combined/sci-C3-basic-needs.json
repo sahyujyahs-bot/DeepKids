@@ -728,11 +728,11 @@
       },
       {
        "t": "mcq",
-       "p": "Scientists asked people in 123 countries about their needs. What did they find?",
+       "p": "Do people in different countries need the same things?",
        "opts": [
-        "People everywhere share these needs, but not always in the same order",
+        "People everywhere share the same basic needs, but not always in the same order",
         "Nobody needs friends",
-        "Needs are different in every country"
+        "Needs are completely different in every country"
        ],
        "a": 0
       },

@@ -620,7 +620,7 @@
       },
       {
        "t": "mcq",
-       "p": "Richard Lewontin compared people from different parts of the world. Where did he find most of the differences between people?",
+       "p": "If you compare people from different parts of the world, where would you find most of the differences between people?",
        "opts": [
         "inside each group of people",
         "only between countries",
@@ -640,9 +640,10 @@
      [
       {
        "t": "fill",
-       "p": "The fingerprint sorting system is named after Edward Henry, but much of the work was done by Azizul Haque and Hem Chandra ____.",
+       "p": "Fingerprints can be sorted into groups by their patterns: loops, whorls and ____.",
        "a": [
-        "Bose"
+        "arches",
+        "arch"
        ]
       },
       {
@@ -1153,8 +1154,8 @@
    "a": "Teddy sat on the other side of the table. Each person sees from the place where they are."
   },
   {
-   "q": "What did John Marzluff find out about crows?",
-   "a": "Crows recognise individual human faces. They scolded the mask worn by people who had caught them, and other crows learned to do the same."
+   "q": "How could you test whether crows can recognise one person's face?",
+   "a": "Have people wear one mask while they catch crows and let them go, and wear a different mask while just walking by. Later, walk past in each mask. If the crows scold only the catching mask, even when worn by someone else, they recognise faces."
   }
  ]
 }

@@ -1468,14 +1468,14 @@
     },
     {
      "t": "mcq",
-     "p": "The tiny energy parts in your cells, called mitochondria, use oxygen. Where did scientists find they came from?",
+     "p": "The tiny energy parts in your cells, called mitochondria, use oxygen. They have their own DNA, and they split in two the way bacteria do. What does this suggest?",
      "opts": [
-      "Tiny bacteria that moved into bigger cells long ago",
-      "From eating fish",
-      "From the air"
+      "They were once tiny bacteria that moved into bigger cells long ago",
+      "They came from eating fish",
+      "They came from the air"
      ],
      "a": 0,
-     "why": "Lynn Margulis argued in 1967 that mitochondria came from bacteria living inside bigger cells. DNA tests later showed she was right. So the parts of your cells that use oxygen were once bacteria."
+     "why": "Things that have their own DNA and split like bacteria were probably once bacteria. Scientists think these bacteria moved into bigger cells long ago and stayed. DNA tests support this. So the parts of your cells that use oxygen were once bacteria."
     },
     {
      "t": "write",

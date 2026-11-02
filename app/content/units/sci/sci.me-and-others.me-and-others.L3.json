@@ -1437,26 +1437,26 @@
   },
   {
    "t": "mcq",
-   "p": "Before Martin Hughes's hiding game in 1975, what did many people think about children under seven?",
+   "p": "A test asks small children to pick a photo of what a doll sees across a model of three mountains. Many get it wrong. What is the best conclusion?",
    "opts": [
-    "They could not picture what another person sees",
-    "They could not play hiding games",
-    "They could see more than grown-ups"
+    "The children cannot ever picture what another person sees",
+    "The test may be strange and hard, so it may not show what they can really do",
+    "Children see more than grown-ups"
    ],
-   "a": 0,
-   "why": "Jean Piaget and Bärbel Inhelder's three mountains task suggested young children saw only their own view. Hughes's game, which made sense to children, showed most children of three and four could do it.",
+   "a": 1,
+   "why": "A strange task can hide what a child understands. When children play a hiding game that makes sense to them, most three- and four-year-olds can picture what someone else sees.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "In Hughes's game, children hid a boy doll from policeman dolls behind walls. What did most children aged three and four do?",
+   "p": "A four-year-old plays a game: hide a toy boy behind toy walls so that two toy watchmen cannot see him. If the child can picture what each watchman sees, what will they do?",
    "opts": [
-    "Hid the boy where the policemen could see him",
-    "Hid the boy where neither policeman could see him",
-    "Refused to play"
+    "Hide the boy where the watchmen can see him",
+    "Hide the boy where neither watchman can see him",
+    "Refuse to play"
    ],
    "a": 1,
-   "why": "About 9 children in 10 hid the doll in the right place. The task made sense to them, so they showed what they could really do.",
+   "why": "To hide well, you must picture what each watchman can see from where he stands. In real tests, about 9 children in 10 of this age did it, because the game made sense to them.",
    "outcome": 3,
    "how": "a1"
   },
@@ -1488,14 +1488,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Jigsaw Lime Drink activity, why did the family need everyone's card?",
+   "p": "A family makes a drink, but each person holds a card with only one step of the recipe. Why does everyone have to take part?",
    "opts": [
-    "Each card held a different part of the recipe",
-    "The cards were all the same",
-    "Only the grown-up's card mattered"
+    "Each card holds a different part of the recipe",
+    "The cards are all the same",
+    "Only the grown-up's card matters"
    ],
    "a": 0,
-   "why": "Each person held one part, so the drink could only be made together. This is the idea of the jigsaw classroom.",
+   "why": "Each person holds one part, so the drink can only be made together. This is the idea of the jigsaw classroom: when everyone's part is needed, everyone matters.",
    "outcome": 5,
    "how": "a3"
   }
@@ -1677,9 +1677,9 @@
     },
     {
      "t": "write",
-     "p": "In the story 'The Monster Under Meenu's Cot', Kombu and Meenu were each scared of the other. Write why each one felt that way, using what each could see.",
+     "p": "A child lies in bed and sees big shadows on the wall. A small creature on the floor sees a huge child and hears a voice like thunder. Each is scared of the other. Explain why, using what each can see from their own place.",
      "lines": 4,
-     "a": "Meenu saw big horn shadows on the wall from her cot. Kombu, on the floor, saw a huge girl and heard a voice like thunder.",
+     "a": "From the bed, the child sees only scary shadows, not what makes them. From the floor, the small creature sees a giant and hears a loud voice. Each one is scared by how the other looks from where they are.",
      "why": "A strong answer links each fear to what each one could see or hear from their own place."
     },
     {
@@ -1709,14 +1709,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi sits at the side of a table, between Kavya and her mother. Which seat gives the hardest drawing to guess for Kavya?",
+     "p": "A banana and a lime are on a table. Kavya draws them as someone in another seat would see them. Which seat is often hardest to draw for?",
      "opts": [
       "Her own seat",
       "The seat opposite",
-      "The side seat"
+      "A seat at the side"
      ],
      "a": 2,
-     "why": "From the side, things line up in a new way: one can now be in front of another. Many children find the side view hardest. Your own result may differ.",
+     "why": "From the side, things line up in a new way: one can now be in front of another. From opposite, left and right just swap. Many children find the side view hardest. Your own result may differ.",
      "how": "e1"
     },
     {

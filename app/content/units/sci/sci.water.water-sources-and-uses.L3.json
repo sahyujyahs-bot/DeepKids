@@ -1493,14 +1493,14 @@
     },
     {
      "t": "mcq",
-     "p": "Scientists measured the groundwater under north-west India using two satellites. What did the satellites actually measure?",
+     "p": "Satellites cannot see under the ground. But water is heavy, so a lot of it pulls a tiny bit on things above. How could a satellite tell that groundwater is being pumped out?",
      "opts": [
-      "Photographs of underground lakes",
-      "Tiny changes in the pull of gravity",
-      "The temperature of the soil"
+      "It takes photographs of the underground lakes",
+      "It feels the pull of gravity there get slightly weaker",
+      "It measures the temperature of the soil"
      ],
      "a": 1,
-     "why": "Water is heavy, so it adds a tiny bit to the Earth's pull of gravity. When groundwater is pumped out, the pull gets slightly weaker, and the satellites feel it. Satellites cannot see under the ground. Groundwater is also not mostly in lakes."
+     "why": "Water adds a tiny bit to the Earth's pull of gravity. When groundwater is pumped out, the pull gets slightly weaker, and the satellites feel it. Photographs cannot see under the ground."
     },
     {
      "t": "truefalse",
@@ -1601,14 +1601,14 @@
     },
     {
      "t": "mcq",
-     "p": "In 2019, Chennai's main lakes nearly dried up. How did the city get water?",
+     "p": "A city by the sea runs out of lake water in a dry summer. Why can't people just drink the sea water?",
      "opts": [
-      "Trains carried water from Jolarpettai, more than 200 kilometres away",
-      "It waited for snow",
-      "It used sea water just as it was"
+      "It is too salty, and taking the salt out needs special plants and lots of electricity",
+      "Sea water is too cold to drink",
+      "It is fine to drink just as it is"
      ],
      "a": 0,
-     "why": "Special trains carried millions of litres of water to Chennai every day. Sea water cannot be drunk until the salt is removed, which needs special plants and lots of electricity."
+     "why": "Salty water makes the body lose more water than it gains. The salt can be removed, but that needs special plants and lots of electricity. So a city may have to bring fresh water from far away, by pipe or even by train."
     },
     {
      "t": "truefalse",
@@ -3409,14 +3409,14 @@
   },
   {
    "t": "mcq",
-   "p": "What is a tanka, used in the Thar desert?",
+   "p": "In the Thar desert, rain falls on only a few days a year. Families store rainwater in a tank dug under the ground, with a cover. Why put it under the ground and cover it?",
    "opts": [
-    "A kind of hand pump",
-    "A covered underground tank that stores rainwater",
-    "A water truck"
+    "So the water stays cool and clean, and less of it dries up in the sun",
+    "So nobody can find it",
+    "Because rain falls upwards"
    ],
-   "a": 1,
-   "why": "A tanka collects rain from a roof or a sloping yard and keeps it under the ground, covered, so it stays cool and clean for the dry months.",
+   "a": 0,
+   "why": "Under the ground and covered, the water stays cool, so less evaporates. The cover keeps out dust and animals. So the water lasts clean for the dry months.",
    "outcome": 3
   },
   {
@@ -3493,14 +3493,14 @@
   },
   {
    "t": "mcq",
-   "p": "In 2009, data from India's Chandrayaan-1 Moon mission showed that…",
+   "p": "The Moon has no air to hold water in. Sunlight there is fierce. Where on the Moon is ice most likely to last?",
    "opts": [
-    "the Moon has rivers",
-    "there is a trace of water in the Moon's dust",
-    "the Moon is made of ice"
+    "In rivers on its surface",
+    "In deep craters near its poles that sunlight never reaches",
+    "On its sunny side at noon"
    ],
    "a": 1,
-   "why": "Chandrayaan-1 carried an instrument that found a thin trace of water in the Moon's dust. The Moon has no rivers, but its dark polar craters hold ice.",
+   "why": "Ice in sunlight on the Moon turns straight into gas and is lost. In dark craters near the poles, it stays far below freezing, so ice can last. Instruments have found a thin trace of water in Moon dust too. The Moon has no rivers.",
    "outcome": 7
   }
  ],

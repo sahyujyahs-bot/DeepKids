@@ -1236,15 +1236,15 @@
     },
     {
      "t": "mcq",
-     "p": "Around the year 1500, Leonardo da Vinci drew flying machines with flapping wings. None of them flew. In 1903, the Wright brothers' plane flew. What did the Wright brothers copy from birds?",
+     "p": "Early inventors built machines with flapping wings, and none could lift a person. Later, a plane with fixed wings that could twist at the tips to balance did fly. What is the lesson for copying birds?",
      "opts": [
-      "The flapping of their wings",
-      "How birds twist their wingtips to balance",
-      "Their feathers",
-      "Their beaks"
+      "Copy how a part works, like the wing twist for balance, not just how it looks",
+      "Flapping is the only way to fly",
+      "Feathers are the secret",
+      "Beaks help planes fly"
      ],
-     "a": 1,
-     "why": "They copied a design, the twist of the wingtips, not the look of flapping. Flapping is what many early inventors tried, and it did not work for machines big enough to carry a person."
+     "a": 0,
+     "why": "Copying the look of flapping did not work for big machines. Copying a design idea, the twist that keeps a bird balanced, did."
     },
     {
      "t": "write",
@@ -1375,15 +1375,15 @@
     },
     {
      "t": "mcq",
-     "p": "In 2005, a car company made a car shaped like a boxfish, a small reef fish shaped like a box. Later, scientists studied real boxfish. What did they find the boxy shape mainly helps the fish to do?",
+     "p": "A car company copied the shape of the boxfish, thinking it helps the fish slip fast through water. Later, scientists found the shape mainly helps the fish turn and steer. What is the lesson?",
      "opts": [
-      "Turn and steer quickly",
-      "Swim very fast in a straight line",
-      "Jump out of the water",
-      "Dig in sand"
+      "Find out what a shape is really for before copying it",
+      "Never copy fish",
+      "All cars should be shaped like boxes",
+      "Fish cannot swim fast"
      ],
      "a": 0,
-     "why": "The car copied the shape to slip through the air. But the boxfish's shape mainly helps them turn and steer. The lesson: before copying a shape, find out what it is really for in the animal's own life."
+     "why": "A shape solves a problem in the animal's own life. Before copying it, find out which problem, or the copy may not do what you hoped."
     },
     {
      "t": "sort",
@@ -3053,15 +3053,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why did the bullet train get a long, beak-shaped nose?",
+   "p": "A fast train makes a loud boom when it rushes out of a tunnel, because it squeezes the air ahead of it. Which nose shape would help most?",
    "opts": [
-    "So it looked like a bird",
-    "So it could carry more people",
-    "So it could catch fish",
-    "So it pushed the air aside slowly and came out of tunnels without a loud boom"
+    "A flat, blunt nose",
+    "A nose painted to look like a bird",
+    "A bigger engine",
+    "A long nose that widens slowly, like a kingfisher's beak"
    ],
    "a": 3,
-   "why": "A blunt nose squeezes the air in a tunnel, which bursts out with a boom. A long nose that widens slowly parts the air gently, like a kingfisher's beak parts water. Picking 'so it looked like a bird' mixes up copying the look with copying the design.",
+   "why": "A blunt nose squeezes the air all at once, which bursts out with a boom. A long nose that widens slowly parts the air gently, as a kingfisher's beak parts water. Painting it like a bird copies the look, not the design.",
    "outcome": 3
   },
   {
@@ -3093,14 +3093,14 @@
   },
   {
    "t": "mcq",
-   "p": "What do scientists now think moves the air inside termite mounds near Bengaluru?",
+   "p": "A termite mound has no fans. Its outer walls warm up faster than the middle in the day, and cool faster at night. What could this do to the air inside?",
    "opts": [
-    "Fans the termites build",
-    "Nothing, the air never moves",
-    "The walls warming in the day and cooling at night"
+    "Turn it into water",
+    "Keep it perfectly still",
+    "Move it one way by day and the other way at night"
    ],
    "a": 2,
-   "why": "A 2015 study found the walls warm and cool faster than the middle, which moves the air one way by day and the other way by night. There are no fans. Picking 'the air never moves' would mean the termites run out of fresh air.",
+   "why": "Warm air rises and cool air sinks. When the walls are warmer than the middle, the air moves one way. When they are cooler, it moves the other way. So the mound breathes with no fans.",
    "outcome": 4
   },
   {

@@ -1157,14 +1157,14 @@
   },
   {
    "t": "mcq",
-   "p": "What did Florence Nightingale find when she counted the soldiers in her hospital?",
+   "p": "In a hospital, many people are getting ill from dirty water and blocked drains. What will most likely happen if the water and drains are cleaned?",
    "opts": [
-    "Most were dying of illness from dirty water and drains, not of wounds",
-    "Most were dying because they had no toys",
-    "Nobody was ill"
+    "Far fewer people will get ill",
+    "More people will get ill",
+    "Nothing will change"
    ],
    "a": 0,
-   "why": "Her counts showed far more soldiers dying of illness than of wounds. When the drains and water were cleaned, far fewer died.",
+   "why": "Dirty water and drains spread germs. Clean water and drains take the germs away, so fewer people fall ill. Florence Nightingale counted this in her hospital.",
    "outcome": 5
   },
   {

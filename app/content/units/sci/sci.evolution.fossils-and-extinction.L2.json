@@ -1532,14 +1532,14 @@
   },
   {
    "t": "mcq",
-   "p": "About how long ago did the big dinosaurs die out?",
+   "p": "How do scientists know when the big dinosaurs died out?",
    "opts": [
-    "About 66 million years ago",
-    "About 100 years ago",
-    "Last year"
+    "Their fossils stop appearing in rocks younger than a certain age",
+    "Someone saw the last one",
+    "From old books"
    ],
    "a": 0,
-   "why": "Fossils of the big dinosaurs stop in rocks about 66 million years old.",
+   "why": "Rocks form in layers, and scientists can tell how old each layer is. Big dinosaur fossils are found in older layers, and not in any layer younger than about 66 million years.",
    "outcome": 3
   },
   {

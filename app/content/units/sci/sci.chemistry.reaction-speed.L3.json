@@ -1656,7 +1656,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why did boiled potato make little or no foam?",
+   "p": "Raw potato makes hydrogen peroxide foam up, because of a helper called catalase inside it. A piece of boiled potato, cooled down first, makes little or no foam. Why?",
    "opts": [
     "Cooking changed the shape of the catalase, so it stopped working",
     "Boiled potato is too soft to sink",
@@ -1723,15 +1723,15 @@
   },
   {
    "t": "mcq",
-   "p": "In 1897 Eduard Buchner's team ground up yeast cells and squeezed out the juice. The juice held no whole yeast cells. What happened when he added sugar?",
+   "p": "Yeast turns sugar into gas bubbles. Suppose you grind up yeast and squeeze out a juice with no whole, living yeast cells in it. You add sugar, and the juice still makes bubbles. What does this show?",
    "opts": [
-    "The juice still changed the sugar, making gas bubbles",
-    "Nothing happened",
-    "The juice turned into yeast",
-    "The sugar turned to salt"
+    "Substances from the cells, called enzymes, do the work and still work outside the cell",
+    "Only living yeast cells can change sugar",
+    "The sugar made the bubbles by itself",
+    "The juice turned back into yeast"
    ],
    "a": 0,
-   "why": "The juice still turned sugar into gas and alcohol. It showed that the changes are done by enzymes, which still work outside the cell.",
+   "why": "There were no living cells, but the sugar still changed. So the work is done by substances the cells make, called enzymes, and they keep working outside the cell. A check with sugar and water alone would show the sugar does not bubble by itself.",
    "outcome": 6
   },
   {
@@ -1929,7 +1929,7 @@
        "says": "The oxygen came from the peroxide. The potato just helped."
       }
      ],
-     "ask": "Who do you agree with? Use what happened when the same potato went into fresh peroxide. Then say one thing the other person has right.",
+     "ask": "Who do you agree with? Use this clue: when the same potato is strained out and put into fresh peroxide, it makes it foam again. Then say one thing the other person has right.",
      "lines": 5,
      "a": "A strong answer agrees with Arun, because the same potato made fresh peroxide foam again, so the oxygen came from the peroxide each time. Revathi has something right: the bubbles do appear on the potato, because that is where the catalase is.",
      "why": "Both children saw something real. Bubbles form on the potato, but the potato is not used up, so the oxygen must come from the peroxide.",
@@ -2060,7 +2060,7 @@
     },
     {
      "t": "mcq",
-     "p": "Why did the strained potato foam a little less the second time?",
+     "p": "A potato makes peroxide foam. It is strained out, rinsed and put into fresh peroxide. It foams again, but a little less. Why?",
      "opts": [
       "Some catalase washed away or wore out",
       "The potato became a different vegetable",
@@ -2217,20 +2217,20 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of Buchner's 1897 test in order.",
+     "p": "You want to find out if yeast juice, with no whole yeast cells in it, can still change sugar. Put the steps in order.",
      "items": [
-      "He added sugar to the juice",
-      "Yeast cells were ground with fine sand",
-      "He saw bubbles of gas",
-      "The ground yeast was squeezed to get juice"
+      "Add sugar to the juice",
+      "Grind the yeast cells with fine sand",
+      "Watch for bubbles of gas",
+      "Squeeze the ground yeast to get juice"
      ],
      "a": [
-      "Yeast cells were ground with fine sand",
-      "The ground yeast was squeezed to get juice",
-      "He added sugar to the juice",
-      "He saw bubbles of gas"
+      "Grind the yeast cells with fine sand",
+      "Squeeze the ground yeast to get juice",
+      "Add sugar to the juice",
+      "Watch for bubbles of gas"
      ],
-     "why": "Grind, squeeze, add sugar, then see the gas."
+     "why": "First break the cells open, then squeeze out the juice, then add sugar, then look for gas. Grinding comes first, because it is what breaks up the cells."
     },
     {
      "t": "label",

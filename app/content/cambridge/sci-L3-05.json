@@ -783,7 +783,7 @@
     {"q": "Give a material that is flexible and one that is rigid, and one that is waterproof and one that is absorbent.", "a": "Flexible: rubber; rigid: stone. Waterproof: plastic; absorbent: cotton."},
     {"q": "What is a branching tree database and how do you use it?", "a": "A chart of yes/no questions that branches; you answer each question about an object and follow the branches until you reach its name."},
     {"q": "Why is a cooking pan made of metal and not wood?", "a": "Metal is strong and does not burn; a wooden pan would burn or catch fire."},
-    {"q": "In the umbrella test, what did we keep the same, and what did we change?", "a": "Kept the same: size of material, amount of water, funnel, time. Changed: only the material."},
+    {"q": "You want to test which material makes the best umbrella. What will you keep the same, and what will you change?", "a": "Keep the same: size of material, amount of water, the funnel, the time. Change: only the material."},
     {"q": "Why are cloth and paper not waterproof?", "a": "They have tiny gaps between their threads or fibres that water can pass through, and they soak water up."},
     {"q": "Are all metals magnetic? Which materials are attracted by a magnet?", "a": "No. Iron and most steel are magnetic; aluminium, copper, brass and some stainless steel are not, and non-metals like wood, plastic and glass are never magnetic."}
   ]

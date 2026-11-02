@@ -1486,10 +1486,10 @@
        "says": "The handle will get warm, because heat goes from hot to cool, whichever way that is."
       }
      ],
-     "ask": "Who do you agree with? Use the Flat or Upright test as evidence. Then say what Kavya has partly right.",
+     "ask": "Who do you agree with? Describe a test that could show who is right, such as comparing a spoon lying flat with one standing upright. Then say what Kavya has partly right.",
      "lines": 5,
-     "a": "Meena is right for a solid spoon: in the test, the flat spoon's peppercorn fell at about the same time as the upright one. Kavya is partly right that hot air and hot water rise.",
-     "why": "A strong answer uses the test's result, and gives Kavya fair credit for what is true about hot air.",
+     "a": "Meena is right for a solid spoon: a spoon lying flat warms at about the same speed as one standing upright, because heat goes from hot to cool in any direction. Kavya is partly right that hot air and hot water rise.",
+     "why": "A strong answer describes a fair test, and gives Kavya fair credit for what is true about hot air.",
      "how": "e2"
     },
     {
@@ -1638,7 +1638,7 @@
     },
     {
      "t": "fill",
-     "p": "In the Ladle Line, the only thing that changes from one butter dot to the next is its ____ from the water.",
+     "p": "Butter dots are put at different heights on a steel ladle standing in hot water. For a fair test, the only thing that changes from one dot to the next is its ____ from the water.",
      "a": [
       "distance"
      ],

@@ -1943,14 +1943,14 @@
   },
   {
    "t": "mcq",
-   "p": "Which crop grows well in the black soil of the Deccan?",
+   "p": "Black soil holds water for a long time after the rain stops. Why does this help farmers in a dry place?",
    "opts": [
-    "Cotton",
-    "Tea",
-    "Apples"
+    "Crops can keep drinking for weeks after the rain",
+    "The soil stays cold",
+    "Water makes the soil black"
    ],
    "a": 0,
-   "why": "Black soil holds water for a long time, which suits cotton. It is also called black cotton soil.",
+   "why": "Black soil is full of clay, which holds water. So crops like cotton can keep growing well into the dry season. It is also called black cotton soil.",
    "outcome": 5
   },
   {
@@ -2350,14 +2350,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Rock to Grains test, what did the white powder at the bottom stand for?",
+     "p": "You shake pieces of chalk in a closed jar of water for a long time. A white powder collects at the bottom. What does this show about stones in a river?",
      "opts": [
-      "The silt and clay that rocks break into",
-      "Melted rock",
-      "Salt from the water"
+      "Stones knock against each other and break into tiny grains like silt and clay",
+      "Stones melt in water",
+      "The water turns into salt"
      ],
      "a": 0,
-     "why": "The powder was tiny grains knocked off the chalk, like the silt and clay knocked off stones in a river.",
+     "why": "The powder is tiny grains knocked off the chalk, like the silt and clay knocked off stones in a river. Over a long time this is how rock becomes part of soil.",
      "how": "e3"
     },
     {

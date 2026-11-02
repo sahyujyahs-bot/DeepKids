@@ -1275,7 +1275,7 @@
       "It is slippery"
      ],
      "a": 2,
-     "why": "A slide must let children slide down. A grippy material would make them stop halfway, like Arjun on the rubber mat."
+     "why": "A slide must let children slide down. A grippy material, like a rubber mat, would make them stop halfway."
     },
     {
      "t": "fill",
@@ -1457,9 +1457,9 @@
     },
     {
      "t": "write",
-     "p": "Patsy Sherman's spilt mixture was made for the fuel pipes of jet planes. It turned out to be right for a different job. What job, and what property made it right?",
+     "p": "A mixture was made for one job, but it turned out to be right for a different one. Water and oil run straight off it. What everyday job could it be right for, and what property makes it right?",
      "lines": 3,
-     "a": "Keeping cloth clean. Water and oil ran off it, so dirt did not stick.",
+     "a": "Keeping cloth clean, as a stain guard. Water and oil run off it, so spills and dirt do not soak in.",
      "why": "A strong answer names the new job and the property that made the material suit it."
     },
     {
@@ -1708,14 +1708,14 @@
   },
   {
    "t": "mcq",
-   "p": "Patsy Sherman's spilt mixture was wrong for a jet plane's fuel pipe. What was it right for?",
+   "p": "A new material makes water and oil run straight off it, instead of soaking in. Which job would it be right for?",
    "opts": [
     "Making tyres",
     "Keeping cloth clean",
     "Building slides"
    ],
    "a": 1,
-   "why": "Water and oil ran off the spots, so it became a stain guard for cloth. A material wrong for one job can be right for another.",
+   "why": "If water and oil run off, spills cannot soak into cloth, so it works as a stain guard. A material wrong for one job can be right for another.",
    "outcome": 3
   },
   {

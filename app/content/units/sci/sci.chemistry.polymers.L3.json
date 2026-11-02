@@ -1786,15 +1786,15 @@
   },
   {
    "t": "mcq",
-   "p": "What did Hermann Staudinger say that most chemists in 1920 did not believe?",
+   "p": "Rubber can stretch to many times its length and spring back. Which idea about what rubber is made of explains this best?",
    "opts": [
-    "Rubber is made of giant molecules: very long chains of atoms",
-    "Rubber comes from trees",
-    "Rubber is a metal",
-    "Rubber cannot stretch"
+    "Very long chains of atoms that can uncoil and coil up again",
+    "Tiny round balls packed tightly",
+    "It is a kind of metal",
+    "Nothing: rubber cannot stretch"
    ],
    "a": 0,
-   "why": "Most chemists thought rubber was a clump of small molecules. Staudinger said it was giant chain molecules, and his tests showed he was right.",
+   "why": "Long, coiled chains can be pulled straight and then curl back up, like a tangle of springs. Small round pieces could not stretch so far. Scientists once doubted giant chain molecules, but tests showed they are real.",
    "outcome": 6
   },
   {

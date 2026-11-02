@@ -2691,11 +2691,10 @@
     },
     {
      "t": "write",
-     "p": "In the story, Kashi first thought salt was made in a building with chimneys and machines. What did she see at the stone hollow that changed her mind?",
+     "p": "A child thinks salt is always made in a factory with chimneys and machines. You leave a shallow dish of sea water in the sun for a few days. What will you see, and how could it change the child's mind?",
      "lines": 3,
-     "a": "A strong answer says she saw a white rim of salt growing around the edge of the sea water in the hollow. Nobody was there making it. The sun was taking the water away, and the salt was left behind.",
-     "why": "Kashi used her own eyes as evidence. The answer should say what she saw, not only what she thought.",
-     "context": "In this unit's story, Kashi lives by the sea in Gujarat in 1930."
+     "a": "A strong answer says a white crust of salt is left in the dish. Nobody made it. The sun took the water away into the air, and the salt that was in the sea water was left behind. So salt can come straight from the sea.",
+     "why": "A strong answer says what you would see, and uses it as evidence, not only what you think."
     },
     {
      "t": "draw",
@@ -3000,9 +2999,9 @@
     },
     {
      "t": "mcq",
-     "p": "Nylon was invented in 1935. Why did people want it?",
+     "p": "Silk is strong and smooth, but it is costly. Why might people want to invent a made material like nylon?",
      "opts": [
-      "Silk was costly, and nylon could do some of the same jobs, like stockings and ropes",
+      "It can do some of silk's jobs, like stockings and ropes, for less money",
       "Silkworms had all died",
       "Nylon grows faster than cotton",
       "Nylon rots away quickly"

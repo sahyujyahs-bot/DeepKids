@@ -1531,15 +1531,15 @@
   },
   {
    "t": "mcq",
-   "p": "Chimpanzees and children watched a person open a clear puzzle box. First the person poked a stick in a top hole that did nothing. Then they opened the door. What happened?",
+   "p": "Many children who watch someone open a clear box copy every step, even a poke they can see does nothing. What is a good reason for copying every step?",
    "opts": [
-    "Both chimpanzees and children skipped the poke",
-    "Both copied the poke",
-    "Most chimpanzees skipped the poke, and most children copied it",
-    "Most children skipped the poke, and chimpanzees copied it"
+    "Some steps might matter in ways you can't see",
+    "Children can't see well",
+    "The useless poke opens the box",
+    "Children don't like prizes"
    ],
-   "a": 2,
-   "why": "The clear box showed the poke did nothing. Most chimpanzees went straight for the door. Most children copied every step. This is overimitation.",
+   "a": 0,
+   "why": "Copying every step is often a safe way to learn, because some steps matter in ways we can't see. Copying even a useless step is called overimitation.",
    "outcome": 3
   },
   {
@@ -1598,15 +1598,15 @@
   },
   {
    "t": "mcq",
-   "p": "In 1953, a young macaque called Imo, on the island of Koshima in Japan, began washing sweet potatoes in water. What happened next?",
+   "p": "A young monkey starts washing her sweet potatoes in water, and the others in her group watch her. What is most likely to happen over the next few years?",
    "opts": [
-    "She stopped after a day",
-    "Over the next years, most of her group began washing their food too",
-    "Only Imo ever did it",
-    "The sweet potatoes stopped growing"
+    "She stops after a day",
+    "Many in her group start washing their food too",
+    "No other monkey ever does it",
+    "The sweet potatoes stop growing"
    ],
    "a": 1,
-   "why": "Others watched Imo and began to wash their food too. The habit spread and lasted. Macaques on Koshima still wash food today.",
+   "why": "Animals that watch others can copy a useful habit. So the habit spreads through the group and can last for many years. That is social learning.",
    "outcome": 5
   }
  ],
@@ -1857,7 +1857,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a picture of the clear puzzle box from the chimpanzee test. Label the part that did nothing and the part that gave the reward.",
+     "p": "Here is a picture of a clear puzzle box. The sweet sits behind the door at the front. The hole on top leads to an empty space above the sweet. Label the part that does nothing and the part that gives the reward.",
      "labels": [
       "the hole on top",
       "the door at the front"
@@ -1866,8 +1866,8 @@
       "the hole on top: did nothing",
       "the door at the front: gave the reward"
      ],
-     "why": "The poke into the top hole was the useless step. The reward came out through the front door. Chimpanzees who could see this skipped the top hole.",
-     "art": "A clear box with a hole on top and a small door at the front, a sweet visible inside behind the door, and two empty label boxes."
+     "why": "The hole on top does not reach the sweet, so poking it is a useless step. The reward comes out through the front door. Anyone who can see inside the box can tell this.",
+     "art": "A clear box with a hole on top leading to an empty space, a small door at the front with a sweet behind it, and two empty label boxes."
     },
     {
      "t": "mcq",
@@ -2159,9 +2159,9 @@
     },
     {
      "t": "write",
-     "p": "Honeybees return to the flower colour that gave them the most nectar. How is this different from the macaques on Koshima washing sweet potatoes?",
+     "p": "Honeybees return to the flower colour that gave them the most nectar. Young monkeys start washing their food after watching an older monkey do it. How are these two ways of learning different?",
      "lines": 3,
-     "a": "The bees learn from what happened to them, with no one to watch. The macaques learned by watching others in their group, and the habit spread.",
+     "a": "The bees learn from what happened to them, with no one to watch. The young monkeys learn by watching others in their group, so the habit spreads.",
      "why": "A strong answer separates learning from your own experience from learning from others."
     },
     {

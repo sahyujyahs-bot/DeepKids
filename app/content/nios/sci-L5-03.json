@@ -338,7 +338,7 @@
       "day": 4,
       "sections": [
         ["A. Small family", [
-          {"t": "fill", "p": "In the book, a small family is called a ____ household.", "a": ["happy"]},
+          {"t": "fill", "p": "A family with only parents and their children, living together, is called a ____ family.", "a": ["nuclear", "small"]},
           {"t": "sort", "p": "Sort these into what the book says about a big family with limited income and a small family.", "items": ["Children may not get a balanced diet", "Mother's health suffers when babies come quickly", "Children get full love and attention", "School fees are easier to pay", "Farms get divided into tiny pieces", "Basic needs are met more easily"], "cats": ["Problem of a big family", "Benefit of a small family"]}
         ]],
         ["B. Education", [
@@ -361,7 +361,7 @@
       "sections": [
         ["A. Know the law", [
           {"t": "match", "p": "Match the law or step to what it does.", "pairs": [["Right to Education Act, 2009", "Free and compulsory school for ages 6–14"], ["73rd Amendment, 1992", "One-third of panchayat seats for women"], ["Dowry Prohibition Act, 1961", "Makes giving and taking dowry a crime"], ["Law of 1994 on tests before birth", "Bans finding out a baby's sex before birth"], ["Domestic Violence Act, 2005", "Protects women from harm at home"]]},
-          {"t": "mcq", "p": "Phulwa's grandmother gives her a gold chain, freely, at the wedding. Whose is it?", "opts": ["The husband's", "The mother-in-law's", "Phulwa's alone: it is her stri-dhan", "The groom's family's"], "a": 2}
+          {"t": "mcq", "p": "A grandmother gives her granddaughter a gold chain, freely, at the granddaughter's wedding. Whose is it?", "opts": ["The husband's", "The mother-in-law's", "The bride's alone: it is her stri-dhan", "The groom's family's"], "a": 2}
         ]],
         ["B. Numbers", [
           {"t": "table", "p": "Your literacy graph: fill in the gap between men and women in each year.", "cols": ["Year", "Men %", "Women %", "Gap"], "rows": 4, "prefill": ["1961", "1981", "2001", "2011"]},
@@ -369,7 +369,7 @@
         ]],
         ["C. Apply it", [
           {"t": "write", "p": "Your neighbour's 11-year-old daughter has stopped going to school to look after her baby brother. Using the book's 'What can we do?' list, write two kind, practical things your family could do.", "lines": 4},
-          {"t": "write", "p": "A boy in your class says 'Girls can't be engineers.' Write what you could say back, using one fact from this lesson.", "lines": 3}
+          {"t": "write", "p": "A boy in your class says 'Girls can't be engineers.' What could you say back? Give a reason.", "lines": 3}
         ]]
       ]
     },
@@ -517,7 +517,7 @@
     {"q": "What is a social issue? Name three from this lesson.", "a": "A problem that affects many people and holds society back. For example: very large families with limited income, lack of education especially for girls, unequal treatment of women, dowry, and girls not being allowed to be born."},
     {"q": "Why can a small family give each child more?", "a": "The same income, food and parents' time are shared among fewer people, so each child gets a bigger share: better food, health, schooling and attention."},
     {"q": "Give four reasons why education is important.", "a": "It increases knowledge; opens the way to jobs and earning; helps us make good decisions; makes us aware of our rights and duties; helps remove superstition; builds self-confidence; helps the country develop."},
-    {"q": "How has women's literacy in India changed, and who started a girls' school in Pune in 1848?", "a": "It rose from about 15% in 1961 to about 65% in 2011, and the gap with men is shrinking. Savitribai Phule and Jyotirao Phule started the school; Savitribai was the teacher."},
+    {"q": "Far more girls in India learn to read today than 60 years ago. Why does that matter? Give one way it changes a family.", "a": "A woman who can read can do more kinds of work, read medicine labels, letters and forms herself, and help her own children learn. So the whole family gains, not only her."},
     {"q": "Give three reasons the book gives for women being treated unequally.", "a": "Any three: social customs that value boys more; women not controlling money; men making all decisions; illiteracy; poverty; the wish for sons leading to big families; the wrong idea that women are weak."},
     {"q": "Name three laws or steps that protect girls and women.", "a": "Any three: Right to Education Act (free school 6–14); one-third (or half) of panchayat seats for women; Dowry Prohibition Act 1961; the 1994 law banning tests to find a baby's sex before birth; the Domestic Violence Act 2005; equal share in family property."},
     {"q": "Why does a census showing far fewer girls than boys tell us something is wrong?", "a": "Nature gives nearly equal numbers of boys and girls (about 950 girls per 1,000 boys at birth). With crores of babies, a big gap cannot be chance; it means girls were stopped from being born or cared for less."},

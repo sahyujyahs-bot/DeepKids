@@ -486,9 +486,9 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 10. (mcq) Why are most leaves flat and thin?  
    Options: To catch lots of sunlight / To hold on to the soil / To keep the seeds safe  
    **Answer:** To catch lots of sunlight. *Why:* A flat, thin leaf spreads out wide and catches lots of light. Leaves use light to make the plant's food.
-11. (mcq) Before you turned the cloth and the plate over, what did you do first?  
-   Options: Made a guess and said why / Threw the sprouts away / Washed the plate  
-   **Answer:** Made a guess and said why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
+11. (mcq) Before a test, why do scientists make a guess and say why?  
+   Options: So the test can show if the guess was right / So they can throw the sprouts away / So the plate gets washed  
+   **Answer:** So the test can show if the guess was right. *Why:* A guess with a reason is an idea to test. Then the test shows whether the idea was right, or needs to change.
 
 ## Applications
 - Farmers and road builders plant grasses like vetiver on slopes. The deep roots hold the soil, so rain does not wash it away.

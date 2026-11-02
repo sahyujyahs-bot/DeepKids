@@ -406,8 +406,8 @@
         ["A. Rishi's journey", [
           {"t": "fill", "p": "Rishi is from ____ and travelled by bus to the mountains.", "a": ["Jammu"]},
           {"t": "fill", "p": "Rishi's Mama is his mother's ____.", "a": ["brother"]},
-          {"t": "mcq", "p": "Which new flower did Nonikaa show Rishi?", "opts": ["Rose", "Marigold", "Tulip", "Hibiscus"], "a": 2},
-          {"t": "fill", "p": "The red flowers that bloom in spring in Rishi's place are called ____.", "a": ["buransh", "rhododendron"]}
+          {"t": "mcq", "p": "Which of these flowers grows best in a cold place with a snowy winter?", "opts": ["Rose", "Marigold", "Tulip", "Hibiscus"], "a": 2},
+          {"t": "fill", "p": "In cold hill places, many flowers bloom in spring, when the snow melts and the days grow ____.", "a": ["warm", "warmer", "longer"]}
         ]],
         ["B. Road signs and safety", [
           {"t": "match", "p": "Match each sign to what a driver should do.", "pairs": [["School Ahead", "Slow down and watch for children"], ["No Horn Please", "Do not honk"], ["Speed Breaker", "Slow down for a bump"], ["No Parking", "Do not leave your vehicle here"]]},
@@ -431,7 +431,7 @@
           {"t": "sort", "p": "Sort these festivals by what decides their date.", "items": ["Holi", "Christmas", "Diwali", "Eid-ul-Fitr", "Guru Purnima", "Republic Day"], "cats": ["The Moon", "A fixed date in the Sun calendar"]}
         ]],
         ["B. Mountains", [
-          {"t": "fill", "p": "The word Himalaya means 'home of ____'.", "a": ["snow"]},
+          {"t": "fill", "p": "The highest mountains stay white all year, because high up the air is too ____ for the snow to melt.", "a": ["cold"]},
           {"t": "mcq", "p": "It is 30 °C at the foot of a mountain. About how cold is it 2,000 metres up?", "opts": ["About 40 °C", "About 30 °C", "About 18 °C", "About 0 °C"], "a": 2},
           {"t": "write", "p": "Our steep ramp needed a harder pull than the gentle ramp. Use this to explain why mountain roads have hairpin turns.", "lines": 3}
         ]],
@@ -621,7 +621,7 @@
     {"q": "Why do mountain roads have hairpin turns?", "a": "Going straight up would be too steep. Winding back and forth makes the road longer but gentler, so a bus needs less pull to climb and can brake safely, like the gentle ramp in our test."},
     {"q": "Name two spring festivals from different parts of India and how they celebrate nature.", "a": "For example: Phool Dei in Uttarakhand, with buransh and mustard flowers at doorsteps; Vishu in Kerala, with amaltas flowers, fruits and vegetables in the Vishu Kani; Sarhul in Jharkhand, with sprouted grains and sal flowers offered to the Earth and the Sun; the tulip festival in Kashmir."},
     {"q": "Which festivals go with thekua, pitha, gujiya and seviyan?", "a": "Thekua – Chhath Puja; pitha – Bihu; gujiya – Holi; seviyan – Eid-ul-Fitr."},
-    {"q": "What does 'Himalaya' mean, and how high is Mount Everest?", "a": "'Home of snow'. Everest is about 8,848 metres high (8,848.86 metres by the 2020 measurement)."},
+    {"q": "Why do the tops of the highest mountains stay white with snow, even in summer?", "a": "The higher you go, the colder the air gets. At the top of the highest mountains it is cold enough all year that the snow does not melt."},
     {"q": "Why do Holi and Eid fall on different dates each year but Christmas does not?", "a": "Holi and Eid follow the Moon: Holi is on a full moon, Eid starts when the new crescent is seen. Moon months are about 29½ days, so they do not fit our Sun calendar. Christmas follows the Sun calendar, always 25 December."},
     {"q": "Why did our diya under the small tumbler go out before the one under the big jar?", "a": "A flame needs oxygen from the air. Covered, it uses up the oxygen inside; the small tumbler held less air, so it ran out sooner."}
   ]

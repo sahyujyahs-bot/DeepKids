@@ -617,11 +617,11 @@
       },
       {
        "t": "mcq",
-       "p": "In a test, a capuchin monkey gets cucumber for a job. Her neighbour gets a grape for the same job. What did many capuchins do?",
+       "p": "A monkey does a job and gets a piece of cucumber. Her neighbour does the same job and gets a sweet grape. If monkeys care about fairness, what would you expect the first monkey to do?",
        "opts": [
-        "Threw the cucumber away or stopped taking part.",
-        "Ate the cucumber happily.",
-        "Gave their cucumber to the neighbour."
+        "Throw the cucumber away or stop taking part.",
+        "Eat the cucumber happily.",
+        "Give her cucumber to the neighbour."
        ],
        "a": 0
       }
@@ -1130,8 +1130,8 @@
    "a": "My toes gripped badly, because my big toe does not stick out like a thumb. An ape's foot can hold a branch. With one eye shut I missed the pencil tip more often. Two eyes at the front help a monkey judge how far away a branch is."
   },
   {
-   "q": "How did you make your curry-leaf stalk a better tool? Which chimpanzee did the same?",
-   "a": "I pulled the leaves off so it was thin and slid into the bottle. David Greybeard stripped the leaves off twigs to fish for termites, and Jane Goodall saw him."
+   "q": "How could you make a curry-leaf stalk into a better tool for reaching honey in a narrow bottle? Why might a chimpanzee do the same with a twig?",
+   "a": "Pull the leaves off, so it is thin and slides into the bottle. A chimpanzee can strip the leaves off a twig in the same way, then poke it into a termite hole and fish the termites out. Making a tool means changing a thing to suit the job."
   },
   {
    "q": "Name one thing about each of these apes: a gorilla, a bonobo, an orangutan, a hoolock gibbon.",

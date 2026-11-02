@@ -3151,27 +3151,27 @@
   },
   {
    "t": "mcq",
-   "p": "How did birds first begin to fly?",
+   "p": "Some scientists think the first birds began to fly by gliding down from trees. Others think they flapped while running up slopes. How could fossils help decide?",
    "opts": [
-    "Scientists still argue: perhaps gliding down from trees, perhaps flapping while running up slopes",
-    "Birds were always able to fly",
-    "Dinosaurs jumped off cliffs"
+    "Fossil bodies built for climbing trees would support gliding; bodies built for running would support the other idea",
+    "Fossils cannot tell us anything",
+    "Only a living dinosaur could tell us"
    ],
    "a": 0,
-   "why": "Scientists agree that birds came from small feathered dinosaurs. How flapping began is still argued about. Picking 'jumped off cliffs' is a fun picture, but no evidence shows it.",
+   "why": "Bones show how an animal lived: claws and legs for climbing, or long legs for running. Scientists agree birds came from small feathered dinosaurs, but they still argue about how flapping began.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Who was the first Indian woman to fly a plane, in 1936?",
+   "p": "For thousands of years, people strapped on big wings and tried to fly by flapping their arms. Why did it never work?",
    "opts": [
-    "Sarla Thakral",
-    "Kalpana Chawla",
-    "Bessie Coleman"
+    "Human arms are too weak to push enough air down to lift our heavy bodies",
+    "Feathers were too expensive",
+    "There was no air long ago"
    ],
    "a": 0,
    "outcome": 6,
-   "why": "Sarla Thakral got her pilot's licence at 21 and flew a small plane in Lahore. Picking Kalpana Chawla is a good guess. She was an Indian-born astronaut, who flew in space much later, in 1997. Bessie Coleman was an American pilot."
+   "why": "To stay up, wings must push a lot of air down, all the time. Birds have huge chest muscles and light bones. Our arms are far too weak for our weight, so people only flew once engines did the pushing."
   }
  ],
  "videos": [

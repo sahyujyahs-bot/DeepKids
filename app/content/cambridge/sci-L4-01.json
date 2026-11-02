@@ -595,7 +595,7 @@
       "day": 7,
       "sections": [
         ["A. Name the bones", [
-          {"t": "draw", "p": "Draw a simple human skeleton like the one on page 3. Label: skull, jaw, rib cage, spine, upper arm bone, lower arm bones, hip, thigh bone, lower leg bones."},
+          {"t": "draw", "p": "Draw a simple human skeleton. Label: skull, jaw, rib cage, spine, upper arm bone, lower arm bones, hip, thigh bone, lower leg bones."},
           {"t": "fill", "p": "An adult human skeleton has ____ bones.", "a": ["206"]},
           {"t": "fill", "p": "The longest bone in the body is the ____ bone.", "a": ["thigh", "femur"]}
         ]],

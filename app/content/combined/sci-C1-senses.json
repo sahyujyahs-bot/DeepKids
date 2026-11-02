@@ -455,11 +455,11 @@
       },
       {
        "t": "mcq",
-       "p": "In the story, Bhulu the dog finds Tuktuki in a crowd, in a new dress, in the dark. How does he know it is her?",
+       "p": "A dog finds its owner in a crowd, in the dark, even when she wears a new dress. How does it know it is her?",
        "opts": [
-        "he smells her",
-        "he reads her name",
-        "he sees her face"
+        "it smells her",
+        "it reads her name",
+        "it sees her face"
        ],
        "a": 0
       },
@@ -521,7 +521,7 @@
      [
       {
        "t": "write",
-       "p": "Helen Keller could not see or hear. How did she learn the word 'water'?",
+       "p": "A girl cannot see or hear. How could someone teach her the word 'water'?",
        "lines": 2
       },
       {

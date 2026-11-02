@@ -2284,15 +2284,15 @@
     },
     {
      "t": "mcq",
-     "p": "In the Cold Glass Test, what was the one thing that changed between the three glasses?",
+     "p": "You want to test whether cold tap water, cold boiled water and room-temperature tap water give out different amounts of air bubbles as they warm. What should be the one thing that changes between your three glasses?",
      "opts": [
       "The size of the glass",
       "The warm bath",
       "The water inside",
-      "The time we waited"
+      "The time you wait"
      ],
      "a": 2,
-     "why": "In a fair test, only one thing changes. Here it was the water inside: cold tap, cold boiled or room-temperature tap.",
+     "why": "In a fair test, only one thing changes. Here it is the water inside. The glass, the warm bath and the waiting time stay the same.",
      "how": "e1"
     },
     {
@@ -2514,15 +2514,15 @@
     },
     {
      "t": "mcq",
-     "p": "In the story 'The Pond That Gasped at Dawn', Paati said the murrel did not mind the shortage of oxygen. Why?",
+     "p": "At dawn, a pond is short of oxygen and most fish gasp at the top. One kind of fish stays calm. What could that fish most likely do?",
      "opts": [
-      "They sleep at night",
-      "They can breathe air at the surface",
-      "They eat algae",
-      "They live in the mud"
+      "Sleep through the night",
+      "Breathe air at the surface",
+      "Eat algae",
+      "Hide in the mud"
      ],
      "a": 1,
-     "why": "The murrel has extra air-breathing parts above the gills, so they can gulp air when the water is short of oxygen."
+     "why": "Fish breathe the oxygen dissolved in water. A fish that can also gulp air at the surface, like the murrel with its extra air-breathing parts, does not need the dissolved oxygen as much."
     },
     {
      "t": "write",
@@ -2559,10 +2559,10 @@
     },
     {
      "t": "write",
-     "p": "Aristotle thought fish do not breathe. How did Humboldt and Provençal show he was wrong?",
+     "p": "Long ago, some people thought fish do not breathe. How could you test whether a fish breathes the air dissolved in water?",
      "lines": 3,
-     "a": "They kept fish in closed jars of water and measured the gases. The oxygen dissolved in the water went down and carbon dioxide went up, so the fish were breathing.",
-     "why": "The key is measuring the gases in the water before and after."
+     "a": "Keep a fish in a closed jar of water and measure the gases in the water at the start and later. If the oxygen goes down and carbon dioxide goes up, the fish is breathing. A jar of the same water with no fish shows what happens without it.",
+     "why": "The key is measuring the gases in the water before and after, and comparing with a jar that has no fish."
     },
     {
      "t": "draw",

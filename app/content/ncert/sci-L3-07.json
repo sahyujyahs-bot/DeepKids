@@ -445,7 +445,7 @@
           {"t": "write", "p": "What if everyone in your building turned off the tap while brushing? If each person saves 8 mugs a day and 40 people live there, how many mugs are saved in a day?", "lines": 2}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "In 1854 most doctors said cholera came from bad-smelling air. John Snow said it came from dirty water. What evidence did Snow use, and why was it convincing?", "lines": 3},
+          {"t": "write", "p": "Long ago, most doctors said cholera came from bad-smelling air. Others thought it came from dirty water. What evidence would you collect to find out which is right, and why would it be convincing?", "lines": 3},
           {"t": "write", "p": "Some scientists say that when villages hold back lots of rain in ponds and johads, less water flows on to villages further down the river. How could you check if this is true?", "lines": 3},
           {"t": "write", "p": "Who owns the rain that falls on your roof? Who owns a river? Write what you think and why.", "lines": 3}
         ]]

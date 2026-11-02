@@ -797,9 +797,12 @@
       },
       {
        "t": "fill",
-       "p": "Today the afterglow of the Big Bang is very cold, about ____ degrees below zero Celsius.",
+       "p": "As the universe grows, the afterglow of the Big Bang is stretched and spread out, so it gets ____.",
        "a": [
-        "270"
+        "colder",
+        "cooler",
+        "fainter",
+        "weaker"
        ]
       },
       {
@@ -1394,8 +1397,8 @@
    "a": "Its light spreads over four times the area. If we know how bright something really is, like a Cepheid or a Type Ia supernova, we can work out its distance from how dim it looks."
   },
   {
-   "q": "What did astronomers find in 1998, and what name did they give the cause?",
-   "a": "Far exploding stars looked fainter than expected, so the universe's growth is speeding up, not slowing. They called the cause dark energy, but nobody knows what it is."
+   "q": "Far-away exploding stars look fainter than expected, so they are further away than they should be. What does this tell us about how the universe is growing?",
+   "a": "The growth of the universe is speeding up, not slowing down. Scientists call the unknown cause dark energy, but nobody yet knows what it is."
   },
   {
    "q": "Why was the young universe a fog, and what happened 380,000 years after the Big Bang?",

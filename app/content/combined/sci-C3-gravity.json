@@ -724,11 +724,11 @@
       },
       {
        "t": "mcq",
-       "p": "Which Indian astronomer wrote, about 1,000 years before Newton, that the Earth attracts things to it?",
+       "p": "Long before Newton, people in many lands noticed that things always fall towards the Earth. What idea explains this?",
        "opts": [
-        "Brahmagupta",
-        "Archimedes",
-        "Euclid"
+        "The Earth attracts things to it",
+        "Things want to be on the ground",
+        "The air pushes everything down"
        ],
        "a": 0
       },

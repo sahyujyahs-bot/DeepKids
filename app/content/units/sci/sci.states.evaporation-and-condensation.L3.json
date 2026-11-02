@@ -2369,15 +2369,15 @@
   },
   {
    "t": "mcq",
-   "p": "What did William Wells find out about dew?",
+   "p": "On a clear, still night, the grass gets colder than the air above it. By morning, the grass is covered in dew. Where did the dew come from?",
    "opts": [
-    "Dew falls from the sky like fine rain",
-    "Grass cools down first, then water vapour from the air condenses on it",
-    "Dew comes up out of the soil",
-    "Dew is made by the Moon"
+    "It fell from the sky like fine rain",
+    "Water vapour in the air condensed on the cold grass",
+    "It came up out of the soil",
+    "The Moon made it"
    ],
    "a": 1,
-   "why": "Wells weighed tufts of wool and measured temperatures. The grass always became colder than the air before dew formed.",
+   "why": "Cold surfaces turn water vapour back into drops, just like a cold bottle from the fridge. The grass cooled first, then the vapour in the air touching it condensed. Dew does not fall like rain.",
    "outcome": 6
   },
   {

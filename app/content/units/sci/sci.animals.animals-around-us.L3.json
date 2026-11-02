@@ -2606,10 +2606,10 @@
     },
     {
      "t": "write",
-     "p": "In the story The Wire Nest, a girl called Tara stopped the watchman from knocking down a crow's nest. How did writing down the time and place of every dive help her?",
+     "p": "Crows keep diving at people on one path near a tree. Someone wants to knock down their nest. How could writing down the time and place of every dive help you find out what is going on?",
      "lines": 3,
-     "a": "She saw that every dive happened in the morning and the evening, and only on the path under the nest. So the crows were guarding chicks, not attacking at random. People could walk round the other side.",
-     "why": "A strong answer says that the notes showed a pattern. One day of watching would not have shown it."
+     "a": "If every dive happens at the same times of day, and only on the path under the nest, the crows are guarding their chicks, not attacking at random. Then people could walk round the other side until the chicks fly.",
+     "why": "A strong answer says that the notes show a pattern. One day of watching would not show it."
     },
     {
      "t": "mcq",
@@ -2820,22 +2820,22 @@
     },
     {
      "t": "mcq",
-     "p": "Dung beetles roll balls of dung. In Africa, they can roll their balls in a straight line even on moonless nights. In a test, scientists showed what helps them. What was it?",
+     "p": "Dung beetles roll their balls of dung in a straight line, even on moonless nights. In a room with a pretend starry sky, they rolled straight when the Milky Way was showing, and wandered when their eyes were covered. What does this show?",
      "opts": [
-      "The glow of the Milky Way in the night sky",
-      "Street lights",
-      "The smell of the ball",
+      "They use the glow of the Milky Way to keep their way",
+      "They use street lights",
+      "They follow the smell of the ball",
       "Nothing, it is luck"
      ],
      "a": 0,
-     "why": "In 2013 scientists tested the beetles in a planetarium, a room with a starry sky on the ceiling. With the Milky Way showing, the beetles rolled straight. With little caps over their eyes, they wandered. Picking 'luck' ignores what the test showed."
+     "why": "Only the sky changed between the two tries. The beetles went straight when they could see the Milky Way and got lost when they could not, so they must steer by it. Picking 'luck' ignores what the test showed."
     },
     {
      "t": "write",
-     "p": "For years, books said termite mounds stay fresh because the termites' body warmth pushes air up, like smoke up a chimney. In 2015, scientists measured the air inside real mounds near Bengaluru. What did they find? Why is measuring better than only reasoning?",
+     "p": "For years, books said termite mounds stay fresh because the termites' body warmth pushes air up, like smoke up a chimney. How could scientists check whether this is really true? Why is measuring better than only reasoning?",
      "lines": 5,
-     "a": "They found that the mound's thin outer walls warm up in the day and cool at night faster than the middle. That moves the air one way by day and the other way by night. Reasoning gave a neat story, but only measuring showed what really happens.",
-     "why": "A strong answer says what was found, and that an idea can sound right and still be wrong until someone checks."
+     "a": "They could put small thermometers and air-flow sensors inside real mounds, in the walls and in the middle, and record them day and night. If the air moves differently from what the chimney idea says, the idea is wrong. Reasoning can give a neat story, but only measuring shows what really happens.",
+     "why": "A strong answer plans a real measurement, and says that an idea can sound right and still be wrong until someone checks. (When scientists did measure, the air moved one way by day and the other way by night.)"
     },
     {
      "t": "draw",
@@ -2936,12 +2936,12 @@
   },
   {
    "t": "mcq",
-   "p": "Leopards live in a big park inside Mumbai. What do they most often hunt near people's homes at night?",
+   "p": "A leopard lives in a forest park at the edge of a city. Rubbish piles up near the homes beside the park. Why might the leopard start coming close to those homes at night?",
    "opts": [
-    "Stray dogs",
-    "Elephants",
-    "Fish",
-    "Nothing at all"
+    "The rubbish feeds stray dogs, and the leopard comes to hunt the dogs",
+    "Leopards like the smell of rubbish",
+    "Leopards want to live with people",
+    "Nothing would change"
    ],
    "a": 0,
    "why": "Rubbish feeds stray dogs, and dogs draw leopards. So clearing rubbish is one way to keep leopards away from homes. Wild animals near people usually come for food.",
@@ -3001,7 +3001,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Busy Times test, what was the one thing we changed?",
+   "p": "You want to find out at what time of day most birds come to drink from a water bowl. To make it a fair test, what is the one thing you should change?",
    "opts": [
     "The bowl",
     "The place",
@@ -3009,7 +3009,7 @@
     "How long we watched"
    ],
    "a": 2,
-   "why": "In a fair test we change only one thing. Here it was the time of day. Everything else stayed the same.",
+   "why": "In a fair test we change only one thing. Here it is the time of day. The bowl, the place and how long you watch stay the same.",
    "outcome": 5,
    "how": "e1"
   },

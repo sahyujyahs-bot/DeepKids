@@ -1883,14 +1883,14 @@
   },
   {
    "t": "mcq",
-   "p": "Jane Goodall gave the chimpanzees she watched names, such as David Greybeard. What did she find out about them?",
+   "p": "A scientist watches wild chimpanzees for years. She sees them poke grass stems into termite mounds to pull termites out, and hug each other after a fight. What does this tell her?",
    "opts": [
     "They make and use tools, and have feelings",
     "They only eat leaves",
     "They live alone"
    ],
    "a": 0,
-   "why": "Goodall saw chimpanzees fish for termites with stems, and saw their joy, fear and grief. Chimpanzees eat many foods and live in big communities.",
+   "why": "Choosing and using a stem to catch termites is using a tool. Hugging after a fight shows feelings. Chimpanzees eat many foods and live in big groups.",
    "outcome": 5
   }
  ],

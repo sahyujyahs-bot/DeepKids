@@ -1260,14 +1260,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the story of the bulbuls, why did the bulbul on the nest press down flat and stay still?",
+     "p": "A bird sitting on her nest hears another bird's danger call. Why does she press down flat and stay still?",
      "opts": [
-      "She heard the danger call",
-      "She was sleepy",
-      "She was looking for food"
+      "To hide from the danger",
+      "She is sleepy",
+      "She is looking for food"
      ],
      "a": 0,
-     "why": "The other bulbul gave the danger call when the cat came. The bulbul on the nest hid, and so the cat did not find her."
+     "why": "The danger call warns that a cat or other hunter is near. Pressing flat and staying still makes her hard to see."
     },
     {
      "t": "draw",
@@ -1372,7 +1372,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the sunbird activity, why did the straw reach the juice when the spoon did not?",
+     "p": "Juice is at the bottom of a tall, thin bottle. Why can a straw reach it when a spoon cannot?",
      "opts": [
       "The straw is long and thin",
       "The straw is red",
@@ -1384,7 +1384,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: why did you drop a bean for each call, instead of just remembering?",
+     "p": "Say it to a grown-up, who writes it down: when counting bird calls, why is it better to drop a bean for each call than just to remember?",
      "lines": 2,
      "how": "e1",
      "a": "Because you can count the beans afterwards and compare the cups. Remembering is hard.",
@@ -1588,14 +1588,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the bean test, what did one bean in the cup stand for?",
+   "p": "You drop one bean into a cup each time you hear a bird call. What does one bean stand for?",
    "opts": [
     "One bird",
     "One bird call",
     "One minute"
    ],
    "a": 1,
-   "why": "We dropped one bean every time we heard a call. So more beans means more calls.",
+   "why": "One bean drops for every call. So more beans means more calls.",
    "outcome": 4,
    "how": "e1"
   },

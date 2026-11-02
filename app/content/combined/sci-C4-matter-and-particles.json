@@ -113,7 +113,7 @@
     {"t": "fill", "p": "The jiggling of tiny specks hit by invisible particles is called ____ motion.", "a": ["Brownian", "brownian"]},
     {"t": "sort", "p": "Which of these is evidence that particles exist?", "items": ["colour spreading in still water", "smell crossing a room", "Brown's jiggling specks", "a stone feeling hard", "sugar 'vanishing' in water"], "cats": ["good evidence for particles", "doesn't show particles by itself"]}]],
    ["B. Big thinking", [
-    {"t": "write", "p": "Kanada and Democritus decided matter was made of atoms by thinking, without experiments. Is thinking enough to know something? What did Einstein and Perrin add?", "lines": 4},
+    {"t": "write", "p": "Long ago, some thinkers decided that matter is made of atoms just by thinking, without experiments. Is thinking enough to know something? What kind of evidence would you want?", "lines": 4},
     {"t": "write", "p": "If atoms are almost all empty space, and you are made of atoms, what are YOU mostly made of? How does that make you feel?", "lines": 3},
     {"t": "write", "p": "Bibha Chowdhuri did her work in India during a war, with poorer equipment, and it was later overlooked. Name two things that decide whose discoveries get remembered.", "lines": 3}]]]}
  ],
@@ -198,10 +198,10 @@
   {"q": "What is matter? Is air matter? Is light?", "a": "Anything with mass that takes up space. Air is matter (it has mass, as the balloon balance showed). Light is not matter; it is energy."},
   {"q": "Describe the particles in a solid, a liquid and a gas.", "a": "Solid: close, in rows, vibrating in place. Liquid: close but jumbled, sliding past each other. Gas: far apart, moving fast in all directions."},
   {"q": "What is diffusion, and why is it faster in hot water?", "a": "Particles spreading from where there are many to where there are few. Hot particles move faster, so they spread faster."},
-  {"q": "What did Robert Brown see, and what did it prove?", "a": "Tiny specks jiggling in water. Einstein and Perrin showed it was caused by invisible water molecules hitting them, which proved atoms are real."},
+  {"q": "Under a microscope, tiny specks in water jiggle about all the time, even when the water is still. What could be making them jiggle, and what does this tell us about water?", "a": "Tiny water particles, far too small to see, are always moving and bumping into the specks. So water is made of particles that never stop moving. This was strong evidence that atoms and molecules are real."},
   {"q": "Why does a heavy wooden belan float while a small coin sinks?", "a": "Floating depends on density, not mass. Wood is less dense than water. The coin's metal is denser than water."},
-  {"q": "What did the gold foil experiment show about atoms?", "a": "Atoms are mostly empty space with a tiny, heavy nucleus in the centre."},
-  {"q": "Who were Kanada and Democritus?", "a": "Thinkers in ancient India and Greece who each taught that matter is made of tiny particles (paramanu, atomos), long before experiments proved atoms exist."},
-  {"q": "Who was Bibha Chowdhuri?", "a": "An Indian physicist who, with D.M. Bose, recorded tracks of particles from cosmic rays near Darjeeling in the early 1940s; her work was later overlooked."}
+  {"q": "Scientists fired tiny particles at a very thin sheet of gold. Almost all went straight through, but a few bounced back. What does this tell you about atoms?", "a": "Atoms are mostly empty space, so most particles pass through. The few that bounce back hit a tiny, heavy centre, the nucleus."},
+  {"q": "Long ago, thinkers in India and Greece said that if you keep cutting something smaller, you must reach a piece too small to cut. Why is thinking this not enough to prove that atoms are real?", "a": "An idea can sound right and still be wrong. To know it is true, you need evidence that anyone can check, such as an experiment whose results only make sense if atoms exist. Those experiments came more than 2,000 years later."},
+  {"q": "Sometimes a scientist does good work, but it is forgotten. Give two reasons why this might happen.", "a": "For example: they worked far from the big labs, with poorer equipment; they worked during a war; few people read where they wrote; or people at the time did not listen to women or to scientists from their country."}
  ]
 }

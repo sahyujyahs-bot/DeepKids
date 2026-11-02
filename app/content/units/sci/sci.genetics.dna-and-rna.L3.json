@@ -1731,28 +1731,28 @@
   },
   {
    "t": "mcq",
-   "p": "Before the 1940s, what did most scientists think carried the instructions?",
+   "p": "DNA is written with only four kinds of letters. How can four letters hold all the instructions for a whole living thing?",
    "opts": [
-    "DNA",
-    "Proteins",
-    "Water",
-    "Sunlight"
+    "Very long chains of the four letters can be put in endless different orders",
+    "Each letter is very big",
+    "Four is a special number",
+    "The letters change every day"
    ],
-   "a": 1,
-   "why": "Most thought DNA, with only four letters, was too simple, and that proteins, with 20 kinds of parts, must carry the instructions. Experiments in 1944 and 1952 showed it was DNA.",
+   "a": 0,
+   "why": "Just as a few letters make every word in a book, four letters in a very long chain can be arranged in countless ways. Many scientists once thought four was too few, until experiments showed DNA does carry the instructions.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "In 1952, Alfred Hershey and Martha Chase marked a virus's DNA and protein. Which part went inside the bacteria to make new viruses?",
+   "p": "A virus is made of DNA inside a protein coat. Scientists marked both parts. Only the DNA went inside the bacteria, and new viruses were built there. What does this show?",
    "opts": [
-    "The protein",
-    "The DNA",
-    "Both equally",
-    "Neither"
+    "The protein carries the instructions",
+    "The DNA carries the instructions",
+    "Both carry them equally",
+    "Neither carries them"
    ],
    "a": 1,
-   "why": "Only the DNA went inside the bacteria, and new viruses were built from that DNA. The protein coat stayed outside. This showed that DNA carries the instructions.",
+   "why": "The protein coat stayed outside, yet whole new viruses were built inside. So the instructions must have come in with the DNA.",
    "outcome": 5
   }
  ],

@@ -3289,14 +3289,14 @@
     },
     {
      "t": "mcq",
-     "p": "Water has mass, so a lot of water underground pulls very slightly on things above it. Two satellites called GRACE measured the Earth's pull over north-western India. What did they find?",
+     "p": "Water has mass, so a lot of water underground pulls very slightly on things above it. In north-western India, farmers pump a lot of water out of the ground every year. What would satellites that measure the Earth's pull find there?",
      "opts": [
-      "The pull was getting weaker, because underground water was being used up fast",
-      "A new mountain was growing",
-      "The Earth had stopped spinning there"
+      "The pull is getting weaker, because underground water is being used up",
+      "A new mountain is growing",
+      "The Earth has stopped spinning there"
      ],
      "a": 0,
-     "why": "When water is pumped out, there is less mass under the ground, so the pull gets very slightly weaker. In 2009, scientists used GRACE to show this. Picking 'a new mountain' is a good guess about mass, but the change was less mass, not more."
+     "why": "When water is pumped out, there is less mass under the ground, so the pull gets very slightly weaker. Satellites have really measured this. Picking 'a new mountain' is a good guess about mass, but pumping means less mass, not more."
     },
     {
      "t": "perspective",

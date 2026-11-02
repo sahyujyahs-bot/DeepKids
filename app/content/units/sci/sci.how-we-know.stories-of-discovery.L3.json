@@ -1607,28 +1607,28 @@
   },
   {
    "t": "mcq",
-   "p": "William Perkin, aged 18, tried to make a medicine for malaria in 1856. What did he make instead?",
+   "p": "A young chemist is trying to make a medicine. Instead, his mixture turns bright purple and stains cloth. What is the best thing for him to do?",
    "opts": [
-    "Penicillin",
-    "A purple dye called mauve",
-    "A strong glue",
-    "X-rays"
+    "Throw it away, because it failed",
+    "Test whether the purple could be useful, for example as a dye for clothes",
+    "Hide it so nobody knows",
+    "Add more of everything and hope for medicine"
    ],
    "a": 1,
-   "why": "Perkin's mistake made the first dye from chemicals, a bright purple called mauve. It became hugely popular for clothes.",
+   "why": "A failed experiment can still make something useful for a different job. Testing the strange result is how an accident becomes a discovery. A purple mistake like this really did become the first dye made from chemicals.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Fleming saw a clear ring around a mould on his dish of bacteria. What did he do that made it a discovery?",
+   "p": "A scientist sees a clear ring around a mould on a dish of bacteria. What would turn this lucky accident into a discovery?",
    "opts": [
-    "He threw the dish away",
-    "He grew the mould again and tested the result again",
-    "He went back on holiday",
-    "He painted the dish"
+    "Throwing the dish away",
+    "Growing the mould again and checking whether the bacteria die again",
+    "Going on holiday",
+    "Painting the dish"
    ],
    "a": 1,
-   "why": "He checked. He grew the mould in fresh dishes and saw the bacteria die again. Without the check, it was only a lucky accident.",
+   "why": "Checking turns a surprise into knowledge. If the mould kills the bacteria again in fresh dishes, the result is real. Without the check, it is only a lucky accident.",
    "outcome": 2
   },
   {
@@ -1646,9 +1646,9 @@
   },
   {
    "t": "mcq",
-   "p": "In the Too-Weak Tape Test, which strip is usually best for a note you want to stick and move again?",
+   "p": "You dab strips of tape on a cotton cloth before sticking a paper note down with them. Which strip is usually best for a note you want to stick and move again?",
    "opts": [
-    "The fresh strip",
+    "A fresh strip, never dabbed",
     "A strip dabbed on cloth a few times",
     "A strip dabbed 15 times",
     "A wet strip"
@@ -1674,28 +1674,28 @@
   },
   {
    "t": "mcq",
-   "p": "Jocelyn Bell Burnell found the first pulsar in 1967. Who won the Nobel Prize for it in 1974?",
+   "p": "A student notices a strange signal and checks it carefully. Her supervisor designed the telescope and led the project. Only the supervisor and one other scientist get a big prize. Why do people argue about this?",
    "opts": [
-    "Jocelyn Bell Burnell alone",
-    "Her supervisor Antony Hewish, with Martin Ryle",
-    "Nobody",
-    "Alexander Fleming"
+    "The student did a key part of the work and was left out",
+    "Prizes should go to telescopes",
+    "Nobody did any real work",
+    "The signal was a mistake"
    ],
-   "a": 1,
-   "why": "The prize went to Hewish and Ryle. Bell Burnell was left out, and people still argue about whether that was fair.",
+   "a": 0,
+   "why": "The noticer, the checker and the leader all did a part. When a prize names only some of them, people ask whether the credit was shared fairly. This really happened with the discovery of pulsars, and people still argue about it.",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "K. S. Krishnan, from Tamil Nadu, did the experiments on light with C. V. Raman. Why is his name less known?",
+   "p": "Two scientists do the experiments together and write the paper together. The discovery is named after only one of them, and only he gets the prize. What is most likely to happen to the other one's name?",
    "opts": [
-    "He did not really do any work",
-    "The discovery was named after Raman, and only Raman won the Nobel Prize",
-    "He made a mistake",
-    "He lived after Raman"
+    "Both names are remembered equally",
+    "It is mostly forgotten, because names on discoveries and prizes give more credit to some people",
+    "He gets the prize later instead",
+    "Everyone forgets both of them"
    ],
    "a": 1,
-   "why": "Krishnan wrote the 1928 paper with Raman. But names on discoveries and prizes give more credit to some people than others.",
+   "why": "Names on discoveries and prizes give more credit to some people than others. A person who did half the work can be almost forgotten.",
    "outcome": 4
   },
   {
@@ -1713,10 +1713,10 @@
   },
   {
    "t": "mcq",
-   "p": "In the curd story, Divya's brother Arjun found the best place by accident. Divya says, 'Arjun found it by accident, so he gets no credit.' What is the best answer back?",
+   "p": "A boy puts a bowl of milk on top of the fridge by accident, and the curd sets better there than anywhere else. His sister says, 'He found it by accident, so he gets no credit.' What is the best answer back?",
    "opts": [
     "She is right, accidents don't count",
-    "Without Arjun's accident there would be no surprise to check, so he deserves some credit",
+    "Without his accident there would be no surprise to check, so he deserves some credit",
     "Only grown-ups get credit",
     "The fridge gets the credit"
    ],
@@ -1726,15 +1726,15 @@
   },
   {
    "t": "mcq",
-   "p": "Rosalind Franklin took the photograph that showed the shape of DNA. Why was she not included in the 1962 Nobel Prize?",
+   "p": "Many people help with a big discovery, but a prize can only go to a few. What is the fairest way to tell the story of the discovery?",
    "opts": [
-    "She had died in 1958, and the prize is not given after death",
-    "She asked not to be",
-    "Her photograph was wrong",
-    "She was too young"
+    "Name only the most famous person",
+    "Name everyone who did a key part, such as noticing, explaining, checking and making it useful",
+    "Name nobody",
+    "Name only the people who won the prize"
    ],
-   "a": 0,
-   "why": "Franklin died in 1958. Watson, Crick and Wilkins won in 1962. Her photograph had been shown to Watson without her knowing, and many people think she deserved far more credit.",
+   "a": 1,
+   "why": "Discoveries need many jobs done by many people. A fair story names the people who did each key part, even when a prize could not include them all.",
    "outcome": 4
   }
  ],
@@ -1877,7 +1877,7 @@
     },
     {
      "t": "mcq",
-     "p": "Jocelyn Bell Burnell found a strange mark on her telescope chart. What did she and her team do first?",
+     "p": "A scientist finds a strange mark on her telescope chart. What should she and her team do first?",
      "opts": [
       "Told the newspapers about aliens",
       "Checked whether it was a fault or a signal from Earth",
@@ -1885,20 +1885,20 @@
       "Gave it a prize"
      ],
      "a": 1,
-     "why": "Most strange results turn out to be errors. So the first job is to check. The team found the mark kept time with the stars, so it came from space, not from Earth."
+     "why": "Most strange results turn out to be errors. So the first job is to check. If the mark keeps time with the stars, not with clocks on Earth, it must come from space."
     },
     {
      "t": "write",
-     "p": "Mould had probably landed on other scientists' dishes before 1928. Why do you think Fleming was the one who made it a discovery?",
+     "p": "Mould had probably landed on many scientists' dishes before anyone noticed what it did. Why might only one scientist turn it into a discovery?",
      "lines": 3,
-     "a": "Fleming had studied substances that kill bacteria for years, so he knew a clear ring was important. He did not throw the dish away. He grew the mould again to check.",
-     "why": "A strong answer mentions that he knew enough to see it was strange, and that he checked it. Louis Pasteur said that chance favours the prepared mind."
+     "a": "He knew enough about bacteria to see that a clear ring around the mould was strange and important. He did not throw the dish away. He grew the mould again to check.",
+     "why": "A strong answer mentions knowing enough to see that something is strange, and checking it. Louis Pasteur said that chance favours the prepared mind."
     },
     {
      "t": "truefalse",
-     "p": "A Nobel Prize can be shared by as many people as did the work.",
+     "p": "When a discovery is named after one person, that person did all the work.",
      "a": false,
-     "why": "False. A Nobel Prize can be shared by at most three people. That is one reason why many people who worked on a discovery are left out."
+     "why": "False. Most discoveries need many people: someone notices, someone explains, someone checks, someone makes it useful. Names and prizes often go to only one or a few of them."
     },
     {
      "t": "fill",
@@ -1991,14 +1991,14 @@
        "says": "The supervisor is responsible for a project. Prizes should not usually go to students."
       }
      ],
-     "ask": "Which view do you agree with most? Use what you know about the story. Then answer back from one of the other views.",
+     "ask": "Which view do you agree with most? Give a reason. Then answer back from one of the other views.",
      "lines": 6,
-     "a": "A strong answer picks a view and backs it with facts, for example that she noticed and checked the signal, or that Hewish built and led the project. It then argues fairly from another side.",
+     "a": "A strong answer picks a view and backs it with a reason, for example that she noticed and checked the signal, or that Hewish built and led the project. It then argues fairly from another side.",
      "why": "This is a real argument that has gone on for fifty years. Each view has some truth in it."
     },
     {
      "t": "sort",
-     "p": "Sort each person into the job they did on penicillin.",
+     "p": "Sort each step of turning a mould into a medicine into the job it is.",
      "cats": [
       "Noticed it",
       "Made it into a medicine",
@@ -2006,28 +2006,28 @@
      ],
      "items": [
       [
-       "Alexander Fleming",
+       "Sees that bacteria die near a mould",
        "Noticed it"
       ],
       [
-       "Howard Florey",
+       "Grows enough of it and makes it pure",
        "Made it into a medicine"
       ],
       [
-       "Norman Heatley",
+       "Tests it on sick mice",
        "Made it into a medicine"
       ],
       [
-       "Ernst Chain",
+       "Finds a way to make it in huge amounts",
        "Made it into a medicine"
       ],
       [
-       "Dorothy Hodgkin",
+       "Uses X-rays to see how its atoms are arranged",
        "Found its shape"
       ]
      ],
      "a": "see items",
-     "why": "Fleming noticed the mould's effect in 1928. Florey, Chain and Heatley led the Oxford work that made it a medicine. Hodgkin used X-rays to find its shape in 1945."
+     "why": "Each step is a different job, often done by different people. Noticing is only the start. Making a medicine and finding its shape take many more people."
     },
     {
      "t": "mcq",
@@ -2052,17 +2052,20 @@
     },
     {
      "t": "fill",
-     "p": "Louis Pasteur said, 'In the fields of observation, chance favours only the prepared ____.'",
+     "p": "Luck helps most the person who already knows enough to ____ that something is strange.",
      "a": [
-      "mind"
+      "notice",
+      "see",
+      "spot",
+      "know"
      ],
-     "why": "Pasteur said this in 1854. He meant that luck helps people who already know enough to notice that something is strange."
+     "why": "A lucky accident only becomes a discovery when someone knows enough to see that it is strange. Louis Pasteur said that chance favours the prepared mind."
     },
     {
      "t": "truefalse",
-     "p": "K. S. Krishnan wrote the 1928 paper about the Raman effect together with C. V. Raman, but only Raman won the Nobel Prize.",
+     "p": "A person can do key work on a discovery and still be left out of the famous story.",
      "a": true,
-     "why": "True. Raman and Krishnan did the work together in Kolkata and wrote the paper together. The 1930 Nobel Prize went to Raman alone."
+     "why": "True. Names and prizes often go to one or two people, while others who did the experiments, made things or checked the results are forgotten."
     },
     {
      "t": "label",
@@ -2074,15 +2077,15 @@
     },
     {
      "t": "odd",
-     "p": "Three of these people were left out of a Nobel Prize for a discovery they worked on. Which one won it?",
+     "p": "Three of these are jobs that help make a discovery. Which one is not?",
      "opts": [
-      "Norman Heatley",
-      "Jocelyn Bell Burnell",
-      "Howard Florey",
-      "Rosalind Franklin"
+      "Noticing something strange",
+      "Checking it again",
+      "Explaining why it happens",
+      "Being famous"
      ],
-     "a": 2,
-     "why": "Howard Florey shared the 1945 Nobel Prize with Fleming and Chain. Heatley, Bell Burnell and Franklin did key work but were not included."
+     "a": 3,
+     "why": "Noticing, checking and explaining are all real work on a discovery. Being famous does not find anything out, though it often decides who gets the credit."
     },
     {
      "t": "mcq",
@@ -2098,9 +2101,9 @@
     },
     {
      "t": "write",
-     "p": "Erasto Mpemba's teacher told him he was confused. Was the teacher right to say that? What should the teacher have done instead?",
+     "p": "A student tells his teacher that a hot ice cream mixture froze faster than a cold one in the freezer. The teacher says he is confused. Was the teacher right to say that? What should the teacher have done instead?",
      "lines": 4,
-     "a": "The teacher should not have decided without testing. He could have put hot and cold mixtures in the freezer and watched. Mpemba's result might have been wrong, but only a test could show it.",
+     "a": "The teacher should not have decided without testing. He could have put hot and cold mixtures in the freezer and watched. The student's result might have been wrong, but only a test could show it.",
      "why": "A strong answer says that both a student and a teacher can be wrong, and that a fair test, repeated, is how to find out.",
      "how": "e2"
     },
@@ -2130,20 +2133,20 @@
     },
     {
      "t": "order",
-     "p": "Put Spencer Silver's story in order.",
+     "p": "Put these steps in order, to show how a failed experiment can become something useful.",
      "items": [
-      "Sticky notes go on sale in the USA",
-      "Silver tries to make a strong glue and makes a weak one",
-      "Art Fry needs a bookmark that won't fall out",
-      "Silver tells people at his company about his weak glue"
+      "The useful thing goes on sale",
+      "Someone tries to make a strong glue and makes a weak one",
+      "Someone else needs a bookmark that won't fall out",
+      "The maker tells other people about the weak glue"
      ],
      "a": [
-      "Silver tries to make a strong glue and makes a weak one",
-      "Silver tells people at his company about his weak glue",
-      "Art Fry needs a bookmark that won't fall out",
-      "Sticky notes go on sale in the USA"
+      "Someone tries to make a strong glue and makes a weak one",
+      "The maker tells other people about the weak glue",
+      "Someone else needs a bookmark that won't fall out",
+      "The useful thing goes on sale"
      ],
-     "why": "Silver made the glue in 1968 and spent years telling others about it. Fry used it for bookmarks in 1974. Sticky notes went on sale across the USA in 1980."
+     "why": "A strange result must be shared before someone can find a job for it. Then a need comes along, and the use is found. This is how the glue on sticky notes came about."
     },
     {
      "t": "truefalse",
@@ -2198,9 +2201,9 @@
     },
     {
      "t": "write",
-     "p": "The popular story of penicillin names only Alexander Fleming. Write a fairer version of the story in four sentences.",
+     "p": "The popular story of a medicine often names only the one person who noticed it. Write a fairer version in four sentences: say what other jobs had to be done before sick people could use it.",
      "lines": 5,
-     "a": "In 1928, Fleming noticed that mould killed bacteria on his dish. In 1940, Florey, Chain, Heatley and their Oxford team made it pure and showed it cured infected mice. Factory teams in Britain and the USA learned to make it in huge amounts. Dorothy Hodgkin found its shape in 1945.",
+     "a": "Someone noticed that a mould killed bacteria. A team made it pure and tested it on sick mice to show it worked. Factory teams learned to make it in huge amounts. Other scientists found its shape, so it could be improved.",
      "why": "A strong answer includes the noticing, the making, the testing and the many people, and keeps it short and true."
     },
     {
@@ -2292,18 +2295,20 @@
     },
     {
      "t": "label",
-     "p": "Label the parts of a discovery on this timeline of Becquerel's 1896 story: the plan, the accident, the surprise, the check.",
+     "p": "A scientist planned to leave some uranium salts in sunlight on top of a wrapped photo plate. The sky was cloudy, so he put them in a drawer with the plate. Later he found the plate fogged anyway. Label the parts of this discovery on the timeline: the plan, the accident, the surprise, the check.",
      "a": "Plan: put uranium salts in sunlight on a wrapped plate. Accident: the sky was cloudy, so he put them in a drawer. Surprise: the plate was fogged anyway. Check: no sunlight had reached the plate in the drawer, so the uranium itself was giving out rays.",
      "why": "A strong answer finds each part. The check was the step that showed the uranium itself was giving out rays.",
      "art": "A timeline arrow with four blank boxes along it, each with a small picture: the sun, a cloud, a fogged plate, a closed drawer."
     },
     {
      "t": "fill",
-     "p": "The first pulsar was found in 1967 by Jocelyn Bell. Half as a joke, the team first called its signal LGM-1, for 'little green ____'.",
+     "p": "A telescope picks up a signal that pulses very regularly. Before anyone says it is a message from aliens, the scientists must first ____ whether it is a fault or a natural object.",
      "a": [
-      "men"
+      "check",
+      "test",
+      "find out"
      ],
-     "why": "They wondered for a short time if the regular pulses could be a message. A second pulsar in another part of the sky showed they came from a natural kind of object."
+     "why": "Most strange results are errors or have a natural cause, so checking comes first. Finding a second signal like it in another part of the sky would show it comes from a natural kind of object."
     },
     {
      "t": "write",
@@ -2314,38 +2319,38 @@
     },
     {
      "t": "match",
-     "p": "Match each discovery to the person who is often left out of the story.",
+     "p": "Match each job in a discovery to an example of it.",
      "pairs": [
       [
-       "Penicillin",
-       "Norman Heatley"
+       "Noticing",
+       "Seeing a clear ring around a mould on a dish"
       ],
       [
-       "Pulsars",
-       "Jocelyn Bell Burnell"
+       "Checking",
+       "Growing the mould again to see if it happens again"
       ],
       [
-       "The shape of DNA",
-       "Rosalind Franklin"
+       "Explaining",
+       "Working out why curd sets best in a warm place"
       ],
       [
-       "The Raman effect",
-       "K. S. Krishnan"
+       "Comparing fairly",
+       "Giving medicine to some sick mice and not to others"
       ],
       [
-       "What ATP does in muscles",
-       "Yellapragada Subbarow"
+       "Making it useful",
+       "Finding a way to make a medicine in huge amounts"
       ]
      ],
      "a": "pairs as given",
-     "why": "Each of these people did key work. Some won other honours later, but they are left out of the famous version of the story."
+     "why": "Each job is real work, and often a different person does each one. That is why the famous story with one name is rarely the whole story."
     },
     {
      "t": "write",
-     "p": "Choose one person from this unit who was left out of the credit. Write a short letter to a newspaper, in three sentences, telling what that person really did.",
+     "p": "Think of something a group made together, like a school play, a festival meal or a new invention. Write a short letter to a newspaper, in three sentences, about someone whose work was not noticed, and why it mattered.",
      "lines": 4,
-     "a": "For example: Norman Heatley found a way to grow and clean enough penicillin for the Oxford tests. Without his work, the mouse test could not have happened. He was not named in the 1945 Nobel Prize, and he should be remembered.",
-     "why": "A strong answer names the person, says exactly what they did, and says why it mattered to the discovery."
+     "a": "For example: At our school play, everyone clapped for the actors. But Ravi's uncle built the whole stage and fixed the lights. Without him, nobody could have seen the play, and he should be thanked.",
+     "why": "A strong answer names the person's job, says exactly what they did, and says why it mattered to the whole."
     }
    ]
   }

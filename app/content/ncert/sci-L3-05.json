@@ -422,14 +422,14 @@
         ["A. Puzzles", [
           {"t": "write", "p": "A tree drops 10,000 leaves every year, but the ground under it is never covered a metre deep. Where do the leaves go?", "lines": 2},
           {"t": "mcq", "p": "Put a butterfly's life in order: which comes straight after 'caterpillar eats and grows'?", "opts": ["Egg", "Pupa (chrysalis)", "Butterfly flies away", "Caterpillar hatches"], "a": 1},
-          {"t": "write", "p": "Why did the heated soil tray grow almost nothing?", "lines": 2}
+          {"t": "write", "p": "A tray of soil is baked hot in an oven, cooled, watered and left beside a tray of unbaked soil. The baked tray grows almost nothing. Why?", "lines": 2}
         ]],
         ["B. What if?", [
           {"t": "write", "p": "What if all the earthworms and decomposers in a garden disappeared? What would happen to the dead leaves and to the plants?", "lines": 3},
           {"t": "write", "p": "What if all the big old trees with hollows in your area were cut down? Which animals would lose their homes?", "lines": 3}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "Many farmers once thought earthworms were pests. Darwin showed they make soil. What did he do to find out, instead of just guessing?", "lines": 3},
+          {"t": "write", "p": "Many farmers once thought earthworms were pests. How could you find out, by testing instead of guessing, whether earthworms help soil?", "lines": 3},
           {"t": "mcq", "p": "Some birds in noisy cities sing higher songs. Which question are scientists still arguing about?", "opts": ["Whether birds sing at all", "Whether the higher song is a real change to be heard over noise, or just a side effect of singing louder", "Whether cities have birds", "Whether birds have ears"], "a": 1},
           {"t": "write", "p": "Rachel Carson said insect sprays were killing birds. The companies that made them said she was wrong. What evidence would you collect to decide who was right?", "lines": 4}
         ]]
@@ -597,6 +597,6 @@
     {"q": "Where do the new plants that appear in the monsoon come from?", "a": "From seeds that were already resting in the soil, waiting for water; our plain-soil tray grew plants even though we planted nothing."},
     {"q": "Give three examples of animals using plants, one each for food, nest and rest.", "a": "Food: monkeys eat fruit, sunbirds drink nectar, camels eat leaves, caterpillars munch leaves. Nest: tailorbirds stitch leaves, owls use tree hollows, squirrels and crows use twigs. Rest: bats and leopards rest on branches."},
     {"q": "When do we hear the most bird sounds, and why might we hear none?", "a": "Usually in the early morning, and again in the evening. We might hear none because of traffic noise, no trees or food, hot afternoon rest, rain, or chemicals that killed the insects birds eat."},
-    {"q": "Put Suma's caterpillar in order.", "a": "It stopped eating, it formed a cocoon (for a butterfly, a chrysalis), it came out of the cocoon, now it was a butterfly, it flew away gently."}
+    {"q": "Put the stages of a caterpillar becoming a butterfly in order.", "a": "It eats and grows, then stops eating; it forms a chrysalis (a moth makes a cocoon); its body is rebuilt inside; it comes out as a butterfly; it dries its wings and flies away."}
   ]
 }

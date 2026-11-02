@@ -2331,10 +2331,10 @@
     },
     {
      "t": "write",
-     "p": "Antonie van Leeuwenhoek was a cloth-seller in Delft with no university degree. People doubted the tiny creatures he said he saw. What did he do so others would believe him? What would you do?",
+     "p": "Someone with no university degree says they have seen tiny living creatures that nobody else has seen. People doubt them. What could they do so others would believe them? What would you do?",
      "lines": 4,
-     "a": "He wrote very careful descriptions and drawings, looked again many times, and sent signed letters from respected people who had seen the creatures too. Later the Royal Society saw them for themselves. I would show other people how to repeat my test, so they could see it with their own eyes.",
-     "why": "Science trusts things that other people can check for themselves. A strong answer says how others could repeat what he saw."
+     "a": "Write very careful descriptions and drawings, look again many times, and ask respected people to come and see the creatures too. I would show other people how to repeat my test, so they could see it with their own eyes.",
+     "why": "Science trusts things that other people can check for themselves. A strong answer says how others could repeat what was seen."
     },
     {
      "t": "mcq",
@@ -2371,7 +2371,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the story, Kavya dropped chalk specks onto a Stentor, a trumpet-shaped single cell with no brain. They bent away, then reversed their hairs, then shrank, then swam off. Which answer best describes this?",
+     "p": "A Stentor is a trumpet-shaped single cell with no brain. Drop chalk specks onto one, and it bends away, then reverses its hairs, then shrinks, then swims off. Which answer best describes this?",
      "opts": [
       "Being pushed by the water",
       "Doing exactly one thing for ever",
@@ -2379,7 +2379,7 @@
       "Sleeping"
      ],
      "a": 2,
-     "why": "Stentor tried a series of different responses. In 2019, scientists repeated this experiment and found that most Stentors did try different things, though not always in the same order. Being pushed by the water would not explain why they changed what they did."
+     "why": "Stentor tries a series of different responses. In 2019, scientists repeated this experiment and found that most Stentors did try different things, though not always in the same order. Being pushed by the water would not explain why they changed what they did."
     },
     {
      "t": "perspective",

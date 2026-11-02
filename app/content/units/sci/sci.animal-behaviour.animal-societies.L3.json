@@ -1671,15 +1671,15 @@
   },
   {
    "t": "mcq",
-   "p": "Where did the idea of a fighting 'alpha wolf' come from?",
+   "p": "Scientists watched wolves who were strangers put together in a zoo, and saw them fight for rank. Why might this give the wrong idea about wild wolf packs?",
    "opts": [
-    "From watching wild wolf families for many years",
-    "From watching strangers put together in a zoo",
-    "From old songs",
-    "From dogs"
+    "Wild packs are families, and strangers in a zoo do not behave like a family",
+    "Zoo wolves are a different animal",
+    "Wolves never fight",
+    "Dogs are not wolves"
    ],
-   "a": 1,
-   "why": "Rudolph Schenkel watched unrelated wolves in a zoo in Basel in the 1940s. They fought for rank. David Mech later watched wild wolves and showed that packs are families.",
+   "a": 0,
+   "why": "How animals act depends on who they live with. Wild packs are mostly parents and their young, who do not fight for rank. Watching wild wolves showed this.",
    "outcome": 4
   },
   {
@@ -2166,15 +2166,15 @@
     },
     {
      "t": "mcq",
-     "p": "In Ropalidia marginata, a paper wasp found across India, what happens when the calm queen is taken away?",
+     "p": "In some paper wasp nests, the queen is calm and does not bully the workers, yet only she lays eggs. When she is taken away, one worker becomes aggressive for a short time, then calms down and starts laying eggs. What does this suggest?",
      "opts": [
-      "The nest falls apart",
-      "One worker becomes very aggressive for a while, then becomes the next calm queen",
-      "The biggest wasp kills the others",
-      "The wasps fly off to find the old queen"
+      "The nest falls apart without a queen",
+      "A queen does not need to bully to keep her place",
+      "The biggest wasp is always the queen",
+      "Workers can never change their job"
      ],
      "a": 1,
-     "why": "Raghavendra Gadagkar's team found that one worker becomes very aggressive for a short time, then calms down and starts laying eggs as the new queen. So a queen can keep her place without bullying."
+     "why": "The old queen kept her place calmly, and a worker could become the new queen. So in this wasp, being queen is not about bullying."
     },
     {
      "t": "draw",

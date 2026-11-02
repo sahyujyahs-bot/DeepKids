@@ -455,7 +455,7 @@
      [
       {
        "t": "mcq",
-       "p": "In our seed test, what did we change?",
+       "p": "You want to find out how temperature changes how fast seeds sprout. What should you change?",
        "opts": [
         "the number of seeds",
         "the temperature",
@@ -465,7 +465,7 @@
       },
       {
        "t": "sort",
-       "p": "In our test, did we change it or keep it the same?",
+       "p": "You test how temperature changes how fast seeds sprout. Which do you change, and which do you keep the same?",
        "items": [
         "temperature",
         "kind of seed",
@@ -481,7 +481,7 @@
       },
       {
        "t": "mcq",
-       "p": "Where did the seeds sprout most slowly?",
+       "p": "Seeds on wet cotton are put in a fridge, in a room and in a warm spot. Where will they most likely sprout most slowly?",
        "opts": [
         "in the fridge",
         "in the room",
@@ -1151,12 +1151,12 @@
    "a": "How hot or cold something is, in degrees Celsius (°C)."
   },
   {
-   "q": "In our test, where did the seeds sprout fastest and slowest?",
-   "a": "Fastest in the warm spot or room, slowest in the fridge (your results may vary. The reasons matter)."
+   "q": "Seeds are put on wet cotton in a fridge, in a room and in a warm spot. Where would they sprout fastest and slowest, and why?",
+   "a": "Fastest in the warm spot or the room, slowest in the fridge. Warmth speeds up the living changes inside a seed, and cold slows them down (real results may vary, but the reasons matter)."
   },
   {
-   "q": "What did we keep the same, and why?",
-   "a": "The kind and number of seeds, the water, the cotton and the darkness, so only temperature changed and the test was fair."
+   "q": "You test how temperature changes how fast seeds sprout. What should you keep the same, and why?",
+   "a": "The kind and number of seeds, the water, the cotton and the darkness, so only temperature changes and the test is fair."
   },
   {
    "q": "Is hotter always better for plants? Explain.",

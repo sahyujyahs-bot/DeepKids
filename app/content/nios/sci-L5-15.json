@@ -334,7 +334,7 @@
           {"t": "mcq", "p": "Which uses the least energy and materials?", "opts": ["Recycling a glass jar into a new jar", "Reusing the jar to store dal", "Burning the jar", "Throwing it in a landfill"], "a": 1}
         ]],
         ["B. Weighing the voices", [
-          {"t": "write", "p": "Rachel Carson was called alarmist by chemical companies. What kind of evidence later showed she was right?", "lines": 3},
+          {"t": "write", "p": "A scientist warns that a spray used on crops is harming birds. The company that makes the spray says she is just scaring people. What kind of evidence would show who is right?", "lines": 3},
           {"t": "write", "p": "Almitra Patel used the courts to change rules. Can rules alone make a city clean? What else is needed?", "lines": 3},
           {"t": "write", "p": "Should a city burn its waste for electricity, or put its money into segregation, composting and recycling? Give one argument for each, then your decision.", "lines": 4}
         ]]

@@ -1192,14 +1192,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the head strip test, who was the most head strips tall?",
+     "p": "You measure how many of their own head-lengths tall a grown-up, a child and a baby are. Who will be the most head-lengths tall?",
      "opts": [
       "The grown-up",
       "The child",
-      "The baby photo"
+      "The baby"
      ],
      "a": 0,
-     "why": "The grown-up was about 7 head strips tall, the child about 6 and the baby about 4. As we grow up, our legs grow much more than our head.",
+     "why": "The grown-up is about 7 head-lengths tall, the child about 6 and the baby about 4. As we grow up, our legs grow much more than our head.",
      "how": "e1"
     },
     {

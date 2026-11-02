@@ -1833,14 +1833,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Nila, the girl in the story, put a cup of straight moong shoots by a window. The next day, which way did they lean?",
+   "p": "You put a cup of straight moong shoots by a window. The next day, which way will they lean?",
    "opts": [
     "Towards the window",
     "Away from the window",
-    "They fell flat"
+    "They fall flat"
    ],
    "a": 0,
-   "why": "The shoots sensed the light and grew towards it. Picking 'fell flat' may mean thinking the shoots were knocked over, but they stood up, only leaning.",
+   "why": "The shoots sense the light and grow towards it. Picking 'fall flat' may mean thinking the shoots get knocked over, but they stand up, only leaning.",
    "outcome": 1
   },
   {

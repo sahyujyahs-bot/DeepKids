@@ -367,8 +367,8 @@
       "day": 4,
       "sections": [
         ["A. Getting there", [
-          {"t": "mcq", "p": "Why did Dadiji at first not want to go to the mela?", "opts": ["She was busy cooking", "Her legs hurt", "She did not like melas", "There was no bus"], "a": 1},
-          {"t": "fill", "p": "On the bus, Dadiji sat in a seat ____ for older people.", "a": ["reserved", "kept"]},
+          {"t": "mcq", "p": "A grandmother's legs hurt, but she wants to come to the mela. What would help her most?", "opts": ["A seat on the bus and a wheelchair at the mela", "Walking faster to get there sooner", "Going on her own", "Standing all the way on the bus"], "a": 0},
+          {"t": "fill", "p": "Some seats on a bus are ____ for older people, so they always have a place to sit.", "a": ["reserved", "kept"]},
           {"t": "sort", "p": "Is it safe or unsafe on a bus or road?", "items": ["Putting your head out of the window", "Holding an elder's hand while walking", "Jumping around on the bus", "Looking both ways before crossing", "Sitting on your seat", "Getting off before the bus stops"], "cats": ["Safe", "Unsafe"]}
         ]],
         ["B. At the mela", [
@@ -377,7 +377,7 @@
           {"t": "write", "p": "You are lost at the mela. Write three things you will do.", "lines": 3}
         ]],
         ["C. Clean and healthy", [
-          {"t": "mcq", "p": "Why did Mohan Chacha ask the children to wash their hands before eating?", "opts": ["To make them cold", "To wash off germs that can make us sick", "Because the food was hot", "To pass time"], "a": 1},
+          {"t": "mcq", "p": "Why should we wash our hands before eating?", "opts": ["To make them cold", "To wash off germs that can make us sick", "Because the food was hot", "To pass time"], "a": 1},
           {"t": "fill", "p": "After eating, the children put all the waste in the ____.", "a": ["dustbin", "bin"]},
           {"t": "draw", "p": "Draw one mela food you would like to eat and the dustbin where its plate will go."}
         ]]
@@ -420,7 +420,7 @@
           {"t": "write", "p": "What if nobody at the mela put their waste in a dustbin for a week? Think about flies, cows, rain and smell.", "lines": 3}
         ]],
         ["C. Comparing views", [
-          {"t": "write", "p": "In 1847 many doctors refused to believe Semmelweis when he said washing hands saved mothers' lives. What evidence did he have? Why might people refuse to believe evidence?", "lines": 4},
+          {"t": "write", "p": "Long ago, a doctor noticed that far fewer mothers died in a hospital ward where doctors washed their hands. Many doctors refused to believe him. Why is this good evidence? Why might people refuse to believe evidence?", "lines": 4},
           {"t": "mcq", "p": "Crowd scientists say the biggest danger in a big crowd is usually:", "opts": ["People panicking for no reason", "Too many people squeezed into too small a space", "Loud music", "Too many stalls"], "a": 1},
           {"t": "write", "p": "Some dogs sniffed out an illness well in a laboratory but less well in a real hospital. What would you need to see before you trusted a dog instead of a doctor's test?", "lines": 3}
         ]]
@@ -583,7 +583,7 @@
   ],
   "check": [
     {"q": "Name four things you should pack before going to a mela, and say why one of them matters.", "a": "For example a filled water bottle, a cap, a little money, a snack, a hanky, a bag for rubbish, a card with your name and phone number. The phone-number card helps the Lost and Found volunteers find your family if you get lost."},
-    {"q": "How did the families help Dadiji on the trip?", "a": "Nita held her hand and led her slowly to the bus stop, the conductor and Nita's father helped her get on, she sat in a seat reserved for older people, and Mohan Chacha and Rohit fetched her a wheelchair at the mela."},
+    {"q": "Name three ways people can help an older person with sore legs on a trip to a busy place.", "a": "Hold their hand and walk slowly, help them on and off the bus, give them a seat kept for older people, and fetch a wheelchair for long walks. Stay close to them in the crowd."},
     {"q": "Give three rules for travelling safely on a bus or a road.", "a": "Look both ways before crossing; walk carefully watching vehicles from both directions; sit on your seat and don't jump around; never put your hands or head out of the window; wait for the bus to stop before getting on or off."},
     {"q": "Why are a Lost and Found booth, an ambulance and a fire engine kept at a mela?", "a": "Lost and Found keeps lost children and things safe until families come; the ambulance takes sick or hurt people for treatment; the fire engine puts out any fire. In a crowd, help must be ready close by."},
     {"q": "What should you do if you get lost at a mela?", "a": "Stay where you are or go to the meeting point, ask a police officer, a volunteer or the Lost and Found booth for help, tell them your name and your parent's phone number, and never go away with a stranger."},

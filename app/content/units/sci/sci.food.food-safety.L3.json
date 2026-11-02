@@ -2063,14 +2063,14 @@
   },
   {
    "t": "mcq",
-   "p": "Scientists at Rutgers University tested the five-second rule. What did they find?",
+   "p": "A piece of wet food drops on the floor, and you pick it up in under five seconds. Is it free of germs?",
    "opts": [
-    "Bacteria moved onto food in under one second",
-    "Food was clean if lifted within five seconds",
-    "Only dry food picked up bacteria"
+    "No. Germs can move onto food in under a second, and wet food picks up the most",
+    "Yes, if it is lifted within five seconds",
+    "Yes, unless it is dry food"
    ],
    "a": 0,
-   "why": "Some bacteria moved across in under a second. Wet food picked up the most, and longer contact moved more.",
+   "why": "Germs move across as soon as food touches the floor. Wet food picks up the most, and longer contact moves more. When scientists tested it, some germs moved across in under a second.",
    "outcome": 6
   },
   {
@@ -2519,14 +2519,14 @@
     },
     {
      "t": "mcq",
-     "p": "Alice Evans, a scientist in the United States, found in 1917 that a bacterium making cows ill was almost the same as one causing a fever in people. What did she say should happen to milk?",
+     "p": "A scientist finds that a germ making cows ill is almost the same as one that gives people a fever. Cows can carry it even when they look healthy. What should be done to their milk?",
      "opts": [
       "It should be pasteurised",
       "It should be kept in the sun",
       "It should be mixed with salt"
      ],
      "a": 0,
-     "why": "She warned that raw milk from cows that looked healthy could make people ill. Pasteurising kills most of these bacteria."
+     "why": "Raw milk from cows that look healthy could still make people ill. Pasteurising heats the milk enough to kill most of these germs."
     },
     {
      "t": "write",

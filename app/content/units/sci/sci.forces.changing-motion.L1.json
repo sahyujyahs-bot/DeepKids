@@ -1412,8 +1412,8 @@
     },
     {
      "t": "draw",
-     "p": "Draw Ammu's boat stopping at the steps. Draw her oar pushing the water forward.",
-     "a": "A boat, a girl, and an oar pushing towards the front of the boat.",
+     "p": "Draw a rowing boat stopping at the steps. Draw the oar pushing the water forward.",
+     "a": "A boat, a rower, and an oar pushing towards the front of the boat.",
      "why": "A strong drawing shows the oar pushing towards the front. Pushing the water forward slows the boat down.",
      "art": "A blank box with wavy lines for water at the bottom."
     },
