@@ -109,7 +109,7 @@
    "concept": "How a touch-me-not folds their leaves",
    "status": "defined",
    "context": "This card explains what happens inside a touch-me-not leaf when you touch it.",
-   "definition": "At the base of each leaflet is a small swelling full of water. A touch sends a signal through the leaf. Water moves quickly out of the cells on one side of each swelling, and the leaflets fold together.",
+   "definition": "A touch-me-not folds when water moves out of the small swellings at the base of their leaflets.",
    "description": "At the base of each leaflet is a small swelling that holds water. A touch starts an electrical signal that runs along the leaf. Water quickly moves out of the cells on one side of each swelling, and the leaflets fold in a second or two. After about a quarter of an hour, water moves back and the leaflets open again. Every night the leaves fold by themselves too.",
    "examples": [
     "A light touch on one leaflet folds a few pairs.",
@@ -832,7 +832,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Your child tries each touch on its own leaf, one at a time. 2. After each one, count the pairs of leaflets that folded. 3. Write the number down.",
-     "say": "Blow gently from a hand away. Did any leaflets fold? Count the pairs. Now try the feather on the next leaf.",
+     "say": "Blow gently from a hand's length away. Did any leaflets fold? Count the pairs. Now try the feather on the next leaf.",
      "kid": "Try one touch on one leaf. Count the pairs that fold. Write the number. Then try the next touch.",
      "ask": [
       {
@@ -892,7 +892,7 @@
      "qty": 1
     },
     {
-     "item": "a paper with E written on it, for the east wall, and one with W, for the west wall",
+     "item": "a paper with E written on it, for the east wall, and one with W, for the west wall, and sticky tape to fix them",
      "qty": 2
     }
    ],
@@ -1132,7 +1132,7 @@
       },
       {
        "f": "You are lying on your side.",
-       "b": "Point your feet, your roots, to the floor."
+       "b": "Slowly curve your feet, your roots, round to point at the floor."
       },
       {
        "f": "A finger touches your leaf.",
@@ -1314,7 +1314,7 @@
     "Use only things from home: paper, card, foil, a steel plate, a box, tape."
    ],
    "materials": [
-    "a cup of young moong shoots, grown in the dark as in the window test, and a second cup to leave with no help, if you have grown two",
+    "a cup of young moong shoots, grown in the dark as in the window test (start at least 5 days ahead), and a second cup to leave with no help, if you have grown two",
     "white paper or card",
     "kitchen foil, if you have some",
     "a steel plate",
@@ -1434,7 +1434,7 @@
        "the shoot bends towards it"
       ],
       [
-       "Lying on their side",
+       "A sprout lying on its side",
        "the root turns down"
       ],
       [
@@ -1597,7 +1597,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Most plants move by growing, which is slow. A touch-me-not and a Venus flytrap move fast by moving water in their cells."
+     "why": "Most plants move by growing, which is slow. A touch-me-not moves fast by moving water in their cells. A Venus flytrap also shuts in about a second."
     },
     {
      "t": "write",
@@ -2010,7 +2010,7 @@
  "open_questions": [
   {
    "q": "Does a touch-me-not feel a touch, the way we feel one?",
-   "why_open": "Plants feel touch and remember it. Scientists have measured the electrical signal a touch starts. Many still argue about what the plant experiences, because nobody can ask a plant."
+   "why_open": "Scientists have measured the electrical signal a touch starts. Many still argue about whether the plant feels it, because nobody can ask a plant."
   },
   {
    "q": "How exactly does the growth chemical know to move to the shady side of a shoot?",
@@ -2083,7 +2083,7 @@
    "why_maths": "A tally shows at a glance which touch the plant responded to most."
   },
   {
-   "problem": "A moong root was 2 cm long, pointing up. The next day the root had grown 1 cm more, and the new part curved down. If the root keeps growing 1 cm a day, how long will the root be after 4 days in all?",
+   "problem": "A moong root is 2 cm long. It grows 1 cm every day. How long will the root be after 4 days?",
    "answer": "6 cm.",
    "explain": "2 cm to start, then 1 cm each day for 4 days: 2 + 1 + 1 + 1 + 1 = 6.",
    "math_unit": "math.length.standard-units-length.L2",
@@ -2302,5 +2302,5 @@
    "Inner-ear crystals (otoconia) and the sense of gravity in humans: any human biology textbook."
   ]
  },
- "playtest": "Walked through both games card by card, with 2 and with 4 players, the window test, root box, touch-me-not tests, sunflower act-out and turn-the-pot project as a family would in a flat, and the worksheets and quiz as a Class 2 child. Fixed the pairs cards (printed as 16 plain cards with nothing on the back to give the pairs away, and a doubtful memory-experiment pair swapped for a safe one), added an ending and a tie rule to both games, made the step and schedule minutes agree in the window test, root box and touch-me-not tests, hedged the one disputed experiment, introduced every made-up child, removed duplicate questions, and fixed pronouns."
+ "playtest": "Walked through both games card by card with 2 and with 4 players, then the window test, root box, touch-me-not tests, sunflower act-out, turn-the-pot project and challenge as a family in a flat, and the worksheets and quiz as a Class 2 child. Checked that step minutes, schedules and printed pieces agree, and that every made-up child is introduced. This pass fixed: a game card that was hard to act out lying down, a missing tape for the E and W papers, a 'hand away' typo, an open question that stated a disputed idea as fact, a repeated explanation line, an unclear root-growth sum, a lead-time note for the challenge, and pronouns for the sprout."
 }

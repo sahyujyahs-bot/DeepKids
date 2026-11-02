@@ -25,7 +25,7 @@
 
 Three of them we take inside our bodies: air, water and food. Two of them stay outside us and keep us safe: clothes and a home. Every person on Earth needs all five, wherever they live, rich or poor, young or old.
 - e.g. A newborn baby drinks milk. Milk gives the baby both food and water.
-- e.g. A fisherwoman at sea near Kochi takes drinking water on the boat. Sea water is too salty to drink.
+- e.g. A fisher family at sea near Kochi takes drinking water on the boat. Sea water is too salty to drink.
 - e.g. A woman soldier in the snow of Ladakh needs thick clothes and a warm tent.
 ### We need air, water and food again and again · *defined*
 **Definition:** Our body keeps using up air, water and food, so we must take them in again and again.
@@ -54,7 +54,7 @@ In the wind box test, the closed wall faced the fan. The air hit that wall and w
 A crow drinks from a bowl on the balcony on a hot day. A pigeon builds a nest on a ledge, out of the rain. A tulsi or money plant in a pot needs water and light. Crows, pigeons and plants are aware of the world around them, as we are. We are one animal among many, and our needs are much the same as theirs.
 - e.g. A cat curls up in a warm, dry corner to sleep.
 - e.g. A crow chooses a shady branch at noon in summer.
-- e.g. Some ants carry their eggs to a drier place when it rains.
+- e.g. Ants carry their young to a drier place when their nest gets wet.
 
 ## Mostly agreed
 - Every person needs air, water and food to stay alive, and clothes and a home to stay safe and well. *How we know:* Doctors everywhere agree. People who go without air, water or food become ill quickly and can die.
@@ -91,7 +91,7 @@ The air that moves as wind is the same air we breathe. A wall does not take that
 - **Thirukkural 11:** Rain keeps the world alive, so rain is called the nectar that gives life. (Every person, crow and plant needs water. The water in our taps and wells came first as rain.)
 - Science (settled): Wind flows around a wall or a row of trees and leaves calmer air behind it. Farmers use windbreaks for this.
 - Science (open): How a pigeon or an ant senses and chooses the safest, calmest spot is still being studied.
-- Other view, Many scientists: Some scientists say the pigeon does not choose a calm place. They say she moves until the wind stops pushing on her feathers, the way a ball rolls into a dip. Others say she feels the wind and decides.
+- Other view, Many scientists: Some scientists say the pigeon settles where the wind stops pushing on her feathers, the way a ball rolls into a dip, and that this is all it takes. Others say she notices the wind and picks the spot.
 - Practice, Be a wall for your breath (2 min): Hold one hand up in front of your face, a little away. Blow gently on it. Can you feel your breath? Now hold your other hand in between, like a wall. Blow again. Can the back hand feel your breath now? Where did your breath go? Sit still and feel the calm air behind your wall.
 - Ask: When the wind goes around your home, where does it go next?
 - Ask: In the story, the pigeon sat behind the water tank. How do you think she knew where the calm air was?
@@ -180,7 +180,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
   *Parent says:* Look at the five needs. Can you point to something in our home that gives each one?  
   *Child mode:* Point to something at home for each need.
 ### g2 · Weather Comes! Run to the right shelter (10 min)
-- **rules:** Choose one caller. The caller holds the 6 weather cards.; The caller shows a card and reads it out.; Everyone runs to the right shelter, or does the right action.; The caller reads the back of the card to check.; Then a new player becomes the caller. The game ends when everyone has been the caller once. With two players, each caller shows all 6 cards.
+- **rules:** Choose one caller. The caller holds the 6 weather cards.; The caller shows a card and reads it out.; Everyone runs to the right shelter, or does the right action.; The caller reads the back of the card to check.; Each caller mixes the cards and shows three of them, then the next player becomes the caller. The game ends when everyone has been the caller once. With two players, that is two turns.
 - **Printable cards: 6 weather cards to cut out:** Rain! (back: Get under a roof. Crawl under the table.); Wind! (back: Get behind a wall. Crouch behind the sofa, on the side away from the fan.); Hot sun! (back: Get into the shade. Put a cap or a towel on your head.); Cold night! (back: Wrap up in a shawl or a bedsheet.); Mosquitoes! (back: Pull your sleeves down to your wrists.); Thirsty! (back: Pretend to drink a tumbler of water.)
 - **s1 (2 min)**  
   *Parent does:* 1. Switch the fan on. 2. Put a shawl and a cap on a chair. 3. Show everyone the table and the sofa.  
@@ -216,7 +216,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
   *Child mode:* Watch the flag. What is moving it?
   - Ask: What is making the flag move? (good: The wind from the fan.; Moving air.)
 - **s3 (3 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts the top and bottom flaps off the carton, so both ends are open. 2. Lay it on its side. 3. Show the tunnel, a cut-off flap and tape. 4. Ask for guesses.  
+  *Parent does:* 1. A grown-up cuts the top and bottom flaps off the carton, so both ends are open. 2. Lay it on its side. 3. Show the tunnel, the cardboard and tape. 4. Ask for guesses.  
   *Parent says:* Soon this tunnel will become a box with one door. Which shelter will keep the flag still? Should the door face the fan, or face away? Why do you think so?  
   *Child mode:* Which shelter will keep the flag still? Why do you think so?
   - Ask: Where should the door face? Why? (good: Away from the fan, so the wind can't get in.; Towards the fan, so I can see in.)
@@ -227,7 +227,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
   *Child mode:* Your flag has a roof now. Does it still flap?
   - Ask: Did the tunnel keep the wind out? (good: No, the wind blew straight through.; The flag still flapped.)
 - **s5 (4 min) · grown-up needed**  
-  *Parent does:* 1. Lift the carton off. 2. Tape the piece of card over one end, so the box has one open door. 3. Put it back over the flag with the door facing the fan. 4. Watch for a slow count of ten.  
+  *Parent does:* 1. Lift the carton off. 2. Tape the cardboard over one end, so the box has one open door. 3. Put it back over the flag with the door facing the fan. 4. Watch for a slow count of ten.  
   *Parent says:* Now the box has one door, and the door faces the fan. Watch the flag.  
   *Child mode:* Now the door faces the fan. Watch the flag.
   - Ask: What did the flag do? (good: It flapped.; It wobbled, because wind came in through the door.)
@@ -267,7 +267,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 ### a2 · Find the Calm Spots at Home (10 min)
 - **record:** Draw a map of the room. Draw the fan, and a star on each calm spot.
 - **s1 (7 min)**  
-  *Parent does:* 1. Switch on a table fan. 2. Your child holds the flag at knee height and walks slowly round the room. 3. Put a paper star wherever the flag hangs still.  
+  *Parent does:* 1. Switch on a table fan. 2. Lift the pencil with the flag out of the tumbler. Your child holds it at knee height and walks slowly round the room. 3. Put a paper star wherever the flag hangs still.  
   *Parent says:* Let's find the calm spots in this room. Hold your flag low. Where does it hang still?  
   *Child mode:* Walk slowly with your flag. Where does it hang still?
   - Ask: Why is this spot calm? (good: The sofa is in the way of the wind.; It is behind something.)
@@ -296,7 +296,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 - **safety:** Use light chairs, and keep the tent away from the fan blades and the stove.
 - **record:** Draw your tent from outside, with the fan, and draw the five needs inside.
 - **s1 (8 min)**  
-  *Parent does:* 1. Put two chairs back to back, a little apart. 2. Spread the bedsheet over them. 3. Tuck it in so three sides are closed and one side is open.  
+  *Parent does:* 1. Put two chairs back to back, a little apart. 2. Spread the bedsheet over them so it hangs down on every side. 3. Weigh the edges down with books. 4. Fold one edge up on top: that is the door.  
   *Parent says:* Let's build a home, like the tent in our story. Where should the door go?  
   *Child mode:* Build a tent with chairs and a sheet. Where will the door go?
 - **s2 (7 min)**  
@@ -350,11 +350,11 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
    **Answer:** The flag points away from the fan, with lines of air between them.. *Why:* A strong drawing shows the flag blown away from the fan by the moving air.
 6. (truefalse) We need air only when we are running.  
    **Answer:** False. *Why:* False. We breathe all the time, even when we sit still and when we sleep. We breathe faster when we run.
-7. (odd) Which one is NOT a basic need?  
-   Options: Water / Food / A video game / A home  
-   **Answer:** 2. *Why:* A video game is fun, but we can live without it. Water, food and a home are needs.
-8. (write) Say it to a grown-up, who writes it down: why do you drink water every day?  
-   **Answer:** My body keeps losing water when I wee, sweat and breathe out. So I must drink more.. *Why:* A strong answer says the body uses up or loses water, so it must be put back again and again.
+7. (odd) Which one does NOT keep the wind off us?  
+   Options: A wall / A row of trees / A water tank / An empty open field  
+   **Answer:** 3. *Why:* Walls, trees and a tank make the wind go around them. An open field has nothing to stop it.
+8. (write) Say it to a grown-up, who writes it down: you ran fast in the sun. Which two needs does your body ask for after, and how can you tell?  
+   **Answer:** Water, because I feel thirsty and sweaty. Air, because I breathe fast.. *Why:* A strong answer names water and air, and says what the body does to show it: thirst and fast breathing.
 9. (label) Here is a house. Write R next to the part that keeps off the rain, W next to the part that stops the wind, and A next to the part that lets in fresh air.  
    **Answer:** R on the roof, W on a wall, A on a window.. *Why:* A roof keeps off rain and sun, walls stop the wind, and windows let fresh air in.
 10. (mcq) A crow comes to a bowl on the balcony on a hot day. Which need is the crow meeting?  
@@ -362,7 +362,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
    **Answer:** Water. *Why:* The crow is thirsty, like us on a hot day. Crows need water too.
 ### Needs, Wind and Shelter (stretch) (stretch, 10 questions)
 1. (perspective) Two friends in Kolkata, Rumi and Joyita, are building a tent on a windy terrace.  
-   **Answer:** Joy will have a calmer tent, because the closed back faces the wind. But Rumi is right that a home needs fresh air. A tent with its door away from the wind still gets fresh air through the door.. *Why:* A strong answer uses the wind box test and is fair to Rumi: fresh air is a need too.
+   **Answer:** Joyita will have a calmer tent, because the closed back faces the wind. But Rumi is right that a home needs fresh air. A tent with its door away from the wind still gets fresh air through the door.. *Why:* A strong answer uses the wind box test and is fair to Rumi: fresh air is a need too.
 2. (mcq) A farmer plants a row of trees to keep the wind off her crops. Which side of the field should the trees go?  
    Options: The side the wind comes from / The side away from the wind / The middle of the field  
    **Answer:** The side the wind comes from. *Why:* The trees are a wall. The wind goes around them, and the crops behind them get calm air.
@@ -375,8 +375,8 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
    **Answer:** A woollen sweater, a cap and socks. *Why:* Wool keeps her warm. In Chennai in May she would need loose cotton instead. The need is the same, but the clothes depend on the place.
 6. (draw) Draw a home for a pigeon. Show what keeps off the rain and the wind.  
    **Answer:** A nest on a ledge under a roof, or in a corner with a wall on the windy side.. *Why:* A strong drawing shows a roof for rain and a wall against the wind. Pigeons choose such places in our buildings.
-7. (truefalse) Plants need nothing to live.  
-   **Answer:** False. *Why:* False. Plants need water, air and light. A plant in a pot droops if nobody waters them.
+7. (truefalse) A wall stops the wind from moving at all.  
+   **Answer:** False. *Why:* False. The wind goes around the wall. That is why the air behind it is calm.
 8. (fill) Fill the gap: Wind is air that is ____.  
    **Answer:** moving. *Why:* Wind is moving air. We cannot see it, but we see what it moves, like the tissue flag.
 9. (label) Here is the wind box from above, with a fan on one side. Draw arrows to show where the wind goes. Put a C where the air is calm.  
@@ -385,17 +385,14 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
    **Answer:** On a hot day, a cap and loose cotton clothes shade me and keep me cool. On a cold night, a sweater or shawl keeps me warm.. *Why:* A strong answer gives one kind of clothes for the heat and one for the cold, and says what each does.
 
 ## Videos
-- **Florence Nightingale for young children** (, 4 min) id `to find`: Tells the true story of the nurse who counted, and showed that clean water and fresh air saved soldiers' lives. *Check:* Find a real, accurate video for age 6 and add its id. Check it says the deaths fell after the drains and water were cleaned in 1855, and does not say she did it alone.
-- **Wind flowing around a building, shown with smoke** (, 2 min) id `to find`: Shows moving air curving around a wall and a calm patch behind it, like the wind box test. *Check:* Find a real wind tunnel or smoke film and add its id. Check it shows the calm area behind the object.
-- **Homes of India: houses for rain, heat, cold and wind** (, 4 min) id `to find`: Shows how homes in different parts of India suit their weather: sloping roofs in Kerala, stilt houses in Assam, thick walls in Rajasthan. *Check:* Find a real video and add its id. Check every house it shows really is from the place it names.
 
 ## Quiz
 1. (mcq) Which of these is one of the five basic needs?  
    Options: Water / A toy car / A phone  
    **Answer:** Water. *Why:* Water is a basic need. A toy car and a phone are nice to have, but we can live without them.
-2. (mcq) Which need do we take in every few seconds?  
-   Options: Food / Air / Clothes  
-   **Answer:** Air. *Why:* We breathe air every few seconds, even in our sleep. We eat food only a few times a day.
+2. (mcq) A newborn baby drinks only milk. What does the milk give the baby?  
+   Options: Food and water / Clothes and a home / Only air  
+   **Answer:** Food and water. *Why:* Milk is food for the baby, and the milk is water to drink too.
 3. (mcq) Why do we drink water every day, and not just once?  
    Options: Water leaves our body when we wee, sweat and breathe out / Water makes us tall / Water is only for washing  
    **Answer:** Water leaves our body when we wee, sweat and breathe out. *Why:* Our body keeps losing water, so we must keep putting it back.
@@ -454,10 +451,10 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 - What did one wall say to the other wall? *Let's meet at the corner!*
 - Why did the sweater stay home in Chennai in May? *It was too hot to go out!*
 - What do you call a house with no roof in the rain? *A shower!*
-- Why did the crow sit by the water bowl? *She was waiting for her tumbler to fill up!*
+- Why did the pigeon sit behind the water tank? *She did not want the wind to ruffle her feathers!*
 
 ## Connected maths
-- In the wind box test, Priya, a girl in Class 1, tried 4 shelters. The tissue flag flapped in 3 of them. In how many did it hang still? **1 shelter. The flag hung still only in the box with its door facing away from the fan.**. 4 shelters take away the 3 where the flag flapped leaves 1. (queues `math.addition-subtraction.word-problems.L1`)
+- In the wind box test, Priya, a girl in Class 1, did 4 tests. The tissue flag flapped in 3 of them. In how many did it hang still? **1 shelter. The flag hung still only in the box with its door facing away from the fan.**. Start with 4 tests. Take away the 3 where the flag flapped. 1 is left. (queues `math.addition-subtraction.word-problems.L1`)
 - In the story, Kiran counts his needs on his fingers: air, water, food, clothes and a home. His sister Lasya counts hers too. How many fingers do they hold up together? **10 fingers. Each of them has 5 needs, and 5 and 5 make 10.**. 5 needs for Kiran and 5 for Lasya. 5 add 5 is 10. Every person has the same five needs. (queues `math.addition-subtraction.meaning.L1`)
 - Meena, a girl in Class 1, drinks 2 tumblers of water in the morning, 2 at lunch and 1 in the evening. Make a tally mark for each tumbler. How many tumblers did she drink? **5 tumblers. The tally is 2, then 2, then 1, which makes 5 marks.**. 2 add 2 is 4. 4 add 1 is 5. On a hot day she may need more. (queues `math.data.sorting-and-tallies.L1`)
 
@@ -480,7 +477,7 @@ Air and Water, Food and Home (sci.basic-needs.L1): Topic-level song for Our basi
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → how_we_found_out → story → g1 → a2 → ws-core → a3 → g2 → p1 → agreed → challenging → c1 → ws-stretch → big_questions → videos → open_questions → roots → quiz
+- Default order: intro → a1 → summary → terms → e1 → explanations → how_we_found_out → story → g1 → a2 → ws-core → a3 → g2 → p1 → agreed → challenging → c1 → ws-stretch → big_questions → open_questions → roots → quiz
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources

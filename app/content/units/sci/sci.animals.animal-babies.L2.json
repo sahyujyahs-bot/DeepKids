@@ -375,7 +375,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child puts one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, and write the numbers in the table. 5. Mix the mouths while your child looks away, and make the room dim again. 6. Repeat. Do 3 rounds in all.",
+     "do": "1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child puts one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, write the numbers in the table, and pick up all the chana. 5. Mix the mouths while your child looks away, and make the room dim again. 6. Repeat. Do 3 rounds in all.",
      "say": "Ready, parent bird? You have ten seconds to feed every mouth you can find. One chana on each mouth. Go!",
      "kid": "Put one chana on each mouth you see. Be quick! Then count.",
      "ask": [
@@ -490,8 +490,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Read out the real answers and move the cards: calf and goat kid, about one hour. Chick, the first day. Kitten and puppy, about three or four weeks. Human baby, about one year.",
-     "say": "A calf stands within about an hour, and so does a goat kid. A chick walks on the first day. A kitten and a puppy walk at about three or four weeks. A human baby walks at about one year.",
+     "do": "Read out the real answers and move the cards: calf and goat kid, about one hour. Chick, the first day. Kitten and puppy, about three weeks. Human baby, about one year.",
+     "say": "A calf stands within about an hour, and so does a goat kid. A chick walks on the first day. A kitten and a puppy walk at about three weeks. A human baby walks at about one year.",
      "kid": "Move the cards to the right places. Who walks first? Who walks last?",
      "parent": "Human babies walk at different ages, often between about 9 and 18 months. All of these are normal. The point is the big difference between the calf and the human baby."
     },
@@ -519,7 +519,7 @@
        "A human baby"
       ],
       "a": 1,
-      "why": "A calf stands within about an hour of birth. A kitten walks at about three or four weeks, and a human baby at about one year."
+      "why": "A calf stands within about an hour of birth. A kitten walks at about three weeks, and a human baby at about one year."
      }
     }
    ]
@@ -1583,7 +1583,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mary Ainsworth and other scientists watched babies closely. Who did babies hold on to most?",
+     "p": "Mary Ainsworth watched babies at home in Uganda for many months. Which people did the babies follow and hold on to most?",
      "opts": [
       "Only the person who fed them",
       "The people who came when they cried, talked and played with them",
@@ -1815,12 +1815,12 @@
    "a": "Cheep, cheep! Make it a cheap delivery, please!"
   },
   {
-   "j": "Why did the kitten keep her eyes shut?",
-   "a": "She was waiting for the grand opening!"
+   "j": "Why did the baby chick get a gold star at school?",
+   "a": "Because she was an egg-cellent student!"
   },
   {
-   "j": "What do baby langurs like to play?",
-   "a": "Pass the baby!"
+   "j": "What do you call a baby with no teeth and a big smile?",
+   "a": "A gummy cutie!"
   },
   {
    "j": "What do you call a baby cow who is asleep on the grass?",
@@ -2064,5 +2064,5 @@
   "wrong_idea": "That babies love whoever feeds them, and that picking up a crying baby too often spoils them. Watching real babies showed that babies hold on most to the people who answer their cries and play with them.",
   "art": "A woman scientist with a notebook sitting on a mat in a village home, watching a mother and a crawling baby who reaches towards the mother."
  },
- "playtest": "Played both games in my head with 2 and with 4 players: the sorting race now has every player, the reader too, racing, and says what happens when nobody is right; the memory game's 16 cards were already all listed. Followed the dark-nest experiment in a flat: each mouth gets only one chana, so the example numbers in the parent notes, maths, quiz and worksheets were impossible and now fit (for example 5 for yellow and 1 for black). Fixed the walking line (a missing 'one hour' mark and the card list), replaced three copies of the same ordering and 'why humans take long' questions, introduced Kavya and Rahul where they appear, cut the jokes to 8 real ones, and removed an unneeded safety warning and an internal source note."
+ "playtest": "Played both games in my head with 2 and with 4 players: the sorting race has every player racing and says what happens when nobody is right, and the memory game's 16 cards are all listed. Followed the dark-nest experiment in a flat: each mouth gets only one chana, so the example numbers in the parent notes, maths, quiz and worksheets were impossible and now fit (for example 5 for yellow and 1 for black). Fixed the walking line (a missing 'one hour' mark and the card list), replaced three copies of the same ordering and 'why humans take long' questions, introduced Kavya and Rahul where they appear, cut the jokes to 8 real ones, and removed an unneeded safety warning and an internal source note. On a second walk-through I made the kitten and puppy walking age one plain figure (about three weeks) in all places, added picking the chana back up between rounds, swapped two weak jokes, and made the Ainsworth question clearer. The three video ids are still to be found."
 }

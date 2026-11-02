@@ -79,7 +79,7 @@
    "concept": "How litter hurts living beings and drains",
    "status": "defined",
    "definition": "Litter can hurt living beings who eat it or get stuck in it, and it can block drains so that rainwater floods the street.",
-   "description": "Cows in Indian towns often eat plastic bags with food scraps inside. The plastic stays in the cow's stomach and can make her very ill. Birds and fish can swallow plastic or get tangled in it. Litter also piles up on drain grills, so rainwater cannot get away and the street floods.",
+   "description": "Cows in Indian towns often eat plastic bags with food scraps inside. The plastic stays in the cow's stomach and can make her very ill. Birds and fish can swallow plastic or get tangled in plastic bags and nets. Litter also piles up on drain grills, so rainwater cannot get away and the street floods.",
    "examples": [
     "A cow nosing at a plastic bag of leftover food by a gate.",
     "A street in the monsoon flooded because plastic blocked the drain.",
@@ -93,7 +93,7 @@
    "concept": "Plants and small animals near us feel and choose",
    "status": "debated",
    "definition": "",
-   "description": "Plants and animals near us sense what is around them and act on it. A plant in dry soil closes the tiny holes in its leaves to keep water in. An ant who finds sugar leaves a smell trail on the way home, and other ants follow it. Plants and ants feel, remember and decide. Some scientists say these are automatic actions, like a machine. So we care for them gently, as we would want to be cared for.",
+   "description": "Plants and animals near us sense what is around them and act on it. A plant in dry soil closes the tiny holes in the leaves to keep water in. An ant who finds sugar leaves a smell trail on the way home, and other ants follow it. Plants and ants feel, remember and decide. Some scientists say these are automatic actions, like a machine. So we care for them gently, as we would want to be cared for.",
    "examples": [
     "A tulsi plant's leaves droop on a hot afternoon when the soil is dry, and lift again after watering.",
     "Ants walk in a line along a smell trail to sugar on a counter.",
@@ -242,7 +242,7 @@
       },
       {
        "f": "Paper cup",
-       "b": "Wind: tumbles along the ground. Rain: floats, then goes soggy and stays."
+       "b": "Wind: tumbles along the ground. Rain: floats a little way, then goes soggy and stays."
       },
       {
        "f": "Chips packet",
@@ -262,7 +262,7 @@
       },
       {
        "f": "Banana peel",
-       "b": "Wind: stays. Rain: stays, or slides only a very little."
+       "b": "Wind: stays. Rain: stays, or slides a tiny bit."
       },
       {
        "f": "Steel spoon",
@@ -280,10 +280,10 @@
     "The grown-up mixes the cards, picks one and reads the front aloud.",
     "Then the grown-up calls 'Wind!' or 'Rain!'.",
     "If the thing would fly or tumble in the wind, run round the room on tiptoe with your arms out.",
-    "If the thing would float on rain, sway and slide slowly to the drain wall.",
+    "If the thing would float far on rain, sway and slide slowly to the drain wall. If it floats only a little way, slide a few steps and freeze.",
     "If the thing would stay, freeze like a statue.",
     "The grown-up reads the back of the card. Did you move the right way? Then pick the next card.",
-    "When all 10 cards have been used, the game is over. Everyone who moved the right way on most cards is a winner."
+    "When all 10 cards have been used, the game is over. Everyone who moved the right way on most cards is a winner, so two players, or four, can all win."
    ],
    "setup": [
     {
@@ -369,10 +369,10 @@
    ],
    "rules": [
     "Mix the 12 cards and lay them face down in rows.",
-    "Take turns. Turn over two cards and read them aloud.",
+    "Take turns. Turn over two cards. The grown-up reads them aloud.",
     "If you find a neighbour and the help that fits, say why it helps. Keep both cards.",
     "If they do not fit, turn them face down again in the same places.",
-    "When all the cards are taken, the game is over. Count your pairs. The most pairs wins, and if you are playing together, you all win by finding all 6."
+    "When all the cards are taken, the game is over. Count your pairs. The most pairs wins, and players with the same number share the win. If you play as a team, the goal is to find all 6 pairs."
    ],
    "setup": [
     {
@@ -388,7 +388,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the 12 cards. 2. Read each one aloud once. 3. Mix them and lay them face down in rows.",
+     "do": "1. Cut out the 12 cards. 2. Read each one aloud once, so your child hears them. 3. Mix them and lay them face down in rows.",
      "say": "Some cards show a neighbour who needs help. Some show a kind thing to do. Let's match them.",
      "kid": "Some cards show who needs help. Some show what helps. Find the pairs."
     },
@@ -442,7 +442,7 @@
   {
    "id": "e1",
    "title": "The Bathroom Rain Test: where does water carry litter?",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "context": "In this experiment you put five clean bits of litter on the bathroom floor, a little way from the drain. You pour a mug of water to be the rain, and watch where each one goes. Then you try the wind, with a fan.",
    "question": "When rain falls, does litter stay where it was dropped, or does the water carry it away? Which kinds go furthest?",
@@ -460,8 +460,8 @@
      "qty": 1
     },
     {
-     "item": "a bathroom mug of water",
-     "qty": "3 mugs"
+     "item": "water in a mug, filled again for each pour",
+     "qty": "3 pours"
     },
     {
      "item": "a clean toffee wrapper or chips packet",
@@ -492,7 +492,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Guess, pour the rain three times, try the fan, then sort the litter into the right bins."
     }
    ],
@@ -560,7 +560,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Show your child the five things. 2. Let them hold each one. 3. Lay them in a row, half a big step from the drain. 4. Choose the side where water runs to the drain.",
      "say": "These five things are litter on a road. This hole is the drain. Hold each one. Which feel light? Which feel heavy?",
      "kid": "Hold each thing. Which is light? Which is heavy? Put them in a row.",
@@ -568,7 +568,7 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask for a guess for each thing, and the reason. The grown-up writes the guesses in the table.",
      "say": "When I pour the rain, which things will the water carry to the drain? Which will stay? Why do you think so?",
      "kid": "Guess: which will go to the drain? Which will stay? Why?",
@@ -586,7 +586,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Pour one mug of water slowly onto the floor, just behind the row. 2. Watch together. 3. The grown-up marks in the table what moved. 4. Put the things back in the row and pour again. Do it three times.",
      "say": "Here comes the rain. Watch each one. Where did the wrapper go? Where did the pebble go? Let's pour two more times, because one try can be a fluke.",
      "kid": "Watch the rain. What moved? What stayed? Try three times.",
@@ -604,7 +604,7 @@
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Pick up the wet things and dry them on a cloth. Put the wet newspaper aside and use the dry one. 2. Move to a dry floor in another room. 3. Lay the five things in a row. 4. The grown-up switches the fan on low, about one big step away, or fans hard with folded newspaper.",
      "say": "Now the wind. Which things will the fan blow away? Why do you think so?",
      "kid": "Now the wind. Guess first. Then watch the fan blow.",
@@ -651,7 +651,7 @@
     },
     {
      "id": "s6",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Put the wrapper, plastic and newspaper in the dry waste bin. 2. Put the peel in the wet waste bin. 3. Wipe the bathroom floor dry. 4. Wash hands.",
      "say": "Litter goes in a bin, where the rain cannot carry it. Which bin does the peel go in? Which bin for the wrapper?",
      "kid": "Put each thing in the right bin. The peel is wet waste. The wrapper is dry waste."
@@ -1005,7 +1005,7 @@
      "do": "Look at the plant again in the evening.",
      "say": "This evening, let's look at the leaves again. What do you think we will see?",
      "kid": "Look at the leaves again this evening. Did they change?",
-     "think": "How did the plant know the soil was dry? The roots touch the soil all day."
+     "think": "Where does the extra water go when it runs out of the hole at the bottom?"
     }
    ]
   },
@@ -1304,7 +1304,8 @@
      "do": "Remind your child of the fan part of the Bathroom Rain Test. Put a wrapper in an open bowl in front of the fan and switch it on low.",
      "say": "Watch the wrapper in the open bowl. What happens? How could we stop the wind taking it?",
      "kid": "Watch the open bowl in the wind. How could we keep the wrapper in?",
-     "adult": true
+     "adult": true,
+     "parent": "Use a shallow dish or a flat plate, so the wrapper can blow out. If the fan on low does not move it, bring the fan a little closer."
     },
     {
      "id": "s2",
@@ -1337,35 +1338,7 @@
    "safety": "A grown-up does the cutting: plastic bottles and tins have sharp edges. A grown-up also switches the fan on and off, and fingers stay away from the blades."
   }
  ],
- "videos": [
-  {
-   "title": "Plastic and rubbish blocking a city drain in the monsoon, and workers clearing it",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows what the Bathroom Rain Test showed, on a real street: litter carried by rain piles up on a drain.",
-   "check": "Find a real, short news or city video, ideally from an Indian city. Check it shows the drain being cleared and no one getting hurt."
-  },
-  {
-   "title": "Ants following a trail to food, close up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows ants walking in a line and following a smell trail, as in the Sugar Test.",
-   "check": "Find a real close-up video of ants on a trail. Check the narration says ants follow a smell, called a pheromone trail."
-  },
-  {
-   "title": "How to water a potted plant: the finger test",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows a gardener checking the soil with a finger before watering.",
-   "check": "Find a short real gardening video, ideally Indian. Check it says to water when the soil is dry, not on a fixed clock."
-  }
- ],
+ "videos": [],
  "quiz": [
   {
    "t": "mcq",
@@ -1394,14 +1367,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Bathroom Rain Test, why did the pebble stay where it was?",
+   "p": "Zoya, a girl in Class 1, puts a dry scrap of newspaper and a soaking wet scrap on the floor in front of a fan. Which one flies?",
    "opts": [
-    "The pebble is heavy and does not float",
-    "The pebble was scared of the water",
-    "The pebble was stuck with glue"
+    "The dry scrap",
+    "The wet scrap",
+    "Both fly the same"
    ],
    "a": 0,
-   "why": "A pebble is heavy, so the water flows round the pebble. Light things that float get carried away.",
+   "why": "Dry paper is light, so the wind lifts it. Wet paper soaks up water, gets heavy and sticks to the floor.",
    "how": "e1",
    "outcome": 1
   },
@@ -1647,29 +1620,6 @@
      "a": 0,
      "why": "A cloth bag can go to the shop again and again. A plastic bag is used once, and then it can blow into a drain.",
      "how": "a4"
-    },
-    {
-     "t": "mcq",
-     "p": "A brown cow is nosing at a plastic bag with old rice inside. What should a grown-up do?",
-     "opts": [
-      "Gently take the bag away and put the rice on a leaf",
-      "Leave the bag for the cow",
-      "Shout at the cow"
-     ],
-     "a": 0,
-     "why": "The cow cannot tell the plastic from the rice, and the plastic would stay inside her. Taking the bag away and giving the rice on a leaf feeds her without the plastic."
-    },
-    {
-     "t": "mcq",
-     "p": "You go to buy vegetables. What can you take, so you do not need a plastic bag?",
-     "opts": [
-      "A cloth bag",
-      "Another plastic bag",
-      "Nothing"
-     ],
-     "a": 0,
-     "why": "A cloth bag can go to the shop again and again. A plastic bag is used once, and then it can blow into a drain.",
-     "how": "a4"
     }
    ]
   },
@@ -1688,7 +1638,7 @@
       "Both stay"
      ],
      "a": 0,
-     "why": "Plastic is light and floats on the water, so the water carries the plastic. The pebble is heavy and sinks, so the pebble stays.",
+     "why": "Plastic is light and floats on the water, so the water carries the plastic. The pebble is heavy and does not float, so the pebble stays.",
      "how": "e1"
     },
     {
@@ -1918,7 +1868,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Helping means looking at what each being really needs. Too much water and spilled sugar look kind, but bring rotten roots and ants indoors."
+     "why": "Helping means looking at what each being really needs. Too much water gives rotten roots, and spilled sugar brings ants indoors."
     },
     {
      "t": "truefalse",
@@ -1943,18 +1893,6 @@
      ],
      "why": "Rainwater runs downhill from roofs to roads to drains to rivers, and carries litter with it.",
      "art": "A simple picture of a house with a roof, a road below, a drain at the roadside and a river at the bottom."
-    },
-    {
-     "t": "mcq",
-     "p": "A pot has no hole at the bottom. Why is it hard to water that plant well?",
-     "opts": [
-      "The extra water cannot get out, so the roots sit in water",
-      "The plant gets too little water",
-      "The soil becomes too light"
-     ],
-     "a": 0,
-     "why": "Roots need air as well as water. In a pot with no hole, extra water stays in the soil and fills the spaces where air should be.",
-     "how": "a2"
     },
     {
      "t": "mcq",
@@ -2083,7 +2021,7 @@
    "why_maths": "Seeing the numbers grow helps us spot a pattern, and the pattern tells us something about how the smell trail works."
   },
   {
-   "problem": "At the shop, Nila, the girl in the story The Red Wrapper, said no to 2 plastic bags. Her friend said no to 3. How many plastic bags did they not take altogether?",
+   "problem": "At the shop, Maya, a girl in Class 1, said no to 2 plastic bags. Her friend said no to 3. How many plastic bags did they not take altogether?",
    "answer": "5 plastic bags.",
    "explain": "2 and 3 more make 5. So 5 bags will never end up in a drain or a cow.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
@@ -2184,7 +2122,6 @@
    "ws-stretch",
    "ws-challenge",
    "big_questions",
-   "videos",
    "how_we_found_out",
    "open_questions",
    "roots",
@@ -2284,5 +2221,5 @@
   "wrong_idea": "That a poison sprayed on trees stays on the trees and harms only the pests. Barker followed it from the fallen leaves into the earthworms, and then into the robins who ate them.",
   "art": "An elm tree dropping leaves onto a lawn, an earthworm eating a fallen leaf, and a robin pulling up the worm, with a woman writing at a desk in the corner."
  },
- "playtest": "Thought through as a parent and a Class 1 child in a flat. The Bathroom Rain Test works with a bathroom drain or a tilted steel plate, so the fan part now uses a second, dry scrap of newspaper (the wet one would not fly). Both games were played in the head with 2 and with 4, and now have a clear end. The pocket bin, the cloth-bag trip and the cutting in Beat the Fan were made to match their schedules and safety, and repeated or side-detail questions were taken out."
+ "playtest": "Walked through as a parent and a Class 1 child in a city flat. Fixed: removed placeholder videos with internal notes, repeated worksheet questions, a repeated plant question and a repeated pebble quiz item; made Bathroom Rain Test 20 minutes with matching steps; made both games clear for 2 and 4 players with floats-a-little-way and tie rules; used a shallow dish in Beat the Fan; removed two 'it' for living beings; fixed an unintroduced name in the maths."
 }

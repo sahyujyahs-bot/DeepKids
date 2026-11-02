@@ -37,12 +37,12 @@ A toffee wrapper, a plastic bag or a paper cup is very light. Wind blows light l
 ### How litter hurts living beings and drains · *defined*
 **Definition:** Litter can hurt living beings who eat it or get stuck in it, and it can block drains so that rainwater floods the street.
 
-Cows in Indian towns often eat plastic bags with food scraps inside. The plastic stays in the cow's stomach and can make her very ill. Birds and fish can swallow plastic or get tangled in it. Litter also piles up on drain grills, so rainwater cannot get away and the street floods.
+Cows in Indian towns often eat plastic bags with food scraps inside. The plastic stays in the cow's stomach and can make her very ill. Birds and fish can swallow plastic or get tangled in plastic bags and nets. Litter also piles up on drain grills, so rainwater cannot get away and the street floods.
 - e.g. A cow nosing at a plastic bag of leftover food by a gate.
 - e.g. A street in the monsoon flooded because plastic blocked the drain.
 - e.g. Mosquito eggs in rainwater inside an old paper cup on a terrace. Mosquitoes lay eggs in small pools of still water.
 ### Plants and small animals near us feel and choose · *debated*
-Plants and animals near us sense what is around them and act on it. A plant in dry soil closes the tiny holes in its leaves to keep water in. An ant who finds sugar leaves a smell trail on the way home, and other ants follow it. Plants and ants feel, remember and decide. Some scientists say these are automatic actions, like a machine. So we care for them gently, as we would want to be cared for.
+Plants and animals near us sense what is around them and act on it. A plant in dry soil closes the tiny holes in the leaves to keep water in. An ant who finds sugar leaves a smell trail on the way home, and other ants follow it. Plants and ants feel, remember and decide. Some scientists say these are automatic actions, like a machine. So we care for them gently, as we would want to be cared for.
 - e.g. A tulsi plant's leaves droop on a hot afternoon when the soil is dry, and lift again after watering.
 - e.g. Ants walk in a line along a smell trail to sugar on a counter.
 - e.g. A crow opens her beak and pants on a very hot day to cool down.
@@ -154,8 +154,8 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 
 ## Games
 ### g1 · Fly, Float or Stay: a moving game about litter (10 min)
-- **rules:** Clear a space on the floor to move in. Choose one wall to be the drain.; The grown-up mixes the cards, picks one and reads the front aloud.; Then the grown-up calls 'Wind!' or 'Rain!'.; If the thing would fly or tumble in the wind, run round the room on tiptoe with your arms out.; If the thing would float on rain, sway and slide slowly to the drain wall.; If the thing would stay, freeze like a statue.; The grown-up reads the back of the card. Did you move the right way? Then pick the next card.; When all 10 cards have been used, the game is over. Everyone who moved the right way on most cards is a winner.
-- **Printable cards: 10 litter cards to cut out, with what wind and rain do on the back:** Toffee wrapper (back: Wind: flies far. Rain: floats away to the drain.); Thin plastic bag (back: Wind: flies and catches on trees. Rain: floats far.); Paper cup (back: Wind: tumbles along the ground. Rain: floats, then goes soggy and stays.); Chips packet (back: Wind: flies far. Rain: floats away to the drain.); Dry leaf (back: Wind: flies. Rain: floats a little way.); Scrap of newspaper (back: Wind: flies. Rain: goes soggy and sticks down, so it stays.); Pebble (back: Wind: stays. Rain: stays.); Banana peel (back: Wind: stays. Rain: stays, or slides only a very little.); Steel spoon (back: Wind: stays. Rain: stays.); Coconut shell (back: Wind: stays. Rain: stays.)
+- **rules:** Clear a space on the floor to move in. Choose one wall to be the drain.; The grown-up mixes the cards, picks one and reads the front aloud.; Then the grown-up calls 'Wind!' or 'Rain!'.; If the thing would fly or tumble in the wind, run round the room on tiptoe with your arms out.; If the thing would float far on rain, sway and slide slowly to the drain wall. If it floats only a little way, slide a few steps and freeze.; If the thing would stay, freeze like a statue.; The grown-up reads the back of the card. Did you move the right way? Then pick the next card.; When all 10 cards have been used, the game is over. Everyone who moved the right way on most cards is a winner, so two players, or four, can all win.
+- **Printable cards: 10 litter cards to cut out, with what wind and rain do on the back:** Toffee wrapper (back: Wind: flies far. Rain: floats away to the drain.); Thin plastic bag (back: Wind: flies and catches on trees. Rain: floats far.); Paper cup (back: Wind: tumbles along the ground. Rain: floats a little way, then goes soggy and stays.); Chips packet (back: Wind: flies far. Rain: floats away to the drain.); Dry leaf (back: Wind: flies. Rain: floats a little way.); Scrap of newspaper (back: Wind: flies. Rain: goes soggy and sticks down, so it stays.); Pebble (back: Wind: stays. Rain: stays.); Banana peel (back: Wind: stays. Rain: stays, or slides a tiny bit.); Steel spoon (back: Wind: stays. Rain: stays.); Coconut shell (back: Wind: stays. Rain: stays.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 10 cards. 2. Read the front of each card aloud. 3. Clear a space and choose one wall to be the drain.  
   *Parent says:* Each card is a piece of litter. When I call 'Wind!' or 'Rain!', show me what that litter would do.  
@@ -172,10 +172,10 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   *Child mode:* Make two rows: fly or float, and stay. Which row travels far?
   - Check: Which litter will the rain carry furthest? → **A plastic bag**
 ### g2 · Helping Pairs: a memory game about caring for our neighbours (12 min)
-- **rules:** Mix the 12 cards and lay them face down in rows.; Take turns. Turn over two cards and read them aloud.; If you find a neighbour and the help that fits, say why it helps. Keep both cards.; If they do not fit, turn them face down again in the same places.; When all the cards are taken, the game is over. Count your pairs. The most pairs wins, and if you are playing together, you all win by finding all 6.
+- **rules:** Mix the 12 cards and lay them face down in rows.; Take turns. Turn over two cards. The grown-up reads them aloud.; If you find a neighbour and the help that fits, say why it helps. Keep both cards.; If they do not fit, turn them face down again in the same places.; When all the cards are taken, the game is over. Count your pairs. The most pairs wins, and players with the same number share the win. If you play as a team, the goal is to find all 6 pairs.
 - **Printable cards: 12 cards to cut out: 6 neighbours and 6 kind acts:** Money plant with dry soil; Water slowly at the roots, until the soil is damp; Ant on the kitchen counter; Wipe up the crumbs, and carry the ant out on a paper; Crow panting on a hot ledge; A shallow plate of water in the shade; Moth stuck at the window; Switch off the light and open the window; Snail on the wet path; Walk round her, and do not pick her up; Wrapper lying by the drain; Pick it up and put it in the dry waste bin
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out the 12 cards. 2. Read each one aloud once. 3. Mix them and lay them face down in rows.  
+  *Parent does:* 1. Cut out the 12 cards. 2. Read each one aloud once, so your child hears them. 3. Mix them and lay them face down in rows.  
   *Parent says:* Some cards show a neighbour who needs help. Some show a kind thing to do. Let's match them.  
   *Child mode:* Some cards show who needs help. Some show what helps. Find the pairs.
 - **s2 (8 min)**  
@@ -192,31 +192,31 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   - Check: A money plant's soil is dry. What helps? → **Water slowly at the roots**
 
 ## Experiments
-### e1 · The Bathroom Rain Test: where does water carry litter? (25 min)
+### e1 · The Bathroom Rain Test: where does water carry litter? (20 min)
 - **question:** When rain falls, does litter stay where it was dropped, or does the water carry it away? Which kinds go furthest?
 - **predict:** Guess first. Which of the five things will the water carry to the drain? Which will stay where they are? Why do you think so?
 - **fair test:** All five things start in one row, the same distance from the drain. We pour the same mug of water from the same place each time. Only the things are different.
 - **safety:** A wet bathroom floor is slippery. Walk slowly, and wipe the floor dry at the end. A grown-up switches the fan on and off, and fingers stay away from the blades.
 - **record:** Draw the bathroom floor and the drain. Draw an arrow for each thing that moved, showing where it went. Draw a circle round each thing that stayed.
 - **results table:** Thing | My guess: go or stay? | Did the water carry it to the drain? | Did the fan blow it away?
-- **s1 (4 min)**  
+- **s1 (3 min)**  
   *Parent does:* 1. Show your child the five things. 2. Let them hold each one. 3. Lay them in a row, half a big step from the drain. 4. Choose the side where water runs to the drain.  
   *Parent says:* These five things are litter on a road. This hole is the drain. Hold each one. Which feel light? Which feel heavy?  
   *Child mode:* Hold each thing. Which is light? Which is heavy? Put them in a row.
   - Note: Use only clean litter. Choose the side of the floor that slopes towards the drain. If your bathroom has no drain, tilt a big steel plate on a book over a bucket, and put the things on the plate.
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* Ask for a guess for each thing, and the reason. The grown-up writes the guesses in the table.  
   *Parent says:* When I pour the rain, which things will the water carry to the drain? Which will stay? Why do you think so?  
   *Child mode:* Guess: which will go to the drain? Which will stay? Why?
   - Ask: Which do you think will reach the drain? Why? (good: The wrapper, because it is light.; The plastic, because it floats.; Not the pebble, because it is heavy.)
   - Note: Wait for a guess and a reason for each thing before you pour. Do not say what will happen.
-- **s3 (6 min)**  
+- **s3 (5 min)**  
   *Parent does:* 1. Pour one mug of water slowly onto the floor, just behind the row. 2. Watch together. 3. The grown-up marks in the table what moved. 4. Put the things back in the row and pour again. Do it three times.  
   *Parent says:* Here comes the rain. Watch each one. Where did the wrapper go? Where did the pebble go? Let's pour two more times, because one try can be a fluke.  
   *Child mode:* Watch the rain. What moved? What stayed? Try three times.
   - Ask: What happened at the drain? (good: The wrapper got stuck on the grill.; The plastic covered the holes.; The water had to go round it.)
   - Note: Usually the wrapper and the plastic float and ride the water to the drain, and stick flat on the grill. The newspaper gets soggy and sticks to the floor. The peel may slide a little. The pebble stays. If nothing reaches the drain, move the row closer and pour from a little higher.
-- **s4 (5 min) · grown-up needed**  
+- **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. Pick up the wet things and dry them on a cloth. Put the wet newspaper aside and use the dry one. 2. Move to a dry floor in another room. 3. Lay the five things in a row. 4. The grown-up switches the fan on low, about one big step away, or fans hard with folded newspaper.  
   *Parent says:* Now the wind. Which things will the fan blow away? Why do you think so?  
   *Child mode:* Now the wind. Guess first. Then watch the fan blow.
@@ -228,7 +228,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   *Child mode:* Say what you saw. Was your guess right? Where would the rain take a wrapper on our road?
   - Ask: Where could a wrapper on our road end up? (good: In the drain.; In the river or the sea.; Blocking the drain, so the road floods.)
   - Check: In our test, which stayed where it was put? → **The pebble**
-- **s6 (3 min)**  
+- **s6 (2 min)**  
   *Parent does:* 1. Put the wrapper, plastic and newspaper in the dry waste bin. 2. Put the peel in the wet waste bin. 3. Wipe the bathroom floor dry. 4. Wash hands.  
   *Parent says:* Litter goes in a bin, where the rain cannot carry it. Which bin does the peel go in? Which bin for the wrapper?  
   *Child mode:* Put each thing in the right bin. The peel is wet waste. The wrapper is dry waste.
@@ -309,7 +309,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   *Parent does:* Look at the plant again in the evening.  
   *Parent says:* This evening, let's look at the leaves again. What do you think we will see?  
   *Child mode:* Look at the leaves again this evening. Did they change?
-  - Think: How did the plant know the soil was dry? The roots touch the soil all day.
+  - Think: Where does the extra water go when it runs out of the hole at the bottom?
 ### a3 · Kind Hands: moving a small visitor outside (8 min)
 - **safety:** Use this only for ants, moths, beetles and grasshoppers. Never try it with bees, wasps, scorpions, centipedes or spiders. Call a grown-up for those. Never touch the visitor with bare hands: a few small beetles can irritate or blister skin.
 - **record:** Draw your visitor. Write or say where you took them.
@@ -376,6 +376,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   *Parent does:* Remind your child of the fan part of the Bathroom Rain Test. Put a wrapper in an open bowl in front of the fan and switch it on low.  
   *Parent says:* Watch the wrapper in the open bowl. What happens? How could we stop the wind taking it?  
   *Child mode:* Watch the open bowl in the wind. How could we keep the wrapper in?
+  - Note: Use a shallow dish or a flat plate, so the wrapper can blow out. If the fan on low does not move it, bring the fan a little closer.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Your child chooses materials and builds a bin. A grown-up does the cutting.  
   *Parent says:* What will stop the wind? A lid? A heavy stone? A narrow top?  
@@ -414,7 +415,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 ### Where Does Litter Go? (stretch) (stretch, 10 questions)
 1. (mcq) Lakshmi, a girl in Class 1, puts a plastic bag piece and a pebble on a steel plate, then tilts the plate and pours water. What will most likely happen?  
    Options: The plastic slides down, the pebble stays / The pebble slides down, the plastic stays / Both stay  
-   **Answer:** The plastic slides down, the pebble stays. *Why:* Plastic is light and floats on the water, so the water carries the plastic. The pebble is heavy and sinks, so the pebble stays.
+   **Answer:** The plastic slides down, the pebble stays. *Why:* Plastic is light and floats on the water, so the water carries the plastic. The pebble is heavy and does not float, so the pebble stays.
 2. (order) Put the rain test in order.  
    **Answer:** ['Put the things in a row near the drain', 'Guess which things will go', 'Pour a mug of water behind the row', 'Look at what moved']. *Why:* First set up, then guess, then test, then look. The guess comes before the test, so the test can show if the guess was right.
 3. (draw) Draw the journey of a toffee wrapper dropped on your road: from a hand, along the road in the rain, to where it ends up.  
@@ -450,7 +451,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 6. (write) Say it to a grown-up, who writes it down: an old paper cup on the terrace fills with rainwater. Why could this be a problem for people in the house?  
    **Answer:** Mosquitoes lay their eggs in small pools of still water. The eggs become mosquitoes, which bite people.. *Why:* A strong answer links the litter to the mosquitoes. Litter that holds water gives mosquitoes a place to lay eggs.
 7. (sort) Sort these: which help the plants and animals near us, and which hurt them?  
-   **Answer:** a shallow plate of water in the shade → Helps; a plastic bag left by the gate → Hurts; watering a plant when the soil is dry → Helps; watering a plant when the soil is already wet → Hurts; carrying a beetle outside on a card → Helps; leaving sugar spilled on the counter → Hurts. *Why:* Helping means looking at what each being really needs. Too much water and spilled sugar look kind, but bring rotten roots and ants indoors.
+   **Answer:** a shallow plate of water in the shade → Helps; a plastic bag left by the gate → Hurts; watering a plant when the soil is dry → Helps; watering a plant when the soil is already wet → Hurts; carrying a beetle outside on a card → Helps; leaving sugar spilled on the counter → Hurts. *Why:* Helping means looking at what each being really needs. Too much water gives rotten roots, and spilled sugar brings ants indoors.
 8. (truefalse) If litter washes into a drain, it is gone for ever.  
    **Answer:** False. *Why:* False. The drain carries the litter on to a canal, a river, a lake or the sea. The litter is still somewhere.
 9. (label) Draw arrows on this picture to show where the rainwater goes: from the roof, down the road, into the drain and out to the river.  
@@ -460,9 +461,6 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
    **Answer:** The extra water cannot get out, so the roots sit in water. *Why:* Roots need air as well as water. In a pot with no hole, extra water stays in the soil and fills the spaces where air should be.
 
 ## Videos
-- **Plastic and rubbish blocking a city drain in the monsoon, and workers clearing it** (, 2 min) id `to find`: Shows what the Bathroom Rain Test showed, on a real street: litter carried by rain piles up on a drain. *Check:* Find a real, short news or city video, ideally from an Indian city. Check it shows the drain being cleared and no one getting hurt.
-- **Ants following a trail to food, close up** (, 2 min) id `to find`: Shows ants walking in a line and following a smell trail, as in the Sugar Test. *Check:* Find a real close-up video of ants on a trail. Check the narration says ants follow a smell, called a pheromone trail.
-- **How to water a potted plant: the finger test** (, 2 min) id `to find`: Shows a gardener checking the soil with a finger before watering. *Check:* Find a short real gardening video, ideally Indian. Check it says to water when the soil is dry, not on a fixed clock.
 
 ## Quiz
 1. (mcq) Which of these is part of your environment?  
@@ -471,9 +469,9 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 2. (mcq) Kavya, a girl in Class 1, drops a toffee wrapper on the road. Then it rains hard. Where will the wrapper most likely go?  
    Options: It stays in the same place / The rainwater carries the wrapper to a drain / It turns into a stone  
    **Answer:** The rainwater carries the wrapper to a drain. *Why:* A wrapper is light and floats, so rainwater carries the wrapper along the road to a drain. In our Bathroom Rain Test, the wrapper went to the drain.
-3. (mcq) In the Bathroom Rain Test, why did the pebble stay where it was?  
-   Options: The pebble is heavy and does not float / The pebble was scared of the water / The pebble was stuck with glue  
-   **Answer:** The pebble is heavy and does not float. *Why:* A pebble is heavy, so the water flows round the pebble. Light things that float get carried away.
+3. (mcq) Zoya, a girl in Class 1, puts a dry scrap of newspaper and a soaking wet scrap on the floor in front of a fan. Which one flies?  
+   Options: The dry scrap / The wet scrap / Both fly the same  
+   **Answer:** The dry scrap. *Why:* Dry paper is light, so the wind lifts it. Wet paper soaks up water, gets heavy and sticks to the floor.
 4. (mcq) Why are plastic bags on the street dangerous for cows?  
    Options: Cows eat the bags with the food inside, and the plastic stays in their stomach / The bags make cows sneeze / Cows are scared of the colour  
    **Answer:** Cows eat the bags with the food inside, and the plastic stays in their stomach. *Why:* Cows cannot sort plastic from food. The plastic does not break down inside them, so it builds up and makes them ill.
@@ -535,7 +533,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 - In the Bathroom Rain Test, Anjali, a girl in Class 1, tried 5 things. 2 things reached the drain. How many things did not reach the drain? **3 things did not reach the drain.**. There were 5 things. 2 went to the drain. 5 take away 2 is 3. So 3 things stayed or moved only a little. (queues `math.addition-subtraction.meaning.L1`)
 - Arun, the little boy in the story The Red Wrapper, kept a tally with his pocket bin. Monday: 3 wrappers. Tuesday: 1 wrapper. Wednesday: 4 wrappers. On which day did he keep the most? On which day the fewest? **Wednesday had the most, 4. Tuesday had the fewest, 1.**. 4 is more than 3, and 3 is more than 1. So Wednesday had the most and Tuesday the fewest. Maybe Wednesday was the day he bought toffees! (queues `math.number-sense.comparing-ordering.L1`)
 - In the Sugar Test, Tanvi, a girl in Class 1, counted ants on the sugar. After 10 minutes there were 2. After 20 minutes there were 6. After 30 minutes there were 12. What is happening to the number of ants? Why might that be? **The number keeps going up: 2, then 6, then 12.**. Each count is bigger than the one before. Every ant who finds the sugar adds to the smell trail, so more and more ants find the way. (queues `math.number-sense.comparing-ordering.L1`)
-- At the shop, Nila, the girl in the story The Red Wrapper, said no to 2 plastic bags. Her friend said no to 3. How many plastic bags did they not take altogether? **5 plastic bags.**. 2 and 3 more make 5. So 5 bags will never end up in a drain or a cow. (queues `math.addition-subtraction.word-problems.L1`)
+- At the shop, Maya, a girl in Class 1, said no to 2 plastic bags. Her friend said no to 3. How many plastic bags did they not take altogether? **5 plastic bags.**. 2 and 3 more make 5. So 5 bags will never end up in a drain or a cow. (queues `math.addition-subtraction.word-problems.L1`)
 
 ## Song
 Where Did the Wrapper Go? (sci.environment.L1): Topic-level song for Caring for the environment L1
@@ -558,7 +556,7 @@ Where Did the Wrapper Go? (sci.environment.L1): Topic-level song for Caring for 
 
 ## Plan
 - Start options: intro, e1, story, g1, a1, cards
-- Default order: intro → e1 → summary → terms → explanations → a1 → story → g1 → ws-core → a2 → e2 → g2 → a3 → agreed → challenging → a4 → p1 → c1 → ws-stretch → ws-challenge → big_questions → videos → how_we_found_out → open_questions → roots → quiz
+- Default order: intro → e1 → summary → terms → explanations → a1 → story → g1 → ws-core → a2 → e2 → g2 → a3 → agreed → challenging → a4 → p1 → c1 → ws-stretch → ws-challenge → big_questions → how_we_found_out → open_questions → roots → quiz
 - Core: e1, a1, g1, ws-core
 
 ## Sources

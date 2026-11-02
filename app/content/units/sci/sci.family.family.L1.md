@@ -1,7 +1,7 @@
 # My family: who lives with us, and how we know each other
 `sci.family.family.L1`
 
-**Summary.** With your eyes shut, can you find your mother or your grandmother just by sniffing a shirt she wore? Many children can find at least one person. Every person has their own smell, and much of it is made by tiny living beings on their skin. People who live together pass these tiny beings to each other. In this unit your child sniffs family shirts in a fair test, passes a smell down a line of hands, and meets families of many kinds, in people and other animals.
+**Summary.** With your eyes shut, can you find your mother or your grandmother just by sniffing a shirt she wore? You may find at least one person. Every person has their own smell, and much of it is made by tiny living beings on their skin. People who live together pass these tiny beings to each other. In this unit your child sniffs family shirts in a fair test, passes a smell down a line of hands, and meets families of many kinds, in people and other animals.
 
 **Intro.** *Close your eyes. Someone in your family hugs you. Can you tell who it is without looking?* You know your family by their faces and their voices. Your nose knows them too. Every person has their own smell. In this unit you find out if you can tell your family apart by smell alone. You also meet many kinds of families, in people and in other animals.
 
@@ -14,7 +14,7 @@
 
 ## Terms
 - **Family**: A family is a group of people who belong to each other and look after each other. *e.g.* Nila's family is her Amma, her Appa, her Ammachi and her little brother Arjun.
-- **Relative**: A relative is someone in your family, near or far, like a grandmother, an aunt or a cousin. *e.g.* Revathi Chithi lives in Chennai, far from Nila. She is still Nila's relative.
+- **Relative**: A relative is someone in your family, near or far, like a grandmother, an aunt or a cousin. *e.g.* Revathi Kunjamma lives in Chennai, far from Nila. She is still Nila's relative.
 - **Adopt**: To adopt a child is to take them into your family as your own son or daughter, for always. *e.g.* Revathi adopted baby Kayal. Kayal is Revathi's daughter now, for her whole life.
 - **Smell**: Smell is the sense that tells you what is in the air, through your nose. *e.g.* You smell sambar before you see the pot, because a little of it floats into your nose.
 - **Microbes**: Microbes are tiny living beings, far too small to see. Some of them live on your skin. *e.g.* Millions of microbes live on your hands right now. Most of them are friendly.
@@ -40,14 +40,14 @@ Some families are small, with one parent and one child. Some are big joint famil
 **Definition:** Every person has a body smell of their own. People can learn the smells of the people they live with, and know them again.
 
 Every person has their own smell. You notice it when you hug someone, or hold something they wore. Scientists have tested this. Brothers, sisters and mothers can pick out a family member's worn T-shirt by smell alone. A new mother can learn her baby's smell in less than an hour. Other animals do this too. A mother sheep smells her new lamb and remembers that smell.
-- e.g. Many children sleep better with Amma's old saree or dupatta, because it smells of her.
+- e.g. Some children feel calm with Amma's old saree or dupatta, because it smells of her.
 - e.g. A dog greets each person at the door by sniffing them first.
 - e.g. Two ants meet on the wall and touch feelers for a moment, then walk on.
 ### The tiny living beings we share · *idea*
 Your skin is home to millions of microbes, tiny living beings too small to see. They feed on your sweat, and as they feed they make much of your smell. People who live together hug, hold hands and touch the same things, so they pass microbes to each other. In 2013, scientists in the United States found that people in one home share more skin microbes than people in different homes. Scientists do not yet know if shared microbes stay for long, or come and go after each touch.
 - e.g. Nila's grandmother, Ammachi, hugs Nila's little brother Arjun every morning. Each hug passes a few microbes between them.
 - e.g. Everyone at home drinks from the same steel tumblers and sits on the same sofa.
-- e.g. A pet dog licks everyone's hands, and shares microbes with the whole family.
+- e.g. If the family has a pet dog, she licks everyone's hands and shares microbes with the whole family.
 - **Scientists who found the sharing:** People who live together share more skin microbes than people who live apart, so living together shapes the tiny beings on us.
 - **Scientists who are still checking:** Some shared microbes may only be passed on for a short time after a touch, and then go away. We need more tests to know which ones stay.
 
@@ -66,7 +66,7 @@ Your skin is home to millions of microbes, tiny living beings too small to see. 
   Against: When scientists tested real people, they found humans can tell their own family by smell. Humans have about 400 kinds of smell sensors in the nose. In 2017, the brain scientist John McGann wrote that the weak human nose is a myth.
 - **A child who was adopted is not a real part of the family.** (An old idea some people still hold; *rejected*)  
   For: An adopted child was not born to the parents.  
-  Against: In India, the law says an adopted child is the son or daughter of the family in every way, for life. An adopted child is fed, held and loved like any other child. People who live together even share the same skin microbes.
+  Against: Adoption law in India says an adopted child is the child of the adoptive parents in every way. An adopted child is fed, held and loved like any other child. People who live together even share the same skin microbes.
 - **Your body smell comes from the family you are born into.** (Some scientists; *debated*)  
   For: Identical twins smell more alike than other brothers and sisters. So genes play a part in body smell.  
   Against: Food, soap, sweat and skin microbes change body smell too. People who live together, related or not, share skin microbes. How much smell comes from genes and how much from living together is still being studied.
@@ -107,7 +107,7 @@ Nila lived in a flat in Kochi with her Amma, her Appa, her little brother Arjun 
 
 Every morning, Ammachi oiled Nila's hair with coconut oil and plaited it. Every night, she told a story. Her old cotton shawl lay over her shoulders, soft and faded, with a green border.
 
-One day a phone call came from Chennai. It was Revathi Chithi, Amma's younger sister. 'Our baby is home!' she said. Revathi Chithi had adopted a baby girl. Her name was Kayal.
+One day a phone call came from Chennai. It was Revathi Kunjamma, Amma's younger sister. 'Our baby is home!' she said. Revathi Kunjamma had adopted a baby girl. Her name was Kayal.
 
 'A new baby needs many hands,' said Ammachi. 'I will go to Chennai for two weeks to help.' Nila's face fell. Two weeks felt like forever.
 
@@ -131,9 +131,9 @@ Nila gave back the shawl. Ammachi held it to her nose and laughed. 'Ayyo! This s
 
 'Your skin is home to tiny living beings called microbes,' said Ammachi. 'They are far too small to see. They make much of our smell. When you hold something close, some of them move onto it. When people hug, some move across too. People who live together pass them to each other all the time.'
 
-'What about baby Kayal?' asked Arjun. 'She was not born in Revathi Chithi's family.'
+'What about baby Kayal?' asked Arjun. 'She was not born in Revathi Kunjamma's family.'
 
-Ammachi showed them a photo. Revathi Chithi held Kayal close, cheek to cheek. 'Revathi holds her all day, and they sleep side by side. They are sharing their tiny beings, just like we do. Kayal is her daughter.'
+Ammachi showed them a photo. Revathi Kunjamma held Kayal close, cheek to cheek. 'Revathi holds her all day, and they sleep side by side. They are sharing their tiny beings, just like we do. Kayal is her daughter.'
 
 Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 'Now it will smell of both of us,' said Nila.
 
@@ -216,7 +216,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
   *Parent says:* Let's look under the tumblers. Whose shirts did you know both times? Which ones were hard? Why do you think so?  
   *Child mode:* Look under each tumbler. Which ones did you get right? Which were hard?
   - Ask: Which shirt was hardest to know, and why? (good: The clean shirt, because it smelled of nothing.; A shirt from someone I do not sit close to.)
-  - Note: Many children get at least one person right both times, usually the person they are closest to. If your child got none right, that is a real result too. Smells on a shirt are faint. Try again with shirts worn for two nights, or let a grown-up be the sniffer. Wash the shirts afterwards.
+  - Note: Often a child gets at least one person right both times, usually someone close. If your child got none right, that is a real result too. Smells on a shirt are faint. Try again with shirts worn for two nights, or let a grown-up be the sniffer. Wash the shirts afterwards.
   - Check: What did you use to find whose shirt it was? → **My nose**
 ### e2 · Pass the Smell: how far does it go along a line of hands? (12 min)
 - **question:** If one person has garlic on their hand, and we shake hands down a line, how far does the smell go?
@@ -231,7 +231,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
   *Child mode:* One person gets garlic on their hand. We shake hands down the line. Will the last person smell of garlic? Why?
   - Ask: Will the last person smell of garlic? (good: Yes, it will pass along.; No, it will be used up by then.)
 - **s2 (2 min) · grown-up needed**  
-  *Parent does:* 1. Crush the garlic clove with the back of the spoon. 2. The first person in the line rubs it on one palm for a few seconds.  
+  *Parent does:* 1. The grown-up stands first in the line. 2. The grown-up crushes the garlic clove with the back of the spoon. 3. The grown-up rubs it on one palm for a few seconds.  
   *Parent says:* Smell the garlic. Now the first person rubs it on their palm.  
   *Child mode:* Smell the garlic. The first person rubs it on their palm.
   - Note: A grown-up crushes the garlic. Throw the clove in the cooking afterwards.
@@ -337,6 +337,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
   *Parent says:* Look, this is you as a baby! You could not walk or talk. Who fed you? Ask a grown-up what you ate.  
   *Child mode:* Look, that is you as a baby! Ask: what did I eat? Draw it.
   - Ask: What did you eat as a baby? (good: Milk, then ragi porridge.; Mashed rice and dal.)
+  - Note: If your child joined the family later, ask about the first days together instead.
 - **s2 (10 min)**  
   *Parent does:* 1. On day two, your child asks another person: what song did someone sing to me? 2. Sing it together. 3. Draw it.  
   *Parent says:* Who sang you to sleep? Ask a grown-up. Can they sing it now?  
@@ -379,9 +380,9 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
    **Answer:** A drawing of three things with a smell, such as tea, soap or a flower.. *Why:* A strong drawing shows things the child really knows by smell, which shows that smell tells us who and what is near.
 2. (match) Draw a line from each family to who is in it.  
    **Answer:** An elephant family → Mothers, aunts and young ones, with an older female leading; An ant family → A queen and her many daughters; A girl who lives with only her father → Joyita and her Baba. *Why:* Every one of these is a family, and each kind is different.
-3. (mcq) In the shirt test, you found whose shirt it was with your eyes covered. Circle what you used.  
+3. (mcq) In the shirt test, your eyes were covered. Circle what you used to guess whose shirt it was.  
    Options: My eyes / My nose / My ears  
-   **Answer:** My nose. *Why:* Your eyes were covered, so only your nose could tell. Each person has their own smell.
+   **Answer:** My nose. *Why:* Your eyes were covered, so only your nose could work.
 4. (truefalse) A family must always have a mother, a father and children.  
    **Answer:** False. *Why:* False. Some families have one parent, some have grandparents raising a child, and some have aunts. Every kind with grown-ups who care is a family.
 5. (odd) Circle the one that is NOT a family.  
@@ -392,7 +393,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 7. (count) Meenakshi lives in a big joint family in Madurai. Count all the people in this picture. Write the number.  
    **Answer:** 9 people.. *Why:* There are Paati, Thatha, Amma, Appa, an aunt, an uncle, Meenakshi and two cousins: 9 people in all.
 8. (perspective) Kavya and Lalitha, two sisters in Kochi, are talking about families.  
-   **Answer:** Any side, with a reason. Both can be right: many people are both related and live together.. *Why:* A strong answer gives a reason, for example 'Chithi lives far away but she is still my family'. It also sees what is good in the other view.
+   **Answer:** Any side, with a reason. Both can be right: many people are both related and live together.. *Why:* A strong answer gives a reason, for example 'Kunjamma lives far away but she is still my family'. It also sees what is good in the other view.
 9. (sort) Nila knows her grandmother, Ammachi, by clues. Colour the clues you see in blue. Colour the clues you smell in green.  
    **Answer:** her coconut oil → I smell it; her green shawl → I see it; her grey hair → I see it; her own body smell → I smell it. *Why:* We know our family with our eyes and with our noses. A smell clue works even in the dark.
 10. (label) Here is the shirt test. Draw a ring round the thing that stops the eyes from helping. Draw a cross on the thing that holds the shirt.  
@@ -423,7 +424,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 ### Families and Tiny Beings (challenge) (challenge, 10 questions)
 1. (write) Say it to a grown-up. In the Pass the Smell test, the garlic smell got weaker down the line. Why?  
    **Answer:** Each hand kept some of the garlic and passed on only a little. So each hand had less than the one before.. *Why:* A strong answer says some of the garlic stayed on each hand, so less reached the end.
-2. (mcq) Scientists found that people in one home share many skin microbes. Ammachi, Nila's grandmother, goes to stay for a month with her daughter Revathi, the mother of baby Kayal. What do you guess will happen?  
+2. (mcq) Scientists found that people in one home share many skin microbes. Ammachi, Nila's grandmother, goes to stay for two weeks with her daughter Revathi, the mother of baby Kayal. What do you guess will happen?  
    Options: She will share more microbes with Revathi's family / All her microbes will go away / Nothing will change at all  
    **Answer:** She will share more microbes with Revathi's family. *Why:* People who live together share more skin microbes. So she will likely share more with Revathi and Kayal. Scientists are still finding out how long shared microbes stay.
 3. (perspective) Three people in Bengaluru talk about where body smell comes from.  
@@ -442,8 +443,8 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
    **Answer:** Baby Kayal and her mother Revathi → Adoption; Nila and her little brother Arjun → Born to the same parents; Nila's Amma and Appa → Marriage. *Why:* People join families in different ways. Each way makes a real family.
 9. (write) Say it to a grown-up. Three tulsi plants grow side by side in one pot on the window. Are they a family? Why or why not?  
    **Answer:** For example: Yes, they live together and share the same soil and water. Or: Maybe, if they came from the same parent plant.. *Why:* A strong answer gives a reason, using what a family is: belonging together, sharing a home, or coming from the same parents.
-10. (draw) Draw a big circle. Inside it, draw everyone who looks after you, near and far. Outside it, draw one friend.  
-   **Answer:** A circle with family members inside and a friend outside.. *Why:* A strong drawing includes people who live far away, and anyone who looks after the child.
+10. (draw) Draw an animal family you have seen near your home, like cats, crows or cows. Show who looks after the young.  
+   **Answer:** A drawing of an adult animal with her young.. *Why:* A strong drawing shows an adult animal close to the young ones, and says what she does for them, such as feeding or guarding.
 
 ## Videos
 - **How smell works, for children** (, 4 min) id `to find`: Shows how tiny bits of a thing float into the nose, and how the nose tells smells apart. *Check:* Find a short, accurate video. Check it does not say humans have a weak sense of smell.
@@ -501,7 +502,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 - **How does a new baby learn their family's smell so quickly?** Babies seem to prefer familiar smells within days of birth, but tests do not always agree, and nobody knows exactly how this learning happens.
 
 ## Questions to ask kids
-- When you hug Amma, what does she smell like?
+- When you hug someone you love, what do they smell like?
 - Who in our family is first at something? Who is the earliest riser?
 - Who else lives in our home besides people?
 - Who looked after you today?
@@ -509,13 +510,13 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 
 ## Jokes
 - Why did the baby ant look so confused? *Because all her aunts were ants!*
-- What did the baby elephant say when she lost her family? *Has anyone seen my mummy? She is big, grey and has a long trunk!*
+- What did the baby elephant say when she lost her family? *Has anyone seen my Amma? She is big, grey and has a long trunk!*
 - Why did the family bring a ladder to the family reunion? *To reach everyone on the family tree!*
 - What did the nose say to the finger? *Stop picking on me!*
-- Why are grandmothers so good at hide and seek? *Because they always know where everything is!*
-- What do you call a whole elephant family in one auto? *A very tight squeeze!*
-- Why was the microbe never lonely? *Because the microbe always had millions of friends nearby!*
-- How does an elephant family send a message to a faraway cousin? *By trunk call!*
+- Why was the nose so tired? *Because it had been running all day!*
+- Why are elephants so wrinkled? *Have you ever tried to iron one?*
+- What do you call an elephant that does not matter? *An irrelephant!*
+- Knock knock. Who is there? Ant. Ant who? *Ant-ie! Open the door, it is me!*
 - Why did the elephant take a big bag to her cousin's wedding? *Because she had to pack her trunk!*
 
 ## Connected maths

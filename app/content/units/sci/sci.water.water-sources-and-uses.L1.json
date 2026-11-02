@@ -715,7 +715,7 @@
      "id": "s1",
      "mins": 3,
      "wait": "Leave the plates under the fan for one or two hours.",
-     "do": "1. Smear one teaspoon of dal on each plate. 2. Spread it into a thin patch. 3. Leave both plates under a fan or in a sunny spot.",
+     "do": "1. Smear one teaspoon of thick cooked dal on each plate. 2. Spread it into a thin patch. 3. Leave both plates under a fan or in a sunny spot.",
      "say": "We are making two sticky plates. Let's leave them to dry, just like plates that wait too long after lunch.",
      "kid": "Smear a little dal on each plate. Leave them to dry.",
      "parent": "A thin patch dries in an hour or two under a fan. The dal should feel hard when you touch it. If it is still sticky, wait longer, as it may in a humid city."
@@ -739,7 +739,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. While the wet plate waits, wipe the dry plate with a dry cloth. Count the wipes, up to 10. 2. After five minutes, wipe the wet plate the same way and count.",
+     "do": "1. While the wet plate waits, wipe the dry plate with one dry cloth. Count the wipes, up to 10. 2. After five minutes, wipe the wet plate with the other dry cloth, the same way, and count.",
      "say": "Wipe the dry plate. Count your wipes. Is the dal coming off? Now wipe the wet plate. Count again.",
      "kid": "Wipe the dry plate. Count. Now wipe the wet plate. Count.",
      "ask": [
@@ -967,7 +967,7 @@
        ]
       }
      ],
-     "parent": "Many children aged 6 drink about 4 to 6 tumblers a day, and more on hot days. Some water also comes from food, milk and buttermilk."
+     "parent": "We drink more on hot days. Some water also comes from food, milk and buttermilk."
     }
    ]
   }
@@ -1045,7 +1045,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "wait": "Come back each day for four more days.",
+     "wait": "Come back each day for three more days.",
      "do": "Each day, pour out the old water and fill fresh. Watch for a few minutes. Draw any visitor in the diary.",
      "say": "Who came today? How did they drink? Did they drink, or have a bath?",
      "kid": "Fill fresh water. Watch. Who came? Draw them.",
@@ -1119,7 +1119,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child picks an idea or invents one. 2. Help build it. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
+     "do": "1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot, water it the same and give it no help, to compare. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
      "say": "Which idea will you try? Let's make it.",
      "kid": "Pick an idea. Make it with a grown-up.",
      "adult": true,
@@ -1319,9 +1319,9 @@
     },
     {
      "t": "fill",
-     "p": "A well, a lake and a river are all water ____.",
-     "a": "sources",
-     "why": "A water source is a place we get water from."
+     "p": "Rain fills rivers, lakes and ____ with water.",
+     "a": "wells",
+     "why": "Rain soaks into the ground and fills wells, as well as rivers and lakes."
     },
     {
      "t": "order",
@@ -1532,7 +1532,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, the boy in the story, guesses that oil will make poha soft. What should he do to find out?",
+   "p": "Kavya, a girl in Class 1, guesses that oil will make poha soft. What should he do to find out?",
    "opts": [
     "Ask a friend",
     "Try it and look",
@@ -1627,8 +1627,8 @@
    "a": "Drip, drip, hooray!"
   },
   {
-   "j": "Why did the elephant bring their trunk to the river?",
-   "a": "They wanted to pack a drink!"
+   "j": "Why does an elephant never need a straw?",
+   "a": "She carries one on her face!"
   },
   {
    "j": "What did the thirsty tulsi say?",
@@ -1866,5 +1866,5 @@
   "wrong_idea": "That a cat scoops water up with the tongue like a spoon. Slow-motion films showed that the tongue only touches the top of the water and pulls up a column, which the cat bites off.",
   "art": "A slow-motion picture of a cat's tongue lifting a thin column of water from a bowl, with the cat's mouth about to close on the column."
  },
- "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. The Water Jobs cards now say the end state (3 in each basket), the pairs game no longer prints the answers on the backs of cards, and both games now have a clear end and a winner for 2 or 4 players. The poha wait no longer says to play a 15-minute game in a 10-minute wait, the Water Hunt no longer mentions slips that no step used, and the bird saucer, string waterer and sticky plate all work with home things. Removed one weak joke, repeated worksheet questions (replaced with new ones), the plant-feels-thirst line that contradicted the debate, and fixed the crow's pronouns and unclear maths and quiz names."
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. The Water Jobs cards now say the end state (3 in each basket), the pairs game no longer prints the answers on the backs of cards, and both games now have a clear end and a winner for 2 or 4 players. The poha wait no longer says to play a 15-minute game in a 10-minute wait, the Water Hunt no longer mentions slips that no step used, and the bird saucer, string waterer and sticky plate all work with home things. Removed one weak joke, repeated worksheet questions (replaced with new ones), the plant-feels-thirst line that contradicted the debate, and fixed the crow's pronouns and unclear maths and quiz names. Second pass: the quiz no longer names Arjun as guessing about poha (he never does in the story), the bird bowl wait now matches the days on the schedule, the sticky plate uses one cloth for each plate and thick cooked dal, the plant waterer says to keep an unhelped pot for comparison, a repeated 'water source' question and an unsourced drinking number were replaced, the elephant joke was made a real joke. The three videos still have no checked address, so they stay marked as to find."
 }

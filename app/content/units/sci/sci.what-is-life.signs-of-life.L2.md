@@ -94,14 +94,14 @@ We have tested sprouts, potatoes, curd and tricky cases for the signs of life. N
 - *what is life:* Life is something a body keeps doing, all the time, even when nothing seems to happen. The sprouts and the potato were busy while they lay still.
 - *what is this world:* The carbon dioxide you breathe out goes into the air of your room. Plants take it in through their leaves and build it into new leaves.
 
-Your breath and the sprouts' breath turned the same chuna water milky. The same gas, carbon dioxide, comes out of every breathing being: you, an ant, a sleeping cat and a sprout. Plants take that gas in through their leaves, and use sunlight to build it into food and new leaves. So the air in your flat passes from one living being to another, all day long. Every one of them senses and acts in their own way.
+Your breath and the sprouts' breath both turned chuna water milky. The same gas, carbon dioxide, comes out of every breathing being: you, an ant, a sleeping cat and a sprout. Plants take that gas in through their leaves, and use sunlight to build it into food and new leaves. So the air in your flat passes from one living being to another, all day long. Every one of them senses and acts in their own way.
 
-- **Prashna Upanishad, Question 2:** The senses, such as speech, sight, hearing and the mind, once argued about which of them holds up the body. The life-breath, called prana, began to leave. At once all the others had to leave too, like bees that rise when their leader rises. When prana settled, they all settled. So the senses saw that the quiet breath holds everything up. (In our test, the sprouts lay still and seemed to do nothing. But their breathing went on, quietly, under everything else. Breathing is the sign of life that never stops.)
+- **Prashna Upanishad, Question 2:** The senses, such as speech, sight, hearing and the mind, once argued about which of them holds up the body. The life-breath, called prana, began to leave. At once all the others had to leave too, like bees that rise when their leader rises. When prana settled, they all settled. So the senses saw that the quiet breath holds everything up. (In our test, the sprouts lay still and seemed to do nothing. But their breathing went on, quietly, under everything else. Breathing is a sign of life that goes on all the time.)
 - **Mahabharata, Shanti Parva, the talk between the sages Bhrigu and Bharadvaja:** Bhrigu teaches that trees are alive and sense the world. Their leaves and flowers fade in heat, so they feel warmth. A creeper finds a tree to climb, so the creeper senses the way. Trees drink water through their roots. (We saw this in the potato shoots reaching for the crack of light, and in a karela tendril curling round a string. Plants sense the world and act on it, though they seem still.)
 - Science (settled): All living beings breathe, plants included, day and night. Moong sprouts in a shut dabba give out enough carbon dioxide to turn chuna water milky in a few hours.
 - Science (debated): Plants sense light, touch, water and warmth and change what they do. Whether plants also feel what happens to them is still argued about.
 - Other view, Aristotle, a Greek thinker, and many scientists today: Aristotle taught that plants feed, grow and make seeds, but have no senses at all. Many scientists today agree that plants sense the world, but they say plants react automatically, because plants have no brain.
-- Practice, Still as a seed, breathing (3 min): Sit very still, like a seed in a packet. Put one hand on your tummy. Breathe in slowly through your nose. Breathe out slowly. Feel your tummy rise and fall. You are not moving, but your breath is. Now look at a plant or a sprout near you. Plants are breathing quietly too.
+- Practice, Still as a seed, breathing (3 min): Sit very still, like a seed in a packet. Hold your palm in front of your mouth. Breathe out slowly and feel the warm air on your hand. Breathe in slowly and feel the air go in. You are not moving, but your breath is. Now look at a plant or a sprout near you. Plants are breathing quietly too.
 - Ask: If breathing never stops, is anything in a living body ever really still?
 - Ask: The air you breathe out goes into a plant. Is part of you now in the plant?
 - Ask: What else might be alive in your house, quietly, without you noticing?
@@ -186,17 +186,17 @@ She looked through the kitchen door at the onion basket. 'Ajji,' she said, 'is t
 
 Ajji laughed. 'Put one on a glass of water and see,' she said.
 
-**For the parent:** For the parent: Shalini tests the old potato for each sign of life, one by one. The potato used stored food, grew, sensed the light, grew towards the crack of light, breathed and had young. Something that looked like still food was alive all along.
+**For the parent:** For the parent: Shalini checks the old potato against the signs of life one by one. The potato used stored food, grew, sensed the light and grew towards it, breathed, let out waste, and, planted in soil, made new potatoes. Something that looked like still food was alive all along.
 
 - Ask: Why were all the potato shoots bent towards the cupboard door?
-- Ask: Shalini said the potato was soft because of the shoots. What did she mean?
+- Ask: Why was the old potato soft and wrinkly?
 - Ask: Nikhil said a potato cannot breathe without a nose. What would you tell him?
 - Ask: Kamala Sohonie was almost turned away because she was a woman. Why do you think she would not go away?
 
 ## Games
 ### g1 · Missing Signs: the tricky case card game (15 min)
-- **rules:** Mix the 12 cards and put them in a pile in the middle, front side up.; On your turn, read the top card aloud. A parent can read it for a child who cannot read it yet.; Say one sign of life the thing seems to show, and one sign that is missing.; Then say: alive, once alive or never alive.; Another player turns the card over and reads the back aloud. You score one point for a right missing sign, and one point for the right answer. Keep score with tally marks on a sheet of paper.; If the thing is alive, no sign is missing. Say "nothing missing" to win that point.; Play until all 12 cards are done. The player with the most points wins. If two players tie, they both win.
-- **Printable cards: 12 tricky case cards:** A toy car (back: Seems to: move. Missing: eat, breathe, grow, sense, waste, young. Never alive.); A cloud (back: Seems to: grow and move. Missing: eat, breathe, sense, young. Never alive.); A phone that answers when you talk (back: Seems to: sense sound and touch. Missing: eat, breathe, grow, young. Never alive.); A robot that cleans the floor (back: Seems to: move and sense walls. Missing: eat food, breathe, grow, young. Never alive.); A ceiling fan (back: Seems to: move. Missing: everything else. Never alive.); A dry moong seed (back: Seems to do nothing. But with water, the seed sprouts and grows. Alive, resting.); An old potato in the cupboard (back: Grows shoots towards light, breathes, can have young. Alive.); A spoon of curd (back: Full of tiny living bacteria that eat, grow and make more of themselves in milk. Alive inside.); A sleeping cat (back: Seems still. Breathing, heart beating, growing. Alive.); A whole coconut with the husk on (back: Seems to do nothing. Planted in soil, a coconut can grow into a palm. Alive.); A cotton shirt (back: Made from the cotton plant. Cannot eat, grow or breathe now. Once alive.); A fresh mushroom from the shop (back: A mushroom is a fungus, not a plant. A fresh mushroom still breathes. Alive.)
+- **rules:** Mix the 12 cards and put them in a pile in the middle, front side up.; On your turn, read the top card aloud. A parent can read it for a child who cannot read it yet.; Say one sign of life the thing seems to show, and one sign that is missing.; Then say: alive, once alive or never alive.; Another player turns the card over and reads the back aloud. You score one point if the sign you said is missing is one of the missing signs on the back, and one point if your answer matches the back. Keep score with tally marks on a sheet of paper.; If the thing is alive, no sign is really missing, even if you cannot see it. Say "nothing missing" to win that point.; Play until all 12 cards are done. The player with the most points wins. If two players tie, they both win.
+- **Printable cards: 12 tricky case cards:** A toy car (back: Seems to: move. Missing: eat, breathe, grow, sense, waste, young. Never alive.); A cloud (back: Seems to: grow and move. Missing: eat, breathe, sense, young. Never alive.); A phone that answers when you talk (back: Seems to: sense sound and touch. Missing: eat, breathe, grow, young. Never alive.); A robot that cleans the floor (back: Seems to: move and sense walls. Missing: eat food, breathe, grow, young. Never alive.); A ceiling fan (back: Seems to: move. Missing: the other six signs. Never alive.); A dry moong seed (back: Seems to do nothing. But with water, the seed sprouts and grows. Alive, resting.); An old potato in the cupboard (back: Grows shoots towards light, breathes, can have young. Alive.); A spoon of curd (back: Full of tiny living bacteria that eat, grow and make more of themselves in milk. Alive inside.); A sleeping cat (back: Seems still. Breathing, heart beating, growing. Alive.); A whole coconut with the husk on (back: Seems to do nothing. Planted in soil, a coconut can grow into a palm. Alive.); A cotton shirt (back: Made from the cotton plant. Cannot eat, grow or breathe now. Once alive.); A fresh mushroom from the shop (back: A mushroom is a fungus, not a plant. A fresh mushroom still breathes. Alive.)
 - **s1 (3 min)**  
   *Parent does:* 1. Print and cut out the 12 cards, or write the front and back of each on paper or old card. 2. Put out a sheet of paper and a pencil for scoring. 3. Read the rules aloud.  
   *Parent says:* Each card is a tricky thing. You find one sign it seems to have, and one sign it is missing.  
@@ -213,8 +213,8 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   *Child mode:* Count your points. Which card surprised you?
   - Check: A robot moves and senses walls. Why is the robot not alive? → **The robot does not eat, grow or have young**
 ### g2 · Slow Plant Pairs: a memory game (12 min)
-- **rules:** Mix the 14 cards and lay them face down in two rows of seven.; On your turn, turn over two cards and read them aloud. A parent can read for a child who cannot read yet.; If one is a sign card and the other is the plant doing that sign, keep the pair and have another turn.; If not, turn them face down again in the same places.; When all the cards are taken, the player with the most pairs wins.
-- **Printable cards: 14 cards: 7 sign cards and 7 plant cards:** Sign: Eats; Plant: A neem leaf making food from sunlight, air and water; Sign: Breathes; Plant: Moong sprouts in a shut dabba turning chuna water milky; Sign: Grows; Plant: A coconut palm growing a new leaf at the top; Sign: Moves; Plant: A money plant turning their leaves to face the window; Sign: Senses; Plant: A karela tendril curling round a string they touched; Sign: Gets rid of waste; Plant: A tulsi plant letting out water and oxygen from their leaves; Sign: Has young; Plant: A mango tree making mangoes, each with a seed inside
+- **rules:** Mix the 14 cards and lay them face down in two rows of seven.; On your turn, turn over two cards and read them aloud. A parent can read for a child who cannot read yet.; If one is a sign card and the other is the plant doing that sign, keep the pair and have another turn.; If not, turn them face down again in the same places.; When all the cards are taken, the player with the most pairs wins. If two players tie, they both win.
+- **Printable cards: 14 cards: 7 sign cards and 7 plant cards:** Sign: Eats; Plant: A neem leaf making food from sunlight, air and water; Sign: Breathes; Plant: Moong sprouts in a shut dabba turning chuna water milky; Sign: Grows; Plant: A coconut palm growing a new leaf at the top; Sign: Moves (turns or bends, even slowly); Plant: A money plant turning their leaves to face the window; Sign: Senses (notices touch, light or water); Plant: A karela tendril that touched a string and curled round it; Sign: Gets rid of waste; Plant: A tulsi plant letting out water and oxygen from their leaves; Sign: Has young; Plant: A mango tree making mangoes, each with a seed inside
 - **s1 (3 min)**  
   *Parent does:* 1. Print and cut out the 14 cards, or write each one on paper or old card. 2. If you like, your child draws a small picture on each plant card. 3. Mix the cards and lay them face down.  
   *Parent says:* Let's make the cards. You draw a small picture on each plant card.  
@@ -246,10 +246,10 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   - Wait: Leave the moong and the chuna water overnight.
 - **s2 (3 min)**  
   *Parent does:* 1. Drain the moong into a plate. 2. Let your child look closely and touch them. 3. Ask the questions below.  
-  *Parent says:* Look at the moong now. Some have tiny white tails. Are they doing anything? Do you think they are alive?  
+  *Parent says:* Look at the moong now. They are fat from the water, and a few may have a tiny white tip. Are they doing anything? Do you think they are alive?  
   *Child mode:* Look at the moong. Touch them. Are they doing anything? Are they alive?
-  - Ask: Are the moong doing anything? (good: They are just lying there.; They got fat from the water and some have little tails.)
-  - Note: Soaked moong swell overnight, and many push out a tiny white root. Soaked moong are awake and breathing, even if the tails are tiny. Don't tell your child that yet.
+  - Ask: Are the moong doing anything? (good: They are just lying there.; They got fat from the water, and some may have a tiny tail.)
+  - Note: Soaked moong swell overnight, and some push out a tiny white root tip. If yours have none, that is fine. Soaked moong are awake and breathing. Don't tell your child that yet.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Pour clear chuna water off the top of the jug into one small glass, about a quarter full. 2. Let your child blow gently through the straw into it for about one minute. 3. Look at the water.  
   *Parent says:* This clear water has chuna in it. Blow gently into it through the straw. Only blow out, never suck. Watch the water.  
@@ -336,7 +336,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   *Child mode:* Pick up one thing. Which sign of life does it show? Choose a plate or the bowl.
   - Ask: Why does the phone go on the never alive plate? (good: The phone senses touch, but never eats or grows.; Phones don't have baby phones.)
   - Ask: Where does the cooked rice go? (good: Once alive, because rice grains came from a rice plant, but cooking killed them.)
-  - Note: Let the reasons come first and don't correct straight away. The dry moong, the sprout and the potato are alive. Curd is a food full of living bacteria. Cotton thread, cooked rice and coconut shell were once alive. The phone, the spoon and the cloud were never alive.
+  - Note: Let the reasons come first and don't correct straight away. The dry moong, the sprout and the potato are alive. Curd is a food full of living bacteria, so it goes on the alive plate or in the bowl. Cotton thread, cooked rice and coconut shell were once alive. The phone, the spoon and the cloud were never alive.
 - **s3 (4 min)**  
   *Parent does:* Pick one thing from the not-sure bowl. Plan a test together.  
   *Parent says:* Let's choose one thing from the bowl. How could we test if it is alive? Which sign of life could we look for?  
@@ -377,12 +377,12 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   - Ask: What kept going? (good: My breathing.; My heart kept beating.; I blinked.; My tummy made a sound.)
   - Note: Breathing and the heartbeat never stop. Hair and nails keep growing too, very slowly. So being still is not the same as doing nothing. This is how it is for the sprouts as well.
 ### a4 · Sleeping Leaves (if you have a park or a tree-lined road nearby) (15 min)
-- **record:** Draw a small rain tree leaf at noon and after sunset, side by side.
+- **record:** Draw a small rain tree leaf in the afternoon and after sunset, side by side.
 - **s1 (7 min) · grown-up needed**  
   *Parent does:* 1. In the afternoon, find a rain tree. 2. Look at one small leaf closely. 3. Draw it or take a photo.  
   *Parent says:* This is a rain tree. Look at the tiny leaflets on this leaf. Are they open or closed?  
   *Child mode:* Look at the tiny leaves. Are they open or closed? Draw them.
-  - Note: A rain tree is a big shady tree with a wide umbrella shape and feathery leaves made of many small leaflets. They have fluffy pink flowers in summer. Many Indian cities planted them along roads.
+  - Note: A rain tree is a big shady tree with a wide umbrella shape and feathery leaves made of many small leaflets. Rain trees have fluffy pink flowers in summer. Many Indian cities planted them along roads.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Go back after sunset with a torch. 2. Look at the same leaves. 3. Draw them or photograph them again.  
   *Parent says:* Look at the same leaves now, after sunset. What has changed?  
@@ -400,12 +400,13 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   *Parent says:* The only light comes in through this hole. The potato is at the other end, behind two walls. Will the shoots find the way out?  
   *Child mode:* The potato sits at the dark end. Light comes in the hole. Guess: will the shoots find it?
   - Ask: What do you think the shoots will do? Why? (good: Grow round the walls to the hole, because they sense the light.; Grow straight up, because they can't see.)
+  - Note: If your potato has no shoots yet, leave it in a dark cupboard for two weeks first, and start the project once it has small shoots.
   - Wait: Leave the box closed for a week.
 - **s2 (5 min)**  
   *Parent does:* Open the lid quickly, look, draw, and close it again.  
   *Parent says:* Look quickly, so we let in only a little light. Which way are the shoots growing?  
   *Child mode:* Peep in quickly. Which way are the shoots going? Draw them.
-  - Note: Shoots usually grow towards the gap in the first wall. If there are no shoots after a week, keep the box somewhere warmer.
+  - Note: Shoots usually grow towards the gap in the first wall. If there are no shoots after a week, keep the box somewhere warmer. Check that the soil or cloth is still damp. If it is dry, add one spoon of water.
   - Wait: Leave the box closed for another week.
 - **s3 (5 min)**  
   *Parent does:* Look again and draw.  
@@ -441,12 +442,12 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
   *Parent says:* Did the plant move? How do you know?  
   *Child mode:* Did the plant move? Show me how you know.
   - Check: A money plant was turned away from the window. Two days later, the leaves face the window again. What does this show? → **The plant sensed the light and moved to face the window**
-  - Wait: Check again tomorrow.
+  - Wait: Check again tomorrow, and again the day after if you see no change.
 
 ## Worksheets
 ### Signs of Life (core) (core, 10 questions)
 1. (match) Draw a line from each sign of life to a picture of it.  
-   **Answer:** Eats → A goat chewing grass; Breathes → A child blowing on a cold plate; Grows → A sprout getting a longer tail; Moves → A crow flying; Senses → A cat turning her ears to a sound; Gets rid of waste → A child sweating after a run; Has young → A hen with her chicks. *Why:* These are the seven signs of life. Every kind of living being does all seven. A strong answer can say one more example for each sign.
+   **Answer:** Eats → A goat chewing grass; Breathes → A child feeling warm breath on a hand; Grows → A sprout getting a longer tail; Moves → A crow flying; Senses → A cat turning her ears to a sound; Gets rid of waste → A child sweating after a run; Has young → A hen with her chicks. *Why:* These are the seven signs of life. Every kind of living being does all seven. A strong answer can say one more example for each sign.
 2. (mcq) Which one is alive?  
    Options: A ceiling fan / A sleeping dog / A cloud  
    **Answer:** A sleeping dog. *Why:* The sleeping dog is still, but breathing, growing and alive. The fan moves and the cloud grows, but neither eats, breathes or has young.
@@ -461,10 +462,10 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 7. (count) A toy car moves. How many of the seven signs of life is the toy car missing?  
    **Answer:** 6. *Why:* The car shows only one sign: moving. 7 take away 1 is 6. The car never eats, breathes, grows, senses, gets rid of waste or has young.
 8. (write) Shalini, a girl in the story, found an old potato in a dark cupboard with long shoots, all bent towards the crack of the door. Write two signs of life the potato showed.  
-   **Answer:** The potato grew shoots. The shoots sensed the light and grew towards the crack of light.. *Why:* A strong answer names two signs, such as growing, sensing light, or growing towards the crack of light, and says what the potato did for each.
-9. (odd) Three of these are alive. Which one is not?  
-   Options: A moong sprout / A crow / A cloud / A mushroom  
-   **Answer:** 2. *Why:* The sprout, the crow and the mushroom all eat, breathe, grow and have young. A cloud grows and moves, but a cloud does none of the other signs.
+   **Answer:** The potato grew shoots. The shoots sensed the light and grew towards the crack of light.. *Why:* A strong answer names two signs, such as growing, sensing the light, moving towards it, or using stored food, and says what the potato did for each.
+9. (odd) Three of these are alive now. Which one is not alive now?  
+   Options: A moong sprout / A crow / A mushroom / A dry leaf lying on the road  
+   **Answer:** 3. *Why:* The sprout, the crow and the mushroom eat, breathe, grow and have young. A dry leaf fell from a tree, so it was once alive, but it is not alive now.
 10. (label) Label this plant. Write what each part does: leaf, root, flower, shoot tip.  
    **Answer:** Leaf: makes food and breathes. Root: grows down to find water. Flower: makes seeds, the plant's young. Shoot tip: grows towards the light.. *Why:* Each part shows a sign of life: eating, sensing and moving, having young, and growing. A strong answer gives a sign for each part.
 ### Tricky Cases (stretch) (stretch, 10 questions)
@@ -473,8 +474,8 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
    **Answer:** Give the seeds water and see if they sprout. *Why:* A living seed wakes up with water and grows. Shaking or looking does not test any sign of life.
 2. (perspective) Two friends in Kochi look at a katori of curd. They argue about whether curd is alive.  
    **Answer:** A strong answer sees that both are partly right. Curd is a food, but curd is full of tiny living bacteria. The bacteria eat milk sugar, grow and make more of themselves, which is why a spoon of curd sets a bowl of milk.. *Why:* The curd itself is not one living being, but it holds millions of living beings. A strong answer uses the milk-setting evidence.
-3. (write) Your friend says, 'A cloud grows and moves, so a cloud is alive.' What would you tell your friend?  
-   **Answer:** A cloud grows and moves, but a cloud never eats, breathes or has young. One or two signs are not enough. A living being does all seven.. *Why:* A strong answer names at least one missing sign and says that all seven are needed.
+3. (write) At the end of the story, Ajji tells Shalini, 'Put an onion on a glass of water and see.' What do you think you will see after a few days? Which sign of life would it show?  
+   **Answer:** White roots grow down into the water, and a green shoot may grow from the top. This shows growing, and the roots reaching into the water show sensing.. *Why:* A strong answer says what we would see and names a sign of life. The onion has stored food, like the potato, so it can grow.
 4. (truefalse) Sprouts in the fridge breathe out more carbon dioxide than sprouts on a warm shelf.  
    **Answer:** False. *Why:* False. Cold slows down breathing. The fridge sprouts breathe out less carbon dioxide, so their chuna water stays clearer.
 5. (order) Put the steps of the chuna water test in order.  
@@ -579,7 +580,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 - What do you think a seed is doing while the seed waits in the packet?
 
 ## Jokes
-- Why is a potato good at hide and seek? *Because a potato has lots of eyes.*
+- Why is a potato good at finding things? *Because a potato has lots of eyes.*
 - Which plant is best at maths? *A square root.*
 - Why don't toy cars ever grow up? *They never eat their vegetables.*
 - What did the cloud say when asked if it was alive? *Sorry, I'm just passing through.*

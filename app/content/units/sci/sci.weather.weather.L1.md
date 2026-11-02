@@ -73,9 +73,6 @@ A cold is an illness caused by tiny viruses, which pass from person to person. G
 - **You cannot get sunburnt on a cloudy day.** (A common idea; *rejected*)  
   For: On a cloudy day the Sun is hidden and it often feels cooler.  
   Against: Some of the Sun's light gets through clouds, including the part that burns skin. People do get sunburnt on cloudy days, especially on beaches and hills.
-- **Getting cold or wet gives you a cold.** (Many families, all over the world; *debated*)  
-  For: Colds are more common in cold and rainy months. A 2005 study found more cold symptoms after people chilled their feet.  
-  Against: A cold is caused by a virus that passes from person to person. A 1968 study found that chilled people who were given the virus did not get more colds.
 
 ## Roots
 We have felt the fan's wind cool our arm, but not the steel tumbler. Now we ask what that tells us about ourselves and the world.
@@ -178,15 +175,15 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   *Child mode:* Act out each weather. Be quick!
 
 ## Experiments
-### e1 · The Fan and the Sweater: which clothes stop the wind? (22 min)
-- **question:** Does the fan's wind make things colder, or only warm bodies like you? Which clothes stop the wind: a thin dupatta, a thick sweater, a raincoat or a newspaper? Does wind feel colder on a wet hand?
+### e1 · The Fan and the Sweater: which clothes stop the wind? (15 min)
+- **question:** Does the fan's wind make things colder, or only warm bodies like you? Which clothes stop the wind: a thin dupatta, a thick sweater, a raincoat or a newspaper?
 - **predict:** Guess first. Will the tumbler in the wind get cold? Which cloth will stop the wind best? Why do you think so?
 - **fair test:** The fan stays on the same speed. Each cloth is held at the same place, one arm's length from the fan. The paper strip is held just behind the middle of each cloth, a finger's width away. Only the cloth changes.
-- **safety:** Keep fingers, hair, the dupatta and the paper strip away from the fan blades. Keep the bowl of water well away from the fan and any socket. Never put a plastic bag over anyone's head or face.
+- **safety:** Keep fingers, hair, the dupatta and the paper strip away from the fan blades. Never put a plastic bag over anyone's head or face.
 - **record:** Draw the fan, the cloth and the paper strip for each test. Draw the strip flying for 'a lot', and hanging down for 'still'.
 - **results table:** What we held up | Did the paper strip move? A lot, a little, or still | How did my arm feel behind it?
 - **s1 (2 min)**  
-  *Parent does:* 1. Switch the fan on to medium. 2. Put one steel tumbler on a stool, an arm's length in front of the fan. 3. Put the other tumbler far away, in another room or a far corner.  
+  *Parent does:* 1. Switch the fan on to medium. 2. Put one steel tumbler on a stool, an arm's length in front of the fan. 3. Put the other tumbler far away, on a shelf on the far side of the same room, out of the wind.  
   *Parent says:* One tumbler sits in the fan's wind. The other sits far away. We will leave them for five minutes.  
   *Child mode:* Put one tumbler in front of the fan. Put the other one far away.
   - Note: Use dry tumblers that have been in the house for a while, so both start as warm as the room.
@@ -204,27 +201,20 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   - Ask: Did the wind make the tumbler colder? (good: No, they feel the same.; No, but my hand feels cold in the wind.)
   - Note: Both tumblers feel the same, a little cool, as steel always does. That is the surprise. The fan cools your hand because your hand is warmer than the air.
   - Check: The tumbler sat in the fan's wind for five minutes. How did it feel? → **The same as the other tumbler**
-- **s4 (5 min) · grown-up needed**  
+- **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Try nothing, the dupatta, the sweater, the raincoat and the newspaper, in turn.  
   *Parent says:* Hold the strip just behind the cloth. Watch it. Does it fly, wave a little, or hang still?  
   *Child mode:* Hold the strip just behind the cloth. Does it fly? Or hang still?
   - Ask: What did the strip do behind the sweater? (good: It still moved.; It waved, so wind came through.)
   - Ask: What did it do behind the raincoat? (good: It hung still.; No wind came through.)
   - Note: Hold the cloth bigger than the strip, so wind does not curl round the edge. If the strip twitches a little behind the raincoat, that is air curling round the edges. Compare it with the sweater.
-- **s5 (3 min)**  
+- **s5 (2 min)**  
   *Parent does:* 1. Your child puts on the sweater and holds that arm in the wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Hold the arm in the wind again.  
   *Parent says:* Feel the wind through the sweater. Now we put the raincoat over the top. What changed? Why did wind go through the sweater but not the raincoat?  
   *Child mode:* Feel the wind through your sweater. Now cover it with the raincoat. What changed? Why?
   - Ask: Why did your arm feel warmer with the raincoat on top? (good: The raincoat stopped the wind.; The wind couldn't take my warmth away.)
   - Ask: Why did wind go through the sweater but not the raincoat? (good: The sweater has tiny holes between the wool.; The raincoat has no holes.)
   - Note: Wrap the plastic round the arm only. Two layers, wool inside and a wind-stopper outside, is how people dress on cold, windy hills.
-  - Think: The wind cooled your arm but not the tumbler. What was different about your arm?
-- **s6 (5 min)**  
-  *Parent does:* 1. Dip the fingers of one hand in the bowl of water. Keep the other hand dry. 2. Hold both hands out in the fan's wind for half a minute. 3. Feel which hand is colder. 4. Then move away from the fan, into still air, and feel again. 5. Dry your hands on the towel.  
-  *Parent says:* One hand is wet and one is dry. Hold them both in the wind. Which one feels colder? Now move away from the fan. Is it still colder?  
-  *Child mode:* Wet one hand. Hold both hands in the wind. Which one feels colder?
-  - Ask: Which hand felt colder in the wind? Why? (good: The wet hand. The wind dried the water and took my warmth.; The wet hand, because drying takes warmth from my skin.)
-  - Note: The wet hand feels colder in still air too, but much colder in the wind. Wet clothes feel cold in the wind for the same reason.
 
 ## Activities
 ### a1 · Weather Detectives: find clues indoors (10 min)
@@ -341,9 +331,9 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 10. (perspective) Two friends in Bengaluru are going up a cold, windy hill.  
    **Answer:** Farhan will be warmer in the wind, because the raincoat stops the wind. But Divya is right that a thick sweater keeps warmth in well on a still day.. *Why:* A strong answer uses the fan test: wind went through the sweater but not the raincoat. It is also fair to Divya: wool is good at keeping warmth in.
 ### Wind, Warmth and Clouds (stretch) (stretch, 10 questions)
-1. (mcq) Nandini, a girl in Kolkata, stands in front of the fan with wet hands. Her friend stands there with dry hands. Who feels colder?  
-   Options: Nandini, with wet hands / Her friend, with dry hands / Both the same  
-   **Answer:** Nandini, with wet hands. *Why:* The wind dries the water on Nandini's hands, and drying takes warmth from her skin. That is also why wet clothes feel cold in the wind.
+1. (mcq) A bus is racing along in the wind. Nandini, a girl in Kolkata, sits at the window in a dry shirt. Her friend sits beside her in a wet shirt. Who feels colder?  
+   Options: Nandini, in the dry shirt / Her friend, in the wet shirt / Both the same  
+   **Answer:** Her friend, in the wet shirt. *Why:* The wind dries the water in the shirt, and drying takes warmth from the skin. That is why wet clothes feel cold in the wind.
 2. (write) In the fan test, why did we hold every cloth at the same place, one arm's length from the fan? Say it to a grown-up, who writes it down.  
    **Answer:** So that only the cloth is different. If one cloth were closer to the fan, it could look different only because of where it was.. *Why:* A strong answer says that only one thing should change in a fair test.
 3. (order) Put the pictures in order, from first to last.  
@@ -351,8 +341,8 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 4. (mcq) Remember the torch and the white cloth? What did the cloth do to the toy's shadow?  
    Options: Made it sharper / Made it soft and pale / Made it red  
    **Answer:** Made it soft and pale. *Why:* The cloth spread out the torch's light, like a cloud spreads sunlight. So the shadow went soft.
-5. (truefalse) You can get sunburnt on a cloudy day.  
-   **Answer:** True. *Why:* True. Some of the Sun's light that burns skin gets through clouds.
+5. (draw) Draw a windy day. Show three things that the wind is moving.  
+   **Answer:** A drawing with three things the wind moves, such as a bending tree, flapping clothes and a flying kite.. *Why:* A strong drawing shows wind by what it moves, because we cannot see air itself.
 6. (draw) Draw a cloud. Then draw a zoom-in circle next to it, showing what a cloud is made of.  
    **Answer:** A cloud with a circle full of tiny round water drops.. *Why:* A strong drawing shows that a cloud is made of many tiny drops of water.
 7. (match) Draw a line from each rain shield to where people wear it.  
@@ -429,12 +419,12 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 
 ## Jokes
 - What did one cloud say to the other cloud? *Let's stick together and make rain!*
-- Why did the sweater go to the windy hill? *To get some fresh air, right through its holes!*
+- What goes up when the rain comes down? *An umbrella!*
 - What does the wind wear on a cold day? *Nothing. It just blows straight through everyone else's sweaters!*
 - Why did the umbrella stay at home? *It was too sunny to go out.*
 - What did the fan say to the boy? *I'm not cold. You're just warm!*
 - How do clouds go to the bathroom? *They just rain!*
-- What did the Sun say to the cloud? *Move over, I want to see the children!*
+- Why is the fan so popular? *Because it has so many fans!*
 - What is a cloud's favourite game? *Hide and seek with the Sun!*
 
 ## Connected maths

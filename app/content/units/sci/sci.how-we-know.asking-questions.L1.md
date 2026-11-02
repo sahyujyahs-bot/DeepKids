@@ -171,12 +171,12 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   - Note: Children often start by naming things: 'Is it the fan?' Let them. After a few tries, show how 'Is it soft?' rules out many things at once.
 - **s3 (3 min)**  
   *Parent does:* Swap. Your child is the thinker, and you ask the questions. Think aloud about why you pick each question.  
-  *Parent says:* Now you pick a thing. I'll ask. Hmm, I'll ask if it's alive first, because that rules out lots of things.  
+  *Parent says:* Now you pick a thing. I'll ask. Hmm, I'll ask if it's soft first, because that rules out lots of things.  
   *Child mode:* Now you pick a secret thing. Say only yes or no.
   - Check: Which question tells you the most at the start? → **Is it soft?**
   - Think: What makes a question a good question?
 ### g2 · Question Dice: roll a word, ask a question (12 min)
-- **rules:** Stick the six question words on the six sides of a dice, or write them on six slips of paper and pick one from a bowl.; Put the thing cards in a pile, face down.; A player rolls the dice and turns over the top thing card. If the word and the thing do not fit together at all, roll again.; The player asks a question about that thing, starting with the word on the dice. For example: WHY plus A crow makes 'Why do crows caw?'; Everyone claps for every real question. There are no wrong questions. Put the card aside.; If nobody at home knows the answer, write the question down to find out later.; The game is won together. You win when all 12 thing cards have a question, and you have written down at least 3 questions to find out later.
+- **rules:** Stick the six question words on the six sides of a dice, or write them on six slips of paper and pick one from a bowl.; Put the thing cards in a pile, face down.; A player rolls the dice and turns over the top thing card. If the word and the thing do not fit together at all, roll again.; The player asks a question about that thing, starting with the word on the dice. For example: WHY plus A crow makes 'Why do crows caw?'; Everyone claps for every real question. There are no wrong questions. Put the card aside.; If nobody at home knows the answer, put a star next to the question on the paper, to find out later.; The game is won together. You win when all 12 thing cards have a question. Then pick the 3 questions you most want to find out later, and write them down.
 - **Printable cards: 6 question words for the dice faces:** WHAT; WHY; HOW; WHERE; WHEN; WHO
 - **Printable cards: 12 thing cards:** A crow; Rain; A pressure cooker; The Moon; An ant; A banana; A ceiling fan; A coconut; Your shadow; A kolam on the floor; A seed; Ice in a glass
 - **s1 (2 min)**  
@@ -184,16 +184,16 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   *Parent says:* These are question words. What, why, how, where, when and who. Every question needs one of them, or a yes-or-no start.  
   *Child mode:* These are question words. Say them with me.
 - **s2 (8 min)**  
-  *Parent does:* 1. Take turns to roll and turn a card. 2. Help your child make a question with the two. 3. Write down any question nobody can answer.  
+  *Parent does:* 1. Take turns to roll and turn a card. 2. Help your child make a question with the two. 3. Write each question on the paper. Star any that nobody can answer.  
   *Parent says:* You rolled HOW, and the card says A seed. Can you make a question? How does a seed know which way is up?  
   *Child mode:* Roll the dice. Turn a card. Make a question with both.
   - Ask: Which question did you like most? Why? (good: 'Where does rain come from?', because I don't know.; 'Who lives in a coconut?', because it is funny and maybe something does.)
   - Note: Clap for odd questions too. 'When does the Moon sleep?' is a real question: it leads to where the Moon goes in the day.
 - **s3 (2 min)**  
-  *Parent does:* Read back the questions nobody could answer. Choose one to find out about together later.  
-  *Parent says:* These are the questions we could not answer. Which one shall we find out about first?  
+  *Parent does:* Read back the starred questions. If none are starred, choose the 3 you most want to check. Pick one to find out about together later.  
+  *Parent says:* These are the questions we want to find out about. Which one shall we try first?  
   *Child mode:* Pick one question to find out about later.
-  - Check: Which one is a question? → **Why does the fan go round?**
+  - Check: You rolled WHY and turned over the card Ice in a glass. Which is a good question to ask? → **Why does ice get smaller in a glass?**
 
 ## Experiments
 ### e1 · Mystery Dabbas: what is inside, without looking? (20 min)
@@ -339,7 +339,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 - **general:** Shake it and listen. One coin clinks once. Many coins jingle.; Lift it and feel the weight. More coins are heavier.
 - **creative:** Fill the second dabba with 1 coin, then 3, then 6. Shake both, one in each hand, and find the one that sounds the same.; Hold both dabbas, one in each hand, and add coins to yours until they feel equally heavy.
 - **s1 (3 min)**  
-  *Parent does:* 1. Out of sight, put 3 one-rupee coins in one dabba and shut it. 2. Read the problem to your child.  
+  *Parent does:* 1. Out of sight, put 3 one-rupee coins in one dabba and shut it. (Next time, try 1 or 6.) 2. Read the problem to your child.  
   *Parent says:* There are some coins hidden in this dabba. It might be 1, or 3, or 6. Can you find out how many, without opening it?  
   *Child mode:* Some coins are hidden. How many? Don't open it.
 - **s2 (7 min)**  
@@ -403,9 +403,8 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 9. (odd) Which of these can you NOT find out by shaking a shut dabba?  
    Options: If there is one thing or many / If the thing is hard or soft / The colour of the thing  
    **Answer:** 2. *Why:* Sound and movement tell you about number, hardness and shape. Colour can only be seen.
-10. (odd) Which one is NOT a way to find out what is in a shut box?  
-   Options: Shake it and listen / Lift it and feel the weight / Guess with no clue at all  
-   **Answer:** 2. *Why:* A guess with no clue tells you nothing. Listening and lifting give real clues.
+10. (write) A friend says, 'If you cannot see a thing, you cannot know what it is.' Say out loud what you would tell your friend, and a grown-up writes it.  
+   **Answer:** A strong answer uses the dabbas: we never saw inside, but sounds, weight and rolling told us. Opening the lid checked it.. *Why:* A strong answer uses the child's own experiment as evidence against the idea.
 
 ## Videos
 - **Inge Lehmann and the inner core of the Earth, a short explainer** (, 4 min) id `to find`: Shows how earthquake shaking travels through the Earth, and how Inge Lehmann found the inner core from it. *Check:* Find a short, accurate explainer for children or families that names Inge Lehmann and the year 1936.
@@ -475,8 +474,8 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 - Why did the scientist bring a ladder to class? *She wanted to ask some high-level questions!*
 - What did the dabba say when you shook it? *Stop it, you are rattling my rice!*
 - Why are detectives good at science? *They always follow the clues!*
-- Why did the question mark go to bed early? *It had a busy day of wondering!*
-- Why did the elaichi pod go to school? *To become a little more seed-ucated!*
+- Knock knock. Who is there? Dabba. Dabba who? *Dabba-dabba-doo, please let me in, I can smell rice!*
+- Why did the ant shake the dabba? *She wanted to know what was for lunch!*
 - Why did the girl stare at the orange juice box? *Because it said 'concentrate'!*
 - What starts with 'why' and never stops? *A six-year-old!*
 - Why did the magpie robin peck the window? *He wanted to win an argument with himself!*
@@ -484,7 +483,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 ## Connected maths
 - Divya, a girl in Class 1, looked at an elaichi pod. After a quick look she noticed 1 thing. After a slow look she noticed 5 things. How many more things did she notice with the slow look? **4 more things.**. 5 take away 1 is 4. The slow look, with more senses, found 4 more clues. (queues `math.addition-subtraction.meaning.L1`)
 - In the Yes-or-No Detective game, Meenakshi found the pillow in 6 questions. Her brother Sai found the spoon in 9 questions. Who used fewer questions? **Meenakshi. 6 is fewer than 9.**. Count up from 6 to 9: 7, 8, 9. That is 3 more questions for Sai. So Meenakshi's questions found the answer faster. (queues `math.number-sense.comparing-ordering.L1`)
-- Kavya, a girl in Class 1, guessed what was in 3 shut dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled her? **1 guess was wrong. Maybe the cotton ball, because no sound made her think the dabba was empty.**. 3 take away 2 leaves 1. A dabba with a cotton ball and an empty dabba both make almost no sound, so that clue could fool anyone. (queues `math.addition-subtraction.meaning.L1`)
+- Gauri, a girl in Class 1, guessed what was in 3 shut dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled her? **1 guess was wrong. Maybe the cotton ball, because no sound made her think the dabba was empty.**. 3 take away 2 leaves 1. A dabba with a cotton ball and an empty dabba both make almost no sound, so that clue could fool anyone. (queues `math.addition-subtraction.meaning.L1`)
 
 ## Song
 I Notice, I Wonder (sci.how-we-know.L1): Topic-level song for How we know L1

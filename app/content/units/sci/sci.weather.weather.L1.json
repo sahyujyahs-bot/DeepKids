@@ -157,14 +157,6 @@
    "against": "Some of the Sun's light gets through clouds, including the part that burns skin. People do get sunburnt on cloudy days, especially on beaches and hills.",
    "status": "rejected",
    "context": "This card is about a common mistake: that clouds block all sunburn."
-  },
-  {
-   "claim": "Getting cold or wet gives you a cold.",
-   "who": "Many families, all over the world",
-   "for": "Colds are more common in cold and rainy months. A 2005 study found more cold symptoms after people chilled their feet.",
-   "against": "A cold is caused by a virus that passes from person to person. A 1968 study found that chilled people who were given the virus did not get more colds.",
-   "status": "debated",
-   "context": "This card is about a saying many grown-ups use: 'You will catch a cold.'"
   }
  ],
  "big_questions": [
@@ -399,10 +391,10 @@
   {
    "id": "e1",
    "title": "The Fan and the Sweater: which clothes stop the wind?",
-   "mins": 22,
+   "mins": 15,
    "days": 1,
-   "context": "In this experiment you make a wind with a fan. First you find out if the wind cools a steel tumbler, or only you. Then you hold up different clothes in the wind, and use a paper strip to see which ones let the wind through. Last, you feel what wind does to a wet hand.",
-   "question": "Does the fan's wind make things colder, or only warm bodies like you? Which clothes stop the wind: a thin dupatta, a thick sweater, a raincoat or a newspaper? Does wind feel colder on a wet hand?",
+   "context": "In this experiment you make a wind with a fan. First you find out if the wind cools a steel tumbler, or only you. Then you hold up different clothes in the wind, and use a paper strip to see which ones let the wind through.",
+   "question": "Does the fan's wind make things colder, or only warm bodies like you? Which clothes stop the wind: a thin dupatta, a thick sweater, a raincoat or a newspaper?",
    "predict": "Guess first. Will the tumbler in the wind get cold? Which cloth will stop the wind best? Why do you think so?",
    "fair_test": "The fan stays on the same speed. Each cloth is held at the same place, one arm's length from the fan. The paper strip is held just behind the middle of each cloth, a finger's width away. Only the cloth changes.",
    "results_table": [
@@ -440,20 +432,16 @@
      "qty": 1
     },
     {
-     "item": "a bowl of water and a towel",
-     "qty": 1
-    },
-    {
      "item": "paper and crayons",
      "qty": 1
     }
    ],
-   "safety": "Keep fingers, hair, the dupatta and the paper strip away from the fan blades. Keep the bowl of water well away from the fan and any socket. Never put a plastic bag over anyone's head or face.",
+   "safety": "Keep fingers, hair, the dupatta and the paper strip away from the fan blades. Never put a plastic bag over anyone's head or face.",
    "schedule": [
     {
      "day": 1,
-     "mins": 22,
-     "what": "Leave a tumbler in the fan's wind for 5 minutes. Feel it. Test each cloth with the paper strip, and feel it on your arm. Last, compare a wet hand and a dry hand in the wind."
+     "mins": 15,
+     "what": "Leave a tumbler in the fan's wind for 5 minutes. Feel it. Test each cloth with the paper strip, and feel it on your arm."
     }
    ],
    "record": "Draw the fan, the cloth and the paper strip for each test. Draw the strip flying for 'a lot', and hanging down for 'still'.",
@@ -511,7 +499,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Switch the fan on to medium. 2. Put one steel tumbler on a stool, an arm's length in front of the fan. 3. Put the other tumbler far away, in another room or a far corner.",
+     "do": "1. Switch the fan on to medium. 2. Put one steel tumbler on a stool, an arm's length in front of the fan. 3. Put the other tumbler far away, on a shelf on the far side of the same room, out of the wind.",
      "say": "One tumbler sits in the fan's wind. The other sits far away. We will leave them for five minutes.",
      "kid": "Put one tumbler in front of the fan. Put the other one far away.",
      "parent": "Use dry tumblers that have been in the house for a while, so both start as warm as the room."
@@ -570,7 +558,7 @@
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 4,
      "adult": true,
      "do": "1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Try nothing, the dupatta, the sweater, the raincoat and the newspaper, in turn.",
      "say": "Hold the strip just behind the cloth. Watch it. Does it fly, wave a little, or hang still?",
@@ -595,7 +583,7 @@
     },
     {
      "id": "s5",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Your child puts on the sweater and holds that arm in the wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Hold the arm in the wind again.",
      "say": "Feel the wind through the sweater. Now we put the raincoat over the top. What changed? Why did wind go through the sweater but not the raincoat?",
      "kid": "Feel the wind through your sweater. Now cover it with the raincoat. What changed? Why?",
@@ -615,25 +603,7 @@
        ]
       }
      ],
-     "parent": "Wrap the plastic round the arm only. Two layers, wool inside and a wind-stopper outside, is how people dress on cold, windy hills.",
-     "think": "The wind cooled your arm but not the tumbler. What was different about your arm?"
-    },
-    {
-     "id": "s6",
-     "mins": 5,
-     "do": "1. Dip the fingers of one hand in the bowl of water. Keep the other hand dry. 2. Hold both hands out in the fan's wind for half a minute. 3. Feel which hand is colder. 4. Then move away from the fan, into still air, and feel again. 5. Dry your hands on the towel.",
-     "say": "One hand is wet and one is dry. Hold them both in the wind. Which one feels colder? Now move away from the fan. Is it still colder?",
-     "kid": "Wet one hand. Hold both hands in the wind. Which one feels colder?",
-     "ask": [
-      {
-       "q": "Which hand felt colder in the wind? Why?",
-       "good": [
-        "The wet hand. The wind dried the water and took my warmth.",
-        "The wet hand, because drying takes warmth from my skin."
-       ]
-      }
-     ],
-     "parent": "The wet hand feels colder in still air too, but much colder in the wind. Wet clothes feel cold in the wind for the same reason."
+     "parent": "Wrap the plastic round the arm only. Two layers, wool inside and a wind-stopper outside, is how people dress on cold, windy hills."
     }
    ]
   }
@@ -1186,15 +1156,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Nandini, a girl in Kolkata, stands in front of the fan with wet hands. Her friend stands there with dry hands. Who feels colder?",
+     "p": "A bus is racing along in the wind. Nandini, a girl in Kolkata, sits at the window in a dry shirt. Her friend sits beside her in a wet shirt. Who feels colder?",
      "opts": [
-      "Nandini, with wet hands",
-      "Her friend, with dry hands",
+      "Nandini, in the dry shirt",
+      "Her friend, in the wet shirt",
       "Both the same"
      ],
-     "a": 0,
-     "why": "The wind dries the water on Nandini's hands, and drying takes warmth from her skin. That is also why wet clothes feel cold in the wind.",
-     "how": "e1"
+     "a": 1,
+     "why": "The wind dries the water in the shirt, and drying takes warmth from the skin. That is why wet clothes feel cold in the wind."
     },
     {
      "t": "write",
@@ -1233,10 +1202,10 @@
      "how": "a2"
     },
     {
-     "t": "truefalse",
-     "p": "You can get sunburnt on a cloudy day.",
-     "a": true,
-     "why": "True. Some of the Sun's light that burns skin gets through clouds."
+     "t": "draw",
+     "p": "Draw a windy day. Show three things that the wind is moving.",
+     "a": "A drawing with three things the wind moves, such as a bending tree, flapping clothes and a flying kite.",
+     "why": "A strong drawing shows wind by what it moves, because we cannot see air itself."
     },
     {
      "t": "draw",
@@ -1507,8 +1476,8 @@
    "a": "Let's stick together and make rain!"
   },
   {
-   "j": "Why did the sweater go to the windy hill?",
-   "a": "To get some fresh air, right through its holes!"
+   "j": "What goes up when the rain comes down?",
+   "a": "An umbrella!"
   },
   {
    "j": "What does the wind wear on a cold day?",
@@ -1527,8 +1496,8 @@
    "a": "They just rain!"
   },
   {
-   "j": "What did the Sun say to the cloud?",
-   "a": "Move over, I want to see the children!"
+   "j": "Why is the fan so popular?",
+   "a": "Because it has so many fans!"
   },
   {
    "j": "What is a cloud's favourite game?",
@@ -1753,5 +1722,5 @@
   "wrong_idea": "That a thermometer alone tells how cold it is for a body. At the same thermometer reading, water froze much faster in the wind, so wind matters too.",
   "art": "Two explorers in thick fur-lined coats on the snow, looking up at a small tube of water hanging from a tall pole in the wind."
  },
- "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and a 6-year-old would, with a fan, steel tumblers, cloth and a paper strip in a flat. Rebuilt the clothes game so it has a face-down pile, an ending and a winner with 2 or 4 players, and gave the moving game a clear end. Made the fan test 22 minutes with a 5-minute wait that really fits, and added the wet-hand test. Fixed the water-near-the-fan step in the hat challenge, lengthened the story, and removed repeated questions, weak jokes and unintroduced names."
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and a 6-year-old in a flat would. Cut the fan test from 22 to 15 minutes by taking out the wet-hand step, so the steps, minutes, schedule, materials and safety line agree, and made the second tumbler wait in the same room so the test is fair. Moved the wet-shirt idea into a bus question, replaced a repeated sunburn question with a drawing, dropped a repeated cold-from-cold card and a repeated think question, swapped two weak jokes. The three videos still have no checked address and stay marked to find. Both games work with 2 and 4 players and every card is written out."
 }

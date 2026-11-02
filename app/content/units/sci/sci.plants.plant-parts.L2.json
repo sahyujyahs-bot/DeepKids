@@ -76,10 +76,10 @@
    "status": "defined",
    "context": "This card explains how to tell which part of a plant you are eating.",
    "definition": "The plant foods we eat are roots, stems, leaves, flowers, fruits or seeds. Each part had its own job for the plant.",
-   "description": "A carrot and a radish are roots. They grew down into the soil and stored food. Sugarcane and banana stem are stems. Palak, cabbage and curry leaves are leaves. Cauliflower and banana flower are flowers. A cook calls tomato, brinjal and bhindi vegetables. But they grew from flowers and hold seeds, so to a scientist they are fruits. Rice, wheat, dal and peanuts are seeds.",
+   "description": "A carrot and a radish are roots. They grew down into the soil and stored food. Sugarcane and lotus stem are stems. Palak, cabbage and curry leaves are leaves. Cauliflower and banana flower are flowers. A cook calls tomato, brinjal and bhindi vegetables. But they grew from flowers and hold seeds, so to a scientist they are fruits. Rice, wheat, dal and peanuts are seeds.",
    "examples": [
     "Root: carrot, radish, beetroot.",
-    "Stem: sugarcane, banana stem, lotus stem.",
+    "Stem: sugarcane, lotus stem, potato.",
     "Leaf: palak, cabbage, curry leaves, drumstick leaves.",
     "Flower: cauliflower, banana flower, cloves.",
     "Fruit: tomato, brinjal, bhindi, cucumber, drumstick, mango.",
@@ -233,7 +233,7 @@
    "Next Paati took out something Arjun had never seen. It was a long, pale stick, like a thin cucumber. \"This is thamarai thandu,\" she said. \"Lotus stem.\" She cut a slice and held it up to the window. The slice was full of holes, in a ring like a flower.",
    "\"Why does it have holes?\" asked Arjun.",
    "Kavya thought about it. \"Lotus plants grow in ponds,\" she said slowly. \"This stem was down in the mud. Maybe the holes are for air.\"",
-   "\"You are right,\" said Paati. \"Mud has almost no air. These tunnels carry air down from the leaves on top of the pond. When I was a girl near Thanjavur, our temple tank was full of lotus. We children used to break a leaf stalk and blow through it. Bubbles came out of the other end.\"",
+   "\"You are right,\" said Paati. \"Mud has almost no air. These tunnels carry air down from the leaves on top of the pond. When I was a girl near Thanjavur, our temple tank was full of lotus. We children used to break a leaf stalk and look at the holes inside.\"",
    "Arjun laughed. \"A plant with straws inside!\"",
    "Then Arjun remembered something. \"In my school there is a cactus in a pot,\" he said. \"It has no leaves at all. Only prickles.\"",
    "\"The prickles are the leaves,\" said Kavya. She had read it in a book. \"A cactus lives where it hardly rains. Thin, flat leaves would dry out. So the cactus has spines, and keeps water in a fat green stem.\"",
@@ -410,7 +410,7 @@
        ]
       }
      ],
-     "parent": "Accept any answer now. The vegetable basket sort and the card game explains the parts. Potato is a stem that grows under the ground, which surprises most people."
+     "parent": "Accept any answer now. The vegetable basket sort and the card game explain the parts. Potato is a stem that grows under the ground, which surprises most people."
     },
     {
      "id": "s2",
@@ -592,9 +592,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Put the 10 measured chana in a bowl and cover them with water. 2. Put 10 more dry chana in the other bowl, with no water. 3. Leave both overnight.",
+     "do": "1. Put the 10 measured chana in a bowl and cover them with water. 2. Put 10 more dry chana in the other cup, with no water. 3. Leave both overnight.",
      "say": "Let's soak these ten. These other ten stay dry, so tomorrow we can compare.",
-     "kid": "Put 10 chana in water. Put 10 more in a dry bowl. Leave them for the night.",
+     "kid": "Put 10 chana in water. Put 10 more in a dry cup. Leave them for the night.",
      "wait": "Leave them overnight"
     },
     {
@@ -626,7 +626,7 @@
    "context": "In this activity you take the vegetables and dal from your kitchen and sort them onto six papers: root, stem, leaf, flower, fruit and seed. Then you cut open one to check a rule: if it has seeds inside, it is a fruit.",
    "materials": [
     {
-     "item": "six sheets of paper labelled root, stem, leaf, flower, fruit and seed, with a small drawing of each part",
+     "item": "six sheets of paper, and a pen to write on them",
      "qty": 6
     },
     {
@@ -664,7 +664,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the six papers. 2. Read each label with your child. 3. Bring the vegetable basket and the dal tins.",
+     "do": "1. Write root, stem, leaf, flower, fruit and seed, one on each of six sheets of paper. 2. Lay them out and read each label with your child. 3. Bring the vegetable basket and the dal tins.",
      "say": "Every plant food is one part of a plant. Let's find out which part each of our foods is.",
      "kid": "Look at the six papers. Root, stem, leaf, flower, fruit, seed. Bring the vegetables."
     },
@@ -748,7 +748,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Open the masala box. 2. Let your child smell each spice. 3. Put a pinch of each on a steel plate.",
+     "do": "1. Lay out the six plant part papers, or write the six names on new papers. 2. Open the masala box and let your child smell each spice. 3. Put a pinch of each on a steel plate.",
      "say": "Every spice in this box came from a plant. Smell each one. Which plant part do you think each spice is?",
      "kid": "Smell each spice. Every one came from a plant. Which part do you think?"
     },
@@ -939,7 +939,7 @@
        "b": "Stem"
       },
       {
-       "f": "Banana stem (vazhaithandu)",
+       "f": "Lotus stem (thamarai thandu)",
        "b": "Stem"
       },
       {
@@ -1152,7 +1152,7 @@
    "setup": [
     {
      "art": "Three hand-drawn answer cards, a cactus, a lotus and a banyan, in front of each of three players.",
-     "caption": "1. Each player draws three answer cards."
+     "caption": "1. Each player takes three answer cards."
     },
     {
      "art": "A girl reading a clue card aloud while two others hold up their banyan cards.",
@@ -1247,7 +1247,7 @@
      "id": "s1",
      "mins": 6,
      "adult": true,
-     "do": "1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water. 4. Keep the bare part under the water, with one leaf bump.",
+     "do": "1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water. 4. Keep the bare part under the water, with one leaf bump. 5. Your child draws the stem.",
      "say": "Roots usually grow from a seed, down into the soil. Can roots grow out of a stem? Let's find out.",
      "kid": "Pull off the bottom leaves. Put the stem in the water. Will roots grow?",
      "ask": [
@@ -1296,7 +1296,7 @@
      "wait": "Day 14"
     }
    ],
-   "safety": "Money plant sap can upset the stomach and the mouth. Do not chew it, keep it from small children and pets, and wash hands after cutting it. A grown-up cuts the stem and the bottle."
+   "safety": "Money plant sap can upset the stomach and the mouth. Do not chew it, keep it from small children and pets, and wash hands after cutting it. A grown-up cuts the stem, and the bottle if you use one."
   }
  ],
  "challenges": [
@@ -1352,7 +1352,8 @@
         "Nothing holds it up."
        ]
       }
-     ]
+     ],
+     "parent": "A tight newspaper roll may hold one peg at first. If it does not droop, make the branch longer, or hang a second peg, until it does."
     },
     {
      "id": "s2",
@@ -1471,7 +1472,7 @@
     {
      "t": "draw",
      "p": "Draw the bowl of water from your float test. Draw each food where it really went: at the top or at the bottom.",
-     "a": "A bowl with brinjal, cucumber and the leaf at the top, and potato and chana at the bottom.",
+     "a": "A bowl with brinjal, cucumber and the leaf at the top, and potato and chana at the bottom",
      "why": "A strong drawing puts each food where it really went in the child's own test, even if a piece did something unusual.",
      "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
      "how": "e1"
@@ -1516,7 +1517,7 @@
      "t": "write",
      "p": "Say out loud, and a grown-up writes it down: why did the tiny crumb of potato sink?",
      "lines": 2,
-     "a": "Because the potato is packed with stored food inside. Size does not change what is inside.",
+     "a": "Because the potato is packed with stored food inside. Size does not change what is inside",
      "why": "A strong answer says that what is inside decides, not the size of the piece.",
      "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
      "how": "e1"
@@ -1544,7 +1545,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks one side with a reason, then says the other is also right in its own way.",
+     "a": "A strong answer picks one side with a reason, then says the other is also right in its own way",
      "why": "Both are right in their own place. A scientist names a part by how it grew. A cook names a food by how it is used."
     }
    ]
@@ -1589,7 +1590,7 @@
     {
      "t": "draw",
      "p": "Draw a banyan tree with three prop roots. Draw an arrow on one root to show which way it grew.",
-     "a": "A banyan with roots hanging down from the branches and arrows pointing down to the soil.",
+     "a": "A banyan with roots hanging down from the branches and arrows pointing down to the soil",
      "why": "A strong drawing shows the roots growing down from the branches, not up from the ground."
     },
     {
@@ -1602,7 +1603,7 @@
      "t": "write",
      "p": "A leaf floated in the float test. Say or write one reason why.",
      "lines": 2,
-     "a": "A leaf has tiny air spaces inside, because a leaf takes in air to make food.",
+     "a": "A leaf has tiny air spaces inside, because a leaf takes in air to make food",
      "why": "A strong answer names the air spaces, and says the leaf uses air.",
      "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
      "how": "e1"
@@ -1701,7 +1702,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say what one of the others has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, and sees that spines suit a dry place and flat leaves suit a wet one.",
+     "a": "A strong answer picks a side with a reason, and sees that spines suit a dry place and flat leaves suit a wet one",
      "why": "Each part has a cost and a gain. Spines save water but make little food. Flat leaves make more food but lose more water."
     }
    ]
@@ -1729,13 +1730,13 @@
      "t": "write",
      "p": "A clove is a dried flower bud. Say or write why we cannot see that it is a flower.",
      "lines": 2,
-     "a": "It was picked before it opened, and it was dried, so it is small, brown and hard.",
+     "a": "It was picked before it opened, and it was dried, so it is small, brown and hard",
      "why": "A strong answer says the bud was picked before it opened, and drying changed how it looks."
     },
     {
      "t": "draw",
      "p": "Invent a plant that lives in a pond in a desert. Draw their roots, stem and leaves. Show one part that keeps water and one that brings air down.",
-     "a": "Any plant that has, for example, a fat stem for water and hollow stalks for air.",
+     "a": "Any plant that has, for example, a fat stem for water and hollow stalks for air",
      "why": "A strong drawing gives each part a clear job and explains it in a label."
     },
     {
@@ -1799,7 +1800,7 @@
      "t": "write",
      "p": "A lotus stem slice has holes. Bijoya, a girl in Kolkata, drops a slice in water. Say or write what you think will happen, and why.",
      "lines": 3,
-     "a": "Any guess with a reason. For example: it may float because of the air in the holes, or sink because the stem also stores food.",
+     "a": "Any guess with a reason. For example: it may float because of the air in the holes, or sink because the stem also stores food",
      "why": "A strong answer gives a guess and a reason that uses what the child knows about air spaces and stored food. Testing is the only way to be sure."
     },
     {
@@ -1828,7 +1829,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer sees that prop roots start as roots and take on the job of a trunk.",
+     "a": "A strong answer sees that prop roots start as roots and take on the job of a trunk",
      "why": "Prop roots begin as roots and take in water from the soil. Later they also hold the tree up, like a trunk. A part can do more than one job."
     }
    ]
@@ -1916,14 +1917,14 @@
   },
   {
    "t": "mcq",
-   "p": "What are the spines on a cactus?",
+   "p": "An onion is made of layers wrapped round each other. Which plant part are most of those layers?",
    "opts": [
-    "Changed leaves",
+    "Fat leaves",
     "Roots",
-    "Flowers"
+    "Seeds"
    ],
    "a": 0,
-   "why": "Spines grow where leaves grow on other plants. They lose much less water than flat leaves. Picking 'roots' may mean thinking anything thin is a root.",
+   "why": "Most of an onion is fat leaves wrapped round each other. Picking roots may mean thinking anything that grows low down is a root.",
    "outcome": 3
   },
   {
@@ -2008,11 +2009,11 @@
   },
   {
    "text": "A vegetable cart with roots, stems, leaves, flowers and fruits side by side.",
-   "art": "A woman vendor at a vegetable cart with carrots, banana stem, palak, banana flowers and tomatoes."
+   "art": "A woman vendor at a vegetable cart with carrots, radish, palak, banana flowers and tomatoes."
   },
   {
-   "text": "Banana flower and banana stem for sale in a South Indian market.",
-   "art": "A market stall in Chennai with purple banana flowers and long white pieces of banana stem."
+   "text": "Banana flower and raw banana for sale in a South Indian market.",
+   "art": "A market stall in Chennai with purple banana flowers and green raw bananas."
   }
  ],
  "open_questions": [
@@ -2047,8 +2048,8 @@
    "a": "Her leaves were a bit too sharp!"
   },
   {
-   "j": "What did the lotus leaf say to the raindrop?",
-   "a": "Don't get comfortable. You're just rolling through!"
+   "j": "Why is the lotus leaf never wet?",
+   "a": "Because every raindrop just rolls off her back!"
   },
   {
    "j": "Why does the banyan never get lost?",
@@ -2108,7 +2109,7 @@
  "song": {
   "topic_level": "sci.plants.L2",
   "title": "Root, Stem, Leaf, Flower, Fruit and Seed",
-  "note": "Topic-level song for Plants L2"
+  "note": "A song about the six plant parts."
  },
  "links": [
   {
@@ -2176,8 +2177,7 @@
    "e1",
    "story",
    "a1",
-   "g1",
-   "cards"
+   "g1"
   ],
   "default_order": [
    "intro",
@@ -2286,5 +2286,5 @@
    "Tirukkural 595. Bhagavad Gita 5.10."
   ]
  },
- "playtest": "We walked through both card games with 2 and with 4 players, the float test, the chana soak, the kitchen sort, the masala box, the lotus slice, the jar of roots and the paper banyan, step by step as a family in a flat. We made the card games end properly (wrong cards no longer cycle for ever, answer cards match the printed sheet, ties are shared), and fixed the masala box and plant-drawing steps that gave away answers or pointed to pictures that do not exist. We made the soak and lotus-slice results honest, removed repeated questions, a stray joke set and a broken line in the story, and replaced 'it' for living plants."
+ "playtest": "We walked through both card games with 2 and with 4 players, the float test, the chana soak, the kitchen sort, the masala box, the lotus slice, the jar of roots and the paper banyan, step by step as a family in a flat. We replaced banana stem (really a wrapped stack of leaf bases) with lotus stem on the card and in the examples, and added the missing step that writes the six plant-part papers for the sort and the masala box. We added the day-1 drawing the roots project promised and a note for when the paper branch does not droop, made the chana bowls agree, fixed double full stops in answers, replaced a quiz question that repeated a worksheet question, and took a doubtful blow-through-the-stalk memory out of the story."
 }

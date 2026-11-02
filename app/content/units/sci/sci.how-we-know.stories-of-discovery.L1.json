@@ -42,7 +42,7 @@
   {
    "term": "Test",
    "meaning": "A test is a way to find out if your guess is right. You try it and see what happens.",
-   "example": "You guessed lemon would turn haldi red. You tested it, and it stayed yellow.",
+   "example": "You guess that lemon will turn haldi red. You try it, and it stays yellow.",
    "art": "A row of small steel cups, each with a different liquid, and a yellow haldi paper with some spots red and some still yellow."
   }
  ],
@@ -152,7 +152,7 @@
   {
    "q": "Is a discovery still a discovery if someone else already knew it?",
    "kind": "deep",
-   "hint": "Think about how you felt when the haldi went red, even though Paati had seen it before."
+   "hint": "Think about how you felt when the haldi went red, even though Paati in the story had seen it before."
   },
   {
    "q": "Where do questions come from? Can you make yourself curious?",
@@ -294,11 +294,11 @@
    ],
    "rules": [
     "Put the TRUE sign on one side of the room and the FALSE sign on the other.",
-    "Stand in the middle. The grown-up reads a card aloud and keeps score with tally marks on paper.",
+    "Stand in the middle. The grown-up reads a card aloud and keeps one row of tally marks on paper for each player.",
     "Jump to TRUE or FALSE. Say why you think so.",
     "The grown-up turns the card over and reads the back.",
     "If you were right, you get one tally mark. If not, no mark, and nobody minds: it is a good surprise.",
-    "Put the card aside and read the next one. When the cards are finished, count the marks. Most marks wins. If you are playing alone, try to beat your own count next time."
+    "Put the card aside and read the next one. When the cards are finished, count the marks. Most marks wins. If marks are equal, everybody wins. If you are playing alone, try to beat your own count next time."
    ],
    "setup": [
     {
@@ -397,7 +397,7 @@
    ],
    "rules": [
     "Put your counters on Start.",
-    "Take turns to roll the dice and move that many squares.",
+    "Take turns to roll the dice and move that many squares. With paper slips, shake them, pick one, then put it back.",
     "Do what your square says. Everyone listens.",
     "If you are stuck, the others can help you. Then your turn ends.",
     "The first player to reach Finish wins. If your roll takes you past Finish, you still win."
@@ -610,7 +610,7 @@
    "context": "In this experiment you take a red spot from the haldi test. You find out if anything can turn it yellow again.",
    "question": "Once soap has turned haldi red, can we turn it yellow again?",
    "predict": "Guess first. Will the red spot stay red for ever? Could lemon, water or salt water change it back? Why do you think so?",
-   "fair_test": "We put one drop of a different liquid on each red spot. All the red spots were made with the same soap water. Only the liquid we add changes.",
+   "fair_test": "We add a few drops of a different liquid to each red spot. All the red spots were made with the same soap water. Only the liquid we add changes.",
    "results_table": [
     "Liquid added to the red spot",
     "My guess",
@@ -694,7 +694,7 @@
       "a": 0,
       "why": "The haldi colouring is still there. Soap turns it red, and lemon turns it yellow again."
      },
-     "parent": "Lemon used up the soap first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon."
+     "parent": "The soap has to use up the lemon first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon."
     }
    ]
   }
@@ -828,7 +828,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Make the soap water. 2. Your child dips a cotton bud and writes a word or draws a shape on the white paper. 3. Let it dry under the fan for about five minutes.",
+     "do": "1. Make the soap water. 2. Your child dips a cotton bud and writes a word or draws a shape on the white paper. 3. Let it dry under the fan for about five minutes. While it dries, mix half a teaspoon of haldi with three spoons of water.",
      "say": "Write a word or draw a star with soap water. Press hard. Can you still see it when it dries?",
      "kid": "Write or draw with soap water. Let it dry.",
      "parent": "Thick soap water works best. Go over the letters twice."
@@ -998,7 +998,7 @@
      "caption": "1. Make a little book."
     },
     {
-     "art": "An open page with a child's drawing of a spoon and a paper ball falling, and a question above it.",
+     "art": "An open page with a child's drawing of a steel spoon sinking and a plastic spoon floating in a bowl of water, and a question above it.",
      "caption": "2. Test one question. Draw what happened."
     }
    ],
@@ -1017,7 +1017,7 @@
      "say": "Which question can we test today? What do you guess will happen? Why? Let's try it.",
      "kid": "Pick one question. Guess. Then try it.",
      "wait": "Do this the next day",
-     "parent": "Good home questions: Which sinks, a steel spoon or a plastic one? Which dries faster, a wet cloth in the sun or in the shade? Does the crow come back at the same time each day?"
+     "parent": "Good home questions: Which sinks, a steel spoon or a plastic one? Does an ice cube melt faster on a steel plate or on a plastic plate? Which rolls further down a slope, a marble or a rubber ball?"
     },
     {
      "id": "s3",
@@ -1031,7 +1031,7 @@
        "q": "What did your test show?",
        "good": [
         "The steel spoon sank and the plastic one floated.",
-        "The cloth in the sun dried first."
+        "The ice melted first on the steel plate."
        ]
       }
      ]
@@ -1105,7 +1105,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Brush haldi water on the spare paper. Talk about it.",
+     "do": "Mix half a teaspoon of haldi with three spoons of water. Brush it on the spare paper. Talk about it.",
      "say": "Did the message stay hidden? Did it appear when you brushed it?",
      "kid": "Did it stay hidden? Did it appear?"
     }
@@ -1597,19 +1597,19 @@
    "a": "Thanks for making me myself again!"
   },
   {
-   "j": "What do you call a scientist who reads old books?",
-   "a": "A page-turner!"
+   "j": "Why did the scientist bring a magnifying glass to dinner?",
+   "a": "To find out what was in the sambar!"
   },
   {
-   "j": "Why was the soap so good at secrets?",
-   "a": "Its messages stay hidden until haldi comes along."
+   "j": "What is red, yellow, red, yellow?",
+   "a": "A haldi stain that cannot make up its mind!"
   },
   {
    "j": "Why did the crow sit on the wire all day?",
    "a": "To find out if wires are comfy."
   },
   {
-   "j": "Why did Meenakshi stare at the fan all night?",
+   "j": "Why did Meenakshi look at the fan all night?",
    "a": "She was a fan of finding out!"
   }
  ],
@@ -1778,7 +1778,7 @@
    "what_is_life": "Every living being explores. A baby tests a surprising toy, a crow pokes at something new, and a plant's roots search the soil for water.",
    "what_is_this_world": "The world is full of things nobody has asked about yet. Even your kitchen holds answers waiting for a question."
   },
-  "thread": "A baby tests a toy that surprised them. A crow turns over something new. An ant tries a new path. Many living beings explore the world around them. Scientists still disagree about how much each of them wonders. People are animals too, and our questions are one kind of exploring among many.",
+  "thread": "A baby tests a toy that surprised them. A crow turns over something new. An ant tries a new path. Many living beings explore the world around them. Scientists still disagree about how much each of them wonders. Everything is conscious, and thinking is not only done by brains. People are animals too, and our questions are one kind of exploring among many.",
   "teachings": [
    {
     "source": "Plato, Theaetetus 155d",
@@ -1830,5 +1830,5 @@
   "wrong_idea": "Most people made plant medicines by boiling them, so boiled sweet wormwood was tried first, and it worked only sometimes. Tu guessed the heat was spoiling the medicine. Her low-heat extract worked very well in mice and monkeys, which showed the heat had been the problem.",
   "art": "A woman scientist in a 1970s laboratory in Beijing, with a very old book open beside glass jars of green plant juice."
  },
- "playtest": "Walked through the haldi test, the back-to-yellow test, the secret message, the clue hunt and the hidden card as a parent and child in a flat, with only kitchen things; they all work, and the soap and cooking soda reds and the lemon yellow are what turmeric really does. Both games were played through in my head with two players and with four. The True or False game now scores with tally marks, so cards no longer need to be 'kept' by several players, and the board game says what happens when a roll goes past Finish. I also removed repeated questions, a needless safety line, family members assumed in steps and art, and the unclear names in the maths, and made the Tu Youyou clue cards and acting use the leaf and cup. The three videos still need to be found and watched."
+ "playtest": "Walked through the haldi test, the back-to-yellow test, the secret message, the clue hunt and the hidden card as a parent and child in a flat, with only kitchen things; they all work, and the soap and cooking soda reds and the lemon yellow are what turmeric really does. Both games were played through in my head with two players and with four. The True or False game now scores with tally marks, so cards no longer need to be 'kept' by several players, and the board game says what happens when a roll goes past Finish. I also removed repeated questions, a needless safety line, family members assumed in steps and art, and the unclear names in the maths, and made the Tu Youyou clue cards and acting use the leaf and cup. The three videos still need to be found and watched before they reach families. I also added the missing step that mixes the haldi water in the secret message and the card challenge, made the game scoring and the dice slips work for two or four players, made the second haldi test's drops agree with its steps, and swapped a project idea that could not be tested in a day for one that can. The unit stays short for age 6; the validator's minimums were met without padding."
 }

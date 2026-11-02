@@ -233,7 +233,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - **record:** Draw the two plates after wiping. Draw any dal that is left.
 - **results table:** Plate | How many wipes to clean? | Any dal left?
 - **s1 (3 min)**  
-  *Parent does:* 1. Smear one teaspoon of dal on each plate. 2. Spread it into a thin patch. 3. Leave both plates under a fan or in a sunny spot.  
+  *Parent does:* 1. Smear one teaspoon of thick cooked dal on each plate. 2. Spread it into a thin patch. 3. Leave both plates under a fan or in a sunny spot.  
   *Parent says:* We are making two sticky plates. Let's leave them to dry, just like plates that wait too long after lunch.  
   *Child mode:* Smear a little dal on each plate. Leave them to dry.
   - Note: A thin patch dries in an hour or two under a fan. The dal should feel hard when you touch it. If it is still sticky, wait longer, as it may in a humid city.
@@ -244,7 +244,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Child mode:* Pour water on one plate. Which plate will be easier to clean? Why?
   - Ask: Why do you think so? (good: The water one, because the water makes the dal soft.; The dry one, because there is no mess.)
 - **s3 (5 min)**  
-  *Parent does:* 1. While the wet plate waits, wipe the dry plate with a dry cloth. Count the wipes, up to 10. 2. After five minutes, wipe the wet plate the same way and count.  
+  *Parent does:* 1. While the wet plate waits, wipe the dry plate with one dry cloth. Count the wipes, up to 10. 2. After five minutes, wipe the wet plate with the other dry cloth, the same way, and count.  
   *Parent says:* Wipe the dry plate. Count your wipes. Is the dal coming off? Now wipe the wet plate. Count again.  
   *Child mode:* Wipe the dry plate. Count. Now wipe the wet plate. Count.
   - Ask: Which plate came clean with fewer wipes? (good: The wet plate.; The one with water.)
@@ -294,7 +294,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Parent says:* How many lines did you make? When did you feel most thirsty today? Why do you think so?  
   *Child mode:* Count your lines. When were you most thirsty?
   - Ask: When were you most thirsty? (good: After playing.; When it was hot.; After eating something salty.)
-  - Note: Many children aged 6 drink about 4 to 6 tumblers a day, and more on hot days. Some water also comes from food, milk and buttermilk.
+  - Note: We drink more on hot days. Some water also comes from food, milk and buttermilk.
 
 ## Projects
 ### p1 · A Water Bowl for Birds (25 min, 5 days)
@@ -312,7 +312,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Child mode:* Fill fresh water. Watch. Who came? Draw them.
   - Ask: How did the crow drink? (good: Dipped the beak and lifted the head.; Took a sip and looked up.)
   - Note: Crows, mynas, pigeons, bulbuls and sparrows often come, and bees and wasps too in hot weather. If nobody comes in 5 days, try a different spot, or keep going: some bowls take a week to be found.
-  - Wait: Come back each day for four more days.
+  - Wait: Come back each day for three more days.
 - **s3 (5 min)**  
   *Parent does:* On day 5, look at the diary together.  
   *Parent says:* Look at all the days. Who came the most? Why do you think birds need our water bowl in a city?  
@@ -331,7 +331,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Parent says:* We are going away for two days. Who will give our plant water? Can we make something that waters the plant while we are away?  
   *Child mode:* Your family is going away. How can the plant get water while you are gone?
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* 1. Your child picks an idea or invents one. 2. Help build it. For the string waterer, wet the string first and stand the tumbler higher than the pot.  
+  *Parent does:* 1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot, water it the same and give it no help, to compare. For the string waterer, wet the string first and stand the tumbler higher than the pot.  
   *Parent says:* Which idea will you try? Let's make it.  
   *Child mode:* Pick an idea. Make it with a grown-up.
   - Note: A grown-up pokes any holes in bottle caps. The string idea works best with thick cotton string, wetted first, with the tumbler on books so the water is higher than the soil.
@@ -372,8 +372,8 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
    **Answer:** Soft, because milk is mostly water. *Why:* Milk is mostly water. The water in the milk soaks into the poha and makes it soft.
 2. (fill) Thirsty is how your body feels when it needs ____.  
    **Answer:** water. *Why:* You feel thirsty when your body needs more water.
-3. (fill) A well, a lake and a river are all water ____.  
-   **Answer:** sources. *Why:* A water source is a place we get water from.
+3. (fill) Rain fills rivers, lakes and ____ with water.  
+   **Answer:** wells. *Why:* Rain soaks into the ground and fills wells, as well as rivers and lakes.
 4. (order) Put the urad dal pictures in order, from first to last.  
    **Answer:** ['Dry dal in a katori', 'Dal covered with water overnight', 'Fat, soft dal']. *Why:* First the dal is dry. Then it sits in water. The water goes inside, and the dal grows fat and soft.
 5. (draw) Draw your home. Draw every place where your family uses water.  
@@ -420,7 +420,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 8. (mcq) How does a cat drink?  
    Options: Laps with a fast tongue / Through her skin / With a trunk  
    **Answer:** Laps with a fast tongue. *Why:* A cat laps with her tongue, very fast. Each lap pulls up a little water.
-9. (mcq) Arjun, the boy in the story, guesses that oil will make poha soft. What should he do to find out?  
+9. (mcq) Kavya, a girl in Class 1, guesses that oil will make poha soft. What should he do to find out?  
    Options: Ask a friend / Try it and look / Just believe it  
    **Answer:** Try it and look. *Why:* The best way to find out is to test it: put poha in oil, wait, and press it.
 10. (mcq) In the poha test, why do all three katoris get the same poha?  
@@ -458,7 +458,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - Why did the urad dal grow so fat? *They drank water all night!*
 - What did the crow say at the water bowl? *This one is on the house!*
 - What is a tap's favourite song? *Drip, drip, hooray!*
-- Why did the elephant bring their trunk to the river? *They wanted to pack a drink!*
+- Why does an elephant never need a straw? *She carries one on her face!*
 - What did the thirsty tulsi say? *Water you waiting for?*
 - What does a cloud wear under the raincoat? *Thunder-wear!*
 

@@ -237,7 +237,7 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Child mode:* Look away while the nest is made. Now the room goes dim.
   - Note: The room should be dim, not pitch dark. Your child should just about see the box. Evening with the curtains shut and a light on in another room works well. In daytime, put the box under a table and cover the table with a bedsheet.
 - **s4 (5 min)**  
-  *Parent does:* 1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child puts one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, and write the numbers in the table. 5. Mix the mouths while your child looks away, and make the room dim again. 6. Repeat. Do 3 rounds in all.  
+  *Parent does:* 1. Give your child 10 chana. 2. Say 'Go!' and count to 10 out loud. 3. Your child puts one chana on each mouth they find. 4. Switch on the light, count the chana on each colour, write the numbers in the table, and pick up all the chana. 5. Mix the mouths while your child looks away, and make the room dim again. 6. Repeat. Do 3 rounds in all.  
   *Parent says:* Ready, parent bird? You have ten seconds to feed every mouth you can find. One chana on each mouth. Go!  
   *Child mode:* Put one chana on each mouth you see. Be quick! Then count.
   - Ask: Which mouths were easy to find? (good: The yellow ones. They stood out.; The black ones were hard. They looked like the cloth.)
@@ -268,8 +268,8 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Child mode:* Put each baby where they first walk. Say why.
   - Ask: Why did you put that baby there? (good: The calf goes near the start, because calves walk quickly.; The human baby goes far along, because babies take a long time.)
 - **s3 (5 min)**  
-  *Parent does:* Read out the real answers and move the cards: calf and goat kid, about one hour. Chick, the first day. Kitten and puppy, about three or four weeks. Human baby, about one year.  
-  *Parent says:* A calf stands within about an hour, and so does a goat kid. A chick walks on the first day. A kitten and a puppy walk at about three or four weeks. A human baby walks at about one year.  
+  *Parent does:* Read out the real answers and move the cards: calf and goat kid, about one hour. Chick, the first day. Kitten and puppy, about three weeks. Human baby, about one year.  
+  *Parent says:* A calf stands within about an hour, and so does a goat kid. A chick walks on the first day. A kitten and a puppy walk at about three weeks. A human baby walks at about one year.  
   *Child mode:* Move the cards to the right places. Who walks first? Who walks last?
   - Note: Human babies walk at different ages, often between about 9 and 18 months. All of these are normal. The point is the big difference between the calf and the human baby.
 - **s4 (3 min)**  
@@ -438,7 +438,7 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
    **Answer:** ['warming: chicks under her wings', 'leading to food: scratching the ground to show food', 'calling for danger: a sharp call when a hawk flies over', 'guarding: standing in front of the chicks']. *Why:* A hen broods her chicks, leads them to food, gives alarm calls and guards them.
 9. (order) Put the sparrow chick's life in order.  
    **Answer:** ['The egg is kept warm by the parents.', 'The chick hatches with shut eyes and no feathers.', 'The chick grows feathers in the nest.', 'The chick leaves the nest and is still fed by the parents.', 'The young sparrow finds food alone.']. *Why:* Egg, hatching, feathers, leaving the nest, then finding food alone. The parents care for the chick through all the early stages.
-10. (mcq) Mary Ainsworth and other scientists watched babies closely. Who did babies hold on to most?  
+10. (mcq) Mary Ainsworth watched babies at home in Uganda for many months. Which people did the babies follow and hold on to most?  
    Options: Only the person who fed them / The people who came when they cried, talked and played with them / Nobody in particular  
    **Answer:** The people who came when they cried, talked and played with them. *Why:* Babies held on most to the people who answered their signals. Feeding matters, but answering a baby's cries and smiles mattered most.
 
@@ -509,8 +509,8 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 
 ## Jokes
 - What did the sparrow chick say to the parent? *Cheep, cheep! Make it a cheap delivery, please!*
-- Why did the kitten keep her eyes shut? *She was waiting for the grand opening!*
-- What do baby langurs like to play? *Pass the baby!*
+- Why did the baby chick get a gold star at school? *Because she was an egg-cellent student!*
+- What do you call a baby with no teeth and a big smile? *A gummy cutie!*
 - What do you call a baby cow who is asleep on the grass? *A calf-nap!*
 - Why did the kitten sit next to the computer? *To keep an eye on the mouse!*
 - What do you get if a cow jumps on a trampoline? *A milk shake!*

@@ -163,7 +163,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 
 ## Games
 ### g1 · Mirror Moves: copy me like a mirror (10 min)
-- **rules:** Stand facing each other, about one big step apart.; The leader picks a move card and does the move very slowly.; The mirror copies at the same time, on the same side as a real mirror would. If the leader lifts the arm on the window side, the mirror lifts the arm on the window side too.; After 5 cards, swap: the mirror becomes the leader.; The game ends when all 10 cards are used. There is no winner. You both do well if you moved like one person.
+- **rules:** Stand facing each other, about one big step apart.; The leader picks a move card and does the move very slowly.; The mirror copies at the same time, on the same side as a real mirror would. If the leader lifts the arm on the window side, the mirror lifts the arm on the window side too.; After 5 cards, swap: the mirror becomes the leader.; With 4 players, each pair uses its own 5 cards at a time, then the pairs swap piles. The game ends when all 10 cards are used. There is no winner. You both do well if you moved like one person.
 - **Printable cards: 10 move cards:** Lift one arm up high, slowly.; Touch your nose with one finger.; Make butterfly wings with both arms.; Stand on one leg.; Lean slowly to one side.; Touch one ear.; Wave slowly with one hand.; Put both hands on your head.; Make a big smile, then a sad face.; Step one foot out to the side.
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the move cards and put them in a pile. 2. Stand facing each other. 3. Stand together in front of a real mirror first, and lift one arm.  
@@ -180,9 +180,9 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* Ask the check question.  
   *Parent says:* If I lift the arm on the window side, which arm do you lift as my mirror? What did our two bodies make together?  
   *Child mode:* When you were a mirror, what did you two make together?
-  - Check: Kavya is the leader. She lifts the arm on the window side. Her friend is the mirror, facing her. Which arm does the friend lift? → **The arm on the window side**
+  - Check: Meenakshi, a girl in Class 1, is the leader. She lifts the arm on the window side. Her friend is the mirror, facing her. Which arm does the friend lift? → **The arm on the window side**
 ### g2 · Two Halves or Not? Run to a side (10 min)
-- **rules:** Choose one wall for 'Two halves' and one wall for 'No'.; The reader reads the front of a card out loud. Everyone else runs to the wall they choose.; The reader reads the back of the card. Everyone at the right wall gets a point.; For 'nearly' cards, a player who stands in the middle and says why also gets a point.; After each card, the next player becomes the reader. With 2 players, you swap after every card.; Play until all 12 cards are read. The most points wins. If points are level, you both win.
+- **rules:** Choose one wall for 'Two halves' and one wall for 'No'.; The reader reads the front of a card out loud. Everyone else runs to the wall they choose.; The reader reads the back of the card. Everyone at the right wall gets a point.; For cards whose back says 'Nearly', a player at the 'Two halves' wall gets a point, and so does a player who stands in the middle and says why.; After each card, the next player becomes the reader. With 2 players, you swap after every card.; Play until all 12 cards are read. The most points wins. If points are level, you both win.
 - **Printable cards: 12 thing cards:** A butterfly (back: Two halves. Her left wings match her right wings.); A chappal (back: No. Each chappal is shaped for one foot.); A steel spoon (back: Two halves, along its length.); Your hand (back: No. Your thumb is on one side only.); A hibiscus flower (back: Two halves. Several lines work.); The letter A (back: Two halves, down the middle.); The letter F (back: No. No line works.); A flat steel plate (thali) (back: Two halves, down the middle.); A curry leaf (back: Nearly two halves, one on each side of the middle vein.); A door key (back: No, for most keys.); Your face (back: Nearly two halves, never exactly.); A question mark (back: No. No line works.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Make two signs and put them on two walls. 3. Choose who reads first. 4. Explain the rules.  
@@ -215,7 +215,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   - Ask: What do you see? (good: A whole butterfly!; Half is on the paper and half is in the mirror.)
   - Note: Hold the mirror straight up, with its bottom edge on the line. Your child may need to tip their head to see the paper half and the mirror together. For the spoon and plate, lay them flat and hold the mirror up on the middle line.
 - **s2 (3 min)**  
-  *Parent does:* 1. Point at each of the other things in turn. 2. Your child guesses: will half of it and the mirror make the whole thing? 3. A grown-up writes a tick or a cross in the 'My guess' column. 4. Ask why.  
+  *Parent does:* 1. Point at each of the other things in turn. 2. Your child guesses: will half of it and the mirror make the whole thing? 3. A grown-up writes 'whole' or 'new shape' in the 'My guess' column. 4. Ask why.  
   *Parent says:* Now the leaf, the spoon, the plate, the chappal, the key and the letters. Will the mirror make each one whole again? Why do you think so?  
   *Child mode:* Guess for each thing. Will the mirror make it whole? Why?
   - Ask: Why do you think the chappal will work, or not work? (good: It will work, because it is long, like the butterfly.; It won't, because one side is bigger.; I don't know. Let's try.)
@@ -227,7 +227,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   - Ask: What did the mirror make with the chappal? (good: A funny chappal that fits no foot.; A new shape, not a real chappal.; No line worked.)
   - Note: What you should see: the butterfly picture comes out whole. So do the spoon along its length, the plate and the letter A. The leaf comes out nearly whole. The chappal, the key and the letter F never do. The mirror makes a new shape instead.
 - **s4 (3 min)**  
-  *Parent does:* 1. Lay the face photo flat. 2. Ask your child to guess. 3. They stand the mirror down the middle of the nose. 4. They look at one half with the mirror. 5. They turn the mirror round to look at the other half.  
+  *Parent does:* 1. Lay the face photo flat. 2. Ask your child to guess. 3. They stand the mirror down the middle of the nose. 4. They look at one half with the mirror. 5. They turn the mirror round and look from the other side, at the other half.  
   *Parent says:* Will half of this face and the mirror make the same face? What do you think, and why? Let's look. Now turn the mirror round and look at the other half.  
   *Child mode:* Put the mirror down the middle of the nose. Is it the same face?
   - Ask: Do the two mirror faces look like the real face? (good: Almost, but a bit different.; One looks rounder and one looks thinner.; It looks like a different person, a little.)
@@ -243,7 +243,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent says:* What did you find out? Which things did the mirror make whole? What did you see that tells you so?  
   *Child mode:* What did you find? Which things came out whole?
   - Note: A good answer has two parts. A claim: 'Things with two matching halves came out whole.' Evidence: 'The butterfly and the A did, but the chappal and the F made new shapes.'
-  - Check: Lakshmi stands a mirror on the middle of a letter F. What does she see? → **A new shape that is not an F**
+  - Check: Lakshmi, a girl in Class 1, stands a mirror on the middle of a letter F. What does she see? → **A new shape that is not an F**
 
 ## Activities
 ### a1 · Leaf Look: run a finger down the middle (10 min)
@@ -263,7 +263,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Look at the folded leaves together. 2. Ask the check question.  
   *Parent says:* So, is the left half of a leaf the same as the right half? Why might they be a little different?  
   *Child mode:* Are the two halves the same? Why might they be a little different?
-  - Check: Kavya folds a tulsi leaf along the middle vein. What does she see? → **The halves nearly match**
+  - Check: Kavya, a girl in Class 1, folds a tulsi leaf along the middle vein. What does she see? → **The halves nearly match**
 ### a2 · Dal Butterfly: build the other half (15 min)
 - **safety:** A grown-up watches, so that no grain goes into a mouth, nose or ear. Keep the grains away from any small child.
 - **record:** Draw your Dal Butterfly before you put the grains away, or take a photo.
@@ -282,7 +282,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Your child stands the mirror on the middle line to check. 2. Swap jobs. Your child makes a pattern, and you copy it, with one grain in the wrong place on purpose. 3. Your child finds the mistake.  
   *Parent says:* Let's check with the mirror. Now you make a pattern, and I will copy it. Can you find the grain I put in the wrong place?  
   *Child mode:* Check with the mirror. Now you make a pattern. Find the grain in the wrong place.
-  - Check: Farhan puts 2 chana next to the middle line on the left wing. Where should he put 2 chana on the right wing, to match? → **Next to the middle line**
+  - Check: Fathima, a girl in Class 1, puts 2 chana next to the middle line on the left wing. Where should she put 2 chana on the right wing, to match? → **Next to the middle line**
 ### a3 · Rub-and-Copy Art: fold, rub, and the other half appears (15 min)
 - **record:** Colour both halves of your picture the same, and stick it on the wall.
 - **s1 (5 min)**  
@@ -300,7 +300,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Your child goes over the faint copy with the pencil. 2. They colour both halves the same. 3. Ask the check question.  
   *Parent says:* Go over the faint lines. Now colour both halves the same. Is your picture symmetric? Where is its line of symmetry?  
   *Child mode:* Go over the faint lines. Colour both halves the same.
-  - Check: Mrunal rubbed her folded drawing and opened it. Where is the line of symmetry of her picture? → **Along the fold**
+  - Check: Mrunal, a girl in Class 1, rubbed her folded drawing and opened it. Where is the line of symmetry of her picture? → **Along the fold**
 
 ## Projects
 ### p1 · My Leaf Rubbing Book: one leaf a day (24 min, 3 days)
@@ -320,7 +320,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Your child rubs a third leaf. 2. Look through the whole book together. 3. Ask the check question.  
   *Parent says:* Which of your three leaves has the halves that match best? Do any of them match exactly?  
   *Child mode:* Rub one more leaf. Which leaf matches best?
-  - Check: Bornali made three leaf rubbings. What does she find when she looks at the two halves of each leaf? → **They nearly match, but not exactly**
+  - Check: Bornali, a girl in Class 1, draws a line down the middle vein of her leaf rubbing. What is this line called? → **The line of symmetry**
   - Wait: The next day.
 
 ## Challenges
@@ -340,12 +340,12 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent says:* Put her on the pencil, along the fold. Does she balance? Now put a paper clip on one wing. What do you think will happen? Why?  
   *Child mode:* Put her on the pencil along the fold. Does she balance? Now add a clip to one wing.
   - Ask: Why did she tip over? (good: One side was heavier.; The clip was only on one wing.; Her two sides were not the same any more.)
-  - Note: With both wings the same, she balances. With a clip on one side only, she tips that way. A clip on each wing, in the same place, balances her again.
+  - Note: With both wings the same, she balances. With a clip on one side only, she tips down on that side. A clip on each wing, in the same place, balances her again.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child makes the butterfly balance with two clips. 2. Ask the check question.  
   *Parent says:* Make her balance with two clips. Where did you put them? Why does that work?  
   *Child mode:* Make her balance with two clips. Where did you put them?
-  - Check: Gurpreet's butterfly has a paper clip on her left wing and tips over. What can Gurpreet do? → **Put a clip on the right wing in the same place**
+  - Check: Gurpreet, a girl in Class 1, puts a paper clip on the left wing of her paper butterfly, and the butterfly tips over. What can Gurpreet do? → **Put a clip on the right wing in the same place**
 
 ## Worksheets
 ### Two Matching Halves (core) (core, 10 questions)
@@ -353,30 +353,30 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
    **Answer:** A butterfly → Down her body, from head to tail; A leaf → Along the middle vein; A face → Down the middle of the nose; A steel spoon → Along it, from the tip to the end of the handle. *Why:* Each line cuts the thing into two halves that nearly match. A strong answer matches all four and can show each line with a finger on the real thing.
 2. (draw) Here is half a butterfly, next to a dotted line. Draw the other half, so the two sides match. Then colour both sides the same.  
    **Answer:** A whole butterfly, with the same wing shapes and spots on both sides of the dotted line.. *Why:* A strong drawing puts each spot the same distance from the line on both sides, and uses the same colours.
-3. (truefalse) A real butterfly's two sides match exactly, with no tiny differences at all.  
-   **Answer:** False. *Why:* False. A butterfly's two sides nearly match. Look very closely, and a spot may be a little bigger, or a wing may have a nick.
+3. (truefalse) Your left hand is a mirror image of your right hand.  
+   **Answer:** True. *Why:* True. Put your two hands palm to palm, and they match, flipped over. A mirror image is the same shape, turned from side to side.
 4. (sort) Sort these into two heaps: two matching halves, or no matching halves.  
    **Answer:** The letter A → Two matching halves; The letter F → No matching halves; A flat steel plate → Two matching halves; A door key → No matching halves; A leaf → Two matching halves; A chappal → No matching halves. *Why:* In the Mirror Test, the A, the plate and the leaf came out whole. The F, the key and the chappal made new shapes.
 5. (write) Say it out loud, and a grown-up writes it down: what happened when you stood the mirror on the chappal?  
    **Answer:** The mirror made a strange chappal that fits no foot. No line made the real chappal again.. *Why:* A strong answer says what the child saw, and that the chappal's two halves do not match.
-6. (perspective) Priya and Farhan are talking about the Mirror Test.  
-   **Answer:** A strong answer says both are partly right. Priya is right that a face has matching parts on each side. Farhan is right that the halves are not exactly the same, because the mirror face looked a little different.. *Why:* A face is nearly symmetric, never exactly. A child who picks either side and uses the Mirror Test as evidence is thinking well.
+6. (perspective) Priya and Farida are talking about the Mirror Test.  
+   **Answer:** A strong answer says both are partly right. Priya is right that a face has matching parts on each side. Farida is right that the halves are not exactly the same, because the mirror face looked a little different.. *Why:* A face is nearly symmetric, never exactly. A child who picks either side and uses the Mirror Test as evidence is thinking well.
 7. (odd) Three of these have two matching halves. Circle the one that does not.  
    Options: The letter A / A butterfly / A flat steel plate / The letter F  
    **Answer:** 3. *Why:* No line cuts the letter F into two matching halves. The A, the butterfly and the plate each have a line of symmetry.
 8. (draw) Draw your own face, looking in a mirror. Draw a line down the middle. Then draw one thing that is a little different on your two sides.  
    **Answer:** A face with a line down the nose, and one small difference marked, such as one eyebrow higher or a mole on one cheek.. *Why:* A strong drawing shows matching parts on both sides and one real difference, because faces nearly match but never exactly.
-9. (count) Count a butterfly's wings. She has two on the left and two on the right. How many wings does she have in all?  
-   **Answer:** 4. *Why:* Two on the left and two on the right make 4. The two sides match, so each side has the same number.
-10. (mcq) Sunita folds a paper in half and cuts a shape on the fold. She opens the paper. What does she see?  
+9. (count) A butterfly has 3 legs on her left side and 3 legs on her right side. How many legs does she have in all?  
+   **Answer:** 6. *Why:* Three on the left and three on the right make 6. The two sides match, so each side has the same number.
+10. (mcq) Sunita, a girl in Class 1, folds a paper in half and cuts a shape on the fold. She opens the paper. What does she see?  
    Options: A shape with two matching halves / A shape with no middle / Two different shapes  
    **Answer:** A shape with two matching halves. *Why:* The two halves were cut together, so they match. The fold becomes the line of symmetry.
 ### Halves, Mirrors and Art (stretch) (stretch, 10 questions)
 1. (order) Put the Mirror Test in order.  
    **Answer:** ['Guess for each thing', 'Stand the mirror on the middle line', 'Sort the things into two heaps']. *Why:* First we guess, so the test can tell us whether we were right. Then we try the mirror. Then we sort what we found.
-2. (mcq) Bornali stands a mirror on the middle line of a hibiscus flower. What does she see?  
+2. (mcq) Bornali, a girl in Class 1, stands a mirror on the middle line of a hibiscus flower. What does she see?  
    Options: A whole flower / Half a flower and an empty mirror / A new shape, not a flower  
-   **Answer:** A whole flower. *Why:* A hibiscus flower has two matching halves on each side of a line through the flower's centre. So the mirror shows the other half, and she sees a whole flower.
+   **Answer:** A whole flower. *Why:* A hibiscus flower has a line through its centre that cuts it into two matching halves. So the mirror shows the other half, and she sees a whole flower.
 3. (label) Say whether each thing has two matching halves: yes, nearly or no. A grown-up writes your answers.  
    **Answer:** ['yes, or nearly', 'nearly', 'no', 'yes']. *Why:* A strong answer says 'nearly' for the face, because the Mirror Test showed small differences. Flowers are living too, so 'nearly' is also a good answer for the hibiscus.
 4. (truefalse) Your heart sits right in the middle of your chest.  
@@ -385,10 +385,10 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
    **Answer:** A pattern with a line down the middle, where each loop or dot on one side has a matching one on the other side.. *Why:* A strong drawing puts each part the same distance from the line on both sides, so the mirror shows the same pattern.
 6. (fill) The middle line where a shape folds into two matching halves is called the line of ___.  
    **Answer:** symmetry. *Why:* The line of symmetry cuts a shape into two halves that match.
-7. (mcq) Tsering cuts a paper butterfly. One wing comes out much bigger than the other. She rests the butterfly on a pencil along her middle. What happens?  
+7. (mcq) Tsering, a girl in Class 1, cuts a paper butterfly. One wing comes out much bigger than the other. She rests the butterfly on a pencil along her middle. What happens?  
    Options: She tips towards the bigger wing / She balances / She flies away  
    **Answer:** She tips towards the bigger wing. *Why:* The bigger wing is heavier. The two sides no longer match, so the butterfly tips towards the heavier side.
-8. (write) Divya says: 'Only people make shapes with two matching halves.' Say it out loud, and a grown-up writes it down: what would you tell Divya?  
+8. (write) Divya, a girl aged 7, says: 'Only people make shapes with two matching halves.' Say it out loud, and a grown-up writes it down: what would you tell Divya?  
    **Answer:** Butterflies, leaves and people grow two matching halves, and nobody draws them. People make symmetric kolams too, but they are not the only ones.. *Why:* A strong answer uses something the child saw, such as the leaf or the butterfly, as evidence.
 9. (match) Draw a line from each piece of art to how you made its second half.  
    **Answer:** Dal Butterfly → Copy each grain on the other side; Rub-and-Copy Art → Fold the paper and rub it; Balancing Butterfly → Fold the card and cut against the fold. *Why:* All three ways make a second half that matches the first, flipped over. A strong answer can say which way made the most exact copy.
@@ -460,11 +460,11 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 - What would happen if one of your legs were much longer than the other?
 
 ## Jokes
-- Why did the butterfly look in the mirror? *To check that both her halves were having a good day!*
+- What did the left ear say to the right ear? *Hear, hear! We are a pair!*
 - What did the left wing say to the right wing? *You look just like me, only backwards!*
-- Why was the chappal sad at the mirror? *Because it never found its matching half!*
+- Why did the chappal not smile at the mirror? *Because the mirror made a chappal for no foot, and that was no laughing matter!*
 - Why did half a dosa go to the mirror? *To feel like a whole dosa again!*
-- What do you call a butterfly with only one side? *A flutter-half!*
+- Why did the butterfly's wings never argue? *Because each wing always agreed with the other side!*
 - Why did the letter A get full marks? *Because both its halves gave the same answer!*
 - Why did the letter F stay away from the mirror? *Because the mirror kept turning it into something else!*
 - What did one eye say to the other eye? *Between you and me, something smells. It's the nose in the middle!*

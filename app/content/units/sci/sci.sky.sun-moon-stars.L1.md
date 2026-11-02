@@ -25,7 +25,7 @@
 In the ice test, the ice cube in the sunshine melted much faster than the one in the shade. The sunshine brought heat to it. The Sun is about 150 million kilometres away. That is so far that a car would take more than a hundred years to drive there. Its light still reaches us in about 8 minutes, and it warms everything it falls on: the floor, the water in a tank, your skin and the leaves of plants. Plants use sunlight to make their food, and humans and other animals eat plants.
 - e.g. In the ice test, the ice cube in the sunshine melted first.
 - e.g. Clothes on a sunny balcony dry faster than clothes in the shade.
-- e.g. A crow sits in the morning sun with their feathers puffed out to get warm.
+- e.g. A crow sits in the morning sun with puffed-out feathers to get warm.
 ### The Moon shines with the Sun's light · *defined*
 **Definition:** The Moon makes no light of its own. Sunlight falls on the Moon, and some of it bounces off and comes to our eyes.
 
@@ -46,7 +46,7 @@ In the torch test, the little torch star was hard to see in the bright spot by t
 On a clear night in a big city, you may see only a few stars. In a village far from city lights, the sky can be full of thousands of them. The stars are the same. The city lights make the night air glow a little, the way the Sun makes the day sky glow a lot. The faint stars get hidden, and only the brightest ones show. Scientists call this light pollution: too much light at night, in places where it is not needed.
 - e.g. From a city balcony you may count only five or ten stars.
 - e.g. Far from towns, in the Thar desert or the hills of Ladakh, the sky can be full of stars.
-- e.g. In the Window Star Count, more stars showed after the lights near the window were switched off.
+- e.g. Switch off the lights near a window at night, and a few more stars show.
 
 ## Mostly agreed
 - The Sun is a star. It gives the Earth light and heat. *How we know:* Anyone can feel the Sun's warmth in a patch of sunshine. Scientists have measured the Sun's light from the ground and from spacecraft, such as India's Aditya-L1, which was launched in 2023 to study the Sun.
@@ -54,7 +54,7 @@ On a clear night in a big city, you may see only a few stars. In a village far f
 - The stars are in the sky in the daytime too. *How we know:* During a total eclipse of the Sun, bright stars can be seen in the daytime sky. Big telescopes can see bright stars in the day.
 
 ## How we found out
-**Annie Maunder, an astronomer from Ireland, who photographed the eclipse of 22 January 1898 from Talni in India, 22 January 1898.** For a long time, many people thought the stars went away in the daytime, or only came out at night. But people who watched a total eclipse of the Sun saw something strange. For a few minutes, the Moon covered the whole Sun. The sky went dark in the middle of the day, and bright stars and planets appeared. They had been there all along. One person who travelled far to see an eclipse was Annie Maunder, an astronomer from Ireland. In January 1898 she came to India, to a village called Talni, where the eclipse could be seen. She carried a small camera, bought with a little money from her old college. When the Moon covered the Sun, she photographed the Sun's faint outer glow, which can be seen only in an eclipse. Her picture showed a streamer of glow longer than anyone had photographed before. For many years, her pictures were often printed with her husband's name instead of hers. Today big telescopes can find bright stars even in the daytime sky.  
+**Annie Maunder, an astronomer from Ireland, 22 January 1898.** For a long time, many people thought the stars went away in the daytime, or only came out at night. But people who watched a total eclipse of the Sun saw something strange. For a few minutes, the Moon covered the whole Sun. The sky went dark in the middle of the day, and bright stars and planets appeared. They had been there all along. One person who travelled far to see an eclipse was Annie Maunder, an astronomer from Ireland. In January 1898 she came to India, to a village called Talni, where the eclipse could be seen. She carried a small camera, bought with a little money from her old college. When the Moon covered the Sun, she photographed the Sun's faint outer glow, which can be seen only in an eclipse. Her picture showed a streamer of glow longer than anyone had photographed before. For many years, her pictures were often printed with her husband's name instead of hers. Today big telescopes can find bright stars even in the daytime sky.  
 *What people believed before:* People thought the stars went away in the daytime. Total eclipses of the Sun showed that when the Sun's light is blocked, the stars can be seen at midday, so they are there all the time.
 
 ## Challenging perspectives
@@ -120,7 +120,7 @@ Ajji smiled. "It is the same sky, Tara. The same stars are over Bengaluru tonigh
 
 Manu pointed at the Moon. It was a half Moon, high over the coconut trees. "Is the Moon a big lamp?" he asked.
 
-"No," said Ajji. "The Moon makes no light of its own. The Sun shines on the Moon, the way the bulb shines on your steel tumbler. The Moon sends some of that sunlight down to us."
+"No," said Ajji. "The Moon makes no light of its own. The Sun shines on the Moon, the way a lamp shines on your steel tumbler. The Moon sends some of that sunlight down to us."
 
 The next morning, Tara ran up to the roof. The sky was bright blue. There was not a single star.
 
@@ -146,7 +146,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 
 "The others are there too," she told Manu. "They are just hidden."
 
-**For the parent:** For the parent: Tara finds that the stars never go away. The bright day sky hides them, and city lights hide the faint ones at night. On the way she also feels that sunshine brings heat, and learns from Ajji that the Moon shines only with the Sun's light.
+**For the parent:** Tara finds that the stars never go away. The bright day sky hides them, and city lights hide the faint ones at night. On the way she also feels that sunshine brings heat, and learns from Ajji that the Moon shines only with the Sun's light.
 
 - Ask: Why was the mat in the sunshine warm, and the floor inside cool?
 - Ask: Why could Tara see so many more stars from Ajji's roof?
@@ -155,14 +155,14 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 
 ## Games
 ### g1 · Day Sky or Night Sky? A card sorting game (10 min)
-- **rules:** Mix the 14 cards and put them in a pile, face down.; Make three places on the floor: a yellow paper for DAY, a dark paper for NIGHT, and a place in the middle for BOTH.; Players take turns. On your turn, take the top card. A grown-up reads the front out.; Put it on DAY, NIGHT or BOTH, and say why.; A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.; When all 14 cards are sorted, count the cards each player kept. Play again to keep more.; At the end, talk about the stars card: are the stars in the sky in the day?
-- **Printable cards: 14 sky cards:** The Sun, shining (back: DAY. When we can see the Sun, it is day where we are.); A bright blue sky (back: DAY. Sunlight lights up the air and makes the sky blue.); Many twinkling stars (back: NIGHT, to see them. The stars are there all day too, but the bright sky hides them.); A full Moon (back: NIGHT. A full Moon rises as the Sun sets, and shines all night with sunlight.); A pale half Moon (back: BOTH. A half Moon can often be seen in the afternoon sky, and in the evening too.); Clothes drying in the sunshine (back: DAY. The Sun's heat dries them.); An owl hunting (back: NIGHT. Many owls hunt at night, with their big eyes and sharp ears.); A crow warming up on a ledge (back: DAY. Crows sit in the morning sun to get warm.); Street lights switched on (back: NIGHT. We switch on lights when the Sun's light is gone.); A shadow on the floor from the window (back: DAY. Sunlight through the window makes the shadow.); Clouds (back: BOTH. Clouds float in the sky by day and by night.); A bat flying (back: NIGHT. Many bats fly out at dusk to find food.); Fireflies flashing (back: NIGHT. Fireflies make their own light. We see it best in the dark.); A sunflower turned towards the Sun (back: DAY. Young sunflowers turn to face the Sun as it moves.)
+- **rules:** Mix the 13 cards and put them in a pile, face down.; Make three places on the floor: a yellow paper for DAY, a dark paper for NIGHT, and a place in the middle for BOTH.; Players take turns. On your turn, take the top card. A grown-up reads the front out.; Put it on DAY, NIGHT or BOTH, and say why.; A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.; When all 13 cards are sorted, count the cards each player kept. The player with the most cards wins. With one child, try to beat your last count. Play again to keep more.; At the end, talk about the stars card: are the stars in the sky in the day?
+- **Printable cards: 13 sky cards:** The Sun, shining (back: DAY. When we can see the Sun, it is day where we are.); A bright blue sky (back: DAY. Sunlight lights up the air and makes the sky blue.); Many twinkling stars (back: NIGHT, to see them. The stars are there all day too, but the bright sky hides them.); A full Moon (back: NIGHT. A full Moon rises as the Sun sets, and shines all night with sunlight.); A pale half Moon (back: BOTH. A half Moon can often be seen in the afternoon sky, and in the evening too.); Clothes drying in the sunshine (back: DAY. The Sun's heat dries them.); An owl hunting (back: NIGHT. Many owls hunt at night, with their big eyes and sharp ears.); A crow warming up on a ledge (back: DAY. Crows sit in the morning sun to get warm.); Street lights switched on (back: NIGHT. We switch on lights when the Sun's light is gone.); A shadow on the floor from the window (back: DAY. Sunlight through the window makes the shadow.); Clouds (back: BOTH. Clouds float in the sky by day and by night.); A bat flying (back: NIGHT. Many bats fly out at dusk to find food.); Fireflies flashing (back: NIGHT. Fireflies make their own light. We see it best in the dark.)
 - **s1 (1 min)**  
   *Parent does:* Lay out the papers. Read the rules together.  
   *Parent says:* Yellow is for the day sky. Dark is for the night sky. The middle is for things we see in both.  
   *Child mode:* Yellow is day. Dark is night. The middle is both.
 - **s2 (7 min)**  
-  *Parent does:* Play through all 14 cards. Read each front, wait for your child's choice and reason, then read the back.  
+  *Parent does:* Play through all 13 cards. Read each front, wait for your child's choice and reason, then read the back.  
   *Parent says:* Many twinkling stars. Day, night or both? Why? Let's turn it over.  
   *Child mode:* Read the card. Day, night or both? Why? Turn it over.
   - Note: The stars and the Moon cards are the tricky ones. Remind your child of the torch star test if they have done it.
@@ -393,8 +393,8 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    **Answer:** On a sunny balcony line. *Why:* The Sun's heat dries clothes. In the sunshine they get more heat, so the water goes into the air faster.
 4. (truefalse) The Moon is a ball of rock that goes round the Earth.  
    **Answer:** True. *Why:* True. The Moon is a big ball of rock. It makes no light of its own, and shines with the Sun's light.
-5. (draw) Draw the torch star by the bright window, and the torch star in the dark room. Show how bright it looked each time.  
-   **Answer:** A tiny faint dot by the window, and a bright, clear dot in the dark room.. *Why:* A strong drawing shows the same star looking faint in the bright place and bright in the dark place.
+5. (draw) Draw yourself on a hot day. Show where the sunshine falls and where the shade is. Colour the place you would sit to stay cool.  
+   **Answer:** A drawing with sunshine on one side and shade on the other, and the child sitting in the shade.. *Why:* A strong drawing shows shade where something blocks the sunlight, and sunshine where it does not.
 6. (match) Draw a line from each sky thing to where its light comes from.  
    **Answer:** The Sun → Its own light; The Moon → Light from the Sun; A star → Its own light. *Why:* The Sun and the stars make their own light. The Moon has none of its own: it shines with sunlight.
 7. (write) Say out loud, and a grown-up writes it down: why was the torch star hard to see by the bright window?  
@@ -498,18 +498,18 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 ## Jokes
 - Why did the star stay quiet all day? *Because the Sun was doing all the shining!*
 - Why does the Moon never need a torch? *The Sun lends it light every night!*
-- Why did the Sun not go to college? *It already had millions of degrees!*
+- Why did the Sun not go to college? *The Sun already had millions of degrees!*
 - What did the shade say to the sunshine? *Cool it!*
 - How does the Moon get a haircut? *Eclipse it!*
 - Why did the crow sit in the sun? *To make a warm caw!*
 - What is a star's favourite game? *Twinkle, twinkle, hide and seek!*
-- Why did the Moon skip dinner? *It was already full!*
+- Why did the Moon skip dinner? *The Moon was already full!*
 
 ## Connected maths
 - Kavya, a girl in Class 1, counted 3 stars from her balcony with the lights on. With the lights off she counted 7. How many more stars did she see? **4 more.**. Count on from 3 to 7: 4, 5, 6, 7. That is 4. So she saw 4 more stars once the lights near her were off. Those stars were there all along. (queues `math.addition-subtraction.meaning.L1`)
 - Divya, a girl in Class 1, did the ice test. She looked at both ice cubes every 5 minutes. The sunny one was gone at the 3rd look. The shady one was gone at the 6th look. Which lasted longer? How many more looks did it last? **The shady one, by 3 looks.**. 6 is more than 3, so the shady ice lasted longer. From 3 to 6 is 3 more looks. Each look was 5 minutes apart, so that is 15 more minutes in the shade. (queues `math.number-sense.comparing-ordering.L1`)
 - Tara, the girl in the story, draws a sky pattern: Sun, Moon, star, Sun, Moon, star, Sun, Moon. What comes next? **A star.**. The pattern is Sun, Moon, star, again and again. After Sun and Moon comes a star. (queues `math.patterns.repeating-patterns.L1`)
-- Nila, a girl in Class 1, played the sorting game. She put 5 cards on DAY, 6 on NIGHT and 3 on BOTH. Which pile had the most cards? Nila says, 'So there are more things in the night sky than in the day sky.' Is she right? **NIGHT had the most. But the stars are in the day sky too, just hidden, so the night pile is only what we can see.**. 6 is more than 5 and more than 3, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too. (queues `math.data.sorting-and-tallies.L1`)
+- Nila, a girl in Class 1, played the sorting game. She put 5 cards on DAY, 6 on NIGHT and 2 on BOTH. Which pile had the most cards? Nila says, 'So there are more things in the night sky than in the day sky.' Is she right? **NIGHT had the most. But the stars are in the day sky too, just hidden, so the night pile is only what we can see.**. 6 is more than 5 and more than 3, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Sun by Day, Stars All Day (sci.sky.L1): Topic-level song for Sun, Moon, stars and planets L1
@@ -533,7 +533,7 @@ Sun by Day, Stars All Day (sci.sky.L1): Topic-level song for Sun, Moon, stars an
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → story → g1 → e2 → ws-core → a2 → a3 → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions → roots → quiz
+- Default order: intro → a1 → summary → terms → e1 → e2 → explanations → story → g1 → ws-core → a2 → a3 → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions → roots → quiz
 - Core: a1, e1, g1, e2, ws-core
 
 ## Sources

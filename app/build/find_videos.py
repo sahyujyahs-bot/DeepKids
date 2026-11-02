@@ -1,5 +1,6 @@
 """Fill and verify unit videos with YouTube's public oEmbed check and search page.
 Usage: python3 app/build/find_videos.py [--apply] <unit.json ...>
+       python3 app/build/find_videos.py --search "words"   (top 10 results: id | title | channel | length | views)
 For each video: an existing id is checked with oEmbed (exists, title, channel). A 'find-id' video gets the top search
 results for its title and channel; the first whose channel matches the named channel (or the first result) is proposed.
 --apply writes found ids with a check note saying how it was matched; review the printed list."""
@@ -14,6 +15,14 @@ def search(q):
     for i in re.findall(r'"videoRenderer":\{"videoId":"([\w-]{11})"', h):
         if i not in out: out.append(i)
     return out[:5]
+def results(q):
+    h = get('https://www.youtube.com/results?search_query=' + urllib.parse.quote(q)); out = []
+    for c in h.split('"videoRenderer":{"videoId":"')[1:11]:
+        f = lambda r: (re.search(r, c) or [None, ''])[1]
+        out.append(' | '.join([c[:11], f(r'"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"'), f(r'"ownerText":\{"runs":\[\{"text":"([^"]*)"'),
+                               f(r'"lengthText":\{"accessibility":\{"accessibilityData":\{"label":"([^"]*)"'), f(r'"viewCountText":\{"simpleText":"([^"]*)"')]))
+    return out
+if '--search' in sys.argv: print('\n'.join(results(sys.argv[sys.argv.index('--search') + 1]))); sys.exit()
 apply = '--apply' in sys.argv
 for f in [a for a in sys.argv[1:] if a.endswith('.json')]:
     u = json.load(open(f)); changed = False

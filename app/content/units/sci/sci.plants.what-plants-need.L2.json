@@ -57,7 +57,7 @@
    "concept": "Plants grow towards light",
    "status": "defined",
    "definition": "A young shoot bends towards the brightest light. This is called phototropism.",
-   "description": "A plant makes their food in their green leaves, using light. So getting the leaves into light matters a great deal. A shoot senses where the light is coming from. Then the side of the stem away from the light grows a little faster than the side facing it. A stem that grows faster on one side bends, just as a line of marching children curves if the outside row takes bigger steps. Turn the plant round, and the bend starts again the other way. The shoot tip is the part that senses the light best.",
+   "description": "A plant makes their food in their green leaves, using light, so getting the leaves into light matters a great deal. A shoot senses where the light is coming from. Then the side of the stem away from the light grows a little faster than the side facing it, so the stem bends towards the light. Turn the plant round, and the bend starts again the other way. In the grass shoots the Darwins tested, the tip sensed the light best.",
    "examples": [
     "Rai sprouts by a window bend towards the glass within a day.",
     "A money plant in a dim room grows long stems towards the window.",
@@ -71,7 +71,7 @@
    "concept": "Plants need water",
    "status": "defined",
    "definition": "Every plant needs water to live and grow. Roots take in water from the soil.",
-   "description": "Water keeps a plant's stems and leaves firm. It carries minerals up from the roots. The leaves use water, with light and air, to make food. A plant short of water wilts: the leaves go soft and droop. Different plants need different amounts. A cactus needs very little. Rice grows in fields full of water.",
+   "description": "Water keeps stems and leaves firm, and carries minerals up from the roots. The leaves use water, with light and air, to make food. A plant short of water wilts: the leaves go soft and droop. Different plants need different amounts. A cactus needs very little, and rice grows in fields full of water.",
    "examples": [
     "A tulsi plant droops on a hot afternoon and stands up again after a drink.",
     "Rice fields in Thanjavur and in Assam are kept flooded while the rice grows.",
@@ -85,7 +85,7 @@
    "concept": "Plants need air",
    "status": "defined",
    "definition": "Plants need air for two jobs. Leaves take in a gas from the air called carbon dioxide to make food. Every part of a plant, roots too, takes in oxygen from the air to breathe.",
-   "description": "Air is a mix of gases. Leaves take in carbon dioxide through tiny holes, too small to see. With light and water, they turn it into food. Roots breathe too. They take in oxygen from the air in the gaps between bits of soil. If soil stays soaking wet for days, water fills those gaps. Then the roots cannot get air, and they can rot. That is why most pots have a hole at the bottom.",
+   "description": "Leaves take in carbon dioxide through tiny holes, too small to see. With light and water, they turn it into food. Roots breathe too, using oxygen from the air in the gaps between bits of soil. If soil stays soaking wet for days, water fills those gaps, and the roots can rot. That is why most pots have a hole at the bottom.",
    "examples": [
     "Bubbles rise when you pour water on dry soil. That is the air from the gaps in the soil.",
     "Flower pots have a hole in the bottom so extra water can drain away.",
@@ -99,7 +99,7 @@
    "concept": "Plants need warmth",
    "status": "defined",
    "definition": "Plants grow only when it is warm enough for them. Each kind of plant has the warmth they grow best in.",
-   "description": "In cold weather, seeds germinate slowly, and plants grow slowly. Frost is a thin layer of ice that forms on very cold nights. It can kill the leaves of many plants. Too much heat can dry a plant out. Different plants like different warmth. Rice and bananas like hot, wet weather. Mustard and wheat are sown in the cool winter months in the north of India. Apples grow in cold hill places like Himachal Pradesh and Kashmir.",
+   "description": "In cold weather, seeds germinate slowly and plants grow slowly. Frost, a thin layer of ice on very cold nights, can kill the leaves of many plants. Too much heat can dry a plant out. Different plants like different warmth: rice and bananas like hot, wet weather, mustard and wheat are sown in the cool winter in the north, and apples grow in cold hills like Himachal Pradesh and Kashmir.",
    "examples": [
     "Rai seeds sprout in a day or two in a warm Chennai kitchen. In a cold Delhi winter they can take several days longer.",
     "Mustard fields in Punjab and Rajasthan turn yellow with flowers in winter.",
@@ -113,7 +113,7 @@
    "concept": "Plants need soil, or what is in it",
    "status": "defined",
    "definition": "Soil holds a plant up, holds water and air for the roots, and gives the plant minerals.",
-   "description": "A seed carries a small store of food inside. So a seed can germinate on wet tissue, with no soil at all. But the store runs out after some days. To keep growing, a plant needs minerals, which come from the soil. Plants do not eat soil. They make their food in their leaves. Farmers can even grow plants with their roots in water, if they add minerals to the water. This is called hydroponics.",
+   "description": "A seed carries a small store of food inside, so seeds can germinate on wet tissue with no soil at all. But the store runs out after some days. To keep growing, a plant needs minerals, which come from the soil. Plants do not eat soil; they make their food in their leaves. Farmers can grow plants with their roots in water if they add minerals to the water. This is called hydroponics.",
    "examples": [
     "Rai seeds sprout on wet tissue as well as in soil.",
     "A money plant can live for months in a bottle of water, with no soil.",
@@ -282,7 +282,7 @@
    ],
    "materials": [
     {
-     "item": "rai (mustard) seeds from the kitchen. If they do not sprout, use moong or methi.",
+     "item": "rai (mustard; kadugu in Tamil) seeds from the kitchen. If they do not sprout, use moong or methi.",
      "qty": "2 teaspoons"
     },
     {
@@ -324,12 +324,12 @@
     },
     {
      "day": 4,
-     "mins": 8,
+     "mins": 6,
      "what": "See which way the sprouts lean. Mark the window side of each cup. Guess, then turn cup A round."
     },
     {
      "day": 5,
-     "mins": 8,
+     "mins": 12,
      "what": "Look at both cups. Draw them. Say what you think, what you saw and why."
     }
    ],
@@ -425,7 +425,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Ask your child to guess what will happen if cup A is turned round. Wait for a guess and a reason. Write it down. Then let your child turn cup A round, so its bindi faces the room. Leave cup B as it is.",
-     "say": "If we turn cup A round, the sprouts will lean into the room. What will they do by tomorrow? Why do you think so?",
+     "say": "Right now the sprouts in both cups lean towards the window. If we turn cup A round, they will lean away from the window. What will they do by tomorrow? Why do you think so?",
      "kid": "Guess. If you turn cup A round, what will the sprouts do? Why? Now turn cup A round.",
      "ask": [
       {
@@ -563,7 +563,7 @@
     {
      "day": 6,
      "mins": 3,
-     "what": "Water both cups. Look at the leaves."
+     "what": "Check both cups are damp, and add a spoon of water if they are dry. Look at the leaves."
     },
     {
      "day": 10,
@@ -723,7 +723,7 @@
   },
   {
    "id": "a2",
-   "title": "Soil in a Glass: find the air, the water and the bits",
+   "title": "Soil in a Glass: find the air and the bits",
    "mins": 15,
    "days": 2,
    "context": "In this activity you pour water on dry soil and watch for bubbles. Then you stir the soil in water and let it settle overnight. You find out what soil is made of.",
@@ -784,14 +784,7 @@
        ]
       }
      ],
-     "parent": "Bubbles rise because water fills the gaps between the soil crumbs and pushes the air out. Dry soil gives the most bubbles. This air is what roots breathe."
-    },
-    {
-     "id": "a2s2",
-     "mins": 8,
-     "do": "1. Put 3 spoons of soil into glass 2. 2. Fill it almost to the top with water. 3. Stir hard for half a minute. 4. Leave it somewhere it won't be knocked.",
-     "say": "Now we'll mix soil and water and leave it overnight. What do you think we'll see tomorrow? Why?",
-     "kid": "Put soil in the second glass. Add water. Stir hard. Guess what you will see tomorrow.",
+     "parent": "Bubbles rise because water fills the gaps between the soil crumbs and pushes the air out. Dry soil gives the most bubbles. This air is what roots breathe.",
      "check": {
       "t": "mcq",
       "q": "When you poured water on dry soil, bubbles came up. What does that show?",
@@ -803,6 +796,13 @@
       "a": 0,
       "why": "Soil has tiny gaps full of air. Water filled the gaps and pushed the air out. Roots need this air to breathe."
      }
+    },
+    {
+     "id": "a2s2",
+     "mins": 8,
+     "do": "1. Put 3 spoons of soil into glass 2. 2. Fill it almost to the top with water. 3. Stir hard for half a minute. 4. Leave it somewhere it won't be knocked.",
+     "say": "Now we'll mix soil and water and leave it overnight. What do you think we'll see tomorrow? Why?",
+     "kid": "Put soil in the second glass. Add water. Stir hard. Guess what you will see tomorrow."
     },
     {
      "id": "a2s3",
@@ -895,12 +895,12 @@
    "id": "g1",
    "title": "Five Needs: grow your plant to a flower",
    "mins": 15,
-   "players": "2 or 3 players",
+   "players": "2 to 4 players",
    "context": "This is a card game about the five needs of a plant. Each player collects light, water, air, warmth and soil for their own plant. Trouble cards can take a need away.",
    "printables": [
     {
      "kind": "cards",
-     "title": "20 cards to cut out",
+     "title": "25 cards to cut out",
      "items": [
       {
        "f": "Light: a sunny window",
@@ -908,11 +908,11 @@
       },
       {
        "f": "Light: a bright balcony",
-       "b": "Your plant can make food in their leaves."
+       "b": "Leaves use light to make food, even on a balcony."
       },
       {
        "f": "Light: morning sun through the grille",
-       "b": "Your plant can make food in their leaves."
+       "b": "A little morning sun is enough for leaves to make food."
       },
       {
        "f": "Water: one spoon a day",
@@ -920,11 +920,11 @@
       },
       {
        "f": "Water: the monsoon rain",
-       "b": "Your plant's leaves stay firm."
+       "b": "Rain gives water, and the roots take it in."
       },
       {
        "f": "Water: a drink from a steel tumbler",
-       "b": "Your plant's leaves stay firm."
+       "b": "Roots take in water from the soil."
       },
       {
        "f": "Air: an open window",
@@ -936,7 +936,7 @@
       },
       {
        "f": "Air: a fresh breeze",
-       "b": "Leaves take in a gas from the air to make food. Roots breathe too."
+       "b": "Leaves take in a gas from the air to make food."
       },
       {
        "f": "Warmth: a warm day in Chennai",
@@ -944,11 +944,11 @@
       },
       {
        "f": "Warmth: a sunny afternoon",
-       "b": "Your plant grows well in enough warmth."
+       "b": "Warmth helps a plant grow."
       },
       {
        "f": "Warmth: the end of winter",
-       "b": "Your plant grows well in enough warmth."
+       "b": "When it gets warmer, seeds sprout and plants grow faster."
       },
       {
        "f": "Soil: a pot of good soil",
@@ -960,7 +960,27 @@
       },
       {
        "f": "Soil: soil from under a tree",
-       "b": "Roots hold on and take in minerals."
+       "b": "Roots hold on to the soil and take in minerals."
+      },
+      {
+       "f": "Light: a sunny verandah",
+       "b": "Leaves use light to make food."
+      },
+      {
+       "f": "Water: a watering can on Sunday",
+       "b": "Water keeps the leaves and stem firm."
+      },
+      {
+       "f": "Air: loose soil with gaps",
+       "b": "The roots breathe the air in the gaps in the soil."
+      },
+      {
+       "f": "Warmth: a warm morning in Kochi",
+       "b": "Seeds sprout fast and plants grow well in enough warmth."
+      },
+      {
+       "f": "Soil: compost made from vegetable peels",
+       "b": "Compost adds minerals to the soil."
       },
       {
        "f": "Trouble: someone shuts your plant in a cupboard",
@@ -986,12 +1006,12 @@
     }
    ],
    "rules": [
-    "Each player draws a plant sheet: a pot with five empty boxes around it, labelled Light, Water, Air, Warmth and Soil, and a flower at the top. Shuffle the 20 cards and put them face down in a pile.",
+    "Each player draws a plant sheet: a pot with five empty boxes around it, labelled Light, Water, Air, Warmth and Soil, and a flower at the top. Shuffle the 25 cards and put them face down in a pile.",
     "Take turns. Turn over the top card. Read the front aloud, then turn it over and read the back aloud.",
     "If it is a need card and your box for that need is empty, put the card in the box. If you already have that need, put the card at the bottom of the pile.",
-    "If it is a Trouble card, give back the need card it names, if you have one. Put the card you gave back and the Trouble card at the bottom of the pile.",
+    "If it is a Trouble card and you have the need card it names, give that card back. Put the Trouble card, and the card you gave back, at the bottom of the pile. If you do not have that need card, just put the Trouble card at the bottom.",
     "When all five of your boxes are full, colour in your flower and say the five needs aloud. Then you stop taking turns.",
-    "The game ends when every plant has flowered. Everyone wins together."
+    "The game ends when every plant has flowered. Everyone wins together. There are 4 cards of each need, so every player can always find the one they are missing."
    ],
    "setup": [
     {
@@ -1007,7 +1027,7 @@
     {
      "id": "g1s1",
      "mins": 3,
-     "do": "1. Cut out the 20 cards. 2. Each player draws a plant sheet with a pot and five boxes. 3. Shuffle the cards and put them face down.",
+     "do": "1. Cut out the 25 cards. 2. Each player draws a plant sheet with a pot and five boxes. 3. Shuffle the cards and put them face down.",
      "say": "Your plant needs five things to flower. Can you guess what they are? Let's find out as we play.",
      "kid": "Look at your plant sheet. There are five boxes. Each box is a need."
     },
@@ -1099,7 +1119,7 @@
     }
    ],
    "rules": [
-    "Each sprout picks a spot and keeps their feet still all game. A sprout cannot walk.",
+    "Each sprout picks a spot and keeps their feet still all game. A sprout cannot walk. The Sun needs a torch or a phone light.",
     "The Sun turns over a card, reads the front aloud, and shines the torch from that place. If the card says night, switch the torch off.",
     "The sprouts turn or lean as slowly as they can. A sprout who moves a foot, or turns fast, stands up straight and starts that card again.",
     "After each card, the Sun reads the back, and the sprouts say why they moved that way.",
@@ -1142,7 +1162,7 @@
     {
      "id": "g2s3",
      "mins": 1,
-     "do": "End with the card about the turned pot.",
+     "do": "Make the card about the turned pot the last one you read.",
      "say": "A real rai sprout turns back to the window in about a day. You turned in a few seconds. What is different about a real sprout?",
      "kid": "A real sprout turns back to the window in about a day. How is a real sprout different from you?",
      "ask": [
@@ -1175,7 +1195,7 @@
      "qty": 2
     },
     {
-     "item": "clean cocopeat or a nursery bag of fresh potting mix (not soil from an old pot, because you will eat the sprouts)",
+     "item": "kitchen tissue folded into 4 layers and wetted, or clean cocopeat",
      "qty": "enough for 2 cm in each tray"
     },
     {
@@ -1230,7 +1250,7 @@
     {
      "id": "p1s1",
      "mins": 6,
-     "do": "1. Fill both trays with 2 cm of cocopeat or fresh potting mix. 2. Scatter 1 tablespoon of seeds on each. 3. Water both. 4. Label them TURN and STAY. 5. Put them side by side by the window.",
+     "do": "1. Fill both trays with wet folded tissue, or 2 cm of cocopeat. 2. Scatter 1 tablespoon of seeds on each. 3. Water both. 4. Label them TURN and STAY. 5. Put them side by side by the window.",
      "say": "We will turn the TURN tray round every second day, and never move the STAY tray. How do you think they will look after a week? Why?",
      "kid": "Fill two trays. Scatter seeds. Water them. Guess how each tray will look in a week. Why?",
      "ask": [
@@ -1537,7 +1557,7 @@
     },
     {
      "t": "count",
-     "p": "In cup A, 12 rai sprouts grew. The next day, 10 of them had bent back to the window. How many had not bent yet?",
+     "p": "In the turning cup test, cup A had 12 rai sprouts. The next day, 10 of them had bent back to the window. How many had not bent yet?",
      "a": "2 sprouts had not bent yet. 12 take away 10 is 2.",
      "why": "Not every sprout turns at the same speed. The 2 may bend by evening.",
      "how": "e1"
@@ -1756,14 +1776,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "A plant has light, water, air and warmth. Which of the five needs is still missing?",
+   "p": "A plant has water, air, warmth and soil, but is kept in a dark cupboard. Which need is missing?",
    "opts": [
-    "Soil",
+    "Light",
     "Sugar",
     "Milk"
    ],
    "a": 0,
-   "why": "The five needs are light, water, air, warmth and soil. Plants make their own sugar, so they do not need sugar or milk.",
+   "why": "The five needs are light, water, air, warmth and soil. In the dark a plant cannot make food. Plants make their own sugar, so they do not need sugar or milk.",
    "outcome": 0
   },
   {
@@ -1863,7 +1883,7 @@
    "a": 0,
    "why": "A fair test changes one thing only. If the seeds differ, she cannot tell if soil or light made the difference.",
    "outcome": 5,
-   "how": "e1"
+   "how": "e2"
   },
   {
    "t": "mcq",
@@ -1883,7 +1903,7 @@
   "Farmers sow each crop in the season with the right warmth: rice in the warm monsoon, and mustard and wheat in the cool winter in the north.",
   "Pots have a hole at the bottom so extra water drains out and roots get air.",
   "Some farms grow lettuce and herbs with their roots in water with minerals added, without soil. This is called hydroponics.",
-  "E. K. Janaki Ammal, a botanist from Kerala, bred sugarcane at Coimbatore in the 1930s that grew well in India's warmth and soils."
+  "E. K. Janaki Ammal, a botanist from Kerala, worked at the sugarcane institute in Coimbatore from 1934, breeding sugarcane to suit Indian conditions."
  ],
  "spotted": [
   {
@@ -1932,24 +1952,24 @@
    "a": "To get a better view of the Sun!"
   },
   {
-   "j": "Why don't plants ever get lost?",
-   "a": "They always know which way the light is."
+   "j": "Why did the money plant go to the doctor?",
+   "a": "She felt a bit green!"
   },
   {
-   "j": "What is a plant's favourite kind of bath?",
-   "a": "A damp one, not a flood!"
+   "j": "Why was the sprout so good at yoga?",
+   "a": "She could bend towards the light without moving her feet!"
   },
   {
-   "j": "Why did the rai sprout go to school?",
-   "a": "To grow up bright."
+   "j": "What did the little sprout say when somebody turned her pot round?",
+   "a": "Not again, I just got comfortable!"
   },
   {
    "j": "What did the soil say to the roots?",
    "a": "Take a deep breath. There's air in here!"
   },
   {
-   "j": "Why was the potato in the dark box so tired?",
-   "a": "They had to go round a wall to find the light."
+   "j": "Why did the potato in the box grow round the wall?",
+   "a": "She wanted to see the light at the end of the tunnel!"
   },
   {
    "j": "Why can a plant never win a race?",
@@ -2050,11 +2070,11 @@
    "a": "Yes, on wet tissue, using their own food store."
   },
   {
-   "q": "Why do pots have a hole at the bottom?",
-   "a": "So extra water drains out and the roots get air."
+   "q": "What comes up when you pour water on dry soil?",
+   "a": "Bubbles of air from the gaps in the soil."
   },
   {
-   "q": "Which part of a shoot senses the light best?",
+   "q": "In the Darwins' grass seedlings, which part sensed the light?",
    "a": "The tip."
   }
  ],
@@ -2182,5 +2202,5 @@
    "Potato shoots growing through a cardboard maze towards light is a standard school demonstration; it takes one to three weeks."
   ]
  },
- "playtest": "Thought through as a parent and child in a flat. The turning cup, soil-or-tissue, soil glass and picture-map activities need only rai seeds, cups, tissue, soil and water, and the minutes and schedules now agree. The two games were played in the head with 2 and 3 players: the card game now has no board that prints as one line, no fourth player who would be stuck, and a clear end, and the Sun game has cards that all do something. Fixed made-up names that were not introduced, repeated questions, 'it' for living plants, videos with no address, and the safety lines, which now sit apart."
+ "playtest": "Walked through the unit as a parent and child in a Chennai-style flat with rai seeds, cups, tissue, soil, water and a torch. Fixed: the turning-cup schedule now adds up to its 27 minutes and the day-4 wording no longer tells the guess; the soil-glass check now sits on the bubbles step; the card game had only 15 need cards so a fourth player would be stuck, so it now has 25 written-out cards (4 of each need plus 5 troubles), a rule for a Trouble card when you hold nothing to give back, and 2 to 4 players; the torch game names what it needs and ends on the turned-pot card; the sprout project uses tissue or clean cocopeat, safe to eat; a worksheet question names cup A, a quiz question no longer repeats the game check, a warm-up no longer repeats a worksheet, and the warm-up on the tip now names the Darwins' grass; explanation cards were shortened for Class 2, and weak jokes replaced. Videos still have no checked address."
 }

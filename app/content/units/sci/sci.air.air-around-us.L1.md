@@ -26,7 +26,7 @@
 A room that looks empty is full of air. So is the space under your bed, inside a cupboard and inside an empty bottle. Air is made of tiny bits, far too small to see, and it wraps the whole Earth like a blanket.
 - e.g. A plastic bag swept under the bed comes out puffed up with air.
 - e.g. An empty bottle with no cap is full of air.
-- e.g. Mountain climbers on very high mountains carry air in cylinders to breathe, because the air up there is thin.
+- e.g. Mountain climbers on very high mountains carry extra oxygen in cylinders to breathe, because the air up there is thin.
 ### Why we cannot see air · *defined*
 **Definition:** Something is invisible when light goes straight through it, so nothing comes back to our eyes.
 
@@ -62,8 +62,8 @@ You breathe air in through your nose and mouth, and out again. You do it even wh
 - Humans and other animals need air to live, and plants take in air too. *How we know:* We breathe in and out all day and all night, even asleep. Scientists have seen the tiny holes in leaves that let air in and out.
 
 ## How we found out
-**John Tyndall and Lord Rayleigh in Britain, Jean Cabannes in France, and C. V. Raman and K. S. Krishnan in India, 1869 (Tyndall's tube), 1871 and 1899 (Rayleigh), 1915 (Cabannes), 1921 to 1928 (Raman and Krishnan in Kolkata).** Clean air is clear, so people long wondered why the sky is blue. Many thought the blue came from dust or tiny drops of water floating high up. In 1869 John Tyndall, a scientist in London, shone light through a glass tube with a fine mist in it, and the mist glowed blue. That seemed to fit. Lord Rayleigh, another British scientist, worked out that very tiny things send blue light off sideways much more than red light. In 1899 he showed that the tiny bits of air themselves are enough to make the sky blue, with no dust at all. In 1915 Jean Cabannes, in France, shone light through gas with all the dust cleaned out, and the gas still sent light sideways. In 1921 the Indian scientist C. V. Raman was on a ship to England. He looked at the blue sea and asked why it was blue. He worked out that water scatters blue light, as air does, so the sea is not only copying the sky. Back in Kolkata, he and his students shone light through clear liquids and gases for years. In 1928 Raman and K. S. Krishnan found a new kind of scattered light, now called the Raman effect. So when you look up at the blue sky, you are seeing air.  
-*What people believed before:* That clean air has no colour at all, and the sky's blue comes from dust or water drops. Rayleigh showed, and Cabannes saw in a dust-free tube, that the bits of air themselves send blue light our way.
+**Lord Rayleigh in Britain and C. V. Raman in India, 1871 and 1899 (Rayleigh), 1921 (Raman).** Clean air is clear, so people long wondered why the sky is blue. Many thought the blue came from dust or tiny drops of water high up. Lord Rayleigh, a scientist in Britain, worked out that very tiny things send blue light off sideways much more than red light. In 1899 he showed that the tiny bits of air themselves are enough to make the sky blue, with no dust at all. In 1921 the Indian scientist C. V. Raman was on a ship to England. He looked at the blue sea and asked if it was blue only because it copied the sky. Back in Kolkata, he and his students shone light through clear water and found that water sends blue light sideways too. So the sea is blue partly by itself. And when you look up at the blue sky, you are seeing air.  
+*What people believed before:* That clean air has no colour at all, and the sky's blue comes from dust or water drops. Rayleigh showed that the bits of air themselves send blue light our way.
 
 ## Challenging perspectives
 - **An empty bottle has nothing inside it.** (A very common idea, among children and grown-ups; *rejected*)  
@@ -191,7 +191,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   *Child mode:* Look at the hand-only cards. What are they all?
   - Check: All the cards on the hand-only mat are about one thing. What is it? → **Air**
 ### g2 · Cotton Ball Race: move it with air only (10 min)
-- **rules:** Put a line of tape or a chappal at the start, and another two big steps away for the finish.; Each player puts a cotton ball on the start line, in their own lane.; Move your cotton ball to the finish line using only air. Don't touch it with anything.; Count your waves, blows or squeezes. The fewest wins the round.; Play three rounds: a notebook fan, your breath, then a bag of air.; Whoever wins the most rounds is the champion. If you play with one other person, a tie is fine.
+- **rules:** Put a line of tape or a chappal at the start, and another two big steps away for the finish.; Each player puts a cotton ball on the start line, in their own lane.; Move your cotton ball to the finish line using only air. Don't touch it with anything.; Count your waves, blows or squeezes. The fewest wins the round.; Play three rounds: a notebook fan, your breath, then a bag of air (catch a bagful first, as in Catch the Air). If two players tie in a round, both win it.; Whoever wins the most rounds is the champion. If you play with one other person, a tie is fine.
 - **Printable score sheet: Race score sheet:** Player's name; Round 1: fan it with a notebook. How many waves?; Round 2: blow it. How many blows?; Round 3: puff it with a squeezed bag. How many squeezes?
 - **s1 (2 min)**  
   *Parent does:* Make the start and finish lines. Give each player a cotton ball and a notebook.  
@@ -212,7 +212,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 ### e1 · Catch the Air: is there air in every corner of our home? (25 min)
 - **question:** Is there air everywhere in our home, even in places that look empty, like under the bed or inside an empty bucket?
 - **predict:** Guess first. Will the bag catch air in every place? Is there any place with no air at all? Why do you think so?
-- **fair test:** We use the same bag every time. We open it the same way, sweep it once, and twist the neck three times. Only the place changes. First we squeeze the bag flat and twist it shut, to see what a bag with no air looks like.
+- **fair test:** We use the same bag every time. We open it the same way, scoop it in one big sweep, and twist the neck three times. Only the place changes. First we squeeze the bag flat and twist it shut, to see what a bag with no air looks like.
 - **safety:** Never put a plastic bag over anyone's head or face. After the experiment, put the bag away where small children cannot reach it.
 - **record:** The results table: six places, the guess for each, and a tick if the bag puffed up. Draw the fattest bag.
 - **results table:** Place | My guess: is there air here? Yes or no | Did the bag puff up? Yes or no | What did I feel when I squeezed it?
@@ -232,7 +232,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   *Parent does:* 1. Untwist the bag and open it wide. 2. In the first place, sweep the open bag through the air in one big scoop. 3. Twist the neck shut three times. 4. Look, then squeeze. 5. Mark the table. 6. Press the air out and go to the next place.  
   *Parent says:* Open the bag wide. Sweep it through, in one big scoop. Twist it shut. Did it puff up? Now the next place.  
   *Child mode:* Open the bag. Sweep it through. Twist it shut. Is it fat?
-  - Note: Under the bed: hold the bag open with both hands, push it under, and pull it out fast. In the cupboard and the bucket, scoop the bag right inside. If a bag is only half full, sweep again a little faster. Every place fills the bag.
+  - Note: Under the bed: hold the bag open with both hands, push it under, and pull it out fast. In the cupboard and the bucket, scoop the bag right inside. If a bag is only half full, scoop again, a little faster. Every place fills the bag.
 - **s4 (4 min)**  
   *Parent does:* 1. Catch one more bagful in the middle of the room. 2. Press the full bag gently on the table with both hands. 3. Hold the neck near your child's cheek, untwist it a little and squeeze slowly.  
   *Parent says:* Press the bag. Does it push back? Now close your eyes. I'll let the air out near your cheek. Tell me what you feel.  
@@ -329,8 +329,8 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 
 ## Projects
 ### p1 · My Air Book: three days (24 min, 3 days)
-- **record:** The finished air book, read aloud to a family member.
-- **schedule:** day 1: Make the book. On page 1, draw three places in your home where there is air. (8 min); day 2: Look out of the window. On page 2, draw three things that moving air pushes. (8 min); day 3: On page 3, draw three living beings that use air. Read your whole book to someone. (8 min)
+- **record:** The finished air book, shown to a family member and told page by page.
+- **schedule:** day 1: Make the book. On page 1, draw three places in your home where there is air. (8 min); day 2: Look out of the window. On page 2, draw three things that moving air pushes. (8 min); day 3: On page 3, draw three living beings that use air. Show your whole book to someone and tell them about each page. (8 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Fold and staple the book. 2. Your child writes or copies 'My Air Book' on the cover. 3. On page 1, they draw three places where there is air.  
   *Parent says:* Where did we find air? Draw three places on this page. Draw little dots to show the air.  
@@ -342,9 +342,9 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   - Note: Good things to spot: leaves, clothes on a line, a flag, a kite, smoke, dust, a bird gliding.
   - Wait: Do this the next day
 - **s3 (8 min)**  
-  *Parent does:* On page 3, your child draws three living beings that use air. Then they read the book aloud.  
-  *Parent says:* Who uses air? Draw three living beings. Then read your book to a family member.  
-  *Child mode:* Draw three living beings that use air. Read your book to someone.
+  *Parent does:* On page 3, your child draws three living beings that use air. Then they show the book and tell what is on each page.  
+  *Parent says:* Who uses air? Draw three living beings. Then show your book to a family member and tell them about each page.  
+  *Child mode:* Draw three living beings that use air. Show your book to someone.
   - Ask: Who did you draw? (good: Me, the cat and the tulsi plant.; A crow, because she breathes air.)
   - Wait: Do this the day after
 
@@ -441,9 +441,9 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 5. (mcq) Why do you feel air on your face when you run, but not when you sit still?  
    Options: Running moves you through the air, so it rushes against your skin / Running makes new air / Air only comes out when you run  
    **Answer:** Running moves you through the air, so it rushes against your skin. *Why:* The air is there all the time. When you run, you move through it, and it presses on your face.
-6. (mcq) Meera, a girl of six, thinks there is no air under her bed. What could she do to check?  
-   Options: Look under the bed for air / Sweep a bag under the bed and see if it puffs up / Ask a friend  
-   **Answer:** Sweep a bag under the bed and see if it puffs up. *Why:* We cannot see air, so looking won't work. A bag that puffs up shows the air was there.
+6. (mcq) You guess that a closed cupboard has no air. Then you test it, and the bag puffs up. What do you do with your guess?  
+   Options: Say it was right anyway / Say what you really saw, and change your guess / Test again until the bag stays flat  
+   **Answer:** Say what you really saw, and change your guess. *Why:* A test shows what is true, even when it is not what we guessed. A wrong guess is how we learn.
 7. (mcq) A tulsi plant grows on the balcony. How does air get into the plant?  
    Options: Through the flowers only / Plants never take in air / Through tiny holes in their leaves  
    **Answer:** Through tiny holes in their leaves. *Why:* Leaves have tiny holes, too small to see without a microscope. Air goes in and out through them.
@@ -487,7 +487,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - What is everywhere, but nobody has ever seen it? *Air!*
 - Why did the plastic bag go under the bed? *To catch some air down there.*
 - What did the air say to the fan? *Stop pushing me around!*
-- Why was the balloon so happy? *It was full of air and feeling light.*
+- What did the bag say when it was full of air? *I feel so puffed up!*
 - Why did the kite go to school? *To get a little higher.*
 - How does a bubble say goodbye? *Pop!*
 - What did the wind say to the clothes on the line? *Let's dance!*
@@ -499,7 +499,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - In the Cotton Ball Race, a girl called Nisha fanned her ball with a notebook and needed 7 waves. With a bag of air she needed only 4 squeezes. Which way needed fewer? How many fewer? **The bag of air needed fewer. It needed 3 fewer.**. 4 is less than 7. 7 take away 4 is 3. (queues `math.number-sense.comparing-ordering.L1`)
 
 ## Song
-I Can't See You, Air (sci.air.L1): Topic-level song for Air L1
+I Can't See You, Air (sci.air.L1): A short song about the air we cannot see.
 
 ## Links
 - [NASA Climate Kids](https://climatekids.nasa.gov/) · interactive: For the parent and child together: simple pictures and games about the air around the Earth and the weather.

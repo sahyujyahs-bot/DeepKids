@@ -303,7 +303,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Swap. Your child is the thinker, and you ask the questions. Think aloud about why you pick each question.",
-     "say": "Now you pick a thing. I'll ask. Hmm, I'll ask if it's alive first, because that rules out lots of things.",
+     "say": "Now you pick a thing. I'll ask. Hmm, I'll ask if it's soft first, because that rules out lots of things.",
      "kid": "Now you pick a secret thing. Say only yes or no.",
      "check": {
       "t": "mcq",
@@ -364,8 +364,8 @@
     "A player rolls the dice and turns over the top thing card. If the word and the thing do not fit together at all, roll again.",
     "The player asks a question about that thing, starting with the word on the dice. For example: WHY plus A crow makes 'Why do crows caw?'",
     "Everyone claps for every real question. There are no wrong questions. Put the card aside.",
-    "If nobody at home knows the answer, write the question down to find out later.",
-    "The game is won together. You win when all 12 thing cards have a question, and you have written down at least 3 questions to find out later."
+    "If nobody at home knows the answer, put a star next to the question on the paper, to find out later.",
+    "The game is won together. You win when all 12 thing cards have a question. Then pick the 3 questions you most want to find out later, and write them down."
    ],
    "setup": [
     {
@@ -388,7 +388,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Take turns to roll and turn a card. 2. Help your child make a question with the two. 3. Write down any question nobody can answer.",
+     "do": "1. Take turns to roll and turn a card. 2. Help your child make a question with the two. 3. Write each question on the paper. Star any that nobody can answer.",
      "say": "You rolled HOW, and the card says A seed. Can you make a question? How does a seed know which way is up?",
      "kid": "Roll the dice. Turn a card. Make a question with both.",
      "ask": [
@@ -405,19 +405,19 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Read back the questions nobody could answer. Choose one to find out about together later.",
-     "say": "These are the questions we could not answer. Which one shall we find out about first?",
+     "do": "Read back the starred questions. If none are starred, choose the 3 you most want to check. Pick one to find out about together later.",
+     "say": "These are the questions we want to find out about. Which one shall we try first?",
      "kid": "Pick one question to find out about later.",
      "check": {
       "t": "mcq",
-      "q": "Which one is a question?",
+      "q": "You rolled WHY and turned over the card Ice in a glass. Which is a good question to ask?",
       "options": [
-       "The fan goes round.",
-       "Why does the fan go round?",
-       "I like the fan."
+       "Ice is cold.",
+       "Why does ice get smaller in a glass?",
+       "I like ice."
       ],
       "a": 1,
-      "why": "A question asks something you want to find out. 'Why does the fan go round?' asks. The others tell."
+      "why": "A good question starts with the rolled word and asks about the thing. Now you can watch the ice and find out."
      }
     }
    ]
@@ -1057,7 +1057,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Out of sight, put 3 one-rupee coins in one dabba and shut it. 2. Read the problem to your child.",
+     "do": "1. Out of sight, put 3 one-rupee coins in one dabba and shut it. (Next time, try 1 or 6.) 2. Read the problem to your child.",
      "say": "There are some coins hidden in this dabba. It might be 1, or 3, or 6. Can you find out how many, without opening it?",
      "kid": "Some coins are hidden. How many? Don't open it."
     },
@@ -1527,15 +1527,11 @@
      "why": "Sound and movement tell you about number, hardness and shape. Colour can only be seen."
     },
     {
-     "t": "odd",
-     "p": "Which one is NOT a way to find out what is in a shut box?",
-     "opts": [
-      "Shake it and listen",
-      "Lift it and feel the weight",
-      "Guess with no clue at all"
-     ],
-     "a": 2,
-     "why": "A guess with no clue tells you nothing. Listening and lifting give real clues."
+     "t": "write",
+     "p": "A friend says, 'If you cannot see a thing, you cannot know what it is.' Say out loud what you would tell your friend, and a grown-up writes it.",
+     "lines": 2,
+     "a": "A strong answer uses the dabbas: we never saw inside, but sounds, weight and rolling told us. Opening the lid checked it.",
+     "why": "A strong answer uses the child's own experiment as evidence against the idea."
     }
    ]
   }
@@ -1605,12 +1601,12 @@
    "a": "They always follow the clues!"
   },
   {
-   "j": "Why did the question mark go to bed early?",
-   "a": "It had a busy day of wondering!"
+   "j": "Knock knock. Who is there? Dabba. Dabba who?",
+   "a": "Dabba-dabba-doo, please let me in, I can smell rice!"
   },
   {
-   "j": "Why did the elaichi pod go to school?",
-   "a": "To become a little more seed-ucated!"
+   "j": "Why did the ant shake the dabba?",
+   "a": "She wanted to know what was for lunch!"
   },
   {
    "j": "Why did the girl stare at the orange juice box?",
@@ -1645,7 +1641,7 @@
    "why_maths": "Comparing the numbers shows which questions were better at finding the answer."
   },
   {
-   "problem": "Kavya, a girl in Class 1, guessed what was in 3 shut dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled her?",
+   "problem": "Gauri, a girl in Class 1, guessed what was in 3 shut dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled her?",
    "answer": "1 guess was wrong. Maybe the cotton ball, because no sound made her think the dabba was empty.",
    "explain": "3 take away 2 leaves 1. A dabba with a cotton ball and an empty dabba both make almost no sound, so that clue could fool anyone.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1827,5 +1823,5 @@
   "when": "1929 to 1936",
   "wrong_idea": "The middle of the Earth is one big ball of liquid metal, with nothing different inside it."
  },
- "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. The Yes-or-No Detective and Question Dice games now have a clear end and a winner for 2 players, and work with no one but a parent and child. The Mystery Dabbas experiment now runs 20 minutes with a swap round, so the child hides things too, and the sound-alike dal and salt result is marked honestly. We took out assumed family members (Amma, Paati), unneeded safety lines, repeated exercises and one weak joke, and named every child where they first appear."
+ "playtest": "Walked through both games, the Mystery Dabbas experiment, the three activities, the Wonder Jar and the coin challenge as a parent and child in a flat; minutes, steps and schedules agree. Fixed: Question Dice now ends with a clear win for 2 or 4 players even if every question is answered; its check no longer repeats the question-or-statement exercise used elsewhere; the Yes-or-No Detective parent line now matches its check; a worksheet item that repeated the dabba-method question became a challenge to a friend's idea; the coin challenge says to vary the number; a repeated name was changed; two weak jokes were replaced. The three video slots still have no checked video id; the validator needs exactly three."
 }

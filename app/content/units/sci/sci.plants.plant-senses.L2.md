@@ -40,7 +40,7 @@ Inside a root tip are tiny heavy grains made of starch. They sink to the lowest 
 - e.g. A seed planted upside down still sends the root down and the shoot up.
 - e.g. A potted plant knocked onto their side slowly turns the shoot tips upwards again.
 ### How a touch-me-not folds their leaves · *defined*
-**Definition:** At the base of each leaflet is a small swelling full of water. A touch sends a signal through the leaf. Water moves quickly out of the cells on one side of each swelling, and the leaflets fold together.
+**Definition:** A touch-me-not folds when water moves out of the small swellings at the base of their leaflets.
 
 At the base of each leaflet is a small swelling that holds water. A touch starts an electrical signal that runs along the leaf. Water quickly moves out of the cells on one side of each swelling, and the leaflets fold in a second or two. After about a quarter of an hour, water moves back and the leaflets open again. Every night the leaves fold by themselves too.
 - e.g. A light touch on one leaflet folds a few pairs.
@@ -210,7 +210,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   - Note: The night pair and the wet soil pair fit none of the three groups; put them in the fourth group. The knocked-over pot goes with 'down'.
 ### g2 · Plant Says: a moving game (10 min)
 - **rules:** Players stand up. Hands held together above your head are your shoot. Your feet are your roots. Open arms are touch-me-not leaves.; The caller reads the front of a card aloud. Players move.; The caller then reads the back. Anyone who moved the wrong way, or too fast, sits down for the next card, then joins in again.; Light and gravity moves must be slow, counting to five, because most plants move by growing. Only the touch-me-not fold is fast.; Take turns being the caller.; The game ends when all 8 cards have been read. Everyone who moved the right way every time wins. Then swap, and play again.
-- **Printable cards: 8 caller cards:** The window is on your left. (back: Lean slowly to the left, counting to five.); The window is on your right. (back: Lean slowly to the right, counting to five.); Someone turned your pot round. (back: Slowly turn back to face the window.); You are lying on your side. (back: Point your feet, your roots, to the floor.); A finger touches your leaf. (back: Touch-me-not: fold your arms in fast!); Night time. (back: Touch-me-not: fold your arms and keep still.); Morning, and nobody has touched you for a while. (back: Open your arms slowly.); The Sun rises in the east. (back: Young sunflower: turn your face to the east wall.)
+- **Printable cards: 8 caller cards:** The window is on your left. (back: Lean slowly to the left, counting to five.); The window is on your right. (back: Lean slowly to the right, counting to five.); Someone turned your pot round. (back: Slowly turn back to face the window.); You are lying on your side. (back: Slowly curve your feet, your roots, round to point at the floor.); A finger touches your leaf. (back: Touch-me-not: fold your arms in fast!); Night time. (back: Touch-me-not: fold your arms and keep still.); Morning, and nobody has touched you for a while. (back: Open your arms slowly.); The Sun rises in the east. (back: Young sunflower: turn your face to the east wall.)
 - **s1 (2 min)**  
   *Parent does:* Read the rules aloud. Show the shoot, the roots and the touch-me-not arms.  
   *Parent says:* You are all plants. Your hands are your shoot and your feet are your roots. Most plant moves are slow.  
@@ -329,7 +329,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   - Note: Use a different leaf for each touch, because a leaf that has just folded needs time to open again.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child tries each touch on its own leaf, one at a time. 2. After each one, count the pairs of leaflets that folded. 3. Write the number down.  
-  *Parent says:* Blow gently from a hand away. Did any leaflets fold? Count the pairs. Now try the feather on the next leaf.  
+  *Parent says:* Blow gently from a hand's length away. Did any leaflets fold? Count the pairs. Now try the feather on the next leaf.  
   *Child mode:* Try one touch on one leaf. Count the pairs that fold. Write the number. Then try the next touch.
   - Ask: Did the folding stay where you touched, or did it travel? (good: It travelled along the leaf, pair after pair.; The next leaflets folded too, even though I did not touch them.)
   - Note: Many plants fold a lot for a fingertip and a drop of water, a little for a feather, and hardly at all for a gentle blow. Plants differ, so write down what yours really did. The folding running along the leaf shows a signal travelling.
@@ -431,7 +431,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 3. (truefalse) A root grows down even when the sprout is lying with the root pointing up.  
    **Answer:** True. *Why:* True. In the root box, the root that pointed up curved round and grew down.
 4. (match) Draw a line from what the plant sensed to what the plant did.  
-   **Answer:** Light from one side → the shoot bends towards it; Lying on their side → the root turns down; A finger touch → the touch-me-not folds; Night → the touch-me-not folds until morning. *Why:* Each response matches what the plant sensed: light, gravity, touch, or the dark of night.
+   **Answer:** Light from one side → the shoot bends towards it; A sprout lying on its side → the root turns down; A finger touch → the touch-me-not folds; Night → the touch-me-not folds until morning. *Why:* Each response matches what the plant sensed: light, gravity, touch, or the dark of night.
 5. (fill) A touch-me-not folds fast because ____ moves quickly out of cells at the base of each leaflet.  
    **Answer:** ['water']. *Why:* Plants without muscles can still move fast. Water leaving the cells makes the swelling soft, and the leaflets fold.
 6. (write) Say out loud, and a grown-up writes it down: we turned the cup round. Why did the shoots bend back towards the window?  
@@ -452,7 +452,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
    Options: Still to the left / Curved round, pointing down / Up, towards the light  
    **Answer:** Curved round, pointing down. *Why:* Roots grow in the direction gravity pulls, so the tip curves down. Picking 'up' mixes up roots with shoots.
 3. (sort) Sort these plant movements: fast (in seconds) or slow (hours or days).  
-   **Answer:** touch-me-not leaflets folding → Fast; moong shoot bending to a window → Slow; root curving down → Slow; Venus flytrap shutting on an insect → Fast; young sunflower turning from east to west → Slow. *Why:* Most plants move by growing, which is slow. A touch-me-not and a Venus flytrap move fast by moving water in their cells.
+   **Answer:** touch-me-not leaflets folding → Fast; moong shoot bending to a window → Slow; root curving down → Slow; Venus flytrap shutting on an insect → Fast; young sunflower turning from east to west → Slow. *Why:* Most plants move by growing, which is slow. A touch-me-not moves fast by moving water in their cells. A Venus flytrap also shuts in about a second.
 4. (write) Why might a touch-me-not fold their leaves when an animal brushes past? Give one idea.  
    **Answer:** A folded plant looks small and dry, so the animal may not eat them. Or the prickles show more.. *Why:* Nobody knows for sure. A strong answer gives one idea and a reason. Saying 'nobody knows for sure' is also a strong answer.
 5. (draw) Draw a moong shoot after one day by the window, then the same shoot one day after the cup was turned round.  
@@ -548,7 +548,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - Bottle gourd or bitter gourd on a terrace or a balcony grille, their tendrils coiled round the bars.
 
 ## Open questions
-- **Does a touch-me-not feel a touch, the way we feel one?** Plants feel touch and remember it. Scientists have measured the electrical signal a touch starts. Many still argue about what the plant experiences, because nobody can ask a plant.
+- **Does a touch-me-not feel a touch, the way we feel one?** Scientists have measured the electrical signal a touch starts. Many still argue about whether the plant feels it, because nobody can ask a plant.
 - **How exactly does the growth chemical know to move to the shady side of a shoot?** Scientists have found the light-sensing parts in the tip and the growth chemical, called auxin. How the light sends auxin to the shady side is still being studied.
 - **How do roots choose between gravity, water and a stone in the way, all at once?** Roots sense many things at the same time. How a root tip weighs them up and decides which way to grow is still being worked out.
 
@@ -573,7 +573,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 ## Connected maths
 - In the window test, 12 moong shoots came up. After a day by the window, 9 leaned to the glass and the rest stood straight. How many stood straight? Did most shoots lean? **3 stood straight. Yes, most leaned: 9 is far more than 3.**. 12 take away 9 is 3. 9 shoots leaned and only 3 did not, so most of them leaned. (queues `math.addition-subtraction.meaning.L2`)
 - Mala, a girl in Class 2, made a tally of leaflet pairs that folded. Fingertip: |||| |||. Feather: |||. Drop of water: ||||. Gentle blow: |. Which touch folded the most? How many more pairs than the feather? **The fingertip folded the most: 8 pairs. That is 5 more than the feather.**. The fingertip has 8 marks, the most. The feather has 3. 8 take away 3 is 5. (queues `math.data.sorting-and-tallies.L2`)
-- A moong root was 2 cm long, pointing up. The next day the root had grown 1 cm more, and the new part curved down. If the root keeps growing 1 cm a day, how long will the root be after 4 days in all? **6 cm.**. 2 cm to start, then 1 cm each day for 4 days: 2 + 1 + 1 + 1 + 1 = 6. (queues `math.length.standard-units-length.L2`)
+- A moong root is 2 cm long. It grows 1 cm every day. How long will the root be after 4 days? **6 cm.**. 2 cm to start, then 1 cm each day for 4 days: 2 + 1 + 1 + 1 + 1 = 6. (queues `math.length.standard-units-length.L2`)
 - In the turn-the-pot project, Keerthi, a girl in Class 2, counted the leaves facing the window: 2 on day 1, 5 on day 3, 8 on day 5. If the pattern goes on, how many will face the window on day 7? **11 leaves.**. The number goes up by 3 each time: 2, 5, 8, so next is 11. A real plant may slow down once nearly all the leaves face the light. (queues `math.patterns.number-patterns.L2`)
 
 ## Song

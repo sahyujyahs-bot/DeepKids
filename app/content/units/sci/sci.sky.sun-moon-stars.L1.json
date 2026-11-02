@@ -56,7 +56,7 @@
    "examples": [
     "In the ice test, the ice cube in the sunshine melted first.",
     "Clothes on a sunny balcony dry faster than clothes in the shade.",
-    "A crow sits in the morning sun with their feathers puffed out to get warm."
+    "A crow sits in the morning sun with puffed-out feathers to get warm."
    ],
    "perspectives": [],
    "art": "Two steel bowls on a floor: one in a sun patch with a small puddle and a tiny piece of ice, one in the shade with an ice cube still nearly whole."
@@ -98,7 +98,7 @@
    "examples": [
     "From a city balcony you may count only five or ten stars.",
     "Far from towns, in the Thar desert or the hills of Ladakh, the sky can be full of stars.",
-    "In the Window Star Count, more stars showed after the lights near the window were switched off."
+    "Switch off the lights near a window at night, and a few more stars show."
    ],
    "perspectives": [],
    "art": "Two night skies side by side: over a city of bright tall buildings only three stars, and over a dark village with small huts a sky full of stars."
@@ -176,7 +176,7 @@
    "\"Ajji!\" said Tara. \"The village has so many more stars than Bengaluru!\"",
    "Ajji smiled. \"It is the same sky, Tara. The same stars are over Bengaluru tonight. But the city has so many lights that the night air glows. The faint stars get hidden. Here it is dark, so we can see them all.\"",
    "Manu pointed at the Moon. It was a half Moon, high over the coconut trees. \"Is the Moon a big lamp?\" he asked.",
-   "\"No,\" said Ajji. \"The Moon makes no light of its own. The Sun shines on the Moon, the way the bulb shines on your steel tumbler. The Moon sends some of that sunlight down to us.\"",
+   "\"No,\" said Ajji. \"The Moon makes no light of its own. The Sun shines on the Moon, the way a lamp shines on your steel tumbler. The Moon sends some of that sunlight down to us.\"",
    "The next morning, Tara ran up to the roof. The sky was bright blue. There was not a single star.",
    "\"Ajji, where did the stars go?\" she called.",
    "Ajji came up with a small torch and a piece of cardboard. She fixed the cardboard over the front of the torch with a rubber band. She poked one tiny hole in it with a pencil point, and taped a bit of thin paper over the hole.",
@@ -190,7 +190,7 @@
    "Back in Bengaluru, on the first night home, Tara stood on the balcony. She counted four stars. Then she switched off the balcony light and waited. She counted six.",
    "\"The others are there too,\" she told Manu. \"They are just hidden.\""
   ],
-  "epiphany": "For the parent: Tara finds that the stars never go away. The bright day sky hides them, and city lights hide the faint ones at night. On the way she also feels that sunshine brings heat, and learns from Ajji that the Moon shines only with the Sun's light.",
+  "epiphany": "Tara finds that the stars never go away. The bright day sky hides them, and city lights hide the faint ones at night. On the way she also feels that sunshine brings heat, and learns from Ajji that the Moon shines only with the Sun's light.",
   "ask": [
    "Why was the mat in the sunshine warm, and the floor inside cool?",
    "Why could Tara see so many more stars from Ajji's roof?",
@@ -812,7 +812,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "14 sky cards",
+     "title": "13 sky cards",
      "items": [
       {
        "f": "The Sun, shining",
@@ -865,26 +865,22 @@
       {
        "f": "Fireflies flashing",
        "b": "NIGHT. Fireflies make their own light. We see it best in the dark."
-      },
-      {
-       "f": "A sunflower turned towards the Sun",
-       "b": "DAY. Young sunflowers turn to face the Sun as it moves."
       }
      ]
     }
    ],
    "rules": [
-    "Mix the 14 cards and put them in a pile, face down.",
+    "Mix the 13 cards and put them in a pile, face down.",
     "Make three places on the floor: a yellow paper for DAY, a dark paper for NIGHT, and a place in the middle for BOTH.",
     "Players take turns. On your turn, take the top card. A grown-up reads the front out.",
     "Put it on DAY, NIGHT or BOTH, and say why.",
     "A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.",
-    "When all 14 cards are sorted, count the cards each player kept. Play again to keep more.",
+    "When all 13 cards are sorted, count the cards each player kept. The player with the most cards wins. With one child, try to beat your last count. Play again to keep more.",
     "At the end, talk about the stars card: are the stars in the sky in the day?"
    ],
    "setup": [
     {
-     "art": "Fourteen cards in a pile on the floor, with a yellow paper, a dark blue paper, and a space in the middle between them.",
+     "art": "Thirteen cards in a pile on the floor, with a yellow paper, a dark blue paper, and a space in the middle between them.",
      "caption": "1. Put out a yellow paper, a dark paper and a space for both."
     },
     {
@@ -903,7 +899,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Play through all 14 cards. Read each front, wait for your child's choice and reason, then read the back.",
+     "do": "Play through all 13 cards. Read each front, wait for your child's choice and reason, then read the back.",
      "say": "Many twinkling stars. Day, night or both? Why? Let's turn it over.",
      "kid": "Read the card. Day, night or both? Why? Turn it over.",
      "parent": "The stars and the Moon cards are the tricky ones. Remind your child of the torch star test if they have done it."
@@ -1298,11 +1294,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw the torch star by the bright window, and the torch star in the dark room. Show how bright it looked each time.",
-     "a": "A tiny faint dot by the window, and a bright, clear dot in the dark room.",
-     "why": "A strong drawing shows the same star looking faint in the bright place and bright in the dark place.",
-     "how": "e1",
-     "art": "Two empty boxes side by side, one labelled with a sunny window, one labelled with a closed dark door."
+     "p": "Draw yourself on a hot day. Show where the sunshine falls and where the shade is. Colour the place you would sit to stay cool.",
+     "a": "A drawing with sunshine on one side and shade on the other, and the child sitting in the shade.",
+     "why": "A strong drawing shows shade where something blocks the sunlight, and sunshine where it does not.",
+     "art": "An empty box with a tree, a wall and a sunny patch of ground, ready for the child to draw in."
     },
     {
      "t": "match",
@@ -1727,7 +1722,7 @@
   },
   {
    "j": "Why did the Sun not go to college?",
-   "a": "It already had millions of degrees!"
+   "a": "The Sun already had millions of degrees!"
   },
   {
    "j": "What did the shade say to the sunshine?",
@@ -1747,7 +1742,7 @@
   },
   {
    "j": "Why did the Moon skip dinner?",
-   "a": "It was already full!"
+   "a": "The Moon was already full!"
   }
  ],
  "maths": [
@@ -1778,7 +1773,7 @@
    "why_maths": "Spotting the pattern lets us say what comes next without looking."
   },
   {
-   "problem": "Nila, a girl in Class 1, played the sorting game. She put 5 cards on DAY, 6 on NIGHT and 3 on BOTH. Which pile had the most cards? Nila says, 'So there are more things in the night sky than in the day sky.' Is she right?",
+   "problem": "Nila, a girl in Class 1, played the sorting game. She put 5 cards on DAY, 6 on NIGHT and 2 on BOTH. Which pile had the most cards? Nila says, 'So there are more things in the night sky than in the day sky.' Is she right?",
    "answer": "NIGHT had the most. But the stars are in the day sky too, just hidden, so the night pile is only what we can see.",
    "explain": "6 is more than 5 and more than 3, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1907,7 +1902,7 @@
  },
  "how_we_found_out": {
   "story": "For a long time, many people thought the stars went away in the daytime, or only came out at night. But people who watched a total eclipse of the Sun saw something strange. For a few minutes, the Moon covered the whole Sun. The sky went dark in the middle of the day, and bright stars and planets appeared. They had been there all along. One person who travelled far to see an eclipse was Annie Maunder, an astronomer from Ireland. In January 1898 she came to India, to a village called Talni, where the eclipse could be seen. She carried a small camera, bought with a little money from her old college. When the Moon covered the Sun, she photographed the Sun's faint outer glow, which can be seen only in an eclipse. Her picture showed a streamer of glow longer than anyone had photographed before. For many years, her pictures were often printed with her husband's name instead of hers. Today big telescopes can find bright stars even in the daytime sky.",
-  "who": "Annie Maunder, an astronomer from Ireland, who photographed the eclipse of 22 January 1898 from Talni in India",
+  "who": "Annie Maunder, an astronomer from Ireland",
   "when": "22 January 1898",
   "wrong_idea": "People thought the stars went away in the daytime. Total eclipses of the Sun showed that when the Sun's light is blocked, the stars can be seen at midday, so they are there all the time."
  },
@@ -1926,10 +1921,10 @@
    "summary",
    "terms",
    "e1",
+   "e2",
    "explanations",
    "story",
    "g1",
-   "e2",
    "ws-core",
    "a2",
    "a3",
@@ -1974,5 +1969,5 @@
    "The Sun is about 150 million km from the Earth, and sunlight takes about 8 minutes 20 seconds to reach us. The Hanle Dark Sky Reserve in Ladakh was set up in 2022 around the Indian Astronomical Observatory."
   ]
  },
- "playtest": "Walked through every step of the torch star and ice experiments, the three activities, the sorting and moving games, the sky book project and the ice challenge, as a parent and a 6-year-old in a flat. Fixed the moving game, which needed a third person to be the Sun; a paper Sun on the wall now works with 2 players, and the caller reads the move before anyone does it. Gave the sorting game turns and a score, made the torch test safer to set up, sorted out duplicate questions across the worksheets and quiz, and introduced every made-up child at first mention. Removed family members from the art, a wrong Both answer on the light and heat sort, and the repeated drawing, jokes and questions."
+ "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and a 6-year-old in a flat; step minutes, schedules and checks agree. Fixed the sorting game, whose 14 cards did not match the maths question (now 13 cards, 5 day, 6 night, 2 both) and which had no winner. Moved the ice test before the explanation that uses it, replaced a worksheet drawing that repeated the torch test record, removed an explanation example pointing at a later activity, left the three video placeholders (no checked ids yet; the validator needs three), fixed the story lamp, the Maunder heading, a doubled parent note, and \"it\" for the Sun and Moon in jokes."
 }

@@ -22,28 +22,28 @@
 ### The Moon seems to follow you because it is very far away · *defined*
 **Definition:** When you move, near things seem to slide past you, and far things hardly seem to move. The Moon is so far away that it seems to stay in the same place, so it looks as if it comes along with you.
 
-In the window strip test, the paper strips on the glass slid past the Moon when you walked. A far building slid a little. The Moon stayed in the same place. The strips were near you, so a few steps changed where you saw them a lot. The Moon is about 3,84,000 kilometres away. If a car could drive there without stopping, the trip would take more than six months. So your few steps make almost no difference to where you see it. That is why the Moon seems to follow everyone, everywhere, at the same time.
+In the window strip test, the paper strips slid past the Moon when you walked. A far building slid a little, and the Moon stayed in the same place. The Moon is about 3,84,000 kilometres away, so a few steps make almost no difference to where you see it.
 - e.g. In the window strip test, the paper strips slid past, and the Moon stayed put.
 - e.g. From a moving train, the poles by the track flash past, far hills move slowly, and the Moon seems to keep up.
 - e.g. In the tumbler test, the near tumbler jumped across the far wall when you took two steps.
 ### The Moon and the planets shine with sunlight · *defined*
 **Definition:** The Moon and the planets make no light of their own. We see them because sunlight falls on them and bounces off into our eyes.
 
-The Moon is a ball of grey rock. At night, the Sun is shining on the other side of the Earth. Its light still reaches the Moon, high above us, and bounces off it to us. The planets shine in the same way. Venus, Jupiter, Mars and Saturn can all look like bright stars. But the light we see from them started at the Sun.
+The Moon is a ball of grey rock. At night the Sun is shining on the other side of the Earth, but its light still reaches the Moon and bounces off it to us. Venus, Jupiter, Mars and Saturn shine in the same way.
 - e.g. The bright side of the Moon always faces the Sun.
 - e.g. Venus shines brightly just after sunset, lit by the Sun that has just gone down.
 - e.g. A steel plate in a dark room cannot be seen, but shines when a torch falls on it. The Moon is like the plate, and the Sun is like the torch.
 ### The stars are faraway suns, in different colours · *defined*
 **Definition:** Every star is a sun, a huge ball of very hot gas that makes its own light. Stars look like tiny dots because they are very far away.
 
-The Sun is our nearest star. The other stars are so far away that their light takes years to reach us. Look closely, and bright stars have colours. Some look reddish orange, and some look bluish white. The colour shows how hot a star is. Reddish stars are the coolest stars, and bluish white stars are the hottest.
+The Sun is our nearest star. The other stars are so far away that their light takes years to reach us. Bright stars have colours: reddish stars are the coolest, and bluish white stars are the hottest.
 - e.g. Thiruvathirai, also called Ardra, is a bright reddish orange star in the winter evening sky.
 - e.g. Sirius, the brightest star at night, looks bluish white and often twinkles in many colours when low.
 - e.g. A gas flame is blue where it is hottest, and a dying coal glows red.
 ### Stars twinkle, and planets usually shine steadily · *defined*
 **Definition:** Starlight flickers because the moving air above us bends it this way and that. Planets usually shine more steadily.
 
-Light from the sky passes through a thick blanket of air before it reaches us. The air is always moving, so it wobbles the light. A star is so far away that its light comes from one tiny point, so the wobble makes it flicker. A planet is much nearer. Its light comes from a tiny round patch, not one point, so the wobbles mostly cancel out. So a bright dot that shines without twinkling is often a planet. Planets also wander slowly among the stars from week to week.
+Starlight passes through a thick blanket of moving air before it reaches us, and the air wobbles it. A star is so far away that its light is one tiny point, so the wobble makes it flicker. A planet shows a tiny round patch, so the wobbles mostly cancel out. Planets also wander slowly among the stars from week to week.
 - e.g. Stars low down near the rooftops twinkle more, because their light passes through more air.
 - e.g. Jupiter usually shines steadily, like a calm lamp.
 - e.g. Astronauts in space see the stars shine steadily, with no twinkle.
@@ -77,7 +77,7 @@ We have walked past a window and watched the Moon stay put while the paper strip
 
 - *who am i:* You are one of millions of people looking up at the same Moon tonight. Where you stand changes what is near you, but not the Moon.
 - *what is life:* Many living beings use the night sky. A dung beetle rolls straight by the Milky Way, birds fly by the stars at night, and you find the Moon from your window.
-- *what is this world:* The world is much bigger than it looks. The Moon seems to sit on the rooftops, but it is more than six months' drive away.
+- *what is this world:* The world is much bigger than it looks. The Moon seems to sit just above the rooftops, but it is much farther than any building or hill.
 
 There is one Moon. Tonight it shines in the window of every home that faces it, from Kochi to Kohima. Each child sees it from their own place, and each thinks it came along with them. Everything is aware in its own way, the Moon too. Many scientists disagree: they say only living beings with nerves are aware.
 
@@ -169,8 +169,8 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 
 ## Games
 ### g1 · Moon, Star, Planet or Plane? A sorting card game (10 min)
-- **rules:** Mix the 16 cards and put them in a pile, face down.; Lay four papers on the floor: MOON, STAR, PLANET and OTHER. Draw a Moon, a twinkling star, a steady dot and an aeroplane on them.; Players take turns. On your turn, a grown-up reads the front of the top card.; Put the card on the paper you think is right, and say why.; Turn the card over and read the back. If the paper is right, keep the card. If not, put it to one side.; When the pile is finished, count your cards. With two or more children, the most cards wins. With one child, the goal is 12 cards or more.
-- **Printable cards: 16 sky cards:** A big round light that changes shape over the month (back: MOON paper. It shines with sunlight.); A dot that twinkles and shivers (back: STAR paper. Stars make their own light.); A very bright dot, steady, low in the west just after sunset (back: PLANET paper. Probably Venus, shining with sunlight.); A light that moves across the sky and blinks red and green (back: OTHER paper. It is an aeroplane, with its own lamps.); A thin curved shape like a fingernail, just after sunset (back: MOON paper. A thin crescent Moon.); A bright steady dot that slowly changes its place among the stars over many weeks (back: PLANET paper. Planets wander among the stars.); Seven stars in the shape of a ladle (back: STAR paper. These stars are the Saptarishi.); The biggest, brightest light, seen only in the day (back: STAR paper. The Sun is our nearest star. Never look straight at it.); A pale, rocky ball you can sometimes see in the daytime sky (back: MOON paper. The Moon is often up in the day too.); A steady dot that glides smoothly across the sky in a few minutes, with no blinking (back: OTHER paper. It is the space station, with people living in it. It shines with sunlight, like a planet.); A tiny dot that looks reddish and steady (back: PLANET paper. It may be Mars.); A streak of light that flashes across the sky in one second (back: OTHER paper. A shooting star is really a tiny grain of space dust burning up in the air. It is not a star.); A bright dot that twinkles in many colours, very low near the rooftops (back: STAR paper. Low stars twinkle the most.); A round, lit face with grey patches on it (back: MOON paper. The grey patches are flat plains of old rock.); A very bright, steady dot high up at midnight (back: PLANET paper. Maybe Jupiter, Saturn or Mars. Venus is never up at midnight.); A red light on top of a tall tower that blinks but never moves (back: OTHER paper. It is a warning lamp on a tower, for aeroplanes. It is not in the sky.)
+- **rules:** Mix the 16 cards and put them in a pile, face down.; Lay four papers on the floor: MOON, STAR, PLANET and OTHER. Draw a Moon, a twinkling star, a steady dot and an aeroplane on them.; Players take turns. On your turn, a grown-up reads the front of the top card.; Put the card on the paper you think is right, and say why.; Turn the card over and read the back. If the paper is right, keep the card. If not, put it to one side.; When the pile is finished, count your cards. With two or more children, the most cards wins, and a tie is a shared win. With one child, the goal is 12 cards or more.
+- **Printable cards: 16 sky cards:** A big round light that changes shape over the month (back: MOON paper. It shines with sunlight.); A dot that twinkles and shivers (back: STAR paper. Stars make their own light.); A very bright dot, steady, low in the west just after sunset (back: PLANET paper. Probably Venus, shining with sunlight.); A light that moves across the sky and blinks red and green (back: OTHER paper. It is an aeroplane, with its own lamps.); A thin curved shape like a fingernail, just after sunset (back: MOON paper. A thin crescent Moon.); A bright steady dot that slowly changes its place among the stars over many weeks (back: PLANET paper. Planets wander among the stars.); Seven stars in the shape of a ladle (back: STAR paper. These stars are the Saptarishi.); The biggest, brightest light, seen only in the day (back: STAR paper. The Sun is our nearest star. Never look straight at it.); A pale, rocky ball you can sometimes see in the daytime sky (back: MOON paper. The Moon is often up in the day too.); A steady dot that glides smoothly across the sky in a few minutes, with no blinking (back: OTHER paper. It is the space station, with people living in it. It shines with sunlight, like a planet.); A tiny dot that looks reddish and steady (back: PLANET paper. It may be Mars.); A streak of light that flashes across the sky in one second (back: OTHER paper. A shooting star is really a tiny grain of space dust burning up in the air. It is not a star.); A bright dot that twinkles in many colours, very low near the rooftops (back: STAR paper. Low stars twinkle the most.); A round, lit face with grey patches on it (back: MOON paper. You can see these grey patches with your eyes alone.); A very bright, steady dot high up at midnight (back: PLANET paper. Maybe Jupiter, Saturn or Mars. Venus is never up at midnight.); A red light on top of a tall tower that blinks but never moves (back: OTHER paper. It is a warning lamp on a tower, for aeroplanes. It is not in the sky.)
 - **s1 (1 min)**  
   *Parent does:* Lay out the four papers. Read the rules together.  
   *Parent says:* Each card tells you about a light in the sky. You say if it is the Moon, a star, a planet or something else.  
@@ -181,7 +181,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
   *Child mode:* Listen. Which paper? Why? Turn it over and check.
   - Note: The tricky cards are the steady dots, the space station and the shooting star. Ask: does it twinkle? Does it move? Does it make its own light?
 - **s3 (2 min)**  
-  *Parent does:* Look at one MOON card and one PLANET card together.  
+  *Parent does:* Find the red tower lamp card and read it again.  
   *Parent says:* A red light blinks on a tall tower, but it never moves. Is it a star in the sky?  
   *Child mode:* A red light blinks on a tower and never moves. Is it a star?
   - Check: A red light blinks on top of a tall tower and never moves. Is it a star? → **No, it is a lamp on the tower**
@@ -196,10 +196,10 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
   *Parent does:* Play. Call the cards in any order, faster and faster.  
   *Parent says:* Planet! Moon! Star! Hot air! Who shivers the most?  
   *Child mode:* Listen for the call. Do the move fast!
-  - Note: At HOT AIR, ask: why do stars shiver more than planets? A star's light comes from one tiny point, so moving air shakes it more. At MOON, walk round the Moon player. The Moon player's arms keep pointing the same way, as the real Moon seems to stay put.
+  - Note: At HOT AIR, ask: why do stars shiver more than planets? A star's light comes from one tiny point, so moving air shakes it more. At MOON, walk round the Moon player. The Moon player stands still, as the real Moon seems to stay put when we move.
 - **s3 (1 min)**  
   *Parent does:* End with one question.  
-  *Parent says:* When you walked round the Moon player, her arms kept pointing the same way. What does that remind you of?  
+  *Parent says:* When you walked round the Moon player, the Moon player stood still. What does that remind you of?  
   *Child mode:* The Moon player stood still while we walked round. What does that remind you of?
   - Ask: What does the Moon player standing still remind you of? (good: The Moon seems to stay in the same place when we move.; The Moon looks the same to everyone.)
 
@@ -248,7 +248,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - **record:** Draw the small light with straight lines when the tawa was cold, and with wiggly lines when it was hot.
 - **results table:** When I looked | Did the small light stay steady or shiver?
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Stand the phone on books, a forearm's length behind the tawa, with its torch on. 2. Your child stands two big steps back. 3. They crouch so their eyes are at tawa height.  
+  *Parent does:* 1. Stand the phone on the steel box, a forearm's length behind the tawa, with its torch on. 2. Your child stands two big steps back. 3. They crouch so their eyes are at tawa height.  
   *Parent says:* Look across the tawa at the little light. Is it steady, or does it shiver?  
   *Child mode:* Crouch down. Look across the tawa at the little light. Is it steady?
   - Note: The tawa is still cold. The light should look steady. Point the torch at the ceiling or the wall, not into your child's eyes.
@@ -304,8 +304,8 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 ### a3 · Roll Like a Dung Beetle (10 min)
 - **s1 (2 min)**  
   *Parent does:* Tell your child about the dung beetle.  
-  *Parent says:* In Africa, a dung beetle rolls a ball of dung away to eat. At night, she rolls it in a straight line. Scientists found she watches the sky to do it.  
-  *Child mode:* A dung beetle rolls a ball at night. She keeps a straight line. She watches the sky.
+  *Parent says:* In Africa, a dung beetle rolls a ball of dung away to eat. At night, the beetle rolls it in a straight line. Scientists found the beetle watches the sky to do it.  
+  *Child mode:* A dung beetle rolls a ball at night. The beetle keeps a straight line by watching the sky.
 - **s2 (3 min)**  
   *Parent does:* 1. Put the lit torch on a stool at the far end of the room. 2. Your child pushes the paper ball towards it on hands and knees, eyes open.  
   *Parent says:* Push your ball towards the light, like a beetle. Keep your eyes on the light.  
@@ -349,11 +349,11 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - **problem:** Revathi, a girl in Class 1, has a grandfather. He says the Moon follows his scooter all the way home. Revathi wants to show him, at home, why the Moon only seems to follow him. How can she do it?
 - **your turn:** Choose one idea and show it to a grown-up. Did they see why the Moon only seems to follow us? What would you change to make it clearer?
 - **constraints:** Use only things you already have at home.; Do it inside the flat, or at a window.; The grandfather must be able to see it for himself, not just hear it.
-- **general:** Do the window strip test with him: near strips slide past, and the Moon stays put.; Ask him to watch the lamp posts and the Moon on his next scooter ride home.; Phone someone in another town and ask them where their Moon is.
+- **general:** Do the window strip test with him: near strips slide past, and the Moon stays put.; Ask him to watch the lamp posts and the Moon from the seat of a bus or car, when someone else is driving.; Phone someone in another town and ask them where their Moon is.
 - **creative:** Put a torch on a stool at the far end of a long corridor as a pretend Moon. Walk past near things and watch the torch stay put.; Ask him to point at the Moon from one end of the balcony, then from the other end. His arm points the same way both times.; Make a little play: one person is a lamp post, one walks past like the scooter, and a far wall is the Moon.
 - **s1 (2 min)**  
   *Parent does:* Read the problem to your child. Ask what they could show the grown-up.  
-  *Parent says:* Revathi's grandfather thinks the Moon follows his scooter. How could you show him why it only seems to?  
+  *Parent says:* A grandfather thinks the Moon follows his scooter. How could you show him why it only seems to?  
   *Child mode:* A grandfather thinks the Moon follows his scooter. How could you show him?
   - Ask: What could you show him? (good: The window strip test.; The tumbler and the far wall.; Phoning someone far away.)
 - **s2 (8 min)**  
@@ -376,14 +376,13 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 3. (truefalse) Stars twinkle because they blink on and off by themselves.  
    **Answer:** False. *Why:* False. A steady light shivers when it shines through moving warm air, as the hot tawa test shows. The moving air above us makes starlight shiver in the same way.
 4. (draw) Draw the Moon as you saw it from your window. Shade in its dark patches.  
-   **Answer:** The Moon's shape that night, with grey patches shaded in.. *Why:* A strong drawing shows the shape the child really saw, and the dark patches, which are plains of old dark rock.
+   **Answer:** The Moon's shape that night, with grey patches shaded in.. *Why:* A strong drawing shows the shape the child really saw, with the dark patches shaded.
 5. (match) Draw a line from what you see to what it is.  
    **Answer:** A dot that twinkles → A star; A bright dot that shines steadily → A planet; A light that moves and blinks red and green → An aeroplane; A big round light with grey patches → The Moon. *Why:* Stars usually twinkle. Planets usually shine steadily. Aeroplanes move and blink. The Moon is big and round, with grey patches of rock.
-6. (odd) Three of these make their own light. Which one does not? Circle it.  
-   Options: The Sun / A star / The Moon / A diya flame  
-   **Answer:** 2. *Why:* The Moon makes no light of its own. It shines because sunlight falls on it. The Sun, the star and the diya flame all make their own light.
-7. (write) Say out loud, and a grown-up writes it down: why did the Moon seem to come along with the bus?  
-   **Answer:** The Moon is very, very far away. Near things like lamp posts slide past, but the bus ride hardly changes where the Moon is. So it seems to stay with us.. *Why:* A strong answer says that the Moon is very far away, and compares it with near things that slide past.
+6. (draw) Draw the window, one paper strip on the glass, and the Moon. Then draw where the strip looks to be after you walk to the other slipper. Draw an arrow for the way it slid.  
+   **Answer:** The strip drawn in two places with an arrow between them, and the Moon in the same place both times.. *Why:* A strong drawing shows the near strip changing place and the far Moon staying where it is.
+7. (write) Say out loud, and a grown-up writes it down: a train rushes past. The poles by the track, the far hills and the Moon are all outside the window. Which one seems to move fastest, and which hardly moves? Why?  
+   **Answer:** The poles seem to rush past, the far hills move slowly, and the Moon hardly moves. Near things change place the most, and the Moon is the farthest.. *Why:* A strong answer puts the poles, hills and Moon in order of how near they are, and says near things seem to move more.
 8. (perspective) Three people are looking at the Moon. They have different ideas about whether the Moon is a light.  
    **Answer:** Any choice with a good reason. Farhana is right that moonlight helps us see. Meenakshi is right that the Moon makes no light of its own. Ammamma joins both ideas.. *Why:* A strong answer gives a reason, and fairly says what is good about another view. Moonlight is real light that helps us see, and it all started at the Sun.
 9. (label) Look at this night sky. A grown-up points to each thing. Say what it is, and the grown-up writes it.  
@@ -396,8 +395,8 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 2. (mcq) Nila, a girl in Class 1, walks past her window, and the paper strips slide past the Moon. Then she walks across the road to a far building and looks again. Where is the Moon?  
    Options: Still in the same place in the sky / Left behind at the window / Much bigger  
    **Answer:** Still in the same place in the sky. *Why:* The Moon is so far that walking to the next building hardly changes where it is. That is why it seems to follow you everywhere.
-3. (write) Say out loud, and a grown-up writes it down: the Moon makes no light. So how can we see it at night?  
-   **Answer:** The Sun is still shining on the other side of the Earth. The Sun's light reaches the Moon and bounces off it into our eyes.. *Why:* A strong answer says that the light comes from the Sun and bounces off the Moon to us.
+3. (write) Say out loud, and a grown-up writes it down: there is almost no air on the Moon. If you stood there, would the stars twinkle? Why?  
+   **Answer:** No. Twinkling comes from moving air, and the Moon has almost no air, so the stars would shine steadily.. *Why:* A strong answer says twinkling comes from moving air, and so a place with almost no air has no twinkling.
 4. (draw) Draw the Sun, the Moon and you. Draw arrows to show how sunlight travels until you see the Moon.  
    **Answer:** An arrow from the Sun to the Moon, and an arrow from the Moon to the child's eyes.. *Why:* A strong drawing shows the light starting at the Sun, landing on the Moon and bouncing to the child.
 5. (write) Your friend says, 'The stars are tiny, as small as glitter.' Say out loud what you would tell her, and a grown-up writes it.  
@@ -416,7 +415,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
    **Answer:** The window strip test → Near things slide past, and the far Moon stays put; The hot tawa test → Moving warm air makes a steady light shiver; Rolling a ball with your eyes shut → Beetles and people need to see the sky to go straight. *Why:* Each test shows one idea from this unit: how far away the Moon is, why stars twinkle, and why a dung beetle watches the sky.
 
 ## Videos
-- **A dung beetle rolling her ball by the light of the Milky Way** (, 3 min) id `to find`: Shows the real beetles that Marie Dacke's team studied, rolling straight under the stars. *Check:* Find a clip from Lund University, the University of the Witwatersrand or a nature channel about the 2013 Milky Way study. Check that it shows real beetles, not animation.
+- **A dung beetle rolling a ball by the light of the Milky Way** (, 3 min) id `to find`: Shows the real beetles that Marie Dacke's team studied, rolling straight under the stars. *Check:* Find a clip from Lund University, the University of the Witwatersrand or a nature channel about the 2013 Milky Way study. Check that it shows real beetles, not animation.
 - **The Moon seen through a telescope: craters and dark plains** (, 2 min) id `to find`: Shows that the Moon is grey rock, lit by the Sun, with no light of its own. *Check:* Find a real telescope video of the Moon from an observatory, a planetarium or an amateur astronomer. Check it says the Moon shines with sunlight.
 - **Chandrayaan-3 landing near the Moon's south pole** (, 3 min) id `to find`: Shows Indian scientists landing on the Moon on 23 August 2023, and real pictures of the Moon's rocky ground. *Check:* Find ISRO's own video of the landing or of the pictures sent back. Check it is short and from ISRO or a news channel.
 
@@ -488,7 +487,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - What do stars do in the daytime? *They play hide and seek with the Sun!*
 - Why did the aeroplane blink at the star? *It wanted to look like a star too!*
 - What did the Sun say to the Moon? *Don't worry, I'll light you up!*
-- Why did Venus come out before all the stars? *It wanted the best seat in the sky!*
+- Why did the cow go to space? *To see the Milky Way!*
 - What kind of music do planets sing? *Nep-tunes!*
 - How do you throw a party in space? *You planet!*
 

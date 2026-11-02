@@ -17,7 +17,7 @@
 - **Curious**: Being curious means wanting to know more about something. A curious person asks lots of questions. *e.g.* Meenakshi, a girl in this unit's story, was curious about why the haldi stain went red, so she asked her grandmother.
 - **Scientist**: A scientist is a person who finds out how the world works. They look closely, ask questions and test their ideas. *e.g.* Tu Youyou was a scientist in China. She found a new medicine for malaria.
 - **Discovery**: A discovery is finding out something about the world that people did not know before. *e.g.* Finding out that soap turns haldi red was a discovery for you.
-- **Test**: A test is a way to find out if your guess is right. You try it and see what happens. *e.g.* You guessed lemon would turn haldi red. You tested it, and it stayed yellow.
+- **Test**: A test is a way to find out if your guess is right. You try it and see what happens. *e.g.* You guess that lemon will turn haldi red. You try it, and it stays yellow.
 
 ## Explanations
 ### What a scientist does · *idea*
@@ -78,7 +78,7 @@ We have tested haldi in our kitchen and heard about curious people from India an
 - *what is life:* Every living being explores. A baby tests a surprising toy, a crow pokes at something new, and a plant's roots search the soil for water.
 - *what is this world:* The world is full of things nobody has asked about yet. Even your kitchen holds answers waiting for a question.
 
-A baby tests a toy that surprised them. A crow turns over something new. An ant tries a new path. Many living beings explore the world around them. Scientists still disagree about how much each of them wonders. People are animals too, and our questions are one kind of exploring among many.
+A baby tests a toy that surprised them. A crow turns over something new. An ant tries a new path. Many living beings explore the world around them. Scientists still disagree about how much each of them wonders. Everything is conscious, and thinking is not only done by brains. People are animals too, and our questions are one kind of exploring among many.
 
 - **Plato, Theaetetus 155d:** Socrates, a thinker in ancient Greece, said that wonder is the feeling of a philosopher, a lover of wisdom. He said philosophy has no other beginning than wonder. (Your haldi test began with wonder: why did the stain go red? The wondering came first, and the test came next.)
 - **Kena Upanishad 1.1:** This old Indian teaching begins with a question: 'By whom is the mind sent out?' It is even named after its first word, 'kena', which means 'by whom'. Asking is where it starts. (The Kena Upanishad starts with a question, the way a scientist does. You started with a question too, and the question led you to the answer.)
@@ -92,7 +92,7 @@ A baby tests a toy that surprised them. A crow turns over something new. An ant 
 
 ## Deep and big questions
 - *deep:* Many people saw haldi stains turn red and never asked why. What else might you see every day without asking about it? (hint: Think about things in your kitchen, your bathroom and outside your window.)
-- *deep:* Is a discovery still a discovery if someone else already knew it? (hint: Think about how you felt when the haldi went red, even though Paati had seen it before.)
+- *deep:* Is a discovery still a discovery if someone else already knew it? (hint: Think about how you felt when the haldi went red, even though Paati in the story had seen it before.)
 - *big:* Where do questions come from? Can you make yourself curious? (hint: Think about a time a question just popped into your head.)
 - *big:* Will people ever run out of things to discover? (hint: Think about how each answer you found gave you a new question.)
 
@@ -181,7 +181,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 
 ## Games
 ### g1 · True or False? Who Found Out (15 min)
-- **rules:** Put the TRUE sign on one side of the room and the FALSE sign on the other.; Stand in the middle. The grown-up reads a card aloud and keeps score with tally marks on paper.; Jump to TRUE or FALSE. Say why you think so.; The grown-up turns the card over and reads the back.; If you were right, you get one tally mark. If not, no mark, and nobody minds: it is a good surprise.; Put the card aside and read the next one. When the cards are finished, count the marks. Most marks wins. If you are playing alone, try to beat your own count next time.
+- **rules:** Put the TRUE sign on one side of the room and the FALSE sign on the other.; Stand in the middle. The grown-up reads a card aloud and keeps one row of tally marks on paper for each player.; Jump to TRUE or FALSE. Say why you think so.; The grown-up turns the card over and reads the back.; If you were right, you get one tally mark. If not, no mark, and nobody minds: it is a good surprise.; Put the card aside and read the next one. When the cards are finished, count the marks. Most marks wins. If marks are equal, everybody wins. If you are playing alone, try to beat your own count next time.
 - **Printable cards: 12 fact cards to cut out:** The Earth is round, like a ball. (back: True. People in ancient Greece and India worked this out long ago. Today, photos from space show it.); The Sun goes round the Earth. (back: False. The Earth goes round the Sun. Aryabhata in India also wrote that the Earth spins.); The Sun is a star. (back: True. The Sun is our closest star. The other stars are suns very far away.); The Moon makes its own light. (back: False. The Moon shines because sunlight falls on it.); Clouds are made of water. (back: True. Clouds are made of tiny drops of water, or tiny bits of ice.); Air weighs nothing at all. (back: False. Air is very light, but it does weigh something.); An octopus has three hearts. (back: True. An octopus has three hearts and blue blood.); Plants can feel a touch. (back: True. Touch-me-not plants fold up their leaves when you touch them.); The Earth spins round once every day. (back: True. One spin makes one day and one night.); The Himalayas are still growing taller. (back: True. They grow a tiny bit each year, too slowly to see.); All the dinosaurs are gone. (back: False. Birds are dinosaurs. The crow at your window is one.); Soap turns yellow haldi red. (back: True. You can test this one yourself.)
 - **Printable board: 2 signs for the floor:** TRUE (draw a big tick); FALSE (draw a big cross)
 - **s1 (2 min)**  
@@ -200,7 +200,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Child mode:* Which card surprised you? How did someone find out?
   - Check: How did people find out that soap turns haldi red? → **Someone tried it and looked**
 ### g2 · Notice, Wonder, Try: a board game (15 min)
-- **rules:** Put your counters on Start.; Take turns to roll the dice and move that many squares.; Do what your square says. Everyone listens.; If you are stuck, the others can help you. Then your turn ends.; The first player to reach Finish wins. If your roll takes you past Finish, you still win.
+- **rules:** Put your counters on Start.; Take turns to roll the dice and move that many squares. With paper slips, shake them, pick one, then put it back.; Do what your square says. Everyone listens.; If you are stuck, the others can help you. Then your turn ends.; The first player to reach Finish wins. If your roll takes you past Finish, you still win.
 - **Printable board: A path of 15 squares to draw:** Start; Notice: say one thing you see in this room that is red.; Wonder: ask one question about the window.; Try: drop a spoon and a paper ball together. Which lands first?; Notice: listen. Say one sound you can hear.; Wonder: ask one question about your hands.; Try: blow on your hand softly, then hard. What changes?; Notice: say one thing that smells good at home.; Wonder: ask one question about the sky.; Try: hold a steel spoon and a wooden spoon. Which feels colder?; Story: name one curious person from this unit.; Notice: find something that is round.; Wonder: ask one question about an animal you know.; Try: put a drop of water on a steel plate and on a cloth. What happens to each?; Finish: you are a scientist!
 - **Printable tokens: 4 counters and a dice:** a bottle cap; a button; a small stone; a coin; a dice, or six folded paper slips numbered 1, 2, 3, 1, 2, 3
 - **s1 (3 min)**  
@@ -256,7 +256,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 ### e2 · Back to Yellow: can the red spot change back? (12 min)
 - **question:** Once soap has turned haldi red, can we turn it yellow again?
 - **predict:** Guess first. Will the red spot stay red for ever? Could lemon, water or salt water change it back? Why do you think so?
-- **fair test:** We put one drop of a different liquid on each red spot. All the red spots were made with the same soap water. Only the liquid we add changes.
+- **fair test:** We add a few drops of a different liquid to each red spot. All the red spots were made with the same soap water. Only the liquid we add changes.
 - **record:** Draw three red spots and colour each one the way it looked after you added a liquid.
 - **results table:** Liquid added to the red spot | My guess | What I saw
 - **s1 (3 min)**  
@@ -273,7 +273,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Parent does:* Rub the wet soap bar on the yellow lemon spot. If it stays yellow, rub more soap on. Talk about what you saw.  
   *Parent says:* Now soap on the lemon spot. What happens? What does that tell us?  
   *Child mode:* Put soap on it again. What happens?
-  - Note: Lemon used up the soap first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon.
+  - Note: The soap has to use up the lemon first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon.
   - Check: Soap made haldi red. Lemon made it yellow again. What happens if you add soap again? → **It goes red again**
 
 ## Activities
@@ -297,7 +297,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 ### a2 · The Secret Red Message (15 min)
 - **record:** The secret message paper, with the red writing on yellow.
 - **s1 (5 min)**  
-  *Parent does:* 1. Make the soap water. 2. Your child dips a cotton bud and writes a word or draws a shape on the white paper. 3. Let it dry under the fan for about five minutes.  
+  *Parent does:* 1. Make the soap water. 2. Your child dips a cotton bud and writes a word or draws a shape on the white paper. 3. Let it dry under the fan for about five minutes. While it dries, mix half a teaspoon of haldi with three spoons of water.  
   *Parent says:* Write a word or draw a star with soap water. Press hard. Can you still see it when it dries?  
   *Child mode:* Write or draw with soap water. Let it dry.
   - Note: Thick soap water works best. Go over the letters twice.
@@ -341,13 +341,13 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Parent does:* Choose one question you can test safely at home. Ask for a guess and a reason, then try it.  
   *Parent says:* Which question can we test today? What do you guess will happen? Why? Let's try it.  
   *Child mode:* Pick one question. Guess. Then try it.
-  - Note: Good home questions: Which sinks, a steel spoon or a plastic one? Which dries faster, a wet cloth in the sun or in the shade? Does the crow come back at the same time each day?
+  - Note: Good home questions: Which sinks, a steel spoon or a plastic one? Does an ice cube melt faster on a steel plate or on a plastic plate? Which rolls further down a slope, a marble or a rubber ball?
   - Wait: Do this the next day
 - **s3 (6 min)**  
   *Parent does:* Your child reads the book to someone, with your help.  
   *Parent says:* Read your book to someone in the family. Tell them what you found, and what you want to find out next.  
   *Child mode:* Read your book to someone. Tell them what you found.
-  - Ask: What did your test show? (good: The steel spoon sank and the plastic one floated.; The cloth in the sun dried first.)
+  - Ask: What did your test show? (good: The steel spoon sank and the plastic one floated.; The ice melted first on the steel plate.)
   - Wait: Do this the next day
 
 ## Challenges
@@ -368,7 +368,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Child mode:* Write in soap water. Let it dry. Decorate the front.
   - Note: Thin soap water may give only a faint pink, so go over the letters twice.
 - **s3 (5 min)**  
-  *Parent does:* Brush haldi water on the spare paper. Talk about it.  
+  *Parent does:* Mix half a teaspoon of haldi with three spoons of water. Brush it on the spare paper. Talk about it.  
   *Parent says:* Did the message stay hidden? Did it appear when you brushed it?  
   *Child mode:* Did it stay hidden? Did it appear?
 
@@ -487,10 +487,10 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 - What is a scientist's favourite word? *Why?*
 - Why did the curious girl bring a ladder to school? *She wanted to find out what was on the top shelf.*
 - What did the yellow spot say to the lemon? *Thanks for making me myself again!*
-- What do you call a scientist who reads old books? *A page-turner!*
-- Why was the soap so good at secrets? *Its messages stay hidden until haldi comes along.*
+- Why did the scientist bring a magnifying glass to dinner? *To find out what was in the sambar!*
+- What is red, yellow, red, yellow? *A haldi stain that cannot make up its mind!*
 - Why did the crow sit on the wire all day? *To find out if wires are comfy.*
-- Why did Meenakshi stare at the fan all night? *She was a fan of finding out!*
+- Why did Meenakshi look at the fan all night? *She was a fan of finding out!*
 
 ## Connected maths
 - In the story, Meenakshi tested 6 liquids on haldi. 2 turned it red. How many stayed yellow? **4 liquids stayed yellow.**. 6 liquids in all. 2 went red. 6 take away 2 is 4. (queues `math.addition-subtraction.meaning.L1`)
