@@ -6856,7 +6856,7 @@ body {
 /* each picture has open sky at the top: the greeting sits on it */
 .therotxt {
   position: absolute;
-  top: 18px;
+  bottom: 16px;
   left: 18px;
   right: 18px;
 }
@@ -6865,13 +6865,17 @@ body {
   text-shadow: 0 1px 8px rgb(40 10 60 / 55%);
 }
 .thero h1 {
-  font: 400 clamp(25px, 7vw, 34px) / 1.1 var(--poster);
+  font: 400 clamp(18px, 5.6vw, 26px) / 1.15 var(--poster);
   color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .thero p {
   display: flex;
-  flex-wrap: wrap;
-  font: 700 14px/1.5 var(--body);
+  flex-wrap: nowrap;
+  overflow: hidden;
+  font: 700 clamp(11px, 3.3vw, 13.5px) / 1.5 var(--body);
   color: var(--ink);
   margin-top: 4px;
 }
