@@ -26,11 +26,7 @@ function scrollBack(root, snap) {
 }
 const SEGS = {
   week: [
-    [
-      "days",
-      "Planner",
-      "Tell DeepKids your plans, answer its questions, and see your classes and to-dos.",
-    ],
+    ["days", "Planner", "Tell DeepKids your plans, answer its questions, and see your classes and to-dos."],
     ["cal", "Calendar", "Your plan by day, week, month or year, and where you add classes, trips and to-dos."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],
     ["finish", "To finish", "What your child started, and what is still to try."],

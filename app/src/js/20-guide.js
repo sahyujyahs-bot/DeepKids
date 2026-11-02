@@ -30,11 +30,7 @@ const GUIDE = {
       "Plan has seven tabs",
       "Planner, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
     ],
-    [
-      ".card.dump",
-      "Plan your days",
-      "Type your classes, trips, holidays or worries. DeepKids plans around them.",
-    ],
+    [".card.dump", "Plan your days", "Type your classes, trips, holidays or worries. DeepKids plans around them."],
     [".fxfold", "To-dos and other plans", "Things to get ready for coming lessons, and your own to-dos."],
   ],
   "week:cal": [
