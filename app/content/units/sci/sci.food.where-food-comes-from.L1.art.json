@@ -23,6 +23,10 @@
   "src": "media/img/sci.food.where-food-comes-from.L1/flow.a1.jpg",
   "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
  },
+ "flow.a2": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/flow.a2.jpg",
+  "drawn": true
+ },
  "flow.a3": {
   "src": "media/img/sci.food.where-food-comes-from.L1/flow.a3.jpg",
   "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
@@ -31,13 +35,37 @@
   "src": "media/img/sci.food.where-food-comes-from.L1/flow.c1.jpg",
   "credit": "renjus box, CC BY, via iNaturalist"
  },
+ "flow.e1": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.food.where-food-comes-from.L1/intro.jpg",
   "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/setup.e1.2.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.food.where-food-comes-from.L1/summary.jpg",
   "credit": "Shyavan Sridhar, CC BY, via iNaturalist"
+ },
+ "term.0": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/term.0.jpg",
+  "drawn": true
  },
  "term.1": {
   "src": "media/img/sci.food.where-food-comes-from.L1/term.1.jpg",
@@ -50,5 +78,9 @@
  "term.3": {
   "src": "media/img/sci.food.where-food-comes-from.L1/term.3.jpg",
   "credit": "Name, CC BY, via iNaturalist"
+ },
+ "term.4": {
+  "src": "media/img/sci.food.where-food-comes-from.L1/term.4.jpg",
+  "drawn": true
  }
 }
