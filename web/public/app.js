@@ -5871,7 +5871,7 @@ function rfPlan(date, seen) {
     n = U.reduce((a, x) => a + x.n, 0);
   if (!n && !V.length) return p;
   const extra = [
-    n ? `${n} question${n > 1 ? "s" : ""} you got wrong` : "",
+    n ? `${Math.max(8, n)} questions, ${n} you got wrong` : "",
     V.length ? `${V.length} unit${V.length > 1 ? "s" : ""} to review` : "",
   ]
     .filter(Boolean)
@@ -7378,8 +7378,15 @@ async function fxPractise(id) {
   }
   FXSI = -3;
   d.dataset.mode = fxSt().mode;
-  const items = L.map((r) => ({ r, it: fxFindItem(u, r.k) })).filter((x) => x.it);
-  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ r, it }, i) => `<section class="fxc" data-i="${i}" data-key="rf"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}</div><div class="fxtxt">${fxItem(u, "rf." + Date.now() + "~" + r.k, { ...it, context: it.context || (r.sec ? "From: " + r.sec : "") }, i, items.length).replace(/Question \d+ of \d+/, "Let's try this one again")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
+  // the questions they got wrong come first, then the unit's quiz questions, so a refresher is a real quiz
+  const have = new Set(L.map((r) => r.k)),
+    wrong = L.map((r) => ({ r, it: fxFindItem(u, r.k), wrong: true })).filter((x) => x.it),
+    more = (u.quiz || [])
+      .map((q, i) => ({ r: { k: "quiz." + i }, it: q }))
+      .filter((x) => !have.has(x.r.k))
+      .slice(0, Math.max(0, 8 - wrong.length)),
+    items = [...wrong, ...more];
+  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}</div><div class="fxtxt">${fxItem(u, "rf." + Date.now() + "~" + r.k, { ...it, context: it.context || (r.sec ? "From: " + r.sec : "") }, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
   if (!d.open) d.showModal();
 }
 // A worksheet as a printable A4 sheet: each question type in a form a child can do with a pencil, answers on their own page

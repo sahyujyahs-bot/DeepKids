@@ -284,7 +284,7 @@ function rfPlan(date, seen) {
     n = U.reduce((a, x) => a + x.n, 0);
   if (!n && !V.length) return p;
   const extra = [
-    n ? `${n} question${n > 1 ? "s" : ""} you got wrong` : "",
+    n ? `${Math.max(8, n)} questions, ${n} you got wrong` : "",
     V.length ? `${V.length} unit${V.length > 1 ? "s" : ""} to review` : "",
   ]
     .filter(Boolean)

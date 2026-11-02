@@ -62,11 +62,11 @@ const { chromium } = require("playwright");
     const d = document.getElementById("fxDlg");
     return {
       dialog: !!d?.open,
-      questions: d?.querySelectorAll(".fxfeed .fxq, .fxfeed [data-fxq], .fxfeed .fxcard, .fxfeed section").length,
+      questions: d?.querySelectorAll('.fxfeed section.fxc[data-key="rf"]').length,
       sheetOpen: !!document.getElementById("sheet")?.open,
     };
   });
-  const ok = r.dialog && !r.sheetOpen;
+  const ok = r.dialog && !r.sheetOpen && r.questions >= 6;
   console.log(ok ? "refresher: Play it starts the quiz at once" : "refresher: FAIL", JSON.stringify(r));
   await b.close();
   process.exit(ok ? 0 : 1);
