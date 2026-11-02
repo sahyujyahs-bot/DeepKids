@@ -6089,30 +6089,37 @@ header.top .iconbtn {
 }
 .fxpts {
   display: grid;
-  gap: 6px;
-  margin: 2px 0 0;
-  padding: 0;
-  list-style: none;
-  font-size: 15px;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 6px;
 }
-.fxpts li {
-  position: relative;
-  padding-left: 18px;
-  color: var(--muted);
-  line-height: 1.4;
+.fxpts div {
+  display: grid;
+  gap: 3px;
+  align-content: start;
+  padding: 2px 14px 2px 0;
 }
-.fxpts li::before {
-  content: "";
-  position: absolute;
-  left: 2px;
-  top: 0.5em;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--sun);
+.fxpts div + div {
+  padding: 2px 0 2px 14px;
+  border-left: 1.5px solid color-mix(in srgb, var(--sun) 55%, transparent);
 }
 .fxpts b {
+  font: 700 11px/1.2 var(--body);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tang);
+}
+.fxpts span {
+  font: 500 14px/1.35 var(--body);
   color: var(--ink);
+}
+.fxtag {
+  justify-self: start;
+  margin-top: 4px;
+  padding: 4px 12px;
+  border-radius: 99px;
+  font: 700 12px/1.4 var(--body);
+  color: var(--ink);
+  background: color-mix(in srgb, var(--sun) 35%, #fff);
 }
 .fxdots {
   display: flex;

@@ -6107,30 +6107,37 @@ header.top .iconbtn {
 }
 .fxpts {
   display: grid;
-  gap: 6px;
-  margin: 2px 0 0;
-  padding: 0;
-  list-style: none;
-  font-size: 15px;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 6px;
 }
-.fxpts li {
-  position: relative;
-  padding-left: 18px;
-  color: var(--muted);
-  line-height: 1.4;
+.fxpts div {
+  display: grid;
+  gap: 3px;
+  align-content: start;
+  padding: 2px 14px 2px 0;
 }
-.fxpts li::before {
-  content: "";
-  position: absolute;
-  left: 2px;
-  top: 0.5em;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--sun);
+.fxpts div + div {
+  padding: 2px 0 2px 14px;
+  border-left: 1.5px solid color-mix(in srgb, var(--sun) 55%, transparent);
 }
 .fxpts b {
+  font: 700 11px/1.2 var(--body);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tang);
+}
+.fxpts span {
+  font: 500 14px/1.35 var(--body);
   color: var(--ink);
+}
+.fxtag {
+  justify-self: start;
+  margin-top: 4px;
+  padding: 4px 12px;
+  border-radius: 99px;
+  font: 700 12px/1.4 var(--body);
+  color: var(--ink);
+  background: color-mix(in srgb, var(--sun) 35%, #fff);
 }
 .fxdots {
   display: flex;
@@ -7476,9 +7483,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="ac3badd45f32addae0";window.DK_APPV="ac3badd45f";window.DK_DATAV="32ad251df3"</script>
-<script src="/config.js?v=ac3badd45f32addae0"></script>
+<script>window.DK_BUILD="5e5302c57e32addae0";window.DK_APPV="5e5302c57e";window.DK_DATAV="32ad251df3"</script>
+<script src="/config.js?v=5e5302c57e32addae0"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=ac3badd45f32addae0"></script>
+<script src="/platform.js?v=5e5302c57e32addae0"></script>
 </body>
 </html>

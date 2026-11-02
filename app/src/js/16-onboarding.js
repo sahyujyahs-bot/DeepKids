@@ -4,7 +4,7 @@ function loginView() {
   try {
     known = JSON.parse(lsGet("dk-known") || "[]");
   } catch (e) {}
-  const intro = `<div class="fxintro" id="fxintro">${FXINTRO.map(([img, t, p, pts]) => `<div class="fxslide2"><img src="media/ui/${img}.jpg" alt=""><h2>${t}</h2><p>${p}</p>${pts ? `<ul class="fxpts">${pts.map(([b, x]) => `<li><b>${b}:</b> ${x}</li>`).join("")}</ul>` : ""}</div>`).join("")}</div><div class="fxdots">${FXINTRO.map((_, i) => `<i class="${i ? "" : "on"}"></i>`).join("")}</div>`;
+  const intro = `<div class="fxintro" id="fxintro">${FXINTRO.map(([img, t, p, pts, tag]) => `<div class="fxslide2"><img src="media/ui/${img}.jpg" alt=""><h2>${t}</h2><p>${p}</p><div class="fxpts">${pts.map(([b, x]) => `<div><b>${b}</b><span>${x}</span></div>`).join("")}</div>${tag ? `<span class="fxtag">${tag}</span>` : ""}</div>`).join("")}</div><div class="fxdots">${FXINTRO.map((_, i) => `<i class="${i ? "" : "on"}"></i>`).join("")}</div>`;
   return `<div class="ob">${intro}<div><span class="eyebrow">DeepKids Gurukul</span><h1 style="margin-top:6px">Log in</h1><p class="muted" style="margin-top:6px">Testing mode, so no OTP yet. The same number always brings back the same family. You stay logged in until you log out.</p></div>
    ${known.length ? `<div class="col" style="gap:8px"><span class="eyebrow">Used on this phone</span>${known.map((k) => `<button class="menurow" data-act="loginas" data-a="${esc(k.acct)}">${youBlob("", "happy", 'width="40" height="40"')}<span><b>${esc(k.name || "Parent")}</b><br><span class="xs muted">+91 ${esc(String(k.acct).slice(2))}${k.child ? " · " + esc(k.child) + "'s family" : ""}</span></span>${icon("next")}</button>`).join("")}</div><span class="eyebrow">Or a different number</span>` : ""}
    <div class="field"><label for="lgPhone">Phone number</label><div class="row" style="flex-wrap:nowrap"><span class="chip" style="height:50px;padding:0 14px;font-size:16px">+91</span><input class="inp" id="lgPhone" type="tel" inputmode="numeric" autocomplete="tel-national" maxlength="16" placeholder="98765 43210"></div></div>
@@ -311,39 +311,44 @@ const fxObNav = (back, label) =>
 function fxObQuiz() {
   return `<div class="ob">${fxObBar(3)}${lvqCard(ob.quiz, "data-obqa")}</div>`;
 }
-// the welcome slides before log-in: picture, heading, one line, and up to three short points
+// the welcome slides before log-in: picture, heading, one line, two short points side by side, and an optional tag
 const FXINTRO = [
   [
     "intro-eye",
     "Learning that goes deep",
-    "Every topic followed all the way: big questions, first principles, free thinking, and how it connects to everything else.",
+    "Every topic followed all the way: big questions, first principles, free thinking, everything connected.",
     [
-      ["Board track", "your NCERT, Cambridge or NIOS book, made deeper"],
-      ["DeepKids track", "every topic all the boards teach, and more"],
+      ["Board track", "Your NCERT, Cambridge or NIOS book, made deeper"],
+      ["DeepKids track", "Every topic all the boards teach, and more"],
     ],
   ],
   [
     "intro-mirror",
     "A plan that adapts to your family",
-    "Your year, month, week and day planned in minutes. Nothing is fixed: it changes with your child's interests and your life.",
+    "Year, month, week and day, planned in minutes. Nothing is fixed: it follows your child's interests and your life.",
     [
-      ["Badminton class", "the physics of a smash, the maths of the score"],
-      ["Cooked dal today", "the science inside the pressure cooker"],
+      ["Badminton class", "The physics of a smash, the maths of the score"],
+      ["Cooked dal", "The science inside the pressure cooker"],
     ],
   ],
   [
     "intro-track",
     "Know what your child has learned",
-    "At home, learning happens everywhere, not just in lessons. Tell DeepKids what you did, and it records what was learned.",
+    "Learning at home happens everywhere. Tell DeepKids what you did, and it records what was learned.",
     [
-      ["Everything counts", "lessons, cooking, sport, art, games, kits and projects"],
-      ["Ready for school", "a transcript and home test scores to show any school"],
+      ["Everything counts", "Lessons, cooking, sport, art, games and kits"],
+      ["Ready for school", "A transcript and home test scores"],
     ],
   ],
   [
     "intro-iam",
     "Meet IAm, the guru of DeepKids",
-    "Always there for you: to understand a topic more deeply, to clear a doubt, or to check the worksheet your child just did.",
+    "Always there for you, whenever you need him.",
+    [
+      ["Go deeper", "Understand a topic, or clear a doubt"],
+      ["Check work", "The worksheet your child just did"],
+    ],
+    "Part of DeepKids Plus",
   ],
 ];
 /* Today: the week strip is gone (the calendar below already moves day by day) */
