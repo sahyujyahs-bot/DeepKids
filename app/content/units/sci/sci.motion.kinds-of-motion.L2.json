@@ -893,7 +893,11 @@
       },
       {
        "f": "A seat on a giant wheel at a mela",
-       "b": "ROUND"
+       "b": "ROUND",
+       "img": {
+        "src": "media/cards/kinds-of-motion-g1-0-01.jpg",
+        "credit": "Ростислав Александрович Луценко, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A cradle rocking in the hall",
