@@ -610,7 +610,11 @@
       },
       {
        "f": "Marchantia: a flat, shiny green plant on wet soil in nursery pots",
-       "b": "Spore group. A liverwort, a close relative of the mosses."
+       "b": "Spore group. A liverwort, a close relative of the mosses.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-23.jpg",
+        "credit": "Katja Schulz, CC BY, via iNaturalist"
+       }
       }
      ]
     },
@@ -707,22 +711,112 @@
      "kind": "cards",
      "title": "16 plant cards with their features",
      "items": [
-      "Wall moss: no flowers, no seeds, no cones, no veins. Small and soft. Lives on damp walls.",
-      "Sphagnum moss: no flowers, no seeds, no cones, no veins. Holds lots of water. Lives in hill bogs.",
-      "Marchantia: no flowers, no seeds, no cones, no veins. Flat and shiny. Lives on wet soil.",
-      "Maidenhair fern: no flowers, no seeds, no cones. Has veins and fronds. Makes spores.",
-      "Azolla: no flowers, no seeds, no cones. Has veins. Floats on water. Makes spores.",
-      "Tree fern: no flowers, no seeds, no cones. Has veins and a trunk. Makes spores.",
-      "Dhekia fern: no flowers, no seeds, no cones. Has veins and curled young fronds. Makes spores.",
-      "Deodar: no flowers. Has cones, seeds and veins. Needle leaves. Grows on hills.",
-      "Chir pine: no flowers. Has cones, seeds and veins. Long needles. Grows on hills.",
-      "Cycas: no flowers. Has big cones, seeds and veins. Looks like a short palm.",
-      "Morpankhi: no flowers. Has small cones, seeds and veins. Flat sprays of scale leaves.",
-      "Coconut palm: has flowers, fruits, seeds and veins. Grows by the sea.",
+      {
+       "f": "Wall moss: no flowers, no seeds, no cones, no veins. Small and soft. Lives on damp walls.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-00.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Sphagnum moss: no flowers, no seeds, no cones, no veins. Holds lots of water. Lives in hill bogs.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-01.jpg",
+        "credit": "Andrew Melton, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Marchantia: no flowers, no seeds, no cones, no veins. Flat and shiny. Lives on wet soil.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-02.jpg",
+        "credit": "Ajit Ampalakkad, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Maidenhair fern: no flowers, no seeds, no cones. Has veins and fronds. Makes spores.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-03.jpg",
+        "credit": "Christopher, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Azolla: no flowers, no seeds, no cones. Has veins. Floats on water. Makes spores.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-04.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Tree fern: no flowers, no seeds, no cones. Has veins and a trunk. Makes spores.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-05.jpg",
+        "credit": "Neptalí Ramírez Marcial, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Dhekia fern: no flowers, no seeds, no cones. Has veins and curled young fronds. Makes spores.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-06.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Deodar: no flowers. Has cones, seeds and veins. Needle leaves. Grows on hills.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-07.jpg",
+        "credit": "T R Shankar Raman, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Chir pine: no flowers. Has cones, seeds and veins. Long needles. Grows on hills.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-08.jpg",
+        "credit": "Ramnarayan K, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cycas: no flowers. Has big cones, seeds and veins. Looks like a short palm.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-09.jpg",
+        "credit": "Ansil B.R., CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Morpankhi: no flowers. Has small cones, seeds and veins. Flat sprays of scale leaves.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-10.jpg",
+        "credit": "mks334, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Coconut palm: has flowers, fruits, seeds and veins. Grows by the sea.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-11.jpg",
+        "credit": "Анна Митрошенкова, CC BY, via iNaturalist"
+       }
+      },
       "Rice: has flowers, fruits, seeds and veins. Grows in wet fields.",
-      "Lotus: has flowers, fruits, seeds and veins. Grows in ponds.",
-      "Banyan: has flowers hidden inside figs, seeds and veins. Huge tree.",
-      "Tulsi: has flowers, fruits, seeds and veins. Small herb in a pot."
+      {
+       "f": "Lotus: has flowers, fruits, seeds and veins. Grows in ponds.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-13.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Banyan: has flowers hidden inside figs, seeds and veins. Huge tree.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-14.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Tulsi: has flowers, fruits, seeds and veins. Small herb in a pot.",
+       "img": {
+        "src": "media/cards/plant-variety-g2-0-15.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],

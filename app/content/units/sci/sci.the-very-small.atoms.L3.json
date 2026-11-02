@@ -610,7 +610,11 @@
       },
       {
        "f": "🌍 The Earth",
-       "b": "2. About 12,700 kilometres across"
+       "b": "2. About 12,700 kilometres across",
+       "img": {
+        "src": "media/cards/atoms-g1-0-01.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "🇮🇳 India, from north to south",
@@ -642,7 +646,11 @@
       },
       {
        "f": "🍌 A banana",
-       "b": "9. About 15 centimetres long"
+       "b": "9. About 15 centimetres long",
+       "img": {
+        "src": "media/cards/atoms-g1-0-08.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
       },
       {
        "f": "🪙 A one-rupee coin",
