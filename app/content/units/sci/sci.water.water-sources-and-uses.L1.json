@@ -274,15 +274,27 @@
       },
       {
        "f": "A crow drinking from a clay saucer",
-       "b": "Animals"
+       "b": "Animals",
+       "img": {
+        "src": "media/cards/water-sources-and-uses-g1-0-12.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A cow drinking from a trough",
-       "b": "Animals"
+       "b": "Animals",
+       "img": {
+        "src": "media/cards/water-sources-and-uses-g1-0-13.jpg",
+        "credit": "Piyush Marwadi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Fish swimming in a pond",
-       "b": "Animals"
+       "b": "Animals",
+       "img": {
+        "src": "media/cards/water-sources-and-uses-g1-0-14.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
       }
      ]
     },
