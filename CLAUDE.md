@@ -40,3 +40,9 @@ sh app/tests/run.sh                   # every family type, every button, and a u
 - Design: the notebook and night sky look in `app/content/DESIGN.md`. Universal and vibrant first, Indian touches only where they come naturally. It must not look like a generic AI app.
 - **Without AI first.** Every feature works on the phone without AI for every family, paid or not (word matching, the activity library, the phone's own reading). AI only for what truly needs it (reading photos, checking worksheets, chat, writing new material), and then the cheapest model that does the job well, sending only what's needed.
 - The founder is not a programmer: keep replies short and plain.
+
+## Spending (the founder pays for every token)
+- Helpers (agents, workflows) never use Opus. Use Haiku for simple checks and lookups, Sonnet for writing, drawing and review. Set the model on every helper explicitly.
+- Before any job with more than 10 helpers, or any job likely to cost over 1 million tokens, tell the founder the number of helpers and a rough cost, and wait for a yes.
+- Run big jobs in small batches (about 10 units at a time) so they can be stopped.
+- Prefer one combined preview over many screenshot rounds.
