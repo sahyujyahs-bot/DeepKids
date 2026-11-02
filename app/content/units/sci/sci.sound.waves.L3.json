@@ -477,11 +477,19 @@
       },
       {
        "f": "A crow flying home",
-       "b": "Not a wave. The crow herself travels from place to place."
+       "b": "Not a wave. The crow herself travels from place to place.",
+       "img": {
+        "src": "media/cards/waves-g1-0-13.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Light from the Sun",
-       "b": "Wave, of a special kind. Light can cross empty space, so it needs no material to travel through."
+       "b": "Wave, of a special kind. Light can cross empty space, so it needs no material to travel through.",
+       "img": {
+        "src": "media/cards/waves-g1-0-14.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
       },
       {
        "f": "Rice poured from a sack",
