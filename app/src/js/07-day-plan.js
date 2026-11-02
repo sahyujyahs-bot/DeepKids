@@ -1013,7 +1013,7 @@ function nudgeCard() {
     .filter((p) => p.m <= free)
     .slice(0, 2);
   if (!P.length) return "";
-  return `<section class="card nudge-card"><div class="row" style="flex-wrap:nowrap;gap:10px">${blob("var(--sun)", 6, "wow", "nb", 'width="40" height="40"')}<div><b style="font:600 17px var(--display)">${free >= 120 ? "Free time now" : `${hmin(free)} free now`}. Finish one?</b><p class="xs muted">Nothing else is planned${free < 120 ? " until then" : ""}.</p></div></div>
+  return `<section class="card nudge-card"><div class="row" style="flex-wrap:nowrap;gap:10px">${blob("var(--sun)", 6, "wow", "nb", 'width="40" height="40"')}<div><b style="font:600 var(--fs-5) var(--display)">${free >= 120 ? "Free time now" : `${hmin(free)} free now`}. Finish one?</b><p class="xs muted">Nothing else is planned${free < 120 ? " until then" : ""}.</p></div></div>
     ${P.map((p) => `<div class="row nrow"><div style="flex:1;min-width:0"><b class="sm">${esc(p.t)}</b><br><span class="xs muted">${esc(p.sub)} · ≈ ${hmin(p.m)}</span></div><button class="btn sm" ${p.act}>${p.go}</button></div>`).join("")}
     <div class="row" style="gap:16px"><button class="link sm" data-act="nudgeoff">Not now</button><button class="link sm" data-act="rem">Reminders on my phone</button></div></section>`;
 }
@@ -1114,7 +1114,7 @@ function remView() {
     L = remLinks(),
     NOK = typeof Notification !== "undefined";
   return `<p class="sm muted">DeepKids reminds you only when the day has free time and something is waiting to be finished.</p>
-  <section class="card"><span class="eyebrow">On your phone</span><b style="font:600 18px var(--display)">A daily reminder in your calendar</b><p class="xs muted">Your phone's calendar alerts you, even when DeepKids is closed. We picked a time that's usually free in your plan.</p>
+  <section class="card"><span class="eyebrow">On your phone</span><b style="font:600 var(--fs-5) var(--display)">A daily reminder in your calendar</b><p class="xs muted">Your phone's calendar alerts you, even when DeepKids is closed. We picked a time that's usually free in your plan.</p>
     <div class="row" style="gap:10px;align-items:center"><label class="sm">At <input class="inp" type="time" data-remf="time" value="${L.t}" style="width:auto;height:40px"></label></div>
     <div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${L.days.includes(d)}" data-act="remday" data-d="${d}">${DAYS3[d]}</button>`).join("")}</div>
     <div class="row" style="gap:10px;flex-wrap:wrap"><a class="btn accent sm" href="${esc(L.g)}" target="_blank" rel="noopener">Add to Google Calendar</a><button class="btn soft sm" data-act="remics">Apple or other calendar</button></div>
@@ -1190,7 +1190,7 @@ function evpreView() {
   document.getElementById("sheetTitle").textContent = e ? e.title : "Plan";
   if (!e) return "";
   const day = date === today ? "today" : fmt(date);
-  return `<div class="exdone">${kidBlob("mascot")}<h2 style="font-size:22px">${esc(e.title)}</h2><p>${e.start ? `Starts at <b>${clock(hm(e.start))}</b> ${esc(day)}.` : ""} You can mark it done once it has started.</p><div class="col" style="gap:10px;width:100%"><button class="btn line" data-act="evcancel" data-id="${esc(id)}" data-date="${date}">Cancel it for ${esc(day)}</button><button class="btn" data-act="texit">Keep it</button></div><p class="xs muted">Cancelling frees the time for lessons that day. You can undo it.</p></div>`;
+  return `<div class="exdone">${kidBlob("mascot")}<h2 style="font-size:var(--fs-6)">${esc(e.title)}</h2><p>${e.start ? `Starts at <b>${clock(hm(e.start))}</b> ${esc(day)}.` : ""} You can mark it done once it has started.</p><div class="col" style="gap:10px;width:100%"><button class="btn line" data-act="evcancel" data-id="${esc(id)}" data-date="${date}">Cancel it for ${esc(day)}</button><button class="btn" data-act="texit">Keep it</button></div><p class="xs muted">Cancelling frees the time for lessons that day. You can undo it.</p></div>`;
 }
 const MOODS = [
   ["great", "Went well"],
@@ -1706,7 +1706,7 @@ function parseICS(txt) {
 function calendarCard() {
   // on the website, Google Calendar waits for Google sign-in scopes; the artifact links it through claude.ai connectors
   if (window.DK_PLATFORM?.name === "web")
-    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:19px">Your calendars</h3><p class="xs muted">Live Google Calendar linking is coming soon. For now, bring in a calendar file: you choose what to keep.</p></div></div><p class="xs muted">Google Calendar on a computer: Settings → Import & export → Export, then unzip. Apple Calendar on a Mac: File → Export.</p><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label></section>`;
+    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:var(--fs-5)">Your calendars</h3><p class="xs muted">Live Google Calendar linking is coming soon. For now, bring in a calendar file: you choose what to keep.</p></div></div><p class="xs muted">Google Calendar on a computer: Settings → Import & export → Export, then unzip. Apple Calendar on a Mac: File → Export.</p><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label></section>`;
   const C = S.cal || {},
     busy = ui.gcBusy,
     err = C.err
@@ -1716,11 +1716,11 @@ function calendarCard() {
   if (C.on) {
     const n = (C.ev || []).filter((e) => e.date >= today).length,
       L = C.list || [];
-    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:19px">Google Calendar is linked</h3><p class="xs muted">${n} event${n === 1 ? "" : "s"} in the next 60 days${C.at ? " · updated " + new Date(C.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }) : ""}. It refreshes by itself while DeepKids is open, and the day plan works around it.</p></div></div>
+    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:var(--fs-5)">Google Calendar is linked</h3><p class="xs muted">${n} event${n === 1 ? "" : "s"} in the next 60 days${C.at ? " · updated " + new Date(C.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }) : ""}. It refreshes by itself while DeepKids is open, and the day plan works around it.</p></div></div>
     ${L.length > 1 ? `<div class="col" style="gap:6px"><span class="xs muted">Calendars to show</span><div class="row">${L.map((c) => `<button class="chip" aria-pressed="${(C.cals || []).includes(c.id)}" data-act="gccal" data-id="${esc(c.id)}">${esc(c.name)}</button>`).join("")}</div></div>` : ""}
     ${err}<div class="row"><button class="btn soft sm" data-act="gcsync" ${busy ? "disabled" : ""}>${busy ? "Refreshing…" : "Refresh now"}</button><button class="link sm" data-act="gcoff">Unlink</button></div>${ics}</section>`;
   }
-  return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:19px">Link your calendar</h3><p class="xs muted">Classes, tuitions, outings and busy times flow in by themselves and stay up to date. DeepKids only reads your calendar; it never changes it.</p></div></div>
+  return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:var(--fs-5)">Link your calendar</h3><p class="xs muted">Classes, tuitions, outings and busy times flow in by themselves and stay up to date. DeepKids only reads your calendar; it never changes it.</p></div></div>
     <button class="btn accent sm" data-act="gcsync" style="justify-self:start" ${busy ? "disabled" : ""}>${busy ? "Connecting…" : "Connect Google Calendar"}</button>${err}<p class="xs muted">First time: claude.ai asks you to add Google Calendar under Settings → Connectors and to allow DeepKids to read it.</p>${ics}</section>`;
 }
 const PREP_KW = [
@@ -1774,7 +1774,7 @@ function prepView() {
       .map(({ x, items }) => {
         const u = x.u,
           g = u.c?.p?.summary || u.c?.x?.guide || DATA.prepgen.guide[u.subj];
-        return `<section class="card ${SC(x.subj)}" style="gap:0"><div class="row" style="gap:8px;margin-bottom:4px"><span class="dotc"></span><span class="eyebrow">${SUBJ[x.subj]} · ${fmt(x.date)} · Part ${x.n} of ${x.tot}</span></div><h3 style="font-size:19px;margin-bottom:8px">${esc(u.title)}</h3>
+        return `<section class="card ${SC(x.subj)}" style="gap:0"><div class="row" style="gap:8px;margin-bottom:4px"><span class="dotc"></span><span class="eyebrow">${SUBJ[x.subj]} · ${fmt(x.date)} · Part ${x.n} of ${x.tot}</span></div><h3 style="font-size:var(--fs-5);margin-bottom:8px">${esc(u.title)}</h3>
    ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary style="cursor:pointer;font-weight:500;color:var(--plum)">Parent guide</summary><p class="sm" style="margin-top:6px">${esc(g)}</p></details>` : ""}
    ${items.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Done: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:500">${esc(p.task)}</b>${p.early ? ` <span class="pill learning">start early for ${fmt(x.date)}</span>` : ""}<p class="xs muted" style="margin-top:3px">From: ${esc(p.where)}</p></div></div>`).join("")}
    <div class="row" style="margin-top:8px">${u.c?.x ? `<button class="btn xs soft" data-act="chapter" data-k="${u.k}" data-t="questions">Big questions</button><button class="btn xs soft" data-act="ws" data-k="${u.k}">Worksheet</button>` : ""}<button class="btn xs soft" data-act="chapter" data-k="${u.k}">Chapter</button></div></section>`;

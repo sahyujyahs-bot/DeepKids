@@ -43,8 +43,8 @@ function combTabBasic(u, t) {
   if (t === "game") {
     const g = P.game,
       pr = P.project;
-    return `<section class="card"><span class="eyebrow">Printable ${g.kind === "cards" ? "card" : "board"} game · ${esc(g.players)} players</span><h3 style="font-size:20px">${esc(g.title)}</h3><ol class="sm">${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${g.need?.length ? `<p class="xs muted">You need: ${esc(g.need.join(", "))}</p>` : ""}<div class="row"><button class="btn sm accent" data-act="cgprint" data-k="${u.k}">🖨️ Print the game</button><button class="link sm" data-act="cgview" data-k="${u.k}">Preview</button></div></section>
-    <section class="card"><span class="eyebrow">Project${pr.days?.length ? ` · days ${pr.days.join(" and ")}` : ""}</span><h3 style="font-size:20px">${esc(pr.title)}</h3><ol class="sm">${pr.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol><p class="xs muted">You end up with: ${esc(pr.outcome)}</p></section>`;
+    return `<section class="card"><span class="eyebrow">Printable ${g.kind === "cards" ? "card" : "board"} game · ${esc(g.players)} players</span><h3 style="font-size:var(--fs-6)">${esc(g.title)}</h3><ol class="sm">${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${g.need?.length ? `<p class="xs muted">You need: ${esc(g.need.join(", "))}</p>` : ""}<div class="row"><button class="btn sm accent" data-act="cgprint" data-k="${u.k}">🖨️ Print the game</button><button class="link sm" data-act="cgview" data-k="${u.k}">Preview</button></div></section>
+    <section class="card"><span class="eyebrow">Project${pr.days?.length ? ` · days ${pr.days.join(" and ")}` : ""}</span><h3 style="font-size:var(--fs-6)">${esc(pr.title)}</h3><ol class="sm">${pr.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol><p class="xs muted">You end up with: ${esc(pr.outcome)}</p></section>`;
   }
   if (t === "books")
     return `<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Books on this topic</span>${P.books.map((b) => `<a class="res" href="${esc(amz(b))}" target="_blank" rel="noopener"><div style="min-width:0"><b>${esc(b.title)}</b><span class="xs muted"> · ${esc(b.author)}</span><p class="xs">${esc(b.for[0].toUpperCase() + b.for.slice(1))} · ages ${esc(b.age)}. ${esc(b.why)}</p></div><span class="xs">amazon.in ↗</span></a>`).join("")}<p class="xs muted" style="margin-top:6px">Links open an amazon.in search for the book. Many are also in libraries.</p></section>`;
@@ -59,7 +59,7 @@ function combTabWithBook(u, t) {
       w = L[i];
     if (w)
       h =
-        `<section class="card ${SC(u.subj)}"><span class="eyebrow">This lesson uses a Mission book</span><h3 style="font-size:20px">${esc(w.title)}</h3><p class="sm">${esc(w.blurb || "")}</p><p class="xs muted">The day-by-day steps tell you which station to do. Print it before Day 1.</p><div class="row"><button class="btn sm accent" data-act="wsprint" data-k="${u.k}" data-i="${i}">🖨️ Print the book</button><button class="link sm" data-act="wsview" data-k="${u.k}" data-i="${i}">Preview</button></div></section>` +
+        `<section class="card ${SC(u.subj)}"><span class="eyebrow">This lesson uses a Mission book</span><h3 style="font-size:var(--fs-6)">${esc(w.title)}</h3><p class="sm">${esc(w.blurb || "")}</p><p class="xs muted">The day-by-day steps tell you which station to do. Print it before Day 1.</p><div class="row"><button class="btn sm accent" data-act="wsprint" data-k="${u.k}" data-i="${i}">🖨️ Print the book</button><button class="link sm" data-act="wsview" data-k="${u.k}" data-i="${i}">Preview</button></div></section>` +
         h;
   }
   return h;
@@ -215,7 +215,7 @@ function chapterHub(u) {
     res = resSort(resourcesFor(u)),
     shelf = shelfFor(u);
   let h =
-    `<div class="sech" style="margin-top:6px"><h3 style="font-size:19px">Everything for this chapter</h3></div>` +
+    `<div class="sech" style="margin-top:6px"><h3 style="font-size:var(--fs-5)">Everything for this chapter</h3></div>` +
     printSheets(u);
   const ideas = [
     P ? `<p class="sm">${esc(P.summary)}</p>` : c.covers ? `<p class="sm">${esc(c.covers)}</p>` : "",
@@ -902,7 +902,7 @@ function chapterPage() {
   }
   if (t === "worksheet") {
     const q = x.wsd.reduce((a, s) => a + s[1].length, 0);
-    h += `<section class="card"><span class="eyebrow">Worksheet</span><h3 style="font-size:20px">${x.wsd.length} sections, ${q} questions</h3><div class="col" style="gap:6px">${x.wsd.map(([t2, its]) => `<div class="row" style="justify-content:space-between"><span>${esc(t2)}</span><span class="xs muted">${its.length} questions</span></div>`).join("")}</div><button class="btn" data-act="ws" data-k="${u.k}">${taskDone(u.k, "ws") ? "Open again (finished)" : "Start the worksheet"}</button></section>`;
+    h += `<section class="card"><span class="eyebrow">Worksheet</span><h3 style="font-size:var(--fs-6)">${x.wsd.length} sections, ${q} questions</h3><div class="col" style="gap:6px">${x.wsd.map(([t2, its]) => `<div class="row" style="justify-content:space-between"><span>${esc(t2)}</span><span class="xs muted">${its.length} questions</span></div>`).join("")}</div><button class="btn" data-act="ws" data-k="${u.k}">${taskDone(u.k, "ws") ? "Open again (finished)" : "Start the worksheet"}</button></section>`;
   }
   if (t === "play")
     h += `<section class="qcard" style="background:var(--gum)"><span class="eyebrow">Chapter game</span><h2>${esc(c.game[0])}</h2><p>${esc(c.game[1])}</p></section><section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Curated from around the world</span>${x.cur.map(([w, src, url, how]) => `<a class="res" href="${esc(url)}" target="_blank" rel="noopener"><span class="xs muted">${esc(src)} ↗</span><b>${esc(w)}</b><span class="sm muted">${esc(how)}</span></a>`).join("")}</section>`;

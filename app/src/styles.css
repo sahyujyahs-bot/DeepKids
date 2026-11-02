@@ -1,5 +1,14 @@
 /* DeepKids: the one stylesheet for the app. Design tokens are in :root (see app/content/DESIGN.md). */
 :root {
+  /* the type scale: every text size in the app is one of these (app/build/check_type_scale.py checks it) */
+  --fs-1: 11px;
+  --fs-2: 12px;
+  --fs-3: 14px;
+  --fs-4: 16px;
+  --fs-5: 18px;
+  --fs-6: 22px;
+  --fs-7: 28px;
+  --fs-8: 34px;
   --tangD: #d9661a;
   --forestD: #3f8559;
   --skyA: #cfefe0;
@@ -99,13 +108,13 @@ p {
   color: var(--muted);
 }
 .sm {
-  font-size: 14px;
+  font-size: var(--fs-3);
 }
 .xs {
-  font-size: 12.5px;
+  font-size: var(--fs-2);
 }
 .eyebrow {
-  font: 600 12px var(--display);
+  font: 600 var(--fs-2) var(--display);
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--muted);
@@ -195,13 +204,13 @@ p {
 .btn.sm {
   min-height: 40px;
   padding: 5px 16px;
-  font-size: 15px;
+  font-size: var(--fs-4);
   border-radius: 14px;
 }
 .btn.xs {
   min-height: 34px;
   padding: 4px 12px;
-  font-size: 14px;
+  font-size: var(--fs-3);
   border-radius: 12px;
   box-shadow: 0 3px 0 var(--tangD);
 }
@@ -233,7 +242,7 @@ p {
   background: 0 0;
   border: 0;
   padding: 0;
-  font: 600 15px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .chip {
   display: inline-flex;
@@ -241,7 +250,7 @@ p {
   gap: 6px;
   height: 28px;
   padding: 0 12px;
-  font-size: 13px;
+  font-size: var(--fs-3);
   font-weight: 700;
   white-space: nowrap;
 }
@@ -312,13 +321,13 @@ p {
   flex: none;
 }
 .hello b {
-  font: 600 19px var(--display);
+  font: 600 var(--fs-5) var(--display);
   display: block;
   line-height: 1.1;
 }
 .hello span {
   display: block;
-  font-size: 13px;
+  font-size: var(--fs-3);
   color: var(--muted);
   white-space: nowrap;
   overflow: hidden;
@@ -349,7 +358,7 @@ nav.nav button {
   justify-items: center;
   align-content: center;
   gap: 1px;
-  font: 600 12.5px var(--display);
+  font: 600 var(--fs-2) var(--display);
 }
 nav.nav button .ico {
   width: 23px;
@@ -450,7 +459,7 @@ main {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 14px;
+  font-size: var(--fs-3);
   font-weight: 700;
   color: var(--muted);
 }
@@ -466,7 +475,7 @@ main {
   overflow: hidden;
 }
 .donecard h2 {
-  font-size: 25px;
+  font-size: var(--fs-7);
   padding-right: 80px;
 }
 .donecard .mascot {
@@ -500,7 +509,7 @@ main {
   gap: 10px;
 }
 .sech h3 {
-  font-size: 21px;
+  font-size: var(--fs-6);
 }
 .tt {
   display: grid;
@@ -513,14 +522,14 @@ main {
   align-items: center;
 }
 .tr .t {
-  font: 600 13px var(--display);
+  font: 600 var(--fs-3) var(--display);
   color: var(--muted);
   text-align: right;
   line-height: 1.1;
 }
 .tr .t small {
   display: block;
-  font-size: 11px;
+  font-size: var(--fs-1);
 }
 .tcard {
   display: grid;
@@ -546,12 +555,12 @@ main {
   display: grid;
 }
 .tcard .m b {
-  font: 600 16.5px var(--display);
+  font: 600 var(--fs-4) var(--display);
   overflow: hidden;
   text-overflow: ellipsis;
 }
 .tcard .m span {
-  font-size: 12.5px;
+  font-size: var(--fs-2);
   color: var(--muted);
   font-weight: 700;
   white-space: nowrap;
@@ -583,7 +592,7 @@ main {
   content: "🌿 ";
 }
 .brkline {
-  font-size: 13px;
+  font-size: var(--fs-3);
   color: var(--muted);
   font-weight: 700;
   padding: 4px 14px;
@@ -637,17 +646,17 @@ main {
   transform: rotate(2.5deg);
 }
 .joke .q {
-  font: 600 19px/1.25 var(--display);
+  font: 600 var(--fs-5) / 1.25 var(--display);
 }
 .joke .a {
-  font-size: 16px;
+  font-size: var(--fs-4);
   padding: 10px 14px;
   border-radius: 16px;
   background: rgba(255, 255, 255, 0.9);
   animation: pop 0.3s;
 }
 .joke .tap {
-  font-size: 13px;
+  font-size: var(--fs-3);
   font-weight: 800;
   opacity: 0.75;
 }
@@ -668,7 +677,7 @@ main {
   box-shadow: var(--lift);
 }
 .daybadge {
-  font: 700 18px var(--display);
+  font: 700 var(--fs-5) var(--display);
   width: 52px;
   height: 52px;
   border-radius: 16px;
@@ -681,7 +690,7 @@ main {
 }
 .daybadge small {
   display: block;
-  font: 700 9.5px var(--body);
+  font: 700 var(--fs-1) var(--body);
   letter-spacing: 0.06em;
 }
 .inp {
@@ -739,7 +748,7 @@ dialog.sheet::backdrop {
   padding-bottom: 10px;
 }
 .shead h3 {
-  font-size: 18px;
+  font-size: var(--fs-5);
   flex: 1;
   min-width: 0;
   overflow: hidden;
@@ -784,7 +793,7 @@ dialog.sheet::backdrop {
   gap: 16px;
 }
 .stage .kind {
-  font: 600 15px var(--display);
+  font: 600 var(--fs-4) var(--display);
   color: color-mix(in srgb, var(--c) 55%, var(--ink));
 }
 .stage .kind .k {
@@ -800,7 +809,7 @@ dialog.sheet::backdrop {
   font-size: clamp(23px, 5.8vw, 30px);
 }
 .stage .body {
-  font-size: 16.5px;
+  font-size: var(--fs-4);
 }
 .stage .body > * + * {
   margin-top: 12px;
@@ -863,7 +872,7 @@ dialog.sheet::backdrop {
   gap: 6px;
 }
 .finish h2 {
-  font-size: 34px;
+  font-size: var(--fs-8);
 }
 .chero {
   position: relative;
@@ -894,7 +903,7 @@ dialog.sheet::backdrop {
   max-width: 72%;
 }
 .chero p {
-  font-size: 14px;
+  font-size: var(--fs-3);
   font-weight: 700;
   max-width: 68%;
   opacity: 0.85;
@@ -934,7 +943,7 @@ dialog.sheet::backdrop {
   align-items: start;
 }
 .idea .k {
-  font: 700 17px var(--display);
+  font: 700 var(--fs-5) var(--display);
   width: 38px;
   height: 38px;
   border-radius: 13px;
@@ -994,7 +1003,7 @@ dialog.sheet::backdrop {
 }
 .voice .say b {
   display: block;
-  font: 600 13px var(--display);
+  font: 600 var(--fs-3) var(--display);
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: color-mix(in srgb, var(--c) 55%, var(--ink));
@@ -1009,7 +1018,7 @@ dialog.sheet::backdrop {
   gap: 4px;
 }
 .mission b {
-  font: 600 15px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .oneness {
   border-radius: var(--r-lg);
@@ -1018,7 +1027,7 @@ dialog.sheet::backdrop {
   color: #2b2340;
 }
 .oneness p {
-  font: 600 19px/1.4 var(--display);
+  font: 600 var(--fs-5) / 1.4 var(--display);
   margin-top: 6px;
 }
 .oneness .eyebrow {
@@ -1127,7 +1136,7 @@ dialog.sheet::backdrop {
   min-width: 100%;
 }
 .grid th {
-  font: 600 13px var(--display);
+  font: 600 var(--fs-3) var(--display);
   text-align: left;
   padding: 8px;
   background: var(--sunk);
@@ -1155,7 +1164,7 @@ dialog.sheet::backdrop {
   background: var(--sunk);
   padding: 8px 14px;
   font-weight: 800;
-  font-size: 14px;
+  font-size: var(--fs-3);
 }
 .token.sel {
   background: var(--sun);
@@ -1181,7 +1190,7 @@ dialog.sheet::backdrop {
 }
 .bucket b {
   width: 100%;
-  font: 600 14px var(--display);
+  font: 600 var(--fs-3) var(--display);
 }
 .pad {
   width: 100%;
@@ -1202,7 +1211,7 @@ dialog.sheet::backdrop {
   padding: 10px 12px;
   background: var(--sunk);
   text-align: left;
-  font-size: 14px;
+  font-size: var(--fs-3);
   font-weight: 800;
 }
 .mitem.sel {
@@ -1240,7 +1249,7 @@ dialog.sheet::backdrop {
   border-radius: 14px;
   display: grid;
   place-items: center;
-  font: 700 26px var(--display);
+  font: 700 var(--fs-7) var(--display);
   background: var(--surface);
   box-shadow: inset 0 0 0 2px var(--line);
 }
@@ -1288,7 +1297,7 @@ dialog.sheet::backdrop {
   border-radius: 11px;
   background: var(--surface);
   box-shadow: 0 3px 0 var(--line);
-  font: 600 15px var(--display);
+  font: 600 var(--fs-4) var(--display);
   padding: 0 6px;
 }
 .kb button.hit {
@@ -1304,14 +1313,14 @@ dialog.sheet::backdrop {
 }
 .kb button.w {
   min-width: 60px;
-  font-size: 13px;
+  font-size: var(--fs-3);
 }
 .tfq {
   border-radius: var(--r-xl);
   padding: 28px 22px;
   background: var(--aqua);
   color: #2b2340;
-  font: 600 22px/1.3 var(--display);
+  font: 600 var(--fs-6) / 1.3 var(--display);
   text-align: center;
   min-height: 160px;
   display: grid;
@@ -1324,7 +1333,7 @@ dialog.sheet::backdrop {
 }
 .tfrow .btn {
   height: 58px;
-  font-size: 19px;
+  font-size: var(--fs-5);
 }
 .btn.no {
   background: var(--bad);
@@ -1361,7 +1370,7 @@ dialog.sheet::backdrop {
   box-shadow:
     0 4px 0 var(--line),
     inset 0 0 0 2px var(--line);
-  font: 600 18px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .oddgrid button.right {
   background: var(--good);
@@ -1386,11 +1395,11 @@ dialog.sheet::backdrop {
   display: grid;
   justify-items: center;
   gap: 2px;
-  font: 600 12px var(--display);
+  font: 600 var(--fs-2) var(--display);
   color: var(--muted);
 }
 .day b {
-  font: 600 20px var(--display);
+  font: 600 var(--fs-6) var(--display);
   color: var(--ink);
 }
 .day[aria-pressed="true"] {
@@ -1419,7 +1428,7 @@ dialog.sheet::backdrop {
   left: 0;
   right: 0;
   border-top: 2px dotted var(--line);
-  font: 600 11px var(--display);
+  font: 600 var(--fs-1) var(--display);
   color: var(--muted);
   padding: 2px 0 0 10px;
 }
@@ -1434,7 +1443,7 @@ dialog.sheet::backdrop {
   position: absolute;
   border-radius: 12px;
   padding: 3px 8px;
-  font-size: 12px;
+  font-size: var(--fs-2);
   font-weight: 800;
   line-height: 1.3;
   overflow: hidden;
@@ -1449,7 +1458,7 @@ dialog.sheet::backdrop {
 .calhead {
   grid-template-columns: 58px 1fr 1fr;
   padding-right: 10px;
-  font: 600 14px var(--display);
+  font: 600 var(--fs-3) var(--display);
   text-align: center;
   color: var(--muted);
 }
@@ -1474,7 +1483,7 @@ dialog.sheet::backdrop {
   border-radius: 12px;
   border: 0;
   background: var(--sunk);
-  font: 600 20px var(--display);
+  font: 600 var(--fs-6) var(--display);
 }
 .dpick {
   display: flex;
@@ -1487,7 +1496,7 @@ dialog.sheet::backdrop {
   border-radius: 12px;
   border: 0;
   background: var(--sunk);
-  font: 600 13px var(--display);
+  font: 600 var(--fs-3) var(--display);
 }
 .dpick button[aria-pressed="true"] {
   background: var(--c, var(--ink));
@@ -1499,7 +1508,7 @@ dialog.sheet::backdrop {
 }
 .field label,
 .field > span {
-  font: 600 14px var(--display);
+  font: 600 var(--fs-3) var(--display);
   color: var(--muted);
 }
 .fgrid {
@@ -1533,7 +1542,7 @@ dialog.sheet::backdrop {
   border-radius: 50%;
   display: grid;
   place-items: center;
-  font: 700 22px var(--display);
+  font: 700 var(--fs-6) var(--display);
   background: var(--surface);
   color: var(--ink);
   box-shadow:
@@ -1555,13 +1564,13 @@ dialog.sheet::backdrop {
   animation: bob 1.6s ease-in-out infinite;
 }
 .node .lbl {
-  font: 600 13.5px/1.15 var(--display);
+  font: 600 var(--fs-3) / 1.15 var(--display);
   background: color-mix(in srgb, var(--bg) 85%, transparent);
   padding: 2px 6px;
   border-radius: 8px;
 }
 .node .sub {
-  font-size: 11.5px;
+  font-size: var(--fs-2);
   color: var(--muted);
   font-weight: 700;
 }
@@ -1579,7 +1588,7 @@ dialog.sheet::backdrop {
   box-shadow: var(--lift);
 }
 .unit .no {
-  font: 700 16px var(--display);
+  font: 700 var(--fs-4) var(--display);
   width: 44px;
   height: 44px;
   border-radius: 14px;
@@ -1624,7 +1633,7 @@ dialog.sheet::backdrop {
   transform: rotate(1.2deg);
 }
 .scard .big {
-  font: 700 34px var(--display);
+  font: 700 var(--fs-8) var(--display);
   line-height: 1;
 }
 .scard .bl {
@@ -1685,10 +1694,10 @@ dialog.sheet::backdrop {
   transform: rotate(1.2deg);
 }
 .skyt b {
-  font: 600 18px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .skyt em {
-  font: 700 26px/1 var(--display);
+  font: 700 var(--fs-7) / 1 var(--display);
   font-style: normal;
 }
 .skyt svg,
@@ -1702,10 +1711,10 @@ dialog.sheet::backdrop {
   margin: 2px 0 4px;
 }
 .skyt span {
-  font: 700 13px/1.3 var(--body);
+  font: 700 var(--fs-3) / 1.3 var(--body);
 }
 .skyt small {
-  font: 500 12px/1.3 var(--body);
+  font: 500 var(--fs-2) / 1.3 var(--body);
   opacity: 0.85;
 }
 .skyt .ln line {
@@ -1777,7 +1786,7 @@ dialog.sheet::backdrop {
   display: block;
 }
 .choice span {
-  font-size: 13.5px;
+  font-size: var(--fs-3);
   color: var(--muted);
 }
 .ages {
@@ -1793,7 +1802,7 @@ dialog.sheet::backdrop {
   box-shadow:
     0 4px 0 var(--line),
     inset 0 0 0 2px var(--line);
-  font: 700 24px var(--display);
+  font: 700 var(--fs-6) var(--display);
 }
 .ages button[aria-pressed="true"] {
   background: var(--tang);
@@ -1839,7 +1848,7 @@ dialog.mini::backdrop {
   color: var(--bg);
   padding: 12px 20px;
   border-radius: 18px;
-  font: 600 16px var(--display);
+  font: 600 var(--fs-4) var(--display);
   white-space: nowrap;
   animation: rise 0.25s;
   max-width: calc(100% - 32px);
@@ -1861,7 +1870,7 @@ dialog.mini::backdrop {
   z-index: 999;
 }
 .note {
-  font-size: 14px;
+  font-size: var(--fs-3);
   color: var(--muted);
   padding: 12px 14px;
   border-radius: 16px;
@@ -1874,7 +1883,7 @@ dialog.mini::backdrop {
   }
   .wt {
     height: 47px;
-    font-size: 22px;
+    font-size: var(--fs-6);
   }
   .kb button {
     min-width: 27px;
@@ -1931,7 +1940,7 @@ dialog.mini::backdrop {
 }
 .tag {
   display: inline-block;
-  font: 600 11px var(--display);
+  font: 600 var(--fs-1) var(--display);
   letter-spacing: 0.06em;
   text-transform: uppercase;
   border-radius: 999px;
@@ -1960,11 +1969,11 @@ dialog.mini::backdrop {
   grid-template-columns: 1fr auto;
   gap: 0 8px;
   align-items: baseline;
-  font-size: 14px;
+  font-size: var(--fs-3);
 }
 .dsteps li span {
   grid-column: 1/-1;
-  font: 600 11px var(--display);
+  font: 600 var(--fs-1) var(--display);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--muted);
@@ -1973,13 +1982,13 @@ dialog.mini::backdrop {
   font-style: normal;
   color: var(--muted);
   font-weight: 700;
-  font-size: 12.5px;
+  font-size: var(--fs-2);
 }
 .extrash {
   margin: 6px 0 0;
   padding-top: 12px;
   border-top: 2px solid var(--line);
-  font: 600 17px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .ontrack {
   display: grid;
@@ -2021,7 +2030,7 @@ dialog.mini::backdrop {
   );
 }
 .trkchip {
-  font: 700 13px var(--body);
+  font: 700 var(--fs-3) var(--body);
   padding: 3px 10px;
   border-radius: 999px;
   background: color-mix(in srgb, var(--good) 16%, var(--surface));
@@ -2043,7 +2052,7 @@ dialog.mini::backdrop {
   gap: 8px;
 }
 .ys-top b {
-  font: 400 34px/1 var(--poster);
+  font: 400 var(--fs-8) / 1 var(--poster);
 }
 .ysbar {
   position: relative;
@@ -2063,7 +2072,7 @@ dialog.mini::backdrop {
   position: relative;
   display: grid;
   place-items: center;
-  font: 700 11px var(--body);
+  font: 700 var(--fs-1) var(--body);
   color: var(--ink);
   border-left: 1px solid color-mix(in srgb, var(--ink) 12%, transparent);
 }
@@ -2075,7 +2084,7 @@ dialog.mini::backdrop {
   flex-wrap: wrap;
   gap: 6px 14px;
   justify-content: center;
-  font-size: 13px;
+  font-size: var(--fs-3);
 }
 .callegend span {
   display: inline-flex;
@@ -2134,7 +2143,7 @@ dialog.mini::backdrop {
   text-align: left;
   padding: 4px 0 4px 10px;
   border-left: 3px solid var(--c, var(--line));
-  font-size: 15px;
+  font-size: var(--fs-4);
 }
 .wrow.ok {
   color: var(--muted);
@@ -2155,7 +2164,7 @@ dialog.mini::backdrop {
   text-align: left;
   padding: 4px 0 4px 10px;
   border-left: 3px solid var(--c);
-  font-size: 15px;
+  font-size: var(--fs-4);
 }
 .haveready {
   margin: 4px 0 0;
@@ -2184,7 +2193,7 @@ dialog.mini::backdrop {
   font: inherit;
 }
 .nightbar b {
-  font: 600 16px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .whos {
   display: flex;
@@ -2196,7 +2205,7 @@ dialog.mini::backdrop {
   border-radius: 999px;
   height: 38px;
   padding: 0 14px;
-  font: 600 14px var(--display);
+  font: 600 var(--fs-3) var(--display);
   background: var(--sunk);
 }
 .whos button[aria-pressed="true"] {
@@ -2232,7 +2241,7 @@ dialog.mini::backdrop {
   border-radius: 18px;
   padding: 10px 14px;
   background: color-mix(in srgb, var(--sun) 30%, var(--surface));
-  font: 700 15px var(--body);
+  font: 700 var(--fs-4) var(--body);
   color: var(--ink);
   width: 100%;
 }
@@ -2273,7 +2282,7 @@ dialog.mini::backdrop {
   gap: 4px;
 }
 .mhead span {
-  font: 600 11.5px var(--display);
+  font: 600 var(--fs-2) var(--display);
   color: var(--muted);
   text-align: center;
 }
@@ -2294,7 +2303,7 @@ dialog.mini::backdrop {
   gap: 3px;
 }
 .mday b {
-  font: 600 14px var(--display);
+  font: 600 var(--fs-3) var(--display);
 }
 .mday.out {
   opacity: 0.35;
@@ -2347,7 +2356,7 @@ dialog.mini::backdrop {
   transform: rotate(1.2deg);
 }
 .pebble b {
-  font: 700 30px var(--display);
+  font: 700 var(--fs-7) var(--display);
   line-height: 1;
 }
 .pebble.today {
@@ -2356,7 +2365,7 @@ dialog.mini::backdrop {
     var(--lift);
 }
 .pchip {
-  font-size: 12px;
+  font-size: var(--fs-2);
   font-weight: 800;
   padding: 4px 8px;
   border-radius: 10px;
@@ -2377,7 +2386,7 @@ dialog.mini::backdrop {
   gap: 4px;
 }
 .quote p {
-  font: 600 18px/1.35 var(--display);
+  font: 600 var(--fs-5) / 1.35 var(--display);
 }
 .thumbs {
   display: grid;
@@ -2403,7 +2412,7 @@ dialog.mini::backdrop {
   border-radius: 14px;
   background: var(--sunk);
   color: var(--muted);
-  font-size: 12px;
+  font-size: var(--fs-2);
 }
 .rcardj {
   border-radius: 18px;
@@ -2413,7 +2422,7 @@ dialog.mini::backdrop {
   gap: 2px;
 }
 .rcardj b {
-  font: 700 24px var(--display);
+  font: 700 var(--fs-6) var(--display);
 }
 .scard {
   border: 0;
@@ -2438,7 +2447,7 @@ dialog.mini::backdrop {
   border-radius: 13px;
   display: grid;
   place-items: center;
-  font: 700 15px var(--display);
+  font: 700 var(--fs-4) var(--display);
   background: var(--c);
   color: #2b2340;
 }
@@ -2453,7 +2462,7 @@ dialog.mini::backdrop {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 4px 14px;
-  font-size: 14px;
+  font-size: var(--fs-3);
 }
 .kv span {
   color: var(--muted);
@@ -2469,7 +2478,7 @@ dialog.mini::backdrop {
   box-shadow: var(--lift);
 }
 .libcard b {
-  font: 600 17px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .libcard .ico {
   width: 28px;
@@ -2502,7 +2511,7 @@ dialog.mini::backdrop {
   background: color-mix(in srgb, var(--c) 18%, var(--surface));
 }
 .qn {
-  font: 700 18px var(--display);
+  font: 700 var(--fs-5) var(--display);
   color: color-mix(in srgb, var(--c) 60%, var(--ink));
   text-align: center;
 }
@@ -2524,7 +2533,7 @@ dialog.mini::backdrop {
 }
 .btn.big {
   height: 54px;
-  font-size: 19px;
+  font-size: var(--fs-5);
   border-radius: 16px !important;
 }
 .now .ck {
@@ -2550,7 +2559,7 @@ dialog.mini::backdrop {
   border-radius: 18px;
   padding: 8px 14px;
   background: color-mix(in srgb, var(--peri) 22%, var(--surface));
-  font: 600 15px var(--display);
+  font: 600 var(--fs-4) var(--display);
   color: var(--ink);
 }
 .tt.compact {
@@ -2569,7 +2578,7 @@ dialog.mini::backdrop {
   height: 18px;
 }
 .tt.compact .tcard .m b {
-  font-size: 15.5px;
+  font-size: var(--fs-4);
 }
 .tt.compact .ck {
   width: 40px;
@@ -2598,13 +2607,13 @@ dialog.mini::backdrop {
   row-gap: 0;
 }
 .morebtn span:first-of-type {
-  font: 600 17px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .morebtn .xs {
   grid-column: 2;
 }
 .menurow b {
-  font: 600 17px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .sec > .menurow + .menurow {
   margin-top: -2px;
@@ -2681,7 +2690,7 @@ dialog.mini::backdrop {
 }
 .vst {
   justify-self: start;
-  font-size: 12px;
+  font-size: var(--fs-2);
   font-weight: 600;
   padding: 3px 10px;
   border-radius: 99px;
@@ -2726,7 +2735,7 @@ dialog.mini::backdrop {
   gap: 6px;
 }
 .rescard .pill {
-  font-size: 11px;
+  font-size: var(--fs-1);
 }
 .calhead {
   display: flex;
@@ -2741,7 +2750,7 @@ dialog.mini::backdrop {
   text-align: center;
 }
 .calt b {
-  font: 600 18px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 /* Library card lists (resources, worth buying, watch): cards side by side where there is room, with space between */
 .grid2 {
@@ -2767,7 +2776,7 @@ dialog.mini::backdrop {
 .chip.xs {
   white-space: normal;
   max-width: 100%;
-  font-size: 12px;
+  font-size: var(--fs-2);
   padding: 5px 10px;
   min-height: 0;
   height: auto;
@@ -2783,7 +2792,7 @@ dialog.mini::backdrop {
   border-top: 1px solid var(--line);
 }
 .invi b {
-  font: 600 15.5px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .extras {
   display: grid;
@@ -2812,11 +2821,11 @@ dialog.mini::backdrop {
   display: none;
 }
 .hub summary b {
-  font: 600 16.5px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .hub summary::after {
   content: "›";
-  font-size: 22px;
+  font-size: var(--fs-6);
   color: var(--muted);
   transition: transform 0.2s;
 }
@@ -2846,7 +2855,7 @@ dialog.mini::backdrop {
   border-radius: 99px;
   background: var(--surface);
   box-shadow: inset 0 0 0 1.5px var(--line);
-  font: 600 13px var(--display);
+  font: 600 var(--fs-3) var(--display);
   color: var(--ink);
 }
 .secchip .n {
@@ -2856,10 +2865,10 @@ dialog.mini::backdrop {
   height: 20px;
   border-radius: 50%;
   background: var(--sunk);
-  font-size: 11px;
+  font-size: var(--fs-1);
 }
 .secchip small {
-  font: 500 11px var(--body, inherit);
+  font: 500 var(--fs-1) var(--body, inherit);
   color: var(--muted);
 }
 .secchip.on {
@@ -2889,11 +2898,11 @@ dialog.mini::backdrop {
 }
 .hrow .t {
   min-width: 64px;
-  font: 600 14px var(--display);
+  font: 600 var(--fs-3) var(--display);
   color: var(--muted);
 }
 .hrow b {
-  font: 600 15.5px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .src {
   display: grid;
@@ -2903,10 +2912,10 @@ dialog.mini::backdrop {
   margin-bottom: 10px;
 }
 .src b {
-  font: 600 15px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .src span {
-  font-size: 13px;
+  font-size: var(--fs-3);
   opacity: 0.8;
 }
 .src.book {
@@ -2926,7 +2935,7 @@ dialog.mini::backdrop {
   background: var(--surface);
 }
 .spent b {
-  font: 600 22px var(--display);
+  font: 600 var(--fs-6) var(--display);
 }
 .readbtn {
   margin-left: auto;
@@ -2934,7 +2943,7 @@ dialog.mini::backdrop {
   border-radius: 99px;
   background: var(--surface);
   box-shadow: inset 0 0 0 1.5px var(--line);
-  font: 600 13px var(--display);
+  font: 600 var(--fs-3) var(--display);
   color: var(--ink);
 }
 .stage .kind {
@@ -2962,7 +2971,7 @@ dialog #voxbar {
   bottom: 20px;
 }
 #voxbar .vt {
-  font: 600 12px var(--display);
+  font: 600 var(--fs-2) var(--display);
   padding: 0 6px;
   white-space: nowrap;
 }
@@ -2972,7 +2981,7 @@ dialog #voxbar {
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.12);
   color: #fff;
-  font-size: 16px;
+  font-size: var(--fs-4);
   display: grid;
   place-items: center;
   flex: none;
@@ -3000,7 +3009,7 @@ dialog #voxbar {
   border-radius: 50%;
   display: grid;
   place-items: center;
-  font-size: 12px;
+  font-size: var(--fs-2);
   content: "•";
   background: var(--sunk);
   font-weight: 700;
@@ -3037,7 +3046,7 @@ dialog #voxbar {
   color: #24553a;
 }
 .pts .ans {
-  font-size: 14px;
+  font-size: var(--fs-3);
   padding: 6px 10px;
   border-radius: 10px;
   background: #e3f3ec;
@@ -3048,7 +3057,7 @@ dialog #voxbar {
 }
 .tt.compact .tag {
   display: inline-block;
-  font-size: 11px;
+  font-size: var(--fs-1);
   padding: 1px 8px;
   border-radius: 99px;
   margin-right: 6px;
@@ -3096,7 +3105,7 @@ dialog #voxbar {
 }
 .fws h4 {
   margin: 0;
-  font-size: 16px;
+  font-size: var(--fs-4);
 }
 ol.fq {
   margin: 4px 0;
@@ -3126,7 +3135,7 @@ ol.fq {
 }
 table.ftab {
   border-collapse: collapse;
-  font-size: 13px;
+  font-size: var(--fs-3);
 }
 table.ftab td,
 table.ftab th {
@@ -3143,7 +3152,7 @@ table.ftab th {
   max-width: 88%;
   padding: 10px 14px;
   border-radius: 18px;
-  font-size: 15px;
+  font-size: var(--fs-4);
   line-height: 1.4;
 }
 .bub.cl {
@@ -3202,7 +3211,7 @@ table.ftab th {
   place-items: center;
   background: rgba(43, 35, 64, 0.06);
   font-weight: 700;
-  font-size: 13px;
+  font-size: var(--fs-3);
   color: inherit;
   text-decoration: none;
 }
@@ -3220,17 +3229,17 @@ table.ftab th {
   gap: 2px;
 }
 .tile b {
-  font: 700 22px var(--display);
+  font: 700 var(--fs-6) var(--display);
 }
 .tile span {
-  font-size: 12.5px;
+  font-size: var(--fs-2);
   color: rgba(43, 35, 64, 0.65);
 }
 .tlegend {
   display: flex;
   flex-wrap: wrap;
   gap: 6px 14px;
-  font-size: 13px;
+  font-size: var(--fs-3);
   margin-bottom: 8px;
 }
 .tlegend span {
@@ -3257,7 +3266,7 @@ table.ftab th {
   left: -44px;
   right: 0;
   border-top: 1px solid rgba(43, 35, 64, 0.1);
-  font-size: 11px;
+  font-size: var(--fs-1);
   color: rgba(43, 35, 64, 0.55);
   transform: translateY(-1px);
   line-height: 0;
@@ -3305,7 +3314,7 @@ table.ftab th {
   left: 0;
   right: 0;
   text-align: center;
-  font-size: 11px;
+  font-size: var(--fs-1);
   color: rgba(43, 35, 64, 0.6);
 }
 .tx.on {
@@ -3322,7 +3331,7 @@ table.ftab th {
   pointer-events: none;
   background: #2b2340;
   color: #fff;
-  font-size: 12.5px;
+  font-size: var(--fs-2);
   line-height: 1.45;
   padding: 8px 10px;
   border-radius: 10px;
@@ -3354,7 +3363,7 @@ table.ftab th {
 table.rtab {
   border-collapse: collapse;
   width: 100%;
-  font-size: 13px;
+  font-size: var(--fs-3);
 }
 table.rtab th,
 table.rtab td {
@@ -3364,11 +3373,11 @@ table.rtab td {
   vertical-align: top;
 }
 table.rtab th {
-  font-size: 12px;
+  font-size: var(--fs-2);
   color: rgba(43, 35, 64, 0.65);
 }
 .grade {
-  font: 700 15px var(--display);
+  font: 700 var(--fs-4) var(--display);
   padding: 4px 12px;
   border-radius: 99px;
   background: #fff0c9;
@@ -3390,7 +3399,7 @@ table.rtab th {
   padding: 20px 8px;
 }
 .exdone h2 {
-  font-size: 28px;
+  font-size: var(--fs-7);
   margin: 0;
 }
 .exq {
@@ -3398,7 +3407,7 @@ table.rtab th {
   gap: 12px;
 }
 .exqt {
-  font: 600 21px/1.35 var(--display);
+  font: 600 var(--fs-6) / 1.35 var(--display);
   margin: 4px 0;
 }
 .exopt {
@@ -3410,7 +3419,7 @@ table.rtab th {
   border-radius: 18px;
   border: 2px solid rgba(43, 35, 64, 0.12);
   background: var(--surface);
-  font-size: 17px;
+  font-size: var(--fs-5);
   min-height: 56px;
   cursor: pointer;
 }
@@ -3453,7 +3462,7 @@ table.rtab th {
   outline-offset: 1px;
 }
 .ask.exp {
-  font-size: 16px;
+  font-size: var(--fs-4);
   line-height: 1.5;
 }
 .zrow {
@@ -3489,10 +3498,10 @@ table.rtab th {
   color: inherit;
 }
 .iopt b {
-  font: 600 17px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .iopt span {
-  font-size: 13px;
+  font-size: var(--fs-3);
   color: rgba(43, 35, 64, 0.65);
 }
 .iopt.green {
@@ -3523,7 +3532,7 @@ table.rtab th {
 }
 .donebar b {
   flex: 1;
-  font: 600 16px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .donebar .ck {
   width: 28px;
@@ -3575,7 +3584,7 @@ a.btn {
   z-index: 9999;
   pointer-events: none;
   transform: translate(-50%, -50%);
-  font: 700 15px var(--display);
+  font: 700 var(--fs-4) var(--display);
   color: var(--forest);
   background: #fff;
   padding: 6px 12px;
@@ -3697,7 +3706,7 @@ a.btn {
   gap: 10px;
 }
 .wk1t h3 {
-  font-size: 19px;
+  font-size: var(--fs-5);
 }
 .wk1t > svg {
   flex: none;
@@ -3783,7 +3792,7 @@ a.btn {
   min-height: 40px;
   max-height: 160px;
   padding: 9px 6px;
-  font-size: 16px;
+  font-size: var(--fs-4);
   box-shadow: none;
   outline: 0;
 }
@@ -3801,7 +3810,7 @@ a.btn {
   min-height: 96px;
   max-height: 240px;
   padding: 8px;
-  font-size: 17px;
+  font-size: var(--fs-5);
   line-height: 1.45;
 }
 .composer .cbtn,
@@ -3870,7 +3879,7 @@ a.btn {
   border-radius: 999px;
   background: linear-gradient(90deg, #ece8fb, #f7f3e8);
   color: var(--peri);
-  font: 600 15px var(--body);
+  font: 600 var(--fs-4) var(--body);
   text-align: left;
   cursor: pointer;
 }
@@ -3890,7 +3899,7 @@ a.btn {
   border-radius: 999px;
   background: var(--sun);
   color: var(--onbright);
-  font-size: 13px;
+  font-size: var(--fs-3);
   font-weight: 700;
 }
 /* Add by hand: a grid of kinds, then only the fields that kind needs */
@@ -3917,11 +3926,11 @@ a.btn {
   border-radius: 14px;
   background: var(--surface);
   color: var(--ink);
-  font: 600 12px/1.15 var(--body);
+  font: 600 var(--fs-2) / 1.15 var(--body);
   text-align: center;
 }
 .addk > span {
-  font-size: 20px;
+  font-size: var(--fs-6);
 }
 .addk[aria-pressed="true"] {
   background: color-mix(in srgb, var(--sun) 25%, #fff);
@@ -4016,7 +4025,7 @@ a.btn {
   display: block;
   overflow: hidden;
   color: #fff;
-  font: 700 11px/1.15 var(--body);
+  font: 700 var(--fs-1) / 1.15 var(--body);
   border: 1.5px solid #0003;
   box-shadow: inset -3px 0 #0002;
 }
@@ -4070,15 +4079,15 @@ a.btn {
 .upplay {
   position: absolute;
   color: #fff;
-  font-size: 26px;
+  font-size: var(--fs-7);
   text-shadow: 0 1px 4px #0008;
 }
 .upfile {
-  font: 700 15px var(--body);
+  font: 700 var(--fs-4) var(--body);
   color: var(--muted);
 }
 .finh {
-  font-size: 22px;
+  font-size: var(--fs-6);
   margin: 10px 0 0;
 }
 .sgrp summary {
@@ -4091,14 +4100,14 @@ a.btn {
   display: none;
 }
 .sgrp summary b {
-  font: 600 17px var(--display);
+  font: 600 var(--fs-5) var(--display);
 }
 .sgrp summary::after {
   content: "›";
   position: absolute;
   right: 18px;
   top: 16px;
-  font-size: 22px;
+  font-size: var(--fs-6);
   transition: transform 0.2s;
   color: rgba(43, 35, 64, 0.4);
 }
@@ -4124,7 +4133,7 @@ a.btn {
   position: absolute;
   right: -4px;
   top: -6px;
-  font-size: 12px;
+  font-size: var(--fs-2);
   background: #fff;
   border-radius: 50%;
   width: 18px;
@@ -4151,7 +4160,7 @@ a.btn {
   border: 2px dashed rgba(43, 35, 64, 0.15);
 }
 .needai > .lk {
-  font-size: 20px;
+  font-size: var(--fs-6);
 }
 .needai > div {
   flex: 1;
@@ -4162,7 +4171,7 @@ a.btn {
   gap: 8px;
   padding-left: 0;
   list-style: none;
-  font-size: 15px;
+  font-size: var(--fs-4);
 }
 .pluslist li {
   padding: 10px 12px;
@@ -4178,10 +4187,10 @@ a.btn {
   background: var(--surface);
 }
 .trow b {
-  font: 600 15.5px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .tic {
-  font-size: 22px;
+  font-size: var(--fs-6);
   flex: none;
 }
 .qlist {
@@ -4198,7 +4207,7 @@ a.btn {
   transition: box-shadow 0.15s;
 }
 .qrow2 b {
-  font: 600 15px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .qrow2.drag {
   box-shadow: 0 8px 22px rgba(43, 35, 64, 0.22);
@@ -4208,7 +4217,7 @@ a.btn {
 }
 .daydrag .t .dh {
   display: block;
-  font-size: 18px;
+  font-size: var(--fs-5);
   line-height: 1;
   margin-bottom: 4px;
 }
@@ -4219,7 +4228,7 @@ a.btn {
 .dh {
   touch-action: none;
   cursor: grab;
-  font-size: 22px;
+  font-size: var(--fs-6);
   padding: 8px 6px;
   color: var(--muted);
   user-select: none;
@@ -4228,7 +4237,7 @@ a.btn {
 .iconbtn.qb {
   width: 34px;
   height: 34px;
-  font-size: 12px;
+  font-size: var(--fs-2);
 }
 .qpick {
   display: inline-flex;
@@ -4268,7 +4277,7 @@ a.btn {
   cursor: pointer;
 }
 .subtap .chev {
-  font-size: 13px;
+  font-size: var(--fs-3);
   font-weight: 600;
   white-space: nowrap;
   opacity: 0.85;
@@ -4277,7 +4286,7 @@ a.btn {
   background: 0 0;
   border: 0;
   padding: 6px 0 0;
-  font: 600 14px var(--body, system-ui);
+  font: 600 var(--fs-3) var(--body, system-ui);
   color: var(--ink, #2b2340);
   opacity: 0.7;
   cursor: pointer;
@@ -4297,7 +4306,7 @@ a.btn {
   display: inline-flex;
   gap: 5px;
   align-items: center;
-  font-size: 12.5px;
+  font-size: var(--fs-2);
   padding: 4px 10px;
   border-radius: 999px;
 }
@@ -4376,7 +4385,7 @@ a.btn {
 .wft {
   border-collapse: collapse;
   width: 100%;
-  font-size: 14px;
+  font-size: var(--fs-3);
   margin: 6px 0;
 }
 .wft td,
@@ -4398,7 +4407,7 @@ a.btn {
   border-top: 1px solid var(--line);
 }
 .pws b {
-  font: 600 15.5px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .wsframe {
   width: 100%;
@@ -4409,14 +4418,11 @@ a.btn {
   margin-top: 8px;
 }
 .story h2 {
-  font: 600 24px/1.2 var(--display);
+  font: 600 var(--fs-6) / 1.2 var(--display);
   margin: 0 0 10px;
 }
 .story p {
-  font:
-    16.5px/1.7 Georgia,
-    "Times New Roman",
-    serif;
+  font: var(--fs-4) / 1.7 var(--body);
   margin: 0 0 12px;
 }
 .story p.first::first-letter {
@@ -4429,7 +4435,7 @@ a.btn {
 .storyask {
   border-top: 1px solid var(--line);
   padding-top: 8px;
-  font-size: 14px;
+  font-size: var(--fs-3);
 }
 .trow .no,
 .topic .no {
@@ -4490,9 +4496,7 @@ a.btn {
   border: 0;
   border-radius: 999px;
   padding: 10px 14px;
-  font:
-    700 14px Nunito,
-    system-ui;
+  font: 700 var(--fs-3) var(--body);
   background: #2b2340;
   color: #fff;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
@@ -4537,9 +4541,7 @@ a.btn {
 .dked textarea {
   width: 100%;
   box-sizing: border-box;
-  font:
-    16px/1.45 Nunito,
-    system-ui;
+  font: var(--fs-4) / 1.45 var(--body);
   border: 2px solid #e6dfd2;
   border-radius: 12px;
   padding: 10px;
@@ -4584,7 +4586,7 @@ html:has(.fxdlg[open]) {
   border-radius: 50%;
   background: #fff3;
   color: #fff;
-  font: 700 16px var(--body);
+  font: 700 var(--fs-4) var(--body);
   flex: none;
 }
 .fxbar {
@@ -4599,7 +4601,7 @@ html:has(.fxdlg[open]) {
   padding: 8px 12px;
   background: #fff;
   color: var(--ink);
-  font: 700 13px var(--body);
+  font: 700 var(--fs-3) var(--body);
   flex: none;
 }
 .fxfeed {
@@ -4679,7 +4681,7 @@ html:has(.fxdlg[open]) {
   bottom: 0;
   max-width: 100%;
   padding: 2px 8px;
-  font-size: 10px;
+  font-size: var(--fs-1);
   line-height: 1.4;
   color: #fff;
   background: #0008;
@@ -4703,18 +4705,18 @@ html:has(.fxdlg[open]) {
   align-content: start;
 }
 .fxtxt h1 {
-  font-size: 30px;
+  font-size: var(--fs-7);
 }
 .fxtxt h2 {
-  font-size: 24px;
+  font-size: var(--fs-6);
 }
 .fxtxt h3 {
-  font-size: 18px;
+  font-size: var(--fs-5);
   margin-top: 6px;
 }
 .fxtxt p,
 .fxtxt li {
-  font-size: 17px;
+  font-size: var(--fs-5);
   line-height: 1.55;
 }
 .fxtxt ul {
@@ -4724,7 +4726,7 @@ html:has(.fxdlg[open]) {
   gap: 6px;
 }
 .fxeb {
-  font: 700 12px var(--display);
+  font: 700 var(--fs-2) var(--display);
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--tangD);
@@ -4732,17 +4734,17 @@ html:has(.fxdlg[open]) {
 .fxsm,
 .fxtxt .fxsm,
 .fxtxt .fxsm li {
-  font-size: 14.5px;
+  font-size: var(--fs-3);
   color: var(--muted);
 }
 .fxhint {
-  font-size: 13px !important;
+  font-size: var(--fs-3) !important;
   color: var(--muted);
   text-align: center;
 }
 .fxstory p {
   font:
-    500 19px/1.7 Georgia,
+    500 var(--fs-5) / 1.7 Georgia,
     "Iowan Old Style",
     serif;
 }
@@ -4753,13 +4755,13 @@ html:has(.fxdlg[open]) {
   font-weight: 700;
 }
 .fxkid {
-  font: 600 22px/1.45 var(--display);
+  font: 600 var(--fs-6) / 1.45 var(--display);
 }
 .fxpo {
   background: var(--sunk);
   border-radius: 14px;
   padding: 10px 12px;
-  font-size: 15px !important;
+  font-size: var(--fs-4) !important;
 }
 .fxadult {
   background: color-mix(in srgb, var(--gum) 25%, var(--surface));
@@ -4789,7 +4791,7 @@ html:has(.fxdlg[open]) {
   border-radius: 16px;
   background: var(--tang);
   color: #fff;
-  font: 600 16px var(--display);
+  font: 600 var(--fs-4) var(--display);
   box-shadow: 0 3px 0 var(--tangD);
   text-decoration: none;
 }
@@ -4867,10 +4869,10 @@ html:has(.fxdlg[open]) {
   align-content: center;
 }
 .fxflip h2 {
-  font-size: 30px;
+  font-size: var(--fs-7);
 }
 .fxflip p {
-  font-size: 19px;
+  font-size: var(--fs-5);
 }
 .fxcar {
   display: flex;
@@ -4903,7 +4905,7 @@ html:has(.fxdlg[open]) {
 }
 .fxjoke .fxbk2 {
   display: none;
-  font: 600 20px var(--display);
+  font: 600 var(--fs-6) var(--display);
   color: var(--tangD);
 }
 .fxjoke.on .fxbk2 {
@@ -4917,7 +4919,7 @@ html:has(.fxdlg[open]) {
   gap: 8px;
 }
 .fxqq {
-  font: 700 18px/1.4 var(--body) !important;
+  font: 700 var(--fs-5) / 1.4 var(--body) !important;
 }
 .fxopt {
   text-align: left;
@@ -4925,7 +4927,7 @@ html:has(.fxdlg[open]) {
   background: var(--surface);
   border-radius: 14px;
   padding: 11px 14px;
-  font: 700 16px var(--body);
+  font: 700 var(--fs-4) var(--body);
 }
 .fxopt.ok {
   border-color: var(--good);
@@ -4944,7 +4946,7 @@ input.fxin {
   border: 2px solid var(--line);
   border-radius: 14px;
   padding: 11px 14px;
-  font: 700 16px var(--body);
+  font: 700 var(--fs-4) var(--body);
   background: var(--surface);
   box-shadow: none;
   flex: none;
@@ -4987,7 +4989,7 @@ input.fxin {
   border-radius: 999px;
   background: #fff2;
   color: #fff;
-  font: 700 15px var(--body);
+  font: 700 var(--fs-4) var(--body);
   padding: 0 12px;
 }
 .fxfab {
@@ -5045,12 +5047,12 @@ body.ai-locked .fxfab .iam::after {
   position: absolute;
   right: -4px;
   bottom: -2px;
-  font-size: 18px;
+  font-size: var(--fs-5);
 }
 .iamtag {
   background: var(--ink);
   color: #fff;
-  font: 700 12px var(--body);
+  font: 700 var(--fs-2) var(--body);
   border-radius: 999px;
   padding: 1px 10px;
 }
@@ -5216,7 +5218,7 @@ dialog .fxfab {
 }
 .fxchead .fxsm {
   flex: 1;
-  font-size: 13px;
+  font-size: var(--fs-3);
 }
 .fxchead .fxx {
   background: var(--sunk);
@@ -5234,7 +5236,7 @@ dialog .fxfab {
   max-width: 85%;
   padding: 10px 14px;
   border-radius: 18px;
-  font-size: 16px;
+  font-size: var(--fs-4);
   line-height: 1.5;
   white-space: pre-wrap;
 }
@@ -5252,7 +5254,7 @@ dialog .fxfab {
 }
 .fxctx {
   margin: 0 16px;
-  font-size: 13px;
+  font-size: var(--fs-3);
   color: var(--muted);
 }
 .fxcin {
@@ -5267,7 +5269,7 @@ dialog .fxfab {
   border-radius: 16px;
   padding: 10px 12px;
   resize: none;
-  font: 600 16px var(--body);
+  font: 600 var(--fs-4) var(--body);
   background: var(--surface);
 }
 .fxcin .fxb {
@@ -5290,7 +5292,7 @@ dialog .fxfab {
 .fxgo {
   background: var(--forest);
   box-shadow: 0 3px 0 var(--forestD);
-  font-size: 17px;
+  font-size: var(--fs-5);
   min-height: 54px;
 }
 .fxparts {
@@ -5325,12 +5327,12 @@ dialog .fxfab {
   flex: none;
   display: grid;
   place-items: center;
-  font-size: 24px;
+  font-size: var(--fs-6);
   background: var(--sunk);
   border-radius: 14px;
 }
 .fxparts b {
-  font: 600 16px var(--display);
+  font: 600 var(--fs-4) var(--display);
 }
 .fxlead {
   min-height: 100%;
@@ -5344,7 +5346,7 @@ dialog .fxfab {
   line-height: 1;
 }
 .fxguide {
-  font: 600 21px/1.45 var(--display) !important;
+  font: 600 var(--fs-6) / 1.45 var(--display) !important;
   max-width: 30ch;
 }
 .fxnext {
@@ -5362,7 +5364,7 @@ dialog .fxfab {
   background: var(--surface);
   border-radius: 16px;
   padding: 12px 14px;
-  font-size: 15px;
+  font-size: var(--fs-4);
   box-shadow: var(--lift);
 }
 .fxneed a {
@@ -5381,7 +5383,7 @@ dialog .fxfab {
   min-height: 96px;
   border-radius: 14px;
   padding: 10px;
-  font: 700 14px/1.3 var(--body);
+  font: 700 var(--fs-3) / 1.3 var(--body);
   background: hsl(var(--h) 80% 93%);
   border: 2px solid hsl(var(--h) 55% 75%);
   display: grid;
@@ -5414,11 +5416,11 @@ dialog .fxfab {
   min-height: 44px;
   border-radius: 50%;
   padding: 0;
-  font-size: 20px;
+  font-size: var(--fs-6);
 }
 .fxpieces.board .fxpc {
   min-height: 120px;
-  font-size: 16px;
+  font-size: var(--fs-4);
 }
 .fxcrumb {
   position: sticky;
@@ -5427,7 +5429,7 @@ dialog .fxfab {
   padding: 8px 16px;
   background: color-mix(in srgb, var(--bg) 92%, transparent);
   backdrop-filter: blur(6px);
-  font: 700 12px var(--body);
+  font: 700 var(--fs-2) var(--body);
   color: var(--muted);
   border-bottom: 1px solid var(--line);
 }
@@ -5436,7 +5438,7 @@ dialog .fxfab {
   border-left: 4px solid var(--sky);
   border-radius: 12px;
   padding: 10px 12px;
-  font-size: 15.5px !important;
+  font-size: var(--fs-4) !important;
   line-height: 1.5;
 }
 .fxchart {
@@ -5447,7 +5449,7 @@ dialog .fxfab {
   box-shadow: var(--lift);
 }
 .fxct {
-  font: 700 15px var(--display) !important;
+  font: 700 var(--fs-4) var(--display) !important;
   margin-bottom: 6px;
 }
 .fxsvgw {
@@ -5480,7 +5482,7 @@ dialog .fxfab {
   gap: 6px;
 }
 .fxpie li {
-  font-size: 14.5px !important;
+  font-size: var(--fs-3) !important;
 }
 .fxpie i {
   display: inline-block;
@@ -5496,7 +5498,7 @@ dialog .fxfab {
 .fxtbl table {
   border-collapse: collapse;
   width: 100%;
-  font-size: 14.5px;
+  font-size: var(--fs-3);
 }
 .fxtbl th,
 .fxtbl td {
@@ -5534,11 +5536,11 @@ dialog .fxfab {
   box-shadow: var(--lift);
 }
 .fxsec p {
-  font: 600 17px/1.5 var(--display) !important;
+  font: 600 var(--fs-5) / 1.5 var(--display) !important;
 }
 .fxchd {
   display: block;
-  font: 700 12px var(--body);
+  font: 700 var(--fs-2) var(--body);
   color: var(--tangD);
   letter-spacing: 0.04em;
 }
@@ -5550,7 +5552,7 @@ dialog .fxfab {
 }
 .fxsheet pre {
   white-space: pre-wrap;
-  font-size: 12px;
+  font-size: var(--fs-2);
 }
 .fxexp {
   width: 100%;
@@ -5595,13 +5597,13 @@ dialog .fxfab {
   max-height: none;
 }
 .fxsetrow figcaption {
-  font: 700 15px/1.35 var(--body);
+  font: 700 var(--fs-4) / 1.35 var(--body);
 }
 .fxrefn {
   background: color-mix(in srgb, var(--sun) 30%, var(--surface));
   border-radius: 12px;
   padding: 9px 12px;
-  font: 700 15px var(--body) !important;
+  font: 700 var(--fs-4) var(--body) !important;
 }
 .fxrefn.ok {
   background: color-mix(in srgb, var(--good) 18%, var(--surface));
@@ -5615,7 +5617,7 @@ dialog .fxfab {
   background: color-mix(in srgb, var(--kc) 16%, var(--surface));
   color: color-mix(in srgb, var(--kc) 80%, #000);
   border: 1.5px solid color-mix(in srgb, var(--kc) 45%, transparent);
-  font: 800 11.5px var(--body);
+  font: 800 var(--fs-2) var(--body);
   letter-spacing: 0.04em;
   text-transform: uppercase;
   white-space: nowrap;
@@ -5648,13 +5650,13 @@ dialog .fxfab {
   border-left: 4px solid #0f8a7e;
   border-radius: 12px;
   padding: 10px 12px;
-  font-size: 15.5px !important;
+  font-size: var(--fs-4) !important;
 }
 .fxroots .fxvoice b {
   color: #b0638c;
 }
 .fxcredit {
-  font-size: 11px;
+  font-size: var(--fs-1);
   opacity: 0.7;
   margin-top: 4px;
 }
@@ -5681,7 +5683,7 @@ body.ai-locked [data-fx="photo"]::after {
   opacity: 0.6;
 }
 body {
-  font: 400 17px/1.55 var(--body);
+  font: 400 var(--fs-5) / 1.55 var(--body);
   color: var(--ink);
   background: var(--bg);
 }
@@ -5699,11 +5701,11 @@ strong {
   font-weight: 700;
 }
 .sech h3 {
-  font: 700 19px var(--body);
+  font: 700 var(--fs-5) var(--body);
 }
 .eyebrow,
 .fxeb {
-  font: 600 14px/1.3 var(--body) !important;
+  font: 600 var(--fs-3) / 1.3 var(--body) !important;
   letter-spacing: 0 !important;
   text-transform: none !important;
   color: var(--muted) !important;
@@ -5740,13 +5742,13 @@ strong {
 }
 .tr .t,
 .tr .num {
-  font: 500 14px var(--body) !important;
+  font: 500 var(--fs-3) var(--body) !important;
   color: var(--muted);
 }
 .btn {
   border-radius: var(--r-btn) !important;
   box-shadow: none !important;
-  font: 700 17px var(--body) !important;
+  font: 700 var(--fs-5) var(--body) !important;
   letter-spacing: 0.01em;
   background: var(--margin);
 }
@@ -5767,7 +5769,7 @@ strong {
 }
 .chip {
   border-radius: 999px !important;
-  font: 600 14px var(--body) !important;
+  font: 600 var(--fs-3) var(--body) !important;
   background: var(--surface) !important;
   border: 1.5px solid var(--rule);
   color: var(--ink);
@@ -5776,7 +5778,7 @@ strong {
 }
 .pill {
   border-radius: 999px !important;
-  font: 600 13px var(--body) !important;
+  font: 600 var(--fs-3) var(--body) !important;
 }
 .pill.completed {
   background: var(--aqua) !important;
@@ -5797,7 +5799,7 @@ strong {
 .seg button {
   flex: 1 0 auto;
   border-radius: 11px !important;
-  font: 600 15px var(--body) !important;
+  font: 600 var(--fs-4) var(--body) !important;
   border: 0 !important;
   box-shadow: none !important;
   background: 0 0 !important;
@@ -5811,7 +5813,7 @@ strong {
 .inp {
   border-radius: var(--r) !important;
   border: 1.5px solid var(--rule) !important;
-  font: 500 17px var(--body) !important;
+  font: 500 var(--fs-5) var(--body) !important;
 }
 .inp:focus {
   outline: 2.5px solid var(--sun);
@@ -5848,7 +5850,7 @@ header.top {
   border-radius: 0 !important;
 }
 .nav button {
-  font: 600 13px var(--body) !important;
+  font: 600 var(--fs-3) var(--body) !important;
   border-radius: 0 !important;
   background: 0 0 !important;
 }
@@ -5886,11 +5888,11 @@ header.top {
 header.top .hello b {
   font-family: var(--poster) !important;
   font-weight: 400 !important;
-  font-size: 22px !important;
+  font-size: var(--fs-6) !important;
 }
 .tcard b,
 .menurow b {
-  font: 700 17px/1.25 var(--body) !important;
+  font: 700 var(--fs-5) / 1.25 var(--body) !important;
 }
 .menurow .ic {
   background: 0 0 !important;
@@ -5913,7 +5915,7 @@ header.top .hello b {
   background: #fff !important;
 }
 .choice b {
-  font: 700 18px var(--body) !important;
+  font: 700 var(--fs-5) var(--body) !important;
   color: var(--ink) !important;
 }
 .fxtoday {
@@ -5943,7 +5945,7 @@ header.top .hello b {
   gap: 3px;
 }
 .fxcont b {
-  font: 700 17px/1.2 var(--body);
+  font: 700 var(--fs-5) / 1.2 var(--body);
 }
 .fxbar {
   display: block;
@@ -6077,7 +6079,7 @@ header.top .iconbtn {
 .fxempty p {
   margin: 0;
   padding: 10px 12px;
-  font: 400 17px var(--hand);
+  font: 400 var(--fs-5) var(--hand);
 }
 .ob .choice {
   display: grid !important;
@@ -6092,7 +6094,7 @@ header.top .iconbtn {
   gap: 6px;
 }
 .fxstep span {
-  font: 600 14px var(--body);
+  font: 600 var(--fs-3) var(--body);
   color: var(--muted);
 }
 .fxstep b {
@@ -6133,7 +6135,7 @@ header.top .iconbtn {
   border-radius: 18px;
 }
 .fxslide2 h2 {
-  font-size: 28px;
+  font-size: var(--fs-7);
   margin: 4px 0 0;
   padding: 0;
 }
@@ -6159,13 +6161,13 @@ header.top .iconbtn {
   border-left: 1.5px solid color-mix(in srgb, var(--sun) 55%, transparent);
 }
 .fxpts b {
-  font: 700 11px/1.2 var(--body);
+  font: 700 var(--fs-1) / 1.2 var(--body);
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--tang);
 }
 .fxpts span {
-  font: 500 14px/1.35 var(--body);
+  font: 500 var(--fs-3) / 1.35 var(--body);
   color: var(--ink);
 }
 .fxtag {
@@ -6173,7 +6175,7 @@ header.top .iconbtn {
   margin-top: 4px;
   padding: 4px 12px;
   border-radius: 99px;
-  font: 700 12px/1.4 var(--body);
+  font: 700 var(--fs-2) / 1.4 var(--body);
   color: var(--ink);
   background: color-mix(in srgb, var(--sun) 35%, #fff);
 }
@@ -6221,14 +6223,14 @@ header.top .wrap {
   align-items: center;
 }
 .fxempty p {
-  font: 500 14px var(--body) !important;
+  font: 500 var(--fs-3) var(--body) !important;
   color: var(--muted);
 }
 .chero .n {
   display: none !important;
 }
 .segmain button {
-  font-size: 16px !important;
+  font-size: var(--fs-4) !important;
   height: 44px !important;
   padding: 0 16px !important;
 }
@@ -6258,7 +6260,7 @@ header.top .wrap {
   margin-top: 10px;
 }
 .pickl {
-  font: 700 12px var(--body);
+  font: 700 var(--fs-2) var(--body);
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--muted);
@@ -6280,7 +6282,7 @@ header.top .wrap {
   border-color: var(--forest) !important;
 }
 .fxsh {
-  font: 700 18px var(--body);
+  font: 700 var(--fs-5) var(--body);
   margin: 22px 0 4px;
 }
 .fxfold {
@@ -6319,7 +6321,7 @@ header.top .wrap {
   align-items: center;
   gap: 6px;
   padding: 0 20px 2px;
-  font: 500 14px var(--body);
+  font: 500 var(--fs-3) var(--body);
   color: var(--muted);
   max-width: 640px;
   margin: 0 auto;
@@ -6377,7 +6379,7 @@ body {
   height: 26px;
   border: 2px solid var(--ink);
   border-radius: 50%;
-  font: 700 15px/1 var(--body);
+  font: 700 var(--fs-4) / 1 var(--body);
   color: var(--ink);
 }
 #guide {
@@ -6409,7 +6411,7 @@ body {
   animation: up 0.25s ease;
 }
 #guide .gbub b {
-  font: 400 22px var(--poster);
+  font: 400 var(--fs-6) var(--poster);
 }
 #guide .gbub p {
   margin: 0;
@@ -6441,7 +6443,7 @@ body {
   color: #e6e1f5;
 }
 .rshead h2 {
-  font: 400 26px var(--poster);
+  font: 400 var(--fs-7) var(--poster);
   color: #fff;
 }
 .rsgrid {
@@ -6475,7 +6477,7 @@ body {
   padding: 12px 14px 14px;
 }
 .rsbody b {
-  font: 600 18px/1.25 var(--display);
+  font: 600 var(--fs-5) / 1.25 var(--display);
 }
 .rslike {
   position: absolute;
@@ -6486,7 +6488,7 @@ body {
   border: 0;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.92);
-  font-size: 20px;
+  font-size: var(--fs-6);
   cursor: pointer;
 }
 .rstop {
@@ -6501,7 +6503,7 @@ body {
   border-radius: var(--r-lg);
 }
 .rstop h2 {
-  font: 400 24px/1.2 var(--poster);
+  font: 400 var(--fs-6) / 1.2 var(--poster);
 }
 .rsdots {
   display: flex;
@@ -6528,10 +6530,10 @@ body {
   border-top: 5px solid var(--peri);
 }
 .rsflash h3 {
-  font-size: 21px;
+  font-size: var(--fs-6);
 }
 .rsflash p {
-  font-size: 18px;
+  font-size: var(--fs-5);
   line-height: 1.55;
 }
 .rsflash.rs-found,
@@ -6542,7 +6544,7 @@ body {
   border-top-color: var(--forest);
 }
 .rsk {
-  font-size: 34px;
+  font-size: var(--fs-8);
 }
 .rsflash figure {
   margin: 0;
@@ -6555,12 +6557,12 @@ body {
   background: var(--sunk);
 }
 .rsflash figcaption {
-  font-size: 12.5px;
+  font-size: var(--fs-2);
   color: var(--muted);
 }
 /* a side remark, like a safety tip, kept apart from the main point of the card */
 .rsnote {
-  font-size: 15px !important;
+  font-size: var(--fs-4) !important;
   color: var(--muted);
   padding: 8px 12px;
   border-left: 3px solid var(--sun);
@@ -6668,7 +6670,7 @@ body {
 .gfinger {
   position: fixed;
   z-index: 3;
-  font-size: 34px;
+  font-size: var(--fs-8);
   pointer-events: none;
   filter: drop-shadow(0 3px 4px #0005);
   animation: gdrag 2.4s ease-in-out infinite;
@@ -6718,7 +6720,7 @@ body {
   cursor: pointer;
 }
 .pzcard > span:first-child {
-  font-size: 30px;
+  font-size: var(--fs-7);
 }
 .slips {
   display: flex;
@@ -6747,16 +6749,16 @@ body {
   border-radius: 14px;
   background: var(--peri);
   color: #fff;
-  font: 400 30px var(--poster);
+  font: 400 var(--fs-7) var(--poster);
   cursor: pointer;
 }
 .memcard.up {
   background: var(--surface);
   color: var(--ink);
-  font: 600 13px/1.3 var(--body);
+  font: 600 var(--fs-3) / 1.3 var(--body);
 }
 .memcard.up.word {
-  font: 400 20px/1.1 var(--poster);
+  font: 400 var(--fs-6) / 1.1 var(--poster);
 }
 .memcard.got {
   background: color-mix(in srgb, var(--good) 22%, var(--surface));
@@ -6774,7 +6776,7 @@ body {
   border-radius: 6px;
   background: var(--sunk);
   color: var(--ink);
-  font: 800 15px var(--body);
+  font: 800 var(--fs-4) var(--body);
   cursor: pointer;
 }
 .wsgrid button.hit {
@@ -6795,7 +6797,7 @@ body {
   color: var(--muted);
 }
 .pzwin {
-  font: 400 26px var(--poster);
+  font: 400 var(--fs-7) var(--poster);
   text-align: center;
 }
 
@@ -6815,7 +6817,7 @@ body {
 .ptitle {
   width: 100%;
   min-width: 0;
-  font: 600 16px var(--display);
+  font: 600 var(--fs-4) var(--display);
   color: var(--ink);
   background: transparent;
   border: 0;
@@ -6869,7 +6871,7 @@ body {
   display: flex;
   flex-wrap: nowrap;
   overflow: hidden;
-  font: 700 14px/1.5 var(--body);
+  font: 700 var(--fs-3) / 1.5 var(--body);
   color: var(--ink);
   margin-top: 4px;
 }
@@ -6921,16 +6923,16 @@ body {
   min-width: 0;
 }
 .now .eyebrow {
-  font: 800 12px var(--body) !important;
+  font: 800 var(--fs-2) var(--body) !important;
   letter-spacing: 0.08em !important;
   text-transform: uppercase !important;
   color: var(--margin) !important;
 }
 .now h2 {
-  font: 700 19px/1.2 var(--body);
+  font: 700 var(--fs-5) / 1.2 var(--body);
 }
 .now .sub {
-  font: 500 14px/1.4 var(--body);
+  font: 500 var(--fs-3) / 1.4 var(--body);
   color: var(--muted);
   text-align: left;
 }
@@ -7013,7 +7015,7 @@ body {
 }
 .tt.compact .tr .t {
   color: var(--ink);
-  font: 700 15px var(--body) !important;
+  font: 700 var(--fs-4) var(--body) !important;
 }
 .tt.compact .tr .t small {
   color: var(--muted);
@@ -7150,7 +7152,7 @@ body {
   overflow: visible;
 }
 .fxeb2 {
-  font: 800 12px var(--body);
+  font: 800 var(--fs-2) var(--body);
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--margin);
@@ -7159,11 +7161,11 @@ body {
   font: 400 clamp(26px, 7vw, 34px) / 1.12 var(--poster);
 }
 .fxsheetp h2 {
-  font: 700 18px var(--body);
+  font: 700 var(--fs-5) var(--body);
   margin-top: 12px;
 }
 .fxsum {
-  font: 500 16px/1.5 var(--body);
+  font: 500 var(--fs-4) / 1.5 var(--body);
   color: color-mix(in srgb, var(--ink) 85%, var(--bg));
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -7191,7 +7193,7 @@ body {
   border-radius: 999px;
   background: var(--sunbg);
   color: var(--sunink);
-  font: 600 13px var(--body);
+  font: 600 var(--fs-3) var(--body);
 }
 .fxpills .ico {
   width: 15px;
@@ -7232,10 +7234,10 @@ body {
   color: var(--kc);
 }
 .fxtile b {
-  font: 600 14px var(--body);
+  font: 600 var(--fs-3) var(--body);
 }
 .fxtile span {
-  font: 500 12px var(--body);
+  font: 500 var(--fs-2) var(--body);
   color: var(--muted);
 }
 .fxparts button {
@@ -7248,7 +7250,7 @@ body {
   margin-top: 8px;
 }
 .libtop h1 {
-  font-size: 32px;
+  font-size: var(--fs-8);
 }
 .libview {
   display: flex;
@@ -7266,7 +7268,7 @@ body {
   border: 0;
   background: 0 0;
   padding: 4px 0;
-  font: 700 15px var(--body);
+  font: 700 var(--fs-4) var(--body);
   color: var(--ink);
   cursor: pointer;
 }
@@ -7311,10 +7313,10 @@ body {
   min-width: 0;
 }
 .fxuc b {
-  font: 700 16px/1.25 var(--body);
+  font: 700 var(--fs-4) / 1.25 var(--body);
 }
 .fxgist {
-  font: 500 14px/1.35 var(--body);
+  font: 500 var(--fs-3) / 1.35 var(--body);
   color: var(--muted);
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -7328,10 +7330,10 @@ body {
   border-radius: 999px;
   background: var(--aquabg);
   color: var(--aqua);
-  font: 600 12px var(--body);
+  font: 600 var(--fs-2) var(--body);
 }
 .fxfacts {
-  font: 500 12.5px/1.4 var(--body);
+  font: 500 var(--fs-2) / 1.4 var(--body);
   color: var(--muted);
 }
 .fxfacts b {
@@ -7353,7 +7355,7 @@ body {
   color: var(--muted);
 }
 .fxfoot .link {
-  font: 600 13px var(--body);
+  font: 600 var(--fs-3) var(--body);
   color: var(--muted);
 }
 
@@ -7426,7 +7428,7 @@ body {
 /* History (Progress → History): a day heading, then a soft card per finished part with the lesson's picture */
 .hday {
   margin: 16px 0 6px;
-  font: 700 13px var(--body);
+  font: 700 var(--fs-3) var(--body);
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--muted);
@@ -7467,7 +7469,7 @@ body {
   min-width: 0;
 }
 .hrow b {
-  font: 600 16px/1.25 var(--display);
+  font: 600 var(--fs-4) / 1.25 var(--display);
 }
 
 /* the shortcuts at the top of "More for today": a small soft square with an icon */

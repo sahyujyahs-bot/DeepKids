@@ -72,7 +72,7 @@ function plusView() {
     pend = S.pendAI;
   document.getElementById("sheetTitle").textContent = "DeepKids Plus";
   const waiting = !!S.plusWait;
-  return `<div class="exdone">${blob("var(--sun)", 6, "wow", "", 'width="76" height="76"')}<h2 style="font-size:24px">DeepKids Plus</h2>${r ? `<p class="sm"><b>${esc(PLUSR[r] || "")}</b> is part of Plus.</p>` : ""}</div>
+  return `<div class="exdone">${blob("var(--sun)", 6, "wow", "", 'width="76" height="76"')}<h2 style="font-size:var(--fs-6)">DeepKids Plus</h2>${r ? `<p class="sm"><b>${esc(PLUSR[r] || "")}</b> is part of Plus.</p>` : ""}</div>
   ${plusList()}
   ${pend ? `<div class="ask"><span class="eyebrow">Your message is kept</span>“${esc(pend.text.slice(0, 160))}${pend.text.length > 160 ? "…" : ""}”<br><span class="xs muted">As soon as Plus is on, DeepKids reads it. No need to type it again.</span></div>` : ""}
   <div class="col" style="gap:10px;margin-top:12px"><button class="btn accent" data-act="plusgo" ${waiting && !window.DK_PLATFORM?.upgrade ? "disabled" : ""}>${waiting && !window.DK_PLATFORM?.upgrade ? "You're on the list ✓" : "Upgrade to Plus"}</button><button class="btn line sm" data-act="texit">Not now</button></div>

@@ -67,7 +67,7 @@ function segBar(k) {
   return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
 const pageHead = (t, extra = "") =>
-  `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${t}</h1>${extra}</div>`;
+  `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:var(--fs-7)">${t}</h1>${extra}</div>`;
 const navSnap = () => ({
   tab,
   lt: ui.lt,
@@ -147,7 +147,7 @@ function settingsView() {
     "you",
     "You and your child",
     `${pname() ? esc(pname()) : "Your profile"} · ${esc(S.child || "child")}, ${S.age || ""}`,
-    `<section class="card r-you tint"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("", "happy", 'width="48" height="48"')}<div><b style="font:600 17px var(--display)">${pname() ? esc(pname()) : "Your profile"}</b><p class="xs muted">${S.parent?.saved || S.parent?.name ? `Wakes ${clock(hm((S.alarm || {}).time || "06:30"))} · prep ${clock(hm(D().prepAt))} and ${clock(hm(D().eveAt))}` : "Not set up yet"}</p></div></div><button class="btn soft sm" data-act="parent" style="justify-self:start">Edit my profile</button></section>
+    `<section class="card r-you tint"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("", "happy", 'width="48" height="48"')}<div><b style="font:600 var(--fs-5) var(--display)">${pname() ? esc(pname()) : "Your profile"}</b><p class="xs muted">${S.parent?.saved || S.parent?.name ? `Wakes ${clock(hm((S.alarm || {}).time || "06:30"))} · prep ${clock(hm(D().prepAt))} and ${clock(hm(D().eveAt))}` : "Not set up yet"}</p></div></div><button class="btn soft sm" data-act="parent" style="justify-self:start">Edit my profile</button></section>
     <div class="field"><label for="sName">Child's name</label><input class="inp" id="sName" maxlength="40" value="${esc(S.child)}"></div><div class="field"><label for="sStart">Plan starts on</label><input class="inp" id="sStart" type="date" value="${S.start}"></div><button class="btn sm" data-act="saveset" style="justify-self:start">Save</button>`,
   )}
   ${grp(
@@ -158,7 +158,7 @@ function settingsView() {
       .map(([k, [n]]) => `<option value="${k}" ${modeOf() === k ? "selected" : ""}>${n}</option>`)
       .join(
         "",
-      )}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam ? "checked" : ""}><span><b style="font:600 16px var(--display)">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label><button class="btn sm" data-act="saveset" style="justify-self:start">Save</button>
+      )}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam ? "checked" : ""}><span><b style="font:600 var(--fs-4) var(--display)">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label><button class="btn sm" data-act="saveset" style="justify-self:start">Save</button>
     <span class="eyebrow" style="margin-top:8px">Syllabus</span><p class="sm">${S.board === "none" ? "DeepKids Plus only" : S.board === "combined" ? "NCERT, Cambridge and NIOS" : BOARDS[S.board]}${S.plus && S.board !== "none" ? " + DeepKids Plus" : ""} · ${S.subjects.map((s) => SUBJ[s]).join(", ")}</p><button class="btn line sm" data-act="redo" style="justify-self:start">Change syllabus or subjects</button>`,
   )}
   ${grp(
@@ -289,6 +289,7 @@ function render() {
     place = scrollSnap(main);
   renderMain();
   scrollBack(main, place);
+  segIntoView();
   applyAll();
   editBtn();
   try {

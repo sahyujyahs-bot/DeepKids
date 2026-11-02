@@ -413,7 +413,7 @@ function testSection() {
     subs = T.cls ? tSubs(T.board, L) : [],
     t = curTest(),
     G = ui.tgen;
-  let h = `<section class="card exsec"><span class="eyebrow">Entrance test</span><h3 style="font-size:20px">A test paper for the new school</h3><p class="sm">Pick the school's board and the class ${esc(S.child || "your child")} is joining. DeepKids makes a multiple-choice paper on the syllabus of the class before, ${esc(S.child || "your child")} takes it here, and you get a score certificate, the paper, the answer key and the marked answer sheet.</p>
+  let h = `<section class="card exsec"><span class="eyebrow">Entrance test</span><h3 style="font-size:var(--fs-6)">A test paper for the new school</h3><p class="sm">Pick the school's board and the class ${esc(S.child || "your child")} is joining. DeepKids makes a multiple-choice paper on the syllabus of the class before, ${esc(S.child || "your child")} takes it here, and you get a score certificate, the paper, the answer key and the marked answer sheet.</p>
   <div class="fgrid"><div class="field"><label for="tsb">School's board</label><select class="inp" id="tsb" data-tsel="board">${TBOARDS.map(([k, n]) => `<option value="${k}" ${T.board === k ? "selected" : ""}>${n}</option>`).join("")}</select></div>
   <div class="field"><label for="tsc">Joining class</label><select class="inp" id="tsc" data-tsel="cls"><option value="">Pick a class</option>${[2, 3, 4, 5, 6].map((c) => `<option value="${c}" ${+T.cls === c ? "selected" : ""}>Class ${c}</option>`).join("")}</select></div>
   <div class="field"><label for="tsn">Questions per subject</label><select class="inp" id="tsn" data-tsel="n">${[10, 15, 20].map((n) => `<option value="${n}" ${+T.n === n ? "selected" : ""}>${n}</option>`).join("")}</select></div></div>`;
@@ -462,7 +462,7 @@ function examView() {
 }
 const DOCCSS = `body{font:14px/1.5 system-ui,sans-serif;color:#222;max-width:820px;margin:24px auto;padding:0 16px}h1{font-size:22px;margin:0}h2{font-size:17px;margin:24px 0 6px;border-bottom:2px solid #333;padding-bottom:3px}table{border-collapse:collapse;width:100%;margin:6px 0}th,td{border:1px solid #bbb;padding:5px 8px;text-align:left;vertical-align:top}th{background:#f2f2f2}.muted{color:#666}.sm{font-size:12px}ol{padding-left:22px}li{margin:10px 0;break-inside:avoid}.op{display:block;margin:2px 0 2px 6px}.ok{color:#1e7a3c;font-weight:700}.no{color:#b03a2e;font-weight:700}.pass{border-left:3px solid #999;padding:4px 10px;margin:6px 0;background:#f7f7f7}.sig{display:flex;gap:40px;margin-top:40px}.sig div{flex:1;border-top:1px solid #333;padding-top:4px;font-size:12px}.cert{border:6px double #555;padding:28px;text-align:center}.cert h1{font-size:26px}.big{font-size:34px;font-weight:800;margin:6px 0}.tw{overflow-x:auto}@media(max-width:520px){.cert{padding:14px}.big{font-size:26px}th,td{padding:4px 5px;font-size:12.5px}}@media print{body{margin:0}h2{break-after:avoid}}`;
 const docWrap = (title, body) =>
-  `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><style>${DOCCSS}</style></head><body>${body}</body></html>`;
+  `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><style>${FSVARS}${DOCCSS}</style></head><body>${body}</body></html>`;
 const tHead = (t) =>
   `<p class="muted">${esc(tbName(t.board))} pattern · for admission to Class ${t.cls} · covers the ${esc(lvN(TB(t.board), t.level))} syllabus</p>`;
 const tDate = (t) => new Date(t.at).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" });
@@ -624,7 +624,7 @@ function bundleSection() {
     P = ui.zip;
   const ck = (grp, id, label, sub, dis) =>
     `<label class="zrow ${dis ? "off" : ""}"><input type="checkbox" data-zip="${grp}" value="${esc(id)}" ${Z[grp].has(id) && !dis ? "checked" : ""} ${dis ? "disabled" : ""}><span><b class="sm">${label}</b>${sub ? `<br><span class="xs muted">${sub}</span>` : ""}</span></label>`;
-  let h = `<section class="card"><span class="eyebrow">For the school</span><h3 style="font-size:20px">Make one folder to send</h3><p class="sm">Tick what to include. DeepKids puts it all in one .zip folder you can save, then send by WhatsApp, email or anything else.</p>
+  let h = `<section class="card"><span class="eyebrow">For the school</span><h3 style="font-size:var(--fs-6)">Make one folder to send</h3><p class="sm">Tick what to include. DeepKids puts it all in one .zip folder you can save, then send by WhatsApp, email or anything else.</p>
   <div class="col" style="gap:6px">${ck("docs", "transcript", "Transcript", "Coverage by board and level, chapters, scores, attendance")}${ck("docs", "cert", "Score certificate", fin ? "" : "After the test is finished", !fin)}${ck("docs", "paper", "Question paper", t ? "" : "Make a paper first", !t)}${ck("docs", "key", "Answer key and marking", fin ? "" : "After the test is finished", !fin)}${ck("docs", "sheet", "Marked answer sheet", fin ? "" : "After the test is finished", !fin)}${ck("docs", "work", "Projects and experiments list", "With start and finish dates")}</div>`;
   if (W.length)
     h += `<details style="margin-top:8px"><summary class="link sm" style="cursor:pointer">Worksheets with answers · ${Z.ws.size} of ${W.length} ticked</summary><div class="col" style="gap:6px;margin-top:6px"><div class="row"><button class="link xs" data-act="zall" data-g="ws" data-v="1">Tick all</button><button class="link xs" data-act="zall" data-g="ws" data-v="0">Untick all</button></div>${W.map((w) => ck("ws", w.k, esc(w.title), `${esc(chT(w.u))} · ${w.fin ? "finished " + esc(fmt(w.fin)) : w.ans + " of " + w.tot + " answered"}`)).join("")}</div></details>`;
@@ -932,7 +932,7 @@ function upCard(w, i) {
     C = upCands(w.date);
   return `<div class="upc">${isImg(w) ? `<img src="/_blob/${esc(w.id)}" alt="${esc(w.title || "Upload")}" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'ph',textContent:'Photo'}))">` : `<a class="ph" href="/_blob/${esc(w.id)}" target="_blank" rel="noopener">${esc((w.name || "file").split(".").pop().toUpperCase())}</a>`}
     <div class="col" style="gap:4px;min-width:0"><b class="sm">${esc(w.title || w.name || "Upload")}</b><span class="xs muted">${esc(fmt(w.date))}${w.kind ? " · " + esc(w.kind) : ""}${(w.tags || []).length ? " · " + w.tags.map(esc).join(", ") : ""}</span>
-    <select class="inp" style="height:36px;font-size:13px" data-upk="${esc(w.id)}" aria-label="Chapter"><option value="">${u ? "" : "Which chapter? "}Not linked to a chapter</option>${[...new Map([...(u ? [[u.k, u]] : []), ...C.map((c) => [c.u.k, c.u])]).values()].map((x) => `<option value="${esc(x.k)}" ${x.k === w.k ? "selected" : ""}>${esc(SUBJ[x.subj])} · ${esc(chT(x))}</option>`).join("")}</select></div></div>`;
+    <select class="inp" style="height:36px;font-size:var(--fs-3)" data-upk="${esc(w.id)}" aria-label="Chapter"><option value="">${u ? "" : "Which chapter? "}Not linked to a chapter</option>${[...new Map([...(u ? [[u.k, u]] : []), ...C.map((c) => [c.u.k, c.u])]).values()].map((x) => `<option value="${esc(x.k)}" ${x.k === w.k ? "selected" : ""}>${esc(SUBJ[x.subj])} · ${esc(chT(x))}</option>`).join("")}</select></div></div>`;
 }
 // one square in the uploads grid: the photo or video itself, or the file's type; tap to open it full size
 function upTile(w) {
@@ -949,10 +949,10 @@ function uploadsView() {
   ${ASSETS ? "" : `<p class="xs muted">Saving files works when DeepKids is open in claude.ai.</p>`}`;
   const need = U.filter((w) => !w.k);
   if (need.length)
-    h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Need a chapter</h3><span class="pill">${need.length}</span></div><p class="xs muted">Pick one, or leave it as a general memory.</p><div class="col" style="gap:8px">${need.map(upCard).join("")}</div></section>`;
+    h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">Need a chapter</h3><span class="pill">${need.length}</span></div><p class="xs muted">Pick one, or leave it as a general memory.</p><div class="col" style="gap:8px">${need.map(upCard).join("")}</div></section>`;
   const done = U.filter((w) => w.k);
   if (done.length)
-    h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Everything so far</h3><span class="pill">${done.length}</span></div><div class="upgrid">${done.map(upTile).join("")}</div></section>`;
+    h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">Everything so far</h3><span class="pill">${done.length}</span></div><div class="upgrid">${done.map(upTile).join("")}</div></section>`;
   if (!U.length) h += `<p class="note">Nothing uploaded yet.</p>`;
   return h;
 }
@@ -1140,7 +1140,7 @@ function trackView() {
   const smax = Math.max(1, ...Object.values(sub).map((x) => x.m));
   let h = `<div class="tiles"><div class="tile"><b>${hmin(all)}</b><span>studied in all</span></div><div class="tile"><b>${study.length}</b><span>study days</span></div><div class="tile"><b>${hmin(study.length ? all / study.length : 0)}</b><span>a study day, on average</span></div><div class="tile"><b>${hmin(wk)}</b><span>in the last 7 days</span></div><div class="tile"><b>${fin}</b><span>topics finished</span></div></div>`;
   h += trackPeriod(T);
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">By subject</h3><span class="xs muted">all time</span></div>${
+  h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">By subject</h3><span class="xs muted">all time</span></div>${
     Object.keys(sub).length
       ? `<div class="col" style="gap:10px">${SUBJ_KEYS.filter((s) => sub[s])
           .map(
@@ -1208,7 +1208,7 @@ function trackPeriod(T) {
            .join("")}</div>`
        : ""
    }
-   <div class="sech" style="margin-top:8px"><h3 style="font-size:18px">What was done</h3></div>
+   <div class="sech" style="margin-top:8px"><h3 style="font-size:var(--fs-5)">What was done</h3></div>
    ${
      did.length
        ? did
@@ -1447,7 +1447,7 @@ function schoolView() {
   D.subs
     .filter((x) => x.L.length)
     .forEach((x) => {
-      h += `<section class="card ${SC(x.s)}"><div class="sech"><h3 style="font-size:19px">${esc(SUBJ[x.s])}</h3>${x.score != null ? `<span class="grade" title="Score ${x.score}">${x.grade} · ${x.score}</span>` : `<span class="xs muted">no checked work yet</span>`}</div>
+      h += `<section class="card ${SC(x.s)}"><div class="sech"><h3 style="font-size:var(--fs-5)">${esc(SUBJ[x.s])}</h3>${x.score != null ? `<span class="grade" title="Score ${x.score}">${x.grade} · ${x.score}</span>` : `<span class="xs muted">no checked work yet</span>`}</div>
     <p class="xs muted">${hmin(x.mins)} · ${x.L.filter((c) => c.fin).length} chapters completed, ${x.L.filter((c) => !c.fin).length} in progress${x.level ? ` · working at Level ${x.level}` : ""}</p>
     <div class="grid"><table class="rtab"><tr><th>Board</th><th>Where the child is</th>${[1, 2, 3, 4, 5].map((l) => `<th>L${l}</th>`).join("")}</tr>${x.boards.map((B) => `<tr><td><b>${esc(BOARDN[B.b])}</b></td><td class="xs">${B.reached ? `Covers ${esc(lvN(B.b, B.reached))}` : B.working ? `Working on ${esc(lvN(B.b, B.working))}` : "Not begun"}</td>${[1, 2, 3, 4, 5].map((l) => `<td class="xs">${B.lv[l] ? Math.round(((B.lv[l].done + B.lv[l].eq) / B.lv[l].tot) * 100) + "%" : "·"}</td>`).join("")}</tr>`).join("")}</table></div>
     ${
@@ -1474,7 +1474,7 @@ function transcriptDoc() {
     I = S.school || {},
     kid = S.child || "Student",
     row = (a, b) => (b ? `<tr><th>${a}</th><td>${b}</td></tr>` : "");
-  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(kid)} · Home education transcript</title><style>body{font:14px/1.5 system-ui,sans-serif;color:#222;max-width:820px;margin:24px auto;padding:0 16px}h1{font-size:22px;margin:0}h2{font-size:17px;margin:26px 0 6px;border-bottom:2px solid #333;padding-bottom:3px}h3{font-size:15px;margin:16px 0 4px}table{border-collapse:collapse;width:100%;margin:4px 0}th,td{border:1px solid #bbb;padding:5px 8px;text-align:left;vertical-align:top}th{background:#f2f2f2}.k th{width:34%;background:#fafafa}.muted{color:#666}.sm{font-size:12px}.sig{display:flex;gap:40px;margin-top:40px}.sig div{flex:1;border-top:1px solid #333;padding-top:4px;font-size:12px}@media print{body{margin:0}h2{break-after:avoid}table{break-inside:auto}tr{break-inside:avoid}}</style></head><body>
+  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(kid)} · Home education transcript</title><style>${FSVARS}body{font:14px/1.5 system-ui,sans-serif;color:#222;max-width:820px;margin:24px auto;padding:0 16px}h1{font-size:22px;margin:0}h2{font-size:17px;margin:26px 0 6px;border-bottom:2px solid #333;padding-bottom:3px}h3{font-size:15px;margin:16px 0 4px}table{border-collapse:collapse;width:100%;margin:4px 0}th,td{border:1px solid #bbb;padding:5px 8px;text-align:left;vertical-align:top}th{background:#f2f2f2}.k th{width:34%;background:#fafafa}.muted{color:#666}.sm{font-size:12px}.sig{display:flex;gap:40px;margin-top:40px}.sig div{flex:1;border-top:1px solid #333;padding-top:4px;font-size:12px}@media print{body{margin:0}h2{break-after:avoid}table{break-inside:auto}tr{break-inside:avoid}}</style></head><body>
   <h1>Home education transcript</h1><p class="muted">Prepared with DeepKids · ${esc(new Date().toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" }))}</p>
   <h2>Student</h2><table class="k">${row("Name", esc(kid))}${row("Date of birth", I.dob ? esc(parse(I.dob).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" })) : "")}${row("Age", S.age ? esc(S.age) + " years" : "")}${row("Parent / guardian", esc(S.parent?.name || ""))}${row("Contact", esc(I.contact || ""))}${row("Applying to", esc([I.to, I.cls].filter(Boolean).join(", ")))}${row(
     "Boards followed",
@@ -1635,7 +1635,7 @@ function folderView() {
 function folderDoc(F0) {
   const F = F0 || folderData(),
     who = S.child || "My child";
-  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(who)} · DeepKids work folder</title><style>body{font:15px/1.5 system-ui,sans-serif;color:#2b2340;max-width:760px;margin:24px auto;padding:0 16px}h1{font-size:24px}h3{margin:28px 0 2px;font-size:19px;border-top:2px solid #eee;padding-top:16px}h4{margin:14px 0 2px}.xs{font-size:12px}.sm{font-size:14px}.muted{color:#776f8a}.eyebrow{font-weight:700;text-transform:uppercase;letter-spacing:.04em;margin:10px 0 2px}ol,ul{padding-left:22px}li{margin:6px 0}p{margin:2px 0}.fok{color:#2e6b45;font-weight:700}.fno{color:#a0522d;font-weight:700}.fimg{max-width:320px;border:1px solid #ddd;border-radius:8px}table{border-collapse:collapse;font-size:13px}td,th{border:1px solid #ccc;padding:4px 8px;text-align:left}.fans{background:#f6f3ee;padding:6px 10px;border-radius:8px}</style></head><body><h1>${esc(who)}'s work folder</h1><p class="muted">DeepKids · saved ${esc(fmt(today))}</p>${folderBody(F, true)}</body></html>`;
+  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(who)} · DeepKids work folder</title><style>${FSVARS}body{font:15px/1.5 system-ui,sans-serif;color:#2b2340;max-width:760px;margin:24px auto;padding:0 16px}h1{font-size:24px}h3{margin:28px 0 2px;font-size:19px;border-top:2px solid #eee;padding-top:16px}h4{margin:14px 0 2px}.xs{font-size:12px}.sm{font-size:14px}.muted{color:#776f8a}.eyebrow{font-weight:700;text-transform:uppercase;letter-spacing:.04em;margin:10px 0 2px}ol,ul{padding-left:22px}li{margin:6px 0}p{margin:2px 0}.fok{color:#2e6b45;font-weight:700}.fno{color:#a0522d;font-weight:700}.fimg{max-width:320px;border:1px solid #ddd;border-radius:8px}table{border-collapse:collapse;font-size:13px}td,th{border:1px solid #ccc;padding:4px 8px;text-align:left}.fans{background:#f6f3ee;padding:6px 10px;border-radius:8px}</style></head><body><h1>${esc(who)}'s work folder</h1><p class="muted">DeepKids · saved ${esc(fmt(today))}</p>${folderBody(F, true)}</body></html>`;
 }
 async function folderSave() {
   return saveDoc(folderDoc(), `DeepKids work folder ${today}.html`);
@@ -1686,7 +1686,7 @@ function jPart(p) {
         .map((b) => {
           const R = S.subjects.map((s) => ({ s, r: boardRows(s, b) })).filter((x) => x.r);
           if (!R.length) return "";
-          return `<div class="card"><b style="font:600 17px var(--display)">${BOARDS[b]}</b>${R.map(({ s, r }) => `<div class="col" style="gap:4px"><div class="sech"><span class="sm" style="font-weight:800">${SUBJ[s]}</span><span class="xs ${r.behind.length ? "" : "muted"}" style="${r.behind.length ? "color:var(--bad);font-weight:800" : ""}">${r.behind.length ? `${r.behind.length} behind` : r.done.length >= r.exp ? "On track" : ""} · ${r.done.length} of ${r.us.length}</span></div><div class="bar ${SC(s)}"><span style="width:${(r.done.length / r.us.length) * 100}%;background:var(--c)"></span></div></div>`).join("")}</div>`;
+          return `<div class="card"><b style="font:600 var(--fs-5) var(--display)">${BOARDS[b]}</b>${R.map(({ s, r }) => `<div class="col" style="gap:4px"><div class="sech"><span class="sm" style="font-weight:800">${SUBJ[s]}</span><span class="xs ${r.behind.length ? "" : "muted"}" style="${r.behind.length ? "color:var(--bad);font-weight:800" : ""}">${r.behind.length ? `${r.behind.length} behind` : r.done.length >= r.exp ? "On track" : ""} · ${r.done.length} of ${r.us.length}</span></div><div class="bar ${SC(s)}"><span style="width:${(r.done.length / r.us.length) * 100}%;background:var(--c)"></span></div></div>`).join("")}</div>`;
         })
         .join("")}</section>`;
   }
@@ -1701,7 +1701,7 @@ function jPart(p) {
         .slice(0, 20)
         .map(
           (l) =>
-            `<div class="dline ${SC(l.subj)}">${sblob(l.subj, "happy", "", 'width="34" height="34"')}<span><b style="font:600 16px var(--display)">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj] || ""}${l.kind === "free" ? " · explored freely" : l.kind === "more" ? " · extra lesson" : ""}</span></span></div>`,
+            `<div class="dline ${SC(l.subj)}">${sblob(l.subj, "happy", "", 'width="34" height="34"')}<span><b style="font:600 var(--fs-4) var(--display)">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj] || ""}${l.kind === "free" ? " · explored freely" : l.kind === "more" ? " · extra lesson" : ""}</span></span></div>`,
         )
         .join("") || `<p class="sm muted">Finished lessons appear here.</p>`
     }</div></section>`;
@@ -1739,12 +1739,12 @@ function learnView() {
     g.items.push(p);
   });
   const help = (S.parent?.help || []).filter((s) => S.subjects.includes(s));
-  return `<section class="card r-you tint"><h2 style="font-size:22px">Your learning</h2><p class="sm muted">Guides and reading to help you teach today and tomorrow. Nothing here is required.</p></section>
+  return `<section class="card r-you tint"><h2 style="font-size:var(--fs-6)">Your learning</h2><p class="sm muted">Guides and reading to help you teach today and tomorrow. Nothing here is required.</p></section>
    ${
      groups
        .map((g) => {
          const guide = g.u.c?.x?.guide || (g.u.board !== "gen" ? DATA.prepgen.guide[g.u.subj] : summaryOf(g.u));
-         return `<section class="card ${SC(g.s)}"><div class="row" style="gap:8px">${sblob(g.s, "happy", "", 'width="32" height="32"')}<b style="font:600 17px var(--display)">${esc(g.u.title)}</b></div>${guide ? `<p class="sm">${esc(guide)}</p>` : ""}${g.items
+         return `<section class="card ${SC(g.s)}"><div class="row" style="gap:8px">${sblob(g.s, "happy", "", 'width="32" height="32"')}<b style="font:600 var(--fs-5) var(--display)">${esc(g.u.title)}</b></div>${guide ? `<p class="sm">${esc(guide)}</p>` : ""}${g.items
            .filter((p) => p.kind !== "guide")
            .map(
              (p) =>
@@ -1861,7 +1861,7 @@ function jsubView() {
     Qs = quotes((u) => u.subj === s),
     W = workOf().filter((w) => unitBy(w.k)?.subj === s);
   let h = `<section class="chero ${SC(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
-  h += `<section class="card"><h3 style="font-size:19px">How well</h3>${(() => {
+  h += `<section class="card"><h3 style="font-size:var(--fs-5)">How well</h3>${(() => {
     let ans = 0,
       tot = 0,
       mq = 0,
@@ -1892,7 +1892,7 @@ function jsubView() {
       .join("")}</div>`;
   })()}</section>`;
   if (Qs.length || W.length)
-    h += `<section class="card"><h3 style="font-size:19px">In ${kid}'s words</h3>${Qs.slice(-4)
+    h += `<section class="card"><h3 style="font-size:var(--fs-5)">In ${kid}'s words</h3>${Qs.slice(-4)
       .reverse()
       .map(
         (q) =>
@@ -1902,11 +1902,11 @@ function jsubView() {
   boardsOn().forEach((b) => {
     const r = boardRows(s, b);
     if (!r) return;
-    h += `<section class="card"><h3 style="font-size:19px">${BOARDS[b]}</h3><p class="xs muted">By this point in the school year, about ${r.exp} of ${r.us.length} chapters would usually be done.</p>${r.behind.length ? `<div><span class="eyebrow" style="color:var(--bad)">Not done yet, but due by now</span><div class="row" style="margin-top:6px">${r.behind.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : `<p class="sm" style="font-weight:800;color:var(--good)">On track for this point in the year.</p>`}${r.prog.length ? `<div><span class="eyebrow">In progress</span><div class="row" style="margin-top:6px">${r.prog.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : ""}</section>`;
+    h += `<section class="card"><h3 style="font-size:var(--fs-5)">${BOARDS[b]}</h3><p class="xs muted">By this point in the school year, about ${r.exp} of ${r.us.length} chapters would usually be done.</p>${r.behind.length ? `<div><span class="eyebrow" style="color:var(--bad)">Not done yet, but due by now</span><div class="row" style="margin-top:6px">${r.behind.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : `<p class="sm" style="font-weight:800;color:var(--good)">On track for this point in the year.</p>`}${r.prog.length ? `<div><span class="eyebrow">In progress</span><div class="row" style="margin-top:6px">${r.prog.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : ""}</section>`;
   });
   const fr = [...new Set(logs.filter((l) => l.kind === "free").map((l) => l.title))];
   if (fr.length)
-    h += `<section class="card"><h3 style="font-size:19px">Learned beyond the syllabus</h3><div class="row">${fr.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
+    h += `<section class="card"><h3 style="font-size:var(--fs-5)">Learned beyond the syllabus</h3><div class="row">${fr.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
   h += `<section class="sec"><div class="sech"><h3>Every topic</h3><span class="xs muted">tap for details</span></div><div class="col" style="gap:8px">${x.us
     .map((u) => {
       const cs = st(u.k),
@@ -1996,7 +1996,7 @@ function viewJourney0() {
     Qn = quotes().length,
     W = workOf().length,
     bs = boardsOn();
-  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
+  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:var(--fs-7)">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
   const rows = [
     [
       "high",

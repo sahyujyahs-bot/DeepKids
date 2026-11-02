@@ -76,7 +76,7 @@ const isQ = (u, id) => {
   return !!(w && (w.q || w.st === "planned"));
 };
 const stPills = (x) =>
-  `<span class="pill st-${x.st === "going" ? "going" : x.pend ? "new" : "none"}" style="font-size:11px">${x.st === "going" ? "Ongoing" : x.pend ? "Pending" : "Not started"}</span>${x.q ? ` <span class="pill st-queued" style="font-size:11px">Queued</span>` : ""}`;
+  `<span class="pill st-${x.st === "going" ? "going" : x.pend ? "new" : "none"}" style="font-size:var(--fs-1)">${x.st === "going" ? "Ongoing" : x.pend ? "Pending" : "Not started"}</span>${x.q ? ` <span class="pill st-queued" style="font-size:var(--fs-1)">Queued</span>` : ""}`;
 function unQueue(ty, key) {
   const W = WK(),
     w = W[key];
@@ -98,7 +98,7 @@ const qTag = (ty, u, id, st) => {
   if (st === "done" || st === "skip" || !isQ(u, id)) return "";
   const r = ty + ":" + u.k + "|" + id,
     n = wqList(ty).findIndex((x) => x.ref === r) + 1;
-  return ` <span class="pill st-queued" style="font-size:11px">Queued${n ? " · no. " + n : ""}</span>`;
+  return ` <span class="pill st-queued" style="font-size:var(--fs-1)">Queued${n ? " · no. " + n : ""}</span>`;
 };
 /* Every worksheet, experiment, activity, project and quiz has its own state, whatever state its lesson is in:
    none (not started) · queued · going (ongoing) · done (completed) · skip (not doing) */
@@ -527,7 +527,7 @@ function viewTasks() {
   return h + (k === "going" ? goingView() : k === "new" ? newView() : queuesView());
 }
 const taskRow = (x, extra = "") =>
-  `<div class="trow"><img class="tpic" src="${esc(lessonPic(x.u))}" alt="" loading="lazy"><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:11px">Ongoing</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
+  `<div class="trow"><img class="tpic" src="${esc(lessonPic(x.u))}" alt="" loading="lazy"><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:var(--fs-1)">Ongoing</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
 function grouped(list, empty, rowFn) {
   const by = Object.keys(WT)
     .map((t) => [t, list.filter((x) => x.ty === t)])
@@ -536,7 +536,7 @@ function grouped(list, empty, rowFn) {
   return by
     .map(
       ([t, l]) =>
-        `<section class="sec"><div class="sech"><h3 style="font-size:18px">${WT[t][1]} ${WT[t][0]}</h3><span class="pill">${l.length}</span></div><div class="col" style="gap:8px">${l.map(rowFn).join("")}</div></section>`,
+        `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">${WT[t][1]} ${WT[t][0]}</h3><span class="pill">${l.length}</span></div><div class="col" style="gap:8px">${l.map(rowFn).join("")}</div></section>`,
     )
     .join("");
 }
@@ -563,7 +563,7 @@ function goingView() {
       (x) => taskRow(x),
     );
   if (ex.length)
-    h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">🌱 Daily check-ins</h3><span class="pill">${ex.length}</span></div><div class="col" style="gap:8px">${ex
+    h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">🌱 Daily check-ins</h3><span class="pill">${ex.length}</span></div><div class="col" style="gap:8px">${ex
       .map((e) => {
         const day = Math.round((parse(today) - parse(e.start)) / 864e5) + 1,
           c = e.checks.includes(today);
@@ -737,10 +737,10 @@ function toldView() {
           )}</div><div class="row"><button class="btn sm" data-act="ted" data-id="">Done</button><button class="link sm" data-act="evdel" data-id="${e.id}" style="color:var(--bad)">Remove</button></div></div>`
       : `<div class="pk ${e.start ? "" : "warn"}"><span class="eyebrow">${esc(EVK[e.kind] || "Plan")}${e.src === "gcal" ? " · Google Calendar" : ""}</span><b>${esc(e.title)}</b><p class="sm">${esc(evLine(e))}${e.who === "kid" ? ` · ${esc(S.child || "child")} alone` : e.who === "both" ? " · together" : ""}</p>${e.start ? "" : `<p class="xs" style="color:var(--bad)">Add a time so the day plan can work around it.</p>`}${e.src === "gcal" ? "" : `<div class="row"><button class="link sm" data-act="ted" data-id="${e.id}">Change</button></div>`}</div>`;
   let h = `<p class="sm muted">Everything you've added: by typing, chatting, photos or by hand. Change or remove anything here, and the plan follows.</p>`;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm" data-act="toplan" style="justify-self:start">+ Add or change plans</button></section>`;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm" data-act="tddel" data-id="${t.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No open to-dos.</p>`}</section>`;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm" data-act="notedel" data-id="${n.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No notes.</p>`}</section>`;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">What you said</h3><span class="pill">${L.length}</span></div>${L.length ? L.map((x) => `<details class="card"><summary><b class="sm">${esc(fmt(x.date))} · ${esc(new Date(x.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }))}</b><br><span class="sm">${esc(x.text.split("\n")[0].slice(0, 120))}</span></summary><div class="chat" style="margin-top:8px"><div class="bub me">${esc(x.text).replace(/\n/g, "<br>")}</div>${(x.chat || []).map((c) => `<div class="bub cl">${esc(c.q)}</div><div class="bub me">${esc(c.a)}</div>`).join("")}</div>${x.added?.length ? `<p class="xs muted">Added to the plan:</p><ul class="sm">${x.added.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : ""}</details>`).join("") : `<p class="xs muted">Messages you send in the Planner are kept here from now on.</p>`}</section>`;
+  h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm" data-act="toplan" style="justify-self:start">+ Add or change plans</button></section>`;
+  h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm" data-act="tddel" data-id="${t.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No open to-dos.</p>`}</section>`;
+  h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm" data-act="notedel" data-id="${n.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No notes.</p>`}</section>`;
+  h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">What you said</h3><span class="pill">${L.length}</span></div>${L.length ? L.map((x) => `<details class="card"><summary><b class="sm">${esc(fmt(x.date))} · ${esc(new Date(x.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }))}</b><br><span class="sm">${esc(x.text.split("\n")[0].slice(0, 120))}</span></summary><div class="chat" style="margin-top:8px"><div class="bub me">${esc(x.text).replace(/\n/g, "<br>")}</div>${(x.chat || []).map((c) => `<div class="bub cl">${esc(c.q)}</div><div class="bub me">${esc(c.a)}</div>`).join("")}</div>${x.added?.length ? `<p class="xs muted">Added to the plan:</p><ul class="sm">${x.added.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : ""}</details>`).join("") : `<p class="xs muted">Messages you send in the Planner are kept here from now on.</p>`}</section>`;
   return h;
 }
 const quizList = (k, n, Q) =>
@@ -840,7 +840,7 @@ function todoView() {
     wsRow = (x, miss) =>
       `<div class="pk"><span class="eyebrow">${esc(chT(x.u))} · ${esc(SUBJ[x.u.subj])}</span><b>${esc(x.w.title)}${x.w.tier ? ` <span class="xs muted">(${esc(TIER[x.w.tier] || "")})</span>` : ""}</b><p class="xs muted">${miss ? `Planned for Part ${x.w.day}, which you've done · not started` : `${x.ans} of ${x.tot} questions answered`}</p><div class="row"><button class="btn accent sm" data-act="ws" data-k="${x.u.k}" ${x.w.id ? `data-w="${esc(x.w.id)}"` : ""}>${miss ? "Start it" : "Continue"}</button></div></div>`;
   const sec = (t, n, body, empty) =>
-      `<section class="sec"><div class="sech"><h3 style="font-size:18px">${t}</h3><span class="pill">${n}</span></div>${n ? body : `<p class="xs muted">${empty}</p>`}</section>`,
+      `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">${t}</h3><span class="pill">${n}</span></div>${n ? body : `<p class="xs muted">${empty}</p>`}</section>`,
     wkRow = (x) =>
       `<div class="pk"><span class="eyebrow">${esc(chT(x.u))} · ${esc(SUBJ[x.u.subj])}</span><b>${esc(x.w.title || wkTitle(x.u, x.id, ""))}</b>${taskLine(x.u, x.id, x.w.title)}<div class="row"><button class="link xs" data-act="chapter" data-k="${x.u.k}" data-t="lab">Open in the chapter</button></div></div>`;
   let h = `<p class="sm muted">Everything left open, in one place. Tick things off where they are, or open them from here.</p><button class="link" data-act="folder" style="justify-self:start">Work folder: everything finished, with answers →</button>`;
@@ -952,9 +952,9 @@ function queueCard() {
    <p class="xs muted">${sh ? "Shuffle respects what each topic needs first, and never drops a syllabus chapter." : "Book order."} ${S.exam ? "Exam track keeps every syllabus chapter first; extra topics come after." : "Extra topics are mixed in between syllabus chapters."}</p>
    <div class="col" style="gap:8px">${L.map((u, i) => {
      const T = tagsOf(u)[0];
-     return `<div class="qrow ${SC(u.subj)}${u.k === ui.flash ? " flash" : ""}"><span class="qn">${L0.indexOf(u) + 1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b style="font:600 15.5px var(--display)">${esc(u.title)}</b><br><span class="xs muted">${u.board === "gen" ? "DeepKids topic" : esc(T?.txt || u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>` : `<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k) ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>` : ""}</span></div>`;
+     return `<div class="qrow ${SC(u.subj)}${u.k === ui.flash ? " flash" : ""}"><span class="qn">${L0.indexOf(u) + 1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b style="font:600 var(--fs-4) var(--display)">${esc(u.title)}</b><br><span class="xs muted">${u.board === "gen" ? "DeepKids topic" : esc(T?.txt || u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>` : `<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k) ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>` : ""}</span></div>`;
    }).join("")}</div>
-   ${radio.length ? `<div class="sech"><h3 style="font-size:17px">More like this</h3><button class="link" data-act="lt2">Find topics</button></div><div class="row">${radio.map((u) => `<button class="chip ${SC(u.subj)}" data-act="qadd" data-s="${s}" data-k="${u.k}">${icon("plus")}${esc(u.title)}</button>`).join("")}</div>` : `<button class="link" data-act="lt2" style="justify-self:start">Find more topics →</button>`}</section>`;
+   ${radio.length ? `<div class="sech"><h3 style="font-size:var(--fs-5)">More like this</h3><button class="link" data-act="lt2">Find topics</button></div><div class="row">${radio.map((u) => `<button class="chip ${SC(u.subj)}" data-act="qadd" data-s="${s}" data-k="${u.k}">${icon("plus")}${esc(u.title)}</button>`).join("")}</div>` : `<button class="link" data-act="lt2" style="justify-self:start">Find more topics →</button>`}</section>`;
 }
 const PV = { year: "Year", month: "Month", week: "Week", day: "Day" };
 function firstDates() {
@@ -1084,7 +1084,7 @@ function monthView() {
     if (new Date(start.getFullYear(), start.getMonth(), start.getDate() + (w + 1) * 7).getMonth() !== m && w >= 3)
       break;
   }
-  return `<div class="pager"><button class="iconbtn" data-act="pmon" data-d="-1" aria-label="Previous month">${icon("back")}</button><h3 style="font-size:20px">${b.toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><button class="iconbtn" data-act="pmon" data-d="1" aria-label="Next month">${icon("next")}</button></div><div class="mhead">${["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((x) => `<span>${x}</span>`).join("")}</div><div class="month">${rows}</div>${calLegend()}<p class="xs muted" style="text-align:center">Tap a day to see it.</p>`;
+  return `<div class="pager"><button class="iconbtn" data-act="pmon" data-d="-1" aria-label="Previous month">${icon("back")}</button><h3 style="font-size:var(--fs-6)">${b.toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><button class="iconbtn" data-act="pmon" data-d="1" aria-label="Next month">${icon("next")}</button></div><div class="mhead">${["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((x) => `<span>${x}</span>`).join("")}</div><div class="month">${rows}</div>${calLegend()}<p class="xs muted" style="text-align:center">Tap a day to see it.</p>`;
 }
 // The week as a list, one day under the other, each lesson with its part
 function weekView() {
@@ -1096,7 +1096,7 @@ function weekView() {
     d.setDate(m.getDate() + i);
     return iso(d);
   });
-  return `<div class="pager"><button class="iconbtn" data-act="wk2" data-d="-1" aria-label="Previous week">${icon("back")}</button><h3 style="font-size:20px">${ui.week ? "Week of " + fmt(days[0]) : "This week"}</h3><button class="iconbtn" data-act="wk2" data-d="1" aria-label="Next week">${icon("next")}</button></div><div class="weeklist">${days
+  return `<div class="pager"><button class="iconbtn" data-act="wk2" data-d="-1" aria-label="Previous week">${icon("back")}</button><h3 style="font-size:var(--fs-6)">${ui.week ? "Week of " + fmt(days[0]) : "This week"}</h3><button class="iconbtn" data-act="wk2" data-d="1" aria-label="Next week">${icon("next")}</button></div><div class="weeklist">${days
     .map((d) => {
       const L = by[d] || [],
         ev = eventsOn(d),
@@ -1108,7 +1108,7 @@ function weekView() {
 }
 function dayView() {
   const d = ui.pday || today;
-  return `<div class="pager"><button class="iconbtn" data-act="pdd" data-d="-1" aria-label="Previous day">${icon("back")}</button><h3 style="font-size:20px">${d === today ? "Today" : fmt(d)}</h3><button class="iconbtn" data-act="pdd" data-d="1" aria-label="Next day">${icon("next")}</button></div>${timeline(d)}`;
+  return `<div class="pager"><button class="iconbtn" data-act="pdd" data-d="-1" aria-label="Previous day">${icon("back")}</button><h3 style="font-size:var(--fs-6)">${d === today ? "Today" : fmt(d)}</h3><button class="iconbtn" data-act="pdd" data-d="1" aria-label="Next day">${icon("next")}</button></div>${timeline(d)}`;
 }
 function askList() {
   const Q = [];
@@ -1185,7 +1185,7 @@ function planPart(k) {
   if (k === "add") {
     const Q = askList();
     return (
-      `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3><p class="xs muted">Classes, outings, to-dos, reminders. Two ways to add them:</p><div class="seg addmode">${[
+      `<section class="sec"><div class="card"><h3 style="font-size:var(--fs-5)">Add to your plan</h3><p class="xs muted">Classes, outings, to-dos, reminders. Two ways to add them:</p><div class="seg addmode">${[
         ["pick", "Quick add"],
         ["say", "Type or speak"],
       ]

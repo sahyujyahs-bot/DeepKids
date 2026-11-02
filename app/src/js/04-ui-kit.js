@@ -197,6 +197,18 @@ function streak() {
   }
   return n;
 }
+// the type scale for documents that open in their own window (printables), which don't get the app's stylesheet
+const FSVARS = ":root{--fs-1:11px;--fs-2:12px;--fs-3:14px;--fs-4:16px;--fs-5:18px;--fs-6:22px;--fs-7:28px;--fs-8:34px}";
+// a tab strip that scrolls sideways keeps its chosen tab fully in view, in the middle when there is room
+function segIntoView() {
+  document.querySelectorAll(".seg").forEach((s) => {
+    const on = s.querySelector('[aria-pressed="true"]');
+    if (!on || s.scrollWidth <= s.clientWidth) return;
+    const a = s.getBoundingClientRect(),
+      b = on.getBoundingClientRect();
+    s.scrollLeft += b.left - a.left - (a.width - b.width) / 2;
+  });
+}
 // when the last of the day's DeepKids items is ticked, cheer once for the day
 function dayCheer() {
   const it = dayPlan(today).filter((i) => isTask(i) && OURS(i)),

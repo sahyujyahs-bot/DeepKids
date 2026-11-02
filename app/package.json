@@ -4,7 +4,7 @@
   "description": "DeepKids app: source in src/, built by build/build_app.py",
   "scripts": {
     "build": "python3 build/build_app.py",
-    "lint": "python3 build/build_app.py && eslint build/app.lint.js && prettier --check src",
+    "lint": "python3 build/build_app.py && eslint build/app.lint.js && prettier --check src && python3 build/check_type_scale.py",
     "format": "prettier --write src",
     "test": "sh tests/run.sh"
   },

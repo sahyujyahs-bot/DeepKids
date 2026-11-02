@@ -407,7 +407,7 @@ function wsBook(ws, u) {
    .wmap{border:2.5px solid #2B2340;border-radius:16px;padding:8px 12px;margin:10px 0}.wmapr{display:flex;gap:10px;align-items:center;padding:5px 0;border-bottom:1px dashed #ccc;font-size:14.5px}.wmapr span:nth-child(2){flex:1}
    .wneed{background:#f4eee4;border-radius:14px;padding:8px 12px;font-size:13.5px}.wneed div{display:grid;grid-template-columns:1fr 1fr;gap:2px 12px;margin-top:4px}
    @media screen{.wpg.wnew{margin-top:16px}}`;
-  const st2 = `<style>${css}${css2}</style>`,
+  const st2 = `<style>${FSVARS}${css}${css2}</style>`,
     bd = `<body>${cover}${pages}${guide}</body>`;
   return base.replace(/<style>[\s\S]*?<\/style>/, () => st2).replace(/<body>[\s\S]*<\/body>/, () => bd);
 }
@@ -1106,7 +1106,7 @@ function wsSinglePage(ws, u) {
    .wnl{width:100%}.wclocks{display:flex;gap:16px;flex-wrap:wrap}.wclocks>div{width:130px;text-align:center}.wclock{width:120px}.wtalk li{margin:6px 0}
    .wfoot{margin-top:12px;font-size:11px;color:#8a8399;display:flex;justify-content:space-between;border-top:1px solid #ddd;padding-top:6px}.wkey{break-before:page}.wk{margin:8px 0;font-size:13.5px}.wk .wgrid td,.wk .wcw td{width:22px;height:22px;font-size:12px}.wk svg{max-height:220px;width:auto;max-width:100%}
    .wstars{font-size:20px;letter-spacing:4px}@media screen{body{background:#eee;padding:10px}.wpg{background:#fff;padding:12mm;box-shadow:0 2px 10px rgba(0,0,0,.15)}.wkey{margin-top:16px}}`;
-  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(ws.title)} · DeepKids worksheet</title><style>${css}</style></head><body>
+  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(ws.title)} · DeepKids worksheet</title><style>${FSVARS}${css}</style></head><body>
    <div class="wpg"><div class="whd">${sblob(u.subj, "happy", "", 'width="54" height="54"')}<div style="flex:1"><div class="wtag">${TWN()[(ws.id || "").split("|")[0]] ? `DeepKids · ${esc(TWN()[ws.id.split("|")[0]].title)} · ${PLN[ws.lvl || "core"]}` : `${tag} · ${esc(chT(u))}`}</div><h1>${esc(ws.title)}</h1></div><div class="wstars" title="How did it go?">☆☆☆</div></div>
    <div class="wname"><span>Name:</span><span>Date:</span></div>${ws.intro ? `<div class="wintro">${esc(ws.intro)}</div>` : ""}
    ${parts.map((p) => `<div class="wb">${p.h}</div>`).join("")}
@@ -1137,7 +1137,7 @@ function printSheetsOwn(u) {
   const row = (x) =>
     `<div class="pws"><div style="min-width:0;flex:1"><span class="eyebrow">${PLN[x.w.lvl || "core"]} · ${esc(WSKIND[x.w.kind] || "Worksheet")} · ${x.w.pages ? `${x.w.pages.filter((p) => p.station).length} stations · ${esc(x.w.hours || "")}` : `≈ ${x.w.mins || 20} min`}</span><b>${esc(x.w.title)}</b><p class="xs muted">${esc(x.w.blurb || "")}</p></div><div class="col" style="gap:6px"><button class="btn sm accent" data-act="wsprint" data-k="${u.k}" data-i="${x.i}">Print</button><button class="link xs" data-act="wsview" data-k="${u.k}" data-i="${x.i}">Preview</button></div></div>`;
   const topics = [...new Set(R.map((x) => x.w.topic))].map((t) => TWN()[t]?.title).filter(Boolean);
-  return `<section class="card"><div class="sech"><b style="font:600 17px var(--display)">🖨️ Printable worksheets</b><span class="pill">${R.length}</span></div><p class="xs muted">About ${esc(topics.join(", "))}. No textbook needed. Each prints on A4 with an answer page for you.</p>
+  return `<section class="card"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">🖨️ Printable worksheets</b><span class="pill">${R.length}</span></div><p class="xs muted">About ${esc(topics.join(", "))}. No textbook needed. Each prints on A4 with an answer page for you.</p>
    ${mine.length ? `<span class="eyebrow">Best for ${esc(S.child || "your child")} · ${PLN[p.lvl]} · ${PDN[p.depth]}</span>${mine.map(row).join("")}` : ""}
    ${rest.length ? `<details${mine.length ? "" : " open"}><summary class="sm"><b>Other levels (${rest.length})</b></summary>${rest.map(row).join("")}</details>` : ""}
    ${C.length ? `<span class="eyebrow" style="margin-top:6px">Also from official sources</span>${C.map((c) => `<div class="pws"><div style="min-width:0;flex:1"><b>${esc(c.title)}</b><p class="xs muted">${esc(c.src)}</p></div><a class="btn sm soft" href="${esc(c.url)}" target="_blank" rel="noopener">Open</a></div>`).join("")}` : ""}</section>`;
@@ -1150,7 +1150,7 @@ function printSheets(u) {
     `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><div style="min-width:0"><span class="eyebrow">${esc(CURT[r.type] || r.type)} · ${esc(r.source)} · ages ${r.ages[0]}–${r.ages[1]}${r.access !== "free" ? " · free account" : ""}</span><b>${esc(r.title)}</b><p class="xs">${esc(r.desc)}</p>${r.how ? `<p class="xs muted">${esc(r.how)}</p>` : ""}</div><span class="xs">open ↗</span></a>`;
   return (
     h +
-    `<section class="card" style="gap:0"><div class="sech"><b style="font:600 17px var(--display)">⭐ The best from elsewhere</b><span class="pill">${R.length}</span></div><p class="xs muted" style="margin-bottom:6px">Free worksheets, hands-on activities, stories and lessons we checked and picked for this topic, best fit for ${esc(S.child || "your child")}'s age first.</p>${R.slice(0, 6).map(row).join("")}${R.length > 6 ? `<details><summary class="sm"><b>${R.length - 6} more</b></summary>${R.slice(6).map(row).join("")}</details>` : ""}</section>`
+    `<section class="card" style="gap:0"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">⭐ The best from elsewhere</b><span class="pill">${R.length}</span></div><p class="xs muted" style="margin-bottom:6px">Free worksheets, hands-on activities, stories and lessons we checked and picked for this topic, best fit for ${esc(S.child || "your child")}'s age first.</p>${R.slice(0, 6).map(row).join("")}${R.length > 6 ? `<details><summary class="sm"><b>${R.length - 6} more</b></summary>${R.slice(6).map(row).join("")}</details>` : ""}</section>`
   );
 }
 function wsViewSheet() {
@@ -1171,12 +1171,12 @@ function wfGuideView() {
     tbl = (rows, h) =>
       `<table class="wft">${h ? `<tr>${h.map((x) => `<th>${x}</th>`).join("")}</tr>` : ""}${rows.map((r) => `<tr>${r.map((x) => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table>`;
   return `<p>${esc(G.intro || "")}</p>
-   <section class="card"><b style="font:600 17px var(--display)">What matters most</b>${(G.principles || []).map(([t, d]) => `<p class="sm"><b>${esc(t)}.</b> ${esc(d)}</p>`).join("")}</section>
-   <section class="card"><b style="font:600 17px var(--display)">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Plan settings → Day times.</p></section>
-   <section class="card"><b style="font:600 17px var(--display)">The week's arts rhythm</b>${tbl(G.week || [])}</section>
-   <section class="card"><b style="font:600 17px var(--display)">The year and its festivals</b>${tbl(G.year || [])}<p class="xs muted">Keep a seasonal table: a cloth in the season's colour, and what you find outside.</p></section>
-   <section class="card"><b style="font:600 17px var(--display)">What to get</b>${tbl(G.materials || [])}</section>
-   <section class="card"><b style="font:600 17px var(--display)">Books</b><p class="sm"><b>For you:</b></p><ul class="sm">${(G.books?.parent || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>${[1, 2, 3, 4, 5].map((c) => `<details${c === cls ? " open" : ""}><summary class="sm"><b>Class ${c}</b>${c === cls ? " (your class)" : ""}</summary><ul class="sm">${(G.books?.[c] || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></details>`).join("")}</section>
+   <section class="card"><b style="font:600 var(--fs-5) var(--display)">What matters most</b>${(G.principles || []).map(([t, d]) => `<p class="sm"><b>${esc(t)}.</b> ${esc(d)}</p>`).join("")}</section>
+   <section class="card"><b style="font:600 var(--fs-5) var(--display)">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Plan settings → Day times.</p></section>
+   <section class="card"><b style="font:600 var(--fs-5) var(--display)">The week's arts rhythm</b>${tbl(G.week || [])}</section>
+   <section class="card"><b style="font:600 var(--fs-5) var(--display)">The year and its festivals</b>${tbl(G.year || [])}<p class="xs muted">Keep a seasonal table: a cloth in the season's colour, and what you find outside.</p></section>
+   <section class="card"><b style="font:600 var(--fs-5) var(--display)">What to get</b>${tbl(G.materials || [])}</section>
+   <section class="card"><b style="font:600 var(--fs-5) var(--display)">Books</b><p class="sm"><b>For you:</b></p><ul class="sm">${(G.books?.parent || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>${[1, 2, 3, 4, 5].map((c) => `<details${c === cls ? " open" : ""}><summary class="sm"><b>Class ${c}</b>${c === cls ? " (your class)" : ""}</summary><ul class="sm">${(G.books?.[c] || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></details>`).join("")}</section>
    <p class="xs muted">${esc(G.schools || "")}</p><p class="xs muted">This plan is written in the spirit of Waldorf education for Indian families. It is not an accredited Steiner curriculum; a trained Waldorf teacher near you can help you go deeper.</p>`;
 }
 const WKID = (id) => /^(e|a|exp|act)\d+$|^proj$|^st\d+_\d+$/.test(id);
@@ -1372,7 +1372,7 @@ function wsSheet() {
   document.getElementById("sheetTitle").textContent = (pw ? pw.title : "Worksheet") + " · " + u.title;
   let qn = W.slice(0, si).reduce((a, s) => a + s[1].length, 0);
   const [title, items] = W[si];
-  return `<div class="segs ${SC(u.subj)}">${W.map((_, i) => `<i class="${i < si ? "ok" : i === si ? "on" : ""}"></i>`).join("")}</div><section class="card"><span class="eyebrow">${pw ? TIER[pw.tier] + " · " : ""}Section ${si + 1} of ${W.length}</span><h2 style="font-size:22px">${esc(title.replace(/^[A-Z]\. /, ""))}</h2>${items.map((it, ii) => wsItem(k, si + "-" + ii, it, ++qn)).join("")}</section>
+  return `<div class="segs ${SC(u.subj)}">${W.map((_, i) => `<i class="${i < si ? "ok" : i === si ? "on" : ""}"></i>`).join("")}</div><section class="card"><span class="eyebrow">${pw ? TIER[pw.tier] + " · " : ""}Section ${si + 1} of ${W.length}</span><h2 style="font-size:var(--fs-6)">${esc(title.replace(/^[A-Z]\. /, ""))}</h2>${items.map((it, ii) => wsItem(k, si + "-" + ii, it, ++qn)).join("")}</section>
    <div class="pager"><button class="btn line" data-act="wsec" data-k="${k}" data-d="-1" ${si === 0 ? "disabled" : ""}>${icon("back")}Back</button>${si < W.length - 1 ? `<button class="btn accent wide" data-act="wsec" data-k="${k}" data-d="1">Next section${icon("next")}</button>` : `<button class="btn accent wide" data-act="wsdone" data-k="${k}">${taskDone(k, "ws") ? "Finished ✓" : "Finish the worksheet"}</button>`}</div><p class="xs muted">Many questions have no single right answer. The thinking is the point.</p>`;
 }
 function wsView() {

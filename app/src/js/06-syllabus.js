@@ -352,7 +352,7 @@ function profCard() {
   ${S.subjects
     .map((s) => {
       const p = profOf(s);
-      return `<div class="card ${SC(s)}" style="gap:6px"><div class="sech"><b style="font:600 16px var(--display)">${SUBJ[s]}</b><label class="xs"><input type="checkbox" data-pauto="${s}" ${p.auto ? "checked" : ""}> Adjust by itself</label></div>
+      return `<div class="card ${SC(s)}" style="gap:6px"><div class="sech"><b style="font:600 var(--fs-4) var(--display)">${SUBJ[s]}</b><label class="xs"><input type="checkbox" data-pauto="${s}" ${p.auto ? "checked" : ""}> Adjust by itself</label></div>
    <div class="seg">${PLV.map((l) => `<button aria-pressed="${p.lvl === l}" data-act="plv" data-s="${s}" data-v="${l}">${PLN[l]}</button>`).join("")}</div><p class="xs muted">${PLD[p.lvl]}${p.why ? ` · changed on ${esc(fmt(p.at))}: ${esc(p.why)}` : ""}</p>
    <div class="seg">${Object.keys(PDN)
      .map(

@@ -42,7 +42,7 @@ function myBooksTab() {
     ? B.map(
         (
           b,
-        ) => `<section class="card ${SC(b.subj)}"><div class="sech"><h3 style="font-size:19px">${esc(b.title)}</h3><span class="pill">${SUBJ[b.subj]} · Class ${b.level}</span></div>
+        ) => `<section class="card ${SC(b.subj)}"><div class="sech"><h3 style="font-size:var(--fs-5)">${esc(b.title)}</h3><span class="pill">${SUBJ[b.subj]} · Class ${b.level}</span></div>
       ${b.err ? `<p class="sm note">${esc(b.err)}</p>` : ""}
       ${(b.lessons || [])
         .map(

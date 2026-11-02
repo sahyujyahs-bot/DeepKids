@@ -1155,7 +1155,7 @@ function fxWsAnswer(it) {
 }
 function fxWsPrintDoc(u, w) {
   const head = `<header><div class="brand"><b>Deep</b>Kids <span>Gurukul</span></div><div>Name: ______________ &nbsp; Date: ________</div></header>`;
-  return `<!doctype html><meta charset="utf-8"><title>${esc(w.title)}</title><link href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Mukta:wght@400;700&display=swap" rel="stylesheet"><style>${WS_PRINT_CSS}</style>
+  return `<!doctype html><meta charset="utf-8"><title>${esc(w.title)}</title><link href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Mukta:wght@400;700&display=swap" rel="stylesheet"><style>${FSVARS}${WS_PRINT_CSS}</style>
   ${head}<h1>${esc(w.title)}</h1><p class="sub">${esc(u.title)} · ${w.items.length} questions · about ${w.mins} minutes</p>
   <ol class="q">${w.items.map((it, i) => `<li><p>${esc(it.p.replace(/_{2,}/g, "__________"))}</p>${fxWsItem(it, w.id + i)}</li>`).join("")}</ol>
   <div class="foot">DeepKids Gurukul · ${esc(u.title)}</div>
@@ -1198,7 +1198,7 @@ function fxGamePrintDoc(g) {
     : "";
   const credits = [...new Set(g.printables.flatMap((p) => p.items.map((x) => x.img?.credit).filter(Boolean)))],
     rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map((x) => cell(x.f ?? x, x.img)).join("")}</div>`).join("")}${credits.length ? `<p class="credit">Pictures: ${credits.map(esc).join(" · ")}</p>` : ""}</section>`;
-  return `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>@page{size:A4;margin:12mm}body{font:15px/1.5 Nunito,system-ui,sans-serif;margin:0}li{margin:10px 0}.sheet{page-break-after:always}.tag{font:700 12px sans-serif;color:#666;margin:0 0 6px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}.sheet .pc{height:48mm}.pc{border:2px dashed #999;border-radius:10px;padding:8px;min-height:90px;font:600 14px sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box}.pc.blank{border-color:transparent}.sheet .pc{flex-direction:column;gap:4px}.pc img{width:100%;height:30mm;object-fit:cover;border-radius:6px}.credit{font-size:10px;color:#777}.loose .pc{display:block;text-align:left}.tip{border:2px solid #e8a317;border-radius:10px;padding:10px;margin:10px 0}</style>${sheets}${rest}`;
+  return `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>${FSVARS}@page{size:A4;margin:12mm}body{font:15px/1.5 Nunito,system-ui,sans-serif;margin:0}li{margin:10px 0}.sheet{page-break-after:always}.tag{font:700 12px sans-serif;color:#666;margin:0 0 6px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}.sheet .pc{height:48mm}.pc{border:2px dashed #999;border-radius:10px;padding:8px;min-height:90px;font:600 14px sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box}.pc.blank{border-color:transparent}.sheet .pc{flex-direction:column;gap:4px}.pc img{width:100%;height:30mm;object-fit:cover;border-radius:6px}.credit{font-size:10px;color:#777}.loose .pc{display:block;text-align:left}.tip{border:2px solid #e8a317;border-radius:10px;padding:10px;margin:10px 0}</style>${sheets}${rest}`;
 }
 function fxPrint(id) {
   const u = FXU,
