@@ -425,7 +425,11 @@
      "items": [
       {
        "f": "Ripples from a stone dropped in a bucket",
-       "b": "Wave. The energy of the stone travels to the edge. The water only bobs up and down."
+       "b": "Wave. The energy of the stone travels to the edge. The water only bobs up and down.",
+       "img": {
+        "src": "media/cards/waves-g1-0-00.jpg",
+        "credit": "Georgios Orfeas Katsouris, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A cricket ball thrown to the batter",

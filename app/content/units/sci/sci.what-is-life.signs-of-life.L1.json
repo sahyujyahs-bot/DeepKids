@@ -263,7 +263,11 @@
      "items": [
       {
        "f": "Hen",
-       "b": "Parent. Her young is a chick."
+       "b": "Parent. Her young is a chick.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-00.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Chick",
@@ -271,15 +275,27 @@
       },
       {
        "f": "Cow",
-       "b": "Parent. Her young is a calf."
+       "b": "Parent. Her young is a calf.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-02.jpg",
+        "credit": "wilderbombyx, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Calf",
-       "b": "Young. Grows up to be a cow or a bull."
+       "b": "Young. Grows up to be a cow or a bull.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-03.jpg",
+        "credit": "Neha Patel, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frog",
-       "b": "Parent. Her young is a tadpole."
+       "b": "Parent. Her young is a tadpole.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-04.jpg",
+        "credit": "Vijay Barve, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Tadpole",
@@ -287,31 +303,59 @@
       },
       {
        "f": "Butterfly",
-       "b": "Parent. Her young is a caterpillar."
+       "b": "Parent. Her young is a caterpillar.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-06.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Caterpillar",
-       "b": "Young. Becomes a butterfly."
+       "b": "Young. Becomes a butterfly.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-07.jpg",
+        "credit": "payalm, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Elephant",
-       "b": "Parent. Her young is a baby elephant."
+       "b": "Parent. Her young is a baby elephant.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-08.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Baby elephant",
-       "b": "Young. Drinks milk for two years or more. Grows up to be an elephant."
+       "b": "Young. Drinks milk for two years or more. Grows up to be an elephant.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-09.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Dog",
-       "b": "Parent. Her young is a puppy."
+       "b": "Parent. Her young is a puppy.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-10.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Puppy",
-       "b": "Young. Grows up to be a dog."
+       "b": "Young. Grows up to be a dog.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-11.jpg",
+        "credit": "Ankit Shakya, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow",
-       "b": "Parent. Her young is a crow chick, hatched from an egg."
+       "b": "Parent. Her young is a crow chick, hatched from an egg.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-12.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow chick",
@@ -327,19 +371,35 @@
       },
       {
        "f": "Mango tree",
-       "b": "Parent. Their young grow from mango seeds."
+       "b": "Parent. Their young grow from mango seeds.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-16.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Mango seedling",
-       "b": "Young. Grows up to be a mango tree."
+       "b": "Young. Grows up to be a mango tree.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-17.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tomato plant",
-       "b": "Parent. Their young grow from the seeds inside a tomato."
+       "b": "Parent. Their young grow from the seeds inside a tomato.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-18.jpg",
+        "credit": "haemanthus, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tomato seedling",
-       "b": "Young. Grows up to be a tomato plant."
+       "b": "Young. Grows up to be a tomato plant.",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-19.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       }
      ]
     }
@@ -419,15 +479,27 @@
      "items": [
       {
        "f": "A crow",
-       "b": "Alive: wiggle"
+       "b": "Alive: wiggle",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A tulsi plant",
-       "b": "Alive: wiggle"
+       "b": "Alive: wiggle",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-0-01.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An ant",
-       "b": "Alive: wiggle"
+       "b": "Alive: wiggle",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-0-02.jpg",
+        "credit": "stli_, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A baby",
@@ -435,15 +507,27 @@
       },
       {
        "f": "A coconut tree",
-       "b": "Alive: wiggle"
+       "b": "Alive: wiggle",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-0-04.jpg",
+        "credit": "Mr. Abhay Suresh Hule, Ph.D. in Zoology, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A goldfish",
-       "b": "Alive: wiggle"
+       "b": "Alive: wiggle",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-0-05.jpg",
+        "credit": "Mohammad Amin Ghaffari, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A wooden spoon",
-       "b": "Once alive: sit down"
+       "b": "Once alive: sit down",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-0-06.jpg",
+        "credit": "Mflan1977, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A cotton towel",
@@ -451,7 +535,11 @@
       },
       {
        "f": "A newspaper",
-       "b": "Once alive: sit down"
+       "b": "Once alive: sit down",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-0-08.jpg",
+        "credit": "Kai Hendry from Singapore, Malaysia, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A dry tej patta",

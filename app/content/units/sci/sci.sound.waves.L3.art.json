@@ -3,6 +3,10 @@
   "src": "media/img/sci.sound.waves.L3/flow.a2.jpg",
   "credit": "Tramonto5, CC BY 4.0, via Wikimedia Commons"
  },
+ "intro": {
+  "src": "media/img/sci.sound.waves.L3/intro.jpg",
+  "credit": "Florence Lilly, Public domain, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sound.waves.L3/setup.e1.0.jpg",
   "drawn": true
@@ -31,8 +35,16 @@
   "src": "media/img/sci.sound.waves.L3/setup.e2.2.jpg",
   "drawn": true
  },
+ "term.14": {
+  "src": "media/img/sci.sound.waves.L3/term.14.jpg",
+  "credit": "Ben Sutherland from Crystal Palace, London, UK, CC BY 2.0, via Wikimedia Commons"
+ },
  "term.15": {
   "src": "media/img/sci.sound.waves.L3/term.15.jpg",
   "credit": "Fitrah 9131, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.3": {
+  "src": "media/img/sci.sound.waves.L3/term.3.jpg",
+  "credit": "Braxton Stuntz braxton, CC0, via Wikimedia Commons"
  }
 }
