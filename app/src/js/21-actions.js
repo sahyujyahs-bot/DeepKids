@@ -1009,7 +1009,9 @@ function onAct(e) {
     }
     case "refresh": {
       sfx("flip");
-      openSheet({ mode: "refresh", date: b.dataset.date || today });
+      const date = b.dataset.date || today;
+      if (date === today && dayPlan(date).find((i) => i.id === "refresh")?.rf?.fxOnly && startRefresherQuiz()) break;
+      openSheet({ mode: "refresh", date });
       break;
     }
     case "pjump": {

@@ -5871,7 +5871,7 @@ function rfPlan(date, seen) {
     n = U.reduce((a, x) => a + x.n, 0);
   if (!n && !V.length) return p;
   const extra = [
-    n ? `${n} question${n > 1 ? "s" : ""} to try again` : "",
+    n ? `${n} question${n > 1 ? "s" : ""} you got wrong` : "",
     V.length ? `${V.length} unit${V.length > 1 ? "s" : ""} to review` : "",
   ]
     .filter(Boolean)
@@ -6188,13 +6188,33 @@ function refreshAnswersView() {
     `<div class="row"><button class="btn green wide" data-act="tlcheck" data-id="refresh" data-date="${date}">${icon("check")}${it.done ? "Done ✓" : "We did it"}</button></div><button class="link" data-act="rfset">Refresher settings and lists →</button>`
   );
 }
+// "Play it" on a refresher made from units starts its quiz at once: the questions they got wrong first, else a unit due for review
+function startRefresherQuiz() {
+  const U = fxRefs(),
+    V = fxReviews(today);
+  if (U.length) {
+    fxPractise(U[0].id);
+    return true;
+  }
+  if (!V.length) return false;
+  const R = (S.fxRev = S.fxRev || {}),
+    o = R[V[0].id] || { n: 0 };
+  R[V[0].id] = { n: o.n + 1, at: today };
+  save();
+  fxOpen(V[0].id).then(() => {
+    const i = (FXALL?.sections || []).findIndex((s) => s.id === "quiz");
+    if (i >= 0) fxGo(i, 0);
+  });
+  return true;
+}
 function refreshView() {
+  document.getElementById("sheetTitle").textContent = "Refresher";
   const date = ui.sheet.date || today,
     U = fxRefs(),
     V = fxReviews(date);
   const top =
     U.length || V.length
-      ? `<section class="card"><span class="eyebrow">From the units</span>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} to try again</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try them</button></div>`).join("")}${V.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">Review: ${esc(DATA.units[x.id].title)}</span><button class="btn soft sm" data-act="fxpart" data-fxrev="${esc(x.id)}" data-u="${esc(x.id)}" data-p="quiz">Retake the quiz</button></div>`).join("")}</section>`
+      ? `<section class="card"><span class="eyebrow">From the units</span>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""} you got wrong</span><button class="btn sm" data-fxprac="${esc(x.id)}">Practise</button></div>`).join("")}${V.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">Review: ${esc(DATA.units[x.id].title)}</span><button class="btn soft sm" data-act="fxpart" data-fxrev="${esc(x.id)}" data-u="${esc(x.id)}" data-p="quiz">Retake the quiz</button></div>`).join("")}</section>`
       : "";
   const it = dayPlan(date).find((i) => i.id === "refresh");
   return top + (it?.rf?.fxOnly ? "" : refreshAnswersView());
@@ -8056,7 +8076,7 @@ function fxPractiseAll() {
     return last ? addDays(last, FXGAP[Math.min(r.n, 3)]) : today;
   };
   const w = U.length
-    ? `<p class="xs"><b>Questions to try again</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try them</button></div>`).join("")}`
+    ? `<p class="xs"><b>Questions you got wrong</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try them</button></div>`).join("")}`
     : "";
   const d =
     done.length || L.length
@@ -17105,7 +17125,9 @@ function onAct(e) {
     }
     case "refresh": {
       sfx("flip");
-      openSheet({ mode: "refresh", date: b.dataset.date || today });
+      const date = b.dataset.date || today;
+      if (date === today && dayPlan(date).find((i) => i.id === "refresh")?.rf?.fxOnly && startRefresherQuiz()) break;
+      openSheet({ mode: "refresh", date });
       break;
     }
     case "pjump": {

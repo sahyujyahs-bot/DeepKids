@@ -1764,7 +1764,7 @@ function fxPractiseAll() {
     return last ? addDays(last, FXGAP[Math.min(r.n, 3)]) : today;
   };
   const w = U.length
-    ? `<p class="xs"><b>Questions to try again</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try them</button></div>`).join("")}`
+    ? `<p class="xs"><b>Questions you got wrong</b></p>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""}</span><button class="btn sm" data-fxprac="${esc(x.id)}">Try them</button></div>`).join("")}`
     : "";
   const d =
     done.length || L.length
