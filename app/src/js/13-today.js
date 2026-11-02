@@ -123,22 +123,14 @@ function nowCard(it) {
 }
 function moreView() {
   document.getElementById("sheetTitle").textContent = "More for today";
-  const du = dailyUnit(),
-    open = S.exps.filter((e) => !e.closed),
+  const open = S.exps.filter((e) => !e.closed),
     li = learnItems().length;
   const oc = openCount(),
     row = (act, ic, label, sub, extra = "") =>
       `<button class="menurow" data-act="${act}" ${extra}><span class="mqi">${icon(ic)}</span><span><b>${label}</b><br><span class="xs muted">${sub}</span></span>${icon("next")}</button>`;
   let h = `${row("quizgo", "spark", "Quick quiz", "A few questions on what was learned")}${row("uploads", "plus", "Add photos", "Work samples and things made")}${row("lifeadd", "plus", "Something they did", "A class, cooking, a question")}${row("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${row("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}<button class="menurow" data-act="learn">${youBlob("", "calm", 'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li ? li + " guides and readings for today and tomorrow" : "Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
   h += `<button class="menurow" data-act="games">${blob("var(--gum)", 21, "wow", "", 'width="40" height="40"')}<span><b>Jokes and games</b><br><span class="xs muted">Word of the Day, True or False, Odd One Out</span></span>${icon("next")}</button>`;
-  if (du)
-    h += `<div class="hs">${du.c.x.jokes
-      .map((j, i) => {
-        const [q, a] = splitJoke(j),
-          k = today + i;
-        return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(q)}</span>${ui.jokes[k] ? `<span class="a">${esc(a)}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
-      })
-      .join("")}</div>`;
+  h += jokeCards(dayJokes());
   h += moreJG();
   h += `<section class="card"><b style="font:600 17px var(--display)">🌱 Daily check-ins</b><p class="xs muted">For experiments that take days, like seeds sprouting or crystals growing. Tick once a day and DeepKids counts the days.</p>${
     open
@@ -216,8 +208,7 @@ function itemDetail(it, date) {
       )}</div><div class="row">${more > 0 ? `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">See all ${it.prep.length}</button>` : ""}${it.id === "pm" ? `<button class="btn" data-act="night">Get ready for tomorrow</button>` : `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">Parent guides</button>`}</div>`;
   }
   if (it.kind === "warm") {
-    const du = dailyUnit();
-    const j = du ? splitJoke(du.c.x.jokes[0]) : null;
+    const j = dayJokes()[0];
     return `${j ? `<div class="ask"><span class="eyebrow">Joke 1</span>${esc(j[0])} <i>${esc(j[1])}</i></div>` : ""}<div class="row"><button class="btn" data-act="games">Jokes and games</button></div>`;
   }
   if (it.kind === "exps")

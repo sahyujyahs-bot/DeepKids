@@ -1499,6 +1499,48 @@ const splitJoke = (j) => {
   const m = j.match(/^(.*?\?)\s*(.*)$/);
   return m ? [m[1], m[2]] : [j, ""];
 };
+// today's jokes: from the lessons in today's plan first, then from any unit, as [question, answer]. A joke is not told
+// again until every joke in the app has been told, so the same topic on the next day still brings new jokes; the day's
+// pick stays the same all day
+function dayJokes(n = 3) {
+  const D = (S.jokeDays = S.jokeDays || {});
+  if (D[today]?.length) return D[today];
+  const fromUnit = (id) => (DATA.units?.[id]?.jokes || []).map(([q, a]) => [q, a]),
+    fromItem = (u) =>
+      u?.board === "unit"
+        ? fromUnit(u.c.unit)
+        : [...(u?.c?.x?.jokes || []).map(splitJoke), ...(u?.c?.units || []).flatMap((x) => fromUnit(x.id))],
+    seen = new Set(
+      Object.values(D)
+        .flat()
+        .map((j) => j[0]),
+    ),
+    seed = Math.floor(parse(today) / 864e5),
+    mix = (L) =>
+      L.map((j, i) => [((i + 1) * 7919 + seed * 104729) % 1000003, j])
+        .sort((a, b) => a[0] - b[0])
+        .map((x) => x[1]),
+    pools = [
+      lessonsOn(today).flatMap((l) => fromItem(l.u)),
+      fromUnit(fxWarmUnit(today)),
+      mix(Object.keys(DATA.units || {}).flatMap(fromUnit)),
+    ],
+    pick = [];
+  for (const L of pools)
+    for (const j of mix(L))
+      if (j[0] && !seen.has(j[0]) && !pick.some((p) => p[0] === j[0]) && pick.length < n) pick.push(j);
+  // every joke told: start again
+  if (!pick.length) pick.push(...mix(pools.flat()).slice(0, n));
+  Object.keys(D).forEach((d) => d < addDays(today, -400) && delete D[d]);
+  D[today] = pick;
+  return pick;
+}
+// a row of joke cards; the answer shows when tapped
+const jokeCards = (J) =>
+  `<div class="hs">${J.map(([q, a], i) => {
+    const k = today + "j" + i;
+    return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(q)}</span>${ui.jokes[k] ? `<span class="a">${esc(a)}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
+  }).join("")}</div>`;
 const taskDone = (k, id) => !!(S.tasks[k] && S.tasks[k][id]);
 function chapterTasks(u) {
   const c = u.c;
@@ -6155,13 +6197,7 @@ function jokesAndGames() {
   document.getElementById("sheetTitle").textContent = "Jokes and games";
   if (!u) return `<p class="note">Games come from the science chapter you're on. Add Science to see them.</p>`;
   const T = { word: ["Word of the Day", wordGame], tf: ["True or False", tfGame], odd: ["Odd One Out", oddGame] };
-  return `<div class="hs">${u.c.x.jokes
-    .map((j, i) => {
-      const [q, a] = splitJoke(j),
-        k = today + i;
-      return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(q)}</span>${ui.jokes[k] ? `<span class="a">${esc(a)}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
-    })
-    .join("")}</div>
+  return `${jokeCards(dayJokes())}
    <div class="seg">${Object.entries(T)
      .map(([k, [n]]) => `<button aria-pressed="${ui.game === k}" data-act="gtab" data-g="${k}">${n}</button>`)
      .join("")}</div><section class="col">${T[ui.game][1](u)}</section>
@@ -6171,20 +6207,12 @@ function gamesView() {
   const id = fxWarmUnit(today),
     I = id && DATA.units[id];
   if (!I || !I.jokes?.length) return jokesAndGames();
-  const J = I.jokes,
-    k0 = (Math.floor(parse(today) / 864e5) * 3) % J.length,
-    pick = [0, 1, 2].map((i) => J[(k0 + i) % J.length]).filter((j, i, a) => a.indexOf(j) === i);
   const sg = Object.values(DATA.songs || {}).find(
     (x) => (x.units || []).includes(id) || x.topic_level === I.song?.topic_level,
   );
-  const jokes = `<p class="xs muted">From today's lesson: ${esc(I.title)}</p><div class="hs">${pick
-    .map((j, i) => {
-      const k = today + "u" + i;
-      return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(j[0])}</span>${ui.jokes[k] ? `<span class="a">${esc(j[1])}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
-    })
-    .join("")}</div>`;
+  const jokes = jokeCards(dayJokes());
   const song = sg ? `<section class="card">${fxSongHtml(sg)}</section>` : "";
-  const rest = dailyUnit() ? jokesAndGames().replace(/^<div class="hs">[\s\S]*?<\/button><\/div>/, "") : "";
+  const rest = dailyUnit() ? jokesAndGames().replace(jokeCards(dayJokes()), "") : "";
   return jokes + song + rest;
 }
 function lanes(date) {
@@ -9632,22 +9660,14 @@ function nowCard(it) {
 }
 function moreView() {
   document.getElementById("sheetTitle").textContent = "More for today";
-  const du = dailyUnit(),
-    open = S.exps.filter((e) => !e.closed),
+  const open = S.exps.filter((e) => !e.closed),
     li = learnItems().length;
   const oc = openCount(),
     row = (act, ic, label, sub, extra = "") =>
       `<button class="menurow" data-act="${act}" ${extra}><span class="mqi">${icon(ic)}</span><span><b>${label}</b><br><span class="xs muted">${sub}</span></span>${icon("next")}</button>`;
   let h = `${row("quizgo", "spark", "Quick quiz", "A few questions on what was learned")}${row("uploads", "plus", "Add photos", "Work samples and things made")}${row("lifeadd", "plus", "Something they did", "A class, cooking, a question")}${row("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${row("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}<button class="menurow" data-act="learn">${youBlob("", "calm", 'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li ? li + " guides and readings for today and tomorrow" : "Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
   h += `<button class="menurow" data-act="games">${blob("var(--gum)", 21, "wow", "", 'width="40" height="40"')}<span><b>Jokes and games</b><br><span class="xs muted">Word of the Day, True or False, Odd One Out</span></span>${icon("next")}</button>`;
-  if (du)
-    h += `<div class="hs">${du.c.x.jokes
-      .map((j, i) => {
-        const [q, a] = splitJoke(j),
-          k = today + i;
-        return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(q)}</span>${ui.jokes[k] ? `<span class="a">${esc(a)}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
-      })
-      .join("")}</div>`;
+  h += jokeCards(dayJokes());
   h += moreJG();
   h += `<section class="card"><b style="font:600 17px var(--display)">🌱 Daily check-ins</b><p class="xs muted">For experiments that take days, like seeds sprouting or crystals growing. Tick once a day and DeepKids counts the days.</p>${
     open
@@ -9725,8 +9745,7 @@ function itemDetail(it, date) {
       )}</div><div class="row">${more > 0 ? `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">See all ${it.prep.length}</button>` : ""}${it.id === "pm" ? `<button class="btn" data-act="night">Get ready for tomorrow</button>` : `<button class="btn soft sm" data-act="tlopen" data-id="${it.id}" data-date="${date}">Parent guides</button>`}</div>`;
   }
   if (it.kind === "warm") {
-    const du = dailyUnit();
-    const j = du ? splitJoke(du.c.x.jokes[0]) : null;
+    const j = dayJokes()[0];
     return `${j ? `<div class="ask"><span class="eyebrow">Joke 1</span>${esc(j[0])} <i>${esc(j[1])}</i></div>` : ""}<div class="row"><button class="btn" data-act="games">Jokes and games</button></div>`;
   }
   if (it.kind === "exps")

@@ -120,6 +120,48 @@ const splitJoke = (j) => {
   const m = j.match(/^(.*?\?)\s*(.*)$/);
   return m ? [m[1], m[2]] : [j, ""];
 };
+// today's jokes: from the lessons in today's plan first, then from any unit, as [question, answer]. A joke is not told
+// again until every joke in the app has been told, so the same topic on the next day still brings new jokes; the day's
+// pick stays the same all day
+function dayJokes(n = 3) {
+  const D = (S.jokeDays = S.jokeDays || {});
+  if (D[today]?.length) return D[today];
+  const fromUnit = (id) => (DATA.units?.[id]?.jokes || []).map(([q, a]) => [q, a]),
+    fromItem = (u) =>
+      u?.board === "unit"
+        ? fromUnit(u.c.unit)
+        : [...(u?.c?.x?.jokes || []).map(splitJoke), ...(u?.c?.units || []).flatMap((x) => fromUnit(x.id))],
+    seen = new Set(
+      Object.values(D)
+        .flat()
+        .map((j) => j[0]),
+    ),
+    seed = Math.floor(parse(today) / 864e5),
+    mix = (L) =>
+      L.map((j, i) => [((i + 1) * 7919 + seed * 104729) % 1000003, j])
+        .sort((a, b) => a[0] - b[0])
+        .map((x) => x[1]),
+    pools = [
+      lessonsOn(today).flatMap((l) => fromItem(l.u)),
+      fromUnit(fxWarmUnit(today)),
+      mix(Object.keys(DATA.units || {}).flatMap(fromUnit)),
+    ],
+    pick = [];
+  for (const L of pools)
+    for (const j of mix(L))
+      if (j[0] && !seen.has(j[0]) && !pick.some((p) => p[0] === j[0]) && pick.length < n) pick.push(j);
+  // every joke told: start again
+  if (!pick.length) pick.push(...mix(pools.flat()).slice(0, n));
+  Object.keys(D).forEach((d) => d < addDays(today, -400) && delete D[d]);
+  D[today] = pick;
+  return pick;
+}
+// a row of joke cards; the answer shows when tapped
+const jokeCards = (J) =>
+  `<div class="hs">${J.map(([q, a], i) => {
+    const k = today + "j" + i;
+    return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(q)}</span>${ui.jokes[k] ? `<span class="a">${esc(a)}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
+  }).join("")}</div>`;
 const taskDone = (k, id) => !!(S.tasks[k] && S.tasks[k][id]);
 function chapterTasks(u) {
   const c = u.c;

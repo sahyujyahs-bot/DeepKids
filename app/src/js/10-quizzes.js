@@ -654,13 +654,7 @@ function jokesAndGames() {
   document.getElementById("sheetTitle").textContent = "Jokes and games";
   if (!u) return `<p class="note">Games come from the science chapter you're on. Add Science to see them.</p>`;
   const T = { word: ["Word of the Day", wordGame], tf: ["True or False", tfGame], odd: ["Odd One Out", oddGame] };
-  return `<div class="hs">${u.c.x.jokes
-    .map((j, i) => {
-      const [q, a] = splitJoke(j),
-        k = today + i;
-      return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(q)}</span>${ui.jokes[k] ? `<span class="a">${esc(a)}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
-    })
-    .join("")}</div>
+  return `${jokeCards(dayJokes())}
    <div class="seg">${Object.entries(T)
      .map(([k, [n]]) => `<button aria-pressed="${ui.game === k}" data-act="gtab" data-g="${k}">${n}</button>`)
      .join("")}</div><section class="col">${T[ui.game][1](u)}</section>
@@ -670,20 +664,12 @@ function gamesView() {
   const id = fxWarmUnit(today),
     I = id && DATA.units[id];
   if (!I || !I.jokes?.length) return jokesAndGames();
-  const J = I.jokes,
-    k0 = (Math.floor(parse(today) / 864e5) * 3) % J.length,
-    pick = [0, 1, 2].map((i) => J[(k0 + i) % J.length]).filter((j, i, a) => a.indexOf(j) === i);
   const sg = Object.values(DATA.songs || {}).find(
     (x) => (x.units || []).includes(id) || x.topic_level === I.song?.topic_level,
   );
-  const jokes = `<p class="xs muted">From today's lesson: ${esc(I.title)}</p><div class="hs">${pick
-    .map((j, i) => {
-      const k = today + "u" + i;
-      return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke ${i + 1}</span><span class="q">${esc(j[0])}</span>${ui.jokes[k] ? `<span class="a">${esc(j[1])}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
-    })
-    .join("")}</div>`;
+  const jokes = jokeCards(dayJokes());
   const song = sg ? `<section class="card">${fxSongHtml(sg)}</section>` : "";
-  const rest = dailyUnit() ? jokesAndGames().replace(/^<div class="hs">[\s\S]*?<\/button><\/div>/, "") : "";
+  const rest = dailyUnit() ? jokesAndGames().replace(jokeCards(dayJokes()), "") : "";
   return jokes + song + rest;
 }
 function lanes(date) {

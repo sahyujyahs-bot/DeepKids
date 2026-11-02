@@ -442,11 +442,19 @@
      "items": [
       {
        "f": "Tulsi: small purple flower spikes at the tips of the stems",
-       "b": "Flower group. Tulsi makes seeds inside tiny fruits."
+       "b": "Flower group. Tulsi makes seeds inside tiny fruits.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-00.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coconut palm: grows along the coasts of Kerala and Goa",
-       "b": "Flower group. The coconut is a fruit with one huge seed inside."
+       "b": "Flower group. The coconut is a fruit with one huge seed inside.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-01.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rice: grows in wet fields from Thanjavur to Assam",
@@ -454,15 +462,27 @@
       },
       {
        "f": "Lotus: pink flowers on a village pond",
-       "b": "Flower group. Lotus seeds form in a flat seed head."
+       "b": "Flower group. Lotus seeds form in a flat seed head.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-03.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Neem: a big shady tree along many Indian roads",
-       "b": "Flower group. Neem has small white flowers and makes yellow fruits."
+       "b": "Flower group. Neem has small white flowers and makes yellow fruits.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-04.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Banyan: a huge tree with roots hanging from the branches",
-       "b": "Flower group. Their tiny flowers are hidden inside the figs."
+       "b": "Flower group. Their tiny flowers are hidden inside the figs.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-05.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Lawn grass: the grass in a building garden",
@@ -470,23 +490,43 @@
       },
       {
        "f": "Jasmine (malli): white flowers worn in the hair",
-       "b": "Flower group. Jasmine is known by her flowers; the cultivated kinds seldom set seed."
+       "b": "Flower group. Jasmine is known by her flowers; the cultivated kinds seldom set seed.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-07.jpg",
+        "credit": "Nathasha K V, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Deodar: a tall tree on the hills around Shimla",
-       "b": "Cone group. Deodar seeds sit on the scales of upright cones."
+       "b": "Cone group. Deodar seeds sit on the scales of upright cones.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-08.jpg",
+        "credit": "Xthnob, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Chir pine: a pine with long needles in Uttarakhand",
-       "b": "Cone group. Their winged seeds fly out of open cones."
+       "b": "Cone group. Their winged seeds fly out of open cones.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-09.jpg",
+        "credit": "Ramnarayan K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Chilgoza pine: grows in Kinnaur, in Himachal Pradesh",
-       "b": "Cone group. The pine nuts sold in dry fruit shops are their naked seeds."
+       "b": "Cone group. The pine nuts sold in dry fruit shops are their naked seeds.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-10.jpg",
+        "credit": "Siddarth Machado, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Khasi pine: the pine trees around Shillong",
-       "b": "Cone group. A conifer with needles in bunches of three."
+       "b": "Cone group. A conifer with needles in bunches of three.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-11.jpg",
+        "credit": "呂一起(Lyu yi-chi), CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Christmas tree (Araucaria): a tall tree with flat layers of branches in a building garden",
@@ -494,15 +534,27 @@
       },
       {
        "f": "Morpankhi: a garden shrub with flat, fan-like sprays of scale leaves",
-       "b": "Cone group. A conifer with small cones."
+       "b": "Cone group. A conifer with small cones.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-13.jpg",
+        "credit": "Patrick Hacker, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cycas: looks like a short palm, in hotel gardens and in the Western Ghats",
-       "b": "Cone group. Not a palm and not a conifer, but a cycad, with big cones."
+       "b": "Cone group. Not a palm and not a conifer, but a cycad, with big cones.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-14.jpg",
+        "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Maidenhair fern: dainty fan-shaped leaflets on a damp wall",
-       "b": "Spore group. A fern. The spores form under the folded edges of the leaflets."
+       "b": "Spore group. A fern. The spores form under the folded edges of the leaflets.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-15.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ladder fern: grows in cracks of old buildings and near drains in cities",
@@ -510,27 +562,51 @@
       },
       {
        "f": "Boston fern: a bushy fern in a hanging pot",
-       "b": "Spore group. A fern. Look for brown dots under older fronds."
+       "b": "Spore group. A fern. Look for brown dots under older fronds.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-17.jpg",
+        "credit": "Daniel Estabrooks, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Azolla: tiny floating plants that cover rice fields and ponds, green or red",
-       "b": "Spore group. A water fern. Farmers in many states grow Azolla to feed the rice and the cattle."
+       "b": "Spore group. A water fern. Farmers in many states grow Azolla to feed the rice and the cattle.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-18.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Dhekia: curled young fronds cooked as a vegetable in Assam",
-       "b": "Spore group. A fern. The curled tops are young fronds, not flowers."
+       "b": "Spore group. A fern. The curled tops are young fronds, not flowers.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-19.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tree fern: a fern as tall as a room, in the forests of the Western Ghats",
-       "b": "Spore group. A fern with a woody trunk and no seeds."
+       "b": "Spore group. A fern with a woody trunk and no seeds.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-20.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Wall moss: green velvet on a wall in the Mumbai monsoon",
-       "b": "Spore group. A moss. Their spores form in capsules on thin stalks."
+       "b": "Spore group. A moss. Their spores form in capsules on thin stalks.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-21.jpg",
+        "credit": "Alexis Tinker-Tsavalas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sphagnum: a spongy pale-green moss of wet hill bogs",
-       "b": "Spore group. A moss that soaks up about 20 times their dry weight of water."
+       "b": "Spore group. A moss that soaks up about 20 times their dry weight of water.",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-22.jpg",
+        "credit": "Bartosz Czołczyński, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Marchantia: a flat, shiny green plant on wet soil in nursery pots",

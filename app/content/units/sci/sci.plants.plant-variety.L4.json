@@ -603,7 +603,11 @@
      "items": [
       {
        "f": "Plant: Neem leaves and seeds",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-00.jpg",
+        "credit": "Meghaa, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of neem: A bitter chemical, azadirachtin. Insects who eat it stop feeding, and young insects cannot grow up. People: dry leaves in rice and dal tins.",
@@ -619,7 +623,11 @@
       },
       {
        "f": "Plant: Turmeric, an underground stem",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-04.jpg",
+        "credit": "Jacek Pietruszewski, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of turmeric: Yellow curcumin and other chemicals that slow some moulds and germs in the laboratory. People: colour for food and cloth.",
@@ -627,7 +635,11 @@
       },
       {
        "f": "Plant: Chilli fruit",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-06.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of chilli: Capsaicin burns the mouths of mammals who crush the seeds. Birds feel no burn and spread the seeds. People: spice and some pain creams.",
@@ -635,7 +647,11 @@
       },
       {
        "f": "Plant: Tulsi leaves",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-08.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of tulsi: Eugenol and other strong-smelling oils that many leaf-eaters avoid. People: kadha and tea.",
@@ -643,7 +659,11 @@
       },
       {
        "f": "Plant: Sarpagandha root",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-10.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of sarpagandha: Bitter chemicals called alkaloids, which many animals avoid. People: reserpine, an early medicine for high blood pressure.",
@@ -659,7 +679,11 @@
       },
       {
        "f": "Plant: Mustard seeds",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-14.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of mustard: When crushed and wet, make a hot oil that stings the mouth and nose. People: mustard oil and kasundi.",
@@ -675,7 +699,11 @@
       },
       {
        "f": "Plant: Rubber tree",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-18.jpg",
+        "credit": "Enrique Salazar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of rubber tree: Milky latex that flows out of a cut and turns sticky, gluing insects' mouths. People: natural rubber.",
@@ -683,7 +711,11 @@
       },
       {
        "f": "Plant: Bael tree",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-20.jpg",
+        "credit": "Simon Tonge, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Shield of bael: Long sharp thorns on the branches keep goats away. People: bael sharbat from the fruit.",
@@ -691,7 +723,11 @@
       },
       {
        "f": "Plant: Touch-me-not",
-       "b": "Plant"
+       "b": "Plant",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-22.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shield of touch-me-not: Folds their leaves within seconds of a touch, which may startle leaf-eaters. People: watched by scientists studying how plants move.",
