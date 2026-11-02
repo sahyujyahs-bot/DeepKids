@@ -333,10 +333,34 @@
       "a fisherwoman in Kochi",
       "a cricket player waiting to bat",
       "a girl on her first day at a new school",
-      "a cat sitting on a wall",
-      "a crow at a window",
-      "an ant on the kitchen floor",
-      "a dog left alone at home",
+      {
+       "f": "a cat sitting on a wall",
+       "img": {
+        "src": "media/cards/me-and-others-g1-0-06.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "a crow at a window",
+       "img": {
+        "src": "media/cards/me-and-others-g1-0-07.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "an ant on the kitchen floor",
+       "img": {
+        "src": "media/cards/me-and-others-g1-0-08.jpg",
+        "credit": "Joss Carr, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "a dog left alone at home",
+       "img": {
+        "src": "media/cards/me-and-others-g1-0-09.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
       "a train driver at night",
       "a teacher with 40 children",
       "a farmer waiting for rain",
@@ -345,7 +369,13 @@
       "a child who is colour blind looking at a painting",
       "a left-handed child at a crowded table",
       "a doctor in a busy hospital",
-      "a parrot in a cage",
+      {
+       "f": "a parrot in a cage",
+       "img": {
+        "src": "media/cards/me-and-others-g1-0-18.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "a dabbawala in Mumbai carrying lunch boxes",
       "a girl who just moved from Kolkata to Hyderabad",
       "a cow on a road",
