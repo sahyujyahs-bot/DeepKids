@@ -559,7 +559,11 @@
       },
       {
        "f": "Long jump take-off",
-       "b": "Feet push down and back, arms swing forward"
+       "b": "Feet push down and back, arms swing forward",
+       "img": {
+        "src": "media/cards/physics-of-sport-g2-0-01.jpg",
+        "credit": "The U.S. Army, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Throwing a ball",

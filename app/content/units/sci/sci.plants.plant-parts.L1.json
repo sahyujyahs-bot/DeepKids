@@ -286,15 +286,27 @@
       },
       {
        "f": "Mango tree: stem",
-       "b": "Stem. The thick trunk holds the tree up and carries water to the leaves."
+       "b": "Stem. The thick trunk holds the tree up and carries water to the leaves.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-01.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Mango tree: leaves",
-       "b": "Leaves. They catch sunlight and make food for the whole tree."
+       "b": "Leaves. They catch sunlight and make food for the whole tree.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-02.jpg",
+        "credit": "Prasanta Hembram, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Mango tree: flowers",
-       "b": "Flowers. Tiny flowers grow in big bunches. A few of them grow into mangoes."
+       "b": "Flowers. Tiny flowers grow in big bunches. A few of them grow into mangoes.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-03.jpg",
+        "credit": "Jagdish Supekar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mango tree: fruit",
@@ -310,19 +322,35 @@
       },
       {
        "f": "Brinjal plant: stem",
-       "b": "Stem. The stem holds up the leaves and the brinjals, and carries water."
+       "b": "Stem. The stem holds up the leaves and the brinjals, and carries water.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-07.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Brinjal plant: leaves",
-       "b": "Leaves. Big soft leaves catch sunlight and make food."
+       "b": "Leaves. Big soft leaves catch sunlight and make food.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-08.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Brinjal plant: flower",
-       "b": "Flower. A purple flower. Part of the flower grows into a brinjal."
+       "b": "Flower. A purple flower. Part of the flower grows into a brinjal.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-09.jpg",
+        "credit": "Maya Lodhiyal, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Brinjal plant: fruit",
-       "b": "Fruit. The brinjal holds the seeds inside."
+       "b": "Fruit. The brinjal holds the seeds inside.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-10.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Brinjal plant: seeds",
@@ -338,11 +366,19 @@
       },
       {
        "f": "Lotus: leaves",
-       "b": "Leaves. Big round leaves float on the water and catch sunlight."
+       "b": "Leaves. Big round leaves float on the water and catch sunlight.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-14.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Lotus: flower",
-       "b": "Flower. A big pink or white flower that opens in the day."
+       "b": "Flower. A big pink or white flower that opens in the day.",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-15.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Lotus: fruit",

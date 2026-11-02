@@ -1002,11 +1002,6 @@ function onAct(e) {
       autoRead();
       break;
     }
-    case "hist": {
-      sfx("flip");
-      openSheet({ mode: "hist" });
-      break;
-    }
     case "wkst": {
       const id = b.dataset.id,
         to = b.dataset.to,

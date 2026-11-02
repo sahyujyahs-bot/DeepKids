@@ -1068,7 +1068,11 @@
       },
       {
        "f": "Foil",
-       "b": "Waterproof. Tears easily."
+       "b": "Waterproof. Tears easily.",
+       "img": {
+        "src": "media/cards/testing-materials-g1-1-05.jpg",
+        "credit": "images-of-elements.com (site says that \"Most element samples came from smart-ele, CC BY 3.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Banana leaf",
@@ -1084,11 +1088,19 @@
       },
       {
        "f": "Jute",
-       "b": "Strong. Absorbent."
+       "b": "Strong. Absorbent.",
+       "img": {
+        "src": "media/cards/testing-materials-g1-1-08.jpg",
+        "credit": "Olga Aleksandra, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Wool",
-       "b": "Warm and soft. Soaks up water slowly. Stretches a little."
+       "b": "Warm and soft. Soaks up water slowly. Stretches a little.",
+       "img": {
+        "src": "media/cards/testing-materials-g1-1-09.jpg",
+        "credit": "Theo Oppewal, CC0, via Wikimedia Commons"
+       }
       }
      ]
     }

@@ -242,7 +242,6 @@ function renderSheetBody(top) {
     lifeadd: lifeAddView,
     track: trackView,
     school: schoolView,
-    hist: historyView,
     refresh: refreshView,
     prep: prepView,
     games: gamesView,
