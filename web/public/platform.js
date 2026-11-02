@@ -78,7 +78,9 @@
       async get(){const {data,error}=await shared().select("id,data").eq("coll",coll).eq("id",id).maybeSingle();if(error)throw err("db_error",error.message);return snap(data)},
       async set(obj){const {error}=await shared().upsert({id,coll,data:obj});if(error)throw err("db_error",error.message)}}}
     function collection(name){
-      if(isPrivate(name))return {doc:id=>doc(name+"/"+id)};
+      // a person's own documents: one by id, or all of them (to find a family saved under an older log-in)
+      if(isPrivate(name))return {doc:id=>doc(name+"/"+id),
+        async get(){const {data,error}=await docs().select("path,data").like("path",name+"/%");if(error)throw err("db_error",error.message);return {docs:(data||[]).map(r=>({id:r.path.slice(name.length+1),data:()=>r.data})),size:(data||[]).length}}};
       const q={n:500};const api={
         limit(n){q.n=n;return api},
         async get(){const {data,error}=await shared().select("id,data").eq("coll",name).order("created_at",{ascending:false}).limit(q.n);if(error)throw err("db_error",error.message);return {docs:(data||[]).map(r=>({id:r.id,data:()=>r.data})),size:(data||[]).length}},

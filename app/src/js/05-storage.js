@@ -93,9 +93,13 @@ async function openAccount(acct, name) {
           .catch(() => null);
         if (old && old.exists) legacy = old.data();
       }
-      const cands = [local, remote, legacy]
+      // a Google account's first open brings in the families saved under the older phone-number log-in, so
+      // signing in again never starts a family afresh; the fullest one is the base and the others merge into it
+      const older = !known.adopted && acct.startsWith("g") ? await olderFamilies(acct) : [];
+      let cands = [local, remote, legacy]
         .filter((x) => x && x.setup !== undefined)
         .sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));
+      if (older.length) cands = [...older, ...cands.filter((x) => x.setup)];
       if (cands.length) {
         let m = cands[0];
         cands.slice(1).forEach((c) => (m = mergeIn(m, c)));
@@ -104,9 +108,9 @@ async function openAccount(acct, name) {
       }
       if (name && !S.parent?.name) S.parent = { ...(S.parent || {}), name };
       S.acct = acct;
-      S.updatedAt = Math.max(S.updatedAt || 0, 1);
+      S.updatedAt = older.length ? Date.now() : Math.max(S.updatedAt || 0, 1);
       await store.set(JSON.parse(JSON.stringify(S)));
-      await DBR.doc("data/users/" + UIDR + "/session").set({ acct, at: Date.now(), migrated: true });
+      await DBR.doc("data/users/" + UIDR + "/session").set({ acct, at: Date.now(), migrated: true, adopted: true });
       lsSet(LSK(), JSON.stringify(S));
       syncMode = "account";
       lastSaved = Date.now();
@@ -136,6 +140,18 @@ async function openAccount(acct, name) {
   k.unshift({ acct, name: S.parent?.name || name || "", child: S.child || "" });
   lsSet("dk-known", JSON.stringify(k.slice(0, 5)));
   render();
+}
+// the set-up families this person saved under other log-ins, fullest first
+async function olderFamilies(acct) {
+  try {
+    const all = await DBR.collection("data/users/" + UIDR).get();
+    return all.docs
+      .filter((d) => d.id.startsWith("acct_") && d.id !== "acct_" + acct && d.data()?.setup)
+      .map((d) => d.data())
+      .sort((a, b) => JSON.stringify(b).length - JSON.stringify(a).length);
+  } catch (e) {
+    return [];
+  }
 }
 // two copies of a list of records with ids (work photos, moments): every record, the newer copy's fields winning
 function mergeById(a, b) {

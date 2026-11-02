@@ -33,7 +33,7 @@ const server = http.createServer((req, res) => { let p = decodeURIComponent(req.
   const after = await p.evaluate(() => ({ setup: S.setup, child: S.child, acct: S.acct, login: !!document.querySelector('#lgPhone') }));
   console.log('3. after reload (browser storage wiped):', JSON.stringify(after));
   // planner chat goes to our server function
-  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.click('[data-act="seg"][data-v="cal"]'); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400);
+  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.evaluate(() => { ui.seg = ui.seg || {}; ui.seg.week = 'add'; ui.addmode = 'say'; render(); }); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400);
   console.log('3b. AI notice shown:', await p.locator('.dk-ai').count(), '| calls before consent:', claudeCalls.length);
   await p.click('.dk-ai [data-v="0"]'); await p.waitForTimeout(400); console.log('3c. after Not now, calls:', claudeCalls.length);
   await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400); await p.click('.dk-ai [data-v="1"]'); await p.waitForTimeout(800);

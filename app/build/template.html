@@ -3803,26 +3803,40 @@ a.btn {
     opacity: 0.5;
   }
 }
+/* locked "Type or speak": one calm line with IAm, clearly a Plus feature, not a search box */
 .dumpline {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
   width: 100%;
-  padding: 0;
+  min-height: 54px;
+  padding: 6px 8px 6px 6px;
   border: 0;
-  background: none;
-  font: inherit;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #ece8fb, #f7f3e8);
+  color: var(--peri);
+  font: 600 15px var(--body);
+  text-align: left;
   cursor: pointer;
 }
-.dumpline .inp {
+.dumpline .iam {
+  flex: none;
+}
+.dumpline .dlt {
   flex: 1;
-  display: flex;
-  align-items: center;
-  font-weight: 600;
+  min-width: 0;
   overflow: hidden;
   white-space: nowrap;
-  text-align: left;
-  color: var(--muted);
+  text-overflow: ellipsis;
+}
+.dumpline .dlplus {
+  flex: none;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--sun);
+  color: var(--onbright);
+  font-size: 13px;
+  font-weight: 700;
 }
 /* Add by hand: a grid of kinds, then only the fields that kind needs */
 .addbox {
@@ -8029,9 +8043,13 @@ async function openAccount(acct, name) {
           .catch(() => null);
         if (old && old.exists) legacy = old.data();
       }
-      const cands = [local, remote, legacy]
+      // a Google account's first open brings in the families saved under the older phone-number log-in, so
+      // signing in again never starts a family afresh; the fullest one is the base and the others merge into it
+      const older = !known.adopted && acct.startsWith("g") ? await olderFamilies(acct) : [];
+      let cands = [local, remote, legacy]
         .filter((x) => x && x.setup !== undefined)
         .sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));
+      if (older.length) cands = [...older, ...cands.filter((x) => x.setup)];
       if (cands.length) {
         let m = cands[0];
         cands.slice(1).forEach((c) => (m = mergeIn(m, c)));
@@ -8040,9 +8058,9 @@ async function openAccount(acct, name) {
       }
       if (name && !S.parent?.name) S.parent = { ...(S.parent || {}), name };
       S.acct = acct;
-      S.updatedAt = Math.max(S.updatedAt || 0, 1);
+      S.updatedAt = older.length ? Date.now() : Math.max(S.updatedAt || 0, 1);
       await store.set(JSON.parse(JSON.stringify(S)));
-      await DBR.doc("data/users/" + UIDR + "/session").set({ acct, at: Date.now(), migrated: true });
+      await DBR.doc("data/users/" + UIDR + "/session").set({ acct, at: Date.now(), migrated: true, adopted: true });
       lsSet(LSK(), JSON.stringify(S));
       syncMode = "account";
       lastSaved = Date.now();
@@ -8072,6 +8090,18 @@ async function openAccount(acct, name) {
   k.unshift({ acct, name: S.parent?.name || name || "", child: S.child || "" });
   lsSet("dk-known", JSON.stringify(k.slice(0, 5)));
   render();
+}
+// the set-up families this person saved under other log-ins, fullest first
+async function olderFamilies(acct) {
+  try {
+    const all = await DBR.collection("data/users/" + UIDR).get();
+    return all.docs
+      .filter((d) => d.id.startsWith("acct_") && d.id !== "acct_" + acct && d.data()?.setup)
+      .map((d) => d.data())
+      .sort((a, b) => JSON.stringify(b).length - JSON.stringify(a).length);
+  } catch (e) {
+    return [];
+  }
 }
 // two copies of a list of records with ids (work photos, moments): every record, the newer copy's fields winning
 function mergeById(a, b) {
@@ -18706,7 +18736,7 @@ function askList() {
 function dumpCard() {
   const D_ = ui.dump || {};
   if (!fxAIOn())
-    return `<button class="dumpline" data-act="plus" data-r="chat"><span class="inp">Type or speak your plans…</span><span class="pill">🔒 Plus</span></button>`;
+    return `<button class="dumpline" data-act="plus" data-r="chat">${iamFace("mini")}<span class="dlt">Just tell IAm your plans</span><span class="dlplus">🔒 Plus</span></button>`;
   return `<div class="dump"><p class="xs muted">Type or speak your plans, or send a photo of a timetable. DeepKids adds them to your plan.</p>
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><input class="ptitle" data-pi="${i}" value="${esc(it.title)}" maxlength="80" aria-label="Name (tap to change)"><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}

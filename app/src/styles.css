@@ -3797,26 +3797,40 @@ a.btn {
     opacity: 0.5;
   }
 }
+/* locked "Type or speak": one calm line with IAm, clearly a Plus feature, not a search box */
 .dumpline {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
   width: 100%;
-  padding: 0;
+  min-height: 54px;
+  padding: 6px 8px 6px 6px;
   border: 0;
-  background: none;
-  font: inherit;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #ece8fb, #f7f3e8);
+  color: var(--peri);
+  font: 600 15px var(--body);
+  text-align: left;
   cursor: pointer;
 }
-.dumpline .inp {
+.dumpline .iam {
+  flex: none;
+}
+.dumpline .dlt {
   flex: 1;
-  display: flex;
-  align-items: center;
-  font-weight: 600;
+  min-width: 0;
   overflow: hidden;
   white-space: nowrap;
-  text-align: left;
-  color: var(--muted);
+  text-overflow: ellipsis;
+}
+.dumpline .dlplus {
+  flex: none;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--sun);
+  color: var(--onbright);
+  font-size: 13px;
+  font-weight: 700;
 }
 /* Add by hand: a grid of kinds, then only the fields that kind needs */
 .addbox {

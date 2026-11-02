@@ -441,11 +441,19 @@
      "items": [
       {
        "f": "Biting a piece off a whole banana",
-       "b": "Incisors"
+       "b": "Incisors",
+       "img": {
+        "src": "media/cards/teeth-g1-1-00.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Biting a slice off a guava",
-       "b": "Incisors"
+       "b": "Incisors",
+       "img": {
+        "src": "media/cards/teeth-g1-1-01.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cutting a bite of a cucumber stick",

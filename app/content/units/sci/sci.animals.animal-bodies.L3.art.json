@@ -1,15 +1,71 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.animals.animal-bodies.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.animals.animal-bodies.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.animals.animal-bodies.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.animals.animal-bodies.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.a2.jpg",
+  "drawn": true
+ },
  "flow.a3": {
   "src": "media/img/sci.animals.animal-bodies.L3/flow.a3.jpg",
   "credit": "Utain Pummarin, CC BY, via iNaturalist"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.a7": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.a7.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.c1.jpg",
+  "drawn": true
  },
  "flow.c2": {
   "src": "media/img/sci.animals.animal-bodies.L3/flow.c2.jpg",
   "credit": "Ken-ichi Ueda, CC BY, via iNaturalist"
  },
+ "flow.e1": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.e2.jpg",
+  "drawn": true
+ },
  "flow.e3": {
   "src": "media/img/sci.animals.animal-bodies.L3/flow.e3.jpg",
   "credit": "Rama Narayanan, CC BY, via iNaturalist"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.animals.animal-bodies.L3/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.animals.animal-bodies.L3/intro.jpg",
@@ -55,6 +111,18 @@
   "src": "media/img/sci.animals.animal-bodies.L3/summary.jpg",
   "credit": "Prashanth N S, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.10.jpg",
+  "drawn": true
+ },
  "term.11": {
   "src": "media/img/sci.animals.animal-bodies.L3/term.11.jpg",
   "credit": "Barry Stewart, CC BY, via iNaturalist"
@@ -83,8 +151,28 @@
   "src": "media/img/sci.animals.animal-bodies.L3/term.19.jpg",
   "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
  },
+ "term.2": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.6.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.7.jpg",
+  "drawn": true
+ },
  "term.8": {
   "src": "media/img/sci.animals.animal-bodies.L3/term.8.jpg",
   "credit": "Designed in Canva"
+ },
+ "term.9": {
+  "src": "media/img/sci.animals.animal-bodies.L3/term.9.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
  }
 }

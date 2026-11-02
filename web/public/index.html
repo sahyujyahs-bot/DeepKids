@@ -3815,26 +3815,40 @@ a.btn {
     opacity: 0.5;
   }
 }
+/* locked "Type or speak": one calm line with IAm, clearly a Plus feature, not a search box */
 .dumpline {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
   width: 100%;
-  padding: 0;
+  min-height: 54px;
+  padding: 6px 8px 6px 6px;
   border: 0;
-  background: none;
-  font: inherit;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #ece8fb, #f7f3e8);
+  color: var(--peri);
+  font: 600 15px var(--body);
+  text-align: left;
   cursor: pointer;
 }
-.dumpline .inp {
+.dumpline .iam {
+  flex: none;
+}
+.dumpline .dlt {
   flex: 1;
-  display: flex;
-  align-items: center;
-  font-weight: 600;
+  min-width: 0;
   overflow: hidden;
   white-space: nowrap;
-  text-align: left;
-  color: var(--muted);
+  text-overflow: ellipsis;
+}
+.dumpline .dlplus {
+  flex: none;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--sun);
+  color: var(--onbright);
+  font-size: 13px;
+  font-weight: 700;
 }
 /* Add by hand: a grid of kinds, then only the fields that kind needs */
 .addbox {
@@ -7414,9 +7428,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="a4cd3fe6bb7133ff7e";window.DK_APPV="a4cd3fe6bb";window.DK_DATAV="71332cf0b5"</script>
-<script src="/config.js?v=a4cd3fe6bb7133ff7e"></script>
+<script>window.DK_BUILD="897d74865c190edae0";window.DK_APPV="897d74865c";window.DK_DATAV="190e05b8e5"</script>
+<script src="/config.js?v=897d74865c190edae0"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=a4cd3fe6bb7133ff7e"></script>
+<script src="/platform.js?v=897d74865c190edae0"></script>
 </body>
 </html>

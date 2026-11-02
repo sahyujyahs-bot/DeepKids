@@ -29,7 +29,7 @@ const FAKE_RZP = `window.Razorpay=function(o){this.open=()=>{window.__rzp=o;setT
   await p.fill('#obName', 'Liri'); await p.click('[data-age="8"]'); await p.click('[data-ob="next"]'); await p.click('[data-b="ncert"]'); for (let i = 0; i < 4; i++) await p.click('[data-ob="next"]'); await p.waitForTimeout(800);
   console.log('1. without Plus: Claude locked', await p.evaluate(() => SAMPLE === null), '| upgrade hook', await p.evaluate(() => typeof window.DK_PLATFORM.upgrade));
   const long = 'So basically my daughter has swimming, I think it is on Tuesdays and Thursdays from five to six in the evening at the club near our house, and sometimes her cousin comes along but that depends on whether my sister can drop him, which she might or might not, so maybe just put swimming for now and we will figure out the rest.';
-  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.fill('#dumpText', long); await p.click('.composer .send'); await p.waitForTimeout(500);
+  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.evaluate(() => { ui.seg = ui.seg || {}; ui.seg.week = 'add'; ui.addmode = 'say'; render(); }); await p.waitForTimeout(300); await p.fill('#dumpText', long); await p.click('.composer .send'); await p.waitForTimeout(500);
   console.log('2. long message: needs-AI card', !!(await p.$('.needai')), '| kept', await p.evaluate(() => !!S.pendAI), '| claude calls', claudeCalls.length);
   await p.click('.needai [data-act="plus"]'); await p.waitForTimeout(300); await p.click('[data-act="plusgo"]'); await p.waitForTimeout(400);
   const opts = await p.$$eval('.dkpay button', x => x.map(e => e.textContent)); console.log('3. price picker:', opts);
