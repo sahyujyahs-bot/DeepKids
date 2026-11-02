@@ -262,7 +262,11 @@
       },
       {
        "f": "A child watering a tulsi pot",
-       "b": "Plants"
+       "b": "Plants",
+       "img": {
+        "src": "media/cards/water-sources-and-uses-g1-0-09.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rain falling on a rice field",
@@ -270,7 +274,11 @@
       },
       {
        "f": "A money plant growing in a glass of water",
-       "b": "Plants"
+       "b": "Plants",
+       "img": {
+        "src": "media/cards/water-sources-and-uses-g1-0-11.jpg",
+        "credit": "Navin Sasikumar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A crow drinking from a clay saucer",
