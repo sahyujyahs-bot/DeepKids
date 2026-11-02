@@ -9,21 +9,22 @@ The founder is not a programmer. Short, plain replies. She pays for every token 
 - Build chain: `python3 app/build/combined/build.py`, `python3 app/build/build_app.py`, `python3 web/build_web.py`, `git checkout web/public/config.js`. Checks: `cd app && npm run lint`, `node app/tests/matrix.js <url>` (15 family types), `clickall.js`, `unitflow.js`. A test server on a copy of `app/index.html` with `<meta charset="utf-8">` in front, with `media` and `units` linked beside it.
 - Questions test ideas, never the book (WRITING.md). Without AI first.
 
-## Where things stand (2 Nov 2026)
-- Science units: Levels 1 to 3 all written, play-tested, live (42 + 64 + 147). Level 4 (160 planned) and Level 5 (248 planned) not written: Class 4 is next. One sample unit each exists.
+## Where things stand (2 Nov 2026, end of the second session)
+- Science units: Levels 1 to 3 all written, play-tested, live (42 + 64 + 147). Level 5 (248 planned) not written.
+- Level 4 (160 planned): 3 units written so far, none built into the app yet: `plants.plant-variety` (the earlier sample), `microorganisms.helpful-microbes` and `states.floating-and-sinking` (full units written by Sonnet in session two, both pass `validate_unit.py`; videos and pictures still to do, facts to verify are listed in each unit's `playtest` note). Next in the plan: `what-is-life.signs-of-life.L4`, then the other Level 4 ids in `app/content/curriculum/sci.json` (161 ids). Write them with the founder's rule set: SPEC_UNIT.md, WRITING.md, PHILOSOPHY.md, REWRITE_UNIT.md, PLAYTEST.md. Building the units into the app needs the founder's go-ahead.
 - All 928 book-detail questions rewritten as concept questions. Done.
-- Media still to do for Levels 1 and 2: set-up drawings (about 75 units, about 450 drawings left), many card pictures, videos missing on 25 units (35 videos; use a cheap Haiku helper with `app/build/find_videos.py --search`), songs not written for any unit (founder said later).
+- Media still to do for Levels 1 and 2: Level 1 set-up drawings are at 137 of 206 after two Fable batches (20 units done). The next 10 Level 1 units with no set-up drawings are listed by `audit_media.py -v` (about 70 left in Level 1, then 276 in Level 2), many card pictures, videos missing on 25 units (35 videos; use a cheap Haiku helper with `app/build/find_videos.py --search`), songs not written for any unit (founder said later).
 - Level 3: the covers, experiments and projects that were empty are now drawn. About 1,500 explanation and word cards have no picture and probably should stay that way.
 - Welcome screen, Today pictures, Progress (constellation tiles), subject colours (navy maths, yellow English, coral Hindi, green science) are done and approved. The founder's drawings are in `app/content/drawings/` (README lists them).
 - Waiting on the founder: the 77 Canva pictures (Excel list sent), a new picture for the "Know what your child has learned" welcome slide, a redraw of the rooftop picture if she wants one, whether the Meet IAm slide should say "Part of DeepKids Plus" (it does).
 - Stale web tests: `web/tests/test_web.js`, `test_plus.js`, `test_edits.js`, `test_flash.js` still expect the old phone log-in.
 - Not done yet: white text on the new yellow English colour may be hard to read in a few places (labels, finished-chapter dots).
 
-## Running when the old chat ended
-- Nothing. The Level 3 fill (covers, experiments, projects for 20 units) finished and was saved.
+## Running when this session ended
+- Nothing. Both Level 1 drawing batches (20 units, Fable, about 1.3 million tokens each) finished and were saved.
 
 ## How the drawing jobs work
-- Style engine: an anidoodle project (flatKit.ts and moongFlat.ts are in `app/build/drawings/`). It lives only in a session scratchpad (`.../scratchpad/art`, with node_modules); in a new session, create one with `node <anidoodle skill>/engine/tools/scaffold.mjs` and copy those two files into `src/canvas-core/`.
+- Style engine: an anidoodle project (flatKit.ts and moongFlat.ts are in `app/build/drawings/`). It lives only in a session scratchpad (`.../scratchpad/art`, with node_modules); in a new session, create one with `node <anidoodle skill>/engine/tools/scaffold.mjs <dir>`, then `npm install --legacy-peer-deps --omit=optional` inside it, and copy those two files into `src/canvas-core/`. Copy `app/build/workflows/lean-unit-media.js` to the scratchpad and change its `ART` line to the new folder.
 - Job scripts: `app/build/workflows/lean-unit-media.js` (one Fable helper per unit: all missing set-up cards plus up to 10 card pictures) and `lean-fill-keys.js` (draws exactly the listed slots). Fable cost about 106,000 tokens per unit with the lean method. Both take `args` as a list of `{f: "<unit>.json", s: setup count}` or `{f, keys: [...]}`.
 - Audit: `python3 app/build/audit_media.py -v` (run from the repo root) lists what each unit still lacks.
 - Question rewrites: `app/build/apply_question_rewrites.py` applied the helper results while keeping each file's layout.

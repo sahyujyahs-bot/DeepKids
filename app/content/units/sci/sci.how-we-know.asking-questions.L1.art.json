@@ -1,7 +1,15 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.how-we-know.asking-questions.L1/expl.1.jpg",
   "credit": "Skjold Søndergaard, CC BY, via iNaturalist"
+ },
+ "expl.2": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/expl.2.jpg",
+  "drawn": true
  },
  "expl.3": {
   "src": "media/img/sci.how-we-know.asking-questions.L1/expl.3.jpg",
@@ -11,8 +19,56 @@
   "src": "media/img/sci.how-we-know.asking-questions.L1/flow.a1.jpg",
   "credit": "Jean-Paul Boerekamps, CC0, via iNaturalist"
  },
+ "flow.a2": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/flow.p1.jpg",
+  "drawn": true
+ },
+ "setup.e1.0": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e1.3": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/setup.e1.3.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/term.0.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.how-we-know.asking-questions.L1/term.1.jpg",
   "credit": "stli_, CC BY, via iNaturalist"
+ },
+ "term.2": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.how-we-know.asking-questions.L1/term.3.jpg",
+  "drawn": true
  }
 }

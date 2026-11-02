@@ -3,20 +3,84 @@
   "src": "media/img/sci.light.light-sources.L1/expl.0.jpg",
   "credit": "NASA/JPL-Caltech/GSFC/JAXA, public domain"
  },
+ "expl.2": {
+  "src": "media/img/sci.light.light-sources.L1/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.light.light-sources.L1/expl.3.jpg",
   "credit": "NASA, public domain"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.light.light-sources.L1/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.light.light-sources.L1/flow.a2.jpg",
+  "drawn": true
  },
  "flow.a3": {
   "src": "media/img/sci.light.light-sources.L1/flow.a3.jpg",
   "credit": "siddarth varanasi, CC BY 2.0, via Wikimedia Commons"
  },
+ "flow.c1": {
+  "src": "media/img/sci.light.light-sources.L1/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.light.light-sources.L1/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.light.light-sources.L1/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.light.light-sources.L1/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.light.light-sources.L1/flow.g2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.light.light-sources.L1/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.light.light-sources.L1/intro.jpg",
   "credit": "NASA/SDO/AIA, public domain"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.light.light-sources.L1/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.light.light-sources.L1/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.light.light-sources.L1/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.light.light-sources.L1/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.light.light-sources.L1/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.light.light-sources.L1/setup.e2.2.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.light.light-sources.L1/summary.jpg",
   "credit": "Richa Yadav, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.1": {
+  "src": "media/img/sci.light.light-sources.L1/term.1.jpg",
+  "drawn": true
  }
 }
