@@ -1,4 +1,8 @@
 {
+ "flow.e1": {
+  "src": "media/img/sci.chemistry.reaction-speed.L3/flow.e1.jpg",
+  "credit": "Сарапулов, CC BY 4.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.chemistry.reaction-speed.L3/setup.e1.0.jpg",
   "drawn": true
@@ -38,5 +42,9 @@
  "setup.e3.2": {
   "src": "media/img/sci.chemistry.reaction-speed.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.chemistry.reaction-speed.L3/term.6.jpg",
+  "credit": "Сарапулов, CC BY 4.0, via Wikimedia Commons"
  }
 }

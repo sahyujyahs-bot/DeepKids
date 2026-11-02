@@ -1481,7 +1481,7 @@ const fxUnitBtns = (L) =>
               : `About ${D.length} session${D.length === 1 ? "" : "s"}`,
             nd || np ? `<b>${nd} of ${P.length} parts done</b>${np ? `, ${np} with questions left` : ""}` : "",
           ]
-        : ["On the DeepKids track · not linked to your board's chapters"],
+        : [],
       side:
         open && !inPlan
           ? `<button class="fxadd" ${q} data-front="1" aria-label="Add to plan: ${esc(x.title)}">${icon("plus")}</button>`

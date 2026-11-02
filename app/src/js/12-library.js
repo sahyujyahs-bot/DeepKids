@@ -44,36 +44,27 @@ const dkViewPick = (count) =>
     )
     .join("")}</select></label><span class="sm muted">${count}</span></div>`;
 const combinedBrowse = () => (ui.dkview === "topic" ? fxTopicLadder() : combinedTopicList());
-// every science topic, strand by strand, then level by level: a written unit opens (any family can add it to the
-// plan alongside the class plan); the rest show as coming
+// every science unit, one level at a time: pick a level, see its units by strand; any open unit can be added to the
+// plan alongside the class plan, and a count says how many more are coming
 function fxTopicLadder() {
-  const T = DATA.ladder?.sci || [],
-    // a level: its written units as cards, then the lessons still to come as small soft chips (board topics marked with a dot)
-    level = ([l, subs]) => {
-      const have = subs.filter(([id]) => DATA.units?.[id]),
-        soon = subs.filter(([id]) => !DATA.units?.[id]);
-      return `<div class="fxlvl"><div class="fxlvlh"><b>Level ${l}</b><span>Class ${DATA.levels?.[l]?.cls || l}</span></div>${fxUnitBtns(have.map(([id]) => DATA.units[id]))}${soon.length ? `<div class="fxsoon"><span class="xs muted">Coming</span>${soon.map(([, name, board]) => `<span class="fxsoonc${board ? " bd" : ""}">${esc(name)}</span>`).join("")}</div>` : ""}</div>`;
-    },
-    // "7 units · 23 coming": how many of these topics' lessons are written, and how many are still to come
-    count = (L) => {
-      const n = L.filter(([id]) => DATA.units?.[id]).length;
-      return [n ? `${n} unit${n === 1 ? "" : "s"}` : "", n < L.length ? `${L.length - n} coming` : ""]
-        .filter(Boolean)
-        .join(" · ");
-    },
-    lessons = (t) => t.levels.flatMap(([, subs]) => subs),
-    topic = (t) =>
-      `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${count(lessons(t))}</span></summary>${t.levels.map(level).join("")}</details>`;
-  return T.length
-    ? `${dkViewPick(`${T.length} topics · ${Object.keys(DATA.units || {}).length} units`)}<section class="fxnew"><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you. A <span class="fxsoonc bd">dot</span> marks a topic school boards teach.</p>${[
-        ...new Set(T.map((t) => t.strand)),
-      ]
-        .map((st) => {
-          const ts = T.filter((t) => t.strand === st);
-          return `<h3 class="fxsh">${esc(st)} <span class="xs muted">${ts.length} topic${ts.length === 1 ? "" : "s"} · ${count(ts.flatMap(lessons))}</span></h3>${ts.map(topic).join("")}`;
-        })
-        .join("")}${fxSongBtns()}</section>`
-    : "";
+  const T = DATA.ladder?.sci || [];
+  if (!T.length) return "";
+  const lvs = [...new Set(T.flatMap((t) => t.levels.map(([l]) => +l)))].sort((a, b) => a - b),
+    lv = lvs.includes(ui.bl) ? ui.bl : lvs.includes(S.levels?.sci) ? S.levels.sci : lvs[Math.min(2, lvs.length - 1)],
+    at = (t) => t.levels.find(([l]) => +l === lv)?.[1] || [],
+    all = T.flatMap(at),
+    have = all.filter(([id]) => DATA.units?.[id]),
+    strands = [...new Set(T.map((t) => t.strand))]
+      .map((st) => [
+        st,
+        T.filter((t) => t.strand === st)
+          .flatMap(at)
+          .filter(([id]) => DATA.units?.[id]),
+      ])
+      .filter(([, L]) => L.length);
+  return `${dkViewPick(`${have.length} units`)}<div class="row chips">${lvs.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Level ${l}</button>`).join("")}</div>
+   <p class="xs muted">Level ${lv} is about Class ${DATA.levels?.[lv]?.cls || lv}. Add any unit to your plan, alongside your class plan.${["combined", "none"].includes(S.board) ? "" : " Units with a 🔒 open on the DeepKids track."}</p>
+   <section class="fxnew">${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
 }
 const LSUBJ = {
   sci: "Science",

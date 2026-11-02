@@ -585,7 +585,13 @@
       },
       "GUARD: Eyelashes, eyelids and tears",
       "CARE: Never rub hard. Wash with clean water. Never look at the sun.",
-      "PART: Ears",
+      {
+       "f": "PART: Ears",
+       "img": {
+        "src": "media/cards/body-parts-g1-0-03.jpg",
+        "credit": "צולם על ידי he:משתמש:אנדר-ויק, Public domain, via Wikimedia Commons"
+       }
+      },
       "GUARD: Earwax that moves out by itself",
       "CARE: Wipe the outside only. Never poke anything in.",
       "PART: Nose",

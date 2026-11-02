@@ -425,7 +425,13 @@
       "An old battery",
       "A broken glass tumbler",
       "A used razor blade",
-      "A fused tube light",
+      {
+       "f": "A fused tube light",
+       "img": {
+        "src": "media/cards/sorting-waste-g1-0-21.jpg",
+        "credit": "Chetvorno, CC0, via Wikimedia Commons"
+       }
+      },
       "Expired tablets",
       "Leftover poha from breakfast",
       "A paint tin with paint left in it",

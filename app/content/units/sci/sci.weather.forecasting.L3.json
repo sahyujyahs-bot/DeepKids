@@ -425,11 +425,19 @@
      "items": [
       {
        "f": "Small puffy white clouds that stay small all afternoon.",
-       "b": "Fine weather"
+       "b": "Fine weather",
+       "img": {
+        "src": "media/cards/forecasting-g1-0-00.jpg",
+        "credit": "Nana Hemaa N.A, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Puffy clouds growing taller and taller on a hot afternoon.",
-       "b": "Thunderstorm soon"
+       "b": "Thunderstorm soon",
+       "img": {
+        "src": "media/cards/forecasting-g1-0-01.jpg",
+        "credit": "Juan Emilio Prades Bel, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A giant cloud with a dark bottom and a flat top spreading out.",

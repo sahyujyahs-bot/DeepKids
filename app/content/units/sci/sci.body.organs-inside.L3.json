@@ -576,7 +576,13 @@
      "title": "Organ tokens: draw each one on coloured paper and cut it out (one set)",
      "items": [
       "Brain",
-      "Heart",
+      {
+       "f": "Heart",
+       "img": {
+        "src": "media/cards/organs-inside-g1-0-01.jpg",
+        "credit": "Patrick J. Lynch, medical illustrator, CC BY 2.5, via Wikimedia Commons"
+       }
+      },
       "Left lung (smaller, with a dent)",
       "Right lung",
       "Stomach (J shape)",

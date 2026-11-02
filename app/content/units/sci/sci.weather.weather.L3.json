@@ -401,7 +401,13 @@
      "kind": "cards",
      "title": "4 tool cards",
      "items": [
-      "Thermometer",
+      {
+       "f": "Thermometer",
+       "img": {
+        "src": "media/cards/weather-g1-0-00.jpg",
+        "credit": "User:Nino Barbieri, CC BY 2.5, via Wikimedia Commons"
+       }
+      },
       "Rain gauge",
       "Wind vane",
       "Anemometer"
