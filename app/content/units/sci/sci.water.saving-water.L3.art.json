@@ -19,6 +19,18 @@
   "src": "media/img/sci.water.saving-water.L3/flow.e1.jpg",
   "credit": "Vanadict, CC0, via Wikimedia Commons"
  },
+ "flow.e2": {
+  "src": "media/img/sci.water.saving-water.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.water.saving-water.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.water.saving-water.L3/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.water.saving-water.L3/intro.jpg",
   "credit": "Willem van Aken, CSIRO, CC BY 3.0, via Wikimedia Commons"
@@ -57,6 +69,10 @@
  },
  "setup.e3.2": {
   "src": "media/img/sci.water.saving-water.L3/setup.e3.2.jpg",
+  "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.water.saving-water.L3/summary.jpg",
   "drawn": true
  },
  "term.3": {

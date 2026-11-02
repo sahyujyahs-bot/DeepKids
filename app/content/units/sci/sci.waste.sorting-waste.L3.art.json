@@ -3,6 +3,22 @@
   "src": "media/img/sci.waste.sorting-waste.L3/expl.5.jpg",
   "credit": "avocat, CC BY, via iNaturalist"
  },
+ "flow.e1": {
+  "src": "media/img/sci.waste.sorting-waste.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.waste.sorting-waste.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.waste.sorting-waste.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.waste.sorting-waste.L3/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.waste.sorting-waste.L3/intro.jpg",
   "credit": "epSos .de, CC BY 2.0, via Wikimedia Commons"

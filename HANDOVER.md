@@ -19,6 +19,9 @@ The founder is not a programmer. Short, plain replies. She pays for every token 
 - Stale web tests: `web/tests/test_web.js`, `test_plus.js`, `test_edits.js`, `test_flash.js` still expect the old phone log-in.
 - Not done yet: white text on the new yellow English colour may be hard to read in a few places (labels, finished-chapter dots).
 
+## Running when the old chat ended
+- Level 3 fill, batch 2 (10 units, 51 pictures, Fable, started about 19:10 on 2 Nov). Helpers write the pictures straight into the repo. When it is done: validate the 10 units (`python3 app/build/validate_unit.py <unit>`; success prints `: OK`), run `python3 app/build/combined/build.py`, delete `*.dl`, commit and push. Units: sci.waste.sorting-waste, sci.water.saving-water, sci.water.water-cycle, sci.water.water-sources-and-uses, sci.weather.forecasting, sci.weather.weather, sci.weather.wind-and-air, sci.what-is-life.cells, sci.what-is-life.edge-of-life, sci.what-is-life.signs-of-life (all .L3).
+
 ## How the drawing jobs work
 - Style engine: an anidoodle project (flatKit.ts and moongFlat.ts are in `app/build/drawings/`). It lives only in a session scratchpad (`.../scratchpad/art`, with node_modules); in a new session, create one with `node <anidoodle skill>/engine/tools/scaffold.mjs` and copy those two files into `src/canvas-core/`.
 - Job scripts: `app/build/workflows/lean-unit-media.js` (one Fable helper per unit: all missing set-up cards plus up to 10 card pictures) and `lean-fill-keys.js` (draws exactly the listed slots). Fable cost about 106,000 tokens per unit with the lean method. Both take `args` as a list of `{f: "<unit>.json", s: setup count}` or `{f, keys: [...]}`.
