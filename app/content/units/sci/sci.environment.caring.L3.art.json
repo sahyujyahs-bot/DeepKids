@@ -11,6 +11,22 @@
   "src": "media/img/sci.environment.caring.L3/flow.e1.jpg",
   "credit": "renjus box, CC BY, via iNaturalist"
  },
+ "flow.e2": {
+  "src": "media/img/sci.environment.caring.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.environment.caring.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "flow.p2": {
+  "src": "media/img/sci.environment.caring.L3/flow.p2.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.environment.caring.L3/intro.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.environment.caring.L3/setup.e1.0.jpg",
   "drawn": true
@@ -33,6 +49,10 @@
  },
  "setup.e2.2": {
   "src": "media/img/sci.environment.caring.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.environment.caring.L3/summary.jpg",
   "drawn": true
  },
  "term.4": {

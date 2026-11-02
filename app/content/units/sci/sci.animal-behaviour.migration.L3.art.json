@@ -31,6 +31,18 @@
   "src": "media/img/sci.animal-behaviour.migration.L3/flow.c2.jpg",
   "credit": "ian_mcallan, CC BY, via iNaturalist"
  },
+ "flow.e1": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.animal-behaviour.migration.L3/intro.jpg",
   "credit": "Tejas M, CC BY, via iNaturalist"

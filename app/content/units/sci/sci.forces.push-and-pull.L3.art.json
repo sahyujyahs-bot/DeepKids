@@ -12,6 +12,14 @@
   "credit": "Newton Henry Black, Public domain, via Wikimedia Commons"
  },
  "flow.e1": "media/img/sci.forces.push-and-pull.L3/flow.e1.jpg",
+ "flow.e2": {
+  "src": "media/img/sci.forces.push-and-pull.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.forces.push-and-pull.L3/flow.e3.jpg",
+  "drawn": true
+ },
  "flow.g1": "media/img/sci.forces.push-and-pull.L3/flow.g1.jpg",
  "flow.p1": "media/img/sci.forces.push-and-pull.L3/flow.p1.jpg",
  "intro": "media/img/sci.forces.push-and-pull.L3/intro.jpg",

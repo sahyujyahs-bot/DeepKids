@@ -11,6 +11,22 @@
   "src": "media/img/sci.waste.reduce-reuse-recycle.L3/flow.e1.jpg",
   "credit": "S.R., CC BY, via iNaturalist"
  },
+ "flow.e2": {
+  "src": "media/img/sci.waste.reduce-reuse-recycle.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.waste.reduce-reuse-recycle.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.waste.reduce-reuse-recycle.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.waste.reduce-reuse-recycle.L3/intro.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.waste.reduce-reuse-recycle.L3/setup.e1.0.jpg",
   "drawn": true
@@ -45,6 +61,10 @@
  },
  "setup.e3.2": {
   "src": "media/img/sci.waste.reduce-reuse-recycle.L3/setup.e3.2.jpg",
+  "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.waste.reduce-reuse-recycle.L3/summary.jpg",
   "drawn": true
  },
  "term.15": {
