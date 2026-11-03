@@ -47,14 +47,17 @@ let FXCUR = 0,
   FXPU = {},
   FXCARDS = [],
   FXOBS = null;
+// the emoji of a step picture's activity, by the first letter of its id (e1, a2, g1, p1, c1)
+const FXSTEPE = { e: "🧪", a: "🤸", g: "🎲", p: "🛠️", c: "🧩" };
 function fxImg(u, key, brief, cls) {
-  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit. A picture not drawn
-  // yet shows the unit's own picture: families never see the art brief, which is written for the artist
+  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit. A picture not drawn yet
+  // shows a plain tile with the part's emoji, never another picture: the same cover on every card looked like a mistake
   const p = u.img?.[key],
     url = p?.src || p,
-    em = FXE[key.split(".")[0]] || "🎨";
+    em = FXE[key.split(".")[0]] || FXSTEPE[key.split(".")[1]?.[0]] || "🎨";
   if (!url && !brief) return "";
-  return `<div class="fximg ${cls || ""}${p?.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${url ? esc(brief || "") : ""}" src="${esc(url || unitPic(u.id))}" onerror="this.parentNode.classList.add('broken')">${p?.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`;
+  if (!url) return `<div class="fximg ${cls || ""} broken" data-e="${em}"></div>`;
+  return `<div class="fximg ${cls || ""}${p?.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')">${p?.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
 function fxChart(c) {

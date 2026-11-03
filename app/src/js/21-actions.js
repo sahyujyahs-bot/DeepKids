@@ -1010,8 +1010,9 @@ function onAct(e) {
     case "refresh": {
       sfx("flip");
       const date = b.dataset.date || today;
-      if (date === today && dayPlan(date).find((i) => i.id === "refresh")?.rf?.fxOnly && startRefresherQuiz()) break;
-      openSheet({ mode: "refresh", date });
+      // today's refresher is built first (a DeepKids unit's questions are loaded), then it opens with its first question
+      if (date === today) rfBuild(date).then(() => openSheet({ mode: "refresh", date }));
+      else openSheet({ mode: "refresh", date });
       break;
     }
     case "pjump": {
@@ -1979,6 +1980,7 @@ function onAct(e) {
       const c = b.dataset.c != null ? +b.dataset.c : null,
         r = c != null ? c === q.ans : b.dataset.r === "1";
       qRecord(q, r);
+      if (ui.sheet?.mode === "refresh") rfRecord(q, r);
       sfx(r ? "ok" : "flip");
       if (ui.sheet?.mode === "quizz" && ui.qrun) {
         const R = ui.qrun;

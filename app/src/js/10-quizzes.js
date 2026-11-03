@@ -110,26 +110,12 @@ function masteryLists() {
   return L;
 }
 const MGN = { not: "Not grasped yet", grasped: "Grasped", mastered: "Mastered" },
-  RFWHY = {
-    not: "Last time, your child got a question on these wrong.",
-    grasped: "No wrong answers, but some parts of the lesson aren't done yet.",
-    mastered: "Every part done, and no wrong answers.",
-  },
   RTN = { qz: "Quiz questions" };
-const RFDEF = {
-  not: { every: 1 },
-  grasped: { every: 3 },
-  mastered: { every: 10 },
-  mins: 45,
-  days: [0, 1, 2, 3, 4, 5, 6],
-};
+const RFDEF = { mastered: { every: 10 }, mins: 45, days: [0, 1, 2, 3, 4, 5, 6] };
 function RFS() {
-  const s = S.rfs || {},
-    g = (k) => ({ ...RFDEF[k], ...(s[k] || {}) });
+  const s = S.rfs || {};
   return {
-    not: g("not"),
-    grasped: g("grasped"),
-    mastered: g("mastered"),
+    mastered: { ...RFDEF.mastered, ...(s.mastered || {}) },
     mins: s.mins || RFDEF.mins,
     days: s.days || RFDEF.days,
   };
@@ -139,94 +125,165 @@ const hsh = (s) => {
   for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
   return h;
 };
-/* the day's refresher: topics due by their list's frequency, a mix of short bits by their list's mix */
-// `seen`: topics the refresher will already have covered on the days before (when planning days ahead)
-function rfPlanFromAnswers(date, seen = {}) {
-  const saved = S.rfp?.[date];
-  if (saved && !saved.fxOnly && saved.slots?.length && saved.slots.every((s) => s.ty === "qz")) return saved;
-  const R = RFS();
-  if (!R.days.includes(parse(date).getDay())) return null;
-  const M = lastAnswers(),
-    dn = parse(date);
-  const lastRef = {};
-  Object.entries(S.rfp || {}).forEach(([d, p]) => {
-    if (d < date && S.tl?.[d + "|refresh"])
-      (p.topics || []).forEach((t) => {
-        if (!lastRef[t.k] || d > lastRef[t.k]) lastRef[t.k] = d;
-      });
-  });
-  Object.entries(seen).forEach(([k, d]) => {
-    if (d < date && (!lastRef[k] || d > lastRef[k])) lastRef[k] = d;
-  });
-  const due = [];
-  learnedUnits().forEach((u) => {
-    const ll = lastLearn(u);
-    if (!ll || ll >= date) return;
-    const g = masteryOf(u, M),
-      from = lastRef[u.k] && lastRef[u.k] > ll ? lastRef[u.k] : ll,
-      gap = Math.round((dn - parse(from)) / 864e5);
-    if (gap >= R[g].every) due.push({ u, g, gap });
-  });
-  if (!due.length) return null;
-  const ord = { not: 0, grasped: 1, mastered: 2 };
-  due.sort((a, b) => ord[a.g] - ord[b.g] || b.gap - a.gap || hsh(date + a.u.k) - hsh(date + b.u.k));
-  // at least 5 concept questions for each topic (up to 3 topics), and never fewer than 5 in all. No word-meaning, fill-in
-  // or matching questions: the ones the child got wrong come first, then new ones, then the rest
-  const T = due.slice(0, 3),
-    slots = [],
-    used = new Set(),
-    pri = (x) => (M[x.id]?.r === 0 ? 0 : M[x.id] ? 2 : 1),
-    take = (u, g, n) =>
-      qBank(u)
-        .filter((x) => !x.rote && !used.has(x.id))
-        .sort((a, b) => pri(a) - pri(b) || hsh(date + a.id) - hsh(date + b.id))
-        .slice(0, n)
-        .forEach((x) => {
-          used.add(x.id);
-          slots.push({ ty: "qz", k: u.k, g, q: x });
-        });
-  T.forEach((t) => take(t.u, t.g, 5));
-  for (const u of learnedUnits()) {
-    if (slots.length >= 5) break;
-    if (!T.some((t) => t.u.k === u.k)) take(u, masteryOf(u, M), 5 - slots.length);
-  }
-  if (!slots.length) return null;
-  const mins = slots.length * 3;
-  const p = {
-    date,
-    mins,
-    topics: T.map((t) => ({ k: t.u.k, g: t.g })),
-    slots,
-    title:
-      T.map((t) => t.u.title)
-        .slice(0, 2)
-        .join(" · ") + (T.length > 2 ? ` +${T.length - 2}` : ""),
-    sub: `${slots.length} concept questions from ${T.length} past topic${T.length > 1 ? "s" : ""}`,
+/* The refresher. Every unit a child has completed comes back until they have answered 5 of its questions right: then it is
+   mastered, and only returns every few days to keep fresh. A unit whose refresher was started and not finished comes first
+   the next day, then the completed ones that are not mastered. A day's refresher is at most 20 questions, 5 from each of up
+   to 4 units, taking turns across the subjects. Questions test ideas: no word meanings, fill-ins or matching. */
+const RF_PER = 5,
+  RF_MAX = 20;
+const rfIsDk = (k) => k.startsWith("unit|");
+const rfRight = (k) => Object.values(S.rfq || {}).filter((x) => x.k === k && x.r === 1).length;
+const rfTitle = (k) => {
+  const u = unitByK(k);
+  return u ? chT(u) : k;
+};
+// the units with a refresher to do: g is open (started, not finished), learn (completed, not mastered) or keep (mastered,
+// due to keep fresh)
+function rfQueue(date) {
+  const M = S.rfm || {},
+    gap = RFS().mastered.every,
+    seen = new Set(),
+    out = [];
+  const add = (k, subj, completed) => {
+    if (seen.has(k) || !S.subjects.includes(subj)) return;
+    seen.add(k);
+    const m = M[k] || {},
+      right = rfRight(k),
+      g = m.open ? "open" : right >= RF_PER ? "keep" : completed ? "learn" : null;
+    if (!g) return;
+    if (g === "keep" && m.last && Math.round((parse(date) - parse(m.last)) / 864e5) < gap) return;
+    if (!rfIsDk(k) && !qBank(unitByK(k) || {}).some((x) => !x.rote)) return;
+    out.push({ k, subj, g, right, last: m.last || "" });
   };
-  if (date === today) {
-    S.rfp = { ...(S.rfp || {}), [date]: p };
-  }
-  return p;
+  Object.keys(DATA.units || {}).forEach(
+    (id) => rank[fxUnitSt("unit|" + id)] >= 2 && add("unit|" + id, id.split(".")[0], true),
+  );
+  learnedUnits().forEach((u) => u.board !== "unit" && rank[st(u.k)] >= 2 && add(u.k, u.subj, true));
+  Object.keys(M).forEach((k) => M[k].open && add(k, rfIsDk(k) ? k.slice(5).split(".")[0] : unitByK(k)?.subj, false));
+  const ord = { open: 0, learn: 1, keep: 2 };
+  return out.sort(
+    (a, b) =>
+      ord[a.g] - ord[b.g] ||
+      a.right - b.right ||
+      (a.last < b.last ? -1 : a.last > b.last ? 1 : 0) ||
+      hsh(date + a.k) - hsh(date + b.k),
+  );
 }
-function rfPlan(date, seen) {
-  const p = rfPlanFromAnswers(date, seen),
-    U = fxRefs(),
-    V = fxReviews(date);
-  if (!U.length && !V.length) return p;
-  // each unit with wrong answers or due for review gives at least 5 questions
-  const ids = [...new Set([...U.map((x) => x.id), ...V.map((x) => x.id)])],
-    total = ids.reduce((a, id) => a + Math.max(5, U.find((x) => x.id === id)?.n || 0), 0),
-    extra = `${total} questions from ${ids.length} unit${ids.length > 1 ? "s" : ""}`;
-  if (p) return { ...p, sub: (p.sub || "") + " · plus " + extra };
+// the units for a day: up to 4 (fewer when the daily time is short), taking turns across the subjects
+function rfPick(date) {
+  const Q = rfQueue(date),
+    subs = S.subjects.filter((s) => Q.some((x) => x.subj === s)),
+    by = Object.fromEntries(subs.map((s) => [s, Q.filter((x) => x.subj === s)])),
+    max = Math.max(1, Math.min(RF_MAX / RF_PER, Math.round(RFS().mins / 10))),
+    off = subs.length ? Math.floor(parse(date) / 864e5) % subs.length : 0,
+    order = [...subs.slice(off), ...subs.slice(0, off)],
+    pick = [];
+  while (pick.length < max && order.some((s) => by[s].length))
+    for (const s of order) {
+      const x = pick.length < max && by[s].shift();
+      if (x) pick.push(x);
+    }
+  return pick;
+}
+// the questions a DeepKids unit can give: the ones the child got wrong first, then its quiz and worksheet questions that can
+// be answered by choosing
+function rfDkQuestions(u, k) {
+  const wrong = (fxSt().ref[u.id] || []).filter((r) => r.k).map((r) => r.k),
+    all = [...wrong.map((kk) => [kk, fxFindItem(u, kk)]), ...fxDeepItems(u).map((x) => [x.k, x.it])],
+    seen = new Set(),
+    out = [];
+  for (const [kk, it] of all) {
+    if (!it || seen.has(kk)) continue;
+    seen.add(kk);
+    let o = null;
+    if (it.t === "mcq" && Array.isArray(it.opts) && Number.isInteger(it.a))
+      o = { opts: it.opts, ans: it.a, a: String(it.opts[it.a]) };
+    else if (it.t === "truefalse") o = { opts: ["True", "False"], ans: it.a ? 0 : 1, a: it.a ? "True" : "False" };
+    if (o) out.push({ id: qid(k, it.p), k, q: it.p, ...o, why: it.why, kind: "mcq", fx: kk });
+  }
+  return out;
+}
+// the questions a book chapter can give: wrong ones first, then new ones, then the rest
+function rfBookQuestions(u, date) {
+  const M = lastAnswers(),
+    pri = (x) => (M[x.id]?.r === 0 ? 0 : M[x.id] ? 2 : 1);
+  return qBank(u)
+    .filter((x) => !x.rote)
+    .sort((a, b) => pri(a) - pri(b) || hsh(date + a.id) - hsh(date + b.id));
+}
+// today's refresher, built once: its questions are kept, and each unit in it is marked as started
+async function rfBuild(date) {
+  if (S.rfp?.[date]?.built) return S.rfp[date];
+  const picks = rfPick(date),
+    spare = rfQueue(date).filter((x) => !picks.some((p) => p.k === x.k)),
+    slots = [],
+    topics = [],
+    used = new Set();
+  const take = async (x) => {
+    let L = [];
+    try {
+      L = rfIsDk(x.k) ? rfDkQuestions(await fxLoad(x.k.slice(5)), x.k) : rfBookQuestions(unitByK(x.k), date);
+    } catch (e) {}
+    L = L.filter((y) => !used.has(y.id)).slice(0, RF_PER);
+    L.forEach((y) => {
+      used.add(y.id);
+      slots.push({ ty: "qz", k: x.k, g: x.g, q: y });
+    });
+    if (L.length) topics.push({ k: x.k, g: x.g });
+  };
+  for (const x of picks) await take(x);
+  for (const x of spare) if (slots.length < RF_PER) await take(x); // never fewer than 5 questions in all
+  if (!slots.length) return null;
+  S.rfm = S.rfm || {};
+  topics.forEach((t) => {
+    const prev = S.rfm[t.k] || {};
+    S.rfm[t.k] = { ...prev, open: date, ids: slots.filter((s) => s.k === t.k).map((s) => s.q.id) };
+  });
+  const n = new Set(topics.map((t) => (rfIsDk(t.k) ? t.k.slice(5).split(".")[0] : unitByK(t.k)?.subj))).size;
+  S.rfp = {
+    ...(S.rfp || {}),
+    [date]: {
+      date,
+      built: true,
+      mins: slots.length * 2,
+      topics,
+      slots: slots.slice(0, RF_MAX),
+      title: "Quick revision quiz",
+      sub: `${slots.length} questions from ${topics.length} unit${topics.length > 1 ? "s" : ""}, ${n} subject${n > 1 ? "s" : ""}`,
+    },
+  };
+  save();
+  return S.rfp[date];
+}
+// what the Today list shows: today's built refresher, or what it will be
+function rfPlan(date) {
+  const p = S.rfp?.[date];
+  if (p?.built) return p;
+  if (date < today) return null;
+  const picks = rfPick(date);
+  if (!picks.length) return null;
+  const n = Math.min(RF_MAX, picks.length * RF_PER);
   return {
     date,
-    mins: Math.min(RFS().mins, total * 2),
-    topics: [],
+    mins: n * 2,
+    topics: picks.map((x) => ({ k: x.k, g: x.g })),
     slots: [],
     title: "Quick revision quiz",
-    sub: extra,
-    fxOnly: true,
+    sub: `${n} questions from ${picks.length} unit${picks.length > 1 ? "s" : ""}`,
+    lazy: true,
   };
+}
+// a refresher answer: kept for each question. A unit's refresher is finished when all its questions are answered, and the unit
+// is mastered at 5 right
+function rfRecord(q, ok) {
+  S.rfq = { ...(S.rfq || {}), [q.id]: { k: q.k, r: ok ? 1 : 0, d: today } };
+  if (q.fx && ok) {
+    const id = q.k.slice(5);
+    fxSt().ref[id] = (fxSt().ref[id] || []).filter((r) => (r.k || r) !== q.fx);
+  }
+  const m = (S.rfm || {})[q.k];
+  if (m?.open && (m.ids || []).every((id) => S.rfq[id] && S.rfq[id].d >= m.open))
+    S.rfm[q.k] = { ...m, open: null, last: today };
 }
 function qCard(q, state) {
   const res = state?.r,
@@ -356,68 +413,39 @@ function rfsetView() {
   document.getElementById("sheetTitle").textContent = "Refresher";
   return rfsetBody() + rfTiming();
 }
-// the refresher: what's coming up, and the three lists it picks from
+// the refresher: what is unfinished, what is completed but not mastered, and what is mastered
 function rfsetBody() {
-  const R = RFS(),
-    L = masteryLists(),
-    M = lastAnswers(),
-    every = (n) => (n === 1 ? "every day" : `every ${n} days`);
-  const card = (
-    g,
-  ) => `<section class="card mgc-${g}"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">${MGN[g]}</b><span class="pill">${L[g].length}</span></div>
-    <p class="xs muted">${RFWHY[g]} These come back ${every(R[g].every)}.</p>
-    ${
-      L[g].length
-        ? `<div class="col" style="gap:4px">${L[g]
-            .slice(0, 12)
-            .map(
-              (u) =>
-                `<button class="plain sm" data-act="chapter" data-k="${u.k}" style="text-align:left">• ${esc(chT(u))} <span class="xs muted">${esc(SUBJ[u.subj])}${g === "not" ? ` · ${Object.values(M).filter((x) => x.k === u.k && x.r === 0).length} wrong last time` : ""}</span></button>`,
-            )
-            .join("")}${L[g].length > 12 ? `<span class="xs muted">+${L[g].length - 12} more</span>` : ""}</div>`
-        : `<p class="xs muted">None yet.</p>`
-    }</section>`;
-  // what the refresher goes over on each of the next seven days
-  const seen = {},
-    soon = [0, 1, 2, 3, 4, 5, 6]
-      .map((i) => {
-        const d = addDays(today, i),
-          p = rfPlan(d, seen);
-        (p?.topics || []).forEach((t) => (seen[t.k] = d));
-        return [d, p];
-      })
-      .filter(([, p]) => p && (p.topics?.length || p.fxOnly));
-  const coming = soon.length
-    ? `<section class="card"><b style="font:600 var(--fs-5) var(--display)">Coming up</b><div class="col" style="gap:6px">${soon
-        .map(
-          ([d, p]) =>
-            `<div class="sm"><b>${d === today ? "Today" : esc(fmt(d))}</b> · ${p.mins} min · ${
-              p.topics?.length
-                ? p.topics
-                    .map(
-                      (t) =>
-                        `<button class="link sm" data-act="chapter" data-k="${t.k}">${esc(chT(unitByK(t.k)) || t.k)}</button>`,
-                    )
-                    .join(", ")
-                : esc(p.sub || p.title)
-            }</div>`,
-        )
-        .join("")}</div></section>`
-    : "";
-  return `<p class="sm">Past topics your child goes back over so they stick, about ${R.mins} minutes a day. DeepKids picks them from the three lists below.</p>
-   ${coming}${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
+  const Q = rfQueue(today),
+    row = (k, subj, right) =>
+      `<div class="sm">• <b>${esc(rfTitle(k))}</b> <span class="xs muted">${esc(SUBJ[subj] || "")} · ${right} of ${RF_PER} right</span></div>`,
+    box = (title, note, L) =>
+      `<section class="card"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
+    mastered = [...new Set(Object.values(S.rfq || {}).map((x) => x.k))].filter((k) => rfRight(k) >= RF_PER);
+  return `<p class="sm">Every unit your child completes comes back until they answer ${RF_PER} of its questions right. A day's refresher is at most ${RF_MAX} questions, ${RF_PER} from each of up to ${RF_MAX / RF_PER} units, taking turns across all subjects.</p>
+   ${box(
+     "Not finished",
+     "Started in a refresher and not finished. These come first tomorrow.",
+     Q.filter((x) => x.g === "open").map((x) => row(x.k, x.subj, x.right)),
+   )}
+   ${box(
+     "Completed, not mastered yet",
+     "These come back until 5 questions are answered right.",
+     Q.filter((x) => x.g === "learn").map((x) => row(x.k, x.subj, x.right)),
+   )}
+   ${box(
+     "Mastered",
+     `5 questions answered right. They come back every ${RFS().mastered.every} days to keep fresh.`,
+     mastered.map((k) => row(k, (rfIsDk(k) ? k.slice(5).split(".")[0] : unitByK(k)?.subj) || "", rfRight(k))),
+   )}
+   <button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
 }
-// how long the daily refresher is, on which days, and how often each list's topics come back (Plan → Plan settings)
+// how long the daily refresher is, on which days, and how often mastered units come back (Plan → Plan settings)
 function rfTiming() {
   const R = RFS(),
-    EV = [1, 2, 3, 5, 7, 10, 14, 30],
-    every = (n) => (n === 1 ? "every day" : `every ${n} days`);
-  const timing = (g) => `<div class="col" style="gap:6px"><b class="sm">${MGN[g]}</b>
-    <div class="row" style="align-items:center"><span class="sm">Comes back</span><select class="inp" style="width:auto;height:40px" data-rfe="${g}">${EV.map((v) => `<option value="${v}" ${R[g].every === v ? "selected" : ""}>${every(v)}</option>`).join("")}</select></div>
-</div>`;
+    EV = [3, 5, 7, 10, 14, 30];
   return `<section class="card"><b style="font:600 var(--fs-5) var(--display)">Refresher</b><p class="xs muted">Already set for you. Change it only if you want to.</p>
    <div class="row" style="align-items:center"><span class="sm">Each day</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>
-   <details><summary class="sm">How often each list comes back</summary><div class="col" style="gap:14px;margin-top:10px">${timing("not")}${timing("grasped")}${timing("mastered")}</div></details></section>`;
+   <div class="row" style="align-items:center"><span class="sm">Mastered units come back every</span><select class="inp" style="width:auto;height:40px" data-rfe="mastered">${EV.map((v) => `<option value="${v}" ${R.mastered.every === v ? "selected" : ""}>${v} days</option>`).join("")}</select></div></section>`;
 }
 function quizTranscript() {
   const R = S.qzr || [],
@@ -508,50 +536,32 @@ function moreJG() {
      .join("")}
    <button class="btn soft sm" data-act="morejg" style="justify-self:start">${icon("spark")}Two more of each</button></section>`;
 }
+const RFSTAT = { open: "not finished last time", learn: "not mastered yet", keep: "keeping fresh" };
 function refreshAnswersView() {
   const date = ui.sheet.date || today,
     it = dayPlan(date).find((i) => i.id === "refresh");
   document.getElementById("sheetTitle").textContent = "Refresher";
   if (!it)
-    return `<p class="note">No refresher today. It starts the day after your first lesson, and follows the refresher settings.</p><button class="link" data-act="rfset">Refresher settings and lists →</button>`;
+    return `<p class="note">No refresher today. Units your child completes come into the refresher.</p><button class="link" data-act="rfset">Refresher settings and lists →</button>`;
   const r = it.rf;
-  if (date === today && !S.rfp?.[date] && !r.fxOnly) {
-    S.rfp = { ...(S.rfp || {}), [date]: r };
-    save();
+  if (r.lazy) {
+    rfBuild(date).then(() => renderSheet());
+    return `<p class="note">Getting your questions…</p>`;
   }
   const ra = S.rfa?.[date] || {};
   return (
-    `<p class="sm muted">About ${r.mins} minutes, from: ${r.topics.map((t) => `<b>${esc(unitByK(t.k)?.title || "")}</b> (${MGN[t.g]})`).join(", ")}.</p>` +
+    `<p class="sm muted">About ${r.mins} minutes, from: ${r.topics.map((t) => `<b>${esc(rfTitle(t.k))}</b> (${RFSTAT[t.g]})`).join(", ")}.</p>` +
     r.slots
-      .map((s, i) => {
-        const u = unitByK(s.k);
-        return `<section class="card"><span class="eyebrow">${i + 1} · ${RTN[s.ty]} · ${esc(u ? chT(u) : "")}</span>${s.ty === "qz" ? qCard(s.q, ra[s.q.id]) : `<b style="font:600 var(--fs-5) var(--display)">${esc(s.title)}</b>${s.body ? fmtPts(s.body) : ""}${s.words?.length ? `<div class="kv">${s.words.map(([w, m]) => `<span>${esc(w)}</span><b style="font-weight:400">${esc(m)}</b>`).join("")}</div>` : ""}${s.need?.length ? `<p class="sm"><b>You need:</b> ${s.need.map(esc).join(", ")}</p>` : ""}${s.steps?.length ? pkList(s.steps, "ol") : ""}${s.ask ? `<div class="ask">${esc(s.ask)}</div>` : ""}`}</section>`;
-      })
+      .map(
+        (s, i) =>
+          `<section class="card"><span class="eyebrow">${i + 1} of ${r.slots.length} · ${esc(rfTitle(s.k))} · ${rfRight(s.k)} of ${RF_PER} right so far</span>${qCard(s.q, ra[s.q.id])}</section>`,
+      )
       .join("") +
     `<div class="row"><button class="btn green wide" data-act="tlcheck" data-id="refresh" data-date="${date}">${icon("check")}${it.done ? "Done ✓" : "We did it"}</button></div><button class="link" data-act="rfset">Refresher settings and lists →</button>`
   );
 }
-// "Play it" on a refresher made from units starts its quiz at once, with every unit that has wrong answers or is due for review
-function startRefresherQuiz() {
-  const ids = [...new Set([...fxRefs().map((x) => x.id), ...fxReviews(today).map((x) => x.id)])];
-  if (!ids.length) return false;
-  const R = (S.fxRev = S.fxRev || {});
-  fxReviews(today).forEach((x) => (R[x.id] = { n: (R[x.id]?.n || 0) + 1, at: today }));
-  save();
-  fxPractise(ids);
-  return true;
-}
 function refreshView() {
-  document.getElementById("sheetTitle").textContent = "Refresher";
-  const date = ui.sheet.date || today,
-    U = fxRefs(),
-    V = fxReviews(date);
-  const top =
-    U.length || V.length
-      ? `<section class="card"><span class="eyebrow">From the units</span>${U.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">${esc(DATA.units[x.id].title)} · ${x.n} question${x.n > 1 ? "s" : ""} you got wrong</span><button class="btn sm" data-fxprac="${esc(x.id)}">Practise</button></div>`).join("")}${V.map((x) => `<div class="row" style="justify-content:space-between"><span class="sm">Review: ${esc(DATA.units[x.id].title)}</span><button class="btn soft sm" data-act="fxpart" data-fxrev="${esc(x.id)}" data-u="${esc(x.id)}" data-p="quiz">Retake the quiz</button></div>`).join("")}</section>`
-      : "";
-  const it = dayPlan(date).find((i) => i.id === "refresh");
-  return top + (it?.rf?.fxOnly ? "" : refreshAnswersView());
+  return refreshAnswersView();
 }
 function wordGame(u) {
   const x = u.c.x,
