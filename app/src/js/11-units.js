@@ -191,7 +191,6 @@ const fxHow = (u, o) => {
   for (const k of Object.keys(FXN)) for (const x of u[k] || []) if (x.id === o.how) return fxSetup(u, x, true);
   return "";
 };
-const fxCtx = (x) => (x?.context ? `<p class="fxctx2">${esc(x.context)}</p>` : "");
 function fxSongHtml(sg) {
   return `<span class="fxeb">🎵 Song · about ${Math.round((sg.seconds || 0) / 60)} min</span><h2>${esc(sg.title)}</h2><p class="fxsm">Words: ${esc(sg.lyrics_by)}. Music: a first draft made by DeepKids; play it and sing along.</p>
   ${sg.audio ? `<audio class="fxaudio" controls preload="none" src="${sg.audio}"></audio>` : ""}
@@ -255,7 +254,7 @@ function fxFlowCards(u, kind, x) {
   C.push({
     key: "flow." + x.id,
     kind,
-    html: `${fxImg(u, "flow." + x.id, x.title)}<div class="fxtxt"><span class="fxeb">${FXE[kind]} ${FXN[kind]} · ${x.mins} min${x.days > 1 ? ` · ${x.days} days` : ""}</span><h2>${esc(x.title)}</h2>${fxCtx(x)}${fxSetup(u, x)}
+    html: `${fxImg(u, "flow." + x.id, x.title)}<div class="fxtxt"><span class="fxeb">${FXE[kind]} ${FXN[kind]} · ${x.mins} min${x.days > 1 ? ` · ${x.days} days` : ""}</span><h2>${esc(x.title)}</h2>${fxSetup(u, x)}
     ${x.problem ? `<p>${esc(x.problem)}</p>` : ""}${x.question ? `<p><b>Question:</b> ${esc(x.question)}</p>` : ""}${x.predict ? `<p><b>Predict first:</b> ${esc(x.predict)}</p>` : ""}${x.fair_test ? `<p class="fxpo"><b>Fair test:</b> ${esc(x.fair_test)}</p>` : ""}
     ${
       (x.materials || []).length
@@ -283,7 +282,7 @@ function fxFlowCards(u, kind, x) {
       kind,
       step: s,
       html: `<div class="fxtxt fxstep"><span class="fxeb">${FXE[kind]} ${esc(x.title)} · step ${i + 1} of ${n} · ${s.mins} min</span>
-    ${fxCtx(s)}${fxHow(u, s)}${s.adult ? `<p class="fxadult">🧑 A grown-up needs to be here for this step.</p>` : ""}
+    ${fxHow(u, s)}${s.adult ? `<p class="fxadult">🧑 A grown-up needs to be here for this step.</p>` : ""}
     <div class="pm"><p><b>Do:</b> ${esc(s.do || "")}</p>${s.say ? `<p class="fxsay">“${esc(s.say)}”</p>` : ""}${(s.ask || []).map((a) => `<details class="fxask"><summary>Ask: ${esc(a.q)}</summary><p class="fxsm">Good answers: ${a.good.map(esc).join("; ")}</p></details>`).join("")}${s.parent ? `<p class="fxpo">For you: ${esc(s.parent)}</p>` : ""}</div>
     <div class="km"><p class="fxkid">${esc(s.kid)}</p></div>${fxChart(s.chart)}
     ${s.check ? fxMcq(u, `chk.${x.id}.${s.id}`, s.check.q, s.check.options, s.check.a, s.check.why || "", s.check) : ""}${s.wait ? `<p class="fxsm">⏳ ${esc(s.wait)}: DeepKids brings this back on the right day.</p>` : ""}
@@ -299,7 +298,7 @@ function fxFlowCards(u, kind, x) {
   return C;
 }
 function fxMcq(u, key, q, opts, a, why, it) {
-  return `<div class="fxq" data-key="${esc(key)}" data-a="${a}" data-why="${esc(why || "")}">${fxCtx(it)}${fxHow(u, it)}${fxChart(it?.chart)}<p class="fxqq">${esc(q)}</p>${opts.map((o, i) => `<button class="fxopt" data-fx="opt" data-i="${i}">${esc(String(o))}</button>`).join("")}<p class="fxwhy" hidden></p>${it?.answer_chart ? `<div class="fxach" hidden>${fxChart(it.answer_chart)}</div>` : ""}</div>`;
+  return `<div class="fxq" data-key="${esc(key)}" data-a="${a}" data-why="${esc(why || "")}">${fxHow(u, it)}${fxChart(it?.chart)}<p class="fxqq">${esc(q)}</p>${opts.map((o, i) => `<button class="fxopt" data-fx="opt" data-i="${i}">${esc(String(o))}</button>`).join("")}<p class="fxwhy" hidden></p>${it?.answer_chart ? `<div class="fxach" hidden>${fxChart(it.answer_chart)}</div>` : ""}</div>`;
 }
 function fxItem(u, key, it, i, n) {
   const head = `<span class="fxeb">Question ${i + 1} of ${n}</span>`,
@@ -309,7 +308,7 @@ function fxItem(u, key, it, i, n) {
   if (it.t === "fill")
     return (
       head +
-      `<div class="fxq" data-key="${esc(key)}">${fxCtx(it)}${fxHow(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p><input class="fxin" placeholder="Type your answer"><button class="fxb" data-fx="fill" data-ans="${esc(JSON.stringify(it.a))}" data-why="${esc(it.why)}">Check</button><p class="fxwhy" hidden></p></div>`
+      `<div class="fxq" data-key="${esc(key)}">${fxHow(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p><input class="fxin" placeholder="Type your answer"><button class="fxb" data-fx="fill" data-ans="${esc(JSON.stringify(it.a))}" data-why="${esc(it.why)}">Check</button><p class="fxwhy" hidden></p></div>`
     );
   const ans =
     it.t === "sort"
@@ -341,7 +340,7 @@ function fxItem(u, key, it, i, n) {
               : `<p class="fxsm">${it.t === "draw" ? "Draw it on paper." : "Say it out loud or write it on paper."}</p>`;
   return (
     head +
-    `<div class="fxq">${fxCtx(it)}${fxHow(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p>${body}<details class="fxask"><summary>Show the answer</summary><p><b>${esc(ans)}</b></p><p class="fxsm">${esc(it.why)}</p>${fxChart(it.answer_chart)}</details></div>`
+    `<div class="fxq">${fxHow(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p>${body}<details class="fxask"><summary>Show the answer</summary><p><b>${esc(ans)}</b></p><p class="fxsm">${esc(it.why)}</p>${fxChart(it.answer_chart)}</details></div>`
   );
 }
 function fxCarousel(u, pre, items, title) {
@@ -455,14 +454,14 @@ function fxCards(u) {
           .forEach((x) =>
             add(
               "xv." + x.id,
-              `<div class="fxtxt"><span class="fxeb">🎬 A 30-second explainer · made by DeepKids</span><h2>${esc(x.title)}</h2><p class="fxctx2">Watch this first. It zooms in from a shoe on a step, down to the bumps, then down to the atoms gripping each other.</p><video class="fxexp" controls playsinline preload="metadata" src="${esc(window.DK_PLATFORM?.name === "web" ? x.web : x.artifact)}"></video></div>`,
+              `<div class="fxtxt"><span class="fxeb">🎬 A 30-second explainer · made by DeepKids</span><h2>${esc(x.title)}</h2><video class="fxexp" controls playsinline preload="metadata" src="${esc(window.DK_PLATFORM?.name === "web" ? x.web : x.artifact)}"></video></div>`,
               x.title,
             ),
           );
         u.explanations.forEach((x, i) =>
           add(
             "expl." + i,
-            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : "Scientists disagree"}</span><h2>${esc(x.concept)}</h2>${fxCtx(x)}${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>`,
+            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : "Scientists disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>`,
             x.concept + ". " + (x.definition || "") + " " + (x.description || ""),
           ),
         );
@@ -478,7 +477,7 @@ function fxCards(u) {
         const h = u.how_we_found_out;
         add(
           "how_we_found_out",
-          `<div class="fxtxt"><span class="fxeb">🕰️ How we found out · ${esc(h.who)} · ${esc(h.when)}</span><p>${esc(h.story)}</p><p class="fxsm"><b>What people believed before:</b> ${esc(h.wrong_idea)}</p></div>`,
+          `<div class="fxtxt"><span class="fxeb">🕰️ How we found out</span><p>${esc(h.story)}</p><p class="fxsm"><b>What people believed before:</b> ${esc(h.wrong_idea)}</p></div>`,
           h.story,
         );
         break;
@@ -487,7 +486,7 @@ function fxCards(u) {
         u.challenging.forEach((c, i) =>
           add(
             "chal." + i,
-            `${fxImg(u, "chal." + i, "")}<div class="fxtxt"><span class="fxeb">⚖️ Is this true?</span>${fxCtx(c)}<h2>“${esc(c.claim)}”</h2><p class="fxsm">Said by: ${esc(c.who)}</p><p class="fxsm">What do you think?</p><div class="fxrow"><button class="fxb" data-fx="vote">I agree</button><button class="fxb" data-fx="vote">Not sure</button><button class="fxb" data-fx="vote">I disagree</button></div><div class="fxreveal" hidden><div class="fxvoice"><b>For</b><p>${esc(c.for)}</p></div><div class="fxvoice"><b>Against</b><p>${esc(c.against)}</p></div><p class="fxbadge">Most scientists today: ${{ accepted: "accepted", debated: "still debated", minority: "a minority view", rejected: "not true" }[c.status]}</p></div></div>`,
+            `${fxImg(u, "chal." + i, "")}<div class="fxtxt"><span class="fxeb">⚖️ Is this true?</span><h2>“${esc(c.claim)}”</h2><p class="fxsm">Said by: ${esc(c.who)}</p><p class="fxsm">What do you think?</p><div class="fxrow"><button class="fxb" data-fx="vote">I agree</button><button class="fxb" data-fx="vote">Not sure</button><button class="fxb" data-fx="vote">I disagree</button></div><div class="fxreveal" hidden><div class="fxvoice"><b>For</b><p>${esc(c.for)}</p></div><div class="fxvoice"><b>Against</b><p>${esc(c.against)}</p></div><p class="fxbadge">Most scientists today: ${{ accepted: "accepted", debated: "still debated", minority: "a minority view", rejected: "not true" }[c.status]}</p></div></div>`,
             c.claim,
           ),
         );
@@ -507,10 +506,8 @@ function fxCards(u) {
         const T = r.three || {};
         add(
           "roots.0",
-          `${fxImg(u, "roots.0", r.art)}<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · who am I, what is life, what is this world?</span><p class="fxctx2">${esc(r.context)}</p>${r.deep_truth ? `<div class="fxtruth"><span class="fxeb">👁️ The deep truth</span><h2>${esc(r.deep_truth.truth)}</h2><p>${esc(r.deep_truth.habit)}</p><p class="fxsm">How we know: ${esc(r.deep_truth.evidence)}</p></div>` : ""}<div class="fxvoice"><b>Who am I?</b><p>${esc(T.who_am_i || "")}</p></div><div class="fxvoice"><b>What is this life?</b><p>${esc(T.what_is_life || "")}</p></div><div class="fxvoice"><b>What is this world?</b><p>${esc(T.what_is_this_world || "")}</p></div></div>`,
-          [r.context, r.deep_truth?.truth, r.deep_truth?.habit, T.who_am_i, T.what_is_life, T.what_is_this_world].join(
-            " ",
-          ),
+          `${fxImg(u, "roots.0", r.art)}<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · who am I, what is life, what is this world?</span>${r.deep_truth ? `<div class="fxtruth"><span class="fxeb">👁️ The deep truth</span><h2>${esc(r.deep_truth.truth)}</h2><p>${esc(r.deep_truth.habit)}</p><p class="fxsm">How we know: ${esc(r.deep_truth.evidence)}</p></div>` : ""}<div class="fxvoice"><b>Who am I?</b><p>${esc(T.who_am_i || "")}</p></div><div class="fxvoice"><b>What is this life?</b><p>${esc(T.what_is_life || "")}</p></div><div class="fxvoice"><b>What is this world?</b><p>${esc(T.what_is_this_world || "")}</p></div></div>`,
+          [r.deep_truth?.truth, r.deep_truth?.habit, T.who_am_i, T.what_is_life, T.what_is_this_world].join(" "),
         );
         add(
           "roots.1",
@@ -566,7 +563,7 @@ function fxCards(u) {
         u.maths.forEach((m, i) =>
           add(
             "math." + i,
-            `${m.chart ? "" : fxImg(u, "maths", "")}<div class="fxtxt"><span class="fxeb">➗ Maths from our experiments · problem ${i + 1} of ${u.maths.length}</span>${m.why_maths ? `<p class="fxwhym"><b>Why maths here?</b> ${esc(m.why_maths)}</p>` : ""}${fxCtx(m)}${fxHow(u, m)}${fxChart(m.chart)}<h2>${esc(m.problem)}</h2><details class="fxask"><summary>Show the answer</summary><p><b>${esc(m.answer)}</b></p><p class="fxsm">${esc(m.explain)}</p>${fxChart(m.answer_chart)}</details><p class="fxsm">Doing this adds the maths idea behind it to your queue next.</p></div>`,
+            `${m.chart ? "" : fxImg(u, "maths", "")}<div class="fxtxt"><span class="fxeb">➗ Maths from our experiments · problem ${i + 1} of ${u.maths.length}</span>${m.why_maths ? `<p class="fxwhym"><b>Why maths here?</b> ${esc(m.why_maths)}</p>` : ""}${fxHow(u, m)}${fxChart(m.chart)}<h2>${esc(m.problem)}</h2><details class="fxask"><summary>Show the answer</summary><p><b>${esc(m.answer)}</b></p><p class="fxsm">${esc(m.explain)}</p>${fxChart(m.answer_chart)}</details><p class="fxsm">Doing this adds the maths idea behind it to your queue next.</p></div>`,
             m.problem,
           ),
         );
@@ -1102,7 +1099,7 @@ async function fxPractise(ids) {
   }
   FXSI = -3;
   d.dataset.mode = fxSt().mode;
-  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, { ...it, context: it.context || (r.sec ? "From: " + r.sec : "") }, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
+  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
   if (!d.open) d.showModal();
 }
 // A worksheet as a printable A4 sheet: each question type in a form a child can do with a pencil, answers on their own page

@@ -5433,14 +5433,6 @@ dialog .fxfab {
   color: var(--muted);
   border-bottom: 1px solid var(--line);
 }
-.fxctx2 {
-  background: color-mix(in srgb, var(--sky) 16%, var(--surface));
-  border-left: 4px solid var(--sky);
-  border-radius: 12px;
-  padding: 10px 12px;
-  font-size: var(--fs-4) !important;
-  line-height: 1.5;
-}
 .fxchart {
   margin: 4px 0;
   background: var(--surface);
