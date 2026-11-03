@@ -3,9 +3,17 @@
   "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/expl.0.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
  },
+ "expl.1": {
+  "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/expl.1.jpg",
+  "drawn": true
+ },
  "expl.2": {
   "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/expl.2.jpg",
   "credit": "James-LaFontaine, CC BY, via iNaturalist"
+ },
+ "expl.3": {
+  "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/expl.3.jpg",
+  "drawn": true
  },
  "flow.a1": {
   "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/flow.a1.jpg",
@@ -35,6 +43,18 @@
   "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/intro.jpg",
   "credit": "Ramesh Shenai, CC BY, via iNaturalist"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/setup.e1.2.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/summary.jpg",
   "credit": "Pranav Chandra Bose, CC BY, via iNaturalist"
@@ -46,5 +66,13 @@
  "term.1": {
   "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/term.1.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "term.2": {
+  "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.patterns-symmetry.symmetry-in-nature.L1/term.3.jpg",
+  "drawn": true
  }
 }

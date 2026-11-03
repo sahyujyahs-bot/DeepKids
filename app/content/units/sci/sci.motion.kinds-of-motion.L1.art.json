@@ -1,10 +1,74 @@
 {
+ "flow.a1": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/flow.e2.jpg",
+  "drawn": true
+ },
  "flow.p1": {
   "src": "media/img/sci.motion.kinds-of-motion.L1/flow.p1.jpg",
   "credit": "Frettie, CC BY 3.0, via Wikimedia Commons"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/term.3.jpg",
+  "drawn": true
+ },
  "term.4": {
   "src": "media/img/sci.motion.kinds-of-motion.L1/term.4.jpg",
   "credit": "Mschel, Public domain, via Wikimedia Commons"
+ },
+ "term.5": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/term.5.jpg",
+  "drawn": true
  }
 }
