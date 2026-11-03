@@ -5345,10 +5345,6 @@ dialog .fxfab {
   font-size: 84px;
   line-height: 1;
 }
-.fxguide {
-  font: 600 var(--fs-6) / 1.45 var(--display) !important;
-  max-width: 30ch;
-}
 .fxnext {
   display: grid;
   gap: 4px;
