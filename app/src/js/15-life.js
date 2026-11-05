@@ -23,7 +23,7 @@ const intSt = () => (S.interests = S.interests || []);
 function addInterest(t) {
   t = t.trim();
   if (!t || intSt().some((x) => x.t.toLowerCase() === t.toLowerCase())) return;
-  intSt().push({ id: Math.random().toString(36).slice(2, 9), t, date: today, links: lifeGuess(t).links, queued: [] });
+  intSt().push({ id: newId(), t, date: today, links: lifeGuess(t).links, queued: [] });
 }
 const lifeBy = (id) => lifeSt().find((m) => m.id === id);
 // the topics a moment can link to: every DeepKids science unit, and the maths, English, Hindi and social topic tags
@@ -126,7 +126,7 @@ const lifeSkillOf = (title) =>
   /tuition|coaching|homework|maths|math|science|english|hindi|school/i.test(title) ? null : title.trim().slice(0, 40);
 // saves a moment and finds its topics; quiet (a class just marked done) skips showing them
 async function lifeRecord(m, quiet) {
-  m = { id: Math.random().toString(36).slice(2, 9), date: today, links: [], queued: [], ...m };
+  m = { id: newId(), date: today, links: [], queued: [], ...m };
   if (m.kind === "class" && !m.skill) m.skill = lifeSkillOf(m.title);
   // checking in on the same class again replaces that day's moment
   S.moments = lifeSt().filter((x) => !(m.ev && x.ev === m.ev && x.date === m.date));
@@ -171,7 +171,7 @@ function lifeLinkRow(m, l, i) {
 }
 function momentView() {
   const m = lifeBy(ui.sheet.id);
-  document.getElementById("sheetTitle").textContent = "What this taught";
+  setSheetTitle("What this taught");
   if (!m) return "";
   const sk = m.skill && lifeSkills().find((x) => x.name.toLowerCase() === m.skill.toLowerCase()),
     left = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
@@ -182,7 +182,7 @@ function momentView() {
 }
 function lifeAddView() {
   const F = (ui.lf = ui.lf || { kind: "did" });
-  document.getElementById("sheetTitle").textContent = "Something they did";
+  setSheetTitle("Something they did");
   return `<section class="sec"><p class="sm muted">Anything counts: cooking with you, watering the plants, a class, a trip, a question they asked. DeepKids finds the learning in it and links it to topics.</p>
    <div class="row chips">${Object.entries(LIFEK)
      .map(

@@ -324,14 +324,7 @@ Message:
     if (!D_.items.length) D_.err = "We couldn't find anything in that. Try listing titles.";
     sfx(D_.items.length ? "ok" : "no");
   } catch (e) {
-    D_.err =
-      {
-        not_granted: "Claude wasn't allowed for this page, so we can't sort it.",
-        rate_limited: "Too many requests just now. Try again in a minute.",
-        image_rejected: "That photo couldn't be read. Try a different one.",
-        invalid_json: "We couldn't read the answer. Try again.",
-        images_unavailable: "Photos can't be sent from this view. Type it instead.",
-      }[e?.code] || "Something went wrong. Try again.";
+    D_.err = aiError(e);
     sfx("no");
   }
   D_.busy = false;
@@ -741,7 +734,7 @@ function prereqOf(u) {
 function swapView() {
   const s = ui.sheet.s,
     cur = nextUp(s);
-  document.getElementById("sheetTitle").textContent = "Swap " + SUBJ[s] + " topic";
+  setSheetTitle("Swap " + SUBJ[s] + " topic");
   const us = plannedUnits(s).filter((u) => u.level === S.levels[s] && rank[st(u.k)] < 2);
   const rows = us.map((u) => {
     const need = prereqOf(u).filter((k) => rank[st(k)] < 2);

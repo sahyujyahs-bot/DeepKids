@@ -1118,7 +1118,7 @@ async function saveIcs() {
   }
 }
 function remView() {
-  document.getElementById("sheetTitle").textContent = "Reminders";
+  setSheetTitle("Reminders");
   const R = REM(),
     L = remLinks(),
     NOK = typeof Notification !== "undefined";
@@ -1196,7 +1196,7 @@ const evFind = (id) => [...(S.events || []), ...(S.cal?.ev || [])].find((e) => e
 function evpreView() {
   const { date, id } = ui.sheet,
     e = evFind(id);
-  document.getElementById("sheetTitle").textContent = e ? e.title : "Plan";
+  setSheetTitle(e ? e.title : "Plan");
   if (!e) return "";
   const day = date === today ? "today" : fmt(date);
   return `<div class="exdone">${kidBlob("mascot")}<h2 style="font-size:var(--fs-6)">${esc(e.title)}</h2><p>${e.start ? `Starts at <b>${clock(hm(e.start))}</b> ${esc(day)}.` : ""} You can mark it done once it has started.</p><div class="col" style="gap:10px;width:100%"><button class="btn line" data-act="evcancel" data-id="${esc(id)}" data-date="${date}">Cancel it for ${esc(day)}</button><button class="btn" data-act="texit">Keep it</button></div><p class="xs muted">Cancelling frees the time for lessons that day. You can undo it.</p></div>`;
@@ -1210,7 +1210,7 @@ function evdoneView() {
   const { date, id } = ui.sheet,
     e = evFind(id),
     F = ui.evf || (ui.evf = {});
-  document.getElementById("sheetTitle").textContent = e ? e.title : "Check-in";
+  setSheetTitle(e ? e.title : "Check-in");
   if (!e) return "";
   const kid = esc(S.child || "your child");
   return `<p class="sm muted">${esc(fmt(date))}${e.start ? " · " + clock(hm(e.start)) + (e.end ? "–" + clock(hm(e.end)) : "") : ""}. A few quick questions so DeepKids knows what happened. Skip any.</p>
@@ -1247,7 +1247,7 @@ function evSave(quick) {
     S.todos = [
       ...(S.todos || []),
       {
-        id: Math.random().toString(36).slice(2, 9),
+        id: newId(),
         title: `${e.title} homework: ${rec.hw}`.slice(0, 120),
         who: "kid",
         date: addDays(date, 1),
@@ -1353,7 +1353,7 @@ function fixRoutines() {
       if (E.some((e) => e.start === ref.end && (e.days || []).join() === (ref.days || []).join() && e.kind !== "class"))
         return false;
       E.push({
-        id: Math.random().toString(36).slice(2, 9),
+        id: newId(),
         title: td.title.replace(/ for \d+ hours?/i, ""),
         kind: /rest|nap|sleep/i.test(txt) ? "rest" : "other",
         who: td.who || "kid",
@@ -1767,8 +1767,7 @@ function preppedTasks() {
 function prepView() {
   const { date, when } = ui.sheet,
     its = prepBlock(date, when);
-  document.getElementById("sheetTitle").textContent =
-    (when === "am" ? "Morning prep" : "Prep for tomorrow") + " · " + fmt(date);
+  setSheetTitle((when === "am" ? "Morning prep" : "Prep for tomorrow") + " · " + fmt(date));
   if (!its.length) return `<p class="note">Nothing to prepare. Enjoy the calm.</p>`;
   const dn = its.filter((p) => S.prep[p.id]).length;
   const groups = [];

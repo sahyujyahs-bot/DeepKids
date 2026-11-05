@@ -59,21 +59,23 @@ document.addEventListener("click", (e) => {
   const r = m.getBoundingClientRect();
   burst(r.left + r.width / 2, r.top, MTIPS[Math.floor(Math.random() * MTIPS.length)]);
 });
+/* the buttons that finish a piece of work: a chime, and a cheer bubble (below) */
+const finishesWork = (b) => {
+  const a = b.dataset.act;
+  return (
+    (a === "wkst" && b.dataset.to === "done") ||
+    (a === "qz" && b.dataset.r === "1") ||
+    a === "evsave" ||
+    a === "iofin" ||
+    a === "iodone" ||
+    a === "drew"
+  );
+};
 document.addEventListener(
   "click",
   (e) => {
     const b = e.target.closest?.("[data-act]");
-    if (!b) return;
-    const a = b.dataset.act;
-    if (
-      (a === "wkst" && b.dataset.to === "done") ||
-      (a === "qz" && b.dataset.r === "1") ||
-      a === "evsave" ||
-      a === "iofin" ||
-      a === "iodone" ||
-      a === "drew"
-    )
-      setTimeout(() => sfx("chime"), 120);
+    if (b && finishesWork(b)) setTimeout(() => sfx("chime"), 120);
   },
   true,
 );
@@ -119,12 +121,7 @@ document.addEventListener(
     const a = b.dataset.act,
       done =
         a === "pdone" ||
-        (a === "wkst" && b.dataset.to === "done") ||
-        (a === "qz" && b.dataset.r === "1") ||
-        a === "evsave" ||
-        a === "iofin" ||
-        a === "iodone" ||
-        a === "drew" ||
+        finishesWork(b) ||
         (a === "tlcheck" &&
           b.closest(".tr") &&
           !b.closest(".tr.done") &&
@@ -482,7 +479,6 @@ sheet.addEventListener("close", () => {
   ui.phelp = null;
   sheet.className = "sheet";
   ui.sheet = null;
-  clearInterval(tick);
   render();
   updBack();
 });
@@ -598,61 +594,6 @@ document.addEventListener("change", (e) => {
     ob.d.levels[t.dataset.s] = +t.value;
     sfx("tap");
   }
-});
-document.getElementById("eDays").innerHTML = [1, 2, 3, 4, 5, 6, 0]
-  .map((d) => `<button type="button" data-d="${d}" aria-pressed="false">${DAYN[d]}</button>`)
-  .join("");
-eRep.addEventListener("click", (e) => {
-  const x = e.target.closest("button");
-  if (!x) return;
-  evRep = x.dataset.rep;
-  syncEv();
-  sfx("tap");
-});
-eDays.addEventListener("click", (e) => {
-  const x = e.target.closest("button");
-  if (!x) return;
-  x.setAttribute("aria-pressed", x.getAttribute("aria-pressed") !== "true");
-  sfx("tap");
-});
-evForm.addEventListener("submit", (e) => {
-  if (!e.submitter || e.submitter.value !== "save") return;
-  const days = [...eDays.querySelectorAll('[aria-pressed="true"]')].map((x) => +x.dataset.d);
-  const err = !eTitle.value.trim()
-    ? "Give it a name."
-    : evRep === "weekly" && !days.length
-      ? "Pick at least one day."
-      : evRep === "once" && !eDate.value
-        ? "Pick a date."
-        : hm(eEnd.value) <= hm(eStart.value)
-          ? "The end time must be after the start."
-          : "";
-  if (err) {
-    e.preventDefault();
-    eErr.textContent = err;
-    eErr.hidden = false;
-    sfx("no");
-    return;
-  }
-  S.events = [
-    ...(S.events || []),
-    {
-      id: Math.random().toString(36).slice(2, 9),
-      title: eTitle.value.trim(),
-      kind: eKind.value,
-      who: eKind.value === "outing" && eWho.value === "kid" ? "both" : eWho.value,
-      start: eStart.value,
-      end: eEnd.value,
-      rep: evRep,
-      date: evRep === "once" ? eDate.value : null,
-      days: evRep === "weekly" ? days : [],
-      from: today,
-      note: eNote.value.trim(),
-    },
-  ];
-  sfx("ok");
-  toast("Added to the day");
-  commit();
 });
 document.getElementById("pickList").addEventListener("click", (e) => {
   const b = e.target.closest("button");

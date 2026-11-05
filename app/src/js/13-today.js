@@ -14,7 +14,7 @@ function ioptsView() {
   const L = it.kind === "lesson",
     title = L ? chT(it.u) : it.title,
     day = date === today ? "today" : fmt(date);
-  document.getElementById("sheetTitle").textContent = title;
+  setSheetTitle(title);
   const a = (act, label, sub, cls = "line", extra = "") =>
     `<button class="iopt ${cls}" data-act="${act}" data-id="${it.id}" data-date="${date}" ${extra}><b>${label}</b>${sub ? `<span>${sub}</span>` : ""}</button>`;
   const started = L && stepState(it).some((x) => x.ok);
@@ -124,7 +124,7 @@ function nowCard(it) {
    ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
 }
 function moreView() {
-  document.getElementById("sheetTitle").textContent = "More for today";
+  setSheetTitle("More for today");
   const open = S.exps.filter((e) => !e.closed),
     li = learnItems().length;
   const oc = openCount(),
@@ -323,7 +323,7 @@ function nightView() {
     tp = dayPlan(tm).filter(isTask),
     d = Dd(tm),
     al = S.alarm || { on: false, time: "06:30" };
-  document.getElementById("sheetTitle").textContent = "Tomorrow · " + fmt(tm);
+  setSheetTitle("Tomorrow · " + fmt(tm));
   return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="sm muted">Nothing to get ready tonight.</p>`}</section>
    <section class="card"><h3 style="font-size:var(--fs-5)">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? SC(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="sm muted">Nothing planned yet.</p>`}</section>
    <section class="card"><h3 style="font-size:var(--fs-5)">Your morning</h3><div class="fgrid"><div class="field"><label for="nWake">I'll wake up at</label><input class="inp" id="nWake" type="time" value="${al.time}" data-alarm="time"></div><div class="field"><label for="nStart">Start learning with ${esc(S.child || "my child")} at</label><input class="inp" id="nStart" type="time" value="${d.start}" data-over="${tm}"></div></div>
@@ -420,7 +420,7 @@ function quickSave(root) {
     d = g("#qa-d") || today,
     { kd, w, r } = qaPick(),
     days = r === "pick" ? ui.qdays || [] : QREP[r][1] || [],
-    id = Math.random().toString(36).slice(2, 9),
+    id = newId(),
     no = (m) => (sfx("no"), toast(m));
   if (!t) return no("Write what it is first");
   if (kd === "interest") {
@@ -431,7 +431,7 @@ function quickSave(root) {
     S.inv = [
       ...(S.inv || []),
       ...L.map((x) => ({
-        id: Math.random().toString(36).slice(2, 9),
+        id: newId(),
         name: x.name,
         cat: x.cat,
         note: "",
@@ -475,7 +475,7 @@ function parentView() {
   const p = S.parent || {},
     al = S.alarm || { on: false, time: "06:30" },
     d = D();
-  document.getElementById("sheetTitle").textContent = "About you";
+  setSheetTitle("About you");
   return `<section class="card r-you tint" style="text-align:center;justify-items:center">${youBlob("bob", "happy", 'width="90" height="90"')}<h2 style="font-size:var(--fs-6)">DeepKids is your planning partner</h2><p class="sm muted">It plans your mornings, evenings and the lessons in between. A few things about you help it plan better.</p></section>
    <section class="card"><div class="field"><label for="pName">What should we call you?</label><input class="inp" id="pName" maxlength="40" value="${esc(p.name || pname())}" placeholder="Your name"></div>
    <div class="fgrid"><div class="field"><label for="pWake">You usually wake up at</label><input class="inp" id="pWake" type="time" value="${al.time}"></div><div class="field"><label for="pPrep">Morning prep time</label><input class="inp" id="pPrep" type="time" value="${d.prepAt}"></div><div class="field"><label for="pStart">Learning starts at</label><input class="inp" id="pStart" type="time" value="${d.start}"></div><div class="field"><label for="pEve">Evening prep time</label><input class="inp" id="pEve" type="time" value="${d.eveAt}"></div></div>

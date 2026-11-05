@@ -141,7 +141,6 @@ const ui = {
   pm: 0,
   pv: "week",
   dump: {},
-  view: {},
   ctab: {},
   qi: {},
   wsec: {},
@@ -154,7 +153,6 @@ const ui = {
   week: 0,
   wday: null,
   wview: "lanes",
-  lsub: null,
   timer: null,
 };
 const A = (k, id) => (S.ans[k] || {})[id];
@@ -348,6 +346,9 @@ const KL = {
 const ROLE = { you: "For you", both: "Together", kid: "Child goes", out: "Outing", free: "Break" };
 const pillS = (s) => `<span class="pill ${s}">${STATUS[s]}</span>`;
 const SC = (s) => "s-" + s;
+/* a short random id for anything the family adds (an event, a note, a book…) */
+const newId = () => Math.random().toString(36).slice(2, 9);
+const setSheetTitle = (t) => (document.getElementById("sheetTitle").textContent = t);
 const MTIPS = [
   "Tap Start when you're both ready. No rush.",
   "Did it already? Tap the tick and choose.",
@@ -1288,7 +1289,7 @@ function logSession(u, kind) {
 }
 function addExp(title, topic) {
   if (!S.exps.some((e) => e.title === title && !e.closed))
-    S.exps.push({ id: Math.random().toString(36).slice(2, 9), title, topic, start: today, checks: [], closed: false });
+    S.exps.push({ id: newId(), title, topic, start: today, checks: [], closed: false });
 }
 const el = (h) => {
   const t = document.createElement("template");
@@ -2560,7 +2561,7 @@ async function saveIcs() {
   }
 }
 function remView() {
-  document.getElementById("sheetTitle").textContent = "Reminders";
+  setSheetTitle("Reminders");
   const R = REM(),
     L = remLinks(),
     NOK = typeof Notification !== "undefined";
@@ -2638,7 +2639,7 @@ const evFind = (id) => [...(S.events || []), ...(S.cal?.ev || [])].find((e) => e
 function evpreView() {
   const { date, id } = ui.sheet,
     e = evFind(id);
-  document.getElementById("sheetTitle").textContent = e ? e.title : "Plan";
+  setSheetTitle(e ? e.title : "Plan");
   if (!e) return "";
   const day = date === today ? "today" : fmt(date);
   return `<div class="exdone">${kidBlob("mascot")}<h2 style="font-size:var(--fs-6)">${esc(e.title)}</h2><p>${e.start ? `Starts at <b>${clock(hm(e.start))}</b> ${esc(day)}.` : ""} You can mark it done once it has started.</p><div class="col" style="gap:10px;width:100%"><button class="btn line" data-act="evcancel" data-id="${esc(id)}" data-date="${date}">Cancel it for ${esc(day)}</button><button class="btn" data-act="texit">Keep it</button></div><p class="xs muted">Cancelling frees the time for lessons that day. You can undo it.</p></div>`;
@@ -2652,7 +2653,7 @@ function evdoneView() {
   const { date, id } = ui.sheet,
     e = evFind(id),
     F = ui.evf || (ui.evf = {});
-  document.getElementById("sheetTitle").textContent = e ? e.title : "Check-in";
+  setSheetTitle(e ? e.title : "Check-in");
   if (!e) return "";
   const kid = esc(S.child || "your child");
   return `<p class="sm muted">${esc(fmt(date))}${e.start ? " · " + clock(hm(e.start)) + (e.end ? "–" + clock(hm(e.end)) : "") : ""}. A few quick questions so DeepKids knows what happened. Skip any.</p>
@@ -2689,7 +2690,7 @@ function evSave(quick) {
     S.todos = [
       ...(S.todos || []),
       {
-        id: Math.random().toString(36).slice(2, 9),
+        id: newId(),
         title: `${e.title} homework: ${rec.hw}`.slice(0, 120),
         who: "kid",
         date: addDays(date, 1),
@@ -2795,7 +2796,7 @@ function fixRoutines() {
       if (E.some((e) => e.start === ref.end && (e.days || []).join() === (ref.days || []).join() && e.kind !== "class"))
         return false;
       E.push({
-        id: Math.random().toString(36).slice(2, 9),
+        id: newId(),
         title: td.title.replace(/ for \d+ hours?/i, ""),
         kind: /rest|nap|sleep/i.test(txt) ? "rest" : "other",
         who: td.who || "kid",
@@ -3209,8 +3210,7 @@ function preppedTasks() {
 function prepView() {
   const { date, when } = ui.sheet,
     its = prepBlock(date, when);
-  document.getElementById("sheetTitle").textContent =
-    (when === "am" ? "Morning prep" : "Prep for tomorrow") + " · " + fmt(date);
+  setSheetTitle((when === "am" ? "Morning prep" : "Prep for tomorrow") + " · " + fmt(date));
   if (!its.length) return `<p class="note">Nothing to prepare. Enjoy the calm.</p>`;
   const dn = its.filter((p) => S.prep[p.id]).length;
   const groups = [];
@@ -3594,6 +3594,19 @@ const pkFind = (u, id) => {
   }
   return [null, null];
 };
+/* the day's quick quiz: the chapter's check questions on its last day, else three of its words */
+const quickQuiz = (P, d) => {
+  const last = d.n === P.days.length,
+    W = P.words || [];
+  return last && P.check?.length
+    ? P.check.slice(0, 5)
+    : W.length
+      ? [0, 1, 2]
+          .map((i) => W[((d.n - 1) * 3 + i) % W.length])
+          .filter((w, i, a) => a.indexOf(w) === i)
+          .map(([w, m]) => ({ q: `What does “${w}” mean?`, a: m }))
+      : [];
+};
 function packDay(u, n) {
   const P = u.c.p,
     d = pkDay(u, n),
@@ -3661,15 +3674,7 @@ function packDay(u, n) {
       }),
     );
   if (!out.some((x) => x.sec === "quiz") && u.board !== "waldorf") {
-    const Q =
-      last && P.check?.length
-        ? P.check.slice(0, 5)
-        : W.length
-          ? [0, 1, 2]
-              .map((i) => W[((d.n - 1) * 3 + i) % W.length])
-              .filter((w, i, a) => a.indexOf(w) === i)
-              .map(([w, m]) => ({ q: `What does “${w}” mean?`, a: m }))
-          : [];
+    const Q = quickQuiz(P, d);
     if (Q.length)
       out.push({
         kind: "ws",
@@ -3966,7 +3971,7 @@ function playerView() {
   if (!it.u) return "";
   const st = stepState(it),
     pct = Math.min(100, (st.filter((x) => x.ok).length / st.length) * 100);
-  document.getElementById("sheetTitle").textContent = `${chT(it.u)} · Part ${P.n} of ${P.tot}`;
+  setSheetTitle(`${chT(it.u)} · Part ${P.n} of ${P.tot}`);
   let h = `<div class="ptrack"><span style="width:${pct}%"></span>${sblob(P.s, "happy", "rider", `style="left:${Math.max(5, pct)}%"`)}</div>`;
   h += secBar(st, P.i);
   if (P.i >= st.length) {
@@ -3985,48 +3990,6 @@ function playerView() {
    <div class="row"><button class="btn soft" data-act="pstep" data-d="-1" ${P.i === 0 ? "disabled" : ""} aria-label="Previous step">${icon("back")}</button><button class="btn green wide" data-act="pdone">${x.ok ? "Next" : "Done! Next step"}${icon("next")}</button></div></section>`;
   return h;
 }
-const timerKey = () => (ui.sheet ? ui.sheet.k + "|" + ui.sheet.n + "|" + ui.sheet.i : "");
-let tick = null;
-function timerToggle() {
-  const P = ui.sheet,
-    it = { u: unitBy(P.k), n: P.n, tot: P.tot, bonus: P.bonus },
-    x = stepState(it)[P.i];
-  let T = ui.timer;
-  if (!T || T.key !== timerKey()) T = ui.timer = { key: timerKey(), total: x.mins * 60, left: x.mins * 60, run: false };
-  if (T.run) {
-    T.left = Math.max(0, (T.end - Date.now()) / 1000);
-    T.run = false;
-    clearInterval(tick);
-  } else {
-    T.end = Date.now() + T.left * 1000;
-    T.run = true;
-    clearInterval(tick);
-    tick = setInterval(paintTimer, 500);
-  }
-  paintTimer();
-}
-function paintTimer() {
-  const T = ui.timer,
-    tt = document.getElementById("tt"),
-    r = document.getElementById("tring"),
-    b = document.getElementById("tbtn");
-  if (!T || !tt || T.key !== timerKey()) {
-    clearInterval(tick);
-    return;
-  }
-  const left = T.run ? Math.max(0, (T.end - Date.now()) / 1000) : T.left;
-  tt.textContent = mmss(left);
-  r.setAttribute("stroke-dasharray", `${(113 * left) / T.total} 113`);
-  b.textContent = T.run ? "Pause" : "Start timer";
-  if (T.run && left <= 0) {
-    T.run = false;
-    T.left = 0;
-    clearInterval(tick);
-    sfx("win");
-    toast("Time's up for this step");
-    b.textContent = "Done";
-  }
-}
 function chapterPage() {
   const u = unitBy(ui.sheet.k);
   if (!u) return "";
@@ -4034,7 +3997,7 @@ function chapterPage() {
     x = c?.x,
     cs = st(u.k),
     m = modeOf();
-  document.getElementById("sheetTitle").textContent = u.title;
+  setSheetTitle(u.title);
   const tabs = c?.p
     ? {
         overview: "Overview",
@@ -5328,7 +5291,7 @@ function wsViewSheet() {
   const P = ui.sheet,
     u = unitByK(P.k),
     w = P.game ? gameSheet(u) : wsOf(u)[P.i];
-  document.getElementById("sheetTitle").textContent = w ? w.title : "Worksheet";
+  setSheetTitle(w ? w.title : "Worksheet");
   if (!w) return `<p class="note">Not found.</p>`;
   return `<div class="row">${P.game ? `<button class="btn accent sm" data-act="cgprint" data-k="${u.k}">🖨️ Print</button>` : `<button class="btn accent sm" data-act="wsprint" data-k="${u.k}" data-i="${P.i}">🖨️ Print</button><button class="btn soft sm" data-act="wssave" data-k="${u.k}" data-i="${P.i}">Save as a file</button>`}</div><iframe class="wsframe" title="Worksheet preview" srcdoc="${esc(wsPage(w, u))}"></iframe>`;
 }
@@ -5337,7 +5300,7 @@ const WFS = ["wml", "wart"],
   visSubj = (b) => (b === "waldorf" ? ["wml", "hin", "wart", "sci"] : SUBJ_KEYS.filter((k) => !WFS.includes(k)));
 function wfGuideView() {
   const G = DATA.waldorf || {};
-  document.getElementById("sheetTitle").textContent = "Waldorf at home";
+  setSheetTitle("Waldorf at home");
   const cls = S.levels?.wml || 1,
     tbl = (rows, h) =>
       `<table class="wft">${h ? `<tr>${h.map((x) => `<th>${x}</th>`).join("")}</tr>` : ""}${rows.map((r) => `<tr>${r.map((x) => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table>`;
@@ -5540,7 +5503,7 @@ function wsSheet() {
     W = pw ? pw.sections : u.c.x.wsd,
     k = pw ? u.k + "#" + wid : u.k,
     si = Math.min(ui.wsec[k] || 0, W.length - 1);
-  document.getElementById("sheetTitle").textContent = (pw ? pw.title : "Worksheet") + " · " + u.title;
+  setSheetTitle((pw ? pw.title : "Worksheet") + " · " + u.title);
   let qn = W.slice(0, si).reduce((a, s) => a + s[1].length, 0);
   const [title, items] = W[si];
   return `<div class="segs ${SC(u.subj)}">${W.map((_, i) => `<i class="${i < si ? "ok" : i === si ? "on" : ""}"></i>`).join("")}</div><section class="card"><span class="eyebrow">${pw ? TIER[pw.tier] + " · " : ""}Section ${si + 1} of ${W.length}</span><h2 style="font-size:var(--fs-6)">${esc(title.replace(/^[A-Z]\. /, ""))}</h2>${items.map((it, ii) => wsItem(k, si + "-" + ii, it, ++qn)).join("")}</section>
@@ -5667,13 +5630,6 @@ function qBank(u) {
   (S.qgen?.[u.k] || []).forEach((o) => add({ ...o, kind: o.opts ? "mcq" : "open", gen: true }));
   return out;
 }
-const lastLearn = (u) => {
-  let d = "";
-  S.log.forEach((l) => {
-    if (l.key === u.k && l.date > d) d = l.date;
-  });
-  return d || S.progress?.[u.k]?.updated || "";
-};
 function learnedUnits() {
   const ks = new Set([
     ...S.log.map((l) => l.key),
@@ -5729,8 +5685,7 @@ function masteryLists() {
   learnedUnits().forEach((u) => L[masteryOf(u, M)].push(u));
   return L;
 }
-const MGN = { not: "Not grasped yet", grasped: "Grasped", mastered: "Mastered" },
-  RTN = { qz: "Quiz questions" };
+const MGN = { not: "Not grasped yet", grasped: "Grasped", mastered: "Mastered" };
 const RFDEF = { mastered: { every: 10 }, mins: 45, days: [0, 1, 2, 3, 4, 5, 6] };
 function RFS() {
   const s = S.rfs || {};
@@ -5939,7 +5894,7 @@ function lvqOffer() {
   return `<section class="card"><b style="font:600 var(--fs-5) var(--display)">Check ${esc(S.child || "your child")}'s level</b><p class="sm">A 2-minute quiz per subject. It finds the class your child is at now, so the plan starts in the right place.</p>${r ? `<p class="sm"><b>${SUBJ[r.s]}: Class ${r.lvl}.</b> ${r.lvl === S.levels[r.s] ? "That's the class the plan already uses." : `The plan uses Class ${S.levels[r.s]}.`}</p>${r.lvl !== S.levels[r.s] ? `<button class="btn sm" data-act="lvqset" data-s="${r.s}" data-l="${r.lvl}">Use Class ${r.lvl} for ${SUBJ[r.s]}</button>` : ""}` : ""}<div class="row">${L.map((s) => `<button class="btn soft sm" data-act="lvq" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></section>`;
 }
 function quizzView() {
-  document.getElementById("sheetTitle").textContent = "Quick quiz";
+  setSheetTitle("Quick quiz");
   if (ui.lvq) return lvqCard(ui.lvq, 'data-act="lvqa" data-v');
   if (ui.qrun) return quizRunView();
   if (ui.qzv) return quizPastView();
@@ -6000,7 +5955,7 @@ function quizRunView() {
       S.qzr = [
         ...(S.qzr || []),
         {
-          id: Math.random().toString(36).slice(2, 9),
+          id: newId(),
           date: today,
           s: R.s,
           by: R.by,
@@ -6030,7 +5985,7 @@ function quizPastView() {
 }
 /* lists and refresher settings */
 function rfsetView() {
-  document.getElementById("sheetTitle").textContent = "Refresher";
+  setSheetTitle("Refresher");
   return rfsetBody() + rfTiming();
 }
 // the refresher: what is unfinished, what is completed but not mastered, and what is mastered
@@ -6160,7 +6115,7 @@ const RFSTAT = { open: "not finished last time", learn: "not mastered yet", keep
 function refreshAnswersView() {
   const date = ui.sheet.date || today,
     it = dayPlan(date).find((i) => i.id === "refresh");
-  document.getElementById("sheetTitle").textContent = "Refresher";
+  setSheetTitle("Refresher");
   if (!it)
     return `<p class="note">No refresher today. Units your child completes come into the refresher.</p><button class="link" data-act="rfset">Refresher settings and lists →</button>`;
   const r = it.rf;
@@ -6230,7 +6185,7 @@ function oddGame(u) {
 }
 function jokesAndGames() {
   const u = dailyUnit();
-  document.getElementById("sheetTitle").textContent = "Jokes and games";
+  setSheetTitle("Jokes and games");
   if (!u) return `<p class="note">Games come from the science chapter you're on. Add Science to see them.</p>`;
   const T = { word: ["Word of the Day", wordGame], tf: ["True or False", tfGame], odd: ["Odd One Out", oddGame] };
   return `${jokeCards(dayJokes())}
@@ -6505,21 +6460,26 @@ function fxSheet(b) {
   };
   document.head.appendChild(sc);
 }
+/* the one full-screen dialog every DeepKids unit, song and refresher opens in; made on first use. The phone's back
+   gesture goes to the unit's map when a part is open, else closes it */
+function fxDialog() {
+  let d = document.getElementById("fxDlg");
+  if (d) return d;
+  d = document.createElement("dialog");
+  d.id = "fxDlg";
+  d.className = "fxdlg";
+  document.body.appendChild(d);
+  d.addEventListener("click", fxClick);
+  d.addEventListener("cancel", (e) => {
+    e.preventDefault();
+    FXSI >= 0 ? fxMap() : fxClose();
+  });
+  return d;
+}
 function fxOpenSong(id) {
   const sg = DATA.songs?.[id];
   if (!sg) return;
-  let d = document.getElementById("fxDlg");
-  if (!d) {
-    d = document.createElement("dialog");
-    d.id = "fxDlg";
-    d.className = "fxdlg";
-    document.body.appendChild(d);
-    d.addEventListener("click", fxClick);
-    d.addEventListener("cancel", (e) => {
-      e.preventDefault();
-      fxClose();
-    });
-  }
+  const d = fxDialog();
   FXSI = -2;
   d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:100%"></i></div></div><div class="fxmap"><div class="fxin"><div class="fxtxt">${fxSongHtml(sg)}</div></div></div>`;
   if (!d.open) d.showModal();
@@ -7083,18 +7043,7 @@ async function fxOpen(id) {
   }
   FXU = u;
   FXALL = fxCards(u);
-  let d = document.getElementById("fxDlg");
-  if (!d) {
-    d = document.createElement("dialog");
-    d.id = "fxDlg";
-    d.className = "fxdlg";
-    document.body.appendChild(d);
-    d.addEventListener("click", fxClick);
-    d.addEventListener("cancel", (e) => {
-      e.preventDefault();
-      FXSI >= 0 ? fxMap() : fxClose();
-    });
-  }
+  const d = fxDialog();
   d.dataset.mode = fxSt().mode;
   if (!d.open) d.showModal();
   fxMap();
@@ -7361,18 +7310,7 @@ async function fxPractise(ids) {
     spare.push(...more.slice(n));
   });
   items.push(...spare.slice(0, Math.max(0, 5 - items.length)));
-  let d = document.getElementById("fxDlg");
-  if (!d) {
-    d = document.createElement("dialog");
-    d.id = "fxDlg";
-    d.className = "fxdlg";
-    document.body.appendChild(d);
-    d.addEventListener("click", fxClick);
-    d.addEventListener("cancel", (e) => {
-      e.preventDefault();
-      fxClose();
-    });
-  }
+  const d = fxDialog();
   FXSI = -3;
   d.dataset.mode = fxSt().mode;
   d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
@@ -7930,16 +7868,6 @@ function fxTrack(rungs, s, l) {
   return [...req, ...over, ...more];
 }
 const fxReq = (u) => u?.board !== "unit" || !!DATA.units?.[u.c?.unit]?.req;
-/* the school year: from the start date, ten months (a parent can set S.yearEnd) */
-const fxYearEnd = () =>
-  S.yearEnd ||
-  iso(
-    new Date(
-      parse(S.start || today).getFullYear(),
-      parse(S.start || today).getMonth() + 10,
-      parse(S.start || today).getDate(),
-    ),
-  );
 /* one sprint week each quarter: weeks 12, 25 and 38 from the start; only board-required lessons are planned that week */
 function fxSprint(date) {
   const w = Math.floor((parse(date) - parse(S.start || today)) / (7 * 864e5));
@@ -8017,23 +7945,6 @@ function fxRefs() {
     .filter((x) => x.n && DATA.units?.[x.id]);
 }
 const FXGAP = [3, 10, 30, 60];
-function fxReviews(date) {
-  const R = S.fxRev || {};
-  return Object.keys(DATA.units || {})
-    .filter((id) => rank[fxUnitSt("unit|" + id)] >= 2)
-    .map((id) => {
-      const D = fxSt().done[id] || {},
-        last = Object.keys(D)
-          .filter((k) => k.startsWith("at:"))
-          .map((k) => D[k])
-          .sort()
-          .pop(),
-        r = R[id] || { n: 0, at: null },
-        from = r.at || last;
-      return from && Math.round((parse(date) - parse(from)) / 864e5) >= FXGAP[Math.min(r.n, 3)] ? { id, n: r.n } : null;
-    })
-    .filter(Boolean);
-}
 function fxPrep(u, n) {
   const D = fxDayPlan(u),
     day = D[Math.min(n, D.length) - 1] || [],
@@ -8118,7 +8029,7 @@ function gamesTab() {
 }
 function qgameView() {
   const g = gamesAll().find((x) => x.uid === ui.sheet.u && x.id === ui.sheet.g);
-  document.getElementById("sheetTitle").textContent = g ? g.t : "Game";
+  setSheetTitle(g ? g.t : "Game");
   if (!g) return "";
   return `<section class="sec"><span class="eyebrow">${esc(g.pl)}${g.mins ? " · " + g.mins + " min" : ""}</span><h2>${esc(g.t)}</h2><p class="xs muted">From the unit “${esc(g.ut)}”</p></section>
    ${g.slips?.length ? `<section class="sec"><h3>Write these on ${g.slips.length} paper slips</h3><div class="slips">${g.slips.map((s) => `<span>${esc(s)}</span>`).join("")}</div></section>` : `<section class="sec"><p class="sm"><b>Nothing to print or write.</b></p></section>`}
@@ -8197,7 +8108,7 @@ async function pzStart(kind, skip = 0) {
 }
 function puzzleView() {
   const P = ui.pz;
-  document.getElementById("sheetTitle").textContent = P?.kind === "memory" ? "Memory match" : "Word search";
+  setSheetTitle(P?.kind === "memory" ? "Memory match" : "Word search");
   if (!P) return "";
   const done = P.kind === "memory" ? P.got.length === P.cards.length / 2 : P.found.length === P.words.length;
   const head = `<p class="sm muted">Science words from “${esc(P.title)}”${done ? "" : P.kind === "memory" ? ". Tap two cards: a word and its meaning." : ". Tap the first letter of a word, then its last letter."}</p>`;
@@ -8575,14 +8486,7 @@ Message:
     if (!D_.items.length) D_.err = "We couldn't find anything in that. Try listing titles.";
     sfx(D_.items.length ? "ok" : "no");
   } catch (e) {
-    D_.err =
-      {
-        not_granted: "Claude wasn't allowed for this page, so we can't sort it.",
-        rate_limited: "Too many requests just now. Try again in a minute.",
-        image_rejected: "That photo couldn't be read. Try a different one.",
-        invalid_json: "We couldn't read the answer. Try again.",
-        images_unavailable: "Photos can't be sent from this view. Type it instead.",
-      }[e?.code] || "Something went wrong. Try again.";
+    D_.err = aiError(e);
     sfx("no");
   }
   D_.busy = false;
@@ -8992,7 +8896,7 @@ function prereqOf(u) {
 function swapView() {
   const s = ui.sheet.s,
     cur = nextUp(s);
-  document.getElementById("sheetTitle").textContent = "Swap " + SUBJ[s] + " topic";
+  setSheetTitle("Swap " + SUBJ[s] + " topic");
   const us = plannedUnits(s).filter((u) => u.level === S.levels[s] && rank[st(u.k)] < 2);
   const rows = us.map((u) => {
     const need = prereqOf(u).filter((k) => rank[st(k)] < 2);
@@ -9585,7 +9489,7 @@ function paperView() {
     last = i === n,
     c = p.cards[i],
     st = rsSt();
-  document.getElementById("sheetTitle").textContent = "Research for kids";
+  setSheetTitle("Research for kids");
   // Back and Next sit with the dots above the card, clear of the IAm button in the corner
   const nav = `<div class="rsnav"><button class="btn soft sm" data-act="rsgo" data-i="${i - 1}" ${i ? "" : "disabled"} aria-label="Back">${icon("back")}</button><div class="rsdots">${[...p.cards, null].map((x, k) => `<button data-act="rsgo" data-i="${k}" class="${k === i ? "cur" : ""}" aria-label="${x ? esc(x.t) : "Where this comes from"}"></button>`).join("")}</div><button class="btn sm" data-act="rsgo" data-i="${i + 1}" ${last ? "disabled" : ""}>Next ${icon("next")}</button></div>`;
   const body = last
@@ -9625,7 +9529,7 @@ function ioptsView() {
   const L = it.kind === "lesson",
     title = L ? chT(it.u) : it.title,
     day = date === today ? "today" : fmt(date);
-  document.getElementById("sheetTitle").textContent = title;
+  setSheetTitle(title);
   const a = (act, label, sub, cls = "line", extra = "") =>
     `<button class="iopt ${cls}" data-act="${act}" data-id="${it.id}" data-date="${date}" ${extra}><b>${label}</b>${sub ? `<span>${sub}</span>` : ""}</button>`;
   const started = L && stepState(it).some((x) => x.ok);
@@ -9735,7 +9639,7 @@ function nowCard(it) {
    ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
 }
 function moreView() {
-  document.getElementById("sheetTitle").textContent = "More for today";
+  setSheetTitle("More for today");
   const open = S.exps.filter((e) => !e.closed),
     li = learnItems().length;
   const oc = openCount(),
@@ -9934,7 +9838,7 @@ function nightView() {
     tp = dayPlan(tm).filter(isTask),
     d = Dd(tm),
     al = S.alarm || { on: false, time: "06:30" };
-  document.getElementById("sheetTitle").textContent = "Tomorrow · " + fmt(tm);
+  setSheetTitle("Tomorrow · " + fmt(tm));
   return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="sm muted">Nothing to get ready tonight.</p>`}</section>
    <section class="card"><h3 style="font-size:var(--fs-5)">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? SC(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="sm muted">Nothing planned yet.</p>`}</section>
    <section class="card"><h3 style="font-size:var(--fs-5)">Your morning</h3><div class="fgrid"><div class="field"><label for="nWake">I'll wake up at</label><input class="inp" id="nWake" type="time" value="${al.time}" data-alarm="time"></div><div class="field"><label for="nStart">Start learning with ${esc(S.child || "my child")} at</label><input class="inp" id="nStart" type="time" value="${d.start}" data-over="${tm}"></div></div>
@@ -10031,7 +9935,7 @@ function quickSave(root) {
     d = g("#qa-d") || today,
     { kd, w, r } = qaPick(),
     days = r === "pick" ? ui.qdays || [] : QREP[r][1] || [],
-    id = Math.random().toString(36).slice(2, 9),
+    id = newId(),
     no = (m) => (sfx("no"), toast(m));
   if (!t) return no("Write what it is first");
   if (kd === "interest") {
@@ -10042,7 +9946,7 @@ function quickSave(root) {
     S.inv = [
       ...(S.inv || []),
       ...L.map((x) => ({
-        id: Math.random().toString(36).slice(2, 9),
+        id: newId(),
         name: x.name,
         cat: x.cat,
         note: "",
@@ -10086,7 +9990,7 @@ function parentView() {
   const p = S.parent || {},
     al = S.alarm || { on: false, time: "06:30" },
     d = D();
-  document.getElementById("sheetTitle").textContent = "About you";
+  setSheetTitle("About you");
   return `<section class="card r-you tint" style="text-align:center;justify-items:center">${youBlob("bob", "happy", 'width="90" height="90"')}<h2 style="font-size:var(--fs-6)">DeepKids is your planning partner</h2><p class="sm muted">It plans your mornings, evenings and the lessons in between. A few things about you help it plan better.</p></section>
    <section class="card"><div class="field"><label for="pName">What should we call you?</label><input class="inp" id="pName" maxlength="40" value="${esc(p.name || pname())}" placeholder="Your name"></div>
    <div class="fgrid"><div class="field"><label for="pWake">You usually wake up at</label><input class="inp" id="pWake" type="time" value="${al.time}"></div><div class="field"><label for="pPrep">Morning prep time</label><input class="inp" id="pPrep" type="time" value="${d.prepAt}"></div><div class="field"><label for="pStart">Learning starts at</label><input class="inp" id="pStart" type="time" value="${d.start}"></div><div class="field"><label for="pEve">Evening prep time</label><input class="inp" id="pEve" type="time" value="${d.eveAt}"></div></div>
@@ -10344,13 +10248,6 @@ const QREP = {
   we: ["Weekends", [0, 6]],
   pick: ["Pick days", null],
 };
-const QKIND = [
-  ["class", "Class or tuition"],
-  ["rest", "Rest or meal"],
-  ["outing", "Outing"],
-  ["other", "Appointment"],
-  ["todo", "To-do"],
-];
 /* Queued is a flag on top of an item's own state, so an item can be Pending + Queued, Not started + Queued, Ongoing + Queued */
 const isQ = (u, id) => {
   const w = WK()[u.k + "|" + id];
@@ -10509,18 +10406,9 @@ function wType(u, id) {
 function quizQ(u, n) {
   const P = u.c?.p;
   if (!P || u.board === "waldorf") return [];
-  const d = pkDay(u, n),
-    W = P.words || [];
+  const d = pkDay(u, n);
   if (d.steps.some((s) => s.kind === "check") && P.check?.length) return P.check;
-  const last = d.n === P.days.length;
-  return last && P.check?.length
-    ? P.check.slice(0, 5)
-    : W.length
-      ? [0, 1, 2]
-          .map((i) => W[((d.n - 1) * 3 + i) % W.length])
-          .filter((w, i, a) => a.indexOf(w) === i)
-          .map(([w, m]) => ({ q: `What does “${w}” mean?`, a: m }))
-      : [];
+  return quickQuiz(P, d);
 }
 /* a step ticked off during the lesson counts as done */
 function stepTicked(u, id) {
@@ -10897,7 +10785,7 @@ function qzsView() {
   const P = ui.sheet,
     u = unitBy(P.k),
     Q = u ? quizQ(u, P.n) : [];
-  document.getElementById("sheetTitle").textContent = `Quiz · Part ${P.n}`;
+  setSheetTitle(`Quiz · Part ${P.n}`);
   if (!u) return `<p class="note">Not found.</p>`;
   return `<p class="sm"><b>${esc(chT(u))}</b> · ${esc(SUBJ[u.subj])}</p><p class="sm muted">Ask aloud. Let your child answer first, then tap to check.</p>${quizList(u.k, P.n, Q)}`;
 }
@@ -10994,7 +10882,7 @@ function ideasHtml() {
     .join("");
 }
 function toldView() {
-  document.getElementById("sheetTitle").textContent = "Your classes, routines and to-dos";
+  setSheetTitle("Your classes, routines and to-dos");
   const E = (S.events || [])
       .slice()
       .sort((a, b) => (a.rep === "weekly" ? 0 : 1) - (b.rep === "weekly" ? 0 : 1) || hm(a.start) - hm(b.start)),
@@ -11026,17 +10914,24 @@ function toldView() {
 }
 const quizList = (k, n, Q) =>
   `<ol class="sm qzl">${Q.map((q, qi) => `<li><b>${esc(q.q)}</b><details><summary class="xs muted">Answer</summary><p class="sm">${esc(q.a)}</p></details>${quizBtns(k, n, qi, q)}</li>`).join("")}</ol>${((u) => (u ? stateCtl("qz", u, "q" + n) : ""))(unitByK(k))}`;
+/* a worksheet's questions: how many there are, how many are answered, and the multiple-choice ones right */
 function wsCount(k, W) {
   let tot = 0,
-    ans = 0;
+    ans = 0,
+    mq = 0,
+    mr = 0;
   W.forEach(([_, its], si) =>
     its.forEach((it, ii) => {
       tot++;
       const v = A(k, si + "-" + ii);
       if (v !== undefined && v !== "" && !(typeof v === "object" && !Object.keys(v).length)) ans++;
+      if (it.t === "mcq" && v !== undefined) {
+        mq++;
+        if (v === it.a) mr++;
+      }
     }),
   );
-  return { tot, ans };
+  return { tot, ans, mq, mr };
 }
 function refParts(u, id) {
   const P = u.c?.p;
@@ -11115,7 +11010,7 @@ const openCount = () => {
   );
 };
 function todoView() {
-  document.getElementById("sheetTitle").textContent = "To finish";
+  setSheetTitle("To finish");
   const O = openWork(),
     ex = (S.exps || []).filter((e) => !e.closed),
     wsRow = (x, miss) =>
@@ -11182,7 +11077,7 @@ const PL = {
 };
 function plView() {
   const p = ui.sheet.p;
-  document.getElementById("sheetTitle").textContent = PL[p] || "Planner";
+  setSheetTitle(PL[p] || "Planner");
   if (p === "queue") return queueCard();
   if (p === "calendar") return calendarCard();
   return plPart(p) || `<p class="note">Nothing here yet.</p>`;
@@ -11645,14 +11540,7 @@ Message:
     if (!D_.items.length && !D_.questions.length) D_.err = "We couldn't find plans in that. Try adding days and times.";
     sfx(D_.items.length ? "ok" : "no");
   } catch (e) {
-    D_.err =
-      {
-        not_granted: "Claude wasn't allowed for this page, so we can't sort it. Use quick add below.",
-        rate_limited: "Too many requests just now. Try again in a minute.",
-        image_rejected: "That photo couldn't be read. Try a different one.",
-        invalid_json: "We couldn't read the answer. Try again.",
-        images_unavailable: "Photos can't be sent from this view. Type it instead.",
-      }[e?.code] || "Something went wrong. Try again.";
+    D_.err = aiError(e, "Use quick add below.");
     sfx("no");
   }
   D_.busy = false;
@@ -11668,7 +11556,7 @@ function addParsed() {
     .filter((x) => x.keep)
     .forEach((x) => {
       n++;
-      const id = Math.random().toString(36).slice(2, 9);
+      const id = newId();
       got.push(x.title + " · " + parsedLine(x));
       if (x.type === "have") {
         S.inv = [...(S.inv || []), { id, name: x.title, cat: x.category || "other", note: x.note || "", from: "told" }];
@@ -11738,7 +11626,7 @@ function addParsed() {
   S.said = [
     ...(S.said || []),
     {
-      id: Math.random().toString(36).slice(2, 9),
+      id: newId(),
       at: Date.now(),
       date: today,
       text: (D_.text || "").slice(0, 2000),
@@ -11778,7 +11666,7 @@ const intSt = () => (S.interests = S.interests || []);
 function addInterest(t) {
   t = t.trim();
   if (!t || intSt().some((x) => x.t.toLowerCase() === t.toLowerCase())) return;
-  intSt().push({ id: Math.random().toString(36).slice(2, 9), t, date: today, links: lifeGuess(t).links, queued: [] });
+  intSt().push({ id: newId(), t, date: today, links: lifeGuess(t).links, queued: [] });
 }
 const lifeBy = (id) => lifeSt().find((m) => m.id === id);
 // the topics a moment can link to: every DeepKids science unit, and the maths, English, Hindi and social topic tags
@@ -11881,7 +11769,7 @@ const lifeSkillOf = (title) =>
   /tuition|coaching|homework|maths|math|science|english|hindi|school/i.test(title) ? null : title.trim().slice(0, 40);
 // saves a moment and finds its topics; quiet (a class just marked done) skips showing them
 async function lifeRecord(m, quiet) {
-  m = { id: Math.random().toString(36).slice(2, 9), date: today, links: [], queued: [], ...m };
+  m = { id: newId(), date: today, links: [], queued: [], ...m };
   if (m.kind === "class" && !m.skill) m.skill = lifeSkillOf(m.title);
   // checking in on the same class again replaces that day's moment
   S.moments = lifeSt().filter((x) => !(m.ev && x.ev === m.ev && x.date === m.date));
@@ -11926,7 +11814,7 @@ function lifeLinkRow(m, l, i) {
 }
 function momentView() {
   const m = lifeBy(ui.sheet.id);
-  document.getElementById("sheetTitle").textContent = "What this taught";
+  setSheetTitle("What this taught");
   if (!m) return "";
   const sk = m.skill && lifeSkills().find((x) => x.name.toLowerCase() === m.skill.toLowerCase()),
     left = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
@@ -11937,7 +11825,7 @@ function momentView() {
 }
 function lifeAddView() {
   const F = (ui.lf = ui.lf || { kind: "did" });
-  document.getElementById("sheetTitle").textContent = "Something they did";
+  setSheetTitle("Something they did");
   return `<section class="sec"><p class="sm muted">Anything counts: cooking with you, watering the plants, a class, a trip, a question they asked. DeepKids finds the learning in it and links it to topics.</p>
    <div class="row chips">${Object.entries(LIFEK)
      .map(
@@ -12426,7 +12314,7 @@ Reply with only JSON: {"questions":[{"q":"...","opts":["...","...","...","..."],
   S.tests = [
     ...(S.tests || []),
     {
-      id: Math.random().toString(36).slice(2, 9),
+      id: newId(),
       board: T.board,
       cls: T.cls,
       level: L,
@@ -12487,7 +12375,7 @@ function testSection() {
 }
 function examView() {
   const t = curTest();
-  document.getElementById("sheetTitle").textContent = "Entrance test";
+  setSheetTitle("Entrance test");
   if (!t) return `<p class="note">No paper yet.</p>`;
   const E = ui.ex || (ui.ex = { si: t.subjects.findIndex((x) => !t.done?.[x.s]), qi: -1 });
   if (E.si < 0 || tDone(t))
@@ -12990,7 +12878,7 @@ function upTile(w) {
   return `<a class="uptile" href="${src}" target="_blank" rel="noopener" title="${esc((w.title || w.name || "Upload") + (u ? " · " + chT(u) : "") + " · " + fmt(w.date))}">${isImg(w) ? `<img src="${src}" alt="${esc(w.title || "Upload")}" loading="lazy">` : vid ? `<video src="${src}" muted preload="metadata"></video><span class="upplay">▶</span>` : `<span class="upfile">${esc((w.name || "file").split(".").pop().toUpperCase())}</span>`}</a>`;
 }
 function uploadsView() {
-  document.getElementById("sheetTitle").textContent = "Uploads";
+  setSheetTitle("Uploads");
   const U = (S.work || []).slice().sort((a, b) => ((b.date || "") < (a.date || "") ? -1 : 1)),
     P = ui.up;
   let h = `<label class="drop ${P ? "busy" : ""}">${blob("var(--leaf)", 5, "wow", "", 'width="48" height="48"')}<b>${P ? (P.step === "tag" ? "Reading and filing…" : `Saving ${P.i} of ${P.n}…`) : "Add photos, videos and files"}</b><span class="xs muted">${P ? "Keep this open for a moment." : "Pick as many as you like: worksheets, drawings, notebook pages, experiments, outings. DeepKids matches each to the day and chapter. Nothing to fill in."}</span><input type="file" id="upFiles" multiple accept="image/*,application/pdf,video/*,.doc,.docx,.ppt,.pptx" hidden ${P ? "disabled" : ""}></label>
@@ -13161,7 +13049,7 @@ function trackChart(T, days) {
     .join("")}</div></div>`;
 }
 function trackView() {
-  document.getElementById("sheetTitle").textContent = "Tracking";
+  setSheetTitle("Tracking");
   const T = trackData(),
     ds = Object.keys(T)
       .filter((d) => d <= today)
@@ -13481,7 +13369,7 @@ function covCell(R) {
   return `${p}%<span class="xs muted"> · ${R.done} done${R.eq ? `, ${R.eq} by equivalent` : ""}${R.going ? `, ${R.going} begun` : ""} of ${R.tot}</span>`;
 }
 function schoolView() {
-  document.getElementById("sheetTitle").textContent = "Moving to a school";
+  setSheetTitle("Moving to a school");
   const D = schoolData(),
     I = S.school || {},
     f = (k, l, type = "text", ph = "") =>
@@ -13676,7 +13564,7 @@ function folderBody(F, flat) {
   }).join("");
 }
 function folderView() {
-  document.getElementById("sheetTitle").textContent = "Work folder";
+  setSheetTitle("Work folder");
   const F = folderData();
   return `<p class="sm muted">Every worksheet with your child's answers, every quiz, and every project with its dates. Read it here any time, or save a copy.</p><div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn accent sm" data-act="fsave" ${F.length ? "" : "disabled"}>Save a copy (.html)</button><button class="btn soft sm" data-act="fprint" ${F.length ? "" : "disabled"}>Print or save as PDF</button></div><p class="xs muted">Drawings made on screen are kept on this device.</p>${folderBody(F, false)}`;
 }
@@ -13700,7 +13588,7 @@ const JR = {
 };
 function jrView() {
   const p = ui.sheet.p;
-  document.getElementById("sheetTitle").textContent = JR[p] || "Journey";
+  setSheetTitle(JR[p] || "Journey");
   return jPart(p) || `<p class="note">Nothing here yet. It fills up as ${esc(S.child || "your child")} learns.</p>`;
 }
 function jPart(p) {
@@ -13778,7 +13666,7 @@ function learnItems() {
   return out;
 }
 function learnView() {
-  document.getElementById("sheetTitle").textContent = "For you";
+  setSheetTitle("For you");
   const its = learnItems(),
     groups = [];
   its.forEach((p) => {
@@ -13851,24 +13739,12 @@ function wsStats(u) {
     ...(u.c?.p?.worksheets || []).map((w) => [u.k + "#" + w.id, w.sections]),
   ];
   if (!sets.length) return null;
-  let tot = 0,
-    ans = 0,
-    mq = 0,
-    mr = 0;
-  sets.forEach(([k, W]) =>
-    W.forEach(([_, its], si) =>
-      its.forEach((it, ii) => {
-        tot++;
-        const v = A(k, si + "-" + ii);
-        if (v !== undefined && v !== "" && !(typeof v === "object" && !Object.keys(v).length)) ans++;
-        if (it.t === "mcq" && v !== undefined) {
-          mq++;
-          if (v === it.a) mr++;
-        }
-      }),
-    ),
-  );
-  return { tot, ans, mq, mr };
+  const sum = { tot: 0, ans: 0, mq: 0, mr: 0 };
+  sets.forEach(([k, W]) => {
+    const c = wsCount(k, W);
+    for (const x in sum) sum[x] += c[x];
+  });
+  return sum;
 }
 function quotes(filter) {
   const out = [];
@@ -13903,7 +13779,7 @@ function boardRows(s, b) {
 function jsubView() {
   const s = ui.sheet.s,
     x = subjStats(s);
-  document.getElementById("sheetTitle").textContent = SUBJ[s] + " journey";
+  setSheetTitle(SUBJ[s] + " journey");
   const kid = esc(S.child || "Your child");
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),
@@ -14400,6 +14276,15 @@ function fxObBar(n) {
   return `<div class="fxstep"><b><i style="width:${Math.round(((n + 1) / 6) * 100)}%"></i></b></div>`;
 }
 
+/* what to tell the parent when a call to Claude fails */
+const aiError = (e, hint = "") =>
+  ({
+    not_granted: "Claude wasn't allowed for this page, so we can't sort it." + (hint ? " " + hint : ""),
+    rate_limited: "Too many requests just now. Try again in a minute.",
+    image_rejected: "That photo couldn't be read. Try a different one.",
+    invalid_json: "We couldn't read the answer. Try again.",
+    images_unavailable: "Photos can't be sent from this view. Type it instead.",
+  })[e?.code] || "Something went wrong. Try again.";
 /* DeepKids Plus and the features that use AI */
 async function aiCheckPhoto(k, files) {
   if (!SAMPLE || !files.length) return;
@@ -14472,7 +14357,7 @@ const lockBtn = (r, cls, label) =>
 function plusView() {
   const r = ui.sheet?.r,
     pend = S.pendAI;
-  document.getElementById("sheetTitle").textContent = "DeepKids Plus";
+  setSheetTitle("DeepKids Plus");
   const waiting = !!S.plusWait;
   return `<div class="exdone">${blob("var(--sun)", 6, "wow", "", 'width="76" height="76"')}<h2 style="font-size:var(--fs-6)">DeepKids Plus</h2>${r ? `<p class="sm"><b>${esc(PLUSR[r] || "")}</b> is part of Plus.</p>` : ""}</div>
   ${plusList()}
@@ -15875,7 +15760,7 @@ function settingsView() {
   )}
   ${grp("sound", "Sound and reading aloud", `${soundOn ? "Sounds on" : "Sounds off"} · ${S.autoRead ? "reads each step aloud" : "read aloud on tap"}`, `<label class="zrow"><input type="checkbox" data-act="sndtoggle" ${soundOn ? "checked" : ""}><span><b class="sm">Sounds</b><br><span class="xs muted">Little chimes when things are done</span></span></label><label class="zrow"><input type="checkbox" data-act="autoread" ${S.autoRead ? "checked" : ""}><span><b class="sm">Read each lesson step aloud</b><br><span class="xs muted">Or tap 🔊 on any screen to hear it</span></span></label>`)}
   <p class="xs muted">${syncMode === "account" ? `Everything is saved privately to your DeepKids account${lastSaved ? " · last saved " + new Date(lastSaved).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : ""}. It follows you to any device where you're signed in.` : store ? "Couldn't reach your account just now. Saved on this device; it will retry." : "Saved in this browser only."}</p>`;
-  document.getElementById("sheetTitle").textContent = "App settings";
+  setSheetTitle("App settings");
   return out;
 }
 const sheet = document.getElementById("sheet");
@@ -15959,7 +15844,6 @@ function renderSheetBody(top) {
   if (kept) restoreInputs(b, kept);
   sheet.scrollTop = top ? 0 : y;
   requestAnimationFrame(initPads);
-  if (m === "player") paintTimer();
 }
 const NAV = [
   ["today", "Today"],
@@ -16204,2432 +16088,2095 @@ function onAct(e) {
   if (!b) return;
   const a = b.dataset.act,
     k = b.dataset.k;
-  switch (a) {
-    case "topen": {
-      const id = b.dataset.id,
-        cur = !!ui.open[id];
-      ui.open[id] = !cur;
-      sfx(cur ? "tap" : "flip");
-      render();
-      break;
+  ACT[a]?.(b, e, a, k);
+}
+/* What each button does, by its data-act name. The click handler above calls ACT[name](button, event, name, b.dataset.k). */
+const ACT = {
+  topen(b, e, a, k) {
+    const id = b.dataset.id,
+      cur = !!ui.open[id];
+    ui.open[id] = !cur;
+    sfx(cur ? "tap" : "flip");
+    render();
+  },
+  play(b, e, a, k) {
+    const it = findItem(b.dataset.id);
+    if (it) {
+      sfx("flip");
+      playItem(it);
     }
-    case "play": {
-      const it = findItem(b.dataset.id);
-      if (it) {
-        sfx("flip");
-        playItem(it);
-      }
-      break;
-    }
-    case "pstep": {
-      ui.sheet.i = Math.max(0, ui.sheet.i + +b.dataset.d);
-      sfx("tap");
-      renderSheet(true);
-      autoRead();
-      break;
-    }
-    case "readnow": {
-      readNow();
-      break;
-    }
-    case "autoread": {
-      S.autoRead = !S.autoRead;
-      save();
-      toast(S.autoRead ? "Each step will be read aloud as you go." : "Steps won't be read automatically.");
-      renderSheet();
-      break;
-    }
-    case "pdone": {
-      const P = ui.sheet,
-        it = { u: unitBy(P.k), n: P.n, tot: P.tot, bonus: P.bonus },
-        x = stepState(it)[P.i],
-        key = stepKey(it),
-        set = new Set(S.steps[key] || []);
-      if (x) {
-        const sec = Math.round(stepSecs());
-        if (sec >= 3) {
-          S.pace = (S.pace || [])
-            .concat([
-              {
-                k: P.k,
-                sec: x.sec || "book",
-                kind: x.kind,
-                est: Math.round(x.mins * 60),
-                took: Math.round((sec / 60) * 10) / 10,
-                date: today,
-              },
-            ])
-            .slice(-3000);
-          addMins(unitByK(String(P.k || "").replace(/^x/, ""))?.subj, sec);
-        }
-        stepT = null;
-      }
-      if (x && !x.ok) {
-        set.add(sid(x));
-        S.steps[key] = [...set];
-        sfx("tick");
-      } else sfx("tap");
-      P.i++;
-      S.updatedAt = Date.now();
-      save();
-      renderSheet(true);
-      autoRead();
-      break;
-    }
-    case "timer": {
-      sfx("tap");
-      timerToggle();
-      break;
-    }
-    case "finish": {
-      const P = ui.sheet,
-        u = unitBy(P.k);
-      if (!u) return;
-      const it = { u, n: P.n, tot: P.tot, bonus: P.bonus },
-        open = stepState(it).filter((x) => !x.ok);
-      S.carry = S.carry || {};
-      S.carry[u.k] =
-        open.length && P.n < P.tot
-          ? open.map((x) => ({
+  },
+  pstep(b, e, a, k) {
+    ui.sheet.i = Math.max(0, ui.sheet.i + +b.dataset.d);
+    sfx("tap");
+    renderSheet(true);
+    autoRead();
+  },
+  readnow(b, e, a, k) {
+    readNow();
+  },
+  autoread(b, e, a, k) {
+    S.autoRead = !S.autoRead;
+    save();
+    toast(S.autoRead ? "Each step will be read aloud as you go." : "Steps won't be read automatically.");
+    renderSheet();
+  },
+  pdone(b, e, a, k) {
+    const P = ui.sheet,
+      it = { u: unitBy(P.k), n: P.n, tot: P.tot, bonus: P.bonus },
+      x = stepState(it)[P.i],
+      key = stepKey(it),
+      set = new Set(S.steps[key] || []);
+    if (x) {
+      const sec = Math.round(stepSecs());
+      if (sec >= 3) {
+        S.pace = (S.pace || [])
+          .concat([
+            {
+              k: P.k,
+              sec: x.sec || "book",
               kind: x.kind,
-              label: x.label,
-              title: x.title.replace(/^From last time: /, ""),
-              mins: x.mins,
-              name: x.name,
-              forN: P.n + 1,
-            }))
-          : [];
-      logSession(u, P.bonus ? "more" : "plan");
-      ui.more[P.s] = false;
-      sheet.close();
-      sfx("win");
-      confetti();
-      toast(
-        open.length && P.n < P.tot
-          ? `Done. ${open.length} open step${open.length > 1 ? "s" : ""} moved to next time`
-          : P.bonus
-            ? "Extra lesson done"
-            : "Lesson done. Well done!",
-      );
-      commit();
-      scrollTo({ top: 0, behavior: "smooth" });
-      break;
+              est: Math.round(x.mins * 60),
+              took: Math.round((sec / 60) * 10) / 10,
+              date: today,
+            },
+          ])
+          .slice(-3000);
+        addMins(unitByK(String(P.k || "").replace(/^x/, ""))?.subj, sec);
+      }
+      stepT = null;
     }
-    case "more": {
-      const s = b.dataset.s;
-      ui.more[s] = true;
+    if (x && !x.ok) {
+      set.add(sid(x));
+      S.steps[key] = [...set];
       sfx("tick");
-      _sess = null;
-      const it = dayPlan(today).find((i) => i.kind === "lesson" && i.s === s && !i.done);
-      render();
-      if (it) playItem(it);
-      break;
-    }
-    case "less": {
-      ui.more[b.dataset.s] = false;
-      sfx("flip");
-      render();
-      break;
-    }
-    case "skip": {
-      S.skips[today + "|" + b.dataset.s] = true;
-      sfx("flip");
-      toast("Moved to the next lesson day");
-      commit();
-      break;
-    }
-    case "swap": {
-      sfx("flip");
-      openSheet({ mode: "swap", s: b.dataset.s });
-      break;
-    }
-    case "lvq": {
-      ui.lvq = lvqNew(b.dataset.s, S.levels[b.dataset.s] || 3);
-      ui.lvqDone = null;
-      sfx("flip");
-      renderSheet(true);
-      break;
-    }
-    case "lvqa": {
-      if (b.dataset.v === "stop") ui.lvq = null;
-      else {
-        const lvl = lvqStep(ui.lvq, b.dataset.v === "1");
-        if (lvl) {
-          ui.lvqDone = { s: ui.lvq.s, lvl };
-          ui.lvq = null;
-        }
+    } else sfx("tap");
+    P.i++;
+    S.updatedAt = Date.now();
+    save();
+    renderSheet(true);
+    autoRead();
+  },
+  finish(b, e, a, k) {
+    const P = ui.sheet,
+      u = unitBy(P.k);
+    if (!u) return;
+    const it = { u, n: P.n, tot: P.tot, bonus: P.bonus },
+      open = stepState(it).filter((x) => !x.ok);
+    S.carry = S.carry || {};
+    S.carry[u.k] =
+      open.length && P.n < P.tot
+        ? open.map((x) => ({
+            kind: x.kind,
+            label: x.label,
+            title: x.title.replace(/^From last time: /, ""),
+            mins: x.mins,
+            name: x.name,
+            forN: P.n + 1,
+          }))
+        : [];
+    logSession(u, P.bonus ? "more" : "plan");
+    ui.more[P.s] = false;
+    sheet.close();
+    sfx("win");
+    confetti();
+    toast(
+      open.length && P.n < P.tot
+        ? `Done. ${open.length} open step${open.length > 1 ? "s" : ""} moved to next time`
+        : P.bonus
+          ? "Extra lesson done"
+          : "Lesson done. Well done!",
+    );
+    commit();
+    scrollTo({ top: 0, behavior: "smooth" });
+  },
+  more(b, e, a, k) {
+    const s = b.dataset.s;
+    ui.more[s] = true;
+    sfx("tick");
+    _sess = null;
+    const it = dayPlan(today).find((i) => i.kind === "lesson" && i.s === s && !i.done);
+    render();
+    if (it) playItem(it);
+  },
+  less(b, e, a, k) {
+    ui.more[b.dataset.s] = false;
+    sfx("flip");
+    render();
+  },
+  skip(b, e, a, k) {
+    S.skips[today + "|" + b.dataset.s] = true;
+    sfx("flip");
+    toast("Moved to the next lesson day");
+    commit();
+  },
+  swap(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "swap", s: b.dataset.s });
+  },
+  lvq(b, e, a, k) {
+    ui.lvq = lvqNew(b.dataset.s, S.levels[b.dataset.s] || 3);
+    ui.lvqDone = null;
+    sfx("flip");
+    renderSheet(true);
+  },
+  lvqa(b, e, a, k) {
+    if (b.dataset.v === "stop") ui.lvq = null;
+    else {
+      const lvl = lvqStep(ui.lvq, b.dataset.v === "1");
+      if (lvl) {
+        ui.lvqDone = { s: ui.lvq.s, lvl };
+        ui.lvq = null;
       }
-      sfx("tap");
-      renderSheet(true);
-      break;
     }
-    case "lvqset": {
-      S.levels = { ...S.levels, [b.dataset.s]: +b.dataset.l };
-      ui.lvqDone = null;
-      _sess = null;
-      sfx("ok");
-      toast(`${SUBJ[b.dataset.s]} now plans from Class ${b.dataset.l}`);
-      commit();
+    sfx("tap");
+    renderSheet(true);
+  },
+  lvqset(b, e, a, k) {
+    S.levels = { ...S.levels, [b.dataset.s]: +b.dataset.l };
+    ui.lvqDone = null;
+    _sess = null;
+    sfx("ok");
+    toast(`${SUBJ[b.dataset.s]} now plans from Class ${b.dataset.l}`);
+    commit();
+    renderSheet();
+  },
+  catchup(b, e, a, k) {
+    const s = b.dataset.s,
+      ks = b.dataset.ks.split("~");
+    S.next = { ...(S.next || {}), [s]: [...ks, ...((S.next || {})[s] || []).filter((x) => !ks.includes(x))] };
+    sfx("ok");
+    toast(ks.length > 1 ? `${ks.length} topics moved to the front of ${SUBJ[s]}` : "That's up next");
+    commit();
+  },
+  pin(b, e, a, k) {
+    const s = b.dataset.s;
+    S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
+    sfx("ok");
+    toast("That's up next");
+    sheet.close();
+    commit();
+  },
+  tday(b, e, a, k) {
+    // the day changes in place: the day header stays where it was on the screen, only the list below it changes
+    const d = b.dataset.d,
+      top = document.querySelector(".calhead")?.getBoundingClientRect().top;
+    ui.tday = d === "0" ? null : addDays(ui.tday || today, +d);
+    if (ui.tday === today) ui.tday = null;
+    sfx("tap");
+    render();
+    const el = document.querySelector(".calhead");
+    if (el && top != null) scrollBy(0, el.getBoundingClientRect().top - top);
+  },
+  quickday(b, e, a, k) {
+    navPush();
+    ui.pday = b.dataset.d;
+    ui.pv = "day";
+    tab = "week";
+    render();
+    scrollTo(0, 0);
+  },
+  login(b, e, a, k) {
+    const ph = (document.getElementById("lgPhone").value || "").replace(/\D/g, "").replace(/^(91|0)(?=\d{10}$)/, ""),
+      nm = (document.getElementById("lgName").value || "").trim();
+    if (
+      ph.length !== 10 ||
+      !/^[6-9]/.test(ph) ||
+      /^(\d)\1{9}$/.test(ph) ||
+      "01234567890".includes(ph) ||
+      "98765432109".includes(ph)
+    ) {
+      ui.lgErr = "Enter a real 10-digit mobile number. Indian mobile numbers start with 6, 7, 8 or 9.";
+      sfx("no");
+      render();
+      return;
+    }
+    ui.lgErr = "";
+    ui.lgBusy = true;
+    render();
+    openAccount("91" + ph, nm).then(() => {
+      ui.lgBusy = false;
+      tab = "today";
+      ui.tday = null;
+      sfx("win");
+      toast(S.setup ? "Welcome back" + (pname() ? ", " + pname() : "") + "!" : "Logged in. Let's set up your year.");
+      render();
+    });
+  },
+  loginas(b, e, a, k) {
+    ui.lgBusy = true;
+    openAccount(b.dataset.a).then(() => {
+      ui.lgBusy = false;
+      tab = "today";
+      ui.tday = null;
+      sfx("win");
+      toast("Welcome back" + (pname() ? ", " + pname() : "") + "!");
+      render();
+    });
+  },
+  logout(b, e, a, k) {
+    logOutNow();
+  },
+  delprofileno(b, e, a, k) {
+    ui.delAsk = a === "delprofile";
+    renderSheet();
+  },
+  delprofileyes(b, e, a, k) {
+    ui.delAsk = false;
+    deleteProfile().then(logOutNow);
+  },
+  checksaved(b, e, a, k) {
+    if (!store) {
+      ui.saved = { err: "This view isn't connected to your account, so data is only on this device." };
       renderSheet();
-      break;
+      return;
     }
-    case "catchup": {
-      const s = b.dataset.s,
-        ks = b.dataset.ks.split("~");
-      S.next = { ...(S.next || {}), [s]: [...ks, ...((S.next || {})[s] || []).filter((x) => !ks.includes(x))] };
-      sfx("ok");
-      toast(ks.length > 1 ? `${ks.length} topics moved to the front of ${SUBJ[s]}` : "That's up next");
-      commit();
-      break;
-    }
-    case "pin": {
-      const s = b.dataset.s;
-      S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
-      sfx("ok");
-      toast("That's up next");
-      sheet.close();
-      commit();
-      break;
-    }
-    case "tday": {
-      // the day changes in place: the day header stays where it was on the screen, only the list below it changes
-      const d = b.dataset.d,
-        top = document.querySelector(".calhead")?.getBoundingClientRect().top;
-      ui.tday = d === "0" ? null : addDays(ui.tday || today, +d);
-      if (ui.tday === today) ui.tday = null;
-      sfx("tap");
-      render();
-      const el = document.querySelector(".calhead");
-      if (el && top != null) scrollBy(0, el.getBoundingClientRect().top - top);
-      break;
-    }
-    case "quickday": {
-      navPush();
-      ui.pday = b.dataset.d;
-      ui.pv = "day";
-      tab = "week";
-      render();
-      scrollTo(0, 0);
-      break;
-    }
-    case "login": {
-      const ph = (document.getElementById("lgPhone").value || "").replace(/\D/g, "").replace(/^(91|0)(?=\d{10}$)/, ""),
-        nm = (document.getElementById("lgName").value || "").trim();
-      if (
-        ph.length !== 10 ||
-        !/^[6-9]/.test(ph) ||
-        /^(\d)\1{9}$/.test(ph) ||
-        "01234567890".includes(ph) ||
-        "98765432109".includes(ph)
-      ) {
-        ui.lgErr = "Enter a real 10-digit mobile number. Indian mobile numbers start with 6, 7, 8 or 9.";
-        sfx("no");
-        render();
-        return;
-      }
-      ui.lgErr = "";
-      ui.lgBusy = true;
-      render();
-      openAccount("91" + ph, nm).then(() => {
-        ui.lgBusy = false;
-        tab = "today";
-        ui.tday = null;
-        sfx("win");
-        toast(S.setup ? "Welcome back" + (pname() ? ", " + pname() : "") + "!" : "Logged in. Let's set up your year.");
-        render();
-      });
-      break;
-    }
-    case "loginas": {
-      ui.lgBusy = true;
-      openAccount(b.dataset.a).then(() => {
-        ui.lgBusy = false;
-        tab = "today";
-        ui.tday = null;
-        sfx("win");
-        toast("Welcome back" + (pname() ? ", " + pname() : "") + "!");
-        render();
-      });
-      break;
-    }
-    case "logout":
-      logOutNow();
-      break;
-    case "delprofile":
-    case "delprofileno":
-      ui.delAsk = a === "delprofile";
-      renderSheet();
-      break;
-    case "delprofileyes":
-      ui.delAsk = false;
-      deleteProfile().then(logOutNow);
-      break;
-    case "checksaved": {
-      if (!store) {
-        ui.saved = { err: "This view isn't connected to your account, so data is only on this device." };
+    ui.savedBusy = true;
+    renderSheet();
+    store
+      .get()
+      .then((sn) => {
+        ui.saved = sn.exists ? { v: sn.data(), at: Date.now() } : { err: "Nothing saved yet for this number." };
+      })
+      .catch(() => {
+        ui.saved = { err: "Couldn't read the database just now. Try again." };
+      })
+      .finally(() => {
+        ui.savedBusy = false;
         renderSheet();
-        break;
-      }
-      ui.savedBusy = true;
-      renderSheet();
-      store
-        .get()
-        .then((sn) => {
-          ui.saved = sn.exists ? { v: sn.data(), at: Date.now() } : { err: "Nothing saved yet for this number." };
-        })
-        .catch(() => {
-          ui.saved = { err: "Couldn't read the database just now. Try again." };
-        })
-        .finally(() => {
-          ui.savedBusy = false;
-          renderSheet();
+      });
+  },
+  nowmore(b, e, a, k) {
+    const k2 = "now|" + b.dataset.id;
+    ui.open[k2] = !ui.open[k2];
+    sfx("tap");
+    render();
+  },
+  showdone(b, e, a, k) {
+    ui.showDone = !ui.showDone;
+    sfx("tap");
+    render();
+  },
+  moresheet(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "more" });
+  },
+  plsheet(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "pl", p: b.dataset.p });
+  },
+  jrsheet(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "jr", p: b.dataset.p });
+  },
+  learn(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "learn" });
+  },
+  ppick(b, e, a, k) {
+    S.planPick = { ...(S.planPick || {}), [k]: { full: b.dataset.o } };
+    sfx("ok");
+    toast("Plan chosen");
+    commit();
+  },
+  tfind(b, e, a, k) {
+    ui.libq = document.getElementById("tq")?.value || "";
+    ui.terr = "";
+    sfx("tap");
+    render();
+  },
+  tsearch(b, e, a, k) {
+    ui.libq = b.dataset.q;
+    ui.lt = "topics";
+    tab = "library";
+    if (sheet.open) sheet.close();
+    render();
+    scrollTo(0, 0);
+  },
+  tgen(b, e, a, k) {
+    sfx("tap");
+    genTopic();
+  },
+  qsub(b, e, a, k) {
+    ui.qs = b.dataset.s;
+    sfx("tap");
+    render();
+  },
+  shuffle(b, e, a, k) {
+    const s = b.dataset.s;
+    S.shuffle = { ...(S.shuffle || {}), [s]: !(S.shuffle || {})[s] };
+    S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
+    sfx("flip");
+    commit();
+  },
+  reshuffle(b, e, a, k) {
+    const s = b.dataset.s;
+    S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
+    sfx("flip");
+    commit();
+  },
+  exam(b, e, a, k) {
+    S.exam = !S.exam;
+    sfx("tick");
+    toast(S.exam ? "Exam track on: syllabus first" : "Exam track off");
+    commit();
+  },
+  qnext(b, e, a, k) {
+    const s = b.dataset.s;
+    S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
+    S.later = { ...(S.later || {}), [s]: ((S.later || {})[s] || []).filter((x) => x !== k) };
+    sfx("ok");
+    commit();
+    toast(nextMsg(s, k), 5000);
+    if (sheet.open) renderSheet();
+  },
+  qlater(b, e, a, k) {
+    const s = b.dataset.s;
+    S.later = { ...(S.later || {}), [s]: [...((S.later || {})[s] || []).filter((x) => x !== k), k] };
+    S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
+    sfx("flip");
+    toast("Moved to later");
+    commit();
+  },
+  qrem(b, e, a, k) {
+    const s = b.dataset.s;
+    S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== k) };
+    S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
+    sfx("flip");
+    commit();
+  },
+  qadd(b, e, a, k) {
+    ui.flash = k;
+    setTimeout(() => {
+      ui.flash = null;
+    }, 2500);
+    setTimeout(() => document.querySelector(".flash")?.scrollIntoView({ block: "center", behavior: "smooth" }), 120);
+    const s = b.dataset.s;
+    S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
+    sfx("ok");
+    commit();
+    toast(`Added to the ${SUBJ[s]} queue as no. ${qPos(unitBy(k)) || "–"}. Find it in Plan → Lesson plan.`, 5000);
+    if (sheet.open) renderSheet();
+  },
+  lt2(b, e, a, k) {
+    ui.lt = "topics";
+    tab = "library";
+    render();
+    scrollTo(0, 0);
+  },
+  quickplan(b, e, a, k) {
+    tab = "week";
+    render();
+    scrollTo(0, 0);
+  },
+  free(b, e, a, k) {
+    openPicker();
+  },
+  chapter(b, e, a, k) {
+    sfx("flip");
+    if (b.dataset.t) ui.ctab[k] = b.dataset.t;
+    openSheet({ mode: "chapter", k });
+  },
+  ctab(b, e, a, k) {
+    navPush();
+    ui.ctab[k] = b.dataset.t;
+    sfx("tap");
+    renderSheet(true);
+  },
+  qi(b, e, a, k) {
+    ui.qi[k] = Math.max(0, (ui.qi[k] || 0) + +b.dataset.d);
+    sfx("flip");
+    renderSheet(true);
+  },
+  ws(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "ws", k, w: b.dataset.w });
+  },
+  wsec(b, e, a, k) {
+    ui.wsec[k] = Math.max(0, (ui.wsec[k] || 0) + +b.dataset.d);
+    sfx("flip");
+    renderSheet(true);
+  },
+  wsdone(b, e, a, k) {
+    S.tasks[k] = S.tasks[k] || {};
+    S.tasks[k].ws = S.tasks[k].ws || today;
+    sfx("win");
+    confetti();
+    toast("Worksheet finished! Taking you back…", 1400);
+    commit();
+    setTimeout(() => {
+      if (ui.sheet?.mode === "ws") goBack();
+    }, 1400);
+  },
+  games(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "games" });
+  },
+  night(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "night" });
+  },
+  nightdone(b, e, a, k) {
+    S.night = { ...(S.night || {}), [today]: 1 };
+    sfx("win");
+    toast("All set. Sleep well!");
+    sheet.close();
+    commit();
+  },
+  parent(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "parent" });
+  },
+  phelp(b, e, a, k) {
+    ui.phelp = ui.phelp || new Set((S.parent || {}).help || []);
+    ui.phelp.has(b.dataset.s) ? ui.phelp.delete(b.dataset.s) : ui.phelp.add(b.dataset.s);
+    b.setAttribute("aria-pressed", ui.phelp.has(b.dataset.s));
+    sfx("tap");
+  },
+  psave(b, e, a, k) {
+    const g = (id) => document.getElementById(id).value;
+    S.parent = {
+      ...(S.parent || {}),
+      name: g("pName").trim(),
+      langs: g("pLang").trim(),
+      help: [...(ui.phelp || new Set((S.parent || {}).help || []))],
+      saved: Date.now(),
+    };
+    ui.phelp = null;
+    S.alarm = { on: document.getElementById("pAlarm").checked, time: g("pWake") || "06:30" };
+    S.day = {
+      ...D(),
+      prepAt: g("pPrep") || D().prepAt,
+      start: g("pStart") || D().start,
+      eveAt: g("pEve") || D().eveAt,
+    };
+    sfx("win");
+    S.updatedAt = Date.now();
+    sheet.close();
+    render();
+    saveNow().then((ok) =>
+      toast(
+        ok
+          ? S.parent.name
+            ? "Saved. Hi, " + S.parent.name + "!"
+            : "Saved to your account"
+          : store
+            ? "Couldn't reach your account. Saved on this phone; it will retry."
+            : "Saved",
+      ),
+    );
+  },
+  quick(b, e, a, k) {
+    sfx("flip");
+    ui.qaOpen = !ui.qaOpen;
+    render();
+    if (ui.qaOpen) setTimeout(() => document.getElementById("qa-t")?.focus(), 80);
+  },
+  qwho(b, e, a, k) {
+    ui.qwho = b.dataset.w;
+    b.parentElement.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+    sfx("tap");
+  },
+  qaddq(b, e, a, k) {
+    quickSave(b.closest(".addbox"));
+  },
+  qkind(b, e, a, k) {
+    qaKeep(b);
+    ui.qkind = b.dataset.k;
+    ui.qrep = ui.qwho = null;
+    ui.qdays = [];
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qrep(b, e, a, k) {
+    qaKeep(b);
+    ui.qrep = b.dataset.r;
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qday(b, e, a, k) {
+    qaKeep(b);
+    const d = +b.dataset.d,
+      days = ui.qdays || [];
+    ui.qdays = days.includes(d) ? days.filter((x) => x !== d) : [...days, d];
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  todomove(b, e, a, k) {
+    const x = (S.todos || []).find((z) => z.id === b.dataset.t);
+    if (x) {
+      x.date = tomorrow();
+      sfx("flip");
+      toast("Moved to tomorrow");
+      commit();
+    }
+  },
+  tododel(b, e, a, k) {
+    S.todos = (S.todos || []).filter((z) => z.id !== b.dataset.t);
+    sfx("flip");
+    commit();
+  },
+  task(b, e, a, k) {
+    const id = b.dataset.id;
+    S.tasks[k] = S.tasks[k] || {};
+    if (S.tasks[k][id]) {
+      delete S.tasks[k][id];
+      sfx("flip");
+    } else {
+      S.tasks[k][id] = today;
+      sfx("ok");
+    }
+    commit();
+  },
+  startexp(b, e, a, k) {
+    addExp(b.dataset.title, b.dataset.topic);
+    sfx("ok");
+    toast("Started. Tick it once a day under Daily check-ins.");
+    commit();
+  },
+  status(b, e, a, k) {
+    const p = S.progress[k] || { sessions: 0 };
+    p.status = b.dataset.s;
+    p.updated = today;
+    S.progress[k] = p;
+    sfx(b.dataset.s === "mastered" ? "win" : "tick");
+    commit();
+  },
+  logk(b, e, a, k) {
+    const u = unitBy(k);
+    if (u) {
+      logSession(u, "free");
+      sfx("ok");
+      toast("Logged for today");
+      commit();
+    }
+  },
+  tlcheck(b, e, a, k) {
+    const date = b.dataset.date,
+      it = dayPlan(date).find((i) => i.id === b.dataset.id);
+    if (!it) return;
+    if (it.kind === "event" && evGate(it, date)) return;
+    if (["lesson", "warm", "refresh"].includes(it.kind) && !it.done) {
+      openSheet({ mode: "iopts", date, id: it.id });
+      return;
+    }
+    if (it.kind === "prep") {
+      const all = it.prep.every((p) => S.prep[p.id]);
+      it.prep.forEach((p) => {
+        if (all) delete S.prep[p.id];
+        else S.prep[p.id] = today;
+      });
+      sfx(all ? "flip" : "ok");
+    } else if (it.kind === "exps") {
+      S.exps
+        .filter((x) => !x.closed && x.start <= date)
+        .forEach((x) => {
+          if (!x.checks.includes(today)) x.checks.push(today);
         });
-      break;
-    }
-    case "nowmore": {
-      const k2 = "now|" + b.dataset.id;
-      ui.open[k2] = !ui.open[k2];
-      sfx("tap");
-      render();
-      break;
-    }
-    case "showdone": {
-      ui.showDone = !ui.showDone;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "moresheet": {
-      sfx("flip");
-      openSheet({ mode: "more" });
-      break;
-    }
-    case "plsheet": {
-      sfx("flip");
-      openSheet({ mode: "pl", p: b.dataset.p });
-      break;
-    }
-    case "jrsheet": {
-      sfx("flip");
-      openSheet({ mode: "jr", p: b.dataset.p });
-      break;
-    }
-    case "learn": {
-      sfx("flip");
-      openSheet({ mode: "learn" });
-      break;
-    }
-    case "ppick": {
-      S.planPick = { ...(S.planPick || {}), [k]: { full: b.dataset.o } };
       sfx("ok");
-      toast("Plan chosen");
-      commit();
-      break;
-    }
-    case "tfind": {
-      ui.libq = document.getElementById("tq")?.value || "";
-      ui.terr = "";
-      sfx("tap");
-      render();
-      break;
-    }
-    case "tsearch": {
-      ui.libq = b.dataset.q;
-      ui.lt = "topics";
-      tab = "library";
-      if (sheet.open) sheet.close();
-      render();
-      scrollTo(0, 0);
-      break;
-    }
-    case "tgen": {
-      sfx("tap");
-      genTopic();
-      break;
-    }
-    case "qsub": {
-      ui.qs = b.dataset.s;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "shuffle": {
-      const s = b.dataset.s;
-      S.shuffle = { ...(S.shuffle || {}), [s]: !(S.shuffle || {})[s] };
-      S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "reshuffle": {
-      const s = b.dataset.s;
-      S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "exam": {
-      S.exam = !S.exam;
-      sfx("tick");
-      toast(S.exam ? "Exam track on: syllabus first" : "Exam track off");
-      commit();
-      break;
-    }
-    case "qnext": {
-      const s = b.dataset.s;
-      S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
-      S.later = { ...(S.later || {}), [s]: ((S.later || {})[s] || []).filter((x) => x !== k) };
-      sfx("ok");
-      commit();
-      toast(nextMsg(s, k), 5000);
-      if (sheet.open) renderSheet();
-      break;
-    }
-    case "qlater": {
-      const s = b.dataset.s;
-      S.later = { ...(S.later || {}), [s]: [...((S.later || {})[s] || []).filter((x) => x !== k), k] };
-      S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
-      sfx("flip");
-      toast("Moved to later");
-      commit();
-      break;
-    }
-    case "qrem": {
-      const s = b.dataset.s;
-      S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== k) };
-      S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "qadd": {
-      ui.flash = k;
-      setTimeout(() => {
-        ui.flash = null;
-      }, 2500);
-      setTimeout(() => document.querySelector(".flash")?.scrollIntoView({ block: "center", behavior: "smooth" }), 120);
-      const s = b.dataset.s;
-      S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
-      sfx("ok");
-      commit();
-      toast(`Added to the ${SUBJ[s]} queue as no. ${qPos(unitBy(k)) || "–"}. Find it in Plan → Lesson plan.`, 5000);
-      if (sheet.open) renderSheet();
-      break;
-    }
-    case "lt2": {
-      ui.lt = "topics";
-      tab = "library";
-      render();
-      scrollTo(0, 0);
-      break;
-    }
-    case "quickplan": {
-      tab = "week";
-      render();
-      scrollTo(0, 0);
-      break;
-    }
-    case "free": {
-      openPicker();
-      break;
-    }
-    case "chapter": {
-      sfx("flip");
-      if (b.dataset.t) ui.ctab[k] = b.dataset.t;
-      openSheet({ mode: "chapter", k });
-      break;
-    }
-    case "ctab": {
-      navPush();
-      ui.ctab[k] = b.dataset.t;
-      sfx("tap");
-      renderSheet(true);
-      break;
-    }
-    case "qi": {
-      ui.qi[k] = Math.max(0, (ui.qi[k] || 0) + +b.dataset.d);
-      sfx("flip");
-      renderSheet(true);
-      break;
-    }
-    case "ws": {
-      sfx("flip");
-      openSheet({ mode: "ws", k, w: b.dataset.w });
-      break;
-    }
-    case "wsec": {
-      ui.wsec[k] = Math.max(0, (ui.wsec[k] || 0) + +b.dataset.d);
-      sfx("flip");
-      renderSheet(true);
-      break;
-    }
-    case "wsdone": {
-      S.tasks[k] = S.tasks[k] || {};
-      S.tasks[k].ws = S.tasks[k].ws || today;
-      sfx("win");
-      confetti();
-      toast("Worksheet finished! Taking you back…", 1400);
-      commit();
-      setTimeout(() => {
-        if (ui.sheet?.mode === "ws") goBack();
-      }, 1400);
-      break;
-    }
-    case "games": {
-      sfx("flip");
-      openSheet({ mode: "games" });
-      break;
-    }
-    case "night": {
-      sfx("flip");
-      openSheet({ mode: "night" });
-      break;
-    }
-    case "nightdone": {
-      S.night = { ...(S.night || {}), [today]: 1 };
-      sfx("win");
-      toast("All set. Sleep well!");
-      sheet.close();
-      commit();
-      break;
-    }
-    case "parent": {
-      sfx("flip");
-      openSheet({ mode: "parent" });
-      break;
-    }
-    case "phelp": {
-      ui.phelp = ui.phelp || new Set((S.parent || {}).help || []);
-      ui.phelp.has(b.dataset.s) ? ui.phelp.delete(b.dataset.s) : ui.phelp.add(b.dataset.s);
-      b.setAttribute("aria-pressed", ui.phelp.has(b.dataset.s));
-      sfx("tap");
-      break;
-    }
-    case "psave": {
-      const g = (id) => document.getElementById(id).value;
-      S.parent = {
-        ...(S.parent || {}),
-        name: g("pName").trim(),
-        langs: g("pLang").trim(),
-        help: [...(ui.phelp || new Set((S.parent || {}).help || []))],
-        saved: Date.now(),
-      };
-      ui.phelp = null;
-      S.alarm = { on: document.getElementById("pAlarm").checked, time: g("pWake") || "06:30" };
-      S.day = {
-        ...D(),
-        prepAt: g("pPrep") || D().prepAt,
-        start: g("pStart") || D().start,
-        eveAt: g("pEve") || D().eveAt,
-      };
-      sfx("win");
-      S.updatedAt = Date.now();
-      sheet.close();
-      render();
-      saveNow().then((ok) =>
-        toast(
-          ok
-            ? S.parent.name
-              ? "Saved. Hi, " + S.parent.name + "!"
-              : "Saved to your account"
-            : store
-              ? "Couldn't reach your account. Saved on this phone; it will retry."
-              : "Saved",
-        ),
-      );
-      break;
-    }
-    case "quick": {
-      sfx("flip");
-      ui.qaOpen = !ui.qaOpen;
-      render();
-      if (ui.qaOpen) setTimeout(() => document.getElementById("qa-t")?.focus(), 80);
-      break;
-    }
-    case "qwho": {
-      ui.qwho = b.dataset.w;
-      b.parentElement.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b));
-      sfx("tap");
-      break;
-    }
-    case "qaddq":
-      quickSave(b.closest(".addbox"));
-      break;
-    case "qkind": {
-      qaKeep(b);
-      ui.qkind = b.dataset.k;
-      ui.qrep = ui.qwho = null;
-      ui.qdays = [];
-      sfx("tap");
-      render();
-      if (sheet.open) renderSheet();
-      break;
-    }
-    case "qrep": {
-      qaKeep(b);
-      ui.qrep = b.dataset.r;
-      sfx("tap");
-      render();
-      if (sheet.open) renderSheet();
-      break;
-    }
-    case "qday": {
-      qaKeep(b);
-      const d = +b.dataset.d,
-        a = ui.qdays || [];
-      ui.qdays = a.includes(d) ? a.filter((x) => x !== d) : [...a, d];
-      sfx("tap");
-      render();
-      if (sheet.open) renderSheet();
-      break;
-    }
-    case "todomove": {
-      const x = (S.todos || []).find((z) => z.id === b.dataset.t);
-      if (x) {
-        x.date = tomorrow();
-        sfx("flip");
-        toast("Moved to tomorrow");
-        commit();
-      }
-      break;
-    }
-    case "tododel": {
-      S.todos = (S.todos || []).filter((z) => z.id !== b.dataset.t);
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "goto": {
-      const t = document.getElementById(b.dataset.to);
-      if (t) t.scrollIntoView({ behavior: "smooth", block: "start" });
-      break;
-    }
-    case "task": {
-      const id = b.dataset.id;
-      S.tasks[k] = S.tasks[k] || {};
-      if (S.tasks[k][id]) {
-        delete S.tasks[k][id];
-        sfx("flip");
-      } else {
-        S.tasks[k][id] = today;
-        sfx("ok");
-      }
-      commit();
-      break;
-    }
-    case "startexp": {
-      addExp(b.dataset.title, b.dataset.topic);
-      sfx("ok");
-      toast("Started. Tick it once a day under Daily check-ins.");
-      commit();
-      break;
-    }
-    case "status": {
-      const p = S.progress[k] || { sessions: 0 };
-      p.status = b.dataset.s;
-      p.updated = today;
-      S.progress[k] = p;
-      sfx(b.dataset.s === "mastered" ? "win" : "tick");
-      commit();
-      break;
-    }
-    case "logk": {
-      const u = unitBy(k);
-      if (u) {
-        logSession(u, "free");
-        sfx("ok");
-        toast("Logged for today");
-        commit();
-      }
-      break;
-    }
-    case "tlcheck": {
-      const date = b.dataset.date,
-        it = dayPlan(date).find((i) => i.id === b.dataset.id);
-      if (!it) return;
-      if (it.kind === "event" && evGate(it, date)) return;
-      if (["lesson", "warm", "refresh"].includes(it.kind) && !it.done) {
-        openSheet({ mode: "iopts", date, id: it.id });
+    } else if (it.kind === "lesson") {
+      if (it.done) {
+        toast("Already done today");
         return;
       }
-      if (it.kind === "prep") {
-        const all = it.prep.every((p) => S.prep[p.id]);
-        it.prep.forEach((p) => {
-          if (all) delete S.prep[p.id];
-          else S.prep[p.id] = today;
-        });
-        sfx(all ? "flip" : "ok");
-      } else if (it.kind === "exps") {
-        S.exps
-          .filter((x) => !x.closed && x.start <= date)
-          .forEach((x) => {
-            if (!x.checks.includes(today)) x.checks.push(today);
-          });
-        sfx("ok");
-      } else if (it.kind === "lesson") {
-        if (it.done) {
-          toast("Already done today");
-          return;
-        }
-        if (date !== today) {
-          openSheet({ mode: "chapter", k: it.u.k });
-          return;
-        }
-        return playItem(it);
-      } else if (it.kind === "todo") {
-        const x = it.td;
-        if (x.done && x.doneOn === date) {
-          x.done = false;
-          delete x.doneOn;
-          sfx("flip");
-        } else {
-          x.done = true;
-          x.doneOn = date;
-          sfx("ok");
-        }
-      } else {
-        const key = date + "|" + it.id;
-        if (S.tl[key]) delete S.tl[key];
-        else {
-          S.tl[key] = Date.now();
-          sfx("ok");
-        }
+      if (date !== today) {
+        openSheet({ mode: "chapter", k: it.u.k });
+        return;
       }
-      commit();
-      break;
-    }
-    case "tlopen": {
-      const date = b.dataset.date,
-        it = dayPlan(date).find((i) => i.id === b.dataset.id);
-      if (!it) return;
-      sfx("tap");
-      if (it.kind === "prep") return openSheet({ mode: "prep", date, when: it.id });
-      if (it.kind === "lesson") return it.done ? openSheet({ mode: "chapter", k: it.u.k }) : playItem(it);
-      if (it.kind === "warm") return openSheet({ mode: "games" });
-      break;
-    }
-    case "prep": {
-      const id = b.dataset.id;
-      if (S.prep[id]) delete S.prep[id];
-      else {
-        S.prep[id] = today;
-        sfx("tick");
-      }
-      commit();
-      break;
-    }
-    case "addev": {
-      openEv();
-      break;
-    }
-    case "delev": {
-      S.events = (S.events || []).filter((x) => x.id !== b.dataset.e);
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "pv": {
-      ui.pv = b.dataset.v;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "pday": {
-      ui.pday = b.dataset.d;
-      ui.pv = "day";
-      sfx("tap");
-      render();
-      break;
-    }
-    case "pdd": {
-      ui.pday = addDays(ui.pday || today, +b.dataset.d);
-      sfx("tap");
-      render();
-      break;
-    }
-    case "pmon": {
-      ui.pm = (ui.pm || 0) + +b.dataset.d;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "wk2": {
-      ui.week = (ui.week || 0) + +b.dataset.d;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "dump": {
-      sfx("tap");
-      runDump();
-      break;
-    }
-    case "dkeep": {
-      const it = ui.dump.items[+b.dataset.i];
-      it.keep = !it.keep;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "dwho": {
-      const it = ui.dump.items[+b.dataset.i];
-      if (it.type !== "have") {
-        it.who = { you: "kid", kid: "both", both: "you" }[it.who] || "you";
-        sfx("tap");
-        render();
-      }
-      break;
-    }
-    case "dadd": {
-      addParsed();
-      break;
-    }
-    case "dclear": {
-      ui.dump = {};
-      render();
-      break;
-    }
-    case "askq": {
-      const v = b.dataset.a;
-      if (v === "parent") return openSheet({ mode: "parent" });
-      if (sheet.open) sheet.close();
-      const ta = document.getElementById("dumpText");
-      if (ta) {
-        ta.value = (ta.value ? ta.value + "\n" : "") + v.slice(4);
-        ta.focus();
-        ta.scrollIntoView({ behavior: "smooth", block: "center" });
-      }
-      break;
-    }
-    case "jsub": {
-      sfx("flip");
-      openSheet({ mode: "jsub", s: b.dataset.s });
-      break;
-    }
-    case "jopen": {
-      ui.jopen = ui.jopen === k ? null : k;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
-    case "libcombined": {
-      tab = "library";
-      ui.lt = "topics";
-      ui.bb = "combined";
-      ui.bl = S.levels?.sci;
-      sfx("flip");
-      render();
-      window.scrollTo(0, 0);
-      break;
-    }
-    case "rt": {
-      ui.rt = b.dataset.t;
-      ui.rmore = 40;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "rsj": {
-      ui.rsj = b.dataset.v;
-      ui.rc = "";
-      ui.rt = "all";
-      ui.rmore = 40;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "rfit": {
-      ui.rfit = ui.rfit === false;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "rmore": {
-      ui.rmore = (ui.rmore || 40) + 40;
-      render();
-      break;
-    }
-    case "rtc": {
-      ui.rtc = b.dataset.t;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
-    case "btrack": {
-      navPush();
-      ui.btrack = b.dataset.v;
-      ui.bs = null;
-      ui.bl = null;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "bb": {
-      navPush();
-      ui.bb = b.dataset.b;
-      ui.bs = null;
-      ui.bl = null;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "bs": {
-      ui.bs = b.dataset.s;
-      ui.bl = null;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "bl": {
-      ui.bl = +b.dataset.l;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "isort": {
-      sfx("tap");
-      runInvSort();
-      break;
-    }
-    case "ikeep": {
-      const it = ui.idump.items[+b.dataset.i];
-      it.keep = !it.keep;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "iclear": {
-      ui.idump = {};
-      clearIn("invText");
-      render();
-      break;
-    }
-    case "iadd": {
-      const L = (ui.idump?.items || []).filter((x) => x.keep);
-      S.inv = [
-        ...(S.inv || []),
-        ...L.map(({ keep, ...x }) => ({ id: Math.random().toString(36).slice(2, 9), ...x, from: "sorted" })),
-      ];
-      ui.idump = {};
-      clearIn("invText");
-      sfx("win");
-      toast(`Added ${L.length} to what you have`);
-      commit();
-      break;
-    }
-    case "hubres": {
-      ui.hubres = true;
-      renderSheet();
-      break;
-    }
-    case "jall": {
-      ui.jall = true;
-      render();
-      break;
-    }
-    case "refresh": {
-      sfx("flip");
-      const date = b.dataset.date || today;
-      // today's refresher is built first (a DeepKids unit's questions are loaded), then it opens with its first question
-      if (date === today) rfBuild(date).then(() => openSheet({ mode: "refresh", date }));
-      else openSheet({ mode: "refresh", date });
-      break;
-    }
-    case "pjump": {
-      ui.sheet.i = Math.max(0, +b.dataset.i);
-      sfx("tap");
-      renderSheet(true);
-      autoRead();
-      break;
-    }
-    case "wkst": {
-      const id = b.dataset.id,
-        to = b.dataset.to,
-        key = k + "|" + id,
-        W = WK(),
-        w = W[key] || {};
-      w.title = b.dataset.t || w.title;
-      const untask = () => {
-        if (S.tasks[k]) delete S.tasks[k][id];
-      };
-      if (to === "none" || (to === "undo" && !w.started)) {
-        const q = w.q;
-        delete W[key];
-        if (q) W[key] = { q: true, planned: w.planned, title: w.title };
-        untask();
-        sfx("flip");
-      } else if (to === "undo") {
-        w.st = "started";
-        delete w.done;
-        delete w.doneAt;
-        untask();
-        W[key] = w;
+      return playItem(it);
+    } else if (it.kind === "todo") {
+      const x = it.td;
+      if (x.done && x.doneOn === date) {
+        x.done = false;
+        delete x.doneOn;
         sfx("flip");
       } else {
-        w.st = to;
-        w[to] = w[to] || today;
-        w[to + "At"] = w[to + "At"] || Date.now();
-        if (to === "done") {
-          w.started = w.started || today;
-          S.tasks[k] = S.tasks[k] || {};
-          S.tasks[k][id] = w.done;
-          sfx("win");
-          toast("Finished · saved to your Work folder");
-        } else {
-          untask();
-          sfx("ok");
-          toast(
-            to === "planned"
-              ? "Added to your pipeline · see To finish"
-              : to === "skip"
-                ? "Okay, not doing this one"
-                : "Marked started · finish it any time",
-          );
-        }
-        W[key] = w;
-      }
-      commit();
-      break;
-    }
-    case "qz": {
-      S.quiz = S.quiz || {};
-      const q = (S.quiz[k + "|" + b.dataset.n] = S.quiz[k + "|" + b.dataset.n] || {});
-      q[b.dataset.i] = { q: b.dataset.q, a: b.dataset.a, r: +b.dataset.r, d: today };
-      sfx(+b.dataset.r ? "ok" : "tap");
-      commit();
-      break;
-    }
-    case "folder": {
-      sfx("flip");
-      openSheet({ mode: "folder" });
-      break;
-    }
-    case "fsave": {
-      folderSave();
-      break;
-    }
-    case "fprint": {
-      folderPrint();
-      break;
-    }
-    case "qsend": {
-      qSend();
-      break;
-    }
-    case "gcsync": {
-      gcSync(true);
-      break;
-    }
-    case "gcoff": {
-      S.cal = { on: false };
-      sfx("flip");
-      toast("Calendar unlinked");
-      commit();
-      break;
-    }
-    case "gccal": {
-      const c = S.cal || {},
-        id = b.dataset.id,
-        set = new Set(c.cals || []);
-      set.has(id) ? set.delete(id) : set.add(id);
-      S.cal = { ...c, cals: [...set] };
-      gcSync(true);
-      break;
-    }
-    case "uploads": {
-      sfx("flip");
-      openSheet({ mode: "uploads" });
-      break;
-    }
-    case "track": {
-      sfx("flip");
-      openSheet({ mode: "track" });
-      break;
-    }
-    case "school": {
-      sfx("flip");
-      openSheet({ mode: "school" });
-      break;
-    }
-    case "tp": {
-      ui.tp = b.dataset.v;
-      ui.tpo = 0;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "tpo": {
-      ui.tpo = Math.min(0, (ui.tpo || 0) + +b.dataset.d);
-      sfx("tap");
-      render();
-      break;
-    }
-    case "tsave": {
-      saveDoc(transcriptDoc(), `${(S.child || "Student").replace(/[^\w ]/g, "")} transcript ${today}.html`);
-      break;
-    }
-    case "tprint": {
-      printDoc(transcriptDoc());
-      break;
-    }
-    case "told": {
-      sfx("flip");
-      ui.ted = "";
-      if (tab === "week" && seg("week") === "cal" && !sheet.open) {
-        render();
-        document
-          .querySelector('#main [data-act="ted"]')
-          ?.closest("section")
-          ?.scrollIntoView({ behavior: "smooth", block: "start" });
-        break;
-      }
-      openSheet({ mode: "told" });
-      render();
-      break;
-    }
-    case "ted": {
-      ui.ted = b.dataset.id;
-      if (!b.dataset.id) {
+        x.done = true;
+        x.doneOn = date;
         sfx("ok");
-        commit();
-      } else render();
-      break;
-    }
-    case "evday": {
-      const e = (S.events || []).find((x) => x.id === b.dataset.id);
-      if (e) {
-        const d = +b.dataset.d,
-          set = new Set(e.rep === "weekly" ? e.days : []);
-        set.has(d) ? set.delete(d) : set.add(d);
-        if (set.size) {
-          e.days = [...set];
-          e.rep = "weekly";
-          e.date = null;
-        } else {
-          e.rep = "once";
-          e.days = [];
-          e.date = e.date || today;
-        }
-        sfx("tap");
-        commit();
       }
-      break;
-    }
-    case "evwho": {
-      const e = (S.events || []).find((x) => x.id === b.dataset.id);
-      if (e) {
-        e.who = b.dataset.w;
-        sfx("tap");
-        commit();
-      }
-      break;
-    }
-    case "evdel": {
-      S.events = (S.events || []).filter((x) => x.id !== b.dataset.id);
-      ui.ted = "";
-      sfx("flip");
-      toast("Removed");
-      commit();
-      break;
-    }
-    case "tddel": {
-      S.todos = (S.todos || []).filter((x) => x.id !== b.dataset.id);
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "notedel": {
-      S.notes = (S.notes || []).filter((x) => x.id !== b.dataset.id);
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "tsub": {
-      const T = tSetup(),
-        s = b.dataset.s,
-        o = new Set(T.off || []);
-      o.has(s) ? o.delete(s) : o.add(s);
-      T.off = [...o];
-      sfx("tap");
-      commit();
-      break;
-    }
-    case "tmake": {
-      const t = curTest();
-      if (
-        t &&
-        Object.keys(t.ans).length &&
-        !tDone(t) &&
-        !confirm("Start a new paper? The unfinished test will be kept but not continued.")
-      )
-        break;
-      ui.zs = null;
-      makeTest();
-      break;
-    }
-    case "tstart": {
-      ui.ex = null;
-      sfx("flip");
-      openSheet({ mode: "exam" });
-      break;
-    }
-    case "tgo": {
-      const t = curTest(),
-        X = t.subjects[ui.ex.si];
-      t.start = t.start || {};
-      t.start[X.s] = t.start[X.s] || Date.now();
-      ui.ex.qi = 0;
-      sfx("tap");
-      commit();
-      break;
-    }
-    case "tans": {
-      const t = curTest(),
-        X = t.subjects[ui.ex.si];
-      if (t.done?.[X.s]) break;
-      t.ans[X.s + "|" + ui.ex.qi] = +b.dataset.i;
-      sfx("tap");
-      commit();
-      break;
-    }
-    case "tmove": {
-      const t = curTest(),
-        n = t.subjects[ui.ex.si].qs.length;
-      ui.ex.qi = Math.max(0, Math.min(n - 1, ui.ex.qi + +b.dataset.d));
-      sfx("flip");
-      render();
-      document.getElementById("sheetBody")?.scrollTo?.(0, 0);
-      break;
-    }
-    case "tjump": {
-      ui.ex.qi = +b.dataset.i;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "tfin": {
-      const t = curTest(),
-        X = t.subjects[ui.ex.si];
-      t.done = t.done || {};
-      t.done[X.s] = Date.now();
-      ui.ex = { si: t.subjects.findIndex((x) => !t.done[x.s]), qi: -1 };
-      ui.zs = null;
-      sfx("win");
-      if (ui.ex.si < 0) confetti();
-      commit();
-      break;
-    }
-    case "texit": {
-      goBack();
-      break;
-    }
-    case "tdl": {
-      tdlDoc(b.dataset.d);
-      break;
-    }
-    case "zall": {
-      const Z = zipSel(),
-        g = b.dataset.g;
-      if (b.dataset.v === "1") {
-        if (g === "ws") folderData().forEach((c) => c.ws.forEach((w) => Z.ws.add(w.k)));
-        else (S.work || []).forEach((w) => Z.up.add(w.id));
-      } else Z[g].clear();
-      ui.zip = null;
-      render();
-      break;
-    }
-    case "zmake": {
-      zipBuild();
-      break;
-    }
-    case "zsave": {
-      zipSave();
-      break;
-    }
-    case "zshare": {
-      zipShare();
-      break;
-    }
-    case "evcancel": {
-      const k = b.dataset.date + "|" + b.dataset.id;
-      S.evoff = { ...(S.evoff || {}), [k]: Date.now() };
-      sfx("flip");
-      toast("Cancelled · undo it under the day's date");
-      if (ui.sheet?.mode === "evpre") goBack();
-      commit();
-      break;
-    }
-    case "evundo": {
-      const o = { ...(S.evoff || {}) };
-      delete o[b.dataset.date + "|" + b.dataset.id];
-      S.evoff = o;
-      sfx("tap");
-      commit();
-      break;
-    }
-    case "evf": {
-      const F = (ui.evf = ui.evf || {});
-      ["covered", "hw", "note"].forEach((k) => {
-        const el = document.getElementById("evf-" + k);
-        if (el) F[k] = el.value;
-      });
-      F[b.dataset.k] = b.dataset.k === "went" ? b.dataset.v === "1" : b.dataset.v;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "lifeadd":
-      ui.lf = { kind: "did" };
-      openSheet({ mode: "lifeadd" });
-      break;
-    case "lifekind":
-      ui.lf = {
-        ...ui.lf,
-        kind: b.dataset.k,
-        title: document.getElementById("lfTitle")?.value,
-        text: document.getElementById("lfText")?.value,
-      };
-      renderSheet();
-      break;
-    case "lifesave":
-      lifeSave();
-      break;
-    case "lifeopen":
-      openSheet({ mode: "moment", id: b.dataset.id });
-      break;
-    case "intq": {
-      const x = intSt().find((y) => y.id === b.dataset.id),
-        L = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
-      L.forEach((l) => qPut("les", lifeTarget(l.k).u.subj, "les:" + lifeTarget(l.k).u.k, "end"));
-      x.queued = [...x.queued, ...L.map((l) => l.k)];
-      sfx("ok");
-      toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
-      commit();
-      break;
-    }
-    case "intx":
-      S.interests = intSt().filter((y) => y.id !== b.dataset.id);
-      commit();
-      break;
-    case "lifeq":
-      lifeQueue(b.dataset.id);
-      break;
-    case "lifex": {
-      const m = lifeBy(b.dataset.id);
-      if (m) m.links.splice(+b.dataset.i, 1);
-      commit();
-      renderSheet();
-      break;
-    }
-    case "evsave": {
-      evSave(!!b.dataset.quick);
-      break;
-    }
-    case "toplan": {
-      const dl = document.getElementById("sheet");
-      ui.sheet = null;
-      if (dl?.open) dl.close();
-      tab = "week";
-      ui.seg = { ...(ui.seg || {}), week: "days" };
-      render();
-      setTimeout(() => {
-        const t = document.getElementById("dumpText");
-        if (t) {
-          t.scrollIntoView({ block: "center" });
-          t.focus();
-        }
-      }, 200);
-      break;
-    }
-    case "iopts": {
-      sfx("flip");
-      openSheet({ mode: "iopts", date: b.dataset.date, id: b.dataset.id });
-      break;
-    }
-    case "iofin":
-    case "ioskip":
-    case "iosnz":
-    case "iodone":
-    case "ioskipday": {
-      const date = b.dataset.date,
-        it = dayPlan(date).find((i) => i.id === b.dataset.id),
-        act = b.dataset.act;
-      if (!it) break;
+    } else {
       const key = date + "|" + it.id;
-      if (act === "iofin") {
-        logSession(it.u, "plan");
-        sfx("win");
-        toast(`Part ${it.n} marked done`);
-      } else if (act === "ioskip") {
-        logSession(it.u, "skipped");
-        sfx("flip");
-        toast(`Skipped Part ${it.n}`);
-      } else if (act === "iosnz") {
-        S.snz = { ...(S.snz || {}), [key]: nowMin() + 60 };
-        sfx("flip");
-        toast("Okay, later today");
-      } else if (act === "iodone") {
+      if (S.tl[key]) delete S.tl[key];
+      else {
         S.tl[key] = Date.now();
         sfx("ok");
-      } else {
-        S.tl[key] = "skip";
-        sfx("flip");
-        toast("Skipped " + (date === today ? "today" : "that day"));
       }
-      if (ui.sheet?.mode === "iopts") goBack();
-      commit();
-      break;
     }
-    case "evmiss": {
-      const date = b.dataset.date,
-        id = b.dataset.id;
-      S.evlog = { ...(S.evlog || {}), [date + "|" + id]: { went: false, at: Date.now() } };
-      S.tl[date + "|e-" + id] = "missed";
+    commit();
+  },
+  tlopen(b, e, a, k) {
+    const date = b.dataset.date,
+      it = dayPlan(date).find((i) => i.id === b.dataset.id);
+    if (!it) return;
+    sfx("tap");
+    if (it.kind === "prep") return openSheet({ mode: "prep", date, when: it.id });
+    if (it.kind === "lesson") return it.done ? openSheet({ mode: "chapter", k: it.u.k }) : playItem(it);
+    if (it.kind === "warm") return openSheet({ mode: "games" });
+  },
+  prep(b, e, a, k) {
+    const id = b.dataset.id;
+    if (S.prep[id]) delete S.prep[id];
+    else {
+      S.prep[id] = today;
+      sfx("tick");
+    }
+    commit();
+  },
+  delev(b, e, a, k) {
+    S.events = (S.events || []).filter((x) => x.id !== b.dataset.e);
+    sfx("flip");
+    commit();
+  },
+  pv(b, e, a, k) {
+    ui.pv = b.dataset.v;
+    sfx("tap");
+    render();
+  },
+  pday(b, e, a, k) {
+    ui.pday = b.dataset.d;
+    ui.pv = "day";
+    sfx("tap");
+    render();
+  },
+  pdd(b, e, a, k) {
+    ui.pday = addDays(ui.pday || today, +b.dataset.d);
+    sfx("tap");
+    render();
+  },
+  pmon(b, e, a, k) {
+    ui.pm = (ui.pm || 0) + +b.dataset.d;
+    sfx("tap");
+    render();
+  },
+  wk2(b, e, a, k) {
+    ui.week = (ui.week || 0) + +b.dataset.d;
+    sfx("tap");
+    render();
+  },
+  dump(b, e, a, k) {
+    sfx("tap");
+    runDump();
+  },
+  dkeep(b, e, a, k) {
+    const it = ui.dump.items[+b.dataset.i];
+    it.keep = !it.keep;
+    sfx("tap");
+    render();
+  },
+  dwho(b, e, a, k) {
+    const it = ui.dump.items[+b.dataset.i];
+    if (it.type !== "have") {
+      it.who = { you: "kid", kid: "both", both: "you" }[it.who] || "you";
+      sfx("tap");
+      render();
+    }
+  },
+  dadd(b, e, a, k) {
+    addParsed();
+  },
+  dclear(b, e, a, k) {
+    ui.dump = {};
+    render();
+  },
+  askq(b, e, a, k) {
+    const v = b.dataset.a;
+    if (v === "parent") return openSheet({ mode: "parent" });
+    if (sheet.open) sheet.close();
+    const ta = document.getElementById("dumpText");
+    if (ta) {
+      ta.value = (ta.value ? ta.value + "\n" : "") + v.slice(4);
+      ta.focus();
+      ta.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  },
+  jsub(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "jsub", s: b.dataset.s });
+  },
+  jopen(b, e, a, k) {
+    ui.jopen = ui.jopen === k ? null : k;
+    sfx("tap");
+    renderSheet();
+  },
+  rt(b, e, a, k) {
+    ui.rt = b.dataset.t;
+    ui.rmore = 40;
+    sfx("tap");
+    render();
+  },
+  rsj(b, e, a, k) {
+    ui.rsj = b.dataset.v;
+    ui.rc = "";
+    ui.rt = "all";
+    ui.rmore = 40;
+    sfx("tap");
+    render();
+  },
+  rfit(b, e, a, k) {
+    ui.rfit = ui.rfit === false;
+    sfx("tap");
+    render();
+  },
+  rmore(b, e, a, k) {
+    ui.rmore = (ui.rmore || 40) + 40;
+    render();
+  },
+  rtc(b, e, a, k) {
+    ui.rtc = b.dataset.t;
+    sfx("tap");
+    renderSheet();
+  },
+  btrack(b, e, a, k) {
+    navPush();
+    ui.btrack = b.dataset.v;
+    ui.bs = null;
+    ui.bl = null;
+    sfx("tap");
+    render();
+  },
+  bb(b, e, a, k) {
+    navPush();
+    ui.bb = b.dataset.b;
+    ui.bs = null;
+    ui.bl = null;
+    sfx("tap");
+    render();
+  },
+  bs(b, e, a, k) {
+    ui.bs = b.dataset.s;
+    ui.bl = null;
+    sfx("tap");
+    render();
+  },
+  bl(b, e, a, k) {
+    ui.bl = +b.dataset.l;
+    sfx("tap");
+    render();
+  },
+  isort(b, e, a, k) {
+    sfx("tap");
+    runInvSort();
+  },
+  ikeep(b, e, a, k) {
+    const it = ui.idump.items[+b.dataset.i];
+    it.keep = !it.keep;
+    sfx("tap");
+    render();
+  },
+  iclear(b, e, a, k) {
+    ui.idump = {};
+    clearIn("invText");
+    render();
+  },
+  iadd(b, e, a, k) {
+    const L = (ui.idump?.items || []).filter((x) => x.keep);
+    S.inv = [...(S.inv || []), ...L.map(({ keep, ...x }) => ({ id: newId(), ...x, from: "sorted" }))];
+    ui.idump = {};
+    clearIn("invText");
+    sfx("win");
+    toast(`Added ${L.length} to what you have`);
+    commit();
+  },
+  hubres(b, e, a, k) {
+    ui.hubres = true;
+    renderSheet();
+  },
+  refresh(b, e, a, k) {
+    sfx("flip");
+    const date = b.dataset.date || today;
+    // today's refresher is built first (a DeepKids unit's questions are loaded), then it opens with its first question
+    if (date === today) rfBuild(date).then(() => openSheet({ mode: "refresh", date }));
+    else openSheet({ mode: "refresh", date });
+  },
+  pjump(b, e, a, k) {
+    ui.sheet.i = Math.max(0, +b.dataset.i);
+    sfx("tap");
+    renderSheet(true);
+    autoRead();
+  },
+  wkst(b, e, a, k) {
+    const id = b.dataset.id,
+      to = b.dataset.to,
+      key = k + "|" + id,
+      W = WK(),
+      w = W[key] || {};
+    w.title = b.dataset.t || w.title;
+    const untask = () => {
+      if (S.tasks[k]) delete S.tasks[k][id];
+    };
+    if (to === "none" || (to === "undo" && !w.started)) {
+      const q = w.q;
+      delete W[key];
+      if (q) W[key] = { q: true, planned: w.planned, title: w.title };
+      untask();
       sfx("flip");
-      toast("Noted: didn't happen");
-      commit();
-      break;
-    }
-    case "rem": {
+    } else if (to === "undo") {
+      w.st = "started";
+      delete w.done;
+      delete w.doneAt;
+      untask();
+      W[key] = w;
       sfx("flip");
-      openSheet({ mode: "rem" });
-      break;
+    } else {
+      w.st = to;
+      w[to] = w[to] || today;
+      w[to + "At"] = w[to + "At"] || Date.now();
+      if (to === "done") {
+        w.started = w.started || today;
+        S.tasks[k] = S.tasks[k] || {};
+        S.tasks[k][id] = w.done;
+        sfx("win");
+        toast("Finished · saved to your Work folder");
+      } else {
+        untask();
+        sfx("ok");
+        toast(
+          to === "planned"
+            ? "Added to your pipeline · see To finish"
+            : to === "skip"
+              ? "Okay, not doing this one"
+              : "Marked started · finish it any time",
+        );
+      }
+      W[key] = w;
     }
-    case "remday": {
-      const R = REM(),
-        d = +b.dataset.d,
-        set = new Set(R.days || [1, 2, 3, 4, 5]);
+    commit();
+  },
+  qz(b, e, a, k) {
+    S.quiz = S.quiz || {};
+    const q = (S.quiz[k + "|" + b.dataset.n] = S.quiz[k + "|" + b.dataset.n] || {});
+    q[b.dataset.i] = { q: b.dataset.q, a: b.dataset.a, r: +b.dataset.r, d: today };
+    sfx(+b.dataset.r ? "ok" : "tap");
+    commit();
+  },
+  folder(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "folder" });
+  },
+  fsave(b, e, a, k) {
+    folderSave();
+  },
+  fprint(b, e, a, k) {
+    folderPrint();
+  },
+  qsend(b, e, a, k) {
+    qSend();
+  },
+  gcsync(b, e, a, k) {
+    gcSync(true);
+  },
+  gcoff(b, e, a, k) {
+    S.cal = { on: false };
+    sfx("flip");
+    toast("Calendar unlinked");
+    commit();
+  },
+  gccal(b, e, a, k) {
+    const c = S.cal || {},
+      id = b.dataset.id,
+      set = new Set(c.cals || []);
+    set.has(id) ? set.delete(id) : set.add(id);
+    S.cal = { ...c, cals: [...set] };
+    gcSync(true);
+  },
+  uploads(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "uploads" });
+  },
+  track(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "track" });
+  },
+  school(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "school" });
+  },
+  tp(b, e, a, k) {
+    ui.tp = b.dataset.v;
+    ui.tpo = 0;
+    sfx("tap");
+    render();
+  },
+  tpo(b, e, a, k) {
+    ui.tpo = Math.min(0, (ui.tpo || 0) + +b.dataset.d);
+    sfx("tap");
+    render();
+  },
+  tsave(b, e, a, k) {
+    saveDoc(transcriptDoc(), `${(S.child || "Student").replace(/[^\w ]/g, "")} transcript ${today}.html`);
+  },
+  tprint(b, e, a, k) {
+    printDoc(transcriptDoc());
+  },
+  told(b, e, a, k) {
+    sfx("flip");
+    ui.ted = "";
+    if (tab === "week" && seg("week") === "cal" && !sheet.open) {
+      render();
+      document
+        .querySelector('#main [data-act="ted"]')
+        ?.closest("section")
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+      return;
+    }
+    openSheet({ mode: "told" });
+    render();
+  },
+  ted(b, e, a, k) {
+    ui.ted = b.dataset.id;
+    if (!b.dataset.id) {
+      sfx("ok");
+      commit();
+    } else render();
+  },
+  evday(b, e, a, k) {
+    const ev = (S.events || []).find((x) => x.id === b.dataset.id);
+    if (ev) {
+      const d = +b.dataset.d,
+        set = new Set(ev.rep === "weekly" ? ev.days : []);
       set.has(d) ? set.delete(d) : set.add(d);
       if (set.size) {
-        R.days = [...set];
-        sfx("tap");
-        commit();
+        ev.days = [...set];
+        ev.rep = "weekly";
+        ev.date = null;
+      } else {
+        ev.rep = "once";
+        ev.days = [];
+        ev.date = ev.date || today;
       }
-      break;
+      sfx("tap");
+      commit();
     }
-    case "remics": {
-      saveIcs();
-      break;
+  },
+  evwho(b, e, a, k) {
+    const ev = (S.events || []).find((x) => x.id === b.dataset.id);
+    if (ev) {
+      ev.who = b.dataset.w;
+      sfx("tap");
+      commit();
     }
-    case "wk1done": {
-      S.wk1 = { ...(S.wk1 || {}), done: { ...(S.wk1?.done || {}), [b.dataset.k]: today } };
-      ui.wk1at = null;
+  },
+  evdel(b, e, a, k) {
+    S.events = (S.events || []).filter((x) => x.id !== b.dataset.id);
+    ui.ted = "";
+    sfx("flip");
+    toast("Removed");
+    commit();
+  },
+  tddel(b, e, a, k) {
+    S.todos = (S.todos || []).filter((x) => x.id !== b.dataset.id);
+    sfx("flip");
+    commit();
+  },
+  notedel(b, e, a, k) {
+    S.notes = (S.notes || []).filter((x) => x.id !== b.dataset.id);
+    sfx("flip");
+    commit();
+  },
+  tsub(b, e, a, k) {
+    const T = tSetup(),
+      s = b.dataset.s,
+      o = new Set(T.off || []);
+    o.has(s) ? o.delete(s) : o.add(s);
+    T.off = [...o];
+    sfx("tap");
+    commit();
+  },
+  tmake(b, e, a, k) {
+    const t = curTest();
+    if (
+      t &&
+      Object.keys(t.ans).length &&
+      !tDone(t) &&
+      !confirm("Start a new paper? The unfinished test will be kept but not continued.")
+    )
+      return;
+    ui.zs = null;
+    makeTest();
+  },
+  tstart(b, e, a, k) {
+    ui.ex = null;
+    sfx("flip");
+    openSheet({ mode: "exam" });
+  },
+  tgo(b, e, a, k) {
+    const t = curTest(),
+      X = t.subjects[ui.ex.si];
+    t.start = t.start || {};
+    t.start[X.s] = t.start[X.s] || Date.now();
+    ui.ex.qi = 0;
+    sfx("tap");
+    commit();
+  },
+  tans(b, e, a, k) {
+    const t = curTest(),
+      X = t.subjects[ui.ex.si];
+    if (t.done?.[X.s]) return;
+    t.ans[X.s + "|" + ui.ex.qi] = +b.dataset.i;
+    sfx("tap");
+    commit();
+  },
+  tmove(b, e, a, k) {
+    const t = curTest(),
+      n = t.subjects[ui.ex.si].qs.length;
+    ui.ex.qi = Math.max(0, Math.min(n - 1, ui.ex.qi + +b.dataset.d));
+    sfx("flip");
+    render();
+    document.getElementById("sheetBody")?.scrollTo?.(0, 0);
+  },
+  tjump(b, e, a, k) {
+    ui.ex.qi = +b.dataset.i;
+    sfx("tap");
+    render();
+  },
+  tfin(b, e, a, k) {
+    const t = curTest(),
+      X = t.subjects[ui.ex.si];
+    t.done = t.done || {};
+    t.done[X.s] = Date.now();
+    ui.ex = { si: t.subjects.findIndex((x) => !t.done[x.s]), qi: -1 };
+    ui.zs = null;
+    sfx("win");
+    if (ui.ex.si < 0) confetti();
+    commit();
+  },
+  texit(b, e, a, k) {
+    goBack();
+  },
+  tdl(b, e, a, k) {
+    tdlDoc(b.dataset.d);
+  },
+  zall(b, e, a, k) {
+    const Z = zipSel(),
+      g = b.dataset.g;
+    if (b.dataset.v === "1") {
+      if (g === "ws") folderData().forEach((c) => c.ws.forEach((w) => Z.ws.add(w.k)));
+      else (S.work || []).forEach((w) => Z.up.add(w.id));
+    } else Z[g].clear();
+    ui.zip = null;
+    render();
+  },
+  zmake(b, e, a, k) {
+    zipBuild();
+  },
+  zsave(b, e, a, k) {
+    zipSave();
+  },
+  zshare(b, e, a, k) {
+    zipShare();
+  },
+  evcancel(b, e, a, k) {
+    const dk = b.dataset.date + "|" + b.dataset.id;
+    S.evoff = { ...(S.evoff || {}), [dk]: Date.now() };
+    sfx("flip");
+    toast("Cancelled · undo it under the day's date");
+    if (ui.sheet?.mode === "evpre") goBack();
+    commit();
+  },
+  evundo(b, e, a, k) {
+    const o = { ...(S.evoff || {}) };
+    delete o[b.dataset.date + "|" + b.dataset.id];
+    S.evoff = o;
+    sfx("tap");
+    commit();
+  },
+  evf(b, e, a, k) {
+    const F = (ui.evf = ui.evf || {});
+    ["covered", "hw", "note"].forEach((k) => {
+      const el = document.getElementById("evf-" + k);
+      if (el) F[k] = el.value;
+    });
+    F[b.dataset.k] = b.dataset.k === "went" ? b.dataset.v === "1" : b.dataset.v;
+    sfx("tap");
+    render();
+  },
+  lifeadd(b, e, a, k) {
+    ui.lf = { kind: "did" };
+    openSheet({ mode: "lifeadd" });
+  },
+  lifekind(b, e, a, k) {
+    ui.lf = {
+      ...ui.lf,
+      kind: b.dataset.k,
+      title: document.getElementById("lfTitle")?.value,
+      text: document.getElementById("lfText")?.value,
+    };
+    renderSheet();
+  },
+  lifesave(b, e, a, k) {
+    lifeSave();
+  },
+  lifeopen(b, e, a, k) {
+    openSheet({ mode: "moment", id: b.dataset.id });
+  },
+  intq(b, e, a, k) {
+    const x = intSt().find((y) => y.id === b.dataset.id),
+      L = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
+    L.forEach((l) => qPut("les", lifeTarget(l.k).u.subj, "les:" + lifeTarget(l.k).u.k, "end"));
+    x.queued = [...x.queued, ...L.map((l) => l.k)];
+    sfx("ok");
+    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    commit();
+  },
+  intx(b, e, a, k) {
+    S.interests = intSt().filter((y) => y.id !== b.dataset.id);
+    commit();
+  },
+  lifeq(b, e, a, k) {
+    lifeQueue(b.dataset.id);
+  },
+  lifex(b, e, a, k) {
+    const m = lifeBy(b.dataset.id);
+    if (m) m.links.splice(+b.dataset.i, 1);
+    commit();
+    renderSheet();
+  },
+  evsave(b, e, a, k) {
+    evSave(!!b.dataset.quick);
+  },
+  toplan(b, e, a, k) {
+    const dl = document.getElementById("sheet");
+    ui.sheet = null;
+    if (dl?.open) dl.close();
+    tab = "week";
+    ui.seg = { ...(ui.seg || {}), week: "days" };
+    render();
+    setTimeout(() => {
+      const t = document.getElementById("dumpText");
+      if (t) {
+        t.scrollIntoView({ block: "center" });
+        t.focus();
+      }
+    }, 200);
+  },
+  iopts(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "iopts", date: b.dataset.date, id: b.dataset.id });
+  },
+  ioskipday(b, e, a, k) {
+    const date = b.dataset.date,
+      it = dayPlan(date).find((i) => i.id === b.dataset.id),
+      act = b.dataset.act;
+    if (!it) return;
+    const key = date + "|" + it.id;
+    if (act === "iofin") {
+      logSession(it.u, "plan");
       sfx("win");
-      toast(
-        WEEK1.every(wk1Done)
-          ? "Your first week is done. Well done, both of you!"
-          : "Lovely. The next one is waiting for tomorrow.",
-      );
-      commit();
-      break;
-    }
-    case "wk1go": {
-      ui.wk1at = +b.dataset.i;
+      toast(`Part ${it.n} marked done`);
+    } else if (act === "ioskip") {
+      logSession(it.u, "skipped");
       sfx("flip");
-      render();
-      break;
+      toast(`Skipped Part ${it.n}`);
+    } else if (act === "iosnz") {
+      S.snz = { ...(S.snz || {}), [key]: nowMin() + 60 };
+      sfx("flip");
+      toast("Okay, later today");
+    } else if (act === "iodone") {
+      S.tl[key] = Date.now();
+      sfx("ok");
+    } else {
+      S.tl[key] = "skip";
+      sfx("flip");
+      toast("Skipped " + (date === today ? "today" : "that day"));
     }
-    case "shopr": {
-      ui.shopr = b.dataset.r;
+    if (ui.sheet?.mode === "iopts") goBack();
+    commit();
+  },
+  evmiss(b, e, a, k) {
+    const date = b.dataset.date,
+      id = b.dataset.id;
+    S.evlog = { ...(S.evlog || {}), [date + "|" + id]: { went: false, at: Date.now() } };
+    S.tl[date + "|e-" + id] = "missed";
+    sfx("flip");
+    toast("Noted: didn't happen");
+    commit();
+  },
+  rem(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "rem" });
+  },
+  remday(b, e, a, k) {
+    const R = REM(),
+      d = +b.dataset.d,
+      set = new Set(R.days || [1, 2, 3, 4, 5]);
+    set.has(d) ? set.delete(d) : set.add(d);
+    if (set.size) {
+      R.days = [...set];
       sfx("tap");
-      render();
-      break;
-    }
-    case "shoptick": {
-      const ids = b.dataset.ids.split("~"),
-        got = b.getAttribute("aria-pressed") === "true";
-      S.prep = { ...S.prep, ...Object.fromEntries(ids.map((id) => [id, got ? 0 : today])) };
-      sfx(got ? "tap" : "tick");
       commit();
-      break;
     }
-    case "shopcopy": {
-      const L = shopItems(b.dataset.r).filter((g) => !g.got),
-        txt = `${SHOPR[b.dataset.r][0]}, for ${S.child || "our"} lessons:\n` + L.map((g) => "• " + g.name).join("\n");
-      navigator.clipboard?.writeText(txt).then(
-        () => toast("Copied. Paste it anywhere."),
-        () => toast("Couldn't copy here"),
-      );
-      break;
+  },
+  remics(b, e, a, k) {
+    saveIcs();
+  },
+  wk1done(b, e, a, k) {
+    S.wk1 = { ...(S.wk1 || {}), done: { ...(S.wk1?.done || {}), [b.dataset.k]: today } };
+    ui.wk1at = null;
+    sfx("win");
+    toast(
+      WEEK1.every(wk1Done)
+        ? "Your first week is done. Well done, both of you!"
+        : "Lovely. The next one is waiting for tomorrow.",
+    );
+    commit();
+  },
+  wk1go(b, e, a, k) {
+    ui.wk1at = +b.dataset.i;
+    sfx("flip");
+    render();
+  },
+  shopr(b, e, a, k) {
+    ui.shopr = b.dataset.r;
+    sfx("tap");
+    render();
+  },
+  shoptick(b, e, a, k) {
+    const ids = b.dataset.ids.split("~"),
+      got = b.getAttribute("aria-pressed") === "true";
+    S.prep = { ...S.prep, ...Object.fromEntries(ids.map((id) => [id, got ? 0 : today])) };
+    sfx(got ? "tap" : "tick");
+    commit();
+  },
+  shopcopy(b, e, a, k) {
+    const L = shopItems(b.dataset.r).filter((g) => !g.got),
+      txt = `${SHOPR[b.dataset.r][0]}, for ${S.child || "our"} lessons:\n` + L.map((g) => "• " + g.name).join("\n");
+    navigator.clipboard?.writeText(txt).then(
+      () => toast("Copied. Paste it anywhere."),
+      () => toast("Couldn't copy here"),
+    );
+  },
+  wk1exp(b, e, a, k) {
+    wk1Experiment();
+  },
+  qgame(b, e, a, k) {
+    openSheet({ mode: "qgame", u: b.dataset.u, g: b.dataset.g });
+  },
+  gameopen(b, e, a, k) {
+    gameOpen(b.dataset.u, b.dataset.g);
+  },
+  pzstart(b, e, a, k) {
+    pzStart(b.dataset.k, +(b.dataset.skip || 0));
+  },
+  pzflip(b, e, a, k) {
+    pzFlip(+b.dataset.i);
+  },
+  pzcell(b, e, a, k) {
+    pzCell(+b.dataset.i);
+  },
+  wk1unit(b, e, a, k) {
+    fxOpen(wk1Unit().c.unit);
+  },
+  wk1ws(b, e, a, k) {
+    // the first lesson with something to print: a DeepKids unit opens at its first worksheet, a DeepKids
+    // lesson at its own worksheet, a board chapter at its topic's worksheets
+    const u = wk1Unit() || wk1Lessons().find((x) => x.c?.p?.worksheets?.length || wsOf(x).length);
+    if (u?.board === "unit")
+      fxOpen(u.c.unit).then(() => {
+        const i = (FXALL?.sections || []).findIndex((x) => x.id.startsWith("ws-"));
+        if (i >= 0) fxGo(i, 0);
+      });
+    else if (u?.c?.p?.worksheets?.length) openSheet({ mode: "ws", k: u.k, w: u.c.p.worksheets[0].id });
+    else if (u) openSheet({ mode: "wsv", k: u.k, i: 0 });
+    else {
+      tab = "library";
+      ui.lt = "science";
+      render();
     }
-    case "wk1exp":
-      wk1Experiment();
-      break;
-    case "qgame":
-      openSheet({ mode: "qgame", u: b.dataset.u, g: b.dataset.g });
-      break;
-    case "gameopen":
-      gameOpen(b.dataset.u, b.dataset.g);
-      break;
-    case "pzstart":
-      pzStart(b.dataset.k, +(b.dataset.skip || 0));
-      break;
-    case "pzflip":
-      pzFlip(+b.dataset.i);
-      break;
-    case "pzcell":
-      pzCell(+b.dataset.i);
-      break;
-    case "wk1unit":
-      fxOpen(wk1Unit().c.unit);
-      break;
-    case "wk1ws": {
-      // the first lesson with something to print: a DeepKids unit opens at its first worksheet, a DeepKids
-      // lesson at its own worksheet, a board chapter at its topic's worksheets
-      const u = wk1Unit() || wk1Lessons().find((x) => x.c?.p?.worksheets?.length || wsOf(x).length);
-      if (u?.board === "unit")
-        fxOpen(u.c.unit).then(() => {
-          const i = (FXALL?.sections || []).findIndex((x) => x.id.startsWith("ws-"));
-          if (i >= 0) fxGo(i, 0);
-        });
-      else if (u?.c?.p?.worksheets?.length) openSheet({ mode: "ws", k: u.k, w: u.c.p.worksheets[0].id });
-      else if (u) openSheet({ mode: "wsv", k: u.k, i: 0 });
-      else {
-        tab = "library";
-        ui.lt = "science";
-        render();
-      }
-      break;
-    }
-    case "wk1iam": {
-      document.getElementById("fxFab")?.click();
-      break;
-    }
-    case "paper": {
-      sfx("flip");
-      if (ui.sheet?.mode === "paper") {
-        ui.sheet = { mode: "paper", p: b.dataset.p, i: 0 };
-        renderSheet(true);
-      } else openSheet({ mode: "paper", p: b.dataset.p, i: 0 });
-      break;
-    }
-    case "rsgo": {
-      ui.sheet.i = Math.max(0, +b.dataset.i);
-      sfx("flip");
+  },
+  wk1iam(b, e, a, k) {
+    document.getElementById("fxFab")?.click();
+  },
+  paper(b, e, a, k) {
+    sfx("flip");
+    if (ui.sheet?.mode === "paper") {
+      ui.sheet = { mode: "paper", p: b.dataset.p, i: 0 };
       renderSheet(true);
-      break;
+    } else openSheet({ mode: "paper", p: b.dataset.p, i: 0 });
+  },
+  rsgo(b, e, a, k) {
+    ui.sheet.i = Math.max(0, +b.dataset.i);
+    sfx("flip");
+    renderSheet(true);
+  },
+  rsf(b, e, a, k) {
+    ui.rsf = b.dataset.f;
+    sfx("tap");
+    render();
+  },
+  rsq(b, e, a, k) {
+    const L = rsUnits(rsBy(b.dataset.p));
+    L.forEach((u) => qPut("les", u.subj, "les:" + u.k, "end"));
+    rsSt().queued = { ...(rsSt().queued || {}), [b.dataset.p]: today };
+    sfx("ok");
+    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    commit();
+    renderSheet();
+  },
+  rsdone(b, e, a, k) {
+    const st = rsSt(),
+      id = b.dataset.p;
+    if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
+    else if (!st.read[id]) {
+      st.read[id] = today;
+      celebrate();
+      toast("Lovely. Your next one will be ready next week.");
     }
-    case "rsf": {
-      ui.rsf = b.dataset.f;
-      sfx("tap");
-      render();
-      break;
+    if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
+    commit();
+    if (ui.sheet) renderSheet();
+  },
+  wk1off(b, e, a, k) {
+    S.wk1 = { ...(S.wk1 || {}), off: true };
+    sfx("flip");
+    toast("Hidden. You can find every feature from the menu.");
+    commit();
+  },
+  nudgeoff(b, e, a, k) {
+    S.nudgeOff = { ...(S.nudgeOff || {}), [today]: Date.now() + 2 * 36e5 };
+    sfx("flip");
+    toast("Okay. We'll check again later.");
+    commit();
+  },
+  addmode(b, e, a, k) {
+    ui.addmode = b.dataset.m;
+    sfx("tap");
+    render();
+  },
+  dnofiles(b, e, a, k) {
+    if (ui.dump) ui.dump.files = [];
+    sfx("flip");
+    render();
+  },
+  seg(b, e, a, k) {
+    navPush();
+    ui.seg = { ...(ui.seg || {}), [b.dataset.k]: b.dataset.v };
+    sfx("tap");
+    render();
+    scrollTo(0, 0);
+  },
+  gotab(b, e, a, k) {
+    navPush();
+    if (b.dataset.qs) {
+      ui.qs = b.dataset.qs;
+      ui.tq = "les";
     }
-    case "rsq": {
-      const L = rsUnits(rsBy(b.dataset.p));
-      L.forEach((u) => qPut("les", u.subj, "les:" + u.k, "end"));
-      rsSt().queued = { ...(rsSt().queued || {}), [b.dataset.p]: today };
-      sfx("ok");
-      toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
-      commit();
-      renderSheet();
-      break;
+    const dl = document.getElementById("sheet");
+    if (dl?.open) {
+      ui.sheet = null;
+      dl.close();
     }
-    case "rslike":
-    case "rsdone": {
-      const st = rsSt(),
-        id = b.dataset.p;
-      if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
-      else if (!st.read[id]) {
-        st.read[id] = today;
-        celebrate();
-        toast("Lovely. Your next one will be ready next week.");
-      }
-      if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
-      commit();
+    tab = b.dataset.tab;
+    if (b.dataset.seg) ui.seg = { ...(ui.seg || {}), [tab]: b.dataset.seg };
+    sfx("flip");
+    render();
+    scrollTo(0, 0);
+    // a "Show me" can point at one box on that screen
+    const f = b.dataset.focus && document.getElementById(b.dataset.focus);
+    if (f) {
+      f.scrollIntoView({ block: "center" });
+      f.focus({ preventScroll: true });
+    }
+  },
+  mbmake(b, e, a, k) {
+    myBooksMake();
+  },
+  mbplan(b, e, a, k) {
+    myBookPlan(b.dataset.k);
+  },
+  mbdel(b, e, a, k) {
+    myBookRemove(b.dataset.id);
+  },
+  guidetoggle(b, e, a, k) {
+    guideToggle(b.checked);
+    renderSheet();
+  },
+  sndtoggle(b, e, a, k) {
+    document.getElementById("snd")?.click();
+    setTimeout(() => {
       if (ui.sheet) renderSheet();
-      break;
+    }, 50);
+  },
+  dexport(b, e, a, k) {
+    dataExport();
+  },
+  plus(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "plus", r: b.dataset.r || "" });
+  },
+  plusgo(b, e, a, k) {
+    plusGo();
+  },
+  todo(b, e, a, k) {
+    navPush();
+    const dl = document.getElementById("sheet");
+    if (dl?.open) {
+      ui.sheet = null;
+      dl.close();
     }
-    case "wk1off": {
-      S.wk1 = { ...(S.wk1 || {}), off: true };
+    tab = "week";
+    ui.seg = { ...(ui.seg || {}), week: "finish" };
+    sfx("flip");
+    render();
+    scrollTo(0, 0);
+  },
+  qpick(b, e, a, k) {
+    ui.qpick = b.dataset.r || null;
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qput(b, e, a, k) {
+    const ty = b.dataset.ty,
+      r = b.dataset.r,
+      n = qPut(ty, b.dataset.s, r, b.dataset.w);
+    ui.qpick = null;
+    ui.flash = r;
+    setTimeout(() => {
+      ui.flash = null;
+    }, 2500);
+    sfx("ok");
+    toast(
+      `${b.dataset.w === "first" ? "Put first" : "Added at the end"}: no. ${n} in the ${ty === "les" ? SUBJ[b.dataset.s] : WT[ty][0].toLowerCase()} queue. See Plan → Queue.`,
+      4500,
+    );
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qmv(b, e, a, k) {
+    const ty = b.dataset.ty,
+      s = b.dataset.s,
+      L = qItems(ty, s).map((x) => x.ref),
+      i = L.indexOf(b.dataset.r),
+      j = i + +b.dataset.d;
+    if (i < 0 || j < 0 || j >= L.length) return;
+    [L[i], L[j]] = [L[j], L[i]];
+    ui.flash = b.dataset.r;
+    setTimeout(() => {
+      ui.flash = null;
+    }, 1500);
+    sfx("tap");
+    setOrder(ty, s, L);
+  },
+  qshuf(b, e, a, k) {
+    const ty = b.dataset.ty,
+      s = b.dataset.s;
+    if (ty === "les") {
+      S.next = { ...(S.next || {}), [s]: [] };
+      S.shuffle = { ...(S.shuffle || {}), [s]: true };
+      S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
       sfx("flip");
-      toast("Hidden. You can find every feature from the menu.");
       commit();
-      break;
-    }
-    case "nudgeoff": {
-      S.nudgeOff = { ...(S.nudgeOff || {}), [today]: Date.now() + 2 * 36e5 };
-      sfx("flip");
-      toast("Okay. We'll check again later.");
-      commit();
-      break;
-    }
-    case "addmode": {
-      ui.addmode = b.dataset.m;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "dnofiles": {
-      if (ui.dump) ui.dump.files = [];
-      sfx("flip");
-      render();
-      break;
-    }
-    case "seg": {
-      navPush();
-      ui.seg = { ...(ui.seg || {}), [b.dataset.k]: b.dataset.v };
-      sfx("tap");
-      render();
-      scrollTo(0, 0);
-      break;
-    }
-    case "gotab": {
-      navPush();
-      if (b.dataset.qs) {
-        ui.qs = b.dataset.qs;
-        ui.tq = "les";
+      toast("Shuffled. Each topic still comes after what it needs first.");
+    } else {
+      const L = qItems(ty, s).map((x) => x.ref);
+      for (let i = L.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [L[i], L[j]] = [L[j], L[i]];
       }
-      const dl = document.getElementById("sheet");
-      if (dl?.open) {
-        ui.sheet = null;
-        dl.close();
-      }
-      tab = b.dataset.tab;
-      if (b.dataset.seg) ui.seg = { ...(ui.seg || {}), [tab]: b.dataset.seg };
       sfx("flip");
-      render();
-      scrollTo(0, 0);
-      // a "Show me" can point at one box on that screen
-      const f = b.dataset.focus && document.getElementById(b.dataset.focus);
-      if (f) {
-        f.scrollIntoView({ block: "center" });
-        f.focus({ preventScroll: true });
-      }
-      break;
-    }
-    case "mbmake": {
-      myBooksMake();
-      break;
-    }
-    case "mbplan": {
-      myBookPlan(b.dataset.k);
-      break;
-    }
-    case "mbdel": {
-      myBookRemove(b.dataset.id);
-      break;
-    }
-    case "guidetoggle": {
-      guideToggle(b.checked);
-      renderSheet();
-      break;
-    }
-    case "sndtoggle": {
-      document.getElementById("snd")?.click();
-      setTimeout(() => {
-        if (ui.sheet) renderSheet();
-      }, 50);
-      break;
-    }
-    case "dexport": {
-      dataExport();
-      break;
-    }
-    case "plus": {
-      sfx("flip");
-      openSheet({ mode: "plus", r: b.dataset.r || "" });
-      break;
-    }
-    case "plusgo": {
-      plusGo();
-      break;
-    }
-    case "todo": {
-      navPush();
-      const dl = document.getElementById("sheet");
-      if (dl?.open) {
-        ui.sheet = null;
-        dl.close();
-      }
-      tab = "week";
-      ui.seg = { ...(ui.seg || {}), week: "finish" };
-      sfx("flip");
-      render();
-      scrollTo(0, 0);
-      break;
-    }
-    case "qpick": {
-      ui.qpick = b.dataset.r || null;
-      sfx("tap");
-      render();
-      if (sheet.open) renderSheet();
-      break;
-    }
-    case "qput": {
-      const ty = b.dataset.ty,
-        r = b.dataset.r,
-        n = qPut(ty, b.dataset.s, r, b.dataset.w);
-      ui.qpick = null;
-      ui.flash = r;
-      setTimeout(() => {
-        ui.flash = null;
-      }, 2500);
-      sfx("ok");
-      toast(
-        `${b.dataset.w === "first" ? "Put first" : "Added at the end"}: no. ${n} in the ${ty === "les" ? SUBJ[b.dataset.s] : WT[ty][0].toLowerCase()} queue. See Plan → Queue.`,
-        4500,
-      );
-      render();
-      if (sheet.open) renderSheet();
-      break;
-    }
-    case "qmv": {
-      const ty = b.dataset.ty,
-        s = b.dataset.s,
-        L = qItems(ty, s).map((x) => x.ref),
-        i = L.indexOf(b.dataset.r),
-        j = i + +b.dataset.d;
-      if (i < 0 || j < 0 || j >= L.length) break;
-      [L[i], L[j]] = [L[j], L[i]];
-      ui.flash = b.dataset.r;
-      setTimeout(() => {
-        ui.flash = null;
-      }, 1500);
-      sfx("tap");
       setOrder(ty, s, L);
-      break;
+      toast("Shuffled");
     }
-    case "qshuf": {
-      const ty = b.dataset.ty,
-        s = b.dataset.s;
-      if (ty === "les") {
-        S.next = { ...(S.next || {}), [s]: [] };
-        S.shuffle = { ...(S.shuffle || {}), [s]: true };
-        S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
-        sfx("flip");
-        commit();
-        toast("Shuffled. Each topic still comes after what it needs first.");
-      } else {
-        const L = qItems(ty, s).map((x) => x.ref);
-        for (let i = L.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [L[i], L[j]] = [L[j], L[i]];
-        }
-        sfx("flip");
-        setOrder(ty, s, L);
-        toast("Shuffled");
-      }
-      break;
-    }
-    case "qx": {
-      const ty = b.dataset.ty,
-        r = b.dataset.r,
-        key = r.slice(r.indexOf(":") + 1);
-      if (ty !== "les" && b.dataset.how !== "skip") {
-        unQueue(ty, key);
-        sfx("flip");
-        commit();
-        if (sheet.open) renderSheet();
-        toast("Taken out of the queue");
-        break;
-      }
-      if (ty === "les") {
-        const s = b.dataset.s;
-        S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== key) };
-        S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== key) };
-      } else {
-        const W = WK();
-        W[key] = { ...(W[key] || {}), st: "skip" };
-        WQ()[ty] = (WQ()[ty] || []).filter((x) => x !== r);
-      }
-      sfx("flip");
-      commit();
-      toast("Taken out. You can bring it back from its chapter.");
-      break;
-    }
-    case "hty": {
-      ui.hty = b.dataset.t;
-      ui.hn = 25;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "hs": {
-      ui.hs = b.dataset.s;
-      ui.hn = 25;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "hmore": {
-      ui.hn = (ui.hn || 25) + 25;
-      render();
-      break;
-    }
-    case "morejg": {
-      ui.jg = (ui.jg || 0) + 1;
-      sfx("flip");
-      renderSheet();
-      break;
-    }
-    case "tdtick": {
-      const x = (S.todos || []).find((z) => z.id === b.dataset.t);
-      if (x) {
-        x.done = !x.done;
-        x.doneOn = x.done ? today : null;
-        sfx(x.done ? "tick" : "flip");
-        commit();
-      }
-      break;
-    }
-    case "subtog": {
-      const s = b.dataset.s,
-        on = S.subjects.includes(s);
-      if (on && S.subjects.length < 2) {
-        sfx("no");
-        toast("Keep at least one subject");
-        break;
-      }
-      S.subjects = on ? S.subjects.filter((x) => x !== s) : SUBJ_KEYS.filter((x) => x === s || S.subjects.includes(x));
-      if (!on) {
-        S.levels = { ...S.levels, [s]: S.levels?.[s] || S.levels?.sci || 1 };
-      }
-      sfx(on ? "flip" : "ok");
-      commit();
-      toast(on ? `${SUBJ[s]} left out. Its progress is kept.` : `${SUBJ[s]} added. It's in Today and the Queue now.`);
-      break;
-    }
-    case "pacego": {
-      navPush();
-      ui.seg = { ...(ui.seg || {}), week: "family" };
-      sfx("flip");
-      render();
-      setTimeout(() => document.getElementById("paceSec")?.scrollIntoView({ behavior: "smooth", block: "start" }), 60);
-      break;
-    }
-    case "ist": {
-      const key = k + "|" + b.dataset.id,
-        W = WK(),
-        w = W[key] || {},
-        to = b.dataset.to;
-      if (to === "none") {
-        if (w.st !== "planned") delete w.st;
-        W[key] = w;
-      } else if (to === "skip") W[key] = { ...w, st: "skip" };
-      else if (to === "undo") {
-        if (S.tasks[k + "#" + b.dataset.id]) delete S.tasks[k + "#" + b.dataset.id].ws;
-        delete w.st;
-        W[key] = w;
-      }
+  },
+  qx(b, e, a, k) {
+    const ty = b.dataset.ty,
+      r = b.dataset.r,
+      key = r.slice(r.indexOf(":") + 1);
+    if (ty !== "les" && b.dataset.how !== "skip") {
+      unQueue(ty, key);
       sfx("flip");
       commit();
       if (sheet.open) renderSheet();
-      toast(to === "skip" ? "Marked not doing" : to === "undo" ? "Back to not finished" : "Done");
-      break;
+      toast("Taken out of the queue");
+      return;
     }
-    case "quizgo": {
-      sfx("flip");
-      ui.qrun = null;
-      ui.qzv = null;
-      openSheet({ mode: "quizz" });
-      break;
-    }
-    case "qall": {
-      ui.qall = !ui.qall;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "tofinish": {
-      navPush();
-      tab = "week";
-      ui.seg = { ...(ui.seg || {}), week: "finish" };
-      sfx("flip");
-      render();
-      scrollTo(0, 0);
-      break;
-    }
-    case "qzresume": {
-      sfx("flip");
-      ui.qrun = { ...S.qzopen.run, i: S.qzopen.run.res.length, cur: null };
-      ui.qzv = null;
-      openSheet({ mode: "quizz" });
-      break;
-    }
-    case "rfset": {
-      sfx("flip");
-      openSheet({ mode: "rfset" });
-      break;
-    }
-    case "qzset": {
-      const Z = (ui.qz = ui.qz || {}),
-        v = b.dataset.v;
-      Z[b.dataset.key] = /^\d+$/.test(v) ? +v : v;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
-    case "qzstart": {
-      const Z = ui.qz,
-        N = Z.by === "n" ? Z.n : Z.m * 2,
-        P = quizPool(Z.s, Z.focus);
-      if (!P.length) break;
-      const head = Z.focus === "mix" ? P.slice(0, Math.ceil(N / 2)) : [],
-        rest = P.filter((q) => !head.includes(q));
-      for (let i = rest.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [rest[i], rest[j]] = [rest[j], rest[i]];
-      }
-      const qs = [...head, ...rest].slice(0, N);
-      for (let i = qs.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [qs[i], qs[j]] = [qs[j], qs[i]];
-      }
-      ui.qrun = { s: Z.s, by: Z.by, qs, i: 0, res: [], end: Z.by === "m" ? Date.now() + Z.m * 60000 : null };
-      clearInterval(ui.qtick);
-      if (ui.qrun.end)
-        ui.qtick = setInterval(() => {
-          const R = ui.qrun;
-          if (!R || ui.sheet?.mode !== "quizz" || R.saved) {
-            clearInterval(ui.qtick);
-            return;
-          }
-          const e = document.getElementById("qzleft"),
-            l = Math.max(0, Math.round((R.end - Date.now()) / 1000));
-          if (e) e.textContent = Math.floor(l / 60) + ":" + String(l % 60).padStart(2, "0");
-          if (!l) renderSheet();
-        }, 1000);
-      sfx("ok");
-      renderSheet();
-      break;
-    }
-    case "qans": {
-      const q = (window._qmap || {})[b.dataset.id];
-      if (!q) break;
-      const c = b.dataset.c != null ? +b.dataset.c : null,
-        r = c != null ? c === q.ans : b.dataset.r === "1";
-      qRecord(q, r);
-      if (ui.sheet?.mode === "refresh") rfRecord(q, r);
-      sfx(r ? "ok" : "flip");
-      if (ui.sheet?.mode === "quizz" && ui.qrun) {
-        const R = ui.qrun;
-        if (R.cur?.id !== q.id) {
-          R.cur = { id: q.id, r, c };
-          R.res.push({ q, r, c });
-        }
-        qzKeep();
-      } else {
-        const d = ui.sheet?.date || today;
-        S.rfa = { ...(S.rfa || {}), [d]: { ...((S.rfa || {})[d] || {}), [q.id]: { r, c } } };
-      }
-      commit();
-      renderSheet();
-      break;
-    }
-    case "qznext": {
-      const R = ui.qrun;
-      if (R) {
-        R.i++;
-        R.cur = null;
-        qzKeep();
-        save();
-      }
-      sfx("tap");
-      renderSheet();
-      break;
-    }
-    case "qzstop": {
-      const R = ui.qrun;
-      if (R) {
-        R.qs = R.qs.slice(0, R.res.length);
-        R.i = R.qs.length;
-      }
-      renderSheet();
-      break;
-    }
-    case "qzagain": {
-      ui.qrun = null;
-      renderSheet();
-      break;
-    }
-    case "qzend": {
-      ui.qrun = null;
-      goBack();
-      break;
-    }
-    case "qzpast": {
-      ui.qzv = b.dataset.id;
-      renderSheet();
-      break;
-    }
-    case "qzback": {
-      ui.qzv = null;
-      renderSheet();
-      break;
-    }
-    case "qgen": {
-      qGen();
-      break;
-    }
-    case "rfday": {
-      const R = RFS(),
-        d = +b.dataset.d,
-        days = R.days.includes(d) ? R.days.filter((x) => x !== d) : [...R.days, d];
-      S.rfs = { ...(S.rfs || {}), days };
-      delete (S.rfp || {})[today];
-      sfx("tap");
-      commit();
-      renderSheet();
-      break;
-    }
-    case "dts": {
-      ui.dts = b.dataset.s;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "dtreset": {
-      const sc = ui.dts || "all";
-      if (sc[0] === "w") {
-        const w = { ...(S.dayW || {}) };
-        delete w[sc.slice(1)];
-        S.dayW = w;
-      } else if (sc.startsWith("d:")) {
-        const o = { ...(S.dayOver || {}) };
-        delete o[sc.slice(2)];
-        S.dayOver = o;
-      }
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "wfguide": {
-      sfx("flip");
-      openSheet({ mode: "wfguide" });
-      break;
-    }
-    case "wsprint": {
-      const u = unitByK(k),
-        w = wsOf(u)[+b.dataset.i];
-      if (w) {
-        sfx("ok");
-        printDoc(wsPage(w, u));
-      }
-      break;
-    }
-    case "wssave": {
-      const u = unitByK(k),
-        w = wsOf(u)[+b.dataset.i];
-      if (w) saveDoc(wsPage(w, u), `${w.title.replace(/[^\w ]+/g, "").trim()}.html`);
-      break;
-    }
-    case "wsview": {
-      sfx("flip");
-      openSheet({ mode: "wsv", k, i: +b.dataset.i });
-      break;
-    }
-    case "plv":
-    case "pdep": {
-      const s = b.dataset.s,
-        f = a === "plv" ? "lvl" : "depth";
-      S.prof = {
-        ...(S.prof || {}),
-        [s]: {
-          ...((S.prof || {})[s] || {}),
-          [f]: b.dataset.v,
-          ...(a === "plv" ? { why: "set by you", at: today } : {}),
-        },
-      };
-      sfx("tick");
-      save();
-      render();
-      break;
-    }
-    case "cgprint": {
-      const u = unitByK(k);
-      if (u?.c?.p?.game) {
-        sfx("ok");
-        printDoc(wsPage(gameSheet(u), u));
-      }
-      break;
-    }
-    case "cgview": {
-      sfx("flip");
-      openSheet({ mode: "wsv", k, game: 1 });
-      break;
-    }
-    case "tqt": {
-      ui.tq = b.dataset.t;
-      ui.qpick = null;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "qzs": {
-      sfx("flip");
-      openSheet({ mode: "qzs", k, n: +b.dataset.n });
-      break;
-    }
-    case "lt": {
-      navPush();
-      ui.lt = b.dataset.t;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "invadd": {
-      S.inv = [
-        ...(S.inv || []),
-        { id: Math.random().toString(36).slice(2, 9), name: b.dataset.n, cat: b.dataset.c || "other", from: "tap" },
-      ];
-      sfx("ok");
-      toast("Added to what we have");
-      commit();
-      break;
-    }
-    case "invnew": {
-      const n = document.getElementById("invName").value.trim();
-      if (!n) return;
-      S.inv = [
-        ...(S.inv || []),
-        { id: Math.random().toString(36).slice(2, 9), name: n, cat: document.getElementById("invCat").value },
-      ];
-      sfx("ok");
-      commit();
-      clearIn("invName");
-      break;
-    }
-    case "signout": {
-      window.DK_PLATFORM?.signOut?.();
-      break;
-    }
-    case "invsel": {
-      ui.invSel = ui.invSel === b.dataset.i ? null : b.dataset.i;
-      sfx("tap");
-      render();
-      break;
-    }
-    case "invdel": {
-      S.inv = (S.inv || []).filter((i) => i.id !== b.dataset.i);
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "lvl": {
+    if (ty === "les") {
       const s = b.dataset.s;
-      S.levels[s] = Math.min(5, Math.max(1, S.levels[s] + +b.dataset.d));
-      ui.view[s] = S.levels[s];
-      sfx("tick");
+      S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== key) };
+      S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== key) };
+    } else {
+      const W = WK();
+      W[key] = { ...(W[key] || {}), st: "skip" };
+      WQ()[ty] = (WQ()[ty] || []).filter((x) => x !== r);
+    }
+    sfx("flip");
+    commit();
+    toast("Taken out. You can bring it back from its chapter.");
+  },
+  hty(b, e, a, k) {
+    ui.hty = b.dataset.t;
+    ui.hn = 25;
+    sfx("tap");
+    render();
+  },
+  hs(b, e, a, k) {
+    ui.hs = b.dataset.s;
+    ui.hn = 25;
+    sfx("tap");
+    render();
+  },
+  hmore(b, e, a, k) {
+    ui.hn = (ui.hn || 25) + 25;
+    render();
+  },
+  morejg(b, e, a, k) {
+    ui.jg = (ui.jg || 0) + 1;
+    sfx("flip");
+    renderSheet();
+  },
+  tdtick(b, e, a, k) {
+    const x = (S.todos || []).find((z) => z.id === b.dataset.t);
+    if (x) {
+      x.done = !x.done;
+      x.doneOn = x.done ? today : null;
+      sfx(x.done ? "tick" : "flip");
       commit();
-      break;
     }
-    case "day": {
-      const s = b.dataset.s,
-        d = +b.dataset.d,
-        cur = new Set(daysOf(s));
-      cur.has(d) ? cur.delete(d) : cur.add(d);
-      if (cur.size) {
-        S.days = { ...S.days, [s]: [...cur].sort() };
-        sfx("tap");
-        commit();
-      }
-      break;
+  },
+  subtog(b, e, a, k) {
+    const s = b.dataset.s,
+      on = S.subjects.includes(s);
+    if (on && S.subjects.length < 2) {
+      sfx("no");
+      toast("Keep at least one subject");
+      return;
     }
-    case "lsub": {
-      ui.lsub = b.dataset.s;
-      sfx("tap");
-      render();
-      break;
+    S.subjects = on ? S.subjects.filter((x) => x !== s) : SUBJ_KEYS.filter((x) => x === s || S.subjects.includes(x));
+    if (!on) {
+      S.levels = { ...S.levels, [s]: S.levels?.[s] || S.levels?.sci || 1 };
     }
-    case "view": {
-      ui.view[b.dataset.s] = +b.dataset.l;
-      sfx("tap");
-      render();
-      break;
+    sfx(on ? "flip" : "ok");
+    commit();
+    toast(on ? `${SUBJ[s]} left out. Its progress is kept.` : `${SUBJ[s]} added. It's in Today and the Queue now.`);
+  },
+  pacego(b, e, a, k) {
+    navPush();
+    ui.seg = { ...(ui.seg || {}), week: "family" };
+    sfx("flip");
+    render();
+    setTimeout(() => document.getElementById("paceSec")?.scrollIntoView({ behavior: "smooth", block: "start" }), 60);
+  },
+  ist(b, e, a, k) {
+    const key = k + "|" + b.dataset.id,
+      W = WK(),
+      w = W[key] || {},
+      to = b.dataset.to;
+    if (to === "none") {
+      if (w.st !== "planned") delete w.st;
+      W[key] = w;
+    } else if (to === "skip") W[key] = { ...w, st: "skip" };
+    else if (to === "undo") {
+      if (S.tasks[k + "#" + b.dataset.id]) delete S.tasks[k + "#" + b.dataset.id].ws;
+      delete w.st;
+      W[key] = w;
     }
-    case "setlvl": {
-      S.levels[b.dataset.s] = +b.dataset.l;
-      sfx("tick");
-      commit();
-      break;
+    sfx("flip");
+    commit();
+    if (sheet.open) renderSheet();
+    toast(to === "skip" ? "Marked not doing" : to === "undo" ? "Back to not finished" : "Done");
+  },
+  quizgo(b, e, a, k) {
+    sfx("flip");
+    ui.qrun = null;
+    ui.qzv = null;
+    openSheet({ mode: "quizz" });
+  },
+  qall(b, e, a, k) {
+    ui.qall = !ui.qall;
+    sfx("tap");
+    render();
+  },
+  tofinish(b, e, a, k) {
+    navPush();
+    tab = "week";
+    ui.seg = { ...(ui.seg || {}), week: "finish" };
+    sfx("flip");
+    render();
+    scrollTo(0, 0);
+  },
+  qzresume(b, e, a, k) {
+    sfx("flip");
+    ui.qrun = { ...S.qzopen.run, i: S.qzopen.run.res.length, cur: null };
+    ui.qzv = null;
+    openSheet({ mode: "quizz" });
+  },
+  rfset(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "rfset" });
+  },
+  qzset(b, e, a, k) {
+    const Z = (ui.qz = ui.qz || {}),
+      v = b.dataset.v;
+    Z[b.dataset.key] = /^\d+$/.test(v) ? +v : v;
+    sfx("tap");
+    renderSheet();
+  },
+  qzstart(b, e, a, k) {
+    const Z = ui.qz,
+      N = Z.by === "n" ? Z.n : Z.m * 2,
+      P = quizPool(Z.s, Z.focus);
+    if (!P.length) return;
+    const head = Z.focus === "mix" ? P.slice(0, Math.ceil(N / 2)) : [],
+      rest = P.filter((q) => !head.includes(q));
+    for (let i = rest.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [rest[i], rest[j]] = [rest[j], rest[i]];
     }
-    case "check": {
-      const x = S.exps.find((x) => x.id === b.dataset.e);
-      if (x && !x.checks.includes(today)) {
-        x.checks.push(today);
-        sfx("ok");
-        commit();
-      }
-      break;
+    const qs = [...head, ...rest].slice(0, N);
+    for (let i = qs.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [qs[i], qs[j]] = [qs[j], qs[i]];
     }
-    case "close": {
-      const x = S.exps.find((x) => x.id === b.dataset.e);
-      if (x) {
-        x.closed = true;
-        x.end = today;
-        sfx("win");
-        confetti();
-        toast("Finished: " + x.title);
-        commit();
-      }
-      break;
-    }
-    case "addexp": {
-      const v = document.getElementById("newExp").value.trim();
-      if (v) {
-        addExp(v, "Our own experiment");
-        sfx("ok");
-        commit();
-        clearIn("newExp");
-      }
-      break;
-    }
-    case "joke": {
-      ui.jokes[b.dataset.j] = !ui.jokes[b.dataset.j];
-      sfx(ui.jokes[b.dataset.j] ? "ok" : "flip");
-      sheet.open ? renderSheet() : render();
-      break;
-    }
-    case "gtab": {
-      ui.game = b.dataset.g;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
-    case "wk": {
-      const u = dailyUnit();
-      if (!u) return;
-      const word = u.c.x.words[dayNo % u.c.x.words.length],
-        g = G();
-      g.cur = g.cur || "";
-      const key = b.dataset.key;
-      if (g.g.includes(word) || g.g.length >= 6) return;
-      if (key === "DEL") {
-        g.cur = g.cur.slice(0, -1);
-        sfx("key");
-      } else if (key === "ENTER") {
-        if (g.cur.length === 5) {
-          g.g.push(g.cur);
-          const w = g.cur === word;
-          g.cur = "";
-          sfx(w ? "win" : g.g.length >= 6 ? "no" : "flip");
-          if (w) confetti();
-          S.updatedAt = Date.now();
-          save();
-        } else {
-          sfx("no");
-          toast("Five letters, please");
+    ui.qrun = { s: Z.s, by: Z.by, qs, i: 0, res: [], end: Z.by === "m" ? Date.now() + Z.m * 60000 : null };
+    clearInterval(ui.qtick);
+    if (ui.qrun.end)
+      ui.qtick = setInterval(() => {
+        const R = ui.qrun;
+        if (!R || ui.sheet?.mode !== "quizz" || R.saved) {
+          clearInterval(ui.qtick);
+          return;
         }
-      } else if (g.cur.length < 5) {
-        g.cur += key;
-        sfx("key");
+        const e = document.getElementById("qzleft"),
+          l = Math.max(0, Math.round((R.end - Date.now()) / 1000));
+        if (e) e.textContent = Math.floor(l / 60) + ":" + String(l % 60).padStart(2, "0");
+        if (!l) renderSheet();
+      }, 1000);
+    sfx("ok");
+    renderSheet();
+  },
+  qans(b, e, a, k) {
+    const q = (window._qmap || {})[b.dataset.id];
+    if (!q) return;
+    const c = b.dataset.c != null ? +b.dataset.c : null,
+      r = c != null ? c === q.ans : b.dataset.r === "1";
+    qRecord(q, r);
+    if (ui.sheet?.mode === "refresh") rfRecord(q, r);
+    sfx(r ? "ok" : "flip");
+    if (ui.sheet?.mode === "quizz" && ui.qrun) {
+      const R = ui.qrun;
+      if (R.cur?.id !== q.id) {
+        R.cur = { id: q.id, r, c };
+        R.res.push({ q, r, c });
       }
-      renderSheet();
-      break;
+      qzKeep();
+    } else {
+      const d = ui.sheet?.date || today;
+      S.rfa = { ...(S.rfa || {}), [d]: { ...((S.rfa || {})[d] || {}), [q.id]: { r, c } } };
     }
-    case "tf": {
-      const u = dailyUnit(),
-        q = u.c.x.quiz[+b.dataset.i];
-      G().tf[b.dataset.i] = +b.dataset.v;
-      sfx((+b.dataset.v === 1) === q[1] ? "ok" : "no");
-      if (Object.keys(G().tf).length === u.c.x.quiz.length) setTimeout(() => sfx("win"), 300);
-      commit();
-      break;
+    commit();
+    renderSheet();
+  },
+  qznext(b, e, a, k) {
+    const R = ui.qrun;
+    if (R) {
+      R.i++;
+      R.cur = null;
+      qzKeep();
+      save();
     }
-    case "odd": {
-      const u = dailyUnit(),
-        o = u.c.x.odd[dayNo % u.c.x.odd.length],
-        g = G();
-      if (!g.odd) {
-        g.odd = b.dataset.w;
-        sfx(g.odd === o[1] ? "win" : "no");
-        if (g.odd === o[1]) confetti();
-        commit();
-      }
-      break;
+    sfx("tap");
+    renderSheet();
+  },
+  qzstop(b, e, a, k) {
+    const R = ui.qrun;
+    if (R) {
+      R.qs = R.qs.slice(0, R.res.length);
+      R.i = R.qs.length;
     }
-    case "mcq": {
-      setA(k, b.dataset.id, +b.dataset.o);
-      sfx(+b.dataset.o === +b.dataset.a ? "ok" : "no");
-      commit();
-      break;
+    renderSheet();
+  },
+  qzagain(b, e, a, k) {
+    ui.qrun = null;
+    renderSheet();
+  },
+  qzend(b, e, a, k) {
+    ui.qrun = null;
+    goBack();
+  },
+  qzpast(b, e, a, k) {
+    ui.qzv = b.dataset.id;
+    renderSheet();
+  },
+  qzback(b, e, a, k) {
+    ui.qzv = null;
+    renderSheet();
+  },
+  qgen(b, e, a, k) {
+    qGen();
+  },
+  rfday(b, e, a, k) {
+    const R = RFS(),
+      d = +b.dataset.d,
+      days = R.days.includes(d) ? R.days.filter((x) => x !== d) : [...R.days, d];
+    S.rfs = { ...(S.rfs || {}), days };
+    delete (S.rfp || {})[today];
+    sfx("tap");
+    commit();
+    renderSheet();
+  },
+  dts(b, e, a, k) {
+    ui.dts = b.dataset.s;
+    sfx("tap");
+    render();
+  },
+  dtreset(b, e, a, k) {
+    const sc = ui.dts || "all";
+    if (sc[0] === "w") {
+      const w = { ...(S.dayW || {}) };
+      delete w[sc.slice(1)];
+      S.dayW = w;
+    } else if (sc.startsWith("d:")) {
+      const o = { ...(S.dayOver || {}) };
+      delete o[sc.slice(2)];
+      S.dayOver = o;
     }
-    case "mcqreset": {
-      delete S.ans[k][b.dataset.id];
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "checkfill": {
-      const ans = JSON.parse(b.dataset.a),
-        v = A(k, b.dataset.id) || [],
-        n = (s) =>
-          String(s || "")
-            .trim()
-            .toLowerCase();
-      const good = ans.every((x, i) => {
-        const w = n(v[i]);
-        return w && (n(x).includes(w) || w.includes(n(x).split(/[ (]/)[0]));
-      });
-      sfx(good ? "ok" : "no");
-      toast(good ? "Looks right" : "Have another look");
-      break;
-    }
-    case "showfill": {
-      sfx("flip");
-      toast(b.dataset.a);
-      break;
-    }
-    case "fadd": {
-      const v = A(k, b.dataset.id) || { fs: [] },
-        sel =
-          (ui.fsel || {})[k + b.dataset.id] || document.querySelector(`[data-fsel][data-fid="${b.dataset.id}"]`)?.value;
-      if (sel) {
-        setA(k, b.dataset.id, { fs: [...(v.fs || []), { name: sel, dir: b.dataset.dir }], checked: false });
-        sfx("tap");
-        commit();
-      }
-      break;
-    }
-    case "fdel": {
-      const v = A(k, b.dataset.id) || { fs: [] };
-      setA(k, b.dataset.id, { fs: (v.fs || []).filter((_, i) => i !== +b.dataset.i), checked: false });
-      commit();
-      break;
-    }
-    case "fcheck": {
-      const v = A(k, b.dataset.id) || { fs: [] };
-      setA(k, b.dataset.id, { ...v, checked: true });
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "fshow": {
-      const v = A(k, b.dataset.id) || { fs: [] };
-      setA(k, b.dataset.id, { ...v, shown: true });
-      commit();
-      break;
-    }
-    case "aidraw": {
-      aiCheckDraw(k, b.dataset.id);
-      break;
-    }
-    case "drew": {
-      if (A(k, b.dataset.id)) delete S.ans[k][b.dataset.id];
-      else {
-        setA(k, b.dataset.id, today);
-        sfx("ok");
-      }
-      commit();
-      break;
-    }
-    case "tok": {
-      const key = k + b.dataset.id;
-      ui.sel[key] = ui.sel[key] === b.dataset.x ? undefined : b.dataset.x;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
-    case "bucket": {
-      const sel = ui.sel[k + b.dataset.id];
-      if (sel === undefined) return;
-      const v = { ...(A(k, b.dataset.id) || {}) };
-      v[sel] = +b.dataset.c;
-      setA(k, b.dataset.id, v);
-      ui.sel[k + b.dataset.id] = undefined;
-      sfx("tick");
-      commit();
-      break;
-    }
-    case "untok": {
-      const v = { ...(A(k, b.dataset.id) || {}) };
-      delete v[b.dataset.x];
-      setA(k, b.dataset.id, v);
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "mleft": {
-      ui.sel[k + b.dataset.id] = b.dataset.x;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
-    case "mright": {
-      const l = ui.sel[k + b.dataset.id];
-      if (!l) {
-        sfx("no");
-        toast("Tap a word on the left first");
-        return;
-      }
-      const v = { ...(A(k, b.dataset.id) || {}) };
-      Object.keys(v).forEach((x) => {
-        if (v[x] === b.dataset.x) delete v[x];
-      });
-      v[l] = b.dataset.x;
-      setA(k, b.dataset.id, v);
-      ui.sel[k + b.dataset.id] = undefined;
-      const [si, ii] = b.dataset.id.split("-").map(Number),
-        it = unitBy(k).c.x.wsd[si][1][ii];
-      sfx(it.pairs.some((p) => p[0] === l && p[1] === b.dataset.x) ? "ok" : "tick");
-      commit();
-      break;
-    }
-    case "mreset": {
-      setA(k, b.dataset.id, {});
-      sfx("flip");
-      commit();
-      break;
-    }
-    case "clearpad": {
-      const c = document.querySelector(`canvas[data-pad="${CSS.escape(b.dataset.pad)}"]`);
-      if (c) c.getContext("2d").clearRect(0, 0, c.width, c.height);
-      sfx("flip");
-      break;
-    }
-    case "saveset": {
-      S.child = document.getElementById("sName").value.trim();
-      const v = document.getElementById("sStart").value;
-      if (v) S.start = v;
+    sfx("flip");
+    commit();
+  },
+  wfguide(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "wfguide" });
+  },
+  wsprint(b, e, a, k) {
+    const u = unitByK(k),
+      w = wsOf(u)[+b.dataset.i];
+    if (w) {
       sfx("ok");
-      S.updatedAt = Date.now();
-      render();
-      saveNow().then((ok) =>
-        toast(ok || !store ? "Saved" : "Couldn't reach your account. Saved on this phone; it will retry."),
-      );
-      break;
+      printDoc(wsPage(w, u));
     }
-    case "redo": {
-      sheet.close();
-      startOnboarding(1);
-      break;
+  },
+  wssave(b, e, a, k) {
+    const u = unitByK(k),
+      w = wsOf(u)[+b.dataset.i];
+    if (w) saveDoc(wsPage(w, u), `${w.title.replace(/[^\w ]+/g, "").trim()}.html`);
+  },
+  wsview(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "wsv", k, i: +b.dataset.i });
+  },
+  pdep(b, e, a, k) {
+    const s = b.dataset.s,
+      f = a === "plv" ? "lvl" : "depth";
+    S.prof = {
+      ...(S.prof || {}),
+      [s]: {
+        ...((S.prof || {})[s] || {}),
+        [f]: b.dataset.v,
+        ...(a === "plv" ? { why: "set by you", at: today } : {}),
+      },
+    };
+    sfx("tick");
+    save();
+    render();
+  },
+  cgprint(b, e, a, k) {
+    const u = unitByK(k);
+    if (u?.c?.p?.game) {
+      sfx("ok");
+      printDoc(wsPage(gameSheet(u), u));
     }
-  }
-}
+  },
+  cgview(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "wsv", k, game: 1 });
+  },
+  tqt(b, e, a, k) {
+    ui.tq = b.dataset.t;
+    ui.qpick = null;
+    sfx("tap");
+    render();
+  },
+  qzs(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "qzs", k, n: +b.dataset.n });
+  },
+  lt(b, e, a, k) {
+    navPush();
+    ui.lt = b.dataset.t;
+    sfx("tap");
+    render();
+  },
+  invadd(b, e, a, k) {
+    S.inv = [...(S.inv || []), { id: newId(), name: b.dataset.n, cat: b.dataset.c || "other", from: "tap" }];
+    sfx("ok");
+    toast("Added to what we have");
+    commit();
+  },
+  invnew(b, e, a, k) {
+    const n = document.getElementById("invName").value.trim();
+    if (!n) return;
+    S.inv = [...(S.inv || []), { id: newId(), name: n, cat: document.getElementById("invCat").value }];
+    sfx("ok");
+    commit();
+    clearIn("invName");
+  },
+  signout(b, e, a, k) {
+    window.DK_PLATFORM?.signOut?.();
+  },
+  invsel(b, e, a, k) {
+    ui.invSel = ui.invSel === b.dataset.i ? null : b.dataset.i;
+    sfx("tap");
+    render();
+  },
+  invdel(b, e, a, k) {
+    S.inv = (S.inv || []).filter((i) => i.id !== b.dataset.i);
+    sfx("flip");
+    commit();
+  },
+  lvl(b, e, a, k) {
+    const s = b.dataset.s;
+    S.levels[s] = Math.min(5, Math.max(1, S.levels[s] + +b.dataset.d));
+    sfx("tick");
+    commit();
+  },
+  day(b, e, a, k) {
+    const s = b.dataset.s,
+      d = +b.dataset.d,
+      cur = new Set(daysOf(s));
+    cur.has(d) ? cur.delete(d) : cur.add(d);
+    if (cur.size) {
+      S.days = { ...S.days, [s]: [...cur].sort() };
+      sfx("tap");
+      commit();
+    }
+  },
+  check(b, e, a, k) {
+    const x = S.exps.find((x) => x.id === b.dataset.e);
+    if (x && !x.checks.includes(today)) {
+      x.checks.push(today);
+      sfx("ok");
+      commit();
+    }
+  },
+  close(b, e, a, k) {
+    const x = S.exps.find((x) => x.id === b.dataset.e);
+    if (x) {
+      x.closed = true;
+      x.end = today;
+      sfx("win");
+      confetti();
+      toast("Finished: " + x.title);
+      commit();
+    }
+  },
+  addexp(b, e, a, k) {
+    const v = document.getElementById("newExp").value.trim();
+    if (v) {
+      addExp(v, "Our own experiment");
+      sfx("ok");
+      commit();
+      clearIn("newExp");
+    }
+  },
+  joke(b, e, a, k) {
+    ui.jokes[b.dataset.j] = !ui.jokes[b.dataset.j];
+    sfx(ui.jokes[b.dataset.j] ? "ok" : "flip");
+    sheet.open ? renderSheet() : render();
+  },
+  gtab(b, e, a, k) {
+    ui.game = b.dataset.g;
+    sfx("tap");
+    renderSheet();
+  },
+  wk(b, e, a, k) {
+    const u = dailyUnit();
+    if (!u) return;
+    const word = u.c.x.words[dayNo % u.c.x.words.length],
+      g = G();
+    g.cur = g.cur || "";
+    const key = b.dataset.key;
+    if (g.g.includes(word) || g.g.length >= 6) return;
+    if (key === "DEL") {
+      g.cur = g.cur.slice(0, -1);
+      sfx("key");
+    } else if (key === "ENTER") {
+      if (g.cur.length === 5) {
+        g.g.push(g.cur);
+        const w = g.cur === word;
+        g.cur = "";
+        sfx(w ? "win" : g.g.length >= 6 ? "no" : "flip");
+        if (w) confetti();
+        S.updatedAt = Date.now();
+        save();
+      } else {
+        sfx("no");
+        toast("Five letters, please");
+      }
+    } else if (g.cur.length < 5) {
+      g.cur += key;
+      sfx("key");
+    }
+    renderSheet();
+  },
+  tf(b, e, a, k) {
+    const u = dailyUnit(),
+      q = u.c.x.quiz[+b.dataset.i];
+    G().tf[b.dataset.i] = +b.dataset.v;
+    sfx((+b.dataset.v === 1) === q[1] ? "ok" : "no");
+    if (Object.keys(G().tf).length === u.c.x.quiz.length) setTimeout(() => sfx("win"), 300);
+    commit();
+  },
+  odd(b, e, a, k) {
+    const u = dailyUnit(),
+      o = u.c.x.odd[dayNo % u.c.x.odd.length],
+      g = G();
+    if (!g.odd) {
+      g.odd = b.dataset.w;
+      sfx(g.odd === o[1] ? "win" : "no");
+      if (g.odd === o[1]) confetti();
+      commit();
+    }
+  },
+  mcq(b, e, a, k) {
+    setA(k, b.dataset.id, +b.dataset.o);
+    sfx(+b.dataset.o === +b.dataset.a ? "ok" : "no");
+    commit();
+  },
+  mcqreset(b, e, a, k) {
+    delete S.ans[k][b.dataset.id];
+    sfx("flip");
+    commit();
+  },
+  checkfill(b, e, a, k) {
+    const ans = JSON.parse(b.dataset.a),
+      v = A(k, b.dataset.id) || [],
+      n = (s) =>
+        String(s || "")
+          .trim()
+          .toLowerCase();
+    const good = ans.every((x, i) => {
+      const w = n(v[i]);
+      return w && (n(x).includes(w) || w.includes(n(x).split(/[ (]/)[0]));
+    });
+    sfx(good ? "ok" : "no");
+    toast(good ? "Looks right" : "Have another look");
+  },
+  showfill(b, e, a, k) {
+    sfx("flip");
+    toast(b.dataset.a);
+  },
+  fadd(b, e, a, k) {
+    const v = A(k, b.dataset.id) || { fs: [] },
+      sel =
+        (ui.fsel || {})[k + b.dataset.id] || document.querySelector(`[data-fsel][data-fid="${b.dataset.id}"]`)?.value;
+    if (sel) {
+      setA(k, b.dataset.id, { fs: [...(v.fs || []), { name: sel, dir: b.dataset.dir }], checked: false });
+      sfx("tap");
+      commit();
+    }
+  },
+  fdel(b, e, a, k) {
+    const v = A(k, b.dataset.id) || { fs: [] };
+    setA(k, b.dataset.id, { fs: (v.fs || []).filter((_, i) => i !== +b.dataset.i), checked: false });
+    commit();
+  },
+  fcheck(b, e, a, k) {
+    const v = A(k, b.dataset.id) || { fs: [] };
+    setA(k, b.dataset.id, { ...v, checked: true });
+    sfx("flip");
+    commit();
+  },
+  fshow(b, e, a, k) {
+    const v = A(k, b.dataset.id) || { fs: [] };
+    setA(k, b.dataset.id, { ...v, shown: true });
+    commit();
+  },
+  aidraw(b, e, a, k) {
+    aiCheckDraw(k, b.dataset.id);
+  },
+  drew(b, e, a, k) {
+    if (A(k, b.dataset.id)) delete S.ans[k][b.dataset.id];
+    else {
+      setA(k, b.dataset.id, today);
+      sfx("ok");
+    }
+    commit();
+  },
+  tok(b, e, a, k) {
+    const key = k + b.dataset.id;
+    ui.sel[key] = ui.sel[key] === b.dataset.x ? undefined : b.dataset.x;
+    sfx("tap");
+    renderSheet();
+  },
+  bucket(b, e, a, k) {
+    const sel = ui.sel[k + b.dataset.id];
+    if (sel === undefined) return;
+    const v = { ...(A(k, b.dataset.id) || {}) };
+    v[sel] = +b.dataset.c;
+    setA(k, b.dataset.id, v);
+    ui.sel[k + b.dataset.id] = undefined;
+    sfx("tick");
+    commit();
+  },
+  untok(b, e, a, k) {
+    const v = { ...(A(k, b.dataset.id) || {}) };
+    delete v[b.dataset.x];
+    setA(k, b.dataset.id, v);
+    sfx("flip");
+    commit();
+  },
+  mleft(b, e, a, k) {
+    ui.sel[k + b.dataset.id] = b.dataset.x;
+    sfx("tap");
+    renderSheet();
+  },
+  mright(b, e, a, k) {
+    const l = ui.sel[k + b.dataset.id];
+    if (!l) {
+      sfx("no");
+      toast("Tap a word on the left first");
+      return;
+    }
+    const v = { ...(A(k, b.dataset.id) || {}) };
+    Object.keys(v).forEach((x) => {
+      if (v[x] === b.dataset.x) delete v[x];
+    });
+    v[l] = b.dataset.x;
+    setA(k, b.dataset.id, v);
+    ui.sel[k + b.dataset.id] = undefined;
+    const [si, ii] = b.dataset.id.split("-").map(Number),
+      it = unitBy(k).c.x.wsd[si][1][ii];
+    sfx(it.pairs.some((p) => p[0] === l && p[1] === b.dataset.x) ? "ok" : "tick");
+    commit();
+  },
+  mreset(b, e, a, k) {
+    setA(k, b.dataset.id, {});
+    sfx("flip");
+    commit();
+  },
+  clearpad(b, e, a, k) {
+    const c = document.querySelector(`canvas[data-pad="${CSS.escape(b.dataset.pad)}"]`);
+    if (c) c.getContext("2d").clearRect(0, 0, c.width, c.height);
+    sfx("flip");
+  },
+  saveset(b, e, a, k) {
+    S.child = document.getElementById("sName").value.trim();
+    const v = document.getElementById("sStart").value;
+    if (v) S.start = v;
+    sfx("ok");
+    S.updatedAt = Date.now();
+    render();
+    saveNow().then((ok) =>
+      toast(ok || !store ? "Saved" : "Couldn't reach your account. Saved on this phone; it will retry."),
+    );
+  },
+  redo(b, e, a, k) {
+    sheet.close();
+    startOnboarding(1);
+  },
+};
+ACT.delprofile = ACT.delprofileno;
+ACT.iofin = ACT.ioskipday;
+ACT.ioskip = ACT.ioskipday;
+ACT.iosnz = ACT.ioskipday;
+ACT.iodone = ACT.ioskipday;
+ACT.rslike = ACT.rsdone;
+ACT.plv = ACT.pdep;
 /* event dialog */
-const evd = document.getElementById("evd");
-let evRep = "once";
-const [evForm, eDate, eErr, eDays, eRep, eDateF, eDaysF, eTitle, eEnd, eStart, eKind, eWho, eNote] = [
-  "evForm",
-  "eDate",
-  "eErr",
-  "eDays",
-  "eRep",
-  "eDateF",
-  "eDaysF",
-  "eTitle",
-  "eEnd",
-  "eStart",
-  "eKind",
-  "eWho",
-  "eNote",
-].map((id) => document.getElementById(id));
-function openEv() {
-  evForm.reset();
-  eDate.value = ui.wday || today;
-  evRep = "once";
-  syncEv();
-  eErr.hidden = true;
-  eDays.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", "false"));
-  sfx("tap");
-  evd.showModal();
-}
-function syncEv() {
-  eRep.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x.dataset.rep === evRep));
-  eDateF.hidden = evRep !== "once";
-  eDaysF.hidden = evRep === "once";
-}
 const pick = document.getElementById("pick");
 function openPicker() {
   document.getElementById("pickList").replaceChildren(
@@ -18707,21 +18254,23 @@ document.addEventListener("click", (e) => {
   const r = m.getBoundingClientRect();
   burst(r.left + r.width / 2, r.top, MTIPS[Math.floor(Math.random() * MTIPS.length)]);
 });
+/* the buttons that finish a piece of work: a chime, and a cheer bubble (below) */
+const finishesWork = (b) => {
+  const a = b.dataset.act;
+  return (
+    (a === "wkst" && b.dataset.to === "done") ||
+    (a === "qz" && b.dataset.r === "1") ||
+    a === "evsave" ||
+    a === "iofin" ||
+    a === "iodone" ||
+    a === "drew"
+  );
+};
 document.addEventListener(
   "click",
   (e) => {
     const b = e.target.closest?.("[data-act]");
-    if (!b) return;
-    const a = b.dataset.act;
-    if (
-      (a === "wkst" && b.dataset.to === "done") ||
-      (a === "qz" && b.dataset.r === "1") ||
-      a === "evsave" ||
-      a === "iofin" ||
-      a === "iodone" ||
-      a === "drew"
-    )
-      setTimeout(() => sfx("chime"), 120);
+    if (b && finishesWork(b)) setTimeout(() => sfx("chime"), 120);
   },
   true,
 );
@@ -18767,12 +18316,7 @@ document.addEventListener(
     const a = b.dataset.act,
       done =
         a === "pdone" ||
-        (a === "wkst" && b.dataset.to === "done") ||
-        (a === "qz" && b.dataset.r === "1") ||
-        a === "evsave" ||
-        a === "iofin" ||
-        a === "iodone" ||
-        a === "drew" ||
+        finishesWork(b) ||
         (a === "tlcheck" &&
           b.closest(".tr") &&
           !b.closest(".tr.done") &&
@@ -19130,7 +18674,6 @@ sheet.addEventListener("close", () => {
   ui.phelp = null;
   sheet.className = "sheet";
   ui.sheet = null;
-  clearInterval(tick);
   render();
   updBack();
 });
@@ -19246,61 +18789,6 @@ document.addEventListener("change", (e) => {
     ob.d.levels[t.dataset.s] = +t.value;
     sfx("tap");
   }
-});
-document.getElementById("eDays").innerHTML = [1, 2, 3, 4, 5, 6, 0]
-  .map((d) => `<button type="button" data-d="${d}" aria-pressed="false">${DAYN[d]}</button>`)
-  .join("");
-eRep.addEventListener("click", (e) => {
-  const x = e.target.closest("button");
-  if (!x) return;
-  evRep = x.dataset.rep;
-  syncEv();
-  sfx("tap");
-});
-eDays.addEventListener("click", (e) => {
-  const x = e.target.closest("button");
-  if (!x) return;
-  x.setAttribute("aria-pressed", x.getAttribute("aria-pressed") !== "true");
-  sfx("tap");
-});
-evForm.addEventListener("submit", (e) => {
-  if (!e.submitter || e.submitter.value !== "save") return;
-  const days = [...eDays.querySelectorAll('[aria-pressed="true"]')].map((x) => +x.dataset.d);
-  const err = !eTitle.value.trim()
-    ? "Give it a name."
-    : evRep === "weekly" && !days.length
-      ? "Pick at least one day."
-      : evRep === "once" && !eDate.value
-        ? "Pick a date."
-        : hm(eEnd.value) <= hm(eStart.value)
-          ? "The end time must be after the start."
-          : "";
-  if (err) {
-    e.preventDefault();
-    eErr.textContent = err;
-    eErr.hidden = false;
-    sfx("no");
-    return;
-  }
-  S.events = [
-    ...(S.events || []),
-    {
-      id: Math.random().toString(36).slice(2, 9),
-      title: eTitle.value.trim(),
-      kind: eKind.value,
-      who: eKind.value === "outing" && eWho.value === "kid" ? "both" : eWho.value,
-      start: eStart.value,
-      end: eEnd.value,
-      rep: evRep,
-      date: evRep === "once" ? eDate.value : null,
-      days: evRep === "weekly" ? days : [],
-      from: today,
-      note: eNote.value.trim(),
-    },
-  ];
-  sfx("ok");
-  toast("Added to the day");
-  commit();
 });
 document.getElementById("pickList").addEventListener("click", (e) => {
   const b = e.target.closest("button");

@@ -47,13 +47,6 @@ function qBank(u) {
   (S.qgen?.[u.k] || []).forEach((o) => add({ ...o, kind: o.opts ? "mcq" : "open", gen: true }));
   return out;
 }
-const lastLearn = (u) => {
-  let d = "";
-  S.log.forEach((l) => {
-    if (l.key === u.k && l.date > d) d = l.date;
-  });
-  return d || S.progress?.[u.k]?.updated || "";
-};
 function learnedUnits() {
   const ks = new Set([
     ...S.log.map((l) => l.key),
@@ -109,8 +102,7 @@ function masteryLists() {
   learnedUnits().forEach((u) => L[masteryOf(u, M)].push(u));
   return L;
 }
-const MGN = { not: "Not grasped yet", grasped: "Grasped", mastered: "Mastered" },
-  RTN = { qz: "Quiz questions" };
+const MGN = { not: "Not grasped yet", grasped: "Grasped", mastered: "Mastered" };
 const RFDEF = { mastered: { every: 10 }, mins: 45, days: [0, 1, 2, 3, 4, 5, 6] };
 function RFS() {
   const s = S.rfs || {};
@@ -319,7 +311,7 @@ function lvqOffer() {
   return `<section class="card"><b style="font:600 var(--fs-5) var(--display)">Check ${esc(S.child || "your child")}'s level</b><p class="sm">A 2-minute quiz per subject. It finds the class your child is at now, so the plan starts in the right place.</p>${r ? `<p class="sm"><b>${SUBJ[r.s]}: Class ${r.lvl}.</b> ${r.lvl === S.levels[r.s] ? "That's the class the plan already uses." : `The plan uses Class ${S.levels[r.s]}.`}</p>${r.lvl !== S.levels[r.s] ? `<button class="btn sm" data-act="lvqset" data-s="${r.s}" data-l="${r.lvl}">Use Class ${r.lvl} for ${SUBJ[r.s]}</button>` : ""}` : ""}<div class="row">${L.map((s) => `<button class="btn soft sm" data-act="lvq" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></section>`;
 }
 function quizzView() {
-  document.getElementById("sheetTitle").textContent = "Quick quiz";
+  setSheetTitle("Quick quiz");
   if (ui.lvq) return lvqCard(ui.lvq, 'data-act="lvqa" data-v');
   if (ui.qrun) return quizRunView();
   if (ui.qzv) return quizPastView();
@@ -380,7 +372,7 @@ function quizRunView() {
       S.qzr = [
         ...(S.qzr || []),
         {
-          id: Math.random().toString(36).slice(2, 9),
+          id: newId(),
           date: today,
           s: R.s,
           by: R.by,
@@ -410,7 +402,7 @@ function quizPastView() {
 }
 /* lists and refresher settings */
 function rfsetView() {
-  document.getElementById("sheetTitle").textContent = "Refresher";
+  setSheetTitle("Refresher");
   return rfsetBody() + rfTiming();
 }
 // the refresher: what is unfinished, what is completed but not mastered, and what is mastered
@@ -540,7 +532,7 @@ const RFSTAT = { open: "not finished last time", learn: "not mastered yet", keep
 function refreshAnswersView() {
   const date = ui.sheet.date || today,
     it = dayPlan(date).find((i) => i.id === "refresh");
-  document.getElementById("sheetTitle").textContent = "Refresher";
+  setSheetTitle("Refresher");
   if (!it)
     return `<p class="note">No refresher today. Units your child completes come into the refresher.</p><button class="link" data-act="rfset">Refresher settings and lists →</button>`;
   const r = it.rf;
@@ -610,7 +602,7 @@ function oddGame(u) {
 }
 function jokesAndGames() {
   const u = dailyUnit();
-  document.getElementById("sheetTitle").textContent = "Jokes and games";
+  setSheetTitle("Jokes and games");
   if (!u) return `<p class="note">Games come from the science chapter you're on. Add Science to see them.</p>`;
   const T = { word: ["Word of the Day", wordGame], tf: ["True or False", tfGame], odd: ["Odd One Out", oddGame] };
   return `${jokeCards(dayJokes())}

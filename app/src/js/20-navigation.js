@@ -183,7 +183,7 @@ function settingsView() {
   )}
   ${grp("sound", "Sound and reading aloud", `${soundOn ? "Sounds on" : "Sounds off"} · ${S.autoRead ? "reads each step aloud" : "read aloud on tap"}`, `<label class="zrow"><input type="checkbox" data-act="sndtoggle" ${soundOn ? "checked" : ""}><span><b class="sm">Sounds</b><br><span class="xs muted">Little chimes when things are done</span></span></label><label class="zrow"><input type="checkbox" data-act="autoread" ${S.autoRead ? "checked" : ""}><span><b class="sm">Read each lesson step aloud</b><br><span class="xs muted">Or tap 🔊 on any screen to hear it</span></span></label>`)}
   <p class="xs muted">${syncMode === "account" ? `Everything is saved privately to your claude.ai account${lastSaved ? " · last saved " + new Date(lastSaved).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : ""}. It follows you to any device where you're signed in.` : store ? "Couldn't reach your account just now. Saved on this device; it will retry." : "Saved in this browser only."}</p>`;
-  document.getElementById("sheetTitle").textContent = "App settings";
+  setSheetTitle("App settings");
   return out;
 }
 const sheet = document.getElementById("sheet");
@@ -267,7 +267,6 @@ function renderSheetBody(top) {
   if (kept) restoreInputs(b, kept);
   sheet.scrollTop = top ? 0 : y;
   requestAnimationFrame(initPads);
-  if (m === "player") paintTimer();
 }
 const NAV = [
   ["today", "Today"],

@@ -67,7 +67,7 @@ function paperView() {
     last = i === n,
     c = p.cards[i],
     st = rsSt();
-  document.getElementById("sheetTitle").textContent = "Research for kids";
+  setSheetTitle("Research for kids");
   // Back and Next sit with the dots above the card, clear of the IAm button in the corner
   const nav = `<div class="rsnav"><button class="btn soft sm" data-act="rsgo" data-i="${i - 1}" ${i ? "" : "disabled"} aria-label="Back">${icon("back")}</button><div class="rsdots">${[...p.cards, null].map((x, k) => `<button data-act="rsgo" data-i="${k}" class="${k === i ? "cur" : ""}" aria-label="${x ? esc(x.t) : "Where this comes from"}"></button>`).join("")}</div><button class="btn sm" data-act="rsgo" data-i="${i + 1}" ${last ? "disabled" : ""}>Next ${icon("next")}</button></div>`;
   const body = last

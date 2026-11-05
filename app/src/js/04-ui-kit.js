@@ -178,6 +178,9 @@ const KL = {
 const ROLE = { you: "For you", both: "Together", kid: "Child goes", out: "Outing", free: "Break" };
 const pillS = (s) => `<span class="pill ${s}">${STATUS[s]}</span>`;
 const SC = (s) => "s-" + s;
+/* a short random id for anything the family adds (an event, a note, a book…) */
+const newId = () => Math.random().toString(36).slice(2, 9);
+const setSheetTitle = (t) => (document.getElementById("sheetTitle").textContent = t);
 const MTIPS = [
   "Tap Start when you're both ready. No rush.",
   "Did it already? Tap the tick and choose.",

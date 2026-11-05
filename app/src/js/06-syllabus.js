@@ -301,7 +301,7 @@ function logSession(u, kind) {
 }
 function addExp(title, topic) {
   if (!S.exps.some((e) => e.title === title && !e.closed))
-    S.exps.push({ id: Math.random().toString(36).slice(2, 9), title, topic, start: today, checks: [], closed: false });
+    S.exps.push({ id: newId(), title, topic, start: today, checks: [], closed: false });
 }
 const el = (h) => {
   const t = document.createElement("template");

@@ -1,3 +1,12 @@
+/* what to tell the parent when a call to Claude fails */
+const aiError = (e, hint = "") =>
+  ({
+    not_granted: "Claude wasn't allowed for this page, so we can't sort it." + (hint ? " " + hint : ""),
+    rate_limited: "Too many requests just now. Try again in a minute.",
+    image_rejected: "That photo couldn't be read. Try a different one.",
+    invalid_json: "We couldn't read the answer. Try again.",
+    images_unavailable: "Photos can't be sent from this view. Type it instead.",
+  })[e?.code] || "Something went wrong. Try again.";
 /* DeepKids Plus and the features that use AI */
 async function aiCheckPhoto(k, files) {
   if (!SAMPLE || !files.length) return;
@@ -70,7 +79,7 @@ const lockBtn = (r, cls, label) =>
 function plusView() {
   const r = ui.sheet?.r,
     pend = S.pendAI;
-  document.getElementById("sheetTitle").textContent = "DeepKids Plus";
+  setSheetTitle("DeepKids Plus");
   const waiting = !!S.plusWait;
   return `<div class="exdone">${blob("var(--sun)", 6, "wow", "", 'width="76" height="76"')}<h2 style="font-size:var(--fs-6)">DeepKids Plus</h2>${r ? `<p class="sm"><b>${esc(PLUSR[r] || "")}</b> is part of Plus.</p>` : ""}</div>
   ${plusList()}

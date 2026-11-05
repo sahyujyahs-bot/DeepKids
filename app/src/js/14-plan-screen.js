@@ -63,13 +63,6 @@ const QREP = {
   we: ["Weekends", [0, 6]],
   pick: ["Pick days", null],
 };
-const QKIND = [
-  ["class", "Class or tuition"],
-  ["rest", "Rest or meal"],
-  ["outing", "Outing"],
-  ["other", "Appointment"],
-  ["todo", "To-do"],
-];
 /* Queued is a flag on top of an item's own state, so an item can be Pending + Queued, Not started + Queued, Ongoing + Queued */
 const isQ = (u, id) => {
   const w = WK()[u.k + "|" + id];
@@ -228,18 +221,9 @@ function wType(u, id) {
 function quizQ(u, n) {
   const P = u.c?.p;
   if (!P || u.board === "waldorf") return [];
-  const d = pkDay(u, n),
-    W = P.words || [];
+  const d = pkDay(u, n);
   if (d.steps.some((s) => s.kind === "check") && P.check?.length) return P.check;
-  const last = d.n === P.days.length;
-  return last && P.check?.length
-    ? P.check.slice(0, 5)
-    : W.length
-      ? [0, 1, 2]
-          .map((i) => W[((d.n - 1) * 3 + i) % W.length])
-          .filter((w, i, a) => a.indexOf(w) === i)
-          .map(([w, m]) => ({ q: `What does “${w}” mean?`, a: m }))
-      : [];
+  return quickQuiz(P, d);
 }
 /* a step ticked off during the lesson counts as done */
 function stepTicked(u, id) {
@@ -616,7 +600,7 @@ function qzsView() {
   const P = ui.sheet,
     u = unitBy(P.k),
     Q = u ? quizQ(u, P.n) : [];
-  document.getElementById("sheetTitle").textContent = `Quiz · Part ${P.n}`;
+  setSheetTitle(`Quiz · Part ${P.n}`);
   if (!u) return `<p class="note">Not found.</p>`;
   return `<p class="sm"><b>${esc(chT(u))}</b> · ${esc(SUBJ[u.subj])}</p><p class="sm muted">Ask aloud. Let your child answer first, then tap to check.</p>${quizList(u.k, P.n, Q)}`;
 }
@@ -713,7 +697,7 @@ function ideasHtml() {
     .join("");
 }
 function toldView() {
-  document.getElementById("sheetTitle").textContent = "Your classes, routines and to-dos";
+  setSheetTitle("Your classes, routines and to-dos");
   const E = (S.events || [])
       .slice()
       .sort((a, b) => (a.rep === "weekly" ? 0 : 1) - (b.rep === "weekly" ? 0 : 1) || hm(a.start) - hm(b.start)),
@@ -745,17 +729,24 @@ function toldView() {
 }
 const quizList = (k, n, Q) =>
   `<ol class="sm qzl">${Q.map((q, qi) => `<li><b>${esc(q.q)}</b><details><summary class="xs muted">Answer</summary><p class="sm">${esc(q.a)}</p></details>${quizBtns(k, n, qi, q)}</li>`).join("")}</ol>${((u) => (u ? stateCtl("qz", u, "q" + n) : ""))(unitByK(k))}`;
+/* a worksheet's questions: how many there are, how many are answered, and the multiple-choice ones right */
 function wsCount(k, W) {
   let tot = 0,
-    ans = 0;
+    ans = 0,
+    mq = 0,
+    mr = 0;
   W.forEach(([_, its], si) =>
     its.forEach((it, ii) => {
       tot++;
       const v = A(k, si + "-" + ii);
       if (v !== undefined && v !== "" && !(typeof v === "object" && !Object.keys(v).length)) ans++;
+      if (it.t === "mcq" && v !== undefined) {
+        mq++;
+        if (v === it.a) mr++;
+      }
     }),
   );
-  return { tot, ans };
+  return { tot, ans, mq, mr };
 }
 function refParts(u, id) {
   const P = u.c?.p;
@@ -834,7 +825,7 @@ const openCount = () => {
   );
 };
 function todoView() {
-  document.getElementById("sheetTitle").textContent = "To finish";
+  setSheetTitle("To finish");
   const O = openWork(),
     ex = (S.exps || []).filter((e) => !e.closed),
     wsRow = (x, miss) =>
@@ -901,7 +892,7 @@ const PL = {
 };
 function plView() {
   const p = ui.sheet.p;
-  document.getElementById("sheetTitle").textContent = PL[p] || "Planner";
+  setSheetTitle(PL[p] || "Planner");
   if (p === "queue") return queueCard();
   if (p === "calendar") return calendarCard();
   return plPart(p) || `<p class="note">Nothing here yet.</p>`;
@@ -1364,14 +1355,7 @@ Message:
     if (!D_.items.length && !D_.questions.length) D_.err = "We couldn't find plans in that. Try adding days and times.";
     sfx(D_.items.length ? "ok" : "no");
   } catch (e) {
-    D_.err =
-      {
-        not_granted: "Claude wasn't allowed for this page, so we can't sort it. Use quick add below.",
-        rate_limited: "Too many requests just now. Try again in a minute.",
-        image_rejected: "That photo couldn't be read. Try a different one.",
-        invalid_json: "We couldn't read the answer. Try again.",
-        images_unavailable: "Photos can't be sent from this view. Type it instead.",
-      }[e?.code] || "Something went wrong. Try again.";
+    D_.err = aiError(e, "Use quick add below.");
     sfx("no");
   }
   D_.busy = false;
@@ -1387,7 +1371,7 @@ function addParsed() {
     .filter((x) => x.keep)
     .forEach((x) => {
       n++;
-      const id = Math.random().toString(36).slice(2, 9);
+      const id = newId();
       got.push(x.title + " · " + parsedLine(x));
       if (x.type === "have") {
         S.inv = [...(S.inv || []), { id, name: x.title, cat: x.category || "other", note: x.note || "", from: "told" }];
@@ -1457,7 +1441,7 @@ function addParsed() {
   S.said = [
     ...(S.said || []),
     {
-      id: Math.random().toString(36).slice(2, 9),
+      id: newId(),
       at: Date.now(),
       date: today,
       text: (D_.text || "").slice(0, 2000),

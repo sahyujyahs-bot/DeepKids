@@ -24,7 +24,7 @@ function gamesTab() {
 }
 function qgameView() {
   const g = gamesAll().find((x) => x.uid === ui.sheet.u && x.id === ui.sheet.g);
-  document.getElementById("sheetTitle").textContent = g ? g.t : "Game";
+  setSheetTitle(g ? g.t : "Game");
   if (!g) return "";
   return `<section class="sec"><span class="eyebrow">${esc(g.pl)}${g.mins ? " · " + g.mins + " min" : ""}</span><h2>${esc(g.t)}</h2><p class="xs muted">From the unit “${esc(g.ut)}”</p></section>
    ${g.slips?.length ? `<section class="sec"><h3>Write these on ${g.slips.length} paper slips</h3><div class="slips">${g.slips.map((s) => `<span>${esc(s)}</span>`).join("")}</div></section>` : `<section class="sec"><p class="sm"><b>Nothing to print or write.</b></p></section>`}
@@ -103,7 +103,7 @@ async function pzStart(kind, skip = 0) {
 }
 function puzzleView() {
   const P = ui.pz;
-  document.getElementById("sheetTitle").textContent = P?.kind === "memory" ? "Memory match" : "Word search";
+  setSheetTitle(P?.kind === "memory" ? "Memory match" : "Word search");
   if (!P) return "";
   const done = P.kind === "memory" ? P.got.length === P.cards.length / 2 : P.found.length === P.words.length;
   const head = `<p class="sm muted">Science words from “${esc(P.title)}”${done ? "" : P.kind === "memory" ? ". Tap two cards: a word and its meaning." : ". Tap the first letter of a word, then its last letter."}</p>`;

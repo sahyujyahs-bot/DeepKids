@@ -1157,7 +1157,7 @@ function wsViewSheet() {
   const P = ui.sheet,
     u = unitByK(P.k),
     w = P.game ? gameSheet(u) : wsOf(u)[P.i];
-  document.getElementById("sheetTitle").textContent = w ? w.title : "Worksheet";
+  setSheetTitle(w ? w.title : "Worksheet");
   if (!w) return `<p class="note">Not found.</p>`;
   return `<div class="row">${P.game ? `<button class="btn accent sm" data-act="cgprint" data-k="${u.k}">🖨️ Print</button>` : `<button class="btn accent sm" data-act="wsprint" data-k="${u.k}" data-i="${P.i}">🖨️ Print</button><button class="btn soft sm" data-act="wssave" data-k="${u.k}" data-i="${P.i}">Save as a file</button>`}</div><iframe class="wsframe" title="Worksheet preview" srcdoc="${esc(wsPage(w, u))}"></iframe>`;
 }
@@ -1166,7 +1166,7 @@ const WFS = ["wml", "wart"],
   visSubj = (b) => (b === "waldorf" ? ["wml", "hin", "wart", "sci"] : SUBJ_KEYS.filter((k) => !WFS.includes(k)));
 function wfGuideView() {
   const G = DATA.waldorf || {};
-  document.getElementById("sheetTitle").textContent = "Waldorf at home";
+  setSheetTitle("Waldorf at home");
   const cls = S.levels?.wml || 1,
     tbl = (rows, h) =>
       `<table class="wft">${h ? `<tr>${h.map((x) => `<th>${x}</th>`).join("")}</tr>` : ""}${rows.map((r) => `<tr>${r.map((x) => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table>`;
@@ -1369,7 +1369,7 @@ function wsSheet() {
     W = pw ? pw.sections : u.c.x.wsd,
     k = pw ? u.k + "#" + wid : u.k,
     si = Math.min(ui.wsec[k] || 0, W.length - 1);
-  document.getElementById("sheetTitle").textContent = (pw ? pw.title : "Worksheet") + " · " + u.title;
+  setSheetTitle((pw ? pw.title : "Worksheet") + " · " + u.title);
   let qn = W.slice(0, si).reduce((a, s) => a + s[1].length, 0);
   const [title, items] = W[si];
   return `<div class="segs ${SC(u.subj)}">${W.map((_, i) => `<i class="${i < si ? "ok" : i === si ? "on" : ""}"></i>`).join("")}</div><section class="card"><span class="eyebrow">${pw ? TIER[pw.tier] + " · " : ""}Section ${si + 1} of ${W.length}</span><h2 style="font-size:var(--fs-6)">${esc(title.replace(/^[A-Z]\. /, ""))}</h2>${items.map((it, ii) => wsItem(k, si + "-" + ii, it, ++qn)).join("")}</section>

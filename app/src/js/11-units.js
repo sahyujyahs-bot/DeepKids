@@ -229,21 +229,26 @@ function fxSheet(b) {
   };
   document.head.appendChild(sc);
 }
+/* the one full-screen dialog every DeepKids unit, song and refresher opens in; made on first use. The phone's back
+   gesture goes to the unit's map when a part is open, else closes it */
+function fxDialog() {
+  let d = document.getElementById("fxDlg");
+  if (d) return d;
+  d = document.createElement("dialog");
+  d.id = "fxDlg";
+  d.className = "fxdlg";
+  document.body.appendChild(d);
+  d.addEventListener("click", fxClick);
+  d.addEventListener("cancel", (e) => {
+    e.preventDefault();
+    FXSI >= 0 ? fxMap() : fxClose();
+  });
+  return d;
+}
 function fxOpenSong(id) {
   const sg = DATA.songs?.[id];
   if (!sg) return;
-  let d = document.getElementById("fxDlg");
-  if (!d) {
-    d = document.createElement("dialog");
-    d.id = "fxDlg";
-    d.className = "fxdlg";
-    document.body.appendChild(d);
-    d.addEventListener("click", fxClick);
-    d.addEventListener("cancel", (e) => {
-      e.preventDefault();
-      fxClose();
-    });
-  }
+  const d = fxDialog();
   FXSI = -2;
   d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:100%"></i></div></div><div class="fxmap"><div class="fxin"><div class="fxtxt">${fxSongHtml(sg)}</div></div></div>`;
   if (!d.open) d.showModal();
@@ -807,18 +812,7 @@ async function fxOpen(id) {
   }
   FXU = u;
   FXALL = fxCards(u);
-  let d = document.getElementById("fxDlg");
-  if (!d) {
-    d = document.createElement("dialog");
-    d.id = "fxDlg";
-    d.className = "fxdlg";
-    document.body.appendChild(d);
-    d.addEventListener("click", fxClick);
-    d.addEventListener("cancel", (e) => {
-      e.preventDefault();
-      FXSI >= 0 ? fxMap() : fxClose();
-    });
-  }
+  const d = fxDialog();
   d.dataset.mode = fxSt().mode;
   if (!d.open) d.showModal();
   fxMap();
@@ -1085,18 +1079,7 @@ async function fxPractise(ids) {
     spare.push(...more.slice(n));
   });
   items.push(...spare.slice(0, Math.max(0, 5 - items.length)));
-  let d = document.getElementById("fxDlg");
-  if (!d) {
-    d = document.createElement("dialog");
-    d.id = "fxDlg";
-    d.className = "fxdlg";
-    document.body.appendChild(d);
-    d.addEventListener("click", fxClick);
-    d.addEventListener("cancel", (e) => {
-      e.preventDefault();
-      fxClose();
-    });
-  }
+  const d = fxDialog();
   FXSI = -3;
   d.dataset.mode = fxSt().mode;
   d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
@@ -1654,16 +1637,6 @@ function fxTrack(rungs, s, l) {
   return [...req, ...over, ...more];
 }
 const fxReq = (u) => u?.board !== "unit" || !!DATA.units?.[u.c?.unit]?.req;
-/* the school year: from the start date, ten months (a parent can set S.yearEnd) */
-const fxYearEnd = () =>
-  S.yearEnd ||
-  iso(
-    new Date(
-      parse(S.start || today).getFullYear(),
-      parse(S.start || today).getMonth() + 10,
-      parse(S.start || today).getDate(),
-    ),
-  );
 /* one sprint week each quarter: weeks 12, 25 and 38 from the start; only board-required lessons are planned that week */
 function fxSprint(date) {
   const w = Math.floor((parse(date) - parse(S.start || today)) / (7 * 864e5));
@@ -1741,23 +1714,6 @@ function fxRefs() {
     .filter((x) => x.n && DATA.units?.[x.id]);
 }
 const FXGAP = [3, 10, 30, 60];
-function fxReviews(date) {
-  const R = S.fxRev || {};
-  return Object.keys(DATA.units || {})
-    .filter((id) => rank[fxUnitSt("unit|" + id)] >= 2)
-    .map((id) => {
-      const D = fxSt().done[id] || {},
-        last = Object.keys(D)
-          .filter((k) => k.startsWith("at:"))
-          .map((k) => D[k])
-          .sort()
-          .pop(),
-        r = R[id] || { n: 0, at: null },
-        from = r.at || last;
-      return from && Math.round((parse(date) - parse(from)) / 864e5) >= FXGAP[Math.min(r.n, 3)] ? { id, n: r.n } : null;
-    })
-    .filter(Boolean);
-}
 function fxPrep(u, n) {
   const D = fxDayPlan(u),
     day = D[Math.min(n, D.length) - 1] || [],

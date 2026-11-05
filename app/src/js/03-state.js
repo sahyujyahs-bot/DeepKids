@@ -51,7 +51,6 @@ const ui = {
   pm: 0,
   pv: "week",
   dump: {},
-  view: {},
   ctab: {},
   qi: {},
   wsec: {},
@@ -64,7 +63,6 @@ const ui = {
   week: 0,
   wday: null,
   wview: "lanes",
-  lsub: null,
   timer: null,
 };
 const A = (k, id) => (S.ans[k] || {})[id];

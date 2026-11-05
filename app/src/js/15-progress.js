@@ -378,7 +378,7 @@ Reply with only JSON: {"questions":[{"q":"...","opts":["...","...","...","..."],
   S.tests = [
     ...(S.tests || []),
     {
-      id: Math.random().toString(36).slice(2, 9),
+      id: newId(),
       board: T.board,
       cls: T.cls,
       level: L,
@@ -439,7 +439,7 @@ function testSection() {
 }
 function examView() {
   const t = curTest();
-  document.getElementById("sheetTitle").textContent = "Entrance test";
+  setSheetTitle("Entrance test");
   if (!t) return `<p class="note">No paper yet.</p>`;
   const E = ui.ex || (ui.ex = { si: t.subjects.findIndex((x) => !t.done?.[x.s]), qi: -1 });
   if (E.si < 0 || tDone(t))
@@ -942,7 +942,7 @@ function upTile(w) {
   return `<a class="uptile" href="${src}" target="_blank" rel="noopener" title="${esc((w.title || w.name || "Upload") + (u ? " · " + chT(u) : "") + " · " + fmt(w.date))}">${isImg(w) ? `<img src="${src}" alt="${esc(w.title || "Upload")}" loading="lazy">` : vid ? `<video src="${src}" muted preload="metadata"></video><span class="upplay">▶</span>` : `<span class="upfile">${esc((w.name || "file").split(".").pop().toUpperCase())}</span>`}</a>`;
 }
 function uploadsView() {
-  document.getElementById("sheetTitle").textContent = "Uploads";
+  setSheetTitle("Uploads");
   const U = (S.work || []).slice().sort((a, b) => ((b.date || "") < (a.date || "") ? -1 : 1)),
     P = ui.up;
   let h = `<label class="drop ${P ? "busy" : ""}">${blob("var(--leaf)", 5, "wow", "", 'width="48" height="48"')}<b>${P ? (P.step === "tag" ? "Reading and filing…" : `Saving ${P.i} of ${P.n}…`) : "Add photos, videos and files"}</b><span class="xs muted">${P ? "Keep this open for a moment." : "Pick as many as you like: worksheets, drawings, notebook pages, experiments, outings. DeepKids matches each to the day and chapter. Nothing to fill in."}</span><input type="file" id="upFiles" multiple accept="image/*,application/pdf,video/*,.doc,.docx,.ppt,.pptx" hidden ${P ? "disabled" : ""}></label>
@@ -1113,7 +1113,7 @@ function trackChart(T, days) {
     .join("")}</div></div>`;
 }
 function trackView() {
-  document.getElementById("sheetTitle").textContent = "Tracking";
+  setSheetTitle("Tracking");
   const T = trackData(),
     ds = Object.keys(T)
       .filter((d) => d <= today)
@@ -1433,7 +1433,7 @@ function covCell(R) {
   return `${p}%<span class="xs muted"> · ${R.done} done${R.eq ? `, ${R.eq} by equivalent` : ""}${R.going ? `, ${R.going} begun` : ""} of ${R.tot}</span>`;
 }
 function schoolView() {
-  document.getElementById("sheetTitle").textContent = "Moving to a school";
+  setSheetTitle("Moving to a school");
   const D = schoolData(),
     I = S.school || {},
     f = (k, l, type = "text", ph = "") =>
@@ -1628,7 +1628,7 @@ function folderBody(F, flat) {
   }).join("");
 }
 function folderView() {
-  document.getElementById("sheetTitle").textContent = "Work folder";
+  setSheetTitle("Work folder");
   const F = folderData();
   return `<p class="sm muted">Every worksheet with your child's answers, every quiz, and every project with its dates. Read it here any time, or save a copy.</p><div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn accent sm" data-act="fsave" ${F.length ? "" : "disabled"}>Save a copy (.html)</button><button class="btn soft sm" data-act="fprint" ${F.length ? "" : "disabled"}>Print or save as PDF</button></div><p class="xs muted">Drawings made on screen are kept on this device.</p>${folderBody(F, false)}`;
 }
@@ -1652,7 +1652,7 @@ const JR = {
 };
 function jrView() {
   const p = ui.sheet.p;
-  document.getElementById("sheetTitle").textContent = JR[p] || "Journey";
+  setSheetTitle(JR[p] || "Journey");
   return jPart(p) || `<p class="note">Nothing here yet. It fills up as ${esc(S.child || "your child")} learns.</p>`;
 }
 function jPart(p) {
@@ -1730,7 +1730,7 @@ function learnItems() {
   return out;
 }
 function learnView() {
-  document.getElementById("sheetTitle").textContent = "For you";
+  setSheetTitle("For you");
   const its = learnItems(),
     groups = [];
   its.forEach((p) => {
@@ -1803,24 +1803,12 @@ function wsStats(u) {
     ...(u.c?.p?.worksheets || []).map((w) => [u.k + "#" + w.id, w.sections]),
   ];
   if (!sets.length) return null;
-  let tot = 0,
-    ans = 0,
-    mq = 0,
-    mr = 0;
-  sets.forEach(([k, W]) =>
-    W.forEach(([_, its], si) =>
-      its.forEach((it, ii) => {
-        tot++;
-        const v = A(k, si + "-" + ii);
-        if (v !== undefined && v !== "" && !(typeof v === "object" && !Object.keys(v).length)) ans++;
-        if (it.t === "mcq" && v !== undefined) {
-          mq++;
-          if (v === it.a) mr++;
-        }
-      }),
-    ),
-  );
-  return { tot, ans, mq, mr };
+  const sum = { tot: 0, ans: 0, mq: 0, mr: 0 };
+  sets.forEach(([k, W]) => {
+    const c = wsCount(k, W);
+    for (const x in sum) sum[x] += c[x];
+  });
+  return sum;
 }
 function quotes(filter) {
   const out = [];
@@ -1855,7 +1843,7 @@ function boardRows(s, b) {
 function jsubView() {
   const s = ui.sheet.s,
     x = subjStats(s);
-  document.getElementById("sheetTitle").textContent = SUBJ[s] + " journey";
+  setSheetTitle(SUBJ[s] + " journey");
   const kid = esc(S.child || "Your child");
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),

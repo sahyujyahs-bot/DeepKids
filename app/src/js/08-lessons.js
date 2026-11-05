@@ -348,6 +348,19 @@ const pkFind = (u, id) => {
   }
   return [null, null];
 };
+/* the day's quick quiz: the chapter's check questions on its last day, else three of its words */
+const quickQuiz = (P, d) => {
+  const last = d.n === P.days.length,
+    W = P.words || [];
+  return last && P.check?.length
+    ? P.check.slice(0, 5)
+    : W.length
+      ? [0, 1, 2]
+          .map((i) => W[((d.n - 1) * 3 + i) % W.length])
+          .filter((w, i, a) => a.indexOf(w) === i)
+          .map(([w, m]) => ({ q: `What does “${w}” mean?`, a: m }))
+      : [];
+};
 function packDay(u, n) {
   const P = u.c.p,
     d = pkDay(u, n),
@@ -415,15 +428,7 @@ function packDay(u, n) {
       }),
     );
   if (!out.some((x) => x.sec === "quiz") && u.board !== "waldorf") {
-    const Q =
-      last && P.check?.length
-        ? P.check.slice(0, 5)
-        : W.length
-          ? [0, 1, 2]
-              .map((i) => W[((d.n - 1) * 3 + i) % W.length])
-              .filter((w, i, a) => a.indexOf(w) === i)
-              .map(([w, m]) => ({ q: `What does “${w}” mean?`, a: m }))
-          : [];
+    const Q = quickQuiz(P, d);
     if (Q.length)
       out.push({
         kind: "ws",
@@ -720,7 +725,7 @@ function playerView() {
   if (!it.u) return "";
   const st = stepState(it),
     pct = Math.min(100, (st.filter((x) => x.ok).length / st.length) * 100);
-  document.getElementById("sheetTitle").textContent = `${chT(it.u)} · Part ${P.n} of ${P.tot}`;
+  setSheetTitle(`${chT(it.u)} · Part ${P.n} of ${P.tot}`);
   let h = `<div class="ptrack"><span style="width:${pct}%"></span>${sblob(P.s, "happy", "rider", `style="left:${Math.max(5, pct)}%"`)}</div>`;
   h += secBar(st, P.i);
   if (P.i >= st.length) {
@@ -739,48 +744,6 @@ function playerView() {
    <div class="row"><button class="btn soft" data-act="pstep" data-d="-1" ${P.i === 0 ? "disabled" : ""} aria-label="Previous step">${icon("back")}</button><button class="btn green wide" data-act="pdone">${x.ok ? "Next" : "Done! Next step"}${icon("next")}</button></div></section>`;
   return h;
 }
-const timerKey = () => (ui.sheet ? ui.sheet.k + "|" + ui.sheet.n + "|" + ui.sheet.i : "");
-let tick = null;
-function timerToggle() {
-  const P = ui.sheet,
-    it = { u: unitBy(P.k), n: P.n, tot: P.tot, bonus: P.bonus },
-    x = stepState(it)[P.i];
-  let T = ui.timer;
-  if (!T || T.key !== timerKey()) T = ui.timer = { key: timerKey(), total: x.mins * 60, left: x.mins * 60, run: false };
-  if (T.run) {
-    T.left = Math.max(0, (T.end - Date.now()) / 1000);
-    T.run = false;
-    clearInterval(tick);
-  } else {
-    T.end = Date.now() + T.left * 1000;
-    T.run = true;
-    clearInterval(tick);
-    tick = setInterval(paintTimer, 500);
-  }
-  paintTimer();
-}
-function paintTimer() {
-  const T = ui.timer,
-    tt = document.getElementById("tt"),
-    r = document.getElementById("tring"),
-    b = document.getElementById("tbtn");
-  if (!T || !tt || T.key !== timerKey()) {
-    clearInterval(tick);
-    return;
-  }
-  const left = T.run ? Math.max(0, (T.end - Date.now()) / 1000) : T.left;
-  tt.textContent = mmss(left);
-  r.setAttribute("stroke-dasharray", `${(113 * left) / T.total} 113`);
-  b.textContent = T.run ? "Pause" : "Start timer";
-  if (T.run && left <= 0) {
-    T.run = false;
-    T.left = 0;
-    clearInterval(tick);
-    sfx("win");
-    toast("Time's up for this step");
-    b.textContent = "Done";
-  }
-}
 function chapterPage() {
   const u = unitBy(ui.sheet.k);
   if (!u) return "";
@@ -788,7 +751,7 @@ function chapterPage() {
     x = c?.x,
     cs = st(u.k),
     m = modeOf();
-  document.getElementById("sheetTitle").textContent = u.title;
+  setSheetTitle(u.title);
   const tabs = c?.p
     ? {
         overview: "Overview",
