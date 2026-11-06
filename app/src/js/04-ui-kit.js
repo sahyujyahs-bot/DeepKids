@@ -1,3 +1,6 @@
+/* What every button does, by its data-act name. Each feature file adds its own buttons with Object.assign(ACT, {...});
+   the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k). */
+const ACT = {};
 /* Shared pieces of UI: icons, the blob friends, pills, sounds, toasts, little celebrations */
 const esc = (s) =>
   String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);

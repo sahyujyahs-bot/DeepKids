@@ -659,13 +659,12 @@ const WDOTS = {
     [90, 80],
   ],
 };
-function wsBasicBlock(b, seed, i) {
-  const r = wsRng(seed + "|" + i),
-    H = (t, inst) =>
-      `<div class="wbh"><span class="wbn">${i + 1}</span><div><b>${esc(b.title || t)}</b>${b.inst || inst ? `<div class="winst">${esc(b.inst || inst)}</div>` : ""}</div></div>`;
-  let h = "",
-    k = "";
-  if (b.type === "match") {
+/* One worksheet block of each kind, as printable HTML (h) and its answer key (k). b is the block, r a seeded random
+   generator, H draws the block heading. */
+const WS_BASIC = {
+  match(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const R = wsShuf(
       b.pairs.map((p, j) => ({ ...p[1], j })),
       r,
@@ -674,7 +673,11 @@ function wsBasicBlock(b, seed, i) {
       H("Match them", "Draw a line from each one on the left to its partner on the right.") +
       `<table class="wmatch">${b.pairs.map((p, j) => `<tr><td class="wl"><div class="wcell"><span>${wIc(p[0])}${esc(p[0].t || "")}</span><span class="wdot"></span></div></td><td class="wgap"></td><td class="wr"><div class="wcell"><span class="wdot"></span><span>${wIc(R[j])}${esc(R[j].t || "")}</span></div></td></tr>`).join("")}</table>`;
     k = b.pairs.map((p) => `${esc(p[0].t || p[0].ic)} → ${esc(p[1].t || p[1].ic)}`).join("<br>");
-  } else if (b.type === "circle") {
+    return { h, k };
+  },
+  circle(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     h =
       H("Circle the right one", "Circle the right picture or word in each row.") +
       b.rows
@@ -684,7 +687,11 @@ function wsBasicBlock(b, seed, i) {
         )
         .join("");
     k = b.rows.map((q) => `${esc(q.q)} <b>${esc(q.opts[q.ans].t || q.opts[q.ans].ic)}</b>`).join("<br>");
-  } else if (b.type === "fill") {
+    return { h, k };
+  },
+  fill(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const bank = wsShuf(
       b.items.map((x) => x.a),
       r,
@@ -693,7 +700,11 @@ function wsBasicBlock(b, seed, i) {
       H("Fill in the gaps", "Use the words in the box.") +
       `<div class="wbank">${bank.map((w) => `<span>${esc(w)}</span>`).join("")}</div><ol class="wfill">${b.items.map((x) => `<li>${wIc(x)}${esc(x.t).replace("____", '<span class="wblank"></span>')}</li>`).join("")}</ol>`;
     k = b.items.map((x, j) => `${j + 1}. ${esc(x.a)}`).join("<br>");
-  } else if (b.type === "sort") {
+    return { h, k };
+  },
+  sort(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const items = wsShuf(b.items, r);
     h =
       H("Cut and sort", "Cut out the cards at the bottom along the dotted lines. Stick each one in the right box.") +
@@ -707,7 +718,11 @@ function wsBasicBlock(b, seed, i) {
             .join(", ")}`,
       )
       .join("<br>");
-  } else if (b.type === "label") {
+    return { h, k };
+  },
+  label(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const D = WDIAG[b.pic] || WDIAG.plant,
       P = D.pts.slice(0, b.labels.length),
       pad = 40;
@@ -720,7 +735,11 @@ function wsBasicBlock(b, seed, i) {
         .map((w) => `<span>${esc(w)}</span>`)
         .join("")}</div>${b.labels.map((_, j) => `<div class="wline">${j + 1}. </div>`).join("")}</div></div>`;
     k = b.labels.map((l, j) => `${j + 1}. ${esc(l)}`).join("<br>");
-  } else if (b.type === "maze") {
+    return { h, k };
+  },
+  maze(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const W = b.w || 11,
       Hh = b.h || 9,
       cell = 28,
@@ -780,7 +799,11 @@ function wsBasicBlock(b, seed, i) {
         b.inst || "Help them find the way. Draw a line from the start to the end without crossing a wall.",
       ) + svg(false);
     k = svg(true);
-  } else if (b.type === "wordsearch") {
+    return { h, k };
+  },
+  wordsearch(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const words = b.words.map((w) => w.toUpperCase().replace(/[^A-Z]/g, "")),
       N = Math.max(b.size || 10, ...words.map((w) => w.length + 1)),
       G = Array.from({ length: N }, () => Array(N).fill("")),
@@ -830,7 +853,11 @@ function wsBasicBlock(b, seed, i) {
       ) +
       `<div class="wws">${grid(false)}<div class="wbank wcol">${put.map((p) => `<span>☐ ${p.w}</span>`).join("")}</div></div>`;
     k = grid(true);
-  } else if (b.type === "crossword") {
+    return { h, k };
+  },
+  crossword(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const E = b.clues
         .map(([a, c]) => ({ a: a.toUpperCase().replace(/[^A-Z]/g, ""), c }))
         .sort((x, y) => y.a.length - x.a.length),
@@ -922,7 +949,11 @@ function wsBasicBlock(b, seed, i) {
       H("Crossword", "Read each clue and write the answer in the boxes.") +
       `<div class="wws">${grid(false)}<div class="wclues"><b>Across →</b><ol>${cl(0)}</ol><b>Down ↓</b><ol>${cl(1)}</ol></div></div>`;
     k = grid(true);
-  } else if (b.type === "decode") {
+    return { h, k };
+  },
+  decode(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const msg = b.msg.toUpperCase(),
       SY = [
         "🍎",
@@ -967,7 +998,11 @@ function wsBasicBlock(b, seed, i) {
         )
         .join("")}</div>`;
     k = esc(b.msg);
-  } else if (b.type === "dots") {
+    return { h, k };
+  },
+  dots(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const P = WDOTS[b.shape] || WDOTS.star,
       svg = (line) =>
         `<svg viewBox="0 0 300 300" class="wdots">${line ? `<path d="M${P.map((p) => p.join(" ")).join(" L")} Z" stroke="#e0533d" stroke-width="3" fill="none"/>` : ""}${P.map((p, j) => `<circle cx="${p[0]}" cy="${p[1]}" r="5" fill="#2B2340"/><text x="${p[0] + 8}" y="${p[1] - 8}" font-size="15" font-weight="700">${j + 1}</text>`).join("")}</svg>`;
@@ -975,7 +1010,11 @@ function wsBasicBlock(b, seed, i) {
       H("Dot to dot", b.inst || "Join the dots from 1 in order, then colour it in.") +
       `<div class="wlab">${svg(false)}<div class="wq">${esc(b.ask || "What did you draw?")}<div class="wline"></div></div></div>`;
     k = svg(true);
-  } else if (b.type === "sequence") {
+    return { h, k };
+  },
+  sequence(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const S = wsShuf(
       b.steps.map((s, j) => ({ ...s, j })),
       r,
@@ -984,7 +1023,11 @@ function wsBasicBlock(b, seed, i) {
       H("What happens first?", "Write 1, 2, 3… in the circles to put the pictures in order.") +
       `<div class="wseq">${S.map((s) => `<div class="wframe"><span class="wnum"></span>${wIc(s)}<div>${esc(s.t)}</div></div>`).join("")}</div>`;
     k = S.map((s) => `${s.j + 1}. ${esc(s.t)}`).join("<br>");
-  } else if (b.type === "draw") {
+    return { h, k };
+  },
+  draw(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const fr = b.frame || "box";
     h =
       H(b.title || "Draw it", b.inst || "") +
@@ -994,11 +1037,19 @@ function wsBasicBlock(b, seed, i) {
           ? `<div class="wpost"><div class="wpic"></div><div class="wlines"><div class="wline"></div><div class="wline"></div><div class="wline"></div><div class="wline"></div></div></div>`
           : `<div class="wbox" style="height:${Math.min(b.h || 230, 240)}px">${b.ic ? `<span class="wwm">${b.ic}</span>` : ""}</div>`) +
       (b.lines ? Array.from({ length: b.lines }, () => `<div class="wline"></div>`).join("") : "");
-  } else if (b.type === "table") {
+    return { h, k };
+  },
+  table(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     h =
       H("Find out and fill in", b.inst || "") +
       `<table class="wtab"><tr>${b.cols.map((c) => `<th>${esc(c)}</th>`).join("")}</tr>${(b.rows || Array(5).fill(null)).map((rw) => `<tr>${b.cols.map((_, j) => `<td>${rw && rw[j] != null ? esc(rw[j]) : ""}</td>`).join("")}</tr>`).join("")}</table>`;
-  } else if (b.type === "board") {
+    return { h, k };
+  },
+  board(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const sq = b.squares,
       cols = 6,
       rows = Math.ceil(sq.length / cols);
@@ -1016,7 +1067,11 @@ function wsBasicBlock(b, seed, i) {
       })
         .reverse()
         .join("")}</table>`;
-  } else if (b.type === "numberline") {
+    return { h, k };
+  },
+  numberline(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const a = b.from || 0,
       z = b.to || 20,
       st = b.step || 1,
@@ -1024,7 +1079,11 @@ function wsBasicBlock(b, seed, i) {
     h =
       H("Number line", b.inst || "") +
       `<svg viewBox="-10 0 ${n * 30 + 20} 60" class="wnl"><path d="M0 30 H${n * 30}" stroke="#2B2340" stroke-width="3"/>${Array.from({ length: n + 1 }, (_, j) => `<path d="M${j * 30} 22 V38" stroke="#2B2340" stroke-width="2"/>${(b.show || []).includes(a + j * st) || !b.show ? `<text x="${j * 30}" y="55" text-anchor="middle" font-size="12">${a + j * st}</text>` : ""}`).join("")}</svg>${(b.qs || []).map((q) => `<div class="wline">${esc(q)}</div>`).join("")}`;
-  } else if (b.type === "clocks") {
+    return { h, k };
+  },
+  clocks(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     const face = (t) => {
       const [hh, mm] = t.split(":").map(Number),
         ha = ((hh % 12) + mm / 60) * 30,
@@ -1035,12 +1094,23 @@ function wsBasicBlock(b, seed, i) {
       H(b.draw ? "Draw the hands" : "What time is it?", b.inst || "") +
       `<div class="wclocks">${b.times.map((t) => `<div>${face(t)}<div class="wline">${b.draw ? esc(t) : ""}</div></div>`).join("")}</div>`;
     k = b.draw ? "" : b.times.join(", ");
-  } else if (b.type === "talk") {
+    return { h, k };
+  },
+  talk(b, r, H, i, seed) {
+    let h = "",
+      k = "";
     h =
       H("Think and talk", b.inst || "Talk about these with a grown-up. You can write or draw your answer.") +
       `<ul class="wtalk">${b.qs.map((q) => `<li>${esc(q)}</li>`).join("")}</ul>`;
-  }
-  return { h, k };
+    return { h, k };
+  },
+};
+function wsBasicBlock(b, seed, i) {
+  const r = wsRng(seed + "|" + i),
+    H = (t, inst) =>
+      `<div class="wbh"><span class="wbn">${i + 1}</span><div><b>${esc(b.title || t)}</b>${b.inst || inst ? `<div class="winst">${esc(b.inst || inst)}</div>` : ""}</div></div>`;
+  const f = WS_BASIC[b.type];
+  return f ? f(b, r, H, i, seed) : { h: "", k: "" };
 }
 function wsBlock(b, seed, i) {
   const H = (t) => `<div class="wbh"><span class="wbn">${i + 1}</span><div><b>${esc(b.title || t)}</b></div></div>`;
@@ -1446,3 +1516,213 @@ function initPads() {
     };
   });
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  wsec(b, e, a, k) {
+    ui.wsec[k] = Math.max(0, (ui.wsec[k] || 0) + +b.dataset.d);
+    sfx("flip");
+    renderSheet(true);
+  },
+  wsdone(b, e, a, k) {
+    S.tasks[k] = S.tasks[k] || {};
+    S.tasks[k].ws = S.tasks[k].ws || today;
+    sfx("win");
+    confetti();
+    toast("Worksheet finished! Taking you back…", 1400);
+    commit();
+    setTimeout(() => {
+      if (ui.sheet?.mode === "ws") goBack();
+    }, 1400);
+  },
+  wkst(b, e, a, k) {
+    const id = b.dataset.id,
+      to = b.dataset.to,
+      key = k + "|" + id,
+      W = weekSt(),
+      w = W[key] || {};
+    w.title = b.dataset.t || w.title;
+    const untask = () => {
+      if (S.tasks[k]) delete S.tasks[k][id];
+    };
+    if (to === "none" || (to === "undo" && !w.started)) {
+      const q = w.q;
+      delete W[key];
+      if (q) W[key] = { q: true, planned: w.planned, title: w.title };
+      untask();
+      sfx("flip");
+    } else if (to === "undo") {
+      w.st = "started";
+      delete w.done;
+      delete w.doneAt;
+      untask();
+      W[key] = w;
+      sfx("flip");
+    } else {
+      w.st = to;
+      w[to] = w[to] || today;
+      w[to + "At"] = w[to + "At"] || Date.now();
+      if (to === "done") {
+        w.started = w.started || today;
+        S.tasks[k] = S.tasks[k] || {};
+        S.tasks[k][id] = w.done;
+        sfx("win");
+        toast("Finished · saved to your Work folder");
+      } else {
+        untask();
+        sfx("ok");
+        toast(
+          to === "planned"
+            ? "Added to your pipeline · see To finish"
+            : to === "skip"
+              ? "Okay, not doing this one"
+              : "Marked started · finish it any time",
+        );
+      }
+      W[key] = w;
+    }
+    commit();
+  },
+  qz(b, e, a, k) {
+    S.quiz = S.quiz || {};
+    const q = (S.quiz[k + "|" + b.dataset.n] = S.quiz[k + "|" + b.dataset.n] || {});
+    q[b.dataset.i] = { q: b.dataset.q, a: b.dataset.a, r: +b.dataset.r, d: today };
+    sfx(+b.dataset.r ? "ok" : "tap");
+    commit();
+  },
+  wsprint(b, e, a, k) {
+    const u = unitByK(k),
+      w = wsOf(u)[+b.dataset.i];
+    if (w) {
+      sfx("ok");
+      printDoc(wsPage(w, u));
+    }
+  },
+  wssave(b, e, a, k) {
+    const u = unitByK(k),
+      w = wsOf(u)[+b.dataset.i];
+    if (w) saveDoc(wsPage(w, u), `${w.title.replace(/[^\w ]+/g, "").trim()}.html`);
+  },
+  mcq(b, e, a, k) {
+    setA(k, b.dataset.id, +b.dataset.o);
+    sfx(+b.dataset.o === +b.dataset.a ? "ok" : "no");
+    commit();
+  },
+  mcqreset(b, e, a, k) {
+    delete S.ans[k][b.dataset.id];
+    sfx("flip");
+    commit();
+  },
+  checkfill(b, e, a, k) {
+    const ans = JSON.parse(b.dataset.a),
+      v = answerOf(k, b.dataset.id) || [],
+      n = (s) =>
+        String(s || "")
+          .trim()
+          .toLowerCase();
+    const good = ans.every((x, i) => {
+      const w = n(v[i]);
+      return w && (n(x).includes(w) || w.includes(n(x).split(/[ (]/)[0]));
+    });
+    sfx(good ? "ok" : "no");
+    toast(good ? "Looks right" : "Have another look");
+  },
+  showfill(b, e, a, k) {
+    sfx("flip");
+    toast(b.dataset.a);
+  },
+  fadd(b, e, a, k) {
+    const v = answerOf(k, b.dataset.id) || { fs: [] },
+      sel =
+        (ui.fsel || {})[k + b.dataset.id] || document.querySelector(`[data-fsel][data-fid="${b.dataset.id}"]`)?.value;
+    if (sel) {
+      setA(k, b.dataset.id, { fs: [...(v.fs || []), { name: sel, dir: b.dataset.dir }], checked: false });
+      sfx("tap");
+      commit();
+    }
+  },
+  fdel(b, e, a, k) {
+    const v = answerOf(k, b.dataset.id) || { fs: [] };
+    setA(k, b.dataset.id, { fs: (v.fs || []).filter((_, i) => i !== +b.dataset.i), checked: false });
+    commit();
+  },
+  fcheck(b, e, a, k) {
+    const v = answerOf(k, b.dataset.id) || { fs: [] };
+    setA(k, b.dataset.id, { ...v, checked: true });
+    sfx("flip");
+    commit();
+  },
+  fshow(b, e, a, k) {
+    const v = answerOf(k, b.dataset.id) || { fs: [] };
+    setA(k, b.dataset.id, { ...v, shown: true });
+    commit();
+  },
+  aidraw(b, e, a, k) {
+    aiCheckDraw(k, b.dataset.id);
+  },
+  drew(b, e, a, k) {
+    if (answerOf(k, b.dataset.id)) delete S.ans[k][b.dataset.id];
+    else {
+      setA(k, b.dataset.id, today);
+      sfx("ok");
+    }
+    commit();
+  },
+  tok(b, e, a, k) {
+    const key = k + b.dataset.id;
+    ui.sel[key] = ui.sel[key] === b.dataset.x ? undefined : b.dataset.x;
+    sfx("tap");
+    renderSheet();
+  },
+  bucket(b, e, a, k) {
+    const sel = ui.sel[k + b.dataset.id];
+    if (sel === undefined) return;
+    const v = { ...(answerOf(k, b.dataset.id) || {}) };
+    v[sel] = +b.dataset.c;
+    setA(k, b.dataset.id, v);
+    ui.sel[k + b.dataset.id] = undefined;
+    sfx("tick");
+    commit();
+  },
+  untok(b, e, a, k) {
+    const v = { ...(answerOf(k, b.dataset.id) || {}) };
+    delete v[b.dataset.x];
+    setA(k, b.dataset.id, v);
+    sfx("flip");
+    commit();
+  },
+  mleft(b, e, a, k) {
+    ui.sel[k + b.dataset.id] = b.dataset.x;
+    sfx("tap");
+    renderSheet();
+  },
+  mright(b, e, a, k) {
+    const l = ui.sel[k + b.dataset.id];
+    if (!l) {
+      sfx("no");
+      toast("Tap a word on the left first");
+      return;
+    }
+    const v = { ...(answerOf(k, b.dataset.id) || {}) };
+    Object.keys(v).forEach((x) => {
+      if (v[x] === b.dataset.x) delete v[x];
+    });
+    v[l] = b.dataset.x;
+    setA(k, b.dataset.id, v);
+    ui.sel[k + b.dataset.id] = undefined;
+    const [si, ii] = b.dataset.id.split("-").map(Number),
+      it = unitBy(k).c.x.wsd[si][1][ii];
+    sfx(it.pairs.some((p) => p[0] === l && p[1] === b.dataset.x) ? "ok" : "tick");
+    commit();
+  },
+  mreset(b, e, a, k) {
+    setA(k, b.dataset.id, {});
+    sfx("flip");
+    commit();
+  },
+  clearpad(b, e, a, k) {
+    const c = document.querySelector(`canvas[data-pad="${CSS.escape(b.dataset.pad)}"]`);
+    if (c) c.getContext("2d").clearRect(0, 0, c.width, c.height);
+    sfx("flip");
+  },
+});

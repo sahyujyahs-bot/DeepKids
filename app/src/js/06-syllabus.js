@@ -457,3 +457,22 @@ const MODES = {
     "var(--gum)",
   ],
 };
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  pdep(b, e, a, k) {
+    const s = b.dataset.s,
+      f = a === "plv" ? "lvl" : "depth";
+    S.prof = {
+      ...(S.prof || {}),
+      [s]: {
+        ...((S.prof || {})[s] || {}),
+        [f]: b.dataset.v,
+        ...(a === "plv" ? { why: "set by you", at: today } : {}),
+      },
+    };
+    sfx("tick");
+    save();
+    render();
+  },
+});

@@ -36,11 +36,11 @@ sh app/tests/run.sh                   # every family type, every button, and a u
 
 ## How the app fits together (read before changing behaviour)
 - **Screens:** `tab` (today, plan, library, progress…) is drawn by `render()` in `20-navigation.js`; each screen is one `*View()` function in its feature file returning HTML. A sheet (`ui.sheet`, `openSheet`) or the unit dialog (`fxDialog()` in `11-units.js`) sits on top.
-- **Buttons:** every button carries `data-act="name"` and the click handler in `21-actions.js` looks it up in the `ACT` table (`ACT.name(b, e, a, k)`); fall-through aliases sit below the table. Data the handler needs goes in `data-*` on the button, never in global variables. Unit-dialog buttons use `data-fx` and `fxClick` instead.
-- **State:** `S` is the family (saved by `commit()`; `save()` writes without redrawing), `ui` is what's open on screen (never saved), `DATA` is the content bundle. Progress on DeepKids units lives in `S.fx` through `fxSt()`; lesson progress in `S.progress` through `st(key)` and `rank`.
+- **Buttons:** every button carries `data-act="name"`; its handler is `ACT.name(b, e, a, k)`, added by the feature file that draws the button (`Object.assign(ACT, {...})` at the end of the file). The one click listener in `21-actions.js` looks the name up; aliases (`ACT.x = ACT.y`) sit there too. Data the handler needs goes in `data-*` on the button, never in global variables. Unit-dialog buttons use `data-fx` and `fxClick` instead.
+- **State:** `S` is the family (saved by `commit()`; `save()` writes without redrawing), `ui` is what's open on screen (never saved), `DATA` is the content bundle. Progress on DeepKids units lives in `S.fx` through `fxSt()`; lesson progress in `S.progress` through `statusOf(key)` and `rank`.
 - **Days:** `dayPlan(date)` in `07-day-plan.js` is the one place that decides what a day holds; everything else (Today, Plan, reminders, the first-week guide) reads it. It is cached per render (`_planMemo`), so call it freely.
 - **AI:** go through `SAMPLE.json(prompt, { modelTier })` only; tiers are `quick` (Haiku) and `default` (Sonnet). The server (`web/supabase/functions/claude`) checks the sign-in, Plus, and the 80-calls-a-day cap. When it fails, show `aiError(e)`.
-- **Helpers you should already know:** `esc` (always, for any text put in HTML), `icon`, `toast`, `sfx`, `newId`, `setSheetTitle`, `unitBy`, `fmt`/`iso`/`parse`/`addDays`, `SC(subject)` for the subject colour class.
+- **Helpers you should already know:** `esc` (always, for any text put in HTML), `icon`, `toast`, `sfx`, `newId`, `setSheetTitle`, `unitBy`, `fmt`/`iso`/`parse`/`addDays`, `subjClass(subject)` for the subject colour class.
 
 ## Content and product rules
 - Two tracks: the DeepKids track (topic-led) and the board track (chapter-led, with the DeepKids layer). Waldorf is a teaching style, not a board. See `app/content/TRACKS.md`.

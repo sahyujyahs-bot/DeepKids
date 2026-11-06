@@ -1455,3 +1455,440 @@ function addParsed() {
   commit();
 }
 const clock24 = (m) => String(Math.floor(m / 60) % 24).padStart(2, "0") + ":" + String(m % 60).padStart(2, "0");
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  qsub(b, e, a, k) {
+    ui.qs = b.dataset.s;
+    sfx("tap");
+    render();
+  },
+  shuffle(b, e, a, k) {
+    const s = b.dataset.s;
+    S.shuffle = { ...(S.shuffle || {}), [s]: !(S.shuffle || {})[s] };
+    S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
+    sfx("flip");
+    commit();
+  },
+  reshuffle(b, e, a, k) {
+    const s = b.dataset.s;
+    S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
+    sfx("flip");
+    commit();
+  },
+  exam(b, e, a, k) {
+    S.exam = !S.exam;
+    sfx("tick");
+    toast(S.exam ? "Exam track on: syllabus first" : "Exam track off");
+    commit();
+  },
+  qlater(b, e, a, k) {
+    const s = b.dataset.s;
+    S.later = { ...(S.later || {}), [s]: [...((S.later || {})[s] || []).filter((x) => x !== k), k] };
+    S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
+    sfx("flip");
+    toast("Moved to later");
+    commit();
+  },
+  qrem(b, e, a, k) {
+    const s = b.dataset.s;
+    S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== k) };
+    S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== k) };
+    sfx("flip");
+    commit();
+  },
+  qadd(b, e, a, k) {
+    ui.flash = k;
+    setTimeout(() => {
+      ui.flash = null;
+    }, 2500);
+    setTimeout(() => document.querySelector(".flash")?.scrollIntoView({ block: "center", behavior: "smooth" }), 120);
+    const s = b.dataset.s;
+    S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
+    sfx("ok");
+    commit();
+    toast(`Added to the ${SUBJ[s]} queue as no. ${qPos(unitBy(k)) || "–"}. Find it in Plan → Lesson plan.`, 5000);
+    if (sheet.open) renderSheet();
+  },
+  lt2(b, e, a, k) {
+    ui.lt = "topics";
+    tab = "library";
+    render();
+    scrollTo(0, 0);
+  },
+  chapter(b, e, a, k) {
+    sfx("flip");
+    if (b.dataset.t) ui.ctab[k] = b.dataset.t;
+    openSheet({ mode: "chapter", k });
+  },
+  tododel(b, e, a, k) {
+    S.todos = (S.todos || []).filter((z) => z.id !== b.dataset.t);
+    sfx("flip");
+    commit();
+  },
+  pv(b, e, a, k) {
+    ui.pv = b.dataset.v;
+    sfx("tap");
+    render();
+  },
+  pday(b, e, a, k) {
+    ui.pday = b.dataset.d;
+    ui.pv = "day";
+    sfx("tap");
+    render();
+  },
+  pdd(b, e, a, k) {
+    ui.pday = addDays(ui.pday || today, +b.dataset.d);
+    sfx("tap");
+    render();
+  },
+  pmon(b, e, a, k) {
+    ui.pm = (ui.pm || 0) + +b.dataset.d;
+    sfx("tap");
+    render();
+  },
+  wk2(b, e, a, k) {
+    ui.week = (ui.week || 0) + +b.dataset.d;
+    sfx("tap");
+    render();
+  },
+  dump(b, e, a, k) {
+    sfx("tap");
+    runDump();
+  },
+  dkeep(b, e, a, k) {
+    const it = ui.dump.items[+b.dataset.i];
+    it.keep = !it.keep;
+    sfx("tap");
+    render();
+  },
+  dwho(b, e, a, k) {
+    const it = ui.dump.items[+b.dataset.i];
+    if (it.type !== "have") {
+      it.who = { you: "kid", kid: "both", both: "you" }[it.who] || "you";
+      sfx("tap");
+      render();
+    }
+  },
+  dadd(b, e, a, k) {
+    addParsed();
+  },
+  dclear(b, e, a, k) {
+    ui.dump = {};
+    render();
+  },
+  askq(b, e, a, k) {
+    const v = b.dataset.a;
+    if (v === "parent") return openSheet({ mode: "parent" });
+    if (sheet.open) sheet.close();
+    const ta = document.getElementById("dumpText");
+    if (ta) {
+      ta.value = (ta.value ? ta.value + "\n" : "") + v.slice(4);
+      ta.focus();
+      ta.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  },
+  ted(b, e, a, k) {
+    ui.ted = b.dataset.id;
+    if (!b.dataset.id) {
+      sfx("ok");
+      commit();
+    } else render();
+  },
+  evday(b, e, a, k) {
+    const ev = (S.events || []).find((x) => x.id === b.dataset.id);
+    if (ev) {
+      const d = +b.dataset.d,
+        set = new Set(ev.rep === "weekly" ? ev.days : []);
+      set.has(d) ? set.delete(d) : set.add(d);
+      if (set.size) {
+        ev.days = [...set];
+        ev.rep = "weekly";
+        ev.date = null;
+      } else {
+        ev.rep = "once";
+        ev.days = [];
+        ev.date = ev.date || today;
+      }
+      sfx("tap");
+      commit();
+    }
+  },
+  evwho(b, e, a, k) {
+    const ev = (S.events || []).find((x) => x.id === b.dataset.id);
+    if (ev) {
+      ev.who = b.dataset.w;
+      sfx("tap");
+      commit();
+    }
+  },
+  evdel(b, e, a, k) {
+    S.events = (S.events || []).filter((x) => x.id !== b.dataset.id);
+    ui.ted = "";
+    sfx("flip");
+    toast("Removed");
+    commit();
+  },
+  tddel(b, e, a, k) {
+    S.todos = (S.todos || []).filter((x) => x.id !== b.dataset.id);
+    sfx("flip");
+    commit();
+  },
+  notedel(b, e, a, k) {
+    S.notes = (S.notes || []).filter((x) => x.id !== b.dataset.id);
+    sfx("flip");
+    commit();
+  },
+  toplan(b, e, a, k) {
+    const dl = document.getElementById("sheet");
+    ui.sheet = null;
+    if (dl?.open) dl.close();
+    tab = "week";
+    ui.seg = { ...(ui.seg || {}), week: "days" };
+    render();
+    setTimeout(() => {
+      const t = document.getElementById("dumpText");
+      if (t) {
+        t.scrollIntoView({ block: "center" });
+        t.focus();
+      }
+    }, 200);
+  },
+  shopr(b, e, a, k) {
+    ui.shopr = b.dataset.r;
+    sfx("tap");
+    render();
+  },
+  shoptick(b, e, a, k) {
+    const ids = b.dataset.ids.split("~"),
+      got = b.getAttribute("aria-pressed") === "true";
+    S.prep = { ...S.prep, ...Object.fromEntries(ids.map((id) => [id, got ? 0 : today])) };
+    sfx(got ? "tap" : "tick");
+    commit();
+  },
+  shopcopy(b, e, a, k) {
+    const L = shopItems(b.dataset.r).filter((g) => !g.got),
+      txt = `${SHOPR[b.dataset.r][0]}, for ${S.child || "our"} lessons:\n` + L.map((g) => "• " + g.name).join("\n");
+    navigator.clipboard?.writeText(txt).then(
+      () => toast("Copied. Paste it anywhere."),
+      () => toast("Couldn't copy here"),
+    );
+  },
+  addmode(b, e, a, k) {
+    ui.addmode = b.dataset.m;
+    sfx("tap");
+    render();
+  },
+  dnofiles(b, e, a, k) {
+    if (ui.dump) ui.dump.files = [];
+    sfx("flip");
+    render();
+  },
+  qpick(b, e, a, k) {
+    ui.qpick = b.dataset.r || null;
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qput(b, e, a, k) {
+    const ty = b.dataset.ty,
+      r = b.dataset.r,
+      n = qPut(ty, b.dataset.s, r, b.dataset.w);
+    ui.qpick = null;
+    ui.flash = r;
+    setTimeout(() => {
+      ui.flash = null;
+    }, 2500);
+    sfx("ok");
+    toast(
+      `${b.dataset.w === "first" ? "Put first" : "Added at the end"}: no. ${n} in the ${ty === "les" ? SUBJ[b.dataset.s] : WORK_TYPES[ty][0].toLowerCase()} queue. See Plan → Queue.`,
+      4500,
+    );
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qmv(b, e, a, k) {
+    const ty = b.dataset.ty,
+      s = b.dataset.s,
+      L = qItems(ty, s).map((x) => x.ref),
+      i = L.indexOf(b.dataset.r),
+      j = i + +b.dataset.d;
+    if (i < 0 || j < 0 || j >= L.length) return;
+    [L[i], L[j]] = [L[j], L[i]];
+    ui.flash = b.dataset.r;
+    setTimeout(() => {
+      ui.flash = null;
+    }, 1500);
+    sfx("tap");
+    setOrder(ty, s, L);
+  },
+  qshuf(b, e, a, k) {
+    const ty = b.dataset.ty,
+      s = b.dataset.s;
+    if (ty === "les") {
+      S.next = { ...(S.next || {}), [s]: [] };
+      S.shuffle = { ...(S.shuffle || {}), [s]: true };
+      S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
+      sfx("flip");
+      commit();
+      toast("Shuffled. Each topic still comes after what it needs first.");
+    } else {
+      const L = qItems(ty, s).map((x) => x.ref);
+      for (let i = L.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [L[i], L[j]] = [L[j], L[i]];
+      }
+      sfx("flip");
+      setOrder(ty, s, L);
+      toast("Shuffled");
+    }
+  },
+  qx(b, e, a, k) {
+    const ty = b.dataset.ty,
+      r = b.dataset.r,
+      key = r.slice(r.indexOf(":") + 1);
+    if (ty !== "les" && b.dataset.how !== "skip") {
+      unQueue(ty, key);
+      sfx("flip");
+      commit();
+      if (sheet.open) renderSheet();
+      toast("Taken out of the queue");
+      return;
+    }
+    if (ty === "les") {
+      const s = b.dataset.s;
+      S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== key) };
+      S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== key) };
+    } else {
+      const W = weekSt();
+      W[key] = { ...(W[key] || {}), st: "skip" };
+      workQueue()[ty] = (workQueue()[ty] || []).filter((x) => x !== r);
+    }
+    sfx("flip");
+    commit();
+    toast("Taken out. You can bring it back from its chapter.");
+  },
+  tdtick(b, e, a, k) {
+    const x = (S.todos || []).find((z) => z.id === b.dataset.t);
+    if (x) {
+      x.done = !x.done;
+      x.doneOn = x.done ? today : null;
+      sfx(x.done ? "tick" : "flip");
+      commit();
+    }
+  },
+  subtog(b, e, a, k) {
+    const s = b.dataset.s,
+      on = S.subjects.includes(s);
+    if (on && S.subjects.length < 2) {
+      sfx("no");
+      toast("Keep at least one subject");
+      return;
+    }
+    S.subjects = on ? S.subjects.filter((x) => x !== s) : SUBJ_KEYS.filter((x) => x === s || S.subjects.includes(x));
+    if (!on) {
+      S.levels = { ...S.levels, [s]: S.levels?.[s] || S.levels?.sci || 1 };
+    }
+    sfx(on ? "flip" : "ok");
+    commit();
+    toast(on ? `${SUBJ[s]} left out. Its progress is kept.` : `${SUBJ[s]} added. It's in Today and the Queue now.`);
+  },
+  pacego(b, e, a, k) {
+    navPush();
+    ui.seg = { ...(ui.seg || {}), week: "family" };
+    sfx("flip");
+    render();
+    setTimeout(() => document.getElementById("paceSec")?.scrollIntoView({ behavior: "smooth", block: "start" }), 60);
+  },
+  ist(b, e, a, k) {
+    const key = k + "|" + b.dataset.id,
+      W = weekSt(),
+      w = W[key] || {},
+      to = b.dataset.to;
+    if (to === "none") {
+      if (w.st !== "planned") delete w.st;
+      W[key] = w;
+    } else if (to === "skip") W[key] = { ...w, st: "skip" };
+    else if (to === "undo") {
+      if (S.tasks[k + "#" + b.dataset.id]) delete S.tasks[k + "#" + b.dataset.id].ws;
+      delete w.st;
+      W[key] = w;
+    }
+    sfx("flip");
+    commit();
+    if (sheet.open) renderSheet();
+    toast(to === "skip" ? "Marked not doing" : to === "undo" ? "Back to not finished" : "Done");
+  },
+  qall(b, e, a, k) {
+    ui.qall = !ui.qall;
+    sfx("tap");
+    render();
+  },
+  qzresume(b, e, a, k) {
+    sfx("flip");
+    ui.qrun = { ...S.qzopen.run, i: S.qzopen.run.res.length, cur: null };
+    ui.qzv = null;
+    openSheet({ mode: "quizz" });
+  },
+  dts(b, e, a, k) {
+    ui.dts = b.dataset.s;
+    sfx("tap");
+    render();
+  },
+  dtreset(b, e, a, k) {
+    const sc = ui.dts || "all";
+    if (sc[0] === "w") {
+      const w = { ...(S.dayW || {}) };
+      delete w[sc.slice(1)];
+      S.dayW = w;
+    } else if (sc.startsWith("d:")) {
+      const o = { ...(S.dayOver || {}) };
+      delete o[sc.slice(2)];
+      S.dayOver = o;
+    }
+    sfx("flip");
+    commit();
+  },
+  wfguide(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "wfguide" });
+  },
+  tqt(b, e, a, k) {
+    ui.tq = b.dataset.t;
+    ui.qpick = null;
+    sfx("tap");
+    render();
+  },
+  qzs(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "qzs", k, n: +b.dataset.n });
+  },
+  lvl(b, e, a, k) {
+    const s = b.dataset.s;
+    S.levels[s] = Math.min(5, Math.max(1, S.levels[s] + +b.dataset.d));
+    sfx("tick");
+    commit();
+  },
+  day(b, e, a, k) {
+    const s = b.dataset.s,
+      d = +b.dataset.d,
+      cur = new Set(daysOf(s));
+    cur.has(d) ? cur.delete(d) : cur.add(d);
+    if (cur.size) {
+      S.days = { ...S.days, [s]: [...cur].sort() };
+      sfx("tap");
+      commit();
+    }
+  },
+  close(b, e, a, k) {
+    const x = S.exps.find((x) => x.id === b.dataset.e);
+    if (x) {
+      x.closed = true;
+      x.end = today;
+      sfx("win");
+      confetti();
+      toast("Finished: " + x.title);
+      commit();
+    }
+  },
+});

@@ -90,3 +90,46 @@ function paperView() {
       : ""
   }${last ? `<div class="row rsend"><button class="btn" data-act="rsdone" data-p="${esc(p.id)}" ${st.read[p.id] ? "disabled" : ""}>${st.read[p.id] ? "✓ Marked as read" : "Mark this paper as read"}</button><button class="btn soft" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}">${st.like[p.id] ? "❤️ Liked" : "🤍 Like it"}</button></div>` : ""}</section>`;
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  paper(b, e, a, k) {
+    sfx("flip");
+    if (ui.sheet?.mode === "paper") {
+      ui.sheet = { mode: "paper", p: b.dataset.p, i: 0 };
+      renderSheet(true);
+    } else openSheet({ mode: "paper", p: b.dataset.p, i: 0 });
+  },
+  rsgo(b, e, a, k) {
+    ui.sheet.i = Math.max(0, +b.dataset.i);
+    sfx("flip");
+    renderSheet(true);
+  },
+  rsf(b, e, a, k) {
+    ui.rsf = b.dataset.f;
+    sfx("tap");
+    render();
+  },
+  rsq(b, e, a, k) {
+    const L = rsUnits(rsBy(b.dataset.p));
+    L.forEach((u) => qPut("les", u.subj, "les:" + u.k, "end"));
+    rsSt().queued = { ...(rsSt().queued || {}), [b.dataset.p]: today };
+    sfx("ok");
+    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    commit();
+    renderSheet();
+  },
+  rsdone(b, e, a, k) {
+    const st = rsSt(),
+      id = b.dataset.p;
+    if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
+    else if (!st.read[id]) {
+      st.read[id] = today;
+      celebrate();
+      toast("Lovely. Your next one will be ready next week.");
+    }
+    if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");
+    commit();
+    if (ui.sheet) renderSheet();
+  },
+});

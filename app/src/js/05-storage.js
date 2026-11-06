@@ -444,3 +444,10 @@ let DBH = null,
   UID = null,
   _all = null,
   ACCT = "";
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  dexport(b, e, a, k) {
+    dataExport();
+  },
+});

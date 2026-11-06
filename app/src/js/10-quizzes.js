@@ -640,3 +640,213 @@ function lanes(date) {
   };
   return `<div class="calhead"><span></span><span>${youBlob()}You</span><span>${kidBlob()}${esc(S.child || "Child")}</span></div><div class="cal" style="height:${(t1 - t0) * ppm}px">${hrs.join("")}<div class="lanes">${items.map(b).join("")}</div></div><p class="xs muted">Full-width blocks are things you do together.</p>`;
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  lvq(b, e, a, k) {
+    ui.lvq = lvqNew(b.dataset.s, S.levels[b.dataset.s] || 3);
+    ui.lvqDone = null;
+    sfx("flip");
+    renderSheet(true);
+  },
+  lvqa(b, e, a, k) {
+    if (b.dataset.v === "stop") ui.lvq = null;
+    else {
+      const lvl = lvqStep(ui.lvq, b.dataset.v === "1");
+      if (lvl) {
+        ui.lvqDone = { s: ui.lvq.s, lvl };
+        ui.lvq = null;
+      }
+    }
+    sfx("tap");
+    renderSheet(true);
+  },
+  lvqset(b, e, a, k) {
+    S.levels = { ...S.levels, [b.dataset.s]: +b.dataset.l };
+    ui.lvqDone = null;
+    _sess = null;
+    sfx("ok");
+    toast(`${SUBJ[b.dataset.s]} now plans from Class ${b.dataset.l}`);
+    commit();
+    renderSheet();
+  },
+  morejg(b, e, a, k) {
+    ui.jg = (ui.jg || 0) + 1;
+    sfx("flip");
+    renderSheet();
+  },
+  quizgo(b, e, a, k) {
+    sfx("flip");
+    ui.qrun = null;
+    ui.qzv = null;
+    openSheet({ mode: "quizz" });
+  },
+  rfset(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "rfset" });
+  },
+  qzset(b, e, a, k) {
+    const Z = (ui.qz = ui.qz || {}),
+      v = b.dataset.v;
+    Z[b.dataset.key] = /^\d+$/.test(v) ? +v : v;
+    sfx("tap");
+    renderSheet();
+  },
+  qzstart(b, e, a, k) {
+    const Z = ui.qz,
+      N = Z.by === "n" ? Z.n : Z.m * 2,
+      P = quizPool(Z.s, Z.focus);
+    if (!P.length) return;
+    const head = Z.focus === "mix" ? P.slice(0, Math.ceil(N / 2)) : [],
+      rest = P.filter((q) => !head.includes(q));
+    for (let i = rest.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [rest[i], rest[j]] = [rest[j], rest[i]];
+    }
+    const qs = [...head, ...rest].slice(0, N);
+    for (let i = qs.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [qs[i], qs[j]] = [qs[j], qs[i]];
+    }
+    ui.qrun = { s: Z.s, by: Z.by, qs, i: 0, res: [], end: Z.by === "m" ? Date.now() + Z.m * 60000 : null };
+    clearInterval(ui.qtick);
+    if (ui.qrun.end)
+      ui.qtick = setInterval(() => {
+        const R = ui.qrun;
+        if (!R || ui.sheet?.mode !== "quizz" || R.saved) {
+          clearInterval(ui.qtick);
+          return;
+        }
+        const e = document.getElementById("qzleft"),
+          l = Math.max(0, Math.round((R.end - Date.now()) / 1000));
+        if (e) e.textContent = Math.floor(l / 60) + ":" + String(l % 60).padStart(2, "0");
+        if (!l) renderSheet();
+      }, 1000);
+    sfx("ok");
+    renderSheet();
+  },
+  qans(b, e, a, k) {
+    const q = (window._qmap || {})[b.dataset.id];
+    if (!q) return;
+    const c = b.dataset.c != null ? +b.dataset.c : null,
+      r = c != null ? c === q.ans : b.dataset.r === "1";
+    qRecord(q, r);
+    if (ui.sheet?.mode === "refresh") rfRecord(q, r);
+    sfx(r ? "ok" : "flip");
+    if (ui.sheet?.mode === "quizz" && ui.qrun) {
+      const R = ui.qrun;
+      if (R.cur?.id !== q.id) {
+        R.cur = { id: q.id, r, c };
+        R.res.push({ q, r, c });
+      }
+      qzKeep();
+    } else {
+      const d = ui.sheet?.date || today;
+      S.rfa = { ...(S.rfa || {}), [d]: { ...((S.rfa || {})[d] || {}), [q.id]: { r, c } } };
+    }
+    commit();
+    renderSheet();
+  },
+  qznext(b, e, a, k) {
+    const R = ui.qrun;
+    if (R) {
+      R.i++;
+      R.cur = null;
+      qzKeep();
+      save();
+    }
+    sfx("tap");
+    renderSheet();
+  },
+  qzstop(b, e, a, k) {
+    const R = ui.qrun;
+    if (R) {
+      R.qs = R.qs.slice(0, R.res.length);
+      R.i = R.qs.length;
+    }
+    renderSheet();
+  },
+  qzagain(b, e, a, k) {
+    ui.qrun = null;
+    renderSheet();
+  },
+  qzend(b, e, a, k) {
+    ui.qrun = null;
+    goBack();
+  },
+  qzpast(b, e, a, k) {
+    ui.qzv = b.dataset.id;
+    renderSheet();
+  },
+  qzback(b, e, a, k) {
+    ui.qzv = null;
+    renderSheet();
+  },
+  qgen(b, e, a, k) {
+    qGen();
+  },
+  rfday(b, e, a, k) {
+    const R = RFS(),
+      d = +b.dataset.d,
+      days = R.days.includes(d) ? R.days.filter((x) => x !== d) : [...R.days, d];
+    S.rfs = { ...(S.rfs || {}), days };
+    delete (S.rfp || {})[today];
+    sfx("tap");
+    commit();
+    renderSheet();
+  },
+  gtab(b, e, a, k) {
+    ui.game = b.dataset.g;
+    sfx("tap");
+    renderSheet();
+  },
+  wk(b, e, a, k) {
+    const u = dailyUnit();
+    if (!u) return;
+    const word = u.c.x.words[dayNo % u.c.x.words.length],
+      g = gamesToday();
+    g.cur = g.cur || "";
+    const key = b.dataset.key;
+    if (g.g.includes(word) || g.g.length >= 6) return;
+    if (key === "DEL") {
+      g.cur = g.cur.slice(0, -1);
+      sfx("key");
+    } else if (key === "ENTER") {
+      if (g.cur.length === 5) {
+        g.g.push(g.cur);
+        const w = g.cur === word;
+        g.cur = "";
+        sfx(w ? "win" : g.g.length >= 6 ? "no" : "flip");
+        if (w) confetti();
+        S.updatedAt = Date.now();
+        save();
+      } else {
+        sfx("no");
+        toast("Five letters, please");
+      }
+    } else if (g.cur.length < 5) {
+      g.cur += key;
+      sfx("key");
+    }
+    renderSheet();
+  },
+  tf(b, e, a, k) {
+    const u = dailyUnit(),
+      q = u.c.x.quiz[+b.dataset.i];
+    gamesToday().tf[b.dataset.i] = +b.dataset.v;
+    sfx((+b.dataset.v === 1) === q[1] ? "ok" : "no");
+    if (Object.keys(gamesToday().tf).length === u.c.x.quiz.length) setTimeout(() => sfx("win"), 300);
+    commit();
+  },
+  odd(b, e, a, k) {
+    const u = dailyUnit(),
+      o = u.c.x.odd[dayNo % u.c.x.odd.length],
+      g = gamesToday();
+    if (!g.odd) {
+      g.odd = b.dataset.w;
+      sfx(g.odd === o[1] ? "win" : "no");
+      if (g.odd === o[1]) confetti();
+      commit();
+    }
+  },
+});

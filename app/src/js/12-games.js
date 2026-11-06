@@ -154,3 +154,19 @@ function pzCell(i) {
   }
   renderSheet();
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  gameopen(b, e, a, k) {
+    gameOpen(b.dataset.u, b.dataset.g);
+  },
+  pzstart(b, e, a, k) {
+    pzStart(b.dataset.k, +(b.dataset.skip || 0));
+  },
+  pzflip(b, e, a, k) {
+    pzFlip(+b.dataset.i);
+  },
+  pzcell(b, e, a, k) {
+    pzCell(+b.dataset.i);
+  },
+});

@@ -316,3 +316,72 @@ function fxObQuiz() {
 function fxObBar(n) {
   return `<div class="fxstep"><b><i style="width:${Math.round(((n + 1) / 6) * 100)}%"></i></b></div>`;
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  login(b, e, a, k) {
+    const ph = (document.getElementById("lgPhone").value || "").replace(/\D/g, "").replace(/^(91|0)(?=\d{10}$)/, ""),
+      nm = (document.getElementById("lgName").value || "").trim();
+    if (
+      ph.length !== 10 ||
+      !/^[6-9]/.test(ph) ||
+      /^(\d)\1{9}$/.test(ph) ||
+      "01234567890".includes(ph) ||
+      "98765432109".includes(ph)
+    ) {
+      ui.lgErr = "Enter a real 10-digit mobile number. Indian mobile numbers start with 6, 7, 8 or 9.";
+      sfx("no");
+      render();
+      return;
+    }
+    ui.lgErr = "";
+    ui.lgBusy = true;
+    render();
+    openAccount("91" + ph, nm).then(() => {
+      ui.lgBusy = false;
+      tab = "today";
+      ui.tday = null;
+      sfx("win");
+      toast(S.setup ? "Welcome back" + (pname() ? ", " + pname() : "") + "!" : "Logged in. Let's set up your year.");
+      render();
+    });
+  },
+  loginas(b, e, a, k) {
+    ui.lgBusy = true;
+    openAccount(b.dataset.a).then(() => {
+      ui.lgBusy = false;
+      tab = "today";
+      ui.tday = null;
+      sfx("win");
+      toast("Welcome back" + (pname() ? ", " + pname() : "") + "!");
+      render();
+    });
+  },
+  logout(b, e, a, k) {
+    logOutNow();
+  },
+  checksaved(b, e, a, k) {
+    if (!store) {
+      ui.saved = { err: "This view isn't connected to your account, so data is only on this device." };
+      renderSheet();
+      return;
+    }
+    ui.savedBusy = true;
+    renderSheet();
+    store
+      .get()
+      .then((sn) => {
+        ui.saved = sn.exists ? { v: sn.data(), at: Date.now() } : { err: "Nothing saved yet for this number." };
+      })
+      .catch(() => {
+        ui.saved = { err: "Couldn't read the database just now. Try again." };
+      })
+      .finally(() => {
+        ui.savedBusy = false;
+        renderSheet();
+      });
+  },
+  signout(b, e, a, k) {
+    window.DK_PLATFORM?.signOut?.();
+  },
+});

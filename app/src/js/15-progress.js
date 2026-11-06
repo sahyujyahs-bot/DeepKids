@@ -2017,3 +2017,160 @@ function viewJourney0() {
   h += rfCard();
   return h;
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  catchup(b, e, a, k) {
+    const s = b.dataset.s,
+      ks = b.dataset.ks.split("~");
+    S.next = { ...(S.next || {}), [s]: [...ks, ...((S.next || {})[s] || []).filter((x) => !ks.includes(x))] };
+    sfx("ok");
+    toast(ks.length > 1 ? `${ks.length} topics moved to the front of ${SUBJ[s]}` : "That's up next");
+    commit();
+  },
+  jrsheet(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "jr", p: b.dataset.p });
+  },
+  jsub(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "jsub", s: b.dataset.s });
+  },
+  jopen(b, e, a, k) {
+    ui.jopen = ui.jopen === k ? null : k;
+    sfx("tap");
+    renderSheet();
+  },
+  folder(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "folder" });
+  },
+  fsave(b, e, a, k) {
+    folderSave();
+  },
+  fprint(b, e, a, k) {
+    folderPrint();
+  },
+  tp(b, e, a, k) {
+    ui.tp = b.dataset.v;
+    ui.tpo = 0;
+    sfx("tap");
+    render();
+  },
+  tpo(b, e, a, k) {
+    ui.tpo = Math.min(0, (ui.tpo || 0) + +b.dataset.d);
+    sfx("tap");
+    render();
+  },
+  tsave(b, e, a, k) {
+    saveDoc(transcriptDoc(), `${(S.child || "Student").replace(/[^\w ]/g, "")} transcript ${today}.html`);
+  },
+  tprint(b, e, a, k) {
+    printDoc(transcriptDoc());
+  },
+  tsub(b, e, a, k) {
+    const T = tSetup(),
+      s = b.dataset.s,
+      o = new Set(T.off || []);
+    o.has(s) ? o.delete(s) : o.add(s);
+    T.off = [...o];
+    sfx("tap");
+    commit();
+  },
+  tmake(b, e, a, k) {
+    const t = curTest();
+    if (
+      t &&
+      Object.keys(t.ans).length &&
+      !tDone(t) &&
+      !confirm("Start a new paper? The unfinished test will be kept but not continued.")
+    )
+      return;
+    ui.zs = null;
+    makeTest();
+  },
+  tstart(b, e, a, k) {
+    ui.ex = null;
+    sfx("flip");
+    openSheet({ mode: "exam" });
+  },
+  tgo(b, e, a, k) {
+    const t = curTest(),
+      X = t.subjects[ui.ex.si];
+    t.start = t.start || {};
+    t.start[X.s] = t.start[X.s] || Date.now();
+    ui.ex.qi = 0;
+    sfx("tap");
+    commit();
+  },
+  tans(b, e, a, k) {
+    const t = curTest(),
+      X = t.subjects[ui.ex.si];
+    if (t.done?.[X.s]) return;
+    t.ans[X.s + "|" + ui.ex.qi] = +b.dataset.i;
+    sfx("tap");
+    commit();
+  },
+  tmove(b, e, a, k) {
+    const t = curTest(),
+      n = t.subjects[ui.ex.si].qs.length;
+    ui.ex.qi = Math.max(0, Math.min(n - 1, ui.ex.qi + +b.dataset.d));
+    sfx("flip");
+    render();
+    document.getElementById("sheetBody")?.scrollTo?.(0, 0);
+  },
+  tjump(b, e, a, k) {
+    ui.ex.qi = +b.dataset.i;
+    sfx("tap");
+    render();
+  },
+  tfin(b, e, a, k) {
+    const t = curTest(),
+      X = t.subjects[ui.ex.si];
+    t.done = t.done || {};
+    t.done[X.s] = Date.now();
+    ui.ex = { si: t.subjects.findIndex((x) => !t.done[x.s]), qi: -1 };
+    ui.zs = null;
+    sfx("win");
+    if (ui.ex.si < 0) confetti();
+    commit();
+  },
+  tdl(b, e, a, k) {
+    tdlDoc(b.dataset.d);
+  },
+  zall(b, e, a, k) {
+    const Z = zipSel(),
+      g = b.dataset.g;
+    if (b.dataset.v === "1") {
+      if (g === "ws") folderData().forEach((c) => c.ws.forEach((w) => Z.ws.add(w.k)));
+      else (S.work || []).forEach((w) => Z.up.add(w.id));
+    } else Z[g].clear();
+    ui.zip = null;
+    render();
+  },
+  zmake(b, e, a, k) {
+    zipBuild();
+  },
+  zsave(b, e, a, k) {
+    zipSave();
+  },
+  zshare(b, e, a, k) {
+    zipShare();
+  },
+  hty(b, e, a, k) {
+    ui.hty = b.dataset.t;
+    ui.hn = 25;
+    sfx("tap");
+    render();
+  },
+  hs(b, e, a, k) {
+    ui.hs = b.dataset.s;
+    ui.hn = 25;
+    sfx("tap");
+    render();
+  },
+  hmore(b, e, a, k) {
+    ui.hn = (ui.hn || 25) + 25;
+    render();
+  },
+});

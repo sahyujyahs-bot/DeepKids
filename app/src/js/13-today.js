@@ -667,3 +667,398 @@ function fxTodayTop(animate) {
   const em = pic ? `<div class="fxempty"><img src="media/ui/${pic[0]}.jpg" alt=""><p>${pic[1]}</p></div>` : "";
   return em || cont ? `<section class="sec fxtoday${animate ? " fxanim" : ""}">${em}${cont}</section>` : "";
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  topen(b, e, a, k) {
+    const id = b.dataset.id,
+      cur = !!ui.open[id];
+    ui.open[id] = !cur;
+    sfx(cur ? "tap" : "flip");
+    render();
+  },
+  play(b, e, a, k) {
+    const it = findItem(b.dataset.id);
+    if (it) {
+      sfx("flip");
+      playItem(it);
+    }
+  },
+  more(b, e, a, k) {
+    const s = b.dataset.s;
+    ui.more[s] = true;
+    sfx("tick");
+    _sess = null;
+    const it = dayPlan(today).find((i) => i.kind === "lesson" && i.s === s && !i.done);
+    render();
+    if (it) playItem(it);
+  },
+  less(b, e, a, k) {
+    ui.more[b.dataset.s] = false;
+    sfx("flip");
+    render();
+  },
+  skip(b, e, a, k) {
+    S.skips[today + "|" + b.dataset.s] = true;
+    sfx("flip");
+    toast("Moved to the next lesson day");
+    commit();
+  },
+  swap(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "swap", s: b.dataset.s });
+  },
+  tday(b, e, a, k) {
+    // the day changes in place: the day header stays where it was on the screen, only the list below it changes
+    const d = b.dataset.d,
+      top = document.querySelector(".calhead")?.getBoundingClientRect().top;
+    ui.tday = d === "0" ? null : addDays(ui.tday || today, +d);
+    if (ui.tday === today) ui.tday = null;
+    sfx("tap");
+    render();
+    const el = document.querySelector(".calhead");
+    if (el && top != null) scrollBy(0, el.getBoundingClientRect().top - top);
+  },
+  quickday(b, e, a, k) {
+    navPush();
+    ui.pday = b.dataset.d;
+    ui.pv = "day";
+    tab = "week";
+    render();
+    scrollTo(0, 0);
+  },
+  nowmore(b, e, a, k) {
+    const k2 = "now|" + b.dataset.id;
+    ui.open[k2] = !ui.open[k2];
+    sfx("tap");
+    render();
+  },
+  showdone(b, e, a, k) {
+    ui.showDone = !ui.showDone;
+    sfx("tap");
+    render();
+  },
+  moresheet(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "more" });
+  },
+  plsheet(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "pl", p: b.dataset.p });
+  },
+  learn(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "learn" });
+  },
+  quickplan(b, e, a, k) {
+    tab = "week";
+    render();
+    scrollTo(0, 0);
+  },
+  free(b, e, a, k) {
+    openPicker();
+  },
+  games(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "games" });
+  },
+  night(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "night" });
+  },
+  nightdone(b, e, a, k) {
+    S.night = { ...(S.night || {}), [today]: 1 };
+    sfx("win");
+    toast("All set. Sleep well!");
+    sheet.close();
+    commit();
+  },
+  parent(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "parent" });
+  },
+  phelp(b, e, a, k) {
+    ui.phelp = ui.phelp || new Set((S.parent || {}).help || []);
+    ui.phelp.has(b.dataset.s) ? ui.phelp.delete(b.dataset.s) : ui.phelp.add(b.dataset.s);
+    b.setAttribute("aria-pressed", ui.phelp.has(b.dataset.s));
+    sfx("tap");
+  },
+  psave(b, e, a, k) {
+    const g = (id) => document.getElementById(id).value;
+    S.parent = {
+      ...(S.parent || {}),
+      name: g("pName").trim(),
+      langs: g("pLang").trim(),
+      help: [...(ui.phelp || new Set((S.parent || {}).help || []))],
+      saved: Date.now(),
+    };
+    ui.phelp = null;
+    S.alarm = { on: document.getElementById("pAlarm").checked, time: g("pWake") || "06:30" };
+    S.day = {
+      ...dayDefaults(),
+      prepAt: g("pPrep") || dayDefaults().prepAt,
+      start: g("pStart") || dayDefaults().start,
+      eveAt: g("pEve") || dayDefaults().eveAt,
+    };
+    sfx("win");
+    S.updatedAt = Date.now();
+    sheet.close();
+    render();
+    saveNow().then((ok) =>
+      toast(
+        ok
+          ? S.parent.name
+            ? "Saved. Hi, " + S.parent.name + "!"
+            : "Saved to your account"
+          : store
+            ? "Couldn't reach your account. Saved on this phone; it will retry."
+            : "Saved",
+      ),
+    );
+  },
+  quick(b, e, a, k) {
+    sfx("flip");
+    ui.qaOpen = !ui.qaOpen;
+    render();
+    if (ui.qaOpen) setTimeout(() => document.getElementById("qa-t")?.focus(), 80);
+  },
+  qwho(b, e, a, k) {
+    ui.qwho = b.dataset.w;
+    b.parentElement.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+    sfx("tap");
+  },
+  qaddq(b, e, a, k) {
+    quickSave(b.closest(".addbox"));
+  },
+  qkind(b, e, a, k) {
+    qaKeep(b);
+    ui.qkind = b.dataset.k;
+    ui.qrep = ui.qwho = null;
+    ui.qdays = [];
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qrep(b, e, a, k) {
+    qaKeep(b);
+    ui.qrep = b.dataset.r;
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  qday(b, e, a, k) {
+    qaKeep(b);
+    const d = +b.dataset.d,
+      days = ui.qdays || [];
+    ui.qdays = days.includes(d) ? days.filter((x) => x !== d) : [...days, d];
+    sfx("tap");
+    render();
+    if (sheet.open) renderSheet();
+  },
+  todomove(b, e, a, k) {
+    const x = (S.todos || []).find((z) => z.id === b.dataset.t);
+    if (x) {
+      x.date = tomorrow();
+      sfx("flip");
+      toast("Moved to tomorrow");
+      commit();
+    }
+  },
+  tlcheck(b, e, a, k) {
+    const date = b.dataset.date,
+      it = dayPlan(date).find((i) => i.id === b.dataset.id);
+    if (!it) return;
+    if (it.kind === "event" && evGate(it, date)) return;
+    if (["lesson", "warm", "refresh"].includes(it.kind) && !it.done) {
+      openSheet({ mode: "iopts", date, id: it.id });
+      return;
+    }
+    if (it.kind === "prep") {
+      const all = it.prep.every((p) => S.prep[p.id]);
+      it.prep.forEach((p) => {
+        if (all) delete S.prep[p.id];
+        else S.prep[p.id] = today;
+      });
+      sfx(all ? "flip" : "ok");
+    } else if (it.kind === "exps") {
+      S.exps
+        .filter((x) => !x.closed && x.start <= date)
+        .forEach((x) => {
+          if (!x.checks.includes(today)) x.checks.push(today);
+        });
+      sfx("ok");
+    } else if (it.kind === "lesson") {
+      if (it.done) {
+        toast("Already done today");
+        return;
+      }
+      if (date !== today) {
+        openSheet({ mode: "chapter", k: it.u.k });
+        return;
+      }
+      return playItem(it);
+    } else if (it.kind === "todo") {
+      const x = it.td;
+      if (x.done && x.doneOn === date) {
+        x.done = false;
+        delete x.doneOn;
+        sfx("flip");
+      } else {
+        x.done = true;
+        x.doneOn = date;
+        sfx("ok");
+      }
+    } else {
+      const key = date + "|" + it.id;
+      if (S.tl[key]) delete S.tl[key];
+      else {
+        S.tl[key] = Date.now();
+        sfx("ok");
+      }
+    }
+    commit();
+  },
+  tlopen(b, e, a, k) {
+    const date = b.dataset.date,
+      it = dayPlan(date).find((i) => i.id === b.dataset.id);
+    if (!it) return;
+    sfx("tap");
+    if (it.kind === "prep") return openSheet({ mode: "prep", date, when: it.id });
+    if (it.kind === "lesson") return it.done ? openSheet({ mode: "chapter", k: it.u.k }) : playItem(it);
+    if (it.kind === "warm") return openSheet({ mode: "games" });
+  },
+  prep(b, e, a, k) {
+    const id = b.dataset.id;
+    if (S.prep[id]) delete S.prep[id];
+    else {
+      S.prep[id] = today;
+      sfx("tick");
+    }
+    commit();
+  },
+  delev(b, e, a, k) {
+    S.events = (S.events || []).filter((x) => x.id !== b.dataset.e);
+    sfx("flip");
+    commit();
+  },
+  refresh(b, e, a, k) {
+    sfx("flip");
+    const date = b.dataset.date || today;
+    // today's refresher is built first (a DeepKids unit's questions are loaded), then it opens with its first question
+    if (date === today) rfBuild(date).then(() => openSheet({ mode: "refresh", date }));
+    else openSheet({ mode: "refresh", date });
+  },
+  uploads(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "uploads" });
+  },
+  iopts(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "iopts", date: b.dataset.date, id: b.dataset.id });
+  },
+  evmiss(b, e, a, k) {
+    const date = b.dataset.date,
+      id = b.dataset.id;
+    S.evlog = { ...(S.evlog || {}), [date + "|" + id]: { went: false, at: Date.now() } };
+    S.tl[date + "|e-" + id] = "missed";
+    sfx("flip");
+    toast("Noted: didn't happen");
+    commit();
+  },
+  wk1done(b, e, a, k) {
+    S.wk1 = { ...(S.wk1 || {}), done: { ...(S.wk1?.done || {}), [b.dataset.k]: today } };
+    ui.wk1at = null;
+    sfx("win");
+    toast(
+      WEEK1.every(wk1Done)
+        ? "Your first week is done. Well done, both of you!"
+        : "Lovely. The next one is waiting for tomorrow.",
+    );
+    commit();
+  },
+  wk1go(b, e, a, k) {
+    ui.wk1at = +b.dataset.i;
+    sfx("flip");
+    render();
+  },
+  wk1exp(b, e, a, k) {
+    wk1Experiment();
+  },
+  wk1unit(b, e, a, k) {
+    fxOpen(wk1Unit().c.unit);
+  },
+  wk1ws(b, e, a, k) {
+    // the first lesson with something to print: a DeepKids unit opens at its first worksheet, a DeepKids
+    // lesson at its own worksheet, a board chapter at its topic's worksheets
+    const u = wk1Unit() || wk1Lessons().find((x) => x.c?.p?.worksheets?.length || wsOf(x).length);
+    if (u?.board === "unit")
+      fxOpen(u.c.unit).then(() => {
+        const i = (FXALL?.sections || []).findIndex((x) => x.id.startsWith("ws-"));
+        if (i >= 0) fxGo(i, 0);
+      });
+    else if (u?.c?.p?.worksheets?.length) openSheet({ mode: "ws", k: u.k, w: u.c.p.worksheets[0].id });
+    else if (u) openSheet({ mode: "wsv", k: u.k, i: 0 });
+    else {
+      tab = "library";
+      ui.lt = "science";
+      render();
+    }
+  },
+  wk1iam(b, e, a, k) {
+    document.getElementById("fxFab")?.click();
+  },
+  wk1off(b, e, a, k) {
+    S.wk1 = { ...(S.wk1 || {}), off: true };
+    sfx("flip");
+    toast("Hidden. You can find every feature from the menu.");
+    commit();
+  },
+  gotab(b, e, a, k) {
+    navPush();
+    if (b.dataset.qs) {
+      ui.qs = b.dataset.qs;
+      ui.tq = "les";
+    }
+    const dl = document.getElementById("sheet");
+    if (dl?.open) {
+      ui.sheet = null;
+      dl.close();
+    }
+    tab = b.dataset.tab;
+    if (b.dataset.seg) ui.seg = { ...(ui.seg || {}), [tab]: b.dataset.seg };
+    sfx("flip");
+    render();
+    scrollTo(0, 0);
+    // a "Show me" can point at one box on that screen
+    const f = b.dataset.focus && document.getElementById(b.dataset.focus);
+    if (f) {
+      f.scrollIntoView({ block: "center" });
+      f.focus({ preventScroll: true });
+    }
+  },
+  tofinish(b, e, a, k) {
+    navPush();
+    tab = "week";
+    ui.seg = { ...(ui.seg || {}), week: "finish" };
+    sfx("flip");
+    render();
+    scrollTo(0, 0);
+  },
+  check(b, e, a, k) {
+    const x = S.exps.find((x) => x.id === b.dataset.e);
+    if (x && !x.checks.includes(today)) {
+      x.checks.push(today);
+      sfx("ok");
+      commit();
+    }
+  },
+  addexp(b, e, a, k) {
+    const v = document.getElementById("newExp").value.trim();
+    if (v) {
+      addExp(v, "Our own experiment");
+      sfx("ok");
+      commit();
+      clearIn("newExp");
+    }
+  },
+});

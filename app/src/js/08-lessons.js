@@ -883,3 +883,175 @@ function chapterView() {
 // free sheets made by others for this chapter, as links to their own sites (content/curriculum/free_worksheets.json)
 const moreFromOtherSites = (M) =>
   `<section class="card"><span class="eyebrow">More from other sites</span><p class="xs muted">Free sheets made by others for this chapter. They open on their own site.</p>${M.map((w) => `<a class="res" href="${esc(w.url)}" target="_blank" rel="noopener"><b>${esc(w.title)}</b><br><span class="xs muted">${esc(w.publisher)}${w.age ? " · " + esc(w.age) : ""}${w.what ? " · " + esc(w.what) : ""}</span></a>`).join("")}</section>`;
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  pstep(b, e, a, k) {
+    ui.sheet.i = Math.max(0, ui.sheet.i + +b.dataset.d);
+    sfx("tap");
+    renderSheet(true);
+    autoRead();
+  },
+  readnow(b, e, a, k) {
+    readNow();
+  },
+  autoread(b, e, a, k) {
+    S.autoRead = !S.autoRead;
+    save();
+    toast(S.autoRead ? "Each step will be read aloud as you go." : "Steps won't be read automatically.");
+    renderSheet();
+  },
+  pdone(b, e, a, k) {
+    const P = ui.sheet,
+      it = { u: unitBy(P.k), n: P.n, tot: P.tot, bonus: P.bonus },
+      x = stepState(it)[P.i],
+      key = stepKey(it),
+      set = new Set(S.steps[key] || []);
+    if (x) {
+      const sec = Math.round(stepSecs());
+      if (sec >= 3) {
+        S.pace = (S.pace || [])
+          .concat([
+            {
+              k: P.k,
+              sec: x.sec || "book",
+              kind: x.kind,
+              est: Math.round(x.mins * 60),
+              took: Math.round((sec / 60) * 10) / 10,
+              date: today,
+            },
+          ])
+          .slice(-3000);
+        addMins(unitByK(String(P.k || "").replace(/^x/, ""))?.subj, sec);
+      }
+      stepT = null;
+    }
+    if (x && !x.ok) {
+      set.add(sid(x));
+      S.steps[key] = [...set];
+      sfx("tick");
+    } else sfx("tap");
+    P.i++;
+    S.updatedAt = Date.now();
+    save();
+    renderSheet(true);
+    autoRead();
+  },
+  finish(b, e, a, k) {
+    const P = ui.sheet,
+      u = unitBy(P.k);
+    if (!u) return;
+    const it = { u, n: P.n, tot: P.tot, bonus: P.bonus },
+      open = stepState(it).filter((x) => !x.ok);
+    S.carry = S.carry || {};
+    S.carry[u.k] =
+      open.length && P.n < P.tot
+        ? open.map((x) => ({
+            kind: x.kind,
+            label: x.label,
+            title: x.title.replace(/^From last time: /, ""),
+            mins: x.mins,
+            name: x.name,
+            forN: P.n + 1,
+          }))
+        : [];
+    logSession(u, P.bonus ? "more" : "plan");
+    ui.more[P.s] = false;
+    sheet.close();
+    sfx("win");
+    confetti();
+    toast(
+      open.length && P.n < P.tot
+        ? `Done. ${open.length} open step${open.length > 1 ? "s" : ""} moved to next time`
+        : P.bonus
+          ? "Extra lesson done"
+          : "Lesson done. Well done!",
+    );
+    commit();
+    scrollTo({ top: 0, behavior: "smooth" });
+  },
+  qnext(b, e, a, k) {
+    const s = b.dataset.s;
+    S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
+    S.later = { ...(S.later || {}), [s]: ((S.later || {})[s] || []).filter((x) => x !== k) };
+    sfx("ok");
+    commit();
+    toast(nextMsg(s, k), 5000);
+    if (sheet.open) renderSheet();
+  },
+  ctab(b, e, a, k) {
+    navPush();
+    ui.ctab[k] = b.dataset.t;
+    sfx("tap");
+    renderSheet(true);
+  },
+  qi(b, e, a, k) {
+    ui.qi[k] = Math.max(0, (ui.qi[k] || 0) + +b.dataset.d);
+    sfx("flip");
+    renderSheet(true);
+  },
+  ws(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "ws", k, w: b.dataset.w });
+  },
+  task(b, e, a, k) {
+    const id = b.dataset.id;
+    S.tasks[k] = S.tasks[k] || {};
+    if (S.tasks[k][id]) {
+      delete S.tasks[k][id];
+      sfx("flip");
+    } else {
+      S.tasks[k][id] = today;
+      sfx("ok");
+    }
+    commit();
+  },
+  startexp(b, e, a, k) {
+    addExp(b.dataset.title, b.dataset.topic);
+    sfx("ok");
+    toast("Started. Tick it once a day under Daily check-ins.");
+    commit();
+  },
+  status(b, e, a, k) {
+    const p = S.progress[k] || { sessions: 0 };
+    p.status = b.dataset.s;
+    p.updated = today;
+    S.progress[k] = p;
+    sfx(b.dataset.s === "mastered" ? "win" : "tick");
+    commit();
+  },
+  logk(b, e, a, k) {
+    const u = unitBy(k);
+    if (u) {
+      logSession(u, "free");
+      sfx("ok");
+      toast("Logged for today");
+      commit();
+    }
+  },
+  hubres(b, e, a, k) {
+    ui.hubres = true;
+    renderSheet();
+  },
+  pjump(b, e, a, k) {
+    ui.sheet.i = Math.max(0, +b.dataset.i);
+    sfx("tap");
+    renderSheet(true);
+    autoRead();
+  },
+  wsview(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "wsv", k, i: +b.dataset.i });
+  },
+  cgprint(b, e, a, k) {
+    const u = unitByK(k);
+    if (u?.c?.p?.game) {
+      sfx("ok");
+      printDoc(wsPage(gameSheet(u), u));
+    }
+  },
+  cgview(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "wsv", k, game: 1 });
+  },
+});

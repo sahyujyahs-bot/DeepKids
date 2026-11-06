@@ -508,3 +508,17 @@ function fxFab() {
 }
 // AI is on for families with DeepKids Plus (on the website), or when switched on for testing
 const fxAIOn = () => S.aiPlan === "on" || !!window.DK_PLATFORM?.plus?.()?.on;
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  qsend(b, e, a, k) {
+    qSend();
+  },
+  plus(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "plus", r: b.dataset.r || "" });
+  },
+  plusgo(b, e, a, k) {
+    plusGo();
+  },
+});

@@ -847,6 +847,53 @@ function ampmGuess(t, w) {
   if (h >= 7 && h <= 11) return "ask";
   return null;
 }
+/* "I have a microscope, two comics and a globe": one shelf item per thing named, sorted into a category */
+const HAVE_CATEGORY = [
+  [/\b(book|books|comic|comics|story|novel|encyclopedia|atlas)\b/i, "book"],
+  [GAMEW, "game"],
+  [/\b(tablet|laptop|computer|ipad|phone|kindle|tv|speaker)\b/i, "electronics"],
+  [/\b(microscope|magnifying|telescope|globe|kit|magnet|lens|thermometer|binoculars)\b/i, "equipment"],
+];
+function haveItems(list) {
+  return list
+    .split(/,\s*|\s+and\s+/)
+    .map((s) => s.replace(/^(a|an|the|some)\s+/i, "").trim())
+    .filter(Boolean)
+    .map((n) => ({
+      type: "have",
+      title: n[0].toUpperCase() + n.slice(1),
+      who: "you",
+      category: (HAVE_CATEGORY.find(([re]) => re.test(n)) || [0, "other"])[1],
+      keep: true,
+    }));
+}
+/* what kind of plan a sentence describes: the first rule that matches wins; timed = it has a time or days */
+function planType(seg, timed, start) {
+  const l = seg.toLowerCase();
+  const type = RESTW.test(l)
+    ? "rest"
+    : MEALW.test(l)
+      ? "meal"
+      : TODOW.test(seg)
+        ? "todo"
+        : APPTW.test(l)
+          ? "other"
+          : CLASSW.test(l)
+            ? "class"
+            : OUTW.test(l)
+              ? "outing"
+              : timed
+                ? "class"
+                : "todo";
+  return type === "todo" && start && !TODOW.test(seg) ? "other" : type;
+}
+/* who a plan is for: the parent, the child, or both */
+function planWho(l, type) {
+  if (/\b(i|me|my)\b/.test(l) && !CLASSW.test(l)) return "you";
+  if (["class", "rest"].includes(type)) return "kid";
+  if (/\b(we|us|together|family)\b/.test(l)) return "both";
+  return type === "todo" ? "you" : "both";
+}
 function localParse(text) {
   const items = [],
     asks = [];
@@ -854,28 +901,7 @@ function localParse(text) {
     const l = seg.toLowerCase();
     const hv = HAVEW.exec(seg);
     if (hv) {
-      seg
-        .slice(hv[0].length)
-        .split(/,\s*|\s+and\s+/)
-        .map((s) => s.replace(/^(a|an|the|some)\s+/i, "").trim())
-        .filter(Boolean)
-        .forEach((n) =>
-          items.push({
-            type: "have",
-            title: n[0].toUpperCase() + n.slice(1),
-            who: "you",
-            category: /\b(book|books|comic|comics|story|novel|encyclopedia|atlas)\b/i.test(n)
-              ? "book"
-              : GAMEW.test(n)
-                ? "game"
-                : /\b(tablet|laptop|computer|ipad|phone|kindle|tv|speaker)\b/i.test(n)
-                  ? "electronics"
-                  : /\b(microscope|magnifying|telescope|globe|kit|magnet|lens|thermometer|binoculars)\b/i.test(n)
-                    ? "equipment"
-                    : "other",
-            keep: true,
-          }),
-        );
+      items.push(...haveItems(seg.slice(hv[0].length)));
       return;
     }
     let w = whenOf(seg),
@@ -883,32 +909,8 @@ function localParse(text) {
       date = days ? null : dateWords(seg);
     const title = titleOf(seg);
     if (!title) return;
-    let type = RESTW.test(l)
-      ? "rest"
-      : MEALW.test(l)
-        ? "meal"
-        : TODOW.test(seg)
-          ? "todo"
-          : APPTW.test(l)
-            ? "other"
-            : CLASSW.test(l)
-              ? "class"
-              : OUTW.test(l)
-                ? "outing"
-                : w.start || days
-                  ? "class"
-                  : "todo";
-    if (type === "todo" && w.start && !TODOW.test(seg)) type = "other";
-    const who =
-      /\b(i|me|my)\b/.test(l) && !CLASSW.test(l)
-        ? "you"
-        : ["class", "rest"].includes(type)
-          ? "kid"
-          : /\b(we|us|together|family)\b/.test(l)
-            ? "both"
-            : type === "todo"
-              ? "you"
-              : "both";
+    const type = planType(seg, w.start || days, w.start),
+      who = planWho(l, type);
     const it = {
       type,
       title,
@@ -1800,3 +1802,111 @@ function fxWeekRow() {
 }
 const fxAIRow = () =>
   `<div class="field"><label>AI features (chat, checking a photo of a worksheet)</label><button class="chip" data-fxai="1">${fxAIOn() ? "🔓 Unlocked" : "🔒 Locked until you top up"}</button><p class="xs muted">Top-ups are not open yet. For testing you can unlock here.</p></div>`;
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  gcsync(b, e, a, k) {
+    gcSync(true);
+  },
+  gcoff(b, e, a, k) {
+    S.cal = { on: false };
+    sfx("flip");
+    toast("Calendar unlinked");
+    commit();
+  },
+  gccal(b, e, a, k) {
+    const c = S.cal || {},
+      id = b.dataset.id,
+      set = new Set(c.cals || []);
+    set.has(id) ? set.delete(id) : set.add(id);
+    S.cal = { ...c, cals: [...set] };
+    gcSync(true);
+  },
+  told(b, e, a, k) {
+    sfx("flip");
+    ui.ted = "";
+    if (tab === "week" && seg("week") === "cal" && !sheet.open) {
+      render();
+      document
+        .querySelector('#main [data-act="ted"]')
+        ?.closest("section")
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+      return;
+    }
+    openSheet({ mode: "told" });
+    render();
+  },
+  texit(b, e, a, k) {
+    goBack();
+  },
+  evcancel(b, e, a, k) {
+    const dk = b.dataset.date + "|" + b.dataset.id;
+    S.evoff = { ...(S.evoff || {}), [dk]: Date.now() };
+    sfx("flip");
+    toast("Cancelled · undo it under the day's date");
+    if (ui.sheet?.mode === "evpre") goBack();
+    commit();
+  },
+  evundo(b, e, a, k) {
+    const o = { ...(S.evoff || {}) };
+    delete o[b.dataset.date + "|" + b.dataset.id];
+    S.evoff = o;
+    sfx("tap");
+    commit();
+  },
+  evf(b, e, a, k) {
+    const F = (ui.evf = ui.evf || {});
+    ["covered", "hw", "note"].forEach((k) => {
+      const el = document.getElementById("evf-" + k);
+      if (el) F[k] = el.value;
+    });
+    F[b.dataset.k] = b.dataset.k === "went" ? b.dataset.v === "1" : b.dataset.v;
+    sfx("tap");
+    render();
+  },
+  evsave(b, e, a, k) {
+    evSave(!!b.dataset.quick);
+  },
+  rem(b, e, a, k) {
+    sfx("flip");
+    openSheet({ mode: "rem" });
+  },
+  remday(b, e, a, k) {
+    const R = REM(),
+      d = +b.dataset.d,
+      set = new Set(R.days || [1, 2, 3, 4, 5]);
+    set.has(d) ? set.delete(d) : set.add(d);
+    if (set.size) {
+      R.days = [...set];
+      sfx("tap");
+      commit();
+    }
+  },
+  remics(b, e, a, k) {
+    saveIcs();
+  },
+  nudgeoff(b, e, a, k) {
+    S.nudgeOff = { ...(S.nudgeOff || {}), [today]: Date.now() + 2 * 36e5 };
+    sfx("flip");
+    toast("Okay. We'll check again later.");
+    commit();
+  },
+  todo(b, e, a, k) {
+    navPush();
+    const dl = document.getElementById("sheet");
+    if (dl?.open) {
+      ui.sheet = null;
+      dl.close();
+    }
+    tab = "week";
+    ui.seg = { ...(ui.seg || {}), week: "finish" };
+    sfx("flip");
+    render();
+    scrollTo(0, 0);
+  },
+  joke(b, e, a, k) {
+    ui.jokes[b.dataset.j] = !ui.jokes[b.dataset.j];
+    sfx(ui.jokes[b.dataset.j] ? "ok" : "flip");
+    sheet.open ? renderSheet() : render();
+  },
+});

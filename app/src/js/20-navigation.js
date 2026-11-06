@@ -424,3 +424,47 @@ const fxHome = () => {
   render();
   scrollTo(0, 0);
 };
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  delprofileno(b, e, a, k) {
+    ui.delAsk = a === "delprofile";
+    renderSheet();
+  },
+  delprofileyes(b, e, a, k) {
+    ui.delAsk = false;
+    deleteProfile().then(logOutNow);
+  },
+  seg(b, e, a, k) {
+    navPush();
+    ui.seg = { ...(ui.seg || {}), [b.dataset.k]: b.dataset.v };
+    sfx("tap");
+    render();
+    scrollTo(0, 0);
+  },
+  guidetoggle(b, e, a, k) {
+    guideToggle(b.checked);
+    renderSheet();
+  },
+  sndtoggle(b, e, a, k) {
+    document.getElementById("snd")?.click();
+    setTimeout(() => {
+      if (ui.sheet) renderSheet();
+    }, 50);
+  },
+  saveset(b, e, a, k) {
+    S.child = document.getElementById("sName").value.trim();
+    const v = document.getElementById("sStart").value;
+    if (v) S.start = v;
+    sfx("ok");
+    S.updatedAt = Date.now();
+    render();
+    saveNow().then((ok) =>
+      toast(ok || !store ? "Saved" : "Couldn't reach your account. Saved on this phone; it will retry."),
+    );
+  },
+  redo(b, e, a, k) {
+    sheet.close();
+    startOnboarding(1);
+  },
+});

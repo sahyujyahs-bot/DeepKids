@@ -290,3 +290,48 @@ function lifeTranscript() {
       : "")
   );
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  lifeadd(b, e, a, k) {
+    ui.lf = { kind: "did" };
+    openSheet({ mode: "lifeadd" });
+  },
+  lifekind(b, e, a, k) {
+    ui.lf = {
+      ...ui.lf,
+      kind: b.dataset.k,
+      title: document.getElementById("lfTitle")?.value,
+      text: document.getElementById("lfText")?.value,
+    };
+    renderSheet();
+  },
+  lifesave(b, e, a, k) {
+    lifeSave();
+  },
+  lifeopen(b, e, a, k) {
+    openSheet({ mode: "moment", id: b.dataset.id });
+  },
+  intq(b, e, a, k) {
+    const x = intSt().find((y) => y.id === b.dataset.id),
+      L = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
+    L.forEach((l) => qPut("les", lifeTarget(l.k).u.subj, "les:" + lifeTarget(l.k).u.k, "end"));
+    x.queued = [...x.queued, ...L.map((l) => l.k)];
+    sfx("ok");
+    toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+    commit();
+  },
+  intx(b, e, a, k) {
+    S.interests = intSt().filter((y) => y.id !== b.dataset.id);
+    commit();
+  },
+  lifeq(b, e, a, k) {
+    lifeQueue(b.dataset.id);
+  },
+  lifex(b, e, a, k) {
+    const m = lifeBy(b.dataset.id);
+    if (m) m.links.splice(+b.dataset.i, 1);
+    commit();
+    renderSheet();
+  },
+});

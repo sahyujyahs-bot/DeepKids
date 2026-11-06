@@ -247,3 +247,16 @@ function myBookRemove(id) {
   Object.keys(S.extra || {}).forEach((s) => (S.extra[s] = S.extra[s].filter((k) => !ks.has(k))));
   mbSaved();
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  mbmake(b, e, a, k) {
+    myBooksMake();
+  },
+  mbplan(b, e, a, k) {
+    myBookPlan(b.dataset.k);
+  },
+  mbdel(b, e, a, k) {
+    myBookRemove(b.dataset.id);
+  },
+});

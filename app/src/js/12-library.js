@@ -1007,3 +1007,148 @@ function viewLibrary() {
       .join("")}</section>`;
   return h;
 }
+
+/* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
+Object.assign(ACT, {
+  pin(b, e, a, k) {
+    const s = b.dataset.s;
+    S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
+    sfx("ok");
+    toast("That's up next");
+    sheet.close();
+    commit();
+  },
+  ppick(b, e, a, k) {
+    S.planPick = { ...(S.planPick || {}), [k]: { full: b.dataset.o } };
+    sfx("ok");
+    toast("Plan chosen");
+    commit();
+  },
+  tfind(b, e, a, k) {
+    ui.libq = document.getElementById("tq")?.value || "";
+    ui.terr = "";
+    sfx("tap");
+    render();
+  },
+  tsearch(b, e, a, k) {
+    ui.libq = b.dataset.q;
+    ui.lt = "topics";
+    tab = "library";
+    if (sheet.open) sheet.close();
+    render();
+    scrollTo(0, 0);
+  },
+  tgen(b, e, a, k) {
+    sfx("tap");
+    genTopic();
+  },
+  rt(b, e, a, k) {
+    ui.rt = b.dataset.t;
+    ui.rmore = 40;
+    sfx("tap");
+    render();
+  },
+  rsj(b, e, a, k) {
+    ui.rsj = b.dataset.v;
+    ui.rc = "";
+    ui.rt = "all";
+    ui.rmore = 40;
+    sfx("tap");
+    render();
+  },
+  rfit(b, e, a, k) {
+    ui.rfit = ui.rfit === false;
+    sfx("tap");
+    render();
+  },
+  rmore(b, e, a, k) {
+    ui.rmore = (ui.rmore || 40) + 40;
+    render();
+  },
+  rtc(b, e, a, k) {
+    ui.rtc = b.dataset.t;
+    sfx("tap");
+    renderSheet();
+  },
+  btrack(b, e, a, k) {
+    navPush();
+    ui.btrack = b.dataset.v;
+    ui.bs = null;
+    ui.bl = null;
+    sfx("tap");
+    render();
+  },
+  bb(b, e, a, k) {
+    navPush();
+    ui.bb = b.dataset.b;
+    ui.bs = null;
+    ui.bl = null;
+    sfx("tap");
+    render();
+  },
+  bs(b, e, a, k) {
+    ui.bs = b.dataset.s;
+    ui.bl = null;
+    sfx("tap");
+    render();
+  },
+  bl(b, e, a, k) {
+    ui.bl = +b.dataset.l;
+    sfx("tap");
+    render();
+  },
+  isort(b, e, a, k) {
+    sfx("tap");
+    runInvSort();
+  },
+  ikeep(b, e, a, k) {
+    const it = ui.idump.items[+b.dataset.i];
+    it.keep = !it.keep;
+    sfx("tap");
+    render();
+  },
+  iclear(b, e, a, k) {
+    ui.idump = {};
+    clearIn("invText");
+    render();
+  },
+  iadd(b, e, a, k) {
+    const L = (ui.idump?.items || []).filter((x) => x.keep);
+    S.inv = [...(S.inv || []), ...L.map(({ keep, ...x }) => ({ id: newId(), ...x, from: "sorted" }))];
+    ui.idump = {};
+    clearIn("invText");
+    sfx("win");
+    toast(`Added ${L.length} to what you have`);
+    commit();
+  },
+  lt(b, e, a, k) {
+    navPush();
+    ui.lt = b.dataset.t;
+    sfx("tap");
+    render();
+  },
+  invadd(b, e, a, k) {
+    S.inv = [...(S.inv || []), { id: newId(), name: b.dataset.n, cat: b.dataset.c || "other", from: "tap" }];
+    sfx("ok");
+    toast("Added to what we have");
+    commit();
+  },
+  invnew(b, e, a, k) {
+    const n = document.getElementById("invName").value.trim();
+    if (!n) return;
+    S.inv = [...(S.inv || []), { id: newId(), name: n, cat: document.getElementById("invCat").value }];
+    sfx("ok");
+    commit();
+    clearIn("invName");
+  },
+  invsel(b, e, a, k) {
+    ui.invSel = ui.invSel === b.dataset.i ? null : b.dataset.i;
+    sfx("tap");
+    render();
+  },
+  invdel(b, e, a, k) {
+    S.inv = (S.inv || []).filter((i) => i.id !== b.dataset.i);
+    sfx("flip");
+    commit();
+  },
+});
