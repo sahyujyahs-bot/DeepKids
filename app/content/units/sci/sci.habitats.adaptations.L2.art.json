@@ -15,6 +15,10 @@
   "src": "media/img/sci.habitats.adaptations.L2/expl.5.jpg",
   "credit": "Subhadra Devi, CC BY, via iNaturalist"
  },
+ "flow.a1": {
+  "src": "media/img/sci.habitats.adaptations.L2/flow.a1.jpg",
+  "drawn": true
+ },
  "flow.a2": {
   "src": "media/img/sci.habitats.adaptations.L2/flow.a2.jpg",
   "credit": "Luciano Massa, CC BY, via iNaturalist"
@@ -27,17 +31,69 @@
   "src": "media/img/sci.habitats.adaptations.L2/flow.a4.jpg",
   "credit": "Ashwin Viswanathan, CC BY, via iNaturalist"
  },
+ "flow.e1": {
+  "src": "media/img/sci.habitats.adaptations.L2/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.habitats.adaptations.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.habitats.adaptations.L2/flow.p1.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.habitats.adaptations.L2/intro.jpg",
   "credit": "Tejas M, CC BY, via iNaturalist"
+ },
+ "setup.e1.0": {
+  "src": "media/img/sci.habitats.adaptations.L2/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.habitats.adaptations.L2/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.habitats.adaptations.L2/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.habitats.adaptations.L2/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.habitats.adaptations.L2/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.habitats.adaptations.L2/setup.e2.2.jpg",
+  "drawn": true
  },
  "summary": {
   "src": "media/img/sci.habitats.adaptations.L2/summary.jpg",
   "credit": "Rejoice Gassah, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.habitats.adaptations.L2/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.habitats.adaptations.L2/term.1.jpg",
+  "drawn": true
+ },
  "term.2": {
   "src": "media/img/sci.habitats.adaptations.L2/term.2.jpg",
   "credit": "vaazhaikumar, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.habitats.adaptations.L2/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.habitats.adaptations.L2/term.4.jpg",
+  "drawn": true
  },
  "term.5": {
   "src": "media/img/sci.habitats.adaptations.L2/term.5.jpg",
@@ -46,5 +102,13 @@
  "term.7": {
   "src": "media/img/sci.habitats.adaptations.L2/term.7.jpg",
   "credit": "Pranav Chandra Bose, CC BY, via iNaturalist"
+ },
+ "term.8": {
+  "src": "media/img/sci.habitats.adaptations.L2/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.habitats.adaptations.L2/term.9.jpg",
+  "drawn": true
  }
 }

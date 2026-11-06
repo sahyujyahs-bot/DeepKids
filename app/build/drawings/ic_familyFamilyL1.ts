@@ -153,19 +153,141 @@ const e2s1 = (c: Ctx) => {
   waft(c, 270, 560, 2, 70, 0, COL.greenDk);
   arrow(c, [[180, 150], [900, 150]], RED, 10);
 };
-// e2.2 · everyone sniffs their own palm
+// ---------------------------------------------------------------- newer helpers (match person() in flatKit exactly)
+// where person() puts the head: centre (hy), radius (head) and the shoulder line (sh)
+const headAt = (y: number, h: number, ad: boolean, sit = false) => { const head = h * (ad ? 0.115 : 0.15), hip = sit ? y - h * 0.07 : y - h * (ad ? 0.46 : 0.4), sh = hip - h * (ad ? 0.3 : 0.27); return { head, hy: sh - head * 1.12, sh }; };
+// the shoulder of one arm (side -1 = viewer's left, 1 = viewer's right)
+const shoulderAt = (x: number, y: number, h: number, ad: boolean, side: number, sit = false): [number, number] => { const { sh } = headAt(y, h, ad, sit); return [x + side * h * (ad ? 0.27 : 0.25) * 0.42, sh + h * 0.03]; };
+// forward kinematics: where the hand lands for joint angles a1 (upper arm) and a2 (forearm), same bones as person()
+const fk = (x: number, y: number, h: number, ad: boolean, side: number, a1: number, a2: number, sit = false): [number, number] => {
+  const [sx, sy] = shoulderAt(x, y, h, ad, side, sit), ex = sx + Math.cos(a1) * h * 0.17, ey = sy + Math.sin(a1) * h * 0.17;
+  return [ex + Math.cos(a2) * h * 0.155, ey + Math.sin(a2) * h * 0.155];
+};
+// an open palm seen from the front, fingers up, centred at (x, y); s = palm half-width
+const palmUp = (c: Ctx, x: number, y: number, s: number, skin: string, side: number) => {
+  for (const k of [-0.75, -0.25, 0.25, 0.75]) { const fl = s * (1.9 - Math.abs(k) * 0.4); shape(c, () => rrect(c, x + k * s - s * 0.22, y - fl, s * 0.44, fl, s * 0.22), skin, 4); }
+  shape(c, () => { c.save(); c.translate(x + side * s * 0.95, y + s * 0.2); c.rotate(side * 0.6); rrect(c, -s * 0.22, -s * 0.8, s * 0.44, s * 1.1, s * 0.22); c.restore(); }, skin, 4);
+  shape(c, () => ell(c, x, y, s, s * 1.05), skin, 5);
+};
+// grey hair over a person's head: a grandmother
+const greyHair = (c: Ctx, x: number, y: number, h: number, ad = true, sit = false) => {
+  const { head, hy } = headAt(y, h, ad, sit), g = "#d9d5cc";
+  shape(c, () => { c.moveTo(x - head * 1.04, hy + head * 0.05); c.bezierCurveTo(x - head * 1.1, hy - head * 1.6, x + head * 1.1, hy - head * 1.6, x + head * 1.04, hy + head * 0.05); c.quadraticCurveTo(x + head * 0.5, hy - head * 0.5, x - head * 0.2, hy - head * 0.52); c.quadraticCurveTo(x - head * 0.8, hy - head * 0.4, x - head * 1.04, hy + head * 0.05); c.closePath(); }, g, 5);
+  shape(c, () => ell(c, x + head * 0.85, hy - head * 0.75, head * 0.34, head * 0.34), g, 4);
+};
+// puzzled: brows pulled in, a question mark above the head
+const puzzled = (c: Ctx, x: number, y: number, h: number, ad = false) => {
+  const { head, hy } = headAt(y, h, ad);
+  line(c, [[x - head * 0.6, hy - head * 0.2], [x - head * 0.18, hy - head * 0.1]], 5); line(c, [[x + head * 0.18, hy - head * 0.1], [x + head * 0.6, hy - head * 0.2]], 5);
+  const qx = x + head * 1.6, qy = hy - head * 1.7, r = head * 0.3;
+  c.beginPath(); c.arc(qx, qy - r, r, Math.PI * 1.05, Math.PI * 2.45); c.lineTo(qx + r * 0.3, qy + r * 0.3); c.lineTo(qx + r * 0.3, qy + r * 0.7); c.strokeStyle = RED; c.lineWidth = 9; c.lineCap = "round"; c.stroke();
+  shape(c, () => ell(c, qx + r * 0.3, qy + r * 1.3, 7, 7), RED, 0);
+};
+// a person sniffing their own palm: the hand is held up in front of the mouth, fingers up, the elbow out to the side;
+// the arm is solved to that point by person(), and the open palm is drawn over the face at the hand it returns
+const sniffPalm = (c: Ctx, x: number, y: number, h: number, ad: boolean, side: number, grey = false) => {
+  const { head, hy } = headAt(y, h, ad), target: [number, number] = [x + side * head * 0.3, hy + head * 1.0], p: Pose = { adult: ad };
+  if (side > 0) { p.reachR = target; p.armL = [Math.PI * 0.55, Math.PI * 0.5]; } else { p.reachL = target; p.armR = [Math.PI * 0.45, Math.PI * 0.5]; }
+  const hands = person(c, x, y, h, p), hp = side > 0 ? hands.handR : hands.handL;
+  if (grey) greyHair(c, x, y, h, ad);
+  palmUp(c, hp[0], hp[1], head * 0.3, ad ? SKIN.adult : SKIN.child, side);
+  waft(c, hp[0] - side * head * 0.25, hp[1] - head * 0.5, 1, head * 0.22, -side * head * 0.05, COL.greenDk, 5);
+};
+// e2.2 · everyone sniffs their own palm; the boy in the middle looks puzzled
 const e2s2 = (c: Ctx) => {
   ground(c);
-  const kx = 480, ky = 960, kh = 640, ax = 880, ay = 960, ah = 800;
-  const kn = headOf(ky, kh), an = headOf(ay, ah);
-  person(c, ax, ay, ah, { adult: true, armL: armTo(ax, ay, ah, -1, ax - 120, an.hy + an.head * 1.9, false, -1), armR: [Math.PI * 0.45, Math.PI * 0.5] });
-  hand(c, ax - 120, an.hy + an.head * 1.9, -Math.PI / 2 + 0.35, 0.9, SKIN.adult, CLOTH.adult, true);
-  waft(c, ax - 70, an.hy + an.head * 0.9, 1, 40, 0);
-  person(c, kx, ky, kh, { armR: armTo(kx, ky, kh, 1, kx + 130, kn.hy + kn.head * 1.9, false, -1), armL: [Math.PI * 0.6, Math.PI * 0.5] });
-  hand(c, kx + 130, kn.hy + kn.head * 1.9, -Math.PI / 2 - 0.35, 1.1, SKIN.child, CLOTH.child, true);
-  waft(c, kx + 70, kn.hy + kn.head * 0.9, 2, 60, -20);
-  // puzzled brows
-  line(c, [[kx - kn.head * 0.55, kn.hy - kn.head * 0.2], [kx - kn.head * 0.15, kn.hy - kn.head * 0.1]], 4); line(c, [[kx + kn.head * 0.15, kn.hy - kn.head * 0.25], [kx + kn.head * 0.55, kn.hy - kn.head * 0.3]], 4);
+  const Y = 960;
+  sniffPalm(c, 190, Y, 760, true, 1, true);
+  sniffPalm(c, 840, Y, 760, true, 1);
+  sniffPalm(c, 520, Y, 620, false, 1);
+  puzzled(c, 520, Y, 620);
+};
+// a mother holding a baby against her shoulder: left forearm under the baby, right hand at the baby's side
+const motherBaby = (c: Ctx, x: number, y: number, h: number) => {
+  const aL: [number, number] = [Math.PI / 2, 0], aR: [number, number] = [Math.PI * 0.56, -0.5];
+  person(c, x, y, h, { adult: true, armL: aL, armR: aR });
+  const bx = x + h * 0.14, by = y - h * 0.63, bw = h * 0.135, bh = h * 0.23, hx = x + h * 0.165, hy = y - h * 0.8, hr = h * 0.057;
+  shape(c, () => rrect(c, bx - bw / 2, by - bh / 2, bw, bh, bw * 0.4), COL.pink); shade(c, () => rrect(c, bx - bw / 2, by - bh / 2, bw, bh, bw * 0.4), "#d77a98", bw * 0.35, 0, 0.45);
+  shape(c, () => ell(c, hx, hy, hr, hr * 1.02), SKIN.child);
+  shape(c, () => { c.moveTo(hx - hr * 0.9, hy - hr * 0.3); c.quadraticCurveTo(hx, hy - hr * 1.5, hx + hr * 0.9, hy - hr * 0.3); c.quadraticCurveTo(hx, hy - hr * 0.6, hx - hr * 0.9, hy - hr * 0.3); c.closePath(); }, CLOTH.hair, 4);
+  for (const s of [-1, 1]) shape(c, () => ell(c, hx + s * hr * 0.35, hy + hr * 0.1, hr * 0.09, hr * 0.12), INK, 0);
+  c.beginPath(); c.arc(hx, hy + hr * 0.35, hr * 0.28, 0.3, Math.PI - 0.3); c.strokeStyle = INK; c.lineWidth = 3; c.stroke();
+  // the hand at the baby's side, drawn over the bundle so the hold shows
+  const hr2 = fk(x, y, h, true, 1, aR[0], aR[1]); shape(c, () => ell(c, hr2[0], hr2[1], h * 0.045, h * 0.038), SKIN.adult, 5);
+};
+// term.2 · a woman holding a baby girl close against her shoulder, a cradle beside them
+const term2 = (c: Ctx) => {
+  ground(c);
+  motherBaby(c, 400, 960, 820);
+  // the cradle: a wooden box on two rockers, a pink blanket inside
+  const cx = 860, top = 640, w = 300, hh = 170;
+  shadow(c, cx + 20, 880, 190, 24);
+  for (const s of [-1, 1]) { c.beginPath(); c.arc(cx + s * 60, top + hh - 70, 130, Math.PI * 0.2, Math.PI * 0.8); c.strokeStyle = INK; c.lineWidth = 18; c.lineCap = "round"; c.stroke(); c.beginPath(); c.arc(cx + s * 60, top + hh - 70, 130, Math.PI * 0.2, Math.PI * 0.8); c.strokeStyle = COL.woodDk; c.lineWidth = 8; c.stroke(); }
+  shape(c, () => rrect(c, cx - w / 2, top, w, hh, 24), COL.wood); shade(c, () => rrect(c, cx - w / 2, top, w, hh, 24), COL.woodDk, 60, 0, 0.5);
+  for (let i = 1; i < 5; i++) line(c, [[cx - w / 2 + i * 60, top + 20], [cx - w / 2 + i * 60, top + hh - 20]], 4, COL.woodDk);
+  shape(c, () => { c.moveTo(cx - w / 2 + 20, top + 10); c.quadraticCurveTo(cx - 60, top - 50, cx, top - 20); c.quadraticCurveTo(cx + 70, top - 50, cx + w / 2 - 20, top + 10); c.closePath(); }, COL.pink, 5);
+};
+// term.1 · a family photo on a phone screen: grandmother and aunt behind, three cousins in front
+const term1 = (c: Ctx) => {
+  ground(c);
+  const px = 540, py = 530, pw = 580, ph = 960;
+  phone(c, px, py, pw, ph);
+  c.save(); c.beginPath(); rrect(c, px - pw * 0.44, py - ph * 0.45, pw * 0.88, ph * 0.9, pw * 0.05); c.clip();
+  c.fillStyle = COL.sky; c.fillRect(0, 0, D, D); c.fillStyle = "#e8d9b6"; c.fillRect(0, 700, D, 400); line(c, [[0, 700], [D, 700]], 5);
+  shape(c, () => ell(c, 360, 190, 50, 50), COL.yellow, 5);
+  person(c, 440, 820, 480, { adult: true }); greyHair(c, 440, 820, 480);
+  person(c, 640, 820, 480, { adult: true });
+  person(c, 395, 950, 310);
+  person(c, 540, 950, 270);
+  person(c, 685, 950, 320);
+  c.restore();
+  c.beginPath(); rrect(c, px - pw * 0.44, py - ph * 0.45, pw * 0.88, ph * 0.9, pw * 0.05); c.strokeStyle = INK; c.lineWidth = 4; c.stroke();
+  hand(c, 540, 1060, -Math.PI / 2, 1.8, SKIN.child, CLOTH.child);
+};
+// expl.0 · three small family pictures side by side
+const expl0 = (c: Ctx) => {
+  ground(c);
+  const frame = (x: number, col: string, draw: () => void) => {
+    shadow(c, x + 170, 850, 160, 18);
+    shape(c, () => rrect(c, x, 230, 330, 620, 12), WHITE);
+    c.save(); c.beginPath(); c.rect(x + 18, 248, 294, 584); c.clip(); c.fillStyle = col; c.fillRect(x, 230, 330, 620); c.fillStyle = "#e8d9b6"; c.fillRect(x, 700, 330, 150); line(c, [[x, 700], [x + 330, 700]], 4); draw(); c.restore();
+    c.beginPath(); c.rect(x + 18, 248, 294, 584); c.strokeStyle = INK; c.lineWidth = 4; c.stroke();
+  };
+  // Kochi: grandmother, girl, mother
+  frame(40, COL.sky, () => { person(c, 105, 790, 300, { adult: true }); greyHair(c, 105, 790, 300); person(c, 205, 790, 210); person(c, 305, 790, 300, { adult: true }); });
+  // Hyderabad: mother, girl, grandmother
+  frame(375, "#fbe9b7", () => { person(c, 440, 790, 300, { adult: true }); person(c, 540, 790, 210); person(c, 640, 790, 300, { adult: true }); greyHair(c, 640, 790, 300); });
+  // Chennai: a woman holding a baby
+  frame(710, "#d9efd0", () => motherBaby(c, 860, 790, 320));
+};
+// expl.2 · a small girl asleep on a mat, hugging a folded old saree, a night lamp glowing beside her
+const expl2 = (c: Ctx) => {
+  ground(c, "#7a86b5");
+  // the mat and the pillow
+  shape(c, () => rrect(c, 230, 400, 790, 400, 24), COL.wood); shade(c, () => rrect(c, 230, 400, 790, 400, 24), COL.woodDk, 0, 300, 0.4);
+  for (let x = 290; x < 1000; x += 70) line(c, [[x, 412], [x, 788]], 3, COL.woodDk);
+  shape(c, () => rrect(c, 280, 500, 220, 200, 40), WHITE);
+  // the girl lying on her back, head to the left: drawn standing, turned a quarter turn
+  const h = 560, fx = 870, fy = 600;
+  c.save(); c.translate(fx, fy); c.rotate(-Math.PI / 2);
+  const aL: [number, number] = [1.31, -0.1], aR: [number, number] = [1.83, Math.PI - 0.35];
+  person(c, 0, 0, h, { armL: aL, armR: aR });
+  const { head, hy } = headAt(0, h, false);
+  for (const s of [-1, 1]) { shape(c, () => ell(c, s * head * 0.38, hy + head * 0.16, head * 0.2, head * 0.24), SKIN.child, 0); c.beginPath(); c.arc(s * head * 0.38, hy + head * 0.08, head * 0.15, 0.3, Math.PI - 0.3); c.strokeStyle = INK; c.lineWidth = 4; c.stroke(); }
+  // the folded saree on her chest: cream with a green border and small pink flowers; her hands on it
+  const bx = 0, by = -h * 0.47, bw = h * 0.26, bh = h * 0.2;
+  shape(c, () => rrect(c, bx - bw / 2, by - bh / 2, bw, bh, 14), COL.cloth);
+  line(c, [[bx - bw / 2 + 6, by + bh / 2 - 16], [bx + bw / 2 - 6, by + bh / 2 - 16]], 9, COL.green);
+  const r = rnd(3); for (let i = 0; i < 9; i++) { const px = bx - bw / 2 + 16 + r() * (bw - 32), py = by - bh / 2 + 14 + r() * (bh - 48); shape(c, () => ell(c, px, py, 7, 7), COL.pink, 0); shape(c, () => ell(c, px, py, 2.5, 2.5), COL.yellow, 0); }
+  for (const [side, a] of [[-1, aL], [1, aR]] as [number, [number, number]][]) { const p = fk(0, 0, h, false, side, a[0], a[1]); shape(c, () => ell(c, p[0], p[1], h * 0.045, h * 0.036), SKIN.child, 5); }
+  c.restore();
+  // a blanket over her legs
+  shape(c, () => rrect(c, 690, 470, 280, 260, 30), COL.red); shade(c, () => rrect(c, 690, 470, 280, 260, 30), "#b8402f", 0, 200, 0.4);
+  for (let x = 740; x < 950; x += 60) line(c, [[x, 485], [x, 715]], 4, "#f0a08f");
+  // the night lamp on the floor, glowing
+  c.globalAlpha = 0.22; shape(c, () => ell(c, 150, 330, 170, 170), COL.yellow, 0); c.globalAlpha = 0.3; shape(c, () => ell(c, 150, 330, 105, 105), COL.yellow, 0); c.globalAlpha = 1;
+  shape(c, () => rrect(c, 95, 365, 110, 30, 8), COL.black);
+  shape(c, () => { c.moveTo(85, 370); c.bezierCurveTo(85, 240, 215, 240, 215, 370); c.closePath(); }, COL.yellow, 5);
 };
 
 // ---------------------------------------------------------------- card pictures
@@ -287,4 +409,5 @@ const expl3 = (c: Ctx) => {
 export const ic_familyFamilyL1 = cards("sci.family.family.L1", [
   e1s0, e1s1, e1s2, e2s0, e2s1, e2s2,
   flowE1, flowE2, flowA1, flowA2, flowP1, flowC1, term0, term3, term4, expl3,
+  term1, term2, expl0, expl2,
 ]);
