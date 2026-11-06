@@ -97,24 +97,52 @@ export const hand = (c: Ctx, x: number, y: number, an: number, s = 1, skin: stri
   line(c, [[20, 8], [30, 16]], 3, dk);
   c.restore();
 };
-// a person standing or sitting, feet (or seat) at (x, y), height h; arms by joint angles (radians, 0 = pointing right)
-export type Pose = { armL?: [number, number]; armR?: [number, number]; sit?: boolean; adult?: boolean };
-export const person = (c: Ctx, x: number, y: number, h: number, p: Pose = {}) => {
-  const ad = !!p.adult, skin = ad ? SKIN.adult : SKIN.child, cloth = ad ? CLOTH.adult : CLOTH.child, clothDk = ad ? CLOTH.adultDk : CLOTH.childDk;
-  const head = h * 0.13, hip = p.sit ? y - h * 0.06 : y - h * 0.42, sh = p.sit ? hip - h * 0.32 : y - h * 0.74, leg = p.sit ? h * 0.2 : h * 0.42, uw = h * 0.06;
-  // legs
-  if (p.sit) for (const s of [-1, 1]) { const k: number[][] = [[x + s * h * 0.05, hip], [x + h * 0.2 + s * h * 0.03, hip - h * 0.08], [x + h * 0.3 + s * h * 0.03, y]]; line(c, k, h * 0.07, INK); line(c, k, h * 0.07 - 10, "#6b5a8c"); }
-  else for (const s of [-1, 1]) { line(c, [[x + s * h * 0.05, hip], [x + s * h * 0.06, y]], h * 0.075, INK); line(c, [[x + s * h * 0.05, hip], [x + s * h * 0.06, y]], h * 0.075 - 10, "#6b5a8c"); }
+// A person standing or sitting, feet (or seat) at (x, y), height h, facing the viewer.
+// ARMS: say where each hand should be with reachL / reachR = [x, y] (the person's own left and right are the viewer's
+// right and left). The elbow is worked out so the arm joins the shoulder and the hand lands exactly there (an arm cannot
+// stretch: if the point is too far the hand stops at full reach, and the returned handL / handR tell you where it ended up).
+// Put the held object AT the returned hand point. armL / armR (joint angles in radians, 0 = pointing right, PI/2 = down)
+// are only for a free-hanging or waving arm. sit = on the floor with legs out toward dir (1 right, -1 left).
+export type Pose = { reachL?: [number, number]; reachR?: [number, number]; armL?: [number, number]; armR?: [number, number]; sit?: boolean; dir?: 1 | -1; adult?: boolean };
+export type Hands = { handL: [number, number]; handR: [number, number] };
+// two-bone arm: shoulder (sx, sy) to a target, bone lengths l1 and l2, the elbow bending down and outward (bend = side)
+const reachArm = (sx: number, sy: number, tx: number, ty: number, l1: number, l2: number, bend: number) => {
+  const full = l1 + l2, dx = tx - sx, dy = ty - sy, d = Math.min(Math.max(Math.hypot(dx, dy), Math.abs(l1 - l2) + 1), full * 0.999), a = Math.atan2(dy, dx);
+  const th = Math.acos(Math.min(1, Math.max(-1, (l1 * l1 + d * d - l2 * l2) / (2 * l1 * d))));
+  const ea = a + bend * th, ex = sx + Math.cos(ea) * l1, ey = sy + Math.sin(ea) * l1;
+  return { ex, ey, wx: sx + Math.cos(a) * d, wy: sy + Math.sin(a) * d };
+};
+export const person = (c: Ctx, x: number, y: number, h: number, p: Pose = {}): Hands => {
+  const ad = !!p.adult, skin = ad ? SKIN.adult : SKIN.child, cloth = ad ? CLOTH.adult : CLOTH.child, clothDk = ad ? CLOTH.adultDk : CLOTH.childDk, dir = p.dir ?? 1;
+  const head = h * 0.13, hip = p.sit ? y - h * 0.06 : y - h * 0.42, sh = p.sit ? hip - h * 0.32 : y - h * 0.74, uw = h * 0.06, trousers = "#6b5a8c", shoe = "#3a3540";
+  // legs: trousers with a shoe at the end; seated legs run out along the floor toward dir with the knee up a little
+  const legW = h * 0.075;
+  if (p.sit) for (const s of [-1, 1]) {
+    const k: number[][] = [[x + s * h * 0.05, hip], [x + dir * (h * 0.2 + s * h * 0.02), hip - h * 0.1], [x + dir * (h * 0.36 + s * h * 0.02), y]];
+    line(c, k, legW, INK); line(c, k, legW - 10, trousers);
+    shape(c, () => ell(c, k[2][0] + dir * h * 0.03, y - legW * 0.1, h * 0.045, legW * 0.5), shoe, 4);
+  } else for (const s of [-1, 1]) {
+    const fx = x + s * h * 0.06;
+    line(c, [[x + s * h * 0.05, hip], [fx, y - 6]], legW, INK); line(c, [[x + s * h * 0.05, hip], [fx, y - 6]], legW - 10, trousers);
+    shape(c, () => ell(c, fx + s * h * 0.02, y - 4, h * 0.055, h * 0.028), shoe, 4);
+  }
   // body
   shape(c, () => rrect(c, x - h * 0.13, sh - h * 0.02, h * 0.26, hip - sh + h * 0.06, h * 0.06), cloth);
   shade(c, () => rrect(c, x - h * 0.13, sh - h * 0.02, h * 0.26, hip - sh + h * 0.06, h * 0.06), clothDk, h * 0.07, 0);
-  // arms: shoulder -> elbow -> wrist, a hand circle at the end
-  const arm = (sx: number, [a1, a2]: [number, number]) => {
-    const l1 = h * 0.17, l2 = h * 0.16, ex = sx + Math.cos(a1) * l1, ey = sh + h * 0.03 + Math.sin(a1) * l1, wx = ex + Math.cos(a2) * l2, wy = ey + Math.sin(a2) * l2;
-    line(c, [[sx, sh + h * 0.03], [ex, ey], [wx, wy]], uw + 10, INK); line(c, [[sx, sh + h * 0.03], [ex, ey], [wx, wy]], uw, cloth);
+  // arms: shoulder -> elbow -> wrist, a hand at the end; the hand is placed at the reach point when one is given
+  const l1 = h * 0.17, l2 = h * 0.16;
+  const arm = (side: number, reach: [number, number] | undefined, ang: [number, number]): [number, number] => {
+    const sx = x + side * h * 0.11, sy = sh + h * 0.03;
+    let ex: number, ey: number, wx: number, wy: number;
+    if (reach) ({ ex, ey, wx, wy } = reachArm(sx, sy, reach[0], reach[1], l1, l2, side));
+    else { ex = sx + Math.cos(ang[0]) * l1; ey = sy + Math.sin(ang[0]) * l1; wx = ex + Math.cos(ang[1]) * l2; wy = ey + Math.sin(ang[1]) * l2; }
+    line(c, [[sx, sy], [ex, ey], [wx, wy]], uw + 10, INK); line(c, [[sx, sy], [ex, ey], [wx, wy]], uw, cloth);
+    shape(c, () => ell(c, sx, sy, uw * 0.7, uw * 0.7), cloth, 0);
     shape(c, () => ell(c, wx, wy, uw * 0.62, uw * 0.62), skin, 5);
+    return [wx, wy];
   };
-  arm(x - h * 0.11, p.armL ?? [Math.PI * 0.55, Math.PI * 0.5]); arm(x + h * 0.11, p.armR ?? [Math.PI * 0.45, Math.PI * 0.5]);
+  // the viewer's left arm first, so the right arm (and what it holds) draws on top
+  const handL = arm(-1, p.reachL, p.armL ?? [Math.PI * 0.55, Math.PI * 0.5]), handR = arm(1, p.reachR, p.armR ?? [Math.PI * 0.45, Math.PI * 0.5]);
   // head, hair, face
   const hy = sh - head * 1.05;
   shape(c, () => ell(c, x, hy, head, head * 1.05), skin);
@@ -122,6 +150,7 @@ export const person = (c: Ctx, x: number, y: number, h: number, p: Pose = {}) =>
   if (!ad) shape(c, () => ell(c, x + head * 0.95, hy - head * 0.2, head * 0.32, head * 0.55), CLOTH.hair, 4);
   shape(c, () => ell(c, x - head * 0.35, hy + head * 0.12, head * 0.09, head * 0.12), INK, 0); shape(c, () => ell(c, x + head * 0.35, hy + head * 0.12, head * 0.09, head * 0.12), INK, 0);
   c.beginPath(); c.arc(x, hy + head * 0.38, head * 0.3, 0.2, Math.PI - 0.2); c.strokeStyle = INK; c.lineWidth = 4; c.stroke();
+  return { handL, handR };
 };
 
 // ---------------------------------------------------------------- writing numbers and short labels
