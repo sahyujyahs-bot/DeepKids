@@ -113,43 +113,57 @@ const reachArm = (sx: number, sy: number, tx: number, ty: number, l1: number, l2
   return { ex, ey, wx: sx + Math.cos(a) * d, wy: sy + Math.sin(a) * d };
 };
 export const person = (c: Ctx, x: number, y: number, h: number, p: Pose = {}): Hands => {
-  const ad = !!p.adult, skin = ad ? SKIN.adult : SKIN.child, cloth = ad ? CLOTH.adult : CLOTH.child, clothDk = ad ? CLOTH.adultDk : CLOTH.childDk, dir = p.dir ?? 1;
-  const head = h * 0.13, hip = p.sit ? y - h * 0.06 : y - h * 0.42, sh = p.sit ? hip - h * 0.32 : y - h * 0.74, uw = h * 0.06, trousers = "#6b5a8c", shoe = "#3a3540";
-  // legs: trousers with a shoe at the end; seated legs run out along the floor toward dir with the knee up a little
-  const legW = h * 0.075;
-  if (p.sit) for (const s of [-1, 1]) {
-    const k: number[][] = [[x + s * h * 0.05, hip], [x + dir * (h * 0.2 + s * h * 0.02), hip - h * 0.1], [x + dir * (h * 0.36 + s * h * 0.02), y]];
-    line(c, k, legW, INK); line(c, k, legW - 10, trousers);
-    shape(c, () => ell(c, k[2][0] + dir * h * 0.03, y - legW * 0.1, h * 0.045, legW * 0.5), shoe, 4);
+  const ad = !!p.adult, skin = ad ? SKIN.adult : SKIN.child, skinDk = ad ? SKIN.adultDk : SKIN.childDk, cloth = ad ? CLOTH.adult : CLOTH.child, clothDk = ad ? CLOTH.adultDk : CLOTH.childDk, dir = p.dir ?? 1;
+  // a child has a big head and short legs; a grown-up is longer in the leg
+  const head = h * (ad ? 0.115 : 0.15), legLen = h * (ad ? 0.46 : 0.4), hip = p.sit ? y - h * 0.07 : y - legLen, sh = hip - h * (ad ? 0.3 : 0.27), uw = h * 0.062, trousers = ad ? "#4f5f86" : "#6b5a8c", trDk = ad ? "#3b4868" : "#52446e", shoe = "#3a3540";
+  const legW = h * 0.08, torsoW = h * (ad ? 0.27 : 0.25);
+  shadow(c, x + (p.sit ? dir * h * 0.15 : 0), y + 4, h * (p.sit ? 0.34 : 0.2), h * 0.035);
+  // legs
+  if (p.sit) {
+    // sitting cross-legged on the floor, seen from the front: two bent legs make a low triangle, feet tucked in
+    for (const s of [-1, 1]) {
+      const knee: number[] = [x + s * h * 0.25, y - h * 0.045], foot: number[] = [x - s * h * 0.06, y - h * 0.02];
+      line(c, [[x + s * h * 0.07, hip], knee, foot], legW, INK); line(c, [[x + s * h * 0.07, hip], knee, foot], legW - 10, trousers);
+      shape(c, () => ell(c, foot[0], foot[1], h * 0.05, h * 0.03), shoe, 4);
+    }
   } else for (const s of [-1, 1]) {
-    const fx = x + s * h * 0.06;
-    line(c, [[x + s * h * 0.05, hip], [fx, y - 6]], legW, INK); line(c, [[x + s * h * 0.05, hip], [fx, y - 6]], legW - 10, trousers);
-    shape(c, () => ell(c, fx + s * h * 0.02, y - 4, h * 0.055, h * 0.028), shoe, 4);
+    const hx = x + s * h * 0.055, fx = x + s * h * 0.075;
+    line(c, [[hx, hip], [fx, y - 8]], legW, INK); line(c, [[hx, hip], [fx, y - 8]], legW - 10, trousers);
+    shape(c, () => { c.moveTo(fx - h * 0.04, y - 14); c.lineTo(fx + h * 0.04, y - 14); c.quadraticCurveTo(fx + s * h * 0.1, y - 12, fx + s * h * 0.1, y); c.lineTo(fx - h * 0.045, y); c.closePath(); }, shoe, 4);
   }
-  // body
-  shape(c, () => rrect(c, x - h * 0.13, sh - h * 0.02, h * 0.26, hip - sh + h * 0.06, h * 0.06), cloth);
-  shade(c, () => rrect(c, x - h * 0.13, sh - h * 0.02, h * 0.26, hip - sh + h * 0.06, h * 0.06), clothDk, h * 0.07, 0);
-  // arms: shoulder -> elbow -> wrist, a hand at the end; the hand is placed at the reach point when one is given
-  const l1 = h * 0.17, l2 = h * 0.16;
+  // body: a soft trapezoid, shoulders wider than the waist, with a collar and a neck
+  const body = () => { c.moveTo(x - torsoW / 2, sh + h * 0.03); c.quadraticCurveTo(x - torsoW / 2, sh - h * 0.015, x - torsoW * 0.32, sh - h * 0.015); c.lineTo(x + torsoW * 0.32, sh - h * 0.015); c.quadraticCurveTo(x + torsoW / 2, sh - h * 0.015, x + torsoW / 2, sh + h * 0.03); c.lineTo(x + torsoW * 0.44, hip + h * 0.05); c.quadraticCurveTo(x, hip + h * 0.09, x - torsoW * 0.44, hip + h * 0.05); c.closePath(); };
+  shape(c, () => rrect(c, x - head * 0.32, sh - head * 0.75, head * 0.64, head * 0.9, 6), skin, 5);
+  shape(c, body, cloth); shade(c, body, clothDk, h * 0.06, 0);
+  shape(c, () => { c.moveTo(x - head * 0.42, sh - h * 0.015); c.quadraticCurveTo(x, sh + head * 0.5, x + head * 0.42, sh - h * 0.015); c.closePath(); }, skin, 4);
+  // arms: shoulder -> elbow -> wrist, tapered, ending in a hand at the reach point
+  const l1 = h * 0.17, l2 = h * 0.155;
   const arm = (side: number, reach: [number, number] | undefined, ang: [number, number]): [number, number] => {
-    const sx = x + side * h * 0.11, sy = sh + h * 0.03;
+    const sx = x + side * torsoW * 0.42, sy = sh + h * 0.03;
     let ex: number, ey: number, wx: number, wy: number;
     if (reach) ({ ex, ey, wx, wy } = reachArm(sx, sy, reach[0], reach[1], l1, l2, side));
     else { ex = sx + Math.cos(ang[0]) * l1; ey = sy + Math.sin(ang[0]) * l1; wx = ex + Math.cos(ang[1]) * l2; wy = ey + Math.sin(ang[1]) * l2; }
-    line(c, [[sx, sy], [ex, ey], [wx, wy]], uw + 10, INK); line(c, [[sx, sy], [ex, ey], [wx, wy]], uw, cloth);
-    shape(c, () => ell(c, sx, sy, uw * 0.7, uw * 0.7), cloth, 0);
-    shape(c, () => ell(c, wx, wy, uw * 0.62, uw * 0.62), skin, 5);
+    line(c, [[sx, sy], [ex, ey]], uw + 12, INK); line(c, [[ex, ey], [wx, wy]], uw * 0.82 + 12, INK);
+    line(c, [[sx, sy], [ex, ey]], uw, cloth); line(c, [[ex, ey], [wx, wy]], uw * 0.82, cloth);
+    shape(c, () => ell(c, sx, sy, uw * 0.62, uw * 0.62), cloth, 0); shape(c, () => ell(c, ex, ey, uw * 0.42, uw * 0.42), cloth, 0);
+    // a mitten hand with a thumb, pointing along the forearm
+    const an = Math.atan2(wy - ey, wx - ex), r = uw * 0.7;
+    c.save(); c.translate(wx, wy); c.rotate(an);
+    shape(c, () => ell(c, r * 0.5, 0, r * 1.05, r * 0.8), skin, 5);
+    shape(c, () => ell(c, r * 0.3, -side * r * 0.8, r * 0.5, r * 0.32, -side * 0.5), skin, 4);
+    c.restore();
     return [wx, wy];
   };
-  // the viewer's left arm first, so the right arm (and what it holds) draws on top
-  const handL = arm(-1, p.reachL, p.armL ?? [Math.PI * 0.55, Math.PI * 0.5]), handR = arm(1, p.reachR, p.armR ?? [Math.PI * 0.45, Math.PI * 0.5]);
-  // head, hair, face
-  const hy = sh - head * 1.05;
+  const handL = arm(-1, p.reachL, p.armL ?? [Math.PI * 0.52, Math.PI * 0.5]), handR = arm(1, p.reachR, p.armR ?? [Math.PI * 0.48, Math.PI * 0.5]);
+  // head, hair, ears, face
+  const hy = sh - head * 1.12;
+  shape(c, () => ell(c, x - head * 0.97, hy + head * 0.12, head * 0.2, head * 0.26), skin, 4); shape(c, () => ell(c, x + head * 0.97, hy + head * 0.12, head * 0.2, head * 0.26), skin, 4);
   shape(c, () => ell(c, x, hy, head, head * 1.05), skin);
-  shape(c, () => { c.moveTo(x - head * 1.02, hy); c.bezierCurveTo(x - head, hy - head * 1.5, x + head, hy - head * 1.5, x + head * 1.02, hy); c.quadraticCurveTo(x, hy - head * 0.55, x - head * 1.02, hy); c.closePath(); }, CLOTH.hair, 5);
-  if (!ad) shape(c, () => ell(c, x + head * 0.95, hy - head * 0.2, head * 0.32, head * 0.55), CLOTH.hair, 4);
-  shape(c, () => ell(c, x - head * 0.35, hy + head * 0.12, head * 0.09, head * 0.12), INK, 0); shape(c, () => ell(c, x + head * 0.35, hy + head * 0.12, head * 0.09, head * 0.12), INK, 0);
-  c.beginPath(); c.arc(x, hy + head * 0.38, head * 0.3, 0.2, Math.PI - 0.2); c.strokeStyle = INK; c.lineWidth = 4; c.stroke();
+  shape(c, () => { c.moveTo(x - head * 1.04, hy + head * 0.05); c.bezierCurveTo(x - head * 1.1, hy - head * 1.6, x + head * 1.1, hy - head * 1.6, x + head * 1.04, hy + head * 0.05); c.quadraticCurveTo(x + head * 0.5, hy - head * 0.5, x - head * 0.2, hy - head * 0.52); c.quadraticCurveTo(x - head * 0.8, hy - head * 0.4, x - head * 1.04, hy + head * 0.05); c.closePath(); }, CLOTH.hair, 5);
+  if (!ad) shape(c, () => ell(c, x + head * 0.78, hy - head * 0.78, head * 0.34, head * 0.34), CLOTH.hair, 4);
+  for (const s of [-1, 1]) { shape(c, () => ell(c, x + s * head * 0.38, hy + head * 0.16, head * 0.15, head * 0.19), WHITE, 3); shape(c, () => ell(c, x + s * head * 0.38 + dir * head * 0.03, hy + head * 0.18, head * 0.075, head * 0.1), INK, 0); }
+  shape(c, () => ell(c, x, hy + head * 0.34, head * 0.1, head * 0.07), skinDk, 0);
+  c.beginPath(); c.arc(x, hy + head * 0.46, head * 0.3, 0.25, Math.PI - 0.25); c.strokeStyle = INK; c.lineWidth = 4; c.stroke();
   return { handL, handR };
 };
 
