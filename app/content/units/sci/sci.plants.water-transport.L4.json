@@ -1,0 +1,2943 @@
+{
+  "id": "sci.plants.water-transport.L4",
+  "title": "Wet but thirsty: how a root drinks, and why salty soil dries a plant",
+  "level": 4,
+  "summary": {
+    "text": "A seedling standing in a flooded field can droop like a plant in the desert. Water is all around her roots, and she still cannot drink it. Water moves toward the place where it is held more tightly, and salt holds water tightly. Your child sprouts moong seeds in water with different amounts of salt, and finds where the sprouting stops. They then follow water along its whole path, from soil to root to leaf to air, and see that dry air does most of the pulling. They also meet the mangroves of the Sundarbans, which live in sea water.",
+    "art": "A split picture of a rice seedling in a wet field: on the left the seedling stands green in fresh water, on the right the same seedling droops in muddy salty water, with tiny arrows showing water leaving the root hairs."
+  },
+  "intro": {
+    "hook": "Pour a glass of sea water on a potted plant. Within two days she droops, though her soil is soaking wet. How can a plant die of thirst while she stands in water?",
+    "text": "Try this at the table. Cut a cucumber into slices as thin as a coin. Lay ten slices on a plate and sprinkle a good pinch of salt over them. Come back in 20 minutes. There is a puddle on the plate, and the slices have gone floppy. The salt did not make that water. It came out of the cucumber. Whatever the salt does to a cucumber slice, it can also do to the roots of a plant.",
+    "art": "A white plate with ten cucumber slices dusted with salt, a small puddle around them, and one slice drooping over the edge of a spoon."
+  },
+  "outcomes": [
+    "I can explain that water moves toward the place where it is held more tightly, and that salt and thin films of water hold it tightly.",
+    "I can explain why a plant can wilt in soil that is wet with salty water.",
+    "I can describe how a root takes water in through root hairs, and why the root's cells must hold water tighter than the soil does.",
+    "I can describe the path of water through a plant as a slope from soil to leaf to dry air, and say where most of the drop happens.",
+    "I can explain how the holes in a leaf open and shut by the same movement of water.",
+    "I can plan a fair test with one change, and use the results to say how salty is too salty for a sprout.",
+    "I can tell the journey of water in the xylem apart from the journey of sugar in the phloem.",
+    "I can give two ways that plants such as mangroves live in salty or dry places."
+  ],
+  "cards_mins": 20,
+  "terms": [
+    {
+      "term": "Pull number",
+      "meaning": "A number for how tightly water is held. A bigger pull number means a tighter hold. Scientists call the real thing water potential and write it with a minus sign.",
+      "example": "Water in a glass has a pull number of 0. Sea water is about 2.5.",
+      "art": "A glass of plain water labelled 0 next to a glass of sea water labelled 2.5, with a tiny hand gripping the water in the second glass."
+    },
+    {
+      "term": "Osmosis",
+      "meaning": "The movement of water through a thin skin toward the side where water is held more tightly.",
+      "example": "Salt on a cucumber slice pulls water out of the slice by osmosis.",
+      "art": "A cucumber slice with salt grains on top and small blue drops moving up out of the slice toward the salt."
+    },
+    {
+      "term": "Membrane",
+      "meaning": "A very thin skin around every cell. It lets water through easily and holds back many dissolved things.",
+      "example": "The membrane around a root cell lets water in but keeps the sugars inside.",
+      "art": "A cut-away of a cell with a thin glowing skin, small water drops passing through and larger dots stopped outside."
+    },
+    {
+      "term": "Dissolved",
+      "meaning": "Mixed into water so well that you cannot see it any more, like salt in a glass of water.",
+      "example": "The salt in sea water is dissolved. You taste it but you cannot see it.",
+      "art": "A spoon of salt stirred into a glass of clear water, with the grains fading into nothing."
+    },
+    {
+      "term": "Root hair",
+      "meaning": "A very thin tube that grows out of one cell on the outside of a young root. It takes in water.",
+      "example": "A moong sprout's root has a fuzz of white root hairs.",
+      "art": "A magnified young root covered in fine white hairs, pushing between brown soil grains."
+    },
+    {
+      "term": "Turgor",
+      "meaning": "The firm push of a cell full of water against its own wall, like air pushing inside a tyre.",
+      "example": "Turgor keeps a fresh palak leaf stiff.",
+      "art": "Two cells side by side: a plump full cell pressing out on its wall, and a shrunken floppy cell pulling away from its wall."
+    },
+    {
+      "term": "Wilting",
+      "meaning": "Drooping, because the plant's cells have lost water and lost their firm push.",
+      "example": "Coriander left on a counter wilts in an hour or two.",
+      "art": "A bunch of coriander drooping over the edge of a steel plate."
+    },
+    {
+      "term": "Transpiration",
+      "meaning": "The loss of water as vapour from a plant, mostly through tiny holes in the leaves.",
+      "example": "A bag tied over a leaf fills with tiny drops of transpired water.",
+      "art": "A clear bag tied over a leafy twig with fine droplets running down the inside."
+    },
+    {
+      "term": "Stoma",
+      "meaning": "A tiny hole in a leaf, shaped like a mouth, that lets air in and water vapour out. The plural is stomata.",
+      "example": "A tulsi leaf has thousands of stomata on its underside.",
+      "art": "A magnified leaf surface with a mouth-shaped hole between two bean-shaped cells."
+    },
+    {
+      "term": "Guard cell",
+      "meaning": "One of the two bean-shaped cells around a stoma. They swell to open it and shrink to close it.",
+      "example": "In bright morning light, the guard cells of a leaf swell and the stomata open.",
+      "art": "Two bean-shaped cells bending apart to open a hole in the middle, and the same two cells pressed together and shut."
+    },
+    {
+      "term": "Xylem",
+      "meaning": "The tubes that carry water and dissolved minerals from the roots up to the leaves.",
+      "example": "The strings in a celery stalk are bundles of xylem.",
+      "art": "A cut celery stalk with the strings picked out in blue ink."
+    },
+    {
+      "term": "Phloem",
+      "meaning": "The tubes that carry sweet sap, made in the leaves, to the roots, fruits and growing tips.",
+      "example": "Sweet neera from a cut coconut flower stalk is phloem sap.",
+      "art": "A coconut palm with a clay pot tied under a cut flower stalk, dripping with pale sweet sap."
+    },
+    {
+      "term": "Salinity",
+      "meaning": "How salty water or soil is.",
+      "example": "Sea water has a salinity of about 35 grams of salt in every litre.",
+      "art": "Three glasses of water labelled fresh, a little salty and sea strength, with piles of salt beside them."
+    },
+    {
+      "term": "Mangrove",
+      "meaning": "A tree or shrub that grows in salty water along coasts and river mouths.",
+      "example": "The Sundarbans in West Bengal is the biggest mangrove forest in the world.",
+      "art": "Mangrove trees standing on tall arched roots in muddy water at low tide, with a small boat passing."
+    }
+  ],
+  "explanations": [
+    {
+      "concept": "Water has a grip: some water is held tightly",
+      "status": "defined",
+      "definition": "Water is held by the things around it. Some water is held loosely and moves easily. Some is held tightly and is very hard to pull away. In this unit, a pull number says how tightly water is held. A bigger pull number means a tighter hold.",
+      "description": "Plain water in a glass is held very loosely. Its pull number is 0. Water in the thin film around a grain of soil is held more tightly, because the grain attracts it. Water with salt or sugar dissolved in it is held more tightly too, because the dissolved bits attract water. Scientists call this idea water potential. They measure it in megapascals, written MPa, and put a minus sign in front. We leave the minus sign out, so a bigger number is a tighter grip. Here are some typical numbers. Wet soil is about 0.1. A leaf cell is about 1 to 1.5. Sea water is about 2.5. Water always moves from the place with the smaller pull number to the place with the bigger one. So 'wet' does not tell you if a root can drink. The grip does.",
+      "examples": [
+        "Plain tap water has a pull number of about 0, so it is easy to take.",
+        "A handful of damp soil that you squeeze still holds water you cannot squeeze out. That water is held tightly.",
+        "Sea water is about 2.5, which is tighter than the 1 to 1.5 inside most leaf cells."
+      ],
+      "art": "Three jars: plain water, a soil grain with a thin water film, and salty water. Each has a small hand gripping the water, with the grip drawn tighter from left to right.",
+      "perspectives": []
+    },
+    {
+      "concept": "Osmosis: water crosses a thin skin toward the tighter grip",
+      "status": "defined",
+      "definition": "Osmosis is the movement of water through a thin skin, called a membrane, from the side where water is held more loosely to the side where it is held more tightly. The membrane lets water through but holds back many dissolved things.",
+      "description": "Every plant cell has a membrane, and a stiff wall outside it. Inside the cell is a sap with sugars and salts dissolved in it. If the water outside holds water more loosely than the sap does, water flows in. The cell swells and pushes on its wall, like air in a tyre. That firm push is called turgor, and it keeps a leaf standing up. If the outside holds water more tightly, as with salt on a cucumber slice, water flows out. The cell shrinks and goes soft. Many soft cells together make a plant wilt. The wall pushes back as the cell fills. The flow stops when the push-back is as strong as the pull. Then the cell is full and firm.",
+      "examples": [
+        "Salt on cucumber slices pulls water out of the slices, so a puddle forms and the slices go limp.",
+        "A wilted coriander sprig stood in water takes water in through its cut end and cells, and goes firm again.",
+        "A dry moong seed swells in water because its cells hold water tightly and pull it in."
+      ],
+      "art": "Two cells in cross-section. In one, blue arrows cross the thin skin into a plump full cell. In the other, arrows leave a shrunken cell that has pulled away from its wall.",
+      "perspectives": []
+    },
+    {
+      "concept": "How a root takes water in",
+      "status": "defined",
+      "definition": "A root takes in water through thousands of thin root hairs. Water flows in when the root's cells hold water more tightly than the soil does.",
+      "description": "Behind the tip of each young root, single cells grow out into root hairs. They are so thin that they slip between soil grains, and they make the root's surface huge. One rye plant, grown in a box of soil and carefully measured in 1937, had about 14 billion root hairs. Laid end to end, they would be over 10,000 kilometres long. The root's cells keep their sap thick with sugars and minerals, so they hold water tightly. The plant spends energy to pump minerals into her root cells, and water follows the minerals in. When the soil dries, a plant makes her root sap even thicker, so she can still win water from soil that holds it tightly. The water crosses the root to the xylem. A waxy band around the xylem stops water sneaking past between the cells, so every drop must go through a cell skin. That is how the root decides what gets in.",
+      "examples": [
+        "A moong sprout grown on a wet cloth shows a white fuzz of root hairs under a magnifying glass.",
+        "Roots of a potted tulsi that dries out grow thicker sap, which is why a plant that has dried a little can drink from soil that looked too dry.",
+        "Pulling a weed leaves the root hairs behind in the soil, which is why a transplanted seedling needs shade and extra water for a few days."
+      ],
+      "art": "A magnified young root with a fuzz of root hairs reaching between soil grains, and a cut-away showing blue water crossing the root cells into a central tube.",
+      "perspectives": []
+    },
+    {
+      "concept": "Fungus helpers: reaching water a root cannot reach",
+      "status": "defined",
+      "definition": "Mycorrhiza is a partnership between a plant's roots and a fungus. The fungus grows threads, thinner than root hairs, out into the soil and brings back water and minerals. The plant gives the fungus sugar.",
+      "description": "About 7 or 8 in every 10 kinds of land plants have fungus partners. The fungal threads reach into tiny gaps that even a root hair cannot enter, and they spread far from the root. In return, the plant sends part of the sugar she makes down to the fungus. Water and minerals travel one way, and sugar travels the other. Scientists are still finding how much water the fungus really brings in different soils.",
+      "examples": [
+        "Most trees in a forest share fungal threads under the soil.",
+        "Many crop plants, such as maize and finger millet, grow better with fungus partners in poor soil."
+      ],
+      "art": "A plant root wrapped in fine white fungal threads that spread out into soil, with blue drops travelling in along the threads and golden dots travelling out.",
+      "perspectives": []
+    },
+    {
+      "concept": "The slope from soil to sky",
+      "status": "defined",
+      "definition": "Water in a plant moves along a slope of pull numbers. It starts in wet soil, where the number is small. It passes through the root, the stem and the leaf, and ends in the air outside, where the number is large.",
+      "description": "Here are rounded example numbers. Wet soil is 0.1. A root cell is 0.5. The xylem in the stem is 1. A leaf cell is 1.5. Moist air at 90 percent humidity is about 14. Dry air at 50 percent humidity is about 94. Water flows down this slope because each step has a slightly bigger number. Look at the last step. The drop from the leaf to dry air is about 60 times bigger than all the steps in the plant put together. So the air does nearly all the pulling. Lifting water against gravity costs only about 0.1 for every 10 metres of height. Even for a tree 100 metres tall, that is small next to what dry air offers. In fog, the air is about 99 percent humid and its number is only about 1.4. Then the slope almost vanishes, and a plant loses almost no water. Some tall trees even take in a little water from fog through their leaves.",
+      "examples": [
+        "Washing dries faster on a dry, windy day because dry air pulls water out harder.",
+        "A plant loses much less water during a humid monsoon day than on a dry summer afternoon.",
+        "A tree 50 metres tall needs only about 0.5 of pull to lift water to the top, which is tiny next to dry air."
+      ],
+      "art": "A long staircase going down from wet soil through root, stem and leaf, with a tiny step at each stage and a huge cliff at the end where the leaf meets dry air.",
+      "perspectives": []
+    },
+    {
+      "concept": "Leaves let water out: transpiration",
+      "status": "defined",
+      "definition": "Transpiration is the loss of water vapour from a plant, mostly through the stomata, the tiny holes in a leaf. More than 95 of every 100 drops that enter the roots leave this way.",
+      "description": "A leaf must open its stomata to let in carbon dioxide, the gas it needs to make food. But when the holes are open, water vapour escapes. Many leaves have 100 to 300 stomata on every square millimetre. Only 1 or 2 drops in every 100 that a plant takes in are used to build her body. The rest passes through the plant and goes into the air. On a hot day, a field of crops sends up about 5 litres of water from each square metre of ground. This is not waste. The water on its way up carries minerals from the soil to the leaves, and its evaporation cools the leaf in the sun, like sweat cools your skin.",
+      "examples": [
+        "A leaf in a closed bag soon has droplets on the inside of the bag.",
+        "A grown banyan tree can send hundreds of litres of water into the air on a hot day.",
+        "A field of rice needs about 2,500 litres of water for each kilogram of rice, and most of that water passes through the plants."
+      ],
+      "art": "A magnified leaf section with a stoma open on the underside, blue vapour curling out into the air and tiny dots of carbon dioxide going in.",
+      "perspectives": []
+    },
+    {
+      "concept": "Guard cells: a hole that opens by drinking",
+      "status": "defined",
+      "definition": "Each stoma has two guard cells beside it. When water flows into the guard cells, they swell and bend apart, and the hole opens. When water flows out, they straighten and the hole shuts.",
+      "description": "In morning light, the guard cells pump potassium, a mineral, into themselves. Their sap gets thicker, so water flows in by osmosis. They swell, and the thin inner wall of each guard cell is bent open like a bow. When the plant is short of water, her roots and leaves make a signal chemical called abscisic acid. It makes the guard cells let their potassium out. Water follows out, the guard cells go soft, and the hole shuts. At night most stomata shut. A plant must balance two needs: let in carbon dioxide, and not lose too much water. How a leaf weighs that balance, minute by minute, is still being studied.",
+      "examples": [
+        "On a hot afternoon, a bean plant closes many of her stomata to save water.",
+        "In bright light and moist soil, the stomata of a leaf are mostly open.",
+        "When a cut leaf wilts quickly, its guard cells have lost water and the holes have closed."
+      ],
+      "art": "Two pictures of a stoma. In the first, two plump bean-shaped guard cells have bent apart to leave a round hole. In the second, two flat guard cells are pressed together with no gap.",
+      "perspectives": []
+    },
+    {
+      "concept": "Why salt makes plants thirsty",
+      "status": "defined",
+      "definition": "Salty soil water has a big pull number. If it is bigger than the pull number of the root's cells, a root cannot take water in, and water flows out of the root instead.",
+      "description": "Sea water has about 35 grams of salt in every litre. Its pull number is about 2.5. A leaf cell of most crop plants is about 1 to 1.5, and a root cell is lower still. So sea water holds its water tighter than the plant does. Water flows out of the roots, and the plant wilts in the middle of a flood. The same thing happens in two other ways. Too much fertiliser is a kind of salt, and it can 'burn' a pot plant. And in dry places, water from canals or wells has a little salt in it. When that water evaporates from a field, the salt stays behind and slowly builds up in the soil. Salt also does a second harm. Some of it gets into the plant and damages her cells over days and weeks. Farmers fix salty soil by washing the salt down with fresh water, by building drains, and by growing crops that tolerate salt.",
+      "examples": [
+        "A pot plant given a spoon of fertiliser, instead of a pinch, droops the next day.",
+        "After a cyclone pushes sea water over a field, the paddy droops even when the field is wet.",
+        "A white crust on the soil of a dry field is salt left behind after water evaporated."
+      ],
+      "art": "A flooded paddy field after a storm with seedlings drooping, a white salt crust on the bund, and an arrow showing water leaving a root hair into the salty mud.",
+      "perspectives": []
+    },
+    {
+      "concept": "Winning the contest: mangroves and other salt-tolerant plants",
+      "status": "defined",
+      "definition": "A salt-tolerant plant has a way to hold water tighter than salty water does, and a way to deal with the salt. Mangroves do this in sea water. Each kind has its own method.",
+      "description": "Mangroves live where rivers meet the sea, as in the Sundarbans and at Pichavaram in Tamil Nadu. Their leaf and root cells hold water far tighter than 2.5, so they can pull water out of sea water. Most Rhizophora mangroves keep out more than 90 of every 100 grains of salt at the root. The water in their xylem is nearly fresh. Avicennia mangroves let some salt in and push it out through salt glands on their leaves. You can see white crystals on the leaf surface. Some mangroves store salt in old leaves, which then fall off. Their roots stand up out of the mud, because mud has little air. Other salt-tolerant plants include the coconut palm and the Pokkali rice of Kerala, which grows in fields that sea water enters.",
+      "examples": [
+        "Avicennia leaves can have a white dusting of salt that tastes salty.",
+        "Pokkali rice in Kerala is grown in salty paddies and fish are farmed in the same fields after harvest.",
+        "A coconut palm grows on a beach where most other trees cannot."
+      ],
+      "art": "A mangrove tree with arched stilt roots standing in sea water, with a drawing of a root tip where only water drops pass through and salt grains are turned away.",
+      "perspectives": []
+    },
+    {
+      "concept": "The second river: sugar travels in the phloem",
+      "status": "defined",
+      "definition": "The xylem carries water up. The phloem is a second set of tubes that carries sugary sap from the leaves to every part of the plant that needs food. Phloem and xylem lie side by side in the stem.",
+      "description": "In the 1670s, the Italian scientist Marcello Malpighi cut a ring of bark off a branch. Bark holds the phloem. The leaves above the ring stayed green, because the xylem inside the wood still brought water up. But the bark swelled above the ring, because sugar was stuck there. This shows two pipes. A leaf makes sugar and pumps it into the phloem. Water follows the sugar in by osmosis, so the pressure at the leaf rises and pushes the sap along. The sap flows toward a root, a fruit or a growing tip, where the sugar is taken out and used or stored. The water then goes back into the xylem. The sweet neera that drips from a cut coconut or palmyra flower stalk is phloem sap. An idea of this kind was first written down by Ernst Münch in 1930, and it is still tested today.",
+      "examples": [
+        "Neera from a cut coconut flower stalk is sweet because it is phloem sap.",
+        "A tree with a ring of bark cut right round the trunk slowly dies from the roots, because sugar cannot get down to them.",
+        "Sugarcane stores its sweet sap in the stem."
+      ],
+      "art": "A cut-away of a stem showing blue upward tubes in the middle and golden downward tubes in the bark, and a ring cut through the bark with golden sap swelling above the cut.",
+      "perspectives": []
+    }
+  ],
+  "agreed": [
+    {
+      "text": "Water moves through a plant cell's skin toward the side where water is held more tightly. This is called osmosis.",
+      "evidence": "Scientists in the 1800s sealed sugar solutions in membrane bags and watched water flow in. Wilhelm Pfeffer measured the pressure in 1877. Plant cells shrink in strong salt and swell in plain water under the microscope."
+    },
+    {
+      "text": "More than 95 of every 100 drops of water that enter a plant leave through the leaves as vapour.",
+      "evidence": "Stephen Hales weighed plants and their water in the 1720s. Modern gas meters on single leaves give the same answer."
+    },
+    {
+      "text": "Salty soil makes it hard or impossible for most crop plants to take in water.",
+      "evidence": "Seeds sprout less and less as salt rises in field and lab trials. Salt-affected farmland has lower yields in India and across the world."
+    },
+    {
+      "text": "The holes in a leaf open and close because the guard cells around them swell and shrink with water.",
+      "evidence": "Under a microscope, guard cells swell and shut in a few minutes when light, dryness or a plant signal chemical changes."
+    },
+    {
+      "text": "Dry air can pull on a leaf's water far harder than is needed to lift water to the top of the tallest trees.",
+      "evidence": "The pull in dry air at 50 percent humidity works out to about 94 on our scale. Lifting water 100 metres needs about 1."
+    },
+    {
+      "text": "Water goes up in the xylem, and sugar travels in the phloem, which is a different set of tubes.",
+      "evidence": "Cutting a ring of bark stops sugar but not water. Aphid feeding and radioactive-labelled sugars show where the sugar flows."
+    }
+  ],
+  "challenging": [
+    {
+      "claim": "Water always flows from the wetter place to the drier place.",
+      "who": "Most people, in everyday life.",
+      "for": "Water runs downhill and soaks into dry cloth, so it seems to go from wet to dry.",
+      "against": "Across a plant cell's skin, water flows toward the side where it is held more tightly, even if that side already has salt. 'Wet' hides the grip.",
+      "status": "rejected"
+    },
+    {
+      "claim": "Salt kills a plant because salt is a poison.",
+      "who": "Many gardeners and some textbooks.",
+      "for": "Some salt does get in and harms cells over time, and a plant with too much salt in her leaves burns at the edges.",
+      "against": "Seeds stop sprouting in salty water before much salt enters. A harmless dissolved chemical that is not salt can have the same effect. The first harm is thirst. The poison comes later.",
+      "status": "debated"
+    },
+    {
+      "claim": "All mangroves get rid of salt in the same way.",
+      "who": "Some books.",
+      "for": "Many mangrove pictures show white salt crystals on leaves.",
+      "against": "Rhizophora mangroves keep most salt out at the root. Avicennia mangroves push salt out through their leaves. Others store salt in old leaves. Each kind has its own method.",
+      "status": "rejected"
+    },
+    {
+      "claim": "The roots are the engine that pushes water up to the leaves.",
+      "who": "Many students and some older books.",
+      "for": "Roots really can push a little. At night, sap can ooze from a cut stem, which is called root pressure.",
+      "against": "A cut stem with no roots still lifts water to its leaves. Root pressure is far too weak to lift water to the top of a tall tree. The pull from the leaves does the lifting.",
+      "status": "rejected"
+    },
+    {
+      "claim": "A flooded field kills plants only because the roots drown for lack of air.",
+      "who": "Many farmers.",
+      "for": "Water-filled soil has little air, and most roots need oxygen.",
+      "against": "Rice survives fresh water floods for days. Sea water floods kill rice much faster, which shows that the salt matters as well as the missing air.",
+      "status": "debated"
+    }
+  ],
+  "big_questions": [
+    {
+      "q": "A plant standing in a flooded, salty field can die of thirst. Is that soil wet or dry?",
+      "kind": "deep",
+      "hint": "Think about the words 'wet' and 'available to drink'. Are they the same?"
+    },
+    {
+      "q": "Water moves to where it is held more tightly. Who is doing the pulling, the water or the thing that holds it?",
+      "kind": "deep",
+      "hint": "Think about a wet sponge and a wet cloth. Which gives up its water more easily?"
+    },
+    {
+      "q": "Dry air pulls water out of leaves far harder than the tallest tree needs. So is a tree lifting her water, or is the air lifting it?",
+      "kind": "deep",
+      "hint": "Imagine a tree on a day with no wind and fog. What happens to the water in her tubes?"
+    },
+    {
+      "q": "A person who drinks sea water gets thirstier, but a mangrove grows in it. Is sea water good or bad for life?",
+      "kind": "big",
+      "hint": "Think about who is drinking. Does 'good' belong to the water, or to the one who meets it?"
+    },
+    {
+      "q": "In dry places, farmers water their fields for years and the soil slowly turns white with salt. Where does the salt come from, and who is to blame?",
+      "kind": "big",
+      "hint": "Think about what stays behind when water evaporates."
+    },
+    {
+      "q": "Rain that fell on the Western Ghats may pass through many plants before it reaches the sea. Whose water is it?",
+      "kind": "big",
+      "hint": "Follow one drop from a cloud, to soil, to a root, to a leaf, and back to the air."
+    },
+    {
+      "q": "Nobody can see the pull inside a tree. How could you measure it, and how would you know your measurement was right?",
+      "kind": "deep",
+      "hint": "Think about how you measure a pull on a spring."
+    },
+    {
+      "q": "When soil dries, a plant makes her root sap thicker so she can keep drinking. Is that a decision? How would you find out?",
+      "kind": "deep",
+      "hint": "Think about what you do when you feel thirsty, and what a root does."
+    }
+  ],
+  "story": {
+    "title": "Water Everywhere, and Not a Drop",
+    "mins": 10,
+    "read_aloud": true,
+    "note": "A made-up story. Moushumi, her family and the village are imagined. The science in it is real: sea water floods do leave rice seedlings wilting, fresh rain does wash salt down and out, and Nona is a real traditional salt-tolerant rice of the Bengal coast.",
+    "text": [
+      "On Gosaba island in the Sundarbans, the storm came in the night. Moushumi lay on the floor of the school building with fifty other people and listened to the roof shake. In the morning the wind had gone. But the sea had come over the mud wall that kept the fields dry, and it had left itself behind. Brown water lay across the whole island, up to a grown-up's knees.",
+      "It took two days to drain away. On the third day, Moushumi walked to the nursery bed behind her house. This was where her family kept rice seedlings, ready to plant out when the rains came. When she left, they had been bright green. Now every seedling was bent over, with yellow tips, like seedlings in the worst heat of April. The mud around them was wet. She pushed a finger in, and water came up around it.",
+      "Her uncle, Bhaskar Kaka, was already there with a bucket. 'They are thirsty,' he said. He dipped the bucket in the pond at the edge of the field and poured it over the bed. The next morning, the seedlings were worse. He poured again.",
+      "Moushumi did not understand. The bed was soaked, and her uncle was giving it more water. How could a plant standing in wet mud be thirsty? 'Maybe they drowned,' said her cousin Rupa. But the bed had drained, and drowned plants do not look like plants in a drought.",
+      "That evening, her grandmother, Thakuma, sat on the step with a heap of bitter gourd. She cut it into thin rounds, threw handfuls of salt over it and left it in a steel plate. 'Why salt?' Moushumi asked. 'To bring out the bitter water,' said Thakuma. 'My mother did it, and hers.' When Moushumi came back after a while, a green puddle had gathered under the rounds, and the slices had gone soft.",
+      "She looked at the puddle for a long time. In class, Ranu Didi had done the same with cucumber. Salt does not make water, Didi had said. Salt holds water, so tightly that the cucumber lets go. Moushumi licked her finger, dipped it in the pond water, and licked it again. Salt. The sea had filled that pond.",
+      "She thought of the roots in the bed, sitting in mud soaked with the sea. If salt could pull water out of a gourd, it could pull water out of a root. The mud was wet, and still it held its water too tightly to give any away. The seedlings stood in water and could not drink a drop. And every bucket from the pond made the grip tighter.",
+      "She wanted to be sure before she spoke, because who listens to a girl of ten? So she tested it. She dug up six seedlings and washed their roots. She stood three in a cup of pond water and three in a cup of rain water from the drum on the roof. Rupa kept watch. By dusk, the three in the pond water were lying over the rim. The three in the rain water still stood straight.",
+      "She carried both cups into the courtyard. Her uncle looked at the cups. He looked at the brown pond. Then he sat down on his heels. 'I have been giving them the sea,' he said quietly.",
+      "There was a long argument that night. Where would fresh water come from, when the pond was salty and the tube-well was far away? Thakuma settled it. 'The rain is coming,' she said. 'Rain is the one water with no salt in it. Let it fall on the bed and run off, and it will carry the salt away.' The women of the lane dug a cut in the bank so the water could drain out, and then they waited.",
+      "The rain came three days later and fell all night. In the morning, the bed was running with muddy water through the cut, and when Moushumi touched the mud to her tongue, it tasted of nothing. A week later, new leaves pushed up. Many of the old seedlings never recovered. So Thakuma took down a rusty tin from the shelf. Inside were seeds of nona, the old salty-field rice her own mother had grown. 'This kind has met the sea before,' she said. They sowed it in the bed.",
+      "On the way to school, Moushumi crossed the creek. The mangroves along its bank stood in the dark water, as green as ever. The storm had passed right over them. The sea had stood around their roots for two days, and not one leaf drooped. She stopped on the bridge. Whatever those trees knew, they were drinking from the very water that had hurt her seedlings.",
+      "'How?' she said aloud. A fish jumped, and the ripples spread out, and the tide began to turn."
+    ],
+    "epiphany": "A root drinks only when her cells hold water more tightly than the soil does. Salty mud holds water so tightly that seedlings in a wet bed were still thirsty, and pouring on salty pond water made the grip even tighter. Fresh rain washed the salt away and loosened the grip.",
+    "ask": [
+      "Why did the seedlings droop even though the mud was wet?",
+      "Why did pouring on more pond water make them worse?",
+      "How could Moushumi's test with the two cups be made fairer, so that nobody could argue with it?"
+    ],
+    "art": [
+      "Gosaba island after a storm: brown water across the fields, a school building on higher ground, and women wading with pots on their heads.",
+      "A nursery bed of rice seedlings bent over in wet mud, with Moushumi pressing one finger into the mud.",
+      "A grandmother on a doorstep tossing salt over thin rounds of bitter gourd on a steel plate, with a green puddle forming, and a girl watching closely.",
+      "Two clay cups in a courtyard at dusk: three seedlings flopped over the rim of one, three standing straight in the other, and a man crouching to look."
+    ]
+  },
+  "games": [
+    {
+      "id": "g1",
+      "title": "Which Way Does the Water Go?",
+      "mins": 25,
+      "players": [
+        "alone",
+        "with a parent",
+        "with friends"
+      ],
+      "context": "This is a guessing game about the pull numbers from this unit. Each card shows two places and their pull numbers. You guess which way the water moves, and say why.",
+      "setup": [
+        {
+          "art": "Twenty-four cards in a pile in the middle of a table, and four players each holding two tokens marked Toward A and Toward B.",
+          "caption": "1. Cut out the cards and tokens. Shuffle the cards into a pile."
+        },
+        {
+          "art": "One card held up by the reader, with two places A and B and a pull number for each, and the back hidden against the reader's chest.",
+          "caption": "2. The reader reads the front of a card aloud and hides the back."
+        },
+        {
+          "art": "Four players putting down one token face down each, then turning them over together.",
+          "caption": "3. Everyone puts down a token face down and turns them over together."
+        }
+      ],
+      "printables": [
+        {
+          "kind": "cards",
+          "title": "24 two-sided cards: two places and their pull numbers on the front, the answer and the reason on the back",
+          "items": [
+            {
+              "f": "A: wet soil, pull number 0.1. B: a young root cell, pull number 0.5. Which way does the water go?",
+              "b": "Toward B. The root cell has the bigger pull number, so water flows from the soil into the root."
+            },
+            {
+              "f": "A: soil flooded with sea water, pull number 2.5. B: a rice root cell, pull number 0.8.",
+              "b": "Toward A. The salty soil has the bigger number, so water leaves the root. The seedling wilts in the flood."
+            },
+            {
+              "f": "A: a bean root cell in drying soil, pull number 1.2. B: the drying soil, pull number 1.0.",
+              "b": "Toward A. The root holds water a little tighter than the soil, so the plant can still drink."
+            },
+            {
+              "f": "A: a bean root cell, pull number 1.2. B: very dry-looking soil, pull number 1.5.",
+              "b": "Toward B. The soil now holds its last water tighter than the root can. The plant wilts and cannot recover alone."
+            },
+            {
+              "f": "A: the xylem tube in the stem, pull number 1.0. B: a leaf cell, pull number 1.5.",
+              "b": "Toward B. Water climbs the stem toward the leaf because the leaf has the bigger number."
+            },
+            {
+              "f": "A: a leaf cell, pull number 1.5. B: dry afternoon air, pull number 94.",
+              "b": "Toward B. Dry air has a huge number, so water leaves the leaf as vapour. This is transpiration."
+            },
+            {
+              "f": "A: a leaf cell, pull number 1.5. B: air in a thick fog, pull number 1.4.",
+              "b": "Toward A. The leaf's number is a tiny bit bigger, so water moves very slowly into the leaf. Some tall trees drink a little fog."
+            },
+            {
+              "f": "A: a cucumber cell, pull number 0.7. B: wet salt on top of the slice, pull number 20.",
+              "b": "Toward B. The salt holds water far tighter than the cucumber does, so water leaves the cells and makes a puddle."
+            },
+            {
+              "f": "A: a dry moong seed, pull number 50. B: a bowl of plain water, pull number 0.",
+              "b": "Toward A. A dry seed holds water extremely tightly, so the seed pulls water in and swells."
+            },
+            {
+              "f": "A: a moong seed that has swelled, pull number 1.5. B: strong salt water, pull number 2.5.",
+              "b": "Toward B. The salt water holds its water tighter than the seed does, so the seed cannot drink and does not sprout."
+            },
+            {
+              "f": "A: a guard cell in morning light, full of potassium, pull number 3. B: the leaf cell beside it, pull number 1.5.",
+              "b": "Toward A. The guard cell swells with water and bends open, so the stoma opens."
+            },
+            {
+              "f": "A: a guard cell that has let its potassium out, pull number 1.0. B: the leaf cell beside it, pull number 1.5.",
+              "b": "Toward B. The guard cell loses water and goes soft, so the stoma shuts."
+            },
+            {
+              "f": "A: a pot of soil with a whole spoon of fertiliser, pull number 2.0. B: a tulsi root cell, pull number 0.8.",
+              "b": "Toward A. Fertiliser is a kind of salt. Too much of it pulls water out of the root, and the plant droops."
+            },
+            {
+              "f": "A: a mangrove root cell, pull number 4. B: sea water, pull number 2.5.",
+              "b": "Toward A. The mangrove holds water tighter than the sea does, so she can drink sea water."
+            },
+            {
+              "f": "A: wet clothes on a line, pull number 0.1. B: dry afternoon air, pull number 94.",
+              "b": "Toward B. Dry air pulls the water out of the cloth quickly. The clothes dry fast."
+            },
+            {
+              "f": "A: wet clothes on a line, pull number 0.1. B: damp monsoon air at 85 percent humidity, pull number 22.",
+              "b": "Toward B, but the gap is smaller, so it is slower. Clothes dry slowly on a damp monsoon day."
+            },
+            {
+              "f": "A: a raw mango slice, pull number 0.8. B: pickling salt sprinkled on the slice, pull number 20.",
+              "b": "Toward B. The salt pulls juice out of the mango. In an achaar, this also dries out microbes, so the pickle keeps."
+            },
+            {
+              "f": "A: a leaf cell that has just made a lot of sugar, pull number 2.5. B: the next cell, pull number 1.5.",
+              "b": "Toward A. Water follows sugar. This is how water enters the phloem tubes at the leaf."
+            },
+            {
+              "f": "A: soil after a good flush of fresh rain, pull number 0.4. B: a seedling's root cell, pull number 0.8.",
+              "b": "Toward B. The rain washed the salt down, so the soil holds water loosely again and the seedling can drink."
+            },
+            {
+              "f": "A: a wilted coriander sprig, cells at pull number 1.5. B: plain water at the cut end, pull number 0.",
+              "b": "Toward A. The cells of the sprig pull water in and go firm again."
+            },
+            {
+              "f": "A: a Pokkali rice root cell, pull number 3. B: salty paddy water, pull number 2.5.",
+              "b": "Toward A. This rice holds water tighter than the salty water does, so she can grow in it."
+            },
+            {
+              "f": "A: an ordinary rice root cell, pull number 1.5. B: the same salty paddy water, pull number 2.5.",
+              "b": "Toward B. Ordinary rice cannot hold water tighter than this salty water, so water leaves the root."
+            },
+            {
+              "f": "A: the xylem at the top of a tall tree, pull number 2.0. B: the xylem at the bottom of the trunk, pull number 1.0.",
+              "b": "Toward A. Water moves up the trunk toward the bigger number at the top."
+            },
+            {
+              "f": "A: a coconut palm root cell, pull number 3. B: beach sand wet with sea water, pull number 2.5.",
+              "b": "Toward A. The palm holds water tighter than the salty sand, so she can drink on a beach."
+            }
+          ]
+        },
+        {
+          "kind": "tokens",
+          "title": "8 tokens: four marked Toward A and four marked Toward B",
+          "items": [
+            "Toward A",
+            "Toward A",
+            "Toward A",
+            "Toward A",
+            "Toward B",
+            "Toward B",
+            "Toward B",
+            "Toward B"
+          ]
+        }
+      ],
+      "rules": [
+        "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
+        "Every other player puts one token face down, Toward A or Toward B. Then everyone turns the tokens over together.",
+        "The reader reads the back. A player whose token matches the answer scores one point.",
+        "A player who also says why, using the words 'bigger pull number' or 'holds water tighter', scores one more point. The reader decides, using the back of the card.",
+        "After each card, the job of reader passes to the player on the left. With two players, swap after every card.",
+        "Playing alone: read the front, say your answer and your reason out loud, then read the back. Score 1 for the right answer and 1 for the reason. Aim for 36 out of 48.",
+        "The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win."
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Cut out the 24 cards and the 8 tokens. Read the first rule together. Say that the water always goes toward the bigger pull number.",
+          "say": "Each card shows two places, A and B, with a pull number. Water goes toward the place with the bigger number. Your job is to say which one, and why.",
+          "kid": "Each card has two places with numbers. Water goes toward the bigger number. Which one?",
+          "ask": [
+            {
+              "q": "If A has a pull number of 3 and B has 1, which way does the water go?",
+              "good": [
+                "Toward A.",
+                "Toward the bigger number."
+              ]
+            }
+          ],
+          "parent": "Do not explain the cards. Let the game teach. If a child asks why the water goes to the bigger number, say that the bigger number means it is held tighter, and say that the reasons will become clear as you play.",
+          "check": {
+            "t": "mcq",
+            "q": "Water goes toward the place that has the...",
+            "options": [
+              "bigger pull number",
+              "smaller pull number",
+              "more water in a glass"
+            ],
+            "a": 0,
+            "why": "A bigger pull number means water is held more tightly there. Water moves toward the place that holds it tighter. A glass with more water makes no difference."
+          },
+          "context": "This is the first step of the game. You get the cards and tokens ready and learn the one rule."
+        },
+        {
+          "id": "s2",
+          "mins": 7,
+          "do": "Play the first eight cards. The reader reads each front, everyone chooses a token, and then the back is read. Keep score on paper.",
+          "say": "Read the front. Everyone choose a token and say why before the back is read. Then see if you were right.",
+          "kid": "Read a card. Pick a token. Say why. Then read the back.",
+          "ask": [
+            {
+              "q": "Which card was the most surprising so far, and why?",
+              "good": [
+                "The salty soil, because it was wet.",
+                "The cucumber with salt.",
+                "The dry seed."
+              ]
+            }
+          ],
+          "parent": "If a player picks a token without a reason, ask 'which number is bigger?' to help them say it. Do not give the answer before they choose.",
+          "context": "In this step, you play the first third of the game and keep score."
+        },
+        {
+          "id": "s3",
+          "mins": 7,
+          "do": "Play the next eight cards in the same way. Swap the reader after each card.",
+          "say": "Keep going. Look at the numbers, not at the pictures in your head. Which place holds water tighter?",
+          "kid": "Play the next eight cards. Look at the numbers. Which is bigger?",
+          "ask": [
+            {
+              "q": "On which cards did the water leave a plant?",
+              "good": [
+                "When the soil had salt or fertiliser.",
+                "When the air was dry.",
+                "When the soil was very dry."
+              ]
+            }
+          ],
+          "context": "In this step, you play the middle third of the game."
+        },
+        {
+          "id": "s4",
+          "mins": 7,
+          "do": "Play the last eight cards. Add up the points. Find the winner.",
+          "say": "Last eight cards. Then we add up the points. Remember to give a reason, because the reason is worth a point.",
+          "kid": "Play the last eight cards. Add up your points.",
+          "ask": [
+            {
+              "q": "What kind of place made water leave a plant?",
+              "good": [
+                "A place with a bigger pull number.",
+                "Salty places.",
+                "Dry air."
+              ]
+            }
+          ],
+          "check": {
+            "t": "mcq",
+            "q": "A farmer says, 'My field is flooded with sea water, so my crop has plenty to drink.' What do the cards say?",
+            "options": [
+              "Sea water holds its water tighter than a crop root does, so the crop cannot drink and wilts",
+              "She is right, because the field is wet",
+              "Salt makes plants grow faster"
+            ],
+            "a": 0,
+            "why": "A flooded field is wet, but the sea water has a bigger pull number than the root. Water moves out of the root. Choosing 'she is right' means 'wet' and 'drinkable' were mixed up."
+          },
+          "context": "In this step, you finish the game and use what the cards taught to answer a question."
+        },
+        {
+          "id": "s5",
+          "mins": 4,
+          "do": "Ask your child to say, in one sentence, when a plant cannot drink from wet soil. Ask which card taught them that.",
+          "say": "Tell me in one sentence: when can a plant not drink from soil that is wet?",
+          "kid": "When can a plant not drink from wet soil? Say it in one sentence.",
+          "ask": [
+            {
+              "q": "When can a plant not drink from wet soil?",
+              "good": [
+                "When the soil is salty.",
+                "When the soil holds its water tighter than the root.",
+                "When the soil has too much fertiliser."
+              ]
+            }
+          ],
+          "context": "In this last step, you say the main idea of the game in your own words."
+        }
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws-core",
+      "title": "Wet but thirsty (core)",
+      "tier": "core",
+      "mins": 25,
+      "items": [
+        {
+          "t": "mcq",
+          "p": "A rice seedling stands in a field that was flooded with sea water. The mud is wet, but she droops. What is the best reason?",
+          "opts": [
+            "The salty water holds its water tighter than her roots can pull, so water leaves her roots",
+            "The roots have too little air and the water has nothing to do with it",
+            "Rice only drinks through the leaves"
+          ],
+          "a": 0,
+          "why": "Salty water has a bigger pull number than a root cell, so water flows out of the root. If you chose the second answer, you are thinking of drowning, which does happen in floods. But sea water kills seedlings faster than fresh water does, so the salt matters.",
+          "outcome": 1
+        },
+        {
+          "t": "fill",
+          "p": "Water always moves toward the place with the ____ pull number.",
+          "a": [
+            "bigger",
+            "larger",
+            "higher",
+            "greater"
+          ],
+          "why": "A bigger pull number means water is held more tightly there. Water moves toward the tighter hold.",
+          "outcome": 0
+        },
+        {
+          "t": "truefalse",
+          "p": "Salt sprinkled on a cucumber slice pushes water into the slice.",
+          "a": false,
+          "why": "False. The salt holds water tighter than the cucumber cells do, so water leaves the slice and makes a puddle.",
+          "outcome": 0
+        },
+        {
+          "t": "match",
+          "p": "Match each place to its pull number.",
+          "pairs": [
+            [
+              "Plain tap water",
+              "about 0"
+            ],
+            [
+              "Wet soil",
+              "about 0.1"
+            ],
+            [
+              "A leaf cell",
+              "about 1 to 1.5"
+            ],
+            [
+              "Sea water",
+              "about 2.5"
+            ],
+            [
+              "Dry air",
+              "about 94"
+            ]
+          ],
+          "a": "pairs as given",
+          "why": "The tighter the hold, the bigger the number. Tap water holds its water very loosely. Dry air pulls water away more than anything else on the list.",
+          "outcome": 3
+        },
+        {
+          "t": "sort",
+          "p": "Sort each situation by what happens to the water in the root.",
+          "cats": [
+            "Water goes into the root",
+            "Water leaves the root"
+          ],
+          "items": [
+            [
+              "soil that has just had fresh water",
+              "Water goes into the root"
+            ],
+            [
+              "soil flooded with sea water",
+              "Water leaves the root"
+            ],
+            [
+              "soil after a good flush of fresh rain",
+              "Water goes into the root"
+            ],
+            [
+              "a pot with far too much fertiliser",
+              "Water leaves the root"
+            ],
+            [
+              "soil dried to a pull number of 1.5 around a bean root at 1.2",
+              "Water leaves the root"
+            ],
+            [
+              "damp garden soil after a short shower",
+              "Water goes into the root"
+            ]
+          ],
+          "a": "as given",
+          "why": "Water goes into the root when the root holds water tighter than the soil does. It leaves when the soil holds water tighter. Salt, fertiliser and very dry soil all make the soil's hold tighter.",
+          "outcome": 1
+        },
+        {
+          "t": "mcq",
+          "p": "Where do more than 95 of every 100 drops of water that enter a plant's roots end up?",
+          "opts": [
+            "Used up to build the plant's body",
+            "Let out into the air through the leaves as vapour",
+            "Kept in the stem"
+          ],
+          "a": 1,
+          "why": "Only 1 or 2 drops in every 100 are used to build the plant. Nearly all the rest travels through and leaves as vapour through the stomata.",
+          "outcome": 3
+        },
+        {
+          "t": "order",
+          "p": "Put these in order along the path of a drop of water, from the ground to the sky.",
+          "a": [
+            "Wet soil",
+            "A root hair",
+            "A root cell",
+            "The xylem in the stem",
+            "A leaf cell",
+            "The air outside"
+          ],
+          "why": "The pull number rises at each step, so water flows from the soil, through the root, up the stem, into the leaf, and out into the air.",
+          "outcome": 3
+        },
+        {
+          "t": "truefalse",
+          "p": "A stoma opens when its two guard cells fill with water and bend apart.",
+          "a": true,
+          "why": "True. Water flows into the guard cells, they swell, and the swelling bends them open. When they lose water, they go flat and the hole shuts.",
+          "outcome": 4
+        },
+        {
+          "t": "fill",
+          "p": "The tubes that carry sugary sap from the leaves to the rest of the plant are called the ____.",
+          "a": [
+            "phloem"
+          ],
+          "why": "The phloem carries sugar. The xylem is the set of tubes that carries water up.",
+          "outcome": 6
+        },
+        {
+          "t": "write",
+          "p": "Meena's pot plant drooped the day after she gave the plant a whole spoon of fertiliser. Explain why in two sentences.",
+          "lines": 3,
+          "a": "Fertiliser is a kind of salt. Too much of it makes the water in the pot hold on tighter than the roots, so water left the roots and the plant drooped.",
+          "why": "A strong answer says that fertiliser works like salt, and that water leaves the root when the soil holds water tighter than the root does. Saying 'too much food' misses the idea.",
+          "outcome": 1
+        },
+        {
+          "t": "count",
+          "p": "In a sprouting test, 9 of 10 seeds sprouted in cup A, 7 in cup B, 3 in cup C and 0 in cup D. How many of the 40 seeds did not sprout?",
+          "a": "21",
+          "why": "9 plus 7 plus 3 plus 0 is 19 seeds sprouted. 40 take away 19 is 21 that did not sprout.",
+          "outcome": 5
+        },
+        {
+          "t": "draw",
+          "p": "Draw a cell in plain water and a cell in strong salt water. Use arrows to show which way water moves, and show how each cell looks.",
+          "a": "The first cell is plump with arrows pointing into it. The second is shrunken with arrows pointing out of it.",
+          "why": "A strong drawing shows arrows going into the cell in plain water, which then swells, and arrows going out of the cell in salt water, which then shrinks and goes limp.",
+          "outcome": 0
+        },
+        {
+          "t": "mcq",
+          "p": "After many years of watering from a canal, a farmer finds a white crust on the soil. Where did the crust most likely come from?",
+          "opts": [
+            "Salt that was in the water and stayed when the water evaporated",
+            "Chalk that rose from deep in the ground",
+            "Dust blown in by the wind"
+          ],
+          "a": 0,
+          "why": "Canal and well water carries a little dissolved salt. When the water evaporates or goes up through plants, the salt stays behind and builds up. That is why white crusts form on salty fields.",
+          "outcome": 1
+        },
+        {
+          "t": "perspective",
+          "p": "Arjun and Lakshmi each have a pot plant. A bucket of salty pond water is nearby.",
+          "views": [
+            {
+              "who": "Arjun, a boy in Class 4 (an imagined view)",
+              "says": "Water is water. A plant will be happy to drink the pond water."
+            },
+            {
+              "who": "Lakshmi, a girl in Class 4 (an imagined view)",
+              "says": "Salty water will make the plant droop. We should use rain water."
+            }
+          ],
+          "ask": "Whose view do you agree with more? What could you test to find out?",
+          "a": "Answers vary. A strong answer picks a side, gives a reason with pull numbers or salt, and describes a fair test, such as watering two pots of the same plant, one with pond water and one with rain water, and watching them for days.",
+          "why": "Both are views a person could hold. Arjun is right that water is needed. Lakshmi is right that salt changes how tightly water is held. A fair test settles it.",
+          "outcome": 5
+        },
+        {
+          "t": "odd",
+          "p": "Which one is the odd one out, and why? Sea water, pond water after a cyclone, rain water, soil with too much fertiliser.",
+          "a": "Rain water, because it has almost no salt. The other three have a lot of dissolved salt.",
+          "why": "Sea water, flooded pond water and over-fertilised soil all hold their water tightly, because they have a lot of dissolved salt. Rain water holds its water loosely.",
+          "outcome": 1
+        }
+      ]
+    },
+    {
+      "id": "ws-stretch",
+      "title": "Wet but thirsty (stretch)",
+      "tier": "stretch",
+      "mins": 30,
+      "items": [
+        {
+          "t": "mcq",
+          "p": "On a hot, dry afternoon, what do the guard cells of a bean leaf do to save water?",
+          "opts": [
+            "They lose their potassium and water, go flat, and shut the stomata",
+            "They swell and open the stomata wider",
+            "They make new water"
+          ],
+          "a": 0,
+          "why": "A plant in danger of drying out makes a chemical signal. It tells the guard cells to let go of potassium. Water follows out, they go flat, and the holes close.",
+          "outcome": 4
+        },
+        {
+          "t": "mcq",
+          "p": "Why does a plant lose almost no water on a foggy morning?",
+          "opts": [
+            "Fog air is almost as damp as the leaf, so there is hardly any slope for water to flow down",
+            "Fog is made of salt",
+            "Plants cannot move on foggy mornings"
+          ],
+          "a": 0,
+          "why": "In fog the air's pull number is about 1.4, close to the leaf's 1.5. With almost no step down, almost no water moves.",
+          "outcome": 3
+        },
+        {
+          "t": "fill",
+          "p": "To lift water 100 metres up a tree takes a pull number of about ____.",
+          "a": [
+            "1",
+            "one"
+          ],
+          "why": "Every 10 metres costs about 0.1, so 100 metres costs about 1. That is tiny compared with the 94 that dry air offers.",
+          "outcome": 3
+        },
+        {
+          "t": "truefalse",
+          "p": "Roots push the water all the way up to the top of a tall tree.",
+          "a": false,
+          "why": "False. Roots can push a little at night, but far too weakly for a tall tree. The pull from the leaves into dry air does the lifting.",
+          "outcome": 3
+        },
+        {
+          "t": "sort",
+          "p": "Sort each thing by whether it belongs to the xylem or the phloem.",
+          "cats": [
+            "Xylem",
+            "Phloem"
+          ],
+          "items": [
+            [
+              "carries water up from the roots",
+              "Xylem"
+            ],
+            [
+              "carries sugar from the leaves to roots and fruits",
+              "Phloem"
+            ],
+            [
+              "is cut when a ring of bark is taken off all the way round",
+              "Phloem"
+            ],
+            [
+              "the strings in a celery stalk",
+              "Xylem"
+            ],
+            [
+              "neera from a cut coconut flower stalk",
+              "Phloem"
+            ],
+            [
+              "still works after a ring of bark is cut",
+              "Xylem"
+            ]
+          ],
+          "a": "as given",
+          "why": "The xylem lies in the wood and carries water up. The phloem lies in the bark and carries sugar. Cutting a ring of bark cuts the phloem but leaves the xylem working for a while.",
+          "outcome": 6
+        },
+        {
+          "t": "match",
+          "p": "Match each plant to how she copes with salt.",
+          "pairs": [
+            [
+              "A Rhizophora mangrove",
+              "keeps most of the salt out at the root"
+            ],
+            [
+              "An Avicennia mangrove",
+              "pushes salt out through glands on the leaves"
+            ],
+            [
+              "A mangrove with old leaves",
+              "stores salt in the old leaves that later fall"
+            ],
+            [
+              "Ordinary rice",
+              "droops in sea water"
+            ]
+          ],
+          "a": "pairs as given",
+          "why": "Different mangroves use different methods. Ordinary rice has none of them, so she wilts in sea water.",
+          "outcome": 7
+        },
+        {
+          "t": "order",
+          "p": "Put these in order, for how a stoma opens in morning light.",
+          "a": [
+            "Light reaches the guard cells",
+            "The guard cells pump potassium in",
+            "Water flows into the guard cells by osmosis",
+            "The guard cells swell and bend apart",
+            "The stoma opens"
+          ],
+          "why": "The light starts it. Potassium makes the guard cell's sap thick, and water follows it in. The swelling bends the cells apart and opens the hole.",
+          "outcome": 4
+        },
+        {
+          "t": "count",
+          "p": "A tree is 100 metres tall and needs a pull number of about 1 to lift water to the top. Dry air has a pull number of 94. How many times bigger is the dry air's pull than the tree's lifting need?",
+          "a": "94",
+          "why": "94 divided by 1 is 94. So dry air can pull about 94 times harder than the tree needs to lift water to her top.",
+          "outcome": 3
+        },
+        {
+          "t": "mcq",
+          "p": "Farmers who water a field from a well for many years sometimes find that the soil turns white and crops grow badly. What is going on?",
+          "opts": [
+            "Each watering adds a little salt, and the salt stays when the water evaporates",
+            "The well water is too pure",
+            "The soil is getting too much sunlight"
+          ],
+          "a": 0,
+          "why": "Well and canal water carry a little salt. Plants take up the water and the sun evaporates it, but the salt stays in the soil and builds up. Finally the soil holds its water too tightly for crops.",
+          "outcome": 1
+        },
+        {
+          "t": "write",
+          "p": "A seedling stands in a field flooded with sea water. A neighbour says, 'She has plenty of water, so she will be fine.' Write two sentences to explain what the neighbour has missed.",
+          "lines": 3,
+          "a": "The neighbour has mixed up wet and drinkable. The sea water holds its water tighter than the seedling's roots do, so water leaves her roots and she wilts.",
+          "why": "A strong answer says that salty water is held tightly, and that the root cannot take it. It uses the idea of a bigger pull number or a tighter hold.",
+          "outcome": 1
+        },
+        {
+          "t": "draw",
+          "p": "Draw a plant. Use arrows and labels to show where water enters, how it travels, and where it leaves. Label the root hairs, the xylem and a stoma.",
+          "a": "A plant with root hairs at the bottom with arrows in, a tube up the stem labelled xylem, and a stoma on a leaf with an arrow of vapour going out.",
+          "why": "A strong drawing shows water entering by the root hairs, moving up the xylem, and leaving as vapour through the stomata of a leaf.",
+          "outcome": 3
+        },
+        {
+          "t": "truefalse",
+          "p": "Sugary sap flows in the phloem because water follows sugar into the tubes and pushes the sap along.",
+          "a": true,
+          "why": "True. This is called the pressure-flow idea. Water enters the tubes where sugar is loaded, the pressure rises, and the sap moves toward the places that use the sugar.",
+          "outcome": 6
+        },
+        {
+          "t": "perspective",
+          "p": "Two children each sprout 10 seeds in plain water and 10 seeds in salt water. Only 2 seeds sprout in the salt water.",
+          "views": [
+            {
+              "who": "Zoya, a girl in Class 4 (an imagined view)",
+              "says": "The salt water killed the other 8 seeds. They are dead."
+            },
+            {
+              "who": "Farhan, a boy in Class 4 (an imagined view)",
+              "says": "The salt only stopped them drinking. They may be alive."
+            }
+          ],
+          "ask": "Whose view do you agree with more? What could you do to find out?",
+          "a": "Answers vary. A strong answer picks a side and suggests rinsing the seeds in plain water and waiting to see if they sprout.",
+          "why": "Both views are possible. If the seeds sprout after a plain-water rinse, the salt had only stopped them drinking. If they never sprout, salt may have harmed them.",
+          "outcome": 5
+        },
+        {
+          "t": "odd",
+          "p": "Which one is the odd one out, and why? A cucumber with salt on it, a field flooded with sea water, a pot with too much fertiliser, a dry seed in plain water.",
+          "a": "The dry seed in plain water, because water goes into the seed. In the other three, water leaves the plant.",
+          "why": "A dry seed holds water extremely tightly, so the seed pulls water in and swells. The other three all have a place holding water tighter than the plant does.",
+          "outcome": 0
+        },
+        {
+          "t": "mcq",
+          "p": "An aphid pushes a tiny tube into a stem and sweet liquid oozes out. Which tubes did she tap?",
+          "opts": [
+            "The phloem",
+            "The xylem",
+            "The root hairs"
+          ],
+          "a": 0,
+          "why": "Phloem sap is sweet because it carries sugar made in the leaves. Xylem sap is mostly water with a few minerals.",
+          "outcome": 6
+        }
+      ]
+    },
+    {
+      "id": "ws-challenge",
+      "title": "Wet but thirsty (challenge)",
+      "tier": "challenge",
+      "mins": 30,
+      "items": [
+        {
+          "t": "mcq",
+          "p": "When the soil dries, a plant makes the sap in her root cells thicker. What does that do?",
+          "opts": [
+            "It raises her pull number, so she can still pull water from soil that holds it tightly",
+            "It stops the leaves losing water",
+            "It makes the soil wetter"
+          ],
+          "a": 0,
+          "why": "Sugars and minerals make the sap hold water tighter. So the root can keep winning water from drier soil, up to a limit.",
+          "outcome": 2
+        },
+        {
+          "t": "mcq",
+          "p": "A bean root cell has a pull number of 1.2. The soil around it has a pull number of 1.5. What happens?",
+          "opts": [
+            "Water leaves the root and goes into the soil, and the bean wilts",
+            "Water goes into the root, and the bean grows",
+            "Nothing moves"
+          ],
+          "a": 0,
+          "why": "The soil's number is bigger, so water moves toward the soil. This is the wilting point. At this point a plant cannot recover without more water in the soil.",
+          "outcome": 1
+        },
+        {
+          "t": "truefalse",
+          "p": "If a plant wilts at midday on a hot day, the soil must be short of water.",
+          "a": false,
+          "why": "False. On a hot day the leaves can lose water faster than the roots can pull it in, even from wet soil. Many plants wilt at midday and recover in the evening.",
+          "outcome": 3
+        },
+        {
+          "t": "fill",
+          "p": "A pressure chamber measures the ____ in a plant's water tubes, by finding the gas pressure that just pushes the sap back to the cut end.",
+          "a": [
+            "pull",
+            "tension",
+            "suction"
+          ],
+          "why": "When a drop of sap just appears at the cut end, the gas pressure is equal to the pull that was holding the sap inside.",
+          "outcome": 3
+        },
+        {
+          "t": "match",
+          "p": "Match each action to its effect.",
+          "pairs": [
+            [
+              "Flushing salty soil with fresh water",
+              "lowers the soil's pull number"
+            ],
+            [
+              "Adding salt to the soil",
+              "raises the soil's pull number"
+            ],
+            [
+              "A thick fog",
+              "lowers the air's pull number"
+            ],
+            [
+              "A plant thickening her root sap",
+              "raises the plant's pull number"
+            ]
+          ],
+          "a": "pairs as given",
+          "why": "Flushing carries salt away, so the soil holds its water more loosely. Salt does the opposite. Fog is nearly saturated air. Thicker sap lets the root hold water tighter.",
+          "outcome": 2
+        },
+        {
+          "t": "sort",
+          "p": "Sort each thing by whether it makes it harder or easier for a plant to take in water.",
+          "cats": [
+            "Harder",
+            "Easier"
+          ],
+          "items": [
+            [
+              "watering with salty irrigation water",
+              "Harder"
+            ],
+            [
+              "fresh rain washing salt out of the soil",
+              "Easier"
+            ],
+            [
+              "adding far too much fertiliser",
+              "Harder"
+            ],
+            [
+              "thickening the sap in the root cells",
+              "Easier"
+            ],
+            [
+              "soil drying out",
+              "Harder"
+            ],
+            [
+              "a layer of dry leaves on top of the soil to keep it damp",
+              "Easier"
+            ]
+          ],
+          "a": "as given",
+          "why": "Anything that raises the soil's pull number, such as salt or drying, makes drinking harder. Anything that lowers it, or raises the root's number, makes drinking easier.",
+          "outcome": 1
+        },
+        {
+          "t": "order",
+          "p": "Put these in order, from the smallest pull number to the biggest.",
+          "a": [
+            "Plain water",
+            "Wet soil",
+            "A leaf cell",
+            "Sea water",
+            "Dry air"
+          ],
+          "why": "Plain water is about 0, wet soil 0.1, a leaf cell 1 to 1.5, sea water 2.5 and dry air 94.",
+          "outcome": 3
+        },
+        {
+          "t": "count",
+          "p": "Ananya stirs 6 grams of salt into 200 millilitres of water. At the same strength, how much salt would there be in 1 litre? Sea water has about 35 grams in a litre. How much less salty is Ananya's water?",
+          "a": "30 grams in a litre, which is 5 grams less than sea water",
+          "why": "1 litre is 5 times 200 millilitres, so 5 times 6 grams is 30 grams. 35 take away 30 is 5 grams less per litre.",
+          "outcome": 5
+        },
+        {
+          "t": "mcq",
+          "p": "Why does the water in the tubes of a Rhizophora mangrove taste almost fresh?",
+          "opts": [
+            "Her roots keep most of the salt out as the water goes in",
+            "She has no salt in her body",
+            "The sea water around her is fresh"
+          ],
+          "a": 0,
+          "why": "Most Rhizophora mangroves block more than 90 of every 100 grains of salt at the root. The water that gets into the xylem is nearly fresh.",
+          "outcome": 7
+        },
+        {
+          "t": "write",
+          "p": "Using the words 'pull number', explain why a person who drinks sea water gets thirstier.",
+          "lines": 3,
+          "a": "Sea water has a bigger pull number than the water in the person's body, so it holds on to its water tightly and the body loses water to get rid of the salt. So the person gets thirstier.",
+          "why": "A strong answer says that sea water is saltier than the body's fluids, so drinking it does not help the body keep water. The idea matches what happens to a plant in salty soil.",
+          "outcome": 0
+        },
+        {
+          "t": "draw",
+          "p": "Draw a mangrove root standing in sea water. Show water drops going in and salt grains turned away at the root.",
+          "a": "A root in blue water with small drops passing into the root and salt dots stopped at the surface.",
+          "why": "A strong drawing shows that water gets in but most salt does not. This is how Rhizophora mangroves keep their xylem sap almost fresh.",
+          "outcome": 7
+        },
+        {
+          "t": "perspective",
+          "p": "Two scientists argue about what harms a plant first in salty soil.",
+          "views": [
+            {
+              "who": "Dr Lakshmi, a soil scientist (an imagined view)",
+              "says": "The first harm is thirst. The plant cannot pull water from the salty soil. The salt only starts to poison her later."
+            },
+            {
+              "who": "Mr Arjun, a farmer (an imagined view)",
+              "says": "Salt is a poison from the start. It gets into the plant and harms her cells."
+            }
+          ],
+          "ask": "Whose view do you agree with more? What test might tell the two views apart?",
+          "a": "Answers vary. A strong answer suggests a test such as growing seeds in a harmless thick liquid that is not salt, which holds water tightly too. If the seeds droop in the same way, thirst is the first harm.",
+          "why": "Real scientists support the thirst-first idea with exactly this kind of test, and also accept that salt does harm the plant later. Both views have a part of the truth.",
+          "outcome": 1
+        },
+        {
+          "t": "truefalse",
+          "p": "Water in the xylem of a tall tree is pushed up by a pump in the roots.",
+          "a": false,
+          "why": "False. Water is pulled up, mostly by dry air pulling on the leaves. The xylem has no pump. Dead xylem tubes still carry water.",
+          "outcome": 6
+        },
+        {
+          "t": "mcq",
+          "p": "A student sprouts seeds in strong salt water, and none sprout. She says, 'Salt kills seeds.' Which extra test would show whether the seeds in the salt water were still alive?",
+          "opts": [
+            "Rinse them in plain water and see if they sprout",
+            "Boil them and taste them",
+            "Dry them in the sun"
+          ],
+          "a": 0,
+          "why": "If the seeds sprout after a rinse, the salt only stopped them from drinking. They were not dead. This is how scientists tell thirst from poison.",
+          "outcome": 5
+        },
+        {
+          "t": "odd",
+          "p": "Which one is the odd one out, and why? A mangrove, a coconut palm, Pokkali rice, ordinary wheat.",
+          "a": "Ordinary wheat, because she cannot grow in salty soil. The other three can.",
+          "why": "Mangroves, coconut palms and Pokkali rice all have ways of holding water tighter than salty water does. Ordinary wheat does not.",
+          "outcome": 7
+        }
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Salt and the Sprouts: how salty is too salty for a seed?",
+      "mins": 55,
+      "days": 4,
+      "question": "How much salt can there be in the water before moong seeds stop sprouting?",
+      "predict": "Before you start, guess. Which cups will have the most sprouts? Which will have none? Say why you think so, and how you will decide when a seed has sprouted.",
+      "fair_test": "Every cup gets 10 moong seeds from the same packet, soaked for the same time, on the same kind of paper towel. Every cup gets the same amount of water each day, and sits in the same shady place. Only the salt in the water is different.",
+      "results_table": [
+        "Cup",
+        "Salt in 200 millilitres of water",
+        "Sprouted after 1 day (out of 10)",
+        "Sprouted after 2 days",
+        "Sprouted after 3 days",
+        "Longest root after 3 days (millimetres)"
+      ],
+      "materials": [
+        {
+          "item": "40 whole green moong seeds (sabut moong), soaked in plain water for 6 to 8 hours and drained",
+          "qty": 40
+        },
+        {
+          "item": "4 steel katoris or small plates, with 4 flat plates or saucers to cover them",
+          "qty": 4
+        },
+        {
+          "item": "4 paper towels or squares of thin clean cotton cloth, folded in four",
+          "qty": 4
+        },
+        {
+          "item": "4 tumblers or jars, each holding 200 millilitres of plain water",
+          "qty": 4
+        },
+        {
+          "item": "table salt",
+          "qty": 1
+        },
+        {
+          "item": "measuring spoons: a quarter teaspoon, a half teaspoon and a teaspoon, and a tablespoon",
+          "qty": 1,
+          "buy": "b-spoons"
+        },
+        {
+          "item": "a marker and paper labels or tape, a ruler in millimetres, a pencil and your notebook",
+          "qty": 1
+        },
+        {
+          "item": "a magnifying glass, if you have one",
+          "qty": 1,
+          "buy": "b-lens"
+        }
+      ],
+      "safety": "Salt water is safe to touch but it is not for drinking. Wash hands after handling seeds. Keep small seeds away from children under five.",
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 25,
+          "what": "Guess. Make four kinds of salt water. Set up the four cups of seeds."
+        },
+        {
+          "day": 2,
+          "mins": 7,
+          "what": "Count the sprouts. Give each cup 2 tablespoons of its own water."
+        },
+        {
+          "day": 3,
+          "mins": 7,
+          "what": "Count again. Give each cup 2 tablespoons of its own water."
+        },
+        {
+          "day": 4,
+          "mins": 14,
+          "what": "Count, measure the longest root, and say what the results show."
+        }
+      ],
+      "record": "Fill in the table at each check. On day 4, draw the four cups side by side and write three sentences: what I think, what I saw, and why.",
+      "context": "In this experiment, you sprout moong seeds in water with four different amounts of salt. You find where the sprouting stops. The result is not known beforehand.",
+      "setup": [
+        {
+          "art": "Four tumblers in a row labelled A, B, C and D, with a quarter teaspoon, a half teaspoon and a full teaspoon of salt beside B, C and D, and none beside A.",
+          "caption": "1. Make four waters. A is plain. B, C and D have a little, more and most salt."
+        },
+        {
+          "art": "A steel katori with a folded paper towel in it, wet, and ten soaked moong seeds spread out on top without touching.",
+          "caption": "2. Put a wet folded towel in a katori. Spread 10 soaked moong on top."
+        },
+        {
+          "art": "Four katoris in a row, each covered with a plate, standing in a shady corner with A, B, C, D labels.",
+          "caption": "3. Cover the four katoris and keep them in a shady place."
+        },
+        {
+          "art": "A moong sprout lying against a ruler in millimetres, with the longest root being measured.",
+          "caption": "4. After 3 days, count the sprouts and measure the longest root."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Show your child the four tumblers, the salt and the soaked moong. Say that each cup will get a different water. Ask for a guess and a reason.",
+          "say": "We have four cups. Cup A gets plain water. B, C and D get a little, more, and most salt. Which cups will grow sprouts? Why do you think so?",
+          "kid": "Four cups, four kinds of water. Which will grow sprouts? Why do you think so?",
+          "ask": [
+            {
+              "q": "Which cup do you think will have the fewest sprouts?",
+              "good": [
+                "The saltiest one.",
+                "D."
+              ]
+            },
+            {
+              "q": "How will we know a seed has sprouted?",
+              "good": [
+                "A small white root pokes out.",
+                "The seed splits and a tail comes out."
+              ]
+            }
+          ],
+          "parent": "Do not correct any guess. Any guess with a reason is a good start. Write the guesses at the top of the page, so you can look back at them on day 4. A seed counts as sprouted when a white root is at least 2 millimetres long.",
+          "context": "This is the first step of Salt and the Sprouts. You guess before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 8,
+          "do": "Label four tumblers A, B, C and D. Pour 200 millilitres of plain water into each. Leave A plain. Add a level quarter teaspoon of salt to B, a level half teaspoon to C and a level teaspoon to D. Stir each one until the salt is gone.",
+          "say": "Label the tumblers A, B, C and D. Each gets the same plain water. Now add salt. A gets none. B gets a quarter spoon, C gets a half, and D gets a full teaspoon. Stir until you cannot see the salt.",
+          "kid": "Make four waters. A has no salt. B, C and D have more and more. Stir them.",
+          "parent": "Level spoons, not heaped ones. Cup D is about as salty as sea water. Keep the tumblers: you will use the same water again on days 2 and 3. Cover each one with a saucer so the water does not evaporate.",
+          "check": {
+            "t": "mcq",
+            "q": "Why does cup A get plain water with no salt?",
+            "options": [
+              "So we have something to compare the salty cups with",
+              "Because plain water is the best water",
+              "So there is one easy cup"
+            ],
+            "a": 0,
+            "why": "Cup A shows what moong seeds do with no salt at all. Without it, we could not tell if salt changed anything. Choosing another answer means the idea of a comparison cup has not clicked yet. Ask what the other three would be compared with."
+          },
+          "context": "In this step, you make the four waters. They are the only thing that is different between the cups."
+        },
+        {
+          "id": "s3",
+          "mins": 8,
+          "do": "Fold a paper towel in four and lay it in a katori. Pour 2 tablespoons of water A onto the towel. Spread 10 soaked moong on top, not touching. Do the same for B, C and D, using their own water. Cover each katori with a plate.",
+          "say": "Each katori gets a wet towel and 10 seeds. Use water A for the first one, B for the second, and so on. Do not mix them up. Then cover each one with a plate.",
+          "kid": "Wet a towel in each katori. Spread 10 seeds on it. Use the right water for each.",
+          "parent": "Pick out 40 good-looking seeds first and leave out any that are split or shrivelled. Count them out in tens. The towel should be wet but not floating. If you see water pooling in the katori, tip a little off.",
+          "check": {
+            "t": "mcq",
+            "q": "What is the ONE thing that is different between the four cups?",
+            "options": [
+              "The salt in the water",
+              "The number of seeds",
+              "The kind of towel"
+            ],
+            "a": 0,
+            "why": "A fair test changes one thing only. The seeds, the towels, the amount of water and the place are all the same. If something else were different, we could not tell what caused the result."
+          },
+          "context": "In this step, you set up the four cups of seeds. You treat them all in exactly the same way."
+        },
+        {
+          "id": "s4",
+          "mins": 4,
+          "do": "Put the four katoris side by side in a shady, warm place, out of direct sun. Draw the results table in your notebook. Draw what you think each cup will look like in 3 days.",
+          "say": "Put the cups somewhere shady and warm. Now draw what you think each cup will look like in three days. We will check them tomorrow.",
+          "kid": "Put the cups in a shady spot. Draw what you think you will see in 3 days.",
+          "parent": "Warm and shady is best for moong, for example a kitchen shelf. Do not put the cups in a fridge or in direct sun.",
+          "context": "In this step, you leave the seeds to work. You also draw your guess for the end."
+        },
+        {
+          "id": "s5",
+          "mins": 7,
+          "do": "Look at each cup. Count the seeds with a white root of at least 2 millimetres. Write the numbers in the table. Pour 2 tablespoons of each cup's own water onto its towel. Cover the cups again.",
+          "say": "Look at the cups one by one. How many seeds have a white root? Write the number in the table. Then give each cup 2 spoons of its own water.",
+          "kid": "Count the sprouts in each cup. Write the numbers. Give each cup its own water.",
+          "ask": [
+            {
+              "q": "Which cup has the most sprouts so far?",
+              "good": [
+                "A.",
+                "The plain one."
+              ]
+            },
+            {
+              "q": "Is the order what you guessed?",
+              "good": [
+                "Yes.",
+                "No, a surprise."
+              ]
+            }
+          ],
+          "parent": "Water with the right tumbler: A's water on A's cup. If a seed has a mouldy smell or look, take that seed out and note it. Do not make the numbers look better than they are.",
+          "wait": "Leave the cups for one day, about 24 hours.",
+          "context": "In this step, you check the cups after one day and give each its own water again."
+        },
+        {
+          "id": "s6",
+          "mins": 7,
+          "do": "Count again. Write the numbers in the table. Give each cup 2 tablespoons of its own water. Cover them again.",
+          "say": "Count the sprouts again, in the same way as yesterday. What has changed since the first count? Then give each cup its own water.",
+          "kid": "Count the sprouts again. Write the numbers. Give each cup its own water.",
+          "ask": [
+            {
+              "q": "Which cup changed the most since yesterday?",
+              "good": [
+                "A.",
+                "B.",
+                "The one with a little salt."
+              ]
+            },
+            {
+              "q": "Is any cup still without sprouts?",
+              "good": [
+                "Yes, D.",
+                "C and D."
+              ]
+            }
+          ],
+          "think": "Does a salty cup stop the seeds from sprouting, or does it just make them sprout later?",
+          "wait": "Leave the cups for one more day.",
+          "context": "In this step, you check the cups after two days. You see how the numbers change."
+        },
+        {
+          "id": "s7",
+          "mins": 8,
+          "do": "Count a third time. Measure the longest root in each cup with a ruler in millimetres. Write the numbers. Look at the roots with a magnifying glass if you have one. Draw what you see.",
+          "say": "Count the sprouts one last time. Then measure the longest root in each cup. Look for the fuzz of root hairs. Write everything in the table.",
+          "kid": "Count the sprouts. Measure the longest root. Look for the fuzzy root hairs.",
+          "ask": [
+            {
+              "q": "What do the roots in the saltier cups look like compared with cup A?",
+              "good": [
+                "Shorter.",
+                "Fewer.",
+                "Thinner and browner."
+              ]
+            }
+          ],
+          "parent": "If cup A also has very few sprouts, the seeds are probably old. Repeat the experiment with a fresh packet. Results will not match every family's exactly. A pattern of fewer and shorter roots as salt rises is the thing to look for.",
+          "wait": "Leave the cups for one more day.",
+          "context": "In this step, you take the final measurements and look closely at the roots."
+        },
+        {
+          "id": "s8",
+          "mins": 6,
+          "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why. Then compare with the guess you made on day 1.",
+          "say": "Now say three things. One, what I think. Two, what I saw, with numbers. Three, why I think it happened. Then look at your first guess. Were you right?",
+          "kid": "Say what you think, what you saw, and why. Check your first guess.",
+          "parent": "A good answer sounds like: 'I think seeds stop sprouting in a lot of salt. In D, none sprouted, and in A, nine did. The salt must make it hard for the seed to drink.' Do not give the idea before your child has tried to say it. If they say salt is a poison, you can say that is partly true, and that the first harm is thirst. The poison comes later.",
+          "check": {
+            "t": "mcq",
+            "q": "In cup D, the seeds stayed in water but did not sprout. What is the best reason?",
+            "options": [
+              "The salt water held its water tighter than the seeds did, so they could not drink",
+              "Seeds only sprout in the dark",
+              "The seeds in D were smaller"
+            ],
+            "a": 0,
+            "why": "A seed must pull water in before the seed can sprout. Salty water holds its water so tightly that a swollen seed cannot win the water. If you chose another answer, ask what was the same in all four cups, and what was different."
+          },
+          "context": "In this last step, you use your numbers to say what happened, and why."
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "Fan, Still Air or Bag: which sprig loses the most water?",
+      "mins": 40,
+      "days": 2,
+      "question": "Does a leaf lose water faster in moving dry air, in still air, or inside a bag of damp air?",
+      "predict": "Before you start, guess. Which bottle will lose the most water, and which the least? Say why you think so.",
+      "fair_test": "Use three identical bottles, three sprigs of the same kind and size, the same amount of water and oil, and the same light. Only the air around the leaves is different: moving under a fan, still, or inside a bag.",
+      "results_table": [
+        "Bottle",
+        "Air around the leaves",
+        "Water level at the start (mm)",
+        "Water level after 3 hours (mm)",
+        "Water level next morning (mm)",
+        "Water lost (mm)"
+      ],
+      "materials": [
+        {
+          "item": "3 identical small plastic water bottles, 500 millilitres, with narrow necks",
+          "qty": 3
+        },
+        {
+          "item": "3 sprigs of mint, tulsi or coriander with 6 to 8 leaves each, about the same size, cut fresh",
+          "qty": 3
+        },
+        {
+          "item": "cooking oil, 1 teaspoon",
+          "qty": 1
+        },
+        {
+          "item": "1 clear plastic bag, big enough to cover a sprig, and 1 rubber band",
+          "qty": 1,
+          "buy": "b-bags"
+        },
+        {
+          "item": "tape and a marker, a ruler in millimetres, a ceiling fan or table fan",
+          "qty": 1
+        },
+        {
+          "item": "a kitchen scale, if you have one, for a second way to measure",
+          "qty": 1
+        }
+      ],
+      "safety": "Keep fingers out of the fan. Put the bottle with the fan well away from the edge of a table.",
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 30,
+          "what": "Guess. Fill the bottles. Add the sprigs. Bag one. Place them. Check after 3 hours."
+        },
+        {
+          "day": 2,
+          "mins": 10,
+          "what": "Measure the next morning and say what the results show."
+        }
+      ],
+      "record": "Fill in the table at each check. Draw the leaves and the bag at the 3-hour check. Look for drops inside the bag.",
+      "context": "In this experiment, three sprigs stand in bottles of water. The air around their leaves is different. You find out where the leaves lose the most water.",
+      "setup": [
+        {
+          "art": "Three identical water bottles filled to the neck, each with a teaspoon of oil floating on top, and a tape strip on the neck marking the oil level.",
+          "caption": "1. Fill three bottles to the neck. Add a little oil. Mark the level with tape."
+        },
+        {
+          "art": "A mint sprig standing in a bottle with its leaves above, and a clear plastic bag tied loosely around the leaves and the bottle neck.",
+          "caption": "2. Put a sprig in each bottle. Tie a bag over the leaves of bottle C."
+        },
+        {
+          "art": "Bottle A near a ceiling fan, bottle B on a shelf behind a standing book, bottle C with its bag beside B.",
+          "caption": "3. Put A in the breeze of the fan. Put B and C in still air."
+        },
+        {
+          "art": "A ruler held beside the neck of a bottle, with a pencil tick at the new oil level, and drops of water on the inside of the bag.",
+          "caption": "4. After 3 hours and next morning, measure how far the level has dropped."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Show your child the three bottles and the three sprigs. Explain that one will stand under a fan, one in still air, and one inside a bag. Ask for a guess and a reason.",
+          "say": "Three sprigs, three bottles. A is under the fan. B is in still air. C has a bag over the leaves. Which sprig will lose the most water? Why do you think so?",
+          "kid": "Three sprigs. One under a fan, one in still air, one in a bag. Which loses most water?",
+          "ask": [
+            {
+              "q": "Which bottle do you think will lose the most water?",
+              "good": [
+                "The fan one.",
+                "A."
+              ]
+            },
+            {
+              "q": "What do you think will happen inside the bag?",
+              "good": [
+                "It will get wet.",
+                "Drops will form.",
+                "It will get foggy."
+              ]
+            }
+          ],
+          "parent": "Do not correct the guess. Write the guesses down. The idea is that moving, dry air pulls water out of leaves faster, but let your child get there by seeing.",
+          "context": "This is the first step of the experiment. You guess before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 8,
+          "do": "Fill the three bottles with water right up into the neck. Add half a teaspoon of oil to each, so it floats on top of the water. Stick a strip of tape on each neck. Mark the top of the oil on the tape with the marker. Write A, B and C on the bottles.",
+          "say": "Fill each bottle up into its neck. Float a little oil on top. The oil stops water from drifting into the air. Mark the oil level on a strip of tape. Write A, B and C.",
+          "kid": "Fill three bottles into the neck. Add a little oil on top. Mark the level with tape.",
+          "parent": "Narrow necks make a small loss easy to see. If the oil level is hard to see, put a drop of food colour in the water. The three bottles should be the same shape.",
+          "check": {
+            "t": "mcq",
+            "q": "Why do we float oil on top of the water?",
+            "options": [
+              "So water can only leave through the leaves, not from the surface",
+              "To make the leaves oily",
+              "To make the water warm"
+            ],
+            "a": 0,
+            "why": "Water would also evaporate from the open top of the bottle. Oil covers it, so any water that disappears must have gone up the stem and out of the leaves."
+          },
+          "context": "In this step, you fill the bottles. You mark the water level so you can see how much the sprigs drink."
+        },
+        {
+          "id": "s3",
+          "mins": 6,
+          "do": "Cut the end of each sprig fresh, under a little water in a bowl. Push one sprig into each bottle neck, so the cut end is in the water and the leaves are outside. Tie a bag loosely around the leaves of bottle C and the bottle neck with a rubber band.",
+          "say": "Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck.",
+          "kid": "Put a sprig in each bottle. Tie a bag over the leaves of bottle C.",
+          "adult": true,
+          "parent": "A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag that is tied tight round the neck will keep the air inside damp. Leave the neck of the bag a little loose, so the sprig is not crushed.",
+          "context": "In this step, you add the sprigs. One of them gets a bag."
+        },
+        {
+          "id": "s4",
+          "mins": 4,
+          "do": "Put bottle A on a shelf under a ceiling fan, or in front of a table fan on low, 1 metre away. Put bottles B and C in the same room, in still air, behind a standing book. Set the fan going. Write the time.",
+          "say": "A goes where the breeze reaches it. B and C go behind a book, out of the breeze. Switch the fan on and write down the time.",
+          "kid": "Put A in the breeze. Put B and C in still air. Write the time.",
+          "parent": "Keep all three in the same light, at the same height. A table fan on low is enough. Leave them for at least 3 hours.",
+          "context": "In this step, you place the bottles. Only the air around the leaves is different."
+        },
+        {
+          "id": "s5",
+          "mins": 5,
+          "do": "After 3 hours, look at the bag on bottle C. Are there drops inside? Measure how far the oil has dropped on each bottle with the ruler. Write the numbers.",
+          "say": "It has been three hours. Look inside bag C. What do you see? Then measure how far each oil level has dropped.",
+          "kid": "Look inside the bag. Measure how far each level has dropped.",
+          "ask": [
+            {
+              "q": "What can you see inside the bag?",
+              "good": [
+                "Tiny drops.",
+                "It is misty."
+              ]
+            },
+            {
+              "q": "Where do you think those drops came from?",
+              "good": [
+                "From the leaves.",
+                "From the sprig's water."
+              ]
+            }
+          ],
+          "parent": "The drop may be small, only 1 or 2 millimetres, in 3 hours. That is normal. If you have a kitchen scale, you can weigh each bottle at the start and now. One gram lost is one millilitre of water.",
+          "wait": "Wait 3 hours.",
+          "context": "In this step, you check the bottles after three hours."
+        },
+        {
+          "id": "s6",
+          "mins": 8,
+          "do": "The next morning, measure the oil level in each bottle again. Fill in the table. Work out how much water each bottle lost. Look at the leaves. Which ones look tired?",
+          "say": "Now it is morning. Measure again. How many millimetres did each bottle lose? Which bottle lost the most? Which the least?",
+          "kid": "Measure the levels again. Which lost the most? Which lost the least?",
+          "ask": [
+            {
+              "q": "In which bottle did the water go down the most?",
+              "good": [
+                "A.",
+                "The fan one."
+              ]
+            },
+            {
+              "q": "Did the bagged sprig drink anything?",
+              "good": [
+                "Very little.",
+                "Almost nothing."
+              ]
+            }
+          ],
+          "parent": "Usually the fan bottle loses most and the bagged one loses least, but real results can be messy. A sprig that wilts early will drink less. If the results are all small, repeat with more leaves.",
+          "wait": "Leave the bottles overnight.",
+          "context": "In this step, you take the final measurements and compare the three bottles."
+        },
+        {
+          "id": "s7",
+          "mins": 4,
+          "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why.",
+          "say": "Say three things. What do you think? What did you see, with numbers? Why do you think it happened?",
+          "kid": "Say what you think, what you saw, and why.",
+          "parent": "A good answer sounds like: 'I think moving air makes leaves lose more water. The fan bottle went down 4 millimetres and the bag bottle went down 0. The bag air got damp, so it could not pull.' Look back at the first guess together.",
+          "check": {
+            "t": "mcq",
+            "q": "The bagged sprig lost almost no water. What is the best reason?",
+            "options": [
+              "The air inside the bag became damp, so it pulled very little water out of the leaves",
+              "The bag stopped the roots from working",
+              "Bags make plants thirsty"
+            ],
+            "a": 0,
+            "why": "Damp air has a small pull number. When the air around a leaf is almost as damp as the leaf, there is almost no slope for the water to go down. Dry, moving air has a huge number, so it pulls hardest."
+          },
+          "context": "In this last step, you use your numbers to say what happened, and why."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "Salted Slices: salt or sugar, which pulls more water out?",
+      "mins": 28,
+      "days": 1,
+      "materials": [
+        {
+          "item": "1 cucumber, cut into 24 slices as thin as a coin (about 3 millimetres)",
+          "qty": 24
+        },
+        {
+          "item": "3 plates or katoris",
+          "qty": 3
+        },
+        {
+          "item": "a half teaspoon of salt and a half teaspoon of sugar",
+          "qty": 1
+        },
+        {
+          "item": "a teaspoon, a clock and your notebook",
+          "qty": 1
+        }
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 28,
+          "what": "Guess. Slice and set up the plates. Draw a model. Wait 20 minutes. Measure the puddles and test the slices."
+        }
+      ],
+      "record": "A table with three plates: plain, salt and sugar. For each, write the amount of liquid and whether the slices droop.",
+      "context": "In this activity, you see a plant's cells lose water to salt in your own kitchen. This is the same thing that happens to a root in salty soil.",
+      "setup": [
+        {
+          "art": "Three plates side by side, each with 8 thin cucumber slices in a ring. Salt on the second plate, sugar on the third, nothing on the first.",
+          "caption": "1. Put 8 slices on each plate. Add salt to one, sugar to one, and nothing to the third."
+        },
+        {
+          "art": "A clock showing 20 minutes passing, with the plates untouched on a table.",
+          "caption": "2. Wait 20 minutes without touching the plates."
+        },
+        {
+          "art": "A hand holding one cucumber slice by its edge so it droops over the finger, beside another slice that stays straight, and a teaspoon scooping liquid from a tilted plate.",
+          "caption": "3. Tilt each plate and spoon up the liquid. Test if a slice droops."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 4,
+          "do": "Show your child the cucumber, the salt and the sugar. Say that you will put salt on one plate, sugar on another, and nothing on the third. Ask for a guess and a reason.",
+          "say": "Three plates of cucumber slices. One gets salt, one gets sugar, one gets nothing. After 20 minutes, which plate will have the most water? Why do you think so?",
+          "kid": "Three plates. Salt, sugar, nothing. Which plate will have the most water? Why?",
+          "ask": [
+            {
+              "q": "Which plate do you think will have the most liquid?",
+              "good": [
+                "The salt one.",
+                "The sugar one."
+              ]
+            },
+            {
+              "q": "Where will the liquid come from?",
+              "good": [
+                "From the cucumber.",
+                "From the salt."
+              ]
+            }
+          ],
+          "parent": "Do not correct the guess. Any guess with a reason is good.",
+          "context": "This is the first step of Salted Slices. You guess before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 6,
+          "do": "Cut the cucumber into 24 thin slices. Put 8 slices on each plate, laid flat without overlapping. Sprinkle half a teaspoon of salt evenly over the slices on one plate and half a teaspoon of sugar on another. Leave the third plain. Write the time.",
+          "say": "Eight slices on each plate, flat. Salt on this one, sugar on this one, and nothing on the last. Write down the time.",
+          "kid": "Put 8 slices on each plate. Add salt, sugar, or nothing. Write the time.",
+          "adult": true,
+          "parent": "A grown-up does the cutting. Use slices of the same thickness, from the same part of the cucumber.",
+          "check": {
+            "t": "mcq",
+            "q": "Why do we also keep a plate with nothing on it?",
+            "options": [
+              "To see what cucumber does on its own",
+              "To have a plate to eat from",
+              "To keep the sugar company"
+            ],
+            "a": 0,
+            "why": "Cut cucumber leaks a few drops by itself. The plain plate shows how much that is. Anything more on the other plates is caused by the salt or the sugar."
+          },
+          "context": "In this step, you set up the three plates. Only what is on top of the slices is different."
+        },
+        {
+          "id": "s3",
+          "mins": 5,
+          "do": "While you wait, draw one cucumber cell. Draw the salt outside it. Draw arrows to show what you think is happening to the water.",
+          "say": "While we wait, draw a model. Draw a cell in a slice. Draw the salt outside it. Which way do you think the water moves? Draw arrows.",
+          "kid": "Draw a cucumber cell. Draw the salt outside. Draw arrows for the water.",
+          "parent": "Any drawing with a reason is good. Look for arrows that show water going from the cell to the salt. If your child draws the salt going into the cell, ask what they think the puddle is made of.",
+          "context": "In this step, you draw a model of what you cannot see, while you wait."
+        },
+        {
+          "id": "s4",
+          "mins": 6,
+          "do": "After 20 minutes, tilt each plate and spoon up the liquid. Count the spoonfuls, or count the drops from a teaspoon. Hold one slice from each plate by its edge. Does it droop? Write what you find.",
+          "say": "It has been 20 minutes. Tilt each plate. How much liquid is there? Pick up a slice from each plate. Does it stay stiff or bend?",
+          "kid": "Spoon up the liquid from each plate. Test one slice from each. Does it droop?",
+          "ask": [
+            {
+              "q": "Which plate has the most liquid?",
+              "good": [
+                "The salt one.",
+                "The sugar one."
+              ]
+            },
+            {
+              "q": "Which slices droop?",
+              "good": [
+                "The salt ones.",
+                "The ones with the most liquid."
+              ]
+            }
+          ],
+          "parent": "Usually the salt plate has a clear puddle of 1 to 3 teaspoons in 20 minutes. Sugar draws water more slowly, so it has less. The plain plate has only a few drops. If your results differ, say so and wonder why.",
+          "wait": "Wait 20 minutes. Do not touch the plates.",
+          "context": "In this step, you measure what the salt and the sugar did to the cucumber."
+        },
+        {
+          "id": "s5",
+          "mins": 7,
+          "do": "Ask your child to say what happened and why. Then ask what they think would happen to a root in soil full of salt.",
+          "say": "Tell me what happened on each plate. Why did the slices go soft? What do you think salty soil would do to a root?",
+          "kid": "Say what happened to the slices. What would salty soil do to a root?",
+          "parent": "A good answer: 'The salt pulled the water out of the cucumber. A root in salty soil would lose water to the soil, and the plant would droop.' Only now say the word osmosis.",
+          "check": {
+            "t": "mcq",
+            "q": "The salted slices went limp. Where did the water in the puddle come from?",
+            "options": [
+              "From inside the cucumber cells",
+              "From the salt",
+              "From the air"
+            ],
+            "a": 0,
+            "why": "Salt has no water to give. Cucumber cells are mostly water. The salt holds water tighter than the cells do, so water left the cells and made the puddle. A root in salty soil can lose water to the soil in the same way."
+          },
+          "context": "In this last step, you link the cucumber to a plant's roots."
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "title": "Leave the Salt Behind: a paper strip that grows a crust",
+      "mins": 25,
+      "days": 2,
+      "materials": [
+        {
+          "item": "2 strips of paper towel or thin cotton cloth, each about 3 centimetres wide and 20 centimetres long",
+          "qty": 2
+        },
+        {
+          "item": "2 tall glasses or jars",
+          "qty": 2
+        },
+        {
+          "item": "2 teaspoons of salt stirred into 100 millilitres of water, and 100 millilitres of plain water",
+          "qty": 1
+        },
+        {
+          "item": "2 pieces of tape, a pen, and a magnifying glass if you have one",
+          "qty": 1,
+          "buy": "b-lens"
+        }
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 20,
+          "what": "Set up the two strips. Look after an hour."
+        },
+        {
+          "day": 2,
+          "mins": 5,
+          "what": "Look for the crust the next morning and draw it."
+        }
+      ],
+      "record": "Draw both strips on day 2. Mark where the water climbed to and where the white crust is.",
+      "context": "In this activity, a paper strip acts like a plant's xylem and the top of the strip acts like a leaf. You see what stays behind when water leaves.",
+      "setup": [
+        {
+          "art": "Two tall glasses side by side, one with clear salt water and one with plain water, each with a paper strip leaning over the rim with one end in the water.",
+          "caption": "1. Stand a paper strip in each glass, with one end in the water."
+        },
+        {
+          "art": "The strips after an hour, wet halfway up, with the wet line marked in pencil.",
+          "caption": "2. After an hour, mark how high the water has climbed."
+        },
+        {
+          "art": "The next morning: the salt-water strip has a white crust along its upper edge, and the plain-water strip is clean.",
+          "caption": "3. The next morning, look for a white crust."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Show your child the two glasses and the paper strips. Ask what will happen to the strips, and what will be left behind when the water leaves the top. Ask for a reason.",
+          "say": "One glass has salty water. One has plain water. A strip of paper stands in each. The water will climb up the paper. What will be left at the top when the water goes into the air? Why do you think so?",
+          "kid": "Salt water and plain water. Paper strips. What will be left at the top? Why?",
+          "ask": [
+            {
+              "q": "What do you think you will find at the top of the salty strip?",
+              "good": [
+                "Salt.",
+                "A white crust."
+              ]
+            },
+            {
+              "q": "And on the plain strip?",
+              "good": [
+                "Nothing.",
+                "Just dry paper."
+              ]
+            }
+          ],
+          "parent": "Do not correct the guess. Any guess with a reason is good.",
+          "context": "This is the first step of Leave the Salt Behind. You guess before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 8,
+          "do": "Stir 2 teaspoons of salt into 100 millilitres of water until it is gone. Pour it into one glass. Pour 100 millilitres of plain water into the other. Fold the end of each strip over the rim of its glass and tape it outside. Keep the bottom 2 centimetres in the water.",
+          "say": "Mix the salty water. Pour it in one glass. Plain water goes in the other. Hang a paper strip in each, with its tip in the water. Tape the top to the glass.",
+          "kid": "Make salty water. Pour it in one glass. Put a paper strip in each glass.",
+          "parent": "The tape holds the strip in place. Put the glasses on a tray in a warm, airy place, out of the sun.",
+          "check": {
+            "t": "mcq",
+            "q": "Why do we have a strip in plain water too?",
+            "options": [
+              "To see what happens when there is no salt",
+              "To make the second glass useful",
+              "To use up the paper"
+            ],
+            "a": 0,
+            "why": "The plain-water strip is the comparison. If a white crust only appears on the salty strip, the salt made it. If both had crusts, the water or the paper would be the cause."
+          },
+          "context": "In this step, you set up the two strips. They are the same except for the salt."
+        },
+        {
+          "id": "s3",
+          "mins": 5,
+          "do": "After an hour, mark with a pencil how high the water has climbed on each strip. Measure it in millimetres.",
+          "say": "It has been an hour. The water has climbed. Mark the highest wet line with a pencil. How high is it on each strip?",
+          "kid": "Mark how high the water has climbed. Measure it.",
+          "ask": [
+            {
+              "q": "Which strip is wetter higher up?",
+              "good": [
+                "Both the same.",
+                "The salty one."
+              ]
+            },
+            {
+              "q": "What is pulling the water up?",
+              "good": [
+                "The paper's tiny gaps.",
+                "Evaporation at the top."
+              ]
+            }
+          ],
+          "parent": "Both strips will probably wet to about the same height. The difference shows up as the paper dries.",
+          "wait": "Wait an hour.",
+          "context": "In this step, you see how high the water goes in an hour."
+        },
+        {
+          "id": "s4",
+          "mins": 7,
+          "do": "The next morning, look at both strips, close up. Look for a white crust. Look with a magnifying glass if you have one. Draw both strips and mark where the crust is.",
+          "say": "Look at both strips. Is there a white crust? Where is it? Draw both strips. Mark the crust.",
+          "kid": "Look for a white crust on each strip. Draw both strips.",
+          "ask": [
+            {
+              "q": "Where is the crust, near the water or near the top?",
+              "good": [
+                "Near the top.",
+                "Where the paper dries."
+              ]
+            },
+            {
+              "q": "What do you think the crust is?",
+              "good": [
+                "Salt.",
+                "The salt that was in the water."
+              ]
+            }
+          ],
+          "parent": "The crust forms where the water leaves, near the top of the wet part. If you do not see a crust, leave it another day. It can take a day or two in cool or humid weather.",
+          "wait": "Leave the strips overnight.",
+          "context": "In this step, you find what the water left behind."
+        },
+        {
+          "id": "s5",
+          "mins": 5,
+          "do": "Ask your child where the water went and where the salt stayed. Then ask what a field or a leaf would look like if salty water were pulled through it for years.",
+          "say": "The water left the top of the strip and went into the air. What stayed behind? What would a field look like after many years of salty water?",
+          "kid": "Where did the water go? What stayed behind? What would a field look like?",
+          "parent": "A good answer: 'The water went up and out and the salt stayed. In a field it would build up a white crust over many years.'",
+          "check": {
+            "t": "mcq",
+            "q": "Water left the top of the strip, but salt stayed. What does this tell us about a leaf that pulls up salty water?",
+            "options": [
+              "The salt would be left behind in the leaf or in the soil",
+              "The salt would evaporate with the water",
+              "The salt would turn into water"
+            ],
+            "a": 0,
+            "why": "Water becomes vapour and leaves. Salt does not. So wherever salty water leaves, the salt stays. Over years, this builds up white salt crusts in fields, and a mangrove can show salt on her leaves."
+          },
+          "context": "In this last step, you link the strip to leaves, soil and fields."
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "title": "The String Staircase: draw the slope that pulls water to the sky",
+      "mins": 30,
+      "days": 1,
+      "materials": [
+        {
+          "item": "a roll of sticky paper tape or strips of paper, and scissors",
+          "qty": 1
+        },
+        {
+          "item": "a ruler in millimetres and a pencil",
+          "qty": 1
+        },
+        {
+          "item": "a big table or a clear patch of floor, about 1 metre long",
+          "qty": 1
+        },
+        {
+          "item": "6 small paper labels with the names of the places",
+          "qty": 6
+        }
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 30,
+          "what": "Work out the lengths. Cut the strips. Lay them in order. Compare. Add the height of a tree."
+        }
+      ],
+      "record": "A photo or drawing of the six strips in order, with the name and the length of each.",
+      "context": "In this activity, you turn the pull numbers into lengths of paper. Then you can see how the pull rises from the soil to the sky.",
+      "setup": [
+        {
+          "art": "A table with the six labels in a row: wet soil, root cell, stem, leaf cell, humid air, dry air, and a pile of paper strips.",
+          "caption": "1. Write the six names on labels. Work out a length for each."
+        },
+        {
+          "art": "A hand cutting paper strips: a tiny strip for wet soil, small strips for root, stem and leaf, a medium strip for humid air and a very long strip for dry air.",
+          "caption": "2. Cut a strip for each place. 1 millimetre is a pull number of 0.1."
+        },
+        {
+          "art": "The six strips laid side by side in order, with the long dry-air strip stretching far beyond all the others.",
+          "caption": "3. Lay the strips side by side, shortest first."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 4,
+          "do": "Say that you will draw the staircase of pull numbers as paper strips. For every 0.1 of pull number, cut 1 millimetre of paper. Ask your child to guess which strip will be the longest.",
+          "say": "Each place in a plant has a pull number. We will turn each number into a length. Every 0.1 of pull is 1 millimetre of paper. Which place will have the longest strip? Why do you think so?",
+          "kid": "We turn pull numbers into paper lengths. Which place will be longest? Why?",
+          "ask": [
+            {
+              "q": "Which place do you think has the biggest pull number?",
+              "good": [
+                "The air.",
+                "The leaf."
+              ]
+            }
+          ],
+          "parent": "Do not correct the guess.",
+          "context": "This is the first step of the String Staircase. You guess before you draw."
+        },
+        {
+          "id": "s2",
+          "mins": 6,
+          "do": "Work out each length. Wet soil is 0.1, so 1 millimetre. A root cell is 0.5, so 5 millimetres. The stem is 1.0, so 10 millimetres. A leaf cell is 1.5, so 15 millimetres. Humid air at 90 percent is 14, so 14 centimetres. Dry air at 50 percent is 94, so 94 centimetres.",
+          "say": "Here are the numbers. Soil is 0.1. Root is 0.5. Stem is 1. Leaf is 1.5. Humid air is 14. Dry air is 94. How many millimetres is each?",
+          "kid": "Turn each pull number into millimetres. Soil is 1 millimetre. Work out the rest.",
+          "parent": "The numbers are rounded examples. Real plants differ day by day. Help with the sums if needed: multiply the pull number by 10 to get millimetres.",
+          "check": {
+            "t": "mcq",
+            "q": "A pull number of 14 is how many millimetres on our scale?",
+            "options": [
+              "140 millimetres, which is 14 centimetres",
+              "14 millimetres",
+              "1.4 millimetres"
+            ],
+            "a": 0,
+            "why": "Every 0.1 is 1 millimetre, so 1 is 10 millimetres and 14 is 140 millimetres. 140 millimetres is 14 centimetres. If you picked 14 millimetres, you counted every whole number as 1 millimetre."
+          },
+          "context": "In this step, you do the sums to turn pull numbers into lengths."
+        },
+        {
+          "id": "s3",
+          "mins": 8,
+          "do": "Cut a strip of paper tape for each place, using the lengths. Write the name on each. Lay them side by side, shortest first. Stick them to the table or to a big sheet.",
+          "say": "Cut a strip for each place. Label each one. Lay them side by side from the shortest to the longest.",
+          "kid": "Cut a strip for each place. Label each strip. Lay them in order.",
+          "parent": "The longest strip is 94 centimetres. If the table is too small, stick the strip diagonally or on the floor.",
+          "context": "In this step, you make the staircase out of paper strips."
+        },
+        {
+          "id": "s4",
+          "mins": 7,
+          "do": "Look at the strips. Ask what you notice. Ask which step down is the biggest. Then add the height. Lifting water 10 metres costs about 1 millimetre. Cut a strip for a 50-metre tree and a 100-metre tree.",
+          "say": "Look at your staircase. Which step is the biggest? Now add the cost of height. Every 10 metres costs 1 millimetre. How long is the strip for a 50 metre tree? For a 100 metre tree?",
+          "kid": "Which step is biggest? Add strips for tall trees. 10 metres costs 1 millimetre.",
+          "ask": [
+            {
+              "q": "How big is the strip for a 100-metre tree compared with dry air?",
+              "good": [
+                "Tiny.",
+                "About a hundredth."
+              ]
+            },
+            {
+              "q": "What does this tell you?",
+              "good": [
+                "The air does most of the pulling.",
+                "Height is a small cost."
+              ]
+            }
+          ],
+          "parent": "The 50-metre strip is 5 millimetres, and the 100-metre strip is 10 millimetres. Dry air at 940 millimetres is 94 times longer than the 100-metre strip.",
+          "context": "In this step, you compare the cost of lifting water with the pull of dry air."
+        },
+        {
+          "id": "s5",
+          "mins": 5,
+          "do": "Ask your child to say what the staircase shows. Ask what would happen to the dry-air strip on a foggy morning, and what that does to the water flow.",
+          "say": "What does the staircase show? On a foggy morning the air is almost as damp as the leaf. How long would the air strip be then? What would happen to the water?",
+          "kid": "What does the staircase show? What happens on a foggy morning?",
+          "parent": "A good answer: 'The last step is the biggest. The air pulls most of the water. In fog, there is no big step, so little water moves.'",
+          "check": {
+            "t": "mcq",
+            "q": "On a foggy morning, the air's strip is about 14 millimetres, and the leaf's is 15. What happens to the water flow?",
+            "options": [
+              "It almost stops, because there is hardly any slope",
+              "It flows faster than ever",
+              "It reverses completely"
+            ],
+            "a": 0,
+            "why": "Water flows down a slope of pull numbers. In fog the slope between leaf and air almost disappears, so very little water leaves the leaf. A leaf in dry air has a very steep slope."
+          },
+          "context": "In this last step, you say what the staircase shows."
+        }
+      ]
+    }
+  ],
+  "projects": [],
+  "challenges": [
+    {
+      "id": "c1",
+      "title": "Rescue the Salty Pot: bring back soil that sea water has spoilt",
+      "mins": 35,
+      "problem": "Two cups of soil have been soaked in salty water. Cup A will be left as it is. In cup B, you must rescue the soil, using up to 600 millilitres of plain water, so that fenugreek (methi) seeds can sprout.",
+      "constraints": [
+        "Both cups start with the same soil and the same amount of salt.",
+        "You may not add new soil or take any soil out of cup B.",
+        "You may use at most 600 millilitres of plain water to rescue cup B.",
+        "Both cups get 8 methi seeds and 2 tablespoons of plain water at sowing."
+      ],
+      "materials": [
+        "2 curd cups or plastic cups, each with 4 small holes poked in the bottom by a grown-up",
+        "2 saucers or trays to stand them on",
+        "300 grams of dry garden soil or potting soil, split into two equal lots",
+        "half a teaspoon of salt, stirred into 100 millilitres of water",
+        "600 millilitres of plain water in a jug",
+        "16 methi (fenugreek) seeds, a spoon, a pencil and your notebook"
+      ],
+      "general": [
+        "Pour the plain water slowly through the soil in three lots and let each lot drain out through the holes. This is called flushing.",
+        "Make sure the holes are not blocked, so the salty water can leave the cup.",
+        "Wait for the cup to stop dripping, then sow the seeds."
+      ],
+      "creative": [
+        "Pour the water in many small, slow splashes instead of three big ones, so it runs through every part of the soil.",
+        "Make a few more holes in the cup, so the water leaves quicker, and see if it needs less water.",
+        "Collect the draining water in the saucer and let it dry on a plate to see how much salt came out."
+      ],
+      "your_turn": "Plan your own rescue. Draw it first. Try it. Change one thing, such as how slowly you pour, and try it with a fresh cup. Which way rescued the most seeds?",
+      "context": "This is a design challenge about salty soil. You use what you know about pull numbers to bring soil back to life.",
+      "setup": [
+        {
+          "art": "Two curd cups with holes in the bottom, filled with soil and standing on saucers, one labelled A and one labelled B.",
+          "caption": "1. Fill two cups with the same soil. Stand them on saucers."
+        },
+        {
+          "art": "Salty water being poured onto the soil in both cups from a small jug, and drops running into the saucers.",
+          "caption": "2. Pour the same salty water into both cups."
+        },
+        {
+          "art": "Plain water being poured in three slow lots through the soil of cup B, with salty water dripping into the saucer below.",
+          "caption": "3. Flush cup B with plain water in three slow lots."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Read the problem together. Look at the rules. Ask your child to sketch two ideas for rescuing cup B. Ask why they think each would work.",
+          "say": "Salty water has soaked both cups. You can rescue one with plain water. How would you do it? Draw two ideas. Say why each might work.",
+          "kid": "Salty soil. You have plain water. Draw two ideas to rescue cup B.",
+          "ask": [
+            {
+              "q": "How could plain water help salty soil?",
+              "good": [
+                "It washes the salt away.",
+                "It makes the soil less salty."
+              ]
+            }
+          ],
+          "parent": "Do not correct the ideas. Look for ideas that remove the salt, not just add water.",
+          "context": "This is the first step of the Rescue the Salty Pot challenge. You plan."
+        },
+        {
+          "id": "s2",
+          "mins": 8,
+          "do": "A grown-up pokes 4 small holes in the bottom of each cup. Put half the soil in each cup. Stand each on a saucer. Pour the 100 millilitres of salty water over the two cups, 50 millilitres each. Leave them for 10 minutes.",
+          "say": "Put the same amount of soil in each cup. Pour half the salty water on each. Now both are spoilt in the same way.",
+          "kid": "Put the same soil in each cup. Pour the same salty water on both.",
+          "adult": true,
+          "parent": "A grown-up pokes the holes. Use the same soil and weigh it if you can. Pour salty water evenly over the surface.",
+          "context": "In this step, you spoil both cups in exactly the same way."
+        },
+        {
+          "id": "s3",
+          "mins": 8,
+          "do": "Leave cup A alone. For cup B, pour 200 millilitres of plain water slowly over the soil. Let it drain. Then pour another 200 millilitres and let it drain. Then pour the last 200 millilitres. Look at the water in the saucer.",
+          "say": "Cup A stays as it is. Cup B gets three slow pours of plain water, one after another. Let each one drain before the next. What does the water in the saucer look like?",
+          "kid": "Cup A stays as it is. Flush cup B with three slow pours of water.",
+          "ask": [
+            {
+              "q": "Where do you think the salt is going?",
+              "good": [
+                "Out through the holes with the water.",
+                "Into the saucer."
+              ]
+            }
+          ],
+          "parent": "Pour slowly, so the water spreads through the soil. Do not let the cup stand in the saucer of salty water. Empty the saucer.",
+          "check": {
+            "t": "mcq",
+            "q": "What does the plain water do to the salt in cup B?",
+            "options": [
+              "It carries the salt out through the holes",
+              "It turns the salt into soil",
+              "It makes the salt disappear completely"
+            ],
+            "a": 0,
+            "why": "Salt dissolves in water, so the plain water picks it up and carries it down and out. Some salt always stays behind, which is why we use plenty of water."
+          },
+          "context": "In this step, you rescue cup B by flushing it."
+        },
+        {
+          "id": "s4",
+          "mins": 6,
+          "do": "Sow 8 methi seeds in each cup, just under the surface. Give each cup 2 tablespoons of plain water. Put them in a warm, bright place. Write the date.",
+          "say": "Sow 8 seeds in each cup. Same water for both. Put them in a bright, warm place. Write down the date.",
+          "kid": "Sow 8 seeds in each cup. Give each 2 spoons of plain water.",
+          "parent": "Keep both cups on the same shelf in the same light. Water both with 2 tablespoons every day.",
+          "context": "In this step, you sow the seeds in both cups, in the same way."
+        },
+        {
+          "id": "s5",
+          "mins": 8,
+          "do": "After 4 days, count the sprouts in each cup. Measure the tallest shoot. Say what rescued the soil, and what you would change next time.",
+          "say": "It has been four days. Count the sprouts in each cup. Which cup did better? What would you change next time?",
+          "kid": "Count the sprouts. Which cup did better? What would you change?",
+          "ask": [
+            {
+              "q": "Which cup has more sprouts?",
+              "good": [
+                "B.",
+                "The flushed one."
+              ]
+            },
+            {
+              "q": "How could you rescue the soil with less water?",
+              "good": [
+                "Pour more slowly.",
+                "Make more holes."
+              ]
+            }
+          ],
+          "parent": "Usually B has many more sprouts than A. If A also does well, the salt may have been too little. Try one full teaspoon next time.",
+          "wait": "Leave the cups for 4 days. Water both with 2 tablespoons every day.",
+          "context": "In this last step, you judge the rescue and think of a better way."
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "title": "How do trees move water up to their leaves? (transpiration and the pull from the leaves)",
+      "channel": "to be found",
+      "status": "find-id",
+      "youtube": "",
+      "mins": 5,
+      "why": "To see the whole path of water from root to leaf to air, with clear animation.",
+      "check": "Not yet found. Find one, watch it, and check that it says the leaves pull the water, not that roots push it."
+    },
+    {
+      "title": "Osmosis in plant cells: why celery and cucumber go limp in salt",
+      "channel": "to be found",
+      "status": "find-id",
+      "youtube": "",
+      "mins": 4,
+      "why": "To see a plant cell swell in plain water and shrink in salt water under a microscope.",
+      "check": "Not yet found. Find one, watch it, and check that it shows plant cells and not only animal cells."
+    },
+    {
+      "title": "The mangroves of the Sundarbans and how they live in salt water",
+      "channel": "to be found",
+      "status": "find-id",
+      "youtube": "",
+      "mins": 5,
+      "why": "To see the largest mangrove forest in the world and how its trees cope with salt and tides.",
+      "check": "Not yet found. Find one, watch it, and check that the facts about salt match what the unit says."
+    }
+  ],
+  "quiz": [
+    {
+      "t": "mcq",
+      "p": "Which place holds its water the tightest?",
+      "opts": [
+        "Plain tap water in a glass",
+        "Damp garden soil",
+        "Sea water"
+      ],
+      "a": 2,
+      "why": "Sea water has about 35 grams of salt in each litre. Dissolved salt holds water tightly, so sea water has the biggest pull number of the three.",
+      "outcome": 0
+    },
+    {
+      "t": "mcq",
+      "p": "Water moves through the skin of a plant cell toward the side that...",
+      "opts": [
+        "holds water more tightly",
+        "holds water more loosely",
+        "is warmer"
+      ],
+      "a": 0,
+      "why": "This movement is called osmosis. The side with the bigger pull number wins the water. Warmth is not the reason.",
+      "outcome": 0
+    },
+    {
+      "t": "mcq",
+      "p": "Salt is sprinkled on slices of raw mango and a puddle forms. Where did the puddle come from?",
+      "opts": [
+        "From inside the mango cells",
+        "Out of the salt",
+        "Out of the air"
+      ],
+      "a": 0,
+      "why": "Salt has no water to give. The mango cells are mostly water. The salt held water tighter than they did, so water left them.",
+      "outcome": 0
+    },
+    {
+      "t": "mcq",
+      "p": "What does a root hair do for a plant?",
+      "opts": [
+        "It gives a huge surface for taking in water and slips between soil grains",
+        "It carries sugar to the roots",
+        "It lets water vapour out"
+      ],
+      "a": 0,
+      "why": "Root hairs are thin tubes that grow out of root cells. They are so thin and so many that they make the root's surface very large.",
+      "outcome": 2
+    },
+    {
+      "t": "mcq",
+      "p": "Why must a root cell hold water tighter than the soil does?",
+      "opts": [
+        "Because water only moves toward the tighter hold",
+        "Because roots like to be thirsty",
+        "Because the soil is always dry"
+      ],
+      "a": 0,
+      "why": "If the soil held its water tighter, water would flow out of the root. So a root must keep her sap thick enough to win.",
+      "outcome": 2
+    },
+    {
+      "t": "mcq",
+      "p": "Along a plant's path from soil to sky, where does the biggest drop in pull number happen?",
+      "opts": [
+        "Between the leaf and the dry air",
+        "Between the soil and the root",
+        "Between the root and the stem"
+      ],
+      "a": 0,
+      "why": "The leaf is about 1.5 and dry air is about 94. The drop inside the plant is tiny compared with this.",
+      "outcome": 3
+    },
+    {
+      "t": "mcq",
+      "p": "What happens to a stoma when its guard cells lose water?",
+      "opts": [
+        "It shuts",
+        "It opens wider",
+        "It turns into a root hair"
+      ],
+      "a": 0,
+      "why": "Guard cells hold the hole open only when they are plump with water. When they lose it they go flat and the hole shuts.",
+      "outcome": 4
+    },
+    {
+      "t": "truefalse",
+      "p": "A rice seedling in a field flooded with sea water has plenty of water to drink.",
+      "a": false,
+      "why": "False. The water is there, but it is held tightly by the salt. The seedling cannot pull it into her roots.",
+      "outcome": 1
+    },
+    {
+      "t": "mcq",
+      "p": "A ring of bark is cut off a branch. The leaves above the ring stay green for weeks. What does this show?",
+      "opts": [
+        "Water goes up in the wood, which the ring did not cut",
+        "Leaves do not need water",
+        "Sugar goes up the wood"
+      ],
+      "a": 0,
+      "why": "The xylem is inside the wood, so it kept bringing water up. The ring cut the phloem in the bark, which carries sugar down.",
+      "outcome": 6
+    },
+    {
+      "t": "mcq",
+      "p": "Which of these helps a mangrove live in sea water?",
+      "opts": [
+        "Roots that keep most of the salt out",
+        "Leaves that stay white",
+        "Roots that never touch water"
+      ],
+      "a": 0,
+      "why": "Different mangroves use different methods. Some keep salt out at the root, some push it out through leaf glands, and some store it in old leaves.",
+      "outcome": 7
+    },
+    {
+      "t": "mcq",
+      "p": "Why do wet clothes dry slowly on a damp monsoon day?",
+      "opts": [
+        "Damp air has a small pull number, so it pulls less water from the cloth",
+        "Rain adds more water to the clothes",
+        "Clothes dry only at night"
+      ],
+      "a": 0,
+      "why": "Water leaves cloth in the direction of the bigger number. Damp air has a smaller number than dry air, so the pull is weaker and drying is slow.",
+      "outcome": 3
+    },
+    {
+      "t": "mcq",
+      "p": "A student tests how salt affects sprouting with four cups of seeds. What must stay the same in all four cups?",
+      "opts": [
+        "The seeds, the towel, the amount of water and the place",
+        "The amount of salt",
+        "The number of sprouts"
+      ],
+      "a": 0,
+      "why": "In a fair test only one thing changes. Here that is the salt. Everything else must be the same, so that salt is the only possible cause of any difference.",
+      "outcome": 5
+    }
+  ],
+  "applications": [
+    "Choosing salt-tolerant crops, such as Pokkali rice in Kerala, for coastal fields that sea water reaches.",
+    "Washing salt out of farmland with fresh water, and building drains so it can leave.",
+    "Planting mangrove belts along coasts to slow cyclone waves and shelter villages, as in the Sundarbans.",
+    "Preserving food in salt or sugar, such as achaar, dried fish and murabba, by drawing water out of food and out of the microbes in it.",
+    "Giving the right amount of fertiliser, because too much works like salt and dries the roots.",
+    "Drip irrigation, which gives a plant water slowly and keeps salt from building up in one place.",
+    "Oral rehydration solution (ORS), which uses salt and sugar so that the gut takes in water.",
+    "Growing plants in tubs of water with carefully measured dissolved minerals, called hydroponics."
+  ],
+  "spotted": [
+    {
+      "text": "The puddle at the bottom of a jar of mango or lime achaar, which has come out of the fruit.",
+      "art": "A jar of lime pickle with a layer of oily brine at the bottom and lime pieces floating in it."
+    },
+    {
+      "text": "Fish spread out on mats to dry in the sun on a Kerala or Goan beach, covered with salt.",
+      "art": "Rows of small silver fish laid on a woven mat in the sun, dusted with salt, on a sandy beach."
+    },
+    {
+      "text": "Brinjal or bitter gourd slices left in salt and giving out dark water before cooking.",
+      "art": "A steel plate of brinjal slices sprinkled with salt with brown droplets forming on them."
+    },
+    {
+      "text": "A white crust on the soil of a dry field or at the foot of a damp wall.",
+      "art": "A dry field with a white crust of salt on the cracked soil between wilted crop rows."
+    },
+    {
+      "text": "Coriander at the market that has gone limp, and the same coriander standing firm in a bucket of water.",
+      "art": "Two bunches of coriander in a market stall: one limp on the table, one standing firm in a bucket."
+    },
+    {
+      "text": "Mangrove trees standing on arched roots in muddy water along a coast or river mouth, at Pichavaram in Tamil Nadu, the Sundarbans in West Bengal, or the Mumbai creeks.",
+      "art": "Mangrove trees on arched roots at low tide, with a boat gliding between them."
+    },
+    {
+      "text": "Dew drops at the tips of leaves in the morning, which some plants push out from their leaf edges.",
+      "art": "A grass blade with a row of bright drops along its tip in early morning light."
+    },
+    {
+      "text": "A coconut palm growing right at the water's edge on a beach.",
+      "art": "A tall coconut palm leaning over a sandy beach, with waves breaking beside her roots."
+    }
+  ],
+  "open_questions": [
+    {
+      "q": "How does a plant sense that the soil is starting to dry, before her leaves have started to wilt?",
+      "why_open": "Scientists have found chemical signals from roots to leaves, but exactly how roots detect dryness is still being worked out."
+    },
+    {
+      "q": "How exactly do Rhizophora mangrove roots keep out the salt while letting water in?",
+      "why_open": "Scientists know the roots block most of the salt. They are still studying which proteins and root layers do the job."
+    },
+    {
+      "q": "How does a leaf weigh letting carbon dioxide in against keeping water, second by second?",
+      "why_open": "The guard cell parts are known. How a leaf balances all the signals together is not fully understood."
+    },
+    {
+      "q": "Is the pressure-flow idea enough to explain how sugar moves along the phloem of a 100-metre tree?",
+      "why_open": "Tests support the idea in short plants. Tall trees are hard to test, and some scientists think extra helpers may be needed."
+    },
+    {
+      "q": "Can we breed a salt-tolerant rice that gives as much grain as ordinary rice?",
+      "why_open": "Salt-tolerant types such as Pokkali give less grain. Plant breeders are trying to move the tolerance into high-yielding types."
+    },
+    {
+      "q": "How much water do the fungus partners of a plant really bring to her?",
+      "why_open": "In some soils the fungus partner seems to bring a lot. In others, scientists find little. The answer depends on the plant, the fungus and the soil."
+    }
+  ],
+  "ask_kids": [
+    "Why do you think we put salt on cucumber slices for a salad, and what happens to them after a while?",
+    "Why does achaar keep for months when fresh mango goes bad in a few days?",
+    "When it has rained a lot and the air feels sticky, why do clothes take so long to dry?",
+    "If you were stuck on a boat at sea with only sea water, what would you do, and why would drinking it not help?",
+    "Look at the plants on your window sill. How could you tell if one of them is thirsty before she droops?",
+    "Have you seen a white crust on soil or on a wall? What do you think left it behind?",
+    "Why might a plant droop at midday and stand up again in the evening, even though nobody watered her?",
+    "A coconut palm grows on a beach and a rose bush dies there. What might be different about them?",
+    "Which would you rather give a pot plant, tap water or sea water? Why?",
+    "The Sun is hot and the air is dry. Where is the water in a tree going?"
+  ],
+  "jokes": [
+    {
+      "j": "Why did the seed take the salt test so seriously?",
+      "a": "She did not want to be in a pickle."
+    },
+    {
+      "j": "What did the cucumber say to the salt?",
+      "a": "You are really taking the water out of me."
+    },
+    {
+      "j": "Why was the mangrove never lonely at the beach?",
+      "a": "She always had plenty of roots to keep her company."
+    },
+    {
+      "j": "Why did the guard cell get a promotion?",
+      "a": "She always knew when to open up and when to close."
+    },
+    {
+      "j": "What does a leaf say when water leaves her?",
+      "a": "See you in the sky!"
+    },
+    {
+      "j": "Why was the wet cloth sad on the monsoon day?",
+      "a": "The air would not take its water."
+    },
+    {
+      "j": "What is a root's favourite game?",
+      "a": "Hide and sip."
+    },
+    {
+      "j": "Why did the coriander perk up in the glass?",
+      "a": "She finally got a drink of her own."
+    },
+    {
+      "j": "What did the thirsty plant say to the salty soil?",
+      "a": "I cannot hold on to my water if you hold on tighter."
+    }
+  ],
+  "maths": [
+    {
+      "problem": "In a sprouting test, 9 of 10 seeds sprouted in cup A, 7 in cup B, 3 in cup C and 0 in cup D. What fraction of all 40 seeds sprouted?",
+      "answer": "19/40",
+      "explain": "9 plus 7 plus 3 plus 0 is 19. 19 seeds sprouted out of 40, so the fraction is 19 over 40. It cannot be made simpler.",
+      "math_unit": "math.fractions.fractions-of-a-whole.L4",
+      "why_maths": "A fraction of the whole lets you compare one test with another, even when the number of seeds is different."
+    },
+    {
+      "problem": "On the string staircase, a pull number of 0.1 is 1 millimetre. A leaf cell is 1.5 and dry air is 94. How many millimetres is the dry-air strip, and about how many times longer is it than the leaf strip?",
+      "answer": "940 millimetres, about 63 times longer",
+      "explain": "Multiply each pull number by 10. The leaf is 15 millimetres. Dry air is 940 millimetres. 940 divided by 15 is about 63.",
+      "math_unit": "math.measurement-basics.scale-models.L4",
+      "why_maths": "A scale turns numbers you cannot picture into lengths you can see, so you can tell at a glance which step is the biggest."
+    },
+    {
+      "problem": "Cup D had 6 grams of salt in 200 millilitres of water. Sea water has about 35 grams in a litre. Is cup D saltier or less salty than sea water, and by how much per litre?",
+      "answer": "Less salty, by 5 grams per litre",
+      "explain": "A litre is 5 times 200 millilitres. 5 times 6 grams is 30 grams per litre. 35 take away 30 is 5. So cup D is a little less salty than sea water.",
+      "math_unit": "math.weight-capacity.capacity.L4",
+      "why_maths": "To compare a cup of salt water with the sea, you need both in the same amount of water, such as a litre."
+    },
+    {
+      "problem": "It takes about 2,500 litres of water to grow 1 kilogram of rice, and most of it passes through the plants. How much for a 100 gram serving? How many 10 litre buckets is that?",
+      "answer": "250 litres, which is 25 buckets",
+      "explain": "100 grams is one tenth of a kilogram. A tenth of 2,500 is 250. 250 divided by 10 is 25 buckets.",
+      "math_unit": "math.division.division-facts.L4",
+      "why_maths": "Plants send nearly all their water into the air. Dividing the big number lets you see how much water travels through the plants behind one plate of rice."
+    },
+    {
+      "problem": "After 3 days, the number of sprouts in cups with 0, a quarter, a half and 1 teaspoon of salt was 9, 7, 3 and 0. Between which two neighbouring cups did the number fall the most? What pattern do you see?",
+      "answer": "Between the quarter-spoon cup and the half-spoon cup, a fall of 4. The more salt, the fewer the sprouts.",
+      "explain": "The falls are 9 to 7, which is 2, then 7 to 3, which is 4, then 3 to 0, which is 3. The biggest fall is 4. Adding salt always lowers the sprouts, and the middle step hurt the most.",
+      "math_unit": "math.data.bar-charts.L4",
+      "why_maths": "Looking at the size of each step shows where the change is greatest, which is more useful than only looking at the highest and lowest."
+    },
+    {
+      "problem": "A sprig under a fan lost 6 millimetres of water, and a sprig in still air lost 4 millimetres. The sprig in a bag lost 0 millimetres. How many times as much did the fan sprig lose as the still one? Can you say how many times as much it lost as the bagged one? Why or why not?",
+      "answer": "1.5 times as much. No, you cannot divide by 0.",
+      "explain": "6 divided by 4 is 1.5. The bagged sprig lost nothing, and dividing by 0 does not give a number. We can only say the fan sprig lost 6 millimetres more.",
+      "math_unit": "math.fractions.decimals-and-percentages.L4",
+      "why_maths": "A 'how many times' comparison works when both amounts are more than zero. When one is zero, we must use a difference instead."
+    },
+    {
+      "problem": "A leaf loses 2 millilitres of water an hour for the 12 hours of daylight, and 0.2 millilitres an hour for the 12 hours of night. How much does it lose in a whole day? What fraction of that is lost at night?",
+      "answer": "26.4 millilitres. At night it is 1/11.",
+      "explain": "Day: 2 times 12 is 24. Night: 0.2 times 12 is 2.4. Together that is 26.4. Night's share is 2.4 out of 26.4, which is 1 out of 11.",
+      "math_unit": "math.time.duration.L4",
+      "why_maths": "Adding up losses hour by hour shows that stomata that close at night save most of a leaf's water."
+    },
+    {
+      "problem": "Lifting water costs 1 millimetre of strip for every 10 metres of tree height. A tree is 35 metres tall. How long is the strip for lifting? A student says, 'So dry air hardly matters.' Is the student right?",
+      "answer": "3.5 millimetres. No, the student is wrong.",
+      "explain": "35 metres is 3.5 groups of 10 metres, so 3.5 millimetres. The dry-air strip is 940 millimetres. Dry air matters a great deal, because it does nearly all the pulling.",
+      "math_unit": "math.fractions.ratio-and-proportion.L4",
+      "why_maths": "Comparing the small cost of lifting with the large pull of the air shows why a tree can lift water to her top without any pump."
+    }
+  ],
+  "song": {
+    "topic_level": "sci.plants.L4",
+    "title": "Plants of India",
+    "note": "Topic-level song"
+  },
+  "links": [
+    {
+      "title": "Mangrove (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mangrove",
+      "kind": "interactive",
+      "why": "For the parent: a clear article on how mangroves live in salty water, with photographs of salt glands and stilt roots."
+    },
+    {
+      "title": "Osmosis (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Osmosis",
+      "kind": "interactive",
+      "why": "For the parent: how osmosis works, with plant examples such as turgor and wilting."
+    },
+    {
+      "title": "PhET Interactive Simulations",
+      "url": "https://phet.colorado.edu/",
+      "kind": "simulation",
+      "why": "Free simulations from the University of Colorado. Search for diffusion and membrane simulations to watch particles cross a membrane."
+    },
+    {
+      "title": "Pichavaram Mangrove Forest",
+      "url": "https://www.tamilnadutourism.tn.gov.in/",
+      "kind": "place",
+      "where": "Near Chidambaram, Tamil Nadu",
+      "why": "One of the biggest mangrove forests in India. Boat rides run through the creeks. Check the opening times and the tide before you go."
+    },
+    {
+      "title": "Nehru Science Centre",
+      "url": "https://www.nehrusciencecentre.gov.in/",
+      "kind": "place",
+      "where": "Mumbai",
+      "why": "A science centre with hands-on exhibits on plants and water. Check the opening times before you go."
+    }
+  ],
+  "buy": [
+    {
+      "id": "b-spoons",
+      "item": "A set of measuring spoons",
+      "kind": "tool",
+      "why": "For the sprout test and the salted slices. Level quarter, half and full teaspoons make the salt amounts fair.",
+      "url": "https://www.amazon.in/s?k=measuring+spoons+set",
+      "used_in": [
+        "e1",
+        "a1",
+        "c1"
+      ]
+    },
+    {
+      "id": "b-lens",
+      "item": "A small magnifying glass",
+      "kind": "tool",
+      "why": "To see root hairs on a sprout and salt crystals on paper. A cheap one is enough.",
+      "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
+      "used_in": [
+        "e1",
+        "a2"
+      ]
+    },
+    {
+      "id": "b-bags",
+      "item": "A pack of small clear plastic bags",
+      "kind": "material",
+      "why": "To cover the leaves in the fan, still air or bag test. A bread bag from the kitchen also works.",
+      "url": "https://www.amazon.in/s?k=zip+lock+bags+small",
+      "used_in": [
+        "e2"
+      ]
+    }
+  ],
+  "warmup": [
+    {
+      "q": "What does a bigger pull number mean?",
+      "a": "Water is held more tightly there."
+    },
+    {
+      "q": "Water moves toward the place with which pull number?",
+      "a": "The bigger one."
+    },
+    {
+      "q": "Why does salt on a cucumber make a puddle?",
+      "a": "The salt holds water tighter than the cucumber cells, so water leaves them."
+    },
+    {
+      "q": "Why can a plant in a flooded, salty field wilt?",
+      "a": "The salty water holds its water too tightly for the roots to take."
+    },
+    {
+      "q": "Where does most of a plant's water end up?",
+      "a": "In the air, as vapour from the leaves."
+    },
+    {
+      "q": "What are stomata?",
+      "a": "Tiny holes in leaves that let air in and water vapour out."
+    },
+    {
+      "q": "What opens a stoma?",
+      "a": "Its two guard cells fill with water and bend apart."
+    },
+    {
+      "q": "What do the xylem and phloem carry?",
+      "a": "The xylem carries water up. The phloem carries sugary sap."
+    },
+    {
+      "q": "Name two ways a mangrove copes with sea water.",
+      "a": "She can keep salt out at the roots, push it out through leaf glands, or store it in old leaves."
+    }
+  ],
+  "plan": {
+    "start_options": [
+      "intro",
+      "e1",
+      "story",
+      "g1",
+      "a1",
+      "a3",
+      "big_questions"
+    ],
+    "default_order": [
+      "intro",
+      "summary",
+      "a1",
+      "e1",
+      "terms",
+      "explanations",
+      "story",
+      "g1",
+      "a2",
+      "e2",
+      "a3",
+      "videos",
+      "ws-core",
+      "how_we_found_out",
+      "agreed",
+      "challenging",
+      "c1",
+      "big_questions",
+      "ws-stretch",
+      "ws-challenge",
+      "open_questions",
+      "roots",
+      "quiz"
+    ],
+    "core": [
+      "e1",
+      "a1",
+      "g1",
+      "e2",
+      "ws-core"
+    ],
+    "spine": [
+      "intro",
+      "e1",
+      "explanations",
+      "roots",
+      "quiz"
+    ]
+  },
+  "sources": {
+    "founder": [
+      "Founder's notes in ideas/by_topic/plants.md and water.md: nothing on this subtopic was found. The unit's stance that plants sense, remember and decide shaped the way roots, guard cells and sap are described, and it is stated as a plain finding with the other view given after it.",
+      "The Class 3 unit on how water travels through a plant (sci.plants.water-transport.L3), which this unit builds on. This unit does not repeat its coloured-water, leafy-or-bare and sweating-branch tests, its story, or its history of Hales, Strasburger, Dixon and Joly.",
+      "The Class 4 units on cells (sci.what-is-life.cells.L4) and floating and sinking (sci.states.floating-and-sinking.L4), which use potato strips and raisins in salt water. This unit moves the same idea to roots, seeds and leaves, and uses cucumber, moong and mint instead.",
+      "DeepKids Combined Class 3 Plants (sci-C3-plants.json): the idea of root hairs and of water leaving through the leaves, which this unit takes further."
+    ],
+    "science": [
+      "Dixon, H. H. and Joly, J., On the ascent of sap, Philosophical Transactions of the Royal Society B, 1895 (the cohesion-tension idea, presented in 1894)",
+      "Scholander, P. F., Hammel, H. T., Bradstreet, E. D. and Hemmingsen, E. A., Sap pressure in vascular plants, Science, 1965 (the pressure chamber)",
+      "Scholander, P. F. and others, Salt balance in mangroves, Plant Physiology, 1962 (xylem sap of mangroves is nearly fresh)",
+      "Dittmer, H. J., A quantitative study of the roots and root hairs of a winter rye plant, American Journal of Botany, 1937 (about 14 billion root hairs on one plant)",
+      "Pfeffer, W., Osmotische Untersuchungen, 1877 (measuring osmotic pressure)",
+      "Munch, E., Die Stoffbewegungen in der Pflanze, 1930 (the pressure-flow idea for phloem)",
+      "Malpighi, M., Anatome Plantarum, 1675 (ringing experiments on bark)",
+      "Munns, R. and Tester, M., Mechanisms of salinity tolerance, Annual Review of Plant Biology, 2008 (osmotic stress first, ion harm later)",
+      "Limm, E. B. and others, Foliar water uptake: a common water acquisition strategy for plants of the American redwood forest, Oecologia, 2009 (fog drinking)",
+      "Brundrett, M. C. and Tedersoo, L., Evolutionary history of mycorrhizal symbioses and global host plant diversity, New Phytologist, 2018 (about 7 to 8 in 10 plant species have fungus partners)",
+      "OpenStax Biology 2e, 'Transport of Water and Solutes in Plants' (reference only, for facts)"
+    ]
+  },
+  "roots": {
+    "context": "We have tested salt, seeds and leaves, and followed water from the soil to the sky. Now we ask what this tells us about thirst, about wet and dry, and about ourselves.",
+    "deep_truth": {
+      "truth": "Water does not go where there is the most water, but where it is held most tightly. A root can drink only if her cells hold water tighter than the soil does. Salty soil holds water very tightly, so a plant can stand in a flooded field and still die of thirst.",
+      "habit": "We say 'wet' and 'dry' as if they only measured how much water there is, and as if more water always means more to drink. But water has a grip. Water in salty mud, or in a thin film on soil grains, is held so tightly that a root cannot pull it free.",
+      "evidence": "In the sprout test, every cup got the same damp towel and the same amount of water. The seeds sprouted in plain water, sprouted fewer and slower with a little salt, and not at all in strong salt water. Salt on cucumber slices pulled water out of them in the same way."
+    },
+    "three": {
+      "who_am_i": "Your own cells are salty inside, and that is how they keep their water. If you drink sea water, you lose water and get thirstier. The same rule that dries a seedling in the sea is working in you.",
+      "what_is_life": "A mangrove keeps salt out at her roots. A sea fish drinks sea water and pushes the salt out through her gills. Different living things found different ways to win the same contest over water.",
+      "what_is_this_world": "Rain, soil, a root, a leaf and dry air are not five kinds of water. It is one water, moving down one long slope from the ground to the sky."
+    },
+    "thread": "A drop of water in wet soil, in a root, in a leaf and in the air is the same drop on a long journey. The drop goes toward wherever it is held more tightly, step by step, and the biggest step of all is the last one, from the leaf into dry air. A plant cannot stop this slope. She can only change the grip, by thickening her sap, shutting a leaf hole or keeping salt out at the root. So each plant is a place where the water's long slope from the sea, to the cloud, to the soil, to the sky passes through a living body.",
+    "teachings": [
+      {
+        "source": "Chandogya Upanishad 6.13",
+        "teaching": "Uddalaka asks his son Shvetaketu to put a lump of salt in water at night, and to bring it back in the morning. Shvetaketu cannot find it. Uddalaka tells him to sip from the top, the middle and the bottom. It is salty everywhere. The salt is there even though no one can see it.",
+        "link": "Dissolved salt cannot be seen, yet it decides where the water goes. In a cucumber, a seed or a root, what you cannot see still controls what you can."
+      },
+      {
+        "source": "Rig Veda 10.9.1 to 10.9.3 (the hymn to the Waters)",
+        "teaching": "The Waters are asked to share their kindest sap, as loving mothers share with their children, and are praised as givers of strength and healing.",
+        "link": "Water brings its sap, the minerals and sugars, to every part of a plant. The hymn saw water as the thing that carries life from one being to another."
+      }
+    ],
+    "science": [
+      {
+        "text": "Water moves from higher to lower water potential in every living thing, in plants, fungi, bacteria and animals. The same rule governs a root, a mushroom and a kidney.",
+        "status": "settled"
+      },
+      {
+        "text": "Whether a plant thickening her root sap in dry soil is making a decision is a question scientists describe in different words, and it is still being asked.",
+        "status": "open"
+      }
+    ],
+    "other_view": {
+      "who": "Many plant physiologists",
+      "view": "When the soil dries, a root's cells fill with more sugars and salts because chemical signals switch genes on. That is chemistry running by itself. Saying the plant 'decides' is only a way of talking."
+    },
+    "practice": {
+      "title": "The water you cannot squeeze out",
+      "mins": 3,
+      "say": "Wet a clean cloth and hold it in both hands. Squeeze it gently and let the water drip into a bowl. Then squeeze as hard as you can. Notice that the cloth is still damp. Breathe in slowly, and breathe out slowly, three times. Think of the damp that stays in the cloth. Some water stays held, however hard you squeeze.",
+      "kid": "Wet a cloth. Squeeze it hard over a bowl. Feel that it is still damp. Breathe slowly three times. Some water stays held."
+    },
+    "ask": [
+      "If a root cannot drink from wet soil because the soil holds on too tightly, was there water there or not?",
+      "A mangrove and the sea both hold on to water. Is the contest fair? Who is winning, and does anyone lose?",
+      "A plant thickens her sap when the soil dries. Is she deciding, or is it just happening? How could you ever tell the difference?"
+    ],
+    "art": "A rice seedling standing in a flooded field of brown water, with a drawing of a root hair beside her showing water drops being held back by clumps of salt."
+  },
+  "how_we_found_out": {
+    "story": "In 1894, Henry Dixon and John Joly, two scientists in Dublin, said that a tree pulls her water up from the top, and that the water holds together in an unbroken thread under strain. Many scientists did not believe it. A pulled thread of water, they said, should snap. And nobody could measure the pull inside a living tree. In the early 1960s, Per Scholander, a Norwegian-born scientist working in the United States, found a way. He cut a leafy twig and sealed it in a metal chamber, with the cut end poking out. Then he slowly raised the gas pressure around the leaves. When a drop of sap just showed at the cut end, the gas pressure matched how hard the twig had been pulling its water. He measured pulls many times stronger than the pressure of the air around us. The thread of water had not snapped. Scientists still argue about some details.",
+    "who": "Per Scholander (1905 to 1980), a Norwegian-born scientist working in the United States, building on Henry Dixon and John Joly of Dublin",
+    "when": "1894 (the idea), and the early 1960s, with results published in 1965 (the measurement)",
+    "wrong_idea": "Many scientists thought a thread of water pulled so hard must snap, so the pull idea could not be right. Scholander measured the pull and found that plants hold water under strong pull without it breaking."
+  },
+  "playtest": "Read through as a parent and child in a city flat would use it, but not yet tried at home, so the amounts below are estimates to check. Salt and the Sprouts: salt strengths of about 0.75, 1.5 and 3 percent were chosen so moong germination falls in steps. Expect something like 9 or 10, 6 to 9, 1 to 6 and 0 or 1 sprouts, but results vary by seed batch. If cup A also fails, the seeds are old, so try a fresh packet. Fan, Still Air or Bag: the oil layer and the narrow bottle neck make small losses visible, and the drop may be only 1 to 5 millimetres. Leave it overnight if it is small. A kitchen scale gives a second reading. The bag usually shows droplets within 2 hours. Salted Slices: expect about 1 to 3 teaspoons of liquid on the salt plate after 20 minutes, and less on the sugar plate. Leave the Salt Behind: a white crust forms along the upper edge of the wet part of the salty strip in about a day, and may take longer in humid weather. String Staircase: the 94 centimetre strip needs a table or floor space. The pull numbers are rounded examples. Rescue the Salty Pot: soil with salt flushed by 600 millilitres usually sprouts methi and the unflushed cup usually does not, but a very salty or very clay soil may need more water. Which Way Does the Water Go: all 24 cards and 8 tokens are written out, and the solo version scores out of 48. Facts to verify before release: the 14 billion root hairs on one rye plant, the figure of 2,500 litres of water for 1 kilogram of rice, the typical pull numbers for soil, root, leaf, sea water and air (worked from the humidity formula and from standard plant-physiology figures), more than 90 percent salt exclusion in Rhizophora, the 7 to 8 in 10 fungus partner figure, neera being phloem sap, Scholander's measurement dates and the wording of the Rig Veda 10.9 hymn. All three videos are still to be found."
+}
