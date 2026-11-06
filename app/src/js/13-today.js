@@ -5,7 +5,7 @@ const evPast = (i, date) => i.kind === "event" && !i.done && !i.anytime && date 
 function pastEvCard(items) {
   const P = items.filter((i) => evPast(i, today));
   if (!P.length) return "";
-  return `<section class="card pastev"><span class="eyebrow">Did ${P.length > 1 ? "these" : "this"} happen?</span>${P.map((i) => `<div class="pastrow"><div><b>${esc(i.title)}</b><br><span class="xs muted">${clock(i.at)}${i.ev?.end ? "–" + clock(hm(i.ev.end)) : ""} · ${esc(evShort(i.ev))}</span></div><div class="row"><button class="btn green sm" data-act="tlcheck" data-id="${i.id}" data-date="${today}">Yes, done</button><button class="btn line sm" data-act="evmiss" data-id="${esc(i.ev.id)}" data-date="${today}">Didn't happen</button></div></div>`).join("")}</section>`;
+  return `<section class="card pastev"><span class="eyebrow">Did ${P.length > 1 ? "these" : "this"} happen?</span>${P.map((i) => `<div class="pastrow"><div><b>${esc(i.title)}</b><br><span class="xs muted">${clock(i.at)}${i.ev?.end ? "–" + clock(toMins(i.ev.end)) : ""} · ${esc(evShort(i.ev))}</span></div><div class="row"><button class="btn green sm" data-act="tlcheck" data-id="${i.id}" data-date="${today}">Yes, done</button><button class="btn line sm" data-act="evmiss" data-id="${esc(i.ev.id)}" data-date="${today}">Didn't happen</button></div></div>`).join("")}</section>`;
 }
 function ioptsView() {
   const { date, id } = ui.sheet,
@@ -78,7 +78,7 @@ function calHead0(d) {
       day: "numeric",
       month: "short",
     });
-  return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d !== today ? `<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>` : `<button class="link xs" data-act="quick" style="margin-left:auto">${ui.qaOpen ? "Close" : "+ Add"}</button>`}</div>${ui.qaOpen && d === today ? `<section class="qa-in"><b style="font:600 var(--fs-5) var(--display)">Add to today</b>${quickAdd(today)}</section>` : ""}`;
+  return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d !== today ? `<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>` : `<button class="link xs" data-act="quick" style="margin-left:auto">${ui.qaOpen ? "Close" : "+ Add"}</button>`}</div>${ui.qaOpen && d === today ? `<section class="qa-in"><b class="h5">Add to today</b>${quickAdd(today)}</section>` : ""}`;
 }
 function noLessonNote(d) {
   const wd = parse(d).getDay(),
@@ -102,7 +102,7 @@ function otherDay(d) {
    ${past ? "" : `<button class="btn soft sm" data-act="quickday" data-d="${d}" style="margin-top:12px">+ Add a plan for this day</button>`}</section>`;
 }
 function nowCard(it) {
-  const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,
+  const col = it.kind === "lesson" ? subjClass(it.s) : "r-" + it.who,
     missed = isMissed(it, today),
     a = `data-id="${it.id}" data-date="${today}"`,
     open = !!ui.open["now|" + it.id];
@@ -134,26 +134,26 @@ function moreView() {
   h += `<button class="menurow" data-act="games">${blob("var(--gum)", 21, "wow", "", 'width="40" height="40"')}<span><b>Jokes and games</b><br><span class="xs muted">Word of the Day, True or False, Odd One Out</span></span>${icon("next")}</button>`;
   h += jokeCards(dayJokes());
   h += moreJG();
-  h += `<section class="card"><b style="font:600 var(--fs-5) var(--display)">🌱 Daily check-ins</b><p class="xs muted">For experiments that take days, like seeds sprouting or crystals growing. Tick once a day and DeepKids counts the days.</p>${
+  h += `<section class="card"><b class="h5">🌱 Daily check-ins</b><p class="xs muted">For experiments that take days, like seeds sprouting or crystals growing. Tick once a day and DeepKids counts the days.</p>${
     open
       .map((e) => {
         const day = Math.round((parse(today) - parse(e.start)) / 864e5) + 1,
           c = e.checks.includes(today);
-        return `<div class="expi ${c ? "done" : ""}" style="box-shadow:none;padding:6px 0"><span class="daybadge"><span><small>DAY</small>${day}</span></span><span style="min-width:0"><b style="font:600 var(--fs-4) var(--display)">${esc(e.title)}</b><br><span class="xs muted"><button class="link xs" data-act="close" data-e="${e.id}">finish</button></span></span><button class="ck" data-act="check" data-e="${e.id}" aria-label="Checked today: ${esc(e.title)}">${icon("check")}</button></div>`;
+        return `<div class="expi ${c ? "done" : ""}" style="box-shadow:none;padding:6px 0"><span class="daybadge"><span><small>DAY</small>${day}</span></span><span style="min-width:0"><b class="h4">${esc(e.title)}</b><br><span class="xs muted"><button class="link xs" data-act="close" data-e="${e.id}">finish</button></span></span><button class="ck" data-act="check" data-e="${e.id}" aria-label="Checked today: ${esc(e.title)}">${icon("check")}</button></div>`;
       })
       .join("") || `<p class="sm"><b>Nothing running yet. Try one of these:</b></p>${ideasHtml()}`
   }<div class="row" style="flex-wrap:nowrap"><input class="inp" id="newExp" placeholder="Add your own" maxlength="80"><button class="btn sm" data-act="addexp">Add</button></div></section>`;
-  h += `<button class="btn soft sm" data-act="free" style="justify-self:start">We explored something else</button>`;
+  h += `<button class="btn soft sm self-start" data-act="free">We explored something else</button>`;
   return h;
 }
 function focusOf(items, date) {
   if (date !== today) return null;
   const nm = nowMin(),
-    d = Dd(date),
+    d = daySettings(date),
     real = items.filter((i) => isTask(i) && !i.done && !snzd(i, date) && !evPast(i, date));
   if (!real.length) return null;
   const pm = real.find((i) => i.id === "pm");
-  if (pm && nm >= hm(d.eveAt) - 30) return pm;
+  if (pm && nm >= toMins(d.eveAt) - 30) return pm;
   const R = real.filter((i) => i.id !== "pm");
   const now = R.find((i) => !i.anytime && i.at <= nm && nm < i.at + i.dur);
   if (now) return now;
@@ -223,7 +223,7 @@ function itemDetail(it, date) {
       .join("")}</div>`;
   if (it.kind === "event") {
     const e = it.ev;
-    return `<p class="sm" style="font-weight:700">${clock(hm(e.start))} to ${clock(hm(e.end))} · ${ROLE[e.kind === "outing" ? "out" : e.who]}${e.rep === "weekly" ? " · every " + e.days.map((d) => DAYN[d]).join(", ") : ""}${e.note ? " · " + esc(e.note) : ""}</p><div class="row"><button class="btn line sm" data-act="delev" data-e="${e.id}">Remove</button></div>`;
+    return `<p class="sm" style="font-weight:700">${clock(toMins(e.start))} to ${clock(toMins(e.end))} · ${ROLE[e.kind === "outing" ? "out" : e.who]}${e.rep === "weekly" ? " · every " + e.days.map((d) => DAYN[d]).join(", ") : ""}${e.note ? " · " + esc(e.note) : ""}</p><div class="row"><button class="btn line sm" data-act="delev" data-e="${e.id}">Remove</button></div>`;
   }
   if (it.kind === "todo")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn soft sm" data-act="todomove" data-t="${it.td.id}">Move to tomorrow</button><button class="btn line sm" data-act="tododel" data-t="${it.td.id}">Remove</button></div>`;
@@ -258,7 +258,7 @@ function dayPic(it) {
   return `<span class="ic">${icon(DAYICON[it.kind] || "spark")}</span>`;
 }
 function tRow(it, date, focus) {
-  const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,
+  const col = it.kind === "lesson" ? subjClass(it.s) : "r-" + it.who,
     [hh, ap] = it.anytime ? ["Any", "time"] : it.done && it.doneNoTime ? ["Done", ""] : clock(it.at).split(" ");
   if (it.kind === "brk" || it.kind === "rest")
     return `<div class="tr brk ${it.kind === "rest" ? "rest " + col : ""}"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur / 60)}</span></div>`;
@@ -305,7 +305,7 @@ const nightDue = () => {
   return (
     S.setup &&
     !(S.night || {})[today] &&
-    nowMin() >= hm(D().eveAt) &&
+    nowMin() >= toMins(dayDefaults().eveAt) &&
     (its.length > 0 || dayPlan(tomorrow()).some((i) => i.kind === "lesson"))
   );
 };
@@ -321,14 +321,14 @@ function nightView() {
     its = nightItems(),
     dn = its.filter((p) => S.prep[p.id]).length,
     tp = dayPlan(tm).filter(isTask),
-    d = Dd(tm),
+    d = daySettings(tm),
     al = S.alarm || { on: false, time: "06:30" };
   setSheetTitle("Tomorrow · " + fmt(tm));
   return `<section class="card r-you tint"><div class="sech"><h3>Things to get ready</h3><span class="pill">${dn} of ${its.length}</span></div>${its.length ? `<div class="col" style="gap:0">${its.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Ready: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">${SUBJ[p.x.subj]} · ${esc(p.x.u.title)} · from ${esc(p.where)}</p></div></div>`).join("")}</div>` : `<p class="sm muted">Nothing to get ready tonight.</p>`}</section>
-   <section class="card"><h3 style="font-size:var(--fs-5)">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? SC(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="sm muted">Nothing planned yet.</p>`}</section>
-   <section class="card"><h3 style="font-size:var(--fs-5)">Your morning</h3><div class="fgrid"><div class="field"><label for="nWake">I'll wake up at</label><input class="inp" id="nWake" type="time" value="${al.time}" data-alarm="time"></div><div class="field"><label for="nStart">Start learning with ${esc(S.child || "my child")} at</label><input class="inp" id="nStart" type="time" value="${d.start}" data-over="${tm}"></div></div>
-     <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="nAlarm" ${al.on ? "checked" : ""} data-alarm="on"><span><b style="font:600 var(--fs-4) var(--display)">Wake-up alarm</b><br><span class="xs muted">Rings only while DeepKids is open on this phone. For a sure wake-up, also set your phone's alarm for ${clock(hm(al.time))}.</span></span></label></section>
-   <section class="card"><h3 style="font-size:var(--fs-5)">Any other plans tomorrow?</h3>${quickAdd(tm)}</section>
+   <section class="card"><h3 class="fs5">Tomorrow's plan</h3>${tp.length ? tp.map((i) => `<div class="row sm ${i.kind === "lesson" ? subjClass(i.s) : "r-" + i.who}" style="flex-wrap:nowrap;font-weight:700"><span class="dotc"></span><span class="muted num" style="min-width:64px">${i.anytime ? "Any time" : clock(i.at)}</span><span>${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</span></div>`).join("") : `<p class="sm muted">Nothing planned yet.</p>`}</section>
+   <section class="card"><h3 class="fs5">Your morning</h3><div class="fgrid"><div class="field"><label for="nWake">I'll wake up at</label><input class="inp" id="nWake" type="time" value="${al.time}" data-alarm="time"></div><div class="field"><label for="nStart">Start learning with ${esc(S.child || "my child")} at</label><input class="inp" id="nStart" type="time" value="${d.start}" data-over="${tm}"></div></div>
+     <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="nAlarm" ${al.on ? "checked" : ""} data-alarm="on"><span><b class="h4">Wake-up alarm</b><br><span class="xs muted">Rings only while DeepKids is open on this phone. For a sure wake-up, also set your phone's alarm for ${clock(toMins(al.time))}.</span></span></label></section>
+   <section class="card"><h3 class="fs5">Any other plans tomorrow?</h3>${quickAdd(tm)}</section>
    <button class="btn green" data-act="nightdone">${icon("check")}${(S.night || {})[today] ? "Tomorrow is ready" : "All set for tomorrow"}</button>`;
 }
 // Add by hand: pick what it is, fill in only what that kind needs, and it goes where it does its job
@@ -450,7 +450,7 @@ function quickSave(root) {
   } else {
     if (r !== "once" && !s) return no("Add the time, for something that repeats");
     if (r === "pick" && !days.length) return no("Pick the days");
-    const end = s ? (e && hm(e) > hm(s) ? e : clock24(hm(s) + (kd === "remind" ? 15 : 60))) : null,
+    const end = s ? (e && toMins(e) > toMins(s) ? e : clock24(toMins(s) + (kd === "remind" ? 15 : 60))) : null,
       title = kd === "remind" ? "⏰ " + t : t,
       kind = kd === "remind" ? "other" : kd;
     S.events = [
@@ -461,8 +461,8 @@ function quickSave(root) {
     ];
     toast(
       r === "once"
-        ? `${t}: ${fmt(d)}${s ? ", " + clock(hm(s)) : ""}`
-        : `${t}: ${days.length === 7 ? "every day" : days.map((x) => DAYN[x]).join(", ")}, ${clock(hm(s))}`,
+        ? `${t}: ${fmt(d)}${s ? ", " + clock(toMins(s)) : ""}`
+        : `${t}: ${days.length === 7 ? "every day" : days.map((x) => DAYN[x]).join(", ")}, ${clock(toMins(s))}`,
     );
   }
   sfx("ok");
@@ -474,12 +474,12 @@ function quickSave(root) {
 function parentView() {
   const p = S.parent || {},
     al = S.alarm || { on: false, time: "06:30" },
-    d = D();
+    d = dayDefaults();
   setSheetTitle("About you");
-  return `<section class="card r-you tint" style="text-align:center;justify-items:center">${youBlob("bob", "happy", 'width="90" height="90"')}<h2 style="font-size:var(--fs-6)">DeepKids is your planning partner</h2><p class="sm muted">It plans your mornings, evenings and the lessons in between. A few things about you help it plan better.</p></section>
+  return `<section class="card r-you tint" style="text-align:center;justify-items:center">${youBlob("bob", "happy", 'width="90" height="90"')}<h2 class="fs6">DeepKids is your planning partner</h2><p class="sm muted">It plans your mornings, evenings and the lessons in between. A few things about you help it plan better.</p></section>
    <section class="card"><div class="field"><label for="pName">What should we call you?</label><input class="inp" id="pName" maxlength="40" value="${esc(p.name || pname())}" placeholder="Your name"></div>
    <div class="fgrid"><div class="field"><label for="pWake">You usually wake up at</label><input class="inp" id="pWake" type="time" value="${al.time}"></div><div class="field"><label for="pPrep">Morning prep time</label><input class="inp" id="pPrep" type="time" value="${d.prepAt}"></div><div class="field"><label for="pStart">Learning starts at</label><input class="inp" id="pStart" type="time" value="${d.start}"></div><div class="field"><label for="pEve">Evening prep time</label><input class="inp" id="pEve" type="time" value="${d.eveAt}"></div></div>
-   <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="pAlarm" ${al.on ? "checked" : ""}><span><b style="font:600 var(--fs-4) var(--display)">Wake-up alarm</b><br><span class="xs muted">Rings only while the app is open on this phone.</span></span></label>
+   <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="pAlarm" ${al.on ? "checked" : ""}><span><b class="h4">Wake-up alarm</b><br><span class="xs muted">Rings only while the app is open on this phone.</span></span></label>
    <div class="field"><span>Subjects you'd like more help teaching</span><div class="whos">${S.subjects.map((s) => `<button type="button" aria-pressed="${ui.phelp ? ui.phelp.has(s) : (p.help || []).includes(s)}" data-act="phelp" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></div>
    <div class="field"><label for="pLang">Languages spoken at home</label><input class="inp" id="pLang" maxlength="80" value="${esc(p.langs || "")}" placeholder="Tamil, English"></div>
    <button class="btn" data-act="psave">Save</button></section>`;
@@ -493,7 +493,7 @@ function offers() {
 function offerList() {
   const L = offers();
   return L.length
-    ? `<div class="col" style="gap:8px">${L.map(({ s, nx }) => `<div class="offer ${SC(s)}">${sblob(s)}<span style="min-width:0"><b style="font:600 var(--fs-4) var(--display)">${esc(chT(nx.u))}</b><br><span class="xs muted">${SUBJ[s]} · Part ${nx.n} of ${nx.tot}</span><br><span class="xs est">${estTxt(nx.u, nx.n, nx.tot)}</span></span><button class="btn sm" data-act="more" data-s="${s}">Start</button></div>`).join("")}</div>`
+    ? `<div class="col" style="gap:8px">${L.map(({ s, nx }) => `<div class="offer ${subjClass(s)}">${sblob(s)}<span style="min-width:0"><b class="h4">${esc(chT(nx.u))}</b><br><span class="xs muted">${SUBJ[s]} · Part ${nx.n} of ${nx.tot}</span><br><span class="xs est">${estTxt(nx.u, nx.n, nx.tot)}</span></span><button class="btn sm" data-act="more" data-s="${s}">Start</button></div>`).join("")}</div>`
     : `<p class="sm muted">Everything planned is done. Explore anything you like.</p>`;
 }
 /* The first week: one small thing a day, so a new family meets the app a piece at a time.

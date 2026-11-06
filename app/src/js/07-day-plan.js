@@ -115,7 +115,7 @@ function dailyUnit() {
   if (any) return unitBy(any.key);
   return DATA.items.find((i) => i.c?.x) || null;
 }
-const G = () => (S.games[today] = S.games[today] || { g: [], tf: {}, odd: null });
+const gamesToday = () => (S.games[today] = S.games[today] || { g: [], tf: {}, odd: null });
 const splitJoke = (j) => {
   const m = j.match(/^(.*?\?)\s*(.*)$/);
   return m ? [m[1], m[2]] : [j, ""];
@@ -189,7 +189,7 @@ const eventsOn = (date) =>
   [...(S.events || []), ...(S.cal?.on ? S.cal.ev || [] : [])]
     .filter((e) => !S.evoff?.[date + "|" + e.id])
     .filter((e) => (e.rep === "weekly" ? e.days.includes(parse(date).getDay()) && date >= e.from : e.date === date))
-    .sort((a, b) => hm(a.start) - hm(b.start));
+    .sort((a, b) => toMins(a.start) - toMins(b.start));
 const ncertWhere = (u, w) =>
   u.board === "ncert" ? w : w.replace(/ or the NCERT PDF \(ncert\.nic\.in\/textbook\.php\)/, "");
 function prepFor(u, n, tot) {
@@ -269,19 +269,19 @@ function lessonsOn(date) {
   return L;
 }
 function buildDayPlan(date) {
-  const d = Dd(date),
+  const d = daySettings(date),
     items = [],
     ev = eventsOn(date),
     isT = date === today;
   const am = prepBlock(date, "am"),
     pm = prepBlock(date, "pm"),
-    wake = hm((S.alarm || {}).time || "06:30");
+    wake = toMins((S.alarm || {}).time || "06:30");
   // the parent's first hour after waking is theirs; morning prep starts after it
   items.push({ id: "me-am", at: wake, dur: 60, who: "you", kind: "rest", title: "Your hour: tea, a walk, quiet" });
   if (am.length)
     items.push({
       id: "am",
-      at: Math.max(hm(d.prepAt), wake + 60),
+      at: Math.max(toMins(d.prepAt), wake + 60),
       dur: prepMins(am),
       who: "you",
       kind: "prep",
@@ -292,10 +292,10 @@ function buildDayPlan(date) {
     });
   const lessons = lessonsOn(date);
   const fixed = [
-    { a: hm(d.lunch), b: hm(d.lunch) + +d.lunchMin },
-    ...ev.filter((e) => e.start).map((e) => ({ a: hm(e.start), b: e.end ? hm(e.end) : hm(e.start) + 60 })),
+    { a: toMins(d.lunch), b: toMins(d.lunch) + +d.lunchMin },
+    ...ev.filter((e) => e.start).map((e) => ({ a: toMins(e.start), b: e.end ? toMins(e.end) : toMins(e.start) + 60 })),
   ];
-  let cur = hm(d.start);
+  let cur = toMins(d.start);
   const place = (dur) => {
     let moved = true;
     while (moved) {
@@ -321,7 +321,7 @@ function buildDayPlan(date) {
         kind: "warm",
         title: "Warm-up: jokes and Word of the Day",
         sub: "Start the day laughing",
-        done: !!S.tl[date + "|warm"] || (isT && G().g.length > 0),
+        done: !!S.tl[date + "|warm"] || (isT && gamesToday().g.length > 0),
       });
     const rf = rfPlan(date);
     if (rf)
@@ -391,7 +391,7 @@ function buildDayPlan(date) {
       lastEnd = cur;
     if (i > 0) cur += +d.brk;
     const at = place(dur),
-      late = at + dur > hm(d.endAt || "18:30");
+      late = at + dur > toMins(d.endAt || "18:30");
     if (i > 0 && +d.brk && at === lastEnd + +d.brk)
       items.push({
         id: "brk" + i,
@@ -473,7 +473,7 @@ function buildDayPlan(date) {
       });
   }
   if (lessons.length) {
-    items.push({ id: "lunch", at: hm(d.lunch), dur: +d.lunchMin, who: "free", kind: "brk", title: "Lunch" });
+    items.push({ id: "lunch", at: toMins(d.lunch), dur: +d.lunchMin, who: "free", kind: "brk", title: "Lunch" });
     cur += 15;
     items.push({
       id: "rest",
@@ -489,9 +489,9 @@ function buildDayPlan(date) {
   ev.forEach((e) =>
     items.push({
       id: "e-" + e.id,
-      at: e.start ? hm(e.start) : 24 * 60 - 1,
+      at: e.start ? toMins(e.start) : 24 * 60 - 1,
       anytime: !e.start,
-      dur: e.start && e.end ? Math.max(15, hm(e.end) - hm(e.start)) : 15,
+      dur: e.start && e.end ? Math.max(15, toMins(e.end) - toMins(e.start)) : 15,
       who: e.kind === "outing" ? "out" : e.who,
       kind: "event",
       ev: e,
@@ -531,7 +531,7 @@ function buildDayPlan(date) {
   if (parse(date).getDay() === 0)
     items.push({
       id: "weekplan",
-      at: hm(d.eveAt) - 20,
+      at: toMins(d.eveAt) - 20,
       dur: 15,
       who: "you",
       kind: "plan",
@@ -542,7 +542,7 @@ function buildDayPlan(date) {
   if (pm.length)
     items.push({
       id: "pm",
-      at: hm(d.eveAt),
+      at: toMins(d.eveAt),
       dur: prepMins(pm),
       who: "you",
       kind: "prep",
@@ -564,11 +564,11 @@ function buildDayPlan(date) {
 // half an hour for the parent in the afternoon or evening: while the child is at a class, or in the first gap in the
 // parent's own plan and calendar
 function myQuietTime(date, items, ev, d) {
-  const kidClass = ev.find((e) => e.who === "kid" && e.start && e.end && hm(e.end) - hm(e.start) >= 30);
+  const kidClass = ev.find((e) => e.who === "kid" && e.start && e.end && toMins(e.end) - toMins(e.start) >= 30);
   if (kidClass)
     return {
       id: "me-pm",
-      at: hm(kidClass.start),
+      at: toMins(kidClass.start),
       dur: 30,
       who: "you",
       kind: "rest",
@@ -579,7 +579,7 @@ function myQuietTime(date, items, ev, d) {
     .map((i) => [i.at, i.at + i.dur])
     .sort((a, b) => a[0] - b[0]);
   let cur = Math.max(13 * 60, ...busy.filter(([a]) => a < 16 * 60).map(([, b]) => b));
-  const hi = hm(d.eveAt) - 15;
+  const hi = toMins(d.eveAt) - 15;
   for (const [a, b] of [...busy, [hi, hi]]) {
     if (a - cur >= 30 && cur + 30 <= hi)
       return { id: "me-pm", at: cur, dur: 30, who: "you", kind: "rest", title: "Time for you: nothing to do" };
@@ -841,8 +841,8 @@ function ampmGuess(t, w) {
   const l = t.toLowerCase();
   if (!w.start || /\d\s*(am|pm|a\.m\.|p\.m\.)|\b(am|pm|noon)\b/.test(l)) return null;
   const h = +w.start.slice(0, 2);
-  if (/\b(morning)\b/.test(l)) return h >= 12 ? clock24(hm(w.start) - 720) : null;
-  if (/\b(evening|night|afternoon)\b/.test(l)) return h < 12 ? clock24(hm(w.start) + 720) : null;
+  if (/\b(morning)\b/.test(l)) return h >= 12 ? clock24(toMins(w.start) - 720) : null;
+  if (/\b(evening|night|afternoon)\b/.test(l)) return h < 12 ? clock24(toMins(w.start) + 720) : null;
   if (h >= 1 && h <= 6) return "pm";
   if (h >= 7 && h <= 11) return "ask";
   return null;
@@ -931,20 +931,20 @@ function localParse(text) {
     }
     const ap = ampmGuess(seg, it);
     if (ap === "pm") {
-      it.start = clock24(hm(it.start) + 720);
-      if (it.end && hm(it.end) < hm(it.start)) it.end = clock24(hm(it.end) + 720);
+      it.start = clock24(toMins(it.start) + 720);
+      if (it.end && toMins(it.end) < toMins(it.start)) it.end = clock24(toMins(it.end) + 720);
     } else if (ap === "ask")
       asks.push({
         i: items.length,
         need: "ampm",
-        q: `Is ${title} at ${clock(hm(it.start))
+        q: `Is ${title} at ${clock(toMins(it.start))
           .replace(/:00/, "")
           .replace(/ ?(am|pm)/, "")} in the morning or the evening?`,
       });
     else if (ap) it.start = ap;
     if (it.start && !it.end) {
       const d = w.dur || (type === "meal" ? 45 : 60);
-      it.end = clock24(hm(it.start) + d);
+      it.end = clock24(toMins(it.start) + d);
     }
     if (["class", "rest", "meal", "outing"].includes(type)) {
       if (!it.days && !it.date)
@@ -1005,12 +1005,12 @@ function pendingWork() {
 }
 function freeNow() {
   const nm = nowMin(),
-    d = Dd(today),
+    d = daySettings(today),
     its = dayPlan(today).filter((i) => isTask(i) && !i.anytime && !i.done && !evPast(i, today) && !snzd(i, today));
   if (its.some((i) => i.at <= nm && nm < i.at + i.dur)) return 0;
   if (its.some((i) => OURS(i) && i.at + i.dur <= nm)) return 0;
   const nx = its.filter((i) => i.at > nm).sort((a, b) => a.at - b.at)[0],
-    end = nx ? nx.at : Math.max(nm, hm(d.eveAt || "20:30"));
+    end = nx ? nx.at : Math.max(nm, toMins(d.eveAt || "20:30"));
   return Math.max(0, Math.min(end - nm, 180));
 }
 const REM = () => S.rem || (S.rem = { nudge: true, notif: false });
@@ -1022,7 +1022,7 @@ function nudgeCard() {
     .filter((p) => p.m <= free)
     .slice(0, 2);
   if (!P.length) return "";
-  return `<section class="card nudge-card"><div class="row" style="flex-wrap:nowrap;gap:10px">${blob("var(--sun)", 6, "wow", "nb", 'width="40" height="40"')}<div><b style="font:600 var(--fs-5) var(--display)">${free >= 120 ? "Free time now" : `${hmin(free)} free now`}. Finish one?</b><p class="xs muted">Nothing else is planned${free < 120 ? " until then" : ""}.</p></div></div>
+  return `<section class="card nudge-card"><div class="row" style="flex-wrap:nowrap;gap:10px">${blob("var(--sun)", 6, "wow", "nb", 'width="40" height="40"')}<div><b class="h5">${free >= 120 ? "Free time now" : `${hmin(free)} free now`}. Finish one?</b><p class="xs muted">Nothing else is planned${free < 120 ? " until then" : ""}.</p></div></div>
     ${P.map((p) => `<div class="row nrow"><div style="flex:1;min-width:0"><b class="sm">${esc(p.t)}</b><br><span class="xs muted">${esc(p.sub)} · ≈ ${hmin(p.m)}</span></div><button class="btn sm" ${p.act}>${p.go}</button></div>`).join("")}
     <div class="row" style="gap:16px"><button class="link sm" data-act="nudgeoff">Not now</button><button class="link sm" data-act="rem">Reminders on my phone</button></div></section>`;
 }
@@ -1031,12 +1031,12 @@ function freeSlots(days = 7) {
   const out = [];
   for (let k = 0; k < days; k++) {
     const d = addDays(today, k),
-      D0 = Dd(d),
+      D0 = daySettings(d),
       its = dayPlan(d)
         .filter((i) => i.kind !== "brk" && !i.anytime)
         .sort((a, b) => a.at - b.at),
-      lo = hm(D0.start || "09:30"),
-      hi = hm(D0.eveAt || "20:30") - 30;
+      lo = toMins(D0.start || "09:30"),
+      hi = toMins(D0.eveAt || "20:30") - 30;
     let cur = lo;
     const lastL = Math.max(lo, ...its.filter((i) => i.kind === "lesson").map((i) => i.at + i.dur));
     for (const i of [...its, { at: hi, dur: 0 }]) {
@@ -1123,7 +1123,7 @@ function remView() {
     L = remLinks(),
     NOK = typeof Notification !== "undefined";
   return `<p class="sm muted">DeepKids reminds you only when the day has free time and something is waiting to be finished.</p>
-  <section class="card"><span class="eyebrow">On your phone</span><b style="font:600 var(--fs-5) var(--display)">A daily reminder in your calendar</b><p class="xs muted">Your phone's calendar alerts you, even when DeepKids is closed. We picked a time that's usually free in your plan.</p>
+  <section class="card"><span class="eyebrow">On your phone</span><b class="h5">A daily reminder in your calendar</b><p class="xs muted">Your phone's calendar alerts you, even when DeepKids is closed. We picked a time that's usually free in your plan.</p>
     <div class="row" style="gap:10px;align-items:center"><label class="sm">At <input class="inp" type="time" data-remf="time" value="${L.t}" style="width:auto;height:40px"></label></div>
     <div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${L.days.includes(d)}" data-act="remday" data-d="${d}">${DAYS3[d]}</button>`).join("")}</div>
     <div class="row" style="gap:10px;flex-wrap:wrap"><a class="btn accent sm" href="${esc(L.g)}" target="_blank" rel="noopener">Add to Google Calendar</a><button class="btn soft sm" data-act="remics">Apple or other calendar</button></div>
@@ -1199,7 +1199,7 @@ function evpreView() {
   setSheetTitle(e ? e.title : "Plan");
   if (!e) return "";
   const day = date === today ? "today" : fmt(date);
-  return `<div class="exdone">${kidBlob("mascot")}<h2 style="font-size:var(--fs-6)">${esc(e.title)}</h2><p>${e.start ? `Starts at <b>${clock(hm(e.start))}</b> ${esc(day)}.` : ""} You can mark it done once it has started.</p><div class="col" style="gap:10px;width:100%"><button class="btn line" data-act="evcancel" data-id="${esc(id)}" data-date="${date}">Cancel it for ${esc(day)}</button><button class="btn" data-act="texit">Keep it</button></div><p class="xs muted">Cancelling frees the time for lessons that day. You can undo it.</p></div>`;
+  return `<div class="exdone">${kidBlob("mascot")}<h2 class="fs6">${esc(e.title)}</h2><p>${e.start ? `Starts at <b>${clock(toMins(e.start))}</b> ${esc(day)}.` : ""} You can mark it done once it has started.</p><div class="col" style="gap:10px;width:100%"><button class="btn line" data-act="evcancel" data-id="${esc(id)}" data-date="${date}">Cancel it for ${esc(day)}</button><button class="btn" data-act="texit">Keep it</button></div><p class="xs muted">Cancelling frees the time for lessons that day. You can undo it.</p></div>`;
 }
 const MOODS = [
   ["great", "Went well"],
@@ -1213,7 +1213,7 @@ function evdoneView() {
   setSheetTitle(e ? e.title : "Check-in");
   if (!e) return "";
   const kid = esc(S.child || "your child");
-  return `<p class="sm muted">${esc(fmt(date))}${e.start ? " · " + clock(hm(e.start)) + (e.end ? "–" + clock(hm(e.end)) : "") : ""}. A few quick questions so DeepKids knows what happened. Skip any.</p>
+  return `<p class="sm muted">${esc(fmt(date))}${e.start ? " · " + clock(toMins(e.start)) + (e.end ? "–" + clock(toMins(e.end)) : "") : ""}. A few quick questions so DeepKids knows what happened. Skip any.</p>
   <div class="chat"><div class="bub cl">Did ${kid} go?</div><div class="row" style="gap:8px"><button class="chip" aria-pressed="${F.went !== false}" data-act="evf" data-k="went" data-v="1">Yes, went</button><button class="chip" aria-pressed="${F.went === false}" data-act="evf" data-k="went" data-v="0">Missed it</button></div>
   ${
     F.went === false
@@ -1268,7 +1268,7 @@ function evSave(quick) {
         title: e.title,
         text: [rec.covered, rec.note].filter(Boolean).join(". "),
         date,
-        mins: e.start && e.end ? Math.max(15, hm(e.end) - hm(e.start)) : 60,
+        mins: e.start && e.end ? Math.max(15, toMins(e.end) - toMins(e.start)) : 60,
         ev: id,
       },
       quick,
@@ -1309,7 +1309,7 @@ function evSub(e) {
   return [EVK[e.kind] ?? "", e.rep === "weekly" ? dayList(e.days) : "", who].filter(Boolean).join(" · ");
 }
 function evLine(e) {
-  return `${e.rep === "weekly" ? dayList(e.days) : e.date ? fmt(e.date) : ""}${e.start ? ` · ${clock(hm(e.start))}${e.end ? "–" + clock(hm(e.end)) : ""}` : " · time not set"}`;
+  return `${e.rep === "weekly" ? dayList(e.days) : e.date ? fmt(e.date) : ""}${e.start ? ` · ${clock(toMins(e.start))}${e.end ? "–" + clock(toMins(e.end)) : ""}` : " · time not set"}`;
 }
 function routinesText() {
   return (
@@ -1358,7 +1358,7 @@ function fixRoutines() {
         kind: /rest|nap|sleep/i.test(txt) ? "rest" : "other",
         who: td.who || "kid",
         start: ref.end,
-        end: clock24(hm(ref.end) + hrs * 60),
+        end: clock24(toMins(ref.end) + hrs * 60),
         rep: ref.rep,
         date: ref.date,
         days: [...(ref.days || [])],
@@ -1442,12 +1442,12 @@ function fixItem(x) {
       else if (ref.date) x.date = ref.date;
     }
   }
-  if (x.start && !x.end && w.dur) x.end = clock24(hm(x.start) + w.dur);
+  if (x.start && !x.end && w.dur) x.end = clock24(toMins(x.start) + w.dur);
   if ((x.type === "todo" && x.days?.length && x.start) || (x.type === "note" && x.start))
     x.type = RESTW.test(txt) ? "rest" : "other";
   return x;
 }
-const GC = "Google Calendar";
+const GOOGLE_CAL = "Google Calendar";
 let MCP = null,
   MCPT = false;
 async function mcpH() {
@@ -1539,7 +1539,7 @@ function gcMap(o) {
 async function gcInput(cal) {
   let props = {};
   try {
-    const d = await MCP.describeTool(GC, "list_events");
+    const d = await MCP.describeTool(GOOGLE_CAL, "list_events");
     props = d?.inputSchema?.properties || {};
   } catch (e) {}
   const K = Object.keys(props),
@@ -1577,7 +1577,7 @@ async function gcSync(manual) {
   try {
     if (!S.cal?.list) {
       try {
-        const r = await m.callTool(GC, "list_calendars", {});
+        const r = await m.callTool(GOOGLE_CAL, "list_calendars", {});
         const L = calArr(r.payload).map((c) => ({
           id: String(c.id),
           name: String(c.summary || c.name || c.title).slice(0, 60),
@@ -1602,7 +1602,7 @@ async function gcSync(manual) {
     const cals = S.cal?.cals?.length ? S.cal.cals : [null];
     let all = [];
     for (const c of cals) {
-      const r = await m.callTool(GC, "list_events", await gcInput(c), { cache: false });
+      const r = await m.callTool(GOOGLE_CAL, "list_events", await gcInput(c), { cache: false });
       all = all.concat((findArr(r.payload) || []).map(gcMap).filter(Boolean));
     }
     const seen = new Set();
@@ -1715,22 +1715,22 @@ function parseICS(txt) {
 function calendarCard() {
   // on the website, Google Calendar waits for Google sign-in scopes; the artifact links it through claude.ai connectors
   if (window.DK_PLATFORM?.name === "web")
-    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:var(--fs-5)">Your calendars</h3><p class="xs muted">Live Google Calendar linking is coming soon. For now, bring in a calendar file: you choose what to keep.</p></div></div><p class="xs muted">Google Calendar on a computer: Settings → Import & export → Export, then unzip. Apple Calendar on a Mac: File → Export.</p><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label></section>`;
+    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 class="fs5">Your calendars</h3><p class="xs muted">Live Google Calendar linking is coming soon. For now, bring in a calendar file: you choose what to keep.</p></div></div><p class="xs muted">Google Calendar on a computer: Settings → Import & export → Export, then unzip. Apple Calendar on a Mac: File → Export.</p><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label></section>`;
   const C = S.cal || {},
     busy = ui.gcBusy,
     err = C.err
-      ? `<p class="sm" style="color:var(--bad)">${esc(GCERR[C.err] || "Couldn't read your calendar (" + C.err + "). Try Refresh.")}</p>`
+      ? `<p class="sm err">${esc(GCERR[C.err] || "Couldn't read your calendar (" + C.err + "). Try Refresh.")}</p>`
       : "";
-  const ics = `<details style="margin-top:6px"><summary class="link sm" style="cursor:pointer">Use Apple or Outlook? Import a file instead</summary><p class="xs muted">Export an .ics file and pick it here. You choose what to keep. A file doesn't update by itself.</p><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label></details>`;
+  const ics = `<details class="mt6"><summary class="link sm pointer">Use Apple or Outlook? Import a file instead</summary><p class="xs muted">Export an .ics file and pick it here. You choose what to keep. A file doesn't update by itself.</p><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label></details>`;
   if (C.on) {
     const n = (C.ev || []).filter((e) => e.date >= today).length,
       L = C.list || [];
-    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:var(--fs-5)">Google Calendar is linked</h3><p class="xs muted">${n} event${n === 1 ? "" : "s"} in the next 60 days${C.at ? " · updated " + new Date(C.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }) : ""}. It refreshes by itself while DeepKids is open, and the day plan works around it.</p></div></div>
+    return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 class="fs5">Google Calendar is linked</h3><p class="xs muted">${n} event${n === 1 ? "" : "s"} in the next 60 days${C.at ? " · updated " + new Date(C.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }) : ""}. It refreshes by itself while DeepKids is open, and the day plan works around it.</p></div></div>
     ${L.length > 1 ? `<div class="col" style="gap:6px"><span class="xs muted">Calendars to show</span><div class="row">${L.map((c) => `<button class="chip" aria-pressed="${(C.cals || []).includes(c.id)}" data-act="gccal" data-id="${esc(c.id)}">${esc(c.name)}</button>`).join("")}</div></div>` : ""}
     ${err}<div class="row"><button class="btn soft sm" data-act="gcsync" ${busy ? "disabled" : ""}>${busy ? "Refreshing…" : "Refresh now"}</button><button class="link sm" data-act="gcoff">Unlink</button></div>${ics}</section>`;
   }
-  return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 style="font-size:var(--fs-5)">Link your calendar</h3><p class="xs muted">Classes, tuitions, outings and busy times flow in by themselves and stay up to date. DeepKids only reads your calendar; it never changes it.</p></div></div>
-    <button class="btn accent sm" data-act="gcsync" style="justify-self:start" ${busy ? "disabled" : ""}>${busy ? "Connecting…" : "Connect Google Calendar"}</button>${err}<p class="xs muted">First time: claude.ai asks you to add Google Calendar under Settings → Connectors and to allow DeepKids to read it.</p>${ics}</section>`;
+  return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)", 14, "happy", "", 'width="46" height="46"')}<div><h3 class="fs5">Link your calendar</h3><p class="xs muted">Classes, tuitions, outings and busy times flow in by themselves and stay up to date. DeepKids only reads your calendar; it never changes it.</p></div></div>
+    <button class="btn accent sm self-start" data-act="gcsync" ${busy ? "disabled" : ""}>${busy ? "Connecting…" : "Connect Google Calendar"}</button>${err}<p class="xs muted">First time: claude.ai asks you to add Google Calendar under Settings → Connectors and to allow DeepKids to read it.</p>${ics}</section>`;
 }
 const PREP_KW = [
   "magnifying glass",
@@ -1777,15 +1777,15 @@ function prepView() {
     g.items.push(p);
   });
   return (
-    `<section class="card r-you"><div class="sech"><h3>${dn} of ${its.length} ready</h3><span class="xs muted">about ${prepMins(its)} min</span></div><div class="bar"><span style="width:${(dn / its.length) * 100}%;background:var(--sun)"></span></div><p class="xs muted">Set a daily phone alarm for ${clock(hm(D()[when === "am" ? "prepAt" : "eveAt"]))}. The app can't send reminders itself.</p></section>` +
+    `<section class="card r-you"><div class="sech"><h3>${dn} of ${its.length} ready</h3><span class="xs muted">about ${prepMins(its)} min</span></div><div class="bar"><span style="width:${(dn / its.length) * 100}%;background:var(--sun)"></span></div><p class="xs muted">Set a daily phone alarm for ${clock(toMins(dayDefaults()[when === "am" ? "prepAt" : "eveAt"]))}. The app can't send reminders itself.</p></section>` +
     groups
       .map(({ x, items }) => {
         const u = x.u,
           g = u.c?.p?.summary || u.c?.x?.guide || DATA.prepgen.guide[u.subj];
-        return `<section class="card ${SC(x.subj)}" style="gap:0"><div class="row" style="gap:8px;margin-bottom:4px"><span class="dotc"></span><span class="eyebrow">${SUBJ[x.subj]} · ${fmt(x.date)} · Part ${x.n} of ${x.tot}</span></div><h3 style="font-size:var(--fs-5);margin-bottom:8px">${esc(u.title)}</h3>
-   ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary style="cursor:pointer;font-weight:500;color:var(--plum)">Parent guide</summary><p class="sm" style="margin-top:6px">${esc(g)}</p></details>` : ""}
+        return `<section class="card ${subjClass(x.subj)}" style="gap:0"><div class="row" style="gap:8px;margin-bottom:4px"><span class="dotc"></span><span class="eyebrow">${SUBJ[x.subj]} · ${fmt(x.date)} · Part ${x.n} of ${x.tot}</span></div><h3 style="font-size:var(--fs-5);margin-bottom:8px">${esc(u.title)}</h3>
+   ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary style="cursor:pointer;font-weight:500;color:var(--plum)">Parent guide</summary><p class="sm mt6">${esc(g)}</p></details>` : ""}
    ${items.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Done: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:500">${esc(p.task)}</b>${p.early ? ` <span class="pill learning">start early for ${fmt(x.date)}</span>` : ""}<p class="xs muted" style="margin-top:3px">From: ${esc(p.where)}</p></div></div>`).join("")}
-   <div class="row" style="margin-top:8px">${u.c?.x ? `<button class="btn xs soft" data-act="chapter" data-k="${u.k}" data-t="questions">Big questions</button><button class="btn xs soft" data-act="ws" data-k="${u.k}">Worksheet</button>` : ""}<button class="btn xs soft" data-act="chapter" data-k="${u.k}">Chapter</button></div></section>`;
+   <div class="row mt8">${u.c?.x ? `<button class="btn xs soft" data-act="chapter" data-k="${u.k}" data-t="questions">Big questions</button><button class="btn xs soft" data-act="ws" data-k="${u.k}">Worksheet</button>` : ""}<button class="btn xs soft" data-act="chapter" data-k="${u.k}">Chapter</button></div></section>`;
       })
       .join("")
   );

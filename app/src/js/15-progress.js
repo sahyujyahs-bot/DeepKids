@@ -11,7 +11,7 @@ const bySubj = (L) => (qfOf() === "all" ? L : L.filter((x) => x.u?.subj === qfOf
 /* Progress → History: everything finished, by kind and subject */
 function boardDoneItems() {
   const out = [],
-    W = WK(),
+    W = weekSt(),
     last = {};
   S.log.forEach((l) => {
     if (!last[l.key] || l.date > last[l.key]) last[l.key] = l.date;
@@ -29,7 +29,7 @@ function boardDoneItems() {
     .forEach((u) => {
       const P = u.c?.p,
         dt = (v) => (typeof v === "string" ? v : "");
-      if (rank[st(u.k)] >= 2)
+      if (rank[statusOf(u.k)] >= 2)
         out.push({
           ty: "les",
           u,
@@ -158,20 +158,20 @@ function doneItems() {
   return out.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
 }
 // the kinds in History: the kinds of work, plus research papers and things done outside lessons
-const HT = { ...WT, paper: ["Research papers", "📄"], life: ["Things they did", "🧺"] };
+const DONE_TYPES = { ...WORK_TYPES, paper: ["Research papers", "📄"], life: ["Things they did", "🧺"] };
 // everything finished, newest first, grouped by day: each row shows the lesson's picture, the lesson, and the part done
 function doneHistory() {
-  const ty = HT[ui.hty] ? ui.hty : "all",
+  const ty = DONE_TYPES[ui.hty] ? ui.hty : "all",
     sj = S.subjects.includes(ui.hs) ? ui.hs : "all",
     A = doneItems(),
     L = A.filter((x) => (ty === "all" || x.ty === ty) && (sj === "all" || x.u?.subj === sj)),
     n = ui.hn || 25,
     cnt = (t) => A.filter((x) => x.ty === t && (sj === "all" || x.u?.subj === sj)).length,
-    types = Object.entries(HT).filter(([k]) => cnt(k) || ty === k),
+    types = Object.entries(DONE_TYPES).filter(([k]) => cnt(k) || ty === k),
     row = (x) => {
       const what = x.sub2 || (x.u ? chT(x.u) : ""),
         part = x.title.replace(" done:", " ·");
-      return `<button class="hrow" ${x.open || ""}><img src="${esc(x.pic || (x.u ? lessonPic(x.u) : subjPic("dks")))}" alt="" loading="lazy"><span><b>${esc(what || part)}</b>${what ? `<span class="sm">${esc(part)}</span>` : ""}<span class="xs muted">${HT[x.ty][1]} ${x.ty === "life" ? "Done outside lessons" : HT[x.ty][0].replace(/ies$/, "y").replace(/zzes$/, "z").replace(/s$/, "")}${x.u ? " · " + esc(SUBJ[x.u.subj]) : ""}${x.sub ? " · " + esc(x.sub) : ""}</span></span></button>`;
+      return `<button class="hrow" ${x.open || ""}><img src="${esc(x.pic || (x.u ? lessonPic(x.u) : subjPic("dks")))}" alt="" loading="lazy"><span><b>${esc(what || part)}</b>${what ? `<span class="sm">${esc(part)}</span>` : ""}<span class="xs muted">${DONE_TYPES[x.ty][1]} ${x.ty === "life" ? "Done outside lessons" : DONE_TYPES[x.ty][0].replace(/ies$/, "y").replace(/zzes$/, "z").replace(/s$/, "")}${x.u ? " · " + esc(SUBJ[x.u.subj]) : ""}${x.sub ? " · " + esc(x.sub) : ""}</span></span></button>`;
     },
     shown = L.slice(0, n),
     days = [...new Set(shown.map((x) => x.date || ""))];
@@ -190,7 +190,7 @@ function doneHistory() {
            )
            .join("") +
          (L.length > n
-           ? `<button class="btn soft sm" data-act="hmore" style="justify-self:start">Show ${Math.min(25, L.length - n)} more</button>`
+           ? `<button class="btn soft sm self-start" data-act="hmore">Show ${Math.min(25, L.length - n)} more</button>`
            : "")
        : `<p class="note">Nothing finished here yet. Things you finish show up here, newest first. What's in progress is under Plan → Ongoing.</p>`
    }</section>`;
@@ -225,7 +225,7 @@ function onTrackView() {
       const all = plannedUnits(s),
         U = all.filter((u) => u.level === S.levels[s] && (S.board !== "combined" || fxReq(u)));
       if (!U.length) return "";
-      const isDone = (u) => rank[st(u.k)] >= 2,
+      const isDone = (u) => rank[statusOf(u.k)] >= 2,
         done = U.filter(isDone).length,
         exp = Math.round(Y.gone * U.length),
         gap = done - exp,
@@ -234,7 +234,7 @@ function onTrackView() {
       const pc = (n) => Math.round((100 * n) / U.length),
         bar = (cls, label, n) =>
           `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
-      return `<div class="trow2 ${SC(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind` : gap > 0 ? `${gap} ahead` : "On track"}</span></div>
+      return `<div class="trow2 ${subjClass(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind` : gap > 0 ? `${gap} ahead` : "On track"}</span></div>
        ${bar("done", "Done", done)}${bar("school", "A school by now", exp)}
        ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<div class="row catchrow"><button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button><button class="btn xs soft" data-act="catchup" data-s="${s}" data-ks="${u.k}">Do next</button></div>`).join("")}<button class="btn sm" data-act="catchup" data-s="${s}" data-ks="${esc(catchUp.map((u) => u.k).join("~"))}">Put all ${catchUp.length} at the front of the queue</button></details>` : ""}
        ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
@@ -255,7 +255,7 @@ function viewJourneyTabs() {
       "",
     );
     h += o.replace(
-      /^<section class="sec" style="margin-top:8px"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
+      /^<section class="sec mt8"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
       '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
     );
     h += onTrackView();
@@ -273,13 +273,13 @@ const TBOARDS = [
   ["cambridge", "Cambridge Primary"],
   ["nios", "NIOS"],
 ];
-const TB = (b) => (b === "state" ? "ncert" : b);
+const boardOf = (b) => (b === "state" ? "ncert" : b);
 const tbName = (b) => TBOARDS.find((x) => x[0] === b)?.[1] || BOARDN[b] || b;
 const ABCD = "ABCD";
 const tLevel = (c) => Math.max(1, Math.min(5, (+c || 2) - 1));
 const tSubs = (b, L) =>
-  SUBJ_KEYS.filter((s) => DATA.items.some((u) => u.board === TB(b) && u.subj === s && u.level === L));
-const tChaps = (b, s, L) => DATA.items.filter((u) => u.board === TB(b) && u.subj === s && u.level === L);
+  SUBJ_KEYS.filter((s) => DATA.items.some((u) => u.board === boardOf(b) && u.subj === s && u.level === L));
+const tChaps = (b, s, L) => DATA.items.filter((u) => u.board === boardOf(b) && u.subj === s && u.level === L);
 const curTest = () => (S.tests || []).slice(-1)[0] || null;
 const tDone = (t) => t && t.subjects.every((x) => t.done?.[x.s]);
 function tSetup() {
@@ -327,7 +327,7 @@ async function makeTest() {
     const ch = tChaps(T.board, s, L),
       keys = new Set(ch.map((u) => u.k)),
       N = +T.n || 15;
-    const prompt = `Write an entrance test for a child joining Class ${T.cls} at a ${tbName(T.board)} school in India. The test covers the ${BOARDN[TB(T.board)]} ${lvN(TB(T.board), L)} syllabus for ${SUBJ[s]}, which has these chapters (key = title):
+    const prompt = `Write an entrance test for a child joining Class ${T.cls} at a ${tbName(T.board)} school in India. The test covers the ${BOARDN[boardOf(T.board)]} ${lvN(boardOf(T.board), L)} syllabus for ${SUBJ[s]}, which has these chapters (key = title):
 ${ch.map((u) => `- ${u.k} = ${u.title}${u.book ? " (" + u.book + ")" : ""}`).join("\n")}
 Write exactly ${N} multiple-choice questions for ${SUBJ[s]}.
 - Spread them across the chapters. Mix about 40% recall, 40% understanding and 20% applying the idea to a new case, from easy to harder.
@@ -413,14 +413,14 @@ function testSection() {
     subs = T.cls ? tSubs(T.board, L) : [],
     t = curTest(),
     G = ui.tgen;
-  let h = `<section class="card exsec"><span class="eyebrow">Entrance test</span><h3 style="font-size:var(--fs-6)">A test paper for the new school</h3><p class="sm">Pick the school's board and the class ${esc(S.child || "your child")} is joining. DeepKids makes a multiple-choice paper on the syllabus of the class before, ${esc(S.child || "your child")} takes it here, and you get a score certificate, the paper, the answer key and the marked answer sheet.</p>
+  let h = `<section class="card exsec"><span class="eyebrow">Entrance test</span><h3 class="fs6">A test paper for the new school</h3><p class="sm">Pick the school's board and the class ${esc(S.child || "your child")} is joining. DeepKids makes a multiple-choice paper on the syllabus of the class before, ${esc(S.child || "your child")} takes it here, and you get a score certificate, the paper, the answer key and the marked answer sheet.</p>
   <div class="fgrid"><div class="field"><label for="tsb">School's board</label><select class="inp" id="tsb" data-tsel="board">${TBOARDS.map(([k, n]) => `<option value="${k}" ${T.board === k ? "selected" : ""}>${n}</option>`).join("")}</select></div>
   <div class="field"><label for="tsc">Joining class</label><select class="inp" id="tsc" data-tsel="cls"><option value="">Pick a class</option>${[2, 3, 4, 5, 6].map((c) => `<option value="${c}" ${+T.cls === c ? "selected" : ""}>Class ${c}</option>`).join("")}</select></div>
   <div class="field"><label for="tsn">Questions per subject</label><select class="inp" id="tsn" data-tsel="n">${[10, 15, 20].map((n) => `<option value="${n}" ${+T.n === n ? "selected" : ""}>${n}</option>`).join("")}</select></div></div>`;
   if (T.cls) {
     h += subs.length
-      ? `<p class="xs muted">Tests the ${esc(BOARDN[TB(T.board)])} ${esc(lvN(TB(T.board), L))} syllabus. Subjects:</p><div class="row">${subs.map((s) => `<button class="chip ${SC(s)}" aria-pressed="${!(T.off || []).includes(s)}" data-act="tsub" data-s="${s}">${esc(SUBJ[s])} · ${tChaps(T.board, s, L).length} ch</button>`).join("")}</div>`
-      : `<p class="sm" style="color:var(--bad)">${TB(T.board) === "nios" ? "NIOS has Level A (≈ Class 3) and Level B (≈ Class 5), so pick joining Class 4 or Class 6." : "We don't have that syllabus yet."}</p>`;
+      ? `<p class="xs muted">Tests the ${esc(BOARDN[boardOf(T.board)])} ${esc(lvN(boardOf(T.board), L))} syllabus. Subjects:</p><div class="row">${subs.map((s) => `<button class="chip ${subjClass(s)}" aria-pressed="${!(T.off || []).includes(s)}" data-act="tsub" data-s="${s}">${esc(SUBJ[s])} · ${tChaps(T.board, s, L).length} ch</button>`).join("")}</div>`
+      : `<p class="sm err">${boardOf(T.board) === "nios" ? "NIOS has Level A (≈ Class 3) and Level B (≈ Class 5), so pick joining Class 4 or Class 6." : "We don't have that syllabus yet."}</p>`;
   }
   h += `<div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn accent sm" data-act="tmake" ${G || !subs.length ? "disabled" : ""}>${G ? `Writing ${esc(SUBJ[G.s] || "")} (${G.i} of ${G.n})…` : t ? "Make a new paper" : "Make the question paper"}</button></div>${G ? `<p class="xs muted">This takes about a minute a subject. Keep this open.</p>` : ""}`;
   if (t) {
@@ -454,7 +454,7 @@ function examView() {
     un = X.qs.filter((_, i) => t.ans[s + "|" + i] === undefined).length,
     last = E.qi === n - 1,
     prevP = E.qi > 0 ? X.qs[E.qi - 1].passage : "";
-  return `<div class="exq ${SC(s)}"><div class="row" style="justify-content:space-between"><span class="eyebrow">${esc(SUBJ[s])} · Question ${E.qi + 1} of ${n}</span><span class="xs muted">${n - un} answered</span></div>
+  return `<div class="exq ${subjClass(s)}"><div class="row" style="justify-content:space-between"><span class="eyebrow">${esc(SUBJ[s])} · Question ${E.qi + 1} of ${n}</span><span class="xs muted">${n - un} answered</span></div>
     <div class="exdots">${X.qs.map((_, i) => `<button class="${i === E.qi ? "on" : ""} ${t.ans[s + "|" + i] !== undefined ? "ans" : ""}" data-act="tjump" data-i="${i}" aria-label="Question ${i + 1}"></button>`).join("")}</div>
     ${q.passage ? `<div class="ask exp"><span class="eyebrow">${q.passage === prevP ? "Same passage" : "Read this"}</span>${esc(q.passage)}</div>` : ""}
     <p class="exqt">${esc(q.q)}</p><div class="col" style="gap:10px">${q.opts.map((o, i) => `<button class="exopt" aria-pressed="${v === i}" data-act="tans" data-i="${i}"><b>${ABCD[i]}</b><span>${esc(o)}</span></button>`).join("")}</div>
@@ -464,7 +464,7 @@ const DOCCSS = `body{font:14px/1.5 system-ui,sans-serif;color:#222;max-width:820
 const docWrap = (title, body) =>
   `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><style>${FSVARS}${DOCCSS}</style></head><body>${body}</body></html>`;
 const tHead = (t) =>
-  `<p class="muted">${esc(tbName(t.board))} pattern · for admission to Class ${t.cls} · covers the ${esc(lvN(TB(t.board), t.level))} syllabus</p>`;
+  `<p class="muted">${esc(tbName(t.board))} pattern · for admission to Class ${t.cls} · covers the ${esc(lvN(boardOf(t.board), t.level))} syllabus</p>`;
 const tDate = (t) => new Date(t.at).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" });
 function qList(t, x, mode) {
   let lastP = "";
@@ -510,14 +510,14 @@ function certDoc(t) {
     I = S.school || {};
   return docWrap(
     "Score certificate",
-    `<div class="cert"><p class="muted">Home assessment</p><h1>Score certificate</h1><p>This is to record that</p><p class="big">${esc(S.child || "Student")}</p>${I.dob ? `<p class="muted">born ${esc(parse(I.dob).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" }))}</p>` : ""}<p>took an entrance test on the <b>${esc(BOARDN[TB(t.board)])} ${esc(lvN(TB(t.board), t.level))}</b> syllabus${I.to ? `, for admission to Class ${t.cls} at ${esc(I.to)}` : `, for admission to Class ${t.cls}`}, on ${esc(tDate(t))}, and scored</p><p class="big">${sc.right} / ${sc.n} · ${sc.pct}% · Grade ${sc.grade}</p><table><tr><th>Subject</th><th>Marks</th><th>%</th><th>Grade</th></tr>${sc.R.map((r) => `<tr><td>${esc(SUBJ[r.s])}</td><td>${r.right} / ${r.n}</td><td>${r.pct}%</td><td>${r.grade}</td></tr>`).join("")}</table><p class="sm muted">Taken at home on DeepKids under parent supervision. ${sc.n} multiple-choice questions, 1 mark each, no negative marking. This is a home assessment, not a board examination.</p><div class="sig"><div>Parent / guardian${S.parent?.name ? ": " + esc(S.parent.name) : ""}</div><div>Date</div></div></div>`,
+    `<div class="cert"><p class="muted">Home assessment</p><h1>Score certificate</h1><p>This is to record that</p><p class="big">${esc(S.child || "Student")}</p>${I.dob ? `<p class="muted">born ${esc(parse(I.dob).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" }))}</p>` : ""}<p>took an entrance test on the <b>${esc(BOARDN[boardOf(t.board)])} ${esc(lvN(boardOf(t.board), t.level))}</b> syllabus${I.to ? `, for admission to Class ${t.cls} at ${esc(I.to)}` : `, for admission to Class ${t.cls}`}, on ${esc(tDate(t))}, and scored</p><p class="big">${sc.right} / ${sc.n} · ${sc.pct}% · Grade ${sc.grade}</p><table><tr><th>Subject</th><th>Marks</th><th>%</th><th>Grade</th></tr>${sc.R.map((r) => `<tr><td>${esc(SUBJ[r.s])}</td><td>${r.right} / ${r.n}</td><td>${r.pct}%</td><td>${r.grade}</td></tr>`).join("")}</table><p class="sm muted">Taken at home on DeepKids under parent supervision. ${sc.n} multiple-choice questions, 1 mark each, no negative marking. This is a home assessment, not a board examination.</p><div class="sig"><div>Parent / guardian${S.parent?.name ? ": " + esc(S.parent.name) : ""}</div><div>Date</div></div></div>`,
   );
 }
 function testTranscript() {
   const t = curTest();
   if (!t || !tDone(t)) return "";
   const sc = tScore(t);
-  return `<h2>Entrance test</h2><p class="sm">${esc(tbName(t.board))} pattern, for Class ${t.cls}, on the ${esc(lvN(TB(t.board), t.level))} syllabus. Taken ${esc(tDate(t))}. Total ${sc.right} / ${sc.n} (${sc.pct}%), grade ${sc.grade}.</p><table><tr><th>Subject</th><th>Marks</th><th>%</th><th>Grade</th></tr>${sc.R.map((r) => `<tr><td>${esc(SUBJ[r.s])}</td><td>${r.right} / ${r.n}</td><td>${r.pct}%</td><td>${r.grade}</td></tr>`).join("")}</table>`;
+  return `<h2>Entrance test</h2><p class="sm">${esc(tbName(t.board))} pattern, for Class ${t.cls}, on the ${esc(lvN(boardOf(t.board), t.level))} syllabus. Taken ${esc(tDate(t))}. Total ${sc.right} / ${sc.n} (${sc.pct}%), grade ${sc.grade}.</p><table><tr><th>Subject</th><th>Marks</th><th>%</th><th>Grade</th></tr>${sc.R.map((r) => `<tr><td>${esc(SUBJ[r.s])}</td><td>${r.right} / ${r.n}</td><td>${r.pct}%</td><td>${r.grade}</td></tr>`).join("")}</table>`;
 }
 const CRCT = (() => {
   const t = new Uint32Array(256);
@@ -624,12 +624,12 @@ function bundleSection() {
     P = ui.zip;
   const ck = (grp, id, label, sub, dis) =>
     `<label class="zrow ${dis ? "off" : ""}"><input type="checkbox" data-zip="${grp}" value="${esc(id)}" ${Z[grp].has(id) && !dis ? "checked" : ""} ${dis ? "disabled" : ""}><span><b class="sm">${label}</b>${sub ? `<br><span class="xs muted">${sub}</span>` : ""}</span></label>`;
-  let h = `<section class="card"><span class="eyebrow">For the school</span><h3 style="font-size:var(--fs-6)">Make one folder to send</h3><p class="sm">Tick what to include. DeepKids puts it all in one .zip folder you can save, then send by WhatsApp, email or anything else.</p>
+  let h = `<section class="card"><span class="eyebrow">For the school</span><h3 class="fs6">Make one folder to send</h3><p class="sm">Tick what to include. DeepKids puts it all in one .zip folder you can save, then send by WhatsApp, email or anything else.</p>
   <div class="col" style="gap:6px">${ck("docs", "transcript", "Transcript", "Coverage by board and level, chapters, scores, attendance")}${ck("docs", "cert", "Score certificate", fin ? "" : "After the test is finished", !fin)}${ck("docs", "paper", "Question paper", t ? "" : "Make a paper first", !t)}${ck("docs", "key", "Answer key and marking", fin ? "" : "After the test is finished", !fin)}${ck("docs", "sheet", "Marked answer sheet", fin ? "" : "After the test is finished", !fin)}${ck("docs", "work", "Projects and experiments list", "With start and finish dates")}</div>`;
   if (W.length)
-    h += `<details style="margin-top:8px"><summary class="link sm" style="cursor:pointer">Worksheets with answers · ${Z.ws.size} of ${W.length} ticked</summary><div class="col" style="gap:6px;margin-top:6px"><div class="row"><button class="link xs" data-act="zall" data-g="ws" data-v="1">Tick all</button><button class="link xs" data-act="zall" data-g="ws" data-v="0">Untick all</button></div>${W.map((w) => ck("ws", w.k, esc(w.title), `${esc(chT(w.u))} · ${w.fin ? "finished " + esc(fmt(w.fin)) : w.ans + " of " + w.tot + " answered"}`)).join("")}</div></details>`;
+    h += `<details class="mt8"><summary class="link sm pointer">Worksheets with answers · ${Z.ws.size} of ${W.length} ticked</summary><div class="col" style="gap:6px;margin-top:6px"><div class="row"><button class="link xs" data-act="zall" data-g="ws" data-v="1">Tick all</button><button class="link xs" data-act="zall" data-g="ws" data-v="0">Untick all</button></div>${W.map((w) => ck("ws", w.k, esc(w.title), `${esc(chT(w.u))} · ${w.fin ? "finished " + esc(fmt(w.fin)) : w.ans + " of " + w.tot + " answered"}`)).join("")}</div></details>`;
   if (U.length)
-    h += `<details style="margin-top:8px"><summary class="link sm" style="cursor:pointer">Photos and files · ${[...Z.up].filter((id) => U.some((w) => w.id === id)).length} of ${U.length} ticked</summary><div class="col" style="gap:6px;margin-top:6px"><div class="row"><button class="link xs" data-act="zall" data-g="up" data-v="1">Tick all</button><button class="link xs" data-act="zall" data-g="up" data-v="0">Untick all</button></div>${U.map((w) => ck("up", w.id, esc(w.title || w.name || "Upload"), `${esc(fmt(w.date))}${w.k && unitByK(w.k) ? " · " + esc(chT(unitByK(w.k))) : ""}`)).join("")}</div></details>`;
+    h += `<details class="mt8"><summary class="link sm pointer">Photos and files · ${[...Z.up].filter((id) => U.some((w) => w.id === id)).length} of ${U.length} ticked</summary><div class="col" style="gap:6px;margin-top:6px"><div class="row"><button class="link xs" data-act="zall" data-g="up" data-v="1">Tick all</button><button class="link xs" data-act="zall" data-g="up" data-v="0">Untick all</button></div>${U.map((w) => ck("up", w.id, esc(w.title || w.name || "Upload"), `${esc(fmt(w.date))}${w.k && unitByK(w.k) ? " · " + esc(chT(unitByK(w.k))) : ""}`)).join("")}</div></details>`;
   h += `<div class="row" style="gap:10px;flex-wrap:wrap;margin-top:10px"><button class="btn accent sm" data-act="zmake" ${P?.busy ? "disabled" : ""}>${P?.busy ? esc(P.busy) : "Make the folder"}</button></div>`;
   if (P?.blob) {
     const sh = !!(
@@ -949,10 +949,10 @@ function uploadsView() {
   ${ASSETS ? "" : `<p class="xs muted">Saving files works when DeepKids is open in claude.ai.</p>`}`;
   const need = U.filter((w) => !w.k);
   if (need.length)
-    h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">Need a chapter</h3><span class="pill">${need.length}</span></div><p class="xs muted">Pick one, or leave it as a general memory.</p><div class="col" style="gap:8px">${need.map(upCard).join("")}</div></section>`;
+    h += `<section class="sec"><div class="sech"><h3 class="fs5">Need a chapter</h3><span class="pill">${need.length}</span></div><p class="xs muted">Pick one, or leave it as a general memory.</p><div class="col" style="gap:8px">${need.map(upCard).join("")}</div></section>`;
   const done = U.filter((w) => w.k);
   if (done.length)
-    h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">Everything so far</h3><span class="pill">${done.length}</span></div><div class="upgrid">${done.map(upTile).join("")}</div></section>`;
+    h += `<section class="sec"><div class="sech"><h3 class="fs5">Everything so far</h3><span class="pill">${done.length}</span></div><div class="upgrid">${done.map(upTile).join("")}</div></section>`;
   if (!U.length) h += `<p class="note">Nothing uploaded yet.</p>`;
   return h;
 }
@@ -1013,7 +1013,7 @@ function trackData() {
       }
     }),
   );
-  Object.entries(WK()).forEach(([key, w]) => {
+  Object.entries(weekSt()).forEach(([key, w]) => {
     const j = key.lastIndexOf("|"),
       u = unitByK(key.slice(0, j));
     if (!u) return;
@@ -1063,27 +1063,23 @@ function trackData() {
 }
 const dTot = (x) =>
   Object.values(x.m).reduce((a, b) => a + b, 0) + Object.values(x.e).reduce((a, b) => a + b, 0) + (x.l || 0);
+/* one line of the day's log, by what was done; ch is the chapter name */
+const DID_LINE = {
+  lesson: (x, ch) =>
+    `<li><b>${ch}</b>${x.n ? ` · Part ${x.n}` : ""}${x.sk ? " (skipped)" : ""}${x.at != null ? ` <span class="xs muted">${clock(x.at)}</span>` : ""}</li>`,
+  ws: (x, ch) => `<li>Worksheet finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`,
+  quiz: (x, ch) => `<li>Quiz, Part ${x.n}: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`,
+  proj: (x, ch) => `<li>Finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`,
+  start: (x, ch) => `<li>Started: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`,
+  ev: (x) => evLogLine(x),
+  check: (x) => `<li>Checked on: ${esc(x.title)}</li>`,
+  life: (x) =>
+    `<li>${LIFEK[x.m.kind][0]} ${esc(x.title)}${x.m.mins ? ` <span class="xs muted">${hmin(x.m.mins)}</span>` : ""}</li>`,
+  part: (x, ch) => `<li>${esc(x.title)} <span class="xs muted">${ch}</span></li>`,
+};
 function didLine(x) {
-  const ch = x.u ? esc(chT(x.u)) : "";
-  return x.t === "lesson"
-    ? `<li><b>${ch}</b>${x.n ? ` · Part ${x.n}` : ""}${x.sk ? " (skipped)" : ""}${x.at != null ? ` <span class="xs muted">${clock(x.at)}</span>` : ""}</li>`
-    : x.t === "ws"
-      ? `<li>Worksheet finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`
-      : x.t === "quiz"
-        ? `<li>Quiz, Part ${x.n}: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`
-        : x.t === "proj"
-          ? `<li>Finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`
-          : x.t === "start"
-            ? `<li>Started: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`
-            : x.t === "ev"
-              ? evLogLine(x)
-              : x.t === "check"
-                ? `<li>Checked on: ${esc(x.title)}</li>`
-                : x.t === "life"
-                  ? `<li>${LIFEK[x.m.kind][0]} ${esc(x.title)}${x.m.mins ? ` <span class="xs muted">${hmin(x.m.mins)}</span>` : ""}</li>`
-                  : x.t === "part"
-                    ? `<li>${esc(x.title)} <span class="xs muted">${ch}</span></li>`
-                    : "";
+  const f = DID_LINE[x.t];
+  return f ? f(x, x.u ? esc(chT(x.u)) : "") : "";
 }
 function trackChart(T, days) {
   const subs = SUBJ_KEYS.filter((s) => days.some((d) => T[d] && (T[d].m[s] || 0) + (T[d].e[s] || 0) > 0)),
@@ -1124,8 +1120,9 @@ function trackView() {
     wk = study.filter((d) => d > addDays(today, -7)).reduce((a, d) => a + dTot(T[d]), 0),
     F = fxSt(),
     fin =
-      Object.keys(S.progress || {}).filter((k) => st(k) === "completed").length +
-      Object.keys({ ...F.done, ...F.time }).filter((id) => ["completed", "mastered"].includes(st("unit|" + id))).length,
+      Object.keys(S.progress || {}).filter((k) => statusOf(k) === "completed").length +
+      Object.keys({ ...F.done, ...F.time }).filter((id) => ["completed", "mastered"].includes(statusOf("unit|" + id)))
+        .length,
     sub = {};
   study.forEach((d) =>
     SUBJ_KEYS.forEach((s) => {
@@ -1140,7 +1137,7 @@ function trackView() {
   const smax = Math.max(1, ...Object.values(sub).map((x) => x.m));
   let h = `<div class="tiles"><div class="tile"><b>${hmin(all)}</b><span>studied in all</span></div><div class="tile"><b>${study.length}</b><span>study days</span></div><div class="tile"><b>${hmin(study.length ? all / study.length : 0)}</b><span>a study day, on average</span></div><div class="tile"><b>${hmin(wk)}</b><span>in the last 7 days</span></div><div class="tile"><b>${fin}</b><span>topics finished</span></div></div>`;
   h += trackPeriod(T);
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">By subject</h3><span class="xs muted">all time</span></div>${
+  h += `<section class="sec"><div class="sech"><h3 class="fs5">By subject</h3><span class="xs muted">all time</span></div>${
     Object.keys(sub).length
       ? `<div class="col" style="gap:10px">${SUBJ_KEYS.filter((s) => sub[s])
           .map(
@@ -1208,7 +1205,7 @@ function trackPeriod(T) {
            .join("")}</div>`
        : ""
    }
-   <div class="sech" style="margin-top:8px"><h3 style="font-size:var(--fs-5)">What was done</h3></div>
+   <div class="sech mt8"><h3 class="fs5">What was done</h3></div>
    ${
      did.length
        ? did
@@ -1287,7 +1284,7 @@ function chScore(u) {
   sets.forEach(([kk, W]) =>
     W.forEach(([_, its], si) =>
       its.forEach((it, ii) => {
-        const v = A(kk, si + "-" + ii);
+        const v = answerOf(kk, si + "-" + ii);
         if (v === undefined || v === "") return;
         if (it.t === "mcq") {
           n++;
@@ -1349,7 +1346,7 @@ function chScore(u) {
     prac,
     score,
     grade: score == null ? "" : GRADE(score),
-    fin: st(k) === "completed" || done(k) >= sessionsFor(u),
+    fin: statusOf(k) === "completed" || done(k) >= sessionsFor(u),
     from: last[0],
     to: last[last.length - 1],
   };
@@ -1402,7 +1399,7 @@ function schoolData() {
     return { s, L, score, grade: score == null ? "" : GRADE(score), mins, level: S.levels?.[s], boards };
   });
   const ws = Object.entries(S.tasks || {}).filter(([k, o]) => o.ws).length,
-    proj = Object.values(WK()).filter((w) => w.st === "done").length,
+    proj = Object.values(weekSt()).filter((w) => w.st === "done").length,
     qz = Object.values(S.quiz || {}).reduce((a, q) => a + Object.keys(q).length, 0);
   const months = {};
   ds.forEach((d) => {
@@ -1447,12 +1444,12 @@ function schoolView() {
   D.subs
     .filter((x) => x.L.length)
     .forEach((x) => {
-      h += `<section class="card ${SC(x.s)}"><div class="sech"><h3 style="font-size:var(--fs-5)">${esc(SUBJ[x.s])}</h3>${x.score != null ? `<span class="grade" title="Score ${x.score}">${x.grade} · ${x.score}</span>` : `<span class="xs muted">no checked work yet</span>`}</div>
+      h += `<section class="card ${subjClass(x.s)}"><div class="sech"><h3 class="fs5">${esc(SUBJ[x.s])}</h3>${x.score != null ? `<span class="grade" title="Score ${x.score}">${x.grade} · ${x.score}</span>` : `<span class="xs muted">no checked work yet</span>`}</div>
     <p class="xs muted">${hmin(x.mins)} · ${x.L.filter((c) => c.fin).length} chapters completed, ${x.L.filter((c) => !c.fin).length} in progress${x.level ? ` · working at Level ${x.level}` : ""}</p>
     <div class="grid"><table class="rtab"><tr><th>Board</th><th>Where the child is</th>${[1, 2, 3, 4, 5].map((l) => `<th>L${l}</th>`).join("")}</tr>${x.boards.map((B) => `<tr><td><b>${esc(BOARDN[B.b])}</b></td><td class="xs">${B.reached ? `Covers ${esc(lvN(B.b, B.reached))}` : B.working ? `Working on ${esc(lvN(B.b, B.working))}` : "Not begun"}</td>${[1, 2, 3, 4, 5].map((l) => `<td class="xs">${B.lv[l] ? Math.round(((B.lv[l].done + B.lv[l].eq) / B.lv[l].tot) * 100) + "%" : "·"}</td>`).join("")}</tr>`).join("")}</table></div>
     ${
       x.L.length
-        ? `<details><summary class="link sm" style="cursor:pointer">Chapters and scores (${x.L.length})</summary><table class="rtab" style="margin-top:8px"><tr><th>Chapter</th><th>Done</th><th>Accuracy</th><th>Score</th></tr>${x.L.sort(
+        ? `<details><summary class="link sm pointer">Chapters and scores (${x.L.length})</summary><table class="rtab mt8"><tr><th>Chapter</th><th>Done</th><th>Accuracy</th><th>Score</th></tr>${x.L.sort(
             (a, b) => a.u.level - b.u.level || (+a.u.n || 0) - (+b.u.n || 0),
           )
             .map(
@@ -1560,7 +1557,7 @@ function folderData() {
       ...S.log.map((l) => l.key),
       ...Object.keys(S.ans || {}).map((k) => k.split("#")[0]),
       ...Object.keys(S.quiz || {}).map((k) => k.slice(0, k.lastIndexOf("|"))),
-      ...Object.keys(WK()).map((k) => k.slice(0, k.lastIndexOf("|"))),
+      ...Object.keys(weekSt()).map((k) => k.slice(0, k.lastIndexOf("|"))),
       ...Object.keys(S.tasks || {}).map((k) => k.split("#")[0]),
     ]),
     out = [];
@@ -1597,7 +1594,7 @@ function folderData() {
       });
       qz.sort((a, b) => a.n - b.n);
       const ids = new Set([
-        ...Object.keys(WK())
+        ...Object.keys(weekSt())
           .filter((k) => k.slice(0, k.lastIndexOf("|")) === u.k)
           .map((k) => k.slice(k.lastIndexOf("|") + 1)),
         ...Object.keys(S.tasks[u.k] || {}).filter(WKID),
@@ -1617,7 +1614,7 @@ function folderBody(F, flat) {
   if (!F.length)
     return `<p class="note">Nothing here yet. Finished worksheets, quiz answers and projects collect here as you go.</p>`;
   return F.map(({ u, ws, qz, pj }, ci) => {
-    const inner = `${ws.map((w) => `<div class="fws"><h4>${esc(w.title)}${w.tier ? ` <span class="xs muted">(${esc(TIER[w.tier] || "")})</span>` : ""}</h4><p class="xs muted">${w.fin ? "Finished " + fmt(w.fin) : "In progress"} · ${w.ans} of ${w.tot} answered</p>${w.W.map(([sn, its], si) => `<p class="xs eyebrow">${esc(sn)}</p><ol class="fq">${its.map((it, ii) => `<li><p class="sm">${esc(it.p)}</p>${ansHtml(it, A(w.k, si + "-" + ii), w.k + "|" + si + "-" + ii)}</li>`).join("")}</ol>`).join("")}</div>`).join("")}
+    const inner = `${ws.map((w) => `<div class="fws"><h4>${esc(w.title)}${w.tier ? ` <span class="xs muted">(${esc(TIER[w.tier] || "")})</span>` : ""}</h4><p class="xs muted">${w.fin ? "Finished " + fmt(w.fin) : "In progress"} · ${w.ans} of ${w.tot} answered</p>${w.W.map(([sn, its], si) => `<p class="xs eyebrow">${esc(sn)}</p><ol class="fq">${its.map((it, ii) => `<li><p class="sm">${esc(it.p)}</p>${ansHtml(it, answerOf(w.k, si + "-" + ii), w.k + "|" + si + "-" + ii)}</li>`).join("")}</ol>`).join("")}</div>`).join("")}
     ${qz.map((q) => `<div class="fws"><h4>Quiz · Part ${q.n}</h4><p class="xs muted">${q.d ? fmt(q.d) + " · " : ""}${q.its.filter((x) => x.r).length} of ${q.its.length} got it</p><ol class="fq">${q.its.map((x) => `<li><p class="sm"><b>${esc(x.q)}</b> ${x.r ? `<span class="fok">Got it</span>` : `<span class="fno">Not yet</span>`}</p><p class="xs muted">${esc(x.a)}</p></li>`).join("")}</ol></div>`).join("")}
     ${pj.length ? `<div class="fws"><h4>Activities, experiments and projects</h4><ul class="sm">${pj.map((p) => `<li><b>${esc(p.title)}</b> · ${p.st === "done" ? `finished ${fmt(p.done)}${p.started && p.started !== p.done ? `, started ${fmt(p.started)}` : ""}` : p.st === "started" ? `started ${fmt(p.started)}, not finished` : `in the pipeline since ${fmt(p.planned)}`}</li>`).join("")}</ul></div>` : ""}`;
     const head = esc(chT(u)),
@@ -1643,7 +1640,7 @@ async function folderSave() {
 function folderPrint() {
   printDoc(folderDoc());
 }
-const JR = {
+const JOURNEY_TABS = {
   high: "Highlights",
   board: "Syllabus progress",
   beyond: "Beyond the syllabus",
@@ -1652,7 +1649,7 @@ const JR = {
 };
 function jrView() {
   const p = ui.sheet.p;
-  setSheetTitle(JR[p] || "Journey");
+  setSheetTitle(JOURNEY_TABS[p] || "Journey");
   return jPart(p) || `<p class="note">Nothing here yet. It fills up as ${esc(S.child || "your child")} learns.</p>`;
 }
 function jPart(p) {
@@ -1663,7 +1660,7 @@ function jPart(p) {
       hrs = S.log.reduce((a, l) => a + hpdOf(l.subj), 0);
     h += `<section class="sec"><div class="stack3">${[
       [S.log.length, "lessons", "var(--sun)"],
-      [fh(hrs), "hours learned", "var(--pist)"],
+      [fmtHours(hrs), "hours learned", "var(--pist)"],
       [tasks, "tasks done", "var(--gum)"],
       [gd, "game days", "var(--sky)"],
     ]
@@ -1677,23 +1674,23 @@ function jPart(p) {
     const Qs = quotes().slice(-3).reverse(),
       W = workOf().slice(-6).reverse();
     if (Qs.length || W.length)
-      h += `<section class="sec"><div class="sech"><h3>Highlights</h3></div>${Qs.map((q) => `<div class="quote ${SC(q.u.subj)}"><span class="eyebrow">${esc(q.q || "")}</span><p>“${esc(q.a)}”</p><span class="xs muted">${esc(q.u.title)}</span></div>`).join("")}${thumbs(W)}</section>`;
+      h += `<section class="sec"><div class="sech"><h3>Highlights</h3></div>${Qs.map((q) => `<div class="quote ${subjClass(q.u.subj)}"><span class="eyebrow">${esc(q.q || "")}</span><p>“${esc(q.a)}”</p><span class="xs muted">${esc(q.u.title)}</span></div>`).join("")}${thumbs(W)}</section>`;
   }
   if (p === "board") {
     const bs = boardsOn();
     if (bs.length)
-      h += `<section class="sec"><div class="sech"><h3>${JR.board}</h3><span class="xs muted">school year from ${fmt(AY0())}</span></div>${bs
+      h += `<section class="sec"><div class="sech"><h3>${JOURNEY_TABS.board}</h3><span class="xs muted">school year from ${fmt(AY0())}</span></div>${bs
         .map((b) => {
           const R = S.subjects.map((s) => ({ s, r: boardRows(s, b) })).filter((x) => x.r);
           if (!R.length) return "";
-          return `<div class="card"><b style="font:600 var(--fs-5) var(--display)">${BOARDS[b]}</b>${R.map(({ s, r }) => `<div class="col" style="gap:4px"><div class="sech"><span class="sm" style="font-weight:800">${SUBJ[s]}</span><span class="xs ${r.behind.length ? "" : "muted"}" style="${r.behind.length ? "color:var(--bad);font-weight:800" : ""}">${r.behind.length ? `${r.behind.length} behind` : r.done.length >= r.exp ? "On track" : ""} · ${r.done.length} of ${r.us.length}</span></div><div class="bar ${SC(s)}"><span style="width:${(r.done.length / r.us.length) * 100}%;background:var(--c)"></span></div></div>`).join("")}</div>`;
+          return `<div class="card"><b class="h5">${BOARDS[b]}</b>${R.map(({ s, r }) => `<div class="col" style="gap:4px"><div class="sech"><span class="sm" style="font-weight:800">${SUBJ[s]}</span><span class="xs ${r.behind.length ? "" : "muted"}" style="${r.behind.length ? "color:var(--bad);font-weight:800" : ""}">${r.behind.length ? `${r.behind.length} behind` : r.done.length >= r.exp ? "On track" : ""} · ${r.done.length} of ${r.us.length}</span></div><div class="bar ${subjClass(s)}"><span style="width:${(r.done.length / r.us.length) * 100}%;background:var(--c)"></span></div></div>`).join("")}</div>`;
         })
         .join("")}</section>`;
   }
   if (p === "beyond") {
     const beyond = S.log.filter((l) => l.kind === "free"),
       bk = [...new Set(beyond.map((l) => l.title))];
-    h += `<section class="sec"><div class="sech"><h3>${JR.beyond}</h3></div><div class="card">${bk.length ? `<div class="row">${bk.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>` : `<p class="sm muted">Things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter((e) => e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
+    h += `<section class="sec"><div class="sech"><h3>${JOURNEY_TABS.beyond}</h3></div><div class="card">${bk.length ? `<div class="row">${bk.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>` : `<p class="sm muted">Things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter((e) => e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
   }
   if (p === "diary") {
     h += `<section class="sec"><div class="sech"><h3>Learning diary</h3></div><div class="card diary">${
@@ -1701,7 +1698,7 @@ function jPart(p) {
         .slice(0, 20)
         .map(
           (l) =>
-            `<div class="dline ${SC(l.subj)}">${sblob(l.subj, "happy", "", 'width="34" height="34"')}<span><b style="font:600 var(--fs-4) var(--display)">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj] || ""}${l.kind === "free" ? " · explored freely" : l.kind === "more" ? " · extra lesson" : ""}</span></span></div>`,
+            `<div class="dline ${subjClass(l.subj)}">${sblob(l.subj, "happy", "", 'width="34" height="34"')}<span><b class="h4">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj] || ""}${l.kind === "free" ? " · explored freely" : l.kind === "more" ? " · extra lesson" : ""}</span></span></div>`,
         )
         .join("") || `<p class="sm muted">Finished lessons appear here.</p>`
     }</div></section>`;
@@ -1739,12 +1736,12 @@ function learnView() {
     g.items.push(p);
   });
   const help = (S.parent?.help || []).filter((s) => S.subjects.includes(s));
-  return `<section class="card r-you tint"><h2 style="font-size:var(--fs-6)">Your learning</h2><p class="sm muted">Guides and reading to help you teach today and tomorrow. Nothing here is required.</p></section>
+  return `<section class="card r-you tint"><h2 class="fs6">Your learning</h2><p class="sm muted">Guides and reading to help you teach today and tomorrow. Nothing here is required.</p></section>
    ${
      groups
        .map((g) => {
          const guide = g.u.c?.x?.guide || (g.u.board !== "gen" ? DATA.prepgen.guide[g.u.subj] : summaryOf(g.u));
-         return `<section class="card ${SC(g.s)}"><div class="row" style="gap:8px">${sblob(g.s, "happy", "", 'width="32" height="32"')}<b style="font:600 var(--fs-5) var(--display)">${esc(g.u.title)}</b></div>${guide ? `<p class="sm">${esc(guide)}</p>` : ""}${g.items
+         return `<section class="card ${subjClass(g.s)}"><div class="row" style="gap:8px">${sblob(g.s, "happy", "", 'width="32" height="32"')}<b class="h5">${esc(g.u.title)}</b></div>${guide ? `<p class="sm">${esc(guide)}</p>` : ""}${g.items
            .filter((p) => p.kind !== "guide")
            .map(
              (p) =>
@@ -1752,7 +1749,7 @@ function learnView() {
            )
            .join(
              "",
-           )}<button class="btn soft sm" data-act="chapter" data-k="${g.u.k}" style="justify-self:start">Open the topic</button></section>`;
+           )}<button class="btn soft sm self-start" data-act="chapter" data-k="${g.u.k}">Open the topic</button></section>`;
        })
        .join("") || `<p class="note">Nothing to read for today or tomorrow.</p>`
    }
@@ -1760,7 +1757,7 @@ function learnView() {
 }
 function photoBtn(k, label) {
   return ASSETS
-    ? `<label class="btn soft sm" style="cursor:pointer">${icon("plus")}${label || "Add a photo of the work"}<input type="file" accept="image/*" data-upload="${k}" hidden></label>`
+    ? `<label class="btn soft sm pointer">${icon("plus")}${label || "Add a photo of the work"}<input type="file" accept="image/*" data-upload="${k}" hidden></label>`
     : "";
 }
 function workOf(k) {
@@ -1777,7 +1774,7 @@ function unitParts(u) {
     return [X.filter((x) => x === "done").length, X.length];
   }
   const n = sessionsFor(u);
-  return [rank[st(u.k)] >= 2 ? n : Math.min(done(u.k), n), n];
+  return [rank[statusOf(u.k)] >= 2 ? n : Math.min(done(u.k), n), n];
 }
 // the exact share, to one decimal place: 5 of 412 parts is 1.2%
 const pctTxt = (p) => (Math.round(p * 1000) / 10).toString() + "%";
@@ -1793,8 +1790,8 @@ function subjStats(s) {
     allParts: tot,
     sessions: dn,
     total: tot,
-    completed: us.filter((u) => rank[st(u.k)] >= 2).length,
-    learning: us.filter((u) => st(u.k) === "learning").length,
+    completed: us.filter((u) => rank[statusOf(u.k)] >= 2).length,
+    learning: us.filter((u) => statusOf(u.k) === "learning").length,
   };
 }
 function wsStats(u) {
@@ -1835,9 +1832,9 @@ function boardRows(s, b) {
   return {
     us,
     exp,
-    done: us.filter((u) => rank[st(u.k)] >= 2),
-    prog: us.filter((u) => st(u.k) === "learning"),
-    behind: us.slice(0, exp).filter((u) => rank[st(u.k)] < 2),
+    done: us.filter((u) => rank[statusOf(u.k)] >= 2),
+    prog: us.filter((u) => statusOf(u.k) === "learning"),
+    behind: us.slice(0, exp).filter((u) => rank[statusOf(u.k)] < 2),
   };
 }
 function jsubView() {
@@ -1848,8 +1845,8 @@ function jsubView() {
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),
     W = workOf().filter((w) => unitBy(w.k)?.subj === s);
-  let h = `<section class="chero ${SC(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
-  h += `<section class="card"><h3 style="font-size:var(--fs-5)">How well</h3>${(() => {
+  let h = `<section class="chero ${subjClass(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
+  h += `<section class="card"><h3 class="fs5">How well</h3>${(() => {
     let ans = 0,
       tot = 0,
       mq = 0,
@@ -1880,29 +1877,29 @@ function jsubView() {
       .join("")}</div>`;
   })()}</section>`;
   if (Qs.length || W.length)
-    h += `<section class="card"><h3 style="font-size:var(--fs-5)">In ${kid}'s words</h3>${Qs.slice(-4)
+    h += `<section class="card"><h3 class="fs5">In ${kid}'s words</h3>${Qs.slice(-4)
       .reverse()
       .map(
         (q) =>
-          `<div class="quote ${SC(s)}"><span class="eyebrow">${esc(q.q || "")}</span><p>“${esc(q.a)}”</p><span class="xs muted">${esc(q.u.title)}</span></div>`,
+          `<div class="quote ${subjClass(s)}"><span class="eyebrow">${esc(q.q || "")}</span><p>“${esc(q.a)}”</p><span class="xs muted">${esc(q.u.title)}</span></div>`,
       )
       .join("")}${thumbs(W)}</section>`;
   boardsOn().forEach((b) => {
     const r = boardRows(s, b);
     if (!r) return;
-    h += `<section class="card"><h3 style="font-size:var(--fs-5)">${BOARDS[b]}</h3><p class="xs muted">By this point in the school year, about ${r.exp} of ${r.us.length} chapters would usually be done.</p>${r.behind.length ? `<div><span class="eyebrow" style="color:var(--bad)">Not done yet, but due by now</span><div class="row" style="margin-top:6px">${r.behind.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : `<p class="sm" style="font-weight:800;color:var(--good)">On track for this point in the year.</p>`}${r.prog.length ? `<div><span class="eyebrow">In progress</span><div class="row" style="margin-top:6px">${r.prog.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : ""}</section>`;
+    h += `<section class="card"><h3 class="fs5">${BOARDS[b]}</h3><p class="xs muted">By this point in the school year, about ${r.exp} of ${r.us.length} chapters would usually be done.</p>${r.behind.length ? `<div><span class="eyebrow err">Not done yet, but due by now</span><div class="row mt6">${r.behind.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : `<p class="sm" style="font-weight:800;color:var(--good)">On track for this point in the year.</p>`}${r.prog.length ? `<div><span class="eyebrow">In progress</span><div class="row mt6">${r.prog.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : ""}</section>`;
   });
   const fr = [...new Set(logs.filter((l) => l.kind === "free").map((l) => l.title))];
   if (fr.length)
-    h += `<section class="card"><h3 style="font-size:var(--fs-5)">Learned beyond the syllabus</h3><div class="row">${fr.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
+    h += `<section class="card"><h3 class="fs5">Learned beyond the syllabus</h3><div class="row">${fr.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
   h += `<section class="sec"><div class="sech"><h3>Every topic</h3><span class="xs muted">tap for details</span></div><div class="col" style="gap:8px">${x.us
     .map((u) => {
-      const cs = st(u.k),
+      const cs = statusOf(u.k),
         ul = S.log.filter((l) => l.key === u.k),
         w = wsStats(u),
         ts = u.c?.x ? chapterTasks(u) : null,
         open = ui.jopen === u.k;
-      return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="jopen" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${BOARDS[u.board]} · Class ${DATA.levels[u.level].cls} · L${u.level}</span></span>${pillS(cs)}</button>${open ? `<div class="tdet"><div class="kv"><span>Lesson days</span><b>${Math.min(done(u.k), sessionsFor(u))} of ${sessionsFor(u)}</b><span>Started</span><b>${ul.length ? fmt(ul[ul.length - 1].date) : "Not yet"}</b><span>Last session</span><b>${ul.length ? fmt(ul[0].date) : "–"}</b>${ts ? `<span>Tasks</span><b>${ts.filter((a) => taskDone(u.k, a[0])).length} of ${ts.length}</b>` : ""}${w ? `<span>Worksheet</span><b>${w.ans} of ${w.tot} answered${w.mq ? `, ${w.mr}/${w.mq} choices right` : ""}</b>` : ""}</div>${thumbs(workOf(u.k))}<div class="row"><button class="btn soft sm" data-act="chapter" data-k="${u.k}">Open chapter</button>${photoBtn(u.k)}</div></div>` : ""}</div>`;
+      return `<div class="topic ${subjClass(u.subj)}"><button class="plain trow" data-act="jopen" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${BOARDS[u.board]} · Class ${DATA.levels[u.level].cls} · L${u.level}</span></span>${pillS(cs)}</button>${open ? `<div class="tdet"><div class="kv"><span>Lesson days</span><b>${Math.min(done(u.k), sessionsFor(u))} of ${sessionsFor(u)}</b><span>Started</span><b>${ul.length ? fmt(ul[ul.length - 1].date) : "Not yet"}</b><span>Last session</span><b>${ul.length ? fmt(ul[0].date) : "–"}</b>${ts ? `<span>Tasks</span><b>${ts.filter((a) => taskDone(u.k, a[0])).length} of ${ts.length}</b>` : ""}${w ? `<span>Worksheet</span><b>${w.ans} of ${w.tot} answered${w.mq ? `, ${w.mr}/${w.mq} choices right` : ""}</b>` : ""}</div>${thumbs(workOf(u.k))}<div class="row"><button class="btn soft sm" data-act="chapter" data-k="${u.k}">Open chapter</button>${photoBtn(u.k)}</div></div>` : ""}</div>`;
     })
     .join("")}</div></section>`;
   const c = collate(s);
@@ -1918,14 +1915,14 @@ const ring = (p, col) =>
 function skyStats(s) {
   const L = [...new Map(plannedAt(s, S.levels[s]).map((u) => [u.k, u])).values()],
     units = L.some((u) => u.board === "unit"),
-    isDone = (u) => rank[st(u.k)] >= 2,
+    isDone = (u) => rank[statusOf(u.k)] >= 2,
     D = L.filter(isDone),
     topic = (u) => DATA.units?.[u.c?.unit]?.topic;
   return {
     L,
     D,
     units,
-    started: L.filter((u) => st(u.k) === "learning").length,
+    started: L.filter((u) => statusOf(u.k) === "learning").length,
     topics: units ? new Set(L.map(topic)).size : 0,
     topicsDone: units ? new Set(D.map(topic)).size : 0,
     levels: [...new Set(D.map((u) => u.level))].sort(),
@@ -1943,7 +1940,7 @@ function skyTile(s) {
         60 + r * 1.25 * Math.cos(a) + jit(i, "x"),
         50 + r * 0.95 * Math.sin(a) + jit(i, "y"),
         x.D.includes(u),
-        st(u.k) === "learning",
+        statusOf(u.k) === "learning",
       ];
     });
   // the lit stars join up, each to its nearest lit neighbour in turn
@@ -1977,14 +1974,14 @@ function skyTile(s) {
         : x.started
           ? `<small>${x.started} started</small>`
           : "";
-  return `<button class="skyt ${SC(s)}" data-act="jsub" data-s="${s}"><b>${SUBJ[s]}</b><em class="num">${n ? Math.round((100 * x.D.length) / n) : 0}%</em><svg viewBox="0 0 120 100" aria-hidden="true"><g class="ln">${lines}</g>${stars}</svg><span>${x.D.length} of ${n} ${what} done</span>${more}</button>`;
+  return `<button class="skyt ${subjClass(s)}" data-act="jsub" data-s="${s}"><b>${SUBJ[s]}</b><em class="num">${n ? Math.round((100 * x.D.length) / n) : 0}%</em><svg viewBox="0 0 120 100" aria-hidden="true"><g class="ln">${lines}</g>${stars}</svg><span>${x.D.length} of ${n} ${what} done</span>${more}</button>`;
 }
 function viewJourney0() {
   const kid = esc(S.child || "Your child"),
     Qn = quotes().length,
     W = workOf().length,
     bs = boardsOn();
-  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:var(--fs-7)">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
+  let h = `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="skygrid">${S.subjects.map(skyTile).join("")}</div></section>`;
   const rows = [
     [
       "high",
@@ -1996,13 +1993,13 @@ function viewJourney0() {
       ? [
           [
             "board",
-            JR.board,
+            JOURNEY_TABS.board,
             "What's done and what's due",
             blob("var(--sky)", 13, "calm", "", 'width="40" height="40"'),
           ],
         ]
       : []),
-    ["beyond", JR.beyond, "Free exploring", blob("var(--gum)", 7, "happy", "", 'width="40" height="40"')],
+    ["beyond", JOURNEY_TABS.beyond, "Free exploring", blob("var(--gum)", 7, "happy", "", 'width="40" height="40"')],
     [
       "diary",
       "Learning diary",

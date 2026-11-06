@@ -81,11 +81,11 @@ function plusView() {
     pend = S.pendAI;
   setSheetTitle("DeepKids Plus");
   const waiting = !!S.plusWait;
-  return `<div class="exdone">${blob("var(--sun)", 6, "wow", "", 'width="76" height="76"')}<h2 style="font-size:var(--fs-6)">DeepKids Plus</h2>${r ? `<p class="sm"><b>${esc(PLUSR[r] || "")}</b> is part of Plus.</p>` : ""}</div>
+  return `<div class="exdone">${blob("var(--sun)", 6, "wow", "", 'width="76" height="76"')}<h2 class="fs6">DeepKids Plus</h2>${r ? `<p class="sm"><b>${esc(PLUSR[r] || "")}</b> is part of Plus.</p>` : ""}</div>
   ${plusList()}
   ${pend ? `<div class="ask"><span class="eyebrow">Your message is kept</span>“${esc(pend.text.slice(0, 160))}${pend.text.length > 160 ? "…" : ""}”<br><span class="xs muted">As soon as Plus is on, DeepKids reads it. No need to type it again.</span></div>` : ""}
   <div class="col" style="gap:10px;margin-top:12px"><button class="btn accent" data-act="plusgo" ${waiting && !window.DK_PLATFORM?.upgrade ? "disabled" : ""}>${waiting && !window.DK_PLATFORM?.upgrade ? "You're on the list ✓" : "Upgrade to Plus"}</button><button class="btn line sm" data-act="texit">Not now</button></div>
-  ${waiting && !window.DK_PLATFORM?.upgrade ? `<p class="xs muted" style="text-align:center">Plus opens soon. We'll let you know here as soon as it does.</p>` : ""}`;
+  ${waiting && !window.DK_PLATFORM?.upgrade ? `<p class="xs muted center">Plus opens soon. We'll let you know here as soon as it does.</p>` : ""}`;
 }
 async function plusGo() {
   const P = window.DK_PLATFORM;
@@ -332,8 +332,8 @@ function qSend() {
       if (!it) return;
       if (a.need === "ampm") {
         if (/eve|night|pm|after/i.test(v)) {
-          it.start = clock24(hm(it.start) + 720);
-          if (it.end) it.end = clock24((hm(it.end) + 720) % 1440);
+          it.start = clock24(toMins(it.start) + 720);
+          if (it.end) it.end = clock24((toMins(it.end) + 720) % 1440);
         }
       } else if (a.need === "days") {
         const d = recurring(v.includes("every") || dayNames(v).length > 1 ? v : "every " + v) || null,
@@ -348,11 +348,11 @@ function qSend() {
         const w = whenOf(/\d/.test(v) && !/at|from/.test(v) ? "at " + v : v);
         if (w.start) {
           it.start = w.start;
-          it.end = w.end || clock24(hm(w.start) + (w.dur || 60));
+          it.end = w.end || clock24(toMins(w.start) + (w.dur || 60));
           const ap = ampmGuess(v, it);
           if (ap === "pm") {
-            it.start = clock24(hm(it.start) + 720);
-            it.end = clock24(hm(it.end) + 720);
+            it.start = clock24(toMins(it.start) + 720);
+            it.end = clock24(toMins(it.end) + 720);
           }
         } else left.push(a);
       }

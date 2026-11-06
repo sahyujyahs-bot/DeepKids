@@ -147,7 +147,7 @@ function smartShuffle(list, s) {
     placed = new Set(),
     inList = new Set(list.map((u) => u.k));
   while (left.length) {
-    const ok = left.filter((u) => prereqOf(u).every((k) => placed.has(k) || !inList.has(k) || rank[st(k)] >= 2));
+    const ok = left.filter((u) => prereqOf(u).every((k) => placed.has(k) || !inList.has(k) || rank[statusOf(k)] >= 2));
     const pool = ok.length ? ok : [left[0]],
       pick = pool[Math.floor(R() * pool.length)];
     out.push(pick);
@@ -193,7 +193,7 @@ function unitBy(k) {
   }
   return _unitIdx.get(k);
 }
-const st = (k) => (k.startsWith("unit|") ? fxUnitSt(k) : S.progress[k]?.status || "none");
+const statusOf = (k) => (k.startsWith("unit|") ? fxUnitSt(k) : S.progress[k]?.status || "none");
 const done = (k) => (k.startsWith("unit|") ? fxSessionsDone(k) : S.progress[k]?.sessions || 0);
 const rank = { none: 0, learning: 1, completed: 2, mastered: 3 };
 const daysOf = (s) => S.days[s] || DEF_DAYS[s];
@@ -223,7 +223,7 @@ const sessionsFor = (u) =>
 function schedule(subj, limitDays = 420, fromTomorrow = false) {
   const q = [];
   plannedUnits(subj).forEach((u) => {
-    if (rank[st(u.k)] >= 2) return;
+    if (rank[statusOf(u.k)] >= 2) return;
     const tot = sessionsFor(u);
     for (let i = Math.min(done(u.k), tot - 1); i < tot; i++) q.push({ u, n: i + 1, tot });
   });
@@ -248,7 +248,7 @@ function schedule(subj, limitDays = 420, fromTomorrow = false) {
 const nextUp = (s) => {
   const q = [];
   plannedUnits(s).forEach((u) => {
-    if (rank[st(u.k)] >= 2) return;
+    if (rank[statusOf(u.k)] >= 2) return;
     const tot = sessionsFor(u);
     for (let i = Math.min(done(u.k), tot - 1); i < tot; i++) q.push({ u, n: i + 1, tot });
   });
@@ -260,7 +260,12 @@ function pinOrder(s, q) {
     P = q.filter((x) => x.u.k === pin),
     N = NX.flatMap((k) => q.filter((x) => x.u.k === k && x.u.k !== pin)),
     R = q.filter((x) => x.u.k !== pin && !NX.includes(x.u.k));
-  return [...P, ...N, ...R.filter((x) => st(x.u.k) === "learning"), ...R.filter((x) => st(x.u.k) !== "learning")];
+  return [
+    ...P,
+    ...N,
+    ...R.filter((x) => statusOf(x.u.k) === "learning"),
+    ...R.filter((x) => statusOf(x.u.k) !== "learning"),
+  ];
 }
 function logSession(u, kind) {
   if (u.board === "unit") {
@@ -303,7 +308,7 @@ function addExp(title, topic) {
   if (!S.exps.some((e) => e.title === title && !e.closed))
     S.exps.push({ id: newId(), title, topic, start: today, checks: [], closed: false });
 }
-const el = (h) => {
+const htmlToEl = (h) => {
   const t = document.createElement("template");
   t.innerHTML = h.trim();
   return t.content;
@@ -376,7 +381,7 @@ function profCard() {
   ${S.subjects
     .map((s) => {
       const p = profOf(s);
-      return `<div class="card ${SC(s)}" style="gap:6px"><div class="sech"><b style="font:600 var(--fs-4) var(--display)">${SUBJ[s]}</b><label class="xs"><input type="checkbox" data-pauto="${s}" ${p.auto ? "checked" : ""}> Adjust by itself</label></div>
+      return `<div class="card ${subjClass(s)}" style="gap:6px"><div class="sech"><b class="h4">${SUBJ[s]}</b><label class="xs"><input type="checkbox" data-pauto="${s}" ${p.auto ? "checked" : ""}> Adjust by itself</label></div>
    <div class="seg">${PLV.map((l) => `<button aria-pressed="${p.lvl === l}" data-act="plv" data-s="${s}" data-v="${l}">${PLN[l]}</button>`).join("")}</div><p class="xs muted">${PLD[p.lvl]}${p.why ? ` · changed on ${esc(fmt(p.at))}: ${esc(p.why)}` : ""}</p>
    <div class="seg">${Object.keys(PDN)
      .map(

@@ -1138,34 +1138,28 @@ function fxWsItem(it, key) {
   if (it.t === "draw" || it.t === "label") return `<div class="box"></div>`;
   return lines(it.lines || 3);
 }
+/* a worksheet question's answer as one line of text, by question type */
+const FX_WS_ANSWER = {
+  mcq: (it) => (it.opts || it.options)[it.a],
+  odd: (it) => (it.opts || it.options)[it.a],
+  truefalse: (it) => (it.a ? "True" : "False"),
+  sort: (it) =>
+    it.cats
+      .map(
+        (c) =>
+          `${c}: ${it.items
+            .filter((x) => x[1] === c)
+            .map((x) => x[0])
+            .join(", ")}`,
+      )
+      .join(". "),
+  match: (it) => it.pairs.map((p) => p.join(" → ")).join("; "),
+  order: (it) => it.a.join(" → "),
+  forces: (it) => it.a.map((f) => f.name + " " + f.dir).join(", "),
+};
 function fxWsAnswer(it) {
-  const o = it.opts || it.options,
-    a =
-      it.t === "mcq" || it.t === "odd"
-        ? o[it.a]
-        : it.t === "truefalse"
-          ? it.a
-            ? "True"
-            : "False"
-          : it.t === "sort"
-            ? it.cats
-                .map(
-                  (c) =>
-                    `${c}: ${it.items
-                      .filter((x) => x[1] === c)
-                      .map((x) => x[0])
-                      .join(", ")}`,
-                )
-                .join(". ")
-            : it.t === "match"
-              ? it.pairs.map((p) => p.join(" → ")).join("; ")
-              : it.t === "order"
-                ? it.a.join(" → ")
-                : it.t === "forces"
-                  ? it.a.map((f) => f.name + " " + f.dir).join(", ")
-                  : Array.isArray(it.a)
-                    ? it.a.join(" / ")
-                    : String(it.a ?? "");
+  const f = FX_WS_ANSWER[it.t],
+    a = f ? f(it) : Array.isArray(it.a) ? it.a.join(" / ") : String(it.a ?? "");
   return `<b>${esc(a)}</b>${it.why ? ` ${esc(it.why)}` : ""}`;
 }
 function fxWsPrintDoc(u, w) {
@@ -1597,7 +1591,7 @@ function fxStamp(id) {
       const k = "unit|" + lk,
         s = lk.split(".")[0];
       if (!S.subjects.includes(s)) return;
-      if (rank[st(k)] >= 2) return;
+      if (rank[statusOf(k)] >= 2) return;
       S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
       S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };
       added = 1;
@@ -1738,7 +1732,7 @@ function fxPractiseAll() {
   const U = fxRefs(),
     done = Object.keys(DATA.units || {}).filter((id) => rank[fxUnitSt("unit|" + id)] >= 2),
     R = S.fxRev || {},
-    L = learnedUnits().filter((u) => u.board !== "unit" && rank[st(u.k)] >= 2);
+    L = learnedUnits().filter((u) => u.board !== "unit" && rank[statusOf(u.k)] >= 2);
   const due = (id) => {
     const r = R[id] || { n: 0 };
     const D = fxSt().done[id] || {},

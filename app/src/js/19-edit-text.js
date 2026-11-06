@@ -144,7 +144,7 @@ function openEditor(node) {
   d.innerHTML = `<form method="dialog" class="dked"><b>Edit this text</b><textarea rows="${Math.min(14, Math.max(3, Math.ceil(cur.length / 38)))}"></textarea>
     <p class="xs muted">Changes it everywhere it appears in the app, for every family${editPlaces(k) > 1 ? ` (${editPlaces(k)} places on this screen)` : ""}.</p>${edited ? `<details><summary class="xs">Original text</summary><p class="xs">${esc(k)}</p></details>` : ""}
     <div class="row" style="justify-content:flex-end;gap:8px;flex-wrap:wrap">${edited ? `<button value="reset" class="btn soft sm">Back to original</button>` : ""}<button value="cancel" class="btn line sm">Cancel</button><button value="save" class="btn accent sm">Save</button></div>
-    <button value="all" class="link xs" style="justify-self:start">All my edits (${Object.keys(EDITS).length}) · download</button></form>`;
+    <button value="all" class="link xs self-start">All my edits (${Object.keys(EDITS).length}) · download</button></form>`;
   d.querySelector("textarea").value = cur;
   document.body.appendChild(d);
   d.showModal();

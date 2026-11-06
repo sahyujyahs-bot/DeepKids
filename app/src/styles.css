@@ -7248,3 +7248,35 @@ body {
   background: color-mix(in srgb, var(--peri) 12%, #fff);
   color: var(--peri);
 }
+
+/* small utility classes, used instead of the same inline style over and over; last in the file so they win ties, as an inline style did */
+.fs5 {
+  font-size: var(--fs-5);
+}
+.fs6 {
+  font-size: var(--fs-6);
+}
+.h4 {
+  font: 600 var(--fs-4) var(--display);
+}
+.h5 {
+  font: 600 var(--fs-5) var(--display);
+}
+.err {
+  color: var(--bad);
+}
+.mt6 {
+  margin-top: 6px;
+}
+.mt8 {
+  margin-top: 8px;
+}
+.self-start {
+  justify-self: start;
+}
+.pointer {
+  cursor: pointer;
+}
+.center {
+  text-align: center;
+}

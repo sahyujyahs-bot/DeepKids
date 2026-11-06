@@ -5,11 +5,11 @@ function loginView() {
     known = JSON.parse(lsGet("dk-known") || "[]");
   } catch (e) {}
   const intro = `<div class="fxintro" id="fxintro">${DATA.welcome.map(([img, t, p, pts, tag]) => `<div class="fxslide2"><img src="media/ui/${img}.jpg" alt=""><h2>${t}</h2><p>${p}</p><div class="fxpts">${pts.map(([b, x]) => `<div><b>${b}</b><span>${x}</span></div>`).join("")}</div>${tag ? `<span class="fxtag">${tag}</span>` : ""}</div>`).join("")}</div><div class="fxdots">${DATA.welcome.map((_, i) => `<i class="${i ? "" : "on"}"></i>`).join("")}</div>`;
-  return `<div class="ob">${intro}<div><span class="eyebrow">DeepKids Gurukul</span><h1 style="margin-top:6px">Log in</h1><p class="muted" style="margin-top:6px">Testing mode, so no OTP yet. The same number always brings back the same family. You stay logged in until you log out.</p></div>
+  return `<div class="ob">${intro}<div><span class="eyebrow">DeepKids Gurukul</span><h1 class="mt6">Log in</h1><p class="muted mt6">Testing mode, so no OTP yet. The same number always brings back the same family. You stay logged in until you log out.</p></div>
    ${known.length ? `<div class="col" style="gap:8px"><span class="eyebrow">Used on this phone</span>${known.map((k) => `<button class="menurow" data-act="loginas" data-a="${esc(k.acct)}">${youBlob("", "happy", 'width="40" height="40"')}<span><b>${esc(k.name || "Parent")}</b><br><span class="xs muted">+91 ${esc(String(k.acct).slice(2))}${k.child ? " · " + esc(k.child) + "'s family" : ""}</span></span>${icon("next")}</button>`).join("")}</div><span class="eyebrow">Or a different number</span>` : ""}
    <div class="field"><label for="lgPhone">Phone number</label><div class="row" style="flex-wrap:nowrap"><span class="chip" style="height:50px;padding:0 14px;font-size:var(--fs-4)">+91</span><input class="inp" id="lgPhone" type="tel" inputmode="numeric" autocomplete="tel-national" maxlength="16" placeholder="98765 43210"></div></div>
    <div class="field"><label for="lgName">Your name</label><input class="inp" id="lgName" maxlength="40" autocomplete="given-name" placeholder="Your name"></div>
-   <p class="sm" id="lgErr" style="color:var(--bad)" ${ui.lgErr ? "" : "hidden"}>${esc(ui.lgErr || "")}</p>
+   <p class="sm err" id="lgErr" ${ui.lgErr ? "" : "hidden"}>${esc(ui.lgErr || "")}</p>
    <button class="btn" data-act="login" ${ui.lgBusy ? "disabled" : ""}>${ui.lgBusy ? "Logging in…" : "Log in"}${icon("next")}</button></div>`;
 }
 // On the website, Google is the sign-in: a family's first visit opens an account tied to their Google account,
@@ -34,15 +34,15 @@ function accountCard() {
       ? "+91 " + ACC.slice(2, 7) + " " + ACC.slice(7)
       : window.DK_PLATFORM?.user?.()?.email || "";
   const d = ui.saved;
-  return `<section class="card"><div class="sech"><span><span class="eyebrow">Logged in</span><br><b style="font:600 var(--fs-5) var(--display)">${esc(ph)}</b></span><button class="btn soft sm" data-act="logout">Log out</button></div>
-   <button class="btn line sm" data-act="checksaved" style="justify-self:start">${ui.savedBusy ? "Reading…" : "Check what's saved"}</button>
+  return `<section class="card"><div class="sech"><span><span class="eyebrow">Logged in</span><br><b class="h5">${esc(ph)}</b></span><button class="btn soft sm" data-act="logout">Log out</button></div>
+   <button class="btn line sm self-start" data-act="checksaved">${ui.savedBusy ? "Reading…" : "Check what's saved"}</button>
    ${
      d
        ? d.err
-         ? `<p class="sm" style="color:var(--bad)">${esc(d.err)}</p>`
+         ? `<p class="sm err">${esc(d.err)}</p>`
          : `<div class="kv"><span>Read from</span><b>the database, ${new Date(d.at).toLocaleTimeString([], { hour: "numeric", minute: "2-digit", second: "2-digit" })}</b><span>Your name</span><b>${esc(d.v.parent?.name || "(not set)")}</b><span>Wake-up</span><b>${esc((d.v.alarm || {}).time || "(not set)")}</b><span>Child</span><b>${esc(d.v.child || "")}, age ${esc(d.v.age || "")}</b><span>Subjects</span><b>${(d.v.subjects || []).map((s) => SUBJ[s] || s).join(", ")}</b><span>Lessons done</span><b>${(d.v.log || []).length}</b></div>${
              (d.v.log || []).length
-               ? `<span class="eyebrow" style="margin-top:8px">Last things saved</span><ol class="sm">${d.v.log
+               ? `<span class="eyebrow mt8">Last things saved</span><ol class="sm">${d.v.log
                    .slice(0, 6)
                    .map(
                      (l) =>
@@ -122,7 +122,7 @@ function viewOnboarding() {
   if (s === 3) {
     const sug = Math.min(5, Math.max(1, (d.age || 8) - 5));
     return `<div class="ob">${fxObBar(3)}<h1>Level for each subject</h1><p class="muted">Pick where ${esc(d.child || "your child")} is now in each subject, or take a 2-minute quiz together. Most ${d.age || 8}-year-olds are around Class ${sug}, but go by your child.</p>
-   ${d.subjects.map((x) => `<div class="card ${SC(x)}"><b style="font-size:var(--fs-5)">${SUBJ[x]}</b><div class="row" style="gap:6px">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${!!d.picked[x] && d.levels[x] === l}" data-oblvl="${x}:${l}">Class ${l}</button>`).join("")}</div><div class="row" style="justify-content:space-between">${fxHasPQ(x) ? `<button type="button" class="btn soft sm" data-obquiz="${x}">Not sure? Quiz</button>` : "<span></span>"}<select class="inp" style="width:auto" data-hpd="${x}" aria-label="${SUBJ[x]} time a day">${[0.25, 0.5, 0.75, 1, 1.5, 2, 3].map((v) => `<option value="${v}" ${(d.hpd || DEF_HPD)[x] === v ? "selected" : ""}>${v * 60} min a day</option>`).join("")}</select></div></div>`).join("")}${fxObNav(true, "Continue")}</div>`;
+   ${d.subjects.map((x) => `<div class="card ${subjClass(x)}"><b class="fs5">${SUBJ[x]}</b><div class="row" style="gap:6px">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${!!d.picked[x] && d.levels[x] === l}" data-oblvl="${x}:${l}">Class ${l}</button>`).join("")}</div><div class="row" style="justify-content:space-between">${fxHasPQ(x) ? `<button type="button" class="btn soft sm" data-obquiz="${x}">Not sure? Quiz</button>` : "<span></span>"}<select class="inp" style="width:auto" data-hpd="${x}" aria-label="${SUBJ[x]} time a day">${[0.25, 0.5, 0.75, 1, 1.5, 2, 3].map((v) => `<option value="${v}" ${(d.hpd || DEF_HPD)[x] === v ? "selected" : ""}>${v * 60} min a day</option>`).join("")}</select></div></div>`).join("")}${fxObNav(true, "Continue")}</div>`;
   }
   if (s === 4) {
     const N = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
@@ -136,7 +136,7 @@ function viewOnboarding() {
     S = { ...S, ...d };
     const h = `<div class="ob">${fxObBar(5)}<h1>${esc(d.child || "Your child")}'s year</h1><div class="col">${d.subjects
       .map((s) => {
-        return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s, "happy", "", 'width="40" height="40"')}<b style="font:600 var(--fs-5) var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${planParts(
+        return `<div class="card ${subjClass(s)}"><div class="row" style="gap:10px">${sblob(s, "happy", "", 'width="40" height="40"')}<b class="h5">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${planParts(
           s,
           d.levels[s],
         )
@@ -285,7 +285,7 @@ function fxPQ(s, l) {
 const lvqNew = (s, l) => ({ s, l, i: 0, n: 0, k: 0, best: 0, low: 6 });
 function lvqCard(Q, attr) {
   const q = fxPQ(Q.s, Q.l)[Q.i];
-  return `<h1>${SUBJ[Q.s]} level quiz</h1><p class="muted">Question ${Q.n + 1}. Ask it out loud. Show the answer only after your child has tried.</p><div class="card"><p style="font-size:var(--fs-6)"><b>${esc(q[0])}</b></p><details><summary class="link">Show the answer</summary><p>${esc(q[1])}</p></details></div><div class="row"><button class="btn" ${attr}="1">They knew it</button><button class="btn soft" ${attr}="0">Not yet</button></div><button class="link" ${attr}="stop">Stop the quiz</button>`;
+  return `<h1>${SUBJ[Q.s]} level quiz</h1><p class="muted">Question ${Q.n + 1}. Ask it out loud. Show the answer only after your child has tried.</p><div class="card"><p class="fs6"><b>${esc(q[0])}</b></p><details><summary class="link">Show the answer</summary><p>${esc(q[1])}</p></details></div><div class="row"><button class="btn" ${attr}="1">They knew it</button><button class="btn soft" ${attr}="0">Not yet</button></div><button class="link" ${attr}="stop">Stop the quiz</button>`;
 }
 // one answer in; returns the level once it is found, else 0
 function lvqStep(Q, knew) {

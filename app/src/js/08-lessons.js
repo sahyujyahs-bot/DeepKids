@@ -35,7 +35,7 @@ function combTabBasic(u, t) {
   if (!P?.big) return "";
   if (t === "overview")
     return `<section class="card"><span class="eyebrow">Builds on</span><p class="sm">${esc(P.builds_on)}</p>
-    <span class="eyebrow" style="margin-top:6px">Ready for every board</span><p class="xs muted">This covers what these boards teach in Class ${u.level}:</p>${(u.c.boards || []).map((x) => `<div class="sm"><b>${CBN[x.b] || x.b}</b> ${esc(x.ref)} · ${esc(x.title)}</div>`).join("")}</section>`;
+    <span class="eyebrow mt6">Ready for every board</span><p class="xs muted">This covers what these boards teach in Class ${u.level}:</p>${(u.c.boards || []).map((x) => `<div class="sm"><b>${CBN[x.b] || x.b}</b> ${esc(x.ref)} · ${esc(x.title)}</div>`).join("")}</section>`;
   if (t === "think")
     return `<section class="card"><span class="eyebrow">Big questions</span>${P.big.map((q) => `<p class="sm">• ${esc(q)}</p>`).join("")}<p class="xs muted">No right answers. Ask "How could we find out?"</p></section>
     <section class="card"><span class="eyebrow">Is the usual story right?</span>${P.challenge.map((c) => `<details><summary class="sm"><b>${esc(c.q)}</b></summary><p class="sm">${esc(c.hint)}</p></details>`).join("")}</section>
@@ -43,11 +43,11 @@ function combTabBasic(u, t) {
   if (t === "game") {
     const g = P.game,
       pr = P.project;
-    return `<section class="card"><span class="eyebrow">Printable ${g.kind === "cards" ? "card" : "board"} game · ${esc(g.players)} players</span><h3 style="font-size:var(--fs-6)">${esc(g.title)}</h3><ol class="sm">${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${g.need?.length ? `<p class="xs muted">You need: ${esc(g.need.join(", "))}</p>` : ""}<div class="row"><button class="btn sm accent" data-act="cgprint" data-k="${u.k}">🖨️ Print the game</button><button class="link sm" data-act="cgview" data-k="${u.k}">Preview</button></div></section>
-    <section class="card"><span class="eyebrow">Project${pr.days?.length ? ` · days ${pr.days.join(" and ")}` : ""}</span><h3 style="font-size:var(--fs-6)">${esc(pr.title)}</h3><ol class="sm">${pr.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol><p class="xs muted">You end up with: ${esc(pr.outcome)}</p></section>`;
+    return `<section class="card"><span class="eyebrow">Printable ${g.kind === "cards" ? "card" : "board"} game · ${esc(g.players)} players</span><h3 class="fs6">${esc(g.title)}</h3><ol class="sm">${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${g.need?.length ? `<p class="xs muted">You need: ${esc(g.need.join(", "))}</p>` : ""}<div class="row"><button class="btn sm accent" data-act="cgprint" data-k="${u.k}">🖨️ Print the game</button><button class="link sm" data-act="cgview" data-k="${u.k}">Preview</button></div></section>
+    <section class="card"><span class="eyebrow">Project${pr.days?.length ? ` · days ${pr.days.join(" and ")}` : ""}</span><h3 class="fs6">${esc(pr.title)}</h3><ol class="sm">${pr.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol><p class="xs muted">You end up with: ${esc(pr.outcome)}</p></section>`;
   }
   if (t === "books")
-    return `<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Books on this topic</span>${P.books.map((b) => `<a class="res" href="${esc(amz(b))}" target="_blank" rel="noopener"><div style="min-width:0"><b>${esc(b.title)}</b><span class="xs muted"> · ${esc(b.author)}</span><p class="xs">${esc(b.for[0].toUpperCase() + b.for.slice(1))} · ages ${esc(b.age)}. ${esc(b.why)}</p></div><span class="xs">amazon.in ↗</span></a>`).join("")}<p class="xs muted" style="margin-top:6px">Links open an amazon.in search for the book. Many are also in libraries.</p></section>`;
+    return `<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Books on this topic</span>${P.books.map((b) => `<a class="res" href="${esc(amz(b))}" target="_blank" rel="noopener"><div style="min-width:0"><b>${esc(b.title)}</b><span class="xs muted"> · ${esc(b.author)}</span><p class="xs">${esc(b.for[0].toUpperCase() + b.for.slice(1))} · ages ${esc(b.age)}. ${esc(b.why)}</p></div><span class="xs">amazon.in ↗</span></a>`).join("")}<p class="xs muted mt6">Links open an amazon.in search for the book. Many are also in libraries.</p></section>`;
   return "";
 }
 function combTabWithBook(u, t) {
@@ -59,7 +59,7 @@ function combTabWithBook(u, t) {
       w = L[i];
     if (w)
       h =
-        `<section class="card ${SC(u.subj)}"><span class="eyebrow">This lesson uses a Mission book</span><h3 style="font-size:var(--fs-6)">${esc(w.title)}</h3><p class="sm">${esc(w.blurb || "")}</p><p class="xs muted">The day-by-day steps tell you which station to do. Print it before Day 1.</p><div class="row"><button class="btn sm accent" data-act="wsprint" data-k="${u.k}" data-i="${i}">🖨️ Print the book</button><button class="link sm" data-act="wsview" data-k="${u.k}" data-i="${i}">Preview</button></div></section>` +
+        `<section class="card ${subjClass(u.subj)}"><span class="eyebrow">This lesson uses a Mission book</span><h3 class="fs6">${esc(w.title)}</h3><p class="sm">${esc(w.blurb || "")}</p><p class="xs muted">The day-by-day steps tell you which station to do. Print it before Day 1.</p><div class="row"><button class="btn sm accent" data-act="wsprint" data-k="${u.k}" data-i="${i}">🖨️ Print the book</button><button class="link sm" data-act="wsview" data-k="${u.k}" data-i="${i}">Preview</button></div></section>` +
         h;
   }
   return h;
@@ -214,9 +214,7 @@ function chapterHub(u) {
     c = u.c || {},
     res = resSort(resourcesFor(u)),
     shelf = shelfFor(u);
-  let h =
-    `<div class="sech" style="margin-top:6px"><h3 style="font-size:var(--fs-5)">Everything for this chapter</h3></div>` +
-    printSheets(u);
+  let h = `<div class="sech mt6"><h3 class="fs5">Everything for this chapter</h3></div>` + printSheets(u);
   const ideas = [
     P ? `<p class="sm">${esc(P.summary)}</p>` : c.covers ? `<p class="sm">${esc(c.covers)}</p>` : "",
     P?.goals?.length
@@ -282,7 +280,7 @@ function chapterHub(u) {
           `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ages ${r.ages[0]}–${r.ages[1]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b><span class="xs">${esc(r.desc)}</span></a>`,
       ),
     res.length > 6 && !ui.hubres
-      ? `<button class="link xs" data-act="hubres" style="justify-self:start">Show all ${res.length}</button>`
+      ? `<button class="link xs self-start" data-act="hubres">Show all ${res.length}</button>`
       : "",
     ...(c.read || []).map((r) => `<div class="res"><span class="xs muted">Book</span><b>${esc(r)}</b></div>`),
   ].join("");
@@ -483,7 +481,7 @@ const pkList = (a, tag = "ul") =>
 const pkWs = (u, w) =>
   `<div class="pk"><span class="eyebrow">${TIER[w.tier] || ""} worksheet</span><b>${esc(w.title)}</b><p class="xs muted">${w.sections.length} sections · ${w.sections.reduce((a, s) => a + s[1].length, 0)} questions</p><div class="row"><button class="btn accent sm" data-act="ws" data-k="${u.k}" data-w="${esc(w.id)}">${taskDone(u.k + "#" + w.id, "ws") ? "Open again (finished)" : itemState("ws", u, w.id) === "going" ? "Continue the worksheet" : "Open the worksheet"}</button></div>${stateCtl("ws", u, w.id)}</div>`;
 const pkExp = (u, e) =>
-  `<div class="pk"><span class="eyebrow">Experiment${e.time ? " · " + esc(e.time) : ""}</span><b>${esc(e.title)}</b><p class="sm"><i>${esc(e.question)}</i></p>${e.need?.length ? `<p class="sm"><b>You need:</b> ${e.need.map(esc).join(", ")}</p>` : ""}${pkList(e.steps, "ol")}<div class="ask"><span class="eyebrow">Guess first</span>${esc(e.predict)}</div><p class="sm"><b>Look for:</b> ${esc(e.observe)}</p><details><summary class="sm">Why it happens</summary>${fmtPts(e.why)}</details>${e.safety ? `<p class="sm" style="color:var(--bad)"><b>Safety:</b> ${esc(e.safety)}</p>` : ""}<div class="tasks-inline">${taskLine(u, e.id, "Experiment done")}</div></div>`;
+  `<div class="pk"><span class="eyebrow">Experiment${e.time ? " · " + esc(e.time) : ""}</span><b>${esc(e.title)}</b><p class="sm"><i>${esc(e.question)}</i></p>${e.need?.length ? `<p class="sm"><b>You need:</b> ${e.need.map(esc).join(", ")}</p>` : ""}${pkList(e.steps, "ol")}<div class="ask"><span class="eyebrow">Guess first</span>${esc(e.predict)}</div><p class="sm"><b>Look for:</b> ${esc(e.observe)}</p><details><summary class="sm">Why it happens</summary>${fmtPts(e.why)}</details>${e.safety ? `<p class="sm err"><b>Safety:</b> ${esc(e.safety)}</p>` : ""}<div class="tasks-inline">${taskLine(u, e.id, "Experiment done")}</div></div>`;
 const pkAct = (u, a) =>
   `<div class="pk"><span class="eyebrow">Activity${a.mins ? " · " + a.mins + " min" : ""}</span><b>${esc(a.title)}</b>${a.need?.length ? `<p class="sm"><b>You need:</b> ${a.need.map(esc).join(", ")}</p>` : ""}${pkList(a.steps, "ol")}${a.outcome ? `<p class="sm"><b>You end up with:</b> ${esc(a.outcome)}</p>` : ""}<div class="tasks-inline">${taskLine(u, a.id, "Activity done")}</div></div>`;
 const pkVoice = (v) =>
@@ -502,7 +500,7 @@ function packPrep(u, n) {
 }
 function packOverview(u) {
   const P = u.c.p;
-  return `<section class="card ${SC(u.subj)}"><span class="eyebrow">${esc(P.source)}</span><p>${esc(P.summary)}</p>${P.goals?.length ? `<span class="eyebrow" style="margin-top:6px">By the end your child can</span>${pkList(P.goals.map((g) => g.replace(/^By the end your child can\s*/i, "")))}` : ""}</section>
+  return `<section class="card ${subjClass(u.subj)}"><span class="eyebrow">${esc(P.source)}</span><p>${esc(P.summary)}</p>${P.goals?.length ? `<span class="eyebrow mt6">By the end your child can</span>${pkList(P.goals.map((g) => g.replace(/^By the end your child can\s*/i, "")))}` : ""}</section>
    ${P.words?.length ? `<section class="card"><span class="eyebrow">Key words</span><div class="kv">${P.words.map(([w, m]) => `<span>${esc(w)}</span><b style="font-weight:400">${esc(m)}</b>`).join("")}</div></section>` : ""}
    ${P.check?.length ? `<details class="card"><summary><b>End-of-chapter check</b> <span class="xs muted">${P.check.length} questions</span></summary><ol class="sm">${P.check.map((c) => `<li>${esc(c.q)}<details><summary class="xs muted">Answer</summary><p class="sm">${esc(c.a)}</p></details></li>`).join("")}</ol></details>` : ""}`;
 }
@@ -559,7 +557,7 @@ function planOptions(u) {
     act = c?.act?.[0] || "A hands-on activity about the topic.",
     exp = c?.exp?.[0] || "A small experiment or observation.",
     bq = x?.deep?.[0]?.q || "What do you already know about this, and how do you know it?";
-  const P = (kind, title, f, body) => ({ kind, label: KL[kind] || "Step", title, f, body });
+  const P = (kind, title, f, body) => ({ kind, label: KIND_LABELS[kind] || "Step", title, f, body });
   return {
     full: [
       {
@@ -630,8 +628,8 @@ function planOptions(u) {
 }
 function genOpt(o, id) {
   const parts = (Array.isArray(o.steps) ? o.steps : []).slice(0, 6).map((s) => ({
-    kind: KL[s.kind] ? s.kind : "act",
-    label: KL[s.kind] || "Step",
+    kind: KIND_LABELS[s.kind] ? s.kind : "act",
+    label: KIND_LABELS[s.kind] || "Step",
     title: String(s.title || "").slice(0, 80),
     mins: Math.max(5, Math.min(90, +s.mins || 10)),
     body: String(s.how || "").slice(0, 600),
@@ -734,7 +732,7 @@ function playerView() {
     h += `<section class="stage finish">${sblob(P.s, all ? "happy" : "calm", "bob", 'width="120" height="120"')}<div class="stars">${[0, 1, 2].map((i) => `<svg width="44" height="44" viewBox="0 0 24 24" style="transform:rotate(${(i - 1) * 12}deg)"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z" fill="${i < Math.max(1, Math.round((okN / st.length) * 3)) ? "var(--sun)" : "var(--line)"}"/></svg>`).join("")}</div><h2>${all ? "Congrats!" : "Nearly there"}</h2><p class="muted">${esc(chT(it.u))} · ${all ? "every step done." : `${st.length - okN} step${st.length - okN > 1 ? "s" : ""} still open. They move to the next lesson day automatically.`}</p>${photoBtn(P.k, "Add a photo of today's work")}</section>`;
     return (
       h +
-      `<details class="card hub"><summary><b>Want more? Everything for this chapter</b></summary><div class="hubb">${chapterHub(it.u)}</div></details><p class="sm muted" style="text-align:center">Looked through everything? Then finish today\'s lesson.</p><div class="row" style="justify-content:center"><button class="btn green" data-act="finish">${icon("check")}Finish the lesson</button><button class="btn soft" data-act="pstep" data-d="-1">Back</button></div>`
+      `<details class="card hub"><summary><b>Want more? Everything for this chapter</b></summary><div class="hubb">${chapterHub(it.u)}</div></details><p class="sm muted center">Looked through everything? Then finish today\'s lesson.</p><div class="row" style="justify-content:center"><button class="btn green" data-act="finish">${icon("check")}Finish the lesson</button><button class="btn soft" data-act="pstep" data-d="-1">Back</button></div>`
     );
   }
   const x = st[P.i];
@@ -749,7 +747,7 @@ function chapterPage() {
   if (!u) return "";
   const c = u.c,
     x = c?.x,
-    cs = st(u.k),
+    cs = statusOf(u.k),
     m = modeOf();
   setSheetTitle(u.title);
   const tabs = c?.p
@@ -797,7 +795,7 @@ function chapterPage() {
             };
   const t = tabs[ui.ctab[u.k]] ? ui.ctab[u.k] : "overview",
     inPlan = everyUnit().some((z) => z.k === u.k) && plannedUnits(u.subj).some((z) => z.k === u.k);
-  let h = `<section class="chero ${SC(u.subj)}"><span class="n">${u.board === "combined" ? "" : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs}" style="justify-self:start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fh(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fh(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
+  let h = `<section class="chero ${subjClass(u.subj)}"><span class="n">${u.board === "combined" ? "" : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="eyebrow">${u.board === "gen" ? "DeepKids topic · Level " + u.level : esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs} self-start">${STATUS[cs]}${cs === "learning" && done(u.k) ? ` · Part ${done(u.k)} of ${sessionsFor(u)}` : ""}</span><p>${c?.p ? `${c.p.days.length} parts · about ${c.p.day_mins} minutes each` : `${fmtHours(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fmtHours(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj, "happy", "mascot sway")}</section>
    ${u.board === "gen" && !u.gen.reviewed ? `<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>` : ""}
    <div class="row">${inPlan ? `<span class="pill completed" style="align-self:center">✓ ${isNextUp(u) ? "Next up" : "In the plan · no. " + qPos(u)} in ${SUBJ[u.subj]}</span>${isNextUp(u) ? "" : `<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}<button class="btn line sm" data-act="gotab" data-tab="week" data-seg="next" data-qs="${u.subj}">See the queue</button>` : u.board === "unit" && !dkUnitOpen(u.c?.unit) ? `<span class="xs muted">🔒 On the DeepKids track</span>` : qPick("les", u.subj, "les:" + u.k, icon("plus") + "Add to the plan")}</div>
    
@@ -820,10 +818,10 @@ function chapterPage() {
     }
     h += topicOverview(u);
     if (x && m !== "books")
-      h += `<section class="card ${SC(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l, i) => `<div class="idea"><span class="k">${i + 1}</span><p>${esc(l)}</p></div>`).join("")}</section>`;
+      h += `<section class="card ${subjClass(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l, i) => `<div class="idea"><span class="k">${i + 1}</span><p>${esc(l)}</p></div>`).join("")}</section>`;
     if (m === "books" && c?.x?.cur)
       h += `<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Curated resources</span>${c.x.cur.map(([w, src, url, how]) => `<a class="res" href="${esc(url)}" target="_blank" rel="noopener"><span class="xs muted">${esc(src)} ↗</span><b>${esc(w)}</b></a>`).join("")}</section>`;
-    h += `<button class="btn line sm" data-act="logk" data-k="${u.k}" style="justify-self:start">Log a session today</button>${rank[cs] < 2 ? `<button class="link xs" data-act="status" data-k="${u.k}" data-s="completed" style="justify-self:start">Already knows this? Mark it done</button>` : ""}`;
+    h += `<button class="btn line sm self-start" data-act="logk" data-k="${u.k}">Log a session today</button>${rank[cs] < 2 ? `<button class="link xs self-start" data-act="status" data-k="${u.k}" data-s="completed">Already knows this? Mark it done</button>` : ""}`;
   }
   if (t === "plans") h += plansTab(u);
   if (c?.p) h += packTab(u, t) + combTab(u, t);
@@ -836,7 +834,7 @@ function chapterPage() {
      <p class="sm muted">Ask your child first and really listen. Then read the voices together. Which is strongest? Which would you argue against?</p>
      <div class="col">${d.views.map(([w, v], j) => `<div class="voice" style="--c:${PAL[(j * 2 + 1) % PAL.length]}">${blob(PAL[(j * 2 + 1) % PAL.length], 30 + j + qi * 3, ["happy", "calm", "wow"][j % 3])}<div class="say"><b>${esc(w)}</b>${esc(v)}</div></div>`).join("")}</div>
      <section class="mission"><b>Try this</b><span>${esc(d.tryit)}</span></section>
-     <div class="field"><label for="th-${u.k}-${qi}">What does ${esc(S.child || "your child")} think?</label><textarea class="inp" id="th-${u.k}-${qi}" data-ans="${u.k}|${key}" placeholder="Write their words, not yours">${esc(A(u.k, key) || "")}</textarea></div>
+     <div class="field"><label for="th-${u.k}-${qi}">What does ${esc(S.child || "your child")} think?</label><textarea class="inp" id="th-${u.k}-${qi}" data-ans="${u.k}|${key}" placeholder="Write their words, not yours">${esc(answerOf(u.k, key) || "")}</textarea></div>
      <div class="pager"><button class="btn line sm" data-act="qi" data-k="${u.k}" data-d="-1" ${qi === 0 ? "disabled" : ""}>${icon("back")}Previous</button><span class="xs muted">${qi + 1} / ${x.deep.length}</span><button class="btn sm" data-act="qi" data-k="${u.k}" data-d="1" ${qi === x.deep.length - 1 ? "disabled" : ""}>Next${icon("next")}</button></div>`;
   }
   if (t === "tasks") {
@@ -855,7 +853,7 @@ function chapterPage() {
       const r = re && H.find((a) => re.test(a[0]));
       return r ? `<span class="chip">${mins(r[1])}${r[2] > 1 ? ` over ${r[2]} days` : ""}</span>` : "";
     };
-    h += `<section class="card ${SC(u.subj)}"><div class="sech"><h3>${dn} of ${ts.length} done</h3></div><div class="bar"><span style="width:${(dn / ts.length) * 100}%;background:var(--c)"></span></div></section><section class="card" style="gap:0">${ts
+    h += `<section class="card ${subjClass(u.subj)}"><div class="sech"><h3>${dn} of ${ts.length} done</h3></div><div class="bar"><span style="width:${(dn / ts.length) * 100}%;background:var(--c)"></span></div></section><section class="card" style="gap:0">${ts
       .map(([id, , ttl, desc]) => {
         const d = taskDone(u.k, id),
           kind = id.replace(/\d+$/, "");
@@ -865,7 +863,7 @@ function chapterPage() {
   }
   if (t === "worksheet") {
     const q = x.wsd.reduce((a, s) => a + s[1].length, 0);
-    h += `<section class="card"><span class="eyebrow">Worksheet</span><h3 style="font-size:var(--fs-6)">${x.wsd.length} sections, ${q} questions</h3><div class="col" style="gap:6px">${x.wsd.map(([t2, its]) => `<div class="row" style="justify-content:space-between"><span>${esc(t2)}</span><span class="xs muted">${its.length} questions</span></div>`).join("")}</div><button class="btn" data-act="ws" data-k="${u.k}">${taskDone(u.k, "ws") ? "Open again (finished)" : "Start the worksheet"}</button></section>`;
+    h += `<section class="card"><span class="eyebrow">Worksheet</span><h3 class="fs6">${x.wsd.length} sections, ${q} questions</h3><div class="col" style="gap:6px">${x.wsd.map(([t2, its]) => `<div class="row" style="justify-content:space-between"><span>${esc(t2)}</span><span class="xs muted">${its.length} questions</span></div>`).join("")}</div><button class="btn" data-act="ws" data-k="${u.k}">${taskDone(u.k, "ws") ? "Open again (finished)" : "Start the worksheet"}</button></section>`;
   }
   if (t === "play")
     h += `<section class="qcard" style="background:var(--gum)"><span class="eyebrow">Chapter game</span><h2>${esc(c.game[0])}</h2><p>${esc(c.game[1])}</p></section><section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Curated from around the world</span>${x.cur.map(([w, src, url, how]) => `<a class="res" href="${esc(url)}" target="_blank" rel="noopener"><span class="xs muted">${esc(src)} ↗</span><b>${esc(w)}</b><span class="sm muted">${esc(how)}</span></a>`).join("")}</section>`;

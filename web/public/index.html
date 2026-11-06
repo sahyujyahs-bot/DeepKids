@@ -7266,6 +7266,38 @@ body {
   background: color-mix(in srgb, var(--peri) 12%, #fff);
   color: var(--peri);
 }
+
+/* small utility classes, used instead of the same inline style over and over; last in the file so they win ties, as an inline style did */
+.fs5 {
+  font-size: var(--fs-5);
+}
+.fs6 {
+  font-size: var(--fs-6);
+}
+.h4 {
+  font: 600 var(--fs-4) var(--display);
+}
+.h5 {
+  font: 600 var(--fs-5) var(--display);
+}
+.err {
+  color: var(--bad);
+}
+.mt6 {
+  margin-top: 6px;
+}
+.mt8 {
+  margin-top: 8px;
+}
+.self-start {
+  justify-self: start;
+}
+.pointer {
+  cursor: pointer;
+}
+.center {
+  text-align: center;
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -7284,9 +7316,9 @@ body {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="1b6315287dc9973c8f";window.DK_APPV="1b6315287d";window.DK_DATAV="c997561c6a"</script>
-<script src="/config.js?v=1b6315287dc9973c8f"></script>
+<script>window.DK_BUILD="3437fcc5a8c9973c8f";window.DK_APPV="3437fcc5a8";window.DK_DATAV="c997561c6a"</script>
+<script src="/config.js?v=3437fcc5a8c9973c8f"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=1b6315287dc9973c8f"></script>
+<script src="/platform.js?v=3437fcc5a8c9973c8f"></script>
 </body>
 </html>

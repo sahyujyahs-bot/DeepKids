@@ -1,23 +1,23 @@
 /* Shared pieces of UI: icons, the blob friends, pills, sounds, toasts, little celebrations */
 const esc = (s) =>
   String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
-const fh = (h) => (Math.round(h * 4) / 4).toString();
+const fmtHours = (h) => (Math.round(h * 4) / 4).toString();
 const mins = (h) => {
   const m = Math.round(h * 60);
-  return m >= 60 ? `${fh(m / 60)} h` : `${m} min`;
+  return m >= 60 ? `${fmtHours(m / 60)} h` : `${m} min`;
 };
-let AC = null,
+let audioCtx = null,
   soundOn = true;
 function tone(f, t0, d, type = "sine", g = 0.12) {
-  const o = AC.createOscillator(),
-    v = AC.createGain(),
-    t = AC.currentTime + t0;
+  const o = audioCtx.createOscillator(),
+    v = audioCtx.createGain(),
+    t = audioCtx.currentTime + t0;
   o.type = type;
   o.frequency.setValueAtTime(f, t);
   v.gain.setValueAtTime(0, t);
   v.gain.linearRampToValueAtTime(g, t + 0.01);
   v.gain.exponentialRampToValueAtTime(0.001, t + d);
-  o.connect(v).connect(AC.destination);
+  o.connect(v).connect(audioCtx.destination);
   o.start(t);
   o.stop(t + d + 0.02);
 }
@@ -46,8 +46,8 @@ const SFX = {
 function sfx(k) {
   if (!soundOn || !SFX[k]) return;
   try {
-    AC = AC || new (window.AudioContext || window.webkitAudioContext)();
-    if (AC.state === "suspended") AC.resume();
+    audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)();
+    if (audioCtx.state === "suspended") audioCtx.resume();
     SFX[k]();
   } catch (e) {}
 }
@@ -122,7 +122,7 @@ function toast(m, ms) {
   setTimeout(() => t.remove(), ms || Math.max(2200, m.length * 60));
   iamLook();
 }
-const IC = {
+const ICONS = {
   grid: '<rect x="4" y="4" width="7" height="7" rx="2.5"/><rect x="13" y="4" width="7" height="7" rx="2.5"/><rect x="4" y="13" width="7" height="7" rx="2.5"/><circle cx="16.5" cy="16.5" r="3.5"/>',
   today:
     '<circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/>',
@@ -164,8 +164,9 @@ const IC = {
   roots:
     '<path d="M12 12V3.5M12 7c-2.5-2.5-5-2.5-6.5-2 .3 2.3 3 4 6.5 3.5M12 7c2.5-2.5 5-2.5 6.5-2-.3 2.3-3 4-6.5 3.5M4 12h16M12 12v4l-3 4M12 16l3 4M9 14l-3 2M15 14l3 2"/>',
 };
-const icon = (n, c = "") => `<svg class="ico ${c}" viewBox="0 0 24 24" aria-hidden="true">${IC[n] || IC.spark}</svg>`;
-const KL = {
+const icon = (n, c = "") =>
+  `<svg class="ico ${c}" viewBox="0 0 24 24" aria-hidden="true">${ICONS[n] || ICONS.spark}</svg>`;
+const KIND_LABELS = {
   read: "Read together",
   learn: "Learn & think",
   ws: "Worksheet",
@@ -177,7 +178,7 @@ const KL = {
 };
 const ROLE = { you: "For you", both: "Together", kid: "Child goes", out: "Outing", free: "Break" };
 const pillS = (s) => `<span class="pill ${s}">${STATUS[s]}</span>`;
-const SC = (s) => "s-" + s;
+const subjClass = (s) => "s-" + s;
 /* a short random id for anything the family adds (an event, a note, a book…) */
 const newId = () => Math.random().toString(36).slice(2, 9);
 const setSheetTitle = (t) => (document.getElementById("sheetTitle").textContent = t);
@@ -352,7 +353,7 @@ function pathMap(units) {
   let d = `M${P[0][0]} ${P[0][1]}`;
   for (let i = 1; i < n; i++)
     d += ` C${P[i - 1][0]} ${P[i - 1][1] + step * 0.55} ${P[i][0]} ${P[i][1] - step * 0.55} ${P[i][0]} ${P[i][1]}`;
-  const nextI = units.findIndex((u) => rank[st(u.k)] < 2);
+  const nextI = units.findIndex((u) => rank[statusOf(u.k)] < 2);
   const deco = units
     .map((u, i) =>
       i % 3 === 1
@@ -363,10 +364,10 @@ function pathMap(units) {
   return `<div class="pathmap" style="height:${H}px"><svg viewBox="0 0 100 ${H}" preserveAspectRatio="none" aria-hidden="true"><path d="${d}" fill="none" stroke="var(--soil)" stroke-width="26" stroke-linecap="round" vector-effect="non-scaling-stroke"/><path d="${d}" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="2 12" stroke-linecap="round" vector-effect="non-scaling-stroke" opacity=".8"/></svg>${deco}
    ${units
      .map((u, i) => {
-       const cs = st(u.k),
+       const cs = statusOf(u.k),
          ts = u.c?.x ? chapterTasks(u) : null,
          td = ts ? ts.filter((a) => taskDone(u.k, a[0])).length : 0;
-       return `<button class="node ${SC(u.subj)} ${cs} ${i === nextI ? "next" : ""}" style="left:${P[i][0]}%;top:${P[i][1] + 12}px" data-act="chapter" data-k="${u.k}">${i === nextI ? kidBlob("", "happy", 'width="34" height="34" style="margin-bottom:-10px"') : ""}<span class="dot">${rank[cs] >= 2 ? `<svg width="28" height="28" viewBox="0 0 24 24"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z" fill="#fff"/></svg>` : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="lbl">${esc(u.title)}</span><span class="sub">${ts ? `${td}/${ts.length} tasks · ` : ""}${STATUS[cs]}</span></button>`;
+       return `<button class="node ${subjClass(u.subj)} ${cs} ${i === nextI ? "next" : ""}" style="left:${P[i][0]}%;top:${P[i][1] + 12}px" data-act="chapter" data-k="${u.k}">${i === nextI ? kidBlob("", "happy", 'width="34" height="34" style="margin-bottom:-10px"') : ""}<span class="dot">${rank[cs] >= 2 ? `<svg width="28" height="28" viewBox="0 0 24 24"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z" fill="#fff"/></svg>` : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="lbl">${esc(u.title)}</span><span class="sub">${ts ? `${td}/${ts.length} tasks · ` : ""}${STATUS[cs]}</span></button>`;
      })
      .join("")}</div>`;
 }

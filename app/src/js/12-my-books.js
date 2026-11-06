@@ -42,7 +42,7 @@ function myBooksTab() {
     ? B.map(
         (
           b,
-        ) => `<section class="card ${SC(b.subj)}"><div class="sech"><h3 style="font-size:var(--fs-5)">${esc(b.title)}</h3><span class="pill">${SUBJ[b.subj]} · Class ${b.level}</span></div>
+        ) => `<section class="card ${subjClass(b.subj)}"><div class="sech"><h3 class="fs5">${esc(b.title)}</h3><span class="pill">${SUBJ[b.subj]} · Class ${b.level}</span></div>
       ${b.err ? `<p class="sm note">${esc(b.err)}</p>` : ""}
       ${(b.lessons || [])
         .map(
@@ -54,7 +54,7 @@ function myBooksTab() {
             }</div>`,
         )
         .join("")}
-      <button class="link xs" data-act="mbdel" data-id="${esc(b.id)}" style="justify-self:start">Remove this</button></section>`,
+      <button class="link xs self-start" data-act="mbdel" data-id="${esc(b.id)}">Remove this</button></section>`,
       ).join("")
     : `<p class="sm muted">Nothing here yet. Add notes you've written, a study guide or a workbook chapter.</p>`;
   return `<section class="sec">${form}${list}</section>`;

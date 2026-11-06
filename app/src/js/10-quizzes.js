@@ -85,7 +85,7 @@ function qRecord(o, r) {
 function masteryOf(u, M) {
   if (Object.values(M).some((x) => x.k === u.k && x.r === 0)) return "not";
   const P = u.c?.p;
-  let all = rank[st(u.k)] >= 2;
+  let all = rank[statusOf(u.k)] >= 2;
   if (all && P) {
     const its = [
       ...(P.worksheets || []).map((w) => ["ws", w.id]),
@@ -150,7 +150,7 @@ function rfQueue(date) {
   Object.keys(DATA.units || {}).forEach(
     (id) => rank[fxUnitSt("unit|" + id)] >= 2 && add("unit|" + id, id.split(".")[0], true),
   );
-  learnedUnits().forEach((u) => u.board !== "unit" && rank[st(u.k)] >= 2 && add(u.k, u.subj, true));
+  learnedUnits().forEach((u) => u.board !== "unit" && rank[statusOf(u.k)] >= 2 && add(u.k, u.subj, true));
   Object.keys(M).forEach((k) => M[k].open && add(k, rfIsDk(k) ? k.slice(5).split(".")[0] : unitByK(k)?.subj, false));
   const ord = { open: 0, learn: 1, keep: 2 };
   return out.sort(
@@ -290,7 +290,7 @@ function qCard(q, state) {
       ? `<details><summary class="sm muted">Show the answer</summary><p class="sm">${esc(q.a)}</p></details><div class="row" style="gap:6px"><button class="btn xs accent" data-act="qans" data-id="${q.id}" data-r="1">Got it</button><button class="btn xs soft" data-act="qans" data-id="${q.id}" data-r="0">Not yet</button></div>`
       : `<p class="sm"><b>Answer:</b> ${esc(q.a)}</p>`
     : "";
-  return `<div class="qcard"><b style="font:600 var(--fs-5) var(--display)">${esc(q.q)}</b>${opts}${open}${res != null ? `<p class="sm qwhy"><b>${res ? "✓ Right." : "✗ Not yet."}</b>${q.opts ? ` The answer: ${esc(q.a)}.` : ""}${q.why ? ` ${esc(q.why)}` : ""}</p>` : ""}</div>`;
+  return `<div class="qcard"><b class="h5">${esc(q.q)}</b>${opts}${open}${res != null ? `<p class="sm qwhy"><b>${res ? "✓ Right." : "✗ Not yet."}</b>${q.opts ? ` The answer: ${esc(q.a)}.` : ""}${q.why ? ` ${esc(q.why)}` : ""}</p>` : ""}</div>`;
 }
 /* Quick quiz: any time, on lessons done */
 function quizPool(s, focus) {
@@ -308,7 +308,7 @@ function lvqOffer() {
   const L = S.subjects.filter(fxHasPQ),
     r = ui.lvqDone;
   if (!L.length) return "";
-  return `<section class="card"><b style="font:600 var(--fs-5) var(--display)">Check ${esc(S.child || "your child")}'s level</b><p class="sm">A 2-minute quiz per subject. It finds the class your child is at now, so the plan starts in the right place.</p>${r ? `<p class="sm"><b>${SUBJ[r.s]}: Class ${r.lvl}.</b> ${r.lvl === S.levels[r.s] ? "That's the class the plan already uses." : `The plan uses Class ${S.levels[r.s]}.`}</p>${r.lvl !== S.levels[r.s] ? `<button class="btn sm" data-act="lvqset" data-s="${r.s}" data-l="${r.lvl}">Use Class ${r.lvl} for ${SUBJ[r.s]}</button>` : ""}` : ""}<div class="row">${L.map((s) => `<button class="btn soft sm" data-act="lvq" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></section>`;
+  return `<section class="card"><b class="h5">Check ${esc(S.child || "your child")}'s level</b><p class="sm">A 2-minute quiz per subject. It finds the class your child is at now, so the plan starts in the right place.</p>${r ? `<p class="sm"><b>${SUBJ[r.s]}: Class ${r.lvl}.</b> ${r.lvl === S.levels[r.s] ? "That's the class the plan already uses." : `The plan uses Class ${S.levels[r.s]}.`}</p>${r.lvl !== S.levels[r.s] ? `<button class="btn sm" data-act="lvqset" data-s="${r.s}" data-l="${r.lvl}">Use Class ${r.lvl} for ${SUBJ[r.s]}</button>` : ""}` : ""}<div class="row">${L.map((s) => `<button class="btn soft sm" data-act="lvq" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></section>`;
 }
 function quizzView() {
   setSheetTitle("Quick quiz");
@@ -329,12 +329,10 @@ function quizzView() {
     <button class="btn accent" data-act="qzstart" ${cnt(Z.s) ? "" : "disabled"}>Start the quiz</button>
     ${!U.length ? `<p class="xs muted">Do a lesson or two first. Questions come from lessons you've done.</p>` : !cnt(Z.s) ? `<p class="xs muted">No questions yet for this choice.</p>` : ""}</section>${!U.length ? lvqOffer() : ""}
    ${noBank.length ? `<section class="card"><b>${noBank.map((s) => SUBJ[s]).join(", ")}: no questions yet</b><p class="xs muted">These chapters don't have quiz questions in DeepKids yet.</p>${SAMPLE ? `<button class="btn soft sm" data-act="qgen" ${ui.qgen ? "disabled" : ""}>${ui.qgen ? "Writing questions…" : "Write questions with Claude"}</button>` : `<p class="xs muted">With DeepKids Plus, Claude writes questions for them.</p>`}</section>` : ""}
-   <section class="card"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">How it's sticking</b><button class="link" data-act="rfset">Lists and refresher settings</button></div><div class="row">${["not", "grasped", "mastered"].map((g) => `<span class="pill mg-${g}">${MGN[g]} · ${L[g].length}</span>`).join("")}</div></section>
+   <section class="card"><div class="sech"><b class="h5">How it's sticking</b><button class="link" data-act="rfset">Lists and refresher settings</button></div><div class="row">${["not", "grasped", "mastered"].map((g) => `<span class="pill mg-${g}">${MGN[g]} · ${L[g].length}</span>`).join("")}</div></section>
    ${
      (S.qzr || []).length
-       ? `<section class="sec"><div class="sech"><h3 style="font-size:var(--fs-5)">Past quizzes</h3></div>${(
-           S.qzr || []
-         )
+       ? `<section class="sec"><div class="sech"><h3 class="fs5">Past quizzes</h3></div>${(S.qzr || [])
            .slice()
            .reverse()
            .slice(0, 12)
@@ -383,7 +381,7 @@ function quizRunView() {
       save();
     }
     const wrong = R.res.filter((x) => !x.r);
-    return `<section class="card" style="text-align:center"><h2 style="font-size:var(--fs-7)">${R.res.filter((x) => x.r).length} of ${R.res.length} right</h2><p class="sm muted">${left === 0 && R.i < R.qs.length ? "Time's up. " : ""}Saved for the transcript.</p></section>
+    return `<section class="card center"><h2 style="font-size:var(--fs-7)">${R.res.filter((x) => x.r).length} of ${R.res.length} right</h2><p class="sm muted">${left === 0 && R.i < R.qs.length ? "Time's up. " : ""}Saved for the transcript.</p></section>
      ${wrong.length ? `<section class="card"><b>Not yet (${wrong.length})</b><p class="xs muted">These chapters move to “Not grasped yet” and come back in the refresher.</p><ol class="sm">${wrong.map((x) => `<li><b>${esc(x.q.q)}</b><br>${esc(x.q.a)} <span class="xs muted">· ${esc(chT(unitByK(x.q.k)))}</span></li>`).join("")}</ol></section>` : `<p class="note">All right. Lovely work!</p>`}
      <div class="row"><button class="btn accent" data-act="qzagain">Another quiz</button><button class="btn line" data-act="qzend">Done</button></div>`;
   }
@@ -411,7 +409,7 @@ function rfsetBody() {
     row = (k, subj, right) =>
       `<div class="sm">• <b>${esc(rfTitle(k))}</b> <span class="xs muted">${esc(SUBJ[subj] || "")} · ${right} of ${RF_PER} right</span></div>`,
     box = (title, note, L) =>
-      `<section class="card"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
+      `<section class="card"><div class="sech"><b class="h5">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
     mastered = [...new Set(Object.values(S.rfq || {}).map((x) => x.k))].filter((k) => rfRight(k) >= RF_PER);
   return `<p class="sm">Every unit your child completes comes back until they answer ${RF_PER} of its questions right. A day's refresher is at most ${RF_MAX} questions, ${RF_PER} from each of up to ${RF_MAX / RF_PER} units, taking turns across all subjects.</p>
    ${box(
@@ -429,13 +427,13 @@ function rfsetBody() {
      `5 questions answered right. They come back every ${RFS().mastered.every} days to keep fresh.`,
      mastered.map((k) => row(k, (rfIsDk(k) ? k.slice(5).split(".")[0] : unitByK(k)?.subj) || "", rfRight(k))),
    )}
-   <button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
+   <button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz</button>`;
 }
 // how long the daily refresher is, on which days, and how often mastered units come back (Plan → Plan settings)
 function rfTiming() {
   const R = RFS(),
     EV = [3, 5, 7, 10, 14, 30];
-  return `<section class="card"><b style="font:600 var(--fs-5) var(--display)">Refresher</b><p class="xs muted">Already set for you. Change it only if you want to.</p>
+  return `<section class="card"><b class="h5">Refresher</b><p class="xs muted">Already set for you. Change it only if you want to.</p>
    <div class="row" style="align-items:center"><span class="sm">Each day</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>
    <div class="row" style="align-items:center"><span class="sm">Mastered units come back every</span><select class="inp" style="width:auto;height:40px" data-rfe="mastered">${EV.map((v) => `<option value="${v}" ${R.mastered.every === v ? "selected" : ""}>${v} days</option>`).join("")}</select></div></section>`;
 }
@@ -501,7 +499,7 @@ function rfCard() {
 function moreJG() {
   const n = ui.jg || 0;
   if (!n)
-    return `<button class="btn soft sm" data-act="morejg" style="justify-self:start">${icon("spark")}More jokes and games</button>`;
+    return `<button class="btn soft sm self-start" data-act="morejg">${icon("spark")}More jokes and games</button>`;
   const mine = (i) => S.subjects.includes(i.subj),
     J = DATA.items.filter((i) => mine(i) && i.c?.x?.jokes?.length).flatMap((i) => i.c.x.jokes),
     Gm = DATA.items.filter((i) => mine(i) && Array.isArray(i.c?.game) && i.c.game.length >= 2);
@@ -510,23 +508,20 @@ function moreJG() {
     for (let i = 0; i < c && i < L.length; i++) o.push(L[((n - 1) * c + i + dayNo) % L.length]);
     return o;
   };
-  return `<section class="card"><b style="font:600 var(--fs-5) var(--display)">More jokes</b><div class="hs">${pick(
-    J,
-    2,
-  )
+  return `<section class="card"><b class="h5">More jokes</b><div class="hs">${pick(J, 2)
     .map((j, i) => {
       const [q, a] = splitJoke(j),
         k = "x" + n + "-" + i;
       return `<button class="joke" data-act="joke" data-j="${k}"><span class="eyebrow">Joke</span><span class="q">${esc(q)}</span>${ui.jokes[k] ? `<span class="a">${esc(a)}</span>` : `<span class="tap">Tap for the answer</span>`}</button>`;
     })
     .join("")}</div>
-   <b style="font:600 var(--fs-5) var(--display)">Games to play</b>${pick(Gm, 2)
+   <b class="h5">Games to play</b>${pick(Gm, 2)
      .map(
        (u) =>
          `<div class="pk"><span class="eyebrow">${esc(chT(u))} · ${esc(SUBJ[u.subj])}</span><b>${esc(u.c.game[0])}</b><p class="sm">${esc(u.c.game[1])}</p></div>`,
      )
      .join("")}
-   <button class="btn soft sm" data-act="morejg" style="justify-self:start">${icon("spark")}Two more of each</button></section>`;
+   <button class="btn soft sm self-start" data-act="morejg">${icon("spark")}Two more of each</button></section>`;
 }
 const RFSTAT = { open: "not finished last time", learn: "not mastered yet", keep: "keeping fresh" };
 function refreshAnswersView() {
@@ -558,7 +553,7 @@ function refreshView() {
 function wordGame(u) {
   const x = u.c.x,
     word = x.words[dayNo % x.words.length],
-    g = G(),
+    g = gamesToday(),
     won = g.g.includes(word),
     over = won || g.g.length >= 6,
     keys = {};
@@ -581,10 +576,10 @@ function wordGame(u) {
         .join("")}</div>`;
     })
     .join("");
-  return `<p class="sm muted" style="text-align:center">A five-letter word from “${esc(u.title)}”. Green is the right place, yellow is in the word.</p><div class="wgrid">${rows}</div>${over ? `<p style="text-align:center;font:600 var(--fs-5) var(--display)">${won ? "You got it: " : "The word was "}${word}</p>` : `<div class="kb">${["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"].map((r, i) => `<div>${i === 2 ? `<button class="w" data-act="wk" data-key="ENTER">Enter</button>` : ""}${[...r].map((c) => `<button class="${keys[c] || ""}" data-act="wk" data-key="${c}">${c}</button>`).join("")}${i === 2 ? `<button class="w" data-act="wk" data-key="DEL" aria-label="Delete">Del</button>` : ""}</div>`).join("")}</div>`}`;
+  return `<p class="sm muted center">A five-letter word from “${esc(u.title)}”. Green is the right place, yellow is in the word.</p><div class="wgrid">${rows}</div>${over ? `<p style="text-align:center;font:600 var(--fs-5) var(--display)">${won ? "You got it: " : "The word was "}${word}</p>` : `<div class="kb">${["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"].map((r, i) => `<div>${i === 2 ? `<button class="w" data-act="wk" data-key="ENTER">Enter</button>` : ""}${[...r].map((c) => `<button class="${keys[c] || ""}" data-act="wk" data-key="${c}">${c}</button>`).join("")}${i === 2 ? `<button class="w" data-act="wk" data-key="DEL" aria-label="Delete">Del</button>` : ""}</div>`).join("")}</div>`}`;
 }
 function tfGame(u) {
-  const g = G(),
+  const g = gamesToday(),
     q = u.c.x.quiz,
     i = q.findIndex((_, k) => g.tf[k] === undefined),
     right = (k) => (g.tf[k] === 1) === q[k][1],
@@ -593,12 +588,12 @@ function tfGame(u) {
   if (i < 0)
     return `${dots}<div class="score">${sc}/${q.length}</div><div class="col">${q.map((x) => `<div class="card" style="padding:14px"><span class="eyebrow">${x[1] ? "True" : "False"}</span><b style="font-weight:500">${esc(x[0])}</b><span class="sm muted">${esc(x[2])}</span></div>`).join("")}</div>`;
   const p = i > 0 ? q[i - 1] : null;
-  return `${dots}${p ? `<p class="sm" style="text-align:center;color:${right(i - 1) ? "var(--good)" : "var(--bad)"}">${right(i - 1) ? "Right." : "Not quite."} ${esc(p[2])}</p>` : `<p class="sm muted" style="text-align:center">Some of these sound true and aren't.</p>`}<div class="tfq">${esc(q[i][0])}</div><div class="tfrow"><button class="btn yes" data-act="tf" data-i="${i}" data-v="1">True</button><button class="btn no" data-act="tf" data-i="${i}" data-v="0">False</button></div>`;
+  return `${dots}${p ? `<p class="sm" style="text-align:center;color:${right(i - 1) ? "var(--good)" : "var(--bad)"}">${right(i - 1) ? "Right." : "Not quite."} ${esc(p[2])}</p>` : `<p class="sm muted center">Some of these sound true and aren't.</p>`}<div class="tfq">${esc(q[i][0])}</div><div class="tfrow"><button class="btn yes" data-act="tf" data-i="${i}" data-v="1">True</button><button class="btn no" data-act="tf" data-i="${i}" data-v="0">False</button></div>`;
 }
 function oddGame(u) {
-  const g = G(),
+  const g = gamesToday(),
     o = u.c.x.odd[dayNo % u.c.x.odd.length];
-  return `<p class="sm muted" style="text-align:center">Which one doesn't belong? There may be more than one good answer. Can you defend yours?</p><div class="oddgrid">${o[0].map((w) => `<button class="${g.odd ? (w === o[1] ? "right" : w === g.odd ? "wrong" : "") : ""}" data-act="odd" data-w="${esc(w)}" ${g.odd ? "disabled" : ""}>${esc(w)}</button>`).join("")}</div>${g.odd ? `<p style="text-align:center">${g.odd === o[1] ? "Yes. " : "We picked " + esc(o[1]) + ". "}${esc(o[2])}</p>` : ""}`;
+  return `<p class="sm muted center">Which one doesn't belong? There may be more than one good answer. Can you defend yours?</p><div class="oddgrid">${o[0].map((w) => `<button class="${g.odd ? (w === o[1] ? "right" : w === g.odd ? "wrong" : "") : ""}" data-act="odd" data-w="${esc(w)}" ${g.odd ? "disabled" : ""}>${esc(w)}</button>`).join("")}</div>${g.odd ? `<p class="center">${g.odd === o[1] ? "Yes. " : "We picked " + esc(o[1]) + ". "}${esc(o[2])}</p>` : ""}`;
 }
 function jokesAndGames() {
   const u = dailyUnit();
@@ -625,9 +620,9 @@ function gamesView() {
 }
 function lanes(date) {
   const items = dayPlan(date),
-    d = D();
+    d = dayDefaults();
   if (!items.length) return `<p class="note">Nothing on the clock this day.</p>`;
-  const t0 = Math.floor((Math.min(hm(d.prepAt), ...items.map((i) => i.at)) - 20) / 60) * 60,
+  const t0 = Math.floor((Math.min(toMins(d.prepAt), ...items.map((i) => i.at)) - 20) / 60) * 60,
     t1 = Math.ceil((Math.max(...items.map((i) => i.at + i.dur)) + 20) / 60) * 60,
     ppm = 1.2;
   const hrs = [];
@@ -640,7 +635,7 @@ function lanes(date) {
         : i.who === "kid"
           ? "right:0;width:calc(50% - 3px)"
           : "left:0;right:0";
-    const col = i.kind === "lesson" ? SC(i.s) : "r-" + i.who;
+    const col = i.kind === "lesson" ? subjClass(i.s) : "r-" + i.who;
     return `<div class="blk ${col} ${i.done ? "ok" : ""}" style="top:${(i.at - t0) * ppm + 1}px;height:${Math.max(20, i.dur * ppm - 3)}px;${lane}">${clock(i.at)} · ${esc(i.kind === "lesson" ? SUBJ[i.s] + ": " + i.u.title : i.title)}</div>`;
   };
   return `<div class="calhead"><span></span><span>${youBlob()}You</span><span>${kidBlob()}${esc(S.child || "Child")}</span></div><div class="cal" style="height:${(t1 - t0) * ppm}px">${hrs.join("")}<div class="lanes">${items.map(b).join("")}</div></div><p class="xs muted">Full-width blocks are things you do together.</p>`;

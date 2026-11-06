@@ -13,7 +13,7 @@ const monday = () => {
   d.setDate(d.getDate() - ((d.getDay() + 6) % 7));
   return iso(d);
 };
-const hm = (s) => {
+const toMins = (s) => {
   const [h, m] = String(s || "0:0")
     .split(":")
     .map(Number);
@@ -27,8 +27,12 @@ const clock = (m) => {
   h = h % 12 || 12;
   return `${h}:${mm} ${ap}`;
 };
-const D = () => ({ ...DEF_DAY, ...(S.day || {}) });
-const Dd = (date) => ({ ...D(), ...((S.dayW || {})[parse(date).getDay()] || {}), ...((S.dayOver || {})[date] || {}) });
+const dayDefaults = () => ({ ...DEF_DAY, ...(S.day || {}) });
+const daySettings = (date) => ({
+  ...dayDefaults(),
+  ...((S.dayW || {})[parse(date).getDay()] || {}),
+  ...((S.dayOver || {})[date] || {}),
+});
 const addDays = (s, n) => {
   const d = parse(s);
   d.setDate(d.getDate() + n);

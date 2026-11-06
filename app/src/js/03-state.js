@@ -65,7 +65,7 @@ const ui = {
   wview: "lanes",
   timer: null,
 };
-const A = (k, id) => (S.ans[k] || {})[id];
+const answerOf = (k, id) => (S.ans[k] || {})[id];
 function setA(k, id, v) {
   S.ans[k] = S.ans[k] || {};
   S.ans[k][id] = v;

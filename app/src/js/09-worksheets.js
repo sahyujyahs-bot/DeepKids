@@ -43,16 +43,16 @@ function keyText(it) {
             : "open answer: judge the reasoning";
 }
 /* line art (prints well in black and white, and can be coloured in). pts = numbered label points, in order */
-const L = 'stroke="#2B2340" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"';
+const SVG_STROKE = 'stroke="#2B2340" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"';
 const ART = {
   plant: {
     w: 300,
     h: 320,
-    svg: `<path d="M30 220 H270" ${L}/><path d="M50 228h6M90 232h4M200 230h6M240 226h4M120 236h5" ${L} stroke-width="2"/>
-  <path d="M150 220 C148 180 152 130 150 96" ${L}/>
-  <g transform="translate(150 70)">${[0, 72, 144, 216, 288].map((a) => `<ellipse rx="13" ry="25" transform="rotate(${a}) translate(0 -24)" fill="#fff" ${L.replace('fill="none"', "")}/>`).join("")}<circle r="11" fill="#fff" ${L.replace('fill="none"', "")}/></g>
-  <path d="M150 150 C130 118 100 116 78 128 C100 146 130 154 150 150 Z M150 150 L84 129" ${L}/><path d="M150 182 C172 152 204 150 224 160 C204 180 172 186 150 182 Z M150 182 L218 160" ${L}/>
-  <path d="M150 220 C150 250 148 275 150 305 M150 238 C135 250 120 262 108 280 M150 244 C165 255 180 266 193 283 M150 266 C140 276 132 286 128 302 M150 268 C160 280 168 292 173 306" ${L}/>`,
+    svg: `<path d="M30 220 H270" ${SVG_STROKE}/><path d="M50 228h6M90 232h4M200 230h6M240 226h4M120 236h5" ${SVG_STROKE} stroke-width="2"/>
+  <path d="M150 220 C148 180 152 130 150 96" ${SVG_STROKE}/>
+  <g transform="translate(150 70)">${[0, 72, 144, 216, 288].map((a) => `<ellipse rx="13" ry="25" transform="rotate(${a}) translate(0 -24)" fill="#fff" ${SVG_STROKE.replace('fill="none"', "")}/>`).join("")}<circle r="11" fill="#fff" ${SVG_STROKE.replace('fill="none"', "")}/></g>
+  <path d="M150 150 C130 118 100 116 78 128 C100 146 130 154 150 150 Z M150 150 L84 129" ${SVG_STROKE}/><path d="M150 182 C172 152 204 150 224 160 C204 180 172 186 150 182 Z M150 182 L218 160" ${SVG_STROKE}/>
+  <path d="M150 220 C150 250 148 275 150 305 M150 238 C135 250 120 262 108 280 M150 244 C165 255 180 266 193 283 M150 266 C140 276 132 286 128 302 M150 268 C160 280 168 292 173 306" ${SVG_STROKE}/>`,
     pts: [
       [150, 30],
       [92, 108],
@@ -63,8 +63,8 @@ const ART = {
   bean: {
     w: 300,
     h: 220,
-    svg: `<path d="M40 110 C40 40 150 20 220 40 C290 60 290 170 220 185 C150 200 40 180 40 110 Z" ${L}/><path d="M56 110 C56 56 150 40 214 56 C272 74 272 158 214 170 C150 184 56 166 56 110 Z" ${L} stroke-dasharray="6 5"/>
-  <path d="M150 50 C140 90 140 130 150 176" ${L}/><path d="M232 104 C214 100 200 104 190 114 C200 122 214 124 232 118" ${L}/><path d="M196 110 C186 92 176 86 166 88 M196 112 C190 96 186 86 182 74" ${L}/><path d="M232 110 C246 112 254 120 258 132" ${L}/>`,
+    svg: `<path d="M40 110 C40 40 150 20 220 40 C290 60 290 170 220 185 C150 200 40 180 40 110 Z" ${SVG_STROKE}/><path d="M56 110 C56 56 150 40 214 56 C272 74 272 158 214 170 C150 184 56 166 56 110 Z" ${SVG_STROKE} stroke-dasharray="6 5"/>
+  <path d="M150 50 C140 90 140 130 150 176" ${SVG_STROKE}/><path d="M232 104 C214 100 200 104 190 114 C200 122 214 124 232 118" ${SVG_STROKE}/><path d="M196 110 C186 92 176 86 166 88 M196 112 C190 96 186 86 182 74" ${SVG_STROKE}/><path d="M232 110 C246 112 254 120 258 132" ${SVG_STROKE}/>`,
     pts: [
       [40, 110],
       [100, 110],
@@ -75,37 +75,37 @@ const ART = {
   leaves: {
     w: 320,
     h: 240,
-    svg: `<path d="M80 30 C30 60 20 150 80 200 C140 150 130 60 80 30 Z" ${L}/><path d="M80 200 V230 M80 40 V200" ${L}/>${[60, 90, 120, 150, 175].map((y, i) => `<path d="M80 ${y} C66 ${y - 8} 54 ${y - 10} 44 ${y - 6} M80 ${y} C94 ${y - 8} 106 ${y - 10} 116 ${y - 6}" ${L} stroke-width="1.8"/>`).join("")}<path d="M56 80 l6 10 M104 80 l-6 10 M52 120 l8 8 M108 120 l-8 8" ${L} stroke-width="1.2"/>
-  <path d="M230 20 C214 80 214 160 230 228 C246 160 246 80 230 20 Z" ${L}/>${[-10, -5, 0, 5, 10].map((d) => `<path d="M${230 + d} ${30 + Math.abs(d)} C${228 + d * 1.3} 90 ${228 + d * 1.3} 160 ${230 + d} ${218 - Math.abs(d)}" ${L} stroke-width="1.4"/>`).join("")}
+    svg: `<path d="M80 30 C30 60 20 150 80 200 C140 150 130 60 80 30 Z" ${SVG_STROKE}/><path d="M80 200 V230 M80 40 V200" ${SVG_STROKE}/>${[60, 90, 120, 150, 175].map((y, i) => `<path d="M80 ${y} C66 ${y - 8} 54 ${y - 10} 44 ${y - 6} M80 ${y} C94 ${y - 8} 106 ${y - 10} 116 ${y - 6}" ${SVG_STROKE} stroke-width="1.8"/>`).join("")}<path d="M56 80 l6 10 M104 80 l-6 10 M52 120 l8 8 M108 120 l-8 8" ${SVG_STROKE} stroke-width="1.2"/>
+  <path d="M230 20 C214 80 214 160 230 228 C246 160 246 80 230 20 Z" ${SVG_STROKE}/>${[-10, -5, 0, 5, 10].map((d) => `<path d="M${230 + d} ${30 + Math.abs(d)} C${228 + d * 1.3} 90 ${228 + d * 1.3} 160 ${230 + d} ${218 - Math.abs(d)}" ${SVG_STROKE} stroke-width="1.4"/>`).join("")}
   <text x="80" y="18" text-anchor="middle" font-size="16" font-weight="700">A</text><text x="230" y="14" text-anchor="middle" font-size="16" font-weight="700">B</text>`,
     pts: [],
   },
   roots: {
     w: 320,
     h: 240,
-    svg: `<path d="M10 40 H310" ${L}/><path d="M80 20 V40 M70 22 C76 30 80 36 80 40 M90 22 C84 30 80 36 80 40" ${L}/><path d="M80 40 C86 100 84 160 80 225" ${L} stroke-width="4"/><path d="M82 80 C70 86 60 96 52 108 M82 100 C96 106 106 116 112 130 M82 130 C70 138 62 150 58 164 M81 160 C92 168 98 180 100 194" ${L} stroke-width="1.8"/>
-  <path d="M240 20 V40 M228 22 C236 30 240 36 240 40 M252 22 C244 30 240 36 240 40" ${L}/>${[-40, -28, -16, -6, 4, 14, 26, 38].map((d, i) => `<path d="M240 40 C${240 + d * 0.4} 90 ${240 + d} 150 ${240 + d * 1.1} ${180 + (i % 3) * 14}" ${L} stroke-width="1.8"/>`).join("")}
+    svg: `<path d="M10 40 H310" ${SVG_STROKE}/><path d="M80 20 V40 M70 22 C76 30 80 36 80 40 M90 22 C84 30 80 36 80 40" ${SVG_STROKE}/><path d="M80 40 C86 100 84 160 80 225" ${SVG_STROKE} stroke-width="4"/><path d="M82 80 C70 86 60 96 52 108 M82 100 C96 106 106 116 112 130 M82 130 C70 138 62 150 58 164 M81 160 C92 168 98 180 100 194" ${SVG_STROKE} stroke-width="1.8"/>
+  <path d="M240 20 V40 M228 22 C236 30 240 36 240 40 M252 22 C244 30 240 36 240 40" ${SVG_STROKE}/>${[-40, -28, -16, -6, 4, 14, 26, 38].map((d, i) => `<path d="M240 40 C${240 + d * 0.4} 90 ${240 + d} 150 ${240 + d * 1.1} ${180 + (i % 3) * 14}" ${SVG_STROKE} stroke-width="1.8"/>`).join("")}
   <text x="80" y="16" text-anchor="middle" font-size="16" font-weight="700">A</text><text x="240" y="16" text-anchor="middle" font-size="16" font-weight="700">B</text>`,
     pts: [],
   },
   glass: {
     w: 220,
     h: 300,
-    svg: `<path d="M50 150 L65 290 H155 L170 150" ${L}/><path d="M52 170 C80 178 140 162 168 170" ${L} stroke-dasharray="5 4"/><path d="M110 280 C108 200 112 120 110 70" ${L}/><g transform="translate(110 50)">${[0, 60, 120, 180, 240, 300].map((a) => `<ellipse rx="10" ry="22" transform="rotate(${a}) translate(0 -20)" fill="#fff" ${L.replace('fill="none"', "")}/>`).join("")}<circle r="9" fill="#fff" ${L.replace('fill="none"', "")}/></g><path d="M124 250 V130 M118 140 l6 -10 6 10" ${L} stroke-width="2"/><text x="20" y="230" font-size="13">coloured</text><text x="20" y="246" font-size="13">water</text>`,
+    svg: `<path d="M50 150 L65 290 H155 L170 150" ${SVG_STROKE}/><path d="M52 170 C80 178 140 162 168 170" ${SVG_STROKE} stroke-dasharray="5 4"/><path d="M110 280 C108 200 112 120 110 70" ${SVG_STROKE}/><g transform="translate(110 50)">${[0, 60, 120, 180, 240, 300].map((a) => `<ellipse rx="10" ry="22" transform="rotate(${a}) translate(0 -20)" fill="#fff" ${SVG_STROKE.replace('fill="none"', "")}/>`).join("")}<circle r="9" fill="#fff" ${SVG_STROKE.replace('fill="none"', "")}/></g><path d="M124 250 V130 M118 140 l6 -10 6 10" ${SVG_STROKE} stroke-width="2"/><text x="20" y="230" font-size="13">coloured</text><text x="20" y="246" font-size="13">water</text>`,
     pts: [],
   },
   tulsi: {
     w: 300,
     h: 260,
-    svg: `<path d="M90 160 H210 L196 248 H104 Z M84 150 H216 V164 H84 Z" ${L}/><path d="M110 200 c8 -10 16 0 24 -8 M160 210 c10 -8 18 2 26 -6" ${L} stroke-width="1.8"/><path d="M150 150 C150 120 150 90 152 60" ${L}/><path d="M151 120 C130 118 112 128 100 146 M151 100 C172 98 190 110 200 130 M152 80 C134 76 120 84 112 100 M152 66 C164 56 176 58 186 66" ${L}/>
+    svg: `<path d="M90 160 H210 L196 248 H104 Z M84 150 H216 V164 H84 Z" ${SVG_STROKE}/><path d="M110 200 c8 -10 16 0 24 -8 M160 210 c10 -8 18 2 26 -6" ${SVG_STROKE} stroke-width="1.8"/><path d="M150 150 C150 120 150 90 152 60" ${SVG_STROKE}/><path d="M151 120 C130 118 112 128 100 146 M151 100 C172 98 190 110 200 130 M152 80 C134 76 120 84 112 100 M152 66 C164 56 176 58 186 66" ${SVG_STROKE}/>
   ${[[146], [130], [100], [66]]
     .map(
       ([x, y]) =>
-        `<ellipse cx="${x}" cy="${y + 8}" rx="7" ry="12" transform="rotate(20 ${x} ${y + 8})" fill="#fff" ${L.replace('fill="none"', "")}/>`,
+        `<ellipse cx="${x}" cy="${y + 8}" rx="7" ry="12" transform="rotate(20 ${x} ${y + 8})" fill="#fff" ${SVG_STROKE.replace('fill="none"', "")}/>`,
     )
     .join(
       "",
-    )}<path d="M120 252 h60" ${L} stroke-width="4"/><text x="150" y="276" text-anchor="middle" font-size="13">no hole underneath</text><path d="M232 40 l10 14 M246 30 l0 16 M258 42 l-10 12" ${L} stroke-width="1.6"/><text x="250" y="76" text-anchor="middle" font-size="12">dark corner</text>`,
+    )}<path d="M120 252 h60" ${SVG_STROKE} stroke-width="4"/><text x="150" y="276" text-anchor="middle" font-size="13">no hole underneath</text><path d="M232 40 l10 14 M246 30 l0 16 M258 42 l-10 12" ${SVG_STROKE} stroke-width="1.6"/><text x="250" y="76" text-anchor="middle" font-size="12">dark corner</text>`,
     pts: [],
   },
   heli: {
@@ -121,57 +121,57 @@ const ART = {
   sal: {
     w: 120,
     h: 110,
-    svg: `<ellipse cx="40" cy="86" rx="12" ry="10" ${L}/><path d="M48 80 C70 50 96 26 110 14 C96 40 78 66 50 90" ${L}/><path d="M50 84 C72 60 92 40 108 18" ${L} stroke-width="1.2"/>`,
+    svg: `<ellipse cx="40" cy="86" rx="12" ry="10" ${SVG_STROKE}/><path d="M48 80 C70 50 96 26 110 14 C96 40 78 66 50 90" ${SVG_STROKE}/><path d="M50 84 C72 60 92 40 108 18" ${SVG_STROKE} stroke-width="1.2"/>`,
     pts: [],
   },
   aak: {
     w: 120,
     h: 110,
-    svg: `<ellipse cx="60" cy="92" rx="8" ry="11" ${L}/>${[-60, -40, -20, 0, 20, 40, 60].map((a) => `<path d="M60 82 L${60 + Math.sin((a * Math.PI) / 180) * 60} ${82 - Math.cos((a * Math.PI) / 180) * 70}" ${L} stroke-width="1.3"/>`).join("")}`,
+    svg: `<ellipse cx="60" cy="92" rx="8" ry="11" ${SVG_STROKE}/>${[-60, -40, -20, 0, 20, 40, 60].map((a) => `<path d="M60 82 L${60 + Math.sin((a * Math.PI) / 180) * 60} ${82 - Math.cos((a * Math.PI) / 180) * 70}" ${SVG_STROKE} stroke-width="1.3"/>`).join("")}`,
     pts: [],
   },
   burr: {
     w: 120,
     h: 110,
-    svg: `<ellipse cx="60" cy="55" rx="34" ry="22" ${L}/>${Array.from({ length: 14 }, (_, i) => {
+    svg: `<ellipse cx="60" cy="55" rx="34" ry="22" ${SVG_STROKE}/>${Array.from({ length: 14 }, (_, i) => {
       const a = (i / 14) * Math.PI * 2,
         x = 60 + Math.cos(a) * 34,
         y = 55 + Math.sin(a) * 22,
         x2 = 60 + Math.cos(a) * 46,
         y2 = 55 + Math.sin(a) * 32;
-      return `<path d="M${x} ${y} L${x2} ${y2} q4 -2 2 -6" ${L} stroke-width="1.6"/>`;
+      return `<path d="M${x} ${y} L${x2} ${y2} q4 -2 2 -6" ${SVG_STROKE} stroke-width="1.6"/>`;
     }).join("")}`,
     pts: [],
   },
   coconut: {
     w: 120,
     h: 110,
-    svg: `<path d="M10 92 c12 -8 22 8 34 0 s22 8 34 0 s22 8 34 0" ${L}/><ellipse cx="60" cy="58" rx="34" ry="28" ${L}/><circle cx="52" cy="46" r="4" ${L}/><circle cx="66" cy="44" r="4" ${L}/><circle cx="60" cy="56" r="4" ${L}/>`,
+    svg: `<path d="M10 92 c12 -8 22 8 34 0 s22 8 34 0 s22 8 34 0" ${SVG_STROKE}/><ellipse cx="60" cy="58" rx="34" ry="28" ${SVG_STROKE}/><circle cx="52" cy="46" r="4" ${SVG_STROKE}/><circle cx="66" cy="44" r="4" ${SVG_STROKE}/><circle cx="60" cy="56" r="4" ${SVG_STROKE}/>`,
     pts: [],
   },
   balsam: {
     w: 120,
     h: 110,
-    svg: `<path d="M30 80 C40 50 70 40 86 46 C80 66 56 84 30 80 Z" ${L}/><path d="M86 46 C96 30 104 24 112 22 M86 46 C100 44 110 48 116 56" ${L} stroke-width="1.8"/>${[
+    svg: `<path d="M30 80 C40 50 70 40 86 46 C80 66 56 84 30 80 Z" ${SVG_STROKE}/><path d="M86 46 C96 30 104 24 112 22 M86 46 C100 44 110 48 116 56" ${SVG_STROKE} stroke-width="1.8"/>${[
       [14],
       [70],
       [40],
       [22],
     ]
-      .map(([x, y]) => `<circle cx="${x}" cy="${y}" r="5" ${L}/>`)
-      .join("")}<path d="M62 30 l-4 -6 M94 66 l6 6 M36 54 l-8 -4" ${L} stroke-width="1.4"/>`,
+      .map(([x, y]) => `<circle cx="${x}" cy="${y}" r="5" ${SVG_STROKE}/>`)
+      .join("")}<path d="M62 30 l-4 -6 M94 66 l6 6 M36 54 l-8 -4" ${SVG_STROKE} stroke-width="1.4"/>`,
     pts: [],
   },
   mango: {
     w: 120,
     h: 110,
-    svg: `<path d="M40 30 C80 10 110 50 96 80 C84 104 44 104 30 80 C20 62 22 40 40 30 Z" ${L}/><path d="M56 26 C58 16 66 10 74 8 M60 22 C70 14 84 14 92 20 C82 26 70 26 60 22 Z" ${L}/>`,
+    svg: `<path d="M40 30 C80 10 110 50 96 80 C84 104 44 104 30 80 C20 62 22 40 40 30 Z" ${SVG_STROKE}/><path d="M56 26 C58 16 66 10 74 8 M60 22 C70 14 84 14 92 20 C82 26 70 26 60 22 Z" ${SVG_STROKE}/>`,
     pts: [],
   },
   medal: {
     w: 200,
     h: 220,
-    svg: `<path d="M70 120 L50 210 L80 190 L100 215 L110 130 M130 120 L150 210 L120 190 L100 215" ${L}/><circle cx="100" cy="90" r="70" ${L}/><circle cx="100" cy="90" r="58" ${L} stroke-width="1.5"/><path d="M100 140 C100 110 100 80 102 52 M101 110 C86 104 76 92 72 78 C88 78 98 90 101 110 Z M101 88 C116 82 126 70 128 56 C112 58 102 70 101 88 Z" ${L}/>`,
+    svg: `<path d="M70 120 L50 210 L80 190 L100 215 L110 130 M130 120 L150 210 L120 190 L100 215" ${SVG_STROKE}/><circle cx="100" cy="90" r="70" ${SVG_STROKE}/><circle cx="100" cy="90" r="58" ${SVG_STROKE} stroke-width="1.5"/><path d="M100 140 C100 110 100 80 102 52 M101 110 C86 104 76 92 72 78 C88 78 98 90 101 110 Z M101 88 C116 82 126 70 128 56 C112 58 102 70 101 88 Z" ${SVG_STROKE}/>`,
     pts: [],
   },
 };
@@ -217,7 +217,7 @@ function bookBasicBlock(b, seed, i) {
         .map((w) => `<span>${esc(w)}</span>`)
         .join(
           "",
-        )}</div>${b.labels.map((_, j) => `<div class="wline">${j + 1}. </div>`).join("")}${b.jobs ? `<div class="winst" style="margin-top:6px">Now write what each part does:</div>${b.labels.map((_, j) => `<div class="wline">${j + 1} does this: </div>`).join("")}` : ""}</div></div>`;
+        )}</div>${b.labels.map((_, j) => `<div class="wline">${j + 1}. </div>`).join("")}${b.jobs ? `<div class="winst mt6">Now write what each part does:</div>${b.labels.map((_, j) => `<div class="wline">${j + 1} does this: </div>`).join("")}` : ""}</div></div>`;
     k = b.labels.map((l, j) => `${j + 1}. ${esc(l)}${b.jobs ? " — " + esc(b.jobs[j]) : ""}`).join("<br>");
     return { h, k };
   }
@@ -271,7 +271,7 @@ function bookBasicBlock(b, seed, i) {
   if (b.type === "cutout") {
     h =
       H(b.title, b.inst) +
-      `<div class="wcutout"><div>${artSvg(b.art, "wtmpl")}</div><div><ol>${b.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol>${b.table ? `<table class="wtab">${`<tr>${b.table.cols.map((c) => `<th>${esc(c)}</th>`).join("")}</tr>`}${b.table.rows.map((rw) => `<tr>${b.table.cols.map((_, j) => `<td>${rw[j] != null ? esc(rw[j]) : ""}</td>`).join("")}</tr>`).join("")}</table>` : ""}${b.after ? `<div class="winst" style="margin-top:6px">${esc(b.after)}</div>${lines(3)}` : ""}</div></div>`;
+      `<div class="wcutout"><div>${artSvg(b.art, "wtmpl")}</div><div><ol>${b.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol>${b.table ? `<table class="wtab">${`<tr>${b.table.cols.map((c) => `<th>${esc(c)}</th>`).join("")}</tr>`}${b.table.rows.map((rw) => `<tr>${b.table.cols.map((_, j) => `<td>${rw[j] != null ? esc(rw[j]) : ""}</td>`).join("")}</tr>`).join("")}</table>` : ""}${b.after ? `<div class="winst mt6">${esc(b.after)}</div>${lines(3)}` : ""}</div></div>`;
     k = esc(b.ans || "");
     return { h, k };
   }
@@ -1137,10 +1137,10 @@ function printSheetsOwn(u) {
   const row = (x) =>
     `<div class="pws"><div style="min-width:0;flex:1"><span class="eyebrow">${PLN[x.w.lvl || "core"]} · ${esc(WSKIND[x.w.kind] || "Worksheet")} · ${x.w.pages ? `${x.w.pages.filter((p) => p.station).length} stations · ${esc(x.w.hours || "")}` : `≈ ${x.w.mins || 20} min`}</span><b>${esc(x.w.title)}</b><p class="xs muted">${esc(x.w.blurb || "")}</p></div><div class="col" style="gap:6px"><button class="btn sm accent" data-act="wsprint" data-k="${u.k}" data-i="${x.i}">Print</button><button class="link xs" data-act="wsview" data-k="${u.k}" data-i="${x.i}">Preview</button></div></div>`;
   const topics = [...new Set(R.map((x) => x.w.topic))].map((t) => TWN()[t]?.title).filter(Boolean);
-  return `<section class="card"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">🖨️ Printable worksheets</b><span class="pill">${R.length}</span></div><p class="xs muted">About ${esc(topics.join(", "))}. No textbook needed. Each prints on A4 with an answer page for you.</p>
+  return `<section class="card"><div class="sech"><b class="h5">🖨️ Printable worksheets</b><span class="pill">${R.length}</span></div><p class="xs muted">About ${esc(topics.join(", "))}. No textbook needed. Each prints on A4 with an answer page for you.</p>
    ${mine.length ? `<span class="eyebrow">Best for ${esc(S.child || "your child")} · ${PLN[p.lvl]} · ${PDN[p.depth]}</span>${mine.map(row).join("")}` : ""}
    ${rest.length ? `<details${mine.length ? "" : " open"}><summary class="sm"><b>Other levels (${rest.length})</b></summary>${rest.map(row).join("")}</details>` : ""}
-   ${C.length ? `<span class="eyebrow" style="margin-top:6px">Also from official sources</span>${C.map((c) => `<div class="pws"><div style="min-width:0;flex:1"><b>${esc(c.title)}</b><p class="xs muted">${esc(c.src)}</p></div><a class="btn sm soft" href="${esc(c.url)}" target="_blank" rel="noopener">Open</a></div>`).join("")}` : ""}</section>`;
+   ${C.length ? `<span class="eyebrow mt6">Also from official sources</span>${C.map((c) => `<div class="pws"><div style="min-width:0;flex:1"><b>${esc(c.title)}</b><p class="xs muted">${esc(c.src)}</p></div><a class="btn sm soft" href="${esc(c.url)}" target="_blank" rel="noopener">Open</a></div>`).join("")}` : ""}</section>`;
 }
 function printSheets(u) {
   const h = printSheetsOwn(u),
@@ -1150,7 +1150,7 @@ function printSheets(u) {
     `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><div style="min-width:0"><span class="eyebrow">${esc(CURT[r.type] || r.type)} · ${esc(r.source)} · ages ${r.ages[0]}–${r.ages[1]}${r.access !== "free" ? " · free account" : ""}</span><b>${esc(r.title)}</b><p class="xs">${esc(r.desc)}</p>${r.how ? `<p class="xs muted">${esc(r.how)}</p>` : ""}</div><span class="xs">open ↗</span></a>`;
   return (
     h +
-    `<section class="card" style="gap:0"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">⭐ The best from elsewhere</b><span class="pill">${R.length}</span></div><p class="xs muted" style="margin-bottom:6px">Free worksheets, hands-on activities, stories and lessons we checked and picked for this topic, best fit for ${esc(S.child || "your child")}'s age first.</p>${R.slice(0, 6).map(row).join("")}${R.length > 6 ? `<details><summary class="sm"><b>${R.length - 6} more</b></summary>${R.slice(6).map(row).join("")}</details>` : ""}</section>`
+    `<section class="card" style="gap:0"><div class="sech"><b class="h5">⭐ The best from elsewhere</b><span class="pill">${R.length}</span></div><p class="xs muted" style="margin-bottom:6px">Free worksheets, hands-on activities, stories and lessons we checked and picked for this topic, best fit for ${esc(S.child || "your child")}'s age first.</p>${R.slice(0, 6).map(row).join("")}${R.length > 6 ? `<details><summary class="sm"><b>${R.length - 6} more</b></summary>${R.slice(6).map(row).join("")}</details>` : ""}</section>`
   );
 }
 function wsViewSheet() {
@@ -1171,16 +1171,16 @@ function wfGuideView() {
     tbl = (rows, h) =>
       `<table class="wft">${h ? `<tr>${h.map((x) => `<th>${x}</th>`).join("")}</tr>` : ""}${rows.map((r) => `<tr>${r.map((x) => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table>`;
   return `<p>${esc(G.intro || "")}</p>
-   <section class="card"><b style="font:600 var(--fs-5) var(--display)">What matters most</b>${(G.principles || []).map(([t, d]) => `<p class="sm"><b>${esc(t)}.</b> ${esc(d)}</p>`).join("")}</section>
-   <section class="card"><b style="font:600 var(--fs-5) var(--display)">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Plan settings → Day times.</p></section>
-   <section class="card"><b style="font:600 var(--fs-5) var(--display)">The week's arts rhythm</b>${tbl(G.week || [])}</section>
-   <section class="card"><b style="font:600 var(--fs-5) var(--display)">The year and its festivals</b>${tbl(G.year || [])}<p class="xs muted">Keep a seasonal table: a cloth in the season's colour, and what you find outside.</p></section>
-   <section class="card"><b style="font:600 var(--fs-5) var(--display)">What to get</b>${tbl(G.materials || [])}</section>
-   <section class="card"><b style="font:600 var(--fs-5) var(--display)">Books</b><p class="sm"><b>For you:</b></p><ul class="sm">${(G.books?.parent || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>${[1, 2, 3, 4, 5].map((c) => `<details${c === cls ? " open" : ""}><summary class="sm"><b>Class ${c}</b>${c === cls ? " (your class)" : ""}</summary><ul class="sm">${(G.books?.[c] || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></details>`).join("")}</section>
+   <section class="card"><b class="h5">What matters most</b>${(G.principles || []).map(([t, d]) => `<p class="sm"><b>${esc(t)}.</b> ${esc(d)}</p>`).join("")}</section>
+   <section class="card"><b class="h5">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Plan settings → Day times.</p></section>
+   <section class="card"><b class="h5">The week's arts rhythm</b>${tbl(G.week || [])}</section>
+   <section class="card"><b class="h5">The year and its festivals</b>${tbl(G.year || [])}<p class="xs muted">Keep a seasonal table: a cloth in the season's colour, and what you find outside.</p></section>
+   <section class="card"><b class="h5">What to get</b>${tbl(G.materials || [])}</section>
+   <section class="card"><b class="h5">Books</b><p class="sm"><b>For you:</b></p><ul class="sm">${(G.books?.parent || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>${[1, 2, 3, 4, 5].map((c) => `<details${c === cls ? " open" : ""}><summary class="sm"><b>Class ${c}</b>${c === cls ? " (your class)" : ""}</summary><ul class="sm">${(G.books?.[c] || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></details>`).join("")}</section>
    <p class="xs muted">${esc(G.schools || "")}</p><p class="xs muted">This plan is written in the spirit of Waldorf education for Indian families. It is not an accredited Steiner curriculum; a trained Waldorf teacher near you can help you go deeper.</p>`;
 }
 const WKID = (id) => /^(e|a|exp|act)\d+$|^proj$|^st\d+_\d+$/.test(id);
-const WK = () => S.wk || (S.wk = {});
+const weekSt = () => S.wk || (S.wk = {});
 function fixWork() {
   if (S.work && !Array.isArray(S.work)) {
     const ph = [],
@@ -1194,7 +1194,7 @@ function fixWork() {
   }
 }
 const wkOf = (k, id) => {
-  const w = WK()[k + "|" + id];
+  const w = weekSt()[k + "|" + id];
   if (w) return w;
   const t = S.tasks[k]?.[id];
   return t ? { st: "done", done: t } : null;
@@ -1279,7 +1279,7 @@ function ansHtml_(it, v, pad) {
   return `<p class="sm">${esc(JSON.stringify(v))}</p>`;
 }
 function wsQuestion(k, id, it, qn) {
-  const v = A(k, id);
+  const v = answerOf(k, id);
   let b = "";
   if (it.t === "mcq")
     b = `<div class="col" style="gap:8px">${it.opts.map((o, oi) => `<button class="opt ${v === undefined ? "" : oi === it.a ? "right" : oi === v ? "wrong" : ""}" data-act="mcq" data-k="${k}" data-id="${id}" data-o="${oi}" data-a="${it.a}" ${v !== undefined ? "disabled" : ""}>${esc(o)}</button>`).join("")}</div>${v !== undefined ? `<div class="row sm"><span>${v === it.a ? "Right." : "The green one is our answer. Talk about why."}</span><button class="link sm" data-act="mcqreset" data-k="${k}" data-id="${id}">Try again</button></div>` : ""}`;
@@ -1343,7 +1343,7 @@ function wsItem(k, id, it, qn) {
       );
     return h;
   }
-  const v = A(k, id) || { fs: [] },
+  const v = answerOf(k, id) || { fs: [] },
     fs = v.fs || [],
     sel = ui.fsel?.[k + id] || it.options[0],
     res = v.checked ? forcesCheck(it, fs) : null;
@@ -1372,7 +1372,7 @@ function wsSheet() {
   setSheetTitle((pw ? pw.title : "Worksheet") + " · " + u.title);
   let qn = W.slice(0, si).reduce((a, s) => a + s[1].length, 0);
   const [title, items] = W[si];
-  return `<div class="segs ${SC(u.subj)}">${W.map((_, i) => `<i class="${i < si ? "ok" : i === si ? "on" : ""}"></i>`).join("")}</div><section class="card"><span class="eyebrow">${pw ? TIER[pw.tier] + " · " : ""}Section ${si + 1} of ${W.length}</span><h2 style="font-size:var(--fs-6)">${esc(title.replace(/^[A-Z]\. /, ""))}</h2>${items.map((it, ii) => wsItem(k, si + "-" + ii, it, ++qn)).join("")}</section>
+  return `<div class="segs ${subjClass(u.subj)}">${W.map((_, i) => `<i class="${i < si ? "ok" : i === si ? "on" : ""}"></i>`).join("")}</div><section class="card"><span class="eyebrow">${pw ? TIER[pw.tier] + " · " : ""}Section ${si + 1} of ${W.length}</span><h2 class="fs6">${esc(title.replace(/^[A-Z]\. /, ""))}</h2>${items.map((it, ii) => wsItem(k, si + "-" + ii, it, ++qn)).join("")}</section>
    <div class="pager"><button class="btn line" data-act="wsec" data-k="${k}" data-d="-1" ${si === 0 ? "disabled" : ""}>${icon("back")}Back</button>${si < W.length - 1 ? `<button class="btn accent wide" data-act="wsec" data-k="${k}" data-d="1">Next section${icon("next")}</button>` : `<button class="btn accent wide" data-act="wsdone" data-k="${k}">${taskDone(k, "ws") ? "Finished ✓" : "Finish the worksheet"}</button>`}</div><p class="xs muted">Many questions have no single right answer. The thinking is the point.</p>`;
 }
 function wsView() {
@@ -1380,7 +1380,7 @@ function wsView() {
   const k = ui.sheet.w ? ui.sheet.k + "#" + ui.sheet.w : "";
   if (!k) return h;
   const st = ui.aiws?.k === k ? ui.aiws : null;
-  const box = `<section class="card"><span class="eyebrow">Did it on paper?</span><p class="sm">Take a photo of the printed sheet and DeepKids AI will check it against our answers, question by question. ${SAMPLE ? "" : "(Needs DeepKids Plus.)"}</p>${SAMPLE ? `<label class="btn sm soft" style="justify-self:start">📷 Check a photo of the paper sheet (uses AI)<input type="file" accept="image/*" capture="environment" multiple id="wsPhoto" data-k="${k}" hidden></label>` : ""}
+  const box = `<section class="card"><span class="eyebrow">Did it on paper?</span><p class="sm">Take a photo of the printed sheet and DeepKids AI will check it against our answers, question by question. ${SAMPLE ? "" : "(Needs DeepKids Plus.)"}</p>${SAMPLE ? `<label class="btn sm soft self-start">📷 Check a photo of the paper sheet (uses AI)<input type="file" accept="image/*" capture="environment" multiple id="wsPhoto" data-k="${k}" hidden></label>` : ""}
    ${st?.busy ? `<p class="sm">Checking…</p>` : ""}${st?.err ? `<p class="sm note">${esc(st.err)}</p>` : ""}
    ${st?.res ? `<div class="col" style="gap:4px">${(st.res.results || []).map((r) => `<div class="sm">${r.verdict === "right" ? "✓" : r.verdict === "partly" ? "◐" : r.verdict === "not yet" ? "✕" : "?"} <b>Q${r.n}</b> ${esc(r.note || "")}</div>`).join("")}<p class="sm"><b>${esc(st.res.summary || "")}</b></p><p class="xs muted">Checked by AI: it can misread handwriting, so look over anything surprising.</p></div>` : ""}</section>`;
   return h + box;
@@ -1439,7 +1439,7 @@ function initPads() {
         lsSet(key, s.toDataURL("image/jpeg", 0.7));
       } catch (e) {}
       const [k, id] = c.dataset.pad.split(/\|(?=[^|]*$)/);
-      if (!A(k, id)) {
+      if (!answerOf(k, id)) {
         setA(k, id, today);
         save();
       }

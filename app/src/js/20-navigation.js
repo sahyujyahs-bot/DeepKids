@@ -67,7 +67,7 @@ function segBar(k) {
   return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
 const pageHead = (t, extra = "") =>
-  `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:var(--fs-7)">${t}</h1>${extra}</div>`;
+  `<section class="sec mt8"><div class="sech"><h1 style="font-size:var(--fs-7)">${t}</h1>${extra}</div>`;
 const navSnap = () => ({
   tab,
   lt: ui.lt,
@@ -147,8 +147,8 @@ function settingsView() {
     "you",
     "You and your child",
     `${pname() ? esc(pname()) : "Your profile"} · ${esc(S.child || "child")}, ${S.age || ""}`,
-    `<section class="card r-you tint"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("", "happy", 'width="48" height="48"')}<div><b style="font:600 var(--fs-5) var(--display)">${pname() ? esc(pname()) : "Your profile"}</b><p class="xs muted">${S.parent?.saved || S.parent?.name ? `Wakes ${clock(hm((S.alarm || {}).time || "06:30"))} · prep ${clock(hm(D().prepAt))} and ${clock(hm(D().eveAt))}` : "Not set up yet"}</p></div></div><button class="btn soft sm" data-act="parent" style="justify-self:start">Edit my profile</button></section>
-    <div class="field"><label for="sName">Child's name</label><input class="inp" id="sName" maxlength="40" value="${esc(S.child)}"></div><div class="field"><label for="sStart">Plan starts on</label><input class="inp" id="sStart" type="date" value="${S.start}"></div><button class="btn sm" data-act="saveset" style="justify-self:start">Save</button>`,
+    `<section class="card r-you tint"><div class="row" style="flex-wrap:nowrap;gap:12px">${youBlob("", "happy", 'width="48" height="48"')}<div><b class="h5">${pname() ? esc(pname()) : "Your profile"}</b><p class="xs muted">${S.parent?.saved || S.parent?.name ? `Wakes ${clock(toMins((S.alarm || {}).time || "06:30"))} · prep ${clock(toMins(dayDefaults().prepAt))} and ${clock(toMins(dayDefaults().eveAt))}` : "Not set up yet"}</p></div></div><button class="btn soft sm self-start" data-act="parent">Edit my profile</button></section>
+    <div class="field"><label for="sName">Child's name</label><input class="inp" id="sName" maxlength="40" value="${esc(S.child)}"></div><div class="field"><label for="sStart">Plan starts on</label><input class="inp" id="sStart" type="date" value="${S.start}"></div><button class="btn sm self-start" data-act="saveset">Save</button>`,
   )}
   ${grp(
     "learn",
@@ -158,8 +158,8 @@ function settingsView() {
       .map(([k, [n]]) => `<option value="${k}" ${modeOf() === k ? "selected" : ""}>${n}</option>`)
       .join(
         "",
-      )}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam ? "checked" : ""}><span><b style="font:600 var(--fs-4) var(--display)">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label><button class="btn sm" data-act="saveset" style="justify-self:start">Save</button>
-    <span class="eyebrow" style="margin-top:8px">Syllabus</span><p class="sm">${S.board === "none" ? "DeepKids Plus only" : S.board === "combined" ? "NCERT, Cambridge and NIOS" : BOARDS[S.board]}${S.plus && S.board !== "none" ? " + DeepKids Plus" : ""} · ${S.subjects.map((s) => SUBJ[s]).join(", ")}</p><button class="btn line sm" data-act="redo" style="justify-self:start">Change syllabus or subjects</button>`,
+      )}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam ? "checked" : ""}><span><b class="h4">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label><button class="btn sm self-start" data-act="saveset">Save</button>
+    <span class="eyebrow mt8">Syllabus</span><p class="sm">${S.board === "none" ? "DeepKids Plus only" : S.board === "combined" ? "NCERT, Cambridge and NIOS" : BOARDS[S.board]}${S.plus && S.board !== "none" ? " + DeepKids Plus" : ""} · ${S.subjects.map((s) => SUBJ[s]).join(", ")}</p><button class="btn line sm self-start" data-act="redo">Change syllabus or subjects</button>`,
   )}
   ${grp(
     "guide",
@@ -167,10 +167,10 @@ function settingsView() {
     S.guide?.on === false ? "Off" : "On: each screen shows its tips the first time",
     `<label class="zrow"><input type="checkbox" data-act="guidetoggle" ${S.guide?.on === false ? "" : "checked"}><span>Show tips on each screen</span></label><p class="xs muted">Turning it on again shows every screen's tips once more. The ? at the top shows the tips for the screen you're on at any time.</p>`,
   )}
-  ${grp("day", "Plan settings", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Plan settings.</p><button class="btn soft sm" data-act="gotab" data-tab="week" data-seg="family" style="justify-self:start">Open Plan settings</button>`)}
+  ${grp("day", "Plan settings", `Lessons from ${clock(toMins(dayDefaults().start))} · lunch ${clock(toMins(dayDefaults().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Plan settings.</p><button class="btn soft sm self-start" data-act="gotab" data-tab="week" data-seg="family">Open Plan settings</button>`)}
   ${grp("ai", "AI features", fxAIOn() ? "Unlocked" : "Locked", fxAIRow())}
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
-  ${grp("rem", "Reminders", R.time ? `Daily at ${clock(hm(R.time))}` : "Free-time nudges on Today", remView())}
+  ${grp("rem", "Reminders", R.time ? `Daily at ${clock(toMins(R.time))}` : "Free-time nudges on Today", remView())}
   ${grp("data", "Your data", "Save a copy, or bring one in from another device", dataBox())}
   ${grp(
     "delete",
@@ -217,9 +217,9 @@ function renderSheetBody(top) {
   sheet.className =
     "sheet" +
     (m === "player"
-      ? " colored " + SC(ui.sheet.s)
+      ? " colored " + subjClass(ui.sheet.s)
       : m === "chapter" || m === "ws"
-        ? " " + SC(unitBy(ui.sheet.k)?.subj || "")
+        ? " " + subjClass(unitBy(ui.sheet.k)?.subj || "")
         : "");
   const V = {
     more: moreView,
@@ -263,7 +263,7 @@ function renderSheetBody(top) {
   const h = (V[m] || settingsView)();
   updBack();
   const kept = top ? null : keepInputs(b);
-  b.replaceChildren(el(h));
+  b.replaceChildren(htmlToEl(h));
   if (kept) restoreInputs(b, kept);
   sheet.scrollTop = top ? 0 : y;
   requestAnimationFrame(initPads);
@@ -326,14 +326,14 @@ function renderMain() {
     document.getElementById("hello").innerHTML =
       `${youBlob("bl bob")}<div><b>Welcome</b><span>DeepKids home planner</span></div>`;
     m.replaceChildren(
-      el(`<div class="wrap">${googleFamily() ? `<p class="note">Opening your family…</p>` : loginView()}</div>`),
+      htmlToEl(`<div class="wrap">${googleFamily() ? `<p class="note">Opening your family…</p>` : loginView()}</div>`),
     );
     if (sheet.open) sheet.close();
     return;
   }
   document.getElementById("snd").hidden = false;
   if (!S.setup && !ob && ui.acctLoading) {
-    m.replaceChildren(el(`<div class="wrap"><p class="muted acctload">Opening your family's plan…</p></div>`));
+    m.replaceChildren(htmlToEl(`<div class="wrap"><p class="muted acctload">Opening your family's plan…</p></div>`));
     return;
   }
   if (!S.setup && !ob) return startOnboarding(0);
@@ -358,7 +358,7 @@ function renderMain() {
     kept = ui.lastView === vk ? keepInputs(m) : null;
   ui.lastView = vk;
   m.replaceChildren(
-    el(
+    htmlToEl(
       `<div class="wrap">${banner}${ob ? viewOnboarding() : { today: viewToday, week: viewPlanner, tasks: viewTasks, library: viewLibrary, journey: viewJourneyTabs }[tab]()}</div>`,
     ),
   );

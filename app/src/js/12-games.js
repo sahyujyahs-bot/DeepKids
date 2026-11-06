@@ -5,7 +5,7 @@ const gamesAll = () =>
     .sort((a, b) => a.order - b.order)
     .flatMap((u) => (u.games || []).map((g) => ({ ...g, uid: u.id, ut: u.title })));
 const gameRow = (g) =>
-  `<button class="menurow" data-act="${g.quick ? "qgame" : "gameopen"}" data-u="${esc(g.uid)}" data-g="${esc(g.id)}"><span style="font-size:var(--fs-6)">🎲</span><span><b>${esc(g.t)}</b><br><span class="xs muted">${esc(g.pl)}${g.mins ? " · " + g.mins + " min" : ""} · ${esc(g.ut)}</span></span>${icon("next")}</button>`;
+  `<button class="menurow" data-act="${g.quick ? "qgame" : "gameopen"}" data-u="${esc(g.uid)}" data-g="${esc(g.id)}"><span class="fs6">🎲</span><span><b>${esc(g.t)}</b><br><span class="xs muted">${esc(g.pl)}${g.mins ? " · " + g.mins + " min" : ""} · ${esc(g.ut)}</span></span>${icon("next")}</button>`;
 const PUZZLES = [
   ["memory", "🃏", "Memory match", "Flip two cards: find each science word and its meaning."],
   ["words", "🔤", "Word search", "Find the science words hidden in the grid."],

@@ -541,10 +541,10 @@ const ACT = {
     ui.phelp = null;
     S.alarm = { on: document.getElementById("pAlarm").checked, time: g("pWake") || "06:30" };
     S.day = {
-      ...D(),
-      prepAt: g("pPrep") || D().prepAt,
-      start: g("pStart") || D().start,
-      eveAt: g("pEve") || D().eveAt,
+      ...dayDefaults(),
+      prepAt: g("pPrep") || dayDefaults().prepAt,
+      start: g("pStart") || dayDefaults().start,
+      eveAt: g("pEve") || dayDefaults().eveAt,
     };
     sfx("win");
     S.updatedAt = Date.now();
@@ -898,7 +898,7 @@ const ACT = {
     const id = b.dataset.id,
       to = b.dataset.to,
       key = k + "|" + id,
-      W = WK(),
+      W = weekSt(),
       w = W[key] || {};
     w.title = b.dataset.t || w.title;
     const untask = () => {
@@ -1536,7 +1536,7 @@ const ACT = {
     }, 2500);
     sfx("ok");
     toast(
-      `${b.dataset.w === "first" ? "Put first" : "Added at the end"}: no. ${n} in the ${ty === "les" ? SUBJ[b.dataset.s] : WT[ty][0].toLowerCase()} queue. See Plan → Queue.`,
+      `${b.dataset.w === "first" ? "Put first" : "Added at the end"}: no. ${n} in the ${ty === "les" ? SUBJ[b.dataset.s] : WORK_TYPES[ty][0].toLowerCase()} queue. See Plan → Queue.`,
       4500,
     );
     render();
@@ -1595,9 +1595,9 @@ const ACT = {
       S.extra = { ...(S.extra || {}), [s]: ((S.extra || {})[s] || []).filter((x) => x !== key) };
       S.next = { ...(S.next || {}), [s]: ((S.next || {})[s] || []).filter((x) => x !== key) };
     } else {
-      const W = WK();
+      const W = weekSt();
       W[key] = { ...(W[key] || {}), st: "skip" };
-      WQ()[ty] = (WQ()[ty] || []).filter((x) => x !== r);
+      workQueue()[ty] = (workQueue()[ty] || []).filter((x) => x !== r);
     }
     sfx("flip");
     commit();
@@ -1658,7 +1658,7 @@ const ACT = {
   },
   ist(b, e, a, k) {
     const key = k + "|" + b.dataset.id,
-      W = WK(),
+      W = weekSt(),
       w = W[key] || {},
       to = b.dataset.to;
     if (to === "none") {
@@ -1982,7 +1982,7 @@ const ACT = {
     const u = dailyUnit();
     if (!u) return;
     const word = u.c.x.words[dayNo % u.c.x.words.length],
-      g = G();
+      g = gamesToday();
     g.cur = g.cur || "";
     const key = b.dataset.key;
     if (g.g.includes(word) || g.g.length >= 6) return;
@@ -2011,15 +2011,15 @@ const ACT = {
   tf(b, e, a, k) {
     const u = dailyUnit(),
       q = u.c.x.quiz[+b.dataset.i];
-    G().tf[b.dataset.i] = +b.dataset.v;
+    gamesToday().tf[b.dataset.i] = +b.dataset.v;
     sfx((+b.dataset.v === 1) === q[1] ? "ok" : "no");
-    if (Object.keys(G().tf).length === u.c.x.quiz.length) setTimeout(() => sfx("win"), 300);
+    if (Object.keys(gamesToday().tf).length === u.c.x.quiz.length) setTimeout(() => sfx("win"), 300);
     commit();
   },
   odd(b, e, a, k) {
     const u = dailyUnit(),
       o = u.c.x.odd[dayNo % u.c.x.odd.length],
-      g = G();
+      g = gamesToday();
     if (!g.odd) {
       g.odd = b.dataset.w;
       sfx(g.odd === o[1] ? "win" : "no");
@@ -2039,7 +2039,7 @@ const ACT = {
   },
   checkfill(b, e, a, k) {
     const ans = JSON.parse(b.dataset.a),
-      v = A(k, b.dataset.id) || [],
+      v = answerOf(k, b.dataset.id) || [],
       n = (s) =>
         String(s || "")
           .trim()
@@ -2056,7 +2056,7 @@ const ACT = {
     toast(b.dataset.a);
   },
   fadd(b, e, a, k) {
-    const v = A(k, b.dataset.id) || { fs: [] },
+    const v = answerOf(k, b.dataset.id) || { fs: [] },
       sel =
         (ui.fsel || {})[k + b.dataset.id] || document.querySelector(`[data-fsel][data-fid="${b.dataset.id}"]`)?.value;
     if (sel) {
@@ -2066,18 +2066,18 @@ const ACT = {
     }
   },
   fdel(b, e, a, k) {
-    const v = A(k, b.dataset.id) || { fs: [] };
+    const v = answerOf(k, b.dataset.id) || { fs: [] };
     setA(k, b.dataset.id, { fs: (v.fs || []).filter((_, i) => i !== +b.dataset.i), checked: false });
     commit();
   },
   fcheck(b, e, a, k) {
-    const v = A(k, b.dataset.id) || { fs: [] };
+    const v = answerOf(k, b.dataset.id) || { fs: [] };
     setA(k, b.dataset.id, { ...v, checked: true });
     sfx("flip");
     commit();
   },
   fshow(b, e, a, k) {
-    const v = A(k, b.dataset.id) || { fs: [] };
+    const v = answerOf(k, b.dataset.id) || { fs: [] };
     setA(k, b.dataset.id, { ...v, shown: true });
     commit();
   },
@@ -2085,7 +2085,7 @@ const ACT = {
     aiCheckDraw(k, b.dataset.id);
   },
   drew(b, e, a, k) {
-    if (A(k, b.dataset.id)) delete S.ans[k][b.dataset.id];
+    if (answerOf(k, b.dataset.id)) delete S.ans[k][b.dataset.id];
     else {
       setA(k, b.dataset.id, today);
       sfx("ok");
@@ -2101,7 +2101,7 @@ const ACT = {
   bucket(b, e, a, k) {
     const sel = ui.sel[k + b.dataset.id];
     if (sel === undefined) return;
-    const v = { ...(A(k, b.dataset.id) || {}) };
+    const v = { ...(answerOf(k, b.dataset.id) || {}) };
     v[sel] = +b.dataset.c;
     setA(k, b.dataset.id, v);
     ui.sel[k + b.dataset.id] = undefined;
@@ -2109,7 +2109,7 @@ const ACT = {
     commit();
   },
   untok(b, e, a, k) {
-    const v = { ...(A(k, b.dataset.id) || {}) };
+    const v = { ...(answerOf(k, b.dataset.id) || {}) };
     delete v[b.dataset.x];
     setA(k, b.dataset.id, v);
     sfx("flip");
@@ -2127,7 +2127,7 @@ const ACT = {
       toast("Tap a word on the left first");
       return;
     }
-    const v = { ...(A(k, b.dataset.id) || {}) };
+    const v = { ...(answerOf(k, b.dataset.id) || {}) };
     Object.keys(v).forEach((x) => {
       if (v[x] === b.dataset.x) delete v[x];
     });
@@ -2176,11 +2176,11 @@ ACT.plv = ACT.pdep;
 const pick = document.getElementById("pick");
 function openPicker() {
   document.getElementById("pickList").replaceChildren(
-    el(
+    htmlToEl(
       everyUnit()
         .map(
           (u) =>
-            `<button class="unit ${SC(u.subj)}" style="grid-template-columns:44px 1fr" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · Level ${u.level}</span></span></button>`,
+            `<button class="unit ${subjClass(u.subj)}" style="grid-template-columns:44px 1fr" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · Level ${u.level}</span></span></button>`,
         )
         .join(""),
     ),

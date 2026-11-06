@@ -516,11 +516,11 @@ document.addEventListener("input", (e) => {
   const [k, id, sub] = t.dataset.ans.split("|");
   if (sub === undefined) setA(k, id, t.value);
   else if (sub.includes(".")) {
-    const v = { ...(A(k, id) || {}) };
+    const v = { ...(answerOf(k, id) || {}) };
     v[sub] = t.value;
     setA(k, id, v);
   } else {
-    const v = [...(A(k, id) || [])];
+    const v = [...(answerOf(k, id) || [])];
     v[+sub] = t.value;
     setA(k, id, v);
   }
@@ -534,7 +534,7 @@ document.addEventListener("change", (e) => {
       v = t.type === "time" ? t.value : +t.value,
       sc = ui.dts || "all";
     if (!v && t.type === "time") return;
-    if (sc === "all") S.day = { ...D(), [f]: v };
+    if (sc === "all") S.day = { ...dayDefaults(), [f]: v };
     else if (sc[0] === "w") {
       const w = sc.slice(1);
       S.dayW = { ...(S.dayW || {}), [w]: { ...((S.dayW || {})[w] || {}), [f]: v } };
@@ -569,7 +569,7 @@ document.addEventListener("change", (e) => {
     return;
   }
   if (t.dataset.dayset) {
-    S.day = { ...D(), [t.dataset.dayset]: t.type === "time" ? t.value : +t.value };
+    S.day = { ...dayDefaults(), [t.dataset.dayset]: t.type === "time" ? t.value : +t.value };
     sfx("tap");
     commit();
     return;

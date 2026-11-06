@@ -314,7 +314,7 @@ function sciMerge() {
 function dataBox() {
   const P = ui.dx;
   return `<p class="xs muted">One file with everything: your plan, progress, answers, routines and photos. Use it to keep a backup, or to move to the DeepKids website.</p>
-  <div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn soft sm" data-act="dexport" ${P ? "disabled" : ""}>${P?.what === "out" ? esc(P.msg) : "Save a copy"}</button><label class="btn line sm" style="cursor:pointer">${P?.what === "in" ? esc(P.msg) : "Bring in a copy"}<input type="file" id="importFile" accept=".zip,.json,application/zip,application/json" hidden ${P ? "disabled" : ""}></label></div>`;
+  <div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn soft sm" data-act="dexport" ${P ? "disabled" : ""}>${P?.what === "out" ? esc(P.msg) : "Save a copy"}</button><label class="btn line sm pointer">${P?.what === "in" ? esc(P.msg) : "Bring in a copy"}<input type="file" id="importFile" accept=".zip,.json,application/zip,application/json" hidden ${P ? "disabled" : ""}></label></div>`;
 }
 async function dataExport() {
   ui.dx = { what: "out", msg: "Packing…" };

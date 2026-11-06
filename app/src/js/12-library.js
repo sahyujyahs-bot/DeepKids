@@ -15,7 +15,7 @@ function combinedTopicList() {
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
 function combinedCard(e) {
   const u = unitByK(e.k),
-    s = st(u.k),
+    s = statusOf(u.k),
     n = u.c?.p?.days?.length;
   return unitCard({
     act: `data-act="chapter" data-k="${esc(u.k)}"`,
@@ -181,7 +181,7 @@ function lessonExtras(u) {
   }
   const shelf = shelfFor(u);
   if (!pick.length && !shelf.length) return "";
-  return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<h4 class="extrash">More for this chapter, from other sites</h4>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs" data-act="chapter" data-k="${u.k}" data-t="res" style="justify-self:start">All resources for this chapter</button>` : ""}</div>`;
+  return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<h4 class="extrash">More for this chapter, from other sites</h4>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs self-start" data-act="chapter" data-k="${u.k}" data-t="res">All resources for this chapter</button>` : ""}</div>`;
 }
 // what the family owns that goes with a lesson: tagged to it when sorted, or (added by hand, untagged)
 // sharing a real word with the lesson's title, like "bar magnets" and "Magnets: …"
@@ -217,11 +217,11 @@ const shelfFor = (u) =>
   );
 function invCard() {
   const D_ = ui.idump || {};
-  return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--gum)", 7, "wow", "", 'width="48" height="48"')}<div><h3 style="font-size:var(--fs-5)">Tell us what you have</h3><p class="xs muted">Type a list, say it with your keyboard's mic, or add photos of a shelf, book covers or game boxes. We sort it into books, games and more, and tag each to the chapters it helps with.</p></div></div>
+  return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--gum)", 7, "wow", "", 'width="48" height="48"')}<div><h3 class="fs5">Tell us what you have</h3><p class="xs muted">Type a list, say it with your keyboard's mic, or add photos of a shelf, book covers or game boxes. We sort it into books, games and more, and tag each to the chapters it helps with.</p></div></div>
    <textarea class="inp" id="invText" placeholder="Ruskin Bond's The Blue Umbrella, a magnifying glass, Ludo, Snakes and Ladders, a globe, Tinkle comics, a kids' microscope, 2 bar magnets">${esc(D_.text || "")}</textarea>
-   <div class="row">${IMGOK ? `<label class="btn soft sm" style="cursor:pointer">${icon("plus")}Photos<input type="file" id="invImg" accept="image/*" multiple hidden></label>` : lockBtn("shelf", "btn soft sm", "📷 Photos")}<span class="xs muted">${D_.files?.length ? D_.files.length + " photo" + (D_.files.length > 1 ? "s" : "") + " added" : ""}</span><button class="btn sm" data-act="isort" style="margin-left:auto" ${D_.busy ? "disabled" : ""}>${D_.busy ? "Sorting…" : "Sort it in"}</button></div>
-   ${SAMPLE ? "" : `<p class="xs muted">A typed list is sorted on this phone. Reading photos is part of DeepKids Plus.</p>`}${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
-   ${D_.items ? `<div class="col" style="gap:8px">${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="ikeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div style="min-width:0"><b style="font:600 var(--fs-4) var(--display)">${esc(it.name)}</b><p class="xs muted">${esc([CATS[it.cat] || "Other", it.by, it.kind, it.ages].filter(Boolean).join(" · "))}</p>${(it.chapters || []).length ? `<div class="row chips">${it.chapters.map(unitByK).filter(Boolean).slice(0, 3).map(chipK).join("")}</div>` : ""}</div></div>`).join("")}<div class="row"><button class="btn green" data-act="iadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length}</button><button class="btn line sm" data-act="iclear">Clear</button></div></div>` : ""}</section>`;
+   <div class="row">${IMGOK ? `<label class="btn soft sm pointer">${icon("plus")}Photos<input type="file" id="invImg" accept="image/*" multiple hidden></label>` : lockBtn("shelf", "btn soft sm", "📷 Photos")}<span class="xs muted">${D_.files?.length ? D_.files.length + " photo" + (D_.files.length > 1 ? "s" : "") + " added" : ""}</span><button class="btn sm" data-act="isort" style="margin-left:auto" ${D_.busy ? "disabled" : ""}>${D_.busy ? "Sorting…" : "Sort it in"}</button></div>
+   ${SAMPLE ? "" : `<p class="xs muted">A typed list is sorted on this phone. Reading photos is part of DeepKids Plus.</p>`}${D_.err ? `<p class="sm err">${esc(D_.err)}</p>` : ""}
+   ${D_.items ? `<div class="col" style="gap:8px">${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="ikeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div style="min-width:0"><b class="h4">${esc(it.name)}</b><p class="xs muted">${esc([CATS[it.cat] || "Other", it.by, it.kind, it.ages].filter(Boolean).join(" · "))}</p>${(it.chapters || []).length ? `<div class="row chips">${it.chapters.map(unitByK).filter(Boolean).slice(0, 3).map(chipK).join("")}</div>` : ""}</div></div>`).join("")}<div class="row"><button class="btn green" data-act="iadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length}</button><button class="btn line sm" data-act="iclear">Clear</button></div></div>` : ""}</section>`;
 }
 // the lessons planned for this year and after, in order, so each thing owned is matched to the lesson it will be used in
 function invContext() {
@@ -423,7 +423,7 @@ function scienceTab() {
      .filter(([k]) => k === "all" || inS.some((r) => r.type === k))
      .map(([k, n]) => `<button class="chip" aria-pressed="${ty === k}" data-act="rt" data-t="${k}">${n}</button>`)
      .join("")}</div>
-   ${S.age ? `<button class="chip" aria-pressed="${fit}" data-act="rfit" style="justify-self:start">Suits age ${S.age}</button>` : ""}
+   ${S.age ? `<button class="chip self-start" aria-pressed="${fit}" data-act="rfit">Suits age ${S.age}</button>` : ""}
    <p class="xs muted">${L.length} shown</p><div class="grid2">${resSort(L)
      .slice(0, ui.rmore || 40)
      .map(resCard)
@@ -499,18 +499,18 @@ function relatedOf(u) {
   return { pre, deeper, wider, names };
 }
 const uchip = (v) =>
-  `<button class="chip ${SC(v.subj)}" data-act="chapter" data-k="${v.k}"><span class="dotc"></span>${esc(v.title)}</button>`;
+  `<button class="chip ${subjClass(v.subj)}" data-act="chapter" data-k="${v.k}"><span class="dotc"></span>${esc(v.title)}</button>`;
 function topicOverview(u) {
   const m = modeOf(),
     T = tagsOf(u),
     I = ideasOf(u),
     R = relatedOf(u),
     sub = subjectsOf(u);
-  let h = `<section class="card"><span class="eyebrow">Where this topic sits</span><div class="row">${T.length ? T.map((t) => `<span class="chip">${esc(t.txt)}</span>`).join("") : `<span class="chip">Not in a board syllabus · DeepKids topic</span>`}${sub.length > 1 ? sub.map((s) => `<span class="chip ${SC(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("") : ""}</div>
+  let h = `<section class="card"><span class="eyebrow">Where this topic sits</span><div class="row">${T.length ? T.map((t) => `<span class="chip">${esc(t.txt)}</span>`).join("") : `<span class="chip">Not in a board syllabus · DeepKids topic</span>`}${sub.length > 1 ? sub.map((s) => `<span class="chip ${subjClass(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("") : ""}</div>
     <span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p></section>`;
   h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
-    h += `<section class="card r-you tint"><b style="font:600 var(--fs-4) var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
+    h += `<section class="card r-you tint"><b class="h4">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
   if (u.board !== "gen" && m === "plus")
     h += `<section class="card"><span class="eyebrow">Suggested reading</span><p class="sm">${esc(u.book)}${chNo(u) ? ", " + chNo(u) : ""}${(u.c?.read || []).length ? "; " + u.c.read.map(esc).join("; ") : ""}</p></section>`;
   if (u.board === "gen" && (u.gen.books || []).length)
@@ -544,7 +544,7 @@ function plansTab(u) {
   const O = planOptions(u),
     pk = ((S.planPick || {})[u.k] || {}).full || O.full[0]?.id,
     card = (o, i) =>
-      `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b style="font:600 var(--fs-5) var(--display)">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm" data-act="ppick" data-k="${u.k}" data-o="${o.id}" style="justify-self:start">Use this plan</button>` : ""}</section>`;
+      `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b class="h5">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm self-start" data-act="ppick" data-k="${u.k}" data-o="${o.id}">Use this plan</button>` : ""}</section>`;
   return `<p class="xs muted">Pick one way to teach this chapter. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
    <h3>Full plans</h3>${O.full.map(card).join("")}
    <h3>Short plans · about 30 minutes</h3>${O.busy.map((o, i) => card(o, i + 3)).join("")}`;
@@ -571,10 +571,10 @@ function topicHits(q) {
 function topicRow(u) {
   if (u.board === "combined") {
     const B = (u.c?.boards || []).map((x) => `${BNAME[x.b] || x.b} ${x.ref}`).join(", ");
-    return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">✦</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · Class ${u.level} · Covers ${esc(B || u.c?.topic || "")}</span></span>${pillS(st(u.k))}</button></div>`;
+    return `<div class="topic ${subjClass(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">✦</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · Class ${u.level} · Covers ${esc(B || u.c?.topic || "")}</span></span>${pillS(statusOf(u.k))}</button></div>`;
   }
   const T = tagsOf(u)[0];
-  return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0;flex:1"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : esc(T?.txt || u.book)}</span></span>${pillS(st(u.k))}</button></div>`;
+  return `<div class="topic ${subjClass(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0;flex:1"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : esc(T?.txt || u.book)}</span></span>${pillS(statusOf(u.k))}</button></div>`;
 }
 function topicsTab() {
   const q = ui.libq || "",
@@ -588,11 +588,11 @@ function topicsTab() {
   if (q) {
     h +=
       hits.map(topicRow).join("") +
-      `<section class="card r-out tint"><b style="font:600 var(--fs-5) var(--display)">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm" data-act="tgen" style="justify-self:start" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm" style="color:var(--bad)">${esc(ui.terr)}</p>` : ""}</section></section>`;
+      `<section class="card r-out tint"><b class="h5">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm self-start" data-act="tgen" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm err">${esc(ui.terr)}</p>` : ""}</section></section>`;
     return h;
   }
   const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
-    head = `<div class="sech"><h3 style="font-size:var(--fs-5)">Browse the syllabus</h3></div><div class="pickl">Track</div><div class="seg trackseg">${[
+    head = `<div class="sech"><h3 class="fs5">Browse the syllabus</h3></div><div class="pickl">Track</div><div class="seg trackseg">${[
       ["dk", "DeepKids track"],
       ["board", "Board track"],
     ]
@@ -601,7 +601,7 @@ function topicsTab() {
   if (track === "dk") {
     h += head + dkTrackBrowse();
     if (gen.length)
-      h += `<div class="sech"><h3 style="font-size:var(--fs-5)">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
+      h += `<div class="sech"><h3 class="fs5">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
     return h + `</section>`;
   }
   const BT = ["ncert", "cambridge", "nios", "waldorf"],
@@ -638,7 +638,7 @@ function topicsTab() {
    <p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
    ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:var(--fs-1)">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`}`;
   if (gen.length)
-    h += `<div class="sech"><h3 style="font-size:var(--fs-5)">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
+    h += `<div class="sech"><h3 class="fs5">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
   return h + `</section>`;
 }
 const slug = (s) =>
@@ -735,9 +735,9 @@ function swapView() {
   const s = ui.sheet.s,
     cur = nextUp(s);
   setSheetTitle("Swap " + SUBJ[s] + " topic");
-  const us = plannedUnits(s).filter((u) => u.level === S.levels[s] && rank[st(u.k)] < 2);
+  const us = plannedUnits(s).filter((u) => u.level === S.levels[s] && rank[statusOf(u.k)] < 2);
   const rows = us.map((u) => {
-    const need = prereqOf(u).filter((k) => rank[st(k)] < 2);
+    const need = prereqOf(u).filter((k) => rank[statusOf(k)] < 2);
     return { u, need };
   });
   return `<p class="sm muted">${s === "math" ? "Maths builds on itself, so a chapter opens once the chapters before it are done." : "These chapters don't depend on each other, so any order works."}</p>
@@ -745,7 +745,7 @@ function swapView() {
      .map(({ u, need }, i) => {
        const isCur = cur && cur.u.k === u.k,
          ok = !need.length;
-       return `<div class="taskrow ${SC(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 var(--fs-4) var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b style="font:600 var(--fs-4) var(--display)">${esc(u.title)}</b><p class="xs muted">${st(u.k) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
+       return `<div class="taskrow ${subjClass(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 var(--fs-4) var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b class="h4">${esc(u.title)}</b><p class="xs muted">${statusOf(u.k) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
          ok
            ? ""
            : ` · first: ${need
@@ -963,7 +963,7 @@ function viewLibrary() {
     const sel = inv.find((i) => i.id === ui.invSel);
     h += `<section class="sec">${invCard()}${inv.length ? `<div class="shelfwall">${["book", "game", "electronics", "equipment", "tool", "other"].flatMap((c) => inv.filter((i) => (CATS[i.cat] ? i.cat : "other") === c).map(shelfThing)).join("")}</div><p class="xs muted">Tap one to see which lessons it goes with.</p>${sel ? `<div class="card">${invItem(sel)}</div>` : ""}` : ""}
      ${kw.size ? `<div class="card r-you tint"><span class="eyebrow">From your lesson prep</span><p class="sm">You gathered these for lessons. Add them to your home shelf?</p><div class="row">${[...kw].map((k) => `<button class="chip" data-act="invadd" data-n="${esc(k)}" data-c="equipment">${icon("plus")}${esc(k)}</button>`).join("")}</div></div>` : ""}
-     <details class="card"><summary class="link" style="cursor:pointer">Add one thing by hand</summary><div class="row" style="flex-wrap:nowrap;margin-top:10px"><input class="inp" id="invName" maxlength="60" placeholder="Add something you have"><select class="inp" id="invCat" style="width:auto">${Object.entries(
+     <details class="card"><summary class="link pointer">Add one thing by hand</summary><div class="row" style="flex-wrap:nowrap;margin-top:10px"><input class="inp" id="invName" maxlength="60" placeholder="Add something you have"><select class="inp" id="invCat" style="width:auto">${Object.entries(
        CATS,
      )
        .map(([k, n]) => `<option value="${k}">${n}</option>`)
@@ -979,7 +979,7 @@ function viewLibrary() {
       .map((c) => {
         const L = LIB.suggest.filter((x) => x[0] === c);
         return L.length
-          ? `<div class="sech"><h3 style="font-size:var(--fs-5)">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url], i) => `<div class="libcard" style="--c:${PAL[i % PAL.length]}"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
+          ? `<div class="sech"><h3 class="fs5">${CATS[c]}</h3></div><div class="grid2">${L.map(([cat, n, by, why, url], i) => `<div class="libcard" style="--c:${PAL[i % PAL.length]}"><span class="eyebrow">${esc(by)}</span><b>${esc(n)}</b><p class="sm">${esc(why)}</p><div class="row"><a class="btn xs" href="${esc(url)}" target="_blank" rel="noopener">See it ↗</a>${have.has(n.toLowerCase()) ? `<span class="pill completed">We have it</span>` : `<button class="btn xs soft" data-act="invadd" data-n="${esc(n)}" data-c="${cat}">We have it</button>`}</div></div>`).join("")}</div>`
           : "";
       })
       .join("")}</section>`;
@@ -991,7 +991,7 @@ function viewLibrary() {
     ]
       .map(
         ([k, n]) =>
-          `<div class="sech"><h3 style="font-size:var(--fs-5)">${n}</h3></div><div class="card" style="gap:0">${LIB.read[k].map(([ti, d, u]) => `<a class="res" href="${esc(u)}" target="_blank" rel="noopener"><b style="font:600 var(--fs-4) var(--display)">${esc(ti)} ↗</b><span class="sm muted">${esc(d)}</span></a>`).join("")}</div>`,
+          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="card" style="gap:0">${LIB.read[k].map(([ti, d, u]) => `<a class="res" href="${esc(u)}" target="_blank" rel="noopener"><b class="h4">${esc(ti)} ↗</b><span class="sm muted">${esc(d)}</span></a>`).join("")}</div>`,
       )
       .join("")}</section>`;
   if (t === "watch")
@@ -1002,7 +1002,7 @@ function viewLibrary() {
     ]
       .map(
         ([k, n]) =>
-          `<div class="sech"><h3 style="font-size:var(--fs-5)">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u], i) => `<a class="libcard" style="--c:${PAL[(i + 2) % PAL.length]};text-decoration:none;color:inherit" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
+          `<div class="sech"><h3 class="fs5">${n}</h3></div><div class="grid2">${LIB.watch[k].map(([ti, d, u], i) => `<a class="libcard" style="--c:${PAL[(i + 2) % PAL.length]};text-decoration:none;color:inherit" href="${esc(u)}" target="_blank" rel="noopener">${icon("play")}<b>${esc(ti)}</b><span class="sm">${esc(d)}</span></a>`).join("")}</div>`,
       )
       .join("")}</section>`;
   return h;
