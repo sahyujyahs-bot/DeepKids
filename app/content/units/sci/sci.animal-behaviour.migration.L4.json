@@ -1,0 +1,2733 @@
+{
+ "id": "sci.animal-behaviour.migration.L4",
+ "title": "Migration: how a body is built for a journey across the world",
+ "level": 4,
+ "summary": {
+  "text": "A bar-tailed godwit weighs less than a one-kilogram bag of sugar, and in 2022 a young one flew about 13,500 kilometres from Alaska to Tasmania in 11 days, without stopping once. How can a body that small carry enough fuel? Before leaving, she eats until nearly half her weight is fat, and her gut shrinks to make room for flight muscle. Her fuel comes from insects, worms and shellfish eaten in a faraway marsh or mudflat, which grew in the long days of a northern summer. This unit follows migration from the sunlight in the far north to the fat in a bird's body, the wetlands along the way, and the tags that tell us where she went.",
+  "art": "A bar-tailed godwit in flight over a wide ocean, with a dotted line behind her back to a green Arctic marsh and a glowing low Sun above the marsh."
+ },
+ "intro": {
+  "hook": "In winter, ducks, waders and swallows appear in our lakes, canals and wires. In summer, they are gone. Where were they, and what did they do to get here?",
+  "text": "Many of the birds you see in India from October to March spent the summer thousands of kilometres away, in Siberia, Mongolia or the Himalaya. A small bird cannot carry a packed lunch. So how does her body pay for a trip like that?",
+  "art": "A flock of birds on a lake in winter with a large map behind them showing dotted lines going north to Siberia."
+ },
+ "outcomes": [
+  "I can give three reasons animals migrate, and say which one matters most for a bird I know.",
+  "I can explain why the far north is a good summer nursery, using day length.",
+  "I can explain how a migrating bird pays for a long journey with fat, and how her body changes before she leaves.",
+  "I can explain why a flyway is a chain of stopovers, and what happens when one link is lost.",
+  "I can tell a resident, a winter visitor, a summer visitor and a passage migrant apart.",
+  "I can say how scientists track migrants with rings and tags, and read a tracking graph.",
+  "I can name some things nobody knows yet about migration."
+ ],
+ "cards_mins": 20,
+ "terms": [
+  {
+   "term": "Migration",
+   "meaning": "A regular, long journey that an animal makes each year, going out and coming back.",
+   "example": "A bar-headed goose flies over the Himalaya to India each autumn, and back each spring.",
+   "art": "A bar-headed goose flying over snowy mountains with a dotted arrow going out and another coming back."
+  },
+  {
+   "term": "Resident",
+   "meaning": "An animal that lives in one place all year and does not make a long journey.",
+   "example": "The house crow outside most Indian windows is a resident.",
+   "art": "A house crow sitting on a window grille in sunlight."
+  },
+  {
+   "term": "Winter visitor",
+   "meaning": "An animal that spends the cold months of the north in a warmer place, then returns north to raise young.",
+   "example": "The rosy starling arrives in India around August or September and leaves again in spring.",
+   "art": "A flock of pink and black rosy starlings on a bare winter tree."
+  },
+  {
+   "term": "Summer visitor",
+   "meaning": "An animal that comes to a place for the warm months to raise young, then leaves.",
+   "example": "Some cuckoos come to south India to breed and leave again afterwards.",
+   "art": "A cuckoo calling from a mango tree in leaf."
+  },
+  {
+   "term": "Passage migrant",
+   "meaning": "An animal that stops in a place for only a few days or weeks on the way to somewhere else.",
+   "example": "Amur falcons pass through Nagaland on their way from Siberia to Africa.",
+   "art": "Hundreds of small falcons sitting on power lines at sunset over a reservoir."
+  },
+  {
+   "term": "Flyway",
+   "meaning": "The whole route that a group of migrating birds follows, with all the places where they rest and feed.",
+   "example": "The Central Asian Flyway runs from the Arctic to the Indian Ocean and crosses India.",
+   "art": "A map of Asia with a wide glowing band of arrows from Siberia to India."
+  },
+  {
+   "term": "Stopover",
+   "meaning": "A place on a journey where a migrating animal rests and feeds before flying on.",
+   "example": "Chilika Lake in Odisha is a stopover and winter home for many water birds.",
+   "art": "Waders feeding in shallow water at a lake, with sunrise behind them."
+  },
+  {
+   "term": "Fat reserve",
+   "meaning": "Fat that the body stores to use as fuel later.",
+   "example": "A migrating godwit can have nearly half her weight as fat before a long flight.",
+   "art": "A godwit standing beside a small scale showing a heavy weight."
+  },
+  {
+   "term": "Fuel",
+   "meaning": "Something that stores energy a body can use. A body burns food or fat as fuel.",
+   "example": "Fat is the fuel a bird burns as she flies over the sea.",
+   "art": "A bird in flight with a small fire symbol in her chest and a stripe of yellow fat under the skin."
+  },
+  {
+   "term": "Day length",
+   "meaning": "The number of hours between sunrise and sunset in one day.",
+   "example": "In June, day length is about 13 hours in Chennai and 24 hours north of the Arctic Circle.",
+   "art": "Two clocks, one showing a full day of light and one showing half."
+  },
+  {
+   "term": "Wetland",
+   "meaning": "A place that is wet for much or all of the year, such as a marsh, a mudflat or the edge of a lake.",
+   "example": "Marshes, ponds, paddy fields and mudflats are wetlands.",
+   "art": "A marsh with reeds, shallow water and a heron standing in it."
+  },
+  {
+   "term": "Ringing",
+   "meaning": "Putting a light numbered ring on a bird's leg, so that anyone who finds the bird can report where.",
+   "example": "A ringed bird caught again in another country shows where she travelled.",
+   "art": "A person gently holding a small bird while a ring is closed on her leg."
+  },
+  {
+   "term": "Satellite tag",
+   "meaning": "A tiny device on a bird's back that sends her position to a satellite, so scientists can follow her journey.",
+   "example": "A tag the weight of a few paper clips has shown a godwit flying 11 days without stopping.",
+   "art": "A small solar-powered tag on a bird's back with signal lines going up to a satellite."
+  },
+  {
+   "term": "Geolocator",
+   "meaning": "A very light tag that records the time of sunrise and sunset, so scientists can work out where a bird has been after she is caught again.",
+   "example": "A geolocator weighs about one gram, so it can be carried by a small songbird.",
+   "art": "A tiny tag with a light sensor on a swallow's back."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Why animals migrate: the trip costs less than staying",
+   "status": "defined",
+   "definition": "An animal migrates when the gain from moving to a second place is bigger than the cost of the journey. The gain is usually food, space or safety for raising young.",
+   "description": "Most people say birds fly away because winter is cold. But many birds stay through freezing winters, and some birds in warm places migrate too. What matters most is food. In the Arctic summer, insects appear in huge numbers for a few weeks. A bird that goes there can feed her chicks well, with few other birds to share the food. But the insects vanish in autumn, so she must leave. The journey is dangerous and uses up a great deal of energy. So a bird migrates only when the trip pays off: the extra food and space must be worth the risk. Different animals strike this bargain in different ways. A hilsa fish swims from the sea up a river to lay eggs. A Himalayan bird moves down the mountain in winter and back up in summer.",
+   "examples": [
+    "Siberian waders breed on the Arctic tundra, where midges and other insects are plentiful in summer, and spend winter on Indian mudflats.",
+    "Crows and sparrows stay through the winter in the same city, because they can find food all year.",
+    "Hilsa fish live in the sea and swim up large rivers such as the Ganga to lay their eggs."
+   ],
+   "perspectives": [],
+   "art": "Two scales: on one side a short stay with little food, on the other a long journey with a big pile of insects, tipping toward the journey."
+  },
+  {
+   "concept": "Day length: why the far north is a summer nursery",
+   "status": "defined",
+   "definition": "The Earth's axis is tilted. So for part of the year the far north leans towards the Sun and has very long days, and for part of the year it leans away and has very short days.",
+   "description": "Near the equator, the day is about 12 hours long all year, in every season. The farther north you go, the more the day length changes. North of the Arctic Circle, the Sun does not set for weeks in midsummer, and does not rise for weeks in midwinter. In the Arctic summer, plants grow and insects hatch in the long light. Birds there can feed almost around the clock, and a chick can be fed through the whole bright night. That is why so many birds travel so far north to raise their young. When the light fades in autumn, the insects die and the ground freezes. Then the birds must leave. The tilt of the Earth sets the whole calendar of migration.",
+   "examples": [
+    "At Chennai, the longest day in June is about 13 hours and the shortest in December is about 11 hours.",
+    "North of the Arctic Circle, the Sun stays above the horizon for the whole day around 21 June.",
+    "Waders breeding on the Arctic tundra feed their chicks during the bright nights."
+   ],
+   "perspectives": [],
+   "art": "The Earth tilted toward a lamp, with a dot near the top staying lit as a ball spins, and a dot near the middle half in light."
+  },
+  {
+   "concept": "Fuel: fat, and a body rebuilt for the journey",
+   "status": "defined",
+   "definition": "Migrating birds store energy as fat before a journey, because fat holds more energy for its weight than anything else in the body. Their bodies change shape to carry it and burn it.",
+   "description": "A gram of fat holds more than twice the energy of a gram of sugar or starch. So a bird that must carry her fuel in the air stores it as fat. In the weeks before leaving, she eats much more than usual, and she can nearly double her weight. In some waders, up to about half of the weight at take-off is fat. Her body is also rebuilt. Scientists weighed the organs of godwits and knots before and after fattening. Before a long flight, the gut and liver shrink, and the flight muscles and heart grow. A gut full of food is heavy and useless in the air, so she makes it smaller and the muscles bigger. During the flight she burns the fat, and she arrives much thinner. After she lands, the gut grows back.",
+   "examples": [
+    "Bar-tailed godwits can fly more than 11,000 kilometres without eating, drinking or landing, fuelled by their fat.",
+    "Ruby-throated hummingbirds, which are far smaller, double their weight before crossing the Gulf of Mexico.",
+    "Before the journey, a bird eats far more than usual. Scientists call this extra eating hyperphagia."
+   ],
+   "perspectives": [],
+   "art": "A godwit before and after fattening, with a cut-away showing a small gut and large wing muscles in the fat bird, and a large gut in the lean bird."
+  },
+  {
+   "concept": "Stopovers: a flyway is a chain",
+   "status": "defined",
+   "definition": "A flyway is a chain of places. A bird needs every link in the chain: where she breeds, where she winters, and the stopovers where she refuels in between.",
+   "description": "Many migrants do not fly the whole way in one go. They fly for a few days, land at a good place, and feed for a week or two to build their fat again. This is a stopover. A stopover can be small, such as a lake or a stretch of mud, but thousands or millions of birds may depend on it. If a stopover is drained or built over, the birds that used it arrive hungry at the next place, or fall into the sea on the way. The flyway is only as strong as its weakest link, and the birds can do nothing about the loss. A country that guards its own wetlands is looking after birds that belong to other countries too, and other countries are looking after theirs.",
+   "examples": [
+    "Chilika Lake in Odisha is a wintering ground and a stopover for many thousands of water birds.",
+    "The tidal mudflats of the Yellow Sea are a key stopover for waders on the way between Australia and the Arctic.",
+    "Keoladeo National Park near Bharatpur in Rajasthan is a wetland where many winter visitors arrive after crossing the Himalaya."
+   ],
+   "perspectives": [],
+   "art": "A chain of lakes on a map between the Arctic and India, with one link drawn broken and a flock above it looking for another."
+  },
+  {
+   "concept": "Other travellers: fish, turtles and mountain animals",
+   "status": "defined",
+   "definition": "Migration is not only for birds. Fish, turtles, insects, whales and mammals all make regular journeys, and some are short. Moving up and down a mountain with the seasons is also migration.",
+   "description": "Olive ridley turtles live in the sea, and every year thousands of mothers swim to the same beaches in Odisha, such as Gahirmatha and Rushikulya, to lay eggs. Many come together within a few days. This is called an arribada, from the Spanish word for arrival. The hatchlings go to sea alone. Hilsa fish swim up rivers to spawn. In the Himalaya, many birds spend summer on the high slopes and move down to the foothills when the snow comes. This is altitudinal migration, and it covers only a few hundred metres to a few thousand. Not every animal moves every year. Some move only in some years, when food runs short. These are called irruptions.",
+   "examples": [
+    "Olive ridley turtles gather to lay eggs on a few beaches in Odisha.",
+    "The hilsa swims from the sea up the river to spawn.",
+    "Many Himalayan birds move to lower slopes in winter."
+   ],
+   "perspectives": [],
+   "art": "Three panels: an olive ridley turtle on a beach at night, a hilsa fish in a river, and a bird moving down a snowy mountain slope."
+  },
+  {
+   "concept": "How does a bird know when to leave?",
+   "status": "debated",
+   "definition": "",
+   "description": "Nobody taught the bird the date. Scientists agree that day length matters, because the days get shorter in autumn. But a bird kept in a cage with constant light still gets restless at the usual time of year. This restlessness has been seen in many caged birds, and is called migratory restlessness (Zugunruhe, a German word). So the bird seems to have a yearly clock inside the body as well. Weather also matters: a bird often waits for a good wind. Scientists still argue about how the clock inside works and how the clock and the daylight work together.",
+   "examples": [
+    "Caged warblers hop and flutter towards the south at night in autumn, even when they cannot see the sky.",
+    "Birds often leave on the first night with a good tailwind.",
+    "Some individuals of a species migrate and others do not, even in the same place."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who stress day length",
+     "explanation": "The shortening days of autumn switch on the urge to fatten and fly. Changing the light in a cage can change the birds' timing."
+    },
+    {
+     "who": "Scientists who stress an inside clock",
+     "explanation": "Birds in constant light and constant warmth still go through their migration season at about the right time of year. A yearly clock in the body seems to keep the time, and the light only adjusts it."
+    }
+   ],
+   "art": "A caged bird at night leaning toward the south with a faint clock face in her chest and a window showing shortening days."
+  },
+  {
+   "concept": "Thin air and strong winds: the bar-headed goose",
+   "status": "defined",
+   "definition": "A migrating bird is carried or held back by the air she flies in. Wind, temperature and air thickness change how much energy a journey costs.",
+   "description": "Bar-headed geese breed on high lakes in Central Asia, including Ladakh, Tibet and Mongolia, and spend winter in India. To get there they cross the Himalaya, where the air is thin and cold and holds much less oxygen. Satellite tags show them flying over 6,000 metres high. They do not always fly as high as they can. Many follow the mountain slopes up and down, like a roller coaster, and save energy. Geese also fly at night and in the morning, when the air is calmer. A tailwind can carry a bird hundreds of kilometres for no extra energy, so birds often wait on the ground for a favourable wind before leaving.",
+   "examples": [
+    "Bar-headed geese have been tracked flying above 6,000 metres over the Himalaya.",
+    "Many birds wait at a stopover until the wind is behind them.",
+    "Cranes and eagles use rising warm air to climb without flapping."
+   ],
+   "perspectives": [],
+   "art": "Bar-headed geese flying over a snowy mountain ridge, going up and down along the slopes with a wind arrow behind them."
+  },
+  {
+   "concept": "How we know: rings, tags and radar",
+   "status": "defined",
+   "definition": "We follow migrants by marking them (rings), by tags that record or send their position (geolocators and satellite tags), by radar that sees flocks in the sky, and by counts that many people share.",
+   "description": "A ring is the cheapest and oldest way. A bird is caught, ringed and let go. If she is found or caught again, the number tells us where she has been. Rings tell us about two points on a journey but not what happened in between. A satellite tag sends her position for months. Tags are light, and a rule of thumb is that a tag should weigh no more than a few parts in a hundred of a bird's weight, so a heavy tag only suits a big bird. A geolocator is lighter, but the bird must be caught again to get the data. Weather radar can show the flocks of birds that fly at night. Millions of people also add their sightings to databases such as eBird, which show the arrival of birds week by week.",
+   "examples": [
+    "Salim Ali and the Bombay Natural History Society ringed birds in India for many years.",
+    "A satellite tag showed a young godwit flying non-stop for 11 days.",
+    "eBird maps show when a winter visitor reaches your city."
+   ],
+   "perspectives": [],
+   "art": "Four small pictures: a ring on a leg, a tag on a goose's back, a radar screen with blobs of birds, and a phone showing a bird sighting."
+  },
+  {
+   "concept": "When the journey goes wrong: lost links and wrong timing",
+   "status": "idea",
+   "definition": "",
+   "description": "Migrants face two kinds of trouble. One is a lost stopover. Scientists found that about two thirds of the tidal flats of the Yellow Sea were lost in 50 years, and the waders that used them have dropped in number. The other is a mismatch of timing. If spring comes earlier at a breeding place, the insects may peak before the chicks hatch. A study of pied flycatchers in the Netherlands found that where caterpillars peaked early, the flycatchers fell in number. Many scientists think climate change is changing the timing of both. Others say the picture is not clear yet, since some species are adjusting their dates.",
+   "examples": [
+    "Siberian cranes once wintered at Keoladeo in Rajasthan. They have not been seen there for many years.",
+    "Pied flycatchers in the Netherlands fell where the caterpillar peak came too early.",
+    "The Yellow Sea mudflats lost about two thirds of their area over about 50 years."
+   ],
+   "perspectives": [],
+   "art": "A calendar where the peak of insects comes earlier than the peak of hungry chicks, drawn as two hills that no longer line up."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Animals migrate when the food, space or safety they need is in different places at different times of the year.",
+   "evidence": "The timing of journeys matches the peaks of food, such as the summer insects of the Arctic, and tracked animals do the same journey in the same season, year after year."
+  },
+  {
+   "text": "Before a long flight, migrating birds store fat and rebuild their bodies, with a smaller gut and larger flight muscles.",
+   "evidence": "Birds caught and weighed before and after fattening, and measured with scans, show the weight and organ changes (Piersma and Gill, 1998)."
+  },
+  {
+   "text": "A flyway is a chain: a loss of one important stopover can hurt a whole population.",
+   "evidence": "Counts of waders have fallen where tidal flats on the Yellow Sea were lost (Murray and others, 2014)."
+  },
+  {
+   "text": "A bird can migrate without being taught the date, because a yearly clock inside her body helps to set the time.",
+   "evidence": "Caged birds kept under a steady light still show migratory restlessness at about the right time of the year."
+  },
+  {
+   "text": "Rings, tags and radar give accurate evidence of where migrants go.",
+   "evidence": "Hundreds of thousands of ring recoveries and tracks show the same flyways, and different methods agree."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Birds migrate because it gets too cold.",
+   "who": "Many people.",
+   "for": "Many birds leave the cold north in autumn.",
+   "against": "Crows, sparrows and some ducks stay through hard winters. Some tropical birds also migrate, from Africa to India for the monsoon. What changes is food, and cold is only one reason food runs short.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Swallows spend the winter asleep in the mud at the bottom of ponds.",
+   "who": "Ideas held in Europe for many centuries, and written about by Olaus Magnus in 1555. Aristotle also said some birds hibernate.",
+   "for": "Swallows disappear in autumn, and people had seen birds in ponds and marshes in cold weather.",
+   "against": "Ringed swallows were later found in southern Africa in winter. Nobody has ever found a swallow breathing under water.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Birds fly to the Moon for the winter.",
+   "who": "Charles Morton, an English writer, in 1703.",
+   "for": "Nobody knew where birds went, and he thought the Moon was the only place far enough away.",
+   "against": "There is no air to breathe on the Moon, and rings and tags later showed the real destinations on Earth.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Tagging birds is wrong because tags harm them.",
+   "who": "Some people who study and watch birds.",
+   "for": "A tag adds weight, and a few studies found that tagged birds sometimes breed less well.",
+   "against": "Most studies of light tags find little harm, and tracking has found the stopovers that now get protection. Scientists keep tags very light and stop using any that harm.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A godwit shrinks her gut and grows her flight muscle before she leaves. Is she the same animal in Alaska as she is in New Zealand?",
+   "kind": "deep",
+   "hint": "Think about what changed and what stayed the same. Think about what you are made of today and what you were made of last year."
+  },
+  {
+   "q": "A bird spends six months in Siberia and six months in Kerala. Which country does she belong to?",
+   "kind": "big",
+   "hint": "Who looks after her marsh, her mudflat and the places in between?"
+  },
+  {
+   "q": "Fat holds more than twice the energy of sugar in each gram. Why might that matter to a bird that must carry her fuel in the air?",
+   "kind": "deep",
+   "hint": "Think about the weight she must carry."
+  },
+  {
+   "q": "A bird may sense the Earth's magnetic field, and she sees colours we cannot. Are we seeing the same world, or different worlds?",
+   "kind": "big",
+   "hint": "Think about what each creature's senses can and cannot pick up."
+  },
+  {
+   "q": "A wetland is used by a bird for only two weeks of the year. Who should look after it: the country where it is, or every country on her route?",
+   "kind": "big",
+   "hint": "Think about who gains and who pays."
+  },
+  {
+   "q": "A tag weighs a few grams. How could we be sure that the tag is not changing what the bird does?",
+   "kind": "deep",
+   "hint": "Think about how you could compare tagged birds with untagged ones."
+  },
+  {
+   "q": "We call them 'foreign birds' when they arrive in India. What does a bird think of a border?",
+   "kind": "big",
+   "hint": "Think about what a border is made of, and what a bird is guided by."
+  },
+  {
+   "q": "Trace the energy in a godwit's wingbeat back as far as you can. Where does it start?",
+   "kind": "deep",
+   "hint": "Think of the insect, what the insect ate, and what that grew from."
+  }
+ ],
+ "story": {
+  "title": "The Weight of the Falcon",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "The girl, her grandmother and her uncle are imagined, and so is the village meeting. The science in the story is real. Amur falcons do pass through Nagaland each October to November, and they do eat flying termites before crossing to Africa. In real life, many falcons were killed around the Doyang reservoir. After a campaign by local people and conservationists, including Bano Haralu, the villages there stopped, and the birds are now welcomed. In 2013 three falcons were fitted with satellite tags and flew from Nagaland to Somalia.",
+  "text": [
+   "The rain stopped on a Thursday in October, and by evening the termites came out of the ground.",
+   "Sentila stood on the roof of her grandmother's house and watched them rise. Thousands and thousands of them, with thin wings the colour of glass, were lifting off the wet earth in the last of the light. They looked like smoke going the wrong way, up instead of down.",
+   "And the falcons came for them.",
+   "Sentila had seen the falcons every October of her life. They came to the village by the big lake in their thousands, small grey birds with red legs, and sat in rows along the wires until the wires sagged. In the evening they flew up into the termites and snatched them, one after another, and turned in the air, and came back for more. The sky was full of cutting and turning.",
+   "'Where do they come from?' she asked her grandmother, who was shelling beans beside her.",
+   "'From very far,' said her grandmother. 'Somewhere cold. They arrive thin and they leave fat. I do not know where they go after. Nobody here ever asked.'",
+   "'They are only here for a few weeks,' Sentila said.",
+   "'Yes. And in those few weeks they are the easiest food in the valley.'",
+   "Sentila knew what her grandmother meant. Every year, some men from the village hung nets between the trees by the lake at night. In the morning the nets were full of birds, and the birds were sold in the market for meat. It had been done for as long as the oldest people remembered. Nobody thought of it as cruel. The birds came, and the birds were food, the way fish come up the river in the season.",
+   "That year her uncle Wati brought a falcon home, tangled in the net, still alive. He gave it to Sentila to hold while he fetched a knife.",
+   "She held it carefully in both hands, and she was surprised. It was not light. A bird the size of her fist should have felt like a handful of leaves. This one felt like a stone wrapped in feathers. Under her thumb, the breast was thick and soft, not hard bone. She pressed gently, and the skin was oily and smooth with fat.",
+   "She thought of her science book, and a page about a godwit. The page said that birds do not fly across oceans on an empty stomach. Before a long journey, a migrating bird eats and eats, until much of her body is fat. Fat is a fuel. A bird carries her tank as fat, and that is the only way a small bird can cross a sea.",
+   "Sentila looked at the bird in her hands. She looked at the termites rising from the wet earth, and at the falcons feeding in the dusk. And she understood. The falcons had not come to the village to stay. They had come to fill a tank.",
+   "'Uncle,' she said, 'wait.'",
+   "'Why?'",
+   "'Look how heavy she is. She is not heavy because she lives here. She is heavy because she is getting ready to leave.' Sentila held the bird up. 'This is petrol, Uncle. The fat is petrol for the sea. If she is ready, then she is going. And if we stop her now, she will not cross anything.'",
+   "Wati stared at his niece. He was not an unkind man. 'Where is she going?' he said at last.",
+   "'I do not know,' Sentila said. 'Somewhere very far. But she is a traveller, not our hen.'",
+   "That night the village council met in the long house, and for the first time a ten-year-old girl was given a place by the fire. She told them about the termites, and about the weight of the bird in her hands. She told them about the book. The elders were quiet for a long time. One of them, an old man who had never said a word about the nets, said, 'I have wondered every year where they go. I never wondered what they were doing here.'",
+   "Not everyone agreed that night. There were arguments, and some people were angry, because the birds had always brought a little money in October. But the next year, the lake had no nets. A few of the men guided visitors to see the falcons at dawn instead. And in the third year, when the rain stopped in October and the termites rose, the sky over the lake was so full of falcons that people drove up from the town just to stand and look.",
+   "On the last morning of that October, Sentila woke before light and went to the roof. The wires were empty. In the night, every falcon in the valley had gone, all together, out over the plains and towards the sea that Sentila had never seen.",
+   "She stood there for a long time in the cold, looking at the empty wires, and she thought about all those little tanks of fat going away into the dark, burning slowly, one wingbeat after another, over a sea that had no place to land."
+  ],
+  "epiphany": "A fat bird is a bird about to leave. The fat is her fuel for the sea crossing, and it was collected from the termites of one place to be spent over another.",
+  "ask": [
+   "Why was the bird so heavy in Sentila's hands?",
+   "What is the fat for, and where did it come from?",
+   "Why did Sentila say the bird was a traveller and not a hen?",
+   "What do you think the falcon would do with her fat if she were stopped?"
+  ],
+  "art": [
+   "Termites rising from wet ground at dusk, with small falcons in the air catching them, above a lake in the hills of Nagaland.",
+   "A girl on a rooftop looking at rows of grey falcons on power lines.",
+   "A girl holding a small falcon in both hands, feeling its breast, with a net in the background.",
+   "A village council by a fire in a long wooden house, with a girl standing to speak.",
+   "Empty power lines at dawn over a misty lake, with a faint line of birds far away over the plains."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Guess the Traveller: 16 clue cards from the Indian sky and sea",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a guessing game. Each card has three clues about an animal that makes a seasonal journey. You win points for guessing it early.",
+   "setup": [
+    {
+     "art": "Sixteen two-sided cards in a pile with clues on the front, and a paper score sheet beside them.",
+     "caption": "1. Cut out the 16 cards. Shuffle them into a pile, clue side up."
+    },
+    {
+     "art": "A child reading only the first clue on a card while another child thinks.",
+     "caption": "2. The reader reads clue 1 only. The guesser says who it is."
+    },
+    {
+     "art": "A tally of 3, 2 and 1 points written beside the clue number.",
+     "caption": "3. A right guess on clue 1 scores 3, on clue 2 scores 2, and on clue 3 scores 1."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "16 two-sided cards: three clues on the front, and the answer with a fact on the back",
+     "items": [
+      {
+       "f": "I breed on high lakes in Ladakh, Tibet and Mongolia. I cross the Himalaya, higher than 6,000 metres. I spend winter on wetlands in India.",
+       "b": "Bar-headed goose. She flies over the Himalaya in thin air, and often follows the slopes up and down to save energy."
+      },
+      {
+       "f": "I have a long bill that I push into mud. I fly from Alaska to Australia or New Zealand without landing. Before I leave, my gut shrinks.",
+       "b": "Bar-tailed godwit. A young one flew about 13,500 kilometres from Alaska to Tasmania in 11 days."
+      },
+      {
+       "f": "I am a small grey falcon with red legs. I rest in Nagaland for only a few weeks each October. I eat flying termites, then cross the sea to Africa.",
+       "b": "Amur falcon. She is a passage migrant in India, and she fattens up on termites before the sea crossing."
+      },
+      {
+       "f": "I live in the sea. Each year thousands of us come to the same beaches in Odisha at night. We bury our eggs in the sand.",
+       "b": "Olive ridley turtle. The mass nesting is called an arribada. The hatchlings go to sea by themselves."
+      },
+      {
+       "f": "I am a silvery fish. I live in the sea. In the monsoon, I swim up large rivers such as the Ganga to lay my eggs.",
+       "b": "Hilsa. She swims from the sea up a river to spawn. Dams and weirs can block the way."
+      },
+      {
+       "f": "I catch insects in flight. In winter I sit in rows on wires in India. In spring I fly north to nest.",
+       "b": "Barn swallow. She is a winter visitor in India, and she breeds in the north."
+      },
+      {
+       "f": "I am pink and black. I arrive in India around August or September in noisy flocks. I leave in spring.",
+       "b": "Rosy starling. She is a winter visitor, and she breeds far to the north-west."
+      },
+      {
+       "f": "I have a crest and a black and white body. Some of us come to India from Africa as the monsoon starts. People link me with the first rains.",
+       "b": "Pied cuckoo. Some pied cuckoos cross the Arabian Sea with the monsoon winds, and nest in India."
+      },
+      {
+       "f": "I stand on long pink legs. I strain tiny food out of shallow salty water. I nest on mud in a great crowd in Gujarat.",
+       "b": "Greater flamingo. She moves along the coast to different mudflats through the year."
+      },
+      {
+       "f": "I climb rock walls like a mouse, with red and grey wings. I live high in the Himalaya in summer. In winter I come down to the foothills.",
+       "b": "Wallcreeper. She makes a short seasonal move down the mountain, an altitudinal migration."
+      },
+      {
+       "f": "I am the largest land animal in India. My herd is led by the oldest female. We walk long distances between forests as the seasons change.",
+       "b": "Asian elephant. Herds follow paths used for generations, to find water and food in different seasons."
+      },
+      {
+       "f": "I am white with a red face. I once flew from Siberia to a wetland in Rajasthan each winter. I have not been seen there for many years.",
+       "b": "Siberian crane. She is in danger, and one cause is the loss of wetlands and hunting along the flyway."
+      },
+      {
+       "f": "I am small and grey with white feathers behind my eyes. I breed in Central Asia. I cross the Himalaya in huge flocks and spend winter in Rajasthan and Gujarat.",
+       "b": "Demoiselle crane. She flies over the Himalaya, and is fed by villagers at Khichan in Rajasthan."
+      },
+      {
+       "f": "I am orange-brown, and I breed on high lakes in Ladakh and Tibet. In winter I spend my days on the rivers of the plains. In India, my name is chakwa.",
+       "b": "Ruddy shelduck. She moves down from the high lakes to the rivers of the plains."
+      },
+      {
+       "f": "My male has a long thin tail. I breed in the far north of Asia and Europe. I spend winter on the lakes of India.",
+       "b": "Northern pintail. She is one of the commonest winter-visiting ducks in India."
+      },
+      {
+       "f": "I am a dark brown butterfly. Each year many of us flutter together in the hills of south India. We move with the monsoon.",
+       "b": "Common crow butterfly. Large numbers of butterflies move between the plains and the Western Ghats as the monsoon comes and goes."
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "One player is the reader. The reader takes the top card and reads the front but covers the answer on the back.",
+    "The reader reads the first sentence. The guesser names the traveller.",
+    "A right guess on the first sentence scores 3 points. If wrong, the reader reads the second sentence, and a right guess scores 2. After the third sentence, a right guess scores 1.",
+    "If nobody guesses, the reader reads the back. No points.",
+    "Take turns being the reader. The player with the most points after 16 cards wins.",
+    "Playing alone: lay the cards face up, hide the answer with a finger, and guess for each card. Beat your best score of 48 possible points.",
+    "Afterwards, sort the cards into three piles: birds, other animals, and animals that move only a short way."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "context": "This is the first step of Guess the Traveller. You cut out the cards.",
+     "do": "Cut out the 16 cards. Shuffle them. Choose a reader. If you play alone, lay the cards in a row.",
+     "say": "Each card has three clues about an animal that makes a journey. Guess it after the first clue and score 3 points. Guess after the second for 2 points, and after the third for 1.",
+     "kid": "Cut out the cards. Shuffle them. Read one clue at a time. Guess early to win more points."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "context": "In this step, you play the first eight cards and learn the pattern of the game.",
+     "do": "Play eight cards. After each card, read the back aloud. After card four, ask what the travellers have in common.",
+     "say": "Read one clue at a time. After each card, read the answer on the back. After four cards, we stop and think: what do these travellers have in common?",
+     "kid": "Play eight cards. Read the answer after each card. What do these animals share?",
+     "ask": [
+      {
+       "q": "What do the travellers have in common so far?",
+       "good": [
+        "They all go to a different place for part of the year.",
+        "They move to find food or a safe place for their young.",
+        "Some travel far, and some only go down a mountain."
+       ]
+      }
+     ],
+     "parent": "Let the child score themselves first. Write the points down."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "context": "In this step, you play the last eight cards and add up your points.",
+     "do": "Play the other eight cards. Add up all the points. Ask which traveller was the hardest to guess.",
+     "say": "Play the rest of the cards. Then add up your points. Which traveller was the hardest to guess? Why?",
+     "kid": "Play the rest of the cards. Add your points. Which one was the hardest?",
+     "ask": [
+      {
+       "q": "Which journey was the longest? Which was the shortest?",
+       "good": [
+        "The godwit, the goose or the falcon was longest.",
+        "The wallcreeper or the elephant was shortest."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A wallcreeper moves down a mountain for the winter. Is that migration?",
+      "options": [
+       "Yes, because she makes a regular seasonal journey, even though it is short",
+       "No, because migration must cross a country",
+       "No, because she is not a bird"
+      ],
+      "a": 0,
+      "why": "Migration means a regular seasonal journey, and it can be short. Moving up and down a mountain is called altitudinal migration. If you picked the second answer, think of the olive ridley turtle: some journeys stay in one region."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "context": "In this step, you sort the cards by the kind of journey.",
+     "do": "Sort the cards into three piles. One is long journeys across countries. One is short journeys in one region. One is a journey that has stopped.",
+     "say": "Make three piles. One for long journeys, one for short journeys, and one for a journey that has stopped. Where does the Siberian crane go?",
+     "kid": "Sort the cards into long, short, and stopped. Where does the Siberian crane go?",
+     "parent": "The Siberian crane card is the one with a journey that has stopped. Her winter visits to Keoladeo ended."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Eat or Fly? A race to Kerala on a tank of fat",
+   "mins": 25,
+   "players": [
+    "with a parent",
+    "with friends",
+    "alone"
+   ],
+   "context": "This is a board game about fuel. Each player is a bird. You decide each turn whether to eat and fill your tank, or to fly and risk running out over the sea.",
+   "setup": [
+    {
+     "art": "A board of six circles in a row, from Arctic marsh to Kerala backwaters, with the cost of each flight written on the arrows between them.",
+     "caption": "1. Draw or cut out the board. Put every bird on the Arctic marsh."
+    },
+    {
+     "art": "A pile of dried beans beside each player and a face-down pile of food cards.",
+     "caption": "2. Give every bird 2 beans. Shuffle the food cards face down."
+    },
+    {
+     "art": "A hand rolling a die next to a bird token on a lake.",
+     "caption": "3. On your turn, eat a card or roll the die and fly."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A board of 6 stops, with the cost in beans of each flight",
+     "items": [
+      "Stop 1: Arctic marsh (start). Flight to Stop 2 costs 2 beans.",
+      "Stop 2: Mongolian lake. Flight to Stop 3 costs 3 beans.",
+      "Stop 3: High Tibetan lake. Flight to Stop 4 costs 4 beans, over the Himalaya.",
+      "Stop 4: Brahmaputra river sandbar. Flight to Stop 5 costs 2 beans.",
+      "Stop 5: Chilika lagoon. Flight to Stop 6 costs 3 beans.",
+      "Stop 6: Kerala backwaters. You have arrived."
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "16 food cards",
+     "items": [
+      "Swarm of midges: take 3 beans.",
+      "Swarm of midges: take 3 beans.",
+      "Rich mudflat: take 2 beans.",
+      "Rich mudflat: take 2 beans.",
+      "Rich mudflat: take 2 beans.",
+      "Rich mudflat: take 2 beans.",
+      "Calm night: take 2 beans.",
+      "Calm night: take 2 beans.",
+      "A few insects: take 1 bean.",
+      "A few insects: take 1 bean.",
+      "A few insects: take 1 bean.",
+      "A few insects: take 1 bean.",
+      "Heavy rain: no food. Take nothing.",
+      "Heavy rain: no food. Take nothing.",
+      "A falcon! You hide and lose 1 bean.",
+      "A falcon! You hide and lose 1 bean."
+     ]
+    }
+   ],
+   "rules": [
+    "Each player is a bird. Put each bird on Stop 1, with 2 beans of fuel.",
+    "You can never hold more than 6 beans. Spare beans go back to the pile.",
+    "On your turn, choose one: EAT or FLY.",
+    "EAT: take the top food card and follow it. Then your turn ends.",
+    "FLY: roll the die. Pay the cost of the flight in beans. If the die shows 1 or 2, there is a headwind and the flight costs 1 bean more.",
+    "If you cannot pay, you fall into the sea. Go back to the last stop with 0 beans and miss your next turn. If you can pay, move to the next stop.",
+    "You may choose FLY when you do not have enough beans, but you may fall.",
+    "The first bird to reach Stop 6 wins. Playing alone: count how many turns you need, and try to beat your best score.",
+    "If the food cards run out, shuffle them and start again."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "context": "This is the first step of Eat or Fly. You set up the board and learn how a turn works.",
+     "do": "Cut out the board and the cards. Give every bird 2 beans. Shuffle the cards. Read the rules aloud.",
+     "say": "You are a bird flying to Kerala. Each flight costs beans of fat. On your turn you can eat a card to get more fuel, or fly. If you fly without enough fuel, you may fall into the sea.",
+     "kid": "You are a bird. Eat to get beans. Fly to move on. Do not run out over the sea.",
+     "parent": "A turn is quick. Players who play too safely take longer, and players who rush may fall. Both are fine ways to learn."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "context": "In this step, you play the game until a bird reaches Kerala.",
+     "do": "Take turns. Each turn, choose EAT or FLY. After about six turns each, stop and ask whether anyone has taken a risk.",
+     "say": "Choose to eat or fly. When you fly, remember the headwind. After six turns each, we stop and ask: did anyone take a risk?",
+     "kid": "Eat or fly. Watch your beans. Race to Kerala.",
+     "ask": [
+      {
+       "q": "Did you ever fly without enough beans? What made you choose that?",
+       "good": [
+        "I was in a hurry to catch up.",
+        "I thought the die would give me a calm sky.",
+        "I did not want to waste a turn eating."
+       ]
+      }
+     ],
+     "parent": "Notice whether the players wait for 5 or 6 beans before the Himalaya leg. That is what real birds do, because the Himalaya leg is the longest.",
+     "check": {
+      "t": "mcq",
+      "q": "The next flight costs 4 beans and you hold 4. What is the risk of flying now?",
+      "options": [
+       "A headwind makes it cost 5, and you fall",
+       "Nothing, because you have enough",
+       "You will get too many beans"
+      ],
+      "a": 0,
+      "why": "A headwind adds 1 bean, so 4 beans may not be enough. Real birds also keep a little extra fuel in case of a headwind. If you picked the second answer, remember the die can still add 1 bean."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "context": "In this step, you think about what the game showed.",
+     "do": "Ask what the winner did. Ask what a real bird does when she has no cards to draw and no beans to eat. Ask what the game would be like if the Chilika lagoon was drained.",
+     "say": "What did the winner do? In real life, there is no food card to draw. What does a bird need at each stop? What would happen if Chilika was drained?",
+     "kid": "What did the winner do? What does a real bird need at each stop?",
+     "ask": [
+      {
+       "q": "What would happen in the game if Chilika was drained?",
+       "good": [
+        "The flight from Stop 4 to Kerala would cost 5 beans, and no bird could hold 5 beans safely.",
+        "Fewer birds would arrive.",
+        "Birds would need a bigger tank."
+       ]
+      }
+     ],
+     "parent": "If Chilika is drained, the flight from Stop 4 to Stop 6 costs 2 plus 3, which is 5 beans. A bird can carry 6, but headwinds make the flight a big risk. Link this to the real birds that depend on every stop."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Midnight Sun Spin: how long is a summer day in the far north?",
+   "mins": 30,
+   "days": 1,
+   "context": "In this experiment, you make a small model of the tilted Earth from an orange and a torch. You find out how long the Sun shines on Kerala, on Mongolia and on the Arctic tundra, where many migrating birds raise chicks.",
+   "question": "When the Earth leans towards the Sun, which places get the longest day: places near the equator, in the middle, or near the pole?",
+   "predict": "Before you start, guess. In the summer spin, which dot will stay in the light longest? Which will stay in the light least? Why do you think so?",
+   "fair_test": "Use the same orange, the same torch, the same distance and the same slow turn of 12 counts each time. Only the lean of the orange changes: towards the torch, straight up, or away from the torch.",
+   "results_table": [
+    "Lean of the orange",
+    "Kerala dot: counts lit out of 12",
+    "Mongolia dot: counts lit out of 12",
+    "Tundra dot: counts lit out of 12"
+   ],
+   "materials": [
+    {
+     "item": "an orange, or any ball that you can push a stick through",
+     "qty": 1
+    },
+    {
+     "item": "a bamboo skewer or a knitting needle, longer than the orange",
+     "qty": 1
+    },
+    {
+     "item": "a small ball of clay or a cork to cover the sharp end of the skewer",
+     "qty": 1
+    },
+    {
+     "item": "a rubber band",
+     "qty": 1
+    },
+    {
+     "item": "a washable marker or a pen",
+     "qty": 1
+    },
+    {
+     "item": "a phone torch or a small torch",
+     "qty": 1
+    },
+    {
+     "item": "a pile of books to stand the torch on",
+     "qty": 1
+    },
+    {
+     "item": "a square of paper, for the tilt guide",
+     "qty": 1
+    },
+    {
+     "item": "a dark room, such as a room with the curtains shut",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up pushes the skewer through the orange and covers the sharp end with clay. Do not look into the torch.",
+   "record": "Fill in the table of counts for all three leans. Write one sentence for each lean about which dot stayed lit longest.",
+   "setup": [
+    {
+     "art": "A grown-up pushing a bamboo skewer through the top and bottom of an orange, with a rubber band around its middle like an equator.",
+     "caption": "1. Push a skewer from the top to the bottom of the orange. Put a rubber band around the middle."
+    },
+    {
+     "art": "An orange with three dots: one just above the rubber band, one halfway up, and one very near the top.",
+     "caption": "2. Draw three dots: near the band, halfway up, and near the top."
+    },
+    {
+     "art": "A square of paper with one corner folded in half and in half again, and a skewer leaning against the folded edge.",
+     "caption": "3. Fold a paper corner twice. Use the fold to lean the skewer by the right amount."
+    },
+    {
+     "art": "A torch on a pile of books shining on the orange in a dark room, with the top of the skewer leaning towards the torch.",
+     "caption": "4. Shine the torch at the orange in a dark room. Lean the top towards the torch."
+    },
+    {
+     "art": "A child turning the skewer slowly while a grown-up counts out loud and watches one dot going in and out of the light.",
+     "caption": "5. Turn the orange once for 12 counts. Count how many counts one dot is in the light."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "context": "This is the first step of the Midnight Sun Spin. You guess before you build.",
+     "do": "Show the orange, the skewer and the torch. Say the orange is the Earth, the torch is the Sun, and the top of the skewer is the north. Ask for a guess and a reason.",
+     "say": "This orange is the Earth. The torch is the Sun. The top is the north. We will spin the orange once and see which places stay in the light. Which place do you think stays in the light longest? Why?",
+     "kid": "The orange is the Earth. The torch is the Sun. Which place will stay in the light longest? Why do you think so?",
+     "ask": [
+      {
+       "q": "Which dot will be in the light longest, and why do you think so?",
+       "good": [
+        "The top one, because it is closest to the Sun.",
+        "The middle one, because it is in the middle of the lit side.",
+        "They will all be the same, because the orange turns."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Write down the guess and the reason. Any reason is a good start."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "adult": true,
+     "context": "In this step, you build the model Earth. A grown-up helps with the skewer.",
+     "do": "Push the skewer through the top and the bottom of the orange. Cover the sharp end with clay. Put the rubber band around the middle. Draw a dot just above the band, a dot halfway up, and a dot very near the top.",
+     "say": "The band is the equator. The dot just above it is Kerala. The middle dot is Mongolia. The dot near the top is the Arctic tundra, where many birds breed. Now make a tilt guide. Fold the corner of a paper in half, and in half again.",
+     "kid": "A grown-up pushes the skewer through. Draw three dots. Fold a paper corner twice to make the tilt guide.",
+     "parent": "Use a washable marker on the peel. The tundra dot should be about one finger-width from the top. Keep the torch about 40 centimetres from the orange, with the torch at the same height as the middle of the orange. The room must be dark."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "context": "In this step, you do the summer spin: the top of the orange leans towards the torch.",
+     "do": "Hold the bottom of the skewer. Lean the top towards the torch, like the paper fold. Turn the orange slowly once, for 12 counts. A grown-up counts out loud, one count each second, and calls out when the Kerala dot is in the light. Count how many of the 12 counts it is lit. Repeat for the Mongolia dot, then the tundra dot.",
+     "say": "Lean the top towards the torch. Turn slowly while I count to 12. I will count how many counts the Kerala dot is in the light. Then we do the same for the other two dots.",
+     "kid": "Lean the top towards the torch. Turn once slowly. Count how long each dot is lit.",
+     "ask": [
+      {
+       "q": "Which dot stayed in the light the longest? Which stayed lit the shortest?",
+       "good": [
+        "The tundra dot never left the light.",
+        "The Kerala dot was lit for about half the turn."
+       ]
+      }
+     ],
+     "parent": "Expected: Kerala about 6 of 12, Mongolia about 8, and the tundra dot 12 of 12, in the light the whole turn. Your numbers may differ by one or two. If the lean wobbles, spin again. If the dots are hard to see, move the torch closer.",
+     "check": {
+      "t": "mcq",
+      "q": "In the summer spin, why did the tundra dot stay in the light for the whole turn?",
+      "options": [
+       "The top of the orange leaned towards the torch, so that dot never turned into the dark half",
+       "The tundra dot is closer to the torch than the other dots",
+       "The torch is brighter at the top"
+      ],
+      "a": 0,
+      "why": "The lean tips the top towards the Sun. A dot near the top turns in a small circle that stays on the lit side. If you picked the second option, check: the torch stayed at the same distance from every dot."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "context": "In this step, you spin the orange with the skewer standing straight up. This is the control test.",
+     "do": "Hold the skewer straight up, not leaning at all. Turn once for 12 counts. Count how many counts each dot is lit. Write them in the table.",
+     "say": "Now hold it straight up. Turn slowly while I count to 12. We count each dot again.",
+     "kid": "Hold the skewer straight up. Turn once. Count how long each dot is lit.",
+     "parent": "Expected: about 6 of 12 for all three dots. This is what the day lengths are on the equinox, in March and September."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "context": "In this step, you do the winter spin: the top of the orange leans away from the torch.",
+     "do": "Lean the top of the skewer away from the torch, with the same size of lean. Turn once for 12 counts. Count how long each dot is lit. Write the counts in the table.",
+     "say": "Now lean the top away from the torch. Turn once while I count to 12. We count each dot again.",
+     "kid": "Lean the top away from the torch. Turn once. Count how long each dot is lit.",
+     "parent": "Expected: Kerala about 6, Mongolia about 4, and the tundra dot 0 of 12, in the dark the whole turn. Kerala hardly changes between the three leans."
+    },
+    {
+     "id": "s6",
+     "mins": 6,
+     "context": "In this step, you say what you found, and what it means for birds.",
+     "do": "Look at the table. Ask: what do you claim, what is your evidence, and why does it happen? Then ask what this means for a bird that raises chicks on the tundra.",
+     "say": "Look at your table. What did you find? What numbers show it? Why do you think the dots changed? What might it mean for a bird on the tundra?",
+     "kid": "Look at your table. What do the numbers show? Why did the tundra dot change?",
+     "ask": [
+      {
+       "q": "What is your claim, what is your evidence, and why does it happen?",
+       "good": [
+        "The tundra has the longest summer day. The tundra dot was lit all 12 counts when the top leaned in.",
+        "The lean changes the light. When the lean changed, the numbers changed.",
+        "Kerala hardly changed, so the equator has days of about the same length all year."
+       ]
+      },
+      {
+       "q": "What might a long summer day mean for a bird feeding chicks on the tundra?",
+       "good": [
+        "She has more hours to find food.",
+        "Insects and plants have light to grow all day.",
+        "She can feed her chicks through the bright night."
+       ]
+      }
+     ],
+     "parent": "Let the child give the explanation first. The summary is that the lean of the Earth changes how long the Sun shines on a place. Near the pole the change is large, and near the equator it is small. In summer, the far north has a very long day, which is why so many birds go there to breed."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?",
+   "mins": 30,
+   "days": 1,
+   "context": "In this experiment, you send paper birds along a chain of wetlands with dice. You play it with all the stopovers and again with one stopover drained, and count how many birds arrive.",
+   "question": "Do more birds arrive when the flyway has four wetlands than when one of them is drained?",
+   "predict": "Before you start, guess. Out of 12 birds, how many will arrive with all four wetlands, and how many with one drained? Why do you think so?",
+   "fair_test": "Use the same die, the same start fuel, the same rules and the same number of birds in both rounds. Only one thing changes: wetland 3 is there or it is drained.",
+   "results_table": [
+    "Round",
+    "Birds that started",
+    "Birds that arrived",
+    "Birds that fell"
+   ],
+   "materials": [
+    {
+     "item": "one die",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper and a pen, to draw the flyway",
+     "qty": 1
+    },
+    {
+     "item": "12 small markers, such as buttons or bits of paper, for the birds",
+     "qty": 12
+    },
+    {
+     "item": "20 dried beans or lentils, for fuel",
+     "qty": 20
+    }
+   ],
+   "record": "Write down how many birds arrived and how many fell in each round. Work out the fraction that arrived each time.",
+   "setup": [
+    {
+     "art": "A sheet of paper with a row of six circles joined by arrows: Start marsh, Wetland 1, Wetland 2, Wetland 3, Wetland 4, Kerala.",
+     "caption": "1. Draw six circles in a row, joined by arrows. Name them: Start, 1, 2, 3, 4, Kerala."
+    },
+    {
+     "art": "A child placing a bird marker on the Start circle with two beans beside it.",
+     "caption": "2. Put a bird on the Start. Give her 2 beans of fuel."
+    },
+    {
+     "art": "A hand rolling a die: a 1 or 2 is drawn as a headwind arrow, and 3 to 6 as a calm sky.",
+     "caption": "3. Roll the die for each leg. A 1 or 2 is a headwind and costs an extra bean."
+    },
+    {
+     "art": "The same row of circles with circle 3 crossed out and a long arrow jumping from circle 2 to circle 4.",
+     "caption": "4. In round 2, cross out wetland 3. The bird must fly from 2 to 4 in one go."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "context": "This is the first step of the Stepping-Stone Flyway. You learn the rules and make a guess.",
+     "do": "Draw the six circles. Read the rules: each bird starts with 2 beans. Each leg costs 1 bean. Roll the die for each leg. A 1 or 2 costs one extra bean. A bird with too few beans falls into the sea. Ask for a guess and a reason.",
+     "say": "A bird starts with 2 beans of fuel. Each leg costs 1 bean. Roll a die for each leg. A 1 or 2 is a headwind, and costs 1 bean more. Out of 12 birds, how many do you think will arrive? Why?",
+     "kid": "Each bird has 2 beans. Each leg costs 1 bean. A 1 or 2 on the die costs 1 more. How many of 12 birds arrive?",
+     "ask": [
+      {
+       "q": "How many of the 12 birds do you think will arrive? Why do you think so?",
+       "good": [
+        "Most, because the stops give them time to eat.",
+        "About half, because the dice can go wrong.",
+        "All of them, because there are many stops."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Write it down. A bird that has 0 beans left when she lands is safe. She falls only if she needs more beans than she has."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "context": "In this step, you learn how a bird feeds at a wetland.",
+     "do": "Explain feeding. When a bird lands at a wetland, roll the die. A 1 means poor food, so she fills up to only 1 bean. A 2 to 6 means good food, so she fills up to 2 beans. She never holds more than 2 beans. At Kerala, she has arrived.",
+     "say": "At each wetland, the bird feeds. Roll the die. A 1 means poor food, so she fills up to 1 bean. Any other number fills her up to 2 beans. She never carries more than 2.",
+     "kid": "At each wetland, roll the die. A 1 means poor food. She fills up to 1 bean. Any other number fills her to 2 beans.",
+     "parent": "Two beans is the most a bird can hold. A bird that lands with 1 bean and rolls a 1 stays at 1 bean."
+    },
+    {
+     "id": "s3",
+     "mins": 9,
+     "context": "In this step, you fly 12 birds along the chain with all four wetlands. This is round 1.",
+     "do": "Fly one bird at a time from the Start to Kerala. For each leg, take the beans, roll the die, and take one more bean if the die shows 1 or 2. If she has too few beans, she falls. At each wetland, roll to feed. Tally the birds that arrive and the birds that fall. Do this for all 12 birds.",
+     "say": "Fly the first bird. Spend a bean for the leg. Roll for a headwind. Then roll to feed at the wetland. Keep a tally of birds that arrive and birds that fall. Twelve birds, one by one.",
+     "kid": "Fly one bird at a time. Spend beans. Roll the die. Tally the birds that arrive and fall.",
+     "parent": "Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. Expected: about 9 or 10 arrive, and 2 or 3 fall.",
+     "check": {
+      "t": "mcq",
+      "q": "A bird lands at wetland 2 with 0 beans left. Is she safe?",
+      "options": [
+       "Yes, because she landed and can feed to fill up again",
+       "No, because she has no beans",
+       "Only if she rolls a 6"
+      ],
+      "a": 0,
+      "why": "A bird is safe if she lands. At the wetland she feeds and fills up again. She falls only if she runs out of fuel in the air, between two places."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "context": "In this step, you drain wetland 3 and fly 12 more birds. This is round 2.",
+     "do": "Cross out wetland 3. The bird now flies from wetland 2 to wetland 4 in one leg, and this leg costs 2 beans. A headwind still costs one more bean. Fly 12 birds as before. Tally the birds that arrive and the birds that fall.",
+     "say": "Now wetland 3 has been drained. The bird must fly from 2 to 4 in one go, and this leg costs 2 beans. Fly 12 more birds the same way. Tally them.",
+     "kid": "Cross out wetland 3. The long leg costs 2 beans. Fly 12 more birds. Tally them.",
+     "parent": "Expected: about 6 arrive, and about 6 fall. A bird needs a full 2 beans and no headwind to cross the long leg. Your counts will vary by two or three. If round 1 and round 2 are close, play both rounds again and add the counts."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "context": "In this step, you compare the two rounds and say what happened.",
+     "do": "Write the counts in the table. Ask: what is your claim, what is your evidence, and why did the drained wetland matter? Ask what would happen if two wetlands were drained.",
+     "say": "Look at both rounds. What is different? What numbers show it? Why did more birds fall when wetland 3 was gone? What would happen if two wetlands were gone?",
+     "kid": "Look at both rounds. How many arrived each time? Why did more birds fall in round 2?",
+     "ask": [
+      {
+       "q": "What is your claim, what is your evidence, and why did it happen?",
+       "good": [
+        "Fewer birds arrived when a wetland was gone. We counted fewer arrivals in round 2.",
+        "The long gap used up the fuel, and one headwind was enough to finish a bird.",
+        "A stopover lets a bird refuel, and a gap without one is risky."
+       ]
+      },
+      {
+       "q": "What would happen if two wetlands were drained?",
+       "good": [
+        "Almost no bird would cross.",
+        "The gap would be even longer than the fuel could cover."
+       ]
+      }
+     ],
+     "parent": "Let the child explain first. In the real world, the numbers are not beans, but the pattern is the same: a long gap with no place to refuel is where birds are lost.",
+     "check": {
+      "t": "mcq",
+      "q": "Why were more birds lost when wetland 3 was drained?",
+      "options": [
+       "The long gap cost more fuel than a bird could carry, so a headwind finished more of them",
+       "The birds forgot the way",
+       "The die gave worse numbers in round 2"
+      ],
+      "a": 0,
+      "why": "The same die and the same rules were used. Only the gap changed. If you picked the last answer, play again: unlucky dice alone would not make the same difference every time."
+     }
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Resident, Winter Visitor or Passer-by? Sort eight birds by their year",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity, you sort eight birds by how they spend the year in India. Birders use four labels: resident, winter visitor, summer visitor and passage migrant.",
+   "materials": [
+    {
+     "item": "a pencil and paper, or the cut-out cards",
+     "qty": 1
+    },
+    {
+     "item": "a field guide or phone, if you want to look up a bird (optional)",
+     "qty": 1,
+     "buy": "b-guide"
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Learn the four labels. Sort eight birds. Check each one against the clue."
+    }
+   ],
+   "record": "A table of the eight birds with the label you chose and the clue that made you choose it.",
+   "setup": [
+    {
+     "art": "Four labelled boxes on a table: Resident, Winter visitor, Summer visitor, Passage migrant.",
+     "caption": "1. Draw four boxes and label them."
+    },
+    {
+     "art": "Eight small cards, each with a bird picture and one clue about her year, in a row.",
+     "caption": "2. Read each bird's clue. Decide which box it goes in."
+    },
+    {
+     "art": "A child putting the cards into the boxes and checking the clues on the back.",
+     "caption": "3. Put each card in a box. Then check your answers."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "context": "This is the first step of the sorting activity. You learn the four labels.",
+     "do": "Read the four labels. A resident stays all year. A winter visitor comes for the northern winter. A summer visitor comes to breed in the warm months. A passage migrant stops only for days or weeks on the way to somewhere else.",
+     "say": "Birders use four labels. A resident stays all year. A winter visitor comes for our winter. A summer visitor comes to nest. A passage migrant only stops by. Which birds do you think you have seen here?",
+     "kid": "Four labels. Resident stays. Winter visitor comes in winter. Summer visitor comes to nest. Passage migrant only passes through.",
+     "ask": [
+      {
+       "q": "Which birds around your home do you think are residents?",
+       "good": [
+        "Crows.",
+        "Pigeons.",
+        "Sparrows or mynas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "context": "In this step, you sort eight birds by their clues.",
+     "do": "Read each clue and put the bird in a box. House crow: seen in every month, and nests here. Rock pigeon: seen in every month. Rosy starling: arrives in autumn and leaves in spring. Barn swallow: arrives in autumn and leaves in spring. Northern pintail: on lakes from autumn to spring. Pied cuckoo: arrives with the monsoon, nests, and leaves. Amur falcon: here for three weeks in October and November. Cattle egret: seen in every month.",
+     "say": "Read each clue. Where does each bird go? Think about when it is here and when it is not. There are two residents, three winter visitors, one summer visitor and one passage migrant, and one more resident.",
+     "kid": "Read each clue. Put each bird in a box. Think about when you see it.",
+     "ask": [
+      {
+       "q": "Which bird was hardest to place, and why?",
+       "good": [
+        "The pied cuckoo, because it comes for the rains.",
+        "The Amur falcon, because it stays for only a short time."
+       ]
+      }
+     ],
+     "parent": "Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can be a different label."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "context": "In this step, you check which label fits the birds you know.",
+     "do": "Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone.",
+     "say": "Pick two more birds you know. Which label fits each? How could we find out?",
+     "kid": "Pick two more birds you know. Which label fits? How could you check?",
+     "check": {
+      "t": "mcq",
+      "q": "A bird is seen in your city from October to March, and never in summer. Which label fits best?",
+      "options": [
+       "Winter visitor",
+       "Resident",
+       "Summer visitor"
+      ],
+      "a": 0,
+      "why": "A bird that comes for the northern winter and leaves for the north in spring is a winter visitor. A resident would be here in all months. A summer visitor would be here in the warm months."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Read a Tracker's Graph: the stairs of a long journey",
+   "mins": 25,
+   "days": 1,
+   "context": "In this activity, you draw a line graph of a tagged goose's weekly position. The numbers are made up, but real tracking graphs look like this. You find out what the flat parts and the steep parts mean.",
+   "materials": [
+    {
+     "item": "squared paper or a sheet with a grid",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and a ruler",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Plot the points. Join them. Read the flat parts and the steep parts."
+    }
+   ],
+   "record": "Your graph, with the flat parts marked 'stopover' and the steep parts marked 'flight'.",
+   "setup": [
+    {
+     "art": "A grid with weeks 0 to 11 along the bottom and latitude from 20 to 50 degrees up the side.",
+     "caption": "1. Draw a grid. Weeks along the bottom, latitude up the side."
+    },
+    {
+     "art": "A table of twelve weekly positions next to dots being drawn on the grid.",
+     "caption": "2. Plot a dot for each week from the table."
+    },
+    {
+     "art": "A line joining the dots, with three flat steps and two steep slopes, and labels on each.",
+     "caption": "3. Join the dots. Mark the flat parts and the steep parts."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of the tracker graph. You draw the grid.",
+     "do": "Draw a grid with 12 weeks along the bottom (0 to 11) and latitude up the side, from 20 to 50 degrees north. Explain that latitude tells us how far north a bird is. A higher number is farther north.",
+     "say": "A tag sends a bird's position every week. Latitude says how far north she is. A big number is far north. We will draw her journey week by week. What do you think the graph will look like?",
+     "kid": "Draw a grid. Weeks go along the bottom. Latitude goes up the side.",
+     "ask": [
+      {
+       "q": "What do you think the line will look like when the goose is flying, and when she is resting?",
+       "good": [
+        "Flying: the line goes down quickly.",
+        "Resting: the line stays flat."
+       ]
+      }
+     ],
+     "parent": "Latitude is the north-south position. The goose is imagined: Tara, tagged on a lake in Mongolia."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "context": "In this step, you plot Tara's twelve weekly positions.",
+     "do": "Plot these points: week 0: 48. Week 1: 48. Week 2: 48. Week 3: 40. Week 4: 33. Week 5: 33. Week 6: 33. Week 7: 33. Week 8: 27. Week 9: 27. Week 10: 27. Week 11: 27. Join the dots with a ruler.",
+     "say": "These are Tara's positions. Mark each dot, then join them with a ruler. Take your time. Does the line look as you expected?",
+     "kid": "Plot each dot. Join them with a ruler.",
+     "parent": "The numbers are imagined, but they follow a real pattern. Flat parts are where the tagged bird stays. The line only goes down when she flies south."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "context": "In this step, you read the graph and say what happened to Tara.",
+     "do": "Ask: where is the line flat? Where is it steep? How many weeks did she spend at the middle stopover? How many degrees did she travel in all? Each degree of latitude is about 111 kilometres.",
+     "say": "Where is the graph flat? What does that mean? Where is it steep? How many weeks did she rest at the middle place? How far did she go in degrees?",
+     "kid": "Find the flat parts. Find the steep parts. What do they mean?",
+     "ask": [
+      {
+       "q": "What do the flat parts and the steep parts mean?",
+       "good": [
+        "Flat parts are where she stays and feeds. Steep parts are where she flies.",
+        "She spent four weeks at the middle stopover.",
+        "She went from 48 to 27, which is 21 degrees."
+       ]
+      }
+     ],
+     "parent": "Answers: three flat parts, at 48 (weeks 0 to 2), 33 (weeks 4 to 7) and 27 (weeks 8 to 11). The steep parts are between weeks 2 and 4 and between 7 and 8. She went 21 degrees, about 2,300 kilometres north to south (21 times 111).",
+     "check": {
+      "t": "mcq",
+      "q": "On a tracking graph of latitude, what does a long flat part mean?",
+      "options": [
+       "The bird stayed in about the same place, such as a lake where she rested",
+       "The bird flew very fast",
+       "The tag stopped working"
+      ],
+      "a": 0,
+      "why": "A flat line means the latitude is not changing, so the bird is staying. Steep parts show a flight. If you picked the last answer, a tag that stops sending usually leaves a gap in the graph, not a flat line."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "The Chain of Energy: from Arctic sunlight to a wingbeat over the sea",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity, you put cards in order to show where the energy in a godwit's wingbeat comes from, step by step.",
+   "materials": [
+    {
+     "item": "scissors and paper to make eight cards",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Cut and order eight cards. Then build your own chain for another bird."
+    }
+   ],
+   "record": "The ordered chain of eight cards, and your own chain for another bird.",
+   "setup": [
+    {
+     "art": "Eight cards laid in a muddled row on a table.",
+     "caption": "1. Cut out eight cards. Mix them up."
+    },
+    {
+     "art": "The same eight cards in a line with arrows between them, from a Sun to a flying bird.",
+     "caption": "2. Put them in the right order."
+    },
+    {
+     "art": "A child drawing a new chain with a swallow at the end.",
+     "caption": "3. Make a chain for another bird."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "context": "This is the first step of the chain of energy. You make the cards.",
+     "do": "Write each of these on its own card. Sunlight shines on the Arctic for most of the day. Plants and algae grow in the long light. Insects, worms and shellfish eat them and multiply. The godwit eats them at a stopover. Her body turns the extra food into fat. She leaves, and burns the fat in her flight muscles. Her wings beat over the sea. The warmth and movement spread out into the air.",
+     "say": "Write each line on its own card. We will mix them up and put them in the right order. This is the chain that runs from the Sun to a wingbeat.",
+     "kid": "Write each line on a card. Mix the cards up."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "context": "In this step, you put the cards in order.",
+     "do": "Mix up the cards, then put them in the order that you think is right. Check with the list. Ask where each link gets its energy from.",
+     "say": "Put the cards in order. Where does each link get its energy from? What would happen if one link was missing?",
+     "kid": "Put the cards in order. Where does each link get its energy?",
+     "ask": [
+      {
+       "q": "What would happen to the godwit if the mudflat link was lost?",
+       "good": [
+        "She would not have enough food to build fat.",
+        "She could not make the long flight."
+       ]
+      }
+     ],
+     "parent": "Correct order: sunlight, plants and algae, small animals, the godwit eats, fat, burning the fat, wingbeats, warmth. Do not give the answer first. Let the child try."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "context": "In this step, you build your own chain for a different bird.",
+     "do": "Choose a bird: a barn swallow, an Amur falcon or a crow. Draw a chain of 5 or 6 links from the Sun to that bird. Add one link where a human or a place could break the chain.",
+     "say": "Choose a bird. Make a chain from the Sun to her. Where could the chain break?",
+     "kid": "Pick a bird. Draw a chain from the Sun to her. Where could it break?",
+     "check": {
+      "t": "mcq",
+      "q": "Which link is the true starting point of the godwit's fuel?",
+      "options": [
+       "Sunlight, which plants and algae use to grow",
+       "The godwit's gut",
+       "The mudflat itself"
+      ],
+      "a": 0,
+      "why": "The fat in the godwit's body is stored energy that came from the Sun, passed through plants, algae and small animals. The mudflat and the gut are places along the chain, not the start."
+     }
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Mudflat Buffet: why waders have different bills",
+   "mins": 35,
+   "days": 1,
+   "context": "In this project, you build a model mudflat in a tray and hunt for buried food with two kinds of bill. You find out how a long bill and a short bill reach different food.",
+   "materials": [
+    {
+     "item": "a tray or a wide box at least 5 centimetres deep",
+     "qty": 1
+    },
+    {
+     "item": "uncooked rice, enough to fill the tray 4 centimetres deep",
+     "qty": 1
+    },
+    {
+     "item": "20 lentils or small beans, for worms",
+     "qty": 20
+    },
+    {
+     "item": "a teaspoon, for a short bill that digs only the top 1 centimetre",
+     "qty": 1
+    },
+    {
+     "item": "a pair of chopsticks or tweezers, for a long bill that probes 4 centimetres",
+     "qty": 1
+    },
+    {
+     "item": "a cloth or tea towel, for the high tide",
+     "qty": 1
+    },
+    {
+     "item": "a clock or phone timer",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep rice and lentils away from small children who might put them in their mouths.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Build the mudflat. Hide the worms. Hunt with each bill. Compare."
+    }
+   ],
+   "record": "A table of how many worms each bill found in each tide, and a drawing of the tray from the side.",
+   "setup": [
+    {
+     "art": "A tray filled with rice, with ten lentils pushed in just under the top and ten near the bottom.",
+     "caption": "1. Fill the tray with rice. Hide ten lentils near the top and ten near the bottom."
+    },
+    {
+     "art": "A tray covered with a cloth to show high tide.",
+     "caption": "2. Cover the tray with the cloth for high tide."
+    },
+    {
+     "art": "A child with a teaspoon digging the top of the rice, with a timer beside her.",
+     "caption": "3. At low tide, take off the cloth and hunt with the short bill for 20 seconds."
+    },
+    {
+     "art": "A child with chopsticks probing deep into the rice for lentils.",
+     "caption": "4. Refill the tray and hunt with the long bill for 20 seconds."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of the Mudflat Buffet. You guess before you build.",
+     "do": "Show the tray, the spoon and the chopsticks. Say the spoon is a short bill and the chopsticks are a long bill. Ask for a guess and a reason.",
+     "say": "Waders hunt for worms in mud. A plover has a short bill. A curlew has a long bill. Who do you think will find more worms in 20 seconds? Why?",
+     "kid": "The spoon is a short bill. The chopsticks are a long bill. Which finds more worms? Why?",
+     "ask": [
+      {
+       "q": "Which bill will find more worms, and why do you think so?",
+       "good": [
+        "The long bill, because it reaches deeper.",
+        "The short bill, because it covers more rice at once."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Write it down."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "context": "In this step, you build the mudflat.",
+     "do": "Fill the tray with rice, 4 centimetres deep. Push ten lentils into the rice just under the top. Push ten lentils down near the bottom. Cover the tray with the cloth.",
+     "say": "This is the mudflat. Ten worms live near the top. Ten live deep down. The cloth is the sea at high tide.",
+     "kid": "Fill the tray with rice. Hide ten lentils near the top and ten deep. Cover it.",
+     "parent": "Keep a note of which lentils are shallow and which are deep. You can use two colours of lentil."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "context": "In this step, you hunt with the short bill at low tide.",
+     "do": "Take off the cloth, for low tide. Start the timer for 20 seconds. Use the spoon to scoop only the top 1 centimetre. Count the worms you find. Then cover the tray again.",
+     "say": "The tide is out. You have 20 seconds. Use the spoon, and dig only the top. Count your worms.",
+     "kid": "Take off the cloth. Hunt with the spoon for 20 seconds. Count the worms.",
+     "parent": "Expected: the spoon finds many shallow worms and almost no deep ones."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "context": "In this step, you hunt with the long bill at low tide.",
+     "do": "Reset the tray with the same number of worms. Take off the cloth and start the timer for 20 seconds. Use the chopsticks to probe down and pick up worms. Count them.",
+     "say": "Reset the tray. The tide is out again. This time use the long bill. You have 20 seconds. Count your worms.",
+     "kid": "Reset the tray. Hunt with the chopsticks for 20 seconds. Count the worms.",
+     "parent": "Expected: the chopsticks find fewer worms in total, but they find the deep ones. Results vary, so try each bill twice and add them up."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "context": "In this step, you say what you found, and what it means for waders.",
+     "do": "Look at the counts. Ask: which bill found more shallow worms, and which found the deep ones? Why might many kinds of wader share one mudflat?",
+     "say": "Look at the counts. Which bill found the worms near the top? Which found the deep ones? Why can many kinds of waders share one mudflat?",
+     "kid": "Which bill found the deep worms? Why can many waders share one mudflat?",
+     "ask": [
+      {
+       "q": "Why can many kinds of waders feed on the same mudflat?",
+       "good": [
+        "Each kind of bill reaches different food.",
+        "Short bills take shallow worms and long bills take deep ones, so they do not fight over the same food."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "On a real mudflat, why do the tide times matter for waders?",
+      "options": [
+       "Waders can feed only when the mud is uncovered, so the tide sets their feeding time",
+       "Waders only like water",
+       "The tide moves the worms"
+      ],
+      "a": 0,
+      "why": "At high tide the mud is under water and out of reach. A wader has a limited time at low tide to build her fat, so she needs a good mudflat. If you picked the last answer, notice that the cloth in your model covered the tray, and did not move the worms."
+     }
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Save the Stopover: a plan that works for the birds and the village",
+   "mins": 35,
+   "problem": "A village lake is the only large wetland for 300 kilometres, and 5,000 waders rest and feed there for two weeks every autumn. The village also catches fish in the lake and wants a new road along the shore. Make a plan that keeps the birds safe, keeps the fishing, and gets the road.",
+   "constraints": [
+    "The lake must stay shallow at the edges, with mud and reeds, for the waders to feed.",
+    "The fishermen must keep catching fish for the market.",
+    "The road must connect the village to the town.",
+    "You can draw, but you cannot move the lake."
+   ],
+   "materials": [
+    "paper and pencils or coloured pens",
+    "a ruler"
+   ],
+   "general": [
+    "Build the road away from the shore, on the far side of the village.",
+    "Keep a quiet zone along one side of the lake during the weeks when the waders are there.",
+    "Set fishing times so the boats are away from the mud while the birds feed."
+   ],
+   "creative": [
+    "Have village children lead dawn walks for visitors to watch the birds, so that the lake earns money for the village.",
+    "Use a raised road with gaps, so water and animals can pass below.",
+    "Ask the fishermen to count the birds each day and share the numbers with a bird club, so they help and are paid."
+   ],
+   "your_turn": "Draw your map of the lake, the village and the road. Mark where the birds feed and where the boats go. Explain to a friend why your plan is fair to both the birds and the people.",
+   "context": "This is a design challenge about balancing the needs of people and migrating birds. You draw a plan for a lake that is a stopover.",
+   "setup": [
+    {
+     "art": "A map of a lake with a village on one shore, reeds and mud at one edge, and a dotted line for a planned road.",
+     "caption": "1. Read the problem. Look at the map of the lake."
+    },
+    {
+     "art": "A child drawing colour zones on the lake map for birds, boats and the road.",
+     "caption": "2. Draw zones for birds, boats and the road."
+    },
+    {
+     "art": "A child explaining the finished plan to a parent with a map between them.",
+     "caption": "3. Explain your plan to someone."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "context": "This is the first step of Save the Stopover. You read the problem and list what each side needs.",
+     "do": "Read the problem aloud. Make two lists: what the birds need, and what the village needs.",
+     "say": "The birds need shallow water with mud and reeds. What do the village people need? Make two lists, one for each.",
+     "kid": "Make two lists. What do the birds need? What does the village need?",
+     "ask": [
+      {
+       "q": "What does each side need that the other side might block?",
+       "good": [
+        "The birds need quiet mud, but boats and roads are noisy.",
+        "The village needs fish and a road, which could change the shore."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "context": "In this step, you draw your first plan.",
+     "do": "Draw the lake. Mark a feeding zone for the birds, a fishing zone for the boats and a path for the road. Try to keep every need met.",
+     "say": "Draw the lake. Where will the birds feed? Where will the boats go? Where does the road run? Check each need on your lists.",
+     "kid": "Draw the lake. Mark the bird zone, the boat zone and the road.",
+     "parent": "Do not rush the child to a perfect plan. Ask which need is hardest to meet."
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "context": "In this step, you test your plan against the lists and fix it.",
+     "do": "Go through each need on both lists. Mark what your plan meets and what it does not. Change your plan. Explain it to someone.",
+     "say": "Check your plan against your lists. Which needs does it meet? Which does it miss? Change one thing and check again.",
+     "kid": "Check your plan against your lists. Change one thing. Explain it.",
+     "check": {
+      "t": "mcq",
+      "q": "Why is it a problem if one stopover is lost, even if other lakes are fine?",
+      "options": [
+       "Birds that cannot reach the next place with their fuel may fall short",
+       "Birds only like one lake",
+       "Fish need the lake to stay"
+      ],
+      "a": 0,
+      "why": "A migrant carries only enough fuel for a certain distance. A lost stopover makes a longer gap, and long gaps are where birds run out of fuel."
+     }
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Bar-headed geese flying over the Himalaya",
+   "channel": "to be found",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "To see the geese cross the highest mountains in the world in thin air, and to compare it with the roller coaster flight in this unit.",
+   "check": "Not yet found. Find a short clip from a nature documentary, watch it first, and check that it matches the facts in this unit."
+  },
+  {
+   "title": "The bar-tailed godwit's non-stop flight across the Pacific",
+   "channel": "to be found",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "To see the tracked route of a godwit that flies for days without landing, drawn on a map.",
+   "check": "Not yet found. Find a short clip, watch it first, and check the distance and the days against this unit."
+  },
+  {
+   "title": "Amur falcons in Nagaland",
+   "channel": "to be found",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "To see the falcons roosting by their thousands at the Doyang reservoir, and how the villagers now protect them.",
+   "check": "Not yet found. Find a short clip from a reliable broadcaster, watch it first, and check that it is suitable for children."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which is the best reason that many birds migrate?",
+   "opts": [
+    "The food they need is in different places at different times of the year",
+    "They get bored of one place",
+    "Every bird is hurt by cold"
+   ],
+   "a": 0,
+   "why": "Migration follows food, space and safety for raising young. Cold is only one reason food runs short. Crows and sparrows stay through cold winters because they can still find food.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why do so many birds travel to the far north to raise chicks in summer?",
+   "opts": [
+    "The days are very long, so they have many hours to feed and food is plentiful",
+    "The far north is warmer than India in summer",
+    "There are no other birds there"
+   ],
+   "a": 0,
+   "why": "The tilt of the Earth gives the far north very long summer days. Plants, insects and mudflat animals thrive in that light. A bird can feed her chicks for many hours a day.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "How different is the length of the day in Kerala in June and in December?",
+   "opts": [
+    "Only a little different, about the same length",
+    "Twice as long in June",
+    "There is no daylight in December"
+   ],
+   "a": 0,
+   "why": "Near the equator, day length changes only a little all year, a few minutes each week at most. The big changes are far north and far south.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why do migrating birds store fat rather than sugar as fuel?",
+   "opts": [
+    "A gram of fat holds more than twice the energy of a gram of sugar, so she carries less weight",
+    "Fat is lighter than sugar",
+    "Sugar cannot be stored"
+   ],
+   "a": 0,
+   "why": "A flying bird must carry her own fuel, so fuel that holds more energy per gram lets her fly farther on the same load. Fat holds about 9 units of energy per gram and sugar about 4.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "What happens to a godwit's gut before a very long flight?",
+   "opts": [
+    "It shrinks, and the flight muscles grow",
+    "It grows bigger to hold food",
+    "Nothing changes"
+   ],
+   "a": 0,
+   "why": "A gut full of food is heavy, and she will not eat on the flight. The body saves weight by making the gut smaller and builds more muscle for flying. After landing, the gut grows back.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "What is a stopover?",
+   "opts": [
+    "A place on a journey where a bird rests and feeds before flying on",
+    "A place where a bird stays all year",
+    "The end of a bird's journey"
+   ],
+   "a": 0,
+   "why": "A stopover is a refuelling place. The bird feeds there for days or weeks to build up fat for the next stage.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A key lake on a flyway is drained. What is the most likely result?",
+   "opts": [
+    "Fewer birds arrive at the next place, because some run out of fuel in the gap",
+    "Nothing changes, because birds can fly forever",
+    "More birds arrive, because the route is shorter"
+   ],
+   "a": 0,
+   "why": "A drained lake makes a longer gap between refuelling places. A bird carries a limited amount of fuel, so more of them fall short. Our dice model showed that.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A small falcon is in a town for three weeks in October, then moves on to Africa. Which label do birders give her?",
+   "opts": [
+    "Passage migrant",
+    "Resident",
+    "Winter visitor"
+   ],
+   "a": 0,
+   "why": "A passage migrant stops only for days or weeks on the way somewhere else. A winter visitor stays for the whole northern winter. A resident stays all year.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "On a tracking graph of a bird's position, the line stays flat for four weeks. What does it show?",
+   "opts": [
+    "The bird stayed in about the same place for four weeks",
+    "The bird flew four weeks without stopping",
+    "The tag was broken"
+   ],
+   "a": 0,
+   "why": "A flat line means the position is not changing, so the bird is resting or feeding in one place. A steep line shows a flight.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Why must a satellite tag weigh very little?",
+   "opts": [
+    "A heavy tag makes flying costly and may change how the bird behaves",
+    "A heavy tag is easier to lose",
+    "A light tag gives better pictures"
+   ],
+   "a": 0,
+   "why": "A tag is extra weight that the bird carries on every wingbeat. A common rule is that it should be only a few parts in a hundred of her weight.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these do scientists still not fully understand?",
+   "opts": [
+    "How a young bird, who has never made the trip, times her journey and finds the way",
+    "Whether birds travel from one country to another",
+    "Whether birds store fat"
+   ],
+   "a": 0,
+   "why": "We know that day length and an inside yearly clock both play a part, but how they work together is still being studied. Rings and tags have shown that the journeys are real.",
+   "outcome": 6
+  },
+  {
+   "t": "truefalse",
+   "p": "Only birds migrate.",
+   "a": false,
+   "why": "False. Olive ridley turtles, hilsa fish, butterflies, elephants and many other animals make regular seasonal journeys. Some, such as the wallcreeper, move only up and down a mountain.",
+   "outcome": 0
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Migration: how a body is built for a journey (core)",
+   "tier": "core",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "What does the word migration mean?",
+     "opts": [
+      "A regular journey that an animal makes each year, going out and coming back",
+      "Flying very high",
+      "Moving house once in a lifetime"
+     ],
+     "a": 0,
+     "why": "Migration is a regular, seasonal journey. The animal goes out and comes back, year after year.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "A bird that comes to India only for the northern winter and then leaves is called a ____ visitor.",
+     "a": [
+      "winter"
+     ],
+     "why": "A winter visitor comes for the cold months of the north and goes back to breed. A summer visitor does the opposite.",
+     "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "Birds migrate only because winter is cold.",
+     "a": false,
+     "why": "False. The main reason is food. Some birds stay through freezing winters, and some migrate from warm places. Cold matters only because it makes food scarce.",
+     "outcome": 0
+    },
+    {
+     "t": "sort",
+     "p": "Sort each bird by her year in a city in India.",
+     "cats": [
+      "Resident",
+      "Winter visitor"
+     ],
+     "items": [
+      [
+       "house sparrow",
+       "Resident"
+      ],
+      [
+       "bar-headed goose",
+       "Winter visitor"
+      ],
+      [
+       "Indian peafowl",
+       "Resident"
+      ],
+      [
+       "common sandpiper",
+       "Winter visitor"
+      ],
+      [
+       "house crow",
+       "Resident"
+      ],
+      [
+       "northern shoveler",
+       "Winter visitor"
+      ]
+     ],
+     "a": "as given",
+     "why": "Sparrows, peafowl and crows live here all year. Bar-headed geese, common sandpipers and shovelers are winter visitors that breed far to the north.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Which holds more energy in each gram?",
+     "opts": [
+      "Fat",
+      "Sugar",
+      "They hold the same"
+     ],
+     "a": 0,
+     "why": "A gram of fat holds more than twice as much energy as a gram of sugar. That is why a bird that must carry her fuel stores fat.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put these in the right order, for how a wader gets ready for a long flight.",
+     "a": [
+      "The days are long and food is plentiful",
+      "The bird eats much more than usual",
+      "She stores the extra energy as fat",
+      "Her gut shrinks and her flight muscles grow",
+      "She flies and burns the fat"
+     ],
+     "why": "Food comes first. Then she eats extra, stores it as fat, and rebuilds her body before the flight. In the air, she burns the fat.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Explain in two sentences why a godwit's gut gets smaller before a long flight.",
+     "lines": 3,
+     "a": "A big gut full of food is heavy, and she will not eat during the flight. A smaller gut saves weight, and bigger flight muscles give more power.",
+     "why": "A strong answer says that the gut is heavy and not needed in the air, and links that to saving weight or making room for muscles.",
+     "outcome": 2
+    },
+    {
+     "t": "match",
+     "p": "Match each place in India to what it is for animals.",
+     "pairs": [
+      [
+       "Chilika Lake, Odisha",
+       "a wintering ground and stopover for water birds"
+      ],
+      [
+       "Keoladeo, Bharatpur",
+       "a wetland where Siberian cranes once wintered"
+      ],
+      [
+       "Gahirmatha and Rushikulya, Odisha",
+       "beaches where olive ridley turtles come to nest"
+      ],
+      [
+       "Doyang reservoir, Nagaland",
+       "a place where Amur falcons gather in autumn"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Chilika holds many wintering water birds. Keoladeo once hosted the Siberian crane. Gahirmatha and Rushikulya have the mass nesting of turtles. Amur falcons roost around the Doyang reservoir.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Which tool tells you the most about a bird's whole route, week by week?",
+     "opts": [
+      "A satellite tag",
+      "A ring on her leg",
+      "A photo of her at a lake"
+     ],
+     "a": 0,
+     "why": "A ring tells you two points on the journey, where she was ringed and where she was found. A satellite tag sends her position for months, so you can see the whole route.",
+     "outcome": 5
+    },
+    {
+     "t": "label",
+     "p": "Here is a drawing of a godwit before a long flight, cut open. Label the three parts: fat, flight muscle and gut.",
+     "labels": [
+      "Thick layer under the skin",
+      "Large muscle in the chest",
+      "Small organ for food"
+     ],
+     "art": "A cut-away drawing of a godwit with a thick layer of fat under the skin, large chest muscles and a small gut.",
+     "a": [
+      "Thick layer under the skin: fat",
+      "Large muscle in the chest: flight muscle",
+      "Small organ for food: gut"
+     ],
+     "why": "Before a long flight the fat layer is thick, the chest muscles are large, and the gut is small.",
+     "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "A tag on a bird can weigh as much as the scientists like.",
+     "a": false,
+     "why": "False. A tag adds weight that the bird must carry on every wingbeat. Scientists keep it to a few parts in a hundred of her weight.",
+     "outcome": 5
+    },
+    {
+     "t": "count",
+     "p": "A godwit weighs 400 grams without fat. Before leaving she adds 300 grams of fat. How many grams does she weigh at take-off?",
+     "a": "700",
+     "why": "400 plus 300 is 700. So 300 of her 700 grams is fat, a little less than half.",
+     "outcome": 2
+    },
+    {
+     "t": "perspective",
+     "p": "A village wants a road along the shore of a lake that is a stopover for thousands of waders.",
+     "views": [
+      {
+       "who": "Meera, a girl in Class 4 (an imagined view)",
+       "says": "The lake should be left alone. If the waders cannot feed there, they may not reach the next place."
+      },
+      {
+       "who": "Arif, a boy in Class 4 (an imagined view)",
+       "says": "The village needs the road to reach the hospital and the school. A plan can protect both."
+      }
+     ],
+     "ask": "Whose view do you agree with more? What would you suggest?",
+     "a": "Answers vary. A strong answer picks a side or a middle path, gives a reason, and uses what we know: waders need shallow mud, and people need a road.",
+     "why": "Both views have a point. The best answers think about a plan that gives the birds quiet mud and the village its road.",
+     "outcome": 3
+    },
+    {
+     "t": "draw",
+     "p": "Draw a graph line for a bird that rests at a lake for 3 weeks, flies south for 1 week, then rests at another lake for 3 weeks.",
+     "a": "A line that is flat for 3 weeks, drops steeply for 1 week, then is flat again for 3 weeks.",
+     "why": "Flat parts show resting. The steep part shows a flight. A good drawing has two flat steps joined by one steep slope.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is also migration?",
+     "opts": [
+      "A hilsa fish swimming from the sea up a river each monsoon to lay eggs",
+      "A crow flying from a tree to a roof",
+      "A dog walking to a gate"
+     ],
+     "a": 0,
+     "why": "Migration is a regular, seasonal journey. The hilsa does it every year. A crow moving between a tree and a roof is a daily move.",
+     "outcome": 0
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Migration: reading the evidence (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Crows stay in Delhi through cold winters, and pied cuckoos migrate across the sea to India in the warm monsoon. What does this show?",
+     "opts": [
+      "Migration follows food and conditions for raising young, not only cold",
+      "Cuckoos like rain more than crows",
+      "Crows cannot fly far"
+     ],
+     "a": 0,
+     "why": "If cold alone caused migration, crows would leave and cuckoos would stay. Both behaviours follow food, nesting and safety.",
+     "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "A young migratory bird needs her parents to tell her when to leave.",
+     "a": false,
+     "why": "False. Many birds leave at the right time with no teacher. Day length and a yearly clock inside the body help set the time. In some species, such as cranes and geese, young birds also learn the route from older birds.",
+     "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "The whole route that a group of migrating birds follows is called a ____.",
+     "a": [
+      "flyway"
+     ],
+     "why": "A flyway includes the breeding grounds, the winter homes and every stopover between.",
+     "outcome": 3
+    },
+    {
+     "t": "count",
+     "p": "A tag should weigh no more than 5 out of every 100 parts of a bird's weight. A bar-headed goose weighs 2,000 grams. What is the heaviest tag she should carry, in grams?",
+     "a": "100",
+     "why": "5 out of every 100 is 5 percent. 2,000 divided by 100 is 20, and 20 times 5 is 100. So the tag should weigh at most 100 grams.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "In the orange-and-torch model, a dot near the top is in the dark for a whole turn when the top leans away from the torch. What does that match in real life?",
+     "opts": [
+      "The far north in midwinter, with the Sun below the horizon all day",
+      "The equator at midday",
+      "The far north in midsummer"
+     ],
+     "a": 0,
+     "why": "When the north leans away from the Sun, the far north gets no direct light. That is the long polar night. The same dot in the light all turn matches midsummer.",
+     "outcome": 1
+    },
+    {
+     "t": "order",
+     "p": "Put these in the right order, for how losing a wetland hurts a flock.",
+     "a": [
+      "A wetland on the route is drained",
+      "The gap between two refuelling places gets longer",
+      "Some birds run out of fuel before the next place",
+      "Fewer birds arrive",
+      "The flock gets smaller over the years"
+     ],
+     "why": "The loss of a link makes a longer gap. A longer gap needs more fuel than some birds carry, so fewer arrive, and the numbers drop over the years.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A friend says: 'Birds fly south because it is cold.' Give two facts that show the idea is not complete.",
+     "lines": 4,
+     "a": "Crows and sparrows stay through cold winters. Some birds, such as pied cuckoos, migrate from warm places. What matters is food and a safe place to nest.",
+     "why": "A strong answer gives two facts that go against the claim, such as birds that stay in the cold or tropical birds that migrate, and may name food as the main reason.",
+     "outcome": 0
+    },
+    {
+     "t": "match",
+     "p": "Match each tool to what it tells us about migrants.",
+     "pairs": [
+      [
+       "Ring",
+       "where a bird was at two points in her life"
+      ],
+      [
+       "Satellite tag",
+       "her whole route, week by week"
+      ],
+      [
+       "Geolocator",
+       "light levels, to work out where she was after she is caught again"
+      ],
+      [
+       "Weather radar",
+       "flocks flying at night"
+      ],
+      [
+       "eBird sightings",
+       "when a species reaches your city"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each tool shows a different part of the picture. Rings are cheap and old, tags show the route, geolocators suit small birds, radar sees flocks, and sightings come from many people.",
+     "outcome": 5
+    },
+    {
+     "t": "sort",
+     "p": "Sort each journey as one across countries, or one within a region.",
+     "cats": [
+      "Across countries",
+      "Within one region"
+     ],
+     "items": [
+      [
+       "bar-headed goose",
+       "Across countries"
+      ],
+      [
+       "demoiselle crane",
+       "Across countries"
+      ],
+      [
+       "wallcreeper moving down a mountain",
+       "Within one region"
+      ],
+      [
+       "Asian elephant between forests",
+       "Within one region"
+      ],
+      [
+       "Amur falcon",
+       "Across countries"
+      ]
+     ],
+     "a": "as given",
+     "why": "The goose, crane and falcon cross several countries. The wallcreeper and the elephant move within one region, but their journeys are still regular and seasonal.",
+     "outcome": 0
+    },
+    {
+     "t": "odd",
+     "p": "Which is the odd one out, and why? Rosy starling, barn swallow, northern pintail, house crow.",
+     "a": "House crow, because she lives in India all year. The other three are winter visitors.",
+     "why": "The starling, swallow and pintail breed far to the north and spend winter in India. The house crow is a resident.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "A bird waits at a stopover until the wind is behind her. Why?",
+     "opts": [
+      "A tailwind carries her, so the flight costs less fuel",
+      "She likes the wind",
+      "Wind makes her feathers grow"
+     ],
+     "a": 0,
+     "why": "A tailwind pushes the bird along, so she saves energy. A headwind makes the same flight cost much more fuel.",
+     "outcome": 3
+    },
+    {
+     "t": "label",
+     "p": "Here is a graph of a bird's position over twelve weeks. Label the three kinds of place: breeding lake, stopover and flight.",
+     "labels": [
+      "A flat part at the start",
+      "A flat part in the middle",
+      "A steep part between two flat parts"
+     ],
+     "art": "A line graph with three flat steps and two steep slopes between them, over twelve weeks.",
+     "a": [
+      "A flat part at the start: breeding lake",
+      "A flat part in the middle: stopover",
+      "A steep part between two flat parts: flight"
+     ],
+     "why": "Flat parts are where the bird stays, and the steep parts are where she flies.",
+     "outcome": 5
+    },
+    {
+     "t": "perspective",
+     "p": "Scientists want to put light tags on small birds to find out where they spend winter.",
+     "views": [
+      {
+       "who": "Nalini, a girl in Class 4 (an imagined view)",
+       "says": "Tags show us where to protect the birds. A tag weighs only a gram."
+      },
+      {
+       "who": "Samir, a boy in Class 4 (an imagined view)",
+       "says": "Any tag changes how a bird flies. We should watch from far away."
+      }
+     ],
+     "ask": "Whose view do you agree with more? How could scientists check whether tags do harm?",
+     "a": "Answers vary. A strong answer picks a side, gives a reason and suggests a fair test, such as comparing the survival of tagged and untagged birds.",
+     "why": "Both views have a point. A fair comparison of tagged and untagged birds is how scientists check.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "About two thirds of the tidal mudflats of the Yellow Sea were lost over about 50 years. What is the most likely effect on waders that refuel there?",
+     "opts": [
+      "Fewer places to feed, so fewer birds survive the journey",
+      "More places to feed",
+      "No effect on birds"
+     ],
+     "a": 0,
+     "why": "Waders on that flyway refuel on the mudflats. Fewer mudflats means less food and a higher chance of falling short, and counts of several waders have dropped.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Explain how a long summer day in the Arctic helps a bird raise her chicks.",
+     "lines": 4,
+     "a": "The long days give plants and insects many hours of light to grow, so there is plenty of food. The bird can feed her chicks for many hours a day, even at night.",
+     "why": "A strong answer links day length to food supply and to feeding time.",
+     "outcome": 1
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Migration: numbers, tests and fairness (challenge)",
+   "tier": "challenge",
+   "mins": 35,
+   "items": [
+    {
+     "t": "count",
+     "p": "A godwit leaves with 300 grams of fat and lands with 50 grams left after 11 days. About how many grams of fat does she burn each day, rounded to the nearest gram?",
+     "a": "23",
+     "why": "300 take away 50 is 250 grams burned. 250 divided by 11 is about 22.7, which is 23 when rounded.",
+     "outcome": 2
+    },
+    {
+     "t": "count",
+     "p": "A bird flies 11,000 kilometres in 8 days. How far does she fly each day on average?",
+     "a": "1375",
+     "why": "11,000 divided by 8 is 1,375. She flies about 1,375 kilometres each day, day and night.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "If the Earth were not tilted, what would be different about the Arctic in June?",
+     "opts": [
+      "There would be no midnight Sun, and the days would stay about 12 hours long",
+      "The Arctic would be much hotter",
+      "The Sun would never rise"
+     ],
+     "a": 0,
+     "why": "The tilt makes the far north lean towards the Sun in June. Without a tilt, day length would be about 12 hours everywhere all year.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "How could you test whether tags change what a bird does? Describe a fair test.",
+     "lines": 4,
+     "a": "Catch two groups of the same kind of bird. Put tags on one group and leave the other alone. Follow both and compare how many survive and breed.",
+     "why": "A strong answer has two groups that are the same except for the tag, and a measure to compare, such as survival or breeding.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "A bird that stays two weeks at a stopover is wasting time.",
+     "a": false,
+     "why": "False. The stay is when she builds the fat she needs for the next stage. Without it, she could not make the flight.",
+     "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "Fat holds a little more than ____ times as much energy per gram as sugar.",
+     "a": [
+      "2",
+      "two"
+     ],
+     "why": "Fat holds about 9 units of energy per gram and sugar about 4. 9 divided by 4 is a little more than 2.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort each fact by the idea it supports about how a bird knows when to leave.",
+     "cats": [
+      "Day length",
+      "An inside yearly clock"
+     ],
+     "items": [
+      [
+       "Changing the hours of light in a cage changes when birds fatten",
+       "Day length"
+      ],
+      [
+       "Birds in steady light still get restless at about the right season",
+       "An inside yearly clock"
+      ],
+      [
+       "Shorter days in autumn bring on the urge to eat more",
+       "Day length"
+      ],
+      [
+       "A caged bird in constant warmth still shows migratory restlessness",
+       "An inside yearly clock"
+      ]
+     ],
+     "a": "as given",
+     "why": "Facts about changing the light show day length at work. Facts about steady light and still getting restless show a clock inside the body.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw a chain from the Sun to a swallow catching an insect. Mark one place where the chain could break.",
+     "a": "A line from the Sun to plants, to insects, to the swallow, with a mark such as a drained pond or sprayed field where the chain could break.",
+     "why": "A strong drawing shows each link, with the energy flowing from the Sun to the swallow, and shows a break at a link that people or weather could harm.",
+     "outcome": 3
+    },
+    {
+     "t": "perspective",
+     "p": "A stopover lake in one country feeds birds from five other countries for just two weeks a year.",
+     "views": [
+      {
+       "who": "Anita, a girl in Class 4 (an imagined view)",
+       "says": "The country with the lake should guard it, because it is their land and their water."
+      },
+      {
+       "who": "Lakshmi, a girl in Class 4 (an imagined view)",
+       "says": "All five countries should help, because their birds depend on it and they gain from it."
+      }
+     ],
+     "ask": "Whose view do you agree with more? How could countries share the work?",
+     "a": "Answers vary. A strong answer picks a side or a mix, gives a reason, and suggests a way to share, such as shared funds or shared monitoring.",
+     "why": "Both views have a point. A flyway crosses borders, so protection often needs more than one country.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A sparrow stays in one lane all year, and a godwit flies 11,000 kilometres. Neither is wrong. Explain why both ways can work.",
+     "lines": 4,
+     "a": "A sparrow can find food all year where she lives, so staying is cheap and safe. A godwit finds much more food in the far north in summer, and the gain is worth the long flight.",
+     "why": "A strong answer says that each way works because the food and safety gained are worth the cost in each case.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "In a study, tagged and untagged birds of the same kind survived equally well for three years. What does that suggest?",
+     "opts": [
+      "The tags probably did little harm to survival",
+      "Tags make birds live longer",
+      "The study proves tags are never harmful"
+     ],
+     "a": 0,
+     "why": "Equal survival suggests little harm, at least to survival and for that species. It does not prove that tags are harmless for all birds or in all ways.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "North of the Arctic Circle, the Sun does not set for several weeks around 21 June.",
+     "a": true,
+     "why": "True. The Earth's tilt points the far north towards the Sun at that time, so the Sun stays above the horizon all day and all night.",
+     "outcome": 1
+    },
+    {
+     "t": "count",
+     "p": "In a model Earth, one dot is lit for 8 of the 12 counts in one turn. What fraction of the turn is it lit, in its simplest form?",
+     "a": "2/3",
+     "why": "8 out of 12 is 8 over 12. Dividing top and bottom by 4 gives 2 over 3.",
+     "outcome": 1
+    },
+    {
+     "t": "odd",
+     "p": "Which is the odd one out, and why? Olive ridley turtle, hilsa, wallcreeper, house sparrow.",
+     "a": "House sparrow, because she stays in the same area all year. The other three make regular seasonal journeys.",
+     "why": "The turtle swims to nesting beaches, the hilsa swims up rivers, and the wallcreeper moves down the mountain in winter. The sparrow is a resident.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "A scientist finds that a flock of waders arrives at a mudflat very thin and leaves two weeks later much heavier. What is the best conclusion?",
+     "opts": [
+      "The mudflat is a refuelling stop where they build fat for the next stage",
+      "The birds have lived there all year",
+      "The birds are ill"
+     ],
+     "a": 0,
+     "why": "Gaining weight in two weeks shows they are feeding well and storing fat. That is what a refuelling stop is for.",
+     "outcome": 3
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Airports use radar and bird counts to warn pilots when large flocks are crossing, so planes avoid collisions.",
+  "Protecting wetlands as nature reserves and Ramsar sites, such as Chilika and Keoladeo, keeps stopovers open.",
+  "Health teams watch migrating waterbirds for diseases such as bird flu, because flocks can carry them between countries.",
+  "Planners place wind turbines and power lines away from busy flyways and narrow bottlenecks.",
+  "Citizen science projects such as eBird and Bird Count India use many people's sightings to follow migrants.",
+  "Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design."
+ ],
+ "spotted": [
+  {
+   "text": "Barn swallows sitting in rows on wires or sheltering under a bridge in winter, from October to March in much of India.",
+   "art": "Barn swallows sitting in a row on an electric wire against a pale winter sky."
+  },
+  {
+   "text": "Gulls on the coast or a harbour in winter. Many are winter visitors that leave in spring.",
+   "art": "Gulls sitting on a fishing boat in a harbour in India at dawn."
+  },
+  {
+   "text": "V-shaped lines of cranes or geese at dusk, in north India and Gujarat in winter.",
+   "art": "A V-shaped line of cranes against a pink evening sky above a field."
+  },
+  {
+   "text": "Small waders such as common sandpipers bobbing along the edge of a pond, a canal or a paddy field in winter.",
+   "art": "A common sandpiper bobbing at the edge of a pond with its tail pumping up and down."
+  },
+  {
+   "text": "Flamingos in shallow water along the coast, for example near Mumbai, Chennai or Pulicat, in winter.",
+   "art": "A flock of flamingos in shallow pink-lit water near a city skyline."
+  },
+  {
+   "text": "An empty wire where the swallows sat in winter. In April, notice that they have gone.",
+   "art": "A bare electric wire against a summer sky, with one feather drifting."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How does a young bird, who has never made the journey, know when to leave and when to stop?",
+   "why_open": "Day length and an inside clock both help. Scientists do not know how the clock works, or how it joins the light."
+  },
+  {
+   "q": "How does a godwit sleep, or rest, during 11 days of non-stop flight?",
+   "why_open": "Some birds can rest one half of the brain at a time. Nobody has measured it for a godwit on a long flight."
+  },
+  {
+   "q": "Why do some birds of one kind migrate and others of the same kind stay?",
+   "why_open": "In some species, part of the flock migrates and part stays. Genes, age, food and weather all seem to play a part, but nobody knows the full story."
+  },
+  {
+   "q": "Why did the Siberian crane stop coming to Keoladeo?",
+   "why_open": "Scientists point to the loss of wetlands and to hunting along the route, but the full reasons are still debated."
+  },
+  {
+   "q": "How will climate change affect the timing of migration?",
+   "why_open": "Some species are adjusting their dates and some are not. We do not yet know how many will keep up."
+  },
+  {
+   "q": "Do birds feel a journey as one long trip, or as many separate days?",
+   "why_open": "We can measure what birds do. Nobody can yet say what a flight feels like to the bird."
+  }
+ ],
+ "ask_kids": [
+  "Which birds can you see from our window in December that you cannot see in June?",
+  "Why would a bird fly thousands of kilometres to raise chicks in a cold place?",
+  "If you had to carry your own food for a whole week, what would you choose, and why?",
+  "Where does the energy in your breakfast come from, going back as far as you can?",
+  "What would happen to a flock if one lake on the route dried up?",
+  "How could you find out where a bird has been without following her?",
+  "Which country does a bird belong to if she lives in two?",
+  "What do you think a bird sees when she looks down at the Himalaya?"
+ ],
+ "jokes": [
+  {
+   "j": "Why do birds fly south for the winter?",
+   "a": "Because it is too far to walk."
+  },
+  {
+   "j": "Why did the godwit eat so many worms before her trip?",
+   "a": "She did not want to wait for the snack trolley."
+  },
+  {
+   "j": "What did the goose say at the top of the Himalaya?",
+   "a": "I should have packed a jumper."
+  },
+  {
+   "j": "Why did the falcon bring a lunch box to Nagaland?",
+   "a": "She wanted termites to go."
+  },
+  {
+   "j": "Why do waders always check the tide table?",
+   "a": "Because high tide is a bit deep for lunch."
+  },
+  {
+   "j": "What do you call a bird that never leaves home?",
+   "a": "A resident, and a very good neighbour."
+  },
+  {
+   "j": "Why did the swallow sit on the wire so long?",
+   "a": "She was waiting for her connecting flight."
+  },
+  {
+   "j": "What is a bird's favourite kind of fuel?",
+   "a": "Fat, but she never asks for seconds in the air."
+  },
+  {
+   "j": "Why was the duck so tired at the stopover?",
+   "a": "She had been flying on empty, and needed a quack-up."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Midnight Sun Spin, one dot was lit for 8 of the 12 counts. What fraction of the turn was it lit, in its simplest form?",
+   "answer": "2/3",
+   "explain": "8 out of 12 is 8 over 12. Divide the top and bottom by 4. That gives 2 over 3. The dot was lit for two thirds of the turn.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L4",
+   "how": "e1",
+   "context": "In the Midnight Sun Spin, you counted how long each dot on an orange stayed in the light of a torch.",
+   "why_maths": "A fraction lets you compare how much of the day each place is lit, even when the numbers of counts differ."
+  },
+  {
+   "problem": "A godwit weighs 700 grams before she leaves, and about half of that is fat. How many grams of fat is that?",
+   "answer": "350 grams",
+   "explain": "Half of 700 is 700 divided by 2. That is 350. So about 350 grams of her weight is fat.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L4",
+   "why_maths": "Finding a fraction of a weight shows how big a part of the bird's body is her fuel."
+  },
+  {
+   "problem": "A godwit flew about 11,000 kilometres in 8 days. About how many kilometres did she fly each day?",
+   "answer": "1,375 kilometres",
+   "explain": "11,000 divided by 8 is 1,375. She flew about 1,375 kilometres each day, day and night.",
+   "math_unit": "math.division.division-facts.L4",
+   "why_maths": "Dividing a distance by the days shows how fast a journey is, so we can compare it with a car or a train."
+  },
+  {
+   "problem": "A tag should weigh no more than 5 out of every 100 parts of a bird's weight. A bird weighs 300 grams. What is the heaviest tag she should carry?",
+   "answer": "15 grams",
+   "explain": "300 divided by 100 is 3. Then 3 times 5 is 15. So the tag should weigh at most 15 grams.",
+   "math_unit": "math.fractions.decimals-and-percentages.L4",
+   "why_maths": "A percentage tells scientists how heavy a tag can be for birds of different sizes."
+  },
+  {
+   "problem": "In the Stepping-Stone Flyway, 10 of 12 birds arrived with all four wetlands, and 6 of 12 arrived with one drained. How many more birds arrived in the first round, and what fraction of the birds fell in the second round?",
+   "answer": "4 more birds. Half fell, or 6/12 = 1/2.",
+   "explain": "10 take away 6 is 4. In round 2, 12 take away 6 is 6 birds that fell. 6 out of 12 is one half.",
+   "math_unit": "math.probability.experiments.L4",
+   "how": "e2",
+   "context": "In the Stepping-Stone Flyway, you rolled a die to send 12 birds along a chain of wetlands twice.",
+   "why_maths": "Comparing two sets of counts as fractions shows how much a drained wetland changed the chance of arriving."
+  },
+  {
+   "problem": "Tara the goose, an imagined bird, moved from 48 degrees north to 27 degrees north. One degree of latitude is about 111 kilometres. About how far did she travel from north to south?",
+   "answer": "About 2,331 kilometres",
+   "explain": "48 take away 27 is 21 degrees. Then 21 times 111 is 2,331. So she travelled about 2,331 kilometres from north to south.",
+   "math_unit": "math.multiplication.multi-digit.L4",
+   "how": "a2",
+   "context": "In the tracker graph activity, you drew a line graph of a goose's weekly latitude.",
+   "why_maths": "Turning degrees into kilometres lets you compare the graph with real distances."
+  },
+  {
+   "problem": "A godwit flies for 11 days, rests for 2 weeks, and flies again for 5 days. How many days is that from start to finish?",
+   "answer": "30 days",
+   "explain": "2 weeks is 14 days. Then 11 plus 14 is 25, and 25 plus 5 is 30. So the journey takes 30 days.",
+   "math_unit": "math.time.calendar.L4",
+   "why_maths": "Changing weeks to days lets you add up stages of a journey that are measured in different units."
+  },
+  {
+   "problem": "Suppose fat gives 9 units of energy in each gram and sugar gives 4. A bird needs 180 units for one day of flying. How many grams of fat does she need, and how many grams of sugar would she need instead?",
+   "answer": "20 grams of fat, or 45 grams of sugar",
+   "explain": "180 divided by 9 is 20 grams of fat. 180 divided by 4 is 45 grams of sugar. Fat is much lighter to carry, since she needs only 20 grams, not 45.",
+   "math_unit": "math.division.division-facts.L4",
+   "why_maths": "Division shows why a bird that must carry her fuel in the air prefers the fuel that holds more energy per gram."
+  },
+  {
+   "problem": "Tara rested for 4 weeks at the middle stopover. She flew for 1 week before it and 1 week after it. What fraction of those 6 weeks was spent resting? Give it in its simplest form.",
+   "answer": "2/3",
+   "explain": "4 weeks out of 6 is 4 over 6. Divide the top and bottom by 2. That gives 2 over 3. She spent two thirds of the time resting.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L4",
+   "how": "a2",
+   "context": "In the tracker graph activity, you drew a goose's journey as flat and steep parts.",
+   "why_maths": "A fraction shows how much of a journey is rest and how much is flight, which is why stopovers matter."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.animal-behaviour.L4",
+  "title": "Pack Your Fat, Cross the Sea",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Bird Count India",
+   "url": "https://birdcount.in",
+   "kind": "interactive",
+   "why": "Bird counts across India that families can join, including winter visitors."
+  },
+  {
+   "title": "eBird",
+   "url": "https://ebird.org",
+   "kind": "interactive",
+   "why": "Free maps of where birds have been seen, and when winter visitors reach your city."
+  },
+  {
+   "title": "Movebank",
+   "url": "https://www.movebank.org",
+   "kind": "interactive",
+   "why": "For the parent: a free site where scientists share the tracks of tagged animals."
+  },
+  {
+   "title": "Bombay Natural History Society",
+   "url": "https://www.bnhs.org",
+   "kind": "interactive",
+   "why": "India's oldest nature society, with a long history of bird ringing and migration study."
+  },
+  {
+   "title": "Bar-tailed godwit (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+   "kind": "interactive",
+   "why": "For the parent: the godwit's record flights and how they have been tracked."
+  },
+  {
+   "title": "Amur falcon (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Amur_falcon",
+   "kind": "interactive",
+   "why": "For the parent: the falcon's journey from Siberia through Nagaland to Africa."
+  },
+  {
+   "title": "Keoladeo National Park",
+   "url": "https://en.wikipedia.org/wiki/Keoladeo_National_Park",
+   "kind": "place",
+   "where": "Bharatpur, Rajasthan",
+   "why": "A wetland and bird sanctuary where many winter visitors arrive."
+  },
+  {
+   "title": "Chilika Lake",
+   "url": "https://en.wikipedia.org/wiki/Chilika_Lake",
+   "kind": "place",
+   "where": "Odisha, near Puri",
+   "why": "A very large lagoon where huge numbers of water birds spend the winter."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-dice",
+   "item": "A pack of dice",
+   "kind": "material",
+   "why": "For the Stepping-Stone Flyway and Eat or Fly. Most homes have one from a board game.",
+   "url": "https://www.amazon.in/s?k=dice+set+for+kids",
+   "used_in": [
+    "e2",
+    "g2"
+   ]
+  },
+  {
+   "id": "b-guide",
+   "item": "A field guide to the birds of the Indian subcontinent",
+   "kind": "book",
+   "why": "To check whether a bird is a resident, a winter visitor or a passage migrant, and to name birds that you see.",
+   "url": "https://www.amazon.in/s?k=birds+of+the+indian+subcontinent+field+guide",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Look up one bird from the sorting activity, and one bird you see this week."
+  },
+  {
+   "id": "b-binoc",
+   "item": "A simple pair of binoculars for children",
+   "kind": "tool",
+   "why": "To watch waders and ducks at a lake without disturbing them.",
+   "url": "https://www.amazon.in/s?k=kids+binoculars",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Use them on a trip to a lake in winter."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What does migration mean?",
+   "a": "A regular journey that an animal makes each year, going out and coming back."
+  },
+  {
+   "q": "Why does the far north have such long summer days?",
+   "a": "The Earth is tilted, and in summer the north leans towards the Sun."
+  },
+  {
+   "q": "Why do migrating birds store fat?",
+   "a": "A gram of fat holds more than twice the energy of a gram of sugar, so she carries less weight."
+  },
+  {
+   "q": "What is a stopover?",
+   "a": "A place where a migrating bird rests and feeds before flying on."
+  },
+  {
+   "q": "What is a winter visitor?",
+   "a": "A bird that spends the northern winter in a warmer place and goes back to breed."
+  },
+  {
+   "q": "What does a flat part on a tracking graph show?",
+   "a": "The bird stayed in about the same place."
+  },
+  {
+   "q": "What happens to a godwit's gut before a long flight?",
+   "a": "It shrinks, and the flight muscles grow."
+  },
+  {
+   "q": "Name two ways of following a migrating bird.",
+   "a": "A ring on her leg, and a satellite tag."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "e1",
+   "big_questions",
+   "cards",
+   "g1",
+   "story"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz",
+   "story",
+   "summary",
+   "terms",
+   "how_we_found_out",
+   "e2",
+   "g1",
+   "ws-core",
+   "a2",
+   "a3",
+   "g2",
+   "agreed",
+   "challenging",
+   "videos",
+   "ws-stretch",
+   "p1",
+   "c1",
+   "big_questions",
+   "ws-challenge",
+   "open_questions"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "Combined lesson sci-C4-the-world-of-birds: the migration and navigation subconcept, and the open question about what Amur falcons eat over the Arabian Sea (used for the story setting)",
+   "The notebook items bio:126 (Migration and navigation), bio:127 (Seasonal migrations: birds, fish, insects) and bio:128 (Orientation and navigation)",
+   "The Class 3 unit on migration, which this unit builds on: why animals leave, record travellers and finding the way (not repeated here)",
+   "Founder's seasons and day-length ideas from the day-night-seasons notes, used for the midnight-sun model"
+  ],
+  "science": [
+   "Piersma and Gill (1998), Guts don't fly: small digestive organs in obese Bar-tailed Godwits, The Auk",
+   "Gill and others (2005), Crossing the ultimate ecological barrier: evidence for an 11,000 km non-stop flight by Bar-tailed Godwits, The Condor; and Gill and others (2009), Extreme endurance flights by landbirds crossing the Pacific Ocean, Proceedings of the Royal Society B",
+   "The 2022 satellite-tracked flight of a young bar-tailed godwit from Alaska to Tasmania, reported by the US Geological Survey Alaska Science Center and Birdlife Australia",
+   "Bishop and others (2015), The roller coaster flight strategy of bar-headed geese conserves energy during Himalayan migrations, Science",
+   "Hawkes and others (2011), The trans-Himalayan flights of bar-headed geese, Proceedings of the National Academy of Sciences",
+   "Murray and others (2014), Continental scale decline of intertidal habitat in the Yellow Sea and its threat to shorebirds, Diversity and Distributions",
+   "Both and others (2006), Climate change and population declines in a long-distance migratory bird, Nature",
+   "Berthold (1996), Control of Bird Migration; migratory restlessness (Zugunruhe) in caged birds",
+   "Wildlife Institute of India and Nagaland Forest Department, satellite tracking of Amur falcons from 2013",
+   "Conservation reports on Amur falcon hunting and protection around the Doyang reservoir, Nagaland, 2012 to 2013",
+   "Mortensen (1899) and the history of bird ringing; the Klutz white stork with an African spear (1822)",
+   "Charles Morton (1703), the claim that birds of passage winter on the Moon, as told in histories of ornithology",
+   "Taittiriya Upanishad 3.2; Zhuangzi, chapter 1, Free and Easy Wandering"
+  ]
+ },
+ "roots": {
+  "context": "We have followed a migrating bird from the long light of the Arctic to the fat in her body and the wetlands on her way. Now we ask what that journey says about what an animal is, and where she begins and ends.",
+  "deep_truth": {
+   "truth": "The long days of an Arctic summer grow a flood of insects, worms and shellfish. A bird eats them and stores the energy as fat. Weeks later she burns that fat over another country. So a bird carries the sunlight of one place to another, and her body is a bridge between them.",
+   "habit": "We say a place's wildlife is what lives inside its borders, and that a bird belongs to one country. A migrant's fuel is collected in one place and spent in another, so her body belongs to several places at once.",
+   "evidence": "In the spinning ball, the dot near the pole stayed in the light all through a northern summer. Under that light, insects hatch, mudflat worms and shellfish thrive, and waders feed. A godwit then flies 11 days on fat alone, and the gut that held the food has shrunk."
+  },
+  "three": {
+   "who_am_i": "Part of what you were made from last year came from a field, a sea or a river somewhere else. A godwit shows it more clearly: her fat comes from a marsh in one country and burns in the sky over another.",
+   "what_is_life": "A bird in flight is burning something that grew in the sunlight of another place a few weeks ago. Life moves energy from place to place, and migrants carry it farthest.",
+   "what_is_this_world": "The tilt of the Earth sets the length of the days, the days set the insects, the insects set the fat, and the fat sets the journey. One tilt shapes the whole yearly movement of birds."
+  },
+  "thread": "Everything a godwit burns began as sunlight. Plants and algae caught it, small animals ate them, and the bird ate the small animals. The same energy then lifts her across the sea. Nothing in this chain was made by the bird. She is a place where energy passes through on its way from the Sun to the sky. Zero becomes One becomes the many, and here the many are the marsh, the midge, the godwit and the wind, all made of one flow. When you look closely, the line between the bird and her places is hard to find.",
+  "teachings": [
+   {
+    "source": "Taittiriya Upanishad 3.2",
+    "teaching": "The Upanishad says food is the source of all beings. From food they are born, by food they live, and into food they go back.",
+    "link": "A godwit is made of the insects she ate, and she is later eaten or returns to the soil. Her body is food passing through a shape for a while."
+   },
+   {
+    "source": "Zhuangzi (Chuang Tzu), chapter 1, Free and Easy Wandering",
+    "teaching": "The Chinese teacher Zhuangzi tells of a huge bird, the Peng, who flies 90,000 li south on a great wind. A small dove and a cicada laugh at her: why go so far when a short flight to the next bush is enough?",
+    "link": "A wader, a sparrow and a crow all see the same sky. The journey that looks pointless to one is the whole life of another."
+   }
+  ],
+  "science": [
+   {
+    "text": "Migrating birds store fat and reshape their organs before a long flight, then burn the fat in the air. We know this from weighing and measuring birds before and after.",
+    "status": "settled"
+   },
+   {
+    "text": "Nobody yet knows how a young bird, who has never made the journey, knows when to leave and when to stop. A yearly clock inside her body and the length of the day both play a part.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Some ecologists",
+   "view": "Most of the energy in a marsh comes from the marsh's own plants and sunlight. A visiting flock may add or remove only a small share. They agree the link between places is real, and ask how large it is in each case. Others answer that even small flows can matter at certain times, such as the weeks before a chick hatches."
+  },
+  "practice": {
+   "title": "Follow your last meal back",
+   "mins": 3,
+   "say": "Sit still and close your eyes. Take three slow breaths. Think of the last thing you ate. Follow it back to a field, a tree or a sea. Follow it back to the rain and to the sunlight on it. Take one more breath and feel the warmth you carry. Where did that warmth come from?",
+   "kid": "Sit still and close your eyes. Breathe slowly three times. Think of your last meal. Where did it grow? What shone on it? Feel the warmth in your body. Where did it come from?"
+  },
+  "ask": [
+   "If a godwit's fat came from one country and she burned it over another, which country does her wingbeat belong to?",
+   "Where does a bird end, and the marsh and the sky begin?",
+   "Does a bird feel a journey as one long trip, or as many different places?"
+  ],
+  "art": "A godwit flying over the sea with a glowing line of sunlight running back through an insect and a marsh to the Sun."
+ },
+ "how_we_found_out": {
+  "story": "For centuries, people in Europe did not believe that small birds could fly to another continent. A book from 1555 even showed fishermen pulling swallows out of a frozen lake in a net, because many people thought swallows slept under the water in winter. An English writer in 1703 suggested that birds flew to the Moon. Then, in 1822, a white stork landed in a village in Germany with a long wooden spear stuck through her neck. The spear was not German. Experts said it came from central Africa. The stork had flown north from Africa with it, still alive. In 1899, a Danish teacher named Hans Mortensen began putting numbered metal rings on starlings. When a ringed bird was found far away, the ring showed where she had been. Thousands of rings now showed that birds really did cross continents, and not one was found under a lake.",
+  "who": "A stork with an African spear (1822) and Hans Christian Cornelius Mortensen, a Danish teacher who began ringing birds in 1899.",
+  "when": "1822 and 1899",
+  "wrong_idea": "Many people believed that swallows slept at the bottom of ponds in winter, and that small birds were too weak to cross seas. Spear-carrying storks and thousands of ring recoveries showed they fly to other continents."
+ },
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Checked: the orange-and-torch model needs a dark room and a torch about 40 centimetres away, and the lean must be held steady while the orange turns, so a grown-up helps. The counts may be off by one or two. The dice flyway gives about 10 of 12 arriving with all four wetlands and about 6 of 12 with one drained, from a simulation of the rules, and real rolls vary, so the step says to repeat. Eat or Fly takes about 20 turns on average in a simulation. The Mudflat Buffet is fiddly with rice and lentils, so try each bill twice. The tracker graph uses imagined numbers, and the unit says so. Facts to verify before use: the 2022 godwit flight (about 13,500 kilometres in 11 days, Alaska to Tasmania), bar-headed geese above 6,000 metres, the Yellow Sea loss of about two thirds, the Naga, Pangti and Wokha falcons of 2013, Bano Haralu's part in the Nagaland campaign, Morton's 1703 Moon claim, and the 1822 stork with an African spear. All three videos are still to be found."
+}
