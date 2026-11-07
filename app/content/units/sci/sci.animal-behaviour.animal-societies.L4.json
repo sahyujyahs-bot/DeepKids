@@ -1,0 +1,3267 @@
+{
+ "id": "sci.animal-behaviour.animal-societies.L4",
+ "title": "Hives, mounds and nests: how bees, wasps and termites share the work",
+ "level": 4,
+ "summary": {
+  "text": "A worker honeybee spends her first days cleaning empty cells. A few weeks later she flies kilometres to find flowers. Nobody tells her when to change jobs. Honeybees, paper wasps, termites and even one kind of mole-rat live in societies where only a few animals have young and everyone else shares the work. Your child tests whether splitting a job really makes it faster, and what a society risks by doing it. They learn how scouts pick a swarm's new home with no ruler, and why a crowd's middle guess can beat most of its members.",
+  "art": "A cut-open honeycomb in a wooden bee box, with tiny labelled bees: one cleaning a cell, one feeding a grub, one guarding the door, one leaving for the flowers."
+ },
+ "intro": {
+  "hook": "A worker honeybee lives only about six weeks in summer. In that time she does five or six different jobs. Who decides when she changes?",
+  "text": "In her first days she cleans empty cells in the comb. Then she feeds the young. Then she builds wax and guards the door. Last, she flies out for nectar. No bee gives her orders. In this unit you split a job among yourselves, to see what a hive gains and what it risks. You also watch ants at work, act out a bee's dance, and play a game where scouts choose a new home.",
+  "art": "A honeybee at four ages in a row: a young bee cleaning a cell, a nurse bee at a grub, a guard bee at the door, and an old bee leaving for the flowers."
+ },
+ "outcomes": [
+  "I can explain what makes a society eusocial, with a queen and workers, and name three kinds of animals that live this way.",
+  "I can explain what division of labour gains and what it costs, and test it fairly.",
+  "I can describe how a honeybee's job changes as she grows older, and what happens when a hive loses its foragers.",
+  "I can read a waggle dance: the angle shows the direction, and the length of the waggle shows how far.",
+  "I can explain how scouts and a quorum choose a swarm's new home with no ruler.",
+  "I can say why a crowd's middle guess can beat most people, and when a crowd gets it wrong.",
+  "I can explain what holds an insect society together: scent, shared food and shared warmth.",
+  "I can compare insect, mole-rat and human societies, and say what we cannot conclude from the comparison."
+ ],
+ "cards_mins": 20,
+ "terms": [
+  {
+   "term": "Society",
+   "meaning": "A group of animals of one kind that live together and depend on each other for food, safety or raising young.",
+   "example": "A honeybee hive, a termite mound and a human village are all societies.",
+   "art": "Three pictures in a row: a hive, a termite mound and a village of houses."
+  },
+  {
+   "term": "Colony",
+   "meaning": "The whole family of an ant, bee, wasp or termite society, all living in one nest.",
+   "example": "One colony of honeybees can hold 30,000 bees or more.",
+   "art": "A nest cut open to show thousands of small insects inside."
+  },
+  {
+   "term": "Eusocial",
+   "meaning": "A word for a society where only a few animals have young, and the others look after the young and do the work. Eu means true.",
+   "example": "Honeybees, termites and naked mole-rats are eusocial.",
+   "art": "One large queen surrounded by many smaller workers."
+  },
+  {
+   "term": "Division of labour",
+   "meaning": "Sharing out the jobs, so that different animals do different jobs.",
+   "example": "In a hive some bees feed the young while others fly out for food.",
+   "art": "Four bees doing four different jobs inside a hive, each with a small label."
+  },
+  {
+   "term": "Caste",
+   "meaning": "A group in an insect society that has one kind of job or body, such as queens, workers and soldiers. In biology this word is only about insect and animal groups. It is not the caste system among people, which is about birth and unfairness.",
+   "example": "Termite soldiers are a caste with big heads and strong jaws.",
+   "art": "A termite queen, a worker and a soldier drawn side by side with their different bodies."
+  },
+  {
+   "term": "Queen",
+   "meaning": "The female who lays the eggs in a colony. She does not give orders.",
+   "example": "A honeybee queen can lay well over a thousand eggs in a day.",
+   "art": "A honeybee queen, longer than the workers, with a few workers around her."
+  },
+  {
+   "term": "Drone",
+   "meaning": "A male honeybee. Drones do not collect food or sting. Their job is to mate with a young queen from another hive.",
+   "example": "A hive has a few hundred drones in the warm season and only one queen.",
+   "art": "A drone bee with large eyes beside a smaller worker bee."
+  },
+  {
+   "term": "Forager",
+   "meaning": "A bee, ant or wasp that goes out of the nest to find food and brings it back.",
+   "example": "A forager honeybee brings back nectar and pollen from flowers.",
+   "art": "A bee landing at the hive door with yellow pollen on her back legs."
+  },
+  {
+   "term": "Scout",
+   "meaning": "A bee that goes out to look for something new, such as food or a home, and comes back to tell the others.",
+   "example": "Scouts look for a new nest hole when a swarm leaves its hive.",
+   "art": "A bee flying away from a cluster of bees hanging on a branch."
+  },
+  {
+   "term": "Waggle dance",
+   "meaning": "A dance a honeybee does on the comb to tell others where food or a new home is. The angle of her run shows the direction. The length of her waggle shows the distance.",
+   "example": "A dancer who waggles for three seconds is describing a place much farther away than one who waggles for half a second.",
+   "art": "A bee running in a straight line on the comb while shaking her body, with an arrow for the angle."
+  },
+  {
+   "term": "Swarm",
+   "meaning": "A large group of bees that has left its old hive with the old queen, to find and start a new nest.",
+   "example": "A swarm often rests for a day or two on a branch or a balcony grill before moving on.",
+   "art": "A brown ball of bees hanging from a tree branch."
+  },
+  {
+   "term": "Quorum",
+   "meaning": "The smallest number of voters needed before a group's choice counts. Honeybee scouts use a quorum at the new home before the swarm takes off.",
+   "example": "When about fifteen scouts are at one nest hole, the swarm decides to go there.",
+   "art": "Fifteen small bees gathered at the entrance to a tree hollow."
+  },
+  {
+   "term": "Reserve worker",
+   "meaning": "A worker who is standing still at this moment, ready to take a job if the colony needs one.",
+   "example": "At any moment a large share of the ants in a nest may be standing still.",
+   "art": "An ant nest cut open, with some ants carrying eggs and others standing still in a chamber."
+  },
+  {
+   "term": "Soldier",
+   "meaning": "A termite or ant with a bigger head and jaws, whose job is to defend the colony. Soldiers keep this job for life.",
+   "example": "Termite soldiers block a hole in the mound with their heads.",
+   "art": "A termite soldier with a large dark head blocking a tunnel entrance."
+  },
+  {
+   "term": "Sharing food",
+   "meaning": "Passing food from one insect's mouth to another's. Scientists call it trophallaxis. Honeybees and ants do it all the time, and it spreads food and smell round the whole colony.",
+   "example": "An ant that has found sugar feeds other ants mouth to mouth.",
+   "art": "Two ants face to face, one passing a drop of food to the other."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Eusocial: a society where only a few have young",
+   "status": "defined",
+   "definition": "A eusocial society is one where a few animals lay all the eggs, many others look after the young, and the animals of different generations live together.",
+   "description": "In a wolf pack or an elephant herd, most grown-up females can have young. In a honeybee hive, almost all the work is done by workers who never lay eggs. One queen lays them all. Ants, termites and many bees and wasps live this way. So do a few kinds of snapping shrimp that live inside sponges, and two kinds of African mole-rat. Scientists think eusociality has appeared on Earth around twenty times, and it is rare among animals. Yet ants and termites together are so many that they make up a large share of the animal weight in many warm forests. A worker who never has young is giving her life's work to her mother's young, who are her sisters. Why that can happen is still argued, and you will meet that argument in this unit.",
+   "examples": [
+    "A honeybee hive with one queen, thousands of daughters who work, and a few hundred drones.",
+    "A termite mound with a king and queen, workers and soldiers.",
+    "A naked mole-rat colony in underground tunnels, with one breeding female and a few breeding males."
+   ],
+   "perspectives": [],
+   "art": "Four small scenes in a row: a honeybee hive, a paper wasp nest, a termite mound and mole-rat tunnels, each with a queen drawn larger than the rest."
+  },
+  {
+   "concept": "Division of labour: what sharing the jobs gains, and what it costs",
+   "status": "defined",
+   "definition": "Division of labour means that different members of a group do different jobs, so each job is done by someone who does it often.",
+   "description": "Doing one job again and again saves time. You do not put one tool down and pick up another, and you get better with practice. In 1776 the Scottish thinker Adam Smith described a small pin factory. Ten workers each did one or two of the eighteen steps, and together they made about 48,000 pins in a day. He thought one worker alone could hardly make twenty. A hive works the same way: some bees feed grubs while others fly for nectar. But sharing jobs has a cost. If everyone has only one job and the last forager is lost, nobody brings food. A good society shares the work and also lets members change jobs when the need changes. Honeybees do this, and you test the first half of this idea yourself.",
+   "examples": [
+    "Adam Smith's pin factory, where each worker did one step.",
+    "Ants where some carry food and others stay in the nest to care for the eggs.",
+    "A kitchen at a wedding, with one person cutting vegetables, one frying and one serving."
+   ],
+   "perspectives": [],
+   "art": "A line of ten pin-makers each at a different task, next to one person trying to do all the steps alone."
+  },
+  {
+   "concept": "A honeybee's jobs change as she grows older",
+   "status": "defined",
+   "definition": "In a honeybee hive a worker changes jobs as she ages. This is called age-based division of labour.",
+   "description": "A young worker first cleans empty cells, for a few days. Then she works as a nurse and feeds the grubs, for about a week. After that she builds wax, packs pollen and nectar, and guards the door. Last, from about three weeks old, she flies out as a forager and keeps on until she dies. The ages are only a rough guide. In the 1980s Thomas Seeley, a bee scientist in the United States, painted numbers on bees and followed them for weeks, and saw this pattern again and again. In 1992 Zhi-Yong Huang and Gene Robinson removed the older foragers from a hive. Some young bees began to forage days or weeks earlier than usual. So a bee's job is not fixed at birth. The hive's needs change it, and her body changes with her age.",
+   "examples": [
+    "A one-day-old worker cleaning a cell, and a three-week-old worker leaving the door to find nectar.",
+    "A hive that lost many foragers in a storm, where young bees start foraging early.",
+    "A nurse bee feeding a grub with a creamy food that she makes in her head."
+   ],
+   "perspectives": [],
+   "art": "A timeline of a worker bee's life from day 1 to day 40, with a small drawing of her job at each stage."
+  },
+  {
+   "concept": "Castes with different bodies: termite soldiers and army ant majors",
+   "status": "defined",
+   "definition": "In some insects the castes have different bodies, and a soldier cannot change into a worker.",
+   "description": "A honeybee worker can do every worker's job in her life. A termite is different. Termite workers and soldiers have different bodies, because each one is built that way as she or he grows up. A soldier has a big, hard head and large jaws and cannot feed herself or himself, so workers feed soldiers. Termite colonies have workers and soldiers of both sexes. A king and a queen live together for many years. Many termites also farm: workers in some kinds carry chewed plant material to grow a fungus, and the whole colony eats the fungus. Termites are related to cockroaches. Some wild mushrooms that come up in the rains out of old mounds are the fruiting parts of such a fungus, and in parts of India people collect and eat them.",
+   "examples": [
+    "A termite soldier blocking a tunnel with her large head.",
+    "Big-headed major workers of some carpenter ants, who cut hard food.",
+    "A termite queen several times longer than a worker, who lays eggs all day."
+   ],
+   "perspectives": [],
+   "art": "A termite mound cut open, showing tunnels, a queen chamber, a fungus garden, and a soldier guarding a tunnel."
+  },
+  {
+   "concept": "The waggle dance: how a bee tells the others where to go",
+   "status": "defined",
+   "definition": "The waggle dance is a honeybee's dance on the comb that tells other bees the direction and distance of food or a new home.",
+   "description": "Inside the dark hive, a returning forager runs in a straight line over the comb while shaking her body from side to side. That is the waggle run. Then she circles back and repeats it. The comb hangs straight up and down, and the bees treat straight up as the direction of the Sun. If the run points 40 degrees to the right of straight up, the food is 40 degrees to the right of the Sun's direction. The longer the waggle run lasts, the farther away the place is. For one common kind of honeybee, about one second means roughly a kilometre, though this differs between kinds. Other bees follow close behind the dancer, feel the pattern with their antennae, and then fly out. The Austrian scientist Karl von Frisch worked this out and shared the 1973 Nobel Prize for it.",
+   "examples": [
+    "A dancer running straight up the comb, telling others to fly towards the Sun.",
+    "A short waggle for a flower bed near the hive, and a long waggle for a distant field.",
+    "A scout dancing on a swarm's surface to describe a hollow tree."
+   ],
+   "perspectives": [],
+   "art": "A honeybee dancing on the comb with an arrow showing the angle from straight up, next to a picture of the hive, the Sun and the flowers on the ground."
+  },
+  {
+   "concept": "How a swarm picks a new home with no ruler",
+   "status": "defined",
+   "definition": "A swarm chooses its new home through the scouts' dances. When enough scouts are at one place, the whole swarm goes there.",
+   "description": "When a hive grows too full, the old queen leaves with about half the workers and rests as a ball on a branch or a grill. A few hundred scouts fly out to look for a hollow that is dry, the right size, and has a small door. Each scout who finds a good one comes back and dances for it. The better the hollow, the longer she dances, so more scouts go to see it. A scout who has visited a different place can bump into a dancer and give a short beep that tells her to stop. Over hours, one place wins. When about fifteen scouts are at the hollow at the same time, they signal back, and the swarm warms its muscles and takes off. Thomas Seeley and his team studied this on a small island off the coast of Maine in the United States. The queen takes no part in the choosing.",
+   "examples": [
+    "A swarm on a balcony grill that leaves the next morning for a tree hollow.",
+    "Scouts dancing for three different hollows, and the dances for two of them dying away.",
+    "A human committee that waits until enough members agree before it acts."
+   ],
+   "perspectives": [],
+   "art": "A swarm ball on a branch with scouts dancing on its surface, and three arrows to three different hollow trees, one arrow drawn much thicker than the others."
+  },
+  {
+   "concept": "Are the resting ants lazy? Reserve workers",
+   "status": "debated",
+   "definition": "",
+   "description": "When scientists watched every ant in some colonies, they often found that at any moment about half of the workers or more were standing still. Anna Dornhaus, an ant scientist at the University of Arizona, has studied this in acorn ants, which are small ants that nest inside acorns and rock cracks. Why does a nest keep so many ants doing nothing? Scientists have three main answers, and nobody has shown which is true for most kinds of ants.",
+   "examples": [
+    "Ants standing still in a nest chamber while others carry eggs.",
+    "A hive where some foragers sit on the landing board for a while before leaving.",
+    "A fire station where most firefighters wait for a call."
+   ],
+   "perspectives": [
+    {
+     "who": "Reserve force idea",
+     "explanation": "The still ants are ready. When a big piece of food or an attack arrives, a colony with reserves can answer at once, without waiting to find workers."
+    },
+    {
+     "who": "Tired workers idea",
+     "explanation": "Some computer models suggest that when workers get tired, a colony does better if different workers rest in turn. Then the colony never runs out of workers all at once."
+    },
+    {
+     "who": "Not really idle idea",
+     "explanation": "Some scientists think that many still ants are checking the nest, sharing smell, or are simply too young or too old to be useful for now. They say that 'idle' is our word for what we cannot see them doing."
+    }
+   ],
+   "art": "A cutaway ant nest showing a chamber with several ants standing still next to another chamber where ants carry eggs."
+  },
+  {
+   "concept": "What holds a society together: scent, shared food and shared warmth",
+   "status": "defined",
+   "definition": "An insect colony is held together by its own smell, by food passed mouth to mouth, and by warmth the whole colony makes.",
+   "description": "Every colony has its own smell, made from the oily coating on the bodies of its members. Ants and bees touch antennae and sniff each other. A stranger with a different smell is stopped at the door. Food is shared too. A honeybee has a honey stomach, a pouch in her body, where she carries nectar for the hive. She keeps her own food in a different stomach. An ant has a similar pouch, which scientists call the social stomach. A bee can pass food to another by mouth, and so a drop of sweet nectar can reach thousands of bees in a few hours. Honeybees also keep the middle of the hive, where the grubs grow, at about 34 to 35 degrees Celsius. In cold weather they huddle and shiver their flight muscles. In hot weather they fan their wings at the door and bring in water to cool the comb.",
+   "examples": [
+    "A guard bee smelling a bee at the door, and letting her in or stopping her.",
+    "An ant passing a drop of sugar to another ant mouth to mouth.",
+    "Bees fanning their wings at the hive door on a hot afternoon."
+   ],
+   "perspectives": [],
+   "art": "A hive door in cross-section showing a guard bee sniffing an arriving bee, fan bees at the entrance, and a drop of nectar passed between two bees inside."
+  },
+  {
+   "concept": "Why do workers help instead of having their own young?",
+   "status": "debated",
+   "definition": "",
+   "description": "A worker honeybee almost never lays eggs. She spends her life feeding her mother's young. That seems strange, because the animals that leave the most young are the ones whose kind spreads. In 1964 the British biologist William Hamilton suggested an answer. A worker shares many of her genes with her sisters, so helping her mother raise more sisters can pass on her family's genes. Other scientists, including Edward O. Wilson in 2010, argued that the answer lies in having a safe nest that is worth defending. Many biologists replied that Hamilton's idea explains more. This is a long-running argument, and it is one of the big open puzzles in biology. You will meet Hamilton's idea in more detail in a later unit. In Bengaluru, Raghavendra Gadagkar studied the Indian paper wasp Ropalidia marginata for decades at the Indian Institute of Science. In her nests a worker can become the queen when the old queen is gone, and the change is usually calm.",
+   "examples": [
+    "A worker bee who feeds her sisters but never has her own young.",
+    "A paper wasp who stays at her mother's nest to help.",
+    "A nest hole worth defending, because it is hard to find a new one."
+   ],
+   "perspectives": [
+    {
+     "who": "William Hamilton, 1964",
+     "explanation": "Workers share many genes with their sisters. Helping the queen raise more sisters can pass on the workers' own family's genes, so helping can pay off."
+    },
+    {
+     "who": "Edward O. Wilson and colleagues, 2010",
+     "explanation": "Relatedness alone is not the cause. The key step is a defended nest with a lasting food supply, and the helpers come from the group living there."
+    }
+   ],
+   "art": "A family tree of a honeybee colony showing the queen, her worker daughters, and the lines of shared family."
+  },
+  {
+   "concept": "A mammal with a queen: the naked mole-rat",
+   "status": "defined",
+   "definition": "Naked mole-rats are small African mammals that live in underground colonies with one breeding female, the queen.",
+   "description": "Naked mole-rats are mammals the size of a small hand, with almost no fur. They live in East Africa in long tunnels that they dig themselves. In 1981 the biologist Jennifer Jarvis published a study of a captive colony and showed that these mammals live like bees and termites. A colony of about 70 to 80 mole-rats has one queen and a few breeding males. The others dig, carry food, and look after the young. When the tunnel is long, the diggers work in a chain, one cutting at the soil and the next kicking it backwards. Naked mole-rats can live for 30 years or more, much longer than a mouse. Humans are mammals too, but our societies are very different, because nearly every adult in a human village can have children.",
+   "examples": [
+    "A mole-rat digging chain, with one animal at the front and others passing the soil backwards.",
+    "A queen mole-rat who gives birth every few months to litters of around a dozen pups.",
+    "A worker who carries a sweet potato tuber back to the nest."
+   ],
+   "perspectives": [],
+   "art": "A cutaway of underground tunnels with naked mole-rats in a digging chain, a nest chamber with a larger queen, and a food store."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A honeybee worker does different jobs at different ages, and the hive can change the pattern when it needs to.",
+   "evidence": "Thomas Seeley followed numbered bees through their lives in the 1980s, and Huang and Robinson in 1992 showed young bees forage early when foragers are removed."
+  },
+  {
+   "text": "The waggle dance tells other bees the direction and distance of a place.",
+   "evidence": "In 1975 James Gould made dancers point the wrong way, and the new bees flew to the place the dance described. In 2005 radar tags on recruits showed them flying to the spot."
+  },
+  {
+   "text": "A honeybee swarm chooses a new home through the scouts' dances, with no ruler.",
+   "evidence": "Thomas Seeley's team watched individually marked scouts for years, and in most tests the swarm chose the best of the boxes they set out."
+  },
+  {
+   "text": "Naked mole-rats live in colonies with one breeding female.",
+   "evidence": "Jennifer Jarvis published this in 1981 from a captive colony, and later work on wild and captive colonies has confirmed it."
+  },
+  {
+   "text": "A honeybee colony keeps the middle of its nest at about 34 to 35 degrees Celsius.",
+   "evidence": "Thermometers placed in the brood area stay in this narrow range, even when the outside air is much colder or hotter."
+  },
+  {
+   "text": "Eusocial animals are rare, but ants and termites are very common.",
+   "evidence": "Counts of insects in forests show ants and termites make up a large share of the animal weight in many warm places."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "The queen bee is a ruler who gives orders to the hive.",
+   "who": "Many old books and stories, including Aristotle and Shakespeare, called her a king or a ruler.",
+   "for": "She is the biggest bee, the workers crowd round her, and the hive does badly without her.",
+   "against": "In 1609 Charles Butler wrote that the 'king' was a mother, and later Jan Swammerdam showed by dissection that she has ovaries. She lays eggs, but the workers and the scouts settle the jobs, the food and the new home.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Every worker is born with one job for life.",
+   "who": "A common idea in books about insects.",
+   "for": "Some insects, such as termite soldiers, really do have bodies built for one job.",
+   "against": "A honeybee worker does five or six jobs as she ages, and she can change early when the hive needs it.",
+   "status": "rejected"
+  },
+  {
+   "claim": "The waggle dance means nothing. Bees find food only by smell.",
+   "who": "Adrian Wenner and others, in the 1960s and 1970s.",
+   "for": "Bees also follow flower smells, and the first experiments were hard to repeat.",
+   "against": "When dancers were made to point the wrong way, the new bees followed the dance and missed the food. Radar tags in 2005 showed the same.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Ants that stand still are lazy and useless.",
+   "who": "A common idea about workers.",
+   "for": "They really are not doing visible work.",
+   "against": "They may be a reserve, they may be taking turns to rest, or they may be doing something we cannot see. A fire station is not lazy for waiting.",
+   "status": "debated"
+  },
+  {
+   "claim": "A hive or a mound is really one big animal made of many bodies.",
+   "who": "William Morton Wheeler, an American insect scientist, in 1911, and some scientists since.",
+   "for": "The colony keeps its own warmth, feeds its young, and reproduces by swarming, as one body does.",
+   "against": "Each bee is a separate animal with her own body, and the workers do not all share the same interests. Many biologists say 'one animal' is a useful picture, not a fact.",
+   "status": "debated"
+  },
+  {
+   "claim": "Since bees and mole-rats have queens, human societies should have rulers too.",
+   "who": "People who say 'nature shows us how society should be'.",
+   "for": "Animal societies work well, and they are old.",
+   "against": "What is natural does not tell us what is fair. Elephants are led by older females, wolf packs are families, and most animals live alone. Nature shows many ways to live, so it cannot pick one for us.",
+   "status": "rejected"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A honeybee does a different job at each age. Is a 'job' something a bee is, or something she does?",
+   "kind": "deep",
+   "hint": "Think about the same bee on day 2 and on day 22, and about young bees who start foraging early."
+  },
+  {
+   "q": "In a swarm, scouts disagree, then agree. What does a group need so that arguing ends in a good choice, and not in a split?",
+   "kind": "deep",
+   "hint": "Think about the quorum, and about how long a scout dances for a good hollow and for a poor one."
+  },
+  {
+   "q": "A worker bee never has her own young and cannot live alone for long. Is she a whole animal, or a part of something bigger?",
+   "kind": "big",
+   "hint": "Think about your own cells. None of them lives alone, and each does one job."
+  },
+  {
+   "q": "You have never made your own rice, pencil or phone. Who made the things you used this morning?",
+   "kind": "big",
+   "hint": "Pick one thing and trace it back as far as you can."
+  },
+  {
+   "q": "Some ants stand still while others work. How should we decide whether someone who is resting is useful?",
+   "kind": "big",
+   "hint": "Think about a reserve, a fire station and a goalkeeper."
+  },
+  {
+   "q": "In your jar of dal test, hearing other people's guesses first can make the crowd worse. Why would copying hurt?",
+   "kind": "deep",
+   "hint": "If everyone copies the first guess, how many different ideas does the group really have?"
+  }
+ ],
+ "story": {
+  "title": "The Ball on the Balcony Grill",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "A made-up story. The science in it is real. It comes from Thomas Seeley's studies of honeybee swarms in the United States. Indian honeybees also swarm and dance, but the times and places in this story are imagined.",
+  "text": [
+   "On the last Sunday of April, a brown ball hung from the balcony grill of Revathi's flat in Thrissur. It was the size of a football. It hummed. Up close, the ball was made of bees, thousands of them, climbing over each other's backs.",
+   "Revathi's mother stood in the kitchen doorway with a dishcloth pressed to her mouth. Her little cousin Appu had his nose against the glass. Down in the yard, Shaji, the building's watchman, was already coming up the stairs with the garden hose and a long bamboo pole. \"Smoke or water, they will go,\" he said. \"I have done it before.\"",
+   "Revathi was nine, and she did not want the bees to go. She could not have said why. \"Please wait,\" she said. \"Just until I ask Rukmini Chechi.\"",
+   "Rukmini Chechi kept six wooden bee boxes on the roof of the next building. She came over in her old school sandals, with a veil over her arm, and looked at the ball for a long time without saying anything. \"A swarm,\" she said at last. \"One of my boxes got too full. The old queen walked out with half the bees. They left their honey behind, so there is nothing here for them to guard. Today they are the gentlest bees in Kerala. And today they have no home.\"",
+   "\"No home?\" said Shaji. \"Then they will sit here for ever.\"",
+   "\"No,\" said Rukmini Chechi. \"Tonight they need something better than a grill. A hollow tree. A gap in a wall. A dry hole with one small door. Somebody has to find it.\" She turned to Revathi. \"Don't look at the whole ball. Look at one small patch of its skin. Tell me what you see.\"",
+   "At first Revathi saw only a blur of brown. Then she saw that a few bees were not climbing. They were running in short straight lines over the others, shaking their bodies from side to side, and then curving back to start again. Waggle, waggle, waggle, circle. Waggle, waggle, waggle, circle.",
+   "\"Scouts,\" said Rukmini Chechi. \"This morning a few hundred of them flew out to look for a home. Each one found a place, came back, and is telling the others about it. And the better the place, the longer she goes on dancing.\"",
+   "\"Does the queen decide which place?\" asked Revathi.",
+   "\"Where do you think the queen is?\"",
+   "Revathi did not know. \"In the middle of the ball, safe and quiet,\" said Rukmini Chechi. \"She is not listening to anybody. Keep watching.\"",
+   "Revathi fetched her school notebook and a pencil, and sat on a stool. She drew a circle for the ball. Every time a dancer ran, she drew a small arrow to show which way the line pointed. By two o'clock she had three bunches of arrows. Eight pointed up and to the left. Five pointed straight up. Three pointed to the right. Appu was given the job of counting, and he counted loudly.",
+   "Shaji, who had come up to take the bees away, brought a second stool and sat down beside her. He said nothing about the hose.",
+   "By three o'clock the arrows for the left had grown to twelve. The ones for the right had shrunk to one, and some of the dancers had simply stopped. Then Revathi saw something that made her breath catch. A bee ran straight into a dancer and butted her in the chest. The dancer froze, and walked away.",
+   "\"She stopped her!\" whispered Revathi. \"That bee shut her up!\"",
+   "\"Not shut her up,\" said Rukmini Chechi. \"She was saying, I have been somewhere else, and it was better. No bee gives an order. Each of them can only say what she saw.\"",
+   "By four o'clock the sky over Thrissur had turned the colour of wet slate. Revathi counted again. Nearly every arrow pointed up and to the left, towards the back of the flats, where the old paddy field ended and a huge jackfruit tree stood, black and wide, with a dark hollow in its trunk.",
+   "\"Is that where they are going?\" asked Appu.",
+   "\"I think so,\" said Revathi. \"But who decided?\" Nobody answered. Even Rukmini Chechi only smiled.",
+   "The rain came in the night and went away before dawn. At ten the next morning, the hum changed. It rose to a high buzz, as if every bee had begun to shiver. Revathi stood on the balcony with her notebook and pointed her arm at the jackfruit tree. \"There,\" she said. \"Now they will go.\"",
+   "The ball loosened. It fell apart into a cloud. A few bees shot ahead of the cloud like arrows, and the rest poured after them, turned in the air once, and flew exactly where her arm was pointing.",
+   "Shaji lowered the bamboo pole he had been holding all morning without noticing. \"Who told them?\" he asked.",
+   "\"Nobody,\" said Revathi. \"And everybody. The ones who found the best place danced for the longest. In the end so many were dancing for the tree that the rest just agreed.\" She said it slowly, as if the words were new on her tongue, and then she knew they were true.",
+   "That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the hollow, a thin line of bees was walking in and out of a door no bigger than a coin. Somewhere inside, the old queen was already settling into the dark. She would never know which scout had first found this tree. Perhaps the scout herself would never know."
+  ],
+  "epiphany": "No bee was in charge. The scouts argued with their dances, and the best home won.",
+  "ask": [
+   "In the story, what let Revathi guess where the swarm would go, before the bees left?",
+   "If the queen did not choose the new home, what would happen if all the scouts had found the same poor hollow?",
+   "What would you have done about the ball on the grill, and what would you want to know first?"
+  ],
+  "art": [
+   "A brown ball of bees hanging from a balcony grill in a Kerala flat, with a girl and a little boy watching through the glass.",
+   "A watchman with a hose and a bamboo pole looking at the ball, while a woman in a veil holds out a hand to stop him.",
+   "A girl sitting on a stool with a notebook of small arrows drawn round a circle, next to the swarm.",
+   "A cloud of bees leaving a balcony towards a big jackfruit tree at the edge of a paddy field."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Which Bee Does What? The hive job cards",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about the jobs of a honeybee worker. Each card describes a bee, and you say which job she does.",
+   "setup": [
+    {
+     "art": "Eighteen cards in a shuffled pile in the middle of a table, with a row of five job tokens in front of each player.",
+     "caption": "1. Cut out the cards and the tokens. Shuffle the cards into a pile."
+    },
+    {
+     "art": "One child reading a card aloud while the other players each put a job token face down.",
+     "caption": "2. The reader reads a card. Everyone else picks a token."
+    },
+    {
+     "art": "The tokens turned over together and the reader turning the card around to show the job on the back.",
+     "caption": "3. Turn the tokens over. The reader shows the back."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "18 bee cards: a bee and her situation on the front, her job and the reason on the back",
+     "items": [
+      {
+       "f": "A bee is 1 day old and has just come out of her cell. Which job does she do?",
+       "b": "Cleaner. Newly hatched workers clean empty cells, ready for the queen to lay in again."
+      },
+      {
+       "f": "A bee is 2 days old. She is polishing an empty cell with her mouth.",
+       "b": "Cleaner. An egg is only laid in a cell that has been cleaned."
+      },
+      {
+       "f": "A bee is 5 days old. She is feeding a grub with a creamy food that her own head makes.",
+       "b": "Nurse. Young workers feed the grubs for about a week."
+      },
+      {
+       "f": "A bee is 7 days old. She goes from cell to cell, checking one grub after another.",
+       "b": "Nurse. Nurses check and feed many grubs, again and again."
+      },
+      {
+       "f": "A bee is 12 days old. Small flakes of wax are coming out of her belly.",
+       "b": "Builder. Bees of about this age make wax and build new comb."
+      },
+      {
+       "f": "A bee is 14 days old. She is pushing yellow pollen into a cell and packing it down.",
+       "b": "Builder or storer. Pollen is the hive's store of protein food."
+      },
+      {
+       "f": "A bee is 15 days old. A forager has just passed her a drop of nectar, and she carries it to a cell to dry into honey.",
+       "b": "Builder or storer. Receiving and storing nectar is a middle-aged bee's job."
+      },
+      {
+       "f": "A bee is 19 days old. She stands at the door and sniffs every bee that arrives.",
+       "b": "Guard. Guards stop strangers and robbers, using smell."
+      },
+      {
+       "f": "A bee is 18 days old. Wasps are trying to get in, and she faces them at the door.",
+       "b": "Guard. Guard bees defend the door."
+      },
+      {
+       "f": "A bee is 20 days old. She makes her first short flights near the hive, turning to look back at it.",
+       "b": "Forager, just starting. She is learning what the hive looks like before she flies far."
+      },
+      {
+       "f": "A bee is 25 days old. Her back legs are full of yellow pollen, and she is flying home.",
+       "b": "Forager. Foragers bring in pollen and nectar."
+      },
+      {
+       "f": "A bee is 30 days old. She dances on the comb to tell others about a field of flowers.",
+       "b": "Forager. Foragers who find a good place dance to tell the others."
+      },
+      {
+       "f": "A bee is 8 days old. A storm has killed most of the hive's foragers, and almost no food is coming in.",
+       "b": "Forager, early. When foragers are lost, some young bees start foraging days earlier than usual."
+      },
+      {
+       "f": "A bee is 26 days old. Scientists have taken all the nurses out of her hive, and the grubs are hungry.",
+       "b": "Nurse again. When a hive has too few nurses, some older bees go back to feeding grubs. A job can go backwards."
+      },
+      {
+       "f": "A bee is 4 days old. She is leaning into a cell to feed a grub, and has never left the hive.",
+       "b": "Nurse. At this age bees stay inside and look after the young."
+      },
+      {
+       "f": "A bee is 22 days old. She is standing in the doorway, checking each arriving bee's smell before letting her in.",
+       "b": "Guard. A bee at the door who sniffs each arrival is a guard."
+      },
+      {
+       "f": "A bee is 3 days old. She is carrying a dead bee to the door and leaving the body outside.",
+       "b": "Cleaner. Keeping the hive clean is the job of the youngest workers."
+      },
+      {
+       "f": "A bee is 28 days old. She leaves the hive at sunrise and flies two kilometres to a mango orchard in flower.",
+       "b": "Forager. Older bees fly the farthest, because they know the way."
+      }
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "5 job tokens: Cleaner, Nurse, Builder or storer, Guard, Forager. Print one set for each player",
+     "items": [
+      "Cleaner",
+      "Nurse",
+      "Builder or storer",
+      "Guard",
+      "Forager"
+     ]
+    }
+   ],
+   "rules": [
+    "One player is the reader. The reader takes the top card and reads the front aloud. The reader keeps the back hidden.",
+    "Every other player puts one job token face down. Then everyone turns the tokens over together.",
+    "The reader reads the back. Every player whose token matches the first word of the back scores 1 point.",
+    "A player who also says why, using the bee's age or what the hive needs, scores 1 more point. The reader decides, using the back of the card.",
+    "With two players, you swap the reader's role after every card. The reader never guesses on their own card.",
+    "Playing alone? Read a card, say your answer aloud, then turn the card over. You score 1 point for each right job. Try to beat your score next time.",
+    "After all 18 cards, the player with the most points wins. If you are playing alone, your score out of 18 is your result."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Cut out the 18 cards and the five tokens. Shuffle the cards and put them in a pile. Give each player one set of tokens.",
+     "say": "These cards describe worker honeybees of different ages. Each player has five tokens. Cleaner, Nurse, Builder or storer, Guard and Forager. We will guess each bee's job.",
+     "kid": "Cut out the cards and tokens. Shuffle the cards. Take one set of tokens.",
+     "context": "This is the first step of Which Bee Does What. You set up the cards and the tokens."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Play the first six cards. After each card, read the back aloud. Ask the question below after card three.",
+     "say": "The reader reads the front. Everyone else chooses a token. Turn the tokens over together. Now the reader reads the back. Who scored a point?",
+     "kid": "The reader reads a card. Pick a token. Turn it over. Check the back.",
+     "ask": [
+      {
+       "q": "What did you look at to decide the bee's job?",
+       "good": [
+        "Her age.",
+        "What she was doing.",
+        "What the hive needed."
+       ]
+      }
+     ],
+     "parent": "The ages on the cards are a rough guide. Real bees change at slightly different ages in different hives.",
+     "context": "In this step you play the first six cards and learn how the game works."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Play the next six cards. Then ask why some bees on the cards changed jobs early or went back.",
+     "say": "Play six more cards. Then think about this. Two of the cards have a bee doing a job that does not match her age. Why did that happen?",
+     "kid": "Play six more cards. Some bees do a job that is not for their age. Why?",
+     "ask": [
+      {
+       "q": "Why would a young bee start foraging early?",
+       "good": [
+        "The hive lost many foragers.",
+        "The hive needed food and there was nobody to bring it.",
+        "The hive changed her job."
+       ]
+      }
+     ],
+     "parent": "Wait for your child's answer before you explain. A good answer says that the hive's needs change a bee's job. After that you can say that this is what Huang and Robinson found in 1992.",
+     "check": {
+      "t": "mcq",
+      "q": "A hive loses most of its foragers in a storm. What usually happens next?",
+      "options": [
+       "Some young bees start foraging earlier than usual",
+       "The queen flies out to find food",
+       "The hive stays still until new foragers hatch"
+      ],
+      "a": 0,
+      "why": "Young bees can start foraging days or weeks earlier when the hive is short of foragers. The queen stays inside and lays eggs. Waiting would starve the grubs."
+     },
+     "context": "In this step you play six more cards, and look at the bees who changed jobs because the hive needed it."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Play the last six cards and add up the points.",
+     "say": "Play the last six cards. Then count your points. Who has the most?",
+     "kid": "Play the last six cards. Count your points.",
+     "context": "In this step you finish the game and count the points."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Say who won. Ask your child which card was hardest to guess, and why.",
+     "say": "Who got the most points? Which card was hardest? Why was it hard?",
+     "kid": "Who won? Which card was hardest? Why?",
+     "think": "Which cards show that a bee's job depends on more than her age?",
+     "context": "This is the last step of Which Bee Does What. You look back at the game."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "The Swarm Chooses: a dal-cup game of scouts and a quorum",
+   "mins": 25,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a game about how a honeybee swarm picks a new home. Dal grains in a cup stand for scouts. You see which home wins, and whether the best home always wins.",
+   "setup": [
+    {
+     "art": "A steel cup holding one moong dal, one chana and one rajma bean, next to three small bowls of the same pulses and three site cards.",
+     "caption": "1. Put one of each pulse in the cup. Keep the rest in the bowls."
+    },
+    {
+     "art": "A hand drawing one pulse from the cup with closed eyes, with the three site cards in a row beside it.",
+     "caption": "2. A scout draws one pulse. Put it back. That pulse's kind is the site she visits."
+    },
+    {
+     "art": "The same hand adding extra pulses of that kind to the cup, with the number printed on the site card.",
+     "caption": "3. She dances. Add the number of pulses shown on the card to the cup."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "3 site cards: a nest site on the front, how good it is and how many pulses to add on the back",
+     "items": [
+      {
+       "f": "Site A (moong dal). A damp gap in an old wall, with a big opening.",
+       "b": "A poor home. A scout who visits dances only a little. Add 1 moong dal to the cup."
+      },
+      {
+       "f": "Site B (chana). A hole in a steel water tank. It is big enough but gets very hot in the sun.",
+       "b": "An average home. A scout who visits dances for a fair time. Add 2 chana to the cup."
+      },
+      {
+       "f": "Site C (rajma bean). A dry hollow in a jackfruit tree, the right size, with one small door.",
+       "b": "A very good home. A scout who visits dances for a long time. Add 3 rajma beans to the cup."
+      }
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "A score sheet with 5 lines, one for each game",
+     "items": [
+      "Game 1: the site that reached 20 first ____ Number of scouts (turns) ____",
+      "Game 2: the site that reached 20 first ____ Number of scouts (turns) ____",
+      "Game 3: the site that reached 20 first ____ Number of scouts (turns) ____",
+      "Game 4: the site that reached 20 first ____ Number of scouts (turns) ____",
+      "Game 5: the site that reached 20 first ____ Number of scouts (turns) ____"
+     ]
+    }
+   ],
+   "rules": [
+    "You need a steel cup or tumbler you cannot see into, at least 20 moong dal, 20 chana and 20 rajma beans in three bowls, and the three site cards.",
+    "Start with one moong dal, one chana and one rajma bean in the cup. Moong dal is Site A, chana is Site B and rajma is Site C.",
+    "One turn is one scout. Shake the cup. Draw one pulse without looking. Say which site the scout visits. Then put the pulse back.",
+    "The scout returns and dances. Look at that site's card and add that many pulses of the same kind to the cup.",
+    "Keep taking turns. The swarm leaves when any one kind has 20 pulses in the cup. That is the quorum. That site wins.",
+    "Before each game, every player writes down which site they think will win. A player whose site wins scores 1 point. Playing alone? Write your guess and keep your own tally of right guesses.",
+    "Play five games. Write each winner and the number of turns on the score sheet. The player with the most points wins. Playing alone, your goal is to say what the five games show."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Set up the cup, the three bowls and the site cards. Read the three cards aloud. Put one of each pulse in the cup.",
+     "say": "Three homes have been found. Moong dal is an old wall, chana is a hot water tank, and rajma is a jackfruit hollow. Look at the cards. Which home is best?",
+     "kid": "Read the three site cards. Put one of each pulse in the cup.",
+     "ask": [
+      {
+       "q": "Which home do you think will win, and why?",
+       "good": [
+        "The jackfruit hollow, because it is the best.",
+        "The wall, because it is first.",
+        "Not sure, because it depends on luck."
+       ]
+      }
+     ],
+     "parent": "Write each player's guess on the score sheet before the first draw. Do not say which one wins most often. The game will show it.",
+     "context": "This is the first step of The Swarm Chooses. You set up the cup and meet the three homes."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Play game 1. Draw a pulse, put it back, and add the extra pulses. Stop when one kind reaches 20. Write the winner and the number of turns.",
+     "say": "Shake the cup, draw one, say the site, put it back, then add the extras. Keep going until one kind has twenty.",
+     "kid": "Shake the cup. Draw one. Put it back. Add the extras. Stop at twenty.",
+     "parent": "Each game takes about 13 draws on average, which is about three to four minutes. Count the pulses of the leading kind by tipping the cup into a tray once every few turns.",
+     "context": "In this step you play the first game of the swarm choosing."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Play games 2 and 3. Write the winner and the turns each time. After game 3, ask the question below.",
+     "say": "Play two more games. Write down who wins each time. Then look at your sheet. Did the same site win every time?",
+     "kid": "Play games 2 and 3. Write the winners. Is it always the same?",
+     "ask": [
+      {
+       "q": "Did the best home win every time? What did you see?",
+       "good": [
+        "It won most times but not always.",
+        "Sometimes the poor one got ahead early.",
+        "The one that got ahead early kept winning."
+       ]
+      }
+     ],
+     "parent": "With these numbers, the best site wins about six games in ten, the middle site about three in ten, and the poor site rarely. So in five games, your result may differ from this. That is the point.",
+     "context": "In this step you play two more games and look at the pattern of winners."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "Play games 4 and 5. Then count how many times each site won in all five games.",
+     "say": "Play the last two games. Then count the winners on the sheet. How many times did each site win?",
+     "kid": "Play games 4 and 5. Count how many times each site won.",
+     "context": "In this step you finish the five games and count the winners."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "Talk about the results. Ask why the good site usually wins, and why a poor site can sometimes win.",
+     "say": "Which site won most? Did the best one always win? Why can an early lead matter so much? Real scouts visit and check for themselves. Why does that help?",
+     "kid": "Which site won most? Did the best always win? Why or why not?",
+     "ask": [
+      {
+       "q": "Why can a poor home sometimes win?",
+       "good": [
+        "It got lucky at the start.",
+        "Many scouts followed the first dancers.",
+        "Not enough scouts checked it themselves."
+       ]
+      }
+     ],
+     "parent": "Real swarms reduce this problem. Each scout flies to a site herself and judges it before she dances, so the dances are not just copies. This is why Thomas Seeley says independent checking is the secret of a good group decision.",
+     "think": "What would change if every scout copied the dancer without visiting the site?",
+     "context": "This is the last step of The Swarm Chooses. You think about what the game shows."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Switch or Stay: does splitting a job make it faster?",
+   "mins": 39,
+   "days": 1,
+   "question": "Is a job of three steps done faster if you finish each paper square before starting the next, or if you do one step on all the squares, and then the next step on all of them?",
+   "predict": "Before you start, guess. Which way will be faster: one square at a time, or one step at a time on all the squares? Or will it be the same? Why do you think so?",
+   "fair_test": "Use the same pencil, crayon and pen, the same size of squares and the same table every time. Each round is 12 squares. You do the rounds in the order one square at a time, one step at a time, one step at a time, one square at a time. That order cancels the effect of getting better with practice. Time every round the same way, and check that your stars are neat in both ways. Only the method changes.",
+   "results_table": [
+    "Round",
+    "Method",
+    "Time in seconds",
+    "Neat squares out of 12"
+   ],
+   "materials": [
+    {
+     "item": "48 small paper squares about 5 centimetres wide, cut from old newspaper or notebook pages (a grown-up can help with the cutting)",
+     "qty": 48
+    },
+    {
+     "item": "a pencil, a red crayon and a pen, all within reach on the table",
+     "qty": 3
+    },
+    {
+     "item": "a phone or kitchen timer that counts seconds",
+     "qty": 1,
+     "buy": "b-timer"
+    },
+    {
+     "item": "a notebook page to write the results",
+     "qty": 1
+    }
+   ],
+   "record": "Write the time and the number of neat squares for each of the four rounds. Add the two one-square-at-a-time times together, and the two one-step-at-a-time times together. Then draw two bars to compare the totals.",
+   "context": "In this experiment you find out whether splitting a job into steps is faster. You do the same job two ways and time yourself.",
+   "setup": [
+    {
+     "art": "A table with twelve small paper squares in a row, a pencil, a red crayon, a pen and a timer.",
+     "caption": "1. Lay out twelve squares, a pencil, a red crayon and a pen."
+    },
+    {
+     "art": "Method one: a hand finishing one square with a star, colour and letter, with the next square waiting beside it.",
+     "caption": "2. Method one: finish each square, step by step, before you start the next."
+    },
+    {
+     "art": "Method two: twelve squares in a row, with stars on all of them, and the hand starting to colour the first one.",
+     "caption": "3. Method two: draw all the stars first, then colour all of them, then write all the letters."
+    },
+    {
+     "art": "A notebook table with four rows for the rounds, and the times and neat squares written in.",
+     "caption": "4. Write the time and the number of neat squares after every round."
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Round",
+     "Method",
+     "Seconds",
+     "Neat squares"
+    ],
+    "rows": [
+     [
+      "1",
+      "One square at a time",
+      "148",
+      "11"
+     ],
+     [
+      "2",
+      "One step at a time",
+      "131",
+      "11"
+     ],
+     [
+      "3",
+      "One step at a time",
+      "126",
+      "12"
+     ],
+     [
+      "4",
+      "One square at a time",
+      "139",
+      "12"
+     ]
+    ]
+   },
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Show your child the squares and the three tools. Explain the two methods. Write down the guess and the reason.",
+     "say": "Each square gets three steps. Draw a small star with the pencil. Colour it red with the crayon. Write your first letter under it with the pen. Which way will be faster? Why do you think so?",
+     "kid": "Each square gets a star, red colour and a letter. Which way is faster? Why?",
+     "ask": [
+      {
+       "q": "Why do you think that way will be faster?",
+       "good": [
+        "You do not put down and pick up tools so often.",
+        "You get into a rhythm.",
+        "Doing one square at a time feels quicker."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the page.",
+     "context": "This is the first step of Switch or Stay. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Cut or tear the squares if they are not ready. Put the pencil, crayon and pen in a row. Do a practice round of three squares, not timed.",
+     "say": "Practice makes the test fair. Do three squares your own way, with no timing. Get used to the tools. Then we start the real rounds.",
+     "kid": "Do a practice round of three squares. No timing yet.",
+     "parent": "If you need the squares cut, a grown-up can fold a page twice each way and cut along the folds. Spend only a few minutes on this. Practice stops your first timed round from being much slower than the rest.",
+     "check": {
+      "t": "mcq",
+      "q": "Why do you practise before the timed rounds?",
+      "options": [
+       "So that getting better with practice does not spoil the test",
+       "So the stars come out larger",
+       "So the timer works better"
+      ],
+      "a": 0,
+      "why": "A beginner is usually slower. If the first timed round were also your first try, it would look slow because of practice, not because of the method. Practice first makes the rounds fairer."
+     },
+     "context": "In this step you get the squares ready and practise, so the real rounds are fair."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Round 1. Method one. Start the timer. Finish each square before you take the next. Stop the timer after 12 squares. Write the time and count the neat squares.",
+     "say": "Round 1. One square at a time. Star, colour, letter. Then the next square. Ready? Start the timer, and go.",
+     "kid": "Round 1. Finish one square at a time. Start the timer.",
+     "context": "In this step you do round 1, finishing one square before the next."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Round 2. Method two. Start the timer. Draw the stars on all 12 squares, then colour all 12, then write all 12 letters. Stop the timer and write the result.",
+     "say": "Round 2. One step at a time. All the stars first. Then all the colour. Then all the letters. Start the timer, and go.",
+     "kid": "Round 2. All stars, then all colour, then all letters. Start the timer.",
+     "context": "In this step you do round 2, doing one step on all the squares at a time."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Round 3. Method two again. Use 12 new squares. Time it and write the result.",
+     "say": "Round 3. One step at a time again, with fresh squares. Start the timer, and go.",
+     "kid": "Round 3. Same as round 2, with new squares. Start the timer.",
+     "context": "In this step you repeat method two, so your result does not rest on one try."
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Round 4. Method one again. Use 12 new squares. Time it and write the result.",
+     "say": "Round 4. One square at a time again, with fresh squares. Start the timer, and go.",
+     "kid": "Round 4. Same as round 1, with new squares. Start the timer.",
+     "context": "In this step you repeat method one, to match round 3."
+    },
+    {
+     "id": "s7",
+     "mins": 6,
+     "do": "Add the two times for method one. Add the two times for method two. Compare the totals. Draw two bars.",
+     "say": "Add the two one-square-at-a-time times. Then add the two one-step-at-a-time times. Which total is smaller? By how many seconds?",
+     "kid": "Add the times for each method. Which total is smaller? By how much?",
+     "check": {
+      "t": "mcq",
+      "q": "Method one took 287 seconds in total. Method two took 257 seconds. What does that show?",
+      "options": [
+       "Method two was faster by 30 seconds",
+       "Method one was faster by 30 seconds",
+       "The two were the same"
+      ],
+      "a": 0,
+      "why": "A smaller time means faster. 287 minus 257 is 30, so method two was faster by 30 seconds. One test can be a fluke, so the other rounds help to show it is not."
+     },
+     "context": "In this step you add up your results and compare the two methods."
+    },
+    {
+     "id": "s8",
+     "mins": 5,
+     "do": "Ask your child for a claim, the evidence and the reason. Write all three. Then talk about the question below.",
+     "say": "What do you think the test shows? What numbers show it? Why do you think it happened? Did the neat squares change?",
+     "kid": "Say what you found. Say the numbers. Say why you think it happened.",
+     "ask": [
+      {
+       "q": "What do you think made one way faster, or slower?",
+       "good": [
+        "Putting down and picking up tools takes time.",
+        "Doing the same thing again gets quicker.",
+        "It was about the same, so it did not matter."
+       ]
+      }
+     ],
+     "parent": "Let your child say what they think before you give a reason. A common finding is that doing one step at a time on all the squares is a little faster, because you swap tools only twice. In your test it may be close, or it may be the other way round. Either way, record exactly what you saw. Then say that a hive's jobs are split for the same kind of reason, and that splitting has a cost: if nobody can change jobs, a missing worker leaves a job undone.",
+     "think": "What would go wrong if only one person in a team knew how to do the second step?",
+     "context": "This is the last step of Switch or Stay. You say what you found and why."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Jar of Dal: is a crowd's middle guess better than one person's guess?",
+   "mins": 36,
+   "days": 1,
+   "question": "If six or more people each guess how many chana are in a glass, is the middle guess closer to the true number than most people's own guesses? And does hearing other people's guesses first make the crowd better or worse?",
+   "predict": "Before you start, guess. Will the middle guess of the group beat most of the people? Will guesses spoken out loud be better than guesses written in secret? Why do you think so?",
+   "fair_test": "Every person looks at the glass for the same ten seconds from the same distance. For glass A, everyone writes a guess in secret and nobody talks. For glass B, everyone says a guess out loud, one after the other, hearing the guesses before. The glass count is different, so you compare how far each middle guess is from its true number, and how spread out the guesses are, loosely.",
+   "results_table": [
+    "Person",
+    "Secret guess for glass A",
+    "Spoken guess for glass B"
+   ],
+   "materials": [
+    {
+     "item": "two clear glasses or small jars of the same size",
+     "qty": 2
+    },
+    {
+     "item": "about 500 grams of dry kabuli chana (white chickpeas), or any dry bean of one kind",
+     "qty": 1
+    },
+    {
+     "item": "small slips of paper, one per person, and a pencil",
+     "qty": 8
+    },
+    {
+     "item": "at least six people to guess (family, neighbours or friends)",
+     "qty": 6
+    },
+    {
+     "item": "a tray or plate, for counting the chana in tens",
+     "qty": 1
+    }
+   ],
+   "record": "Write every guess in the table. For each glass, put the guesses in order from smallest to biggest, find the middle one, and write how far it is from the true number. Then write how far each person was from the true number.",
+   "context": "In this experiment you ask a group of people to guess how many chana are in a glass. You test whether a group's middle guess is a good answer, and whether hearing others first changes it.",
+   "setup": [
+    {
+     "art": "A grown-up counting chana into little piles of ten on a tray, with a clear glass beside it.",
+     "caption": "1. A grown-up counts the chana into tens, then fills glass A. Write the number on a folded paper."
+    },
+    {
+     "art": "Six people sitting round a table, each writing a guess on a small paper slip with a hand covering it.",
+     "caption": "2. For glass A, everyone writes a secret guess on a slip."
+    },
+    {
+     "art": "Six people in a circle with one person speaking and the others listening, and a second glass in the middle.",
+     "caption": "3. For glass B, everyone says a guess out loud, one after the other."
+    },
+    {
+     "art": "A line of guesses written in order from the smallest to the largest, with the middle one circled and the true number beside it.",
+     "caption": "4. Put the guesses in order. Circle the middle one. Compare with the true number."
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Glass",
+     "Guesses in order",
+     "Middle guess",
+     "True number"
+    ],
+    "rows": [
+     [
+      "A, secret",
+      "150, 180, 200, 210, 240, 260, 330",
+      "210",
+      "220"
+     ],
+     [
+      "B, spoken",
+      "300, 300, 300, 310, 320, 330, 350",
+      "310",
+      "340"
+     ]
+    ]
+   },
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Tell your child they will fill two glasses and ask people to guess. Write down the guess about the middle guess and its reason.",
+     "say": "We will ask a group to guess how many chana are in a glass. Will the middle guess of the group beat most of the people? Why do you think so?",
+     "kid": "A group will guess chana in a glass. Will the middle guess beat most people? Why?",
+     "ask": [
+      {
+       "q": "Why do you think the group's middle guess will be good, or bad?",
+       "good": [
+        "Some guess too low and some too high, so the middle is close.",
+        "Everyone is bad at guessing so the middle is bad too.",
+        "Not sure."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "context": "This is the first step of The Jar of Dal. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Pour about 150 chana into glass A and count them on the tray in tens. Then fill glass B with a different amount and count it. Write each count on a folded paper. Keep them secret.",
+     "say": "A grown-up counts the chana into tens before anyone guesses. Fill glass A. Then fill glass B with a different amount. Write each number on a folded paper and hide it.",
+     "kid": "A grown-up counts the chana in tens. Fill glass A and glass B. Hide the numbers.",
+     "adult": true,
+     "parent": "Counting by tens on a tray is quick. A glass of 150 to 400 chana is a good size. Make glass B clearly different from glass A. Do not let the guessers see the counting.",
+     "check": {
+      "t": "mcq",
+      "q": "Why is the true number counted before anyone guesses?",
+      "options": [
+       "So we can compare every guess with the real number afterwards",
+       "So the guessers can copy it",
+       "So the chana stay dry"
+      ],
+      "a": 0,
+      "why": "To tell whether a guess is good, we need the true number to compare it with. Counting first also stops anyone from changing their guess after seeing it."
+     },
+     "context": "In this step a grown-up fills two glasses and counts the chana, so the true numbers are known before anyone guesses."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Show glass A to each person for ten seconds. Everyone writes a secret guess on a slip, folds it, and puts it on the tray. No talking.",
+     "say": "Look at glass A for ten seconds. Write your guess on a slip. Fold it. Do not talk, and do not look at anyone else's slip.",
+     "kid": "Look at glass A. Write a secret guess. Fold the slip. No talking.",
+     "parent": "If someone says their guess aloud, start again for that person with a new slip. The point of this round is that every guess is independent.",
+     "context": "In this step everyone makes a secret guess for glass A, so that nobody's guess is changed by anybody else."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Show glass B for ten seconds. Each person says a guess out loud, one after the other. Write each guess in the table.",
+     "say": "Now look at glass B for ten seconds. One by one, say your guess out loud. Everyone can hear the guesses before theirs.",
+     "kid": "Look at glass B. Say your guess out loud, one by one.",
+     "parent": "Let the first speaker be whoever volunteers. Do not choose a confident person on purpose.",
+     "context": "In this step everyone hears the guesses before their own, and you see if that changes the group."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "do": "Open the paper slips and the counts. Put each list in order from smallest to biggest. Circle the middle guess. Work out how far it is from the true number, and how far each person's guess is.",
+     "say": "Open the slips. Put the guesses in order. Circle the middle one. How far is it from the true number? How far is each person's guess?",
+     "kid": "Put the guesses in order. Circle the middle one. Check each against the true number.",
+     "check": {
+      "t": "mcq",
+      "q": "Seven guesses in order are 150, 180, 200, 210, 240, 260 and 330. Which is the middle guess?",
+      "options": [
+       "210",
+       "200",
+       "240"
+      ],
+      "a": 0,
+      "why": "With seven guesses, the middle one has three guesses below it and three above. Counting from the smallest, the fourth is 210. An even number of guesses has two middle ones, so the middle is halfway between them."
+     },
+     "context": "In this step you reveal the true numbers and compare every guess with the middle guess."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "do": "Ask your child for a claim, the evidence and the reason. Write all three.",
+     "say": "What do you think the test shows? Which numbers show it? Were the spoken guesses closer together than the secret ones? Why do you think so?",
+     "kid": "Say what you found. Say the numbers. Say why.",
+     "ask": [
+      {
+       "q": "Did hearing other people's guesses make the group better, worse or the same?",
+       "good": [
+        "The guesses were closer together, but not closer to the right number.",
+        "The group copied the first guesses.",
+        "It was about the same."
+       ]
+      }
+     ],
+     "parent": "Let your child say what they think first. A common result is that the middle guess of secret guesses lands close to the true number, and that spoken guesses bunch together. A bunch can still be wrong, if the first speakers were. With only six or seven guessers, the result can go either way. If your result is different, write down exactly what happened. Then say that a hive's scouts check places themselves before they dance, which keeps the guesses independent.",
+     "think": "If all the people guessed too low, would the middle guess also be too low? What does that tell you about a crowd?",
+     "context": "This is the last step of The Jar of Dal. You say what you found and why."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Same Ants, Different Jobs: ten minutes at an ant trail",
+   "mins": 12,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a notebook page and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a clock or phone that shows seconds",
+     "qty": 1
+    },
+    {
+     "item": "a tiny crumb of sugar, jaggery or biscuit, if no ants are walking about yet (put it on a saucer by the wall an hour before)",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Find a place where ants are walking. Watch one small patch for five minutes, tally what they do, and say what you notice."
+    }
+   ],
+   "record": "A tally table with five minute rows and four columns: ants passing, carrying something, standing still, touching another ant.",
+   "context": "In this activity you watch ants at a trail in your home, before you learn about insect societies. You tally what the ants are doing, and see if every ant does the same.",
+   "setup": [
+    {
+     "art": "A child lying on the kitchen floor beside a thin line of ants walking along the skirting, with a notebook and pencil.",
+     "caption": "1. Find a line of ants. Sit by a patch of the line about as long as your hand."
+    },
+    {
+     "art": "A notebook table with five rows of one minute and four columns: passing, carrying, standing, touching.",
+     "caption": "2. Draw a table with five rows and four columns."
+    },
+    {
+     "art": "A close picture of two ants meeting on the trail with their feelers touching, and one ant carrying a crumb.",
+     "caption": "3. Watch for one minute at a time. Make a mark for each ant that fits a column."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Find a line of ants in the kitchen, on a wall or on a window sill. Draw a table with five rows and four columns. Set a clock for five one-minute watches.",
+     "say": "Ants are almost always somewhere in the house. Find a line of them. Sit beside a patch as long as your hand. Today we only look and count. What do you notice?",
+     "kid": "Find ants walking. Draw your table. Sit by a patch the size of your hand.",
+     "parent": "If no ants are out, put a crumb of sugar on a saucer by the wall an hour before. Do not use sprays or powders near the ants. If you cannot find ants at all, watch a video of ants and tally from that, and say so in the notebook.",
+     "context": "This is the first step of Same Ants, Different Jobs. You find ants and get ready to watch."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Watch for one minute, then stop and tally. Do this five times. In each minute, tally four things. Count the ants that pass, the ants carrying something, the ants standing still, and the ants touching another ant.",
+     "say": "Watch for one minute. Make a mark for each ant. How many pass? How many carry something? How many stand still? How many touch another ant?",
+     "kid": "Watch for one minute. Make marks. Do it five times.",
+     "ask": [
+      {
+       "q": "Do all the ants do the same thing?",
+       "good": [
+        "No, some carry and some do not.",
+        "Some stop to touch another ant.",
+        "Some are bigger than others."
+       ]
+      }
+     ],
+     "parent": "Count only ants in your patch. If the ants are all the same size and all do the same thing, that is a result too. Write it down.",
+     "context": "In this step you watch the ants and tally what each one does."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Look at your table. Ask your child what they notice, and what they wonder. Do not explain yet.",
+     "say": "Look at your table. What do you notice? What do you wonder? Did every ant do the same thing?",
+     "kid": "Look at your table. What do you notice? What do you wonder?",
+     "parent": "Do not explain yet. Keep the table. You will come back to it after the explanation cards.",
+     "think": "Who might decide what each ant should do?",
+     "check": {
+      "t": "mcq",
+      "q": "You watch an ant trail for five minutes. One ant out of ten is standing still at any moment. What does this show?",
+      "options": [
+       "Only that some ants stood still while you watched",
+       "That those ants are lazy",
+       "That those ants are sick"
+      ],
+      "a": 0,
+      "why": "A tally shows what happened in the minutes you watched. It does not show why. Scientists who watch every ant in a nest find that many stand still at any moment, and they do not agree why."
+     },
+     "context": "This is the last step of Same Ants, Different Jobs. You say what you noticed."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "A Bee's Forty Days: draw the jobs of a honeybee worker",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a long strip of paper or two A4 sheets taped together",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and coloured pencils",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Draw a timeline of a worker honeybee's life. Mark her five jobs. Then draw what happens when the hive loses its foragers."
+    }
+   ],
+   "record": "A timeline from day 1 to day 40, with a picture and a label for each job, and an arrow showing a young bee who becomes a forager early.",
+   "context": "In this activity you draw a worker honeybee's life as a strip with five jobs. This turns the idea of age-based jobs into a picture you can keep.",
+   "setup": [
+    {
+     "art": "A long strip of paper with a line along the middle and the days 1, 10, 20, 30 and 40 marked.",
+     "caption": "1. Draw a line along a long strip of paper. Mark days 1, 10, 20, 30 and 40."
+    },
+    {
+     "art": "The strip with five coloured sections: cleaner, nurse, builder or storer, guard and forager, each with a small picture.",
+     "caption": "2. Colour the five jobs along the line. Add a small picture for each."
+    },
+    {
+     "art": "The same strip with an arrow from the nurse section jumping ahead to the forager section, and a note saying a storm killed the foragers.",
+     "caption": "3. Draw an arrow for a young bee who starts foraging early."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Draw a line along the middle of a long strip. Mark day 1 at the left end and day 40 at the right end. Mark days 10, 20 and 30 in between.",
+     "say": "A worker honeybee in summer lives about forty days. Draw a long line. Write day one at the left end and day forty at the right. Put marks for ten, twenty and thirty.",
+     "kid": "Draw a long line. Mark days 1, 10, 20, 30 and 40.",
+     "parent": "The forty days is a round number. Real worker lifespans vary from three weeks to six weeks or more in summer.",
+     "context": "This is the first step of A Bee's Forty Days. You draw the line of a bee's life."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Colour five jobs along the line. Cleaner for days 1 to 3. Nurse for days 4 to 10. Builder or storer for days 11 to 18. Guard for days 19 to 21. Forager for day 22 until the end. Add a small picture to each.",
+     "say": "Colour the jobs. Cleaner, days one to three. Nurse, days four to ten. Builder or storer, days eleven to eighteen. Guard, days nineteen to twenty-one. Forager, after day twenty-one.",
+     "kid": "Colour five jobs along the line. Add a picture for each.",
+     "ask": [
+      {
+       "q": "Which job lasts longest on your line?",
+       "good": [
+        "Forager.",
+        "The one at the end."
+       ]
+      }
+     ],
+     "parent": "The days are a rough guide from studies of honeybees. Real bees vary, and the order is more reliable than the exact days.",
+     "check": {
+      "t": "mcq",
+      "q": "On your timeline, which job comes just before foraging?",
+      "options": [
+       "Guard",
+       "Cleaner",
+       "Nurse"
+      ],
+      "a": 0,
+      "why": "In the usual order a worker cleans, nurses, builds or stores, guards, and then forages. Guarding is the last job inside the hive. Cleaning is the first."
+     },
+     "context": "In this step you draw the five jobs of a worker honeybee along her life."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Draw an arrow from the nurse part to the forager part. Write: a storm killed many foragers. Then write what you think happens next.",
+     "say": "A storm kills most of the hive's foragers. Draw an arrow showing a young nurse bee who starts foraging early. What do you think the hive does next?",
+     "kid": "A storm kills the foragers. Draw an arrow for a young bee who forages early.",
+     "ask": [
+      {
+       "q": "What does your arrow show about a job and an age?",
+       "good": [
+        "A job is not fixed to an age.",
+        "The hive changes the bee's job.",
+        "A young bee can do an older bee's job."
+       ]
+      }
+     ],
+     "parent": "Young bees that forage early tend to live shorter lives. After they have said what they think, you can tell them that. It is one reason a hive avoids changing jobs unless it has to.",
+     "think": "What might go wrong if a young bee starts foraging much too early?",
+     "context": "This is the last step of A Bee's Forty Days. You draw what a hive does when it loses its foragers."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Dance the Map: act out the waggle dance",
+   "mins": 25,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a big sheet of paper and tape",
+     "qty": 1
+    },
+    {
+     "item": "a marker pen",
+     "qty": 1
+    },
+    {
+     "item": "a small sweet, or a paper flower, to hide",
+     "qty": 1
+    },
+    {
+     "item": "a chair to be the hive, and a window to be the Sun",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "One of you hides a sweet. The other dances the way to it on a paper comb. The first finds it by following only the dance."
+    }
+   ],
+   "record": "A drawing of your paper comb with the dance line and the number of waggles, and a sketch map of the room with the real route to the sweet.",
+   "context": "In this activity you act out the honeybee's waggle dance with a parent. You use a line on a paper comb to describe where a hidden sweet is, and a partner has to find it from the dance alone.",
+   "setup": [
+    {
+     "art": "A big sheet of paper taped to a wall with an arrow pointing straight up, labelled the Sun.",
+     "caption": "1. Tape a big paper to the wall. Draw an arrow pointing up. This is the direction of the window, the Sun."
+    },
+    {
+     "art": "A child on a chair facing the window, with a sweet hidden somewhere to the right and a short distance away.",
+     "caption": "2. One person hides the sweet. The hive is the chair. The Sun is the window."
+    },
+    {
+     "art": "A child drawing a line on the paper that leans to the right of the arrow, and tapping the line with a finger while counting.",
+     "caption": "3. The dancer draws the line and taps the waggles. One tap is one step."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Tape a big paper to a wall. Draw an arrow pointing straight up, and write the Sun next to it. Put a chair in the middle of the room, facing the window. The chair is the hive.",
+     "say": "This paper is the comb inside a dark hive. Straight up on the paper means towards the Sun. We will use the window for the Sun. The chair is the hive.",
+     "kid": "Tape the paper to the wall. Draw an arrow up for the Sun. The chair is the hive.",
+     "parent": "Choose a window that is easy to face from the chair. A real bee uses the angle from straight up to the direction of the Sun. You are doing the same with the window.",
+     "context": "This is the first step of Dance the Map. You set up the comb, the Sun and the hive."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "One player closes their eyes. The other hides the sweet in the room, between three and eight steps from the chair, in any direction. Then the first player walks to the sweet and back to the chair.",
+     "say": "One person hides the sweet. The other person is the forager. The forager walks from the chair to the sweet, then comes back to the chair.",
+     "kid": "One person hides the sweet. The forager walks to it and back to the chair.",
+     "parent": "Choose a hiding place that is clearly to the left or the right of the window direction. Count the steps together when you walk it.",
+     "context": "In this step one player hides a sweet, and the forager finds it and returns to the hive."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "The forager is the dancer. At the paper, the dancer draws a straight line from the middle. The line leans left or right of the up arrow, the same way the sweet leans from the window direction. Then the dancer taps along the line, one tap for each step.",
+     "say": "Dancer, draw the line. Lean it the same way as the sweet is from the window. Then tap along the line. One tap for one step.",
+     "kid": "Draw the line leaning towards the sweet. Tap once for each step.",
+     "ask": [
+      {
+       "q": "Why does the line on the paper lean to the left or the right?",
+       "good": [
+        "Because the sweet is to the left or right of the window.",
+        "It shows the direction.",
+        "It shows the angle from the Sun."
+       ]
+      }
+     ],
+     "parent": "The dancer must not say or point. Only the line and the taps may be used. This is how the real dance works.",
+     "context": "In this step the dancer describes the sweet's place with a line and taps, and says nothing else."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "The other player looks only at the line and the taps. Stand on the chair side facing the window, and walk the angle and the number of steps. Then see how close you are to the sweet.",
+     "say": "Follower, read the dance. Face the window. Turn the same way the line leans. Walk as many steps as the taps. Where did you stop?",
+     "kid": "Face the window. Turn the way the line leans. Walk the number of taps.",
+     "parent": "Do not expect a perfect landing. If the follower stops a step or two from the sweet, that is a good result for a first try. Real bees are also only roughly right, and they get within a few metres.",
+     "context": "In this step the follower finds the sweet using only the dance."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Swap roles, with a new hiding place. Then talk about what was hard about the dance and what a real bee does that you could not.",
+     "say": "Swap places and play again. Then think. What was hard about the dance? A real bee dances in the dark. How do the other bees know what she means?",
+     "kid": "Swap roles and play again. What was hard? A real bee dances in the dark.",
+     "parent": "Real dancers turn the line a little as the Sun moves across the sky, so their message stays right as the hours go by. Worker bees do this without having been taught.",
+     "think": "What happens to the message if the Sun moves across the sky while the bee is dancing?",
+     "context": "This is the last step of Dance the Map. You try the other role and think about what is hard."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Ask the Elders: bees, wasps and termites near us",
+   "mins": 25,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a notebook page with a 4-column table",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a grandparent, an older relative, a neighbour or a shopkeeper to ask, in person or on the phone",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Interview an older person about the bees, wasps and termites in their place. Fill in the table. Mark the places on a sketch map."
+    }
+   ],
+   "record": "A table with at least four rows: the insect, where it lives near us, what people do about it, and what the person has seen it do.",
+   "context": "In this activity you ask an older person what they know about bees, wasps, termites and ants where they live. You collect what they have seen and what they do about it.",
+   "setup": [
+    {
+     "art": "A child holding a phone on speaker, writing in a notebook while an older person talks.",
+     "caption": "1. Ask an older person about the bees, wasps and termites near them."
+    },
+    {
+     "art": "A notebook table with columns: Insect, Where it lives, What people do, What I saw.",
+     "caption": "2. Fill in the table for each insect they name."
+    },
+    {
+     "art": "A hand-drawn sketch map with small marks showing where the nests and mounds are.",
+     "caption": "3. Mark the places on a small map."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Draw a table with four columns. They are the insect, where it lives, what people do about it, and what the person has seen it do.",
+     "say": "Older people often know a lot about the insects around them. Today we are scientists collecting what they know. Draw a table with four columns.",
+     "kid": "Draw a table with four columns. You will interview someone.",
+     "context": "This is the first step of Ask the Elders. You get your table ready."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Call or visit an older person. Ask which bees, wasps, termites or ants they know. Ask where they live, what people do about them, and what they have seen. Write what they say.",
+     "say": "Which bees or wasps have you seen near your home? Where do termites come? Do you know anyone who keeps bees, or who has taken honey from a wild nest? What did they see?",
+     "kid": "Ask what bees, wasps and termites they know. Write what they say.",
+     "ask": [
+      {
+       "q": "Have you ever seen a swarm of bees, or a line of ants moving house?",
+       "good": [
+        "Yes, bees on a branch.",
+        "Yes, a termite mound in a field.",
+        "Ants carrying eggs."
+       ]
+      }
+     ],
+     "parent": "Many families know something. In Kerala some people keep stingless bees in a small log or a coconut shell. Termite mounds, mud tubes on walls and wasp nests under roofs are common across India. If nobody you know has seen any, ask a neighbour, a gardener or a shopkeeper.",
+     "context": "In this step you interview someone and collect what they know about social insects."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Read your table. Mark each place on a small sketch map. Ask your child what the older person knew that surprised them.",
+     "say": "Read your table back. What surprised you? Which insect did the person know the most about? Mark the places on a map.",
+     "kid": "Read your table. Mark the places on a map. What surprised you?",
+     "think": "What does one person's knowledge miss that a whole village's knowledge might have?",
+     "context": "This is the last step of Ask the Elders. You collect your findings and mark them on a map."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Huddle or Spread: how a crowd keeps warm",
+   "mins": 30,
+   "days": 1,
+   "materials": [
+    {
+     "item": "6 small identical bottles or jars with lids, about 200 to 300 millilitres each",
+     "qty": 6
+    },
+    {
+     "item": "warm water from the tap, comfortable to hold",
+     "qty": 1
+    },
+    {
+     "item": "rubber bands or string, to tie three bottles together",
+     "qty": 3
+    },
+    {
+     "item": "a kitchen or lab thermometer, if you have one",
+     "qty": 1,
+     "buy": "b-thermometer"
+    },
+    {
+     "item": "a table in a room away from the fan",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up fills the bottles with warm water that is comfortable to hold. Do not use boiling water. It can scald, and it can crack glass.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Fill six bottles with the same warm water. Tie three in a bundle and space three apart. After 20 minutes, check which are warmer."
+    }
+   ],
+   "record": "A table with the temperature or the feel of the middle bottle in the bundle and of a lone bottle, at the start and after 20 minutes.",
+   "context": "In this activity you test why a crowd of bees keeps warmer in a tight bundle than spread out. In a cold place, honeybees cluster together to stay warm.",
+   "setup": [
+    {
+     "art": "Six identical bottles of warm water on a table, with three tied together in a bundle and three standing apart.",
+     "caption": "1. Fill six identical bottles with the same warm water. Tie three in a bundle."
+    },
+    {
+     "art": "A thermometer or a hand held against a bottle in the middle of the bundle, and against a bottle standing alone.",
+     "caption": "2. Check the middle bottle and a lone bottle at the start."
+    },
+    {
+     "art": "The same table twenty minutes later, with a child checking the middle bottle in the bundle and the lone bottle.",
+     "caption": "3. After 20 minutes check them again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Show your child the six bottles. Say that three will be tied in a bundle and three will stand apart. Write down the guess and the reason.",
+     "say": "Bees in a cold place cluster tightly together. We will see if a bundle keeps warm better than bottles standing alone. Which will be warmer in twenty minutes? Why do you think so?",
+     "kid": "Three bottles in a bundle. Three bottles alone. Which stays warmer? Why?",
+     "ask": [
+      {
+       "q": "Why do you think that one will stay warmer?",
+       "good": [
+        "Bottles in a bundle keep each other warm.",
+        "The ones in the middle have less open air around them.",
+        "Bottles alone lose heat to the air."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "context": "This is the first step of Huddle or Spread. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "A grown-up fills all six bottles with the same warm tap water, up to the same line. Put the lids on. Tie three bottles into a bundle. Space the other three apart on the table.",
+     "say": "A grown-up fills all six bottles from the same tap. Put on the lids. Tie three bottles in a tight bundle. Put the other three well apart.",
+     "kid": "A grown-up fills six bottles. Tie three in a bundle. Put three apart.",
+     "adult": true,
+     "parent": "The water should be the same in every bottle, so fill them one after another from the same tap. The bundle should be as tight as you can tie it.",
+     "check": {
+      "t": "mcq",
+      "q": "Why do all six bottles get the same warm water?",
+      "options": [
+       "So only the arrangement can make a difference",
+       "So the bundle gets heavier",
+       "So the water looks the same"
+      ],
+      "a": 0,
+      "why": "If one bottle began warmer, it could stay warmer for that reason alone. When everything else is the same, a difference after 20 minutes comes from the bundle or the space."
+     },
+     "context": "In this step a grown-up fills the bottles, and you set up the bundle and the single bottles."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Check the temperature of the middle bottle in the bundle, and of one lone bottle. If you have no thermometer, hold the back of your hand against each. Write the start values.",
+     "say": "Check the middle bottle of the bundle, and one lone bottle. Write what you find. Use a thermometer, or the back of your hand.",
+     "kid": "Check the middle bottle and a lone bottle. Write what you find.",
+     "parent": "Use the same hand or the same thermometer for both. The middle bottle is the one with a bottle on each side of it.",
+     "context": "In this step you write the starting temperatures."
+    },
+    {
+     "id": "s4",
+     "mins": 14,
+     "do": "Leave the bottles for 20 minutes in total. While you wait, draw the two arrangements, and mark where you think the heat is going.",
+     "say": "Wait twenty minutes. While you wait, draw both arrangements. Mark with arrows where you think the heat is going.",
+     "kid": "Wait. Draw both. Add arrows for where the heat goes.",
+     "parent": "Keep the bottles away from the fan, the window and the sun. Twenty minutes in total is the aim, so a few minutes from step 3 count towards this.",
+     "context": "In this step you wait and draw what you think is happening to the heat."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "Check the middle bottle of the bundle and a lone bottle again. Write the values. Ask your child what they found and why.",
+     "say": "Check the middle bottle and a lone bottle again. Which is warmer? How much? Why do you think so?",
+     "kid": "Check the two bottles again. Which is warmer? Why?",
+     "parent": "A bundle usually stays warmer, because the middle bottle has fewer open sides to lose heat from. The difference may be only a degree or two in a warm room. A cooler room shows it more clearly. Write exactly what you found.",
+     "think": "Honeybees in a cold place shiver their muscles to make heat. Why does it help them to be in a tight ball?",
+     "context": "This is the last step of Huddle or Spread. You check the bottles and say what you found."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Our Home as a Colony: three days of jobs",
+   "days": 3,
+   "mins": 60,
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "coloured pencils",
+     "qty": 1
+    },
+    {
+     "item": "everyone who lives in your home, for a short talk each day",
+     "qty": 1
+    }
+   ],
+   "safety": "Choose a job for the swap that is safe for you, such as watering plants, laying the table, sorting washing or sweeping. Leave out jobs with a stove, a knife or electricity unless a grown-up is beside you.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "List every job done in your home in one day, and who does each. Draw the table."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Pick one person who might be away tomorrow. Plan who takes over their jobs, and what each swap will need."
+    },
+    {
+     "day": 3,
+     "mins": 20,
+     "what": "Do one job swap for an hour. Talk about what was easy, what took time, and what you learned."
+    }
+   ],
+   "record": "A job table with who does each job, a swap plan, and a note about one hour of swapping.",
+   "context": "In this project you study your own home as if it were a colony. You find out who does which jobs, how the jobs would change if someone were away, and what it takes to learn a new job.",
+   "setup": [
+    {
+     "art": "A page with a table: Job, Who does it, How long it takes, How often.",
+     "caption": "1. Draw a table of the jobs in your home."
+    },
+    {
+     "art": "A child talking to a family member at the kitchen table and writing in the notebook.",
+     "caption": "2. Ask each person what jobs they do in a day."
+    },
+    {
+     "art": "A child and an adult swapping a small job, such as watering plants, with a timer on the table.",
+     "caption": "3. Swap one safe job for an hour."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Draw a table with four columns: the job, who does it, how long it takes, and how often. Walk around the home and write down at least ten jobs.",
+     "say": "Every home has jobs. Cooking, sweeping, washing, shopping, watering, helping with homework. Let's write them all down. Who does each one?",
+     "kid": "Draw your table. Walk round your home. List ten jobs.",
+     "context": "This is the first step of Our Home as a Colony. You list the jobs in your home."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Ask each person at home which jobs they do and how long each takes. Fill in the table. Colour the jobs of each person in a different colour.",
+     "say": "Ask each person which jobs they do, and how long each one takes. Write it in. Colour each person's jobs in their own colour.",
+     "kid": "Ask each person their jobs. Fill in the table. Use one colour for each person.",
+     "ask": [
+      {
+       "q": "Do jobs go with age, with skill, or with who is at home?",
+       "good": [
+        "Some jobs are for older people.",
+        "Some jobs go to whoever is at home.",
+        "People change jobs when something changes."
+       ]
+      }
+     ],
+     "parent": "Let everyone speak. Do not turn this into a discussion about who works harder. It is a study, not a score.",
+     "context": "In this step you collect everyone's jobs and show them in colour."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Pick one person who could be away tomorrow, for a pretend day. Plan who takes over each of their jobs. Write what each swap needs, such as learning a skill or finding time.",
+     "say": "Suppose one person is away tomorrow. Who does their jobs? What does each swap need? Does anyone need to learn something first?",
+     "kid": "Suppose one person is away. Plan who takes over their jobs.",
+     "ask": [
+      {
+       "q": "Which job would be hardest to swap, and why?",
+       "good": [
+        "One that needs a skill.",
+        "One that takes a long time to learn.",
+        "One that only one person knows how to do."
+       ]
+      }
+     ],
+     "parent": "This is the same problem a hive has when foragers are lost. A home, like a hive, needs several people who can do each job.",
+     "check": {
+      "t": "mcq",
+      "q": "A home has one person who knows how to pay the bills, and nobody else. What is the risk?",
+      "options": [
+       "If that person is away, the job is not done",
+       "The job is done faster",
+       "Nobody else wants to do it"
+      ],
+      "a": 0,
+      "why": "Sharing jobs between specialists saves time, but it has a risk. If only one member can do a job and is missing, the job stops. Hives and homes both manage the risk by letting members learn each other's jobs."
+     },
+     "context": "In this step you plan how your home would manage if one person were away."
+    },
+    {
+     "id": "s4",
+     "mins": 15,
+     "do": "Choose one safe job to swap for an hour. The child does an adult's job, and an adult does one of the child's jobs. Use a timer, and note how long the swapped job takes.",
+     "say": "Today we swap one job for an hour. You do one of my jobs, and I do one of yours. Note how long it takes. Is it as quick for you as for the usual person?",
+     "kid": "Swap one safe job for an hour. Use a timer. Is it quicker or slower?",
+     "adult": true,
+     "parent": "Choose a small job. The adult should do the child's job in the child's way, and not correct it.",
+     "context": "In this step you swap one job and time it."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Talk about the swap. What was easy? What took time? Did the swap change how you see the job?",
+     "say": "How did the swap go? What took time? What would help the next person learn this job faster?",
+     "kid": "How did the swap go? What took time? What would help?",
+     "parent": "Do not turn this into a judgement of who did well. The point is to see that jobs take learning, that swapping has a cost, and that a home works better when many people can do many jobs.",
+     "think": "In a hive, a bee changes jobs as she ages. Do people in your home change jobs as they get older?",
+     "context": "This is the last step of Our Home as a Colony. You talk about what the swap showed."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "The Cool Nest: keep a shoebox nest cooler on a hot day",
+   "mins": 40,
+   "problem": "Termites and bees must keep their nests from getting too hot. Termite mounds are built with tunnels and thick walls, and honeybees fan their wings at the door. Design a shoebox nest that keeps an ice cube from melting for as long as you can in a sunny window, using only things you find at home.",
+   "constraints": [
+    "Use only things you have at home.",
+    "Use two shoeboxes of the same size. One stays plain, as the comparison.",
+    "Use an ice cube of the same size in a steel katori in each box.",
+    "The lid must stay on, but you may cut up to four small holes, each as wide as a finger.",
+    "Never use a flame or a hot stove."
+   ],
+   "materials": [
+    "2 shoeboxes of the same size, with lids",
+    "2 steel katoris, the same size",
+    "2 ice cubes of the same size",
+    "kitchen foil, white paper, newspaper, tape, scissors",
+    "drinking straws or cardboard tubes",
+    "a sunny window sill, or a table under a bright lamp"
+   ],
+   "general": [
+    "Cover the whole box with foil, shiny side out, to reflect the sunlight.",
+    "Line the inside of the box with crumpled newspaper, so heat has a harder time getting in.",
+    "Paint or cover the outside with white paper, because white reflects more light."
+   ],
+   "creative": [
+    "Cut two holes, one low and one high, and fit straw chimneys, so warm air can leave at the top and cooler air can come in below.",
+    "Make a double wall of cardboard with an air gap between, like a termite mound's thick wall.",
+    "Put the box on an upturned tray and a wet cloth, so water evaporating takes heat away."
+   ],
+   "your_turn": "Test two of your own ideas, each in its own box against the plain box, in the same window for 20 minutes. Then pour away the water and see which katori has more ice left. Pick the best, and say why it works.",
+   "context": "This is a design challenge about how a nest stays cool. You build a shoebox nest with tricks like termites and bees, and test it by seeing how much ice is left.",
+   "setup": [
+    {
+     "art": "Two identical shoeboxes with lids on a sunny window sill, one plain and one wrapped in foil with two straw chimneys.",
+     "caption": "1. Prepare a plain box and a box with your design."
+    },
+    {
+     "art": "An ice cube in a steel katori inside each box, with a hand placing the lid.",
+     "caption": "2. Put one ice cube of the same size in a katori inside each box."
+    },
+    {
+     "art": "A child opening both boxes after twenty minutes and comparing the two katoris, one with more ice left.",
+     "caption": "3. After 20 minutes, open both boxes and compare the ice."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Read the problem together. Ask how termites and bees keep a nest cool. List the ideas on paper.",
+     "say": "A termite mound and a beehive both have to stay cool in the Indian summer. How could a nest lose heat or stop heat from getting in? List some ideas.",
+     "kid": "How could a nest stay cool? Think of ideas.",
+     "ask": [
+      {
+       "q": "What helps you stay cool on a hot day?",
+       "good": [
+        "A fan.",
+        "White clothes.",
+        "Shade.",
+        "Water."
+       ]
+      }
+     ],
+     "parent": "Termites build mounds with tunnels that let air move through, and bees fan their wings at the door. In a flat you can copy the idea with vents and covers.",
+     "context": "This is the first step of The Cool Nest. You think about the problem."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Build your design in one shoebox. Leave the other box plain. Cut up to four small holes in your box. Do not touch the plain box.",
+     "say": "Choose your ideas. Build them into one box. Leave the other plain. You may cut up to four small holes.",
+     "kid": "Build your design in one box. Leave one plain.",
+     "parent": "Help only with scissors. Let your child decide on the design. A design that does not work is still a result.",
+     "context": "In this step you build your nest design."
+    },
+    {
+     "id": "s3",
+     "mins": 20,
+     "do": "Put both boxes side by side in the same sunny window, or under the same bright lamp. A grown-up puts an ice cube in each katori and the katoris in the boxes, with the lids on. Wait 20 minutes.",
+     "say": "Put the boxes side by side in the same sunny place. Put one ice cube in each katori and close the lids. Wait twenty minutes. Meanwhile, guess which will have more ice.",
+     "kid": "Put both boxes in the sun. Add an ice cube to each. Wait 20 minutes.",
+     "adult": true,
+     "parent": "Both boxes must get the same sun, so keep them level and next to each other. A lamp can be hot, so keep it away from paper and foil.",
+     "check": {
+      "t": "mcq",
+      "q": "Why do both katoris get an ice cube of the same size?",
+      "options": [
+       "So the amount of ice is a fair comparison",
+       "So the katoris look alike",
+       "So the ice melts at the same speed"
+      ],
+      "a": 0,
+      "why": "If one cube started bigger, it would last longer for that reason alone. Keeping the cubes the same lets any difference come from the nest design."
+     },
+     "context": "In this step you test your design in the heat."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Open both boxes. Look at each katori. Which has more ice left? Pour away the water. Ask what made the difference.",
+     "say": "Open both boxes. Which katori has more ice left? What did your design do? What would you change?",
+     "kid": "Open the boxes. Which has more ice? What would you change?",
+     "ask": [
+      {
+       "q": "What do you think kept your ice from melting, or let it melt?",
+       "good": [
+        "The foil reflected the sun.",
+        "The holes let warm air out.",
+        "The paper kept the heat out."
+       ]
+      }
+     ],
+     "think": "A termite mound has no fan. How could a building move air without one?",
+     "context": "This is the last step of The Cool Nest. You compare your design with the plain box and say why."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Hives, Jobs and Dances (core)",
+   "tier": "core",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "What is a colony?",
+     "opts": [
+      "The whole family of an ant, bee, wasp or termite society, living in one nest",
+      "A single worker bee",
+      "A kind of flower that bees visit",
+      "A large group of different kinds of insects that happen to meet"
+     ],
+     "a": 0,
+     "why": "A colony is the whole society living in one nest, with a queen, workers and young. A single bee is only one member of the colony. Strangers who meet at a flower are not a colony.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "In a honeybee hive, the female who lays all the eggs is called the ____.",
+     "a": [
+      "queen"
+     ],
+     "why": "The queen lays the eggs. The workers are her daughters, and they almost never lay eggs. She does not give orders.",
+     "outcome": 0
+    },
+    {
+     "t": "match",
+     "p": "Match each honeybee word to its meaning.",
+     "pairs": [
+      [
+       "Queen",
+       "lays all the eggs of the hive"
+      ],
+      [
+       "Drone",
+       "a male bee who mates with a queen from another hive"
+      ],
+      [
+       "Forager",
+       "flies out to find nectar and pollen"
+      ],
+      [
+       "Scout",
+       "looks for something new, such as a home, and reports back"
+      ],
+      [
+       "Guard",
+       "stands at the door and sniffs each arrival"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These five words come up all through the unit. Knowing them lets you explain what each bee in a hive does.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort these bee jobs. Is each one done inside the hive, or away from the hive?",
+     "cats": [
+      "Inside the hive",
+      "Away from the hive"
+     ],
+     "items": [
+      [
+       "cleaning empty cells",
+       "Inside the hive"
+      ],
+      [
+       "feeding a grub",
+       "Inside the hive"
+      ],
+      [
+       "packing pollen into a cell",
+       "Inside the hive"
+      ],
+      [
+       "flying to a field of flowers",
+       "Away from the hive"
+      ],
+      [
+       "searching for a new home for a swarm",
+       "Away from the hive"
+      ],
+      [
+       "flying home with nectar from a mango orchard",
+       "Away from the hive"
+      ]
+     ],
+     "a": "see items",
+     "why": "Cleaning, feeding and packing happen in the dark hive, usually by younger bees. Foraging and searching for a home happen outside, usually by older bees.",
+     "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "The queen honeybee tells each worker which job to do.",
+     "a": false,
+     "why": "False. The queen lays eggs but does not give orders. A worker's job changes with her age and with what the hive needs, which she senses from smells, touch and the state of the hive.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put the jobs of a worker honeybee in the usual order, from the youngest age to the oldest.",
+     "items": [
+      "Cleaning empty cells",
+      "Feeding the grubs",
+      "Building wax and storing food",
+      "Guarding the door",
+      "Flying out to find food"
+     ],
+     "a": [
+      "Cleaning empty cells",
+      "Feeding the grubs",
+      "Building wax and storing food",
+      "Guarding the door",
+      "Flying out to find food"
+     ],
+     "why": "A worker usually starts inside the hive and ends outside. Foraging is the last job, and also the most dangerous.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "A child timed two ways of doing a three-step job on 12 paper squares, two rounds each. The bars show the total time for each way. Which way was faster, and by how much?",
+     "chart": {
+      "type": "bar",
+      "title": "Total time for two rounds (made-up)",
+      "x": "Method",
+      "y": "Seconds",
+      "data": [
+       {
+        "label": "One square at a time",
+        "value": 287
+       },
+       {
+        "label": "One step at a time",
+        "value": 257
+       }
+      ]
+     },
+     "how": "e1",
+     "opts": [
+      "One step at a time, by 30 seconds",
+      "One square at a time, by 30 seconds",
+      "One step at a time, by 544 seconds",
+      "They took the same time"
+     ],
+     "a": 0,
+     "why": "A shorter bar means less time, so one step at a time was faster. 287 minus 257 is 30 seconds. The other options add the bars or read the wrong bar.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "A hive splits its jobs among many bees, but its bees can also change jobs. Write two sentences to say why a hive needs both.",
+     "lines": 3,
+     "a": "Splitting jobs means each bee gets a lot of practice and does not waste time swapping jobs. But if the hive loses all its foragers and no bee can change jobs, nobody brings food. So it helps that bees can change jobs when the hive needs it.",
+     "why": "A strong answer names the gain of splitting jobs, which is practice and less time lost swapping, and the risk, which is that a job is left undone if nobody can take it over.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "A termite soldier can change into a worker if the colony needs more workers.",
+     "a": false,
+     "why": "False. A termite soldier grows up with a big hard head and large jaws, built for defence. She or he keeps that job for life. Honeybee workers are different, because they can change jobs.",
+     "outcome": 2
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of a honeybee dancing on the comb. Label the three parts: the line pointing straight up, the waggle run, and the angle between them.",
+     "labels": [
+      "Line pointing straight up",
+      "The waggle run",
+      "The angle between them"
+     ],
+     "a": [
+      "Line pointing straight up: the direction of the Sun",
+      "The waggle run: the straight line she walks while shaking, which shows the direction of the food",
+      "The angle between them: how far to the left or right of the Sun the food is"
+     ],
+     "why": "Straight up on the comb stands for the Sun's direction. The angle of the waggle run from straight up is the angle between the Sun and the food.",
+     "art": "A honeybee on a vertical honeycomb running a straight line that leans to the right of a dotted line pointing straight up.",
+     "outcome": 3
+    },
+    {
+     "t": "odd",
+     "p": "Three of these animals live in eusocial societies, with a queen and workers. Which one is the odd one out?",
+     "opts": [
+      "Honeybee",
+      "Termite",
+      "Naked mole-rat",
+      "Indian elephant"
+     ],
+     "a": 3,
+     "why": "Honeybees, termites and naked mole-rats have one breeding female and many helpers. An Indian elephant herd is led by an older female, but most grown females can have calves.",
+     "outcome": 0
+    },
+    {
+     "t": "draw",
+     "p": "Draw the door of a beehive and three bees at it. Show a guard, a bee that is fanning her wings, and a forager coming home with pollen. Write one label for each.",
+     "a": "A hive door with three bees. The guard stands at the door facing a bee that has just arrived. The fanning bee has her wings blurred, and she stands at the entrance. The forager has yellow lumps on her back legs.",
+     "why": "A strong drawing shows each bee doing something different at the same door. That is division of labour at a single spot.",
+     "art": "A blank box with a sketch of a wooden beehive door at the bottom.",
+     "outcome": 6
+    },
+    {
+     "t": "count",
+     "p": "A hive has 30,000 bees. About 1 in 3 are foragers right now. How many foragers is that?",
+     "a": 10000,
+     "why": "One third of 30,000 is 30,000 divided by 3, which is 10,000. The other 20,000 are doing jobs inside the hive.",
+     "outcome": 2
+    },
+    {
+     "t": "perspective",
+     "p": "A swarm of bees has settled on the grill of a balcony in a block of flats. The residents are deciding what to do.",
+     "views": [
+      {
+       "who": "A neighbour",
+       "says": "Swarms are dangerous. We should drive them away with smoke and water, right now."
+      },
+      {
+       "who": "A beekeeper",
+       "says": "A swarm is usually gentle, because the bees carry no honey to defend. Leave them alone for a day or two, and then a beekeeper can collect them."
+      },
+      {
+       "who": "A child",
+       "says": "Let them stay and watch. The scouts are choosing a home, and we can watch how."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say what you would want to find out first.",
+     "a": "Any view with a reason from the unit, such as that a swarm has no store to defend, or that the bees will choose a home and leave on their own.",
+     "why": "Each view has something right in it. Swarms can sting if attacked, and they are usually gentle if left alone. A good answer uses what we know about swarms, and says what else we would need to check.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Scientists say 'caste' for the groups in an insect society. How is this different from caste among people?",
+     "opts": [
+      "In biology it means a group with one kind of job or body in an insect colony, and has nothing to do with the caste system among people",
+      "They mean exactly the same thing",
+      "Insect castes are decided by which family you are born in",
+      "Human castes are decided by the jobs you do as you grow up"
+     ],
+     "a": 0,
+     "why": "In biology 'caste' names a type of worker, soldier or queen in an insect society. The caste system among people divides families by birth and has been used unfairly. A honeybee changes her job as she ages, and a person should not be held to a job by their birth.",
+     "outcome": 7
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "How Groups Share Work and Decide (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "In a small pin factory, ten workers each did one or two steps of the work. Together they made about 48,000 pins in a day. About how many pins did each worker help to make?",
+     "opts": [
+      "About 4,800",
+      "About 480",
+      "About 48",
+      "About 48,000"
+     ],
+     "a": 0,
+     "why": "48,000 divided by 10 is 4,800. One person doing every step alone might make only a few dozen in a day. Sharing the steps gave far more pins for each person.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "Why can a termite soldier not be turned into a worker when a colony needs more workers?",
+     "opts": [
+      "Her body was built for defence, with a hard head and large jaws",
+      "Soldiers refuse to do the work",
+      "The queen forbids it",
+      "Workers are always bigger than soldiers"
+     ],
+     "a": 0,
+     "why": "A termite soldier grows up with a body built for one job. Her caste is part of her body, not only a job that she does. A honeybee's job is different. It changes as she ages.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A scientist takes all the older bees out of a hive and leaves only young bees. Say what you expect the young bees to do, and explain why.",
+     "lines": 3,
+     "a": "Some of the young bees will start foraging earlier than usual. A hive with no foragers has no food coming in, and the missing foragers' job gets taken over by bees who are young for it.",
+     "why": "A strong answer names the change in jobs and says that the hive's need, not a bee's age alone, set the change. Huang and Robinson found this in 1992.",
+     "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "A swarm's queen decides which hollow tree the swarm will move into.",
+     "a": false,
+     "why": "False. The scouts decide through their dances, and the swarm moves when enough scouts are at one place. The queen stays in the middle of the swarm.",
+     "outcome": 4
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of a swarm's choice in order, from the first to the last.",
+     "items": [
+      "Scouts fly out and find possible homes",
+      "Scouts come back and dance for the homes they found",
+      "Dances for better homes grow, and dances for poorer homes fade",
+      "About fifteen scouts gather at one home",
+      "The swarm warms up and flies to that home"
+     ],
+     "a": [
+      "Scouts fly out and find possible homes",
+      "Scouts come back and dance for the homes they found",
+      "Dances for better homes grow, and dances for poorer homes fade",
+      "About fifteen scouts gather at one home",
+      "The swarm warms up and flies to that home"
+     ],
+     "why": "Each step needs the one before it. The choice grows out of many scouts doing small things, and the quorum is the signal to go.",
+     "outcome": 4
+    },
+    {
+     "t": "fill",
+     "p": "The smallest number of members who must agree before a group acts is called the ____.",
+     "a": [
+      "quorum"
+     ],
+     "why": "Honeybee swarms use a quorum of about fifteen scouts at one site before they take off. Many human groups, such as a school committee, use quorums too.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Five people guessed how many chana were in a glass. The guesses, in order, were 120, 250, 280, 310 and 650. The true number was 300. How many of the five guesses were closer to 300 than the middle guess?",
+     "chart": {
+      "type": "table",
+      "title": "Five guesses for a glass of chana (made-up)",
+      "cols": [
+       "Person",
+       "Guess",
+       "How far from 300"
+      ],
+      "rows": [
+       [
+        "1",
+        "120",
+        "180"
+       ],
+       [
+        "2",
+        "250",
+        "50"
+       ],
+       [
+        "3",
+        "280",
+        "20"
+       ],
+       [
+        "4",
+        "310",
+        "10"
+       ],
+       [
+        "5",
+        "650",
+        "350"
+       ]
+      ]
+     },
+     "how": "e2",
+     "opts": [
+      "None",
+      "One",
+      "Three",
+      "All of them"
+     ],
+     "a": 1,
+     "why": "The middle guess is 280, which is 20 from 300. Only the guess of 310 is closer, at 10. The other three are further away, so the middle guess beat four of the five people but not all.",
+     "outcome": 5
+    },
+    {
+     "t": "sort",
+     "p": "Sort each situation. Will a crowd's middle guess probably be close to the true number, or probably be wrong?",
+     "cats": [
+      "Probably close",
+      "Probably wrong"
+     ],
+     "items": [
+      [
+       "Everyone guesses alone, and some guess too high while others guess too low",
+       "Probably close"
+      ],
+      [
+       "Everyone copies the first person's guess",
+       "Probably wrong"
+      ],
+      [
+       "A trick makes every jar look half as full as it is",
+       "Probably wrong"
+      ],
+      [
+       "Fifty people with different ideas each guess in secret",
+       "Probably close"
+      ]
+     ],
+     "a": "see items",
+     "why": "A crowd cancels out mistakes that go in different directions. It cannot cancel out a mistake that everyone shares, such as copying or a trick that fools everyone the same way.",
+     "outcome": 5
+    },
+    {
+     "t": "odd",
+     "p": "Three of these help to hold an ant or bee colony together. Which one is the odd one out?",
+     "opts": [
+      "A smell shared by the whole colony",
+      "Food passed from mouth to mouth",
+      "A queen who gives orders to every worker",
+      "Warmth made by many bees together"
+     ],
+     "a": 2,
+     "why": "A shared smell, shared food and shared warmth really do hold colonies together. The queen does not give orders. She lays eggs, and the workers respond to what they sense in the hive.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "At one moment, half the ants in a nest are standing still. Give two possible reasons for this, and say which one you find more believable and why.",
+     "lines": 4,
+     "a": "One reason is that the standing ants are a reserve, ready to join in if the colony needs more workers. Another is that workers take turns resting, so the colony does not run out of workers all at once. I find the reserve idea easier to believe, because a colony with ants ready to go can react quickly. But scientists have not shown which is true.",
+     "why": "A strong answer gives two different reasons and says that scientists have not settled it. Either choice is fine if it comes with a reason.",
+     "outcome": 7
+    },
+    {
+     "t": "match",
+     "p": "Match each society to something that belongs to its way of life.",
+     "pairs": [
+      [
+       "Naked mole-rat",
+       "a chain of diggers passing soil backwards"
+      ],
+      [
+       "Termite",
+       "a fungus garden that feeds the whole colony"
+      ],
+      [
+       "Honeybee",
+       "a dance that tells others the direction of food"
+      ],
+      [
+       "Ant",
+       "a pouch for sharing food mouth to mouth"
+      ],
+      [
+       "Paper wasp",
+       "a nest of paper made from chewed wood"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Eusocial animals work together in different ways. They share the idea of a few breeders and many helpers, but their jobs and tools are different.",
+     "outcome": 0
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of a field map. The hive is at the bottom, the Sun's direction is a line going up, and a field of flowers is to the right. Label the three things.",
+     "labels": [
+      "Hive",
+      "Direction of the Sun",
+      "Flower field"
+     ],
+     "a": [
+      "Hive: where the dance happens",
+      "Direction of the Sun: the line that straight up on the comb stands for",
+      "Flower field: the place the dance describes, to the right of the Sun's direction"
+     ],
+     "why": "A dancer turns the position of a field into an angle on the comb. The hive is the starting point, and the Sun's direction is the line that the angle is measured from.",
+     "art": "A top-down map with a hive at the bottom, a dotted line going up marked with a Sun, and a field of flowers up and to the right.",
+     "outcome": 3
+    },
+    {
+     "t": "draw",
+     "p": "Draw two bee dances on the comb. One is for flowers close to the hive, and one is for flowers very far away. Show what is different.",
+     "a": "Two combs. On the first, a short waggle run. On the second, a much longer waggle run. Both runs lean at some angle from straight up.",
+     "why": "The length of the waggle run tells the distance. A short run means near. A long run means far.",
+     "art": "Two blank squares for two honeycomb pictures, side by side.",
+     "outcome": 3
+    },
+    {
+     "t": "perspective",
+     "p": "Is a honeybee hive one animal or thousands of animals?",
+     "views": [
+      {
+       "who": "A scientist who studies whole colonies",
+       "says": "A hive keeps its own warmth, feeds its young, and has offspring by swarming. It acts like one body."
+      },
+      {
+       "who": "A scientist who studies single bees",
+       "says": "Each bee has her own body and her own senses. A hive is thousands of animals following their own rules."
+      },
+      {
+       "who": "A child",
+       "says": "Maybe it is both, depending on what you want to ask about."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason from this unit. Then say one thing the other view gets right.",
+     "a": "Any view with a reason, such as that a hive keeps its warmth together, or that each bee flies alone.",
+     "why": "Scientists still argue about this. Both views describe something true. 'One animal' captures what the hive does together, and 'thousands of animals' captures what each bee is.",
+     "outcome": 7
+    },
+    {
+     "t": "mcq",
+     "p": "Some ants stand still while others work. Which result would best support the idea that the still ants are a reserve?",
+     "opts": [
+      "When a large piece of food appears, many of the still ants join in at once",
+      "The still ants never move at all, for days",
+      "The still ants are always the youngest ants",
+      "The still ants die first when the colony is short of food"
+     ],
+     "a": 0,
+     "why": "A reserve is a group that waits and then acts when needed. If still ants join in when there is more work, that fits. Ants that never move, or that are only the young or dying, would suggest other explanations.",
+     "outcome": 7
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Queens, Quorums and What We Cannot Conclude (challenge)",
+   "tier": "challenge",
+   "mins": 35,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Naked mole-rats are mammals, and they live with a queen and many helpers. What does this tell us about eusocial life?",
+     "opts": [
+      "It has appeared in very different animals, not only in insects",
+      "It only works for animals with six legs",
+      "It only works for animals that fly",
+      "It is the usual way mammals live"
+     ],
+     "a": 0,
+     "why": "Eusociality has appeared on Earth about twenty times, in insects, shrimp and mammals. It is rare, but it is not limited to one body type.",
+     "outcome": 7
+    },
+    {
+     "t": "write",
+     "p": "Naked mole-rats and humans are both mammals. Give one big difference between a human society and a mole-rat colony, and say what you cannot conclude from the mole-rats about how people should live.",
+     "lines": 4,
+     "a": "In a human village, nearly every adult can have children, but in a mole-rat colony only the queen and a few males do. We cannot conclude that people should have a queen or a ruler, because what happens in nature does not tell us what is fair for people.",
+     "why": "A strong answer gives a real difference and says that a fact about animals does not tell us what people should do. Naked mole-rats are one example of how life can be arranged, not a rule.",
+     "outcome": 7
+    },
+    {
+     "t": "truefalse",
+     "p": "Because honeybee hives have a queen, it is natural and so right for people to have rulers.",
+     "a": false,
+     "why": "False. Just because something happens in nature does not make it right or fair for people. Elephants are led by older females, wolf packs are families, and most animals live alone.",
+     "outcome": 7
+    },
+    {
+     "t": "mcq",
+     "p": "A child did four rounds of a paper-square job in this order: one square at a time, one step at a time, one step at a time, one square at a time. The chart shows the times. Why did the child use this order?",
+     "chart": {
+      "type": "bar",
+      "title": "Time for each round (made-up)",
+      "x": "Round",
+      "y": "Seconds",
+      "data": [
+       {
+        "label": "Round 1, one square at a time",
+        "value": 148
+       },
+       {
+        "label": "Round 2, one step at a time",
+        "value": 131
+       },
+       {
+        "label": "Round 3, one step at a time",
+        "value": 126
+       },
+       {
+        "label": "Round 4, one square at a time",
+        "value": 139
+       }
+      ]
+     },
+     "how": "e1",
+     "opts": [
+      "So that getting faster with practice affects both ways equally",
+      "So that the first way always wins",
+      "So that the child can stop early",
+      "So that the last round is the shortest"
+     ],
+     "a": 0,
+     "why": "People usually get quicker with practice. If one way always came first and the other second, practice could help the second way. Putting each way early once and late once spreads the effect of practice across both ways.",
+     "outcome": 1
+    },
+    {
+     "t": "sort",
+     "p": "Sort each job. Is it done by a body built for it, or by a bee whose job changes with age and need?",
+     "cats": [
+      "Body built for the job",
+      "Job changes with age and need"
+     ],
+     "items": [
+      [
+       "A termite soldier blocking a tunnel",
+       "Body built for the job"
+      ],
+      [
+       "A honeybee foraging at 25 days old",
+       "Job changes with age and need"
+      ],
+      [
+       "A young bee that forages early after a storm",
+       "Job changes with age and need"
+      ],
+      [
+       "A big-headed ant cutting hard seeds",
+       "Body built for the job"
+      ]
+     ],
+     "a": "see items",
+     "why": "Some insects have different bodies for different castes, and a soldier stays a soldier. In honeybees all workers have the same kind of body, and the job depends on age and on what the hive needs.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put these colonies in order, from the fewest animals to the most.",
+     "items": [
+      "A small paper wasp nest, about 30 wasps",
+      "A naked mole-rat colony, about 75 animals",
+      "A honeybee hive, about 30,000 bees",
+      "A big termite mound, millions of termites"
+     ],
+     "a": [
+      "A small paper wasp nest, about 30 wasps",
+      "A naked mole-rat colony, about 75 animals",
+      "A honeybee hive, about 30,000 bees",
+      "A big termite mound, millions of termites"
+     ],
+     "why": "The sizes of colonies vary enormously. Termite mounds can hold millions, honeybee hives tens of thousands, and mole-rat colonies and wasp nests only dozens.",
+     "outcome": 0
+    },
+    {
+     "t": "write",
+     "p": "Why does a swarm wait for a quorum of scouts before it flies, instead of going as soon as one scout says she has found a home?",
+     "lines": 3,
+     "a": "One scout may have found a poor home or made a mistake. If about fifteen scouts have all checked the same place themselves, the choice is much more likely to be good. A quorum protects the swarm from one scout's mistake.",
+     "why": "A strong answer says that one scout can be wrong and that many independent checks make the choice safer.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "A scout dances very long for a poor hollow. In real swarms, why does this usually not drag the swarm into a poor home?",
+     "opts": [
+      "Scouts dance fewer circuits each time they return, so only homes that keep winning new scouts stay alive",
+      "The queen stops her",
+      "The poor hollow shrinks",
+      "Other scouts cannot see her"
+     ],
+     "a": 0,
+     "why": "A scout's dancing fades with each trip. A good hollow keeps bringing in new scouts, who dance for it as well. A poor hollow does not, so its dances fade away.",
+     "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "Scientists have shown that resting ants are useless, so colonies would do better with fewer of them.",
+     "a": false,
+     "why": "False. Scientists have not shown this. The resting ants may be a reserve, they may be taking turns to rest, or they may be doing something we cannot see.",
+     "outcome": 7
+    },
+    {
+     "t": "perspective",
+     "p": "Scientists argue about why the resting ants in a colony are resting.",
+     "views": [
+      {
+       "who": "Reserve idea",
+       "says": "They are ready. If a lot of work arrives, they can join in at once."
+      },
+      {
+       "who": "Taking-turns idea",
+       "says": "Workers get tired, so a colony does better if different ants rest at different times."
+      },
+      {
+       "who": "Not-idle idea",
+       "says": "They are doing something we cannot see, such as checking the nest or sharing smell."
+      }
+     ],
+     "ask": "Which idea do you find most believable? What would you watch for in a nest to test it?",
+     "a": "Any view with a test, such as watching whether the same ants always rest, or whether still ants join in when there is a lot of food.",
+     "why": "Nobody has settled this, so there is no single right answer. A good answer picks one idea and suggests a way to test it, such as marking ants and following them.",
+     "outcome": 7
+    },
+    {
+     "t": "draw",
+     "p": "Draw a termite mound cut in half. Show the queen's chamber, a fungus garden, and a tunnel with a soldier in it.",
+     "a": "A mound shape with tunnels. In the middle, a chamber with a large queen. Beside it, a garden of small round balls with a fungus on them. In one tunnel, a soldier with a large head.",
+     "why": "A strong drawing shows each chamber as part of one nest, with the soldier at the tunnel, the fungus where the workers farm, and the queen in the middle.",
+     "art": "A blank mound-shaped outline on a page.",
+     "outcome": 2
+    },
+    {
+     "t": "label",
+     "p": "Here is a drawing of a termite mound. Label the three parts: the fungus garden, the queen's chamber, and the soldier in a tunnel.",
+     "labels": [
+      "Fungus garden",
+      "Queen's chamber",
+      "Soldier in a tunnel"
+     ],
+     "a": [
+      "Fungus garden: where workers grow the food for the colony",
+      "Queen's chamber: where the queen lays eggs",
+      "Soldier in a tunnel: where a soldier blocks a tunnel with her head"
+     ],
+     "why": "Each part of the mound has a job. The garden feeds the colony, the chamber holds the queen, and the soldier guards the tunnel.",
+     "art": "A cut-away drawing of a termite mound with three marked places: a garden of round balls, a large chamber with a big termite, and a tunnel with a termite with a dark head.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "A scientist wants to test whether bees follow a dancer's message, or only the flower smell on her body. Which test would give the clearest answer?",
+     "opts": [
+      "Make the dancer point the wrong way and see where the new bees go",
+      "Count the dancer's waggles",
+      "Ask the beekeeper which flowers are in bloom",
+      "Feed all the bees the same sugar"
+     ],
+     "a": 0,
+     "why": "If the new bees fly to the place the dance describes, and not to the place with the flower smell, the dance carries the message. This is what James Gould's trick showed in 1975.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A friend says, 'A bee's whole life is decided on the day she hatches.' Use one fact from this unit to disagree. Then say one thing we still do not know.",
+     "lines": 4,
+     "a": "A honeybee worker does many jobs as she ages, and she can start foraging early if the hive lost its foragers. So her life is not set on the day she hatches. We still do not know why workers help raise their mother's young instead of having their own.",
+     "why": "A strong answer gives one fact that fits, such as age-based jobs or early foraging, and one honest open question, such as why workers help or why resting ants rest.",
+     "outcome": 2
+    },
+    {
+     "t": "match",
+     "p": "Match each question to what we know about it.",
+     "pairs": [
+      [
+       "The waggle dance tells direction and distance",
+       "Settled"
+      ],
+      [
+       "Why workers help raise their mother's young",
+       "Debated"
+      ],
+      [
+       "Standing ants are a reserve",
+       "Debated"
+      ],
+      [
+       "Naked mole-rats live with a queen",
+       "Settled"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Some ideas have been tested again and again, and are settled. Others still have scientists on different sides, so they are debated.",
+     "outcome": 7
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which of these is a eusocial society?",
+   "opts": [
+    "A hive with one queen and thousands of workers who almost never lay eggs",
+    "A herd of cattle in a field",
+    "A flock of crows at a rubbish heap",
+    "A school of fish in a river"
+   ],
+   "a": 0,
+   "why": "In a eusocial society only a few animals lay eggs, and many others look after the young and do the work. Cattle, crows and fish live in groups, but most adults can breed.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A team splits a three-step job so that each person does one step again and again. What is the main thing they gain?",
+   "opts": [
+    "Less time lost swapping tools and more practice at each step",
+    "Each step becomes easier for the whole world",
+    "Nobody ever needs to learn another step",
+    "The team makes the job longer"
+   ],
+   "a": 0,
+   "why": "Doing one step over and over saves the time of changing from one step to another and gives practice. The cost is that if the one person who knows a step is missing, that step stops.",
+   "outcome": 1
+  },
+  {
+   "t": "truefalse",
+   "p": "If every member of a team can only do one job, the whole team can stop working when one member is missing.",
+   "a": true,
+   "why": "True. When each job belongs to only one member, nobody else can do it. Hives avoid this risk because bees can change jobs when the hive needs it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which list shows the usual order of jobs for a worker honeybee as she grows older?",
+   "opts": [
+    "Cleaning cells, feeding grubs, building and storing, guarding, foraging",
+    "Foraging, guarding, building, feeding grubs, cleaning cells",
+    "Guarding, cleaning cells, foraging, feeding grubs, building",
+    "Building, foraging, cleaning cells, guarding, feeding grubs"
+   ],
+   "a": 0,
+   "why": "A worker starts in the middle of the hive with the safest jobs and ends outside with the most dangerous. The ages are only a guide.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A scientist takes all the foragers from a hive, and soon sees bees only a week old flying out for nectar. What does this show?",
+   "opts": [
+    "A bee's job is not fixed to her age, and the hive's needs can change it",
+    "Bees can fly only when they are a week old",
+    "Young bees prefer to forage",
+    "The hive had too many nurses"
+   ],
+   "a": 0,
+   "why": "Young bees began foraging early because the hive needed it. So age gives the usual order of jobs, but needs can change the order.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "On the comb, a honeybee runs a waggle run that leans 30 degrees to the left of straight up. What does this tell the other bees?",
+   "opts": [
+    "The food is 30 degrees to the left of the Sun's direction",
+    "The food is 30 metres away",
+    "The food is straight up in the air",
+    "The food is behind the hive"
+   ],
+   "a": 0,
+   "why": "Straight up on the comb stands for the Sun's direction, so the angle of the run from straight up is the angle of the food from the Sun. The length of the waggle tells the distance.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "One dancer waggles for half a second, and another waggles for three seconds. What does this show?",
+   "opts": [
+    "The second bee found a place much farther away",
+    "The first bee found a place farther away",
+    "Both found places the same distance away",
+    "The second bee is older"
+   ],
+   "a": 0,
+   "why": "A longer waggle run means a longer distance. For one common kind of honeybee, about one second means roughly a kilometre.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "What must happen before a honeybee swarm leaves its resting place and flies to a new home?",
+   "opts": [
+    "About fifteen scouts gather at the same new home",
+    "The queen points to a home",
+    "The oldest bee leads the way",
+    "All the scouts agree at once"
+   ],
+   "a": 0,
+   "why": "This number is the quorum. When about fifteen scouts are at one place, they signal back, and the swarm flies. The scouts do not all have to agree at the start, and the queen takes no part in choosing.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why does it matter that each scout flies to a site herself before she dances for it?",
+   "opts": [
+    "Each dance then comes from a real check, and not just a copy of another bee",
+    "It makes her dance for longer",
+    "It keeps her from getting lost",
+    "It makes the queen happy"
+   ],
+   "a": 0,
+   "why": "If scouts only copied each other, one mistake could spread to the whole swarm. Independent checks make the swarm's choice more likely to be good.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a group's middle guess often beat most single guesses of a number?",
+   "opts": [
+    "Guesses that are too high and guesses that are too low tend to cancel each other",
+    "The middle guess is always the true number",
+    "The biggest guess is always right",
+    "Groups know more facts than single people"
+   ],
+   "a": 0,
+   "why": "Mistakes that point in different directions cancel when you take the middle. The middle guess is not always right, but it is often better than most single guesses.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Everyone in a crowd looks at a jar that is lit in a way that makes it look smaller than it is, so everyone guesses too low. What will the middle guess probably be?",
+   "opts": [
+    "Too low as well",
+    "Exactly right",
+    "Too high",
+    "Impossible to work out"
+   ],
+   "a": 0,
+   "why": "A crowd can cancel mistakes that go in different directions, but not a mistake that everyone shares. When all guesses are too low, the middle guess is too low too.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "How does a guard honeybee at the hive door tell a hive-mate from a stranger?",
+   "opts": [
+    "By the smell of the colony on her body",
+    "By her colour",
+    "By a password dance",
+    "By her size"
+   ],
+   "a": 0,
+   "why": "Every colony has its own smell, from the oily coat on the bodies of its members. A guard sniffs each arriving bee and lets in only those with the colony's smell.",
+   "outcome": 6
+  }
+ ],
+ "videos": [
+  {
+   "title": "How honeybees dance to tell each other where the food is (the waggle dance)",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 5,
+   "why": "To see a real dancer on the comb, with the angle and the waggle run, and the bees following her.",
+   "check": "Not yet found. Find a short video of a waggle dance in a glass hive, watch it fully, and check that it explains the angle from straight up and the length of the waggle."
+  },
+  {
+   "title": "How a honeybee swarm chooses a new home, with Thomas Seeley",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 8,
+   "why": "To see scouts dance on a swarm and a swarm take off, and to hear the scientist explain the quorum.",
+   "check": "Not yet found. Look for a talk or documentary clip by Thomas Seeley or his team. Check that it shows the scouts dancing on the swarm and the take-off."
+  },
+  {
+   "title": "Naked mole-rats: a mammal that lives like a bee",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 5,
+   "why": "To see tunnels, a digging chain and a queen in a colony of mammals.",
+   "check": "Not yet found. Find a short video from a zoo, a museum or a nature programme. Check that it shows the queen and the digging chain, and that its facts match this unit."
+  }
+ ],
+ "applications": [
+  "Beekeepers catch swarms in boxes in the first days after they leave a hive, when the bees are gentle. This gives a new hive for free.",
+  "Weather services run a computer forecast many times with slightly different starting numbers, and average the answers. Like a crowd's middle guess, the average is usually better than any single run.",
+  "Scientists decode the waggle dances inside hives to find out which fields and flowers bees use, and farmers and conservationists use the results to plan where to plant flowers.",
+  "The architect of a large office building in Harare, Zimbabwe, took ideas for cooling from termite mounds. His design lets air move through the building with very little machinery. The design was inspired by termite mounds, not copied from them.",
+  "Hospitals, factories and kitchens train staff to do more than one job, so that the work does not stop when one person is away. This is the same lesson as a hive in which bees can change jobs.",
+  "Eva Crane (1912 to 2007) was a British scientist who began in physics and became the world's expert on beekeeping. She visited more than sixty countries and wrote a world history of beekeeping and honey hunting, which includes the old methods of India."
+ ],
+ "spotted": [
+  {
+   "text": "A honeybee or a stingless bee on a flower, with yellow pollen packed on her back legs.",
+   "art": "A honeybee on a yellow flower, with two yellow lumps of pollen on her back legs."
+  },
+  {
+   "text": "A paper wasp nest, like a small upside-down umbrella, hanging under a roof or a balcony.",
+   "art": "A paper wasp nest hanging from a roof beam with a few wasps on the surface."
+  },
+  {
+   "text": "Thin mud tubes running up a wall or a wooden door frame, made by termites.",
+   "art": "A wooden door frame with narrow brown mud tubes running up the side."
+  },
+  {
+   "text": "A line of ants carrying food, with some ants stopping to touch feelers as they pass.",
+   "art": "A line of ants on a wall, with two ants stopped face to face."
+  },
+  {
+   "text": "A tall mound of earth in a field or at the edge of a road, with small holes in its sides.",
+   "art": "A tall brown termite mound in a field of dry grass with a few holes in its sides."
+  },
+  {
+   "text": "A wooden bee box on a roof or in a garden, with bees going in and out of one small door.",
+   "art": "A wooden bee box on a stand with bees at the small entrance."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why do the workers in some societies give up having their own young?",
+   "why_open": "The British biologist William Hamilton and later scientists have given different answers. Biologists are still arguing about which ideas fit best."
+  },
+  {
+   "q": "Why are so many ants in a nest standing still?",
+   "why_open": "Several ideas fit what scientists see, such as a reserve force or taking turns to rest. Nobody has shown which is true for most kinds of ants."
+  },
+  {
+   "q": "Why has eusocial life appeared only about twenty times, when animals have lived on Earth for hundreds of millions of years?",
+   "why_open": "Scientists think it needs a safe nest and a way to stay together, but they do not agree on the first steps."
+  },
+  {
+   "q": "Do Indian honeybees choose a swarm's new home in the same way as the honeybees that Seeley studied?",
+   "why_open": "Most of the careful studies of swarms were done on one species in the United States. Studies of Indian and other Asian honeybees are fewer."
+  },
+  {
+   "q": "How do thousands of termites build a mound that moves air through tunnels, when no termite has a plan of the whole?",
+   "why_open": "Scientists have models of how simple rules can build tunnels. They have not shown how the real termites do it."
+  }
+ ],
+ "ask_kids": [
+  "Which jobs in our home would you be sad to stop doing, and which would you like to swap?",
+  "If one person in our family fell ill, who could do their jobs?",
+  "When two ants meet on a trail, what might they be telling each other?",
+  "If our whole group had to choose a place for a picnic, how could we choose without one person deciding?",
+  "Is there a bee box, a wasp nest or a termite mound near us? How could we look safely from far away?",
+  "How could you find out how many people are in a big hall, without counting each one?",
+  "Which jobs in our town need many people, each doing a small part?",
+  "Do you think someone who is resting is being useful? How would you decide?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the bee get married?",
+   "a": "Because he finally found his honey."
+  },
+  {
+   "j": "What do you call a bee that was born in May?",
+   "a": "A maybe."
+  },
+  {
+   "j": "Why do bees have sticky hair?",
+   "a": "Because they use honeycombs."
+  },
+  {
+   "j": "What is a termite's favourite breakfast?",
+   "a": "Oak-meal."
+  },
+  {
+   "j": "Why was the little ant confused at the family party?",
+   "a": "Because all his uncles were ants."
+  },
+  {
+   "j": "How do bees get to school?",
+   "a": "On the school buzz."
+  },
+  {
+   "j": "Why do ants hardly ever get sick?",
+   "a": "Because they have little ant-bodies."
+  },
+  {
+   "j": "What did the bee say to the flower?",
+   "a": "Hello, honey."
+  },
+  {
+   "j": "Where do sick bees go to get better?",
+   "a": "To the waspital."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "A girl in Class 4 did the job of 12 paper squares one at a time in 144 seconds. She did the same job one step at a time in 120 seconds. How much time per square did the second way save? How much would it save over 300 squares?",
+   "answer": "2 seconds per square, and 600 seconds over 300 squares. That is 10 minutes.",
+   "explain": "144 minus 120 is 24 seconds saved over 12 squares. 24 divided by 12 is 2 seconds each. For 300 squares, 300 times 2 is 600 seconds, and 600 divided by 60 is 10 minutes.",
+   "math_unit": "math.time.duration.L4",
+   "how": "e1",
+   "context": "In the Switch or Stay test you time two ways of doing a three-step job and compare the totals.",
+   "why_maths": "A small saving on each item adds up to a large saving over many items, which is why splitting jobs pays off when there are many items to make."
+  },
+  {
+   "problem": "A honeybee dancer waggles for 3 seconds. Take one second of waggle to mean about 1 kilometre. A bee flies about 6 metres in one second. About how long will the flight to the flowers take?",
+   "answer": "About 500 seconds, which is 8 minutes and 20 seconds.",
+   "explain": "3 seconds of waggle means about 3 kilometres, which is 3,000 metres. 3,000 divided by 6 is 500 seconds. 500 seconds is 8 minutes and 20 seconds, because 8 times 60 is 480.",
+   "math_unit": "math.length.kilometres-and-conversions.L4",
+   "context": "A honeybee's waggle dance tells other bees how far away a place is by how long she waggles.",
+   "why_maths": "Turning kilometres into metres and metres into seconds shows how long a bee spends on a trip, and why a hive cares about which flowers are close."
+  },
+  {
+   "problem": "On the comb, a dancer's waggle run leans 90 degrees to the right of straight up. Straight up stands for the Sun's direction. In the morning the Sun is in the east. If you face the Sun, in which direction is the food?",
+   "answer": "South.",
+   "explain": "Facing east, your right hand points south. A turn of 90 degrees to the right from east is south. If the run leaned 90 degrees to the left, the food would be north.",
+   "math_unit": "math.lines-angles.angles.L4",
+   "how": "a3",
+   "context": "In the Dance the Map activity you use an angle on a paper comb to point the way to a hidden sweet.",
+   "why_maths": "An angle is a way to describe a direction without pointing. A bee uses an angle to send a direction to other bees in the dark."
+  },
+  {
+   "problem": "In The Swarm Chooses game, the cup holds 3 moong dal, 5 chana and 12 rajma beans. A scout draws one pulse without looking. What fraction of the pulses in the cup are rajma, in simplest form? Which site is most likely to be visited next?",
+   "answer": "3 out of 5, written 3/5. Site C, the rajma site, is the most likely.",
+   "explain": "The cup holds 3 plus 5 plus 12, which is 20 pulses. Rajma is 12 of them. 12 over 20 simplifies to 3 over 5, by dividing both numbers by 4. Rajma has the biggest share, so it is the most likely draw.",
+   "math_unit": "math.probability.likely-and-unlikely.L4",
+   "how": "g2",
+   "context": "In The Swarm Chooses game, pulses in a cup stand for scouts, and the more of one kind there are, the more likely the next scout is to visit that site.",
+   "why_maths": "A fraction shows how likely each draw is. It also shows why a site that gets an early lead tends to grow: the more of its pulses there are, the more often it is drawn."
+  },
+  {
+   "problem": "Seven people guessed the number of chana in a glass: 150, 180, 200, 210, 240, 260 and 330. The true number was 220. What was the middle guess, and how far was it from the true number? Which two guesses were furthest from the true number?",
+   "answer": "The middle guess was 210, which is 10 away from 220. The furthest were 330, which is 110 away, and 150, which is 70 away.",
+   "explain": "The guesses are already in order, and the fourth one is the middle: 210. 220 minus 210 is 10. For 330, 330 minus 220 is 110. For 150, 220 minus 150 is 70.",
+   "math_unit": "math.data.reading-data.L4",
+   "how": "e2",
+   "context": "In the Jar of Dal test, a group guesses a number and you compare the middle guess with the true number.",
+   "why_maths": "Putting numbers in order and finding the middle one is a quick way to summarise a group of guesses and to see which are far off."
+  },
+  {
+   "problem": "A made-up worker honeybee lives 40 days. She is a cleaner for days 1 to 3, a nurse for days 4 to 10, a builder and storer for days 11 to 18, a guard for days 19 to 21 and a forager from day 22 to day 40. What fraction of her life is spent building and storing, in simplest form? What fraction is spent foraging?",
+   "answer": "Building and storing is 1/5 of her life. Foraging is 19/40.",
+   "explain": "Days 11 to 18 are 8 days. 8 out of 40 simplifies to 1 out of 5, by dividing both by 8. Foraging is days 22 to 40, which is 19 days. 19 out of 40 cannot be made simpler.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L4",
+   "how": "a2",
+   "context": "In the activity A Bee's Forty Days you draw a worker honeybee's jobs along a timeline of 40 days.",
+   "why_maths": "A fraction shows how much of a life each job takes, so you can compare jobs of different lengths."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.animal-behaviour.L4",
+  "title": "Pack Your Fat, Cross the Sea",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Waggle dance (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Waggle_dance",
+   "kind": "interactive",
+   "why": "For the parent: a clear article on how the dance works and how the scientists tested it."
+  },
+  {
+   "title": "Eusociality (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Eusociality",
+   "kind": "interactive",
+   "why": "For the parent: which animals are eusocial, and the argument about why it evolved."
+  },
+  {
+   "title": "Termite (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Termite",
+   "kind": "interactive",
+   "why": "For the parent: castes, mounds and fungus farming, with pictures."
+  },
+  {
+   "title": "Naked mole-rat (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Naked_mole-rat",
+   "kind": "interactive",
+   "why": "For the parent: how a mammal lives with a queen, with pictures of the tunnels and the digging chain."
+  },
+  {
+   "title": "Wisdom of the crowd (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Wisdom_of_the_crowd",
+   "kind": "interactive",
+   "why": "For the parent: when a crowd's average beats the experts, and when it fails."
+  },
+  {
+   "title": "Indian Institute of Science, Bengaluru",
+   "url": "https://iisc.ac.in/",
+   "kind": "interactive",
+   "why": "For the parent: the home of decades of research on Indian paper wasps by Raghavendra Gadagkar and others."
+  },
+  {
+   "title": "Lalbagh Botanical Garden",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A big garden where you can look for bees on flowers, ants on trees and termite mounds at the edges. Go with a grown-up and look from a distance."
+  },
+  {
+   "title": "Guindy National Park",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "A small forest in the city where you can look for ant trails, termite mounds and wasp nests along the paths. Check the opening times before you go."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-timer",
+   "item": "A kitchen timer or stopwatch",
+   "kind": "tool",
+   "why": "For timing the rounds in Switch or Stay. A phone timer also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+timer+stopwatch",
+   "used_in": [
+    "e1"
+   ]
+  },
+  {
+   "id": "b-thermometer",
+   "item": "A kitchen thermometer",
+   "kind": "tool",
+   "why": "For Huddle or Spread, to read the temperature of the water in the bottles. Without one, you can use the back of your hand.",
+   "url": "https://www.amazon.in/s?k=kitchen+thermometer",
+   "used_in": [
+    "a5"
+   ]
+  },
+  {
+   "id": "b-chana",
+   "item": "A packet of kabuli chana (white chickpeas)",
+   "kind": "material",
+   "why": "For the Jar of Dal test. Any dry bean or pulse of one kind will also do.",
+   "url": "https://www.amazon.in/s?k=kabuli+chana",
+   "used_in": [
+    "e2"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is a colony?",
+   "a": "The whole family of an ant, bee, wasp or termite society, living in one nest."
+  },
+  {
+   "q": "Which bee lays all the eggs in a hive?",
+   "a": "The queen."
+  },
+  {
+   "q": "What job does a young honeybee do first?",
+   "a": "She cleans empty cells."
+  },
+  {
+   "q": "What does the length of a waggle run tell the other bees?",
+   "a": "How far away the food is."
+  },
+  {
+   "q": "What is a quorum?",
+   "a": "The smallest number of members who must agree before a group acts."
+  },
+  {
+   "q": "Why does a group's middle guess often beat single guesses?",
+   "a": "Mistakes that are too high and too low tend to cancel out."
+  },
+  {
+   "q": "Which mammal lives in a colony with a queen?",
+   "a": "The naked mole-rat."
+  },
+  {
+   "q": "How does a guard bee know a stranger?",
+   "a": "By smell. Every colony has its own smell."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "terms",
+   "a1",
+   "e1",
+   "explanations",
+   "story",
+   "g1",
+   "a2",
+   "e2",
+   "videos",
+   "ws-core",
+   "a3",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "g2",
+   "a4",
+   "a5",
+   "p1",
+   "c1",
+   "ws-stretch",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "g1",
+   "e2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "Founder's notebook, Biology list: items 111 to 116 and 224 (social behaviour, cooperation, altruism and kin selection, game theory). Used here for division of labour and group decisions. Territories, pecking orders, helping relatives and game theory are left for sci.animal-behaviour.animal-societies.L5, as the curriculum says.",
+   "The founder's Bee Breath (bhramari) from the yoga lists in ideas/by_topic/living-in-harmony.md, used in the Roots practice.",
+   "The Class 3 unit sci.animal-behaviour.animal-societies.L3 was read so nothing repeats: it has elephants, ant sugar drops, wolves, and the 'no boss' idea. This unit goes on to jobs, castes, dances and swarm quorums, and its experiments are new."
+  ],
+  "science": [
+   "Seeley, T. D., 'Adaptive significance of the age polyethism schedule in honeybee colonies', Behavioral Ecology and Sociobiology 11, 1982 (jobs by age)",
+   "Seeley, T. D., The Wisdom of the Hive, Harvard University Press, 1995",
+   "Huang, Z.-Y. and Robinson, G. E., 'Honeybee colony integration: worker-worker interactions mediate hormonally regulated plasticity in division of labor', PNAS 89, 1992",
+   "von Frisch, K., The Dance Language and Orientation of Bees, Harvard University Press, 1967 (English edition)",
+   "Gould, J. L., 'Honey bee recruitment: the dance-language controversy', Science 189, 1975",
+   "Riley, J. R., Greggers, U., Smith, A. D., Reynolds, D. R. and Menzel, R., 'The flight paths of honeybees recruited by the waggle dance', Nature 435, 2005",
+   "Seeley, T. D., Honeybee Democracy, Princeton University Press, 2010",
+   "Seeley, T. D. and others, 'Stop signals provide cross inhibition in collective decision-making by honeybee swarms', Science 335, 2012",
+   "Jarvis, J. U. M., 'Eusociality in a mammal: cooperative breeding in naked mole-rat colonies', Science 212, 1981",
+   "Dornhaus, A., 'Specialization does not predict individual efficiency in an ant', PLoS Biology 6, 2008",
+   "Charbonneau, D. and Dornhaus, A., 'Workers specialized on inactivity: behavioral consistency of inactive workers and their role in task allocation', Behavioral Ecology and Sociobiology 69, 2015",
+   "Hasegawa, E. and others, 'Lazy workers are necessary for long-term sustainability in insect societies', Scientific Reports 6, 2016",
+   "Hamilton, W. D., 'The genetical evolution of social behaviour', Journal of Theoretical Biology 7, 1964",
+   "Nowak, M. A., Tarnita, C. E. and Wilson, E. O., 'The evolution of eusociality', Nature 466, 2010",
+   "Galton, F., 'Vox populi', Nature 75, 1907 (the middle guess of 787 people on the weight of an ox)",
+   "Lorenz, J. and others, 'How social influence can undermine the wisdom of crowd effect', PNAS 108, 2011",
+   "Gadagkar, R., The Social Biology of Ropalidia marginata, Harvard University Press, 2001",
+   "Smith, A., An Inquiry into the Nature and Causes of the Wealth of Nations, 1776, Book 1, chapter 1 (the pin factory)",
+   "Wheeler, W. M., 'The ant-colony as an organism', Journal of Morphology 22, 1911",
+   "Crane, E., The World History of Beekeeping and Honey Hunting, Duckworth, 1999",
+   "Bianconi, E. and others, 'An estimation of the number of cells in the human body', Annals of Human Biology 40, 2013"
+  ]
+ },
+ "how_we_found_out": {
+  "story": "For thousands of years, people watched bees return to the hive and saw only a busy crowd. In the 1940s, the Austrian scientist Karl von Frisch painted dots on bees and watched them through glass in a hive. He saw that a bee who had found food ran in a straight line while shaking her body, then circled back and ran again. By measuring her runs, he worked out that the angle shows the direction of the food, and the length of the run shows how far. Not everyone believed him. In the 1960s some scientists said the other bees were only following the flower smell on the dancer's body, and that the dance meant nothing. In 1975 James Gould tricked dancers into pointing the wrong way, and the new bees flew to the place the dance described, not to the food. In 2005 scientists tracked recruits with tiny radar tags and saw them fly to the place the dancer described.",
+  "who": "Karl von Frisch, an Austrian scientist (1886 to 1982)",
+  "when": "The 1940s, with tests in 1975 and 2005",
+  "wrong_idea": "Many people thought the dance meant nothing and that bees find food by smell alone. When dancers were made to point the wrong way, the new bees followed the dance, which showed that the dance carries the message."
+ },
+ "roots": {
+  "context": "We have seen a hive share its jobs, a dance carry a map and a swarm choose a home. Now we ask what a hive shows about being one thing and being many.",
+  "deep_truth": {
+   "truth": "In a hive, one bee does many jobs in turn, from cleaning to finding food. When a hive loses many foragers, young bees start foraging early. So a job is not what a bee is. It is what the hive needs from her today.",
+   "habit": "We say worker, nurse, guard and soldier as if each were a kind of animal, the way we say 'teacher' as if that word were a person's whole self. In honeybees the word names a stage, not a kind. In some termites and ants, soldiers do have a different body and keep one job.",
+   "evidence": "Marked bees were followed from the day they hatched, and each did one job after another as she aged. When older bees were taken away, some young bees started foraging days or weeks early. In Switch or Stay you also found that changing jobs costs time, which is one reason a hive keeps each job for days at a time."
+  },
+  "three": {
+   "who_am_i": "Your body is a society of about 37 trillion cells, and each kind has a job. None of them could live alone for long, just like a worker bee.",
+   "what_is_life": "Living is not one fixed job. A bee, a wasp or a cell changes what they do as the body or the colony needs.",
+   "what_is_this_world": "Many things we call one thing, such as a hive, a forest or a body, are many beings who depend on each other. Where one ends and the next begins depends on where we draw the line."
+  },
+  "thread": "No honeybee sees the whole hive. Each one knows only the cell in front of her, the smell at the door or the dance she is following. Yet the hive keeps its warmth, feeds its young and picks a home. The whole does things that none of its parts is doing. Some sages taught that the world is like this too, with many beings who each see a little, inside one whole that nobody stands outside of.",
+  "teachings": [
+   {
+    "source": "Rig Veda 10.191.2",
+    "teaching": "The last hymn of the Rig Veda says, come together, speak together, let your minds know alike. It is a hymn for people gathered to decide something together.",
+    "link": "Scouts in a swarm come together, speak with their dances, and in the end the swarm's many minds point one way."
+   },
+   {
+    "source": "Tattvartha Sutra 5.21, a Jain text",
+    "teaching": "Parasparopagraho jivanam. Living beings help one another. The Jain tradition teaches that all life holds together because every being supports others.",
+    "link": "A honeybee is fed by nurses, warmed by the cluster and kept safe by guards. She lives because other bees do their jobs."
+   }
+  ],
+  "science": [
+   {
+    "text": "Honeybees keep the middle of the nest at about 34 to 35 degrees Celsius. The whole colony does this together, and no single bee holds the temperature.",
+    "status": "settled"
+   },
+   {
+    "text": "Many scientists think the first animal bodies began as colonies of single cells that stayed together and started to share jobs. Fossils cannot show it, so it remains an idea.",
+    "status": "idea"
+   }
+  ],
+  "other_view": {
+   "who": "Many biologists",
+   "view": "A hive is a lot of separate bees, each following her own rules. 'The hive decides' is only a short way to say what the bees do together. They say that a hive does not want anything, and only the bees do."
+  },
+  "practice": {
+   "title": "Bee breath, together",
+   "mins": 3,
+   "say": "Sit in a circle with your family. Breathe in through your nose. Close your lips and hum softly as you breathe out, like a bee. Do this five times. On the last round, listen to the hum of all of you together. Is it one sound or many?",
+   "kid": "Sit in a circle. Breathe in. Hum softly as you breathe out. Do it five times. Listen to the hum of all of you."
+  },
+  "ask": [
+   "When the swarm flew to the new home, who made that choice: each scout, the swarm, or both?",
+   "If a bee's job is what the hive needs from her, what is a person's job?",
+   "Where does one hive end and the next begin? Where do you end?"
+  ],
+  "art": "A honeybee hive cut open, with a faint outline of a single large body drawn over all the bees, and a small drawing of a human body made of tiny cells beside it."
+ },
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet done at home. Switch or Stay (spine): needs 48 small paper squares, a pencil, a red crayon, a pen and a timer. In my head it takes about 40 minutes, and the squares can be cut ahead. The two ways differ by a few seconds per round, so the result can be close or even the other way round, and the steps say to record exactly what you see. Jar of Dal: needs six or more people and a grown-up to count 150 to 400 chana in tens beforehand. With only six or seven guessers the middle guess can miss, and the steps say so. Same Ants: needs ants. If none are out, put a sugar crumb on a saucer by the wall an hour before. The Swarm Chooses: needs about 20 each of moong dal, chana and rajma beans and a cup you cannot see into. I ran 20,000 simulated games of it. The best site (rajma) won about 63 in 100, the middle one about 34, and the poor one about 3, with about 13 draws a game. So in five real games the result may differ. Huddle or Spread: a grown-up fills the bottles with warm tap water, never boiling. The difference may be only a degree or two in a warm room. The Cool Nest: ice melting is a rough measure of heat, and the result depends on the sun. Facts to check before the unit goes live: the jobs-by-age days (3, 10, 18 and 21) are from Seeley's age pattern and are a rough guide, that eusociality has arisen about twenty times, the claim that about half or more ants in several species stand still at any moment (Cole 1986, Dornhaus 2008, Charbonneau and Dornhaus 2015), James Gould's 1975 test, the 'about one second is about one kilometre' dance rule for one kind of honeybee, the 37 trillion cells (Bianconi 2013), the Harare building (inspired by termite mounds, not copied), Tattvartha Sutra 5.21 and Rig Veda 10.191.2 wording, and Gadagkar's work on wasps being peaceful in changing queens. The three videos have no address yet."
+}
