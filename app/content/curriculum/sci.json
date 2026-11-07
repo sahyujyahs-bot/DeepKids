@@ -1931,7 +1931,8 @@
     "sci.animal-behaviour.born-knowing.L4",
     "sci.animal-behaviour.animal-communication.L4",
     "sci.animal-behaviour.migration.L4",
-    "sci.animal-behaviour.animal-societies.L4"
+    "sci.animal-behaviour.animal-societies.L4",
+    "sci.animal-behaviour.animal-learning.L4"
    ],
    "chapters": []
   },
@@ -1951,7 +1952,8 @@
     "sci.animals.birds.L4",
     "sci.animals.insects.L4",
     "sci.animals.body-plans.L4",
-    "sci.animals.courtship-and-mates.L4"
+    "sci.animals.courtship-and-mates.L4",
+    "sci.animals.animal-minds.L4"
    ],
    "chapters": [
     "N4-3"
@@ -1975,7 +1977,8 @@
     "sci.body.kidneys-and-waste.L4",
     "sci.body.messages-in-the-body.L4",
     "sci.body.immune-system.L4",
-    "sci.body.keeping-balance.L4"
+    "sci.body.keeping-balance.L4",
+    "sci.body.how-babies-grow.L4"
    ],
    "chapters": [
     "C4-1.1",
@@ -2025,7 +2028,8 @@
     "sci.chemistry.electrochemistry.L4",
     "sci.chemistry.carbon-chemistry.L4",
     "sci.chemistry.chemistry-in-industry.L4",
-    "sci.chemistry.chemistry-of-earth-and-space.L4"
+    "sci.chemistry.chemistry-of-earth-and-space.L4",
+    "sci.chemistry.polymers.L4"
    ],
    "chapters": []
   },
@@ -5969,8 +5973,45 @@
     "sci.animals.animals-around-us.L3"
    ],
    "go_deep": [
-    "sci.animals.animal-minds.L5",
+    "sci.animals.animal-minds.L4",
     "sci.what-is-real.other-minds.L4"
+   ],
+   "go_wide": [
+    "sci.animals.animals-around-us.L3",
+    "sci.animals.animal-life-cycles.L3",
+    "sci.animals.animal-bodies.L3",
+    "sci.animals.vertebrate-groups.L3",
+    "sci.animals.invertebrates.L3",
+    "sci.mind.thinking-and-memory.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:104"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.animals.animal-minds.L4",
+   "subject": "sci",
+   "topic": "animals",
+   "topic_name": "Animals",
+   "strand": "Life",
+   "topic_level": "sci.animals.L4",
+   "subtopic": "animal-minds",
+   "name": "Do animals think and feel?",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Can animals count, wait and plan? Chicks, birds, cuttlefish and the number words people use.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.animals.animal-minds.L3"
+   ],
+   "go_deep": [
+    "sci.animals.animal-minds.L5"
    ],
    "go_wide": [
     "sci.animals.animals-around-us.L3",
@@ -6004,8 +6045,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.animals.animal-minds.L3",
-    "sci.animals.animals-around-us.L3"
+    "sci.animals.animal-minds.L4"
    ],
    "go_deep": [
     "sci.what-is-real.other-minds.L4"
@@ -10243,6 +10283,45 @@
     "sci.body.growing.L2"
    ],
    "go_deep": [
+    "sci.body.how-babies-grow.L4"
+   ],
+   "go_wide": [
+    "sci.body.body-parts.L3",
+    "sci.body.organs-inside.L3",
+    "sci.body.keeping-balance.L3",
+    "sci.body.heart-blood-breath.L3",
+    "sci.body.immune-system.L3",
+    "sci.body.growing-old.L3",
+    "sci.animals.animal-babies.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:13",
+    "bio:18"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.body.how-babies-grow.L4",
+   "subject": "sci",
+   "topic": "body",
+   "topic_name": "Our bodies",
+   "strand": "Body and health",
+   "topic_level": "sci.body.L4",
+   "subtopic": "how-babies-grow",
+   "name": "How a baby grows",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "One cell, many jobs: how a baby's body gets built.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.body.how-babies-grow.L3"
+   ],
+   "go_deep": [
     "sci.body.how-babies-grow.L5"
    ],
    "go_wide": [
@@ -10279,8 +10358,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.body.how-babies-grow.L3",
-    "sci.body.growing.L2"
+    "sci.body.how-babies-grow.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -29791,6 +29869,45 @@
     "sci.materials.properties.L3"
    ],
    "go_deep": [
+    "sci.chemistry.polymers.L4"
+   ],
+   "go_wide": [
+    "sci.chemistry.bonds.L3",
+    "sci.chemistry.reaction-speed.L3",
+    "sci.chemistry.acids-and-bases.L3",
+    "sci.chemistry.carbon-chemistry.L4",
+    "sci.waste.reduce-reuse-recycle.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "chem:55",
+    "chem:68",
+    "chem:103",
+    "chem:118"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.chemistry.polymers.L4",
+   "subject": "sci",
+   "topic": "chemistry",
+   "topic_name": "Chemistry: elements, bonds and reactions",
+   "strand": "Matter",
+   "topic_level": "sci.chemistry.L4",
+   "subtopic": "polymers",
+   "name": "Polymers: long-chain molecules",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "How lined-up chains, twists and ties decide whether a material bends, stretches or snaps.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.chemistry.polymers.L3"
+   ],
+   "go_deep": [
     "sci.chemistry.polymers.L5"
    ],
    "go_wide": [
@@ -29827,8 +29944,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.chemistry.polymers.L3",
-    "sci.materials.properties.L3"
+    "sci.chemistry.polymers.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -30780,6 +30896,45 @@
     "sci.animal-behaviour.born-knowing.L2"
    ],
    "go_deep": [
+    "sci.animal-behaviour.animal-learning.L4"
+   ],
+   "go_wide": [
+    "sci.animal-behaviour.animal-societies.L3",
+    "sci.animal-behaviour.foraging-and-survival.L3",
+    "sci.animal-behaviour.migration.L3",
+    "sci.animals.animal-minds.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:99",
+    "bio:100",
+    "bio:101",
+    "bio:102",
+    "bio:103"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.animal-behaviour.animal-learning.L4",
+   "subject": "sci",
+   "topic": "animal-behaviour",
+   "topic_name": "Animal behaviour",
+   "strand": "Life",
+   "topic_level": "sci.animal-behaviour.L4",
+   "subtopic": "animal-learning",
+   "name": "How animals learn",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "How animals learn: getting used to things, linking things, and teaching.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.animal-behaviour.animal-learning.L3"
+   ],
+   "go_deep": [
     "sci.animal-behaviour.animal-learning.L5"
    ],
    "go_wide": [
@@ -30816,8 +30971,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.animal-behaviour.animal-learning.L3",
-    "sci.animal-behaviour.born-knowing.L5"
+    "sci.animal-behaviour.animal-learning.L4"
    ],
    "go_deep": [],
    "go_wide": [
