@@ -2127,7 +2127,8 @@
     "sci.electricity.circuits.L4",
     "sci.electricity.conductors-and-insulators.L4",
     "sci.electricity.switches.L4",
-    "sci.electricity.simple-circuits.L4"
+    "sci.electricity.simple-circuits.L4",
+    "sci.electricity.static-and-charge.L4"
    ],
    "chapters": [
     "C4-6.2",
@@ -2153,7 +2154,8 @@
     "sci.energy.energy-in-living-things.L4",
     "sci.energy.sources-and-saving.L4",
     "sci.energy.engines-and-fridges.L4",
-    "sci.energy.heat-moves.L4"
+    "sci.energy.heat-moves.L4",
+    "sci.energy.stored-energy.L4"
    ],
    "chapters": [
     "C4-2.1",
@@ -2173,7 +2175,8 @@
     4
    ],
    "subtopic_levels": [
-    "sci.environment.caring.L4"
+    "sci.environment.caring.L4",
+    "sci.environment.pollution.L4"
    ],
    "chapters": [
     "N4-1"
@@ -18412,6 +18415,41 @@
     "sci.energy.energy-around-us.L3"
    ],
    "go_deep": [
+    "sci.energy.stored-energy.L4"
+   ],
+   "go_wide": [
+    "sci.energy.energy-around-us.L3",
+    "sci.energy.heat.L3",
+    "sci.energy.heat-moves.L3",
+    "sci.forces.stretching-springs.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:184"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.energy.stored-energy.L4",
+   "subject": "sci",
+   "topic": "energy",
+   "topic_name": "Energy",
+   "strand": "Physics",
+   "topic_level": "sci.energy.L4",
+   "subtopic": "stored-energy",
+   "name": "Stored energy",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Stored energy: why twice the pull-back gives more than twice the shot.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.energy.stored-energy.L3"
+   ],
+   "go_deep": [
     "sci.energy.stored-energy.L5"
    ],
    "go_wide": [
@@ -18444,8 +18482,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.energy.stored-energy.L3",
-    "sci.energy.energy-around-us.L5"
+    "sci.energy.stored-energy.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -19203,6 +19240,43 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.electricity.static-and-charge.L4"
+   ],
+   "go_wide": [
+    "sci.electricity.simple-circuits.L3",
+    "sci.magnets.poles.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:219",
+    "phy:225",
+    "phy:226",
+    "phy:227",
+    "phy:228"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.electricity.static-and-charge.L4",
+   "subject": "sci",
+   "topic": "electricity",
+   "topic_name": "Electricity",
+   "strand": "Physics",
+   "topic_level": "sci.electricity.L4",
+   "subtopic": "static-and-charge",
+   "name": "Static electricity and charge",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The charge ladder: which materials give electrons, which take them, and where the charge goes.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.electricity.static-and-charge.L3"
+   ],
+   "go_deep": [
     "sci.electricity.static-and-charge.L5"
    ],
    "go_wide": [
@@ -19237,7 +19311,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.electricity.static-and-charge.L3"
+    "sci.electricity.static-and-charge.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -25277,6 +25351,45 @@
     "sci.environment.caring.L3"
    ],
    "go_deep": [
+    "sci.environment.pollution.L4"
+   ],
+   "go_wide": [
+    "sci.environment.caring.L3",
+    "sci.environment.conservation.L3",
+    "sci.waste.compost-and-disposal.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.environment.pollution.L4",
+   "subject": "sci",
+   "topic": "environment",
+   "topic_name": "Caring for the environment",
+   "strand": "Earth and space",
+   "topic_level": "sci.environment.L4",
+   "subtopic": "pollution",
+   "name": "Pollution",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Gone from sight: how dirty water hides, travels and builds up.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.environment.pollution.L3"
+   ],
+   "go_deep": [
     "sci.environment.pollution.L5"
    ],
    "go_wide": [
@@ -25315,8 +25428,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.environment.pollution.L3",
-    "sci.environment.caring.L4"
+    "sci.environment.pollution.L4"
    ],
    "go_deep": [],
    "go_wide": [
