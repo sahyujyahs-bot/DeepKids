@@ -91,7 +91,7 @@
   {
    "term": "Pitch of a screw",
    "meaning": "The distance a screw moves forward in one full turn. It is the gap between one thread and the next.",
-   "example": "A jam jar lid rises by about 3 millimetres in each turn.",
+   "example": "A jam jar lid rises by a few millimetres in each turn.",
    "art": "A bolt with a ruler beside it, showing the gap between two threads."
   },
   {
@@ -194,9 +194,9 @@
    "concept": "The screw: a ramp wound round a rod",
    "status": "defined",
    "definition": "A screw is a ramp wound round and round a rod. The pitch is how far it moves forward in one full turn.",
-   "description": "Imagine a ramp of 30 centimetres that climbs 1 centimetre. It is a very gentle slope, so a small push moves a load up it. Now wind that ramp round a pencil. It becomes a spiral, the thread of a screw. One turn of the screw takes you along one gap of the thread, which is the pitch. If the pitch is 2 millimetres, then 10 turns move the screw 20 millimetres. Each turn is a long, gentle walk up the ramp, so a small twist makes a strong push forward. That is why a screw can hold two pieces of wood together so tightly, and why a jar lid squeezes the jar shut. A screw jack lifts a car this way. The Archimedes screw, a spiral inside a tube, lifts water. Farmers on the Nile used it, and it was used in many places later.",
+   "description": "Imagine a ramp of 30 centimetres that climbs 1 centimetre. It is a very gentle slope, so a small push moves a load up it. Now wind that ramp round a pencil. It becomes a spiral, the thread of a screw. One turn of the screw takes you along one gap of the thread, which is the pitch. If the pitch is 2 millimetres, then 10 turns move the screw 20 millimetres. Each turn is a long, gentle walk up the ramp, so a small twist makes a strong push forward. That is why a screw can hold two pieces of wood together so tightly, and why a jar lid squeezes the jar shut. A screw jack lifts a car this way. The Archimedes screw, a spiral inside a tube, lifts water. It was used to water fields in ancient Egypt, and later in many other places.",
    "examples": [
-    "A jam jar lid goes down about 3 millimetres each full turn.",
+    "A jam jar lid goes down a few millimetres each full turn.",
     "A screw jack lifts a car with turns of a handle.",
     "An Archimedes screw lifts water up a tube when its spiral is turned."
    ],
@@ -250,7 +250,7 @@
    "concept": "Machines smaller than a speck: motors inside living cells",
    "status": "defined",
    "definition": "Living cells contain tiny machines made of protein. One of them is a rotary motor that turns like a wheel on an axle.",
-   "description": "A bacterium swims by spinning a long thread called a flagellum. In 1973, Howard Berg and Robert Anderson suggested that it turns round like a propeller on a motor. In 1974, Michael Silverman and Melvin Simon proved it. They stuck the thread to a glass slide, and the whole cell spun round instead. The motor can turn hundreds of times a second. Another tiny motor, called ATP synthase, sits in the cells of plants, animals and bacteria. It turns like a wheel on an axle and makes the fuel molecule ATP. In 1997 Hiroyuki Noji and his team in Japan fixed one to glass, put a tiny glowing rod on it, and watched it turn under a microscope. The rule of this unit still holds at this size. Each motor takes energy in and gives some out, and a little escapes as warmth.",
+   "description": "A bacterium swims by spinning a long thread called a flagellum. In 1973, Howard Berg and Robert Anderson suggested that it turns round like a propeller on a motor. In 1974, Michael Silverman and Melvin Simon proved it. They stuck the thread to a glass slide, and the whole cell spun round instead. The motor can turn hundreds of times a second. Another tiny motor, called ATP synthase, sits in the cells of plants, animals and bacteria. It turns like a wheel on an axle and makes the fuel molecule ATP. In 1997 Hiroyuki Noji and his team in Japan fixed part of one to glass, joined a tiny glowing filament to its axle, and watched it turn under a microscope. The rule of this unit still holds at this size. Each motor takes energy in and gives some out, and a little escapes as warmth.",
    "examples": [
     "The bacterium's flagellar motor spins a thread to swim.",
     "ATP synthase turns like a wheel and makes the fuel ATP in your cells, and in every plant.",
@@ -264,7 +264,7 @@
    "concept": "Why machines can never give out more: energy and time",
    "status": "defined",
    "definition": "Energy is never made from nothing or destroyed, only moved or changed. In 1918 Emmy Noether showed that this follows from the laws of nature being the same on every day.",
-   "description": "Everything in this unit has the same ending. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is the thing that is passed on. It can change from a pull to height, or to warmth, but the total stays. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under a male professor's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.",
+   "description": "Everything in this unit has the same ending. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is the thing that is passed on. It can change from a pull to height, or to warmth, but the total stays. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under the professor David Hilbert's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.",
    "examples": [
     "A pulley, a lever and a ramp all show the same total work in and out.",
     "A swing swings lower each time as friction turns its energy into warmth, but the total stays the same.",
@@ -278,9 +278,9 @@
    "concept": "Who made the first wheels, pulleys and gears?",
    "status": "idea",
    "definition": "Nobody knows who first made these machines. We have only the oldest things that survived, and some of them are very surprising.",
-   "description": "The oldest wheel with an axle that we know of was found in a marsh near Ljubljana in Slovenia in 2002. Tree rings in the wood of the wheel show that it is about 5,000 years old. In the Indus cities, such as Harappa, people made little carts with wheels from clay and bronze about 4,500 years ago. The oldest pulleys that we know of come from Mesopotamia and Egypt, perhaps 3,500 years ago or more, but only a few survive, because rope and wood rot. The most amazing old machine is the Antikythera mechanism, found in 1901 in a shipwreck off a Greek island. It is more than 2,000 years old and has more than 30 bronze gears. It showed where the Sun and Moon would be and could predict eclipses. After that, no machine so complex is known for over a thousand years. Historians still argue about who made it and where.",
+   "description": "The oldest wheel with an axle that we know of was found in a marsh near Ljubljana in Slovenia in 2002. Tests on the wood show that the wheel is about 5,200 years old. In the Indus cities, such as Harappa, people made little carts with wheels from clay and bronze about 4,500 years ago. The oldest pulleys that we know of come from Mesopotamia and Egypt, perhaps 3,500 years ago or more, but only a few survive, because rope and wood rot. The most amazing old machine is the Antikythera mechanism, pulled from a shipwreck off the Greek island of Antikythera in 1901. It is more than 2,000 years old and at least 30 of its bronze gears survive. It showed where the Sun and Moon would be and could predict eclipses. After that, no machine so complex is known for over a thousand years. Historians still argue about who made it and where.",
    "examples": [
-    "A wheel with an axle from a marsh in Slovenia, about 5,000 years old.",
+    "A wheel with an axle from a marsh in Slovenia, about 5,200 years old.",
     "Little wheeled carts from Harappan towns, about 4,500 years old.",
     "The Antikythera mechanism, a Greek gear machine more than 2,000 years old."
    ],
@@ -348,7 +348,7 @@
    "claim": "Archimedes could have moved the Earth with a lever if he had a long enough one and a place to stand.",
    "who": "Archimedes' saying, written down by later writers such as Pappus of Alexandria.",
    "for": "The law of the lever has no upper limit on the size of the load.",
-   "against": "The lever would have to be about as wide as our whole galaxy, and he would have to push his end for that whole length to lift the Earth by one centimetre. Nobody can build a fixed place to stand.",
+   "against": "The lever would have to be roughly as wide as our whole galaxy, and he would have to push his end for that whole length to lift the Earth by one centimetre. Nobody can build a fixed place to stand.",
    "status": "debated"
   }
  ],
@@ -464,7 +464,7 @@
    },
    {
     "source": "Zhuangzi, chapter 3",
-    "teaching": "Cook Ding cut up an ox for 19 years with one knife that never went blunt. He did not cut through the bones, but slid his thin blade through the gaps between them.",
+    "teaching": "Cook Ding used one knife for 19 years to cut up thousands of oxen, and it stayed as sharp as new. He did not cut through the bones, but slid his thin blade through the gaps between them.",
     "link": "A wedge works best along a line where a material already wants to split, so the thinnest edge does the most with the least push."
    }
   ],
@@ -744,7 +744,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up must check that the beam is tied down and holds the bottle. Keep feet away from under the bottle in case it falls.",
+   "safety": "A grown-up must check that the beam is tied down and holds the bottle. Keep feet away from under the bottle in case it falls. Keep your face away from the stretched band in case it snaps.",
    "record": "For each set-up, write the stretch of the band on both tries, and how far the knot moved for a 10 centimetre lift. Then draw a bar chart with one bar for each set-up, using the bigger of the two stretches.",
    "context": "In this experiment, you lift a bottle three ways and use a rubber band to feel the pull. You find out what a fixed reel and a moving reel really do.",
    "setup": [
@@ -924,7 +924,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up must turn the bicycle upside down onto its seat and handlebars, or lift the back wheel on a stand. Keep fingers away from the chain and the teeth, because they can pinch.",
+   "safety": "A grown-up must turn the bicycle upside down onto its seat and handlebars, or lift the back wheel on a stand. Keep fingers away from the chain, the teeth and the spokes, because they can pinch.",
    "record": "Write the number of teeth on each gear, the number of wheel turns you counted for each pedal turn, and the number you worked out by dividing the teeth.",
    "context": "In this experiment, you count the teeth on a bicycle's gears and the turns of its wheel, and find the gear ratio.",
    "setup": [
@@ -1144,7 +1144,7 @@
      "say": "Now look at a real screw. Count the full turns to take the lid off. How far does it rise? Divide that by the turns. That is the pitch. Is it big or small?",
      "kid": "Count the turns to open the lid. Is the gap big or small?",
      "think": "Would a screw with a smaller pitch need more turns or fewer? Would it be easier or harder to turn?",
-     "parent": "A jam jar lid often rises 2 to 4 millimetres per turn. A bottle cap often needs about one full turn.",
+     "parent": "A jam jar lid usually rises a few millimetres per turn. A bottle cap often needs about one full turn.",
      "context": "This is the last step of the Paper Screw. You compare your paper screw with a real one."
     }
    ]
@@ -1301,7 +1301,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades, force for distance or turns for strength. A grown-up should handle the blades.",
+     "do": "Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades, force for distance or turns for strength. A grown-up should handle the blades and the can opener's cutting edge. Use only a cold, empty pressure cooker lid.",
      "say": "For each tool, find each machine. For each machine, say what it trades. Does it make your push stronger, or does it make your hand move further?",
      "kid": "Find each machine in each tool. Say what it trades.",
      "adult": true,
@@ -1476,7 +1476,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child a picture or the memory of a charkha. Ask for a guess and a reason. The big wheel is 12 centimetres across and the small one is 3 centimetres across.",
+     "do": "Show your child a picture of a charkha, or remind them of one they have seen. Ask for a guess and a reason. The big wheel is 12 centimetres across and the small one is 3 centimetres across.",
      "say": "On a charkha, a big wheel turns a thin spindle. If I turn the big wheel once, how many times will the small wheel turn? Why do you think so?",
      "kid": "Big wheel turns once. How many turns for the small wheel? Why?",
      "ask": [
@@ -1495,7 +1495,8 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Cut the two wheels from stiff card. Poke a hole in the centre of each. Push a pencil through each hole and tape it so it spins with the wheel. Colour a mark on the edge of each wheel.",
+     "adult": true,
+     "do": "A grown-up pokes the holes. Cut the two wheels from stiff card. Poke a hole in the centre of each. Push a pencil through each hole and tape it so it spins with the wheel. Colour a mark on the edge of each wheel.",
      "say": "Cut a big circle and a small circle. Push a pencil through the middle of each. Colour a mark on the edge, so we can count the turns.",
      "kid": "Cut two circles. Push a pencil through each. Mark each edge.",
      "parent": "The hole must be exactly in the centre, or the wheel wobbles. Fold a circle in half twice to find its centre.",
@@ -1504,8 +1505,8 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Tape a straw across the box near each end. Slide each pencil through a straw so the wheels sit side by side. Put the belt round both wheels. Slide the pencils apart until the belt is tight.",
-     "say": "The straws are the bearings. Put the belt round both wheels and slide them apart until it is tight. Turn the big wheel. Does the small wheel turn?",
+     "do": "Tape one straw across the box near one end. Slide each pencil through a straw so the wheels sit side by side. Put the belt round both wheels. Slide the second straw along the box until the belt is tight, then tape it down.",
+     "say": "The straws are the bearings. Put the belt round both wheels and slide the second straw away until the belt is tight. Turn the big wheel. Does the small wheel turn?",
      "kid": "Pencils through the straws. Belt round both wheels. Pull it tight. Turn the big wheel.",
      "parent": "If the belt slips, wrap a rubber band round the rim of each wheel for grip. If the wheels rub on the box, tape a bit of card between them.",
      "context": "In this step, you fit the belt."
@@ -1550,7 +1551,7 @@
    "problem": "Raise a full 1 litre bottle by 10 centimetres so that the rubber band stretches as little as you can make it. You may use up to 3 reels, one length of string and the beam. The bottle must rise at least 10 centimetres and hang still for 5 seconds.",
    "constraints": [
     "Use no more than 3 reels.",
-    "Use only string, the beam and the rubber band.",
+    "Use only reels, string, the beam and the rubber band. A drop of cooking oil is allowed.",
     "The bottle must rise at least 10 centimetres and hang still for 5 seconds.",
     "Write down the band stretch and how far the knot moved."
    ],
@@ -2389,7 +2390,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why did we do each set-up of the bottle lift twice?",
+   "p": "Why is it a good idea to repeat each test in an experiment twice or more?",
    "opts": [
     "To check that the result is steady and not a fluke",
     "Because the band was tired",
@@ -2437,7 +2438,7 @@
    "status": "find-id",
    "youtube": "",
    "mins": 6,
-   "why": "To see an ancient Greek machine with more than 30 bronze gears.",
+   "why": "To see an ancient Greek machine with at least 30 bronze gears.",
    "check": "Not yet found. Find one, watch it, and check that it is based on the 2021 reconstruction and does not overstate what is known."
   }
  ],
@@ -2502,7 +2503,7 @@
   },
   {
    "q": "How do the tiny motors in cells turn so efficiently?",
-   "why_open": "Some motors turn with almost no waste. Scientists are still working out how, and engineers are trying to copy them."
+   "why_open": "Some measurements suggest that these motors waste very little energy, but scientists still argue about how little. Engineers are trying to copy them."
   },
   {
    "q": "Could a machine ever be built with no friction at all?",
@@ -2565,7 +2566,7 @@
  ],
  "maths": [
   {
-   "problem": "In the bottle lift, the band stretched 9 centimetres in the straight lift and 5 centimetres with the moving reel. How many centimetres less was the stretch with the moving reel?",
+   "problem": "In a made-up bottle lift, the band stretched 9 centimetres in the straight lift and 5 centimetres with the moving reel. How many centimetres less was the stretch with the moving reel?",
    "answer": "4 centimetres.",
    "explain": "9 take away 5 is 4. The moving reel made the band stretch 4 centimetres less.",
    "math_unit": "math.length.standard-units-length.L4",
@@ -2821,10 +2822,10 @@
   ]
  },
  "how_we_found_out": {
-  "story": "About 2,300 years ago, a short Greek book called Mechanical Problems asked why a small push can lift a heavy stone with a lever. Its unknown author called this a wonder, a trick played on nature, and explained it by saying that the long end of a lever moves along a bigger circle. Many people after that believed a clever machine could win something for nothing. In the 1590s, an Italian teacher named Galileo Galilei wrote a short work for his students called Le Meccaniche. He went through the lever, the pulley, the wheel and axle, the screw and the ramp. He showed that every one of them follows one rule. What a machine gains in force, it loses in distance. So there is no trick and no wonder, only a trade. The rule was later written in the language of energy.",
+  "story": "About 2,300 years ago, a short Greek book called Mechanical Problems asked why a small push can lift a heavy stone with a lever. Its unknown author called this a wonder, a trick played on nature, and explained it by saying that the long end of a lever moves along a bigger circle. Some people after that hoped a clever machine could win something for nothing. In the 1590s, an Italian teacher named Galileo Galilei wrote a short work for his students called Le Meccaniche. He went through the lever, the pulley, the wheel and axle, the screw and the ramp. He showed that every one of them follows one rule. What a machine gains in force, it loses in distance. So there is no trick and no wonder, only a trade. The rule was later written in the language of energy.",
   "who": "Galileo Galilei, an Italian teacher and scientist (1564 to 1642), answering a Greek book of about 2,300 years before",
   "when": "Mechanical Problems, about 300 BCE. Le Meccaniche, in the 1590s.",
-  "wrong_idea": "The Greek book called the lever a wonder that beats nature, and many people thought a clever machine could win something for free. Galileo showed that every machine pays for a smaller force with a longer distance."
+  "wrong_idea": "The Greek book called the lever a wonder that beats nature, and some people hoped a clever machine could win something for free. Galileo showed that every machine pays for a smaller force with a longer distance."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Count the Ropes: the string-through-the-reel loop pulleys and the rubber band gauge are the most likely thing to need adjusting. The band should stretch 6 to 12 centimetres under the full bottle. If it stretches less than 4 or reaches its limit, the steps say what to change. The stretch with the moving reel should be a little more than half, and the knot should move about 20 centimetres. Because the band is not exactly even, the numbers show the pattern, not exact halves. Bicycle Gears needs a grown-up to turn the bicycle over. Clock Gears needs a clock with a setting knob. The Paper Screw gaps depend on how tightly the paper is wound. Facts to check before the unit goes live: the Ljubljana Marshes wheel (about 5,000 years old, found in 2002), the earliest pulleys (Mesopotamia and Egypt, about 3,500 years ago), that Emmy Noether's early lectures were announced under David Hilbert's name, that the mote (Karnataka) and charsa (North India) are the right names for the bullock-drawn leather bucket lifts, the single-speed bicycle tooth counts in the notes, and the Galileo and Mechanical Problems dates. The videos have no address yet."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Count the Ropes: the string-through-the-reel loop pulleys and the rubber band gauge are the most likely thing to need adjusting. The band should stretch 6 to 12 centimetres under the full bottle. If it stretches less than 4 or reaches its limit, the steps say what to change. The stretch with the moving reel should be a little more than half, and the knot should move about 20 centimetres. Because the band is not exactly even, the numbers show the pattern, not exact halves. Bicycle Gears needs a grown-up to turn the bicycle over. Clock Gears needs a clock with a setting knob. The Paper Screw gaps depend on how tightly the paper is wound. Facts to check before the unit goes live: the Ljubljana Marshes wheel (about 5,200 years old, found in 2002; checked), the earliest pulleys (Mesopotamia and Egypt, about 3,500 years ago), that Emmy Noether's early lectures were announced under David Hilbert's name, that the mote (Karnataka) and charsa (North India) are the right names for the bullock-drawn leather bucket lifts, the single-speed bicycle tooth counts in the notes, and the Galileo and Mechanical Problems dates. The videos have no address yet."
 }

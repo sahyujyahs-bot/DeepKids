@@ -17,7 +17,7 @@
 ## Terms
 - **Dilution**: Mixing something into more water so that it is spread thinner. The same amount is there, but it is weaker. *e.g.* One spoon of coloured water stirred into a full tumbler of clear water.
 - **Concentration**: How much of a substance is in a certain amount of water. A strong mix has a high concentration. A thin mix has a low one. *e.g.* Sweet tea has a higher concentration of sugar than tea with one pinch.
-- **Parts per million**: A way to write a very small concentration. One part per million means one tiny part in every million parts of water. *e.g.* One drop of colour in a bathtub of water is a few parts per million.
+- **Parts per million**: A way to write a very small concentration. One part per million means one tiny part in every million parts of water. *e.g.* One drop of colour in a full bathtub of water is less than one part per million.
 - **Sewage**: Used water from toilets, bathrooms and kitchens, with the waste it carries. *e.g.* The water that goes down the drain of a flat goes into a sewer pipe.
 - **Effluent**: Liquid waste that flows out of a factory, a farm or a treatment plant. *e.g.* The water that a dyeing factory lets out after washing cloth.
 - **Runoff**: Rain water that runs over the ground and carries things with it into drains, streams and lakes. *e.g.* After a storm, rain washes oil and dust from a road into the drain.
@@ -101,7 +101,7 @@ Microbes are very good cooks. They can eat sewage, vegetable waste, cooking oil 
 **Definition:** Oil is lighter than water and does not mix with it, so it spreads into a thin floating layer. Because it floats on top, it can be held in with a floating barrier, skimmed off, or soaked up.
 
 A drop of oil on water spreads out wider and wider. The thinner it gets, the harder it is to collect. So the first job in a spill is to keep it from spreading. A boom is a long floating barrier, with a part above the water and a skirt below it. Then boats skim the oil from the top, or workers soak it up with materials that take in oil but not water. Detergent does not remove oil. It breaks the oil into tiny drops that mix through the water. Experts sometimes use special chemicals called dispersants to do this on purpose, and scientists argue about when that is wise.
-- e.g. In January 2017, two ships collided off Ennore near Chennai and oil washed on to the beach. Thousands of volunteers helped to scoop it up.
+- e.g. In January 2017, two ships collided off Ennore near Chennai and oil washed on to the beach. Many volunteers helped to scoop it up.
 - e.g. Floating booms around a ship that is being loaded with oil.
 - e.g. Mats of hair or sponge-like material used to soak up a spill.
 ### How a sewage treatment plant cleans water · *defined*
@@ -135,7 +135,7 @@ A plastic bottle left in the sun and rain slowly cracks and breaks into smaller 
 - Plastic breaks into smaller pieces, but does not rot away within a person's lifetime. *How we know:* Plastic pieces have been found in the deepest ocean trenches, in mountain snow and in human blood.
 
 ## How we found out
-**Dr Hajime Hosokawa and researchers at Kumamoto University, with the writer Michiko Ishimure, who told the patients' stories, 1956 (the illness was reported), 1959 (the cat test and the mercury finding), 1968 (the cause was named), 1969 (Ishimure's book).** In the 1950s, in the fishing town of Minamata in Japan, cats began to stagger, spin and fall into the sea. Then people fell ill, with shaking hands, blurred sight and trouble walking. Neighbours feared it was catching and avoided the families. The Chisso chemical factory poured its waste into the bay. Like many people then, its managers believed the sea was so big that waste would thin out to nothing. In 1959 Dr Hajime Hosokawa, who worked at the factory's own hospital, fed the factory's waste water to a cat. The cat fell sick in the same way, and the company made him stop his tests. Researchers at Kumamoto University found the cause: methylmercury, which shellfish and fish had taken in and kept. It had built up in the bodies of the cats and people who ate them. The factory stopped the process in 1968, and the government named the waste as the cause. In 1969 the writer Michiko Ishimure told the patients' stories in a book.  
+**Dr Hajime Hosokawa and researchers at Kumamoto University, with the writer Michiko Ishimure, who told the patients' stories, 1956 (the illness was reported), 1959 (the cat test and the mercury finding), 1968 (the cause was named), 1969 (Ishimure's book).** In the 1950s, in the fishing town of Minamata in Japan, cats began to stagger, spin and fall into the sea. Then people fell ill, with shaking hands, blurred sight and trouble walking. Neighbours feared it was catching and avoided the families. The Chisso chemical factory poured its waste into the bay. Like many people then, its managers believed the sea was so big that waste would thin out to nothing. In 1959 Dr Hajime Hosokawa, who worked at the factory's own hospital, fed the factory's waste water to a cat. The cat fell sick in the same way, and the company made him stop his tests. Researchers at Kumamoto University found the cause was mercury, in a form called methylmercury, which shellfish and fish had taken in and kept. It had built up in the bodies of the cats and people who ate them. The factory stopped the process in 1968, and the government named the waste as the cause. In 1969 the writer Michiko Ishimure told the patients' stories in a book.  
 *What people believed before:* Many believed the sea would thin the factory's waste to nothing, and that the illness was an infection. In fact the mercury did not thin out. Shellfish and fish took it in, kept it, and passed it up the food chain, so the fish held far more than the water around them.
 
 ## Challenging perspectives
@@ -181,9 +181,9 @@ A river looks like one thing, but it is water going round and round: sea, cloud,
 
 ## Deep and big questions
 - *deep:* Your eyes say a glass of water is clean, and your nose says it is not. Which one is right, and who decides? (hint: Think about what each check can find and what each check misses.)
-- *big:* A fish, a dog and a chemist's machine each check the same pond. Do they find the same water, or three different waters? (hint: Think of the bee that sees a red fruit as dark, and the child who sees it red. Are they seeing differently, or seeing different things?)
+- *big:* A fish, a dog and a chemist's machine each check the same pond. Do they find the same water, or three different waters? (hint: Think of a dog, who smells far more than you do, and a chemist's machine, which measures what no nose can. Are they seeing the same pond in different ways, or different ponds?)
 - *deep:* Mercury is an element, and nothing alive can turn it into anything else. When we say we threw it 'away', where is away? (hint: Follow the mercury from the factory pipe to the bay mud, to a fish, to a person.)
-- *big:* A factory's waste is too small to harm anyone in one day. Is it fair to let it go on for fifty years? (hint: Think of the grey specks on a window card and of a small amount added every day.)
+- *big:* A factory's waste is too small to harm anyone in one day. Is it fair to let it go on for fifty years? (hint: Think of a small amount of waste added every single day for fifty years, and where all of it goes.)
 - *big:* The cats of Minamata fell ill before the people did. Why was it so hard to listen to them? (hint: Think about who gets believed, who gets blamed and who has a company's name on their pay slip.)
 - *deep:* In the East Kolkata Wetlands, the city's sewage feeds fish and vegetables. Is sewage waste, or is it food in the wrong place? (hint: Think of what microbes, algae and fish do with it.)
 - *big:* Many people wash away their sins in a river and drink from it too. How can a river carry both a prayer and a pesticide? (hint: Think about what 'carry away' means for the water and for the people downstream.)
@@ -297,7 +297,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent says:* Tell me three things. What did you think would happen? What did you see and smell? Why do you think the colour and the smell stopped where they did?  
   *Child mode:* Say three things. What did you think? What did you see and smell? Why did it happen?
   - Note: A strong answer says that the colour was too thin for the eyes by tumbler 3 or 4, while the nose could still find the scent. So tumbler 3 was not plain water. After the child has said this, add that a chemist's instrument can go on finding things long after the nose gives up. Neither eyes nor nose are measuring tools.
-  - Check: Tumbler 3 looks like plain water, but your nose picked it out three times out of three. What does this show? → **The scent is still there. The eyes stopped finding it before the nose did.**
+  - Check: Suppose a tumbler of thinned scented water looks like plain water, but a nose picks it out three times out of three. What does this show? → **The scent is still there. The eyes stopped finding it before the nose did.**
   - Think: Tumbler 3 looks like plain water. Is it plain water?
 - **s7 (2 min)**  
   *Parent does:* Ask where the five drops of colour are now. Then tip the tumblers into the sink and wash up.  
@@ -347,7 +347,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **question:** Which of five tools clears the most oil from a bowl of water in two minutes: a spoon, a paper towel, cotton wool, a tuft of hair or a drop of dishwash liquid? Does any of them leave the water truly oil-free?
 - **predict:** Before you start, guess. Which tool will clear the oil best, and which will do worst? Will any tool leave the water oil-free? Why do you think so?
 - **fair test:** Six bowls each hold 300 millilitres of water and 1 tablespoon of the same oil. One bowl is left alone, as the control. Each tool works for exactly two minutes by the timer, and the same person works every tool. Afterwards a strip of brown paper is dipped in each bowl and left to dry. Oil leaves a see-through spot on paper, and plain water does not.
-- **safety:** Oil on the floor is slippery, so work on a tray over newspaper. Never pour oily water down the sink, because oil blocks pipes and is hard to clean. Pour it into an old container. Wipe the bowls with paper and put the paper in the dustbin.
+- **safety:** Oil on the floor is slippery, so work on a tray over newspaper. Never pour oily water down the sink, because oil blocks pipes and is hard to clean. Pour it into an old container. Wipe the bowls with paper and put the paper in the dustbin. Keep dishwash liquid away from eyes, and wash hands after.
 - **record:** Fill in the table. Score the shine by looking at each bowl from a low angle, with light behind it. Compare it with the control bowl, which scores 5.
 - **results table:** Bowl | Tool | Shine left after 2 minutes (0 none, 5 as much as the control) | Oil spot on the paper? (yes or no)
 - **s1 (3 min)**  
@@ -495,7 +495,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 
 ## Projects
 ### p1 · Clay, Colour and the Bucket: what happens to a festival figure in water? (70 min, 4 days)
-- **safety:** Wash hands after handling clay and paint. Do not put paint water on plants or down the drain: an adult will decide where it goes. Keep paint away from mouths.
+- **safety:** Use only water-based paint that says non-toxic on the label, and a kumkum you know is safe for skin. Wash hands after handling clay and paint. Do not put paint water on plants or down the drain: an adult will decide where it goes. Keep paint away from mouths.
 - **record:** Draw the three figures and the three buckets on day 3 and day 4. Write what happened to each figure, and what colour the water was.
 - **schedule:** day 1: Shape three small figures or diyas from clay. Paint one with turmeric and kumkum paste, and one with poster paint. Leave the third plain. (30 min); day 2: Turn the figures over so that they dry on all sides. (5 min); day 3: Put each figure in its own bucket of water. Watch and write what happens every ten minutes for half an hour. (25 min); day 4: Look at the buckets. Let the mud settle and look at the water. Decide where each bucket's water should go. (10 min)
 - **s1 (8 min)**  
@@ -528,6 +528,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 ## Challenges
 ### c1 · The Spill Boom: keep the oil in one corner (30 min)
 - **problem:** A boat has spilled oil in a harbour. Waves are pushing it towards the beach. Make a floating barrier, called a boom, that keeps the oil in one corner of a tray of water while the waves roll.
+- **safety:** Oil on the floor is slippery, so work on a tray over newspaper. Cut the card and foil with an adult's help. Never pour oily water down the sink.
 - **your turn:** Add 3 tablespoons of oil and rock the tray harder. Take off one feature at a time, such as the skirt, and test again. Which feature mattered most?
 - **constraints:** Use only things you have at home.; Use cooking oil only, one tablespoon at a time.; Work over a tray and old newspaper.; The boom must float on its own, and the waves must be made by gently rocking the tray.
 - **general:** A ring of straws taped end to end, floating on the water around the oil.; A rolled paper towel or a row of corks tied with string, floating around the oil.; A line of bottle caps taped together in a ring.
@@ -758,11 +759,11 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 ## Jokes
 - Why was the sewage plant so calm? *It had done a lot of settling down.*
 - What did the boom say to the oil? *Stay in your lane.*
-- What do fish say when they swim into a net? *Dam!*
+- What did the fish say when she swam into a concrete wall? *Dam!*
 - Why did the mud finally stop moving? *It found a place to settle.*
 - What did the tumbler say to the drop of colour? *You are looking a bit faint.*
 - Why would the oil not mix with the water? *It wanted its own space.*
-- Why did the mayfly only move into the clean stream? *It only lives where the water is up to standard.*
+- Why did the mayfly nymphs only move into the clean stream? *They only live where the water is up to standard.*
 - What did the clean river say to the dirty pond? *You need to filter your feelings.*
 - Why did the cloth fail to catch the salt? *The salt was too small to be caught out.*
 
@@ -775,7 +776,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - A town makes 20 million litres of sewage a day. Its plant can treat 12 million litres. This is an imagined town. What fraction of the sewage is not treated? **2 out of 5, or two fifths.**. 20 million take away 12 million is 8 million litres not treated. 8 out of 20 is the same as 2 out of 5. In many Indian towns, less than half of the sewage is treated. (queues `math.fractions.fractions-of-a-whole.L4`)
 - A village's well is polluted, so a tanker brings 6,000 litres of water for 900 rupees. The village uses 18,000 litres a day. What does the water cost for one day? What for 30 days? **2,700 rupees a day, and 81,000 rupees for 30 days.**. 18,000 litres is 3 tankers, because 18,000 divided by 6,000 is 3. 3 times 900 is 2,700 rupees a day. 30 times 2,700 is 81,000 rupees. (queues `math.money.money-in-life.L4`)
 - In an imagined pond, the oxygen readings were 8 milligrams per litre at 6 pm, 6 at 10 pm, 3 at 2 am and 2 at 6 am. Fish need at least 4. Between which two readings did the oxygen fall below 4? About when did it reach 4? **Between 10 pm and 2 am, at about 12:40 am.**. At 10 pm it was 6 and at 2 am it was 3. It fell 3 in 4 hours, which is three quarters of a unit each hour. To fall from 6 to 4 takes 2 divided by three quarters, which is about 2 hours 40 minutes. 10 pm plus 2 hours 40 minutes is about 12:40 am. (queues `math.data.line-graphs.L4`)
-- A river has a thin film of oil. 1 tablespoon of oil is 15 millilitres, and a bowl holds 300 millilitres of water. What fraction of the liquid in the bowl is oil, in its simplest form? **One twenty-first.**. The total liquid is 300 plus 15, which is 315 millilitres. 15 out of 315 is the same as 1 out of 21, because 315 divided by 15 is 21. (queues `math.fractions.fractions-of-a-whole.L4`)
+- In an oil spill test, 1 tablespoon of oil is 15 millilitres, and a bowl holds 300 millilitres of water. What fraction of the liquid in the bowl is oil, in its simplest form? **One twenty-first.**. The total liquid is 300 plus 15, which is 315 millilitres. 15 out of 315 is the same as 1 out of 21, because 315 divided by 15 is 21. (queues `math.fractions.fractions-of-a-whole.L4`)
 
 ## Song
 Downstream (sci.environment.L4): Topic-level song for Caring for the environment L4

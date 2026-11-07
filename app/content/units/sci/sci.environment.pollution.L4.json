@@ -37,7 +37,7 @@
   {
    "term": "Parts per million",
    "meaning": "A way to write a very small concentration. One part per million means one tiny part in every million parts of water.",
-   "example": "One drop of colour in a bathtub of water is a few parts per million.",
+   "example": "One drop of colour in a full bathtub of water is less than one part per million.",
    "art": "A bathtub of clear water with a single red drop falling into it, and a magnified circle showing one red dot among a million clear dots."
   },
   {
@@ -251,7 +251,7 @@
    "definition": "Oil is lighter than water and does not mix with it, so it spreads into a thin floating layer. Because it floats on top, it can be held in with a floating barrier, skimmed off, or soaked up.",
    "description": "A drop of oil on water spreads out wider and wider. The thinner it gets, the harder it is to collect. So the first job in a spill is to keep it from spreading. A boom is a long floating barrier, with a part above the water and a skirt below it. Then boats skim the oil from the top, or workers soak it up with materials that take in oil but not water. Detergent does not remove oil. It breaks the oil into tiny drops that mix through the water. Experts sometimes use special chemicals called dispersants to do this on purpose, and scientists argue about when that is wise.",
    "examples": [
-    "In January 2017, two ships collided off Ennore near Chennai and oil washed on to the beach. Thousands of volunteers helped to scoop it up.",
+    "In January 2017, two ships collided off Ennore near Chennai and oil washed on to the beach. Many volunteers helped to scoop it up.",
     "Floating booms around a ship that is being loaded with oil.",
     "Mats of hair or sponge-like material used to soak up a spill."
    ],
@@ -370,7 +370,7 @@
   {
    "q": "A fish, a dog and a chemist's machine each check the same pond. Do they find the same water, or three different waters?",
    "kind": "big",
-   "hint": "Think of the bee that sees a red fruit as dark, and the child who sees it red. Are they seeing differently, or seeing different things?"
+   "hint": "Think of a dog, who smells far more than you do, and a chemist's machine, which measures what no nose can. Are they seeing the same pond in different ways, or different ponds?"
   },
   {
    "q": "Mercury is an element, and nothing alive can turn it into anything else. When we say we threw it 'away', where is away?",
@@ -380,7 +380,7 @@
   {
    "q": "A factory's waste is too small to harm anyone in one day. Is it fair to let it go on for fifty years?",
    "kind": "big",
-   "hint": "Think of the grey specks on a window card and of a small amount added every day."
+   "hint": "Think of a small amount of waste added every single day for fifty years, and where all of it goes."
   },
   {
    "q": "The cats of Minamata fell ill before the people did. Why was it so hard to listen to them?",
@@ -848,14 +848,14 @@
      "think": "Tumbler 3 looks like plain water. Is it plain water?",
      "check": {
       "t": "mcq",
-      "q": "Tumbler 3 looks like plain water, but your nose picked it out three times out of three. What does this show?",
+      "q": "Suppose a tumbler of thinned scented water looks like plain water, but a nose picks it out three times out of three. What does this show?",
       "options": [
        "The scent is still there. The eyes stopped finding it before the nose did.",
        "The colour made the scent stronger.",
        "Tumbler 3 is the same as plain water."
       ],
       "a": 0,
-      "why": "Your eyes found nothing in tumbler 3, but your nose did, so something was still in the water. Looking is only one way of checking. If you picked the second option, remember that the colour and the scent are two separate things in the same water."
+      "why": "Eyes found nothing, but the nose did, so something was still in the water. Looking is only one way of checking. If you picked the second option, remember that the colour and the scent are two separate things in the same water."
      },
      "context": "In this step, you say what you thought, what you found, and why."
     },
@@ -1066,7 +1066,7 @@
      "qty": 1
     }
    ],
-   "safety": "Oil on the floor is slippery, so work on a tray over newspaper. Never pour oily water down the sink, because oil blocks pipes and is hard to clean. Pour it into an old container. Wipe the bowls with paper and put the paper in the dustbin.",
+   "safety": "Oil on the floor is slippery, so work on a tray over newspaper. Never pour oily water down the sink, because oil blocks pipes and is hard to clean. Pour it into an old container. Wipe the bowls with paper and put the paper in the dustbin. Keep dishwash liquid away from eyes, and wash hands after.",
    "record": "Fill in the table. Score the shine by looking at each bowl from a low angle, with light behind it. Compare it with the control bowl, which scores 5.",
    "context": "In this experiment, you spill oil on water and race five different tools to clear it. You find out whether anything can get all the oil out.",
    "setup": [
@@ -1252,7 +1252,7 @@
      "caption": "2. In a dark room, shine the torch through the side of each tumbler."
     },
     {
-     "art": "A child's view of the three tumblers from the side, with a bright beam in C, a faint beam in A and no beam in B.",
+     "art": "A child's view of the three tumblers from the side, with a bright beam in C and almost no beam in A and B.",
      "caption": "3. Look from the side. Is the beam visible in the water?"
     }
    ],
@@ -1641,7 +1641,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after handling clay and paint. Do not put paint water on plants or down the drain: an adult will decide where it goes. Keep paint away from mouths.",
+   "safety": "Use only water-based paint that says non-toxic on the label, and a kumkum you know is safe for skin. Wash hands after handling clay and paint. Do not put paint water on plants or down the drain: an adult will decide where it goes. Keep paint away from mouths.",
    "schedule": [
     {
      "day": 1,
@@ -1753,7 +1753,8 @@
    "id": "c1",
    "title": "The Spill Boom: keep the oil in one corner",
    "mins": 30,
-   "problem": "A boat has spilled oil in a harbour. Waves are pushing it towards the beach. Make a floating barrier, called a boom, that keeps the oil in one corner of a tray of water while the waves roll.",
+   "safety": "Oil on the floor is slippery, so work on a tray over newspaper. Cut the card and foil with an adult's help. Never pour oily water down the sink.",
+  "problem": "A boat has spilled oil in a harbour. Waves are pushing it towards the beach. Make a floating barrier, called a boom, that keeps the oil in one corner of a tray of water while the waves roll.",
    "constraints": [
     "Use only things you have at home.",
     "Use cooking oil only, one tablespoon at a time.",
@@ -2758,7 +2759,7 @@
    "a": "Stay in your lane."
   },
   {
-   "j": "What do fish say when they swim into a net?",
+   "j": "What did the fish say when she swam into a concrete wall?",
    "a": "Dam!"
   },
   {
@@ -2774,8 +2775,8 @@
    "a": "It wanted its own space."
   },
   {
-   "j": "Why did the mayfly only move into the clean stream?",
-   "a": "It only lives where the water is up to standard."
+   "j": "Why did the mayfly nymphs only move into the clean stream?",
+   "a": "They only live where the water is up to standard."
   },
   {
    "j": "What did the clean river say to the dirty pond?",
@@ -2889,7 +2890,7 @@
    "why_maths": "A line graph lets you find when a reading crosses a limit, even between two measurements."
   },
   {
-   "problem": "A river has a thin film of oil. 1 tablespoon of oil is 15 millilitres, and a bowl holds 300 millilitres of water. What fraction of the liquid in the bowl is oil, in its simplest form?",
+   "problem": "In an oil spill test, 1 tablespoon of oil is 15 millilitres, and a bowl holds 300 millilitres of water. What fraction of the liquid in the bowl is oil, in its simplest form?",
    "answer": "One twenty-first.",
    "explain": "The total liquid is 300 plus 15, which is 315 millilitres. 15 out of 315 is the same as 1 out of 21, because 315 divided by 15 is 21.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -3146,7 +3147,7 @@
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Gone from Sight: the sums are worked out for a level teaspoon (5 millilitres) in 200 millilitres, so each tumbler is 41 times weaker. With 5 drops of food colour the tint should last to tumbler 2 and be gone by tumbler 3 or 4. A strong vanilla, rose or kewra essence should still be found by the nose in tumbler 3, and may be gone by tumbler 4. A weak or old essence may fade earlier, and the steps say what to do then. The die and the three cups are what keep the sniff test fair, and a child who gets all three right is unlikely to have guessed: 1 in 27. The Overnight Collector: the colour on the strip depends on the dye, the air movement and the paper, so the steps say that 'none' and 'faint' are results too. It needs at least 8 hours and a breezy place. The Oil Spill Race: the shine score is a judgement, and the paper-strip spot test is the fairer check. Dishwash liquid usually looks cleanest but leaves oil as tiny drops. The Torch Beam Test needs a dark room, and a thin milk drop should give a clear streak. Pass-It-On Seeds can be played alone. Net, Cloth or Neither has 24 cards written out in full and can be played alone. In Ask About the Pipe, the child never opens a cover or enters a plant room. Facts to check before the unit goes live: that less than half of the sewage made in Indian towns is treated (CPCB, 2021 inventory, about 37 to 44 per cent depending on whether capacity or working plants are counted), the class A to E wording, the account of Bellandur Lake's foam and its link to detergents and sewage, the dates and the numbers of volunteers in the Ennore oil spill of January 2017, the exact words of Rig Veda 1.23.22 and Tao Te Ching chapter 8 as paraphrased, the account of Hosokawa's cat test and the company stopping it, and the claim that 17 of 22 people had plastic in their blood in the 2022 study (here said as 'most of the 22'). The videos have no address yet.",
  "how_we_found_out": {
-  "story": "In the 1950s, in the fishing town of Minamata in Japan, cats began to stagger, spin and fall into the sea. Then people fell ill, with shaking hands, blurred sight and trouble walking. Neighbours feared it was catching and avoided the families. The Chisso chemical factory poured its waste into the bay. Like many people then, its managers believed the sea was so big that waste would thin out to nothing. In 1959 Dr Hajime Hosokawa, who worked at the factory's own hospital, fed the factory's waste water to a cat. The cat fell sick in the same way, and the company made him stop his tests. Researchers at Kumamoto University found the cause: methylmercury, which shellfish and fish had taken in and kept. It had built up in the bodies of the cats and people who ate them. The factory stopped the process in 1968, and the government named the waste as the cause. In 1969 the writer Michiko Ishimure told the patients' stories in a book.",
+  "story": "In the 1950s, in the fishing town of Minamata in Japan, cats began to stagger, spin and fall into the sea. Then people fell ill, with shaking hands, blurred sight and trouble walking. Neighbours feared it was catching and avoided the families. The Chisso chemical factory poured its waste into the bay. Like many people then, its managers believed the sea was so big that waste would thin out to nothing. In 1959 Dr Hajime Hosokawa, who worked at the factory's own hospital, fed the factory's waste water to a cat. The cat fell sick in the same way, and the company made him stop his tests. Researchers at Kumamoto University found the cause was mercury, in a form called methylmercury, which shellfish and fish had taken in and kept. It had built up in the bodies of the cats and people who ate them. The factory stopped the process in 1968, and the government named the waste as the cause. In 1969 the writer Michiko Ishimure told the patients' stories in a book.",
   "who": "Dr Hajime Hosokawa and researchers at Kumamoto University, with the writer Michiko Ishimure, who told the patients' stories",
   "when": "1956 (the illness was reported), 1959 (the cat test and the mercury finding), 1968 (the cause was named), 1969 (Ishimure's book)",
   "wrong_idea": "Many believed the sea would thin the factory's waste to nothing, and that the illness was an infection. In fact the mercury did not thin out. Shellfish and fish took it in, kept it, and passed it up the food chain, so the fish held far more than the water around them."

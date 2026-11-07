@@ -78,7 +78,7 @@
     },
     {
       "term": "Compressed",
-      "meaning": "Squeezed into less space. Compressed air pushes back, because its tiny particles hit the walls harder when there is less room.",
+      "meaning": "Squeezed into less space. Compressed air pushes back, because its tiny particles hit the walls more often when there is less room.",
       "example": "The air in a bicycle pump is compressed when you push the handle down.",
       "art": "A bicycle pump with the handle pushed down and an arrow showing air squeezed in the barrel."
     },
@@ -133,7 +133,7 @@
       "concept": "Energy stored in a stretch or a squash: it grows faster than the stretch",
       "status": "defined",
       "definition": "When a spring or a band is pulled further, the energy it stores grows faster than the pull. For a good spring, twice the stretch stores four times the energy.",
-      "description": "Pull a rubber band slowly and feel it. The first centimetre is easy. The last centimetre is hard. The band pulls back harder the more you stretch it, so every extra centimetre costs more energy than the one before. Stretch a band twice as far, and you pull twice as hard at the end, over twice the distance. Twice as hard over twice as far is 2 times 2, which is 4. That is why twice the pull-back stores more than twice the energy. The English scientist Robert Hooke found in the 1670s that, for a spring, the pull grows in step with the stretch. From that, scientists work out that the stored energy grows with the stretch multiplied by itself. Real rubber bands follow this only roughly, and a stretched band also warms up a little. Air works like a spring too. When you squash air into less room, it pushes back harder.",
+      "description": "Pull a rubber band slowly and feel it. The first centimetre is easy. The last centimetre is hard. The band pulls back harder the more you stretch it, so every extra centimetre costs more energy than the one before. Stretch a band twice as far, and you pull twice as hard at the end, over twice the distance. Twice as hard over twice as far is 2 times 2, which is 4. That is why twice the pull-back stores more than twice the energy. The English scientist Robert Hooke published in 1678 that, for a spring, the pull grows in step with the stretch. From that, scientists work out that the stored energy grows with the stretch multiplied by itself. Real rubber bands follow this only roughly, and a stretched band also warms up a little. Air works like a spring too. When you squash air into less room, it pushes back harder.",
       "examples": [
         "A bow drawn back twice as far sends the arrow much faster.",
         "A squashed spring on a pen stores more energy the further you press the button.",
@@ -159,7 +159,7 @@
       "concept": "Chemical energy: energy stored in how atoms are joined",
       "status": "defined",
       "definition": "Chemical energy is energy stored in the way atoms are joined into molecules. It comes out when the atoms rearrange into a more tightly held arrangement.",
-      "description": "Food and fuel are made of atoms joined in particular patterns. When your body, or a flame, rearranges them with oxygen into carbon dioxide and water, energy comes out as movement and heat. Chemical stores are very big. One medium banana holds about 100 kilocalories, which is about 420 000 joules. To store that much in height, you would have to lift a small apple about 420 kilometres up. A cell or a phone battery is also a chemical store. Its chemicals react slowly, and push electrons round a wire. Fat holds about 9 kilocalories in every gram, and sugar and starch hold about 4.",
+      "description": "Food and fuel are made of atoms joined in particular patterns. When your body, or a flame, rearranges them with oxygen into carbon dioxide and water, energy comes out as movement and heat. Chemical stores are very big. One medium banana holds about 100 kilocalories, which is about 420 000 joules. To store that much in height, you would have to lift a small apple about 420 kilometres up, if gravity stayed as strong as it is on the ground. A cell or a phone battery is also a chemical store. Its chemicals react slowly, and push electrons round a wire. Fat holds about 9 kilocalories in every gram, and sugar and starch hold about 4.",
       "examples": [
         "A banana holds about 420 000 joules.",
         "A kitchen gas cylinder holds chemical energy until the lighter is lit.",
@@ -214,7 +214,7 @@
       "description": "Schools often say that the ball has potential energy. Physicists mostly say that the energy belongs to the ball and the Earth together, because lift the ball with no Earth below it and no energy is stored. The amount also depends on how far the ball can fall. Held over a table, it can give back a little. Held over a floor, the same ball can give back more. So physicists say that only changes in stored energy have meaning, and that where we start counting from is a choice. Some physicists go further and say the energy sits in the field of gravity between the two. Einstein's theory of gravity has no agreed answer on where gravity's energy is. This is still discussed.",
       "examples": [
         "The same ball over a table and over a floor gives back different amounts.",
-        "A stretched band stores its energy in the bonds between its tiny particles.",
+        "A stretched band stores its energy in the long chains of molecules in the rubber, which are pulled out of their loose tangle.",
         "A ball lifted in empty space far from any planet would store almost nothing."
       ],
       "perspectives": [
@@ -237,7 +237,7 @@
       "concept": "The deepest store: the energy in matter itself",
       "status": "defined",
       "definition": "Matter is itself a store of energy. Einstein's equation E = mc² says that every gram of matter is equal to about 90 trillion joules.",
-      "description": "In 1905 Albert Einstein showed that mass and energy are two forms of one thing. One gram, about the mass of a paper clip, is equal to about 90 trillion joules. That is the energy of about 21 000 tonnes of explosive. Nearly all of it stays locked up. When a Sun-like star joins hydrogen atoms into helium, only about 0.7 percent of the mass turns to energy. Even so, the Sun turns about 4 million tonnes of itself into light every second. Fission, where a heavy atom splits, also releases a little of this store. Lise Meitner and Otto Frisch explained fission in 1939 and calculated the energy it releases. Meitner's colleague Otto Hahn alone received the 1944 Nobel Prize in Chemistry for the discovery.",
+      "description": "In 1905 Albert Einstein showed that mass and energy are two forms of one thing. One gram, about the mass of a paper clip, is equal to about 90 trillion joules. That is the energy of about 21 000 tonnes of explosive. Nearly all of it stays locked up. When a Sun-like star joins hydrogen atoms into helium, only about 0.7 percent of the mass turns to energy. Even so, the Sun turns about 4 million tonnes of itself into light every second. Fission, where a heavy atom splits, also releases a little of this store. Lise Meitner and Otto Frisch explained fission in 1939 and worked out the energy it releases. Meitner's colleague Otto Hahn alone received the 1944 Nobel Prize in Chemistry for the discovery.",
       "examples": [
         "The Sun turns about 4 million tonnes of mass into light each second.",
         "A nuclear power station releases a little of the energy in uranium atoms.",
@@ -254,7 +254,7 @@
     },
     {
       "text": "For a spring, the pull grows in step with the stretch, so the stored energy grows faster than the stretch. Twice the stretch stores about four times the energy.",
-      "evidence": "Robert Hooke's measurements in the 1670s, and every spring tested since, follow this rule until the spring is overstretched."
+      "evidence": "Robert Hooke's work, published in 1678, and every spring tested since, follow this rule until the spring is overstretched."
     },
     {
       "text": "Energy is never made or destroyed. It moves between stores and between things, and some of it spreads out as heat.",
@@ -356,7 +356,7 @@
     "title": "The Tank on the Rock",
     "mins": 10,
     "read_aloud": true,
-    "note": "A made-up story. The science in it is real. Pumped storage power stations, such as the one at Kadamparai in the Anamalai hills of Tamil Nadu, pump water uphill when electricity is plentiful and let it run down through turbines when it is needed. Such a station gives back about three-quarters of the energy it took. Tamilselvi's small school version is imagined.",
+    "note": "A made-up story. The science in it is real. Pumped storage power stations, such as the one at Kadamparai in the hills of Tamil Nadu, pump water uphill when electricity is plentiful and let it run down through turbines when it is needed. Such a station gives back about three-quarters of the energy it took. Tamilselvi's small school version is imagined.",
     "text": [
       "In the hills above Valparai, the monsoon rain came sideways, and every evening at six o'clock the electricity went away. It did not come back until after midnight.",
       "Tamilselvi was ten. She lived in the tea estate colony with her mother, who picked tea, and her cousin Karthik, who was thirteen and knew everything. Each evening, they did their homework by one small lamp. It smoked, and it gave a yellow light the size of a plate.",
@@ -377,9 +377,9 @@
       "Children came out of the colony houses and stood in the rain, looking at it. Karthik stood beside Tamilselvi for a long time without speaking.",
       "'So where is the electricity,' he said at last, 'when the tank is full and the lamp is off?'",
       "Tamilselvi thought about it. 'Up there,' she said, and pointed at the dark tank on the rock. 'In the water, and in all that height between the water and the valley. It is not gone. It is waiting for the valve.'",
-      "Later, Mrs. Rani told them that in the same Anamalai hills, a dam at Kadamparai does the very same thing, with a whole lake instead of a drum. 'They pump water up when electricity is plentiful,' she said, 'and let it down when it is needed. It is a battery made of water.'",
+      "Later, Mrs. Rani told them that in the hills of Tamil Nadu, a dam at Kadamparai does the very same thing, with a whole lake instead of a drum. 'They pump water up when electricity is plentiful,' she said, 'and let it down when it is needed. It is a battery made of water.'",
       "Tamilselvi nodded. 'Then I did not invent a trick,' she said. 'I only turned a tank on a rock into a lamp that I can switch on at six o'clock.'",
-      "On Tuesday, it was Karthik who asked what the valve was for. She told him, and this time he listened."
+      "On Tuesday, it was Karthik who asked her how a wheel could make light. She told him, and this time he listened."
     ],
     "epiphany": "Energy does not have to be used when it is made. Lifting water stores the noon sun's energy in height, and a valve lets it out at six o'clock. A store gives back a little less than it was given, but it carries energy from when it is plentiful to when it is wanted.",
     "ask": [
@@ -569,7 +569,7 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Play the cards about the book, the football, the loose band and the chai. Let your child spot why each is not a store.",
+          "do": "Find the four trick cards in the pile: the book, the football, the loose band and the chai. Play them now. Let your child spot why each is not a store.",
           "say": "Some cards are tricks. A book on the floor cannot fall any further. A rolling football has energy that is already out. Can you spot why each is not a store?",
           "kid": "Some cards are tricks. Is the thing a store, or not? Why?",
           "parent": "The book card matters most. A book on a floor stores nothing compared with that floor, but over a hole it would. This is the same idea as the Table or Floor activity.",
@@ -869,7 +869,7 @@
               ]
             }
           ],
-          "parent": "Do not explain yet. Let your child compare the numbers. Many families find this slide is 3 to 5 times the first one. Yours may differ.",
+          "parent": "Do not explain yet. Let your child compare the numbers. Expect the slide to be more than twice the first one, often 3 to 10 times. Yours may differ.",
           "context": "In this step, you double the pull-back and measure the slide again."
         },
         {
@@ -887,7 +887,7 @@
           "do": "1. In each row of the table, circle the middle of the three slides. 2. Draw a bar for each pull-back. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? How many times as far did the soap slide when we doubled the pull-back?",
           "kid": "Draw a bar for each pull-back. Say what you thought, what you saw, and why.",
-          "parent": "After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Many families find 2 centimetres slides about 5 to 15 centimetres, 4 centimetres slides about 20 to 60, and 6 centimetres slides about 50 to 150. Twice the pull-back gives about 3 to 5 times the slide. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.",
+          "parent": "After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.",
           "think": "Why did a pull-back twice as long make the soap slide more than twice as far?",
           "check": {
             "t": "mcq",
@@ -1337,7 +1337,7 @@
               ]
             }
           ],
-          "parent": "The bounce above the floor should be roughly 2 to 4 times the bounce above the stool. Do not explain yet. Let your child tell you why.",
+          "parent": "The bounce above the floor should be roughly 2 to 3 times the bounce above the stool. Do not explain yet. Let your child tell you why.",
           "context": "In this step, you drop the same ball from the same place, with nothing below it until the floor."
         },
         {
@@ -1368,7 +1368,7 @@
           "qty": 1
         }
       ],
-      "safety": "Use a syringe with no needle, and keep it out of your mouth. Never point a pump at anyone's face.",
+      "safety": "Use a syringe with no needle, and keep it out of your mouth. The clay plug can pop out when the air is squashed hard, so do not push past 2 millilitres and do not point it at anyone's face. Never point a pump at anyone's face.",
       "schedule": [
         {
           "day": 1,
@@ -1562,7 +1562,7 @@
               ]
             }
           ],
-          "parent": "Most marbles can climb out of far ends up to about 22 to 27 centimetres, just below the start. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke.",
+          "parent": "A marble should climb out of far ends a little below the start, often within a few centimetres of it. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke.",
           "context": "In this step, you raise the far end until the marble cannot climb out."
         },
         {
@@ -1586,7 +1586,7 @@
       "problem": "You have a big ball and a small bouncy ball. Find a way to make the small ball bounce higher than the height it was dropped from, using only the balls and your hands.",
       "constraints": [
         "Use only the two balls and your hands. No throwing and no pushing down.",
-        "Let go from a height of 50 centimetres, with the lowest ball at the 50 centimetre mark.",
+        "Let go from a height of 50 centimetres, with the top of the big ball at the 50 centimetre mark and the small ball resting on it.",
         "Measure the highest point of the small ball's bounce on a tape stuck on the wall.",
         "Do the test on a hard floor, with nothing breakable nearby."
       ],
@@ -1669,7 +1669,7 @@
               ]
             }
           ],
-          "parent": "Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. It may take a few tries to get the small ball exactly on top. If it goes sideways, centre it better. Many families see the small ball bounce 2 to 3 times as high as the start.",
+          "parent": "Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. It may take a few tries to get the small ball exactly on top. If it goes sideways, centre it better. Often the small ball bounces 2 to 3 times as high as the start.",
           "context": "In this step, you drop the two balls together and watch what the small ball does."
         },
         {
@@ -1720,7 +1720,7 @@
       "status": "find-id",
       "mins": 5,
       "why": "For the parent and older children: how clay dents showed that movement energy grows with the square of the speed.",
-      "check": "Not yet found. Find a short biography of her work from a museum or a university, watch it, and check that it matches the clay tests and her 1740 book."
+      "check": "Not yet found. Find a short biography of her work from a museum or a university, watch it, and check that it matches the clay tests and her book of the early 1740s."
     }
   ],
   "quiz": [
@@ -1750,9 +1750,9 @@
     },
     {
       "t": "mcq",
-      "p": "A band pulled back 3 centimetres makes a block slide 18 centimetres. About how far will it slide if pulled back 6 centimetres?",
+      "p": "A good spring pulled back 3 centimetres makes a block slide 18 centimetres. About how far will it slide if pulled back 6 centimetres?",
       "a": 1,
-      "why": "Twice the pull-back stores about four times the energy, so the slide is about 4 times as far. 4 times 18 is 72 centimetres.",
+      "why": "For a good spring, twice the pull-back stores about four times the energy, so the slide is about 4 times as far. 4 times 18 is 72 centimetres.",
       "outcome": 2,
       "opts": [
         "About 36 centimetres",
@@ -2907,8 +2907,8 @@
     ],
     "science": [
       "'s Gravesande, W. J., Physices elementa mathematica, experimentis confirmata, Leiden, 1720 to 1721 (brass balls dropped into clay)",
-      "Du Châtelet, E., Institutions de physique, Paris, 1740 (the force of motion grows with the square of the speed)",
-      "Hooke, R., De Potentia Restitutiva, or Of Spring, London, 1678 (the pull of a spring grows with its stretch)",
+      "Du Châtelet, E., Institutions de physique, Paris, 1740 and 1742 (the force of motion grows with the square of the speed)",
+      "Hooke, R., Lectures de Potentia Restitutiva, or of Spring, London, 1678 (the pull of a spring grows with its stretch)",
       "Joule, J. P., 'On the mechanical equivalent of heat', Philosophical Transactions 140, 1850 (a falling weight warms water)",
       "Joule, J. P., 'On some thermo-dynamic properties of solids', Philosophical Transactions 149, 1859 (stretched rubber warms)",
       "Einstein, A., 'Ist die Traegheit eines Koerpers von seinem Energieinhalt abhaengig?', Annalen der Physik 18, 1905 (mass and energy)",
@@ -2934,7 +2934,7 @@
       "what_is_life": "A seed holds a first meal for a plant. A bird holds fat for a long flight. Living beings store energy so that they can act later, when food is not there.",
       "what_is_this_world": "The world is full of stores of height, stretch, chemicals and matter. Energy is rarely made or lost. It mostly moves from one store to another."
     },
-    "thread": "A store looks like a thing, but it is really a relationship. The ball and the Earth are held apart, and the atoms in a band are pulled out of line. In food, the sugar and the oxygen are kept from joining. Each store is two parts held apart that can come together again. When they do, the energy comes out as movement, and then as heat. Seen from far enough away, the universe is one set of parts held apart and falling together. Some physicists think that all the stores in it might add up to exactly zero. That is an idea, and nobody knows for sure.",
+    "thread": "A store looks like a thing, but it is really a relationship. The ball and the Earth are held apart, and the atoms in a band are pulled out of line. In food, the sugar and the oxygen are kept from joining. Each store is two parts held apart that can come together again. When they do, the energy comes out as movement, and then as heat. Some physicists think that, in the whole universe, all the stores might add up to exactly zero. That is an idea, and nobody knows for sure.",
     "teachings": [
       {
         "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
@@ -2969,8 +2969,8 @@
     "practice": {
       "title": "Feel a store waiting",
       "mins": 3,
-      "say": "Hold a rubber band gently between your two thumbs. Pull it a little, not far. Breathe in slowly three times and feel it pull both hands. Let one thumb go. Notice how the energy came out.",
-      "kid": "Hold a band between your thumbs. Pull it a little. Breathe in three times. Feel the pull. Let one thumb go."
+      "say": "Hold a rubber band gently between your two thumbs, away from your face. Pull it a little, not far. Breathe in slowly three times and feel it pull both hands. Let one thumb go. Notice how the energy came out.",
+      "kid": "Hold a band between your thumbs, away from your face. Pull it a little. Breathe in three times. Feel the pull. Let one thumb go."
     },
     "ask": [
       "Is the energy of a stretched band in the band, in your two hands, or in the gap between them?",
@@ -2979,11 +2979,11 @@
     ],
     "art": "A ball held above a stool, and the same ball held in the same place with the stool removed, with a longer dotted drop line to the floor."
   },
-  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the listed things. Soap Slider: the two pencils stand in clay 10 centimetres apart, and the soap leaves the band when the band is straight again, so the slide can be measured cleanly. A soap of 75 to 100 grams on tiles should slide roughly 5 to 15 centimetres from a 2 centimetre pull-back and 50 to 150 from 6, but bands differ a lot, so the steps say what to do when the soap barely moves or flies far. Twice the pull-back should give about 3 to 5 times the slide. The V shape of the band adds to the effect, which the parent note says. Hanging Water needs a thick band, and the stretch for each 100 millilitres is often a little smaller near 400, so the graph may curve slightly. Bounce Ratio: most balls return half to two thirds of the drop height, and the fraction is steady. A bounce is quick, so the steps suggest a phone in slow motion. Table or Floor: the bounce above the floor should be about 2 to 4 times the bounce above the stool. Beat the Drop (the stacked balls) takes a few tries and can send the small ball sideways, so it is marked for a grown-up and says to play where nothing can break. The Valley Track marble should climb out of far ends a little below the start height, and never above it. Facts to check before the unit goes live: the Kadamparai pumped storage power house in the Anamalai hills of Tamil Nadu (four units of 100 megawatts); that Idukki, Muppandal, Kudankulam and Manikaran are as described in the Back to the Sun cards; the date of 's Gravesande's clay tests (early 1720s); that du Châtelet's argument was in her 1740 book; that Otto Hahn alone received the 1944 Nobel Prize in Chemistry; and the round-trip figure of 70 to 80 percent for pumped storage. The three videos have no address yet, and each needs to be found and watched.",
+  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the listed things. Soap Slider: the two pencils stand in clay 10 centimetres apart, and the soap leaves the band when the band is straight again, so the slide can be measured cleanly. A soap of 75 to 100 grams on tiles may slide only a few centimetres from a 2 centimetre pull-back and far more from 6. Bands differ a lot, so the steps say what to do when the soap barely moves or flies far. Twice the pull-back should give more than twice the slide, often 3 to 10 times, but this needs a home test. The V shape of the band adds to the effect, which the parent note says. Hanging Water needs a thick band, and the stretch for each 100 millilitres is often a little smaller near 400, so the graph may curve slightly. Bounce Ratio: most balls return half to two thirds of the drop height, and the fraction is steady. A bounce is quick, so the steps suggest a phone in slow motion. Table or Floor: the bounce above the floor should be about 2 to 3 times the bounce above the stool. Beat the Drop (the stacked balls) takes a few tries and can send the small ball sideways, so it is marked for a grown-up and says to play where nothing can break. The Valley Track marble should climb out of far ends a little below the start height, and never above it. Hanging Water and the Syringe Spring were checked for safety only, and need a home test for the numbers. Facts to check before the unit goes live: the Kadamparai pumped storage power house in Tamil Nadu (four units of 100 megawatts, confirmed) and its closeness to Valparai; that Idukki, Muppandal, Kudankulam and Manikaran are as described in the Back to the Sun cards; the date of 's Gravesande's clay tests (early 1720s); that du Châtelet's square-of-the-speed argument was in her book of the early 1740s (first printed 1740, changed in 1742); (Otto Hahn alone receiving the 1944 Nobel Prize in Chemistry is confirmed); and the round-trip figure of 70 to 80 percent for pumped storage. The three videos have no address yet, and each needs to be found and watched.",
   "how_we_found_out": {
-    "story": "In the early 1700s, scientists argued about how to measure the force of a moving ball. Most followers of Descartes and Newton said it was the mass times the speed. So a ball moving twice as fast should hit twice as hard. In the early 1720s, the Dutch professor Willem 's Gravesande dropped brass balls into soft clay from different heights. A ball that hit twice as fast made a dent four times as deep. The French scientist Émilie du Châtelet read about his clay and was convinced. In her book Institutions de Physique, in 1740, she argued that the force of motion grows with the square of the speed, as the philosopher Leibniz had said. Some members of the French Academy argued against her. Over the next century her side won, and today movement energy is half the mass times the speed squared. She also translated Newton's Principia into French, and her translation is still read.",
+    "story": "In the early 1700s, scientists argued about how to measure the force of a moving ball. Most followers of Descartes and Newton said it was the mass times the speed. So a ball moving twice as fast should hit twice as hard. In the early 1720s, the Dutch professor Willem 's Gravesande dropped brass balls into soft clay from different heights. A ball that hit twice as fast made a dent four times as deep. The French scientist Émilie du Châtelet read about his clay and was convinced. In the early 1740s, in her book Institutions de Physique, she argued that the force of motion grows with the square of the speed, as the philosopher Leibniz had said. Some members of the French Academy argued against her. Over the next century her side won, and today movement energy is half the mass times the speed squared. She also translated Newton's Principia into French, and her translation is still read.",
     "who": "Willem 's Gravesande, a Dutch professor, and Émilie du Châtelet, a French scientist and translator",
-    "when": "The early 1720s for the clay tests, and 1740 for her book",
+    "when": "The early 1720s for the clay tests, and the early 1740s for her book",
     "wrong_idea": "Many scientists thought that a moving body's force was simply its mass times its speed, so twice the speed would give twice the dent. The clay showed four times the dent for twice the speed."
   }
 }

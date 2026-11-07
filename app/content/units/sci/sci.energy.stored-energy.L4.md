@@ -24,7 +24,7 @@
 - **Trigger**: The small thing that lets a store release its energy. Until it happens, something holds the energy back. *e.g.* Opening a tap is the trigger that lets the water in a roof tank run down.
 - **Joule**: The unit scientists use to measure energy. Lifting a small apple up by 1 metre stores about 1 joule. *e.g.* Lifting a bag of 2 apples up by 1 metre stores about 2 joules.
 - **Kilocalorie**: A unit used for the energy in food. One kilocalorie is about 4200 joules. Food labels often say Calories or kcal for a kilocalorie. *e.g.* A medium banana holds about 100 kilocalories.
-- **Compressed**: Squeezed into less space. Compressed air pushes back, because its tiny particles hit the walls harder when there is less room. *e.g.* The air in a bicycle pump is compressed when you push the handle down.
+- **Compressed**: Squeezed into less space. Compressed air pushes back, because its tiny particles hit the walls more often when there is less room. *e.g.* The air in a bicycle pump is compressed when you push the handle down.
 - **Rechargeable battery**: A battery that can be filled again. A charger pushes the chemical change in the battery backwards, so the chemical energy is stored again. *e.g.* A phone battery is rechargeable, and an ordinary torch cell is not.
 - **Pumped storage**: A way of storing electricity by pumping water uphill. Later the water runs down through turbines and makes electricity again. *e.g.* A dam at Kadamparai in Tamil Nadu pumps water uphill when electricity is plentiful.
 - **Efficiency**: How much of the energy you put into a machine comes out as the useful kind. The rest is lost, mostly as heat. *e.g.* A pumped storage dam gives back about three-quarters of the energy it was given.
@@ -48,7 +48,7 @@ To lift a thing, you pull against the Earth's pull, and the energy you spend is 
 ### Energy stored in a stretch or a squash: it grows faster than the stretch · *defined*
 **Definition:** When a spring or a band is pulled further, the energy it stores grows faster than the pull. For a good spring, twice the stretch stores four times the energy.
 
-Pull a rubber band slowly and feel it. The first centimetre is easy. The last centimetre is hard. The band pulls back harder the more you stretch it, so every extra centimetre costs more energy than the one before. Stretch a band twice as far, and you pull twice as hard at the end, over twice the distance. Twice as hard over twice as far is 2 times 2, which is 4. That is why twice the pull-back stores more than twice the energy. The English scientist Robert Hooke found in the 1670s that, for a spring, the pull grows in step with the stretch. From that, scientists work out that the stored energy grows with the stretch multiplied by itself. Real rubber bands follow this only roughly, and a stretched band also warms up a little. Air works like a spring too. When you squash air into less room, it pushes back harder.
+Pull a rubber band slowly and feel it. The first centimetre is easy. The last centimetre is hard. The band pulls back harder the more you stretch it, so every extra centimetre costs more energy than the one before. Stretch a band twice as far, and you pull twice as hard at the end, over twice the distance. Twice as hard over twice as far is 2 times 2, which is 4. That is why twice the pull-back stores more than twice the energy. The English scientist Robert Hooke published in 1678 that, for a spring, the pull grows in step with the stretch. From that, scientists work out that the stored energy grows with the stretch multiplied by itself. Real rubber bands follow this only roughly, and a stretched band also warms up a little. Air works like a spring too. When you squash air into less room, it pushes back harder.
 - e.g. A bow drawn back twice as far sends the arrow much faster.
 - e.g. A squashed spring on a pen stores more energy the further you press the button.
 - e.g. A bicycle pump gets harder to push as the air inside is squeezed.
@@ -62,7 +62,7 @@ A stretched band waits because your fingers hold it. A tank of water waits becau
 ### Chemical energy: energy stored in how atoms are joined · *defined*
 **Definition:** Chemical energy is energy stored in the way atoms are joined into molecules. It comes out when the atoms rearrange into a more tightly held arrangement.
 
-Food and fuel are made of atoms joined in particular patterns. When your body, or a flame, rearranges them with oxygen into carbon dioxide and water, energy comes out as movement and heat. Chemical stores are very big. One medium banana holds about 100 kilocalories, which is about 420 000 joules. To store that much in height, you would have to lift a small apple about 420 kilometres up. A cell or a phone battery is also a chemical store. Its chemicals react slowly, and push electrons round a wire. Fat holds about 9 kilocalories in every gram, and sugar and starch hold about 4.
+Food and fuel are made of atoms joined in particular patterns. When your body, or a flame, rearranges them with oxygen into carbon dioxide and water, energy comes out as movement and heat. Chemical stores are very big. One medium banana holds about 100 kilocalories, which is about 420 000 joules. To store that much in height, you would have to lift a small apple about 420 kilometres up, if gravity stayed as strong as it is on the ground. A cell or a phone battery is also a chemical store. Its chemicals react slowly, and push electrons round a wire. Fat holds about 9 kilocalories in every gram, and sugar and starch hold about 4.
 - e.g. A banana holds about 420 000 joules.
 - e.g. A kitchen gas cylinder holds chemical energy until the lighter is lit.
 - e.g. A torch cell is a small chemical store.
@@ -90,7 +90,7 @@ Drop a ball. The energy of height turns into movement, then into a squash in the
 ### Where is the energy of a lifted ball? · *debated*
 Schools often say that the ball has potential energy. Physicists mostly say that the energy belongs to the ball and the Earth together, because lift the ball with no Earth below it and no energy is stored. The amount also depends on how far the ball can fall. Held over a table, it can give back a little. Held over a floor, the same ball can give back more. So physicists say that only changes in stored energy have meaning, and that where we start counting from is a choice. Some physicists go further and say the energy sits in the field of gravity between the two. Einstein's theory of gravity has no agreed answer on where gravity's energy is. This is still discussed.
 - e.g. The same ball over a table and over a floor gives back different amounts.
-- e.g. A stretched band stores its energy in the bonds between its tiny particles.
+- e.g. A stretched band stores its energy in the long chains of molecules in the rubber, which are pulled out of their loose tangle.
 - e.g. A ball lifted in empty space far from any planet would store almost nothing.
 - **Common school teaching:** The ball has the energy. It is a simple way of speaking, and it gives the right numbers for most problems.
 - **Many physicists:** The energy belongs to the ball and the Earth together. Pull them apart and you store energy. It depends on where the ball can fall to.
@@ -98,21 +98,21 @@ Schools often say that the ball has potential energy. Physicists mostly say that
 ### The deepest store: the energy in matter itself · *defined*
 **Definition:** Matter is itself a store of energy. Einstein's equation E = mc² says that every gram of matter is equal to about 90 trillion joules.
 
-In 1905 Albert Einstein showed that mass and energy are two forms of one thing. One gram, about the mass of a paper clip, is equal to about 90 trillion joules. That is the energy of about 21 000 tonnes of explosive. Nearly all of it stays locked up. When a Sun-like star joins hydrogen atoms into helium, only about 0.7 percent of the mass turns to energy. Even so, the Sun turns about 4 million tonnes of itself into light every second. Fission, where a heavy atom splits, also releases a little of this store. Lise Meitner and Otto Frisch explained fission in 1939 and calculated the energy it releases. Meitner's colleague Otto Hahn alone received the 1944 Nobel Prize in Chemistry for the discovery.
+In 1905 Albert Einstein showed that mass and energy are two forms of one thing. One gram, about the mass of a paper clip, is equal to about 90 trillion joules. That is the energy of about 21 000 tonnes of explosive. Nearly all of it stays locked up. When a Sun-like star joins hydrogen atoms into helium, only about 0.7 percent of the mass turns to energy. Even so, the Sun turns about 4 million tonnes of itself into light every second. Fission, where a heavy atom splits, also releases a little of this store. Lise Meitner and Otto Frisch explained fission in 1939 and worked out the energy it releases. Meitner's colleague Otto Hahn alone received the 1944 Nobel Prize in Chemistry for the discovery.
 - e.g. The Sun turns about 4 million tonnes of mass into light each second.
 - e.g. A nuclear power station releases a little of the energy in uranium atoms.
 - e.g. A paper clip, if all its mass could become energy, would equal about 21 000 tonnes of explosive.
 
 ## Mostly agreed
 - Lifting a thing stores energy in proportion to its weight and its height. Twice the height or twice the weight stores twice the energy. *How we know:* Balls dropped from different heights make dents or bounces that grow in step with the drop height, in clay tests since the 1720s and in simple home tests.
-- For a spring, the pull grows in step with the stretch, so the stored energy grows faster than the stretch. Twice the stretch stores about four times the energy. *How we know:* Robert Hooke's measurements in the 1670s, and every spring tested since, follow this rule until the spring is overstretched.
+- For a spring, the pull grows in step with the stretch, so the stored energy grows faster than the stretch. Twice the stretch stores about four times the energy. *How we know:* Robert Hooke's work, published in 1678, and every spring tested since, follow this rule until the spring is overstretched.
 - Energy is never made or destroyed. It moves between stores and between things, and some of it spreads out as heat. *How we know:* James Joule's experiments in the 1840s showed that a falling weight turning a paddle in water warmed the water by a small and exact amount.
 - Almost all the energy stored in food, fuel, rain and wind began as sunlight. *How we know:* Plants build sugar from light, coal and oil come from ancient plants and sea life, and the Sun lifts the water and drives the winds.
 - Fat holds about 9 kilocalories in a gram, while sugar and starch hold about 4. Chemical stores in food are much larger than the stores of height we use at home. *How we know:* Burning food in a sealed container and measuring the heat, a method used since the 1800s, gives these figures.
 - A ball dropped alone cannot bounce higher than it fell, because every bounce loses a little energy as heat and sound. *How we know:* Every bounce test ever made shows lower bounces. A ball can rise higher only if another store gives it more energy.
 
 ## How we found out
-**Willem 's Gravesande, a Dutch professor, and Émilie du Châtelet, a French scientist and translator, The early 1720s for the clay tests, and 1740 for her book.** In the early 1700s, scientists argued about how to measure the force of a moving ball. Most followers of Descartes and Newton said it was the mass times the speed. So a ball moving twice as fast should hit twice as hard. In the early 1720s, the Dutch professor Willem 's Gravesande dropped brass balls into soft clay from different heights. A ball that hit twice as fast made a dent four times as deep. The French scientist Émilie du Châtelet read about his clay and was convinced. In her book Institutions de Physique, in 1740, she argued that the force of motion grows with the square of the speed, as the philosopher Leibniz had said. Some members of the French Academy argued against her. Over the next century her side won, and today movement energy is half the mass times the speed squared. She also translated Newton's Principia into French, and her translation is still read.  
+**Willem 's Gravesande, a Dutch professor, and Émilie du Châtelet, a French scientist and translator, The early 1720s for the clay tests, and the early 1740s for her book.** In the early 1700s, scientists argued about how to measure the force of a moving ball. Most followers of Descartes and Newton said it was the mass times the speed. So a ball moving twice as fast should hit twice as hard. In the early 1720s, the Dutch professor Willem 's Gravesande dropped brass balls into soft clay from different heights. A ball that hit twice as fast made a dent four times as deep. The French scientist Émilie du Châtelet read about his clay and was convinced. In the early 1740s, in her book Institutions de Physique, she argued that the force of motion grows with the square of the speed, as the philosopher Leibniz had said. Some members of the French Academy argued against her. Over the next century her side won, and today movement energy is half the mass times the speed squared. She also translated Newton's Principia into French, and her translation is still read.  
 *What people believed before:* Many scientists thought that a moving body's force was simply its mass times its speed, so twice the speed would give twice the dent. The clay showed four times the dent for twice the speed.
 
 ## Challenging perspectives
@@ -143,7 +143,7 @@ We have measured stores of stretch and height, and followed their energy back to
 - *what is life:* A seed holds a first meal for a plant. A bird holds fat for a long flight. Living beings store energy so that they can act later, when food is not there.
 - *what is this world:* The world is full of stores of height, stretch, chemicals and matter. Energy is rarely made or lost. It mostly moves from one store to another.
 
-A store looks like a thing, but it is really a relationship. The ball and the Earth are held apart, and the atoms in a band are pulled out of line. In food, the sugar and the oxygen are kept from joining. Each store is two parts held apart that can come together again. When they do, the energy comes out as movement, and then as heat. Seen from far enough away, the universe is one set of parts held apart and falling together. Some physicists think that all the stores in it might add up to exactly zero. That is an idea, and nobody knows for sure.
+A store looks like a thing, but it is really a relationship. The ball and the Earth are held apart, and the atoms in a band are pulled out of line. In food, the sugar and the oxygen are kept from joining. Each store is two parts held apart that can come together again. When they do, the energy comes out as movement, and then as heat. Some physicists think that, in the whole universe, all the stores might add up to exactly zero. That is an idea, and nobody knows for sure.
 
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, and this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (When a store lets its energy out, the world's total stays exactly the same. The whole remains whole.)
 - **Tao Te Ching 5:** The space between heaven and earth is like a bellows. It is empty, yet it gives and never runs dry. The more it moves, the more it gives. (The energy of a lifted ball is held in the gap between the ball and the Earth, in the empty-looking space between them.)
@@ -151,7 +151,7 @@ A store looks like a thing, but it is really a relationship. The ball and the Ea
 - Science (settled): Energy is never made or lost. It moves between stores, and some of it spreads out as heat.
 - Science (idea): Some physicists think the total energy of the whole universe might be exactly zero, because the energy of matter is cancelled by gravity. Edward Tryon suggested it in 1973.
 - Other view, Many physics teachers: It is fine to say the ball has potential energy. Everyone gets the same numbers, so where the energy sits is only a way of talking. The question has no use.
-- Practice, Feel a store waiting (3 min): Hold a rubber band gently between your two thumbs. Pull it a little, not far. Breathe in slowly three times and feel it pull both hands. Let one thumb go. Notice how the energy came out.
+- Practice, Feel a store waiting (3 min): Hold a rubber band gently between your two thumbs, away from your face. Pull it a little, not far. Breathe in slowly three times and feel it pull both hands. Let one thumb go. Notice how the energy came out.
 - Ask: Is the energy of a stretched band in the band, in your two hands, or in the gap between them?
 - Ask: A stone on the ground cannot fall any further. Does it hold no energy at all, or does it depend on where you say the bottom is?
 - Ask: If every store is two things held apart, what is being held apart when you are hungry?
@@ -167,7 +167,7 @@ A store looks like a thing, but it is really a relationship. The ball and the Ea
 - *big:* A camel stores fat in her hump, a bird stores fat before a long flight, and a seed stores starch. What does a store let a living being do that she could not do without it? (hint: Think about a time when there is no food.)
 
 ## Story: The Tank on the Rock
-*A made-up story. The science in it is real. Pumped storage power stations, such as the one at Kadamparai in the Anamalai hills of Tamil Nadu, pump water uphill when electricity is plentiful and let it run down through turbines when it is needed. Such a station gives back about three-quarters of the energy it took. Tamilselvi's small school version is imagined.*
+*A made-up story. The science in it is real. Pumped storage power stations, such as the one at Kadamparai in the hills of Tamil Nadu, pump water uphill when electricity is plentiful and let it run down through turbines when it is needed. Such a station gives back about three-quarters of the energy it took. Tamilselvi's small school version is imagined.*
 
 In the hills above Valparai, the monsoon rain came sideways, and every evening at six o'clock the electricity went away. It did not come back until after midnight.
 
@@ -207,11 +207,11 @@ Children came out of the colony houses and stood in the rain, looking at it. Kar
 
 Tamilselvi thought about it. 'Up there,' she said, and pointed at the dark tank on the rock. 'In the water, and in all that height between the water and the valley. It is not gone. It is waiting for the valve.'
 
-Later, Mrs. Rani told them that in the same Anamalai hills, a dam at Kadamparai does the very same thing, with a whole lake instead of a drum. 'They pump water up when electricity is plentiful,' she said, 'and let it down when it is needed. It is a battery made of water.'
+Later, Mrs. Rani told them that in the hills of Tamil Nadu, a dam at Kadamparai does the very same thing, with a whole lake instead of a drum. 'They pump water up when electricity is plentiful,' she said, 'and let it down when it is needed. It is a battery made of water.'
 
 Tamilselvi nodded. 'Then I did not invent a trick,' she said. 'I only turned a tank on a rock into a lamp that I can switch on at six o'clock.'
 
-On Tuesday, it was Karthik who asked what the valve was for. She told him, and this time he listened.
+On Tuesday, it was Karthik who asked her how a wheel could make light. She told him, and this time he listened.
 
 **For the parent:** Energy does not have to be used when it is made. Lifting water stores the noon sun's energy in height, and a valve lets it out at six o'clock. A store gives back a little less than it was given, but it carries energy from when it is plentiful to when it is wanted.
 
@@ -235,7 +235,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
   - Ask: What is holding the energy back in this card? (good: A hand.; A closed tap.; A spring that is held.; The chemicals are kept apart.)
   - Note: Let your child answer before they turn the card. If they pick the wrong store, read the back together and move on. It is a game, not a test.
 - **s3 (4 min)**  
-  *Parent does:* Play the cards about the book, the football, the loose band and the chai. Let your child spot why each is not a store.  
+  *Parent does:* Find the four trick cards in the pile: the book, the football, the loose band and the chai. Play them now. Let your child spot why each is not a store.  
   *Parent says:* Some cards are tricks. A book on the floor cannot fall any further. A rolling football has energy that is already out. Can you spot why each is not a store?  
   *Child mode:* Some cards are tricks. Is the thing a store, or not? Why?
   - Note: The book card matters most. A book on a floor stores nothing compared with that floor, but over a hole it would. This is the same idea as the Table or Floor activity.
@@ -293,7 +293,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
   *Parent says:* Now pull the soap back to 4 centimetres. That is twice as far as before. Let go, and read where it stops. Do it three times. Is the slide twice as far?  
   *Child mode:* Now pull it back 4 centimetres, twice as far. Let go. Read where it stops. Three times.
   - Ask: How does this slide compare with the 2 centimetre slide? (good: It is much longer.; It is more than twice as far.; It is about four times as far.)
-  - Note: Do not explain yet. Let your child compare the numbers. Many families find this slide is 3 to 5 times the first one. Yours may differ.
+  - Note: Do not explain yet. Let your child compare the numbers. Expect the slide to be more than twice the first one, often 3 to 10 times. Yours may differ.
 - **s5 (5 min)**  
   *Parent does:* 1. Slide the soap back until its front edge is at 6 centimetres on the ruler. 2. Stand to the side. 3. Let go, read where it stops, and write the number. 4. Do this three times.  
   *Parent says:* Last, pull the soap back to 6 centimetres. Stand to one side. Let go, and read where it stops. Do it three times. Do not go further than 6.  
@@ -303,7 +303,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
   *Parent does:* 1. In each row of the table, circle the middle of the three slides. 2. Draw a bar for each pull-back. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? How many times as far did the soap slide when we doubled the pull-back?  
   *Child mode:* Draw a bar for each pull-back. Say what you thought, what you saw, and why.
-  - Note: After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Many families find 2 centimetres slides about 5 to 15 centimetres, 4 centimetres slides about 20 to 60, and 6 centimetres slides about 50 to 150. Twice the pull-back gives about 3 to 5 times the slide. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.
+  - Note: After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.
   - Check: The 2 centimetre pull-back gave a slide of 12 centimetres. The 4 centimetre pull-back gave 48 centimetres. What does this show? → **Doubling the pull-back stored about four times the energy**
   - Think: Why did a pull-back twice as long make the soap slide more than twice as far?
 ### e2 · The Bounce Ratio: how high does a ball come back from different heights? (40 min)
@@ -403,7 +403,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
   *Parent says:* Now move the stool away. Leave the flag where it is. Hold the ball in exactly the same place. Let go. Your helper reads the bounce above the floor.  
   *Child mode:* Move the stool away. Keep the flag. Drop the ball from the same spot. The helper reads the bounce.
   - Ask: The ball started in exactly the same place. Why is the bounce different? (good: It fell further.; It had a longer way to fall.; It had more energy to give back.)
-  - Note: The bounce above the floor should be roughly 2 to 4 times the bounce above the stool. Do not explain yet. Let your child tell you why.
+  - Note: The bounce above the floor should be roughly 2 to 3 times the bounce above the stool. Do not explain yet. Let your child tell you why.
 - **s4 (2 min)**  
   *Parent does:* Compare the two bounces. Ask: the ball was held in the same place, so why did it give back different amounts?  
   *Parent says:* Tell me what you saw. The ball was in exactly the same place both times. Why did it give back more the second time?  
@@ -411,7 +411,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
   - Note: After your child has said what they saw, you can explain. The energy a ball can give back depends on how far it can fall. With the stool gone, the same ball can fall further, so it can give back more. So the energy is not only in the ball. It depends on the ball and on what is below it.
   - Think: Does a ball in your hand hold one fixed amount of energy?
 ### a3 · The Syringe Spring: air that pushes back (10 min)
-- **safety:** Use a syringe with no needle, and keep it out of your mouth. Never point a pump at anyone's face.
+- **safety:** Use a syringe with no needle, and keep it out of your mouth. The clay plug can pop out when the air is squashed hard, so do not push past 2 millilitres and do not point it at anyone's face. Never point a pump at anyone's face.
 - **record:** Draw the syringe with the plunger pulled back and then pushed in. Draw arrows for the push of the air.
 - **s1 (2 min)**  
   *Parent does:* Show your child the syringe. Ask for a guess and a reason, and write both down.  
@@ -453,7 +453,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
   *Parent says:* Set the far end low and release the marble. Raise the far end by 5 centimetres each time. Always start from the same mark. Write what the marble does each time.  
   *Child mode:* Raise the far end 5 centimetres at a time. Release from the same mark. Write what happens.
   - Ask: At what height does the marble stop being able to climb out? (good: Just below where it started.; A bit lower than the start.; About the same height as the start, but not quite.)
-  - Note: Most marbles can climb out of far ends up to about 22 to 27 centimetres, just below the start. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke.
+  - Note: A marble should climb out of far ends a little below the start, often within a few centimetres of it. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke.
 - **s4 (9 min)**  
   *Parent does:* 1. Write the highest far end that worked. 2. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think the marble could not climb higher than where it started?  
@@ -465,7 +465,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
 ### c1 · Beat the Drop: make a ball bounce higher than the place it was dropped from (35 min)
 - **problem:** You have a big ball and a small bouncy ball. Find a way to make the small ball bounce higher than the height it was dropped from, using only the balls and your hands.
 - **your turn:** Try the stack. Try different balls. Which pair made the small ball bounce highest? Why do you think the small ball went higher than a single ball can?
-- **constraints:** Use only the two balls and your hands. No throwing and no pushing down.; Let go from a height of 50 centimetres, with the lowest ball at the 50 centimetre mark.; Measure the highest point of the small ball's bounce on a tape stuck on the wall.; Do the test on a hard floor, with nothing breakable nearby.
+- **constraints:** Use only the two balls and your hands. No throwing and no pushing down.; Let go from a height of 50 centimetres, with the top of the big ball at the 50 centimetre mark and the small ball resting on it.; Measure the highest point of the small ball's bounce on a tape stuck on the wall.; Do the test on a hard floor, with nothing breakable nearby.
 - **general:** Drop the small ball alone from 50 centimetres. It will bounce lower than 50 centimetres.; Use a very bouncy ball, such as a hard rubber ball, to get as close to 50 centimetres as possible.; Drop it onto a harder floor so less energy goes into the floor.
 - **creative:** Put the small ball on top of the big ball and drop them together. The small ball can shoot much higher than 50 centimetres.; Try the smallest and lightest ball on top, and the biggest and heaviest underneath.; Try three balls in a stack, with the lightest ball at the top.
 - **s1 (5 min)**  
@@ -484,7 +484,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
   *Parent says:* Rest the small ball on top of the big ball. Hold them together at 50. Let go of both at the same moment. Your helper reads the small ball's bounce. Try five times.  
   *Child mode:* Small ball on top of the big ball. Hold at 50. Let go of both together. Five tries.
   - Ask: What did the small ball do compared with when it was dropped alone? (good: It went much higher.; It shot above the flag.; The big ball hardly bounced.)
-  - Note: Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. It may take a few tries to get the small ball exactly on top. If it goes sideways, centre it better. Many families see the small ball bounce 2 to 3 times as high as the start.
+  - Note: Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. It may take a few tries to get the small ball exactly on top. If it goes sideways, centre it better. Often the small ball bounces 2 to 3 times as high as the start.
 - **s4 (7 min)**  
   *Parent does:* 1. Try other balls on top and underneath. 2. Write how high the top ball goes each time. 3. Find the pair that made the top ball bounce highest.  
   *Parent says:* Try other pairs of balls. Is it better with a bigger ball underneath? A lighter ball on top? Write the highest bounce for each pair.  
@@ -607,7 +607,7 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
 ## Videos
 - **A small ball on a big ball: the two-ball drop** (to be found, 3 min) id `to find`: To see a small ball bounce much higher than the height it was dropped from, and hear why in slow motion. *Check:* Not yet found. Find a short film of the stacked-ball drop in slow motion from a science museum or a university, watch it, and check that it says energy passes from the big ball to the small one.
 - **How pumped storage hydropower works** (to be found, 5 min) id `to find`: For the parent and older children: how a power station stores electricity by pumping water uphill and lets it fall again. *Check:* Not yet found. Find an explainer from an energy agency or a university, watch it, and check that it says about three-quarters of the energy comes back.
-- **Émilie du Châtelet and the energy of motion** (to be found, 5 min) id `to find`: For the parent and older children: how clay dents showed that movement energy grows with the square of the speed. *Check:* Not yet found. Find a short biography of her work from a museum or a university, watch it, and check that it matches the clay tests and her 1740 book.
+- **Émilie du Châtelet and the energy of motion** (to be found, 5 min) id `to find`: For the parent and older children: how clay dents showed that movement energy grows with the square of the speed. *Check:* Not yet found. Find a short biography of her work from a museum or a university, watch it, and check that it matches the clay tests and her book of the early 1740s.
 
 ## Quiz
 1. (mcq) Which of these stores its energy in height?  
@@ -616,9 +616,9 @@ On Tuesday, it was Karthik who asked what the valve was for. She told him, and t
 2. (mcq) What stops a stretched band from springing back at once?  
    Options: Your fingers hold it / The band is too tired / There is no energy in it  
    **Answer:** Your fingers hold it. *Why:* Something holds it. A store waits while something holds it back, such as your fingers. Taking that away is the trigger.
-3. (mcq) A band pulled back 3 centimetres makes a block slide 18 centimetres. About how far will it slide if pulled back 6 centimetres?  
+3. (mcq) A good spring pulled back 3 centimetres makes a block slide 18 centimetres. About how far will it slide if pulled back 6 centimetres?  
    Options: About 36 centimetres / About 72 centimetres / About 54 centimetres  
-   **Answer:** About 72 centimetres. *Why:* Twice the pull-back stores about four times the energy, so the slide is about 4 times as far. 4 times 18 is 72 centimetres.
+   **Answer:** About 72 centimetres. *Why:* For a good spring, twice the pull-back stores about four times the energy, so the slide is about 4 times as far. 4 times 18 is 72 centimetres.
 4. (mcq) A ball dropped from 50 centimetres bounces to 30. About how high will it bounce if dropped from 100 centimetres?  
    Options: About 30 centimetres / About 60 centimetres / About 100 centimetres  
    **Answer:** About 60 centimetres. *Why:* Twice the height stores twice the energy, so the bounce is also about twice as high. 2 times 30 is 60.
@@ -748,8 +748,8 @@ Where Did It Come From? (sci.energy.L4): Topic-level song
 - The Class 3 unit on stored energy (roll-back jar, tired cell) is the base this unit goes deeper from. Its experiments and story are not repeated
 - No board chapter is mapped to this subtopic at Class 4. Coverage was checked against the Class 3 and Class 5 entries of the curriculum only
 - 's Gravesande, W. J., Physices elementa mathematica, experimentis confirmata, Leiden, 1720 to 1721 (brass balls dropped into clay)
-- Du Châtelet, E., Institutions de physique, Paris, 1740 (the force of motion grows with the square of the speed)
-- Hooke, R., De Potentia Restitutiva, or Of Spring, London, 1678 (the pull of a spring grows with its stretch)
+- Du Châtelet, E., Institutions de physique, Paris, 1740 and 1742 (the force of motion grows with the square of the speed)
+- Hooke, R., Lectures de Potentia Restitutiva, or of Spring, London, 1678 (the pull of a spring grows with its stretch)
 - Joule, J. P., 'On the mechanical equivalent of heat', Philosophical Transactions 140, 1850 (a falling weight warms water)
 - Joule, J. P., 'On some thermo-dynamic properties of solids', Philosophical Transactions 149, 1859 (stretched rubber warms)
 - Einstein, A., 'Ist die Traegheit eines Koerpers von seinem Energieinhalt abhaengig?', Annalen der Physik 18, 1905 (mass and energy)

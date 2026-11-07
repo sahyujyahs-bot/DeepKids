@@ -16,7 +16,7 @@
 7. I can say what scientists still do not know about how rubbing moves charge.
 
 ## Terms
-- **Electron**: A tiny particle with a minus charge that circles the middle of an atom. Electrons are the charges that move when you rub things. *e.g.* When a balloon is rubbed on wool, electrons move from the wool to the balloon.
+- **Electron**: A tiny particle with a minus charge that moves around the middle of an atom. Electrons are the charges that move when you rub things. *e.g.* When a balloon is rubbed on wool, electrons move from the wool to the balloon.
 - **Plus and minus charge**: The two kinds of electric charge. Two of the same kind push apart. One of each kind pull together. *e.g.* A balloon rubbed on wool has extra minus charge, so it pushes away another rubbed balloon.
 - **Neutral**: Having equal plus and minus charge, so there is no extra charge to feel from far away. *e.g.* A plain steel spoon is neutral until something gives it or takes from it a charge.
 - **Conservation of charge**: Charge is never made or destroyed. It only moves from one place to another, so what one thing gains, another loses. *e.g.* If the balloon gains a million electrons from the wool, the wool loses exactly a million.
@@ -26,7 +26,7 @@
 - **Polarisation**: When a charged thing comes near a neutral one, the neutral thing's plus and minus charges shift a little, so the near side has the opposite charge. This is why a charged thing can pull a neutral one. *e.g.* A rubbed balloon pulls a bit of paper, even though the paper has no extra charge.
 - **Conductor**: A material that lets charge move through it easily. *e.g.* A steel spoon is a conductor, so a charge on it runs away into your hand.
 - **Insulator**: A material that does not let charge move through it easily, so charge stays where it was put. *e.g.* A plastic spoon is an insulator, so a charge on it stays put.
-- **Earthing**: Joining something to the ground with a conductor, so any extra charge can flow away into the huge Earth. *e.g.* A petrol tanker trails a metal chain or strap on the road, so the charge from its movement can drain into the ground.
+- **Earthing**: Joining something to the ground with a conductor, so any extra charge can flow away into the huge Earth. *e.g.* Many petrol tankers trail a metal chain or strap on the road, and at the fuel depot they are clipped to a metal earth wire, so charge can drain into the ground.
 - **Discharge**: When extra charge leaves a charged thing, slowly through the air or a conductor, or suddenly as a spark. *e.g.* A charged foil ball discharges when you touch it with your finger.
 - **Spark**: A sudden jump of charge through air, which glows and crackles because the air along the path is heated. *e.g.* A tiny spark may jump from your finger to a metal door handle on a dry day.
 - **Volt**: A unit for how strongly charge is pushed to move. A bigger number of volts can push a spark across a bigger gap of air. *e.g.* A torch cell is 1.5 volts. A spark you can feel needs about 3,000 volts.
@@ -70,9 +70,9 @@ Charles du Fay, in Paris in 1733, found that there are two kinds of charge. Benj
 - e.g. A balloon rubbed on hair gains electrons, so it is minus.
 - e.g. Moving electrons are minus charges, even though the name was chosen by guessing.
 ### Why does rubbing move charge? Scientists still argue · *debated*
-Everyone agrees that touching two materials and pulling them apart can move charge. Nobody agrees yet on exactly what moves, or why one material wins over another. Even the same material can charge itself: in 2011 a team led by Bartosz Grzybowski found that one piece of plastic can have patches of plus and minus on its own surface, like a mosaic. And in 2014 researchers found that small grains of one material charged larger grains of the very same material. A simple ladder cannot explain that.
+Everyone agrees that touching two materials and pulling them apart can move charge. Nobody agrees yet on exactly what moves, or why one material wins over another. Even the same material can charge itself: in 2011 a team led by Bartosz Grzybowski found that one piece of plastic can have patches of plus and minus on its own surface, like a mosaic. And in 2014 researchers found that small and large grains of the very same material charged each other, with the larger grains usually ending up plus. A simple ladder cannot explain that.
 - e.g. Clear tape peeled from the same roll has plus and minus patches.
-- e.g. Small grains of one material can charge larger grains of that same material.
+- e.g. Small and large grains of one material can charge each other.
 - e.g. Water on a surface can change the charge a material takes.
 - **The electron view:** Materials hold their outer electrons with different strengths. When two touch, electrons move from the one that holds them loosely to the one that holds them more strongly.
 - **The ion view:** Thin films of water on every surface carry ions. These ions may move from one surface to the other, and the surface that gains the ions gets the charge. This view explains why humidity changes results so much.
@@ -87,21 +87,21 @@ Metals have outer electrons that are free to drift from atom to atom, so a charg
 ### Earthing: the Earth as a giant store · *defined*
 **Definition:** Joining a charged thing to the ground with a conductor lets its extra charge flow into the Earth, which is so big that it hardly changes.
 
-The Earth is a conductor, and it is enormous. If you give it a few billion extra electrons, or take a few billion away, nothing about it changes that anyone can measure. So it works like a bottomless drain or a bottomless store. When you touch a charged metal thing while standing on the floor, any extra charge can run through you to the Earth. This is why a petrol tanker trails a metal chain or strap, why a three-pin plug has an earth pin, and why an aircraft has small wire wicks on its wings. It is also why touching an earthed metal pipe calms the static on a paper sheet.
+The Earth is a conductor, and it is enormous. If you give it a few billion extra electrons, or take a few billion away, nothing about it changes that anyone can measure. So it works like a bottomless drain or a bottomless store. When you touch a charged metal thing while standing on the floor, any extra charge can run through you to the Earth. This is why petrol tankers are joined to the ground when they load or unload fuel, and many trail a metal chain or strap, and why a three-pin plug has an earth pin. It is also why touching an earthed metal pipe calms the static on a paper sheet.
 - e.g. A petrol tanker trails an earthing strap so charge cannot build up.
 - e.g. A three-pin plug has a long earth pin joined to the building's earth.
 - e.g. A person touching a metal almirah on a dry day may feel a small spark as charge drains away.
 ### The push gets weaker quickly with distance · *defined*
 **Definition:** The push or pull between two charges gets bigger with more charge and much smaller with more distance. Twice as far apart means only a quarter of the force.
 
-Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Sunlight also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why a balloon lifts paper at 1 centimetre but not at 20, and why the charge on a single balloon can lift your hair but not move the table.
-- e.g. A balloon that lifts paper at 1 centimetre has a quarter of the pull at 2 centimetres.
+Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Sunlight also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why two balloons push hard when close and hardly at all when far apart. A bit of paper is pulled even more weakly from far away, because the balloon must first shift the paper's own charges. It is also why the charge on a single balloon can lift your hair but not move the table.
+- e.g. Two charged balloons that push with some force at 1 centimetre push with a quarter of that force at 2 centimetres.
 - e.g. Two balloons with twice the charge each push four times as hard at the same distance.
 - e.g. A torch's light on a wall is a quarter as bright twice as far away.
 ### A sharp point lets charge escape · *defined*
 **Definition:** Charge crowds at sharp points of a conductor. The electric field there is strong enough to tear electrons from air, so charge leaks away into the air.
 
-On a round metal ball, charge spreads out evenly. On a pointed piece of metal, charge crowds towards the tip, and the push on the air there is very strong. The air near the tip breaks down a little and carries the charge off in a faint, silent stream. Benjamin Franklin noticed this in the 1740s, and it is the reason a lightning conductor has a pointed top. It is also why the tinsel bars in printing presses are made of thin metal threads: each thread is a very fine point that lets charge leak away from passing paper. Scientists call this a corona discharge.
+On a round metal ball, charge spreads out evenly. On a pointed piece of metal, charge crowds towards the tip, and the push on the air there is very strong. The air near the tip breaks down a little and carries the charge off in a faint, silent stream. Benjamin Franklin noticed this in the 1740s, and it is the reason a lightning conductor has a pointed top. It is also why the tinsel bars in printing presses are made of thin metal threads: each thread is a very fine point that lets charge leak away from passing paper. Scientists call this a corona discharge. Aircraft use the same trick: small wire wicks on the wings let charge leak off into the air.
 - e.g. A lightning conductor on a building has a pointed tip.
 - e.g. A printing press uses a bar of fine metal threads to remove charge from paper.
 - e.g. A pin held near a charged balloon makes the balloon lose its charge quickly.
@@ -151,7 +151,7 @@ The air near the ground has a faint electric field, about 100 volts for every me
   Against: In 2011 Baytekin and colleagues, and in 2014 Waitukaitis and colleagues, found that identical materials can charge each other, because their surfaces are patchy or because of their size. Our simple ladder does not explain it.
 - **Lightning never strikes the same place twice.** (A common saying; *rejected*)  
   For: Most places are hit rarely, and a strike can seem like a once-only event.  
-  Against: Tall pointed things are hit again and again. The Empire State Building in New York is struck about twenty times a year.
+  Against: Tall pointed things are hit again and again. The Empire State Building in New York is struck about 20 to 25 times a year.
 - **Electric charge is a fluid that is poured from one thing to another.** (Benjamin Franklin and many of his time; *rejected*)  
   For: It explained that charge can flow, that it is not made or lost, and it let Franklin make good predictions.  
   Against: Charge is carried by particles, electrons mostly, which cannot be divided into tiny drops of fluid. The fluid picture was useful, but it led to a wrong guess about which way charge moves when glass is rubbed.
@@ -185,7 +185,7 @@ One piece of cotton has no sign of its own. Put it next to wool, and it takes el
 - *deep:* A charged balloon pulls a plain wall. How does a wall with no extra charge feel the balloon, and how fast does it find out when the balloon moves? (hint: Think about polarisation and the electric field around the balloon.)
 - *big:* Plus and minus were chosen by a guess, and the guess turned out backwards. If a name is wrong but works, should we change it? (hint: Think about what a name is for, and what it would cost to change every book and every wire.)
 - *big:* A bee can feel a flower's electric field and you cannot. Does that mean you and the bee live in different worlds? (hint: Think about what a sense does, and what you can know that a bee cannot.)
-- *big:* Over two thousand people in India die each year from lightning, mostly farmers working in open fields. Whose job is it to warn them, and how could the science help? (hint: Think about who gets warnings in time, and which of them can see a storm coming.)
+- *big:* Around 2,800 people in India die each year from lightning, according to national crime records. Many are farmers working in open fields. Whose job is it to warn them, and how could the science help? (hint: Think about who gets warnings in time, and which of them can see a storm coming.)
 - *big:* Static is a nuisance in a printing press and a tool in a laser printer. Is static good or bad? (hint: Think about whether a thing can be harmful by itself, or only in a place.)
 - *big:* People have known about rubbed amber since ancient times, and scientists still argue about why it works. Why might a simple everyday thing stay a mystery? (hint: Think about how hard it is to see what happens on a surface a few atoms thick.)
 
@@ -251,7 +251,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 
 ## Games
 ### g1 · Ladder Duel: who takes the electrons? (20 min)
-- **rules:** Shuffle the 12 cards and put them face down in a pile. Lay the ladder board where everyone can see it.; The reader turns up two cards, with the material sides showing. The backs stay hidden. Neighbours are unreliable, so if the two cards are less than 3 rungs apart, put one back and draw another.; Every other player writes or says which of the two materials will get the minus charge when they are rubbed together. The reader then turns the cards over.; The card with the bigger rung number is lower on the ladder. It takes the electrons, so it gets the minus. A player with the right answer scores one point.; A player who also says why, using the words give, take or electrons, scores one more point.; In round 2, the reader turns up three cards. Players name the one that is minus against both others, the one that is plus against both others, and the one in the middle. Getting all three right scores 2 points.; In round 3, the reader picks a card in the middle of the ladder, from rung 4 to rung 9. Players say its sign against a card two rungs above it and a card two rungs below it. A correct answer scores 2 points.; After each card, the reader's job passes to the player on the left. With two players, swap after every card.; Playing alone, draw two cards each turn and write your guess before you check. Score yourself in the same way. You win with 10 points from 12 cards.; The game ends when each player has been reader twice, or the pile is gone. The player with the most points wins. A tie is shared.
+- **rules:** Shuffle the 12 cards and put them face down in a pile. Lay the ladder board where everyone can see it.; The reader turns up two cards, with the material sides showing. The backs stay hidden. Neighbours are unreliable, so if the two cards are less than 3 rungs apart, put one back and draw another.; Every other player writes or says which of the two materials will get the minus charge when they are rubbed together. The reader then turns the cards over.; The card with the bigger rung number is lower on the ladder. It takes the electrons, so it gets the minus. A player with the right answer scores one point.; A player who also says why, using the words give, take or electrons, scores one more point.; For rounds 2 and 3, put all 12 cards back and shuffle again. In round 2, the reader turns up three cards, each at least 3 rungs from the others. Players name the one that is minus against both others, the one that is plus against both others, and the one in the middle. Getting all three right scores 2 points.; In round 3, the reader picks a card in the middle of the ladder, from rung 4 to rung 9. Players say its sign against the card three rungs above it and the card three rungs below it. A correct answer scores 2 points.; After each card, the reader's job passes to the player on the left. With two players, swap after every card.; Playing alone, draw two cards each turn and write your guess before you check. Score yourself in the same way. You win with 10 points from 12 cards.; The game ends when each player has been reader twice, or the pile is gone. The player with the most points wins. A tie is shared.
 - **Printable board: 12 rungs: the charge ladder, from top (gives electrons) to bottom (takes electrons):** Rung 1: Human hair; Rung 2: Wool; Rung 3: Nylon; Rung 4: Silk; Rung 5: Paper; Rung 6: Cotton; Rung 7: Dry wood; Rung 8: Rubber, such as a balloon; Rung 9: Polyester; Rung 10: Polystyrene, such as a clear plastic ruler; Rung 11: Polythene, such as a carry bag; Rung 12: PVC, such as a water pipe
 - **Printable cards: 12 two-sided cards: a material on the front, its rung and a note on the back:** Human hair (back: Rung 1 of 12. The top. It gives electrons to nearly everything.); Wool (back: Rung 2 of 12. Near the top. It gives electrons to almost everything below it.); Nylon (back: Rung 3 of 12. It gives electrons to everything below it, and takes them from hair and wool.); Silk (back: Rung 4 of 12. Gives to the rungs below it, takes from the rungs above it.); Paper (back: Rung 5 of 12. In the middle. It charges weakly with its close neighbours.); Cotton (back: Rung 6 of 12. In the middle. It takes from wool and gives to polythene.); Dry wood (back: Rung 7 of 12. In the lower middle. Damp wood loses its charge quickly.); Rubber, such as a balloon (back: Rung 8 of 12. Tables disagree about where rubber sits, so trust it only against far-away rungs.); Polyester (back: Rung 9 of 12. Many clothes are made of it. It takes electrons from most materials above it.); Polystyrene, such as a clear plastic ruler (back: Rung 10 of 12. Near the bottom. It takes electrons from most materials above it.); Polythene, such as a carry bag (back: Rung 11 of 12. Near the bottom. It takes electrons from nearly everything above it.); PVC, such as a water pipe (back: Rung 12 of 12. The bottom. It takes electrons from nearly everything. Some tables put Teflon even lower.)
 - **s1 (3 min)**  
@@ -283,7 +283,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 - **question:** When five different things are each rubbed on wool and on polythene, which of them take electrons and which give them? Can the results be put in a ladder that predicts a pair you have not tried?
 - **predict:** Before you start, guess for each of the five things. After wool, will it push the balloon away? After polythene, will it push or pull? Say why you think so.
 - **fair test:** Every thing gets ten strokes, always in one direction. Every thing is held 3 centimetres from the balloon, at the same height, for 5 seconds. Each thing is wiped clean before the next test, and the hanging balloon is charged again on wool after every three tests. The same wool, the same polythene and the same room are used all the way through. Only the thing being rubbed changes.
-- **safety:** Balloons and small cut pieces can choke young children, so keep them away from children under three. Do this in a room away from the kitchen gas.
+- **safety:** Balloons and small cut pieces can choke young children, so keep them away from children under three. If anyone at home has a latex allergy, do not use latex balloons. Do this indoors, in a room away from the kitchen gas, and never during a thunderstorm.
 - **record:** Fill in the results table for all five things. Then lay the seven cards in a ladder with wool at the top and polythene at the bottom, and draw it.
 - **results table:** Thing | After wool: R, A or 0 | After polythene: R, A or 0 | Its rung on my ladder
 - **s1 (4 min)**  
@@ -297,7 +297,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   *Parent says:* This hanging balloon is our detector. We charge it on wool. Now hold your plain hand near it. What does it do?  
   *Child mode:* Hang a balloon from the table edge. Rub it ten times on wool. Hold your hand near.
   - Ask: The balloon leaned towards your plain hand. Does that mean your hand is charged? (good: No. A pull does not prove it.; A plain hand has no extra charge, but it still pulled.)
-  - Note: The balloon should lean gently towards your hand. If it does not, rub it ten more times. On a damp day, use an air-conditioned room, or blow a hair dryer on the wool and the balloon for 30 seconds first. Charge fades in about a minute, so you will recharge it often.
+  - Note: The balloon should lean gently towards your hand. If it does not, rub it ten more times. On a damp day, use an air-conditioned room. Or a grown-up can blow a hair dryer on the cool setting, held 30 centimetres away, on the wool for 30 seconds first. Never aim it at the balloon, because heat can burst it. Charge fades in about a minute, so you will recharge it often.
   - Check: The charged balloon leans towards your plain hand. What does that show? → **A pull alone does not prove the other thing is charged**
 - **s3 (5 min)**  
   *Parent does:* Hold the plain, unrubbed ruler 3 centimetres from the balloon, at the same height. Watch for 5 seconds. Write R if the balloon is pushed away, A if it is pulled closer, and 0 if nothing happens.  
@@ -329,7 +329,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 - **question:** Two balloons rubbed the same number of times hang apart in a V. Does ten rubs make the gap twice as big as five rubs? Does twenty rubs make it four times as big?
 - **predict:** Before you start, guess how far apart the balloons will hang after 5, 10 and 20 rubs. Will 20 rubs give a gap four times as big as 5? Say why you think so.
 - **fair test:** Both balloons are the same size, hang on threads of the same length from the same pencil, and are rubbed on the same wool with the same number of strokes. The gap is measured 10 seconds after hanging, between the same two knots. The balloons are cleared of charge between levels. Only the number of rubs changes.
-- **safety:** Keep balloons and bits of burst balloon away from children under three.
+- **safety:** Keep balloons and bits of burst balloon away from children under three. If anyone at home has a latex allergy, do not use latex balloons.
 - **record:** Fill in the table. Draw a bar chart with one bar for each number of rubs, using the gap beyond the resting gap.
 - **results table:** Rubs on each balloon | Gap between knots, try 1 (cm) | Gap between knots, try 2 (cm) | Gap beyond the resting gap (cm)
 - **s1 (4 min)**  
@@ -463,12 +463,12 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   *Parent says:* The same test as before, with four new things. Rub ten times, hold it near the balloon, and write R, A or 0.  
   *Child mode:* Test each new thing on wool and polythene. Write R, A or 0.
   - Check: A new thing pushes the balloon away after wool, and also after polythene. Where does it sit on the ladder? → **Below both wool and polythene**
-- **s3 (25 min)**  
+- **s3 (25 min) · grown-up needed**  
   *Parent does:* On the second day, hang the balloon in a damp place. Test the same four things on wool and polythene in the same way. Write R, A or 0 for each, in a new column.  
   *Parent says:* Today the air is damp. Do the same tests as before. Do the things push the balloon as strongly? Why might that be?  
   *Child mode:* Test the same things in damp air. Write R, A or 0.
   - Ask: Did the damp air change your results? How? (good: The pushes were weaker.; Some things did nothing.; The balloon lost its charge quickly.)
-  - Note: Expect weaker pushes, or none. The charge leaks away through the thin film of water on every surface. If you get no results at all, that is the result: write 0. Do not try to dry the things with a heater.
+  - Note: Expect weaker pushes, or none. The charge leaks away through the thin film of water on every surface. If you get no results at all, that is the result: write 0. A grown-up should stay in the room, because wet floors are slippery. Keep the tap water cool and keep every plug and electric appliance well away. Do not try to dry the things with a heater.
   - Wait: Do this on another day, in a damp place such as a bathroom after a hot shower.
 - **s4 (20 min)**  
   *Parent does:* Put the two columns side by side. Did the order of the things change? Draw your final ladder with all nine rungs. Write three sentences about what you found.  
@@ -581,9 +581,9 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
    **Answer:** Two balloons hanging in a V from one point. On each balloon, an arrow down for its weight, an arrow along the thread, and an arrow pointing sideways away from the other balloon.. *Why:* The sideways push comes from the other balloon's charge. Weight pulls down, and the thread pulls along its length. The balloon rests where all three balance.
 15. (write) Moving electrons are called minus, though the names plus and minus were chosen before electrons were found. Explain why the names stayed.  
    **Answer:** The names were a guess that happened to work in the sums. Changing them would mean changing every book and every wire, and the electron is just the thing that carries the minus charge.. *Why:* A strong answer says that a name is a label that works, even if the guess behind it was backwards.
-16. (mcq) A balloon pulls paper bits strongly at 1 centimetre. How strong is the pull at 3 centimetres, if the law is the same?  
+16. (mcq) Two rubbed balloons push each other with some force at 1 centimetre apart. How strong is the push when they are 3 centimetres apart?  
    Options: One ninth as strong / One third as strong / The same  
-   **Answer:** One ninth as strong. *Why:* 3 centimetres is 3 times as far. The pull divides by 3 times 3, which is 9. That is why a balloon that lifts paper at 1 centimetre does almost nothing at 10.
+   **Answer:** One ninth as strong. *Why:* 3 centimetres is 3 times as far. The pull divides by 3 times 3, which is 9. That is why two balloons that push hard at 1 centimetre hardly push at 10.
 17. (fill) A spark can jump through air when the push on the air is about ____ volts for every millimetre.  
    **Answer:** ['3,000', '3000', 'three thousand']. *Why:* Air is an insulator until the push is strong enough. About 3,000 volts for each millimetre is where it gives way. So a 1 centimetre spark needs about 30,000 volts.
 ### Open questions and clever tests (challenge) (challenge, 16 questions)
@@ -685,7 +685,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 - Hair rising and crackling when you pull off a synthetic dupatta or a woollen sweater on a dry winter evening.
 - A small shock when you touch a metal door handle or a car door after sliding across the seat on a dry day.
 - A polythene bag clinging to your hand or arm when you try to shake it off.
-- Dust that settles thickly on a TV screen or a fan blade, because they are slightly charged and pull dust to them.
+- Dust that clings to an old TV screen, often because the screen is slightly charged and pulls dust to it.
 - Fine dust or flour clinging to the inside of a plastic jar or a plastic bag.
 
 ## Open questions
@@ -694,7 +694,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 - **How does the very first spark of a lightning bolt start inside a storm cloud?** The push inside a cloud seems too weak to break down air, yet lightning starts. Scientists have ideas about ice crystals and cosmic rays, and none is settled.
 - **How many animals sense electric fields, and what do they use them for?** Bees, spiders, sharks and some fish have been studied, but most animals have not. Many studies are small and need to be repeated.
 - **Do the dust storms of the Thar desert or of Mars make lightning too?** Rubbing grains of sand charge each other, and lightning has been seen in some dust storms on Earth. Whether it happens in every big storm, and on Mars, is not yet clear.
-- **Why are charges made only in whole units of one electron?** Every charge ever measured is a whole number of electron charges, but no one knows why charge comes in these units.
+- **Why are charges made only in whole units of one electron?** Every free charge ever measured is a whole number of electron charges, but no one knows why charge comes in these units.
 
 ## Questions to ask kids
 - Which clothes in your cupboard crackle most when you pull them off, and what are they made of?

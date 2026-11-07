@@ -25,7 +25,7 @@
  "terms": [
   {
    "term": "Electron",
-   "meaning": "A tiny particle with a minus charge that circles the middle of an atom. Electrons are the charges that move when you rub things.",
+   "meaning": "A tiny particle with a minus charge that moves around the middle of an atom. Electrons are the charges that move when you rub things.",
    "example": "When a balloon is rubbed on wool, electrons move from the wool to the balloon.",
    "art": "An atom with a plus centre and three small minus dots circling it, and one dot leaving."
   },
@@ -86,7 +86,7 @@
   {
    "term": "Earthing",
    "meaning": "Joining something to the ground with a conductor, so any extra charge can flow away into the huge Earth.",
-   "example": "A petrol tanker trails a metal chain or strap on the road, so the charge from its movement can drain into the ground.",
+   "example": "Many petrol tankers trail a metal chain or strap on the road, and at the fuel depot they are clipped to a metal earth wire, so charge can drain into the ground.",
    "art": "A petrol tanker with a metal chain hanging from it and touching the road."
   },
   {
@@ -190,10 +190,10 @@
    "concept": "Why does rubbing move charge? Scientists still argue",
    "status": "debated",
    "definition": "",
-   "description": "Everyone agrees that touching two materials and pulling them apart can move charge. Nobody agrees yet on exactly what moves, or why one material wins over another. Even the same material can charge itself: in 2011 a team led by Bartosz Grzybowski found that one piece of plastic can have patches of plus and minus on its own surface, like a mosaic. And in 2014 researchers found that small grains of one material charged larger grains of the very same material. A simple ladder cannot explain that.",
+   "description": "Everyone agrees that touching two materials and pulling them apart can move charge. Nobody agrees yet on exactly what moves, or why one material wins over another. Even the same material can charge itself: in 2011 a team led by Bartosz Grzybowski found that one piece of plastic can have patches of plus and minus on its own surface, like a mosaic. And in 2014 researchers found that small and large grains of the very same material charged each other, with the larger grains usually ending up plus. A simple ladder cannot explain that.",
    "examples": [
     "Clear tape peeled from the same roll has plus and minus patches.",
-    "Small grains of one material can charge larger grains of that same material.",
+    "Small and large grains of one material can charge each other.",
     "Water on a surface can change the charge a material takes."
    ],
    "art": "A close-up of a plastic surface drawn as a patchwork of small squares, some marked plus and some marked minus.",
@@ -229,7 +229,7 @@
    "concept": "Earthing: the Earth as a giant store",
    "status": "defined",
    "definition": "Joining a charged thing to the ground with a conductor lets its extra charge flow into the Earth, which is so big that it hardly changes.",
-   "description": "The Earth is a conductor, and it is enormous. If you give it a few billion extra electrons, or take a few billion away, nothing about it changes that anyone can measure. So it works like a bottomless drain or a bottomless store. When you touch a charged metal thing while standing on the floor, any extra charge can run through you to the Earth. This is why a petrol tanker trails a metal chain or strap, why a three-pin plug has an earth pin, and why an aircraft has small wire wicks on its wings. It is also why touching an earthed metal pipe calms the static on a paper sheet.",
+   "description": "The Earth is a conductor, and it is enormous. If you give it a few billion extra electrons, or take a few billion away, nothing about it changes that anyone can measure. So it works like a bottomless drain or a bottomless store. When you touch a charged metal thing while standing on the floor, any extra charge can run through you to the Earth. This is why petrol tankers are joined to the ground when they load or unload fuel, and many trail a metal chain or strap, and why a three-pin plug has an earth pin. It is also why touching an earthed metal pipe calms the static on a paper sheet.",
    "examples": [
     "A petrol tanker trails an earthing strap so charge cannot build up.",
     "A three-pin plug has a long earth pin joined to the building's earth.",
@@ -242,9 +242,9 @@
    "concept": "The push gets weaker quickly with distance",
    "status": "defined",
    "definition": "The push or pull between two charges gets bigger with more charge and much smaller with more distance. Twice as far apart means only a quarter of the force.",
-   "description": "Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Sunlight also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why a balloon lifts paper at 1 centimetre but not at 20, and why the charge on a single balloon can lift your hair but not move the table.",
+   "description": "Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Sunlight also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why two balloons push hard when close and hardly at all when far apart. A bit of paper is pulled even more weakly from far away, because the balloon must first shift the paper's own charges. It is also why the charge on a single balloon can lift your hair but not move the table.",
    "examples": [
-    "A balloon that lifts paper at 1 centimetre has a quarter of the pull at 2 centimetres.",
+    "Two charged balloons that push with some force at 1 centimetre push with a quarter of that force at 2 centimetres.",
     "Two balloons with twice the charge each push four times as hard at the same distance.",
     "A torch's light on a wall is a quarter as bright twice as far away."
    ],
@@ -255,7 +255,7 @@
    "concept": "A sharp point lets charge escape",
    "status": "defined",
    "definition": "Charge crowds at sharp points of a conductor. The electric field there is strong enough to tear electrons from air, so charge leaks away into the air.",
-   "description": "On a round metal ball, charge spreads out evenly. On a pointed piece of metal, charge crowds towards the tip, and the push on the air there is very strong. The air near the tip breaks down a little and carries the charge off in a faint, silent stream. Benjamin Franklin noticed this in the 1740s, and it is the reason a lightning conductor has a pointed top. It is also why the tinsel bars in printing presses are made of thin metal threads: each thread is a very fine point that lets charge leak away from passing paper. Scientists call this a corona discharge.",
+   "description": "On a round metal ball, charge spreads out evenly. On a pointed piece of metal, charge crowds towards the tip, and the push on the air there is very strong. The air near the tip breaks down a little and carries the charge off in a faint, silent stream. Benjamin Franklin noticed this in the 1740s, and it is the reason a lightning conductor has a pointed top. It is also why the tinsel bars in printing presses are made of thin metal threads: each thread is a very fine point that lets charge leak away from passing paper. Scientists call this a corona discharge. Aircraft use the same trick: small wire wicks on the wings let charge leak off into the air.",
    "examples": [
     "A lightning conductor on a building has a pointed tip.",
     "A printing press uses a bar of fine metal threads to remove charge from paper.",
@@ -365,7 +365,7 @@
    "claim": "Lightning never strikes the same place twice.",
    "who": "A common saying",
    "for": "Most places are hit rarely, and a strike can seem like a once-only event.",
-   "against": "Tall pointed things are hit again and again. The Empire State Building in New York is struck about twenty times a year.",
+   "against": "Tall pointed things are hit again and again. The Empire State Building in New York is struck about 20 to 25 times a year.",
    "status": "rejected"
   },
   {
@@ -403,7 +403,7 @@
    "hint": "Think about what a sense does, and what you can know that a bee cannot."
   },
   {
-   "q": "Over two thousand people in India die each year from lightning, mostly farmers working in open fields. Whose job is it to warn them, and how could the science help?",
+   "q": "Around 2,800 people in India die each year from lightning, according to national crime records. Many are farmers working in open fields. Whose job is it to warn them, and how could the science help?",
    "kind": "big",
    "hint": "Think about who gets warnings in time, and which of them can see a storm coming."
   },
@@ -621,8 +621,8 @@
     "Every other player writes or says which of the two materials will get the minus charge when they are rubbed together. The reader then turns the cards over.",
     "The card with the bigger rung number is lower on the ladder. It takes the electrons, so it gets the minus. A player with the right answer scores one point.",
     "A player who also says why, using the words give, take or electrons, scores one more point.",
-    "In round 2, the reader turns up three cards. Players name the one that is minus against both others, the one that is plus against both others, and the one in the middle. Getting all three right scores 2 points.",
-    "In round 3, the reader picks a card in the middle of the ladder, from rung 4 to rung 9. Players say its sign against a card two rungs above it and a card two rungs below it. A correct answer scores 2 points.",
+    "For rounds 2 and 3, put all 12 cards back and shuffle again. In round 2, the reader turns up three cards, each at least 3 rungs from the others. Players name the one that is minus against both others, the one that is plus against both others, and the one in the middle. Getting all three right scores 2 points.",
+    "In round 3, the reader picks a card in the middle of the ladder, from rung 4 to rung 9. Players say its sign against the card three rungs above it and the card three rungs below it. A correct answer scores 2 points.",
     "After each card, the reader's job passes to the player on the left. With two players, swap after every card.",
     "Playing alone, draw two cards each turn and write your guess before you check. Score yourself in the same way. You win with 10 points from 12 cards.",
     "The game ends when each player has been reader twice, or the pile is gone. The player with the most points wins. A tie is shared."
@@ -742,7 +742,7 @@
      "qty": 7
     }
    ],
-   "safety": "Balloons and small cut pieces can choke young children, so keep them away from children under three. Do this in a room away from the kitchen gas.",
+   "safety": "Balloons and small cut pieces can choke young children, so keep them away from children under three. If anyone at home has a latex allergy, do not use latex balloons. Do this indoors, in a room away from the kitchen gas, and never during a thunderstorm.",
    "record": "Fill in the results table for all five things. Then lay the seven cards in a ladder with wool at the top and polythene at the bottom, and draw it.",
    "context": "In this experiment, you rub five things on wool and on polythene, and use a hanging balloon to see which way the charge went. Then you build a ladder from your results.",
    "setup": [
@@ -802,7 +802,7 @@
        ]
       }
      ],
-     "parent": "The balloon should lean gently towards your hand. If it does not, rub it ten more times. On a damp day, use an air-conditioned room, or blow a hair dryer on the wool and the balloon for 30 seconds first. Charge fades in about a minute, so you will recharge it often.",
+     "parent": "The balloon should lean gently towards your hand. If it does not, rub it ten more times. On a damp day, use an air-conditioned room. Or a grown-up can blow a hair dryer on the cool setting, held 30 centimetres away, on the wool for 30 seconds first. Never aim it at the balloon, because heat can burst it. Charge fades in about a minute, so you will recharge it often.",
      "check": {
       "t": "mcq",
       "q": "The charged balloon leans towards your plain hand. What does that show?",
@@ -947,7 +947,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep balloons and bits of burst balloon away from children under three.",
+   "safety": "Keep balloons and bits of burst balloon away from children under three. If anyone at home has a latex allergy, do not use latex balloons.",
    "record": "Fill in the table. Draw a bar chart with one bar for each number of rubs, using the gap beyond the resting gap.",
    "context": "In this experiment, you charge two balloons the same amount and measure how far apart they hang. You find out whether more rubbing pushes them proportionally further.",
    "setup": [
@@ -1502,7 +1502,7 @@
      "caption": "2. Day 1: test each thing on wool and polythene in a dry room."
     },
     {
-     "art": "The same child testing the bangle in a steamy bathroom with a hot tap running.",
+     "art": "The same child testing the bangle in a damp bathroom with a grown-up beside her and no electric appliances nearby.",
      "caption": "3. Day 2: test them again in a damp place."
     }
    ],
@@ -1539,6 +1539,7 @@
      "id": "s3",
      "mins": 25,
      "wait": "Do this on another day, in a damp place such as a bathroom after a hot shower.",
+     "adult": true,
      "do": "On the second day, hang the balloon in a damp place. Test the same four things on wool and polythene in the same way. Write R, A or 0 for each, in a new column.",
      "say": "Today the air is damp. Do the same tests as before. Do the things push the balloon as strongly? Why might that be?",
      "kid": "Test the same things in damp air. Write R, A or 0.",
@@ -1552,7 +1553,7 @@
        ]
       }
      ],
-     "parent": "Expect weaker pushes, or none. The charge leaks away through the thin film of water on every surface. If you get no results at all, that is the result: write 0. Do not try to dry the things with a heater.",
+     "parent": "Expect weaker pushes, or none. The charge leaks away through the thin film of water on every surface. If you get no results at all, that is the result: write 0. A grown-up should stay in the room, because wet floors are slippery. Keep the tap water cool and keep every plug and electric appliance well away. Do not try to dry the things with a heater.",
      "context": "In this step, you repeat the tests in damp air."
     },
     {
@@ -2097,14 +2098,14 @@
     },
     {
      "t": "mcq",
-     "p": "A balloon pulls paper bits strongly at 1 centimetre. How strong is the pull at 3 centimetres, if the law is the same?",
+     "p": "Two rubbed balloons push each other with some force at 1 centimetre apart. How strong is the push when they are 3 centimetres apart?",
      "opts": [
       "One ninth as strong",
       "One third as strong",
       "The same"
      ],
      "a": 0,
-     "why": "3 centimetres is 3 times as far. The pull divides by 3 times 3, which is 9. That is why a balloon that lifts paper at 1 centimetre does almost nothing at 10.",
+     "why": "3 centimetres is 3 times as far. The pull divides by 3 times 3, which is 9. That is why two balloons that push hard at 1 centimetre hardly push at 10.",
      "outcome": 5
     },
     {
@@ -2514,7 +2515,7 @@
    "art": "A hand holding a clear plastic carry bag that clings to the arm."
   },
   {
-   "text": "Dust that settles thickly on a TV screen or a fan blade, because they are slightly charged and pull dust to them.",
+   "text": "Dust that clings to an old TV screen, often because the screen is slightly charged and pulls dust to it.",
    "art": "A television screen with a thick layer of dust and a finger drawing a line through it."
   },
   {
@@ -2545,7 +2546,7 @@
   },
   {
    "q": "Why are charges made only in whole units of one electron?",
-   "why_open": "Every charge ever measured is a whole number of electron charges, but no one knows why charge comes in these units."
+   "why_open": "Every free charge ever measured is a whole number of electron charges, but no one knows why charge comes in these units."
   }
  ],
  "ask_kids": [
@@ -2855,5 +2856,5 @@
   "when": "1733 (du Fay's two kinds of charge), 1747 (Franklin's plus and minus) and 1897 (Thomson's electron)",
   "wrong_idea": "People thought rubbing made only one kind of electric power, and later that the glass gained a fluid. Du Fay's gold leaf, pushed by glass and pulled by resin, showed two kinds. The electron, found in 1897, showed that rubbed glass loses something instead of gaining it."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through on paper as if at home, with the materials listed. Static works far better in dry air. On a damp or rainy day, use an air-conditioned room, or blow a hair dryer on the wool and the balloon for 30 seconds first. The charge fades in about a minute, so the hanging balloon is recharged on wool after every three tests, and each thing is wiped clean with a damp hand and dried before the next. The pushes from the paper tube and the cotton wad are often weak or missing. The steps say to write 0 when that happens, because a weak charge is a real result, and they say what to try first. The Charge Ladder will not match every book, because published ladders disagree about close neighbours. The unit says so and asks the child to trust their own results first. Do a trial run of the ruler and the comb on wool before you start with your child, so you know what a clear push looks like. The Tape Twins need a clean, smooth table and a quick pull. The foil ball needs a smooth ball on a silk or cotton thread. Nothing in the spine needs a garden. Lightning is never tested, only explained. Facts to verify before this unit is published: the date and wording of Faraday's ice-pail experiment (1843); the Empire State Building being struck about twenty times a year; the figure of over two thousand lightning deaths a year in India; the 2011 and 2014 same-material charging papers; that a flying bumblebee carries a small plus charge and a flower a minus one; that the bright return stroke of lightning travels up; the rung positions of rubber and wood on the game's ladder, which differ between published tables; and that the Nehru Science Centre has electricity exhibits at present. The spine is the foil ball, the Charge Ladder, the explanation cards, roots and the quiz, about 95 minutes over two sessions."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through on paper as if at home, with the materials listed. Static works far better in dry air. On a damp or rainy day, use an air-conditioned room, or a grown-up can blow a hair dryer on the cool setting on the wool for 30 seconds first. The charge fades in about a minute, so the hanging balloon is recharged on wool after every three tests, and each thing is wiped clean with a damp hand and dried before the next. The pushes from the paper tube and the cotton wad are often weak or missing. The steps say to write 0 when that happens, because a weak charge is a real result, and they say what to try first. The Charge Ladder will not match every book, because published ladders disagree about close neighbours. The unit says so and asks the child to trust their own results first. Do a trial run of the ruler and the comb on wool before you start with your child, so you know what a clear push looks like. The Tape Twins need a clean, smooth table and a quick pull. The foil ball needs a smooth ball on a silk or cotton thread. Nothing in the spine needs a garden. Lightning is never tested, only explained. Facts checked: Faraday's ice-pail experiment (1843), Clarke 2013 and Waitukaitis 2014 are confirmed. Still to verify before publishing: the Empire State Building being struck about 20 to 25 times a year (confirmed from several sources); the figure of about 2,800 lightning deaths a year in India (national crime records for 2021 and 2022); the 2011 and 2014 same-material charging papers; that a flying bumblebee carries a small plus charge and a flower a minus one; that the bright return stroke of lightning travels up; the rung positions of rubber and wood on the game's ladder, which differ between published tables; and that the Nehru Science Centre has electricity exhibits at present. The spine is the foil ball, the Charge Ladder, the explanation cards, roots and the quiz, about 95 minutes over two sessions."
 }
