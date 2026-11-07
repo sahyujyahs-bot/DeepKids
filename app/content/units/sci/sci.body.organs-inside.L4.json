@@ -103,7 +103,7 @@
   },
   {
    "term": "Heart muscle",
-   "meaning": "The special muscle that makes up the heart. Unlike the muscles in your arm, it does not get tired and does not need a signal from the brain to beat.",
+   "meaning": "The special muscle that makes up the heart. Unlike the muscles in your arm, it does not tire out in the same way, and it does not need a signal from the brain to beat.",
    "example": "You can clench your fist until your arm aches, but your heart muscle goes on for a whole life.",
    "art": "A close drawing of heart muscle fibres branching and joined end to end."
   },
@@ -177,7 +177,7 @@
    "concept": "The pulse is a wave, not the blood itself",
    "status": "defined",
    "definition": "The pulse you feel in your wrist is a wave of stretch passing along the artery wall. It is not the same blood that left the heart a moment ago.",
-   "description": "When the heart squeezes, it pushes a bit of blood into the aorta, the biggest artery. The elastic wall stretches and then springs back, and that stretch runs along all the arteries like a ripple along a rope you flick. The ripple moves at about 5 to 10 metres per second. That is much faster than the blood itself, which moves at about walking pace in the aorta and much more slowly in small vessels. So your wrist feels the tap almost at once, though the blood from that beat takes much longer to arrive.",
+   "description": "When the heart squeezes, it pushes a bit of blood into the aorta, the biggest artery. The elastic wall stretches and then springs back, and that stretch runs along all the arteries like a ripple along a rope you flick. The ripple moves at about 5 to 10 metres per second. That is much faster than the blood itself, which moves at well under one metre a second in the aorta and much more slowly in small vessels. So your wrist feels the tap almost at once, though the blood from that beat takes much longer to arrive.",
    "examples": [
     "A flick along a long rope sends a ripple down it, though the rope itself does not travel.",
     "A Mexican wave in a stadium runs round the stand, though no person runs round.",
@@ -216,7 +216,7 @@
    "concept": "Automatic, but you can take over: who runs your breathing?",
    "status": "defined",
    "definition": "Groups of nerve cells in the brainstem keep your breathing rhythm going without you. The thinking part of the brain can also take over the breathing muscles for a while.",
-   "description": "In 1991, a team led by Jack Feldman found a small group of cells in the brainstem of mammals that set the rhythm of breathing. These cells keep going while you sleep. Sensors in your neck and brain measure the carbon dioxide in your blood, and if it rises, the rhythm speeds up. When you speak, sing, sigh or hold your breath, the thinking part of your brain sends its own signals to the same muscles. You can hold your breath for a short while, but as carbon dioxide builds up, the urge to breathe becomes strong. It is not possible to hold your breath until you faint, because the urge wins first. Never breathe fast and deep before holding your breath, because that can make you faint, especially in water.",
+   "description": "In 1991, a team led by Jack Feldman found a small group of cells in the brainstem of mammals that set the rhythm of breathing. These cells keep going while you sleep. Sensors in your neck and brain measure the carbon dioxide in your blood, and if it rises, the rhythm speeds up. When you speak, sing, sigh or hold your breath, the thinking part of your brain sends its own signals to the same muscles. You can hold your breath for a short while, but as carbon dioxide builds up, the urge to breathe becomes strong. In normal air, the urge nearly always wins first, so you breathe before you faint. Never breathe fast and deep before holding your breath, because that can make you faint, especially in water.",
    "examples": [
     "Breathing goes on in your sleep, and you cannot forget to do it.",
     "You choose to breathe out in a long note when you sing.",
@@ -268,7 +268,7 @@
    "concept": "Other bodies, other clocks",
    "status": "defined",
    "definition": "The smaller an animal is, the faster the heart usually beats. Heart rates run from a few beats a minute to over a thousand.",
-   "description": "An elephant's heart beats about 30 times a minute at rest. A person's beats about 70. A cat's beats about 150. A mouse's heart beats about 500 to 700 times a minute, and a hummingbird's can pass 1,000 in flight. Small bodies lose heat quickly and burn food fast, so their cells need oxygen very quickly. A blue whale is the other extreme. Scientists tagged blue whales in 2019 and recorded heart rates as slow as about 2 beats a minute during deep dives, and up to about 37 at the surface. Not every animal has a heart like ours. An insect has a long tube-shaped heart, and breathes through tiny tubes that carry air to every part, so its blood does not carry oxygen. An octopus has three hearts.",
+   "description": "An elephant's heart beats about 30 times a minute at rest. A person's beats about 70. A cat's beats about 150. A mouse's heart beats about 500 to 700 times a minute, and a hummingbird's can pass 1,000 in flight. Small bodies lose heat quickly and burn food fast, so their cells need oxygen very quickly. A blue whale is the other extreme. Scientists tagged blue whales in 2019 and recorded heart rates as slow as about 2 beats a minute during deep dives, and up to about 37 at the surface. Not every animal has a heart like ours. An insect has a long tube-shaped heart and breathes through tiny tubes that carry air to every part, so the blood does not need to carry oxygen. An octopus has three hearts.",
    "examples": [
     "An elephant: about 30 beats a minute.",
     "A cat: about 150 beats a minute.",
@@ -282,7 +282,7 @@
  "agreed": [
   {
    "text": "The heart starts its own beat. Its pacemaker cells fire without any signal from the brain.",
-   "evidence": "Hearts taken out of animals and kept in salty water go on beating. Transplanted human hearts, whose nerves are cut, beat at once in their new owners."
+   "evidence": "Hearts taken out of animals and kept in salty water go on beating. Transplanted human hearts, whose nerves are cut, go on beating in their new owners."
   },
   {
    "text": "The vagus nerve acts as a brake on the heart, and it is on in a resting person.",
@@ -317,7 +317,7 @@
    "claim": "The heart never rests.",
    "who": "A common saying.",
    "for": "The heart beats from before birth to the end of life without a long break.",
-   "against": "Between every beat, the heart muscle relaxes. At rest, about 60 per cent of each beat's time is spent relaxed. This pause is also when the heart's own blood vessels fill with blood to feed it.",
+   "against": "Between every beat, the heart muscle relaxes. At rest, a little more than half of each beat's time is spent relaxed. This pause is also when the heart's own blood vessels fill with blood to feed it.",
    "status": "rejected"
   },
   {
@@ -674,7 +674,7 @@
   {
    "id": "e1",
    "title": "Pulse Timeline: how fast does your pulse rise and fall?",
-   "mins": 55,
+   "mins": 60,
    "days": 1,
    "question": "How quickly does your pulse rise in the first seconds of exercise, and how quickly does it fall after you stop?",
    "predict": "Before you start, guess. After only 15 seconds of step-ups, will your pulse be a little higher or a lot higher than at rest? After you stop, will it fall quickly at first or slowly at first? Why do you think so?",
@@ -709,7 +709,7 @@
    ],
    "safety": "Use a low, firm step with nothing slippery on it, and keep a grown-up beside the child. Stop at once if the child feels dizzy, has pain in the chest or cannot catch their breath. A child with a heart or breathing condition should ask the doctor first.",
    "schedule": [],
-   "record": "Write the beats in 15 seconds at rest, after 15, 30 and 60 seconds of step-ups, and in the four windows after the last round. Multiply by 4 for each. Draw one line graph for the rise and a second for the fall.",
+   "record": "Write the beats in 15 seconds at rest, after 15, 30 and 60 seconds of step-ups, in the four windows after the last round, and at 2 and 3 minutes of rest. Multiply by 4 for each. Draw one line graph for the rise and a second for the fall.",
    "context": "In this experiment, you count your pulse at rest, after 15, 30 and 60 seconds of step-ups, and every 15 seconds after you stop. You find out when your pulse changes most.",
    "setup": [
     {
@@ -1371,8 +1371,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Work out how many claps a mouse and a hummingbird would need in 10 seconds. A mouse's heart beats about 600 times a minute, and a hummingbird's about 1,200 times a minute in flight. Try to flutter your fingers as fast as you can for 10 seconds.",
-     "say": "A mouse's heart beats about six hundred times a minute. How many beats is that in ten seconds? A hummingbird's in flight beats about twelve hundred times a minute. How many in ten seconds?",
+     "do": "Work out how many claps a mouse and a hummingbird would need in 10 seconds. A mouse's heart beats about 600 times a minute, and a hummingbird's can reach about 1,200 times a minute in flight. Try to flutter your fingers as fast as you can for 10 seconds.",
+     "say": "A mouse's heart beats about six hundred times a minute. How many beats is that in ten seconds? A hummingbird's in flight can reach about twelve hundred times a minute. How many in ten seconds?",
      "kid": "A mouse's heart beats 600 times a minute. How many beats is that in 10 seconds?",
      "ask": [
       {
@@ -1538,7 +1538,7 @@
   {
    "id": "c1",
    "title": "The Calm-Down Plan: bring a racing pulse down fastest",
-   "mins": 45,
+   "mins": 42,
    "problem": "After hard exercise, your pulse is racing. Design a routine of 45 seconds that brings it down as far as possible. Then count your pulse for 15 seconds, and test your routine against doing nothing but sitting.",
    "constraints": [
     "Use only things you have at home.",
@@ -1568,7 +1568,7 @@
     "Sit by a fan or open window while breathing slowly.",
     "Do a short slow stretch and a slow breath together."
    ],
-   "your_turn": "Invent your own one-minute routine. Test it against sitting still, using the same exercise and the same counts. Report which brought the pulse down further, and by how many beats.",
+   "your_turn": "Invent your own 45-second routine. Test it against sitting still, using the same exercise and the same counts. Report which brought the pulse down further, and by how many beats.",
    "context": "This is a design challenge about the heart's brake. You try to bring a racing pulse down quickly, and test your ideas with real counts.",
    "setup": [
     {
@@ -1589,7 +1589,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Make a list of ideas for calming a racing pulse. Choose two ideas to test, plus sitting still as the comparison.",
-     "say": "After hard exercise, your pulse is racing. How could you bring it down in one minute? Let us list ideas and pick two to test.",
+     "say": "After hard exercise, your pulse is racing. How could you bring it down quickly? Let us list ideas and pick two to test.",
      "kid": "Your pulse is racing after exercise. How could you calm it? List ideas.",
      "ask": [
       {
@@ -2037,7 +2037,7 @@
      "t": "write",
      "p": "A hummingbird is tiny and a blue whale is huge. Give one reason their hearts beat at such different speeds.",
      "lines": 3,
-     "a": "A tiny hummingbird loses heat quickly and burns food very fast, so its cells need oxygen very fast and its heart beats over 1,000 times a minute. A blue whale is huge and can slow the heart to a few beats a minute when it dives.",
+     "a": "A tiny hummingbird loses heat quickly and burns food very fast, so their cells need oxygen very fast and their heart beats over 1,000 times a minute. A blue whale is huge and can slow the heart to a few beats a minute when it dives.",
      "why": "A strong answer says that small bodies burn food faster for their size, so they need a faster heart. It may also say that a diving whale slows the heart to save oxygen.",
      "outcome": 6
     },
@@ -2231,7 +2231,7 @@
      "t": "write",
      "p": "Many scientists once thought nerves could only make organs do more. What finding showed this was wrong, and why was it a surprise?",
      "lines": 4,
-     "a": "In 1845 two brothers sent a small current into the vagus nerve of a frog, and the heart slowed down. It was a surprise because people thought a nerve could only push an organ to work harder.",
+     "a": "In 1845 two brothers, the Webers, sent a small current into the vagus nerve of a frog, and the heart slowed down. It was a surprise because people thought a nerve could only push an organ to work harder.",
      "why": "A strong answer says that a nerve was shown to slow an organ, and that this was a surprise because nerves were thought to make organs do more.",
      "outcome": 7
     },
@@ -2315,7 +2315,7 @@
     "It rose by the same amount each second"
    ],
    "a": 0,
-   "why": "It rose by 24 beats in the first 15 seconds, which is about 1.6 beats a second. After that it rose by about 1 beat a second, and then less.",
+   "why": "It rose by 24 beats in the first 15 seconds, which is about 1.6 beats a second. After that it rose by less than 1 beat a second (about 0.7), and then less.",
    "outcome": 1
   },
   {
@@ -2516,7 +2516,7 @@
   },
   {
    "problem": "A made-up child counted her pulse at six moments in a day. Lying in bed it was 72. After breakfast it was 88. At study time it was 84. Right after play it was 132. After dinner it was 90. In bed before sleep it was 76. What is the difference between her highest and lowest, and which two moments were within 4 beats of each other?",
-   "answer": "The difference is 60 beats a minute. Lying in bed (72) and in bed before sleep (76) were 4 apart. Breakfast (88) and dinner (90) were also close.",
+   "answer": "The difference is 60 beats a minute. Lying in bed (72) and in bed before sleep (76) were 4 apart. Breakfast (88) and dinner (90) were 2 apart, and study time (84) and breakfast (88) were 4 apart.",
    "explain": "The highest is 132 and the lowest is 72, and 132 take away 72 is 60. 76 take away 72 is 4. 90 take away 88 is 2, and 88 take away 84 is 4 as well. The sitting moments are all near each other, and play is far above them.",
    "math_unit": "math.data.line-graphs.L4",
    "how": "p1",
@@ -2793,7 +2793,7 @@
   },
   {
    "q": "Does a heart ever rest between beats?",
-   "a": "Yes. It relaxes for about half of every beat."
+   "a": "Yes. It relaxes for a little more than half of every beat."
   }
  ],
  "plan": {
@@ -2855,7 +2855,7 @@
    "DeepKids founder sheets: 'feel heartbeat and pulse' and 'sit in stillness and notice the heartbeat' (used in Two Clocks and in the Roots practice)"
   ],
   "science": [
-   "Weber, E. H. and Weber, E., 1845, the slowing of the frog heart by stimulating the vagus nerve, in Wagner's Handworterbuch der Physiologie",
+   "Weber, E. H. and Weber, E., reported 1845 and published 1846, the slowing of the frog heart by stimulating the vagus nerve, in Wagner's Handworterbuch der Physiologie",
    "Loewi, O., Uber humorale Ubertragbarkeit der Herznervenwirkung, Pflugers Archiv, 1921, and Loewi and Dale's shared Nobel Prize in Physiology or Medicine, 1936",
    "Jose, A. D. and Collison, D., The normal range and determinants of the intrinsic heart rate in man, Cardiovascular Research, 1970 (the intrinsic rate of the human pacemaker)",
    "Smith, J. C., Ellenberger, H. H., Ballanyi, K., Richter, D. W. and Feldman, J. L., Pre-Botzinger complex: a brainstem region that may generate respiratory rhythm in mammals, Science, 1991",
@@ -2897,7 +2897,7 @@
    },
    {
     "source": "Thich Nhat Hanh, Peace Is Every Step, 1991",
-    "teaching": "Breathing in, I calm my body. Breathing out, I smile. Breath is a way back to the present moment.",
+    "teaching": "Breathing in, I calm my body. Breathing out, I smile.",
     "link": "A longer breath out is one of the few ways we can steer the heart's brake, and the tests in this unit are a way to see that it can work."
    }
   ],
@@ -2928,5 +2928,5 @@
   ],
   "art": "A child sitting still with a hand on her wrist, while a faint ring of rhythm spreads from her chest out into a room full of ticking clocks, tides and birds."
  },
- "playtest": "Read as a parent and a child in a city flat would use it, but not yet done with a real child at home. Pulse Timeline: the step needs to be low and firm, and the 15-second step-up round, the 30-second round and the 60-second round each need about 2 to 3 minutes of rest, so the whole test takes close to an hour, and the spine counts it as the one long investigation. Counts wobble by one or two beats, so look at the shape of the curve and not single numbers. The rise should be easy to see (about 20 to 30 beats a minute in the first 15 seconds), and the recovery windows should fall steadily. If a child cannot count a fast pulse, a grown-up can count the neck pulse, or the child can count for 10 seconds and multiply by 6. Chest Tape: a quiet breath moves the tape by only about 1 centimetre, so read it right at the end of each breath and repeat once. Slumping usually, but not always, shrinks the deepest breath. Waiting for the Bell: the effect is small, perhaps 1 to 3 beats in 15 seconds, and it may not show in every family. That is a true result, and the activity says so. Pulse and Breath Dance: many families will not see a difference by hand. Who Is in Charge: all 24 cards were checked against the three kinds, and the game works for one player by answering aloud. Facts to verify before release: the ages and ranges for resting pulse and breathing in children aged 6 to 10; the intrinsic rate of the pacemaker (about 100 to 115 a minute, Jose and Collison 1970); the pulse wave speed of 5 to 10 metres a second; the heart rates of a mouse, hummingbird and blue whale; the Hayano 1996 study and the Wenger, Bagchi and Anand 1961 findings on yogis; Loewi's dream account; and the claim that the dive reflex is shown by many people. The video entries still need their ids found."
+ "playtest": "Read as a parent and a child in a city flat would use it, but not yet done with a real child at home. Pulse Timeline: the step needs to be low and firm, and the 15-second step-up round, the 30-second round and the 60-second round each need about 2 to 3 minutes of rest, so the whole test takes close to an hour, and the spine counts it as the one long investigation. Counts wobble by one or two beats, so look at the shape of the curve and not single numbers. The rise should be easy to see (about 20 to 30 beats a minute in the first 15 seconds), and the recovery windows should fall steadily. If a child cannot count a fast pulse, a grown-up can count the neck pulse, or the child can count for 10 seconds and multiply by 6. Chest Tape: a quiet breath moves the tape by only about 1 centimetre, so read it right at the end of each breath and repeat once. Slumping usually, but not always, shrinks the deepest breath. Waiting for the Bell: the effect is small, perhaps 1 to 3 beats in 15 seconds, and it may not show in every family. That is a true result, and the activity says so. Pulse and Breath Dance: many families will not see a difference by hand. Who Is in Charge: all 24 cards were checked against the three kinds, and the game works for one player by answering aloud. Facts checked: the blue whale rates (2 beats a minute in dives, up to 37 at the surface, Goldbogen 2019) and the Weber brothers' 1845 frog result were confirmed online. Still to confirm from a book or paper before release: the resting pulse and breathing ranges for ages 6 to 10, the pacemaker rate (about 100 to 115, Jose and Collison 1970), the pulse wave speed of 5 to 10 metres a second, the mouse and hummingbird rates, the Hayano 1996 and Wenger, Bagchi and Anand 1961 findings, and Loewi's dream account. The video entries still need their ids found."
 }

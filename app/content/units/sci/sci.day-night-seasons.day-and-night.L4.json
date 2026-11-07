@@ -3,11 +3,11 @@
   "title": "Day and night: why the Sun reaches Guwahati before Mumbai",
   "level": 4,
   "summary": {
-    "text": "One Sun, one country and one clock, yet the Sun rises over Guwahati more than an hour before it rises over Mumbai. You check this with sunrise and sunset times from five cities, and you find a neat pattern hidden in the untidy numbers: the Sun is highest about 4 minutes later for every degree you go west. You measure the spinning Earth on an orange and find that a person in Chennai is carried much faster than a person near the Arctic, though both make one turn a day. Then you follow the spin out to the length of a day on other planets, to a day that is slowly getting longer, and to the animals who live in the dark.",
+    "text": "One Sun, one country and one clock, yet the Sun rises over Guwahati about an hour before it rises over Mumbai. You check this with sunrise and sunset times from five cities, and you find a neat pattern hidden in the untidy numbers: the Sun is highest about 4 minutes later for every degree you go west. You measure the spinning Earth on an orange and find that a person in Chennai is carried much faster than a person near the Arctic, though both make one turn a day. Then you follow the spin out to the length of a day on other planets, to a day that is slowly getting longer, and to the animals who live in the dark.",
     "art": "A map of India with five glowing clock faces from Guwahati in the east to Mumbai in the west, each showing a time a little later than the one before."
   },
   "intro": {
-    "hook": "Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are more than an hour apart. Did the Sun visit Guwahati first?",
+    "hook": "Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are about an hour apart. Did the Sun visit Guwahati first?",
     "text": "The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this unit you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.",
     "art": "A phone screen showing two sunrise times, Guwahati and Mumbai, more than an hour apart, held in front of a globe of India."
   },
@@ -132,7 +132,7 @@
       "concept": "Clock time and Sun time: Indian Standard Time",
       "status": "defined",
       "definition": "Indian Standard Time is the one clock time used all over India. It matches the Sun on the line of longitude 82.5 degrees east, which passes near Mirzapur in Uttar Pradesh. It is 5 hours 30 minutes ahead of the world's reference time, UTC.",
-      "description": "Long ago, every town set its clocks by its own Sun. That worked until trains and the telegraph needed timetables that made sense in many towns. In 1906 British India adopted one standard time for the whole country. It is still used today. On this clock, the Sun is highest at 12 o'clock only on the line 82.5 degrees east. Chennai is about 2 degrees west of that line, so its noon comes about 9 minutes after 12. Guwahati is about 9 degrees east of it, so its noon comes about 37 minutes before 12. Dong, in Arunachal Pradesh, is about 14 degrees east, so its noon comes close to an hour before 12. These noon times are yearly averages. During the year the Sun's noon moves a few minutes either way, but the gaps between cities stay the same. The clock is an agreement among people. The Sun's time belongs to each place. Some tea gardens in Assam have kept their own garden time, one hour ahead of Indian Standard Time, so that work starts at sunrise.",
+      "description": "Long ago, every town set its clocks by its own Sun. That worked until trains and the telegraph needed timetables that made sense in many towns. In 1906 British India introduced one standard time, Indian Standard Time. Calcutta and Bombay kept their own city clocks for many more years. Today one Indian Standard Time is used for the whole country. On this clock, the Sun is highest at 12 o'clock only on the line 82.5 degrees east. Chennai is about 2 degrees west of that line, so its noon comes about 9 minutes after 12. Guwahati is about 9 degrees east of it, so its noon comes about 37 minutes before 12. Dong, in Arunachal Pradesh, is about 14 degrees east, so its noon comes close to an hour before 12. These noon times are yearly averages. During the year the Sun's noon moves a few minutes either way, but the gaps between cities stay the same. The clock is an agreement among people. The Sun's time belongs to each place. Some tea gardens in Assam have kept their own garden time, one hour ahead of Indian Standard Time, so that work starts at sunrise.",
       "examples": [
         "Noon by the Sun in Mumbai is about 12:38, not 12:00.",
         "Noon by the Sun in Guwahati is about 11:23, not 12:00.",
@@ -275,7 +275,7 @@
     {
       "claim": "India should have two time zones.",
       "who": "Some people in the north-east of India, and some scientists.",
-      "for": "In the east, the Sun rises very early and sets early. People lose daylight in the evening, and children may walk to school in the dark in winter.",
+      "for": "In the east, the Sun rises very early and sets early. In winter it is dark soon after 4 in the afternoon, so people lose daylight in the evening, and children may walk home from school in the dark.",
       "against": "Two clocks inside one country could confuse trains, flights, banks and phone systems. Many people prefer the simplicity of one time.",
       "status": "debated"
     },
@@ -318,7 +318,7 @@
       "hint": "Think about the small circle at the Arctic and your orange."
     },
     {
-      "q": "In the north-east, children may walk to school in the dark in winter, while the clock says it is already morning. Should a country's clock follow the Sun, or follow what is easy to share?",
+      "q": "In the north-east in winter, the Sun sets before 5 in the afternoon, so children may walk home in the dark, though the Sun was up before most of them woke. Should a country's clock follow the Sun, or follow what is easy to share?",
       "kind": "big",
       "hint": "Think about who gains and who loses with each choice."
     },
@@ -344,7 +344,7 @@
       "On her first morning in our flat, Patti sat at the east window with her tea. It was grey and dark outside. The sea was only a darker darkness beyond the rooftops. She waited, and nothing happened.",
       "'This Sun is lazy,' she said. 'At home it would be up by now.'",
       "She said it the next morning too, and the morning after. Slowly her tea went cold in her hands. I was nine, and I did not know what to say.",
-      "At six every day, Patti rang Rajam. And every day Rajam sent a photograph from her window: the sea, the sky, a ribbon of orange. Patti looked at it for a long time.",
+      "Every morning, Patti rang Rajam. And every day Rajam sent a photograph from her window: the sea, the sky, a ribbon of orange. Patti looked at it for a long time.",
       "'My sister's morning is already over,' she said once. 'Here it is only starting. I am always late in this city.'",
       "That week at school, our teacher, Ms Hema, gave us a puzzle. She turned the classroom globe slowly. 'The Earth turns all the way round, three hundred and sixty degrees, in twenty-four hours,' she said. 'How many minutes is that for one degree?'",
       "We worked it out on our slates. Twenty-four hours is one thousand four hundred and forty minutes. Divided by three hundred and sixty, it is four. The Earth turns one degree every four minutes.",
@@ -383,13 +383,13 @@
   "roots": {
     "context": "We have followed the Sun's light round the spinning Earth, from Guwahati to Mumbai. Now we ask what this tells us about morning, about time, and about our own place in it.",
     "deep_truth": {
-      "truth": "Sunrise is not an event that happens to a whole country at once. It is a line that crosses the Earth and never stops. The dawn that reached Guwahati arrived in Mumbai more than an hour later. So morning belongs to a place, and no one moment is morning for everyone.",
+      "truth": "Sunrise is not an event that happens to a whole country at once. It is a line that crosses the Earth and never stops. The dawn that reached Guwahati arrived in Mumbai about an hour later. So morning belongs to a place, and no one moment is morning for everyone.",
       "habit": "We say 'the Sun rises at 6' as if morning were one thing that happens to everyone together. One clock for a whole country hides the fact that each place has its own morning, and that the Sun's time and the clock's time are different things.",
       "evidence": "In the noon table, the Sun was highest about 4 minutes later for every degree west. Five cities under one Sun and one clock had five different noons. And because the Earth keeps turning, a dawn is always crossing somewhere."
     },
     "three": {
-      "who_am_i": "You are not waiting for the morning to come to you. You are being carried through it, at more than 1,500 kilometres an hour, on a turning Earth.",
-      "what_is_life": "Birds, flowers and people wake as the dawn reaches them. A wave of birdsong follows the line of dawn all the way round the world.",
+      "who_am_i": "You are not waiting for the morning to come to you. You are being carried through it, at about 1,500 kilometres an hour, on a turning Earth.",
+      "what_is_life": "Birds, flowers and people wake as the dawn reaches them. Many birds start singing as the light arrives, so a wave of birdsong travels with the line of dawn round the world.",
       "what_is_this_world": "There is one Sun and one turning Earth. So a line of dawn and a line of dusk are always crossing the planet, and somewhere it is always morning."
     },
     "thread": "From one Sun comes light, and from one turning Earth comes a dawn that passes from place to place. No place owns the morning. Each place receives it a few minutes after its eastern neighbour, and passes it on to the west. The many mornings are one morning, handed on. This is the one becoming the many in time. A single dawn line, circling the world, becomes a different time of day for every place it crosses.",
@@ -676,7 +676,7 @@
             },
             {
               "f": "A house gecko waits beside a tube light on a wall. How does she spot a moth?",
-              "b": "Eyes. Her eyes work in dim light, and geckos can even see colours at night."
+              "b": "Eyes. Her eyes work in dim light, and some geckos can even see colours at night."
             },
             {
               "f": "A leopard walks through a forest at night. How does she see her way?",
@@ -839,7 +839,7 @@
           "qty": 1
         },
         {
-          "item": "the list of longitudes: Guwahati 92, Kolkata 88, Chennai 80, Kochi 76 and Mumbai 73 degrees east",
+          "item": "the list of longitudes: Guwahati 91.7, Kolkata 88.4, Chennai 80.3, Kochi 76.3 and Mumbai 72.9 degrees east",
           "qty": 1
         },
         {
@@ -935,7 +935,7 @@
         {
           "id": "s5",
           "mins": 3,
-          "do": "Divide each gap in minutes by the gap in degrees of longitude from Guwahati. For Mumbai, that is the gap in minutes divided by 19 degrees. What number do you keep getting?",
+          "do": "Divide each gap in minutes by the gap in degrees of longitude from Guwahati. For Mumbai, that is the gap in minutes divided by 19 degrees, which is about 91.7 minus 72.9. What number do you keep getting?",
           "say": "Look at the longitudes. Divide each gap in minutes by the gap in degrees from Guwahati. What number do you keep getting?",
           "kid": "Divide minutes by degrees for each city. What number do you get?",
           "ask": [
@@ -1009,7 +1009,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up should help with the scissors if your child is young. Wash the orange peel marks off your hands before eating the orange.",
+      "safety": "A grown-up should help with the scissors if your child is young. Draw on the peel only, and do not eat the orange afterwards. Wash your hands after using the pen.",
       "record": "Fill in the table with the three lengths. Then draw a bar chart with one bar for each circle.",
       "context": "In this experiment, you draw circles on an orange to stand in for the Earth, and measure them to find out which places are carried fastest as the Earth spins.",
       "setup": [
@@ -1065,17 +1065,17 @@
           "do": "Lay a thread along the skin from the equator line up to the North Pole dot, and cut it. Measure it with the ruler. Work out one third and two thirds of its length. Mark both points on four sides of the orange.",
           "say": "Lay a thread from the equator up to the North Pole. Cut it and measure it. Mark one third and two thirds of the way up, on four sides.",
           "kid": "Measure from the equator to the pole. Mark one third and two thirds.",
-          "parent": "The way from the equator to the pole is one quarter of the way round the Earth, which is 90 degrees. One third of it is 30 degrees of latitude. Two thirds of it is 60 degrees. For a 12 centimetre thread, mark 4 and 8 centimetres from the equator. Delhi is close to the 30 degree circle. Oslo and Helsinki are close to the 60 degree circle.",
+          "parent": "The way from the equator to the pole is one quarter of the way round the Earth, which is 90 degrees. One third of it is 30 degrees of latitude. Two thirds of it is 60 degrees. For a 6 centimetre thread, mark 2 and 4 centimetres from the equator. Delhi is close to the 30 degree circle. Oslo and Helsinki are close to the 60 degree circle.",
           "check": {
             "t": "mcq",
-            "q": "The thread from the equator to the pole is 12 centimetres long. Where is the mark for two thirds of the way?",
+            "q": "The thread from the equator to the pole is 6 centimetres long. Where is the mark for two thirds of the way?",
             "options": [
-              "8 centimetres from the equator",
-              "6 centimetres from the equator",
-              "10 centimetres from the equator"
+              "4 centimetres from the equator",
+              "3 centimetres from the equator",
+              "5 centimetres from the equator"
             ],
             "a": 0,
-            "why": "Two thirds of 12 is 8, because 12 divided by 3 is 4 and 4 times 2 is 8."
+            "why": "Two thirds of 6 is 4, because 6 divided by 3 is 2 and 2 times 2 is 4."
           },
           "context": "In this step, you mark two more circles on the orange, one third and two thirds of the way from the equator to the pole."
         },
@@ -1333,7 +1333,7 @@
           "say": "Now use the torch with the red cover. Look at a wall near a light. What is there? Count how many creatures you see.",
           "kid": "Shine the red torch near a light. Count the creatures you see.",
           "adult": true,
-          "parent": "Red light disturbs animals less than white light and does not spoil your own night vision. Do not shine the torch into the eyes of an animal. If there are no animals, look at how the light attracts insects, and note which light sources are near.",
+          "parent": "Red light usually disturbs animals less than white light and does not spoil your own night vision. Do not shine the torch into the eyes of an animal. If there are no animals, look at how the light attracts insects, and note which light sources are near.",
           "check": {
             "t": "mcq",
             "q": "Why do we use a red torch and not a white one?",
@@ -1442,7 +1442,7 @@
           "say": "Now wait ten minutes in the dark. Do not look at any screen. Your eyes slowly get better at seeing dim things. Then count again.",
           "kid": "Wait ten minutes in the dark. No screens. Then count again.",
           "adult": true,
-          "parent": "Your eyes need 20 to 30 minutes in the dark to see at their best, but the first ten minutes give most of the change. Expect to see several more stars the second time, but still far fewer than in a village sky.",
+          "parent": "Your eyes need 20 to 30 minutes in the dark to see at their best, and the first ten minutes already give a clear change. Expect to see several more stars the second time, but still far fewer than in a village sky.",
           "check": {
             "t": "mcq",
             "q": "Your child counts more stars after waiting in the dark. Why?",
@@ -1552,7 +1552,7 @@
               "good": [
                 "It spins like a top.",
                 "It was spun fast when it formed.",
-                "It does not have any friction to slow it."
+                "It formed from a fast-spinning cloud."
               ]
             }
           ],
@@ -1620,13 +1620,13 @@
           "do": "Read the facts together. India has one clock, Indian Standard Time. The Sun is highest about an hour earlier in the far east than in the middle. In the far west it is about an hour later. Vote now: one time zone or two?",
           "say": "India uses one clock. In the far east, the Sun rises very early. In the far west, it rises much later by the same clock. Should India have one time zone or two? Vote now, before we talk.",
           "kid": "India has one clock. Should it have one zone or two? Vote now.",
-          "parent": "Write the first vote down. The roles are: a tea planter in Assam, a railway timetable planner, a Class 4 child in Arunachal Pradesh who walks to school in winter, and a shopkeeper in Gujarat. Some Assam tea gardens already keep their own garden time, one hour ahead of Indian Standard Time.",
+          "parent": "Write the first vote down. The roles are: a tea planter in Assam, a railway timetable planner, a Class 4 child in Arunachal Pradesh who walks home from school in winter, and a shopkeeper in Gujarat. Some Assam tea gardens already keep their own garden time, one hour ahead of Indian Standard Time.",
           "context": "This is the first step of the Clock Debate. You vote before you hear the arguments."
         },
         {
           "id": "s2",
           "mins": 12,
-          "do": "Give each person a role card. Each one speaks for one minute for their role, then all four may ask each other questions. The planner worries about confusion. The child worries about walking to school in the dark.",
+          "do": "Give each person a role card. Each one speaks for one minute for their role, then all four may ask each other questions. The planner worries about confusion. The child worries about walking home from school in the dark.",
           "say": "Each of us speaks for one minute as the person on the card. Say what you would gain or lose. Then we may ask each other questions.",
           "kid": "Speak for one minute as your role. What would you gain or lose?",
           "ask": [
@@ -1641,7 +1641,7 @@
             {
               "q": "What would change for the child in Arunachal Pradesh?",
               "good": [
-                "School could start later by the clock.",
+                "Sunset would come an hour later by the clock.",
                 "More light in the evening.",
                 "Less walking in the dark."
               ]
@@ -1880,7 +1880,7 @@
           "do": "Choose a start time in Chennai, and write down the time in each place. Check that nobody is called too early or too late.",
           "say": "Pick a start time. Write the time in all five places. Is anyone too early or too late?",
           "kid": "Pick a start time. Write the time in each place. Check each one.",
-          "parent": "Any start time between 3 pm and 4:30 pm in Chennai works. At 3:30 pm: Dubai is 2 pm, London is 10 am, Singapore is 6 pm and Tokyo is 7 pm. A good discussion point is why Singapore and Tokyo are so far ahead of the Sun time you would expect from their longitudes. Clock times are agreements, and countries choose them for many reasons.",
+          "parent": "Any start time between 3 pm and 4:30 pm in Chennai works. At 3:30 pm: Dubai is 2 pm, London is 10 am, Singapore is 6 pm and Tokyo is 7 pm. A good discussion point is why Singapore's clock is about an hour ahead of its Sun time. Clock times are agreements, and countries choose them for many reasons.",
           "think": "Which place made the plan hardest, and why?",
           "context": "This is the last step of the challenge. You choose a time and check it."
         }
@@ -2327,7 +2327,7 @@
             },
             {
               "who": "Arjun, a boy in Class 4 (an imagined view)",
-              "says": "School in the east should start earlier by the clock. The Sun rises hours earlier there, and we should use the morning light."
+              "says": "School in the east should start earlier by the clock. The Sun rises much earlier there, and we should use the morning light."
             }
           ],
           "ask": "Whose view do you agree with more? What facts about the Sun and the clock would help you decide?",
@@ -2779,7 +2779,7 @@
     },
     {
       "j": "Why was the moth so tired?",
-      "a": "It spent all night going round and round a lamp."
+      "a": "They spent all night going round and round a lamp."
     },
     {
       "j": "Why does the equator never get dizzy?",
@@ -3089,7 +3089,7 @@
     ]
   },
   "how_we_found_out": {
-    "story": "For a long time most people pictured the Earth as a perfect ball. In 1672, French astronomer Jean Richer took a pendulum clock to Cayenne, near the equator. It lost about two and a half minutes a day compared with Paris, as if gravity were weaker there. In 1687, Isaac Newton explained why. A spinning ball of rock and water must bulge at its middle, as soft clay does. Yet the Cassini family in France measured the ground and believed the Earth was longer from pole to pole, like a lemon. In 1735 and 1736, the French Academy sent two expeditions to settle it. One went to Peru near the equator. The other went to Lapland near the North Pole. Both measured the ground length of one degree of latitude. The degree in Lapland was longer, which means the ground curves less near the pole. The Earth is flatter at its poles, as Newton said. The French writer and scientist Émilie du Châtelet, who later translated Newton's book into French, had argued for his side.",
+    "story": "For a long time most people pictured the Earth as a perfect ball. In 1672, French astronomer Jean Richer took a pendulum clock to Cayenne, near the equator. It lost about two and a half minutes a day compared with Paris, as if gravity were weaker there. In 1687, Isaac Newton explained why. A spinning ball of rock and water must bulge at its middle, as soft clay does. Yet the Cassini family in France measured the ground and believed the Earth was longer from pole to pole, like a lemon. In 1735 and 1736, the French Academy sent two expeditions to settle it. One went to Peru near the equator. The other went to Lapland, far in the north. Both measured the ground length of one degree of latitude. The degree in Lapland was longer, which means the ground curves less near the pole. The Earth is flatter at its poles, as Newton said. The French writer and scientist Émilie du Châtelet, who later translated Newton's book into French, had argued for his side.",
     "who": "Jean Richer, Isaac Newton, and the French Academy expeditions led by Pierre Louis Maupertuis and Charles Marie de La Condamine",
     "when": "1672 to 1740",
     "wrong_idea": "Many French scientists, including the Cassini family, believed the Earth was longer from pole to pole than across the equator, like a lemon. The two expeditions showed that it is flattened at the poles, and wider at the equator, because it spins."

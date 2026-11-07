@@ -1953,7 +1953,9 @@
     "sci.animals.insects.L4",
     "sci.animals.body-plans.L4",
     "sci.animals.courtship-and-mates.L4",
-    "sci.animals.animal-minds.L4"
+    "sci.animals.animal-minds.L4",
+    "sci.animals.invertebrates.L4",
+    "sci.animals.vertebrate-groups.L4"
    ],
    "chapters": [
     "N4-3"
@@ -6126,6 +6128,47 @@
     "sci.animals.animals-around-us.L3"
    ],
    "go_deep": [
+    "sci.animals.vertebrate-groups.L4"
+   ],
+   "go_wide": [
+    "sci.animals.animals-around-us.L3",
+    "sci.animals.animal-life-cycles.L3",
+    "sci.animals.animal-bodies.L3",
+    "sci.animals.animal-minds.L3",
+    "sci.animals.invertebrates.L3",
+    "sci.classification.sorting-living-things.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:28",
+    "bio:29",
+    "bio:30",
+    "bio:31",
+    "bio:178"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.animals.vertebrate-groups.L4",
+   "subject": "sci",
+   "topic": "animals",
+   "topic_name": "Animals",
+   "strand": "Life",
+   "topic_level": "sci.animals.L4",
+   "subtopic": "vertebrate-groups",
+   "name": "Fish, amphibians, reptiles, birds and mammals",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Five groups, five worlds: how fish, frogs, snakes, birds and mammals sense the same place.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.animals.vertebrate-groups.L3"
+   ],
+   "go_deep": [
     "sci.animals.vertebrate-groups.L5"
    ],
    "go_wide": [
@@ -6164,8 +6207,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.animals.vertebrate-groups.L3",
-    "sci.animals.animals-around-us.L3"
+    "sci.animals.vertebrate-groups.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -6207,6 +6249,43 @@
     "sci.animals.animals-around-us.L3"
    ],
    "go_deep": [
+    "sci.animals.invertebrates.L4"
+   ],
+   "go_wide": [
+    "sci.animals.animals-around-us.L3",
+    "sci.animals.animal-life-cycles.L3",
+    "sci.animals.animal-bodies.L3",
+    "sci.animals.animal-minds.L3",
+    "sci.animals.vertebrate-groups.L3",
+    "sci.animals.insects.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:177"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.animals.invertebrates.L4",
+   "subject": "sci",
+   "topic": "animals",
+   "topic_name": "Animals",
+   "strand": "Life",
+   "topic_level": "sci.animals.L4",
+   "subtopic": "invertebrates",
+   "name": "Animals without backbones",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Animals without backbones: how they breathe with no lungs.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.animals.invertebrates.L3"
+   ],
+   "go_deep": [
     "sci.animals.invertebrates.L5"
    ],
    "go_wide": [
@@ -6241,8 +6320,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.animals.invertebrates.L3",
-    "sci.animals.animals-around-us.L3"
+    "sci.animals.invertebrates.L4"
    ],
    "go_deep": [],
    "go_wide": [
