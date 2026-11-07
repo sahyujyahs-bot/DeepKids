@@ -1017,6 +1017,21 @@
    ]
   },
   {
+   "id": "sci.air.L4",
+   "subject": "sci",
+   "topic": "air",
+   "name": "Air",
+   "strand": "Earth and space",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "sci.air.air-around-us.L4"
+   ],
+   "chapters": []
+  },
+  {
    "id": "sci.animal-behaviour.L3",
    "subject": "sci",
    "topic": "animal-behaviour",
@@ -1914,7 +1929,8 @@
    ],
    "subtopic_levels": [
     "sci.animal-behaviour.born-knowing.L4",
-    "sci.animal-behaviour.animal-communication.L4"
+    "sci.animal-behaviour.animal-communication.L4",
+    "sci.animal-behaviour.migration.L4"
    ],
    "chapters": []
   },
@@ -24604,7 +24620,7 @@
     "sci.air.air-around-us.L1"
    ],
    "go_deep": [
-    "sci.air.air-around-us.L5",
+    "sci.air.air-around-us.L4",
     "sci.weather.wind-and-air.L3",
     "sci.states.solids-liquids-gases.L4"
    ],
@@ -24619,6 +24635,38 @@
    "chapter_refs": [
     "NIOS Level A Lesson 7 Our Basic Needs"
    ]
+  },
+  {
+   "id": "sci.air.air-around-us.L4",
+   "subject": "sci",
+   "topic": "air",
+   "topic_name": "Air",
+   "strand": "Earth and space",
+   "topic_level": "sci.air.L4",
+   "subtopic": "air-around-us",
+   "name": "Air around us",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Air pushes in every direction: a card holds up a glass of water, and nothing really sucks.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.air.air-around-us.L3"
+   ],
+   "go_deep": [
+    "sci.air.air-around-us.L5"
+   ],
+   "go_wide": [
+    "sci.plants.photosynthesis.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:63"
+   ],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.air.air-around-us.L5",
@@ -24637,7 +24685,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.air.air-around-us.L3"
+    "sci.air.air-around-us.L4"
    ],
    "go_deep": [
     "sci.weather.wind-and-air.L5",
@@ -31004,6 +31052,44 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.animal-behaviour.migration.L4"
+   ],
+   "go_wide": [
+    "sci.animal-behaviour.animal-learning.L3",
+    "sci.animal-behaviour.animal-societies.L3",
+    "sci.animal-behaviour.foraging-and-survival.L3",
+    "sci.magnets.compass-and-earth.L4",
+    "sci.day-night-seasons.seasons.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:126",
+    "bio:127",
+    "bio:128"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.animal-behaviour.migration.L4",
+   "subject": "sci",
+   "topic": "animal-behaviour",
+   "topic_name": "Animal behaviour",
+   "strand": "Life",
+   "topic_level": "sci.animal-behaviour.L4",
+   "subtopic": "migration",
+   "name": "Migration and navigation",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "How a body is built for a journey across the world: fuel, wings and the weight of a falcon.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.animal-behaviour.migration.L3"
+   ],
+   "go_deep": [
     "sci.animal-behaviour.migration.L5"
    ],
    "go_wide": [
@@ -31039,7 +31125,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.animal-behaviour.migration.L3"
+    "sci.animal-behaviour.migration.L4"
    ],
    "go_deep": [],
    "go_wide": [
