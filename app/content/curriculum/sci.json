@@ -1930,7 +1930,8 @@
    "subtopic_levels": [
     "sci.animal-behaviour.born-knowing.L4",
     "sci.animal-behaviour.animal-communication.L4",
-    "sci.animal-behaviour.migration.L4"
+    "sci.animal-behaviour.migration.L4",
+    "sci.animal-behaviour.animal-societies.L4"
    ],
    "chapters": []
   },
@@ -1973,7 +1974,8 @@
     "sci.body.heart-blood-breath.L4",
     "sci.body.kidneys-and-waste.L4",
     "sci.body.messages-in-the-body.L4",
-    "sci.body.immune-system.L4"
+    "sci.body.immune-system.L4",
+    "sci.body.keeping-balance.L4"
    ],
    "chapters": [
     "C4-1.1",
@@ -1995,7 +1997,8 @@
    "subtopic_levels": [
     "sci.changes.reversible-and-irreversible.L4",
     "sci.changes.chemical-reactions.L4",
-    "sci.changes.kitchen-science.L4"
+    "sci.changes.kitchen-science.L4",
+    "sci.changes.fire.L4"
    ],
    "chapters": [
     "C4-3.4"
@@ -9683,6 +9686,44 @@
     "sci.body.organs-inside.L3"
    ],
    "go_deep": [
+    "sci.body.keeping-balance.L4"
+   ],
+   "go_wide": [
+    "sci.body.body-parts.L3",
+    "sci.body.organs-inside.L3",
+    "sci.body.heart-blood-breath.L3",
+    "sci.body.immune-system.L3",
+    "sci.body.how-babies-grow.L3",
+    "sci.body.growing-old.L3",
+    "sci.frontiers.life-as-a-system.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:11"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.body.keeping-balance.L4",
+   "subject": "sci",
+   "topic": "body",
+   "topic_name": "Our bodies",
+   "strand": "Body and health",
+   "topic_level": "sci.body.L4",
+   "subtopic": "keeping-balance",
+   "name": "How the body keeps itself steady",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Two pushes make a steady level: sugar, breath, pulse and pupils.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.body.keeping-balance.L3"
+   ],
+   "go_deep": [
     "sci.body.keeping-balance.L5"
    ],
    "go_wide": [
@@ -9718,8 +9759,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.body.keeping-balance.L3",
-    "sci.body.organs-inside.L5"
+    "sci.body.keeping-balance.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -14476,6 +14516,39 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.changes.fire.L4"
+   ],
+   "go_wide": [
+    "sci.what-is-life.edge-of-life.L3",
+    "sci.energy.heat.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:198"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.changes.fire.L4",
+   "subject": "sci",
+   "topic": "changes",
+   "topic_name": "Changing materials",
+   "strand": "Matter",
+   "topic_level": "sci.changes.L4",
+   "subtopic": "fire",
+   "name": "Fire",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Where the wax goes when a candle burns, and why burning loses nothing.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.changes.fire.L3"
+   ],
+   "go_deep": [
     "sci.changes.fire.L5"
    ],
    "go_wide": [
@@ -14506,7 +14579,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.changes.fire.L3"
+    "sci.changes.fire.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -30901,6 +30974,47 @@
     "sci.animal-behaviour.animal-communication.L2"
    ],
    "go_deep": [
+    "sci.animal-behaviour.animal-societies.L4"
+   ],
+   "go_wide": [
+    "sci.animal-behaviour.animal-learning.L3",
+    "sci.animal-behaviour.foraging-and-survival.L3",
+    "sci.animal-behaviour.migration.L3",
+    "sci.ecology.interdependence.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:111",
+    "bio:112",
+    "bio:113",
+    "bio:114",
+    "bio:115",
+    "bio:116",
+    "bio:224"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.animal-behaviour.animal-societies.L4",
+   "subject": "sci",
+   "topic": "animal-behaviour",
+   "topic_name": "Animal behaviour",
+   "strand": "Life",
+   "topic_level": "sci.animal-behaviour.L4",
+   "subtopic": "animal-societies",
+   "name": "Animal societies",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Hives, mounds and nests: how bees, wasps and termites share the work.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.animal-behaviour.animal-societies.L3"
+   ],
+   "go_deep": [
     "sci.animal-behaviour.animal-societies.L5"
    ],
    "go_wide": [
@@ -30939,8 +31053,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.animal-behaviour.animal-societies.L3",
-    "sci.animal-behaviour.animal-communication.L5"
+    "sci.animal-behaviour.animal-societies.L4"
    ],
    "go_deep": [],
    "go_wide": [
