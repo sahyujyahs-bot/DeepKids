@@ -2126,7 +2126,8 @@
     "sci.electricity.electrical-safety.L4",
     "sci.electricity.circuits.L4",
     "sci.electricity.conductors-and-insulators.L4",
-    "sci.electricity.switches.L4"
+    "sci.electricity.switches.L4",
+    "sci.electricity.simple-circuits.L4"
    ],
    "chapters": [
     "C4-6.2",
@@ -2151,7 +2152,8 @@
     "sci.energy.transfers.L4",
     "sci.energy.energy-in-living-things.L4",
     "sci.energy.sources-and-saving.L4",
-    "sci.energy.engines-and-fridges.L4"
+    "sci.energy.engines-and-fridges.L4",
+    "sci.energy.heat-moves.L4"
    ],
    "chapters": [
     "C4-2.1",
@@ -2235,7 +2237,8 @@
     "sci.forces.how-toys-work.L4",
     "sci.forces.direction-and-size.L4",
     "sci.forces.four-forces.L4",
-    "sci.forces.fields.L4"
+    "sci.forces.fields.L4",
+    "sci.forces.friction.L4"
    ],
    "chapters": [
     "N4-7"
@@ -15686,7 +15689,7 @@
     "sci.forces.push-and-pull.L3"
    ],
    "go_deep": [
-    "sci.forces.friction.L5",
+    "sci.forces.friction.L4",
     "sci.forces.air-water-resistance.L4",
     "sci.energy.heat.L3"
    ],
@@ -15721,6 +15724,56 @@
    ]
   },
   {
+   "id": "sci.forces.friction.L4",
+   "subject": "sci",
+   "topic": "forces",
+   "topic_name": "Forces and movement",
+   "strand": "Physics",
+   "topic_level": "sci.forces.L4",
+   "subtopic": "friction",
+   "name": "Friction",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Friction: how hard is the grip, and what decides it?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.forces.friction.L3"
+   ],
+   "go_deep": [
+    "sci.forces.friction.L5"
+   ],
+   "go_wide": [
+    "sci.forces.push-and-pull.L3",
+    "sci.forces.changing-motion.L3",
+    "sci.forces.measuring-forces.L3",
+    "sci.forces.simple-machines.L3",
+    "sci.forces.stretching-springs.L3",
+    "sci.forces.flight.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.measurement-basics.reading-scales.L3",
+     "chapters": [
+      "C3-Gg"
+     ]
+    },
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:177"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
    "id": "sci.forces.friction.L5",
    "subject": "sci",
    "topic": "forces",
@@ -15739,8 +15792,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.forces.friction.L3",
-    "sci.forces.push-and-pull.L3"
+    "sci.forces.friction.L4"
    ],
    "go_deep": [
     "sci.forces.air-water-resistance.L5",
@@ -18435,6 +18487,40 @@
     "sci.energy.heat.L3"
    ],
    "go_deep": [
+    "sci.energy.heat-moves.L4"
+   ],
+   "go_wide": [
+    "sci.energy.energy-around-us.L3",
+    "sci.energy.heat.L3",
+    "sci.energy.stored-energy.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:200"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.energy.heat-moves.L4",
+   "subject": "sci",
+   "topic": "energy",
+   "topic_name": "Energy",
+   "strand": "Physics",
+   "topic_level": "sci.energy.L4",
+   "subtopic": "heat-moves",
+   "name": "How heat moves",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Heat on the move: why smoke rises and the Sun warms you across empty space.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.energy.heat-moves.L3"
+   ],
+   "go_deep": [
     "sci.energy.heat-moves.L5"
    ],
    "go_wide": [
@@ -18466,8 +18552,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.energy.heat-moves.L3",
-    "sci.energy.heat.L5"
+    "sci.energy.heat-moves.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -19046,9 +19131,45 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.electricity.simple-circuits.L4",
     "sci.electricity.circuits.L4",
     "sci.electricity.conductors-and-insulators.L4"
    ],
+   "go_wide": [
+    "sci.electricity.static-and-charge.L3",
+    "sci.magnets.magnets-and-materials.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:219",
+    "phy:225",
+    "phy:226",
+    "phy:227",
+    "phy:228"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.electricity.simple-circuits.L4",
+   "subject": "sci",
+   "topic": "electricity",
+   "topic_name": "Electricity",
+   "strand": "Physics",
+   "topic_level": "sci.electricity.L4",
+   "subtopic": "simple-circuits",
+   "name": "Simple circuits: cells, wires, bulbs and switches",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Bulbs in a row and bulbs side by side: how the layout of a circuit changes what each part gets.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.electricity.simple-circuits.L3"
+   ],
+   "go_deep": [],
    "go_wide": [
     "sci.electricity.static-and-charge.L3",
     "sci.magnets.magnets-and-materials.L3"
