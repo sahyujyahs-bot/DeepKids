@@ -73,7 +73,7 @@ A tadpole has gills, a tail and no legs, and she lives in water. If you met only
 ### Same job, same shape: why a dolphin looks like a shark · *defined*
 **Definition:** Convergent evolution is when animals who are not close relatives end up with a similar shape, because they solve the same problem.
 
-A shark, a dolphin and a penguin all have a smooth, pointed body and a fin or flipper on each side. Swimming fast through water pushes every swimmer towards that shape. Over a very long time, each one's young changed a little in each generation, and the shape that cut through water best was the one that kept going. The shark is a fish, the dolphin is a mammal and the penguin is a bird, so they sit on three different branches of the family tree. A bat's wing and a crow's wing are another pair. Both are for flying, but they are built differently. So scientists look past the shape, to clues that come from ancestors, such as milk, hair and the bones inside.
+A shark, a dolphin and a penguin all have a smooth, pointed body and a fin or flipper on each side. Swimming fast through water pushes every swimmer towards that shape. Over a very long time, each one's young changed a little in each generation, and the shape that cut through water best was the one that kept going. The shark is a fish, the dolphin is a mammal and the penguin is a bird, so they sit on three different branches of the family tree. A bat's wing and a crow's wing are another pair. Both are for flying, but each kind of wing was built separately, from skin stretched over long fingers in the bat and from feathers in the crow. So scientists look past the shape, to clues that come from ancestors, such as milk, hair and the bones inside.
 - e.g. A shark, a dolphin and a penguin have similar shapes but different breathing and babies.
 - e.g. The wings of a bat, a crow and a butterfly all fly, but have three different builds.
 - e.g. A snake, a caecilian and an earthworm are long and legless, yet sit in three different groups.
@@ -110,16 +110,16 @@ Fish are animals who live in water, breathe with gills and swim with fins. But t
 ### Animals with no backbone: six big groups · *defined*
 **Definition:** Invertebrate is not one family. It only says what the animals lack. Scientists sort them into many separate groups.
 
-Arthropods have jointed legs and a hard skeleton outside the body. Insects have six legs, spiders have eight and crabs have ten or more. Molluscs have a soft body and one muscular foot, and many have a shell. Annelids have soft bodies made of rings and no legs, such as the earthworm. Cnidarians have stinging tentacles around a mouth, such as jellyfish and corals. Echinoderms have spiny skin, tiny tube feet and arms in fives, such as the starfish. Sponges have bodies full of holes and stay in one place. A sponge has no brain or nerves, and she can still shrink when touched. An octopus has no backbone, but she solves puzzles and opens jars.
+Arthropods have jointed legs and a hard skeleton outside the body. Insects have six legs, spiders have eight and crabs have ten or more. Molluscs have a soft body and one muscular foot, and many have a shell. Annelids have soft bodies made of rings and no legs, such as the earthworm. Cnidarians have stinging tentacles around a mouth, such as jellyfish and corals. Echinoderms have spiny skin, tiny tube feet and arms in fives, such as the starfish. Sponges have bodies full of holes and stay in one place. A sponge has no brain or nerves, and some sponges can still slowly shrink when disturbed. An octopus has no backbone, but she solves puzzles and opens jars.
 - e.g. Ask 'Does she have jointed legs?' and an ant, a spider and a crab answer yes.
 - e.g. Ask 'Is her skin spiny, with arms in fives?' and a starfish answers yes.
 - e.g. Ask 'Is her soft body in rings with no legs?' and an earthworm answers yes.
 ### How scientists check the groups today · *defined*
 **Definition:** Scientists check animal groups with three kinds of evidence: bones, fossils and DNA. Where all three agree, the group is trusted.
 
-Bones show shared plans, like the arm bones. Fossils show animals in between, such as Tiktaalik. DNA lets scientists compare the genes of any two animals, even ones that look nothing alike. Mostly the three agree. Sometimes DNA gives a surprise. The closest living relatives of whales and dolphins are hippos. Fossils fit this. Early whales lived in the rivers and shores of what is now India and Pakistan about 50 million years ago, and they had four legs. The fossil Himalayacetus was found in Himachal Pradesh in 1998 by Sunil Bajpai and Philip Gingerich.
+Bones show shared plans, like the arm bones. Fossils show animals in between, such as Tiktaalik. DNA lets scientists compare the genes of any two animals, even ones that look nothing alike. Mostly the three agree. Sometimes DNA gives a surprise. The closest living relatives of whales and dolphins are hippos. Fossils fit this. Early whales lived in the rivers and shores of what is now India and Pakistan about 50 million years ago, and the ones found in Pakistan had four legs. A fossil jaw called Himalayacetus, found in Himachal Pradesh and described in 1998 by Sunil Bajpai and Philip Gingerich, is one of the oldest early-whale fossils known.
 - e.g. Bones show that your arm and a bat's wing share a plan.
-- e.g. A fossil from Himachal Pradesh shows an early whale with legs.
+- e.g. Fossils from Pakistan show early whales with four legs.
 - e.g. DNA shows that a hippo is a closer relative of a dolphin than a cow is.
 
 ## Mostly agreed
@@ -131,7 +131,7 @@ Bones show shared plans, like the arm bones. Fossils show animals in between, su
 - All animals with a backbone share one very old ancestor. *How we know:* They share the same body plan, the same genes for building the backbone and the same cell types, and fossils link the groups.
 
 ## How we found out
-**George Shaw, William Caldwell, and the Aboriginal people who had always known, 1799 (the first skin described) and 1884 (the eggs shown).** In 1799 a dried skin of a strange animal reached Britain from New South Wales. It had fur, a flat bill like a duck and webbed feet. The scientist George Shaw wondered whether someone had sewn the parts together as a trick. It was real, and it was a platypus. The next puzzle was her eggs. Aboriginal people had long said the platypus lays eggs. Most European scientists did not believe it, because they thought every animal with fur and milk must give birth to live young. So for decades the question stayed open. In 1884 a young Scottish scientist, William Caldwell, hired many Aboriginal people to help him find platypuses and echidnas in Queensland. In late August he found an egg inside an echidna and saw a platypus lay one. He sent a short telegram to a scientific meeting in Montreal. It said that these animals lay eggs. Scientists then changed the rule. A mammal is an animal that feeds milk. Live birth was not needed.  
+**George Shaw, William Caldwell, and the Aboriginal people who had always known, 1799 (the first skin described) and 1884 (the eggs shown).** In 1799 a dried skin of a strange animal reached Britain from New South Wales. It had fur, a flat bill like a duck and webbed feet. The scientist George Shaw wondered whether someone had sewn the parts together as a trick. It was real, and it was a platypus. The next puzzle was her eggs. Aboriginal people had long said the platypus lays eggs. Most European scientists did not believe it, because they thought every animal with fur and milk must give birth to live young. So for decades the question stayed open. In 1884 a young Scottish scientist, William Caldwell, hired many Aboriginal people to help him find platypuses and echidnas in Queensland. In late August he found a platypus egg. He sent a short telegram to a scientific meeting in Montreal. It said that these animals lay eggs. Scientists then changed the rule. A mammal is an animal that feeds milk. Live birth was not needed.  
 *What people believed before:* That an animal with fur and milk must give birth to live young, so an animal that lays eggs could not be a mammal. Caldwell found the eggs in 1884, and scientists changed the rule to milk.
 
 ## Challenging perspectives
@@ -158,7 +158,7 @@ We have tested sorting rules against animals that break them, and followed the b
 *Habit it breaks:* We picture the five groups as five separate boxes, and fish as the box farthest from us. But boxes made from looks and ways of life can cut one family in two, and the family tree has no gap between fish and us.  
 *Evidence:* In the rule test, 'lives in water' put a dolphin with the fish. A lungfish has lungs and fins with bones. Her genes are closer to land animals than to a salmon. And a 375-million-year-old fossil called Tiktaalik had fins with wrist bones.
 
-- *who am i:* You are a mammal, and by family you are also a branch of the fish that crawled onto land. Your arm has the same bones as a bat's wing and a dolphin's flipper.
+- *who am i:* You are a mammal, and by family you are also part of the fish branch that crawled onto land. Your arm has the same bones as a bat's wing and a dolphin's flipper.
 - *what is life:* Every animal with a backbone came from one very old ancestor. Fish, frogs, lizards, crows and cows are all her descendants, so they are cousins.
 - *what is this world:* Most animals in the world have no backbone, 19 of every 20 kinds. The world is mostly theirs, and we are a small branch of the animals.
 
@@ -170,7 +170,7 @@ More than 500 million years ago, the first small swimmers with a backbone lived 
 - Science (settled): All animals with a backbone share one ancestor, and the lungfish is the closest living relative of animals who walk on land. Her genome was read in 2021.
 - Science (debated): Whether birds should still count as their own group, or as a branch of the reptiles, is a question about names, and biologists still argue about it.
 - Other view, Ernst Mayr, a well-known biologist of the 1900s, and others who agreed with him: A good group should reflect how animals live and how much they have changed, as well as who their ancestors were. By this view, birds are different enough from lizards to be a group of their own, and fish are a sensible group, even if the family tree cuts across them.
-- Practice, Breathing with the animals (3 min): Sit still. Put one hand on your chest. Breathe in slowly and feel your lungs fill with air. A dolphin, a crow, a gecko and a cow breathe in the same air with lungs like yours. A frog breathes it through her skin as well. A fish takes the same oxygen from the water with gills. Breathe out slowly three times. Think of one air moving through all of them.
+- Practice, Breathing with the animals (3 min): Sit still. Put one hand on your chest. Breathe in slowly and feel your lungs fill with air. A dolphin, a crow, a gecko and a cow breathe in the same air with lungs like yours. A frog breathes it through her skin as well. A fish takes the same oxygen from the water with gills. Breathe out slowly three times. Think of the same air going in and out of all of them.
 - Ask: The lungfish is a fish, and she is closer to a cow than to a salmon. What do you think the word fish should mean?
 - Ask: If all animals with a backbone came from one ancestor, are they all cousins? What would that change about how you look at a crow or a frog?
 - Ask: Nobody drew the lines between the five groups before the animals existed. Who drew them, and why?
@@ -200,7 +200,7 @@ Now Murugan Mama stood up and began to haul in the net. He pulled, and stopped. 
 
 Amudha leaned over the side to help. Then she went still. 'It is not a rock,' she said.
 
-Selvi looked down. Under the boat, in the green water, something large and grey-brown was pressed into the net. It was as long as the boat's bench. It had a round, smooth body and a broad tail that spread out sideways, like a flat paddle. Two short flippers hung at her sides. She did not thrash. She lay very still, with the mesh across her back.
+Selvi looked down. Under the boat, in the green water, something large and grey-brown was pressed into the net. She was as long as the boat's bench. She had a round, smooth body and a broad tail that spread out sideways, like a flat paddle. Two short flippers hung at her sides. She did not thrash. She lay very still, with the mesh across her back.
 
 'Kadal pasu,' whispered Amudha. 'A sea cow.'
 
@@ -208,7 +208,7 @@ Selvi looked down. Under the boat, in the green water, something large and grey-
 
 It sounded sensible. Selvi had thought the same words herself, a minute ago. But something in her head went back to the classroom. How does she breathe?
 
-She leaned out as far as she dared. The animal's face was blunt, with whiskers like a cat's around a wide, downturned mouth. On top of her snout, just above the mouth, were two nostrils. They were not on the sides of her head like gills. They were small slits, and they were pushing up against the underside of the net, as if she were trying to reach the surface.
+She leaned out as far as she dared. The animal's face was blunt, with whiskers like a cat's around a wide, downturned mouth. On top of her snout, just above the mouth, were two nostrils. They were not gill slits. They were small slits on top of her snout, and they were pushing up against the underside of the net, as if she were trying to reach the surface.
 
 'Mama,' said Selvi. 'When did we pull her up?'
 
@@ -222,7 +222,7 @@ Murugan Mama laughed. 'A fish can stay in the sea all day, child.'
 
 Nobody spoke. The boat rocked.
 
-'Look under her flipper,' said Selvi. 'Fish do not have that.' She was pointing at a small teat, the kind a mother mammal feeds her baby from. 'And look at her face. A fish has no whiskers.'
+'Look under her flipper,' said Selvi. 'Fish do not have that.' She was pointing at a small teat, the kind a mother mammal feeds her baby from. 'And look at her nostrils. A fish does not breathe through her nose.'
 
 Amudha looked. She looked for exactly as long as it took to be sure. Then she took the big knife from the bench. 'Murugan,' she said, 'hold the net up. We cut it. Now.'
 
@@ -242,7 +242,7 @@ Nobody said anything for a while. Murugan Mama sat down on the bench and looked 
 
 That evening, Selvi opened her notebook and crossed out the line she had written in class. Underneath she wrote: Where she lives did not tell me what she needs. How she breathes did. Then, because she was a careful girl, she added one more line. I should check two clues, not one.
 
-**For the parent:** For the parent: Murugan Mama sorted the animal by where she lives, so he decided she was a fish and could wait in the water all day. Selvi sorted her by how she breathes and how she feeds her young. Nostrils on top, whiskers and a teat showed a mammal, who needs to reach the air every few minutes. The clue that decided the rescue was not where the animal lives, but a feature that comes from her ancestors. A sorting rule is useful when it tells you what an animal needs. 'Lives in water' did not. 'Breathes air' did.
+**For the parent:** For the parent: Murugan Mama sorted the animal by where she lives, so he decided she was a fish and could wait in the water all day. Selvi sorted her by how she breathes and how she feeds her young. Nostrils pushing up towards the air, and a teat for feeding a calf, showed a mammal, who needs to reach the air every few minutes. The clue that decided the rescue was not where the animal lives, but a feature that comes from her ancestors. A sorting rule is useful when it tells you what an animal needs. 'Lives in water' did not. 'Breathes air' did.
 
 - Ask: Name one clue, other than where an animal lives, that shows a sea animal is a mammal and not a fish.
 - Ask: A rule that sorts by where an animal lives can mislead. Think of another animal it would mislead you about.
@@ -261,7 +261,7 @@ Breathes with: lungs
 Young: born live, and fed milk (back: Mammal. Fur and milk make her a mammal. Her wing is a hand with very long finger bones and skin between them.); A Ganges river dolphin
 Moves: swims
 Home: river water, all the time
-Cover: smooth skin, with a few hairs round the mouth when young
+Cover: smooth skin, with a few hairs round the mouth at birth, as many dolphins have
 Breathes with: lungs, through a blowhole
 Young: born live, and fed milk (back: Mammal. She lives in water but breathes air and feeds milk. She must come up every minute or two.); A platypus
 Moves: swims
@@ -313,7 +313,7 @@ Moves: wriggles, with no legs
 Home: damp soil in the Western Ghats and the north-east
 Cover: smooth moist skin with rings
 Breathes with: lungs and skin
-Young: hatch from eggs laid in damp soil (back: Amphibian. She looks like a big earthworm, but she has a backbone and moist skin, so she is an amphibian.); A rohu
+Young: hatch from eggs laid in damp soil (back: Amphibian. She looks like a big earthworm, but she has a backbone and moist skin, so she is an amphibian. Some caecilians have tiny scales hidden in the skin, but the skin still stays moist.); A rohu
 Moves: swims
 Home: rivers and ponds
 Cover: wet scales
@@ -381,33 +381,33 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take one set of six tokens.
   - Note: No printer? Write the animal's name and the five facts on a small piece of paper for each card, and the group on the back. Copy 8 cards at a time and play those first.
 - **s2 (8 min)**  
-  *Parent does:* Play the first 8 cards. For each card, the reader reads the front, the others choose a token, and then the reader shows the back. Keep a score on paper.  
+  *Parent does:* Play the first 12 cards. For each card, the reader reads the front, the others choose a token, and then the reader shows the back. Keep a score on paper.  
   *Parent says:* Read the facts slowly. Which fact do you trust most? Remember, where an animal lives is not always the clue.  
   *Child mode:* Read the card. Pick a token. Turn the card to check.
   - Ask: Which fact on the card decided your answer? (good: The Breathes with line.; The Cover line.; The Young line.)
   - Note: The cards with hard cases are the platypus, the dolphin, the penguin, the ostrich, the viper, the sea turtle, the caecilian, the seahorse and the climbing perch. When a child is fooled, ask which fact fooled them, and which fact should they have trusted instead.
   - Check: A card says: Home: river water, all the time. Breathes with: lungs, through a blowhole. Young: born live, and fed milk. Which group is she? → **Mammal, because she breathes air and feeds milk**
 - **s3 (8 min)**  
-  *Parent does:* Play the remaining 16 cards the same way. Add up the scores. The player with the most points wins.  
+  *Parent does:* Play the remaining 12 cards the same way. Add up the scores. The player with the most points wins.  
   *Parent says:* Keep going. When you meet an animal with no backbone, use the token that says no backbone.  
   *Child mode:* Play the other cards. Add up your points.
   - Note: Ask at the end: which card fooled you most, and what rule would have fooled you the same way?
 ### g2 · Family Tree Floor Hop: stand in the smallest room that fits (15 min)
 - **rules:** Draw four squares inside each other on the floor with chalk or masking tape. The biggest square is Room 1. The smallest is Room 4. Put a label in each room.; An animal belongs in a room if she, or her ancestors, had the clue for that room, and every bigger room around it.; A fish with a backbone stands in Room 1, outside Room 2. An amphibian stands in Room 2, outside Room 3. A reptile or a bird stands in Room 3, outside Room 4. A mammal stands in Room 4. An animal with no backbone stands outside all four rooms.; Snakes and whales lost their legs or changed them, but their ancestors had four limbs, so they still stand where their group stands.; The reader reads the front of a card. The hopper hops to the smallest room she thinks fits that animal.; The reader turns the card over to check. A hopper in the right room scores one point. A hopper who can also name one clue scores two points.; Swap jobs every four cards. To play alone, read the card, hop to a room, and then turn the card over to check. Play all 24 cards and try to beat your best score.; The game ends when every card has been read. The player with the most points wins.
 - **Printable board: 4 room labels to put in the squares: the bigger the room, the more animals fit:** Room 1: Backbone; Room 2: Four limbs; Room 3: Sealed egg; Room 4: Hair and milk
-- **s1 (5 min)**  
+- **s1 (3 min)**  
   *Parent does:* Draw four squares inside each other on the floor, with chalk or masking tape. Make the biggest about 2 steps wide. Write Room 1 to Room 4 and the room names.  
   *Parent says:* This floor is a family tree drawn as rooms inside rooms. Room 1 is for every animal with a backbone. Room 2 is for animals whose ancestors had four limbs.  
   *Child mode:* Draw four squares inside each other. Name the rooms.
   - Note: No chalk on a balcony? Use masking tape on a tile floor, or lay four sheets of newspaper folded to different sizes, the biggest one underneath.
-- **s2 (8 min)**  
+- **s2 (6 min)**  
   *Parent does:* Play the first 12 cards. The reader reads the front. The hopper hops into the smallest room that fits. The reader turns the card over to check.  
   *Parent says:* Which room does she belong in? Remember to stand in the smallest room that fits.  
   *Child mode:* Read a card. Hop to a room. Check the back.
   - Ask: Why does a frog stand in Room 2 and not Room 3? (good: She has four limbs in her family, but her eggs have no waterproof skin.)
   - Ask: Why does a bat stand in Room 4? (good: She has fur and milk, so she fits every room around it too.)
   - Check: A snake has no legs. Which room does she stand in? → **Room 3, because her ancestors had four limbs and she lays or carries sealed eggs**
-- **s3 (2 min)**  
+- **s3 (6 min)**  
   *Parent does:* Play the other 12 cards. Add up the points.  
   *Parent says:* Keep going. The last 12 cards include the animals without a backbone. Where do they stand?  
   *Child mode:* Play the last cards. Add your points.
@@ -495,7 +495,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Ask your child to do 30 star jumps. Then they sit down and hold their breath, as before. Time it. Rest for three minutes. Do it again.  
   *Parent says:* Now do 30 star jumps. Sit down at once, take one breath in and hold. Say stop when you must breathe. I will time you.  
   *Child mode:* Do 30 star jumps. Sit. Breathe in once. Hold. Say stop.
-  - Note: Expected: the holds after star jumps are shorter, often by 10 to 20 seconds. After exercise, your muscles have used more oxygen and made more carbon dioxide, which makes you want to breathe sooner.
+  - Note: Expected: the holds after star jumps are usually shorter. After exercise, your muscles have used more oxygen and made more carbon dioxide, which makes you want to breathe sooner.
   - Check: After star jumps, why do most people have to breathe sooner? → **Their muscles used up oxygen and made more carbon dioxide**
 - **s5 (3 min)**  
   *Parent does:* Read your child these air-breathing animals. A Ganges river dolphin comes up every minute or two. An emperor penguin can stay under more than 20 minutes. A sperm whale can stay under more than an hour. A rohu never needs to come up, because she has gills. Ask for three things. What I think. What I saw. Why.  
@@ -523,13 +523,13 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Start the timer. Tip each form into its own glass at the same moment, without stirring. Watch the glasses. Say the time out loud when no grains are left in each glass.  
   *Parent says:* Ready? Tip them in. Don't stir. Watch carefully. Which one goes first? Tell me when each glass looks clear.  
   *Child mode:* Tip all three in at once. Do not stir. Say when each one is gone.
-  - Note: Expected: the powder is gone in under a minute, the pieces in a few minutes, and the whole cube takes longest, often 4 to 8 minutes. Stop at 10 minutes and write 'not finished' if the cube is still there. Cold water is slower, so use warm water.
+  - Note: Expected: the powder is gone in about a minute or two, the pieces in a few minutes, and the whole cube takes longest, often 4 to 8 minutes. Stop at 10 minutes and write 'not finished' if the cube is still there. Cold water is slower, so use warm water.
 - **s4 (4 min)**  
   *Parent does:* Write the three times. Ask why the powder was fastest. Then say that a fish's gill is a stack of thin folds, so water can touch a huge area of thin skin.  
   *Parent says:* Which form dissolved first? What was different about the powder? Water can only act on sugar where they touch. A powder has far more places to touch.  
   *Child mode:* Which form was fastest? Why? Water works where it touches.
   - Ask: Why did the powder dissolve fastest? (good: There was more sugar touching the water.; Water could reach every grain.)
-  - Note: The same idea explains gills. A fish's gill is made of thousands of thin folds, so a lot of thin skin touches the water at once and oxygen passes into the blood quickly. Your lungs work the same way, with millions of tiny air sacs. The total area of a human lung is estimated at roughly 50 to 70 square metres, about the size of a badminton court. This is an analogy, because sugar and oxygen are different things.
+  - Note: The same idea explains gills. A fish's gill is made of thousands of thin folds, so a lot of thin skin touches the water at once and oxygen passes into the blood quickly. Your lungs work the same way, with millions of tiny air sacs. Estimates of the total area inside a human lung run from about 50 to 100 square metres, around the size of a badminton court. This is an analogy, because sugar and oxygen are different things.
   - Check: Why would a gill with many thin folds take in oxygen faster than a flat gill of the same size? → **More of the gill touches the water**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. What I think. What I saw. Why I think it happened.  
@@ -573,7 +573,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Child mode:* Draw your arm and a bat's wing. Colour matching bones the same.
   - Check: A human arm and a bat's wing have the same bones in the same order. What is the best explanation? → **They inherited the plan from a shared ancestor**
 ### a3 · No Backbone: one question for each group (12 min)
-- **record:** Six piles of animals, with the question written over each pile.
+- **record:** Five piles of animals, with the question written over each pile.
 - **s1 (3 min)**  
   *Parent does:* Lay the 8 cards face up. Ask your child to look at the facts. Ask the first question: does she have jointed legs and a hard outer skeleton? Put the yes cards in one pile.  
   *Parent says:* First question. Does she have jointed legs and a hard outer skeleton? Which animals say yes? Put them in one pile.  
@@ -589,7 +589,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Turn the cards over to check. Count how many piles you made. Ask why 'no backbone' is not one family.  
   *Parent says:* Turn the cards over. Did you get the same groups? How many separate groups did you find? Are they all one family?  
   *Child mode:* Check the backs. How many groups? Are they one family?
-  - Note: Six kinds of animal with no backbone were sorted into 5 piles here. Sponges are the sixth group. They are as different from each other as a fish is from a snail.
+  - Note: Five big groups of animals with no backbone were sorted into 5 piles here. Sponges are a sixth group that is not on the cards. These groups are as different from each other as a fish is from a snail.
 ### a4 · One Animal, Two Shapes: tadpole and caterpillar (10 min)
 - **record:** Two rows of four small pictures, each in order of a life, with the group written under each row.
 - **s1 (5 min)**  
@@ -759,7 +759,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
    **Answer:** Animals that breathe with gills all their lives are fish. A dolphin broke the old rule because she lives in water but breathes air.. *Why:* A strong answer uses a body clue such as gills, and names an animal that lives in water but is not a fish, such as a dolphin or a sea turtle.
 2. (mcq) Whales and dolphins have four-legged ancestors. Which evidence supports this?  
    Options: Fossils of early whales from India and Pakistan had legs / Whales can swim / Whales live in the sea  
-   **Answer:** Fossils of early whales from India and Pakistan had legs. *Why:* Fossils such as Himalayacetus from India and Pakistan's early whales show animals with legs. DNA also shows that hippos are the closest living relatives.
+   **Answer:** Fossils of early whales from India and Pakistan had legs. *Why:* Early whale fossils from Pakistan show animals with four legs, and an early whale jaw was found in India. DNA also shows that hippos are the closest living relatives.
 3. (perspective) A family-tree biologist and a bird watcher disagree about whether birds count as reptiles.  
    **Answer:** Answers vary. A strong answer picks a side and says that the biologist's view is useful for who is related, and the bird watcher's view for finding animals in the field.. *Why:* The two views answer different questions. A family tree answers who is related, and a field guide answers how to find and name an animal.
 4. (truefalse) If a rule has one exception, the whole group must be wrong.  
@@ -833,7 +833,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 
 ## Applications
 - Vets treat reptiles, birds and mammals differently, because the groups differ in how they breathe, keep warm and feed.
-- Doctors identify snakes as vipers or non-vipers to choose the right treatment for a snakebite.
+- Snakebite doctors in India ask what kind of snake bit the patient, such as a viper, a cobra or a krait, because the bites harm the body in different ways.
 - Conservation workers protect animals such as dugongs, who must surface to breathe, by setting up reserves and freeing animals from nets.
 - Fisheries managers sort the catch by group, so that dolphins, turtles and sharks caught by accident can be released safely.
 - Museums arrange skeletons by their matching bones, so visitors can see which animals share a plan.

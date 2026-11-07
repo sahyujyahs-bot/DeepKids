@@ -145,7 +145,7 @@
    "concept": "Short fibres, long thread: why twist holds",
    "status": "defined",
    "definition": "A yarn is made of short fibres twisted together. Twisting presses the fibres against each other, and the grip between them holds the yarn together.",
-   "description": "A cotton fibre is only about two or three centimetres long. A cotton thread can be many kilometres long. No fibre runs from one end of the thread to the other. Each fibre overlaps the ones next to it. When you pull the yarn, the fibres try to slide past each other. The twist squeezes them together, so they grip, and the harder you pull, the harder they grip. Too little twist and the fibres slide out. Too much twist and the yarn kinks and hurts itself. Silk is different. A silkworm spins one fibre hundreds of metres long, so silk needs far less twist. A rope breaks where its twist has been worn loose, because the fibres slide out.",
+   "description": "A cotton fibre is usually only about one to three centimetres long. A cotton thread on a spool can be hundreds of metres long. No fibre runs from one end of the thread to the other. Each fibre overlaps the ones next to it. When you pull the yarn, the fibres try to slide past each other. The twist squeezes them together, so they grip, and the harder you pull, the harder they grip. Too little twist and the fibres slide out. Too much twist and the yarn kinks and hurts itself. Silk is different. A silkworm spins one fibre hundreds of metres long, so silk needs far less twist. A rope breaks where its twist has been worn loose, because the fibres slide out.",
    "examples": [
     "Cotton yarn: short fibres, twisted.",
     "Coir rope: coconut fibres a hand long, twisted into a rope that holds a boat.",
@@ -158,7 +158,7 @@
    "concept": "Water, heat and plasticisers loosen the holds between chains",
    "status": "defined",
    "definition": "Chains in a material are held to each other by weak ties. Water, heat or a plasticiser such as glycerine loosen the ties, so the chains slide and the material bends.",
-   "description": "In hair, wool and cotton, chains are held side by side by weak ties called hydrogen bonds. Water gets between the chains and loosens the ties. That is why a curl stretches when wet, and why damp cotton thread bends easily. In a dry cornflour film, the starch chains stick tightly to each other, so the film is stiff and cracks when you fold it. Glycerine is a small molecule that sits between the chains and keeps them a little apart. Now the chains can slide, and the film bends. Heat does the same thing. Warm chains wiggle more, and holds between them break and form again. That is why a thermoplastic softens in heat. Plastic makers add a lot of plasticiser to PVC to make soft hose, and leave it out to make stiff pipe.",
+   "description": "In hair, wool and cotton, chains are held side by side by weak ties called hydrogen bonds. Water gets between the chains and loosens the ties. That is why a curl stretches when wet. In a dry cornflour film, the starch chains stick tightly to each other, so the film is stiff and cracks when you fold it. Glycerine is a small molecule that sits between the chains and keeps them a little apart. Now the chains can slide, and the film bends. Heat does the same thing. Warm chains wiggle more, and holds between them break and form again. That is why a thermoplastic softens in heat. Plastic makers add a lot of plasticiser to PVC to make soft hose, and leave it out to make stiff pipe.",
    "examples": [
     "A wet curl stretches and springs back when dry.",
     "Glycerine turns a stiff starch film into a bendy one.",
@@ -217,7 +217,7 @@
   },
   {
    "text": "Twisting short fibres together holds them in a yarn, because the twist makes the fibres grip each other.",
-   "evidence": "Yarn made of fibres of a few centimetres can be many kilometres long, and a yarn untwisted comes apart into loose fibres."
+   "evidence": "Yarn made of fibres of a few centimetres can be hundreds of metres long, and a yarn untwisted comes apart into loose fibres."
   },
   {
    "text": "A thermoplastic softens in heat and can be reshaped, and a thermoset does not.",
@@ -229,7 +229,7 @@
    "claim": "A long, strong thread must have long, strong fibres that run from one end to the other.",
    "who": "Many people.",
    "for": "A rope looks like it must be made of fibres as long as the rope.",
-   "against": "Cotton fibres are two or three centimetres long, and cotton yarn can be kilometres long. Twist makes the short fibres grip each other.",
+   "against": "Cotton fibres are one to three centimetres long, and cotton yarn can be hundreds of metres long. Twist makes the short fibres grip each other.",
    "status": "rejected"
   },
   {
@@ -292,7 +292,7 @@
   "title": "The Rope That Came Apart",
   "mins": 10,
   "read_aloud": true,
-  "note": "A made-up story. Coir spinning near Alappuzha in Kerala is real, and it is mostly done by women. The coir fibres, the twist of yarn and strand in opposite directions, and a rope wearing out where it rubs are all real. Anitha, her family and the storm are imagined.",
+  "note": "A made-up story. Coir spinning near Alappuzha in Kerala is real, and it is mostly done by women. The coir fibres, the twist that holds them, and a rope wearing out where it rubs are all real. Anitha, her family and the storm are imagined.",
   "text": [
    "Anitha lived beside a canal near Alappuzha, in Kerala, where the backwaters wind between coconut palms. At the bottom of her steps, a small wooden boat called a vallam was tied to a post. Her grandmother, Ammumma, spun coir for a living, as many women in the village did.",
    "In the monsoon, a storm came in the night. The wind pushed the palms flat, and the canal heaved. In the morning, the post stood empty. The rope was gone, and so was the vallam.",
@@ -441,7 +441,7 @@
       },
       {
        "f": "A spoonful of cooking oil.",
-       "b": "Not a polymer. An oil molecule is a small piece with three short tails. It is not a long chain of repeating pieces."
+       "b": "Not a polymer. An oil molecule is a small piece with three tails. It is not a long chain of repeating pieces."
       },
       {
        "f": "The DNA inside your cells.",
@@ -819,7 +819,7 @@
      "qty": 1
     }
    ],
-   "safety": "An adult does all the hot-water steps. Keep the kettle and bowl away from the edge of the table. Cut edges of hard plastic can be sharp.",
+   "safety": "An adult does all the hot-water steps. Keep the kettle and bowl away from the edge of the table. The steel bowl gets hot too, so do not touch it. Cut edges of hard plastic can be sharp.",
    "schedule": [
     {
      "day": 1,
@@ -1540,7 +1540,7 @@
    "id": "c2",
    "title": "Better Film: bendy but not sticky",
    "mins": 37,
-   "problem": "Using what you learned from the cornflour film test, make a film that folds at least ten times before it cracks, and is not sticky. You may change only the amount of glycerine.",
+   "problem": "Using what you learned from the cornflour film test, make a film that folds at least ten times before it cracks, and is not sticky. The one thing you choose is the amount of glycerine.",
    "constraints": [
     "Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar.",
     "Choose a glycerine amount between half a teaspoon and one and a half teaspoons.",
@@ -1557,14 +1557,14 @@
    "general": [
     "Choose the amount that folded best in your first test.",
     "Choose an amount halfway between the best two.",
-    "Cook a thinner film, which dries faster and bends more easily."
+    "Choose a little less than the amount that felt sticky."
    ],
    "creative": [
-    "Add a pinch of turmeric for colour, and see if it changes the bending.",
+    "Extra ideas, once your film works. Each one changes a second thing, so test it as a new film. Add a pinch of turmeric for colour, and see if it changes the bending.",
     "Press a thread of cotton yarn into the wet film, like a strengthening wire.",
     "Layer two thin films, one on top of the other, and test the pair."
    ],
-   "your_turn": "Choose your own glycerine amount. Cook and test your film. Change one thing, such as the thickness, and test again. Which film folded the most times and stayed unsticky? Why do you think it did?",
+   "your_turn": "Choose your own glycerine amount. Cook and test your film. If you cook a second film, change only the glycerine again, and test it. Which film folded the most times and stayed unsticky? Why do you think it did?",
    "context": "This is a design challenge. You use your own earlier results to make a film that bends well and is not sticky.",
    "setup": [
     {
@@ -2659,7 +2659,7 @@
    "why_maths": "Scaling a recipe keeps the amounts in the same proportion, so the films come out the same."
   },
   {
-   "problem": "In the Hot Water test, one strip was 8 centimetres long and shrank to 6 centimetres. Another strip was 10 centimetres long and shrank to 5 centimetres. What fraction of its length did each strip lose? Which shrank by the bigger fraction?",
+   "problem": "Imagine two made-up results from a Hot Water test. One strip was 8 centimetres long and shrank to 6 centimetres. A longer strip was 10 centimetres long and shrank to 5 centimetres. What fraction of its length did each strip lose? Which shrank by the bigger fraction?",
    "answer": "The first lost one quarter. The second lost one half. The second shrank by the bigger fraction.",
    "explain": "The first lost 2 centimetres out of 8, which is 2 over 8, or one quarter. The second lost 5 out of 10, which is one half. One half is bigger than one quarter.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -2727,7 +2727,7 @@
    "id": "b-glycerine",
    "item": "A small bottle of glycerine",
    "kind": "material",
-   "why": "For the Cornflour Film test and the Better Film challenge. Chemist shops sell it for a few rupees.",
+   "why": "For the Cornflour Film test and the Better Film challenge. Chemist shops sell small bottles cheaply.",
    "url": "https://www.amazon.in/s?k=glycerine+pure+100ml",
    "used_in": [
     "e1",
@@ -2883,11 +2883,11 @@
    {
     "source": "Brihadaranyaka Upanishad 3.6 and 3.8",
     "teaching": "The thinker Gargi asks Yajnavalkya what the world is woven on, as a cloth is woven from warp and weft. He answers step by step, and each answer is woven on the next.",
-    "link": "The Upanishad pictures the world as woven cloth, where each thread is held by the others. In a thread, each fibre is held by its neighbours, and nothing outside holds the whole thing up."
+    "link": "The Upanishad pictures the world as woven cloth, and asks what the cloth rests on. A thread gives a plain, physical answer to a similar question: each fibre is held by its neighbours, with nothing else holding the whole thread up."
    },
    {
-    "source": "Kabir, the poem Jhini Jhini Bini Chadariya (15th century, Varanasi)",
-    "teaching": "Kabir was a weaver. In this poem he sings of the body as a fine cloth woven on a spinning wheel, and asks who wove it.",
+    "source": "Kabir, the poem Jhini Jhini Bini Chadariya (traditionally about the 15th century, Varanasi)",
+    "teaching": "Kabir is remembered as a weaver. In this poem he sings of the body as a fine cloth woven on a loom, and asks who wove it.",
     "link": "Kabir used the work of his own hands to ask about life. A cloth is short fibres twisted into thread and crossed into cloth, and a body is made of small parts held together too."
    }
   ],
@@ -2918,9 +2918,9 @@
   ],
   "art": "A cotton thread drawn very large, made of short fibres twisting together, with a girl's hand holding the end and a spinning wheel behind."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Newspaper tearing and the cotton wisp need only paper and cotton wool. In Tear the Newspaper, the straight direction depends on the paper, and a few papers show it weakly, so the steps say to try another sheet. In Wisp and Thread, hand-twisted cotton wool is weak and rough, so the activity compares by feel and does not weigh a load. Cornflour Film is the main experiment: the recipe is one tablespoon of cornflour to four of water and one teaspoon of vinegar for each film, shared from one pot. Without glycerine the film should be brittle, and with a lot it can stay sticky, but drying takes two to four days and longer in monsoon damp, and the exact fold counts will differ, so the steps ask for the results as they are. Hot Water Plastics: a grown-up does all the hot-water steps. The bottle strip and the thin bag usually shrink or curl, and the hard tub usually does not, but this depends on the plastic, so the steps say to write what you see. Takli: a first yarn is lumpy and breaks often, which the steps say. Chew the Rice: the sweet taste can take one to three minutes to notice, and some children notice it less. Facts to verify before the unit goes live: the Kwolek details (1965, the cloudy solution, the technician's worry, Paul Morgan's part) and the 1977 Macromolecules citation; that cotton fibres in cotton wool are about one to three centimetres long; that salivary amylase makes chewed rice taste sweeter within about two minutes; that the Sabarmati Ashram address is correct; the exact title and source of Kabir's poem; the Milindapanha chariot passage. The videos have no address yet.",
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Newspaper tearing and the cotton wisp need only paper and cotton wool. In Tear the Newspaper, the straight direction depends on the paper, and a few papers show it weakly, so the steps say to try another sheet. In Wisp and Thread, hand-twisted cotton wool is weak and rough, so the activity compares by feel and does not weigh a load. Cornflour Film is the main experiment: the recipe is one tablespoon of cornflour to four of water and one teaspoon of vinegar for each film, shared from one pot. Without glycerine the film should be brittle, and with a lot it can stay sticky, but drying takes two to four days and longer in monsoon damp, and the exact fold counts will differ, so the steps ask for the results as they are. Hot Water Plastics: a grown-up does all the hot-water steps. The bottle strip and the thin bag usually shrink or curl, and the hard tub usually does not, but this depends on the plastic, so the steps say to write what you see. Takli: a first yarn is lumpy and breaks often, which the steps say. Chew the Rice: the sweet taste can take one to three minutes to notice, and some children notice it less. Facts to verify before the unit goes live: the Kwolek details (1965, the cloudy solution, the technician's worry, Paul Morgan's part) and the 1977 Macromolecules citation; that cotton fibres in cotton wool are about one to three centimetres long; that salivary amylase makes chewed rice taste sweeter within about two minutes; that the Sabarmati Ashram address is correct; the exact title and source of Kabir's poem; the Milindapanha chariot passage. The videos have no address yet. Checker note: the Kwolek story (1965, DuPont, cloudy low-thickness solution, technician Charles Smullen, Paul Morgan, a fibre about five times stronger than steel by weight) matches web accounts, but the technician's worry and the exact year are told differently by different sources, so they are worded loosely. Cotton fibre length is stated as one to three centimetres, and thread length as hundreds of metres. Hot-water shrinkage depends on the plastic, so a home test must settle it.",
  "how_we_found_out": {
-  "story": "In 1965, Stephanie Kwolek was a chemist at a company called DuPont in the United States. She was looking for a very light, very strong fibre that could be used inside car tyres. She made a new polymer with very stiff chains and dissolved it. Chemists expected a thick, clear syrup. Hers was thin, cloudy and runny, and most chemists would have thrown it away. She asked a technician to spin it into a fibre. He worried the cloudy liquid would clog his machine, but he agreed. The fibre was stiff and very strong. She tested it again and again, because she could hardly believe the numbers. The cloud was a sign that the stiff chains had lined up side by side in the liquid. Spun into a fibre, the lined-up chains made a fibre stronger than steel for the same weight. This fibre is called Kevlar.",
+  "story": "In 1965, Stephanie Kwolek was a chemist at a company called DuPont in the United States. She was looking for a very light, very strong fibre that could be used inside car tyres. She made a new polymer with very stiff chains and dissolved it. Chemists expected a thick, clear syrup. Hers was thin, cloudy and runny, and most chemists would have thrown it away. She asked a technician to spin it into a fibre. By most accounts, he was unsure the cloudy liquid would work in his machine, but he agreed. The fibre was stiff and very strong. She tested it again and again, because she could hardly believe the numbers. The cloud was a sign that the stiff chains had lined up side by side in the liquid. Spun into a fibre, the lined-up chains made a fibre stronger than steel for the same weight. This fibre is called Kevlar.",
   "who": "Stephanie Kwolek, a chemist at DuPont, with Paul Morgan, who worked with her on making the polymer, and Charles Smullen, the technician who spun it",
   "when": "1965",
   "wrong_idea": "Chemists thought that a good polymer solution should be clear and thick, and that a cloudy, runny one was a failure. Kwolek spun the cloudy liquid anyway and showed that the cloud was a sign of lined-up chains, which make a very strong fibre."

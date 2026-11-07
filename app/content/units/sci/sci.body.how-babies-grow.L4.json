@@ -3,7 +3,7 @@
   "title": "One cell, many jobs: how a baby's body gets built",
   "level": 4,
   "summary": {
-    "text": "Every cell in your body holds the same full set of instructions. So why is one cell part of a fingernail and another part of your eye? In the womb, cells find their job from their place among their neighbours. A signal spreads from one spot and gets weaker with distance, and each cell reads how much has reached them. Your child tests this idea with strips of paper and dye. They also find out why the gaps between fingers are made by cells that die, how a baby breathes without air, why growth is fast and then slows, and how practice rewires a brain.",
+    "text": "Nearly every cell in your body holds the same full set of instructions. So why is one cell part of a fingernail and another part of your eye? In the womb, cells find their job from their place among their neighbours. A signal spreads from one spot and gets weaker with distance, and each cell reads how much has reached them. Your child tests this idea with strips of paper and dye. They also find out why the gaps between fingers are made by cells that die, how a baby breathes without air, why growth is fast and then slows, and how practice rewires a brain.",
     "art": "A flat paper strip dipped at one end in red dye, dark at the dipped end and fading to pale at the far end, with a tiny embryo hand drawn above it."
   },
   "intro": {
@@ -79,7 +79,7 @@
     },
     {
       "term": "Organiser",
-      "meaning": "A small group of cells in an embryo that sends signals telling nearby cells what to become. Hilde Mangold found the first one in 1924.",
+      "meaning": "A small group of cells in an embryo that sends signals telling nearby cells what to become. Hilde Mangold found the first one, in work published in 1924.",
       "example": "A piece of organiser tissue moved to the wrong place made a second body start to grow there.",
       "art": "A tiny newt embryo with a small patch marked on its back and an arrow to a second body axis."
     },
@@ -131,7 +131,7 @@
       "concept": "The same instructions in every cell",
       "status": "defined",
       "definition": "Nearly every cell in your body holds a full copy of your DNA, and each kind of cell reads only some of the genes.",
-      "description": "You began as one cell. That cell split in two, and each new cell got a full copy of the DNA. They split again, and again, and copied the DNA each time. Today you have about 30 trillion cells, and almost all hold the same set of about 20,000 genes. A gene is one instruction, usually for making one kind of protein. A skin cell uses the genes for skin proteins. A red blood cell uses the genes for haemoglobin. The other genes stay switched off, like pages in a cookbook that a cook does not open today. One surprising proof comes from frogs. In 1962 John Gurdon took the DNA from a cell in a tadpole's gut and put it into an egg cell. The egg grew into a whole new frog. So the gut cell still held every instruction.",
+      "description": "You began as one cell. That cell split in two, and each new cell got a full copy of the DNA. They split again, and again, and copied the DNA each time. Today you have about 30 trillion cells, and almost all hold the same set of about 20,000 genes. A gene is one instruction, usually for making one kind of protein. A skin cell uses the genes for skin proteins. A red blood cell uses the genes for haemoglobin. The other genes stay switched off, like pages in a cookbook that a cook does not open today. One surprising proof comes from frogs. In 1962 John Gurdon took the nucleus, which holds the DNA, from a cell in a tadpole's gut. He put it into a frog's egg cell whose own nucleus he had removed. A few of these eggs grew into healthy tadpoles, and later work made frogs. So the gut cell still held every instruction.",
       "examples": [
         "A hair cell and a bone cell in the same person hold the same genes but use different ones.",
         "A cloned animal such as Dolly the sheep (1996) grew from DNA taken from a cell in an adult's udder.",
@@ -157,7 +157,7 @@
       "concept": "A signal that fades with distance tells cells where they are",
       "status": "defined",
       "definition": "In a growing embryo, some cells send out a chemical signal that spreads and gets weaker with distance, and nearby cells take different jobs depending on how much of it reaches them.",
-      "description": "A body needs the right cells in the right places. A cell cannot see or measure. But a cell can sense a chemical. In 1969 the British scientist Lewis Wolpert had an idea. Suppose a small group of cells sends out a signal. Cells close by get a lot of it, cells farther away get less, and cells far away get almost none. Cells could read the amount, and each would know its distance from the source. Many scientists have since found signals that work in this way. In 1988 Christiane Nüsslein-Volhard and her team found one in a fruit fly egg, which tells the front of the baby fly from the back. Signals like this have been found in mice, chicks, fish and people. In humans, a signal called Sonic hedgehog helps to set the order of the nerve cells in the spine. Most of the detailed work was done on animals such as flies, frogs, chicks and mice, because their eggs are easy to study.",
+      "description": "A body needs the right cells in the right places. A cell cannot see or measure. But a cell can sense a chemical. In 1969 the British scientist Lewis Wolpert had an idea. Suppose a small group of cells sends out a signal. Cells close by get a lot of it, cells farther away get less, and cells far away get almost none. Cells could read the amount, and each would know their distance from the source. Many scientists have since found signals that work in this way. In 1988 Christiane Nüsslein-Volhard and her team found one in a fruit fly egg, which tells the front of the baby fly from the back. Signals like this have been found in mice, chicks, fish and people. In humans, a signal called Sonic hedgehog helps to set the order of the nerve cells in the spine. Most of the detailed work was done on flies, frogs, chicks and mice, because their embryos are easy to study.",
       "examples": [
         "A paper strip dipped in dye at one end is dark near the dye and pale far from it, so the colour tells you the distance.",
         "In the spinal cord, cells close to the signal become one type of nerve cell and cells far away become another.",
@@ -196,7 +196,7 @@
       "concept": "The placenta: where two bloodstreams meet",
       "status": "defined",
       "definition": "The placenta is an organ that grows in the womb. Blood from the mother and blood from the baby flow close together inside it, separated by a very thin wall.",
-      "description": "A baby floating in water cannot breathe air or eat. The placenta does both jobs for them. The mother's blood flows through small pools inside the placenta. Inside the pools stand thousands of finger-like branches, which are full of the baby's blood. The cord carries blood between the baby and the placenta. The wall between the two bloodstreams is thinner than a hair, so oxygen and food pass through, and waste carbon dioxide passes back. Mother's blood and baby's blood do not mix. A baby can have a different blood group from their mother. The branches give the placenta a huge surface. The total is about 12 square metres, about the size of a small room's floor, which is why exchange is fast. The baby's own cells build the placenta, from the outer layer of the early ball of cells. The placenta also makes hormones and passes antibodies from the mother. Some harmful things can cross too, such as alcohol and some germs. That is why doctors advise pregnant women about medicines and what to avoid.",
+      "description": "A baby floating in water cannot breathe air or eat. The placenta does both jobs for them. The mother's blood flows through small pools inside the placenta. Inside the pools stand thousands of finger-like branches, which are full of the baby's blood. The cord carries blood between the baby and the placenta. The wall between the two bloodstreams is thinner than a hair, so oxygen and food pass through, and waste carbon dioxide passes back. Mother's blood and baby's blood do not mix. A baby can have a different blood group from their mother. The branches give the placenta a huge surface. Measurements differ, but one often-quoted estimate is about 12 square metres, about the floor of a small room, which is why exchange is fast. The baby's own cells build the placenta, from the outer layer of the early ball of cells. The placenta also makes hormones and passes antibodies from the mother. Some harmful things can cross too, such as alcohol and some germs. That is why doctors advise pregnant women about medicines and what to avoid.",
       "examples": [
         "Oxygen flows from the mother's blood to the baby's blood, because the baby's blood holds oxygen more tightly.",
         "Sugar and other food molecules cross the thin wall into the baby's blood.",
@@ -287,11 +287,11 @@
   "agreed": [
     {
       "text": "Nearly every cell in a body holds the full set of instructions, and each kind of cell uses only some of them.",
-      "evidence": "In 1962 John Gurdon put the DNA from a tadpole's gut cell into an egg and a whole frog grew. In 1996 Dolly the sheep was cloned from a cell in an adult sheep's udder."
+      "evidence": "In 1962 John Gurdon put the nucleus from a tadpole's gut cell into an egg cell, and a few of these eggs grew into healthy tadpoles and frogs. In 1996 Dolly the sheep was cloned from a cell in an adult sheep's udder."
     },
     {
       "text": "Cells in an embryo find their jobs from signals sent by their neighbours.",
-      "evidence": "In 1924 Hilde Mangold and Hans Spemann moved a small piece of newt embryo and the neighbouring cells began to build a second body. Since then, signals have been found in many animals."
+      "evidence": "In work published in 1924, Hilde Mangold and Hans Spemann moved a small piece of newt embryo and the neighbouring cells began to build a second body. Since then, signals have been found in many animals."
     },
     {
       "text": "Cells die on purpose during growth, and this shapes the body.",
@@ -307,7 +307,7 @@
     },
     {
       "text": "Practice makes some connections in the brain stronger and unused ones fade.",
-      "evidence": "Studies of young animals and children show that connections are most numerous in early childhood and are then pruned by use."
+      "evidence": "Studies of the brains of young children and other young animals show that connections are most numerous early in life and are then pruned by use."
     }
   ],
   "challenging": [
@@ -315,7 +315,7 @@
       "claim": "Cells are born knowing what job they will do.",
       "who": "Wilhelm Roux, a German scientist, 1888.",
       "for": "Roux killed one of two frog cells with a hot needle. The other cell grew into only half an embryo. He said each cell was already fixed.",
-      "against": "In 1891 Hans Driesch separated sea urchin cells and each made a whole small sea urchin. Identical twins also grow from one ball that splits. In 1924 Hilde Mangold showed that neighbours change what cells become.",
+      "against": "In 1891 Hans Driesch separated sea urchin cells and each made a whole small sea urchin. Identical twins also grow from one ball that splits. Hilde Mangold's work, published in 1924, showed that neighbours change what cells become.",
       "status": "rejected"
     },
     {
@@ -430,9 +430,9 @@
   "roots": {
     "context": "We have followed how one cell becomes a whole body, and how cells find their jobs. Now we ask what this says about who builds a body, and who we are.",
     "deep_truth": {
-      "truth": "Every cell in your body holds the same instructions. Yet one becomes bone and another becomes skin, depending on where each one sits. A signal fades with distance, so cells can tell their place from how much has reached them. Cells get their jobs from their neighbours, not from a stamp inside.",
+      "truth": "Nearly every cell in your body holds the same instructions. Yet one becomes bone and another becomes skin, depending on where each one sits. A signal fades with distance, so cells can tell their place from how much has reached them. Cells get their jobs from their neighbours, not from a stamp inside.",
       "habit": "We picture a body as built from a blueprint, with every part given out in advance, and we picture cells as carrying their own labels, such as 'I am a nerve cell'. But in an early embryo, the job depends on the place and the neighbours.",
-      "evidence": "In the Colour Map test, the same spot on a paper strip came out dark when the dye went in at one end, and pale when it went in at the other. In 1924, Hilde Mangold moved a small piece of newt embryo and the cells around it started to build a second body. The paper is only a model, but the two results point the same way."
+      "evidence": "In the Colour Map test, the same spot on a paper strip came out dark when the dye went in at one end, and pale when it went in at the other. In work published in 1924, Hilde Mangold moved a small piece of newt embryo and the cells around it started to build a second body. The paper is only a model, but the two results point the same way."
     },
     "three": {
       "who_am_i": "You are a community of about 30 trillion cells that hold the same instructions, and each cell found their job by listening to their neighbours.",
@@ -548,7 +548,7 @@
             },
             {
               "f": "The mother may feel the first small flutters",
-              "b": "Week 17. The baby's movements are strong enough to feel."
+              "b": "About week 17. The baby's movements are strong enough to feel. Some mothers feel them earlier or later."
             },
             {
               "f": "The baby is born",
@@ -640,7 +640,7 @@
               ]
             }
           ],
-          "parent": "The first eight cards happen before birth. Most children are surprised by how early the heart begins to beat, at about three weeks. Check any 'week' against the back of the card.",
+          "parent": "The first nine cards happen before birth. Most children are surprised by how early the heart begins to beat, at about three weeks. Check any 'week' against the back of the card.",
           "context": "In this step, you play the first turns and learn how the line works."
         },
         {
@@ -705,7 +705,7 @@
           "buy": "b-paper"
         },
         {
-          "item": "red or blue food colour, 10 drops (or a tablespoon of strong beetroot water, or a few drops of washable ink)",
+          "item": "red or blue food colour, 10 drops (or a tablespoon of strong beetroot water)",
           "qty": 1,
           "buy": "b-colour"
         },
@@ -726,7 +726,7 @@
           "qty": 1
         }
       ],
-      "safety": "Food colour stains clothes, hands and table tops. Put the tray on newspaper. Do not drink or taste anything in the katoris. Wash your hands afterwards.",
+      "safety": "Food colour stains clothes, hands and table tops. Put the tray on newspaper. Do not drink or taste anything in the katoris. Use the scissors with a grown-up nearby. Wash your hands afterwards.",
       "record": "Write the colour of each piece, dark, medium, pale or none, for strip A and for strip B. Then give each piece a made-up job: dark is bone, medium is muscle, pale is skin, and none is waiting.",
       "context": "In this experiment, you make a model of how cells in an embryo can find their jobs. You do it with dye on paper.",
       "setup": [
@@ -744,7 +744,7 @@
         },
         {
           "art": "The two strips after a few minutes, each dark near its dipped end and fading to pale at the far end.",
-          "caption": "4. Watch the dye climb. When the front reaches piece 5, lift the strip out."
+          "caption": "4. Watch the dye climb. Lift strip A when its front reaches piece 5, and strip B when its front reaches piece 2."
         },
         {
           "art": "Each strip cut into six pieces laid in a row, with a small label under each piece: bone, muscle, skin or waiting.",
@@ -794,9 +794,9 @@
         {
           "id": "s3",
           "mins": 17,
-          "do": "Place a katori at each end of the tray. Fold the left end of strip A over the left katori so that 1 centimetre dips into the dye. Fold the right end of strip B over the right katori in the same way. Set a timer. Watch the dye climb. When the front reaches piece 5, lift the strip out and lay it on the tray.",
-          "say": "Strip A dips in at the left. Strip B dips in at the right. Start the timer and watch the dye climb. When it reaches piece five, lift that strip out.",
-          "kid": "Dip strip A at its left end. Dip strip B at its right end. Watch the dye climb. Lift each out at piece 5.",
+          "do": "Place a katori at each end of the tray. Fold the left end of strip A over the left katori so that 1 centimetre dips into the dye. Fold the right end of strip B over the right katori in the same way. Keep the two strips apart so they do not touch. Set a timer. Watch the dye climb. Lift strip A out when its front reaches piece 5. Lift strip B out when its front reaches piece 2, which is the same distance from its dye. Lay both on the tray.",
+          "say": "Strip A dips in at the left. Strip B dips in at the right. Start the timer and watch the dye climb. Lift strip A when the dye reaches piece five. Lift strip B when the dye reaches piece two. Then both have travelled the same distance.",
+          "kid": "Dip strip A at its left end. Dip strip B at its right end. Watch the dye climb. Lift A at piece 5. Lift B at piece 2.",
           "ask": [
             {
               "q": "What do you see where the dye has not yet reached?",
@@ -807,7 +807,7 @@
               ]
             }
           ],
-          "parent": "Dye takes about 5 to 15 minutes to climb 12 centimetres, depending on the paper. Use the front as your clock, not the timer. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops.",
+          "parent": "Dye takes about 5 to 20 minutes to climb 12 to 15 centimetres, depending on the paper. Use the front as your clock, not the timer. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops.",
           "check": {
             "t": "mcq",
             "q": "The dye is darkest near the katori and faint at the far end of the strip. What does this show?",
@@ -846,7 +846,7 @@
               ]
             }
           ],
-          "parent": "A strong answer says that piece 1 got the job its colour showed. It was dark when it was next to the dye, and pale when it was far from the dye. Nothing about the paper changed. Where it sat decided the job. After they have said what they saw, explain: a real embryo uses chemical signals that spread and fade in the same way. A cell reads how much has reached them, and so learns where they are. Cut a third strip and dip it in the middle if there is time. The pattern is a mirror. That is how symmetric parts of a body can be made from one signal.",
+          "parent": "A strong answer says that piece 1 got the job its colour showed. It was dark when it was next to the dye, and pale or white when it was far from the dye. Nothing about the paper changed. Where it sat decided the job. After they have said what they saw, explain: a real embryo uses chemical signals that spread and fade in the same way. A cell reads how much has reached them, and so learns where they are. Cut a third strip and dip it in the middle if there is time. The pattern is a mirror. That is how symmetric parts of a body can be made from one signal.",
           "think": "Real cells in an embryo cannot see colour. What could cells use, instead of colour, to find out where they are?",
           "context": "This is the last step of the Colour Map test. You say your claim, your evidence and your reasoning."
         }
@@ -979,7 +979,7 @@
           "do": "Ask your child to say what they thought, what they saw, and why. Ask which try saved the most time.",
           "say": "Tell me three things. What did you think? What did you see? Why do you think the times changed? Which try saved the most time?",
           "kid": "Say what you thought, what you saw, and why. Which try saved the most?",
-          "parent": "Most people save the most time in the first two or three tries, and then the line flattens. After they have said what they saw, explain: each time you write, the connections between nerve cells that you use get stronger, so the movement needs less effort. The line flattens because the easy gains come first. If there is time, try again tomorrow. Many people find the first try tomorrow is still faster than today's first try.",
+          "parent": "Most people save the most time in the first two or three tries, and then the line flattens. After they have said what they saw, explain: each time you write, the connections between nerve cells that you use get stronger, so the movement needs less effort. The line flattens because the easy gains come first. If there is time, try again tomorrow. The first try tomorrow is often still faster than today's first try.",
           "think": "If you practised for a week, what would the line look like at the end?",
           "context": "This is the last step of the Wrong-Hand test. You say your claim, your evidence and your reasoning."
         }
@@ -1010,7 +1010,7 @@
           "qty": 1
         }
       ],
-      "safety": "Do not eat the raw dough. Use a blunt knife.",
+      "safety": "Do not eat the raw dough. Use a blunt knife with a grown-up nearby. Atta contains wheat, so if anyone in the family is allergic to wheat or gluten, use clay or play dough instead. Wash your hands afterwards.",
       "record": "Draw your two finished hands and write which was easier, and why.",
       "context": "In this activity, you model how a hand forms, by taking dough away. You find out why a hand does not grow by adding fingers.",
       "setup": [
@@ -1071,7 +1071,7 @@
           "id": "s3",
           "mins": 5,
           "do": "Look at the web of skin at the base of your own fingers. Spread your fingers wide. Talk about ducks, who have webbed feet. Ask what might be different in a duck's foot.",
-          "say": "Look at the small web of skin between your fingers at the bottom. A duck has much more web between its toes. What might be different in a duck's foot while it grows?",
+          "say": "Look at the small web of skin between your fingers at the bottom. A duck has much more web between their toes. What might be different in a duck's foot while it grows?",
           "kid": "Spread your fingers wide. Look at the web at the bottom. A duck has more web. Why?",
           "ask": [
             {
@@ -1128,7 +1128,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show your child the typical lengths for a healthy baby. At birth it is 50 centimetres. Then 61 at 3 months, 67 at 6 months, 71 at 9 months, 75 at 12 months, and 87 at 24 months. Ask in which three months a baby grows the most, and why they think so.",
+          "do": "Show your child the typical lengths for a healthy baby. At birth the baby is 50 centimetres long. Then 61 at 3 months, 67 at 6 months, 71 at 9 months, 75 at 12 months, and 87 at 24 months. Ask in which three months a baby grows the most, and why they think so.",
           "say": "Here are typical lengths for a healthy baby. At birth, 50 centimetres. At three months, 61. At six months, 67. At nine months, 71. At twelve months, 75. At two years, 87. In which three months does a baby grow the most? Why?",
           "kid": "Here are baby lengths. 50, 61, 67, 71, 75, 87 centimetres. When does a baby grow most? Why?",
           "ask": [
@@ -1246,7 +1246,7 @@
           "say": "Look at the two books. Are they the same? Look at the circled lines. Are they the same? Who decided which lines to follow?",
           "kid": "Compare the two books. Compare the circles. Who decided which lines to follow?",
           "parent": "The books are identical. The marked lines are different, and the signals came from the neighbours. In early embryos, moved cells follow the signals of their new place. After they have shared their idea, say so. Later in development, cells settle and keep their job.",
-          "think": "If a cell in your skin were moved to your eye early in life, which lines would it follow?",
+          "think": "If a cell in your skin were moved to your eye early in life, which lines would they follow?",
           "context": "In this step, you compare the books and the marks."
         }
       ]
@@ -1362,6 +1362,7 @@
       "title": "Three Stripes From One Dye",
       "mins": 40,
       "problem": "You have only one bottle of dye and one kind of paper towel. Make a strip of paper that shows three clear bands, dark, medium and pale, so that a stranger could tell which band is which at a glance. You may not paint or colour the strip with a brush or a pen.",
+      "safety": "Food colour stains clothes, hands and table tops. Put the tray on newspaper. Use the scissors with a grown-up nearby. Do not taste anything. Wash your hands afterwards.",
       "constraints": [
         "Use only one colour of dye.",
         "Do not paint or draw on the strip.",
@@ -1769,12 +1770,12 @@
               "Cells multiply"
             ],
             [
-              "a baby's brain gets heavier",
+              "a growing child's skin gets bigger",
               "Cells multiply"
             ]
           ],
           "a": "as given",
-          "why": "A body is built both by making cells and by removing them. Fingers, toes and a tadpole's tail are shaped by cell death. Growing bones, healing skin and a growing brain need more cells.",
+          "why": "A body is built both by making cells and by removing them. Fingers, toes and a tadpole's tail are shaped by cell death. Growing bones, healing skin and a growing body need more cells.",
           "outcome": 4
         },
         {
@@ -2309,8 +2310,8 @@
       "art": "A child gently bending the tip of their nose and the edge of their ear."
     },
     {
-      "text": "A duck paddling in a pond, with its webbed feet spread wide.",
-      "art": "A duck swimming, with its webbed feet visible below the water."
+      "text": "A duck paddling in a pond, with their webbed feet spread wide.",
+      "art": "A duck swimming, with their webbed feet visible below the water."
     },
     {
       "text": "A tadpole in a pond or pot, with a tail that gets shorter each week.",
@@ -2365,7 +2366,7 @@
   ],
   "ask_kids": [
     "Look at your hand. What do you think it looked like before you were born?",
-    "If a cell moved to a new place early in growing, which job do you think it would take? Why?",
+    "If a cell moved to a new place early in growing, which job do you think they would take? Why?",
     "Where else do you notice something getting weaker as you move away from it, such as a smell, a sound or warmth?",
     "What is something you can do now that was hard for you at first? What helped you get better?",
     "Babies grow in many ways and families form in many ways. What do all babies need?",
@@ -2382,7 +2383,7 @@
     },
     {
       "j": "Why was the skin cell so calm?",
-      "a": "Nothing could get under it."
+      "a": "Nothing could get under their skin."
     },
     {
       "j": "Why was the growth chart so proud?",
@@ -2406,7 +2407,7 @@
     },
     {
       "j": "Why did the stem cell not choose a job yet?",
-      "a": "It was keeping its options open."
+      "a": "They were keeping their options open."
     },
     {
       "j": "Why did the skeleton not go to the party?",
@@ -2424,7 +2425,7 @@
       "why_maths": "Finding the gain in each step shows you where the line is steepest, and so when growth is fastest."
     },
     {
-      "problem": "A ball of cells doubles in number each round: 1, 2, 4, 8, and so on. How many cells are there after 10 rounds? Then use 1,000 times 1,000 to say roughly how many rounds make a million million.",
+      "problem": "A ball of cells doubles in number each round: 1, 2, 4, 8, and so on. How many cells are there after 10 rounds? Then, since 10 rounds multiply the number by about 1,000, say roughly how many rounds make a million million.",
       "answer": "1,024 cells after 10 rounds. About 40 rounds make a million million.",
       "explain": "The numbers go 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, and then 1,024 after 10 rounds. So every 10 rounds multiplies the number by about 1,000. Four lots of 10 rounds make 1,000 times 1,000 times 1,000 times 1,000, which is a million million. A body of about 30 trillion cells needs around 45 rounds of doubling, in a rough sum. In real bodies, not all cells divide, and many die.",
       "math_unit": "math.number-sense.powers-and-roots.L4",
@@ -2474,7 +2475,7 @@
       "why_maths": "Finding how much was saved on each try shows the shape of the graph: big gains first and smaller gains later."
     },
     {
-      "problem": "A placenta has a folded surface of about 12 square metres. A room is 4 metres long and 3 metres wide. What is the area of the room? Is it more or less than the placenta's surface?",
+      "problem": "In one often-quoted estimate, a placenta has a folded surface of about 12 square metres. A room is 4 metres long and 3 metres wide. What is the area of the room? Is it more or less than the placenta's surface?",
       "answer": "12 square metres. It is about the same.",
       "explain": "The area of a room is length times width. 4 times 3 is 12 square metres. The folded surface of the placenta has about the same area as the floor of this room, though it fits into a flat organ the size of a dinner plate.",
       "math_unit": "math.area-perimeter.area.L4",
@@ -2656,10 +2657,10 @@
     ]
   },
   "how_we_found_out": {
-    "story": "In 1888 the German scientist Wilhelm Roux killed one of the two cells of a frog egg with a hot needle. The other cell grew into half an embryo, so he said every cell is fixed from the start. In 1891 Hans Driesch separated sea urchin cells, and each grew into a whole small animal. So who was right? In Freiburg, Hilde Mangold, a young student of Hans Spemann, tried a new test. She chose a pale newt and a dark newt, so she could tell their cells apart. She took a small piece from the back of the pale embryo and placed it on the belly of the dark one. The dark host grew a second body, a twin joined to the first. Most of the new body was made of the host's own cells. The piece had not become the second body. It had told its neighbours what to become. The paper came out in 1924. That same year Hilde Mangold, still in her twenties, died in an accident with a gas heater at home. Spemann won the Nobel Prize in 1935 for the discovery. The name 'organiser' came from this work.",
+    "story": "In 1888 the German scientist Wilhelm Roux killed one of the two cells of a frog egg with a hot needle. The other cell grew into half an embryo, so he said every cell is fixed from the start. In 1891 Hans Driesch separated sea urchin cells, and each grew into a whole small animal. So who was right? In Freiburg, Hilde Mangold, a young student of Hans Spemann, tried a new test. She chose a pale newt and a dark newt, so she could tell their cells apart. She took a small piece from the back of the pale embryo and placed it on the belly of the dark one. The dark host grew a second body, a twin joined to the first. Most of the new body was made of the host's own cells. The piece had not become the second body. It had told its neighbours what to become. The paper came out in 1924. That same year Hilde Mangold, still in her twenties, died after a fire accident at home. Spemann won the Nobel Prize in 1935 for the discovery. The name 'organiser' came from this work.",
     "who": "Hilde Mangold and Hans Spemann, building on Wilhelm Roux and Hans Driesch",
-    "when": "1888 (Roux), 1891 (Driesch) and 1924 (Mangold and Spemann)",
-    "wrong_idea": "Roux said cells are fixed on their jobs from the start, because half an embryo grew from one live cell. Driesch showed that cells from an early embryo can each make a whole animal. Mangold showed that a small group of cells tells its neighbours what to become."
+    "when": "1888 (Roux), 1891 (Driesch) and 1924 (the year Mangold and Spemann's paper came out)",
+    "wrong_idea": "Roux said cells are fixed on their jobs from the start, because half an embryo grew from one live cell. Driesch showed that cells from an early embryo can each make a whole animal. Mangold showed that a small group of cells tells their neighbours what to become."
   },
   "playtest": "I could not run the experiments here, so this is a desk check, step by step, with a flat's kitchen in mind. Colour Map (e1): paper towel, food colour, two katoris and a tray are all common. The result depends on the dye strength and the paper. The steps say to use the dye front as the clock, to lift the strip at piece 5, and what to do if the strip comes out all dark (add water and use a new strip) or all pale (add drops). I have not seen the fade on a real strip, so a parent should try one strip first. Wrong-Hand Writing (e2): needs only a pen, paper and a clock. Most people speed up in the first three tries, and the steps say what to do if a time goes up. Hand activity: raw dough should not be eaten, and the knife is blunt. Timeline Detective: all 22 cards are written out, with typical ages and a note that babies differ. Played with 1 to 4 players in my head: alone, count points out of 21. The family interviews are optional for families without elders nearby, and ask only what people want to share. Three Stripes: the three-katori dilution method should always work, and the single-dip method may only give a smooth fade. Facts to check before this goes out: the placenta's villous surface of about 12 square metres (varies by source), the typical lengths used in My Growth Line (rounded from WHO medians, average of boys and girls), the 'week' numbers on the timeline cards (counted from when the baby began, not from the mother's last period), Mangold's age and the details of her death, the claim that the duck's webbing comes from fewer cells dying, and the newborn brain weight of about 350 grams. No video was checked, because no ids are filled in."
 }

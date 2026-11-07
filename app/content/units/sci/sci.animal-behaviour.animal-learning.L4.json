@@ -3,7 +3,7 @@
  "title": "How animals learn: getting used to things, linking things, and teaching",
  "level": 4,
  "summary": {
-  "text": "A sparrow that fled a scarecrow on Monday sits on its hat by Friday. Was she careless, or did she learn something? You will test this with a spoon, a plate and two volunteers, and find that getting used to a harmless sound is learned, kept and specific to that sound. Then you follow learning outwards. Animals link a taste to feeling ill in one go, bees learn which flower pays and at what hour, and meerkats and ants teach. Learning even happens in a sea slug with 20,000 nerve cells and in a slime mould with none. Inside a nervous system, it is a change in the connections between cells.",
+  "text": "A sparrow that fled a scarecrow on Monday sits on its hat by Friday. Was she careless, or did she learn something? You will test this with a spoon, a plate and two volunteers, and find that getting used to a harmless sound is learned, kept and specific to that sound. Then you follow learning outwards. Animals link a taste to feeling ill in one go, bees learn which flower pays and at what hour, and meerkats and ants teach. Learning happens in a sea slug with 20,000 nerve cells, and scientists argue that a slime mould with none shows a learning-like change too. Inside a nervous system, it is a change in the connections between cells.",
   "art": "A sparrow sitting on the clay-pot head of a scarecrow in a rice field, with small pictures around it: a sea slug, a bee at a blue flower, a meerkat helper with a pup, and two nerve cells joined by a tiny gap."
  },
  "intro": {
@@ -126,7 +126,7 @@
    "concept": "Learned, or just tired? How scientists tell",
    "status": "defined",
    "definition": "A drop in response counts as habituation, and not as tiredness, when it grows with repeats, comes back for a new stimulus, and belongs to one stimulus.",
-   "description": "In 1966, Richard Thompson and William Spencer listed the signs that a drop in response is learned and not tiredness. First, the response gets smaller with each repeat. Second, a rest lets it come back a little. Third, a different stimulus brings it back at full strength, which is called dishabituation. A tired being would react less to everything, so a strong response to a new sound shows that only the old sound has been learned as harmless. Sounds that are weaker or that come faster are usually ignored sooner.",
+   "description": "In 1966, Richard Thompson and William Spencer listed the signs that a drop in response is learned and not tiredness. First, the response gets smaller with each repeat. Second, a rest lets it come back a little. Third, a different stimulus still gets a full reaction, because the drop belongs to the old stimulus only. A tired being would react less to everything, so a strong response to a new sound shows that only the old sound has been learned as harmless. A strong new stimulus can also bring back the reaction to the old one, and that is called dishabituation. Sounds that are weaker or that come faster are usually ignored sooner.",
    "examples": [
     "After ignoring a spoon, a person jumps at a rattling tin.",
     "A sea slug that ignores a gentle touch still pulls in the gill at a stronger touch.",
@@ -165,7 +165,7 @@
    "concept": "Bees: small bodies that learn",
    "status": "defined",
    "definition": "Honeybees and bumblebees learn the colour, smell, shape and place of flowers that pay, and even the time of day.",
-   "description": "A honeybee's brain has about a million nerve cells, and a human brain has about 86 billion. Yet bees learn a lot. In 1929, Ingeborg Beling showed that honeybees fed at the same time each day came at that time on later days, even with no food there. In 2017, Olli Loukola, Lars Chittka and colleagues showed that bumblebees can learn to roll a ball to a goal for sugar by watching another bee, while bees left alone almost never found the way. So learning does not need a big brain. It needs a body that can change with experience.",
+   "description": "A honeybee's brain has about a million nerve cells, and a human brain has about 86 billion. Yet bees learn a lot. In 1929, Ingeborg Beling showed that honeybees fed at the same time each day came at that time on later days, even with no food there. In 2017, Olli Loukola, Lars Chittka and colleagues showed that bumblebees can learn to roll a ball to a goal for sugar by watching another bee, while bees that saw no demonstration rarely found the way. So learning does not need a big brain. It needs a body that can change with experience.",
    "examples": [
     "A honeybee returns to a feeder at four o'clock each day.",
     "A bumblebee learns to roll a ball by watching another bee.",
@@ -177,7 +177,7 @@
   {
    "concept": "Learning without a brain",
    "status": "debated",
-   "description": "A bacterium swimming towards food compares the food now with a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, got used to crossing a harmless bitter bridge to reach food after about six days. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop a month later. Scientists agree that these changes happen. They argue about whether to call them learning.",
+   "description": "A bacterium swimming towards food compares the food now with a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, got used to crossing a harmless bitter bridge to reach food within about a week. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop 28 days later. Scientists agree that these changes happen. They argue about whether to call them learning.",
    "examples": [
     "A slime mould crosses a bitter bridge that was first avoided.",
     "A touch-me-not plant stops folding the leaves at a harmless drop.",
@@ -262,7 +262,7 @@
  ],
  "agreed": [
   {
-   "text": "Habituation is found in every kind of animal that has been tested, from sea slugs to humans.",
+   "text": "Habituation is found in almost every kind of animal that has been tested, from sea slugs to humans.",
    "evidence": "Richard Thompson and William Spencer (1966) listed the same signs in many species, and later work added more."
   },
   {
@@ -297,7 +297,7 @@
   {
    "claim": "Plants such as the touch-me-not learn.",
    "who": "Monica Gagliano and colleagues, 2014",
-   "for": "Plants dropped many times stopped folding the leaves, and still ignored the drop a month later.",
+   "for": "Plants dropped many times stopped folding the leaves, and still ignored the drop 28 days later.",
    "against": "Other laboratories want to repeat the result, and to rule out tired leaf cells.",
    "status": "minority"
   },
@@ -399,7 +399,7 @@
   {
    "id": "g1",
    "title": "Bee School: which flower pays?",
-   "mins": 20,
+   "mins": 23,
    "players": "2 to 4 players",
    "context": "This is a guessing game about learning from a pay-off. One player is the garden and the others are bees. The bees must work out which flower colour has nectar, even when the garden quietly changes it.",
    "setup": [
@@ -520,7 +520,7 @@
     },
     {
      "id": "s4",
-     "mins": 3,
+     "mins": 6,
      "do": "Play rounds 17 to 24 with the third rule card. Keep writing and circling.",
      "say": "Last block. The garden has changed once more. Pick your flowers.",
      "kid": "Play the last eight rounds. Keep writing and circling.",
@@ -542,7 +542,7 @@
   {
    "id": "e1",
    "title": "The Spoon Test: does a person get used to a sound that keeps being harmless?",
-   "mins": 36,
+   "mins": 39,
    "days": 1,
    "question": "If a steel spoon rings on a plate again and again behind someone, do their jumps get smaller? If they do, is the person only tired, or have they learned something?",
    "predict": "Before you start, guess. Will the jumps get smaller, stay the same or get bigger? Then guess what a brand new sound will do. Say why you think so.",
@@ -787,7 +787,7 @@
     },
     {
      "id": "s6",
-     "mins": 10,
+     "mins": 13,
      "do": "Repeat steps three to five with the second volunteer. Use the same plate, the same spoon and the same gaps. Score in the second column of the table.",
      "say": "Now the second volunteer. We do everything exactly the same, so that we can compare the two.",
      "kid": "Do the same with the second volunteer. Use the second column.",
@@ -801,7 +801,7 @@
      "say": "Tell me three things. What do you think happened? What did you see in the scores? Why do you think it happened?",
      "kid": "Draw a line for each volunteer. Say what you think, what you saw and why.",
      "think": "If the person were only tired, would a new sound make them jump?",
-     "parent": "A strong answer says that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The jump coming back for a new sound has a name too, dishabituation. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.",
+     "parent": "A strong answer says that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the next spoon rings also jump a little more after the tin, that is called dishabituation. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.",
      "context": "This is the last step of the Spoon Test. You draw the graph and say what you found."
     }
    ]
@@ -862,12 +862,12 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 22,
      "what": "Make the slips. Cram one list in eight minutes. Study the other list in four short sittings through the day."
     },
     {
      "day": 2,
-     "mins": 15,
+     "mins": 23,
      "what": "Test both lists and write the scores. Compare the two ways of learning."
     }
    ],
@@ -1224,7 +1224,7 @@
    "id": "p1",
    "title": "The Appointment: do the visitors learn the time?",
    "days": 7,
-   "mins": 60,
+   "mins": 80,
    "materials": [
     {
      "item": "a small dish of broken rice and a bowl of clean water, to put on the same ledge or balcony every day",
@@ -1240,7 +1240,7 @@
      "buy": "b-timer"
     }
    ],
-   "safety": "Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards.",
+   "safety": "Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards. A grown-up puts the dish out on any ledge that is high or has no railing, and your child must never lean over or climb on a ledge.",
    "schedule": [
     {
      "day": 1,
@@ -1269,7 +1269,7 @@
     },
     {
      "day": 6,
-     "mins": 10,
+     "mins": 30,
      "what": "Put out nothing. Watch the ledge for 30 minutes around the usual time. Write who comes, and when."
     },
     {
@@ -1325,7 +1325,7 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 30,
      "do": "On day six, put out nothing. Watch the ledge from 15 minutes before the usual time until 15 minutes after. Write who comes, and when.",
      "say": "Today we put out nothing. We just watch. Will anybody come at the usual time?",
      "kid": "Put out nothing today. Watch the ledge for 30 minutes. Write who comes.",
@@ -1416,7 +1416,7 @@
      "do": "Test your pattern on one volunteer: 20 sounds, 15 seconds apart. Then test the steady spoon on another volunteer in the same way. Score every sound with the Spoon Test card.",
      "say": "Do your puzzle, please. Sounds will come from behind. First the pattern. Then the steady spoon, with a different person.",
      "kid": "Ring your pattern 20 times behind one volunteer. Ring the steady spoon behind another. Score each.",
-     "parent": "Pick volunteers who agree and who are not startled by sudden sounds. Choose gentle volume for every sound. It is a fair test only if both volunteers sit the same way and do the same kind of puzzle. Write that the volunteers differ, and say why this matters.",
+     "parent": "Pick volunteers who agree and who are not startled by sudden sounds. Follow the Spoon Test safety rules: nothing close to an ear, and no babies or anyone with a heart problem. Choose gentle volume for every sound. It is a fair test only if both volunteers sit the same way and do the same kind of puzzle. Write that the volunteers differ, and say why this matters.",
      "context": "In this step you test your pattern and the steady spoon on two volunteers."
     },
     {
@@ -1448,7 +1448,7 @@
    "youtube": "",
    "status": "find-id",
    "mins": 4,
-   "why": "Shows a slime mould crossing a bridge of oats, and how it stopped avoiding a harmless bitter bridge after several days.",
+   "why": "Shows a slime mould crossing a bridge of oats, and how they stopped avoiding a harmless bitter bridge after several days.",
    "check": "No video id yet. Search for Dussutour slime mould habituation. Check that the video shows the bitter bridge, that the claims match the 2016 paper, and that the length is under five minutes."
   },
   {
@@ -1789,7 +1789,7 @@
        "says": "The sparrow is foolish. She should still be afraid."
       },
       {
-       "who": "Arun, a boy in Class 4 (an imagined view)",
+       "who": "Anjali, a girl in Class 4 (an imagined view)",
        "says": "The sparrow has learned that the scarecrow never hurts her. That is learning."
       }
      ],
@@ -1913,7 +1913,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort each by whether the animal is born able, or learns it.",
+     "p": "Sort each by whether the skill is built in from birth or learned.",
      "cats": [
       "Born able",
       "Learned"
@@ -1976,7 +1976,7 @@
     },
     {
      "t": "perspective",
-     "p": "Slime moulds get used to a harmless bitter bridge after about six days, and no nerve cells are involved.",
+     "p": "Slime moulds get used to a harmless bitter bridge within about a week, and no nerve cells are involved.",
      "views": [
       {
        "who": "Dr Rao, a scientist (an imagined view)",
@@ -2073,7 +2073,7 @@
        "says": "This is teaching. The helper changes what she gives, it costs her a meal, and the pup learns faster."
       },
       {
-       "who": "Daniel, a boy in Class 4 (an imagined view)",
+       "who": "Deepa, a girl in Class 4 (an imagined view)",
        "says": "We cannot be sure this is teaching. We do not know that the helper understands what the pup does not know."
       }
      ],
@@ -2131,15 +2131,15 @@
        },
        {
         "label": "3",
-        "value": 1
-       },
-       {
-        "label": "4",
         "value": 2
        },
        {
-        "label": "5",
+        "label": "4",
         "value": 1
+       },
+       {
+        "label": "5",
+        "value": 2
        },
        {
         "label": "6",
@@ -2386,7 +2386,7 @@
   },
   {
    "j": "How does a slime mould study for a test?",
-   "a": "It oozes through all the books."
+   "a": "They ooze through all the books."
   },
   {
    "j": "Why did the meerkat helper hand the pup a dead scorpion first?",
@@ -2476,12 +2476,12 @@
    "why_maths": "Adding the scores in two halves is a quick way to see whether the jumps got smaller."
   },
   {
-   "problem": "In the last block of the Spoon Test, a volunteer's total fell from 10 points to 2. What fraction of the first total is left? Write it in its simplest form.",
+   "problem": "In made-up Spoon Test scores, the first six rings add to 10 points and the last six add to 2 points. What fraction of the first total is left? Write it in its simplest form.",
    "answer": "One fifth.",
    "explain": "2 out of 10 is 2 tenths. Dividing the top and bottom by 2 gives 1 out of 5. So only one fifth of the jumping is left.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "how": "e1",
-   "context": "In the Spoon Test, a volunteer's jump scores fell as the spoon was rung again and again.",
+   "context": "In the Spoon Test, a volunteer's jump scores fall as the spoon is rung again and again. These are made-up totals.",
    "why_maths": "A fraction shows how much of the reaction is left, and it is easier to compare between volunteers than two raw totals."
   },
   {
@@ -2494,13 +2494,13 @@
    "why_maths": "A ratio compares two results with one number, and shows how large the difference is."
   },
   {
-   "problem": "In The Appointment, a honeybee was fed at 4:00 pm each day. On day six she came at 3:50 pm and left at 4:25 pm, with no food there. How many minutes did she wait before 4:00, and how many after 4:00? How long was she there in all?",
-   "answer": "10 minutes before 4:00, 25 minutes after, and 35 minutes in all.",
-   "explain": "From 3:50 to 4:00 is 10 minutes. From 4:00 to 4:25 is 25 minutes. 10 plus 25 is 35 minutes. She was waiting around her learned time.",
+   "problem": "In The Appointment, a crow was fed at 7:30 am each day. On day six no food was put out. The crow came at 7:20 am and left at 7:55 am. How many minutes was the crow there before 7:30, and how many after 7:30? How long was the crow there in all?",
+   "answer": "10 minutes before 7:30, 25 minutes after, and 35 minutes in all.",
+   "explain": "From 7:20 to 7:30 is 10 minutes. From 7:30 to 7:55 is 25 minutes. 10 plus 25 is 35 minutes. The crow was waiting around the learned feeding time.",
    "math_unit": "math.time.duration.L4",
    "how": "p1",
    "context": "In The Appointment, visitors are fed at the same time every day and you see whether they come at that time with no food.",
-   "why_maths": "Working out how long a visitor waits shows how exactly an animal has learned the time."
+   "why_maths": "Working out how long a visitor stays around the usual time shows how exactly an animal has learned the time."
   },
   {
    "problem": "A die has six faces. A guard picks sound 1, 2, 3 or 4 when the die shows that number, and rolls again on a 5 or a 6. What is the chance that the next sound is the same as the last one?",
@@ -2640,7 +2640,7 @@
   },
   {
    "q": "Does a slime mould have nerve cells?",
-   "a": "No, yet it can get used to a harmless bitter bridge."
+   "a": "No, yet they can get used to a harmless bitter bridge."
   },
   {
    "q": "Which usually lasts longer: spaced practice or cramming?",
@@ -2734,13 +2734,13 @@
  "roots": {
   "context": "We have tested whether a person gets used to a sound, and followed learning from sea slugs to teaching. Now we ask what getting used to something tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "When the same harmless thing keeps happening, even a one-celled swimmer stops reacting to it. That is not carelessness. It is the simplest kind of learning, because the body keeps the change. So learning begins with finding out what does not matter.",
+   "truth": "When the same harmless thing keeps happening, even a one-celled pond animal can stop reacting to that thing. That is not carelessness. It is the simplest kind of learning, because the body keeps the change. So learning begins with finding out what does not matter.",
    "habit": "We think learning means adding something new, and that ignoring means not paying attention. But getting used to a harmless sound is a change that is kept, and it is specific to that sound. It is learning too.",
    "evidence": "In the Spoon Test, the jumps got smaller with each ring of the spoon, yet a new sound brought the jump back at once. Sea slugs, one-celled swimmers and slime moulds all show the same pattern."
   },
   "three": {
    "who_am_i": "All day you ignore your clothes, the fan and the fridge. Part of who you are is everything your body has learned to leave out.",
-   "what_is_life": "A sea slug, a one-celled swimmer and a slime mould all get used to harmless things. So learning is older than brains.",
+   "what_is_life": "A sea slug, a one-celled swimmer and a slime mould all get used to harmless things. So a learning-like change is older than brains.",
    "what_is_this_world": "The world sends signals all the time. Every living being sorts them into the ones that matter and the ones that do not."
   },
   "thread": "A sea slug touched again and again sends less chemical across one connection. A one-celled swimmer and a slime mould change in a similar way, with no nerve cells at all. In each case, a living being meets the world, is changed by it, and keeps the change. So learning is where the world leaves a mark on a being, and the being sorts out which marks to keep. The mark can be as small as one connection, or as large as a whole way of living, such as a bee knowing the time of day.",
