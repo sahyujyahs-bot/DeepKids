@@ -1,0 +1,2767 @@
+{
+  "id": "sci.forces.friction.L4",
+  "title": "Friction: how hard is the grip, and what decides it?",
+  "level": 4,
+  "summary": {
+    "text": "Load a box with more weight and it needs a harder pull to move. Turn the same box onto its narrow side, so less of it touches the floor, and the pull barely changes. Friction grows with how hard two things press together, not with how much of them you can see. That is because two surfaces really touch only at tiny spots, and pressing harder makes more spots touch. Three turns of thread round a pencil can hold a bottle of water, because each turn makes the grip several times stronger. Scientists still cannot work out friction from atoms alone.",
+    "art": "A split picture: on the left a box on a floor with a magnifying glass showing two rough surfaces touching at only a few peaks, on the right a thread wound three times round a pencil holding up a water bottle."
+  },
+  "intro": {
+    "hook": "Try this. Lay your hand flat on a table and press down gently. Slide your hand along. Now press down hard and slide again. When was it harder to slide, and why do you think so?",
+    "text": "At a harbour, one person can stop a huge boat with a rope and an iron post. No arm is that strong. In this unit you will find out what the rope is using. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.",
+    "art": "A hand pressing flat on a wooden table, with small arrows pointing down for the press and sideways for the slide, and a faint iron post with a rope wound round it in the background."
+  },
+  "outcomes": [
+    "I can say that friction grows when two surfaces press together harder, and that it also depends on what the two surfaces are made of.",
+    "I can run a fair test with a rubber band gauge, repeat each measurement, and show the results in a table and a graph.",
+    "I can explain why friction on a hard, flat surface hardly changes with the size of the face, using the idea of tiny real contact spots.",
+    "I can tell starting friction from sliding friction, and explain why things can stick and slip in jerks.",
+    "I can explain how rollers, wheels, ball bearings and oil lower friction, and why thick liquids drag.",
+    "I can explain how turns of a rope round a post make the grip several times stronger with every turn.",
+    "I can say that the work done against friction turns into heat, and work it out as friction force times distance.",
+    "I can say what scientists agree about friction, and what they still do not know."
+  ],
+  "cards_mins": 20,
+  "terms": [
+    {
+      "term": "Friction",
+      "meaning": "The grip between two surfaces that touch. It works against sliding.",
+      "example": "A chappal does not slip on a dry road because of friction.",
+      "art": "A chappal pressed on a road, with a short arrow pointing backwards along the road."
+    },
+    {
+      "term": "Pressing force",
+      "meaning": "How hard two surfaces are pushed together. Scientists also call it the normal force.",
+      "example": "A box with a heavy load presses on the floor harder than an empty box.",
+      "art": "A box with sacks on it, and a big arrow pointing down into the floor."
+    },
+    {
+      "term": "Coefficient of friction",
+      "meaning": "A number that says how grippy two surfaces are together. It is the friction force divided by the pressing force. It has no unit.",
+      "example": "Rubber on a dry road is about 0.8. Steel on ice is about 0.03.",
+      "art": "Two blocks on a ramp, one with a high number tag and one with a low number tag."
+    },
+    {
+      "term": "Proportional",
+      "meaning": "Two things are proportional when one doubles whenever the other doubles.",
+      "example": "If a box with 1 kilogram needs 3 newtons of pull, a box with 2 kilograms needs about 6 newtons.",
+      "art": "A straight line on a graph starting at zero and climbing steadily."
+    },
+    {
+      "term": "Bump (asperity)",
+      "meaning": "A tiny peak on a surface. Every surface has bumps, even one that feels smooth.",
+      "example": "Under a microscope, a polished steel spoon looks like a mountain range.",
+      "art": "A magnified surface drawn as a mountain range with peaks and valleys."
+    },
+    {
+      "term": "Apparent area",
+      "meaning": "The area of a surface that you can see and measure with a ruler.",
+      "example": "The big face of a shoebox has a larger apparent area than its end.",
+      "art": "A shoebox with its large face shaded in one colour and its narrow end in another."
+    },
+    {
+      "term": "Real contact area",
+      "meaning": "The tiny total area where two surfaces really touch, at the tips of their bumps. It is much smaller than the apparent area.",
+      "example": "A steel box on a steel table touches at only a tiny fraction of the face you see.",
+      "art": "Two mountain-range surfaces touching at three small peaks, with the touching spots coloured red."
+    },
+    {
+      "term": "Starting friction",
+      "meaning": "The friction that holds a thing still until you push hard enough to start it moving. Scientists call it static friction.",
+      "example": "A heavy almirah stays still until you push hard, and then it moves.",
+      "art": "A person pushing a cupboard that has not moved yet, with arrows of equal length."
+    },
+    {
+      "term": "Stick-slip",
+      "meaning": "Motion in jerks. A thing sticks, then slips, then sticks again, over and over.",
+      "example": "A squeaking chalk, a squeaking door hinge and a violin bow all move by stick-slip.",
+      "art": "A chalk drawing a dotted line on a blackboard in small jerks."
+    },
+    {
+      "term": "Rolling friction",
+      "meaning": "The friction on a wheel or ball that rolls without sliding. It is usually much smaller than sliding friction.",
+      "example": "A suitcase on wheels is much easier to pull than one dragged on the floor.",
+      "art": "A wheeled suitcase and a dragged suitcase side by side, with a short arrow and a long arrow."
+    },
+    {
+      "term": "Ball bearing",
+      "meaning": "A ring of small balls that lets two parts turn past each other by rolling instead of sliding.",
+      "example": "A cycle wheel hub and a ceiling fan both have ball bearings.",
+      "art": "A metal ring of tiny balls between two rings, shown as a cut-open picture."
+    },
+    {
+      "term": "Viscosity",
+      "meaning": "How thick and slow a liquid is, because of the friction between its own parts. Honey has high viscosity and water has low viscosity.",
+      "example": "Honey pours slowly and water pours fast.",
+      "art": "A spoon of honey and a spoon of water pouring side by side, one in a thick slow stream."
+    },
+    {
+      "term": "Bollard",
+      "meaning": "A short, strong post on a quay or pier that a rope is wound round to hold a boat.",
+      "example": "At Fort Kochi, boats are tied to iron bollards on the quay.",
+      "art": "An iron post on a stone quay with a rope wound three times round it."
+    },
+    {
+      "term": "Adhesion",
+      "meaning": "The sticking of two different things together by the pull between their atoms.",
+      "example": "A sticker sticks to a wall by adhesion.",
+      "art": "A sticker stuck to a tile with tiny arrows between its atoms and the tile's atoms."
+    }
+  ],
+  "explanations": [
+    {
+      "concept": "What decides how big friction is",
+      "status": "defined",
+      "definition": "On a flat surface, the friction force is about equal to mu times the pressing force, where mu depends on the two surfaces.",
+      "description": "On a flat floor, friction depends on two things. The first is how hard the two surfaces press together. The second is what the two surfaces are made of. Double the pressing force and the friction roughly doubles. Scientists write this as friction = mu times the pressing force. Mu is the coefficient of friction, a number that belongs to a pair of surfaces. A larger mu means a stronger grip. The rule is a good guide for hard, dry things, but it is not exact.",
+      "examples": [
+        "A box with 2 kilograms in it needs about twice the pull of the same box with 1 kilogram in it.",
+        "Rubber on a dry road has a mu of about 0.8. Steel on ice has a mu of about 0.03, which is about 27 times less grip.",
+        "Pressing a finger hard on a pencil makes it harder to pull the pencil away."
+      ],
+      "perspectives": [],
+      "art": "A box on a floor with three loads stacked in turn and three arrows of growing length for the pull needed.",
+      "context": "This card explains the first big result of the Press Harder test: how the pull changes when the load changes."
+    },
+    {
+      "concept": "Why a wide face and a narrow face grip about the same",
+      "status": "defined",
+      "definition": "For hard, dry surfaces, friction is almost the same whatever the size of the face that touches. This is called Amontons's second law.",
+      "description": "This rule surprises almost everyone. Take a box and lay it on its big face. Then stand it on its narrow side. The weight is the same, and the pull needed to start it is about the same. Many people expect the bigger face to grip more, because more of the box touches the floor. But the weight is the same, and the weight is what presses. A wider face spreads the same weight over more bumps, and each bump is pressed less. A narrower face puts the same weight on fewer bumps, and each bump is pressed more. The total grip comes out about equal. The rule works for hard, dry surfaces. It fails for soft things such as rubber, and for things that stick, like tape.",
+      "examples": [
+        "A brick pulled on its big face or on its narrow end needs about the same pull.",
+        "A wide bicycle tyre and a thin one of the same bicycle brake in nearly the same distance on a dry, clean road. Racing tyres are special, because the rubber is soft and sticky.",
+        "A tractor on a muddy field needs wide, patterned wheels for a different reason. Mud is soft, and the wide wheel stops the wheel sinking."
+      ],
+      "perspectives": [],
+      "art": "A box lying flat and a box standing on its end, each with the same pull arrow, and a note that says the same weight.",
+      "context": "This card explains the second result of the Press Harder test: why turning the box onto its side changes little."
+    },
+    {
+      "concept": "Why surfaces touch only at tiny spots",
+      "status": "defined",
+      "definition": "Real contact area is the small total area where the bumps of two surfaces touch. It grows when the surfaces press together harder.",
+      "description": "Under a microscope, even a polished surface is a mountain range. When you put two surfaces together, the peaks of one rest on the peaks of the other. They do not lie flat on each other like two sheets of paper. The area where they truly touch, called the real contact area, is a tiny fraction of the area you can see. For hard metals it is often less than one thousandth. Now press harder. The peaks that touch are squashed a little, and more peaks come into contact. Double the press and about double the real contact area. Friction comes from the grip at the touching spots. So doubling the pressing force doubles the real contact, and doubles the grip.",
+      "examples": [
+        "Two steel plates pressed together carry electricity only through a few tiny spots, so the current is smaller than a full contact would allow.",
+        "Pressing your thumb harder on a table makes more of your skin touch the table.",
+        "Two sheets of paper on a desk touch at the high points of the paper fibres, with gaps everywhere else."
+      ],
+      "perspectives": [],
+      "art": "Two magnified rough surfaces touching at a few peaks, and a second picture where they are pressed harder and more peaks touch.",
+      "context": "This card explains why the rules in the Press Harder test come out the way they do."
+    },
+    {
+      "concept": "Where does the grip really come from?",
+      "status": "debated",
+      "description": "Everyone agrees that friction depends on the load and the materials. They do not fully agree on what happens at the touching spots. Three ideas have been put forward over three hundred years, and each seems to be partly right.",
+      "examples": [
+        "Sandpaper clearly grips by catching on bumps.",
+        "Two clean, very smooth metal plates in a vacuum can weld themselves together, which bumps alone cannot explain.",
+        "A gecko walks up glass without any bumps for catching."
+      ],
+      "perspectives": [
+        {
+          "who": "Guillaume Amontons, a French scientist, in 1699, and many after him",
+          "explanation": "Surfaces grip because their bumps catch on each other. To slide, one surface must lift up and over the bumps of the other."
+        },
+        {
+          "who": "Frank Bowden and David Tabor, at the University of Cambridge, in the 1940s and 1950s",
+          "explanation": "At the touching spots, the surfaces stick to each other, almost as if they were welded. Sliding means tearing these tiny joins apart again and again. Friction is the force needed to break them."
+        },
+        {
+          "who": "Jacqueline Krim, a physicist in the United States, and other scientists who study friction between single layers of atoms, from the 1980s",
+          "explanation": "At the level of atoms, friction depends on how the atoms of the two surfaces line up, how they shake and how much heat they carry away. The old rules do not always hold at this tiny size."
+        },
+        {
+          "who": "Many scientists today",
+          "explanation": "All three ideas matter. Which one matters most depends on the materials and on the size we look at. No single theory yet predicts the friction of any pair of materials from atoms upward."
+        }
+      ],
+      "art": "Three small drawings of two surfaces: bumps catching on bumps, atoms of two surfaces holding on to each other, and a thin layer of molecules between them.",
+      "context": "This card is about the question that remains after the Press Harder test: what happens at the touching spots? Scientists still discuss it."
+    },
+    {
+      "concept": "Starting friction, sliding friction and stick-slip",
+      "status": "defined",
+      "definition": "Starting friction holds a thing still up to a limit. Sliding friction is usually a little smaller. Stick-slip is the jerky movement that results.",
+      "description": "Push a heavy box gently. It does not move, because friction pushes back just as hard as you push. Push a little harder and friction pushes back harder too. This goes on up to a limit. Past the limit, the box starts to move. The friction of a moving box is usually a little smaller than the limit. So the box jumps forward a little when it starts. Now imagine a thing being pulled slowly by a spring. It sticks, the spring stretches, the pull passes the limit, the thing slips forward, the spring relaxes and the thing sticks again. This repeats many times a second or just once in a while. It is called stick-slip.",
+      "examples": [
+        "A chalk squeaks on a blackboard because it sticks and slips again and again.",
+        "A violin or sarangi bow makes a string vibrate by sticking to the string and slipping off it, thousands of times each second.",
+        "A rusty door hinge squeaks for the same reason."
+      ],
+      "perspectives": [],
+      "art": "A graph drawn as saw teeth, with a box and a spring beside it, showing the force going up and dropping again and again.",
+      "context": "This card explains the jerks that you see when you do the Walking Ruler activity."
+    },
+    {
+      "concept": "Rolling and ball bearings",
+      "status": "defined",
+      "definition": "Rolling friction is the friction on a wheel or ball that rolls instead of sliding. It is usually much smaller than sliding friction.",
+      "description": "A wheel does not slide along the ground. It rolls. The patch of the wheel that touches the ground is for a moment still, so it does not rub. Because of this, rolling friction is usually many times smaller than sliding friction. This is why a wheeled suitcase is easy to pull and a dragged one is hard. A ball bearing puts rolling balls between two parts that turn, so even the axle can roll instead of slide. Rolling friction is not zero. Wheels and the road squash a little as they roll, and this takes energy.",
+      "examples": [
+        "Pencils laid under a heavy book let you push the book with one finger.",
+        "Ball bearings sit inside bicycle hubs, ceiling fans and skateboard wheels.",
+        "A railway wheel on a steel rail has very low rolling friction, so a train can pull a very heavy load."
+      ],
+      "perspectives": [],
+      "art": "A heavy book on three pencils with a small arrow, next to the same book dragged with a long arrow.",
+      "context": "This card explains the Rollers and Marbles activity."
+    },
+    {
+      "concept": "Friction inside liquids",
+      "status": "defined",
+      "definition": "Fluid friction is the friction inside a liquid or gas and on things that move through it. Viscosity is how large it is.",
+      "description": "A liquid has friction too. Its layers rub against each other, and against anything that moves through it. This is called fluid friction. How strong it is depends on the liquid. The word for how thick and slow a liquid is, is viscosity. Honey is thousands of times more viscous than water. A ball falls through honey slowly and through water quickly. Warm honey flows more easily than cold honey, because heat makes the molecules move faster and slip past each other more easily. Engine oil is made to thin out in a controlled way as the engine warms, so it keeps working from a cold morning to a hot road.",
+      "examples": [
+        "Honey, ghee and coconut oil all flow faster after they are warmed.",
+        "A boat feels the friction of water as it moves, and a cyclist feels the friction of air.",
+        "Engine oil and the oil in a bicycle chain keep metal parts from rubbing directly."
+      ],
+      "perspectives": [],
+      "art": "A marble falling in a tall glass of water and in a tall glass of honey, with arrows of different length for the speed.",
+      "context": "This card explains the Slow Drop activity."
+    },
+    {
+      "concept": "The rope rule: why turns multiply the grip",
+      "status": "defined",
+      "definition": "When a rope is wound round a post, each extra turn multiplies the load that a light pull can hold by the same number.",
+      "description": "A rope wound round a post holds a heavy load with a light pull. Every part of the rope that touches the post adds a little friction. The more rope touches the post, the more friction there is. Here is the surprising part. Each extra turn does not add the same amount. It multiplies the grip by the same number. If the first turn makes the hold six times easier, the second turn makes it six times easier again, so two turns make it thirty-six times easier. The number depends on the rope and the post. Leonhard Euler worked out this rule in the 1700s. Sailors and boatmen had been using it for thousands of years before anyone wrote it down.",
+      "examples": [
+        "A boat is held on a bollard with three or four turns of rope and a light hold on the tail.",
+        "A knot in a shoelace holds because each crossing of the lace is a turn with friction.",
+        "Rock climbers wind a rope through a device so that a light hold can catch a fall."
+      ],
+      "perspectives": [],
+      "art": "A rope wound once, twice and three times round a post with a smaller and smaller hand on the end.",
+      "context": "This card explains the Wrap the Thread test and the story."
+    },
+    {
+      "concept": "Grip in living bodies",
+      "status": "debated",
+      "description": "Living beings are experts in friction. A gecko's toes carry millions of tiny hairs. Each hair is split into even tinier ends that get so close to a surface that the pull between atoms holds them on. A tree frog has toe pads that are wet and patterned, and they grip wet leaves. Your own fingertips have ridges called fingerprints. Skin with a little moisture grips best. Scientists still disagree about why fingers wrinkle in water. Some think the wrinkles are channels that help grip wet things, like the tread on a tyre. Other experiments found little or no help.",
+      "examples": [
+        "A gecko can walk across a glass ceiling.",
+        "A tree frog's toes grip a wet leaf in the rain.",
+        "A mountain climber's chalk dries the hands, and a surgeon's glove keeps a grip."
+      ],
+      "perspectives": [
+        {
+          "who": "Mark Changizi and colleagues, 2011",
+          "explanation": "Wet fingers wrinkle into channels, like the tread of a tyre, so that water can drain away and the fingers grip better in the rain."
+        },
+        {
+          "who": "Kyriacos Kareklas, Daniel Nettle and Tom Smulders, 2013",
+          "explanation": "In a test, people with wrinkled fingers picked up wet objects faster than people with smooth fingers. They found no difference with dry objects."
+        },
+        {
+          "who": "Other researchers who repeated the test",
+          "explanation": "Some other experiments found no clear help from wrinkles, so scientists are still arguing about it."
+        }
+      ],
+      "art": "A gecko's foot with a zoomed picture of the hairs on a toe, and beside it a fingertip with ridges.",
+      "context": "This card is about how animals, including us, grip. Scientists do not agree about everything here."
+    },
+    {
+      "concept": "Friction costs energy",
+      "status": "defined",
+      "definition": "The work done against friction is the friction force times the distance moved. It ends up as heat.",
+      "description": "To drag a box across a floor, you must keep pushing, and you do work. Scientists measure the work as the pushing force times the distance. This work does not disappear. It turns into heat, as the surfaces and the air warm up a little. If the friction force is 5 newtons and you drag the box 10 metres, you do 5 times 10, which is 50 joules of work, and all 50 joules end up as heat. Wheels and oil lower the friction force, so the same journey costs less energy. All over the world, a large share of the fuel used by machines goes into overcoming friction.",
+      "examples": [
+        "A cyclist's legs do work against friction in the chain, the tyres and the air.",
+        "Brake pads get hot, because the movement of the vehicle turns into heat in the brakes.",
+        "Rubbing your hands warms them, because your push does work against friction."
+      ],
+      "perspectives": [],
+      "art": "A box being dragged 10 metres, with a number 5 on the pull arrow, a number 10 on the distance and a red heat glow at the bottom of the box.",
+      "context": "This card links friction to energy, which is the idea behind the question: where does the movement go?"
+    }
+  ],
+  "agreed": [
+    {
+      "text": "On a flat, dry surface, friction is roughly proportional to how hard the two surfaces press together.",
+      "evidence": "People have pulled loaded blocks along tables with spring scales since the 1600s. The pull needed grows close to evenly with the load for hard, dry surfaces."
+    },
+    {
+      "text": "On hard, dry surfaces, friction hardly changes with the size of the face that touches.",
+      "evidence": "Amontons found this in 1699 and Coulomb confirmed it in 1785. It is easy to test with a brick on its big face and its narrow end."
+    },
+    {
+      "text": "Two surfaces touch only at the tips of their bumps, a tiny part of the area you can see.",
+      "evidence": "Bowden and Tabor measured how well electricity passed between pressed metal surfaces. It passed through only tiny spots."
+    },
+    {
+      "text": "Rolling friction is usually much smaller than sliding friction.",
+      "evidence": "Loads can be moved on rollers or wheels with a fraction of the force needed to drag them. Engineers have measured the difference for centuries."
+    },
+    {
+      "text": "The work done against friction turns into heat.",
+      "evidence": "Rumford (1798) and Joule (1840s) showed that rubbing and stirring make heat in exact amounts."
+    }
+  ],
+  "challenging": [
+    {
+      "claim": "Two flat things pressed together touch each other all over.",
+      "who": "Almost everyone, because the surfaces look and feel smooth.",
+      "for": "A mirror, a glass tumbler and a polished tile look perfectly flat and smooth.",
+      "against": "Under a microscope, every surface is full of peaks. Electricity passes between two pressed metal plates through only tiny spots. The real touching area is much smaller than it looks.",
+      "status": "rejected"
+    },
+    {
+      "claim": "A bigger face always has more friction than a smaller face.",
+      "who": "Many students, and many adults.",
+      "for": "More of the box is touching the floor, so it seems it should grip more.",
+      "against": "For hard, dry things, the same weight spreads over more bumps, each pressed less. The total grip is nearly the same. Soft rubber and sticky tape are exceptions.",
+      "status": "rejected"
+    },
+    {
+      "claim": "Friction is a fixed number that is always at its maximum.",
+      "who": "Many students.",
+      "for": "Friction always seems to be 'in the way'.",
+      "against": "When you push a heavy cupboard gently and it does not move, friction pushes back exactly as hard as you push. It rises as you push, up to a limit. After the limit, the cupboard moves.",
+      "status": "rejected"
+    },
+    {
+      "claim": "To hold a heavy boat, you need a strong pull.",
+      "who": "Anyone who has not used a rope round a post.",
+      "for": "The boat is heavy, so it feels as if it needs a big force to hold it.",
+      "against": "A rope round a post multiplies the grip with every turn. A child can hold a boat with a light pull after a few turns.",
+      "status": "rejected"
+    },
+    {
+      "claim": "Wrinkled fingers are made to give a better grip in the rain.",
+      "who": "Mark Changizi, a scientist, and others, from 2011.",
+      "for": "The wrinkles look like tyre tread, and one experiment found that wrinkled fingers pick up wet things faster.",
+      "against": "Some other experiments found no clear help. Scientists do not agree.",
+      "status": "debated"
+    }
+  ],
+  "big_questions": [
+    {
+      "q": "Doubling the load doubles the grip. If the surface looks the same, what must have changed underneath?",
+      "kind": "deep",
+      "hint": "Think about the tiny peaks on both surfaces, and what happens to them when you press harder."
+    },
+    {
+      "q": "A wide face and a narrow face grip about the same. Is the grip in how much of the box you can see?",
+      "kind": "deep",
+      "hint": "Think about what the weight is doing when it is spread out or squeezed in."
+    },
+    {
+      "q": "If two surfaces really touch only at a few tiny spots, are they touching at all in the places between?",
+      "kind": "deep",
+      "hint": "Think about how close is close enough to count as touching."
+    },
+    {
+      "q": "Each turn of a rope makes the grip several times stronger. Why does adding one more turn help more and more?",
+      "kind": "deep",
+      "hint": "Think about what happens when each turn multiplies the one before."
+    },
+    {
+      "q": "Rolling has much less friction than sliding. What does a wheel do that a sliding box cannot?",
+      "kind": "deep",
+      "hint": "Think about the spot where the wheel touches the ground."
+    },
+    {
+      "q": "Stick-slip makes a violin sing and also makes an earthquake. Is it the same thing?",
+      "kind": "big",
+      "hint": "Think about what sticks, what slips and how big each one is."
+    },
+    {
+      "q": "Boatmen used the rope rule long before Euler wrote it down. Who really knew it first?",
+      "kind": "big",
+      "hint": "Think about the difference between being able to do something and being able to say why it works."
+    },
+    {
+      "q": "Honey makes a ball fall slowly, and water lets it fall fast. Is a slow fall a kind of grip?",
+      "kind": "deep",
+      "hint": "Think about what the liquid is doing to the ball as it falls."
+    },
+    {
+      "q": "Where does touching end and being joined begin? Is a sticker touching a wall or part of it?",
+      "kind": "big",
+      "hint": "Think about two atoms close to each other, and what pulls them together."
+    }
+  ],
+  "story": {
+    "title": "The Fourth Turn",
+    "mins": 10,
+    "read_aloud": true,
+    "note": "A made-up story. The science in it is real. A rope wound round a post holds a heavy load with a light pull, and each extra turn makes the hold several times stronger. The boat, the quay and the people are imagined.",
+    "text": [
+      "On the evening the rain came early, Anjana sat on the warm steps of the old quay at Fort Kochi with a bobbin of cotton thread in her lap. She was ten, and she had a problem. That morning her teacher had asked the class a question. How many turns of thread round a pencil would hold up a bottle of water? Anjana had tried one turn, and the bottle slid down and bumped her toes. She had tried two turns, and it slid again, only more slowly.",
+      "Her grandmother, Kalyani Ammamma, sat beside her, shelling tamarind pods. Ammamma was seventy-three. When she was young, she and her husband had run a cargo boat up and down the backwaters, and her hands were as brown and tough as old rope. 'Your thread is slippery,' she said, without looking up. 'So you must ask it for more.' 'More what?' asked Anjana. Ammamma only smiled and went on shelling.",
+      "Anjana wound the thread round the pencil again. This time she did not stop at two turns. She went on to three. She hung the little bottle from one end and held the other end between two fingers, hardly pinching at all. The bottle did not fall. Anjana stared at it. Three turns held it. Two turns had not. She did not understand how one more turn could change so much.",
+      "Then the sky turned the colour of wet slate, and the wind came across the water in a long, cold push. Out in the harbour, a big cargo boat called the Lakshmi was coming in, loaded to the rim with coconuts. She was meant to stop at the iron post at the end of the quay. But the wind was behind her, and she kept coming, faster than the boatman had planned.",
+      "A rope flew from the deck. Rashid, who worked on the quay, caught it. Thomas, the young man beside him, grabbed the rope behind him. They leaned back with their heels in the wet stone and pulled with all their weight. The boat did not slow. The rope hissed through their hands. 'Let go!' shouted Rashid. 'It's burning!' They let go. The rope skittered across the stones, and the Lakshmi began to swing towards the stone arch of the old bridge.",
+      "Ammamma stood up. She did not run. She walked to the iron post, picked up the rope as it slid by, and made one loop round the post. Then a second. Then a third. She held the loose end in her right hand, as lightly as if she were holding a flower. The rope groaned against the iron. Anjana watched her grandmother's hand. It was hardly pulling at all. But the rope did not run free. It slid, slowly, a hand's width at a time, and every hand's width it slid, the boat slowed down.",
+      "'It is still too fast,' Anjana whispered. The boat was huge, and the post was shuddering. The rope began to slide faster, and the loose end tugged hard in her grandmother's hand. Anjana jumped to her feet. She thought of her bottle. One turn had slid. Two had slid, more slowly. Three had held. Each turn had made the holding easier, not by a little, but by a lot. 'Ammamma!' she shouted. 'One more turn!'",
+      "Ammamma did not ask why. She slipped a fourth loop round the post. The rope bit. The loose end went quiet in her hand. The Lakshmi slid on for the length of two bullock carts, slower and slower, and then she stopped with a soft bump, one arm's length from the arch of the bridge. Coconuts rolled in the hold, and then everything was still. The first fat drops of rain began to fall on the stones.",
+      "Rashid and Thomas stood with their palms open. They were red as chillies. 'How?' said Rashid. 'Two of us could not hold her, and you did it with one hand.' Ammamma shook out her fingers. 'I did not hold the boat,' she said. 'The post held the boat. I only held the tail of the rope, and the turns did the rest.' She looked at Anjana. 'My hands knew three turns. She knew why a fourth would work.'",
+      "Rashid shook his head, but he was smiling. 'Show me,' he said. Ammamma took his wrist. 'Never pull,' she said. 'Wind the rope, and then ease. Too few turns, and the rope runs. Too many, and the boat stops with a jerk and breaks the line. A little slip is a friend.' Thomas knelt and put his hand on the wet iron post. It was warm.",
+      "That night, Anjana wound her thread round the pencil again. Four turns. She hung the bottle from one end, and she held the other end with just one finger. The bottle hung in the lamplight, perfectly still. She did not need the lesson to be any bigger than that. The thread was holding a bottle, and the pencil was holding the thread, and neither was doing very much at all."
+    ],
+    "epiphany": "A rope wound round a post holds a heavy boat with a light pull, because every turn multiplies the grip by the same number. One more turn can make the hold several times easier.",
+    "ask": [
+      "Why did the fourth turn help more than a fourth person pulling would have?",
+      "Why did Ammamma let the rope slip a little, instead of locking it with many turns right away?",
+      "What would have happened if the post had been wet with oil?"
+    ],
+    "art": [
+      "A girl on stone steps with a bobbin of thread, a pencil taped to the step and a small bottle hanging from the thread, beside her grandmother shelling tamarind.",
+      "A big cargo boat loaded with coconuts swinging towards a stone arch in stormy light, with two young men skidding on a wet quay holding a rope.",
+      "An old woman at an iron post with the rope wound three times, holding the loose end lightly, while a girl points and shouts beside her.",
+      "The boat stopped near the arch under the first raindrops, and a girl at home holding a thread round a pencil with a bottle hanging still."
+    ]
+  },
+  "roots": {
+    "context": "We have pulled boxes, wrapped thread round pencils and watched things stick and slip. Now we ask what the grip of friction tells us about touching, and about ourselves.",
+    "deep_truth": {
+      "truth": "Two surfaces that look like they touch all over really touch at only a few tiny spots. Press harder, and more spots touch. The grip of friction is the sum of all those tiny meetings. So touching is not a yes or no, it is a how much.",
+      "habit": "We say two things 'touch' as if the whole face meets the whole face. Every surface is a mountain range, and only the peaks meet. 'Touching' has been a label for 'looks like it touches'.",
+      "evidence": "In the Press Harder test, doubling the load roughly doubled the pull, and a wide face gripped about the same as a narrow face. Both fit a grip made at tiny touching spots that grow with the press, and do not fit a grip made by the whole face."
+    },
+    "three": {
+      "who_am_i": "You hold a cup, grip a rope and stand on a slope because your skin meets the world at countless tiny spots, and each spot holds on a little.",
+      "what_is_life": "A gecko's toes, a frog's wet pads and your own fingertips are all built to make more tiny meetings with a surface. A gecko clings with millions of hairs, so she can walk on glass.",
+      "what_is_this_world": "A table, a floor and a rope look smooth and whole. Close up, they are mountain ranges meeting at their peaks, and a boat can be held by the meetings."
+    },
+    "thread": "The grip of friction is made by the same force that holds atoms together, the electric pull and push between charged particles. At a touching spot, atoms of one surface and atoms of the other come so close that they pull on each other. One force, shown in countless tiny places. Each place is weak, but together they hold a boat. Every turn of a rope round a post adds a whole new ring of these meetings, and the grip multiplies. The one force becomes the many small grips, and the many hold the heavy thing.",
+    "teachings": [
+      {
+        "source": "Tao Te Ching 11",
+        "teaching": "Thirty spokes meet in the hub of a wheel, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the hollow that makes the pot useful.",
+        "link": "A wheel works because only a small spot of it touches the road, and the rest is hollow space. A grip also works at a few small spots, with much empty space in between."
+      },
+      {
+        "source": "Udana 6.4, the blind men and the elephant",
+        "teaching": "In this old Buddhist story, blind men each feel one part of an elephant. One feels the leg and says it is a pillar. One feels the tail and says it is a rope. Each is right about the part and wrong about the whole.",
+        "link": "Friction is a grip that saves a boat and a burn on a hand. It is a drag on a cyclist and the reason the brakes work. Each view is true about one side."
+      }
+    ],
+    "science": [
+      {
+        "text": "The real area where two hard surfaces touch is often less than one thousandth of the area we see (Bowden and Tabor, 1950).",
+        "status": "settled"
+      },
+      {
+        "text": "No single theory yet predicts friction for any pair of materials from the atoms upward.",
+        "status": "open"
+      }
+    ],
+    "other_view": {
+      "who": "Many engineers",
+      "view": "An engineer needs the number mu and the rules that predict it. What touching really means is an interesting question, but it does not change the answer. The rules work, and that is enough."
+    },
+    "practice": {
+      "title": "Press, slide, notice",
+      "mins": 3,
+      "say": "Rub your palms together very lightly for five seconds. Now press them together hard, and rub again. Which was harder to slide? Rest your palms together and breathe slowly three times. Think about all the tiny places where your palms are meeting.",
+      "kid": "Rub your palms lightly. Now press hard and rub again. Which is harder? Rest your palms together and breathe slowly three times."
+    },
+    "ask": [
+      "If two surfaces touch at only a few tiny spots, what is in the places between?",
+      "Is a sticker touching a wall, or part of it? Where would you draw the line?",
+      "Who knew the rope rule first, the boatman who used it or the scientist who wrote it down?"
+    ],
+    "art": "Two mountain-range surfaces touching at a few peaks, with the touching spots glowing, and a child's palms pressed together above them."
+  },
+  "games": [
+    {
+      "id": "g1",
+      "title": "Which Has More Friction?",
+      "mins": 20,
+      "players": [
+        "alone",
+        "with a parent",
+        "with friends"
+      ],
+      "context": "This is a guessing game. Each card compares two situations. You decide which has more friction, or whether they are the same, and then you read the answer.",
+      "setup": [
+        {
+          "art": "Twenty-four cards in a shuffled pile in the middle of a table, with three tokens in front of each player: A, B and Same.",
+          "caption": "1. Cut out the cards and tokens. Shuffle the cards into a pile."
+        },
+        {
+          "art": "A child reading a card aloud, while the other players each put a token face down in front of them.",
+          "caption": "2. The reader reads the front. Everyone else picks a token."
+        },
+        {
+          "art": "The tokens turned over together, and the reader turning the card around to read the back.",
+          "caption": "3. Turn the tokens over. The reader reads the back."
+        }
+      ],
+      "printables": [
+        {
+          "kind": "cards",
+          "title": "24 two-sided cards: two situations on the front, and the answer and reason on the back",
+          "items": [
+            {
+              "f": "Which has more friction? A: a box with 1 kilogram in it. B: the same box with 3 kilograms in it.",
+              "b": "B. More weight presses the surfaces together harder. Three times the load gives about three times the friction."
+            },
+            {
+              "f": "Which has more friction? A: a brick lying on its big face. B: the same brick standing on its narrow end.",
+              "b": "Same. The weight is the same, so the pressing force is the same. A bigger face spreads the weight over more bumps, each pressed less."
+            },
+            {
+              "f": "Which has more friction? A: a school bag dragged along the floor. B: the same bag on its wheels.",
+              "b": "A. Dragging means sliding. Rolling has much less friction."
+            },
+            {
+              "f": "Which needs the harder hold to keep a bottle from sliding? A: a thread round a pencil for half a turn. B: the same thread for three turns.",
+              "b": "A. Every turn multiplies the grip. Three turns need a far lighter hold."
+            },
+            {
+              "f": "Which has more friction? A: a rubber chappal on a dry floor. B: the same chappal on a wet, soapy floor.",
+              "b": "A. Soap and water form a slippery layer that lowers the grip."
+            },
+            {
+              "f": "Which needs the bigger push? A: a heavy cupboard just before it moves. B: the same cupboard sliding steadily.",
+              "b": "A. Starting friction is usually a bit bigger than sliding friction."
+            },
+            {
+              "f": "Which has more friction on the falling ball? A: a steel ball falling in water. B: the same ball falling in honey.",
+              "b": "B. Honey is much more viscous than water, so it drags the ball more."
+            },
+            {
+              "f": "Which has more friction? A: a dry, unoiled cycle chain. B: the same chain with a drop of oil.",
+              "b": "A. Oil keeps the metal parts apart, so the friction is lower."
+            },
+            {
+              "f": "Which has more friction? A: a tyre on a dry road. B: the same tyre on ice.",
+              "b": "A. Ice has a very low mu. Rubber on dry road is about 0.8 and rubber on ice is much less."
+            },
+            {
+              "f": "Which has more friction? A: a cardboard box with 2 packets in it. B: the same box with 4 packets in it.",
+              "b": "B. Double the load gives about double the friction."
+            },
+            {
+              "f": "Which needs the harder hold? A: a rope with 1 turn round a post. B: the same rope with 3 turns.",
+              "b": "A. One turn grips far less than three turns, so the hold must be harder."
+            },
+            {
+              "f": "Which has more friction? A: a wheel hub with dry bearings. B: the same hub with greased bearings.",
+              "b": "A. Grease lowers friction by keeping the surfaces apart."
+            },
+            {
+              "f": "Which grips better? A: a sock on a polished marble floor. B: a rubber sole on the same floor.",
+              "b": "B. Rubber has a high mu on a dry floor. A sock slides."
+            },
+            {
+              "f": "Which has more friction? A: a skateboard rolling on its wheels. B: the same board dragged upside down.",
+              "b": "B. Dragging is sliding. Rolling has less friction."
+            },
+            {
+              "f": "Which has more friction? A: a block pressed on a table by a hand. B: the same block with a hand lifting it a little with a string.",
+              "b": "A. Lifting reduces the pressing force, so the friction is smaller in B."
+            },
+            {
+              "f": "Which has more friction? A: a box on a carpet. B: the same box on a smooth tile.",
+              "b": "A. Carpet has a higher mu. The box gets dragged against the soft fibres."
+            },
+            {
+              "f": "Which grips better? A: a violin bow with rosin. B: the same bow without rosin.",
+              "b": "A. Rosin makes the bow stick to the string, so it can pull the string and let go again and again."
+            },
+            {
+              "f": "Which grips better? A: sandpaper on wood. B: smooth notebook paper on wood.",
+              "b": "A. Sandpaper is rough and covered in hard grains."
+            },
+            {
+              "f": "Which is bigger? A: your gentle push on a cupboard that does not move. B: the friction force on the cupboard.",
+              "b": "Same. The cupboard stays still because friction pushes back as hard as you push. Friction rises as you push, up to a limit."
+            },
+            {
+              "f": "Which grips better? A: a ladder's feet on a rubber mat. B: the same ladder's feet on a polished floor.",
+              "b": "A. A rubber mat has a higher mu than a polished floor."
+            },
+            {
+              "f": "Which grips a jar lid better? A: a wet hand. B: a dry cloth wrapped round the lid.",
+              "b": "B. The dry cloth has a higher mu. A wet hand is slippery."
+            },
+            {
+              "f": "Which has more friction force? A: pulling a box 1 metre. B: pulling the same box 4 metres.",
+              "b": "Same. The friction force stays the same. The longer pull does more work and makes more heat, but the force is not bigger."
+            },
+            {
+              "f": "Which has more friction? A: a foot on a dry rock. B: a foot on a mossy, wet rock.",
+              "b": "A. Wet moss forms a slippery layer between the foot and the rock."
+            },
+            {
+              "f": "Which has more friction? A: a tyre on a dry road. B: the same tyre on a road with oil on it.",
+              "b": "A. Oil forms a slippery layer between the tyre and the road."
+            }
+          ]
+        },
+        {
+          "kind": "tokens",
+          "title": "12 tokens: four that say A, four that say B and four that say Same",
+          "items": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "B",
+            "B",
+            "B",
+            "B",
+            "Same",
+            "Same",
+            "Same",
+            "Same"
+          ]
+        }
+      ],
+      "rules": [
+        "One player is the reader. The reader takes the top card and reads the front aloud, but does not show the back.",
+        "Every other player puts one token face down: A, B or Same. Then everyone turns the tokens over together.",
+        "The reader reads the back. Every player who chose the right answer scores one point.",
+        "A player who also gives a correct reason in their own words scores one more point. The reader decides, using the back of the card.",
+        "After each card, the reader's job passes to the player on the left. With two players, you swap after every card.",
+        "Playing alone: shuffle the cards, read the front, say your answer and your reason out loud, then read the back. Score one point for a right answer and one for a right reason. Try to beat your own score next time.",
+        "The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win."
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 3,
+          "do": "Cut out the 24 cards and the 12 tokens. Shuffle the cards and make a pile. Give each player one A, one B and one Same token.",
+          "say": "Each card compares two situations. You decide which has more friction, or whether they are the same. Cut out the cards and the tokens, and make a pile.",
+          "kid": "Cut out the cards and tokens. Shuffle the cards into a pile.",
+          "context": "In this step, you get the game ready."
+        },
+        {
+          "id": "s2",
+          "mins": 5,
+          "do": "Play three cards together. After each answer, ask the player for a reason before reading the back. Tell the players to think about the pressing force.",
+          "say": "Read the first card. Everyone picks A, B or Same. Before I read the back, tell me why you chose it. Then I will read the answer.",
+          "kid": "Read a card. Pick A, B or Same. Say why. Then read the back.",
+          "parent": "The most common mistake is to choose the bigger or wider thing. Remind players that weight and the materials matter, and the size of the face does not. Do not give a reason before the player has given one.",
+          "context": "In this step, you play the first three cards slowly and explain your choices."
+        },
+        {
+          "id": "s3",
+          "mins": 10,
+          "do": "Play the rest of the cards. Keep score. The reader changes after every card.",
+          "say": "Keep going. Score one point for the right answer and one more for a right reason.",
+          "kid": "Play the rest of the cards. Keep your score.",
+          "check": {
+            "t": "mcq",
+            "q": "A card says: A, a box on its big face. B, the same box on its narrow end. What is the best answer?",
+            "options": [
+              "Same, because the weight is the same",
+              "A, because more of the box touches the floor",
+              "B, because the narrow end presses harder"
+            ],
+            "a": 0,
+            "why": "The pressing force depends on the weight, and the weight is the same. A wider face spreads the weight over more bumps and a narrower face over fewer, so the total grip is about the same. A wrong pick often means thinking that more of the box touching means more grip."
+          },
+          "context": "In this step, you play the remaining cards and keep score."
+        },
+        {
+          "id": "s4",
+          "mins": 2,
+          "do": "Count the scores. Ask each player which card surprised them most, and why.",
+          "say": "Count your points. Which card surprised you most? Why did it surprise you?",
+          "kid": "Count your points. Which card surprised you most?",
+          "context": "In this step, you count the scores and say which card surprised you most."
+        }
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "Press Harder: how does the load change the pull?",
+      "mins": 40,
+      "days": 1,
+      "question": "If you put more weight in a box, how much harder is it to pull? And does it matter whether the box lies on its big face or stands on its narrow end?",
+      "predict": "Before you start, make two guesses. First, how much harder will the box be to pull with two packets in it than with one? Second, will the big face or the narrow end need the bigger pull? Say why you think so for each guess.",
+      "fair_test": "Use the same box, the same floor and the same rubber band every time. Pull level and very slowly, and read the band just before the box moves. For the load test, only the number of packets changes. For the area test, the load stays at two packets and only the face on the floor changes. Do every measurement three times, because one pull can be a fluke.",
+      "results_table": [
+        "Load in the box",
+        "Gap between the dots, try 1 (cm)",
+        "Gap between the dots, try 2 (cm)",
+        "Gap between the dots, try 3 (cm)",
+        "Typical stretch: middle gap minus 4 (cm)"
+      ],
+      "materials": [
+        {
+          "item": "a sturdy box with a flat bottom and a lid, about the size of a shoebox",
+          "qty": 1
+        },
+        {
+          "item": "3 identical packets of 500 grams each, such as sugar, dal or rice",
+          "qty": 3
+        },
+        {
+          "item": "a wide rubber band, at least 10 centimetres long when lying flat, and a spare",
+          "qty": 2
+        },
+        {
+          "item": "a marker pen, a ruler and masking tape or sticky tape",
+          "qty": 1
+        },
+        {
+          "item": "a smooth, clean, dry floor or table, at least 1 metre long",
+          "qty": 1
+        },
+        {
+          "item": "the results table, a pencil and a phone for a short video, if you are alone",
+          "qty": 1
+        }
+      ],
+      "safety": "Keep the pull low and slow so the rubber band cannot snap back at a face. Pull away from your body and keep your face to the side. Put the packets on a table afterwards, not on your feet.",
+      "record": "Write the gap between the dots for each pull in the table. For each load, find the typical stretch. Draw a line graph with the number of packets along the bottom and the stretch up the side. Then write your claim, your evidence and your reason.",
+      "context": "In this experiment, you add weight to a box, pull it with a rubber band and measure how hard the pull must be. Then you turn the box onto its end and pull again.",
+      "setup": [
+        {
+          "art": "A wide rubber band lying flat with two marker dots drawn 4 centimetres apart, and a loop of the band round the end of a shoebox.",
+          "caption": "1. Mark two dots 4 cm apart on the flat band. Loop the band round the end of the box."
+        },
+        {
+          "art": "A taped-shut shoebox with one, two and three packets of sugar standing beside it.",
+          "caption": "2. Fill the box with 0, 1, 2 and then 3 packets. Tape the lid shut."
+        },
+        {
+          "art": "A child pulling the band level and slowly along a tile floor, while a grown-up holds a ruler beside the dots.",
+          "caption": "3. Pull level and slowly. A helper reads the gap between the dots just before the box moves."
+        },
+        {
+          "art": "A line graph with dots for the stretch at 0, 1, 2 and 3 packets.",
+          "caption": "4. Graph the stretch for each load."
+        },
+        {
+          "art": "The same box with two packets, lying on its big face and standing on its narrow end, each with a band pulling it.",
+          "caption": "5. With two packets in the box, test the big face, then the narrow end."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Show your child the box, the packets and the band. Ask for both guesses, and for a reason for each. Write them down.",
+          "say": "We will add weight to a box and pull it along the floor. How much harder will two packets be than one? Why do you think so? Then I will ask a second question.",
+          "kid": "Guess two things. How much harder is the box to pull with two packets? Which side needs a bigger pull? Why?",
+          "ask": [
+            {
+              "q": "Which side of the box will need the bigger pull, the big face or the narrow end? Why do you think so?",
+              "good": [
+                "The big face, because more of it touches the floor.",
+                "The narrow end, because it is pressed harder.",
+                "They are the same."
+              ]
+            }
+          ],
+          "parent": "Do not correct the guesses. Any guess with a reason is a good start. Most people think the big face will grip more. Write the guesses at the top of the table.",
+          "context": "In this step, you make two guesses before you test anything."
+        },
+        {
+          "id": "s2",
+          "mins": 8,
+          "do": "Draw two dots 4 centimetres apart on the flat band. Loop the band round the end of the box. Tape the lid shut. Put the box on the floor.",
+          "say": "Mark two dots on the band, 4 centimetres apart. When the band stretches, the dots move apart. The gap tells us how hard we pull.",
+          "kid": "Draw two dots on the band, 4 cm apart. Loop the band round the box.",
+          "parent": "A wide band works best. If the band stretches more than about 15 centimetres with three packets, use two bands side by side. If it stretches less than 1 centimetre with one packet, use a thinner band. A forcemeter from Class 3 also works. Read newtons instead of centimetres.",
+          "check": {
+            "t": "mcq",
+            "q": "Why do we mark two dots on the band?",
+            "options": [
+              "The gap between the dots shows how hard we pull",
+              "The dots make the band stronger",
+              "The dots make the box slide more easily"
+            ],
+            "a": 0,
+            "why": "When the band stretches, the dots move apart. A bigger gap means a harder pull. This turns a push you can only feel into a number you can write down."
+          },
+          "context": "In this step, you make your pulling gauge. The dots on the band show how hard you pull."
+        },
+        {
+          "id": "s3",
+          "mins": 15,
+          "do": "Start with the empty box. Pull the band level and very slowly. A helper reads the gap just before the box moves. Do this three times. Then repeat with 1, 2 and 3 packets.",
+          "say": "Pull as slowly as a snail. The helper watches the dots and calls out the biggest gap just before the box starts to slide. Write it down. Do three pulls for each load.",
+          "kid": "Pull the band slowly and level. Read the gap just before the box moves. Do it three times for each load.",
+          "ask": [
+            {
+              "q": "What do you see in the numbers as you add packets?",
+              "good": [
+                "The stretch gets bigger each time.",
+                "Each packet adds about the same extra stretch.",
+                "The stretch roughly doubles when the packets double."
+              ]
+            }
+          ],
+          "parent": "Pull level with the floor, not upwards. Stick-slip can make the box jump. This is normal. Read the biggest gap just before the first jump. If you are alone, take a phone video and pause it. Do not worry if the numbers are not perfect. A rubber band is not an exact gauge. Look for the pattern: each packet adds about the same extra stretch.",
+          "check": {
+            "t": "mcq",
+            "q": "One packet needs a stretch of 4 cm. Two packets need 8 cm. What would you expect for three packets?",
+            "options": [
+              "About 12 cm",
+              "About 6 cm",
+              "About 4 cm"
+            ],
+            "a": 0,
+            "why": "The stretch went up by 4 cm for each packet, so three packets would be about 12 cm. If the numbers rise evenly like this, we say the pull is proportional to the load. A wrong pick often means looking at the last number only, instead of the pattern."
+          },
+          "context": "In this step, you pull the box with 0, 1, 2 and 3 packets in it, and read the gap each time."
+        },
+        {
+          "id": "s4",
+          "mins": 8,
+          "do": "Put two packets in the box. Pull it on its big face, three times. Then stand the box on its narrow end, tape the lid, and pull it three times.",
+          "say": "Now keep two packets in the box. First pull it lying flat. Then stand it on its narrow end and pull again. Which one needs the bigger pull?",
+          "kid": "Two packets in the box. Pull it flat three times. Then pull it on its end three times.",
+          "ask": [
+            {
+              "q": "Which face needed the bigger pull? Were you surprised?",
+              "good": [
+                "They were nearly the same.",
+                "The big face was a little bigger.",
+                "I thought the big face would be much bigger."
+              ]
+            }
+          ],
+          "parent": "For a cardboard box, the two results are usually within about 10 per cent of each other. Differences of one or two millimetres are noise. If one face has a rougher cardboard surface, the result can differ, so tape a piece of smooth paper under both faces if you can.",
+          "context": "In this step, you test whether the face on the floor matters."
+        },
+        {
+          "id": "s5",
+          "mins": 4,
+          "do": "Draw a line graph. Put the packets along the bottom and the stretch up the side. Ask your child to say their claim, their evidence and their reason.",
+          "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
+          "kid": "Draw your graph. Say what you thought, what you saw and why.",
+          "parent": "Wait for the child's own reason first. Then you can say: friction grows with how hard the surfaces press together, which is the weight on the floor. A wide face spreads the same weight over more of the tiny bumps on the floor, and a narrow face puts it on fewer. The total grip stays about the same. Surfaces touch only at the tops of their bumps, and pressing harder makes more of them touch.",
+          "think": "If the face on the floor does not matter, what does the grip depend on?",
+          "context": "In this step, you draw the graph and say what you found."
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "Wrap the Thread: how many turns hold the bottle?",
+      "mins": 40,
+      "days": 1,
+      "question": "A bottle of water hangs from a thread that goes round a pencil. How many paper clips must hang from the other end to hold the bottle, after half a turn, one turn, two turns and three turns?",
+      "predict": "Before you start, guess how many clips will be needed after one turn. Then guess whether each extra turn will take away the same number of clips, or the same share. Say why you think so.",
+      "fair_test": "The same bottle, the same thread, the same pencil and the same bag are used every time. Only the number of turns changes. Add or take away clips one at a time and decide when the bottle just holds. Do each test twice.",
+      "results_table": [
+        "Turns round the pencil",
+        "Clips needed: try 1",
+        "Clips needed: try 2",
+        "Typical number of clips"
+      ],
+      "materials": [
+        {
+          "item": "a round pencil or marker pen with a smooth side",
+          "qty": 1
+        },
+        {
+          "item": "a long piece of plain cotton thread or string, about 1 metre",
+          "qty": 1
+        },
+        {
+          "item": "a small plastic bottle of about 200 millilitres, full of water, with the cap on",
+          "qty": 1
+        },
+        {
+          "item": "a very small plastic bag or paper cup, with about 150 paper clips",
+          "qty": 150
+        },
+        {
+          "item": "masking tape, a heavy book and a cushion",
+          "qty": 1
+        },
+        {
+          "item": "a table with an edge, and the results table",
+          "qty": 1
+        }
+      ],
+      "safety": "Never use kite thread coated with glass powder, called manja, because it cuts skin. Put a cushion on the floor under the bottle, so it cannot land on a foot. Hold the thread with your fingertips and never wind it round your fingers.",
+      "record": "Write the clips needed for each number of turns. Look at the numbers, and find how many times fewer clips each turn needs. Then write your claim, your evidence and your reason.",
+      "context": "In this experiment, you hang a bottle of water from a thread wound round a pencil, and find how few paper clips you need at the other end. The more turns, the fewer clips.",
+      "setup": [
+        {
+          "art": "A pencil taped to a table edge so it sticks out over the edge, with a heavy book on the taped end and a cushion on the floor below.",
+          "caption": "1. Tape the pencil so 8 cm sticks out past the table edge. Put the book on the taped end."
+        },
+        {
+          "art": "A small water bottle with a thread tied round its neck and the thread draped over the pencil, with a plastic bag tied to the other end.",
+          "caption": "2. Tie the thread to the bottle. Tie a small bag to the other end."
+        },
+        {
+          "art": "The thread wound once round the pencil and a hand adding paper clips into the bag, one at a time.",
+          "caption": "3. Wind the thread round the pencil. Add clips to the bag until the bottle just holds."
+        },
+        {
+          "art": "Four pictures of the pencil with half a turn, one turn, two turns and three turns of thread, and a number of clips written under each.",
+          "caption": "4. Repeat for half a turn, one turn, two turns and three turns."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Show your child the pencil, the bottle and the clips. Ask how many clips one turn will need, and ask for the reason. Write the guess down.",
+          "say": "A bottle hangs from this thread. After the thread goes round the pencil once, how many clips do you think will hold the bottle? Why do you think so?",
+          "kid": "Guess how many clips one turn needs. Say why you think so.",
+          "ask": [
+            {
+              "q": "Will each extra turn take away the same number of clips, or the same share of the clips? Why do you think so?",
+              "good": [
+                "The same number, because each turn does the same job.",
+                "The same share, because each turn multiplies the grip.",
+                "I do not know, so I will test it."
+              ]
+            }
+          ],
+          "parent": "Do not correct the guesses. Few people guess a number close to the real one. Write the guess at the top of the table.",
+          "context": "In this step, you guess before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 8,
+          "do": "Tape the pencil so 8 centimetres stick out past the table edge. Put a heavy book on the taped end. Tie the thread round the bottle's neck and a small bag to the other end.",
+          "say": "Tape the pencil to the table so it sticks out past the edge. Put a heavy book on the taped end. Tie the bottle to one end of the thread and the bag to the other.",
+          "kid": "Tape the pencil so it sticks out. Tie the bottle to the thread. Tie the bag to the other end.",
+          "parent": "The pencil must not roll. Use a round pencil, because a six-sided pencil has corners that grip like gears. Put the cushion on the floor under the bottle. If the thread keeps slipping off the end of the pencil, tape a small stopper of paper at the tip.",
+          "check": {
+            "t": "mcq",
+            "q": "Why do we use the same bottle, thread and pencil each time?",
+            "options": [
+              "So only the number of turns changes",
+              "So the thread does not tear",
+              "So the pencil does not roll"
+            ],
+            "a": 0,
+            "why": "In a fair test, only one thing changes. If we changed the thread as well, we would not know whether the turns or the thread caused the difference."
+          },
+          "context": "In this step, you set up the pencil, the bottle and the bag."
+        },
+        {
+          "id": "s3",
+          "mins": 12,
+          "do": "Drape the thread over the pencil for half a turn. Add clips to the bag until the bottle holds when you let go. Then take clips out one at a time until it starts to slip. Count. Repeat with one full turn.",
+          "say": "Hold the bottle. Add clips to the bag, ten at a time at first. Let go gently. If the bottle slides, add more. When it holds, take clips out one by one. Count the clips that only just hold.",
+          "kid": "Add clips until the bottle stays. Then take them out one at a time. Count.",
+          "ask": [
+            {
+              "q": "How many clips did half a turn need? How many did one full turn need?",
+              "good": [
+                "Half a turn needed many more clips.",
+                "One full turn needed far fewer clips.",
+                "The numbers dropped a lot."
+              ]
+            }
+          ],
+          "parent": "Half a turn needs the most clips, often 60 to 100. One turn often needs about 25 to 40. Add clips in tens at the start to save time. Always let go slowly. A sudden let-go can make the bottle drop faster than it should. Numbers vary with the thread and the pencil, and any numbers are fine. The pattern matters, not the exact count.",
+          "context": "In this step, you test half a turn and one turn."
+        },
+        {
+          "id": "s4",
+          "mins": 10,
+          "do": "Wind two full turns round the pencil. Find how many clips just hold the bottle. Then wind three full turns and find the number again. Try each twice.",
+          "say": "Now two turns. Add clips until the bottle holds. Take them away one by one. Then three turns. Try each of them twice.",
+          "kid": "Now try two turns, then three turns. Count the clips each time.",
+          "ask": [
+            {
+              "q": "What happened to the number of clips as you added turns?",
+              "good": [
+                "It dropped very quickly.",
+                "At three turns, the empty bag nearly held the bottle.",
+                "Each turn needed much fewer clips than the one before."
+              ]
+            }
+          ],
+          "parent": "Two turns usually need only a few clips, and three turns often need none, so the bag alone holds the bottle. Write 0 if the empty bag holds it. If it slips even with many clips, the thread or the pencil is too slippery. Try a rougher string.",
+          "check": {
+            "t": "mcq",
+            "q": "One turn needs 30 clips. Two turns need 5 clips. About how many clips would three turns need?",
+            "options": [
+              "About 1",
+              "About 25",
+              "About 10"
+            ],
+            "a": 0,
+            "why": "From one turn to two turns, the number of clips dropped to about one sixth. Each turn takes away about the same share, so three turns need about one sixth of 5, which is about 1. A wrong pick often means taking away the same number each time, instead of the same share."
+          },
+          "context": "In this step, you test two and three turns."
+        },
+        {
+          "id": "s5",
+          "mins": 5,
+          "do": "Write the clip numbers in the table. Divide the number for one turn by the number for two turns, then two turns by three turns. Ask for claim, evidence and reason.",
+          "say": "Look at the numbers. How many times fewer clips did two turns need than one turn? Tell me what you thought, what you saw and why.",
+          "kid": "Divide the clips for one turn by the clips for two turns. Say what you found.",
+          "parent": "Wait for the child's own reason first. Then you can say: every part of the thread that touches the pencil adds friction, and every turn multiplies the grip by about the same number. For smooth thread on a pencil, one turn often makes the hold about six times easier. Two turns make it about six times six, which is thirty-six, and three turns make it about two hundred and sixteen times easier. This is why a boat can be held with a light hand.",
+          "think": "If one turn makes the hold about six times easier, how many times easier is three turns?",
+          "context": "In this step, you look for the pattern in the numbers and say what you found."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "The Walking Ruler: two fingers that take turns",
+      "mins": 15,
+      "days": 1,
+      "materials": [
+        {
+          "item": "a ruler about 30 centimetres long, or a longer stick such as a broom handle",
+          "qty": 1
+        },
+        {
+          "item": "a small lump of clay, or a few coins held with tape",
+          "qty": 1
+        }
+      ],
+      "safety": "Keep the ruler low over a table, so that it cannot fall on a foot.",
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 15,
+          "what": "Guess where your fingers will meet. Slide them together. Add a weight and try again."
+        }
+      ],
+      "record": "Draw the ruler and mark where your fingers met each time. Write which finger slid first.",
+      "context": "In this activity, you balance a ruler on two fingers and slide the fingers together. You see friction stick and slip, and you see how a heavier press makes more grip.",
+      "setup": [
+        {
+          "art": "A ruler resting flat on the tips of a child's two index fingers held wide apart, near the two ends.",
+          "caption": "1. Rest the ruler on your two index fingers, one near each end."
+        },
+        {
+          "art": "The fingers slowly moving towards each other, with a mark on the ruler showing the meeting point at the middle.",
+          "caption": "2. Slide both fingers slowly together. Watch where they meet."
+        },
+        {
+          "art": "A lump of clay stuck on one end of the ruler, and the fingers meeting nearer that end.",
+          "caption": "3. Stick clay on one end. Try again and see where the fingers meet."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 4,
+          "do": "Rest the ruler flat on your two index fingers, near its ends. Ask your child where the fingers will meet when they slide together. Ask why.",
+          "say": "Hold the ruler on two fingers, far apart. Slide your fingers slowly together. Where do you think they will meet? Why do you think so?",
+          "kid": "Rest the ruler on your fingers. Guess where they will meet. Why?",
+          "parent": "Most people guess that one finger will win and reach the other. Do not correct this. Write the guess down.",
+          "context": "In this step, you guess where your two fingers will meet."
+        },
+        {
+          "id": "s2",
+          "mins": 5,
+          "do": "Slide both fingers slowly together. Do not look away. Watch which finger slides and which finger stays still. Mark the meeting point.",
+          "say": "Slide your fingers together slowly. Only one finger moves at a time. Which one is it? Do they ever slide together? Where do they meet?",
+          "kid": "Slide your fingers together slowly. Which finger moves first? Where do they meet?",
+          "ask": [
+            {
+              "q": "What did your fingers do?",
+              "good": [
+                "They took turns sliding.",
+                "They met in the middle.",
+                "One finger stuck while the other slid."
+              ]
+            }
+          ],
+          "parent": "The fingers take turns because of stick-slip. The finger nearer the middle carries more of the ruler's weight, so it presses harder and its friction is bigger. The other finger slides first, until it gets near the middle and its friction becomes bigger than the first one's limit. Then the roles swap. They always meet at the balance point, which is the middle of a plain ruler.",
+          "context": "In this step, you slide your fingers and watch them take turns."
+        },
+        {
+          "id": "s3",
+          "mins": 6,
+          "do": "Stick the clay on one end of the ruler. Guess where the fingers will meet now. Slide them together again, and mark the new meeting point.",
+          "say": "Now stick clay on one end. Where will your fingers meet this time? Why? Try it and see.",
+          "kid": "Stick clay on one end. Guess where you will meet. Then try.",
+          "ask": [
+            {
+              "q": "Where did the fingers meet this time?",
+              "good": [
+                "Closer to the clay.",
+                "At the new balance point, nearer the heavy end."
+              ]
+            }
+          ],
+          "parent": "The fingers meet at the new balance point, nearer the heavy end. The finger near the heavy end carries more weight, so it presses harder, and its friction is larger. The lighter finger slides until they meet. This is the same rule as in the Press Harder test: more pressing force, more friction.",
+          "check": {
+            "t": "mcq",
+            "q": "Why does the finger near the clay slide less?",
+            "options": [
+              "It carries more weight, so it presses harder and has more friction",
+              "It is stronger than the other finger",
+              "The clay makes it sticky"
+            ],
+            "a": 0,
+            "why": "The finger near the heavy end carries more of the weight. A bigger pressing force makes a bigger friction force. A wrong pick often means thinking about strength, when the real reason is the load on each finger."
+          },
+          "context": "In this step, you add a weight and see where the fingers meet."
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "title": "Rollers and Marbles: sliding against rolling",
+      "mins": 20,
+      "days": 1,
+      "materials": [
+        {
+          "item": "the taped-shut box with two packets inside, and the rubber band with two dots 4 centimetres apart, from the Press Harder test",
+          "qty": 1
+        },
+        {
+          "item": "4 round pencils or markers, all the same size",
+          "qty": 4
+        },
+        {
+          "item": "a tray or tiffin box lid, and about 15 marbles (if you have them)",
+          "qty": 1
+        },
+        {
+          "item": "a ruler, a smooth floor, a pencil and paper",
+          "qty": 1
+        }
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 20,
+          "what": "Pull the box sliding, then on pencils, then on marbles. Compare the gaps between the dots."
+        }
+      ],
+      "record": "Write the dot gap for sliding, for rolling on pencils and for rolling on marbles. Write which was the easiest to pull.",
+      "context": "In this activity, you pull the same box three ways and see how rolling changes the pull. It is a test of rolling friction.",
+      "setup": [
+        {
+          "art": "The loaded box pulled with a banded rubber band along a floor, with a long gap between the dots.",
+          "caption": "1. Pull the box along the floor. Read the gap between the dots while it moves steadily."
+        },
+        {
+          "art": "The box resting on three pencils laid side by side, with the rubber band hardly stretched.",
+          "caption": "2. Put the box on three pencils. Pull again."
+        },
+        {
+          "art": "The box on a tray that sits on a layer of marbles.",
+          "caption": "3. If you have marbles, put the box on a tray over a layer of marbles. Pull again."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 5,
+          "do": "Show your child the box, the pencils and the marbles. Ask which way will be easiest to pull the box, and why. Write down the guess.",
+          "say": "We will pull the same box three ways. First sliding. Then on pencils. Then on marbles. Which way do you think will be easiest? Why do you think so?",
+          "kid": "Guess which way is easiest: sliding, pencils or marbles. Why?",
+          "parent": "Do not correct the guess. Most children think the pencils will help but guess too little.",
+          "context": "In this step, you guess before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 7,
+          "do": "Pull the box slowly along the floor, with the band level. Once it moves steadily, read the gap between the dots. Do this three times.",
+          "say": "Pull the box steadily. Do not stop or jerk. Read the gap while the box is moving. Do it three times.",
+          "kid": "Pull the box steadily. Read the gap while it moves. Do it three times.",
+          "parent": "Read the gap while the box is moving, not just before it moves. Sliding friction is a little less than starting friction. If you have a helper, one person pulls and one reads the gap.",
+          "context": "In this step, you measure the pull needed to slide the box."
+        },
+        {
+          "id": "s3",
+          "mins": 8,
+          "do": "Lay three pencils side by side. Put the box on them. Pull gently. When the box rolls off the back pencil, move that pencil to the front. Read the gap. Do it three times.",
+          "say": "Put the box on the pencils and pull. As the box rolls forward, move the free pencil to the front. Read the gap while it rolls.",
+          "kid": "Put the box on three pencils. Pull it. Read the gap while it rolls.",
+          "ask": [
+            {
+              "q": "How did the gap between the dots change?",
+              "good": [
+                "It got much smaller.",
+                "The band barely stretched.",
+                "The box rolled with a tiny pull."
+              ]
+            }
+          ],
+          "parent": "Many families see a gap that is half or less of the sliding gap, and sometimes much less. Marbles, if you have them, go even lower. Rolling friction is smaller, but it is not zero. The box and the pencils squash a little as they roll.",
+          "check": {
+            "t": "mcq",
+            "q": "Why is the pull smaller on pencils?",
+            "options": [
+              "The pencils roll, so nothing rubs and slides at the touching spot",
+              "The pencils make the box lighter",
+              "The pencils are smoother than the floor"
+            ],
+            "a": 0,
+            "why": "On a roller, the part that touches the floor is for a moment still, so it does not rub. The box is the same weight, so the pressing force has not changed. A wrong pick often means thinking that the box became lighter."
+          },
+          "context": "In this step, you measure the pull needed to roll the box on pencils."
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "title": "The Slow Drop: friction inside liquids",
+      "mins": 25,
+      "days": 1,
+      "materials": [
+        {
+          "item": "3 tall, clear glasses or small bottles of the same size",
+          "qty": 3
+        },
+        {
+          "item": "water, cooking oil, and honey or any thick liquid such as shampoo or liquid soap",
+          "qty": 3
+        },
+        {
+          "item": "1 steel nut or marble for each liquid, all the same size",
+          "qty": 3
+        },
+        {
+          "item": "a phone stopwatch, a spoon, paper and a pencil",
+          "qty": 1
+        }
+      ],
+      "safety": "Do the warm-water step only with a grown-up. Wipe up any oil at once, because it makes the floor slippery.",
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 25,
+          "what": "Guess. Drop the same ball into three liquids and time each fall. Warm the honey and try again."
+        }
+      ],
+      "record": "Write the three times. Write which liquid had the most friction on the falling ball, and what warming the honey did.",
+      "context": "In this activity, you drop the same ball into water, oil and honey. Liquids have friction too. It is called fluid friction.",
+      "setup": [
+        {
+          "art": "Three tall glasses side by side, filled with water, oil and honey, with a marble held above each.",
+          "caption": "1. Fill three glasses with water, oil and honey to the same height."
+        },
+        {
+          "art": "A hand dropping a steel nut into a glass of honey, with a phone stopwatch beside it.",
+          "caption": "2. Drop the same nut into each glass and time how long it takes to reach the bottom."
+        },
+        {
+          "art": "A bowl of warm water with the honey glass standing in it.",
+          "caption": "3. Warm the honey glass in a bowl of warm water, with a grown-up. Drop the nut again."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 4,
+          "do": "Show the three glasses. Ask your child to rank them from fastest fall to slowest fall. Ask why.",
+          "say": "We will drop the same nut into three liquids. Which liquid will let it fall fastest? Which will be slowest? Why do you think so?",
+          "kid": "Guess the order of the three liquids. Fastest to slowest. Why?",
+          "parent": "Do not correct the guesses. Most children guess that honey is slowest, but some guess that oil is slower than water.",
+          "context": "In this step, you guess the order before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 10,
+          "do": "Fill each glass to the same height. Hold the nut just above the liquid and let it go. Start the stopwatch at the drop. Stop it when the nut touches the bottom. Do each liquid twice.",
+          "say": "Hold the nut just above the top. Let go and start the timer. Stop it when the nut hits the bottom. Do each glass twice.",
+          "kid": "Drop the nut. Time the fall. Do each liquid twice.",
+          "ask": [
+            {
+              "q": "Which liquid was slowest? Which two were hardest to tell apart?",
+              "good": [
+                "Honey was much slower.",
+                "Water and oil were close.",
+                "The nut took many seconds in the honey."
+              ]
+            }
+          ],
+          "parent": "Honey is clearly the slowest, often by 5 seconds or more. Water and oil often fall so quickly that a phone stopwatch cannot separate them. This is fine. Write down what you see. Wipe any spills, because oil and honey make the floor slippery.",
+          "context": "In this step, you time the same nut falling in each liquid."
+        },
+        {
+          "id": "s3",
+          "mins": 6,
+          "do": "A grown-up should do this step. Stand the honey glass in a bowl of warm tap water for five minutes. Test it again with the nut.",
+          "say": "Warm the honey in a bowl of warm tap water for five minutes. Then drop the nut again. Is it faster or slower?",
+          "kid": "Ask a grown-up to warm the honey. Drop the nut again.",
+          "adult": true,
+          "ask": [
+            {
+              "q": "What did warming do to the fall?",
+              "good": [
+                "The nut fell faster.",
+                "The honey flowed more easily."
+              ]
+            }
+          ],
+          "parent": "Use warm tap water, not hot, so that no one is burned and the glass does not crack. The warm honey should be noticeably faster. Heat makes the molecules of the honey move faster, so they slide past each other more easily.",
+          "check": {
+            "t": "mcq",
+            "q": "Honey is warmed. What happens to its friction on a falling nut?",
+            "options": [
+              "It gets smaller, so the nut falls faster",
+              "It gets bigger, so the nut falls slower",
+              "It stays the same"
+            ],
+            "a": 0,
+            "why": "Warmer honey is less viscous, which means it has less internal friction. A wrong pick often means thinking that warm honey is stickier. Honey becomes thicker when cold, not when warm."
+          },
+          "context": "In this step, you warm the honey and see how heat changes the fall."
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "title": "Wrinkled Fingers: do they grip wet things better?",
+      "mins": 35,
+      "days": 1,
+      "materials": [
+        {
+          "item": "a bowl of warm tap water, big enough for one hand",
+          "qty": 1
+        },
+        {
+          "item": "about 10 small, smooth things such as marbles or steel nuts, and a small cup",
+          "qty": 1
+        },
+        {
+          "item": "a second bowl of water, a towel and a phone stopwatch",
+          "qty": 1
+        }
+      ],
+      "safety": "Use warm tap water, not hot. Wipe up all splashes so that nobody slips.",
+      "schedule": [
+        {
+          "day": 1,
+          "mins": 35,
+          "what": "Soak one hand for 20 minutes. Move wet marbles with a wrinkled hand and a smooth hand. Time each."
+        }
+      ],
+      "record": "Write the times for the smooth hand and the wrinkled hand, in the order you tried them. Write what you think the wrinkles do.",
+      "context": "In this activity, you soak one hand until the fingers wrinkle and then test whether they pick up wet things faster. Scientists still disagree about what the wrinkles are for.",
+      "setup": [
+        {
+          "art": "A child with one hand soaking in a bowl of warm water, reading a book with the other hand.",
+          "caption": "1. Soak one hand in warm water for 20 minutes, until the fingertips wrinkle."
+        },
+        {
+          "art": "A bowl of wet marbles and an empty cup, with a child about to pick up marbles with one finger and thumb.",
+          "caption": "2. Pick up wet marbles one at a time, and move them to the cup."
+        },
+        {
+          "art": "A table with two columns of times for the smooth and wrinkled hands, in the order they were done.",
+          "caption": "3. Write the times. Swap the order and repeat."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 3,
+          "do": "Ask your child why fingers wrinkle in water. Ask whether wrinkled fingers will move wet marbles faster, slower or the same. Ask why.",
+          "say": "Why do you think your fingers wrinkle in the bath? Will wrinkled fingers pick up wet marbles faster, slower, or the same? Why do you think so?",
+          "kid": "Why do fingers wrinkle? Will they pick up wet marbles faster? Why?",
+          "parent": "Scientists disagree about what wrinkles are for. Do not tell your child the answer. Any guess with a reason is good.",
+          "context": "In this step, you guess before you test."
+        },
+        {
+          "id": "s2",
+          "mins": 20,
+          "do": "Soak one hand in warm water for 20 minutes. Do something else with the other hand, such as drawing or reading, while you wait.",
+          "say": "Soak one hand for twenty minutes. Draw or read with the other hand while you wait.",
+          "kid": "Soak one hand for 20 minutes. Draw while you wait.",
+          "parent": "If the fingers have not wrinkled after 20 minutes, add some warm water. Some people wrinkle slowly. Wrinkling is controlled by the nerves, and it can fail in people with some nerve injuries.",
+          "wait": "Wait 20 minutes for the fingers to wrinkle.",
+          "context": "In this step, you wait until the fingers on one hand wrinkle."
+        },
+        {
+          "id": "s3",
+          "mins": 12,
+          "do": "Pour the wet marbles into a bowl. Take 10 marbles, one at a time, from the bowl to the cup with the wrinkled hand. Time it. Then do the same with the smooth hand. Then swap the order and repeat.",
+          "say": "Move ten wet marbles into the cup, one at a time, using only a finger and thumb. Time yourself with the wrinkled hand and then the smooth hand. Then swap the order.",
+          "kid": "Move ten wet marbles. Use a finger and thumb. Time each hand.",
+          "ask": [
+            {
+              "q": "Which hand was faster? Was it the same both times you tried?",
+              "good": [
+                "The wrinkled hand, a little.",
+                "They were nearly the same.",
+                "The second try was faster for both, because of practice."
+              ]
+            }
+          ],
+          "parent": "Results are often mixed, and this is why scientists still argue. A second try is usually faster because of practice, so swap the order and do the test twice. Dry the hands, and test dry marbles too. A scientific study found wrinkled fingers helped with wet objects but not dry ones. Other studies found no clear help.",
+          "check": {
+            "t": "mcq",
+            "q": "Why do we swap the order of the hands for the second try?",
+            "options": [
+              "Practice would make the second try faster, whichever hand it was",
+              "The marbles get wetter each time",
+              "Wrinkles go away after the first try"
+            ],
+            "a": 0,
+            "why": "If we always used the same hand first, practice could make the second hand look better. Swapping the order makes the test fairer."
+          },
+          "context": "In this step, you test the wrinkled hand and the smooth hand on wet marbles."
+        }
+      ]
+    }
+  ],
+  "projects": [],
+  "challenges": [
+    {
+      "id": "c1",
+      "title": "Lower the Load: hold a heavy bottle with one finger",
+      "mins": 40,
+      "problem": "Lower a 500 millilitre bottle of water from a table to the floor at a slow, steady speed, taking about 10 seconds. You may hold the thread with only one finger and thumb. Find a way of winding the thread that works with the fewest turns.",
+      "constraints": [
+        "Use only cotton thread or string, and things you can find in the kitchen or on your desk as posts, such as pencils, spoons and tumblers.",
+        "You may hold the loose end with one finger and thumb only. You may not wind it round your fingers.",
+        "The bottle must go down slowly and steadily, with no sudden drops.",
+        "Count the number of turns you use."
+      ],
+      "materials": [
+        "a bottle of 500 millilitres full of water, with the cap on",
+        "about 1 metre of cotton string",
+        "pencils, spoons, tumblers or other posts",
+        "a cushion for the floor",
+        "paper and a pencil"
+      ],
+      "general": [
+        "Wind the string round a single pencil, as in the Wrap the Thread test, with three or four turns.",
+        "Wind the string round a thicker post, such as a steel tumbler laid on its side.",
+        "Use a rough string to give more friction."
+      ],
+      "creative": [
+        "Weave the string over and under three pencils in a zigzag, like a shoelace, so each pencil adds its own grip.",
+        "Wind the string round the post in a figure-of-eight, which makes the string cross itself.",
+        "Tie one knot round a pencil as a brake, and open it a little at a time."
+      ],
+      "your_turn": "Sketch your design and say how many turns you expect to need. Try it. Change one thing at a time. Which design lowered the bottle most smoothly? How do you know?",
+      "context": "This is a design challenge about the rope rule. You use turns of string round a post to lower a bottle slowly.",
+      "setup": [
+        {
+          "art": "A child sketching three ways of winding string round pencils: round one pencil, in a zigzag over three pencils, and in a figure of eight.",
+          "caption": "1. Sketch some designs on paper."
+        },
+        {
+          "art": "A bottle hanging from a string wound three times round a pencil taped to a table edge, with a cushion underneath.",
+          "caption": "2. Build your design. Put a cushion under the bottle."
+        },
+        {
+          "art": "A child holding the end of the string with a finger and thumb while the bottle slowly goes down, with a stopwatch beside them.",
+          "caption": "3. Lower the bottle by easing the end, and count to ten."
+        }
+      ],
+      "flow": [
+        {
+          "id": "s1",
+          "mins": 6,
+          "do": "Read the problem together. Ask your child to sketch two or three different ways of winding the string.",
+          "say": "You have to lower the bottle slowly, using one finger. How could you wind the string? Draw some ideas first.",
+          "kid": "You must lower a bottle slowly with one finger. Draw some ideas.",
+          "ask": [
+            {
+              "q": "What will happen if you use too few turns? What will happen if you use too many?",
+              "good": [
+                "Too few, and the bottle will drop fast.",
+                "Too many, and the bottle will not move at all.",
+                "We need the right number."
+              ]
+            }
+          ],
+          "context": "In this step, you plan your designs."
+        },
+        {
+          "id": "s2",
+          "mins": 12,
+          "do": "Build your first design. Put a cushion under the bottle. Hold the loose end and ease it gently. Count how many seconds the bottle takes to reach the floor.",
+          "say": "Build your first design. Hold the end gently. Ease it out. Count the seconds as the bottle goes down.",
+          "kid": "Build your design. Ease the string out. Count the seconds.",
+          "parent": "Put the table in a place where nobody walks. Keep your child's feet clear of the bottle. If the bottle drops, it will bump the cushion and that is fine.",
+          "context": "In this step, you build and test your first design."
+        },
+        {
+          "id": "s3",
+          "mins": 15,
+          "do": "Change one thing, such as the number of turns, the post or the string. Test again. Write the number of turns and the seconds each time.",
+          "say": "Change just one thing and try again. Write down the number of turns and the time. Which design is best?",
+          "kid": "Change one thing. Test again. Write down the turns and the time.",
+          "parent": "A good run takes about 10 seconds with a smooth, steady descent. If the bottle sticks and then jerks, that is stick-slip. A wet thread or a slightly rougher string usually helps.",
+          "check": {
+            "t": "mcq",
+            "q": "Your bottle sticks and then jumps down in jerks. What is happening?",
+            "options": [
+              "Starting friction is bigger than sliding friction, so the string sticks and then slips",
+              "The bottle is too heavy for the table",
+              "The pencil is too long"
+            ],
+            "a": 0,
+            "why": "When the string sticks, the pull builds up until it passes the limit of starting friction. Then the string slips, the friction drops a little, and the bottle jumps. This is stick-slip. A wrong pick often means looking for a cause outside the string and post."
+          },
+          "context": "In this step, you improve your design, one change at a time."
+        },
+        {
+          "id": "s4",
+          "mins": 7,
+          "do": "Ask your child to explain how their best design works. Ask them to draw the string, the post and the arrows for the pull and the grip.",
+          "say": "Tell me why your design works. Where does the grip come from? Draw the string, the post and the arrows.",
+          "kid": "Say why your design works. Draw the string and the post.",
+          "think": "Why would a friend with a very smooth steel rod need more turns?",
+          "context": "In this step, you explain your best design."
+        }
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws-core",
+      "title": "Press, Pull and Grip (core)",
+      "tier": "core",
+      "mins": 25,
+      "items": [
+        {
+          "t": "mcq",
+          "p": "A box needs 4 newtons of pull to start moving. You put a second box, exactly the same, on top of it. About how much pull will the pair need?",
+          "opts": [
+            "About 8 newtons",
+            "About 4 newtons",
+            "About 2 newtons"
+          ],
+          "a": 0,
+          "why": "The pressing force on the floor has doubled, so the friction has about doubled too. A wrong pick often means thinking that extra weight makes no difference.",
+          "outcome": 0
+        },
+        {
+          "t": "truefalse",
+          "p": "A bigger face of a hard box always has more friction than a smaller face.",
+          "a": false,
+          "why": "False. The weight is the same, so the pressing force is the same. A bigger face spreads the weight over more bumps, each pressed less, so the total grip is about the same. Soft rubber and sticky tape are exceptions.",
+          "outcome": 2
+        },
+        {
+          "t": "fill",
+          "p": "On a flat floor, friction is about equal to mu times the ____ force.",
+          "a": [
+            "pressing",
+            "normal"
+          ],
+          "why": "The pressing force is how hard the box and floor push on each other. Mu is a number for the pair of surfaces. Together they give the friction.",
+          "outcome": 0
+        },
+        {
+          "t": "match",
+          "p": "Match each word to its meaning.",
+          "pairs": [
+            [
+              "Pressing force",
+              "how hard two surfaces push together"
+            ],
+            [
+              "Coefficient of friction",
+              "a number for how grippy two surfaces are"
+            ],
+            [
+              "Real contact area",
+              "the tiny total area where bumps truly touch"
+            ],
+            [
+              "Stick-slip",
+              "movement in jerks, sticking and then slipping"
+            ]
+          ],
+          "a": "pairs as given",
+          "why": "Each word names one idea from the unit. Pressing force and mu give the friction. The real contact area is where the grip is made. Stick-slip is what happens when starting friction is bigger than sliding friction.",
+          "outcome": 2
+        },
+        {
+          "t": "mcq",
+          "p": "In a test, the two dots on a rubber band start 4 centimetres apart. Just before the box moves, they are 9 centimetres apart. What is the stretch?",
+          "opts": [
+            "5 centimetres",
+            "9 centimetres",
+            "13 centimetres"
+          ],
+          "a": 0,
+          "why": "The stretch is how much the gap grew. 9 take away 4 is 5. A wrong pick often means reading the gap and forgetting to take away the starting length.",
+          "outcome": 1
+        },
+        {
+          "t": "sort",
+          "p": "A box is pulled across a floor. Would the pull needed get bigger, get smaller or stay about the same?",
+          "cats": [
+            "Bigger",
+            "Smaller",
+            "About the same"
+          ],
+          "items": [
+            [
+              "add one more packet inside",
+              "Bigger"
+            ],
+            [
+              "stand the box on its narrow end",
+              "About the same"
+            ],
+            [
+              "roll the box on pencils",
+              "Smaller"
+            ],
+            [
+              "wet the floor with soapy water",
+              "Smaller"
+            ],
+            [
+              "put twice the load in the box",
+              "Bigger"
+            ],
+            [
+              "take a packet out",
+              "Smaller"
+            ]
+          ],
+          "a": "as given",
+          "why": "More weight means more pressing force, so more friction. Rolling and soapy water lower friction. Turning the box changes the face but not the weight, so the grip stays about the same.",
+          "outcome": 0
+        },
+        {
+          "t": "write",
+          "p": "Divya says: 'The big face of the shoebox touches more of the floor, so it must grip more.' Do you agree? Use the ideas of weight and bumps in your answer.",
+          "lines": 3,
+          "a": "No. The weight is the same, so the pressing force is the same. A bigger face spreads the weight over more bumps, so each is pressed less. A smaller face puts the weight on fewer bumps, pressed more. The total grip is about the same.",
+          "why": "A strong answer says that the weight is the same, and that the area changes the number of touching bumps but not the total grip.",
+          "outcome": 2
+        },
+        {
+          "t": "mcq",
+          "p": "When you slide two fingers together under a ruler, why does the finger nearer the middle stay stuck while the other one slides?",
+          "opts": [
+            "It carries more of the weight, so it presses harder and has more friction",
+            "It is the stronger finger",
+            "The ruler is stickier in the middle"
+          ],
+          "a": 0,
+          "why": "The finger nearer the middle carries more of the ruler's weight, so its friction is bigger. A wrong pick often means thinking about the finger's strength, not the load on it.",
+          "outcome": 3
+        },
+        {
+          "t": "order",
+          "p": "Put these in order, for a box pulled by a stretching spring.",
+          "a": [
+            "The spring stretches while the box stays still",
+            "The pull passes the limit of starting friction",
+            "The box slips forward",
+            "The spring relaxes and the box sticks again"
+          ],
+          "why": "The box stays still while the pull builds up. When the pull passes the limit, the box slips. Then the spring relaxes and the box sticks again. This repeating is stick-slip.",
+          "outcome": 3
+        },
+        {
+          "t": "count",
+          "p": "A box with 1 packet in it made the band stretch 3 centimetres. Each extra packet adds about 3 centimetres. How many centimetres will the band stretch with 4 packets?",
+          "a": "12",
+          "why": "Four packets is four times one packet. 4 times 3 is 12 centimetres. This works when the stretch is proportional to the load.",
+          "outcome": 1
+        },
+        {
+          "t": "truefalse",
+          "p": "A wheel that is rolling is rubbing against the road in the same way as a sliding box.",
+          "a": false,
+          "why": "False. The part of a rolling wheel that touches the road is for a moment still, so it does not rub. This is why rolling friction is much smaller.",
+          "outcome": 4
+        },
+        {
+          "t": "draw",
+          "p": "Draw two rough surfaces pressed together, and show where they really touch. Then draw them pressed together harder.",
+          "a": "Two mountain-range surfaces touching at a few peaks. In the second drawing, the peaks are flattened and more peaks touch.",
+          "why": "A strong drawing shows touching at only a few peaks, with gaps between, and more touching spots when pressed harder.",
+          "outcome": 2
+        },
+        {
+          "t": "mcq",
+          "p": "Why does honey slow a falling ball more than water does?",
+          "opts": [
+            "Honey has more friction inside it, which is called viscosity",
+            "Honey is heavier than water",
+            "Honey is smoother than water"
+          ],
+          "a": 0,
+          "why": "The layers of honey rub against each other and against the ball with much more friction than water. A wrong pick often means thinking about weight, when the real reason is the friction inside the liquid.",
+          "outcome": 4
+        },
+        {
+          "t": "perspective",
+          "p": "Lakshmi and Imran want to move a heavy trunk across a room. Each has a plan.",
+          "views": [
+            {
+              "who": "Lakshmi, a girl in Class 4 (an imagined view)",
+              "says": "Let us slide the trunk on a thick cloth. It costs nothing, and the cloth is smooth."
+            },
+            {
+              "who": "Imran, a boy in Class 4 (an imagined view)",
+              "says": "Let us put the trunk on three round pipes and roll it. Rolling has less friction than sliding."
+            }
+          ],
+          "ask": "Whose plan needs less pulling? What could you test to find out?",
+          "a": "Answers vary. A strong answer picks Imran's plan with the reason that rolling friction is smaller, or picks Lakshmi's with a reason, and describes a fair test such as pulling the same trunk with a rubber band both ways.",
+          "why": "Rolling usually has much less friction than sliding, even on a smooth cloth. A fair test pulls the same trunk with the same band both ways.",
+          "outcome": 4
+        },
+        {
+          "t": "write",
+          "p": "A friend says: 'Two flat things pressed together touch each other all over.' What would you tell your friend?",
+          "lines": 3,
+          "a": "Even a flat-looking surface is full of tiny peaks. When two surfaces are pressed together, only the tips of the peaks touch. The real touching area is tiny compared with the area we can see.",
+          "why": "A strong answer says that surfaces touch only at the tips of their bumps and that pressing harder makes more bumps touch.",
+          "outcome": 2
+        },
+        {
+          "t": "mcq",
+          "p": "Why do people put oil on a cycle chain?",
+          "opts": [
+            "It keeps the metal parts from rubbing directly, so there is less friction",
+            "It makes the chain heavier",
+            "It makes the chain stick to the gear"
+          ],
+          "a": 0,
+          "why": "Oil forms a thin layer between the metal parts. They slide past the oil instead of rubbing each other. A wrong pick often means thinking oil adds grip.",
+          "outcome": 4
+        }
+      ]
+    },
+    {
+      "id": "ws-stretch",
+      "title": "Ropes, Wheels and Heat (stretch)",
+      "tier": "stretch",
+      "mins": 30,
+      "items": [
+        {
+          "t": "mcq",
+          "p": "One turn of rope round a post makes the hold 6 times easier. About how many times easier do two turns make it?",
+          "opts": [
+            "36 times",
+            "12 times",
+            "6 times"
+          ],
+          "a": 0,
+          "why": "Each turn multiplies the grip by the same number. Two turns multiply it twice: 6 times 6 is 36. A wrong pick often means adding 6 and 6 instead of multiplying.",
+          "outcome": 5
+        },
+        {
+          "t": "count",
+          "p": "One turn of thread needs 36 clips to hold a bottle. Each extra turn needs 6 times fewer clips. How many clips do two turns need?",
+          "a": "6",
+          "why": "36 divided by 6 is 6. Every extra turn divides the number of clips by the same amount.",
+          "outcome": 5
+        },
+        {
+          "t": "fill",
+          "p": "A short, strong post on a quay, used to tie boats, is called a ____.",
+          "a": [
+            "bollard"
+          ],
+          "why": "A bollard lets a rope be wound round it. The friction of the turns holds the boat.",
+          "outcome": 5
+        },
+        {
+          "t": "truefalse",
+          "p": "A heavy cupboard that has not started to move has friction that is bigger than your push.",
+          "a": false,
+          "why": "False. If friction were bigger than your push, the cupboard would be pushed backwards. Friction is exactly as big as your push, up to a limit.",
+          "outcome": 3
+        },
+        {
+          "t": "count",
+          "p": "You drag a box 10 metres, and the friction force is 6 newtons. How many joules of work do you do against the friction?",
+          "a": "60",
+          "why": "Work is force times distance. 6 times 10 is 60 joules. All of it ends up as heat.",
+          "outcome": 6
+        },
+        {
+          "t": "match",
+          "p": "Match each gripping part below to the trick it uses.",
+          "pairs": [
+            [
+              "Gecko toes",
+              "millions of tiny hairs that get very close to the surface"
+            ],
+            [
+              "Tree frog toe pads",
+              "wet, patterned pads"
+            ],
+            [
+              "Fingerprints",
+              "ridges that help the finger grip"
+            ],
+            [
+              "Climber's chalk",
+              "dries the hands so they do not slip"
+            ]
+          ],
+          "a": "pairs as given",
+          "why": "Living beings use many tricks to grip. Hairs, wet pads, ridges and dry hands each increase the grip in their own way.",
+          "outcome": 7
+        },
+        {
+          "t": "sort",
+          "p": "At the place where it touches the ground or its partner, is each thing rolling or sliding?",
+          "cats": [
+            "Rolling",
+            "Sliding"
+          ],
+          "items": [
+            [
+              "a bicycle wheel on the road",
+              "Rolling"
+            ],
+            [
+              "a brake pad rubbing on a wheel rim",
+              "Sliding"
+            ],
+            [
+              "a ball in a ball bearing",
+              "Rolling"
+            ],
+            [
+              "a sled on snow",
+              "Sliding"
+            ],
+            [
+              "a marble on a smooth floor",
+              "Rolling"
+            ],
+            [
+              "a car tyre in a skid",
+              "Sliding"
+            ]
+          ],
+          "a": "as given",
+          "why": "A wheel that grips the road rolls. When it locks and skids, it slides. A brake pad and a sled always slide.",
+          "outcome": 4
+        },
+        {
+          "t": "write",
+          "p": "Two strong men could not hold a boat with a rope in their hands. A girl and her grandmother held it with a rope round an iron post. Explain why the rope round the post worked.",
+          "lines": 4,
+          "a": "The rope touches the post along its turns, and friction acts along all of them. Every turn multiplies the grip, so a light hold on the loose end is enough to hold a heavy boat.",
+          "why": "A strong answer says that friction acts along all the rope that touches the post, and that each turn multiplies the grip.",
+          "outcome": 5
+        },
+        {
+          "t": "mcq",
+          "p": "A boatman lets the rope slide slowly round the post instead of locking it tight. Why is this better?",
+          "opts": [
+            "It stops the boat gently, without a jerk that could break the line",
+            "It makes the rope stronger",
+            "It makes the post colder"
+          ],
+          "a": 0,
+          "why": "Stopping all at once puts a huge force on the line and the boat. Letting the rope slide a little takes the movement away gently. A wrong pick often means thinking that the rope gets stronger.",
+          "outcome": 5
+        },
+        {
+          "t": "order",
+          "p": "Put these in order, to explain how a rope round a post holds a boat.",
+          "a": [
+            "The boat pulls on the rope",
+            "The rope presses on the post along its turns",
+            "Friction acts along every part of the rope that touches the post",
+            "Each turn adds more grip, so a light hold on the loose end is enough"
+          ],
+          "why": "The boat's pull goes into the rope, which presses on the post. Friction acts everywhere the rope touches the post, and each extra turn multiplies it.",
+          "outcome": 5
+        },
+        {
+          "t": "draw",
+          "p": "Draw a rope wound twice round a post. Draw a big arrow for the boat's pull and a very small arrow for the hold on the loose end.",
+          "a": "A post with two loops of rope, a long arrow on the boat side and a short arrow on the loose end.",
+          "why": "A strong drawing shows that the hold can be tiny compared with the pull, because the turns do the work.",
+          "outcome": 5
+        },
+        {
+          "t": "perspective",
+          "p": "Scientists argue about why fingers wrinkle in water. Here are two views.",
+          "views": [
+            {
+              "who": "A researcher who found a benefit (an imagined view)",
+              "says": "Wrinkled fingers pick up wet things faster, so wrinkles help us grip in the rain."
+            },
+            {
+              "who": "A researcher who found no clear benefit (an imagined view)",
+              "says": "I repeated the test and saw no clear difference. The wrinkles might have another purpose, or none."
+            }
+          ],
+          "ask": "Whose view do you agree with more? What could you test to find out?",
+          "a": "Answers vary. A strong answer picks a side with a reason and describes a fair test, such as timing wrinkled and smooth fingers on wet marbles, swapping the order and repeating.",
+          "why": "Scientists have found mixed results, so the question is still open. A fair test swaps the order of the hands so that practice does not mislead.",
+          "outcome": 7
+        },
+        {
+          "t": "truefalse",
+          "p": "Warm honey flows more easily than cold honey.",
+          "a": true,
+          "why": "True. Heat makes the molecules move faster, so they slide past each other more easily. The honey has less internal friction.",
+          "outcome": 4
+        },
+        {
+          "t": "mcq",
+          "p": "A box slides across the floor and stops. Where did its movement go?",
+          "opts": [
+            "It turned into heat in the box and the floor",
+            "It was used up and disappeared",
+            "It went into the air as light"
+          ],
+          "a": 0,
+          "why": "Friction turns movement into heat, which spreads into the surfaces and the air. Movement is not used up. A wrong pick often means thinking that movement just ends.",
+          "outcome": 6
+        },
+        {
+          "t": "write",
+          "p": "Name two places where a thick liquid such as oil is useful, and two where a thin liquid such as water is better.",
+          "lines": 3,
+          "a": "Thick liquids are useful in an engine, a cycle chain and a bearing, because they stay in place and keep metal apart. Thin liquids are better for washing, drinking and cooling, where they must flow easily.",
+          "why": "A strong answer connects each choice to how fast the liquid should flow and how well it stays in place.",
+          "outcome": 4
+        },
+        {
+          "t": "odd",
+          "p": "Which is the odd one out, and why? Gecko toes, tyre tread, sandpaper, polished ice.",
+          "a": "Polished ice, because the other three are made or shaped to increase grip.",
+          "why": "Gecko toes, tyre tread and sandpaper all help things grip. Polished ice has very low friction.",
+          "outcome": 0
+        }
+      ]
+    },
+    {
+      "id": "ws-challenge",
+      "title": "Mu, Ropes and Puzzles (challenge)",
+      "tier": "challenge",
+      "mins": 30,
+      "items": [
+        {
+          "t": "count",
+          "p": "A box presses on the floor with a force of 20 newtons. It needs a pull of 6 newtons to keep sliding. What is mu, the coefficient of friction?",
+          "a": "0.3",
+          "why": "Mu is the friction force divided by the pressing force. 6 divided by 20 is 0.3.",
+          "outcome": 0
+        },
+        {
+          "t": "count",
+          "p": "A different box on the same floor presses with a force of 50 newtons. Mu stays 0.3. How big is the friction force, in newtons?",
+          "a": "15",
+          "why": "Friction is mu times the pressing force. 0.3 times 50 is 15 newtons.",
+          "outcome": 0
+        },
+        {
+          "t": "mcq",
+          "p": "Rubber on a dry road has mu of about 0.8. Steel on ice has mu of about 0.03. About how many times more grip does the rubber have?",
+          "opts": [
+            "About 27 times",
+            "About 3 times",
+            "About 800 times"
+          ],
+          "a": 0,
+          "why": "0.8 divided by 0.03 is about 27. A wrong pick often means mixing up the decimals.",
+          "outcome": 0
+        },
+        {
+          "t": "truefalse",
+          "p": "When you stand a brick on its narrow end instead of laying it flat, the pressing force on the floor gets bigger.",
+          "a": false,
+          "why": "False. The weight of the brick has not changed, so the total pressing force has not changed. The pressing on each bump gets bigger, but there are fewer bumps.",
+          "outcome": 2
+        },
+        {
+          "t": "write",
+          "p": "A tyre company says: 'Our wider tyre grips better on a dry road because it has more rubber touching the road.' Using the rule about area, what would you ask them?",
+          "lines": 4,
+          "a": "I would ask: if the area does not change the friction for hard surfaces, why would it help here? For soft, sticky rubber the rule is not exact, so I would ask them to show a test with the same load and the same road.",
+          "why": "A strong answer notes that for hard dry surfaces area hardly matters, and asks for a fair test that keeps the load the same.",
+          "outcome": 2
+        },
+        {
+          "t": "sort",
+          "p": "Which of these do scientists agree about, and which are still debated or unknown?",
+          "cats": [
+            "Scientists agree",
+            "Still debated or unknown"
+          ],
+          "items": [
+            [
+              "On hard, dry surfaces, friction is roughly proportional to the pressing force",
+              "Scientists agree"
+            ],
+            [
+              "Why fingers wrinkle in water",
+              "Still debated or unknown"
+            ],
+            [
+              "Two surfaces touch only at the tips of their bumps",
+              "Scientists agree"
+            ],
+            [
+              "A single theory that predicts friction from atoms for every material",
+              "Still debated or unknown"
+            ],
+            [
+              "The work done against friction becomes heat",
+              "Scientists agree"
+            ]
+          ],
+          "a": "as given",
+          "why": "The rules for hard, dry surfaces, the tiny real contact and the heat are settled. The wrinkles and a complete atomic theory are not.",
+          "outcome": 7
+        },
+        {
+          "t": "mcq",
+          "p": "An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this unit does that match?",
+          "opts": [
+            "Stick-slip",
+            "Rolling friction",
+            "Fluid friction"
+          ],
+          "a": 0,
+          "why": "The rocks stick, the push builds up, and then they slip all at once. This is stick-slip on a giant scale.",
+          "outcome": 3
+        },
+        {
+          "t": "perspective",
+          "p": "A harbour has an old boatwoman who knows the rope rule by experience, and a young scientist who knows the rule as an equation.",
+          "views": [
+            {
+              "who": "The boatwoman (an imagined view)",
+              "says": "I have tied boats for fifty years. I know three turns hold a boat, and I know when to let it slide. That is knowing."
+            },
+            {
+              "who": "The scientist (an imagined view)",
+              "says": "A rule that works only for one rope on one post is not enough. An equation tells us how many turns any rope on any post needs."
+            }
+          ],
+          "ask": "Who knows more about ropes? Can both be right?",
+          "a": "Answers vary. A strong answer says that both kinds of knowing are useful, and gives a reason, for example that experience works at once and the equation works for new ropes.",
+          "why": "People used the rope rule for thousands of years before it was written as an equation. Both kinds of knowing matter.",
+          "outcome": 5
+        },
+        {
+          "t": "match",
+          "p": "Match each situation to the kind of friction.",
+          "pairs": [
+            [
+              "A cupboard that will not budge",
+              "starting friction"
+            ],
+            [
+              "A box sliding along the floor",
+              "sliding friction"
+            ],
+            [
+              "A suitcase on wheels",
+              "rolling friction"
+            ],
+            [
+              "A nut falling through honey",
+              "fluid friction"
+            ]
+          ],
+          "a": "pairs as given",
+          "why": "Each kind of friction acts in a different situation. Starting friction holds a thing still. Sliding friction acts on a sliding thing. Rolling friction acts on wheels. Fluid friction acts in liquids and gases.",
+          "outcome": 3
+        },
+        {
+          "t": "mcq",
+          "p": "A graph of pull against load for a box is a straight line that starts near zero. What does this show?",
+          "opts": [
+            "The pull is proportional to the load",
+            "The pull does not depend on the load",
+            "The pull is bigger for lighter loads"
+          ],
+          "a": 0,
+          "why": "A straight line from the start means that doubling the load doubles the pull. A wrong pick often means thinking a straight line means no change.",
+          "outcome": 1
+        },
+        {
+          "t": "draw",
+          "p": "Draw a line graph of these made-up results. Loads: 0, 1, 2, 3 and 4 packets. Stretches: 0, 2, 4, 6 and 8 centimetres.",
+          "a": "Packets along the bottom and stretch up the side, with dots at (0,0), (1,2), (2,4), (3,6), (4,8) joined in a straight line.",
+          "why": "A strong graph has labelled axes, evenly spaced numbers, correct dots and a straight line, which shows the pull is proportional to the load.",
+          "outcome": 1
+        },
+        {
+          "t": "count",
+          "p": "A boat pulls on a rope with 1296 newtons. Each turn makes the hold 6 times easier. After three turns, how many newtons must the boatwoman's hand hold?",
+          "a": "6",
+          "why": "Three turns make the hold 6 times 6 times 6 easier, which is 216 times. 1296 divided by 216 is 6 newtons.",
+          "outcome": 5
+        },
+        {
+          "t": "write",
+          "p": "A braking cyclist slows down and stops. Where does the energy of her movement go? Could a bicycle be built to save some of it?",
+          "lines": 4,
+          "a": "The energy turns into heat in the brake pads and wheel rims, and spreads into the air. Some vehicles save part of it, because their brakes turn the movement into electricity for a battery.",
+          "why": "A strong answer says that the movement becomes heat. A very good answer knows that some cars and trains save part of the energy in a battery or a store.",
+          "outcome": 6
+        },
+        {
+          "t": "fill",
+          "p": "The real contact area between two surfaces is much ____ than the area you can see.",
+          "a": [
+            "smaller",
+            "less"
+          ],
+          "why": "Only the tips of the bumps touch, so the true touching area is tiny compared with the whole face.",
+          "outcome": 2
+        },
+        {
+          "t": "mcq",
+          "p": "A friend wants to test whether wrinkled fingers grip wet things better. Which test is fairest?",
+          "opts": [
+            "Time wrinkled and smooth fingers on the same wet marbles, swapping which goes first, and repeat",
+            "Ask which fingers look better",
+            "Try the wrinkled hand only once"
+          ],
+          "a": 0,
+          "why": "A fair test uses the same task for both, swaps the order so practice does not matter, and repeats. A wrong pick often means trusting one try.",
+          "outcome": 1
+        },
+        {
+          "t": "odd",
+          "p": "Which is the odd one out, and why? A drum rolled across a yard, a sack dragged on the ground, a ball in a bearing, a train wheel on a rail.",
+          "a": "The sack, because it slides. The other three roll.",
+          "why": "Rolling has much less friction than sliding. The drum, the ball and the wheel all roll, but the sack is dragged.",
+          "outcome": 4
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "t": "mcq",
+      "p": "You put a second school bag on top of the bag that you are dragging across the floor. What happens to the friction?",
+      "opts": [
+        "It becomes about twice as big",
+        "It becomes much smaller",
+        "It stays exactly the same"
+      ],
+      "a": 0,
+      "why": "The pressing force doubles, so the friction roughly doubles. A wrong pick often means thinking that the weight has no effect.",
+      "outcome": 0
+    },
+    {
+      "t": "mcq",
+      "p": "Two identical bricks are on a table. One lies on its big face and one stands on its narrow end. Which needs the bigger pull to start moving?",
+      "opts": [
+        "Both need about the same pull",
+        "The one on its big face",
+        "The one on its narrow end"
+      ],
+      "a": 0,
+      "why": "The weights are the same, so the pressing forces are the same. The face changes the number of bumps, but not the total grip.",
+      "outcome": 2
+    },
+    {
+      "t": "mcq",
+      "p": "Why do two hard, flat surfaces touch at only a few tiny spots?",
+      "opts": [
+        "Every surface has tiny peaks, and only the tips of the peaks meet",
+        "The surfaces push each other away",
+        "The surfaces are covered in oil"
+      ],
+      "a": 0,
+      "why": "Even a smooth surface is a mountain range under a microscope. Only the tips of the peaks touch. A wrong pick often means thinking the surfaces repel each other.",
+      "outcome": 2
+    },
+    {
+      "t": "mcq",
+      "p": "Why does pressing two surfaces together harder increase the friction?",
+      "opts": [
+        "More of the bumps are squashed and touch, so there are more tiny grips",
+        "The surfaces become rougher",
+        "The surfaces get colder"
+      ],
+      "a": 0,
+      "why": "Pressing squashes the peaks a little, and more of them touch. More touching spots give more grip.",
+      "outcome": 2
+    },
+    {
+      "t": "mcq",
+      "p": "What is stick-slip?",
+      "opts": [
+        "Movement in jerks, as a thing sticks, slips, and sticks again",
+        "A kind of glue",
+        "A very smooth floor"
+      ],
+      "a": 0,
+      "why": "Starting friction holds a thing still until the pull passes its limit. Then the thing slips, and sliding friction is a little smaller, so it can stick again.",
+      "outcome": 3
+    },
+    {
+      "t": "mcq",
+      "p": "A heavy cupboard does not move when you push it gently. How big is the friction on it?",
+      "opts": [
+        "The same as your push",
+        "Bigger than your push",
+        "Zero"
+      ],
+      "a": 0,
+      "why": "If friction were bigger than your push, the cupboard would move backwards. If it were zero, the cupboard would move. It matches your push, up to a limit.",
+      "outcome": 3
+    },
+    {
+      "t": "mcq",
+      "p": "Why is a wheeled suitcase easier to pull than a dragged one?",
+      "opts": [
+        "A rolling wheel does not rub and slide at the spot where it touches the floor",
+        "The wheels make the suitcase lighter",
+        "Wheels have no weight"
+      ],
+      "a": 0,
+      "why": "The spot of a wheel that touches the floor is for a moment still, so rolling friction is much smaller. A wrong pick often means thinking the suitcase became lighter.",
+      "outcome": 4
+    },
+    {
+      "t": "mcq",
+      "p": "Why does warm honey flow faster than cold honey?",
+      "opts": [
+        "Heat makes the molecules move faster, so there is less friction inside the honey",
+        "Warm honey is heavier",
+        "Warm honey is a different liquid"
+      ],
+      "a": 0,
+      "why": "Heat helps the molecules slide past each other. Honey is then less viscous.",
+      "outcome": 4
+    },
+    {
+      "t": "mcq",
+      "p": "A rope is wound round a post. Two turns need a hold of 36 newtons, and each turn makes the hold 6 times easier. What does a third turn need?",
+      "opts": [
+        "About 6 newtons",
+        "About 30 newtons",
+        "About 216 newtons"
+      ],
+      "a": 0,
+      "why": "The third turn divides the hold by 6 again, and 36 divided by 6 is 6. A wrong pick often means taking away 6 instead of dividing by 6.",
+      "outcome": 5
+    },
+    {
+      "t": "mcq",
+      "p": "You pull a box with a friction force of 8 newtons along 5 metres. How much work do you do against the friction?",
+      "opts": [
+        "40 joules, which ends up as heat",
+        "13 joules, which disappears",
+        "8 joules, which ends up as light"
+      ],
+      "a": 0,
+      "why": "Work is the force times the distance. 8 times 5 is 40 joules. All of it becomes heat.",
+      "outcome": 6
+    },
+    {
+      "t": "mcq",
+      "p": "Which of these do scientists agree about?",
+      "opts": [
+        "On hard, dry surfaces, friction is roughly proportional to the pressing force",
+        "Wrinkled fingers certainly help us grip in the rain",
+        "Friction does not depend on the materials"
+      ],
+      "a": 0,
+      "why": "The proportional rule is well tested. The wrinkle question is still debated. The materials matter a lot, as the mu numbers show.",
+      "outcome": 7
+    },
+    {
+      "t": "mcq",
+      "p": "Which of these can scientists NOT yet do?",
+      "opts": [
+        "Predict the friction of any pair of materials from the atoms upward",
+        "Measure friction with a spring scale",
+        "Make friction smaller with oil"
+      ],
+      "a": 0,
+      "why": "We can measure friction and lower it, but there is no single theory that predicts it for all materials from the atoms.",
+      "outcome": 7
+    }
+  ],
+  "videos": [
+    {
+      "title": "How a rope round a post holds a boat (the capstan effect)",
+      "channel": "to be found",
+      "youtube": "",
+      "status": "find-id",
+      "mins": 5,
+      "why": "To see a rope wound round a post hold a heavy load with a light hand, and to see the turns counted.",
+      "check": "Not yet found. Find one, watch it all, and check that it shows the number of turns and does not say that the knot is what holds."
+    },
+    {
+      "title": "Stick-slip: why a violin bow and a chalk make sound",
+      "channel": "to be found",
+      "youtube": "",
+      "status": "find-id",
+      "mins": 5,
+      "why": "To see sticking and slipping in slow motion, on a bow, on chalk or on a sliding block.",
+      "check": "Not yet found. Find one, watch it all, and check that it explains starting friction and sliding friction correctly."
+    },
+    {
+      "title": "Friction and the real area of contact (tiny peaks on surfaces)",
+      "channel": "to be found",
+      "youtube": "",
+      "status": "find-id",
+      "mins": 6,
+      "why": "To see a magnified view of two surfaces touching only at their peaks.",
+      "check": "Not yet found. Find one, watch it all, and check that it shows contact only at tiny peaks and does not claim that area changes friction on hard surfaces."
+    }
+  ],
+  "applications": [
+    "Boats, ships and ferries are tied to bollards with a few turns of rope, and held with a light pull on the loose end.",
+    "Rock climbers wind a rope through a device so that a light hold can catch a fall.",
+    "Tyres are made of rubber mixes chosen for a high mu on dry and wet roads.",
+    "Ball bearings in ceiling fans, cycle hubs and washing machines turn sliding into rolling.",
+    "Engine oil is made to flow when cold and to stay thick enough when hot, so engines run on a cold morning and on a hot highway.",
+    "Brake pads press on a disc or rim. The pressing force sets the friction that stops the vehicle, and the movement becomes heat.",
+    "Knots, plaited hair, woven cloth and thread hold together because of the friction where the strands cross and touch.",
+    "Hinges, drawers and sliding doors are oiled or waxed to stop stick-slip squeaks.",
+    "Engineers choose materials by their mu, such as rubber for shoe soles and Teflon for non-stick pans.",
+    "Geologists study stick-slip on faults to understand how and where earthquakes may start.",
+    "Machines are checked and oiled, because a worn, dry part wastes energy as heat."
+  ],
+  "spotted": [
+    {
+      "text": "A boat tied to an iron bollard on a quay with several turns of rope.",
+      "art": "A fishing boat at a quay, tied with a rope wound three times round an iron bollard."
+    },
+    {
+      "text": "A squeaky door, cupboard or swing that makes a sound each time it moves.",
+      "art": "A wooden door with a rusty hinge, and little wavy sound lines coming from it."
+    },
+    {
+      "text": "The wheels and the ball bearings of a ceiling fan, a cycle or a skateboard.",
+      "art": "A cycle wheel hub cut open to show the small steel balls."
+    },
+    {
+      "text": "The zigzag tread on tyres, chappals and school shoes.",
+      "art": "A tyre and a shoe sole side by side, showing their patterns."
+    },
+    {
+      "text": "A chalk that squeaks on a blackboard, or a wet finger that makes a glass hum.",
+      "art": "A hand holding chalk making a dotted line on a blackboard."
+    },
+    {
+      "text": "A suitcase or a school trolley bag on wheels, being pulled easily.",
+      "art": "A child pulling a wheeled school bag across a floor, with one finger."
+    },
+    {
+      "text": "The polished smooth bit of a temple step, worn by thousands of feet.",
+      "art": "A stone temple step with a smooth hollow in the middle."
+    },
+    {
+      "text": "A hand-pulled well rope or a pulley rope with a smooth, shiny patch where it rubs.",
+      "art": "A well with a rope running over a wooden roller and a shiny patch on the rope."
+    }
+  ],
+  "open_questions": [
+    {
+      "q": "Can we predict friction for any pair of materials from the atoms upward?",
+      "why_open": "Scientists can predict friction in a few simple cases. For most materials, they still measure it, because the full atomic story is too complicated."
+    },
+    {
+      "q": "Why do fingers wrinkle in water, and do the wrinkles help us grip?",
+      "why_open": "Some experiments found a benefit and others did not. The question is still being tested."
+    },
+    {
+      "q": "Can we make a material with almost no friction at all?",
+      "why_open": "Scientists have measured almost no friction between layers of graphite in tiny samples. Making it work for large, everyday things is not yet solved."
+    },
+    {
+      "q": "Can we predict when a fault in the Earth will slip in an earthquake?",
+      "why_open": "Faults stick and slip like a block on a spring. But the rocks, the cracks and the water underground are so complicated that nobody can name the day."
+    },
+    {
+      "q": "How does friction change at very small sizes, a few atoms across?",
+      "why_open": "The old rules, such as friction being proportional to load, may stop working at this size. Scientists are still finding out which rules replace them."
+    },
+    {
+      "q": "Why does a thing slide with a smaller friction than the friction it started with?",
+      "why_open": "Scientists describe it well, but they are still working out what the atoms do at the moment a surface lets go."
+    }
+  ],
+  "ask_kids": [
+    "You pushed the door and it did not move. Where was the push going?",
+    "If we put a heavy bag on this bag, will it be harder to drag? Why?",
+    "Which is easier to carry up a ramp: a trolley with wheels or a box with flat sides? Why?",
+    "Look at your shoe. Where does it touch the floor, really?",
+    "Why do the boats at the harbour have such thick ropes with so many turns?",
+    "A bike chain squeaks. What would you do, and what is the squeak telling you?",
+    "Why is honey slow to pour, and when is it faster?",
+    "What do you think is the difference between a floor that is rough and a floor that has more friction?",
+    "Rub your hands together hard. Where does the warmth come from?",
+    "Can you think of a time something stuck and then suddenly slipped?"
+  ],
+  "jokes": [
+    {
+      "j": "Why did the box refuse to move?",
+      "a": "It had too much weight on its shoulders."
+    },
+    {
+      "j": "What did the rope say to the post?",
+      "a": "I'm so glad you're always there to hold me."
+    },
+    {
+      "j": "What do you call a friction test that got jealous?",
+      "a": "A grip-ful of envy."
+    },
+    {
+      "j": "Why was the chalk so noisy?",
+      "a": "It couldn't stick to one thing."
+    },
+    {
+      "j": "Why did the honey win the slowest race?",
+      "a": "It never rushed anything."
+    },
+    {
+      "j": "How does a ball bearing feel on a Monday?",
+      "a": "Just rolling with it."
+    },
+    {
+      "j": "Why do bollards make such good friends?",
+      "a": "They hold on to you, no matter what."
+    },
+    {
+      "j": "What did the wheel say to the sliding box?",
+      "a": "Why do you drag?"
+    },
+    {
+      "j": "Why did the cycle chain go to the oil shop?",
+      "a": "It wanted to be more flexible."
+    }
+  ],
+  "maths": [
+    {
+      "problem": "Look at the line graph of made-up results from the Press Harder test. How many more centimetres does the band stretch for each extra packet?",
+      "answer": "2 centimetres.",
+      "explain": "With 0 packets the stretch is 0.5 centimetres. With 1 packet it is 2.5. With 2 packets it is 4.5. Each packet adds 2 centimetres. The points make a nearly straight line, so the stretch is proportional to the load.",
+      "math_unit": "math.data.line-graphs.L4",
+      "how": "e1",
+      "context": "In the Press Harder test, you add packets to a box and measure how far a rubber band stretches. The graph shows made-up results.",
+      "chart": {
+        "type": "line",
+        "title": "Stretch of the band for each load",
+        "x": "Packets in the box",
+        "y": "Stretch (cm)",
+        "data": [
+          {
+            "label": "0",
+            "value": 0.5
+          },
+          {
+            "label": "1",
+            "value": 2.5
+          },
+          {
+            "label": "2",
+            "value": 4.5
+          },
+          {
+            "label": "3",
+            "value": 6.5
+          }
+        ]
+      },
+      "why_maths": "A line graph shows a pattern in a few measurements. A straight, even climb tells you the pull grows evenly with the load."
+    },
+    {
+      "problem": "In a test, a box with 2 packets needs a stretch of 5 centimetres. If the stretch is proportional to the load, about how much stretch will 6 packets need?",
+      "answer": "About 15 centimetres.",
+      "explain": "6 packets is 3 times as many as 2 packets. 5 times 3 is 15. So you would expect a stretch of about 15 centimetres. A real band may stretch a little differently, because rubber bands are not perfect gauges.",
+      "math_unit": "math.fractions.ratio-and-proportion.L4",
+      "how": "e1",
+      "context": "In the Press Harder test, the pull needed grows in step with the load.",
+      "why_maths": "If two things grow together, you can use one measurement to predict another without testing it."
+    },
+    {
+      "problem": "A box presses on the floor with a force of 20 newtons and needs 8 newtons of pull to keep sliding. Divide the pull by the pressing force to find mu, the coefficient of friction.",
+      "answer": "0.4.",
+      "explain": "8 divided by 20 is 0.4. Mu is the friction force divided by the pressing force. It tells you how grippy the two surfaces are together.",
+      "math_unit": "math.fractions.decimals-and-percentages.L4",
+      "context": "Mu is a number that says how grippy two surfaces are together. It does not depend on how heavy the box is.",
+      "why_maths": "Dividing the pull by the load gives a number that stays the same for any load. That is a way of describing a surface without mentioning the box."
+    },
+    {
+      "problem": "In the Wrap the Thread test, each extra turn makes the hold 6 times easier. How many times easier do three turns make it?",
+      "answer": "216 times.",
+      "explain": "Three turns multiply the grip by 6 three times. 6 times 6 is 36. 36 times 6 is 216.",
+      "math_unit": "math.multiplication.multiplication-facts.L4",
+      "how": "e2",
+      "context": "In the Wrap the Thread test, a thread wound round a pencil holds a bottle. Each turn multiplies the grip.",
+      "why_maths": "Repeated multiplying grows numbers much faster than adding. This is why a few turns hold so much."
+    },
+    {
+      "problem": "A boat pulls a rope with 1,296 newtons. Three turns make the hold 216 times easier. How many newtons must the boatwoman's hand hold?",
+      "answer": "6 newtons.",
+      "explain": "1,296 divided by 216 is 6. A hand can easily hold 6 newtons, which is about the weight of a small bottle of water. You can check: 216 times 6 is 1,296.",
+      "math_unit": "math.division.division-facts.L4",
+      "how": "e2",
+      "context": "In the story and the Wrap the Thread test, turns of rope make a heavy pull easy to hold.",
+      "why_maths": "Division turns the multiplying factor of the turns into the size of the hold your hand must give."
+    },
+    {
+      "problem": "Look at the bar chart of made-up clips needed in the Wrap the Thread test. How many times fewer clips did two turns need than one turn?",
+      "answer": "6 times fewer.",
+      "explain": "One turn needed 30 clips and two turns needed 5 clips. 30 divided by 5 is 6. Each extra turn needs about 6 times fewer clips.",
+      "math_unit": "math.data.bar-charts.L4",
+      "how": "e2",
+      "context": "In the Wrap the Thread test, you count how many clips hold a bottle for different numbers of turns. The chart shows made-up results.",
+      "chart": {
+        "type": "bar",
+        "title": "Clips needed to hold the bottle",
+        "x": "Turns round the pencil",
+        "y": "Clips",
+        "data": [
+          {
+            "label": "Half a turn",
+            "value": 80
+          },
+          {
+            "label": "1 turn",
+            "value": 30
+          },
+          {
+            "label": "2 turns",
+            "value": 5
+          },
+          {
+            "label": "3 turns",
+            "value": 1
+          }
+        ]
+      },
+      "why_maths": "Dividing one bar by the next shows a pattern that you cannot see by just reading the bars."
+    },
+    {
+      "problem": "Look at the ruler picture. In a Press Harder test, the two dots started 4 centimetres apart. The ruler shows the gap just before the box moved. What was the stretch of the band?",
+      "answer": "5 centimetres.",
+      "explain": "The pointer is at 9 centimetres. The dots started 4 centimetres apart. 9 take away 4 is 5. So the band stretched by 5 centimetres.",
+      "math_unit": "math.measurement-basics.reading-scales.L4",
+      "how": "e1",
+      "context": "In the Press Harder test, the gap between two dots on a rubber band tells you how hard you pull.",
+      "chart": {
+        "type": "scale",
+        "title": "Gap between the dots, in centimetres",
+        "min": 0,
+        "max": 15,
+        "step": 0.5,
+        "value": 9,
+        "unit": "cm",
+        "label": "The dots started 4 cm apart."
+      },
+      "why_maths": "A gauge is only useful if you read it and take away the starting length. The stretch is what tells you the pull."
+    },
+    {
+      "problem": "You drag a box 15 metres along the floor. The friction force is 12 newtons. How many joules of work do you do against the friction?",
+      "answer": "180 joules.",
+      "explain": "Work is force times distance. 12 times 15 is 180. Ten 12s make 120, and five more make 60, so 120 plus 60 is 180. All of it ends up as heat.",
+      "math_unit": "math.multiplication.multi-digit.L4",
+      "context": "Friction turns movement into heat. The work you do against friction is the friction force times the distance.",
+      "why_maths": "Multiplying force by distance tells you how much energy friction costs on a journey."
+    },
+    {
+      "problem": "The number of clips needed to hold a bottle is 216, 36, 6 and 1 for half a turn, one turn, two turns and three turns in an ideal test. What rule connects the numbers, and what would four turns need?",
+      "answer": "Divide by 6 each time. Four turns need a sixth of a clip, which is almost nothing.",
+      "explain": "216 divided by 6 is 36. 36 divided by 6 is 6. 6 divided by 6 is 1. So the rule is to divide by 6. The next number is 1 divided by 6, which is a sixth of a clip. In real life, the empty bag alone would hold the bottle.",
+      "math_unit": "math.patterns.number-patterns.L4",
+      "context": "These made-up numbers show the pattern in the Wrap the Thread test. A real test will give different numbers, but the same kind of pattern.",
+      "why_maths": "Spotting a rule in a list of numbers lets you predict the next number without doing the test."
+    }
+  ],
+  "song": {
+    "topic_level": "sci.forces.L4",
+    "title": "Grip and Glide",
+    "note": "Topic-level song"
+  },
+  "links": [
+    {
+      "title": "PhET Ramp: Forces and Motion",
+      "url": "https://phet.colorado.edu/en/simulations/ramp-forces-and-motion",
+      "kind": "simulation",
+      "why": "A free online game. Push crates up a ramp, change the friction and the load, and watch the force arrows."
+    },
+    {
+      "title": "Capstan equation (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Capstan_equation",
+      "kind": "interactive",
+      "why": "For the parent: a clear article on how turns of rope multiply the grip, with the equation."
+    },
+    {
+      "title": "Tribology (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Tribology",
+      "kind": "interactive",
+      "why": "For the parent: the science of friction, wear and oil, with the main ideas and the history."
+    },
+    {
+      "title": "Stick-slip phenomenon (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Stick-slip_phenomenon",
+      "kind": "interactive",
+      "why": "For the parent: how sticking and slipping make squeaks, violin sounds and earthquakes."
+    },
+    {
+      "title": "Visvesvaraya Industrial and Technological Museum",
+      "url": "https://www.vismuseum.gov.in",
+      "kind": "place",
+      "where": "Bengaluru",
+      "why": "A big science museum full of machines, wheels and engines. Look for ball bearings and gears."
+    },
+    {
+      "title": "Nehru Science Centre",
+      "url": "https://www.nehrusciencecentre.gov.in",
+      "kind": "place",
+      "where": "Mumbai",
+      "why": "A science centre with many hands-on exhibits. Look for the ones about forces and machines."
+    }
+  ],
+  "buy": [
+    {
+      "id": "b-bands",
+      "item": "Wide rubber bands, about 6 millimetres wide",
+      "kind": "material",
+      "why": "They make the gauge for the Press Harder test and the Rollers and Marbles activity. Stationery shops sell packets for a few rupees.",
+      "url": "https://www.amazon.in/s?k=wide+rubber+bands+stationery",
+      "used_in": [
+        "e1",
+        "a2"
+      ]
+    },
+    {
+      "id": "b-string",
+      "item": "Plain cotton string or thread, a ball of 50 metres",
+      "kind": "material",
+      "why": "For the Wrap the Thread test and the Lower the Load challenge. Do not buy kite thread coated with glass, called manja.",
+      "url": "https://www.amazon.in/s?k=cotton+string+ball",
+      "used_in": [
+        "e2",
+        "c1"
+      ]
+    },
+    {
+      "id": "b-marbles",
+      "item": "A bag of glass marbles",
+      "kind": "material",
+      "why": "For the Rollers and Marbles activity, and as the things to move in the Wrinkled Fingers activity.",
+      "url": "https://www.amazon.in/s?k=glass+marbles+for+kids",
+      "used_in": [
+        "a2",
+        "a4"
+      ]
+    }
+  ],
+  "warmup": [
+    {
+      "q": "What happens to friction if you double the weight on a box?",
+      "a": "It about doubles."
+    },
+    {
+      "q": "Does a bigger face on a hard box give more friction?",
+      "a": "No. The weight is the same, so the grip is about the same."
+    },
+    {
+      "q": "What is mu?",
+      "a": "A number for how grippy two surfaces are together."
+    },
+    {
+      "q": "Where do two hard surfaces really touch?",
+      "a": "Only at the tips of their tiny bumps."
+    },
+    {
+      "q": "What is stick-slip?",
+      "a": "Movement in jerks, sticking and slipping again and again."
+    },
+    {
+      "q": "Which has less friction, rolling or sliding?",
+      "a": "Rolling."
+    },
+    {
+      "q": "What does warming honey do to its friction?",
+      "a": "It lowers it, so the honey flows more easily."
+    },
+    {
+      "q": "What does each extra turn of rope round a post do?",
+      "a": "It multiplies the grip by the same number."
+    },
+    {
+      "q": "Where does the movement of a sliding box go?",
+      "a": "Into heat."
+    }
+  ],
+  "plan": {
+    "start_options": [
+      "intro",
+      "e1",
+      "story",
+      "g1",
+      "a1",
+      "big_questions",
+      "cards"
+    ],
+    "default_order": [
+      "intro",
+      "summary",
+      "terms",
+      "e1",
+      "explanations",
+      "story",
+      "a1",
+      "g1",
+      "e2",
+      "videos",
+      "ws-core",
+      "a2",
+      "a3",
+      "how_we_found_out",
+      "agreed",
+      "challenging",
+      "big_questions",
+      "ws-stretch",
+      "c1",
+      "a4",
+      "ws-challenge",
+      "open_questions",
+      "roots",
+      "quiz"
+    ],
+    "core": [
+      "e1",
+      "e2",
+      "a1",
+      "a2",
+      "g1",
+      "ws-core"
+    ],
+    "spine": [
+      "intro",
+      "e1",
+      "story",
+      "explanations",
+      "roots",
+      "quiz"
+    ]
+  },
+  "sources": {
+    "founder": [
+      "Founder's notes in ideas/by_topic/forces-and-movement.md, the Friction section: slide blocks on different surfaces and measure the pull, rolling against sliding with toy cars, kitchen cloths with a glass, and the thought 'resistance gives us grip and control'. Used in the Press Harder test, Rollers and Marbles and the roots.",
+      "The Combined Class 4 forces lesson (combined/sci-C4-forces-and-movement.json): ideas on force arrows and friction in a lesson on pushes and pulls, used for the Lower the Load challenge and the game cards.",
+      "The Class 3 Friction unit (sci.forces.friction.L3), which this unit builds on: from 'friction is a grip' to 'what decides the size of the grip'. Its experiments and its story are not repeated."
+    ],
+    "science": [
+      "Amontons, G., Histoire de l'Academie Royale des Sciences, 1699 (the first two laws of friction)",
+      "Coulomb, C. A., Theorie des machines simples, 1785 (the difference between starting and sliding friction, and tests of the area rule)",
+      "Bowden, F. P. and Tabor, D., The Friction and Lubrication of Solids, Oxford, 1950 (real contact area and adhesion)",
+      "Euler, L., on the friction of a rope round a cylinder, Memoires de l'Academie des Sciences de Berlin, 1769 (the rope rule)",
+      "Krim, J., 'Friction at the atomic scale', Scientific American, October 1996 (friction between single layers of atoms)",
+      "Dienwiebel, M. et al., 'Superlubricity of graphite', Physical Review Letters 92, 126101, 2004",
+      "Changizi, M. A., Weber, R. and Kotecha, R. and Palazzo, J., 'Are wet-induced wrinkled fingers primate rain treads?', Brain, Behavior and Evolution 77, 2011",
+      "Kareklas, K., Nettle, D. and Smulders, T. V., 'Water-induced finger wrinkles improve handling of wet objects', Biology Letters 9, 2013",
+      "Autumn, K. et al., 'Adhesive force of a single gecko foot-hair', Nature 405, 2000",
+      "Hutchings, I. M., Tribology: Friction and Wear of Engineering Materials, 1992 (typical values of mu)",
+      "Tao Te Ching, chapter 11",
+      "Udana 6.4 (the blind men and the elephant)"
+    ]
+  },
+  "how_we_found_out": {
+    "story": "For hundreds of years, many people believed that friction came from bumps locking together. Guillaume Amontons, a French scientist, suggested in 1699 that surfaces grip because their bumps catch on each other, and many people agreed for over two hundred years. It followed that very smooth surfaces should always slide easily. But smooth, clean metal surfaces were found to stick, not slide. In the 1930s and 1940s, Frank Bowden and David Tabor, working at the University of Cambridge, tried a new test. They pressed two metal surfaces together and measured how well electricity passed between them. If the surfaces touched all over, a lot of electricity would pass. Only a little did. The surfaces were touching at tiny spots, and at these spots the metal was sticking, as if it were welded. Their book, The Friction and Lubrication of Solids, came out in 1950.",
+    "who": "Frank Bowden and David Tabor, physicists at the University of Cambridge",
+    "when": "The 1930s to 1950",
+    "wrong_idea": "Friction is only the catching of rough bumps, and smoother always means more slippery. Bowden and Tabor found that electricity passed through only tiny spots, so the surfaces touched at only a few places. At those places the metals stuck together, and smooth, clean surfaces could stick very hard."
+  },
+  "playtest": "Read step by step as a parent and child in a city flat would use it, but not yet tried at home. Press Harder: a shoebox, 500 gram packets and a wide rubber band on a tile floor should give a stretch of roughly 1 to 7 centimetres, rising by about the same amount for each packet. A rubber band is not a perfect gauge, so the steps say to look for the pattern, and the unit says what to do if the band stretches too far or too little. The box on its narrow end must have the lid taped. Cardboard can give slightly different results on its two faces, so the steps say to put smooth paper under both. Wrap the Thread: for a 200 millilitre bottle and ordinary cotton thread on a smooth round pencil, expect about 60 to 100 clips for half a turn, 25 to 40 for one turn, a handful for two turns and nearly none for three turns. Real numbers depend on the thread and pencil, so the steps ask for the pattern, not the exact numbers, and the steps give what to do if the thread keeps slipping or sticks too much. The cushion and the ban on kite thread are in the safety notes. The Walking Ruler works with a 30 centimetre ruler but is easier with a longer stick. Rollers and Marbles needs the reading to be taken while the box moves. The Slow Drop: honey is clearly slower, but water and oil are hard to tell apart with a phone stopwatch, and the steps say so. Wrinkled Fingers: results are often mixed and practice affects the second try, so the steps swap the order. Facts to check before the unit goes live: the typical mu values (rubber on a dry road about 0.8, steel on ice about 0.03), that for hard metals the real contact area is often under one thousandth of the area we see, the Euler reference for the rope rule, the Dienwiebel graphite paper, the Krim article, and the two papers on wrinkled fingers (and the later study that found no benefit, which is not named). The videos have no address yet."
+}

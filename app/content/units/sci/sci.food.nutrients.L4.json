@@ -1,0 +1,2683 @@
+{
+ "id": "sci.food.nutrients.L4",
+ "title": "A burning groundnut and a food label: what the numbers say about your food",
+ "level": 4,
+ "summary": {
+  "text": "Hold a groundnut in a flame and it keeps burning on its own for about a minute. Yet the school chart calls groundnuts a body-building food, not an energy food. Your child burns a groundnut, a cashew and a piece of dry coconut under a tumbler of water, measures the heat with a thermometer, and works out how much heat was lost. They cook rice and find that 100 grams of cooked rice holds only about a third of the energy in 100 grams of raw rice. They learn to read a food label, including the many names of sugar, and meet Wilbur Atwater, who showed that a living body keeps the same energy accounts as a fire.",
+  "art": "A groundnut on a hairpin burning with a small flame under a steel tumbler of water, with a thermometer standing in the tumbler and a packet of groundnuts with its nutrition table beside it."
+ },
+ "intro": {
+  "hook": "A groundnut burns like a tiny candle, but a grain of rice does not. What does a groundnut have inside that a grain of rice has much less of?",
+  "text": "The food on your plate is fuel for your body, the way wood is fuel for a stove. Scientists measure that fuel in kilocalories. In this unit you burn real foods under a tumbler of water and measure the heat they give out. You cook rice and weigh it before and after. Then you read the label on a packet, and find out what its numbers say and what they leave out.",
+  "art": "Two small heaps side by side on a steel plate, a few groundnuts and a spoonful of raw rice, with a lit match held above the groundnuts."
+ },
+ "outcomes": [
+  "I can sort foods by their main job, which is giving energy, building the body or protecting it, and explain why one food can do more than one job.",
+  "I can explain that a kilocalorie measures the heat in food, and that fat holds about twice the energy of starch or protein in the same weight.",
+  "I can run a fair test that burns a food under a tumbler of water, measure the heat, and say how much heat was lost.",
+  "I can read a food label: energy per 100 grams and per serving, the order of the ingredients, the names of sugar, and the green or brown dot.",
+  "I can explain why the water in cooked food lowers its energy per 100 grams.",
+  "I can name protective foods and say what vitamins, minerals and fibre do for the body.",
+  "I can explain how the body releases the energy in food, and why the number on a label is only an estimate.",
+  "I can describe how scientists showed that a living body follows the same energy rules as a fire."
+ ],
+ "cards_mins": 20,
+ "terms": [
+  {
+   "term": "Kilocalorie",
+   "meaning": "A unit for measuring energy. One kilocalorie is the heat that warms one litre of water by one degree Celsius. On a label it is written kcal, and people often call it a calorie.",
+   "example": "A groundnut kernel holds about 3 kilocalories.",
+   "art": "A litre bottle of water with a thermometer showing the water one degree warmer after one kilocalorie of heat goes in."
+  },
+  {
+   "term": "Kilojoule",
+   "meaning": "Another unit of energy that scientists use. One kilocalorie is about 4.2 kilojoules.",
+   "example": "A packet from another country may show 2,400 kilojoules where an Indian packet shows 570 kilocalories.",
+   "art": "Two rulers side by side, one marked in inches and one in centimetres, with the same length measured on both."
+  },
+  {
+   "term": "Energy-giving food",
+   "meaning": "A food that mostly gives the body fuel. Foods rich in carbohydrates or fats are energy-giving foods.",
+   "example": "Rice, roti, potato, ghee and oil.",
+   "art": "A steel plate with rice, a roti and a spoon of ghee, with small flames drawn above them."
+  },
+  {
+   "term": "Body-building food",
+   "meaning": "A food that mostly gives the body protein to build and mend muscles, skin and blood. The body can also burn protein for fuel when it needs to.",
+   "example": "Dal, egg, paneer, fish and curd.",
+   "art": "A bowl of dal, an egg and a block of paneer, with a drawing of a muscle beside them."
+  },
+  {
+   "term": "Protective food",
+   "meaning": "A food rich in vitamins and minerals, which help the body fight illness and work properly.",
+   "example": "Guava, amla, spinach, carrot and papaya.",
+   "art": "A basket of orange, red and green fruit and vegetables with a small shield drawn above it."
+  },
+  {
+   "term": "Energy density",
+   "meaning": "How much energy a food holds in each 100 grams. Foods with little water and a lot of fat have a high energy density.",
+   "example": "Ghee has an energy density of about 900 kilocalories in 100 grams. Cucumber has about 15.",
+   "art": "A balance scale with a small heap of groundnuts on one side and a big heap of cucumber slices on the other, level."
+  },
+  {
+   "term": "Serving",
+   "meaning": "The amount of food that the maker of a packet counts as one helping. It can be much smaller than what people really eat.",
+   "example": "A packet of chips may list 30 grams as one serving, and the whole packet may hold four servings.",
+   "art": "A packet of chips beside a small heap marked 30 grams and a much bigger handful in a bowl."
+  },
+  {
+   "term": "Ingredient list",
+   "meaning": "The list of everything a packet food is made of. The ingredients are listed from the largest amount by weight to the smallest.",
+   "example": "If sugar is the first word, there is more sugar than anything else.",
+   "art": "A packet with its back turned to us and a magnifying glass over the first three words of the ingredient list."
+  },
+  {
+   "term": "Added sugar",
+   "meaning": "Sugar that a maker puts into a food. It is different from the sugar that is part of a fruit or milk.",
+   "example": "The sugar stirred into packaged fruit juice.",
+   "art": "A glass of juice with a row of sugar spoons lined up beside it."
+  },
+  {
+   "term": "Sodium",
+   "meaning": "The part of salt that matters for health. Too much sodium over many years can harm the heart and kidneys. Salt is about two and a half times the weight of its sodium.",
+   "example": "A packet of instant noodles can hold more than half a day's salt in one serving.",
+   "art": "A salt shaker with a small scale showing salt and sodium weighed side by side."
+  },
+  {
+   "term": "Fortified food",
+   "meaning": "A food that has had a vitamin or mineral added to it on purpose. Packets show a small +F sign.",
+   "example": "Iodised salt and fortified atta or oil.",
+   "art": "A packet of atta with a +F sign and tiny drops going into a stream of flour."
+  },
+  {
+   "term": "Fibre",
+   "meaning": "The part of plant foods that the body cannot digest. It keeps the gut moving and feeds the helpful bacteria that live there.",
+   "example": "Whole wheat, ragi, vegetables and fruit with their skins.",
+   "art": "A cross-section of the gut with tiny bacteria feeding on strands of fibre."
+  },
+  {
+   "term": "Respiration",
+   "meaning": "The way every cell in a living body uses oxygen to release the energy stored in food. It is not the same as breathing, but breathing brings the oxygen.",
+   "example": "When you run, your cells use food faster and you breathe faster to bring more oxygen.",
+   "art": "A single cell with food and oxygen going in, and heat, movement and carbon dioxide coming out."
+  },
+  {
+   "term": "Calorimeter",
+   "meaning": "A device that measures the heat that something gives out when it burns or works.",
+   "example": "Your tumbler of water and thermometer make a simple calorimeter.",
+   "art": "A burning nut under a tumbler of water with a thermometer, labelled as a simple calorimeter."
+  },
+  {
+   "term": "Per 100 grams",
+   "meaning": "A label column that gives the numbers for the same weight of every food, so you can compare one food with another fairly.",
+   "example": "Comparing biscuits and murmura per 100 grams shows which one holds more energy in the same weight.",
+   "art": "Two packets on a scale, each with exactly 100 grams of food poured out beside it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Energy in food, and how a kilocalorie is measured",
+   "status": "defined",
+   "definition": "A kilocalorie is the heat needed to warm one litre of water by one degree Celsius. We measure the energy in food by how much heat it gives out when it burns.",
+   "description": "Food is fuel. When a food burns, it joins with oxygen and gives out its stored energy as heat. If that heat warms water, a thermometer tells us how much energy there was. One kilocalorie warms one litre of water by one degree, so two kilocalories warm it by two degrees. A tumbler of 50 millilitres is one twentieth of a litre. So one kilocalorie would warm it by 20 degrees. A groundnut kernel holds about 3 kilocalories, but a home flame wastes most of the heat into the air, so the water gains only part of it. That is why scientists use a closed, insulated metal chamber called a bomb calorimeter. Your body does not burn food in a flame, but the energy released is the same.",
+   "examples": [
+    "A packet that says 570 kilocalories per 100 grams holds enough heat to warm 570 litres of water by one degree.",
+    "One whole groundnut kernel weighs about half a gram and holds about 3 kilocalories, enough to warm 50 millilitres of water by up to 60 degrees if none of the heat were lost.",
+    "Indian packets show kilocalories. Packets from some other countries show kilojoules, and one kilocalorie is about 4.2 kilojoules."
+   ],
+   "perspectives": [],
+   "art": "A groundnut flame under a tumbler of water, with arrows showing some heat going into the water and most heat escaping into the air."
+  },
+  {
+   "concept": "Three jobs: energy-giving, body-building and protective",
+   "status": "defined",
+   "definition": "Food does three main jobs. It gives energy, it gives the materials to build and mend the body, and it gives the vitamins and minerals that protect the body and keep it working.",
+   "description": "Many schoolbooks sort foods into energy-giving foods, body-building foods and protective foods. Rice, roti and ghee are energy-giving foods. Dal, egg and paneer are body-building foods. Fruit, vegetables and leafy greens are protective foods. The sorting is useful for planning a meal, because a meal with all three jobs covered has what the body needs. But a job is something food does, not a label stuck on the food. A groundnut is called a body-building food, because a quarter of it is protein, yet it burned and heated your water. Your body also burns protein for fuel when it has little else. Curd, milk and eggs do all three jobs at once. So the three groups tell you what a food mostly does in a normal meal. The body decides what it really does.",
+   "examples": [
+    "Dal is called a body-building food. About a fifth of dry dal is protein, and more than half is starch, which is fuel.",
+    "Milk gives energy in its fat and milk sugar, building material in its protein and calcium, and protection in its vitamins.",
+    "A mango is called a protective food for its vitamins A and C, and it also gives plenty of energy as sugar."
+   ],
+   "perspectives": [],
+   "art": "Three circles overlapping like a Venn diagram, labelled energy, building and protection, with groundnuts, milk and rice placed where the circles meet."
+  },
+  {
+   "concept": "Carbohydrates and fats: the fuel foods, and why fat holds more",
+   "status": "defined",
+   "definition": "Carbohydrates and fats are the body's main fuels. Carbohydrates give about 4 kilocalories in each gram. Fat gives about 9 kilocalories in each gram.",
+   "description": "Starch and sugar are carbohydrates, and they are the body's quick fuel. Your body breaks starch into sugar, and your cells burn the sugar. Fat is a slower, longer-lasting fuel. A gram of fat holds a little more than twice the energy of a gram of starch, because fat has more hydrogen atoms for oxygen to burn. This is why a groundnut, which is nearly half fat, burns well, and rice, which is almost all starch with very little fat, burns poorly in a flame. It is also why ghee holds about 900 kilocalories in 100 grams. Fat is how the body stores energy for later. An animal that has to go a long time without food, such as a camel or a migrating bird, stores fat for the same reason.",
+   "examples": [
+    "100 grams of sugar holds about 400 kilocalories. 100 grams of ghee holds about 900.",
+    "A groundnut is about 45 percent fat. Puffed rice is under 1 percent fat. This is why the groundnut burns for a minute and puffed rice flares and is gone.",
+    "Migrating birds store fat before a long flight because a gram of fat holds more energy than a gram of anything else they can carry."
+   ],
+   "perspectives": [],
+   "art": "Two bars side by side, one for 100 grams of rice at 350 kilocalories and one for 100 grams of ghee at 900, with the gram weights drawn as equal heaps."
+  },
+  {
+   "concept": "Protein: building first, fuel when needed",
+   "status": "defined",
+   "definition": "Proteins are long chains made of small building blocks called amino acids. The body builds its muscles, skin, hair, blood and many other parts from protein.",
+   "description": "When you eat protein, your gut breaks it into single amino acids. Your body then joins them again, in a new order, into the proteins it needs. Your body can make some amino acids itself, but there are nine it cannot make, so they must come from food. Different foods carry different amounts of each. Grains such as rice are low in one amino acid called lysine. Pulses such as dal are low in another called methionine. Together, they supply all nine well. Proteins are also a fuel. If a body has too little carbohydrate and fat, it burns protein, at about 4 kilocalories in a gram. Children need protein every day, because they are growing. Adults need it to mend their bodies.",
+   "examples": [
+    "Rice with dal, idli with sambar and roti with rajma each join a grain and a pulse, and are old traditional pairings.",
+    "A growing child needs more protein for each kilogram of body weight than an adult does.",
+    "Protein from the egg white you eat is taken apart and rebuilt as the muscle in your leg."
+   ],
+   "perspectives": [],
+   "art": "A chain of coloured beads for a protein, with a bowl of rice supplying red beads and a bowl of dal supplying blue beads."
+  },
+  {
+   "concept": "Protective foods: vitamins, minerals and fibre",
+   "status": "defined",
+   "definition": "Vitamins and minerals are nutrients needed in small amounts, and fibre is the part of plants we cannot digest. Foods rich in them protect the body.",
+   "description": "Vitamins and minerals give no energy, but the body cannot work without them. Vitamin A, from carrots, papaya, drumstick leaves and spinach, protects the eyes and the skin. Vitamin C, from amla, guava and lemon, helps the body heal and helps it take in iron. Iron, from ragi, jaggery, dates and leafy greens, helps the blood carry oxygen. Calcium, from milk, curd and ragi, builds bones and teeth. Iodine in iodised salt protects against goitre. Skin makes vitamin D when sunlight falls on it. Vitamin B12 is made by microbes, so plant foods rarely hold any, and vegetarians get it from milk, curd and eggs, or from a supplement a doctor suggests. Tea drunk with a meal holds on to iron and lowers how much the body takes in. A squeeze of lemon on dal or spinach raises it. Fibre keeps the gut moving and feeds helpful gut bacteria.",
+   "examples": [
+    "Amla holds several times more vitamin C than an orange does, weight for weight.",
+    "Kamala Sohonie, who in 1939 became the first Indian woman to earn a doctorate in science, later studied neera, the fresh sweet sap of the palm, and found it rich in vitamins.",
+    "Ragi holds about 340 milligrams of calcium in 100 grams, and the same weight of milk holds about 120."
+   ],
+   "perspectives": [],
+   "art": "A row of fruit, vegetables and ragi, each with a small label showing the vitamin or mineral it gives, in a bright rainbow arc."
+  },
+  {
+   "concept": "How your body burns food: respiration",
+   "status": "defined",
+   "definition": "Respiration is the way every living cell uses oxygen to release the energy stored in food.",
+   "description": "A flame burns a nut fast, in one step, and nearly all the energy comes out as heat and light. A cell releases the same energy from sugar in many small steps, using oxygen. Each step is run by a different molecule that works like a tiny machine. Some of the energy is caught in a small molecule called ATP, which works like a charged battery that the cell uses to move, build and send signals. The rest warms the body, which is why you are warm. The waste products are carbon dioxide, which you breathe out, and water. Because cells in a flame and cells in a body both start with sugar and oxygen and end with carbon dioxide and water, the total energy released is the same. A hot flame would kill a cell, so the slow steps matter. A body cannot burn food all at once without cooking itself.",
+   "examples": [
+    "When you run, your cells burn sugar faster, so you breathe faster to bring oxygen and you feel warm.",
+    "Even asleep, your body uses energy for the heart, breathing, the brain and keeping warm. The brain alone uses about a fifth of an adult's energy, and a larger share of a child's.",
+    "Yeast in dough get energy from sugar without oxygen, by fermenting it. They get less energy from the same sugar and make gas and alcohol instead."
+   ],
+   "perspectives": [],
+   "art": "A flame on the left and a cell on the right, both with sugar and oxygen going in and carbon dioxide, water and heat coming out, the cell drawn with many small steps."
+  },
+  {
+   "concept": "Water in food: why energy is counted per 100 grams",
+   "status": "defined",
+   "definition": "Water holds no energy for the body. The more water a food holds, the less energy it holds in each 100 grams.",
+   "description": "Water is part of the weight of nearly every food, but the body cannot get energy from it. Cucumber is about 95 percent water, so 100 grams hold only about 15 kilocalories. Dry foods such as groundnuts, rice and flour have almost no water, so they hold much more in the same weight. When you cook rice, it soaks up two or three times its own weight of water. Nothing is added to the energy, but it is spread over a much heavier pot of food. So 100 grams of cooked rice holds only about a third of the energy of 100 grams of raw rice, and the same pan of rice still gives the same total. Some labels, on ready mixes for example, give one column for the food as sold and another for the food as prepared.",
+   "examples": [
+    "Raw rice holds about 350 kilocalories in 100 grams. Cooked rice holds about 130.",
+    "A boiled egg and about 13 grams of groundnuts both hold about 75 kilocalories, but the egg weighs four times as much because of its water.",
+    "A hiker who carries dry food, such as chikki and groundnuts, carries much more energy in the same pack than one who carries idli."
+   ],
+   "perspectives": [],
+   "art": "A small scoop of raw rice beside a big pot of cooked rice, both labelled with the same total energy."
+  },
+  {
+   "concept": "Reading a food label",
+   "status": "defined",
+   "definition": "A food label is a table and a list on a packet, set by law in India by the Food Safety and Standards Authority of India, that says what is in the food and how much.",
+   "description": "Start at the nutrition table. Look for the column per 100 grams, because it lets you compare one packet with another fairly. A second column, per serving, shows what the maker counts as one helping. Check how many servings there are in the pack. Then look at the lines: energy in kilocalories, protein, carbohydrate with the sugars inside it, fat, and sodium. Next read the ingredient list. Ingredients are listed from the most by weight to the least, so the first three tell you most of the story. A green dot in a square means vegetarian, and a brown dot means it holds egg, meat or fish. A +F sign means vitamins or minerals have been added. The date tells you when the food should be used by. Percentages on a label are usually worked out for an adult who needs about 2,000 kilocalories a day, so they can mislead for a child.",
+   "examples": [
+    "A biscuit packet shows 480 kilocalories per 100 grams, but only 120 per serving, because a serving is 25 grams.",
+    "If the first ingredient on a 'fruit' biscuit is sugar, the biscuit holds more sugar than fruit.",
+    "'Sodium' is not salt. To find the salt, multiply the sodium by about two and a half."
+   ],
+   "perspectives": [],
+   "art": "The back of a biscuit packet with arrows pointing to the per 100 gram column, the servings line, the ingredient list, the green dot and the date."
+  },
+  {
+   "concept": "Sugar hides under many names",
+   "status": "defined",
+   "definition": "Sugar is the plain name for sucrose, but food makers use many other names for sweet carbohydrates that the body treats in much the same way.",
+   "description": "On an ingredient list, sugar may appear as sugar, jaggery, honey, glucose syrup, fructose, dextrose, maltodextrin, invert sugar, malt extract or fruit juice concentrate. A packet can list several of these separately, so each one is small and none is first on the list, even though together they add up to the biggest share. Four grams of sugar is about one level teaspoon. A small packet drink of 200 millilitres with 22 grams of sugar holds more than five teaspoons. Labels in India show total sugars and, on many packets, added sugars. Sugar is a fuel and not a poison, but sweet foods are easy to eat quickly and in large amounts. Jaggery has a little iron and a few minerals that white sugar lacks, but it is still mostly sugar, and the body handles it much the same way.",
+   "examples": [
+    "Ingredients: wheat flour, sugar, glucose syrup, invert sugar, palm oil. Together, the three sugars could weigh more than the flour. The list cannot tell you, but it tells you to look closer.",
+    "A teaspoon of sugar is about 4 grams. A 22 gram drink is 5 and a half teaspoons.",
+    "Honey, jaggery and sugar all give about 3 to 4 kilocalories in each gram."
+   ],
+   "perspectives": [],
+   "art": "Five teaspoons of sugar lined up in front of a small juice carton, with a list of sugar names on a card beside them."
+  },
+  {
+   "concept": "Where a label's calorie number comes from, and how exact it is",
+   "status": "debated",
+   "definition": "",
+   "description": "A food label's energy number is usually not measured by burning the packet. Makers work it out by weighing the protein, fat and carbohydrate in the food, and multiplying each by a standard number, about 4 for protein, 9 for fat and 4 for carbohydrate. These standard numbers were worked out in the 1890s by Wilbur Atwater. They are averages. A real body does not get exactly the same from every food, so the number on a label is a good estimate and not an exact measure.",
+   "examples": [
+    "In a careful study published in 2012, almonds gave volunteers about a quarter fewer calories than the standard numbers predicted.",
+    "In 2015, Israeli scientists led by Eran Segal and Eran Elinav watched the blood sugar of about 800 people after the same meals, and found that people reacted very differently to the same food.",
+    "Cooking changes how much of a food the body can use. Cooked starch is easier to digest than raw."
+   ],
+   "perspectives": [
+    {
+     "who": "Food scientists who use the standard numbers",
+     "explanation": "The averages are close enough to compare foods fairly, and every packet uses the same system, so comparing labels is fair. Without a standard, no two packets could be compared."
+    },
+    {
+     "who": "Researchers who study how bodies differ",
+     "explanation": "Bodies differ in how much of a food they take in. Gut bacteria, how the food was chopped and cooked, and a person's own digestion can all change the answer. The number on a label may be right on average and wrong for you."
+    }
+   ],
+   "art": "A packet with a number 570 on it, and three different people eating the same food, with three slightly different numbers floating over them."
+  },
+  {
+   "concept": "Is the processing the problem, or the nutrients?",
+   "status": "debated",
+   "definition": "",
+   "description": "Some foods are made in factories from many ingredients and then sealed in packets. Scientists call the most heavily factory-made group ultra-processed foods. Everyone agrees that many of these foods are high in sugar, salt and fat. The argument is about why they seem to be linked to ill health when eaten in large amounts. In a well-known test in 2019, the American scientist Kevin Hall housed 20 adults for four weeks in a hospital ward. For two weeks they ate mostly ultra-processed foods and for two weeks mostly unprocessed foods, in meals matched for sugar, fat, fibre and protein. On the ultra-processed diet, people ate about 500 kilocalories more a day and put on weight. Nobody yet knows exactly why.",
+   "examples": [
+    "Iodised salt, fortified atta, pasteurised milk and frozen peas are all processed, and all of them protect health.",
+    "In the 2019 test, people ate faster on the ultra-processed diet. Whether speed is the cause is still unknown.",
+    "A packet of puffed snack and a bowl of boiled groundnuts can hold similar energy, but most people eat far more of the snack before they feel full."
+   ],
+   "perspectives": [
+    {
+     "who": "Carlos Monteiro and the team who made the NOVA groups",
+     "explanation": "How much a food has been changed in a factory matters on its own. These foods are made to be soft, sweet and easy to eat quickly, so people eat more of them."
+    },
+    {
+     "who": "Scientists who focus on nutrients",
+     "explanation": "Processing is not one thing. What matters is the amount of sugar, salt, fat and fibre in a food, and a fair rule should look at those, as well as at how a food was made."
+    }
+   ],
+   "art": "Two plates with the same energy: a plate of boiled groundnuts and fruit, and a plate of packet snacks, with two children eating at different speeds."
+  },
+  {
+   "concept": "How much energy does a child need?",
+   "status": "defined",
+   "definition": "The energy a body needs depends on its size, its age and how much it moves. A child of 6 to 10 years usually needs about 1,700 to 2,000 kilocalories a day.",
+   "description": "Even sitting still, your body uses energy to keep your heart beating, your lungs breathing, your brain thinking and your body warm. This resting energy is the biggest part of what you need. On top of it comes growing, and moving. A child who runs and plays all day needs more than a child who sits. If you eat more energy than you use, your body stores the extra, mostly as fat. If you eat less than you use, your body burns what it has stored. Both can be unhealthy if they go on for a long time. A child who goes hungry for years may grow more slowly. Needs also vary from child to child, so these numbers are a middle, not a rule for every body.",
+   "examples": [
+    "A dancer in training and a child who sits all day may need very different amounts.",
+    "A growing child needs a lot of energy for their size, because they are also building a bigger body.",
+    "A packet that says 'based on a 2,000 kilocalorie diet' uses an adult number, so a child's share of each nutrient is usually different."
+   ],
+   "perspectives": [],
+   "art": "Two children, one running and one reading, each with a small bar showing different energy needs for the same day."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The energy in food can be measured as heat, in kilocalories.",
+   "evidence": "When a food burns inside a closed, insulated chamber, the heat it gives out warms a known amount of water. Scientists have done this for well over a hundred years, and the numbers repeat."
+  },
+  {
+   "text": "Fat holds about 9 kilocalories in each gram, and carbohydrate and protein hold about 4.",
+   "evidence": "These averages were worked out by Wilbur Atwater in the 1890s, from burning foods and measuring how much of each food people actually absorbed. Every food label in the world still uses them."
+  },
+  {
+   "text": "A living body follows the same energy rules as a fire. Energy is changed from one form to another, and none is made or lost.",
+   "evidence": "Atwater and his team measured everything that went into a sealed room with a volunteer in it, and everything that came out as heat and work. The two matched very closely."
+  },
+  {
+   "text": "Almost all the energy in our food was first caught from sunlight by green plants.",
+   "evidence": "Plants kept in the dark stop making food and use up what they stored. A few living beings near deep-sea vents use chemical energy instead, but they feed only a very small part of life on Earth."
+  },
+  {
+   "text": "A body that lacks a vitamin or mineral for a long time can fall ill in a particular way.",
+   "evidence": "Goitre fell sharply in places after salt had iodine added to it. Night blindness is linked to too little vitamin A, and anaemia is linked to too little iron."
+  },
+  {
+   "text": "On a food label, the ingredients are listed from the largest amount by weight to the smallest.",
+   "evidence": "This is the rule for packaged food in India, set by the Food Safety and Standards Authority of India, and in most other countries."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Jaggery is a healthy replacement for sugar.",
+   "who": "Many families and some advertisements.",
+   "for": "Jaggery is less refined than white sugar and carries a little iron and a few other minerals.",
+   "against": "Jaggery is about 95 percent sugar, and the body handles it much as it handles white sugar. The extra minerals are small, so a child would need to eat a large amount to get much of them.",
+   "status": "minority"
+  },
+  {
+   "claim": "A calorie is a calorie. All that matters is how many you eat.",
+   "who": "Some diet advice and many weight-loss apps.",
+   "for": "Energy is never made or lost, so the total energy in and out has to balance.",
+   "against": "Bodies take in different amounts from the same food, and foods differ in how filling they are and how fast they are eaten. The balance of energy is true, but the number on a label is an estimate of what a body will take in.",
+   "status": "debated"
+  },
+  {
+   "claim": "Protein is the only food that builds muscle, so more protein is always better.",
+   "who": "Advertisements for protein powders and bars.",
+   "for": "Muscles are mostly protein, and a growing child needs it every day.",
+   "against": "The body uses what it needs and burns or stores the rest. A child eating dal, curd, milk, eggs or fish gets enough for building. Exercise and enough energy from other foods matter just as much.",
+   "status": "rejected"
+  },
+  {
+   "claim": "If the front of a packet says 'multigrain', 'natural', 'low fat' or 'no added sugar', the food is healthy.",
+   "who": "Advertisements.",
+   "for": "Some of these words describe a real difference, such as less fat.",
+   "against": "These words are chosen to sell the packet, and they do not tell you the amount of sugar, salt or fat. The nutrition table and the ingredient list at the back give the real numbers.",
+   "status": "rejected"
+  },
+  {
+   "claim": "You must eat rice and dal in the same meal, or the protein is wasted.",
+   "who": "A popular book, Diet for a Small Planet, in 1971.",
+   "for": "Rice is low in the amino acid lysine and dal is low in methionine, so together they fit each other well.",
+   "against": "The author, Frances Moore Lappé, later wrote that this was stricter than needed. The body keeps a store of amino acids across the day, so a grain and a pulse eaten at different meals still work together.",
+   "status": "rejected"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A flame and a cell both burn sugar with oxygen and make the same heat. Why does a flame destroy a nut in a minute while your body takes hours?",
+   "kind": "deep",
+   "hint": "Think of a firework and a slowly burning lamp. What would happen to a cell that got all its energy at once?"
+  },
+  {
+   "q": "A label gives one calorie number for a food. Is the number a fact about the food, or a fact about the food meeting a body?",
+   "kind": "deep",
+   "hint": "Remember that different bodies took different amounts from the same almonds, and that cooking changes what a body can take in. Where does the number live?"
+  },
+  {
+   "q": "If the body can burn protein and store sugar as fat, what does it mean to call a food body-building or energy-giving?",
+   "kind": "deep",
+   "hint": "Think about what the groundnut did in your tumbler, and what your body does with a day of dal."
+  },
+  {
+   "q": "The world grows enough food energy for everyone, according to the United Nations Food and Agriculture Organization, yet many people are hungry. How can both be true?",
+   "kind": "big",
+   "hint": "Think about who grows food, who can pay for it, how it travels, and how much is thrown away. M. S. Swaminathan spent his life on this question."
+  },
+  {
+   "q": "A label counts kilocalories, grams and percentages. What does a label leave out that still matters about a meal?",
+   "kind": "big",
+   "hint": "Think of who grew the food, how far it travelled, how it tastes, and who you ate it with."
+  },
+  {
+   "q": "A bird stores fat for a flight over a sea. A camel stores it in a hump. A child stores it too. Why do so many living beings store energy as fat and not as sugar?",
+   "kind": "deep",
+   "hint": "Compare the energy in a gram of fat with a gram of sugar, and think about what carrying the extra weight costs."
+  },
+  {
+   "q": "Almost every calorie in your food began as sunlight. When you run, whose energy are you spending?",
+   "kind": "big",
+   "hint": "Follow the energy back through the groundnut, the plant, the Sun, and ask where you begin and the meal ends."
+  }
+ ],
+ "story": {
+  "title": "The Heart on the Biscuit Packet",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "A made-up story. The science in it is real. Ingredient lists run from the largest amount to the smallest, sugar has many names, and a serving can be far smaller than what a person eats.",
+  "text": [
+   "Every evening at five, Ammamma sat on the veranda in Thrissur with her tea and her biscuits. Nandini sat beside her with a glass of milk. They watched the crows argue on the compound wall.",
+   "That month, the doctor told Ammamma that her blood held too much sugar. 'Eat less sweet food,' he said. 'And read what you buy.' Ammamma was seventy-one. Her eyes were tired, and the print on packets had turned into a grey blur.",
+   "On Saturday she walked with Nandini to Sebastian Chettan's shop at the corner. Nandini was nine and she held the cloth bag. The shelves were full of bright packets. Sebastian Chettan was a big man with a pencil behind his ear, and he knew every packet in his shop.",
+   "'For the sugar, you want these,' he said. He lifted down a green packet with a big heart on the front. In gold letters it said, Multigrain. No Maida. Heart Friendly. 'Our best seller for people like you, Ammamma. Only forty-eight calories a biscuit.'",
+   "Ammamma reached for her purse.",
+   "'Wait,' said Nandini.",
+   "That week at school, her teacher Anitha Miss had given every child a packet from home. 'The front of a packet is an advertisement,' she had said. 'The back is where the facts are. Read the back.'",
+   "Nandini turned the packet over. The print was tiny, even for her. She stepped to the door and held it in the light.",
+   "'Read it to me,' said Ammamma.",
+   "'Ingredients,' Nandini read slowly. 'Whole wheat flour. Sugar. Oats. Glucose syrup. Palm oil. Invert sugar syrup. Salt.' She stopped. 'Ammamma, it says multigrain. But the oats are only third. And there is sugar in it three times.'",
+   "'Three times?' Sebastian Chettan frowned.",
+   "'Sugar, glucose syrup and invert sugar syrup. They have different names, but they are all sweet. Anitha Miss says the list goes from the most to the least. So the flour is first and sugar is second. But if you put the three sugars together, they might be the biggest part of all.'",
+   "Sebastian Chettan took the packet and read the back himself, moving his lips. 'Thirty years,' he said quietly, 'and nobody ever told me to turn it over.'",
+   "'There is a table too,' said Nandini. 'The front says forty-eight calories. But that is per biscuit, and one biscuit is ten grams. Here, the table says per one hundred grams. It says four hundred and eighty kilocalories, and twenty-two grams of sugar.'",
+   "Ammamma did the sum in her head, the way she had done sums at the market for fifty years. 'Ten biscuits make a hundred grams. Forty-eight times ten is four hundred and eighty. So the table is honest.' She tapped her walking stick on the floor. 'And I eat six every evening.'",
+   "'Six biscuits is sixty grams,' said Nandini. 'Twenty-two grams of sugar in a hundred grams. So sixty grams has about thirteen grams of sugar.' She asked Sebastian Chettan for the spoon from his tea counter. 'A level spoon of sugar is about four grams. So that is three spoons, Ammamma. Every evening.'",
+   "Nobody said anything. A crow landed on the shop's tin roof and the sound rang through the shop.",
+   "Ammamma laughed first. It was a short, surprised laugh. 'I used to read you the newspaper,' she said. 'Now you read me the biscuit.'",
+   "She did not throw the biscuits away, and Nandini did not ask her to. They bought a small packet of roasted chana from the next shelf. Nandini read its back too. It said roasted chana, salt, and nothing else. Ammamma would have two biscuits with her tea, and a handful of chana, which would keep her stomach full for longer.",
+   "As they were leaving, Sebastian Chettan called after them. 'Nandini, if you come on Mondays, will you read me the back of five more packets? I will give you a peppermint for each.'",
+   "On Monday, Nandini found a small card beside the green heart, written in pencil. It said, Read the back first. The first three words tell you the most.",
+   "That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and a handful of chana, while the crows argued over the wall. Nandini counted the sugar in her head. Some things, she thought, are written in very small print, and they matter the most."
+  ],
+  "epiphany": "The big words were on the front of the packet. The facts were at the back, in the order of weight.",
+  "ask": [
+   "Why does it help that an ingredient list goes from the most to the least?",
+   "If three kinds of sugar are listed separately, how could you find out how much sugar there is altogether?",
+   "Why might a maker choose a small serving size for the front of a packet?"
+  ],
+  "art": [
+   "An old woman and a girl on a veranda in Thrissur with tea, a plate of biscuits and a crow on the wall behind them.",
+   "A big shopkeeper with a pencil behind his ear holding up a green biscuit packet with a heart on the front, while a girl in a school uniform watches.",
+   "A girl holding the back of a biscuit packet up to the light of a shop doorway, reading the tiny ingredient list.",
+   "A pencil-written card on a shop shelf beside a green packet, reading: Read the back first."
+  ]
+ },
+ "roots": {
+  "context": "We have burned food under water, cooked rice and read labels. Now we ask what the energy in a meal tells us about what a meal is and who we are.",
+  "deep_truth": {
+   "truth": "The groundnut you burned is called a body-building food, yet it heated the water. Your body can also burn protein for fuel and turn extra sugar into fat. So energy, building and protection are jobs that food does, not kinds of food. The body gives each bite its job.",
+   "habit": "We sort foods into energy-giving, body-building and protective, as if the job were printed on the food. But a hungry body burns its protein, and a well-fed body stores extra sugar as fat. The groups help us plan a meal, but they describe the usual job, not a fixed one.",
+   "evidence": "The burning groundnut heated the water although about a quarter of it is protein. Atwater found that protein gives about 4 kilocalories in a gram, the same as starch. The label of dal, milk or a groundnut shows protein, fat and carbohydrate together, so one food carries material for all three jobs."
+  },
+  "three": {
+   "who_am_i": "You are built from what you ate. The carbon in your muscle was a gas in the air not long ago, and in time much of it will leave in your breath.",
+   "what_is_life": "A living body does three things with food at once. It gets warm, it moves, and it builds new parts. A flame can only make heat.",
+   "what_is_this_world": "The energy in every meal came from the Sun, was caught by a plant and was passed on through bodies. Food is how sunlight travels from one living being to another."
+  },
+  "thread": "A plant catches the energy of sunlight and stores that energy in sugar, starch, fat and protein. You eat the plant, and your cells release that energy in many small steps. Part of it moves you, part of it warms you, and part of it builds you. What you breathe out and what you sweat out goes back to the air, and plants take the carbon dioxide in again. The meal is not outside you first and then inside you. It becomes you slowly, and you become air, water and heat just as slowly.",
+  "teachings": [
+   {
+    "source": "Taittiriya Upanishad 3.2 (the Bhrigu Valli)",
+    "teaching": "Bhrigu asks his father Varuna to teach him about Brahman, the root of everything. His father tells him to find out through tapas, which means long, steady effort of thought. Bhrigu's first answer is that Brahman is food. All beings are born from food, they live by food, and when they die they go back into food.",
+    "link": "Your muscles were once dal and rice, and one day the atoms in them will be soil, air and water again. The teaching names the cycle that the food label leaves out."
+   },
+   {
+    "source": "Chandogya Upanishad 6.5.1",
+    "teaching": "Uddalaka teaches his son Shvetaketu that food, once eaten, divides in three. The coarsest part becomes waste, the middle part becomes flesh, and the finest part becomes mind.",
+    "link": "This is an ancient guess, not a modern measurement, but it sorts food into outcomes just as our three jobs do. Modern science agrees that thinking costs fuel, because the brain uses about a fifth of an adult's energy."
+   },
+   {
+    "source": "Bhagavad Gita 15.14",
+    "teaching": "The verse speaks of a fire in the body of every living being that digests the four kinds of food. The Ayurvedic tradition calls this digestive fire agni.",
+    "link": "Your cells really do burn food, but slowly and in small steps. The fire in the verse and the fire under your tumbler release the same energy."
+   }
+  ],
+  "science": [
+   {
+    "text": "Energy is never made or lost, only changed. In the 1890s Wilbur Atwater showed that this holds for the human body as well as for a fire.",
+    "status": "settled"
+   },
+   {
+    "text": "How much of a meal's energy a person takes in may depend on their gut bacteria and their own digestion. Scientists are still working out how large these differences are.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "The Charvaka school of ancient India",
+   "view": "Charvaka thinkers taught that the body is made only of material elements, and that awareness arises from them, in the way the power to make people drunk arises from fermenting grain and jaggery. For them, a meal does not become a person and a mind through anything more than matter."
+  },
+  "practice": {
+   "title": "The warmth in your breath",
+   "mins": 3,
+   "say": "Sit still. Hold your palm in front of your mouth. Breathe out slowly and feel the warm air on your hand. Say to yourself that this warmth was food a few hours ago. Do this five times.",
+   "kid": "Hold your palm near your mouth. Breathe out slowly. Feel the warm air. This warmth was your food. Do it five times."
+  },
+  "ask": [
+   "If the energy in your body was sunlight not long ago, are you partly made of sunlight?",
+   "Is a meal something you have, or something you become?",
+   "If protein can be fuel and sugar can be stored as fat, what does it mean to call a food by only one job?",
+   "A calorie number belongs to the food on the packet, yet each body gets a different amount from it. Where does the number really live?"
+  ],
+  "art": "A girl drawn as a glowing outline with a plate of food on one side and a plant in sunlight on the other, joined by thin lines running through her body."
+ },
+ "how_we_found_out": {
+  "story": "People once thought that the warmth of a living body came from a special vital heat that no fire had. In the 1780s Antoine Lavoisier and Pierre-Simon Laplace shut a guinea pig inside a chamber packed with ice and counted how much ice melted. Then they burned carbon and counted the ice it melted. A breathing animal gave out heat in the same way as a slow fire. Marie-Anne Lavoisier, Antoine's wife and lab partner, kept notes and later drew the respiration experiments. A hundred years later, in the 1890s, the American chemist Wilbur Atwater asked the same question about people. With the physicist Edward Rosa he built an airtight, insulated room. A volunteer lived and worked inside it for days, eating food whose energy Atwater had measured by burning it. The heat and work that left the room matched the energy that went in. A living body keeps the same energy accounts as a fire.",
+  "who": "Antoine Lavoisier, Marie-Anne Lavoisier and Pierre-Simon Laplace, then Wilbur Atwater and Edward Rosa",
+  "when": "1780s and 1890s",
+  "wrong_idea": "That the warmth and work of a living body came from a special vital force that a fire did not have, so a body might not follow the energy rules of the rest of nature."
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Mystery Label: which food is it?",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a guessing game about food labels. Each card shows the numbers from a label, and you work out which food it is.",
+   "setup": [
+    {
+     "art": "Twenty cut-out cards in a pile on a table, with a pencil and a score sheet beside them.",
+     "caption": "1. Cut out the cards. Shuffle them into a pile, front side up."
+    },
+    {
+     "art": "One child reading a card aloud with three food choices, while another child points to one of the choices.",
+     "caption": "2. The reader reads the numbers and the three choices. Everyone picks A, B or C."
+    },
+    {
+     "art": "A card turned over to show the answer and the reason on the back, with a score sheet getting a tick.",
+     "caption": "3. Turn the card over. Read the answer and the reason. Score a point."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 two-sided cards: the numbers from a label on the front, and the food with the reason on the back",
+     "items": [
+      {
+       "f": "Per 100 grams: energy 580 kilocalories, protein 25 grams, fat 45 grams, carbohydrate 20 grams. Is it A, boiled rice, B, roasted groundnuts, or C, cucumber?",
+       "b": "B, roasted groundnuts. Fat gives 9 kilocalories in a gram, so 45 grams of fat alone gives about 400. Groundnuts are rich in both fat and protein."
+      },
+      {
+       "f": "Per 100 grams: energy 130 kilocalories, protein 3 grams, fat 0.3 grams, carbohydrate 28 grams. Is it A, cooked rice, B, raw rice, or C, ghee?",
+       "b": "A, cooked rice. It is mostly starch, but it also holds a lot of water. Raw rice is about 350 kilocalories in 100 grams."
+      },
+      {
+       "f": "Per 100 grams: energy 900 kilocalories, protein 0 grams, fat 100 grams, carbohydrate 0 grams. Is it A, sugar, B, paneer, or C, ghee?",
+       "b": "C, ghee. It is almost pure fat, and fat gives 9 kilocalories in each gram. This is the most energy in any common food."
+      },
+      {
+       "f": "Per 100 grams: energy 15 kilocalories, protein 0.7 grams, fat 0.1 grams, carbohydrate 2.5 grams. Is it A, cucumber, B, banana, or C, groundnuts?",
+       "b": "A, cucumber. About 95 grams of every 100 are water, and water holds no energy for the body."
+      },
+      {
+       "f": "Per 100 grams: energy 380 kilocalories, protein 0.4 grams, fat 0.1 grams, carbohydrate 95 grams. Is it A, jaggery, B, paneer, or C, boiled egg?",
+       "b": "A, jaggery. It is nearly all sugar, which is a carbohydrate, so you can multiply: 95 times 4 is 380."
+      },
+      {
+       "f": "Per 100 grams: energy 335 kilocalories, protein 22 grams, fat 1.5 grams, carbohydrate 58 grams. Is it A, dry toor dal, B, ghee, or C, sugar?",
+       "b": "A, dry toor dal. It has plenty of protein, and more than half of it is starch. So dal is a body-building food and an energy food at once."
+      },
+      {
+       "f": "Per 100 millilitres: energy 65 kilocalories, protein 3 grams, fat 4 grams, carbohydrate 5 grams. Is it A, cow's milk, B, cooking oil, or C, jaggery?",
+       "b": "A, cow's milk. It is mostly water, with a little of each of the three nutrients, so it does all three jobs."
+      },
+      {
+       "f": "Per 100 grams: energy 145 kilocalories, protein 13 grams, fat 10 grams, carbohydrate 1 gram. Is it A, a boiled egg, B, a banana, or C, cooked rice?",
+       "b": "A, a boiled egg. Almost none of it is carbohydrate. Its energy comes from protein and fat."
+      },
+      {
+       "f": "Per 100 grams: energy 280 kilocalories, protein 18 grams, fat 22 grams, carbohydrate 3 grams. Is it A, paneer, B, curd, or C, raw rice?",
+       "b": "A, paneer. It is the solid part of milk, so the protein and fat are packed close together, with much of the water gone."
+      },
+      {
+       "f": "Per 100 grams: energy 90 kilocalories, protein 1 gram, fat 0.3 grams, carbohydrate 23 grams. Is it A, a banana, B, groundnuts, or C, paneer?",
+       "b": "A, a banana. It is a fruit with a lot of sugar and water, and almost no fat."
+      },
+      {
+       "f": "Per 100 grams: energy 330 kilocalories, protein 7 grams, fat 1.5 grams, carbohydrate 72 grams, calcium 340 milligrams. Is it A, ragi flour, B, ghee, or C, cucumber?",
+       "b": "A, ragi flour. The giveaway is calcium. Ragi holds three times as much calcium as the same weight of milk."
+      },
+      {
+       "f": "Per 100 grams: energy 380 kilocalories, protein 7 grams, fat 0.5 grams, carbohydrate 80 grams. Is it A, cooked rice, B, puffed rice, or C, groundnuts?",
+       "b": "B, puffed rice. It has the same nutrients as raw rice, but it is dry and full of air. Cooked rice has only 130 because of its water."
+      },
+      {
+       "f": "Per 100 grams: energy 450 kilocalories, protein 7 grams, fat 12 grams, carbohydrate 76 grams. Is it A, a plain biscuit, B, boiled potato, or C, cucumber?",
+       "b": "A, a plain biscuit. It is dry, with starch, sugar and some fat. A boiled potato is mostly water and has only about 85."
+      },
+      {
+       "f": "Per 100 grams: energy 400 kilocalories, protein 0 grams, fat 0 grams, carbohydrate 100 grams. Is it A, white sugar, B, rice, or C, milk?",
+       "b": "A, white sugar. It is pure carbohydrate, so 100 times 4 is 400. There is no water, protein or fat to add."
+      },
+      {
+       "f": "Per 100 grams: energy 650 kilocalories, protein 6 grams, fat 62 grams, carbohydrate 20 grams. Is it A, dry coconut, B, fresh coconut water, or C, jaggery?",
+       "b": "A, dry coconut. When coconut is dried, the water goes and the fat stays, so it holds a lot of energy in each gram."
+      },
+      {
+       "f": "Per 100 grams: energy 25 kilocalories, protein 2 grams, fat 0.5 grams, carbohydrate 3 grams, vitamin A very high. Is it A, spinach, B, ghee, or C, sugar?",
+       "b": "A, spinach. It has almost no energy, but it is rich in vitamin A and iron. It is a protective food."
+      },
+      {
+       "f": "Per 100 grams: energy 45 kilocalories, carbohydrate 10 grams, vitamin C several hundred milligrams. Is it A, amla, B, boiled rice, or C, ghee?",
+       "b": "A, amla. The huge vitamin C is the clue. It has several times more vitamin C than an orange."
+      },
+      {
+       "f": "A food has 10 grams of protein, 5 grams of fat and 40 grams of carbohydrate in 100 grams. About how much energy does it hold? A, 125 kilocalories, B, 245 kilocalories, or C, 700 kilocalories?",
+       "b": "B, 245 kilocalories. Protein 10 times 4 is 40. Fat 5 times 9 is 45. Carbohydrate 40 times 4 is 160. 40 plus 45 plus 160 is 245."
+      },
+      {
+       "f": "Packet X holds, per 100 grams, 30 grams of fat, 50 of carbohydrate and 10 of protein. Packet Y holds 5 of fat, 75 of carbohydrate and 10 of protein. Which has more energy? A, X, B, Y, or C, the same?",
+       "b": "A, X. X is 30 times 9 plus 50 times 4 plus 10 times 4, which is 510. Y is 5 times 9 plus 75 times 4 plus 10 times 4, which is 385. Fat made the difference."
+      },
+      {
+       "f": "A pack of 150 grams lists a serving as 30 grams, at 120 kilocalories a serving. How much energy is in the whole pack? A, 120, B, 300, or C, 600 kilocalories?",
+       "b": "C, 600 kilocalories. The pack holds 150 divided by 30, which is 5 servings. Five servings times 120 is 600."
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "One player is the reader. The reader takes the top card and reads the front aloud, but does not show the back.",
+    "Everyone else decides on A, B or C and says it aloud, or writes it on paper. Nobody may look at the back.",
+    "The reader turns the card over and reads the back aloud. Everyone who chose the right letter scores one point.",
+    "After each card the reader's job passes to the player on the left. With two players, take turns after every card.",
+    "The numbers are rounded to be easy. Real labels may differ a little.",
+    "Playing alone? Read the front, write down your answer, then turn the card over. Try to get 15 of the 20 right.",
+    "The game ends when all 20 cards are done. The player with the most points wins. A tie is a shared win."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Cut out the 20 cards and shuffle them. Put the pile on the table with the numbers facing up. Get paper and a pencil for the scores.",
+     "say": "Each card shows the numbers from a food label. We work out which food it is. Let us make the pile first.",
+     "kid": "Cut out the cards. Shuffle them. Get paper and a pencil.",
+     "context": "This is the first step of Mystery Label. You set up the cards and a score sheet."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Play the first seven cards. After the third card, ask what the numbers gave away.",
+     "say": "The reader reads the front. Everyone picks A, B or C. Then the reader turns the card over and reads the answer.",
+     "kid": "The reader reads a card. Pick A, B or C. Turn the card over.",
+     "ask": [
+      {
+       "q": "What on that card told you which food it was?",
+       "good": [
+        "A lot of fat.",
+        "Almost no energy.",
+        "Very high vitamin C.",
+        "Lots of carbohydrate."
+       ]
+      }
+     ],
+     "context": "In this step, you play the first seven cards and learn to look for clues."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Play the next seven cards. Keep the score on paper. Do the sum on any card that asks for one.",
+     "say": "Remember the three numbers. Protein and carbohydrate give 4 in each gram. Fat gives 9.",
+     "kid": "Play on. Protein and carbohydrate give 4. Fat gives 9.",
+     "ask": [
+      {
+       "q": "Why do foods with a lot of fat have so much energy?",
+       "good": [
+        "Fat gives 9 in a gram.",
+        "Fat holds more than twice the energy of starch.",
+        "It is the most energy in each gram."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A food has 20 grams of fat and nothing else in 100 grams. About how much energy does it hold?",
+      "options": [
+       "80 kilocalories",
+       "180 kilocalories",
+       "900 kilocalories"
+      ],
+      "a": 1,
+      "why": "Fat gives about 9 kilocalories in each gram. 20 times 9 is 180. If you picked 80, you used 4 for fat, which is the number for starch and protein."
+     },
+     "context": "In this step, you play the middle of the game and do the sums that the cards ask for."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Play the last six cards. Then count the points and say who won.",
+     "say": "Last six cards. Check the packet sums and the servings too.",
+     "kid": "Play the last six cards. Count your points.",
+     "context": "In this step, you finish the pile and count the points."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Ask your child which card was the hardest and which food surprised them most.",
+     "say": "Which card was hardest to guess? Which food had less energy than you expected, and why?",
+     "kid": "Which card was hardest? Which food surprised you?",
+     "think": "Which numbers would you change to make a card about a food from your own kitchen?",
+     "context": "This is the last step of Mystery Label. You look back at the cards."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Burning Nuts: how much heat does a food give?",
+   "mins": 52,
+   "days": 1,
+   "question": "Which gives the most heat to a tumbler of water: a groundnut, half a cashew or a piece of dry coconut? How much of the heat reaches the water?",
+   "predict": "Before you start, guess. Which food will warm the water the most, and which the least? How many degrees will the water rise? Why do you think so?",
+   "fair_test": "Every trial uses the same 50 millilitres of fresh water from the same bottle, the same tumbler, the same thermometer, and a nut weighing about half a gram. The tumbler is held 2 centimetres above the nut each time, and the nut burns until its flame goes out by itself. Only the food changes. The groundnut is tested twice, so we can see how much two identical trials differ.",
+   "results_table": [
+    "Trial",
+    "Food",
+    "Weight (grams)",
+    "Start temperature (degrees)",
+    "End temperature (degrees)",
+    "Rise (degrees)",
+    "Heat in the water (kilocalories)"
+   ],
+   "materials": [
+    {
+     "item": "3 or 4 roasted or raw groundnut kernels, with the skins on or off",
+     "qty": 4
+    },
+    {
+     "item": "1 cashew nut, split in two halves",
+     "qty": 1
+    },
+    {
+     "item": "1 piece of dry coconut (copra), cut into a piece the size of a groundnut",
+     "qty": 1
+    },
+    {
+     "item": "a thin steel or aluminium tumbler, or a clean empty drink can with smooth edges",
+     "qty": 1
+    },
+    {
+     "item": "a thermometer that reads up to 100 degrees (a kitchen or lab thermometer, not a fever thermometer)",
+     "qty": 1,
+     "buy": "b-thermo"
+    },
+    {
+     "item": "a pocket scale that reads to 0.1 gram or finer",
+     "qty": 1,
+     "buy": "b-pocket"
+    },
+    {
+     "item": "50 millilitres of water in a measuring cup, and a bottle of water at room temperature",
+     "qty": 1
+    },
+    {
+     "item": "a hairpin or a thick needle, and a ball of atta dough or clay",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate, a matchbox or a lighter, and a pair of kitchen tongs (chimta)",
+     "qty": 1
+    },
+    {
+     "item": "a bowl of water and a wet cloth, kept nearby",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up lights the flame and holds the hot tumbler, every time. Work on a bare counter near the sink, away from curtains and paper, with the window open. Tie back long hair. Do not touch the nut or the pin until they are cold. Do not eat any food that has been burned. If anyone in the family has a nut allergy, use only the coconut and do not let that person near the nuts or the smoke.",
+   "record": "Write the weight, start temperature and end temperature for each trial. Work out the rise in degrees. Then multiply the rise by 0.05 to get the heat in the water in kilocalories. Compare it with the heat the label promises.",
+   "context": "In this experiment, you burn small pieces of food under a tumbler of water and use a thermometer to measure how much heat they give. You also find out how much of the heat is lost.",
+   "setup": [
+    {
+     "art": "A pocket scale showing 0.5 grams with a groundnut kernel on it, and three nuts lined up beside it.",
+     "caption": "1. Weigh each food. Pick pieces that weigh about half a gram."
+    },
+    {
+     "art": "A hairpin stuck into a ball of dough on a steel plate, with a groundnut balanced on the top of the pin.",
+     "caption": "2. Fix the hairpin in the dough on the plate. Rest the nut on top of the pin."
+    },
+    {
+     "art": "A steel tumbler with 50 millilitres of water and a thermometer, held by tongs two centimetres above the burning nut.",
+     "caption": "3. A grown-up lights the nut. Hold the tumbler of water 2 centimetres above the flame."
+    },
+    {
+     "art": "A thermometer in the tumbler being stirred gently, with the temperature before and after written on a card.",
+     "caption": "4. When the flame goes out, stir the water and read the temperature."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Show your child the groundnut, the cashew and the coconut. Write down their guess about the most and the least heat, and their reason.",
+     "say": "We will burn three foods under a tumbler of water. Which will warm the water most? Which will warm it least? Why do you think so?",
+     "kid": "We will burn three foods under water. Which gives the most heat? Why do you think so?",
+     "ask": [
+      {
+       "q": "Why do you think that food has the most heat?",
+       "good": [
+        "It has the most fat.",
+        "It burns longest.",
+        "It is oily.",
+        "It is the biggest."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the table.",
+     "context": "This is the first step of Burning Nuts. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Weigh each nut and write the weight down. Pour 50 millilitres of water into the tumbler. Put the thermometer in and read the start temperature.",
+     "say": "Weigh each food and write the number. Then measure 50 millilitres of water. Read the temperature before we start.",
+     "kid": "Weigh each food. Pour 50 millilitres of water. Read the temperature.",
+     "parent": "Water from the room-temperature bottle is usually 26 to 32 degrees. If you have no pocket scale, pick pieces that look the same size and say so in your notes. The comparison is then rough. Stand the nut on the pin so that it does not touch the plate.",
+     "context": "In this step, you weigh the foods and measure the water, so every trial starts the same."
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "adult": true,
+     "do": "Fix the hairpin in the dough. Rest a groundnut on the pin. The grown-up lights it and holds the tumbler 2 centimetres above, with tongs.",
+     "say": "A grown-up lights the nut. The grown-up holds the tumbler just above the flame. Watch the nut and the clock.",
+     "kid": "Ask a grown-up to light the nut. Watch the flame. Time how long it burns.",
+     "ask": [
+      {
+       "q": "What do you see happening to the nut while it burns?",
+       "good": [
+        "It turns black.",
+        "It has a small yellow flame.",
+        "It crackles.",
+        "It gets smaller."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Why do we use fresh water from the same bottle, and a cooled tumbler, for every trial?",
+      "options": [
+       "So each trial starts at the same temperature",
+       "So the nut burns for longer",
+       "To make the tumbler lighter"
+      ],
+      "a": 0,
+      "why": "If one trial started warmer than another, its end temperature could look higher for no reason to do with the food. Starting every trial at the same temperature keeps the test fair."
+     },
+     "parent": "Many nuts light after 10 to 20 seconds in a match flame. If a nut will not light, hold the match to it until it catches. Once it burns, keep the tumbler above it until the flame goes out by itself, about 30 to 90 seconds. Stir gently with the thermometer before you read it. Cool the tumbler under a tap and wipe it dry before the next trial.",
+     "context": "In this step, you burn the first groundnut under the tumbler and read the end temperature."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "adult": true,
+     "do": "Repeat with a second groundnut. Use fresh water and a cooled tumbler. Write down the temperature before and after.",
+     "say": "Now we do the very same test again with a second groundnut. Will the answer be exactly the same?",
+     "kid": "Do the same test again with a new groundnut. Write the numbers.",
+     "ask": [
+      {
+       "q": "Are the two groundnut results exactly the same? Why might they differ?",
+       "good": [
+        "They are close but not the same.",
+        "The nuts are different sizes.",
+        "The flame was different.",
+        "Some heat escaped."
+       ]
+      }
+     ],
+     "parent": "The two groundnut trials may differ by a few degrees. That is normal and it is an honest result. It tells you how much to trust the small differences between foods.",
+     "context": "In this step, you repeat the groundnut test, to see how much two equal trials differ."
+    },
+    {
+     "id": "s5",
+     "mins": 10,
+     "adult": true,
+     "do": "Burn half a cashew and then a piece of dry coconut in the same way. Cool the tumbler and use fresh water each time.",
+     "say": "Same test again, with the cashew and then with the coconut. Keep the weight about half a gram.",
+     "kid": "Burn the cashew. Then burn the coconut. Write each rise.",
+     "parent": "Try a few grains of roasted chana or puffed rice last, if you like. They usually char or flare for a moment and go out, and give little heat. That is a result as well. Do not eat anything that has been burned.",
+     "context": "In this step, you test the other two foods in the same way as the groundnut."
+    },
+    {
+     "id": "s6",
+     "mins": 9,
+     "do": "For each trial, subtract the start from the end to get the rise. Multiply the rise by 0.05 to get kilocalories. Compare with the label.",
+     "say": "Tell me three things. What did you think? What did you see? Why do you think it happened?",
+     "kid": "Work out each rise. Say what you thought, what you saw, and why.",
+     "think": "A groundnut should give about 3 kilocalories, from its label. How much reached the water, and where did the rest go?",
+     "check": {
+      "t": "mcq",
+      "q": "A nut should give 3 kilocalories, but the water gained only 1. Where did the other 2 go?",
+      "options": [
+       "Into the air, the tumbler and the smoke",
+       "They disappeared",
+       "Into the thermometer only"
+      ],
+      "a": 0,
+      "why": "Energy is never lost. The warm air around the flame, the metal of the tumbler, the hot smoke and the glow of the flame all carried heat away. That is why scientists use a closed chamber."
+     },
+     "parent": "A typical result is a rise of 5 to 20 degrees, which means 0.25 to 1 kilocalorie in the water. That is about a tenth to a third of the 3 kilocalories in the nut. After they have said what they saw, explain: fat holds about 9 kilocalories in a gram, so the three fatty foods gave similar heat. A real lab catches nearly all of it in a closed chamber. If one result looks odd, say so. Write the result you really got.",
+     "context": "This is the last step of Burning Nuts. You work out the heat and say what you found."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Rice Before and After: where does the energy go in the pot?",
+   "mins": 38,
+   "days": 1,
+   "question": "Does 100 grams of cooked rice hold more energy, the same or less energy than 100 grams of raw rice?",
+   "predict": "Before you start, guess. Will 100 grams of cooked rice hold more energy, the same or less than 100 grams of raw rice? Why do you think so?",
+   "fair_test": "We weigh the rice and the water before cooking, and weigh the whole pot again afterwards. Nothing is added to the pan except water, so the total energy in the pan cannot change. The only thing that changes is the weight the energy is spread over. We use the same pan and the same lid, and do not drain any water away.",
+   "results_table": [
+    "Stage",
+    "Weight of the rice (grams)",
+    "Energy in 100 grams (kilocalories)",
+    "Total energy in the pan (kilocalories)"
+   ],
+   "materials": [
+    {
+     "item": "50 grams of raw rice, weighed on a kitchen scale",
+     "qty": 1
+    },
+    {
+     "item": "150 millilitres of water, measured in a measuring cup",
+     "qty": 1
+    },
+    {
+     "item": "a small pan with a lid",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen scale that reads to 1 gram",
+     "qty": 1,
+     "buy": "b-kitchen-scale"
+    },
+    {
+     "item": "the packet of rice, to read the energy per 100 grams on its label",
+     "qty": 1
+    },
+    {
+     "item": "a spoon, a fork, a calculator and the results table",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up uses the stove and moves the hot pan. Lift the lid away from your face to avoid the steam. Let the pan cool for a few minutes before weighing it.",
+   "record": "Write the weight of the rice before cooking and after cooking. Work out the energy in 100 grams of each. Then write one sentence about where the extra weight came from.",
+   "context": "In this experiment, you cook rice and weigh it before and after. You find out what happens to the energy in 100 grams when the rice soaks up water.",
+   "setup": [
+    {
+     "art": "A small empty pan on a kitchen scale showing its weight, with 50 grams of raw rice and a measuring cup of water beside it.",
+     "caption": "1. Weigh the empty pan. Weigh 50 grams of rice. Measure 150 millilitres of water."
+    },
+    {
+     "art": "The pan on the stove with a lid on, and a grown-up standing beside it with a spoon.",
+     "caption": "2. A grown-up cooks the rice with the lid on until all the water is gone."
+    },
+    {
+     "art": "The pan of cooked rice on the scale, with the weight written on a card beside it.",
+     "caption": "3. When the pan is cool, weigh the pan with the cooked rice. Subtract the pan."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Read the energy for 100 grams from the rice packet. Write it down. Ask for a guess about cooked rice and a reason.",
+     "say": "Read the packet. How much energy is in 100 grams of raw rice? After cooking, will 100 grams hold more, the same or less? Why do you think so?",
+     "kid": "Read the rice packet. Will cooked rice hold more, the same or less? Why?",
+     "ask": [
+      {
+       "q": "Why do you think cooked rice will hold that much?",
+       "good": [
+        "It stays the same, it is still rice.",
+        "It soaks up water so it holds less.",
+        "Cooking adds energy."
+       ]
+      }
+     ],
+     "parent": "A typical packet says about 350 kilocalories in 100 grams. Do not correct the guess. Both 'the same' and 'less' are common first guesses.",
+     "context": "This is the first step of Rice Before and After. You read the label and guess."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Weigh the empty pan. Add 50 grams of rice, then 150 millilitres of water. Write all three weights down.",
+     "say": "First we weigh the empty pan. Then we add 50 grams of rice. Then we add the water. Write each weight down.",
+     "kid": "Weigh the pan. Add 50 grams of rice and 150 millilitres of water.",
+     "parent": "Work out the total energy in the pan before cooking. For 350 kilocalories in 100 grams, 50 grams holds 175 kilocalories. The water adds none.",
+     "check": {
+      "t": "mcq",
+      "q": "50 grams of rice from a packet saying 350 kilocalories in 100 grams. How much energy is in the 50 grams?",
+      "options": [
+       "175 kilocalories",
+       "350 kilocalories",
+       "700 kilocalories"
+      ],
+      "a": 0,
+      "why": "50 grams is half of 100 grams, so it holds half of 350, which is 175. If you chose 350, you used the number for 100 grams."
+     },
+     "context": "In this step, you weigh the rice and work out the energy in the pan."
+    },
+    {
+     "id": "s3",
+     "mins": 20,
+     "adult": true,
+     "do": "A grown-up boils the water, then turns the heat to low and puts on the lid. Cook for 15 minutes. Turn off the heat. Leave it covered for 5 minutes.",
+     "say": "A grown-up cooks the rice on low heat with the lid on, for 15 minutes. No water is poured away.",
+     "kid": "A grown-up cooks the rice with the lid on. Wait 15 minutes.",
+     "ask": [
+      {
+       "q": "What do you think is happening to the water while the rice cooks?",
+       "good": [
+        "The rice is soaking it up.",
+        "Some turns to steam.",
+        "It is going into the grains."
+       ]
+      }
+     ],
+     "parent": "If water is left at the end, cook uncovered for another minute. If the rice is still hard, add 2 tablespoons of water and cook 3 more minutes, and add that weight to your table. Some water leaves as steam, which is why the cooked weight is less than 200 grams.",
+     "context": "In this step, a grown-up cooks the rice while you wait."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Let the pan cool a little. Weigh the pan with the cooked rice, and subtract the empty pan. That is the weight of the cooked rice.",
+     "say": "Weigh the pan with the rice in it. Then subtract the empty pan. How heavy is the cooked rice?",
+     "kid": "Weigh the pan with the rice. Take away the empty pan. How heavy is the rice?",
+     "ask": [
+      {
+       "q": "The rice started at 50 grams. Where did the extra weight come from?",
+       "good": [
+        "From the water.",
+        "The rice soaked up water."
+       ]
+      }
+     ],
+     "context": "In this step, you weigh the cooked rice."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "The energy in the pan is still 175 kilocalories. Divide 175 by the cooked weight, then multiply by 100. That is the energy in 100 grams of cooked rice.",
+     "say": "Tell me three things. What did you think? What did you find? Why do you think it happened?",
+     "kid": "Divide 175 by the cooked weight. Multiply by 100. Say what you found.",
+     "think": "Why does a label for a ready mix give one column for the food as sold and one as prepared?",
+     "parent": "For 150 grams of cooked rice the answer is 175 divided by 150, times 100, which is about 117. A usual result is 110 to 140. After they have said what they found, explain: water adds weight and no energy, so the same energy is spread over a heavier food. This is why 100 grams of cooked rice holds about a third of the energy in 100 grams of raw rice.",
+     "context": "This is the last step of Rice Before and After. You work out the energy and say what you found."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Label Detective: read four packets",
+   "mins": 18,
+   "days": 1,
+   "materials": [
+    {
+     "item": "4 packaged foods with a nutrition table, for example a biscuit, a bag of chips or namkeen, a packet of murmura or poha, and a packet drink or curd",
+     "qty": 4
+    },
+    {
+     "item": "paper, a pencil and a calculator",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, if the print is small",
+     "qty": 1
+    }
+   ],
+   "record": "Fill in a table with one row for each packet: the food, the energy in 100 grams, the grams of sugar in 100 grams, the first three ingredients, the servings in the pack and the energy in the whole pack.",
+   "context": "In this activity, you read the labels on four packets from your kitchen. You find out what each number means and what the front of the packet does not say.",
+   "setup": [
+    {
+     "art": "Four packets laid out on a table, each turned over to show the nutrition table, and a table drawn on paper beside them.",
+     "caption": "1. Turn four packets over. Draw a table with a row for each one."
+    },
+    {
+     "art": "A finger pointing to the per 100 grams column on a biscuit packet, and a calculator beside it.",
+     "caption": "2. Find the energy in 100 grams. Write it in your table."
+    },
+    {
+     "art": "A magnifying glass over the first three words of an ingredient list, with a sugar spoon beside it.",
+     "caption": "3. Read the first three ingredients. Look for sugar under any name."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Put the four packets in a line. Ask your child to guess which has the most energy in 100 grams, and which has the least, with a reason.",
+     "say": "Which of these packets has the most energy in 100 grams? Which has the least? Why do you think so?",
+     "kid": "Which packet has the most energy? Which has the least? Why?",
+     "ask": [
+      {
+       "q": "Why do you think that packet has the most?",
+       "good": [
+        "It is oily.",
+        "It is dry.",
+        "It is sweet.",
+        "It is crunchy."
+       ]
+      }
+     ],
+     "parent": "Write their guess down. Foods with little water and a lot of fat or sugar are usually at the top. Drinks and curd are usually at the bottom.",
+     "context": "This is the first step of Label Detective. You guess before you read."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Find the column called per 100 grams or per 100 millilitres. Write the energy and the sugars for each packet. Then read the first three ingredients.",
+     "say": "Look for the column marked per 100 grams. Write the energy and the sugars. Then read the first three ingredients out loud.",
+     "kid": "Find the per 100 grams column. Write the energy and the sugar. Read the first three ingredients.",
+     "ask": [
+      {
+       "q": "What is the first ingredient on each packet? What does it tell you?",
+       "good": [
+        "It is the biggest part.",
+        "It is what the food is mostly made of."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "A packet lists its ingredients as flour, sugar, palm oil, salt. What does this order tell you?",
+      "options": [
+       "There is more flour than sugar, and more sugar than palm oil",
+       "The flour tastes best",
+       "The ingredients were added in alphabetical order"
+      ],
+      "a": 0,
+      "why": "Ingredients are listed from the most by weight to the least. So the first ingredient is the biggest part of the food. Alphabet order does not matter."
+     },
+     "context": "In this step, you read the numbers and the ingredient lists on the four packets."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Find the servings in each pack and the weight of one serving. Multiply the energy per serving by the number of servings. Write the energy in the whole pack.",
+     "say": "How many servings are in the pack? Multiply that by the energy in one serving. That is the energy in the whole pack.",
+     "kid": "How many servings are in the pack? Work out the energy in the whole pack.",
+     "think": "Did anything on the front of a packet look different from the numbers on the back?",
+     "parent": "After they have shared what they found, explain: the front is made to sell, the table is made by law to inform. Per 100 grams lets you compare any two packets fairly. Per serving shows what the maker counts as one helping, which can be much smaller than what people eat.",
+     "context": "This is the last step of Label Detective. You work out the energy in a whole pack."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Serving Size Check: what you really eat",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a packet of biscuits, chips or cereal with a serving size on the label",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen scale that reads to 1 gram",
+     "qty": 1,
+     "buy": "b-kitchen-scale"
+    },
+    {
+     "item": "a plate or a bowl, a calculator and paper",
+     "qty": 1
+    }
+   ],
+   "record": "Write the serving weight from the label, the weight of your usual helping, and the energy in each.",
+   "context": "In this activity, you pour out the serving from a label and compare it with the helping you really take. You find out how much energy you really eat.",
+   "setup": [
+    {
+     "art": "A plate on a kitchen scale with exactly 30 grams of chips on it, and the packet's serving line pointing to 30 grams.",
+     "caption": "1. Weigh out one serving as the label says."
+    },
+    {
+     "art": "A child pouring out their usual helping of chips into a bowl on the scale.",
+     "caption": "2. Pour out the helping you would really take. Weigh it."
+    },
+    {
+     "art": "A paper showing the two weights side by side and a sum with the energy per 100 grams.",
+     "caption": "3. Work out the energy in your real helping."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Read the serving weight on the label. Weigh out exactly one serving on a plate. Look at how much it is.",
+     "say": "Weigh out one serving, exactly as the label says. Does it look like what you would normally eat?",
+     "kid": "Weigh out one serving. Is it more or less than you usually eat?",
+     "ask": [
+      {
+       "q": "Do you think your usual helping is more or less than one serving? How much more or less?",
+       "good": [
+        "More.",
+        "Two or three times more.",
+        "About the same."
+       ]
+      }
+     ],
+     "context": "This is the first step of Serving Size Check. You weigh out one serving."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Pour out the helping your child would normally take into a bowl. Weigh it. Write the weight.",
+     "say": "Now pour out what you would normally eat. We will weigh it and compare.",
+     "kid": "Pour out your usual helping. Weigh it. Write the weight.",
+     "context": "In this step, you weigh the helping you would really take."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Divide the real weight by the serving weight. That tells you how many servings you take. Multiply by the energy per serving.",
+     "say": "How many servings is your helping? Multiply that by the energy in one serving. That is the energy you really eat.",
+     "kid": "How many servings did you pour? Work out your real energy.",
+     "think": "Why might a maker choose a small serving size to put on the front of the packet?",
+     "parent": "A usual finding is that a real helping is two or three times the serving. After they have said why, explain: a small serving makes the numbers on the front look small. Per 100 grams is the fair way to compare, and your own helping is the fair way to know what you eat.",
+     "context": "This is the last step of Serving Size Check. You work out the energy in your real helping."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Three Jobs Plate: what job does each food do?",
+   "mins": 22,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a sheet of paper and three coloured pencils",
+     "qty": 1
+    },
+    {
+     "item": "your family's lunch or dinner, or a list of what you ate yesterday",
+     "qty": 1
+    }
+   ],
+   "record": "Draw a round plate with the foods on it. Colour each food by its main job. Mark the foods that do more than one job.",
+   "context": "In this activity, you sort a real meal by the jobs the foods do: energy, building and protection. You find out which foods do more than one job.",
+   "setup": [
+    {
+     "art": "A round plate drawn on paper with rice, dal, a vegetable, curd and a pickle on it, each labelled.",
+     "caption": "1. Draw your meal on a round plate. Write the name of each food."
+    },
+    {
+     "art": "Three coloured pencils beside the plate, with each food coloured red for energy, blue for building or green for protection.",
+     "caption": "2. Colour each food by its main job. Red is energy, blue is building, green is protection."
+    },
+    {
+     "art": "A star drawn next to dal, curd and milk on the plate, showing foods that do two or three jobs.",
+     "caption": "3. Put a star by every food that also does a second job."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Draw a plate with each food in a meal your family eats. Write what each food is made of.",
+     "say": "Let us draw a real meal from our kitchen. Draw each food and write its name.",
+     "kid": "Draw a plate. Draw each food in your meal. Write the names.",
+     "context": "This is the first step of Three Jobs Plate. You draw a real meal."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Colour each food by the main job you think it does. Red for energy, blue for building, green for protection. Put a star by foods that do more than one job.",
+     "say": "Which job does each food mostly do? Colour it. If a food does a second job, put a star by it.",
+     "kid": "Colour each food by its job. Put a star by foods with two jobs.",
+     "ask": [
+      {
+       "q": "Which foods in the meal did you give a star to? Why?",
+       "good": [
+        "Dal, because it has protein and starch.",
+        "Curd or milk, because it does all three.",
+        "Groundnut chutney, because it has protein and fat."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Which of these does the most jobs at once?",
+      "options": [
+       "A glass of milk",
+       "A spoon of sugar",
+       "A glass of plain water"
+      ],
+      "a": 0,
+      "why": "Milk holds sugar and fat for energy, protein and calcium for building, and vitamins for protection. Sugar mostly gives energy, and plain water gives none of the three jobs, though the body needs it."
+     },
+     "context": "In this step, you colour the plate by jobs and star the foods that do more than one."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Look at the plate. Which job has the most food? Which job has the least? What would you add to fill the gap?",
+     "say": "Which job is missing or small on this plate? What could you add to fix it?",
+     "kid": "Which job is missing? What could you add?",
+     "think": "If your body had no sugar left, which of your foods could it burn instead?",
+     "parent": "A typical plate has plenty of energy foods and a little of the others. Good additions are a cut fruit, a leafy vegetable or curd. After they have shared, explain: the body can burn protein and fat too, so the jobs are what a food usually does and not all it can do.",
+     "context": "This is the last step of Three Jobs Plate. You look for the job that is missing."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Date and Groundnut Balls: write your own food label",
+   "days": 1,
+   "mins": 50,
+   "materials": [
+    {
+     "item": "100 grams of seedless dates, weighed",
+     "qty": 1
+    },
+    {
+     "item": "60 grams of roasted, unsalted groundnuts, weighed",
+     "qty": 1
+    },
+    {
+     "item": "10 grams of sesame seeds (til), weighed",
+     "qty": 1
+    },
+    {
+     "item": "the three packets, to read their energy per 100 grams",
+     "qty": 3
+    },
+    {
+     "item": "a kitchen scale, a mixer-grinder and a calculator",
+     "qty": 1,
+     "buy": "b-kitchen-scale"
+    },
+    {
+     "item": "paper and a pencil for the label",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up works the mixer-grinder. Do not make this if anyone at the table has a nut allergy. You can use roasted chana instead of groundnuts. Wash hands first, and wash the plate and the mixer well afterwards.",
+   "record": "Write the weights, the energy in each ingredient, the total energy, the weight of the mixture, and the energy in 100 grams and in one ball. Then draw a label for your own balls.",
+   "context": "In this project, you make a snack from three foods and work out its nutrition label, the way a maker does. You use the numbers on the packets you started with.",
+   "setup": [
+    {
+     "art": "Three small heaps on a kitchen scale, dates, groundnuts and sesame seeds, each with its weight on a card.",
+     "caption": "1. Weigh the dates, the groundnuts and the sesame seeds."
+    },
+    {
+     "art": "A mixer-grinder jar with dates and groundnuts, and a grown-up pressing the button in short bursts.",
+     "caption": "2. A grown-up pulses them in the mixer until they are in small crumbs."
+    },
+    {
+     "art": "A child with damp hands rolling a sticky mixture into ten small balls on a steel plate.",
+     "caption": "3. Roll the mixture into ten balls of the same size."
+    },
+    {
+     "art": "A hand-drawn label with a table showing the energy per 100 grams and per ball.",
+     "caption": "4. Work out the energy and draw a label for your balls."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Weigh each ingredient and write its weight. Read the energy for 100 grams from each packet and write it down.",
+     "say": "Weigh each ingredient. Then read the energy for 100 grams from its packet.",
+     "kid": "Weigh the dates, the groundnuts and the sesame. Read each packet.",
+     "ask": [
+      {
+       "q": "Which ingredient do you think will give the most energy in the balls?",
+       "good": [
+        "The groundnuts, because they are fatty.",
+        "The dates, because there are more of them."
+       ]
+      }
+     ],
+     "context": "This is the first step of Date and Groundnut Balls. You weigh and read the packets."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "adult": true,
+     "do": "A grown-up pulses the dates, groundnuts and sesame in the mixer until they are small crumbs that stick together. Weigh the whole mixture.",
+     "say": "A grown-up grinds the mixture in short bursts. Then we weigh it. The weight should be about the same as the three weights added.",
+     "kid": "Ask a grown-up to grind it. Then weigh the mixture.",
+     "parent": "The weight of the mixture should be close to 170 grams, because nothing is added or taken away. A little will stick to the jar. If it is too dry to hold together, add a few more dates or one spoon of ghee and weigh again.",
+     "context": "In this step, a grown-up grinds the three foods together and you weigh the mixture."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "With damp hands, roll the mixture into ten balls of the same size. Weigh the ten balls together.",
+     "say": "Roll the mixture into ten balls that look the same size. Weigh them all together.",
+     "kid": "Roll ten balls of the same size. Weigh them together.",
+     "context": "In this step, you roll the balls and weigh them."
+    },
+    {
+     "id": "s4",
+     "mins": 15,
+     "do": "Work out the energy in each ingredient, the total, the energy in 100 grams and the energy in one ball. Draw a label with a table.",
+     "say": "For each ingredient, weight divided by 100, times its energy per 100 grams, gives its energy. Add them up.",
+     "kid": "Work out the energy of each food. Add them up. Draw a label.",
+     "check": {
+      "t": "mcq",
+      "q": "A mixture of 170 grams holds 680 kilocalories in total. How much energy is in 100 grams?",
+      "options": [
+       "400 kilocalories",
+       "680 kilocalories",
+       "170 kilocalories"
+      ],
+      "a": 0,
+      "why": "680 divided by 170 is 4, so each gram holds 4 kilocalories. 100 grams holds 400. If you chose 680, you gave the total, not the amount for 100 grams."
+     },
+     "parent": "For example, 100 grams of dates at 280 gives 280, 60 grams of groundnuts at 580 gives 348, and 10 grams of sesame at 570 gives 57. The total is 685 kilocalories. In 170 grams that is about 400 in 100 grams, and about 68 in each of 10 balls. Their numbers will differ with their packets.",
+     "context": "In this step, you work out the label numbers, just as a maker does."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Compare your label with the label of a packaged snack bar. Which has more energy in 100 grams? Which has more sugar? Which has fewer ingredients?",
+     "say": "Compare your balls with a packet snack. Which has more energy in 100 grams? Which has fewer ingredients?",
+     "kid": "Compare your balls with a snack bar. Which has fewer ingredients?",
+     "think": "What does your label leave out that you know about your balls?",
+     "context": "This is the last step of Date and Groundnut Balls. You compare your label with a packet's."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Day Pack: feed one hiker for a whole day",
+   "mins": 45,
+   "problem": "A family is going on a long day walk in the hills. Each hiker can carry only 600 grams of food, with no fridge and no cooking. Design a day's food for one hiker that gives enough energy and is still good at the end of the day.",
+   "constraints": [
+    "At least 1,800 kilocalories in total.",
+    "No more than 600 grams in total.",
+    "No fridge and no cooking on the trail.",
+    "It must include energy, body-building and protective foods.",
+    "It must still be safe to eat after 8 hours in a warm bag.",
+    "Include a choice for anyone who cannot eat nuts."
+   ],
+   "materials": [
+    "a kitchen scale",
+    "packets and foods from your kitchen with energy labels",
+    "a calculator, paper and a pencil",
+    "a table of energy per 100 grams from the Mystery Label game, if a food has no label"
+   ],
+   "general": [
+    "Pack groundnut chikki, roasted chana and dates, because they have little water and a lot of energy in each gram.",
+    "Pack thepla or plain parathas with a little pickle, which keep for a day without a fridge.",
+    "Pack banana chips, puffed rice mix and a few dry fruits, and add a lemon for vitamin C."
+   ],
+   "creative": [
+    "Make a mix of roasted groundnuts, dates, puffed rice and sesame, and weigh and label each bag with its energy.",
+    "Pack a roasted gram flour (sattu) mix to stir into water at a stream, which weighs little and gives energy and protein.",
+    "Use two bags, a fast-energy bag for the hard hours and a protective bag with dried fruit for the evening."
+   ],
+   "your_turn": "Design your own pack on paper first. Weigh each food, add up the energy and the weight, and check the three jobs. Then pack it in a bag and weigh it. If it is too heavy or too low in energy, swap one food and try again.",
+   "context": "This is a design challenge about energy density. You choose and weigh foods for a hiker, using what you know about energy, water and the three jobs.",
+   "setup": [
+    {
+     "art": "A pile of dry foods on a kitchen scale, with chikki, dates, groundnuts and banana chips, and a card showing 600 grams.",
+     "caption": "1. Choose foods and weigh them. The pack must stay under 600 grams."
+    },
+    {
+     "art": "A table on paper with a column for each food, its weight and its energy, and a total at the bottom.",
+     "caption": "2. Write each food, its weight and its energy. Add them up."
+    },
+    {
+     "art": "A cloth bag packed with the food, closed and sitting on a kitchen scale showing the final weight.",
+     "caption": "3. Pack the bag. Check the weight and the energy."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Read the problem together. Work out how many kilocalories you need for each 100 grams of food on average. Divide 1,800 by 6.",
+     "say": "The pack can weigh 600 grams and must hold 1,800 kilocalories. How much energy must each 100 grams hold, on average?",
+     "kid": "The pack is 600 grams. It needs 1,800 kilocalories. How many in 100 grams?",
+     "ask": [
+      {
+       "q": "Would idli work for this pack? Why or why not?",
+       "good": [
+        "No, idli is mostly water.",
+        "It has about 130 in 100 grams, which is too low.",
+        "It would be too heavy."
+       ]
+      }
+     ],
+     "parent": "1,800 divided by 6 is 300. Every 100 grams must give about 300 kilocalories on average. Idli, rice and fruit are well under this, and nuts, ghee and chikki are well over.",
+     "context": "This is the first step of Day Pack. You work out the energy each 100 grams must hold."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "List ten foods from your kitchen. Next to each, write the energy in 100 grams. Cross out any that spoil in a warm bag or need cooking.",
+     "say": "Make a list of ten foods and their energy in 100 grams. Cross out any food that would spoil or needs a stove.",
+     "kid": "List ten foods with their energy. Cross out foods that spoil or need cooking.",
+     "context": "In this step, you list foods and their energy, and cross out ones that will not work."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Pick foods from your list. Weigh each one. Write the weight and work out its energy. Add up the weights and the energy.",
+     "say": "Choose your foods. Weigh each one and work out its energy. Keep adding until you reach 1,800 or the weight limit.",
+     "kid": "Pick your foods. Weigh each. Add the energy and the weight.",
+     "check": {
+      "t": "mcq",
+      "q": "Your pack weighs 580 grams but holds only 1,500 kilocalories. What should you do?",
+      "options": [
+       "Swap a watery food for a dry one with more energy in each gram",
+       "Add more of the same watery foods",
+       "Remove all the food"
+      ],
+      "a": 0,
+      "why": "The limit is on weight, so the way to raise energy is to swap to foods with more energy in each gram, such as nuts, chikki or dry coconut. Adding more watery food would put the weight over the limit."
+     },
+     "context": "In this step, you pick and weigh your foods and add up the totals."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "Check that the pack has an energy food, a body-building food and a protective food. Check that nothing will spoil in 8 hours. Add a choice with no nuts.",
+     "say": "Check the three jobs. Is there an energy food, a building food and a protective food? Will everything keep for 8 hours?",
+     "kid": "Check the three jobs. Will everything keep for 8 hours?",
+     "context": "In this step, you check your pack against the three jobs and the safety rule."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "do": "Pack the bag and weigh it. Show the family your table. Say what you would change if the walk lasted two days.",
+     "say": "Show the family your pack. Tell us how you chose, and what you would change for a two-day walk.",
+     "kid": "Show your pack. Say how you chose.",
+     "think": "What is the heaviest part of a pack of idli, and what is the heaviest part of a pack of chikki?",
+     "context": "This is the last step of Day Pack. You pack the bag and talk about your choices."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Energy, Building and Protection (core)",
+   "tier": "core",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which job do rice, roti and ghee mostly do in a meal?",
+     "opts": [
+      "They give energy",
+      "They give vitamins to protect the eyes",
+      "They build bones only"
+     ],
+     "a": 0,
+     "why": "Rice and roti are rich in starch, and ghee is almost pure fat. Both are fuels for the body. They do hold some other nutrients, but energy is their main job.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "One kilocalorie is the heat needed to warm what by one degree Celsius?",
+     "opts": [
+      "One litre of water",
+      "One spoon of water",
+      "One kilogram of rice"
+     ],
+     "a": 0,
+     "why": "A kilocalorie is defined by water. It is the heat that warms one litre of water by one degree. That is why a thermometer and water can measure the energy in food.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "A gram of fat holds about twice as much energy as a gram of starch.",
+     "a": true,
+     "why": "True. Fat gives about 9 kilocalories in each gram, and starch gives about 4. That is why ghee and groundnuts hold so much energy.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "On a food label, the ingredients are listed from the ____ amount to the smallest amount.",
+     "a": [
+      "largest",
+      "biggest",
+      "most",
+      "greatest"
+     ],
+     "why": "The law says ingredients go from the most by weight to the least. So the first ingredient is what the food is mostly made of.",
+     "outcome": 3
+    },
+    {
+     "t": "match",
+     "p": "Match each nutrient to what it does for the body.",
+     "pairs": [
+      [
+       "Iron",
+       "helps the blood carry oxygen"
+      ],
+      [
+       "Calcium",
+       "builds bones and teeth"
+      ],
+      [
+       "Vitamin A",
+       "protects the eyes and the skin"
+      ],
+      [
+       "Fibre",
+       "keeps the gut moving and feeds helpful bacteria"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these is a protective nutrient with its own job. None of them gives energy, but the body cannot work properly without them.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Why does 100 grams of cooked rice hold less energy than 100 grams of raw rice?",
+     "opts": [
+      "Cooked rice has soaked up water, which adds weight and no energy",
+      "Cooking destroys the energy in rice",
+      "Cooked rice is smaller than raw rice"
+     ],
+     "a": 0,
+     "why": "The pan holds the same energy before and after cooking. The water adds weight, so the same energy is spread over more grams. If you chose 'cooking destroys energy', remember that energy is never lost.",
+     "outcome": 4
+    },
+    {
+     "t": "sort",
+     "p": "Sort each food by the job it does most.",
+     "cats": [
+      "Energy",
+      "Body-building",
+      "Protection"
+     ],
+     "items": [
+      [
+       "ghee",
+       "Energy"
+      ],
+      [
+       "egg",
+       "Body-building"
+      ],
+      [
+       "guava",
+       "Protection"
+      ],
+      [
+       "rice",
+       "Energy"
+      ],
+      [
+       "paneer",
+       "Body-building"
+      ],
+      [
+       "spinach",
+       "Protection"
+      ]
+     ],
+     "a": "as given",
+     "why": "Ghee and rice are mostly fat and starch. Egg and paneer are rich in protein. Guava and spinach are rich in vitamins and minerals. Many of these foods do a second job too.",
+     "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "If a packet does not have the word 'sugar' in its ingredient list, it has no added sugar.",
+     "a": false,
+     "why": "False. Sugar hides under names such as glucose syrup, invert sugar, dextrose, maltodextrin, honey and fruit juice concentrate. They are all sweet carbohydrates.",
+     "outcome": 3
+    },
+    {
+     "t": "count",
+     "p": "A biscuit packet lists 120 kilocalories in one serving, and the pack holds 5 servings. How much energy is in the whole pack?",
+     "a": "600 kilocalories.",
+     "why": "Multiply the servings by the energy in one serving. 5 times 120 is 600. The front of a packet often shows only the number for one serving.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A friend says milk is only good for strong bones. Name two other jobs that milk does for the body.",
+     "lines": 3,
+     "a": "Milk gives energy, through its sugar and fat. It gives protein to build and mend muscle and skin. It also gives vitamins such as vitamin A and B12.",
+     "why": "A strong answer names at least two of the three jobs, energy, building and protection, and says which nutrient does each. This shows that one food can do all three jobs.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "Which part of a food label lets you compare two different packets fairly?",
+     "opts": [
+      "The per 100 grams column",
+      "The picture on the front",
+      "The colour of the packet"
+     ],
+     "a": 0,
+     "why": "Per 100 grams gives the numbers for the same weight of each food. A serving can be 10 grams in one packet and 40 grams in another.",
+     "outcome": 3
+    },
+    {
+     "t": "count",
+     "p": "A girl of nine needs about 1,800 kilocalories in a day. A snack bar holds 180 kilocalories. What fraction of her day's energy is in the bar?",
+     "a": "One tenth.",
+     "why": "180 out of 1,800 is 180 over 1,800, which is the same as 1 over 10. The bar holds one tenth of the day's energy.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw a plate of your own lunch. Colour each food by its main job and put a star by any food that does more than one job.",
+     "a": "A plate with several foods, each coloured for energy, building or protection, and stars by foods such as dal, curd or milk.",
+     "why": "A strong drawing names every food and shows that at least one food, such as dal or curd, does more than one job. This shows that the groups describe a food's usual job, not its only one.",
+     "outcome": 0
+    },
+    {
+     "t": "perspective",
+     "p": "A biscuit packet says 'Multigrain' in big letters on the front. The ingredient list begins: wheat flour, sugar, oats.",
+     "views": [
+      {
+       "who": "The biscuit maker (an imagined view)",
+       "says": "Our biscuit really has wheat and oats in it, so multigrain is true."
+      },
+      {
+       "who": "A nutritionist (an imagined view)",
+       "says": "Multigrain only says there is more than one grain. Check how much sugar and fat there is per 100 grams."
+      },
+      {
+       "who": "A parent (an imagined view)",
+       "says": "I read the first three ingredients. If sugar is second, I put it back."
+      }
+     ],
+     "ask": "Whose way of choosing would you use? What would you check on the back of the packet?",
+     "a": "Answers vary. A strong answer picks a view, gives a reason, and names something to check, such as the sugar per 100 grams or the order of ingredients.",
+     "why": "The claim on the front can be true and still not tell you enough. A strong answer looks at the numbers at the back.",
+     "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "The standard numbers say that fat gives about ____ kilocalories in each gram.",
+     "a": [
+      "9",
+      "nine"
+     ],
+     "why": "Fat gives about 9 kilocalories in each gram. Carbohydrate and protein give about 4. These standard numbers are used to work out the energy on labels.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "Why does a label show the energy per 100 grams as well as per serving?",
+     "lines": 3,
+     "a": "Per 100 grams is the same weight for every food, so you can compare two packets fairly. Per serving shows only what the maker counts as one helping, which can be small.",
+     "why": "A strong answer says that per 100 grams is a fair comparison across foods, and that servings differ from packet to packet.",
+     "outcome": 3
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "How the Numbers Work (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A groundnut should give about 3 kilocalories, but the water above its flame gains only 1. What does this show?",
+     "opts": [
+      "Most of the heat escaped into the air, the tumbler and the smoke",
+      "Groundnuts hold less energy than the label says",
+      "The thermometer must be broken"
+     ],
+     "a": 0,
+     "why": "Energy is never lost, but a home flame warms the air, the metal and the smoke as well as the water. A closed chamber in a lab catches almost all of it.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Protein is called a body-building food. Which of these is also true?",
+     "opts": [
+      "The body can burn protein as fuel when it has little else",
+      "Protein can never be used as fuel",
+      "Protein holds no energy"
+     ],
+     "a": 0,
+     "why": "Protein gives about 4 kilocalories in each gram, the same as starch. A body that has little carbohydrate or fat burns some protein. So a food's group is its usual job, not its only job.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "A packet shows a small +F sign. What does it mean?",
+     "opts": [
+      "A vitamin or mineral has been added to the food",
+      "The food is fried",
+      "The food is made on a farm"
+     ],
+     "a": 0,
+     "why": "+F means the food is fortified, which means a vitamin or mineral such as iron or vitamin A has been added on purpose. Fortified atta, oil, milk and rice help protect against common shortages.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "Jaggery is mostly sugar.",
+     "a": true,
+     "why": "True. Jaggery is about 95 percent sugar. It has a little iron and a few minerals, but it is still mostly sugar, and the body handles it much as it handles white sugar.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "Every person's body takes in exactly the same energy from the same food.",
+     "a": false,
+     "why": "False. Studies find that people take in different amounts from the same food, depending on their gut bacteria, how the food was cooked, and their own digestion. A label's number is an average.",
+     "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "Cooking rice makes it soak up ____, which adds weight and no energy.",
+     "a": [
+      "water"
+     ],
+     "why": "Rice soaks up two or three times its own weight in water as it cooks. The energy in the pan stays the same, so each 100 grams holds less.",
+     "outcome": 4
+    },
+    {
+     "t": "match",
+     "p": "Match each ingredient on a packet to the nutrient it mostly gives.",
+     "pairs": [
+      [
+       "Glucose syrup",
+       "a sugar, which is a carbohydrate"
+      ],
+      [
+       "Palm oil",
+       "fat"
+      ],
+      [
+       "Whole wheat flour",
+       "starch, a carbohydrate"
+      ],
+      [
+       "Besan, or gram flour",
+       "protein and starch"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "The ingredient list tells you the main nutrient that the food adds. Several syrups and flours are carbohydrate, oils are fat, and gram flour has protein as well as starch.",
+     "outcome": 3
+    },
+    {
+     "t": "count",
+     "p": "Raw lentils hold 335 kilocalories in 100 grams. How many kilocalories are in 40 grams?",
+     "a": "134 kilocalories.",
+     "why": "40 grams is 4 tenths of 100 grams. Four tenths of 335 is 134. So multiply the label number by the weight and divide by 100.",
+     "outcome": 1
+    },
+    {
+     "t": "count",
+     "p": "A packet drink of 200 millilitres lists 11 grams of sugar in each 100 millilitres. About how many level teaspoons of sugar are in the whole drink, if 4 grams is one teaspoon?",
+     "a": "About 5 and a half teaspoons.",
+     "why": "The drink has 2 times 11, which is 22 grams of sugar. 22 divided by 4 is 5 and a half. Per 100 millilitres hides the size of the pack.",
+     "outcome": 3
+    },
+    {
+     "t": "count",
+     "p": "Meera cooks 40 grams of rice that holds 140 kilocalories. After cooking, the rice weighs 120 grams. How many kilocalories are in 100 grams of the cooked rice, to the nearest whole number?",
+     "a": "117 kilocalories.",
+     "why": "The pan still holds 140 kilocalories. Divide 140 by 120 to get the energy in 1 gram, then multiply by 100. That is about 117.",
+     "outcome": 4
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, for how the energy in a groundnut gets to your muscle.",
+     "a": [
+      "Sunlight lands on a groundnut plant's leaves",
+      "The plant builds fat, protein and starch in the nut",
+      "You eat the nut and your gut breaks it into small pieces",
+      "Your cells use oxygen to release the energy in small steps",
+      "The energy moves your muscle and warms your body"
+     ],
+     "why": "The energy starts as sunlight, is stored by the plant, and is released by your cells. Each step depends on the one before it.",
+     "outcome": 6
+    },
+    {
+     "t": "odd",
+     "p": "Which is the odd one out, and why? Ghee, groundnuts, dry coconut, cucumber.",
+     "a": "Cucumber, because it is about 95 percent water and holds very little energy. The other three are rich in fat and hold a lot.",
+     "why": "Water holds no energy for the body. Foods with a lot of fat and little water hold the most energy in each 100 grams.",
+     "outcome": 4
+    },
+    {
+     "t": "write",
+     "p": "A friend says: 'The label says 570 kilocalories per 100 grams, so my body will take in exactly 570 kilocalories from it.' What would you tell your friend?",
+     "lines": 4,
+     "a": "The label gives an estimate made from standard numbers. Bodies differ in how much of a food they take in. How the food is cooked and chopped can change it too. So 570 is a good average, but your body may take in a little more or less.",
+     "why": "A strong answer says that the number is an estimate from standard averages and that real bodies vary. It may also name gut bacteria or cooking.",
+     "outcome": 6
+    },
+    {
+     "t": "perspective",
+     "p": "Two scientists argue about packet snacks. In a test, people ate about 500 more kilocalories a day on a diet of ultra-processed foods, though the meals were matched for sugar, fat, fibre and protein.",
+     "views": [
+      {
+       "who": "A scientist who studies food processing (an imagined view)",
+       "says": "The way a food is made changes how we eat it. These foods are soft and easy to eat fast, so people eat more."
+      },
+      {
+       "who": "A scientist who studies nutrients (an imagined view)",
+       "says": "Processing is not one thing. Some processing, such as pasteurising milk, helps. We should look at the amounts of sugar, salt, fat and fibre."
+      },
+      {
+       "who": "A parent (an imagined view)",
+       "says": "I do not need to settle the argument. I can serve more fruit, nuts and home-cooked food and see how my family feels."
+      }
+     ],
+     "ask": "Whose view do you agree with most? What test would help to decide?",
+     "a": "Answers vary. A strong answer picks a view, gives a reason, and suggests a fair test, such as comparing people eating the same nutrients in foods made in different ways.",
+     "why": "The science here is not settled. A strong answer admits what the test showed and what it did not.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw how the energy gets from the Sun to a child. Label the Sun, a leaf, a groundnut, the child and an arrow for the heat leaving the child.",
+     "a": "A chain of drawings: the Sun, a leaf, a groundnut, a child eating, and an arrow of heat leaving the child's body.",
+     "why": "A strong drawing shows the energy moving in one direction through each step and leaving as heat. The energy is not stored in the child forever.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "Someone says: 'A living body makes its own energy from a special life force and does not follow the rules that a fire follows.' What evidence could you collect to test this?",
+     "lines": 4,
+     "a": "Measure the energy in the food that goes in, and the heat and work that come out, over several days. If they match, the body follows the same rules as a fire. If the body gave out more than it took in, the claim would be supported.",
+     "why": "A strong answer describes measuring energy in and out and says what result would support each claim. This is what the sealed room measurements did.",
+     "outcome": 7
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Be the Food Scientist (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "In a sealed-room experiment, scientists measured everything that a volunteer ate and everything the volunteer gave off as heat and work. Why must the room be sealed and insulated?",
+     "lines": 4,
+     "a": "If heat or air could leak out, some of the energy would not be counted, and the totals would not match. A sealed, insulated room catches all of it, so the energy going in can be compared with the energy coming out.",
+     "why": "A strong answer says that every bit of energy must be counted, or the comparison is not fair. This is the same reason a home nut test loses heat.",
+     "outcome": 7
+    },
+    {
+     "t": "count",
+     "p": "A groundnut kernel weighs 0.5 grams, and the label says 580 kilocalories in 100 grams. It burns under 50 millilitres of water, which rises 14 degrees. One kilocalorie warms 50 millilitres by 20 degrees. How much heat did the water gain, and what share of the nut's energy is that?",
+     "a": "0.7 kilocalories, about one quarter.",
+     "why": "The nut holds 0.5 times 5.8, which is 2.9 kilocalories. The water rose 14 degrees, which is 14 out of 20 of a kilocalorie, or 0.7. 0.7 out of 2.9 is about one quarter, so three quarters of the heat was lost.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "A maker wants the front of a packet to show a lower energy number without changing the food. Which change would do it?",
+     "opts": [
+      "Make the serving size smaller",
+      "Add more flour",
+      "Print the label larger"
+     ],
+     "a": 0,
+     "why": "The energy per serving gets smaller when the serving gets smaller, but the food is exactly the same. This is why per 100 grams is the fair way to compare.",
+     "outcome": 3
+    },
+    {
+     "t": "count",
+     "p": "A snack bar lists 140 kilocalories for a serving of 25 grams. How much energy is in 100 grams of the bar?",
+     "a": "560 kilocalories.",
+     "why": "100 grams is 4 times 25 grams. So the energy is 4 times 140, which is 560. This is a very energy-dense food.",
+     "outcome": 3
+    },
+    {
+     "t": "odd",
+     "p": "Which is the odd one out, and why? Iodised salt, fortified atta, ragi, +F oil.",
+     "a": "Ragi, because it is naturally rich in calcium. The other three had a nutrient added on purpose by the maker.",
+     "why": "Fortified foods have a nutrient put in on purpose, which is why they carry a +F sign. Ragi is rich in calcium by itself.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Rice and dal are traditionally eaten together. Using what you know about amino acids, explain why this pairing works. Then say what is wrong with the rule 'you must eat them at the same meal'.",
+     "lines": 5,
+     "a": "Rice is low in the amino acid lysine and dal is low in methionine, so each one makes up for the other. But the body stores amino acids for a day, so eating them at different meals works too. The rule is stricter than needed.",
+     "why": "A strong answer names the idea that foods supply different amounts of the nine amino acids the body cannot make, and says that the body keeps a store across the day.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "A teacher says a groundnut is a body-building food. Another says it is an energy food. Who is right?",
+     "opts": [
+      "Both, because it holds protein for building and fat for fuel",
+      "Only the first, because groups cannot overlap",
+      "Neither, because a groundnut is a plant"
+     ],
+     "a": 0,
+     "why": "A groundnut is about a quarter protein and nearly half fat. It does both jobs. The groups tell you a food's usual job, but most foods do more than one.",
+     "outcome": 0
+    },
+    {
+     "t": "perspective",
+     "p": "A school canteen can sell either packet snacks or home-cooked snacks such as sundal and fruit.",
+     "views": [
+      {
+       "who": "The canteen manager (an imagined view)",
+       "says": "Packet snacks keep for weeks, need no cooking and sell fast. I can offer a fruit bowl on the side."
+      },
+      {
+       "who": "A nutritionist (an imagined view)",
+       "says": "I would look at the labels and choose snacks with less sugar and salt per 100 grams. Cooked snacks usually do better."
+      },
+      {
+       "who": "A Class 4 student (an imagined view)",
+       "says": "I want to know how much it costs and how it tastes. I would eat sundal if it is hot and has some spice."
+      }
+     ],
+     "ask": "What would you add to the canteen, and what would you check first?",
+     "a": "Answers vary. A strong answer weighs cost, taste, keeping time and nutrition, and names a way to check, such as reading the labels per 100 grams.",
+     "why": "Real choices have more than one side. A strong answer weighs several sides, and names a fact that would help.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "Ten grams of fat hold more energy than ten grams of sugar.",
+     "a": true,
+     "why": "True. Ten grams of fat hold about 90 kilocalories and ten grams of sugar hold about 40. Fat holds a little more than twice as much in each gram.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "A label for a ready mix may show one column for the food as sold, and one for the food as ____.",
+     "a": [
+      "prepared",
+      "cooked",
+      "made"
+     ],
+     "why": "Adding water or milk changes the weight and so the energy in 100 grams. Two columns show both.",
+     "outcome": 4
+    },
+    {
+     "t": "match",
+     "p": "Match each food to what is surprising about its energy in 100 grams.",
+     "pairs": [
+      [
+       "Cucumber",
+       "mostly water, so very low"
+      ],
+      [
+       "Dry coconut",
+       "the water has gone, so very high"
+      ],
+      [
+       "Cooked rice",
+       "water added, so about a third of raw rice"
+      ],
+      [
+       "Ghee",
+       "almost pure fat, so the highest"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "The energy in 100 grams depends on how much water and how much fat there is. These four foods show that clearly.",
+     "outcome": 4
+    },
+    {
+     "t": "draw",
+     "p": "Draw a bar chart for these foods in 100 grams: ghee 900 kilocalories, groundnuts 580, raw rice 350, cooked rice 130, cucumber 15. Choose a scale and label each bar.",
+     "a": "Five bars in order, with a scale where each centimetre stands for about 100 kilocalories, so ghee is about 9 centimetres tall, groundnuts about 6, raw rice about 3.5, cooked rice about 1.3 and cucumber almost nothing.",
+     "why": "A strong chart uses an even scale, labels each bar and its units, and shows at a glance that cooked rice is far lower than raw rice.",
+     "outcome": 4
+    },
+    {
+     "t": "sort",
+     "p": "Sort each food by how much energy it holds in 100 grams.",
+     "cats": [
+      "Under 100 kilocalories",
+      "100 to 400 kilocalories",
+      "Over 400 kilocalories"
+     ],
+     "items": [
+      [
+       "cucumber",
+       "Under 100 kilocalories"
+      ],
+      [
+       "banana",
+       "Under 100 kilocalories"
+      ],
+      [
+       "cooked rice",
+       "100 to 400 kilocalories"
+      ],
+      [
+       "raw dal",
+       "100 to 400 kilocalories"
+      ],
+      [
+       "groundnuts",
+       "Over 400 kilocalories"
+      ],
+      [
+       "ghee",
+       "Over 400 kilocalories"
+      ]
+     ],
+     "a": "as given",
+     "why": "Foods with a lot of water are at the bottom. Dry grains and pulses are in the middle. Foods with a lot of fat are at the top.",
+     "outcome": 4
+    },
+    {
+     "t": "count",
+     "p": "A child needs about 1,800 kilocalories a day. A packet of namkeen holds 540 kilocalories in 100 grams, and the child eats 40 grams. How many kilocalories is that, and what part of the day's energy?",
+     "a": "216 kilocalories, which is 12 out of every 100, or 12 percent, of the day's energy.",
+     "why": "40 grams is 4 tenths of 100 grams, and 4 tenths of 540 is 216. 216 out of 1,800 is 12 out of 100.",
+     "outcome": 3
+    },
+    {
+     "t": "order",
+     "p": "Put these steps in order, for working out the energy in 100 grams of a homemade snack.",
+     "a": [
+      "Weigh each ingredient",
+      "Read the energy in 100 grams from each packet",
+      "Work out each ingredient's energy from its weight",
+      "Add up the energy of all the ingredients",
+      "Divide by the weight of the snack and multiply by 100"
+     ],
+     "why": "Each step uses the answer to the one before. Last, scale the total back to 100 grams, so it can be compared with any packet.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Marie-Anne Lavoisier kept the notes and drew the experiments in her husband's laboratory. Why does science need people who record and draw what they see, and not only people who think of ideas?",
+     "lines": 4,
+     "a": "An idea can only be tested if someone records exactly what was done and what was found. Careful notes and drawings let other people repeat the test, check it and trust it.",
+     "why": "A strong answer says that records let others repeat and check results. Credit for a discovery depends on this work as well as on the first idea.",
+     "outcome": 7
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which food does all three jobs, giving energy, building material and protection?",
+   "opts": [
+    "Milk",
+    "White sugar",
+    "Plain water"
+   ],
+   "a": 0,
+   "why": "Milk has sugar and fat for energy, protein and calcium for building, and vitamins for protection. Sugar mostly gives energy, and water gives none of the three, though the body needs it.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which nutrient holds the most energy in one gram?",
+   "opts": [
+    "Fat",
+    "Starch",
+    "Protein"
+   ],
+   "a": 0,
+   "why": "Fat gives about 9 kilocalories in each gram. Starch and protein give about 4. So a gram of fat holds a little more than twice as much.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "What does one kilocalorie measure?",
+   "opts": [
+    "Heat energy",
+    "Weight",
+    "Sweetness"
+   ],
+   "a": 0,
+   "why": "A kilocalorie is a unit of heat energy. It is the heat that warms a litre of water by one degree.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In a test that burns foods under water, why must each food be weighed first?",
+   "opts": [
+    "So the foods are compared by the same weight",
+    "So that the nut burns for longer",
+    "To find the colour of the nut"
+   ],
+   "a": 0,
+   "why": "A heavier piece holds more energy. If the weights differ, the result tells you about the weight and not about the food. Equal weights make the test fair.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which change would make a home nut test lose less heat?",
+   "opts": [
+    "Shield the flame from draughts and hold the tumbler close",
+    "Use a much bigger tumbler with more water",
+    "Use a nut that burns with a cooler flame"
+   ],
+   "a": 0,
+   "why": "Less heat escapes when the flame is shielded from moving air and the tumbler is close. A bigger tumbler would only give a smaller rise in temperature.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "On a packet, the first ingredient is sugar. What does that tell you?",
+   "opts": [
+    "There is more sugar than any other single ingredient",
+    "Sugar was added first in the factory",
+    "The packet holds only sugar"
+   ],
+   "a": 0,
+   "why": "Ingredients are listed from the most by weight to the least. The first one is the biggest part. Other sugars may be listed lower down.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A pack lists 80 kilocalories in a serving, and holds 6 servings. How much energy is in the whole pack?",
+   "opts": [
+    "86 kilocalories",
+    "480 kilocalories",
+    "80 kilocalories"
+   ],
+   "a": 1,
+   "why": "Multiply the servings by the energy in one serving. 6 times 80 is 480. If you chose 80, you used the number for only one serving.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which food has the least energy in 100 grams?",
+   "opts": [
+    "Cucumber",
+    "Cooked rice",
+    "Raw rice"
+   ],
+   "a": 0,
+   "why": "Cucumber is about 95 percent water and holds about 15 kilocalories in 100 grams. Cooked rice holds about 130 and raw rice about 350.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which pair is a protective food and the nutrient it is rich in?",
+   "opts": [
+    "Amla and vitamin C",
+    "Ghee and vitamin C",
+    "Sugar and calcium"
+   ],
+   "a": 0,
+   "why": "Amla is one of the richest sources of vitamin C. Ghee is nearly all fat, and sugar has no calcium.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a squeeze of lemon on spinach or dal help the body?",
+   "opts": [
+    "Vitamin C helps the body take in the iron",
+    "Lemon adds protein",
+    "Lemon adds energy"
+   ],
+   "a": 0,
+   "why": "Vitamin C helps the body absorb the iron in plant foods. Tea drunk at the same meal does the opposite, and holds on to the iron.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "What do your cells use oxygen for?",
+   "opts": [
+    "To release the energy in food in small steps",
+    "To make food from sunlight",
+    "To make bones"
+   ],
+   "a": 0,
+   "why": "Cells use oxygen to release the energy stored in sugar, in many small steps. Making food from sunlight is what plants do, and bones are built from calcium and protein.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "What did the sealed-room measurements of the 1890s show about a living body?",
+   "opts": [
+    "The energy going in matched the heat and work coming out, as with a fire",
+    "People make energy from nothing",
+    "Food holds no energy"
+   ],
+   "a": 0,
+   "why": "The volunteer's food energy matched the heat and work measured. So a living body follows the same energy rules as a fire, with nothing made or lost.",
+   "outcome": 7
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Meenakshi, a girl in Class 4 in Madurai, weighs a groundnut kernel at 0.5 grams. The packet says 580 kilocalories in 100 grams. How many kilocalories should the kernel hold?",
+   "answer": "2.9 kilocalories.",
+   "explain": "0.5 grams is 5 hundredths of 100 grams. Take 5 hundredths of 580, which is 580 times 5 divided by 100, or 29 divided by 10. That is 2.9.",
+   "math_unit": "math.fractions.decimals-and-percentages.L4",
+   "how": "e1",
+   "context": "In the Burning Nuts test, you burn a nut that weighs about half a gram.",
+   "why_maths": "A label gives the energy for 100 grams, so you scale it down to the small weight you really burned."
+  },
+  {
+   "problem": "The water above Meenakshi's groundnut gained 0.7 kilocalories, but the nut held 2.9. About what fraction of the nut's heat reached the water?",
+   "answer": "About one quarter.",
+   "explain": "0.7 out of 2.9 is close to 0.7 out of 2.8, which is one quarter. So about three quarters of the heat was lost to the air, the tumbler and the smoke.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L4",
+   "how": "e1",
+   "context": "In the Burning Nuts test, you compare the heat in the water with the heat the label promises.",
+   "why_maths": "A fraction shows how much of the heat you caught, so you can say how good the test was without long decimals."
+  },
+  {
+   "problem": "Ghee holds 900 kilocalories in 100 grams and raw rice holds 350. About how many times more energy does ghee hold in the same weight?",
+   "answer": "About two and a half times.",
+   "explain": "350 times 2 is 700, and 350 times 3 is 1,050. 900 is between them, a little past halfway, so about 2 and a half times.",
+   "math_unit": "math.fractions.ratio-and-proportion.L4",
+   "context": "In the Mystery Label game, ghee and rice show very different energy for the same weight.",
+   "why_maths": "A ratio tells you how many times more, which is easier to remember than two big numbers."
+  },
+  {
+   "problem": "Aarav cooks 50 grams of raw rice, which holds 175 kilocalories. The cooked rice weighs 130 grams. About how many kilocalories are in 100 grams of the cooked rice, and about what fraction is that of the 350 in raw rice?",
+   "answer": "About 135 kilocalories, which is a little more than one third of 350.",
+   "explain": "175 divided by 130 is about 1.35, so 100 grams holds about 135. 350 divided by 3 is about 117, and 135 is a little more than that, so a little more than one third.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L4",
+   "how": "e2",
+   "context": "In Rice Before and After, you find the energy in 100 grams of cooked rice.",
+   "why_maths": "Dividing the total energy by the new weight shows how the same energy spreads thinner as water is added."
+  },
+  {
+   "problem": "A packet has 4 servings of 150 kilocalories each. A girl of nine needs about 1,800 kilocalories in a day. If she eats the whole packet, what fraction of her day's energy is that?",
+   "answer": "One third.",
+   "explain": "4 times 150 is 600. 600 out of 1,800 is the same as 1 out of 3, because 1,800 divided by 600 is 3.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L4",
+   "how": "a2",
+   "context": "In Serving Size Check, you work out how much energy you really eat from a packet.",
+   "why_maths": "A fraction of the day's energy tells you how big a snack really is, in a way that one big number does not."
+  },
+  {
+   "problem": "Drink A is a 200 millilitre carton with 12 grams of sugar in each 100 millilitres. Drink B is a 250 millilitre bottle with 11 grams of sugar in each 100 millilitres. Which whole drink has more sugar, and by how much?",
+   "answer": "Drink B has more, by 3.5 grams.",
+   "explain": "A holds 2 times 12, which is 24 grams. B holds 2 and a half times 11, which is 27.5 grams. 27.5 take away 24 is 3.5 grams. B has more sugar even though its number per 100 millilitres is lower.",
+   "math_unit": "math.fractions.decimals-and-percentages.L4",
+   "context": "In Label Detective, you find that a number per 100 millilitres does not show how much is in the whole pack.",
+   "why_maths": "Per 100 millilitres hides the size of the pack, so you must scale it up before you compare drinks."
+  },
+  {
+   "problem": "On a bar chart of energy in 100 grams, the tallest bar is ghee at 900 kilocalories and is drawn 9 centimetres high. How tall should the groundnut bar be, at 580 kilocalories?",
+   "answer": "About 5.8 centimetres.",
+   "explain": "Each centimetre stands for 100 kilocalories, because 900 divided by 9 is 100. So 580 kilocalories is 5.8 centimetres.",
+   "math_unit": "math.data.bar-charts.L4",
+   "context": "In the Mystery Label game, you meet the energy of foods such as ghee and groundnuts, and a bar chart can compare them.",
+   "why_maths": "Choosing a scale lets a bar chart show five very different numbers on one page."
+  },
+  {
+   "problem": "For the Day Pack, chikki holds 500 kilocalories in 100 grams. How many grams of chikki give 1,000 kilocalories, and what share of the 600 gram limit is that?",
+   "answer": "200 grams, which is one third of the limit.",
+   "explain": "1,000 divided by 500 is 2, so you need 2 lots of 100 grams, which is 200 grams. 200 out of 600 is one third.",
+   "math_unit": "math.fractions.ratio-and-proportion.L4",
+   "how": "c1",
+   "context": "In the Day Pack challenge, you choose dry foods so that a hiker can carry enough energy.",
+   "why_maths": "A ratio from the label tells you how much to pack to reach the energy you need."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Burning a nut to measure its energy (calorimetry)",
+   "channel": "to be found",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "To see the groundnut test done in a classroom, and how heat is measured with water.",
+   "check": "Not yet found. Find one that shows a nut burning under a tin of water with a thermometer, and check that the energy calculation is correct."
+  },
+  {
+   "title": "How to read a food label (nutrition table and ingredients)",
+   "channel": "to be found",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 5,
+   "why": "To see a nutrition table and an ingredient list explained on a real packet, in the Indian style.",
+   "check": "Not yet found. Prefer one made for India that shows the per 100 grams column and the order of ingredients. Check that it matches the FSSAI rules."
+  },
+  {
+   "title": "How cells release energy from food (respiration)",
+   "channel": "to be found",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "To see sugar and oxygen go into a cell, and energy, carbon dioxide and water come out.",
+   "check": "Not yet found. Choose a short, accurate animation for children and check the facts about ATP and heat."
+  }
+ ],
+ "applications": [
+  "Reading labels to choose snacks with less sugar and salt in each 100 grams.",
+  "Planning a day pack for a trek with foods that hold a lot of energy and little weight.",
+  "Packing a school tiffin with an energy food, a body-building food and a protective food.",
+  "Helping athletes and dancers decide how much to eat for the energy they use.",
+  "Feeding hospital patients and malnourished children with measured, energy-rich foods.",
+  "Adding iodine, iron and vitamins to salt, atta and oil to protect whole populations.",
+  "Making food for astronauts and mountaineers that is light but full of energy.",
+  "Testing the energy in foods in laboratories with a bomb calorimeter.",
+  "Writing the nutrition label for a new product that a small business wants to sell.",
+  "Cooking in ways that keep vitamins, such as steaming or adding lemon at the end."
+ ],
+ "spotted": [
+  {
+   "text": "The nutrition table and ingredient list on the back of a biscuit, chips or noodle packet.",
+   "art": "The back of a packet in a kitchen drawer, with a small table of numbers and a long line of ingredients."
+  },
+  {
+   "text": "A green dot in a square on a packet in a shop, and a brown dot on another packet.",
+   "art": "Two packets side by side, one with a green dot in a square and one with a brown dot."
+  },
+  {
+   "text": "A +F sign on a bag of atta, a packet of salt or a bottle of oil.",
+   "art": "A bag of atta with a small +F sign printed near the bottom corner."
+  },
+  {
+   "text": "A crow or a squirrel carrying a groundnut away, saving energy-rich food for later.",
+   "art": "A squirrel sitting on a wall holding a groundnut in its paws."
+  },
+  {
+   "text": "A mid-day meal in a school: rice, dal, vegetables and sometimes an egg or a banana.",
+   "art": "Children sitting in a row eating from steel plates, with a cook serving dal."
+  },
+  {
+   "text": "Sunlight on a coconut palm, a rice field or a ragi field, where food energy begins.",
+   "art": "A rice field in the early morning with the Sun low over the water."
+  },
+  {
+   "text": "Roadside chikki, banana chips and puffed rice, all dry foods with a lot of energy in each gram.",
+   "art": "A shop shelf with jars of chikki, banana chips and murmura."
+  },
+  {
+   "text": "A child out of breath and warm after running, using food energy faster than at rest.",
+   "art": "A child with red cheeks stopping beside a playground wall after running."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why do two people get different amounts of energy from the same food?",
+   "why_open": "Gut bacteria, cooking, chewing and a person's own digestion all seem to matter. Scientists have not yet shown how much each one counts."
+  },
+  {
+   "q": "Does the harm from ultra-processed foods come from how they are made, or from the nutrients in them?",
+   "why_open": "A careful 2019 test found that people ate more on an ultra-processed diet even when sugar, fat, fibre and protein were matched. Nobody knows the cause yet."
+  },
+  {
+   "q": "Why do many people in India have low vitamin D, even where the sun shines all year?",
+   "why_open": "Time indoors, clothing, air pollution and darker skin making less vitamin D in the same sun have all been suggested. Scientists do not agree on how much each one matters."
+  },
+  {
+   "q": "How does the body know how much to eat?",
+   "why_open": "Hormones that signal hunger and fullness have been found, but they do not explain everything. Why some people feel hungry at different times is not fully understood."
+  },
+  {
+   "q": "Why do animals store extra energy as fat, and plants as starch?",
+   "why_open": "Fat is lighter to carry for an animal that moves, which may be part of the answer. But the full reason is still debated."
+  },
+  {
+   "q": "Is there one best diet for all people?",
+   "why_open": "Healthy families around the world eat very differently, from fish and rice to millet and milk. Scientists are still working out which parts of a diet matter for everyone."
+  }
+ ],
+ "ask_kids": [
+  "Which food in our kitchen do you think holds the most energy in a gram, and why?",
+  "Which food on our plate today did more than one job?",
+  "Why does the back of the packet tell us more than the front?",
+  "What is the first ingredient in your favourite snack, and what does that tell you?",
+  "Why might a hiker pack groundnuts and not cucumber?",
+  "Where was the energy in this meal a few months ago?",
+  "How many servings do you think you eat when you open a packet of biscuits?",
+  "Why do we feel warm after running?",
+  "What colours of fruit and vegetables did we eat today?",
+  "If you were making a snack for a long walk, what would you put in it?"
+ ],
+ "jokes": [
+  {
+   "j": "Why was the ghee never invited to the weighing party?",
+   "a": "It always had too much energy in every gram."
+  },
+  {
+   "j": "What did the cucumber say to the groundnut?",
+   "a": "You burn nicely, but I am 95 percent water, so I will never light."
+  },
+  {
+   "j": "What did the label say to the biscuit?",
+   "a": "Turn around, I have the real story at the back."
+  },
+  {
+   "j": "Why did sugar sit in three places on the ingredient list?",
+   "a": "It wanted three seats and still did not want to be first."
+  },
+  {
+   "j": "Why was the thermometer so calm during the nut test?",
+   "a": "It keeps its cool, even when the heat is on."
+  },
+  {
+   "j": "Why did the rice and the dal always sit together?",
+   "a": "Each one had what the other was missing."
+  },
+  {
+   "j": "What did the spinach say to the lemon?",
+   "a": "Thanks for helping me share my iron."
+  },
+  {
+   "j": "Why did the child keep a tumbler of water near the burning groundnut?",
+   "a": "To catch the heat before it ran away."
+  },
+  {
+   "j": "How does a mango say it is a protective food?",
+   "a": "With a shield made of vitamin A."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.food.L4",
+  "title": "Sunlight on My Plate",
+  "note": "Topic-level song for Food and nutrition L4"
+ },
+ "links": [
+  {
+   "title": "Food Safety and Standards Authority of India (FSSAI)",
+   "url": "https://www.fssai.gov.in/",
+   "kind": "interactive",
+   "why": "For the parent: the official rules for food labels in India, including the nutrition table, the dots and the +F sign."
+  },
+  {
+   "title": "Eat Right India",
+   "url": "https://eatrightindia.gov.in/",
+   "kind": "interactive",
+   "why": "For the parent: simple guides on safe and healthy eating from the Indian government."
+  },
+  {
+   "title": "PhET Interactive Simulations",
+   "url": "https://phet.colorado.edu/",
+   "kind": "simulation",
+   "why": "Free science simulations from the University of Colorado, including one on eating and exercise that shows food energy going in and out."
+  },
+  {
+   "title": "National Institute of Nutrition",
+   "url": "https://www.nin.res.in/",
+   "kind": "place",
+   "where": "Hyderabad",
+   "why": "India's national centre for research on food and nutrition, which publishes the Indian food tables. Visits are arranged in advance, so check before you go."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-thermo",
+   "item": "A cooking or laboratory thermometer that reads up to 100 degrees",
+   "kind": "tool",
+   "why": "To measure the water in the Burning Nuts test. A digital probe thermometer or a glass chemist's thermometer will do. A fever thermometer will not.",
+   "url": "https://www.amazon.in/s?k=digital+cooking+thermometer",
+   "used_in": [
+    "e1"
+   ]
+  },
+  {
+   "id": "b-pocket",
+   "item": "A pocket scale that reads to 0.1 gram or finer",
+   "kind": "tool",
+   "why": "To weigh half-gram pieces of nut. A jeweller's scale is cheap. Without one, the test is only rough.",
+   "url": "https://www.amazon.in/s?k=pocket+scale+0.01g",
+   "used_in": [
+    "e1"
+   ]
+  },
+  {
+   "id": "b-kitchen-scale",
+   "item": "A digital kitchen scale that reads to 1 gram",
+   "kind": "tool",
+   "why": "To weigh rice, servings and snack ingredients in three of the activities.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
+   "used_in": [
+    "e2",
+    "a2",
+    "p1"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "How many kilocalories does a gram of fat give?",
+   "a": "About 9."
+  },
+  {
+   "q": "How many kilocalories does a gram of starch or protein give?",
+   "a": "About 4."
+  },
+  {
+   "q": "In which order are ingredients listed on a packet?",
+   "a": "From the most by weight to the least."
+  },
+  {
+   "q": "What does the column per 100 grams let you do?",
+   "a": "Compare two packets fairly."
+  },
+  {
+   "q": "Why does cooked rice have less energy in 100 grams than raw rice?",
+   "a": "It has soaked up water, which adds weight and no energy."
+  },
+  {
+   "q": "What does a +F sign on a packet mean?",
+   "a": "A vitamin or mineral has been added."
+  },
+  {
+   "q": "Which vitamin helps the body take in iron?",
+   "a": "Vitamin C."
+  },
+  {
+   "q": "What do cells use oxygen for?",
+   "a": "To release the energy in food."
+  },
+  {
+   "q": "What does one kilocalorie do to a litre of water?",
+   "a": "It warms it by one degree Celsius."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "g1",
+   "videos",
+   "ws-core",
+   "a2",
+   "e2",
+   "a3",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "g1",
+   "ws-core",
+   "a3"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "Combined lesson sci-C4-food-and-a-balanced-diet (the burning peanut, the kitchen energy chart, protein chains from rice and dal, iron with vitamin C, the question about combining proteins): reused, made quantitative and improved. Its story was not reused",
+   "ideas/by_topic/food-and-a-balanced-diet.md: SCI Cards for Barry Marshall (stomach work belongs with digestion) and M. S. Swaminathan (hunger and the Green Revolution, used in the fourth big question)",
+   "Read and not repeated: sci.food.nutrients.L3 (curdled milk, dried slices, hidden minerals, the Fick and Wislicenus story), sci.food.balanced-diet.L3, sci.food.where-food-comes-from.L3",
+   "NCERT Class 4 Chapter 5 Food for Health, for coverage only. Its text is not copied"
+  ],
+  "science": [
+   "Atwater, W. O. and Rosa, E. B., Description of a new respiration calorimeter and experiments on the conservation of energy in the human body, Bulletin 63, US Department of Agriculture, Office of Experiment Stations, 1899",
+   "Lavoisier, A. and Laplace, P.-S., Memoire sur la chaleur, 1783 (the ice calorimeter and the guinea pig)",
+   "Novotny, J. A. et al., Discrepancy between the Atwater factor predicted and empirically measured energy values of almonds in human diets, American Journal of Clinical Nutrition, 2012",
+   "Zeevi, D. et al., Personalized nutrition by prediction of glycemic responses, Cell, 2015",
+   "Hall, K. D. et al., Ultra-processed diets cause excess calorie intake and weight gain, Cell Metabolism, 2019",
+   "Monteiro, C. A. et al., Ultra-processed foods: what they are and how to identify them, Public Health Nutrition, 2019",
+   "Kuzawa, C. W. et al., Metabolic costs and evolutionary implications of human brain development, Proceedings of the National Academy of Sciences, 2014",
+   "Longvah, T. et al., Indian Food Composition Tables, National Institute of Nutrition, Hyderabad, 2017",
+   "Food Safety and Standards (Labelling and Display) Regulations, 2020, Food Safety and Standards Authority of India",
+   "Lappe, F. M., Diet for a Small Planet, 1971 (and the correction in the later edition)",
+   "Taittiriya Upanishad 3.2, Chandogya Upanishad 6.5.1 and Bhagavad Gita 15.14, for the teachings in Roots",
+   "Kamala Sohonie (1911 to 1998): biographical accounts of her doctorate and her work on neera, to be checked against a primary source before release"
+  ]
+ },
+ "playtest": "Read as a parent and child in a city flat would use it. The experiments have not yet been cooked at home, so please check these before release. Burning Nuts: one groundnut kernel weighs about half a gram and holds about 3 kilocalories, so the water above it can gain at most about 60 degrees. A home flame loses most of that, and a rise of 5 to 20 degrees is expected. A pocket scale and a real thermometer are needed, and the nuts must weigh about the same. Nobody with a nut allergy should be near the test. Rice Before and After: 50 grams of rice with 150 millilitres of water, cooked covered for 15 minutes, should leave about 120 to 160 grams of cooked rice, and the steps say what to do if water remains. The game cards use rounded numbers close to the Indian food tables, not exact values. Facts to verify before release: the daily energy range for children aged 6 to 10 (1,700 to 2,000 kilocalories), the calcium in ragi, Kamala Sohonie's neera work, the details of Lavoisier's ice calorimeter and of Marie-Anne Lavoisier's drawings, the results of the Atwater room, and the almond and Hall studies. The videos have no address yet."
+}
