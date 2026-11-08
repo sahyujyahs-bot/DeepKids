@@ -2509,7 +2509,8 @@
     "sci.motion.newtons-laws.L4",
     "sci.motion.describing-motion.L4",
     "sci.motion.momentum.L4",
-    "sci.motion.swings-and-pendulums.L4"
+    "sci.motion.swings-and-pendulums.L4",
+    "sci.motion.spinning.L4"
    ],
    "chapters": []
   },
@@ -2612,7 +2613,8 @@
     "sci.sky.birth-of-solar-system.L4",
     "sci.sky.other-worlds.L4",
     "sci.sky.the-sun.L4",
-    "sci.sky.moon-phases.L4"
+    "sci.sky.moon-phases.L4",
+    "sci.sky.stargazing.L4"
    ],
    "chapters": [
     "N4-10",
@@ -2674,7 +2676,8 @@
     "sci.states.expanding-when-hot.L4",
     "sci.states.plasma.L4",
     "sci.states.dissolving.L4",
-    "sci.states.evaporation-and-condensation.L4"
+    "sci.states.evaporation-and-condensation.L4",
+    "sci.states.liquids-up-close.L4"
    ],
    "chapters": [
     "C4-3.2",
@@ -14314,6 +14317,48 @@
     "sci.states.solids-liquids-gases.L2"
    ],
    "go_deep": [
+    "sci.states.liquids-up-close.L4"
+   ],
+   "go_wide": [
+    "sci.states.particles.L3",
+    "sci.states.evaporation-and-condensation.L3",
+    "sci.states.dissolving.L3",
+    "sci.states.crystals.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.time.duration.L3",
+     "chapters": [
+      "C3-Gt"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:106"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.states.liquids-up-close.L4",
+   "subject": "sci",
+   "topic": "states",
+   "topic_name": "Solids, liquids, gases and particles",
+   "strand": "Matter",
+   "topic_level": "sci.states.L4",
+   "subtopic": "liquids-up-close",
+   "name": "Liquids up close: thick, thin and stretchy skin",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Liquids up close: why water pushes harder the deeper you go.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.states.liquids-up-close.L3"
+   ],
+   "go_deep": [
     "sci.states.liquids-up-close.L5"
    ],
    "go_wide": [
@@ -14353,8 +14398,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.states.liquids-up-close.L3",
-    "sci.states.solids-liquids-gases.L5"
+    "sci.states.liquids-up-close.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -18155,6 +18199,41 @@
     "sci.motion.kinds-of-motion.L2"
    ],
    "go_deep": [
+    "sci.motion.spinning.L4"
+   ],
+   "go_wide": [
+    "sci.motion.swings-and-pendulums.L3",
+    "sci.motion.newtons-laws.L3",
+    "sci.motion.physics-of-sport.L3",
+    "sci.forces.simple-machines.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:188"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.motion.spinning.L4",
+   "subject": "sci",
+   "topic": "motion",
+   "topic_name": "Motion",
+   "strand": "Physics",
+   "topic_level": "sci.motion.L4",
+   "subtopic": "spinning",
+   "name": "Spinning and turning",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Going round: what keeps a thing in a circle, and why it flies off straight when the pull stops.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.motion.spinning.L3"
+   ],
+   "go_deep": [
     "sci.motion.spinning.L5"
    ],
    "go_wide": [
@@ -18187,8 +18266,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.motion.spinning.L3",
-    "sci.motion.kinds-of-motion.L2"
+    "sci.motion.spinning.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -23139,6 +23217,46 @@
     "sci.sky.stargazing.L1"
    ],
    "go_deep": [
+    "sci.sky.stargazing.L4"
+   ],
+   "go_wide": [
+    "sci.sky.sun-moon-stars.L3",
+    "sci.sky.solar-system.L3",
+    "sci.sky.moon-phases.L3",
+    "sci.sky.exploring-space.L3",
+    "sci.sky.history-of-astronomy.L3",
+    "sci.sky.the-sun.L3",
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.sky.life-beyond-earth.L3",
+    "sci.sky.sun-moon-stars.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:41"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sky.stargazing.L4",
+   "subject": "sci",
+   "topic": "sky",
+   "topic_name": "Sun, Moon, stars and planets",
+   "strand": "Earth and space",
+   "topic_level": "sci.sky.L4",
+   "subtopic": "stargazing",
+   "name": "Stargazing",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Reading the night sky: why the stars turn, how the Pole Star shows where you are, and how astronomers measure a star's distance.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sky.stargazing.L3"
+   ],
+   "go_deep": [
     "sci.sky.stargazing.L5"
    ],
    "go_wide": [
@@ -23176,7 +23294,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.sky.stargazing.L3"
+    "sci.sky.stargazing.L4"
    ],
    "go_deep": [],
    "go_wide": [
