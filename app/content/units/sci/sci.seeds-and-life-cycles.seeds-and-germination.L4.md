@@ -246,6 +246,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. Give each player a mat and six seeds. 2. Shuffle the cards and put them face down. 3. Choose the first reader.  
   *Parent says:* In this game you are seeds in a field. Each round shows a sign about the weather. You choose how many seeds to wake. A good rain makes them grow. A bad spell loses them.  
   *Child mode:* Put six seeds on your mat. The cards are the weather. You choose when to wake.
+  - Note: Seeds are small, so keep them away from toddlers and out of mouths. No printer? Write each card on a small slip of paper. With one child and a parent, both play and take turns as reader. Playing alone, turn the card so only the sign shows, write your choice, then turn it over.
 - **s2 (4 min)**  
   *Parent does:* Play one practice round. The reader turns over a card and reads only the sign. Each player picks a number of seeds, then the reader reads the back.  
   *Parent says:* The sign is only a clue. It may be a good clue or a trick. How many seeds will you wake? Why that many?  
@@ -277,6 +278,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* Look through all 20 cards face up together for two minutes. Then shuffle them and lay them face down in four rows of five.  
   *Parent says:* Every seed waits for a key. Some keys are rubs or cold. Some are rain. Let's read the cards first, then play.  
   *Child mode:* Read all 20 cards. Then mix them and lay them face down.
+  - Note: No printer? Write each of the 20 lines on a small slip of paper. Two to four players take turns. One child plays alone and counts turns. Before the first game, let your child guess three matches out loud.
 - **s2 (3 min)**  
   *Parent does:* Do one practice pair. Pick the tamarind seed and the matching key together. Read both cards aloud.  
   *Parent says:* The tamarind seed has a coat so hard that water hardly gets in. What key would help the seed? Why?  
@@ -314,13 +316,13 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. Wet a cloth and squeeze it until no water drips. 2. Lay it flat on plate A. 3. Count 30 moong onto the cloth, in three rows of ten. 4. Do the same on plate B. 5. Cover each plate with another plate. 6. Write the start time.  
   *Parent says:* We start the clock when the seeds touch the wet cloth. Count thirty seeds in three rows of ten. Cover the plates so the cloth stays damp.  
   *Child mode:* Wet two cloths. Put 30 seeds on each. Cover the plates. Write the time.
-  - Note: Keep both plates in the same warm place, away from direct sun. If you have only one packet, take plate B's seeds from the same packet. That is a useful test too, because it shows how different two plates from one packet can be. Do not eat these seeds.
+  - Note: Keep both plates in the same warm place, away from direct sun. If you have only one packet, take plate B's seeds from the same packet. That is a useful test too, because it shows how different two plates from one packet can be. Do not eat these seeds. Start at about 8 in the morning or 8 in the evening, so that every count falls at an easy hour. Write the real time of each count and use those real hours on the graph. One child: do both plates. Two to four children: each child looks after one plate, one child reads the clock and one writes the numbers, and a second child checks every count. In hot weather over 35 degrees, look at the cloth twice a day, because wet seeds can turn sour.
   - Check: Why do we start the clock when the seeds touch the wet cloth? → **So every seed starts the count at the same moment**
 - **s3 (6 min)**  
   *Parent does:* 1. Look at the clock. 2. Count the seeds with a white root on plate A. 3. Count plate B. 4. Write both numbers. 5. Cover the plates. Do this at 12 hours and again at 24 hours.  
   *Parent says:* Only count a seed when you can see a white tail. Write how many have a root so far, not only the new ones.  
   *Child mode:* Count the seeds with a white tail. Write the number so far.
-  - Note: Leave the seeds where they are, so the rows stay clear. In a warm room, expect the first roots at 12 to 20 hours. In a cold room everything is later, so add counts at 60 and 72 hours. If the cloth feels dry, add a few drops of water.
+  - Note: Leave the seeds where they are, so the rows stay clear. In a warm room, the first roots usually show between 12 and 24 hours, but these hours are only typical. A root counts when the white tail is at least as long as the seed is thick. In a cold room everything is later, so add counts at 60 and 72 hours. If the cloth feels dry, add a few drops of water.
   - Wait: Count again after 12 hours and after 24 hours
 - **s4 (6 min)**  
   *Parent does:* Count both plates at 36 hours and at 48 hours. Write the numbers. Add a few drops of water if the cloth is dry.  
@@ -344,7 +346,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then compare plate A with plate B.  
   *Parent says:* What do you think about seeds from one packet? What did you see in your counts? Why do you think it happened?  
   *Child mode:* Say three things. What I think. What I saw. Why. Compare plates A and B.
-  - Note: A good answer sounds like this. What I think: seeds from one packet wake at different times. What I saw: 4 seeds had a root at 12 hours, 15 at 24 hours and 29 by 96 hours, and the last one took four days. Why: each seed is a little different, so water and warmth reach each baby plant at different speeds. The old packet is usually slower and ends with fewer. If plates A and B were close but not equal, say that too. It shows how much a test can wobble.
+  - Note: A good answer sounds like this. What I think: seeds from one packet wake at different times. What I saw (made-up numbers): 4 seeds had a root at 12 hours, 15 at 24 hours and 29 by 96 hours, and the last one took four days. Why: each seed is a little different, so water and warmth reach each baby plant at different speeds. The old packet is usually slower and ends with fewer. If plates A and B were close but not equal, say that too. It shows how much a test can wobble.
   - Think: If all thirty seeds had woken in the same hour, what could go wrong in a field?
 ### e2 · How Deep? A tiny seed and a big seed at three depths (49 min, 9 days)
 - **question:** How deep can a tiny mustard seed and a big chana be sown and still reach the top?
@@ -366,10 +368,10 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Child mode:* Soak the chana. Label six tumblers with the seed and the depth.
   - Note: Pick any soil that is loose and crumbly, such as the soil from a flower pot. Sandy soil or packet potting soil also works. If the tumblers have no holes, you must water very little, or the chana will rot.
 - **s3 (14 min)**  
-  *Parent does:* 1. Put 2 centimetres of soil in each tumbler. 2. Press 8 mustard seeds, or 6 chana, into the top of the soil, spaced apart. 3. Pour soil on top. Make it 1, 3 or 6 centimetres deep, as the label says. 4. Check the depth with a ruler. 5. Add 2 teaspoons of water. 6. Put all six in the same bright place.  
+  *Parent does:* 1. Wet the soil in a bowl until it feels like a wrung-out cloth. 2. Put 2 centimetres of damp soil in each tumbler. 3. Press 8 mustard seeds, or 6 chana, onto the soil, spaced apart. 4. Pour more damp soil on top, to 1, 3 or 6 centimetres as the label says. 5. Check each depth with a ruler. 6. Sprinkle 1 teaspoon of water on top. 7. Cover each tumbler and put all six in the same bright place.  
   *Parent says:* The depth is the soil on top of the seeds. Use a ruler to check. Water each tumbler the same amount.  
   *Child mode:* Sow the seeds. Check each depth with the ruler. Give each tumbler the same water.
-  - Note: Do not press the soil down hard. Keep it loose. The tumblers need a bright spot that is warm, but out of hot direct sun. Water a little every second day, so the soil is damp but never soggy.
+  - Note: Do not press the soil down hard. Keep it loose. The tumblers need a bright spot that is warm, but out of hot direct sun. Water a little every second day, so the soil is damp but never soggy. The soil must be equally damp all the way down. If only the top is wet, the deep seeds get no water and the test is unfair. Take the covers off when the first shoots show. In hot weather the soil dries fast, so look every day. One child: do all six tumblers. Two to four children: each child takes one seed kind or one depth, one child measures with the ruler and one waters, all with the same spoon.
   - Check: Why does every tumbler get the same soil, the same water and the same place? → **So only the seed and the depth are different**
 - **s4 (4 min)**  
   *Parent does:* Look at each tumbler. Count the green shoots that have come up through the soil. Write the numbers in the table.  
@@ -387,13 +389,13 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent says:* Look at the seeds that never reached the top. They are not just lying there. What do you see?  
   *Child mode:* Tip out the tumblers. Look at the seeds that did not reach the top.
   - Ask: What do you notice about the shoots that did not reach the top? (good: They are pale and thin.; They grew a long way, then stopped.; The seed looks shrivelled, because the food was used.)
-  - Note: Deep mustard seeds usually did sprout. You will probably find thin, pale, curled shoots that stopped under the soil. The seed leaves are shrivelled because the food is gone. If the deep chana has not come up yet, wait two more days before you tip it out.
+  - Note: Deep mustard seeds often did sprout, but the shoots are tiny. Tip each tumbler onto white paper and sift gently with a spoon. You may find thin, pale, curled shoots that stopped under the soil. The seed leaves are shrivelled because the food is gone. If the deep chana has not come up yet, wait two more days before you tip it out. Look for a pale curl 1 to 3 centimetres long, and use a magnifier if you have one. If you cannot find any, write that down. It is a result too.
   - Wait: Count 7 days after sowing, then dig
 - **s7 (7 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think about seed size and depth? What did you see? Why do you think it happened?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: a bigger seed can be sown deeper. What I saw: 7 of 8 mustard seeds came up from 1 centimetre, none from 6 centimetres, and the chana came up from 6 centimetres. Why: a shoot grows in the dark using the seed's food. The chana has a big food store, and the mustard seed has a tiny one, so the mustard shoot ran out of food before the shoot reached the light. Your results may differ. Write down what you got.
+  - Note: A good answer sounds like this. What I think: a bigger seed can be sown deeper. What I saw (example numbers): 7 of 8 mustard seeds came up from 1 centimetre, none from 6 centimetres, and the chana came up from 6 centimetres. Why: a shoot grows in the dark using the seed's food. The chana has a big food store, and the mustard seed has a tiny one, so the mustard shoot ran out of food before the shoot reached the light. Your results may differ. Write down what you got.
   - Think: A tiny seed has little food. What does a tiny seed need that a chana does not need?
 ### e3 · The Pale Search: what happens to a seedling that never sees light? (36 min, 6 days)
 - **question:** How does a moong seedling grow in the dark, compared with one by a window? What happens when the dark one gets light?
@@ -402,7 +404,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **safety:** Do not eat the seedlings from this test. Throw away any that smell sour. Wash your hands afterwards.
 - **record:** Fill in the table on days 3, 5 and 6. Draw one dark shoot and one window shoot side by side. Write the colour of each. On day 6, draw the moved cup.
 - **results table:** Day | Dark cup: shortest and tallest shoot (cm) | Window cup: shortest and tallest shoot (cm) | Colour of the dark shoots | Colour of the window shoots
-- **schedule:** day 1: Guess. Line two cups with tissue. Press 5 soaked moong between the tissue and the cup. Put one cup in the dark and one by a window. (14 min); day 3: Take a quick look and measure the shoots in both cups. (6 min); day 5: Measure both cups. Draw them. Then move the dark cup to the window. (8 min); day 6: Look at the moved cup. Say what you think, what you saw and why. (8 min)
+- **schedule:** day 1: Soak the moong the night before. Guess. Line two cups with tissue. Press 5 soaked moong between the tissue and the cup. Put one cup in the dark and one by a window. (14 min); day 3: Take a quick look and measure the shoots in both cups. (6 min); day 5: Measure both cups. Draw them. Then move the dark cup to the window. (8 min); day 6: Look at the moved cup. Say what you think, what you saw and why. (8 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the cups, the seeds and the dark box. Ask for a guess and a reason. Write it in the table.  
   *Parent says:* We will grow moong in two places. One cup stays in the dark. One sits by a window. After five days, which will be taller? What colour will each be? Why do you think so?  
@@ -413,7 +415,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. Line each cup with a sheet of tissue. 2. Press five soaked moong between the tissue and the cup, halfway up. 3. Pour 1 centimetre of water into the bottom. 4. Put one cup in the dark box. 5. Put the other by a bright window, out of hot sun.  
   *Parent says:* The tissue holds the seeds against the glass. The water soaks up the tissue. One cup goes in the dark. The other goes by the window.  
   *Child mode:* Line two cups with tissue. Press in five seeds. Add a little water. One goes in the dark.
-  - Note: Put the dark cup in a warm place that stays dark, such as a closed box in a cupboard. A box with the lid on is good. The window cup should be warm, but out of the hottest sun.
+  - Note: Put the dark cup in a warm place that stays dark, such as a closed box in a cupboard. A box with the lid on is good. The window cup should be warm, but out of the hottest sun. Use two layers of tissue so that the water climbs well. A steel dabba left in the sun gets hot and cooks the seeds, so keep the dark cup in a cupboard. If the water turns cloudy or smells sour, pour it out and add fresh water. One child: look after both cups. Two to four children: each child sets up a pair of cups, dark and window, with 5 seeds each. Then compare the pairs. One child measures and one writes. Count only the seeds that grew. Measure from the seed to the tip of the shoot.
   - Check: Why do both cups get the same seeds, the same tissue and the same water? → **So only the light is different**
 - **s3 (6 min)**  
   *Parent does:* 1. Check both cups after two days. 2. Add water to keep 1 centimetre at the bottom. 3. Open the dark box for less than one minute, in a dim room. 4. Measure the shortest and tallest shoot in each cup. 5. Close the box.  
@@ -440,14 +442,14 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think about seedlings in the dark? What did you see? Why do you think it happened?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: a seedling in the dark stretches to search for light. What I saw: the dark shoots were 9 centimetres and pale, and the window shoots were 5 centimetres and green. Why: in the dark the seedling spends the food in the seed on growing long. Light tells the seedling to turn green and open their leaves.
+  - Note: A good answer sounds like this. What I think: a seedling in the dark stretches to search for light. What I saw (example numbers): the dark shoots were 9 centimetres and pale, and the window shoots were 5 centimetres and green. Why: in the dark the seedling spends the food in the seed on growing long. Light tells the seedling to turn green and open their leaves.
 ### e4 · The Locked Seed: what does a tamarind seed need before water can get in? (35 min, 3 days)
 - **question:** Does a tamarind seed with a hard coat swell in water? Does thinning the coat make a difference?
 - **predict:** Before you start, guess. After two days in water, which seeds will be bigger, the untouched ones or the rubbed ones? Why do you think so?
-- **fair test:** Both groups have 6 tamarind seeds from the same pulp, the same cup of water and the same warm place. The only difference is whether the coat has been rubbed. We weigh both groups at the start and after two days.
-- **safety:** A grown-up helps with the rubbing. Rub away from your fingers. Never use a knife, scissors or pliers to crack a seed. Tamarind seeds are small, so keep them away from toddlers.
+- **fair test:** Both groups have 6 tamarind seeds from the same pulp, the same cup of water and the same warm place. The only difference is whether the coat has been rubbed. We press-test both groups the same way, and weigh them if we have a scale.
+- **safety:** A grown-up helps with the rubbing. Rub away from your fingers, over a plate, and do not blow the dust. Never use a knife, scissors or pliers to crack a seed. Tamarind seeds are small, so keep them away from toddlers.
 - **record:** Write the weights in the table at the start, after 24 hours and after 48 hours. Draw one seed from each group. Write whether each feels hard or soft.
-- **results table:** Group | Weight at the start (grams) | Weight after 24 hours (grams) | Weight after 48 hours (grams) | Do the seeds feel soft or hard?
+- **results table:** Group | Weight at the start (grams) | Weight after 24 hours (grams) | Weight after 48 hours (grams) | Do the seeds feel soft or hard? | Press score of the 6 seeds at 24 and 48 hours (0 hard, 1 a little soft, 2 soft; most possible 12)
 - **schedule:** day 1: Guess. Rub 6 seeds. Weigh both groups and put them in water. (20 min); day 2: Weigh both groups and press the seeds. (5 min); day 3: Weigh both groups. Say what you think, what you saw and why. (10 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the tamarind seeds and the sandpaper. Ask for a guess and a reason. Write it in the table.  
@@ -464,31 +466,31 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. Weigh the six rubbed seeds and write the weight. 2. Weigh the six untouched seeds and write the weight. 3. Put each group in its own bowl. 4. Cover them with plenty of water. 5. Label the bowls.  
   *Parent says:* Weigh each group. Write the weight. Then cover them with water. Label the bowls so you know which is which.  
   *Child mode:* Weigh each group. Cover each with water. Label the bowls.
-  - Note: Dry the seeds on a cloth before weighing. If your scale only shows whole grams, six seeds weigh about 3 grams. You can still see a doubling. If you have no scale, use the press test instead: a swollen seed feels softer and looks bigger.
+  - Note: Dry the seeds on a cloth before weighing. If your scale only shows whole grams, six seeds weigh about 3 grams. You can still see a doubling. If you have no scale, the press score is your measurement. Press each seed with a fingernail. Score each seed 0 (hard), 1 (a little soft) or 2 (soft). Six seeds can score 12 at most. Tamarind from a block may be too old to sprout. That does not matter, because this test is about water getting in, not sprouting. One child: do both groups. Two to four children: one team for the rubbed seeds and one for the untouched seeds, with one child to press, one to weigh and one to write.
   - Check: Why do we weigh both groups at the start? → **So we know how much each group changes**
 - **s4 (5 min)**  
-  *Parent does:* After 24 hours, take the seeds out, dab them dry and weigh each group again. Press a fingernail on one seed from each group. Put them back in the water.  
+  *Parent does:* After 24 hours, take the seeds out and dab them dry. Weigh each group. Press each seed with a fingernail and give each seed a score. Put the seeds back in fresh water.  
   *Parent says:* Weigh each group again. Press a seed from each bowl. Which is softer? Which is heavier?  
   *Child mode:* Weigh each group. Press one seed. Which feels softer?
   - Wait: Weigh after 24 hours
 - **s5 (6 min)**  
-  *Parent does:* After 48 hours, weigh both groups again. Write the weights and press a seed from each group. Ask your child to say what they see.  
+  *Parent does:* After 48 hours, weigh both groups again. Press and score each seed again. Write the weights and scores. Ask your child to say what they see.  
   *Parent says:* It has been two days. Which group has changed? How much heavier is it? Which is still hard?  
   *Child mode:* Weigh both groups again. Which changed? Which is still hard?
-  - Note: Rubbed seeds usually swell within a day, and the weight goes up a lot, often by half or more. Untouched seeds usually stay hard, though a few may swell slowly. If your results are different, write down what you saw, because that is a result too.
+  - Note: Rubbed seeds usually swell within a day, and the weight typically goes up by half or more. Untouched seeds usually stay hard, though a few may swell slowly. If your results are different, write down what you saw, because that is a result too.
   - Wait: Weigh after 48 hours
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think a hard coat does? What did you see? Why do you think it happened?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: a hard coat keeps water out until it is thinned. What I saw: the rubbed seeds weighed 6 grams after 48 hours and the untouched seeds stayed at 3. Why: water could get through the dull patch, but not through the hard coat. In nature, the coat is thinned by time, soil, fire, or by the gut of an animal that eats the fruit.
+  - Note: A good answer sounds like this. What I think: a hard coat keeps water out until it is thinned. What I saw (example numbers): the rubbed seeds weighed 6 grams after 48 hours and the untouched seeds stayed at 3. Why: water could get through the dull patch, but not through the hard coat. In nature, the coat is thinned by time, soil, fire, or by the gut of an animal that eats the fruit.
   - Think: In the wild, no one rubs the seed on sandpaper. What might thin the coat there?
 
 ## Activities
 ### a1 · Iodine on a Seed: where is the food kept? (37 min, 7 days)
-- **safety:** A grown-up handles the iodine and the knife. Iodine stains skin and clothes. Never taste it or the foods you test with it. Wash your hands afterwards. Do not use iodine if anyone is allergic to it.
-- **record:** Draw a chana opened in half and colour it as the iodine showed. Draw the soaked half and the sprouted half side by side. Write which part turned darkest.
-- **schedule:** day 1: Guess. Soak 6 chana overnight, then spread them on a damp cloth to sprout. (8 min); day 3: Rinse the sprouting chana and keep the cloth damp. (2 min); day 6: Soak 6 fresh chana overnight. (3 min); day 7: Test the potato, the cucumber and both groups of chana with iodine. Say what you think, what you saw and why. (24 min)
+- **safety:** A grown-up handles the iodine and the knife. Iodine stains skin and clothes. Never taste it or the foods you test with it. Wash your hands afterwards. Do not use iodine if anyone is allergic to it. Keep the cup of iodine water away from small children.
+- **record:** Draw a chana opened in half and colour it as the iodine showed. Draw the soaked half and the sprouted half side by side. Write which part turned darkest. Score the darkness of the big halves and of the baby plant from 0 (no change) to 5 (blue-black), for the soaked chana and the sprout.
+- **schedule:** day 1: Guess. Soak 6 chana overnight, then spread them on a damp cloth to sprout. (8 min); day 3: Rinse the sprouting chana, and rinse them again every day until the test. Twice a day in hot weather. Keep the cloth damp. (2 min); day 6: Soak 6 fresh chana overnight. (3 min); day 7: Test the potato, the cucumber and both groups of chana with iodine. Say what you think, what you saw and why. (24 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Soak six chana overnight. 2. The next day, drain them and spread them on a damp cloth. 3. Cover the cloth with a plate. 4. Ask your child to guess which part of a chana holds the food.  
   *Parent says:* Inside a chana there is food for the baby plant. Where do you think the food is kept? How could we find out? What do you think happens to it when the seed sprouts?  
@@ -496,10 +498,10 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Ask: Which part of a chana do you think holds the food? (good: The big halves.; The skin.; The baby plant in the middle.)
   - Note: Do not correct the guess. The chana on the cloth need six days to sprout. Rinse them with a little water and keep the cloth damp, but not soaked.
 - **s2 (2 min)**  
-  *Parent does:* Rinse the sprouting chana with a little water. Squeeze out the extra. Cover them again.  
+  *Parent does:* Rinse the sprouting chana with a little water. Squeeze out the extra. Cover them again. Do this every day, and twice a day in hot weather.  
   *Parent says:* The chana are waking. Keep them damp. We will test them in a few days.  
   *Child mode:* Rinse the sprouting chana. Keep the cloth damp.
-  - Wait: Rinse on day 3, and keep the cloth damp until day 7
+  - Wait: Rinse every day until the test, and keep the cloth damp
 - **s3 (3 min)**  
   *Parent does:* Soak six more chana in water overnight. These are the soaked-only group.  
   *Parent says:* These chana will soak overnight. Tomorrow we will compare them with the sprouts.  
@@ -509,14 +511,14 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. In a small cup, mix a few drops of iodine in water until it is the colour of weak tea. 2. A grown-up cuts a slice of potato and a slice of cucumber. 3. Dab a little iodine on each slice with a cotton bud. 4. Watch the colours.  
   *Parent says:* Potato is full of starch. Cucumber has hardly any. Watch the colours. This is our starch detector.  
   *Child mode:* A grown-up mixes the iodine. Dab it on potato and cucumber. Which turns dark?
-  - Note: Use a little iodine, so the colour is like weak tea. Too much makes everything brown and hides the change.
+  - Note: Use a little iodine, so the colour is like weak tea. Too much makes everything brown and hides the change. Povidone iodine such as Betadine is brown and gives a weaker blue-black than tincture of iodine. If the potato does not turn dark, add a few more drops. If it still does not, the iodine is too old.
   - Check: Iodine turns blue-black on the potato and stays brown on the cucumber. What does that tell you? → **The potato has starch and the cucumber has very little**
 - **s5 (11 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up splits one soaked chana in half with a thumbnail or a knife. 2. Dab iodine on the cut face. 3. Look at the big halves and at the small baby plant. 4. Do the same with a sprouted chana. 5. Compare the colours.  
+  *Parent does:* 1. A grown-up splits one soaked chana in half with a thumbnail or a knife. 2. Dab iodine on the cut face. 3. Look at the big halves and at the small baby plant. 4. Do the same with a sprouted chana. 5. Score the darkness of each part from 0 to 5. 6. Compare the scores.  
   *Parent says:* Look at the soaked chana first. Which part turned darkest? Then look at the sprout. Is it the same, lighter or darker?  
   *Child mode:* Dab iodine on a split chana. Look at the big halves and the baby plant. Compare the sprout.
   - Ask: What do you notice about the baby plant and the big halves? (good: The big halves went dark.; The baby plant stayed lighter.; The sprout is less dark than the soaked seed.)
-  - Note: The big halves of the soaked chana usually turn deep blue-black, because they are packed with starch. The tiny baby plant is usually lighter. The six-day sprout may be a little paler, or dark in patches, because the seedling has used some starch. If both look the same, the seedling has used only a little so far. A plant takes a couple of weeks to empty a store. Write down what you really see.
+  - Note: The big halves of the soaked chana usually turn deep blue-black, because they are packed with starch. The tiny baby plant is usually lighter. The six-day sprout may be a little paler, or dark in patches, because the seedling has used some starch. If both look the same, the seedling has used only a little so far. A plant takes a couple of weeks to empty a store. Write down what you really see. Test three chana from each group, because seeds differ. One child: score all six. Two to four children: each child scores and draws one chana while the grown-up dabs.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think about where the food is kept? What did you see? Why do you think it happened?  
@@ -524,18 +526,18 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Note: A good answer sounds like this. What I think: the big halves hold the food, which is starch. What I saw: the big halves turned dark blue-black and the baby plant stayed pale. The sprout was paler than the soaked seed. Why: the baby plant uses up starch from the big halves as they grow.
   - Think: A sprout uses starch from the big halves. Where does the starch go?
 ### a2 · Packet Detective: read a seed packet and choose (20 min)
-- **record:** Write a table with three rows, A, B and C. For each, write the germination percentage, the age, and how many seeds you would sow to get 30 plants. Then write which one you would buy and why.
+- **record:** Write a table with three rows, A, B and C. For each, write the germination percentage, the age, and how many seeds you would sow to get 30 plants, and what those seeds cost. Then write which one you would buy and why.
 - **s1 (4 min)**  
-  *Parent does:* Read the three labels aloud. Packet A: 90 percent germination, packed ten months ago. Packet B: 70 percent, packed two months ago. Packet C: loose seeds in a bag, no label. Ask which packet your child would buy and why.  
-  *Parent says:* Three packets of moong seed. Packet A says ninety percent sprouted, packed ten months ago. Packet B says seventy percent, packed two months ago. Packet C has no label. Which would you buy? Why?  
+  *Parent does:* Read the three labels aloud. Packet A: 90 percent germination, packed ten months ago, Rs 40 for 100 seeds. Packet B: 70 percent, packed two months ago, Rs 30 for 100 seeds. Packet C: loose seeds in a bag, no label. Ask which packet your child would buy and why.  
+  *Parent says:* Three packets of moong seed. Packet A says ninety percent sprouted, packed ten months ago, and costs forty rupees for a hundred seeds. Packet B says seventy percent, packed two months ago, and costs thirty rupees. Packet C has no label. Which would you buy? Why?  
   *Child mode:* Packet A: 90 percent sprout, packed 10 months ago. Packet B: 70 percent, packed 2 months ago. Packet C has no label. Which would you buy?
   - Ask: Which packet would you buy, and why? (good: A, because it has the highest number.; B, because it is newer.; C is a risk, because we know nothing about it.)
   - Note: Do not correct the guess. There is no single right answer. Seeds lose their power to sprout as they get older, so a number measured ten months ago may be lower today. Ask what could be different now.
 - **s2 (6 min)**  
-  *Parent does:* 1. Write the three packets in a table. 2. Add a column called Seeds to sow. 3. You want 30 plants. Work out how many seeds to sow from A and from B.  
+  *Parent does:* 1. Write the three packets in a table. 2. Add columns called Seeds to sow and Cost. 3. You want 30 plants. Work out how many seeds to sow from A and from B. 4. Work out what those seeds cost.  
   *Parent says:* You want thirty plants. Packet A says ninety out of every hundred sprout. How many seeds should you sow to get thirty? Try Packet B too.  
   *Child mode:* You want 30 plants. How many seeds from packet A? From packet B?
-  - Note: For packet A, 90 percent means 9 of every 10 sprout. 30 plants need 30 divided by 9 lots of 10, so about 34 seeds. For packet B, 30 plants need about 43 seeds. Round up, because you cannot sow part of a seed.
+  - Note: For packet A, 9 of every 10 seeds sprout. Sow 30 seeds and you get 27 plants. You need 3 more plants, which takes about 4 more seeds. So sow 34 seeds. For packet B, 7 of every 10 sprout. Sow 40 seeds and you get 28 plants. You need 2 more, which takes about 3 more seeds. So sow 43 seeds. At the prices above, 34 seeds of A cost about Rs 13.60 and 43 seeds of B cost about Rs 12.90. The costs are close, so age may decide the choice. Round up, because you cannot sow part of a seed. With two to four children, each works out one packet, then swaps to check.
   - Check: A packet says 70 percent germination. You want 35 plants. How many seeds should you sow? → **50 seeds**
 - **s3 (6 min)**  
   *Parent does:* Ask your child to think about what the labels do not say. Ask about age, how the packet was stored, and whether Packet C could be tested.  
@@ -552,24 +554,24 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 ### a3 · Seeds That Cannot Wait: jackfruit or mango seeds, fresh and dried (37 min, 22 days)
 - **safety:** Jackfruit sap is sticky, so rub a little cooking oil on your hands first. Mango skin and sap can irritate some people's skin, so a grown-up handles the mango stones. Do not eat the seeds from this test, because they are tested raw. Wash your hands afterwards.
 - **record:** Write the weight of each group at the start and after 7 days. Write how many seeds sprouted in each pot after three weeks.
-- **schedule:** day 1: Guess. Weigh 5 fresh seeds and 5 chana. Leave them to dry. Sow 5 fresh seeds. (14 min); day 8: Weigh the dried seeds. Sow the dried seeds. (10 min); day 22: Count the sprouts in both pots. Say what you think, what you saw and why. (13 min)
+- **schedule:** day 1: Guess. Weigh 5 fresh seeds and 5 chana. Leave them to dry. Sow 5 fresh seeds. (14 min); day 8: Weigh the dried seeds. Sow the dried seeds. (10 min); day 22: Count the sprouts in both pots. If the Fresh pot is bare, wait two more weeks and count again. Say what you think, what you saw and why. (13 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the fresh jackfruit seeds and the dry chana. Ask what will happen to each when left on a plate for a week.  
   *Parent says:* Jackfruit seeds are wet inside, and chana is dry. We will leave some of each on a plate for a week. What will happen to the jackfruit seeds? Will they still sprout?  
   *Child mode:* A jackfruit seed is wet inside. Chana is dry. What happens if you dry them? Why?
   - Ask: What do you think drying will do to a jackfruit seed? (good: The seed will shrink.; The seed will still sprout later.; The seed will die.)
-  - Note: Do not correct the guess. Many children think that every seed can wait. Write down their reason.
+  - Note: Do not correct the guess. Many children think that every seed can wait. Write down their reason. This activity only works in season, which is about April to July for jackfruit and April to June for mango. Out of season, skip it and watch the video instead. Do not buy dried or roasted seeds, because they will not sprout.
 - **s2 (10 min)**  
   *Parent does:* 1. Wash the sticky pulp off ten fresh seeds. 2. Weigh five of them, and weigh five chana. Write both weights. 3. Put them on a plate in a shady, airy place. 4. Sow the other five fresh seeds 2 centimetres deep in a pot of damp soil. 5. Label the pot Fresh.  
   *Parent says:* Weigh five jackfruit seeds and five chana. Write the numbers. Sow five fresh seeds right away.  
   *Child mode:* Weigh five jackfruit seeds and five chana. Leave them to dry. Sow five fresh seeds.
-  - Note: Keep the dried seeds out of the sun and away from rain. Keep the Fresh pot damp but not soggy, in a warm place.
+  - Note: Keep the dried seeds out of the sun and away from rain. Keep the Fresh pot damp but not soggy, in a warm place. Pots need a hole in the bottom, or very little water. One child: look after both pots. Two to four children: one child owns the Fresh pot, one owns the Dried pot, and the others weigh, label and water.
   - Check: Why do we sow five of the fresh seeds right away? → **So we have a comparison with the dried seeds**
 - **s3 (4 min)**  
   *Parent does:* After seven days, weigh the dried jackfruit seeds and the chana. Write both weights. Look at the dried seeds.  
   *Parent says:* A week has passed. Weigh them again. Which lost weight? What do the dried jackfruit seeds look like?  
   *Child mode:* Weigh the seeds again. Which lost weight? What do they look like now?
-  - Note: The jackfruit seeds should be clearly lighter and wrinkled, because they were full of water. The chana should have lost almost nothing, because the chana was already dry.
+  - Note: The jackfruit seeds should be clearly lighter and wrinkled, because they were full of water. The chana should have lost almost nothing, because the chana was already dry. In a damp monsoon room the chana may even gain a gram. Write what you see.
   - Wait: Weigh after 7 days
 - **s4 (6 min)**  
   *Parent does:* Sow the dried jackfruit seeds 2 centimetres deep in the second pot of damp soil. Label it Dried. Keep both pots damp and in the same warm place.  
@@ -579,7 +581,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* After three weeks, look at both pots. Count the shoots in each pot. Gently dig up a few seeds that did not sprout and look at them.  
   *Parent says:* Count the shoots in the Fresh pot and in the Dried pot. Which is better? What do the seeds that did not sprout look like?  
   *Child mode:* Count the shoots in both pots. Dig up one seed that did not sprout.
-  - Note: Fresh seeds can take two to six weeks to sprout, so if the Fresh pot is still bare at three weeks, wait longer before you decide. Results can vary. Many seeds that dried for a week do not sprout. Write down what you actually find.
+  - Note: Fresh seeds can take two to six weeks to sprout, so if the Fresh pot is still bare at three weeks, wait longer before you decide. Results can vary. Many seeds that dried for a week do not sprout. Write down what you actually find. With only 5 seeds in a pot, one seed changes the result a lot. If the Fresh pot is still bare at three weeks, count again at five weeks.
   - Wait: Look after 3 weeks
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -590,15 +592,15 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 
 ## Projects
 ### p1 · My Seed Library: save, label and test your own seeds (56 min, 16 days)
-- **safety:** A grown-up cuts the fruit. After touching papaya or chilli seeds, wash your hands and do not rub your eyes. Keep small seeds away from toddlers.
+- **safety:** A grown-up cuts the fruit. After touching papaya or chilli seeds, wash your hands and do not rub your eyes. Keep small seeds away from toddlers. Skip any fruit that someone at home is allergic to.
 - **record:** A table for each seed kind: the fruit, the date saved, how many seeds sprouted out of 10, and the percentage. A neat label on each packet.
-- **schedule:** day 1: Choose four ripe fruits. Scoop out the seeds, rinse them and spread them to dry. (12 min); day 2: Turn the seeds over so they dry evenly. (4 min); day 7: Make and label the packets. Set up a germination test with 10 seeds of each kind. (20 min); day 11: Count the seeds that have sprouted. (6 min); day 15: Count again. Work out the percentage. Write it on each packet. (8 min); day 16: Swap a packet with a friend or neighbour, and tell the story of your seed. (6 min)
+- **schedule:** day 1: Choose four ripe fruits. Scoop out the seeds, rinse them and spread them to dry. (12 min); day 2: Turn the seeds over so they dry evenly. (4 min); day 7: Make and label the packets. Set up a germination test with 10 seeds of each kind. (20 min); day 11: Count the seeds that have sprouted. (6 min); day 15: Count again. Work out the percentage for each kind that has sprouted. Slow kinds such as papaya may need until day 21. Write the percentage on each packet. (8 min); day 16: Swap a packet with a friend or neighbour, and tell the story of your seed. (6 min)
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the fruit open. 2. Scoop out the seeds into a bowl. 3. Rinse them in a strainer under slow running water. 4. Rub off the slimy coat. 5. Spread them on paper in the shade.  
   *Parent says:* Every fruit is full of seeds. Each seed is a baby plant. We will keep some of them. Rinse them well, so they do not go mouldy.  
   *Child mode:* Scoop out the seeds. Rinse them. Spread them on paper to dry.
   - Ask: Which fruit do you think has the most seeds? (good: Papaya.; Pumpkin.; Tomato.)
-  - Note: Tomato and papaya seeds are covered in a slimy coat. Rinsing them under water and rubbing with a finger removes most of it. Choose ripe fruit. The seeds from unripe fruit, such as a young cucumber, often do not sprout well. Many shop vegetables are hybrids, so plants from their seeds may look different from the fruit you ate. That is a good thing to notice.
+  - Note: Tomato and papaya seeds are covered in a slimy coat. Rinsing them under water and rubbing with a finger removes most of it. Choose ripe fruit. The seeds from unripe fruit, such as a young cucumber, often do not sprout well. Many shop vegetables are hybrids, so plants from their seeds may look different from the fruit you ate. That is a good thing to notice. Pumpkin and muskmelon are the surest to sprout. Tomato and papaya are slower and less sure, so pick at least one fast kind.
 - **s2 (4 min)**  
   *Parent does:* Turn the seeds over with a finger once a day. Keep them in the shade where air can move. Wait until they feel hard and dry.  
   *Parent says:* Seeds dry best in shade, not in hot sun. Turn them each day. We want them dry, so that they keep.  
@@ -609,13 +611,13 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. Fold four envelopes from paper. 2. Write on each: the name of the plant, the date, which fruit the seeds came from and the number of seeds. 3. Put the dry seeds in. Keep 10 seeds of each kind out for the test.  
   *Parent says:* A good seed packet tells a story. What is the plant? When did you save it? Where did the seed come from?  
   *Child mode:* Make four packets. Write the name and the date on each. Keep ten seeds out for testing.
-  - Note: Add a line for the germination percentage, which you will fill in later.
+  - Note: Add a line for the germination percentage, which you will fill in later. One child: make all four packets. Two to four children: each child takes one or two fruits and keeps their own packets, then you swap at the end.
   - Check: Why do we write the date on a seed packet? → **Seeds get older, and old seeds may not sprout as well**
 - **s4 (12 min)**  
   *Parent does:* 1. Wet a cotton cloth and squeeze it. 2. Lay it flat on a plate. 3. Put 10 seeds of each kind in a row, with a paper label beside each row. 4. Cover with another plate. 5. Keep the cloth damp.  
   *Parent says:* We test each kind of seed. Ten seeds of each. A packet of seeds is only useful if the seeds wake.  
   *Child mode:* Put ten seeds of each kind on a damp cloth. Label each row. Cover the plate.
-  - Note: Different seeds take different times. Pumpkin and melon often show roots in three to five days. Tomato takes five to ten days. Papaya can take two weeks or more. Keep the cloth damp, and be patient.
+  - Note: Different seeds take different times. Pumpkin and melon often show roots in three to five days. Tomato takes five to ten days. Papaya can take two weeks or more. Keep the cloth damp, and be patient. If a seed grows white or grey fuzz, take that seed out, count that seed as not sprouted, and rinse the cloth.
 - **s5 (6 min)**  
   *Parent does:* Count the seeds with a white root in each row. Write the numbers. Add a few drops of water if the cloth is dry.  
   *Parent says:* Which kind is fastest? Which kind is still asleep?  
@@ -637,9 +639,9 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 ## Challenges
 ### c1 · The Dry Vault: keep seeds dry in a damp season (40 min)
 - **problem:** Your family keeps seeds for the next season, but the monsoon air in your kitchen is damp. Design a container that keeps 100 grams of chana dry inside a damp box for three days.
-- **safety:** Do not eat the chana or the salt packets after the test. Wash your hands afterwards. Keep the damp box away from small children.
+- **safety:** Do not eat the chana or the salt packets after the test. A silica packet from a shoe box is not food, so keep it away from toddlers. Wash your hands afterwards. Keep the damp box away from small children.
 - **your turn:** Now invent your own container. Draw it, build it and test it in the damp box. Which container kept the salt packet driest? Why do you think it did?
-- **constraints:** Use only things from your kitchen, such as jars, bags, cloth, foil and rubber bands.; Each container gets 100 grams of chana and one salt packet. The salt packet is a level teaspoon of salt wrapped in a paper napkin.; Every container goes into the same damp box for three days.; You may not use a stove, sun or a heater.
+- **constraints:** Use only things from your kitchen, such as jars, bags, cloth, foil and rubber bands.; Each container gets 100 grams of chana and one salt packet. The salt packet is a level teaspoon of salt wrapped in a paper napkin.; Every container goes into the same damp box for three days.; You may not use a stove, sun or a heater.; Put one more salt packet alone in the damp box, with no container, and keep one in a dry cupboard. These two show wet and dry for comparison.
 - **general:** A jar with a tight lid, the way many families store dal and seeds.; A clean steel dabba with a rubber seal.; A jar with a spoon of dry rice or a silica packet inside to soak up any damp.
 - **creative:** Two containers, one inside the other, with a layer of dry rice between them.; A jar with a lid, wrapped in a plastic bag and tied, with a dry rice packet inside.; A pot of dry ash or clay under the seeds, as some farmers use, to soak up moisture.
 - **s1 (8 min)**  
@@ -648,23 +650,23 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Child mode:* Draw two or three ways to keep chana dry. Think about air and water.
   - Ask: Why might a sealed jar keep the chana dry? (good: It keeps damp air out.; No air gets in.; The jar is waterproof.)
 - **s2 (16 min)**  
-  *Parent does:* 1. Weigh 100 grams of chana for each design. 2. Wrap a level teaspoon of salt in a paper napkin and tie it. 3. Put the chana and a salt packet in each container. 4. Make the damp box with a cup of water inside. 5. Put every container in the box. 6. Close the lid.  
+  *Parent does:* 1. Weigh 100 grams of chana for each design, if you have a scale. 2. Wrap a level teaspoon of salt in a paper napkin and tie it. Make six packets. 3. Put the chana and a salt packet in each container. 4. Make the damp box with a cup of water inside. 5. Put one bare packet in the box, and keep one in a dry cupboard. 6. Put every container in the box. 7. Close the lid.  
   *Parent says:* Every design gets the same chana and the same salt packet. The salt packet tells us if damp air got in. Put them all in the damp box.  
   *Child mode:* Build each container. Add chana and a salt packet. Put them in the damp box.
   - Note: The damp box makes the air inside very humid. The salt is much more sensitive than the chana, so it shows the difference within a day or two. Do not eat the salt packets afterwards.
   - Check: Why do we put a salt packet in each container? → **Salt takes in water from damp air, so it shows if damp air got in**
   - Wait: Leave for 3 days
 - **s3 (16 min)**  
-  *Parent does:* 1. After three days, open the box. 2. Take out the salt packets. Feel each one and look at it. 3. Weigh each one, if your scale shows tenths of a gram. 4. Weigh each portion of chana. 5. Write which design kept the salt driest.  
+  *Parent does:* 1. After three days, open the box. 2. Take out the salt packets. Feel and look at each one. 3. Score each from 0 (dry and loose) to 3 (wet and lumpy). 4. If you have a scale, weigh each portion of chana. 5. Write which design kept the salt driest.  
   *Parent says:* Open the box. Which salt packet is dry? Which is damp or lumpy? Which container worked best?  
   *Child mode:* Open the box. Feel each salt packet. Which is driest?
-  - Note: Expect an open bowl to be damp and a tight jar to be dry. The bag with a rubber band and the cloth-covered katori often fall in between. If everything looks the same, leave the box for one more day. Use the results to say why seed banks use airtight containers.
+  - Note: Salt pulls water from the air, so a damp packet shows that damp air got in. The bare packet should be the wettest and the cupboard packet the driest. A closed jar or steel dabba often keeps the salt driest, but many lids leak a little, so a few lumps are a real result. If everything looks the same, leave the box for one more day. Chana gains only a gram or two in three days. One child: test all four designs. Two to four children: each child builds one container and the same child sets up the damp box. Use the results to say why seed banks use airtight containers.
   - Think: A seed bank keeps seeds dry and cold. Which of the two is easier for a family to do at home?
 ### c2 · The Rain Door: a seed that wakes only for a big rain (40 min)
 - **problem:** In a desert, a small shower wets only the top of the soil, and a big rain soaks deep. Design a layer of sand over a seed so that a small shower does not reach the seed, but a big rain does.
 - **safety:** Use clean dry sand. Do not eat the seeds after the test. Wash your hands afterwards, and keep sand away from your eyes.
 - **your turn:** Now invent your own layers. Draw your design, build it and test it with a small shower and then a big rain. Does your seed stay dry in the small shower? Does it get wet in the big rain? Why do you think so?
-- **constraints:** Use a clear cup about 7 centimetres wide and 12 centimetres tall.; Put a dry moong seed on a dry paper tissue at the bottom of the cup. The sand goes on top.; The small shower is 2 tablespoons of water, poured slowly. The big rain is 1 cup of water.; You may change the depth of the sand, the kind of sand and the layers, but not the cup.
+- **constraints:** Use a clear cup about 7 centimetres wide and 12 centimetres tall.; Put a dry moong seed on a dry paper tissue at the bottom of the cup. The sand goes on top.; The small shower is 2 tablespoons of water, poured slowly. The big rain is about 1 cup (200 millilitres). If the cup overflows, use 150 millilitres.; You may change the depth of the sand, the kind of sand and the layers, but not the cup.
 - **general:** A deep layer of sand, about 6 centimetres, so a small shower soaks only the top.; A layer of coarse sand over a layer of fine soil.; A layer of dry soil that is packed down firmly, so water spreads sideways before it goes down.
 - **creative:** A layer of dry rice husks or dry leaves on top, which soak up a small shower and let a big rain through.; Three layers, each a different thickness, to catch different amounts of rain.; A paper tissue folded like a funnel in the sand, to guide a big flow of water down to the seed.
 - **s1 (8 min)**  
@@ -673,16 +675,16 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Child mode:* Draw two or three ways to build the sand layers. Think about depth.
   - Ask: Why might a deeper layer of sand keep the seed dry? (good: The water has further to go.; The sand soaks up the water on the way down.; The top layer holds the water.)
 - **s2 (16 min)**  
-  *Parent does:* 1. Put a dry tissue at the bottom of each cup. 2. Put a dry moong seed on it. 3. Add sand to the depth of your design. 4. Pour 2 tablespoons of water slowly. 5. Wait one minute. 6. Lift off the sand and check if the tissue is wet.  
+  *Parent does:* 1. Put a dry tissue at the bottom of each cup. 2. Put a dry moong seed on it. 3. Add sand to the depth of your design. 4. Pour 2 tablespoons of water slowly. 5. Wait one minute. 6. Lift off the sand a little at a time and check if the tissue is wet. 7. Measure how deep the dark, wet sand goes.  
   *Parent says:* Pour slowly, like a gentle shower. Wait a minute. Then lift the sand away. Is the tissue still dry?  
   *Child mode:* Build your layers. Pour a small shower. Is the seed's tissue still dry?
-  - Note: Sand compresses and sorts itself, so tap the cup gently to level it. The result depends on the sand, so expect to adjust the depth. If the small shower reaches the seed, try a deeper layer. Do not eat the seeds.
+  - Note: Sand compresses and sorts itself, so tap the cup gently to level it. The result depends on the sand, so expect to adjust the depth. If the small shower reaches the seed, try a deeper layer. Do not eat the seeds. Wet sand looks darker, so the ruler can measure how far the water went. One child: build and test all the designs. Two to four children: each child builds one design, and you compare the wet depths.
   - Check: In the test, the tissue stays dry after the small shower. What does that tell you about the design? → **The sand layer held the small shower in the top layer**
 - **s3 (16 min)**  
-  *Parent does:* 1. Make a fresh cup with the same design. 2. Pour 1 cup of water over the sand, in about 20 seconds. 3. Wait one minute. 4. Lift off the sand and check the tissue. 5. Write down what happened in each test.  
+  *Parent does:* 1. Make a fresh cup with the same design. 2. Pour 1 cup of water over the sand, in about 20 seconds. 3. Wait one minute. 4. Lift off the sand and check the tissue. 5. Measure the wet depth. 6. Write down what happened in each test.  
   *Parent says:* Now the big rain. Pour a full cup of water over the sand. Did it reach the seed this time?  
   *Child mode:* Test the same design with a big rain. Does the seed get wet?
-  - Note: A good design keeps the tissue dry in the small shower and wet in the big rain. If the big rain floods the cup, that is also a result. Real desert rain soaks the ground deeply in this way.
+  - Note: A good design keeps the tissue dry in the small shower and wet in the big rain. If the big rain floods the cup, that is also a result. Real desert rain soaks the ground deeply in this way. If you like, leave the big-rain cup for two days. The moong seed should show a root, and the seed from the small shower should stay dry and asleep.
   - Think: Desert seeds that wake only in a big rain have many seeds that never wake. Is that a waste?
 
 ## Worksheets
@@ -927,7 +929,7 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L4): Topic-level song
 
 ## Things to buy
 - [Whole green moong, about 500 grams](https://www.amazon.in/s?k=whole+green+moong) (material): For the waking curve test and the pale search test. Buy it as fresh as you can, and keep a second, older packet for comparison. Used in e1, e3. 
-- [Digital kitchen scale that weighs in grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): For weighing tamarind and jackfruit seeds. One that shows tenths of a gram is better for small seeds. Used in e4, a3. 
+- [Small digital scale that weighs in grams (optional)](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): For weighing tamarind seeds, jackfruit seeds and chana. A pocket scale that shows tenths of a gram costs about Rs 250 to 500, so it is not needed: the press score and the counts work without it. A chemist or jeweller may weigh seeds for you. Used in e4, a3, c1. 
 - [Povidone iodine antiseptic solution, a small bottle](https://www.amazon.in/s?k=povidone+iodine+solution) (material): For the iodine starch test on seeds. Many homes already have one in a first-aid box. Keep it away from young children. Used in a1. 
 - [30 centimetre ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): For labels, measuring shoots and checking sowing depths. Used in p1, e2. 
 - [Seeds: Time Capsules of Life, by Rob Kesseler and Wolfgang Stuppy](https://www.amazon.in/s?k=Seeds+Time+Capsules+of+Life+Kesseler+Stuppy) (book): For the parent and older children: close-up photographs of many kinds of seed, with clear short text on how seeds are built and how they travel. Used in p1. Look at a few pages together before My Seed Library, then compare the photographs with the seeds you saved.
