@@ -705,7 +705,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 ## Videos
 - **How to truly listen** (TED (Evelyn Glennie), 34 min) id `IU3V6zNER4g`: For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body, and explains what it means to listen. *Check:* Title and channel confirmed. The full talk is about 34 minutes. Preview it first and pick a section to watch with a young child.
 - **Auditory Transduction (2002)** (Brandon Pletsch, 7 min) id `PeTriGTENoc`: For the parent and curious older children: a detailed animation of the cochlea, showing how a wave travels along the membrane and how different hair cells pick up high and low pitches. *Check:* Title and channel confirmed. Preview it first. It goes into more detail than this unit.
-- **How a cochlear implant works** (to be found, 4 min) id `to find`: To see how a microphone, a processor and a coil of tiny wires send signals straight to the hearing nerve. *Check:* Not yet found. Look for a short animation from a hospital or a hearing charity, watch it, and check that it shows wires inside the cochlea before adding it.
+- **How do cochlear implants work? | Boston Children's Hospital** (Boston Children's Hospital, 4 min) id `UpPdqxbkaiU`: To see how a microphone, a processor and a coil of tiny wires send signals straight to the hearing nerve. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A clap happens on your left. Which ear hears it first?  

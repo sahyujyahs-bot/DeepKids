@@ -764,9 +764,9 @@ Paati stood at the balcony with her arms folded. 'Check the finger,' she told he
    **Answer:** What to call the roots' clever responses, not whether the roots respond. *Why:* Both groups agree that roots sense and respond in sophisticated ways. They disagree about whether this deserves words such as thinking and choosing.
 
 ## Videos
-- **What plants need from the soil: nitrogen, phosphorus and potassium** (to be found, 5 min) id `to find`: To see what the three main minerals do, and what a plant looks like when each is short. *Check:* Not yet found. Find one, watch it, and check that it shows the leaf clues for each shortage.
-- **Root nodules: how beans make their own fertiliser** (to be found, 4 min) id `to find`: To see the nodules on a bean's roots and the bacteria inside them. *Check:* Not yet found. Find one, watch it, and check that it shows the sugar and nitrogen trade in both directions.
-- **Do trees share through fungus networks? What we know and what is argued** (to be found, 6 min) id `to find`: To see both sides of the argument about the wood wide web. *Check:* Not yet found. Find one, watch it, and check that it includes the 2023 review and does not claim more than the evidence.
+- **Plant Nutrient Deficiency Symptoms (Nitrogen, Phosphorus, Potassium)** (CF Strock, 8 min) id `ZSNuMOxYReM`: To see what the three main minerals do, and what a plant looks like when each is short. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Nitrogen Fixing | Middle School Science | Khan Academy** (Khan Academy India - English, 5 min) id `iQmLJ6zZxcI`: To see the nodules on a bean's roots and the bacteria inside them. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Do trees really talk to each other through fungi?** (Nature Adaptations Explained, 8 min) id `hDD5IhR1um4`: To see both sides of the argument about the wood wide web. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) About what share of a good, loose soil is gaps that hold air and water?  

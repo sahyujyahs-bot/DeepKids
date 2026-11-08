@@ -3002,13 +3002,12 @@
    "check": "Title and channel confirmed. Preview it first. It goes into more detail than this unit."
   },
   {
-   "title": "How a cochlear implant works",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How do cochlear implants work? | Boston Children's Hospital",
+   "channel": "Boston Children's Hospital",
+   "youtube": "UpPdqxbkaiU",
    "mins": 4,
    "why": "To see how a microphone, a processor and a coil of tiny wires send signals straight to the hearing nerve.",
-   "check": "Not yet found. Look for a short animation from a hospital or a hearing charity, watch it, and check that it shows wires inside the cochlea before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

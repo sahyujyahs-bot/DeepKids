@@ -3206,28 +3206,28 @@
  ],
  "videos": [
   {
-   "title": "The electromagnetic spectrum: the whole family of light",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 5,
+   "title": "The Science of Light and Color for Kids: Rainbows and the Electromagnetic Spectrum - FreeSchool",
+   "channel": "Free School",
+   "mins": 8,
    "why": "To see the family from radio waves to gamma rays, with examples of each in daily life.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate and kind to children before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "9Vsl0Iom3S0"
   },
   {
-   "title": "Herschel and the discovery of infrared light",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Infrared: how Herschel found light we can't see",
+   "channel": "Math Science Rules",
    "mins": 5,
    "why": "To see how a thermometer past the red end of a rainbow found invisible light.",
-   "check": "Not yet found. Find one, watch it, and check the dates and names before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "cqm8lK92bNw"
   },
   {
-   "title": "How solar sails work",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "How do solar sails work? Bill Nye explains.",
+   "channel": "The Planetary Society",
    "mins": 5,
    "why": "To see how the push of sunlight can move a spacecraft, with pictures of IKAROS and LightSail 2.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "ORQNgKnKVvM"
   }
  ],
  "applications": [

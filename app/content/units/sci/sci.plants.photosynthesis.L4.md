@@ -722,9 +722,9 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
    **Answer:** It supports the view that photorespiration is not only a waste, but it does not settle the question. *Why:* One finding adds a reason in favour of one view. The debate is about the total of costs and benefits, which needs many tests in many plants and conditions.
 
 ## Videos
-- **Photosynthesis and respiration: the two-way trade** (to be found, 5 min) id `to find`: To see photosynthesis and respiration drawn side by side, and where each happens in a cell. *Check:* Not yet found. Find one, watch it, and check that it shows both jobs and does not say that plants only give out oxygen.
+- **Photosynthesis and Cellular Respiration - Energy Cycle of Life** (Point Source Science, 5 min) id `BsVIPnIeYFs`: To see photosynthesis and respiration drawn side by side, and where each happens in a cell. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Why do fish gasp at dawn? Oxygen in a pond** (to be found, 4 min) id `to find`: To see a graph of the oxygen in a pond over a day and a night, and what fish farmers do about it. *Check:* Not yet found. Find one, watch it, and check that it shows the dawn low and not just the daytime high.
-- **Engelmann's bacteria and the rainbow: which light does a leaf use?** (to be found, 4 min) id `to find`: To see the 1882 experiment that used bacteria to show which colours of light work best. *Check:* Not yet found. Find one, watch it, and check that the colours of the crowds match red and blue.
+- **T.W.Engelmann's experiment** (BioVerse , 3 min) id `kmr5-fevQG8`: To see the 1882 experiment that used bacteria to show which colours of light work best. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which statement about plants and the air is the most complete?  

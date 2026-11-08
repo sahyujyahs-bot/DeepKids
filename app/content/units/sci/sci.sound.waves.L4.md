@@ -671,7 +671,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 ## Videos
 - **LIGO's first gravitational wave, as sound** (LIGO Lab Caltech, 3 min) id `6zisf2xKvjA`: The first ripple in space that scientists caught, in 2015, played as a short rising chirp. You hear a frequency climbing from about 35 to about 250 hertz. *Check:* Title and channel confirmed. Preview it first. It explains the idea at a level above Class 4, so pause to say it in your own words.
 - **Waves** (Bozeman Science, 8 min) id `JppViHtLNlc`: For the parent: a teacher explains wavelength, frequency and amplitude, and the difference between push waves and shake waves, to help you answer your child's questions. *Check:* Title and channel confirmed. Preview it first, because it goes further than this unit.
-- **Jocelyn Bell Burnell tells how she found the first pulsar** (to be found, 5 min) id `to find`: To hear the discoverer tell her own story of the scruff on the chart paper, the steady beat and the little green men joke. *Check:* Not yet found. Search for a short interview or talk with Jocelyn Bell Burnell herself, watch it, and check that it matches the story in this unit before adding it.
+- **Jocelyn Bell Burnell describes how she discovered pulsars - Beautiful Minds_Ep1 Preview_BBC Four** (BBC, 3 min) id `PKtnaTxLARc`: To hear the discoverer tell her own story of the scruff on the chart paper, the steady beat and the little green men joke. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these is a frequency?  

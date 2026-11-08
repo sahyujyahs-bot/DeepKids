@@ -3052,28 +3052,28 @@
  ],
  "videos": [
   {
-   "title": "Why a mirror shows a picture and a wall does not: smooth and rough reflection",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Specular and Diffuse Reflection of Light",
+   "channel": "5MinutePhysics",
    "mins": 5,
    "why": "To see rays of light bouncing off a smooth and a rough surface, with the rule of reflection at each bump.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "BRiYtmWvny0"
   },
   {
-   "title": "How a periscope works",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How a periscope works ? Animated In a nutshell",
+   "channel": "In A Nut Cell",
+   "mins": 3,
    "why": "To see a submarine periscope and a homemade periscope, and how two mirrors turn the light twice.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "_E_SERfmeJk"
   },
   {
-   "title": "How reflectors, cat's eyes and road signs send light back",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Cat's Eyes & Retroreflectors",
+   "channel": "Sara Richards",
    "mins": 5,
    "why": "To see corner mirrors and tiny glass beads at work, and why they glow back at a torch.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "JllAd3SyYo0"
   }
  ],
  "applications": [

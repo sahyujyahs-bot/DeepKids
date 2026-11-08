@@ -694,9 +694,9 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
    **Answer:** False. *Why:* False. A reflective strip sends light straight back to its source. It glows brightly when a headlight or torch shines on it, as seen from near the light. In ordinary daylight it looks plain, because the light comes from everywhere and not back toward your eyes.
 
 ## Videos
-- **Why a mirror shows a picture and a wall does not: smooth and rough reflection** (to be found, 5 min) id `to find`: To see rays of light bouncing off a smooth and a rough surface, with the rule of reflection at each bump. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How a periscope works** (to be found, 4 min) id `to find`: To see a submarine periscope and a homemade periscope, and how two mirrors turn the light twice. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How reflectors, cat's eyes and road signs send light back** (to be found, 5 min) id `to find`: To see corner mirrors and tiny glass beads at work, and why they glow back at a torch. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **Specular and Diffuse Reflection of Light** (5MinutePhysics, 5 min) id `BRiYtmWvny0`: To see rays of light bouncing off a smooth and a rough surface, with the rule of reflection at each bump. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How a periscope works ? Animated In a nutshell** (In A Nut Cell, 3 min) id `_E_SERfmeJk`: To see a submarine periscope and a homemade periscope, and how two mirrors turn the light twice. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Cat's Eyes & Retroreflectors** (Sara Richards, 5 min) id `JllAd3SyYo0`: To see corner mirrors and tiny glass beads at work, and why they glow back at a torch. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A narrow beam of light lands on a mirror and on a sheet of white paper at the same angle. What is different about the light that leaves?  

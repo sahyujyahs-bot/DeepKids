@@ -3115,12 +3115,12 @@
  ],
  "videos": [
   {
-   "title": "Photosynthesis and respiration: the two-way trade",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Photosynthesis and Cellular Respiration - Energy Cycle of Life",
+   "channel": "Point Source Science",
    "mins": 5,
    "why": "To see photosynthesis and respiration drawn side by side, and where each happens in a cell.",
-   "check": "Not yet found. Find one, watch it, and check that it shows both jobs and does not say that plants only give out oxygen."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "BsVIPnIeYFs"
   },
   {
    "title": "Why do fish gasp at dawn? Oxygen in a pond",
@@ -3131,12 +3131,12 @@
    "check": "Not yet found. Find one, watch it, and check that it shows the dawn low and not just the daytime high."
   },
   {
-   "title": "Engelmann's bacteria and the rainbow: which light does a leaf use?",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "T.W.Engelmann's experiment",
+   "channel": "BioVerse ",
+   "mins": 3,
    "why": "To see the 1882 experiment that used bacteria to show which colours of light work best.",
-   "check": "Not yet found. Find one, watch it, and check that the colours of the crowds match red and blue."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "kmr5-fevQG8"
   }
  ],
  "quiz": [

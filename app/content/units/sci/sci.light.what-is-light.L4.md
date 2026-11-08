@@ -725,9 +725,9 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
    **Answer:** ['prism: the glass block that spreads the sunlight', 'band of colours: the spread-out sunlight, red at one end and violet at the other', 'thermometer just past the red edge: it warmed the most', 'control thermometer in the shade: it shows what the room does by itself']. *Why:* The control tells you whether a change comes from the room or from the colours. Without it, the surprising warm reading could not be trusted.
 
 ## Videos
-- **The electromagnetic spectrum: the whole family of light** (to be found, 5 min) id `to find`: To see the family from radio waves to gamma rays, with examples of each in daily life. *Check:* Not yet found. Find one, watch it, and check it is accurate and kind to children before adding it.
-- **Herschel and the discovery of infrared light** (to be found, 5 min) id `to find`: To see how a thermometer past the red end of a rainbow found invisible light. *Check:* Not yet found. Find one, watch it, and check the dates and names before adding it.
-- **How solar sails work** (to be found, 5 min) id `to find`: To see how the push of sunlight can move a spacecraft, with pictures of IKAROS and LightSail 2. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **The Science of Light and Color for Kids: Rainbows and the Electromagnetic Spectrum - FreeSchool** (Free School, 8 min) id `9Vsl0Iom3S0`: To see the family from radio waves to gamma rays, with examples of each in daily life. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Infrared: how Herschel found light we can't see** (Math Science Rules, 5 min) id `cqm8lK92bNw`: To see how a thermometer past the red end of a rainbow found invisible light. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How do solar sails work? Bill Nye explains.** (The Planetary Society, 5 min) id `ORQNgKnKVvM`: To see how the push of sunlight can move a spacecraft, with pictures of IKAROS and LightSail 2. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) You move a torch three times further from a wall. How does the light on each part of the lit patch change?  
