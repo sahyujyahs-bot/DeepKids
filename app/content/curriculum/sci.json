@@ -1773,7 +1773,9 @@
     4
    ],
    "subtopic_levels": [
-    "sci.senses.five-senses.L4"
+    "sci.senses.five-senses.L4",
+    "sci.senses.more-senses.L4",
+    "sci.senses.perception.L4"
    ],
    "chapters": []
   },
@@ -2580,7 +2582,8 @@
     "sci.planet-earth.volcanoes-and-earthquakes.L4",
     "sci.planet-earth.rocks.L4",
     "sci.planet-earth.landforms.L4",
-    "sci.planet-earth.maps-and-directions.L4"
+    "sci.planet-earth.maps-and-directions.L4",
+    "sci.planet-earth.soil-and-crops.L4"
    ],
    "chapters": [
     "C4-4.1",
@@ -2624,7 +2627,9 @@
    ],
    "subtopic_levels": [
     "sci.seeds-and-life-cycles.pollination.L4",
-    "sci.seeds-and-life-cycles.seed-dispersal.L4"
+    "sci.seeds-and-life-cycles.seed-dispersal.L4",
+    "sci.seeds-and-life-cycles.seeds-and-germination.L4",
+    "sci.seeds-and-life-cycles.plant-life-cycle.L4"
    ],
    "chapters": []
   },
@@ -5191,8 +5196,51 @@
     "sci.plants.what-plants-need.L3"
    ],
    "go_deep": [
-    "sci.seeds-and-life-cycles.seeds-and-germination.L5",
+    "sci.seeds-and-life-cycles.seeds-and-germination.L4",
     "sci.seeds-and-life-cycles.plant-life-cycle.L3"
+   ],
+   "go_wide": [
+    "sci.seeds-and-life-cycles.plant-life-cycle.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    },
+    {
+     "id": "math.time.duration.L3",
+     "chapters": [
+      "C3-Gt"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.seeds-and-life-cycles.seeds-and-germination.L4",
+   "subject": "sci",
+   "topic": "seeds-and-life-cycles",
+   "topic_name": "Seeds, growth and life cycles of plants",
+   "strand": "Life",
+   "topic_level": "sci.seeds-and-life-cycles.L4",
+   "subtopic": "seeds-and-germination",
+   "name": "Seeds and how they sprout",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Waking seeds: why seeds from one packet do not wake together.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.seeds-and-life-cycles.seeds-and-germination.L3"
+   ],
+   "go_deep": [
+    "sci.seeds-and-life-cycles.seeds-and-germination.L5"
    ],
    "go_wide": [
     "sci.seeds-and-life-cycles.plant-life-cycle.L3"
@@ -5234,8 +5282,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.seeds-and-life-cycles.seeds-and-germination.L3",
-    "sci.plants.what-plants-need.L3"
+    "sci.seeds-and-life-cycles.seeds-and-germination.L4"
    ],
    "go_deep": [
     "sci.seeds-and-life-cycles.plant-life-cycle.L5"
@@ -5287,8 +5334,41 @@
     "sci.seeds-and-life-cycles.seeds-and-germination.L3"
    ],
    "go_deep": [
-    "sci.seeds-and-life-cycles.plant-life-cycle.L5",
+    "sci.seeds-and-life-cycles.plant-life-cycle.L4",
     "sci.seeds-and-life-cycles.pollination.L4"
+   ],
+   "go_wide": [
+    "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+    "sci.animals.animal-life-cycles.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:191"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.seeds-and-life-cycles.plant-life-cycle.L4",
+   "subject": "sci",
+   "topic": "seeds-and-life-cycles",
+   "topic_name": "Seeds, growth and life cycles of plants",
+   "strand": "Life",
+   "topic_level": "sci.seeds-and-life-cycles.L4",
+   "subtopic": "plant-life-cycle",
+   "name": "The life cycle of a flowering plant",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The life cycle of a flowering plant: how fruit ripens, how plants time their lives, and how they end.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.seeds-and-life-cycles.plant-life-cycle.L3"
+   ],
+   "go_deep": [
+    "sci.seeds-and-life-cycles.plant-life-cycle.L5"
    ],
    "go_wide": [
     "sci.seeds-and-life-cycles.seeds-and-germination.L3",
@@ -5320,8 +5400,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.seeds-and-life-cycles.plant-life-cycle.L3",
-    "sci.seeds-and-life-cycles.seeds-and-germination.L5"
+    "sci.seeds-and-life-cycles.plant-life-cycle.L4"
    ],
    "go_deep": [
     "sci.seeds-and-life-cycles.pollination.L5"
@@ -10908,8 +10987,39 @@
     "sci.senses.five-senses.L3"
    ],
    "go_deep": [
-    "sci.senses.more-senses.L5",
+    "sci.senses.more-senses.L4",
     "sci.senses.perception.L3"
+   ],
+   "go_wide": [
+    "sci.senses.five-senses.L3",
+    "sci.senses.perception.L3"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.senses.more-senses.L4",
+   "subject": "sci",
+   "topic": "senses",
+   "topic_name": "Senses and perception",
+   "strand": "Body and health",
+   "topic_level": "sci.senses.L4",
+   "subtopic": "more-senses",
+   "name": "More than five senses",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Balance as a team: how eyes, ears and feet keep you upright, and the senses other animals have.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.senses.more-senses.L3"
+   ],
+   "go_deep": [
+    "sci.senses.more-senses.L5"
    ],
    "go_wide": [
     "sci.senses.five-senses.L3",
@@ -10937,8 +11047,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.senses.more-senses.L3",
-    "sci.senses.five-senses.L3"
+    "sci.senses.more-senses.L4"
    ],
    "go_deep": [
     "sci.senses.perception.L5"
@@ -10971,8 +11080,39 @@
     "sci.senses.five-senses.L3"
    ],
    "go_deep": [
-    "sci.senses.perception.L5",
+    "sci.senses.perception.L4",
     "sci.what-is-real.perception-and-reality.L4"
+   ],
+   "go_wide": [
+    "sci.senses.five-senses.L3",
+    "sci.senses.more-senses.L3"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.senses.perception.L4",
+   "subject": "sci",
+   "topic": "senses",
+   "topic_name": "Senses and perception",
+   "strand": "Body and health",
+   "topic_level": "sci.senses.L4",
+   "subtopic": "perception",
+   "name": "Perception and illusions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Perception: why your brain picks one reading of the world, and what it leaves out.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.senses.perception.L3"
+   ],
+   "go_deep": [
+    "sci.senses.perception.L5"
    ],
    "go_wide": [
     "sci.senses.five-senses.L3",
@@ -11000,8 +11140,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.senses.perception.L3",
-    "sci.senses.five-senses.L3"
+    "sci.senses.perception.L4"
    ],
    "go_deep": [
     "sci.what-is-real.perception-and-reality.L4"
@@ -24756,6 +24895,49 @@
     "sci.planet-earth.rocks.L2"
    ],
    "go_deep": [
+    "sci.planet-earth.soil-and-crops.L4"
+   ],
+   "go_wide": [
+    "sci.planet-earth.maps-and-directions.L3",
+    "sci.food.where-food-comes-from.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [
+    "bio:217",
+    "bio:218",
+    "bio:219",
+    "bio:220"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.planet-earth.soil-and-crops.L4",
+   "subject": "sci",
+   "topic": "planet-earth",
+   "topic_name": "Planet Earth",
+   "strand": "Earth and space",
+   "topic_level": "sci.planet-earth.L4",
+   "subtopic": "soil-and-crops",
+   "name": "Soil and crops",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Soil, water and crops: how soil holds water for roots, and why a field of beans feeds the next crop.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.planet-earth.soil-and-crops.L3"
+   ],
+   "go_deep": [
     "sci.planet-earth.soil-and-crops.L5"
    ],
    "go_wide": [
@@ -24799,8 +24981,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.planet-earth.soil-and-crops.L3",
-    "sci.planet-earth.rocks.L4"
+    "sci.planet-earth.soil-and-crops.L4"
    ],
    "go_deep": [],
    "go_wide": [
