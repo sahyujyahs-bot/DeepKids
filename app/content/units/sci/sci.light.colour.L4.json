@@ -261,7 +261,7 @@
    "examples": [
     "A dog does not see a red ball on green grass as clearly as a human does.",
     "A person with red-green colour blindness may sort a red crayon with the brown ones.",
-    "A peahen sees ultraviolet patterns in a peacock's feathers that we cannot."
+    "A peacock's feathers reflect some ultraviolet light, which peafowl can probably see and we cannot."
    ],
    "perspectives": [],
    "art": "A dog, a person and a bird each looking at a flower, with three different pictures of the flower in thought bubbles.",
@@ -1302,7 +1302,7 @@
    "days": 1,
    "question": "When a red torch and a green torch shine on one white wall, what colour is the wall where they overlap? And what colour is each shadow of a pencil in front of the wall?",
    "predict": "Before you start, guess. What colour will the wall be where the red and green lights overlap? What colour will the pencil's shadows be? Why do you think so?",
-   "fair_test": "Use the same two torches, the same wall, the same pencil and the same dim room each time. Keep both torches about one metre from the wall. Change one thing at a time: first only red, then only green, then both. Look at each set-up for a full ten seconds, because your eyes need time to settle in a dim room.",
+   "fair_test": "Use the same two torches, the same wall, the same pencil and the same dim room each time. Keep both torches about one metre from the wall. Change one thing at a time: first only red, then only green, then both. Look at each set-up for a full ten seconds, because your eyes need time to settle in a dim room. Safety: use LED or phone torches, because cellophane can melt on a hot bulb, and never shine a torch into anyone's eyes.",
    "results_table": [
     "Lights on",
     "Colour of the wall where the light lands",
@@ -1586,7 +1586,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Use the ruler to draw three wide horizontal stripes across the first page: yellow, pink and blue. Leave a gap of one finger-width between them. Colour each with one slow stroke. Close each cap after use.",
+     "do": "Use the ruler to draw three wide horizontal stripes across the first page: yellow, pink and blue. Leave a gap of one finger-width between them. Colour each with one slow stroke. Close each cap after use. Keep the pens away from your mouth and eyes.",
      "say": "Draw three stripes across the page. Yellow, then pink, then blue. One slow stroke each. Leave a gap between them.",
      "kid": "Draw three stripes across. Yellow, pink, blue. Leave gaps.",
      "context": "In this step, you draw the first three stripes of the grid."
@@ -1752,7 +1752,7 @@
      "do": "Put the flag under a bright lamp or in a sunny window. Look at the white dot in the middle. Count slowly to 30 without moving your eyes. Then look at a plain white wall, and keep your eyes still. Blink once.",
      "say": "Stare at the white dot. Count slowly to thirty. Do not move your eyes. Now look at the white wall. What do you see?",
      "kid": "Stare at the white dot. Count to thirty. Do not move your eyes. Then look at the white wall.",
-     "parent": "Expect a faint ghost flag with a reddish-orange top, a whitish middle and a greenish bottom, for a few seconds. It fades fast. If nothing appears, stare for 45 seconds under a brighter light, and look at a plain white wall, not a textured one. Some people see it clearly and others only faintly. Both are normal.",
+     "parent": "Expect a faint ghost flag with a reddish-orange top, a whitish middle and a greenish bottom, for a few seconds. It fades fast. If nothing appears, stare for 45 seconds under a brighter light, and look at a plain white wall, not a textured one. Some people see it clearly and others only faintly. Both are normal. Safety: stare only at the paper, never at the Sun or at a bare bulb.",
      "check": {
       "t": "mcq",
       "q": "The top stripe was blue-green. On the white wall you saw a faint orange-red stripe there. Where was the orange-red made?",
@@ -1991,7 +1991,7 @@
      "do": "Take the things into a room lit only by a warm yellowish bulb. Switch off other lights and close the curtains. Look again. Write if it is easy, hard or impossible to tell navy from black. Write the colour of the white paper.",
      "say": "Now the warm yellow bulb. Look at navy and black again. Can you still tell them apart? What colour is the white paper now?",
      "kid": "Look at the dark things under the warm bulb. Can you tell navy from black?",
-     "parent": "Under a warm bulb, navy and black often look almost the same. The white paper looks yellowish, though your eyes may call it white after a minute. If you only have one kind of bulb, compare it with daylight. Never judge navy or black from a dim warm bulb.",
+     "parent": "Under a warm bulb, navy and black often look almost the same. The white paper looks yellowish, though your eyes may call it white after a minute. If you only have one kind of bulb, compare it with daylight. Never judge navy or black from a dim warm bulb. Safety: a regular bulb gets hot, so an adult should move the lamp and switch it off before anyone touches it. An LED bulb stays cooler.",
      "check": {
       "t": "mcq",
       "q": "Under the warm yellowish bulb, the navy and black looked almost the same. Why?",
@@ -2564,7 +2564,7 @@
   "Stage and film lighting designers use red, green and blue lamps and colour filters to set the mood of a scene.",
   "Colour printers make full-colour pictures from cyan, magenta, yellow and black ink.",
   "Boats show a red light on the left and a green light on the right at night, so that other boats can tell which way they are heading.",
-  "Traffic signals use red, amber and green lights, made with coloured filters, so the colours are easy to tell apart from far away.",
+  "Traffic signals use red, amber and green lights, so the colours are easy to tell apart from far away.",
   "Wedding and festival LED strip lights change colour by changing how bright their red, green and blue lamps are.",
   "Photographers and phone cameras use a setting called white balance, so that a white thing looks white under any lamp.",
   "Dyers and weavers in India check cloth colours in daylight, because lamps change how colours look.",

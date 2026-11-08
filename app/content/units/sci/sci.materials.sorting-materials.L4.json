@@ -3,11 +3,11 @@
  "title": "Sorting materials: where to draw the line, and what a map of two numbers can show",
  "level": 4,
  "summary": {
-  "text": "Weigh one katori of each of ten kitchen foods, and they line up in a ladder with no gaps. So which foods are heavy and which are light? Anyone can draw the line anywhere. Then measure a second thing, how tall each food piles up, and put both numbers on a map. Sometimes the foods fall into clumps with empty space between them. Your child sorts dal by eye, in a hurry and with care, and counts the two kinds of mistake. They learn why a sorter can swap its mistakes but not remove them. They meet the astronomers who found whole families of stars by putting two numbers side by side. They also see why the groups we find depend on what we measure.",
+  "text": "Weigh one katori of each of ten kitchen foods, and they line up in a ladder with no clear gap in the middle. So which foods are heavy and which are light? Anyone can draw the line anywhere. Then measure a second thing, how tall each food piles up, and put both numbers on a map. Sometimes the foods fall into clumps with empty space between them. Your child sorts dal by eye, in a hurry and with care, and counts the two kinds of mistake. They learn why a sorter can swap its mistakes but not remove them. They meet the astronomers who found whole families of stars by putting two numbers side by side. They also see why the groups we find depend on what we measure.",
   "art": "A kitchen counter with ten katoris of different foods in a row and a hand-drawn map of dots beside them, with some dots drawn close together in rings."
  },
  "intro": {
-  "hook": "Ten kitchen foods stand in a row: salt, sugar, rice, toor dal, mustard seeds, atta, maida, poha, ragi flour and sooji. Weigh one katori of each, and the weights make a ladder from the lightest food to the heaviest. There is no big jump anywhere in it. Now, which of these foods are heavy foods, and which are light? Where does the line go?",
+  "hook": "Ten kitchen foods stand in a row: salt, sugar, rice, toor dal, mustard seeds, atta, maida, poha, ragi flour and sooji. Weigh one katori of each, and the weights make a ladder from the lightest food to the heaviest. There is no clear gap in the middle of it. Now, which of these foods are heavy foods, and which are light? Where does the line go?",
   "text": "Nobody can say, because the ladder has no gap to show where to cut. You have to choose a line, and a friend can choose a different one. In this unit you find out how a line changes the groups, how a second number can show clumps that one number hides, and what happens when a sorter is hurried or strict. You also meet the astronomers who found the families of stars by doing exactly this.",
   "art": "Ten katoris of kitchen foods lined up from lightest to heaviest, with a pencil line drawn across the row and a question mark above the line."
  },
@@ -223,7 +223,7 @@
    "concept": "The star map: Hertzsprung, Russell and the families of stars",
    "status": "defined",
    "definition": "A star map, called the Hertzsprung–Russell diagram, places each star by its colour across and its brightness up. Most stars fall on a band called the main sequence, with giants above it and white dwarfs below it.",
-   "description": "About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. Their types were really a sorting by colour and surface heat. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. Around 1910, the American astronomer Henry Norris Russell put brightness against type for many stars and drew a map. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. Cecilia Payne, in 1925, had shown that the types were really a ladder of temperature.",
+   "description": "About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. Their types were really a sorting by colour and surface heat. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed a map that put brightness against type for many stars. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. Cecilia Payne, in 1925, had shown that the types were really a ladder of temperature.",
    "examples": [
     "The Sun sits in the middle of the main sequence.",
     "Betelgeuse is a red giant, cool and very bright.",
@@ -236,7 +236,7 @@
    "concept": "The map of materials: families that appear by themselves",
    "status": "defined",
    "definition": "A materials chart, such as the Ashby chart, places materials by two properties, for example how heavy they are for their size and how stiff they are. Families of materials show up as clumps.",
-   "description": "Starting in the 1980s, an engineer at Cambridge named Michael Ashby made charts for choosing materials. He plotted thousands of materials by two properties at a time, such as stiffness against density. On many of these charts, the materials fall into families. Metals sit in one clump, heavy and stiff. Woods and foams sit in another, light and less stiff. Plastics and rubbers sit in a third, light and soft. Glass and ceramics sit in a fourth, hard and brittle. Nobody told the dots where to go. The families are the ones people already knew from names like metal, plastic and wood, and the chart shows that those names mean something about the numbers. An engineer who needs something light and stiff finds that spot on the chart and reads off the materials near it. The empty parts of a chart are interesting too. They show what no known material does well, and they are where designers aim new materials.",
+   "description": "Starting around 1990, an engineer at Cambridge named Michael Ashby made charts for choosing materials. He plotted thousands of materials by two properties at a time, such as stiffness against density. On many of these charts, the materials fall into families. Metals sit in one clump, heavy and stiff. Woods and foams sit in another, light and less stiff. Plastics and rubbers sit in a third, light and soft. Glass and ceramics sit in a fourth, hard and brittle. Nobody told the dots where to go. The families are the ones people already knew from names like metal, plastic and wood, and the chart shows that those names mean something about the numbers. An engineer who needs something light and stiff finds that spot on the chart and reads off the materials near it. The empty parts of a chart are interesting too. They show what no known material does well, and they are where designers aim new materials.",
    "examples": [
     "Steel and copper sit in the heavy, stiff clump.",
     "Pine and bamboo sit near each other in the light clump.",
@@ -691,14 +691,14 @@
      "parent": "This is the heart of the game. Cards next to the line are almost the same, yet they land in different groups. Cards far from the line never change.",
      "check": {
       "t": "mcq",
-      "q": "The Judge's cut-off was 10. The card with score 10 is squishy, and the card with score 9 is firm. What does this show?",
+      "q": "The Judge's cut-off was 10. The card with score 10 is squishy, and the card with score 8 is firm. What does this show?",
       "options": [
        "The two cards are almost the same, and the line was the Judge's choice",
        "The cut-off is a fact about the cards",
        "The card with 9 is much harder than the card with 10"
       ],
       "a": 0,
-      "why": "A score of 10 and a score of 9 are almost the same. The Judge could have put the cut-off one step higher or lower, and the two cards would have swapped groups. The line was the Judge's choice and not a fact about the cards."
+      "why": "A score of 10 and a score of 8 are close. The Judge could have put the cut-off a step or two higher, and the card with 10 would have joined the firm group. The line was the Judge's choice and not a fact about the cards."
      },
      "context": "In this step, you play a second round and look closely at the line."
     },
@@ -732,7 +732,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Ten foods are lined up by the mass of one katori, with no big jump anywhere on the ladder. Someone says that heavy foods start at 100 grams. Which statement is true?",
+     "p": "Ten foods are lined up by the mass of one katori, with no clear gap in the middle of the ladder. Someone says that heavy foods start at 100 grams. Which statement is true?",
      "opts": [
       "The ladder itself shows where the line must go",
       "The line at 100 grams is a choice, and another person could choose another line",
@@ -1884,7 +1884,7 @@
      "qty": 1
     }
    ],
-   "safety": "Fingernails press only a gentle push. Do not use a knife or a sharp thing. Keep the candle away from flames.",
+   "safety": "Fingernails press only a gentle push. Do not use a knife or a sharp thing. Use an unlit candle, and keep it away from flames and matches.",
    "record": "For each thing, write how many voters said hard in round 1 and how many found no dent in round 2. Then put the ten things in order, from the most votes for hard to the fewest.",
    "context": "In this experiment, five voters decide whether ten things are soft or hard, first by their own feeling and then by a fingernail test. You find which things split the vote.",
    "setup": [
@@ -2129,7 +2129,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat or sniff the spices closely. Keep chilli powder away from your eyes. Wash your hands after.",
+   "safety": "Do not eat or sniff the spices closely. Keep chilli powder away from your eyes, and do not rub your eyes. Leave out any spice that your child is allergic to. Wash your hands after.",
    "schedule": [
     {
      "day": 1,
@@ -2300,7 +2300,7 @@
        ]
       }
      ],
-     "parent": "The long band is called the main sequence, and the Sun sits on it. The bright orange and red stars above the band are giants. The single dot below is a white dwarf, Sirius B.",
+     "parent": "The long band is called the main sequence, and the Sun sits on it. The bright orange and red stars above the band are giants. The single dot below is a white dwarf, Sirius B. Rigel is really a blue supergiant, but at these rough steps it lands at the top corner of the band.",
      "check": {
       "t": "mcq",
       "q": "The dots do not fill the map evenly. They form a band, and there are empty areas. What does this show?",
@@ -2540,6 +2540,7 @@
    "title": "The Slot Sorter: separate toor dal from chana dal with a gap",
    "mins": 40,
    "problem": "You have a mix of 20 toor dal and 20 chana dal. Build a sorter with a slot that lets toor dal fall through into a bowl, while chana dal rolls on past. Make as few mistakes, of both kinds, as you can.",
+   "safety": "Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Pick up any dal that rolls onto the floor, so nobody slips. Wash your hands after.",
    "constraints": [
     "Use only kitchen things and stationery, such as rulers, pencils, books and a tray.",
     "Every test uses all 40 pieces, sent down once.",
@@ -3234,9 +3235,9 @@
   "art": "A heap of mixed kitchen foods in the middle, with a ladder drawn on the left and a map of dots on the right, both made from the same heap."
  },
  "how_we_found_out": {
-  "story": "About 1900, astronomers at Harvard College Observatory sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. These were two ladders: a type, and a brightness. Around 1905, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. Around 1910, the American astronomer Henry Norris Russell put brightness against type for many stars on one map. The stars were not scattered everywhere. Most lay along a long band, with bright giants above it and faint white dwarfs below. For a while, many thought the map showed the path that every star travels as it ages. That turned out to be wrong. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. One map had shown the families before anybody knew why they existed.",
+  "story": "About 1900, astronomers at Harvard College Observatory sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. These were two ladders: a type, and a brightness. Around 1905, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed brightness against type for many stars on one map. The stars were not scattered everywhere. Most lay along a long band, with bright giants above it and faint white dwarfs below. For a while, many thought the map showed the path that every star travels as it ages. That turned out to be wrong. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. One map had shown the families before anybody knew why they existed.",
   "who": "Ejnar Hertzsprung (Danish) and Henry Norris Russell (American), using the sorting by Annie Jump Cannon and Antonia Maury",
-  "when": "About 1905 to 1913",
+  "when": "About 1905 to 1914",
   "wrong_idea": "Many thought that the band of stars on the map was a path that every star follows as it ages, from giant to dwarf. Later work showed that stars of different masses sit at different places on the band, and that each star stays near one place for most of its life."
  },
  "see_also": [

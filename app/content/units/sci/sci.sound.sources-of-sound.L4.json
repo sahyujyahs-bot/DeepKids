@@ -139,7 +139,7 @@
    "concept": "Pitch has a number: hertz",
    "status": "defined",
    "definition": "Pitch is how high or low a note sounds. We count it in hertz, which is the number of vibrations each second. A higher pitch means more vibrations each second.",
-   "description": "A string sounds high when it vibrates fast and low when it vibrates slowly. We can count how fast. One vibration each second is one hertz, written 1 Hz. The unit is named after Heinrich Hertz, a German scientist who first made radio waves in a lab in the 1880s. People can hear from about 20 hertz to about 20,000 hertz. The A that orchestras tune to is 440 hertz, which means a string or a column of air shakes 440 times every second. Voices are slower than that. A grown-up man's speaking voice is often about 100 to 120 hertz, a grown-up woman's about 200, and a child's about 250 to 400. The vocal folds open and close that many times each second. A honeybee's wings beat about 230 times each second, which makes her buzz. A mosquito's wings beat about 400 to 600 times each second, and that is why a mosquito whines higher than a bee. These numbers are too fast to count by eye. In the 1630s, a French priest and scientist, Marin Mersenne, found a way. He stretched a very long string until it vibrated slowly enough to count. He found rules for how the count changes with length, and used the rules to work out how fast short strings shake. It was one of the first times anyone counted a sound.",
+   "description": "A string sounds high when it vibrates fast and low when it vibrates slowly. We can count how fast. One vibration each second is one hertz, written 1 Hz. The unit is named after Heinrich Hertz, a German scientist who first made radio waves in a lab in the 1880s. People can hear from about 20 hertz to about 20,000 hertz. The A that orchestras tune to is 440 hertz, which means a string or a column of air shakes 440 times every second. Voices are slower than that. A grown-up man's speaking voice is often about 100 to 120 hertz, a grown-up woman's about 200, and a child's about 250 to 400. The vocal folds open and close that many times each second. A honeybee's wings beat about 230 times each second, which makes her buzz. A mosquito's wings beat roughly 400 times or more each second, and that is why a mosquito whines higher than a bee. These numbers are too fast to count by eye. In the 1630s, a French priest and scientist, Marin Mersenne, found a way. He stretched a very long string until it vibrated slowly enough to count. He found rules for how the count changes with length, and used the rules to work out how fast short strings shake. It was one of the first times anyone counted a sound.",
    "examples": [
     "A singer's Sa may be about 130 hertz for a man and about 260 hertz for a woman, and the tanpura is tuned to match it.",
     "A mosquito whines near your ear because her wings beat several hundred times each second. A slower beat would sound like a buzz or a hum.",
@@ -209,7 +209,7 @@
    "concept": "Pops, cracks and booms: a sound without a steady vibration",
    "status": "defined",
    "definition": "A pop is one sudden push on the air, a pressure pulse. It spreads as a short bang that mixes many pitches, and not as a steady note.",
-   "description": "A clap squeezes the air between your palms, and the squeezed air bursts out through the gaps. That one push is the clap. A balloon bursts and the stretched rubber snaps back in a fraction of a second. A firecracker releases a lot of gas at once. In each case the push is short and has no steady pitch. Scientists call such a sound noise, because it holds many pitches mixed together. If you cup your hands, the clap has a hollow pop with a pitch, because the cupped space is a small resonator. Thunder is a bigger pop. Lightning heats the air in its path to tens of thousands of degrees in a split second. The air expands faster than sound can move away, and this makes a shock wave. The shock wave spreads out and slows into the rumble that we hear. Light travels almost instantly, but sound moves about a kilometre in three seconds, so you can count the seconds between the flash and the thunder to find how far away the lightning was. A whip crack is also a shock wave. The tip of a whip moves faster than the speed of sound, and what you hear is the boom. Scientists confirmed this in the early 2000s using computer models and high-speed cameras. In water, the snapping shrimp closes a claw so fast that a bubble forms and then collapses with a loud bang. The bang can stun small fish. In 2001 scientists found that the collapsing bubble also gives off a tiny flash of light.",
+   "description": "A clap squeezes the air between your palms, and the squeezed air bursts out through the gaps. That one push is the clap. A balloon bursts and the stretched rubber snaps back in a fraction of a second. A firecracker releases a lot of gas at once. In each case the push is short and has no steady pitch. Scientists call such a sound noise, because it holds many pitches mixed together. If you cup your hands, the clap has a hollow pop with a pitch, because the cupped space is a small resonator. Thunder is a bigger pop. Lightning heats the air in its path to tens of thousands of degrees in a split second. The air expands faster than sound can move away, and this makes a shock wave. The shock wave spreads out and slows into the rumble that we hear. Light travels almost instantly, but sound moves about a kilometre in three seconds, so you can count the seconds between the flash and the thunder to find how far away the lightning was. A whip crack is also a shock wave. A loop runs along the whip and speeds up, until the tip moves faster than the speed of sound, and what you hear is a small boom. Scientists worked this out with high-speed photographs and, in 2002, a computer model. In water, the snapping shrimp closes a claw so fast that a bubble forms and then collapses with a loud bang. The bang can stun small fish. In 2001 scientists found that the collapsing bubble also gives off a tiny flash of light.",
    "examples": [
     "Cupped hands give a lower, hollow clap than flat hands, because the cupped space picks out a pitch.",
     "Count the seconds between a lightning flash and the thunder, and divide by three to get the distance in kilometres.",
@@ -342,7 +342,7 @@
    "claim": "High notes travel faster than low notes.",
    "who": "Greek thinkers such as Archytas of Tarentum, about 400 BCE, and others after him",
    "for": "A high note feels quick and sharp. A low note feels slow and heavy. It seems that a quick feeling should travel quickly.",
-   "against": "In the 1630s Marin Mersenne listened to sounds across a distance and found that high and low notes arrive at the same moment. Pitch is the number of vibrations each second, and not the speed of travel.",
+   "against": "In the 1630s Marin Mersenne listened to sounds across a distance and reported that high and low notes arrive at the same moment. Pitch is the number of vibrations each second, and not the speed of travel.",
    "status": "rejected",
    "context": "This card is about an old idea that high and low sounds travel at different speeds."
   },
@@ -366,7 +366,7 @@
    "claim": "A flute's wall material, such as silver or wood, changes the tone of the note.",
    "who": "Many flute players and makers",
    "for": "Players say they can feel and hear a difference between a silver flute and a gold one or a wooden one.",
-   "against": "In 1971 the physicist John Coltman made flutes with walls of different materials and found that listeners could not tell them apart. The shape of the air column matters most. Some players and makers still disagree.",
+   "against": "In 1971 the physicist John Coltman made flutes with walls of different materials and found that listeners could not reliably tell them apart. The shape of the air column matters most. Some players and makers still disagree.",
    "status": "debated",
    "context": "This card is about whether the stuff a flute is made of changes its sound."
   },
@@ -614,7 +614,7 @@
       },
       {
        "f": "A whip is cracked.",
-       "b": "SUDDEN POP. The tip moves faster than sound and makes a small shock wave."
+       "b": "SUDDEN POP. The tip moves faster than sound for a moment and makes a small shock wave."
       },
       {
        "f": "A firecracker goes off down the road.",
@@ -805,6 +805,10 @@
     },
     {
      "item": "a folded towel to stand the bottles on",
+     "qty": 1
+    },
+    {
+     "item": "masking tape and a pencil, to label each bottle with its water amount",
      "qty": 1
     },
     {
@@ -1033,7 +1037,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use a window at ground level, never near a ledge or an open balcony edge. Press gently. Wipe up any water, soap or oil from the glass and the floor at once, because they make the floor slippery.",
+   "safety": "Use a window at ground level, never near a ledge or an open balcony edge. Press gently. Wipe up any water, soap or oil from the glass and the floor at once, because they make the floor slippery. If anyone has sensitive skin or an allergy to soap or oil, skip that condition and wash hands after.",
    "schedule": [
     {
      "day": 1,

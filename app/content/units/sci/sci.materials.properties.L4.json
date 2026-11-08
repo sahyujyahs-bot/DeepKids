@@ -176,7 +176,7 @@
    "concept": "Bamboo: a grass that is stronger than it looks",
    "status": "defined",
    "definition": "Bamboo is a giant grass with a hollow stem. Its strong fibres run along its length, so it splits easily lengthwise and is hard to snap across when it is whole.",
-   "description": "Bamboo is not a tree. It belongs to the grass family, like rice and sugarcane. Its stem is a hollow tube, divided by solid rings called nodes. The wall of the tube is packed with strong fibres that run along the length of the stem. This makes bamboo strong to pull and to bend, and light for its size. It also means that bamboo splits easily along its length, because there are no fibres holding the sides together. Basket makers in Assam and Kerala use this on purpose. They split a stem into thin strips with a knife, then weave the strips into baskets, mats and hats. Some kinds of bamboo grow very fast, about a metre in a day in the best conditions, so bamboo is also a material that can be harvested again and again.",
+   "description": "Bamboo is not a tree. The grass family is where bamboo belongs, with rice and sugarcane. Its stem is a hollow tube, divided by solid rings called nodes. The wall of the tube is packed with strong fibres that run along the length of the stem. This makes bamboo strong to pull and to bend, and light for its size. It also means that bamboo splits easily along its length, because there are no fibres holding the sides together. Basket makers in Assam and Kerala use this on purpose. They split a stem into thin strips with a knife, then weave the strips into baskets, mats and hats. Some kinds of bamboo grow very fast, up to about 90 centimetres in a day in the best conditions, so bamboo is also a material that can be harvested again and again.",
    "examples": [
     "Basket makers split bamboo into long strips, because the strips come off cleanly along the fibres.",
     "A bamboo scaffold on a building site holds workers because the whole tube is stiff.",
@@ -293,7 +293,7 @@
    "concept": "Can we predict a material's properties from its atoms?",
    "status": "debated",
    "definition": "",
-   "description": "In principle, a material's properties come from its atoms and how they are joined. If we knew exactly how the atoms sit, could we calculate how hard, bendy or strong the material is? For simple crystals, computers can calculate some properties quite well. But for most real materials, which have cracks, crystal edges, gaps and mixed ingredients, the calculation is too hard, and people still make and test many samples. In 2023, a research group at Google DeepMind reported that a computer program had predicted millions of new stable crystals. Other scientists replied that many of the predictions were not new, or not useful, and that making and testing them is the real work. So the question is open. Some scientists think we are close to designing materials with a computer. Others think real materials will always hold surprises.",
+   "description": "In principle, a material's properties come from its atoms and how they are joined. If we knew exactly how the atoms sit, could we calculate how hard, bendy or strong the material is? For simple crystals, computers can calculate some properties quite well. But for most real materials, which have cracks, crystal edges, gaps and mixed ingredients, the calculation is too hard, and people still make and test many samples. In 2023, a research group at Google DeepMind reported that a computer program had predicted 2.2 million new crystal structures, about 380,000 of them stable. Other scientists replied that many of the predictions were not new, or not useful, and that making and testing them is the real work. So the question is open. Some scientists think we are close to designing materials with a computer. Others think real materials will always hold surprises.",
    "examples": [
     "Computers can calculate how stiff a perfect diamond crystal is.",
     "No computer can yet predict how long a particular steel part will last in a bridge.",
@@ -357,7 +357,7 @@
    "claim": "Bamboo is a kind of wood.",
    "who": "Many people.",
    "for": "It is hard, woody and used like timber.",
-   "against": "Bamboo is a grass, in the same family as rice and sugarcane. It has no growth rings and no bark layer, and its stem is hollow. It feels like wood because its walls are packed with strong fibres.",
+   "against": "Bamboo is a grass, in the same family as rice and sugarcane. Bamboo stems have no growth rings and no bark layer, and they are hollow. A bamboo stick feels like wood because its walls are packed with strong fibres.",
    "status": "rejected"
   },
   {
@@ -1211,7 +1211,7 @@
      "t": "truefalse",
      "p": "A tree that is swayed by the wind every day tends to grow a thicker, shorter trunk.",
      "a": true,
-     "why": "True. Experiments since the 1970s have shown that trees which are shaken or swayed grow shorter and thicker trunks. A living thing builds its body in answer to the pushes it feels.",
+     "why": "True. Experiments since the 1970s, first on small plants and later on trees, have shown that plants which are shaken or swayed grow shorter and thicker stems and trunks. A living thing builds its body in answer to the pushes it feels.",
      "outcome": 7
     },
     {
@@ -1350,7 +1350,7 @@
      "t": "truefalse",
      "p": "Bamboo is a kind of wood.",
      "a": false,
-     "why": "False. Bamboo is a giant grass, in the same family as rice and sugarcane. It feels like wood because its walls are packed with strong fibres.",
+     "why": "False. Bamboo is a giant grass, in the same family as rice and sugarcane. A bamboo stick feels like wood because its walls are packed with strong fibres.",
      "outcome": 2
     },
     {
@@ -1994,7 +1994,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use the blunt ends of the skewers and keep the sharp points on the tray. Do not put sticks near your face. Wash your hands after touching the leaf and the celery.",
+   "safety": "Use the blunt ends of the skewers and keep the sharp points on the tray. Do not put sticks near your face, and watch for splinters when wood snaps. A grown-up checks that nobody is allergic to celery, and the celery is not for eating. Wash your hands after touching the leaf and the celery.",
    "schedule": [
     {
      "day": 1,
@@ -2228,8 +2228,8 @@
      "qty": 2
     },
     {
-     "item": "30 identical coins, such as one-rupee coins, or 30 identical small items such as steel washers",
-     "qty": 30
+     "item": "60 identical coins, such as one-rupee coins, or 60 identical small items such as steel washers",
+     "qty": 60
     },
     {
      "item": "a small plastic cup to hold the coins",
@@ -3351,7 +3351,7 @@
    "Founder's SCI Card for Robert Hooke (elasticity), used as background to the cards on stiffness and the stretching of cloth. The Combined lessons for this topic were not reopened. The experiments here are new."
   ],
   "science": [
-   "Wöhler, A., fatigue tests on railway axles, reported in Zeitschrift für Bauwesen from the 1850s to 1870 (as described in standard histories of fatigue)",
+   "Wöhler, A., fatigue tests on railway axles, from the 1850s; the summary 'Über die Festigkeitsversuche mit Eisen und Stahl' is in Zeitschrift für Bauwesen 20, 1870 (as described in standard histories of fatigue)",
    "Schütz, W., 'A history of fatigue', Engineering Fracture Mechanics 54, 1996",
    "Report of the Court of Inquiry into the accidents to Comet G-ALYP and G-ALYY, 1954 (the fatigue cracks at the window corners)",
    "Lakes, R., 'Foam structures with a negative Poisson's ratio', Science 235, 1987 (the first auxetic foam)",

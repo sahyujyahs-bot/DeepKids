@@ -235,7 +235,7 @@
    "concept": "Two eyes and depth",
    "status": "defined",
    "definition": "Your two eyes are a few centimetres apart, so each sees a slightly different picture. The brain uses the difference to work out how far away things are.",
-   "description": "Hold a finger up at arm's length and swap eyes. The finger jumps against the wall behind it. Now bring the finger close to your nose and swap again. It jumps much further. The jump is called parallax. Near things jump a lot, and far things jump a little, so the size of the jump tells the brain the distance. Your brain does this all day, below your notice, for every part of the scene. It works best for things within a few metres, such as a ball coming towards you. For far things, the difference is too small. Scientists call seeing with two eyes binocular vision. Reports suggest that about 1 person in 20 cannot use their two eyes together to judge depth.",
+   "description": "Hold a finger up at arm's length and swap eyes. The finger jumps against the wall behind it. Now bring the finger close to your nose and swap again. It jumps much further. The jump is called parallax. Near things jump a lot, and far things jump a little, so the size of the jump tells the brain the distance. Your brain does this all day, below your notice, for every part of the scene. It works best for things within a few metres, such as a ball coming towards you. For far things, the difference is too small. Scientists call seeing with two eyes binocular vision. Reports suggest that somewhere between 1 person in 20 and 1 in 10 cannot use their two eyes together to judge depth.",
    "examples": [
     "Threading a needle is much harder with one eye closed.",
     "A bus window shows parallax: near trees zip by, far hills drift.",
@@ -374,7 +374,7 @@
   },
   {
    "text": "The eye's lens and cornea make a sharp, upside-down picture on the retina.",
-   "evidence": "Kepler worked it out in 1604. Scheiner saw the picture on the back of an animal's eye in 1619. A lens held in front of a window makes the same sort of picture on a card."
+   "evidence": "Kepler worked it out in 1604. Scheiner saw the picture on the back of an eye in the early 1600s. A lens held in front of a window makes the same sort of picture on a card."
   },
   {
    "text": "The lens changes shape to focus on near and far things, and gets stiffer with age.",
@@ -433,7 +433,7 @@
    "claim": "Everyone with two healthy eyes sees depth from the difference between them.",
    "who": "Many people.",
    "for": "Most people with two healthy eyes do.",
-   "against": "A small share of people, reported at about 1 in 20, cannot use the two views together, even with healthy eyes. They use the other clues for depth, and manage well. Susan Barry, a neuroscientist in the USA, gained this kind of depth sight as an adult, and wrote a book about it.",
+   "against": "A small share of people, reported at between 1 in 20 and 1 in 10, cannot use the two views together, even with healthy eyes. They use the other clues for depth, and manage well. Susan Barry, a neuroscientist in the USA, gained this kind of depth sight as an adult, and wrote a book about it.",
    "status": "accepted"
   }
  ],
@@ -1214,7 +1214,7 @@
       "Shine a torch into the eye"
      ],
      "a": 0,
-     "why": "Looking at the picture on the retina directly is the best test. Scheiner did this in 1619. Asking someone what they see would not show the picture on the retina, because the brain has already worked on it."
+     "why": "Looking at the picture on the retina directly is the best test. Scheiner did this in the early 1600s. Asking someone what they see would not show the picture on the retina, because the brain has already worked on it."
     },
     {
      "t": "truefalse",
@@ -1594,7 +1594,7 @@
      "qty": 1
     },
     {
-     "item": "2 pencils with sharp tips",
+     "item": "2 pencils with blunt tips (not freshly sharpened)",
      "qty": 2
     },
     {
@@ -1614,6 +1614,7 @@
      "qty": 1
     }
    ],
+   "safety": "Use blunt pencils and keep the tips well away from faces and eyes. Move the pencils slowly, and keep the nearest pencil at least a hand-span from the nose. A grown-up stays close by.",
    "record": "Fill in the table. Count the pencil tips that touched with both eyes and with one eye, and draw a bar chart with one bar for each. Write how many centimetres the jump changed as the pencil got nearer.",
    "context": "In this experiment, you swap eyes while holding a pencil at three distances, and measure how far it seems to jump against a strip on the wall. Then you try to touch two pencil tips together with one eye and with two.",
    "setup": [
@@ -1677,7 +1678,7 @@
      "do": "Hold the pencil upright at arm's length, in front of the strip. Close your right eye. The helper reads the number it seems to touch. Swap eyes and read again. Write both numbers and the jump. Repeat with the pencil half as far, and again a hand-span from your nose.",
      "say": "Hold the pencil up at arm's length. Close your right eye. What number does it touch? Now swap. What number now? Then bring the pencil nearer and do it again.",
      "kid": "Hold the pencil up. Swap eyes. Read the two numbers. Bring the pencil nearer. Do it again.",
-     "parent": "For a child with eyes about 5.5 centimetres apart, with the strip 2 metres away, typical jumps are about 15 centimetres at arm's length, about 35 centimetres at half arm's length, and 80 centimetres or more a hand-span from the nose, which may be off the strip. Your numbers will differ. The pattern matters: the nearer the pencil, the bigger the jump. If your child cannot focus on the pencil at the nearest distance, use a bit further, and say so.",
+     "parent": "For a child with eyes about 5.5 centimetres apart, with the strip 2 metres away, typical jumps are about 15 centimetres at arm's length, about 35 centimetres at half arm's length, and 60 to 80 centimetres a hand-span from the nose, which may be off the strip. Your numbers will differ. The pattern matters: the nearer the pencil, the bigger the jump. If your child cannot focus on the pencil at the nearest distance, use a bit further, and say so.",
      "check": {
       "t": "mcq",
       "q": "The pencil jumped further the nearer it was held. What does the brain do with the size of the jump?",
@@ -1892,7 +1893,7 @@
      "do": "Stand the lit phone torch on its end, about 1 metre from the lens. Move the card until a sharp picture of the torch appears. Measure again from the lens to the card. Write whether the card is nearer or further than before.",
      "say": "Now a bright thing that is nearer. A lit torch, one metre away. Find the sharp picture on the card. Is the card nearer or further than for the window?",
      "kid": "Use a lit torch one metre away. Find the sharp picture. Is the card nearer or further now?",
-     "parent": "The change is small, about 2 to 5 centimetres for a thing 1 metre away. Measure carefully and write what you really see. If the card does not seem to need moving, the thing may be too far. Try a thing about 50 centimetres away.",
+     "parent": "The change is small, about 1 to 3 centimetres for a thing 1 metre away. Measure carefully and write what you really see. If the card does not seem to need moving, the thing may be too far. Try a thing about 50 centimetres away.",
      "check": {
       "t": "mcq",
       "q": "The bright torch was nearer to the lens. The card had to be a little further from the lens for a sharp picture. What does this show?",
