@@ -238,10 +238,10 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* We will cook three films from the same cornflour. One gets no glycerine. One gets one teaspoon. One gets two teaspoons. Which will fold the most times before it cracks? Why do you think so?  
   *Child mode:* We make three films. Each has different glycerine. Which bends best? Why?
   - Ask: Why do you think that film will bend the most? (good: It has the most glycerine.; The glycerine makes it soft.; The glycerine gets between the starch.)
-  - Note: Do not correct the guess. Write each guess and reason at the top of the results table. Glycerine is sold at chemist shops, often as glycerin.
+  - Note: Do not correct the guess. Write each guess and reason at the top of the results table. Glycerine is sold at chemist shops, often as glycerin (a small bottle costs about Rs 30 to 50). One child: your child stirs and labels while you cook. Two to four children: one pot is enough. Each child takes one katori to label, pour and spread, and later tests their own strips, then the group pools its folds in one table.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Put 3 tablespoons of cornflour, 12 tablespoons of water and 3 teaspoons of vinegar in the pan. Stir until no lumps remain. Then an adult heats it on low and stirs all the time.  
-  *Parent says:* Stir the mix until it is smooth. An adult heats it on low and stirs all the time. After about four minutes it turns clear and thick, like custard. Then switch off the heat.  
+  *Parent says:* Stir the mix until it is smooth. An adult heats it on low and stirs all the time. After about four to six minutes it turns clear and thick, like custard. Then switch off the heat.  
   *Child mode:* Stir the mix in the pan. A grown-up heats it and stirs.
   - Note: Do not leave the pan. If it is still milky after five minutes, keep stirring a little longer. If lumps form, beat quickly with a fork. Let it cool for two minutes before the next step. The mix is hot and sticky, like hot custard.
   - Check: Why do we cook the mix before we make the films? → **Heat makes the starch swell with water, and the mix becomes a clear gel**
@@ -251,23 +251,23 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Child mode:* Share the mix in three katoris. Add glycerine to two. Label them.
   - Note: Use the same spoon each time and level spoonfuls. The mix is still warm, so a grown-up should help.
 - **s4 (5 min)**  
-  *Parent does:* Rub a few drops of oil on three steel plates or three pieces of foil. Pour one katori onto each. Spread it with the back of a spoon into a circle about 10 centimetres wide and as thick as a coin.  
+  *Parent does:* Rub a few drops of oil on three steel plates or three pieces of foil. Pour one katori onto each. Spread it with the back of a spoon into a circle about 15 centimetres wide, about as thick as a coin.  
   *Parent says:* Pour each katori onto its own plate. Spread it into a circle the same size. Make all three the same thickness. Write 0, 1 and 2 beside them.  
   *Child mode:* Pour each katori onto a plate. Spread it flat. Write the labels.
-  - Note: A thick film takes longer to dry and may stay sticky in the middle. Aim for about 2 to 3 millimetres.
+  - Note: A thick film takes longer to dry and may stay sticky in the middle. Aim for about 3 to 4 millimetres wet. It dries to a thin sheet. Use the same circle size for all three.
   - Check: Why must all three films be the same size and thickness? → **So only the glycerine is different**
 - **s5 (2 min)**  
   *Parent does:* Put the plates on a flat shelf where nobody will knock them. Leave them for two to four days, out of the rain. A fan helps in damp weather.  
   *Parent says:* Now we wait. The water must leave the films. Check the day after tomorrow. They are ready when they are dry and peel off easily.  
   *Child mode:* Leave the plates on a shelf. Wait two to four days.
-  - Note: In the monsoon, drying can take longer. Do not use the oven or the sun's full heat, because the film can curl or bubble. If a film is still wet after five days, turn it over and let the other side dry.
+  - Note: In the monsoon, drying can take longer. Do not use the oven or the sun's full heat, because the film can curl or bubble. Films are done when they feel dry and peel off cleanly. If a film is still wet after five days, turn it over and let the other side dry.
   - Wait: Leave it for 2 to 4 days.
 - **s6 (4 min)**  
   *Parent does:* Peel each film from its plate. Look at each film and feel it. Write what each film is like, using the words stiff, bendy, sticky, clear or cloudy.  
   *Parent says:* Peel the film off the plate. Which comes off in one piece? Which feels stiff? Which feels sticky or soft? What do you notice?  
   *Child mode:* Peel the films off. Look and feel. Write what you notice.
   - Ask: How is the film with no glycerine different from the film with two teaspoons? (good: The first is stiffer.; The last is softer or sticky.; The first is more brittle.)
-  - Note: The film with no glycerine is often stiff and may crack as you peel it. That is a result, not a mistake. The film with two teaspoons may stay a little sticky.
+  - Note: The film with no glycerine is often stiff and may crack as you peel it. That is a result, not a mistake. The film with two teaspoons may stay a little sticky, and in damp or monsoon weather even the one-teaspoon film can stay tacky because glycerine pulls water from the air. That is a result too. Dry them near a fan if you can.
 - **s7 (8 min)**  
   *Parent does:* Cut a strip 2 centimetres wide from each film. Fold the strip in half and open it again. That is one fold. Count the folds until it cracks. Stop at 20. Do each film twice.  
   *Parent says:* Fold the strip in half, then open it. That is one fold. Count every fold. Stop when it cracks, or at twenty. Do it twice for each film.  
@@ -278,7 +278,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Mark two dots 5 centimetres apart on a strip. Hold the strip by its ends and pull slowly. Measure the distance between the dots when it tears.  
   *Parent says:* Make two dots five centimetres apart on a strip. Pull slowly until it tears. Measure the dots. How far did it stretch?  
   *Child mode:* Mark dots on a strip. Pull slowly. Measure the dots.
-  - Note: A very stiff film may not stretch at all. Write 5 for no stretch. The film with the most glycerine may stretch the most, or may tear more easily because it is soft.
+  - Note: A very stiff film may not stretch at all. Write 5 for no stretch. Stretch numbers vary a lot with thickness, so treat the folds as the main result and the stretch as a rough guide. The film with the most glycerine may stretch the most, or may tear more easily because it is soft.
 - **s9 (5 min)**  
   *Parent does:* Draw a bar chart of the folds for each film. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -297,12 +297,12 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* We will cut strips from four plastic things and put them in very hot water. Which strip will change the most? What will it do? Why do you think so?  
   *Child mode:* We put plastic strips in hot water. Which changes most? Why?
   - Ask: Why do you think that plastic will change the most? (good: It is thin.; It is soft already.; It is stretched.)
-  - Note: Do not correct the guess. Write each guess and reason down. Children often guess the thinnest plastic changes most.
+  - Note: Do not correct the guess. One child: your child numbers, measures and watches the timer. Two to four children: split the jobs, one measures, one watches the timer, one records, and swap for the second round. Only the adult touches hot water. Write each guess and reason down. Children often guess the thinnest plastic changes most.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* An adult cuts four strips from a clear PET bottle, a carry bag, a milk packet and a hard plastic tub. Each strip is 8 centimetres by 2 centimetres. Number each strip with a marker. Measure each one.  
   *Parent says:* A grown-up cuts the strips. Number them one to four. Measure each strip and write its length in the table.  
   *Child mode:* Number the strips. Measure each one. Write the length.
-  - Note: Cut the bottle strip from the straight wall, not the neck. Cut edges of hard plastic can be sharp, so round the corners. Wash the strips first.
+  - Note: Cut the bottle strip from the straight wall, not the neck, going round the bottle (not up and down), because that is the way the plastic is stretched most. Use scissors; a hard tub is cut with strong scissors by the adult only. Any bottle, bag or tub will do; the results vary with the brand, so write down what you used. Cut edges of hard plastic can be sharp, so round the corners. Wash the strips first.
   - Check: Why do we measure each strip before it goes into the water? → **So we can tell how much it changed**
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* An adult boils a kettle and waits for one minute. Then the adult pours about 1 litre of the hot water into a steel bowl. Everyone else stays back.  
@@ -314,12 +314,12 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* Drop all four strips in together. Watch them for one minute. What do you see happening? Then lift them out with the tongs.  
   *Child mode:* A grown-up drops in the strips. Watch for one minute.
   - Ask: What do you see the strips doing in the water? (good: Curling.; Shrinking.; Not changing.)
-  - Note: Let the strips cool on the plate for a minute before touching them. Some strips may curl up quickly. Others may stay flat.
+  - Note: Thin film floats, so push it under gently with the tongs. Let the strips cool on the plate for a minute before touching them. Amounts of shrinking are typical, not promised: a bottle strip often shrinks and curls a lot, a thin bag or milk packet only a little, a hard tub very little. Some strips may curl up quickly. Others may stay flat.
 - **s5 (5 min)**  
   *Parent does:* When the strips are cool, measure each one again. Feel each one. Write the new length, and write if it is bent, limp, stiff or the same.  
   *Parent says:* Measure each strip again. Which got shorter? Which curled? Which stayed the same? How does each feel now?  
   *Child mode:* Measure each strip again. How did each change?
-  - Note: The bottle strip and the thin bag often shrink or curl. The hard tub often stays the same. If nothing changed, the water was too cool, so re-boil and use it at once. Write what you see.
+  - Note: The bottle strip and the thin bag often shrink or curl. The hard tub often stays the same. If nothing changed, the water was too cool, so re-boil and use it at once; a strip that does not change is still a result. If you can, repeat with a second set of strips from other bottles and bags to see if the pattern holds. Write what you see.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -341,7 +341,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* Tear slowly, about five centimetres from the edge. Do three strips from top to bottom. Then three strips from side to side. Lay them out in two rows.  
   *Child mode:* Tear three strips top to bottom. Tear three strips side to side.
   - Ask: What do you notice about the two rows? (good: One row is straight.; One row wanders.; One tears more easily.)
-  - Note: One direction usually tears in a long straight line. The other goes wavy, or stops short. Which direction is straight depends on the paper.
+  - Note: One child: your child tears the strips while you watch. Two to four children: give each child their own sheet and compare the arrows. One direction usually tears in a long straight line. The other goes wavy, or stops short. Which direction is straight depends on the paper.
 - **s3 (4 min)**  
   *Parent does:* Draw an arrow on the sheet along the direction that tore straight. Try a notebook page and a magazine page the same way. Mark the straight direction on each.  
   *Parent says:* Mark the straight direction with an arrow. Now do the same with the notebook page and the magazine page. Is the straight direction the same?  
@@ -361,7 +361,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   - Note: After they have said what they saw, explain: when paper is made, most of the fibres end up lying one way. A tear runs easily along lined-up fibres. Across them, the tear must break fibres, so it wanders. Material made of long pieces is stronger along them.
   - Think: If paper has a grain like wood, which way would it be stronger?
 ### a2 · Wisp and Thread: how does twisting make cotton hold? (20 min)
-- **record:** Draw the loose wisp and the twisted thread side by side. Write how long one fibre was, and what the twist did.
+- **record:** Draw the loose wisp and the twisted thread side by side. Write how long one fibre was, and what the twist did. If you tried coins, write how many each thread held.
 - **s1 (3 min)**  
   *Parent does:* Show your child a roll of cotton wool. Pull a wisp about 15 centimetres long and as thick as a pencil. Ask them to guess what will happen if you pull it from both ends, and why.  
   *Parent says:* This is cotton wool. If I hold a wisp at both ends and pull slowly, what will happen? Now, if I twist it first, what will happen? Why do you think so?  
@@ -377,7 +377,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Wrap one end of a new wisp round a pencil. Hold the far end between two fingers, 10 centimetres away. Spin the pencil 30 times, the same way each time. Then pull slowly.  
   *Parent says:* Wrap a new wisp round a pencil. Hold the other end with your fingers. Spin the pencil thirty times, always the same way. Now pull slowly. What is different?  
   *Child mode:* Spin the pencil 30 times. Then pull slowly. What is different?
-  - Note: Hold the far end firmly while you spin, or the twist runs out. Keep a gentle pull on the wisp as you spin. Thirty turns should make a rough thread. It holds more than the loose wisp did.
+  - Note: Hold the far end firmly while you spin, or the twist runs out. Keep a gentle pull on the wisp as you spin. Thirty turns should make a rough thread. One child: you hold the far end while your child spins. Two to four children: pairs work together, one spins and one holds. For a measurement, hang a small paper cup from the thread and add coins one at a time, and count how many it holds before it breaks. The number varies, so compare the loose wisp, 30 turns and 100 turns in the same session. If you saw no difference, add more turns or use a bigger wisp. It holds more than the loose wisp did.
   - Check: What do the fibres do when you pull the twisted thread? → **They grip each other and the thread holds**
 - **s4 (4 min)**  
   *Parent does:* Make a third wisp. Spin the pencil 100 times. Hold the thread tight, then let the far end go. Watch what the thread does.  
@@ -392,24 +392,25 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   - Note: Cotton fibres are about 1 to 3 centimetres long. The thread is many times longer. After they have said what they saw, explain: the fibres overlap, and the twist makes them grip.
   - Think: If no fibre goes the whole way, what holds the thread together?
 ### a3 · Chew the Rice: what does your mouth do to starch? (15 min)
+- **safety:** Use only plain, unsalted rice or idli that your child already eats and is not allergic to. Use a small spoonful and have the child sit still while chewing, to avoid choking. Each child uses their own clean spoon. Skip this if your child has trouble swallowing.
 - **record:** Write what the rice tasted like at the start, after 1 minute and after 2 minutes.
 - **s1 (3 min)**  
   *Parent does:* Give your child a small spoonful of plain rice. Ask what taste they expect after two minutes of chewing, and why. Write down the guess.  
   *Parent says:* Rice does not taste of much. If you chew it for a long time, will the taste change? How? Why do you think so?  
   *Child mode:* Will rice taste different after chewing a long time? Why?
   - Ask: Why might the taste change? (good: The mouth does something to it.; The spit changes it.; I do not know.)
-  - Note: Use food your child already eats and is not allergic to. Do not correct the guess.
+  - Note: Use food your child already eats and is not allergic to. Do not correct the guess. One child: you keep the time and write the answers. Two to four children: each child chews their own spoonful at the same time, and one child is the timekeeper. Afterwards compare what each child tasted.
 - **s2 (8 min)**  
   *Parent does:* Ask your child to chew the rice slowly, without swallowing. Call out the time every 30 seconds. Ask what they taste each time. Write the answers down.  
   *Parent says:* Put the rice in your mouth. Chew slowly. I will tell you the time. What do you taste now? And now? Do not swallow yet.  
   *Child mode:* Chew slowly. What do you taste now? And now?
   - Ask: What did the rice taste like at the start, and after a minute? (good: Plain, then a little sweet.; Sweeter.; No change yet.)
-  - Note: Many people notice a sweet taste after about a minute. Some need two or three minutes. If nothing changes, keep chewing a little longer. Saliva needs time, and a little to work with.
+  - Note: Many people notice a sweet taste after about a minute. Some need two or three minutes. If nothing changes, keep chewing a little longer. Some children do not notice the sweetness, and that is a result, so write it down. Freshly cooked, soft, plain white rice works best. Rice cooked with ghee, salt or spice hides the taste. Saliva needs time, and a little to work with.
 - **s3 (4 min)**  
   *Parent does:* Let your child swallow and rinse with water. Ask them to say what they thought, what they tasted and why.  
   *Parent says:* You can swallow now. Tell me three things. What did you think would happen? What did you taste? Why do you think it happened?  
   *Child mode:* Say what you thought, what you tasted, and why.
-  - Note: After they have said what they tasted, explain: rice is mostly starch, which is long chains of glucose. Your saliva has an enzyme, a tool made by your cells, that cuts starch chains into short sugars. Short sugars taste sweet. This is the first step of digestion, and it breaks a polymer into small pieces.
+  - Note: After they have said what they tasted, explain: rice is mostly starch, which is long chains of glucose. Your saliva has an enzyme, a tool made by your cells, that cuts starch chains into short sugars. Short sugars taste sweet. As a comparison, give a second spoonful and ask your child to swallow it after 10 seconds, and see if it tastes less sweet. This is the first step of digestion, and it breaks a polymer into small pieces.
   - Check: Why does plain rice taste sweeter after long chewing? → **Saliva cuts the starch chains into small sugars**
   - Think: Where did the sweet taste come from, when we did not add any sugar?
 
@@ -428,12 +429,12 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* Spin the takli like a top, and let it hang. The twist runs up into the wisp. Feed in a few more fibres with your other hand as it spins.  
   *Child mode:* Spin the takli. Feed in fibres as it twists.
   - Ask: What does the twist do to the loose cotton? (good: Holds it together.; Makes it a thread.; Makes it tight.)
-  - Note: This takes practice. The first yarn is lumpy and breaks often. That is normal. A grown-up can spin a short piece first so the child can see. Keep the wisp thin and even. When the takli reaches the floor, wind the yarn onto the stick and start again.
+  - Note: Tie a 30 centimetre piece of bought thread to the hook as a starter: it is much easier to join cotton wool to thread than to start from nothing. A traditional takli is spun resting on a small bowl or the thigh; this one hangs and works the same way. This takes practice. The first yarn is lumpy and breaks often. That is normal. A grown-up can spin a short piece first so the child can see. One child: you take turns. Two to four children: one spins the takli, one feeds in fibres, and then swap. Each child can make a takli from cardboard if you have only one old CD. Keep the wisp thin and even. When the takli reaches the floor, wind the yarn onto the stick and start again.
 - **s3 (20 min)**  
   *Parent does:* Spin a longer yarn today. Then pull it between your hands and compare it with a loose wisp and a bought cotton thread. Measure the length of your yarn.  
   *Parent says:* Spin as much yarn as you can. Now pull your yarn gently. Compare it with a loose wisp and with a bought thread. What do you find?  
   *Child mode:* Spin more yarn. Pull it gently. Compare it with bought thread.
-  - Note: Your yarn will be weaker than bought thread, and uneven. Machines and skilled spinners control the thickness and the twist very closely. After they have said what they see, explain: the twist makes the short fibres grip each other. This is how all cotton thread, and the thread in a sari, is made.
+  - Note: Your yarn will be weaker than bought thread, and uneven. A piece 20 to 40 centimetres long is a good result for the first try. Machines and skilled spinners control the thickness and the twist very closely. After they have said what they see, explain: the twist makes the short fibres grip each other. This is how all cotton thread, and the thread in a sari, is made.
   - Check: Which of these makes a stronger yarn? → **Enough twist for the fibres to grip, but not so much that it kinks**
   - Think: Your yarn is longer than any fibre in it. What is holding it together?
 

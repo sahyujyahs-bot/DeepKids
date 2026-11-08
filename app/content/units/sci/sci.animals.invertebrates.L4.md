@@ -209,7 +209,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - Ask: Why would warm water make the problem worse?
 
 ## Games
-### g1 · Wobbly Walk: an oxygen particle on its way to the middle (25 min)
+### g1 · Wobbly Walk: an oxygen particle on its way to the middle (29 min)
 - **rules:** Each player has a token and a coin. Put the token on square 0, the outside air.; Flip the coin. If it is heads, move the token one square towards the middle. If it is tails, move it one square back towards the outside. If you are on square 0 and flip tails, stay on 0.; Count every flip. Stop when the token reaches the target square for your body.; A flat worm's target is square 2, an ant's is square 4, and a crab's is square 8.; Play each body three times. Add up the flips. The body with the fewest flips is the easiest to reach.; In the pump round, a crab flips again, but heads now moves the token two squares in. This is a gill bailer or a heart pushing the oxygen along.; To win, be the player whose crab with a pump needs the fewest flips in total. If you play alone, try to beat your own total.
 - **Printable board: 9 squares: a strip from the outside (0) to the deepest cell (8):** 0 Outside air; 1; 2 Flat worm's hungry cell; 3; 4 Ant's hungry cell; 5; 6; 7; 8 Crab's hungry cell
 - **Printable score sheet: A score sheet with a row for each body and three tries:** Flat worm, target square 2: try 1 ___ try 2 ___ try 3 ___ total ___; Ant, target square 4: try 1 ___ try 2 ___ try 3 ___ total ___; Crab, target square 8: try 1 ___ try 2 ___ try 3 ___ total ___; Crab with a pump, target square 8: try 1 ___ try 2 ___ try 3 ___ total ___
@@ -218,7 +218,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* A particle of oxygen wanders by chance. Heads, one step in. Tails, one step back. It starts outside. About how many flips will it take to reach square two, square four and square eight?  
   *Child mode:* Oxygen wanders by chance. How many flips to reach squares 2, 4 and 8?
   - Ask: Square 2 takes a few flips. How many do you think to reach square 4, and square 8? (good: About twice as many for square 4.; Many more than that, because it wanders back.)
-  - Note: Do not correct the guess. Write each guess on the score sheet. The long-run averages are about 6 flips for square 2, 20 for square 4, and 72 for square 8.
+  - Note: Do not correct the guess. Write each guess on the score sheet. The long-run averages are about 6 flips for square 2, 20 for square 4, and 72 for square 8. Each player flips their own coin and moves their own token at the same time. Then pool everyone's counts for each body, which gives a steadier average than one child's three tries. One child alone just plays the tries in turn.
 - **s2 (4 min)**  
   *Parent does:* Play the flat worm three times. Flip the coin, move the token, and count the flips until it reaches square 2. Write the three counts on the sheet.  
   *Parent says:* Start on square zero. Flip the coin. Heads, one step in. Tails, one step back. Count every flip until you reach square two. Do it three times.  
@@ -229,11 +229,11 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Child mode:* Ant. Reach square 4. Count your flips. Do it three times.
   - Ask: The ant's square is twice as far as the worm's. Did it take twice as many flips? (good: No. It took about three times as many or more.; It took much more than double.)
   - Check: Square 4 is twice as far as square 2. About how many times as many flips did it take? → **About 3 to 4 times as many**
-- **s4 (5 min)**  
+- **s4 (8 min)**  
   *Parent does:* Play the crab three times. Count the flips until the token reaches square 8. This takes a long time, so stop at 100 flips and write 'more than 100'. Add up your counts.  
   *Parent says:* Now the crab. The target is square eight. This is a long walk. If you pass a hundred flips, stop and write more than a hundred.  
   *Child mode:* Crab. Reach square 8. Stop at 100 flips if you must.
-  - Note: The average is about 72 flips, but one try can take over 200. That is why we stop at 100. A very long wander shows chance, and also why the ant and the crab cannot rely on drifting alone.
+  - Note: The average is about 72 flips, but a typical middle try is nearer 50, about one try in four goes past 100, and one can take over 200. That is why we stop at 100. A very long wander shows chance, and also why the ant and the crab cannot rely on drifting alone.
 - **s5 (4 min)**  
   *Parent does:* Play the crab with a pump. Heads now moves two squares in. Tails still moves one back. Play three times and count the flips.  
   *Parent says:* Now give the crab a pump. Heads moves two squares in. Tails still moves one back. How many flips now? Do it three times.  
@@ -252,7 +252,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **Printable cards: 20 two-sided cards: an animal on the front and the way she breathes on the back:** An earthworm in damp soil. (back: Skin. Her thin, wet skin lets oxygen drift in.); A flatworm in a pond. (back: Skin. She is so thin that oxygen reaches every cell.); A jellyfish drifting in the sea. (back: Skin. Her body is almost all water, with only thin layers of living cells, so oxygen drifts in all over.); An ant on a wall. (back: Air tubes. Air goes in through holes in her sides and along tubes to every part.); A honeybee in a flower. (back: Air tubes. She pumps her belly to push air along her tubes while she flies.); A caterpillar on a leaf. (back: Air tubes. A row of holes down each side leads to branching tubes.); A centipede under a stone. (back: Air tubes. Each body ring has holes that lead into tubes.); A diving beetle under water. (back: Air tubes. She carries a bubble of air under her wing covers, and her tubes open into it.); A mosquito larva hanging at the top of a pond. (back: Air tubes. She hangs at the top so her air tubes can touch the air.); A mud crab in a backwater. (back: Gills. Feathery gills under her shell take oxygen from the water.); A prawn in a creek. (back: Gills. She beats a small flap near her mouth to pull water over her gills.); A mussel on a rock. (back: Gills. She draws water through her body to breathe and to feed.); A young dragonfly in a pond. (back: Gills. They are inside her tail end, and she squirts water in and out.); An octopus on a reef. (back: Gills. She pumps water over them, and pushes it out through a tube.); A woodlouse under a pot. (back: Gills. She has gill-like plates under her tail that must stay damp.); A house spider on a web. (back: Book lungs. Thin plates inside her belly, like the pages of a book.); A scorpion in the desert. (back: Book lungs. She has four pairs of them under her body.); A garden snail on a wall. (back: Lung. She has a pocket under her shell with a small opening, the breathing pore.); A pond snail that swims up to the surface. (back: Lung. She comes up to fill her lung with air.); A coconut crab on a palm in the Andaman Islands. (back: Lung. Her gill chamber works like a lung. She breathes air and would drown in deep water.)
 - **Printable tokens: 5 route cards: skin, gills, air tubes, book lungs and lung:** Skin; Gills; Air tubes; Book lungs; Lung
 - **s1 (4 min)**  
-  *Parent does:* Cut out the 20 animal cards and the 5 route cards. Shuffle the animal cards. Give each player one of each route card.  
+  *Parent does:* Cut out the 20 animal cards and the 5 route cards (or copy them by hand onto slips of paper if you cannot print). Shuffle the animal cards. Give each player one of each route card.  
   *Parent says:* These cards show animals without backbones. Each player gets five route cards: skin, gills, air tubes, book lungs and lung. We will guess how each animal gets air.  
   *Child mode:* Cut out the cards. Shuffle them. Take one of each route card.
 - **s2 (8 min)**  
@@ -277,7 +277,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **question:** A thin slice, a small cube and a big cube of clear jelly sit in coloured water for 40 minutes. Which will be coloured right through to the middle?
 - **predict:** Before you start, guess. Which piece will be coloured all the way through, and which will keep a clear middle? Why do you think so?
 - **fair test:** All the pieces are cut from the same jelly. They sit in the same bowl of colour for the same time. Only the size and shape of the piece changes, so any difference in how far the colour reaches comes from the size. Cutting one spare big cube open after 10 minutes also shows how the colour creeps as time passes.
-- **safety:** A grown-up must boil the agar and use the knife. Hot jelly burns like hot water. Food colour stains hands and clothes, so wear an old shirt. Do not eat the coloured jelly.
+- **safety:** A grown-up must boil the agar and use the knife. Hot jelly burns like hot water. Food colour stains hands and clothes, so wear an old shirt. Do not eat the coloured jelly. Keep little ones away from the hot pan. Children measure with the ruler; the grown-up does all the cutting.
 - **record:** Fill in the table for each piece. Write the width of the coloured edge and the width of the clear middle in millimetres. Then write what you think, what you saw and why.
 - **results table:** Piece | Time in the colour (minutes) | Width of coloured edge on the cut face (millimetres) | Width of the clear middle (millimetres) | Coloured right through? (yes or no)
 - **s1 (5 min)**  
@@ -285,12 +285,12 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* We will make clear jelly. Then we will cut a thin slice, a small cube and a big cube. We will soak them in colour. Which piece will be coloured all the way through? Why do you think so?  
   *Child mode:* Jelly in colour. Which piece will be coloured all through? Why do you think so?
   - Ask: Why do you think that piece will be coloured all the way through? (good: It is the smallest, so the colour has less far to go.; It is thin, so the colour comes in from both sides.; The colour will go into all of them the same.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. One child: you are the grown-up helper. Two to four children: share one jelly slab. Give each child a job (timer, spoon lifter, measurer, recorder) and swap jobs at each step. With three or four children, cut a set of pieces for each child from the same slab (it is big enough) and use one bowl of colour per child, so everyone measures their own cubes.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* A grown-up pours 500 millilitres of water into a pan and stirs in 2 level teaspoons of agar powder. Boil for 2 minutes, stirring. Pour into the steel box, about 2.5 to 3 centimetres deep.  
   *Parent says:* A grown-up boils the water and the agar for two minutes. Then we pour it into the box. It will turn into firm, clear jelly as it cools.  
   *Child mode:* A grown-up boils the agar. Pour it into the box. Let it cool.
-  - Note: If you have strands of China grass, soak 10 grams in the water for 10 minutes, then boil until no strands are left. Use the fridge to set it faster, 15 to 20 minutes. If your jelly is still soft after cooling, boil a new batch with another half teaspoon of powder. Plain gelatin jelly will also work if it is kept cold, but it melts in a warm room.
+  - Note: If you have strands of China grass, soak 10 grams in the water for 10 minutes, then boil until no strands are left. Use the fridge to set it faster, 15 to 20 minutes. If your jelly is still soft after cooling, boil a new batch with another half teaspoon of powder. Plain gelatin jelly will also work if it is kept cold, but it melts in a warm room. Agar sets at room temperature even in hot weather, usually in 20 to 30 minutes, and does not melt again in a warm kitchen. Packets differ in strength, so judge by the firm, clear jelly rather than the exact spoonfuls.
 - **s3 (3 min)**  
   *Parent does:* Wait about 15 minutes in the fridge, or 30 minutes in a cool room, until the jelly is firm. Tilt the box a little. The jelly should not run. While you wait, ask the question below.  
   *Parent says:* While the jelly sets, think about this. Where have you seen something spread out slowly, and where have you seen it spread fast?  
@@ -313,7 +313,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* After ten minutes, take out the spare big cube. A grown-up cuts it in half. How far in did the colour go? Measure it.  
   *Child mode:* Wait 10 minutes. Take out the spare cube. Cut it in half. Measure the colour.
   - Ask: How far in did the colour go after 10 minutes, and what is in the middle? (good: A thin coloured edge, about 1 to 2 millimetres.; The middle is still clear.)
-  - Note: After 10 minutes you will probably see a thin coloured edge, about 1 or 2 millimetres, and a clear middle. If you see nothing, give it another 5 minutes and add more food colour to the bowl. Cut with one clean downward press and wipe the knife each time, or the knife drags colour across the clear middle.
+  - Note: After 10 minutes a typical result is a thin coloured edge of about 1 or 2 millimetres and a clear middle. Your numbers will differ with the jelly and the colour. If you see nothing, give it another 5 minutes and add more food colour to the bowl. Cut with one clean downward press and wipe the knife each time, or the knife drags colour across the clear middle.
 - **s7 (3 min)**  
   *Parent does:* Wait until the timer reaches 40 minutes. Use the time to do the Ring or Core activity if you have not yet done it. Then lift the other three pieces out, blot them, and keep them in a row in order of size.  
   *Parent says:* While you wait, do Ring or Core. When forty minutes are up, lift out the three pieces and line them up.  
@@ -323,14 +323,14 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent does:* A grown-up cuts each piece in half. Look at each cut face. Measure the coloured edge and the clear middle, in millimetres. Write both numbers in the table, and write yes if it is coloured right through.  
   *Parent says:* Now cut each piece in half. Look at the cut face. Measure the coloured edge. Measure the clear middle. Which piece is coloured right through?  
   *Child mode:* Cut each piece in half. Measure the edge and the clear middle.
-  - Note: Expect the slice to be coloured right through, the small cube to have a small clear middle, and the big cube to have a large clear middle. The edge is often 2 to 4 millimetres after 40 minutes. If the big cube is coloured all through, your colour is very strong or the jelly is soft. Write exactly what you see.
+  - Note: Typically the slice is coloured right through, the small cube is coloured through or has only a thin clear middle, and the big cube keeps a large clear middle. A typical edge is about 2 to 4 millimetres after 40 minutes, but yours may differ. If the big cube is coloured all through, your colour is very strong or the jelly is soft. Write exactly what you see.
   - Check: The colour went about the same distance into the small and the big cube. What does this show? → **Colour creeps in about the same distance, so a big piece keeps a clear middle**
 - **s9 (6 min)**  
   *Parent does:* Compare the edge at 10 minutes and at 40 minutes on the big cube. Then ask your child to write what they think, what they saw and why.  
   *Parent says:* Look at the big cube at ten minutes and at forty minutes. The time was four times as long. Was the edge four times as thick? What did you think, what did you see, and why?  
   *Child mode:* Compare 10 and 40 minutes. Write what you think, saw and why.
   - Ask: Was the edge four times thicker after four times as long? (good: No. It was only about twice as thick.; It slowed down.)
-  - Note: This is the key finding. The edge grows more slowly than the time. Four times as long gives about twice as deep. Do not explain it yet. Let the child say what they notice. The explanation card and the Wobbly Walk game follow.
+  - Note: This is the key finding. The edge grows more slowly than the time. Four times as long usually gives roughly twice as deep (a ruler is rough to the millimetre, so anything from 1.5 to 3 times is fair). Do not explain it yet. Let the child say what they notice. The explanation card and the Wobbly Walk game follow.
   - Think: If the colour only reaches a few millimetres in 40 minutes, how long might it take to reach 2 centimetres?
 ### e2 · Sugar Lumps: does more outside dissolve faster? (35 min)
 - **question:** The same amount of sugar is used as a whole lump, in broken pieces, or as powder. Which dissolves fastest in still water?
@@ -344,7 +344,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* We have the same amount of sugar three ways. One lump, a few bits and some powder. Which will vanish first in still water? Why do you think so?  
   *Child mode:* Same sugar in three shapes. Which vanishes first? Why?
   - Ask: Why do you think that one will vanish first? (good: It is in the smallest bits.; The water touches more of it.; It is the quickest to melt.)
-  - Note: Do not correct the guess. Write it down.
+  - Note: Do not correct the guess. Write it down. One child: you do all three glasses. Two to four children: each child takes one kind of sugar and drops it on a count of three, then times their own glass. The extra child or the parent is the recorder. Swap kinds for the second try.
 - **s2 (7 min)**  
   *Parent does:* Wrap one cube in a cloth. Tap it gently with the back of a spoon until it breaks into about 8 pieces. Wrap another cube and crush it to powder. Keep the third whole. Fill three glasses with 150 millilitres of cool water each.  
   *Parent says:* Break one cube into bits. Crush one cube to powder. Keep one whole. Fill three glasses with the same amount of water.  
@@ -356,7 +356,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* Drop all three in together. Do not stir. Start the timer. Watch from the side. Write down when each one has vanished.  
   *Child mode:* Drop all three in. Do not stir. Start the timer. Watch.
   - Ask: Which vanished first, and which last? What do you notice? (good: The powder vanished fastest.; The whole lump took the longest.)
-  - Note: Powder often vanishes in a few minutes, even unstirred. Broken pieces take longer. A whole lump can take more than ten minutes in still, cool water. If a lump is not gone after 10 minutes, stop and write 'more than 10'.
+  - Note: Typically the powder goes first and the whole lump last, but the times vary a lot with the water and the sugar, so write what you see. Sugar cubes are porous and may crumble into grains in the first minute; time until the last grain is gone. Rock sugar is much slower and may need more than ten minutes. If a lump is not gone after 10 minutes, stop and write 'more than 10'. Powder can pile in a heap and dissolve slower than you expect; if your order is a surprise, that is a real result to explain.
 - **s4 (10 min)**  
   *Parent does:* Repeat with fresh glasses, fresh water and fresh sugar. Write the second times in the table. Work out the average for each.  
   *Parent says:* Do it all again with new glasses. Why do you think we repeat it? Write the second times down.  
@@ -372,7 +372,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 ### e3 · Drop and Stir: why do crabs move water over their gills? (30 min)
 - **question:** A drop of food colour is put into still cold water, still warm water and stirred cold water. Which glass becomes evenly coloured first?
 - **predict:** Before you start, guess. Which glass will be an even colour first, and which last? Why do you think so?
-- **fair test:** Each glass has the same amount of water and the same amount of food colour, put in the same way. Only one thing differs: whether the water is still or stirred, and warm or cold. The cold still glass is the control.
+- **fair test:** Each glass has the same amount of water and the same amount of food colour, put in the same way. The cold still glass is the control. Each other glass changes only one thing from it: warm instead of cold, or stirred instead of still.
 - **safety:** The warm water must be comfortable to touch, not hot. A grown-up should pour any water from a kettle. Wipe spills so nobody slips.
 - **record:** In each box of the table, write in words what you see: colour in a streak, colour at the bottom, colour spread evenly, and so on. Draw each glass after 10 minutes.
 - **results table:** Glass | After 1 minute | After 5 minutes | After 10 minutes | Even colour? (yes or no)
@@ -381,23 +381,23 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* One drop of colour goes in each glass. One cold and still, one warm and still, one cold and stirred. Which will have an even colour first? Why do you think so?  
   *Child mode:* Colour in three glasses. Which spreads evenly first? Why?
   - Ask: Why do you think that glass will be even first? (good: Stirring moves the colour all round.; Warm water spreads things faster.; Still water will take a long time.)
-  - Note: Do not correct the guess. Write it down.
+  - Note: Do not correct the guess. Write it down. One child: do all three glasses. Two to four children: each child owns one glass and drops the colour; the fourth child may add a bonus glass D, warm and stirred. Share the timer and swap who watches.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* Put the white paper behind the glasses. Pour 200 millilitres of cold water into glasses A and C. Pour 200 millilitres of warm water into glass B. Let all three stand until the water stops moving.  
   *Parent says:* Pour the same amount of water into each. Two cold, one warm. Wait until nothing in the water is moving.  
   *Child mode:* Pour the water into three glasses. Wait until the water is still.
   - Note: A grown-up should check the warm water is comfortable, not hot. The glasses must be still before the drops go in, or the test is not fair.
 - **s3 (3 min)**  
-  *Parent does:* Touch the tip of a spoon to the surface of glass A. Let one drop of food colour fall in. Do the same for glass B and glass C. Start the timer. Now stir glass C three times, gently. Do not touch A or B again.  
-  *Parent says:* One drop in each glass, in the same way. Start the timer. Now stir only the third glass three times.  
-  *Child mode:* Drop colour in each glass. Start the timer. Stir only glass C.
+  *Parent does:* Touch the tip of a spoon to the surface of glass A. Let one drop of food colour fall in. Do the same for glass B and glass C. Start the timer. Now stir glass C five times, slowly. Do not touch A or B again.  
+  *Parent says:* One drop in each glass, in the same way. Start the timer. Now stir only the third glass five times.  
+  *Child mode:* Drop colour in each glass. Start the timer. Stir only glass C five times.
   - Check: Why do we put the drop in each glass in the same way? → **So the way we add the colour does not change the result**
 - **s4 (12 min)**  
-  *Parent does:* Look at the glasses after 1 minute, after 5 minutes and after 10 minutes. Write what you see in words. Draw each glass at 10 minutes.  
+  *Parent does:* Look at the glasses after 1 minute, after 5 minutes and after 10 minutes. Write what you see in words. Draw each glass at 10 minutes. For glass C, also write how many seconds it took until no streaks were left.  
   *Parent says:* Look after one minute, five minutes and ten minutes. Is the colour a streak, a cloud or even? Write it down.  
   *Child mode:* Look at each glass after 1, 5 and 10 minutes. Write what you see.
   - Ask: What is different about the stirred glass? (good: The colour spread much faster.; It was almost even after a short time.)
-  - Note: Expect glass C to be much more even than the others within a minute. Glass A will be patchy for a long time, and its colour may sink to the bottom first. Glass B is usually quicker than A, because warm water rises and moves, but still patchier than C. If glass A is not even after 10 minutes, write 'not yet'.
+  - Note: Typically glass C is much more even than the others within a minute or two. Glass A will be patchy for a long time, and its colour may sink to the bottom first. Glass B may be a little quicker than A, because warm water rises and moves, but the difference can be small and the warm water cools as it stands. Glass B is still patchier than C. Write what you see. If glass A is not even after 10 minutes, write 'not yet'.
 - **s5 (5 min)**  
   *Parent does:* Ask your child to write what they thought, what they saw and why. Then ask the question below.  
   *Parent says:* What did you think, what did you see, and why? A crab beats a flap near her mouth to pull water over her gills. Why would that help her?  
@@ -418,7 +418,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent does:* Draw four squares: 2 cells wide, 4 cells wide, 6 cells wide and 8 cells wide. Colour the outside ring of cells red. Colour all the cells inside the ring blue. The smallest square is all red.  
   *Parent says:* Draw four squares. They are two, four, six and eight cells wide. Colour the outside ring red. Colour the middle blue.  
   *Child mode:* Draw squares 2, 4, 6 and 8 wide. Red edge, blue middle.
-  - Note: A 2 by 2 square has no middle at all. That is correct. If counting is slow, let your child count along a row and use the rule: ring = 4 times the width minus 4.
+  - Note: A 2 by 2 square has no middle at all. That is correct. If counting is slow, let your child count along a row and use the rule: ring = 4 times the width minus 4. One child: draw all four squares. Two to four children: each child draws one or two sizes, then swap pages and check each other's counts before filling the table together.
 - **s3 (5 min)**  
   *Parent does:* Count the red cells and the blue cells in each square. Write them in a table with three columns: width, red cells and blue cells. You should find 4 and 0, then 12 and 4, then 20 and 16, then 28 and 36.  
   *Parent says:* Count the red cells and the blue cells in each square. Write both numbers in the table.  
@@ -444,7 +444,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* Build each shape and count the faces that touch the air. Only count faces that are not touching another cube. Write each number down.  
   *Child mode:* Build each shape. Count the faces that touch the air. Write them down.
   - Ask: Which shape had the fewest faces touching the air, and which the most? (good: The solid block had the fewest.; The spread-out cubes had the most.)
-  - Note: Solid 2 by 2 by 2 block: 24. Flat 2 by 4 layer: 28. Single line of 8: 34. All eight apart: 48. Same cubes, same amount of stuff, but twice as much outside when spread apart.
+  - Note: Solid 2 by 2 by 2 block: 24. Flat 2 by 4 layer: 28. Single line of 8: 34. All eight apart: 48. Same cubes, same amount of stuff, but twice as much outside when spread apart. With two to four children, each child builds and counts one shape, then swaps and checks another child's count.
   - Check: You should have found 24, 28, 34 and 48 faces. Which shape is the 24? → **The solid block**
 - **s3 (4 min)**  
   *Parent does:* Ask your child which shape is most like a crab's gill and which most like a solid lump. Ask why a gill is feathery.  
@@ -453,7 +453,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   - Ask: Why is a gill feathery and not a solid lump? (good: More of it touches the water.; More oxygen can get in at once.)
   - Think: A book lung is a stack of thin plates. Which of your shapes is it more like?
 ### a3 · Dry Finger: carrying a bubble of air under water (12 min)
-- **safety:** A grown-up should sprinkle the powder. Keep the powder away from your face. Do not blow on it or breathe it in, because it can irritate eyes, noses and lungs.
+- **safety:** A grown-up should sprinkle the powder low over the water, away from faces. Do not blow on it or breathe it in, because cinnamon, pepper and baby powder can irritate eyes, noses and lungs. Wash hands afterwards.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Show your child the bowl and the powder. Ask what will happen to a finger pushed under the powder.  
   *Parent says:* I will sprinkle a little powder on the water. You will push one finger through it. What do you think your finger will look like under the water? Will it come out wet or dry? Why do you think so?  
@@ -461,20 +461,20 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   - Ask: Do you think your finger will come out wet or dry? Why? (good: Wet, because it was in water.; Dry, because the powder will cover it.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* A grown-up sprinkles a thin, even dusting of powder on the water. Push a finger slowly down through the powder and into the water. Look at it from the side.  
+  *Parent does:* A grown-up sprinkles a thin, even dusting of powder on the water, enough that the whole surface looks dusty. Push a finger slowly down through the powder and into the water. Look at it from the side.  
   *Parent says:* Push your finger slowly down through the powder. Look at it from the side. What do you see around it?  
   *Child mode:* Push a finger down slowly. Look from the side. What do you see?
   - Ask: What do you see around your finger under the water? (good: A silvery layer.; A shiny skin, like a mirror.)
-  - Note: The silvery shine is a thin layer of air held against the finger by the powder. Without the powder, the water would soak the finger and no layer would form.
+  - Note: The silvery shine is a thin layer of air held against the finger by the powder. Without the powder, the water would soak the finger and no layer would form. If the finger does not come out dry, the dusting was too thin: add more and try again. Sharing: each child takes a turn while the grown-up dusts a fresh bowl.
 - **s3 (4 min)**  
-  *Parent does:* Lift the finger out slowly. Is it wet or dry? Feel it. Then put another finger in without powder and compare.  
+  *Parent does:* Lift the finger out slowly. Is it wet or dry? Feel it. Then put another finger in without powder and compare. Press each finger on a dry tissue: which leaves a wet patch?  
   *Parent says:* Lift your finger out. Is it wet or dry? Now try a finger without powder. How are they different?  
   *Child mode:* Lift it out. Wet or dry? Try a finger without powder.
-  - Ask: How was the powdered finger different from the plain one? (good: The powdered one stayed dry.; It had a layer of air around it.)
+  - Ask: How was the powdered finger different from the plain one, and what did the tissue show? (good: The powdered one stayed dry.; It had a layer of air around it.; Only the plain finger left a wet patch on the tissue.)
   - Note: Diving beetles and some water bugs trap air on hairs and under their wings. Some bugs keep a very thin layer of air on tiny hairs that works a little like a gill, because oxygen can drift from the water into the air layer as they use it.
   - Check: A diving beetle carries a bubble of air under her wing covers when she dives. What does the air bubble do? → **It gives her air to breathe under water**
 ### a4 · Gills in the Market, or a Picture Hunt (23 min)
-- **safety:** A grown-up goes with you to the stall. Do not touch live crab claws. Ask the seller before touching anything, and wash your hands afterwards. If anyone in the family has a shellfish allergy, or you do not eat fish, use pictures instead.
+- **safety:** A grown-up goes with you to the stall. Do not touch live crab claws. Floors at fish stalls are wet and slippery, so hold a grown-up's hand. Ask the seller before touching anything, and wash your hands afterwards. If anyone in the family has a shellfish allergy, or you do not eat fish, use pictures instead.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Tell your child that today you will look for gills. Ask where they think a crab's gills are.  
   *Parent says:* A crab has gills, but you cannot see them from outside. Where do you think they are hidden? Why?  
@@ -482,11 +482,11 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   - Ask: Where do you think a crab keeps her gills? (good: Under her shell.; Near her mouth.; In her legs.)
   - Note: If you cannot visit a stall, search for pictures of a crab with the shell lifted. Both work. Do not correct the guess yet.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* At the stall, ask the seller if they can lift the side of the shell on a crab that has died. Look at the gills with the magnifier. Look at a prawn, a mussel or a fish too.  
+  *Parent does:* At the stall, ask the seller if they can lift the side of the shell on a crab that has died. Look at the gills with the magnifier. Count how many thin leaves you can see in one row of the crab's gill (a rough count is fine). Look at a prawn, a mussel or a fish too, and compare.  
   *Parent says:* Look at the gills. Are they smooth or feathery? What colour are they? Do they look like a lump or a comb?  
   *Child mode:* Look at the gills. Are they feathery? Draw one.
   - Ask: What do the gills look like? (good: Feathery.; Like a comb or a row of thin leaves.)
-  - Note: Crab gills are grey to tan, and look like rows of thin leaves or a feather. Fish gills are red because of the blood close to the surface. Never handle a live crab's claws.
+  - Note: Crab gills are grey to tan, and look like rows of thin leaves or a feather. Fish gills are red because of the blood close to the surface. Never handle a live crab's claws. With two to four children, each child studies a different animal, draws the animal, and shares what they found.
 - **s3 (8 min)**  
   *Parent does:* Back home, draw what you saw and label it: gill, shell, leg. Then ask your child to compare the crab with an ant. Where does each one get air?  
   *Parent says:* Draw the gills and label them. An ant has no gills. Where does an ant get air, and how is she different from a crab?  
@@ -494,6 +494,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   - Ask: How does an ant get air differently from a crab? (good: An ant has holes in her sides and air tubes.; A crab has gills and takes air from water.)
   - Think: A crab on land keeps her gills wet. How can she do that?
 ### a5 · Pipes or a Wet Sponge: two kinds of blood (21 min)
+- **safety:** Use the syringe without a needle and never squirt it at faces or eyes. A grown-up cuts the sponge. Food colour stains, so work over the tray.
 - **s1 (3 min)**  
   *Parent does:* Show your child the straw and the sponge pieces. Ask which will carry colour to the far end faster, and why.  
   *Parent says:* One way pushes colour through a pipe. One way lets it soak through sponge. Which gets to the far end first? Why do you think so?  
@@ -504,13 +505,13 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent does:* Fill the syringe with coloured water. Push it into one end of the straw, with a bit of clay round the join. Hold the far end over a cup. Push the plunger and time how long the colour takes to come out.  
   *Parent says:* Fill the syringe. Push the water through the straw. How many seconds before it comes out at the far end?  
   *Child mode:* Push water through the straw. Time how long it takes.
-  - Note: Expect about a second. The pipe holds the liquid together, so a push at one end moves liquid at the far end almost at once. This is like closed blood.
+  - Note: Typically it takes only a second or two. The pipe holds the liquid together, so a push at one end moves liquid at the far end almost at once. This is like closed blood. If water leaks at the join, press the clay on more firmly. Two or more children: one pushes, one times, one watches the far end.
 - **s3 (8 min)**  
-  *Parent does:* Set the five damp sponge pieces, each about 3 centimetres long, in a row in the tray, touching end to end. Pour a spoon of coloured water at the first piece. Write down how long it takes the colour to reach each piece. Stop after 5 minutes.  
-  *Parent says:* Pour a little colour on the first sponge. Watch it spread. Time how long until each sponge has colour. Stop after five minutes.  
-  *Child mode:* Pour colour on the first sponge. Time how far it spreads.
+  *Parent does:* Lay the damp sponge strip in the tray. Pour a spoon of coloured water on one end. Every minute, measure with the ruler how far the colour has reached along the strip, and write it down. Stop after 5 minutes.  
+  *Parent says:* Pour a little colour on one end of the sponge. Every minute, measure how far it has spread. Stop after five minutes.  
+  *Child mode:* Pour colour on the sponge end. Measure how far it spreads each minute.
   - Ask: How is the sponge different from the pipe? (good: It was much slower.; It reaches every sponge, but slowly.)
-  - Note: The colour soaks from piece to piece slowly, and may not reach the last one in 5 minutes. This is like open blood: it can bathe every organ, but it is slow without a strong pump.
+  - Note: The colour soaks along the sponge slowly. How far it gets in 5 minutes depends on the sponge, so write what you measure, even if it is small. Compare it with the pipe, where the push crossed the whole straw in a second or two. This is like open blood: it can bathe every organ, but it is slow without a strong pump. Each child can have their own strip.
 - **s4 (4 min)**  
   *Parent does:* Ask your child why an ant can manage with open blood, but a large animal that runs fast cannot.  
   *Parent says:* Open blood reaches every part, but slowly. An ant is tiny. Why might open blood be good enough for an ant?  
@@ -520,7 +521,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 
 ## Projects
 ### p1 · Air Tubes in a Roll: a model of an insect's breathing (35 min)
-- **safety:** A grown-up should help poke the holes in the roll and cut the straws.
+- **safety:** A grown-up should poke the holes with a sharp pencil point or scissor tip and cut the straws, because they are sharp.
 - **record:** Draw the model. Mark which paper strips moved when you blew, and which did not. Write one sentence on what each part of the model stands for.
 - **s1 (4 min)**  
   *Parent does:* Show your child the roll, the straws and the paper strips. Ask what will happen to the strips when they blow in at one end.  
@@ -534,10 +535,11 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Child mode:* Make four holes. Add four straws. Seal with clay. Tape on paper strips.
   - Note: The clay must seal the joints, or air will escape. The paper strips must hang just in front of each straw end, where the air comes out.
 - **s3 (8 min)**  
-  *Parent does:* Blow gently into the open end of the roll. Watch the four paper strips. Try it three times. Write down which strips moved each time.  
+  *Parent does:* Blow gently into the open end of the roll. Watch the four paper strips. Try it three times. Write down which strips moved each time, and give each a score: big lift, small lift or none.  
   *Parent says:* Blow in gently. Watch all four strips. Do they all move? Try it three times.  
   *Child mode:* Blow into the roll. Do all four strips move?
   - Ask: Did air reach all four strips? What does this tell you about branching tubes? (good: Yes. Branching tubes reach many places at once.; Even the far strip moved.)
+  - Note: Typically all four strips move, the nearest a little more. If the far strip does not move, check for leaks at the clay and blow a bit harder. Sharing: each child blows through their own clean straw held in the open end, and takes turns to watch the strips.
   - Check: In the model, what does the blowing stand for? → **An insect pumping her belly to push air along her tubes**
 - **s4 (8 min)**  
   *Parent does:* Pinch one straw shut and blow again. Then pinch two straws shut. Write what happens to the paper strips on those straws. Ask what could block an insect's holes.  
@@ -563,7 +565,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent does:* Test each design. Put a drop of colour at one end and start the timer. Use the design. Stop the clock when the colour looks even from above. Write each time down.  
   *Parent says:* Try each idea. Drop the colour. Start the timer. Use your design. Stop when the colour looks even. Write the time.  
   *Child mode:* Test each idea. Time it. Write the times.
-  - Note: Between tests, change the water, or use a second bowl, so the colour from the last test does not confuse the next one. Expect times from a few seconds to over a minute.
+  - Note: Between tests, change the water, or use a second bowl, so the colour from the last test does not confuse the next one. Typical times run from a few seconds to over a minute, and they depend on your bowl and design. A grown-up pokes the hole if a child tries the paper-cup waterfall; use a pencil point and a firm table. Each child can test their own design in their own bowl, or share one bowl and time each other.
 - **s3 (10 min)**  
   *Parent does:* Choose the fastest design. Change one thing about it, such as speed or place, and test again. Write what changed.  
   *Parent says:* Take your fastest design. Change one thing. Test again. Did it get faster or slower?  
@@ -589,6 +591,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent does:* Draw the insect. Mark spiracles, main tubes, branches and a pump. Write one sentence under each part saying what it does.  
   *Parent says:* Draw your insect. Draw her spiracles, her tubes and her pump. Write one sentence for each part.  
   *Child mode:* Draw the insect. Add spiracles, tubes and a pump. Write what each does.
+  - Note: Several children each draw their own giant insect, then compare how many spiracles and tubes each needed.
 - **s3 (10 min)**  
   *Parent does:* Check the design with your child. Find the cell furthest from a tube. Is it within 2 centimetres? If not, add more tubes. Then ask what would go wrong if she were twice as long.  
   *Parent says:* Find the part of her body furthest from a tube. Is it close enough? If not, add more branches. What if she were twice as long?  
@@ -822,6 +825,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [A bottle of liquid food colour](https://www.amazon.in/s?k=liquid+food+colour+red+blue) (material): For Colour Cubes, Drop and Stir, Pipes or a Wet Sponge, and the Fresh Tank challenge. One bottle lasts a long time. Used in e1, e3, a5, c1. 
 - [A pad of squared paper or graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For Ring or Core. Used in a1. 
 - [A hand magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at an ant, a snail's pore or a crab's gills, and for Gills in the Market, or a Picture Hunt. Used in a4. 
+- [A medicine syringe without a needle](https://www.amazon.in/s?k=oral+syringe+without+needle) (tool): For Pipes or a Wet Sponge. A medical shop sells one for a few rupees. A baby-medicine dropper from the house also works. Used in a5. 
 
 ## Warm-up
 - How does an earthworm breathe? → Through her wet skin.

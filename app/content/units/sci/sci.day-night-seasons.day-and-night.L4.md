@@ -298,7 +298,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Parent does:* Look up today's sunrise and sunset in each of the five cities. Write each time to the minute. Use the 24-hour clock for sunset, so 5:58 in the evening is 17:58.  
   *Parent says:* Look up the sunrise and the sunset for each city. Use the same day and the same app for all five. Write the times to the minute.  
   *Child mode:* Find sunrise and sunset for each city. Write them in the table.
-  - Note: No phone? Use the weather box in a newspaper, or ring a relative in another city and ask when the Sun rose and set. If a city is missing, use any city whose longitude you can look up. Apps can differ from each other by a minute or two. That is fine.
+  - Note: No phone? Use the weather box in a newspaper, or ring a relative in another city and ask when the Sun rose and set. If a city is missing, use any city whose longitude you can look up. Apps can differ from each other by a minute or two. That is fine. Working together: with 2 to 4 children, give each child one or two cities to look up and write on the shared table, then check each other's times. One child on their own does all five cities.
   - Check: Why do we use the same date and the same app for all five cities? → **So that only the city changes**
 - **s3 (8 min)**  
   *Parent does:* Work out noon for the first city. Count the time from sunrise to sunset. Halve it. Add the half to the sunrise. The answer is when the Sun is highest.  
@@ -310,7 +310,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Parent does:* Work out noon for the other four cities. Then, for each city, write how many minutes later than Guwahati its noon is.  
   *Parent says:* Do the same for the other four cities. Then count how many minutes later each noon is than the noon in Guwahati.  
   *Child mode:* Find noon for every city. Count the minutes after Guwahati.
-  - Note: Expect Guwahati to be first and Mumbai last. Your gaps should be roughly 13 minutes to Kolkata, 46 to Chennai, 62 to Kochi and 75 to Mumbai, though your numbers may be a minute or two different.
+  - Note: Expect Guwahati to be first and Mumbai last. Your gaps should be roughly 13 minutes to Kolkata, 46 to Chennai, 62 to Kochi and 75 to Mumbai, though your numbers may be a minute or two different. A quick check: timeanddate.com also shows the solar noon of each city. If your noon is more than 3 minutes away from that, look at your sum again.
 - **s5 (3 min)**  
   *Parent does:* Divide each gap in minutes by the gap in degrees of longitude from Guwahati. For Mumbai, that is the gap in minutes divided by 19 degrees, which is about 91.7 minus 72.9. What number do you keep getting?  
   *Parent says:* Look at the longitudes. Divide each gap in minutes by the gap in degrees from Guwahati. What number do you keep getting?  
@@ -327,7 +327,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **question:** Every place on Earth goes round once in 24 hours. Does a place on the equator move at the same speed as a place far to the north?
 - **predict:** Before you measure, guess. Will a person far to the north be carried faster than, slower than or at the same speed as a person on the equator? And how much slower, if you think so? Why do you think so?
 - **fair test:** All three circles are drawn on the same orange and measured with the same thread and ruler. Every spot on the orange turns once in the same time, so a longer circle means a faster spot. Only the latitude of the circle changes.
-- **safety:** A grown-up should help with the scissors if your child is young. Draw on the peel only, and do not eat the orange afterwards. Wash your hands after using the pen.
+- **safety:** A grown-up should help with the scissors if your child is young. Draw on the peel only, and do not eat the orange afterwards. Wash your hands after using the pen, and after handling the orange if your child has sensitive skin or a citrus allergy.
 - **record:** Fill in the table with the three lengths. Then draw a bar chart with one bar for each circle.
 - **results table:** Circle | Latitude (degrees north) | Length of the circle (centimetres) | Compared with the equator (fraction)
 - **s1 (4 min)**  
@@ -335,60 +335,61 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Parent says:* Every place on Earth goes round once in 24 hours. A person on the equator and a person far to the north go round once each day. Do they move at the same speed? Why?  
   *Child mode:* Everyone on Earth goes round once a day. Is everyone moving at the same speed? Why?
   - Ask: Why do you think they move at the same speed, or at different speeds? (good: They all take 24 hours.; The circle near the equator is bigger.; The north is closer to the middle.)
-  - Note: Do not correct the guess. Many children say everybody moves at the same speed because everybody takes a day. That is a good guess to test.
+  - Note: Do not correct the guess. Many children say everybody moves at the same speed because everybody takes a day. That is a good guess to test. One child with a parent: the child does the drawing and measuring, and the parent holds the orange. With 2 to 4 children, give each pair or child their own orange (they are cheap) and share the three lengths on one chart, which also shows how much the oranges differ. Or split the roles: one holds, one draws, one threads and measures.
 - **s2 (8 min)**  
   *Parent does:* The dimple where the stem was is the North Pole. Mark a dot on the opposite end for the South Pole. Slip a rubber band round the fattest part and move it until it is the same distance from both poles. Draw a line along it.  
   *Parent says:* The small dimple is the North Pole. Mark the other end as the South Pole. Put a rubber band round the middle. Draw a line along it. This line is the equator.  
   *Child mode:* Mark the two poles. Draw the equator with a rubber band.
   - Note: To check the band is in the middle, lay a thread from the North Pole dot to the band, and compare it with a thread from the South Pole dot to the band. They should be the same length. An orange is never perfectly round, so be happy with close.
 - **s3 (8 min)**  
-  *Parent does:* Lay a thread along the skin from the equator line up to the North Pole dot, and cut it. Measure it with the ruler. Work out one third and two thirds of its length. Mark both points on four sides of the orange.  
+  *Parent does:* Lay a thread along the skin from the equator line up to the North Pole dot, and cut it. Measure it with the ruler. Work out one third and two thirds of its length. Mark both points on four sides of the orange, with a dot each.  
   *Parent says:* Lay a thread from the equator up to the North Pole. Cut it and measure it. Mark one third and two thirds of the way up, on four sides.  
   *Child mode:* Measure from the equator to the pole. Mark one third and two thirds.
   - Note: The way from the equator to the pole is one quarter of the way round the Earth, which is 90 degrees. One third of it is 30 degrees of latitude. Two thirds of it is 60 degrees. For a 6 centimetre thread, mark 2 and 4 centimetres from the equator. Delhi is close to the 30 degree circle. Oslo and Helsinki are close to the 60 degree circle.
   - Check: The thread from the equator to the pole is 6 centimetres long. Where is the mark for two thirds of the way? → **4 centimetres from the equator**
 - **s4 (5 min)**  
-  *Parent does:* Slip a rubber band round the four marks at one third, and draw a line along it. Do the same for the four marks at two thirds. You now have three circles.  
-  *Parent says:* Put a rubber band through the marks and draw the circle. Do the same for the other set of marks. Now you have three circles.  
-  *Child mode:* Draw the two new circles with the rubber band.
-  - Note: If the band slips off, hold it in place with your thumbs while your child draws. A wavy line is fine.
+  *Parent does:* Mark dots at one third of the way up, on eight sides, all the same height above the equator. Join the dots with a pen line. Do the same at two thirds. You now have three circles.  
+  *Parent says:* Make a ring of eight dots at the same height above the equator, then join them with a line round the orange. Do the same for the other set of marks. Now you have three circles.  
+  *Child mode:* Join the dots into a circle. Do this for both new circles.
+  - Note: A rubber band slides towards the pole on a small circle, so do not use it here. Instead measure the same distance up from the equator line at eight places and join the dots by eye, with a thread laid along them as a guide. A wavy line is fine. If it wanders, measure a few more dots.
 - **s5 (8 min)**  
   *Parent does:* Wrap a thread round the equator, snip it where it meets itself, and lay it straight along the ruler. Write its length. Do the same for the other two circles.  
   *Parent says:* Wrap a thread once round the equator. Snip it, straighten it and measure it. Do the same for the other circles.  
   *Child mode:* Wrap, snip and measure the thread for each circle. Write the lengths.
-  - Note: Expect an orange about 24 to 26 centimetres round the equator, about 21 to 23 round the 30 degree circle, and about 12 to 13 round the 60 degree circle. Your numbers will not be exact.
+  - Note: Typical numbers: an orange about 24 to 26 centimetres round the equator, about 21 to 23 round the 30 degree circle, and about 12 to 13 round the 60 degree circle. Your numbers will not be exact: anything from 40 to 60 out of 100 for the 60 degree circle is a fair result. If the thread stretches or slips off the circle, measure again.
   - Check: Each spot on the orange turns once in the same time. Which spot is carried fastest? → **The one on the longest circle**
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say what they thought, what they measured and why. Then ask how long the 60 degree circle is compared with the equator.  
   *Parent says:* Tell me three things. What did you think? What did you find? Why do you think it happened?  
   *Child mode:* Say what you thought, what you found, and why.
-  - Note: A strong answer says that the 60 degree circle is about half as long as the equator, so a spot on it goes half as fast. The 30 degree circle is about 87 out of 100, so those places go about 87 percent as fast. The equator of the real Earth is about 40,075 kilometres. 40,075 divided by 24 is about 1,670 kilometres an hour. Half of that is about 835. A person at the North Pole only turns once on the spot.
+  - Note: A strong answer says that the 60 degree circle is about half as long as the equator, so a spot on it goes half as fast. The 30 degree circle is about 87 out of 100, so those places go about 87 percent as fast. The equator of the real Earth is about 40,075 kilometres. 40,075 divided by 24 is about 1,670 kilometres an hour. Half of that is about 835. A person at the North Pole only turns once on the spot. Real fruit is not a perfect sphere, so do not worry if your answer is a little off half.
   - Think: If the equator is carried at 1,670 kilometres an hour, how fast is a person at the 60 degree circle?
 
 ## Activities
 ### a1 · The Extra Turn: why a day is a little longer than one spin (20 min)
 - **record:** Draw the circle, the lamp and the star. Draw an arrow showing which way you turned, and mark the extra bit you had to turn.
 - **s1 (5 min)**  
-  *Parent does:* Put the torch on a low table in the middle of the room. Lay out eight marks in a circle around it. Stick the star on the far wall, straight behind the lamp from the first mark.  
+  *Parent does:* Put the torch on a low table in the middle of the room. Lay out eight marks in a circle around it, with every arrow on every mark pointing the same way, at the star. Stick the star on the far wall, straight behind the lamp from the first mark.  
   *Parent says:* The lamp is the Sun. The star on the wall is a faraway star. You are the Earth. Stand on the first mark and face the lamp. The star is right behind it.  
   *Child mode:* The lamp is the Sun. The star is on the wall. Stand on mark one and face the lamp.
-  - Note: The star on the wall stands for a star so far away that it always lies in the same direction. The lamp is close. That is why the lamp changes direction as you move round it, but the star does not.
+  - Note: The star on the wall stands for a star so far away that it always lies in the same direction. The lamp is close. That is why the lamp changes direction as you move round it, but the star does not. Every arrow points the same way. That is what far away means: from every mark the star lies in the same direction, while the lamp is close and changes direction. The star wall should be at least 4 metres from the lamp if you can manage, but the arrows make a smaller room work too. Facing the star means lining your feet up with the arrow. With 2 to 4 children, one turns while the others watch and say what they see, then swap. Turn and walk anticlockwise (against the way clock hands go), as seen from above.
 - **s2 (3 min)**  
-  *Parent does:* Ask your child to turn once, slowly, on the spot, to their left, until they face the star again. Ask what they are facing.  
+  *Parent does:* Ask your child to turn once, slowly, on the spot, anticlockwise (to their left), until they face the star again. Ask what they are facing.  
   *Parent says:* Turn once slowly to your left, without moving your feet, until you face the star again. What do you face now?  
   *Child mode:* Turn once to your left on the spot. What do you face now?
   - Ask: After one full turn on the spot, are you facing the star, the lamp, or both? (good: Both.; Both. They are in the same direction.; The star, and the lamp behind it.)
   - Note: If the Earth did not move round the Sun, one spin would bring the Sun back exactly. The star and the lamp are in line, so your child faces both.
 - **s3 (6 min)**  
-  *Parent does:* Go back to the first mark. Ask your child to turn once to their left and step to the next mark, to their left, as they turn. When they finish the turn, they should be facing the star.  
-  *Parent says:* Now the Earth moves round the Sun too. Turn once to your left as you step to the next mark. Stop when you face the star. Are you facing the lamp?  
-  *Child mode:* Turn once and step to the next mark. Stop. Are you facing the lamp?
+  *Parent does:* Go back to the first mark. Ask your child to turn once anticlockwise, and walk anticlockwise round the lamp to the next mark as they turn. Stop with your feet along the arrow, facing the star.  
+  *Parent says:* Now the Earth moves round the Sun too. Turn once anticlockwise as you walk anticlockwise round the lamp to the next mark. Stop with your feet along the arrow, facing the star. Are you facing the lamp?  
+  *Child mode:* Turn once anticlockwise as you walk to the next mark. Stop. Are you facing the lamp?
   - Ask: You are facing the star. Are you facing the lamp? What would you have to do? (good: No. I have to turn a bit more.; The lamp is to my side.; I have to turn a little more to the left.)
-  - Note: After one turn, your child faces the star but the lamp is off to their left, about one eighth of a turn away. They must turn that bit more to face the lamp. The real Earth moves only about 1 degree a day round the Sun, not one eighth of a turn, so the extra turn is much smaller.
+  - Note: The spin and the walk must go the same way, as the real Earth spins and orbits the same way. After one turn, your child faces the star but the lamp is off to their left, about one eighth of a turn away. They must turn that bit more to face the lamp. The real Earth moves only about 1 degree a day round the Sun, not one eighth of a turn, so the extra turn is much smaller. Ask your child to point at the lamp and at the star with both arms, so they can see the angle between their arms. That angle is the extra turn.
 - **s4 (4 min)**  
   *Parent does:* Ask your child to turn the extra bit until they face the lamp. Then tell them the real extra turn is about 1 degree, which takes about 4 minutes.  
   *Parent says:* That extra bit is why a day is longer than one spin. For the real Earth the extra turn is about 1 degree. The Earth turns 1 degree in 4 minutes. So a day is 4 minutes longer than a spin.  
   *Child mode:* The real extra turn is one degree. That takes four minutes.
+  - Note: Try it once more, walking the other way (clockwise). The lamp is now on the other side, so the child must turn back the other way to face it, which means less than a full day, not more. That is why the Earth's spin and its orbit going the same way makes a day longer.
   - Check: One full spin of the Earth takes 23 hours 56 minutes. The Sun takes 24 hours to come back overhead. Why is there a gap? → **The Earth also moves round the Sun, so it must turn a little more**
 - **s5 (2 min)**  
   *Parent does:* Ask your child why a star rises 4 minutes earlier each night.  
@@ -397,15 +398,15 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: A star comes back after one spin, which is 4 minutes before the Sun comes back. So a star rises 4 minutes earlier each night by the clock. After 30 nights it is 2 hours earlier.
   - Think: After a whole month, how much earlier does a star rise?
 ### a2 · Night Watch: who is awake while we sleep? (25 min)
-- **safety:** A grown-up must come, and stay in a safe place. Do not go near wild animals. Do not touch bats, snakes or scorpions.
+- **safety:** A grown-up must come, and stay in a safe place away from the edge of a terrace. Do not go near wild animals. Do not touch bats, snakes or scorpions. Cover arms and legs or use the grown-up's mosquito repellent, because dusk is mosquito time.
 - **record:** A table with three columns: what I heard, what I saw, and where the light came from. Add a drawing of one night creature and the sense it needs.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Choose a safe place to sit, such as a balcony or the building compound. Tell your child to be quiet and still for two minutes. Do not use the torch yet.  
   *Parent says:* We are going to find out who is awake when we are going to bed. First, sit very quietly for two minutes. Just listen. Do not use the torch yet.  
   *Child mode:* Sit still for two minutes. Just listen.
-  - Note: Go at dusk, about half an hour after sunset. Even a city balcony has life: crows flying to roost, bats flying out, crickets, geckos, moths and sometimes frogs after rain. Keep your voice low.
+  - Note: Go at dusk, about half an hour after sunset. Even a city balcony has life: crows flying to roost, bats flying out, crickets, geckos, moths and sometimes frogs after rain. Keep your voice low. One child with a parent: the parent keeps watch and writes. With 2 to 4 children, split the jobs: one listens, one looks at the sky, one holds the red torch, one writes the tally, and swap after each step. If you hear and see almost nothing, count that too: write 'none' and try again on a night after rain, when frogs and insects are out.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* Ask your child to listen and look at the sky for five minutes. Write down every sound and everything that moves. Do not use the torch.  
+  *Parent does:* Ask your child to listen and look at the sky for five minutes. Write down every sound and everything that moves. Make a tally mark each time, so you end with a count for each kind. Do not use the torch.  
   *Parent says:* What can you hear? What can you see in the sky? Write down everything you notice. Is anything flying?  
   *Child mode:* Listen and look. Write down every sound and everything that moves.
   - Ask: Which sounds are made by animals, and which by people or machines? (good: Crickets are animals.; The frogs are animals.; The traffic is people.)
@@ -429,13 +430,13 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Parent does:* On a clear night, take your child out to a place with a view of the sky. Hold the tube up so it points at a patch of sky away from any streetlight. Ask for a guess of how many stars they will see in the tube.  
   *Parent says:* Hold the tube up and look through it at a patch of dark sky. How many stars do you think you can see? And will the number change when we switch the lights off?  
   *Child mode:* Look through the tube. How many stars will you see? Will it change in the dark?
-  - Note: Pick a patch of sky away from the Moon. If the Moon is bright, wait for a moonless night. Mark the patch by remembering a landmark near it, such as a rooftop corner.
+  - Note: Pick a patch of sky away from the Moon. If the Moon is bright, wait for a moonless night. Mark the patch by remembering a landmark near it, such as a rooftop corner. A foil-roll tube shows a very small patch, so in a bright city it may show only 0 to 5 stars. That is a real result. If you count none with the lights on, count the stars inside your fist held out at arm's length instead, which shows a bigger patch. With 2 to 4 children, give each child a tube and one patch of sky each, or have everyone count the same patch and compare numbers. Do it on a clear night. Haze, smoke or cloud will give a count that says nothing about lights, so choose another night.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Count the stars in the tube patch with the lights on. Write the number down. Stay in the same place and point at the same patch.  
   *Parent says:* Count the stars you can see through the tube. Write the number. Remember the patch you are looking at.  
   *Child mode:* Count the stars in the tube. Write the number.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* Switch off all the lights you can, and shield your eyes from streetlights with a hand or a hat. Wait ten minutes without looking at a screen. Then count the stars in the same patch.  
+  *Parent does:* Switch off all the lights you can, and shield your eyes from streetlights with a hand or a hat. Wait ten minutes without looking at a screen. Then count the stars in the same patch, still in the same place with the same tube.  
   *Parent says:* Now wait ten minutes in the dark. Do not look at any screen. Your eyes slowly get better at seeing dim things. Then count again.  
   *Child mode:* Wait ten minutes in the dark. No screens. Then count again.
   - Note: Your eyes need 20 to 30 minutes in the dark to see at their best, and the first ten minutes already give a clear change. Expect to see several more stars the second time, but still far fewer than in a village sky.
@@ -447,7 +448,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: In a city, streetlights and building lights scatter in the air and make the sky glow, so dim stars cannot be seen against it. A study in 2016 estimated that more than 80 percent of people on Earth live under skies brightened by artificial light. If you visit a village, try this again there.
   - Think: What could a village sky show that a city sky cannot?
 ### a4 · A Day on Each Planet: one second for every hour (15 min)
-- **safety:** Turn slowly. Stop if you feel dizzy and sit down.
+- **safety:** Turn slowly, with arms out, in a clear space away from furniture, stairs and sharp corners. Stop if you feel dizzy and sit down.
 - **record:** A table with the planet, its day in hours, and the seconds it takes to turn once in the game. Add Venus with its time worked out.
 - **s1 (3 min)**  
   *Parent does:* Show your child the table of day lengths. Earth is 24 hours, Mars about 24.6 hours, Jupiter about 10 hours and Venus 243 days. Ask for a guess of which planet takes the longest to turn once.  
@@ -456,10 +457,10 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Ask: Why do you think that planet turns the slowest? (good: It is the smallest.; It is the biggest.; It is the furthest.)
   - Note: Do not correct the guess. Many children guess that the biggest planet turns the slowest. Jupiter is the biggest and turns the fastest.
 - **s2 (4 min)**  
-  *Parent does:* Ask your child to stand with arms out and turn slowly to the left. Start the stopwatch and ask them to take 24 seconds for one full turn. This is the Earth. Then do Mars at about 25 seconds.  
+  *Parent does:* Ask your child to stand with arms out and turn slowly to the left. Start the stopwatch and ask them to take 24 seconds for one full turn. Write down the time they really took and how far off it was. This is the Earth. Then do Mars at about 25 seconds.  
   *Parent says:* Turn to your left, slowly. Take 24 seconds to make one full turn. That is one Earth day. Try again for Mars, which takes 25 seconds.  
   *Child mode:* Turn to your left. Take 24 seconds for one turn. That is Earth.
-  - Note: Count aloud together. A slow, steady turn is the idea. Children turn too fast at first, so this is harder than it looks.
+  - Note: Count aloud together. A slow, steady turn is the idea. Children turn too fast at first, so this is harder than it looks. Working together: one child turns, one runs the stopwatch and counts aloud, one writes down the real time. With 2 to 4 children everyone tries each planet and the group writes who came closest to 24 seconds for the Earth. One child with a parent can swap jobs. A good test: try the turn again with the same time, and see if you get better. Do not spin faster than the target time, because the aim is slow and steady.
 - **s3 (3 min)**  
   *Parent does:* Now ask your child to turn once in only 10 seconds. This is Jupiter. Ask how it feels different from the Earth turn.  
   *Parent says:* Now turn once in 10 seconds. That is Jupiter. It spins more than twice in one Earth day. How does it feel?  
@@ -485,7 +486,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Child mode:* Speak for one minute as your role. What would you gain or lose?
   - Ask: What would change for the railway planner if there were two zones? (good: Timetables would be more confusing.; Trains crossing the border would need a clock change.; Mistakes could happen.)
   - Ask: What would change for the child in Arunachal Pradesh? (good: Sunset would come an hour later by the clock.; More light in the evening.; Less walking in the dark.)
-  - Note: There is no right answer. People disagree for good reasons. A single clock is simple, and a zone for the east follows the Sun more closely. Do not steer the vote.
+  - Note: There is no right answer. People disagree for good reasons. A single clock is simple, and a zone for the east follows the Sun more closely. Do not steer the vote. Only one child: the child picks two roles and the parent plays the other two, speaking in turn. With 2 to 4 children, give out one role card each and let any extra children be the judges who keep the tally of arguments for each side. Four cards can be written in a minute on scrap paper.
 - **s3 (8 min)**  
   *Parent does:* Vote again. Count the votes. Ask if anyone changed their mind, and which argument changed it. Then ask what facts about the Sun would help decide.  
   *Parent says:* Vote again. Did anyone change their mind? What changed it?  
@@ -495,7 +496,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 
 ## Projects
 ### p1 · Star Gate: the star that comes early (60 min, 6 days)
-- **safety:** A grown-up must come along when you watch at night.
+- **safety:** A grown-up must come along when you watch at night, and stay with the child. On a terrace, stay well back from the open edge. Use mosquito repellent or cover your arms and legs.
 - **record:** A table with the night, the time the star went behind the edge, and how many minutes earlier than night 1. Draw a line graph of the times.
 - **schedule:** day 1: Choose the spot, the edge and a bright star. Write the time the star goes behind the edge. (15 min); day 2: Same spot. Write the time again. (10 min); day 3: Same spot. Write the time again. (10 min); day 4: Same spot. Write the time again. (10 min); day 5: Same spot. Write the time again. (10 min); day 6: Compare all the times and explain. (5 min)
 - **s1 (10 min) · grown-up needed**  
@@ -503,7 +504,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Parent says:* Pick a bright star in the western sky that is about to go behind a rooftop or a tree. Stand on the tape mark. Write down the exact minute the star disappears.  
   *Child mode:* Pick a bright star near an edge. Stand on the tape. Write the time it vanishes.
   - Ask: Do you think the star will vanish at the same time tomorrow? Why do you think so? (good: Yes, because the Earth turns once a day.; No, because the Earth moves round the Sun.; A bit earlier.)
-  - Note: Choose a star, not a planet. Stars twinkle. Planets shine with a steady light and move against the stars. The Moon will not work, because it moves too fast. Start the watch about 20 minutes before the star disappears. Stay in the same exact spot each night, because moving a metre changes the time. The Stellarium Web planetarium can help you find a bright star.
+  - Note: Choose a star, not a planet. Stars twinkle. Planets shine with a steady light and move against the stars. The Moon will not work, because it moves too fast. Start watching about 20 minutes before the star disappears. Stay in the same exact spot each night, because moving a metre changes the time. The Stellarium Web planetarium can help you find a bright star. If the time hardly changes from night to night, less than 2 minutes, you have picked a planet, so choose a different star. Stars near the horizon fade in haze, so a high edge works better. No phone? Ask which bright 'star' in the west at dusk is a planet, or pick the brightest one that twinkles. One child with a parent: the child stands on the tape and calls 'gone', and the parent reads the watch and writes. With 2 to 4 children, take turns on the tape, one standing, one with the watch and one writing, and swap each night. Only one pair of eyes should stand on the tape each night, so everyone sees the same thing.
   - Check: Why do we stand in exactly the same spot each night? → **So the only thing that changes is the date**
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Next night, go to the same spot at the same time as before, minus about 10 minutes. Write down the exact time the star disappears behind the same edge.  
@@ -521,7 +522,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Parent does:* Draw a line graph of the times, with the night along the bottom and the minutes earlier up the side. Ask your child to explain the pattern.  
   *Parent says:* Plot your times as a line graph. What pattern do you see? Why does the star vanish earlier each night?  
   *Child mode:* Plot a line graph. What pattern do you see? Why?
-  - Note: Expect a straight line sloping down, at about 4 minutes a night. After 5 nights that is about 20 minutes. The star comes back to the same place after one spin, which is 23 hours 56 minutes. The Sun takes 24 hours. So the star keeps 4 minutes ahead of the clock. After a month, it is 2 hours earlier. After a year, it is back to the start. If you cannot see stars at all, use the Stellarium Web planetarium on a phone, and step the date forward one day at a time.
+  - Note: Expect a straight line sloping down, at about 4 minutes a night. Typical numbers: after 5 nights, night 5 is about 16 minutes earlier than night 1 (four gaps of about 4 minutes). The star comes back to the same place after one spin, which is 23 hours 56 minutes. The Sun takes 24 hours. So the star keeps 4 minutes ahead of the clock. After a month, it is 2 hours earlier. After a year, it is back to the start. If you cannot see stars at all, use the Stellarium Web planetarium on a phone, and step the date forward one day at a time.
   - Think: After a whole month, how much earlier would the star vanish? Where would it be at the same time of night?
 
 ## Challenges
@@ -801,7 +802,7 @@ Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, nig
 
 ## Things to buy
 - [A small globe](https://www.amazon.in/s?k=world+globe+for+kids) (tool): Optional. A globe shows the longitudes and latitudes of real places. An orange works for the experiments, but a globe is good for the card game. Used in g1, e2. 
-- [Red cellophane or a red gel sheet](https://www.amazon.in/s?k=red+cellophane+sheet) (material): For the red torch in the Night Watch and the lamp challenge. A red cloth over a torch also works. Used in a2, c2. 
+- [Red cellophane or a red gel sheet](https://www.amazon.in/s?k=red+cellophane+sheet) (material): For the red torch in the Night Watch and the lamp challenge. Red cellophane from a stationery or gift-wrap shop costs a few rupees. A red sweet wrapper, red polythene or a thick red cloth over a torch also works, but use two layers if the light still looks white. Used in a2, c2. 
 - [A small pair of binoculars](https://www.amazon.in/s?k=binoculars+for+kids) (tool): Optional. For the Star Gate project and the star count. Stars are easy to see without them, but binoculars show many more. Used in p1, a3. 
 
 ## Warm-up

@@ -245,13 +245,14 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 
 ## Games
 ### g1 · Level Detective: how high in the chain is she? (25 min)
-- **rules:** A level is 1 plus the average level of what a being eats. Plants and dead plant matter are level 1.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player writes a guess on a slip, such as 2, 2.5 or 3.75. Then everyone shows their slip together.; The reader turns the card over and reads the back. The player closest to the answer scores 2 points. Anyone who guessed it exactly scores 3.; If two players are equally close, both score. Any player who can explain the working scores 1 extra point.; With two players, the parent and the child swap roles after every card. The reader never guesses on her own card.; Playing alone, write your guess before you look at the back. You score 2 for a guess within 0.25, and 3 for an exact one.; Play ten cards. The player with the most points wins. Playing alone, try to beat 20 points.
+- **rules:** A level is 1 plus the average level of what a being eats. Plants and dead plant matter are level 1.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player writes a guess on a slip, such as 2, 2.5 or 3.75. Then everyone shows their slip together.; The reader turns the card over and reads the back. The player closest to the answer scores 2 points. Anyone who guessed it exactly scores 3.; If two players are equally close, both score. Any player who can explain the working scores 1 extra point.; With two players, the parent and the child swap roles after every card. The reader never guesses on her own card, so the guesser scores as when playing alone.; Playing alone, write your guess before you look at the back. You score 2 for a guess within 0.25, and 3 for an exact one.; Play ten cards. The player with the most points wins. Playing alone, try to beat 20 points.
 - **Printable cards: 24 two-sided cards: a creature and her diet on the front, and her level with the working on the back:** Grasshopper. She eats only grass. Guess her level (1 to 5). (back: Level 2. Grass is level 1, and she eats only grass. Her level is 1 plus 1.); Cow. She eats grass and paddy straw, all of it from plants. (back: Level 2. Her whole diet is level 1, so she is 1 plus 1.); Zooplankton, tiny drifting animals of the sea. They eat tiny algae. (back: Level 2. Tiny algae are producers at level 1.); Honeybee. She drinks nectar and eats pollen from flowers. (back: Level 2. Nectar and pollen come from plants, which are level 1.); Earthworm. She eats dead leaves in the soil. Count dead leaves as level 1, the same as the plants they came from. (back: Level 2. Dead plant matter keeps the level of the plant.); Mangrove crab. She pulls fallen mangrove leaves into her burrow and eats them. (back: Level 2. Fallen leaves are plant matter at level 1.); Frog. She eats grasshoppers and caterpillars, who eat only plants. (back: Level 3. Her food is all level 2, so she is 2 plus 1.); Spider. She catches flies and grasshoppers in her web. Both are level 2. (back: Level 3. Her food is all level 2, so she is 2 plus 1.); Tiger. She eats chital deer, who eat only plants. (back: Level 3. Deer are level 2, so a tiger who eats only deer is level 3.); Vulture. She eats dead cattle. Cattle are level 2. (back: Level 3. A scavenger takes the level of what she eats, plus one.); Female mosquito. She drinks the blood of cattle, who are level 2. (back: Level 3. Her blood meal comes from a level 2 animal.); Insect-eating bat. She catches moths and beetles who eat plants. (back: Level 3. Moths and beetles are level 2, so she is 2 plus 1.); Sardine, or mathi. Half of her food is tiny algae and half is zooplankton. (back: Level 2.5. The algae are 1 and the zooplankton are 2. The average is 1.5. Add 1.); Crow. Half of her food is grain and fruit, and half is insects who eat plants. (back: Level 2.5. Grain and fruit are 1, insects are 2. The average is 1.5. Add 1.); Prawn. Half of her food is rotting leaf mud and half is tiny worms who feed on that mud. (back: Level 2.5. Leaf mud is 1, the worms are 2. The average is 1.5. Add 1.); Hen. Three quarters of her food is grain and kitchen scraps, and one quarter is insects. (back: Level 2.25. Three quarters of her food is 1 and one quarter is 2. The average is 1.25. Add 1.); House gecko. Half of her food is moths (level 2) and half is spiders (level 3). (back: Level 3.5. The average of 2 and 3 is 2.5. Add 1.); Rat snake. Half of her food is frogs (level 3) and half is rats who eat grain (level 2). (back: Level 3.5. The average of 3 and 2 is 2.5. Add 1.); Heron. Half of her food is small fish (level 2.5) and half is frogs (level 3). (back: Level 3.75. The average of 2.5 and 3 is 2.75. Add 1.); Hawk. Half of her food is snakes (level 3.5) and half is rats (level 2). (back: Level 3.75. The average of 3.5 and 2 is 2.75. Add 1.); Tuna. Half of her food is sardines (level 2.5) and half is squid (level 3.5). (back: Level 4. The average of 2.5 and 3.5 is 3. Add 1.); A big shark. She eats only tuna, who are level 4. (back: Level 5. Her whole diet is level 4, so she is 4 plus 1.); Meenakshi eats mostly rice, dal and vegetables. Nine tenths of her food is plants and one tenth is curd (level 2). (back: Level 2.1. Nine tenths at 1 and one tenth at 2 gives 1.1. Add 1.); Farhan eats half plants (level 1), a quarter milk (level 2) and a quarter fish (level 3). (back: Level 2.75. Half at 1 is 0.5, a quarter at 2 is 0.5, a quarter at 3 is 0.75. The sum is 1.75. Add 1.)
 - **Printable score sheet: Score sheet for Level Detective:** Round 1: my guess ___ answer ___ points ___; Round 2: my guess ___ answer ___ points ___; Round 3: my guess ___ answer ___ points ___; Round 4: my guess ___ answer ___ points ___; Round 5: my guess ___ answer ___ points ___; Round 6: my guess ___ answer ___ points ___; Round 7: my guess ___ answer ___ points ___; Round 8: my guess ___ answer ___ points ___; Round 9: my guess ___ answer ___ points ___; Round 10: my guess ___ answer ___ points ___; Total points: ___
 - **s1 (4 min)**  
   *Parent does:* Cut out the 24 cards. Shuffle them and make a pile, front side up. Print the score sheet. Read the first rule together.  
   *Parent says:* Each card names a living being and what she eats. We guess her level. A level is 1 plus the average level of her food.  
   *Child mode:* Cut out the cards. Shuffle them. A level is 1 plus the average level of her food.
+  - Note: No printer? Write the 24 cards by hand on slips of paper. You only need 10 to play. With 3 or 4 players, the reader changes after every card.
 - **s2 (8 min)**  
   *Parent does:* Play the first five cards. After each one, read the back aloud and check the working. Ask the question below after the third card.  
   *Parent says:* The reader reads the front. Everyone writes a guess. Show your slips. Now the reader turns the card and reads the working.  
@@ -274,7 +275,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 - **question:** When a peanut burns under a tin of water, how much does the water warm? And does a foil shield around the flame catch more of the heat?
 - **predict:** Before you start, guess. How many degrees will the water warm from one burning peanut? Will the foil shield make it warmer or not? Why do you think so?
 - **fair test:** Every trial uses 100 millilitres of water from the same jug, a peanut of about the same size, and a tin held 4 centimetres above the nut. The only thing that changes is the foil shield. Trials 1 and 2 have no shield. Trials 3 and 4 have the shield. We do each twice, because one try can be a fluke.
-- **safety:** A grown-up lights the nut and holds the hot tin. The nut burns with a real flame and spits a little oil. Work on a steel tray, away from curtains, with a bowl of water and a wet cloth close by. Tie back long hair and loose dupattas. Open a window, because the smoke smells strong. Never eat a nut that has been burned. Do not leave a burning nut alone. A burned nut stays hot for a minute, so let it cool before touching.
+- **safety:** A grown-up lights the nut and holds the hot tin. The nut burns with a real flame and spits a little oil. Work on a steel tray, away from curtains, with a bowl of water and a wet cloth close by. Tie back long hair and loose dupattas. Switch off the fan, because moving air blows the flame about. Open a window, because the smoke smells strong. Keep young children a full arm's length back. Never eat a nut that has been burned. Do not leave a burning nut alone. A burned nut stays hot for a minute, so let it cool before touching.
 - **record:** Write the start and end temperatures for each trial and the rise. Work out the average rise for bare and for shielded. Then write one sentence each for: what I think, what I saw, and why.
 - **results table:** Trial | Set-up | Water at the start (degrees) | Water at the end (degrees) | Rise (degrees)
 - **s1 (5 min)**  
@@ -282,7 +283,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Parent says:* We will burn a peanut under 100 millilitres of water. How many degrees will the water warm? Will a foil shield help? Why do you think so?  
   *Child mode:* We will burn a peanut under a tin of water. How much will the water warm? Will foil help? Why?
   - Ask: Why do you think the water will warm by that much? (good: The peanut is hot when it burns.; A flame heats water.; A peanut has a lot of energy inside.)
-  - Note: Do not correct the guess. A guess with a reason is a good start. Most children guess 1 or 2 degrees, or 50. The real answer is somewhere between.
+  - Note: With 2 to 4 children, everyone guesses first. Turn the jobs each trial: the grown-up lights, one child times, one reads and stirs, one writes. All children work out the averages. Do not correct the guess. A guess with a reason is a good start. Most children guess 1 or 2 degrees, or 50. The real answer is somewhere between.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Work on a steel tray. A grown-up reads the safety rules first. Press the clay into the lid. Stand the nail in the clay. Press a peanut on to the nail point. Pour 100 millilitres of cold water into the tin. Read the start temperature and write it in the table.  
   *Parent says:* A grown-up is in charge of the flame. Press the nail into the clay and a peanut on to the nail. Pour 100 millilitres of water in the tin. Read the temperature and write it down.  
@@ -293,7 +294,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Parent says:* Light the nut. It may take up to 30 seconds. Hold the tin 4 centimetres above the flame until it goes out. Then stir the water gently and read the highest number.  
   *Child mode:* A grown-up lights the nut. We hold the tin above it. When the flame dies, we stir and read the temperature.
   - Ask: What do you see and smell while the nut burns? (good: A yellow flame.; It crackles and spits oil.; Smoke.; It smells like roasted nuts.)
-  - Note: The nut may take a few tries to light, because the skin is damp. Let the flame touch an edge. A good peanut burns for 20 to 60 seconds. Many families see a rise of 3 to 10 degrees. If the rise is under 2 degrees, use only 50 millilitres of water in every trial. Dry the tin before refilling. Do not reuse a half-burned nut.
+  - Note: The nut may take a few tries to light, especially in damp weather. Dry the nuts in the sun for an hour first. A cashew lights more easily than a peanut. Let the flame touch an edge. A good peanut burns for 20 to 60 seconds. A rise of about 3 to 10 degrees is typical, but we have not promised it. For a steadier tin, rest it across two upside-down steel katoris about 4 centimetres tall. A black ash left behind is normal. If the rise is under 2 degrees, use only 50 millilitres of water in every trial. Dry the tin before refilling. Do not reuse a half-burned nut.
   - Check: The water warmed by 6 degrees. What is the best explanation? → **Some of the energy stored in the peanut moved into the water as heat.**
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* Trial 3 and 4: with the shield. Roll the foil strip into a ring about 8 centimetres wide and 4 centimetres tall. Cut two small notches at the bottom for air. Stand the ring round the nail. Light the nut. Rest the tin on top of the ring. Read the water as before.  
@@ -304,14 +305,14 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Parent does:* Work out the average rise for the bare trials and for the shield trials. Then ask your child to say what they thought, what they saw and why. Read the nutrition label of the nuts together.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Work out the average rise for each set-up. Say what you thought, what you saw and why.
-  - Note: A strong answer says that the shield trials warmed the water more, because less heat escaped into the room. After they have spoken, explain: the water caught only some of the heat. To find the share, weigh 10 nuts. One nut is about 0.6 grams. The label says about 24 kilojoules in a gram of peanut, so one nut holds about 14 kilojoules. The water caught 100 grams times 4.2 joules times the rise. For a rise of 8 degrees that is 3360 joules, or 3.4 kilojoules, about one quarter. The rest warmed the air, the tin and the foil, or left as smoke.
+  - Note: A strong answer says that the shield trials warmed the water more, because less heat escaped into the room. If the two averages differ by under 1 degree, say the test cannot tell, and repeat it. After they have spoken, explain: the water caught only some of the heat. To find the share, weigh 10 nuts. A nut is typically about 0.6 grams, so weigh yours if you can. The label says about 24 kilojoules in a gram of peanut, so one nut holds about 14 kilojoules. The water caught 100 grams times 4.2 joules times the rise. For a rise of 8 degrees that is 3360 joules, or 3.4 kilojoules, about one quarter. These numbers are rough, because a nut rarely burns fully. The rest warmed the air, the tin and the foil, or left as smoke.
   - Check: Water in the shielded set-up warmed more than in the bare set-up. What does that show? → **The shield stopped some heat from escaping into the room.**
   - Think: Where did the rest of the heat go? How could you catch more of it?
 ### e2 · Warm Seeds: do living things give off heat? (55 min, 3 days)
 - **question:** Does a box of sprouting moong become warmer than a box of boiled moong or an empty box, if all three sit in the same room?
 - **predict:** Before you start, guess. Which box will be warmest after a day? Will any box be warmer than the room? Why do you think so?
 - **fair test:** All three boxes have the same size and the same lid. Box A holds soaked, living moong. Box B holds the same amount of moong that has been boiled, so the seeds are dead. Box C is empty. All sit side by side in one big cardboard box, wrapped in a towel. We read the same thermometer in each box at the same times. Box C shows what the room does to a box with nothing alive in it. Box B shows that heat does not come from the moong simply being there.
-- **safety:** A grown-up boils the moong and drains it. Hot water scalds. Do not eat any moong from this test, because it sits warm for a day. Wash your hands after touching the seeds.
+- **safety:** A grown-up boils the moong and drains it. Hot water scalds. Do not eat any moong from this test, because it sits warm for a day. Keep the tubs away from toddlers, because moong seeds are small. Wash your hands after touching the seeds.
 - **record:** Write each temperature in the table. Draw a line graph with one line for each box. Say which box was warmest, and by how many degrees.
 - **results table:** Time | Room (degrees) | Box A: living moong (degrees) | Box B: boiled moong (degrees) | Box C: empty (degrees)
 - **schedule:** day 1: In the evening, soak the moong in plenty of water and leave it overnight. (10 min); day 2: In the morning, drain the moong, boil half, set up the three boxes, and read the first temperatures. Read again at noon and at evening. (35 min); day 3: Read the temperatures the next morning, about 24 hours after the start. Draw the graph and write what you think. (10 min)
@@ -320,7 +321,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Parent says:* We will soak these seeds tonight. Tomorrow we will look for heat. Will living seeds make any heat? Why do you think so?  
   *Child mode:* Soak the moong in water tonight. Will living seeds make heat? Why do you think so?
   - Ask: Do you think a living seed makes heat? Why? (good: Yes, because all living things make heat.; No, because a seed is asleep.; I am not sure.)
-  - Note: A seed is alive and resting. Water wakes it up, and it begins to respire to grow. Do not correct the guess.
+  - Note: A seed is alive and resting. Water wakes it up, and it begins to respire to grow. Test the seeds first. Soak a spoonful in a cup. White tips should show in a day. If not, buy fresh whole moong. With 2 to 4 children, each guesses and draws a graph. They take turns to read the thermometer and write. Do not correct the guess.
   - Wait: Leave the moong in water overnight.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* On day 2, drain the moong. Put half in a pan with fresh water and boil it for 10 minutes. A grown-up drains it and cools it fully to room temperature. Fill tub A with the living moong and tub B with the cooled, boiled moong. Leave tub C empty. Put the lids on loosely.  
@@ -331,13 +332,13 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Parent does:* Put the three tubs in the cardboard box. Wrap the box in a towel. Push the thermometer into the middle of each tub. Wait one minute each and read it. Always go in the order room, A, B, C. Write the numbers in the first row.  
   *Parent says:* Put the tubs side by side in the box. Read the room first. Then read A, B and C the same way each time. Write the numbers down.  
   *Child mode:* Put the tubs in the box. Read the room, then A, B and C. Write the numbers.
-  - Note: Wipe the thermometer between tubs. The first readings should be almost the same. If A and B differ by more than 1 degree, wait 20 minutes and read again.
+  - Note: Pack the gaps with crumpled newspaper. Wipe the thermometer between tubs. The first readings should be almost the same. If A and B differ by more than 1 degree, wait 20 minutes and read again.
   - Check: Why does the test include a box with boiled moong? → **To show that heat does not come from moong that is only sitting there.**
 - **s4 (10 min)**  
   *Parent does:* Read the room and the three tubs again at noon and at evening. Always use the same order and wait the same time. Write the numbers. Do not open the tubs for longer than you need.  
   *Parent says:* Read the room, A, B and C again. Write the numbers. Keep the lids closed between readings.  
   *Child mode:* Read all four numbers again. Write them down. Close the lids.
-  - Note: A rise of 1 or 2 degrees is real if the thermometer gave the same number in all three tubs at the start. Moong that is sprouting well will have small white tips by the evening. If A is no warmer than C, add more moong, use a smaller tub, or wrap the box with another towel.
+  - Note: Keep the box in the coolest, shadiest room, away from the fan and the sun. In hot weather, tub B may warm too, and smell sour, as microbes grow. A rise of 1 or 2 degrees is typical, and it may be zero. A rise is real if the thermometer gave the same number in all three tubs at the start. Moong that is sprouting well will have small white tips by the evening. If A is no warmer than C, add more moong, use a smaller tub, or wrap the box with another towel.
 - **s5 (10 min)**  
   *Parent does:* On day 3, read all four numbers again. Draw a line graph, one line for each tub. Ask your child to say what they thought, what they saw and why. Then throw the moong away.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -354,47 +355,48 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Parent says:* These are made-up numbers for a grass field. We will draw how wide each level is. The widest strip is the grass. The snake is just a line.  
   *Child mode:* Cut a wide strip for the grass. Make the grasshoppers narrower. Make the frogs and snake thin lines. Glue them in a pyramid.
   - Ask: What shape do you get? (good: A pyramid.; Wide at the bottom and narrow at the top.)
-  - Note: The made-up numbers keep the sums easy. If cutting a 1 millimetre strip is hard, draw the thin levels with a pen.
+  - Note: With 2 to 4 children, each makes one pyramid, and you glue them on one big sheet. One child checks the widths with the ruler. The made-up numbers keep the sums easy. If cutting a 1 millimetre strip is hard, draw the thin levels with a pen.
 - **s2 (8 min)**  
-  *Parent does:* Now do a banyan tree. One tree. 1000 insects that eat her leaves. 20 birds that eat the insects. 1 hawk. Use the same rule, 1 centimetre for every 100. The tree is a line. The insects are 10 centimetres wide. Glue them in a pile and look at the shape.  
-  *Parent says:* Now a banyan tree. There is one tree, but 1000 insects live on her leaves. Make the strips. What shape do you get?  
+  *Parent does:* First sketch the shape you expect. Now do a banyan tree. One tree. 1000 insects that eat her leaves. 20 birds that eat the insects. 1 hawk. Use the same rule, 1 centimetre for every 100. The tree is a line. The insects are 10 centimetres wide. Glue them in a pile and look at the shape.  
+  *Parent says:* First sketch the shape you expect. Now a banyan tree. There is one tree, but 1000 insects live on her leaves. Make the strips. What shape do you get?  
   *Child mode:* Make strips for one banyan tree. One tree is a line. Then 1000 insects, 20 birds and 1 hawk. What shape is it?
   - Note: The shape is thin, wide, thin, thinner. This is correct. Counting the number of beings makes the tree look unimportant, even though she feeds everyone.
   - Check: The banyan pyramid of numbers is wide in the middle. What does that tell us? → **One big producer can feed very many small animals.**
 - **s3 (9 min)**  
-  *Parent does:* Now the open sea. Weigh the living matter at one moment, in tonnes: tiny algae 2, tiny animals 5, small fish 3, tuna 1. Use 1 centimetre for each tonne and glue the strips. Then make a second pyramid for the energy in a year: 1000, 100, 10 and 1. Use 1 centimetre for every 100 units. Compare the two.  
+  *Parent does:* Now the open sea. These made-up weights are in tonnes, at one moment. Tiny algae 2, tiny animals 5, small fish 3, tuna 1. Use 1 centimetre for each tonne and glue the strips. Then make a second pyramid for the energy in a year: 1000, 100, 10 and 1. Use 1 centimetre for every 100 units. Compare the two.  
   *Parent says:* In the open sea, the algae are eaten as fast as they grow. At one moment they weigh less than the tiny animals who eat them. Make that pyramid. Then make the energy pyramid.  
   *Child mode:* Make a weight pyramid for the sea. The algae are narrow. Then make the energy pyramid. Compare them.
   - Ask: Why is the energy pyramid still the right way up? (good: The algae make a lot of food over a year.; Energy cannot grow on the way up.; Each level passes on less.)
   - Note: The weight pyramid is narrow at the very bottom, because the algae are eaten as quickly as they grow. The energy pyramid is wide at the bottom, because the algae make far more food each year than any other level. The numbers are made up to show the pattern.
 ### a2 · Who lives in the dead leaves? A funnel trap for tiny animals (40 min)
-- **safety:** A grown-up cuts the bottle. The bulb gets hot, so keep it 10 centimetres above the soil and do not touch it. Wash your hands after touching soil or compost. Do not touch any animals with your bare hands.
+- **safety:** A grown-up cuts the bottle. The bulb gets hot, so keep it 15 centimetres above the soil (10 for an LED) and away from the plastic. Do not touch it. Stay in the room while it is on. Centipedes can bite, so lift nothing with your fingers. Use a spoon or paper strip. Wash your hands after touching soil or compost. Do not touch any animals with your bare hands.
 - **record:** Draw the animals you find, and write how many you counted and what each might eat.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* A grown-up cuts the top third off the bottle. Turn the top upside down and stand it in a jar. Put the net inside. Add the leaf litter. Ask your child to guess what will fall into the jar and why.  
   *Parent says:* We will see who lives in the dead leaves. Light and warmth dry the leaves from the top. What do you think will fall into the jar? Why?  
   *Child mode:* Make a funnel with the bottle top. Put the leaves in. What will fall into the jar? Why?
-  - Note: The best litter is damp, brown and crumbly, from under a tree, from a compost pot or from a kitchen compost bin. Fresh potting mix often has almost nothing alive. If your soil is dry, mist it. The animals are tiny, so use the magnifying glass.
+  - Note: The best litter is damp, brown and crumbly, from under a tree, from a compost pot or from a kitchen compost bin. Fresh potting mix often has almost nothing alive. If your soil is dry, mist it. With 2 to 4 children, make one funnel each with a different litter, such as under a tree, a compost pot and dry soil. The animals are tiny, so use the magnifying glass.
 - **s2 (5 min)**  
-  *Parent does:* Put the lamp 10 centimetres above the leaves and switch it on. Set a timer for 45 minutes. Do not move the funnel. Let your child draw what they think they will see.  
-  *Parent says:* Turn the lamp on. The animals dislike the dry heat, so they crawl down and fall into the jar. We wait 45 minutes.  
-  *Child mode:* Switch the lamp on. Wait 45 minutes. Do not touch the funnel.
-  - Note: Keep the lamp away from anything that burns. A paper towel under the jar is fine. If you see nothing, wait another 45 minutes.
-  - Wait: Wait 45 minutes.
+  *Parent does:* Put the lamp 15 centimetres above the leaves and switch it on. Set a timer for 1 hour. Do not move the funnel. Let your child draw what they think they will see.  
+  *Parent says:* Turn the lamp on. The animals dislike the dry heat, so they crawl down and fall into the jar. We wait one hour.  
+  *Child mode:* Switch the lamp on. Wait 1 hour. Do not touch the funnel.
+  - Note: Keep the lamp away from anything that burns. A paper towel under the jar is fine. If you see nothing, wait another hour. A big catch needs 2 hours.
+  - Wait: Wait 1 hour.
 - **s3 (15 min)**  
   *Parent does:* Put a little of what fell into the jar on the white plate. Look with the magnifying glass. Count how many kinds you see. Draw two. Say what each one might be eating.  
   *Parent says:* Look at the plate. Count the kinds of animals. Draw two of them. What might each one eat?  
   *Child mode:* Tip the jar on to the plate. Look with the lens. Count the kinds. Draw two.
   - Ask: Which of these animals eats leaves, and which eats other animals? (good: The ones with small mouths eat leaves or fungus.; The fast ones with big jaws eat other animals.)
-  - Note: You may find springtails, which are tiny and jump, mites, small pale worms, tiny beetles, centipedes and ants. Many are detritivores. A fast-moving one with big jaws, like a centipede, is probably a hunter. If almost nothing fell, that is a result too. Try compost or leaf litter from outside.
+  - Note: You may find springtails, which are tiny and jump, mites, small pale worms, tiny beetles, centipedes and ants. Many are detritivores. A fast-moving one with big jaws, like a centipede, is probably a hunter. If almost nothing fell, that is a result too. Count each funnel on its own and compare. Try compost or leaf litter from outside.
   - Check: Why do the animals fall down into the jar? → **The lamp dries the top of the leaves, so they move away from the heat and dryness.**
+  - Think: Which litter gave the most animals? Why do you think so?
 ### a3 · The Level of My Lunch (20 min)
 - **record:** Draw your lunch with an arrow from each food to the being it came from. Write the level number next to each food.
 - **s1 (7 min)**  
   *Parent does:* Look at a lunch plate, yours or one from a photograph. List each food. For each, write what living being it came from. Rice came from a rice plant. Curd came from a cow. A fish fry came from a fish.  
   *Parent says:* Look at the food on your plate. Write each food on a list. Next to it, write the living being it came from.  
   *Child mode:* List the foods on your plate. Next to each, write the living being it came from.
-  - Note: Use real foods from your own lunch. A thali with rice, sambar, a vegetable, curd and an egg or fish is a good example.
+  - Note: A plain vegetarian plate is fine. Its level will be low, and the method is the point. Use real foods from your own lunch. A thali with rice, sambar, a vegetable, curd and an egg or fish is a good example.
 - **s2 (8 min)**  
   *Parent does:* Write a level for each food. Plants are level 1. A cow eats grass, so she is level 2, and so are milk and curd. A hen eats half grain and half insects, and she is about 2.25. A sardine is about 2.5. Egg: 2.25. Fish fry: 2.5.  
   *Parent says:* A food has the level of the being it came from. Plants are level 1. Cows are level 2. Hens are 2.25 and sardines are 2.5.  
@@ -402,10 +404,10 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   - Note: These levels come from the Level Detective game. If you do not have a level for an animal, ask a grown-up to guess, using what she eats.
   - Check: A person eats rice, dal and curd in equal amounts. Rice and dal are level 1 and curd is level 2. What is the average level of the food? → **About 1.3**
 - **s3 (5 min)**  
-  *Parent does:* Add the level numbers of all the foods. Divide by the number of foods. This is the average level of your food. Add 1. That is your level for this lunch. Compare it with your family's.  
+  *Parent does:* First guess your own level. Then add the level numbers of all the foods. Divide by the number of foods. This is the average level of your food. Add 1. That is your level for this lunch. Compare it with your family's.  
   *Parent says:* Add up the numbers. Divide by how many foods there are. Add 1. That is your level for this lunch.  
   *Child mode:* Add the numbers. Divide by how many foods. Add 1. That is your level.
-  - Note: For a lunch of rice 1, sambar 1, curd 2 and fish fry 2.5, the sum is 6.5. Dividing by 4 gives 1.6, and adding 1 gives 2.6. Most people land between 2 and 3. Scientists estimate that people around the world average about 2.2.
+  - Note: For a lunch of rice 1, sambar 1, curd 2 and fish fry 2.5, the sum is 6.5. Dividing by 4 gives 1.6, and adding 1 gives 2.6. This treats every food as an equal share. A real plate has more rice than curd, so your true level is a little lower. With 2 to 4 children, each works out one plate and you compare. Most people land between 2 and 3. Scientists estimate that people around the world average about 2.2.
   - Think: If you swapped the fish fry for a vegetable, what would your level be?
 
 ## Projects
@@ -416,12 +418,12 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Parent does:* On day 1, list every food your family eats. Write each food and a rough amount, such as 3 spoons or 2 pieces. Add drinks like milk and buttermilk. Ask your child to guess how many foods come from plants.  
   *Parent says:* Today we write down everything we eat. Next to each food, write how much. How many foods will come from plants? Why?  
   *Child mode:* Write every food we eat today. How many come from plants? Guess.
-  - Note: Include oil, sugar and salt. Oil comes from seeds, sugar from cane or beet, and salt from the sea or mines, which is neither plant nor animal. Mark it 'not a living being'.
+  - Note: With 2 to 4 children, each notes one meal as it is eaten. Include oil, sugar and salt. Oil comes from seeds, sugar from cane or beet, and salt from the sea or mines, which is neither plant nor animal. Mark it 'not a living being'.
 - **s2 (35 min)**  
   *Parent does:* On day 2, next to each food, write the being it came from. Write its level, using the Level Detective cards. Skip salt. Count how many foods are at level 1, at level 2 and above. Add the levels and divide by the number of foods. Add 1.  
   *Parent says:* Now trace each food to a plant or animal. Use the levels from the game. Count how many are level 1, how many are level 2 and above. Work out the average.  
   *Child mode:* Trace each food. Write its level. Count how many foods are at each level.
-  - Note: Rice, wheat, dal, vegetables, fruit and oil are level 1. Milk, curd and ghee are level 2. Eggs are 2.25. A chicken meal is 2.25 as the food. Small sea fish are about 2.5. A bigger fish such as a tuna is 4. Salt does not count.
+  - Note: Rice, wheat, dal, vegetables, fruit and oil are level 1. Milk, curd and ghee are level 2. Eggs are 2.25. A chicken meal is 2.25 as the food. Small sea fish are about 2.5. A bigger fish such as a tuna is 4. Salt does not count. A count of foods treats a pinch of ghee like a bowl of rice. For a fairer answer, count each food once for every spoon or piece. Then work out the average again.
 - **s3 (25 min)**  
   *Parent does:* On day 3, draw a pie chart of the foods by level. Use three colours: level 1, level 2, and above 2. Then draw one chain from the Sun to a favourite meal. Put a small red arrow of heat leaving each step.  
   *Parent says:* Draw a pie chart of your foods by level. Then draw one chain from the Sun to your favourite meal. At each step, draw a little red arrow for heat leaving.  
@@ -683,8 +685,8 @@ Everybody Eats (sci.ecology.L4): Topic-level song
 - [Mangalavanam Bird Sanctuary](https://en.wikipedia.org/wiki/Mangalavanam) · place · Kochi, Kerala: A small mangrove patch in the middle of Kochi, where egrets and herons nest. Check the visiting rules before you go.
 
 ## Things to buy
-- [A digital cooking thermometer with a probe](https://www.amazon.in/s?k=digital+cooking+thermometer+probe) (tool): For the Peanut test and the Warm Seeds test. It reads to one degree or better. A body thermometer will not do, because it reads only up to 42 degrees. Used in e1, e2. 
-- [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For the funnel trap, to see tiny animals. A phone camera with zoom can also help. Used in a2. 
+- [A digital cooking thermometer with a probe](https://www.amazon.in/s?k=digital+cooking+thermometer+probe) (tool): For the Peanut test and the Warm Seeds test. It costs about Rs 150 to 300. The Peanut test needs a reading to one degree or better up to 100 degrees. A school lab thermometer from a stationery or lab shop is a cheaper choice. Warm Seeds only needs a room or aquarium thermometer that reads 0 to 50 degrees. A body thermometer will not do, because it reads only up to 42 degrees. You could also borrow one from a neighbour or school. Used in e1, e2. 
+- [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For the funnel trap, to see tiny animals. It costs about Rs 30 to 80. A phone camera with zoom can also help. Used in a2. 
 
 ## Warm-up
 - What do we call a living being who makes her own food from light? → A producer.

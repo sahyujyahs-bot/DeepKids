@@ -515,7 +515,7 @@
    ],
    "materials": [
     {
-     "item": "a chair, and a sticky note or small paper stuck on a wall at your child's eye height",
+     "item": "a chair, and a sticky note or small paper stuck on a wall at your child's eye height (use tape or a little paste if there is no sticky note)",
      "qty": 1
     },
     {
@@ -531,7 +531,7 @@
      "qty": 1
     },
     {
-     "item": "a pen with its cap on, and a lump of clay or a cup to stand it in",
+     "item": "a pen with its cap on, and a lump of clay or atta dough, or a small cup, to stand it in",
      "qty": 1
     },
     {
@@ -581,7 +581,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct any guess. Any guess with a reason is a good start. One child with a parent: the parent is the helper and the recorder. Two to four children: one sits, one waves the card, one writes the numbers, and the others watch silently and then swap. Everyone gets their own row in the results table, so write each child's name on it. Only one child sits and is tested at a time.",
      "context": "This is the first step of the Wide View, Deep View test. You guess before you test."
     },
     {
@@ -639,7 +639,7 @@
        ]
       }
      ],
-     "parent": "With the right eye covered, the nose blocks the view on the right, so the card usually shows up much later, around 1 or 2. With the left eye covered, the right eye still sees almost as far as with both eyes. Press gently on the cloth and never on the eye.",
+     "parent": "With the right eye covered, the nose blocks the view on the right, so the card usually shows up much later, around 1 or 2. With the left eye covered, the right eye still sees almost as far as with both eyes. Hold the cloth or palm lightly in front of the eye and never press on the eye.",
      "check": {
       "t": "mcq",
       "q": "The card comes in from the right. Which eye can see it earliest?",
@@ -668,7 +668,7 @@
      "do": "Sit your child at a table. Stand the capped pen in clay on the table, about 40 centimetres in front of them. Your child holds one finger beside their ear. They swing the finger down and touch the cap in one smooth move. They must not feel for it. Do six tries with both eyes open. After each try, move the pen to a new spot 30, 40 or 50 centimetres away. Count how many touches.",
      "say": "Hold one finger beside your ear. Look at the pen. Now swing your finger down and touch the top of the cap in one move. No feeling about. I will move the pen after each try.",
      "kid": "Hold a finger by your ear. Touch the pen cap in one move.",
-     "parent": "A touch means the fingertip lands on the cap. A near miss counts as a miss. Move the pen to a new place each time so your child cannot predict where it will be.",
+     "parent": "A touch means the fingertip lands on the cap. A near miss counts as a miss. Move the pen to a new place each time so your child cannot predict where it will be. Start the card test with one eye on some children and with both eyes on others, and do the pen test with one eye first for the next child. Practice makes the second set a little better, and swapping the order keeps it fair. Six tries is few, so a difference of one touch means little. A difference of three or more is a real sign.",
      "context": "In this step, you test how well you judge distance with both eyes open."
     },
     {
@@ -695,7 +695,7 @@
      "id": "s8",
      "mins": 3,
      "do": "Draw one bar chart of the best angle for each wide-view test. Draw a second bar chart of the pen touches. Ask your child to say what they thought, what they saw and why. Then tell them: a pigeon sees about 340 degrees, and an owl about 110 degrees.",
-     "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Now look at the numbers. A pigeon sees about 340 degrees, and an owl about 110. Which one needs to see behind, and which one needs to judge distance?",
+     "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Now look at the numbers. A pigeon sees about 340 degrees, and an owl about 110. These are typical figures, and books differ. Which one needs to see behind, and which one needs to judge distance?",
      "kid": "Draw the bars. Say what you thought, what you saw, and why.",
      "think": "A pigeon is hunted and an owl hunts. How do their eyes fit that?",
      "parent": "A strong answer says something like this: eyes on the sides see a wider view, and eyes at the front overlap and judge distance. If your child says the nose got in the way, that is a very good observation. Do not explain until they have said what they saw.",
@@ -719,7 +719,7 @@
    ],
    "materials": [
     {
-     "item": "a wide basin, such as a big steel parat or a baby bath, at least 40 centimetres across, with about 4 centimetres of water",
+     "item": "a wide basin or tub at least 60 centimetres long, such as a big steel parat or a baby bath, with about 4 centimetres of still water (cool tap water is fine)",
      "qty": 1
     },
     {
@@ -727,7 +727,7 @@
      "qty": 2
     },
     {
-     "item": "a scarf for closing the eyes, and ear muffs or a folded towel to cover the ears",
+     "item": "a scarf for closing the eyes, and ear muffs, or a woollen cap or second thick scarf pulled down over the ears",
      "qty": 1
     },
     {
@@ -743,8 +743,8 @@
      "qty": 1
     }
    ],
-   "safety": "Put the basin on a towel on a flat, low surface so it does not tip. Wipe up spills at once, because a wet floor is slippery. Keep electrical things, including headphones, away from the water. Cover the ears with ear muffs or a folded towel.",
-   "record": "For each distance, write how many of the 10 ripples your child located correctly. Guessing alone would give about 5. Draw a bar chart with one bar for each distance.",
+   "safety": "Put the basin on a towel on a flat, low surface so it does not tip. Wipe up spills at once, because a wet floor is slippery. Keep electrical things, including headphones, away from the water. Cover the ears with ear muffs or a thick cap or scarf, and make sure the child can still breathe and sit comfortably.",
+   "record": "For each distance, write how many of the 10 ripples your child located correctly. Guessing alone would give about 5 on average, and a score of 3 to 7 can happen by luck. Draw a bar chart with one bar for each distance.",
    "context": "In this experiment, you act like a fish. You keep your hands still in water and try to tell which side a ripple came from, without seeing or hearing it.",
    "setup": [
     {
@@ -787,10 +787,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Put the towel on a low, flat table or the floor. Put the basin on it with 4 centimetres of water. Your child kneels or sits beside it. They put both hands flat in the middle of the water, with fingers spread. They cover their ears and close their eyes. Cut a card strip 20 centimetres long. Mark it at 5 and 10 centimetres.",
+     "do": "Put the towel on a low, flat table or the floor. Put the basin on it with 4 centimetres of water. Your child kneels or sits beside it. The long side of the basin faces them. They put both hands flat in the middle of the water, with fingers spread. They close their eyes and the scarf or cap goes over their eyes and ears. Cut a card strip 20 centimetres long. Mark it at 5 and 10 centimetres.",
      "say": "Put both hands flat in the middle of the water. Keep them still, like a fish resting. Close your eyes, and we cover your ears, so you cannot hear or see anything. Only your skin will tell you.",
      "kid": "Put both hands in the water. Keep them still. Close your eyes.",
-     "parent": "Wait until the water is completely still before every ripple. This takes about 10 seconds. If the child's hands touch the sides, move the basin so that the hands sit in the middle.",
+     "parent": "Wait until the water is completely still before every ripple. This takes 5 to 10 seconds. If the child's hands touch the sides, move the basin so that the hands sit in the middle. Distances are measured from the nearer hand, along the long side of the basin, so the dip stays well inside the basin wall. If your basin is shorter than 60 centimetres, test 5, 10 and 15 centimetres instead, and write the new distance in the table. Roles: one child (or the parent) keeps the hands still, one tosses the coin and dips the finger, and one scores. With 2 to 4 children, each child does their own 10 tries at every distance and then swaps. Dip with the same finger, the same depth and the same quickness every time, and stay still and quiet afterwards, because the dipper's breathing or a bumped table can give the answer away.",
      "check": {
       "t": "mcq",
       "q": "Why do we cover the child's ears and eyes?",
@@ -849,7 +849,7 @@
       "a": 0,
       "why": "If a child guessed every time, they would get about 5 out of 10 by luck. A score close to 5 means the ripple was too weak for the skin to sense. It does not mean anything is wrong. It is a real result."
      },
-     "parent": "If your child still gets 9 or 10, try 30 centimetres in a wider basin. If the score is near 5, that is real data. Say so.",
+     "parent": "If your child still gets 9 or 10, try 30 centimetres in a bigger tub. If you get about 5 out of 10 even at 5 centimetres, check that the hands are really still and dip a little deeper, the same each time, and try again. Water this shallow gives only a faint ripple, so low scores at 20 centimetres are normal. If the score is near 5, that is real data. Say so.",
      "context": "In this step, you test ripples that start 20 centimetres from the hand."
     },
     {
@@ -867,7 +867,7 @@
   {
    "id": "e3",
    "title": "Cup Your Ears: do ear flaps help you hear?",
-   "mins": 30,
+   "mins": 35,
    "days": 1,
    "question": "A fox turns her large ear flaps towards a sound. Do hands cupped behind your ears help you hear a quiet sound from farther away, and does it matter which way they face?",
    "predict": "Before you start, guess. Will cupped hands help you hear a ticking clock from farther away? What if the hands face backwards? Why do you think so?",
@@ -880,7 +880,7 @@
    ],
    "materials": [
     {
-     "item": "a clock or watch with a quiet tick, or a phone playing a very soft steady beep",
+     "item": "a clock with a quiet tick, or a phone playing a very soft steady beep (a wristwatch is only heard within about 50 centimetres, so start 1 metre away with it)",
      "qty": 1
     },
     {
@@ -888,7 +888,7 @@
      "qty": 1
     },
     {
-     "item": "a tape measure or a ruler and a long string, and a stool for sitting",
+     "item": "a tape measure or a ruler and a long string, a stool or chair for sitting, and a strip of tape or chalk marks every 20 centimetres on the floor",
      "qty": 1
     },
     {
@@ -904,7 +904,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the clock volume soft. Never use a loud sound near ears. The helper walks slowly and quietly to avoid tripping over the stool.",
+   "safety": "Keep the clock volume soft. Never use a loud sound near ears. The helper walks slowly and quietly, and the walkway is clear of stools and bags, to avoid tripping. A child with a cold or ear pain should not do this test. Never poke anything into an ear: the cone is held against the ear and never pushed in.",
    "record": "For each setting, write the distance in centimetres where your child first heard the tick, the best of two tries. Draw a bar chart with one bar for each setting.",
    "context": "In this experiment, you find out whether hands cupped behind your ears, in the way a fox's ear flaps work, help you to hear a quiet sound from farther away.",
    "setup": [
@@ -951,13 +951,13 @@
      "do": "Pick a quiet room or corridor. Put the stool at one end. Lay the tape measure along the floor in front of the stool. Your child sits on the stool, facing along the tape, with eyes closed. Check that the clock ticks softly and steadily. Show your child what the tick sounds like before they close their eyes.",
      "say": "Sit here and close your eyes. I will walk towards you with the clock. Say now when you first hear it tick. Keep your head still.",
      "kid": "Sit and close your eyes. Say now when you hear the tick.",
-     "parent": "Switch off fans and noisy things. If you cannot find a clock, a phone playing a soft steady beep works. Turn the beep volume down until it is only just audible at 1 metre.",
+     "parent": "Switch off fans and noisy things. A tick is easy to guess at, so tell the helper to walk to the same speed every time and not to pause when the child is about to answer. If you cannot find a clock, a phone playing a soft steady beep works. Turn the beep volume down until it is only just audible at 1 metre. Typical hearing distances for a quiet tick are from half a metre to a few metres, so your numbers may be different. If the child hears it at the 3 metre start, the clock is too loud. If they never hear it, start closer. Roles: the listener sits with eyes closed, one helper walks with the clock, and one reads the distance and writes it down. One child with a parent: the parent walks, then reads the tape. With 2 to 4 children, take turns as listener, and the others wait silently, because anyone who hears the tick can give it away. Each child makes a row in the table.",
      "context": "In this step, you set up the quiet room and the clock."
     },
     {
      "id": "s3",
-     "mins": 6,
-     "do": "Test bare ears first. The helper starts 3 metres away, holding the clock at ear height, pointing at the child. The helper walks towards the child, about 10 centimetres every 3 seconds. The child says 'now' when they hear the tick. Measure the distance from the clock to the child's ear. Do it twice.",
+     "mins": 8,
+     "do": "Test bare ears first. The helper starts 3 metres away, holding the clock at ear height, pointing at the child. The helper walks towards the child, about 20 centimetres every 3 seconds, one mark at a time. The child says 'now' when they hear the tick. Measure the distance from the clock to the child's ear. Do it twice.",
      "say": "Listen carefully, and say now the first moment you hear the tick. Do not guess before you hear it.",
      "kid": "Listen. Say now when you hear the tick.",
      "ask": [
@@ -975,8 +975,8 @@
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Now your child cups both hands behind their ears, with the fingers pointing forwards, towards the clock. The helper starts 3 metres away and walks closer as before. Measure the distance when the child says 'now'. Do it twice.",
+     "mins": 7,
+     "do": "Now your child cups both hands behind their ears, with the fingers pointing forwards, towards the clock. The helper starts 3 metres away and walks closer as before, 20 centimetres every 3 seconds. Measure the distance when the child says 'now'. Do it twice. Then do one more bare-ear try. This checks that practice alone did not help.",
      "say": "Cup your hands behind your ears, like a fox. Keep your eyes closed. Say now when you first hear the tick.",
      "kid": "Cup your hands behind your ears. Say now when you hear the tick.",
      "check": {
@@ -994,8 +994,8 @@
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "Now your child cups both hands behind their ears with the fingers pointing backwards, away from the clock. The helper starts 3 metres away and walks closer as before. Measure the distance when the child says 'now'. Do it twice.",
+     "mins": 5,
+     "do": "Now your child cups both hands behind their ears with the fingers pointing backwards, away from the clock. The helper starts 3 metres away and walks closer as before, 20 centimetres every 3 seconds. Measure the distance when the child says 'now'. Do it twice.",
      "say": "Now turn your cupped hands to face behind you, like a fox looking the other way. Say now when you first hear the tick.",
      "kid": "Turn your hands to face backwards. Say now when you hear the tick.",
      "ask": [
@@ -1017,7 +1017,7 @@
      "do": "Last, hold the card cone to one ear, with the wide end facing the clock. Do the walking test once more. Measure the distance when the child says 'now'.",
      "say": "This cone is a bigger ear. Hold the small end to your ear, with the wide end pointing at me. Say now when you hear the tick.",
      "kid": "Hold the cone to your ear. Say now when you hear the tick.",
-     "parent": "The cone often does best of all. Make sure the child holds the small end gently to the ear and does not push it in.",
+     "parent": "The cone often does best of all. Make sure the child holds the small end gently to the ear and does not push it in. The cone is on one ear only, so keep the other ear open, and compare it with a bare ear. If cupped hands or the cone make no difference, the room may be noisy or the clock too loud. Write the honest result and ask why.",
      "context": "In this step, you test a paper cone as a bigger ear."
     },
     {
@@ -1060,7 +1060,7 @@
      "what": "Cut out the clue strips. Sort them under the five groups. Then draw the pond as one of the animals might sense it."
     }
    ],
-   "record": "A sheet with five columns, one for each group, and the clue strips stuck under the right ones. Then a drawing of the pond as one group senses it.",
+   "record": "A sheet with five columns, one for each group, the clue strips stuck under the right ones, and a count under each column. Then a drawing of the pond as one group senses it.",
    "context": "In this activity, you sort clues about animal senses into the five groups of animals with a backbone, and then you draw the same pond as one of them might sense it.",
    "setup": [
     {
@@ -1083,13 +1083,13 @@
      "do": "Write each clue on its own strip. Strip 1, a line of tiny sensors along the sides feels ripples. Strip 2, heat pits on the lips sense a warm body. Strip 3, a round eardrum sits on the outside of the head. Strip 4, a fourth colour cone sees ultraviolet. Strip 5, three tiny middle-ear bones. Strip 6, a forked tongue gathers scent. Strip 7, whiskers feel moving water and air. Strip 8, ear flaps turn towards a sound. Strip 9, a heart-shaped face collects sound. Strip 10, eyes on the sides give a very wide view. Strip 11, tiny dark dots on the jaws feel ripples. Strip 12, sharks sense weak electricity. Strip 13, a tadpole has a lateral line. Strip 14, high clicks and echoes find prey. Strip 15, the nose has many more smell receptors than a person's.",
      "say": "Each strip is a clue about a sense. Some belong to one group only. Some could belong to more than one. Read them aloud, and think about who has this sense.",
      "kid": "Write each clue on a strip. Read them all.",
-     "parent": "The clues cover all five groups. Strips 3, 10 and 13 are good for discussion. An eardrum on the outside is true for frogs. Wide eyes are true for fish, frogs, birds and many mammals. A tadpole is an amphibian. There are no wrong answers to the discussion.",
+     "parent": "The clues cover all five groups. Strips 3, 10 and 13 are good for discussion. An eardrum on the outside is true for frogs. Wide eyes are true for fish, frogs, birds and many mammals. A tadpole is an amphibian. There are no wrong answers to the discussion. Cutting strips: a child of 6 to 7 should use blunt, child-safe scissors with an adult close. With 2 to 4 children, each writes and cuts about five strips, then everybody sorts together. One child with a parent: share the writing.",
      "context": "In this step, you write the fifteen clues on paper strips."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Draw five columns on the big sheet. Write one group at the top of each. Read a strip and decide where it belongs. Stick it there. If a strip could fit two groups, put it between them and say why.",
+     "do": "Draw five columns on the big sheet. Write one group at the top of each. Read a strip and decide where it belongs. Stick it there. If a strip could fit two groups, put it between them and say why. When all 15 are placed, count the strips under each group. Write the counts under the columns. Which group has most strips? Is that because it has the most senses, or because we know most about it?",
      "say": "Put each strip where it belongs. If two groups could fit, put it in the middle. Then tell me why.",
      "kid": "Put each strip in the right column. Explain your choice.",
      "ask": [
@@ -1113,7 +1113,7 @@
       "a": 0,
       "why": "A frog has a round eardrum on the skin of her head. Dogs have ear flaps. Fish have no eardrum on the outside at all, because sound passes through their bodies to the inner ear. Birds and many reptiles also have eardrums, so the strip fits more than one group. But a frog is the clearest example."
      },
-     "parent": "Many answers are partly right. Some strips fit two or three groups, such as wide eyes and eardrums. Ask your child to give their reason. Reasons matter more than the exact column.",
+     "parent": "Many answers are partly right. Some strips fit two or three groups, such as wide eyes and eardrums. Ask your child to give their reason. Reasons matter more than the exact column. Counts depend on where you put the shared strips, so write what you got. Do not look for one right answer.",
      "context": "In this step, you sort the clue strips under the five groups."
     },
     {
@@ -1153,15 +1153,15 @@
    "days": 1,
    "materials": [
     {
-     "item": "2 identical mugs, ceramic or thick plastic",
+     "item": "2 identical steel or thick plastic pots or tall tumblers, about 12 to 15 centimetres tall (a bigger warm side is felt from farther than a small mug)",
      "qty": 2
     },
     {
-     "item": "comfortably warm water, about as warm as a baby's bath, mixed from the tap with cool water and tested by an adult on the inside of the wrist",
+     "item": "comfortably hot water, as hot as a bath you can sit in, about 45 to 50 degrees in typical terms, mixed from the tap or kettle with cool water and tested by an adult on the inside of the wrist",
      "qty": 1
     },
     {
-     "item": "water at room temperature, in the second mug",
+     "item": "water at room temperature, in the second pot",
      "qty": 1
     },
     {
@@ -1177,19 +1177,19 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Prepare the mugs. Test four parts of the skin. Compare the distances."
+     "what": "Prepare the pots. Test four parts of the skin. Compare the distances."
     }
    ],
-   "record": "A table with four rows, palm, back of the hand, fingertip and cheek, and for each the distance in centimetres where your child first felt warmth.",
-   "context": "In this activity, you act a little like a snake with heat pits. You find which part of your skin feels the warmth of a mug from the farthest away.",
+   "record": "A table with four rows, palm, back of the hand, fingertip and cheek, and for each the distance in centimetres where your child first felt warmth. Write 'touched' if nothing was felt before 2 centimetres.",
+   "context": "In this activity, you act a little like a snake with heat pits. You find which part of your skin feels the warmth of a pot from the farthest away.",
    "setup": [
     {
-     "art": "Two identical mugs on a table, one marked with a small dot on the bottom, with a ruler beside them.",
-     "caption": "1. Fill one mug with warm water and one with room-temperature water."
+     "art": "Two identical pots on a table, one marked with a small dot on the bottom, with a ruler beside them.",
+     "caption": "1. Fill one pot with hot-bath-warm water and one with room-temperature water."
     },
     {
-     "art": "A child with a scarf over the eyes holding out a palm while a helper brings a mug slowly closer from the side.",
-     "caption": "2. Bring a mug slowly towards the skin. The child says warm or not warm."
+     "art": "A child with a scarf over the eyes holding out a palm while a helper brings a pot slowly closer from the side.",
+     "caption": "2. Bring a pot slowly towards the skin. The child says warm or not warm."
     },
     {
      "art": "A table with four rows, palm, back of hand, fingertip and cheek, with distances written in.",
@@ -1200,7 +1200,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "An adult fills one mug with warm tap water. Check that it feels comfortably warm on the inside of your wrist, and never hot. A finger should stay in it for 10 seconds without pain. Fill the other mug with room-temperature water. Put a small secret mark under the warm mug. Ask your child to guess which part of the skin will feel warmth from farthest, and why.",
+     "do": "An adult fills one pot with hot-bath-warm water. Check that it feels comfortably warm on the inside of your wrist, and never hot. A finger should stay in it for 10 seconds without pain, and the outside of the pot should be bearable to hold. Fill the other pot with room-temperature water. Put a small secret mark under the warm pot. Ask your child to guess which part of the skin will feel warmth from farthest, and why.",
      "say": "Today you will find warmth with your skin, the way a python does with her lip pits. Which part of your skin will notice it first? The palm, the back of your hand, a fingertip or your cheek? Why?",
      "kid": "Guess first. Which part of your skin feels warmth best? Why?",
      "adult": true,
@@ -1214,33 +1214,33 @@
        ]
       }
      ],
-     "parent": "The warm water must be comfortable to touch, never hot. The adult prepares and checks the water. The mugs must look identical so your child cannot guess by sight. Warm water cools fast, so refill the warm mug after about 10 minutes. Warmth is usually felt only within a few centimetres.",
-     "context": "In this step, you prepare two mugs, one warm and one at room temperature, and make a guess."
+     "parent": "The warm water must be comfortable to touch, never hot. The adult prepares and checks the water. The pots must look identical so your child cannot guess by sight. Warm water cools fast, so refill the warm pot after about 10 minutes, and check again with your wrist. Warmth is usually felt only within a few centimetres. Warmth from a pot is felt only close up: often from 3 to 15 centimetres, and sometimes only a few centimetres, so the numbers are small. This is real data. The adult always holds the pot and stops 2 centimetres from the skin, and nobody touches it. Do not use hotter water, and keep it out of the way of small hands. Roles: with a parent, the parent holds and writes. With 2 to 4 children, one is tested at a time with eyes closed, one holds the pot, one writes, and the others stay silent. Each child can test the palm and cheek and compare, since skin differs between people.",
+     "context": "In this step, you prepare two pots, one warm and one at room temperature, and make a guess."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child closes their eyes. Hold one mug, picked at random, 30 centimetres from their palm, to the side. Move it 2 centimetres closer every 3 seconds. The child says 'warm' or 'not warm' each time. Write the distance where they first say 'warm' for the warm mug. Then swap in the other mug, to check that 'not warm' is said for it.",
-     "say": "Close your eyes and hold out your palm. I bring a mug closer slowly. Say warm if you feel warmth, and not warm if you do not. Tell me the moment you feel it.",
+     "do": "Your child closes their eyes. Hold one pot, picked at random, 30 centimetres from their palm, to the side. Move it 2 centimetres closer every 3 seconds, and stop at 2 centimetres from the skin. The child says 'warm' or 'not warm' each time. Write the distance where they first say 'warm' for the warm pot. Then swap in the other pot, to check that 'not warm' is said for it.",
+     "say": "Close your eyes and hold out your palm. I bring a pot closer slowly. Say warm if you feel warmth, and not warm if you do not. Tell me the moment you feel it.",
      "kid": "Close your eyes. Say warm or not warm.",
-     "parent": "Use the cool mug a few times as a check, so your child cannot just say warm every time. Hold the mug at the same height each time, and bring it from the side so rising warm air does not give it away.",
+     "parent": "Use the cool pot a few times as a check, so your child cannot just say warm every time. Hold the pot at the same height each time, and bring it from the side so rising warm air does not give it away.",
      "check": {
       "t": "mcq",
-      "q": "Why do we sometimes bring the room-temperature mug?",
+      "q": "Why do we sometimes bring the room-temperature pot?",
       "options": [
        "To check that the child is not just saying warm every time",
        "To make the test longer",
-       "To keep the first mug cold"
+       "To keep the first pot cold"
       ],
       "a": 0,
-      "why": "If the child said warm for both mugs, the answers would mean nothing. Using the cool mug as a control shows that the child can tell the difference."
+      "why": "If the child said warm for both pots, the answers would mean nothing. Using the cool pot as a control shows that the child can tell the difference."
      },
      "context": "In this step, you test the palm for warmth from a distance."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Repeat with the back of the hand, a fingertip, and the cheek. Always start 30 centimetres away, and come in 2 centimetres every 3 seconds. Write the distance where your child first says 'warm'.",
+     "do": "Repeat with the back of the hand, a fingertip, and the cheek. Always start 30 centimetres away, come in 2 centimetres every 3 seconds, and stop at 2 centimetres. Write the distance where your child first says 'warm'.",
      "say": "Now the back of your hand. Then your fingertip. Then your cheek. Same game. Say warm the moment you feel it.",
      "kid": "Now test the back of the hand, a fingertip, and your cheek.",
      "ask": [
@@ -1253,7 +1253,7 @@
        ]
       }
      ],
-     "parent": "Many people notice warmth on the cheek or the palm first, and the back of the hand or fingertip later. Your child's order may differ. Write down what you get.",
+     "parent": "Many people notice warmth on the cheek or the palm first, and the back of the hand or fingertip later. Your child's order may differ. Write down what you get. Differences of one or two centimetres between places are within the error of the test, so look for big gaps only. Repeat the cheek and the back of the hand if the answers are close.",
      "context": "In this step, you test three more places on the skin."
     },
     {
@@ -1269,8 +1269,8 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Dry the mugs and pour the water down the sink. Wash your hands.",
-     "say": "Well done. Tell me one thing you would like to try with the mugs next time.",
+     "do": "Dry the pots and pour the water down the sink. Wash your hands.",
+     "say": "Well done. Tell me one thing you would like to try with the pots next time.",
      "kid": "Clean up. What would you try next time?",
      "context": "In this step, you clean up and think of another test."
     }
@@ -1333,7 +1333,7 @@
      "do": "Lay the string in a gentle zigzag on a clean floor. Dab a little scent on the string every 20 centimetres. Use only a few drops each time. Ask your child to guess whether two nostrils or one will follow the trail better, and why.",
      "say": "Dogs follow smell trails with their noses to the ground. A snake flicks her forked tongue to catch scent from two sides. Do you think two nostrils help you follow a trail better than one? Why?",
      "kid": "Guess first. Do two nostrils follow a trail better than one? Why?",
-     "parent": "First ask whether anyone is allergic or sensitive to the scent, and choose another if so. Use scents that are safe to sniff. Do not use strong sprays, cleaning liquids or anything that irritates the nose. Keep the room well aired.",
+     "parent": "First ask whether anyone is allergic or sensitive to the scent, and choose another if so. Use scents that are safe to sniff. Do not use strong sprays, cleaning liquids or anything that irritates the nose. Keep the room well aired, and put the used string out of the room between trails, because the smell lingers. Sniffing one strong smell for a while tires the nose, so rest for a few minutes between trails. A cloth strip works better than thin string because it holds more scent. Roles: one child follows the trail, one lays it, one counts the steps, and one walks beside to keep the follower safe. One child with a parent: the parent lays the trail and walks beside. With 2 to 4 children, each child follows both a two-nostril and a one-nostril trail, and some begin with the one-nostril trail so the order does not decide the result. Keep the follower's path clear of furniture and corners, and the others stay out of sight of the trail.",
      "context": "In this step, you lay a scent trail and make a guess."
     },
     {
@@ -1372,7 +1372,7 @@
        ]
       }
      ],
-     "parent": "In a 2007 study at the University of California, Berkeley, people did better at following a scent trail with both nostrils open. A snake's two-pronged tongue may work in a similar way, by sampling scent from two sides. Your child's results may differ, so write what you see.",
+     "parent": "In a 2007 study at the University of California, Berkeley, people did better at following a scent trail with both nostrils open. A snake's two-pronged tongue may work in a similar way, by sampling scent from two sides. Your child's results may differ, so write what you see. If time allows, follow a third trail with both nostrils to check that a tired nose or practice was not the cause. Honest results can go either way, because one try is only one try.",
      "context": "In this step, your child follows a new trail with one nostril closed."
     },
     {
@@ -1550,7 +1550,8 @@
      "do": "Cut out the 24 cards and the 5 group tokens. Make one set of 5 tokens for each player. Shuffle the cards and put them in a pile with the clue side up.",
      "say": "Each card has a clue about one sense. You guess which group of animals with a backbone it fits. The groups are fish, amphibians, reptiles, birds and mammals.",
      "kid": "Cut out the cards and tokens. Shuffle the cards.",
-     "context": "This is the first step of Whose World? You set up the cards and the tokens."
+     "context": "This is the first step of Whose World? You set up the cards and the tokens.",
+     "parent": "The cards take a little while to cut, so one child cuts the cards while another cuts the tokens. Use blunt scissors for small children, with an adult close. With one child and a parent, there are two players: one reader and one guesser, and they swap after every card."
     },
     {
      "id": "s2",
@@ -1615,17 +1616,17 @@
    "id": "g2",
    "title": "Owl and Mice: catch a mouse by sound",
    "mins": 15,
-   "players": "3 or more players, best in a big room or a corridor",
+   "players": "2 or more players, best in a big room or a corridor",
    "context": "This is an acting game. One player is the owl, who cannot see. The others are mice who try to cross the room without being heard. You find out how much an owl can do with ears alone.",
    "rules": [
     "Mark a start line and a finish line on the floor, about 5 metres apart, with a chalk line or a strip of cloth.",
-    "One player is the owl. The owl sits on a low stool, or on a cushion on the floor, in the middle with eyes closed or a scarf over them, and holds a rolled newspaper for pointing.",
+    "One player is the owl. The owl sits on a low stool, or on a cushion on the floor, in the middle with eyes closed or a scarf over them, and holds a rolled newspaper for pointing. The owl only points and never hits.",
     "The other players are mice. They stand behind the start line.",
     "The owl cannot move from the stool. The owl can turn the whole head and body.",
-    "When the owl says 'go', the mice try to creep to the finish line without being heard.",
+    "When the owl says 'go', the mice try to creep to the finish line without being heard, one slow step about every 2 seconds, the same for all. Everyone plays in socks or bare feet on a clear floor, with no chairs or bags in the way.",
     "If the owl hears a mouse, she points the rolled paper at that mouse. If she points straight at the mouse, the mouse is caught and goes back to the start.",
-    "Round 1: the owl listens with bare ears. Round 2: the owl cups both hands behind the ears. Round 3: the mice walk on newspaper laid on the floor.",
-    "Count the mice that cross safely in each round. Swap owls whenever you like, so everyone gets a turn. There is no winner. Talk about what changed."
+    "Round 1: the owl listens with bare ears. Round 2: the owl cups both hands behind the ears. Round 3: the mice walk on sheets of newspaper laid on the floor, held flat with a little tape so they do not slide. Wet tiles are slippery, so do not use wet or polished floors.",
+    "Each mouse crosses three times in every round, so there are enough tries to compare. With only two players, the mouse crosses six times in each round. Count the crossings that were not heard. Swap owls whenever you like, so everyone gets a turn. There is no winner. Talk about what changed. Small counts can change by luck, so only a big change means something."
    ],
    "setup": [
     {
@@ -1644,11 +1645,11 @@
    "printables": [
     {
      "kind": "score sheet",
-     "title": "A score sheet with one line for each round, and a place to write how many mice crossed safely",
+     "title": "A score sheet with one line for each round, and a place to write how many crossings were not heard",
      "items": [
-      "Round 1, bare ears: mice that crossed safely",
-      "Round 2, cupped hands: mice that crossed safely",
-      "Round 3, newspaper on the floor: mice that crossed safely"
+      "Round 1, bare ears: crossings that were not heard",
+      "Round 2, cupped hands: crossings that were not heard",
+      "Round 3, newspaper on the floor: crossings that were not heard"
      ]
     }
    ],
@@ -1664,7 +1665,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Play Round 1. The owl uses bare ears. The mice creep from the start line to the finish line. The owl points at any mouse she hears. Count the mice that cross safely.",
+     "do": "Play Round 1. The owl uses bare ears. The mice creep from the start line to the finish line. The owl points at any mouse she hears. Count the crossings that were not heard.",
      "say": "Mice, creep as quietly as you can. Owl, listen carefully. Point at any mouse you hear. Owl, say go.",
      "kid": "Mice, creep quietly. Owl, listen and point.",
      "ask": [
@@ -1677,13 +1678,13 @@
        ]
       }
      ],
-     "parent": "The pointing must be straight at the mouse, within an arm's length of it. The owl's skill is in turning the head until the sound is in front of the face. Notice if this happens.",
+     "parent": "The pointing must be straight at the mouse, within an arm's length of it. The owl's skill is in turning the head until the sound is in front of the face. Notice if this happens. With one child and a parent, the parent is the mouse and the child is the owl, and then swap. The owl must not peek, and mice should not talk or giggle. Play in a quiet place, with the fans and the TV off.",
      "context": "In this step, you play the first round with bare ears."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Play Round 2. The owl cups both hands behind the ears, fingers forward. Play as before. Count the mice that cross safely. Then play Round 3 with newspaper laid on the floor for the mice to walk on.",
+     "do": "Play Round 2. The owl cups both hands behind the ears, fingers forward. Play as before. Count the crossings that were not heard. Then play Round 3 with newspaper laid on the floor for the mice to walk on.",
      "say": "Owl, cup your hands behind your ears. Mice, creep again. Then we put down newspaper, and the mice walk on it. What changes?",
      "kid": "Owl, cup your hands. Mice, creep again. Then walk on newspaper.",
      "check": {
@@ -1720,7 +1721,7 @@
    "mins": 45,
    "materials": [
     {
-     "item": "a window, balcony or terrace where pigeons, crows or sparrows visit",
+     "item": "a window, balcony, terrace or garden where pigeons, crows or sparrows visit",
      "qty": 1
     },
     {
@@ -1728,11 +1729,11 @@
      "qty": 1
     },
     {
-     "item": "a few grains of rice or bajra to sprinkle on a ledge, from a distance",
+     "item": "a few grains of rice or bajra to sprinkle on a ledge, from a distance (a tape measure or counted steps for day 2)",
      "qty": 1
     }
    ],
-   "safety": "Watch from a distance and do not try to touch or catch the bird. Wash hands after putting out grain. Do not lean out of a window or over a balcony rail.",
+   "safety": "Watch from a distance and do not try to touch or catch the bird. Wash hands after putting out grain. Do not lean out of a window or over a balcony rail. Put out only a small handful of grain, never bread or salty food, and sweep up what is left, so it does not attract rats or annoy neighbours. Avoid touching bird droppings.",
    "schedule": [
     {
      "day": 1,
@@ -1770,7 +1771,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "On day 1, put a few grains on a ledge, then sit quietly 3 to 4 metres away. Watch the bird for 10 minutes. Note when she turns her head, which eye faces you, and whether her head bobs forward and back as she walks.",
+     "do": "On day 1, put a few grains on a ledge, then sit quietly as far from the ledge as your space allows. On a terrace that is 3 to 4 metres. In a flat, sit behind the window glass. Watch the bird for 10 minutes. Note when she turns her head, which eye faces you, and whether her head bobs forward and back as she walks.",
      "say": "Sit very still and watch the bird. Which eye is she using to look at you? Does her head bob as she walks? Draw what you see.",
      "kid": "Sit still and watch a bird. Which eye looks at you? Draw her head.",
      "ask": [
@@ -1783,26 +1784,27 @@
        ]
       }
      ],
-     "parent": "Birds with side-facing eyes often turn one side towards something to look at it. A pigeon's head bob holds her view steady for a moment between steps. If no bird comes, repeat at another time of day.",
+     "parent": "Birds with side-facing eyes often turn one side towards something to look at it. A pigeon's head bob holds her view steady for a moment between steps. If no bird comes, repeat at another time of day, and early morning is usually best. Roles: with a parent, the parent keeps time and notes, and the child watches. With 2 to 4 children, one watches, one draws, one writes down, and everybody whispers. Share one window, and take turns at the front.",
      "context": "In this step, you watch a bird and notice her eyes and her head movements."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "On day 2, sit in the same place. Slowly move closer, one step at a time, every 10 seconds. Note how close you got before she flew away. Draw what you were doing when she left.",
+     "do": "On day 2, sit in the same place. On a terrace or in a garden, move one slow step closer every 10 seconds. Count the steps. If you only have a window, move slowly behind the glass: lift a hand, then wave, then stand up. Note which move made her fly. Draw what you were doing when she left.",
      "say": "Move one step closer every ten seconds. Stop when she flies. How close were you? Was she looking at you before she flew?",
      "kid": "Move one slow step at a time. Stop when she flies. How close were you?",
-     "parent": "Measure the steps. Do not chase. If the bird flies at once, start further away. Birds that watch you from the side may see you early.",
+     "parent": "Measure the steps. From a window the bird may not fly at all, so write that down as a result. Do not chase. If the bird flies at once, start further away. Birds that watch you from the side may see you early.",
      "context": "In this step, you find how close you can get before the bird flies away."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "On day 3, sit in the same place. While the bird feeds, make one soft sound behind you, such as a quiet tap on a steel plate. Note if she turns her head and which way. Write what you have found out over three days.",
+     "do": "On day 3, sit in the same place. While the bird feeds, make a soft sound behind you, such as a quiet tap on a steel plate. Tap once a minute, five times in all. After each tap, tally whether she looked up or turned her head, and which way. Also tally one minute with no tap. Write what you have found out over three days.",
      "say": "Make a soft tap behind you. Does she turn her head? Which way? What do you think she is sensing? Write what you learnt.",
      "kid": "Make a soft tap. Does she turn her head? Write what you learnt.",
      "think": "What do you think a bird senses about you that you do not notice about yourself?",
-     "context": "In this step, you test if the bird turns towards a sound, and write what you learnt."
+     "context": "In this step, you test if the bird turns towards a sound, and write what you learnt.",
+     "parent": "Compare the five tap minutes with a minute of no taps. If she looks up about as often with no tap, the tap did not matter. Real birds are unpredictable, so write the tally you really got."
     }
    ]
   }
@@ -3113,5 +3115,5 @@
    "Kena Upanishad 1.2; Udana 6.4 (the blind men and the elephant); Zhuangzi chapter 17 (Autumn Floods)"
   ]
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Wide View, Deep View: the clock circle needs a clear floor of about 3 metres, and most people first see the moving card around 3 or 4 on the clock. With the right eye covered the card appears later, because the nose gets in the way. Pen touch scores depend on the child, so the steps say to write what you get. The pen must be capped. Ripple Skin: the basin should be at least 40 centimetres across, the water still before every ripple, and the ears covered, or the splash sound gives the answer away. A score near 5 out of 10 at 20 centimetres is a real result and not a failure. Cup Your Ears: needs a quiet room and a soft tick, and the clock volume must be turned down so that it is only just audible at 1 metre. Warm Spot Finder: the adult checks the water first, and it must feel comfortable, never hot. Nose Trail: use only safe, mild smells, with the room aired. Window Watch needs a window, balcony or terrace where birds come, so it is outside the core path. Whose World? has 24 cards and the back of each begins with all the groups that fit, so more than one token can score. Facts to check before the unit goes live: the field of view figures for the pigeon (about 340 degrees), person (about 200) and owl (about 110), which vary by source and method; the 2005 Eaton ultraviolet finding; the Newman and Hartline snake experiments; the year and place of Katy Payne's first elephant observations (1984, Portland, Oregon); the Indian rock python lip pits and the absence of pits in cobras; that dogs have many tens of times more smell receptors than people; the 2015 cavefish energy study; and the three videos, which have no address yet."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Wide View, Deep View: the clock circle needs a clear floor of about 3 metres, and most people first see the moving card around 3 or 4 on the clock. With the right eye covered the card appears later, because the nose gets in the way. Pen touch scores depend on the child, so the steps say to write what you get. The pen must be capped. Ripple Skin: the basin should be at least 60 centimetres long (or use 5, 10 and 15 centimetres in a smaller one), the water still before every ripple, and the ears covered, or the splash sound gives the answer away. A score near 5 out of 10 at 20 centimetres is a real result and not a failure. Cup Your Ears: needs a quiet room and a soft tick, and the clock volume must be turned down so that it is only just audible at 1 metre. Warm Spot Finder: the adult checks the water first, and it must feel comfortably hot and never scalding, and the pots stay at least 2 centimetres from the skin, so warmth is usually felt only within a few centimetres. Nose Trail: use only safe, mild smells, with the room aired. Window Watch needs a window, balcony or terrace where birds come, so it is outside the core path. Whose World? has 24 cards and the back of each begins with all the groups that fit, so more than one token can score. Facts to check before the unit goes live: the field of view figures for the pigeon (about 340 degrees), person (about 200) and owl (about 110), which vary by source and method; the 2005 Eaton ultraviolet finding; the Newman and Hartline snake experiments; the year and place of Katy Payne's first elephant observations (1984, Portland, Oregon); the Indian rock python lip pits and the absence of pits in cobras; that dogs have many tens of times more smell receptors than people; the 2015 cavefish energy study; and the three videos, which have no address yet."
 }

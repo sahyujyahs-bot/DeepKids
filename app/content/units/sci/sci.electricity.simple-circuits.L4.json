@@ -135,7 +135,7 @@
    "examples": [
     "Two bulbs side by side are both as bright as one bulb alone.",
     "All the lights and fans in a home are in parallel, so each gets the full 230 volts and each can be switched off alone.",
-    "A cell that lasts 6 hours with one bulb lasts about 3 hours with two bulbs side by side."
+    "As an example, if a cell lasts about 6 hours with one bulb, it lasts roughly 3 hours with two bulbs side by side. Real times vary with the cell and the bulb."
    ],
    "perspectives": [
     {
@@ -635,6 +635,11 @@
      "buy": "b-kit"
     },
     {
+     "item": "2 or 3 spare torch bulbs from the same packet, in case one is faulty or does not match",
+     "qty": 3,
+     "buy": "b-bulbs"
+    },
+    {
      "item": "a room that can be made dim",
      "qty": 1
     },
@@ -685,7 +690,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess. Many children say two bulbs will be brighter, because there are more of them. Score the single bulb as 5. Write each guess as a score from 0 to 5.",
+     "parent": "Do not correct any guess. Many children say two bulbs will be brighter, because there are more of them. Score the single bulb as 5. Write each guess as a score from 0 to 5. With 2 to 4 children, one builds, one scores, one keeps the table and one draws; swap jobs for each layout. Each child writes their own guess before anyone speaks.",
      "context": "This is the first step of Bulb Teams. You guess before you build."
     },
     {
@@ -694,7 +699,7 @@
      "do": "Dim the room. Build one loop with the cell holder, a bulb and two wires. Wait one minute for your eyes to adjust. This glow is the control and scores 5.",
      "say": "Switch off the room light and draw the curtains. Join the cells to one bulb. This is our control. Look at how bright it is. It scores five.",
      "kid": "Dim the room. Light one bulb. This bulb scores 5.",
-     "parent": "Use fresh cells and 2.5 volt bulbs. If the room cannot be made dark, cup a hand round each bulb and score every layout in the same way. Never leave a circuit joined for more than a minute. The cells run down.",
+     "parent": "Use fresh cells and 2.5 volt bulbs. If the room cannot be made dark, cup a hand round each bulb and score every layout in the same way. Never leave a circuit joined for more than a minute. The cells run down. Cheap bulbs are often not quite equal, so light each bulb alone first and use the three that look most alike. Damp weather can make clips and bulb holders touch badly, so press each joint firmly.",
      "context": "In this step, you light one bulb to see what a normal glow looks like."
     },
     {
@@ -713,7 +718,7 @@
        ]
       }
      ],
-     "parent": "Expect both bulbs to glow equally, with a dull orange light, much dimmer than the single bulb. If neither glows, check that the bulbs are 2.5 volts and the cells are fresh, and that every wire is touching bare metal.",
+     "parent": "Typically both bulbs glow equally, with a dull orange light, clearly dimmer than the single bulb. Exact brightness depends on your cells and bulbs. If neither glows, check that the bulbs are 2.5 volts and the cells are fresh, and that every wire is touching bare metal.",
      "check": {
       "t": "mcq",
       "q": "Both bulbs in a row glow equally dimly. What does that show about the electricity going through the first bulb?",
@@ -771,7 +776,7 @@
      "do": "Join two bulbs in a row again. Unscrew one bulb a little and watch the other. Then do the same with two bulbs side by side. Write down what the other bulb did each time.",
      "say": "Predict first. If I unscrew one bulb in the row, what will the other bulb do? And side by side? Now try each, and watch.",
      "kid": "Unscrew one bulb. What does the other bulb do? Try the row, then side by side.",
-     "parent": "In the row, both bulbs go out. Side by side, the other bulb stays as bright as before. Bulbs are only warm at 3 volts, but hold them by their holders.",
+     "parent": "In the row, both bulbs go out. Side by side, the other bulb stays as bright as before. Bulbs are usually only warm at 3 volts, but hold them by their holders. If the bulb in the row circuit stays lit when you unscrew the other, a wire is bridging the holder: check the wiring.",
      "check": {
       "t": "mcq",
       "q": "A string of festival lights goes completely dark when one bulb fails. How are its bulbs most likely joined?",
@@ -871,7 +876,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Join a bulb to the cell holder, and watch it light. Turn the cell holder round, or swap the two wires on the cells. Watch the bulb again. Write down what you see both ways.",
+     "do": "Join a bulb to the cell holder, and watch it light. Score its brightness from 0 to 5. Turn the cell holder round, or swap the two wires on the cells. Score it again. Write down what you see both ways.",
      "say": "Light the bulb. Now swap the two wires on the cells, so the cells face the other way. Does the bulb change? Is it as bright as before?",
      "kid": "Light the bulb. Swap the wires on the cells. What changes?",
      "ask": [
@@ -893,7 +898,7 @@
      "say": "Hold the LED by its legs. One leg is longer. Touch the long leg to the plus face of the cell. Touch the short leg to the other face. What happens?",
      "kid": "A grown-up holds the cell. Long leg to plus. Short leg to minus. Look!",
      "adult": true,
-     "parent": "The long leg is the plus leg. The coin cell has a plus face with writing on it and a flat minus face. If nothing happens, check the legs are touching the faces and not each other. A fresh coin cell gives a clear glow. Put it back in its packet when you are finished.",
+     "parent": "The long leg is the plus leg. The coin cell has a plus face with writing on it and a flat minus face. If nothing happens, check the legs are touching the faces and not each other. A fresh coin cell typically gives a clear red glow. Keep the bent legs off the metal rim of the cell, because the rim joins to the plus face and the LED would be shorted and stay dark. If it is still dark, try the other LED or a new coin cell. With 2 to 4 children, only the grown-up holds the cell: the children take turns as the one who turns the LED, the one who records, and the one who draws. Put the cell back in its packet when you are finished.",
      "context": "In this step, you light an LED from a coin cell, one way round."
     },
     {
@@ -1039,12 +1044,16 @@
      "buy": "b-kit"
     },
     {
-     "item": "a blade or a pencil sharpener, for a grown-up to use",
+     "item": "a craft knife or a blade, for a grown-up to use",
+     "qty": 1
+    },
+    {
+     "item": "a ruler",
      "qty": 1
     }
    ],
    "schedule": [],
-   "safety": "A grown-up shaves the pencil with a blade or a sharpener, away from their body.",
+   "safety": "A grown-up shaves the pencil with a blade, cutting away from their body, on a table, with the pencil held flat. Children do not use the blade. Keep the bare lead away from clothes: it marks them.",
    "record": "Draw the circuit and write what the bulb did when the clip was near and when it was far.",
    "context": "In this activity, you use a pencil lead as a wire and slide a clip along it to dim a bulb.",
    "setup": [
@@ -1065,17 +1074,17 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "A grown-up carefully shaves the wood off one side of a soft pencil, to show about 10 centimetres of lead. Test the lead in the dark with a bulb and cells. If the bulb does not light, use a softer pencil.",
+     "do": "A grown-up carefully shaves the wood off one side of a pencil, to show about 12 centimetres of lead. Test the lead with a bulb and cells. If the bulb does not light, use a softer pencil.",
      "say": "A pencil's lead is graphite. It carries electricity, but holds it back more than copper does. A grown-up will shave one side of the pencil to show the lead.",
      "kid": "A grown-up shaves the pencil to show its lead. We will use the lead as a wire.",
      "adult": true,
-     "parent": "Use a blade or a sharpener blade away from the body. Shave only one side, so the lead stays held by the other half. A 4B or 6B pencil carries more current than an HB. If the bulb never lights, use a softer pencil, or a thicker lead.",
+     "parent": "Use a blade away from the body (a sharpener cannot expose the lead). Shave only one side, so the lead stays held by the other half; the lead is brittle, so go slowly. A soft pencil such as 4B carries more current than an HB. Start with a 2B or 4B. If the bulb never lights, use a softer one. If it stays equally bright wherever the clip is, the lead is too good a conductor: try an HB.",
      "context": "In this step, a grown-up prepares a pencil lead that you can use as a wire."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Join a clip from the cell holder to one end of the lead. Join the bulb to the other clip, and touch it to the lead near the first clip. Slide it slowly away. Watch the bulb.",
+     "do": "Join a clip from the cell holder to one end of the lead. Join the bulb to the other clip, and touch it to the lead near the first clip. Slide it slowly away. Stop at 2, 5, 8 and 11 centimetres. Score the bulb from 0 to 5 each time. Write the scores in a table.",
      "say": "Join the circuit through the pencil lead. Start with the clip near the first end. Slide it slowly along the lead. What does the bulb do as the clip moves away?",
      "kid": "Slide the clip along the lead. Watch the bulb. What changes?",
      "ask": [
@@ -1088,7 +1097,7 @@
        ]
       }
      ],
-     "parent": "The bulb should glow less as more lead is in the loop. In a dim room the change is easier to see. If the change is too small, try a harder pencil, such as HB. If the bulb stays off, the lead is too hard or the loop is broken.",
+     "parent": "Typically the bulb glows less as more lead is in the loop, but how much depends on the pencil: a pencil lead is not a perfect dimmer. Press the clips firmly on the graphite. In a dim room the change is easier to see. If the change is too small, try a harder pencil, such as HB, or use two pencils end to end. If the bulb stays off, the lead is too hard or the loop is broken. With 2 to 4 children, one slides the clip, one measures, one scores and one writes the table; a second child can score without seeing the first score.",
      "context": "In this step, you make a dimmer from a pencil lead and watch the bulb."
     },
     {
@@ -1109,12 +1118,14 @@
    "days": 1,
    "materials": [
     {
-     "item": "a few strands of fine steel wool, about 5 centimetres each",
-     "qty": 3
+     "item": "fine steel wool, a few strands of about 5 centimetres each (grade 0000 from a hardware or paint shop; a kitchen scrubber is too thick). Substitute: a strip of kitchen foil cut to a narrow neck, 2 millimetres wide",
+     "qty": 3,
+     "buy": "b-steel"
     },
     {
      "item": "a 9 volt battery",
-     "qty": 1
+     "qty": 1,
+     "buy": "b-steel"
     },
     {
      "item": "a metal tray or a steel plate, and a bowl of water",
@@ -1122,7 +1133,7 @@
     }
    ],
    "schedule": [],
-   "safety": "A grown-up does all of this activity. The strand gets very hot and can burn skin and light paper. Use a metal tray, keep paper and cloth away, and have a bowl of water ready. Never do this with a wall socket, plug or phone charger.",
+   "safety": "A grown-up does all of this activity. The strand gets very hot and can burn skin and light paper. Use a metal tray, keep paper and cloth away, and have a bowl of water ready. Never do this with a wall socket, plug or phone charger. Sparks and tiny hot bits can fly: the adult keeps their face back, children watch from arm's length, and everyone stays at least one step from the tray. Steel wool fibres splinter skin, so wash hands after. The battery and the used strand stay hot for a minute.",
    "record": "Draw the strand before and after, and write one sentence about why a fuse is a thin wire.",
    "context": "In this activity, a grown-up shows how a thin wire heats up and melts first, as a fuse does.",
    "setup": [
@@ -1147,17 +1158,17 @@
      "say": "Here is one thin strand of steel wool and one thick copper wire. If we send the same current through both, which one will get hotter? Why do you think so?",
      "kid": "A grown-up does this. Which gets hotter, the thin strand or the thick wire? Why?",
      "adult": true,
-     "parent": "Do this only with a grown-up in charge. Keep the child at arm's length. Use a metal tray, a 9 volt battery, and a bowl of water close by. No paper, cloth or plastic near the tray.",
+     "parent": "Do this only with a grown-up in charge. Keep the children at arm's length: one child or several can watch, predict, and count seconds aloud, one holding the timer and one writing results. Use a metal tray, a 9 volt battery, and a bowl of water close by. No paper, cloth or plastic near the tray.",
      "context": "In this step, you guess which is hotter, a thin strand or a thick wire."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "A grown-up holds the strand across the two terminals of a 9 volt battery. The strand glows orange and breaks in a second or two. Put the used strand on the tray. Disconnect and put the battery away.",
+     "do": "A grown-up lays one thin strand across the two terminals of a 9 volt battery, holding the battery by its sides. The strand typically glows orange and breaks in a second or two. Count the seconds aloud. Then twist 5 or 6 strands into one bundle and try again. It lasts longer. Put the used strands on the tray. Disconnect and put the battery away.",
      "say": "Watch. The grown-up touches the strand across the battery. What happens to the thin strand? Now think: a fuse is a thin wire like this one, put in a circuit on purpose.",
      "kid": "A grown-up touches the strand to the battery. Watch the strand. What happens?",
      "adult": true,
-     "parent": "The strand glows and breaks within a second or two. Do not hold it for long, because the battery gets warm. Never do this with a plug, wall socket or mobile phone charger. Let the strands cool on the tray, then put them in the bin.",
+     "parent": "Single thin strand: it typically glows and breaks within a second or two, often with a few sparks. The twisted bundle should last longer, which shows that thicker means more flow gets through before it melts. If nothing happens, the strand may be too thick or loose: use finer steel wool, press it onto both terminals, or try a fresh battery. If steel wool is not available, a foil strip with a narrow neck works in the same way. Do not hold it for long, because the battery gets warm. Never do this with a plug, wall socket or mobile phone charger. Let the strands cool on the tray, then put them in the bin.",
      "check": {
       "t": "mcq",
       "q": "A fuse in a plug is a thin wire. Why is it thin on purpose?",
@@ -1221,7 +1232,7 @@
      "do": "Gather 5 people, or use toys as bulbs. Choose one person as the cell. Everyone else is a bulb. Give the cell a bag of 20 small things, such as dry beans, to be the charges.",
      "say": "We are going to be a circuit. One person is the cell. The others are bulbs. The beans are the charges. The cell starts them moving round.",
      "kid": "We are a circuit. One of us is the cell. The rest are bulbs.",
-     "parent": "With only two or three people, use soft toys or cushions as bulbs and let the child move the beans themselves.",
+     "parent": "With only two or three people, use soft toys or cushions as bulbs and let the child move the beans themselves. The beans are only for passing: they are not to be eaten, and keep them away from children under three who might swallow them.",
      "context": "In this step, you choose who is the cell and who are the bulbs, and gather the beans."
     },
     {
@@ -1246,7 +1257,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Now make two lanes from the cell to a finish line and back, one bulb in each lane. The cell hands out two bags at the same time, one for each lane. One bulb sits down. Watch the other lane.",
+     "do": "Now make two lanes from the cell to a finish line and back, one bulb in each lane. The cell hands out two bags at the same time, one for each lane. One bulb sits down. Watch the other lane. Count how many beans the cell hands out in 30 seconds, first in the ring and then with the two lanes.",
      "say": "Now each bulb has its own lane. The cell hands a bag to each lane. One bulb sits down. What does the other lane do? What is the cell doing now compared with before?",
      "kid": "Make two lanes. One bulb sits down. What does the other lane do?",
      "ask": [
@@ -1259,7 +1270,7 @@
        ]
       }
      ],
-     "parent": "The other lane carries on. The cell has to hand out two bags at once, which is why cells run down faster in parallel.",
+     "parent": "The other lane carries on. The cell has to hand out two bags at once, so with two lanes it hands out about twice as many beans in the same 30 seconds as in the ring, which is why cells run down faster in parallel. Counts will not be exact. With one child and one parent, use toys for the bulbs and count the beans yourselves.",
      "check": {
       "t": "mcq",
       "q": "In your acting, one lane's bulb sat down and the other lane carried on. What does that show about a parallel circuit?",
@@ -1310,7 +1321,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use only AA cells. Keep the two rails apart so they never touch. Open the switch when you are not testing, because the cells run down fast.",
+   "safety": "Use only AA cells. Keep the two rails apart so they never touch. Small parts such as drawing pins stay away from children under five. Wires and cells may get warm if the rails touch: open the switch and take them apart at once. Open the switch when you are not testing, because the cells run down fast.",
    "schedule": [],
    "record": "Keep the circuit diagram. Write a table of the two strings: brightness, and what the others do when one is unscrewed.",
    "context": "In this project, you build a small festival string where each bulb has its own path, and compare it with a string wired in a row.",
@@ -1353,7 +1364,7 @@
      "do": "Stick two long foil strips along a piece of cardboard, or lay two long wires. These are the two rails. Join the cell holder to the rails at one end, with the switch in one wire. Place three bulb holders across the rails, each joined to both rails.",
      "say": "Lay two long rails along the cardboard. Join the cells to one end, with the switch in one wire. Then join each bulb across both rails. Each bulb has its own path between the rails.",
      "kid": "Lay two rails on the cardboard. Join the cells at one end. Put three bulbs across the rails.",
-     "parent": "If you use foil strips, fold the strip over the bulb holder terminals and tape it down firmly. Make sure the two rails never touch each other, or the cells will short out and get hot. Keep the rails about 5 centimetres apart. Test each bulb by itself before the switch goes in.",
+     "parent": "If you use foil strips, fold the strip over the bulb holder terminals and tape it down firmly. Make sure the two rails never touch each other, or the cells will short out and get hot. Keep the rails about 5 centimetres apart. Test each bulb by itself before the switch goes in. Kitchen foil tears and loses contact easily: fold it into a wide double strip, or use wires with crocodile clips for the rails instead. Fresh alkaline AA cells give a brighter glow: three bulbs side by side draw about three times the current of one, so old cells make them dim. With 2 to 4 children, one lays the rails, one wires the bulbs, one fits the switch and one tests.",
      "context": "In this step, you build the main part of the string on a piece of cardboard."
     },
     {
@@ -1403,7 +1414,7 @@
    ],
    "materials": [
     "2 AA cells in a holder",
-    "a torch bulb or a buzzer",
+    "a torch bulb (a 3 volt buzzer from a toy or electronics shop also works, but a bulb is easier to find)",
     "wires",
     "2 switches, or paper clips with drawing pins on card",
     "paper and a pencil"
@@ -1415,8 +1426,8 @@
    ],
    "creative": [
     "A staircase light that can be switched on or off from the top or the bottom of the stairs, using two special switches.",
-    "A light that comes on when a door is open and it is dark, using a switch for the door and a light-sensitive part in a row.",
-    "A quiz-show buzzer where the first player to press lights their own lamp."
+    "A light that comes on when a door is open and it is dark, using a switch for the door and a light-sensitive part in a row (a light-sensitive part is hard to buy, so draw this one).",
+    "A three-door alarm: a bulb that lights if any one of three doors is opened."
    ],
    "your_turn": "Invent a problem for your family: a rule about when a light should come on. Draw a circuit for it. Build it and test every combination. Which switches ended up in a row, and which side by side?",
    "context": "This is a design challenge about switches. You make circuits that follow the rules 'both are needed' and 'either is enough'.",
@@ -1459,7 +1470,7 @@
      "do": "Build the bell circuit using a bulb or a buzzer, a cell holder and two switches side by side. Test it with each button on its own, then both.",
      "say": "Build the door bell. Press the front button only. Press the back button only. Press both. When does it ring?",
      "kid": "Build the door bell. Test each button, and then both.",
-     "parent": "Home-made switches work well: a paper clip held by a drawing pin on a card, pressed down onto a second pin. Two switches side by side means each is joined across the same two points.",
+     "parent": "Home-made switches work well: a paper clip held by a drawing pin on a card, pressed down onto a second pin. With 2 to 4 children, each pair builds one of the two circuits and then swaps to test the other. Two switches side by side means each is joined across the same two points.",
      "context": "In this step, you build the two-door bell and test it."
     },
     {

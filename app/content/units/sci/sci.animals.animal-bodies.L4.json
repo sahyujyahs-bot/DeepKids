@@ -644,7 +644,7 @@
     "She says what problem the part solves, and guesses one price it might have.",
     "She turns the card over and reads the back. She scores 1 point if she was close on the problem, and 1 point if she was close on the price.",
     "Any other player may add a better answer. If it is better, that player also scores a point.",
-    "Play passes to the left. When the pile is empty, add up the points. The highest score wins.",
+    "Play passes to the left. When the pile is empty, or after 12 cards if time is short, add up the points. The highest score wins.",
     "Playing alone: draw 12 cards and score yourself. Try to beat your own score the next time."
    ],
    "flow": [
@@ -654,7 +654,7 @@
      "do": "Cut out the 24 cards and the score sheet. Shuffle the cards and put them face down. Each player gets a pencil.",
      "say": "We have 24 cards. Each one shows an animal and one odd body part. Your job is to say what problem it solves and what it might cost the animal.",
      "kid": "Cut out the cards. Shuffle them. Put them face down. Each card has an animal and a part.",
-     "parent": "Print the cards on both sides of a page, if you can, with the fronts and backs lined up. If you cannot, glue the back text onto the back of each card.",
+     "parent": "Print the cards on both sides of a page, if you can, with the fronts and backs lined up. If you cannot print, copy each card by hand onto a paper slip, or read the front aloud from the screen and the back afterwards. A grown-up cuts with scissors. One child with a parent: both play. Two to four children: take turns round the table.",
      "context": "This is the first step of Part, Problem, Price. You set up the game."
     },
     {
@@ -680,7 +680,7 @@
     {
      "id": "s3",
      "mins": 14,
-     "do": "Take turns. Turn over the top card, say the problem and a price, then read the back. Score points. Keep going until the pile is empty, or until 12 cards for one player.",
+     "do": "Take turns. Turn over the top card, say the problem and a price, then read the back. Score points. Keep going until 12 cards are done in all, or until the pile is empty if you have time.",
      "say": "Your turn. Read the front. Tell us the problem it solves and one price. Then we read the back. One point for each part you got close.",
      "kid": "Take a card. Say the problem and a price. Then read the back. Score your points.",
      "ask": [
@@ -755,11 +755,11 @@
      "qty": 3
     },
     {
-     "item": "2 pieces of old cotton cloth or thin towel, each exactly the same size, about 30 centimetres square",
+     "item": "2 pieces of dry old cotton cloth or thin hand towel, each exactly the same size and kind, about 30 centimetres square",
      "qty": 2
     },
     {
-     "item": "a tall, narrow glass, such as a tea glass",
+     "item": "a tall, narrow glass, such as a tea glass (or a measuring jug marked in millilitres)",
      "qty": 1
     },
     {
@@ -771,7 +771,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps to take the ice blocks out of the cups. Do not hold an ice block in your bare hands for long, because it can sting your skin. Wipe up any water on the floor.",
+   "safety": "Use plastic cups in the freezer, never glass, which can crack. A grown-up helps to take the ice blocks out of the cups, and never uses a knife on a stuck block. Do not hold an ice block in your bare hands for long, because it can sting your skin. Wipe up any water on the floor.",
    "record": "Write the height of the meltwater for each block, and rank the blocks from least to most melted. Then draw a model: a camel with the fat spread all over, and a camel with the fat in a hump, with arrows showing where the heat escapes.",
    "context": "In this experiment you use three blocks of ice and the same cloth in two different ways. You find out whether insulation works the same when it is spread out and when it is lumped.",
    "setup": [
@@ -813,7 +813,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess. Write it down with the reason. Check that all three cups are the same size and have the same amount of water. Use plastic cups that can go in a freezer.",
+     "parent": "Do not correct any guess. Write it down with the reason. Check that all three cups are the same size and have the same amount of water. Use plastic cups that can go in a freezer. One child with a parent: the child guesses and wraps, the parent pours and keeps time. Two to four children: share one set of three blocks and split the jobs (one wraps B, one wraps C, one keeps time, one measures), then swap jobs for a second round. With four children, two pairs can run two sets and compare answers. Stand the cups upright on a flat shelf. If the power goes off overnight, freeze them again.",
      "wait": "Leave the cups in the freezer overnight.",
      "context": "This is the first step of the Ice Test. You freeze the blocks and guess what will happen."
     },
@@ -824,7 +824,7 @@
      "say": "Run the tap on the outside of each cup for 5 seconds. Then tip the block out into its katori. Do the blocks look the same?",
      "kid": "Run the tap on the outside of a cup. Tip the ice into its katori. Do this three times.",
      "adult": true,
-     "parent": "A grown-up helps if a block sticks. If one block is clearly smaller, swap it for a spare, or the test is not fair.",
+     "parent": "A grown-up helps if a block sticks. If one block is clearly smaller, swap it for a spare, or the test is not fair. Freeze one spare cup. If a block will not come out, run the tap a little longer.",
      "check": {
       "t": "mcq",
       "q": "Why must the three ice blocks be the same size?",
@@ -844,7 +844,7 @@
      "do": "Leave block A bare. Wrap block B in one cloth, all around its sides, top and bottom. Fold the other cloth into a thick pad and lay it on top of block C only.",
      "say": "Block A stays bare. Block B is wrapped in one cloth, all around. Block C gets the other cloth, folded into a pad on top. The sides of C stay bare.",
      "kid": "A stays bare. Wrap B all over in one cloth. Fold the other cloth. Put it on top of C.",
-     "parent": "Both cloths must be the same size and the same kind. Wrap B loosely, as a blanket. Do not press the cloth hard against the ice. C's cloth sits on the top, and the sides are open.",
+     "parent": "Both cloths must be the same size and the same kind. Wrap B loosely, as a blanket. Do not press the cloth hard against the ice. C's cloth sits on the top, and the sides are open. Use dry cloth. If the cloth is thin, fold both cloths in two the same way.",
      "check": {
       "t": "mcq",
       "q": "Why do B and C get cloths of exactly the same size?",
@@ -892,7 +892,7 @@
      "say": "Time is up. Lift out each block. For B and C, squeeze the cloth over the katori. Then pour all the water into the tall glass and measure how high it goes.",
      "kid": "Lift out the block. Squeeze the cloth. Pour the water into the glass. Measure the height. Do A, B and C.",
      "adult": false,
-     "parent": "Empty and wipe the glass before each block. Measure to the nearest millimetre. Do not worry if your numbers are small. The pattern is what matters.",
+     "parent": "Empty and wipe the glass before each block. Measure to the nearest millimetre. Do not worry if your numbers are small. The pattern is what matters. With a measuring jug, read millilitres instead, and change the table heading.",
      "context": "In this step you measure how much each block melted. More water means more melting."
     },
     {
@@ -918,12 +918,12 @@
        ]
       }
      ],
-     "parent": "In most homes block B melts the least. Blocks A and C come out close, and C melts a little less than A. Your numbers will differ. Let the child say what the test shows before you explain. The model is honest only in part: the ice is colder than the room, and a camel is hotter than the night air. But a layer slows heat in both directions.",
+     "parent": "In most homes block B melts the least. Blocks A and C come out close, and C melts a little less than A. As a rough guide only, in a warm room a bare block gives about 20 to 40 millilitres of meltwater in 25 minutes, and a wrapped one about half of that. Your numbers will differ. If all three are within 2 millimetres of each other, the test showed no difference: say so honestly, then repeat with 40 minutes or thicker cloth. Let the child say what the test shows before you explain. The model is honest only in part: the ice is colder than the room, and a camel is hotter than the night air. But a layer slows heat in both directions.",
      "check": {
       "t": "mcq",
       "q": "Which result best matches this idea? The same cloth works as a good coat only when it is spread all over.",
       "options": [
-       "B melted far less than A and C",
+       "B melted the least",
        "A melted the least",
        "All three melted the same"
       ],
@@ -951,7 +951,7 @@
    ],
    "materials": [
     {
-     "item": "about 1 kilogram of atta, mixed with water into a soft dough like the dough for chapati",
+     "item": "about 1 kilogram of atta, mixed with water into a soft dough like the dough for chapati (or loose dry atta in a deep tray, smoothed flat, if the dough is too firm)",
      "qty": 1
     },
     {
@@ -963,11 +963,11 @@
      "qty": 1
     },
     {
-     "item": "a bottle cap or jar lid about 3 centimetres wide, for the small foot",
+     "item": "a bottle cap or jar lid about 3 centimetres wide, for the small foot (open side down, so its ring presses the dough)",
      "qty": 1
     },
     {
-     "item": "a flat steel plate or thali about 18 centimetres wide, for the wide foot",
+     "item": "a flat plate, thali or plastic lid about 18 centimetres wide, for the wide foot (the lighter the better)",
      "qty": 1
     },
     {
@@ -1017,7 +1017,7 @@
        ]
       }
      ],
-     "parent": "Write the widths in the table. Do not correct any guess. Many children think that the plate is heavier so it sinks more. Let the dough show them.",
+     "parent": "Write the widths in the table. Do not correct any guess. Many children think that the plate is heavier so it sinks more. Let the dough show them. One child with a parent: the child places the weight and counts the seconds, the parent measures. Two to four children: split the jobs (place the weight, count 30 seconds, measure the dent, write the table) and swap jobs for the second try, so every child measures at least once.",
      "check": {
       "t": "mcq",
       "q": "The tumbler has the same weight on all three feet. Which foot will push on the dough with the greatest pressure?",
@@ -1037,13 +1037,13 @@
      "do": "Roll the dough into a slab about 2 centimetres thick in the tray. Smooth the top with the back of a spoon. Fill the tumbler with 300 millilitres of water.",
      "say": "Roll the dough flat, about two fingers thick. Smooth it with the back of a spoon. This is our soft ground, like loose sand. Now fill the tumbler to 300 millilitres. This is our weight.",
      "kid": "Roll the dough flat. Smooth it. Fill the tumbler with 300 millilitres of water.",
-     "parent": "The dough should be soft enough to take a dent from a gentle press, but not sticky. If it is too hard, add a little water. If you cannot see a dent from the cap, add more water to the tumbler, and use the same amount every time.",
+     "parent": "The dough should be soft enough to take a dent from a gentle press, but not sticky. If it is too hard, add a little water. If you cannot see a dent from the cap, add more water to the tumbler, and use the same amount every time. If the dough sticks to the plate, dust the plate with a little dry atta. Measure the dent as soon as you lift the weight off, because dough springs back a little.",
      "context": "In this step you make the soft ground and the weight. They stay the same through the whole test."
     },
     {
      "id": "s3",
      "mins": 9,
-     "do": "Put the bottle cap flat on the dough. Balance the tumbler on it, steadying it with one fingertip at the side. Wait 30 seconds. Lift off both. Measure the dent with the toothpick and pencil. Smooth the dough and try again.",
+     "do": "Put the bottle cap flat on the dough, open side down. Balance the tumbler on it, steadying it with one fingertip at the side. Wait 30 seconds. Lift off both. Measure the dent with the toothpick and pencil. Smooth the dough and try again.",
      "say": "Cap first. Put the tumbler on top and steady it with one finger, without pressing down. Count to thirty. Lift off. Slide the toothpick into the dent, and pinch it where it meets the pencil. Measure it on the ruler.",
      "kid": "Put the cap on the dough. Stand the tumbler on it. Wait 30 seconds. Measure the dent.",
      "adult": false,
@@ -1065,7 +1065,7 @@
      "do": "Smooth the dough. Lay the plate flat on it. Stand the tumbler in the middle of the plate for 30 seconds. Lift both off. Look for a dent and measure it. Do it twice.",
      "say": "Last, the wide foot. Lay the plate on the dough and stand the tumbler in the middle. Wait thirty seconds. Lift off. Is there a dent? If there is, measure it.",
      "kid": "Lay the plate on the dough. Stand the tumbler on it. Wait 30 seconds. Is there a dent?",
-     "parent": "A dent from the plate may be very faint or none at all. Write 0 if you can see none. That is a true result and not a failure.",
+     "parent": "A dent from the plate may be very faint or none at all. Write 0 if you can see none. That is a true result and not a failure. The plate weighs a little more than the cap, but that is small next to how much wider it is. As a rough guide only, the cap often leaves a dent of a few millimetres, the tumbler base 1 or 2 millimetres, and the plate none.",
      "context": "In this step you test the wide foot twice. The plate may leave hardly any dent at all."
     },
     {
@@ -1119,7 +1119,7 @@
      "qty": 1
     },
     {
-     "item": "a ruler, a pencil and a pair of strong scissors (a grown-up cuts)",
+     "item": "a ruler, a pencil and a pair of strong scissors (a grown-up pokes a starter hole with the scissor tip, then cuts)",
      "qty": 1
     },
     {
@@ -1127,15 +1127,15 @@
      "qty": 1
     },
     {
-     "item": "a marble or a hard bead about 1.5 centimetres wide",
+     "item": "a marble (kanche) or a hard bead about 1.5 centimetres wide",
      "qty": 1
     },
     {
-     "item": "a small hard ball about 4 centimetres wide, such as a rubber ball",
+     "item": "a small hard ball about 4 centimetres wide, such as a rubber or plastic toy ball, or a smooth stone",
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the holes with strong scissors. Keep the scissors away from small children. Dough is made of wheat. Do not eat it raw, and wash hands afterwards. If anyone is allergic to wheat, use clay or play-dough instead.",
+   "safety": "A grown-up cuts the holes with strong scissors, and the point is sharp. Keep the scissors away from small children. Keep the marble away from children under 4. Dough is made of wheat. Do not eat it raw, and wash hands afterwards. If anyone is allergic to wheat, use clay or play-dough instead.",
    "schedule": [],
    "record": "Write which holes each body passed, and which it did not. Draw the three bodies and the smallest hole each passed.",
    "context": "In this activity you push three bodies through holes of different sizes. You find out what sets the smallest hole that a soft body can pass, as an octopus does.",
@@ -1171,7 +1171,7 @@
        ]
       }
      ],
-     "parent": "Make the plain dough ball the same size as the dough ball with the marble inside. Write the guesses down before the test. Do not correct them.",
+     "parent": "Make the plain dough ball the same size as the dough ball with the marble inside. Write the guesses down before the test. Do not correct them. One child with a parent: the child pushes and the parent writes. Two to four children: share the cardboard, and let each child make and push their own dough ball, with a marble inside or not. Take turns, and one child records.",
      "context": "This is the first step of the Squeeze Test. You make the holes and the bodies, and guess."
     },
     {
@@ -1180,7 +1180,7 @@
      "do": "For each body, start with the biggest hole. Try to push it through. If it goes, try the next smaller hole. Write the smallest hole it passed. Use the same push each time, with your fingers.",
      "say": "Start with the biggest hole. Push the body through, using your fingers. If it goes, try the next hole. Write down the smallest hole it passes.",
      "kid": "Push each body through a hole. Start with the biggest. Go smaller. Write the smallest hole.",
-     "parent": "The dough ball may come out the other side as a long worm. That counts as passing. The hard ball passes only the biggest hole. The marble in the dough should stop it at the 1 centimetre hole. Redo any try where the cardboard tears.",
+     "parent": "The dough ball may come out the other side as a long worm. That counts as passing. The hard ball passes only the biggest hole. The marble in the dough should stop it at the 1 centimetre hole, and may also stick at 2 centimetres, because the thin dough round the marble is hard to squeeze. The plain dough may need a firm push at the 1 centimetre hole. Hold the cardboard flat against a table edge. If even the plain dough will not go through, write that down as the result, or add a few drops of water to the dough and try again. Redo any try where the cardboard tears.",
      "check": {
       "t": "mcq",
       "q": "What sets the smallest hole that the dough ball with the marble can pass?",
@@ -1222,7 +1222,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a tube of stiff paper about 15 centimetres long and 1.2 centimetres wide, taped shut at one end",
+     "item": "a tube of stiff paper about 15 centimetres long and 1.2 centimetres wide (roll a sheet round a thick marker pen and tape it), taped shut at one end",
      "qty": 1
     },
     {
@@ -1230,11 +1230,11 @@
      "qty": 1
     },
     {
-     "item": "a fork, a thin pencil, a piece of thread and a spoon",
+     "item": "a fork, a thin pencil, a spoon and a straightened paper clip with a tiny hook bent at the end",
      "qty": 1
     },
     {
-     "item": "a thin stick or skewer with clear tape wrapped round the end, sticky side out",
+     "item": "a thin stick or ice-cream stick with fresh clear tape wrapped round the end, sticky side out",
      "qty": 1
     },
     {
@@ -1242,7 +1242,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up checks that the skewer has a blunt end. Do not put tools near the eyes.",
+   "safety": "A grown-up checks that the paper clip hook and the stick have blunt ends. Do not put tools near the eyes. Do not use honey for a child under 1 year.",
    "schedule": [],
    "record": "Write how many raisins each tool took out in one minute. Draw the best tool and say what is like a woodpecker's tongue.",
    "context": "In this activity you try five tools to pull raisins out of a narrow tube. You find out which tool works best, as a woodpecker's tongue does in a crack.",
@@ -1252,7 +1252,7 @@
      "caption": "1. Press five raisins deep into the tube. Tape the tube to a board."
     },
     {
-     "art": "Five tools in a row: a fork, a pencil, a spoon, a thread and a stick with sticky tape on the end.",
+     "art": "Five tools in a row: a fork, a pencil, a spoon, a bent paper clip and a stick with sticky tape on the end.",
      "caption": "2. Lay out the five tools."
     },
     {
@@ -1272,12 +1272,12 @@
        "q": "Which tool will get the most raisins, and why?",
        "good": [
         "The sticky one, because the raisin will stick to it.",
-        "The thread, because it is thin.",
+        "The bent paper clip, because the hook can catch a raisin.",
         "The pencil, because it is long."
        ]
       }
      ],
-     "parent": "Do not correct any guess. The fork and spoon may not fit in the tube at all. That is a result.",
+     "parent": "Do not correct any guess. The fork and spoon may not fit in the tube at all. That is a result. One child with a parent: the parent also tries each tool, so there are two scores to compare. Two to four children: each child tries a tool for one minute while another counts, then swap tools. Make a second tube if you have paper, so two children can work at once.",
      "context": "This is the first step of Tongue Tools. You set up the tube and guess."
     },
     {
@@ -1286,7 +1286,7 @@
      "do": "Try each tool for one minute. Count the raisins you pull out. Push the raisins back in before the next tool. Write the number for each tool.",
      "say": "One minute for each tool. Count the raisins that come out. Then push them back in for the next tool.",
      "kid": "Try each tool for one minute. Count the raisins. Put them back.",
-     "parent": "The sticky stick usually wins. The pencil and thread may push the raisins further in. Write down exactly what happens.",
+     "parent": "The sticky stick or the hook usually wins, depending on your tape and raisins. If the tape will not hold a raisin, use fresh tape, or dab a little honey or sugar syrup on the tip. The pencil may push the raisins further in. Write down exactly what happens. A tool that fails is a result.",
      "check": {
       "t": "mcq",
       "q": "Which tool is most like a woodpecker's tongue?",
@@ -1382,10 +1382,10 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Watch for 12 minutes without talking. Write what the animal does. Note how she moves, how she eats and what she does when she rests. Draw her feet and her beak.",
+     "do": "Watch for 12 minutes without talking. Write what the animal does. Note how she moves, how she eats and what she does when she rests. Draw her feet and her beak. Count her steps, hops or pecks in one minute, and count again.",
      "say": "Watch quietly for twelve minutes. Write what you see. How does she walk or hop? How does she eat? What do her feet and beak look like?",
      "kid": "Watch quietly. Write how she moves and eats. Draw her feet and beak.",
-     "parent": "If you can see her chest rise and fall while she rests, count the rises in 15 seconds. A crow often breathes faster than you. Do not worry if you cannot see it.",
+     "parent": "If you can see her chest rise and fall while she rests, count the rises in 15 seconds. A crow often breathes faster than you. Do not worry if you cannot see it. One child with a parent: the parent writes what the child calls out. Two to four children: each takes one column (moves, eats, rests) and counts, then you put the notes together. If no animal comes, put out a few grains of rice or a bowl of water and wait quietly.",
      "context": "In this step you watch the animal and write what you see."
     },
     {
@@ -1458,13 +1458,13 @@
        ]
       }
      ],
-     "parent": "Do not rush. Let the child guess and give a reason before trying.",
+     "parent": "Do not rush. Let the child guess and give a reason before trying. One child with a parent: the parent times and tries too. Two to four children: take turns to draw while another times and scores, then compare scores for one hand at a time against both hands together.",
      "context": "This is the first step of Two Hands, Two Jobs. You time two easy drawings, one at a time."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Draw the circle and the triangle at the same time, one in each hand. Time it. Try once more. Then try patting your head with one hand and rubbing your tummy with the other.",
+     "do": "Draw the circle and the triangle at the same time, one in each hand. Time it, and score it: 1 point for a round circle and 1 for a triangle with three clear corners. Try once more. Then try patting your head with one hand and rubbing your tummy with the other.",
      "say": "Now both at once. A circle in one hand and a triangle in the other. Start together. How does it look? Then try patting your head and rubbing your tummy.",
      "kid": "Draw both at once. How do they look? Pat your head and rub your tummy.",
      "parent": "Most people find this hard at first. The circle may turn into a triangle, or the other way round. This is normal.",
@@ -1522,7 +1522,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not touch wild animals. Watch lizards and ants from a distance.",
+   "safety": "Do not touch wild animals, and keep hands away from ants, which can bite. Watch lizards and ants from a distance. Do not lean out of a window, and keep a grown-up with you on a terrace. A grown-up does the stapling.",
    "schedule": [
     {
      "day": 1,
@@ -1540,7 +1540,7 @@
      "what": "Fill a page about yourself, and a page about the camel, the woodpecker or the octopus. Share your book."
     }
    ],
-   "record": "A small book with three pages, one for each animal you watched, and one for yourself. Each page has a drawing, a problem, a part and a price.",
+   "record": "A small book with four pages: the bird, the ant or lizard, yourself, and the camel, woodpecker or octopus. Each page has a drawing, a problem, a part and a price.",
    "context": "In this project you make a small book of three animals, including you. For each, you write a problem, the part that solves it, and its price.",
    "setup": [
     {
@@ -1572,7 +1572,7 @@
        ]
       }
      ],
-     "parent": "Help with the words, but let the child choose the part. Any honest guess about the price is fine.",
+     "parent": "Help with the words, but let the child choose the part. Any honest guess about the price is fine. Two to four children: each makes their own book, may watch the same bird side by side, and compares what each wrote. If no bird comes, watch a squirrel, a dog or a cow.",
      "context": "This is day 1 of the body book. You make the book and fill the first page."
     },
     {
@@ -1707,7 +1707,7 @@
        ]
       }
      ],
-     "parent": "A good design is not a perfect one. It is one where the child can say honestly where it fails.",
+     "parent": "A good design is not a perfect one. It is one where the child can say honestly where it fails. Two to four children: all pick the same place, design alone, then swap drawings and look for each other's trouble spots.",
      "context": "In this step you share your design and find its weak points."
     }
    ]
@@ -2756,6 +2756,16 @@
   }
  ],
  "buy": [
+  {
+   "id": "b-marble",
+   "item": "A few glass marbles (kanche) and a small rubber ball",
+   "kind": "material",
+   "why": "For the Squeeze Test, as the hard parts. Both cost a few rupees at a kirana or toy shop. You may already have them.",
+   "url": "https://www.amazon.in/s?k=glass+marbles",
+   "used_in": [
+    "a1"
+   ]
+  },
   {
    "id": "b-katori",
    "item": "A set of small steel katoris",

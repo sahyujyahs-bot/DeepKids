@@ -241,6 +241,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards into a pile, face down. Give each player one token of each kind.  
   *Parent says:* We will sort the jobs of a body. For each job, we decide who is in charge. Take one token of each kind.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take one token of each kind.
+  - Note: Cutting 36 pieces takes a while: a grown-up cuts, or the child uses blunt-ended scissors with an adult beside them. No printer? Copy each card on a scrap of paper, and use any three small things, such as a coin, a pebble and a bottle cap, as the three tokens. Up to 4 players share one set; the reader rotates.
 - **s2 (3 min)**  
   *Parent does:* Read the three kinds of token aloud. Then read one practice card together, and ask the child to explain the choice before turning it over.  
   *Parent says:* Automatic only means you cannot decide it. Automatic but steerable means it runs itself, and you can take over. Let us try one card together.  
@@ -280,7 +281,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Child mode:* We will count your pulse many times. What do you think will happen? Why?
   - Ask: After only 15 seconds of step-ups, will your pulse be a little higher or a lot higher? Why? (good: A lot higher, because the heart starts at once.; A little higher, because my muscles have not used much yet.; It depends on how fast I step.)
   - Ask: After you stop, will it fall fast at first or slowly at first? Why? (good: Fast, because the heart wants to settle.; Slowly, because my body is still warm.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guess at the top of the page.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guess at the top of the page. One child: the parent times and writes. Two to four children: take turns as stepper, counter-and-timer, and recorder. Each child does their own full set of rounds with their own table and graph, and the others use the rest time to rest, count their own resting pulse or draw. Do not let two children step at once on one stair. The whole test takes about an hour, so it can be split into two sittings, with 15 and 30 seconds first and 60 seconds later.
 - **s2 (5 min)**  
   *Parent does:* Show the child how to rest two fingers on the thumb side of the wrist. Practise two counts of 15 seconds while the child sits still.  
   *Parent says:* Rest two fingers on the inside of your wrist, below the thumb. Press gently until you feel a tap. Do not use your thumb.  
@@ -308,7 +309,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent says:* Step for one full minute. When I say stop, count for fifteen seconds. Then I say new window, and you count again from zero.  
   *Child mode:* Step for 1 minute. Stop. Count 15 seconds. Say the number. Count again.
   - Ask: Which window had the most beats, and which had the fewest? (good: The first has the most, the last has the fewest.; It went down each time.)
-  - Note: The child says each number out loud at the end of its window, and a grown-up writes it down. Do not pause between windows. A fast pulse is hard to count, so count together for the first window.
+  - Note: The child says each number out loud at the end of its window, and a grown-up writes it down. Do not pause between windows. A fast pulse is hard to count, so count together for the first window. All pulse numbers in this experiment are typical, not promises. Children differ, so your own rise may be smaller or bigger.
 - **s7 (5 min)**  
   *Parent does:* Ask the child to sit quietly. At 2 minutes and at 3 minutes after stopping, count the pulse for 15 seconds. Write both numbers.  
   *Parent says:* Sit and rest. At two minutes and at three minutes, we count again for fifteen seconds.  
@@ -337,12 +338,12 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent says:* We will measure your chest with a tape while you breathe. Which breath will grow your chest the most? Does slumping matter? Why do you think so?  
   *Child mode:* We will measure your chest while you breathe. Which breath grows it most? Why?
   - Ask: Will slumping make your deepest breath bigger, smaller or the same? Why? (good: Smaller, because my ribs get squashed.; The same, because the lungs are the same size.; Bigger, because I relax.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. One child: the parent holds the tape and writes. Two to four children: one is measured, one reads the tape, one writes, and then swap. Every child gets their own row of the table, and each reader should use the same reading spot on the tape every time.
 - **s2 (5 min)**  
   *Parent does:* Put the tape round the chest just under the armpits, over a thin vest. Hold it snug and not tight. Practise reading it at the end of a normal breath out.  
   *Parent says:* The tape goes just under your armpits. I will hold it snug, not tight. Breathe normally while I practise reading it.  
   *Child mode:* Stand still. A grown-up holds the tape under your armpits. Breathe normally.
-  - Note: Read the tape at the front, where the two ends meet. Keep the tape level all the way round. A measurement is only good to about half a centimetre.
+  - Note: Read the tape at the front, where the two ends meet. Keep the tape level all the way round. A measurement is only good to about half a centimetre. No tape measure? Use a piece of string: pinch the string where the ends meet, lay it flat along a ruler or a metre scale and read the length. A soft tape from a stationery or tailoring shop costs about Rs 20 to 40. The string method is a little less exact, so repeat each reading once.
 - **s3 (5 min)**  
   *Parent does:* Ask the child to sit straight and breathe quietly. At the end of a quiet breath out, read the tape. At the end of a quiet breath in, read it again. Repeat once more.  
   *Parent says:* Sit straight and breathe quietly. I will say now at the end of a breath out, and then at the end of a breath in.  
@@ -374,6 +375,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent does:* Ask the child to sit still for one minute. One hand rests on the wrist and one on the belly. Count the pulse for 15 seconds, and the breaths for 15 seconds.  
   *Parent says:* Sit still. One hand finds your pulse, and one hand rests on your belly. Count both for fifteen seconds.  
   *Child mode:* Find your pulse. Feel your belly rise. Count both for 15 seconds.
+  - Note: One child: the parent times. With 2 to 4 children: everyone does the tries at the same time, each with their own pulse and breath, and one child is the timer. Compare the numbers afterwards.
 - **s2 (4 min)**  
   *Parent does:* Ask the child to try to slow the heart by deciding, for 15 seconds. Count the pulse again. Then try to make the heart go faster by deciding, and count again.  
   *Parent says:* Now try to make your heart slow down, just by deciding. Count your pulse. Now try to make it speed up, just by deciding.  
@@ -394,6 +396,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent does:* Ask the child to sit calmly and chat about something ordinary for a minute. Then count the pulse for 15 seconds. Write the number as calm 1.  
   *Parent says:* Sit and tell me about your day. Then count your pulse for fifteen seconds. This is your calm count.  
   *Child mode:* Sit and chat for a minute. Then count your pulse for 15 seconds.
+  - Note: With more than one child, the child being tested should not see the trick. Send the others out of earshot, or let them be the counter or the timer and ask them to keep the secret. Then swap, so each child is tested once by a fresh trick.
 - **s2 (6 min)**  
   *Parent does:* Tell the child that a race will start soon, up the stairs and down, and that you will say go. Wait 20 seconds in silence with the stopwatch visible. Count the pulse for 15 seconds, but never say go.  
   *Parent says:* In a moment, you will race up the stairs and back. Hands ready. Count your pulse now while we wait.  
@@ -424,13 +427,13 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent does:* A grown-up holds the child's wrist. For 50 seconds the child breathes in for 4 counts and out for 6 counts. The grown-up makes one pencil dot on paper for each beat. At each change of breath, the grown-up draws a short line.  
   *Parent says:* I will feel your pulse and make a dot for every beat. I will draw a line when you change from in to out. Keep your breathing slow and steady.  
   *Child mode:* Breathe in for 4 and out for 6, five times. A grown-up dots your beats.
-  - Note: The child breathes five times, which takes about 50 seconds. The dots will fall into five in-sections and five out-sections. Do the whole round again if the dots get messy. Breathing with a spoken count keeps the rhythm steady.
+  - Note: The child breathes five times, which takes about 50 seconds. The dots will fall into five in-sections and five out-sections. Do the whole round again if the dots get messy. Breathing with a spoken count keeps the rhythm steady. With two or three children: one breathes, one dots, and one counts aloud, then swap. A child can also dot their own beats with the free hand while a grown-up counts the breaths. If the pencil is too awkward, tap a finger on the table for each beat and let another person count the taps.
 - **s3 (4 min)**  
   *Parent does:* Count all the dots in the five in-sections, and then all the dots in the five out-sections. Divide the in-breath dots by 2, since five in-breaths take 20 seconds. Divide the out-breath dots by 3, since five out-breaths take 30 seconds. Compare the two numbers.  
   *Parent says:* Five in-breaths took twenty seconds, so divide those dots by two. Five out-breaths took thirty seconds, so divide those dots by three. Which number is bigger?  
   *Child mode:* Count the in-dots and the out-dots. Divide by 2 and by 3. Compare.
   - Ask: Were there more beats for each 10 seconds while you breathed in or out? (good: More while I breathed in.; They were about the same.; More while I breathed out.)
-  - Note: Many families will see no difference, because the effect is a tiny speed-up and slow-down, and one missed dot can hide it. When it shows, the in-breath is a little faster. A heart monitor shows it clearly. Report what you see, and say whether it was the same on a second try.
+  - Note: Many families will see no difference, because the effect is a tiny speed-up and slow-down, and one missed dot can hide it. When it shows, the in-breath is a little faster. A heart monitor shows it clearly. Report what you see, and say whether it was the same on a second try. Do the whole round twice and add up the dots from both rounds before you divide, because more breaths make a tiny difference easier to see. If the two numbers are within one beat of each other, that is a normal result with hand counting, not a failure. A phone or watch with a pulse reader can show it more clearly.
 ### a4 · Clap the Animal Clocks: how fast is a heart? (15 min)
 - **safety:** Use only your hands to clap. Do not use sticks or bangers in the house.
 - **record:** Write how many claps you made for each animal in 10 seconds, and how many the real heart would make. Write which one you could not do.
@@ -440,11 +443,11 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Child mode:* Clap once every 2 seconds, for 10 seconds. How many claps?
   - Ask: How many claps did the elephant make in 10 seconds? (good: 5 claps.)
 - **s2 (5 min)**  
-  *Parent does:* Clap the child's heart at about 85 beats a minute, which is 14 claps in 10 seconds. Then clap the cat's heart at about 150 beats a minute, which is 25 claps in 10 seconds.  
+  *Parent does:* Clap the child's heart at about 85 beats a minute, which is 14 claps in 10 seconds. Then clap the cat's heart at about 150 beats a minute, which is 25 claps in 10 seconds. First count your own pulse for 10 seconds and compare it with 14, because 14 claps is only a typical number.  
   *Parent says:* Your heart beats about eighty-five times a minute, so about fourteen claps in ten seconds. A cat's heart beats about a hundred and fifty times a minute. Try twenty-five claps in ten seconds.  
   *Child mode:* Clap 14 times in 10 seconds. Now clap 25 times in 10 seconds.
   - Ask: Which was harder to clap, the child or the cat? (good: The cat.; The cat was too fast to keep steady.)
-  - Note: Twenty-five claps in ten seconds is hard to keep even. It is fine if the child gets close.
+  - Note: Twenty-five claps in ten seconds is hard to keep even. It is fine if the child gets close. With 2 to 4 children: one claps, one times, and one counts the claps aloud, then swap. Everyone can also clap together. Heart rates here are about figures for resting animals, and real animals vary.
 - **s3 (5 min)**  
   *Parent does:* Work out how many claps a mouse and a hummingbird would need in 10 seconds. A mouse's heart beats about 600 times a minute, and a hummingbird's can reach about 1,200 times a minute in flight. Try to flutter your fingers as fast as you can for 10 seconds.  
   *Parent says:* A mouse's heart beats about six hundred times a minute. How many beats is that in ten seconds? A hummingbird's in flight can reach about twelve hundred times a minute. How many in ten seconds?  
@@ -463,6 +466,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent says:* We will count your pulse at six moments today. Which moment do you think will be highest, and which lowest? Why?  
   *Child mode:* Pick six moments in your day. Which will be highest? Which lowest? Why?
   - Ask: At which moment do you think your pulse is highest, and why? (good: Right after play.; After running around.; When I am excited.)
+  - Note: One child: the parent helps count at the moments the child is busy. With 2 to 4 children: each child keeps their own table and colour, and siblings count each other's pulse, which also gives a second counter. A school day or a holiday day can both work, but keep the two days alike so the lines can be compared.
 - **s2 (8 min)**  
   *Parent does:* On the first morning, count the pulse for 15 seconds lying in bed before getting up. Write it in the first row. Then count again after standing for one minute.  
   *Parent says:* Before you get out of bed, find your pulse and count for fifteen seconds. Then stand up for a minute and count again.  
@@ -470,7 +474,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   - Ask: Was the pulse higher lying down or after standing up? (good: After standing up.; Higher standing.)
   - Note: Standing usually raises the pulse by a few beats, because gravity pulls blood towards the legs. The lying-down number is often the lowest of the day.
 - **s3 (14 min)**  
-  *Parent does:* During the day, count the pulse at the other four moments. Count for 15 seconds, multiply by 4, and write it in the table. Write what you were doing.  
+  *Parent does:* During the day, count the pulse at the other five moments. Count for 15 seconds, multiply by 4, and write it in the table. Write what you were doing.  
   *Parent says:* Through the day, stop at each of the moments in your table, count for fifteen seconds, and write the number.  
   *Child mode:* Count your pulse at each moment. Write the number and what you were doing.
   - Note: Count right after play, before the child sits down. Counts after meals are done sitting quietly for a minute first.
@@ -514,7 +518,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Child mode:* Which idea worked best? By how many beats? How sure are you?
   - Ask: Which idea brought the pulse down the most, and by how many beats? (good: The slow breathing, by 8 beats.; Sitting still was as good as anything.)
   - Ask: How could you make the test more trustworthy? (good: Repeat each test three times.; Test on another day.; Ask another person to do the test.)
-  - Note: A difference of fewer than 8 beats a minute could easily be counting error. An honest answer is that no idea beat sitting still by much, and that repeating the test would help.
+  - Note: A difference of fewer than 8 beats a minute could easily be counting error. An honest answer is that no idea beat sitting still by much, and that repeating the test would help. Later tests start a little tired, which can make them look worse. To check, sit still once more at the end and compare it with the first sit. With 2 to 4 children: each child tests their own plan, and one child times for all. Do not run the step-ups side by side. Keep the cloth cool and damp from the tap, never cold from the fridge.
 
 ## Worksheets
 ### Pulse and Breath Detective (core) (core, 15 questions)

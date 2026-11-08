@@ -230,6 +230,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Parent does:* Cut out the 22 cards. Shuffle them and make a pile with the fronts facing up. Turn the top card over. Place it in the middle of the table with its back showing. Read the back aloud.  
   *Parent says:* These cards show things that happen as a person grows. Each card has an event on one side and the time on the other. We will put them in order. Here is the first one.  
   *Child mode:* Cut out the cards. Shuffle them. Turn the top card over and put it in the middle.
+  - Note: No printer? Write the 22 events on one side of 22 paper slips, and the times on the back. Two to four players share one pile and one timeline. Take turns, and each player keeps their own score on paper.
 - **s2 (8 min)**  
   *Parent does:* Play six turns. After each, read the back aloud. After the third card, ask the question below.  
   *Parent says:* Take a card. Read it aloud. Where does it go in the line? Place it, then turn it over to check.  
@@ -242,7 +243,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Child mode:* Keep playing. Which comes first, sitting or standing?
   - Ask: Which events happen before birth, and which after? (good: The first 9 are before birth.; Heart, hands and buds are before birth.; Smiling and sitting are after birth.)
 - **s4 (3 min)**  
-  *Parent does:* Play the last cards. When the pile is finished, count the points. Look at the timeline from left to right.  
+  *Parent does:* Play the last seven cards. When the pile is finished, count the points. Look at the timeline from left to right.  
   *Parent says:* Last cards. Place them carefully. Then count your points.  
   *Child mode:* Play the last cards. Count your points.
 - **s5 (3 min)**  
@@ -257,7 +258,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **question:** A strip of paper is dipped in dye at one end. Can you tell where you are on the strip just from the colour? And what happens to each piece's 'job' if the dye goes in at the other end?
 - **predict:** Before you start, guess. After the dye has travelled along the strip, will the colour be the same all along, or different? What will happen if the dye goes in at the other end? Why do you think so?
 - **fair test:** Both strips are cut from the same paper towel. They have the same width and length. Each has the same dye, the same depth of dye in the same kind of katori, and the same time. Only the end that touches the dye is different. So any difference between the two strips comes from which end got the dye.
-- **safety:** Food colour stains clothes, hands and table tops. Put the tray on newspaper. Do not drink or taste anything in the katoris. Use the scissors with a grown-up nearby. Wash your hands afterwards.
+- **safety:** Food colour stains clothes, hands and table tops. Put the tray on newspaper. Do not drink or taste anything in the katoris, and keep the colour bottle away from small children. Use the scissors with a grown-up nearby. Wash your hands afterwards.
 - **record:** Write the colour of each piece, dark, medium, pale or none, for strip A and for strip B. Then give each piece a made-up job: dark is bone, medium is muscle, pale is skin, and none is waiting.
 - **results table:** Piece (counted from the left) | Strip A, dye at the left: colour | Strip A: job | Strip B, dye at the right: colour | Strip B: job
 - **s1 (5 min)**  
@@ -265,19 +266,19 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Parent says:* Each piece of this strip is like a cell in a growing body. The dye is like a signal. Will the colour be the same along the whole strip? What if the dye goes in at the other end? Why do you think so?  
   *Child mode:* Each paper piece is like a cell. The dye is like a signal. Will the colour be the same all along? Why?
   - Ask: Why do you think the colour will look like that? (good: The dye gets weaker as it goes.; It will be dark where it starts.; It will spread evenly.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Tell them this is only a model, because real cells use chemical signals and not dye.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Tell them this is only a model, because real cells use chemical signals and not dye. One child with a parent: the child does everything and the parent times and writes the guess. Two to four children: pairs share one strip A and one strip B, so make one pair of strips and two katoris for each pair. In each pair one child watches the dye front and calls the lift, and the other child handles the strip. Then swap for the colour and jobs table. Compare all the pairs' results at the end.
 - **s2 (8 min)**  
-  *Parent does:* Cut two strips, each 3 centimetres wide and 18 centimetres long. Draw five pencil lines across each strip, 3 centimetres apart, to make six pieces. Number the pieces 1 to 6 from the left, on both strips. Stir 10 drops of colour into each katori.  
+  *Parent does:* Cut two strips, each 3 centimetres wide and 18 centimetres long. Draw five pencil lines across each strip, 3 centimetres apart, to make six pieces. Number the pieces 1 to 6 from the left, on both strips. Stir 5 drops of colour into each katori. Draw the pencil lines lightly.  
   *Parent says:* Cut two strips of paper towel. Draw lines to make six pieces on each. Number the pieces from the left, one to six. Stir the colour into the water.  
   *Child mode:* Cut two strips. Draw five lines to make six pieces. Number the pieces 1 to 6. Stir colour into the water.
-  - Note: If the dye is too strong, the whole strip will turn dark. A first test is a good guide. Begin with 10 drops in 3 tablespoons of water. You can add water later if the dye is too dark.
+  - Note: Food colours differ a lot in strength. If the dye is too strong, the whole strip will turn dark. Begin with 5 drops in 3 tablespoons of water. You can add drops or water later. Test one spare strip first, while the child writes the guess, so you know how long your paper takes.
   - Check: Why do we cut both strips from the same paper towel and make them the same size? → **So the only difference is which end touches the dye**
 - **s3 (17 min)**  
   *Parent does:* Place a katori at each end of the tray. Fold the left end of strip A over the left katori so that 1 centimetre dips into the dye. Fold the right end of strip B over the right katori in the same way. Keep the two strips apart so they do not touch. Set a timer. Watch the dye climb. Lift strip A out when its front reaches piece 5. Lift strip B out when its front reaches piece 2, which is the same distance from its dye. Lay both on the tray.  
   *Parent says:* Strip A dips in at the left. Strip B dips in at the right. Start the timer and watch the dye climb. Lift strip A when the dye reaches piece five. Lift strip B when the dye reaches piece two. Then both have travelled the same distance.  
   *Child mode:* Dip strip A at its left end. Dip strip B at its right end. Watch the dye climb. Lift A at piece 5. Lift B at piece 2.
   - Ask: What do you see where the dye has not yet reached? (good: Still white.; The colour is fading.; The front is a pale line.)
-  - Note: Dye takes about 5 to 20 minutes to climb 12 to 15 centimetres, depending on the paper. Use the front as your clock, not the timer. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops.
+  - Note: The dye front usually takes about 10 to 30 minutes to climb 12 to 15 centimetres, depending on the paper, and it is slower in cool or damp weather. A coffee filter is usually faster. Use the front as your clock, not the timer. Every 5 minutes, hold a ruler to the strip and write how far the front has climbed. It moves quickly at first and then slows, which is also a result. If the front stops short of piece 5, lift both strips when the slower one stops and compare pieces that are the same distance from the dye. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops. The colour will fade smoothly along each strip, but exact shades vary, so judge dark, medium and pale by comparing the pieces side by side.
   - Check: The dye is darkest near the katori and faint at the far end of the strip. What does this show? → **The amount of dye falls as you move away from where it went in**
 - **s4 (10 min)**  
   *Parent does:* Lay the two strips side by side on the tray, with piece 1 on the left on both. For each piece write its colour. Then give each piece its made-up job. Dark is bone, medium is muscle, pale is skin, and no colour is waiting. Cut each strip into its six pieces and lay them in rows.  
@@ -294,7 +295,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 ### e2 · Wrong-Hand Writing: how fast does practice work? (36 min)
 - **question:** If you write the same short line with the hand you do not usually use, six times in a row, how much faster do you get? Does each try save the same amount of time?
 - **predict:** Before you start, guess. How many seconds will your first try take? Will your sixth try be faster, and by how much? Why do you think so?
-- **fair test:** You write the same line, on the same kind of paper, with the same pen, sitting the same way. You rest for one minute between tries. Only the try number changes. So if the times get shorter, practice is the only thing that can have changed.
+- **fair test:** You write the same line, on the same kind of paper, with the same pen, sitting the same way. You rest for one minute between tries. Write at the same neatness each time, so that someone else could read it. If you rush and scribble, the time is not comparable. Only the try number changes. So if the times get shorter, practice is the most likely reason.
 - **record:** Write the time for each try in the results table. Work out the seconds saved since the last try. Then draw a line graph of time against try number.
 - **results table:** Try | Time (seconds) | Seconds saved since the last try
 - **s1 (4 min)**  
@@ -302,7 +303,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Parent says:* We will write the same line six times with your other hand. How long do you think the first try will take? And the sixth? Why do you think so?  
   *Child mode:* You will write a line six times with your other hand. Guess your first time and your last time. Why?
   - Ask: Why do you think the sixth try will be faster or slower? (good: I will get used to it.; My hand will learn.; It will be tired.)
-  - Note: Do not correct the guess. Use the same line each time, 'I am growing today', so the amount of writing does not change.
+  - Note: Do not correct the guess. Use the same line each time, 'I am growing today', so the amount of writing does not change. One child with a parent: the parent times. Two to four children: all children write at the same time with their own paper, and the children take turns being timer for a partner. Each child then draws their own line graph, and you compare the shapes. Do not compare the seconds, because everyone starts from a different place.
 - **s2 (4 min)**  
   *Parent does:* Ask your child to write the line once with their usual hand. Time it and write down the number. This is their best possible time, to compare with.  
   *Parent says:* First, write the line with your usual hand. Go. Stop. That time is your comparison.  
@@ -312,7 +313,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Parent says:* Now use your other hand. Ready, go. Stop. Write down the time. Now rest for one minute. Then try again.  
   *Child mode:* Use your other hand. Write the line. Your helper times it. Rest for a minute. Do this six times.
   - Ask: Which part of your hand or your head feels different on the sixth try? (good: My hand moves more smoothly.; I do not have to think about each letter.; It feels less odd.)
-  - Note: Stay calm and do not hurry them. Do not let them look at earlier tries. If a time goes up, write it down. That is a result too. Tiredness can slow the later tries.
+  - Note: Stay calm and do not hurry them. Do not let them look at earlier tries. If a time goes up, write it down. That is a result too. Tiredness can slow the later tries, and a child of 6 to 8 may take 40 to 90 seconds on the first try. If the line is too long for your child, shorten it to 'I am growing', and keep the same line for all tries. The sixth try may not be the fastest. If so, say so, and look at the overall trend.
   - Check: On the fourth try your child takes 3 seconds longer than on the third. What is the best way to treat this result? → **Write it down as it is and keep going**
 - **s4 (8 min)**  
   *Parent does:* Work out the seconds saved on each try. Then draw a line graph with the try number along the bottom and the time up the side. Join the points.  
@@ -336,10 +337,10 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   - Ask: How do you think the paddle becomes five fingers? (good: Cells grow into five fingers.; Something cuts the paddle.; Cells grow out from the paddle.)
   - Note: Do not correct the guess. Any guess is fine. Show them the paddle shape in your own hand with the fingers together.
 - **s2 (8 min)**  
-  *Parent does:* Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. Then make a second hand from a new paddle by rolling five little fingers and sticking them on. Compare the two hands.  
+  *Parent does:* Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. Make a second hand from a new paddle. Roll five little fingers. Stick them on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.  
   *Parent says:* Draw four lines from the top. Cut out the dough between the lines. Take the pieces away. Now try a second hand. Roll five little fingers and stick them on. Which hand is better?  
   *Child mode:* Cut the dough between the lines to make fingers. Make a second hand by sticking five fingers on. Compare.
-  - Note: The cut hand has fingers that are joined to the palm all the way. The stuck-on fingers may fall off. In a real embryo, the fingers do not stick on. They appear when the cells between them die on a signal.
+  - Note: The cut hand has fingers that are joined to the palm all the way. The stuck-on fingers may come off or bend at the join. If they stay on, say that the join is still weaker than a finger that was never cut off. In a real embryo, the fingers do not stick on. They appear when the cells between them die on a signal. One child with a parent: the child makes both hands and the parent tugs. Two to four children: each child makes a cut hand and a stuck-on hand, with their own dough, and swaps hands with a partner for the tug test.
   - Check: In an embryo, what makes the gaps between the fingers? → **Cells between the fingers die when they get a signal**
 - **s3 (5 min)**  
   *Parent does:* Look at the web of skin at the base of your own fingers. Spread your fingers wide. Talk about ducks, who have webbed feet. Ask what might be different in a duck's foot.  
@@ -348,7 +349,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   - Ask: What might be different in a duck's foot while it grows? (good: Fewer cells die between the toes.; The cells stay alive.; The signal is weaker.)
   - Note: In a chick, the cells between the toes die and the toes are separate. In a duck, most of those cells stay alive, so the toes stay webbed. After they have shared their idea, say so. In a few babies, two fingers stay joined, and a small operation separates them.
   - Think: Which is the better shape for swimming, a hand with webbing or a hand without?
-### a2 · My Growth Line: how fast does a baby grow? (28 min)
+### a2 · My Growth Line: how fast does a baby grow? (30 min)
 - **record:** Draw a line graph of a baby's length from birth to 2 years. Mark the steepest part.
 - **s1 (5 min)**  
   *Parent does:* Show your child the typical lengths for a healthy baby. At birth the baby is 50 centimetres long. Then 61 at 3 months, 67 at 6 months, 71 at 9 months, 75 at 12 months, and 87 at 24 months. Ask in which three months a baby grows the most, and why they think so.  
@@ -361,12 +362,12 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Parent says:* Draw the axes on the squared paper. Months go along the bottom. Length goes up the side. Mark a dot for each age. Then join the dots with a ruler.  
   *Child mode:* Draw the axes. Mark a dot for each age. Join the dots.
   - Note: If you have a baby health card, you can plot your own child's first two years in a second colour. Different babies follow their own line. A baby who is steady on their own line is growing well.
-- **s3 (8 min)**  
-  *Parent does:* Work out how many centimetres were gained in each step. Mark the steepest part of the line. Ask what the line would look like at age 5, and at age 12.  
+- **s3 (10 min)**  
+  *Parent does:* Work out how many centimetres were gained in each step. Then divide by the number of months in that step to find centimetres per month. Mark the steepest part of the line. Ask what the line would look like at age 5, and at age 12.  
   *Parent says:* How many centimetres were gained in each step? Which step is the steepest? The line goes up at the start and then flattens. Why do you think growth slows?  
   *Child mode:* Find the steepest part. Count how much was gained in each step. Why does growth slow?
   - Ask: What do you think the line will look like at 5 years old? (good: It will keep going up, but slowly.; It will be flatter.; It will go up in steps.)
-  - Note: Gains in length: 11 centimetres in the first three months, 6 in the next three, 4 in the next three, 4 in the next, and 12 in the whole second year. The line is steepest at the start. After they have made their own claim, explain: a baby grows fastest in the womb and just after birth, and then more slowly. Growth speeds up again in the early teens. Never compare your child to another child. Compare them to their own line.
+  - Note: Gains in length: 11 centimetres in the first three months, 6 in the next three, 4 in the next three, 4 in the next three, and 12 in the whole second year. Because the steps are different lengths, compare centimetres per month: about 3.7, 2, 1.3, 1.3 and 1. The gain of 12 looks big only because it covers a whole year. The line is steepest at the start. After they have made their own claim, explain: a baby grows fastest in the womb and just after birth, and then more slowly. Growth speeds up again in the early teens. Never compare your child to another child. Compare them to their own line. One child with a parent: they plot together. Two to four children: each child plots the line, and one child reads out the numbers and another works out centimetres per month, then swap.
   - Think: If a baby kept growing 11 centimetres every three months, how tall would they be at 10 years old?
 ### a3 · Same Book, Different Pages (20 min)
 - **record:** Keep the two marked instruction sheets. Write which lines were different for each cell.
@@ -376,11 +377,11 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Child mode:* Write eight lines on a sheet. Make a second copy. Every cell gets a whole book.
   - Note: The lines are simple, made-up examples of real jobs. A real cell reads a code written in four chemical letters, not lines of words.
 - **s2 (10 min)**  
-  *Parent does:* Your child is cell A and you are cell B. Read a signal slip to each cell. Cell A gets the slip 'You are in the scalp'. Cell B gets 'You are in the bone marrow'. Each cell circles line 8, and the line the signal points to. A scalp cell follows line 1. A bone marrow cell follows line 2.  
+  *Parent does:* Your child is cell A and you are cell B. Read a signal slip to each cell. Cell A gets the slip 'You are in the scalp'. Cell B gets 'You are in the bone marrow'. Each cell circles line 8, and the line the signal points to, using the first pencil colour. A scalp cell follows line 1. A bone marrow cell follows line 2. Then swap the slips and circle again with the second colour. Count how many lines were circled in common.  
   *Parent says:* You are cell A and I am cell B. We both have the whole book. Now I read your signal. You are in the scalp. Circle the lines a hair cell follows. Remember line eight. Every cell follows line eight.  
   *Child mode:* Each cell gets a signal. Circle line 8, and the lines your signal tells you to follow.
   - Ask: Which lines did both cells follow? Which lines were different? (good: Both followed line 8.; A hair cell followed line 1.; A red cell followed line 2.)
-  - Note: Line 8 is what every cell needs. The other lines are the special jobs. Try a second round with new signals, such as 'You are in the lens of the eye' and 'You are in the gut'. The books never change. Only the circled lines change.
+  - Note: Line 8 is what every cell needs. The other lines are the special jobs. After the swap, the same book gives a different job, because the signal changed. This is like an early cell moved to a new place. Try a third round with new signals, such as 'You are in the lens of the eye' and 'You are in the gut'. The books never change. Only the circled lines change. Two to four children: one sheet and one slip for each child, with a neighbour reading out each signal. Three or four children can compare the marks on all the sheets at the end.
 - **s3 (5 min)**  
   *Parent does:* Compare the two sheets. Ask your child how the books differ and how the marking differs. Then ask who decided which lines to follow.  
   *Parent says:* Look at the two books. Are they the same? Look at the circled lines. Are they the same? Who decided which lines to follow?  
@@ -397,11 +398,12 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Parent says:* We will ask family members about their growth. Here are five questions. Write them in your notebook. Then ask the first person. Be kind, and ask only what they want to share.  
   *Child mode:* Write five questions. Ask your first family member. Write down their answers.
   - Ask: Whom would you like to interview first, and why? (good: My grandmother.; My father.; My uncle, who is tall.)
-  - Note: Some people may not remember their birth length or height at 10. That is fine. Ask them to guess, or skip the question. Growth is a private topic for some people. Ask only what they are happy to share. Not everyone grew up with their parents, and some children have no family record. Pick anyone who cares for you.
+  - Note: Some people may not remember their birth length or height at 10. That is fine. Ask them to guess, or skip the question. Growth is a private topic for some people. Ask only what they are happy to share. Not everyone grew up with their parents, and some children have no family record. Pick anyone who cares for you. One child with a parent: the child interviews each person, in person or by phone or video call. Two to four children: split the family members between you, and each child draws all the lines on a shared sheet. Heights from memory are only a guess, so label them 'remembered'. A health card or an old school record gives better numbers.
 - **s2 (20 min)**  
   *Parent does:* Interview two more family members. Measure everyone's height today. Write each person's answers next to their name.  
   *Parent says:* Today we ask two more people the same five questions. Then we measure everyone with the tape. Write it all next to their names.  
   *Child mode:* Interview two more people. Measure everyone's height. Write it down.
+  - Note: If a family member lives far away, ask them to measure themselves against a wall with a tape, and tell you by phone.
 - **s3 (25 min)**  
   *Parent does:* For each person, draw a growth line on squared paper, with age along the bottom and height up the side. Mark at least three dots. Join them. Compare the lines with each other and with the baby's growth line from the Growth Line activity.  
   *Parent says:* Draw a growth line for each person, with age along the bottom and height up the side. Join the dots. What is the same in every line? What is different?  
@@ -416,7 +418,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **safety:** Food colour stains clothes, hands and table tops. Put the tray on newspaper. Use the scissors with a grown-up nearby. Do not taste anything. Wash your hands afterwards.
 - **your turn:** Try two of the ideas on small strips. Choose the one that gives the clearest three bands. Then ask someone who has not seen your strips to say which band is dark, medium and pale. If they can, your design works.
 - **constraints:** Use only one colour of dye.; Do not paint or draw on the strip.; The three bands must be clearly different from each other.; Test your idea and keep your results.
-- **general:** Dip one end of a strip in dye for a short time, then cut it into three pieces. The ends will have dark, medium and pale colours. Tape them together.; Make three katoris with different amounts of dye, such as 12, 6 and 3 drops in the same amount of water. Dip a short strip in each, and tape the three strips together in order.; Dip one end in dye and stop when the front reaches the middle. The strip will fade from dark to pale.
+- **general:** Dip one end of a strip in dye for a short time, then cut it into three pieces. The ends will have dark, medium and pale colours. Tape them together.; Make three katoris with different amounts of dye, such as 12, 6 and 3 drops in the same amount of water (3 tablespoons each). Dip a short strip in each for the same time, and tape the three strips together in order. If the bands look too alike, halve the drops again, for example 12, 3 and 1.; Dip one end in dye and stop when the front reaches the middle. The strip will fade from dark to pale.
 - **creative:** Fold a strip in three and dip each fold to a different depth.; Dip both ends to make a pale middle and two dark ends, then use the three parts as bands.; Make a staircase: dip a long strip, move it a little each minute, and see what stripes appear.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look back at the strips from the Colour Map test. Ask how to get three clear bands from one dye.  
@@ -427,7 +429,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   *Parent does:* Test two ideas on short strips. Write down what you did and what you got.  
   *Parent says:* Choose two ideas and test them on small strips. Write down what you did and how each strip looked.  
   *Child mode:* Test two ideas. Write what you did. Look at the bands.
-  - Note: The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It almost always gives clear bands. A single dipped strip may give a smooth fade, and not three clear bands.
+  - Note: The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It usually gives clear bands. Strong food colours may make the first two look alike, so halve the drops again if they do. A single dipped strip may give a smooth fade, and not three clear bands. One child with a parent: the child tests two ideas, and the parent is the stranger at the end. Two to four children: each child tests a different idea at the same time, then you compare, and each child asks someone else to name their bands.
 - **s3 (15 min)**  
   *Parent does:* Pick the best strip. Ask someone who has not seen it to say which band is dark, which is medium and which is pale. Talk about why it worked.  
   *Parent says:* Show your best strip to someone who has not seen it. Ask them to point to the dark, the medium and the pale band. Did it work?  
@@ -556,9 +558,9 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
    **Answer:** 32. *Why:* The numbers go 1, 2, 4, 8, 16, 32. Each round doubles the number of cells.
 
 ## Videos
-- **How a single cell becomes a baby: a time-lapse of an embryo growing** (to be found, 4 min) id `to find`: To see cells split, form a ball, and start to make a heart and a spine. *Check:* Not yet found. Find one, watch it, and check it is accurate and calm for children before adding it.
-- **How cells die on purpose to shape fingers and toes** (to be found, 4 min) id `to find`: To see the paddle of a hand turn into separate fingers. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How the placenta and the cord feed a growing baby** (to be found, 4 min) id `to find`: To see the thin wall and the two bloodstreams in the placenta. *Check:* Not yet found. Find one, watch it, and check it is accurate and calm for children before adding it.
+- **Human Embryo Growing from Fertilization to Day 6 Blastocyst** (Texas Fertility Center, 4 min) id `RcjJ8LUvdkc`: To see cells split, form a ball, and start to make a heart and a spine. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Apoptosis In Fetal Limb Development | 3D Animation** (Musawwir Ashraf, 4 min) id `a0uibWBYmZY`: To see the paddle of a hand turn into separate fingers. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How a Baby Gets Nutrients in the Womb | Placenta & Umbilical Cord Explained** (Smart Anatomy, 4 min) id `Wo44LCrnfqI`: To see the thin wall and the two bloodstreams in the placenta. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A skin cell and a nerve cell look and work differently, though they hold the same DNA. Why?  
@@ -672,7 +674,7 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 
 ## Things to buy
 - [A roll of white kitchen paper towel, or a pack of coffee filter papers](https://www.amazon.in/s?k=white+kitchen+paper+towel+roll) (material): To cut into strips for the Colour Map test and the three-stripe challenge. Plain white towels without a pattern work best. Used in e1, c1. 
-- [A small bottle of red or blue food colour](https://www.amazon.in/s?k=food+colour+liquid+red) (material): To make the dye for the Colour Map test and the three-stripe challenge. One small bottle lasts for many tests. Used in e1, c1. 
+- [A small bottle of red or blue food colour](https://www.amazon.in/s?k=food+colour+liquid+red) (material): To make the dye for the Colour Map test and the three-stripe challenge. One small bottle lasts for many tests. Choose red or blue; green and brown colours split into several colours on paper. Used in e1, c1. 
 
 ## Warm-up
 - What is a gene? → One instruction on the DNA.

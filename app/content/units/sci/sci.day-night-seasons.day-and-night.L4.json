@@ -615,6 +615,20 @@
           "think": "Could two places far apart north to south have the same noon?",
           "context": "This is the last step of Chase the Dawn. You look back at the game."
         }
+      ],
+      "materials": [
+        {
+          "item": "the printed sheet of 18 cards and the tokens from the app (no printer? copy the cards and tokens by hand onto small slips of paper)",
+          "qty": 1
+        },
+        {
+          "item": "scissors",
+          "qty": 1
+        },
+        {
+          "item": "a pencil and paper for the tally of points",
+          "qty": 1
+        }
       ]
     },
     {
@@ -809,6 +823,20 @@
           "think": "What does the world feel like to an animal that finds her way with sound?",
           "context": "This is the last step of Night Shift. You look back at the game."
         }
+      ],
+      "materials": [
+        {
+          "item": "the printed sheet of 20 cards and the tokens from the app (no printer? copy the cards and tokens by hand onto small slips of paper)",
+          "qty": 1
+        },
+        {
+          "item": "scissors",
+          "qty": 1
+        },
+        {
+          "item": "a pencil and paper for the tally of points",
+          "qty": 1
+        }
       ]
     }
   ],
@@ -835,7 +863,7 @@
           "qty": 1
         },
         {
-          "item": "paper, a pencil and the results table",
+          "item": "paper, a pencil and the results table (draw it on paper or print it from the app)",
           "qty": 1
         },
         {
@@ -889,7 +917,7 @@
           "do": "Look up today's sunrise and sunset in each of the five cities. Write each time to the minute. Use the 24-hour clock for sunset, so 5:58 in the evening is 17:58.",
           "say": "Look up the sunrise and the sunset for each city. Use the same day and the same app for all five. Write the times to the minute.",
           "kid": "Find sunrise and sunset for each city. Write them in the table.",
-          "parent": "No phone? Use the weather box in a newspaper, or ring a relative in another city and ask when the Sun rose and set. If a city is missing, use any city whose longitude you can look up. Apps can differ from each other by a minute or two. That is fine.",
+          "parent": "No phone? Use the weather box in a newspaper, or ring a relative in another city and ask when the Sun rose and set. If a city is missing, use any city whose longitude you can look up. Apps can differ from each other by a minute or two. That is fine. Working together: with 2 to 4 children, give each child one or two cities to look up and write on the shared table, then check each other's times. One child on their own does all five cities.",
           "check": {
             "t": "mcq",
             "q": "Why do we use the same date and the same app for all five cities?",
@@ -929,7 +957,7 @@
           "do": "Work out noon for the other four cities. Then, for each city, write how many minutes later than Guwahati its noon is.",
           "say": "Do the same for the other four cities. Then count how many minutes later each noon is than the noon in Guwahati.",
           "kid": "Find noon for every city. Count the minutes after Guwahati.",
-          "parent": "Expect Guwahati to be first and Mumbai last. Your gaps should be roughly 13 minutes to Kolkata, 46 to Chennai, 62 to Kochi and 75 to Mumbai, though your numbers may be a minute or two different.",
+          "parent": "Expect Guwahati to be first and Mumbai last. Your gaps should be roughly 13 minutes to Kolkata, 46 to Chennai, 62 to Kochi and 75 to Mumbai, though your numbers may be a minute or two different. A quick check: timeanddate.com also shows the solar noon of each city. If your noon is more than 3 minutes away from that, look at your sum again.",
           "context": "In this step, you finish the table, using the same method for every city."
         },
         {
@@ -989,19 +1017,19 @@
       ],
       "materials": [
         {
-          "item": "one large orange, round and not too soft",
+          "item": "one large orange, round and not too soft, with its stem dimple still showing",
           "qty": 1
         },
         {
-          "item": "a ball of thin thread or wool, about 1 metre",
+          "item": "a reel of thin sewing thread, about 1 metre (not stretchy wool, which stretches and spoils the lengths)",
           "qty": 1
         },
         {
-          "item": "2 rubber bands that fit around the orange",
-          "qty": 2
+          "item": "1 rubber band that fits around the orange",
+          "qty": 1
         },
         {
-          "item": "a marker pen or ballpoint pen, a ruler and scissors",
+          "item": "a marker pen (a ballpoint often skips on the oily peel), a ruler and scissors",
           "qty": 1
         },
         {
@@ -1009,7 +1037,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up should help with the scissors if your child is young. Draw on the peel only, and do not eat the orange afterwards. Wash your hands after using the pen.",
+      "safety": "A grown-up should help with the scissors if your child is young. Draw on the peel only, and do not eat the orange afterwards. Wash your hands after using the pen, and after handling the orange if your child has sensitive skin or a citrus allergy.",
       "record": "Fill in the table with the three lengths. Then draw a bar chart with one bar for each circle.",
       "context": "In this experiment, you draw circles on an orange to stand in for the Earth, and measure them to find out which places are carried fastest as the Earth spins.",
       "setup": [
@@ -1023,7 +1051,7 @@
         },
         {
           "art": "The orange with three drawn circles, the equator, a middle circle and a small circle near the top.",
-          "caption": "3. Use a rubber band to draw the circle through each set of marks."
+          "caption": "3. Join the dots you marked with a pen line all the way round, to draw each circle."
         },
         {
           "art": "A thread wrapped around the equator of the orange, then stretched straight next to a ruler.",
@@ -1047,7 +1075,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Many children say everybody moves at the same speed because everybody takes a day. That is a good guess to test.",
+          "parent": "Do not correct the guess. Many children say everybody moves at the same speed because everybody takes a day. That is a good guess to test. One child with a parent: the child does the drawing and measuring, and the parent holds the orange. With 2 to 4 children, give each pair or child their own orange (they are cheap) and share the three lengths on one chart, which also shows how much the oranges differ. Or split the roles: one holds, one draws, one threads and measures.",
           "context": "This is the first step of the Orange Earth test. You guess before you measure."
         },
         {
@@ -1062,7 +1090,7 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Lay a thread along the skin from the equator line up to the North Pole dot, and cut it. Measure it with the ruler. Work out one third and two thirds of its length. Mark both points on four sides of the orange.",
+          "do": "Lay a thread along the skin from the equator line up to the North Pole dot, and cut it. Measure it with the ruler. Work out one third and two thirds of its length. Mark both points on four sides of the orange, with a dot each.",
           "say": "Lay a thread from the equator up to the North Pole. Cut it and measure it. Mark one third and two thirds of the way up, on four sides.",
           "kid": "Measure from the equator to the pole. Mark one third and two thirds.",
           "parent": "The way from the equator to the pole is one quarter of the way round the Earth, which is 90 degrees. One third of it is 30 degrees of latitude. Two thirds of it is 60 degrees. For a 6 centimetre thread, mark 2 and 4 centimetres from the equator. Delhi is close to the 30 degree circle. Oslo and Helsinki are close to the 60 degree circle.",
@@ -1082,11 +1110,11 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "Slip a rubber band round the four marks at one third, and draw a line along it. Do the same for the four marks at two thirds. You now have three circles.",
-          "say": "Put a rubber band through the marks and draw the circle. Do the same for the other set of marks. Now you have three circles.",
-          "kid": "Draw the two new circles with the rubber band.",
-          "parent": "If the band slips off, hold it in place with your thumbs while your child draws. A wavy line is fine.",
-          "context": "In this step, you draw the 30 degree circle and the 60 degree circle."
+          "do": "Mark dots at one third of the way up, on eight sides, all the same height above the equator. Join the dots with a pen line. Do the same at two thirds. You now have three circles.",
+          "say": "Make a ring of eight dots at the same height above the equator, then join them with a line round the orange. Do the same for the other set of marks. Now you have three circles.",
+          "kid": "Join the dots into a circle. Do this for both new circles.",
+          "parent": "A rubber band slides towards the pole on a small circle, so do not use it here. Instead measure the same distance up from the equator line at eight places and join the dots by eye, with a thread laid along them as a guide. A wavy line is fine. If it wanders, measure a few more dots.",
+          "context": "In this step, you draw the 30 degree circle and the 60 degree circle by joining dots."
         },
         {
           "id": "s5",
@@ -1094,7 +1122,7 @@
           "do": "Wrap a thread round the equator, snip it where it meets itself, and lay it straight along the ruler. Write its length. Do the same for the other two circles.",
           "say": "Wrap a thread once round the equator. Snip it, straighten it and measure it. Do the same for the other circles.",
           "kid": "Wrap, snip and measure the thread for each circle. Write the lengths.",
-          "parent": "Expect an orange about 24 to 26 centimetres round the equator, about 21 to 23 round the 30 degree circle, and about 12 to 13 round the 60 degree circle. Your numbers will not be exact.",
+          "parent": "Typical numbers: an orange about 24 to 26 centimetres round the equator, about 21 to 23 round the 30 degree circle, and about 12 to 13 round the 60 degree circle. Your numbers will not be exact: anything from 40 to 60 out of 100 for the 60 degree circle is a fair result. If the thread stretches or slips off the circle, measure again.",
           "check": {
             "t": "mcq",
             "q": "Each spot on the orange turns once in the same time. Which spot is carried fastest?",
@@ -1114,7 +1142,7 @@
           "do": "Ask your child to say what they thought, what they measured and why. Then ask how long the 60 degree circle is compared with the equator.",
           "say": "Tell me three things. What did you think? What did you find? Why do you think it happened?",
           "kid": "Say what you thought, what you found, and why.",
-          "parent": "A strong answer says that the 60 degree circle is about half as long as the equator, so a spot on it goes half as fast. The 30 degree circle is about 87 out of 100, so those places go about 87 percent as fast. The equator of the real Earth is about 40,075 kilometres. 40,075 divided by 24 is about 1,670 kilometres an hour. Half of that is about 835. A person at the North Pole only turns once on the spot.",
+          "parent": "A strong answer says that the 60 degree circle is about half as long as the equator, so a spot on it goes half as fast. The 30 degree circle is about 87 out of 100, so those places go about 87 percent as fast. The equator of the real Earth is about 40,075 kilometres. 40,075 divided by 24 is about 1,670 kilometres an hour. Half of that is about 835. A person at the North Pole only turns once on the spot. Real fruit is not a perfect sphere, so do not worry if your answer is a little off half.",
           "think": "If the equator is carried at 1,670 kilometres an hour, how fast is a person at the 60 degree circle?",
           "context": "This is the last step of the Orange Earth test. You explain your result."
         }
@@ -1129,15 +1157,15 @@
       "days": 1,
       "materials": [
         {
-          "item": "a torch or table lamp on a low table in the middle of a room",
+          "item": "a torch or table lamp on a low table or stool in the middle of a room",
           "qty": 1
         },
         {
-          "item": "a sticky note with a star drawn on it, stuck to the far wall at your child's eye height",
+          "item": "a sticky note with a star drawn on it, stuck to the far wall at your child's eye height (use tape if it does not stick)",
           "qty": 1
         },
         {
-          "item": "8 pieces of paper or coins, laid in a big circle around the lamp",
+          "item": "8 sheets of paper or old newspaper pages, each with an arrow drawn on it, laid in a circle around the lamp about 1 metre away from it",
           "qty": 1
         },
         {
@@ -1172,16 +1200,16 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Put the torch on a low table in the middle of the room. Lay out eight marks in a circle around it. Stick the star on the far wall, straight behind the lamp from the first mark.",
+          "do": "Put the torch on a low table in the middle of the room. Lay out eight marks in a circle around it, with every arrow on every mark pointing the same way, at the star. Stick the star on the far wall, straight behind the lamp from the first mark.",
           "say": "The lamp is the Sun. The star on the wall is a faraway star. You are the Earth. Stand on the first mark and face the lamp. The star is right behind it.",
           "kid": "The lamp is the Sun. The star is on the wall. Stand on mark one and face the lamp.",
-          "parent": "The star on the wall stands for a star so far away that it always lies in the same direction. The lamp is close. That is why the lamp changes direction as you move round it, but the star does not.",
+          "parent": "The star on the wall stands for a star so far away that it always lies in the same direction. The lamp is close. That is why the lamp changes direction as you move round it, but the star does not. Every arrow points the same way. That is what far away means: from every mark the star lies in the same direction, while the lamp is close and changes direction. The star wall should be at least 4 metres from the lamp if you can manage, but the arrows make a smaller room work too. Facing the star means lining your feet up with the arrow. With 2 to 4 children, one turns while the others watch and say what they see, then swap. Turn and walk anticlockwise (against the way clock hands go), as seen from above.",
           "context": "This is the first step of the Extra Turn. You set up the Sun, the star and the Earth."
         },
         {
           "id": "s2",
           "mins": 3,
-          "do": "Ask your child to turn once, slowly, on the spot, to their left, until they face the star again. Ask what they are facing.",
+          "do": "Ask your child to turn once, slowly, on the spot, anticlockwise (to their left), until they face the star again. Ask what they are facing.",
           "say": "Turn once slowly to your left, without moving your feet, until you face the star again. What do you face now?",
           "kid": "Turn once to your left on the spot. What do you face now?",
           "ask": [
@@ -1200,9 +1228,9 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Go back to the first mark. Ask your child to turn once to their left and step to the next mark, to their left, as they turn. When they finish the turn, they should be facing the star.",
-          "say": "Now the Earth moves round the Sun too. Turn once to your left as you step to the next mark. Stop when you face the star. Are you facing the lamp?",
-          "kid": "Turn once and step to the next mark. Stop. Are you facing the lamp?",
+          "do": "Go back to the first mark. Ask your child to turn once anticlockwise, and walk anticlockwise round the lamp to the next mark as they turn. Stop with your feet along the arrow, facing the star.",
+          "say": "Now the Earth moves round the Sun too. Turn once anticlockwise as you walk anticlockwise round the lamp to the next mark. Stop with your feet along the arrow, facing the star. Are you facing the lamp?",
+          "kid": "Turn once anticlockwise as you walk to the next mark. Stop. Are you facing the lamp?",
           "ask": [
             {
               "q": "You are facing the star. Are you facing the lamp? What would you have to do?",
@@ -1213,7 +1241,7 @@
               ]
             }
           ],
-          "parent": "After one turn, your child faces the star but the lamp is off to their left, about one eighth of a turn away. They must turn that bit more to face the lamp. The real Earth moves only about 1 degree a day round the Sun, not one eighth of a turn, so the extra turn is much smaller.",
+          "parent": "The spin and the walk must go the same way, as the real Earth spins and orbits the same way. After one turn, your child faces the star but the lamp is off to their left, about one eighth of a turn away. They must turn that bit more to face the lamp. The real Earth moves only about 1 degree a day round the Sun, not one eighth of a turn, so the extra turn is much smaller. Ask your child to point at the lamp and at the star with both arms, so they can see the angle between their arms. That angle is the extra turn.",
           "context": "In this step, you turn once while moving round the lamp, as the real Earth does."
         },
         {
@@ -1233,7 +1261,8 @@
             "a": 0,
             "why": "While the Earth spins once, it also moves about 1 degree round the Sun. It must turn about 1 degree more, which takes about 4 minutes, to face the Sun again."
           },
-          "context": "In this step, you connect the extra turn to the 4 minutes that a day is longer than a spin."
+          "context": "In this step, you connect the extra turn to the 4 minutes that a day is longer than a spin.",
+          "parent": "Try it once more, walking the other way (clockwise). The lamp is now on the other side, so the child must turn back the other way to face it, which means less than a full day, not more. That is why the Earth's spin and its orbit going the same way makes a day longer."
         },
         {
           "id": "s5",
@@ -1258,7 +1287,7 @@
           "qty": 1
         },
         {
-          "item": "a torch, with red cellophane or a red cloth held over it with a rubber band",
+          "item": "a torch, with red cellophane, a red polythene bag or a thick red cloth held over it with a rubber band (see the shopping list)",
           "qty": 1,
           "buy": "b-cellophane"
         },
@@ -1271,7 +1300,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up must come, and stay in a safe place. Do not go near wild animals. Do not touch bats, snakes or scorpions.",
+      "safety": "A grown-up must come, and stay in a safe place away from the edge of a terrace. Do not go near wild animals. Do not touch bats, snakes or scorpions. Cover arms and legs or use the grown-up's mosquito repellent, because dusk is mosquito time.",
       "schedule": [
         {
           "day": 1,
@@ -1303,13 +1332,13 @@
           "say": "We are going to find out who is awake when we are going to bed. First, sit very quietly for two minutes. Just listen. Do not use the torch yet.",
           "kid": "Sit still for two minutes. Just listen.",
           "adult": true,
-          "parent": "Go at dusk, about half an hour after sunset. Even a city balcony has life: crows flying to roost, bats flying out, crickets, geckos, moths and sometimes frogs after rain. Keep your voice low.",
+          "parent": "Go at dusk, about half an hour after sunset. Even a city balcony has life: crows flying to roost, bats flying out, crickets, geckos, moths and sometimes frogs after rain. Keep your voice low. One child with a parent: the parent keeps watch and writes. With 2 to 4 children, split the jobs: one listens, one looks at the sky, one holds the red torch, one writes the tally, and swap after each step. If you hear and see almost nothing, count that too: write 'none' and try again on a night after rain, when frogs and insects are out.",
           "context": "This is the first step of the Night Watch. You settle down and let your ears wake up."
         },
         {
           "id": "s2",
           "mins": 7,
-          "do": "Ask your child to listen and look at the sky for five minutes. Write down every sound and everything that moves. Do not use the torch.",
+          "do": "Ask your child to listen and look at the sky for five minutes. Write down every sound and everything that moves. Make a tally mark each time, so you end with a count for each kind. Do not use the torch.",
           "say": "What can you hear? What can you see in the sky? Write down everything you notice. Is anything flying?",
           "kid": "Listen and look. Write down every sound and everything that moves.",
           "adult": true,
@@ -1389,6 +1418,10 @@
         {
           "item": "a grown-up to come along",
           "qty": 1
+        },
+        {
+          "item": "a fist, held out at arm's length, as a backup if your tube shows no stars at all",
+          "qty": 1
         }
       ],
       "safety": "A grown-up must come along when you go outside at night.",
@@ -1423,7 +1456,7 @@
           "say": "Hold the tube up and look through it at a patch of dark sky. How many stars do you think you can see? And will the number change when we switch the lights off?",
           "kid": "Look through the tube. How many stars will you see? Will it change in the dark?",
           "adult": true,
-          "parent": "Pick a patch of sky away from the Moon. If the Moon is bright, wait for a moonless night. Mark the patch by remembering a landmark near it, such as a rooftop corner.",
+          "parent": "Pick a patch of sky away from the Moon. If the Moon is bright, wait for a moonless night. Mark the patch by remembering a landmark near it, such as a rooftop corner. A foil-roll tube shows a very small patch, so in a bright city it may show only 0 to 5 stars. That is a real result. If you count none with the lights on, count the stars inside your fist held out at arm's length instead, which shows a bigger patch. With 2 to 4 children, give each child a tube and one patch of sky each, or have everyone count the same patch and compare numbers. Do it on a clear night. Haze, smoke or cloud will give a count that says nothing about lights, so choose another night.",
           "context": "This is the first step of Count the Stars. You guess before you count."
         },
         {
@@ -1438,7 +1471,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Switch off all the lights you can, and shield your eyes from streetlights with a hand or a hat. Wait ten minutes without looking at a screen. Then count the stars in the same patch.",
+          "do": "Switch off all the lights you can, and shield your eyes from streetlights with a hand or a hat. Wait ten minutes without looking at a screen. Then count the stars in the same patch, still in the same place with the same tube.",
           "say": "Now wait ten minutes in the dark. Do not look at any screen. Your eyes slowly get better at seeing dim things. Then count again.",
           "kid": "Wait ten minutes in the dark. No screens. Then count again.",
           "adult": true,
@@ -1487,7 +1520,7 @@
           "qty": 1
         }
       ],
-      "safety": "Turn slowly. Stop if you feel dizzy and sit down.",
+      "safety": "Turn slowly, with arms out, in a clear space away from furniture, stairs and sharp corners. Stop if you feel dizzy and sit down.",
       "schedule": [
         {
           "day": 1,
@@ -1534,10 +1567,10 @@
         {
           "id": "s2",
           "mins": 4,
-          "do": "Ask your child to stand with arms out and turn slowly to the left. Start the stopwatch and ask them to take 24 seconds for one full turn. This is the Earth. Then do Mars at about 25 seconds.",
+          "do": "Ask your child to stand with arms out and turn slowly to the left. Start the stopwatch and ask them to take 24 seconds for one full turn. Write down the time they really took and how far off it was. This is the Earth. Then do Mars at about 25 seconds.",
           "say": "Turn to your left, slowly. Take 24 seconds to make one full turn. That is one Earth day. Try again for Mars, which takes 25 seconds.",
           "kid": "Turn to your left. Take 24 seconds for one turn. That is Earth.",
-          "parent": "Count aloud together. A slow, steady turn is the idea. Children turn too fast at first, so this is harder than it looks.",
+          "parent": "Count aloud together. A slow, steady turn is the idea. Children turn too fast at first, so this is harder than it looks. Working together: one child turns, one runs the stopwatch and counts aloud, one writes down the real time. With 2 to 4 children everyone tries each planet and the group writes who came closest to 24 seconds for the Earth. One child with a parent can swap jobs. A good test: try the turn again with the same time, and see if you get better. Do not spin faster than the target time, because the aim is slow and steady.",
           "context": "In this step, you spin at the speed of the Earth and Mars."
         },
         {
@@ -1647,7 +1680,7 @@
               ]
             }
           ],
-          "parent": "There is no right answer. People disagree for good reasons. A single clock is simple, and a zone for the east follows the Sun more closely. Do not steer the vote.",
+          "parent": "There is no right answer. People disagree for good reasons. A single clock is simple, and a zone for the east follows the Sun more closely. Do not steer the vote. Only one child: the child picks two roles and the parent plays the other two, speaking in turn. With 2 to 4 children, give out one role card each and let any extra children be the judges who keep the tally of arguments for each side. Four cards can be written in a minute on scrap paper.",
           "context": "In this step, you argue from different points of view."
         },
         {
@@ -1671,7 +1704,7 @@
       "mins": 60,
       "materials": [
         {
-          "item": "a window, balcony or terrace with a view of a clear patch of sky and a fixed edge, such as a rooftop corner or a water tank",
+          "item": "a window, balcony or terrace with a view of a clear patch of sky in the west, and a fixed edge at least a fist's width (about 10 degrees) above the horizon, such as a rooftop corner or a water tank",
           "qty": 1
         },
         {
@@ -1691,7 +1724,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up must come along when you watch at night.",
+      "safety": "A grown-up must come along when you watch at night, and stay with the child. On a terrace, stay well back from the open edge. Use mosquito repellent or cover your arms and legs.",
       "schedule": [
         {
           "day": 1,
@@ -1758,7 +1791,7 @@
               ]
             }
           ],
-          "parent": "Choose a star, not a planet. Stars twinkle. Planets shine with a steady light and move against the stars. The Moon will not work, because it moves too fast. Start the watch about 20 minutes before the star disappears. Stay in the same exact spot each night, because moving a metre changes the time. The Stellarium Web planetarium can help you find a bright star.",
+          "parent": "Choose a star, not a planet. Stars twinkle. Planets shine with a steady light and move against the stars. The Moon will not work, because it moves too fast. Start watching about 20 minutes before the star disappears. Stay in the same exact spot each night, because moving a metre changes the time. The Stellarium Web planetarium can help you find a bright star. If the time hardly changes from night to night, less than 2 minutes, you have picked a planet, so choose a different star. Stars near the horizon fade in haze, so a high edge works better. No phone? Ask which bright 'star' in the west at dusk is a planet, or pick the brightest one that twinkles. One child with a parent: the child stands on the tape and calls 'gone', and the parent reads the watch and writes. With 2 to 4 children, take turns on the tape, one standing, one with the watch and one writing, and swap each night. Only one pair of eyes should stand on the tape each night, so everyone sees the same thing.",
           "check": {
             "t": "mcq",
             "q": "Why do we stand in exactly the same spot each night?",
@@ -1800,7 +1833,7 @@
           "do": "Draw a line graph of the times, with the night along the bottom and the minutes earlier up the side. Ask your child to explain the pattern.",
           "say": "Plot your times as a line graph. What pattern do you see? Why does the star vanish earlier each night?",
           "kid": "Plot a line graph. What pattern do you see? Why?",
-          "parent": "Expect a straight line sloping down, at about 4 minutes a night. After 5 nights that is about 20 minutes. The star comes back to the same place after one spin, which is 23 hours 56 minutes. The Sun takes 24 hours. So the star keeps 4 minutes ahead of the clock. After a month, it is 2 hours earlier. After a year, it is back to the start. If you cannot see stars at all, use the Stellarium Web planetarium on a phone, and step the date forward one day at a time.",
+          "parent": "Expect a straight line sloping down, at about 4 minutes a night. Typical numbers: after 5 nights, night 5 is about 16 minutes earlier than night 1 (four gaps of about 4 minutes). The star comes back to the same place after one spin, which is 23 hours 56 minutes. The Sun takes 24 hours. So the star keeps 4 minutes ahead of the clock. After a month, it is 2 hours earlier. After a year, it is back to the start. If you cannot see stars at all, use the Stellarium Web planetarium on a phone, and step the date forward one day at a time.",
           "think": "After a whole month, how much earlier would the star vanish? Where would it be at the same time of night?",
           "context": "This is the last step of the Star Gate. You graph your results and explain them."
         }
@@ -2955,7 +2988,7 @@
       "id": "b-cellophane",
       "item": "Red cellophane or a red gel sheet",
       "kind": "material",
-      "why": "For the red torch in the Night Watch and the lamp challenge. A red cloth over a torch also works.",
+      "why": "For the red torch in the Night Watch and the lamp challenge. Red cellophane from a stationery or gift-wrap shop costs a few rupees. A red sweet wrapper, red polythene or a thick red cloth over a torch also works, but use two layers if the light still looks white.",
       "url": "https://www.amazon.in/s?k=red+cellophane+sheet",
       "used_in": [
         "a2",
@@ -3094,5 +3127,5 @@
     "when": "1672 to 1740",
     "wrong_idea": "Many French scientists, including the Cassini family, believed the Earth was longer from pole to pole than across the equator, like a lemon. The two expeditions showed that it is flattened at the poles, and wider at the equator, because it spins."
   },
-  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Five Noons needs sunrise and sunset times, which come from a weather app, a newspaper weather box or a call to a relative in another city. The noon gaps should come out near 13, 46, 62 and 75 minutes after Guwahati for Kolkata, Chennai, Kochi and Mumbai, give or take two minutes because apps round times. The sunrise gaps will look untidy, because sunrise also depends on how far north a city is and on the season, and the steps say so. The Orange Earth uses a large orange. The 30 degree circle should be about 85 to 90 out of 100 of the equator and the 60 degree circle about half. If the rubber bands slip, hold them with your thumbs. The Extra Turn needs a clear floor of about 3 metres. Star Gate depends on clear nights and a view of a fixed edge, so the steps say what to do when clouds stop you, and give the planetarium as a fallback. The Night Watch needs a grown-up, and the lamp challenge uses only a torch and paper. Facts to check before the unit goes live: that British India adopted one standard time in 1906; that Assam tea gardens keep garden time one hour ahead of Indian Standard Time; the 2011 Japan earthquake figure of about 2 millionths of a second; the 2016 figure of more than 80 percent of people under brightened skies; the Moon's drift of about 3.8 centimetres a year; the weight difference of about half a percent between pole and equator; that Emilie du Chatelet translated Newton's Principia into French; and the Richer pendulum figure of about two and a half minutes a day. The longitudes of the cities are rounded to one decimal place. The videos have no address yet."
+  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Five Noons needs sunrise and sunset times, which come from a weather app, a newspaper weather box or a call to a relative in another city. The noon gaps should come out near 13, 46, 62 and 75 minutes after Guwahati for Kolkata, Chennai, Kochi and Mumbai, give or take two minutes because apps round times. The sunrise gaps will look untidy, because sunrise also depends on how far north a city is and on the season, and the steps say so. The Orange Earth uses a large orange. The 30 degree circle should be about 85 to 90 out of 100 of the equator and the 60 degree circle about half. On the small circles, mark dots and join them instead of using a rubber band, which slides. The Extra Turn needs a clear floor of about 3 metres. Star Gate depends on clear nights and a view of a fixed edge, so the steps say what to do when clouds stop you, and give the planetarium as a fallback. The Night Watch needs a grown-up, and the lamp challenge uses only a torch and paper. Facts to check before the unit goes live: that British India adopted one standard time in 1906; that Assam tea gardens keep garden time one hour ahead of Indian Standard Time; the 2011 Japan earthquake figure of about 2 millionths of a second; the 2016 figure of more than 80 percent of people under brightened skies; the Moon's drift of about 3.8 centimetres a year; the weight difference of about half a percent between pole and equator; that Emilie du Chatelet translated Newton's Principia into French; and the Richer pendulum figure of about two and a half minutes a day. The longitudes of the cities are rounded to one decimal place. The videos have no address yet."
 }

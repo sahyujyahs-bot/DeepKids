@@ -622,7 +622,8 @@
           "do": "Cut out the 22 cards. Shuffle them and make a pile with the fronts facing up. Turn the top card over. Place it in the middle of the table with its back showing. Read the back aloud.",
           "say": "These cards show things that happen as a person grows. Each card has an event on one side and the time on the other. We will put them in order. Here is the first one.",
           "kid": "Cut out the cards. Shuffle them. Turn the top card over and put it in the middle.",
-          "context": "This is the first step of Timeline Detective. You set up the cards."
+          "context": "This is the first step of Timeline Detective. You set up the cards.",
+          "parent": "No printer? Write the 22 events on one side of 22 paper slips, and the times on the back. Two to four players share one pile and one timeline. Take turns, and each player keeps their own score on paper."
         },
         {
           "id": "s2",
@@ -664,7 +665,7 @@
         {
           "id": "s4",
           "mins": 3,
-          "do": "Play the last cards. When the pile is finished, count the points. Look at the timeline from left to right.",
+          "do": "Play the last seven cards. When the pile is finished, count the points. Look at the timeline from left to right.",
           "say": "Last cards. Place them carefully. Then count your points.",
           "kid": "Play the last cards. Count your points.",
           "context": "In this step, you finish the pile and count the points."
@@ -705,12 +706,12 @@
           "buy": "b-paper"
         },
         {
-          "item": "red or blue food colour, 10 drops (or a tablespoon of strong beetroot water)",
+          "item": "red or blue food colour, 5 drops for each katori to start (or a tablespoon of strong beetroot water). Avoid green, brown or black colour, because they split into several colours on paper.",
           "qty": 1,
           "buy": "b-colour"
         },
         {
-          "item": "2 small steel katoris or cups, with 3 tablespoons of water in each",
+          "item": "2 small steel katoris or cups, with 3 tablespoons of water in each (steel or glass, not paper cups, which go soggy)",
           "qty": 2
         },
         {
@@ -722,11 +723,15 @@
           "qty": 1
         },
         {
+          "item": "old newspaper to put under the tray",
+          "qty": 1
+        },
+        {
           "item": "a timer or clock, and the results table",
           "qty": 1
         }
       ],
-      "safety": "Food colour stains clothes, hands and table tops. Put the tray on newspaper. Do not drink or taste anything in the katoris. Use the scissors with a grown-up nearby. Wash your hands afterwards.",
+      "safety": "Food colour stains clothes, hands and table tops. Put the tray on newspaper. Do not drink or taste anything in the katoris, and keep the colour bottle away from small children. Use the scissors with a grown-up nearby. Wash your hands afterwards.",
       "record": "Write the colour of each piece, dark, medium, pale or none, for strip A and for strip B. Then give each piece a made-up job: dark is bone, medium is muscle, pale is skin, and none is waiting.",
       "context": "In this experiment, you make a model of how cells in an embryo can find their jobs. You do it with dye on paper.",
       "setup": [
@@ -736,7 +741,7 @@
         },
         {
           "art": "Two steel katoris of red-dyed water, one at the left end of the tray and one at the right end, with a ruler between them.",
-          "caption": "2. Put 10 drops of colour in each katori of water. Place one katori at each end of the tray."
+          "caption": "2. Put 5 drops of colour in each katori of water and stir. Place one katori at each end of the tray."
         },
         {
           "art": "Strip A with its left end folded over the rim of the left katori, dipping 1 centimetre into the dye, and strip B with its right end dipping into the right katori.",
@@ -768,16 +773,16 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is a good start. Tell them this is only a model, because real cells use chemical signals and not dye.",
+          "parent": "Do not correct the guess. Any guess with a reason is a good start. Tell them this is only a model, because real cells use chemical signals and not dye. One child with a parent: the child does everything and the parent times and writes the guess. Two to four children: pairs share one strip A and one strip B, so make one pair of strips and two katoris for each pair. In each pair one child watches the dye front and calls the lift, and the other child handles the strip. Then swap for the colour and jobs table. Compare all the pairs' results at the end.",
           "context": "This is the first step of the Colour Map test. You guess before you test."
         },
         {
           "id": "s2",
           "mins": 8,
-          "do": "Cut two strips, each 3 centimetres wide and 18 centimetres long. Draw five pencil lines across each strip, 3 centimetres apart, to make six pieces. Number the pieces 1 to 6 from the left, on both strips. Stir 10 drops of colour into each katori.",
+          "do": "Cut two strips, each 3 centimetres wide and 18 centimetres long. Draw five pencil lines across each strip, 3 centimetres apart, to make six pieces. Number the pieces 1 to 6 from the left, on both strips. Stir 5 drops of colour into each katori. Draw the pencil lines lightly.",
           "say": "Cut two strips of paper towel. Draw lines to make six pieces on each. Number the pieces from the left, one to six. Stir the colour into the water.",
           "kid": "Cut two strips. Draw five lines to make six pieces. Number the pieces 1 to 6. Stir colour into the water.",
-          "parent": "If the dye is too strong, the whole strip will turn dark. A first test is a good guide. Begin with 10 drops in 3 tablespoons of water. You can add water later if the dye is too dark.",
+          "parent": "Food colours differ a lot in strength. If the dye is too strong, the whole strip will turn dark. Begin with 5 drops in 3 tablespoons of water. You can add drops or water later. Test one spare strip first, while the child writes the guess, so you know how long your paper takes.",
           "check": {
             "t": "mcq",
             "q": "Why do we cut both strips from the same paper towel and make them the same size?",
@@ -807,7 +812,7 @@
               ]
             }
           ],
-          "parent": "Dye takes about 5 to 20 minutes to climb 12 to 15 centimetres, depending on the paper. Use the front as your clock, not the timer. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops.",
+          "parent": "The dye front usually takes about 10 to 30 minutes to climb 12 to 15 centimetres, depending on the paper, and it is slower in cool or damp weather. A coffee filter is usually faster. Use the front as your clock, not the timer. Every 5 minutes, hold a ruler to the strip and write how far the front has climbed. It moves quickly at first and then slows, which is also a result. If the front stops short of piece 5, lift both strips when the slower one stops and compare pieces that are the same distance from the dye. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops. The colour will fade smoothly along each strip, but exact shades vary, so judge dark, medium and pale by comparing the pieces side by side.",
           "check": {
             "t": "mcq",
             "q": "The dye is darkest near the katori and faint at the far end of the strip. What does this show?",
@@ -859,7 +864,7 @@
       "days": 1,
       "question": "If you write the same short line with the hand you do not usually use, six times in a row, how much faster do you get? Does each try save the same amount of time?",
       "predict": "Before you start, guess. How many seconds will your first try take? Will your sixth try be faster, and by how much? Why do you think so?",
-      "fair_test": "You write the same line, on the same kind of paper, with the same pen, sitting the same way. You rest for one minute between tries. Only the try number changes. So if the times get shorter, practice is the only thing that can have changed.",
+      "fair_test": "You write the same line, on the same kind of paper, with the same pen, sitting the same way. You rest for one minute between tries. Write at the same neatness each time, so that someone else could read it. If you rush and scribble, the time is not comparable. Only the try number changes. So if the times get shorter, practice is the most likely reason.",
       "results_table": [
         "Try",
         "Time (seconds)",
@@ -924,7 +929,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Use the same line each time, 'I am growing today', so the amount of writing does not change.",
+          "parent": "Do not correct the guess. Use the same line each time, 'I am growing today', so the amount of writing does not change. One child with a parent: the parent times. Two to four children: all children write at the same time with their own paper, and the children take turns being timer for a partner. Each child then draws their own line graph, and you compare the shapes. Do not compare the seconds, because everyone starts from a different place.",
           "context": "This is the first step of the Wrong-Hand test. You guess before you start."
         },
         {
@@ -951,7 +956,7 @@
               ]
             }
           ],
-          "parent": "Stay calm and do not hurry them. Do not let them look at earlier tries. If a time goes up, write it down. That is a result too. Tiredness can slow the later tries.",
+          "parent": "Stay calm and do not hurry them. Do not let them look at earlier tries. If a time goes up, write it down. That is a result too. Tiredness can slow the later tries, and a child of 6 to 8 may take 40 to 90 seconds on the first try. If the line is too long for your child, shorten it to 'I am growing', and keep the same line for all tries. The sixth try may not be the fastest. If so, say so, and look at the overall trend.",
           "check": {
             "t": "mcq",
             "q": "On the fourth try your child takes 3 seconds longer than on the third. What is the best way to treat this result?",
@@ -994,7 +999,7 @@
       "days": 1,
       "materials": [
         {
-          "item": "a ball of atta dough, about the size of a fist (or clay)",
+          "item": "a ball of atta dough, about the size of a fist for each child (made with atta and a little water, or use clay)",
           "qty": 1
         },
         {
@@ -1050,10 +1055,10 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. Then make a second hand from a new paddle by rolling five little fingers and sticking them on. Compare the two hands.",
+          "do": "Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. Make a second hand from a new paddle. Roll five little fingers. Stick them on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.",
           "say": "Draw four lines from the top. Cut out the dough between the lines. Take the pieces away. Now try a second hand. Roll five little fingers and stick them on. Which hand is better?",
           "kid": "Cut the dough between the lines to make fingers. Make a second hand by sticking five fingers on. Compare.",
-          "parent": "The cut hand has fingers that are joined to the palm all the way. The stuck-on fingers may fall off. In a real embryo, the fingers do not stick on. They appear when the cells between them die on a signal.",
+          "parent": "The cut hand has fingers that are joined to the palm all the way. The stuck-on fingers may come off or bend at the join. If they stay on, say that the join is still weaker than a finger that was never cut off. In a real embryo, the fingers do not stick on. They appear when the cells between them die on a signal. One child with a parent: the child makes both hands and the parent tugs. Two to four children: each child makes a cut hand and a stuck-on hand, with their own dough, and swaps hands with a partner for the tug test.",
           "check": {
             "t": "mcq",
             "q": "In an embryo, what makes the gaps between the fingers?",
@@ -1092,7 +1097,7 @@
     {
       "id": "a2",
       "title": "My Growth Line: how fast does a baby grow?",
-      "mins": 28,
+      "mins": 30,
       "days": 1,
       "materials": [
         {
@@ -1117,7 +1122,7 @@
         },
         {
           "art": "Six dots on the grid at 0, 3, 6, 9, 12 and 24 months, rising from left to right.",
-          "caption": "2. Mark a dot for each age and length from the table."
+          "caption": "2. Mark a dot for each age and length from the list. The lengths are typical values, rounded."
         },
         {
           "art": "The dots joined by a line, with the steepest part near the start marked by a bracket.",
@@ -1155,8 +1160,8 @@
         },
         {
           "id": "s3",
-          "mins": 8,
-          "do": "Work out how many centimetres were gained in each step. Mark the steepest part of the line. Ask what the line would look like at age 5, and at age 12.",
+          "mins": 10,
+          "do": "Work out how many centimetres were gained in each step. Then divide by the number of months in that step to find centimetres per month. Mark the steepest part of the line. Ask what the line would look like at age 5, and at age 12.",
           "say": "How many centimetres were gained in each step? Which step is the steepest? The line goes up at the start and then flattens. Why do you think growth slows?",
           "kid": "Find the steepest part. Count how much was gained in each step. Why does growth slow?",
           "ask": [
@@ -1169,7 +1174,7 @@
               ]
             }
           ],
-          "parent": "Gains in length: 11 centimetres in the first three months, 6 in the next three, 4 in the next three, 4 in the next, and 12 in the whole second year. The line is steepest at the start. After they have made their own claim, explain: a baby grows fastest in the womb and just after birth, and then more slowly. Growth speeds up again in the early teens. Never compare your child to another child. Compare them to their own line.",
+          "parent": "Gains in length: 11 centimetres in the first three months, 6 in the next three, 4 in the next three, 4 in the next three, and 12 in the whole second year. Because the steps are different lengths, compare centimetres per month: about 3.7, 2, 1.3, 1.3 and 1. The gain of 12 looks big only because it covers a whole year. The line is steepest at the start. After they have made their own claim, explain: a baby grows fastest in the womb and just after birth, and then more slowly. Growth speeds up again in the early teens. Never compare your child to another child. Compare them to their own line. One child with a parent: they plot together. Two to four children: each child plots the line, and one child reads out the numbers and another works out centimetres per month, then swap.",
           "think": "If a baby kept growing 11 centimetres every three months, how tall would they be at 10 years old?",
           "context": "In this step, you read the graph and say when growth is fastest."
         }
@@ -1223,7 +1228,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Your child is cell A and you are cell B. Read a signal slip to each cell. Cell A gets the slip 'You are in the scalp'. Cell B gets 'You are in the bone marrow'. Each cell circles line 8, and the line the signal points to. A scalp cell follows line 1. A bone marrow cell follows line 2.",
+          "do": "Your child is cell A and you are cell B. Read a signal slip to each cell. Cell A gets the slip 'You are in the scalp'. Cell B gets 'You are in the bone marrow'. Each cell circles line 8, and the line the signal points to, using the first pencil colour. A scalp cell follows line 1. A bone marrow cell follows line 2. Then swap the slips and circle again with the second colour. Count how many lines were circled in common.",
           "say": "You are cell A and I am cell B. We both have the whole book. Now I read your signal. You are in the scalp. Circle the lines a hair cell follows. Remember line eight. Every cell follows line eight.",
           "kid": "Each cell gets a signal. Circle line 8, and the lines your signal tells you to follow.",
           "ask": [
@@ -1236,7 +1241,7 @@
               ]
             }
           ],
-          "parent": "Line 8 is what every cell needs. The other lines are the special jobs. Try a second round with new signals, such as 'You are in the lens of the eye' and 'You are in the gut'. The books never change. Only the circled lines change.",
+          "parent": "Line 8 is what every cell needs. The other lines are the special jobs. After the swap, the same book gives a different job, because the signal changed. This is like an early cell moved to a new place. Try a third round with new signals, such as 'You are in the lens of the eye' and 'You are in the gut'. The books never change. Only the circled lines change. Two to four children: one sheet and one slip for each child, with a neighbour reading out each signal. Three or four children can compare the marks on all the sheets at the end.",
           "context": "In this step, each cell gets a signal and circles the lines to follow."
         },
         {
@@ -1264,7 +1269,7 @@
           "qty": 1
         },
         {
-          "item": "a tape measure or a ruler",
+          "item": "a tape measure (or a long piece of string and a ruler, with a pencil mark on the wall or a door frame)",
           "qty": 1
         },
         {
@@ -1322,7 +1327,7 @@
               ]
             }
           ],
-          "parent": "Some people may not remember their birth length or height at 10. That is fine. Ask them to guess, or skip the question. Growth is a private topic for some people. Ask only what they are happy to share. Not everyone grew up with their parents, and some children have no family record. Pick anyone who cares for you.",
+          "parent": "Some people may not remember their birth length or height at 10. That is fine. Ask them to guess, or skip the question. Growth is a private topic for some people. Ask only what they are happy to share. Not everyone grew up with their parents, and some children have no family record. Pick anyone who cares for you. One child with a parent: the child interviews each person, in person or by phone or video call. Two to four children: split the family members between you, and each child draws all the lines on a shared sheet. Heights from memory are only a guess, so label them 'remembered'. A health card or an old school record gives better numbers.",
           "context": "This is the first step of the Family Growth Interviews. You prepare the questions and ask the first person."
         },
         {
@@ -1331,7 +1336,8 @@
           "do": "Interview two more family members. Measure everyone's height today. Write each person's answers next to their name.",
           "say": "Today we ask two more people the same five questions. Then we measure everyone with the tape. Write it all next to their names.",
           "kid": "Interview two more people. Measure everyone's height. Write it down.",
-          "context": "In this step, you interview two more family members and measure everyone's height."
+          "context": "In this step, you interview two more family members and measure everyone's height.",
+          "parent": "If a family member lives far away, ask them to measure themselves against a wall with a tape, and tell you by phone."
         },
         {
           "id": "s3",
@@ -1370,9 +1376,9 @@
         "Test your idea and keep your results."
       ],
       "materials": [
-        "paper towel or coffee filter strips",
+        "paper towel or coffee filter strips, cut about 8 centimetres long so that they finish in 5 to 10 minutes",
         "food colour",
-        "small steel katoris or cups",
+        "three or more small steel katoris or cups",
         "a tablespoon",
         "scissors",
         "tape",
@@ -1380,7 +1386,7 @@
       ],
       "general": [
         "Dip one end of a strip in dye for a short time, then cut it into three pieces. The ends will have dark, medium and pale colours. Tape them together.",
-        "Make three katoris with different amounts of dye, such as 12, 6 and 3 drops in the same amount of water. Dip a short strip in each, and tape the three strips together in order.",
+        "Make three katoris with different amounts of dye, such as 12, 6 and 3 drops in the same amount of water (3 tablespoons each). Dip a short strip in each for the same time, and tape the three strips together in order. If the bands look too alike, halve the drops again, for example 12, 3 and 1.",
         "Dip one end in dye and stop when the front reaches the middle. The strip will fade from dark to pale."
       ],
       "creative": [
@@ -1429,7 +1435,7 @@
           "do": "Test two ideas on short strips. Write down what you did and what you got.",
           "say": "Choose two ideas and test them on small strips. Write down what you did and how each strip looked.",
           "kid": "Test two ideas. Write what you did. Look at the bands.",
-          "parent": "The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It almost always gives clear bands. A single dipped strip may give a smooth fade, and not three clear bands.",
+          "parent": "The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It usually gives clear bands. Strong food colours may make the first two look alike, so halve the drops again if they do. A single dipped strip may give a smooth fade, and not three clear bands. One child with a parent: the child tests two ideas, and the parent is the stranger at the end. Two to four children: each child tests a different idea at the same time, then you compare, and each child asks someone else to name their bands.",
           "context": "In this step, you test two ideas for making three bands."
         },
         {
@@ -2531,7 +2537,7 @@
       "id": "b-colour",
       "item": "A small bottle of red or blue food colour",
       "kind": "material",
-      "why": "To make the dye for the Colour Map test and the three-stripe challenge. One small bottle lasts for many tests.",
+      "why": "To make the dye for the Colour Map test and the three-stripe challenge. One small bottle lasts for many tests. Choose red or blue; green and brown colours split into several colours on paper.",
       "url": "https://www.amazon.in/s?k=food+colour+liquid+red",
       "used_in": [
         "e1",
@@ -2662,5 +2668,5 @@
     "when": "1888 (Roux), 1891 (Driesch) and 1924 (the year Mangold and Spemann's paper came out)",
     "wrong_idea": "Roux said cells are fixed on their jobs from the start, because half an embryo grew from one live cell. Driesch showed that cells from an early embryo can each make a whole animal. Mangold showed that a small group of cells tells their neighbours what to become."
   },
-  "playtest": "I could not run the experiments here, so this is a desk check, step by step, with a flat's kitchen in mind. Colour Map (e1): paper towel, food colour, two katoris and a tray are all common. The result depends on the dye strength and the paper. The steps say to use the dye front as the clock, to lift the strip at piece 5, and what to do if the strip comes out all dark (add water and use a new strip) or all pale (add drops). I have not seen the fade on a real strip, so a parent should try one strip first. Wrong-Hand Writing (e2): needs only a pen, paper and a clock. Most people speed up in the first three tries, and the steps say what to do if a time goes up. Hand activity: raw dough should not be eaten, and the knife is blunt. Timeline Detective: all 22 cards are written out, with typical ages and a note that babies differ. Played with 1 to 4 players in my head: alone, count points out of 21. The family interviews are optional for families without elders nearby, and ask only what people want to share. Three Stripes: the three-katori dilution method should always work, and the single-dip method may only give a smooth fade. Facts to check before this goes out: the placenta's villous surface of about 12 square metres (varies by source), the typical lengths used in My Growth Line (rounded from WHO medians, average of boys and girls), the 'week' numbers on the timeline cards (counted from when the baby began, not from the mother's last period), Mangold's age and the details of her death, the claim that the duck's webbing comes from fewer cells dying, and the newborn brain weight of about 350 grams. No video was checked, because no ids are filled in."
+  "playtest": "I could not run the experiments here, so this is a desk check, step by step, with a flat's kitchen in mind. Colour Map (e1): paper towel, food colour, two katoris and a tray are all common. The result depends on the dye strength, the paper and the weather. Start with 5 drops, use the dye front as the clock (usually 10 to 30 minutes, slower in damp weather), and the steps say what to do if the strip comes out all dark, all pale or stalls. I have not seen the fade on a real strip, so a parent should try one spare strip first. Wrong-Hand Writing (e2): needs only a pen, paper and a clock. Most people speed up in the first three tries, but it is not certain, and the steps say what to do if a time goes up. Hand activity: raw dough should not be eaten, wheat allergy is covered, and the knife is blunt. My Growth Line: the lengths are rounded from WHO medians and the steps compare centimetres per month. Timeline Detective: all 22 cards are written out, with typical ages and a note that babies differ. Played with 1 to 4 players in my head: alone, count points out of 21. The family interviews are optional for families without elders nearby, and ask only what people want to share. Three Stripes: the three-katori dilution method usually works, and strong colours may need fewer drops. Facts to check before this goes out: the placenta's villous surface of about 12 square metres (varies by source), the 'week' numbers on the timeline cards (counted from when the baby began, not from the mother's last period), Mangold's age and the details of her death, the claim that the duck's webbing comes from fewer cells dying, and the newborn brain weight of about 350 grams. No video was checked, because no ids are filled in."
 }

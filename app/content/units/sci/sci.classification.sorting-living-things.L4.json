@@ -683,7 +683,7 @@
      "do": "Play the remaining 12 cards the same way. Add up the scores. The player with the most points wins.",
      "say": "Keep going. When you meet an animal with no backbone, use the token that says no backbone.",
      "kid": "Play the other cards. Add up your points.",
-     "parent": "Ask at the end: which card fooled you most, and what rule would have fooled you the same way?",
+     "parent": "With one child, the parent plays as a second player, or the child plays alone. Ask at the end: which card fooled you most, and what rule would have fooled you the same way?",
      "context": "In this step you finish the game and add up the scores."
     }
    ]
@@ -860,7 +860,7 @@
      "do": "Print or copy the 16 vertebrate cards, which are cards 1 to 16 of Group Detective. Lay them face up with the backs hidden. Put the two sheets of paper beside them.",
      "say": "These cards are 16 animals, each with five facts. We will test each rule on every animal. If an animal fits the rule, she goes on the Passes sheet. If not, she goes on the Does not pass sheet.",
      "kid": "Lay out the 16 cards. Put out two sheets of paper.",
-     "parent": "Only the fronts show the facts. The backs show the real group, so keep them face down until the counting step.",
+     "parent": "Only the fronts show the facts. The backs show the real group, so keep them face down until the counting step. No printer? Copy each animal onto a small slip of paper, with only its name and the Moves, Home, Cover and Young lines, and the group on the back. Sixteen slips take about 15 minutes, so two children can share the copying. One child with a parent: the parent reads the rule and the child sorts. With 2 to 4 children: each child tests a different rule on the same 16 cards, and then they check each other's counts.",
      "context": "In this step you set out the cards and the two sheets."
     },
     {
@@ -1015,7 +1015,7 @@
      "qty": 1
     }
    ],
-   "safety": "Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. A child with asthma or a breathing problem should skip the star jumps.",
+   "safety": "Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. Do not turn it into a race, and a grown-up stays beside the child for every hold. A child with asthma or a breathing problem should skip the star jumps.",
    "record": "Write the four times in the results table. Draw a bar for each. Then write one line comparing your best time with a dolphin.",
    "setup": [
     {
@@ -1056,7 +1056,7 @@
      "do": "Rest. Your child takes one normal breath in, holds, and says stop when they want to breathe. Time it in seconds. Rest for two minutes. Do it a second time.",
      "say": "Take one normal breath in and hold it. Say stop when you want to breathe. I will time you. Stop at any time you like.",
      "kid": "Breathe in once. Hold. Say stop when you must breathe. Rest. Try again.",
-     "parent": "Most children hold for about 20 to 45 seconds at rest. Praise every time, and never push the child to hold longer. Stop at once if your child feels dizzy.",
+     "parent": "Most children hold for about 20 to 45 seconds at rest. Praise every time, and never push the child to hold longer. Stop at once if your child feels dizzy. With 2 to 4 children, only one child holds at a time while the others sit, one times and one writes. Never make it a contest, because the point is each child's own times. Phone clocks differ by a second or two, which does not matter here.",
      "adult": true,
      "context": "In this step you time two breath holds at rest."
     },
@@ -1066,7 +1066,7 @@
      "do": "Ask your child to do 30 star jumps. Then they sit down and hold their breath, as before. Time it. Rest for three minutes. Do it again.",
      "say": "Now do 30 star jumps. Sit down at once, take one breath in and hold. Say stop when you must breathe. I will time you.",
      "kid": "Do 30 star jumps. Sit. Breathe in once. Hold. Say stop.",
-     "parent": "Expected: the holds after star jumps are usually shorter. After exercise, your muscles have used more oxygen and made more carbon dioxide, which makes you want to breathe sooner.",
+     "parent": "Expected: the holds after star jumps are usually shorter, but a child's times can bounce about, so use the better of the two tries. If your child sees no difference, write that down as a real result, and try 50 star jumps another day if the child is well. After exercise, your muscles have used more oxygen and made more carbon dioxide, which makes you want to breathe sooner.",
      "check": {
       "t": "mcq",
       "q": "After star jumps, why do most people have to breathe sooner?",
@@ -1084,7 +1084,7 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Read your child these air-breathing animals. A Ganges river dolphin comes up every minute or two. An emperor penguin can stay under more than 20 minutes. A sperm whale can stay under more than an hour. A rohu never needs to come up, because she has gills. Ask for three things. What I think. What I saw. Why.",
+     "do": "Read your child these air-breathing animals. A Ganges river dolphin comes up every minute or two. An emperor penguin usually dives for about 5 to 10 minutes, and can stay under 20 minutes or more. A sperm whale can stay under more than an hour. A rohu never needs to come up, because she has gills. Ask for three things. What I think. What I saw. Why.",
      "say": "Now compare. Your best time was how long? A river dolphin comes up every minute or two. A penguin can stay under for over 20 minutes. A rohu never has to come up. What do you think now? What did you see? Why do you think it happened?",
      "kid": "Compare your time. Say what I think, what I saw and why.",
      "parent": "A good answer: What I think: air-breathing animals who live in water must come to the surface. What I saw: my time was short, and shorter after exercise. Why: lungs hold air, not water, so any animal with lungs must come up to refill. Some animals hold their breath much longer than people, but they all come up. A fish takes oxygen from the water with gills, so she can stay under for ever.",
@@ -1120,7 +1120,7 @@
      "buy": "b-cube"
     },
     {
-     "item": "a clean cloth and the back of a spoon",
+     "item": "a clean cloth, and a rolling pin or the base of a steel glass",
      "qty": 1
     },
     {
@@ -1128,7 +1128,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours the warm water. It must not be hot.",
+   "safety": "A grown-up pours the warm water. It must not be hot. A grown-up crushes the sugar, on a table with the cloth folded over it, and children keep their faces back, because hard kalkandu can fly in small sharp bits.",
    "record": "Write the three times in the table. Draw a bar for each. Then draw a rough picture of a fish's gill, and a simple lump, to show what is different.",
    "setup": [
     {
@@ -1157,10 +1157,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Pour 150 millilitres of warm water into each of three glasses. Leave one cube whole. Break the second cube into about 6 pieces. Wrap the third cube in a cloth and press it with the back of a spoon until it is powder.",
+     "do": "Pour 150 millilitres of warm water into each of three glasses. Leave one cube whole. Break the second cube into about 6 pieces. Wrap the third cube in a cloth. Crush it with a rolling pin or the base of a steel glass until it is powder.",
      "say": "Same water, same sugar. Only the shape of the sugar is different. Whole. Broken. Powder.",
      "kid": "Fill three glasses. Make a lump, pieces and powder.",
-     "parent": "Hand-warm water is best. If the cubes are not equal, use the two most alike. Do the pressing on a table, not a glass.",
+     "parent": "Hand-warm water is best. If the cubes are not equal, use the two most alike. Do the pressing on a table, not a glass. Sugar cubes are rare in kirana shops, so kalkandu (mishri) is the usual choice, and it is harder to crush. No cubes or kalkandu at all? Use 1 level teaspoon of ordinary sugar in each of two glasses, one as it comes and one ground fine in a mixer jar or mortar, and compare those two forms. One child with a parent: the child does all three glasses and the parent times. With 2 to 4 children: each pair makes their own three glasses, one child tips and one times, and the pairs compare their times at the end.",
      "adult": true,
      "context": "In this step you prepare the three forms of sugar."
     },
@@ -1170,7 +1170,7 @@
      "do": "Start the timer. Tip each form into its own glass at the same moment, without stirring. Watch the glasses. Say the time out loud when no grains are left in each glass.",
      "say": "Ready? Tip them in. Don't stir. Watch carefully. Which one goes first? Tell me when each glass looks clear.",
      "kid": "Tip all three in at once. Do not stir. Say when each one is gone.",
-     "parent": "Expected: the powder is gone in about a minute or two, the pieces in a few minutes, and the whole cube takes longest, often 4 to 8 minutes. Stop at 10 minutes and write 'not finished' if the cube is still there. Cold water is slower, so use warm water.",
+     "parent": "Typical, not promised: the powder is gone in about a minute or two, the pieces take a little longer, and the whole lump takes longest, from a few minutes for a sugar cube to 10 minutes or more for kalkandu. The order matters more than the numbers. Stop at 10 minutes and write 'not finished' if the lump is still there, and note how big it looks compared with the start, which is still a result. The powder may clump on the bottom, so tip it in slowly. Cold water is slower, so use warm water. If all three look the same, the lump was probably tiny or the water too hot, so try again with bigger lumps.",
      "context": "In this step you start the timer and watch the sugar dissolve."
     },
     {
@@ -1289,6 +1289,7 @@
      "do": "Ask your child to say which sort they trust to find a bat's relatives, and why.",
      "say": "Which sort do you trust to find a bat's relatives? Why?",
      "kid": "Which sort shows a bat's family? Why?",
+     "parent": "With 2 to 4 children, each child fills in the table alone first, and then they argue it out. With one child, you give your own answer second.",
      "context": "In this step you pick the sort that shows family."
     }
    ]
@@ -1356,6 +1357,7 @@
      "do": "Draw your arm bones and a bat's wing bones. Colour the upper bone red, the two forearm bones blue and the hand bones green in both drawings.",
      "say": "Draw your arm and a bat's wing. Colour the same bones the same colour. What do you notice?",
      "kid": "Draw your arm and a bat's wing. Colour matching bones the same.",
+     "parent": "If the bone pictures are hard to find, search for 'homologous limbs' and look at the images. With 2 to 4 children, each child draws one animal's limb, and the group lines them up side by side.",
      "check": {
       "t": "mcq",
       "q": "A human arm and a bat's wing have the same bones in the same order. What is the best explanation?",
@@ -1416,7 +1418,7 @@
      "do": "Lay the 8 cards face up. Ask your child to look at the facts. Ask the first question: does she have jointed legs and a hard outer skeleton? Put the yes cards in one pile.",
      "say": "First question. Does she have jointed legs and a hard outer skeleton? Which animals say yes? Put them in one pile.",
      "kid": "Ask: jointed legs and hard outer skeleton? Make a pile of the yes cards.",
-     "parent": "Expected: the ant, the spider and the crab are arthropods.",
+     "parent": "Expected: the ant, the spider and the crab are arthropods. With 2 to 4 children, each child sorts the 8 cards alone, and then they compare piles. No printed cards? Draw the 8 animals as small pictures on slips of paper.",
      "context": "In this step you ask the first sorting question."
     },
     {
@@ -1608,7 +1610,7 @@
      "do": "Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why the tree is a better way than five boxes.",
      "say": "Here is a surprise. A crocodile is a closer relative of a crow than of a gecko. How could we draw that on the tree?",
      "kid": "A crocodile is closer to a crow than to a gecko. How do we draw that?",
-     "parent": "A good answer draws crocodile and crow on one short branch, and gecko on another. Five boxes cannot show this, but a tree can.",
+     "parent": "A good answer draws crocodile and crow on one short branch, and gecko on another. With 2 to 4 children, each child draws a tree of their own, and then they compare where they put the crocodile. Five boxes cannot show this, but a tree can.",
      "context": "In this step you add a surprise to the tree."
     }
    ]
@@ -1674,7 +1676,7 @@
      "do": "Choose 12 animals with a backbone. Include at least one fish, one frog, one reptile, one bird and one mammal, and three that you can see near home. Draw or cut out a picture of each. Write two clues under each picture.",
      "say": "Let's make a chart of animals with a backbone. Choose 12. Include a fish, a frog, a reptile, a bird and a mammal. Write two clues under each.",
      "kid": "Choose 12 animals. Draw each. Write two clues.",
-     "parent": "Include a hard case such as a bat, a dolphin or a penguin. The three animals near home might be a crow, a house lizard and a cat or a dog.",
+     "parent": "Include a hard case such as a bat, a dolphin or a penguin. With 2 to 4 children, share the 12 animals out between them, and one child draws the tree. The three animals near home might be a crow, a house lizard and a cat or a dog.",
      "context": "In this step you choose and draw the 12 animals."
     },
     {
@@ -1683,7 +1685,7 @@
      "do": "Draw a tree on the chart paper with the four branches: backbone, four limbs, sealed egg, and hair and milk. Stick each animal on the last branch that fits her. Put two hard cases in a box beside the tree, with a note saying why they are hard.",
      "say": "Now draw the tree and stick the animals on. Which animals will go where? Which two are hard cases? Why?",
      "kid": "Draw the tree. Stick the animals on. Add two hard cases.",
-     "parent": "Hang the chart where the family can see it. Ask the child to explain one animal to a visitor.",
+     "parent": "Old magazines are not needed: hand drawings work as well. Hang the chart where the family can see it. Ask the child to explain one animal to a visitor.",
      "context": "In this step you build the tree."
     }
    ]
@@ -2891,10 +2893,10 @@
  "buy": [
   {
    "id": "b-cube",
-   "item": "A small box of sugar cubes, or a small packet of kalkandu (rock sugar)",
+   "item": "A small packet of kalkandu (rock sugar, also called mishri) from a kirana or pooja shop, usually under Rs 50, or a small box of sugar cubes if you can find them",
    "kind": "material",
-   "why": "For the Lump or Powder test. A cube is easy to crush into powder.",
-   "url": "https://www.amazon.in/s?k=sugar+cubes",
+   "why": "For the Lump or Powder test. Plain table sugar from the kitchen can stand in if you do not buy this.",
+   "url": "https://www.amazon.in/s?k=kalkandu",
    "used_in": [
     "e3"
    ]
@@ -3096,7 +3098,7 @@
   ],
   "art": "A big tree with a small swimming animal at its roots, and branches ending in a fish, a frog, a lizard, a crow, a cow and a child, all reaching into the same sky."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Rule Test needs the animal cards from the Group Detective game, so print them first. Every expected count was worked out card by card: rule 1 lets in 6 and leaves out 0, rule 2 lets in 1 and leaves out 2, rule 3 lets in 3 and leaves out 1, rule 4 lets in 2 and leaves out 0, and rule 5 has none. The line 'Young' on the Russell's viper and whale shark cards must not mention milk, or the milk rules break. Hold Your Breath is done sitting down, with a stop whenever the child wants to, and the star jumps are skipped for a child with asthma. Lump or Powder: warm tap water dissolves a crushed cube in under a minute and a whole cube in about 4 to 8 minutes, but this was reasoned, not timed, so write down what you really see. The floor game needs chalk or masking tape. Checked by a second reader: the 2022 Palk Bay dugong reserve, the dive times, the lung area range, the Himalayacetus jaw and the caecilian scales. Still to check before the unit goes live: the counts of 1.5 million named animals and about 75,000 with a backbone, the exact wording of the Caldwell telegram, the Tamil name kadal pasu, and the wording of the Tattvartha Sutra and Sutta Nipata lines. The videos have no address yet.",
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Rule Test needs the animal cards from the Group Detective game, so print them first. Every expected count was worked out card by card: rule 1 lets in 6 and leaves out 0, rule 2 lets in 1 and leaves out 2, rule 3 lets in 3 and leaves out 1, rule 4 lets in 2 and leaves out 0, and rule 5 has none. The line 'Young' on the Russell's viper and whale shark cards must not mention milk, or the milk rules break. Hold Your Breath is done sitting down, with a stop whenever the child wants to, and the star jumps are skipped for a child with asthma. Lump or Powder: warm tap water dissolves a crushed cube in under a minute and a whole cube in about 4 to 8 minutes, but these times were reasoned, not measured, and kalkandu takes much longer than a sugar cube, so write down what you really see. The floor game needs chalk or masking tape. Checked by a second reader: the 2022 Palk Bay dugong reserve, the dive times, the lung area range, the Himalayacetus jaw and the caecilian scales. Still to check before the unit goes live: the counts of 1.5 million named animals and about 75,000 with a backbone, the exact wording of the Caldwell telegram, the Tamil name kadal pasu, and the wording of the Tattvartha Sutra and Sutta Nipata lines. The videos have no address yet.",
  "how_we_found_out": {
   "story": "In 1799 a dried skin of a strange animal reached Britain from New South Wales. It had fur, a flat bill like a duck and webbed feet. The scientist George Shaw wondered whether someone had sewn the parts together as a trick. It was real, and it was a platypus. The next puzzle was her eggs. Aboriginal people had long said the platypus lays eggs. Most European scientists did not believe it, because they thought every animal with fur and milk must give birth to live young. So for decades the question stayed open. In 1884 a young Scottish scientist, William Caldwell, hired many Aboriginal people to help him find platypuses and echidnas in Queensland. In late August he found a platypus egg. He sent a short telegram to a scientific meeting in Montreal. It said that these animals lay eggs. Scientists then changed the rule. A mammal is an animal that feeds milk. Live birth was not needed.",
   "who": "George Shaw, William Caldwell, and the Aboriginal people who had always known",

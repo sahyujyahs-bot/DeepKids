@@ -391,7 +391,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Play the remaining 12 cards the same way. Add up the scores. The player with the most points wins.  
   *Parent says:* Keep going. When you meet an animal with no backbone, use the token that says no backbone.  
   *Child mode:* Play the other cards. Add up your points.
-  - Note: Ask at the end: which card fooled you most, and what rule would have fooled you the same way?
+  - Note: With one child, the parent plays as a second player, or the child plays alone. Ask at the end: which card fooled you most, and what rule would have fooled you the same way?
 ### g2 · Family Tree Floor Hop: stand in the smallest room that fits (15 min)
 - **rules:** Draw four squares inside each other on the floor with chalk or masking tape. The biggest square is Room 1. The smallest is Room 4. Put a label in each room.; An animal belongs in a room if she, or her ancestors, had the clue for that room, and every bigger room around it.; A fish with a backbone stands in Room 1, outside Room 2. An amphibian stands in Room 2, outside Room 3. A reptile or a bird stands in Room 3, outside Room 4. A mammal stands in Room 4. An animal with no backbone stands outside all four rooms.; Snakes and whales lost their legs or changed them, but their ancestors had four limbs, so they still stand where their group stands.; The reader reads the front of a card. The hopper hops to the smallest room she thinks fits that animal.; The reader turns the card over to check. A hopper in the right room scores one point. A hopper who can also name one clue scores two points.; Swap jobs every four cards. To play alone, read the card, hop to a room, and then turn the card over to check. Play all 24 cards and try to beat your best score.; The game ends when every card has been read. The player with the most points wins.
 - **Printable board: 4 room labels to put in the squares: the bigger the room, the more animals fit:** Room 1: Backbone; Room 2: Four limbs; Room 3: Sealed egg; Room 4: Hair and milk
@@ -430,7 +430,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Print or copy the 16 vertebrate cards, which are cards 1 to 16 of Group Detective. Lay them face up with the backs hidden. Put the two sheets of paper beside them.  
   *Parent says:* These cards are 16 animals, each with five facts. We will test each rule on every animal. If an animal fits the rule, she goes on the Passes sheet. If not, she goes on the Does not pass sheet.  
   *Child mode:* Lay out the 16 cards. Put out two sheets of paper.
-  - Note: Only the fronts show the facts. The backs show the real group, so keep them face down until the counting step.
+  - Note: Only the fronts show the facts. The backs show the real group, so keep them face down until the counting step. No printer? Copy each animal onto a small slip of paper, with only its name and the Moves, Home, Cover and Young lines, and the group on the back. Sixteen slips take about 15 minutes, so two children can share the copying. One child with a parent: the parent reads the rule and the child sorts. With 2 to 4 children: each child tests a different rule on the same 16 cards, and then they check each other's counts.
 - **s3 (5 min)**  
   *Parent does:* Test rule 1. Read each card. If the Home line mentions water, a river, a stream, a pond or the sea, put the card on Passes. Otherwise put it on Does not pass. Then turn every card on Passes over. Count the cards whose group is not Fish. Count the fish cards on Does not pass. Write both numbers.  
   *Parent says:* Rule 1 says animals that live in water are fish. Read each Home line. Does it mention water? Now turn the cards over. How many animals on Passes are not fish? How many fish are on Does not pass?  
@@ -473,7 +473,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **question:** How long can you hold your breath at rest, and after exercise? How long can air-breathing animals who live in water stay under?
 - **predict:** Before you start, guess. How many seconds can you hold your breath sitting still? Will it be longer or shorter after 30 star jumps? Why do you think so?
 - **fair test:** You sit on the same chair, rest the same time, take one ordinary breath in and start the clock at the same moment. Only the thing you do before the hold changes. It is rest, or it is 30 star jumps. You do each twice, with a rest between.
-- **safety:** Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. A child with asthma or a breathing problem should skip the star jumps.
+- **safety:** Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. Do not turn it into a race, and a grown-up stays beside the child for every hold. A child with asthma or a breathing problem should skip the star jumps.
 - **record:** Write the four times in the results table. Draw a bar for each. Then write one line comparing your best time with a dolphin.
 - **results table:** Before the hold | Try 1 (seconds) | Try 2 (seconds)
 - **s1 (3 min)**  
@@ -490,15 +490,15 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Rest. Your child takes one normal breath in, holds, and says stop when they want to breathe. Time it in seconds. Rest for two minutes. Do it a second time.  
   *Parent says:* Take one normal breath in and hold it. Say stop when you want to breathe. I will time you. Stop at any time you like.  
   *Child mode:* Breathe in once. Hold. Say stop when you must breathe. Rest. Try again.
-  - Note: Most children hold for about 20 to 45 seconds at rest. Praise every time, and never push the child to hold longer. Stop at once if your child feels dizzy.
+  - Note: Most children hold for about 20 to 45 seconds at rest. Praise every time, and never push the child to hold longer. Stop at once if your child feels dizzy. With 2 to 4 children, only one child holds at a time while the others sit, one times and one writes. Never make it a contest, because the point is each child's own times. Phone clocks differ by a second or two, which does not matter here.
 - **s4 (7 min) · grown-up needed**  
   *Parent does:* Ask your child to do 30 star jumps. Then they sit down and hold their breath, as before. Time it. Rest for three minutes. Do it again.  
   *Parent says:* Now do 30 star jumps. Sit down at once, take one breath in and hold. Say stop when you must breathe. I will time you.  
   *Child mode:* Do 30 star jumps. Sit. Breathe in once. Hold. Say stop.
-  - Note: Expected: the holds after star jumps are usually shorter. After exercise, your muscles have used more oxygen and made more carbon dioxide, which makes you want to breathe sooner.
+  - Note: Expected: the holds after star jumps are usually shorter, but a child's times can bounce about, so use the better of the two tries. If your child sees no difference, write that down as a real result, and try 50 star jumps another day if the child is well. After exercise, your muscles have used more oxygen and made more carbon dioxide, which makes you want to breathe sooner.
   - Check: After star jumps, why do most people have to breathe sooner? → **Their muscles used up oxygen and made more carbon dioxide**
 - **s5 (3 min)**  
-  *Parent does:* Read your child these air-breathing animals. A Ganges river dolphin comes up every minute or two. An emperor penguin can stay under more than 20 minutes. A sperm whale can stay under more than an hour. A rohu never needs to come up, because she has gills. Ask for three things. What I think. What I saw. Why.  
+  *Parent does:* Read your child these air-breathing animals. A Ganges river dolphin comes up every minute or two. An emperor penguin usually dives for about 5 to 10 minutes, and can stay under 20 minutes or more. A sperm whale can stay under more than an hour. A rohu never needs to come up, because she has gills. Ask for three things. What I think. What I saw. Why.  
   *Parent says:* Now compare. Your best time was how long? A river dolphin comes up every minute or two. A penguin can stay under for over 20 minutes. A rohu never has to come up. What do you think now? What did you see? Why do you think it happened?  
   *Child mode:* Compare your time. Say what I think, what I saw and why.
   - Note: A good answer: What I think: air-breathing animals who live in water must come to the surface. What I saw: my time was short, and shorter after exercise. Why: lungs hold air, not water, so any animal with lungs must come up to refill. Some animals hold their breath much longer than people, but they all come up. A fish takes oxygen from the water with gills, so she can stay under for ever.
@@ -506,7 +506,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **question:** Does sugar dissolve faster as one whole lump, as broken pieces or as a powder?
 - **predict:** Before you start, guess. Which form of sugar will disappear in the water first? Which will take longest? Why do you think so?
 - **fair test:** Each glass gets the same amount of warm water and the same amount of sugar, from the same kind of cube. No one stirs. Only the form of the sugar changes. The whole cube is the control.
-- **safety:** A grown-up pours the warm water. It must not be hot.
+- **safety:** A grown-up pours the warm water. It must not be hot. A grown-up crushes the sugar, on a table with the cloth folded over it, and children keep their faces back, because hard kalkandu can fly in small sharp bits.
 - **record:** Write the three times in the table. Draw a bar for each. Then draw a rough picture of a fish's gill, and a simple lump, to show what is different.
 - **results table:** Form of sugar | Time until no grains are left (seconds)
 - **s1 (3 min)**  
@@ -515,15 +515,15 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Child mode:* Three forms of sugar. Which disappears first? Why?
   - Note: Do not correct the guess.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* Pour 150 millilitres of warm water into each of three glasses. Leave one cube whole. Break the second cube into about 6 pieces. Wrap the third cube in a cloth and press it with the back of a spoon until it is powder.  
+  *Parent does:* Pour 150 millilitres of warm water into each of three glasses. Leave one cube whole. Break the second cube into about 6 pieces. Wrap the third cube in a cloth. Crush it with a rolling pin or the base of a steel glass until it is powder.  
   *Parent says:* Same water, same sugar. Only the shape of the sugar is different. Whole. Broken. Powder.  
   *Child mode:* Fill three glasses. Make a lump, pieces and powder.
-  - Note: Hand-warm water is best. If the cubes are not equal, use the two most alike. Do the pressing on a table, not a glass.
+  - Note: Hand-warm water is best. If the cubes are not equal, use the two most alike. Do the pressing on a table, not a glass. Sugar cubes are rare in kirana shops, so kalkandu (mishri) is the usual choice, and it is harder to crush. No cubes or kalkandu at all? Use 1 level teaspoon of ordinary sugar in each of two glasses, one as it comes and one ground fine in a mixer jar or mortar, and compare those two forms. One child with a parent: the child does all three glasses and the parent times. With 2 to 4 children: each pair makes their own three glasses, one child tips and one times, and the pairs compare their times at the end.
 - **s3 (9 min)**  
   *Parent does:* Start the timer. Tip each form into its own glass at the same moment, without stirring. Watch the glasses. Say the time out loud when no grains are left in each glass.  
   *Parent says:* Ready? Tip them in. Don't stir. Watch carefully. Which one goes first? Tell me when each glass looks clear.  
   *Child mode:* Tip all three in at once. Do not stir. Say when each one is gone.
-  - Note: Expected: the powder is gone in about a minute or two, the pieces in a few minutes, and the whole cube takes longest, often 4 to 8 minutes. Stop at 10 minutes and write 'not finished' if the cube is still there. Cold water is slower, so use warm water.
+  - Note: Typical, not promised: the powder is gone in about a minute or two, the pieces take a little longer, and the whole lump takes longest, from a few minutes for a sugar cube to 10 minutes or more for kalkandu. The order matters more than the numbers. Stop at 10 minutes and write 'not finished' if the lump is still there, and note how big it looks compared with the start, which is still a result. The powder may clump on the bottom, so tip it in slowly. Cold water is slower, so use warm water. If all three look the same, the lump was probably tiny or the water too hot, so try again with bigger lumps.
 - **s4 (4 min)**  
   *Parent does:* Write the three times. Ask why the powder was fastest. Then say that a fish's gill is a stack of thin folds, so water can touch a huge area of thin skin.  
   *Parent says:* Which form dissolved first? What was different about the powder? Water can only act on sugar where they touch. A powder has far more places to touch.  
@@ -555,6 +555,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Ask your child to say which sort they trust to find a bat's relatives, and why.  
   *Parent says:* Which sort do you trust to find a bat's relatives? Why?  
   *Child mode:* Which sort shows a bat's family? Why?
+  - Note: With 2 to 4 children, each child fills in the table alone first, and then they argue it out. With one child, you give your own answer second.
 ### a2 · Same Bones, Different Jobs: feel your own arm (12 min)
 - **record:** A drawing of your arm bones and a drawing of a bat wing, with matching bones in matching colours.
 - **s1 (3 min)**  
@@ -571,6 +572,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Draw your arm bones and a bat's wing bones. Colour the upper bone red, the two forearm bones blue and the hand bones green in both drawings.  
   *Parent says:* Draw your arm and a bat's wing. Colour the same bones the same colour. What do you notice?  
   *Child mode:* Draw your arm and a bat's wing. Colour matching bones the same.
+  - Note: If the bone pictures are hard to find, search for 'homologous limbs' and look at the images. With 2 to 4 children, each child draws one animal's limb, and the group lines them up side by side.
   - Check: A human arm and a bat's wing have the same bones in the same order. What is the best explanation? → **They inherited the plan from a shared ancestor**
 ### a3 · No Backbone: one question for each group (12 min)
 - **record:** Five piles of animals, with the question written over each pile.
@@ -578,7 +580,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Lay the 8 cards face up. Ask your child to look at the facts. Ask the first question: does she have jointed legs and a hard outer skeleton? Put the yes cards in one pile.  
   *Parent says:* First question. Does she have jointed legs and a hard outer skeleton? Which animals say yes? Put them in one pile.  
   *Child mode:* Ask: jointed legs and hard outer skeleton? Make a pile of the yes cards.
-  - Note: Expected: the ant, the spider and the crab are arthropods.
+  - Note: Expected: the ant, the spider and the crab are arthropods. With 2 to 4 children, each child sorts the 8 cards alone, and then they compare piles. No printed cards? Draw the 8 animals as small pictures on slips of paper.
 - **s2 (6 min)**  
   *Parent does:* Ask the next questions for the remaining five cards. Does she have a soft body with a muscular foot? Does she have a soft body in rings with no legs? Does she have stinging tentacles? Does she have spiny skin and tiny tube feet? Make a pile for each yes.  
   *Parent says:* Next question. Soft body with a muscular foot? Put the yes cards in a pile. Then ask the rest, one at a time.  
@@ -621,7 +623,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why the tree is a better way than five boxes.  
   *Parent says:* Here is a surprise. A crocodile is a closer relative of a crow than of a gecko. How could we draw that on the tree?  
   *Child mode:* A crocodile is closer to a crow than to a gecko. How do we draw that?
-  - Note: A good answer draws crocodile and crow on one short branch, and gecko on another. Five boxes cannot show this, but a tree can.
+  - Note: A good answer draws crocodile and crow on one short branch, and gecko on another. With 2 to 4 children, each child draws a tree of their own, and then they compare where they put the crocodile. Five boxes cannot show this, but a tree can.
 
 ## Projects
 ### p1 · A Wall Chart of the Backbone Family Tree (50 min, 2 days)
@@ -632,12 +634,12 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Parent does:* Choose 12 animals with a backbone. Include at least one fish, one frog, one reptile, one bird and one mammal, and three that you can see near home. Draw or cut out a picture of each. Write two clues under each picture.  
   *Parent says:* Let's make a chart of animals with a backbone. Choose 12. Include a fish, a frog, a reptile, a bird and a mammal. Write two clues under each.  
   *Child mode:* Choose 12 animals. Draw each. Write two clues.
-  - Note: Include a hard case such as a bat, a dolphin or a penguin. The three animals near home might be a crow, a house lizard and a cat or a dog.
+  - Note: Include a hard case such as a bat, a dolphin or a penguin. With 2 to 4 children, share the 12 animals out between them, and one child draws the tree. The three animals near home might be a crow, a house lizard and a cat or a dog.
 - **s2 (25 min)**  
   *Parent does:* Draw a tree on the chart paper with the four branches: backbone, four limbs, sealed egg, and hair and milk. Stick each animal on the last branch that fits her. Put two hard cases in a box beside the tree, with a note saying why they are hard.  
   *Parent says:* Now draw the tree and stick the animals on. Which animals will go where? Which two are hard cases? Why?  
   *Child mode:* Draw the tree. Stick the animals on. Add two hard cases.
-  - Note: Hang the chart where the family can see it. Ask the child to explain one animal to a visitor.
+  - Note: Old magazines are not needed: hand drawings work as well. Hang the chart where the family can see it. Ask the child to explain one animal to a visitor.
 
 ## Challenges
 ### c1 · Write a Rule That Never Breaks (25 min)
@@ -790,9 +792,9 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
    **Answer:** False. *Why:* False. A caterpillar is the young stage of an insect, and insects have no backbone.
 
 ## Videos
-- **How scientists sort animals with a backbone into five groups** (to be found, 6 min) id `to find`: To see the five groups of animals with a backbone, with hard cases such as the platypus and the penguin. *Check:* Not yet found. Find one, watch it, and check that it shows the clues for each group and does not say that all reptiles lay eggs before adding it.
-- **The platypus: a mammal that lays eggs** (to be found, 5 min) id `to find`: To see a platypus swim and hear how scientists found out that she lays eggs. *Check:* Not yet found. Find one, watch it, and check that it mentions that the platypus feeds milk and lays eggs.
-- **Tiktaalik: the fish with a neck and wrist bones** (to be found, 6 min) id `to find`: To see the fossil that links fish to animals who walk on land, and how scientists found it. *Check:* Not yet found. Find one, watch it, and check that it says Tiktaalik is about 375 million years old and was found in 2004 on Ellesmere Island.
+- **Classification of the 5 groups of vertebrates - The Animal Kingdom** (The Animated Teacher, 6 min) id `xMPzcNd8ytU`: To see the five groups of animals with a backbone, with hard cases such as the platypus and the penguin. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Platypus facts: mammals that lay eggs | Animal Fact Files** (Animal Fact Files, 5 min) id `u6Uv5U3iyvU`: To see a platypus swim and hear how scientists found out that she lays eggs. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Tiktaalik: A Creature That Makes Us Think about Our Own Evolutionary Roots** (Canadian Museum of Nature, 6 min) id `UzkDOBkJEdI`: To see the fossil that links fish to animals who walk on land, and how scientists found it. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) How many kinds of animals have a backbone, compared with those that have none?  
@@ -904,7 +906,7 @@ Which Group Is She In? (sci.classification.L4): Topic-level song
 - [Government Museum, Egmore](https://www.chennaimuseum.org) · place · Chennai: Its zoology galleries show skeletons of animals with a backbone side by side, so you can find the matching arm bones.
 
 ## Things to buy
-- [A small box of sugar cubes, or a small packet of kalkandu (rock sugar)](https://www.amazon.in/s?k=sugar+cubes) (material): For the Lump or Powder test. A cube is easy to crush into powder. Used in e3. 
+- [A small packet of kalkandu (rock sugar, also called mishri) from a kirana or pooja shop, usually under Rs 50, or a small box of sugar cubes if you can find them](https://www.amazon.in/s?k=kalkandu) (material): For the Lump or Powder test. Plain table sugar from the kitchen can stand in if you do not buy this. Used in e3. 
 - [A roll of masking tape (optional)](https://www.amazon.in/s?k=masking+tape) (material): For drawing the four rooms of the floor game on a tile floor. Chalk works on a balcony. Used in g2. 
 - [Your Inner Fish by Neil Shubin (optional, for the parent)](https://www.amazon.in/s?k=your+inner+fish+neil+shubin) (book): A readable book by one of the finders of Tiktaalik, on how the bones of fish became the bones of our arms. Used in a2, p1. Read the first two chapters in the evening before the Same Bones activity, and share one idea at breakfast.
 

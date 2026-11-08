@@ -594,7 +594,7 @@
         "Every other player writes a guess on a slip, such as 2, 2.5 or 3.75. Then everyone shows their slip together.",
         "The reader turns the card over and reads the back. The player closest to the answer scores 2 points. Anyone who guessed it exactly scores 3.",
         "If two players are equally close, both score. Any player who can explain the working scores 1 extra point.",
-        "With two players, the parent and the child swap roles after every card. The reader never guesses on her own card.",
+        "With two players, the parent and the child swap roles after every card. The reader never guesses on her own card, so the guesser scores as when playing alone.",
         "Playing alone, write your guess before you look at the back. You score 2 for a guess within 0.25, and 3 for an exact one.",
         "Play ten cards. The player with the most points wins. Playing alone, try to beat 20 points."
       ],
@@ -605,7 +605,8 @@
           "do": "Cut out the 24 cards. Shuffle them and make a pile, front side up. Print the score sheet. Read the first rule together.",
           "say": "Each card names a living being and what she eats. We guess her level. A level is 1 plus the average level of her food.",
           "kid": "Cut out the cards. Shuffle them. A level is 1 plus the average level of her food.",
-          "context": "This is the first step of Level Detective. You set up the cards and learn how to work out a level."
+          "context": "This is the first step of Level Detective. You set up the cards and learn how to work out a level.",
+          "parent": "No printer? Write the 24 cards by hand on slips of paper. You only need 10 to play. With 3 or 4 players, the reader changes after every card."
         },
         {
           "id": "s2",
@@ -1302,15 +1303,15 @@
       ],
       "materials": [
         {
-          "item": "8 unsalted peanuts (groundnuts), skin rubbed off, or 8 cashew nuts. If anyone in your home has a nut allergy, use 8 pea-sized pieces of dry coconut (copra) instead",
+          "item": "8 raw unsalted cashew nuts (they light more easily), or 8 unsalted peanuts (groundnuts) with the skin rubbed off. Use the same kind in every trial. If anyone in your home has a nut allergy, use 8 pea-sized pieces of dry coconut (copra) instead",
           "qty": 8
         },
         {
-          "item": "a small thin metal tin that holds at least 150 millilitres, such as a clean empty condensed-milk tin with the edge smoothed by a grown-up, or a thin steel katori",
+          "item": "a small thin metal tin that holds at least 150 millilitres, such as a clean empty condensed-milk tin with the edge smoothed by a grown-up, or a thin steel katori (a thick one soaks up much of the heat)",
           "qty": 1
         },
         {
-          "item": "a digital cooking thermometer or a lab thermometer",
+          "item": "a digital cooking thermometer with a probe, or a school lab thermometer that reads up to 100 degrees (not a body thermometer)",
           "qty": 1,
           "buy": "b-thermo"
         },
@@ -1351,7 +1352,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up lights the nut and holds the hot tin. The nut burns with a real flame and spits a little oil. Work on a steel tray, away from curtains, with a bowl of water and a wet cloth close by. Tie back long hair and loose dupattas. Open a window, because the smoke smells strong. Never eat a nut that has been burned. Do not leave a burning nut alone. A burned nut stays hot for a minute, so let it cool before touching.",
+      "safety": "A grown-up lights the nut and holds the hot tin. The nut burns with a real flame and spits a little oil. Work on a steel tray, away from curtains, with a bowl of water and a wet cloth close by. Tie back long hair and loose dupattas. Switch off the fan, because moving air blows the flame about. Open a window, because the smoke smells strong. Keep young children a full arm's length back. Never eat a nut that has been burned. Do not leave a burning nut alone. A burned nut stays hot for a minute, so let it cool before touching.",
       "record": "Write the start and end temperatures for each trial and the rise. Work out the average rise for bare and for shielded. Then write one sentence each for: what I think, what I saw, and why.",
       "context": "In this experiment, you burn a peanut under a tin of water to see how much of its stored energy you can catch as heat. It shows what food energy is, and how much of it escapes.",
       "setup": [
@@ -1389,7 +1390,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. A guess with a reason is a good start. Most children guess 1 or 2 degrees, or 50. The real answer is somewhere between.",
+          "parent": "With 2 to 4 children, everyone guesses first. Turn the jobs each trial: the grown-up lights, one child times, one reads and stirs, one writes. All children work out the averages. Do not correct the guess. A guess with a reason is a good start. Most children guess 1 or 2 degrees, or 50. The real answer is somewhere between.",
           "context": "This is the first step of the Peanut test. You make your guess before the test."
         },
         {
@@ -1420,7 +1421,7 @@
               ]
             }
           ],
-          "parent": "The nut may take a few tries to light, because the skin is damp. Let the flame touch an edge. A good peanut burns for 20 to 60 seconds. Many families see a rise of 3 to 10 degrees. If the rise is under 2 degrees, use only 50 millilitres of water in every trial. Dry the tin before refilling. Do not reuse a half-burned nut.",
+          "parent": "The nut may take a few tries to light, especially in damp weather. Dry the nuts in the sun for an hour first. A cashew lights more easily than a peanut. Let the flame touch an edge. A good peanut burns for 20 to 60 seconds. A rise of about 3 to 10 degrees is typical, but we have not promised it. For a steadier tin, rest it across two upside-down steel katoris about 4 centimetres tall. A black ash left behind is normal. If the rise is under 2 degrees, use only 50 millilitres of water in every trial. Dry the tin before refilling. Do not reuse a half-burned nut.",
           "check": {
             "t": "mcq",
             "q": "The water warmed by 6 degrees. What is the best explanation?",
@@ -1450,7 +1451,7 @@
           "do": "Work out the average rise for the bare trials and for the shield trials. Then ask your child to say what they thought, what they saw and why. Read the nutrition label of the nuts together.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
           "kid": "Work out the average rise for each set-up. Say what you thought, what you saw and why.",
-          "parent": "A strong answer says that the shield trials warmed the water more, because less heat escaped into the room. After they have spoken, explain: the water caught only some of the heat. To find the share, weigh 10 nuts. One nut is about 0.6 grams. The label says about 24 kilojoules in a gram of peanut, so one nut holds about 14 kilojoules. The water caught 100 grams times 4.2 joules times the rise. For a rise of 8 degrees that is 3360 joules, or 3.4 kilojoules, about one quarter. The rest warmed the air, the tin and the foil, or left as smoke.",
+          "parent": "A strong answer says that the shield trials warmed the water more, because less heat escaped into the room. If the two averages differ by under 1 degree, say the test cannot tell, and repeat it. After they have spoken, explain: the water caught only some of the heat. To find the share, weigh 10 nuts. A nut is typically about 0.6 grams, so weigh yours if you can. The label says about 24 kilojoules in a gram of peanut, so one nut holds about 14 kilojoules. The water caught 100 grams times 4.2 joules times the rise. For a rise of 8 degrees that is 3360 joules, or 3.4 kilojoules, about one quarter. These numbers are rough, because a nut rarely burns fully. The rest warmed the air, the tin and the foil, or left as smoke.",
           "think": "Where did the rest of the heat go? How could you catch more of it?",
           "check": {
             "t": "mcq",
@@ -1484,20 +1485,20 @@
       ],
       "materials": [
         {
-          "item": "2 cups of whole green moong (about 400 grams)",
+          "item": "2 cups of whole green moong with the skin on (about 400 grams). Split moong dal will not sprout",
           "qty": 1
         },
         {
-          "item": "3 steel boxes or plastic tubs of the same size, about 1 litre each, with lids that do not seal tightly",
+          "item": "3 steel boxes or plastic tubs of the same size, about 1 litre each, with lids that do not seal tightly and a small hole in each lid for the probe",
           "qty": 3
         },
         {
-          "item": "a digital cooking thermometer or a lab thermometer",
+          "item": "a digital cooking thermometer with a probe, or a room or aquarium thermometer that reads 0 to 50 degrees",
           "qty": 1,
           "buy": "b-thermo"
         },
         {
-          "item": "a big cardboard box or a thermocol box that all three tubs fit in, and a towel",
+          "item": "a big cardboard box or a thermocol box that all three tubs fit in, a towel and old newspaper to pack the gaps",
           "qty": 1
         },
         {
@@ -1509,7 +1510,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up boils the moong and drains it. Hot water scalds. Do not eat any moong from this test, because it sits warm for a day. Wash your hands after touching the seeds.",
+      "safety": "A grown-up boils the moong and drains it. Hot water scalds. Do not eat any moong from this test, because it sits warm for a day. Keep the tubs away from toddlers, because moong seeds are small. Wash your hands after touching the seeds.",
       "record": "Write each temperature in the table. Draw a line graph with one line for each box. Say which box was warmest, and by how many degrees.",
       "context": "In this experiment, you look for heat made by living seeds. Sprouting seeds respire, and respiration gives off heat. You compare living moong, dead moong and an empty box.",
       "schedule": [
@@ -1564,7 +1565,7 @@
               ]
             }
           ],
-          "parent": "A seed is alive and resting. Water wakes it up, and it begins to respire to grow. Do not correct the guess.",
+          "parent": "A seed is alive and resting. Water wakes it up, and it begins to respire to grow. Test the seeds first. Soak a spoonful in a cup. White tips should show in a day. If not, buy fresh whole moong. With 2 to 4 children, each guesses and draws a graph. They take turns to read the thermometer and write. Do not correct the guess.",
           "wait": "Leave the moong in water overnight.",
           "context": "This is the first step of the Warm Seeds test. You soak the seeds and make a guess."
         },
@@ -1584,7 +1585,7 @@
           "do": "Put the three tubs in the cardboard box. Wrap the box in a towel. Push the thermometer into the middle of each tub. Wait one minute each and read it. Always go in the order room, A, B, C. Write the numbers in the first row.",
           "say": "Put the tubs side by side in the box. Read the room first. Then read A, B and C the same way each time. Write the numbers down.",
           "kid": "Put the tubs in the box. Read the room, then A, B and C. Write the numbers.",
-          "parent": "Wipe the thermometer between tubs. The first readings should be almost the same. If A and B differ by more than 1 degree, wait 20 minutes and read again.",
+          "parent": "Pack the gaps with crumpled newspaper. Wipe the thermometer between tubs. The first readings should be almost the same. If A and B differ by more than 1 degree, wait 20 minutes and read again.",
           "check": {
             "t": "mcq",
             "q": "Why does the test include a box with boiled moong?",
@@ -1604,7 +1605,7 @@
           "do": "Read the room and the three tubs again at noon and at evening. Always use the same order and wait the same time. Write the numbers. Do not open the tubs for longer than you need.",
           "say": "Read the room, A, B and C again. Write the numbers. Keep the lids closed between readings.",
           "kid": "Read all four numbers again. Write them down. Close the lids.",
-          "parent": "A rise of 1 or 2 degrees is real if the thermometer gave the same number in all three tubs at the start. Moong that is sprouting well will have small white tips by the evening. If A is no warmer than C, add more moong, use a smaller tub, or wrap the box with another towel.",
+          "parent": "Keep the box in the coolest, shadiest room, away from the fan and the sun. In hot weather, tub B may warm too, and smell sour, as microbes grow. A rise of 1 or 2 degrees is typical, and it may be zero. A rise is real if the thermometer gave the same number in all three tubs at the start. Moong that is sprouting well will have small white tips by the evening. If A is no warmer than C, add more moong, use a smaller tub, or wrap the box with another towel.",
           "context": "In this step, you take more readings during the day. A warm rise builds slowly."
         },
         {
@@ -1683,14 +1684,14 @@
               ]
             }
           ],
-          "parent": "The made-up numbers keep the sums easy. If cutting a 1 millimetre strip is hard, draw the thin levels with a pen.",
+          "parent": "With 2 to 4 children, each makes one pyramid, and you glue them on one big sheet. One child checks the widths with the ruler. The made-up numbers keep the sums easy. If cutting a 1 millimetre strip is hard, draw the thin levels with a pen.",
           "context": "In this step, you make a pyramid of numbers for a grass field. It is the usual pyramid shape."
         },
         {
           "id": "s2",
           "mins": 8,
-          "do": "Now do a banyan tree. One tree. 1000 insects that eat her leaves. 20 birds that eat the insects. 1 hawk. Use the same rule, 1 centimetre for every 100. The tree is a line. The insects are 10 centimetres wide. Glue them in a pile and look at the shape.",
-          "say": "Now a banyan tree. There is one tree, but 1000 insects live on her leaves. Make the strips. What shape do you get?",
+          "do": "First sketch the shape you expect. Now do a banyan tree. One tree. 1000 insects that eat her leaves. 20 birds that eat the insects. 1 hawk. Use the same rule, 1 centimetre for every 100. The tree is a line. The insects are 10 centimetres wide. Glue them in a pile and look at the shape.",
+          "say": "First sketch the shape you expect. Now a banyan tree. There is one tree, but 1000 insects live on her leaves. Make the strips. What shape do you get?",
           "kid": "Make strips for one banyan tree. One tree is a line. Then 1000 insects, 20 birds and 1 hawk. What shape is it?",
           "parent": "The shape is thin, wide, thin, thinner. This is correct. Counting the number of beings makes the tree look unimportant, even though she feeds everyone.",
           "check": {
@@ -1709,7 +1710,7 @@
         {
           "id": "s3",
           "mins": 9,
-          "do": "Now the open sea. Weigh the living matter at one moment, in tonnes: tiny algae 2, tiny animals 5, small fish 3, tuna 1. Use 1 centimetre for each tonne and glue the strips. Then make a second pyramid for the energy in a year: 1000, 100, 10 and 1. Use 1 centimetre for every 100 units. Compare the two.",
+          "do": "Now the open sea. These made-up weights are in tonnes, at one moment. Tiny algae 2, tiny animals 5, small fish 3, tuna 1. Use 1 centimetre for each tonne and glue the strips. Then make a second pyramid for the energy in a year: 1000, 100, 10 and 1. Use 1 centimetre for every 100 units. Compare the two.",
           "say": "In the open sea, the algae are eaten as fast as they grow. At one moment they weigh less than the tiny animals who eat them. Make that pyramid. Then make the energy pyramid.",
           "kid": "Make a weight pyramid for the sea. The algae are narrow. Then make the energy pyramid. Compare them.",
           "ask": [
@@ -1738,7 +1739,7 @@
           "qty": 1
         },
         {
-          "item": "a square of net or a tea strainer, to sit inside the funnel",
+          "item": "a square of mosquito net or window net, or a tea strainer, to sit inside the funnel",
           "qty": 1
         },
         {
@@ -1750,7 +1751,7 @@
           "qty": 1
         },
         {
-          "item": "a desk lamp with an ordinary bulb. An LED lamp works too, but slowly",
+          "item": "a desk lamp with a bright bulb (an old filament bulb or a CFL is best; an LED stays cool, so it works slowly), or strong sun on a window sill",
           "qty": 1
         },
         {
@@ -1758,7 +1759,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up cuts the bottle. The bulb gets hot, so keep it 10 centimetres above the soil and do not touch it. Wash your hands after touching soil or compost. Do not touch any animals with your bare hands.",
+      "safety": "A grown-up cuts the bottle. The bulb gets hot, so keep it 15 centimetres above the soil (10 for an LED) and away from the plastic. Do not touch it. Stay in the room while it is on. Centipedes can bite, so lift nothing with your fingers. Use a spoon or paper strip. Wash your hands after touching soil or compost. Do not touch any animals with your bare hands.",
       "record": "Draw the animals you find, and write how many you counted and what each might eat.",
       "context": "In this activity, you find the small animals that live on dead leaves. They are the first eaters in the dead-leaf chain, and a lamp drives them out of the soil into a cup.",
       "setup": [
@@ -1767,12 +1768,12 @@
           "caption": "1. Turn the cut bottle top upside down as a funnel. Put the net inside."
         },
         {
-          "art": "Leaf litter in the funnel and a desk lamp 10 centimetres above it, shining down.",
+          "art": "Leaf litter in the funnel and a desk lamp above it, shining down.",
           "caption": "2. Put the leaf litter in. Shine the lamp from above."
         },
         {
           "art": "A child looking at tiny animals in the jar through a magnifying glass, on a white plate.",
-          "caption": "3. After 45 minutes, look at what fell into the jar."
+          "caption": "3. After 1 hour, look at what fell into the jar."
         }
       ],
       "flow": [
@@ -1783,17 +1784,17 @@
           "say": "We will see who lives in the dead leaves. Light and warmth dry the leaves from the top. What do you think will fall into the jar? Why?",
           "kid": "Make a funnel with the bottle top. Put the leaves in. What will fall into the jar? Why?",
           "adult": true,
-          "parent": "The best litter is damp, brown and crumbly, from under a tree, from a compost pot or from a kitchen compost bin. Fresh potting mix often has almost nothing alive. If your soil is dry, mist it. The animals are tiny, so use the magnifying glass.",
+          "parent": "The best litter is damp, brown and crumbly, from under a tree, from a compost pot or from a kitchen compost bin. Fresh potting mix often has almost nothing alive. If your soil is dry, mist it. With 2 to 4 children, make one funnel each with a different litter, such as under a tree, a compost pot and dry soil. The animals are tiny, so use the magnifying glass.",
           "context": "This is the first step of the funnel trap. You set it up and make a guess."
         },
         {
           "id": "s2",
           "mins": 5,
-          "do": "Put the lamp 10 centimetres above the leaves and switch it on. Set a timer for 45 minutes. Do not move the funnel. Let your child draw what they think they will see.",
-          "say": "Turn the lamp on. The animals dislike the dry heat, so they crawl down and fall into the jar. We wait 45 minutes.",
-          "kid": "Switch the lamp on. Wait 45 minutes. Do not touch the funnel.",
-          "parent": "Keep the lamp away from anything that burns. A paper towel under the jar is fine. If you see nothing, wait another 45 minutes.",
-          "wait": "Wait 45 minutes.",
+          "do": "Put the lamp 15 centimetres above the leaves and switch it on. Set a timer for 1 hour. Do not move the funnel. Let your child draw what they think they will see.",
+          "say": "Turn the lamp on. The animals dislike the dry heat, so they crawl down and fall into the jar. We wait one hour.",
+          "kid": "Switch the lamp on. Wait 1 hour. Do not touch the funnel.",
+          "parent": "Keep the lamp away from anything that burns. A paper towel under the jar is fine. If you see nothing, wait another hour. A big catch needs 2 hours.",
+          "wait": "Wait 1 hour.",
           "context": "In this step, you start the trap. The lamp pushes the animals down into the jar."
         },
         {
@@ -1811,7 +1812,7 @@
               ]
             }
           ],
-          "parent": "You may find springtails, which are tiny and jump, mites, small pale worms, tiny beetles, centipedes and ants. Many are detritivores. A fast-moving one with big jaws, like a centipede, is probably a hunter. If almost nothing fell, that is a result too. Try compost or leaf litter from outside.",
+          "parent": "You may find springtails, which are tiny and jump, mites, small pale worms, tiny beetles, centipedes and ants. Many are detritivores. A fast-moving one with big jaws, like a centipede, is probably a hunter. If almost nothing fell, that is a result too. Count each funnel on its own and compare. Try compost or leaf litter from outside.",
           "check": {
             "t": "mcq",
             "q": "Why do the animals fall down into the jar?",
@@ -1823,7 +1824,8 @@
             "a": 0,
             "why": "Soil animals like damp places. When the lamp dries and warms the top, they crawl down, through the net, and into the jar. The lamp does not pull them. They move away from the dry heat."
           },
-          "context": "In this step, you look at the animals that fell into the jar. These animals eat dead leaves or each other."
+          "context": "In this step, you look at the animals that fell into the jar. These animals eat dead leaves or each other.",
+          "think": "Which litter gave the most animals? Why do you think so?"
         }
       ]
     },
@@ -1865,7 +1867,7 @@
           "do": "Look at a lunch plate, yours or one from a photograph. List each food. For each, write what living being it came from. Rice came from a rice plant. Curd came from a cow. A fish fry came from a fish.",
           "say": "Look at the food on your plate. Write each food on a list. Next to it, write the living being it came from.",
           "kid": "List the foods on your plate. Next to each, write the living being it came from.",
-          "parent": "Use real foods from your own lunch. A thali with rice, sambar, a vegetable, curd and an egg or fish is a good example.",
+          "parent": "A plain vegetarian plate is fine. Its level will be low, and the method is the point. Use real foods from your own lunch. A thali with rice, sambar, a vegetable, curd and an egg or fish is a good example.",
           "context": "In this step, you list your lunch and find where each food came from."
         },
         {
@@ -1891,10 +1893,10 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "Add the level numbers of all the foods. Divide by the number of foods. This is the average level of your food. Add 1. That is your level for this lunch. Compare it with your family's.",
+          "do": "First guess your own level. Then add the level numbers of all the foods. Divide by the number of foods. This is the average level of your food. Add 1. That is your level for this lunch. Compare it with your family's.",
           "say": "Add up the numbers. Divide by how many foods there are. Add 1. That is your level for this lunch.",
           "kid": "Add the numbers. Divide by how many foods. Add 1. That is your level.",
-          "parent": "For a lunch of rice 1, sambar 1, curd 2 and fish fry 2.5, the sum is 6.5. Dividing by 4 gives 1.6, and adding 1 gives 2.6. Most people land between 2 and 3. Scientists estimate that people around the world average about 2.2.",
+          "parent": "For a lunch of rice 1, sambar 1, curd 2 and fish fry 2.5, the sum is 6.5. Dividing by 4 gives 1.6, and adding 1 gives 2.6. This treats every food as an equal share. A real plate has more rice than curd, so your true level is a little lower. With 2 to 4 children, each works out one plate and you compare. Most people land between 2 and 3. Scientists estimate that people around the world average about 2.2.",
           "think": "If you swapped the fish fry for a vegetable, what would your level be?",
           "context": "In this step, you work out your own trophic level for one lunch."
         }
@@ -1965,7 +1967,7 @@
           "do": "On day 1, list every food your family eats. Write each food and a rough amount, such as 3 spoons or 2 pieces. Add drinks like milk and buttermilk. Ask your child to guess how many foods come from plants.",
           "say": "Today we write down everything we eat. Next to each food, write how much. How many foods will come from plants? Why?",
           "kid": "Write every food we eat today. How many come from plants? Guess.",
-          "parent": "Include oil, sugar and salt. Oil comes from seeds, sugar from cane or beet, and salt from the sea or mines, which is neither plant nor animal. Mark it 'not a living being'.",
+          "parent": "With 2 to 4 children, each notes one meal as it is eaten. Include oil, sugar and salt. Oil comes from seeds, sugar from cane or beet, and salt from the sea or mines, which is neither plant nor animal. Mark it 'not a living being'.",
           "context": "This is the first step of the project. You write down everything your family eats in one day."
         },
         {
@@ -1974,7 +1976,7 @@
           "do": "On day 2, next to each food, write the being it came from. Write its level, using the Level Detective cards. Skip salt. Count how many foods are at level 1, at level 2 and above. Add the levels and divide by the number of foods. Add 1.",
           "say": "Now trace each food to a plant or animal. Use the levels from the game. Count how many are level 1, how many are level 2 and above. Work out the average.",
           "kid": "Trace each food. Write its level. Count how many foods are at each level.",
-          "parent": "Rice, wheat, dal, vegetables, fruit and oil are level 1. Milk, curd and ghee are level 2. Eggs are 2.25. A chicken meal is 2.25 as the food. Small sea fish are about 2.5. A bigger fish such as a tuna is 4. Salt does not count.",
+          "parent": "Rice, wheat, dal, vegetables, fruit and oil are level 1. Milk, curd and ghee are level 2. Eggs are 2.25. A chicken meal is 2.25 as the food. Small sea fish are about 2.5. A bigger fish such as a tuna is 4. Salt does not count. A count of foods treats a pinch of ghee like a bowl of rice. For a fairer answer, count each food once for every spoon or piece. Then work out the average again.",
           "context": "In this step, you find the being each food came from and give each food a level."
         },
         {
@@ -2489,7 +2491,7 @@
       "id": "b-thermo",
       "item": "A digital cooking thermometer with a probe",
       "kind": "tool",
-      "why": "For the Peanut test and the Warm Seeds test. It reads to one degree or better. A body thermometer will not do, because it reads only up to 42 degrees.",
+      "why": "For the Peanut test and the Warm Seeds test. It costs about Rs 150 to 300. The Peanut test needs a reading to one degree or better up to 100 degrees. A school lab thermometer from a stationery or lab shop is a cheaper choice. Warm Seeds only needs a room or aquarium thermometer that reads 0 to 50 degrees. A body thermometer will not do, because it reads only up to 42 degrees. You could also borrow one from a neighbour or school.",
       "url": "https://www.amazon.in/s?k=digital+cooking+thermometer+probe",
       "used_in": [
         "e1",
@@ -2500,7 +2502,7 @@
       "id": "b-lens",
       "item": "A small magnifying glass",
       "kind": "tool",
-      "why": "For the funnel trap, to see tiny animals. A phone camera with zoom can also help.",
+      "why": "For the funnel trap, to see tiny animals. It costs about Rs 30 to 80. A phone camera with zoom can also help.",
       "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
       "used_in": [
         "a2"
