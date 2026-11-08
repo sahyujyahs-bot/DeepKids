@@ -230,7 +230,7 @@ Mr. Das went quiet. 'In heavy rain, steel needs paint every few years,' he admit
 
 'And where does the old steel go?' she asked. He rubbed his chin. 'To a scrap dealer in Shillong, if someone carries it that far. If not, to the river.'
 
-Then Daiaphi took his hand and led him down to the root bridge. 'Hold this root,' she said. It was as thick as his leg. 'Pull.' He pulled. It did not move. 'This root was thinner than my arm when Kong's grandmother tied it. Every year it gets stronger. When a root is hurt in a flood, it grows back. And when the bridge is very old, it does not become rubbish. It is still a tree.'
+Then Daiaphi took his hand and led him down to the root bridge. 'Hold this root,' she said. It was as thick as his leg. 'Pull.' He pulled. It did not move. 'This root was thinner than my arm when Kong's grandmother tied it. Every year it gets stronger. When a root is hurt in a flood, it grows back. And when the bridge is very old, it does not become rubbish. The tree is still alive.'
 
 'But,' said Mr. Das, 'you wait twenty years for a new root bridge to be ready.' Kong Rimai had followed them. 'We wait for rice,' she said. 'We wait for children to grow. Waiting is not a cost, if you plan for it.'
 
@@ -257,6 +257,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent does:* 1. Cut out the 20 cards. 2. Shuffle them and put them face down. 3. Put the tokens in a bowl. 4. Choose a first reader.  
   *Parent says:* Every card has a job and three materials. Nothing is perfect. We choose and name the catch.  
   *Child mode:* Cut out the cards. Shuffle them. Put out the tokens.
+  - Note: Works with one child and a parent, or 2 to 4 children. The reader changes after each card. The youngest player can read the first card with help.
 - **s2 (5 min)**  
   *Parent does:* Play the first card as practice. After choosing, ask the question below, and do not turn the card over yet.  
   *Parent says:* Choose a material for this job. What is the catch of your choice?  
@@ -310,7 +311,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 - **question:** A strip of paper bends easily. A dried bar of flour paste snaps easily. Is a bar of paper layers glued with paste stronger than either one alone, and what about paste with tiny fibres mixed in?
 - **predict:** Before you start, guess. Which of the four bars will hold the most water in a hanging cup before it snaps or sags? Which will hold the least? Why do you think so?
 - **fair test:** All four kinds of bar are the same length and width. They use the same newspaper and the same paste. They dry in the same place for the same time. They rest across the same gap, and water is poured in at the same slow speed. The order of the bars is drawn from a bowl. Only the make-up of the bar changes. Two bars of each kind show how much each kind varies.
-- **safety:** The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff the bar. Throw the bar away and make another. A grown-up should use the scissors. Wash your hands after the paste.
+- **safety:** The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff the bar. Throw the bar away and make another. A grown-up should use the scissors. Wash your hands after the paste. Scissors are for the grown-up only. Keep a tray under the cup so the water does not wet the floor. Maida is wheat flour, so a child with a wheat allergy should not handle the dry flour or paste.
 - **record:** Write what each bar was made of. Write the water each bar held in millilitres and how it failed. Then draw a bar chart with one bar for each kind, using the bigger of the two results. Work out how many times stronger the layered bar was than the paste bar and than the paper stack.
 - **results table:** Bar | What it is made of | Water in the cup, bar 1 (ml) | Water in the cup, bar 2 (ml) | How it failed: snapped or sagged
 - **schedule:** day 1: Guess. Make the paste and the four kinds of bar, two of each. Set them to dry. (30 min); day 3: Test all eight bars across a gap with a hanging cup of water. Draw the chart and write what you found. (35 min)
@@ -322,21 +323,21 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   - Ask: Which bar will be the weakest? Why? (good: The paste alone, because it is brittle.; The loose paper, because it bends.)
   - Note: Do not correct any guess. Write each guess with the reason. After the test, come back to these guesses.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* 1. Mix 6 level tablespoons of flour with a pinch of salt in a bowl. 2. Add cold water a spoon at a time, until the paste is smooth and thick like curd. 3. Cut 8 newspaper strips, each 4 centimetres wide and 20 centimetres long.  
-  *Parent says:* Make the paste smooth, with no lumps. It should be as thick as curd. The pinch of salt helps keep the mould away.  
+  *Parent does:* 1. Mix 6 level tablespoons of flour with a pinch of salt in a bowl. 2. Add cold water a spoon at a time, until the paste is smooth and thick like curd. 3. Cut 16 newspaper strips (4 for each of bars B and C, two bars of each), each 4 centimetres wide and 20 centimetres long.  
+  *Parent says:* Make the paste smooth, with no lumps. It should be as thick as curd. The pinch of salt may help slow the mould.  
   *Child mode:* Mix flour and water into a paste. Cut the paper into strips.
-  - Note: Use cold paste. There is no need to cook it. Cut all the strips the same size with a ruler. Cutting strips with the grain, along the long side of the newspaper, gives stronger strips, but just keep them all the same direction.
+  - Note: Use cold paste. One batch makes the eight bars of one child. With 2 or more children, each child makes their own batch and their own A, B, C and D (one of each kind). The two children's bars together give the two bars of each kind, and a different child tests each bar than the one who made it. There is no need to cook it. Cut all the strips the same size with a ruler. Cutting strips with the grain, along the long side of the newspaper, gives stronger strips, but just keep them all the same direction.
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* Bar A: spread a layer of paste about 3 millimetres thick, 20 centimetres by 4 centimetres, on a plastic sheet. Bar B: stack 4 dry strips of paper, and lay them next to the others. Bar C: brush paste on 4 strips, stack them and press flat. Bar D: stir a tablespoon of shreds into some paste, and spread it like bar A. Make two bars of each kind.  
   *Parent says:* Bar A is plain paste. Bar B is four dry strips. Bar C is four strips glued with paste. Bar D is paste with shreds. Two of each.  
   *Child mode:* Make two of each bar. Label them A, B, C and D.
-  - Note: Bar B is not glued. It is just a stack of paper, for comparison. Keep paste thickness the same in A and D. Press C flat with your palm and smooth out bubbles. Label each bar with tape and a letter on the plastic sheet.
+  - Note: Bar B is not glued. It is just a stack of paper, for comparison. Keep paste thickness the same in A and D. Press C flat with your palm and smooth out bubbles. Make the paste layers about 2 to 3 millimetres thick. A thicker layer cracks and curls as it dries. Label each bar with tape and a letter on the plastic sheet.
   - Check: Why do we make two bars of each kind? → **To see how much one kind varies, and not trust a single bar**
 - **s4 (4 min)**  
   *Parent does:* Put the bars on a tray in a warm, shady place, such as a shelf near a window. Do not touch them. Write down the date and the time. They need two days to dry.  
   *Parent says:* The bars need two full days to dry. Do not touch them. Keep them out of the rain.  
   *Child mode:* Put the bars on a tray. Leave them for two days.
-  - Note: If the weather is very damp, dry the bars near a fan, or for three days. A bar that is still soft in the middle will be weak, so wait until it feels hard and dry all through.
+  - Note: If the weather is very damp, dry the bars near a fan, or give them three or four days. Flour paste 3 millimetres thick can take longer than two days in monsoon damp. Press a bar with a fingernail: it is ready when it is hard all through. Bars may curl a little at the edges. Press them flat under a book for the last hour. If a bar grows white or green mould, throw the bar away and make another. A bar that is still soft in the middle will be weak, so wait until it feels hard and dry all through.
 - **s5 (8 min)**  
   *Parent does:* Day 3. 1. Stand the two piles of books 12 centimetres apart. 2. Peel the dry bars off the plastic. 3. Make a small loop of thread to hang the cup from. 4. Stand a ruler beside the gap to read the sag.  
   *Parent says:* Today we test. The bar rests across the gap. A cup hangs from its middle. We pour water into the cup slowly.  
@@ -347,14 +348,14 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent does:* Draw a chit for the first bar. Rest it across the gap. Hang the empty cup from its middle. Pour water into the cup from the jug, slowly and steadily. Stop when the bar snaps or the middle sinks 2 centimetres. Pour the water from the cup into a medicine cup and read the millilitres. Test all eight bars.  
   *Parent says:* Rest the bar across the gap. Hang the cup. Pour slowly. Stop when the bar snaps or sinks two centimetres. Measure the water.  
   *Child mode:* Test one bar at a time. Pour slowly. Measure the water.
-  - Note: The cup itself weighs a little, so the same cup is used each time. Pour at the same speed. Keep a tray under the cup. Bar B, the loose paper stack, will sag at once with only a few millilitres, and that is the right result.
+  - Note: The cup itself weighs a little, so the same cup is used each time. Pour at the same speed. Keep a tray under the cup. Bar B, the loose paper stack, usually sags with only a few millilitres, and that is a good result. Bar C may hold more than a cup of water. If the cup is full and the bar has not failed, empty the cup into the measuring cup, write it down, refill and carry on, then add the totals. Roles for 2 to 4 children: one pours, one watches the ruler and says stop, one reads the millilitres, one writes. Swap roles for each bar.
 - **s7 (9 min)**  
   *Parent does:* Write the results in the table. Draw a bar chart. Work out how many times more water the layered bar C held than bar A, and than bar B. Write a claim, evidence and reasoning.  
   *Parent says:* Draw the chart. How many times more did bar C hold than bar A? Than bar B? Write your claim, evidence and reasoning.  
   *Child mode:* Draw the chart. Compare bar C with A and B.
   - Ask: Is bar C stronger than its parts? Why do you think so? (good: Yes, because the paper carries the pull and the paste holds the layers.; Yes, because the layers cannot slide.)
   - Ask: What happened to bar D, the paste with fibres? (good: It held more than the plain paste.; It held about the same.; It was hard to say.)
-  - Note: A good reasoning sentence: the paste alone is brittle and the paper alone bends, but the paste holds the paper layers together so they cannot slide, and the paper stops cracks running through the paste. If bar D did better than bar A, the fibres stopped cracks. If not, say so honestly.
+  - Note: A good reasoning sentence: the paste alone is brittle and the paper alone bends, but the paste holds the paper layers together so they cannot slide, and the paper stops cracks running through the paste. If bar B held 0 ml, write "less than 1 ml" and say bar C held "many times more", not an exact number. If bar D did better than bar A, the fibres stopped cracks. If not, say so honestly.
 - **s8 (4 min)**  
   *Parent does:* Look closely at a broken end of bar C. Look for paper fibres sticking out. Talk about what you see.  
   *Parent says:* Look at the broken end of bar C. What sticks out? What do you think the fibres were doing?  
@@ -364,7 +365,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 - **question:** After two weeks in damp soil, which of six scraps will have rotted, which will have changed a little and which will look the same as the day you buried them?
 - **predict:** Before you start, guess. Which scraps will rot, which will change a little and which will stay the same? Why do you think so?
 - **fair test:** Each scrap is the same size and goes in the same kind of soil, in the same kind of cup, in the same place. Each cup gets the same amount of water on the same days. One cup holds soil with nothing in it, as a control. A spare piece of each scrap is kept dry in an envelope to compare at the end. Only the scrap changes.
-- **safety:** Wash your hands after touching soil, and do not put your fingers in your mouth. Do not sniff the cups, because mould spores are not good to breathe in. Use gloves when you dig out the scraps. Keep the cups away from babies and pets. Throw the soil and scraps away outside when you finish.
+- **safety:** Wash your hands after touching soil, and do not put your fingers in your mouth. Do not sniff the cups, because mould spores are not good to breathe in. Use gloves when you dig out the scraps. A grown-up should dig if the child has asthma or a mould allergy. Banana peel can attract fruit flies, so keep the cups loosely covered. A grown-up should cut the foil and plastic with scissors. Keep the cups away from babies and pets. Throw the soil and scraps away outside when you finish.
 - **record:** Write down what you see through the side of each cup on day 7. On day 14, give each scrap a score from 0 to 4. Tear each dug-up piece and its spare, and write which is easier to tear. Draw a table, and then sort the scraps into rots, changed a little and unchanged.
 - **results table:** Scrap | Guess | Looked like on day 7 (through the cup) | Score on day 14, from 0 for unchanged to 4 for gone | How easily it tore on day 14, compared with the spare piece
 - **schedule:** day 1: Guess. Bury six scraps in damp soil, and a seventh cup with soil only. (19 min); day 7: Look through the side of each cup. Do not dig. (8 min); day 14: Dig out each scrap, score it, tear it and compare it with its spare. Sort the scraps and write what you found. (28 min)
@@ -379,19 +380,19 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent does:* 1. Cut each scrap to about 5 centimetres square. 2. Cut a spare piece of each and put the spares in an envelope. 3. Fill each cup three-quarters full with soil. 4. Dampen the soil with a spoon of water. 5. Press a scrap against the glass of each cup and cover it with soil.  
   *Parent says:* Fill each cup with soil. Dampen the soil. Press one scrap against the glass. Cover it. Label the cup.  
   *Child mode:* Fill the cups. Press a scrap against the glass. Cover it.
-  - Note: Seven cups: one for each of six scraps, and one with soil only. Put the cups in a warm, shady place such as a balcony or a windowsill, but not in direct hot sun. Loosely cover the tops with a plate or paper, so that flies stay out and air gets in.
+  - Note: Seven cups: one for each of six scraps, and one with soil only. Put the cups in a warm, shady place such as a balcony or a windowsill, but not in direct hot sun. Loosely cover the tops with a plate or paper, so that flies stay out and air gets in. With 2 to 4 children, everyone makes a guess for all six scraps, but each child buries and looks after only two cups. One child looks after the soil-only cup. On day 14 each child reports to the others.
   - Check: Why do we keep a cup with soil only and no scrap? → **As a control, to see what the soil does by itself**
 - **s3 (4 min)**  
-  *Parent does:* Every three days, sprinkle one spoon of water on each cup. Check that the soil stays damp but not wet. Write the date on the label.  
+  *Parent does:* Every three days, touch the soil. It should feel like a squeezed-out sponge. If it feels dry, sprinkle one or two spoons of water on the cup. If it feels wet or sticky, add no water and leave the cover off for a day. In hot dry weather you may need water more often. In the monsoon, you need less. Write the date on the label.  
   *Parent says:* Every three days, add one spoon of water to each cup. Keep the soil damp, not wet.  
-  *Child mode:* Add a spoon of water every three days.
+  *Child mode:* Check the soil every three days. Add a little water if it is dry.
 - **s4 (8 min)**  
   *Parent does:* Day 7. Look at each cup from the side. Do not dig. Draw or describe each scrap. Which has changed?  
   *Parent says:* Day seven. Look from the side. Do not dig. What has changed? What has stayed the same?  
   *Child mode:* Look from the side. Do not dig. What has changed?
   - Ask: Which scrap has changed the most so far? (good: The banana peel.; The newspaper.)
   - Ask: Which have not changed at all? (good: The plastic.; The foil.; The polyester.)
-  - Note: By day 7, the banana peel is usually brown and soft, and may have white or grey mould. The paper may be darker and soft. The rest usually look the same. Do not open the cups if you see mould.
+  - Note: By day 7, the banana peel is usually brown and soft, and may have white or grey mould. The paper may be darker and soft. The rest usually look the same. If you see mould, that is normal. Do not open the cups and do not sniff them. Which scraps changed first may differ in your home, as the weather changes the speed.
 - **s5 (14 min)**  
   *Parent does:* Day 14. Put on gloves. Lift out each scrap with a spoon and put it on a plate. Score it from 0 to 4. Tear it, and tear its spare, and compare. Write everything down. Then put it all in the outdoor bin.  
   *Parent says:* Day fourteen. Put on gloves. Lift out each scrap. Score it. Tear it. Tear its spare piece too. Which tears more easily?  
@@ -416,10 +417,10 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   - Ask: Is there a best cup for every job? (good: No, it depends on the job.; Yes, the steel one.)
   - Note: Do not correct the guess. Write it down. Some children will say steel because it does not break. Come back to this at the end.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. Lift each cup and score its weight from 1 to 5. A light cup scores 5. 2. A grown-up pours about 100 millilitres of warm tap water into each cup. 3. Hold the outside for 20 seconds. Score how comfortable it is from 1 to 5. 4. Pour the water out. Fill each cup with cold water and leave it on a napkin for 10 minutes. Score leaks from 1 to 5.  
+  *Parent does:* 1. Lift each cup and score its weight from 1 to 5. A light cup scores 5. 2. A grown-up pours about 100 millilitres of hot drinking-temperature water into each cup, one at a time. 3. Touch the outside and then hold it for 20 seconds, only if it is comfortable. Let go if it feels too hot. Score how comfortable it is from 1 to 5. 4. Pour the water out. Fill each cup with cold water and leave it on a napkin for 10 minutes. Score leaks from 1 to 5.  
   *Parent says:* Lift each cup and score it. Then warm water. Hold the outside. Score it. Then cold water on a napkin for ten minutes. Score leaks.  
   *Child mode:* Lift each cup. Hold the warm cup. Check the leaks.
-  - Note: Use only warm tap water, not boiling water. The steel cup will feel hotter than the plastic cup, and the paper cup may seep at the seam. Write the scores down as you go.
+  - Note: Use water you could sip, never boiling water. Tap water that is only warm feels the same in every cup, so use hot water from a flask. The steel cup and the glass cup will usually feel hottest. A coated paper cup often does not leak at all, while an unglazed clay cup may sweat on the outside. If nothing leaks, give all cups a 5. That is a real result. Handle the glass cup with care. With 2 to 4 children, each child scores alone first, then compare. If scores differ, discuss why. Roles: one pours (a grown-up), one times, one writes. Write the scores down as you go.
 - **s3 (8 min)**  
   *Parent does:* Ask a grown-up what each cup cost and how long it lasts in years. Divide the price by the years to get the cost for each year. Score the lowest cost 5 and the highest cost 1. Then ask what happens to each cup after use. Score the cups that rot or can be remade higher.  
   *Parent says:* Ask the price and how many years each cup lasts. Divide price by years. Cheapest for each year scores 5.  
@@ -435,7 +436,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent says:* Job two is a tea stall. Change the weights. Work out the new totals. Did the winner change?  
   *Child mode:* Change the weights for the tea stall. Did the winner change?
   - Ask: Did the winner change? What made it change? (good: Yes, because the weights changed.; No, the same cup won both times.)
-  - Note: Good discussion: the scores are your judgement, not facts. Two families could disagree. Ask: what would make you change a score?
+  - Note: With 2 to 4 children, each child does one job's matrix, then swap and check each other's sums. Good discussion: the scores are your judgement, not facts. Two families could disagree. Ask: what would make you change a score?
 ### a2 · Follow a Thing: from the ground to the bin (30 min)
 - **record:** A drawing of a circle with four stages: source, making, use and after, with notes under each, and a list of three questions that you cannot yet answer.
 - **s1 (5 min)**  
@@ -443,7 +444,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent says:* Pick one thing. What is it made of? Where do you think that material first came from?  
   *Child mode:* Pick one object. What is it made of? Where did it first come from?
   - Ask: Where do you think the material first came from? (good: A mine in the ground.; A plant.; Oil from deep in the ground.)
-  - Note: Good objects: a steel katori (iron ore), a cotton shirt (cotton plant), a plastic bottle (oil or gas), a pencil (wood and graphite).
+  - Note: With 2 to 4 children, each child chooses a different object and presents their circle to the others. Good objects: a steel katori (iron ore), a cotton shirt (cotton plant), a plastic bottle (oil or gas), a pencil (wood and graphite).
 - **s2 (10 min)**  
   *Parent does:* Draw four boxes in a circle: source, making, use and after. Write or draw what you know for each. Ask a grown-up where the object was bought. Ask how long it has been used. Ask what will happen to it when it is finished.  
   *Parent says:* Draw a circle of four boxes. Fill in what you know. Ask a grown-up what you do not know.  
@@ -466,7 +467,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent does:* Ask your child to write five questions for an older person. Suggestions: what did you drink from, eat from, carry shopping in, write on and wrap things in when you were young?  
   *Parent says:* Write five questions for a grandparent about the things they used when they were young. What did they drink from? What did they carry things in?  
   *Child mode:* Write five questions for an older person.
-  - Note: Choose someone your child feels easy with. Phone calls are fine.
+  - Note: With 2 to 4 children, each child writes the questions, then take turns to ask on a call, or interview a different person each and share. Choose someone your child feels easy with. Phone calls are fine.
 - **s2 (14 min)**  
   *Parent does:* Interview the older person. Write down each material, its job and what they liked or disliked about it. Ask them what happened to the thing when it was done.  
   *Parent says:* Ask your questions. Write down each material, its job, and what they liked and disliked. Ask what happened to it afterwards.  
@@ -479,7 +480,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Child mode:* Fill in the table. Compare old and new.
   - Check: An older person says banana leaf plates were used because they cost nothing and rotted afterwards. Which words describe those choices? → **The leaf was cheap, light, and biodegradable**
 ### a4 · Mend It: three ways to fix a torn paper strip (35 min)
-- **record:** A table with four rows: unmended, tape, paste patch and stitched. For each, the number of coins that the strip held before it tore. A note on which mend was strongest and which was easiest.
+- **record:** A table with four rows: unmended, tape, paste patch and stitched. For each, the water in millilitres that the strip held before it tore (one millilitre weighs about one gram). A note on which mend was strongest and which was easiest.
 - **s1 (5 min)**  
   *Parent does:* Show your child the strips and the mending materials. Ask for a guess and a reason about which mend will hold the most.  
   *Parent says:* We will mend three strips three ways. One has tape. One has a paste patch. One has stitches. Which will hold the most? Why do you think so?  
@@ -487,15 +488,15 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   - Ask: Why do you think that mend will hold the most? (good: Tape is sticky.; Stitches go right through.; The patch makes it thicker.)
   - Note: Do not correct the guess. Write each guess and its reason.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. Cut a slit 2 centimetres long, halfway across the edge of 4 strips. 2. Leave one strip unmended. 3. Put a strip of tape over the slit on the second strip. 4. Stick a paste patch on the third. 5. Sew three stitches across the slit on the fourth strip. Let the paste patch dry for 10 minutes.  
+  *Parent does:* 1. Cut a slit 1 centimetre long, halfway across the edge of 4 strips (each strip is 2 centimetres wide). 2. Leave one strip unmended. 3. Put a strip of tape over the slit on the second strip. 4. Stick a paste patch on the third. 5. Sew three stitches across the slit on the fourth strip. Let the paste patch dry for 10 minutes.  
   *Parent says:* Cut a slit in each strip. Leave one alone. Mend one with tape, one with a paste patch and one with stitches. Wait ten minutes for the paste to dry.  
   *Child mode:* Cut slits. Mend three strips three ways. Leave one.
   - Note: A slit is a small crack. A mend can spread the load round it. Use the same size of tape, patch and number of stitches for each. Keep the mended area the same size.
 - **s3 (12 min)**  
-  *Parent does:* Clip the top of each strip in a peg hung from the pencil. Clip the bottom in a second peg tied to a cup. Add coins to the cup one at a time until the strip tears. Count the coins. Test the unmended strip too.  
-  *Parent says:* Hang each strip. Add coins one at a time. Count them. Stop when it tears.  
-  *Child mode:* Hang a strip. Add coins one at a time. Count them.
-  - Note: Do two strips of each kind if you have time, and write both numbers. The unmended strip with a slit is your base number to beat.
+  *Parent does:* Fold 2 centimetres at the top end of the strip over a pencil and tape it down well with wide tape. Do the same at the bottom end over a second pencil, and tie a string from that pencil to the bucket. Rest the top pencil across the backs of two chairs. Pour water slowly into the bucket until the strip tears. Measure the water in the bucket. Test the unmended strip too.  
+  *Parent says:* Hang each strip. Pour water slowly into the bucket. Stop when it tears. Measure the water.  
+  *Child mode:* Hang a strip. Pour water slowly. Measure the water when it tears.
+  - Note: Pour at the same speed each time, and keep feet clear: the bucket will drop. Newspaper is stronger than it looks; a strip this size typically holds a kilogram or more, so use a bucket and be ready to pour for a while. If the strip tears at the tape and not at the slit, write that down: the mend was stronger than the paper. If every strip holds too much, make the slit longer, up to 1.5 centimetres. Do two strips of each kind if you have time. The unmended strip with a slit is your base number to beat. With 2 to 4 children, one pours, one watches the strip, one measures and one writes; swap for each strip.
 - **s4 (6 min)**  
   *Parent does:* Write the numbers in the table. Which mend held the most? Which was easiest to do? Which would you choose, and why?  
   *Parent says:* Which mend held the most? Which was easiest? Which would you choose?  
@@ -526,7 +527,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 
 ## Projects
 ### p1 · Recycled Paper: make new paper from old paper (60 min, 3 days)
-- **record:** Photographs or drawings of each stage. The number of coins that strips of new paper and old newspaper held. A note on how the new sheet looks and feels compared with the old paper.
+- **record:** Photographs or drawings of each stage. The water in millilitres that strips of new paper and old newspaper held. A note on how the new sheet looks and feels compared with the old paper.
 - **schedule:** day 1: Tear the paper into small bits and soak it in water. (15 min); day 2: Mash the soaked paper into pulp. Scoop it on the mesh, press out the water and leave the sheet to dry. (30 min); day 3: Peel off the new sheet and test strips of it against strips of newspaper. (15 min)
 - **s1 (8 min)**  
   *Parent does:* Ask your child to guess how the new paper will compare with the old. Then tear the paper into pieces about the size of a thumbnail. Put them in the bowl. Cover them with water and leave them overnight.  
@@ -538,23 +539,23 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent does:* Day 2. Pour off most of the water. Mash the soaked paper with the masher until it is a smooth grey pulp. A grown-up can use a blender with the lid on and a little water.  
   *Parent says:* Mash the soaked paper into pulp. Keep going until it looks like thick porridge with no lumps.  
   *Child mode:* Mash the wet paper into smooth pulp.
-  - Note: A blender makes shorter fibres than hand mashing. Short fibres make weaker paper. This is a way to see why recycled paper is weaker.
+  - Note: A blender makes shorter fibres than hand mashing. Short fibres make weaker paper. This is a way to see why recycled paper is weaker. Only a grown-up runs the blender: unplug it before touching the jug, and keep fingers away from the blades.
 - **s3 (18 min)**  
   *Parent does:* Fill a tray with water. Stir in two big spoons of pulp. Slide the mesh under the water and lift it slowly, so a thin layer of pulp lies on it. Let the water drain. Press the layer with a towel to take up more water. Turn the mesh over on a clean towel and peel the mesh off. Cover the sheet with a second towel and put heavy books on top for an hour.  
   *Parent says:* Slide the mesh under the pulp. Lift slowly. Let the water drip. Press with a towel. Turn the sheet onto a towel. Put books on top.  
   *Child mode:* Scoop the pulp on the mesh. Press out the water. Stack books on top.
-  - Note: The first sheet may be lumpy or too thin. Try again with more or less pulp. Make 2 or 3 sheets if you can. Use a clean pencil to write the amount of pulp on the towel.
+  - Note: With 2 to 4 children, each child makes a sheet. One pulps, one dips, one presses. Swap. Compare each sheet. The first sheet may be lumpy or too thin. Try again with more or less pulp. Make 2 or 3 sheets if you can. Use a clean pencil to write the amount of pulp on the towel.
 - **s4 (10 min)**  
   *Parent does:* Remove the books and leave the sheet to dry on the towel in a warm, airy place for a day or two. Do not peel it while damp.  
   *Parent says:* Leave the sheet to dry for a day or two. Do not peel it until it is dry.  
   *Child mode:* Leave the sheet to dry.
-  - Note: If the weather is humid, put the sheet near a fan. A sheet that is still damp will tear when peeled.
+  - Note: A sheet can take two or three days to dry in damp weather. If the weather is humid, put the sheet near a fan. A sheet that is still damp will tear when peeled.
 - **s5 (16 min)**  
-  *Parent does:* Day 3. Peel off the dry sheet. Cut a strip 2 centimetres wide. Cut a strip of the same size from the old newspaper. Hang each strip from a peg. Add coins in a cup, one at a time, until the strip tears. Compare. Look at the torn edges.  
-  *Parent says:* Cut a strip of new paper and a strip of old paper, both the same width. Add coins one at a time until each tears. Which held more?  
+  *Parent does:* Day 3. Peel off the dry sheet. Cut a strip 2 centimetres wide. Cut a strip of the same size from the old newspaper. Fold the top end of each strip over a pencil and tape it. Hang it from the backs of two chairs and tie the bucket to the bottom end the same way. Pour water slowly into the bucket until the strip tears. Measure the water. Compare. Look at the torn edges.  
+  *Parent says:* Cut a strip of new paper and a strip of old paper, both the same width. Pour water slowly into a bucket until each tears. Which held more?  
   *Child mode:* Test a strip of new paper and a strip of old. Compare.
   - Ask: Which strip held more coins? Why do you think so? (good: The old paper, because the fibres are longer.; The new paper, because it is thicker.)
-  - Note: The new sheet is thicker and lumpier, so it may hold more or fewer coins than newspaper. Either is a good result. The point is to compare and talk about why.
+  - Note: The new sheet is thicker and lumpier. It is usually weaker than newspaper because the fibres are shorter, but it may hold more or less, and either is a good result. A thin sheet may tear at the tape; put the tape over a wide fold. The point is to compare and talk about why.
   - Check: Why is recycled paper usually weaker than new paper? → **The fibres are broken and shorter each time paper is recycled**
 
 ## Challenges
@@ -573,7 +574,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
   *Parent does:* Build your first bowl. Fold the leaf so that the folds are tight and the corners are held by toothpicks. Place the bowl on a napkin on a plate. Pour in 100 millilitres of water slowly, and start the clock.  
   *Parent says:* Build your bowl. Fold tightly. Pin the corners. Pour in water slowly. Start the clock.  
   *Child mode:* Build a bowl. Pour in 100 millilitres. Start the clock.
-  - Note: If you cannot find a large leaf, use a big sheet of kitchen foil as a last resort, and talk about why it is a poorer choice, because foil does not rot. Where the toothpick goes through the leaf, water may seep out.
+  - Note: If you cannot find a large leaf, use a big sheet of kitchen foil as a last resort, and talk about why it is a poorer choice, because foil does not rot. Where the toothpick goes through the leaf, water may seep out. Toothpicks have sharp points: push them in away from your fingers, and have a grown-up nearby.
 - **s3 (12 min)**  
   *Parent does:* Check the napkin after one minute and after ten minutes. Where did it leak? Change one thing. Test again with a fresh napkin.  
   *Parent says:* Look at the napkin. Where did the water come out? Change one thing and test again.  

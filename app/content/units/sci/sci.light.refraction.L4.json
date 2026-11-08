@@ -644,11 +644,11 @@
        "b": "TRAPPED. The critical angle of glass is about 42 degrees. At 45 degrees all the light bounces back, which is how binoculars turn the picture the right way up."
       },
       {
-       "f": "TEST IT. Hold a clear glass of water above your eyes. Look up through the side at the top of the water, at a slant. What does the water's top do?",
+       "f": "TEST IT. Sit on the floor next to a table. Stand a clear plastic box of water on a tray at the table's edge, above your eyes. Look up through the side at the top of the water, at a slant. What does the water's top do?",
        "b": "TRAPPED. At a slant, the top of the water turns silver, like a mirror. Light from below is bounced back down."
       },
       {
-       "f": "TEST IT. Hold the glass above your head and look straight up through the water and its top. What do you see?",
+       "f": "TEST IT. Sit right under the box of water and look straight up through the bottom and the top of the water. What do you see?",
        "b": "STRAIGHT. Looking straight up, the light comes along the normal, so it goes straight through. You see the ceiling. Same water, same top, but now a window."
       },
       {
@@ -711,11 +711,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the cards and the four mats. Lay the mats on the floor. Shuffle the cards and put them face down. Fill a bowl with tokens. Put a clear glass of water, a spoon and a bowl of honey nearby.",
+     "do": "Cut out the cards and the four mats. Lay the mats on the floor. Shuffle the cards and put them face down. Fill a bowl with tokens. For the TEST IT cards, keep nearby a clear plastic box of water, a steel spoon and a glass marble. Add two small bowls, one of honey and one of water. Do not eat the test honey or water.",
      "say": "Every card is a short journey of light. For each one, we decide. Does the light bend toward the normal, bend away, go straight, or get trapped?",
      "kid": "Cut out the cards and mats. Lay out the four mats. Shuffle the cards. Put them face down.",
      "context": "This is the first step of the card game Toward, Away, Straight or Trapped. You set it up.",
-     "parent": "The normal is the imaginary upright line standing out from a surface. If your child has not met it yet, draw it on the floor mat with chalk or tape, and explain it in one sentence."
+     "parent": "The normal is the imaginary upright line standing out from a surface. With 2 to 4 players, take turns as reader and judge; the player on the left reads the back. If your child has not met it yet, draw it on the floor mat with chalk or tape, and explain it in one sentence."
     },
     {
      "id": "s2",
@@ -795,7 +795,7 @@
      "caption": "2. Read a card. Put it on a mat and say why."
     },
     {
-     "art": "A child at a table holding a clear glass of water above her head and looking up through its side at the silver underside of the water.",
+     "art": "A child sitting on the floor beside a table, looking up through its side at the silver underside of the water.",
      "caption": "3. For TEST IT cards, everyone tries the test."
     }
    ]
@@ -828,7 +828,7 @@
      "qty": 1
     },
     {
-     "item": "a phone torch or a small LED torch, with a piece of black card or thick black paper about 8 centimetres by 5 centimetres taped over its front. A grown-up cuts one thin vertical slit in the card, 2 millimetres wide and 3 centimetres tall",
+     "item": "a small LED torch (a pen torch or key-ring torch lies flat best; a phone torch also works if you prop the phone on its long edge with clay so its light faces sideways), with a piece of black card or thick black paper about 8 centimetres by 5 centimetres taped over its front. A grown-up cuts one thin vertical slit in the card, 2 millimetres wide and 3 centimetres tall",
      "qty": 1
     },
     {
@@ -916,7 +916,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write down the guess and the reason. Remind your child that the normal is the upright line standing at right angles to the surface.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write down the guess and the reason. With 2 to 4 children, one holds the torch, one marks the dots, one measures with the protractor and one writes; swap roles for each angle. Each child can draw their own bend diagram. Nobody needs more than one box. Remind your child that the normal is the upright line standing at right angles to the surface.",
      "context": "This is the first step of the Measure the Bend experiment. You guess before you test."
     },
     {
@@ -943,11 +943,11 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "A grown-up cuts a thin vertical slit, 2 millimetres wide and 3 centimetres tall, in the black card. Tape the card over the front of the torch. Lay the torch on its side, so the slit stands upright and touches the paper. Check in the dark that a thin bright line shows on the paper.",
+     "do": "A grown-up cuts a thin vertical slit, 2 millimetres wide and 3 centimetres tall, in the black card. Tape the card over the front of the torch. Lay the torch on its side (or prop the phone on its long edge), so the slit stands upright and touches the paper. Check in the dark that a thin bright line shows on the paper.",
      "say": "A grown-up cuts the slit. The slit makes the light into a thin standing sheet. Where the sheet touches the paper, it draws a thin bright line.",
      "kid": "A grown-up cuts a thin slit in black card. Tape it over the torch.",
      "adult": true,
-     "parent": "The slit must stand upright when the torch lies on its side, and its bottom must touch the paper. If the line is too faint, make the slit 3 millimetres wide, or use a brighter torch. If it is too wide and fuzzy, use a narrower slit. Phone torches work fine in a really dark room.",
+     "parent": "The slit must stand upright when the torch lies on its side, and its bottom must touch the paper. If the line is too faint, make the slit 3 millimetres wide, or use a brighter torch. If it is too wide and fuzzy, use a narrower slit. Phone torches work only in a really dark room, and the line is fainter, so a small LED torch is better. If you see only a glow and no line, make the slit a little wider (3 millimetres) and put the torch closer to the box.",
      "context": "In this step, a grown-up makes the slit card, so that the torch gives a thin bright line to measure."
     },
     {
@@ -987,7 +987,7 @@
      "do": "Move the torch to the end of the 20 degree line, aimed at O. In the dark, find the bright line that comes out of the far wall. Mark two dots on it with a pencil, one near the wall and one 8 centimetres away. Draw a line through the dots back to the wall. Call the point where it meets the wall E. Draw a line from O to E. Measure the angle between the line OE and the normal. Write it down. Do the same for 40 and 60 degrees. Then do all three again.",
      "say": "Now the slanted beams. Mark two dots on the bright line that comes out. Draw back to the wall. Join that point to O. That is the path of the light inside the water. Measure its angle from the normal.",
      "kid": "Put the torch on the 20 degree line. Mark two dots on the bright line. Join them to O.",
-     "parent": "Why this works. The beam comes out of the far wall parallel to the way it went in, so the bright line outside points straight back to the spot E where it left the water. The path in the water is the line from O to E. Expect about 15 degrees for 20, about 29 for 40 and about 41 for 60. Your numbers may be a few degrees off, because the beam is not perfectly thin. That is fine. If the beam in the water is faint, take out the milk, or add one more drop. If your angles are all bigger than the angle in the air, check that you measured from the normal.",
+     "parent": "Why this works. The beam comes out of the far wall parallel to the way it went in, so the bright line outside points straight back to the spot E where it left the water. The path in the water is the line from O to E. Typical results are about 15 degrees for 20, about 29 for 40 and about 41 for 60. Your numbers may be 3 to 5 degrees off, because the beam is not perfectly thin. That is fine. If the beam in the water is faint, take out the milk, or add one more drop. If the outgoing line is too faint to mark, draw the line in the dark by feel with two dots at the brightest part, or repeat with the room darker. If your angles are all bigger than the angle in the air, check that you measured from the normal.",
      "context": "In this step, you measure how far the water turns the beam for three different slants, twice each."
     },
     {
@@ -1061,11 +1061,11 @@
      "qty": 1
     },
     {
-     "item": "a bright window, or a bright lamp in a dark room, at least 3 metres from the magnifying glass",
+     "item": "a bright window, or a bright lamp in a dark room, at least 3 metres from the magnifying glass (point at the bright sky or a lit window, never at the Sun)",
      "qty": 1
     },
     {
-     "item": "a pair of spectacles worn by someone who is short-sighted. Check them: print looks smaller through the lens, so it is a hollow lens",
+     "item": "a pair of spectacles worn by someone who is short-sighted (any strength from about minus 1.5 upward works; a stronger pair gives a clearer result). Check them: print looks smaller through the lens, so it is a hollow lens",
      "qty": 1
     },
     {
@@ -1112,7 +1112,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Let your child test each pair of spectacles by looking at print through the lens. The pair where print looks smaller has hollow lenses, which are for short sight. The pair where print looks bigger has bulging lenses.",
+     "parent": "With 2 to 4 children, one holds the magnifying glass steady in clay, one slides the card, one reads the ruler and one writes; swap for each step. Do not correct the guess. Let your child test each pair of spectacles by looking at print through the lens. The pair where print looks smaller has hollow lenses, which are for short sight. The pair where print looks bigger has bulging lenses.",
      "context": "This is the first step of the model eye experiment. You look at two pairs of spectacles and guess before you test."
     },
     {
@@ -1164,7 +1164,7 @@
       "a": 0,
       "why": "In a short-sighted eye, the picture forms too early, in front of the retina. A hollow lens spreads the light a little first, so the picture forms further back, on the retina. Choosing long sight mixes up the two problems. Long sight needs the opposite fix."
      },
-     "parent": "The sharp place should move back by a few centimetres with a typical pair of short-sighted spectacles. If the picture never gets sharp, the lens is weak, or the card is not far enough back. Try moving the card back 6 centimetres. If nobody at home is short-sighted, skip this step and ask your child to draw what they think would happen.",
+     "parent": "Typically the sharp place moves back by about 3 to 6 centimetres, but it depends on the strength of the two lenses, so your number will differ. A spectacle lens is smaller than the magnifying glass, so the picture will be dimmer; hold the lens flat against the middle of the magnifying glass and dim the room. If the picture never gets sharp, the lens is weak, or the card is not far enough back. Try moving the card back 6 centimetres. If nobody at home is short-sighted, skip this step and ask your child to draw what they think would happen.",
      "context": "In this step, you make the model eye short-sighted by moving the card back. Then you fix it with a hollow lens, as spectacles do."
     },
     {
@@ -1183,7 +1183,7 @@
        ]
       }
      ],
-     "parent": "The sharp place should move closer by a few centimetres with typical reading spectacles. If the move is too small to see, try a stronger pair, or two pairs held together.",
+     "parent": "Typically the sharp place moves closer by about 2 to 4 centimetres, depending on the strength. Record how far it moved in centimetres, and compare it with the hollow lens: which moved it more? If the move is too small to see, try a stronger pair, or two pairs held together.",
      "context": "In this step, you make the model eye long-sighted by moving the card closer. Then you fix it with a bulging lens, as reading spectacles do."
     },
     {
@@ -1225,7 +1225,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a clear plastic box with flat sides, or a tall clear glass",
+     "item": "a clear plastic box with flat sides (a food box or a see-through container), or a clear plastic jar",
      "qty": 1
     },
     {
@@ -1233,7 +1233,7 @@
      "qty": 1
     },
     {
-     "item": "a tray or a large basin to stand over and catch drips, and a towel",
+     "item": "a tray or a large basin for the box to stand in, a towel, and a table or a stool with a stack of books so that the box sits above your eyes when you sit on the floor",
      "qty": 1
     },
     {
@@ -1249,12 +1249,12 @@
     }
    ],
    "record": "A drawing of the glass from the side, with the eye in two places. Mark the place where the underside of the water looked clear, and the place where it looked silver. Write one sentence on what changed.",
-   "safety": "Do this standing over a tray, with a towel ready. A wet floor is slippery, so wipe up spills at once.",
+   "safety": "Keep the box in a tray and never hold it above anyone's head. Have a towel ready. A wet floor is slippery, so wipe up spills at once.",
    "context": "In this activity, you hold a glass of water above your eyes and look up at the underside of the water. You find the place where the water's top turns from a window into a mirror.",
    "setup": [
     {
-     "art": "A child standing over a tray, holding a clear box of water above eye level, looking up through its side at a steep angle and seeing the ceiling light.",
-     "caption": "1. Hold the box of water above your eyes. Look up steeply."
+     "art": "A child sitting on the floor beside a table, looking up through the side of a clear box of water in a tray above eye level, at a steep angle and seeing the ceiling light.",
+     "caption": "1. Put the box of water above your eyes. Look up steeply."
     },
     {
      "art": "The same child looking up at a much lower slant, and the underside of the water shining silver with a pencil tip reflected in it.",
@@ -1282,17 +1282,17 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, take turns to look; one child at a time sits on the floor by the box while the others wait with the towel.",
      "context": "This is the first step of the Water Mirror. You guess before you look."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Fill the box three quarters full of water. Stand over the tray. Hold the box up above your eyes with one hand, or ask a grown-up to hold it steady. Look up through the side wall at the underside of the water. Keep your eyes low and look at a slant. Slowly dip the tip of a pencil into the top of the water from above, using the other hand.",
+     "do": "Stand the box in the tray at the edge of a table or on books. Its bottom must be above your eyes when you sit on the floor beside it. Sit close and look up through the side wall at the underside of the water, at a low slant. A grown-up pushes a pencil tip under the surface from above, so you can see it and its reflection.",
      "say": "Hold the box above your eyes. Look up through the side, at a low slant, at the top of the water. What do you see? What happens to the pencil tip?",
      "kid": "Hold the box above your eyes. Look up through the side. What does the top of the water look like?",
      "adult": false,
-     "parent": "A flat-sided box shows the effect more clearly than a round glass, because round glass bends the view. The underside of the water should look like a bright silver sheet, with the pencil reflected in it. If you see nothing special, look at a lower slant, with your eyes level with the bottom of the box.",
+     "parent": "A flat-sided box shows the effect more clearly than a round glass, because round glass bends the view. The underside of the water should look like a bright silver sheet, and the pencil tip may show up twice, once itself and once reflected. Never carry or hold a full box above a child's head. If you see nothing special, look at a lower slant, with your eyes level with the bottom of the box.",
      "check": {
       "t": "mcq",
       "q": "At a low slant, the underside of the water looked silver, like a mirror. What was it doing with the light?",
@@ -1310,10 +1310,10 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Now raise your eyes slowly, so you look more and more steeply up at the water. Notice the place where the silver sheet gives way to a clear window, and you see the ceiling. Move up and down a few times to find the place. Look straight up through the bottom of the box, if it is clear.",
+     "do": "Now raise your eyes slowly, so you look more and more steeply up at the water. Notice the place where the silver sheet gives way to a clear window, and you see the ceiling. Move your head up and down a few times to find the place. A helper marks on the box, with a sticky note, where your eye was when it flipped. Then pour out half the water and test again. Does it flip at the same angle? Last, look straight up through the bottom of the box, if it is clear.",
      "say": "Raise your eyes slowly. Where does the silver stop? What can you see in the clear part? Can you find the place where it changes?",
      "kid": "Look more steeply. Find where the silver turns clear. What do you see then?",
-     "parent": "The change happens roughly where your line of sight makes an angle of about 40 degrees with the water's top, which is about 50 degrees from the normal. Your child may find that it is hard to find the exact place. That is fine. It is the idea that matters.",
+     "parent": "The change happens roughly where your line of sight makes an angle of about 40 degrees with the water's top, which is about 50 degrees from the normal. Your child may find that it is hard to find the exact place. That is fine. It is the idea that matters. The flip angle is the same with half the water, because it depends on the angle, not on how much water there is. If nothing silver shows, sit closer to the box, and use a box with clean, dry, scratch-free walls.",
      "think": "The water did not change. Only your angle of looking did. So what decides whether the top of the water is a window or a mirror?",
      "context": "In this step, you find where the silver mirror turns back into a clear window."
     },
@@ -1352,7 +1352,7 @@
      "qty": 1
     },
     {
-     "item": "a flat steel plate or a dosa tawa, with heat-proof mat and oven gloves, for an adult to use on the stove",
+     "item": "a dosa tawa or flat steel pan, heated by an adult and left on the stove (or a hair dryer on its hot setting, if you prefer no hot pan)",
      "qty": 1
     },
     {
@@ -1368,7 +1368,7 @@
     }
    ],
    "record": "A drawing of the shiny patch on the road, with the sky in it. A drawing of the wobbling stripes. A sentence on why light bends in hot air.",
-   "safety": "A grown-up heats the plate and moves it. A hot plate stays hot for many minutes and can burn badly. Do not touch it, and keep it on a heat-proof mat, away from the table edge. Use oven gloves. Keep your face an arm's length from the plate. Do not use any plastic near the hot plate.",
+   "safety": "A grown-up heats the plate and the plate stays where it is, on the stove with the flame or ring switched off. It stays hot for many minutes and can burn badly. Do not touch it, and keep children an arm's length away. Do not use any plastic near it. Stay at the window or terrace for the road part, never on the road.",
    "context": "In this activity, you look for the shiny patch that appears on a hot road, and you look through the air above a hot plate to see light bending in hot air.",
    "setup": [
     {
@@ -1407,11 +1407,11 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up heats the plate on the stove for 2 minutes. They switch off the stove and carry the plate with gloves to the heat-proof mat, at the end of a table. Stand the striped paper 30 centimetres behind it. Crouch so your eyes are level with the plate. Look at the stripes across the top of the hot plate. Watch for 1 minute.",
+     "do": "First look across the cold plate at the striped paper, 30 centimetres behind it, with your eyes level with the plate. The stripes stay still. Then a grown-up heats the plate for 2 minutes and switches off the stove, without moving the plate. Look again from an arm's length away. Watch for 1 minute, and count how many stripes wobble. (With a hair dryer, a grown-up blows hot air across the line of sight instead.)",
      "say": "A grown-up will heat the plate and put it down. Do not touch it. Crouch down and look across the top of the plate at the stripes. What do the stripes do?",
-     "kid": "A grown-up heats the plate. Do not touch it. Crouch and look at the stripes.",
+     "kid": "Look at the stripes over the cold plate. A grown-up heats it. Do not touch it. Look again.",
      "adult": true,
-     "parent": "Keep children at arm's length from the plate. The stripes should wave and wobble within a few seconds, as the hot air rises. The plate stays hot for 10 minutes or more. When you finish, leave it on the mat until cool and keep children away. Do not let anyone touch it, even when it looks cool.",
+     "parent": "Keep children at arm's length from the plate. The stripes should wave and wobble within a few seconds, as the hot air rises; the cold plate is your fair-test comparison. The plate stays hot for 10 minutes or more. When you finish, leave it on the stove until cool and keep children away. With 2 to 4 children, take turns to look while one holds the stripes paper, and everyone draws. If the wobble is faint, use a hotter plate (3 minutes), thicker stripes, or look in a dim kitchen with a bright window behind the stripes.",
      "check": {
       "t": "mcq",
       "q": "The stripes wobbled when you looked through the air above the hot plate. What bent the light?",
@@ -1457,11 +1457,11 @@
      "qty": 1
     },
     {
-     "item": "a bright LED torch, or a phone torch, and sticky tape to hold it",
+     "item": "a bright LED torch (a phone torch works only in a very dark room), and sticky tape to hold it",
      "qty": 1
     },
     {
-     "item": "a sharp nail or a thick needle for a grown-up to make one small hole, about 3 millimetres wide, 4 centimetres from the bottom of the bottle",
+     "item": "a nail for a grown-up to make one small hole (a thick needle also works), about 3 millimetres wide, 4 centimetres from the bottom of the bottle",
      "qty": 1
     },
     {
@@ -1469,7 +1469,7 @@
      "qty": 1
     },
     {
-     "item": "a room that can be made dark, and a jug of water",
+     "item": "a room that can be made dark, and a jug of water to top up the bottle",
      "qty": 1
     }
    ],
@@ -1481,7 +1481,7 @@
     }
    ],
    "record": "A drawing of the bottle, the torch and the curved jet, with the light shown following the jet. One sentence on why the light stays inside the water.",
-   "safety": "A grown-up makes the hole, holding the bottle firmly against a table and pushing the nail slowly away from their hand. Do the pouring over the sink or the tray, and keep the phone or torch away from the water. Wipe up spills, because wet floors are slippery.",
+   "safety": "A grown-up makes the hole (a sharp point), holding the bottle firmly against a table and pushing the nail slowly away from their hand; children stay back until it is done. Do the pouring over the sink or the tray, and keep the phone or torch away from the water. Wipe up spills, because wet floors are slippery.",
    "context": "In this activity, you make a jet of water pour from a bottle in a dark room and shine a torch along it. You find that the light follows the jet round its curve.",
    "setup": [
     {
@@ -1514,7 +1514,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Light going straight is the usual first idea, and it is a good one to test.",
+     "parent": "With 2 to 4 children, one holds the torch, one holds the bottle, one watches the splash and one draws. Make a bottle each if you have spare bottles, or take turns. Do not correct the guess. Light going straight is the usual first idea, and it is a good one to test.",
      "context": "This is the first step of the Glowing Water Jet. You guess before you try."
     },
     {
@@ -1530,7 +1530,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Stand the bottle at the edge of the sink, with the hole facing into the sink. Tape the torch to the side of the bottle opposite the hole, aimed at the hole. Switch off the room light. Take off the cap and the tape. Watch the jet. Hold your finger in the jet near the sink and look at the splash.",
+     "do": "Stand the bottle at the edge of the sink, with the hole facing into the sink. Tape the torch to the side of the bottle opposite the hole, aimed at the hole. Switch off the room light. Take off the cap and the tape. Watch the jet. Hold your finger in the jet near the sink and look at the splash. Then tilt the torch so it no longer points at the hole, and see whether the jet still glows. Top up the bottle with the jug, because the jet gets weaker as the water falls.",
      "say": "Switch the torch on, and the room light off. Take off the tape and the cap. What does the jet look like? What does the splash look like?",
      "kid": "Aim the torch at the hole. Switch the room light off. Take the tape off. Watch.",
      "ask": [
@@ -1555,7 +1555,7 @@
       "a": 0,
       "why": "Light inside the jet meets the edge of the water at a shallow angle each time, beyond the critical angle of about 49 degrees. So all of it bounces back in. It zigzags along the curve of the jet. Gravity pulls the water into its curve, but it does not hold the light in the jet."
      },
-     "parent": "If the jet does not glow, make the room darker, bring the torch closer to the hole, and make sure it is aimed right at the hole. A thinner, steadier jet works best. A bright LED torch works better than a phone torch. Fill the bottle again, and try once more.",
+     "parent": "If the jet does not glow, make the room darker, bring the torch closer to the hole, and make sure it is aimed right at the hole. A thinner, steadier jet works best. A bright LED torch works better than a phone torch. Fill the bottle again, and try once more. Typical result: a glowing jet for the first 10 seconds or so, which fades as the bottle empties. The torch tilted away gives a much dimmer jet, so the aim is part of the proof.",
      "context": "In this step, you let the jet pour in the dark and watch the light follow the curve."
     },
     {
@@ -1598,11 +1598,11 @@
      "buy": "b-magnifier"
     },
     {
-     "item": "two cardboard tubes that slide into each other, or thin card rolled into tubes: one about 8 centimetres wide and 40 centimetres long, and one a little thinner and 40 centimetres long",
+     "item": "two tubes that slide into each other, easiest made by rolling A3 chart paper or a thin cereal-box card into tubes and taping them: one about 8 centimetres wide and 40 centimetres long, and one a little thinner and 40 centimetres long",
      "qty": 2
     },
     {
-     "item": "strong tape, black paper or black marker, scissors and modelling clay",
+     "item": "strong tape, black paper or a black marker, scissors and modelling clay (or a small ball of flour dough)",
      "qty": 1
     },
     {
@@ -1618,7 +1618,7 @@
     }
    ],
    "record": "A drawing of the telescope with the two lenses labelled. The two focal lengths in centimetres, the length of the tube, and how many times you think it magnifies. A sentence on why things look upside down.",
-   "safety": "Never look at the Sun through the telescope or the lenses. It can blind. Keep lenses out of direct sunlight, because they can start fires. A grown-up helps with the scissors.",
+   "safety": "Never look at the Sun through the telescope or the lenses. It can blind. Keep lenses out of direct sunlight, because they can start fires. A grown-up helps with the scissors. Borrowed spectacles belong to someone: tape only the card ring, not the lens.",
    "context": "In this project, you build a telescope from two lenses, and a tube made from card. You find how much it magnifies, and why the picture is upside down.",
    "setup": [
     {
@@ -1655,7 +1655,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "With 2 to 4 children, work in pairs: one finds each lens's focal length, the other builds the tube; then each takes a turn at the eyepiece. Do not correct the guess. Any guess with a reason is a good start.",
      "context": "This is the first step of the Two-Lens Telescope project. You guess before you build."
     },
     {
@@ -1679,11 +1679,11 @@
     {
      "id": "s4",
      "mins": 20,
-     "do": "A grown-up helps cut the card. Tape the weak lens, with one lens centred over the opening, to one end of the wider tube. Cover the other spectacle lens with black card. Tape the strong lens to one end of the thinner tube. Slide the thin tube into the wide tube, so that the lenses face outward at the two ends. Check that the tubes slide in and out smoothly. Paint or colour the inside black.",
+     "do": "A grown-up helps cut the card. Cut a card ring so one spectacle lens shows through it. Tape the ring, with the lens centred over the opening, to one end of the wider tube. Cover the other spectacle lens with black card. Tape the strong lens to one end of the thinner tube. Slide the thin tube into the wide tube, so that the lenses face outward at the two ends. Check that the tubes slide in and out smoothly. Paint or colour the inside black.",
      "say": "Tape the weak lens to the wide tube. Tape the strong lens to the thin tube. Slide one tube inside the other. The lenses face outward at the two ends.",
      "kid": "Tape the weak lens to the big tube. Tape the strong lens to the thin tube.",
      "adult": true,
-     "parent": "The weak lens goes at the front, and the strong lens is the eyepiece. If you swap them, you get a poor telescope. Blackening the inside with a marker cuts the stray light. The tubes should slide back and forth by about the focal length of the strong lens. When fully out, the tube should be about as long as the two focal lengths added together.",
+     "parent": "The weak lens goes at the front, and the strong lens is the eyepiece. If you swap them, you get a poor telescope. Blackening the inside with a marker cuts the stray light. The tubes should slide back and forth by about the focal length of the strong lens. When fully out, the tube should be about as long as the two focal lengths added together (about 58 centimetres for 50 and 8 centimetres). Expect a rough, dim, colour-fringed picture; it is a model that works, not a good telescope.",
      "check": {
       "t": "mcq",
       "q": "Which lens goes at the front of the telescope, facing the faraway thing?",
@@ -1715,7 +1715,7 @@
        ]
       }
      ],
-     "parent": "The picture will look upside down. This is correct for this kind of telescope. If it is blurry, slide the tube further. If you see colour fringes, that is normal for a simple lens. Choose a far sign, a tree or a building to look at. Do not look at the Sun, ever.",
+     "parent": "The picture will look upside down. This is correct for this kind of telescope. If it is blurry, slide the tube further. If you see colour fringes, that is normal for a simple lens. If the picture stays blurry at every position, check that the two focal lengths are right, and hold the tube against a wall or a window frame to keep it steady. Typical magnification is only about 4 to 8 times. Choose a far sign, a tree or a building to look at. Do not look at the Sun, ever.",
      "context": "In this step, you use the telescope to look at something far away."
     },
     {
@@ -3034,7 +3034,7 @@
    "id": "b-readers",
    "item": "A pair of cheap reading spectacles, plus 2 or plus 2.5",
    "kind": "tool",
-   "why": "For the model eye and the Two-Lens Telescope, if nobody at home has a pair to lend. A pavement or pharmacy pair costs about Rs 100 to 200.",
+   "why": "For the model eye and the Two-Lens Telescope, if nobody at home has a pair to lend. A pavement or pharmacy pair costs about Rs 100 to 200. This is the one item many families will not have; ask a grandparent or neighbour first.",
    "url": "https://www.amazon.in/s?k=reading+glasses+plus+2.0+men+women",
    "used_in": [
     "e2",
@@ -3150,5 +3150,5 @@
    "Eugene Hecht, Optics, a standard university textbook, for critical angles, refractive indexes, mirages and rainbow angles"
   ]
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Things to check before release: (1) Measure the Bend needs a dark room, a flat-sided box and a thin slit. The expected angles in water are about 15, 29 and 41 degrees for 20, 40 and 60, worked out from a refractive index of 1.33, and a home test should come within about 5 degrees. The outgoing line is faint with a phone torch, so a brighter LED torch may be better. (2) Build an Eye That Needs Spectacles depends on the strength of the magnifier and spectacle lenses at home, so the distances will vary. If nobody is short-sighted, the step is skipped. (3) The Glowing Water Jet works best in a really dark room with a bright torch, and the hole must be clean. (4) The Two-Lens Telescope gives a rough, upside-down picture with colour fringes, and its quality depends on the lenses. (5) Shimmer Watch uses a hot plate, so a grown-up does that part. Facts to verify: the dates for Colladon and Tyndall; Narinder Singh Kapany being called the father of fibre optics; Kapany's work in the 1950s; Hans Lipperhey's and Jacob Metius's patent requests in 1608; the date Aravind Eye Hospital was founded (1976); the 1999 and 2001 light-slowing experiments; the dates for Theodoric and Kamal al-Din; the 97 degree cone and the 49 degree critical angle for water; Scheiner's ox-eye experiment; the claim that outdoor time lowers the chance of short sight."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Things to check before release: (1) Measure the Bend needs a dark room, a flat-sided box and a thin slit. The expected angles in water are about 15, 29 and 41 degrees for 20, 40 and 60, worked out from a refractive index of 1.33, and a home test should come within about 5 degrees. The outgoing line is faint with a phone torch, so a brighter LED torch may be better. (2) Build an Eye That Needs Spectacles depends on the strength of the magnifier and spectacle lenses at home, so the distances will vary. If nobody is short-sighted, the step is skipped. (3) The Glowing Water Jet works best in a really dark room with a bright torch, and the hole must be clean. (4) The Two-Lens Telescope gives a rough, upside-down picture with colour fringes, and its quality depends on the lenses. (5) Shimmer Watch uses a hot plate, so a grown-up does that part, and the plate stays on the stove. (6) The Water Mirror now uses a box on the table edge, with the child sitting on the floor; check the silver and window views show clearly. Facts to verify: the dates for Colladon and Tyndall; Narinder Singh Kapany being called the father of fibre optics; Kapany's work in the 1950s; Hans Lipperhey's and Jacob Metius's patent requests in 1608; the date Aravind Eye Hospital was founded (1976); the 1999 and 2001 light-slowing experiments; the dates for Theodoric and Kamal al-Din; the 97 degree cone and the 49 degree critical angle for water; Scheiner's ox-eye experiment; the claim that outdoor time lowers the chance of short sight."
 }

@@ -671,7 +671,7 @@
     {
      "id": "s3",
      "mins": 14,
-     "do": "Play the other 19 cards. Take turns being the reader. The players write their slips first. Then the reader reads the back.",
+     "do": "Play the other 19 cards, or as many as the time allows. Take turns being the reader. The players write their slips first. Then the reader reads the back.",
      "say": "Read the test. Everyone writes three jobs. Now turn the card over. Who has them right? Who spotted a trap?",
      "kid": "Take turns. Read a test. Write the three jobs. Check the back.",
      "context": "In this step, you play most of the cards. Watch for the traps.",
@@ -895,7 +895,7 @@
   {
    "id": "e1",
    "title": "The Paper Spinner: does a longer wing fall slower?",
-   "mins": 50,
+   "mins": 40,
    "days": 1,
    "question": "Does a paper spinner with longer wings fall more slowly? How much do the times wobble when you drop the same spinner again and again?",
    "predict": "Before you start, guess. Which spinner will fall slowest: short wings, middle wings or long wings? How much will the five times for the same spinner differ from each other? Why do you think so? Write your guess and your reason.",
@@ -912,7 +912,7 @@
    ],
    "materials": [
     {
-     "item": "3 strips of plain paper, each 4 centimetres wide and 16 centimetres long, all cut from the same sheet",
+     "item": "3 strips of plain paper, each 4 centimetres wide and 16 centimetres long, all cut from the same sheet (ordinary notebook or printer paper)",
      "qty": 3
     },
     {
@@ -937,11 +937,11 @@
      "qty": 1
     },
     {
-     "item": "a helper to drop the spinners, standing on the floor",
+     "item": "a helper to drop the spinners, standing on the floor (a grown-up, because the drop is from about 2 metres up)",
      "qty": 1
     }
    ],
-   "safety": "Use scissors with a grown-up near. Keep the fan off. Stand on the floor, not on a chair, to drop the spinners.",
+   "safety": "Use scissors with a grown-up near. Keep the fan off. Stand on the floor, not on a chair, to drop the spinners. Paper clips are small parts: keep them away from children under five.",
    "record": "Fill in the results table. Work out the average and range for each wing length. Draw a line graph of average time against wing length.",
    "context": "In this experiment, you make three paper spinners with different wing lengths and drop each of them five times. You find out what changes the time and how much the time wobbles.",
    "setup": [
@@ -969,7 +969,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
+     "mins": 4,
      "do": "Show your child the strips. Write three headings: Change, Measure, Keep the same. Ask your child to fill them in. Then ask for a guess and a reason. Also ask how much the five times for one spinner will differ.",
      "say": "We will test spinners with different wing lengths. What do we change? What do we measure? What do we keep the same? Which spinner will fall slowest? How much will five times for the same spinner differ?",
      "kid": "Fill in: change, measure, keep the same. Which spinner will fall slowest? Why?",
@@ -984,7 +984,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write both guesses at the top. The second guess, about how much the times will differ, is new. Let your child say a number, such as a quarter of a second.",
+     "parent": "Do not correct the guess. Write both guesses at the top. The second guess, about how much the times will differ, is new. Let your child say a number, such as a quarter of a second. Roles: with one child, the child times and writes while you drop. With 2 to 4 children, one times, one writes in the table and one watches the spinner land and calls 'bumped' if it hits something. The dropper and the timer stay the same for all 15 drops, so the others can swap jobs only between spinners. Two children can also make their own set of three spinners and run them as a second set of drops, which gives you ten drops for each wing length.",
      "check": {
       "t": "mcq",
       "q": "In this test, which is the thing we change?",
@@ -999,7 +999,7 @@
     },
     {
      "id": "s2",
-     "mins": 10,
+     "mins": 8,
      "do": "1. Cut three strips of paper 4 centimetres wide and 16 centimetres long. 2. On each strip, draw a line down the middle from one short end. Make the lines 4, 6 and 8 centimetres long. 3. Cut along the lines. 4. Fold the two flaps, which are the wings, in opposite directions. 5. Fold the bottom 1 centimetre of the stem up. 6. Clip a paper clip over the fold. 7. Write 4, 6 or 8 on each stem.",
      "say": "Draw a line down the middle from the top, and cut it. That makes two wings. Fold one wing forward and one wing back. Fold the bottom up and clip it. Write the wing length on the stem.",
      "kid": "Cut three strips. Cut the wings 4, 6 and 8 centimetres long. Fold the wings. Clip the bottom.",
@@ -1028,7 +1028,7 @@
     },
     {
      "id": "s4",
-     "mins": 18,
+     "mins": 12,
      "do": "1. The helper drops the spinners in turns: 4, 6, 8, 4, 6, 8, until each has been dropped five times. 2. The timer starts the stopwatch when the spinner leaves the hand and stops it when it touches the floor. 3. Write each time in the table to the nearest tenth of a second. 4. Do not rub out any time.",
      "say": "Short, middle, long. Short, middle, long. Count 'ready, go' and start the timer when the spinner leaves the hand. Stop it when it lands. Write the time before the next drop.",
      "kid": "Drop in turns: 4, 6, 8. Time each fall. Write every time down. Do not rub out.",
@@ -1042,7 +1042,7 @@
        ]
       }
      ],
-     "parent": "Times near 1 to 2 seconds are normal. The times for one spinner will differ by a few tenths of a second, which is the wobble. Reaction time at the stopwatch is about a fifth to a quarter of a second. Do not worry about this, and do not rub out a time that looks odd. Circle it instead. If a drop touches the wall or something else, write 'bumped' and drop again.",
+     "parent": "Times from about 1 to 2.5 seconds are typical. If your spinners land in under a second, drop from a higher mark (a grown-up with an arm stretched up, standing on the floor), because a short fall makes the stopwatch error a big part of the time. The times for one spinner will differ by a few tenths of a second, which is the wobble. Reaction time at the stopwatch is about a fifth to a quarter of a second. Do not worry about this, and do not rub out a time that looks odd. Circle it instead. If a drop touches the wall or something else, write 'bumped' and drop again.",
      "wait": "Take a short break after drop 8 if your arm or eyes get tired."
     },
     {
@@ -1067,7 +1067,7 @@
     },
     {
      "id": "s6",
-     "mins": 7,
+     "mins": 6,
      "do": "Ask your child to draw a line graph of the three averages against wing length, using the table. Then ask them to write a claim, evidence and reasoning, and one limit. Read the explanation 'Why a longer wing slows a spinner'.",
      "say": "What can you say from your numbers? What is the claim? What is the evidence? Why does it happen? What can you not say?",
      "kid": "What did you find? What is the evidence? Why? What can't you say?",
@@ -1089,14 +1089,14 @@
        ]
       }
      ],
-     "parent": "A typical result is that longer wings give longer times, with times of about 1 second for 4 centimetres and 2 seconds or more for 8 centimetres, but yours will differ. If the three averages are close together, say 'we cannot tell' and repeat with more drops or a bigger change in wing length."
+     "parent": "A typical result is that longer wings give longer times, by a few tenths of a second or more, with times of about 1 to 2 seconds in all, but yours will differ and the order can even come out wrong for one pair. If the three averages are close together, say 'we cannot tell' and repeat with more drops or a bigger change in wing length."
     }
    ]
   },
   {
    "id": "e2",
    "title": "The Paper Bridge: which fold holds the most coins?",
-   "mins": 45,
+   "mins": 37,
    "days": 1,
    "question": "A flat strip of paper sags at once. Which fold makes the strongest bridge: a channel with the edges folded up, a pleated fan, or a rolled tube? How many coins does each hold?",
    "predict": "Before you start, guess. Which shape will hold the most coins, and which the fewest? About how many coins will the flat strip hold? Why do you think so? Write your guess and your reason.",
@@ -1115,17 +1115,17 @@
      "qty": 12
     },
     {
-     "item": "2 stacks of books of the same height, 15 centimetres apart",
+     "item": "2 stacks of books of the same height, about 8 centimetres tall each, 15 centimetres apart",
      "qty": 2
     },
     {
-     "item": "a small paper cup, such as a tea cup",
+     "item": "a small light cup, such as a paper tea cup or a small plastic curd cup (not a heavy steel katori)",
      "qty": 1,
      "buy": "b-cups"
     },
     {
-     "item": "about 40 coins of the same kind",
-     "qty": 40
+     "item": "about 60 coins of the same kind, such as one-rupee coins (borrow the family's loose change)",
+     "qty": 60
     },
     {
      "item": "tape, a ruler and scissors",
@@ -1136,7 +1136,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep coins away from children under five, who might put them in their mouths. Do the test on a table, not on a shelf, so falling coins do not hit feet.",
+   "safety": "Coins are small parts: keep them away from children under five, who might put them in their mouths. Do the test on a table, not on a shelf, so falling coins do not hit feet. Tape and scissors: a grown-up near.",
    "record": "Fill in the results table. Work out the average and the range for each shape. Draw a bar chart of the averages.",
    "context": "In this experiment, you fold paper into four bridge shapes and find out how many coins each can carry across a gap. You repeat each shape three times.",
    "setup": [
@@ -1175,11 +1175,11 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write the guess and the reason at the top. If your child guesses a number for the flat strip, write it."
+     "parent": "Do not correct the guess. Write the guess and the reason at the top. If your child guesses a number for the flat strip, write it. Roles: with one child, you hold the strip steady and the child adds coins and counts. With 2 to 4 children, one adds coins, one counts aloud, one watches the middle of the bridge and calls 'stop', and one writes. Swap jobs after each shape. Two children can each build a set and test them, which gives you more tries for each shape."
     },
     {
      "id": "s2",
-     "mins": 10,
+     "mins": 8,
      "do": "1. Cut 12 strips of the same paper, each 9.5 centimetres wide and 21 centimetres long. 2. Leave 3 strips flat. 3. For 3 strips, fold the two long edges up by 2.5 centimetres to make a channel. 4. For 3 strips, fold the strip lengthwise like a paper fan, into pleats about 2 centimetres wide. 5. For 3 strips, roll the strip lengthwise into a tube about 3 centimetres across, and tape the seam. 6. Mark each strip with F, C, P or T.",
      "say": "Three strips stay flat. Three get the edges folded up. Three become a fan. Three are rolled into tubes. Write the letter on each strip.",
      "kid": "Cut 12 strips. Make 3 flat, 3 channels, 3 fans and 3 tubes. Write a letter on each.",
@@ -1200,16 +1200,16 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Set up the two stacks of books with a gap of exactly 15 centimetres, measured with a ruler. Lay a flat strip across, with 3 centimetres on each stack. Place the paper cup in the middle. Practise adding one coin.",
+     "do": "Set up the two stacks of books with a gap of exactly 15 centimetres, measured with a ruler. Lay a flat strip across, with 3 centimetres on each stack. Place the cup in the middle. Practise adding one coin.",
      "say": "The books are 15 centimetres apart. The strip rests 3 centimetres on each stack. The cup goes in the middle. Add one coin gently to see how it works.",
      "kid": "Set the books 15 centimetres apart. Lay a strip across. Put the cup in the middle.",
      "context": "In this step, you set up the gap and the cup, and practise adding a coin.",
-     "parent": "Keep the stacks of books the same height and the same gap for all tests. Measure the gap with a ruler each time you reset. The cup should sit in the middle and not touch the table."
+     "parent": "Keep the stacks of books the same height and the same gap for all tests. Measure the gap with a ruler each time you reset. The cup should sit in the middle and not touch the table. The stacks should be tall enough (about 8 centimetres) for a sagging bridge to be seen clearly. If a bridge slips off the books, tape the strip lightly to the top of each stack, the same way every time."
     },
     {
      "id": "s4",
-     "mins": 18,
-     "do": "1. Test the shapes in turns: F, C, P, T, F, C, P, T, F, C, P, T. 2. Use a fresh strip each time. 3. Add coins to the cup, one at a time and gently. 4. Stop when the bridge touches the table, or falls. 5. Count the coins that were in the cup just before it failed. 6. Write the number in the table.",
+     "mins": 12,
+     "do": "1. Test the shapes in turns: F, C, P, T, F, C, P, T, F, C, P, T. 2. Use a fresh strip each time. 3. Add coins to the cup, one at a time and gently. 4. Stop when the bridge touches the table, or falls, or after 60 coins. 5. Count the coins that were in the cup just before it failed. 6. Write the number in the table.",
      "say": "Lay a fresh strip across. Add one coin at a time, gently. Keep going until the bridge touches the table. Count the coins in the cup just before it failed. Write the number down.",
      "kid": "Test the shapes in turns. Add one coin at a time. Count the coins before the bridge touches the table.",
      "context": "In this step, you test each shape three times, in turns, and count the coins.",
@@ -1228,7 +1228,7 @@
        ]
       }
      ],
-     "parent": "The flat strip usually holds a coin or two, or none. The other shapes carry many more. Which is best may surprise you. Write what happens. If a bridge falls at once because it slid off the books, write 'slipped' and try a new strip. Do not rub out any result. If a number looks odd, circle it and try again with a fresh strip."
+     "parent": "The flat strip usually holds very few coins, or none. If a shape carries all 60 coins without sagging to the table, write '60+' and treat it as a tie at the top. Then make the test harder by moving the stacks a little further apart (up to 17 centimetres, keeping 2 centimetres on each stack) and try again, or say honestly that you ran out of coins. All the numbers here are typical, not promised. The other shapes carry many more. Which is best may surprise you. Write what happens. If a bridge falls at once because it slid off the books, write 'slipped' and try a new strip. Do not rub out any result. If a number looks odd, circle it and try again with a fresh strip."
     },
     {
      "id": "s5",
@@ -1284,7 +1284,7 @@
      "qty": 1
     },
     {
-     "item": "a ruler, a tape measure or a string with a ruler",
+     "item": "a ruler (a 30 centimetre ruler placed end to end works, but wobbles more), a tape measure or a string with a ruler",
      "qty": 1,
      "buy": "b-tape"
     },
@@ -1293,8 +1293,8 @@
      "qty": 1
     },
     {
-     "item": "3 or more people to measure, including the child",
-     "qty": 3
+     "item": "1 or more other people to measure, besides the child",
+     "qty": 1
     }
    ],
    "schedule": [
@@ -1324,7 +1324,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Choose one straight edge of the table. 2. Your child measures it five times, to the nearest centimetre. They write each number on a new line without looking at the earlier ones. 3. Each other person measures it once and writes the number on a slip, without showing anyone.",
+     "do": "1. Choose one straight edge of the table. 2. Your child measures it five times, to the nearest centimetre. They write each number on a new line without looking at the earlier ones. 3. Each other person measures it once and writes the number on a slip, without showing anyone. If you are only two, you measure five times too, without looking at your child's numbers. With 2 to 4 children, each child measures five times, so you have 10 to 20 numbers.",
      "say": "Measure this edge of the table to the nearest centimetre. Write the number. Then do it again, as if it were the first time. Do you think all five numbers will be the same?",
      "kid": "Measure the table edge five times. Write each number. Do not peek at the old ones.",
      "context": "This is the first step of Measure the Table Ten Times. You measure the same edge again and again.",
@@ -1346,7 +1346,7 @@
      "say": "Put all the numbers in a row. What is the smallest? What is the biggest? How far apart are they? Now add them up and divide by how many there are.",
      "kid": "Put the numbers in a row. Find the smallest and the biggest. Find the average.",
      "context": "In this step, you work out the range and the average of your measurements.",
-     "parent": "Expect a spread of 1 to 3 centimetres on a table about a metre long. If someone is far out, ask how they held the tape. The average of many measurements is usually a better guess at the true length than any one.",
+     "parent": "Typically the numbers spread by about 1 to 3 centimetres on a table about a metre long, and more with a short ruler placed end to end. If someone is far out, ask how they held the tape. The average of many measurements is usually a better guess at the true length than any one.",
      "check": {
       "t": "mcq",
       "q": "Five measurements of a table are 120, 121, 120, 122 and 120 centimetres. What is the range?",
@@ -1436,7 +1436,7 @@
      "kid": "A grown-up sets up two cloths. Something is not fair. Wait until you are called in.",
      "context": "This is the first step of The Sneaky Variable. A grown-up sets up the unfair test in secret.",
      "adult": true,
-     "parent": "Make three differences, not more: the amount of water, the place, and the size of the cloth. Do not tell your child how many. Keep the setup safe and dry underneath."
+     "parent": "Make three differences, not more: the amount of water, the place, and the size of the cloth. Do not tell your child how many. Keep the setup safe and dry underneath. With brothers and sisters, an older child can set it up for the others, with a grown-up checking the fan. Take turns."
     },
     {
      "id": "s2",
@@ -1472,7 +1472,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Now ask your child to say how they would make it fair. Fix the test. Wet both cloths the same, use the same size, and hang them side by side in the same place. You do not need to wait for them to dry.",
+     "do": "Now ask your child to say how they would make it fair. Fix the test. Wet both cloths the same, use the same size, and hang them side by side in the same place. You do not need to wait for them to dry. If you like, leave the unfair set-up and look again after an hour. Ask: did the first cloth dry first because of the cloth, the water, the size or the place? Nobody can say, and that is the point.",
      "say": "How would you fix it? What do you keep the same? What is the one thing you change?",
      "kid": "Fix the test. What stays the same? What is the one thing you change?",
      "context": "In this step, you fix the unfair test and name the three jobs.",
@@ -1555,11 +1555,11 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Toss the coin ten times and make a tally of the heads. 2. Write the number of heads for that set. 3. Do four more sets of ten tosses. 4. If another person is there, they do five sets too.",
+     "do": "1. Toss the coin ten times and make a tally of the heads. 2. Write the number of heads for that set. 3. Do four more sets of ten tosses. 4. If another person is there, they do five sets too, and you can put all the sets side by side. With 2 to 4 children, each toss their own five sets with their own coin, or share one coin and take turns.",
      "say": "Toss the coin ten times. Count the heads. Write the number. Do it again. We want five sets in all.",
      "kid": "Toss ten times. Count the heads. Do it five times.",
      "context": "In this step, you toss the coin and count the heads in five sets.",
-     "parent": "Typical counts are between 3 and 7. Do not worry if you get a 2 or an 8 now and then. That is chance too.",
+     "parent": "Typical counts are between 3 and 7, though a 2 or an 8 can happen. Do not worry if you get a 2 or an 8 now and then. That is chance too.",
      "wait": "If you get tired, take a short break after set 3."
     },
     {
@@ -1600,7 +1600,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "squared paper or a page ruled into squares",
+     "item": "squared paper (graph paper or a graph notebook from a stationery shop, a few rupees) or plain paper with squares ruled lightly in pencil",
      "qty": 1
     },
     {
@@ -1643,7 +1643,7 @@
      "say": "Draw two lines. The one along the bottom is for what we change, the wing length. The one up the side is for what we measure, the time. Label both with units.",
      "kid": "Draw two lines. Bottom: wing length. Side: fall time. Add units and a title.",
      "context": "This is the first step of From Table to Line. You draw the axes.",
-     "parent": "If you did not do the Paper Spinner test, use these example averages: 4 centimetres gives 12 tenths of a second, 6 gives 16 and 8 gives 21. They are not from a real test, so say so on the graph."
+     "parent": "If you did not do the Paper Spinner test, use these example averages: 4 centimetres gives 12 tenths of a second, 6 gives 16 and 8 gives 21. They are not from a real test, so say so on the graph. With 2 to 4 children, each child draws their own graph from the shared table, then compare."
     },
     {
      "id": "s2",
@@ -1704,15 +1704,15 @@
    "mins": 55,
    "materials": [
     {
-     "item": "6 small steel katoris or saucers, labelled A, B, C, D, E and F",
+     "item": "6 small steel katoris or saucers (small plates or lids will do), labelled A, B, C, D, E and F",
      "qty": 6
     },
     {
-     "item": "kitchen tissue or a clean cotton cloth, cut to fit each katori",
+     "item": "kitchen tissue, a clean cotton cloth or a paper napkin, cut to fit each katori",
      "qty": 1
     },
     {
-     "item": "60 whole moong seeds (green gram), all unbroken",
+     "item": "60 whole moong seeds (green gram) from the kitchen, all unbroken and fresh from the same packet",
      "qty": 60
     },
     {
@@ -1779,7 +1779,7 @@
        ]
       }
      ],
-     "parent": "Use the same kind of seed from the same packet. Throw out cracked seeds. Keep the katoris side by side so the warmth is the same. Whatever you find is a real result.",
+     "parent": "Use the same kind of seed from the same packet. Throw out cracked seeds. Keep the katoris side by side so the warmth is the same. Whatever you find is a real result. Before you begin, soak 5 seeds overnight: if they do not show a tail in 2 days, the packet is too old, so use another. Roles: with one child, the child sets up and you check. With 2 to 4 children, each looks after one amount of water (none, a little or plenty) and writes their own two katoris; the youngest counts the seeds out. If nothing sprouts even with plenty of water, the cause is old seeds or cold weather, so repeat in a warmer place. In hot, dry weather the one-teaspoon katoris can dry out by evening, so say so in your conclusion. Typically moong with plenty of water shows tails within 2 to 3 days, but your numbers will differ.",
      "check": {
       "t": "mcq",
       "q": "Why does each amount of water get two katoris?",
@@ -1838,11 +1838,11 @@
   {
    "id": "c1",
    "title": "Slowest Fall: engineer the slowest spinner and prove it",
-   "mins": 45,
+   "mins": 40,
    "problem": "Make a paper spinner that falls more slowly than your 6 centimetre-wing spinner. Then prove that it falls slower, using five drops of each and the average and range.",
    "constraints": [
-    "Use one piece of paper no bigger than 10 centimetres by 20 centimetres, and one paper clip.",
-    "Tape is allowed, but no extra paper. The paper and clip must weigh the same for the baseline and your new design.",
+    "Use two equal pieces of the same paper, each no bigger than 10 centimetres by 20 centimetres, and two paper clips of the same size. Cut the baseline and the new design from these.",
+    "Tape is allowed, but no extra paper. Trim no more paper off one design than the other, or say how much you trimmed, so the weights stay nearly the same.",
     "Drop both from the same mark on the wall, with the fan off.",
     "Change only one thing at a time. Say which thing you changed.",
     "Each design must be dropped at least five times."
@@ -1853,7 +1853,7 @@
     "a phone stopwatch or a watch with a second hand",
     "a helper to drop",
     "a notebook and a pencil",
-    "your 6 centimetre spinner from the Paper Spinner test, or a new one"
+    "a baseline 6 centimetre-wing spinner, made again from one of the equal pieces of paper"
    ],
    "general": [
     "Make the wings longer or wider. More wing area means more air resistance.",
@@ -1864,7 +1864,7 @@
     "Fold the tips of the wings a little to keep them stiff, so they do not droop as the spinner spins.",
     "Try a very different shape, such as a single-winged spinner like a maple seed, and time that."
    ],
-   "safety": "Use scissors with a grown-up near. Stand on the floor, not on a chair, to drop the spinners. Keep the fan off.",
+   "safety": "Use scissors with a grown-up near. Stand on the floor, not on a chair, to drop the spinners. Keep the fan off. Paper clips are small parts: keep them away from children under five.",
    "your_turn": "Choose a different thing to slow down, such as a paper cup parachute or a leaf-shaped glider. Plan a test with the three jobs, repeat it five times, and show your averages and ranges.",
    "context": "This is a design challenge. You improve a paper spinner by changing one thing at a time and prove it with repeated measurements.",
    "setup": [
@@ -1884,7 +1884,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 8,
+     "mins": 6,
      "do": "Read the problem together. Ask your child to sketch two or three ideas. Ask which one thing they will change. Ask what they will keep the same.",
      "say": "You need to beat your 6 centimetre spinner. What could make a spinner fall slower? Which one thing will you change first?",
      "kid": "Sketch two ideas. Choose one thing to change first.",
@@ -1899,11 +1899,11 @@
        ]
       }
      ],
-     "parent": "If your child wants to change two things at once, ask: 'If it works, how will you know which one did it?'"
+     "parent": "If your child wants to change two things at once, ask: 'If it works, how will you know which one did it?' With 2 to 4 children, each child builds their own design and all of them compete against the same baseline, with one dropper and one timer. With one child, you can be the dropper."
     },
     {
      "id": "s2",
-     "mins": 15,
+     "mins": 14,
      "do": "1. Drop the baseline spinner five times and write each time. 2. Build the new design. 3. Test it once, to be sure it spins. 4. Drop it five times and write each time. 5. Drop in turns, baseline, new, baseline, new.",
      "say": "First, the baseline. Five drops, five times. Then your new spinner. Five drops, five times. Drop in turns, so tiredness and draughts affect both.",
      "kid": "Drop your old spinner five times. Then your new one. Write every time.",
@@ -1912,7 +1912,7 @@
     },
     {
      "id": "s3",
-     "mins": 12,
+     "mins": 10,
      "do": "Work out the average and range for both designs. Ask whether the gap between the averages is bigger than the spread in each set. Ask for a claim, evidence and reasoning.",
      "say": "What is the average for the old spinner? What is it for the new one? Is the gap bigger than the spread within each set? Can you prove your design is slower?",
      "kid": "Find both averages and ranges. Is the gap bigger than the spread? Did you prove it?",
@@ -3093,7 +3093,7 @@
    "id": "b-clips",
    "item": "A box of paper clips, all the same size",
    "kind": "material",
-   "why": "For the Paper Spinner test and the Slowest Fall challenge. Clips of the same size keep the weight the same.",
+   "why": "For the Paper Spinner test and the Slowest Fall challenge. Clips of the same size keep the weight the same. They cost about Rs 10 and most homes already have some.",
    "url": "https://www.amazon.in/s?k=paper+clips+box+stationery",
    "used_in": [
     "e1",
@@ -3104,7 +3104,7 @@
    "id": "b-cups",
    "item": "A pack of small paper cups",
    "kind": "material",
-   "why": "For the Paper Bridge test. A light cup holds the coins in the middle of the bridge.",
+   "why": "For the Paper Bridge test. A light cup holds the coins in the middle of the bridge. Cost: about Rs 20 for a pack. Any light small plastic curd cup also works.",
    "url": "https://www.amazon.in/s?k=paper+cups+small+tea+cups",
    "used_in": [
     "e2"
@@ -3114,7 +3114,7 @@
    "id": "b-tape",
    "item": "A soft measuring tape for sewing",
    "kind": "tool",
-   "why": "For measuring the table in Measure the Table Ten Times. A tailor's tape is easy to pull straight.",
+   "why": "For measuring the table in Measure the Table Ten Times. A tailor's tape is easy to pull straight. Cost: about Rs 20 to 30. If you cannot get one, use a ruler placed end to end, or a string marked and then measured.",
    "url": "https://www.amazon.in/s?k=measuring+tape+body+sewing+150+cm",
    "used_in": [
     "a1"

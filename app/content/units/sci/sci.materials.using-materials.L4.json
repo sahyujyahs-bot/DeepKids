@@ -723,7 +723,8 @@
      "do": "1. Cut out the 20 cards. 2. Shuffle them and put them face down. 3. Put the tokens in a bowl. 4. Choose a first reader.",
      "say": "Every card has a job and three materials. Nothing is perfect. We choose and name the catch.",
      "kid": "Cut out the cards. Shuffle them. Put out the tokens.",
-     "context": "This is the first step of Which Material, and What's the Catch?, a game about choosing materials for jobs."
+     "context": "This is the first step of Which Material, and What's the Catch?, a game about choosing materials for jobs.",
+     "parent": "Works with one child and a parent, or 2 to 4 children. The reader changes after each card. The youngest player can read the first card with help."
     },
     {
      "id": "s2",
@@ -1069,12 +1070,12 @@
      "qty": 2
     },
     {
-     "item": "a small paper cup and thread, to hang under the bar",
+     "item": "a small paper or plastic cup (about 200 ml) and thread, to hang under the bar. For a bar that holds more than the cup, use a mug with a handle",
      "qty": 1,
      "buy": "b-cup"
     },
     {
-     "item": "a jug of water and a medicine cup or a measuring cup marked in millilitres",
+     "item": "a jug of water and a medicine cup or a measuring cup marked in millilitres. If you have neither, count tablespoons (one level tablespoon is about 15 ml)",
      "qty": 1,
      "buy": "b-cup"
     },
@@ -1083,7 +1084,7 @@
      "qty": 1
     }
    ],
-   "safety": "The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff the bar. Throw the bar away and make another. A grown-up should use the scissors. Wash your hands after the paste. Maida is wheat flour, so a child with a wheat allergy should not handle the dry flour or paste.",
+   "safety": "The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff the bar. Throw the bar away and make another. A grown-up should use the scissors. Wash your hands after the paste. Scissors are for the grown-up only. Keep a tray under the cup so the water does not wet the floor. Maida is wheat flour, so a child with a wheat allergy should not handle the dry flour or paste.",
    "record": "Write what each bar was made of. Write the water each bar held in millilitres and how it failed. Then draw a bar chart with one bar for each kind, using the bigger of the two results. Work out how many times stronger the layered bar was than the paste bar and than the paper stack.",
    "context": "In this experiment, you make four kinds of bar from newspaper and flour paste, dry them for two days, and test how much water each can hold. You find out whether two weak things together can be strong.",
    "setup": [
@@ -1139,9 +1140,9 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Mix 6 level tablespoons of flour with a pinch of salt in a bowl. 2. Add cold water a spoon at a time, until the paste is smooth and thick like curd. 3. Cut 16 newspaper strips (4 for each of bars B and C, two bars of each), each 4 centimetres wide and 20 centimetres long.",
-     "say": "Make the paste smooth, with no lumps. It should be as thick as curd. The pinch of salt helps keep the mould away.",
+     "say": "Make the paste smooth, with no lumps. It should be as thick as curd. The pinch of salt may help slow the mould.",
      "kid": "Mix flour and water into a paste. Cut the paper into strips.",
-     "parent": "Use cold paste. There is no need to cook it. Cut all the strips the same size with a ruler. Cutting strips with the grain, along the long side of the newspaper, gives stronger strips, but just keep them all the same direction.",
+     "parent": "Use cold paste. One batch makes the eight bars of one child. With 2 or more children, each child makes their own batch and their own A, B, C and D (one of each kind). The two children's bars together give the two bars of each kind, and a different child tests each bar than the one who made it. There is no need to cook it. Cut all the strips the same size with a ruler. Cutting strips with the grain, along the long side of the newspaper, gives stronger strips, but just keep them all the same direction.",
      "adult": true,
      "context": "In this step, you make the paste and cut the paper."
     },
@@ -1151,7 +1152,7 @@
      "do": "Bar A: spread a layer of paste about 3 millimetres thick, 20 centimetres by 4 centimetres, on a plastic sheet. Bar B: stack 4 dry strips of paper, and lay them next to the others. Bar C: brush paste on 4 strips, stack them and press flat. Bar D: stir a tablespoon of shreds into some paste, and spread it like bar A. Make two bars of each kind.",
      "say": "Bar A is plain paste. Bar B is four dry strips. Bar C is four strips glued with paste. Bar D is paste with shreds. Two of each.",
      "kid": "Make two of each bar. Label them A, B, C and D.",
-     "parent": "Bar B is not glued. It is just a stack of paper, for comparison. Keep paste thickness the same in A and D. Press C flat with your palm and smooth out bubbles. Label each bar with tape and a letter on the plastic sheet.",
+     "parent": "Bar B is not glued. It is just a stack of paper, for comparison. Keep paste thickness the same in A and D. Press C flat with your palm and smooth out bubbles. Make the paste layers about 2 to 3 millimetres thick. A thicker layer cracks and curls as it dries. Label each bar with tape and a letter on the plastic sheet.",
      "check": {
       "t": "mcq",
       "q": "Why do we make two bars of each kind?",
@@ -1172,7 +1173,7 @@
      "do": "Put the bars on a tray in a warm, shady place, such as a shelf near a window. Do not touch them. Write down the date and the time. They need two days to dry.",
      "say": "The bars need two full days to dry. Do not touch them. Keep them out of the rain.",
      "kid": "Put the bars on a tray. Leave them for two days.",
-     "parent": "If the weather is very damp, dry the bars near a fan, or for three days. A bar that is still soft in the middle will be weak, so wait until it feels hard and dry all through.",
+     "parent": "If the weather is very damp, dry the bars near a fan, or give them three or four days. Flour paste 3 millimetres thick can take longer than two days in monsoon damp. Press a bar with a fingernail: it is ready when it is hard all through. Bars may curl a little at the edges. Press them flat under a book for the last hour. If a bar grows white or green mould, throw the bar away and make another. A bar that is still soft in the middle will be weak, so wait until it feels hard and dry all through.",
      "context": "In this step, you set the bars to dry. The test is two days later."
     },
     {
@@ -1199,7 +1200,7 @@
      "do": "Draw a chit for the first bar. Rest it across the gap. Hang the empty cup from its middle. Pour water into the cup from the jug, slowly and steadily. Stop when the bar snaps or the middle sinks 2 centimetres. Pour the water from the cup into a medicine cup and read the millilitres. Test all eight bars.",
      "say": "Rest the bar across the gap. Hang the cup. Pour slowly. Stop when the bar snaps or sinks two centimetres. Measure the water.",
      "kid": "Test one bar at a time. Pour slowly. Measure the water.",
-     "parent": "The cup itself weighs a little, so the same cup is used each time. Pour at the same speed. Keep a tray under the cup. Bar B, the loose paper stack, will sag at once with only a few millilitres, and that is the right result.",
+     "parent": "The cup itself weighs a little, so the same cup is used each time. Pour at the same speed. Keep a tray under the cup. Bar B, the loose paper stack, usually sags with only a few millilitres, and that is a good result. Bar C may hold more than a cup of water. If the cup is full and the bar has not failed, empty the cup into the measuring cup, write it down, refill and carry on, then add the totals. Roles for 2 to 4 children: one pours, one watches the ruler and says stop, one reads the millilitres, one writes. Swap roles for each bar.",
      "context": "In this step, you test each bar. One millilitre of water weighs about one gram."
     },
     {
@@ -1225,7 +1226,7 @@
        ]
       }
      ],
-     "parent": "A good reasoning sentence: the paste alone is brittle and the paper alone bends, but the paste holds the paper layers together so they cannot slide, and the paper stops cracks running through the paste. If bar D did better than bar A, the fibres stopped cracks. If not, say so honestly.",
+     "parent": "A good reasoning sentence: the paste alone is brittle and the paper alone bends, but the paste holds the paper layers together so they cannot slide, and the paper stops cracks running through the paste. If bar B held 0 ml, write \"less than 1 ml\" and say bar C held \"many times more\", not an exact number. If bar D did better than bar A, the fibres stopped cracks. If not, say so honestly.",
      "context": "In this step, you turn the numbers into a chart and write what you found."
     },
     {
@@ -1283,7 +1284,7 @@
    ],
    "materials": [
     {
-     "item": "7 clear plastic or glass cups or jars, all the same size",
+     "item": "7 clear plastic or glass cups or jars, all the same size (clear disposable cups from a kirana or curd tubs will do)",
      "qty": 7,
      "buy": "b-jars"
     },
@@ -1313,12 +1314,12 @@
      "qty": 1
     }
    ],
-   "safety": "Wash your hands after touching soil, and do not put your fingers in your mouth. Do not sniff the cups, because mould spores are not good to breathe in. Use gloves when you dig out the scraps. Keep the cups away from babies and pets. Throw the soil and scraps away outside when you finish.",
+   "safety": "Wash your hands after touching soil, and do not put your fingers in your mouth. Do not sniff the cups, because mould spores are not good to breathe in. Use gloves when you dig out the scraps. A grown-up should dig if the child has asthma or a mould allergy. Banana peel can attract fruit flies, so keep the cups loosely covered. A grown-up should cut the foil and plastic with scissors. Keep the cups away from babies and pets. Throw the soil and scraps away outside when you finish.",
    "record": "Write down what you see through the side of each cup on day 7. On day 14, give each scrap a score from 0 to 4. Tear each dug-up piece and its spare, and write which is easier to tear. Draw a table, and then sort the scraps into rots, changed a little and unchanged.",
    "context": "In this experiment, you bury six scraps in damp soil for two weeks and see what comes back to the earth. You score each scrap, and you keep a spare dry piece to compare.",
    "setup": [
     {
-     "art": "Seven clear cups in a row on a sunny windowsill, each with damp soil and a different scrap pressed against the glass at the side.",
+     "art": "Seven clear cups in a row on a bright shelf, each with damp soil and a different scrap pressed against the glass at the side.",
      "caption": "1. Bury a scrap in each cup, near the glass. Leave one cup with soil only."
     },
     {
@@ -1368,7 +1369,7 @@
      "do": "1. Cut each scrap to about 5 centimetres square. 2. Cut a spare piece of each and put the spares in an envelope. 3. Fill each cup three-quarters full with soil. 4. Dampen the soil with a spoon of water. 5. Press a scrap against the glass of each cup and cover it with soil.",
      "say": "Fill each cup with soil. Dampen the soil. Press one scrap against the glass. Cover it. Label the cup.",
      "kid": "Fill the cups. Press a scrap against the glass. Cover it.",
-     "parent": "Seven cups: one for each of six scraps, and one with soil only. Put the cups in a warm, shady place such as a balcony or a windowsill, but not in direct hot sun. Loosely cover the tops with a plate or paper, so that flies stay out and air gets in.",
+     "parent": "Seven cups: one for each of six scraps, and one with soil only. Put the cups in a warm, shady place such as a balcony or a windowsill, but not in direct hot sun. Loosely cover the tops with a plate or paper, so that flies stay out and air gets in. With 2 to 4 children, everyone makes a guess for all six scraps, but each child buries and looks after only two cups. One child looks after the soil-only cup. On day 14 each child reports to the others.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep a cup with soil only and no scrap?",
@@ -1386,9 +1387,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Every three days, sprinkle one spoon of water on each cup. Check that the soil stays damp but not wet. Write the date on the label.",
+     "do": "Every three days, touch the soil. It should feel like a squeezed-out sponge. If it feels dry, sprinkle one or two spoons of water on the cup. If it feels wet or sticky, add no water and leave the cover off for a day. In hot dry weather you may need water more often. In the monsoon, you need less. Write the date on the label.",
      "say": "Every three days, add one spoon of water to each cup. Keep the soil damp, not wet.",
-     "kid": "Add a spoon of water every three days.",
+     "kid": "Check the soil every three days. Add a little water if it is dry.",
      "context": "In this step, you keep the soil damp. Damp soil is where bacteria and fungi do their work."
     },
     {
@@ -1414,7 +1415,7 @@
        ]
       }
      ],
-     "parent": "By day 7, the banana peel is usually brown and soft, and may have white or grey mould. The paper may be darker and soft. The rest usually look the same. Do not open the cups if you see mould.",
+     "parent": "By day 7, the banana peel is usually brown and soft, and may have white or grey mould. The paper may be darker and soft. The rest usually look the same. If you see mould, that is normal. Do not open the cups and do not sniff them. Which scraps changed first may differ in your home, as the weather changes the speed.",
      "context": "In this step, you look at the scraps halfway. Do not touch them yet."
     },
     {
@@ -1473,11 +1474,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "4 different cups from the kitchen: a steel tumbler, a plastic cup, a paper cup and a glass or clay cup",
+     "item": "4 different cups from the kitchen: a steel tumbler, a plastic cup, a paper cup and a glass or clay cup (a clay kullad costs a few rupees at a tea stall)",
      "qty": 4
     },
     {
-     "item": "a jug of warm tap water that is not hot, checked by a grown-up",
+     "item": "a jug of hot water, as hot as tea that you can sip, from a flask or a kettle that has rested for a few minutes, poured by a grown-up. Keep a little cold water in a second jug",
      "qty": 1
     },
     {
@@ -1508,8 +1509,8 @@
      "caption": "1. Line up the four cups on paper napkins."
     },
     {
-     "art": "A child holding the outside of each cup after warm water has been poured into it, with a grown-up checking the water.",
-     "caption": "2. Pour warm water into each cup and hold the outside for 20 seconds."
+     "art": "A child holding the outside of each cup after hot drinking water has been poured into it by a grown-up.",
+     "caption": "2. Pour hot drinking-temperature water into each cup and hold the outside for 20 seconds."
     },
     {
      "art": "A table on paper with the four cups down the side and five needs across the top, with weights and totals.",
@@ -1538,10 +1539,10 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Lift each cup and score its weight from 1 to 5. A light cup scores 5. 2. A grown-up pours about 100 millilitres of warm tap water into each cup. 3. Hold the outside for 20 seconds. Score how comfortable it is from 1 to 5. 4. Pour the water out. Fill each cup with cold water and leave it on a napkin for 10 minutes. Score leaks from 1 to 5.",
+     "do": "1. Lift each cup and score its weight from 1 to 5. A light cup scores 5. 2. A grown-up pours about 100 millilitres of hot drinking-temperature water into each cup, one at a time. 3. Touch the outside and then hold it for 20 seconds, only if it is comfortable. Let go if it feels too hot. Score how comfortable it is from 1 to 5. 4. Pour the water out. Fill each cup with cold water and leave it on a napkin for 10 minutes. Score leaks from 1 to 5.",
      "say": "Lift each cup and score it. Then warm water. Hold the outside. Score it. Then cold water on a napkin for ten minutes. Score leaks.",
      "kid": "Lift each cup. Hold the warm cup. Check the leaks.",
-     "parent": "Use only warm tap water, not boiling water. The steel cup will feel hotter than the plastic cup, and the paper cup may seep at the seam. Write the scores down as you go.",
+     "parent": "Use water you could sip, never boiling water. Tap water that is only warm feels the same in every cup, so use hot water from a flask. The steel cup and the glass cup will usually feel hottest. A coated paper cup often does not leak at all, while an unglazed clay cup may sweat on the outside. If nothing leaks, give all cups a 5. That is a real result. Handle the glass cup with care. With 2 to 4 children, each child scores alone first, then compare. If scores differ, discuss why. Roles: one pours (a grown-up), one times, one writes. Write the scores down as you go.",
      "adult": true,
      "context": "In this step, you test the cups for weight, comfort and leaks. A leak shows up as a wet patch on the napkin."
     },
@@ -1588,7 +1589,7 @@
        ]
       }
      ],
-     "parent": "Good discussion: the scores are your judgement, not facts. Two families could disagree. Ask: what would make you change a score?",
+     "parent": "With 2 to 4 children, each child does one job's matrix, then swap and check each other's sums. Good discussion: the scores are your judgement, not facts. Two families could disagree. Ask: what would make you change a score?",
      "context": "In this step, you score the same cups for a second job. The winner may change."
     }
    ]
@@ -1652,7 +1653,7 @@
        ]
       }
      ],
-     "parent": "Good objects: a steel katori (iron ore), a cotton shirt (cotton plant), a plastic bottle (oil or gas), a pencil (wood and graphite).",
+     "parent": "With 2 to 4 children, each child chooses a different object and presents their circle to the others. Good objects: a steel katori (iron ore), a cotton shirt (cotton plant), a plastic bottle (oil or gas), a pencil (wood and graphite).",
      "context": "This is the first step of Follow a Thing. You choose the object and guess its source."
     },
     {
@@ -1749,7 +1750,7 @@
      "do": "Ask your child to write five questions for an older person. Suggestions: what did you drink from, eat from, carry shopping in, write on and wrap things in when you were young?",
      "say": "Write five questions for a grandparent about the things they used when they were young. What did they drink from? What did they carry things in?",
      "kid": "Write five questions for an older person.",
-     "parent": "Choose someone your child feels easy with. Phone calls are fine.",
+     "parent": "With 2 to 4 children, each child writes the questions, then take turns to ask on a call, or interview a different person each and share. Choose someone your child feels easy with. Phone calls are fine.",
      "context": "This is the first step of Ask a Grandparent. You prepare your questions."
     },
     {
@@ -1799,11 +1800,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "10 strips of brown paper or newspaper, each 4 centimetres wide and 25 centimetres long",
+     "item": "10 strips of newspaper, each 2 centimetres wide and 25 centimetres long",
      "qty": 10
     },
     {
-     "item": "scissors used by a grown-up, tape, thread and a needle with a blunt tip",
+     "item": "scissors used by a grown-up, wide sticky tape, thread and a needle with a blunt tip",
      "qty": 1
     },
     {
@@ -1811,31 +1812,35 @@
      "qty": 1
     },
     {
-     "item": "a small cup or bag, a thread to hang it, and coins or rice grains for the load",
+     "item": "a bucket or a mug with a handle and a loop of string, to hang from the strip",
      "qty": 1
     },
     {
-     "item": "2 clothes pegs and a pencil resting on 2 piles of books to hang the strips from",
+     "item": "a jug or bottle of water and a measuring cup or a glass, to measure the water added",
      "qty": 1
+    },
+    {
+     "item": "2 pencils or sticks, and the backs of two chairs or two piles of books to hang the strips from",
+     "qty": 2
     }
    ],
    "schedule": [
     {
      "day": 1,
      "mins": 35,
-     "what": "Cut 2 centimetres into each strip. Mend them in three ways, leave one unmended, then load each strip until it tears. Compare."
+     "what": "Cut 1 centimetre into each strip. Mend them in three ways, leave one unmended, then load each strip with water until it tears. Compare."
     }
    ],
-   "record": "A table with four rows: unmended, tape, paste patch and stitched. For each, the number of coins that the strip held before it tore. A note on which mend was strongest and which was easiest.",
+   "record": "A table with four rows: unmended, tape, paste patch and stitched. For each, the water in millilitres that the strip held before it tore (one millilitre weighs about one gram). A note on which mend was strongest and which was easiest.",
    "context": "In this activity, you tear strips of paper, mend them in three different ways and test which mend is strongest. This is about repair, the third step in reduce, reuse, repair and recycle.",
    "setup": [
     {
      "art": "Four paper strips with a cut halfway across the edge, one left plain, one with tape, one with a paste patch and one with stitches.",
-     "caption": "1. Cut a 2 centimetre slit into each strip. Mend three of them in different ways."
+     "caption": "1. Cut a 1 centimetre slit into each strip. Mend three of them in different ways."
     },
     {
-     "art": "A strip hanging from a peg, with a small bag of coins hanging from the bottom and a hand adding a coin.",
-     "caption": "2. Hang each strip. Add coins one at a time until it tears."
+     "art": "A strip hung from a pencil, with a bucket hanging from the bottom and a hand pouring water from a jug.",
+     "caption": "2. Hang each strip. Pour water slowly into the bucket until it tears."
     }
    ],
    "flow": [
@@ -1861,7 +1866,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Cut a slit 2 centimetres long, halfway across the edge of 4 strips. 2. Leave one strip unmended. 3. Put a strip of tape over the slit on the second strip. 4. Stick a paste patch on the third. 5. Sew three stitches across the slit on the fourth strip. Let the paste patch dry for 10 minutes.",
+     "do": "1. Cut a slit 1 centimetre long, halfway across the edge of 4 strips (each strip is 2 centimetres wide). 2. Leave one strip unmended. 3. Put a strip of tape over the slit on the second strip. 4. Stick a paste patch on the third. 5. Sew three stitches across the slit on the fourth strip. Let the paste patch dry for 10 minutes.",
      "say": "Cut a slit in each strip. Leave one alone. Mend one with tape, one with a paste patch and one with stitches. Wait ten minutes for the paste to dry.",
      "kid": "Cut slits. Mend three strips three ways. Leave one.",
      "parent": "A slit is a small crack. A mend can spread the load round it. Use the same size of tape, patch and number of stitches for each. Keep the mended area the same size.",
@@ -1871,10 +1876,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Clip the top of each strip in a peg hung from the pencil. Clip the bottom in a second peg tied to a cup. Add coins to the cup one at a time until the strip tears. Count the coins. Test the unmended strip too.",
-     "say": "Hang each strip. Add coins one at a time. Count them. Stop when it tears.",
-     "kid": "Hang a strip. Add coins one at a time. Count them.",
-     "parent": "Do two strips of each kind if you have time, and write both numbers. The unmended strip with a slit is your base number to beat.",
+     "do": "Fold 2 centimetres at the top end of the strip over a pencil and tape it down well with wide tape. Do the same at the bottom end over a second pencil, and tie a string from that pencil to the bucket. Rest the top pencil across the backs of two chairs. Pour water slowly into the bucket until the strip tears. Measure the water in the bucket. Test the unmended strip too.",
+     "say": "Hang each strip. Pour water slowly into the bucket. Stop when it tears. Measure the water.",
+     "kid": "Hang a strip. Pour water slowly. Measure the water when it tears.",
+     "parent": "Pour at the same speed each time, and keep feet clear: the bucket will drop. Newspaper is stronger than it looks; a strip this size typically holds a kilogram or more, so use a bucket and be ready to pour for a while. If the strip tears at the tape and not at the slit, write that down: the mend was stronger than the paper. If every strip holds too much, make the slit longer, up to 1.5 centimetres. Do two strips of each kind if you have time. The unmended strip with a slit is your base number to beat. With 2 to 4 children, one pours, one watches the strip, one measures and one writes; swap for each strip.",
      "context": "In this step, you test each mend. Add coins gently, one at a time."
     },
     {
@@ -2003,7 +2008,7 @@
      "qty": 6
     },
     {
-     "item": "a big bowl and water",
+     "item": "a big bowl and water, and a wide basin or tub for dipping the mesh",
      "qty": 1
     },
     {
@@ -2011,7 +2016,7 @@
      "qty": 1
     },
     {
-     "item": "a fine mesh, such as a piece of mosquito net or a window screen, stretched on a frame, or a large sieve",
+     "item": "a fine mesh, such as a piece of mosquito net, a net curtain or thin old cotton cloth, over a large sieve or stretched on a frame. A kitchen sieve with fine holes also works",
      "qty": 1,
      "buy": "b-mesh"
     },
@@ -2024,7 +2029,7 @@
      "qty": 1
     },
     {
-     "item": "2 clothes pegs, a small cup, thread and coins, to test the strips",
+     "item": "2 pencils or sticks, wide sticky tape, a bucket or mug with a handle, string, and a jug of water, to test the strips",
      "qty": 1
     }
    ],
@@ -2045,7 +2050,7 @@
      "what": "Peel off the new sheet and test strips of it against strips of newspaper."
     }
    ],
-   "record": "Photographs or drawings of each stage. The number of coins that strips of new paper and old newspaper held. A note on how the new sheet looks and feels compared with the old paper.",
+   "record": "Photographs or drawings of each stage. The water in millilitres that strips of new paper and old newspaper held. A note on how the new sheet looks and feels compared with the old paper.",
    "context": "In this project, you break old paper back into fibres and make a new sheet of paper from them. You test it against the old paper, and find out why recycling can make paper weaker.",
    "setup": [
     {
@@ -2101,7 +2106,7 @@
      "do": "Fill a tray with water. Stir in two big spoons of pulp. Slide the mesh under the water and lift it slowly, so a thin layer of pulp lies on it. Let the water drain. Press the layer with a towel to take up more water. Turn the mesh over on a clean towel and peel the mesh off. Cover the sheet with a second towel and put heavy books on top for an hour.",
      "say": "Slide the mesh under the pulp. Lift slowly. Let the water drip. Press with a towel. Turn the sheet onto a towel. Put books on top.",
      "kid": "Scoop the pulp on the mesh. Press out the water. Stack books on top.",
-     "parent": "The first sheet may be lumpy or too thin. Try again with more or less pulp. Make 2 or 3 sheets if you can. Use a clean pencil to write the amount of pulp on the towel.",
+     "parent": "With 2 to 4 children, each child makes a sheet. One pulps, one dips, one presses. Swap. Compare each sheet. The first sheet may be lumpy or too thin. Try again with more or less pulp. Make 2 or 3 sheets if you can. Use a clean pencil to write the amount of pulp on the towel.",
      "context": "In this step, you make the sheet. The first sheet is often uneven. Try more than one."
     },
     {
@@ -2110,14 +2115,14 @@
      "do": "Remove the books and leave the sheet to dry on the towel in a warm, airy place for a day or two. Do not peel it while damp.",
      "say": "Leave the sheet to dry for a day or two. Do not peel it until it is dry.",
      "kid": "Leave the sheet to dry.",
-     "parent": "If the weather is humid, put the sheet near a fan. A sheet that is still damp will tear when peeled.",
+     "parent": "A sheet can take two or three days to dry in damp weather. If the weather is humid, put the sheet near a fan. A sheet that is still damp will tear when peeled.",
      "context": "In this step, you wait. The sheet dries and the fibres lock together as the water leaves."
     },
     {
      "id": "s5",
      "mins": 16,
-     "do": "Day 3. Peel off the dry sheet. Cut a strip 2 centimetres wide. Cut a strip of the same size from the old newspaper. Hang each strip from a peg. Add coins in a cup, one at a time, until the strip tears. Compare. Look at the torn edges.",
-     "say": "Cut a strip of new paper and a strip of old paper, both the same width. Add coins one at a time until each tears. Which held more?",
+     "do": "Day 3. Peel off the dry sheet. Cut a strip 2 centimetres wide. Cut a strip of the same size from the old newspaper. Fold the top end of each strip over a pencil and tape it. Hang it from the backs of two chairs and tie the bucket to the bottom end the same way. Pour water slowly into the bucket until the strip tears. Measure the water. Compare. Look at the torn edges.",
+     "say": "Cut a strip of new paper and a strip of old paper, both the same width. Pour water slowly into a bucket until each tears. Which held more?",
      "kid": "Test a strip of new paper and a strip of old. Compare.",
      "ask": [
       {
@@ -2128,7 +2133,7 @@
        ]
       }
      ],
-     "parent": "The new sheet is thicker and lumpier, so it may hold more or fewer coins than newspaper. Either is a good result. The point is to compare and talk about why.",
+     "parent": "The new sheet is thicker and lumpier. It is usually weaker than newspaper because the fibres are shorter, but it may hold more or less, and either is a good result. A thin sheet may tear at the tape; put the tape over a wide fold. The point is to compare and talk about why.",
      "check": {
       "t": "mcq",
       "q": "Why is recycled paper usually weaker than new paper?",
@@ -3776,5 +3781,5 @@
    "Chandogya Upanishad 6.1; Kabir, doha on the clay and the potter; Tao Te Ching, chapter 11"
   ]
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat today, but not yet tried with a child. Paper and Paste: the flour paste is cold and needs no cooking, and a pinch of salt slows mould. The bars need two full days to dry, and in very humid weather a fan or a third day helps. The plain paste bar is brittle and may break while it is peeled from the plastic. The steps say to record that as a result and use the spare bar. The test rig is two piles of books with a 12 centimetre gap, a paper cup on a thread and a slow stream of water, with the failure defined as a snap or a sag of 2 centimetres. The loose paper stack sags at once with only a few millilitres, and this is the expected result. The layered bar usually holds many times more, but real numbers will vary and that is fine. Burial Test: needs soil, which a flowerpot gives, and a shady balcony or windowsill. By day 14 the banana peel and the newspaper have usually changed a lot, while cotton often shows only a little change, and the plastic and foil show none. This is a real result and the step says so. Mould may appear, and the safety line says not to sniff it. Score the Cup uses warm tap water that a grown-up checks, not hot water. Mend It uses a slit as a small crack. Recycled Paper needs a grown-up for a blender, and mashing by hand also works and gives longer fibres. The Leaf Bowl needs large leaves from a vegetable seller, and foil is named as a last resort with the trade-off discussed. The spine is the Paper and Paste experiment, which starts in the first session (about 30 minutes) and is finished in the second session two days later (about 35 minutes), together with the explanations, Roots and quiz. Facts to check before release: the Brånemark dates and the rabbit studies, the Yoshida 2016 findings, the Iron Pillar's age and the competing explanations, the aluminium recycling energy figure, the phase-out year of leaded petrol in India, and the Upanishad and Kabir wording. The story's characters and the cost of a steel bridge are made up."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat today, but not yet tried with a child. Paper and Paste: the flour paste is cold and needs no cooking, and a pinch of salt may slow mould. The bars need two full days to dry, and in very humid weather a fan or three to four days help. The plain paste bar is brittle and may break while it is peeled from the plastic. The steps say to record that as a result and use the spare bar. The test rig is two piles of books with a 12 centimetre gap, a paper cup on a thread and a slow stream of water, with the failure defined as a snap or a sag of 2 centimetres. The loose paper stack sags at once with only a few millilitres, and this is the expected result. The layered bar usually holds many times more, but real numbers will vary and that is fine. Burial Test: needs soil, which a flowerpot gives, and a shady balcony or windowsill. By day 14 the banana peel and the newspaper have usually changed a lot, while cotton often shows only a little change, and the plastic and foil show none. This is a real result and the step says so. Mould may appear, and the safety line says not to sniff it. Score the Cup uses hot drinking-temperature water poured by a grown-up, never boiling. Mend It uses a slit as a small crack and loads the strip with water in a bucket, because newspaper strips hold about a kilogram or more. Recycled Paper needs a grown-up for a blender, and its strips are loaded with water in a bucket. Mashing by hand also works and gives longer fibres. The Leaf Bowl needs large leaves from a vegetable seller, and foil is named as a last resort with the trade-off discussed. The spine is the Paper and Paste experiment, which starts in the first session (about 30 minutes) and is finished in the second session two days later (about 35 minutes), together with the explanations, Roots and quiz. Facts to check before release: the Brånemark dates and the rabbit studies, the Yoshida 2016 findings, the Iron Pillar's age and the competing explanations, the aluminium recycling energy figure, the phase-out year of leaded petrol in India, and the Upanishad and Kabir wording. The story's characters and the cost of a steel bridge are made up."
 }

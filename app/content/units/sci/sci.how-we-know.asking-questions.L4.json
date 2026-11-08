@@ -745,7 +745,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about rival explanations. Each card gives a puzzle with two ideas and three checks. You pick the check that can tell the ideas apart.",
+   "context": "This is a card game about rival explanations. Each card gives a puzzle with two ideas and three checks. You pick the check that can tell the ideas apart. The cards are thinking puzzles, so you do not need to run the checks. You may try the safe ones at home, with a grown-up.",
    "setup": [
     {
      "art": "Sixteen puzzle cards in a pile, each with two ideas and three checks, beside a score sheet.",
@@ -786,7 +786,7 @@
        "b": "Check 1. The starter is the same in both bowls, so only the warmth is different. If A is true, the warm bowl sets first. If B is true, the two bowls will set about together."
       },
       {
-       "f": "A steel spoon and a wooden spoon lie on the table. The steel feels colder. Idea A: the steel really is colder. Idea B: the steel only feels colder because it takes heat from your hand faster. Which check tells them apart? 1) Touch them again. 2) Leave them in the same room for an hour, and then put a thermometer against each. 3) Weigh them.",
+       "f": "A steel spoon and a wooden spoon lie on the table. The steel feels colder. Idea A: the steel really is colder. Idea B: the steel only feels colder because it takes heat from your hand faster. Which check tells them apart? 1) Touch them again. 2) Leave them in the same room for an hour, and then put a room thermometer against each. 3) Weigh them.",
        "b": "Check 2. If A is true, the thermometer will read lower for the steel. If B is true, both will read the same. Touching again just repeats the feeling, and weighing does nothing to temperature."
       },
       {
@@ -795,7 +795,7 @@
       },
       {
        "f": "A line of ants goes to a sugar crumb. Idea A: they follow a smell trail left by the ants before them. Idea B: each ant finds the sugar on their own. Which check tells them apart? 1) Wipe a short piece of the ants' path with a damp cloth and watch what they do. 2) Count the ants. 3) Give them a bigger crumb.",
-       "b": "Check 1. If A is true, ants will get confused at the wiped patch, because the trail is gone. If B is true, they will carry straight on. Counting or giving a bigger crumb does not separate the ideas."
+       "b": "Check 1. If A is true, ants will get confused at the wiped patch, because the trail is gone. If B is true, they will carry straight on. Counting or giving a bigger crumb does not separate the ideas. Wipe only the path and never touch the ants, because some bite."
       },
       {
        "f": "Cloudy water from the tap clears in a minute. Idea A: it is full of tiny air bubbles. Idea B: it is full of tiny bits of mud. Which check tells them apart? 1) Let a glass stand and see whether it clears from the bottom or from the top. 2) Taste it. 3) Shake the glass.",
@@ -826,8 +826,8 @@
        "b": "Check 1. If B is true, oiling the hinges frees the door. If A is true, the door still sticks. Pushing harder or painting does not separate the ideas."
       },
       {
-       "f": "The Moon looks bigger when it is low over the roofs than when it is high in the sky. Idea A: it really is closer when low. Idea B: it is a trick of our eyes and the sizes are the same. Which check tells them apart? 1) Hold a small coin at arm's length, and find how much of the coin covers the Moon when low and again when high. 2) Look at it through a tube. 3) Ask someone taller.",
-       "b": "Check 1. If A is true, the coin will cover more of the low Moon than the high Moon. If B is true, it will cover the same amount both times. People who try this find the sizes match, so our eyes are tricked."
+       "f": "The Moon looks bigger when it is low over the roofs than when it is high in the sky. Idea A: it really is closer when low. Idea B: it is a trick of our eyes and the sizes are the same. Which check tells them apart? 1) Hold a grain of rice at arm's length and see how much of the Moon it covers when the Moon is low and again when it is high. 2) Look at it through a tube. 3) Ask someone taller.",
+       "b": "Check 1. If A is true, the grain will cover less of the low Moon than of the high Moon. If B is true, it will cover the same amount both times. People who try this find the sizes match, so our eyes are tricked."
       }
      ]
     },
@@ -936,7 +936,7 @@
    ],
    "materials": [
     {
-     "item": "2 steel tumblers of the same size, or 2 glass tumblers",
+     "item": "2 tumblers of the same size and material. Clear glass is best, because you can see the coloured water inside. Steel works too, but you cannot see the colour through it, so peek in from above",
      "qty": 2
     },
     {
@@ -965,8 +965,8 @@
      "qty": 1
     }
    ],
-   "safety": "Use warm tap water, never hot water from a kettle. Food colour and haldi stain clothes, so work on a tray or a table you can wipe.",
-   "record": "Fill in the results table at 5, 10 and 15 minutes. Draw both tumblers at 15 minutes, and colour in the water inside and the drops outside.",
+   "safety": "Use warm tap water, never hot water from a kettle. A grown-up should pour for young children, and handle glass tumblers, since glass can break. Food colour and haldi stain clothes, so work on a tray or a table you can wipe.",
+   "record": "Fill in the results table at 5, 10 and 15 minutes. Write the minute you first saw drops on the cold tumbler. Draw both tumblers at 15 minutes, and colour in the water inside and the drops outside.",
    "context": "In this experiment, you see drops form on the outside of a cold tumbler and you test two rival ideas about where they come from.",
    "setup": [
     {
@@ -1063,7 +1063,7 @@
      "say": "Look at the cold tumbler. What do you see on the outside? Touch a dry tissue to a drop. What colour is it? Now look at the warm tumbler. What is different?",
      "kid": "Look at both tumblers at 5, 10 and 15 minutes. What colour are the drops?",
      "context": "In this step, you watch for drops and check their colour.",
-     "parent": "In a humid kitchen, the cold tumbler is covered in fine drops within 5 to 10 minutes. On a dry day, or in an air-conditioned room, it can take 15 to 20 minutes. If there are no drops after 15 minutes, add more ice and wait 10 more minutes. You can also breathe gently onto the cold steel. Your breath is full of water vapour, so mist forms at once. The warm tumbler should stay dry or show only a very faint mist at the start. Drops that look slightly pink mean there was a little colour on the outside. Wipe it and look again.",
+     "parent": "Roles for 2 to 4 children: one watches the cold tumbler, one watches the warm tumbler, one keeps the timer and one writes the table. Swap roles at each look. With one child, you take the timer and the writing. Hold the tissue to a drop and look at the damp spot it leaves. A red spot means colour, and a spot with no colour means a clear drop. In a humid kitchen, the cold tumbler is usually covered in fine drops within 5 to 10 minutes. On a dry day, or in an air-conditioned room, it can take 15 to 20 minutes. If there are no drops after 15 minutes, add more ice and wait 10 more minutes. You can also breathe gently onto the cold steel. Your breath is full of water vapour, so mist forms at once. The warm tumbler should stay dry or show only a very faint mist at the start. Drops that look slightly pink mean there was a little colour on the outside. Wipe it and look again.",
      "check": {
       "t": "mcq",
       "q": "The water inside is red. The drops on the outside are clear. What does this show?",
@@ -1150,12 +1150,12 @@
    ],
    "materials": [
     {
-     "item": "a measuring tape, or a long string and a ruler",
+     "item": "a measuring tape of at least 2 metres (a 150 cm sewing tape is too short for most grown-ups), or a long string and a ruler or metre stick",
      "qty": 1,
      "buy": "b-tape"
     },
     {
-     "item": "a wall with a clear floor beside it, and 2 sticky notes or small pieces of tape",
+     "item": "a wall with a clear floor beside it, and 3 sticky notes or small pieces of masking tape (pencil marks may not rub off a painted wall)",
      "qty": 1
     },
     {
@@ -1219,7 +1219,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Take off shoes. 2. Stand with the back of the head, shoulders and heels against the wall, looking straight ahead. 3. A helper lays a flat book on the head, level against the wall, and marks the wall with a pencil. 4. Measure from the floor to the mark. 5. Do this twice, and write both numbers.",
+     "do": "1. Take off shoes. 2. Stand with the back of the head, shoulders and heels against the wall, looking straight ahead. 3. A helper lays a flat book on the head, level against the wall. The helper sticks a sticky note just under the book. 4. Measure from the floor to the mark. 5. Do this twice, and write both numbers.",
      "say": "Stand tall with your back against the wall. Look straight ahead. Now I will mark the top of your head. We will measure twice. Do you think we will get the same number?",
      "kid": "Stand against the wall. Your helper marks the top of your head. Measure twice.",
      "context": "In this step, you practise measuring height and see that two measurements of the same child may differ a little.",
@@ -1262,7 +1262,7 @@
      "say": "Now we measure everyone else the same way. Write each number in the table. Then take away the height from the span. If the span is shorter, the answer is a number below zero.",
      "kid": "Measure at least five more people. Write each person in your table.",
      "context": "In this step, you measure at least five more people and fill in the table.",
-     "parent": "You need at least six people. If your home has only four, ask two neighbours or friends. You can also measure again on another day. Measure at least one child and at least one grown-up. Children grow, so their spans may differ from adults' spans in a different way."
+     "parent": "Roles for 2 to 4 children: one stands, one holds the book and the sticky note, one holds the tape, one writes. Swap so each child measures and is measured. With one child, you are the helper and measure the child, then yourself with your child's help. You need at least six people. If your home has only four, ask two neighbours or friends. You can also measure again on another day. Measure at least one child and at least one grown-up. Children grow, so their spans may differ from adults' spans in a different way."
     },
     {
      "id": "s5",
@@ -1307,7 +1307,7 @@
        ]
       }
      ],
-     "parent": "A typical result is that most people are within a few centimetres of zero, with some a little over and some under. Leonardo drew arm span equal to height, but real people vary. If your child's numbers are all over the place, check the measuring before you decide there is no pattern.",
+     "parent": "A typical result is that most people are within a few centimetres of zero, with some a little over and some under. Grown-ups, especially men, often have a span a few centimetres longer than their height, and the numbers wobble more with a small group, so do not be surprised if only half your people are within 3 centimetres. Leonardo drew arm span equal to height, but real people vary. If your child's numbers are all over the place, check the measuring before you decide there is no pattern.",
      "check": {
       "t": "mcq",
       "q": "Six people have an arm span within 4 centimetres of their height. Which claim goes too far?",
@@ -1347,7 +1347,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep it a quiet scene. Do not leave water where someone can slip.",
+   "safety": "Keep it a quiet scene. Do not leave water where someone can slip. Use an old peel and crumbs that nobody will eat, so food allergies do not matter.",
    "schedule": [
     {
      "day": 1,
@@ -1428,7 +1428,7 @@
        ]
       }
      ],
-     "parent": "Good deciding questions often use time: is the water ring still wet? Is the peel brown? Let your child swap places next. Your child stages a scene for you, and you write the columns."
+     "parent": "Good deciding questions often use time: is the water ring still wet? Is the peel brown? Let your child swap places next. Your child stages a scene for you, and you write the columns. With 2 to 4 children, one stages the scene while the rest wait outside. Everyone writes their own two columns, then compares: whose I saw lists match, and whose I think stories differ?"
     }
    ]
   },
@@ -1462,7 +1462,7 @@
      "what": "Listen to two sets of taps. Decide if there is a signal. Add noise and try again."
     }
    ],
-   "record": "Draw a line of dots for each set of taps you heard, using short and long gaps. Write 'signal' or 'noise' under each.",
+   "record": "Draw a line of dots for each set of taps you heard, using short and long gaps. Write 'signal' or 'noise' under each. Write how many of the 12 taps you heard with the fan on low, medium and high.",
    "context": "In this activity, you listen to taps from another room. You decide which set has a message and how you could be sure.",
    "setup": [
     {
@@ -1486,7 +1486,7 @@
      "say": "Listen carefully. Draw a dot every time you hear a tap. If the gap is long, leave a long space.",
      "kid": "Listen to the taps. Draw a dot for each one.",
      "context": "This is the first step of Message or Noise. You listen to uneven taps.",
-     "parent": "The helper should tap randomly, with no rhythm. Let your child know that there may or may not be a message."
+     "parent": "The helper should tap randomly, with no rhythm. Let your child know that there may or may not be a message. With 2 to 4 children, one is the tapper behind the door and the others listen and draw on their own papers. Swap roles after each set, then compare dots. With one child, you tap. Tap gently so the plate does not slip or ring loudly in the next room."
     },
     {
      "id": "s2",
@@ -1521,6 +1521,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Switch on a fan or a radio next to the helper. Ask them to tap the steady beat again. Ask your child to listen for it through the noise and draw the dots. Then ask how they could be sure the beat was there.",
+     "parent": "Measure how well it works. Before you start, ask your child to predict whether they will still hear the beat. Switch the fan or radio on low, then medium, then high, and ask the child to count the taps they heard out of 12 each time. Write the three counts. The count usually drops as the noise rises, and that gap shows how noise hides a signal. Keep the radio at a sensible volume to protect ears.",
      "say": "Now there is background noise. Can you still hear the beat? How could you be sure, if you could not see the helper?",
      "kid": "Noise is on. Can you still find the beat? How could you be sure?",
      "context": "In this step, you add noise and try to find the signal in it. This is what scientists do with weak signals.",
@@ -1593,7 +1594,7 @@
      "say": "Which column does this question go in? Why? Is there another way to find out? If a question fits two columns, we can argue about it.",
      "kid": "Put each strip in a column. Say why. Some fit two columns.",
      "context": "In this step, you sort the questions into three columns.",
-     "parent": "Expect arguments, and enjoy them. The fairness and the cage questions are about what people value. A test cannot decide them alone, although evidence can help the talk.",
+     "parent": "With 2 to 4 children, each child sorts a set of strips alone first, then compare and argue. With one child, you sort too and say why. Expect arguments, and enjoy them. The fairness and the cage questions are about what people value. A test cannot decide them alone, although evidence can help the talk.",
      "check": {
       "t": "mcq",
       "q": "'Do taller people have longer feet?' Which column fits best?",
@@ -1632,7 +1633,7 @@
      "qty": 1
     },
     {
-     "item": "the cold tumbler from the Weeping Tumbler test, or a picture of it",
+     "item": "a cold tumbler with drops on it (refill one with ice water if the Weeping Tumbler one has warmed up), or a picture of it",
      "qty": 1
     }
    ],
@@ -1705,7 +1706,7 @@
      "say": "Put your two drawings side by side. Circle what is different. Which parts can you not see, but you now know are there?",
      "kid": "Put your two drawings side by side. Circle what changed.",
      "context": "In this step, you compare your first and second model.",
-     "think": "A model is not a photograph. It shows what we think is going on, including the parts we cannot see. How could someone test your model?"
+     "think": "A model is not a photograph. It shows what we think is going on, including the parts we cannot see. Use your second drawing to predict: would a cold tumbler sweat as much in a dry room? Write your prediction in an if-then sentence, then test it if you can: compare a cold tumbler in the kitchen with one in a room with an air conditioner. Each child can draw their own model, then compare them."
     }
    ]
   },
@@ -1755,7 +1756,7 @@
      "say": "Let's find something that puzzles you. A fan, a tap, a sound, a smell. Write three things you can see or hear about it. Do not use the word because.",
      "kid": "Find something that puzzles you. Write three things you notice. No 'because'.",
      "context": "This is the first step of Two Ideas for Something at Home. You pick a puzzle and write what you saw.",
-     "parent": "Good puzzles include a noisy fan, a dripping tap, a door that sticks, damp on a wall, or a humming fridge.",
+     "parent": "Good puzzles include a noisy fan, a dripping tap, a door that sticks, damp on a wall, or a humming fridge. With 2 to 4 children, each can pick a puzzle, or the group can choose one and write ideas separately. Then compare whose ideas differ.",
      "check": {
       "t": "mcq",
       "q": "Which of these is an observation about a dripping tap?",
@@ -1822,7 +1823,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch from inside a window or behind the balcony railing. Do not lean out. A grown-up should be home in the evening.",
+   "safety": "Watch from inside a window or behind the balcony railing. Do not lean out. A grown-up should be home in the evening. Do not go onto the road or touch any light, pole or wire.",
    "schedule": [
     {
      "day": 1,
@@ -1913,7 +1914,7 @@
      "say": "Watch the light from about twenty minutes before sunset. Write what time it comes on. Look at the sky. Was it clear or cloudy?",
      "kid": "Each evening, write the time the light comes on. Is the sky clear or cloudy?",
      "context": "In these days, you collect a week of evidence about when the light comes on.",
-     "parent": "Look at the light for ten minutes around the usual time. If you miss an evening, write 'missed'. Do not guess. A phone weather app often shows the sunset time.",
+     "parent": "Look at the light for ten minutes around the usual time. If you miss an evening, write 'missed'. Do not guess. A phone weather app often shows the sunset time. With 2 to 4 children, share jobs each evening: one reads the sunset time, one watches the light, one judges the sky, one writes. Swap daily. Many city lights come on a little after sunset, and some are switched by hand or by a central timer, so whatever you see is a real result. Sunset moves by only a minute or less a day, so a week of the same clock time may still fit a timer. In dry months you may not get a cloudy evening. Then look at how the gap between sunset and light-on changes, and say honestly that you could not tell the ideas apart.",
      "wait": "Do this each evening for the next five days."
     },
     {
@@ -1964,7 +1965,7 @@
     "Compare the brightness of three videos: the fridge, the dark cupboard and the open room, so you can see what 'dark' and 'light' look like.",
     "Repeat the whole test with the phone in a different place on the shelf. A result that comes back the same way is stronger than a result you saw once."
    ],
-   "safety": "A grown-up opens and closes the fridge door and handles the phone. Keep the door shut for only about 30 seconds so the food stays cool. Take the phone out straight away, because it should not get very cold.",
+   "safety": "A grown-up opens and closes the fridge door and handles the phone. Keep the door shut for only about 30 seconds so the food stays cool. Take the phone out straight away, because it should not get very cold. Make sure the phone and any wire are not caught in the door seal, and do not use a phone that is plugged in.",
    "your_turn": "Now think of another thing you cannot look at without changing it, such as a closed room, a sleeping baby or a sealed box. Design a test to tell two ideas apart.",
    "context": "This is a design challenge. You build a test for a puzzle where looking changes the answer.",
    "setup": [
@@ -2017,7 +2018,7 @@
      "say": "Watch the two videos. Which is brighter? What does that tell us about the fridge light?",
      "kid": "Watch the two videos. Which is brighter? What does that show?",
      "context": "In this step, you compare the two videos and say what they show.",
-     "parent": "For most fridges, the video from inside the closed fridge is as dark as the cupboard video, because a small switch in the door puts the light out when the door is shut. If your result differs, repeat it, and note it down.",
+     "parent": "For most fridges, the video from inside the closed fridge is as dark as the cupboard video, because a small switch in the door puts the light out when the door is shut. A phone camera brightens dark pictures by itself, so both videos may look grainy grey. Compare them with the first seconds of the fridge video, taken with the door still open, which should look clearly brighter. If your result differs, repeat it, and note it down. With 2 to 4 children, one holds the timer, one watches the video, and one writes, and everyone predicts before watching.",
      "check": {
       "t": "mcq",
       "q": "The fridge video is as dark as the cupboard video. What does this suggest?",
@@ -3102,7 +3103,7 @@
    "answer": "18 new drops in the second five minutes, and 25 new drops in the third. The drops are forming faster.",
    "explain": "30 minus 12 is 18. 55 minus 30 is 25. The first five minutes gave 12 drops, then 18, then 25. The number of new drops each five minutes is going up.",
    "math_unit": "math.addition-subtraction.written-methods.L4",
-   "context": "In the Weeping Tumbler test, you look at the cold tumbler at 5, 10 and 15 minutes and count the drops.",
+   "context": "In the Weeping Tumbler test, you look at the cold tumbler at 5, 10 and 15 minutes. Here are example counts of the drops in one small square, made up to practise subtraction.",
    "how": "e1",
    "why_maths": "Comparing how many new drops appear in each time gap shows whether the change is speeding up or slowing down."
   },
@@ -3219,11 +3220,10 @@
    "id": "b-tape",
    "item": "A soft measuring tape for sewing",
    "kind": "tool",
-   "why": "For the Arm Span test. A tailor's tape bends around curves and is easy to pull straight.",
-   "url": "https://www.amazon.in/s?k=measuring+tape+body+sewing+150+cm",
+   "why": "For the Arm Span test. A tailor's tape is easy to pull straight, but a 150 cm one is too short for most grown-ups' arm span. Look for 2 to 3 metres, or use a long string and a ruler instead.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+body+sewing+300+cm",
    "used_in": [
-    "e2",
-    "a1"
+    "e2"
    ]
   }
  ],

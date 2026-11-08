@@ -690,13 +690,13 @@
     "Turn the tokens over together. Then each player says in one sentence why, using the words bounce, soak, scatter or pass.",
     "The reader reads the back. Every player who picked the right mat wins two tokens from the bowl. A player who picked the wrong mat but gave a good reason wins one token.",
     "If the card is a TEST IT card, everyone does the test first. Then pick the mat as usual.",
-    "When the cards run out, the player with the most tokens wins. If you play alone, you are the reader and the player. Put the card on a mat, check the back, and score two for every right answer. Try to beat your score next time. If the tokens run out, keep score on paper."
+    "When the cards run out, the player with the most tokens wins. If you play alone, you are the reader and the player. Put the card on a mat, check the back, and score two for every right answer. Try to beat your score next time. With more than two players, the 20 tokens may run out, so keep score on paper. If a TEST IT card cannot be done (for example, no dark window at night), read the back and talk about it."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the cards, the mats and the tokens. Lay the mats on the floor. Shuffle the cards and put them face down. Put the tokens in a bowl. Put sugar candy, a plate, a torch and oil nearby.",
+     "do": "Cut out the cards, the mats and the tokens. Lay the mats on the floor. Shuffle the cards and put them face down. Put the tokens in a bowl. For TEST IT cards, keep a black plate, a torch, white paper, oil and candy nearby. Crush some candy to powder earlier. Table sugar will do.",
      "say": "Every card shows light meeting something. For each card, we decide where most of the light goes. It can bounce, be soaked up, be scattered, or pass on.",
      "kid": "Cut out the cards and mats. Lay out the mats. Shuffle the cards. Put them face down.",
      "context": "This is the first step of the game Where Did the Light Go. You set it up.",
@@ -803,7 +803,7 @@
    ],
    "materials": [
     {
-     "item": "4 clear glasses or small jars of the same size, each holding about 250 millilitres",
+     "item": "4 plain clear glasses or small jars of the same size, straight-sided, each holding about 150 millilitres (the marble must be covered by at least 3 centimetres of liquid)",
      "qty": 4
     },
     {
@@ -812,15 +812,15 @@
      "buy": "b-marbles"
     },
     {
-     "item": "about 200 millilitres of plain water",
+     "item": "about 120 millilitres of plain water",
      "qty": 1
     },
     {
-     "item": "about 200 millilitres of clear cooking oil, such as groundnut or sunflower oil (not coconut oil, which sets in cool weather)",
+     "item": "about 120 millilitres of clear cooking oil, such as refined sunflower or groundnut oil (not coconut oil, which sets in cool weather)",
      "qty": 1
     },
     {
-     "item": "about 200 millilitres of honey. If you have none, a very thick sugar syrup works less well",
+     "item": "about 120 millilitres of runny, clear honey (a small bottle, about Rs 60 to 100; honey is not for children under one year, and it can be reused in the Find the Marble activity). If you have none, a very thick sugar syrup works less well",
      "qty": 1
     },
     {
@@ -904,7 +904,7 @@
      "do": "Set the tray on a table in front of a bright window. Stand the printed page upright behind the tray. Fill one glass with water, one with oil and one with honey, each to about the same height. Leave the fourth glass empty. Mark the four glasses with a label.",
      "say": "Pour the water into the first glass, the oil into the second, and the honey into the third. Leave the fourth empty, which is the air test. Stand them in a row, in front of the page.",
      "kid": "Fill three glasses with water, oil and honey. Leave one empty. Put the page behind.",
-     "parent": "Honey is slow to pour. A grown-up can warm the jar in a bowl of warm water for a few minutes, not hot, if it will not flow. Fill all glasses to the same height, about three quarters full. Do the test near a window, so the light is the same for every glass.",
+     "parent": "Honey is slow to pour. A grown-up can warm the jar in a bowl of warm water for a few minutes, not hot, if it will not flow. Fill all glasses to the same height, about three quarters full. Do the test near a window, so the light is the same for every glass. One child alone does all four glasses. With two to four children, each child pours and scores one liquid, then everyone looks at every glass and scores alone before comparing. Scores will differ by a point or two, and that is fine.",
      "context": "In this step, you set out the four glasses and the page that you will look through."
     },
     {
@@ -943,7 +943,7 @@
        ]
       }
      ],
-     "parent": "Expected: in oil the marble is much fainter than in water. In honey it almost vanishes, leaving a faint ring, and perhaps a few bubbles or scratches that stay visible. Cheap marbles are made of slightly different glass, so the result varies. If the marble does not nearly vanish, look for a plain one with no swirl. Always let bubbles in the honey rise before you look.",
+     "parent": "Expected: in oil the marble is much fainter than in water. In honey it almost vanishes, leaving a faint ring, and perhaps a few bubbles or scratches that stay visible. Cheap marbles are made of slightly different glass, so the result varies. If the marble does not nearly vanish, look for a plain one with no swirl. Always let bubbles in the honey rise before you look (this can take a few minutes, so stir gently, not fast). Honey brands differ, and thin honey that has been thinned with sugar syrup hides the marble less well. Even if the marble only fades a lot, the order of air, water, oil, honey is the result that matters. If it does not fade at all, the marble is probably tinted or not glass, so try another.",
      "context": "In this step, you put the marble in oil and in honey, and watch it nearly vanish."
     },
     {
@@ -1003,7 +1003,7 @@
    ],
    "materials": [
     {
-     "item": "two pairs of polarising sunglasses, or two squares of polarising film. Polarising sunglasses often say polarised on the label or the arm. Check with the screen test in step 2",
+     "item": "two pairs of polarising sunglasses, or two squares of polarising film. Polarising sunglasses often say polarised on the label or the arm, but many cheap ones sold on the roadside are only dark, so check with the screen test in step 2 before you trust them. A small sheet of polarising film from an optical or hobby shop (about Rs 100 to 200) is the sure choice",
      "qty": 2,
      "buy": "b-polar"
     },
@@ -1077,7 +1077,7 @@
        ]
       }
      ],
-     "parent": "A laptop or tablet screen sends out polarised light, so it goes dark when the lens is turned a quarter turn. The window's light is mixed up in every direction, so turning the lens changes nothing. If the screen does not go dark, try the other lens. Some phone screens do not work for this test, and some sunglasses are not polarising. Use two lenses that both change the screen.",
+     "parent": "A laptop or tablet screen sends out polarised light, so it goes dark when the lens is turned a quarter turn. The window's light is mostly mixed up in every direction, so turning the lens changes it very little (blue sky can change a little, and so can glare off glass or water, which is fine). If the screen does not go dark, try the other lens. A lens that never changes the screen is not polarising, so do not use it for the next steps. Some phone screens do not work for this test, and some sunglasses are not polarising. Use two lenses that both change the screen.",
      "check": {
       "t": "mcq",
       "q": "The screen went dark when you turned the lens, but the window did not. What does this show?",
@@ -1108,7 +1108,7 @@
        ]
       }
      ],
-     "parent": "With the lenses lined up, the window looks dim but clear, like looking through very dark sunglasses. At a quarter turn, the window goes nearly black, perhaps with a purple or blue tint. Halfway between, it is somewhere in the middle. Turn all the way round and the window goes bright, dark, bright and dark again, twice each.",
+     "parent": "With the lenses lined up, the window looks dim but clear, like looking through very dark sunglasses. At a quarter turn, the window goes very dark, typically almost black, perhaps with a purple or blue tint (cheap or curved lenses leave a little light). Halfway between, it is somewhere in the middle. With one child, hold one lens in each hand. With two to four children, one holds the fixed lens, one turns the other and calls out the angle, and one scores the brightness. Swap roles for each angle so everyone scores. Each child's own scores count. Turn all the way round and the window goes bright, dark, bright and dark again, twice each.",
      "check": {
       "t": "mcq",
       "q": "Two lenses that are each see-through gave darkness when one was turned a quarter turn. Why?",
@@ -1139,7 +1139,7 @@
        ]
       }
      ],
-     "parent": "Optional. This step needs a third lens, such as the other lens from the second pair, held at an angle. It works best when the third lens is turned halfway between the two crossed ones. The light that comes back is dim. The third lens turns the direction of the wiggle partway, so the last lens can pass a part of it. Skip this step if you only have two lenses.",
+     "parent": "Optional. This step needs a third lens, such as the other lens from the second pair, held at an angle. It works best when the third lens is turned halfway between the two crossed ones. The light that comes back is dim. The third lens turns the direction of the wiggle partway, so the last lens can pass a part of it. Two pairs of sunglasses give four lenses, so a third is easy to find. Skip this step if you only have two lenses. The light that comes back is dim but clear against the dark, so hold it near a very bright window and be patient.",
      "think": "Adding a third see-through lens made the dark window brighter. What does that say about how the filters work?",
      "context": "In this step, you try an optional trick: a third lens between two crossed lenses."
     },
@@ -1182,7 +1182,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a few lumps of rock sugar candy (kalkandu or mishri), or coarse clear sugar crystals",
+     "item": "a few lumps of the clearest rock sugar candy you can find (kalkandu or mishri, about Rs 20 to 40; some is cloudy or white already, so pick pieces you can see through), or large clear sugar crystals",
      "qty": 1,
      "buy": "b-kalkandu"
     },
@@ -1196,6 +1196,10 @@
     },
     {
      "item": "a few drops of cooking oil and a small spoon",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper with one large printed or thickly pen-written word on it",
      "qty": 1
     },
     {
@@ -1250,7 +1254,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Put two lumps of candy in the zip bag, and close it. Lay the bag on a firm table, with a cloth over it. Roll the pin firmly over the bag until the candy is a coarse powder. Pour a pinch of the powder onto the white plate, and another pinch onto the black plate. Put a whole lump next to each.",
+     "do": "Put two lumps of candy in the zip bag, and close it. Lay the bag on a firm table, with a cloth over it. Roll or tap the pin firmly over the bag until the candy is a coarse powder (kalkandu is hard, so this takes a few minutes, and a heavy steel tumbler base or a pestle also works). Children take turns, with the grown-up holding the bag. Pour a pinch of the powder onto the white plate, and another pinch onto the black plate. Put a whole lump next to each.",
      "say": "Put the candy in the bag. Roll the pin over it until it is powder. Now tip a pinch onto each plate. Which looks clear, and which looks white?",
      "kid": "Put the candy in a bag. Roll it flat. Tip a pinch onto each plate.",
      "adult": true,
@@ -1272,7 +1276,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "On the black plate, put a pinch of powder in a small heap. Put one drop of cooking oil on top of the heap. Watch what happens to the white. Shine the torch from the side, and look at the oiled patch and the dry powder next to it.",
+     "do": "Spread a thin, even layer of powder over the printed word on the paper. Can you still read the word? Now put 2 or 3 drops of cooking oil on half of the layer and spread them with the spoon. Watch what happens to the white. Can you read the word under the oiled half and not under the dry half? Shine the torch from the side, and look at both halves. Each child can try a heap of their own on a black plate.",
      "say": "Put one drop of oil on the powder. What happens to the white? Is the oiled patch lighter or darker? Which one lets you see the plate?",
      "kid": "Put a drop of oil on the powder. What happens to the white?",
      "ask": [
@@ -1285,7 +1289,7 @@
        ]
       }
      ],
-     "parent": "The oiled patch looks darker and a bit see-through, because oil bends light by an amount that is closer to sugar than air does. If nothing happens, use more oil. This is the same idea as the marble in honey.",
+     "parent": "The oiled patch looks darker and a bit see-through, because oil bends light by an amount that is closer to sugar than air does. If nothing seems to happen, use more oil and spread it until the grains are wet all through, because a single drop only wets a small spot. The change is clear but not complete, because oil and sugar do not match exactly. This is the same idea as the marble in honey.",
      "context": "In this step, you add a drop of oil to the powder and watch the white fade."
     },
     {
@@ -1306,12 +1310,12 @@
    "days": 1,
    "materials": [
     {
-     "item": "10 soft balls, or 10 rolled-up socks, to be the light",
-     "qty": 10
+     "item": "16 soft balls, or 16 rolled-up socks or paper balls, to be the light",
+     "qty": 16
     },
     {
-     "item": "4 players or more: a window, a mirror, a black cloth and a frosted pane, played by people holding up a sheet",
-     "qty": 4
+     "item": "2 or more players: one throws, and one plays each material in turn (the 'material' can be one person holding up a prop: a hand-sized foil card for the mirror, a black cloth, a sheet of butter paper or a rough white sheet, and a plain open frame or a clear plastic sheet for the window). With 3 or 4 players, each plays one material.",
+     "qty": 2
     },
     {
      "item": "a bowl or basket on the far side of a room, to catch the light that gets through",
@@ -1326,11 +1330,11 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Act out the four fates of light. Count how many of the ten balls pass through two windows in a row."
+     "what": "Act out the four fates of light. Count how many of 16 balls pass through two, three and four half-lenses in a row."
     }
    ],
-   "record": "A table with four rows, one for each material, and columns for how many balls bounced, were soaked up, were scattered and passed on. A sentence on how many balls get through two windows in a row.",
-   "safety": "Use soft balls or socks only, and throw gently. Clear the room of things that can break.",
+   "record": "A table with four rows, one for each material, and columns for how many balls bounced, were soaked up, were scattered and passed on. A sentence on how many of 16 balls get through two, three and four half-lenses in a row.",
+   "safety": "Use soft balls or socks only, and throw gently, below chest height and never at faces. Use a foil card for the mirror, never real glass. Clear the room of things that can break.",
    "context": "In this activity, you and your family act out what happens to light. One person throws ten soft balls, and others play a window, a mirror, a black cloth and a frosted pane, to see where the light goes.",
    "setup": [
     {
@@ -1363,7 +1367,7 @@
        ]
       }
      ],
-     "parent": "You need at least three people. With only two, take turns being the Sun and each material. The mirror may catch the ball and throw it back at the Sun. The frosted pane turns the player round and throws the ball in a random direction.",
+     "parent": "Two people are enough: your child throws and you play each material in turn, then swap. With three or four children, one throws, one counts and writes, and the others are the materials, and everyone swaps after each material. The mirror may catch the ball and throw it back at the Sun. The frosted pane turns the player round and throws the ball in a random direction.",
      "context": "This is the first step of Ten Light Balls. You choose who plays what."
     },
     {
@@ -1389,20 +1393,20 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Now put two windows in a row. Throw ten balls at the first. Count how many get through. Then throw only those through the second window. Count again. Write the numbers. Try three windows in a row, using nine out of every ten each time.",
-     "say": "Put two windows in a row. Ten balls hit the first. Nine get through. Now those nine hit the second window. How many get through? Nine tenths of nine is about eight.",
+     "do": "Now use dark sunglass lenses that pass half the light: the player catches every second ball and lets the others go past. Put two of them in a row (use two players, or one player who stands in two places). Throw 16 balls at the first. Count how many get through. Then throw only those through the second. Count again. Write the numbers. Try three and four lenses in a row.",
+     "say": "Put two sunglass lenses in a row. Sixteen balls hit the first. Every second ball gets through, so eight get past. Now those eight hit the second lens. How many get through? Half of eight is four.",
      "kid": "Two windows in a row. Count how many balls get through both.",
      "ask": [
       {
-       "q": "Does a second window take away nine, or about nine tenths of what reached it?",
+       "q": "Does the second lens take away the same number of balls as the first, or the same share of what reached it?",
        "good": [
-        "About one tenth of what reached it, so a bit less than one.",
-        "Each window lets through nine out of ten of what comes in.",
+        "The same share. The first took 8 and the second took only 4.",
+        "Each lens lets through half of what comes in.",
         "Each window takes the same share, not the same number."
        ]
       }
      ],
-     "parent": "The point is that each window passes the same share, not the same number. 10 balls become 9, then about 8, then about 7. Use fewer balls and a share of one half to see the pattern clearly: 10, 5, 2 or 3, 1. A bowl on the far side counts the balls that make it.",
+     "parent": "The point is that each lens passes the same share, not the same number. 16 balls become 8, then 4, then 2, then 1. If you want a clear window instead, nine tenths is hard to act out with whole balls: 10 becomes 9, then about 8, then about 7. A bowl on the far side counts the balls that make it. The pattern is exact only because you follow the rule, so say that this is a pretend light.",
      "think": "If every window takes one tenth of what reaches it, will light ever reach zero?",
      "context": "In this step, you put two and three windows in a row and see how the light fades."
     }
@@ -1497,6 +1501,7 @@
       "a": 0,
       "why": "Honey and glass bend light by almost the same amount, but not exactly. So there is a small bend where they meet. Stripes behind the jar show even a small bend, because the eye can tell when a straight line is broken. Choosing that the honey is a lens misses that the bend is at the marble's edge."
      },
+     "parent": "Use the thickest, bubble-free honey jar from the first experiment. If the glint is hard to see, darken the room and tilt the torch a little up or down. Stripes about a finger wide work best, and the jar should stand a hand's width in front of the page. Never shine the torch into anyone's eyes. With several children, one holds the torch, one holds the page, and one looks, then they swap.",
      "context": "In this step, you find the marble with a torch from the side, and with stripes behind the jar."
     },
     {
@@ -1506,7 +1511,7 @@
      "say": "Put the jar in front of a bright white screen. Look at the jar through the lens, and turn the lens. Do you see colours or dark patches in the marble?",
      "kid": "Put the jar in front of a white screen. Look through the lens and turn it.",
      "adult": false,
-     "parent": "Optional. A glass marble that cooled quickly has stress inside. Between a polarised screen and a polarising lens, stress shows up as coloured bands or a dark cross. Not every marble does it, but many do. Whatever happens, write it down.",
+     "parent": "Optional. Children can take turns with the lens, one holding the jar and one looking. A glass marble that cooled quickly has stress inside. Between a polarised screen and a polarising lens, stress shows up as coloured bands or a dark cross. Many marbles show nothing, and a screen that is not polarised or a lens that is not polarising shows nothing either, so this step may not work. That is a result too, so write down what you saw. Do the torch and stripes steps first, because they work with every marble.",
      "think": "A polarising lens helps to show stress in clear glass and plastic. What else might it help us see?",
      "context": "In this step, you look at the marble through a polarising lens, in front of a bright screen."
     },
@@ -1569,7 +1574,7 @@
     }
    ],
    "record": "A drawing of your design, with the number of layers of tape in each part. A note on which number of layers gave which colour. A sentence on what happens when you turn the lens.",
-   "safety": "A grown-up helps with the scissors. Do not use the screen at full brightness for long. Keep tape off the screen, and do not stick the tape on it.",
+   "safety": "A grown-up helps with the scissors. Look at the screen only for short spells, in a dim room, and rest your eyes. Keep tape off the screen, and do not stick the tape on it.",
    "context": "In this project, you stick layers of clear tape on clear plastic and look at them through a polarising lens. You make colours from clear materials.",
    "setup": [
     {
@@ -1625,7 +1630,7 @@
      "say": "Stick the first layer of tape for every part. Then the second layer on the parts that need two. Then the third. Press out bubbles. Lay each new strip across the one below.",
      "kid": "Cut strips of tape. Stick them on the plastic in layers. Press out bubbles.",
      "adult": true,
-     "parent": "The tape does not need to cover the whole sheet. A flower shape in the middle looks best. Cross each layer over the last at a slant, because colours are stronger when the layers lie in different directions. Plain clear tape gives more colour than matt tape.",
+     "parent": "The tape does not need to cover the whole sheet. A flower shape in the middle looks best. Cross each layer over the last at a slant, because colours are stronger when the layers lie in different directions. Plain clear tape gives more colour than matt tape. Ordinary cello tape from a stationery shop works; brown or masking tape does not. Each child can make their own small flower, and several children can share one screen and one lens by taking turns.",
      "check": {
       "t": "mcq",
       "q": "Before we look through the polarising lens, the taped picture just looks clear. What will the lens show?",
@@ -1656,7 +1661,7 @@
        ]
       }
      ],
-     "parent": "If you see no colours, check that the screen is polarising by turning the lens and seeing that the screen goes dark at one angle. Some phone screens do not work for this. Use a laptop or tablet screen if you can. Without a polarising lens and screen, you can ask an adult to put the picture in a sunny window and view it through a pair of polarising sunglasses.",
+     "parent": "If you see no colours, check that the screen is polarising by turning the lens and seeing that the screen goes dark at one angle. Some phone screens do not work for this. Use a laptop or tablet screen if you can. Turn the plastic sheet itself on the screen too, because the colours are strongest when the tape lies at a slant, about halfway between the screen's dark and bright angles. One layer may look only pale grey or cream, and more layers give stronger colours, so if you see nothing, try five or six layers. If the bare plastic sheet itself shows colour, that is stress in the plastic, so compare it with the taped part. Without a polarising lens and screen, you can ask an adult to put the picture in a sunny window and view it through a pair of polarising sunglasses.",
      "think": "The tape is clear and shows no colour by itself. Where do the colours come from?",
      "context": "In this step, you look at your picture through the lens and watch the colours."
     },
@@ -1676,7 +1681,7 @@
    "id": "c1",
    "title": "Vanish the Marble: make a liquid that hides it best",
    "mins": 40,
-   "problem": "A clear glass marble almost vanishes in honey. Cooking oil hides it a little, and water hardly at all. Can you make a cheap sugar syrup that hides the marble nearly as well as honey?",
+   "problem": "A clear glass marble almost vanishes in honey. Cooking oil hides it a lot, and water hardly at all. How close can you get with a cheap sugar syrup? Can a syrup beat oil, or even match honey?",
    "safety": "A grown-up does all the warming of water, and handles anything hot. Syrup that has just been made can scald, so it must be cool before a child touches it. Keep marbles away from children under five. Do not give honey to a child under one year old.",
    "constraints": [
     "Use only things from the kitchen: water, sugar, cooking oil and honey. No chemicals.",
@@ -1686,15 +1691,15 @@
    ],
    "materials": [
     "a clear glass marble",
-    "4 small clear jars of the same size",
+    "5 small clear jars or glasses of the same size, about 150 millilitres (water, thin syrup, thick syrup, oil and honey)",
     "sugar, water, cooking oil and honey",
     "a spoon, a measuring cup and a kettle or pan for a grown-up to warm water",
     "a torch, a page with a line of large print and a pencil for scoring"
    ],
    "general": [
     "A thin sugar syrup, half a cup of sugar to half a cup of water.",
-    "A thick sugar syrup, as much sugar as dissolves in a small cup of warm water, then cooled.",
-    "Plain honey, which is the standard to beat."
+    "A thick sugar syrup, as much sugar as dissolves in a small cup of warm water, then cooled. A syrup this thick usually bends light a little less than oil and honey do, so expect it to come second or third.",
+    "Plain honey, which is the standard to beat. Honey and oil are typically close to each other."
    ],
    "creative": [
     "Make three syrups of different thickness and line them up, from thin to thick, to see the marble fade as the syrup gets thicker.",
@@ -1739,11 +1744,11 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "A grown-up warms 100 millilitres of water until it is warm, not boiling. Stir in sugar a spoonful at a time, until no more will dissolve. Let it cool. Make a second, thinner syrup with half as much sugar. Pour each syrup into its own jar, to the same height. Pour the honey and the oil into two more jars.",
+     "do": "A grown-up warms 100 millilitres of water until it is warm, not boiling. Stir in sugar a spoonful at a time, until no more will dissolve. Let it cool. Make a second, thinner syrup with half as much sugar. Pour each syrup into its own jar, to the same height. Pour the honey, the oil and plain water into three more jars.",
      "say": "A grown-up warms the water. Stir in sugar a spoonful at a time, until no more dissolves. That is your thick syrup. Make a thinner one with half the sugar. Wait until they have cooled.",
      "kid": "A grown-up warms water. Stir in sugar until no more dissolves. Let it cool.",
      "adult": true,
-     "parent": "Never let a child handle hot water or hot syrup. Warm water is enough, because warm water dissolves more sugar. The thick syrup should flow like slow honey when it is cool. If it sets into crystals, stir in a spoonful of warm water.",
+     "parent": "Never let a child handle hot water or hot syrup. Warm water is enough, because warm water dissolves more sugar. The thick syrup should flow like slow honey when it is cool. If it sets into crystals, stir in a spoonful of warm water. Let the syrup stand for 10 minutes so that the stirring bubbles rise, because bubbles make the marble easy to see and spoil the test. With two to four children, each makes one syrup (one thick, one thin, one in between) and everyone scores all the jars alone. You need about 150 grams of sugar in all, which costs only a few rupees.",
      "context": "In this step, you and a grown-up make the sugar syrups and set up the jars."
     },
     {
@@ -1782,7 +1787,7 @@
        ]
       }
      ],
-     "parent": "Expected: honey is best or close to best. Oil and the thick syrup come next, in either order, then thin syrup, then water. Thicker is better up to a point, but a syrup cannot bend light more than the sugar allows. If your results differ, ask what could differ about the jars or the light.",
+     "parent": "Typically, honey and oil hide the marble best, then the thick syrup, then the thin syrup, then water. The thick syrup will probably not match honey, and that is a real result, not a failure. Thicker is better up to a point, but a syrup cannot bend light more than the sugar allows. If the marble still shows clearly in all of them, the scores will be close, so look at the edge and the print behind it, not only at the marble. If your results differ, ask what could differ about the jars or the light.",
      "think": "Why do you think a thick syrup cannot beat honey?",
      "context": "In this step, you rank your liquids and think about what to try next."
     }
@@ -2971,7 +2976,7 @@
    "id": "b-polar",
    "item": "A polarising film sheet, or a cheap pair of polarising sunglasses",
    "kind": "tool",
-   "why": "For Two Gates for Light and the Tape Stained Glass project. Many sunglasses are already polarising, and a small sheet of film costs about Rs 100 to 200.",
+   "why": "For Two Gates for Light and the Tape Stained Glass project. Some sunglasses are already polarising, but many cheap ones are not, so test them against a screen first. A small sheet of film costs about Rs 100 to 200 and is the sure choice. This is the one item that may cost more than the Rs 100 for the whole unit, and one set can serve both activities.",
    "url": "https://www.amazon.in/s?k=polarizing+film+sheet+linear",
    "used_in": [
     "e2",
@@ -3107,5 +3112,5 @@
    "Eugene Hecht, Optics, a standard university textbook, for refractive indexes, polarisation and absorption"
   ]
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Things to check before release: (1) The Vanishing Glass test depends on the marble and the honey. A plain soda-glass marble has a refractive index of about 1.52 and honey about 1.49 to 1.50, so it should nearly vanish, but a marble with swirls or bubbles will stay visible. The scores will vary. Heat-proof glass in cooking oil is a stronger match, but the unit does not rely on it. (2) Two Gates for Light needs polarising lenses. Many sunglasses are polarising but some are not, and some phone screens do not work for the screen test, so a laptop or tablet is better. The third-lens step is optional. (3) Clear Candy, White Powder works well with kalkandu, and coarse clear sugar crystals also work. (4) Ten Light Balls needs at least three people. (5) The Tape Stained Glass colours depend on the tape and screen, and may be faint on some screens. (6) The sugar syrups in the challenge are made with warm water by a grown-up. Thick syrup should come near honey but not beat it. Facts to verify: the neutrino count of about 60 billion per square centimetre per second; Marie Dacke's dung beetle result of 2003; Malus 1808 to 1809; the glass frog blood result of 2022; the 2016 transparent wood research; the Boeing 787 dimmable windows; the depths of the sunlit and twilight zones; Röntgen's date and details; Pliny's date; the claim that early glass dates from about 3,500 years ago and the dating of Indian glass beads; the refractive index of honey."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Things to check before release: (1) The Vanishing Glass test depends on the marble and the honey. A plain soda-glass marble has a refractive index of about 1.52 and honey about 1.49 to 1.50, so it should nearly vanish, but a marble with swirls or bubbles will stay visible. The scores will vary. Heat-proof glass in cooking oil is a stronger match, but the unit does not rely on it. (2) Two Gates for Light needs polarising lenses. Many sunglasses are polarising but some are not, and some phone screens do not work for the screen test, so a laptop or tablet is better. The third-lens step is optional. (3) Clear Candy, White Powder works well with kalkandu, and coarse clear sugar crystals also work. (4) Ten Light Balls now works with two people, using 16 balls and half-share lenses. (5) The Tape Stained Glass colours depend on the tape and screen, and may be faint on some screens. (6) The sugar syrups in the challenge are made with warm water by a grown-up. A thick sugar syrup (refractive index about 1.45) will probably rank below oil and honey, and that is an honest result. Facts to verify: the neutrino count of about 60 billion per square centimetre per second; Marie Dacke's dung beetle result of 2003; Malus 1808 to 1809; the glass frog blood result of 2022; the 2016 transparent wood research; the Boeing 787 dimmable windows; the depths of the sunlit and twilight zones; Röntgen's date and details; Pliny's date; the claim that early glass dates from about 3,500 years ago and the dating of Indian glass beads; the refractive index of honey."
 }
