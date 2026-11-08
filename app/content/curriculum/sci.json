@@ -2104,7 +2104,8 @@
     "sci.ecology.biodiversity.L4",
     "sci.ecology.levels-of-life.L4",
     "sci.ecology.populations.L4",
-    "sci.ecology.how-ecosystems-change.L4"
+    "sci.ecology.how-ecosystems-change.L4",
+    "sci.ecology.cycles-and-decomposers.L4"
    ],
    "chapters": [
     "N4-3",
@@ -2241,7 +2242,8 @@
     "sci.forces.direction-and-size.L4",
     "sci.forces.four-forces.L4",
     "sci.forces.fields.L4",
-    "sci.forces.friction.L4"
+    "sci.forces.friction.L4",
+    "sci.forces.flight.L4"
    ],
    "chapters": [
     "N4-7"
@@ -2290,7 +2292,8 @@
     4
    ],
    "subtopic_levels": [
-    "sci.gravity.orbits.L4"
+    "sci.gravity.orbits.L4",
+    "sci.gravity.falling.L4"
    ],
    "chapters": []
   },
@@ -7597,6 +7600,44 @@
     "sci.ecology.food-chains.L3"
    ],
    "go_deep": [
+    "sci.ecology.cycles-and-decomposers.L4"
+   ],
+   "go_wide": [
+    "sci.ecology.interdependence.L3",
+    "sci.ecology.food-chains.L3",
+    "sci.waste.compost-and-disposal.L3",
+    "sci.microorganisms.helpful-microbes.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:60",
+    "bio:61",
+    "bio:62",
+    "bio:197"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.ecology.cycles-and-decomposers.L4",
+   "subject": "sci",
+   "topic": "ecology",
+   "topic_name": "Living in harmony: the web of life",
+   "strand": "Life",
+   "topic_level": "sci.ecology.L4",
+   "subtopic": "cycles-and-decomposers",
+   "name": "Decomposers and nature's recycling",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Where does the log go? How dead things return to the air and the soil.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.ecology.cycles-and-decomposers.L3"
+   ],
+   "go_deep": [
     "sci.ecology.cycles-and-decomposers.L5"
    ],
    "go_wide": [
@@ -7632,8 +7673,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.ecology.cycles-and-decomposers.L3",
-    "sci.ecology.food-chains.L5"
+    "sci.ecology.cycles-and-decomposers.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -16773,6 +16813,45 @@
     "sci.forces.push-and-pull.L3"
    ],
    "go_deep": [
+    "sci.forces.flight.L4"
+   ],
+   "go_wide": [
+    "sci.forces.push-and-pull.L3",
+    "sci.forces.changing-motion.L3",
+    "sci.forces.measuring-forces.L3",
+    "sci.forces.friction.L3",
+    "sci.forces.simple-machines.L3",
+    "sci.forces.stretching-springs.L3",
+    "sci.forces.air-water-resistance.L4",
+    "sci.animals.birds.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:180"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.forces.flight.L4",
+   "subject": "sci",
+   "topic": "forces",
+   "topic_name": "Forces and movement",
+   "strand": "Physics",
+   "topic_level": "sci.forces.L4",
+   "subtopic": "flight",
+   "name": "How things fly",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Steering through air: drag, balance and control in flight.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.forces.flight.L3"
+   ],
+   "go_deep": [
     "sci.forces.flight.L5"
    ],
    "go_wide": [
@@ -16809,8 +16888,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.forces.flight.L3",
-    "sci.forces.push-and-pull.L3"
+    "sci.forces.flight.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -16883,8 +16961,37 @@
     "sci.forces.push-and-pull.L3"
    ],
    "go_deep": [
+    "sci.gravity.falling.L4",
     "sci.gravity.weight-and-mass.L3"
    ],
+   "go_wide": [
+    "sci.gravity.weight-and-mass.L3"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.gravity.falling.L4",
+   "subject": "sci",
+   "topic": "gravity",
+   "topic_name": "Gravity",
+   "strand": "Physics",
+   "topic_level": "sci.gravity.L4",
+   "subtopic": "falling",
+   "name": "Things fall",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Falling: why a falling thing speeds up, and why it stops speeding up.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.gravity.falling.L3"
+   ],
+   "go_deep": [],
    "go_wide": [
     "sci.gravity.weight-and-mass.L3"
    ],
