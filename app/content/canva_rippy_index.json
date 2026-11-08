@@ -1,0 +1,487 @@
+{
+ "design_id": "DAHZtdnr5_s",
+ "name": "rippy",
+ "note": "Founder's Canva file 'rippy' (design id DAHZtdnr5_s). Each page holds one picture; 'title' is the Canva page title (what it shows). Pages 1-20 are app-screen and family pictures; 21-80 are everyday objects and foods (useful as photos of materials). Source and licence of each picture are NOT recorded yet: confirm before showing publicly, and credit where needed.",
+ "pictures": [
+  {
+   "page": 1,
+   "title": "Kids playing building blocks",
+   "page_id": "PBgtb1s4GDvRTjsw",
+   "media_id": "MAG71QGXrrk"
+  },
+  {
+   "page": 2,
+   "title": "Kid with a globe",
+   "page_id": "PBB1DlqcBj47rKtY",
+   "media_id": "MAEcRLgVsk4"
+  },
+  {
+   "page": 3,
+   "title": "Library tree and kids reading",
+   "page_id": "PBl9dQHg0RpjYTtF",
+   "media_id": "MAHU-vf-O34"
+  },
+  {
+   "page": 4,
+   "title": "kids scribble drawing",
+   "page_id": "PBZV6rWSDbb3S9qn",
+   "media_id": "MAHXk8c9fX8"
+  },
+  {
+   "page": 5,
+   "title": "Kid with craft animal mask and another kid clapping",
+   "page_id": "PB4kJdxB52K5mdr0",
+   "media_id": "MAGzuIm1vPY"
+  },
+  {
+   "page": 6,
+   "title": "Paint flower",
+   "page_id": "PBBXCBCspGVgTvTj",
+   "media_id": "MAE_EZuPO0g"
+  },
+  {
+   "page": 7,
+   "title": "Kid painting",
+   "page_id": "PBL36sqfVNgKjkW2",
+   "media_id": "MAGU-JZSd1c"
+  },
+  {
+   "page": 8,
+   "title": "forest scene",
+   "page_id": "PB5ZgfS0fC46yBP4",
+   "media_id": "MAHLbElpInI"
+  },
+  {
+   "page": 9,
+   "title": "butterfly scene",
+   "page_id": "PBPjz8f48Y4lBmvD",
+   "media_id": "MADesaKX70s"
+  },
+  {
+   "page": 10,
+   "title": "Moms prep icon",
+   "page_id": "PBf4jQgMY8Z10Bc2",
+   "media_id": "MAGDynHOQpA"
+  },
+  {
+   "page": 11,
+   "title": "jokes and games icon",
+   "page_id": "PB4q2cBcJ02J76n4",
+   "media_id": "MAHX4LQyTa4"
+  },
+  {
+   "page": 12,
+   "title": "Quiz",
+   "page_id": "PBJdSK6LLZdsDWtR",
+   "media_id": "MAHYEzbnEg4"
+  },
+  {
+   "page": 13,
+   "title": "Refresher icon",
+   "page_id": "PB3DF9Ln7TH0Mp68",
+   "media_id": "MAG9UEeefwY"
+  },
+  {
+   "page": 14,
+   "title": "finish started icon",
+   "page_id": "PBJDbfbxntqYT8Pr",
+   "media_id": "MAHTWcVbPQs"
+  },
+  {
+   "page": 15,
+   "title": "Finishing Race Boy",
+   "page_id": "PBJWDC3ScBRT7JH4",
+   "media_id": "MAFXbfUSANs"
+  },
+  {
+   "page": 16,
+   "title": "Group Story reading adult and kids",
+   "page_id": "PB1yTlqPNDcGxtfB",
+   "media_id": "MAGxECEQRvM"
+  },
+  {
+   "page": 17,
+   "title": "Group Study",
+   "page_id": "PBNwRXgrRxbt1wyb",
+   "media_id": "MAG5JrL17jA"
+  },
+  {
+   "page": 18,
+   "title": "classroom kids",
+   "page_id": "PBj6TykSh4qPZPJz",
+   "media_id": "MAG0tpc_USM"
+  },
+  {
+   "page": 19,
+   "title": "teacher and kids - tuition",
+   "page_id": "PB3JzxSc5wfmtnt5",
+   "media_id": "MAGyBobd3tE"
+  },
+  {
+   "page": 20,
+   "title": "Kid as chef",
+   "page_id": "PBYfYD4DdzLcPz53",
+   "media_id": "MAG2_ZxMZ7A"
+  },
+  {
+   "page": 21,
+   "title": "Kids getting ready for gym",
+   "page_id": "PBWptCCcKpfVNFYy",
+   "media_id": "MAHLUdBacCo"
+  },
+  {
+   "page": 22,
+   "title": "Boardgame night",
+   "page_id": "PBlvfhkPNM6hv3Lh",
+   "media_id": "MAHYDm9e-Pc"
+  },
+  {
+   "page": 23,
+   "title": "Mom & kid studying at home",
+   "page_id": "PBW8K9Khs0qwYyst",
+   "media_id": "MAHRh5KaaEA"
+  },
+  {
+   "page": 24,
+   "title": "mom helping kid with studying",
+   "page_id": "PBkWcq6GwC8z15zC",
+   "media_id": "MAHRh4cLIVA"
+  },
+  {
+   "page": 25,
+   "title": "mom and kid studying at home, kid doing an activity on the board",
+   "page_id": "PBXRSSXkrRLnDx29",
+   "media_id": "MAHM_ptr9HE"
+  },
+  {
+   "page": 26,
+   "title": "Mom reading a story book",
+   "page_id": "PBdFy2fBVpgWXd1N",
+   "media_id": "MAHUnu2ghNw"
+  },
+  {
+   "page": 27,
+   "title": "flower illustration",
+   "page_id": "PBJk6SLfH13BZNZT",
+   "media_id": "MAHDYbRQYbk"
+  },
+  {
+   "page": 28,
+   "title": "flower",
+   "page_id": "PBV168WmQhRcQHBT",
+   "media_id": "MAHDYXm_pWw"
+  },
+  {
+   "page": 29,
+   "title": "flower",
+   "page_id": "PBPZX5rPVFxxQwSr",
+   "media_id": "MAHYaosLVoc"
+  },
+  {
+   "page": 30,
+   "title": "LadyBug",
+   "page_id": "PBt910X1yZ7n2TVM",
+   "media_id": "MAHCY4TB9OU"
+  },
+  {
+   "page": 31,
+   "title": "Brass Tumber with coffee and coffee beans",
+   "page_id": "PBvrKg8NGmrmdqdR",
+   "media_id": "MAFTVHv0hE8"
+  },
+  {
+   "page": 32,
+   "title": "steeltumbler",
+   "page_id": "PBRZ6l0LkfpfWBfl",
+   "media_id": "MAEP7usOjQg"
+  },
+  {
+   "page": 33,
+   "title": "steelspoon",
+   "page_id": "PBp72Q367gtmSWyr",
+   "media_id": "MAG6j79W8eo"
+  },
+  {
+   "page": 34,
+   "title": "glassofwater",
+   "page_id": "PBHnd3L8ztf5k1J8",
+   "media_id": "MADxtz7rihY"
+  },
+  {
+   "page": 35,
+   "title": "claypot",
+   "page_id": "PBLpb1wfYZKWlN4W",
+   "media_id": "MAEKumP329I"
+  },
+  {
+   "page": 36,
+   "title": "plasticbucket",
+   "page_id": "PBPg8qQNDwt1pwGc",
+   "media_id": "MAEZllKtmBc"
+  },
+  {
+   "page": 37,
+   "title": "woodenrollingpin",
+   "page_id": "PByJVNNbsNqPpJ77",
+   "media_id": "MAEXgyueSCk"
+  },
+  {
+   "page": 38,
+   "title": "kitchenfoil",
+   "page_id": "PBSG80PYzWhJYyBN",
+   "media_id": "MADKMlnjJUg"
+  },
+  {
+   "page": 39,
+   "title": "wateringcan",
+   "page_id": "PB2y6nb3ZwQdTYBV",
+   "media_id": "MAGcvk8Ar3I"
+  },
+  {
+   "page": 40,
+   "title": "coconutshell",
+   "page_id": "PB5DFy67vVcJq24z",
+   "media_id": "MADS5YCZx40"
+  },
+  {
+   "page": 41,
+   "title": "Icecube",
+   "page_id": "PBS7rbT8Pb9fT31X",
+   "media_id": "MAEeHZzls8k"
+  },
+  {
+   "page": 42,
+   "title": "lit candle",
+   "page_id": "PBXLZQFNTnfBqD4m",
+   "media_id": "MADQtmhZ334"
+  },
+  {
+   "page": 43,
+   "title": "lit diya",
+   "page_id": "PBCy8fVkyFzm6BhW",
+   "media_id": "MAGZK5q_TSk"
+  },
+  {
+   "page": 44,
+   "title": "idli",
+   "page_id": "PBsnVZvJYlY095ks",
+   "media_id": "MAF99WP4ens"
+  },
+  {
+   "page": 45,
+   "title": "curd",
+   "page_id": "PBTHNKVMv1byK3t4",
+   "media_id": "MAA8u3Rv7fc"
+  },
+  {
+   "page": 46,
+   "title": "butter milk in brass indian container",
+   "page_id": "PBvXRHplplLsRBFt",
+   "media_id": "MABys9hqP-g"
+  },
+  {
+   "page": 47,
+   "title": "milk packet",
+   "page_id": "PBR83lVMDX1msx4L",
+   "media_id": "MAHZ0QfFwZw"
+  },
+  {
+   "page": 48,
+   "title": "ghee",
+   "page_id": "PB6RD5QqDKCDKgNM",
+   "media_id": "MAEqjJWeqms"
+  },
+  {
+   "page": 49,
+   "title": "honey",
+   "page_id": "PB2Y5NYkXWZLhcWr",
+   "media_id": "MADQ4yAfJU8"
+  },
+  {
+   "page": 50,
+   "title": "jaggery",
+   "page_id": "PBYG9nZSGcf5Bp7p",
+   "media_id": "MADm74LRM5Y"
+  },
+  {
+   "page": 51,
+   "title": "rice grains",
+   "page_id": "PBJqHnXnnkQcVg4g",
+   "media_id": "MAE7DBaVTRM"
+  },
+  {
+   "page": 52,
+   "title": "dry moong",
+   "page_id": "PBMSMWfkG5rDm90t",
+   "media_id": "MADBOodR_dw"
+  },
+  {
+   "page": 53,
+   "title": "sprouted moong",
+   "page_id": "PBxFXpT3fvlVbmbC",
+   "media_id": "MAEn_ftUJiI"
+  },
+  {
+   "page": 54,
+   "title": "mango",
+   "page_id": "PBWrKv8gQJXdtN11",
+   "media_id": "MAGZLGbmjxg"
+  },
+  {
+   "page": 55,
+   "title": "banana",
+   "page_id": "PB1VNDNJQfHDDHpP",
+   "media_id": "MAFYfVaGffs"
+  },
+  {
+   "page": 56,
+   "title": "banana peel and monkey eating banana",
+   "page_id": "PBLj5mV9TJfn3j9S",
+   "media_id": "MAGwVcU_vwQ"
+  },
+  {
+   "page": 57,
+   "title": "coconut",
+   "page_id": "PB0LMjhq4W1pxsGf",
+   "media_id": "MAHAvZUDAXo"
+  },
+  {
+   "page": 58,
+   "title": "tomato",
+   "page_id": "PBSJR38gWWBHRhM2",
+   "media_id": "MAG2qBfXeas"
+  },
+  {
+   "page": 59,
+   "title": "potato",
+   "page_id": "PB6w6xfZG5RBRtGS",
+   "media_id": "MAGZMv3TSkI"
+  },
+  {
+   "page": 60,
+   "title": "orange",
+   "page_id": "PBlrrnBBsPWbg3md",
+   "media_id": "MADasXrxIHg"
+  },
+  {
+   "page": 61,
+   "title": "spinach/palak",
+   "page_id": "PBYLHJXKzhcnRdXv",
+   "media_id": "MADBDibN3Mk"
+  },
+  {
+   "page": 62,
+   "title": "egg",
+   "page_id": "PBNNlP701snk8PDt",
+   "media_id": "MADQ49oITeU"
+  },
+  {
+   "page": 63,
+   "title": "salt",
+   "page_id": "PBdp8qmPmhp5MYTj",
+   "media_id": "MADCYAm9FP8"
+  },
+  {
+   "page": 64,
+   "title": "chips packet",
+   "page_id": "PBGD6t8Nkk1HBxdH",
+   "media_id": "MADFCGiEjNo"
+  },
+  {
+   "page": 65,
+   "title": "cotton shirt",
+   "page_id": "PBxTL1lq1Y8HH3GN",
+   "media_id": "MAE7WLbcc4c"
+  },
+  {
+   "page": 66,
+   "title": "woolen sweater",
+   "page_id": "PBCsmX90n3SBrs2S",
+   "media_id": "MAGrWZuEvUI"
+  },
+  {
+   "page": 67,
+   "title": "cotton towel",
+   "page_id": "PBRrqnysMMZLVWqT",
+   "media_id": "MADE_7zFlGQ"
+  },
+  {
+   "page": 68,
+   "title": "newspaper",
+   "page_id": "PBTZFNJd8WkHQLnJ",
+   "media_id": "MAEJInMvHn0"
+  },
+  {
+   "page": 69,
+   "title": "sheet of paper",
+   "page_id": "PBXqgsMTmkZ6mgxJ",
+   "media_id": "MAGZL8xi18g"
+  },
+  {
+   "page": 70,
+   "title": "rubberband",
+   "page_id": "PBFdhGqB1dbwXGKh",
+   "media_id": "MAEE_w3Ggbs"
+  },
+  {
+   "page": 71,
+   "title": "GlassMarble",
+   "page_id": "PBtX70MRT5RFkrjN",
+   "media_id": "MADAdwcZuHQ"
+  },
+  {
+   "page": 72,
+   "title": "GlassBangle",
+   "page_id": "PBnYb3GQmR9l5bbB",
+   "media_id": "MAD4D7ya4Mc"
+  },
+  {
+   "page": 73,
+   "title": "Brick",
+   "page_id": "PBmwqxQB9XgcsmQt",
+   "media_id": "MAEfKNTv2ms"
+  },
+  {
+   "page": 74,
+   "title": "Pebble",
+   "page_id": "PBcGdYbP4kkQGl3B",
+   "media_id": "MAHAWF79HWY"
+  },
+  {
+   "page": 75,
+   "title": "sand/desert",
+   "page_id": "PBQ3pfl2y5KzTJXb",
+   "media_id": "MAETUhMhgok"
+  },
+  {
+   "page": 76,
+   "title": "clay/pottery",
+   "page_id": "PBXB85JHgn3H5k6W",
+   "media_id": "MAGciXCqTrw"
+  },
+  {
+   "page": 77,
+   "title": "hammer and three nails (untitled in Canva; named from the picture)",
+   "page_id": "PBwB1CNP6lP04PVH",
+   "media_id": "MAG540Z_RsI"
+  },
+  {
+   "page": 78,
+   "title": "hand holding a plastic water bottle (untitled in Canva; named from the picture)",
+   "page_id": "PBnDyLCxnbf7LNBH",
+   "media_id": "MADuuiN4CV4"
+  },
+  {
+   "page": 79,
+   "title": "pink soap bar with flowers (untitled in Canva; named from the picture)",
+   "page_id": "PBxsjz9fCZbbmxfW",
+   "media_id": "MAEPSFMNUZI"
+  },
+  {
+   "page": 80,
+   "title": "pencils (untitled in Canva; named from the picture)",
+   "page_id": "PB91zr9FdNDzp1Yp",
+   "media_id": "MAHA6glppL0"
+  }
+ ]
+}
