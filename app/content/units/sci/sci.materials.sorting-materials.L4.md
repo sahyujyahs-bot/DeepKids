@@ -1,9 +1,9 @@
 # Sorting materials: where to draw the line, and what a map of two numbers can show
 `sci.materials.sorting-materials.L4`
 
-**Summary.** Weigh one katori of each of ten kitchen foods, and they line up in a ladder with no gaps. So which foods are heavy and which are light? Anyone can draw the line anywhere. Then measure a second thing, how tall each food piles up, and put both numbers on a map. Sometimes the foods fall into clumps with empty space between them. Your child sorts dal by eye, in a hurry and with care, and counts the two kinds of mistake. They learn why a sorter can swap its mistakes but not remove them. They meet the astronomers who found whole families of stars by putting two numbers side by side. They also see why the groups we find depend on what we measure.
+**Summary.** Weigh one katori of each of ten kitchen foods, and they line up in a ladder with no clear gap in the middle. So which foods are heavy and which are light? Anyone can draw the line anywhere. Then measure a second thing, how tall each food piles up, and put both numbers on a map. Sometimes the foods fall into clumps with empty space between them. Your child sorts dal by eye, in a hurry and with care, and counts the two kinds of mistake. They learn why a sorter can swap its mistakes but not remove them. They meet the astronomers who found whole families of stars by putting two numbers side by side. They also see why the groups we find depend on what we measure.
 
-**Intro.** *Ten kitchen foods stand in a row: salt, sugar, rice, toor dal, mustard seeds, atta, maida, poha, ragi flour and sooji. Weigh one katori of each, and the weights make a ladder from the lightest food to the heaviest. There is no big jump anywhere in it. Now, which of these foods are heavy foods, and which are light? Where does the line go?* Nobody can say, because the ladder has no gap to show where to cut. You have to choose a line, and a friend can choose a different one. In this unit you find out how a line changes the groups, how a second number can show clumps that one number hides, and what happens when a sorter is hurried or strict. You also meet the astronomers who found the families of stars by doing exactly this.
+**Intro.** *Ten kitchen foods stand in a row: salt, sugar, rice, toor dal, mustard seeds, atta, maida, poha, ragi flour and sooji. Weigh one katori of each, and the weights make a ladder from the lightest food to the heaviest. There is no clear gap in the middle of it. Now, which of these foods are heavy foods, and which are light? Where does the line go?* Nobody can say, because the ladder has no gap to show where to cut. You have to choose a line, and a friend can choose a different one. In this unit you find out how a line changes the groups, how a second number can show clumps that one number hides, and what happens when a sorter is hurried or strict. You also meet the astronomers who found the families of stars by doing exactly this.
 
 ## Learning outcomes
 0. I can put things in order by a number, draw a cut-off to make two groups, and say that the cut-off was my choice.
@@ -76,14 +76,14 @@ Gaps on a map seem to show that nature has groups of its own. But the gap you se
 ### The star map: Hertzsprung, Russell and the families of stars · *defined*
 **Definition:** A star map, called the Hertzsprung–Russell diagram, places each star by its colour across and its brightness up. Most stars fall on a band called the main sequence, with giants above it and white dwarfs below it.
 
-About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. Their types were really a sorting by colour and surface heat. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. Around 1910, the American astronomer Henry Norris Russell put brightness against type for many stars and drew a map. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. Cecilia Payne, in 1925, had shown that the types were really a ladder of temperature.
+About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. Their types were really a sorting by colour and surface heat. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed a map that put brightness against type for many stars. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. Cecilia Payne, in 1925, had shown that the types were really a ladder of temperature.
 - e.g. The Sun sits in the middle of the main sequence.
 - e.g. Betelgeuse is a red giant, cool and very bright.
 - e.g. Sirius B is a white dwarf, hot and faint.
 ### The map of materials: families that appear by themselves · *defined*
 **Definition:** A materials chart, such as the Ashby chart, places materials by two properties, for example how heavy they are for their size and how stiff they are. Families of materials show up as clumps.
 
-Starting in the 1980s, an engineer at Cambridge named Michael Ashby made charts for choosing materials. He plotted thousands of materials by two properties at a time, such as stiffness against density. On many of these charts, the materials fall into families. Metals sit in one clump, heavy and stiff. Woods and foams sit in another, light and less stiff. Plastics and rubbers sit in a third, light and soft. Glass and ceramics sit in a fourth, hard and brittle. Nobody told the dots where to go. The families are the ones people already knew from names like metal, plastic and wood, and the chart shows that those names mean something about the numbers. An engineer who needs something light and stiff finds that spot on the chart and reads off the materials near it. The empty parts of a chart are interesting too. They show what no known material does well, and they are where designers aim new materials.
+Starting around 1990, an engineer at Cambridge named Michael Ashby made charts for choosing materials. He plotted thousands of materials by two properties at a time, such as stiffness against density. On many of these charts, the materials fall into families. Metals sit in one clump, heavy and stiff. Woods and foams sit in another, light and less stiff. Plastics and rubbers sit in a third, light and soft. Glass and ceramics sit in a fourth, hard and brittle. Nobody told the dots where to go. The families are the ones people already knew from names like metal, plastic and wood, and the chart shows that those names mean something about the numbers. An engineer who needs something light and stiff finds that spot on the chart and reads off the materials near it. The empty parts of a chart are interesting too. They show what no known material does well, and they are where designers aim new materials.
 - e.g. Steel and copper sit in the heavy, stiff clump.
 - e.g. Pine and bamboo sit near each other in the light clump.
 - e.g. Carbon-fibre materials sit in a place that is light and very stiff, where few older materials did.
@@ -137,7 +137,7 @@ A human can draw a map of two numbers. A computer can find clumps among hundreds
 - Computers can find clumps in many numbers at once, but people choose the numbers and decide what the clumps mean. *How we know:* Fisher's iris study in 1936, and tests of face-sorting systems that counted mistakes for each group of people.
 
 ## How we found out
-**Ejnar Hertzsprung (Danish) and Henry Norris Russell (American), using the sorting by Annie Jump Cannon and Antonia Maury, About 1905 to 1913.** About 1900, astronomers at Harvard College Observatory sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. These were two ladders: a type, and a brightness. Around 1905, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. Around 1910, the American astronomer Henry Norris Russell put brightness against type for many stars on one map. The stars were not scattered everywhere. Most lay along a long band, with bright giants above it and faint white dwarfs below. For a while, many thought the map showed the path that every star travels as it ages. That turned out to be wrong. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. One map had shown the families before anybody knew why they existed.  
+**Ejnar Hertzsprung (Danish) and Henry Norris Russell (American), using the sorting by Annie Jump Cannon and Antonia Maury, About 1905 to 1914.** About 1900, astronomers at Harvard College Observatory sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. These were two ladders: a type, and a brightness. Around 1905, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed brightness against type for many stars on one map. The stars were not scattered everywhere. Most lay along a long band, with bright giants above it and faint white dwarfs below. For a while, many thought the map showed the path that every star travels as it ages. That turned out to be wrong. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. One map had shown the families before anybody knew why they existed.  
 *What people believed before:* Many thought that the band of stars on the map was a path that every star follows as it ages, from giant to dwarf. Later work showed that stars of different masses sit at different places on the band, and that each star stays near one place for most of its life.
 
 ## Challenging perspectives
@@ -236,13 +236,14 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 
 ## Games
 ### g1 · Where Is the Line? (20 min)
-- **rules:** The squish score is a score made up for this game. It goes from 1, rock hard, to 20, very squishy. The order of the cards is roughly right.; One player is the Judge. The Judge secretly writes a cut-off number between 6 and 15 on a slip of paper and folds it.; Squishy means a squish score at or above the cut-off. Everything below it is firm.; The other players take turns to point at one card and ask, 'Is this card squishy?' The Judge says yes or no, using the cut-off.; Each guesser asks two questions. Then each guesser writes down a guess for the cut-off number.; The Judge opens the slip. A guess that is exactly right wins 3 tokens. A guess one away wins 2 tokens. A guess two away wins 1 token.; The Judge wins 1 token for each guesser who is three or more away. Then the next player becomes the Judge. After everyone has been the Judge once, the player with the most tokens wins.
+- **rules:** The squish score is a score made up for this game. It goes from 1, rock hard, to 20, very squishy. The order of the cards is roughly right.; One player is the Judge. The Judge secretly writes a cut-off number between 6 and 15 on a slip of paper and folds it.; Squishy means a squish score at or above the cut-off. Everything below it is firm.; The other players take turns to point at one card and ask, 'Is this card squishy?' The Judge says yes or no, using the cut-off.; Each guesser asks two questions. Then each guesser secretly writes down a guess for the cut-off number.; The Judge opens the slip. A guess that is exactly right wins 3 tokens. A guess one away wins 2 tokens. A guess two away wins 1 token.; The Judge wins 1 token for each guesser who is three or more away. Then the next player becomes the Judge. After everyone has been the Judge once, the player with the most tokens wins.; If you run out of tokens, keep the score on paper.
 - **Printable cards: 24 two-sided cards: a thing with its squish score on the front, and a line about why on the back:** Cotton wool ball. Squish score 20. (back: Very squishy. It is mostly air between soft fibres, so it squashes almost flat.); Foam mattress. Squish score 19. (back: Very squishy. It is full of tiny air pockets that squash and then spring back.); Pillow. Squish score 18. (back: Very squishy. The stuffing is mostly air between fluffy fibres.); Dry kitchen sponge. Squish score 17. (back: Very squishy. A sponge is full of holes that squash flat and then open again.); Folded towel. Squish score 16. (back: Squishy. The loops of cotton and the air between them squash under a hand.); Soft idli. Squish score 15. (back: Squishy. A fresh idli is a light, airy cake that dents under a finger.); Slice of bread. Squish score 14. (back: Fairly squishy. Bread has many small holes made by gas, and they squash.); Ripe banana. Squish score 13. (back: Fairly squishy. The flesh dents under a thumb.); Ball of dough. Squish score 12. (back: Fairly squishy. Dough squashes and stays squashed, instead of springing back.); Modelling clay. Squish score 11. (back: Middling. Clay squashes under a firm push and keeps its new shape.); Butter on a warm day. Squish score 10. (back: Middling. On a warm day in Chennai, butter is soft. On a cold day it is much harder.); Rubber chappal sole. Squish score 8. (back: Middling to firm. Rubber squashes a little and then springs back.); Rubber eraser. Squish score 7. (back: Middling to firm. An eraser dents a little under a fingernail and springs back.); Empty plastic bottle with the cap on. Squish score 6. (back: Middling to firm. The thin walls squeeze in easily, and the air inside pushes them back.); Candle. Squish score 5. (back: Firm. Wax holds its shape, but a fingernail leaves a small mark.); Apple. Squish score 4. (back: Firm. A thumb does not dent a fresh apple.); Raw potato. Squish score 3. (back: Firm. A raw potato stays hard under a thumb.); Wooden spoon. Squish score 2. (back: Very firm. Wood does not dent under a thumb or a fingernail.); Dry khakhra. Squish score 2. (back: Very firm. It is dry and crisp, and it snaps instead of squashing.); Pencil. Squish score 2. (back: Very firm. Wood and graphite do not squash under a finger.); Steel katori. Squish score 1. (back: Rock hard. Steel does not dent under any push a hand can make.); Glass tumbler. Squish score 1. (back: Rock hard. Glass does not dent, though it may break.); Brick. Squish score 1. (back: Rock hard. A brick does not squash under any hand.); Ceramic cup. Squish score 1. (back: Rock hard. A fired clay cup does not dent.)
 - **Printable tokens: 20 point tokens:** 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point; 1 point
 - **s1 (4 min)**  
   *Parent does:* Cut out the 24 cards and the 20 tokens. Lay the cards in a row, from the highest squish score to the lowest. Check that the order is a ladder.  
   *Parent says:* These cards have squish scores from 1 to 20. We lay them in a row from the highest to the lowest. That makes a ladder.  
   *Child mode:* Cut out the cards. Lay them in a row from 20 down to 1.
+  - Note: Young children can ask a grown-up to cut with scissors. No printer? Write each card's name and score on a slip of paper. The back lines are not needed to play. With only two players, the child can be the Judge first so a grown-up has to guess.
 - **s2 (5 min)**  
   *Parent does:* Play a practice round. You are the Judge, with a secret cut-off of 10. Ask your child to ask about one card at a time. Show how each answer moves a card to the Yes row or the No row.  
   *Parent says:* I have a secret cut-off. A card with a score at or above it is squishy. Point at a card and ask me if it is squishy. Which card will you ask about first? Why?  
@@ -259,7 +260,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Parent says:* New Judge, new round. After this one, look at the two cards on either side of the cut-off. How different are they really?  
   *Child mode:* Swap the Judge. Play round two. Look at the two cards next to the cut-off.
   - Note: This is the heart of the game. Cards next to the line are almost the same, yet they land in different groups. Cards far from the line never change.
-  - Check: The Judge's cut-off was 10. The card with score 10 is squishy, and the card with score 9 is firm. What does this show? → **The two cards are almost the same, and the line was the Judge's choice**
+  - Check: The Judge's cut-off was 10. The card with score 10 is squishy, and the card with score 8 is firm. What does this show? → **The two cards are almost the same, and the line was the Judge's choice**
 - **s5 (3 min)**  
   *Parent does:* Count the tokens and name the winner. Then ask which cards were never in doubt, and which cards changed groups from round to round.  
   *Parent says:* Count your tokens. Now think. Which cards stayed in the same group in every round? Which cards changed?  
@@ -267,38 +268,38 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   - Ask: Which cards never changed group, whatever the cut-off? (good: The ones at the very top and the very bottom.; The very squishy and the rock hard ones.; The ones far from the middle.)
 
 ## Experiments
-### e1 · The Katori Map: two numbers for ten kitchen foods (45 min)
+### e1 · The Katori Map: two numbers for ten kitchen foods (40 min)
 - **question:** If you sort ten kitchen foods by the mass of one katori, is there a gap in the ladder? And if you also measure how tall each food piles up, do the foods fall into clumps?
 - **predict:** Before you start, guess. Which food will be the heaviest in a katori, and which the lightest? Which will make the tallest heap? Will any foods sit close together on both counts? Why do you think so?
 - **fair test:** You use the same katori, filled level to the top, for every food. You pour each food from the same height onto the same plate, slowly. You measure each heap in the same way. Only the food changes, so any difference in mass or in heap height comes from the food.
-- **safety:** Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to, and use another dry food from the kitchen. Wash your hands after the test.
+- **safety:** Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to, and use another dry food from the kitchen. Wash your hands after the test. Keep small grains and seeds away from the mouths and noses of little brothers and sisters. A grown-up should help anyone under six.
 - **record:** For each food, write the mass of one katori and two heap heights. Then find the average height. Last, draw the map, with one dot for each food, and ring the clumps you see.
 - **results table:** Food | Mass of one katori in grams | Height of the heap in millimetres, first pour | Height of the heap in millimetres, second pour | Average height in millimetres
-- **s1 (5 min)**  
+- **s1 (4 min)**  
   *Parent does:* Line up the ten foods. Ask your child to guess which will be the heaviest in a katori and which the lightest. Ask which will make the tallest heap. Write the guesses and the reasons.  
   *Parent says:* We will measure two things about ten foods. First, how heavy one katori of each is. Second, how tall a heap each makes. Which will be heaviest? Which will make the tallest heap? Why do you think so?  
   *Child mode:* Guess first. Which food is heaviest in a katori? Which piles tallest? Why?
   - Ask: Why do you think that food will be the heaviest, or make the tallest heap? (good: It is made of big grains.; Flour is light and fluffy.; Salt is a heavy crystal.)
   - Note: Do not correct the guesses. Any guess with a reason is a good start. Write your child's own words.
-- **s2 (9 min)**  
+- **s2 (8 min)**  
   *Parent does:* Put the empty katori on the scale and press zero. If your scale has no zero button, weigh the empty katori and subtract it later. Fill the katori with salt and level the top with a ruler. Weigh it and write the grams. Do the same for the other nine foods.  
   *Parent says:* Weigh one katori of each food. Fill it level every time. Write the grams in the table.  
   *Child mode:* Fill the katori level. Weigh it. Write the grams. Do all ten foods.
-  - Note: Keep the food in the katori after weighing, to use for the heap in step four. If you have no scale at home, a kirana shop or a neighbour will often weigh the katoris. Without a scale, rank the ten katoris by holding two at a time, and use the ranks 1 to 10 instead of grams.
+  - Note: Keep the food in the katori after weighing, to use for the heap in step four. If you have no scale at home, a kirana shop or a neighbour will often weigh the katoris. Without a scale, rank the ten katoris by holding two at a time, and use the ranks 1 to 10 instead of grams. One child with a parent: the child fills, levels and weighs, and the parent writes the table. Two to four children: one fills and levels, one weighs and one writes. Swap jobs after every food. Each child then draws their own map from the shared table. Typical masses of a steel katori of food are roughly 70 to 200 grams, but katoris differ, so trust your own numbers.
   - Check: Why do you level the top of the katori for every food? → **So every food has the same volume, and only the food changes**
-- **s3 (6 min)**  
+- **s3 (5 min)**  
   *Parent does:* Write the ten foods in a column, from the lightest to the heaviest. This is your ladder. Draw a line where you think the heavy foods begin. Ask a family member to draw their line on their own copy. Compare the two lines.  
   *Parent says:* Write the foods in order, lightest to heaviest. Draw a line where heavy foods begin. Ask someone else to draw theirs. Are the groups the same?  
   *Child mode:* Make the ladder. Draw your line. Ask a friend to draw theirs.
   - Ask: Which foods were in the same group whatever line was drawn? (good: The lightest and the heaviest.; The ones at the ends of the ladder.; The ones far from the lines.)
   - Note: People usually agree on the ends of the ladder and disagree in the middle. There is no right line. Do not decide who is right.
-- **s4 (10 min)**  
-  *Parent does:* Spread newspaper and put the plate on it. Hold the katori of food about 5 centimetres above the middle of the plate. Pour slowly into a heap. Stand the ruler beside the heap and read its height in millimetres. Pour the food back, and do it again. Do this for all ten foods.  
-  *Parent says:* Pour each food slowly onto the plate from 5 centimetres up. Measure the height of the heap in millimetres. Do each food twice.  
+- **s4 (9 min)**  
+  *Parent does:* Spread newspaper and put the plate on it. Hold the katori of food about 10 centimetres above the middle of the plate. Pour slowly into a heap. Stand the ruler beside the heap and read its height in millimetres. Pour the food back, and do it again. Do this for all ten foods.  
+  *Parent says:* Pour each food slowly onto the plate from 10 centimetres up. Measure the height of the heap in millimetres. Do each food twice.  
   *Child mode:* Pour the food into a heap. Measure the height. Do it twice.
-  - Note: Flours make dust, so pour slowly. Smooth, round seeds such as mustard usually make flatter heaps, and flours usually make taller ones, but write down what you get. If a heap slumps, measure the height after it settles.
+  - Note: Flours make dust, so pour slowly. Smooth, round seeds such as mustard usually make flatter heaps, and flours usually make taller ones, but write down what you get. If a heap slumps, measure the height after it settles. The heap can be 50 millimetres tall, so pouring from 10 centimetres keeps the katori clear of the heap. Tilt the katori slowly so the food falls in a thin stream. One child pours, one reads the ruler at eye level and one writes. Swap for the second pour. If two pours differ by more than 5 millimetres, pour a third time and average the two closest. Typical heaps are roughly 20 to 60 millimetres, but your numbers may differ. In damp or hot weather, salt, sugar and flours soak up water and form lumps. Keep each food in a closed jar until its turn and say in your notes if a food lumps.
   - Check: Why do you pour every food from the same height? → **So that the way you pour does not change the heap**
-- **s5 (10 min)**  
+- **s5 (9 min)**  
   *Parent does:* Draw two lines on the paper. Along the bottom, write mass in grams. Up the side, write height in millimetres. For each food, find its mass across and its average height up, and put a dot there. Write the food name by the dot. Then ring any dots that sit close together.  
   *Parent says:* Draw your map. Mass goes across and height goes up. Put a dot for each food. Which dots sit close together? Draw a ring round each clump.  
   *Child mode:* Draw the map. One dot for each food. Ring the dots that sit together.
@@ -313,7 +314,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **question:** When you sort a mix of two look-alike dals under a time limit, what happens to the mistakes if you are strict, and if you are relaxed?
 - **predict:** Before you start, guess. If you take only the pieces you are sure of, will you make fewer mistakes than if you take every piece that might be right? What kinds of mistake will each way make? Why do you think so?
 - **fair test:** Each round uses the same mix of twenty toor dal and twenty chana dal. Each round lasts thirty seconds, with the same bowls on the same tray. Only the rule changes. In one round you take only the pieces you are sure of. In the other you take every piece that might be toor dal.
-- **safety:** Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Wash your hands after.
+- **safety:** Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Wash your hands after. Pick up any dal that falls on the floor, so nobody slips.
 - **record:** For each round, write how many pieces are in the toor bowl. Then count carefully how many of those are chana dal. Work out how many toor dal pieces are not in the bowl.
 - **results table:** Round and rule | Pieces in the toor bowl | Chana dal in the toor bowl (wrongly let through) | Toor dal not in the bowl (wrongly kept back)
 - **s1 (5 min)**  
@@ -327,7 +328,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Parent says:* Look at the two dals side by side. What is different? What is alike? Now we mix them into one heap.  
   *Child mode:* Look at both dals. How are they different? Now mix them up.
   - Ask: What is different about the two dals? (good: One is a little bigger.; One is a deeper yellow.; They look almost the same.)
-  - Note: Chana dal pieces are usually a little larger and a deeper yellow than toor dal, but brands differ. They look much alike, and that is the point. If yours look very different, use two dals that look more alike, such as toor dal and split moong dal with its skin removed.
+  - Note: Chana dal pieces are usually a little larger and a deeper yellow than toor dal, but brands differ. They look much alike, and that is the point. If yours look very different, use two dals that look more alike, such as toor dal and split moong dal with its skin removed. If your child makes no mistakes in either round, that is a real result. Make the task harder. Use 15 seconds instead of 30, or sort from arm's length, or use the more alike pair. Mistakes then appear, because hurry and doubt cause them. One child with a parent: the parent keeps time and counts. Two to four children: each child sorts their own 20 and 20 on a tray, while another child times and a third counts. Rotate the jobs and give each sorter a row in the table. Compare the rows.
 - **s3 (8 min)**  
   *Parent does:* Set the timer for 30 seconds. Say go. Your child moves into the toor bowl only the pieces they are very sure are toor dal. Stop when the timer ends. Then count the pieces in the bowl, and count carefully how many of them are chana dal.  
   *Parent says:* Strict round. Take only the pieces you are very sure are toor dal. You have thirty seconds. Ready, go. Now stop, and count.  
@@ -345,14 +346,14 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Parent says:* Write the counts in your table. Add up the mistakes for each round. Write three sentences. What did you think? What did you see? Why do you think it happened?  
   *Child mode:* Fill in the table. Say or write three sentences. What I think. What I saw. Why.
   - Ask: What happened to the two kinds of mistake when you changed from strict to relaxed? (good: One kind went down and the other went up.; The mistakes just swapped.; Neither round was perfect.)
-  - Note: A good reason says that the two groups look alike, so no rule can be right every time. Moving from strict to relaxed swaps one kind of mistake for the other. Let your child say it first. Then read the Trade-off card together.
+  - Note: A good reason says that the two groups look alike, so no rule can be right every time. Moving from strict to relaxed swaps one kind of mistake for the other. Let your child say it first. Then read the Trade-off card together. The second round is easier because the pieces are now familiar. To be fair, let the next sorter, or the next day, do the relaxed round first and see if the pattern holds.
 ### e3 · Soft or Hard? Five voters, one ladder (35 min)
 - **question:** Do people agree on where soft ends and hard begins? Which things do all voters put in the same group, and which split the vote? Does a test make the votes agree more?
 - **predict:** Before you start, guess. Out of ten things, how many will all five voters put in the same group? Which things will split the vote? Will a test with a fingernail make the votes agree more? Why do you think so?
 - **fair test:** Every voter touches every thing in the same way. Voters write their answers secretly, so nobody copies. The things stay in the same order on the tray. Only the voter changes, so any difference in the votes comes from the people and not from the things.
-- **safety:** Fingernails press only a gentle push. Do not use a knife or a sharp thing. Keep the candle away from flames.
-- **record:** For each thing, write how many voters said hard in round 1 and how many found no dent in round 2. Then put the ten things in order, from the most votes for hard to the fewest.
-- **results table:** Thing | Round 1: voters who said hard (0 to 5) | Round 2: voters who found no dent (0 to 5)
+- **safety:** Fingernails press only a gentle push. Do not use a knife or a sharp thing. Use an unlit candle, and keep it away from flames and matches.
+- **record:** For each thing, write how many voters said hard in round 1 and how many found no dent in round 2. Then put the ten things in order, from the most votes for hard to the fewest. Also count how many things all the voters agreed on in each round.
+- **results table:** Thing | Round 1: voters who said hard (0 to 5, or out of your number of voters) | Round 2: voters who found no dent (0 to 5, or out of your number of voters)
 - **s1 (4 min)**  
   *Parent does:* Show your child the ten things and the voters. Ask for a guess and a reason. Write the guess at the top of the results table.  
   *Parent says:* We have ten things and five voters. Each voter decides if each thing is soft or hard. Will they all agree? Which things might split the vote? Why do you think so?  
@@ -363,19 +364,20 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Parent does:* Lay the ten things in a row on the tray. Give each voter a slip with ten lines, one for each thing, and a pencil. Explain that each voter will write H for hard or S for soft, and must not show the others.  
   *Parent says:* Here are the ten things. Each of you will write H for hard or S for soft on your own slip. Do not show anyone. Do not copy.  
   *Child mode:* Lay out the ten things. Give each voter a slip.
+  - Note: One child with a parent: use 3 voters if you can, such as the child, the parent and one other person, and divide each count by the number of voters. Two to four children: each child votes, with a parent as the last voter and the tray keeper. Make a copy of the slips for every voter. Several slips can be filled in at the same time.
 - **s3 (9 min)**  
   *Parent does:* Round 1. Each voter presses each thing once with a finger and thumb, and writes H or S on the slip. Take turns, so the voters do not see each other's slips. Then collect the slips.  
   *Parent says:* Round one. Press each thing once with a finger and thumb. Write H for hard or S for soft. Keep your slip secret.  
   *Child mode:* Press each thing. Write H or S. Keep it secret.
   - Note: Use the word hard for a thing that does not squash when pressed. Do not say more. Let each voter use their own idea of hard. Collect the slips before anybody talks.
 - **s4 (9 min)**  
-  *Parent does:* Round 2. Each voter presses a fingernail into each thing with a steady push for three seconds. They write D if there is a dent and N if there is none. Keep the slips secret. Then collect them.  
+  *Parent does:* Round 2. Each voter presses a fingernail into each thing with a steady push for three seconds. They write D if the nail sinks in and leaves a hollow they can see, and N if it does not. Keep the slips secret. Then collect them.  
   *Parent says:* Round two. Press your fingernail into each thing for three seconds. Write D if it leaves a dent. Write N if it does not.  
   *Child mode:* Press a fingernail into each thing. Write D or N. Keep it secret.
-  - Note: Press with a steady push. About three seconds is enough. A few things, such as the candle and the eraser, may still split the vote. Write what you see.
+  - Note: Press with a steady push. About three seconds is enough. A few things, such as the candle and the eraser, may still split the vote. Write what you see. Use the flat end of a pencil if a child's nails are very short. On a hot day the candle and dough are softer and may get more D votes, so write the weather in your notes.
   - Check: Round 2 gives every voter the same test. What do you expect to happen to the votes? → **The voters will agree more, because the test is clearer than a feeling**
 - **s5 (5 min)**  
-  *Parent does:* Count the votes for each thing and write them in the table. Put the things in order, from the most votes for hard to the fewest. Draw a line where soft ends and hard begins. Mark the things that split the vote.  
+  *Parent does:* Count the votes for each thing and write them in the table. Put the things in order, from the most votes for hard to the fewest. Draw a line where soft ends and hard begins. Mark the things that split the vote. Count how many things all voters agreed on in each round.  
   *Parent says:* Count the votes. Put the things in order. Draw your line. Which things split the vote?  
   *Child mode:* Count the votes. Put the things in order. Mark the ones that split.
   - Ask: Which things did every voter agree on, in both rounds? (good: The cotton wool and the sponge.; The steel katori and the ceramic cup.; The things at the two ends of the ladder.)
@@ -387,14 +389,14 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 
 ## Activities
 ### a1 · Plastic Code Hunt: the number in the triangle (25 min)
-- **safety:** Wash the plastic things before you handle them. Do not cut or break the plastic.
+- **safety:** Wash the plastic things before you handle them. Do not cut or break the plastic. Use only clean, empty food and drink containers. Never use anything that held bleach, toilet cleaner, pesticide or other chemicals. Keep small caps away from little children.
 - **record:** A table with each thing, the number in its triangle, what it is used for, and whether it is clear, floppy or stiff.
 - **a1s1 (6 min)**  
-  *Parent does:* Collect 8 to 10 plastic things from the kitchen and bathroom. Turn each one over and look for a triangle of arrows with a number. Write down the number, and the thing it is on. If a thing has no mark, write none.  
+  *Parent does:* Collect 8 to 10 plastic things from the kitchen and bathroom. Before you start, guess how many things will show a number. Turn each one over and look for a triangle of arrows with a number. The marks are small, so tilt each thing under a light. Write down the number, and the thing it is on. If a thing has no mark, write none.  
   *Parent says:* Look at the bottom of each plastic thing. Find the triangle with a number in it. Write the number and the thing.  
   *Child mode:* Find the number in the triangle on each thing. Write it down.
   - Ask: What do you think the number in the triangle tells us? (good: How strong the plastic is.; What kind of plastic it is.; How many times it can be used.)
-  - Note: Many things in India carry no mark at all. If you find fewer than four with a code, borrow things from a neighbour or look at bigger containers, such as a bucket or an oil can. Do not tell your child yet what the number means. Let them guess.
+  - Note: Many things in India carry no mark at all. If you find fewer than four with a code, borrow things from a neighbour or look at bigger containers, such as a bucket or an oil can. Do not tell your child yet what the number means. Let them guess. Some packs in India show only letters such as PET, HDPE or PP, or no mark at all. Count those too. None is a result. Carry bags, pouches and chips packets often have no number. One child with a parent: the parent holds the list. Two to four children: each child hunts in one room, such as the kitchen, the bathroom or the store room, and finds at least three things.
 - **a1s2 (8 min)**  
   *Parent does:* Lay the things in rows, one row for each number. Under each row, write what the things are used for. Ask your child to squeeze and bend each thing gently, and to say if it is clear, floppy or stiff.  
   *Parent says:* Put the things with the same number in a row. What are they used for? Squeeze them. How do they feel?  
@@ -402,7 +404,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   - Note: You will usually see that bottles share one or two numbers, and tiffin boxes and curd cups share another. Numbers 1, 2 and 5 are the commonest in homes. A 7 means other.
   - Check: Two things have the number 5 in the triangle. What can you say about them? → **They are made of the same family of plastic**
 - **a1s3 (7 min)**  
-  *Parent does:* Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 7 is other. Check each row against your list.  
+  *Parent does:* Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 7 is other. Also, 3 is PVC, 4 is LDPE like milk pouches and carry bags, and 6 is polystyrene like some cups. Check each row against your list.  
   *Parent says:* The number names the family of plastic. Check your rows. Does each row hold what the number says?  
   *Child mode:* Check your rows against the list. Which row was the biggest?
   - Ask: Why is there a number 7, for other? (good: Some plastics do not fit the first six.; It is for mixtures.; It is the tricky middle.)
@@ -413,26 +415,26 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Child mode:* Say or write three sentences. What I think. What I saw. Why.
   - Note: A good reason says that things with the same number are alike in what they are made of, and often in how they feel and what they are used for. The code is a sort by one question, what family of plastic, so it hides other differences, such as colour and shape.
 ### a2 · Lumpers and Splitters: sort the spice shelf at three levels (25 min)
-- **safety:** Do not eat or sniff the spices closely. Keep chilli powder away from your eyes. Wash your hands after.
+- **safety:** Do not eat or sniff the spices closely. Keep chilli powder away from your eyes, and do not rub your eyes. Leave out any spice that your child is allergic to. Wash your hands after. Keep cloves, cardamom and other small spices away from little children's mouths, ears and noses.
 - **record:** A tree drawing with the 12 spices, the groups at each level, and a count of how many things a helper looked at to find one spice at each level.
-- **a2s1 (8 min)**  
+- **a2s1 (7 min)**  
   *Parent does:* Lay out the twelve spices. Ask your child to sort them into two groups using any rule they like, and to say the rule. Then split each group in two to make four groups. Write the rule for each split.  
   *Parent says:* Sort the spices into two groups. What is your rule? Now split each group in two. What are the new rules?  
   *Child mode:* Sort the spices into two groups. Then split each group again.
   - Ask: What rule did you use for the first two groups? (good: Seeds and not seeds.; Powder and not powder.; Hot and not hot.)
-  - Note: Any rule is fine, as long as the child can say it. Examples are seeds and powders, strong smell and mild smell, or things that go in the pan first and things that go in last.
-- **a2s2 (7 min)**  
+  - Note: Any rule is fine, as long as the child can say it. Examples are seeds and powders, strong smell and mild smell, or things that go in the pan first and things that go in last. One child with a parent: the parent is the helper. Two to four children: one sorts, one is the helper who looks for the spice, one counts, and you rotate. Or each child sorts their own spices and then compares the trees.
+- **a2s2 (6 min)**  
   *Parent does:* Split each of the four groups again to make about eight groups. Some groups may hold only one spice. Draw a tree on the big sheet. Put the two first groups at the top and the eight small groups at the bottom.  
   *Parent says:* Split the groups again, until you have about eight. Draw a tree. Two groups at the top, eight at the bottom.  
   *Child mode:* Split again to make eight groups. Draw the tree.
   - Note: Do not worry if the groups are uneven. The tree is a way to show the levels. It is fine if some groups have one spice.
   - Check: A shelf with 2 big groups, each split into 2, and each of those split into 2 has how many small groups? → **8**
-- **a2s3 (7 min)**  
-  *Parent does:* A helper closes their eyes. You secretly pick one spice. The helper asks yes or no questions to find it, using only the groups at one level. Count how many groups and spices the helper had to check. Try it at the two-group level, the four-group level and the eight-group level.  
+- **a2s3 (9 min)**  
+  *Parent does:* A helper closes their eyes. You secretly pick one spice. The helper asks yes or no questions to find it, using only the groups at one level. Count each group the helper names and each spice the helper looks at. Hide a different spice each time. Find two spices at each level and average the counts. Try it at the two-group level, the four-group level and the eight-group level.  
   *Parent says:* Pick a secret spice. Your helper uses the groups to find it. Count how many things they check. Try it at each level.  
   *Child mode:* Pick a secret spice. Let a helper find it with the groups. Count the checks.
   - Ask: At which level did the helper find the spice with the fewest checks? (good: The finest level, with eight groups.; The level with the smallest groups.; The coarse level took the most checks.)
-  - Note: At the coarse level, the helper must still look through six spices. At the fine level, only one or two. But making and remembering eight groups takes more effort than two.
+  - Note: At the coarse level, the helper must still look through six spices. At the fine level, only one or two. But making and remembering eight groups takes more effort than two. Expect the middle level to need the fewest looks. Two groups leave many spices in each group, and eight groups leave many groups to check. Two finds per level are few, so repeat if the numbers look odd. That is also a result.
 - **a2s4 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask which level they would use to put the spices away.  
   *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened? Which level would you choose?  
@@ -441,7 +443,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 ### a3 · Star Map: be Hertzsprung and Russell (30 min)
 - **record:** A star map with sixteen dots, rings round the clumps, and a name for each clump.
 - **a3s1 (6 min)**  
-  *Parent does:* Draw a grid of 5 squares across and 5 up. Across the bottom, write colour: 1 red, 2 orange, 3 yellow, 4 white, 5 blue-white. Up the side, write brightness: 1 very faint, 2 faint, 3 like the Sun, 4 bright, 5 very bright. The steps are rough.  
+  *Parent does:* Draw a grid of 5 squares across and 5 up. Make each square about 3 centimetres wide. Before you plot, guess if the dots will spread evenly or gather. Across the bottom, write colour: 1 red, 2 orange, 3 yellow, 4 white, 5 blue-white. Up the side, write brightness: 1 very faint, 2 faint, 3 like the Sun, 4 bright, 5 very bright. The steps are rough.  
   *Parent says:* Draw a grid, five by five. Colour goes along the bottom, from red to blue. Brightness goes up the side, from very faint to very bright.  
   *Child mode:* Draw the grid. Colour goes across. Brightness goes up.
   - Note: This is a simplified version of a real star map. The steps are rough ranks, and the star values are rounded. Stars differ so much in brightness that astronomers use a special scale, but ranks show the same families.
@@ -449,13 +451,13 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Parent does:* Plot these stars, as colour step then brightness step. Proxima Centauri, 1 and 1. Barnard's Star, 1 and 1. 61 Cygni A, 2 and 2. Epsilon Eridani, 2 and 2. The Sun, 3 and 3. Alpha Centauri A, 3 and 3. Sirius A, 4 and 4. Vega, 4 and 4. Altair, 4 and 4. Spica, 5 and 5. Rigel, 5 and 5. Arcturus, 2 and 4. Aldebaran, 2 and 4. Betelgeuse, 1 and 5. Antares, 1 and 5. Sirius B, 4 and 2.  
   *Parent says:* Plot all sixteen stars. Colour step goes across and brightness step goes up. Put dots side by side if two stars share a square.  
   *Child mode:* Plot the sixteen stars. Colour across, brightness up.
-  - Note: Stars that share a square can be drawn as two dots side by side. Colour the dot to match the star's colour. Betelgeuse and Antares are red, Arcturus and Aldebaran are orange, the Sun is yellow, Sirius is white, and Rigel and Spica are blue-white.
+  - Note: Stars that share a square can be drawn as two dots side by side. Colour the dot to match the star's colour. Betelgeuse and Antares are red, Arcturus and Aldebaran are orange, the Sun is yellow, Sirius is white, and Rigel and Spica are blue-white. Some squares hold two or three stars. Draw the dots side by side in the square. One child with a parent: the parent reads the list and the child plots. Two to four children: share one big sheet and let each child plot four stars, then ring the clumps together.
 - **a3s3 (8 min)**  
   *Parent does:* Look at the map. Do the dots spread evenly, or do they gather? Draw a ring round the long band of dots from bottom left to top right. Draw a ring round the dots above the band, and a ring round the dot below the band.  
   *Parent says:* Look at the map. Where do the dots gather? Draw a ring round each clump. Is there a band? What sits above it? What sits below it?  
   *Child mode:* Ring the clumps. Find the band, the dots above and the dot below.
   - Ask: What would you call the stars above the band, and the star below it? (good: Bright cool giants above, and a small hot faint star below.; Giants and a dwarf.; Big stars and a small one.)
-  - Note: The long band is called the main sequence, and the Sun sits on it. The bright orange and red stars above the band are giants. The single dot below is a white dwarf, Sirius B.
+  - Note: The long band is called the main sequence, and the Sun sits on it. The bright orange and red stars above the band are giants. The single dot below is a white dwarf, Sirius B. Rigel is really a blue supergiant, but at these rough steps it lands at the top corner of the band.
   - Check: The dots do not fill the map evenly. They form a band, and there are empty areas. What does this show? → **The stars come in families, and not all combinations of colour and brightness exist**
 - **a3s4 (6 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask what the map shows that a plain list of stars did not.  
@@ -463,16 +465,16 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Child mode:* Say or write three sentences. What did the map show that a list could not?
   - Note: A good answer says that a list of names and numbers hides the pattern, and a map makes it clear: the band, the giants and the white dwarf. Hertzsprung and Russell found families of stars in this way, before anybody knew why they were there.
 ### a4 · Shelf Detective: how a kirana store sorts its goods (25 min)
-- **safety:** Go with a grown-up. Do not touch things you do not plan to buy. Ask the shopkeeper before you take notes or photographs.
+- **safety:** Go with a grown-up. Do not touch things you do not plan to buy. Ask the shopkeeper before you take notes or photographs. Stay beside your grown-up near roads and in crowded shops. Go at a quiet hour.
 - **record:** A list of the shelf groups, the rule for each, the number of levels, and two things that could go in two places.
 - **a4s1 (10 min)**  
-  *Parent does:* Visit a kirana store, a supermarket aisle or the kitchen cupboards. Ask your child to walk along the shelves and write down each group of goods. Ask what rule the shop uses for each group.  
+  *Parent does:* Visit a kirana store, a supermarket aisle or the kitchen cupboards. Many kirana shops keep goods behind the counter, so ask the shopkeeper to point out the groups. Ask your child to walk along the shelves and write down each group of goods. Ask what rule the shop uses for each group.  
   *Parent says:* Walk along the shelves with a grown-up. Write down each group. What rule does the shop use for it?  
   *Child mode:* Walk along the shelves. Write down each group and its rule.
   - Ask: What rule does the shop use to put things together? (good: By what they are, like dals or oils.; By how they are used, like things for cooking.; By brand.)
-  - Note: Kirana stores often sort by use, such as things for the morning, things for the kitchen and things for cleaning. They also sort by size and by how often things sell. Ask the shopkeeper why.
+  - Note: Kirana stores often sort by use, such as things for the morning, things for the kitchen and things for cleaning. They also sort by size and by how often things sell. Ask the shopkeeper why. Mid-morning is usually quiet. Buying one small thing is a kind thanks. Two to four children: each takes a different shelf or cupboard, then compare trees.
 - **a4s2 (8 min)**  
-  *Parent does:* Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Draw a tree of these levels. Count the levels. Then look for one thing that could go in two places, and say where you would put it.  
+  *Parent does:* Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Draw a tree of these levels. Pick one item, such as turmeric, and count the groups you check before you find it. Count the levels. Then look for one thing that could go in two places, and say where you would put it.  
   *Parent says:* Find a group with smaller groups inside. Draw the tree. How many levels? Find a thing that could go in two places.  
   *Child mode:* Draw the levels as a tree. Find a thing that fits two groups.
   - Note: Good examples are salt, turmeric, tea, jaggery and papad. Ask the shopkeeper why the shop put the thing there.
@@ -484,27 +486,27 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   - Note: A good reason says that the shop sorts to help the customer find things quickly, and the rule fits the job. Most shops use two or three levels: aisle, shelf group and brand.
 
 ## Projects
-### p1 · Predict Where It Lands: add new foods to the Katori Map (50 min)
-- **safety:** Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to. Wash your hands after.
+### p1 · Predict Where It Lands: add new foods to the Katori Map (40 min)
+- **safety:** Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to. Wash your hands after. Keep small grains and seeds away from little children's mouths and noses.
 - **record:** The Katori Map with a cross for each prediction and a dot for each real result, and a count of how many predictions were close.
-- **p1s1 (8 min)**  
+- **p1s1 (7 min)**  
   *Parent does:* Take out your Katori Map. Look at the six new foods. For each one, decide which clump it will join, and mark a cross where you think its dot will be. Write the reason in one short line.  
   *Parent says:* Look at your map and the six new foods. Where will each one land? Mark a cross. Write why.  
   *Child mode:* Mark a cross for each new food. Write why you put it there.
   - Ask: Why do you think that food will land there? (good: It is a flour, so it should be with the flours.; It looks like the rice.; It is light and flaky, like poha.)
   - Note: Do not correct the predictions. Any prediction with a reason is a good start. A prediction that turns out wrong teaches more than one that turns out right.
-- **p1s2 (22 min)**  
-  *Parent does:* Weigh one katori of each new food, filled level. Pour each into a heap from 5 centimetres up, twice, and measure the heights in millimetres. Write the mass and the average height for each food.  
+- **p1s2 (18 min)**  
+  *Parent does:* Weigh one katori of each new food, filled level. Pour each into a heap from 10 centimetres up, twice, and measure the heights in millimetres. Write the mass and the average height for each food.  
   *Parent says:* Measure the six new foods just as before. Weigh a katori of each. Pour two heaps and measure them. Write the numbers.  
   *Child mode:* Weigh and pour each new food, just as before. Write the numbers.
-  - Note: Use the same katori, the same plate, the same height for pouring and the same ruler. Flours make dust, so pour slowly.
+  - Note: Use the same katori, the same plate, the same height for pouring and the same ruler. Flours make dust, so pour slowly. Short of time? Do four foods, or finish the rest in a second sitting. Two to four children: each child takes two or three foods and weighs, pours and measures them. One child with a parent: the parent writes and holds the ruler. Keep foods in closed jars in damp weather, and say if one lumps.
   - Check: Why must you measure the new foods in exactly the same way as the first ten? → **So the new dots can be compared fairly with the old ones**
-- **p1s3 (12 min)**  
+- **p1s3 (10 min)**  
   *Parent does:* Plot the real results on the map as dots. Draw a short line from each cross to its dot. Measure each line with a ruler in millimetres. Count how many predictions landed in the right clump.  
   *Parent says:* Plot the real dots. Draw a line from each cross to its dot. Measure the lines. Which prediction was closest?  
   *Child mode:* Plot the real dots. Join each cross to its dot. Measure the lines.
   - Ask: Which food surprised you most, and why? (good: Sabudana was heavier than I thought.; Oats made a flatter heap.; Besan landed with the other flours.)
-- **p1s4 (8 min)**  
+- **p1s4 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask what the map can and cannot predict.  
   *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened? What can the map predict?  
   *Child mode:* Say or write three sentences. What I think. What I saw. Why.
@@ -513,6 +515,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 ## Challenges
 ### c1 · The Slot Sorter: separate toor dal from chana dal with a gap (40 min)
 - **problem:** You have a mix of 20 toor dal and 20 chana dal. Build a sorter with a slot that lets toor dal fall through into a bowl, while chana dal rolls on past. Make as few mistakes, of both kinds, as you can.
+- **safety:** Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Pick up any dal that rolls onto the floor, so nobody slips. Wash your hands after.
 - **your turn:** Sketch your sorter. Measure the width of five pieces of each dal with a ruler, and choose a first gap. Build it and test it. Count both kinds of mistake. Change the gap, and test again. Which gap gave the fewest mistakes? Why can no gap give none?
 - **constraints:** Use only kitchen things and stationery, such as rulers, pencils, books and a tray.; Every test uses all 40 pieces, sent down once.; After every test, count both kinds of mistake: chana dal in the toor bowl, and toor dal that rolled past.; You may change only one thing at a time.
 - **general:** Two rulers lying side by side on a slope, with a narrow gap between them. Small pieces fall into the gap, and big pieces roll on.; A sieve, such as a tea strainer or a colander, whose holes are between the sizes of the two dals.; A tray with holes made by a pencil or a paper punch in a sheet of card.
@@ -526,7 +529,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   *Parent does:* Build the sorter. Prop one end of the rulers on books, so they slope. Set the gap and put a bowl below it. Send all 40 pieces down once. Count the chana dal in the toor bowl and the toor dal that rolled past.  
   *Parent says:* Build your sorter and send all forty pieces down once. Count the chana dal that fell through and the toor dal that rolled past.  
   *Child mode:* Build the sorter. Send all 40 pieces down. Count both mistakes.
-  - Note: Pieces may stick or bounce. Tap the rulers gently if pieces stall. Dal pieces are not all the same size, so expect some mistakes. Write the numbers down. They are the ones to beat.
+  - Note: Pieces may stick or bounce. Tap the rulers gently if pieces stall. Dal pieces are not all the same size, so expect some mistakes. Write the numbers down. They are the ones to beat. If pieces bounce across the gap, make the slope gentler or pour a few at a time. Tape the ends of the rulers so the gap stays fixed. One child pours, and another counts.
 - **c1s3 (12 min)**  
   *Parent does:* Change one thing only, such as the gap, the slope or the way you pour. Test again with all 40 pieces. Count both kinds of mistake. Try a third setting if you have time.  
   *Parent says:* Change one thing, such as the gap. Test again. Count both kinds of mistake. Which setting gave the fewest?  
@@ -542,7 +545,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 
 ## Worksheets
 ### Ladders, lines and maps (core) (core, 16 questions)
-1. (mcq) Ten foods are lined up by the mass of one katori, with no big jump anywhere on the ladder. Someone says that heavy foods start at 100 grams. Which statement is true?  
+1. (mcq) Ten foods are lined up by the mass of one katori, with no clear gap in the middle of the ladder. Someone says that heavy foods start at 100 grams. Which statement is true?  
    Options: The ladder itself shows where the line must go / The line at 100 grams is a choice, and another person could choose another line / The foods decide where the line goes / There is only one correct line  
    **Answer:** The line at 100 grams is a choice, and another person could choose another line. *Why:* A ladder with no gap gives no sign of where to cut. The cut-off comes from the person who chooses it. Another sensible person could choose 110 grams, and get different groups.
 2. (fill) A number chosen to split a ladder of things into two groups is called a ____.  

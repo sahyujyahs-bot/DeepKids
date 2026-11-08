@@ -688,7 +688,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the cards and the tokens. Shuffle the cards and put them in a pile. Read the five ideas on the tokens aloud once.",
+     "do": "Cut out the cards and the tokens. Shuffle the cards and put them in a pile. Read the five ideas on the tokens aloud once. No printer? Write the five ideas on paper slips. Read the cards from the screen.",
      "say": "We have five ideas that explain odd things your senses do. Adapting receptors. Too small a change. The brain guesses. Signals take time. A flexible brain. Each story fits one idea.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Read the five ideas.",
      "context": "This is the first step of Sense Detectives. You set up the game and meet the five ideas."
@@ -778,7 +778,7 @@
    "days": 1,
    "question": "When a friend drops a ruler, how far does it fall before you catch it? Is the distance the same when you see it start to fall, hear a word, or feel a tap?",
    "predict": "Before you start, guess. Will you catch the ruler soonest by seeing it, hearing a word or feeling a tap? Which will be slowest? Why do you think so?",
-   "fair_test": "Use the same ruler, the same catcher and the same hand every time. The catcher's thumb and finger start at the 0 centimetre end, with the ruler hanging between them. The dropper waits a different time before each drop, so the catcher cannot guess. Each cue is tried 3 times as practice and then 7 times for the record. The rounds are done in one order, and then in the opposite order after the two people swap roles, so that tiredness or practice does not favour one cue. Only the cue changes, so any difference comes from the cue.",
+   "fair_test": "Use the same ruler, the same catcher and the same hand every time. The catcher's thumb and finger start at the 0 centimetre end, with the ruler hanging between them. The dropper waits a different time before each drop, so the catcher cannot guess. Each cue is tried 3 times as practice and then 7 times for the record. The rounds are done in one order, and then in the opposite order after the two people swap roles, so that tiredness or practice does not favour one cue. Only the cue changes, so any difference comes from the cue. With 2 to 4 children, give three jobs: catcher, dropper and recorder. Rotate so each child is the catcher once, and give each catcher their own table. Two catchers fit in 45 minutes, so let the others catch in a second sitting.",
    "results_table": [
     "Try (counted)",
     "Seeing: centimetres caught",
@@ -808,7 +808,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use a light ruler, so a miss does not hurt anyone's foot. The catcher sits down. Do not throw the ruler. Take a short break if your eyes feel tired.",
+   "safety": "Use a light ruler, so a miss does not hurt anyone's foot. The catcher sits down. Do not throw the ruler. Take a short break if your eyes feel tired. Do not use a steel ruler.",
    "schedule": [
     {
      "day": 1,
@@ -966,7 +966,7 @@
        ]
       }
      ],
-     "parent": "Typical results: a middle value of 12 to 20 centimetres for each cue, which is a fifth of a second or less. Touch and hearing are often 1 to 3 centimetres shorter than seeing, but luck can hide it. If the cues look the same, say so. That is a real result. Do not explain the cards yet. Let your child say where they think the time went. A guide to time: 5 cm is 0.10 seconds, 10 cm is 0.14, 15 cm is 0.17, 20 cm is 0.20, 25 cm is 0.23, and 30 cm is 0.25 seconds.",
+     "parent": "Typical results (not promised): a middle value of about 12 to 22 centimetres for each cue, which is a fifth of a second or less. Touch and hearing are often 1 to 3 centimetres shorter than seeing, but luck can hide it. If the cues look the same, say so. That is a real result. Do not explain the cards yet. Let your child say where they think the time went. A guide to time: 5 cm is 0.10 seconds, 10 cm is 0.14, 15 cm is 0.17, 20 cm is 0.20, 25 cm is 0.23, and 30 cm is 0.25 seconds.",
      "check": {
       "t": "mcq",
       "q": "Why do we use the middle value of seven tries and not the biggest or smallest?",
@@ -989,7 +989,7 @@
    "days": 1,
    "question": "How much heavier must a bottle be before you can tell which is heavier? Is the answer the same for a light bottle and for a heavy one?",
    "predict": "Before you start, guess. Will you need the same extra water for a heavy bottle as for a light bottle, or more, or less? Why do you think so?",
-   "fair_test": "All the bottles are the same kind, closed, and with the water hidden. The lifter is blindfolded, and lifts one bottle in each hand. The helper puts the heavier bottle in a random hand each time. Each comparison is tried 4 times. The light set has a standard bottle of 100 millilitres and the heavy set has a standard of 400 millilitres. The extra water in each comparison bottle is the same fraction in both sets. Only the weight of the standard changes, so any difference comes from that.",
+   "fair_test": "All the bottles are the same kind, closed, and with the water hidden. The lifter is blindfolded, and lifts one bottle in each hand. The helper puts the heavier bottle in a random hand each time. Each comparison is tried 4 times. The light set has a standard bottle of 100 millilitres and the heavy set has a standard of 400 millilitres. The extra water in each comparison bottle is the same fraction in both sets. Only the weight of the standard changes, so any difference comes from that. With 2 to 4 children, one is the lifter, one fills and keeps the key, and one writes right or wrong. Swap jobs for each set. Each lifter has their own results table, because every hand is different.",
    "results_table": [
     "Set",
     "Standard bottle (millilitres)",
@@ -1002,7 +1002,7 @@
      "qty": 6
     },
     {
-     "item": "a measuring cup or jug with millilitre marks",
+     "item": "a measuring cup or jug with millilitre marks (a kitchen cup, or the cap-cup of a syrup or detergent bottle if it has ml marks)",
      "qty": 1,
      "buy": "b-jug"
     },
@@ -1126,7 +1126,7 @@
      "do": "Empty the bottles. Fill the standard with 400 millilitres. Fill the others with 440, 480, 520, 560 and 640 millilitres. Put new secret letters. Repeat the lifting test in the same way.",
      "say": "Now the heavy set. The standard has 400 millilitres. The others have 40, 80, 120, 160 and 240 more. These steps are four times bigger than before, so we can compare fairly. Lift and tell me which is heavier.",
      "kid": "Fill A with 400 millilitres. Fill the others with more. Do the same test.",
-     "parent": "The extras are four times the light-set extras, so each is the same share of its standard. The standard has four times as much water. The empty bottle also has a small weight, so the shares will not match exactly. Wipe any spilled water.",
+     "parent": "The extras are four times the light-set extras, so each is the same share of its standard. The standard has four times as much water. The empty bottle also has a small weight, so the shares will not match exactly. Wipe any spilled water. If the lifter always gets 440 right, try 420 and 410 as well. All the numbers here are typical, not promised, and a few lifters will feel much smaller or larger steps.",
      "context": "In this step, you do the same test again with heavier bottles."
     },
     {
@@ -1139,7 +1139,7 @@
       {
        "q": "Was the extra the same in both sets? Was the share the same?",
        "good": [
-        "The extra in grams was bigger for the heavy set, but the share was about the same.",
+        "The extra in millilitres was bigger for the heavy set, but the share was about the same.",
         "The heavy set needed 4 times as much water.",
         "The share out of 100 was about 10 to 20 in both."
        ]
@@ -1170,7 +1170,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a small steel katori holding 2 teaspoons of crushed cloves, cardamom or saunf (fennel seeds)",
+     "item": "a small steel katori holding 1 to 2 teaspoons of crushed cloves, cardamom or saunf (fennel seeds); an adult crushes them",
      "qty": 1
     },
     {
@@ -1194,12 +1194,12 @@
      "qty": 1
     }
    ],
-   "safety": "Check for food allergies and asthma first. Hold the katori about 10 centimetres from the nose and breathe normally. Never sniff hard. If anyone has a blocked or sore nose, use only the orange peel.",
+   "safety": "Check for food allergies and asthma first. Hold the katori about 10 centimetres from the nose and breathe normally. Never sniff hard. If anyone has a blocked or sore nose, use only the orange peel. Keep the crushed spice away from eyes and do not taste it. Keep the katori away from small brothers and sisters, who may put it in their mouths.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Smell until the smell fades and time it. Rest in fresh air and test again at 30 seconds, 1 minute and 3 minutes. Try the second smell. Write what you found."
+     "what": "Guess. Smell until the smell fades and time it. Rest in fresh air and test again at 30 seconds, 1 minute and 3 minutes. Try the second smell. Write what you found. With 2 to 4 children, test one child at a time. The others wait in another room, since the smell lingers and tires their noses too. Roles: smeller, timer, writer."
     }
    ],
    "record": "Write how many seconds it took for the first smell to fade. Then write a score from 0 to 5 for the smell at 30 seconds, 1 minute and 3 minutes after the rest. Write the score for the second smell right after the first had faded.",
@@ -1248,7 +1248,7 @@
      "do": "Hold the katori about 10 centimetres from your child's nose and start the timer. Your child breathes normally and raises a hand when the smell is almost gone. Write the number of seconds.",
      "say": "Breathe normally. Tell me what you smell. Raise your hand when it is almost gone. I will watch the clock.",
      "kid": "Breathe normally. Raise a hand when the smell is almost gone.",
-     "parent": "Most people say the smell fades within about 30 seconds to 2 minutes. If nothing fades after 3 minutes, stop and say so. That is a real result. Keep the katori at the same distance, and do not let the nose touch it.",
+     "parent": "Most people say the smell fades within about 30 seconds to 2 minutes. If nothing fades after 3 minutes, stop and say so. That is a real result. Keep the katori at the same distance, and do not let the nose touch it. If the spice is too faint to start with, crush it more or hold it 5 centimetres away. If the smell does not fade in 3 minutes, try orange peel as the first smell instead. Compare two children's fade times only as a fun fact, because noses and distances differ.",
      "check": {
       "t": "mcq",
       "q": "The smell has almost gone. The cloves are still in the katori. What has changed?",
@@ -1268,7 +1268,7 @@
      "do": "Take the katori away. Your child rests by the open window. After 30 seconds, hold the katori to the nose again and score the smell from 0 to 5. Repeat after 1 minute and after 3 minutes. Write the scores.",
      "say": "Come to the window and breathe the fresh air. After half a minute I will hold the spice again. Tell me how strong it is, from nothing to very strong.",
      "kid": "Rest at the window. Smell the spice again after a while. Give it a score.",
-     "parent": "Expected: the smell is weak after 30 seconds, stronger after 1 minute and nearly full after 3 minutes. The nose recovers in a few minutes. The numbers may vary, so write what you find.",
+     "parent": "Typical, not promised: the smell is weak after 30 seconds, stronger after 1 minute and nearly full after 3 minutes. The nose recovers in a few minutes. The numbers may vary, so write what you find.",
      "context": "In this step, you let the nose rest and test how fast it recovers."
     },
     {
@@ -1323,7 +1323,7 @@
      "buy": "b-brushes"
     },
     {
-     "item": "two soft paintbrushes of the same size",
+     "item": "two soft paintbrushes of the same size (any soft brushes, such as makeup or small art brushes)",
      "qty": 2,
      "buy": "b-brushes"
     },
@@ -1344,7 +1344,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only soft brushes and a rubber glove are used. If anyone has a latex allergy, use a cloth or non-latex glove. The grown-up must not hit the glove hard. Only a gentle tap with a pencil, if the child agrees, is allowed. Stop if the child feels uneasy. The feeling is harmless and goes away within a few seconds.",
+   "safety": "Only soft brushes and a rubber glove are used. If anyone has a latex allergy, use a cloth or non-latex glove. The grown-up must not hit the glove hard. Only a gentle tap with a pencil, if the child agrees, is allowed. Stop if the child feels uneasy. The feeling is harmless and goes away within a few seconds. With several children, only one child sits behind the screen at a time.",
    "schedule": [
     {
      "day": 1,
@@ -1403,7 +1403,7 @@
      "do": "Take a brush in each hand. Stroke the hidden index finger and the same glove finger at the same moment, once each second, for two minutes. Ask 'where do you feel the touch?' at 30 seconds and 2 minutes. Score from 0 to 5.",
      "say": "Keep looking at the rubber hand. I will stroke your hidden finger and the rubber finger together. Where do you feel the touch? How much does the rubber hand feel like yours, from nothing to very much?",
      "kid": "Watch the rubber hand. Say where you feel the touch. Give a score.",
-     "parent": "The two brushes must move in step, at the same speed and the same place. Most people, but not all, start to feel the touch in the rubber hand within about a minute. If your child feels nothing, that is a normal result, so write down 0.",
+     "parent": "The two brushes must move in step, at the same speed and the same place. Most people, but not all, start to feel the touch in the rubber hand within about a minute. If your child feels nothing, that is a normal result, so write down 0. About 6 to 8 in 10 people feel it, and it may take longer than a minute. With 2 to 4 children, one is the subject, two stroke (one brush each, practising to stay in step), and one keeps the clock and scores. Rotate. For a measurement, before and after each round, the subject shuts their eyes and slides the other index finger along the table edge to touch their hidden finger. Mark the spot with tape and measure how far it moved toward the rubber hand.",
      "check": {
       "t": "mcq",
       "q": "Your child says the rubber hand 'feels like mine'. What is the best explanation?",
@@ -1474,7 +1474,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Draw the two shapes. Ask at least 10 people one by one and tally. Add up and find the share out of 100."
+     "what": "Guess. Draw the two shapes. Ask at least 10 people one by one and tally. Add up and find the share out of 100. With 2 to 4 children, each child asks their own 5 people, and you pool the tallies."
     }
    ],
    "record": "Tally how many people said 'bouba' is the round shape and how many said 'bouba' is the spiky shape. Work out how many in every 10 chose round.",
@@ -1528,7 +1528,7 @@
      "do": "Show both shapes to one person at a time. Ask them which is 'bouba' and which is 'kiki'. Do not give a hint. Put a tick in the right column. Swap which sheet is on the left for every other person.",
      "say": "Here are two shapes. One is called bouba and one is called kiki. Which is which? Go with the first feeling.",
      "kid": "Show the shapes. Ask which is bouba. Tick the tally.",
-     "parent": "Swap the sheets' positions for every other person, so that left and right do not matter. Ask different ages and people who speak other languages, if you can. Do not discuss the answer until you have asked everyone.",
+     "parent": "Swap the sheets' positions for every other person, so that left and right do not matter. Ask different ages and people who speak other languages, if you can. Do not discuss the answer until you have asked everyone. Say the two words the same way each time and never say 'round' or 'spiky'. Ask people one at a time, out of hearing of the next. If you cannot find 10 people, use a phone call or ask over two days, because fewer than 10 tell very little.",
      "check": {
       "t": "mcq",
       "q": "Why do we swap which sheet is on the left for every other person?",
@@ -1572,7 +1572,7 @@
    "mins": 55,
    "materials": [
     {
-     "item": "a strip of stiff cardboard about 5 centimetres wide and 35 centimetres long",
+     "item": "a strip of stiff cardboard about 5 centimetres wide and 35 centimetres long (from a carton)",
      "qty": 1
     },
     {
@@ -1585,8 +1585,8 @@
      "qty": 1
     },
     {
-     "item": "3 or more family members as catchers, and one dropper",
-     "qty": 3
+     "item": "2 or more family members as catchers (3 or more is better) and one dropper; a parent and child can swap jobs",
+     "qty": 2
     }
    ],
    "schedule": [
@@ -1669,7 +1669,7 @@
      "do": "On day 1, test each family member in the morning. The dropper holds the strip at the top. The catcher keeps thumb and finger open at the 0 end. Do 3 practice tries and then 7 counted tries. Write the middle value.",
      "say": "Rest your arm on the table. Watch the strip. I will drop it without warning. Catch it as fast as you can. Seven counted tries. We will take the middle one.",
      "kid": "Rest your arm. Watch the strip. Catch it when it drops.",
-     "parent": "Test everyone at about the same time of day. Use the same method as in the Ruler Drop test. Write each person's middle value in centimetres and then read the time off the strip.",
+     "parent": "Test everyone at about the same time of day. Use the same method as in the Ruler Drop test. Write each person's middle value in centimetres and then read the time off the strip. If the cardboard strip flutters, fold it along its length or tape a second strip behind it. With 2 to 4 children, one drops, one writes and the rest catch in turn.",
      "context": "In this step, you test each family member on day 1."
     },
     {
@@ -1699,7 +1699,7 @@
        ]
       }
      ],
-     "parent": "Expected: most people are slower when distracted, often by a few centimetres. Draw the league table with a row for each person and a column for each test. Do not turn it into a contest about who is best, because reaction times change with the day.",
+     "parent": "Expected: most people are slower when distracted, often by a few centimetres. Draw the league table with a row for each person and a column for each test. Do not turn it into a contest about who is best, because reaction times change with the day. If counting back in sevens is too hard for your child, use threes. It should be hard but possible.",
      "check": {
       "t": "mcq",
       "q": "A person catches the strip at 14 cm normally and 19 cm while counting backwards. About how much longer was the second time?",
@@ -1750,7 +1750,7 @@
    ],
    "your_turn": "Design your own code on paper. Test it on a short word like 'TEA'. Change one thing, such as how long you pause. Then send the whole message and time it. Which design was fastest with no mistakes? Why do you think it worked?",
    "safety": "Do not push cotton wool or earplugs deep into the ear. Hold soft ear covers or earmuffs over the ears instead. Taps stay gentle.",
-  "context": "This is a design challenge about signals. The nerves of your senses only send pulses, so you try to build a code that works with pulses alone.",
+   "context": "This is a design challenge about signals. The nerves of your senses only send pulses, so you try to build a code that works with pulses alone.",
    "setup": [
     {
      "art": "Two children sitting at a table, one with a cloth over the eyes and cotton wool in the ears, and the other tapping the back of their hand.",
@@ -2971,7 +2971,7 @@
    "id": "b-jug",
    "item": "A measuring jug with millilitre marks",
    "kind": "tool",
-   "why": "For the Bottle Lift test, to measure the water. A kitchen measuring cup does the same job.",
+   "why": "For the Bottle Lift test, to measure the water. A kitchen measuring cup does the same job. A steel or plastic kitchen cup with ml marks costs well under Rs 100.",
    "url": "https://www.amazon.in/s?k=measuring+jug+with+ml+marks+kitchen",
    "used_in": [
     "e2"
@@ -2981,7 +2981,7 @@
    "id": "b-brushes",
    "item": "A set of soft paintbrushes and a pair of rubber kitchen gloves",
    "kind": "material",
-   "why": "For the Rubber Hand activity. The brushes stroke both hands, and one glove is stuffed to become the rubber hand.",
+   "why": "For the Rubber Hand activity. The brushes stroke both hands, and one glove is stuffed to become the rubber hand. Two soft brushes and one rubber glove cost about Rs 100 together at a stationery or kirana shop.",
    "url": "https://www.amazon.in/s?k=soft+paint+brush+set+for+kids",
    "used_in": [
     "a2"
@@ -2991,7 +2991,7 @@
    "id": "b-book",
    "item": "An Immense World, by Ed Yong",
    "kind": "book",
-   "why": "A book for parents about animal senses, including magnetism and electricity. Read short passages aloud.",
+   "why": "A book for parents about animal senses, including magnetism and electricity. Read short passages aloud. Optional: nothing in the unit depends on it, and a library copy is fine.",
    "url": "https://www.amazon.in/s?k=An+Immense+World+Ed+Yong",
    "used_in": [
     "g1"

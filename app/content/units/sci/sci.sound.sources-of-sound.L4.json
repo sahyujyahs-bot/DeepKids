@@ -676,7 +676,7 @@
     }
    ],
    "rules": [
-    "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Each player needs four tokens, one for each way. The sheet has two sets. With more than two players, write the four ways on small slips of paper.",
+    "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Each player needs four tokens, one for each way. The sheet has two sets. With no printer, copy the 24 fronts and backs onto small slips by hand, or let the reader read from the page and keep the backs covered. With 3 or 4 players, write the four ways on small slips of paper.",
     "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
     "Every other player puts one token face down. They pick the way they think the sound is started.",
     "Everyone turns their token over together. Then the reader reads the back aloud.",
@@ -787,7 +787,7 @@
    ],
    "materials": [
     {
-     "item": "5 identical glass bottles with narrow necks, such as small soda or juice bottles, with no chips or cracks",
+     "item": "5 identical glass bottles with narrow necks, each holding about 250 to 300 millilitres, such as small soft-drink or juice bottles, with no chips or cracks (plastic bottles work for blowing, but not for tapping)",
      "qty": 5
     },
     {
@@ -808,7 +808,7 @@
      "qty": 1
     },
     {
-     "item": "masking tape and a pencil, to label each bottle with its water amount",
+     "item": "tape (any tape or a paper strip) and a pencil, to label each bottle with its water amount",
      "qty": 1
     },
     {
@@ -816,11 +816,11 @@
      "qty": 1
     },
     {
-     "item": "a helper who listens with their eyes closed",
+     "item": "a helper who listens with their eyes closed (with one child, the parent is the helper)",
      "qty": 1
     }
    ],
-   "safety": "Use glass bottles with no chips or cracks, and stand them on a folded towel. Tap gently with a wooden spoon, never a steel one. Wipe up spills at once. When blowing, rest between tries, so you stay steady.",
+   "safety": "Use glass bottles with no chips or cracks, and stand them on a folded towel. Tap gently with a wooden spoon, never a steel one. Wipe up spills at once. When blowing, rest between tries, and stop if anyone feels dizzy. Each child blows into their own bottle, or wipes the bottle's mouth with a clean cloth before the next child blows.",
    "schedule": [
     {
      "day": 1,
@@ -843,22 +843,22 @@
       "emoji": "🍾"
      },
      {
-      "label": "100 ml",
+      "label": "50 ml",
       "value": 2,
       "emoji": "🍾"
      },
      {
-      "label": "200 ml",
+      "label": "100 ml",
       "value": 3,
       "emoji": "🍾"
      },
      {
-      "label": "300 ml",
+      "label": "150 ml",
       "value": 4,
       "emoji": "🍾"
      },
      {
-      "label": "400 ml",
+      "label": "200 ml",
       "value": 5,
       "emoji": "🍾"
      }
@@ -866,8 +866,8 @@
    },
    "setup": [
     {
-     "art": "Five identical glass bottles on a folded towel, with 0, 100, 200, 300 and 400 millilitres of water, being filled from a measuring cup.",
-     "caption": "1. Fill five bottles with 0, 100, 200, 300 and 400 millilitres of water."
+     "art": "Five identical glass bottles on a folded towel, with 0, 50, 100, 150 and 200 millilitres of water, being filled from a measuring cup.",
+     "caption": "1. Fill five bottles with 0, 50, 100, 150 and 200 millilitres of water."
     },
     {
      "art": "A ruler held against a bottle, measuring from the top of the water to the mouth of the bottle.",
@@ -903,16 +903,16 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most children say the order will be the same. Write the guess at the top of the table, because the result may surprise them.",
+     "parent": "Do not correct the guess. Most children say the order will be the same. Write the guess at the top of the table, because the result may surprise them. Roles: with one child, you are the helper who listens and writes. With 2 to 4 children, one taps, one listens with eyes shut, one writes the table, and one blows. Swap after each bottle pair, so everyone gets a turn at tapping, blowing and listening.",
      "context": "This is the first step of the Tap or Blow test. You guess before you test."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Stand the bottles on the towel. Fill them with 0, 100, 200, 300 and 400 millilitres of water. Put a small piece of tape on each bottle with the amount. Measure the air column in each with the ruler and write it in the table.",
+     "do": "Stand the bottles on the towel. Fill them with 0, 50, 100, 150 and 200 millilitres of water. Put a small piece of tape on each bottle with the amount. Measure the air column in each with the ruler and write it in the table.",
      "say": "Pour the water into each bottle. Write the amount on a piece of tape. Now measure from the top of the water to the top of the bottle. That is the air column. Write each one in the table.",
      "kid": "Fill the bottles. Label each one. Measure the air from the water to the top.",
-     "parent": "The air column gets shorter as the water goes up. If your bottles differ in size, use the same kind for all five. If you have fewer than five, use three and say so.",
+     "parent": "The air column gets shorter as the water goes up. If your bottles differ in size, use the same kind for all five. These amounts suit bottles of 250 to 300 millilitres. For a bigger bottle, make equal steps up to about three quarters full. Keep the water below the shoulder of the bottle. If you have fewer than five bottles, use three (for example 0, 100 and 200 millilitres) and say so.",
      "context": "In this step, you fill the bottles and measure the air column in each."
     },
     {
@@ -921,7 +921,7 @@
      "do": "Tap each bottle halfway up with the wooden spoon, once, gently. The helper keeps their eyes shut. Play two bottles one after the other and ask which is higher. Repeat each pair three times. Then give each bottle its place.",
      "say": "Close your eyes. I will tap two bottles. Which note is higher, the first or the second? We will do this for every pair of neighbours, three times each. Then we can put the five in order.",
      "kid": "Tap two bottles. Which is higher? Do every pair. Then put all five in order.",
-     "parent": "Expected: the empty bottle gives the highest tapped note, and the fullest gives the lowest. If your bottles are plastic, the difference is hard to hear, so use glass. Write the places from 1 (lowest) to 5 (highest).",
+     "parent": "Expected: the empty bottle gives the highest tapped note, and the fullest gives the lowest. If your bottles are plastic, the difference is hard to hear, so use glass. Steps of 50 millilitres are easy to hear on glass, but if two neighbours sound alike, compare the empty bottle and the fullest one first. Real tapped notes are short and dull, so listen closely and let the helper hear each pair more than once. Write the places from 1 (lowest) to 5 (highest).",
      "check": {
       "t": "mcq",
       "q": "Why does the listener keep their eyes closed while the bottles are tapped?",
@@ -941,7 +941,7 @@
      "do": "Now blow across each bottle. Rest your lower lip on the front of the bottle's mouth and blow a thin stream of air across the top. Find the position that gives a clear note. Give each bottle a place from lowest to highest in the same way.",
      "say": "Touch your lower lip to the front of the bottle's mouth. Blow a thin stream of air across the top, as if you are blowing across a flute. It takes some tries. Then do the same for each bottle, and put them in order.",
      "kid": "Blow across the top. Find the note. Do all five. Put them in order.",
-     "parent": "Blowing takes a little practice. Tilt the bottle a bit, and aim the stream of air so that it hits the far edge of the mouth. Rest between tries. Expected: the empty bottle gives the lowest blown note, and the fullest bottle gives the highest. This is the opposite of tapping.",
+     "parent": "Blowing takes a little practice. Tilt the bottle a bit, and aim the stream of air so that it hits the far edge of the mouth. Rest between tries. If a bottle will not sing after a minute or two, try the one with the most water first, since its short air column sings more easily. A weak, airy hiss is normal at the start. Expected: the empty bottle gives the lowest blown note, and the fullest bottle gives the highest. This is the opposite of tapping.",
      "context": "In this step, you blow across each bottle and put the bottles in order again."
     },
     {
@@ -971,14 +971,14 @@
      "parent": "Do not explain the cards yet. Let your child say what they think shakes in each case. If the orders are not reversed in your test, write down what you found and try to blow again, with a thinner stream of air. Real results are not always neat.",
      "check": {
       "t": "mcq",
-      "q": "A bottle has 400 millilitres of water in it, and another has 100 millilitres. Which gives the higher note when blown across?",
+      "q": "A bottle has 200 millilitres of water in it, and another has 50 millilitres. Which gives the higher note when blown across?",
       "options": [
-       "The one with 400 millilitres",
-       "The one with 100 millilitres",
+       "The one with 200 millilitres",
+       "The one with 50 millilitres",
        "They give the same note"
       ],
       "a": 0,
-      "why": "More water means a shorter air column, and a shorter air column gives a higher note when you blow. Picking 100 millilitres is the answer for tapping, where the glass and water shake and more water is more to shake."
+      "why": "More water means a shorter air column, and a shorter air column gives a higher note when you blow. Picking 50 millilitres is the answer for tapping, where the glass and water shake and more water is more to shake."
      },
      "context": "In this step, you compare the two orders and say what is shaking in each case."
     },
@@ -988,7 +988,7 @@
      "do": "Take the empty bottle. Hum slowly from a low note up to a high note, with your mouth near its opening. Listen for the note where the bottle suddenly booms.",
      "say": "Hold the empty bottle by your mouth and hum slowly, from low to high. Listen for the one note where the bottle seems to answer. That is the bottle's own note.",
      "kid": "Hum slowly up from low to high near the bottle. Find the note that booms.",
-     "parent": "The booming note is the natural note of the air in the bottle. A voice is not strong enough to make an empty bottle ring, but you should hear one note get louder. Try with the other bottles. The fuller ones boom at higher notes. If the empty bottle's note is too low for your voice, try the fuller bottles first.",
+     "parent": "The booming note is the natural note of the air in the bottle. A voice is not strong enough to make an empty bottle ring, but you should hear one note get louder. Try with the other bottles. The fuller ones boom at higher notes. If the empty bottle's note is too low for your voice, try the fuller bottles first. The boom is gentle, so hold the bottle's mouth close to your lips and keep the room quiet. If you hear nothing, that is a fair result too, so write it down and move on.",
      "context": "In this step, you use your own voice to find the bottle's natural note."
     }
    ]
@@ -1009,7 +1009,7 @@
    ],
    "materials": [
     {
-     "item": "a clean window pane that you can reach safely at ground level, or a large mirror, or a glass table top",
+     "item": "a clean window pane that you can reach safely at ground level, or a large mirror, or a glass table top, or a clean glass plate",
      "qty": 1
     },
     {
@@ -1017,11 +1017,11 @@
      "qty": 1
     },
     {
-     "item": "a small bowl of water with a few drops of dish soap",
+     "item": "a small bowl of water with a few drops of dish soap or hand wash",
      "qty": 1
     },
     {
-     "item": "a saucer with a drop of cooking oil",
+     "item": "a saucer with a drop of cooking oil (a little coconut or any kitchen oil)",
      "qty": 1
     },
     {
@@ -1033,11 +1033,11 @@
      "qty": 1
     },
     {
-     "item": "a helper who listens with their eyes closed",
+     "item": "a helper who listens with their eyes closed (with one child, the parent is the helper)",
      "qty": 1
     }
    ],
-   "safety": "Use a window at ground level, never near a ledge or an open balcony edge. Press gently. Wipe up any water, soap or oil from the glass and the floor at once, because they make the floor slippery. If anyone has sensitive skin or an allergy to soap or oil, skip that condition and wash hands after.",
+   "safety": "Use a window at ground level, never near a ledge or an open balcony edge. Press gently, because glass can crack or cut. Do not use a cracked or chipped pane. Wipe up any water, soap or oil from the glass and the floor at once, because they make the floor slippery. If anyone has sensitive skin or an allergy to soap or oil, skip that condition and wash hands after.",
    "schedule": [
     {
      "day": 1,
@@ -1116,7 +1116,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children say a dry finger will squeak most, because it grips most. Write the guess at the top of the table.",
+     "parent": "Do not correct the guess. Many children say a dry finger will squeak most, because it grips most. Write the guess at the top of the table. Roles: with one child, you are the listener and scorer. With 2 to 4 children, one drags the finger, one listens with eyes shut, and one writes the scores. Swap roles after each condition. If each child uses their own finger on the same condition, compare the scores. Fingers differ, which is why one finger is used for a fair test.",
      "context": "This is the first step of the Squeak Test. You guess before you test."
     },
     {
@@ -1125,7 +1125,7 @@
      "do": "Clean the glass with the cloth and let it dry. Practise one smooth sweep of about 20 centimetres in one second, with a dry finger. The helper shuts their eyes and gives a score from 0 to 5. Write it as the first dry try.",
      "say": "Clean the glass first. Now place one finger and drag it across the glass in about one second, with a gentle press. The listener closes their eyes and gives a score for the squeak, from nothing to very loud.",
      "kid": "Clean the glass. Drag a dry finger across in one second. Give a score.",
-     "parent": "A dry finger makes a faint scrape or no squeak. Press the same way each time. A harder press changes the sound, so keep it gentle.",
+     "parent": "A dry finger makes a faint scrape or no squeak. Press the same way each time. A harder press changes the sound, so keep it gentle. Before you begin, wash and dry the finger once. Clean fingers and clean glass matter most. If glass or fingers are greasy, nothing will squeak. In very damp weather the glass may mist, so wipe it dry with the cloth before each try.",
      "context": "In this step, you clean the glass and test a dry finger."
     },
     {
@@ -1134,7 +1134,7 @@
      "do": "Test the damp finger three times, then the very wet finger three times. Dip the finger and shake off the drops for damp. Let it drip for very wet. Wipe the glass between tries. Write the scores.",
      "say": "For a damp finger, dip it and shake off the drops. For a very wet finger, leave the drops on. Do three sweeps each and give scores. Wipe the glass between tries.",
      "kid": "Test a damp finger and a very wet finger. Wipe the glass each time. Give scores.",
-     "parent": "Expected: a damp finger squeaks loudly. A very wet finger glides with almost no sound. The squeak only happens when the finger sticks and slips. If your results differ, write what you hear.",
+     "parent": "Expected: a damp finger squeaks loudly. A very wet finger glides with almost no sound. The squeak only happens when the finger sticks and slips. If even the damp finger is silent, the glass or finger is probably greasy. Wash the finger with soap, clean the glass with a damp cloth and dry it, then try again. A clean steel plate or a mirror also works. A few tries may be needed to find how damp is right. If your results differ, write what you hear.",
      "check": {
       "t": "mcq",
       "q": "Why must the glass be wiped between each try?",
@@ -1154,7 +1154,7 @@
      "do": "Test the soapy finger three times and the oily finger three times. Wipe the glass between tries and wash the finger after. Write the scores. Add up the three scores for each condition.",
      "say": "Dip the finger in the soapy water for the soapy test. Use a touch of oil on the finger for the oily test. Do three sweeps for each and give scores. Wipe the glass well after the oil.",
      "kid": "Test a soapy finger and an oily finger. Wipe the glass. Add up the scores.",
-     "parent": "Expected: a soapy finger often squeaks, though less than damp. An oily finger is silent. Wipe the oil off the glass with a dry cloth, then a damp one, so that nobody slips.",
+     "parent": "Expected: a soapy finger may squeak, though usually less than damp, and it can also be silent. Soap films vary, so report what you hear. An oily finger is silent. Wipe the oil off the glass with a dry cloth, then a damp one, so that nobody slips.",
      "context": "In this step, you test the soapy and oily finger and add up the scores."
     },
     {
@@ -1173,7 +1173,7 @@
        ]
       }
      ],
-     "parent": "Do not explain the cards yet. A good answer says that squeaking needs both gripping and slipping. If the child can say 'the grip is not too much and not too little', that is the idea.",
+     "parent": "Do not explain the cards yet. A good answer says that squeaking needs both gripping and slipping. If the child can say 'the grip is not too much and not too little', that is the idea. To go further, use the damp finger and try three speeds (slow, medium, fast). Does the pitch of the squeak change?",
      "check": {
       "t": "mcq",
       "q": "A squeaky door hinge goes quiet after a drop of oil. What is the best reason?",
@@ -1218,7 +1218,7 @@
      "qty": 1
     },
     {
-     "item": "a paper bag, if you have one",
+     "item": "a paper bag, if you have one (a plain paper bag from the kirana is fine)",
      "qty": 1
     }
    ],
@@ -1263,7 +1263,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. The shake column is usually biggest and the rub column smallest.",
+     "parent": "Do not correct the guess. The shake column is usually biggest and the rub column smallest. Roles: with one child, you walk round together and you write. With 2 to 4 children, each keeps their own sheet and hunts in a different room for 5 minutes, then everyone compares sheets. Count which column grew biggest. No sound needs to be loud, so ask everyone to keep the volume low for the neighbours.",
      "context": "This is the first step of the Four-Way Sound Hunt. You guess before you hunt."
     },
     {
@@ -1272,7 +1272,7 @@
      "do": "Walk round the house. Make each of these sounds, and write each one in a column. Tap a tumbler. Blow across the bottle. Clap. Open the door slowly. Squeak a damp finger on the glass.",
      "say": "Make each sound and listen. Tap the tumbler. Blow across the bottle. Clap your hands. Open the door slowly. Squeak a damp finger on the glass. Which column does each one go in?",
      "kid": "Tap the tumbler. Blow across the bottle. Clap. Open the door. Squeak the glass.",
-     "parent": "Expected: tumbler in shake, bottle in blow, clap in pop, door and glass in rub. Let your child decide first. If they put the clap in shake, ask where the shaking is.",
+     "parent": "The squeaky glass needs a damp finger on clean glass. If it will not squeak, count the door or a rubbed balloon instead. Expected: tumbler in shake, bottle in blow, clap in pop, door and glass in rub. Let your child decide first. If they put the clap in shake, ask where the shaking is.",
      "check": {
       "t": "mcq",
       "q": "A clap goes in the pop column. What is the best reason?",
@@ -1334,7 +1334,7 @@
      "qty": 1
     },
     {
-     "item": "2 or 3 people, one to speak and one to listen",
+     "item": "2 to 4 people: one speaker, one listener, and the others to score and swap in (with one child, the parent is the speaker)",
      "qty": 2
     }
    ],
@@ -1387,7 +1387,7 @@
      "do": "Set up the screen so that the listener cannot see the speaker's mouth. Put the three slips in the bowl. Explain that the speaker will draw a slip, say the vowel in a clear voice, then put the slip back.",
      "say": "Put up the screen. The speaker draws a slip and says that vowel. The listener says which one it was. The speaker puts the slip back, so that each try is a new guess.",
      "kid": "Put up the screen. Draw a slip. Say the vowel. The listener guesses.",
-     "parent": "The slips go back each time, so a vowel can come twice in a row. That is what makes it a fair test. If the listener could see the lips, they could lip-read, and the test would not show what the sound alone says.",
+     "parent": "The slips go back each time, so a vowel can come twice in a row. That is what makes it a fair test. Switch off the fan and TV, and keep the room quiet, because a whisper is easy to lose in noise. The listener sits about 2 metres away. If the listener could see the lips, they could lip-read, and the test would not show what the sound alone says.",
      "check": {
       "t": "mcq",
       "q": "Why is a screen needed between the speaker and the listener?",
@@ -1416,7 +1416,7 @@
      "do": "Do ten whispered tries. The speaker draws a slip and whispers the vowel with a clear mouth shape. Keep the same distance and loudness as before. Tick the right answers.",
      "say": "Now whisper the vowel. Make the mouth shape clear, but do not buzz. Listener, which vowel was it? Ten tries. Tick the right ones.",
      "kid": "Now whisper the vowels. Do ten tries. Tick the right ones.",
-     "parent": "Expected: most are right, often 8 or more out of ten, even though there is no buzz. Guessing alone would give about 3 out of 10. If the listener does badly, make sure the speaker is whispering and not softly speaking. Touch the throat to check for a buzz.",
+     "parent": "Expected: most are right, often 8 or more out of ten, even though there is no buzz. Guessing alone would give about 3 out of 10. If the listener does badly, make sure the speaker is whispering and not softly speaking. Touch the throat to check for a buzz. These scores are typical, not promised. If the listener gets 10 out of 10 in both rows, make it harder with a longer distance, or add 'e' and 'o' slips, so that guessing alone gives about 2 out of 10.",
      "check": {
       "t": "mcq",
       "q": "The listener got 9 out of 10 whispered vowels right. What does that show?",
@@ -1446,7 +1446,8 @@
        ]
       }
      ],
-     "context": "In this step, you count your results and say where vowels come from."
+     "context": "In this step, you count your results and say where vowels come from.",
+     "parent": "With a group, each child takes a turn as speaker and as listener, and you compare their scores. Different people and rooms give different scores, and that is a real result."
     }
    ]
   },
@@ -1457,7 +1458,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a large empty steel pot or bucket with a wide mouth, about 25 centimetres across",
+     "item": "a large empty steel pot, bucket or deep steel vessel with a wide mouth, about 25 centimetres across and at least 20 centimetres deep (a pressure cooker pot without its lid works)",
      "qty": 1
     },
     {
@@ -1471,6 +1472,10 @@
     {
      "item": "a paper and pencil to record the notes",
      "qty": 1
+    },
+    {
+     "item": "a ruler, to measure the depth of each vessel",
+     "qty": 1
     }
    ],
    "safety": "Hum gently. Do not put your head inside any vessel. Hold the vessel in front of your mouth, about 5 centimetres away.",
@@ -1478,10 +1483,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Hum slowly up the scale near the mouth of a big pot and find the note where it booms. Try a smaller vessel. Then try a small bathroom."
+     "what": "Guess. Measure the depth of each vessel. Hum slowly up the scale near the mouth of a big pot and find the note where it booms. Try a smaller vessel. Then try a small bathroom."
     }
    ],
-   "record": "Write which vessel boomed at which kind of note (low, middle or high). Write whether the bathroom boomed at any note.",
+   "record": "Write which vessel boomed at which kind of note (low, middle or high). Write the depth of each vessel in centimetres. Write whether the bathroom boomed at any note.",
    "context": "In this activity, you hum slowly from low to high near the mouth of a pot and find the one note where the pot seems to answer. You then try different vessels and a bathroom.",
    "setup": [
     {
@@ -1523,7 +1528,7 @@
      "do": "Hold the big pot about 5 centimetres from your child's mouth. They hum a steady note and slowly slide it from low to high. Ask them to stop where the pot seems loudest. Write if that note was low, middle or high.",
      "say": "Hold the pot near your mouth. Hum a low note and slowly slide up. Listen for the note where the pot suddenly sounds louder. That is the pot's hidden note. Stop there.",
      "kid": "Hum low and slide up slowly. Listen for the note where the pot booms.",
-     "parent": "The booming note is the natural note of the air in the pot. Slide slowly. It may be a narrow zone of just one note. If the child's voice is not low enough, try a smaller vessel. Do not shout.",
+     "parent": "The booming note is the natural note of the air in the pot. Slide slowly. It may be a narrow zone of just one note. If the child's voice is not low enough, try a smaller vessel. Do not shout. The pot's note is about the pitch of a child's or woman's voice, so a child often finds it, while a deep adult voice may slide past it. The boom is soft, so keep the room quiet and listen with the pot close. Typical, not promised: the effect is clearer with a deep pot than a shallow one. Measure the depth with the ruler and write it down.",
      "context": "In this step, you find the hidden note of the big pot."
     },
     {
@@ -1532,7 +1537,7 @@
      "do": "Do the same with the small vessel. Compare which one boomed at a lower note. Then try the bathroom, with the door shut. Hum a slow slide from low to high and listen for a note that suddenly seems bigger.",
      "say": "Now try the small tumbler. Is its hidden note lower or higher? Then go into the bathroom and shut the door. Hum slowly from low to high. Is there a note where the room seems to boom?",
      "kid": "Try the small vessel. Is the note higher? Then try the bathroom.",
-     "parent": "Expected: the small vessel answers at a higher note than the big one. The small bathroom often has a note where a hum sounds big, and this is why singing in the bathroom sounds good. A man's low voice finds it more easily. If nothing booms, that is a real result.",
+     "parent": "Expected: the small vessel answers at a higher note than the big one. The small bathroom often has a note where a hum sounds big, and this is why singing in the bathroom sounds good. A bathroom's note is very low, so a deep adult voice finds it more easily, and a child may find none. Let a deep-voiced adult try if there is one. In a group, one person hums and the others listen from the doorway to say if it sounded bigger. Compare depth too: the deeper vessel should answer at the lower note. If nothing booms, that is a real result.",
      "check": {
       "t": "mcq",
       "q": "The small tumbler booms at a higher note than the big pot. What is the best reason?",
@@ -1575,7 +1580,7 @@
    "mins": 50,
    "materials": [
     {
-     "item": "5 identical glass bottles with narrow necks, small soda or juice bottles",
+     "item": "5 identical glass bottles with narrow necks, each holding about 250 to 300 millilitres, small soda or juice bottles",
      "qty": 5
     },
     {
@@ -1588,11 +1593,11 @@
      "qty": 1
     },
     {
-     "item": "a harmonium, a keyboard, or a keyboard app on a phone, to give the notes Sa, Re, Ga, Pa and Dha",
+     "item": "a harmonium, a keyboard, or a free keyboard app on a phone, to give the notes Sa, Re, Ga, Pa and Dha",
      "qty": 1
     },
     {
-     "item": "tape and a marker, to label the bottles",
+     "item": "tape (any tape or paper strips) and a marker, to label the bottles",
      "qty": 1
     },
     {
@@ -1600,7 +1605,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use glass bottles without chips or cracks, and stand them on a towel. Rest between rounds of blowing, so you stay steady.",
+   "safety": "Use glass bottles without chips or cracks, and stand them on a towel. Rest between rounds of blowing, and stop if anyone feels dizzy. Each child blows into their own bottle, or wipes the mouth with a clean cloth before the next child blows. Pick a quiet time, since five bottles can be loud.",
    "schedule": [
     {
      "day": 1,
@@ -1646,17 +1651,17 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. The answer is that Dha, the highest, needs the most water, because the air column is shortest. Children may need the Tap or Blow test first to remember this.",
+     "parent": "Do not correct the guess. The answer is that Dha, the highest, needs the most water, because the air column is shortest. Children may need the Tap or Blow test first to remember this. Roles: with one child, you play the keyboard note and your child tunes the bottle. With 2 to 4 children, each child tunes one or two bottles, then all come together to play the tune, one bottle each.",
      "context": "This is the first step of the Bottle Bansuri Set. You guess before you build."
     },
     {
      "id": "s2",
      "mins": 25,
-     "do": "Play the note Sa on the harmonium. Put about 50 millilitres in the first bottle and blow across it. If the note is too low, add water. If it is too high, pour a little out. Match it. Label the bottle Sa. Do the same for Re, Ga, Pa and Dha, with more water each time.",
+     "do": "First blow across the empty bottle and find its note on the harmonium or keyboard. Call that note Sa. Now play Re, Ga, Pa and Dha above it. For each next bottle, start with the first-guess amount in the parent note and blow across it. If the note is too low, add water. If it is too high, pour a little out. Match it, and label the bottle. Each bottle needs more water than the one before.",
      "say": "Play Sa on the harmonium. Blow across the first bottle and compare. Is yours lower or higher? Add water to go higher, or pour some out to go lower. Match it, and label it. Then do Re, Ga, Pa and Dha.",
      "kid": "Play a note. Blow across a bottle. Add water to go higher. Pour out to go lower.",
      "adult": false,
-     "parent": "Add water in small amounts, 10 millilitres at a time. The water goes up and up as you climb the scale. If you have no harmonium, use a keyboard app on a phone, or sing the scale and match by ear. Write the amounts of water as you go.",
+     "parent": "A bottle's lowest blown note is often below the harmonium's usual Sa, so we start from the bottle's own note, and the empty bottle is Sa. Typical first guesses for a 250 to 300 millilitre bottle, to be tuned by ear: Re about 50 millilitres, Ga about 90, Pa about 140, Dha about 170. Your bottles will differ, so trust your ears. Add water in small amounts, 10 millilitres at a time. Blow gently, because a hard blow jumps to a higher note. The water goes up and up as you climb the scale. If you have no harmonium, use a keyboard app on a phone, or sing the scale and match by ear. Write the amounts of water as you go.",
      "check": {
       "t": "mcq",
       "q": "A bottle is blown across and its note is too high. What should you do to lower it?",
@@ -1677,7 +1682,7 @@
      "say": "Check each bottle against the harmonium again. Add or remove a little water if one is off. Then play the scale up and down.",
      "kid": "Check each bottle. Fix any that are off. Play the scale.",
      "wait": "Do this on day 2.",
-     "parent": "Water in a bottle can evaporate a little overnight. The note changes only a little, but it can be heard. Write down any water you had to add.",
+     "parent": "Water in a bottle can evaporate a little overnight, and in hot weather a bit more. Cover the bottles with a plate if you want to keep them. If you need to start again, you only lose ten minutes. The note changes only a little, but it can be heard. Write down any water you had to add.",
      "context": "In this step, you check the tuning on day 2 and practise."
     },
     {
@@ -1697,7 +1702,7 @@
        ]
       }
      ],
-     "parent": "Expected: the amounts of water do not rise evenly. Notes are spaced by ratios, not by equal steps, and a bottle's note depends on its air volume in a more complicated way than a plain pipe. Do not worry if your numbers look uneven.",
+     "parent": "Expected: the amounts of water do not rise evenly. Notes are spaced by ratios, not by equal steps, and a bottle's note depends on its air volume in a more complicated way than a plain pipe. Do not worry if your numbers look uneven. Typical, not promised: going from Sa to Dha, the air in the bottle shrinks to roughly a third. If you have only a few bottles, play a three-note tune (Sa, Ga, Pa).",
      "context": "In this step, you play a tune for the family and study your table."
     }
    ]
@@ -1721,7 +1726,8 @@
     "tape, such as masking tape",
     "a little modelling clay or a ball of paper",
     "a pair of scissors, used by a grown-up",
-    "a pencil, to mark holes"
+    "a pencil, to mark holes",
+    "a paper strip or a little tape, to narrow the opening if the tube will not sing"
    ],
    "general": [
     "Cover the far end of the tube with your palm for a lower note, and uncover it for a higher note. A tube closed at one end sounds an octave lower than the same tube open at both ends.",
@@ -1775,7 +1781,7 @@
      "do": "Learn to get a note first. Hold the tube upright and rest your lower lip on one edge of the open end. Blow a thin stream across the opening. Find the position that gives a clear note. Then cover the far end with your palm and listen again.",
      "say": "Rest your lower lip on the edge of the tube. Blow a thin stream across the opening. When it sings, hold the tube still. Now cover the far end with your palm and blow again. What changes?",
      "kid": "Blow across the end of the tube. Find a note. Cover the far end. What changes?",
-     "parent": "It takes time to find the sweet spot. Tilt the tube a little. If it still will not sing, wet your lower lip. Expected: with the far end closed, the note is about an octave lower. If your child cannot make a note, use a shorter tube first.",
+     "parent": "It takes time to find the sweet spot. Tilt the tube a little. If it still will not sing, wet your lower lip. Expected: with the far end closed, the note is about an octave lower. If your child cannot make a note, use a shorter tube first, or tape a thin paper strip over half of the opening, so the air has a sharp edge to hit. A wide tube is harder to sing than a narrow one, so a thinner tube or a plastic bottle neck also works. In a group, each child needs their own tube and a turn at the cutting-helper role, never at the scissors.",
      "check": {
       "t": "mcq",
       "q": "Covering the far end of the tube makes the note lower. What is the best reason?",
@@ -1795,7 +1801,7 @@
      "do": "Build your first design. Test whether it gives three clearly different notes. Ask a listener with their eyes closed to tell the notes apart. Write down what works.",
      "say": "Build your first design. Play your three notes. Ask a listener with their eyes closed whether they can tell them apart. Write down what worked and what did not.",
      "kid": "Build your design. Play three notes. Can a listener tell them apart?",
-     "parent": "A grown-up cuts any holes. Mark the hole positions with a pencil first. Tell the child that holes nearer the far end change the note less than holes near the blowing end. The first try rarely works, and that is fine.",
+     "parent": "A grown-up cuts any holes with scissors, with the child watching from a distance, and keeps all the pieces. With 2 to 4 children, each child designs and tests their own tube, then the group votes which tube gave the clearest notes. Mark the hole positions with a pencil first. Tell the child that holes nearer the far end change the note less than holes near the blowing end. The first try rarely works, and that is fine.",
      "context": "In this step, you build and test your first design."
     },
     {
@@ -2949,9 +2955,9 @@
   },
   {
    "id": "b-keyboard",
-   "item": "A small toy keyboard",
+   "item": "A small toy keyboard (optional)",
    "kind": "tool",
-   "why": "For tuning the bottles to Sa, Re, Ga, Pa and Dha, if you have no harmonium. A free keyboard app on a phone also works.",
+   "why": "Only for tuning the bottles to Sa, Re, Ga, Pa and Dha if you have no harmonium and no phone. A free keyboard app on a phone does the same job and costs nothing.",
    "url": "https://www.amazon.in/s?k=kids+keyboard+piano+37+keys",
    "used_in": [
     "p1"

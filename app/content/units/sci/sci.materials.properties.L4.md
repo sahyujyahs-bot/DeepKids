@@ -60,7 +60,7 @@ Cut a tree trunk across and look closely. You see rings and tiny holes. Each hol
 ### Bamboo: a grass that is stronger than it looks · *defined*
 **Definition:** Bamboo is a giant grass with a hollow stem. Its strong fibres run along its length, so it splits easily lengthwise and is hard to snap across when it is whole.
 
-Bamboo is not a tree. It belongs to the grass family, like rice and sugarcane. Its stem is a hollow tube, divided by solid rings called nodes. The wall of the tube is packed with strong fibres that run along the length of the stem. This makes bamboo strong to pull and to bend, and light for its size. It also means that bamboo splits easily along its length, because there are no fibres holding the sides together. Basket makers in Assam and Kerala use this on purpose. They split a stem into thin strips with a knife, then weave the strips into baskets, mats and hats. Some kinds of bamboo grow very fast, about a metre in a day in the best conditions, so bamboo is also a material that can be harvested again and again.
+Bamboo is not a tree. The grass family is where bamboo belongs, with rice and sugarcane. Its stem is a hollow tube, divided by solid rings called nodes. The wall of the tube is packed with strong fibres that run along the length of the stem. This makes bamboo strong to pull and to bend, and light for its size. It also means that bamboo splits easily along its length, because there are no fibres holding the sides together. Basket makers in Assam and Kerala use this on purpose. They split a stem into thin strips with a knife, then weave the strips into baskets, mats and hats. Some kinds of bamboo grow very fast, up to about 90 centimetres in a day in the best conditions, so bamboo is also a material that can be harvested again and again.
 - e.g. Basket makers split bamboo into long strips, because the strips come off cleanly along the fibres.
 - e.g. A bamboo scaffold on a building site holds workers because the whole tube is stiff.
 - e.g. A broken bamboo stick shows long splinters, not a neat edge.
@@ -119,7 +119,7 @@ People have always shaped materials from outside, by cutting and bending. Today,
 - e.g. A butterfly's wing is coloured by tiny ridges, not by paint.
 - e.g. A gecko sticks to a wall with millions of tiny hairs on each foot.
 ### Can we predict a material's properties from its atoms? · *debated*
-In principle, a material's properties come from its atoms and how they are joined. If we knew exactly how the atoms sit, could we calculate how hard, bendy or strong the material is? For simple crystals, computers can calculate some properties quite well. But for most real materials, which have cracks, crystal edges, gaps and mixed ingredients, the calculation is too hard, and people still make and test many samples. In 2023, a research group at Google DeepMind reported that a computer program had predicted millions of new stable crystals. Other scientists replied that many of the predictions were not new, or not useful, and that making and testing them is the real work. So the question is open. Some scientists think we are close to designing materials with a computer. Others think real materials will always hold surprises.
+In principle, a material's properties come from its atoms and how they are joined. If we knew exactly how the atoms sit, could we calculate how hard, bendy or strong the material is? For simple crystals, computers can calculate some properties quite well. But for most real materials, which have cracks, crystal edges, gaps and mixed ingredients, the calculation is too hard, and people still make and test many samples. In 2023, a research group at Google DeepMind reported that a computer program had predicted 2.2 million new crystal structures, about 380,000 of them stable. Other scientists replied that many of the predictions were not new, or not useful, and that making and testing them is the real work. So the question is open. Some scientists think we are close to designing materials with a computer. Others think real materials will always hold surprises.
 - e.g. Computers can calculate how stiff a perfect diamond crystal is.
 - e.g. No computer can yet predict how long a particular steel part will last in a bridge.
 - e.g. Wood from two trees of the same kind can differ in strength.
@@ -147,7 +147,7 @@ In principle, a material's properties come from its atoms and how they are joine
   Against: For a beam bending under a load, the stiffness grows with the cube of the thickness. Double the thickness and the plank is about eight times stiffer. Two sheets laid loosely on each other are only twice as stiff, because they slide.
 - **Bamboo is a kind of wood.** (Many people.; *rejected*)  
   For: It is hard, woody and used like timber.  
-  Against: Bamboo is a grass, in the same family as rice and sugarcane. It has no growth rings and no bark layer, and its stem is hollow. It feels like wood because its walls are packed with strong fibres.
+  Against: Bamboo is a grass, in the same family as rice and sugarcane. Bamboo stems have no growth rings and no bark layer, and they are hollow. A bamboo stick feels like wood because its walls are packed with strong fibres.
 - **A strong material is also a tough material.** (Many people.; *rejected*)  
   For: Strong things usually seem hard to damage.  
   Against: Glass is stiff and quite strong when pulled with no scratches, yet it shatters from a small knock. Rubber is not strong, but it is tough. Strength and toughness measure different things.
@@ -238,11 +238,12 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **Printable cards: 24 two-sided cards: the name of a material or a thing on the front, and the answer with the test on the back:** Newspaper. (back: Has a grain. Most fibres lie along the columns of print. Test: tear it both ways and see which tear runs straight.); A sheet of plain printer paper. (back: Has a grain. The fibres line up in the direction the paper moved in the mill. Test: tear a short strip each way, or fold it each way.); A wooden plank. (back: Has a grain. Its long cells lie along the plank. Test: try to split it along its length, and then across.); A bamboo stick. (back: Has a grain. Its strong fibres run along the stem. Test: start a split with a thumbnail at the end. It opens along the stick.); A glass marble. (back: No grain. Glass has no lines of fibres or layers. It is almost the same in every direction.); A lump of clay for a pot. (back: No grain. Clay is a mix of tiny flakes packed in every direction. It squashes and stretches about equally all round.); A woven cotton dupatta. (back: Has a grain. It has threads in two directions, and it stretches most on the slant. Test: pull it along the threads, then on the diagonal.); A corrugated cardboard box. (back: Has a grain. Its waves, called flutes, run one way. It is stiff along the flutes and bends easily across them.); A steel ball from a bearing. (back: No grain. It is hard, and it is about the same in every direction.); A banana leaf. (back: Has a grain. Its veins run in parallel lines. A leaf splits easily between the veins, as the wind shows.); A lump of modelling clay. (back: No grain. It is a soft mass with no lines of fibres or layers, so it squashes and stretches about the same in every direction.); A celery stalk. (back: Has a grain. Its stringy fibres run along the stalk. Test: snap the end and pull. A string peels off along the length.); A thin sheet of rubber from a balloon. (back: No grain. Its tangled chains stretch about the same way in every direction, so a flat sheet stretches evenly.); A cereal box. (back: Has a grain. It is made from paper, so its fibres lie one way. It bends more easily one way than the other.); A candle, made of wax. (back: No grain. Wax is the same all through, and it snaps the same way across or along.); A strip of mica, a shiny mineral. (back: Has a grain. Mica is a stack of thin sheets. It peels into leaves along the sheets, but it is hard to split across them.); A pencil lead. (back: Has a grain. Graphite is made of thin layers. They slide over each other, so the lead leaves a mark on paper.); A thick block of jaggery. (back: No grain. Jaggery is a hard mass of tiny sugar crystals pointing every way, so it breaks about the same in every direction.); A coconut husk rope. (back: Has a grain. The husk fibres run along the rope and are twisted together. The rope is strong along its length.); A sheet of plywood. (back: Has a grain, but it is evened out. Its layers are glued with the grain of each layer turned across the one below. It is much more even than a plank.); A carry bag made of thin plastic. (back: Has a grain. Its long molecules were pulled into line when the plastic was made, so it often tears more easily one way.); A brick. (back: No grain. A brick is hard and made of tiny clay grains packed every way, so it is about the same in every direction.); A sugarcane stalk. (back: Has a grain. Its fibres run along the stalk. You peel and split it along its length, and chewing breaks the fibres down.); A clean, still glass of water. (back: No grain. Water has no lines or layers that stay in place. It is the same in every direction.)
 - **Printable tokens: 8 tokens: four that say Has a grain and four that say No grain:** Has a grain; Has a grain; Has a grain; Has a grain; No grain; No grain; No grain; No grain
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
+  *Parent does:* Cut out the 24 cards and the 8 tokens. Take out the plywood card and the three practice cards: newspaper, glass marble and bamboo stick. Shuffle the rest and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards show things around us. Each player gets two tokens. Has a grain, and No grain. We guess which kind each thing is.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take one token of each kind.
+  - Note: A grown-up cuts out the cards with scissors. The tests on the backs are said aloud during the game. Do not try them in the game. Try them afterwards with a grown-up beside you, because bamboo and wood can splinter.
 - **s2 (4 min)**  
-  *Parent does:* Play three practice cards. Use newspaper, a glass marble and a bamboo stick. Do not score yet. After each card, read the back and talk about the test.  
+  *Parent does:* Play the three practice cards: newspaper, glass marble and bamboo stick. Do not score yet. After each card, read the back and talk about the test.  
   *Parent says:* Here is the first card. The reader reads it. Everyone picks a token. We turn them over together. Then we read the back.  
   *Child mode:* Play three practice cards. Pick a token. Turn it over. Check the back.
   - Ask: What does it mean for a thing to have a grain? (good: It behaves differently in different directions.; It has lines of fibres or layers in it.; It tears or splits more easily one way.)
@@ -254,11 +255,11 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   - Ask: What do the cards with a grain have in common? (good: They are made of fibres lined up one way.; They are made of layers or threads.; They split or tear more easily one way.)
   - Check: Glass has no grain. What does that mean? → **It is about the same in every direction**
 - **s4 (5 min)**  
-  *Parent does:* Play the remaining cards. Stop at the plywood card. Read it out slowly, and ask the question below before turning it over.  
+  *Parent does:* Play the remaining cards. Play the plywood card last. Read it out slowly, and ask the question below before turning it over.  
   *Parent says:* Plywood is made of thin sheets of wood. The grain of each sheet is turned across the one below. Does it have a grain?  
   *Child mode:* Play the rest. Stop at plywood. Think before you turn the card.
   - Ask: How can a thing made of wood with a grain end up almost even in every direction? (good: Each layer covers the weak direction of the next.; The layers cross.; It is a mix of directions.)
-  - Note: Let the children argue. Plywood still has a grain in each layer. It is only the sheet as a whole that is evened out. This is the idea of the Crossed Layers card.
+  - Note: Let the children argue. Plywood still has a grain in each layer. It is only the sheet as a whole that is evened out. This is the idea of the Crossed Layers card. For a quicker game, play only 12 cards, but always finish with plywood. With two or three players, a full game of 24 cards takes about 25 minutes.
 - **s5 (2 min)**  
   *Parent does:* Count the points. Look at the cards you got wrong, and read the backs again. Ask which card surprised each person most.  
   *Parent says:* Count your points. Which card surprised you most? Why?  
@@ -278,7 +279,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent says:* We have newspaper and plain paper. First we tear. Then we cut strips and see which droops more. Will paper act the same in every direction? Why do you think so?  
   *Child mode:* Guess first. Is paper the same in every direction? Why do you think so?
   - Ask: Why do you think paper will be the same, or different, in different directions? (good: It is flat and smooth, so it is the same.; Newspaper has lines of print, so it might tear along them.; Paper is made of fibres, and they might lie one way.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, give each child one paper to test. One holds the strip and the book, one reads the ruler, and one writes. Swap roles for the next strip, then put all the tables side by side.
 - **s2 (7 min)**  
   *Parent does:* Hold a newspaper sheet by its top edge. Tear a strip down it from top to bottom for about 20 centimetres. Take a second sheet and tear from side to side, for the same distance. Look at the two tears.  
   *Parent says:* Tear one sheet from top to bottom. Tear another from side to side. Which tear is straighter? Which one wanders?  
@@ -289,17 +290,17 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent does:* Draw a pencil arrow along the way the newspaper tore straight. Now find the grain of the printer paper. Tear a short strip from a corner in each direction, and draw an arrow along the straighter tear.  
   *Parent says:* Draw an arrow along the straight tear. Now find the straighter tear on the printer paper. Draw an arrow there too.  
   *Child mode:* Draw an arrow along the straight tear. Do the same on the printer paper.
-  - Note: Printer paper shows the difference less clearly than newspaper. If you cannot tell, use the fold test. Fold the sheet in half one way and press the crease. Do the same the other way. The fold along the grain is smoother, and the fold across it looks rougher and a little cracked.
+  - Note: Printer paper shows the difference less clearly than newspaper. If you cannot tell, use the fold test. Fold the sheet in half one way and press the crease. Do the same the other way. The fold along the grain is smoother, and the fold across it looks rougher and a little cracked. If printer paper shows no clear difference, write that down. It is an honest result, and newspaper shows the grain best.
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* Cut two strips from the newspaper and two from the printer paper, each 3 centimetres wide and 20 centimetres long. Cut one strip along the arrow and one across it. Write A on the strip along the arrow and X on the strip across it.  
   *Parent says:* Cut one strip along the arrow and one across it. Mark them A and X. Keep the strips the same width.  
   *Child mode:* Cut a strip along the arrow. Cut another across it. Mark them A and X.
-  - Note: Make the two strips exactly the same width. A strip 3 centimetres wide is easy to measure. Cut four strips in all, two from the newspaper and two from the printer paper.
+  - Note: Make the two strips exactly the same width. A strip 3 centimetres wide is easy to measure. Cut four strips in all, two from the newspaper and two from the printer paper. Cut along the arrow means the long side of the strip runs the same way as the arrow.
 - **s5 (10 min)**  
-  *Parent does:* Put strip A on the table with 10 centimetres sticking out over the edge. Put a heavy book on the other end. Hold the ruler upright beside the tip. Read how far the tip droops. Do it three times. Then do the same for strip X.  
-  *Parent says:* Slide the strip so exactly ten centimetres stick out. Put the book on the end. Measure how far the tip drops. Do each strip three times.  
-  *Child mode:* Let 10 centimetres stick out. Measure how far the tip drops. Do each strip three times.
-  - Note: If a newspaper strip folds right down to the table, pull it back so only 6 centimetres stick out, and use 6 centimetres for every strip. Printer paper often droops about 2 to 5 centimetres. The strip cut along the grain usually droops less. The difference can be small with thin paper, so measure carefully and write down what you see, even if the difference is small.
+  *Parent does:* Put strip A on the table with 10 centimetres sticking out over the edge, or 6 for newspaper. Put a heavy book on the other end. Hold the ruler upright beside the tip. Read how far the tip droops. Do it three times. Then do strip X.  
+  *Parent says:* Slide the strip so exactly ten centimetres stick out, or six for newspaper. Put the book on the end. Measure how far the tip drops. Do each strip three times.  
+  *Child mode:* Let 10 centimetres stick out, or 6 for newspaper. Measure how far the tip drops. Do each strip three times.
+  - Note: Newspaper is floppy, so let 6 centimetres stick out for newspaper and 10 for printer paper. Use the same length for both strips of one paper. If a printer-paper strip also folds right down, use 6 for it too. Typical droop for printer paper is about 2 to 5 centimetres, and the strip cut along the grain usually droops less. The difference can be small with thin paper, so measure carefully to the millimetre and write down what you see.
   - Check: The two strips are the same width, length and paper. Why do you measure each one three times? → **One try can be a fluke, and three tries show whether the result repeats**
 - **s6 (9 min)**  
   *Parent does:* Find the average droop for each strip. Add the three numbers and divide by 3. Draw a bar for each strip. Then ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -319,14 +320,14 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent says:* We will cut two strips from one cloth. One strip runs along the threads. The other runs on the slant. Each carries the same bottle. Which will stretch more? Why do you think so?  
   *Child mode:* Guess first. Which strip will stretch more? Why do you think so?
   - Ask: Why do you think one strip might stretch more than the other? (good: The threads are in the way on the slant.; They are the same cloth, so they will be the same.; The threads cross, so the slant might give.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, each child cuts a pair of strips from a different cloth, such as a kitchen cloth, a dupatta and an old shirt. One holds the bag steady, one reads the ruler at eye level, and one writes. Then compare which cloth stretched most.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Pull one thread out near the edge of the cloth. The gap it leaves is a straight line along the threads. Cut along the gap. Do the same on another side to make a square about 40 centimetres each way.  
   *Parent says:* Look at the cloth. You can see threads in two directions. Pull out one thread. The gap shows the straight line of the threads.  
   *Child mode:* Pull out one thread near the edge. The gap shows the way the threads run.
-  - Note: Use woven cloth, not a knitted T-shirt. Knitted cloth is made of loops and stretches both ways. If the cloth has a printed stripe or check, you can also follow that. Do not worry if the square is not perfect.
+  - Note: Use woven cloth, not a knitted T-shirt. Knitted cloth is made of loops and stretches both ways. If the cloth has a printed stripe or check, you can also follow that. Do not worry if the square is not perfect. If a tight weave will not let you pull out a thread, follow a printed stripe or the woven edge of the cloth. The threads run in two straight directions at right angles.
 - **s3 (6 min) · grown-up needed**  
-  *Parent does:* Fold the square corner to corner, so the fold crosses the cloth at a slant. Press the fold and draw a pencil line along it. Cut one strip 5 centimetres wide and 35 centimetres long along the threads. Cut a second strip of the same size along the fold line.  
+  *Parent does:* Fold the square corner to corner, so the fold crosses the cloth at a slant. Press the fold and draw a pencil line along it. Cut one strip 5 centimetres wide and 35 centimetres long along the threads. Cut a second strip of the same size centred on the fold line.  
   *Parent says:* Fold the cloth from corner to corner. That fold is the slant, which tailors call the bias. Cut one strip along the threads and one along the bias.  
   *Child mode:* Fold the cloth corner to corner. That fold is the bias. Cut one strip each way.
   - Check: Why are the two strips the same width and length? → **So that only the direction of the cut is different**
@@ -334,11 +335,12 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent does:* Lay strip 1 flat and draw two pencil marks 20 centimetres apart. Clip the top of the strip to the hook. Clip a carry bag to the bottom. Measure between the marks. Then put the bottle in the bag, wait ten seconds, and measure again.  
   *Parent says:* Mark two points 20 centimetres apart. Hang the strip, with the bag clipped to the bottom. Measure. Then add the bottle. Wait ten seconds and measure again.  
   *Child mode:* Mark 20 centimetres. Hang the strip. Add the bottle. Measure again.
-  - Note: Hold the bag steady while someone reads the ruler, because a swinging bag gives wrong numbers. Along the threads, the marks may stay almost 20 centimetres apart. On the slant they may stretch by 2 to 5 centimetres. A very old or loose cloth may stretch more. Read the ruler at eye level.
+  - Note: Hold the bag steady while someone reads the ruler, because a swinging bag gives wrong numbers. Along the threads, the marks may stay almost 20 centimetres apart. On the slant, a typical thin cotton stretches about 1 to 4 centimetres. A very old or loose cloth may stretch more, and a stiff new cloth less. If the slant strip stretches only a few millimetres, try a thinner cloth or a 1 litre bottle. Read the ruler at eye level.
 - **s5 (5 min)**  
   *Parent does:* Do the other strip in the same way. Then do each strip a second time. Write the stretch for each try. The stretch is the length with the bottle minus 20 centimetres.  
   *Parent says:* Now test the other strip in the same way. Then test both strips again. Subtract 20 from each hanging length to find the stretch.  
   *Child mode:* Test the other strip. Then test both again. Work out the stretch.
+  - Note: If both strips stretch the same amount, check that the cloth is woven and not knitted. Then check that the second strip really was cut on the slant.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then look closely at the cloth and its threads in bright light.  
   *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened? Then look closely at the threads.  
@@ -349,7 +351,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **question:** How many bends does it take to snap a paper clip? Does a big bend or a small bend snap it sooner?
 - **predict:** Before you start, guess. How many big bends will it take to snap a paper clip? Will small bends take more bends, or fewer? Why do you think so?
 - **fair test:** All the clips are the same kind, from the same box. You straighten each one in the same way and bend it at the middle. Three clips get big bends and three clips get small bends. You count every bend in the same way. Only the size of the bend changes.
-- **safety:** A grown-up stays close. The wire can spring and the snapped ends are sharp. Hold the wire low and away from your face, and wear glasses if you have them. Put the pieces in the bowl at once, then in the bin, and keep them away from children under five.
+- **safety:** A grown-up stays close and straightens the clips. The wire can spring and the snapped ends are sharp. Hold the wire low and away from your face, and wear glasses if you have them. Put the pieces in the bowl at once, then in the bin, and keep them away from children under five.
 - **record:** For each clip, write the size of bend and the number of bends before it snapped. Then find the average for the big bends and for the small bends.
 - **results table:** Clip | Size of bend | Number of bends until it snapped
 - **s1 (5 min)**  
@@ -357,29 +359,29 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent says:* We will bend a paper clip back and forth until it snaps. How many bends will it take? Will small bends take more or fewer? Why do you think so?  
   *Child mode:* Guess first. How many bends will snap a paper clip? Why do you think so?
   - Ask: Why do you think a clip might snap after only a few bends? (good: The metal gets tired.; Each bend hurts the metal a little.; It breaks when it cannot bend any more.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, each child bends 3 or 4 wires. One bends, one counts aloud, and one writes. Swap roles. Put every count in one table. A box of 100 clips is enough for four children.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Unfold 8 paper clips into straight wires. Show your child the corner of the notebook. Say that this is a right angle. A big bend makes a right angle. A small bend makes half of it.  
   *Parent says:* Straighten each clip into a wire. A big bend turns the wire to a right angle. A small bend turns it only half as far.  
   *Child mode:* Straighten the clips. A big bend is a right angle. A small bend is half of that.
-  - Note: Each clip is straightened in the same way. Keep two for spares. Mark the three for big bends with B and the three for small bends with S on the results table.
+  - Note: Each clip is straightened in the same way. Keep two for spares. Mark the three for big bends with B and the three for small bends with S on the results table. Fold the notebook corner in half, corner to corner, to make a guide for the small bend.
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* Hold a wire low, with about 2 centimetres sticking out from your fingers. Bend the end to one side until it makes a right angle. That is bend 1. Bend it to the other side. That is bend 2. Keep counting until it snaps. Do this with three wires.  
-  *Parent says:* Hold the wire low. Bend the end to one side. Count one. Bend it the other way. Count two. Keep going until it snaps.  
+  *Parent does:* Hold a wire low between thumb and finger, with 2 centimetres sticking out. Bend the end to one side to the right angle. That is bend 1. Bring it back through straight and over to the right angle on the other side. That is bend 2. Keep counting until it snaps. Do this with three wires.  
+  *Parent says:* Hold the wire low. Bend the end to one side. Count one. Bend it over to the other side. Count two. Keep going until it snaps.  
   *Child mode:* Bend the wire to one side. Count one. Bend it back. Count two. Keep going.
-  - Note: Big bends usually snap a clip in fewer than 15 bends. Clips vary, so write down what you get. Do not worry if one clip takes far more or far fewer bends than the others.
+  - Note: In many tests a big bend snaps a clip in about 5 to 15 bends. This is typical, not a promise. Clips vary a lot with the maker, so write down what you get. If the fingers of a young child are too weak to bend the wire, a grown-up does the bending while the child counts.
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* Now take three more wires. Bend them only half as far, to half a right angle. Count every bend. Stop if you reach 60 bends, and write 60 or more. Put each snapped piece in the bowl.  
   *Parent says:* Do the same with three new wires, but bend them only half as far. Count every bend. Stop at 60.  
   *Child mode:* Bend three new wires half as far. Count every bend. Stop at 60.
-  - Note: Small bends usually take longer. Many clips need between 15 and 50 bends, and some do not break in 60. Stop at 60 and write 60 or more. A common sign of a good test is that the bigger bends snap the clip sooner.
+  - Note: Small bends take longer, often two to four times as many as big bends. Many clips need between 15 and 50 bends, and some do not break in 60. Stop at 60 and write 60 or more. If a thick clip never breaks even with big bends, write that down and try another make of clip. The bigger bends usually snap the clip sooner.
   - Check: Why do we use the same size of bend for all three wires in a group? → **So that only one thing changes between the two groups**
 - **s5 (4 min)**  
   *Parent does:* Take one snapped clip. Touch the place where it bent. Is it warm? Look at the two broken ends with a magnifying glass. Ask your child where the heat might have come from.  
   *Parent says:* Touch the place where the wire bent. Is it warm? Look at the broken ends. What do they look like?  
   *Child mode:* Touch the bent place. Is it warm? Look at the broken ends.
   - Ask: Where do you think the warmth came from? (good: From bending. Bending is work, and work makes heat.; From my fingers.; From rubbing inside the metal.)
-  - Note: The bent place can feel warm after many bends. The work done by your hand turns into a little heat. The broken ends often look bright and grainy, because a fresh break shows the metal's inside. The snapped ends are sharp, so keep them in the bowl.
+  - Note: The bent place may feel a little warm after many bends. The work done by your hand turns into a little heat. Compare it with the straight part of the wire. If you feel nothing, bend a fresh wire quickly 20 times and touch it at once. The broken ends often look bright and grainy, because a fresh break shows the metal's inside. The snapped ends are sharp, so keep them in the bowl.
 - **s6 (5 min)**  
   *Parent does:* Find the average for the big bends and for the small bends. Add the three numbers and divide by 3. Draw a bar for each group. Then ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Find the average number of bends for each group. Then write three sentences. What did you think? What did you see? Why do you think it happened?  
@@ -388,24 +390,24 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 
 ## Activities
 ### a1 · Grain Hunt: split, tear and snap (30 min)
-- **safety:** Use the blunt ends of the skewers and keep the sharp points on the tray. Do not put sticks near your face. Wash your hands after touching the leaf and the celery.
+- **safety:** Use the blunt ends of the skewers and keep the sharp points on the tray. Do not put sticks near your face, and watch for splinters when wood snaps. Snap sticks pointing away from everyone. A grown-up checks that nobody is allergic to celery, and the celery is not for eating. Wash your hands after touching the leaf and the celery.
 - **record:** A table with each thing, your guess, what happened and an arrow drawn along its grain.
 - **a1s1 (4 min)**  
   *Parent does:* Line up the six things on the tray. Ask your child to guess for each one whether it will split more easily along its length or across it. Write the guesses.  
   *Parent says:* Look at each thing. Where do you think it will split most easily? Along its length, or across? Write your guess for each one.  
   *Child mode:* Look at the six things. Guess how each one will split. Write it down.
   - Ask: Which thing do you think will be hardest to guess? (good: The celery.; The ice-cream stick.; The leaf.)
-  - Note: Do not correct the guesses. Any guess is fine.
+  - Note: Do not correct the guesses. Any guess is fine. With 2 to 4 children, each child takes one or two things, tests them, and then swaps. Draw all the arrows on one shared sheet.
 - **a1s2 (9 min)**  
   *Parent does:* Hold a skewer by its blunt end. Push your thumbnail into the end and try to split it down its length. Then bend the skewer until it snaps across. Do the same with an ice-cream stick.  
   *Parent says:* Press your thumbnail into the end of the stick. Does it split along its length? Now bend it to snap it across. Which was easier?  
   *Child mode:* Split the stick along its length. Then snap it across. Which was easier?
-  - Note: A thin bamboo skewer often splits when you push a thumbnail into its blunt end. A flat ice-cream stick may need more force. If it does not split, press harder or ask a grown-up to start the split. Either way, write down what happens. Wood and bamboo split along the grain much more easily than across.
+  - Note: A thin bamboo skewer often splits when you push a thumbnail into its blunt end. A flat ice-cream stick may need more force. If it does not split, press harder or ask a grown-up to start the split. Either way, write down what happens. Wood and bamboo split along the grain much more easily than across. Ice-cream sticks are often birch and may not split. If so, write 'did not split', then snap it. A clean snap straight across is itself a clue about the grain.
 - **a1s3 (8 min)**  
-  *Parent does:* Take the celery stalk. Snap the end and pull gently so a string peels off. Then take the banana leaf. Tear it from the edge towards the middle. Then try tearing it lengthwise along the middle.  
-  *Parent says:* Snap the end of the celery and pull. Do strings peel off? Tear the leaf from the edge. Then try along the middle.  
-  *Child mode:* Peel a string off the celery. Tear the leaf from the edge. Then tear it along the middle.
-  - Check: The banana leaf tore easily from the edge inwards, but not lengthwise. What does that show? → **The veins run in lines, and the leaf splits between them**
+  *Parent does:* Take the celery stalk. Snap the end and pull gently so a string peels off. Then take the leaf. Look for its fine parallel veins. Tear it along the veins from the edge. Then try tearing it across the veins.  
+  *Parent says:* Snap the end of the celery and pull. Do strings peel off? Tear the leaf along its veins. Then try across them.  
+  *Child mode:* Peel a string off the celery. Tear the leaf along its veins. Then tear across them.
+  - Check: The leaf tore easily along its veins, but not across them. What does that show? → **The veins run in lines, and the leaf splits between them**
 - **a1s4 (5 min)**  
   *Parent does:* Look at each torn or split edge with the magnifying glass. Draw each thing on your paper. Draw an arrow along its grain.  
   *Parent says:* Look at the torn edges. What do you see? Draw each thing. Draw an arrow along the grain.  
@@ -423,17 +425,17 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent says:* We will cut two strips from a cardboard box. One runs along the waves inside. The other runs across the waves. Which will carry the bottle better? Why?  
   *Child mode:* Guess first. Which strip makes the stronger bridge? Why do you think so?
   - Ask: Why do you think one strip might be stronger than the other? (good: The waves might work like little arches.; Both strips are the same cardboard.; The waves might make it stiffer one way.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, each child makes and tests a pair of strips from a different box or a different panel. One lays the bottle, one reads the ruler, and one writes. Compare all the boxes.
 - **a2s2 (6 min) · grown-up needed**  
-  *Parent does:* A grown-up looks at the cut edge of the box for the waves inside. These are the flutes. Draw an arrow along them. Cut a strip 6 centimetres wide and 25 centimetres long with the flutes along its length. Cut another with the flutes across its length.  
+  *Parent does:* A grown-up looks at the cut edge of the box for the waves inside. These are the flutes. Draw an arrow along them. Cut a strip 4 centimetres wide and 30 centimetres long with the flutes along its length. Cut another with the flutes across its length.  
   *Parent says:* Look at the cut edge. See the waves between the flat layers? Draw an arrow along them. Now cut the two strips.  
   *Child mode:* Find the waves on the cut edge. Draw an arrow. A grown-up cuts two strips.
-  - Note: Cut both strips to the same size. The strips need to be 25 centimetres long so that they rest well on the books. Write 'flutes along' on one and 'flutes across' on the other.
+  - Note: Cut both strips to the same size from the same panel. The strips need to be 30 centimetres long so that they rest well on the books. Cardboard cuts best with slow cuts. Write 'flutes along' on one and 'flutes across' on the other.
 - **a2s3 (12 min)**  
-  *Parent does:* Set the two stacks of books 20 centimetres apart. Lay the strip with the flutes along its length across the gap. Lay the bottle across the middle. Measure how far the middle sags. Do the same with the other strip.  
-  *Parent says:* Lay each strip across the gap. Put the bottle in the middle. Measure how far the strip sags. Write down both numbers.  
-  *Child mode:* Lay a strip across the gap. Put the bottle on. Measure the sag.
-  - Note: The strip with flutes along its length is usually very stiff and sags hardly at all. The strip with flutes across may sag by several centimetres or fold flat. If it folds, write 'folded'. Do not worry if the difference is smaller than you expected, as boxes vary.
+  *Parent does:* Set the two stacks of books 25 centimetres apart. Hold a ruler upright beside the middle of the gap. Lay the strip with the flutes along its length across the gap. Read the height of the strip's underside. Lay the bottle across the middle and read it again. The sag is the difference. Do the same with the other strip.  
+  *Parent says:* Lay each strip across the gap. Read the height of its underside. Put the bottle in the middle and read again. The sag is the difference, in millimetres.  
+  *Child mode:* Lay a strip across the gap. Put the bottle on. Measure the sag in millimetres.
+  - Note: Typical sags are a few millimetres for the strip with flutes along its length, and about 1 to 3 centimetres for the strip with flutes across, which may even fold flat. If it folds, write 'folded'. A thin box sags more and a thick one less, so numbers differ from box to box. If the sag is too small to read, use a longer gap. The direction of the flutes should still make the difference.
   - Check: The strip with the flutes along its length sagged much less. Why? → **The flutes work like a row of little arches along the strip**
 - **a2s4 (7 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then look at the cut edge again and draw it with its waves.  
@@ -448,17 +450,17 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent says:* We have four sheets of paper, all the same. We fold them into four shapes. Which bridge will carry the most coins? Which the fewest? Why do you think so?  
   *Child mode:* Guess first. Which shape carries the most coins? Why do you think so?
   - Ask: Why do you think that shape will be the strongest? (good: It is thicker.; It has folds that hold it up.; A tube is strong.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, each child builds one shape from a sheet. One adds the coins, one counts, and one writes. Then swap the shapes around and test again.
 - **a3s2 (10 min)**  
   *Parent does:* Make the four bridges. Leave the first sheet flat. Fold the second into a zigzag with six folds each about 2 centimetres wide. Roll the third into a tube and tape the seam. Fold the edges of the fourth up by 2 centimetres on the two long sides, so it looks like a tray.  
   *Parent says:* Leave one sheet flat. Fold one into a zigzag. Roll one into a tube and tape it. Fold the edges of one up, like a tray.  
   *Child mode:* Make four bridges. Flat. Zigzag. Tube. Tray.
   - Note: Keep the long edge of the paper as the span, so the folds run along the bridge. Use the same amount of tape on every bridge, or none if the shape stays. Make sure each bridge rests 2 centimetres on each stack of books.
 - **a3s3 (10 min)**  
-  *Parent does:* Lay the flat sheet across the gap. Put the cup in the middle. Add coins one at a time, gently. Stop when the middle touches the table or the bridge slips. Count the coins. Test the other three in the same way.  
+  *Parent does:* Lay the flat sheet across the gap. Put the cup in the middle. Add coins one at a time, gently. Stop when the middle touches the table, the bridge slips, or you reach 60 coins. Count the coins. Test the other three in the same way.  
   *Parent says:* Lay each bridge across the gap. Put the cup in the middle. Add coins one at a time. Count them. Stop when the bridge sags to the table.  
   *Child mode:* Test each bridge. Add coins one at a time. Count them.
-  - Note: A flat sheet usually carries hardly any coins. A tube or zigzag can carry 20 or more. If a bridge twists, add coins more gently. Write the number you reach, even if it surprises you.
+  - Note: A flat sheet usually carries only a few coins. A tray or zigzag may carry 10 to 40, and a tube may carry all 60. These are typical, not promises. If a bridge carries 60 coins, write 60 or more and measure how far its middle sags with 60 coins on it. The one that sags least is the strongest. If a bridge twists, add coins more gently.
   - Check: The zigzag bridge carried far more coins than the flat sheet. The paper was the same. What changed? → **The shape, which put some of the paper far from the middle**
 - **a3s4 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -466,17 +468,19 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Child mode:* Say or write three sentences. What I think. What I saw. Why it happened.
   - Note: A good reason says that the material is the same, but the shape is different. A property of a material, such as how stiff paper is, does not change. A property of an object, such as how stiff the bridge is, depends on its shape.
 ### a4 · Plywood Edge Detective: find the crossed layers (20 min)
+- **safety:** Look and do not pick at the edge, because cut wood can have splinters. Wash your hands afterwards.
 - **record:** A drawing of the plywood edge, with the layers counted and the grain direction of each one marked.
 - **a4s1 (4 min)**  
   *Parent does:* Find an item made of plywood. Look at its cut edge. Ask your child what they notice. Do not explain yet.  
   *Parent says:* Look at the edge of this board. What do you notice? What do you wonder?  
   *Child mode:* Look at the edge of the board. What do you notice?
   - Ask: What do you notice about the edge? (good: There are thin stripes.; It is made of layers.; Some lines go one way and some another.)
-  - Note: Plywood furniture is common: look at the back of a cupboard, a drawer bottom, a bed base or a school desk. The layers are thin and look like stripes. Let your child count them.
+  - Note: Plywood furniture is common: look at the back of a cupboard, a drawer bottom, a bed base or a school desk. The layers are thin and look like stripes. Let your child count them. If your furniture is made of a pressed board with no layers, just a speckled brown mass of tiny chips, it is not plywood. That is a result too. Compare it with a plywood edge. With 2 to 4 children, each child examines a different item and draws it.
 - **a4s2 (8 min)**  
   *Parent does:* Count the layers. Use the magnifying glass if you have one. Look at the surface of each layer if you can see it. Draw the edge and an arrow for the grain on each layer.  
   *Parent says:* Count the layers. Draw the edge, layer by layer. Draw an arrow for each grain direction.  
   *Child mode:* Count the layers. Draw each one. Add its grain arrow.
+  - Note: Layers whose grain runs along the edge look like stripes. Layers whose grain runs into the edge look rougher and dotted. Plywood usually has 3, 5 or 7 layers, and the glue lines show as thin dark stripes.
   - Check: A plywood board has five layers. Why do most plywood boards have an odd number of layers? → **So that the board is balanced and does not curl**
 - **a4s3 (8 min)**  
   *Parent does:* Compare the plywood edge with the end of a plank. Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -485,39 +489,39 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   - Note: A good reason says that each layer is turned across the one below. Where one layer is weak, the next is strong. So the board is much less likely to split along one line than a plank. The crossed layers also stop the board from shrinking or swelling too much.
 
 ## Projects
-### p1 · Paper Plywood: three layers, crossed or not? (60 min, 2 days)
-- **safety:** A grown-up cuts the paper. Wash your hands with water after using the glue, and keep glue away from your eyes and mouth.
+### p1 · Paper Plywood: four layers, crossed or not? (60 min, 2 days)
+- **safety:** A grown-up cuts the paper. Wash your hands with water after using the glue, and keep glue away from your eyes and mouth. Keep coins away from children under five.
 - **record:** A table with two boards, the droop of a strip cut each way from each board, and a sentence about what you found.
 - **schedule:** day 1: Find the grain of the newspaper. Cut the pieces. Glue two boards and press them under books overnight. (35 min); day 2: Cut strips from each board and test them as in the droop test. Compare. (25 min)
 - **p1s1 (5 min)**  
   *Parent does:* Show your child the newspaper and the glue. Ask which board will be more even in every direction, and why. Write the guess.  
-  *Parent says:* We will make two boards from three layers of newspaper each. In one, the layers all lie the same way. In the other, the middle one is turned across. Which board will be more even? Why?  
+  *Parent says:* We will make two boards from four layers of newspaper each. In one, the layers all lie the same way. In the other, every second layer is turned across. Which board will be more even? Why?  
   *Child mode:* Guess first. Which board will be more even? Why do you think so?
   - Ask: Why might turning one layer across make the board more even? (good: The turned layer is strong where the others are weak.; It has more glue.; The layers cross.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, one child or pair makes each board. One brushes and one lays the layers. At the end each child tests one strip, and all the numbers go in one table.
 - **p1s2 (8 min) · grown-up needed**  
-  *Parent does:* Tear a corner of each newspaper sheet down and across to find the straight tear. Draw an arrow along it. A grown-up cuts six rectangles, each 15 centimetres by 25 centimetres. Cut five with the arrow along the long side. Cut one with the arrow along the short side.  
-  *Parent says:* Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts six pieces. Five with the arrow along the long side. One with it across.  
-  *Child mode:* Find the grain on each sheet. Draw an arrow. A grown-up cuts six pieces.
-  - Note: You can use the same rule as in the tear test. Keep the arrows visible on every piece. Board A uses three pieces with the arrow along the long side. Board B uses two of those, and the piece with the arrow along the short side goes in the middle.
+  *Parent does:* Tear a corner of each newspaper sheet down and across to find the straight tear. Draw an arrow along it. A grown-up cuts eight rectangles, each 20 centimetres by 30 centimetres. Cut six with the arrow along the long side. Cut two with the arrow along the short side.  
+  *Parent says:* Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts eight pieces. Six with the arrow along the long side. Two with it across.  
+  *Child mode:* Find the grain on each sheet. Draw an arrow. A grown-up cuts eight pieces.
+  - Note: You can use the same rule as in the tear test. Keep the arrows visible on every piece. Board A uses four pieces with the arrow along the long side. Board B uses two of those, and the two pieces with the arrow along the short side go second and fourth.
 - **p1s3 (15 min)**  
-  *Parent does:* Mix the glue with an equal amount of water. For board A, brush glue on one piece. Lay a second piece on it with the arrow the same way. Brush it, and add the third. For board B, do the same but make the middle piece the one with the arrow across. Smooth out the bubbles with your hand.  
-  *Parent says:* Brush glue on the first piece. Lay the second on top. Brush it. Lay the third on top. For board B, turn the middle piece across.  
-  *Child mode:* Glue three layers into board A. Glue board B with the middle layer turned.
+  *Parent does:* Mix the glue with an equal amount of water. For board A, brush glue on one piece. Lay a second piece on it with the arrow the same way. Brush it and add a third, then a fourth. For board B, do the same but turn every second piece so its arrow points across. Smooth out the bubbles with your hand.  
+  *Parent says:* Brush glue on the first piece. Lay the second on top. Brush it, and add the third, then the fourth. For board B, turn every second piece across.  
+  *Child mode:* Glue four layers into board A. Glue board B with every second layer turned.
   - Note: Use thin glue so the paper does not tear. Smooth the layers from the middle outwards to push out bubbles. Do not drench the paper, or the boards will wrinkle.
-  - Check: In board B, why do we turn the middle layer across the other two? → **So that the weak direction of one layer is covered by the strong direction of another**
+  - Check: In board B, why do we turn every second layer across the others? → **So that the weak direction of one layer is covered by the strong direction of another**
 - **p1s4 (7 min)**  
   *Parent does:* Lay each board between two sheets of plastic. Put them under the heavy books. Leave them overnight.  
   *Parent says:* Put each board between plastic sheets. Stack the heavy books on top. Leave them to dry until tomorrow.  
   *Child mode:* Press the boards under heavy books. Leave them overnight.
-  - Note: Boards that dry without weight will curl. Board A may curl more than board B. Write down if you see this.
+  - Note: Press the boards for at least 12 hours. In damp weather they may need a second night, or a place near a fan. If a board still feels cool or soft, wait. Boards that dry without weight will curl. A four-layer board may still curl a little, so write down if you see this.
   - Wait: Leave the boards under the books overnight
 - **p1s5 (25 min) · grown-up needed**  
-  *Parent does:* Take out the boards. A grown-up cuts a strip 3 centimetres wide from each board along the long side, and another across the short side. Put each strip on the table with 6 centimetres sticking out and the book on the end. Measure the droop. Do each strip twice. Write the numbers.  
+  *Parent does:* Take out the boards. A grown-up cuts a strip 3 centimetres wide from each board along the long side, and another across the short side. Put each strip on the table with 14 centimetres sticking out and the book on the end. Measure the droop. Do each strip twice. Write the numbers.  
   *Parent says:* Cut one strip from each board along the long side and one across. Test each strip's droop. Write down the numbers. Which board is more even?  
   *Child mode:* Cut strips from both boards. Test their droop. Compare along and across.
   - Ask: What do you notice about the two boards? (good: Board A drooped more one way than the other.; Board B was more even.; The crossed board was stiffer.)
-  - Note: Board A should droop less when cut along the grain than across. Board B should droop about the same either way. Papers vary, so the difference may be small. Write what you see. A good reason says the crossed layer evens out the direction. Read the Crossed Layers card together.
+  - Note: Typical droop is about 0.5 to 3 centimetres, so measure to the millimetre. If a strip droops less than 3 millimetres, tape a one-rupee coin to the tip of every strip and test them all again. Turn a curled strip so the curl faces up. Board A often droops less along the grain than across. Board B often droops closer to the same either way. Papers vary, so the difference may be small. Write what you see. A good reason says the crossed layers even out the direction. Read the Crossed Layers card together.
 
 ## Challenges
 ### c1 · The Paper Beam: carry the most with two sheets (40 min)
@@ -531,11 +535,12 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Parent says:* You have two sheets of paper and a little tape. How could you shape them to carry the most? Find the grain first. Then draw some ideas.  
   *Child mode:* Find the grain of the paper. Draw some beam ideas.
   - Ask: What would make a paper beam carry more? (good: A tube shape.; Folds that run along the beam.; The grain running along the beam.)
+  - Note: With 2 to 4 children, each child designs and builds a beam from two sheets. One adds the load, one counts, and one writes. Then compare all the designs and combine the best ideas.
 - **c1s2 (12 min)**  
   *Parent does:* Build your first design. Rest it on the books with the cup in the middle. Add coins one at a time. Count them. Keep going until it sags to the table or twists away. Write down the number.  
   *Parent says:* Build your first beam. Put the cup in the middle. Add coins one at a time. Count them. Write the number down, so you have something to beat.  
   *Child mode:* Build your beam. Add coins one at a time. Count them. Write the number.
-  - Note: Place the cup carefully in the middle. Add coins gently so the beam does not twist. The first number is the one to beat.
+  - Note: Place the cup carefully in the middle. Add coins gently so the beam does not twist. The first number is the one to beat. A good tube can carry more coins than you own. Then add dry rice by level spoonfuls, or load the same 30 coins and compare how far each beam sags.
 - **c1s3 (12 min)**  
   *Parent does:* Change one thing, such as the shape, the way the grain runs or where the tape goes. Build the new beam and test it in the same way. Write down the number. Try a third design if you have time.  
   *Parent says:* Change just one thing about the beam. Build it again. Test it. Did it carry more or fewer coins?  
@@ -629,14 +634,14 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
    Options: Metal never changes / The load was too heavy to carry once / Fatigue: tiny cracks grow a little with each turn / The axle was too thick  
    **Answer:** Fatigue: tiny cracks grow a little with each turn. *Why:* Each turn bends the axle slightly, and tiny cracks grow. After a million turns they can reach all the way through. August Wöhler counted turns to failure in the 1800s and showed that smaller loads take many more turns.
 16. (truefalse) A tree that is swayed by the wind every day tends to grow a thicker, shorter trunk.  
-   **Answer:** True. *Why:* True. Experiments since the 1970s have shown that trees which are shaken or swayed grow shorter and thicker trunks. A living thing builds its body in answer to the pushes it feels.
+   **Answer:** True. *Why:* True. Experiments since the 1970s, first on small plants and later on trees, have shown that plants which are shaken or swayed grow shorter and thicker stems and trunks. A living thing builds its body in answer to the pushes it feels.
 17. (mcq) Look at the bar chart. It shows made-up results from the paper clip test. What does it suggest?  
    Options: Clips bent through a big angle took more bends to snap / The chart does not show anything / Clips bent through a small angle took more bends to snap than clips bent through a big angle / Both kinds of bend took the same number of bends  
    **Answer:** Clips bent through a small angle took more bends to snap than clips bent through a big angle. *Why:* The tall bar is for the small bends, about 28 on average, and the short bar is for the big bends, about 9. A smaller bend does less damage each time, so it takes more bends to build up. Picking the big bend means reading the bars the wrong way round.
 ### Thinking like a materials engineer (challenge) (challenge, 16 questions)
-1. (mcq) Board A is made of three layers of newspaper, all with the grain the same way. Board B has the middle layer turned across. Which statement is most likely?  
+1. (mcq) Board A is made of four layers of newspaper, all with the grain the same way. In board B, every second layer is turned across. Which statement is most likely?  
    Options: Board A droops about the same in both directions / Board B cannot be tested / Both boards droop exactly the same in every direction / Board B droops about the same along and across, and board A droops differently along and across  
-   **Answer:** Board B droops about the same along and across, and board A droops differently along and across. *Why:* In board B, the turned layer is strong across where the other layers are weak, so the board is more even. In board A, all the layers share the same weak direction, so the board stays uneven.
+   **Answer:** Board B droops about the same along and across, and board A droops differently along and across. *Why:* In board B, the turned layers are strong across where the other layers are weak, so the board is more even. In board A, all the layers share the same weak direction, so the board stays uneven.
 2. (write) A friend says, 'Wood is strong.' Rewrite the sentence so that it is more careful, and say what you added and why.  
    **Answer:** A strong answer adds the direction and, if possible, a measure or a comparison. For example, 'Wood is many times stronger when you pull it along the grain than across the grain.' It says that the direction matters because the cells lie in lines, and the weak glue between them lets go sooner.. *Why:* One word such as strong can hide the direction of the pull. A careful sentence names the direction.
 3. (mcq) A shelf of one kind of wood is 2 centimetres thick and sags 8 millimetres under a load. A shelf of the same wood, length and width, but 4 centimetres thick, carries the same load. About how much will it sag?  
@@ -652,7 +657,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 7. (order) A paper clip is bent back and forth until it snaps. Put these steps in the order they happen.  
    **Answer:** order shown. *Why:* Fatigue is a story in steps. Each bend starts or lengthens cracks. When too little sound metal is left, the next bend snaps it.
 8. (truefalse) Bamboo is a kind of wood.  
-   **Answer:** False. *Why:* False. Bamboo is a giant grass, in the same family as rice and sugarcane. It feels like wood because its walls are packed with strong fibres.
+   **Answer:** False. *Why:* False. Bamboo is a giant grass, in the same family as rice and sugarcane. A bamboo stick feels like wood because its walls are packed with strong fibres.
 9. (match) Match each design to the idea behind it.  
    **Answer:** Plywood → Crossed layers cancel the direction; An I-shaped steel beam → Material far from the middle makes a bend harder; A cloth strip cut on the bias → Threads swing to a new angle, so the cloth stretches; Counting turns to failure → Cracks grow a little with each repeat. *Why:* Each design uses a fact about a material's inside or shape. Knowing the fact lets a designer choose the right design.
 10. (sort) Which parts should be checked often for tiny cracks? Sort them.  
@@ -792,10 +797,12 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [Forest Research Institute Museum]() · place · Dehradun: A museum in Dehradun that shows timber samples, their grain and how wood is used. Check opening times before you go.
 
 ## Things to buy
-- [A box of steel paper clips](https://www.amazon.in/s?k=steel+paper+clips+box) (material): For the Bend Until It Snaps test. Ordinary steel clips work best, and a box has plenty of spares. Used in e3. 
-- [A small bottle of white glue](https://www.amazon.in/s?k=white+glue+school+fevicol) (material): For the Paper Plywood project. Any school white glue is fine. Used in p1. 
-- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look at torn edges and breaks closely in the Grain Hunt and the paper clip test. Used in a1, e3, a4. 
-- [A pack of thin bamboo skewers](https://www.amazon.in/s?k=bamboo+skewers+sticks) (material): For the Grain Hunt. A pack from a grocery store is enough. Used in a1. 
+- [A box of steel paper clips](https://www.amazon.in/s?k=steel+paper+clips+box) (material): For the Bend Until It Snaps test. Plain steel clips from any stationery shop work best, about Rs 20 a box. A box has plenty of spares. Used in e3. 
+- [A small bottle of white glue](https://www.amazon.in/s?k=white+glue+school+fevicol) (material): For the Paper Plywood project. A small Fevicol or school white glue costs about Rs 10 to 30 at a stationery shop. Used in p1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look at torn edges and breaks closely in the Grain Hunt and the paper clip test. A small one costs about Rs 50 to 100. The zoom of a phone camera also works. Used in a1, e3, a4. 
+- [A pack of thin bamboo skewers](https://www.amazon.in/s?k=bamboo+skewers+sticks) (material): For the Grain Hunt. A pack from a grocery or kitchen shop is enough. Bare bamboo sticks from an unused incense pack also work. Used in a1. 
+- [A pack of wooden ice-cream sticks](https://www.amazon.in/s?k=wooden+ice+cream+sticks) (material): For the Grain Hunt. A pack from a craft or stationery shop costs about Rs 20 and has plenty for a group. Used in a1. 
+- [A celery stalk and a banana leaf](https://www.amazon.in/s?k=celery) (material): For the Grain Hunt. A vegetable seller has celery and a flower seller has banana leaves, for a few rupees. A drumstick pod or sugarcane piece can replace the celery. Used in a1. 
 - [Stuff Matters by Mark Miodownik](https://www.amazon.in/s?k=stuff+matters+mark+miodownik) (book): For older readers and parents: a lively book about everyday materials, such as steel, paper and glass, and what is inside them. Used in e1. Read a chapter on paper or steel on a weekend, after the paper tests.
 
 ## Warm-up
@@ -818,7 +825,7 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - The Level 3 unit on properties of materials, which this unit goes beyond: it does not repeat the scratch ladder, droop of different materials, dry and damp strength, or the diamond and graphite story, and instead looks at direction, layers, shape and wear.
 - Founder's topic notes on Materials Under Heat (heat reveals hidden properties), which led to the warm bend of the paper clip, and on Transparent, Translucent and Opaque (clarity and obscurity), whose idea of hidden structure shaped the roots card.
 - Founder's SCI Card for Robert Hooke (elasticity), used as background to the cards on stiffness and the stretching of cloth. The Combined lessons for this topic were not reopened. The experiments here are new.
-- Wöhler, A., fatigue tests on railway axles, reported in Zeitschrift für Bauwesen from the 1850s to 1870 (as described in standard histories of fatigue)
+- Wöhler, A., fatigue tests on railway axles, from the 1850s; the summary 'Über die Festigkeitsversuche mit Eisen und Stahl' is in Zeitschrift für Bauwesen 20, 1870 (as described in standard histories of fatigue)
 - Schütz, W., 'A history of fatigue', Engineering Fracture Mechanics 54, 1996
 - Report of the Court of Inquiry into the accidents to Comet G-ALYP and G-ALYY, 1954 (the fatigue cracks at the window corners)
 - Lakes, R., 'Foam structures with a negative Poisson's ratio', Science 235, 1987 (the first auxetic foam)

@@ -1381,7 +1381,7 @@
      "qty": 1
     },
     {
-     "item": "3 lumps of clay or dough to stand the cards up",
+     "item": "3 lumps of clay or atta dough to stand the cards up",
      "qty": 3,
      "buy": "b-clay"
     },
@@ -1465,7 +1465,7 @@
      "do": "Mark a point 5 centimetres up from the bottom in the middle of each card. A grown-up makes a hole of about 5 millimetres at each mark. Stand each card up in a lump of clay.",
      "say": "Mark the same height on each card. A grown-up makes a hole at each mark. Then we stand the cards up in clay.",
      "kid": "Mark 5 centimetres up on each card. A grown-up makes the holes. Stand the cards in clay.",
-     "parent": "The three holes must be at exactly the same height. Measure from the bottom of each card, not by eye. Holes much bigger than a pencil make the test harder to read. A hole punch makes a bigger hole, about 6 millimetres. That works too.",
+     "parent": "The three holes must be at exactly the same height. Measure from the bottom of each card, not by eye. Holes much bigger than a pencil make the test harder to read. A hole punch makes a bigger hole, about 6 millimetres. That works too. Use thick card, such as a cereal box, or two layers of thin card. A phone torch is bright enough to glow through thin white card, which would spoil the test.",
      "check": {
       "t": "mcq",
       "q": "Why must the three holes be at exactly the same height?",
@@ -1486,7 +1486,7 @@
      "do": "Stand the cards in a row, 20 centimetres apart, with the holes in a line. Rest the torch on a book behind the first card, pointing along the line. Dim the room. Look for a spot of light on the wall.",
      "say": "Line up the three cards. Put the torch behind the first card, pointing straight along the holes. Make the room dim. Can you see a spot of light on the wall?",
      "kid": "Line up the cards. Point the torch through the holes. Look for a spot on the wall.",
-     "parent": "Keep the torch steady and aimed right at the first hole. The spot on the wall is small and bright. If you see no spot, check that the holes are on one line and the torch points along it. For an extra check, thread the wool through all three holes and pull it tight. When the holes line up, the wool is straight. It will bend if a card is moved. Put the wool away before the next step.",
+     "parent": "Keep the torch steady and aimed right at the first hole, with the torch about 5 centimetres from it, so that little light leaks round the card. The spot on the wall is small and bright. If you see no spot, check that the holes are on one line and the torch points along it. For an extra check, thread the wool through all three holes and pull it tight. When the holes line up, the wool is straight. It will bend if a card is moved. Put the wool away before the next step.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how a filled-in table can look",
@@ -1536,7 +1536,7 @@
      "do": "Slide the middle card sideways by 2 millimetres. Look at the spot. Then slide it 4, 6, 8 and 10 millimetres. Use the ruler to measure each shift. Write what the spot does each time.",
      "say": "Slide the middle card sideways. Two millimetres first. Look at the spot. Then four. Then six. What happens to the light?",
      "kid": "Slide the middle card a little. Look at the spot. Slide it more. What happens?",
-     "parent": "Expect the spot to dim at about 3 to 5 millimetres and vanish by about 6 to 10 millimetres. It depends on the hole size, so write what you really see. A little light may leak at the edges. That is normal and still shows that light does not go round the card.",
+     "parent": "Typically the spot dims at about 3 to 5 millimetres and vanishes by about 6 to 10 millimetres. It depends on the hole size and the torch, so write what you really see. A little light may leak at the edges. That is normal and still shows that light does not go round the card. If the spot never vanishes, the holes are too big or the torch is too wide: make smaller holes, or move the torch right up to the first card. Roles for 2 to 4 children: one holds the torch, one slides the middle card, one reads the ruler, one writes the table. Swap roles for each shift, and let every child look at the spot. One child alone with a parent: the child slides and looks, the parent reads the ruler and writes.",
      "check": {
       "t": "mcq",
       "q": "The spot vanished when the middle card was slid a few millimetres. What does this show?",
@@ -1556,7 +1556,7 @@
      "do": "Look at a lit lamp or a bright window across the room, but never at the Sun, through a straight straw. Then bend the straw at the elbow and look again. Write what you see each time.",
      "say": "Look through a straight straw at the lamp. Can you see it? Now bend the straw in the middle and look again. What happens?",
      "kid": "Look at a lamp through a straight straw. Then bend the straw. What do you see?",
-     "parent": "Through the straight straw, the lamp is easy to see. When the straw is bent, you see only the dark inside of the straw. The light cannot turn the bend. A rolled paper tube that you bend gives the same result.",
+     "parent": "Through the straight straw, the lamp is easy to see. When the straw is bent sharply, you see only the dark inside of the straw. The light cannot turn the bend. A rolled paper tube that you bend gives the same result. Each child needs a clean straw of their own, or wash the end first. Use a lamp or a bright window, never the Sun.",
      "context": "In this step, you look through a straight straw and a bent straw."
     },
     {
@@ -1586,7 +1586,7 @@
    ],
    "materials": [
     {
-     "item": "a strip of paper about 1 metre long, taped to a wall at eye height, with a mark and a number every 5 centimetres from 0 to 100 (draw it with a ruler)",
+     "item": "a strip of paper about 1 metre long, taped to a wall at eye height, with a mark every 5 centimetres and a big number, about 4 centimetres tall, every 10 centimetres from 0 to 100 (draw it with a ruler and a thick pen)",
      "qty": 1
     },
     {
@@ -1602,7 +1602,7 @@
      "qty": 1
     },
     {
-     "item": "a helper to read the numbers aloud",
+     "item": "a helper to write down the numbers that you call out",
      "qty": 1
     },
     {
@@ -1624,7 +1624,7 @@
     },
     {
      "art": "A child with her left eye closed, holding a pencil in front of the number strip, and a helper reading a number.",
-     "caption": "2. Close one eye. Line up the pencil with a number. The helper reads it."
+     "caption": "2. Close one eye. Line up the pencil with a number. Call it out. The helper writes it."
     },
     {
      "art": "The same child with the other eye closed, and the pencil now seeming to be at a different number.",
@@ -1675,10 +1675,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Hold the pencil upright at arm's length, in front of the strip. Close your right eye. The helper reads the number it seems to touch. Swap eyes and read again. Write both numbers and the jump. Repeat with the pencil half as far, and again a hand-span from your nose.",
-     "say": "Hold the pencil up at arm's length. Close your right eye. What number does it touch? Now swap. What number now? Then bring the pencil nearer and do it again.",
+     "do": "Hold the pencil upright at arm's length, in front of the strip. Close your right eye. Call out the number on the strip that the pencil seems to cover. The helper writes it down. Swap eyes and call out the number again. Write both numbers and the jump. Repeat with the pencil half as far, and again a hand-span from your nose.",
+     "say": "Hold the pencil up at arm's length. Close your right eye. What number does it cover? Now swap. What number now? Then bring the pencil nearer and do it again.",
      "kid": "Hold the pencil up. Swap eyes. Read the two numbers. Bring the pencil nearer. Do it again.",
-     "parent": "For a child with eyes about 5.5 centimetres apart, with the strip 2 metres away, typical jumps are about 15 centimetres at arm's length, about 35 centimetres at half arm's length, and 60 to 80 centimetres a hand-span from the nose, which may be off the strip. Your numbers will differ. The pattern matters: the nearer the pencil, the bigger the jump. If your child cannot focus on the pencil at the nearest distance, use a bit further, and say so.",
+     "parent": "Only the child can say which number the pencil covers, because it depends on where her eyes are. The helper must not read it from the side. For a child with eyes about 5.5 centimetres apart, with the strip 2 metres away, typical jumps are about 15 centimetres at arm's length, about 35 centimetres at half arm's length, and 60 to 80 centimetres a hand-span from the nose, which may be off the strip (then write 'off the strip', and use a shorter distance). Your numbers will differ. The pattern matters: the nearer the pencil, the bigger the jump. If your child cannot focus on the pencil at the nearest distance, use a bit further, and say so. Children with eyes further apart usually get bigger jumps, so compare two children and ask why. For 2 to 4 children: each child fills in their own table, one at a time, while the others write down the numbers and check the distance with the ruler. For one child with a parent: the parent writes and checks the distance.",
      "check": {
       "t": "mcq",
       "q": "The pencil jumped further the nearer it was held. What does the brain do with the size of the jump?",
@@ -1725,10 +1725,10 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Hold a pencil in each hand at arm's length. Point the tips at each other, with a gap of about 20 centimetres. Bring the tips together in one smooth move. Try 5 times with both eyes open. Then try 5 times with one eye closed. Count the times the tips touched.",
-     "say": "Hold two pencils with the tips pointing at each other. Bring them together in one smooth move. Do you touch? Try five times with two eyes. Then five times with one eye shut.",
-     "kid": "Hold two pencils tip to tip. Bring them together in one move. Five tries with two eyes. Five with one.",
-     "parent": "With both eyes, most children touch 4 or 5 times out of 5. With one eye, often 1 to 3 times. Some children do well with one eye. That is a real result too, because they judge the gap from other clues. Do not move the head during the test, so the comparison is fair.",
+     "do": "Hold a pencil in each hand at arm's length. Point the tips at each other, with a gap of about 20 centimetres. Bring the tips together in one smooth move. The tips must meet head-on, not slide past or hit the sides. Try 10 times with both eyes open. Then try 10 times with one eye closed. Count the times the tips touched.",
+     "say": "Hold two pencils with the tips pointing at each other. Bring them together in one smooth move. Do you touch? Try ten times with two eyes. Then ten times with one eye shut.",
+     "kid": "Hold two pencils tip to tip. Bring them together in one move. Ten tries with two eyes. Ten with one.",
+     "parent": "With both eyes, most children touch 8 to 10 times out of 10. With one eye, often 2 to 6 times. Some children do well with one eye. That is a real result too, because they judge the gap from other clues. Do not move the head during the test, so the comparison is fair.",
      "check": {
       "t": "mcq",
       "q": "With one eye closed, the pencil tips often passed each other. Why?",
@@ -1742,18 +1742,18 @@
      },
      "chart": {
       "type": "bar",
-      "title": "Made-up example: how many tries out of 5 touched",
+      "title": "Made-up example: how many tries out of 10 touched",
       "x": "How many eyes were open",
       "y": "Tries that touched",
       "data": [
        {
         "label": "Both eyes",
-        "value": 4,
+        "value": 9,
         "emoji": "👀"
        },
        {
         "label": "One eye",
-        "value": 2,
+        "value": 4,
         "emoji": "👁️"
        }
       ]
@@ -1808,7 +1808,7 @@
      "qty": 1
     },
     {
-     "item": "a lit phone torch standing on its end, as a bright thing that is nearer",
+     "item": "a phone with the screen at full brightness, showing a plain white page with a big black letter F, standing up as a bright thing that is nearer (a phone torch alone gives only a bright dot)",
      "qty": 1
     },
     {
@@ -1833,7 +1833,7 @@
      "caption": "3. Measure the distance from the lens to the card."
     },
     {
-     "art": "A lit phone torch standing on its end one metre from the lens, with a small upside-down picture of it on the card at a slightly larger distance.",
+     "art": "A phone showing a big black letter F on a white screen, standing 50 centimetres from the lens, with a small upside-down F on the card at a slightly larger distance.",
      "caption": "4. Try a bright thing that is nearer. Move the card until the picture is sharp."
     }
    ],
@@ -1873,7 +1873,7 @@
      "do": "Hold the lens and move it slowly towards and away from the card. Stop when a small, sharp picture of the window appears. Measure the distance from the lens to the card. Write it in the table. Write which way up the picture is.",
      "say": "Move the lens slowly, closer to the card and then away. Stop when a sharp picture of the window appears. How far is the lens from the card? Which way up is the picture?",
      "kid": "Move the lens slowly. Find a sharp picture of the window. Measure how far the card is.",
-     "parent": "You should see a small, coloured, upside-down picture of the window, with the frame and maybe a tree. It is small and a little dim. Dim the room more if it is faint. The sharp place is a narrow range, so move slowly. For a magnifying glass with a focal length of 10 to 15 centimetres, expect a measure of about 10 to 15 centimetres. If you see only a bright blur, the card is not at the sharp place yet.",
+     "parent": "You should see a small, coloured, upside-down picture of the window, with the frame and maybe a tree. It is small and a little dim. Dim the room more if it is faint. The sharp place is a narrow range, so move slowly. For a small magnifying glass, the card is typically about 10 to 20 centimetres from the lens. The lens of reading glasses is weaker, so the card may be 30 to 60 centimetres away, and the picture is bigger. If you see only a bright blur, the card is not at the sharp place yet. If nothing shows, make the room darker, and check that the lens is the kind that is thicker in the middle. Roles for 2 to 4 children: one holds the lens, one holds the card, one measures, one writes. Swap, so everyone finds the sharp picture once. One child alone with a parent: the child holds the lens, and the parent holds the card and measures.",
      "check": {
       "t": "mcq",
       "q": "The picture of the window on the card was upside down. Why?",
@@ -1890,17 +1890,17 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Stand the lit phone torch on its end, about 1 metre from the lens. Move the card until a sharp picture of the torch appears. Measure again from the lens to the card. Write whether the card is nearer or further than before.",
-     "say": "Now a bright thing that is nearer. A lit torch, one metre away. Find the sharp picture on the card. Is the card nearer or further than for the window?",
-     "kid": "Use a lit torch one metre away. Find the sharp picture. Is the card nearer or further now?",
-     "parent": "The change is small, about 1 to 3 centimetres for a thing 1 metre away. Measure carefully and write what you really see. If the card does not seem to need moving, the thing may be too far. Try a thing about 50 centimetres away.",
+     "do": "Stand the phone, with a big black letter F on a bright white screen, about 50 centimetres from the lens. Move the card until a sharp picture of the F appears. Measure again from the lens to the card. Write whether the card is nearer or further than before.",
+     "say": "Now a bright thing that is nearer. The phone screen with a big F, half a metre away. Find the sharp picture on the card. Is the card nearer or further than for the window? Is the F upside down?",
+     "kid": "Use the phone with a big F, half a metre away. Find the sharp picture. Is the card nearer or further now?",
+     "parent": "For a small magnifying glass, the card typically has to move about 2 to 6 centimetres further from the lens than for the window. Measure carefully and write what you really see. If the card does not seem to need moving, try the phone nearer, at about 30 centimetres. The F should be small and upside down, and the picture is dimmer than the screen. Turn the screen brightness to the top and keep the room dim.",
      "check": {
       "t": "mcq",
-      "q": "The bright torch was nearer to the lens. The card had to be a little further from the lens for a sharp picture. What does this show?",
+      "q": "The bright phone screen was nearer to the lens. The card had to be a little further from the lens for a sharp picture. What does this show?",
       "options": [
        "A lens needs the card in a different place for near things and far things",
        "The lens got bigger",
-       "The torch was brighter than the window"
+       "The phone was brighter than the window"
       ],
       "a": 0,
       "why": "A lens brings the rays from a near thing together a little further behind it than the rays from a far thing. So the card has to move. Picking 'the lens got bigger' is not right, because the same lens was used. In your eye, the retina cannot move, so the eye changes the lens instead."
@@ -1922,9 +1922,9 @@
         "upside down"
        ],
        [
-        "The torch",
-        "100 cm",
-        "14 cm",
+        "The phone screen with an F",
+        "50 cm",
+        "16 cm",
         "upside down"
        ]
       ]
@@ -2026,7 +2026,7 @@
      "do": "Hold the tube to the right eye with the right hand. Hold the left hand open, palm towards you. Put it flat against the side of the tube, about 10 centimetres from the face. Keep both eyes open. Look at a far wall. Slide the hand until you see a hole in your palm.",
      "say": "Tube to your right eye. Left hand beside the tube. Both eyes open. Look at the far wall. Do you see a hole in your hand?",
      "kid": "Tube to one eye. Hand beside the tube. Both eyes open. Do you see a hole?",
-     "parent": "It works for most people in a few tries. If it does not, move the hand a little closer to the tube, and try the other eye. Some people need to adjust the tube a few times. The hole is a real result of two pictures being joined.",
+     "parent": "It works for most people in a few tries. If it does not, move the hand a little closer to the tube, and try the other eye. Some people need to adjust the tube a few times. The hole is a real result of two pictures being joined. Typically it works within a few tries. If it does not, make the tube a little wider or narrower, and keep the hand flat against the tube. Every child makes their own tube. Siblings can work in pairs: one tries, the other watches and adjusts the hand. Ask each child to draw what they see.",
      "check": {
       "t": "mcq",
       "q": "You see a round hole in your hand, but your hand is solid. Why does it seem to have a hole?",
@@ -2071,7 +2071,7 @@
      "qty": 1
     },
     {
-     "item": "a bright red pen, or a red object on a stick",
+     "item": "a bright red pen, or a red object on a stick (a bigger red object, such as a red card 5 centimetres across, is easier to see at the edge)",
      "qty": 1
     },
     {
@@ -2145,7 +2145,7 @@
      "do": "Start behind the chair at the 6 paper on the right side. Move the red pen slowly along the circle towards 12, at arm's length from the circle. Your child says 'now' when they notice any movement. Write the hour paper. Keep going. They say 'red' when they can name the colour. Write that hour paper.",
      "say": "Keep staring at the sticker. I will move the pen in from behind. Say 'now' when you notice it moving. Say 'red' when you are sure of its colour.",
      "kid": "Stare at the sticker. Say 'now' when you notice movement. Say 'red' when you know its colour.",
-     "parent": "Make sure the eyes stay on the sticker. If you see them move, start again. Expect movement to be noticed at about the 3 paper or a little behind it, and the red colour to be named at about the 1 or 2 paper. People differ, so write what you really see. Do not tell your child the numbers until the end.",
+     "parent": "Make sure the eyes stay on the sticker. If you see them move, start again. Typically movement is noticed at about the 3 paper or a little behind it, and the red colour is named at about the 1 or 2 paper. People differ, so write what you really see. Do not tell your child the numbers until the end. Wiggle the pen a little as you walk, because a still pen at the edge may not be noticed. Walk quietly, and do not make a sound, so that sound does not give it away. Roles for 2 to 4 children: one sits, one walks the pen, one writes, one watches the sitter's eyes. Swap after each side. One child alone with a parent: the parent walks the pen and watches the eyes, and the child writes the result afterwards.",
      "check": {
       "t": "mcq",
       "q": "You noticed the pen moving much earlier than you could say it was red. Why?",
@@ -2234,7 +2234,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is good. Remember to ask the person to take off reading glasses for the test.",
+     "parent": "Do not correct the guess. Any guess with a reason is good. Remember to ask the person to take off reading glasses for the test. Hold the card steady and keep its sharp corners away from the eye. If someone cannot read even at arm's length, write 'more than arm's length'. For 2 to 4 children, work in pairs: one tests, one measures and writes, then swap. For one child, a parent measures.",
      "context": "This is the first step of the Near Point test. You guess before you test."
     },
     {
@@ -2312,11 +2312,11 @@
      "qty": 1
     },
     {
-     "item": "a friend or family member who can stand still for a minute",
+     "item": "a friend or family member who can stand still for a minute, holding upright a pole exactly 60 centimetres tall (a stick, a rolled newspaper or a broom handle cut to size, measured with the ruler)",
      "qty": 1
     },
     {
-     "item": "a corridor, a long room or a terrace at least 8 metres long, with marks at 2, 4 and 8 metres (use a tape measure and chalk or tape)",
+     "item": "a corridor, a long room or a terrace at least 8 metres long, with marks at 2, 4 and 8 metres (use a tape measure and chalk or tape). If your space is shorter, use marks at 1, 2 and 4 metres and a 30 centimetre pole",
      "qty": 1
     },
     {
@@ -2332,22 +2332,22 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Measure how tall a friend looks on a ruler at arm's length when she stands at 2, 4 and 8 metres. Find the pattern."
+     "what": "Measure how tall a 60 centimetre pole looks on a ruler at arm's length when it stands at 2, 4 and 8 metres. Find the pattern."
     }
    ],
    "record": "Fill in the table. Draw a bar chart with one bar for each distance. Write what happened to the apparent height each time the distance doubled.",
-   "context": "In this activity, you hold a ruler at arm's length and measure how tall a friend looks when she stands at different distances. You find out how the size that a thing looks depends on its distance.",
+   "context": "In this activity, you hold a ruler at arm's length and measure how tall a pole looks when a friend holds it at different distances. You find out how the size that a thing looks depends on its distance.",
    "setup": [
     {
-     "art": "A corridor with chalk marks at 2, 4 and 8 metres, a friend standing at the 2 metre mark, and a child holding a ruler at arm's length.",
-     "caption": "1. Mark 2, 4 and 8 metres. A friend stands at the first mark."
+     "art": "A corridor with chalk marks at 2, 4 and 8 metres, a friend holding a pole upright at the 2 metre mark, and a child holding a ruler at arm's length.",
+     "caption": "1. Mark 2, 4 and 8 metres. A friend holds the pole upright at the first mark."
     },
     {
-     "art": "A child with one eye closed holding a ruler at arm's length, with the top of the ruler lined up with the friend's head and the thumb lined up with her feet.",
-     "caption": "2. Hold the ruler at arm's length. Read how tall the friend looks."
+     "art": "A child with one eye closed holding a ruler at arm's length, with the thumb lined up with the bottom of the pole and the top of the pole read on the ruler.",
+     "caption": "2. Hold the ruler at arm's length. Read how tall the pole looks."
     },
     {
-     "art": "The same view with the friend at 4 metres, seeming half as tall on the ruler.",
+     "art": "The same view with the pole at 4 metres, seeming half as tall on the ruler.",
      "caption": "3. Repeat at 4 and 8 metres."
     }
    ],
@@ -2355,12 +2355,12 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show your child the ruler and the marks. Ask: when the friend steps back from 2 metres to 4 metres, how tall will she look on the ruler? The same? Half? Why do you think so?",
-     "say": "We will measure how tall our friend looks on a ruler at arm's length. At 2 metres, then 4 metres, then 8. What happens to the height when she steps back? Why do you think so?",
-     "kid": "Measure a friend on a ruler. She steps back. What happens to her height on the ruler? Why?",
+     "do": "Show your child the ruler, the pole and the marks. Ask: the pole moves from 2 metres to 4 metres. How tall will it look on the ruler? The same? Half? Why do you think so?",
+     "say": "We will measure how tall a pole looks on a ruler at arm's length. At 2 metres, then 4 metres, then 8. What happens to its height on the ruler when it moves back? Why do you think so?",
+     "kid": "Measure a pole on a ruler. It moves back. What happens to its height on the ruler? Why?",
      "ask": [
       {
-       "q": "What will happen to her height on the ruler when she steps twice as far away?",
+       "q": "What will happen to its height on the ruler when it is twice as far away?",
        "good": [
         "It will be half as big.",
         "It will stay the same, because she is the same size.",
@@ -2374,49 +2374,49 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "The friend stands at the 2 metre mark. Your child holds the ruler upright at arm's length, with the elbow locked. They close one eye. Line up the 0 mark with her feet. Read the number at the top of her head. Write it down. Do it twice.",
-     "say": "Hold the ruler out at arm's length with a straight arm. Close one eye. Line up the 0 with her feet. What number is at the top of her head?",
-     "kid": "Hold the ruler at arm's length. Close one eye. Read how tall the friend looks.",
-     "parent": "Keep the arm straight and the ruler the same distance from the eye each time. Use the same eye each time. If the ruler is too short for how tall she looks, step back to 3 metres and use that as the first distance. The friend must stand still, with feet on the mark.",
-     "context": "In this step, you measure how tall the friend looks at 2 metres."
+     "do": "The friend stands at the 2 metre mark, holding the pole upright with its bottom on the floor. Your child holds the ruler upright at arm's length, with the elbow locked. They close one eye. Line up the 0 mark with the bottom of the pole. Read the number, in centimetres and millimetres, at the top of the pole. Write it down. Do it twice.",
+     "say": "Hold the ruler out at arm's length with a straight arm. Close one eye. Line up the 0 with the bottom of the pole. What number is at the top of the pole?",
+     "kid": "Hold the ruler at arm's length. Close one eye. Read how tall the pole looks.",
+     "parent": "Keep the arm straight and the ruler the same distance from the eye each time. Use the same eye each time. A 60 centimetre pole at 2 metres typically looks about 12 to 18 centimetres tall on the ruler, so the ruler is long enough. The friend must hold the pole upright and still, with its bottom on the mark. Ask the friend to stand next to the pole and not behind it, so that the reader can see the pole clearly. Do the test in a safe place, away from traffic and stairs. For 2 to 4 children: one reads the ruler, one holds the pole, one writes. Swap, and compare the readings of different children, who have different arm lengths. For one child with a parent: the parent holds the pole and writes.",
+     "context": "In this step, you measure how tall the pole looks at 2 metres."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "The friend moves to the 4 metre mark, and then to the 8 metre mark. Measure how tall she looks on the ruler at each, using the same arm, the same eye and the same ruler.",
-     "say": "Now she steps back to four metres. How tall does she look on the ruler now? And at eight?",
-     "kid": "She steps back. Measure again at 4 metres and at 8 metres.",
-     "parent": "Expect the apparent height to halve each time the distance doubles, roughly. If the friend is about 1.3 metres tall and your arm's length is about 55 centimetres, she should look about 36 centimetres tall at 2 metres, about 18 at 4 metres and about 9 at 8 metres. Your numbers will differ. Measurements are rough, because it is hard to read a ruler at arm's length.",
+     "do": "The friend moves to the 4 metre mark, and then to the 8 metre mark, with the pole. Measure how tall the pole looks on the ruler at each, using the same arm, the same eye and the same ruler.",
+     "say": "Now the pole moves back to four metres. How tall does it look on the ruler now? And at eight?",
+     "kid": "The pole moves back. Measure again at 4 metres and at 8 metres.",
+     "parent": "Typically the apparent height halves, roughly, each time the distance doubles. If the pole is 60 centimetres tall and your arm's length is about 50 centimetres, it should look about 15 centimetres tall at 2 metres, about 7 to 8 at 4 metres and about 4 at 8 metres. Your numbers will differ. Measurements are rough, because it is hard to read a ruler at arm's length. At 8 metres, read to the nearest millimetre, and do it twice.",
      "check": {
       "t": "mcq",
-      "q": "The friend looked half as tall at 4 metres as at 2 metres. What does this show about distance and size?",
+      "q": "The pole looked half as tall at 4 metres as at 2 metres. What does this show about distance and size?",
       "options": [
        "Twice as far away makes a thing look half as tall",
        "A thing gets smaller when it moves",
        "The ruler shrank"
       ],
       "a": 0,
-      "why": "The rays from her head and feet make an angle at your eye. Twice as far means half the angle, so she looks half as tall. She did not shrink, and neither did the ruler. Picking 'a thing gets smaller' mixes up how it looks with how big it is."
+      "why": "The rays from the top and bottom of the pole make an angle at your eye. Twice as far means half the angle, so it looks half as tall. The pole did not shrink, and neither did the ruler. Picking 'a thing gets smaller' mixes up how it looks with how big it is."
      },
      "chart": {
       "type": "table",
-      "title": "Made-up example: how tall a friend looked on the ruler",
+      "title": "Made-up example: how tall a 60 cm pole looked on the ruler",
       "cols": [
-       "Friend stood at",
-       "How tall she looked on the ruler"
+       "Pole stood at",
+       "How tall it looked on the ruler"
       ],
       "rows": [
        [
         "2 metres",
-        "36 cm"
+        "15 cm"
        ],
        [
         "4 metres",
-        "18 cm"
+        "7.5 cm"
        ],
        [
         "8 metres",
-        "9 cm"
+        "4 cm"
        ]
       ]
      },
@@ -2541,7 +2541,7 @@
      "do": "Hold the two strings between your thumbs and first fingers. Twirl the strings so that the disc spins fast. Look at the disc as it spins. Say what you see. Try spinning it slowly and then quickly.",
      "say": "Hold the strings and twirl the disc. Look at it as it spins. What do you see now? What happens when it spins slowly?",
      "kid": "Twirl the disc. What do you see? Spin it slowly, too. What changes?",
-     "parent": "At a fast spin, the bird should seem to sit inside the cage. At a slow spin, you see the bird, then the cage, flicking. If the picture does not join, spin faster, or redraw the pictures bolder and in the middle.",
+     "parent": "At a fast spin, the bird should seem to sit inside the cage. At a slow spin, you see the bird, then the cage, flicking. If the picture does not join, spin faster, or redraw the pictures bolder and in the middle. To spin fast: twist the strings by rolling them between the fingers about 20 times, then pull the strings gently apart and let the disc untwist. Typically the join is clear at about 10 spins a second, so the strings must be tight. Each child makes their own disc, with their own pictures (for example a fish and a bowl, or a flower and a vase). Swap discs and guess what the other child drew on the hidden side. One child alone with a parent: make two discs and compare.",
      "context": "In this step, you twirl the thaumatrope and look at what happens."
     },
     {
@@ -2550,7 +2550,7 @@
      "do": "Use the notepad. On the corner of the last page, draw a small ball at the bottom. On the page before it, draw the ball a little higher. Go on, page by page, moving the ball up and then down. Flick the pages from the first to the last with your thumb.",
      "say": "Draw a little ball at the corner of each page, a bit higher each time. Then flick the pages with your thumb. What do you see?",
      "kid": "Draw a ball on each page. Move it a bit each time. Flick the pages. What do you see?",
-     "parent": "Draw from the back of the pad to the front, so the flick runs from the first page to the last. Keep the ball the same size and move it a small amount each time. About 15 pages is enough to make a short bounce. The smaller the moves, the smoother the motion. Scientists have long said that the eye holds on to each picture for a moment, called persistence of vision. Many now think that the brain also builds movement from still pictures. They are still working out how.",
+     "parent": "Draw from the back of the pad to the front, so the flick runs from the first page to the last. Keep the ball the same size and move it a small amount each time. About 15 pages is enough to make a short bounce, but 25 or more pages last longer. Press hard with a pen so that the ball shows, and draw it near the corner where the thumb flicks the pages. If the pages are thick, the ball may be hard to see through the page, so use a dark pen. The smaller the moves, the smoother the motion. Scientists have long said that the eye holds on to each picture for a moment, called persistence of vision. Many now think that the brain also builds movement from still pictures. They are still working out how.",
      "check": {
       "t": "mcq",
       "q": "In your flip book, each page is a still picture. Why does the ball seem to move?",
@@ -2567,7 +2567,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Flick the flip book slowly, one page a second. Then at a medium speed. Then fast. Write down at which speed the ball seems to move smoothly, and at which speed it looks like separate pictures.",
+     "do": "Flick the flip book slowly, one page a second. Then at a medium speed. Then fast. Time each flick with a phone stopwatch. Work out pages each second: pages divided by seconds. Write down the speed at which the ball moves smoothly. Write the speed at which it looks like separate pictures. It typically looks smooth at about 10 pages a second or more. A short pad takes only about 1 second, so flick it several times.",
      "say": "Flick the flip book slowly. What do you see? Now medium. Now fast. When does the ball seem to move smoothly?",
      "kid": "Flick slowly. Flick medium. Flick fast. When does the ball seem to move?",
      "think": "A film shows 24 still pictures every second. Why do you think it seems smooth?",
@@ -2658,7 +2658,7 @@
      "do": "Make the first sign: the word EXIT in black letters 1 centimetre tall on white paper. The reader stands at the far end. The sign-holder walks towards her. When the reader can read every letter, she says 'now'. Measure the distance and write it down.",
      "say": "Make a sign with one word in black, with small letters one centimetre tall. Hold it up and walk towards your reader. She says 'now' when she can read every letter. How far is that?",
      "kid": "Make a sign with small black letters. Walk towards the reader. She says 'now' when she can read it.",
-     "parent": "A letter 1 centimetre tall can usually be read from about 4 to 7 metres. Make sure the reader does not know the word in advance, or she will guess. Change the word each time. The reader's eyes and the light matter, so keep them the same.",
+     "parent": "A letter 1 centimetre tall can typically be read from about 4 to 7 metres. Make sure the reader does not know the word in advance, or she will guess. Change the word each time. The reader's eyes and the light matter, so keep them the same.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how a filled-in table can look",
@@ -2680,8 +2680,8 @@
        ],
        [
         "3",
-        "Red on green, 2 cm tall",
-        "6 m"
+        "Red on green, 1 cm tall",
+        "3 m"
        ]
       ]
      },
@@ -2690,10 +2690,10 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Make more signs, changing one thing each time. Try letters 2 centimetres tall in black on white. Then try black on yellow, yellow on white, and red on green, all with the same letter height. Test each one the same way. Write each distance.",
+     "do": "Make more signs, changing one thing each time. Try letters 2 centimetres tall in black on white. Then go back to letters 1 centimetre tall. Try black on yellow, yellow on white, and red on green, all 1 centimetre tall. Test each one the same way. Write each distance.",
      "say": "Now change one thing at a time. First make the letters twice as tall. Then try different colours. Which sign can be read from furthest? Which from the closest?",
      "kid": "Change one thing at a time. Bigger letters. Different colours. Test each sign. Write each distance.",
-     "parent": "Letters twice as tall are usually readable from about twice as far. Black on white or black on yellow usually beat yellow on white and red on green, because they differ more in brightness. Write what you really see. Some people see red and green as nearly the same, so signs rarely use that pair.",
+     "parent": "Letters twice as tall are usually readable from about twice as far. Black on white or black on yellow usually beat yellow on white and red on green, because they differ more in brightness. Compare colours with the 1 centimetre letters, so that every sign can be read within your space. If the reader can read a sign from the whole length of your space, make the letters smaller, 5 millimetres, and test again. For 2 to 4 children: take turns as reader, sign-holder and recorder, and have each child design one sign. Test in a safe place, away from traffic. Write what you really see. Some people see red and green as nearly the same, so signs rarely use that pair.",
      "check": {
       "t": "mcq",
       "q": "A word with letters 2 centimetres tall could be read from twice as far as the same word with letters 1 centimetre tall. Why?",
@@ -3065,12 +3065,12 @@
    "why_maths": "Comparing the jumps shows that the jump grows faster than the distance shrinks. That is why close things give the brain such a strong clue."
   },
   {
-   "problem": "A friend looked 36 centimetres tall on a ruler at arm's length when she stood 2 metres away. How tall would she look at 4 metres? At 8 metres? At what distance would she look 4 and a half centimetres tall?",
-   "answer": "18 centimetres at 4 metres, 9 centimetres at 8 metres, and 4 and a half centimetres at 16 metres.",
-   "explain": "Twice as far makes her look half as tall. Half of 36 is 18. Half of 18 is 9. Half of 9 is 4 and a half. That was three halvings, from 2 metres: 4, 8, then 16 metres.",
+   "problem": "A pole looked 16 centimetres tall on a ruler at arm's length when it stood 2 metres away. How tall would it look at 4 metres? At 8 metres? At what distance would it look 2 centimetres tall?",
+   "answer": "8 centimetres at 4 metres, 4 centimetres at 8 metres, and 2 centimetres at 16 metres.",
+   "explain": "Twice as far makes it look half as tall. Half of 16 is 8. Half of 8 is 4. Half of 4 is 2. That was three halvings, from 2 metres: 4, 8, then 16 metres.",
    "math_unit": "math.division.division-facts.L4",
    "how": "a4",
-   "context": "In this activity, you hold a ruler at arm's length and measure how tall a friend looks when she stands at different distances.",
+   "context": "In this activity, you hold a ruler at arm's length and measure how tall a pole looks when a friend holds it at different distances.",
    "why_maths": "Halving again and again shows the pattern, and lets you work out a distance from a size you have measured."
   },
   {

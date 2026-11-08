@@ -616,15 +616,16 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
+     "do": "Cut out the 24 cards and the 8 tokens. Take out the plywood card and the three practice cards: newspaper, glass marble and bamboo stick. Shuffle the rest and put them in a pile. Give each player one token of each kind.",
      "say": "These cards show things around us. Each player gets two tokens. Has a grain, and No grain. We guess which kind each thing is.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take one token of each kind.",
-     "context": "This is the first step of Grain or No Grain. You set up the cards and the tokens."
+     "context": "This is the first step of Grain or No Grain. You set up the cards and the tokens.",
+     "parent": "A grown-up cuts out the cards with scissors. The tests on the backs are said aloud during the game. Do not try them in the game. Try them afterwards with a grown-up beside you, because bamboo and wood can splinter."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Play three practice cards. Use newspaper, a glass marble and a bamboo stick. Do not score yet. After each card, read the back and talk about the test.",
+     "do": "Play the three practice cards: newspaper, glass marble and bamboo stick. Do not score yet. After each card, read the back and talk about the test.",
      "say": "Here is the first card. The reader reads it. Everyone picks a token. We turn them over together. Then we read the back.",
      "kid": "Play three practice cards. Pick a token. Turn it over. Check the back.",
      "ask": [
@@ -672,7 +673,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Play the remaining cards. Stop at the plywood card. Read it out slowly, and ask the question below before turning it over.",
+     "do": "Play the remaining cards. Play the plywood card last. Read it out slowly, and ask the question below before turning it over.",
      "say": "Plywood is made of thin sheets of wood. The grain of each sheet is turned across the one below. Does it have a grain?",
      "kid": "Play the rest. Stop at plywood. Think before you turn the card.",
      "ask": [
@@ -685,7 +686,7 @@
        ]
       }
      ],
-     "parent": "Let the children argue. Plywood still has a grain in each layer. It is only the sheet as a whole that is evened out. This is the idea of the Crossed Layers card.",
+     "parent": "Let the children argue. Plywood still has a grain in each layer. It is only the sheet as a whole that is evened out. This is the idea of the Crossed Layers card. For a quicker game, play only 12 cards, but always finish with plywood. With two or three players, a full game of 24 cards takes about 25 minutes.",
      "context": "In this step, you meet the hardest card, plywood."
     },
     {
@@ -1256,7 +1257,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Board A is made of three layers of newspaper, all with the grain the same way. Board B has the middle layer turned across. Which statement is most likely?",
+     "p": "Board A is made of four layers of newspaper, all with the grain the same way. In board B, every second layer is turned across. Which statement is most likely?",
      "opts": [
       "Board A droops about the same in both directions",
       "Board B cannot be tested",
@@ -1264,7 +1265,7 @@
       "Board B droops about the same along and across, and board A droops differently along and across"
      ],
      "a": 3,
-     "why": "In board B, the turned layer is strong across where the other layers are weak, so the board is more even. In board A, all the layers share the same weak direction, so the board stays uneven.",
+     "why": "In board B, the turned layers are strong across where the other layers are weak, so the board is more even. In board A, all the layers share the same weak direction, so the board stays uneven.",
      "outcome": 4,
      "how": "p1"
     },
@@ -1546,7 +1547,7 @@
     },
     {
      "art": "A paper strip lying on a table with 10 centimetres sticking out over the edge, and a heavy book holding down the end.",
-     "caption": "4. Put strip A on the table with 10 centimetres sticking out. Put the book on the other end."
+     "caption": "4. Put strip A on the table with 10 centimetres sticking out (6 for newspaper). Put the book on the other end."
     },
     {
      "art": "A ruler held upright beside the end of the paper strip, measuring how far the tip has dropped.",
@@ -1570,7 +1571,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write your child's own words.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, give each child one paper to test. One holds the strip and the book, one reads the ruler, and one writes. Swap roles for the next strip, then put all the tables side by side.",
      "context": "This is the first step of the Which Way Does It Tear test. You guess before you test."
     },
     {
@@ -1599,7 +1600,7 @@
      "do": "Draw a pencil arrow along the way the newspaper tore straight. Now find the grain of the printer paper. Tear a short strip from a corner in each direction, and draw an arrow along the straighter tear.",
      "say": "Draw an arrow along the straight tear. Now find the straighter tear on the printer paper. Draw an arrow there too.",
      "kid": "Draw an arrow along the straight tear. Do the same on the printer paper.",
-     "parent": "Printer paper shows the difference less clearly than newspaper. If you cannot tell, use the fold test. Fold the sheet in half one way and press the crease. Do the same the other way. The fold along the grain is smoother, and the fold across it looks rougher and a little cracked.",
+     "parent": "Printer paper shows the difference less clearly than newspaper. If you cannot tell, use the fold test. Fold the sheet in half one way and press the crease. Do the same the other way. The fold along the grain is smoother, and the fold across it looks rougher and a little cracked. If printer paper shows no clear difference, write that down. It is an honest result, and newspaper shows the grain best.",
      "context": "In this step, you mark the grain direction on both papers with an arrow."
     },
     {
@@ -1609,16 +1610,16 @@
      "say": "Cut one strip along the arrow and one across it. Mark them A and X. Keep the strips the same width.",
      "kid": "Cut a strip along the arrow. Cut another across it. Mark them A and X.",
      "adult": true,
-     "parent": "Make the two strips exactly the same width. A strip 3 centimetres wide is easy to measure. Cut four strips in all, two from the newspaper and two from the printer paper.",
+     "parent": "Make the two strips exactly the same width. A strip 3 centimetres wide is easy to measure. Cut four strips in all, two from the newspaper and two from the printer paper. Cut along the arrow means the long side of the strip runs the same way as the arrow.",
      "context": "In this step, you cut the strips for the droop test."
     },
     {
      "id": "s5",
      "mins": 10,
-     "do": "Put strip A on the table with 10 centimetres sticking out over the edge. Put a heavy book on the other end. Hold the ruler upright beside the tip. Read how far the tip droops. Do it three times. Then do the same for strip X.",
-     "say": "Slide the strip so exactly ten centimetres stick out. Put the book on the end. Measure how far the tip drops. Do each strip three times.",
-     "kid": "Let 10 centimetres stick out. Measure how far the tip drops. Do each strip three times.",
-     "parent": "If a newspaper strip folds right down to the table, pull it back so only 6 centimetres stick out, and use 6 centimetres for every strip. Printer paper often droops about 2 to 5 centimetres. The strip cut along the grain usually droops less. The difference can be small with thin paper, so measure carefully and write down what you see, even if the difference is small.",
+     "do": "Put strip A on the table with 10 centimetres sticking out over the edge, or 6 for newspaper. Put a heavy book on the other end. Hold the ruler upright beside the tip. Read how far the tip droops. Do it three times. Then do strip X.",
+     "say": "Slide the strip so exactly ten centimetres stick out, or six for newspaper. Put the book on the end. Measure how far the tip drops. Do each strip three times.",
+     "kid": "Let 10 centimetres stick out, or 6 for newspaper. Measure how far the tip drops. Do each strip three times.",
+     "parent": "Newspaper is floppy, so let 6 centimetres stick out for newspaper and 10 for printer paper. Use the same length for both strips of one paper. If a printer-paper strip also folds right down, use 6 for it too. Typical droop for printer paper is about 2 to 5 centimetres, and the strip cut along the grain usually droops less. The difference can be small with thin paper, so measure carefully to the millimetre and write down what you see.",
      "check": {
       "t": "mcq",
       "q": "The two strips are the same width, length and paper. Why do you measure each one three times?",
@@ -1739,7 +1740,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write your child's own words.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, each child cuts a pair of strips from a different cloth, such as a kitchen cloth, a dupatta and an old shirt. One holds the bag steady, one reads the ruler at eye level, and one writes. Then compare which cloth stretched most.",
      "context": "This is the first step of the Tailor's Trick test. You guess before you test."
     },
     {
@@ -1749,13 +1750,13 @@
      "say": "Look at the cloth. You can see threads in two directions. Pull out one thread. The gap shows the straight line of the threads.",
      "kid": "Pull out one thread near the edge. The gap shows the way the threads run.",
      "adult": true,
-     "parent": "Use woven cloth, not a knitted T-shirt. Knitted cloth is made of loops and stretches both ways. If the cloth has a printed stripe or check, you can also follow that. Do not worry if the square is not perfect.",
+     "parent": "Use woven cloth, not a knitted T-shirt. Knitted cloth is made of loops and stretches both ways. If the cloth has a printed stripe or check, you can also follow that. Do not worry if the square is not perfect. If a tight weave will not let you pull out a thread, follow a printed stripe or the woven edge of the cloth. The threads run in two straight directions at right angles.",
      "context": "In this step, you find the line of the threads and cut the cloth into a square."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Fold the square corner to corner, so the fold crosses the cloth at a slant. Press the fold and draw a pencil line along it. Cut one strip 5 centimetres wide and 35 centimetres long along the threads. Cut a second strip of the same size along the fold line.",
+     "do": "Fold the square corner to corner, so the fold crosses the cloth at a slant. Press the fold and draw a pencil line along it. Cut one strip 5 centimetres wide and 35 centimetres long along the threads. Cut a second strip of the same size centred on the fold line.",
      "say": "Fold the cloth from corner to corner. That fold is the slant, which tailors call the bias. Cut one strip along the threads and one along the bias.",
      "kid": "Fold the cloth corner to corner. That fold is the bias. Cut one strip each way.",
      "adult": true,
@@ -1778,7 +1779,7 @@
      "do": "Lay strip 1 flat and draw two pencil marks 20 centimetres apart. Clip the top of the strip to the hook. Clip a carry bag to the bottom. Measure between the marks. Then put the bottle in the bag, wait ten seconds, and measure again.",
      "say": "Mark two points 20 centimetres apart. Hang the strip, with the bag clipped to the bottom. Measure. Then add the bottle. Wait ten seconds and measure again.",
      "kid": "Mark 20 centimetres. Hang the strip. Add the bottle. Measure again.",
-     "parent": "Hold the bag steady while someone reads the ruler, because a swinging bag gives wrong numbers. Along the threads, the marks may stay almost 20 centimetres apart. On the slant they may stretch by 2 to 5 centimetres. A very old or loose cloth may stretch more. Read the ruler at eye level.",
+     "parent": "Hold the bag steady while someone reads the ruler, because a swinging bag gives wrong numbers. Along the threads, the marks may stay almost 20 centimetres apart. On the slant, a typical thin cotton stretches about 1 to 4 centimetres. A very old or loose cloth may stretch more, and a stiff new cloth less. If the slant strip stretches only a few millimetres, try a thinner cloth or a 1 litre bottle. Read the ruler at eye level.",
      "context": "In this step, you hang the first strip with the bottle and measure how much it stretches."
     },
     {
@@ -1787,7 +1788,8 @@
      "do": "Do the other strip in the same way. Then do each strip a second time. Write the stretch for each try. The stretch is the length with the bottle minus 20 centimetres.",
      "say": "Now test the other strip in the same way. Then test both strips again. Subtract 20 from each hanging length to find the stretch.",
      "kid": "Test the other strip. Then test both again. Work out the stretch.",
-     "context": "In this step, you test the second strip and repeat both tests."
+     "context": "In this step, you test the second strip and repeat both tests.",
+     "parent": "If both strips stretch the same amount, check that the cloth is woven and not knitted. Then check that the second strip really was cut on the slant."
     },
     {
      "id": "s6",
@@ -1825,7 +1827,7 @@
    ],
    "materials": [
     {
-     "item": "8 steel paper clips of the same kind, from one box",
+     "item": "8 plain steel paper clips of the same kind, from one box, not plastic coated",
      "qty": 8
     },
     {
@@ -1845,7 +1847,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up stays close. The wire can spring and the snapped ends are sharp. Hold the wire low and away from your face, and wear glasses if you have them. Put the pieces in the bowl at once, then in the bin, and keep them away from children under five.",
+   "safety": "A grown-up stays close and straightens the clips. The wire can spring and the snapped ends are sharp. Hold the wire low and away from your face, and wear glasses if you have them. Put the pieces in the bowl at once, then in the bin, and keep them away from children under five.",
    "record": "For each clip, write the size of bend and the number of bends before it snapped. Then find the average for the big bends and for the small bends.",
    "context": "In this experiment, you bend straightened paper clips back and forth until they snap. You count how many bends it takes, for big bends and for small bends.",
    "setup": [
@@ -1887,7 +1889,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write your child's own words.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, each child bends 3 or 4 wires. One bends, one counts aloud, and one writes. Swap roles. Put every count in one table. A box of 100 clips is enough for four children.",
      "context": "This is the first step of the Bend Until It Snaps test. You guess before you test."
     },
     {
@@ -1897,17 +1899,17 @@
      "say": "Straighten each clip into a wire. A big bend turns the wire to a right angle. A small bend turns it only half as far.",
      "kid": "Straighten the clips. A big bend is a right angle. A small bend is half of that.",
      "adult": true,
-     "parent": "Each clip is straightened in the same way. Keep two for spares. Mark the three for big bends with B and the three for small bends with S on the results table.",
+     "parent": "Each clip is straightened in the same way. Keep two for spares. Mark the three for big bends with B and the three for small bends with S on the results table. Fold the notebook corner in half, corner to corner, to make a guide for the small bend.",
      "context": "In this step, you straighten the clips and learn the two sizes of bend."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Hold a wire low, with about 2 centimetres sticking out from your fingers. Bend the end to one side until it makes a right angle. That is bend 1. Bend it to the other side. That is bend 2. Keep counting until it snaps. Do this with three wires.",
-     "say": "Hold the wire low. Bend the end to one side. Count one. Bend it the other way. Count two. Keep going until it snaps.",
+     "do": "Hold a wire low between thumb and finger, with 2 centimetres sticking out. Bend the end to one side to the right angle. That is bend 1. Bring it back through straight and over to the right angle on the other side. That is bend 2. Keep counting until it snaps. Do this with three wires.",
+     "say": "Hold the wire low. Bend the end to one side. Count one. Bend it over to the other side. Count two. Keep going until it snaps.",
      "kid": "Bend the wire to one side. Count one. Bend it back. Count two. Keep going.",
      "adult": true,
-     "parent": "Big bends usually snap a clip in fewer than 15 bends. Clips vary, so write down what you get. Do not worry if one clip takes far more or far fewer bends than the others.",
+     "parent": "In many tests a big bend snaps a clip in about 5 to 15 bends. This is typical, not a promise. Clips vary a lot with the maker, so write down what you get. If the fingers of a young child are too weak to bend the wire, a grown-up does the bending while the child counts.",
      "context": "In this step, you test three wires with big bends and count the bends until each snaps."
     },
     {
@@ -1917,7 +1919,7 @@
      "say": "Do the same with three new wires, but bend them only half as far. Count every bend. Stop at 60.",
      "kid": "Bend three new wires half as far. Count every bend. Stop at 60.",
      "adult": true,
-     "parent": "Small bends usually take longer. Many clips need between 15 and 50 bends, and some do not break in 60. Stop at 60 and write 60 or more. A common sign of a good test is that the bigger bends snap the clip sooner.",
+     "parent": "Small bends take longer, often two to four times as many as big bends. Many clips need between 15 and 50 bends, and some do not break in 60. Stop at 60 and write 60 or more. If a thick clip never breaks even with big bends, write that down and try another make of clip. The bigger bends usually snap the clip sooner.",
      "check": {
       "t": "mcq",
       "q": "Why do we use the same size of bend for all three wires in a group?",
@@ -1947,7 +1949,7 @@
        ]
       }
      ],
-     "parent": "The bent place can feel warm after many bends. The work done by your hand turns into a little heat. The broken ends often look bright and grainy, because a fresh break shows the metal's inside. The snapped ends are sharp, so keep them in the bowl.",
+     "parent": "The bent place may feel a little warm after many bends. The work done by your hand turns into a little heat. Compare it with the straight part of the wire. If you feel nothing, bend a fresh wire quickly 20 times and touch it at once. The broken ends often look bright and grainy, because a fresh break shows the metal's inside. The snapped ends are sharp, so keep them in the bowl.",
      "context": "In this step, you feel the bent place and look at the break."
     },
     {
@@ -1970,23 +1972,23 @@
    "days": 1,
    "materials": [
     {
-     "item": "2 thin bamboo skewers with blunt ends",
+     "item": "2 thin bamboo skewers, or 2 bare bamboo sticks from an unused incense pack",
      "qty": 2
     },
     {
-     "item": "2 wooden ice-cream sticks",
+     "item": "2 wooden ice-cream sticks, from a craft or stationery shop",
      "qty": 2
     },
     {
-     "item": "1 celery stalk",
+     "item": "1 celery stalk from a vegetable seller, or a fresh drumstick pod, or a piece of sugarcane",
      "qty": 1
     },
     {
-     "item": "1 banana leaf, or another long leaf with parallel veins, such as a coconut leaflet",
+     "item": "1 banana leaf from a flower or vegetable seller, or another long leaf with parallel veins, such as a coconut leaflet or a long blade of grass",
      "qty": 1
     },
     {
-     "item": "a magnifying glass, if you have one",
+     "item": "a magnifying glass, or the zoom of a phone camera",
      "qty": 1
     },
     {
@@ -1994,7 +1996,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use the blunt ends of the skewers and keep the sharp points on the tray. Do not put sticks near your face, and watch for splinters when wood snaps. A grown-up checks that nobody is allergic to celery, and the celery is not for eating. Wash your hands after touching the leaf and the celery.",
+   "safety": "Use the blunt ends of the skewers and keep the sharp points on the tray. Do not put sticks near your face, and watch for splinters when wood snaps. Snap sticks pointing away from everyone. A grown-up checks that nobody is allergic to celery, and the celery is not for eating. Wash your hands after touching the leaf and the celery.",
    "schedule": [
     {
      "day": 1,
@@ -2015,7 +2017,7 @@
     },
     {
      "art": "A banana leaf being torn from the edge towards the middle, with the straight tear following the veins.",
-     "caption": "3. Tear the leaf from the edge, then try along the middle."
+     "caption": "3. Tear the leaf along its veins, then try across them."
     },
     {
      "art": "A magnifying glass held over the torn edge of a leaf and over a split stick, showing long fibres.",
@@ -2039,7 +2041,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guesses. Any guess is fine.",
+     "parent": "Do not correct the guesses. Any guess is fine. With 2 to 4 children, each child takes one or two things, tests them, and then swaps. Draw all the arrows on one shared sheet.",
      "context": "This is the first step of the Grain Hunt. You guess before you test."
     },
     {
@@ -2048,18 +2050,18 @@
      "do": "Hold a skewer by its blunt end. Push your thumbnail into the end and try to split it down its length. Then bend the skewer until it snaps across. Do the same with an ice-cream stick.",
      "say": "Press your thumbnail into the end of the stick. Does it split along its length? Now bend it to snap it across. Which was easier?",
      "kid": "Split the stick along its length. Then snap it across. Which was easier?",
-     "parent": "A thin bamboo skewer often splits when you push a thumbnail into its blunt end. A flat ice-cream stick may need more force. If it does not split, press harder or ask a grown-up to start the split. Either way, write down what happens. Wood and bamboo split along the grain much more easily than across.",
+     "parent": "A thin bamboo skewer often splits when you push a thumbnail into its blunt end. A flat ice-cream stick may need more force. If it does not split, press harder or ask a grown-up to start the split. Either way, write down what happens. Wood and bamboo split along the grain much more easily than across. Ice-cream sticks are often birch and may not split. If so, write 'did not split', then snap it. A clean snap straight across is itself a clue about the grain.",
      "context": "In this step, you split and snap a bamboo skewer and an ice-cream stick."
     },
     {
      "id": "a1s3",
      "mins": 8,
-     "do": "Take the celery stalk. Snap the end and pull gently so a string peels off. Then take the banana leaf. Tear it from the edge towards the middle. Then try tearing it lengthwise along the middle.",
-     "say": "Snap the end of the celery and pull. Do strings peel off? Tear the leaf from the edge. Then try along the middle.",
-     "kid": "Peel a string off the celery. Tear the leaf from the edge. Then tear it along the middle.",
+     "do": "Take the celery stalk. Snap the end and pull gently so a string peels off. Then take the leaf. Look for its fine parallel veins. Tear it along the veins from the edge. Then try tearing it across the veins.",
+     "say": "Snap the end of the celery and pull. Do strings peel off? Tear the leaf along its veins. Then try across them.",
+     "kid": "Peel a string off the celery. Tear the leaf along its veins. Then tear across them.",
      "check": {
       "t": "mcq",
-      "q": "The banana leaf tore easily from the edge inwards, but not lengthwise. What does that show?",
+      "q": "The leaf tore easily along its veins, but not across them. What does that show?",
       "options": [
        "The leaf is the same in every direction",
        "The leaf is old and weak",
@@ -2100,7 +2102,7 @@
      "qty": 1
     },
     {
-     "item": "scissors, used by a grown-up",
+     "item": "1 corrugated cardboard box, cut flat by a grown-up, with a flat side bigger than 30 by 30 centimetres",
      "qty": 1
     },
     {
@@ -2108,11 +2110,11 @@
      "qty": 1
     },
     {
-     "item": "2 stacks of books with a 20 centimetre gap between them",
+     "item": "2 stacks of books with a 25 centimetre gap between them",
      "qty": 2
     },
     {
-     "item": "a 500 millilitre bottle of water, with its cap on tight",
+     "item": "a 1 litre bottle of water, with its cap on tight",
      "qty": 1
     },
     {
@@ -2136,16 +2138,16 @@
      "caption": "1. Look at the cut edge. The waves are the flutes. Draw an arrow along them."
     },
     {
-     "art": "Two cardboard strips side by side, one with flutes running along its length and one with flutes across, each 6 centimetres wide and 25 centimetres long.",
+     "art": "Two cardboard strips side by side, one with flutes running along its length and one with flutes across, each 4 centimetres wide and 30 centimetres long.",
      "caption": "2. Cut two strips. One has the flutes along its length. The other has them across."
     },
     {
-     "art": "A cardboard strip bridging a gap of 20 centimetres between two stacks of books, with a water bottle lying across the middle.",
+     "art": "A cardboard strip bridging a gap of 25 centimetres between two stacks of books, with a water bottle lying across the middle.",
      "caption": "3. Lay the strip across the gap. Put the bottle in the middle."
     },
     {
      "art": "A ruler held beside a bridge to measure how far the middle has sagged below the books.",
-     "caption": "4. Measure how far the middle sags."
+     "caption": "4. Measure how far the middle sags, in millimetres."
     }
    ],
    "flow": [
@@ -2165,26 +2167,26 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, each child makes and tests a pair of strips from a different box or a different panel. One lays the bottle, one reads the ruler, and one writes. Compare all the boxes.",
      "context": "This is the first step of the Cardboard Bridge. You guess before you test."
     },
     {
      "id": "a2s2",
      "mins": 6,
-     "do": "A grown-up looks at the cut edge of the box for the waves inside. These are the flutes. Draw an arrow along them. Cut a strip 6 centimetres wide and 25 centimetres long with the flutes along its length. Cut another with the flutes across its length.",
+     "do": "A grown-up looks at the cut edge of the box for the waves inside. These are the flutes. Draw an arrow along them. Cut a strip 4 centimetres wide and 30 centimetres long with the flutes along its length. Cut another with the flutes across its length.",
      "say": "Look at the cut edge. See the waves between the flat layers? Draw an arrow along them. Now cut the two strips.",
      "kid": "Find the waves on the cut edge. Draw an arrow. A grown-up cuts two strips.",
      "adult": true,
-     "parent": "Cut both strips to the same size. The strips need to be 25 centimetres long so that they rest well on the books. Write 'flutes along' on one and 'flutes across' on the other.",
+     "parent": "Cut both strips to the same size from the same panel. The strips need to be 30 centimetres long so that they rest well on the books. Cardboard cuts best with slow cuts. Write 'flutes along' on one and 'flutes across' on the other.",
      "context": "In this step, you find the flutes and cut two strips."
     },
     {
      "id": "a2s3",
      "mins": 12,
-     "do": "Set the two stacks of books 20 centimetres apart. Lay the strip with the flutes along its length across the gap. Lay the bottle across the middle. Measure how far the middle sags. Do the same with the other strip.",
-     "say": "Lay each strip across the gap. Put the bottle in the middle. Measure how far the strip sags. Write down both numbers.",
-     "kid": "Lay a strip across the gap. Put the bottle on. Measure the sag.",
-     "parent": "The strip with flutes along its length is usually very stiff and sags hardly at all. The strip with flutes across may sag by several centimetres or fold flat. If it folds, write 'folded'. Do not worry if the difference is smaller than you expected, as boxes vary.",
+     "do": "Set the two stacks of books 25 centimetres apart. Hold a ruler upright beside the middle of the gap. Lay the strip with the flutes along its length across the gap. Read the height of the strip's underside. Lay the bottle across the middle and read it again. The sag is the difference. Do the same with the other strip.",
+     "say": "Lay each strip across the gap. Read the height of its underside. Put the bottle in the middle and read again. The sag is the difference, in millimetres.",
+     "kid": "Lay a strip across the gap. Put the bottle on. Measure the sag in millimetres.",
+     "parent": "Typical sags are a few millimetres for the strip with flutes along its length, and about 1 to 3 centimetres for the strip with flutes across, which may even fold flat. If it folds, write 'folded'. A thin box sags more and a thick one less, so numbers differ from box to box. If the sag is too small to read, use a longer gap. The direction of the flutes should still make the difference.",
      "check": {
       "t": "mcq",
       "q": "The strip with the flutes along its length sagged much less. Why?",
@@ -2228,7 +2230,7 @@
      "qty": 2
     },
     {
-     "item": "60 identical coins, such as one-rupee coins, or 60 identical small items such as steel washers",
+     "item": "60 identical coins, such as one-rupee coins, or 60 identical small things such as steel washers or marbles. If you do not have 60, add dry rice to the cup by level spoonfuls and count the spoons",
      "qty": 60
     },
     {
@@ -2285,7 +2287,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, each child builds one shape from a sheet. One adds the coins, one counts, and one writes. Then swap the shapes around and test again.",
      "context": "This is the first step of Paper Bridges. You guess before you build."
     },
     {
@@ -2300,10 +2302,10 @@
     {
      "id": "a3s3",
      "mins": 10,
-     "do": "Lay the flat sheet across the gap. Put the cup in the middle. Add coins one at a time, gently. Stop when the middle touches the table or the bridge slips. Count the coins. Test the other three in the same way.",
+     "do": "Lay the flat sheet across the gap. Put the cup in the middle. Add coins one at a time, gently. Stop when the middle touches the table, the bridge slips, or you reach 60 coins. Count the coins. Test the other three in the same way.",
      "say": "Lay each bridge across the gap. Put the cup in the middle. Add coins one at a time. Count them. Stop when the bridge sags to the table.",
      "kid": "Test each bridge. Add coins one at a time. Count them.",
-     "parent": "A flat sheet usually carries hardly any coins. A tube or zigzag can carry 20 or more. If a bridge twists, add coins more gently. Write the number you reach, even if it surprises you.",
+     "parent": "A flat sheet usually carries only a few coins. A tray or zigzag may carry 10 to 40, and a tube may carry all 60. These are typical, not promises. If a bridge carries 60 coins, write 60 or more and measure how far its middle sags with 60 coins on it. The one that sags least is the strongest. If a bridge twists, add coins more gently.",
      "check": {
       "t": "mcq",
       "q": "The zigzag bridge carried far more coins than the flat sheet. The paper was the same. What changed?",
@@ -2387,7 +2389,7 @@
        ]
       }
      ],
-     "parent": "Plywood furniture is common: look at the back of a cupboard, a drawer bottom, a bed base or a school desk. The layers are thin and look like stripes. Let your child count them.",
+     "parent": "Plywood furniture is common: look at the back of a cupboard, a drawer bottom, a bed base or a school desk. The layers are thin and look like stripes. Let your child count them. If your furniture is made of a pressed board with no layers, just a speckled brown mass of tiny chips, it is not plywood. That is a result too. Compare it with a plywood edge. With 2 to 4 children, each child examines a different item and draws it.",
      "context": "This is the first step of Plywood Edge Detective. You look before you learn."
     },
     {
@@ -2407,7 +2409,8 @@
       "a": 1,
       "why": "With an odd number of layers, the layers on the two faces have their grain the same way, so the board is balanced and stays flat. The cost and the idea that odd numbers are stronger are not the reasons."
      },
-     "context": "In this step, you count the layers and draw their grain directions."
+     "context": "In this step, you count the layers and draw their grain directions.",
+     "parent": "Layers whose grain runs along the edge look like stripes. Layers whose grain runs into the edge look rougher and dotted. Plywood usually has 3, 5 or 7 layers, and the glue lines show as thin dark stripes."
     },
     {
      "id": "a4s3",
@@ -2418,22 +2421,23 @@
      "parent": "A good reason says that each layer is turned across the one below. Where one layer is weak, the next is strong. So the board is much less likely to split along one line than a plank. The crossed layers also stop the board from shrinking or swelling too much.",
      "context": "In this step, you compare plywood with solid wood."
     }
-   ]
+   ],
+   "safety": "Look and do not pick at the edge, because cut wood can have splinters. Wash your hands afterwards."
   }
  ],
  "projects": [
   {
    "id": "p1",
-   "title": "Paper Plywood: three layers, crossed or not?",
+   "title": "Paper Plywood: four layers, crossed or not?",
    "days": 2,
    "mins": 60,
    "materials": [
     {
-     "item": "6 sheets of newspaper from the same newspaper",
-     "qty": 6
+     "item": "4 large sheets of newspaper from the same newspaper, opened out flat",
+     "qty": 4
     },
     {
-     "item": "white glue, such as Fevicol, about 4 tablespoons, mixed with an equal amount of water",
+     "item": "white glue, such as Fevicol from a stationery shop, about 4 tablespoons, mixed with an equal amount of water",
      "qty": 1
     },
     {
@@ -2457,11 +2461,11 @@
      "qty": 1
     },
     {
-     "item": "a heavy book and a table edge for the droop test",
+     "item": "a heavy book and a table edge for the droop test, and a few coins and tape in case the strips barely droop",
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the paper. Wash your hands with water after using the glue, and keep glue away from your eyes and mouth.",
+   "safety": "A grown-up cuts the paper. Wash your hands with water after using the glue, and keep glue away from your eyes and mouth. Keep coins away from children under five.",
    "schedule": [
     {
      "day": 1,
@@ -2478,16 +2482,16 @@
    "context": "In this project, you make two small boards from layers of newspaper. In one board all the layers have the grain the same way. In the other, the layers are crossed. You test which board is more even.",
    "setup": [
     {
-     "art": "Six rectangles of newspaper, each with a pencil arrow along the long side, and three of them turned with the arrow across.",
-     "caption": "1. Cut the newspaper. Mark the grain arrow on every piece."
+     "art": "Eight rectangles of newspaper, each with a pencil arrow, six with the arrow along the long side and two with the arrow across.",
+     "caption": "1. Cut eight pieces of newspaper. Mark the grain arrow on every piece."
     },
     {
-     "art": "Three newspaper layers being glued together with a brush, with the arrows all pointing the same way.",
-     "caption": "2. Make board A: three layers with the grain the same way."
+     "art": "Four newspaper layers being glued together with a brush, with the arrows all pointing the same way.",
+     "caption": "2. Make board A: four layers with the grain the same way."
     },
     {
-     "art": "Three newspaper layers being glued together, with the middle layer turned so its arrow points across the others.",
-     "caption": "3. Make board B: three layers with the middle layer turned across."
+     "art": "Four newspaper layers being glued together, with every second layer turned so its arrow points across the others.",
+     "caption": "3. Make board B: four layers, with every second layer turned across."
     },
     {
      "art": "Two glued boards pressed flat under heavy books overnight, with plastic sheets above and below.",
@@ -2503,7 +2507,7 @@
      "id": "p1s1",
      "mins": 5,
      "do": "Show your child the newspaper and the glue. Ask which board will be more even in every direction, and why. Write the guess.",
-     "say": "We will make two boards from three layers of newspaper each. In one, the layers all lie the same way. In the other, the middle one is turned across. Which board will be more even? Why?",
+     "say": "We will make two boards from four layers of newspaper each. In one, the layers all lie the same way. In the other, every second layer is turned across. Which board will be more even? Why?",
      "kid": "Guess first. Which board will be more even? Why do you think so?",
      "ask": [
       {
@@ -2515,36 +2519,36 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, one child or pair makes each board. One brushes and one lays the layers. At the end each child tests one strip, and all the numbers go in one table.",
      "context": "This is the first step of Paper Plywood. You guess before you build."
     },
     {
      "id": "p1s2",
      "mins": 8,
-     "do": "Tear a corner of each newspaper sheet down and across to find the straight tear. Draw an arrow along it. A grown-up cuts six rectangles, each 15 centimetres by 25 centimetres. Cut five with the arrow along the long side. Cut one with the arrow along the short side.",
-     "say": "Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts six pieces. Five with the arrow along the long side. One with it across.",
-     "kid": "Find the grain on each sheet. Draw an arrow. A grown-up cuts six pieces.",
+     "do": "Tear a corner of each newspaper sheet down and across to find the straight tear. Draw an arrow along it. A grown-up cuts eight rectangles, each 20 centimetres by 30 centimetres. Cut six with the arrow along the long side. Cut two with the arrow along the short side.",
+     "say": "Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts eight pieces. Six with the arrow along the long side. Two with it across.",
+     "kid": "Find the grain on each sheet. Draw an arrow. A grown-up cuts eight pieces.",
      "adult": true,
-     "parent": "You can use the same rule as in the tear test. Keep the arrows visible on every piece. Board A uses three pieces with the arrow along the long side. Board B uses two of those, and the piece with the arrow along the short side goes in the middle.",
-     "context": "In this step, you find the grain and cut six pieces of newspaper."
+     "parent": "You can use the same rule as in the tear test. Keep the arrows visible on every piece. Board A uses four pieces with the arrow along the long side. Board B uses two of those, and the two pieces with the arrow along the short side go second and fourth.",
+     "context": "In this step, you find the grain and cut eight pieces of newspaper."
     },
     {
      "id": "p1s3",
      "mins": 15,
-     "do": "Mix the glue with an equal amount of water. For board A, brush glue on one piece. Lay a second piece on it with the arrow the same way. Brush it, and add the third. For board B, do the same but make the middle piece the one with the arrow across. Smooth out the bubbles with your hand.",
-     "say": "Brush glue on the first piece. Lay the second on top. Brush it. Lay the third on top. For board B, turn the middle piece across.",
-     "kid": "Glue three layers into board A. Glue board B with the middle layer turned.",
+     "do": "Mix the glue with an equal amount of water. For board A, brush glue on one piece. Lay a second piece on it with the arrow the same way. Brush it and add a third, then a fourth. For board B, do the same but turn every second piece so its arrow points across. Smooth out the bubbles with your hand.",
+     "say": "Brush glue on the first piece. Lay the second on top. Brush it, and add the third, then the fourth. For board B, turn every second piece across.",
+     "kid": "Glue four layers into board A. Glue board B with every second layer turned.",
      "parent": "Use thin glue so the paper does not tear. Smooth the layers from the middle outwards to push out bubbles. Do not drench the paper, or the boards will wrinkle.",
      "check": {
       "t": "mcq",
-      "q": "In board B, why do we turn the middle layer across the other two?",
+      "q": "In board B, why do we turn every second layer across the others?",
       "options": [
        "So that the weak direction of one layer is covered by the strong direction of another",
        "So that the glue goes further",
        "So that the board is thicker"
       ],
       "a": 0,
-      "why": "A layer is weaker across its grain. If the middle layer is turned, its strong direction lies across the weak direction of the other two. The amount of glue and the thickness do not change when you turn a layer."
+      "why": "A layer is weaker across its grain. If every second layer is turned, its strong direction lies across the weak direction of the others. The amount of glue and the thickness do not change when you turn a layer."
      },
      "context": "In this step, you glue the two boards."
     },
@@ -2554,14 +2558,14 @@
      "do": "Lay each board between two sheets of plastic. Put them under the heavy books. Leave them overnight.",
      "say": "Put each board between plastic sheets. Stack the heavy books on top. Leave them to dry until tomorrow.",
      "kid": "Press the boards under heavy books. Leave them overnight.",
-     "parent": "Boards that dry without weight will curl. Board A may curl more than board B. Write down if you see this.",
+     "parent": "Press the boards for at least 12 hours. In damp weather they may need a second night, or a place near a fan. If a board still feels cool or soft, wait. Boards that dry without weight will curl. A four-layer board may still curl a little, so write down if you see this.",
      "wait": "Leave the boards under the books overnight",
      "context": "In this step, you press the boards flat while they dry."
     },
     {
      "id": "p1s5",
      "mins": 25,
-     "do": "Take out the boards. A grown-up cuts a strip 3 centimetres wide from each board along the long side, and another across the short side. Put each strip on the table with 6 centimetres sticking out and the book on the end. Measure the droop. Do each strip twice. Write the numbers.",
+     "do": "Take out the boards. A grown-up cuts a strip 3 centimetres wide from each board along the long side, and another across the short side. Put each strip on the table with 14 centimetres sticking out and the book on the end. Measure the droop. Do each strip twice. Write the numbers.",
      "say": "Cut one strip from each board along the long side and one across. Test each strip's droop. Write down the numbers. Which board is more even?",
      "kid": "Cut strips from both boards. Test their droop. Compare along and across.",
      "adult": true,
@@ -2575,7 +2579,7 @@
        ]
       }
      ],
-     "parent": "Board A should droop less when cut along the grain than across. Board B should droop about the same either way. Papers vary, so the difference may be small. Write what you see. A good reason says the crossed layer evens out the direction. Read the Crossed Layers card together.",
+     "parent": "Typical droop is about 0.5 to 3 centimetres, so measure to the millimetre. If a strip droops less than 3 millimetres, tape a one-rupee coin to the tip of every strip and test them all again. Turn a curled strip so the curl faces up. Board A often droops less along the grain than across. Board B often droops closer to the same either way. Papers vary, so the difference may be small. Write what you see. A good reason says the crossed layers even out the direction. Read the Crossed Layers card together.",
      "context": "On day two, you test the boards. You find which board is more even."
     }
    ]
@@ -2597,7 +2601,7 @@
     "2 sheets of A4 printer paper",
     "transparent tape, up to 40 centimetres",
     "2 stacks of books, 20 centimetres apart",
-    "30 or more identical coins",
+    "30 or more identical coins, or a bowl of dry rice and a spoon",
     "a small plastic cup"
    ],
    "general": [
@@ -2643,7 +2647,8 @@
        ]
       }
      ],
-     "context": "This is the first step of the Paper Beam challenge. You plan before you build."
+     "context": "This is the first step of the Paper Beam challenge. You plan before you build.",
+     "parent": "With 2 to 4 children, each child designs and builds a beam from two sheets. One adds the load, one counts, and one writes. Then compare all the designs and combine the best ideas."
     },
     {
      "id": "c1s2",
@@ -2651,7 +2656,7 @@
      "do": "Build your first design. Rest it on the books with the cup in the middle. Add coins one at a time. Count them. Keep going until it sags to the table or twists away. Write down the number.",
      "say": "Build your first beam. Put the cup in the middle. Add coins one at a time. Count them. Write the number down, so you have something to beat.",
      "kid": "Build your beam. Add coins one at a time. Count them. Write the number.",
-     "parent": "Place the cup carefully in the middle. Add coins gently so the beam does not twist. The first number is the one to beat.",
+     "parent": "Place the cup carefully in the middle. Add coins gently so the beam does not twist. The first number is the one to beat. A good tube can carry more coins than you own. Then add dry rice by level spoonfuls, or load the same 30 coins and compare how far each beam sags.",
      "context": "In this step, you build your first design and test it."
     },
     {
@@ -3122,7 +3127,7 @@
    "id": "b-clips",
    "item": "A box of steel paper clips",
    "kind": "material",
-   "why": "For the Bend Until It Snaps test. Ordinary steel clips work best, and a box has plenty of spares.",
+   "why": "For the Bend Until It Snaps test. Plain steel clips from any stationery shop work best, about Rs 20 a box. A box has plenty of spares.",
    "url": "https://www.amazon.in/s?k=steel+paper+clips+box",
    "used_in": [
     "e3"
@@ -3132,7 +3137,7 @@
    "id": "b-glue",
    "item": "A small bottle of white glue",
    "kind": "material",
-   "why": "For the Paper Plywood project. Any school white glue is fine.",
+   "why": "For the Paper Plywood project. A small Fevicol or school white glue costs about Rs 10 to 30 at a stationery shop.",
    "url": "https://www.amazon.in/s?k=white+glue+school+fevicol",
    "used_in": [
     "p1"
@@ -3142,7 +3147,7 @@
    "id": "b-lens",
    "item": "A magnifying glass",
    "kind": "tool",
-   "why": "To look at torn edges and breaks closely in the Grain Hunt and the paper clip test.",
+   "why": "To look at torn edges and breaks closely in the Grain Hunt and the paper clip test. A small one costs about Rs 50 to 100. The zoom of a phone camera also works.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a1",
@@ -3154,8 +3159,28 @@
    "id": "b-skewers",
    "item": "A pack of thin bamboo skewers",
    "kind": "material",
-   "why": "For the Grain Hunt. A pack from a grocery store is enough.",
+   "why": "For the Grain Hunt. A pack from a grocery or kitchen shop is enough. Bare bamboo sticks from an unused incense pack also work.",
    "url": "https://www.amazon.in/s?k=bamboo+skewers+sticks",
+   "used_in": [
+    "a1"
+   ]
+  },
+  {
+   "id": "b-sticks",
+   "item": "A pack of wooden ice-cream sticks",
+   "kind": "material",
+   "why": "For the Grain Hunt. A pack from a craft or stationery shop costs about Rs 20 and has plenty for a group.",
+   "url": "https://www.amazon.in/s?k=wooden+ice+cream+sticks",
+   "used_in": [
+    "a1"
+   ]
+  },
+  {
+   "id": "b-veg",
+   "item": "A celery stalk and a banana leaf",
+   "kind": "material",
+   "why": "For the Grain Hunt. A vegetable seller has celery and a flower seller has banana leaves, for a few rupees. A drumstick pod or sugarcane piece can replace the celery.",
+   "url": "https://www.amazon.in/s?k=celery",
    "used_in": [
     "a1"
    ]
@@ -3365,5 +3390,5 @@
    "Tao Te Ching 76, Chandogya Upanishad 6.1.4 and Zhuangzi chapter 4 (the teachings on the roots card)"
   ]
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Which Way Does It Tear: newspaper almost always tears straight along its columns. Printer paper shows the grain less clearly, so the fold test is given as a back-up, and a strip drooping the whole way is handled by shortening the overhang. The Tailor's Trick needs a woven cloth, not a stretchy T-shirt, and a cloth that is very new and stiff may stretch less than expected. Bend Until It Snaps: counts vary a lot between clips, so a limit of 60 bends is set and the spare clips are listed. A grown-up should be there because wire ends can spring. The Cardboard Bridge and Paper Bridges depend on the box and the paper, so numbers will differ from the examples. In the Paper Plywood project, boards can curl as they dry, so they are pressed under books overnight. The difference between the two boards is often modest, and the note says to write down what you see. Facts to verify before the unit is final: the Comet inquiry details, the date of Lakes' foam, the claim that Wöhler's work appeared in the journal named, and the two museum visits in Bengaluru and Dehradun (opening times). The three videos still need ids."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Which Way Does It Tear: newspaper almost always tears straight along its columns. Printer paper shows the grain less clearly, so the fold test is given as a back-up, and a strip drooping the whole way is handled by shortening the overhang. The Tailor's Trick needs a woven cloth, not a stretchy T-shirt, and a cloth that is very new and stiff may stretch less than expected. Bend Until It Snaps: counts vary a lot between clips, so a limit of 60 bends is set and the spare clips are listed. A grown-up should be there because wire ends can spring. The Cardboard Bridge and Paper Bridges depend on the box and the paper, so numbers will differ from the examples. In the Paper Plywood project, boards can curl as they dry, so they are pressed under books overnight. The difference between the two boards is often modest, and the note says to write down what you see. Facts to verify before the unit is final: the Comet inquiry details, the date of Lakes' foam, the claim that Wöhler's work appeared in the journal named, and the two museum visits in Bengaluru and Dehradun (opening times). The three videos still need ids. Feasibility pass: experiment and activity sizes were changed so the results are big enough to measure at home. The Paper Plywood boards now have four layers, because three layers hardly even out the direction. All numbers are typical and not promises."
 }

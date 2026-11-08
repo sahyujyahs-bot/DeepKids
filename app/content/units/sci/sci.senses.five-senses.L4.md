@@ -225,7 +225,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **Printable tokens: 10 tokens: two for each of the five ideas:** ADAPTING RECEPTORS; ADAPTING RECEPTORS; TOO SMALL A CHANGE; TOO SMALL A CHANGE; THE BRAIN GUESSES; THE BRAIN GUESSES; SIGNALS TAKE TIME; SIGNALS TAKE TIME; A FLEXIBLE BRAIN; A FLEXIBLE BRAIN
 - **Printable score sheet: Score sheet:** Player; Right idea (1 point each); Good reason (1 point each); Total
 - **s1 (4 min)**  
-  *Parent does:* Cut out the cards and the tokens. Shuffle the cards and put them in a pile. Read the five ideas on the tokens aloud once.  
+  *Parent does:* Cut out the cards and the tokens. Shuffle the cards and put them in a pile. Read the five ideas on the tokens aloud once. No printer? Write the five ideas on paper slips. Read the cards from the screen.  
   *Parent says:* We have five ideas that explain odd things your senses do. Adapting receptors. Too small a change. The brain guesses. Signals take time. A flexible brain. Each story fits one idea.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Read the five ideas.
 - **s2 (6 min)**  
@@ -254,8 +254,8 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 ### e1 · Ruler Drop: how long does a signal take? (45 min)
 - **question:** When a friend drops a ruler, how far does it fall before you catch it? Is the distance the same when you see it start to fall, hear a word, or feel a tap?
 - **predict:** Before you start, guess. Will you catch the ruler soonest by seeing it, hearing a word or feeling a tap? Which will be slowest? Why do you think so?
-- **fair test:** Use the same ruler, the same catcher and the same hand every time. The catcher's thumb and finger start at the 0 centimetre end, with the ruler hanging between them. The dropper waits a different time before each drop, so the catcher cannot guess. Each cue is tried 3 times as practice and then 7 times for the record. The rounds are done in one order, and then in the opposite order after the two people swap roles, so that tiredness or practice does not favour one cue. Only the cue changes, so any difference comes from the cue.
-- **safety:** Use a light ruler, so a miss does not hurt anyone's foot. The catcher sits down. Do not throw the ruler. Take a short break if your eyes feel tired.
+- **fair test:** Use the same ruler, the same catcher and the same hand every time. The catcher's thumb and finger start at the 0 centimetre end, with the ruler hanging between them. The dropper waits a different time before each drop, so the catcher cannot guess. Each cue is tried 3 times as practice and then 7 times for the record. The rounds are done in one order, and then in the opposite order after the two people swap roles, so that tiredness or practice does not favour one cue. Only the cue changes, so any difference comes from the cue. With 2 to 4 children, give three jobs: catcher, dropper and recorder. Rotate so each child is the catcher once, and give each catcher their own table. Two catchers fit in 45 minutes, so let the others catch in a second sitting.
+- **safety:** Use a light ruler, so a miss does not hurt anyone's foot. The catcher sits down. Do not throw the ruler. Take a short break if your eyes feel tired. Do not use a steel ruler.
 - **record:** For each cue, write the seven counted catch distances. Cross out the three practice tries. Then find the middle value of the seven. Draw a bar for each cue using its middle value.
 - **results table:** Try (counted) | Seeing: centimetres caught | Hearing: centimetres caught | Touch: centimetres caught
 - **s1 (5 min)**  
@@ -291,12 +291,12 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Child mode:* Put each set of seven in order. Pick the middle one. Which cue was fastest? Why?
   - Ask: Which cue gave the shortest catch distance, and does it match your guess? (good: Touch or hearing was quickest and seeing was slowest.; They were all about the same, so the cue did not matter much.; My guess was wrong, and I can say why I think so.)
   - Ask: Light travels almost instantly. So where was the time spent? (good: In the eye, the nerve and the brain.; In deciding to catch.; In the signal going down the arm to the hand.)
-  - Note: Typical results: a middle value of 12 to 20 centimetres for each cue, which is a fifth of a second or less. Touch and hearing are often 1 to 3 centimetres shorter than seeing, but luck can hide it. If the cues look the same, say so. That is a real result. Do not explain the cards yet. Let your child say where they think the time went. A guide to time: 5 cm is 0.10 seconds, 10 cm is 0.14, 15 cm is 0.17, 20 cm is 0.20, 25 cm is 0.23, and 30 cm is 0.25 seconds.
+  - Note: Typical results (not promised): a middle value of about 12 to 22 centimetres for each cue, which is a fifth of a second or less. Touch and hearing are often 1 to 3 centimetres shorter than seeing, but luck can hide it. If the cues look the same, say so. That is a real result. Do not explain the cards yet. Let your child say where they think the time went. A guide to time: 5 cm is 0.10 seconds, 10 cm is 0.14, 15 cm is 0.17, 20 cm is 0.20, 25 cm is 0.23, and 30 cm is 0.25 seconds.
   - Check: Why do we use the middle value of seven tries and not the biggest or smallest? → **One lucky or sleepy try cannot change the middle value much**
 ### e2 · The Bottle Lift: how big must a change be to feel it? (35 min)
 - **question:** How much heavier must a bottle be before you can tell which is heavier? Is the answer the same for a light bottle and for a heavy one?
 - **predict:** Before you start, guess. Will you need the same extra water for a heavy bottle as for a light bottle, or more, or less? Why do you think so?
-- **fair test:** All the bottles are the same kind, closed, and with the water hidden. The lifter is blindfolded, and lifts one bottle in each hand. The helper puts the heavier bottle in a random hand each time. Each comparison is tried 4 times. The light set has a standard bottle of 100 millilitres and the heavy set has a standard of 400 millilitres. The extra water in each comparison bottle is the same fraction in both sets. Only the weight of the standard changes, so any difference comes from that.
+- **fair test:** All the bottles are the same kind, closed, and with the water hidden. The lifter is blindfolded, and lifts one bottle in each hand. The helper puts the heavier bottle in a random hand each time. Each comparison is tried 4 times. The light set has a standard bottle of 100 millilitres and the heavy set has a standard of 400 millilitres. The extra water in each comparison bottle is the same fraction in both sets. Only the weight of the standard changes, so any difference comes from that. With 2 to 4 children, one is the lifter, one fills and keeps the key, and one writes right or wrong. Swap jobs for each set. Each lifter has their own results table, because every hand is different.
 - **safety:** Fill the bottles at the sink and wipe up any spills at once, because a wet floor is slippery. The lifter sits down while blindfolded.
 - **record:** For each set, write the smallest extra water that the lifter always got right. Then work out the extra as a share of the standard, out of 100. Compare the two shares.
 - **results table:** Set | Standard bottle (millilitres) | Smallest extra that I always got right (millilitres) | That extra as a share of the standard (out of 100)
@@ -321,18 +321,18 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Parent does:* Empty the bottles. Fill the standard with 400 millilitres. Fill the others with 440, 480, 520, 560 and 640 millilitres. Put new secret letters. Repeat the lifting test in the same way.  
   *Parent says:* Now the heavy set. The standard has 400 millilitres. The others have 40, 80, 120, 160 and 240 more. These steps are four times bigger than before, so we can compare fairly. Lift and tell me which is heavier.  
   *Child mode:* Fill A with 400 millilitres. Fill the others with more. Do the same test.
-  - Note: The extras are four times the light-set extras, so each is the same share of its standard. The standard has four times as much water. The empty bottle also has a small weight, so the shares will not match exactly. Wipe any spilled water.
+  - Note: The extras are four times the light-set extras, so each is the same share of its standard. The standard has four times as much water. The empty bottle also has a small weight, so the shares will not match exactly. Wipe any spilled water. If the lifter always gets 440 right, try 420 and 410 as well. All the numbers here are typical, not promised, and a few lifters will feel much smaller or larger steps.
 - **s5 (5 min)**  
   *Parent does:* For each set, find the smallest extra that was always right. Divide it by the standard and multiply by 100 to get the share. Ask your child for their claim, their evidence and their reasoning before you explain anything.  
   *Parent says:* Look at the smallest extra you always got right in each set. Divide that extra by the standard bottle. Multiply by 100 to get a share out of 100. What do you notice? What is your claim? What is your evidence? Why do you think it happened?  
   *Child mode:* Find the smallest extra you got right each time. Compare the two sets.
-  - Ask: Was the extra the same in both sets? Was the share the same? (good: The extra in grams was bigger for the heavy set, but the share was about the same.; The heavy set needed 4 times as much water.; The share out of 100 was about 10 to 20 in both.)
+  - Ask: Was the extra the same in both sets? Was the share the same? (good: The extra in millilitres was bigger for the heavy set, but the share was about the same.; The heavy set needed 4 times as much water.; The share out of 100 was about 10 to 20 in both.)
   - Note: Typical result: the lifter needs an extra of about 10 to 20 millilitres for the light set and about 40 to 80 for the heavy set. The share is about 10 to 20 out of 100 for both. If your results differ, write them as they are and, if you can, test again. Do not explain Weber's law yet. Let the child say what they found.
   - Check: A lifter needs an extra of 20 millilitres on a 100 millilitre bottle. About how much extra would they need on a 400 millilitre bottle if the share stays the same? → **About 80 millilitres**
 
 ## Activities
 ### a1 · The Tired Nose: how fast does a smell fade, and how fast does the nose wake up? (25 min)
-- **safety:** Check for food allergies and asthma first. Hold the katori about 10 centimetres from the nose and breathe normally. Never sniff hard. If anyone has a blocked or sore nose, use only the orange peel.
+- **safety:** Check for food allergies and asthma first. Hold the katori about 10 centimetres from the nose and breathe normally. Never sniff hard. If anyone has a blocked or sore nose, use only the orange peel. Keep the crushed spice away from eyes and do not taste it. Keep the katori away from small brothers and sisters, who may put it in their mouths.
 - **record:** Write how many seconds it took for the first smell to fade. Then write a score from 0 to 5 for the smell at 30 seconds, 1 minute and 3 minutes after the rest. Write the score for the second smell right after the first had faded.
 - **s1 (4 min)**  
   *Parent does:* Show your child the katori of spices and the orange peel. Ask for a guess and a reason about how long the smell will last. Write the guess on the table.  
@@ -344,13 +344,13 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Parent does:* Hold the katori about 10 centimetres from your child's nose and start the timer. Your child breathes normally and raises a hand when the smell is almost gone. Write the number of seconds.  
   *Parent says:* Breathe normally. Tell me what you smell. Raise your hand when it is almost gone. I will watch the clock.  
   *Child mode:* Breathe normally. Raise a hand when the smell is almost gone.
-  - Note: Most people say the smell fades within about 30 seconds to 2 minutes. If nothing fades after 3 minutes, stop and say so. That is a real result. Keep the katori at the same distance, and do not let the nose touch it.
+  - Note: Most people say the smell fades within about 30 seconds to 2 minutes. If nothing fades after 3 minutes, stop and say so. That is a real result. Keep the katori at the same distance, and do not let the nose touch it. If the spice is too faint to start with, crush it more or hold it 5 centimetres away. If the smell does not fade in 3 minutes, try orange peel as the first smell instead. Compare two children's fade times only as a fun fact, because noses and distances differ.
   - Check: The smell has almost gone. The cloves are still in the katori. What has changed? → **The nose is reporting the smell less**
 - **s3 (8 min)**  
   *Parent does:* Take the katori away. Your child rests by the open window. After 30 seconds, hold the katori to the nose again and score the smell from 0 to 5. Repeat after 1 minute and after 3 minutes. Write the scores.  
   *Parent says:* Come to the window and breathe the fresh air. After half a minute I will hold the spice again. Tell me how strong it is, from nothing to very strong.  
   *Child mode:* Rest at the window. Smell the spice again after a while. Give it a score.
-  - Note: Expected: the smell is weak after 30 seconds, stronger after 1 minute and nearly full after 3 minutes. The nose recovers in a few minutes. The numbers may vary, so write what you find.
+  - Note: Typical, not promised: the smell is weak after 30 seconds, stronger after 1 minute and nearly full after 3 minutes. The nose recovers in a few minutes. The numbers may vary, so write what you find.
 - **s4 (4 min)**  
   *Parent does:* Make the first smell fade again. Right after it fades, hold the orange peel to the nose and score the orange smell from 0 to 5.  
   *Parent says:* Let us fade the spice again. As soon as it is gone, smell this orange peel. How strong is the orange? What do you notice?  
@@ -363,7 +363,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Child mode:* What happened to the smell? What did you measure? Why did it happen?
   - Ask: Why might it be useful for the nose to fade a steady smell? (good: It lets the nose notice new smells.; It saves effort.; I would not want to smell my own clothes all day.)
 ### a2 · The Rubber Hand: can your eyes fool your skin? (25 min)
-- **safety:** Only soft brushes and a rubber glove are used. If anyone has a latex allergy, use a cloth or non-latex glove. The grown-up must not hit the glove hard. Only a gentle tap with a pencil, if the child agrees, is allowed. Stop if the child feels uneasy. The feeling is harmless and goes away within a few seconds.
+- **safety:** Only soft brushes and a rubber glove are used. If anyone has a latex allergy, use a cloth or non-latex glove. The grown-up must not hit the glove hard. Only a gentle tap with a pencil, if the child agrees, is allowed. Stop if the child feels uneasy. The feeling is harmless and goes away within a few seconds. With several children, only one child sits behind the screen at a time.
 - **record:** Write a score from 0 to 5 for 'how much the rubber hand feels like mine' after the matched round and after the out-of-time round. Write what you felt.
 - **s1 (4 min)**  
   *Parent does:* Show the glove, the screen and the brushes. Explain that you will stroke a hidden hand and a rubber hand. Ask for a guess and a reason.  
@@ -380,7 +380,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Parent does:* Take a brush in each hand. Stroke the hidden index finger and the same glove finger at the same moment, once each second, for two minutes. Ask 'where do you feel the touch?' at 30 seconds and 2 minutes. Score from 0 to 5.  
   *Parent says:* Keep looking at the rubber hand. I will stroke your hidden finger and the rubber finger together. Where do you feel the touch? How much does the rubber hand feel like yours, from nothing to very much?  
   *Child mode:* Watch the rubber hand. Say where you feel the touch. Give a score.
-  - Note: The two brushes must move in step, at the same speed and the same place. Most people, but not all, start to feel the touch in the rubber hand within about a minute. If your child feels nothing, that is a normal result, so write down 0.
+  - Note: The two brushes must move in step, at the same speed and the same place. Most people, but not all, start to feel the touch in the rubber hand within about a minute. If your child feels nothing, that is a normal result, so write down 0. About 6 to 8 in 10 people feel it, and it may take longer than a minute. With 2 to 4 children, one is the subject, two stroke (one brush each, practising to stay in step), and one keeps the clock and scores. Rotate. For a measurement, before and after each round, the subject shuts their eyes and slides the other index finger along the table edge to touch their hidden finger. Mark the spot with tape and measure how far it moved toward the rubber hand.
   - Check: Your child says the rubber hand 'feels like mine'. What is the best explanation? → **The brain matched what it saw with what it felt, and guessed that the rubber hand is part of the body**
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* Rest for a minute. Now stroke the hidden finger and the glove's finger at different times, for two minutes. Score again. Then, if your child agrees, tap the glove gently with a pencil and watch for a flinch.  
@@ -409,7 +409,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Parent does:* Show both shapes to one person at a time. Ask them which is 'bouba' and which is 'kiki'. Do not give a hint. Put a tick in the right column. Swap which sheet is on the left for every other person.  
   *Parent says:* Here are two shapes. One is called bouba and one is called kiki. Which is which? Go with the first feeling.  
   *Child mode:* Show the shapes. Ask which is bouba. Tick the tally.
-  - Note: Swap the sheets' positions for every other person, so that left and right do not matter. Ask different ages and people who speak other languages, if you can. Do not discuss the answer until you have asked everyone.
+  - Note: Swap the sheets' positions for every other person, so that left and right do not matter. Ask different ages and people who speak other languages, if you can. Do not discuss the answer until you have asked everyone. Say the two words the same way each time and never say 'round' or 'spiky'. Ask people one at a time, out of hearing of the next. If you cannot find 10 people, use a phone call or ask over two days, because fewer than 10 tell very little.
   - Check: Why do we swap which sheet is on the left for every other person? → **So that left or right does not change the answer**
 - **s4 (4 min)**  
   *Parent does:* Add up the tally. Work out how many people in every 10 said that 'bouba' is the round shape. Compare with your guess.  
@@ -439,7 +439,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Parent does:* On day 1, test each family member in the morning. The dropper holds the strip at the top. The catcher keeps thumb and finger open at the 0 end. Do 3 practice tries and then 7 counted tries. Write the middle value.  
   *Parent says:* Rest your arm on the table. Watch the strip. I will drop it without warning. Catch it as fast as you can. Seven counted tries. We will take the middle one.  
   *Child mode:* Rest your arm. Watch the strip. Catch it when it drops.
-  - Note: Test everyone at about the same time of day. Use the same method as in the Ruler Drop test. Write each person's middle value in centimetres and then read the time off the strip.
+  - Note: Test everyone at about the same time of day. Use the same method as in the Ruler Drop test. Write each person's middle value in centimetres and then read the time off the strip. If the cardboard strip flutters, fold it along its length or tape a second strip behind it. With 2 to 4 children, one drops, one writes and the rest catch in turn.
 - **s4 (12 min)**  
   *Parent does:* On day 2, test everyone again, but at a different time of day, for example after lunch or in the evening. Use the same method. Write the middle values.  
   *Parent says:* Today we test again at a different time of day. Same method, same rules. Are you faster or slower than yesterday? Why do you think so?  
@@ -451,7 +451,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Parent says:* Today you must catch the strip while counting backwards from 100 in sevens, out loud. What do you think will happen to your time? Then we will look at all three tests together and see who was fastest, and what changed.  
   *Child mode:* Count backwards from 100 in sevens. Catch the strip too. Is it harder?
   - Ask: Why might a busy mind slow down a reaction? (good: The brain has to do two jobs at once.; The decision to move waits for the counting.; Attention is shared and not all of it goes to the strip.)
-  - Note: Expected: most people are slower when distracted, often by a few centimetres. Draw the league table with a row for each person and a column for each test. Do not turn it into a contest about who is best, because reaction times change with the day.
+  - Note: Expected: most people are slower when distracted, often by a few centimetres. Draw the league table with a row for each person and a column for each test. Do not turn it into a contest about who is best, because reaction times change with the day. If counting back in sevens is too hard for your child, use threes. It should be hard but possible.
   - Check: A person catches the strip at 14 cm normally and 19 cm while counting backwards. About how much longer was the second time? → **About 0.03 seconds longer, from about 0.17 to 0.20 seconds**
   - Wait: Do this on day 3.
 
@@ -730,9 +730,9 @@ The World Comes In (sci.senses.L4): Topic-level song
 
 ## Things to buy
 - [A 30 centimetre plastic ruler](https://www.amazon.in/s?k=30+cm+plastic+ruler+school) (tool): For the Ruler Drop test and the Reaction Ruler. A plastic one is light and cannot hurt a foot. Most homes already have one. Used in e1, p1. 
-- [A measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+with+ml+marks+kitchen) (tool): For the Bottle Lift test, to measure the water. A kitchen measuring cup does the same job. Used in e2. 
-- [A set of soft paintbrushes and a pair of rubber kitchen gloves](https://www.amazon.in/s?k=soft+paint+brush+set+for+kids) (material): For the Rubber Hand activity. The brushes stroke both hands, and one glove is stuffed to become the rubber hand. Used in a2. 
-- [An Immense World, by Ed Yong](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): A book for parents about animal senses, including magnetism and electricity. Read short passages aloud. Used in g1. Read one animal chapter aloud over a week, after the unit.
+- [A measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+with+ml+marks+kitchen) (tool): For the Bottle Lift test, to measure the water. A kitchen measuring cup does the same job. A steel or plastic kitchen cup with ml marks costs well under Rs 100. Used in e2. 
+- [A set of soft paintbrushes and a pair of rubber kitchen gloves](https://www.amazon.in/s?k=soft+paint+brush+set+for+kids) (material): For the Rubber Hand activity. The brushes stroke both hands, and one glove is stuffed to become the rubber hand. Two soft brushes and one rubber glove cost about Rs 100 together at a stationery or kirana shop. Used in a2. 
+- [An Immense World, by Ed Yong](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): A book for parents about animal senses, including magnetism and electricity. Read short passages aloud. Optional: nothing in the unit depends on it, and a library copy is fine. Used in g1. Read one animal chapter aloud over a week, after the unit.
 
 ## Warm-up
 - Does a stronger touch make a nerve send bigger pulses or more pulses? → More pulses each second. All pulses are the same size.

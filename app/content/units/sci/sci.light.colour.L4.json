@@ -618,7 +618,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the cards and the tokens. Shuffle the cards and put them in a pile with the fronts showing. Give each player one token of each kind.",
+     "do": "Cut out the cards and the tokens. Shuffle the cards and put them in a pile with the fronts showing. Give each player one token of each kind. No printer? Copy each card on a paper slip, with the front on one side and the answer on the other. Use two kinds of bottle caps or coins as the tokens.",
      "say": "These cards describe lights, filters or paints being mixed. Each of us has two tokens. Lights add, and colours taken away. We will guess which kind of mixing each card shows, and what colour you get.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes two tokens.",
      "context": "This is the first step of Add or Take Away. You set up the cards and the tokens."
@@ -1302,7 +1302,7 @@
    "days": 1,
    "question": "When a red torch and a green torch shine on one white wall, what colour is the wall where they overlap? And what colour is each shadow of a pencil in front of the wall?",
    "predict": "Before you start, guess. What colour will the wall be where the red and green lights overlap? What colour will the pencil's shadows be? Why do you think so?",
-   "fair_test": "Use the same two torches, the same wall, the same pencil and the same dim room each time. Keep both torches about one metre from the wall. Change one thing at a time: first only red, then only green, then both. Look at each set-up for a full ten seconds, because your eyes need time to settle in a dim room. Safety: use LED or phone torches, because cellophane can melt on a hot bulb, and never shine a torch into anyone's eyes.",
+   "fair_test": "Use the same two torches, the same wall, the same pencil and the same dim room each time. Keep both torches between half a metre and one metre from the wall, and move them closer if the patches look faint. Change one thing at a time: first only red, then only green, then both. Look at each set-up for a full ten seconds, because your eyes need time to settle in a dim room. Safety: use LED or phone torches, because cellophane can melt on a hot bulb, and never shine a torch into anyone's eyes. Who does what: with one child, the child holds the red torch and the parent holds the green. With 2 to 4 children, one holds each torch, one holds the pencil and one is the recorder with the table. Swap jobs for each set-up. If you have only one phone, use a small LED torch for the second light.",
    "results_table": [
     "Lights on",
     "Colour of the wall where the light lands",
@@ -1311,7 +1311,7 @@
    ],
    "materials": [
     {
-     "item": "2 torches, or 2 phone torches",
+     "item": "2 small LED torches or phone torches (LED, not a hot bulb)",
      "qty": 2
     },
     {
@@ -1324,7 +1324,7 @@
      "qty": 2
     },
     {
-     "item": "a pencil standing upright in a lump of clay or dough",
+     "item": "a pencil, or better a thick marker pen, standing upright in a lump of clay or dough (a thick shadow is easier to see)",
      "qty": 1
     },
     {
@@ -1332,7 +1332,7 @@
      "qty": 1
     },
     {
-     "item": "a room you can make dim, such as a room with the curtains closed in the evening",
+     "item": "a room you can make dim: curtains closed in the evening, or at night with the other lights off (daylight washes the colours out)",
      "qty": 1
     },
     {
@@ -1422,13 +1422,13 @@
      "do": "Stand the pencil upright in the clay, a hand's width from the wall. Switch on the red torch alone from about one metre away. Look at the shadow. Then switch on the green torch alone and look again.",
      "say": "Here is the pencil. First only the red torch. What colour is the shadow? Now only the green. What colour is the shadow now?",
      "kid": "Stand the pencil near the wall. Shine the red torch. Look at the shadow. Now shine the green. Look again.",
-     "parent": "With one torch, the shadow is dark, and the rest of the wall is the colour of the torch. The shadow may look dark red, dark green or almost black. Write what you really see. This is your starting point for the next step.",
+     "parent": "With one torch, the shadow is dark, and the rest of the wall is the colour of the torch. The shadow may look dark red, dark green or almost black. Write what you really see. If the pencil's shadow is too thin to see, use a thick marker pen instead. This is your starting point for the next step.",
      "context": "In this step, you see the shadow of a pencil with only one light at a time."
     },
     {
      "id": "s4",
      "mins": 6,
-     "do": "Switch on both torches. Stand them about 40 centimetres apart and about one metre from the wall, so the two patches overlap. Look at the middle. Then look at the pencil's two shadows. Write the colours in the table.",
+     "do": "Switch on both torches. Stand them about 40 centimetres apart and about one metre from the wall, so the two patches overlap. Look at the middle. Then look at the pencil's two shadows. Write the colours in the table. Then move one torch back a hand-span at a time, and write how the middle colour changes each time.",
      "say": "Both torches now, side by side, so the patches overlap. What colour is the wall in the middle? How many shadows does the pencil have? What colour is each one?",
      "kid": "Switch on both torches. Make the patches overlap. What colour is the middle? What colour is each shadow?",
      "ask": [
@@ -1487,7 +1487,7 @@
      "do": "If you have a third torch, cover it with blue cellophane. Switch on all three so the patches overlap. Look at the middle and at the pencil's three shadows. With only two torches, swap the green one for blue and see what red and blue make.",
      "say": "Now a third torch, with blue. Where all three meet, what colour is the wall? What colours are the three shadows?",
      "kid": "Add a blue torch. What colour is the middle? What colours are the shadows?",
-     "parent": "Blue cellophane is dim, so use two layers and move the blue torch closer. Expect the middle to look white or pale. The three shadows should look cyan, magenta and yellow. With only two torches, red and blue give magenta. Green and blue give cyan. This step is a bonus. Skip it if your torches are weak.",
+     "parent": "Blue cellophane is dim, so use only one layer of blue and move the blue torch closer. Expect the middle to look white or pale. The three shadows should look cyan, magenta and yellow. With only two torches, red and blue give magenta. Green and blue give cyan. This step is a bonus. Skip it if your torches are weak.",
      "context": "In this step, you add a blue torch, or swap the green for blue, and look at the new colours."
     },
     {
@@ -1504,7 +1504,7 @@
   {
    "id": "e2",
    "title": "Highlighter Layers: do inks add colours or take them away?",
-   "mins": 25,
+   "mins": 27,
    "days": 1,
    "question": "When you colour one highlighter over another on white paper, do the colours add up like torch light, or do they take colours away?",
    "predict": "Before you start, guess. What colour will yellow over blue be? What colour will pink over yellow be? Will the crossing look brighter or darker than the single colours? Why do you think so?",
@@ -1518,7 +1518,7 @@
    ],
    "materials": [
     {
-     "item": "3 highlighters: a yellow, a pink and a blue (a blue-green one is fine)",
+     "item": "3 highlighters: a yellow, a pink and a blue (a blue-green one is fine). A light blue or turquoise sketch pen can stand in for the blue, but its layers will look weaker.",
      "qty": 3,
      "buy": "b-highlighters"
     },
@@ -1589,7 +1589,8 @@
      "do": "Use the ruler to draw three wide horizontal stripes across the first page: yellow, pink and blue. Leave a gap of one finger-width between them. Colour each with one slow stroke. Close each cap after use. Keep the pens away from your mouth and eyes.",
      "say": "Draw three stripes across the page. Yellow, then pink, then blue. One slow stroke each. Leave a gap between them.",
      "kid": "Draw three stripes across. Yellow, pink, blue. Leave gaps.",
-     "context": "In this step, you draw the first three stripes of the grid."
+     "context": "In this step, you draw the first three stripes of the grid.",
+     "parent": "Use plain printer or copy paper, because highlighter ink bleeds through thin paper. Try each pen on a scrap first. One child: the parent can draw a second grid with the same pens, to compare. 2 to 4 children: share the three pens and pass them round, so each child draws a grid on their own page. Then compare grids. Do different hands give different colours?"
     },
     {
      "id": "s3",
@@ -1652,8 +1653,8 @@
     },
     {
      "id": "s5",
-     "mins": 3,
-     "do": "On the second sheet, colour a short yellow stripe. Colour a blue stripe across it. Then colour a pink stripe across the crossing. Look at the colour where all three layers meet. Then colour one patch with blue first and yellow second, and compare it with yellow first and blue second.",
+     "mins": 5,
+     "do": "On the second sheet, colour a short yellow stripe. Colour a blue stripe across it. Then colour a pink stripe across the crossing. Look at the colour where all three layers meet. Then colour one patch with blue first and yellow second, and compare it with yellow first and blue second. Last, colour a yellow patch with one stroke, then two, then three. Write how the colour changes.",
      "say": "Three layers now. What colour is the middle where all three meet? Then try blue first and yellow second. Is it the same green?",
      "kid": "Put all three colours on top of each other. What colour is it? Does the order change anything?",
      "parent": "Three layers usually give a dark brownish or greyish colour. The order often makes only a small difference. If you see a small difference, write it down as a real result. Different inks soak in at different rates.",
@@ -1683,7 +1684,7 @@
      "qty": 1
     },
     {
-     "item": "felt pens: a blue-green (cyan or turquoise), a black and a pink (magenta)",
+     "item": "felt pens: a bold blue-green (cyan, turquoise, sky blue or sea-green), a black and a pink (magenta)",
      "qty": 3
     },
     {
@@ -1752,7 +1753,7 @@
      "do": "Put the flag under a bright lamp or in a sunny window. Look at the white dot in the middle. Count slowly to 30 without moving your eyes. Then look at a plain white wall, and keep your eyes still. Blink once.",
      "say": "Stare at the white dot. Count slowly to thirty. Do not move your eyes. Now look at the white wall. What do you see?",
      "kid": "Stare at the white dot. Count to thirty. Do not move your eyes. Then look at the white wall.",
-     "parent": "Expect a faint ghost flag with a reddish-orange top, a whitish middle and a greenish bottom, for a few seconds. It fades fast. If nothing appears, stare for 45 seconds under a brighter light, and look at a plain white wall, not a textured one. Some people see it clearly and others only faintly. Both are normal. Safety: stare only at the paper, never at the Sun or at a bare bulb.",
+     "parent": "Expect a faint ghost flag with a reddish-orange top, a whitish middle and a greenish bottom, for a few seconds. It fades fast. If nothing appears, stare for 45 seconds under a brighter light, and look at a plain white wall, not a textured one. Some people see it clearly and others only faintly. Both are normal. Rest your eyes for a minute between tries. Safety: stare only at the paper, never at the Sun or at a bare bulb.",
      "check": {
       "t": "mcq",
       "q": "The top stripe was blue-green. On the white wall you saw a faint orange-red stripe there. Where was the orange-red made?",
@@ -1769,7 +1770,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask another person to try the same test, while you watch. Ask them to say what they see. Compare what they say with what you saw.",
+     "do": "Ask another person to try the same test, while you watch. Ask them to say what they see. Compare what they say with what you saw. With 2 to 4 children, everyone tries it at the same time and calls out how many seconds their ghost flag lasts. Write the times down and compare.",
      "say": "Now let someone else try. Do they see the same flag? Are the colours the same as yours?",
      "kid": "Ask someone else to try. Do they see the same flag?",
      "parent": "People differ. Some see a clear tricolour, some see faint patches. That tells us that afterimages depend on the eye that makes them. Draw both flags if you can.",
@@ -1811,7 +1812,8 @@
     },
     {
      "item": "a magnifying glass, if you have one (a phone camera zoomed in works too)",
-     "qty": 1
+     "qty": 1,
+     "buy": "b-magnifier"
     },
     {
      "item": "a corridor, a long room or a terrace where you can walk away about 8 big steps",
@@ -1867,7 +1869,7 @@
      "do": "Stick the paper on a wall at eye height. Stand close, at about 30 centimetres. Look at the stripes. Say what you see. Then take one big step back and look again. Keep stepping back one step at a time.",
      "say": "Stand close and look at the stripes. Now step back, one step at a time. Look after each step. When do the stripes stop being stripes?",
      "kid": "Look at the stripes up close. Step back one step at a time. When do they blend?",
-     "parent": "Fine pen stripes usually blend between 2 and 6 big steps away, depending on your eyes and the pens. If the room is short, use a corridor or a terrace. If the stripes never blend, they are too wide. Draw thinner ones.",
+     "parent": "Fine pen stripes usually blend between 2 and 8 big steps away (thicker pens need more steps), depending on your eyes and the pens. If the room is short, use a corridor or a terrace, or squint, which blurs the stripes sooner. Eyes differ, so with 2 to 4 children each child stands where they think the stripes blend and the others mark the spot with a shoe. Compare. With one child, the parent does the same test. If the stripes never blend, they are too wide. Draw thinner ones.",
      "context": "In this step, you start walking away from the stripes and look after every step."
     },
     {
@@ -1896,7 +1898,7 @@
      "do": "Look closely at a colour photo in a newspaper or magazine, with a magnifying glass, or with a phone camera zoomed in. Find the small dots. Draw the colours of the dots you can find.",
      "say": "Now look at a printed photo, very close. What do you see? Draw the colours of the little dots. How many different colours of dots are there?",
      "kid": "Look closely at a printed photo. Draw the dots you see.",
-     "parent": "You should find tiny dots of cyan (blue-green), magenta (pink), yellow and black. Together these make every colour in the picture. Cheap newspaper photos show the dots best. If you only see a blur, use a stronger magnifier or a bigger zoom.",
+     "parent": "You should find tiny dots of cyan (blue-green), magenta (pink), yellow and black. Together these make every colour in the picture. Use a colour picture from a newspaper supplement, magazine or flyer, not a black-and-white page. Cheap printing shows the dots best. If you only see a blur, use a stronger magnifier or a bigger zoom.",
      "think": "A printed photo is made of only four colours of ink. Where do all the other colours come from?",
      "context": "In this step, you look at the dots that make up a printed colour photo."
     }
@@ -1905,7 +1907,7 @@
   {
    "id": "a3",
    "title": "Navy or Black? Colours under different lamps",
-   "mins": 20,
+   "mins": 24,
    "days": 1,
    "materials": [
     {
@@ -1921,26 +1923,31 @@
      "qty": 1
     },
     {
-     "item": "a warm yellowish bulb (a warm-white LED or a regular bulb), in a lamp you can move or in the room",
+     "item": "a warm yellowish light: a warm-white bulb, or a phone torch with yellow cellophane held over it in a dark room",
      "qty": 1
     },
     {
-     "item": "a cool white bulb or tubelight, if you have one",
+     "item": "a cool white light: a tubelight or cool-white LED bulb, or the plain phone torch in a dark room",
      "qty": 1
     },
     {
      "item": "a notebook and a pencil",
      "qty": 1
+    },
+    {
+     "item": "a small piece of yellow cellophane (optional, to make a warm light)",
+     "qty": 1,
+     "buy": "b-cellophane"
     }
    ],
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
+     "mins": 24,
      "what": "Look at the dark things under daylight, a warm bulb and a cool bulb. Write which ones are easy or hard to tell apart."
     }
    ],
-   "record": "Fill in a table with one row for each kind of light: how easy it was to tell navy from black, and what colour the white paper looked. Write which light was best for choosing dark clothes.",
+   "record": "Fill in a table with one row for each kind of light: how easy it was to tell navy from black, and what colour the white paper looked. Write your score out of 4 for each light. Write which light was best for choosing dark clothes.",
    "context": "In this activity, you look at the same dark things under different lamps. You find out when navy and black look alike, and why.",
    "setup": [
     {
@@ -1978,8 +1985,8 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "Carry the things to a window in the daytime, away from direct sun. Look at the navy and the black side by side. Write if it is easy, hard or not possible to tell them apart. Look at the white paper and write its colour.",
+     "mins": 7,
+     "do": "Carry the things to a window in the daytime, away from direct sun. Look at the navy and the black side by side. Write if it is easy, hard or not possible to tell them apart. Look at the white paper and write its colour. Now close your eyes while a partner hands you the navy or the black without saying which. Say which you think it is. Do this 4 times and write your score out of 4. With 2 to 4 children, take turns to be the partner and the guesser. With one child, the parent is the partner.",
      "say": "First, daylight. Can you tell the navy from the black? Which is darker? What colour is the white paper?",
      "kid": "Look at the dark things in daylight. Can you tell navy from black? What colour is the paper?",
      "parent": "In daylight, navy usually looks clearly blue and black looks black, so they are easy to tell apart. The white paper looks white.",
@@ -1987,8 +1994,8 @@
     },
     {
      "id": "s3",
-     "mins": 5,
-     "do": "Take the things into a room lit only by a warm yellowish bulb. Switch off other lights and close the curtains. Look again. Write if it is easy, hard or impossible to tell navy from black. Write the colour of the white paper.",
+     "mins": 6,
+     "do": "Take the things into a room lit only by a warm yellowish light (a warm bulb, or a phone torch with yellow cellophane held close to the things). Switch off other lights and close the curtains. Look again. Write if it is easy, hard or impossible to tell navy from black. Write the colour of the white paper. Repeat the 4-try naming test and write your score.",
      "say": "Now the warm yellow bulb. Look at navy and black again. Can you still tell them apart? What colour is the white paper now?",
      "kid": "Look at the dark things under the warm bulb. Can you tell navy from black?",
      "parent": "Under a warm bulb, navy and black often look almost the same. The white paper looks yellowish, though your eyes may call it white after a minute. If you only have one kind of bulb, compare it with daylight. Never judge navy or black from a dim warm bulb. Safety: a regular bulb gets hot, so an adult should move the lamp and switch it off before anyone touches it. An LED bulb stays cooler.",
@@ -2007,11 +2014,11 @@
     },
     {
      "id": "s4",
-     "mins": 4,
-     "do": "If you have a cool white bulb or a tubelight, repeat the test in a room lit only by that light. Write the results. If you do not have one, hold a phone torch with yellow cellophane over it and compare with the plain phone torch.",
+     "mins": 5,
+     "do": "Now use a cool white light: a tubelight, a cool-white LED bulb, or the plain phone torch in a dark room. Do the 4-try test again. Compare the three scores.",
      "say": "Now a cool white light. Is it easy to tell navy from black here? What colour is the paper now?",
      "kid": "Look under the cool white light. Can you tell navy from black?",
-     "parent": "Cool white light gives out more blue, so navy shows up as blue. A phone torch with yellow cellophane is a cheap way to make a warm light.",
+     "parent": "Cool white light gives out more blue, so navy shows up as blue. Most homes have a cool-white bulb but no warm one. If so, make the warm light of step 3 with a phone torch and yellow cellophane. Scores are small numbers, so treat them as a clue, not proof.",
      "context": "In this step, you look at the dark things under a cool white light, or a plain torch."
     },
     {
@@ -2098,7 +2105,7 @@
      "do": "Hold the red cellophane over one eye, or in front of your eyes like a window. Look at both words. Then look through the green cellophane. Write down what each word looks like each time.",
      "say": "Look through the red cellophane. Which word is easy to see? Which one has vanished? Now try green. What changes?",
      "kid": "Look through the red sheet. Then the green. Which word vanishes each time?",
-     "parent": "Through the red cellophane, the red word seems to vanish into the white paper and the green word looks dark. Through the green cellophane, the green word vanishes and the red word looks dark. It is the same trick as the red torch and the green leaf. The paper can look a little pink or green through the sheet.",
+     "parent": "Through the red cellophane, the red word seems to vanish into the white paper and the green word looks dark. Through the green cellophane, the green word vanishes and the red word looks dark. It is the same trick as the red torch and the green leaf. The paper can look a little pink or green through the sheet. If the red word only fades and does not vanish, use two layers of cellophane, a brighter room, or a truer red pen. Some sweet wrappers are orange, not red, and will not work as well.",
      "check": {
       "t": "mcq",
       "q": "Through red cellophane, the red word vanished and the green word turned dark. Why?",
@@ -2115,7 +2122,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Write a secret message to a friend in red felt pen on white paper. Ask them to read it with the green cellophane. Then ask them to read it with the red cellophane, and notice what happens.",
+     "do": "Write a secret message in red felt pen on white paper. Then scribble green felt-pen lines all over and around the words. Give it to a friend. Ask them to look through the green cellophane (the green scribbles fade and the red message shows dark), and then through the red cellophane (the message hides), and say what happens. With one child, the parent is the friend. With 2 to 4 children, swap messages in pairs.",
      "say": "Write a short secret message to a friend, in red. Give them the green cellophane to read it with. Then the red one. What happens?",
      "kid": "Write a secret in red. Read it through green. Then red. What happens?",
      "think": "A message in red vanishes through red cellophane. What colour of pen would vanish through blue cellophane?",
@@ -2132,7 +2139,7 @@
    "mins": 50,
    "materials": [
     {
-     "item": "a thin white cloth or an old white pillowcase, about 1 metre square, to use as a screen",
+     "item": "a thin white cotton cloth, such as an old dupatta, bedsheet or thin pillowcase, about 1 metre square, to use as a screen (a thick cloth lets too little light through)",
      "qty": 1
     },
     {
@@ -2161,7 +2168,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the windows in the card, because scissors and craft knives can slip.",
+   "safety": "A grown-up cuts the windows in the card, because scissors and craft knives can slip. Use LED or phone torches only, because cellophane can melt on a hot bulb.",
    "schedule": [
     {
      "day": 1,
@@ -2234,7 +2241,7 @@
      "do": "Let the glue dry until tomorrow. Meanwhile, hang the screen between two chairs or on a clothes line. Make the room dim. Try a test: hold a puppet close behind the screen and shine a torch from behind.",
      "say": "While the glue dries, hang the white cloth between two chairs. Switch off the lights. Hold the puppet close to the cloth and shine a torch from behind it. Look from the front.",
      "kid": "Hang the cloth. Hold the puppet close behind it. Shine a torch from behind. Look from the front.",
-     "parent": "The puppet must be close to the screen to make a sharp shadow. Hold the torch about a metre behind the puppet. Make the room dim, and shine the torch so that it lights the screen from behind.",
+     "parent": "The puppet must be close to the screen to make a sharp shadow. Hold the torch about a metre behind the puppet. Make the room dim, and shine the torch so that it lights the screen from behind. If the coloured windows look dim, make the room darker and move the torch closer to the puppet.",
      "wait": "Leave the glue to dry until tomorrow, then continue.",
      "context": "In this step, you hang the screen and make a first test."
     },
@@ -2244,7 +2251,7 @@
      "do": "Perform a short show with a white torch behind the screen. Make each puppet walk, fly or dance. Look at the screen from the front and see the dark body and the coloured windows.",
      "say": "Perform a small show with the white torch. What do you see on the screen? What colour is each window? What colour is the body?",
      "kid": "Put on a show with the white torch. What colours do the windows show?",
-     "parent": "With a white torch, the dark body of the puppet blocks the light, and each cellophane window lets through its own colour. This is the same as red cellophane on a torch, but smaller.",
+     "parent": "With a white torch, the dark body of the puppet blocks the light, and each cellophane window lets through its own colour. This is the same as red cellophane on a torch, but smaller. One child: the child works the puppet and the parent holds the torch. With 2 to 4 children: one holds the torch, one or two work puppets, and one watches from the front and writes what each window looks like. Swap jobs for each show.",
      "context": "In this step, you perform a short show with a white torch and look at the colours."
     },
     {
@@ -2291,8 +2298,8 @@
     "Keep the torches the same distance from the wall for the main count, and keep the room dim."
    ],
    "materials": [
-    "three torches, or three phone torches",
-    "red, green and blue cellophane, folded into two layers over each torch, with rubber bands",
+    "three torches, or three phone torches (borrow from the family if you need to)",
+    "red, green and blue cellophane, held over each torch with rubber bands (two layers for red and green, one layer for blue, which is dim)",
     "a plain white wall, or a big sheet of white card",
     "a dim room, such as a room with the curtains closed in the evening",
     "paper and a pencil for the recipes"
@@ -2349,7 +2356,7 @@
      "do": "Try every setting of the three torches and write the recipe and the colour for each. Include the setting with all three torches off. Check whether any recipes give the same look.",
      "say": "Try every setting. Write the recipe and the colour. Do not forget the setting with all three off. Tick each one off your list.",
      "kid": "Try every setting. Write the recipe and the colour. Tick each one off.",
-     "parent": "Expect eight looks: dark, red, green, blue, yellow (red and green), cyan (green and blue), magenta (red and blue) and white. Some may look slightly different from these because cheap cellophane is not pure. Write what you really see.",
+     "parent": "Expect eight looks: dark, red, green, blue, yellow (red and green), cyan (green and blue), magenta (red and blue) and white. Some may look slightly different from these because cheap cellophane is not pure. Write what you really see. Prop phones on a pile of books so your hands are free. With only two torches, swap the cellophane between them to try the pairs: red and green, green and blue, red and blue. You will miss white until you borrow a third light. One child: the parent holds one torch. 2 to 4 children: give each child a torch and one child writes the recipes, then swap.",
      "check": {
       "t": "mcq",
       "q": "Three torches are each on or off. How many different settings are there, counting all off?",
@@ -2833,7 +2840,7 @@
    "id": "b-cellophane",
    "item": "Coloured cellophane sheets: red, green, blue and yellow",
    "kind": "material",
-   "why": "Colour filters for the torches, the vanishing message and the puppet show. A red or green see-through sweet wrapper works too.",
+   "why": "Colour filters for the torches, the vanishing message and the puppet show. A red or green see-through sweet wrapper works too, and so do coloured plastic file folders from a stationery shop. About Rs 40 to 60 for a few sheets.",
    "url": "https://www.amazon.in/s?k=coloured+cellophane+sheets",
    "used_in": [
     "e1",
@@ -2846,7 +2853,7 @@
    "id": "b-highlighters",
    "item": "A set of highlighters in yellow, pink, blue and green",
    "kind": "material",
-   "why": "For the Highlighter Layers test. A pack from a stationery shop is enough.",
+   "why": "For the Highlighter Layers test. A pack from a stationery shop is enough (about Rs 60 to 120). Borrow a blue one if you can, since it is the hardest to find in a small shop.",
    "url": "https://www.amazon.in/s?k=highlighter+pens+set",
    "used_in": [
     "e2"
@@ -2856,7 +2863,7 @@
    "id": "b-magnifier",
    "item": "A small magnifying glass",
    "kind": "tool",
-   "why": "To see the dots in a printed photo and the stripes on a screen.",
+   "why": "Optional. To see the dots in a printed photo and the stripes on a screen. A phone camera zoomed in also works.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a2"
@@ -3035,5 +3042,5 @@
   ],
   "art": "A white wall lit yellow by a red torch and a green torch, with an eye in front of it and three small arrows going from the eye into a thought bubble that says yellow."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet done at home. Two Torches, Two Shadows: this is the core test. It needs a dim room, two torches or phone torches, and red and green cellophane or sweet wrappers. Cheap cellophane lets some white light through, so the colours are a little pale. The overlap often looks orange or yellow-green, not pure yellow, and the step tells you how to balance it by moving a torch back. The shadows are faint in a bright room, so do it in the evening with the curtains closed. Highlighter Layers: the crossings of yellow and blue, pink and yellow, and pink and blue give green, orange-red and purple with most highlighters. A three-layer patch is dark. Brands differ, so the table asks for what you really see. The Wrong-Colour Flag works for most people, but the ghost is faint and short. The step says to stare for 30 seconds and to try 45 seconds if nothing appears. Stripes That Blend: the distance at which fine pen stripes blend depends on the pen and on your eyes. A corridor or a terrace helps. Navy or Black needs one warm bulb and daylight. Many homes have LED bulbs of different warmth, so any two will do. Games and projects: Add or Take Away has 24 cards and 8 tokens and works with 2 to 4 players. The puppet show needs a grown-up to cut windows. Never look at the Sun through cellophane. Numbers to check before sharing: about 1 boy or man in 12 and about 1 girl or woman in 200 have a colour vision difference. Dogs have two kinds of cone cell and many birds have four. These are widely reported figures and are worth checking against a recent source."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet done at home. Two Torches, Two Shadows: this is the core test. It needs a dim room, two torches or phone torches, and red and green cellophane or sweet wrappers. Cheap cellophane lets some white light through, so the colours are a little pale. The overlap often looks orange or yellow-green, not pure yellow, and the step tells you how to balance it by moving a torch back. The shadows are faint in a bright room, so do it in the evening with the curtains closed. Highlighter Layers: the crossings of yellow and blue, pink and yellow, and pink and blue give green, orange-red and purple with most highlighters. A three-layer patch is dark. Brands differ, so the table asks for what you really see. The Wrong-Colour Flag works for most people, but the ghost is faint and short. The step says to stare for 30 seconds and to try 45 seconds if nothing appears. Stripes That Blend: the distance at which fine pen stripes blend depends on the pen and on your eyes. A corridor or a terrace helps. Navy or Black needs daylight and one warm light (a warm bulb, or a phone torch with yellow cellophane). Many homes have LED bulbs of different warmth, so any two will do. Games and projects: Add or Take Away has 24 cards and 8 tokens and works with 2 to 4 players. The puppet show needs a grown-up to cut windows. Never look at the Sun through cellophane. Numbers to check before sharing: about 1 boy or man in 12 and about 1 girl or woman in 200 have a colour vision difference. Dogs have two kinds of cone cell and many birds have four. These are widely reported figures and are worth checking against a recent source."
 }

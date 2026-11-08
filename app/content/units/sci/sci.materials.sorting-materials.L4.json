@@ -632,9 +632,10 @@
     "One player is the Judge. The Judge secretly writes a cut-off number between 6 and 15 on a slip of paper and folds it.",
     "Squishy means a squish score at or above the cut-off. Everything below it is firm.",
     "The other players take turns to point at one card and ask, 'Is this card squishy?' The Judge says yes or no, using the cut-off.",
-    "Each guesser asks two questions. Then each guesser writes down a guess for the cut-off number.",
+    "Each guesser asks two questions. Then each guesser secretly writes down a guess for the cut-off number.",
     "The Judge opens the slip. A guess that is exactly right wins 3 tokens. A guess one away wins 2 tokens. A guess two away wins 1 token.",
-    "The Judge wins 1 token for each guesser who is three or more away. Then the next player becomes the Judge. After everyone has been the Judge once, the player with the most tokens wins."
+    "The Judge wins 1 token for each guesser who is three or more away. Then the next player becomes the Judge. After everyone has been the Judge once, the player with the most tokens wins.",
+    "If you run out of tokens, keep the score on paper."
    ],
    "flow": [
     {
@@ -643,7 +644,8 @@
      "do": "Cut out the 24 cards and the 20 tokens. Lay the cards in a row, from the highest squish score to the lowest. Check that the order is a ladder.",
      "say": "These cards have squish scores from 1 to 20. We lay them in a row from the highest to the lowest. That makes a ladder.",
      "kid": "Cut out the cards. Lay them in a row from 20 down to 1.",
-     "context": "This is the first step of Where Is the Line? You set up the cards and make the ladder."
+     "context": "This is the first step of Where Is the Line? You set up the cards and make the ladder.",
+     "parent": "Young children can ask a grown-up to cut with scissors. No printer? Write each card's name and score on a slip of paper. The back lines are not needed to play. With only two players, the child can be the Judge first so a grown-up has to guess."
     },
     {
      "id": "s2",
@@ -1499,7 +1501,7 @@
   {
    "id": "e1",
    "title": "The Katori Map: two numbers for ten kitchen foods",
-   "mins": 45,
+   "mins": 40,
    "days": 1,
    "question": "If you sort ten kitchen foods by the mass of one katori, is there a gap in the ladder? And if you also measure how tall each food piles up, do the foods fall into clumps?",
    "predict": "Before you start, guess. Which food will be the heaviest in a katori, and which the lightest? Which will make the tallest heap? Will any foods sit close together on both counts? Why do you think so?",
@@ -1521,6 +1523,10 @@
      "qty": 10
     },
     {
+     "item": "closed jars, boxes or the food's own packets, to keep each food dry and to pour it back into",
+     "qty": 10
+    },
+    {
      "item": "a kitchen scale that shows grams, or a neighbour's or a kirana shop's scale",
      "qty": 1
     },
@@ -1533,7 +1539,7 @@
      "qty": 1
     },
     {
-     "item": "a ruler or knife handle for levelling the top of the katori",
+     "item": "the flat back of a steel spoon or a ruler, for levelling the top of the katori",
      "qty": 1
     },
     {
@@ -1545,7 +1551,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to, and use another dry food from the kitchen. Wash your hands after the test.",
+   "safety": "Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to, and use another dry food from the kitchen. Wash your hands after the test. Keep small grains and seeds away from the mouths and noses of little brothers and sisters. A grown-up should help anyone under six.",
    "record": "For each food, write the mass of one katori and two heap heights. Then find the average height. Last, draw the map, with one dot for each food, and ring the clumps you see.",
    "context": "In this experiment, you weigh one katori of each of ten foods and measure how tall each food piles up. Then you draw a map with both numbers and look for clumps.",
    "setup": [
@@ -1558,8 +1564,8 @@
      "caption": "2. Make a ladder from lightest to heaviest. Draw a line where you think heavy foods begin."
     },
     {
-     "art": "A hand holding a katori 5 centimetres above the middle of a plate while a food pours into a heap.",
-     "caption": "3. Pour the food slowly onto the plate from 5 centimetres up."
+     "art": "A hand holding a katori 10 centimetres above the middle of a plate while a food pours into a heap.",
+     "caption": "3. Pour the food slowly onto the plate from 10 centimetres up."
     },
     {
      "art": "A ruler standing next to a small heap of food on a plate, measuring its height in millimetres.",
@@ -1573,7 +1579,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
+     "mins": 4,
      "do": "Line up the ten foods. Ask your child to guess which will be the heaviest in a katori and which the lightest. Ask which will make the tallest heap. Write the guesses and the reasons.",
      "say": "We will measure two things about ten foods. First, how heavy one katori of each is. Second, how tall a heap each makes. Which will be heaviest? Which will make the tallest heap? Why do you think so?",
      "kid": "Guess first. Which food is heaviest in a katori? Which piles tallest? Why?",
@@ -1592,11 +1598,11 @@
     },
     {
      "id": "s2",
-     "mins": 9,
+     "mins": 8,
      "do": "Put the empty katori on the scale and press zero. If your scale has no zero button, weigh the empty katori and subtract it later. Fill the katori with salt and level the top with a ruler. Weigh it and write the grams. Do the same for the other nine foods.",
      "say": "Weigh one katori of each food. Fill it level every time. Write the grams in the table.",
      "kid": "Fill the katori level. Weigh it. Write the grams. Do all ten foods.",
-     "parent": "Keep the food in the katori after weighing, to use for the heap in step four. If you have no scale at home, a kirana shop or a neighbour will often weigh the katoris. Without a scale, rank the ten katoris by holding two at a time, and use the ranks 1 to 10 instead of grams.",
+     "parent": "Keep the food in the katori after weighing, to use for the heap in step four. If you have no scale at home, a kirana shop or a neighbour will often weigh the katoris. Without a scale, rank the ten katoris by holding two at a time, and use the ranks 1 to 10 instead of grams. One child with a parent: the child fills, levels and weighs, and the parent writes the table. Two to four children: one fills and levels, one weighs and one writes. Swap jobs after every food. Each child then draws their own map from the shared table. Typical masses of a steel katori of food are roughly 70 to 200 grams, but katoris differ, so trust your own numbers.",
      "check": {
       "t": "mcq",
       "q": "Why do you level the top of the katori for every food?",
@@ -1612,7 +1618,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 5,
      "do": "Write the ten foods in a column, from the lightest to the heaviest. This is your ladder. Draw a line where you think the heavy foods begin. Ask a family member to draw their line on their own copy. Compare the two lines.",
      "say": "Write the foods in order, lightest to heaviest. Draw a line where heavy foods begin. Ask someone else to draw theirs. Are the groups the same?",
      "kid": "Make the ladder. Draw your line. Ask a friend to draw theirs.",
@@ -1631,11 +1637,11 @@
     },
     {
      "id": "s4",
-     "mins": 10,
-     "do": "Spread newspaper and put the plate on it. Hold the katori of food about 5 centimetres above the middle of the plate. Pour slowly into a heap. Stand the ruler beside the heap and read its height in millimetres. Pour the food back, and do it again. Do this for all ten foods.",
-     "say": "Pour each food slowly onto the plate from 5 centimetres up. Measure the height of the heap in millimetres. Do each food twice.",
+     "mins": 9,
+     "do": "Spread newspaper and put the plate on it. Hold the katori of food about 10 centimetres above the middle of the plate. Pour slowly into a heap. Stand the ruler beside the heap and read its height in millimetres. Pour the food back, and do it again. Do this for all ten foods.",
+     "say": "Pour each food slowly onto the plate from 10 centimetres up. Measure the height of the heap in millimetres. Do each food twice.",
      "kid": "Pour the food into a heap. Measure the height. Do it twice.",
-     "parent": "Flours make dust, so pour slowly. Smooth, round seeds such as mustard usually make flatter heaps, and flours usually make taller ones, but write down what you get. If a heap slumps, measure the height after it settles.",
+     "parent": "Flours make dust, so pour slowly. Smooth, round seeds such as mustard usually make flatter heaps, and flours usually make taller ones, but write down what you get. If a heap slumps, measure the height after it settles. The heap can be 50 millimetres tall, so pouring from 10 centimetres keeps the katori clear of the heap. Tilt the katori slowly so the food falls in a thin stream. One child pours, one reads the ruler at eye level and one writes. Swap for the second pour. If two pours differ by more than 5 millimetres, pour a third time and average the two closest. Typical heaps are roughly 20 to 60 millimetres, but your numbers may differ. In damp or hot weather, salt, sugar and flours soak up water and form lumps. Keep each food in a closed jar until its turn and say in your notes if a food lumps.",
      "check": {
       "t": "mcq",
       "q": "Why do you pour every food from the same height?",
@@ -1651,7 +1657,7 @@
     },
     {
      "id": "s5",
-     "mins": 10,
+     "mins": 9,
      "do": "Draw two lines on the paper. Along the bottom, write mass in grams. Up the side, write height in millimetres. For each food, find its mass across and its average height up, and put a dot there. Write the food name by the dot. Then ring any dots that sit close together.",
      "say": "Draw your map. Mass goes across and height goes up. Put a dot for each food. Which dots sit close together? Draw a ring round each clump.",
      "kid": "Draw the map. One dot for each food. Ring the dots that sit together.",
@@ -1719,7 +1725,7 @@
      "qty": 1
     }
    ],
-   "safety": "Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Wash your hands after.",
+   "safety": "Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Wash your hands after. Pick up any dal that falls on the floor, so nobody slips.",
    "record": "For each round, write how many pieces are in the toor bowl. Then count carefully how many of those are chana dal. Work out how many toor dal pieces are not in the bowl.",
    "context": "In this experiment, you sort a mix of toor dal and chana dal twice, in thirty seconds each time. In one round you are strict and in the other you are relaxed. Then you count the two kinds of mistake.",
    "setup": [
@@ -1781,7 +1787,7 @@
        ]
       }
      ],
-     "parent": "Chana dal pieces are usually a little larger and a deeper yellow than toor dal, but brands differ. They look much alike, and that is the point. If yours look very different, use two dals that look more alike, such as toor dal and split moong dal with its skin removed.",
+     "parent": "Chana dal pieces are usually a little larger and a deeper yellow than toor dal, but brands differ. They look much alike, and that is the point. If yours look very different, use two dals that look more alike, such as toor dal and split moong dal with its skin removed. If your child makes no mistakes in either round, that is a real result. Make the task harder. Use 15 seconds instead of 30, or sort from arm's length, or use the more alike pair. Mistakes then appear, because hurry and doubt cause them. One child with a parent: the parent keeps time and counts. Two to four children: each child sorts their own 20 and 20 on a tray, while another child times and a third counts. Rotate the jobs and give each sorter a row in the table. Compare the rows.",
      "context": "In this step, you meet the two dals and mix them into one heap."
     },
     {
@@ -1840,7 +1846,7 @@
        ]
       }
      ],
-     "parent": "A good reason says that the two groups look alike, so no rule can be right every time. Moving from strict to relaxed swaps one kind of mistake for the other. Let your child say it first. Then read the Trade-off card together.",
+     "parent": "A good reason says that the two groups look alike, so no rule can be right every time. Moving from strict to relaxed swaps one kind of mistake for the other. Let your child say it first. Then read the Trade-off card together. The second round is easier because the pieces are now familiar. To be fair, let the next sorter, or the next day, do the relaxed round first and see if the pattern holds.",
      "context": "In this step, you total the mistakes and explain what you found."
     }
    ]
@@ -1855,16 +1861,16 @@
    "fair_test": "Every voter touches every thing in the same way. Voters write their answers secretly, so nobody copies. The things stay in the same order on the tray. Only the voter changes, so any difference in the votes comes from the people and not from the things.",
    "results_table": [
     "Thing",
-    "Round 1: voters who said hard (0 to 5)",
-    "Round 2: voters who found no dent (0 to 5)"
+    "Round 1: voters who said hard (0 to 5, or out of your number of voters)",
+    "Round 2: voters who found no dent (0 to 5, or out of your number of voters)"
    ],
    "materials": [
     {
-     "item": "10 things: a cotton wool ball, a kitchen sponge, a folded towel, a lump of dough or modelling clay, a rubber eraser, an empty plastic bottle with the cap on, a candle, a wooden spoon, a steel katori and a ceramic cup",
+     "item": "10 things: a cotton wool ball, a kitchen sponge, a folded towel, a lump of stiff atta dough, not sticky, or modelling clay, a rubber eraser, an empty plastic bottle with the cap on, a candle, a wooden spoon, a steel katori and a ceramic cup",
      "qty": 10
     },
     {
-     "item": "5 voters, such as family members or neighbours, and your child can be one",
+     "item": "5 voters, such as parents, brothers, sisters or neighbours, and your child can be one. With fewer people, 3 voters is enough",
      "qty": 5
     },
     {
@@ -1885,7 +1891,7 @@
     }
    ],
    "safety": "Fingernails press only a gentle push. Do not use a knife or a sharp thing. Use an unlit candle, and keep it away from flames and matches.",
-   "record": "For each thing, write how many voters said hard in round 1 and how many found no dent in round 2. Then put the ten things in order, from the most votes for hard to the fewest.",
+   "record": "For each thing, write how many voters said hard in round 1 and how many found no dent in round 2. Then put the ten things in order, from the most votes for hard to the fewest. Also count how many things all the voters agreed on in each round.",
    "context": "In this experiment, five voters decide whether ten things are soft or hard, first by their own feeling and then by a fingernail test. You find which things split the vote.",
    "setup": [
     {
@@ -1931,7 +1937,8 @@
      "do": "Lay the ten things in a row on the tray. Give each voter a slip with ten lines, one for each thing, and a pencil. Explain that each voter will write H for hard or S for soft, and must not show the others.",
      "say": "Here are the ten things. Each of you will write H for hard or S for soft on your own slip. Do not show anyone. Do not copy.",
      "kid": "Lay out the ten things. Give each voter a slip.",
-     "context": "In this step, you set out the things and explain the voting."
+     "context": "In this step, you set out the things and explain the voting.",
+     "parent": "One child with a parent: use 3 voters if you can, such as the child, the parent and one other person, and divide each count by the number of voters. Two to four children: each child votes, with a parent as the last voter and the tray keeper. Make a copy of the slips for every voter. Several slips can be filled in at the same time."
     },
     {
      "id": "s3",
@@ -1945,10 +1952,10 @@
     {
      "id": "s4",
      "mins": 9,
-     "do": "Round 2. Each voter presses a fingernail into each thing with a steady push for three seconds. They write D if there is a dent and N if there is none. Keep the slips secret. Then collect them.",
+     "do": "Round 2. Each voter presses a fingernail into each thing with a steady push for three seconds. They write D if the nail sinks in and leaves a hollow they can see, and N if it does not. Keep the slips secret. Then collect them.",
      "say": "Round two. Press your fingernail into each thing for three seconds. Write D if it leaves a dent. Write N if it does not.",
      "kid": "Press a fingernail into each thing. Write D or N. Keep it secret.",
-     "parent": "Press with a steady push. About three seconds is enough. A few things, such as the candle and the eraser, may still split the vote. Write what you see.",
+     "parent": "Press with a steady push. About three seconds is enough. A few things, such as the candle and the eraser, may still split the vote. Write what you see. Use the flat end of a pencil if a child's nails are very short. On a hot day the candle and dough are softer and may get more D votes, so write the weather in your notes.",
      "check": {
       "t": "mcq",
       "q": "Round 2 gives every voter the same test. What do you expect to happen to the votes?",
@@ -1965,7 +1972,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Count the votes for each thing and write them in the table. Put the things in order, from the most votes for hard to the fewest. Draw a line where soft ends and hard begins. Mark the things that split the vote.",
+     "do": "Count the votes for each thing and write them in the table. Put the things in order, from the most votes for hard to the fewest. Draw a line where soft ends and hard begins. Mark the things that split the vote. Count how many things all voters agreed on in each round.",
      "say": "Count the votes. Put the things in order. Draw your line. Which things split the vote?",
      "kid": "Count the votes. Put the things in order. Mark the ones that split.",
      "ask": [
@@ -2004,7 +2011,7 @@
      "qty": 10
     },
     {
-     "item": "a magnifying glass, if you have one",
+     "item": "a magnifying glass, or your phone camera zoomed in on the base of each thing",
      "qty": 1
     },
     {
@@ -2016,7 +2023,7 @@
      "qty": 8
     }
    ],
-   "safety": "Wash the plastic things before you handle them. Do not cut or break the plastic.",
+   "safety": "Wash the plastic things before you handle them. Do not cut or break the plastic. Use only clean, empty food and drink containers. Never use anything that held bleach, toilet cleaner, pesticide or other chemicals. Keep small caps away from little children.",
    "schedule": [
     {
      "day": 1,
@@ -2044,7 +2051,7 @@
     {
      "id": "a1s1",
      "mins": 6,
-     "do": "Collect 8 to 10 plastic things from the kitchen and bathroom. Turn each one over and look for a triangle of arrows with a number. Write down the number, and the thing it is on. If a thing has no mark, write none.",
+     "do": "Collect 8 to 10 plastic things from the kitchen and bathroom. Before you start, guess how many things will show a number. Turn each one over and look for a triangle of arrows with a number. The marks are small, so tilt each thing under a light. Write down the number, and the thing it is on. If a thing has no mark, write none.",
      "say": "Look at the bottom of each plastic thing. Find the triangle with a number in it. Write the number and the thing.",
      "kid": "Find the number in the triangle on each thing. Write it down.",
      "ask": [
@@ -2057,7 +2064,7 @@
        ]
       }
      ],
-     "parent": "Many things in India carry no mark at all. If you find fewer than four with a code, borrow things from a neighbour or look at bigger containers, such as a bucket or an oil can. Do not tell your child yet what the number means. Let them guess.",
+     "parent": "Many things in India carry no mark at all. If you find fewer than four with a code, borrow things from a neighbour or look at bigger containers, such as a bucket or an oil can. Do not tell your child yet what the number means. Let them guess. Some packs in India show only letters such as PET, HDPE or PP, or no mark at all. Count those too. None is a result. Carry bags, pouches and chips packets often have no number. One child with a parent: the parent holds the list. Two to four children: each child hunts in one room, such as the kitchen, the bathroom or the store room, and finds at least three things.",
      "context": "This is the first step of the Plastic Code Hunt. You find the codes."
     },
     {
@@ -2083,7 +2090,7 @@
     {
      "id": "a1s3",
      "mins": 7,
-     "do": "Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 7 is other. Check each row against your list.",
+     "do": "Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 7 is other. Also, 3 is PVC, 4 is LDPE like milk pouches and carry bags, and 6 is polystyrene like some cups. Check each row against your list.",
      "say": "The number names the family of plastic. Check your rows. Does each row hold what the number says?",
      "kid": "Check your rows against the list. Which row was the biggest?",
      "ask": [
@@ -2117,7 +2124,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "12 kitchen spices in small katoris or saucers, such as mustard, cumin, fennel, coriander seeds, turmeric, chilli powder, coriander powder, dry curry leaves, a bay leaf, a cinnamon stick, cardamom and cloves",
+     "item": "12 kitchen spices in small katoris or saucers, such as mustard, cumin, fennel, coriander seeds, turmeric, chilli powder, coriander powder, dry curry leaves, a bay leaf, a cinnamon stick, cardamom and cloves. Swap in black pepper, fenugreek, ajwain, sesame or star anise for any you lack",
      "qty": 12
     },
     {
@@ -2129,7 +2136,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat or sniff the spices closely. Keep chilli powder away from your eyes, and do not rub your eyes. Leave out any spice that your child is allergic to. Wash your hands after.",
+   "safety": "Do not eat or sniff the spices closely. Keep chilli powder away from your eyes, and do not rub your eyes. Leave out any spice that your child is allergic to. Wash your hands after. Keep cloves, cardamom and other small spices away from little children's mouths, ears and noses.",
    "schedule": [
     {
      "day": 1,
@@ -2156,7 +2163,7 @@
    "flow": [
     {
      "id": "a2s1",
-     "mins": 8,
+     "mins": 7,
      "do": "Lay out the twelve spices. Ask your child to sort them into two groups using any rule they like, and to say the rule. Then split each group in two to make four groups. Write the rule for each split.",
      "say": "Sort the spices into two groups. What is your rule? Now split each group in two. What are the new rules?",
      "kid": "Sort the spices into two groups. Then split each group again.",
@@ -2170,12 +2177,12 @@
        ]
       }
      ],
-     "parent": "Any rule is fine, as long as the child can say it. Examples are seeds and powders, strong smell and mild smell, or things that go in the pan first and things that go in last.",
+     "parent": "Any rule is fine, as long as the child can say it. Examples are seeds and powders, strong smell and mild smell, or things that go in the pan first and things that go in last. One child with a parent: the parent is the helper. Two to four children: one sorts, one is the helper who looks for the spice, one counts, and you rotate. Or each child sorts their own spices and then compares the trees.",
      "context": "This is the first step of Lumpers and Splitters. You sort at two levels."
     },
     {
      "id": "a2s2",
-     "mins": 7,
+     "mins": 6,
      "do": "Split each of the four groups again to make about eight groups. Some groups may hold only one spice. Draw a tree on the big sheet. Put the two first groups at the top and the eight small groups at the bottom.",
      "say": "Split the groups again, until you have about eight. Draw a tree. Two groups at the top, eight at the bottom.",
      "kid": "Split again to make eight groups. Draw the tree.",
@@ -2195,8 +2202,8 @@
     },
     {
      "id": "a2s3",
-     "mins": 7,
-     "do": "A helper closes their eyes. You secretly pick one spice. The helper asks yes or no questions to find it, using only the groups at one level. Count how many groups and spices the helper had to check. Try it at the two-group level, the four-group level and the eight-group level.",
+     "mins": 9,
+     "do": "A helper closes their eyes. You secretly pick one spice. The helper asks yes or no questions to find it, using only the groups at one level. Count each group the helper names and each spice the helper looks at. Hide a different spice each time. Find two spices at each level and average the counts. Try it at the two-group level, the four-group level and the eight-group level.",
      "say": "Pick a secret spice. Your helper uses the groups to find it. Count how many things they check. Try it at each level.",
      "kid": "Pick a secret spice. Let a helper find it with the groups. Count the checks.",
      "ask": [
@@ -2209,7 +2216,7 @@
        ]
       }
      ],
-     "parent": "At the coarse level, the helper must still look through six spices. At the fine level, only one or two. But making and remembering eight groups takes more effort than two.",
+     "parent": "At the coarse level, the helper must still look through six spices. At the fine level, only one or two. But making and remembering eight groups takes more effort than two. Expect the middle level to need the fewest looks. Two groups leave many spices in each group, and eight groups leave many groups to check. Two finds per level are few, so repeat if the numbers look odd. That is also a result.",
      "context": "In this step, you test how well each level helps to find a spice."
     },
     {
@@ -2269,7 +2276,7 @@
     {
      "id": "a3s1",
      "mins": 6,
-     "do": "Draw a grid of 5 squares across and 5 up. Across the bottom, write colour: 1 red, 2 orange, 3 yellow, 4 white, 5 blue-white. Up the side, write brightness: 1 very faint, 2 faint, 3 like the Sun, 4 bright, 5 very bright. The steps are rough.",
+     "do": "Draw a grid of 5 squares across and 5 up. Make each square about 3 centimetres wide. Before you plot, guess if the dots will spread evenly or gather. Across the bottom, write colour: 1 red, 2 orange, 3 yellow, 4 white, 5 blue-white. Up the side, write brightness: 1 very faint, 2 faint, 3 like the Sun, 4 bright, 5 very bright. The steps are rough.",
      "say": "Draw a grid, five by five. Colour goes along the bottom, from red to blue. Brightness goes up the side, from very faint to very bright.",
      "kid": "Draw the grid. Colour goes across. Brightness goes up.",
      "parent": "This is a simplified version of a real star map. The steps are rough ranks, and the star values are rounded. Stars differ so much in brightness that astronomers use a special scale, but ranks show the same families.",
@@ -2281,7 +2288,7 @@
      "do": "Plot these stars, as colour step then brightness step. Proxima Centauri, 1 and 1. Barnard's Star, 1 and 1. 61 Cygni A, 2 and 2. Epsilon Eridani, 2 and 2. The Sun, 3 and 3. Alpha Centauri A, 3 and 3. Sirius A, 4 and 4. Vega, 4 and 4. Altair, 4 and 4. Spica, 5 and 5. Rigel, 5 and 5. Arcturus, 2 and 4. Aldebaran, 2 and 4. Betelgeuse, 1 and 5. Antares, 1 and 5. Sirius B, 4 and 2.",
      "say": "Plot all sixteen stars. Colour step goes across and brightness step goes up. Put dots side by side if two stars share a square.",
      "kid": "Plot the sixteen stars. Colour across, brightness up.",
-     "parent": "Stars that share a square can be drawn as two dots side by side. Colour the dot to match the star's colour. Betelgeuse and Antares are red, Arcturus and Aldebaran are orange, the Sun is yellow, Sirius is white, and Rigel and Spica are blue-white.",
+     "parent": "Stars that share a square can be drawn as two dots side by side. Colour the dot to match the star's colour. Betelgeuse and Antares are red, Arcturus and Aldebaran are orange, the Sun is yellow, Sirius is white, and Rigel and Spica are blue-white. Some squares hold two or three stars. Draw the dots side by side in the square. One child with a parent: the parent reads the list and the child plots. Two to four children: share one big sheet and let each child plot four stars, then ring the clumps together.",
      "context": "In this step, you plot sixteen real stars on your map."
     },
     {
@@ -2332,7 +2339,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a kirana store, a supermarket aisle or your own kitchen cupboards",
+     "item": "a kirana store, a supermarket aisle or your own kitchen cupboards. The kitchen is enough if no shop is near",
      "qty": 1
     },
     {
@@ -2344,7 +2351,7 @@
      "qty": 1
     }
    ],
-   "safety": "Go with a grown-up. Do not touch things you do not plan to buy. Ask the shopkeeper before you take notes or photographs.",
+   "safety": "Go with a grown-up. Do not touch things you do not plan to buy. Ask the shopkeeper before you take notes or photographs. Stay beside your grown-up near roads and in crowded shops. Go at a quiet hour.",
    "schedule": [
     {
      "day": 1,
@@ -2368,7 +2375,7 @@
     {
      "id": "a4s1",
      "mins": 10,
-     "do": "Visit a kirana store, a supermarket aisle or the kitchen cupboards. Ask your child to walk along the shelves and write down each group of goods. Ask what rule the shop uses for each group.",
+     "do": "Visit a kirana store, a supermarket aisle or the kitchen cupboards. Many kirana shops keep goods behind the counter, so ask the shopkeeper to point out the groups. Ask your child to walk along the shelves and write down each group of goods. Ask what rule the shop uses for each group.",
      "say": "Walk along the shelves with a grown-up. Write down each group. What rule does the shop use for it?",
      "kid": "Walk along the shelves. Write down each group and its rule.",
      "ask": [
@@ -2381,13 +2388,13 @@
        ]
       }
      ],
-     "parent": "Kirana stores often sort by use, such as things for the morning, things for the kitchen and things for cleaning. They also sort by size and by how often things sell. Ask the shopkeeper why.",
+     "parent": "Kirana stores often sort by use, such as things for the morning, things for the kitchen and things for cleaning. They also sort by size and by how often things sell. Ask the shopkeeper why. Mid-morning is usually quiet. Buying one small thing is a kind thanks. Two to four children: each takes a different shelf or cupboard, then compare trees.",
      "context": "This is the first step of Shelf Detective. You find the groups."
     },
     {
      "id": "a4s2",
      "mins": 8,
-     "do": "Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Draw a tree of these levels. Count the levels. Then look for one thing that could go in two places, and say where you would put it.",
+     "do": "Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Draw a tree of these levels. Pick one item, such as turmeric, and count the groups you check before you find it. Count the levels. Then look for one thing that could go in two places, and say where you would put it.",
      "say": "Find a group with smaller groups inside. Draw the tree. How many levels? Find a thing that could go in two places.",
      "kid": "Draw the levels as a tree. Find a thing that fits two groups.",
      "parent": "Good examples are salt, turmeric, tea, jaggery and papad. Ask the shopkeeper why the shop put the thing there.",
@@ -2421,14 +2428,14 @@
    "id": "p1",
    "title": "Predict Where It Lands: add new foods to the Katori Map",
    "days": 1,
-   "mins": 50,
+   "mins": 40,
    "materials": [
     {
      "item": "your Katori Map from the experiment, and the same katori, plate, scale and ruler",
      "qty": 1
     },
     {
-     "item": "about one katori each of six new dry foods, such as besan, cornflour, rolled oats, sabudana, masoor dal and sesame seeds",
+     "item": "about one katori each of six new dry foods, such as besan, cornflour, rolled oats, sabudana, masoor dal and sesame seeds. Buy small packets only of those you lack, or borrow a katori from a neighbour",
      "qty": 6
     },
     {
@@ -2440,7 +2447,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to. Wash your hands after.",
+   "safety": "Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to. Wash your hands after. Keep small grains and seeds away from little children's mouths and noses.",
    "schedule": [
     {
      "day": 1,
@@ -2467,7 +2474,7 @@
    "flow": [
     {
      "id": "p1s1",
-     "mins": 8,
+     "mins": 7,
      "do": "Take out your Katori Map. Look at the six new foods. For each one, decide which clump it will join, and mark a cross where you think its dot will be. Write the reason in one short line.",
      "say": "Look at your map and the six new foods. Where will each one land? Mark a cross. Write why.",
      "kid": "Mark a cross for each new food. Write why you put it there.",
@@ -2486,11 +2493,11 @@
     },
     {
      "id": "p1s2",
-     "mins": 22,
-     "do": "Weigh one katori of each new food, filled level. Pour each into a heap from 5 centimetres up, twice, and measure the heights in millimetres. Write the mass and the average height for each food.",
+     "mins": 18,
+     "do": "Weigh one katori of each new food, filled level. Pour each into a heap from 10 centimetres up, twice, and measure the heights in millimetres. Write the mass and the average height for each food.",
      "say": "Measure the six new foods just as before. Weigh a katori of each. Pour two heaps and measure them. Write the numbers.",
      "kid": "Weigh and pour each new food, just as before. Write the numbers.",
-     "parent": "Use the same katori, the same plate, the same height for pouring and the same ruler. Flours make dust, so pour slowly.",
+     "parent": "Use the same katori, the same plate, the same height for pouring and the same ruler. Flours make dust, so pour slowly. Short of time? Do four foods, or finish the rest in a second sitting. Two to four children: each child takes two or three foods and weighs, pours and measures them. One child with a parent: the parent writes and holds the ruler. Keep foods in closed jars in damp weather, and say if one lumps.",
      "check": {
       "t": "mcq",
       "q": "Why must you measure the new foods in exactly the same way as the first ten?",
@@ -2506,7 +2513,7 @@
     },
     {
      "id": "p1s3",
-     "mins": 12,
+     "mins": 10,
      "do": "Plot the real results on the map as dots. Draw a short line from each cross to its dot. Measure each line with a ruler in millimetres. Count how many predictions landed in the right clump.",
      "say": "Plot the real dots. Draw a line from each cross to its dot. Measure the lines. Which prediction was closest?",
      "kid": "Plot the real dots. Join each cross to its dot. Measure the lines.",
@@ -2524,7 +2531,7 @@
     },
     {
      "id": "p1s4",
-     "mins": 8,
+     "mins": 5,
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask what the map can and cannot predict.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? What can the map predict?",
      "kid": "Say or write three sentences. What I think. What I saw. Why.",
@@ -2605,7 +2612,7 @@
      "do": "Build the sorter. Prop one end of the rulers on books, so they slope. Set the gap and put a bowl below it. Send all 40 pieces down once. Count the chana dal in the toor bowl and the toor dal that rolled past.",
      "say": "Build your sorter and send all forty pieces down once. Count the chana dal that fell through and the toor dal that rolled past.",
      "kid": "Build the sorter. Send all 40 pieces down. Count both mistakes.",
-     "parent": "Pieces may stick or bounce. Tap the rulers gently if pieces stall. Dal pieces are not all the same size, so expect some mistakes. Write the numbers down. They are the ones to beat.",
+     "parent": "Pieces may stick or bounce. Tap the rulers gently if pieces stall. Dal pieces are not all the same size, so expect some mistakes. Write the numbers down. They are the ones to beat. If pieces bounce across the gap, make the slope gentler or pour a few at a time. Tape the ends of the rulers so the gap stays fixed. One child pours, and another counts.",
      "context": "In this step, you build your sorter and test it."
     },
     {
