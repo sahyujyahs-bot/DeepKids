@@ -1573,6 +1573,22 @@
    ]
   },
   {
+   "id": "sci.materials.L4",
+   "subject": "sci",
+   "topic": "materials",
+   "name": "Materials and their properties",
+   "strand": "Matter",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "sci.materials.properties.L4",
+    "sci.materials.sorting-materials.L4"
+   ],
+   "chapters": []
+  },
+  {
    "id": "sci.me-and-others.L3",
    "subject": "sci",
    "topic": "me-and-others",
@@ -1745,6 +1761,21 @@
     "C3-4.2",
     "C3-4.3"
    ]
+  },
+  {
+   "id": "sci.senses.L4",
+   "subject": "sci",
+   "topic": "senses",
+   "name": "Senses and perception",
+   "strand": "Body and health",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "sci.senses.five-senses.L4"
+   ],
+   "chapters": []
   },
   {
    "id": "sci.sky.L3",
@@ -2396,7 +2427,8 @@
     "sci.light.invisible-light.L4",
     "sci.light.lasers.L4",
     "sci.light.light-carries-messages.L4",
-    "sci.light.what-is-light.L4"
+    "sci.light.what-is-light.L4",
+    "sci.light.colour.L4"
    ],
    "chapters": [
     "C4-5.1",
@@ -2636,7 +2668,8 @@
     "sci.sound.music.L4",
     "sci.sound.doppler-and-shock.L4",
     "sci.sound.waves.L4",
-    "sci.sound.hearing.L4"
+    "sci.sound.hearing.L4",
+    "sci.sound.sources-of-sound.L4"
    ],
    "chapters": []
   },
@@ -10800,6 +10833,7 @@
     "sci.senses.five-senses.L1"
    ],
    "go_deep": [
+    "sci.senses.five-senses.L4",
     "sci.senses.more-senses.L3",
     "sci.light.how-we-see.L3",
     "sci.sound.hearing.L3"
@@ -10820,6 +10854,39 @@
     "Cambridge Stage 3 4.2 Taste and smell",
     "Cambridge Stage 3 4.3 Sight"
    ]
+  },
+  {
+   "id": "sci.senses.five-senses.L4",
+   "subject": "sci",
+   "topic": "senses",
+   "topic_name": "Senses and perception",
+   "strand": "Body and health",
+   "topic_level": "sci.senses.L4",
+   "subtopic": "five-senses",
+   "name": "Our senses",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Senses in action: how long a signal takes, and how the brain guesses.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.senses.five-senses.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.senses.more-senses.L3",
+    "sci.senses.perception.L3",
+    "sci.body.body-parts.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:19",
+    "bio:87"
+   ],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.senses.more-senses.L3",
@@ -12952,6 +13019,7 @@
     "sci.materials.what-is-it-made-of.L3"
    ],
    "go_deep": [
+    "sci.materials.properties.L4",
     "sci.materials.testing-materials.L3",
     "sci.states.solids-liquids-gases.L4"
    ],
@@ -12982,6 +13050,50 @@
     "Cambridge Stage 3 5.2 Sorting materials",
     "NCERT Class 3 Ch 10 This World of Things"
    ]
+  },
+  {
+   "id": "sci.materials.properties.L4",
+   "subject": "sci",
+   "topic": "materials",
+   "topic_name": "Materials and their properties",
+   "strand": "Matter",
+   "topic_level": "sci.materials.L4",
+   "subtopic": "properties",
+   "name": "Properties of materials",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Properties of materials: why the same paper tears straight one way and crooked the other.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.materials.properties.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.materials.what-is-it-made-of.L3",
+    "sci.materials.using-materials.L3",
+    "sci.materials.sorting-materials.L3",
+    "sci.materials.testing-materials.L3",
+    "sci.materials.magnetic-materials.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.logic.sets-and-venn.L2",
+     "chapters": [
+      "C2-Ss"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:101",
+    "chem:150",
+    "chem:154",
+    "chem:155"
+   ],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.natural-and-made.L2",
@@ -13202,7 +13314,9 @@
    "prerequisites": [
     "sci.materials.sorting-materials.L1"
    ],
-   "go_deep": [],
+   "go_deep": [
+    "sci.materials.sorting-materials.L4"
+   ],
    "go_wide": [
     "sci.materials.what-is-it-made-of.L3",
     "sci.materials.properties.L3",
@@ -13230,6 +13344,52 @@
    "chapter_refs": [
     "Cambridge Stage 3 5.2 Sorting materials"
    ]
+  },
+  {
+   "id": "sci.materials.sorting-materials.L4",
+   "subject": "sci",
+   "topic": "materials",
+   "topic_name": "Materials and their properties",
+   "strand": "Matter",
+   "topic_level": "sci.materials.L4",
+   "subtopic": "sorting-materials",
+   "name": "Sorting materials",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Sorting materials: where to draw the line, and what a map of two numbers can show.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.materials.sorting-materials.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.materials.what-is-it-made-of.L3",
+    "sci.materials.properties.L3",
+    "sci.materials.using-materials.L3",
+    "sci.materials.testing-materials.L3",
+    "sci.materials.magnetic-materials.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.logic.sets-and-venn.L2",
+     "chapters": [
+      "C2-Ss"
+     ]
+    },
+    {
+     "id": "math.data.sorting-and-tallies.L3",
+     "chapters": [
+      "N3-1",
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.testing-materials.L2",
@@ -21044,6 +21204,47 @@
     "sci.light.light-sources.L2"
    ],
    "go_deep": [
+    "sci.light.colour.L4"
+   ],
+   "go_wide": [
+    "sci.light.how-we-see.L3",
+    "sci.light.transparent-opaque.L3",
+    "sci.light.reflection.L3",
+    "sci.light.what-is-light.L3",
+    "sci.light.refraction.L3",
+    "sci.light.living-light.L3",
+    "sci.senses.perception.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:96",
+    "phy:158",
+    "phy:159",
+    "phy:165"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.light.colour.L4",
+   "subject": "sci",
+   "topic": "light",
+   "topic_name": "Light, seeing and shadows",
+   "strand": "Physics",
+   "topic_level": "sci.light.L4",
+   "subtopic": "colour",
+   "name": "Colour and rainbows",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Mixing coloured light: why a red torch and a green torch make a yellow wall.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.light.colour.L3"
+   ],
+   "go_deep": [
     "sci.light.colour.L5"
    ],
    "go_wide": [
@@ -21082,8 +21283,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.light.colour.L3",
-    "sci.light.light-sources.L2"
+    "sci.light.colour.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -21796,8 +21996,42 @@
     "sci.sound.sources-of-sound.L1"
    ],
    "go_deep": [
+    "sci.sound.sources-of-sound.L4",
     "sci.sound.vibration.L5"
    ],
+   "go_wide": [
+    "sci.sound.hearing.L3",
+    "sci.sound.waves.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:131",
+    "phy:136",
+    "phy:139"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sound.sources-of-sound.L4",
+   "subject": "sci",
+   "topic": "sound",
+   "topic_name": "Sound",
+   "strand": "Physics",
+   "topic_level": "sci.sound.L4",
+   "subtopic": "sources-of-sound",
+   "name": "Where sounds come from",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Sources of sound: shaking, blowing, popping and rubbing.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sound.sources-of-sound.L3"
+   ],
+   "go_deep": [],
    "go_wide": [
     "sci.sound.hearing.L3",
     "sci.sound.waves.L3"
