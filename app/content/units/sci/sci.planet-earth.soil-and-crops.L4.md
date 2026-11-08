@@ -778,8 +778,8 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
    **Answer:** I would find out whether the soil can grow, take in food, respond and change as a whole, or whether those things are only done by the creatures in it. I would also want to know how much the creatures depend on each other.. *Why:* There is no single answer. A strong answer says what evidence would help to decide.
 
 ## Videos
-- **How plants get nitrogen from the air with bacteria in root nodules** (to be found, 5 min) id `to find`: To see a root nodule and how the bacteria inside fix nitrogen. *Check:* Not yet found. Find a short, accurate video, watch it, and check that it shows the bacteria and the sugar going the right way before adding it.
-- **Capillary action: how water climbs up narrow gaps** (to be found, 4 min) id `to find`: To see water climbing a cloth, a tube or soil, and the idea of narrow gaps. *Check:* Not yet found. Find one, watch it, and check that it says the narrower the tube the higher the climb.
+- **Legume roots and the nitrogen cycle** (Julia's Science Lab, 5 min) id `d_Chigs-jZk`: To see a root nodule and how the bacteria inside fix nitrogen. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Capillary Action** (Wonder Connection, 4 min) id `ib1x6MtnFWk`: To see water climbing a cloth, a tube or soil, and the idea of narrow gaps. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Crop rotation in India: pulses after rice** (to be found, 5 min) id `to find`: To see farmers in India sowing a pulse after rice and explaining why. *Check:* Not yet found. Find one made by an Indian agricultural university or farmers' group, watch it, and check it is accurate.
 
 ## Quiz

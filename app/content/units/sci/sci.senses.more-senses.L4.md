@@ -748,9 +748,9 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
    **Answer:** To roll the crystals out of the canal and back into their pouch. *Why:* Loose crystals in a canal push the liquid and make the brain think the head is turning. A doctor can guide them back into the pouch by moving the head in a set order. The canals do not change size.
 
 ## Videos
-- **How the inner ear keeps your balance** (to be found, 5 min) id `to find`: To see the canals, the liquid and the ear crystals at work inside the ear, and why spinning makes you dizzy. *Check:* Not yet found. Find one, watch it, and check that it shows the canals and the crystals correctly and mentions the eyes and feet.
-- **How a fly's halteres work** (to be found, 4 min) id `to find`: To see slow-motion flies steering in the air, and the tiny clubs behind their wings. *Check:* Not yet found. Find one, watch it, and check that it shows halteres as sensors for turning and does not call them wings.
-- **How snakes sense heat with pits on their faces** (to be found, 4 min) id `to find`: To see a pit viper or a python strike at a warm target in the dark, and the pits on their faces. *Check:* Not yet found. Find one, watch it, and check that the heat sense is described as sensing warmth from a distance.
+- **Why Do We Get Dizzy When We Spin Around?** (Curious Kids Every Day, 4 min) id `JAf66MvFXCg`: To see the canals, the liquid and the ear crystals at work inside the ear, and why spinning makes you dizzy. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Here’s How That Annoying Fly Dodges Your Swatter | Deep Look** (Deep Look, 5 min) id `jBPFCvEhv9Y`: To see slow-motion flies steering in the air, and the tiny clubs behind their wings. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Snake Heat Pits EXPLAINED!!** (All Canadian Reptile Girl, 5 min) id `L5OlbZrRYfw`: To see a pit viper or a python strike at a warm target in the dark, and the pits on their faces. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these is NOT one of the three sources of information the brain mixes to balance?  

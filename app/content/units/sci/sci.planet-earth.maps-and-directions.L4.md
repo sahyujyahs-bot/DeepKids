@@ -765,8 +765,8 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
    **Answer:** I would want to know what the visitor needs, such as the shop, the bus stop or the clinic. I would measure the distances between those places and mark landmarks they can see, such as a tree or a temple.. *Why:* Any thoughtful answer is good. A strong one starts from what the reader needs.
 
 ## Videos
-- **How GPS works: finding your place from three satellites** (to be found, 5 min) id `to find`: To see how three distances meet at one point and why a fourth satellite is used. *Check:* Not yet found. Find one, watch it, and check that it says the phone only listens and that a fourth satellite fixes the clock.
-- **Marie Tharp and the map of the ocean floor** (to be found, 5 min) id `to find`: To hear the story of how a mapmaker drew the sea floor from lines of soundings and found a valley. *Check:* Not yet found. Find one, watch it, and check that the dates and what was said about her are accurate.
+- **How GPS works? Trilateration explained** (unfa🇺🇦, 6 min) id `4O3ZVHVFhes`: To see how three distances meet at one point and why a fourth satellite is used. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Scientist Who Mapped the Seafloor: Marie Tharp | Great Minds** (SciShow, 5 min) id `-mOjsn5UrWM`: To hear the story of how a mapmaker drew the sea floor from lines of soundings and found a valley. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How to read contour lines on a map** (to be found, 4 min) id `to find`: To see how rings on a map turn into a hill, with steep and gentle sides. *Check:* Not yet found. Find one, watch it, and check that it shows close lines as steep and wide lines as gentle.
 
 ## Quiz

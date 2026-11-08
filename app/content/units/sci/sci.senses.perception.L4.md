@@ -707,9 +707,9 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
    **Answer:** Show the same faces upright and upside down to several people and score each. *Why:* A fair plan changes only the direction of the faces, uses the same faces and gives the same task to several people. A comparison needs both conditions.
 
 ## Videos
-- **The selective attention test: counting passes and a gorilla** (to be found, 3 min) id `to find`: To try the counting test yourself, and see how easy it is to miss something large when your attention is elsewhere. *Check:* Not yet found. Find the original test by Daniel Simons and Christopher Chabris, watch it, and check that it is the original and not a copy that gives the answer away at the start.
+- **selective attention test** (Daniel Simons, 2 min) id `vJG698U2Mvo`: To try the counting test yourself, and see how easy it is to miss something large when your attention is elsewhere. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How the brain turns lines into a cube: ambiguous pictures** (to be found, 5 min) id `to find`: To see the Necker cube, the vase and faces, and the duck-rabbit explained, with the brain choosing one reading at a time. *Check:* Not yet found. Find one, watch it, and check that it says the picture does not change and that the brain flips between two readings.
-- **Hiding in plain sight: camouflage in nature** (to be found, 5 min) id `to find`: To see leaf insects, nightjars and other animals that disappear against their backgrounds, and how they do it. *Check:* Not yet found. Find one, watch it, and check that it explains matching the background and breaking the outline, and does not call camouflage a trick on the eyes.
+- **Camouflage: Animal Hide & Seek** (SciShow Kids, 4 min) id `YOIRci0CKzg`: To see leaf insects, nightjars and other animals that disappear against their backgrounds, and how they do it. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A drawing that can be read as a vase or as two faces is called what?  
