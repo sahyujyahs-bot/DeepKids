@@ -2668,12 +2668,12 @@
    "check": "Id and title were confirmed through YouTube's public lookup when an earlier unit was written. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How do we know what is inside the Earth?",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Structure of the Earth - GCSE Physics",
+   "channel": "Launchpad Learning",
    "mins": 5,
    "why": "To see how earthquake waves bend and stop deep inside the Earth, and how this shows a liquid outer core and a solid inner core.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it. It should mention both a liquid outer core and a solid inner core."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "ErtwjhH0dho"
   },
   {
    "title": "India's Mars Orbiter Mission, Mangalyaan",

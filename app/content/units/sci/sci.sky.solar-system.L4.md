@@ -606,7 +606,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 
 ## Videos
 - **To Scale: THE SOLAR SYSTEM** (To Scale:, 7 min) id `zR3Igc3Rhfg`: A group of friends lay out a true-scale solar system in a desert with the Earth as a marble. It shows the real gaps between the planets, and goes well with the Walk the Solar System activity. *Check:* Id and title were confirmed through YouTube's public lookup when an earlier unit was written. Not watched from here: a parent should preview it.
-- **How do we know what is inside the Earth?** (to be found, 5 min) id `to find`: To see how earthquake waves bend and stop deep inside the Earth, and how this shows a liquid outer core and a solid inner core. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it. It should mention both a liquid outer core and a solid inner core.
+- **Structure of the Earth - GCSE Physics** (Launchpad Learning, 5 min) id `ErtwjhH0dho`: To see how earthquake waves bend and stop deep inside the Earth, and how this shows a liquid outer core and a solid inner core. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **India's Mars Orbiter Mission, Mangalyaan** (to be found, 6 min) id `to find`: To see how India's first Mars spacecraft was built and steered, and how the team managed the long delay in messages. *Check:* Not yet found. Find one made by ISRO or a news channel, watch it, and check the dates and the time delay before adding it.
 
 ## Quiz

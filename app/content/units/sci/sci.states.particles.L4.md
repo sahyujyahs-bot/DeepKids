@@ -649,8 +649,8 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 
 ## Videos
 - **Part(icles) of Your World: Crash Course Kids #3.2** (Crash Course Kids, 5 min) id `npv74D2MO6Q`: A short, lively explanation for children that everything is made of particles too small to see. *Check:* A parent should preview it first.
-- **The particle model of solids, liquids and gases (animation)** (to be found, 5 min) id `to find`: To see particles drawn as moving dots in a solid, a liquid and a gas, and to see them speed up when heated. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How a pressure cooker works** (to be found, 5 min) id `to find`: To see how sealed steam builds up pressure, and how the weight and safety valve let it out. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **States of Matter and Particle Theory for Kids** (The Animated Teacher, 5 min) id `oMbB-TTIFU4`: To see particles drawn as moving dots in a solid, a liquid and a gas, and to see them speed up when heated. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What Is the Science Behind a Pressure Cooker?** (History of Simple Things, 5 min) id `QW1Xqki8Wz4`: To see how sealed steam builds up pressure, and how the weight and safety valve let it out. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What is the main difference between a solid, a liquid and a gas of the same substance?  

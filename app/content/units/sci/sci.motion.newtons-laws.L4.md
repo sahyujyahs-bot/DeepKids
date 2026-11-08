@@ -630,7 +630,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
    **Answer:** ['arrow pointing up from the engine: thrust', 'arrow pointing down from the middle: weight', "the fuel tanks: most of the rocket's mass at the start", 'the part that gets smaller as fuel burns: the mass of the rocket']. *Why:* The thrust is bigger than the weight, so the net force is upwards. As the fuel burns, the mass shrinks, and the same thrust speeds the rocket up more.
 
 ## Videos
-- **Newton's second law of motion, explained with carts and loads** (to be found, 5 min) id `to find`: To see a cart pulled by different forces and carrying different loads, and to see the rule written as force, mass and acceleration. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **What is Newton's 2nd Law Of Motion? | F = MA | Newton's Laws of Motion | Physics Laws | Dr. Binocs** (Peekaboo Kidz, 4 min) id `8o3j1wpabes`: To see a cart pulled by different forces and carrying different loads, and to see the rule written as force, mass and acceleration. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Hammer and feather dropped on the Moon (Apollo 15)** (to be found, 3 min) id `to find`: To see a real hammer and a real feather land together on the Moon, where there is no air. *Check:* Not yet found. Find the NASA recording of David Scott, watch it, and check the details before adding it.
 - **How a rocket speeds up as it burns fuel** (to be found, 5 min) id `to find`: To see a launch, and to hear why the rocket speeds up faster and faster as it gets lighter. *Check:* Not yet found. Look for a clear ISRO or NASA explainer, watch it, and check it is accurate before adding it.
 

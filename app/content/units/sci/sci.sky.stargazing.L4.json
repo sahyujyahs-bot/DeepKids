@@ -2694,20 +2694,20 @@
  ],
  "videos": [
   {
-   "title": "How do astronomers measure the distance to a star? (parallax)",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "How far away is that star?  Understanding parallax",
+   "channel": "Haberdashers' Adams Astronomy",
    "mins": 5,
    "why": "To see parallax explained with a thumb or a pencil and then with the Earth's orbit and a real star, which matches the Jump of Your Thumb experiment.",
-   "check": "Not yet found. Find one, watch it, and check that it explains the baseline as the width of the Earth's orbit before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "qLKWVR5__Ng"
   },
   {
-   "title": "Star trails: why the night sky seems to turn",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Star Trails around Polaris",
+   "channel": "jamescastelli",
+   "mins": 2,
    "why": "To see a time-lapse of the night sky turning round the Pole Star, with arcs of star trails building up, which matches the Turning Sky experiment.",
-   "check": "Not yet found. Find a time-lapse filmed looking north, watch it, and check that it says the Earth is what turns."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "XTTDWhky9HY"
   },
   {
    "title": "Hokule'a and the navigators of the Pacific",

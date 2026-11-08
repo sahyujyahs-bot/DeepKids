@@ -656,7 +656,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
    **Answer:** A strong answer picks one and gives a reason about pressure. For Meena, the push comes from the depth above the tap. For Joseph, a pump adds a push that does not depend on the tank. It also says that the other idea would work too.. *Why:* Both work, because both raise the push at the tap. A higher tank uses depth of water, and a pump adds its own push. Which is better depends on cost, space and electricity.
 
 ## Videos
-- **Water pressure and depth: why the bottom hole squirts farthest** (to be found, 4 min) id `to find`: To see jets of water leave a bottle with holes at different heights, and to hear why the lowest jet is the strongest. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **Easy science experiment: Understanding water pressure** (NJ.com, 3 min) id `xWDOGNIOGDw`: To see jets of water leave a bottle with holes at different heights, and to hear why the lowest jet is the strongest. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How a hydraulic system works: Pascal's principle for children** (to be found, 5 min) id `to find`: To see a push travel through a liquid in a closed pipe, and how a small push lifts a heavy load. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
 - **How the pressure under the sea changes with depth** (to be found, 5 min) id `to find`: To see what happens to soft objects and sealed containers when they are taken deep underwater. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
 
