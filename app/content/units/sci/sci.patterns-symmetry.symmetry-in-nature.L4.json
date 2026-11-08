@@ -214,7 +214,7 @@
     },
     {
      "who": "A bias from space",
-     "explanation": "Some meteorites, such as the one that fell near Murchison in Australia in 1969, hold amino acids with a slight excess of the left-handed form. The idea is that such rocks seeded the young Earth. Whether this is the cause is not known."
+     "explanation": "Some meteorites, such as the one that fell near Murchison in Australia in 1969, hold amino acids, some of them reported with a slight excess of the left-handed form. The idea is that such rocks seeded the young Earth. Whether this is the cause is not known."
     }
    ],
    "art": "Two molecule models that are mirror images of each other, like a pair of gloves, with one marked as used by life."
@@ -286,7 +286,7 @@
    "concept": "Patterns that never repeat: quasicrystals",
    "status": "defined",
    "definition": "A quasicrystal is an orderly solid whose pattern of particles never exactly repeats, even though it has a regular, five-fold or ten-fold symmetry.",
-   "description": "A pattern that repeats by sliding, such as wallpaper, can only have 2-fold, 3-fold, 4-fold or 6-fold symmetry. A five-fold pattern cannot fill a floor with repeating tiles. Pentagons leave gaps. In 1982, Dan Shechtman, a scientist in the United States, saw a five-fold pattern in a diffraction picture of a metal mixture. Most crystal scientists said it was impossible. The famous chemist Linus Pauling is reported to have said there were no quasicrystals, only quasi-scientists. Shechtman was asked to leave his research group. But the evidence held. In 2011 he won the Nobel Prize in Chemistry. The mathematician Roger Penrose had already drawn floor patterns with five-fold symmetry that never repeat, in the 1970s. Natural quasicrystals have since been found in a meteorite. Some medieval tilings in West Asia, such as those on a shrine in Isfahan, look like Penrose patterns.",
+   "description": "A pattern that repeats by sliding, such as wallpaper, can only have 2-fold, 3-fold, 4-fold or 6-fold symmetry. A five-fold pattern cannot fill a floor with repeating tiles. Pentagons leave gaps. In 1982, Dan Shechtman, a scientist in the United States, saw a five-fold pattern in a diffraction picture of a metal mixture. Most crystal scientists said it was impossible. The famous chemist Linus Pauling is reported to have said there were no quasicrystals, only quasi-scientists. Shechtman says he was asked to leave his research group. But the evidence held. In 2011 he won the Nobel Prize in Chemistry. The mathematician Roger Penrose had already drawn floor patterns with five-fold symmetry that never repeat, in the 1970s. Natural quasicrystals have since been found in a meteorite. Some medieval tilings in West Asia, such as those on a shrine in Isfahan, look like Penrose patterns.",
    "examples": [
     "Penrose tiling: two shapes of tile make a never-repeating floor.",
     "A metal mixture of aluminium and manganese in which Shechtman saw a five-fold pattern.",
@@ -477,7 +477,7 @@
   "deep_truth": {
    "truth": "You pushed a straight strip equally from both ends. It still bent to one side. A tiny hidden curve in the strip chose which side. A small difference can turn an even start into a lopsided end.",
    "habit": "We think a lopsided result must have come from a lopsided cause of about the same size, so we hunt for the big thing that tipped it. In the strip test the push was even, and the tipping came from a difference too small to see.",
-   "evidence": "In the strip test, the push at both ends was equal. A flattened strip mostly bent the same way, and a strip curled by a coin's thickness bent that way every time. When the strip was turned over, the bend turned over with it. If your own results differ, write them down as they are."
+   "evidence": "In the strip test, the push at both ends is equal. Card strips like this usually bend mostly one way when flattened, and a strip curled by a coin's thickness usually bends its curled way almost every time. If the strip is turned over, the bend should turn over with it. Only your own tally counts, so write your results down as they are."
   },
   "three": {
    "who_am_i": "You began as a ball of cells that looked almost the same on every side. Now your heart is on the left, and scientists think tiny spinning hairs in the early embryo started that difference.",
@@ -1317,7 +1317,7 @@
      "qty": 1
     }
    ],
-   "safety": "Cover the edges of the mirrors with tape, because the edges can scratch. Do not drop them. Do not put the mirrors where they could reflect strong sunlight into anyone's eyes.",
+   "safety": "Glass mirrors can cut. A grown-up covers all the edges with tape, or use plastic mirrors. Do not drop them. Do not put the mirrors where they could reflect strong sunlight into anyone's eyes.",
    "schedule": [
     {
      "day": 1,

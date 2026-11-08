@@ -181,7 +181,7 @@
     "India's INSAT and GSAT satellites sit in geostationary orbit and carry TV, phone and weather signals.",
     "A satellite that is a little lower than another one will slowly overtake it.",
     "To move a satellite to a higher orbit, an engine speeds it up at the right moment, and afterwards it settles into a slower, higher circle.",
-    "Katherine Johnson, an American mathematician, worked out the paths of the first American crewed orbit flights by hand in the early 1960s."
+    "Katherine Johnson, an American mathematician, worked out paths for the first American crewed space flights in the early 1960s, and checked the computer's numbers by hand for John Glenn's orbit flight."
    ],
    "perspectives": [],
    "art": "Three circles round the Earth for the space station, a navigation satellite and a geostationary satellite, with lap times of 90 minutes, 12 hours and 24 hours.",
@@ -276,7 +276,7 @@
    "concept": "Space junk",
    "status": "defined",
    "definition": "Space junk is the broken and unused things that still orbit the Earth. At orbital speed even a tiny piece can do great damage.",
-   "description": "Since 1957, thousands of rockets and satellites have been launched. Dead satellites, empty rocket stages and the pieces from collisions still orbit the Earth. Tens of thousands of pieces bigger than a few centimetres are tracked, and there are millions of smaller flecks. Something moving at 8 kilometres a second carries more energy than a bullet, even if it is only a fleck of paint. In 2009, a working satellite and a dead one collided and made thousands of pieces. The space station has moved out of the way of junk several times. Junk in low orbits slowly falls back, because there is a trace of air even at that height, and it burns up. Junk at 36,000 kilometres stays for ages. So old satellites there are pushed a little higher, into a 'graveyard' orbit, before they die.",
+   "description": "Since 1957, thousands of rockets and satellites have been launched. Dead satellites, empty rocket stages and the pieces from collisions still orbit the Earth. Tens of thousands of pieces bigger than about 10 centimetres are tracked, and there are millions of smaller flecks. Something moving at 8 kilometres a second carries more energy than a bullet, even if it is only a fleck of paint. In 2009, a working satellite and a dead one collided and made thousands of pieces. The space station has moved out of the way of junk several times. Junk in low orbits slowly falls back, because there is a trace of air even at that height, and it burns up. Junk at 36,000 kilometres stays for ages. So old satellites there are pushed a little higher, into a 'graveyard' orbit, before they die.",
    "examples": [
     "A speck of paint has cracked a window of the space station.",
     "The Moon's orbit has no air to clean it, so junk there would stay.",
@@ -1557,7 +1557,7 @@
      "do": "Lay the tape measure on the floor from the Earth's middle. Put a sticker on the floor at 3.84 metres. Walk to it. This is where the Moon would be on the map.",
      "say": "The Moon is 384,000 kilometres away. On our map that is 384 centimetres. Let's walk there and see how far it is from our biggest circle.",
      "kid": "Put a sticker 3.84 metres from the Earth. This is the Moon.",
-     "parent": "The Moon's distance is about 9 times the radius of the geostationary circle. Note that on a map this size, the station's ring is thinner than your pencil line. Everyone who has ever flown to the Moon crossed all those rings in a few hours of the trip.",
+     "parent": "The Moon's distance is about 9 times the radius of the geostationary circle. Note that on a map this size, the gap between the Earth's line and the station's line is only about the width of a fingernail. Everyone who has ever flown to the Moon crossed all those rings in a few hours of the trip.",
      "check": {
       "t": "mcq",
       "q": "On the map, the geostationary circle is 42.2 centimetres from the middle and the Moon is 384 centimetres. About how many times farther is the Moon?",
@@ -1610,7 +1610,7 @@
      "qty": 2
     }
    ],
-   "safety": "A grown-up makes the holes with a pin, on a wooden board, pushing away from their hands. Plastic cups with sharp edges should be trimmed or taped.",
+   "safety": "A grown-up makes the holes with a pin, on a wooden board, pushing away from their hands. Plastic cups with sharp edges should be trimmed or taped. Use a button as the string stopper if you can, because matches are not toys.",
    "schedule": [
     {
      "day": 1,
@@ -1652,7 +1652,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Stand 5 metres apart, with the string pulled tight. One person whispers into a cup. The other holds the other cup to their ear. Then let the string go slack and try again. Then pinch the string with a finger and try again.",
+     "do": "Stand as far apart as the string allows, about 4 metres, with the string pulled tight. One person whispers into a cup. The other holds the other cup to their ear. Then let the string go slack and try again. Then pinch the string with a finger and try again.",
      "say": "Pull the string tight and whisper a number into your cup. Can your friend hear it? Now let the string go loose. Now pinch the string. What changes?",
      "kid": "Whisper into the cup. Try tight, slack and pinched. What do you hear?",
      "parent": "Expected: it works when tight, it fades or fails when slack, and it stops or goes quiet when the string is pinched. The sound is a shaking that passes along the string. A slack string cannot pass the shaking well.",
@@ -1695,7 +1695,7 @@
      "caption": "1. A grown-up makes a hole in each cup."
     },
     {
-     "art": "Two cups joined by a tight string, with two children five metres apart, one whispering and one listening.",
+     "art": "Two cups joined by a tight string, with two children four metres apart, one whispering and one listening.",
      "caption": "2. Pull the string tight. Whisper into one cup."
     },
     {
@@ -1922,7 +1922,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors. Never aim a straw rocket at a face, and keep away from windows and glass. Test in a cleared space, and let the child blow only into the straw.",
+   "safety": "A grown-up helps with the scissors. Never aim a straw rocket at a face, and keep away from windows and glass. Test in a cleared space, let the child blow only into the straw, and never suck in through it, because the rocket or the clay could be breathed in. Keep the clay away from children under five.",
    "schedule": [
     {
      "day": 1,
@@ -1997,7 +1997,7 @@
      "do": "Ask for what I think, what I saw and why. Then ask how real rockets steer.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Real rockets fly where there is no air, so fins cannot push on anything. How might a real rocket keep pointing the right way?",
      "kid": "Say what I think, what I saw and why. How does a rocket steer without air?",
-     "parent": "A good answer: fins keep the tail behind the nose, because air pushes on them if the rocket starts to turn sideways. That is true in air. In space there is no air, so real rockets steer by tilting their engines, or by firing small thrusters. India's PSLV swivels its engine nozzles to steer, a method called thrust vectoring.",
+     "parent": "A good answer: fins keep the tail behind the nose, because air pushes on them if the rocket starts to turn sideways. That is true in air. In space there is no air, so real rockets steer by tilting their engines, or by firing small thrusters. Rockets such as India's PSLV steer partly by tilting their engine nozzles, a method called thrust vectoring.",
      "check": {
       "t": "mcq",
       "q": "Why can fins steer a paper rocket in a room but not a rocket in space?",

@@ -198,7 +198,7 @@
    "description": "Leonardo da Vinci noticed that when a tree branch splits, the areas of the cut ends of the daughter branches add up to the area of the cut end of the mother branch. So the cut ends of all the branches at one height add up to about the trunk. Blood vessels follow a different rule, found by Cecil Murray in 1926. For vessels, the cubes of the widths add up. Both rules help the living body move fluid at the least cost. But why trees follow Leonardo's rule is not settled.",
    "examples": [
     "A tree: the cut ends of all the branches at one height add up to about the trunk.",
-    "A blood vessel splitting in two: the narrower vessels are about 80 percent as wide as the wider one, if equal.",
+    "A blood vessel splitting in two: two equal daughter vessels are each about 80 percent as wide as the mother vessel.",
     "A river: each tributary adds to the main river."
    ],
    "perspectives": [
@@ -208,7 +208,7 @@
     },
     {
      "who": "The wind explanation",
-     "explanation": "In 2011 the scientist Christophe Eloy showed that a tree built by Leonardo's rule has about the same bending stress from wind in every branch, however small. So a tree built this way is equally safe against wind at every size. Many scientists now think both explanations are partly right."
+     "explanation": "In 2011 the scientist Christophe Eloy showed that Leonardo's rule fits a tree whose branches, big and small, are about equally likely to snap in the wind. So a tree built this way is equally safe against wind at every size. Both explanations may be partly right."
     }
    ],
    "art": "A tree split into branches with their widths marked, next to a blood vessel splitting into two thinner vessels."
@@ -230,7 +230,7 @@
    "concept": "Spirals that keep their shape: shells",
    "status": "defined",
    "definition": "A shell grows by making each new whorl a fixed fraction wider than the last. That is a logarithmic spiral, and the shell keeps the same shape as it grows.",
-   "description": "A rope coiled on the floor has equal gaps between its turns. It grows by adding the same amount each turn, and it is called an Archimedean spiral. A snail shell is different. Each new whorl is wider than the last by the same fraction, say 1.5 times. So the gaps get bigger and bigger. This is a logarithmic spiral. Because the fraction is always the same, a small shell and a big shell of one kind have the same shape, and you can work out the missing small whorls of a broken shell by dividing. In the 1960s, the palaeontologist David Raup showed that three numbers are enough to describe the shape of almost any coiled shell: how fast the whorls widen, how far the opening sits from the middle, and how fast the shell slides along its axis. The mathematician Jacob Bernoulli loved the logarithmic spiral so much that it is said he asked for one on his tombstone. The stonemason carved a different kind.",
+   "description": "A rope coiled on the floor has equal gaps between its turns. It grows by adding the same amount each turn, and it is called an Archimedean spiral. A snail shell is different. Each new whorl is wider than the last by the same fraction, say 1.5 times. So the gaps get bigger and bigger. This is a logarithmic spiral. Because the fraction is always the same, a small shell and a big shell of one kind have the same shape, and you can work out the missing small whorls of a broken shell by dividing. In the 1960s, the palaeontologist David Raup showed that four numbers are enough to describe the shape of most coiled shells: how fast the whorls widen, how far the opening sits from the middle, how fast the shell slides along its axis, and the shape of the opening. The mathematician Jacob Bernoulli loved the logarithmic spiral so much that it is said he asked for one on his tombstone. The stonemason carved a different kind.",
    "examples": [
     "A coiled rope: equal gaps, Archimedean.",
     "A snail shell: growing gaps, logarithmic.",
@@ -325,7 +325,7 @@
   },
   {
    "text": "A coiled shell grows by making each whorl a fixed fraction wider than the last, so the shell keeps the same shape.",
-   "evidence": "Scientists such as David Raup showed that three numbers describe the shape of almost any coiled shell, and growth lines on shells match the pattern."
+   "evidence": "Scientists such as David Raup showed that four numbers describe the shape of most coiled shells, and growth lines on shells match the pattern."
   },
   {
    "text": "Leaves on many plants turn by a fraction of a circle such as 1 over 2, 1 over 3, 2 over 5 or 3 over 8 between neighbours, and these fractions approach the golden angle of about 137.5 degrees.",
@@ -887,7 +887,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Wash hands afterwards.",
+   "safety": "Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Some plants, such as chilli, can sting the eyes, so keep hands away from your face. Wash hands afterwards.",
    "record": "Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn.",
    "context": "In this experiment, you tag the leaves of a real stem, follow a thread round it and work out how far each leaf turns from the last. You compare your result with the fractions that plants often use.",
    "setup": [
@@ -1205,7 +1205,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not light the mosquito coil. Do not use one that has been lit. Wash your hands after touching it.",
+   "safety": "Do not light the mosquito coil. Do not use one that has been lit. Keep it away from your face and food, and wash your hands after touching it. If you use a murukku, it is food: check for allergies such as sesame, and do not eat the one you measured. Broken shells can have sharp edges, so handle them with care.",
    "schedule": [
     {
      "day": 1,
@@ -1474,7 +1474,7 @@
        ]
       }
      ],
-     "parent": "The curve after many folds is called the dragon curve. It was described by three NASA scientists in 1966, and it was made famous by the writer Martin Gardner in 1967. Each part looks like a smaller dragon, so it is a fractal. If you folded for ever, the dragon curve would cover a patch of the page without crossing itself.",
+     "parent": "The curve after many folds is called the dragon curve. It was first worked out by three physicists, John Heighway, Bruce Banks and William Harter, in 1966, and it was made famous by the writer Martin Gardner in 1967. Each part looks like a smaller dragon, so it is a fractal. If you folded for ever, the dragon curve would cover a patch of the page without crossing itself.",
      "context": "In this step, you compare the shapes after different numbers of folds."
     }
    ]
@@ -1837,7 +1837,7 @@
        "q": "Which design is better, the star or the H-tree, and why?",
        "good": [
         "The H-tree, because every pot gets water at the same time.",
-        "The star uses less pipe, but the distances are not the same.",
+        "The star has pots at different distances, and it uses more pipe than the H-tree.",
         "It depends on what you want."
        ]
       }
@@ -2678,7 +2678,7 @@
     "Keeping all dust out"
    ],
    "a": 0,
-   "why": "Oxygen can only pass into the blood through a thin surface. Branching packs a surface as large as a badminton court into the chest.",
+   "why": "Oxygen can only pass into the blood through a thin surface. Branching packs a surface about as big as half a tennis court into the chest.",
    "outcome": 5
   },
   {
@@ -2740,7 +2740,7 @@
   "Engineers build fractal antennas that fold a long wire into a small space so a phone can catch several wavelengths.",
   "Computer artists use a few simple rules and a die to draw ferns, clouds and mountains for films and games.",
   "Plant breeders and gardeners use the arrangement of leaves to space plants so that every leaf gets light.",
-  "Shell researchers use three numbers to describe and compare the shapes of coiled shells, including fossils.",
+  "Shell researchers use a few numbers to describe and compare the shapes of coiled shells, including fossils.",
   "Weather forecasters track the spiral of a cyclone to predict where it will land and how strong it will be.",
   "Chemists and physicists use random-walker models to understand how crystals, soot and metals grow in branches.",
   "Water engineers design pipe networks with equal path lengths, like the H-tree, to deliver water or signals to many places at the same time.",

@@ -23,7 +23,7 @@
 - **Ellipse**: A shape like a stretched circle, an oval. It has two special points inside it called foci. *e.g.* Each planet goes round the Sun on an ellipse, with the Sun at one focus.
 - **Arcminute**: A very small angle. There are 60 arcminutes in one degree. The Moon is about 30 arcminutes wide in the sky. *e.g.* Tycho Brahe measured the places of planets to about one arcminute without a telescope.
 - **Quadrant**: A tool for measuring how high something is in the sky. It is a quarter of a circle with a scale of degrees and a way to sight along an edge. *e.g.* Tycho Brahe had a huge brass quadrant, with a radius of about two metres.
-- **Astrolabe**: A round brass instrument, often hand-sized, for measuring the height of the Sun or a star and for working out the time and the direction. *e.g.* Mahendra Suri wrote the first Sanskrit book on the astrolabe in 1370.
+- **Astrolabe**: A round brass instrument, often hand-sized, for measuring the height of the Sun or a star and for working out the time and the direction. *e.g.* Mahendra Suri wrote the first surviving Sanskrit book on the astrolabe about 1370.
 - **Gnomon**: The part of a sundial that casts the shadow. It can be a stick, a wall or a stone stairway. *e.g.* The stairway of the great Samrat Yantra in Jaipur is a gnomon.
 - **Latitude**: How far north or south a place is from the equator, measured in degrees. It is also the height of the Pole Star above the horizon. *e.g.* Chennai is at about 13 degrees north. Jaipur is at about 27 degrees north.
 - **Local noon**: The moment when the Sun is highest in the sky at your place, and shadows point exactly north or south. *e.g.* Local noon in Kolkata comes about an hour before local noon in Jaipur.
@@ -59,7 +59,7 @@ In a smooth aeroplane, flying at 800 kilometres an hour, you can pour a cup of t
 ### A Sun at the centre: Nilakantha and Copernicus · *defined*
 **Definition:** A heliocentric model puts the Sun at the centre of the planets' paths. In Kerala about 1500, and in Poland in 1543, astronomers made models in which the planets go round the Sun.
 
-Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha in 1501. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the odd behaviour of the planets in a neat way. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is Earth overtaking a slower, outer planet, as a car overtakes a lorry. And the Sun-centred model made the planets' sizes and orders follow in a simple way.
+Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha about 1500. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the odd behaviour of the planets in a neat way. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is Earth overtaking a slower, outer planet, as a car overtakes a lorry. And the Sun-centred model made the planets' sizes and orders follow in a simple way.
 - e.g. Tycho Brahe later made a middle model, in which the planets go round the Sun and the Sun goes round the Earth. Nilakantha's is similar.
 - e.g. The loops of Mars seen from the faster Earth are like a lorry that seems to slide backwards while you overtake it.
 - e.g. Copernicus kept his idea to himself for years, and his book appeared in print only in 1543, the year he died.
@@ -87,21 +87,21 @@ In 1729, James Bradley found that every star seems to make a tiny yearly circle 
 ### Why bigger instruments were built · *defined*
 **Definition:** Before telescopes, the finer an instrument's scale, the more exactly it could measure an angle. A bigger instrument can have finer divisions that are easier to read.
 
-A quadrant that is a hand wide has a scale you can read to about one degree. A quadrant two metres wide has a scale where one arcminute is a few millimetres long. That is why Tycho built enormous brass instruments. From 1724 to about 1740, Raja Sawai Jai Singh II built five observatories in India, called the Jantar Mantar, at Delhi, Jaipur, Ujjain, Varanasi and Mathura. The Samrat Yantra at Jaipur is a stairway about 27 metres high that works as a sundial, and its shadow edge creeps along the scale at about six centimetres a minute. Jai Singh built in stone because brass instruments bent and wore. Ulugh Beg built a huge observatory at Samarkand in the 1420s, with an arc made in a trench in the ground.
+A quadrant that is a hand wide has a scale you can read to about one degree. A quadrant two metres wide has a scale where one arcminute is a few millimetres long. That is why Tycho built enormous brass instruments. From 1724 to about 1737, Raja Sawai Jai Singh II built five observatories in India, called the Jantar Mantar, at Delhi, Jaipur, Ujjain, Varanasi and Mathura. The Samrat Yantra at Jaipur is a stairway about 27 metres high that works as a sundial, and its shadow edge creeps along the scale at about six centimetres a minute. Jai Singh built in stone because brass instruments bent and wore. Ulugh Beg built a huge observatory at Samarkand in the 1420s, with an arc made in a trench in the ground.
 - e.g. A stone instrument cannot warp like a thin brass one, so it keeps its shape.
 - e.g. The Jaipur Samrat Yantra is still used to tell the local time, and it is within a minute or two.
 - e.g. Even a huge sundial has a blurry shadow edge, because the Sun is a disc and not a point.
 ### Astrolabes and observatories across the Islamic world and India · *defined*
 **Definition:** From about 800 to 1500, astronomers in Baghdad, Cairo, Samarkand and India built observatories, improved the astrolabe and kept long records of the sky.
 
-Astronomers wrote in Arabic, Persian and Sanskrit, and often learned from each other's books. Al-Biruni, who worked about the year 1000, measured the size of the Earth by climbing a mountain and measuring the dip of the horizon. He also wrote a book about India and its astronomy. A woman named Mariam al-Asturlabi made astrolabes in Aleppo about the year 950. In 1259, the Maragha observatory was built in what is now Iran, and its astronomers found new ways to use circles to match the planets. In 1370, Mahendra Suri wrote the Yantraraja, the first Sanskrit book on the astrolabe, at the court of Firuz Shah Tughlaq in Delhi. These astronomers made many of the exact tables that Europeans later used.
+Astronomers wrote in Arabic, Persian and Sanskrit, and often learned from each other's books. Al-Biruni, who worked about the year 1000, measured the size of the Earth by climbing a mountain and measuring the dip of the horizon. He also wrote a book about India and its astronomy. A woman known as al-Ijliyya, often called Mariam al-Asturlabi, made astrolabes in Aleppo about the year 950. In 1259, the Maragha observatory was built in what is now Iran, and its astronomers found new ways to use circles to match the planets. About 1370, Mahendra Suri wrote the Yantraraja, the first surviving Sanskrit book on the astrolabe, at the court of Firuz Shah Tughlaq in Delhi. These astronomers made many of the exact tables that Europeans later used.
 - e.g. An astrolabe could tell the time, the direction of Mecca and the height of a star, all on one brass disc.
 - e.g. Ulugh Beg's catalogue of more than 1,000 stars, made in Samarkand about 1437, was the best for generations.
 - e.g. Many star names in use today, such as Aldebaran, come from Arabic.
 ### What the stars are made of · *defined*
 **Definition:** In 1925, Cecilia Payne showed that stars are made mostly of hydrogen and helium. This overturned the old belief that stars are made of the same stuff as the Earth.
 
-Starlight can be split into a rainbow with dark lines. Each kind of atom leaves its own pattern of lines. In 1920, the Indian physicist Meghnad Saha worked out how the heat of a star changes the lines that atoms make. Using his equation, Cecilia Payne, a young astronomer at Harvard, studied the lines in the light of many stars in 1925. She found that stars are mostly hydrogen, with some helium, and only a small share of the heavier elements. The senior astronomers did not believe her at first. Her teacher said it was impossible, and she added a line saying so. Four years later, another astronomer confirmed her result, and she was proved right. She later became a professor at Harvard, the first woman to lead a department there.
+Starlight can be split into a rainbow with dark lines. Each kind of atom leaves its own pattern of lines. In 1920, the Indian physicist Meghnad Saha worked out how the heat of a star changes the lines that atoms make. Using his equation, Cecilia Payne, a young astronomer at Harvard, studied the lines in the light of many stars in 1925. She found that stars are mostly hydrogen, with some helium, and only a small share of the heavier elements. The senior astronomers did not believe her at first. The senior astronomer Henry Norris Russell told her it was impossible, and she added a line saying so. Four years later, another astronomer confirmed her result, and she was proved right. She later became a professor at Harvard, the first woman to lead a department there.
 - e.g. The Sun is about three quarters hydrogen by mass and one quarter helium.
 - e.g. The same method of splitting light shows what is in galaxies we cannot visit.
 - e.g. Meghnad Saha was born in what is now Bangladesh, and he later became a professor in Kolkata.
@@ -188,7 +188,7 @@ The Sun going round us and the Earth turning under the Sun are the same sight fr
 ## Story: The Blurred Edge of the Shadow
 *Ishani, her grandmother, Dev, the guide and the visit are made up. The Jantar Mantar in Jaipur is real, and so is the great stone sundial, called the Samrat Yantra. India's clock time is set by the Sun at 82.5 degrees east. In mid-April the Sun reaches its highest point at Jaipur about 27 minutes after 12 o'clock Indian Standard Time.*
 
-It was a hot April morning in Jaipur, and Ishani was nine years old and far from home. She had come from Madurai by train with her grandmother, Ammamma, and her cousin Dev, who was six. Ammamma had a friend in Jaipur and she wanted to see the old observatory.
+It was a hot April day in Jaipur, and Ishani was nine years old and far from home. She had come from Madurai by train with her grandmother, Ammamma, and her cousin Dev, who was six. Ammamma had a friend in Jaipur and she wanted to see the old observatory.
 
 "It looks like a place where giants left their stairs," said Dev.
 
@@ -385,7 +385,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Note: To read the angle: sight the sticker along the straw. Hold the thread against the card with a finger so that it stops swinging. Read the number on the scale. When the straw is level, the thread crosses 90. The angle of the sticker is the difference between the reading and 90, whichever way round. For example, a reading of 63 means 27 degrees.
   - Check: When the straw points level, the thread crosses the 90 mark. The thread crosses 63 when you sight the sticker. What is the sticker's angle above level? → **27 degrees**
 - **s3 (8 min)**  
-  *Parent does:* Stand 4 metres from the wall. Hold the quadrant in your hands with the short straw. Sight the sticker, pinch the thread and read the number. Write it down. Look away, then do it nine more times.  
+  *Parent does:* Stand 2 metres from the wall. Hold the quadrant in your hands with the short straw. Sight the sticker, pinch the thread and read the number. Write it down. Look away, then do it nine more times.  
   *Parent says:* Hold the quadrant in your hands. Look through the straw at the sticker. Pinch the thread and read. Write it down, look away, and try again. Ten times.  
   *Child mode:* Hold the quadrant. Sight the sticker. Pinch the thread. Read. Ten times.
   - Note: Stand in the same place every time. Mark the spot with tape. Expect the readings to differ by a few degrees when the quadrant is held in the hands.
@@ -438,7 +438,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Child mode:* Find your latitude. Take it away from 90. That is your dial's tilt.
   - Note: The tilt makes the dial plate parallel to the Earth's equator. That way, the Sun's shadow turns evenly, 15 degrees every hour, because the Earth turns 15 degrees every hour. At Jaipur, the tilt of the great stone dial is its latitude, about 27 degrees.
 - **s2 (12 min)**  
-  *Parent does:* Mark a dot in the middle of the card. Use the protractor to draw 12 lines from the dot to the edge, 15 degrees apart. Make one line point straight down the page. Write 12 on it. Then write 11, 10, 9, 8, 7, 6 round one way, and 1, 2, 3, 4, 5, 6 the other. Do the same on the back of the card.  
+  *Parent does:* Mark a dot in the middle of the card. Use the protractor to draw 13 lines from the dot to the edge, 15 degrees apart. Make one line point straight down the page. Write 12 on it. Then write 11, 10, 9, 8, 7, 6 round one way, and 1, 2, 3, 4, 5, 6 the other. Do the same on the back of the card.  
   *Parent says:* Draw the noon line straight down. Then draw a line every 15 degrees. Each one is an hour. Mark both sides of the card, because in some months the Sun lights the back of the dial.  
   *Child mode:* Mark the middle. Draw lines 15 degrees apart. Write the hours on the lines.
   - Note: The Sun is north of the equator from about March to September. Then the shadow falls on the upper face. From about September to March, it is south of the equator and the shadow falls on the lower face. A card with hours on both faces works all year.
@@ -452,7 +452,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Parent does:* On a sunny day, set up the dial in sunlight. Do this four times in the day, such as at 10, 11, 12 and 1 o'clock. Note the phone time. Read the time where the pencil's shadow falls. Write both in the table. Work out the difference each time.  
   *Parent says:* Read the hour line where the middle of the pencil's shadow falls. The edge is a little blurred, so read the middle. What does your phone say? What is the difference?  
   *Child mode:* Read the dial at four times. Write the phone time too. What is the difference?
-  - Note: Expect the dial to differ from the phone by a few minutes to about half an hour, and the difference changes a little through the year. There are two reasons. First, India uses one clock time for everyone, set by the Sun at 82.5 degrees east. The Sun is 4 minutes later for each degree you are west of that. Second, the Earth's path is a little oval and its axis tilts, so the Sun runs up to about 16 minutes fast or slow through the year. Kolkata is east and its Sun is earlier. Mumbai and Jaipur are west, and their Sun is later.
+  - Note: Expect the dial to differ from the phone by a few minutes to about an hour, and the difference changes a little through the year. There are two reasons. First, India uses one clock time for everyone, set by the Sun at 82.5 degrees east. The Sun is 4 minutes later for each degree you are west of that. Second, the Earth's path is a little oval and its axis tilts, so the Sun runs up to about 16 minutes fast or slow through the year. Kolkata is east and its Sun is earlier. Mumbai and Jaipur are west, and their Sun is later.
 - **s5 (8 min)**  
   *Parent does:* Look at the table of differences. Ask for what I think, what I saw and why. Then talk about the great dial at Jaipur.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? The dial at Jaipur is the same design, but 27 metres tall. What do you think its extra size gives?  
@@ -472,7 +472,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Parent does:* Three days later, at the same time, go out and draw the same patch of sky. Compare it with the first drawing. Has the planet moved against the stars? Which way?  
   *Parent says:* Three nights later, same time, same place. Where is the planet now? Where are the stars? Which have moved, and which have not?  
   *Child mode:* Draw the same patch again. Has the planet moved against the stars?
-  - Note: A planet that is moving quickly, such as Venus or Mars, may shift by a fist or more in a few days. Jupiter and Saturn move slowly, maybe a fingertip. If you cannot see a shift, look at the three nights together. The stars stay put in the drawing and the planet slides.
+  - Note: A planet that is moving quickly, such as Venus or Mars, may shift by a few finger-widths in a few days. Jupiter and Saturn move slowly, less than a finger-width. If you cannot see a shift, look at the three nights together. The stars stay put in the drawing and the planet slides.
   - Check: Why were planets called 'wanderers' by the Greeks? → **They change place among the fixed stars from night to night**
 - **s3 (10 min)**  
   *Parent does:* On the seventh night, draw it a third time. Then use the app to speed up time by a month a second. Watch Mars, Jupiter or Saturn for a year. Look for the backward loop.  
@@ -550,7 +550,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Parent does:* Stand the stick upright in clay on a sheet of paper in a sunny place, taped down so it cannot move. Mark the stick's base. Mark the tip of its shadow with a cross and write the time.  
   *Parent says:* The shadow of a stick moves as the Earth turns. We will mark where the tip of the shadow falls every 15 minutes. Begin about an hour before you think the Sun is highest.  
   *Child mode:* Stand a stick on paper in the Sun. Mark the tip of the shadow. Write the time.
-  - Note: Local noon is between about 11:30 and 12:45 on a phone clock, depending on where you live. Start around 11:15 so you catch the shortest shadow. Do not move the paper.
+  - Note: Local noon is between about 11:15 and 13:00 on a phone clock, depending on where you live in India and the time of year. Start by 11:00 so you catch the shortest shadow, and keep marking until the shadow starts to grow longer. Do not move the paper.
 - **s2 (20 min)**  
   *Parent does:* Every 15 minutes, mark the tip of the shadow with a cross and write the time. Do this at least five times. Join the crosses with a smooth curve.  
   *Parent says:* Mark the tip again. The shadow is changing length and direction. Is it getting shorter or longer? Which way is it turning?  
@@ -561,7 +561,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Parent does:* Find the cross that is nearest to the stick's base. Draw a straight line from the base through it. This is the north-south line. The time written next to that cross is your local noon.  
   *Parent says:* Find the shortest shadow. Draw a line from the stick's base through the tip. That line points north and south. The time of that cross is your local noon. Compare it with 12 o'clock on your phone.  
   *Child mode:* Find the shortest shadow. Draw a line from the base through it. Compare the time to your phone.
-  - Note: If the shortest shadow falls between two crosses, draw the curve and read the nearest point to the base. Your local noon will differ from 12:00 by up to about half an hour, from your place and the time of year.
+  - Note: If the shortest shadow falls between two crosses, draw the curve and read the nearest point to the base. Your local noon will differ from 12:00 by up to about an hour, from your place and the time of year.
   - Check: When is the shadow of a stick shortest in the day? → **At local noon, when the Sun is highest**
 - **s4 (7 min)**  
   *Parent does:* Compare your answer with a phone compass and with the sundial if you have made one. Ask: how close were you? What might have made your line a little wrong?  

@@ -219,7 +219,7 @@
    "status": "defined",
    "context": "This card tells where some well-known medicines came from, and who found them.",
    "definition": "Many medicines were found in living beings, such as trees, moulds and soil bacteria, and then made in factories.",
-   "description": "Living beings have been fighting each other with chemicals for a very long time. Moulds and soil bacteria make substances that kill other microbes near them, and some of those became our antibiotics. In 1928, Alexander Fleming saw a clear ring around a mould on a dish of bacteria, where no bacteria grew. That mould made penicillin. It took more than ten years, and the work of Howard Florey, Ernst Chain and Norman Heatley, before penicillin was made in enough quantity for patients. Dorothy Hodgkin worked out the shape of the penicillin molecule in the 1940s. In 1943, a lab worker named Mary Hunt brought a mouldy cantaloupe from a market in the United States, and its mould made far more penicillin than Fleming's. Streptomycin, the first medicine for tuberculosis, came from a soil bacterium, and a graduate student named Albert Schatz was the one who found it. Quinine, a medicine for malaria, came from the bark of the cinchona tree. In 1972, Tu Youyou, a Chinese scientist, found artemisinin in a plant called sweet wormwood, after reading a fourth century book of remedies. She won a Nobel Prize in 2015. In 1950, two American scientists made nystatin, the first safe medicine against fungus infections. They were Elizabeth Lee Hazen and Rachel Fuller Brown, and they worked in different cities and posted samples to each other.",
+   "description": "Living beings have been fighting each other with chemicals for a very long time. Moulds and soil bacteria make substances that kill other microbes near them, and some of those became our antibiotics. In 1928, Alexander Fleming saw a clear ring around a mould on a dish of bacteria, where no bacteria grew. That mould made penicillin. It took more than ten years, and the work of Howard Florey, Ernst Chain and Norman Heatley, before penicillin was made in enough quantity for patients. Dorothy Hodgkin worked out the shape of the penicillin molecule in the 1940s. In 1943, a mouldy cantaloupe from a market in Peoria, in the United States, gave scientists a mould that, grown in big tanks, made far more penicillin than Fleming's mould. The story says a lab worker called Mary Hunt brought the fruit in, though the records are not certain. Streptomycin, the first medicine for tuberculosis, came from a soil bacterium, and a graduate student named Albert Schatz was the one who found it. Quinine, a medicine for malaria, came from the bark of the cinchona tree. In 1972, Tu Youyou, a Chinese scientist, found artemisinin in a plant called sweet wormwood, after reading a fourth century book of remedies. She won a Nobel Prize in 2015. In 1950, two American scientists made nystatin, the first safe medicine against fungus infections. They were Elizabeth Lee Hazen and Rachel Fuller Brown, and they worked in different cities and posted samples to each other.",
    "examples": [
     "Penicillin comes from a mould that is closely related to the green mould on old bread.",
     "Quinine comes from cinchona bark, and cinchona trees were once grown in the Nilgiri hills to make it.",
@@ -512,7 +512,7 @@
    "\"Yes,\" said Muthassi. \"Mine was made from a mild cousin of the smallpox germ, which cows catch. It is a lesson, not an attack.\"",
    "\"But Muthassi, why did Thankamma Chechi stamp the milkman and the neighbours? They were not Gopi's family.\"",
    "Muthassi smiled. \"Fetch me some rice flour.\"",
-   "Anu came back with a steel plate of rice flour. On the balcony floor, Muthassi made dots in a square, like the start of a kolam. One dot she made red with a pinch of kumkum. \"That is Gopi's house. If a germ goes from house to house, which dots will it reach first?\"",
+   "Anu came back with a steel plate of rice flour. On the balcony floor, Muthassi made dots in a square, like the start of a kolam. One dot she made red with a pinch of kumkum. \"That is Gopi's house. If a germ goes from house to house, which dots will the germ reach first?\"",
    "Anu pointed to the dots that touched the red one. \"Those. And then the ones touching those.\"",
    "\"Now, if every one of those dots around the red one has a stamp?\"",
    "Anu rubbed white flour over the dots around the red one. Then she saw it. The germ had nowhere to go. A ring of protected people around the ill one, and the germ was stuck.",
@@ -841,7 +841,7 @@
     },
     {
      "kind": "tokens",
-     "title": "1 red germ token and 12 vaccine tokens",
+     "title": "1 red germ token and 24 vaccine tokens",
      "items": [
       "Red germ token: a small red paper square, or a red kumkum dot",
       "Vaccine token 1: a small paper square marked V, or a bean",
@@ -855,7 +855,19 @@
       "Vaccine token 9: a small paper square marked V, or a bean",
       "Vaccine token 10: a small paper square marked V, or a bean",
       "Vaccine token 11: a small paper square marked V, or a bean",
-      "Vaccine token 12: a small paper square marked V, or a bean"
+      "Vaccine token 12: a small paper square marked V, or a bean",
+      "Vaccine token 13: a small paper square marked V, or a bean",
+      "Vaccine token 14: a small paper square marked V, or a bean",
+      "Vaccine token 15: a small paper square marked V, or a bean",
+      "Vaccine token 16: a small paper square marked V, or a bean",
+      "Vaccine token 17: a small paper square marked V, or a bean",
+      "Vaccine token 18: a small paper square marked V, or a bean",
+      "Vaccine token 19: a small paper square marked V, or a bean",
+      "Vaccine token 20: a small paper square marked V, or a bean",
+      "Vaccine token 21: a small paper square marked V, or a bean",
+      "Vaccine token 22: a small paper square marked V, or a bean",
+      "Vaccine token 23: a small paper square marked V, or a bean",
+      "Vaccine token 24: a small paper square marked V, or a bean"
      ]
     },
     {
@@ -1026,7 +1038,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use warm water only, never hot, because very hot water can scald. A grown-up crushes the garlic with a knife. Do not taste or drink any glass. Keep the glasses away from babies and pets. Wash hands after handling garlic, and do not rub your eyes. At the end, pour everything down the sink and wash the glasses with soap.",
+   "safety": "Use warm water only, never hot, because very hot water can scald. A grown-up crushes the garlic with a knife. Do not taste or drink any glass. Keep the glasses away from babies and pets. Vinegar and garlic can sting the eyes, so do not rub them, and rinse with clean water if a drop splashes in. If anyone at home is allergic to any of these foods, leave that glass out and do not let that person handle it. Wash hands after handling garlic. At the end, pour everything down the sink and wash the glasses with soap.",
    "schedule": [
     {
      "day": 1,
@@ -2512,7 +2524,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a row of nine houses in a square. Colour one house red for an ill house. Then colour the neighbours of that house to show vaccinated houses, and show where the illness is stopped.",
+     "p": "Draw nine houses in a square, three rows of three. Colour one house red for an ill house. Then colour the neighbours of that house to show vaccinated houses, and show where the illness is stopped.",
      "a": "A drawing in which the vaccinated houses surround the ill house, and arrows from the ill house are stopped at them.",
      "why": "This is a ring. A germ spreads only to the neighbours within reach, so a ring of protected houses leaves it nowhere to go."
     },
@@ -3231,7 +3243,7 @@
   },
   {
    "j": "Why does a white blood cell win every quiz?",
-   "a": "It never forgets a face."
+   "a": "She never forgets a face."
   },
   {
    "j": "What do you call a germ that outlasted the medicine?",

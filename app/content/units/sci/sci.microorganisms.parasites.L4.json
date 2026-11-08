@@ -163,7 +163,7 @@
    "status": "defined",
    "context": "This card follows the Guinea worm all the way round. It shows the journey that a folded cloth helped to cut.",
    "definition": "The Guinea worm is a parasitic worm whose life cycle needs a person as the final host and a copepod as the intermediate host.",
-   "description": "A person drinks water that holds copepods. Some copepods carry baby worms, which are called larvae. Stomach acid kills the copepods, and frees the larvae. The larvae go through the wall of the gut and grow. About a year later, a female worm, up to about a metre long, moves to the skin of a leg or foot and makes a painful blister. The burning makes the person put the foot into water. The worm pushes out her head and lets out a cloud of tiny larvae. A copepod swallows the larvae. Inside the copepod the larvae grow for about two weeks, until they are ready to infect a person. Nobody can catch the Guinea worm from another person, or from touching the worm. People catch the worm only by drinking the water with the copepods. For centuries the worm was drawn out slowly, a little each day, round a stick. In dry parts of India, such as Rajasthan, people drank from step wells and ponds that were full of copepods. From the 1980s, health workers taught people to filter their water through cloth, and to keep an infected foot out of the water. They also treated ponds and step wells, and later dug wells and laid pipes. India was certified free of Guinea worm in 2000. In the 1980s there were several million cases a year in many countries, and now there are only a handful.",
+   "description": "A person drinks water that holds copepods. Some copepods carry baby worms, which are called larvae. Stomach acid kills the copepods, and frees the larvae. The larvae go through the wall of the gut and grow. About a year later, a female worm, about 70 to 120 centimetres long, moves to the skin of a leg or foot and makes a painful blister. The burning makes the person put the foot into water. The worm pushes out her head and lets out a cloud of tiny larvae. A copepod swallows the larvae. Inside the copepod the larvae grow for about two weeks, until they are ready to infect a person. Nobody can catch the Guinea worm from another person, or from touching the worm. People catch the worm only by drinking the water with the copepods. For centuries the worm was drawn out slowly, a little each day, round a stick. In dry parts of India, such as Rajasthan, people drank from step wells and ponds that were full of copepods. From the 1980s, health workers taught people to filter their water through cloth, and to keep an infected foot out of the water. They also treated ponds and step wells, and later dug wells and laid pipes. India was certified free of Guinea worm in 2000. In the 1980s there were several million cases a year in many countries, and now there are only a handful.",
    "examples": [
     "Larvae in a copepod take about two weeks to be ready. A person who drinks the copepod a year before the blister shows has no idea.",
     "A person with a blister who keeps the foot out of the village water breaks the journey at the first link.",
@@ -190,7 +190,7 @@
    "concept": "Why a parasite lays so many eggs: the odds multiply",
    "status": "defined",
    "context": "This card explains why parasites make huge numbers of eggs, using the odds at each stage of a journey.",
-   "definition": "The chance of a parasite finishing its whole journey is the chances at every stage multiplied together.",
+   "definition": "The chance of a parasite finishing her whole journey is the chances at every stage multiplied together.",
    "description": "Suppose an egg has a 1 in 10 chance of getting through each of four stages. Maybe it must land in water, then be eaten by the right animal, then grow, then reach a person. The chance of finishing all four is 1 in 10, then 1 in 100, then 1 in 1,000, then 1 in 10,000. So to get one adult, the parasite needs about ten thousand eggs. Real parasites have worse odds than that, so they make many thousands. A female roundworm can lay many thousands of eggs a day. A tapeworm releases whole segments full of eggs. A liver fluke gets help from a snail, because one young fluke inside a snail makes hundreds of copies of herself. The more stages and hosts a journey has, the more eggs the parasite makes. This is not waste. It is how a very fragile journey carries on, when most of it fails.",
    "examples": [
     "If the chance at each of 4 stages is 1 in 10, about 10,000 eggs are needed for one adult.",
@@ -285,11 +285,11 @@
    "art": "Two drawings: a soft active amoeba in a gut, and a hard-coated cyst floating in a glass of water."
   },
   {
-   "concept": "How a parasite finds its host: breath, warmth and smell",
+   "concept": "How a parasite finds a host: breath, warmth and smell",
    "status": "defined",
    "context": "This card says how parasites find a body in the first place. They sense the world and act on what they find.",
    "definition": "Parasites find hosts by sensing signs of a living body, such as warmth, breath, smell, light and movement.",
-   "description": "A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that one kind of mosquito, Aedes, can also sense the heat that skin gives off, from a short distance. A tick waits on a blade of grass and senses breath and warmth from an animal passing by. Hookworm larvae in damp soil sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses it has, and each reads the world in its own way. A mosquito reads breath and warmth as food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.",
+   "description": "A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that the malaria mosquito, Anopheles, uses a heat-sensing receptor to find warm skin from a short distance. A tick waits on a blade of grass and senses breath and warmth from an animal passing by. Hookworm larvae in damp soil sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses she has, and each reads the world in her own way. A mosquito reads breath and warmth as food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.",
    "examples": [
     "A mosquito finds you more easily after you run, because you breathe out more carbon dioxide.",
     "Hookworm larvae sense the touch of a bare foot, which is why chappals help.",
@@ -432,7 +432,7 @@
    "context": "This card is about a hurtful idea about scabies."
   },
   {
-   "claim": "A parasite that kills its host has done well.",
+   "claim": "A parasite that kills her host has done well.",
    "who": "A common idea",
    "for": "A parasite that takes a lot from a host seems to be winning.",
    "against": "A parasite that kills her host too soon dies with the host, unless she has already passed on. Many parasites do best when the host lives long enough to spread them, which is why most parasites harm their host only a little.",
@@ -1034,7 +1034,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the seeds away from babies and small children, who may put them in their mouth or nose. Nothing in this test is eaten or drunk, so do not taste the water. Turmeric stains cloth and fingers yellow, so use an old cloth and wash your hands afterwards. Wipe up spilt water so nobody slips.",
+   "safety": "Keep the seeds away from babies and small children, who may put them in their mouth or nose. Mustard and poppy seeds cause allergies in some people, so if anyone at home is allergic, use dry dal and rice grains instead, and wash hands after handling seeds. Nothing in this test is eaten or drunk, so do not taste the water. Turmeric stains cloth and fingers yellow, so use an old cloth and wash your hands afterwards. Wipe up spilt water so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -1521,7 +1521,7 @@
        "The worm was shy"
       ],
       "a": 0,
-      "why": "A worm that breaks leaves its other half inside the body, where it can cause infection. Winding slowly lets the worm come out whole. The stick is not the reason."
+      "why": "A worm that breaks leaves her other half inside the body, where it can cause infection. Winding slowly lets the worm come out whole. The stick is not the reason."
      },
      "context": "In this step you wind the first 2 centimetres of the worm."
     },
@@ -2069,7 +2069,7 @@
     "a steel plate to pour the water on and count the seeds",
     "a clock"
    ],
-   "safety": "A grown-up cuts any plastic bottle and covers the sharp edges with tape. Keep the seeds away from babies and small children. Wipe up spilt water so nobody slips, and wash the cloths and your hands afterwards.",
+   "safety": "A grown-up cuts any plastic bottle and covers the sharp edges with tape. Keep the seeds away from babies and small children. Mustard and poppy seeds cause allergies in some people, so if anyone at home is allergic, use dry dal and rice grains instead. Wipe up spilt water so nobody slips, and wash the cloths and your hands afterwards.",
    "general": [
     "Two layers of tight cotton tied over the mouth of the pot with string.",
     "A tea strainer lined with one layer of tight cotton.",
@@ -2252,7 +2252,7 @@
      "opts": [
       "A host where a young stage of a parasite grows, but where the parasite does not become an adult",
       "The host where the parasite becomes an adult and lays eggs",
-      "A carrier that moves the parasite and does not itself get ill"
+      "A carrier that moves the parasite and does not get ill herself"
      ],
      "a": 0,
      "why": "The final host is where the adult lives and makes eggs, and a vector carries a parasite from one host to the next. An intermediate host is where a young stage grows."
@@ -2384,7 +2384,7 @@
      "opts": [
       "A mosquito that carries the malaria parasite from one person to another",
       "The person who has malaria",
-      "The malaria parasite itself"
+      "The malaria parasite herself"
      ],
      "a": 0,
      "why": "A vector carries a parasite or a germ between hosts. The mosquito does this for malaria, while the person and the parasite are the host and the parasite."
@@ -2483,7 +2483,7 @@
     },
     {
      "t": "mcq",
-     "p": "Two layers of tight cotton caught all the seeds and took 100 seconds for 100 millilitres. Four layers caught all the seeds and took 180 seconds. For a village that must filter a lot of water, which is the better choice?",
+     "p": "Two layers of tight cotton caught all the seeds and took 100 seconds for 100 millilitres. Four layers caught all the seeds and took more than 180 seconds. For a village that must filter a lot of water, which is the better choice?",
      "opts": [
       "Two layers, because it protects just as well and is faster",
       "Four layers, because more layers are always better",
@@ -2626,7 +2626,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A parasite that kills its host quickly is the most successful kind.",
+     "p": "A parasite that kills her host quickly is the most successful kind.",
      "a": false,
      "why": "False. A parasite that kills her host too quickly dies with the host, unless she has already passed on. Many parasites do best when the host lives long enough to spread them."
     },
@@ -2795,7 +2795,7 @@
      "t": "write",
      "p": "The Culex mosquito who carries the filaria worm bites mostly at night, and the baby worms are mostly in the blood at night. Why does this match help the parasite?",
      "a": "The baby worms are in the blood when the mosquito is feeding, so she picks up many of them. If they were in the blood in the day, she would pick up few.",
-     "why": "A parasite's timing is part of its journey. Being in the right place at the right time makes the cycle more likely to finish."
+     "why": "A parasite's timing is part of her journey. Being in the right place at the right time makes the cycle more likely to finish."
     },
     {
      "t": "fill",
@@ -3474,5 +3474,5 @@
   "when": "1872 (baby worms found in Calcutta), 1877 (they grow in mosquitoes) and 1900 (they enter the skin by a bite)",
   "wrong_idea": "Manson thought people caught the worm by drinking water in which infected mosquitoes had died. George Low showed that the young worms sit in the mosquito's mouthparts and enter the skin when she bites."
  },
- "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Sari Filter Test: needs only seeds, cloth, a glass, a plate and a clock. The steps tell the parent what to do if the water is very slow, and say that the child's own cloths decide the result. The pattern in the examples is made up. Four Pots: grows wrigglers on purpose, so it runs for only five days and the steps tell the grown-up to empty and scrub on day 5. In dry or cold weather no mosquitoes may come, and the steps say that is a result too, to be repeated in a warmer week. Odds Gates: the average numbers for the gate rolls were worked out by hand and checked, about 2 of 36 beans in the plain run and about 6 with the snail. Order the Journey and Who Am I? have every card written out. Facts to verify before release: that India was certified free of Guinea worm in 2000, the sizes of copepods and larvae, the wording of the Gita verse 2.13 and of the line from Heraclitus in Plato's Cratylus 402a, the details of Manson's 1878 paper and Low's 1900 paper, Lewis's 1872 report from Calcutta, the claim that Aedes mosquitoes sense heat from skin, the state of Guinea worm in dogs, and the length of the videos."
+ "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Sari Filter Test: needs only seeds, cloth, a glass, a plate and a clock. The steps tell the parent what to do if the water is very slow, and say that the child's own cloths decide the result. The pattern in the examples is made up. Four Pots: grows wrigglers on purpose, so it runs for only five days and the steps tell the grown-up to empty and scrub on day 5. In dry or cold weather no mosquitoes may come, and the steps say that is a result too, to be repeated in a warmer week. Odds Gates: the average numbers for the gate rolls were worked out by hand and checked, about 2 of 36 beans in the plain run and about 6 with the snail. Order the Journey and Who Am I? have every card written out. Facts to verify before release: that India was certified free of Guinea worm in 2000, the sizes of copepods and larvae, the wording of the Gita verse 2.13 and of the line from Heraclitus in Plato's Cratylus 402a, the details of Manson's 1878 paper and Low's 1900 paper, Lewis's 1872 report from Calcutta, the claim that Anopheles mosquitoes sense heat from skin, the state of Guinea worm in dogs, and the length of the videos."
 }
