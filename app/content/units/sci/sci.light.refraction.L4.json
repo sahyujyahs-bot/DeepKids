@@ -275,7 +275,7 @@
    "concept": "Rainbows: every raindrop is a tiny lens and mirror",
    "status": "defined",
    "definition": "A rainbow is sunlight that has bent as it entered each raindrop, bounced off the back of the drop, and bent again on the way out. Each colour bends by a slightly different amount, so the colours leave the drop in slightly different directions.",
-   "description": "A raindrop is a tiny round lens. Sunlight enters the drop and bends. It hits the back of the drop at a shallow angle and bounces back, which is the same kind of reflection as in the silver ceiling. Then it bends again as it leaves the drop. Red leaves at an angle of about 42 degrees from the line pointing away from the Sun. Violet leaves at about 40 degrees. Every drop at the same angle from that line sends the same colour to your eye. So the drops make a circle of each colour around the point opposite the Sun. You see the rainbow only with the Sun behind you. No two people see exactly the same rainbow, because each person's eyes are at a different place and so get light from different drops. In a second rainbow, which is higher and fainter, the light bounces twice inside each drop, and the colours are in the opposite order. From an aeroplane, a rainbow can be seen as a full circle. About 1307 to 1309, Theodoric of Freiberg in Germany and Kamal al-Din al-Farisi in Persia each worked out, by experiments with glass balls filled with water, that this is how rainbows are made.",
+   "description": "A raindrop is a tiny round lens. Sunlight enters the drop and bends. Some of it bounces off the back of the drop, like off a weak mirror. This is not the silver-ceiling trick, because here only part of the light bounces back, which is why rainbows are fairly faint. Then it bends again as it leaves the drop. Red leaves at an angle of about 42 degrees from the line pointing away from the Sun. Violet leaves at about 40 degrees. Every drop at the same angle from that line sends the same colour to your eye. So the drops make a circle of each colour around the point opposite the Sun. You see the rainbow only with the Sun behind you. No two people see exactly the same rainbow, because each person's eyes are at a different place and so get light from different drops. In a second rainbow, which is higher and fainter, the light bounces twice inside each drop, and the colours are in the opposite order. From an aeroplane, a rainbow can be seen as a full circle. In the early 1300s, Theodoric of Freiberg in Germany and Kamal al-Din al-Farisi in Persia each worked out, by experiments with glass balls filled with water, that this is how rainbows are made.",
    "examples": [
     "A garden sprinkler on a sunny day makes a small rainbow when you stand with the Sun behind you.",
     "The fainter second rainbow outside a bright one has its colours in the opposite order.",
@@ -283,7 +283,7 @@
    ],
    "perspectives": [],
    "art": "A single raindrop with a sunbeam entering at the left, bending, bouncing off the back and leaving at the left again with red and violet fanning out, and a child with the Sun behind them.",
-   "context": "This card explains how bending and trapped light together make a rainbow."
+   "context": "This card explains how bending and bouncing light together make a rainbow."
   },
   {
    "concept": "Who invented the telescope?",
@@ -494,9 +494,9 @@
   ]
  },
  "how_we_found_out": {
-  "story": "Spectacles were first worn in Italy about 700 years ago. For more than 300 years, nobody could say why they helped. The old idea, taught since ancient Greece, was that the lens inside the eye is the part that sees, like a tiny screen. In 1604 the German astronomer Johannes Kepler worked out something different. The lens of the eye bends light to make a small upside-down picture on the back of the eye, the retina. If the eye bends light too much, the sharp picture forms in front of the retina, and the world looks blurry. A hollow lens in front of the eye can move the picture back. A bulging lens helps in the opposite case. In 1625 Christoph Scheiner, a German astronomer, took the back coats from an ox eye. He looked through the thin back and saw the tiny upside-down picture glowing there. So the lens was not the screen. It was only one of the lenses.",
-  "who": "Johannes Kepler (1604) and Christoph Scheiner (1625)",
-  "when": "1604 to 1625",
+  "story": "Spectacles were first worn in Italy about 700 years ago. For more than 300 years, nobody could say why they helped. The old idea, taught since ancient Greece, was that the lens inside the eye is the part that sees, like a tiny screen. In 1604 the German astronomer Johannes Kepler worked out something different. The lens of the eye bends light to make a small upside-down picture on the back of the eye, the retina. If the eye bends light too much, the sharp picture forms in front of the retina, and the world looks blurry. A hollow lens in front of the eye can move the picture back. A bulging lens helps in the opposite case. A few years later Christoph Scheiner, a German astronomer, took the back coats from an ox eye. He looked through the thin back and saw the tiny upside-down picture glowing there. So the lens was not the screen. It was only one of the lenses.",
+  "who": "Johannes Kepler (1604) and Christoph Scheiner (early 1600s)",
+  "when": "1604 to the early 1600s",
   "wrong_idea": "For centuries people believed that the lens inside the eye is the part that sees. Kepler showed that it bends light into a picture on the retina, and Scheiner showed that picture directly in an ox eye."
  },
  "roots": {
@@ -640,8 +640,8 @@
        "b": "STRAIGHT. Along the normal there is no bend, even though the light speeds up."
       },
       {
-       "f": "Sunlight inside a raindrop reaches the back of the drop at a shallow angle.",
-       "b": "TRAPPED. It bounces back inside the drop, then leaves through the front as part of a rainbow."
+       "f": "Light inside a glass prism in binoculars reaches a slanted face at 45 degrees from the normal.",
+       "b": "TRAPPED. The critical angle of glass is about 42 degrees. At 45 degrees all the light bounces back, which is how binoculars turn the picture the right way up."
       },
       {
        "f": "TEST IT. Hold a clear glass of water above your eyes. Look up through the side at the top of the water, at a slant. What does the water's top do?",
@@ -743,7 +743,7 @@
      "do": "Take turns. Each player takes the top card, reads the front, puts it on a mat and gives a reason. Then they read the back. Give tokens as the rules say.",
      "say": "Read your card. Tell us which mat, and why, in one sentence. Then read the back and see.",
      "kid": "Take turns. Read a card. Pick a mat. Say why. Check the back.",
-     "parent": "A good reason uses the words slower, faster, normal or angle. Give the first token for a good reason even when the mat is wrong. The diamond, diver, fibre, 60-degree water, water jet and raindrop cards all go on TRAPPED. The straight-down torch, honey marble, still air and along-the-normal cards go on STRAIGHT. The mirage card is AWAY, because the light moves faster in the hot air. Each card has its answer on the back.",
+     "parent": "A good reason uses the words slower, faster, normal or angle. Give the first token for a good reason even when the mat is wrong. The diamond, diver, fibre, 60-degree water, water jet and binocular prism cards all go on TRAPPED. The straight-down torch, honey marble, still air and along-the-normal cards go on STRAIGHT. The mirage card is AWAY, because the light moves faster in the hot air. Each card has its answer on the back.",
      "ask": [
       {
        "q": "What do the cards on the TRAPPED mat have in common?",
@@ -845,7 +845,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never shine the torch into anyone's eyes. A grown-up cuts the slit, and uses scissors or a craft knife on a firm table. Keep the phone away from the water, and wipe up spills at once, because a wet floor is slippery. Do not drink the water, especially if you added milk.",
+   "safety": "Never shine the torch into anyone's eyes. A grown-up cuts the slit, and uses scissors or a craft knife on a firm table. Keep the phone away from the water, and wipe up spills at once, because a wet floor is slippery. Do not drink the water, especially if you added milk. If anyone at home is allergic to milk, leave it out.",
    "record": "Fill in the table. Then draw the bend diagram for your 60 degree try: the surface line, the normal, the beam in the air in one colour and the beam in the water in another, with both angles written on it. Last, write what you think, what you saw, and why.",
    "example_chart": {
     "type": "bar",
@@ -883,7 +883,7 @@
      "caption": "1. Draw the surface line, the normal at O, and lines at 20, 40 and 60 degrees."
     },
     {
-     "art": "A clear plastic box of water with its long front wall exactly on the surface line and centred on O, with a few coins holding it still.",
+     "art": "A clear plastic box of water with its long front wall exactly on the surface line and its left end a little to the left of O, with a few coins holding it still.",
      "caption": "2. Put the box of water on the sheet, with its front wall on the surface line."
     },
     {
@@ -953,7 +953,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Put the box on the paper with its long front wall on the surface line and centred on O. Pour in the water, 3 centimetres deep. Add the milk, if you use it. Switch off the room light. Lay the torch at the end of the normal line, pointing at O. Look at where the bright line leaves the far wall.",
+     "do": "Put the box on the paper. Its long front wall goes on the surface line. Its left end goes about 4 centimetres left of O. Pour in the water, 3 centimetres deep. Add the milk, if you use it. Switch off the room light. Lay the torch at the end of the normal line, pointing at O. Look at where the bright line leaves the far wall.",
      "say": "First the straight-on beam. The torch is on the normal line. Watch the line that comes out of the far wall. Does it carry on straight, or does it bend?",
      "kid": "Put the torch on the normal line. Switch off the light. Does the beam bend?",
      "ask": [
@@ -1288,7 +1288,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Fill the box three quarters full of water. Stand over the tray. Hold the box up above your eyes with both hands. Look up through the side wall at the underside of the water. Keep your eyes low and look at a slant. Slowly dip the tip of a pencil into the top of the water from above, using the other hand.",
+     "do": "Fill the box three quarters full of water. Stand over the tray. Hold the box up above your eyes with one hand, or ask a grown-up to hold it steady. Look up through the side wall at the underside of the water. Keep your eyes low and look at a slant. Slowly dip the tip of a pencil into the top of the water from above, using the other hand.",
      "say": "Hold the box above your eyes. Look up through the side, at a low slant, at the top of the water. What do you see? What happens to the pencil tip?",
      "kid": "Hold the box above your eyes. Look up through the side. What does the top of the water look like?",
      "adult": false,
@@ -1368,7 +1368,7 @@
     }
    ],
    "record": "A drawing of the shiny patch on the road, with the sky in it. A drawing of the wobbling stripes. A sentence on why light bends in hot air.",
-   "safety": "A grown-up heats the plate and moves it. A hot plate stays hot for many minutes and can burn badly. Do not touch it, and keep it on a heat-proof mat, away from the table edge. Use oven gloves. Do not use any plastic near the hot plate.",
+   "safety": "A grown-up heats the plate and moves it. A hot plate stays hot for many minutes and can burn badly. Do not touch it, and keep it on a heat-proof mat, away from the table edge. Use oven gloves. Keep your face an arm's length from the plate. Do not use any plastic near the hot plate.",
    "context": "In this activity, you look for the shiny patch that appears on a hot road, and you look through the air above a hot plate to see light bending in hot air.",
    "setup": [
     {
@@ -1588,7 +1588,7 @@
    "mins": 60,
    "materials": [
     {
-     "item": "a weak bulging lens: reading spectacles with a power of plus 1 to plus 2 (a focal length of 100 to 50 centimetres), which you can borrow or buy for about Rs 100 to 200. You use the whole spectacle front",
+     "item": "a weak bulging lens: reading spectacles with a power of plus 2 to plus 3 (a focal length of 50 to 33 centimetres), which you can borrow or buy for about Rs 100 to 200. You use the whole spectacle front",
      "qty": 1,
      "buy": "b-readers"
     },
@@ -1598,7 +1598,7 @@
      "buy": "b-magnifier"
     },
     {
-     "item": "two cardboard tubes that slide into each other, or thin card rolled into tubes: one about 8 centimetres wide and 30 centimetres long, and one a little thinner and 30 centimetres long",
+     "item": "two cardboard tubes that slide into each other, or thin card rolled into tubes: one about 8 centimetres wide and 40 centimetres long, and one a little thinner and 40 centimetres long",
      "qty": 2
     },
     {
@@ -1817,7 +1817,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Take the box to a sunny window, balcony or terrace, with the bottle on top. Look through the viewing hole, and try to read the print in the far corner. Note how bright the box looks inside. Compare with a plain round hole of the same size in a second lid, if you have time.",
+     "do": "Take the box to a sunny window, balcony or terrace, with the bottle on top. Water in a bottle can focus sunlight like a lens. Keep paper, cloth and skin away from the bright spot. Never look at the Sun through it. Look through the viewing hole, and try to read the print in the far corner. Note how bright the box looks inside. Compare with a plain round hole of the same size in a second lid, if you have time.",
      "say": "Put the box in the Sun. Look in through the little hole. Can you read the print in the far corner? How bright is the inside? Is the light a spot or all over?",
      "kid": "Put the box in the Sun. Look in. Can you read the print?",
      "ask": [
@@ -3032,7 +3032,7 @@
   },
   {
    "id": "b-readers",
-   "item": "A pair of cheap reading spectacles, plus 1.5 or plus 2",
+   "item": "A pair of cheap reading spectacles, plus 2 or plus 2.5",
    "kind": "tool",
    "why": "For the model eye and the Two-Lens Telescope, if nobody at home has a pair to lend. A pavement or pharmacy pair costs about Rs 100 to 200.",
    "url": "https://www.amazon.in/s?k=reading+glasses+plus+2.0+men+women",
@@ -3142,11 +3142,11 @@
    "Ibn al-Haytham, Kitab al-Manazir (Book of Optics), about 1011 to 1021, on refraction and the eye",
    "Willebrord Snell, about 1621, and Rene Descartes, La Dioptrique, 1637, on the law of refraction",
    "Johannes Kepler, Ad Vitellionem Paralipomena, 1604, on the picture in the eye and how spectacles work",
-   "Christoph Scheiner, Oculus, 1619, and the ox-eye experiments reported in 1625, on the picture on the retina",
+   "Christoph Scheiner, Oculus, 1619, on the picture on the retina and the ox-eye experiment",
    "Jean-Daniel Colladon, the light fountain demonstration in Geneva, 1841, and John Tyndall's repeat at the Royal Institution, 1854",
    "Charles Kao and George Hockham, Dielectric-fibre surface waveguides for optical frequencies, Proceedings of the IEE, 1966",
    "Lene Vestergaard Hau, Stephen Harris, Zachary Dutton and Cyrus Behroozi, Light speed reduction to 17 metres per second in an ultracold atomic gas, Nature, 1999",
-   "Theodoric of Freiberg, about 1307, and Kamal al-Din al-Farisi, about 1309, on how rainbows are formed in raindrops",
+   "Theodoric of Freiberg and Kamal al-Din al-Farisi, early 1300s, on how rainbows are formed in raindrops",
    "Eugene Hecht, Optics, a standard university textbook, for critical angles, refractive indexes, mirages and rainbow angles"
   ]
  },

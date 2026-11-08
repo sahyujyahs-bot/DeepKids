@@ -774,7 +774,7 @@
        "b": "Check 2. If A is true, the pigeons will stay on the bell-free evening. If B is true, they will leave anyway when the light fades. Check 1 gives the same results for both ideas."
       },
       {
-       "f": "A money plant on the windowsill leans towards the glass. Idea A: it leans towards the light. Idea B: it leans towards the fresh air from outside. Which check tells them apart? 1) Shut the window and put a lamp on the other side of the plant. 2) Water it more. 3) Measure how tall it is.",
+       "f": "A money plant on the windowsill leans towards the glass. Idea A: the plant leans towards the light. Idea B: the plant leans towards the fresh air from outside. Which check tells them apart? 1) Shut the window and put a lamp on the other side of the plant. 2) Water the plant more. 3) Measure how tall it is.",
        "b": "Check 1. If A is true, the plant will lean towards the lamp. If B is true, it will still lean towards the window. Watering and measuring do not separate the ideas."
       },
       {

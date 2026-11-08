@@ -104,7 +104,7 @@
   {
    "term": "Claim, evidence, reasoning",
    "meaning": "A claim is what you say is true. Evidence is the numbers or things you saw that support it. Reasoning is why the evidence supports the claim.",
-   "example": "Claim: longer wings fall slower. Evidence: average 19 tenths against 12. Reasoning: bigger wings catch more air.",
+   "example": "Claim: longer wings fall slower. Evidence: average 21 tenths against 12. Reasoning: bigger wings catch more air.",
    "art": "Three boxes in a row labelled claim, evidence and reasoning with arrows between them."
   },
   {
@@ -175,7 +175,7 @@
    "concept": "Why the same test gives different numbers",
    "status": "defined",
    "definition": "Even a careful test gives slightly different numbers each time. The wobble comes from small changes you cannot control, and from small slips in measuring.",
-   "description": "A spinner dropped five times will never fall in exactly the same way. A draught moves the air a little. The hand lets go a little differently. The spinner starts a bit tilted. And the person with the stopwatch presses the button a fraction early or late. Human reaction takes about a fifth of a second. These small changes add up to a wobble in the numbers. The wobble is not a mistake. It is part of any real measurement. Because of it, one number from one try is never the whole story. We need several tries to see what is steady and what is wobble.",
+   "description": "A spinner dropped five times will never fall in exactly the same way. A draught moves the air a little. The hand lets go a little differently. The spinner starts a bit tilted. And the person with the stopwatch presses the button a fraction early or late. Human reaction takes about a fifth to a quarter of a second. These small changes add up to a wobble in the numbers. The wobble is not a mistake. It is part of any real measurement. Because of it, one number from one try is never the whole story. We need several tries to see what is steady and what is wobble.",
    "examples": [
     "Dropping the same spinner five times gives times such as 1.4, 1.6, 1.5, 1.3 and 1.7 seconds.",
     "Two people measure the same table and get 120 and 122 centimetres.",
@@ -276,7 +276,7 @@
    "definition": "A good conclusion has a claim, evidence and reasoning. It says what you found in your test, with its limits, and does not claim more.",
    "description": "A claim answers your question. Evidence gives the numbers that support it. Reasoning explains why the numbers support the claim. A good conclusion also has limits. It says what you tested and does not go beyond. If you tested three wing lengths, you can say what happened for those three. You cannot say what happens for a wing of 20 centimetres. If you measured on one day in one room, say that. Use careful words such as 'in our test', 'on average' and 'the evidence suggests'. If your results are not clear, say 'we cannot tell yet' and say what you would do next.",
    "examples": [
-    "Claim: longer wings fell more slowly. Evidence: the average time rose from 12 to 15 to 19 tenths. Reasoning: bigger wings catch more air. Limit: we tested only 4, 6 and 8 centimetres.",
+    "Claim: longer wings fell more slowly. Evidence: the average time rose from 12 to 16 to 21 tenths. Reasoning: bigger wings catch more air. Limit: we tested only 4, 6 and 8 centimetres.",
     "Claim: in our two weeks, we could not tell whether tulsi changes the mosquito count. Evidence: a difference of about one a night, smaller than the swings.",
     "Claim: the pleated bridge held the most. Evidence: an average of 24 coins against 6 for the flat one."
    ],
@@ -1042,7 +1042,7 @@
        ]
       }
      ],
-     "parent": "Times near 1 to 2 seconds are normal. The times for one spinner will differ by a few tenths of a second, which is the wobble. Reaction time at the stopwatch is about a fifth of a second. Do not worry about this, and do not rub out a time that looks odd. Circle it instead. If a drop touches the wall or something else, write 'bumped' and drop again.",
+     "parent": "Times near 1 to 2 seconds are normal. The times for one spinner will differ by a few tenths of a second, which is the wobble. Reaction time at the stopwatch is about a fifth to a quarter of a second. Do not worry about this, and do not rub out a time that looks odd. Circle it instead. If a drop touches the wall or something else, write 'bumped' and drop again.",
      "wait": "Take a short break after drop 8 if your arm or eyes get tired."
     },
     {
@@ -1724,7 +1724,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash your hands after touching the seeds. Do not eat seeds that have grown mould or smell bad. Keep the katoris away from small children, who might put seeds in their mouths.",
+   "safety": "Wash your hands after touching the seeds. Do not eat seeds that have grown mould or smell bad. Keep the katoris away from small children, who might put seeds in their mouths. If anyone in the family is allergic to moong or other pulses, use another seed or let someone else handle them.",
    "schedule": [
     {
      "day": 1,
@@ -2850,7 +2850,7 @@
   },
   {
    "text": "The Kerala monsoon onset date, recorded each year and compared over many years.",
-   "art": "A chart of dates in June across many years with dots that wobble up and down."
+   "art": "A chart of dates around the start of June across many years with dots that wobble up and down."
   },
   {
    "text": "A tulsi pot on a balcony or windowsill, and the stories people tell about the pot.",
@@ -3222,7 +3222,7 @@
    "The Class 3 unit on fair tests, which this unit builds on: change one thing becomes the three jobs, repeating and averaging, and writing a limited conclusion"
   ],
   "science": [
-   "Tu Youyou, Nobel Lecture, Discovery of Artemisinin (Qinghaosu) and Gifts from Chinese Medicine, 2015",
+   "Tu Youyou, Nobel Lecture, Artemisinin: A Gift from Traditional Chinese Medicine to the World, 2015",
    "Ge Hong, Zhouhou Beiji Fang (A Handbook of Prescriptions for Emergencies), about 340 CE, the text about soaking sweet wormwood in cold water",
    "Project 523, the Chinese national malaria research programme begun in 1967",
    "Francis Bacon, Novum Organum, 1620, Book 1 (idols of the mind and how hope shapes what we notice)",

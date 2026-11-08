@@ -350,7 +350,7 @@
    "concept": "Why a ball bounces, and why no two bounces are equal",
    "status": "defined",
    "definition": "A ball bounces because it squashes, stores energy, and springs back. Some energy always leaves as sound and warmth.",
-   "description": "When a ball hits the floor, it squashes a little. While it squashes, it stores energy, like a squeezed spring. Then it springs back and throws itself up. A bouncier ball is one that stores more of the energy and gives more of it back. But no ball gives back all of it. Some energy becomes sound, the 'thud' you hear. Some becomes a tiny amount of warmth inside the rubber, as its tangled chains rub on each other. That is why each bounce is lower than the last. Now think about why two drops differ. The ball's spin, the exact angle, the spot on the floor, the air and your fingers all change a little. Each tiny change moves the bounce by a tiny amount. We cannot control them all, so we cannot predict one drop exactly. We can only say what usually happens, and how much it varies. Scientists call the fraction of the height that comes back the ball's bounciness, and they find it by dividing the bounce height by the drop height.",
+   "description": "When a ball hits the floor, it squashes a little. While it squashes, it stores energy, like a squeezed spring. Then it springs back and throws itself up. A bouncier ball is one that stores more of the energy and gives more of it back. But no ball gives back all of it. Some energy becomes sound, the 'thud' you hear. Some becomes a tiny amount of warmth inside the rubber, as its tangled chains rub on each other. That is why each bounce is lower than the last. Now think about why two drops differ. The ball's spin, the exact angle, the spot on the floor, the air and your fingers all change a little. Each tiny change moves the bounce by a tiny amount. We cannot control them all, so we cannot predict one drop exactly. We can only say what usually happens, and how much it varies. A simple way to score a ball's bounciness is the fraction of the drop height that comes back: divide the bounce height by the drop height.",
    "examples": [
     "A ball that bounces from 50 centimetres to 32 centimetres gives back 32 out of 50, which is about 0.64.",
     "A ball of clay does not bounce, because it keeps its squashed shape and turns the energy into warmth.",
@@ -594,7 +594,7 @@
   {
    "id": "g1",
    "title": "Real or Luck?",
-   "mins": 25,
+   "mins": 28,
    "players": [
     "with a parent",
     "with friends"
@@ -621,75 +621,75 @@
      "items": [
       {
        "f": "1. Ten-drop ball test. The rubber ball gave 31, 33, 30, 34, 32 centimetres of bounce. The marble gave 24, 26, 23, 27, 25 centimetres of bounce. Is the difference real, or can we not tell?",
-       "b": "Real difference. The rubber ball ranged from 30 to 34 and The marble from 23 to 27. The ranges do not touch, so The rubber ball really did give bigger numbers."
+       "b": "Real difference. The rubber ball ranged from 30 to 34 and the marble from 23 to 27. The ranges do not touch, so the rubber ball really did give bigger numbers."
       },
       {
        "f": "2. Strip test. Kitchen paper gave 14, 17, 15, 13, 16 coins held. Printer paper gave 15, 18, 16, 19, 17 coins held. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. Kitchen paper ranged from 13 to 17 and Printer paper from 15 to 19. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. Kitchen paper ranged from 13 to 17 and printer paper from 15 to 19. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "3. Stretch test. A thin rubber band gave 12, 14, 13, 15, 12 centimetres of stretch. A thick rubber band gave 22, 24, 23, 25, 21 centimetres of stretch. Is the difference real, or can we not tell?",
-       "b": "Real difference. A thin rubber band ranged from 12 to 15 and A thick rubber band from 21 to 25. The ranges do not touch, so A thick rubber band really did give bigger numbers."
+       "b": "Real difference. A thin rubber band ranged from 12 to 15 and a thick rubber band from 21 to 25. The ranges do not touch, so a thick rubber band really did give bigger numbers."
       },
       {
        "f": "4. Soak test. Cotton towel gave 8, 9, 7, 10, 8 millilitres soaked up. Kitchen tissue gave 9, 8, 10, 7, 9 millilitres soaked up. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. Cotton towel ranged from 7 to 10 and Kitchen tissue from 7 to 10. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. Cotton towel ranged from 7 to 10 and kitchen tissue from 7 to 10. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "5. Umbrella cloth test. Old jeans gave 3, 2, 4, 3, 2 millilitres that came through. A polyester sari gave 8, 9, 7, 10, 8 millilitres that came through. Is the difference real, or can we not tell?",
-       "b": "Real difference. Old jeans ranged from 2 to 4 and A polyester sari from 7 to 10. The ranges do not touch, so A polyester sari really did give bigger numbers."
+       "b": "Real difference. Old jeans ranged from 2 to 4 and a polyester sari from 7 to 10. The ranges do not touch, so a polyester sari really did give bigger numbers."
       },
       {
        "f": "6. Slide test. A steel tray gave 4, 6, 5, 7, 5 seconds to slide down. A plastic tray gave 5, 7, 6, 4, 6 seconds to slide down. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. A steel tray ranged from 4 to 7 and A plastic tray from 4 to 7. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. A steel tray ranged from 4 to 7 and a plastic tray from 4 to 7. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "7. Bag test. A paper bag gave 40, 45, 38, 50, 42 coins held. A jute bag gave 48, 52, 46, 55, 50 coins held. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. A paper bag ranged from 38 to 50 and A jute bag from 46 to 55. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. A paper bag ranged from 38 to 50 and a jute bag from 46 to 55. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "8. Wear test. Thin cotton gave 20, 25, 18, 22, 21 rubs before a hole. Thick denim gave 60, 66, 58, 70, 63 rubs before a hole. Is the difference real, or can we not tell?",
-       "b": "Real difference. Thin cotton ranged from 18 to 25 and Thick denim from 58 to 70. The ranges do not touch, so Thick denim really did give bigger numbers."
+       "b": "Real difference. Thin cotton ranged from 18 to 25 and thick denim from 58 to 70. The ranges do not touch, so thick denim really did give bigger numbers."
       },
       {
        "f": "9. Bounce test. A table-tennis ball gave 34, 36, 33, 35, 37 centimetres of bounce. A rubber ball gave 33, 35, 32, 36, 34 centimetres of bounce. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. A table-tennis ball ranged from 33 to 37 and A rubber ball from 32 to 36. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. A table-tennis ball ranged from 33 to 37 and a rubber ball from 32 to 36. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "10. Thread test. Cotton thread gave 18, 25, 14, 22, 20 coins held. Polyester thread gave 24, 19, 27, 21, 16 coins held. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. Cotton thread ranged from 14 to 25 and Polyester thread from 16 to 27. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. Cotton thread ranged from 14 to 25 and polyester thread from 16 to 27. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "11. Squash test. A sponge gave 10, 12, 11, 9, 12 millimetres the pad was squashed. A rubber mat gave 2, 3, 2, 3, 4 millimetres the pad was squashed. Is the difference real, or can we not tell?",
-       "b": "Real difference. A sponge ranged from 9 to 12 and A rubber mat from 2 to 4. The ranges do not touch, so A sponge really did give bigger numbers."
+       "b": "Real difference. A sponge ranged from 9 to 12 and a rubber mat from 2 to 4. The ranges do not touch, so a sponge really did give bigger numbers."
       },
       {
        "f": "12. Drying test. A cotton cloth gave 30, 34, 28, 33, 31 minutes to dry. A woollen cloth gave 45, 50, 44, 48, 47 minutes to dry. Is the difference real, or can we not tell?",
-       "b": "Real difference. A cotton cloth ranged from 28 to 34 and A woollen cloth from 44 to 50. The ranges do not touch, so A woollen cloth really did give bigger numbers."
+       "b": "Real difference. A cotton cloth ranged from 28 to 34 and a woollen cloth from 44 to 50. The ranges do not touch, so a woollen cloth really did give bigger numbers."
       },
       {
        "f": "13. Pull test. A banana fibre cord gave 22, 30, 17, 26, 24 coins held. A coir cord gave 27, 20, 31, 18, 25 coins held. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. A banana fibre cord ranged from 17 to 30 and A coir cord from 18 to 31. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. A banana fibre cord ranged from 17 to 30 and a coir cord from 18 to 31. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "14. Soak test. Printer paper gave 5, 6, 4, 5, 6 millilitres soaked up. Kitchen towel gave 14, 13, 15, 12, 14 millilitres soaked up. Is the difference real, or can we not tell?",
-       "b": "Real difference. Printer paper ranged from 4 to 6 and Kitchen towel from 12 to 15. The ranges do not touch, so Kitchen towel really did give bigger numbers."
+       "b": "Real difference. Printer paper ranged from 4 to 6 and kitchen towel from 12 to 15. The ranges do not touch, so kitchen towel really did give bigger numbers."
       },
       {
        "f": "15. Tear test. Newspaper gave 9, 11, 10, 8, 12 coins held. Notebook paper gave 12, 10, 13, 11, 9 coins held. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. Newspaper ranged from 8 to 12 and Notebook paper from 9 to 13. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. Newspaper ranged from 8 to 12 and notebook paper from 9 to 13. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "16. Bounce test. A small rubber ball gave 44, 42, 46, 43, 45 centimetres of bounce. A hollow plastic ball gave 28, 30, 27, 29, 31 centimetres of bounce. Is the difference real, or can we not tell?",
-       "b": "Real difference. A small rubber ball ranged from 42 to 46 and A hollow plastic ball from 27 to 31. The ranges do not touch, so A small rubber ball really did give bigger numbers."
+       "b": "Real difference. A small rubber ball ranged from 42 to 46 and a hollow plastic ball from 27 to 31. The ranges do not touch, so a small rubber ball really did give bigger numbers."
       },
       {
        "f": "17. Warm-up test. A steel tumbler gave 22, 25, 21, 24, 23 minutes for cold water to warm up. A plastic tumbler gave 24, 26, 23, 27, 25 minutes for cold water to warm up. Is the difference real, or can we not tell?",
-       "b": "We cannot tell. A steel tumbler ranged from 21 to 25 and A plastic tumbler from 23 to 27. The ranges overlap, so another set of tries could swap the order."
+       "b": "We cannot tell. A steel tumbler ranged from 21 to 25 and a plastic tumbler from 23 to 27. The ranges overlap, so another set of tries could swap the order."
       },
       {
        "f": "18. Scratch test. A steel plate gave 2, 3, 2, 3, 2 millimetres of scratch line. A copper plate gave 6, 7, 5, 6, 7 millimetres of scratch line. Is the difference real, or can we not tell?",
-       "b": "Real difference. A steel plate ranged from 2 to 3 and A copper plate from 5 to 7. The ranges do not touch, so A copper plate really did give bigger numbers."
+       "b": "Real difference. A steel plate ranged from 2 to 3 and a copper plate from 5 to 7. The ranges do not touch, so a copper plate really did give bigger numbers."
       },
       {
        "f": "19. Only ONE try. A rubber ball bounced to 31 centimetres and a marble bounced to 25 centimetres. Is the difference real?",
@@ -827,7 +827,7 @@
   {
    "id": "g2",
    "title": "Three Ways to Be Fooled",
-   "mins": 25,
+   "mins": 28,
    "players": [
     "with a parent",
     "with friends"
@@ -1089,7 +1089,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep marbles away from children under five, and pick up every marble after the test so nobody slips on one.",
+   "safety": "Keep marbles away from children under five, and pick up every marble after the test so nobody slips on one. Use a marble without chips or cracks, and keep faces back from the bounce.",
    "record": "Draw a table with one row for each ball. Write the ten readings by you, and the ten readings by your helper. Then draw a dot plot with a row for each ball on one number line. Write the range and the middle value of each ball.",
    "context": "In this experiment, you drop four things ten times each from the same height and look at how much the bounces vary. Then you decide which differences between balls are real.",
    "setup": [
@@ -1447,8 +1447,8 @@
      "qty": 8
     },
     {
-     "item": "a sheet of coarse sandpaper, labelled 60 to 100, about A4 size",
-     "qty": 1,
+     "item": "3 sheets of coarse sandpaper, labelled 60 to 100, about A4 size, and a scrap for practice",
+     "qty": 3,
      "buy": "b-sand"
     },
     {
@@ -1480,13 +1480,13 @@
      "qty": 1
     }
    ],
-   "safety": "Do this on a table covered with newspaper. Rub gently on the sandpaper only, never on skin. Do not blow the dust. Wipe up the dust with a damp cloth when you finish, and wash your hands. A grown-up should cut the cloth and handle the sandpaper edges.",
+   "safety": "Do this on a table covered with newspaper. Rub gently on the sandpaper only, never on skin. Do not blow the dust. Wipe up the dust with a damp cloth when you finish, and wash your hands. Work in a room with fresh air, and anyone with asthma or a dust allergy should stay out of it. A grown-up should cut the cloth and handle the sandpaper edges.",
    "record": "Write the number of rubs until the first hole for every run, or '100 or more' if no hole appeared. Then draw a dot plot with a row for each cloth. Work out the range for each cloth.",
    "context": "In this experiment, you make a small rubbing machine from a katori and sandpaper, and you count how many rubs each cloth takes to wear through. It is a wear test.",
    "setup": [
     {
      "art": "A sheet of sandpaper taped to a table with eight lanes drawn on it in pencil, each 20 centimetres long, and a chit bowl beside it.",
-     "caption": "1. Tape the sandpaper down. Draw eight lanes, each 20 centimetres long."
+     "caption": "1. Tape the sandpaper down. Draw eight lanes along the long side, each as wide as the katori."
     },
     {
      "art": "A steel katori upside down with a cloth stretched over its flat bottom, held by a rubber band, and coins in the dish above.",
@@ -1532,7 +1532,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Tape the sandpaper flat to the table. 2. Draw eight lanes, each 20 centimetres long. 3. Number them 1 to 8. 4. Put the coins in the katori. 5. Cut two squares of each cloth.",
+     "do": "1. Tape the sandpaper flat to the table. 2. Draw eight lanes as wide as the katori, along the long side of the sheets (three lanes fit on one sheet). 3. Number them 1 to 8. 4. Put the coins in the katori. 5. Cut two squares of each cloth.",
      "say": "We are building a rubbing machine. The sandpaper is the rough road. The katori with coins is the weight. Each lane is used only once.",
      "kid": "Tape down the sandpaper. Draw eight lanes. Number them.",
      "parent": "The sandpaper clogs with lint, so a used lane rubs more gently. That is why each run gets a new lane. Choose the loading so that a thin cloth wears through in under 100 rubs. A katori with 30 coins is a good start.",
@@ -1561,7 +1561,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Draw the four chits. That is the order of the cloths for the first round. Write the order down. Practise one rub on an old piece of sandpaper, counting 'one-two' for the way there and back.",
+     "do": "Draw the four chits. That is the order of the cloths for the first round. Write the order down. Practise one rub on the scrap of sandpaper, counting 'one-two' for the way there and back.",
      "say": "Draw the order. Then practise one rub. Slide there, slide back. Count one-two. Keep the same speed.",
      "kid": "Draw the order. Practise one rub. Count one-two.",
      "parent": "The speed matters. A steady count of one second each way is easy to keep. Use a clock with a second hand, or sing a steady beat. Do not press down. Let the weight do the work.",
@@ -1710,7 +1710,7 @@
      "do": "Make a paper ruler on stiff paper with a school ruler, marking each centimetre. Start the zero mark half a centimetre in from the end of the paper. Mark the ruler 'home-made'.",
      "say": "Draw a ruler on stiff paper. Make a mark for every centimetre. But start your zero half a centimetre from the end. This is a ruler with a fault.",
      "kid": "Draw a ruler. Put the zero half a centimetre from the end.",
-     "parent": "The aim is a ruler that reads wrong in the same way every time. Do not tell the helper where the zero is. Ask the helper to measure the strip with the home-made ruler.",
+     "parent": "The aim is a ruler that reads wrong in the same way every time (here, 0.5 centimetres too little). Do not tell the helper where the zero is. Ask the helper to measure the strip with the home-made ruler.",
      "context": "In this step, you make a ruler with a zero error on purpose, so you can find a fault like it later."
     },
     {
@@ -1721,14 +1721,14 @@
      "kid": "Measure with the home-made ruler. Is the number different?",
      "check": {
       "t": "mcq",
-      "q": "The home-made ruler reads 0.5 centimetres too much on every strip. You measure two strips and get 12.5 and 17.5 centimetres. How much longer is the second strip really?",
+      "q": "The home-made ruler reads 0.5 centimetres too little on every strip. You measure two strips and get 11.5 and 16.5 centimetres. How much longer is the second strip really?",
       "options": [
        "5 centimetres, because the error is the same for both",
        "4.5 centimetres, because of the error",
        "5.5 centimetres, because of the error"
       ],
       "a": 0,
-      "why": "The ruler adds 0.5 to both strips. The gap between the two readings is 17.5 minus 12.5, which is 5 centimetres. The zero error cancels out in a difference. Choosing 4.5 or 5.5 usually means subtracting or adding the error again by mistake."
+      "why": "The ruler takes 0.5 off both strips. The gap between the two readings is 16.5 minus 11.5, which is 5 centimetres. The zero error cancels out in a difference. Choosing 4.5 or 5.5 usually means adding or subtracting the error again by mistake."
      },
      "context": "In this step, you use the faulty ruler and see how a zero error changes every reading."
     },
@@ -1880,8 +1880,8 @@
      "buy": "b-boxes"
     },
     {
-     "item": "20 one-rupee coins, or dry rice in spoons",
-     "qty": 20
+     "item": "40 one-rupee coins, or dry rice in spoons",
+     "qty": 40
     },
     {
      "item": "a bowl, 4 red paper slips and 4 blue paper slips",
@@ -1907,7 +1907,7 @@
      "what": "A helper fills 4 boxes with 6 coins and 4 boxes with 4 coins. You sort them by feel. Repeat 5 times. Then compare with pure luck."
     }
    ],
-   "record": "A table with five rounds. For each round, how many of the four heavy boxes you found. A second row for five rounds of luck, drawn from the bowl of slips. Two dot plots on one number line from 0 to 4.",
+   "record": "A table with five rounds. For each round, how many of the four heavy boxes you found. A second row for ten rounds of luck, drawn from the bowl of slips. Two dot plots on one number line from 0 to 4.",
    "context": "In this activity, you test your own hands as a measuring tool. Can they tell a heavy box from a light box better than blind luck?",
    "setup": [
     {
@@ -1948,7 +1948,7 @@
      "do": "The helper puts 6 coins in four boxes and 4 coins in the other four boxes. The helper shuffles them behind a screen and places them in a row. The helper writes down which are which and keeps it secret.",
      "say": "The helper puts coins in the boxes and mixes them. Nobody else knows which are heavy.",
      "kid": "Helper: fill the boxes and mix them. Keep the list secret.",
-     "parent": "Take all the coins from the table before the child sorts. If the sorting is too easy, make the difference 1 coin. If it is impossible, make it 4 coins.",
+     "parent": "Use only empty matchboxes with no matches in them, and keep the coins away from children under five. Take all the coins from the table before the child sorts. If the sorting is too easy, make the difference 1 coin. If it is impossible, make it 4 coins.",
      "adult": true,
      "context": "In this step, the helper prepares the boxes, so that the sorter cannot know which is which."
     },
@@ -2389,7 +2389,7 @@
        ]
       }
      ],
-     "parent": "Good projects are small. Two things, ten pieces each, one measurement. Use the planning board from Claim Detective.",
+     "parent": "Good projects are small. Two things, ten pieces each, one measurement. Keep the test safe: no flame, hot water, chemicals, blades or foods that anyone is allergic to, and a grown-up checks the plan. Use the planning board from Claim Detective.",
      "context": "This is the first step of the Family Test Report. You choose and plan."
     },
     {
@@ -2604,6 +2604,7 @@
      "do": "Pick a simple test, such as how far a rubber band stretches with 10 coins. Do it five times yourself. Write the five numbers and the range.",
      "say": "Do the test five times. Write each number. Find the range. This is your own answer.",
      "kid": "Do your test five times. Find the range.",
+     "parent": "Stretch a rubber band gently and never close to the face or past its limit, because it can snap back.",
      "context": "This is the first step of Pass the Recipe. You do your own test first."
     },
     {
@@ -3860,9 +3861,9 @@
   },
   {
    "id": "b-sand",
-   "item": "A sheet of coarse sandpaper, grit 60 to 100",
+   "item": "Three sheets of coarse sandpaper, grit 60 to 100",
    "kind": "material",
-   "why": "For the Rub Test. One sheet from a hardware shop costs a few rupees.",
+   "why": "For the Rub Test. Three sheets from a hardware shop cost a few rupees.",
    "url": "https://www.amazon.in/s?k=sandpaper+sheets+coarse",
    "used_in": [
     "e3"

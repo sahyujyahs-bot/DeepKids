@@ -536,7 +536,7 @@
    "'So steel is strong,' said Daiaphi, drawing columns in the mud. 'Steel is quick. What happens to steel here?' She pointed to the iron railing by the school gate. It had been painted two years before. Orange rust had come through the paint in patches, and it flaked when she touched it.",
    "Mr. Das went quiet. 'In heavy rain, steel needs paint every few years,' he admitted. 'And after thirty years or so, it must be replaced.'",
    "'And where does the old steel go?' she asked. He rubbed his chin. 'To a scrap dealer in Shillong, if someone carries it that far. If not, to the river.'",
-   "Then Daiaphi took his hand and led him down to the root bridge. 'Hold this root,' she said. It was as thick as his leg. 'Pull.' He pulled. It did not move. 'This root was thinner than my arm when Kong's grandmother tied it. Every year it gets stronger. When a root is hurt in a flood, it grows back. And when the bridge is very old, it does not become rubbish. It is still a tree.'",
+   "Then Daiaphi took his hand and led him down to the root bridge. 'Hold this root,' she said. It was as thick as his leg. 'Pull.' He pulled. It did not move. 'This root was thinner than my arm when Kong's grandmother tied it. Every year it gets stronger. When a root is hurt in a flood, it grows back. And when the bridge is very old, it does not become rubbish. The tree is still alive.'",
    "'But,' said Mr. Das, 'you wait twenty years for a new root bridge to be ready.' Kong Rimai had followed them. 'We wait for rice,' she said. 'We wait for children to grow. Waiting is not a cost, if you plan for it.'",
    "Mr. Das opened his roll of drawings, and then he put it down. He took a pencil and a page. 'Teach me your table,' he said. So Daiaphi taught him. They put steel and roots along the side. They gave each need a weight. For 'ready soon', the weight was big. For 'lasts', and 'leaves no mess', the weight was big too. They gave scores. The totals were close.",
    "'It depends,' said Mr. Das slowly. 'On what we count. If we count only next year, steel wins. If we count fifty years, the roots win.' 'Then count both,' said Daiaphi.",
@@ -1083,7 +1083,7 @@
      "qty": 1
     }
    ],
-   "safety": "The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff the bar. Throw the bar away and make another. A grown-up should use the scissors. Wash your hands after the paste.",
+   "safety": "The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff the bar. Throw the bar away and make another. A grown-up should use the scissors. Wash your hands after the paste. Maida is wheat flour, so a child with a wheat allergy should not handle the dry flour or paste.",
    "record": "Write what each bar was made of. Write the water each bar held in millilitres and how it failed. Then draw a bar chart with one bar for each kind, using the bigger of the two results. Work out how many times stronger the layered bar was than the paste bar and than the paper stack.",
    "context": "In this experiment, you make four kinds of bar from newspaper and flour paste, dry them for two days, and test how much water each can hold. You find out whether two weak things together can be strong.",
    "setup": [
@@ -1138,7 +1138,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Mix 6 level tablespoons of flour with a pinch of salt in a bowl. 2. Add cold water a spoon at a time, until the paste is smooth and thick like curd. 3. Cut 8 newspaper strips, each 4 centimetres wide and 20 centimetres long.",
+     "do": "1. Mix 6 level tablespoons of flour with a pinch of salt in a bowl. 2. Add cold water a spoon at a time, until the paste is smooth and thick like curd. 3. Cut 16 newspaper strips (4 for each of bars B and C, two bars of each), each 4 centimetres wide and 20 centimetres long.",
      "say": "Make the paste smooth, with no lumps. It should be as thick as curd. The pinch of salt helps keep the mould away.",
      "kid": "Mix flour and water into a paste. Cut the paper into strips.",
      "parent": "Use cold paste. There is no need to cook it. Cut all the strips the same size with a ruler. Cutting strips with the grain, along the long side of the newspaper, gives stronger strips, but just keep them all the same direction.",
@@ -2091,7 +2091,7 @@
      "do": "Day 2. Pour off most of the water. Mash the soaked paper with the masher until it is a smooth grey pulp. A grown-up can use a blender with the lid on and a little water.",
      "say": "Mash the soaked paper into pulp. Keep going until it looks like thick porridge with no lumps.",
      "kid": "Mash the wet paper into smooth pulp.",
-     "parent": "A blender makes shorter fibres than hand mashing. Short fibres make weaker paper. This is a way to see why recycled paper is weaker.",
+     "parent": "A blender makes shorter fibres than hand mashing. Short fibres make weaker paper. This is a way to see why recycled paper is weaker. Only a grown-up runs the blender: unplug it before touching the jug, and keep fingers away from the blades.",
      "adult": true,
      "context": "In this step, you turn the paper back into fibres. This is how recycling works."
     },
@@ -2215,7 +2215,7 @@
      "do": "Build your first bowl. Fold the leaf so that the folds are tight and the corners are held by toothpicks. Place the bowl on a napkin on a plate. Pour in 100 millilitres of water slowly, and start the clock.",
      "say": "Build your bowl. Fold tightly. Pin the corners. Pour in water slowly. Start the clock.",
      "kid": "Build a bowl. Pour in 100 millilitres. Start the clock.",
-     "parent": "If you cannot find a large leaf, use a big sheet of kitchen foil as a last resort, and talk about why it is a poorer choice, because foil does not rot. Where the toothpick goes through the leaf, water may seep out.",
+     "parent": "If you cannot find a large leaf, use a big sheet of kitchen foil as a last resort, and talk about why it is a poorer choice, because foil does not rot. Where the toothpick goes through the leaf, water may seep out. Toothpicks have sharp points: push them in away from your fingers, and have a grown-up nearby.",
      "context": "In this step, you build and test your first bowl."
     },
     {

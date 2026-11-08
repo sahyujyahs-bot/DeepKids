@@ -98,7 +98,7 @@
   {
    "term": "Polarised light",
    "meaning": "Light whose waves all wiggle in the same direction, for example only up and down. Ordinary sunlight wiggles in every direction at once.",
-   "example": "Light from a laptop or a phone screen is polarised. So is the glare bouncing off a wet road.",
+   "example": "Light from many laptop and phone screens is polarised. So is the glare bouncing off a wet road.",
    "art": "A rope passing through a narrow upright slot so that only up-and-down wiggles get through."
   },
   {
@@ -116,7 +116,7 @@
   {
    "term": "Neutrino",
    "meaning": "A tiny, ghostly particle made in the Sun and in stars. Almost all neutrinos pass through the whole Earth without being stopped.",
-   "example": "About 60 billion neutrinos from the Sun pass through your thumbnail every second, and you feel nothing.",
+   "example": "About 60 billion neutrinos from the Sun pass through every square centimetre of your skin each second, and you feel nothing.",
    "art": "Thin lines streaming from the Sun through the Earth and out the other side, with a child standing on it."
   },
   {
@@ -239,7 +239,7 @@
    "examples": [
     "A hospital X-ray shows the bones inside a hand that sunlight cannot pass.",
     "Wi-Fi reaches the next room through a brick wall, though more weakly.",
-    "Tens of billions of neutrinos from the Sun pass through your thumbnail every second."
+    "More than a hundred billion neutrinos from the Sun pass through your thumbnail every second."
    ],
    "perspectives": [],
    "art": "A hand shown three ways: in sunlight as an opaque shadow, in X-rays as a ghostly image of bones, and with a stream of tiny neutrino dots passing right through the whole hand and the floor.",
@@ -249,7 +249,7 @@
    "concept": "Glass that changes: darkening spectacles, switching windows and see-through wood",
    "status": "defined",
    "definition": "Some clear materials can change how much light they pass on. Photochromic lenses darken in strong light. Switchable windows change with a small electric voltage. Scientists have also made wood that is partly see-through by removing its dark colour and filling its pores with clear plastic.",
-   "description": "Photochromic spectacle lenses contain tiny crystals, or special molecules, that change when ultraviolet light from the Sun hits them. They then soak up more visible light, and the lenses turn dark. Out of the Sun, the change reverses, and the lenses clear again. Some office windows use a thin layer of liquid crystals. With the voltage off they scatter light and look frosted. With the voltage on the crystals line up and the glass turns clear. Some aeroplane windows, such as those on the Boeing 787, darken at the press of a button, through a different kind of coating. Scientists in Sweden and the USA have also made see-through wood, in 2016. They remove the dark substance lignin from thin sheets of wood. Then they fill the tiny gaps with a clear plastic that bends light nearly the same as the wood fibres. That matches the refractive indexes, just as honey does for a marble. The result lets light through, and may one day be used for windows.",
+   "description": "Photochromic spectacle lenses contain tiny crystals, or special molecules, that change when ultraviolet light from the Sun hits them. They then soak up more visible light, and the lenses turn dark. Out of the Sun, the change reverses, and the lenses clear again. Some office windows use a thin layer of liquid crystals. With the voltage off they scatter light and look frosted. With the voltage on the crystals line up and the glass turns clear. Some aeroplane windows, such as those on the Boeing 787, darken at the press of a button, through a different kind of coating. Scientists in Sweden and the USA have also made see-through wood, in the 2010s. They remove the dark colour of lignin from thin sheets of wood. Then they fill the tiny gaps with a clear plastic that bends light nearly the same as the wood fibres. That matches the refractive indexes, just as honey does for a marble. The result lets light through, and may one day be used for windows.",
    "examples": [
     "Photochromic spectacle lenses darken outdoors in the Sun and clear indoors.",
     "Switchable privacy glass is frosted when the power is off and clear when it is on.",
@@ -904,7 +904,7 @@
      "do": "Set the tray on a table in front of a bright window. Stand the printed page upright behind the tray. Fill one glass with water, one with oil and one with honey, each to about the same height. Leave the fourth glass empty. Mark the four glasses with a label.",
      "say": "Pour the water into the first glass, the oil into the second, and the honey into the third. Leave the fourth empty, which is the air test. Stand them in a row, in front of the page.",
      "kid": "Fill three glasses with water, oil and honey. Leave one empty. Put the page behind.",
-     "parent": "Honey is slow to pour. Warm the jar in a bowl of warm water for a few minutes, not hot, if it will not flow. Fill all glasses to the same height, about three quarters full. Do the test near a window, so the light is the same for every glass.",
+     "parent": "Honey is slow to pour. A grown-up can warm the jar in a bowl of warm water for a few minutes, not hot, if it will not flow. Fill all glasses to the same height, about three quarters full. Do the test near a window, so the light is the same for every glass.",
      "context": "In this step, you set out the four glasses and the page that you will look through."
     },
     {
@@ -1211,7 +1211,7 @@
     }
    ],
    "record": "A drawing of a lump of candy and a heap of powder side by side, with a ray of light zigzagging through each. A sentence on why the powder looks white. A sentence on what the oil did.",
-   "safety": "Wrap the candy in a cloth or put it in a zip bag before crushing, so no sharp bits fly. Do the crushing on a firm table, with a grown-up nearby, and keep fingers away from the rolling pin. Do not give hard candy to children under five.",
+   "safety": "Wrap the candy in a cloth or put it in a zip bag before crushing, so no sharp bits fly. Do the crushing on a firm table, with a grown-up nearby, and keep fingers away from the rolling pin. Do not give hard candy to children under five. Do not eat the crushed candy that has had oil on it.",
    "context": "In this activity, you crush clear sugar candy into powder and watch it turn white. Then you add a drop of oil to find out what makes the powder see-through again.",
    "setup": [
     {
@@ -1782,7 +1782,7 @@
        ]
       }
      ],
-     "parent": "Expected: honey is best or close to best. Thick syrup is next, then oil, then thin syrup, then water. Thicker is better up to a point, but a syrup cannot bend light more than the sugar allows. If your results differ, ask what could differ about the jars or the light.",
+     "parent": "Expected: honey is best or close to best. Oil and the thick syrup come next, in either order, then thin syrup, then water. Thicker is better up to a point, but a syrup cannot bend light more than the sugar allows. If your results differ, ask what could differ about the jars or the light.",
      "think": "Why do you think a thick syrup cannot beat honey?",
      "context": "In this step, you rank your liquids and think about what to try next."
     }
@@ -2752,8 +2752,8 @@
    "art": "A child in sunglasses turned sideways looking at a dark screen, and the same screen bright when she tilts her head."
   },
   {
-   "text": "A jellyfish washed up on a beach, almost see-through, with only its edges and middle showing.",
-   "art": "A jellyfish on wet sand, nearly clear, with a faint shape visible in its middle."
+   "text": "A jellyfish washed up on a beach, almost see-through, with only her edges and middle showing.",
+   "art": "A jellyfish on wet sand, nearly clear, with a faint shape visible in her middle."
   },
   {
    "text": "Fog on a hill road in the early morning, where the world glows white and you cannot see far.",
