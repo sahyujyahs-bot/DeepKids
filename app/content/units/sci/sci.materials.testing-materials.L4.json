@@ -3558,31 +3558,28 @@
   ],
   "videos": [
     {
-      "title": "A rubber ball bouncing in slow motion: squash, spring back and the lost energy",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 4,
+      "title": "Ball Bouncing in Slow Motion",
+      "channel": "Signs Of Life London",
+      "youtube": "9uF2G_0_hcA",
+      "mins": 3,
       "why": "To see the ball squash against the floor and spring back, and to see that no two bounces look exactly the same.",
-      "check": "Not yet found. Find one, watch it, and check that it is accurate and suitable for children before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "A rope or cable being pulled until it breaks in a testing machine",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
+      "title": "Wire Rope destruction test at Durham Lifting",
+      "channel": "Durham Lifting",
+      "youtube": "4CGndFy8Mbc",
       "mins": 3,
       "why": "To see how engineers break many pieces of one rope to find the weakest, and how they record the results.",
-      "check": "Not yet found. Find one, watch it, and check that it is accurate before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "Clever Hans, the horse who seemed to count, and how he was tested",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 5,
+      "title": "The Horse Who \"Counted\": How Clever Hans Fooled 13 Experts",
+      "channel": "Palych’s Den",
+      "youtube": "qCDU1QWTWYQ",
+      "mins": 8,
       "why": "To see how a blind test showed that a clever-looking result came from tiny signals by the questioner.",
-      "check": "Not yet found. Find one, watch it, and check that it is accurate and suitable for children before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     }
   ],
   "applications": [

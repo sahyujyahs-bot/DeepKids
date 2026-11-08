@@ -2783,22 +2783,20 @@
  ],
  "videos": [
   {
-   "title": "Variables in a fair test: change, measure, keep the same",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Independent,Dependent, and Control Variables",
+   "channel": "MooMooMath and Science",
+   "youtube": "zFe8eK1aiIU",
+   "mins": 4,
    "why": "A short video that names the thing you change, the thing you measure and the things you keep the same, as in the Paper Spinner test.",
-   "check": "Not yet found. Find one made for children, watch it, and check that it is accurate and kind before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "Tu Youyou and the discovery of artemisinin",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 6,
+   "title": "How an Ancient Remedy Became a Modern Cure for Malaria",
+   "channel": "SciShow",
+   "youtube": "JZQc9S12ZvM",
+   "mins": 5,
    "why": "For the parent and older children: how an old text and one changed detail, the heat, led to a medicine for malaria.",
-   "check": "Not yet found. Find one, watch it, and check that it says the extraction was done at low temperature and that Tu Youyou shared the Nobel Prize in 2015."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
    "title": "Why we repeat measurements and use averages",

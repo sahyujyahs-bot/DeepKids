@@ -804,9 +804,9 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
    **Answer:** A strong answer values both. The weaver's hands carry long experience and are quick, but they need checking. The machine gives numbers but can miss what hands feel. A blind test, as the teacher says, finds out how good the hands are, and the two together can be better than either one.. *Why:* Experience and measurement can check each other. A blind test gives a fair way to compare.
 
 ## Videos
-- **A rubber ball bouncing in slow motion: squash, spring back and the lost energy** (to be found, 4 min) id `to find`: To see the ball squash against the floor and spring back, and to see that no two bounces look exactly the same. *Check:* Not yet found. Find one, watch it, and check that it is accurate and suitable for children before adding it.
-- **A rope or cable being pulled until it breaks in a testing machine** (to be found, 3 min) id `to find`: To see how engineers break many pieces of one rope to find the weakest, and how they record the results. *Check:* Not yet found. Find one, watch it, and check that it is accurate before adding it.
-- **Clever Hans, the horse who seemed to count, and how he was tested** (to be found, 5 min) id `to find`: To see how a blind test showed that a clever-looking result came from tiny signals by the questioner. *Check:* Not yet found. Find one, watch it, and check that it is accurate and suitable for children before adding it.
+- **Ball Bouncing in Slow Motion** (Signs Of Life London, 3 min) id `9uF2G_0_hcA`: To see the ball squash against the floor and spring back, and to see that no two bounces look exactly the same. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Wire Rope destruction test at Durham Lifting** (Durham Lifting, 3 min) id `4CGndFy8Mbc`: To see how engineers break many pieces of one rope to find the weakest, and how they record the results. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Horse Who "Counted": How Clever Hans Fooled 13 Experts** (Palych’s Den, 8 min) id `qCDU1QWTWYQ`: To see how a blind test showed that a clever-looking result came from tiny signals by the questioner. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What does repeating a test ten times show you that one try cannot?  

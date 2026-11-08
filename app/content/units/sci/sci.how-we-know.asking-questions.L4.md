@@ -699,9 +699,9 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
    **Answer:** Explanation A: the dance brought the rain. Explanation B: it was going to rain anyway. Deciding question: does it also rain on days when nobody dances, and how often?. *Why:* A good answer compares days with and without the dance. Two cases cannot decide, because rain is common.
 
 ## Videos
-- **Why do cold drinks sweat? (condensation explained)** (to be found, 4 min) id `to find`: To see water vapour turning into drops on a cold glass, a clear picture of the Weeping Tumbler. *Check:* Not yet found. Find one, watch it, and check that it says the drops come from the air and not from inside the glass.
-- **Jocelyn Bell Burnell and the discovery of pulsars** (to be found, 6 min) id `to find`: For the parent and older children: how a student noticed a strange mark on a chart and used a deciding question to show it came from space. *Check:* Not yet found. Find one, watch it, and check that it says the signal followed star time and that the Nobel Prize in 1974 went to her supervisor and another senior scientist.
-- **How scientists tell observation from inference** (to be found, 5 min) id `to find`: A short teaching video that sorts what we see from what we infer, as in the game Saw It or Thought It. *Check:* Not yet found. Find one made for children, watch it, and check that it is accurate and kind before adding it.
+- **Why Do Drinking Glasses Sweat? | Science for Kids** (Okie Dokie Odie, 4 min) id `XpPc3egw74k`: To see water vapour turning into drops on a cold glass, a clear picture of the Weeping Tumbler. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Jocelyn Bell Burnell describes how she discovered pulsars - Beautiful Minds_Ep1 Preview_BBC Four** (BBC, 5 min) id `PKtnaTxLARc`: For the parent and older children: how a student noticed a strange mark on a chart and used a deciding question to show it came from space. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Observations and Inferences** (Teacher's Pet, 5 min) id `fBlR7taW9jk`: A short teaching video that sorts what we see from what we infer, as in the game Saw It or Thought It. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these is an inference about a wet tumbler?  

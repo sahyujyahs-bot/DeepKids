@@ -632,9 +632,9 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
    **Answer:** About 9 metres. *Why:* She is exactly 4 metres deep, so the window is about 9 metres wide. If she rose to 2 metres, it would be about half as wide, 4 and a half metres. Choosing 36 multiplies the two numbers together.
 
 ## Videos
-- **Total internal reflection: a glowing water jet and an optical fibre** (to be found, 5 min) id `to find`: To see light following a curved jet of water, and a glass fibre carrying light round a bend. *Check:* Not yet found. Find one, watch it, and check that it shows the water jet or fibre and says that the light bounces off the inside wall.
+- **L5 11 Laser Waterfall** (UMD Physics Videos!, 2 min) id `T22nOe1ZSKY`: To see light following a curved jet of water, and a glass fibre carrying light round a bend. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How optical fibre cables carry the internet under the sea** (to be found, 5 min) id `to find`: To see how a cable on the sea floor carries flashes of light between countries. *Check:* Not yet found. Find one, watch it, and check that it is accurate and not an advertisement.
-- **How spectacles fix short sight and long sight** (to be found, 4 min) id `to find`: To see in an animation where the picture forms in a short-sighted eye, and how a hollow lens moves it back. *Check:* Not yet found. Find one, watch it, and check that it shows the picture forming in front of or behind the retina.
+- **How do glasses help us see? - Andrew Bastawrous and Clare Gilbert** (TED-Ed, 4 min) id `ypF037wlYZg`: To see in an animation where the picture forms in a short-sighted eye, and how a hollow lens moves it back. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A ray inside a block of glass goes out into the air at a slant. Which way does it bend?  

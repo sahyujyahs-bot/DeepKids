@@ -675,8 +675,8 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    **Answer:** In our test, the tulsi corner had slightly fewer mosquitoes, about one a night on average. But the nightly counts varied from 2 to 9, which is much more than that difference, so we cannot say the tulsi keeps mosquitoes away. We tested one pot only.. *Why:* A strong answer notes the small gap, compares it with the wobble, avoids a claim of cause and states a limit.
 
 ## Videos
-- **Variables in a fair test: change, measure, keep the same** (to be found, 5 min) id `to find`: A short video that names the thing you change, the thing you measure and the things you keep the same, as in the Paper Spinner test. *Check:* Not yet found. Find one made for children, watch it, and check that it is accurate and kind before adding it.
-- **Tu Youyou and the discovery of artemisinin** (to be found, 6 min) id `to find`: For the parent and older children: how an old text and one changed detail, the heat, led to a medicine for malaria. *Check:* Not yet found. Find one, watch it, and check that it says the extraction was done at low temperature and that Tu Youyou shared the Nobel Prize in 2015.
+- **Independent,Dependent, and Control Variables** (MooMooMath and Science, 4 min) id `zFe8eK1aiIU`: A short video that names the thing you change, the thing you measure and the things you keep the same, as in the Paper Spinner test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How an Ancient Remedy Became a Modern Cure for Malaria** (SciShow, 5 min) id `JZQc9S12ZvM`: For the parent and older children: how an old text and one changed detail, the heat, led to a medicine for malaria. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Why we repeat measurements and use averages** (to be found, 5 min) id `to find`: A short video on repeating a measurement, finding the average and the range, as in the Coin Wobble activity. *Check:* Not yet found. Find one, watch it, and check that it explains averages and range in plain words and is accurate.
 
 ## Quiz

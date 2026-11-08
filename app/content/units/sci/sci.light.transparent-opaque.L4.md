@@ -618,8 +618,8 @@ The bus stand was built beside the school instead. And every evening I still sit
 
 ## Videos
 - **Why a glass rod disappears in oil** (to be found, 4 min) id `to find`: To see a heat-proof glass rod or glass beads vanish in oil, and an explanation of matching refractive indexes. *Check:* Not yet found. Find one, watch it, and check that it says the vanishing is because the oil and glass bend light by the same amount.
-- **Polarised light and two filters: how crossed filters make darkness** (to be found, 5 min) id `to find`: To see two polarising filters turned against each other make darkness, and the surprising third filter between them. *Check:* Not yet found. Find one, watch it, and check that the explanation uses the wiggle direction of light.
-- **How X-rays see through a hand** (to be found, 4 min) id `to find`: To see how X-rays pass through soft parts of the body and are stopped by bone. *Check:* Not yet found. Find one, watch it, and check that it is accurate and suitable for children.
+- **Three polarizing filters: a simple demo of a creepy quantum effect** (Orion Lawlor, 4 min) id `5SIxEiL8ujA`: To see two polarising filters turned against each other make darkness, and the surprising third filter between them. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **@OperationOuch - The Power of X-Rays! | Science for Kids** (Operation Ouch, 6 min) id `bjaQTpxqZgs`: To see how X-rays pass through soft parts of the body and are stopped by bone. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A sheet of paper passes on 50 parts of every 100 parts of light, bounces back 30 and soaks up 10. How many parts does it scatter?  

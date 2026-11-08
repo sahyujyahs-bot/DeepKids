@@ -2727,13 +2727,12 @@
  ],
  "videos": [
   {
-   "title": "Total internal reflection: a glowing water jet and an optical fibre",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "L5 11 Laser Waterfall",
+   "channel": "UMD Physics Videos!",
+   "youtube": "T22nOe1ZSKY",
+   "mins": 2,
    "why": "To see light following a curved jet of water, and a glass fibre carrying light round a bend.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the water jet or fibre and says that the light bounces off the inside wall."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
    "title": "How optical fibre cables carry the internet under the sea",
@@ -2745,13 +2744,12 @@
    "check": "Not yet found. Find one, watch it, and check that it is accurate and not an advertisement."
   },
   {
-   "title": "How spectacles fix short sight and long sight",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How do glasses help us see? - Andrew Bastawrous and Clare Gilbert",
+   "channel": "TED-Ed",
+   "youtube": "ypF037wlYZg",
    "mins": 4,
    "why": "To see in an animation where the picture forms in a short-sighted eye, and how a hollow lens moves it back.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the picture forming in front of or behind the retina."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [
