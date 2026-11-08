@@ -719,8 +719,8 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
    **Answer:** One example: planets move on perfect circles. Kepler used Tycho's careful readings of Mars and found that the best circle was wrong by 8 arcminutes. He trusted the readings, gave up the circle and found an ellipse. Another example: Ptolemy's Venus, which Galileo's telescope showed was wrong.. *Why:* A strong answer names the idea, the evidence that showed it wrong, and how the evidence was gathered.
 
 ## Videos
-- **Why do planets seem to go backwards? Retrograde motion explained** (to be found, 5 min) id `to find`: To see the Earth overtaking Mars in a short animation, after the Wanderer Watch and the lamp-and-ball test. *Check:* Not yet found. Find a short, accurate animation of retrograde motion, watch it, and check it before adding it.
-- **The Jantar Mantar in Jaipur: how the giant sundial works** (to be found, 6 min) id `to find`: To see the Samrat Yantra and its shadow crawling over the scale, after the sundial activity. *Check:* Not yet found. Find a clear video of the Jaipur Jantar Mantar, watch it, and check the numbers against this unit before adding it.
+- **Backwards-Moving Mars: What Does 'Retrograde' Mean?** (Live Science, 3 min) id `IEMm1VBtr8k`: To see the Earth overtaking Mars in a short animation, after the Wanderer Watch and the lamp-and-ball test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Giant Sundial of Jantar Mantar | It Happens Only in India | National Geographic** (National Geographic India, 5 min) id `noGiGORI620`: To see the Samrat Yantra and its shadow crawling over the scale, after the sundial activity. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Kepler, Tycho and the ellipse: how Mars changed astronomy** (to be found, 6 min) id `to find`: To see how careful readings of Mars led to the ellipse, after drawing an ellipse with pins. *Check:* Not yet found. Find a short, accurate video on Kepler and Tycho, watch it, and check it before adding it.
 
 ## Quiz

@@ -730,7 +730,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
    **Answer:** True. *Why:* True. The light-gathering area depends on the width times itself. Twice as wide means two times two, which is four times the area.
 
 ## Videos
-- **Why do satellites stay up? Newton's cannon explained** (to be found, 5 min) id `to find`: To see Newton's cannon drawn and animated, so that the idea of falling and missing becomes clear after the marble test. *Check:* Not yet found. Find a short, accurate video on orbits as falling sideways, watch it, and check it before adding it.
+- **Newton's Cannonball** (Debbink Physics, 5 min) id `8bEwClJBMGA`: To see Newton's cannon drawn and animated, so that the idea of falling and missing becomes clear after the marble test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How the Giant Metrewave Radio Telescope works** (to be found, 5 min) id `to find`: To see the dishes of the GMRT near Pune and how many dishes act as one telescope. *Check:* Not yet found. Find a short video by the NCRA or a science channel, watch it, and check it is accurate before adding it.
 - **ISRO: the journey of Chandrayaan-3 from Earth to the Moon** (to be found, 6 min) id `to find`: To follow the orbit-raising burns and the landing step by step, after the Mission Chain game. *Check:* Not yet found. Look for ISRO's own mission animation, watch it, and check the dates against this unit before adding it.
 

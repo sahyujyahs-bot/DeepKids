@@ -3040,22 +3040,20 @@
   ],
   "videos": [
     {
-      "title": "Why do planets seem to go backwards? Retrograde motion explained",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 5,
+      "title": "Backwards-Moving Mars: What Does 'Retrograde' Mean?",
+      "channel": "Live Science",
+      "youtube": "IEMm1VBtr8k",
+      "mins": 3,
       "why": "To see the Earth overtaking Mars in a short animation, after the Wanderer Watch and the lamp-and-ball test.",
-      "check": "Not yet found. Find a short, accurate animation of retrograde motion, watch it, and check it before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "The Jantar Mantar in Jaipur: how the giant sundial works",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 6,
+      "title": "The Giant Sundial of Jantar Mantar | It Happens Only in India | National Geographic",
+      "channel": "National Geographic India",
+      "youtube": "noGiGORI620",
+      "mins": 5,
       "why": "To see the Samrat Yantra and its shadow crawling over the scale, after the sundial activity.",
-      "check": "Not yet found. Find a clear video of the Jaipur Jantar Mantar, watch it, and check the numbers against this unit before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
       "title": "Kepler, Tycho and the ellipse: how Mars changed astronomy",

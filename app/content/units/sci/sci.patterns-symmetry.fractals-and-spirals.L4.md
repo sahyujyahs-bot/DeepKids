@@ -672,8 +672,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 
 ## Videos
 - **The fabulous Fibonacci flower formula** (Mathologer, 20 min) id `_GkxCIW46to`: For the parent and older children: how the golden angle, fractions of a turn and Fibonacci numbers fit together in sunflowers and other plants. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup earlier. Not watched in full from here: a parent should preview it.
-- **How long is a coastline? Fractal dimension explained** (to be found, 8 min) id `to find`: To see box counting and why a rough coast has a number between 1 and 2. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How animals get their spots and stripes: Turing patterns** (to be found, 6 min) id `to find`: To see how two chemicals spreading and reacting can make spots and stripes. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **Measuring Coastline - Numberphile** (Numberphile, 8 min) id `7dcDuVyzb8Y`: To see box counting and why a rough coast has a number between 1 and 2. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Link Between Zebra Stripes and Sand Dunes | Natural Patterns** (SciShow, 9 min) id `ItyYS0tbs6g`: To see how two chemicals spreading and reacting can make spots and stripes. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A square with sides 5 centimetres long is doubled to sides 10 centimetres long. How many of the small squares fit inside the big one?  

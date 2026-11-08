@@ -677,8 +677,8 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 
 ## Videos
 - **Symmetry, reality's riddle - Marcus du Sautoy** (TED-Ed, 18 min) id `1xlAaBrIxMs`: For the parent and older children: a mathematician on symmetry in nature, in the laws of physics and in patterns. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup earlier. Not watched in full from here: a parent should preview it.
-- **Why are some molecules left-handed and right-handed?** (to be found, 5 min) id `to find`: To see mirror-twin molecules and why life uses one hand. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Emmy Noether and the laws of physics, explained simply** (to be found, 8 min) id `to find`: To see how symmetry in the laws of physics goes with energy that is never lost. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **What is chirality and how did it get in my molecules? - Michael Evans** (TED-Ed, 5 min) id `71GjsRnsoL8`: To see mirror-twin molecules and why life uses one hand. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The most beautiful idea in physics - Noether's Theorem** (Looking Glass Universe, 10 min) id `CxlHLqJ9I0A`: To see how symmetry in the laws of physics goes with energy that is never lost. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which move flips a shape over a line, like looking in a mirror?  

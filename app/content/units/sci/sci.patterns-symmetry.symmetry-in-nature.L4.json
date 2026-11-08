@@ -2821,20 +2821,20 @@
    "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup earlier. Not watched in full from here: a parent should preview it."
   },
   {
-   "title": "Why are some molecules left-handed and right-handed?",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "What is chirality and how did it get in my molecules? - Michael Evans",
+   "channel": "TED-Ed",
    "mins": 5,
    "why": "To see mirror-twin molecules and why life uses one hand.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "71GjsRnsoL8"
   },
   {
-   "title": "Emmy Noether and the laws of physics, explained simply",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 8,
+   "title": "The most beautiful idea in physics - Noether's Theorem",
+   "channel": "Looking Glass Universe",
+   "mins": 10,
    "why": "To see how symmetry in the laws of physics goes with energy that is never lost.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "CxlHLqJ9I0A"
   }
  ],
  "applications": [

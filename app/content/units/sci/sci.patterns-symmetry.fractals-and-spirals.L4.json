@@ -2719,20 +2719,20 @@
    "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup earlier. Not watched in full from here: a parent should preview it."
   },
   {
-   "title": "How long is a coastline? Fractal dimension explained",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Measuring Coastline - Numberphile",
+   "channel": "Numberphile",
    "mins": 8,
    "why": "To see box counting and why a rough coast has a number between 1 and 2.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "7dcDuVyzb8Y"
   },
   {
-   "title": "How animals get their spots and stripes: Turing patterns",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 6,
+   "title": "The Link Between Zebra Stripes and Sand Dunes | Natural Patterns",
+   "channel": "SciShow",
+   "mins": 9,
    "why": "To see how two chemicals spreading and reacting can make spots and stripes.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "ItyYS0tbs6g"
   }
  ],
  "applications": [
