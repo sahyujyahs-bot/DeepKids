@@ -639,9 +639,9 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
    **Answer:** order shown. *Why:* A dog usually has two kinds of cone cell. Most people have three. Many birds have four.
 
 ## Videos
-- **How do red, green and blue make every colour on a screen?** (to be found, 5 min) id `to find`: To see how screens make all their colours from tiny red, green and blue dots, and why yellow needs no yellow dot. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Why do we see afterimages?** (to be found, 4 min) id `to find`: To see why staring at a colour makes a ghost of the opposite colour, and what the cone cells are doing. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **What colours do dogs and birds see?** (to be found, 5 min) id `to find`: To compare two, three and four kinds of cone cell, and ask what that means for how other animals see the world. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **Why Your Screen Needs No Yellow Pixels** (Second Look Explained, 4 min) id `Rq-eJSBIcuA`: To see how screens make all their colours from tiny red, green and blue dots, and why yellow needs no yellow dot. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Afterimages & Colour Vision** (Pueblo Science, 4 min) id `Lf4CIvi3oGc`: To see why staring at a colour makes a ghost of the opposite colour, and what the cone cells are doing. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How Birds Really See the World** (SciShow, 5 min) id `bG2y8dG2QIM`: To compare two, three and four kinds of cone cell, and ask what that means for how other animals see the world. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which three colours of light make white when they are shone together on one spot of a white wall?  

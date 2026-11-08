@@ -665,8 +665,8 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
    **Answer:** Accept some mistakes, and set the cut-off by which kind of mistake costs more. *Why:* When the groups overlap on everything you can measure, mistakes cannot be avoided. The cut-off then decides which kind you accept, and the right choice depends on which kind costs more.
 
 ## Videos
-- **How a colour sorter cleans rice** (to be found, 4 min) id `to find`: To see a camera and tiny puffs of air push out bad grains and stones from a stream of rice. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **The Hertzsprung-Russell diagram explained** (to be found, 5 min) id `to find`: To see stars placed on a map by colour and brightness, with the main sequence, giants and white dwarfs. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **Discolor & Chalky Rice One-Pass Cleaning with AMD® RG Series Rice Color Sorter** (AMD® COLOR SORTER (official), 3 min) id `t82OZZ99Axc`: To see a camera and tiny puffs of air push out bad grains and stones from a stream of rice. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Hertzsprung-Russell Diagram - Stars & Stellar Evolution Explained** (Chris Benton Astronomy, 8 min) id `wvWrmevNLVo`: To see stars placed on a map by colour and brightness, with the main sequence, giants and white dwarfs. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How plastics are sorted at a recycling plant** (to be found, 5 min) id `to find`: To see how plastics are sorted by what they are made of, and by whether they float or sink in water. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
 
 ## Quiz

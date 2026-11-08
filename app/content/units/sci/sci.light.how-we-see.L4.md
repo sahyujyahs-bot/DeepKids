@@ -691,9 +691,9 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
    **Answer:** An eye test, and perhaps glasses with a concave lens. *Why:* This is a sign of short sight. A concave lens spreads the light a little, and moves the focus back on to the retina.
 
 ## Videos
-- **How do two eyes give us depth?** (to be found, 5 min) id `to find`: To see why each eye gets a slightly different picture, and how the brain uses the difference to judge how far away things are. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How does the lens in your eye focus?** (to be found, 4 min) id `to find`: To see the lens change shape for near and far things, and why the picture on the retina is upside down. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Why does the Moon look bigger near the horizon?** (to be found, 4 min) id `to find`: To see the Moon illusion and hear the main ideas about it, including that scientists still disagree. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **Why do we have two eyes instead of one? | #aumsum #kids #science #education #children** (It's AumSum Time, 3 min) id `v97kRIB8a10`: To see why each eye gets a slightly different picture, and how the brain uses the difference to judge how far away things are. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Everything is Upside Down! | The Architecture of the Human Eye** (Doug Patt, 6 min) id `5BdmRlbKtLI`: To see the lens change shape for near and far things, and why the picture on the retina is upside down. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The moon illusion - Andrew Vanden Heuvel** (TED-Ed, 5 min) id `RXkYjL_7jME`: To see the Moon illusion and hear the main ideas about it, including that scientists still disagree. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What is the best evidence that light travels in straight lines?  

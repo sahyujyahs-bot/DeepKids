@@ -594,9 +594,9 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
    **Answer:** I would use the same glass, the same finger, the same press and the same speed. I would change only how sticky the finger is, and have a listener with eyes shut score each squeak. I would do each condition three times.. *Why:* A strong answer changes one thing, keeps the rest the same, uses repeated tries and avoids the listener knowing which finger it is.
 
 ## Videos
-- **Why a bottle sings when you blow across it** (to be found, 4 min) id `to find`: To see and hear how blowing across a bottle sets the air inside shaking, and how water changes the note. *Check:* Not yet found. Find one, watch it, and check that it shows the air column and not the glass shaking before adding it.
-- **Chladni plate patterns: seeing sound** (to be found, 4 min) id `to find`: To watch sand gather into patterns on a plate as the note changes, and see the lines that stay still. *Check:* Not yet found. Find one, watch it, and check that it explains the still lines clearly before adding it.
-- **How a snapping shrimp makes a bang** (to be found, 4 min) id `to find`: To see the high-speed pictures of the claw and the bubble, and hear about the flash of light. *Check:* Not yet found. Find one, watch it, and check that it matches the 2000 and 2001 studies before adding it.
+- **Why Blowing in Bottles Makes Sound and Helmholtz Resonance** (RimstarOrg, 4 min) id `PZVeJ2rh6ts`: To see and hear how blowing across a bottle sets the air inside shaking, and how water changes the note. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Singing plates - Standing Waves on Chladni plates** (Physics Girl, 4 min) id `wYoxOJDrZzw`: To watch sand gather into patterns on a plate as the note changes, and see the lines that stay still. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Pistol Shrimp's Cavitation Bubble | Richard Hammond's Invisible Worlds | Earth Science** (BBC Earth Science, 3 min) id `1wBYPjkGRdo`: To see the high-speed pictures of the claw and the bubble, and hear about the flash of light. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A sound starts when something pushes on the air. Which of these does not push on the air?  

@@ -612,8 +612,8 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
    **Answer:** Have both of them time the same event many times, such as a clock hand or a light that flashes at known moments. If each is steady but they differ by the same amount each time, each has a different delay. If the gap changes a lot, someone is making mistakes.. *Why:* A strong answer repeats the measurements and uses an event with a known time, then compares the pattern of differences.
 
 ## Videos
-- **The reaction time ruler test** (to be found, 4 min) id `to find`: To watch a ruler-drop reaction test done carefully, and see how the result is read off the ruler. *Check:* Not yet found. Find one, watch it, and check that it explains reaction time as a delay inside the body before adding it.
-- **The rubber hand illusion** (to be found, 5 min) id `to find`: To see the rubber hand test done in a lab, and hear how scientists explain it. *Check:* Not yet found. Find one, watch it, and check that it is accurate and gentle before adding it.
+- **Reaction Time: The Ruler Drop Test Experiment (muscle memory / science project)** (Kids Fun Science (Kids Fun Science), 4 min) id `kwXr8odzDvY`: To watch a ruler-drop reaction test done carefully, and see how the result is read off the ruler. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Rubber hand illusion tricks your brain** (New Scientist, 3 min) id `TCQbygjG0RU`: To see the rubber hand test done in a lab, and hear how scientists explain it. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How do birds sense the Earth's magnetic field?** (to be found, 5 min) id `to find`: To see how scientists test the idea that migrating birds sense magnetism, and what is still unknown. *Check:* Not yet found. Find one, watch it, and check that it says clearly what is still debated.
 
 ## Quiz

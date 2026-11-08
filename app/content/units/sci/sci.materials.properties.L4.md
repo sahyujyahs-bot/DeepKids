@@ -681,7 +681,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 ## Videos
 - **Why wood splits along the grain** (to be found, 5 min) id `to find`: To see long wood cells under a microscope and a log being split along its grain. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
 - **Metal fatigue: why a bent paper clip snaps** (to be found, 5 min) id `to find`: To see fatigue cracks grow in a metal that is bent again and again. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How plywood is made** (to be found, 5 min) id `to find`: To see thin sheets of wood peeled off a log, turned and glued with the grain crossed. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **How Plywood is Made in Factory | The making of plywood** (TalkWidTech, 5 min) id `ihT_6X85a18`: To see thin sheets of wood peeled off a log, turned and glued with the grain crossed. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which sentence best describes a material that has a grain?  
