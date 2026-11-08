@@ -509,7 +509,7 @@
       },
       {
        "f": "Dry yeast and sugar are stirred into boiling hot water.",
-       "b": "Stops. Most yeast die in water hotter than about 50 degrees, so no gas is made."
+       "b": "Stops. Most yeast die in water hotter than about 55 degrees, so no gas is made."
       },
       {
        "f": "Dry yeast is stirred into warm water with a teaspoon of sugar.",
@@ -537,7 +537,7 @@
       },
       {
        "f": "A tray of yeast dough goes into a very hot oven. Will the yeast keep making gas?",
-       "b": "Stops. Yeast die above about 60 degrees. The dough puffs a little more as the gas expands, and then the crust sets."
+       "b": "Stops. Yeast die above about 55 degrees. The dough puffs a little more as the gas expands, and then the crust sets."
       },
       {
        "f": "A pot of curd sits in the fridge for a week.",
@@ -632,7 +632,8 @@
      "do": "Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
      "say": "These cards show situations in a kitchen. Each player gets three tokens. Works well, Slows down, and Stops. We will guess what the microbes do.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes three tokens.",
-     "context": "This is the first step of Kitchen Verdict. You set up the cards and the tokens."
+     "context": "This is the first step of Kitchen Verdict. You set up the cards and the tokens.",
+     "parent": "A grown-up cuts the cards with scissors, or the children cut them with blunt scissors while you watch. If you cannot print, write the 24 cards on small pieces of paper. With one child, you play with them; with 2 to 4 children, the reader changes after every card."
     },
     {
      "id": "s2",
@@ -719,12 +720,12 @@
      "buy": "b-balloons"
     },
     {
-     "item": "3 level teaspoons of instant dry yeast",
+     "item": "3 level teaspoons of instant dry yeast (one small sachet from a kirana or bakery-supply shop, about 7 to 10 grams)",
      "qty": 1,
      "buy": "b-yeast"
     },
     {
-     "item": "3 level teaspoons of sugar",
+     "item": "6 level teaspoons of sugar",
      "qty": 1
     },
     {
@@ -748,8 +749,8 @@
      "qty": 1
     }
    ],
-   "safety": "Use warm water, never hot, because hot water kills yeast and can scald. A grown-up checks the water first. Do not drink anything in the bottles. Keep burst balloon pieces away from children under five, because they can choke on them.",
-   "record": "Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle.",
+   "safety": "Use warm water, never hot, because hot water kills yeast and can scald. A grown-up checks the water first. Do not drink anything in the bottles. Keep the balloon away from the mouth, and do not blow into it. Wash hands after handling the yeast water. Keep burst balloon pieces away from children under five, because they can choke on them.",
+   "record": "Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle. The sizes are not promised: your own numbers are the result.",
    "context": "In this experiment, you find out what yeast need to make gas. You change one thing at a time, and catch the gas in a balloon.",
    "setup": [
     {
@@ -757,12 +758,12 @@
      "caption": "1. Put 200 millilitres of water in each bottle. Use cold water in C."
     },
     {
-     "art": "A teaspoon of sugar being stirred into the water in a bottle, and a note showing that bottle B gets no sugar.",
-     "caption": "2. Add one teaspoon of sugar to A, C and D. Leave B without sugar."
+     "art": "Two teaspoons of sugar being stirred into the water in a bottle, and a note showing that bottle B gets no sugar.",
+     "caption": "2. Add two teaspoons of sugar to A, C and D. Leave B without sugar."
     },
     {
      "art": "A teaspoon of dry yeast being added to a bottle, with a note that bottle D gets no yeast.",
-     "caption": "3. Add one teaspoon of yeast to A, B and C. Leave D without yeast."
+     "caption": "3. Add one level teaspoon of yeast to A, B and C. Leave D without yeast."
     },
     {
      "art": "A balloon being stretched over the neck of a bottle, with the bottle then placed on a tray, and bottle C placed in a fridge.",
@@ -796,10 +797,10 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Pour 200 millilitres of warm water into bottles A, B and D. Pour 200 millilitres of cold water into bottle C. Add one level teaspoon of sugar to A, C and D. Stir each until the sugar disappears.",
-     "say": "Warm water first, into A, B and D. Cold water goes into C. Now one teaspoon of sugar goes into A, C and D, but not into B. Stir until the sugar has dissolved.",
+     "do": "Pour 200 millilitres of warm water into bottles A, B and D. Pour 200 millilitres of cold water into bottle C. Add two level teaspoons of sugar to A, C and D. Stir each until the sugar disappears.",
+     "say": "Warm water first, into A, B and D. Cold water goes into C. Now two teaspoons of sugar goes into A, C and D, but not into B. Stir until the sugar has dissolved.",
      "kid": "Pour 200 millilitres of warm water into A, B and D. Pour cold water into C. Add one spoon of sugar to A, C and D. Stir.",
-     "parent": "Warm means about 40 degrees. You can hold a finger in it for 10 seconds. If it is too hot to hold, let it cool first. Hot water kills the yeast.",
+     "parent": "Warm means about 40 degrees. You can hold a finger in it for 10 seconds. If it is too hot to hold, let it cool first. Hot water kills the yeast. Roles: with one child, you pour and your child stirs and labels. With 2 to 4 children, each child owns one bottle (A, B, C or D), adds its ingredients and measures its balloon; a grown-up checks the water.",
      "check": {
       "t": "mcq",
       "q": "Why do we leave sugar out of bottle B?",
@@ -819,7 +820,7 @@
      "do": "Add one level teaspoon of dry yeast to A, B and C. Do not add yeast to D. Swirl each bottle for 10 seconds. Fit a stretched balloon on each bottle. Put C in the fridge on a low shelf. Leave A, B and D on a tray in the kitchen.",
      "say": "Yeast goes into A, B and C, and not into D. Swirl each bottle. Now fit a balloon on the top of each one. The balloon will catch the gas.",
      "kid": "Add one spoon of yeast to A, B and C. Not D. Swirl. Fit a balloon on each bottle. Put C in the fridge.",
-     "parent": "Dry yeast looks like tiny beige grains. Swirl gently so the bottle does not foam over. Leave nothing on top of bottle C in the fridge, so the balloon has room.",
+     "parent": "Dry yeast looks like tiny beige grains. Swirl gently so the bottle does not foam over. Leave nothing on top of bottle C in the fridge, so the balloon has room. Fit each balloon snugly over the neck, and add a rubber band if it is loose, because a leaking neck gives a false \"no gas\". If your yeast sachet is old, first test a pinch in a cup of warm sugar water: it should foam in 10 minutes.",
      "context": "In this step, you add the yeast and put on the balloons. The balloon will catch any gas the yeast make."
     },
     {
@@ -838,7 +839,7 @@
        ]
       }
      ],
-     "parent": "While you wait, read the card about yeast together. Bottle A usually starts to swell after about 10 to 15 minutes. Do not worry if your numbers are small. Write what you see.",
+     "parent": "While you wait, read the card about yeast together. Bottle A usually starts to swell after about 15 to 20 minutes, and it keeps growing for about an hour. Sizes depend on your bottle, yeast and room, so do not worry if your numbers are small. If A is still tiny at 40 minutes, keep measuring at 50 and 60 minutes. If every balloon stays flat, check for a leaking neck, old yeast or water that was too hot, and say what you think happened. Bottle B may swell a little, because a little food may come in with the yeast sachet. That is also a result.",
      "check": {
       "t": "mcq",
       "q": "After 30 minutes, balloon A is much bigger than balloon D. What does this show?",
@@ -902,7 +903,7 @@
      "qty": 4
     },
     {
-     "item": "a warm place: a closed cupboard, or an oven with only its light switched on",
+     "item": "a warm place: a closed cupboard, or an oven with only its light switched on (it should feel pleasantly warm, not hot, on the hand)",
      "qty": 1
     },
     {
@@ -910,12 +911,12 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up boils the milk and carries the hot pan. If you use the oven, put a note on the door so nobody switches on the heat. Do not taste cup D, or any cup that smells bad or has colour on it. Taste only a small spoon from a cup that has set well.",
+   "safety": "A grown-up boils the milk and carries the hot pan. If you use the oven, put a note on the door so nobody switches on the heat. Do not use milk or curd if anyone in the family is allergic to dairy. Do not taste cup D, or any cup that smells bad or has colour on it. Taste only a small spoon from a cup that has set well.",
    "schedule": [
     {
      "day": 1,
      "mins": 18,
-     "what": "Guess. Boil and cool the milk. Fill the cups, add the starter to A, B and C, and put each cup in its place."
+     "what": "Guess. Do this in the evening, around 8 or 9 pm. Boil and cool the milk. Fill the cups, add the starter to A, B and C, and put each cup in its place."
     },
     {
      "day": 2,
@@ -964,7 +965,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Roles: with one child, you boil the milk and your child fills the cups and writes the table. With 2 to 4 children, each child owns one cup (A, B, C or D) and its labels, spoon and number.",
      "context": "This is the first step of the Curd Test. You guess before you test."
     },
     {
@@ -1013,7 +1014,7 @@
        ]
       }
      ],
-     "parent": "In a hot kitchen, cups A and B may look alike, because both are warm enough. In a cool kitchen, A will be ahead. Write exactly what you see.",
+     "parent": "In a hot kitchen, cups A and B may look alike, because both are warm enough. In a cool kitchen, A will be ahead. Write exactly what you see. In winter or in a cold kitchen, nothing may have set yet. That is a real result: keep checking until the next morning, and write down when each cup changed.",
      "context": "In this step, you check the cups the next morning. You give each one a number to show how well it has set."
     },
     {
@@ -1065,6 +1066,10 @@
      "qty": 1
     },
     {
+     "item": "a second jar like the first, and a plate or lid to cover each jar loosely (optional: for the fridge comparison)",
+     "qty": 1
+    },
+    {
      "item": "a rubber band or a marker pen",
      "qty": 1
     },
@@ -1077,7 +1082,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat batter that smells bad or has colour on it.",
+   "safety": "Do not eat batter that smells bad or has pink, green or black colour on it. Do not taste the raw batter.",
    "schedule": [
     {
      "day": 1,
@@ -1110,7 +1115,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Pour the batter into the jar until it is one third full. Slip a rubber band around the jar at the top of the batter. Measure the height with a ruler. Write the number down. Ask for a guess and a reason.",
+     "do": "Pour the batter into the jar until it is one third full. Slip a rubber band around the jar at the top of the batter. Measure the height with a ruler. Write the number down. Cover the jar loosely with a plate. If you have a second jar, fill it the same way and put it in the fridge. Ask for a guess and a reason.",
      "say": "We will leave the batter overnight. How high do you think it will be in the morning? Why do you think so?",
      "kid": "Pour batter into the jar. Mark the top with a rubber band. Measure it. How high will it be tomorrow? Why?",
      "ask": [
@@ -1123,13 +1128,13 @@
        ]
       }
      ],
-     "parent": "A third full leaves room to rise. Keep the jar in a warm part of the kitchen, away from the fan. If your kitchen is cold, the batter may not rise much. That is also a result.",
+     "parent": "A third full leaves room to rise. Cover loosely, never tight, so the gas can escape. Keep the jar in a warm part of the kitchen, away from the fan. If your kitchen is cold, the batter may not rise much. That is also a result. With 2 to 4 children, each child can set up and measure their own jar: one on the counter, one in the fridge.",
      "context": "This is the first step of Batter Watch. You mark the height and guess what will happen."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "The next morning, look at the jar. Measure how high the batter is now. Write down the number. Look at the bubbles. Smell the top. Hold your ear close, and listen. Draw the inside of the jar, with the bubbles.",
+     "do": "The next morning, look at the jar. Measure how high the batter is now. Write down the number. Look at the bubbles. Smell the top. Hold your ear close, and listen. Draw the inside of the jar, with the bubbles. If you have the fridge jar, measure it too and compare.",
      "say": "What do you see? What do you smell? What do you hear? How high did it rise? Why do you think it rose?",
      "kid": "Measure the batter. Look at the bubbles. Smell it. Listen. Draw what you see.",
      "ask": [
@@ -1143,7 +1148,7 @@
       }
      ],
      "think": "What would the batter look like if you had left it in the fridge?",
-     "parent": "A good rise is about one and a half times the starting height or more, with bubbles through the batter and a slightly sour smell. If it did not rise, check the room temperature and try the Winter Batter challenge. After they have shared what they saw, explain: the microbes ate the sugars and made carbon dioxide, and the sticky dal held the gas.",
+     "parent": "Fresh-ground batter in a warm kitchen usually rises well overnight; the fridge jar hardly rises. In hot weather it may rise a lot and smell quite sour, which is fine. A good rise is about one and a half times the starting height or more, with bubbles through the batter and a slightly sour smell. If it did not rise, check the room temperature and try the Winter Batter challenge. After they have shared what they saw, explain: the microbes ate the sugars and made carbon dioxide, and the sticky dal held the gas.",
      "check": {
       "t": "mcq",
       "q": "A jar of batter rose in the night and smells a little sour. What made the sour smell?",
@@ -1217,7 +1222,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Call a grandparent or an older relative, or ask a grown-up at home. Ask them to name foods that sit and change before they are eaten, such as curd, batter, pickle or bread. Fill in the table.",
+     "do": "Call a grandparent or an older relative, or ask a grown-up at home. Ask them to name foods that sit and change before they are eaten, such as curd, batter, pickle or bread. Fill in the table. Ask them to say one story about how they learned to make it.",
      "say": "Which foods do you make where you leave them to change for a day or more? What are they made from? How do you know when they are ready?",
      "kid": "Ask your elder which foods they leave to change before eating. Ask how they know it is ready. Write it down.",
      "ask": [
@@ -1231,7 +1236,7 @@
        ]
       }
      ],
-     "parent": "If nobody in the family makes fermented food, ask a neighbour or a shop owner. Idli, dosa, curd, pickle, bread, vinegar and kanji all count. People often know it by smell, sight and taste.",
+     "parent": "If nobody in the family makes fermented food, ask a neighbour or a shop owner. Idli, dosa, curd, pickle, bread, vinegar and kanji all count. People often know it by smell, sight and taste. With one child, you can ask and your child writes. With 2 to 4 children, one asks, one writes and one draws the map; each child can interview a different elder. Elders are glad to tell the stories behind a food.",
      "context": "In this step, you interview someone. You collect the foods and how they know it is ready."
     },
     {
@@ -1281,7 +1286,7 @@
      "what": "Walk through the kitchen. Find foods that were made with microbes. Check the labels. Sort them."
     }
    ],
-   "record": "A list of at least eight foods, sorted into two groups: made with microbes, and not made with microbes.",
+   "record": "A list of at least eight foods, sorted into two groups: made with microbes, and not made with microbes, with a count for each group and a note on how your first guess compared.",
    "context": "In this activity, you search your kitchen for foods that were made with the help of microbes. You check labels and sort them.",
    "setup": [
     {
@@ -1301,10 +1306,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Walk through the kitchen with your child. Find at least eight foods that you think were made with microbes. Write down the names.",
+     "do": "Walk through the kitchen with your child. First guess: out of all the foods you will see, how many were made with microbes? Find at least eight foods that you think were made with microbes. Write down the names.",
      "say": "Let's look for foods that microbes helped to make. Curd and bread are easy. What else can you find?",
      "kid": "Look around the kitchen. Find foods you think microbes helped make. Write them down.",
-     "parent": "Easy finds: curd, buttermilk, bread, idli or dosa batter, pickle, vinegar, cheese, soy sauce, papad, ketchup. Foods that are not: rice, plain milk, paneer, dal, fresh vegetables, sugar.",
+     "parent": "Easy finds: curd, buttermilk, bread, idli or dosa batter, cheese, soy sauce, and some pickles, which are fermented in salt. Tricky ones: oil-and-spice pickles are only preserved, and some cheap vinegar and soy sauce are made with chemicals, so the label decides. Ketchup is not fermented, but its vinegar is made by microbes. Papad is not fermented. Foods that are not: rice, plain milk, paneer, dal, fresh vegetables, sugar. With 2 to 4 children, each takes a shelf and then they compare. A grown-up opens the fridge and handles glass jars and knives.",
      "context": "This is the first step of Kitchen Safari. You search the kitchen."
     },
     {
@@ -1329,7 +1334,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw two columns on a sheet. Write Made with microbes on one side and Not made with microbes on the other. Sort your foods. Talk about the ones you are not sure about.",
+     "do": "Draw two columns on a sheet. Write Made with microbes on one side and Not made with microbes on the other. Sort your foods. Count each column and compare with your first guess. Talk about the ones you are not sure about.",
      "say": "Which column does each food go in? Which ones are you not sure about? How could you find out?",
      "kid": "Sort your foods into two columns. Which ones are you not sure about?",
      "think": "How could you find out whether a food was made with microbes?",
@@ -1378,7 +1383,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up works the grinder, because the blades are sharp. A grown-up does the steaming. The steam and the pot are very hot.",
+   "safety": "A grown-up works the grinder, because the blades are sharp. A grown-up does the steaming. The steam and the pot are very hot. Children stay back when the lid is opened. Nobody tastes the raw batter.",
    "schedule": [
     {
      "day": 1,
@@ -1415,7 +1420,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Wash one cup of rice and the dal separately, until the water runs almost clear. Soak the rice with the fenugreek seeds, and the dal in a different bowl. Cover both with water. Leave them for 4 to 5 hours.",
+     "do": "Wash one cup of rice and the dal separately, until the water runs almost clear. Soak the rice in one bowl, and the dal with the fenugreek seeds in a different bowl. Cover both with water. Leave them for 4 to 5 hours.",
      "say": "Rice and dal soak separately. Soaking softens them so they grind smoothly. It also wakes up the microbes that live on the grains. Which microbe do you think will do the work?",
      "kid": "Wash the rice and the dal. Soak them in two bowls. Wait 4 to 5 hours.",
      "ask": [
@@ -1428,7 +1433,7 @@
        ]
       }
      ],
-     "parent": "Use cool water. Soaking is a good time to do other lessons. The grains are already covered with microbes that will wake up in the batter.",
+     "parent": "Use cool water. Soaking is a good time to do other lessons. The grains are already covered with microbes that will wake up in the batter. Roles: with one child, your child washes and soaks while you grind and steam. With 2 to 4 children, one washes the rice, one the dal, one marks and measures the batter, and one greases the plates (grown-up fills them).",
      "context": "This is the first step of Make Idli. You soak the rice and the dal."
     },
     {
@@ -1447,7 +1452,7 @@
      "do": "Stir in one teaspoon of salt. Pour the batter into the big pot so that it is no more than one third full. Slip a rubber band around the pot at the top of the batter. Measure the height. Cover the pot loosely. Put it in a warm place overnight.",
      "say": "The pot must be big, so the batter has room to rise. Mark the level, so we can see how much it rises. The lid must be loose, so the gas can escape.",
      "kid": "Add salt. Pour the batter into the pot. Mark the top with a rubber band. Cover it loosely. Leave it overnight.",
-     "parent": "In a cool kitchen, below about 22 degrees, use a warm cupboard or the oven with only its light on. See the Winter Batter challenge. Write down the starting height.",
+     "parent": "In a cool kitchen, below about 22 degrees, use a warm cupboard or the oven with only its light on. See the Winter Batter challenge. Leave a note on the oven door so nobody switches on the heat. Write down the starting height. Batter usually needs 8 to 12 hours at 25 to 30 degrees; in hot weather it can be ready sooner and quite sour.",
      "check": {
       "t": "mcq",
       "q": "Why must the lid on the pot stay loose?",
@@ -1477,7 +1482,7 @@
        ]
       }
      ],
-     "parent": "A good rise is one and a half to two times the starting height, with bubbles and a pleasant sour smell. If it has not risen, say so, and try the Winter Batter challenge. After they have shared what they saw, explain: microbes ate the sugars and made carbon dioxide gas.",
+     "parent": "A good rise is one and a half to two times the starting height, with bubbles and a pleasant sour smell. If it has not risen, say so, and wait 3 to 4 more hours in a warm place, or try the Winter Batter challenge. If it still has not risen, steam it anyway: the idlis will be flat but safe to eat. Throw the batter away if it smells bad or has colour on it. After they have shared what they saw, explain: microbes ate the sugars and made carbon dioxide gas.",
      "context": "In this step, you check how much the batter has risen overnight."
     },
     {
@@ -2669,7 +2674,7 @@
    "id": "b-yeast",
    "item": "A packet of instant dry yeast (baker's yeast)",
    "kind": "material",
-   "why": "For the Yeast Balloon test. One small packet is enough for several tests. Check the date on the packet.",
+   "why": "For the Yeast Balloon test. One small sachet (about 7 to 10 grams) is enough for the test. Check the date on the packet, because old yeast does not work.",
    "url": "https://www.amazon.in/s?k=instant+dry+yeast",
    "used_in": [
     "e1"
@@ -2799,5 +2804,5 @@
   "when": "1857 to 1861",
   "wrong_idea": "Many scientists thought fermentation was only chemistry, a kind of rotting with nothing alive in it. Pasteur showed that it stopped when the microbes were killed, and began again when they were let back in."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Yeast Balloon: the cold bottle stays in the fridge, because a bottle left on the counter would warm up and catch up. The quantities (200 millilitres, one teaspoon each) and the 40 minutes are from the usual home version of this test, and the balloon sizes in the maths question are a made-up example, not measured. Curd Test: in a hot kitchen cups A and B may look alike, so the steps say to write exactly what you see. Cup D is never tasted. Make Idli: the soak, grind, rest and steam times follow a standard home recipe. The batter must be ground at least 8 hours before steaming. The videos have no address yet. Facts were read against the sources list, and two details should be checked by a person before the unit goes live: that the oven light alone keeps a typical home oven near 35 to 40 degrees, and the Hindustan Antibiotics start year (1954)."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Yeast Balloon: the cold bottle stays in the fridge, because a bottle left on the counter would warm up and catch up. The quantities (200 millilitres, one teaspoon of yeast and two of sugar) and the 40 minutes are from the usual home version of this test, and the balloon sizes in the maths question are a made-up example, not measured. Curd Test: in a hot kitchen cups A and B may look alike, so the steps say to write exactly what you see. Cup D is never tasted. Make Idli: the soak, grind, rest and steam times follow a standard home recipe. The batter must be ground at least 8 hours before steaming. The videos have no address yet. Feasibility review: balloon sizes and the time to start swelling (about 15 to 20 minutes) are typical and not promised; family trials are still needed for the yeast quantities, the oven-light warmth and the curd timings. Facts were read against the sources list, and two details should be checked by a person before the unit goes live: that the oven light alone keeps a typical home oven near 35 to 40 degrees, and the Hindustan Antibiotics start year (1954)."
 }

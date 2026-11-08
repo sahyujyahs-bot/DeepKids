@@ -750,7 +750,8 @@
     "On your turn, turn over two cards and read them aloud.",
     "If one is a plant card and the other is the shield card that names that plant, keep the pair and have another turn.",
     "If they do not match, turn them face down again in the same places. The next player has a turn. Try to remember where each card is.",
-    "When all the cards are taken, the player with the most pairs wins. If two players tie, they share the win. With 2 players, the same rules work."
+    "When all the cards are taken, the player with the most pairs wins. If two players tie, they share the win. With 2 players, the same rules work.",
+    "Extra challenge: to keep a pair, say one use of that plant's shield from memory, without reading the card."
    ],
    "flow": [
     {
@@ -796,7 +797,8 @@
       "why": "Bael's thorns keep goats away. Neem and clove both use strong chemicals. Plants use many kinds of shields."
      }
     }
-   ]
+   ],
+   "safety": "Scissors are for cutting cards only. A grown-up cuts for younger children. Never taste the plants or spices shown on the cards, apart from food you already eat at home."
   },
   {
    "id": "g2",
@@ -967,7 +969,8 @@
       "why": "Bina's cold might have got better in 6 days without kadha. A fair test compares people who drink kadha with similar people who do not."
      }
     }
-   ]
+   ],
+   "safety": "Scissors are for cutting cards only. A grown-up cuts for younger children."
   }
  ],
  "experiments": [
@@ -977,8 +980,8 @@
    "mins": 54,
    "days": 7,
    "question": "Do haldi and clove powder stop mould growing on boiled potato? If so, is the spice the cause, or just the powder?",
-   "predict": "Before you start, guess. Which square will grow the most mould: plain, rice flour, haldi or clove? Which will grow the least? Why do you think so?",
-   "fair_test": "Only the powder on top changes. Every square is cut from the same potato, the same size, and left open to the air for the same time. Each box is the same kind, closed the same way and kept in the same cupboard. The rice flour square is there to check that a plain powder alone does not stop mould. The plain square is the control.",
+   "predict": "Before you start, guess. Which square will grow the most mould: plain, rice flour, haldi or clove? Which will grow the least? Why do you think so? If you are 2 to 4 children, each writes a guess before anyone speaks.",
+   "fair_test": "Only the powder on top changes. Every square is cut from the same potato, the same size, and left open to the air for the same time. Each box has the same small piece of damp tissue, is the same kind, closed the same way and kept in the same cupboard. The rice flour square is there to check that a plain powder alone does not stop mould. The plain square is the control.",
    "results_table": [
     "Square",
     "What is on top",
@@ -1004,6 +1007,10 @@
      "buy": "b-bags"
     },
     {
+     "item": "4 small pieces of kitchen tissue or a clean cloth, dampened with a few drops of water (damp, not dripping), one for each box",
+     "qty": 4
+    },
+    {
      "item": "a quarter teaspoon of haldi powder",
      "qty": 1
     },
@@ -1022,14 +1029,19 @@
     {
      "item": "a pencil and the results table",
      "qty": 1
+    },
+    {
+     "item": "optional: a hand lens, to see the first white threads of mould through the lid",
+     "qty": 1,
+     "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up boils and cuts the potato. Once you close the boxes, do not open them again. Mould spores can make people sneeze or wheeze, especially people with asthma. Never smell or eat the potato. At the end, a grown-up puts the closed boxes or bags straight in the bin, or empties boxes into the bin and washes them in hot soapy water.",
+   "safety": "A grown-up boils and cuts the potato. Once you close the boxes, do not open them again. Mould spores can make people sneeze or wheeze, especially people with asthma. Never smell or eat the potato. Keep the boxes on a shelf away from food and away from small children and pets. A child with asthma or a mould allergy should not do the daily counts; another child or a grown-up does them. Keep the grown-up knife away from children. At the end, a grown-up puts the closed boxes or bags straight in the bin, or empties boxes into the bin and washes them in hot soapy water.",
    "schedule": [
     {
      "day": 1,
      "mins": 23,
-     "what": "Guess. Cut four squares. Leave them open to the air for 30 minutes (do something else meanwhile). Add the powders, close the boxes and put them in a cupboard."
+     "what": "Guess. Cut four squares. Leave them open to the air for 30 minutes (do something else meanwhile). Add the powders, close the boxes and put them in a warm cupboard."
     },
     {
      "day": 2,
@@ -1059,7 +1071,7 @@
     {
      "day": 7,
      "mins": 16,
-     "what": "Last count. Draw a line graph. Say what you think, what you saw and why. A grown-up throws the boxes away unopened."
+     "what": "Last count. Draw a line graph. Say what you think, what you saw and why. A grown-up throws the boxes away unopened. If a box has no mould at all by day 7 (cool or dry weather), leave it until day 10 before you stop."
     }
    ],
    "record": "Each day, write how many of the 16 small squares on each potato have mould. On day 7, draw a line graph with one line for each potato.",
@@ -1117,7 +1129,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Write A, B, C and D on the boxes. 2. Put one square in each box. 3. Spread a quarter teaspoon of powder evenly over B, C and D with the back of a clean spoon. A gets nothing.",
+     "do": "1. Write A, B, C and D on the boxes. (With 2 to 4 children, one writes the labels, one spreads the powders, one counts and one records. Swap jobs on day 4. For more data, boil a second potato so each pair makes its own set of four.) 2. Put one square in each box. 3. Spread a quarter teaspoon of powder evenly over B, C and D with the back of a clean spoon. A gets nothing. Put one damp tissue piece in each box beside the potato, not touching the powder.",
      "say": "A gets nothing. That is our control. B gets rice flour. C gets haldi. D gets clove. Why do you think we need the rice flour square?",
      "kid": "Put one square in each box. Spread rice flour on B, haldi on C and clove on D. A gets nothing.",
      "check": {
@@ -1138,7 +1150,7 @@
      "do": "1. Close each box tightly. 2. Draw a 4 by 4 grid of squares on each lid with the marker, over the potato. 3. Put all four boxes together in a cupboard away from the stove.",
      "say": "The grid gives us 16 small squares on each potato. Each day we count how many have mould. Counting turns what we see into numbers we can compare.",
      "kid": "Close the boxes. Draw a grid of 16 squares on each lid. Put them in a cupboard together.",
-     "parent": "Mould grows faster in warm, damp weather. A cupboard that stays warm, like one near the fridge, is good. Not next to the stove."
+     "parent": "Mould grows faster in warm, damp weather. A cupboard that stays warm, like one near the fridge, is good. Not next to the stove. Mould needs damp and warmth. In a cool or dry house it can take 7 to 10 days to show, so the damp tissue matters. All four boxes must sit in the same place."
     },
     {
      "id": "s5",
@@ -1146,7 +1158,7 @@
      "do": "Each day from day 2 to day 7, take out the boxes without opening them. Count the grid squares on each lid that have mould under them. Write the number in the table.",
      "say": "Look closely through the lid. Mould starts as white fuzz, then may turn green, grey or black. Slimy wet patches count too. How many squares have some?",
      "kid": "Look through each lid. Count the squares with fuzz or slime. Write the number. Do not open the box.",
-     "parent": "In warm weather, mould often shows on the plain and rice flour squares by day 3 to 5. The clove square usually stays clean or nearly clean all week. Haldi often slows the mould but may not stop them. In cold weather, keep counting up to day 10.",
+     "parent": "In warm, damp weather, mould often shows on the plain and rice flour squares in about 3 to 6 days. Clove often (not always) holds mould back for most of the week. Haldi may slow it a little or not at all. Rice flour can even grow mould faster, because mould feeds on it. If nothing grows on any square, or all four grow the same, write that down: it is a real result, not a mistake. In cold weather, keep counting up to day 10. A white or green fuzz is mould; a wet shiny film may be bacteria, and counts too.",
      "wait": "Count every day for 6 days"
     },
     {
@@ -1173,7 +1185,7 @@
      "do": "Ask your child for three things: what I think, what I saw, and why I think it happened. Then read the explanation card 'A plant's shield, borrowed by us'.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A strong answer sounds like this. What I think: clove stops mould, and haldi slows the mould a little. What I saw: by day 6 the plain square had 12 mouldy squares, rice flour had 13, haldi had 5 and clove had 0. Why: cloves have a strong chemical that protects the bud from moulds. Accept your own family's real numbers, even if they differ."
+     "parent": "A strong answer sounds like this. What I think: clove stops mould, and haldi slows the mould a little. What I saw (an example only, made up to show the shape of an answer): by day 6 the plain square had about 12 mouldy squares, rice flour 13, haldi 5 and clove 0. Why: cloves have a strong chemical (eugenol) that protects the bud from moulds. Remember that haldi is only weakly protective on potato, even though it is a good colouring and a traditional preservative. Accept your own family's real numbers, even if they differ."
     },
     {
      "id": "s8",
@@ -1191,8 +1203,8 @@
    "mins": 36,
    "days": 14,
    "question": "Does a money plant cutting need a node, or a leaf, to grow new roots?",
-   "predict": "You will put three pieces of money plant stem in water: one with a node and a leaf, one with a node but no leaf, and one with no node at all. Which will grow roots first? Will any grow no roots? Why do you think so?",
-   "fair_test": "Every piece is about 3 cm long, and the bottom 2 cm of each stands in water, so the node of A and B is under water. All three stand in the same kind of glass, with the same depth of water, by the same window. Only the node and the leaf change. Change the water in all three glasses on the same days.",
+   "predict": "You will put three pieces of money plant stem in water: one with a node and a leaf, one with a node but no leaf, and one with no node at all. Which will grow roots first? Will any grow no roots? Why do you think so? With 2 to 4 children, each child makes and guesses for a set of A, B and C. Compare the sets at the end: more cuttings make a more trustworthy result.",
+   "fair_test": "Every piece is the same length (3 cm if the stem allows), and the bottom 2 cm of each stands in water, so the node of A and B is under water. All three stand in the same kind of glass, with the same depth of water, by the same window. Only the node and the leaf change. Change the water in all three glasses on the same days.",
    "results_table": [
     "Cutting",
     "Day 4: roots and longest root (mm)",
@@ -1211,7 +1223,7 @@
      "qty": 1
     },
     {
-     "item": "3 small glasses or clear plastic bottles cut in half",
+     "item": "3 small narrow glasses or clear plastic bottles cut in half (a narrow glass stops the short cutting tipping over)",
      "qty": 3
     },
     {
@@ -1226,9 +1238,14 @@
     {
      "item": "a marker or paper labels and tape",
      "qty": 1
+    },
+    {
+     "item": "optional: a hand lens, to see the first white root bumps",
+     "qty": 1,
+     "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up does the cutting. Money plant sap can irritate skin and is harmful if eaten, so wash your hands after handling the cuttings, and keep cuttings away from small children and pets.",
+   "safety": "A grown-up does the cutting. Money plant sap can irritate skin and is harmful if eaten, so wash your hands after handling the cuttings, and keep cuttings away from small children and pets. Do not rub your eyes while handling the cuttings. Scissors are used by a grown-up only.",
    "schedule": [
     {
      "day": 1,
@@ -1253,7 +1270,7 @@
     {
      "day": 14,
      "mins": 11,
-     "what": "Last count and measurement. Draw a bar chart of the longest root on each cutting. Plant the rooted cutting in soil."
+     "what": "Last count and measurement. If cutting A still has no roots on day 14 (cool weather), keep counting to day 21. Draw a bar chart of the longest root on each cutting. Plant the rooted cutting in soil."
     }
    ],
    "record": "Write the number of roots and the length of the longest root for each cutting on days 4, 7, 10 and 14. On day 14, draw a bar chart of the longest roots.",
@@ -1292,7 +1309,7 @@
      "say": "Each piece has the same length of stem. Only the node and the leaf are different. Why does that make the test fair?",
      "kid": "A grown-up cuts three pieces. A has a node and a leaf. B has a node but no leaf. C has no node.",
      "adult": true,
-     "parent": "On small indoor plants the bare stem between nodes can be short. Cut C as long as you can, even 2 cm is fine, and cut A and B to the same length as C."
+     "parent": "On small indoor plants the bare stem between nodes can be short. Cut C as long as you can, and cut A and B to the same length as C. If bare stems between nodes are shorter than 3 cm, make all three pieces that shorter length (not under 2 cm) and keep about 1.5 cm in water, still covering the node. One long vine gives enough pieces for several children. Ask a neighbour for trimmings."
     },
     {
      "id": "s3",
@@ -1307,7 +1324,7 @@
      "do": "On days 4, 7 and 10, count the roots on each cutting. Measure the longest root with the ruler in millimetres. Write the numbers. Pour out the old water and add fresh water.",
      "say": "Hold the ruler next to the longest root. Read the millimetres. Is anything happening on C?",
      "kid": "Count the roots. Measure the longest one in millimetres. Write it down. Change the water.",
-     "parent": "Cutting A usually shows small white roots from the node in 7 to 14 days. B may root more slowly, or may sprout a new shoot. C has no node, so they usually grow no roots and may turn soft and brown.",
+     "parent": "Cutting A usually shows small white roots from the node in about 7 to 21 days; it is slower in cool weather. B often roots too, usually a little later than A, because it has no leaf to make food. Roots on A and B may start as small white bumps before day 7. C has no node, so it usually grows no roots and may turn soft and brown. That is the result we expect, not a failure. If every cutting grows roots, write that down and look closely at whether C really had no node.",
      "wait": "Check on days 4, 7 and 10"
     },
     {
@@ -1344,8 +1361,8 @@
    "mins": 72,
    "days": 12,
    "question": "Do methi seedlings grow better with more water, or does a pot need drainage holes too?",
-   "predict": "Cup A has holes and gets water only when the soil is dry. Cup B has holes and gets water every day. Cup C has no holes and gets water every day. Which cup will have the most healthy seedlings after 12 days? Why do you think so?",
-   "fair_test": "All three cups are the same size and hold the same amount of the same soil. Each gets 10 methi seeds from the same packet, sown 1 cm deep, and all stand on the same windowsill. Cups B and C get the same 20 ml of water a day. Only the holes and the watering change.",
+   "predict": "Cup A has holes and gets water only when the soil is dry. Cup B has holes and gets water every day. Cup C has no holes and gets water every day. Which cup will have the most healthy seedlings after 12 days? Why do you think so? With 2 to 4 children, each child sows and tends their own set of three cups, or the children share one set and take turns each day; compare all the cups at the end.",
+   "fair_test": "All three cups are the same size and hold the same amount of the same soil. Each gets 10 methi seeds from the same packet, sown 1 cm deep, and all stand on the same windowsill. Cups B and C get exactly the same 30 ml (2 tablespoons) of water a day. Only the holes and the watering change.",
    "results_table": [
     "Cup",
     "Holes?",
@@ -1361,7 +1378,7 @@
      "qty": 3
     },
     {
-     "item": "a sharp pencil or skewer to poke holes, used by a grown-up",
+     "item": "a skewer, nail or sharp scissor tip to poke holes, used by a grown-up",
      "qty": 1
     },
     {
@@ -1373,7 +1390,7 @@
      "qty": 30
     },
     {
-     "item": "a small steel cup or medicine cup to measure 20 ml of water",
+     "item": "a tablespoon from the kitchen, to measure the water (2 level tablespoons is about 30 ml)",
      "qty": 1
     },
     {
@@ -1386,67 +1403,67 @@
      "buy": "b-ruler"
     }
    ],
-   "safety": "A grown-up pokes the holes. Wash your hands after handling soil.",
+   "safety": "A grown-up pokes the holes. Wash your hands after handling soil. Do not eat the seedlings from the soggy cup. Keep the cups out of the hottest afternoon sun, which can bake the seeds inside plastic.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Poke holes in cups A and B. Fill all three with soil. Sow 10 methi seeds in each. Water all three with 20 ml."
+     "what": "Poke holes in cups A and B. Fill all three with soil. Sow 10 methi seeds in each. Water all three with 30 ml (2 tablespoons)."
     },
     {
      "day": 2,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 3,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 4,
      "mins": 7,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones."
     },
     {
      "day": 5,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 6,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 7,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 8,
      "mins": 7,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones."
     },
     {
      "day": 9,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 10,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 11,
      "mins": 3,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry."
     },
     {
      "day": 12,
      "mins": 19,
-     "what": "Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. Count healthy seedlings, measure the tallest, gently tip out each cup and compare the roots. Draw a bar chart."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count healthy seedlings, measure the tallest, gently tip out each cup and compare the roots. Draw a bar chart."
     }
    ],
    "record": "Fill in the table on days 4, 8 and 12. On day 12, draw a bar chart of healthy seedlings in each cup, and draw the roots you saw.",
@@ -1481,7 +1498,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Poke 4 holes in the bottoms of cups A and B. 2. Fill all three cups with soil to 1 cm below the top. 3. Press 10 methi seeds into each, 1 cm deep. 4. Pour 20 ml of water on each. 5. Stand each cup on its own saucer by a bright window.",
+     "do": "1. Poke 4 holes in the bottoms of cups A and B. 2. Fill all three cups with soil to 1 cm below the top. 3. Press 10 methi seeds into each, 1 cm deep. 4. Pour 30 ml (2 tablespoons) of water on each. 5. Stand each cup on its own saucer by a bright window.",
      "say": "Every cup gets the same soil, the same seeds and the same window. What is different?",
      "kid": "Fill the cups with soil. Press in 10 seeds each. Water each one.",
      "adult": true
@@ -1489,7 +1506,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Every day, tip out any water in the saucers of cups A and B. Give cups B and C 20 ml of water. Push a finger 1 cm into cup A. Water A only if it feels dry. If water spills over the rim of cup C, skip that day's water for C and write 'full'. Write down which cups you watered.",
+     "do": "Every day, tip out any water in the saucers of cups A and B. Give cups B and C 30 ml (2 tablespoons) of water. Push a finger 1 cm into cup A. Water A only if it feels dry. If water spills over the rim of cup C, skip that day's water for C and write 'full'. Write down which cups you watered.",
      "say": "Feel cup A first. Is it dry or damp? Only water when it is dry. Cups B and C get water every day.",
      "kid": "Feel cup A with your finger. Dry? Then water. B and C get water every day.",
      "wait": "Every day for 12 days"
@@ -1500,7 +1517,7 @@
      "do": "On days 4 and 8, count the seedlings in each cup. Write how many are healthy and green, and how many are yellow or have fallen over.",
      "say": "Count carefully. Which cup has the most healthy seedlings? Is the soil in cup C different?",
      "kid": "Count the green seedlings in each cup. Are any yellow or fallen?",
-     "parent": "Methi usually comes up in 2 to 4 days. By day 8, cup C often has soggy dark soil with water standing on top, and some seedlings turn yellow or fall over. Cups A and B usually look alike, because the holes let extra water out. If all three look alike, write that down honestly: soil that drains well can hide the harm, and that is a result too."
+     "parent": "Methi usually comes up in 2 to 4 days. By day 8, cup C often has soggy dark soil with water standing on top, and some seedlings turn yellow or fall over. Cups A and B usually look alike, because the holes let extra water out. Cup C may look fine for the first few days; the harm builds up as water collects, often by days 6 to 10. In a very hot, dry room the soil may dry out so fast that C stays healthy too. If all three look alike, write that down honestly: soil that drains well can hide the harm, and that is a result too."
     },
     {
      "id": "s5",
@@ -1526,7 +1543,7 @@
      "do": "Help your child draw a bar chart of healthy seedlings on day 12, one bar for each cup. Then ask for what I think, what I saw and why.",
      "say": "What do you think now? What did you see? Why do you think it happened?",
      "kid": "Draw a bar for each cup. Then say what you think, what you saw and why.",
-     "parent": "A strong answer: drainage matters more than the amount of water. Cup C had 3 healthy seedlings and brown roots, while A and B had 9 and 8. Roots need air as well as water."
+     "parent": "A strong answer: drainage matters more than the amount of water. For example (invented numbers, only to show the shape of an answer), cup C might have 3 healthy seedlings and brown roots, while A and B have 9 and 8. Your family's real numbers count. Roots need air as well as water."
     }
    ]
   }
@@ -1549,9 +1566,13 @@
     {
      "item": "a phone, to call a grandparent or an older relative",
      "qty": 1
+    },
+    {
+     "item": "if no elder is near, a neighbour, a shopkeeper who sells herbs, or a parent's own memories will do",
+     "qty": 1
     }
    ],
-   "safety": "Write down the remedies, but never make or take one on your own. Some plant remedies are not safe for children.",
+   "safety": "Write down the remedies, but never make or take one on your own. Some plant remedies are not safe for children, and some clash with medicines. Never give a child a remedy because it is in your table: ask a doctor.",
    "schedule": [
     {
      "day": 1,
@@ -1590,7 +1611,7 @@
      "do": "Call or sit with a grandparent, an older aunt or a neighbour. Your child asks the questions and writes the answers. Aim for at least five remedies.",
      "say": "Ask them: which plants do you use when someone is unwell? Which part of the plant? Who taught you? How do you know it helps?",
      "kid": "Ask your elder: which plants help when we are ill? Which part? Who taught you?",
-     "parent": "Common answers include tulsi leaves in kadha, ajwain seeds for a stomach ache, ginger for a cough, haldi in milk, neem leaves in bath water, and curry leaves or methi in food."
+     "parent": "With 2 to 4 children, one asks, one writes, one marks how sure; swap for the next remedy. Each child can also interview a different elder and compare tables later. Common answers include tulsi leaves in kadha, ajwain seeds for a stomach ache, ginger for a cough, haldi in milk, neem leaves in bath water, and curry leaves or methi in food."
     },
     {
      "id": "s3",
@@ -1671,13 +1692,13 @@
      "say": "Some plants grew in India before any people brought plants from far away. Others came on ships, with traders, rulers and gardeners. Which do you think are the most common near us?",
      "kid": "Read the list. Some plants are Indian. Some came from far away. Guess which kind is most common here.",
      "context": "This is the first step of Indian or Visitor?, a hunt for native and visiting plants near your home.",
-     "parent": "Coconut is hard to place. Coconuts float, and people carried them too, so scientists still argue where coconuts first grew. Count coconut as 'still argued'."
+     "parent": "Coconut is hard to place. Coconuts float, and people carried them too, so scientists still argue where coconuts first grew. Tamarind's origin in Africa is the usual view, though some argue. Count coconut as 'still argued'."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "From your windows, balcony or a short walk, find as many different trees and big plants as you can. Write each one down. Mark it Indian or Visitor using the list. Look up any you don't know.",
-     "say": "What is that tree? Is it on our list? Indian or visitor?",
+     "do": "From your windows, balcony or a short walk, find as many different trees and big plants as you can. Write each one down. Mark it Indian or Visitor using the list. Look up any you don't know. No trees in sight? Look in your kitchen. Potato, tomato, chilli, maize, groundnut and guava came from the Americas. They count as visitors.",
+     "say": "What is that tree? Is it on our list? Indian or visitor? With 2 to 4 children, split the street or balcony sides, each with a tally. Then add the tallies.",
      "kid": "Find trees and plants. Write each name. Mark it Indian or Visitor.",
      "adult": true
     },
@@ -1748,7 +1769,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the four plant cards aloud. Neelakurinji: a shrub on the high hills of the Nilgiris, Munnar and Kodaikanal, who blooms blue once in 12 years. Red sanders: a tree with deep red wood, wild only in the southern Eastern Ghats near Tirupati, endangered by smuggling. Nepenthes khasiana: a pitcher plant who catches insects, wild only in Meghalaya. Talipot palm: grows on the west coast and in Sri Lanka, flowers once after 30 to 80 years, then dies.",
-     "say": "Each of these plants grows wild in only one part of the world. Which one would you like to make a passport for?",
+     "say": "Each of these plants grows wild in only one part of the world. Which one would you like to make a passport for? With 2 to 4 children, each picks a different plant. Swap passports at the end and check them.",
      "kid": "Listen to the four plants. Choose one for your passport.",
      "context": "This is the first step of A Passport for an Indian Plant."
     },
@@ -1756,7 +1777,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Help your child colour the plant's home on the map of India. Mark the state names.",
-     "say": "Where does your plant live? Why might a plant live only on high hills, or only in one hill range?",
+     "say": "Where does your plant live? Why might a plant live only on high hills, or only in one hill range? (Neelakurinji last bloomed in 2018 and blooms every 12 years, so when is the next bloom, and how old will you be?)",
      "kid": "Colour where your plant lives on the map. Write the state."
     },
     {
@@ -1798,7 +1819,7 @@
      "qty": 1
     },
     {
-     "item": "a kitchen scale, if you have one",
+     "item": "optional: a kitchen or bathroom scale (on a bathroom scale, weigh yourself with and without the pot, and subtract). If you have none, lift the pot and say heavy, medium or light",
      "qty": 1
     },
     {
@@ -1863,7 +1884,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "On day 1, water the pot slowly until a little water comes out of the hole. Then weigh the pot, or let your child lift it and feel how heavy it is.",
+     "do": "On day 1, water the pot slowly until a little water comes out of the hole. Wait 30 minutes for the extra water to stop dripping. Guess how many days until the soil is dry 2 cm down. Then weigh the pot, or let your child lift it and feel how heavy it is.",
      "say": "This is how heavy the pot is when the soil is full of water. Every day we will check how much lighter it gets.",
      "kid": "Water your pot until a little comes out underneath. Weigh it, or lift it.",
      "context": "This is the first day of the Finger Test, a week of learning when a pot plant needs water."
@@ -1875,7 +1896,7 @@
      "say": "How does the soil feel today? Is the pot lighter than yesterday? Does our plant need water today?",
      "kid": "Feel the soil. Wet, damp or dry? Weigh the pot. Only water if it is dry.",
      "wait": "Every day for 7 days",
-     "parent": "Water leaves the pot through the leaves and from the soil surface. A pot often gets lighter by tens of grams a day in summer. In the monsoon, it may stay damp for days."
+     "parent": "Water leaves the pot through the leaves and from the soil surface. A pot may get lighter by tens of grams a day in summer (about, and it depends on the pot and plant). In the monsoon, it may stay damp for days; if the plant never needs water in 7 days, that is a result. 2 to 4 children can each choose a pot, or one sunny and one shady pot, or share one pot: one feels, one weighs, one writes, swapping each day."
     },
     {
      "id": "s3",
@@ -1932,7 +1953,7 @@
      "what": "Take out the dry sprig. Tape it to the sheet. Write the label like a botanist."
     }
    ],
-   "record": "A herbarium sheet: a pressed sprig with a label giving the names, the date, the place, the collector, the part used and how sure we are about the use.",
+   "record": "A herbarium sheet: a pressed sprig with a label giving the names, the date, the place, the collector, the part used and how sure we are about the use. Also the leaf length before and after pressing.",
    "context": "In this activity, you press a medicine plant and label them the way botanists do, so the sheet can be kept for years.",
    "setup": [
     {
@@ -1952,17 +1973,17 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Choose a sprig with a few leaves. Lay it flat inside folded newspaper, spreading the leaves so they do not overlap. Put several heavy books on top. Leave for a week in a dry place.",
+     "do": "Choose a sprig with a few leaves. Lay it flat inside folded newspaper, spreading the leaves so they do not overlap. Put several heavy books on top. Trace one fresh leaf on paper and measure its length with a ruler. Leave the sprig for a week in a dry place.",
      "say": "Botanists have pressed plants like this for hundreds of years. A pressed sheet can last for more than a century. Why might that be useful?",
      "kid": "Lay your sprig flat in newspaper. Spread the leaves. Put heavy books on top.",
      "context": "This is the first step of Press a Medicine Plant. You make a botanist's sheet.",
      "wait": "Leave under the books for 7 days",
-     "parent": "In humid weather, change the newspaper after 2 days so the sprig does not go mouldy. The sprig is ready when it feels stiff and papery. If it is still soft after a week, press it a few days more."
+     "parent": "In humid weather, change the newspaper after 2 days so the sprig does not go mouldy. With 2 to 4 children, each presses a different plant. Mint can turn dark in humid weather. The sprig is ready when it feels stiff and papery. If it is still soft after a week, press it a few days more."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "After a week, take out the dry sprig. Tape it gently to the thick paper. Write the label in the bottom right corner. Give the names in English and two Indian languages, and the scientific name. Then add the date, place, collector, part used, use and how sure we are.",
+     "do": "After a week, take out the dry sprig and measure the same leaf again. How much did it shrink? Tape it gently to the thick paper. Write the label in the bottom right corner. Give the names in English and two Indian languages, and the scientific name. Then add the date, place, collector, part used, use and how sure we are.",
      "say": "Every label says who collected the plant, where and when. Then anyone in the future can trust the sheet.",
      "kid": "Tape your sprig to the paper. Write the label in the corner.",
      "parent": "Scientific names: tulsi is Ocimum tenuiflorum, curry leaf is Murraya koenigii, mint is Mentha. The botanist E. K. Janaki Ammal, from Thalassery in Kerala, spent her last years studying medicine plants near Chennai."
@@ -2019,9 +2040,14 @@
     {
      "item": "a notebook for the herb diary",
      "qty": 1
+    },
+    {
+     "item": "optional: a hand lens, to look at the root bumps",
+     "qty": 1,
+     "buy": "b-lens"
     }
    ],
-   "safety": "Wash your hands after handling soil.",
+   "safety": "Wash your hands after handling soil. Wash the leaves well before you eat them, since market herbs may carry sprays or dirt.",
    "schedule": [
     {
      "day": 1,
@@ -2075,7 +2101,7 @@
      "id": "s1",
      "mins": 15,
      "do": "1. Pick 5 healthy mint stems. 2. Strip the leaves from the bottom 5 cm of each. 3. Stand them in a glass of water with the bare part under water. 4. Do the same with lemongrass if you have it.",
-     "say": "We took the bottom leaves off so the nodes are under water. Where do you think the roots will grow?",
+     "say": "We took the bottom leaves off so the nodes are under water. Where do you think the roots will grow? Guess how many days until you see roots. With 2 to 4 children, each labels their own stems with a tape tag and measures only those. All the stems then go in one pot.",
      "kid": "Take the bottom leaves off five mint stems. Stand them in water.",
      "context": "This is the first day of A Kitchen Herb Pot, a 4-week project growing herbs from market stems."
     },
@@ -2086,12 +2112,12 @@
      "say": "Look where the roots are coming from. Are they at the nodes?",
      "kid": "Count the roots. Measure the longest one. Are they at the nodes?",
      "wait": "Leave in water for 7 days",
-     "parent": "Mint usually grows white roots at the nodes within a week. Lemongrass is slower, often 2 to 3 weeks."
+     "parent": "Mint usually grows white roots at the nodes within about a week, sometimes 10 days. Throw away any stem that turns slimy; starting with 5 means some will succeed. Lemongrass is slower, often 2 to 3 weeks."
     },
     {
      "id": "s3",
      "mins": 20,
-     "do": "On day 10, plant the rooted mint stems in the pot, about 5 cm deep. Water slowly until a little comes out of the hole. Put the pot where they get a few hours of sun. Keep any lemongrass in water until its roots are about 2 cm long, then plant the lemongrass too.",
+     "do": "On day 10, plant the rooted mint stems in the pot, about 5 cm deep. Water slowly until a little comes out of the hole. Put the pot where they get morning sun and shade from the harsh afternoon sun. Keep any lemongrass in water until its roots are about 2 cm long, then plant the lemongrass too.",
      "say": "Now we care for them. Remember the finger test. When do we water?",
      "kid": "Plant your rooted stems. Water until a little comes out underneath.",
      "adult": true
@@ -3358,11 +3384,12 @@
    "id": "b-lens",
    "item": "Hand lens (magnifying glass)",
    "kind": "tool",
-   "why": "To look closely at nodes, new roots and the first threads of mould.",
+   "why": "Optional. To look closely at nodes, new roots and the first threads of mould. A simple lens costs about Rs 50 to 100 at a stationery shop.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "e1",
-    "e2"
+    "e2",
+    "p1"
    ]
   }
  ],
@@ -3487,5 +3514,5 @@
   "wrong_idea": "That village plant remedies from India were folklore not worth testing. Careful studies by Indian doctors and chemists showed that sarpagandha really lowers blood pressure.",
   "art": "A sarpagandha plant with small white-pink flowers and a twisted root, next to an old journal page and a blood pressure cuff."
  },
- "playtest": "Walked through every part as a parent and child in a city flat would. Plant Shields: the card backs were printed with the answer and the fronts were numbered in pairs, so the game could be won without remembering anything; fronts now carry no numbers, the shield card names its plant, and the backs say only Plant or Shield. Fair Test Judge: a made-up child with the same name as the story's brother was renamed, and the 2-player rule (the reader does not judge their own card, and the job swaps each card) is written out. Spice Guard: step minutes, the schedule and the total now agree, and a name-free kid question was fixed. Node Test: the node was about 4 cm above the water in pieces A and B, so no roots could grow where the node was dry; pieces are now about 3 cm with the node in the water. Too Much Water?: 30 ml a day would have overflowed a paper cup in three days, so it is now 20 ml in plastic cups on saucers, with what to do if cup C fills, and the schedule lists every day. Herb pot: lemongrass waits for roots before planting. Pressing: how to stop mould in humid weather. Worksheets and quiz: removed the repeats (rice flour, no-node, soggy tulsi) and replaced them with new questions (repeating a test, clay against plastic pot, sugarcane, invasive plants); names in questions are now introduced; one result was made a plain 'suppose'. Two jokes were not funny and were replaced. The three videos have no checked address yet; I could not open them. Facts were read against the sources list."
+ "playtest": "Walked through every part as a parent and child in a city flat would. Plant Shields: the card backs were printed with the answer and the fronts were numbered in pairs, so the game could be won without remembering anything; fronts now carry no numbers, the shield card names its plant, and the backs say only Plant or Shield. Fair Test Judge: a made-up child with the same name as the story's brother was renamed, and the 2-player rule (the reader does not judge their own card, and the job swaps each card) is written out. Spice Guard: step minutes, the schedule and the total now agree, and a name-free kid question was fixed. Node Test: the node was about 4 cm above the water in pieces A and B, so no roots could grow where the node was dry; pieces are now about 3 cm with the node in the water. Too Much Water?: a paper cup overflowed in three days, so it is now plastic cups on saucers with 30 ml (2 tablespoons) a day, with what to do if cup C fills, and the schedule lists every day. Herb pot: lemongrass waits for roots before planting. Pressing: how to stop mould in humid weather. Worksheets and quiz: removed the repeats (rice flour, no-node, soggy tulsi) and replaced them with new questions (repeating a test, clay against plastic pot, sugarcane, invasive plants); names in questions are now introduced; one result was made a plain 'suppose'. Two jokes were not funny and were replaced. The three videos have no checked address yet; I could not open them. Facts were read against the sources list."
 }

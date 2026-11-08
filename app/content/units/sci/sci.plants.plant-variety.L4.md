@@ -283,7 +283,8 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 
 ## Games
 ### g1 · Plant Shields: a pairs game (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and lay them face down in rows. The backs say Plant or Shield.; On your turn, turn over two cards and read them aloud.; If one is a plant card and the other is the shield card that names that plant, keep the pair and have another turn.; If they do not match, turn them face down again in the same places. The next player has a turn. Try to remember where each card is.; When all the cards are taken, the player with the most pairs wins. If two players tie, they share the win. With 2 players, the same rules work.
+- **safety:** Scissors are for cutting cards only. A grown-up cuts for younger children. Never taste the plants or spices shown on the cards, apart from food you already eat at home.
+- **rules:** Cut out the 24 cards. Shuffle them and lay them face down in rows. The backs say Plant or Shield.; On your turn, turn over two cards and read them aloud.; If one is a plant card and the other is the shield card that names that plant, keep the pair and have another turn.; If they do not match, turn them face down again in the same places. The next player has a turn. Try to remember where each card is.; When all the cards are taken, the player with the most pairs wins. If two players tie, they share the win. With 2 players, the same rules work.; Extra challenge: to keep a pair, say one use of that plant's shield from memory, without reading the card.
 - **Printable cards: 24 cards to cut out: 12 plant cards and 12 shield cards (each shield card names its plant):** Plant: Neem leaves and seeds (back: Plant) [picture]; Shield of neem: A bitter chemical, azadirachtin. Insects who eat it stop feeding, and young insects cannot grow up. People: dry leaves in rice and dal tins. (back: Shield); Plant: Clove, a dried flower bud (back: Plant); Shield of clove: Eugenol, with a strong smell, stops many moulds and germs. People: clove oil for toothache, and some dental fillings. (back: Shield); Plant: Turmeric, an underground stem (back: Plant) [picture]; Shield of turmeric: Yellow curcumin and other chemicals that slow some moulds and germs in the laboratory. People: colour for food and cloth. (back: Shield); Plant: Chilli fruit (back: Plant) [picture]; Shield of chilli: Capsaicin burns the mouths of mammals who crush the seeds. Birds feel no burn and spread the seeds. People: spice and some pain creams. (back: Shield); Plant: Tulsi leaves (back: Plant) [picture]; Shield of tulsi: Eugenol and other strong-smelling oils that many leaf-eaters avoid. People: kadha and tea. (back: Shield); Plant: Sarpagandha root (back: Plant) [picture]; Shield of sarpagandha: Bitter chemicals called alkaloids, which many animals avoid. People: reserpine, an early medicine for high blood pressure. (back: Shield); Plant: Garlic bulb (back: Plant); Shield of garlic: When crushed, makes allicin in seconds, which harms many germs. People: food, and studied as a germ-fighter. (back: Shield); Plant: Mustard seeds (back: Plant) [picture]; Shield of mustard: When crushed and wet, make a hot oil that stings the mouth and nose. People: mustard oil and kasundi. (back: Shield); Plant: Onion (back: Plant); Shield of onion: When cut, makes a chemical that stings the eyes of animals who dig them up. People: food. (back: Shield); Plant: Rubber tree (back: Plant) [picture]; Shield of rubber tree: Milky latex that flows out of a cut and turns sticky, gluing insects' mouths. People: natural rubber. (back: Shield); Plant: Bael tree (back: Plant) [picture]; Shield of bael: Long sharp thorns on the branches keep goats away. People: bael sharbat from the fruit. (back: Shield); Plant: Touch-me-not (back: Plant) [picture]; Shield of touch-me-not: Folds their leaves within seconds of a touch, which may startle leaf-eaters. People: watched by scientists studying how plants move. (back: Shield)
 - **Printable score sheet: Plant Shields score sheet:** Player name; Pairs won; One shield I did not know before
 - **s1 (3 min)**  
@@ -301,6 +302,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Child mode:* Sort the pairs. Chemical shields here. Other shields there.
   - Check: Which plant in the Plant Shields game protects themselves without any chemical? → **The bael tree, with thorns**
 ### g2 · Fair Test Judge (20 min)
+- **safety:** Scissors are for cutting cards only. A grown-up cuts for younger children.
 - **rules:** Shuffle the 16 test cards and put them face down. Each player takes a thumbs-up sign and a thumbs-down sign.; Take turns to be the reader. The reader reads the front of the top card aloud.; Everyone else holds up a sign at the same time: fair or not fair.; The reader flips the card and reads the back. Every other player who judged right scores 1 point. The reader does not judge their own card. With 2 players, you swap the reader's job after every card.; If the test was not fair, any player except the reader can say how to fix it. The best fix, chosen by the reader, scores 1 more point.; After all 16 cards, the player with the most points wins. If two players tie, they share the win.
 - **Printable cards: 16 test cards to cut out (front: the test, back: fair or not, and why):** Divya tests neem leaves in rice. She puts leaves in a full tin of new rice, and no leaves in a half-empty tin of old rice. (back: Not fair. The rice is different and the amount is different. Only the neem should change.); Kavya tests clove on bread. She puts clove on one slice and nothing on another slice cut from the same loaf. She closes both in the same kind of bag in the same cupboard. (back: Fair. Only the clove is different.); Arjun waters one tulsi pot every day and another once a week. The first is on a sunny balcony. The second is in a dark room. (back: Not fair. The light is different too. Keep both pots in the same place.); Meera tests whether mint roots faster in tap water or rainwater. She uses two stems of the same length from the same bunch, by the same window. (back: Fair. Only the water is different.); Lakshmi tests haldi on one potato square in a closed box. She has no second square to compare. (back: Not fair. There is no control. She cannot tell what would have happened without haldi.); Fathima tests three methi cups. She counts the seedlings in one cup on day 4, and the seedlings in the others on day 10. (back: Not fair. She must count all the cups on the same days.); Bina tests a kadha on herself. She drinks kadha for her cold and feels better after 6 days. (back: Not a fair test. Colds often get better in about a week anyway. She needs a control group.); Nandini tests cuttings with and without a node. Each has 4 cm of stem, in the same glass, with the same water, by the same window. (back: Fair. Only the node is different.); Rohan tests which soil holds the most water. He pours 100 ml on one cup of soil and 200 ml on another. (back: Not fair. Use the same amount of water on each soil.); Priya tests clove powder and rice flour on two potato squares. She uses a quarter teaspoon of each, on squares of the same size. (back: Fair. The amounts and the squares are the same.); Sowmya tests haldi on one potato square in a closed box and a plain square left open on a plate. (back: Not fair. The open square dries out. Both squares need the same kind of box.); Hetal tests whether neem spray keeps aphids off a rose. She sprays one rose and leaves another rose of the same kind, side by side, unsprayed. (back: Fair. Only the spray is different.); Lalremruati counts bitten leaves on a neem and a hibiscus. She looks at 20 leaves on the neem and 5 on the hibiscus. (back: Not fair. She should look at the same number of leaves on each plant.); Ishita tests a remedy on 40 people with colds. 20 get the remedy and 20 get a drink that looks the same. Nobody knows which they got. (back: Fair. This is a blind trial with a control group.); Anjali tests mould on chapati with and without salt. The salted chapati was made yesterday and the plain one today. (back: Not fair. One chapati is older. Use chapatis made at the same time.); Tanmay tests two pots of methi, one with holes and one without. He gives each 20 ml every day, in the same window. (back: Fair. Only the holes are different.)
 - **Printable tokens: Thumbs-up and thumbs-down signs to cut out, one pair for each player:** Thumbs up: fair; Thumbs down: not fair; Thumbs up: fair; Thumbs down: not fair; Thumbs up: fair; Thumbs down: not fair; Thumbs up: fair; Thumbs down: not fair; Thumbs up: fair; Thumbs down: not fair
@@ -323,12 +325,12 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 ## Experiments
 ### e1 · Spice Guard: do haldi and clove stop mould on potato? (54 min, 7 days)
 - **question:** Do haldi and clove powder stop mould growing on boiled potato? If so, is the spice the cause, or just the powder?
-- **predict:** Before you start, guess. Which square will grow the most mould: plain, rice flour, haldi or clove? Which will grow the least? Why do you think so?
-- **fair test:** Only the powder on top changes. Every square is cut from the same potato, the same size, and left open to the air for the same time. Each box is the same kind, closed the same way and kept in the same cupboard. The rice flour square is there to check that a plain powder alone does not stop mould. The plain square is the control.
-- **safety:** A grown-up boils and cuts the potato. Once you close the boxes, do not open them again. Mould spores can make people sneeze or wheeze, especially people with asthma. Never smell or eat the potato. At the end, a grown-up puts the closed boxes or bags straight in the bin, or empties boxes into the bin and washes them in hot soapy water.
+- **predict:** Before you start, guess. Which square will grow the most mould: plain, rice flour, haldi or clove? Which will grow the least? Why do you think so? If you are 2 to 4 children, each writes a guess before anyone speaks.
+- **fair test:** Only the powder on top changes. Every square is cut from the same potato, the same size, and left open to the air for the same time. Each box has the same small piece of damp tissue, is the same kind, closed the same way and kept in the same cupboard. The rice flour square is there to check that a plain powder alone does not stop mould. The plain square is the control.
+- **safety:** A grown-up boils and cuts the potato. Once you close the boxes, do not open them again. Mould spores can make people sneeze or wheeze, especially people with asthma. Never smell or eat the potato. Keep the boxes on a shelf away from food and away from small children and pets. A child with asthma or a mould allergy should not do the daily counts; another child or a grown-up does them. Keep the grown-up knife away from children. At the end, a grown-up puts the closed boxes or bags straight in the bin, or empties boxes into the bin and washes them in hot soapy water.
 - **record:** Each day, write how many of the 16 small squares on each potato have mould. On day 7, draw a line graph with one line for each potato.
 - **results table:** Square | What is on top | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7
-- **schedule:** day 1: Guess. Cut four squares. Leave them open to the air for 30 minutes (do something else meanwhile). Add the powders, close the boxes and put them in a cupboard. (23 min); day 2: Count the squares with mould on each potato. Do not open the boxes. (3 min); day 3: Count again. (3 min); day 4: Count again. (3 min); day 5: Count again. (3 min); day 6: Count again. (3 min); day 7: Last count. Draw a line graph. Say what you think, what you saw and why. A grown-up throws the boxes away unopened. (16 min)
+- **schedule:** day 1: Guess. Cut four squares. Leave them open to the air for 30 minutes (do something else meanwhile). Add the powders, close the boxes and put them in a warm cupboard. (23 min); day 2: Count the squares with mould on each potato. Do not open the boxes. (3 min); day 3: Count again. (3 min); day 4: Count again. (3 min); day 5: Count again. (3 min); day 6: Count again. (3 min); day 7: Last count. Draw a line graph. Say what you think, what you saw and why. A grown-up throws the boxes away unopened. If a box has no mould at all by day 7 (cool or dry weather), leave it until day 10 before you stop. (16 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the four boxes and the three powders. Ask for a guess and a reason. Write the guesses at the top of the table.  
   *Parent says:* We are going to test four potato squares. One gets nothing. One gets rice flour. One gets haldi. One gets clove powder. Which will grow the most mould? Which will grow the least? Why do you think so?  
@@ -340,7 +342,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Child mode:* A grown-up cuts four potato squares. Leave them open on a plate for 30 minutes.
   - Note: Use the 30 minutes for the explanation cards on why plants make strong chemicals. Do not let the squares dry out in hot sun. The kitchen counter is fine.
 - **s3 (6 min)**  
-  *Parent does:* 1. Write A, B, C and D on the boxes. 2. Put one square in each box. 3. Spread a quarter teaspoon of powder evenly over B, C and D with the back of a clean spoon. A gets nothing.  
+  *Parent does:* 1. Write A, B, C and D on the boxes. (With 2 to 4 children, one writes the labels, one spreads the powders, one counts and one records. Swap jobs on day 4. For more data, boil a second potato so each pair makes its own set of four.) 2. Put one square in each box. 3. Spread a quarter teaspoon of powder evenly over B, C and D with the back of a clean spoon. A gets nothing. Put one damp tissue piece in each box beside the potato, not touching the powder.  
   *Parent says:* A gets nothing. That is our control. B gets rice flour. C gets haldi. D gets clove. Why do you think we need the rice flour square?  
   *Child mode:* Put one square in each box. Spread rice flour on B, haldi on C and clove on D. A gets nothing.
   - Check: Why does the Spice Guard test have a square with plain rice flour on top? → **To check whether any powder at all stops mould, or only the spice**
@@ -348,12 +350,12 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* 1. Close each box tightly. 2. Draw a 4 by 4 grid of squares on each lid with the marker, over the potato. 3. Put all four boxes together in a cupboard away from the stove.  
   *Parent says:* The grid gives us 16 small squares on each potato. Each day we count how many have mould. Counting turns what we see into numbers we can compare.  
   *Child mode:* Close the boxes. Draw a grid of 16 squares on each lid. Put them in a cupboard together.
-  - Note: Mould grows faster in warm, damp weather. A cupboard that stays warm, like one near the fridge, is good. Not next to the stove.
+  - Note: Mould grows faster in warm, damp weather. A cupboard that stays warm, like one near the fridge, is good. Not next to the stove. Mould needs damp and warmth. In a cool or dry house it can take 7 to 10 days to show, so the damp tissue matters. All four boxes must sit in the same place.
 - **s5 (3 min)**  
   *Parent does:* Each day from day 2 to day 7, take out the boxes without opening them. Count the grid squares on each lid that have mould under them. Write the number in the table.  
   *Parent says:* Look closely through the lid. Mould starts as white fuzz, then may turn green, grey or black. Slimy wet patches count too. How many squares have some?  
   *Child mode:* Look through each lid. Count the squares with fuzz or slime. Write the number. Do not open the box.
-  - Note: In warm weather, mould often shows on the plain and rice flour squares by day 3 to 5. The clove square usually stays clean or nearly clean all week. Haldi often slows the mould but may not stop them. In cold weather, keep counting up to day 10.
+  - Note: In warm, damp weather, mould often shows on the plain and rice flour squares in about 3 to 6 days. Clove often (not always) holds mould back for most of the week. Haldi may slow it a little or not at all. Rice flour can even grow mould faster, because mould feeds on it. If nothing grows on any square, or all four grow the same, write that down: it is a real result, not a mistake. In cold weather, keep counting up to day 10. A white or green fuzz is mould; a wet shiny film may be bacteria, and counts too.
   - Wait: Count every day for 6 days
 - **s6 (8 min)**  
   *Parent does:* Help your child draw a line graph. The bottom line shows the days, from 2 to 7. The side shows squares with mould, from 0 to 16. Draw one line for each potato, in four colours.  
@@ -364,19 +366,19 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* Ask your child for three things: what I think, what I saw, and why I think it happened. Then read the explanation card 'A plant's shield, borrowed by us'.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A strong answer sounds like this. What I think: clove stops mould, and haldi slows the mould a little. What I saw: by day 6 the plain square had 12 mouldy squares, rice flour had 13, haldi had 5 and clove had 0. Why: cloves have a strong chemical that protects the bud from moulds. Accept your own family's real numbers, even if they differ.
+  - Note: A strong answer sounds like this. What I think: clove stops mould, and haldi slows the mould a little. What I saw (an example only, made up to show the shape of an answer): by day 6 the plain square had about 12 mouldy squares, rice flour 13, haldi 5 and clove 0. Why: cloves have a strong chemical (eugenol) that protects the bud from moulds. Remember that haldi is only weakly protective on potato, even though it is a good colouring and a traditional preservative. Accept your own family's real numbers, even if they differ.
 - **s8 (2 min) · grown-up needed**  
   *Parent does:* A grown-up throws the closed boxes or bags straight into the bin. If you want to keep the boxes, empty them into the bin outdoors and wash them in hot soapy water.  
   *Parent says:* We never open the boxes near our faces. The mould is still alive and making spores.  
   *Child mode:* A grown-up throws the boxes away. Wash your hands.
 ### e2 · The Node Test: which money plant cuttings grow roots? (36 min, 14 days)
 - **question:** Does a money plant cutting need a node, or a leaf, to grow new roots?
-- **predict:** You will put three pieces of money plant stem in water: one with a node and a leaf, one with a node but no leaf, and one with no node at all. Which will grow roots first? Will any grow no roots? Why do you think so?
-- **fair test:** Every piece is about 3 cm long, and the bottom 2 cm of each stands in water, so the node of A and B is under water. All three stand in the same kind of glass, with the same depth of water, by the same window. Only the node and the leaf change. Change the water in all three glasses on the same days.
-- **safety:** A grown-up does the cutting. Money plant sap can irritate skin and is harmful if eaten, so wash your hands after handling the cuttings, and keep cuttings away from small children and pets.
+- **predict:** You will put three pieces of money plant stem in water: one with a node and a leaf, one with a node but no leaf, and one with no node at all. Which will grow roots first? Will any grow no roots? Why do you think so? With 2 to 4 children, each child makes and guesses for a set of A, B and C. Compare the sets at the end: more cuttings make a more trustworthy result.
+- **fair test:** Every piece is the same length (3 cm if the stem allows), and the bottom 2 cm of each stands in water, so the node of A and B is under water. All three stand in the same kind of glass, with the same depth of water, by the same window. Only the node and the leaf change. Change the water in all three glasses on the same days.
+- **safety:** A grown-up does the cutting. Money plant sap can irritate skin and is harmful if eaten, so wash your hands after handling the cuttings, and keep cuttings away from small children and pets. Do not rub your eyes while handling the cuttings. Scissors are used by a grown-up only.
 - **record:** Write the number of roots and the length of the longest root for each cutting on days 4, 7, 10 and 14. On day 14, draw a bar chart of the longest roots.
 - **results table:** Cutting | Day 4: roots and longest root (mm) | Day 7 | Day 10 | Day 14 | What else I saw
-- **schedule:** day 1: Find the nodes. Cut three pieces. Put them in water by a bright window. Guess. (16 min); day 4: Count the roots on each cutting and measure the longest one in millimetres. Change the water. (3 min); day 7: Count and measure again. Change the water. (3 min); day 10: Count and measure again. Change the water. (3 min); day 14: Last count and measurement. Draw a bar chart of the longest root on each cutting. Plant the rooted cutting in soil. (11 min)
+- **schedule:** day 1: Find the nodes. Cut three pieces. Put them in water by a bright window. Guess. (16 min); day 4: Count the roots on each cutting and measure the longest one in millimetres. Change the water. (3 min); day 7: Count and measure again. Change the water. (3 min); day 10: Count and measure again. Change the water. (3 min); day 14: Last count and measurement. If cutting A still has no roots on day 14 (cool weather), keep counting to day 21. Draw a bar chart of the longest root on each cutting. Plant the rooted cutting in soil. (11 min)
 - **s1 (5 min)**  
   *Parent does:* Look at the money plant together. Find where each leaf joins the stem. Point out the small brown bump there.  
   *Parent says:* This place where the leaf joins the stem is called a node. The bump is a root waiting to grow. What do you think the bare stem between two nodes can do?  
@@ -385,7 +387,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* 1. Cut piece A. Cut about 1 cm below a node and about 2 cm above it. The piece is 3 cm long, with the node near the bottom and its leaf still on. 2. Cut piece B the same way from another node, then snip off the leaf. 3. Cut piece C: 3 cm of bare stem from between two nodes, with no node.  
   *Parent says:* Each piece has the same length of stem. Only the node and the leaf are different. Why does that make the test fair?  
   *Child mode:* A grown-up cuts three pieces. A has a node and a leaf. B has a node but no leaf. C has no node.
-  - Note: On small indoor plants the bare stem between nodes can be short. Cut C as long as you can, even 2 cm is fine, and cut A and B to the same length as C.
+  - Note: On small indoor plants the bare stem between nodes can be short. Cut C as long as you can, and cut A and B to the same length as C. If bare stems between nodes are shorter than 3 cm, make all three pieces that shorter length (not under 2 cm) and keep about 1.5 cm in water, still covering the node. One long vine gives enough pieces for several children. Ask a neighbour for trimmings.
 - **s3 (4 min)**  
   *Parent does:* 1. Label three glasses A, B and C. 2. Pour the same amount of water into each. 3. Stand each piece so the bottom 2 cm is under water. This puts the node of A and B under water. Rest the leaf of A on the rim of the glass, out of the water. 4. Put all three by a bright window, out of strong direct sun.  
   *Parent says:* Now we wait. Which one will grow roots first? Write your guess next to each glass.  
@@ -394,7 +396,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* On days 4, 7 and 10, count the roots on each cutting. Measure the longest root with the ruler in millimetres. Write the numbers. Pour out the old water and add fresh water.  
   *Parent says:* Hold the ruler next to the longest root. Read the millimetres. Is anything happening on C?  
   *Child mode:* Count the roots. Measure the longest one in millimetres. Write it down. Change the water.
-  - Note: Cutting A usually shows small white roots from the node in 7 to 14 days. B may root more slowly, or may sprout a new shoot. C has no node, so they usually grow no roots and may turn soft and brown.
+  - Note: Cutting A usually shows small white roots from the node in about 7 to 21 days; it is slower in cool weather. B often roots too, usually a little later than A, because it has no leaf to make food. Roots on A and B may start as small white bumps before day 7. C has no node, so it usually grows no roots and may turn soft and brown. That is the result we expect, not a failure. If every cutting grows roots, write that down and look closely at whether C really had no node.
   - Wait: Check on days 4, 7 and 10
 - **s5 (8 min)**  
   *Parent does:* On day 14, measure each cutting one last time. Help your child draw a bar chart, one bar for each cutting, showing the longest root in millimetres.  
@@ -408,22 +410,22 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   - Note: If the rooted cutting is not ready, leave them in water a few more days until the roots are about 3 cm long.
 ### e3 · Too Much Water? Methi seedlings in three cups (72 min, 12 days)
 - **question:** Do methi seedlings grow better with more water, or does a pot need drainage holes too?
-- **predict:** Cup A has holes and gets water only when the soil is dry. Cup B has holes and gets water every day. Cup C has no holes and gets water every day. Which cup will have the most healthy seedlings after 12 days? Why do you think so?
-- **fair test:** All three cups are the same size and hold the same amount of the same soil. Each gets 10 methi seeds from the same packet, sown 1 cm deep, and all stand on the same windowsill. Cups B and C get the same 20 ml of water a day. Only the holes and the watering change.
-- **safety:** A grown-up pokes the holes. Wash your hands after handling soil.
+- **predict:** Cup A has holes and gets water only when the soil is dry. Cup B has holes and gets water every day. Cup C has no holes and gets water every day. Which cup will have the most healthy seedlings after 12 days? Why do you think so? With 2 to 4 children, each child sows and tends their own set of three cups, or the children share one set and take turns each day; compare all the cups at the end.
+- **fair test:** All three cups are the same size and hold the same amount of the same soil. Each gets 10 methi seeds from the same packet, sown 1 cm deep, and all stand on the same windowsill. Cups B and C get exactly the same 30 ml (2 tablespoons) of water a day. Only the holes and the watering change.
+- **safety:** A grown-up pokes the holes. Wash your hands after handling soil. Do not eat the seedlings from the soggy cup. Keep the cups out of the hottest afternoon sun, which can bake the seeds inside plastic.
 - **record:** Fill in the table on days 4, 8 and 12. On day 12, draw a bar chart of healthy seedlings in each cup, and draw the roots you saw.
 - **results table:** Cup | Holes? | Watering | Day 4: seedlings up | Day 8: healthy green seedlings | Day 12: healthy green seedlings | Day 12: tallest (mm)
-- **schedule:** day 1: Poke holes in cups A and B. Fill all three with soil. Sow 10 methi seeds in each. Water all three with 20 ml. (15 min); day 2: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 3: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 4: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones. (7 min); day 5: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 6: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 7: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 8: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones. (7 min); day 9: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 10: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 11: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. (3 min); day 12: Tip out the saucers of A and B. Water B and C with 20 ml. Water A only if the top of the soil feels dry. Count healthy seedlings, measure the tallest, gently tip out each cup and compare the roots. Draw a bar chart. (19 min)
+- **schedule:** day 1: Poke holes in cups A and B. Fill all three with soil. Sow 10 methi seeds in each. Water all three with 30 ml (2 tablespoons). (15 min); day 2: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 3: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 4: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones. (7 min); day 5: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 6: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 7: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 8: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones. (7 min); day 9: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 10: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 11: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. (3 min); day 12: Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count healthy seedlings, measure the tallest, gently tip out each cup and compare the roots. Draw a bar chart. (19 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the three cups. Explain the plan for each. Ask for a guess and a reason.  
   *Parent says:* Cup A has holes and gets water only when the soil is dry. Cup B has holes and gets water every day. Cup C has no holes and gets water every day. Which cup will grow the best methi? Why do you think so?  
   *Child mode:* Look at the three cups. Which will grow the best methi? Why?
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* 1. Poke 4 holes in the bottoms of cups A and B. 2. Fill all three cups with soil to 1 cm below the top. 3. Press 10 methi seeds into each, 1 cm deep. 4. Pour 20 ml of water on each. 5. Stand each cup on its own saucer by a bright window.  
+  *Parent does:* 1. Poke 4 holes in the bottoms of cups A and B. 2. Fill all three cups with soil to 1 cm below the top. 3. Press 10 methi seeds into each, 1 cm deep. 4. Pour 30 ml (2 tablespoons) of water on each. 5. Stand each cup on its own saucer by a bright window.  
   *Parent says:* Every cup gets the same soil, the same seeds and the same window. What is different?  
   *Child mode:* Fill the cups with soil. Press in 10 seeds each. Water each one.
 - **s3 (3 min)**  
-  *Parent does:* Every day, tip out any water in the saucers of cups A and B. Give cups B and C 20 ml of water. Push a finger 1 cm into cup A. Water A only if it feels dry. If water spills over the rim of cup C, skip that day's water for C and write 'full'. Write down which cups you watered.  
+  *Parent does:* Every day, tip out any water in the saucers of cups A and B. Give cups B and C 30 ml (2 tablespoons) of water. Push a finger 1 cm into cup A. Water A only if it feels dry. If water spills over the rim of cup C, skip that day's water for C and write 'full'. Write down which cups you watered.  
   *Parent says:* Feel cup A first. Is it dry or damp? Only water when it is dry. Cups B and C get water every day.  
   *Child mode:* Feel cup A with your finger. Dry? Then water. B and C get water every day.
   - Wait: Every day for 12 days
@@ -431,7 +433,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* On days 4 and 8, count the seedlings in each cup. Write how many are healthy and green, and how many are yellow or have fallen over.  
   *Parent says:* Count carefully. Which cup has the most healthy seedlings? Is the soil in cup C different?  
   *Child mode:* Count the green seedlings in each cup. Are any yellow or fallen?
-  - Note: Methi usually comes up in 2 to 4 days. By day 8, cup C often has soggy dark soil with water standing on top, and some seedlings turn yellow or fall over. Cups A and B usually look alike, because the holes let extra water out. If all three look alike, write that down honestly: soil that drains well can hide the harm, and that is a result too.
+  - Note: Methi usually comes up in 2 to 4 days. By day 8, cup C often has soggy dark soil with water standing on top, and some seedlings turn yellow or fall over. Cups A and B usually look alike, because the holes let extra water out. Cup C may look fine for the first few days; the harm builds up as water collects, often by days 6 to 10. In a very hot, dry room the soil may dry out so fast that C stays healthy too. If all three look alike, write that down honestly: soil that drains well can hide the harm, and that is a result too.
 - **s5 (10 min)**  
   *Parent does:* On day 12, count healthy seedlings and measure the tallest in each cup. Then gently tip each cup out onto newspaper and look at the roots.  
   *Parent says:* Look at the roots. Are they white and spread out, or brown and short? Which soil smells sour?  
@@ -441,11 +443,11 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* Help your child draw a bar chart of healthy seedlings on day 12, one bar for each cup. Then ask for what I think, what I saw and why.  
   *Parent says:* What do you think now? What did you see? Why do you think it happened?  
   *Child mode:* Draw a bar for each cup. Then say what you think, what you saw and why.
-  - Note: A strong answer: drainage matters more than the amount of water. Cup C had 3 healthy seedlings and brown roots, while A and B had 9 and 8. Roots need air as well as water.
+  - Note: A strong answer: drainage matters more than the amount of water. For example (invented numbers, only to show the shape of an answer), cup C might have 3 healthy seedlings and brown roots, while A and B have 9 and 8. Your family's real numbers count. Roots need air as well as water.
 
 ## Activities
 ### a1 · Ask the Elders: our family's plant medicines, and how sure we are (30 min)
-- **safety:** Write down the remedies, but never make or take one on your own. Some plant remedies are not safe for children.
+- **safety:** Write down the remedies, but never make or take one on your own. Some plant remedies are not safe for children, and some clash with medicines. Never give a child a remedy because it is in your table: ask a doctor.
 - **record:** A table with at least 5 plant remedies: plant, part used, used for, who told us, how we know, and how sure we are.
 - **s1 (3 min)**  
   *Parent does:* Draw the table with six columns: Plant, Part used, Used for, Who told us, How we know, How sure are we.  
@@ -455,7 +457,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* Call or sit with a grandparent, an older aunt or a neighbour. Your child asks the questions and writes the answers. Aim for at least five remedies.  
   *Parent says:* Ask them: which plants do you use when someone is unwell? Which part of the plant? Who taught you? How do you know it helps?  
   *Child mode:* Ask your elder: which plants help when we are ill? Which part? Who taught you?
-  - Note: Common answers include tulsi leaves in kadha, ajwain seeds for a stomach ache, ginger for a cough, haldi in milk, neem leaves in bath water, and curry leaves or methi in food.
+  - Note: With 2 to 4 children, one asks, one writes, one marks how sure; swap for the next remedy. Each child can also interview a different elder and compare tables later. Common answers include tulsi leaves in kadha, ajwain seeds for a stomach ache, ginger for a cough, haldi in milk, neem leaves in bath water, and curry leaves or methi in food.
 - **s3 (8 min)**  
   *Parent does:* For each remedy, fill in 'How sure are we?' together. Green: tested in a fair trial in people and found to work. Yellow: not tested fairly yet, or not settled. Red: tested fairly and did not work. Look up one or two with your child.  
   *Parent says:* Our elders saw these help. But many illnesses get better on their own. So which of these have been tested fairly? Let's find out for one.  
@@ -473,10 +475,10 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Parent does:* Read the list together. Native to India: neem, peepal, banyan, mango, jamun, amaltas, palash, arjun, ashoka, black pepper and tulsi. Visitors: tamarind (Africa), gulmohar (Madagascar), eucalyptus (Australia), rain tree and subabul (Central and South America). More visitors: papaya and chilli (the Americas), bougainvillea (South America) and money plant (islands in the Pacific).  
   *Parent says:* Some plants grew in India before any people brought plants from far away. Others came on ships, with traders, rulers and gardeners. Which do you think are the most common near us?  
   *Child mode:* Read the list. Some plants are Indian. Some came from far away. Guess which kind is most common here.
-  - Note: Coconut is hard to place. Coconuts float, and people carried them too, so scientists still argue where coconuts first grew. Count coconut as 'still argued'.
+  - Note: Coconut is hard to place. Coconuts float, and people carried them too, so scientists still argue where coconuts first grew. Tamarind's origin in Africa is the usual view, though some argue. Count coconut as 'still argued'.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* From your windows, balcony or a short walk, find as many different trees and big plants as you can. Write each one down. Mark it Indian or Visitor using the list. Look up any you don't know.  
-  *Parent says:* What is that tree? Is it on our list? Indian or visitor?  
+  *Parent does:* From your windows, balcony or a short walk, find as many different trees and big plants as you can. Write each one down. Mark it Indian or Visitor using the list. Look up any you don't know. No trees in sight? Look in your kitchen. Potato, tomato, chilli, maize, groundnut and guava came from the Americas. They count as visitors.  
+  *Parent says:* What is that tree? Is it on our list? Indian or visitor? With 2 to 4 children, split the street or balcony sides, each with a tally. Then add the tallies.  
   *Child mode:* Find trees and plants. Write each name. Mark it Indian or Visitor.
 - **s3 (7 min)**  
   *Parent does:* Make a tally of Indian and visitor plants. Work out which is more.  
@@ -487,11 +489,11 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 - **record:** A plant passport with a drawing, names, home on the map, what makes the plant special, dangers and who protects them.
 - **s1 (5 min)**  
   *Parent does:* Read the four plant cards aloud. Neelakurinji: a shrub on the high hills of the Nilgiris, Munnar and Kodaikanal, who blooms blue once in 12 years. Red sanders: a tree with deep red wood, wild only in the southern Eastern Ghats near Tirupati, endangered by smuggling. Nepenthes khasiana: a pitcher plant who catches insects, wild only in Meghalaya. Talipot palm: grows on the west coast and in Sri Lanka, flowers once after 30 to 80 years, then dies.  
-  *Parent says:* Each of these plants grows wild in only one part of the world. Which one would you like to make a passport for?  
+  *Parent says:* Each of these plants grows wild in only one part of the world. Which one would you like to make a passport for? With 2 to 4 children, each picks a different plant. Swap passports at the end and check them.  
   *Child mode:* Listen to the four plants. Choose one for your passport.
 - **s2 (8 min)**  
   *Parent does:* Help your child colour the plant's home on the map of India. Mark the state names.  
-  *Parent says:* Where does your plant live? Why might a plant live only on high hills, or only in one hill range?  
+  *Parent says:* Where does your plant live? Why might a plant live only on high hills, or only in one hill range? (Neelakurinji last bloomed in 2018 and blooms every 12 years, so when is the next bloom, and how old will you be?)  
   *Child mode:* Colour where your plant lives on the map. Write the state.
 - **s3 (15 min)**  
   *Parent does:* Your child fills in the passport. Name in English and one Indian language. Scientific name. Home. What makes them special. Dangers they face. Who protects them. Then draw them on the cover.  
@@ -507,14 +509,14 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 - **record:** A 7-day table: day, soil feels wet, damp or dry, pot weight or heavy or light, watered or not.
 - **schedule:** day 1: Water the pot until water comes out of the hole. Weigh or lift it. Feel the soil. (5 min); day 2: Feel the soil 2 cm down. Weigh or lift the pot. Water only if it is dry. (5 min); day 3: Feel, weigh and decide again. (5 min); day 4: Feel, weigh and decide again. (5 min); day 5: Feel, weigh and decide again. (5 min); day 6: Feel, weigh and decide again. (5 min); day 7: Feel and weigh. Look at the week. How many days did the plant need water? (5 min)
 - **s1 (5 min)**  
-  *Parent does:* On day 1, water the pot slowly until a little water comes out of the hole. Then weigh the pot, or let your child lift it and feel how heavy it is.  
+  *Parent does:* On day 1, water the pot slowly until a little water comes out of the hole. Wait 30 minutes for the extra water to stop dripping. Guess how many days until the soil is dry 2 cm down. Then weigh the pot, or let your child lift it and feel how heavy it is.  
   *Parent says:* This is how heavy the pot is when the soil is full of water. Every day we will check how much lighter it gets.  
   *Child mode:* Water your pot until a little comes out underneath. Weigh it, or lift it.
 - **s2 (5 min)**  
   *Parent does:* Each day, your child pushes a finger 2 cm into the soil and says wet, damp or dry. Then weigh or lift the pot. Water only if the soil is dry 2 cm down.  
   *Parent says:* How does the soil feel today? Is the pot lighter than yesterday? Does our plant need water today?  
   *Child mode:* Feel the soil. Wet, damp or dry? Weigh the pot. Only water if it is dry.
-  - Note: Water leaves the pot through the leaves and from the soil surface. A pot often gets lighter by tens of grams a day in summer. In the monsoon, it may stay damp for days.
+  - Note: Water leaves the pot through the leaves and from the soil surface. A pot may get lighter by tens of grams a day in summer (about, and it depends on the pot and plant). In the monsoon, it may stay damp for days; if the plant never needs water in 7 days, that is a result. 2 to 4 children can each choose a pot, or one sunny and one shady pot, or share one pot: one feels, one weighs, one writes, swapping each day.
   - Wait: Every day for 7 days
 - **s3 (5 min)**  
   *Parent does:* On day 7, look at the table together. Count how many days the plant needed water.  
@@ -522,16 +524,16 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
   *Child mode:* How many days did your plant need water? Was it every day?
   - Check: A pot feels damp 2 cm down, and the pot still feels heavy. What should you do? → **Wait, and check again tomorrow**
 ### a5 · Press a Medicine Plant: make a botanist's sheet (25 min, 7 days)
-- **record:** A herbarium sheet: a pressed sprig with a label giving the names, the date, the place, the collector, the part used and how sure we are about the use.
+- **record:** A herbarium sheet: a pressed sprig with a label giving the names, the date, the place, the collector, the part used and how sure we are about the use. Also the leaf length before and after pressing.
 - **schedule:** day 1: Lay the sprig flat in newspaper. Press under heavy books. (10 min); day 7: Take out the dry sprig. Tape it to the sheet. Write the label like a botanist. (15 min)
 - **s1 (10 min)**  
-  *Parent does:* Choose a sprig with a few leaves. Lay it flat inside folded newspaper, spreading the leaves so they do not overlap. Put several heavy books on top. Leave for a week in a dry place.  
+  *Parent does:* Choose a sprig with a few leaves. Lay it flat inside folded newspaper, spreading the leaves so they do not overlap. Put several heavy books on top. Trace one fresh leaf on paper and measure its length with a ruler. Leave the sprig for a week in a dry place.  
   *Parent says:* Botanists have pressed plants like this for hundreds of years. A pressed sheet can last for more than a century. Why might that be useful?  
   *Child mode:* Lay your sprig flat in newspaper. Spread the leaves. Put heavy books on top.
-  - Note: In humid weather, change the newspaper after 2 days so the sprig does not go mouldy. The sprig is ready when it feels stiff and papery. If it is still soft after a week, press it a few days more.
+  - Note: In humid weather, change the newspaper after 2 days so the sprig does not go mouldy. With 2 to 4 children, each presses a different plant. Mint can turn dark in humid weather. The sprig is ready when it feels stiff and papery. If it is still soft after a week, press it a few days more.
   - Wait: Leave under the books for 7 days
 - **s2 (10 min)**  
-  *Parent does:* After a week, take out the dry sprig. Tape it gently to the thick paper. Write the label in the bottom right corner. Give the names in English and two Indian languages, and the scientific name. Then add the date, place, collector, part used, use and how sure we are.  
+  *Parent does:* After a week, take out the dry sprig and measure the same leaf again. How much did it shrink? Tape it gently to the thick paper. Write the label in the bottom right corner. Give the names in English and two Indian languages, and the scientific name. Then add the date, place, collector, part used, use and how sure we are.  
   *Parent says:* Every label says who collected the plant, where and when. Then anyone in the future can trust the sheet.  
   *Child mode:* Tape your sprig to the paper. Write the label in the corner.
   - Note: Scientific names: tulsi is Ocimum tenuiflorum, curry leaf is Murraya koenigii, mint is Mentha. The botanist E. K. Janaki Ammal, from Thalassery in Kerala, spent her last years studying medicine plants near Chennai.
@@ -543,21 +545,21 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 
 ## Projects
 ### p1 · A Kitchen Herb Pot: grow mint and lemongrass from market stems (95 min, 28 days)
-- **safety:** Wash your hands after handling soil.
+- **safety:** Wash your hands after handling soil. Wash the leaves well before you eat them, since market herbs may carry sprays or dirt.
 - **record:** A herb diary with root counts, shoot heights on days 14, 21 and 28, a line graph, and a note on each watering.
 - **schedule:** day 1: Strip the lower leaves from 5 mint stems. Stand them in water. Stand the lemongrass in water too. (15 min); day 7: Count roots on each stem. Measure the longest. Change the water. (10 min); day 10: Plant the rooted stems in the pot. Water until it drains. (20 min); day 14: Finger test. Measure the tallest mint shoot. Count new leaves. (10 min); day 21: Finger test. Measure again. Count new leaves. (10 min); day 28: Finger test and measure again. Draw a line graph of the tallest shoot. Pick a few leaves for chutney. (30 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Pick 5 healthy mint stems. 2. Strip the leaves from the bottom 5 cm of each. 3. Stand them in a glass of water with the bare part under water. 4. Do the same with lemongrass if you have it.  
-  *Parent says:* We took the bottom leaves off so the nodes are under water. Where do you think the roots will grow?  
+  *Parent says:* We took the bottom leaves off so the nodes are under water. Where do you think the roots will grow? Guess how many days until you see roots. With 2 to 4 children, each labels their own stems with a tape tag and measures only those. All the stems then go in one pot.  
   *Child mode:* Take the bottom leaves off five mint stems. Stand them in water.
 - **s2 (10 min)**  
   *Parent does:* On day 7, count the roots on each stem and measure the longest. Change the water.  
   *Parent says:* Look where the roots are coming from. Are they at the nodes?  
   *Child mode:* Count the roots. Measure the longest one. Are they at the nodes?
-  - Note: Mint usually grows white roots at the nodes within a week. Lemongrass is slower, often 2 to 3 weeks.
+  - Note: Mint usually grows white roots at the nodes within about a week, sometimes 10 days. Throw away any stem that turns slimy; starting with 5 means some will succeed. Lemongrass is slower, often 2 to 3 weeks.
   - Wait: Leave in water for 7 days
 - **s3 (20 min) · grown-up needed**  
-  *Parent does:* On day 10, plant the rooted mint stems in the pot, about 5 cm deep. Water slowly until a little comes out of the hole. Put the pot where they get a few hours of sun. Keep any lemongrass in water until its roots are about 2 cm long, then plant the lemongrass too.  
+  *Parent does:* On day 10, plant the rooted mint stems in the pot, about 5 cm deep. Water slowly until a little comes out of the hole. Put the pot where they get morning sun and shade from the harsh afternoon sun. Keep any lemongrass in water until its roots are about 2 cm long, then plant the lemongrass too.  
   *Parent says:* Now we care for them. Remember the finger test. When do we water?  
   *Child mode:* Plant your rooted stems. Water until a little comes out underneath.
 - **s4 (10 min)**  
@@ -646,7 +648,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 10. (mcq) Why does a pot need a hole at the bottom?  
    Options: So extra water can drain out and air can get back to the roots / So ants can get in / To make the pot lighter  
    **Answer:** So extra water can drain out and air can get back to the roots. *Why:* Roots need water and air. Without a hole, water fills every gap in the soil and the roots can rot.
-11. (odd) Which one is the odd one out, and why? Neelakurinji, red sanders, Nepenthes khasiana, gulmohar.  
+11. (odd) Which one is the odd one out, and why? Neelakurinji (grows wild only in India), red sanders (grows wild only in India), Nepenthes khasiana (grows wild only in India), gulmohar (came to India from Madagascar and grows in many countries).  
    **Answer:** Gulmohar, because gulmohar came from Madagascar. The other three are endemic to India: they grow wild only in India.. *Why:* Endemic plants grow wild in only one place. Gulmohar grows in many countries, and came to India from Madagascar.
 12. (draw) Draw a money plant stem with two leaves. Label a node. Draw where new roots would grow on a cutting.  
    **Answer:** A stem with two leaves, a node labelled where each leaf joins, and roots drawn coming from the node.. *Why:* Roots grow from the nodes. A strong drawing shows the roots at the node, not in the middle of the bare stem.
@@ -654,9 +656,9 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
    **Answer:** Roots need air as well as water. When you water too much, the soil stays full of water and there is no air left for the roots. Then the roots start to rot, and the leaves droop. Feel the soil first, and only water when it is dry.. *Why:* A strong answer says roots need air, links soaked soil to rotting roots, and gives Kavin a clear thing to do: check the soil first.
 14. (perspective) A company makes a new tonic from a forest fruit. A forest community showed scientists the fruit, and had eaten it for generations.  
    **Answer:** Any answer with a reason and a fair point from the other side. For example: the community should get a share, because they found the fruit and kept it safe. But the scientist is right that testing costs money, so the company should also earn something. That is what happened with the Kani people of Kerala and the tonic Jeevani.. *Why:* A strong answer picks a side with a reason, and fairly states the other side's point. It may mention the Kani and Jeevani as a real example.
-15. (mcq) Neelakurinji covered the hills of Munnar in blue in 2018. About how often does a neelakurinji plant bloom?  
-   Options: Once in about 12 years / Every spring / Every month  
-   **Answer:** Once in about 12 years. *Why:* Neelakurinji grows for about 12 years, then all the plants on a hillside bloom together, make seeds and die. Nobody yet knows how they keep count.
+15. (mcq) All the neelakurinji plants on a hillside bloom together, once in about 12 years, then make seeds and die. How might blooming all at once help them?  
+   Options: So many seeds are made together that seed-eaters cannot eat them all / Because the flowers are blue / So each flower can see the others  
+   **Answer:** So many seeds are made together that seed-eaters cannot eat them all. *Why:* When every plant makes seeds at the same time, animals that eat seeds get far more than they can eat, so many seeds survive. Nobody yet knows how the plants keep count of the years.
 ### Testing Plant Knowledge (stretch) (stretch, 15 questions)
 1. (mcq) A tomato leaf is chewed by a caterpillar. What happens to the plant's other leaves?  
    Options: Signals travel to them and they make more defence chemicals / Nothing, only the bitten leaf changes / They all fall off  
@@ -749,9 +751,9 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 5. (mcq) Which medicine for high blood pressure came from sarpagandha root?  
    Options: Reserpine / Aspirin / Artemisinin  
    **Answer:** Reserpine. *Why:* Reserpine was taken out of sarpagandha root in 1952. Aspirin came from a chemical in willow bark, and artemisinin from sweet wormwood.
-6. (mcq) Asima Chatterjee helped make Ayush-56, a medicine for epilepsy. Which plant did Ayush-56 come from?  
-   Options: A small water fern, Marsilea minuta / Neem / Clove  
-   **Answer:** A small water fern, Marsilea minuta. *Why:* Asima Chatterjee studied Marsilea minuta, a water fern eaten in Bengal as sushni shak.
+6. (mcq) A medicine for epilepsy was made from a small water fern that people in Bengal eat as a green. Why do scientists study plants that people already use as food or medicine?  
+   Options: Such plants may hold useful chemicals worth testing / Every plant is a medicine / Ferns are the only plants with medicines  
+   **Answer:** Such plants may hold useful chemicals worth testing. *Why:* If people have used a plant for a long time, it may contain something that works. Scientists then test it carefully to find out what it does and whether it is safe.
 7. (mcq) A fair trial of a remedy gives one group the remedy. What does the control group get?  
    Options: A placebo that looks and tastes the same but should do nothing / Twice as much remedy / Nothing, and they are told so  
    **Answer:** A placebo that looks and tastes the same but should do nothing. *Why:* A placebo stops people knowing which group they are in, because believing you got a remedy can make you feel better.
@@ -761,9 +763,9 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 9. (mcq) Which plant is endemic to India, growing wild nowhere else?  
    Options: Red sanders / Gulmohar / Eucalyptus  
    **Answer:** Red sanders. *Why:* Red sanders grows wild only in the southern Eastern Ghats. Gulmohar is from Madagascar and eucalyptus from Australia.
-10. (mcq) Tamarind is used in rasam all over South India. Where did tamarind first grow?  
-   Options: Africa / Tamil Nadu / America  
-   **Answer:** Africa. *Why:* Tamarind first grew in Africa and reached India long ago.
+10. (mcq) Tamarind is used in rasam all over South India, but it first grew in Africa. How could it end up growing all over India?  
+   Options: People carried its seeds and planted them, long ago / Its seeds floated across the sea by themselves to every village / Plants can walk to new places  
+   **Answer:** People carried its seeds and planted them, long ago. *Why:* People carry seeds when they travel and trade. Many foods we think of as Indian, like tamarind, chilli and tomato, first grew somewhere else.
 11. (mcq) A farmer plants pieces of sugarcane to grow a new field. Why must each piece have a node?  
    Options: New shoots and roots grow from the nodes / Nodes make the cane sweeter / The pieces are easier to carry  
    **Answer:** New shoots and roots grow from the nodes. *Why:* A node holds the bud for a new shoot and can grow roots. A piece of cane with no node cannot grow into a new plant.
@@ -851,7 +853,7 @@ Plants of India (sci.plants.L4): Topic-level song
 ## Things to buy
 - [Zip bags or small clear plastic boxes with lids](https://www.amazon.in/s?k=zip+lock+bags+small) (material): To keep the Spice Guard potato squares sealed while you count mould through the plastic. Clean food boxes from the kitchen work too. Used in e1. 
 - [A 30 cm ruler with millimetre marks](https://www.amazon.in/s?k=30+cm+scale+ruler) (tool): To measure roots and shoots in millimetres in the Node Test, Too Much Water? and the herb pot. Used in e2, e3, p1. 
-- [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at nodes, new roots and the first threads of mould. Used in e1, e2. 
+- [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Optional. To look closely at nodes, new roots and the first threads of mould. A simple lens costs about Rs 50 to 100 at a stationery shop. Used in e1, e2, p1. 
 
 ## Warm-up
 - A clove is a dried flower ____. → Bud.

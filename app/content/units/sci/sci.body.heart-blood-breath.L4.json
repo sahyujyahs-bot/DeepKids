@@ -470,7 +470,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
+     "mins": 3,
      "do": "Show the child the results table. Ask for a guess and a reason for the pulse and for the breathing, before any counting. Write both down.",
      "say": "We will count your pulse and your breaths in different situations. In which situation do you think your pulse will be highest? Why do you think so?",
      "kid": "We will count your pulse and your breaths. Where will your pulse be highest? Why do you think so?",
@@ -489,12 +489,12 @@
     },
     {
      "id": "s2",
-     "mins": 4,
+     "mins": 3,
      "do": "Sit together. Show the child how to rest two fingers, not the thumb, on the inside of the wrist. Press gently until a small push is felt. Practise one 15-second count.",
      "say": "Rest two fingers on the inside of your wrist. Do not use your thumb. Press gently until you feel a small push. I will say start and stop.",
      "kid": "Two fingers on your wrist, not your thumb. Press gently. Feel the small push. Count when I say start.",
      "context": "In this step you learn to find your pulse and count it for 15 seconds.",
-     "parent": "If the child cannot find it, slide the fingers a little towards the thumb side or press slightly harder. A heart is also easy to feel with a flat hand in the middle of the chest, a little to the left.",
+     "parent": "If the child cannot find it, slide the fingers a little towards the thumb side or press slightly harder. A heart is also easy to feel with a flat hand in the middle of the chest, a little to the left. With 2 to 4 children, work in pairs or threes: one is the subject, one counts the pulse, one holds the stopwatch and counts breaths, and everyone takes a turn at each job. Each child fills their own table, because pulses differ from child to child. One child with a parent: the child counts the pulse and the parent counts the breaths and keeps time.",
      "check": {
       "t": "mcq",
       "q": "Why do we use two fingers and not the thumb to find a pulse?",
@@ -509,7 +509,7 @@
     },
     {
      "id": "s3",
-     "mins": 8,
+     "mins": 6,
      "do": "Ask the child to lie on the mat and look at the picture book for two minutes, quietly. Then say start, and the child counts the pulse for 15 seconds. Straight after, count the child's breaths by watching the belly rise for 15 seconds, without saying so. Write both numbers down.",
      "say": "Lie on the mat and look at the book. Stay quiet for two minutes. Then count your pulse when I say start. Afterwards, I will tell you what else I counted.",
      "kid": "Lie down and read the book. After two minutes, count your pulse for 15 seconds.",
@@ -519,7 +519,7 @@
     },
     {
      "id": "s4",
-     "mins": 6,
+     "mins": 4,
      "do": "Ask the child to sit up on the mat for one minute without moving much. Then count the pulse for 15 seconds, and the breaths for 15 seconds. Write them down.",
      "say": "Sit up and rest for one minute. Then we count again. Pulse first, and then breaths.",
      "kid": "Sit up and rest for one minute. Count your pulse for 15 seconds.",
@@ -537,7 +537,7 @@
     },
     {
      "id": "s5",
-     "mins": 6,
+     "mins": 4,
      "do": "Ask the child to stand still for one minute, with the arms by the sides and no leaning. Then count the pulse for 15 seconds, and the breaths for 15 seconds. Write them down.",
      "say": "Stand up straight and still for one minute. Now count your pulse again, and then I count your breaths.",
      "kid": "Stand still for one minute. Count your pulse for 15 seconds.",
@@ -557,7 +557,7 @@
     },
     {
      "id": "s6",
-     "mins": 8,
+     "mins": 6,
      "do": "Ask the child to step up onto the step and down again, about one step-up every two seconds, for one minute. A grown-up stays beside the child. At once, count the pulse for 15 seconds and the breaths for 15 seconds. Write them down.",
      "say": "Step up and down for one minute. I will count with you. When I say stop, count your pulse straight away.",
      "kid": "Step up and down for one minute. Stop. Count your pulse for 15 seconds.",
@@ -573,25 +573,25 @@
        ]
       }
      ],
-     "parent": "Count straight away, because the pulse starts to fall within seconds. A child may lose count when the pulse is fast. Count together for the first try. Stop at once if the child feels dizzy or has any pain."
+     "parent": "Count straight away, because the pulse starts to fall within seconds. A child may lose count when the pulse is fast. Count together for the first try. Stop at once if the child feels dizzy or has any pain. Do this in a cool, shaded room and not in the afternoon heat, because a hot room raises the pulse by itself. Typical rested school-child pulses are about 70 to 100 a minute and rise to about 110 to 150 after a minute of stepping, but yours may differ."
     },
     {
      "id": "s7",
-     "mins": 6,
+     "mins": 5,
      "do": "Ask the child to sit quietly. At 1, 2, 3 and 4 minutes after stopping, count the pulse for 15 seconds and then the breaths for 15 seconds. Write each pair down.",
      "say": "Sit still. We will count again at one minute, two minutes, three minutes and four minutes after you stopped. Look at how the numbers change.",
      "kid": "Sit still. Count your pulse at 1, 2, 3 and 4 minutes.",
      "context": "In this step you count your pulse and breaths each minute after exercise, to see how they come back to rest.",
-     "parent": "Use the stopwatch from the moment the step-ups stop. Most children are back close to their resting pulse by the fourth minute. A child who plays sport a lot often recovers a little faster."
+     "parent": "Use the stopwatch from the moment the step-ups stop. Most children are back close to their resting pulse by the fourth minute. A child who plays sport a lot often recovers a little faster. Start each 15-second count at the minute mark, so the pulse is counted from 1:00 to 1:15 and the breaths from 1:15 to 1:30. The pulse is a little lower in the second count of each pair, which is fine."
     },
     {
      "id": "s8",
-     "mins": 6,
+     "mins": 4,
      "do": "Help the child turn each 15-second count into a count for one minute by multiplying by 4. Fill in the last two columns.",
      "say": "Each count was for 15 seconds, and there are four of those in one minute. So multiply each number by 4. Write the answers in the table.",
      "kid": "Multiply each count by 4. That gives you beats and breaths in one minute.",
      "context": "In this step you change your counts into pulse and breaths per minute.",
-     "parent": "For a count of 22 beats in 15 seconds, 22 times 4 is 88. Breaths counted in 15 seconds are small numbers, so the answers are rough. That is fine.",
+     "parent": "For a count of 22 beats in 15 seconds, 22 times 4 is 88. Breaths counted in 15 seconds are small numbers, so the answers are rough. That is fine. If two counts differ by only 1 beat, that is within the error of a 15-second count, so do not claim a change.",
      "check": {
       "t": "mcq",
       "q": "You counted 30 beats in 15 seconds after exercise. What is the pulse per minute?",
@@ -606,7 +606,7 @@
     },
     {
      "id": "s9",
-     "mins": 5,
+     "mins": 4,
      "do": "Ask the child to say or write a claim, the evidence and the reasoning. Compare with the first guess. Do not give the explanation until the child has said what they think.",
      "say": "What did you find? Which number was highest, and when? What do you think made the heart and the breathing go up together?",
      "kid": "Tell me what you found. Which numbers went up? What do you think made them go up?",
@@ -625,7 +625,7 @@
      "think": "If both go up together, what might be telling them to go up?"
     }
    ],
-   "mins": 54
+   "mins": 39
   },
   {
    "id": "e2",
@@ -633,7 +633,7 @@
    "days": 1,
    "question": "How long does it take for the colour to return to a pressed fingernail when your hand is warm, at room temperature, or cold?",
    "predict": "Before you start, guess. In which hand will the pink come back fastest? Which will be slowest? Why do you think so?",
-   "fair_test": "The same finger on the same hand is pressed every time, for the same two seconds, with the same pressure. The same person counts the seconds, starting the moment the finger is let go. Each hand temperature is tested three times. Only the temperature of the hand changes.",
+   "fair_test": "The same finger (the middle finger) of the same hand is pressed every time, for the same two seconds, with the same pressure. The same person counts the seconds, starting the moment the finger is let go. Each hand temperature is tested three times, and the hand is left to settle between tests. Only the temperature of the hand changes.",
    "results_table": [
     "Hand",
     "Try 1 (seconds)",
@@ -644,11 +644,11 @@
    "context": "In this experiment you press a fingernail until it goes white and time how fast the pink returns. You test a warm hand, a room-temperature hand and a cold hand. It shows where your blood goes when you are cold.",
    "materials": [
     {
-     "item": "a bowl of warm tap water, comfortable for the hand and not hot",
+     "item": "a bowl of warm tap water, comfortable for the hand and not hot (in summer, tap water may already be warm: use it as it is)",
      "qty": 1
     },
     {
-     "item": "a bowl of cold tap water with 5 or 6 ice cubes in it",
+     "item": "a bowl of cold tap water with 5 or 6 ice cubes in it (ice trays from the fridge are enough)",
      "qty": 1
     },
     {
@@ -656,7 +656,7 @@
      "qty": 1
     },
     {
-     "item": "a phone or kitchen clock with a stopwatch",
+     "item": "a phone or kitchen clock with a stopwatch, or a helper who counts 'one and, two and' out loud",
      "qty": 1,
      "buy": "b-stopwatch"
     },
@@ -666,7 +666,7 @@
     }
    ],
    "safety": "Keep the hand in the cold water for one minute only, and never more than two minutes. A grown-up watches the clock. Stop at once if the hand hurts or goes very white or numb. Do not do the cold part with a child who has poor circulation, and ask the doctor first if you are not sure. Never rub a very cold hand hard. Warm it gently.",
-   "record": "Write the three times for each hand and the colour of the fingertips. Then write which hand was fastest, which was slowest, and why you think so.",
+   "record": "Write the three times for each hand and the colour of the fingertips. Then write which hand was fastest, which was slowest, and why you think so. Say which room you did it in and whether the weather was hot, cool or damp.",
    "setup": [
     {
      "art": "A child's hand resting in a bowl of warm water, with a clock beside the bowl.",
@@ -682,7 +682,7 @@
     },
     {
      "art": "A child's hand in a bowl of cold water with ice cubes, with a parent watching a clock.",
-     "caption": "4. Put the other hand in cold water for one minute. Dry it. Test the nail again."
+     "caption": "4. Put the same hand in cold water for one minute. Dry it. Test the nail again."
     }
    ],
    "flow": [
@@ -703,30 +703,30 @@
        ]
       }
      ],
-     "parent": "Accept any guess with a reason. A common idea is that blood freezes or stops. Do not correct it. Let the test show."
+     "parent": "Accept any guess with a reason. A common idea is that blood freezes or stops. Do not correct it. Let the test show. With 2 to 4 children, work in pairs: one child is the hand, one presses and times. Share the two bowls, but run two pairs at the same time only if you have a helper to watch each cold-water minute. Every child tests their own hand, because skin and nails differ."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Ask the child to rest the left hand in warm water for two minutes, then dry it. Press the nail of the middle finger firmly for two seconds, until it goes white. Let go and count the seconds until the nail looks as pink as the finger beside it. Do this three times.",
+     "do": "Ask the child to rest the left hand in warm water for two minutes, then dry it. Press the nail of the middle finger firmly for two seconds, until it goes white. Let go and count the seconds until the nail looks as pink as the finger beside it. Do this three times. Use the left hand and the same finger for every test.",
      "say": "Rest your hand in warm water for two minutes. Dry it. I will press your nail for two seconds and let go. Watch the pink come back, and I will count.",
      "kid": "Put your hand in warm water for two minutes. Dry it. Ask a grown-up to press and time your nail.",
      "context": "In this step you time the pink returning in a warm hand.",
-     "parent": "Count in half seconds if you can, saying one, and, two, and. Start counting the moment the finger is released. A warm hand often takes only about one second. Use the same finger, the same press and the same counter each time."
+     "parent": "Count in half seconds if you can, saying one, and, two, and. Start counting the moment the finger is released. A warm hand often takes only about one second. Use the same finger, the same press and the same counter each time. Normal pink usually returns in about 1 to 2 seconds, so the differences are small and you must count carefully. A helper can say 'pink!' when the colour is back while the timer runs. If the nail colour is hard to see, press the soft pad of the fingertip instead and watch it go from pale to pink, and always use the same spot."
     },
     {
      "id": "s3",
-     "mins": 4,
-     "do": "Ask the child to rest the other hand on the table for one minute in the room. Press the same finger for two seconds and time the pink three times. Write the times down.",
-     "say": "Now your other hand. Rest it on the table for one minute. We press and time the nail in the same way.",
-     "kid": "Rest your other hand for one minute. Press and time the nail again.",
+     "mins": 5,
+     "do": "Ask the child to rest the same left hand on the table for three minutes. This lets it settle back to normal. Press the same finger for two seconds and time the pink three times. Write the times down.",
+     "say": "Now rest the same hand on the table for three minutes. We press and time the nail in the same way.",
+     "kid": "Rest the same hand on the table for three minutes. Press and time the nail again.",
      "context": "In this step you time the pink returning in a hand at room temperature.",
      "parent": "A hand at room temperature is usually between the warm and the cold results. If the room is very cold or very hot, the result may be different. Write the room down in your notes."
     },
     {
      "id": "s4",
      "mins": 8,
-     "do": "A grown-up watches the clock. The child puts the hand into the iced water for one minute. Take it out, dry it, and at once press the nail for two seconds and time the pink three times. Look at the colour of the fingertips.",
+     "do": "A grown-up watches the clock. The child puts the same hand into the iced water for one minute. Take it out, dry it, and at once press the nail for two seconds and time the pink three times. Look at the colour of the fingertips.",
      "say": "Put your hand in the cold water for one minute. I will watch the clock. Take it out and dry it. Then we press and time the nail.",
      "kid": "Put your hand in cold water for one minute. Dry it. Then press and time the nail.",
      "context": "In this step you time the pink returning in a cold hand.",
@@ -741,7 +741,7 @@
        ]
       }
      ],
-     "parent": "Do the three presses quickly, because the hand starts to warm up at once. If the times are all similar, note the colour of the fingertips as well. Pale, waxy fingertips are a clear sign. Stop the test if the hand hurts."
+     "parent": "Do the three presses quickly, because the hand starts to warm up at once. If the times are all similar, note the colour of the fingertips as well. Pale, waxy fingertips are a clear sign. Stop the test if the hand hurts. A cold hand should be slower, but the size of the change differs from child to child, typically from about 2 seconds to 4 seconds or more. If it does not change at all, the water was not cold enough, or the hand warmed up while you dried it. Write that down honestly and try again with more ice."
     },
     {
      "id": "s5",
@@ -772,7 +772,7 @@
      }
     }
    ],
-   "mins": 30
+   "mins": 31
   },
   {
    "id": "e3",
@@ -794,12 +794,12 @@
      "qty": 3
     },
     {
-     "item": "3 sugar lumps or 3 small pieces of rock sugar (mishri), the same size",
+     "item": "3 plain white sugar cubes, the same size (or 3 equal pieces of rock sugar (mishri), which dissolve more slowly)",
      "qty": 3,
      "buy": "b-sugar"
     },
     {
-     "item": "warm tap water, comfortable to touch, about 300 millilitres in all",
+     "item": "warm tap water, comfortable to touch, about 300 millilitres in all (mix hot and cold water from a jug until it is comfortable)",
      "qty": 1
     },
     {
@@ -807,7 +807,7 @@
      "qty": 1
     },
     {
-     "item": "a clean cloth and a rolling pin or a heavy spoon, for crushing",
+     "item": "a clean cloth and a rolling pin or a heavy spoon for crushing, and a clean mortar or a mixer jar for the powder",
      "qty": 1
     },
     {
@@ -816,8 +816,8 @@
      "buy": "b-stopwatch"
     }
    ],
-   "safety": "Use warm water that is not hot. A grown-up grinds the powder in a clean mortar or a mixer jar, because the blades are sharp.",
-   "record": "Write the time for each glass. Draw each glass at the end. Say how the size of the pieces changed the time.",
+   "safety": "Use warm water that is not hot. A grown-up grinds the powder in a clean mortar or a mixer jar, because the blades are sharp. Do not drink the sugar water if the glasses were not food-clean, and keep the sugar away from ants.",
+   "record": "Write the time for each glass. Draw each glass at the end. Say how the size of the pieces changed the time. Say how long a glass had to be clear and what you saw at the bottom.",
    "setup": [
     {
      "art": "Three glasses in a row labelled A, B and C, each with 100 millilitres of water.",
@@ -854,17 +854,17 @@
        ]
       }
      ],
-     "parent": "Accept any guess with a reason. Some children think that more pieces will take longer, because there is more to dissolve. The test will show."
+     "parent": "Accept any guess with a reason. Some children think that more pieces will take longer, because there is more to dissolve. The test will show. With 2 to 4 children: each child drops one sugar into one glass (A, B or C), and a fourth child, or the parent, runs the stopwatch and writes the times. Swap jobs and repeat if there is time. One child with a parent: the child drops all three and the parent keeps time."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Pour 100 millilitres of warm water into each glass. Mark the glasses A, B and C. Ask the child to wrap one lump in the cloth and crush it with the rolling pin into bits. A grown-up grinds one lump into a fine powder.",
+     "do": "Pour 100 millilitres of warm water into each glass. Mark the glasses A, B and C. Ask the child to wrap one cube in the cloth and crush it into bits. Keep every bit. A grown-up grinds one cube into a fine powder.",
      "say": "Pour the same amount of warm water into each glass. Glass A gets a whole lump. Glass B gets a crushed lump. Glass C gets a powdered lump.",
      "kid": "Pour water into three glasses. A is the lump. B is crushed. C is powder.",
      "context": "In this step you set up the three glasses and prepare the three sugars.",
      "adult": true,
-     "parent": "The water in each glass must be at the same warmth. Pour from one jug to be sure. Do not use hot water, because hot water makes everything dissolve fast and the difference is hard to see.",
+     "parent": "The water in each glass must be at the same warmth. Pour from one jug to be sure. Do not use hot water, because hot water makes everything dissolve fast and the difference is hard to see. Each glass gets the sugar of one whole cube (about one level teaspoon). Do not lose any bits or powder, because less sugar would clear faster and spoil the test.",
      "check": {
       "t": "mcq",
       "q": "Why do we use the same amount of sugar in each glass?",
@@ -880,7 +880,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Drop the three sugars into the glasses at the same moment and start the stopwatch. Do not stir.",
+     "do": "Drop the three sugars into the glasses at the same moment and start the stopwatch. Do not stir. Tip in the powder gently so it does not splash.",
      "say": "Ready? Drop them in together, on three. One, two, three. Start the stopwatch. Do not stir, because stirring would hide the difference.",
      "kid": "Drop all three in together. Start the stopwatch. Do not stir.",
      "context": "In this step you start all three glasses at once.",
@@ -903,7 +903,7 @@
        ]
       }
      ],
-     "parent": "The powder may clear in under a minute. The crushed bits may take a few minutes. The lump can take 10 minutes or more. If the lump is not gone after 15 minutes, write 'more than 15'. That is a good result."
+     "parent": "Call a glass 'clear' when you cannot see any grains at the bottom when you tilt it. The powder may be clear in about a minute, and may sit in a clump at first. The crushed bits take a few minutes. A plain sugar cube in warm water typically takes about 3 to 10 minutes without stirring, and mishri takes longer. If the lump is not gone after 15 minutes, write 'more than 15'. That is a good result. If all three finish at about the same time, the water was probably too hot: try again with cooler water."
     },
     {
      "id": "s5",
@@ -935,7 +935,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a clean, dry hand, and a phone or kitchen clock with a stopwatch",
+     "item": "a clean, dry hand, a partner if possible, and a phone or kitchen clock with a stopwatch",
      "qty": 1,
      "buy": "b-stopwatch"
     }
@@ -944,11 +944,11 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Find the pulse at the wrist, the temple, the side of the neck and the chest. Compare the four."
+     "mins": 15,
+     "what": "Find the pulse at the wrist, the temple, the side of the neck and the chest. Compare the four, then compare them again after 20 star jumps."
     }
    ],
-   "record": "Write which places you found a pulse, and which place was the easiest. Write the number of beats in 15 seconds at two places and compare.",
+   "record": "Write which places you found a pulse, and which place was the easiest. Write the number of beats in 15 seconds at two places, at rest and after 20 star jumps, and compare.",
    "context": "In this activity you hunt for your pulse in four places on your body. It shows that the same heartbeat reaches all of them.",
    "setup": [
     {
@@ -967,8 +967,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 10,
-     "do": "Ask the child to find the pulse at the wrist, then at the temple. Next, very lightly at the side of the neck. Last, with a flat hand on the chest. At two of the places, count for 15 seconds and compare the numbers.",
+     "mins": 15,
+     "do": "Ask the child to guess, with a reason, whether the pulse will be the same at every place. Then find the pulse at the wrist, then at the temple, just in front of the ear. Next, very lightly at the side of the neck. Last, with a flat hand on the chest. Count for 15 seconds at the wrist and at the neck. A partner can count one place each, at the same moment. Compare the numbers. Then do 20 star jumps and count again at the same two places.",
      "say": "Find your pulse at your wrist. Now try in front of your ear, at your temple. Try very lightly on one side of your neck. Last, put a flat hand on your chest. Which is easiest?",
      "kid": "Find your pulse at four places. Which one is easiest? Count at two places and compare.",
      "context": "In this step you find your pulse in four places and compare them.",
@@ -982,7 +982,7 @@
        ]
       }
      ],
-     "parent": "The numbers at the different places should match, within one or two beats. The pulse is a pressure wave from one heartbeat, so it arrives everywhere almost at once. On the neck, use a single light finger and only on one side.",
+     "parent": "The numbers at the different places should match, within one or two beats. The pulse is a pressure wave from one heartbeat, so it arrives everywhere almost at once. On the neck, use a single light finger and only on one side. With 2 to 4 children, work in pairs: one counts the wrist and the other the neck of the same person at the same moment, then swap. After exercise the numbers are higher, but both places should still match within one or two beats, and the pulse is easier to find.",
      "check": {
       "t": "mcq",
       "q": "You count 21 beats in 15 seconds at your wrist and 22 at your temple. What does this suggest?",
@@ -996,7 +996,7 @@
      }
     }
    ],
-   "mins": 10
+   "mins": 15
   },
   {
    "id": "a2",
@@ -1017,7 +1017,7 @@
      "qty": 1
     }
    ],
-   "safety": "Count only resting or sleeping people and pets, and watch from a little way off. Do not wake a sleeping baby or an animal.",
+   "safety": "Count only resting or sleeping people and pets, and watch from a little way off. Do not wake a sleeping baby or an animal, and do not touch an unfamiliar animal. Wash your hands after touching any pet. If a child is allergic to fur, count that pet from a distance.",
    "schedule": [
     {
      "day": 1,
@@ -1068,7 +1068,7 @@
        ]
       }
      ],
-     "parent": "Usual resting rates are about 30 to 40 breaths a minute for a young baby, about 18 to 25 for a school child, about 12 to 20 for an adult, and about 15 to 30 for a resting dog or cat. Animals that have just played will be faster, so count only those who are calm.",
+     "parent": "Usual resting rates are about 30 to 40 breaths a minute for a young baby, about 18 to 25 for a school child, about 12 to 20 for an adult, and about 15 to 30 for a resting dog or cat. Animals that have just played will be faster, so count only those who are calm. Breath counts over 15 seconds are rough: a miss of one breath changes the answer by 4. For steadier numbers count for 30 seconds and multiply by 2. With 2 to 4 children, each child counts different beings, or two children count the same being and compare their numbers. With one child, the parent keeps time.",
      "check": {
       "t": "mcq",
       "q": "Which being would you expect to breathe fastest while resting?",
@@ -1090,32 +1090,32 @@
    "days": 1,
    "materials": [
     {
-     "item": "a cup of breakfast cereal that lists iron on its nutrition label, such as a fortified corn flake",
+     "item": "a cup of breakfast cereal that lists iron on its nutrition label, such as a fortified corn flake, and a cup of plain puffed rice (murmura) with no added iron, for comparison",
      "qty": 1
     },
     {
-     "item": "a strong magnet, such as one from an old loudspeaker, and a strong plastic zip bag to hold it",
+     "item": "a strong magnet, such as a neodymium magnet or one from an old loudspeaker, and a strong plastic zip bag to hold it",
      "qty": 1,
      "buy": "b-magnet"
     },
     {
-     "item": "a clear bowl and warm water",
-     "qty": 1
+     "item": "two clear bowls and warm water",
+     "qty": 2
     },
     {
      "item": "a white plate or sheet of paper",
      "qty": 1
     }
    ],
-   "safety": "A grown-up handles any strong magnet, and keeps it away from phones and cards. Small strong magnets must never be swallowed. Do not eat the cereal soup afterwards.",
+   "safety": "A grown-up handles any strong magnet, and keeps it away from phones, watches, cards and anyone with a pacemaker. Strong magnets can pinch fingers and snap together hard. Small strong magnets must never be swallowed. Do not eat the cereal soup afterwards.",
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
-     "what": "Crush cereal in warm water, stir with a magnet in a bag for 10 minutes, then look for tiny dark flecks."
+     "mins": 30,
+     "what": "Crush cereal in warm water, stir with a magnet in a bag for 10 minutes, then look for tiny dark flecks. Repeat with plain puffed rice to compare."
     }
    ],
-   "record": "Draw the magnet bag at the end. Write whether you found flecks and how many, and what the nutrition label said about iron.",
+   "record": "Draw the magnet bag at the end of each test. Write whether you found flecks in the cereal and in the puffed rice, how many, and what the nutrition label said about iron.",
    "context": "In this activity you try to pull the iron out of a breakfast cereal with a magnet. Iron is one of the things blood needs to make haemoglobin.",
    "setup": [
     {
@@ -1139,12 +1139,12 @@
      "say": "This cereal has iron added to it, as a label says. Do you think a magnet can pull iron out of a soft, wet cereal? Why do you think so?",
      "kid": "The label says this cereal has iron. Can a magnet pull it out? Why?",
      "context": "In this step you read the label and guess before you try.",
-     "parent": "Iron added to cereal is often a fine iron powder, which is magnetic. Not every cereal and not every magnet will show it. The magnet must be strong. If nothing shows up, that is a real result."
+     "parent": "Iron added to cereal is often a fine iron powder, which is magnetic. Not every cereal and not every magnet will show it. The magnet must be strong. If nothing shows up, that is a real result. This works best with a cereal whose label shows a good share of the daily iron, and with a strong magnet. A fridge magnet will not do. If you cannot find a strong magnet, borrow one from a hardware shop or an old speaker, or skip this activity and read the nutrition label alone."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up helps the child to crush the cereal in warm water. Put the magnet in the zip bag and seal it. Stir the soup slowly with the bag for 10 minutes.",
+     "do": "A grown-up helps the child to crush the cereal to a fine powder. Mix it with warm water in one bowl, to make a thin soup. Put the magnet in the zip bag and seal it. Stir the soup slowly with the bag for 10 minutes. With 2 to 4 children, take turns stirring for 2 or 3 minutes each.",
      "say": "Crush the cereal into the warm water until it is soft. Seal the magnet in the bag. Stir slowly with the bag for 10 minutes.",
      "kid": "Crush the cereal in warm water. Stir with the magnet in a bag for 10 minutes.",
      "context": "In this step you stir the cereal soup with a magnet in a bag.",
@@ -1154,7 +1154,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Lift the bag out of the soup. Hold it over a white plate and look at its outside for tiny dark flecks. Wipe them off onto the plate to see them better.",
+     "do": "Lift the bag out of the soup. Hold it over a white plate and look at its outside for tiny dark flecks. Wipe them off onto the plate to see them better. Wash and dry the bag.",
      "say": "Lift out the bag and look at its outside. Do you see tiny dark flecks? Those could be iron. Wipe them onto the white plate.",
      "kid": "Lift out the bag. Look for tiny dark flecks on the outside.",
      "context": "In this step you look for the iron that the magnet caught.",
@@ -1180,9 +1180,39 @@
       "a": 0,
       "why": "Each haemoglobin molecule has iron at its heart. This is where oxygen grabs on. Without enough iron, the body makes less haemoglobin, so less oxygen can be carried. If you picked another answer, look at the haemoglobin card."
      }
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "Crush the plain puffed rice in warm water in the second bowl. Stir it with the clean bag and magnet for 5 minutes. Look for flecks in the same way. Compare the two plates.",
+     "say": "Now we do the same with puffed rice that has no added iron. Will the magnet catch flecks this time?",
+     "kid": "Do the same with plain puffed rice. Do you find flecks again? Compare the two plates.",
+     "context": "In this step you test a food with no added iron, so you can compare.",
+     "ask": [
+      {
+       "q": "Why do you think your body needs iron?",
+       "good": [
+        "For blood.",
+        "To carry oxygen.",
+        "To make haemoglobin."
+       ]
+      }
+     ],
+     "parent": "If a second magnet is at hand, two children can stir both bowls at the same time. The puffed rice should show no flecks, or far fewer, which is what makes the cereal result believable. If neither shows flecks, say so: the magnet may be too weak.",
+     "check": {
+      "t": "mcq",
+      "q": "The magnet caught tiny dark flecks. Why does the body need iron?",
+      "options": [
+       "Iron is a part of haemoglobin, which carries oxygen",
+       "Iron makes bones bend",
+       "Iron makes blood watery"
+      ],
+      "a": 0,
+      "why": "Each haemoglobin molecule has iron at its heart. This is where oxygen grabs on. Without enough iron, the body makes less haemoglobin, so less oxygen can be carried. If you picked another answer, look at the haemoglobin card."
+     }
     }
    ],
-   "mins": 20
+   "mins": 30
   },
   {
    "id": "a4",
@@ -1197,11 +1227,11 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Hold one hand high and one hand low for one minute and compare the colour and the veins."
+     "mins": 15,
+     "what": "Hold one hand high and one hand low for one minute and compare the colour and the veins. Swap hands and repeat, then time how fast the veins fill."
     }
    ],
-   "record": "Draw the back of each hand after one minute. Write the colour and whether the veins stood out.",
+   "record": "Draw the back of each hand after one minute, both times. Write the colour and whether the veins stood out, and how many seconds the veins took to fill after you lowered the raised hand.",
    "context": "In this activity you hold one hand high and one hand low, and see what gravity does to your blood. It shows how veins and valves lift blood up your body.",
    "setup": [
     {
@@ -1216,8 +1246,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 10,
-     "do": "Ask the child to guess how the two hands will look after one minute. Then hold one hand high above the head and the other hanging down by the side for one minute. Bring both in front of the face and compare the colour and the veins on the backs.",
+     "mins": 15,
+     "do": "Ask the child to guess how the two hands will look after one minute, and why. Then hold one hand high above the head and the other hanging down by the side for one minute. Bring both in front of the face and compare the colour and the veins on the backs. Then lower the raised hand and count the seconds until its veins fill. Rest for two minutes, swap the hands (the other hand up this time), and repeat, to check that it is the position that matters and not the hand.",
      "say": "Do you think the two hands will look the same after one minute? Why do you think so? Hold one hand up high and one down low. After one minute, look at both.",
      "kid": "Guess how the hands will look. Hold one hand up and one down for one minute. Then compare them.",
      "context": "In this activity you hold one hand up and one down, then compare them.",
@@ -1231,7 +1261,7 @@
        ]
       }
      ],
-     "parent": "Usually the hanging hand looks pinker, with veins that stand out, and the raised hand looks paler, with flatter veins. Gravity pulls blood down. The effect is easy to see if you lower the raised hand afterwards and watch the veins fill.",
+     "parent": "Usually the hanging hand looks pinker, with veins that stand out, and the raised hand looks paler, with flatter veins. Gravity pulls blood down. The effect is easy to see if you lower the raised hand afterwards and watch the veins fill. If the veins are hard to see on darker skin, compare the colour of the palms and fingertips, how full or puffy the fingers look, or how tight a ring or bangle feels. The veins typically fill in about 5 to 15 seconds. With 2 to 4 children, work in pairs so that one child compares and the other times.",
      "check": {
       "t": "mcq",
       "q": "The low hand looked pinker, with veins that stood out. Why?",
@@ -1245,7 +1275,7 @@
      }
     }
    ],
-   "mins": 10
+   "mins": 15
   },
   {
    "id": "a5",
@@ -1266,15 +1296,15 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up stays with the child the whole time. Stop at once if the child feels dizzy, panicky or short of breath, and take the straw away. Skip this activity for any child with asthma or a breathing problem. Use a clean straw, and use it only once.",
+   "safety": "A grown-up stays with the child the whole time. Stop at once if the child feels dizzy, panicky or short of breath, and take the straw away. Skip this activity for any child with asthma or a breathing problem. Use a clean straw for each child, and use it only once. Marching is optional: a child who feels any discomfort should only sit and breathe through the straw.",
    "schedule": [
     {
      "day": 1,
-     "mins": 12,
-     "what": "Count pulse and breaths sitting. Breathe through a straw for one minute, then march on the spot for 20 seconds. Compare how it feels."
+     "mins": 20,
+     "what": "Count pulse and breaths sitting. Breathe through a straw for one minute, then march on the spot for 20 seconds. Rest, and march for 20 seconds without the straw to compare."
     }
    ],
-   "record": "Write the pulse before and after, and how it felt. Write one sentence on what you learned about people whose airways are narrow.",
+   "record": "Write the pulse and the breaths in 15 seconds before and after, with and without the straw, and how each felt. Write one sentence on what you learned about people whose airways are narrow.",
    "context": "In this activity you breathe through a straw to feel what narrow airways are like. In a person with asthma, the airways tighten. It shows why breathing hard work needs more effort.",
    "setup": [
     {
@@ -1294,7 +1324,7 @@
      "say": "First, count your pulse sitting. Now guess. How will it feel to breathe through a straw? Will your pulse change? Why do you think so?",
      "kid": "Count your pulse. How will breathing through a straw feel? Why?",
      "context": "In this step you count a resting pulse and guess.",
-     "parent": "Take the pulse before the straw. Tell the child they can stop at any time by taking out the straw."
+     "parent": "Take the pulse before the straw. Tell the child they can stop at any time by taking out the straw. Each child counts their own pulse and a partner counts the breaths over 15 seconds."
     },
     {
      "id": "s2",
@@ -1326,9 +1356,30 @@
       "a": 0,
       "why": "The air still has oxygen, but a narrow tube slows the air down, so the breathing muscles must work harder. In asthma, the airways tighten in the same way. If you picked another answer, remember that the straw only changes the width."
      }
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Rest until the pulse is back to the first resting number, about 3 to 5 minutes. Then the child marches on the spot for 20 seconds with no straw, breathing normally. Count the pulse for 15 seconds and the breaths for 15 seconds, and compare how it felt with the straw march.",
+     "say": "Rest until you feel normal. Now we march for the same 20 seconds, with no straw. How is it different?",
+     "kid": "Rest, then march for 20 seconds with no straw. Count your pulse. How did it feel different?",
+     "context": "In this step you do the same marching without the straw, so you can compare.",
+     "adult": true,
+     "parent": "Do the marching without the straw second, so the comparison is fair, and keep the marching time the same. With 2 to 4 children, only one child breathes through a straw at a time while the others watch, count and time, and each child has their own clean straw. The pulse numbers may be similar, because 20 seconds is short, but the effort and the breathing usually feel very different. Say so, and explain that pulse counts are rough.",
+     "check": {
+      "t": "mcq",
+      "q": "Why did the straw make breathing hard work?",
+      "options": [
+       "The air has to squeeze through a very narrow tube",
+       "The straw takes oxygen out of the air",
+       "The straw makes the lungs smaller"
+      ],
+      "a": 0,
+      "why": "The air still has oxygen, but a narrow tube slows the air down, so the breathing muscles must work harder. In asthma, the airways tighten in the same way. If you picked another answer, remember that the straw only changes the width."
+     }
     }
    ],
-   "mins": 12
+   "mins": 20
   },
   {
    "id": "a6",
@@ -1341,18 +1392,18 @@
      "buy": "b-stopwatch"
     },
     {
-     "item": "two short stories, one calm and one that builds up suspense, each about two minutes to read out loud",
+     "item": "two short stories, one calm and one exciting with a lot of suspense, each about two minutes to read out loud (a bedtime story and an adventure chase will do)",
      "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Count the pulse during a calm story and during a suspenseful story. Compare."
+     "mins": 20,
+     "what": "Count the resting pulse three times to see how much it varies. Then count the pulse during a calm story and during a suspenseful story, with a helper holding the wrist. Compare."
     }
    ],
-   "record": "Write the pulse for each story. Write whether it changed, and how sure you are, given that pulse counts are rough.",
+   "record": "Write the three resting counts, then the pulse for each story. Write whether it changed by more than the resting counts varied, and how sure you are, given that pulse counts are rough.",
    "context": "In this activity you listen to a calm story and an exciting story, and count the pulse during each. It tests whether feelings, and not only movement, change your pulse.",
    "setup": [
     {
@@ -1367,8 +1418,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 15,
-     "do": "Ask the child to sit still and rest for one minute. Read a calm story for two minutes, and then count the pulse for 15 seconds. Rest for two minutes. Read a suspenseful story for two minutes, and count the pulse again in the last 15 seconds.",
+     "mins": 20,
+     "do": "Ask the child to sit still and rest. Count the resting pulse for 15 seconds three times, one minute apart, to see how much it varies on its own. Read a calm story for two minutes, and then count the pulse for 15 seconds. Rest for two minutes. Read a suspenseful story for two minutes, and count the pulse again in the last 15 seconds. A helper holds the child's wrist and counts, so that the child can just listen.",
      "say": "Do you think a scary story could change your pulse even if you sit still? Why do you think so? Listen to the calm story first. Count your pulse in the last 15 seconds.",
      "kid": "Listen to a calm story. Count your pulse. Then listen to an exciting story. Count again.",
      "context": "In this activity you test whether an exciting story changes your pulse.",
@@ -1382,7 +1433,7 @@
        ]
       }
      ],
-     "parent": "The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still.",
+     "parent": "The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still. The three resting counts show the 'noise': if they differ by 2 or 3 beats on their own, a story change of that size means nothing. With 2 to 4 children, work in pairs: one listens, one counts, then swap; all can listen to the same story. One child with a parent: the parent reads and then counts, so read the story in advance and count in the last 15 seconds of reading, or use a recorded story. Use the same position and time for both stories.",
      "check": {
       "t": "mcq",
       "q": "The pulse was a little higher in the exciting story. What is a fair thing to say?",
@@ -1396,7 +1447,8 @@
      }
     }
    ],
-   "mins": 15
+   "mins": 20,
+   "safety": "Choose a story that is exciting but not frightening, with no horror, and stop at once if the child becomes upset or scared. Tell the child it is only a story and that it is fine to say stop."
   }
  ],
  "games": [
@@ -1554,16 +1606,16 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 2,
      "do": "Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
      "say": "These cards show situations in daily life. For each one, you decide whether your pulse and breathing go faster, stay about the same, or go slower. Get your tokens ready.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take one of each token.",
      "context": "This is the first step of the card game. You set up the cards and the tokens.",
-     "parent": "The tokens are Faster, About the same and Slower. Four sets of three are enough for four players. Alone, use one set."
+     "parent": "The tokens are Faster, About the same and Slower. Four sets of three are enough for four players. Alone, use one set. The game needs only paper, scissors and a pen; draw the three words on 12 small squares if you cannot print. A younger child can play with a parent as the reader."
     },
     {
      "id": "s2",
-     "mins": 7,
+     "mins": 6,
      "do": "Play the first eight cards. After each one, read the back aloud and ask what the cells are asking for.",
      "say": "The reader reads the front. Everyone chooses a token and puts it face down. Turn them over together. Then read the back.",
      "kid": "The reader reads a card. Pick a token. Turn it over. Check the back.",
@@ -1582,7 +1634,7 @@
     },
     {
      "id": "s3",
-     "mins": 7,
+     "mins": 6,
      "do": "Play the next eight cards in the same way. Keep score. Ask one child to explain a reason in their own words.",
      "say": "Keep going. After each card, one player explains why in their own words. Keep your score.",
      "kid": "Play the next eight cards. Keep score. Explain one reason in your own words.",
@@ -1591,7 +1643,7 @@
     },
     {
      "id": "s4",
-     "mins": 3,
+     "mins": 6,
      "do": "Play the last eight cards. Add up the scores. Talk about the cards that were hardest.",
      "say": "Last eight cards. Then we count the scores. Which cards surprised you?",
      "kid": "Play the last eight cards. Add up your score. Which cards surprised you?",
@@ -1632,7 +1684,7 @@
      "qty": 1
     },
     {
-     "item": "at least five family members or neighbours of different ages, who agree to join",
+     "item": "at least five family members or neighbours of different ages, who agree to join (a baby, a toddler or a grandparent is a bonus, but any five ages will do; ask on a phone call if needed)",
      "qty": 5
     }
    ],
@@ -1640,12 +1692,12 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Ask each person to sit still for two minutes. Count each pulse for 15 seconds and multiply by 4. Write the age and the pulse."
+     "mins": 30,
+     "what": "Ask each person to sit still for two minutes. Count each pulse for 15 seconds twice, and use the average. Multiply by 4. Write the age and the pulse."
     },
     {
      "day": 2,
-     "mins": 20,
+     "mins": 15,
      "what": "Draw a bar chart of pulse against age. Write what you see. Write one thing you cannot tell from five people."
     }
    ],
@@ -1677,12 +1729,12 @@
     },
     {
      "id": "s2",
-     "mins": 20,
-     "do": "Ask each person to sit still for two minutes. Count each pulse for 15 seconds. Multiply by 4. Write the age and the pulse.",
+     "mins": 25,
+     "do": "Ask each person to sit still for two minutes. Count each pulse for 15 seconds, wait a minute, and count again. Add the two counts and multiply by 2 to get beats per minute. Write the age and the pulse.",
      "say": "Ask each person to sit quietly for two minutes. Then count their pulse for 15 seconds and multiply by 4.",
      "kid": "Ask each person to sit still. Count the pulse for 15 seconds. Multiply by 4.",
      "context": "In this step you measure the resting pulse of each person.",
-     "parent": "Usual resting rates are about 100 to 160 for a newborn, 70 to 110 for a school child, and 60 to 100 for an adult. A person who exercises regularly may be below 60.",
+     "parent": "Usual resting rates are about 100 to 160 for a newborn, 70 to 110 for a school child, and 60 to 100 for an adult. A person who exercises regularly may be below 60. With 2 to 4 children, share the people out, with each child counting their own people while a sibling times; swap for one person to check that two counters agree. A person can count their own pulse while the child times. Use the same time of day for all, and do not count anyone who has just run or eaten a big meal.",
      "check": {
       "t": "mcq",
       "q": "You counted 18 beats in 15 seconds for a grandfather. What is his pulse per minute?",
@@ -1697,7 +1749,7 @@
     },
     {
      "id": "s3",
-     "mins": 20,
+     "mins": 15,
      "do": "Draw a bar chart with the ages along the bottom and the pulse per minute going up. Write what you see. Write one thing you cannot tell from only five people.",
      "say": "Draw a bar for each person. Look at the pattern. Does age change the pulse? What could you not tell from only five people?",
      "kid": "Draw a bar chart. Write the pattern you see. Write what five people cannot tell you.",
@@ -2979,9 +3031,9 @@
   },
   {
    "id": "b-sugar",
-   "item": "A small box of sugar cubes or rock sugar (mishri)",
+   "item": "A small box of plain white sugar cubes",
    "kind": "material",
-   "why": "For the Big Surface test. Rock sugar is sold in most grocery shops.",
+   "why": "For the Big Surface test. Sugar cubes are sold at most grocery shops for about Rs 40 to 80. Rock sugar (mishri) also works but dissolves much more slowly, so the times are longer.",
    "url": "https://www.amazon.in/s?k=sugar+cubes",
    "used_in": [
     "e3"
@@ -2991,7 +3043,7 @@
    "id": "b-magnet",
    "item": "A strong magnet, such as a ceramic or neodymium block",
    "kind": "tool",
-   "why": "For the iron-in-cereal activity. A fridge magnet is usually too weak. A grown-up must keep small strong magnets away from small children.",
+   "why": "For the iron-in-cereal activity. A fridge magnet is too weak, so the magnet must be a strong one, such as a neodymium magnet, which is sold at hardware and electronics shops and online, or one taken from an old loudspeaker. Keep strong magnets away from small children and from phones and cards. If you cannot find one, skip the activity.",
    "url": "https://www.amazon.in/s?k=strong+neodymium+magnet",
    "used_in": [
     "a3"

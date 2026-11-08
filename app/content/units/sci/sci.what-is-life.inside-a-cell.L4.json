@@ -568,7 +568,8 @@
     "The reader turns the card over and reads the room and the reason. A player with the right room scores two points.",
     "A player with a wrong room scores one point if they can say in one sentence what that room really does.",
     "The reader changes after each card. The player with the most points when the pile ends wins.",
-    "You can also play alone. Turn over a card, say your answer aloud, check the back, and count your right answers out of twelve."
+    "You can also play alone. Turn over a card, say your answer aloud, check the back, and count your right answers out of twelve.",
+    "No printer? Write each question and answer on a slip by hand, and write the eight room names on eight scraps for each player. Two players can also share one set of tokens and take turns. A grown-up helps younger children with the scissors."
    ],
    "flow": [
     {
@@ -638,7 +639,7 @@
      "buy": "b-beet"
     },
     {
-     "item": "4 clear glasses or small clear jars, the same size",
+     "item": "4 clear glasses or small clear jars, the same size (thick glass or jam jars, because thin glass can crack with boiling water)",
      "qty": 4
     },
     {
@@ -646,7 +647,7 @@
      "qty": 1
     },
     {
-     "item": "a kettle of hot water (for the grown-up)",
+     "item": "a kettle, or a pan of water just boiled (for the grown-up)",
      "qty": 1
     },
     {
@@ -675,7 +676,7 @@
      "buy": "b-thermo"
     }
    ],
-   "safety": "A grown-up cuts the beetroot and pours the hot water. The hot glass stays on the tray, away from the edge. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass.",
+   "safety": "A grown-up cuts the beetroot and pours the hot water. The hot glass stays on the tray, away from the edge. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass. Nobody touches glass C until it has cooled.",
    "record": "Write a colour score for each glass at 5, 10 and 20 minutes: 0 for clear, 1 for the faintest pink, 3 for clearly pink, 5 for deep red. Write the colour of the cube at the end. Then draw the four glasses with the colours you saw.",
    "context": "In this experiment, you find out what keeps the red colour inside a beetroot. You use cold, warm and hot water, and soap.",
    "setup": [
@@ -737,7 +738,7 @@
      "say": "Here come the cubes. Two in each glass, all at once, so the glasses get the same time. The timer starts now.",
      "kid": "Pour water into each glass. A grown-up pours the hot water. Drop two cubes in each glass. Start the timer.",
      "adult": true,
-     "parent": "Hand-hot means as warm as you can comfortably touch, about 45 degrees. The kettle water is far too hot to touch, so keep glass C on the tray. Stir the soap gently so it does not foam over. If you have a thermometer, write the water temperatures in the table.",
+     "parent": "Hand-hot means as warm as you can comfortably touch, about 45 degrees. The kettle water is far too hot to touch, so keep glass C on the tray. Pour the hot water slowly into glass C, with a steel spoon standing in the glass. Stir the soap gently so it does not foam over. If you have a thermometer, write the water temperatures in the table.",
      "context": "In this step, you fill the four glasses and start the test."
     },
     {
@@ -755,7 +756,7 @@
        ]
       }
      ],
-     "parent": "Hot water should turn red within minutes. Soap is slower, often pinkish after 10 to 20 minutes. Warm water may give a faint pink. Cold water usually stays clear or very faintly pink. If your results differ, write them down as they are. That is a result too.",
+     "parent": "Hot water should turn red within minutes. Soap is usually slower and fainter than heat, and dish soaps differ, so D may be only pinkish at 20 minutes. Warm water may give a faint pink. Cold water usually stays clear or very faintly pink. If even the hot glass stays pale, the beetroot is probably old or has been cooked: use a fresh firm one and thinner cubes. Otherwise, if your results differ, write them down as they are. That is a result too. With two to four children, one child turns the labels away and scores the glasses without knowing which is which, then the others check the labels and compare. If you are alone, a grown-up shuffles the glasses for you. Each child can make a guess for one glass of their own.",
      "wait": "Leave the glasses for 20 minutes in total.",
      "context": "In this step, you watch the glasses and score their colour three times."
     },
@@ -798,7 +799,7 @@
    "days": 1,
    "question": "Can you see DNA with your own eyes if you break open the cells of a banana?",
    "predict": "Before you start, guess. Will you see anything, and what will it look like? Why do you think so?",
-   "fair_test": "Use the same ripe banana for the test glass. As a check, put the same amount of alcohol on a spoon of plain warm water with soap and salt but no banana. If strands appear only where the banana is, the strands came from the banana.",
+   "fair_test": "The test glass holds the banana liquid. The check glass holds plain warm water with soap and salt but no banana, filled to the same depth. Both get the same amount of cold alcohol. If strands appear only where the banana is, the strands came from the banana.",
    "results_table": [
     "Glass",
     "What is in it",
@@ -835,7 +836,7 @@
      "qty": 2
     },
     {
-     "item": "isopropyl rubbing alcohol (90 percent or stronger), chilled in the freezer for at least an hour",
+     "item": "isopropyl alcohol (90 percent or stronger), about 100 millilitres for each glass, chilled in the freezer for at least an hour",
      "qty": 1,
      "buy": "b-alcohol"
     },
@@ -844,7 +845,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up handles the rubbing alcohol. It burns easily, so keep it away from the stove and any flame. It is poisonous, so nobody tastes it or the banana mixture. Wash hands afterwards. Do not leave the glasses where a younger child can reach them.",
+   "safety": "A grown-up handles the rubbing alcohol. It burns easily, so keep it away from the stove and any flame. It is poisonous, so nobody tastes it or the banana mixture. Wash hands afterwards. Do not leave the glasses where a younger child can reach them. Work near an open window, and check that nobody is allergic to banana or strawberry.",
    "record": "Write what you saw at the top layer after 5 minutes, in both glasses. Draw the tall glass with its layers: banana liquid at the bottom, alcohol on top, and the white strands between.",
    "context": "In this experiment, you break open banana cells and pull out the DNA from their nuclei. You use soap, salt and cold alcohol.",
    "setup": [
@@ -858,7 +859,7 @@
     },
     {
      "art": "The banana mixture being poured through a coffee filter into a tall clear glass.",
-     "caption": "3. Strain the mixture through a coffee filter into a tall glass."
+     "caption": "3. Strain the mixture through a coffee filter or a clean cloth into a tall glass."
     },
     {
      "art": "A grown-up pouring cold rubbing alcohol slowly down the side of a tilted glass, making a clear layer on top.",
@@ -895,7 +896,7 @@
      "do": "Mash half a ripe banana with a fork in a bowl until it is smooth like paste. Add half a cup of warm water and a quarter teaspoon of salt. Stir.",
      "say": "Mashing breaks the banana into small pieces, so the soap can reach the cells. The salt will help the DNA clump together later.",
      "kid": "Mash the banana until it is smooth. Add warm water and salt. Stir.",
-     "parent": "Warm water from the tap is fine, not hot. The smoother the paste, the more cells are opened. A ripe banana works best.",
+     "parent": "Warm water from the tap is fine, not hot. The smoother the paste, the more cells are opened. A ripe banana works best. With two to four children, each child can mash a quarter banana in their own cup and make their own glass, and the grown-up pours the alcohol for each. Alone, make one banana glass and one check glass.",
      "context": "In this step, you mash the banana with warm water and salt."
     },
     {
@@ -912,13 +913,13 @@
        ]
       }
      ],
-     "parent": "This connects to the beetroot test. Soap dissolves the fatty membranes of the cells and the nuclei, so the DNA is set free.",
+     "parent": "This connects to the beetroot test. Soap dissolves the fatty membranes of the cells and the nuclei, so the DNA is set free. It helps to stand the cup in a bowl of hot tap water for ten minutes while it sits, but not water that is too hot to touch.",
      "context": "This step breaks open the cells with soap."
     },
     {
      "id": "s4",
      "mins": 6,
-     "do": "Pour the mixture through a coffee filter into a tall glass. Fill the glass about one third full. Pour a second small glass with water, soap and salt but no banana, as a check.",
+     "do": "Pour the mixture through a coffee filter or a clean thin cloth into a tall glass. Fill the glass about one third full. Pour a second small glass with water, soap and salt but no banana, as a check.",
      "say": "The filter catches the lumps. The clear liquid has the DNA in it, but it is too thin to see. We make a check glass with no banana too.",
      "kid": "Strain the mixture into a tall glass. Make a check glass with no banana.",
      "parent": "Squeeze the filter gently, but do not tear it. Make the check glass the same depth as the banana glass.",
@@ -940,7 +941,7 @@
        ]
       }
      ],
-     "parent": "If nothing shows after five minutes, wait five more. If it is still nothing, the alcohol may have been too warm or too weak (70 percent works poorly), or the mixture was stirred too hard. Pour more cold alcohol and try again with a new glass. A clear line with a white cloud on it is success.",
+     "parent": "If nothing shows after five minutes, wait five more. If it is still nothing, the alcohol may have been too warm or too weak (70 percent works poorly), or the mixture was stirred too hard. Pour more cold alcohol and try again with a new glass. A clear line with a white cloud on it is success. Banana gives a modest cloud, not a thick rope, so a few small white threads count. Strawberries give more.",
      "wait": "Leave the glass still for five minutes.",
      "context": "In this step, you add cold alcohol and wait for the DNA."
     },
@@ -987,7 +988,7 @@
      "qty": 2
     },
     {
-     "item": "2 identical steel flasks or small steel dabbas with lids, about 400 millilitres each",
+     "item": "2 identical vacuum (thermos) flasks, wide-mouth if you can, about 400 to 500 millilitres each. A tea or water flask from the kitchen will do. A plain steel dabba loses heat too fast and may show no difference.",
      "qty": 2
     },
     {
@@ -1008,17 +1009,17 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up boils the moong. Do not eat any seeds from the flasks, because the boiled ones can go bad. Wash the flasks afterwards. Keep the flasks in a safe place away from pets.",
+   "safety": "A grown-up boils the moong. Do not eat any seeds from the flasks, because the boiled ones can go bad and smell sour. Wash the flasks well afterwards. Check that nobody is allergic to moong. Hot water and the stove are for the grown-up only. Keep the flasks in a safe place away from pets.",
    "schedule": [
     {
      "day": 1,
      "mins": 6,
-     "what": "Soak 1 cup of moong in water overnight."
+     "what": "Soak 2 cups of moong in plenty of water for 8 hours or overnight."
     },
     {
      "day": 2,
      "mins": 26,
-     "what": "Drain the moong. A grown-up boils one cup for 10 minutes and cools it. Fill both flasks. Take the start temperature."
+     "what": "Drain the moong. A grown-up boils half of it for 10 minutes and cools it. Fill both flasks to the top. Take the start temperature."
     },
     {
      "day": 3,
@@ -1031,15 +1032,15 @@
    "setup": [
     {
      "art": "A bowl of green moong soaking in water on a kitchen counter at night.",
-     "caption": "1. Soak one cup of moong in water overnight."
+     "caption": "1. Soak two cups of moong in water overnight."
     },
     {
      "art": "A pan of boiled moong cooling next to a bowl of soaked, raw moong.",
-     "caption": "2. A grown-up boils one cup of the soaked moong. Let it cool."
+     "caption": "2. A grown-up boils half of the soaked moong. Let it cool."
     },
     {
-     "art": "Two steel flasks side by side, each filled with moong, with a thermometer through the lid of each.",
-     "caption": "3. Fill two flasks to the same level. Put a thermometer in each."
+     "art": "Two steel flasks side by side, each filled with moong, with a probe thermometer pushed into the seeds of each.",
+     "caption": "3. Fill two flasks to the top. Push a thermometer into the seeds of each."
     },
     {
      "art": "Both flasks wrapped in towels and standing in a cardboard box in a quiet corner.",
@@ -1050,7 +1051,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "On the evening before, soak one cup of moong in plenty of water for 8 hours or overnight. Ask for a guess and a reason. Write both down.",
+     "do": "On the evening before, soak two cups of moong in plenty of water for 8 hours or overnight. Ask for a guess and a reason. Write both down.",
      "say": "Seeds are alive. When wet, they wake up. Will a flask of waking seeds be warmer than a flask of boiled seeds? Why do you think so?",
      "kid": "Soak the moong overnight. Guess which flask will be warmer, and why.",
      "ask": [
@@ -1079,10 +1080,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Fill both flasks to the same level with moong. Put a thermometer in each, and press the lid down loosely. Write both starting temperatures. Wrap both flasks in towels and set them in a box in a quiet corner.",
+     "do": "Fill both flasks right to the top with moong. Push a thermometer into the middle of the seeds in each, and set the lid on loosely. Write both starting temperatures. Wrap both flasks in towels and set them in a box in a quiet corner.",
      "say": "Same container, same amount, same towel, same corner. What are the temperatures now? Write them down.",
      "kid": "Fill both flasks. Put in thermometers. Write the starting temperatures. Wrap them in towels.",
-     "parent": "Keep the lids loose, because the sprouts make carbon dioxide. If you only have one thermometer, read one flask and then the other, with no delay. The start temperatures should be within half a degree of each other.",
+     "parent": "Keep the lids loose, because the sprouts make carbon dioxide. A full flask has little air to carry the heat away. If the thermometer cannot stay in with the lid on, read the start temperature, close the flask, and read it again at the end by opening the lid and pushing the thermometer in at once. With two to four children, each child owns one job: filler, thermometer reader, writer and timekeeper, and swaps for the next reading. Everyone makes a guess first. If you only have one thermometer, read one flask and then the other, with no delay. The start temperatures should be within half a degree of each other.",
      "context": "In this step, you fill and wrap the flasks, and take the first temperatures."
     },
     {
@@ -1095,11 +1096,11 @@
       {
        "q": "Which flask is warmer, and by how much?",
        "good": [
-        "The sprouting one is warmer by a degree or two."
+        "The sprouting one is warmer by about a degree."
        ]
       }
      ],
-     "parent": "A difference of one to three degrees is typical. It could be smaller if your flasks do not hold heat well. If both flasks warmed, the boiled seeds may carry microbes that also make heat. That is a real effect, so say so. If the difference is nothing, say so and try again with more seeds in a better flask.",
+     "parent": "In a good vacuum flask, the sprouts are typically warmer by about half a degree to two degrees. Seeds make only a little heat, so in a plain dabba the difference may be too small to see, or nothing. If both flasks warmed, the boiled seeds may carry microbes that also make heat. That is a real effect, so say so. If the difference is nothing, say so and try again with more seeds in a better flask.",
      "wait": "Leave the flasks overnight.",
      "context": "In this step, you measure the flasks the next morning."
     },
@@ -1109,7 +1110,7 @@
      "do": "Ask your child to say what they thought, what they saw and why. Then explain. Pour the seeds into the compost or bin.",
      "say": "Tell me three things. What did you think? What did you see? Why do you think it happened?",
      "kid": "Say what you thought, what you saw, and why.",
-     "parent": "Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this. It is the same reason you warm up when you run.",
+     "parent": "Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this, though germs in them can make a little heat too, so the difference is small. It is the same reason you warm up when you run.",
      "think": "Where did the heat come from, if nobody lit a fire?",
      "check": {
       "t": "mcq",
@@ -1152,6 +1153,7 @@
      "qty": 2
     }
    ],
+   "safety": "Dry grains are small. Keep them away from toddlers, and nobody puts them in the mouth, nose or ears. If a child is allergic to any pulse, use coloured paper bits or beads instead.",
    "record": "Draw the recipe dots, the messenger copy, and the necklace you built each time. Write what changed when the dots changed.",
    "context": "In this activity, you act out how a cell copies a recipe from her DNA and builds a protein, using coloured dots and four kinds of grain.",
    "setup": [
@@ -1201,7 +1203,7 @@
      "do": "At the ribosome plate, read the note two dots at a time. Use the code to pick a grain for each pair. Line up the grains in order.",
      "say": "You are the ribosome now. Read two dots, pick a grain. What is your necklace? It should have four grains.",
      "kid": "Read two dots. Pick a grain. Do it four times. Line them up.",
-     "parent": "The right answer is chana, rajma, rice, moong. Check the pairs RR, BY, YR and BB against the code.",
+     "parent": "The right answer is chana, rajma, rice, moong. Check the pairs RR, BY, YR and BB against the code. With two to four children, one guards the book on the nucleus plate, one copies the note, and one is the ribosome. Swap parts, and let the guard draw a new strip of eight dots for the next round. Alone, play all three parts and let a grown-up draw the new strip.",
      "context": "In this step, you act as the ribosome and build the protein."
     },
     {
@@ -1242,7 +1244,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "5 small slips of paper and a pencil",
+     "item": "5 small slips of paper and a pencil (a set for each child)",
      "qty": 5
     },
     {
@@ -1287,14 +1289,14 @@
        ]
       }
      ],
-     "parent": "Do not correct. Any order with a reason is a good start.",
+     "parent": "Do not correct. Any order with a reason is a good start. With more than one child, each lays out their own row first. Compare the rows before you show the true order.",
      "context": "This is the first step of Power Cards. You guess the order and give reasons."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Show the true order. A red blood cell has none. A sperm cell has about 50 to 75, packed in a spiral behind the head. A liver cell has about 1,000 to 2,000. A heart muscle cell has thousands. An egg cell has about 100,000 or more. Move the slips into this order.",
-     "say": "Here is the true order. Which one surprised you? The egg cell is the biggest of the cells, and she has the most.",
+     "say": "Here is the true order. Which one surprised you? The egg cell is the biggest cell in the human body, and she has the most.",
      "kid": "Move the slips into the true order. Which one surprised you?",
      "parent": "Numbers vary from cell to cell and from person to person, so say 'about'. The egg is surprising. After fertilisation she divides many times using her own mitochondria, so she carries most of what the first cells of a baby will need. The sperm cell's mitochondria sit in a tight spiral behind the head and power her swimming.",
      "context": "In this step, you check your order against the true order."
@@ -1302,10 +1304,10 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each.",
+     "do": "Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each. Then work out roughly how many liver cells an egg cell equals in mitochondria, using about 100,000 and about 1,000.",
      "say": "A red blood cell carries oxygen and keeps none for herself. Why would that help? And why does the heart cell have thousands?",
      "kid": "Why does a red blood cell have none? Why does a heart cell have many?",
-     "parent": "A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells.",
+     "parent": "A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. The sum is 100,000 divided by 1,000, so about 100 liver cells. Say about, because the counts vary.",
      "think": "If you trained for a race, would your muscle cells grow more mitochondria? Why?",
      "context": "This step asks why the numbers differ."
     }
@@ -1346,10 +1348,10 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. Write each name and place. Draw a small bean-shaped mitochondrion beside each person.",
+     "do": "Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. Write each name and place. Draw a small bean-shaped mitochondrion beside each person. If you can, ask an elder where each woman was born, and mark the places on a rough sketch map of India.",
      "say": "Your mitochondria came mostly from your mother's egg. Hers came from her mother. Let us draw the line. How far back can we go?",
      "kid": "Draw yourself. Draw your mother above you. Add her mother. Go as far as you can.",
-     "parent": "If your family has adoption, loss or an unknown line, draw the line you know and stop there. That is part of the picture. Fathers and mothers both give DNA to the nucleus, but in most animals the mitochondria come from the egg.",
+     "parent": "If your family has adoption, loss or an unknown line, draw the line you know and stop there. That is part of the picture. Siblings share one mother-line, so they draw it together and each asks a different elder. Friends who are not related each draw their own and compare. Fathers and mothers both give DNA to the nucleus, but in most animals the mitochondria come from the egg.",
      "context": "This is the first step of the Mother-Line Map. You draw the line of mothers."
     },
     {
@@ -1394,7 +1396,7 @@
      "qty": 1
     },
     {
-     "item": "atta dough or clay in five colours",
+     "item": "atta dough (colour it with turmeric, beetroot juice, spinach paste or a few drops of food colour) or modelling clay from a stationery shop, in five colours",
      "qty": 1
     },
     {
@@ -1419,7 +1421,7 @@
      "qty": 1
     }
    ],
-   "safety": "Dough is safe to touch. Do not eat the dough with the lentils mixed in. Keep toothpicks away from small children.",
+   "safety": "Dough is safe to touch. Do not eat the dough with the lentils mixed in. Wheat and sesame are common allergens, so use clay and lentils instead if anyone is allergic. Dry lentils and toothpicks are for older children only, and keep them away from toddlers.",
    "schedule": [
     {
      "day": 1,
@@ -1459,7 +1461,7 @@
      "do": "Press a rope of dough around the rim of the tray for the membrane. Make a round nucleus and poke holes in it. Make five bean-shaped mitochondria. Make two small green ovals for chloroplasts if you build a plant cell.",
      "say": "We are building a cell on a tray. The rope is the membrane. The ball with holes is the nucleus. The beans are mitochondria. What else will she need?",
      "kid": "Make a dough rope for the membrane. Make a nucleus with holes. Make bean mitochondria.",
-     "parent": "Leave space for the rooms to be crowded. The picture is meant to be packed.",
+     "parent": "Leave space for the rooms to be crowded. The picture is meant to be packed. Keep atta dough rooms in a closed box or under a damp cloth overnight, or they dry and crack. With two to four children, share one tray: each child makes some of the rooms, and on day two each takes a turn walking a protein through and saying what happens. Alone, expect the whole job to take the full hour.",
      "context": "This is the first step of Cell City. You make the big rooms."
     },
     {
@@ -1494,7 +1496,7 @@
      "do": "Ask your child to write three things the model gets wrong. For example, it stays still, it has a flat floor, and it shows only a few rooms. Look at the tray and compare.",
      "say": "Our model sits still. A real cell never does. What else is different? Write three things the model gets wrong.",
      "kid": "Write three things the model gets wrong. Is there a boss in the city?",
-     "parent": "Good answers: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. The real cell is only about ten micrometres wide.",
+     "parent": "Good answers: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.",
      "context": "This is the last step of Cell City. You say where the model fails."
     }
    ]
@@ -1526,7 +1528,7 @@
    "creative": [
     "A cell for a bird that flies over the Himalaya, such as the bar-headed goose: more mitochondria stickers than a runner, and a note on why.",
     "A cell for a cave animal with no light and very little food: very few mitochondria, and a reason.",
-    "A cell with no nucleus, like a red blood cell, with only room for oxygen: no stickers at all, and a note on how long she can live."
+    "A cell with no nucleus, like a red blood cell, with only room for oxygen: none of the six kinds of sticker, and a note on what she carries and how long she can live (about four months)."
    ],
    "your_turn": "Pick a job from your own day: a cell in your eye, your tongue, your hair root or your bone. Share out twenty stickers and explain each choice. Then ask someone else to guess the job from your stickers alone.",
    "context": "This is a design challenge about the rooms of a cell. You share out twenty stickers for a given job.",
@@ -2390,7 +2392,7 @@
    "id": "b-beet",
    "item": "Fresh raw beetroot, one or two",
    "kind": "material",
-   "why": "For the beetroot test. Fresh and firm works best. Cooked or tinned beetroot will not do.",
+   "why": "For the beetroot test. Any vegetable seller or kirana has it. Fresh and firm works best. Cooked or tinned beetroot will not do.",
    "url": "https://www.amazon.in/s?k=beetroot",
    "used_in": [
     "e1"
@@ -2400,7 +2402,7 @@
    "id": "b-thermo",
    "item": "A digital thermometer with a probe",
    "kind": "tool",
-   "why": "For the sprout heat test. It can also read the temperature of water and milk later.",
+   "why": "For the sprout heat test, which needs to read a difference of half a degree. A digital probe thermometer costs a few hundred rupees. A glass lab thermometer from a stationery or science shop also works, but is harder to read to half a degree. A fever thermometer will not do, because it does not read room temperature.",
    "url": "https://www.amazon.in/s?k=digital+probe+thermometer",
    "used_in": [
     "e1",
@@ -2411,7 +2413,7 @@
    "id": "b-alcohol",
    "item": "Isopropyl rubbing alcohol, 90 percent or stronger",
    "kind": "material",
-   "why": "For the DNA test. A stronger alcohol gives a clearer result. A grown-up must handle it.",
+   "why": "For the DNA test. Ask a chemist or order online for isopropyl alcohol of 90 percent or more (often sold as IPA 99). The 70 percent rubbing alcohol gives few or no strands. About 100 millilitres is enough for each glass. A grown-up must handle it.",
    "url": "https://www.amazon.in/s?k=isopropyl+alcohol+99",
    "used_in": [
     "e2"

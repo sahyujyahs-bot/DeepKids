@@ -642,7 +642,7 @@
       "rules": [
         "Cut out the 13 visitor cards and the 4 gate signs: PASS, HELPER, PUMP and BLOCK. Cut out the 5 energy tokens. Put the tokens in the middle.",
         "PASS means the visitor slips through the skin with no help. HELPER means a carrier protein passes the visitor across. PUMP means the cell uses 1 energy to push the visitor across. BLOCK means the visitor cannot get through.",
-        "One player is the gatekeeper. The reader reads the front of a visitor card. The gatekeeper puts one gate sign face down.",
+        "One player is the gatekeeper. The reader reads the front of a visitor card. The gatekeeper puts one gate sign face down. With 3 or 4 players, the others may whisper advice to the gatekeeper, but only the gatekeeper places the sign.",
         "The reader turns the card over. If the sign matches the back, the cell scores a point. If the sign was wrong, the cell loses 1 energy token. A correct PUMP also costs 1 energy token.",
         "If the energy tokens run out, the cell has stopped working and the game ends. If all 13 cards are played with energy left, the cell wins.",
         "Take turns being the gatekeeper after every four cards. Playing alone: you are the gatekeeper for every card."
@@ -1410,9 +1410,13 @@
         {
           "item": "a plate or lid to cover the jar loosely, and a notebook",
           "qty": 1
+        },
+        {
+          "item": "a second small jar for a comparison (optional)",
+          "qty": 1
         }
       ],
-      "safety": "A grown-up boils the water. Do not drink or taste the pond water. Wash your hands after touching the jar.",
+      "safety": "A grown-up boils the water. Do not drink or taste the pond water. Wash your hands after touching the jar. Keep the jar covered so mosquitoes cannot lay eggs in it, and throw the water down a drain at the end.",
       "record": "Draw the jar on days 1, 3, 5 and 7. Write how cloudy the water is, what it smells like, and what you see in the torch beam.",
       "context": "In this project you grow a small pond in a jar and look for single-celled living things over a week. You may see only cloudy water and tiny moving specks. A microscope would be needed to see their shapes.",
       "schedule": [
@@ -1469,7 +1473,7 @@
               ]
             }
           ],
-          "parent": "If you have no pond or puddle, use a teaspoon of water from a flower vase or the saucer of a pot plant. Single-celled living things often arrive on the grass itself as resting cells. Do not use a tight lid, because the microbes need air.",
+          "parent": "If you have no pond or puddle, use a teaspoon of water from a flower vase or the saucer of a pot plant. Single-celled living things often arrive on the grass itself as resting cells. Do not use a tight lid, because the microbes need air. A few grains of uncooked rice also work in place of grass. For a fair comparison, set up a second jar with grass but no pond or vase water, and see which one turns cloudy. With 2-4 children, each child can start a jar with water from a different place (vase, puddle, plant saucer) and compare; one child alone can use one jar.",
           "context": "This is the first step of the Hay Pond. You start the pond."
         },
         {
@@ -1497,7 +1501,7 @@
               ]
             }
           ],
-          "parent": "Larger single cells such as paramecia are about two tenths of a millimetre long, so you may see them as moving white specks in a torch beam. You will not see their shape without a microscope. If you see nothing, wait two more days. Many jars show only cloudiness, and that is still a good result. A clip-on phone microscope or a Foldscope would show more.",
+          "parent": "Larger single cells such as paramecia are about two tenths of a millimetre long, so you may see them as moving white specks in a torch beam. You will not see their shape without a microscope. If you see nothing, wait up to five more days; hay jars often take 5 to 10 days. A phone camera held against the glass, with the torch behind the jar, helps most. Many jars show only cloudiness, and that is still a good result. A clip-on phone microscope or a Foldscope would show more.",
           "context": "In this step you look for single-celled swimmers. They may be too small to see well."
         },
         {
@@ -1618,11 +1622,11 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "A grown-up cuts six strips from one potato, each 1 centimetre wide and 6 centimetres long. Put 200 millilitres of water in each cup. Stir 1 teaspoon of salt into B and 4 teaspoons into C. Stir C for a full minute. Label the cups.",
+          "do": "A grown-up cuts six strips from one potato, each 1 centimetre wide and 6 centimetres long. Cut them thin, about 5 millimetres. Put 200 millilitres of water in each cup. Stir 1 teaspoon of salt into B and 4 teaspoons into C. Stir C for a full minute. Label the cups.",
           "say": "Pour 200 millilitres of water into each cup. Stir one level teaspoon of salt into B. Stir four teaspoons into C. Stir C until you cannot see any salt. Write A, B and C on the labels.",
           "kid": "Pour water into three cups. Stir 1 spoon of salt into B. Stir 4 spoons into C.",
           "adult": true,
-          "parent": "Cut the strips about the same size, because thick strips stay stiff longer. Four teaspoons dissolve in 200 millilitres if you stir for a minute. Leave cup A with no salt, because it is the control.",
+          "parent": "Cut the strips about the same size, because thick strips stay stiff longer. Any cups that hold 200 millilitres will do, not only steel ones. With 2-4 children, give each child one cup to look after and measure, with one child as timer and one as recorder. One child alone does all three cups. Four teaspoons dissolve in 200 millilitres if you stir for a minute. Leave cup A with no salt, because it is the control.",
           "check": {
             "t": "mcq",
             "q": "Why does cup A get no salt?",
@@ -1642,7 +1646,7 @@
           "do": "Pinch one strip about 1 centimetre from its end and hold it flat, with the rest sticking out sideways. Hold a ruler upright by the free tip. Read how far the tip hangs down in millimetres. Do this for all six strips. Write the numbers. Put two strips in each cup. Start the timer.",
           "say": "Pinch a strip near one end and hold it flat. Read how far the tip droops, in millimetres. Do all six strips. Then put two strips in each cup and start the timer.",
           "kid": "Pinch a strip. Measure how far the tip droops. Then put two in each cup.",
-          "parent": "A fresh potato strip hardly droops at all, so the numbers at the start are usually 0 to 3 millimetres. Measure the same way every time, with the same length of strip sticking out.",
+          "parent": "A fresh potato strip hardly droops at all, so the numbers at the start are typically 0 to 3 millimetres. Measure the same way every time, with the same length of strip sticking out.",
           "check": {
             "t": "mcq",
             "q": "Why do we measure the strips before they go in the cups?",
@@ -1673,7 +1677,7 @@
               ]
             }
           ],
-          "parent": "Usually the strip in A stays stiff, B droops a little, and C droops a lot and feels rubbery by 40 minutes. If all three are still stiff, check that the salt in C really dissolved, and leave the strips for an hour more. A strip in plain water may feel even firmer than at the start. That is also a result.",
+          "parent": "Typically the strip in A stays stiff, B droops a little, and C droops a lot and feels rubbery by 40 minutes. If all three are still stiff, check that the salt in C really dissolved, and leave the strips for an hour more. A strip in plain water may feel even firmer than at the start. That is also a result.",
           "check": {
             "t": "mcq",
             "q": "After 40 minutes the strip in cup C droops much more than the strip in cup A. What does this show?",
@@ -1715,7 +1719,7 @@
       ],
       "materials": [
         {
-          "item": "1 raw hen's egg, not cracked",
+          "item": "1 raw hen's egg, not cracked (buy 2, in case one skin tears)",
           "qty": 1
         },
         {
@@ -1731,7 +1735,7 @@
           "qty": 1
         },
         {
-          "item": "honey, or thick sugar syrup made from half a cup of sugar dissolved in a quarter cup of hot water and cooled",
+          "item": "about 1 cup of honey (one small bottle), or thick sugar syrup made from 1 cup of sugar dissolved in half a cup of hot water and cooled",
           "qty": 1
         },
         {
@@ -1739,7 +1743,7 @@
           "qty": 1
         }
       ],
-      "safety": "Handle the raw egg gently over a bowl, because it breaks easily. Do not eat the egg or taste the liquids. Wash your hands after touching the egg. If your family does not handle raw egg, skip this and do the Potato Strips and Raisin Swell tests instead.",
+      "safety": "Handle the raw egg gently over a bowl, because it breaks easily. Do not eat the egg or taste the liquids. Wash your hands after touching the egg. If your family does not handle raw egg, skip this and do the Potato Strips and Raisin Swell tests instead. Raw egg can carry germs, so wash hands and the bowl with soap after touching it.",
       "record": "Write the distance around the egg on days 3, 4 and 5, and what it looks and feels like. Draw the egg at each stage.",
       "context": "In this experiment you dissolve the shell of a raw egg and watch the thin skin that is left. The skin lets water through like the skin of a cell, so the egg swells or shrinks.",
       "schedule": [
@@ -1805,7 +1809,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. The vinegar is an acid, and the shell is made of calcium carbonate. They react and make carbon dioxide, which is the gas in the bubbles. Cover the jar loosely and keep it out of the sun. If your kitchen is very hot, keep the jar in the fridge.",
+          "parent": "Do not correct the guess. The vinegar is an acid, and the shell is made of calcium carbonate. They react and make carbon dioxide, which is the gas in the bubbles. Cover the jar loosely and keep it out of the sun. If your kitchen is very hot, keep the jar in the fridge, and then the shell may take 3 days. With 2-4 children, give each pair its own egg and jar, so everyone can measure, or share one egg with children taking turns to measure.",
           "context": "This is the first step of the Naked Egg test. You guess, and then you set up the jar."
         },
         {
@@ -1821,7 +1825,7 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "On day 3, lift the egg out with a spoon over a bowl. Rinse it gently under cool water. Rub any left-over bits of shell off with your thumbs. Wrap string around the middle and measure it. Write the number. Put the egg in a jar of plain water.",
+          "do": "On day 3, lift the egg out with a spoon over a bowl. Rinse it gently under cool water. Rub any left-over bits of shell off very gently with your thumbs under the tap. Wrap string around the middle and measure it. Write the number. Put the egg in a jar of plain water.",
           "say": "Rinse the egg gently. Hold it in two hands, over a bowl. Wrap string round the middle and measure it. Then put the egg in plain water.",
           "kid": "Rinse the egg gently. Measure around the middle. Put it in plain water.",
           "adult": true,
@@ -1853,7 +1857,7 @@
         {
           "id": "s4",
           "mins": 10,
-          "do": "On day 4, lift the egg out and measure around the middle. Write the number. Put the egg in a jar and pour honey or thick syrup over it until it is covered.",
+          "do": "On day 4, lift the egg out and measure around the middle. Write the number. Put the egg in a jar and pour honey or thick syrup over it until it is covered. The egg will float, so turn it over every few hours, or press a small plate on top.",
           "say": "Measure around the egg again. What is different? Then move the egg into the honey or syrup jar.",
           "kid": "Measure the egg again. Is it bigger? Put it in honey.",
           "adult": true,
@@ -1867,7 +1871,7 @@
               ]
             }
           ],
-          "parent": "After a day in water, the egg is usually 0.5 to 1.5 centimetres bigger around. It may look pale and clear. If you see no change, the egg may have a tiny crack. Try a new egg.",
+          "parent": "After a day in water, the egg is typically about 0.5 to 1.5 centimetres bigger around, so use a soft string and read it to the nearest half centimetre. It may look pale and clear. If you see no change, the egg may have a tiny crack. Try a new egg.",
           "context": "In this step you measure the egg after a day in plain water, then move it into thick syrup."
         },
         {
@@ -1876,7 +1880,7 @@
           "do": "On day 5, lift the egg out gently and measure around the middle. Look at the skin. Write the number. Ask your child to say what they thought, what they saw and why.",
           "say": "Measure the egg for the last time. Tell me three things. What did you think would happen? What did you see? Why did it happen?",
           "kid": "Measure the egg. Say what you thought, what you saw, and why.",
-          "parent": "The egg in syrup is usually smaller and wrinkled, because water left the egg and went into the thick sugar syrup. After they have said what they saw, explain: water crosses the thin skin in both directions and ends up on the side with more dissolved stuff. In plain water the egg swelled. In syrup it shrank. Wash hands, then throw the egg and the liquids away.",
+          "parent": "After one day the egg in honey is typically smaller and wrinkled, and honey works better than thin syrup, because water left the egg and went into the thick sugar syrup. After they have said what they saw, explain: water crosses the thin skin in both directions and ends up on the side with more dissolved stuff. In plain water the egg swelled. In syrup it shrank. Wash hands, then throw the egg and the liquids away.",
           "think": "A hen's egg is one huge cell. What else in the kitchen is a single cell?",
           "context": "This is the last step of the Naked Egg test. You say what happened and why."
         }
@@ -1920,7 +1924,7 @@
           "what": "Cut the stem ends, stand half the bunch in plain water and half in salt water, and check after 15 and 30 minutes."
         }
       ],
-      "record": "Draw the two bunches at the start and after 30 minutes. Write which one stood up.",
+      "record": "Draw the two bunches at the start and after 30 minutes. Measure with a ruler how high the tallest sprig stands above the cup rim at the start, at 30 minutes and at 60 minutes. Write which bunch stood up.",
       "context": "In this activity you bring a wilted herb back to life with water, and see what salt water does instead. It shows why a plant stands up when her cells are full.",
       "setup": [
         {
@@ -1949,7 +1953,7 @@
         {
           "id": "s2",
           "mins": 25,
-          "do": "A grown-up cuts 1 centimetre off the end of every stem. Split the bunch in two. Stand one half in plain water and one half in salt water. Look at both after 15 minutes and again after 30 minutes. Draw what you see.",
+          "do": "A grown-up cuts 1 centimetre off the end of every stem. Split the bunch in two. Stand one half in plain water and one half in salt water. Look at both after 15, 30 and 60 minutes. Measure how high the tallest sprig stands above the rim each time. Draw what you see.",
           "say": "Cut the stem ends. Put half the bunch in plain water and half in salt water. Look after 15 minutes and again after 30.",
           "kid": "Cut the stems. Put half in plain water, half in salt water. Look after 30 minutes.",
           "adult": true,
@@ -1963,7 +1967,7 @@
               ]
             }
           ],
-          "parent": "Usually the plain-water bunch stands up within 30 to 60 minutes and the salt-water bunch stays limp. Water climbs up the cut stem and moves into the leaf cells. In salt water the cells cannot fill. If neither bunch changes, leave both for an hour. After they have said what they saw, explain: leaf cells are firm when their big vacuoles are full of water. Salty water outside pulls water out of the cells, and plain water lets them fill.",
+          "parent": "Typically the plain-water bunch stands up within 30 to 90 minutes and the salt-water bunch stays limp or gets floppier. Cold water works faster, and so does letting the leaves sit in the water too. With 2-4 children, make four small bunches and let each child watch one, or split into plain and salt teams. Water climbs up the cut stem and moves into the leaf cells. In salt water the cells cannot fill. If neither bunch changes, leave both for two hours. After they have said what they saw, explain: leaf cells are firm when their big vacuoles are full of water. Salty water outside pulls water out of the cells, and plain water lets them fill.",
           "think": "Why do shopkeepers sprinkle water on vegetables, but not salt water?",
           "check": {
             "t": "mcq",
@@ -2055,7 +2059,7 @@
           "do": "Check both katoris every 5 minutes. Write how much ice is left in each. Note the time when each one is fully melted. Ask your child to say what they thought, what they saw and why.",
           "say": "Look every five minutes. When did the crushed ice finish melting? When did the whole cube finish? Why do you think that happened?",
           "kid": "Look every five minutes. Which melts first? Why?",
-          "parent": "In a warm kitchen, crushed ice usually melts in 8 to 15 minutes and the whole cube in 25 to 40. The numbers depend on your kitchen. After they have said what they saw, explain: heat only reaches the ice through its surface. The crushed pieces have much more surface in all, so heat reaches all of the ice faster. A cell takes in food and oxygen through her surface in the same way, which is why cells stay small.",
+          "parent": "The times depend on how warm your kitchen is. Typically the crushed ice melts about two to four times faster than the whole cube. A whole cube may take 15 to 40 minutes, and the crushed ice 5 to 15. With 2-4 children, give one child each job: timer, whole-cube watcher, crushed-ice watcher and recorder. One child alone can do all four. After they have said what they saw, explain: heat only reaches the ice through its surface. The crushed pieces have much more surface in all, so heat reaches all of the ice faster. A cell takes in food and oxygen through her surface in the same way, which is why cells stay small.",
           "think": "If a cell grew as big as a mango, how would food reach the middle?",
           "check": {
             "t": "mcq",
@@ -2103,11 +2107,15 @@
           "qty": 1
         },
         {
-          "item": "1 small zip bag or balloon filled with water for the big vacuole of the plant cell",
+          "item": "1 small zip bag filled with water for the big vacuole of the plant cell",
           "qty": 1
         },
         {
           "item": "toothpicks and paper flags for labels",
+          "qty": 1
+        },
+        {
+          "item": "1 thin plastic sheet or bag to line the box",
           "qty": 1
         }
       ],
@@ -2152,7 +2160,7 @@
           "do": "Build the animal cell first. Spoon curd into a zip bag. Add a dough ball for the nucleus and a few rajma beans for mitochondria. Seal the bag. Then build the plant cell. Put a thin plastic sheet in the box, then curd, a dough ball, peas, beans and the water bag. Press the water bag against one side.",
           "say": "Build the animal cell in a zip bag with curd, a dough ball and beans. Build the plant cell in a box. Add peas and a water bag.",
           "kid": "Build the animal cell in a bag. Build the plant cell in a box.",
-          "parent": "Wash hands before and after, and throw the food away afterwards. Use a katori with cling film if you have no zip bag. The water bag is the big vacuole of the plant cell. In the animal cell you could add a very small water bag for a small vacuole.",
+          "parent": "Wash hands before and after, and throw the food away afterwards. With 2-4 children, each child or pair builds one cell and then compares. One child alone builds both. Use a katori with cling film if you have no zip bag. The water bag is the big vacuole of the plant cell. In the animal cell you could add a very small water bag for a small vacuole.",
           "check": {
             "t": "mcq",
             "q": "Which parts does the plant cell model have that the animal cell model does not?",
@@ -2169,7 +2177,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Add a paper flag to each part. Look at both models. Ask your child what is the same, what is different, and what the plant cell can do that the animal cell cannot.",
+          "do": "Add a paper flag to each part. Look at both models. Ask your child what is the same, what is different, and what the plant cell can do that the animal cell cannot. Then close your eyes while a grown-up hides one part, and name the missing part.",
           "say": "Label every part. What is the same in both cells? What is different? What can the plant cell do that the animal cell cannot?",
           "kid": "Label every part. What is the same? What is different?",
           "ask": [
@@ -2185,7 +2193,8 @@
           "think": "A mushroom cell has a wall but no chloroplasts. How would you change the plant cell model to make a mushroom cell?",
           "context": "In this step you label your models and compare the two cells."
         }
-      ]
+      ],
+      "safety": "Check for allergies to milk, wheat, chickpea and beans before you start. Do not eat any of it, because raw rajma beans make people ill. Keep beans and toothpicks away from small children, who may put them in their mouths."
     },
     {
       "id": "a4",
@@ -2238,7 +2247,7 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Put 6 raisins in each cup. Pour plain water in one and strong salt water in the other. Ask your child to guess what each cup of raisins will look like tomorrow, and why.",
+          "do": "Measure the longest side of 3 raisins from the packet and write the average. Put 6 raisins in each cup. Pour plain water in one and strong salt water in the other. Ask your child to guess what each cup of raisins will look like tomorrow, and why.",
           "say": "Put six raisins in each cup. One cup has plain water. One has strong salt water. What will each look like tomorrow? Why?",
           "kid": "Six raisins in each cup. Plain water in one. Salt water in the other. Guess why.",
           "ask": [
@@ -2250,16 +2259,16 @@
               ]
             }
           ],
-          "parent": "Use the same raisins and the same amount of water in each cup. Measure one raisin's length before you start, if you like.",
+          "parent": "Use the same raisins and the same amount of water in each cup. Soak for 8 to 12 hours. With 2-4 children, each child can have their own two cups.",
           "context": "This is the first step of Raisin Swell. You set up the two cups and guess."
         },
         {
           "id": "s2",
           "mins": 12,
-          "do": "Next morning, take out one raisin from each cup. Look at it, measure it and squeeze it gently. Draw both. Ask your child what they saw and why.",
+          "do": "Next morning, take out 3 raisins from each cup. Look at them, measure the longest side of each, write the average and squeeze them gently. Draw both. Ask your child what they saw and why.",
           "say": "Take one raisin out of each cup. Look, measure and squeeze. Tell me what you thought, what you saw, and why.",
           "kid": "Take a raisin out of each cup. Look. Squeeze. What changed?",
-          "parent": "Raisins in plain water are usually plump and smooth, often close to twice their starting size. Raisins in salt water stay small and wrinkly. After they have said what they saw, explain: a raisin is a dried grape, packed with sugar. Plain water has less dissolved stuff than the raisin's cells, so water moves in. Salt water has as much or more, so little water moves in.",
+          "parent": "Raisins in plain water are typically plump and smooth, often clearly bigger than at the start. Raisins in salt water stay smaller and more wrinkly, although they may swell a little. After they have said what they saw, explain: a raisin is a dried grape, packed with sugar. Plain water has less dissolved stuff than the raisin's cells, so water moves in. Strong salt water has nearly as much, so less water moves in.",
           "think": "Why do we put raisins in warm milk or water before making payasam?",
           "check": {
             "t": "mcq",
@@ -2274,7 +2283,8 @@
           },
           "context": "In this step you compare the raisins. You say what the water did."
         }
-      ]
+      ],
+      "safety": "Do not eat the soaked raisins. Wash your hands afterwards."
     }
   ],
   "videos": [
@@ -2673,14 +2683,16 @@
         "Use only things you have at home.",
         "The filter must be made of a cut plastic bottle with a cloth or paper over the opening.",
         "Test it with the same mix three times.",
-        "Do not taste the mix or the water that comes through."
+        "Do not taste the mix or the water that comes through.",
+        "A grown-up cuts the bottle, and smooths the edge with tape. Keep sand and small grains away from small children's mouths."
       ],
       "materials": [
         "a clean plastic bottle cut in half by a grown-up to make a funnel",
         "a tea strainer, muslin, a clean cotton cloth, a paper towel and a coffee filter or tissue",
         "a tumbler of water with a teaspoon of salt dissolved in it",
         "a pinch of rice, a pinch of sago (sabudana) and a pinch of sand",
-        "a jug or a tall glass to catch the water"
+        "a jug or a tall glass to catch the water",
+        "a rubber band, tape and a ruler or spoon for stirring"
       ],
       "general": [
         "Place a paper towel in the funnel. Pour the mix in. The rice, sago and sand stay on the paper, and the salty water goes through.",
@@ -2751,7 +2763,7 @@
               ]
             }
           ],
-          "parent": "The paper towel stops the sand, rice and sago but is slow. The tea strainer lets fine sand through. Neither stops dissolved salt or turmeric, because they are too small to catch. A real cell skin does stop dissolved salt, with its pumps and channels, and that is the clever part.",
+          "parent": "With 2-4 children, each child tests a different layer and the group compares. The paper towel stops the sand, rice and sago but is slow. The tea strainer lets fine sand through. Neither stops dissolved salt or turmeric, because they are too small to catch. A real cell skin does stop dissolved salt, with its pumps and channels, and that is the clever part.",
           "check": {
             "t": "mcq",
             "q": "Does your filter stop the salt that is dissolved in the water?",
@@ -2809,7 +2821,7 @@
       "id": "b-scope",
       "item": "A pocket microscope or a clip-on phone microscope (60 times)",
       "kind": "tool",
-      "why": "For the Hay Pond. A clip-on lens shows single-celled swimmers much better than a magnifier.",
+      "why": "Optional, about Rs 300 to 600. For the Hay Pond. A clip-on lens shows single-celled swimmers much better than a magnifier, but a phone camera and a torch also work.",
       "url": "https://www.amazon.in/s?k=pocket+microscope+60x",
       "used_in": [
         "p1"
@@ -2819,7 +2831,7 @@
       "id": "b-scale",
       "item": "A digital kitchen scale that reads in grams",
       "kind": "tool",
-      "why": "For weighing the potato strips before and after the Potato Strips test, as an extra measurement.",
+      "why": "Optional. For weighing the potato strips before and after the Potato Strips test, as an extra measurement. The test works with a ruler alone.",
       "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
       "used_in": [
         "e1"

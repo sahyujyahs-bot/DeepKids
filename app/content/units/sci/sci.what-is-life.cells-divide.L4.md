@@ -240,9 +240,9 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 ### g1 · Days, Weeks or Years? The Replacement Race (25 min)
 - **rules:** Hours means the cell divides again in less than a day. Days means a cell is replaced within up to two weeks. Weeks to months means up to about six months. A year or more means the cell lasts that long, or for life.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one time token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the back. Every player whose token matches the first words of the back scores one point.; The reader's job passes to the player on the left after every card. With two players, the parent and the child swap after every card. The reader never guesses on their own card.; Playing alone: put a token face down for each card, turn the card over, and score a point for each correct token. Try to beat your own score next time.; The game ends when all 20 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win.
 - **Printable cards: 20 two-sided cards: a kind of cell on the front, and how long it lasts or how often it divides on the back:** Curd bacteria in warm milk. How long between one division and the next? (back: HOURS. In warm milk a curd bacterium can divide in under an hour. That is why one spoon of curd can set a whole pot overnight.); A yeast cell in warm dough with sugar. How long before she grows a bud? (back: HOURS. A yeast cell can grow and release a bud in about an hour and a half when it is warm and has sugar.); A gut bacterium called E. coli in a warm place with food. How long between divisions? (back: HOURS. Under the best conditions, one E. coli divides about every 20 minutes. Most of the E. coli in a body are harmless.); The cells lining your small gut, which food scrapes all day. (back: DAYS. The lining of the gut is replaced about every 3 to 5 days. Stem cells deep in tiny pits keep making new ones.); The lining of your stomach, which sits in strong acid. (back: DAYS. The stomach lining is replaced in a few days, so the acid does not wear a hole through it.); Taste cells on your tongue. (back: DAYS. A taste cell lasts about 10 days, and then a new one takes her place.); The cells on the inside of your cheek. (back: DAYS. Cheek-lining cells are replaced in about one to two weeks.); A neutrophil, a white blood cell that fights germs. (back: DAYS. Marrow makes huge numbers of neutrophils, and each one lasts only from several hours to a few days.); The clear front window of the eye, called the cornea. How long before the surface cells are new? (back: DAYS. The surface of the cornea is replaced in about a week, which is why small scratches often heal quickly.); The top layer of your skin. (back: WEEKS TO MONTHS. Skin cells take about a month to rise from the bottom of the top layer to the surface, where they flake off.); A red blood cell. (back: WEEKS TO MONTHS. A red blood cell lasts about 4 months. Marrow makes about two million new ones every second.); A fingernail, from the bottom edge to the free tip. (back: WEEKS TO MONTHS. A fingernail takes about 4 to 6 months to grow out from the base to the tip.); A scalp hair, from when it starts growing until it falls out. (back: A YEAR OR MORE. A scalp hair grows for about 2 to 6 years, then rests and falls out. A new hair starts in the same place.); A fat cell. (back: A YEAR OR MORE. Fat cells live about 10 years on average. A body can make them swell or shrink without changing their number much.); The bones of a grown-up's skeleton. (back: A YEAR OR MORE. Bone is taken apart and rebuilt in small patches, so a grown-up's skeleton is renewed about every 10 years.); Liver cells. (back: A YEAR OR MORE. A liver cell lasts about a year. A damaged liver can also regrow much of itself.); Muscle cells of the heart. (back: A YEAR OR MORE. Most heart muscle cells last a whole life. About 1 in 100 are replaced each year in a young adult, and fewer later.); Nerve cells in the thinking part of the brain, called the cortex. (back: A YEAR OR MORE. Almost all of them are as old as you are. They stop dividing around the time of birth.); Cells in the middle of the lens of the eye. (back: A YEAR OR MORE. The cells in the middle of the lens were made before you were born and are never replaced.); Sound-sensing hair cells in the inner ear. (back: A YEAR OR MORE. In people they are not replaced if they are lost, which is why loud noise can harm hearing for life. Birds regrow theirs, and scientists study how.)
-- **Printable tokens: 12 time tokens: three sets of four:** Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more
+- **Printable tokens: 16 time tokens: four sets of four:** Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 20 cards and the 12 tokens. Shuffle the cards and make a pile. Give each player one token of each kind.  
+  *Parent does:* Cut out the 20 cards and the 16 tokens. Shuffle the cards and make a pile. Give each player one token of each kind.  
   *Parent says:* These cards name a kind of cell. Each player gets four tokens. We will guess how long each kind lasts.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Each player takes four tokens.
 - **s2 (8 min)**  
@@ -260,7 +260,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* Last six cards. Then we add up the points and talk about what we learned.  
   *Child mode:* Play the last six cards. Add up your points.
 - **s5 (5 min)**  
-  *Parent does:* Ask your child the questions below. Let them answer in their own words.  
+  *Parent does:* Lay the 20 cards in four rows by time: Hours, Days, Weeks to months, A year or more. Look at which cells are in the first rows. Then ask your child the questions below. Let them answer in their own words.  
   *Parent says:* Look at the cells that last the longest. Why might it be good for a brain cell to last all your life? And why might it be good for a gut cell to be replaced in days?  
   *Child mode:* Which cells last the longest? Which are replaced fastest? Why?
   - Ask: Why might a gut cell be replaced in days? (good: Food scrapes it and the acid wears it.; It gets damaged fast.; It does not store anything.)
@@ -275,12 +275,12 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - **safety:** A grown-up does the cutting, because the scissors are sharp and the root is tiny. Wash hands after handling the sprouts. Do not eat sprouts that smell bad or have fuzzy patches.
 - **record:** Write the length of every root at the start, after one day and after two days. Work out how much each root grew. Find the average for plate A and for plate B. Draw a bar for each plate.
 - **results table:** Plate | Root | Start (mm) | After 1 day (mm) | After 2 days (mm) | Growth in 2 days (mm)
-- **schedule:** day 1: Soak the moong seeds for about 8 hours, then drain them and wrap them in a damp cloth. (5 min); day 2: Guess, set up two plates, measure every root and cut the tips on plate B. (25 min); day 3: Measure every root after one day. (10 min); day 4: Measure every root after two days, find the averages and explain what you saw. (10 min)
+- **schedule:** day 1: In the evening, soak the moong seeds for about 8 hours or overnight, then drain them and wrap them in a damp cloth. (5 min); day 2: Guess, set up two plates, measure every root and cut the tips on plate B. (25 min); day 3: Measure every root after one day. (10 min); day 4: Measure every root after two days, find the averages and explain what you saw. (10 min)
 - **s1 (5 min)**  
-  *Parent does:* Soak 12 moong seeds in water for about 8 hours or overnight. Drain them. Wrap them in a damp cloth in a bowl. Keep them somewhere warm.  
+  *Parent does:* Soak a small handful (about 15) of moong seeds in water for about 8 hours or overnight. Drain them. Wrap them in a damp cloth in a bowl. Keep them somewhere warm.  
   *Parent says:* We will grow some moong sprouts first. Soak the seeds overnight. Tomorrow we wrap them in a damp cloth.  
   *Child mode:* Soak the moong in water overnight. Drain them. Wrap them in a damp cloth.
-  - Note: You need roots between 5 and 15 millimetres. In a warm kitchen this takes about one day after soaking. In cool weather it can take two. Sprinkle the cloth with water twice a day. It should be damp, not dripping.
+  - Note: You need roots between 5 and 15 millimetres. In a warm kitchen this usually takes about a day after soaking; in cool weather it can take two, so start earlier. Sprinkle the cloth with water twice a day. It should be damp, not dripping. Do not worry if a few seeds do not sprout: that is why you soak extra.
 - **s2 (5 min)**  
   *Parent does:* Look at the sprouts with your child. Find the root of each one. Ask for a guess and a reason, and write both down.  
   *Parent says:* Look at these roots. Tomorrow I will cut the tip off some of them. Do you think they will still grow longer? Why do you think so?  
@@ -293,7 +293,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent does:* Pick eight sprouts with straight roots. Label two plates A and B. Lay damp tissue on each. Put four sprouts on each plate, roots pointing the same way. Lay a thread along each root, then measure the thread. Write each length.  
   *Parent says:* Put four sprouts on plate A and four on plate B. Lay the thread along each root. Then measure the thread on the ruler. Write down every length.  
   *Child mode:* Put four sprouts on each plate. Measure each root. Write it down.
-  - Note: Roots curve a little. A thread laid gently along the root and then measured on the ruler gives the real length. Do not pull the roots straight, because that can hurt them. Choose roots that are about the same length on both plates.
+  - Note: Roots curve a little. A thread laid gently along the root and then measured on the ruler gives the real length. Do not pull the roots straight, because that can hurt them. Choose roots that are about the same length on both plates. Four roots per plate is few, and one root may stall, so use five per plate if you have them. With 2 to 4 children, each child sets up their own pair of plates (A and B) and measures their own roots, and at the end everyone adds their numbers together for a class average. With one child, the parent holds the thread and the child reads the ruler.
   - Check: Why do we put sprouts from the same bunch on both plates? → **So the only difference is the cut tip**
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* Wash your hands. A grown-up snips 3 millimetres off the tip of each root on plate B. On plate A, the grown-up only touches each tip with the closed scissors. Cover both plates with damp tissue and a lid. Put them side by side in a warm, dark place.  
@@ -306,14 +306,14 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* It is one day later. Measure every root. Which plate has longer roots? What do you notice about the cut roots?  
   *Child mode:* Measure every root. Write the lengths. Look at the cut roots closely.
   - Ask: What do you notice about the cut roots on plate B? (good: They look shorter.; They have not grown much.; A few have little bumps on the side.)
-  - Note: Roots on plate A usually grow 10 to 25 millimetres in a day when the weather is warm. Roots on plate B usually grow 0 to 5 millimetres. The part just behind the cut can still stretch a little on the first day. If all roots on both plates grew the same, check that you cut across the tip and not just the seed side. If you see white fuzz, rinse the tissue and use fresh tissue.
+  - Note: Typical numbers, not promises: in warm weather uncut roots on plate A often grow about 10 to 25 millimetres in a day, and cut roots on plate B often grow only a few millimetres (about 0 to 8). The part just behind the cut can still stretch a little on the first day. If all roots on both plates grew the same, check that you cut across the tip and not just the seed side. In cool weather every root grows less, so compare plate with plate, not with these numbers. If you see white fuzz, rinse the tissue and use fresh tissue.
   - Check: After one day, the roots on plate A grew a lot and the roots on plate B grew very little. What does this suggest? → **The tip is where the root gets longer**
   - Wait: Wait one day after cutting.
 - **s6 (10 min)**  
   *Parent does:* After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Measure again. Find the average for each plate. Draw two bars. Say what you thought, what you saw and why.
-  - Note: A strong answer says that roots with the tip cut off grew much less, that the tip is where cells divide, and that the part behind the tip is finished. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.
+  - Note: A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.
   - Think: A farmer's goat nibbles the very tips of a row of young roots. What would you expect to happen to the roots?
   - Wait: Wait one more day.
 ### e2 · Dots on a Root: how far does the growing zone reach? (35 min, 2 days)
@@ -329,9 +329,9 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* We will put six dots along a root, two millimetres apart. Tomorrow the root will be longer. Will all the gaps grow wider? Or only some? Why do you think so?  
   *Child mode:* We will put six dots on a root. Will all the gaps grow wider? Why?
   - Ask: Which gap do you think will grow the most? (good: The one at the tip.; The one nearest the seed.; All the same.)
-  - Note: Do not correct the guess. If your child did Cut the Tip, they may guess that the gap nearest the tip grows most. Ask why they think so.
+  - Note: Do not correct the guess. If your child did Cut the Tip, they may guess that the gap nearest the tip grows most. Ask why they think so. With 2 to 4 children, each child marks one root and measures it, and the group compares roots. With one child, the parent dries the roots and the child makes the dots.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* Dry one root gently with tissue. Lay it next to the marked card with the tip at zero. Touch a fine pen to the root at 1, 3, 5, 7, 9 and 11 millimetres. Make small dots. Do the same for two roots. Leave one root without dots.  
+  *Parent does:* Dry one root gently with tissue. Lay it next to the marked card with the tip at zero. Touch a fine pen to the root at 1, 3, 5, 7, 9 and 11 millimetres. Make small dots. Do the same for two more roots. Leave the fourth root without dots, to check that the dots do not stop the growing.  
   *Parent says:* Dry the root with tissue first. Lay the tip at zero on the card. Touch the pen very lightly at each mark. Make small dots, not lines.  
   *Child mode:* Dry the root. Lay it on the card. Make six small dots with the pen.
   - Note: This is the fussy step. A wet root does not hold ink. Dab dry, mark in a second, then put it straight back on damp tissue. If the dots smear or fade, use a toothpick dipped in kajal and touch it to the root. If a root breaks, set it aside and use another.
@@ -344,7 +344,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent does:* After one day, measure each gap between the dots. Start at the tip and go backward. Write the gaps in the table. Work out how much each gap changed. Draw a bar for each gap. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Measure each gap, starting at the tip. Which gaps grew? Which stayed the same? Why do you think the growing happened where it did?  
   *Child mode:* Measure each gap from the tip back. Which gaps grew? Which stayed the same?
-  - Note: Typical results: the first one or two gaps next to the tip grow the most. The next gaps grow a little. Gaps past about 1 centimetre hardly change. Dots may fade, so measure the same day. If the dots washed off, say so, and try again with kajal. A fuzzy result is still a result.
+  - Note: Typical results, not promises: the first one or two gaps next to the tip grow the most. The next gaps grow a little. Gaps more than about 1 centimetre from the tip hardly change. Dots are tiny, so use a magnifier, or measure how far each dot is from the tip and subtract one number from the next. Dots may fade, so measure the same day. Compare the total growth of the unmarked root with a marked one: they should be about the same. If the dots washed off or the roots dried out, say so, and try again with kajal and a fresh root. A fuzzy result is still a result.
   - Check: The gaps nearest the tip grew wider, and the gaps far from the tip stayed the same. What does this show? → **Only a short zone near the tip lengthens**
 
 ## Activities
@@ -361,12 +361,12 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* Fold in half. Open it. Count the boxes. Write the number. Fold again and count again.  
   *Child mode:* Fold. Open. Count the boxes. Write the number. Do it up to six folds.
   - Ask: What pattern do you see in the numbers? (good: Each number is double the one before.; 1, 2, 4, 8, 16, 32, 64.; It grows faster each time.)
-  - Note: After 6 folds there are 64 boxes. A seventh fold is nearly impossible by hand. That is a good moment to talk about how a real cell does not need to fold anything: she divides again and again with no limit from paper.
+  - Note: After 6 folds there are 64 boxes. A seventh fold is nearly impossible by hand. That is a good moment to talk about how a real cell does not need to fold anything: she divides again and again with no limit from paper. With 2 to 4 children, each child folds a sheet and a different child writes down the table, then compare: does everyone get the same numbers?
 - **s3 (10 min)**  
   *Parent does:* Use the pattern to fill in a second table. 10 doublings give 1,024. 20 doublings give 1,048,576. 30 doublings give about 1,073 million. 45 doublings give about 35 trillion. Say that a body has about 30 to 40 trillion cells. Ask for a reason that the number grows so fast.  
   *Parent says:* Ten doublings give 1,024. Twenty give about one million. Thirty give about one billion. Forty-five give about thirty-five trillion. That is close to the number of cells in a body.  
   *Child mode:* Ten doublings make 1,024. Forty-five doublings make about 35 trillion. That is a whole body!
-  - Note: In a real body cells also die and are replaced, so the total number of divisions across a life is much bigger than 45. 45 rounds is the least that would reach the number.
+  - Note: Compare with real cells. A bacterium that divided every 20 minutes without stopping would have about a billion descendants after 10 hours (30 doublings). In real life food and space run out long before that.
   - Check: About how many doublings of one cell would it take to reach 35 trillion cells? → **About 45**
   - Think: A body takes at least 45 doublings from one cell. Why do you think it takes many more divisions in real life?
 ### a2 · Copy Machine: can you copy a long code without a mistake? (25 min)
@@ -381,7 +381,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* Copy the code. You have two minutes. Now I will check every letter. Let us count the mistakes.  
   *Child mode:* Copy the code in two minutes. Your helper checks it. Count the mistakes.
   - Ask: Were the mistakes near the start, middle or end? (good: Near the end, when I got tired.; When letters were repeated.; I made none.)
-  - Note: Some children make no mistake in 40 letters. If so, make a longer code of 120 letters and try again. Repeated letters like GG and TT are where mistakes happen most.
+  - Note: Some children make no mistake in 40 letters. If so, make a longer code of 120 letters and try again. Repeated letters like GG and TT are where mistakes happen most. With 2 to 4 children, everyone copies the same code at the same time, then swap papers and check each other's copy. Compare who made the fewest mistakes and where.
 - **s3 (5 min)**  
   *Parent does:* Your child now copies the code again, in a new line, and reads each letter aloud while checking against the original. Compare again and count mistakes.  
   *Parent says:* Now copy again. This time check each letter with the original before you write the next. How many mistakes now?  
@@ -394,23 +394,24 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   - Note: This is the idea Watson and Crick suggested in 1953. They used the X-ray pictures taken by Rosalind Franklin and her student Raymond Gosling, and some of Franklin's data was shown to Watson without her knowing. A cell copies about 6 billion letters each time she divides, and makes only a handful of mistakes.
   - Think: If each side of the ladder can rebuild the other, why does the cell unzip the ladder before copying?
 ### a3 · Skin Flakes: catch some of your own cells (15 min)
-- **safety:** Use clean, unbroken skin only. Do not tape over sore, red or cut skin. Peel the tape off slowly. Stop if the skin hurts.
+- **safety:** Use clean, unbroken skin only. Do not tape over sore, red, rashy or cut skin, or over thick hair. Peel the tape off slowly. Stop if the skin hurts.
 - **record:** Draw what you see under the tape. Write which place on your body gave the most flakes.
 - **s1 (5 min)**  
-  *Parent does:* Choose three places, such as the back of the hand, the forearm and the heel. Ask your child to guess which one will give the most skin flakes.  
+  *Parent does:* Choose three places, such as the back of the hand, the forearm and the heel. Ask your child to guess which one will give the most skin flakes. Plan to score each strip from 0 (clear) to 3 (very cloudy).  
   *Parent says:* We will lift some skin from three places. Which place do you think will give the most? Why?  
   *Child mode:* Pick three places on your skin. Which will give the most flakes? Why?
   - Note: The heel and elbow often give the most because they are thick and dry. Do not use any place with a rash or sore.
 - **s2 (10 min)**  
-  *Parent does:* For each place, press a strip of tape on the skin and rub it lightly for 5 seconds. Peel it off slowly. Stick it on black paper. Write the place under each strip. Look at each strip, with a magnifier if you have one.  
+  *Parent does:* For each place, press a strip of tape on the skin and rub it lightly for 5 seconds. Peel it off slowly. Stick it on black paper. Write the place under each strip. Then press a second, fresh strip on the exact same spot and do the same. Score every strip from 0 to 3 for cloudiness, with a magnifier if you have one.  
   *Parent says:* Press the tape on your skin. Rub it. Peel it off slowly. Stick it on black paper. What do you see on the tape?  
   *Child mode:* Press tape on your skin. Peel it off slowly. Stick it on black paper.
   - Ask: What do you think those flakes are? (good: Dead skin.; Pieces of the top of my skin.; Dust.)
   - Ask: Do you think those cells were alive? (good: No, they were already finished.; The top layer is dead cells.)
-  - Note: You will not see single cells. You will see a cloudy or whitish patch and small flakes. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. The top layer of skin is made of dead cells, and new cells keep pushing up from below. Scientists estimate that a person loses tens of thousands of dead skin cells every minute.
+  - Note: You will not see single cells. You will see a cloudy or whitish patch and small flakes, mixed with a few hairs and specks of dust. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. Dry places such as the heel, elbow or shin show the most. If you see almost nothing on soft or oily skin, that is normal: try a drier place and rub for 10 seconds. The second strip on the same spot usually shows less, because the first strip already took the loosest flakes. The top layer of skin is made of dead cells, and new cells keep pushing up from below. Scientists estimate that a person loses roughly 30,000 to 40,000 dead skin cells every minute. With 2 to 4 children, each child tapes their own arm and compares scores.
   - Check: The flakes on the tape are mostly... → **Dead cells from the top of the skin**
   - Think: If your top skin is replaced about every month, where do the new cells come from?
 ### a4 · Paper Chromosomes: act out how one cell becomes two (25 min)
+- **safety:** Use blunt child scissors, or let a grown-up cut the strips. Keep tape and rubber bands away from the mouth.
 - **record:** Draw the four steps of mitosis in order. Write a sentence under each one.
 - **s1 (5 min)**  
   *Parent does:* Cut six strips: two red, two blue and two green. Lay them in a large circle drawn on paper. Say that the strips are chromosomes, and that this is one cell. Each colour is a pair.  
@@ -431,12 +432,12 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* Now pull each X apart. One half goes in each bowl. Count the strips. Then try a mistake. Put both green halves in the same bowl. What goes wrong?  
   *Child mode:* Pull each X apart. One half goes to each bowl. Count the strips in each bowl.
   - Ask: What goes wrong if both green halves go to one bowl? (good: One cell has too many, and one has none.; One cell is missing a green chromosome.; The cells would not be the same.)
-  - Note: A correct split puts 6 strips in each bowl, with one of each colour pair. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare.
+  - Note: A correct split puts 6 strips in each bowl, with one of each colour pair. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare. With 2 to 4 children, give each child one colour pair to pull apart, and let one child hold each bowl.
   - Think: Which would be worse for a cell: one chromosome too many, or one chromosome too few?
 
 ## Projects
 ### p1 · Pinch the Tulsi: what happens when you pinch a growing tip? (50 min, 14 days)
-- **safety:** Wash hands after handling the plant. Do not eat leaves from a plant that has been sprayed with anything.
+- **safety:** Wash hands after handling the plant. Do not eat leaves from a plant that has been sprayed with anything. Tulsi is sacred in many homes, so ask the elders before you pinch it, or use mint or basil instead.
 - **record:** Write the height of each stem and the number of side shoots on days 1, 4, 7 and 14. Draw the two stems side by side on each day.
 - **schedule:** day 1: Choose two similar stems. Tie a red thread on stem A and a blue thread on stem B. Measure and draw both. Pinch off the top two leaves of stem A. Leave stem B alone. (15 min); day 4: Measure both stems. Look at the places where leaves join the stem. Draw what you see. (8 min); day 7: Measure both stems. Count the small side shoots on each. Draw both stems. (10 min); day 14: Measure both stems. Count the side shoots on each. Draw both stems. Say what happened and why. (17 min)
 - **s1 (15 min)**  
@@ -444,7 +445,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* We will pinch the top two leaves of the red stem and leave the blue one alone. What do you think will happen? Why do you think so?  
   *Child mode:* Pinch the top of the red stem. Leave the blue stem. What will happen? Why?
   - Ask: What do you think will happen to the red stem? (good: It will stop growing.; It will grow side branches.; It will die.)
-  - Note: Pinch off the top bud and the two small leaves under it, using your fingertips. Pinch cleanly. Choose stems without flowers. Many families pinch tulsi to keep it bushy, so it is safe for the plant.
+  - Note: Pinch off the top bud and the two small leaves under it, using your fingertips. Pinch cleanly. Choose stems without flowers. Many families pinch tulsi to keep it bushy, so it is safe for the plant. Growth is slow below about 15 degrees C, so in a cold winter wait for warmer weather or use a plant kept indoors in good light. With 2 to 4 children, give each child their own pair of stems (or their own cheap pot of mint) and compare the results on day 14.
 - **s2 (8 min)**  
   *Parent does:* Day 4. Measure both stems. Look at the places where the leaves join the stem. Draw what you see.  
   *Parent says:* Measure both stems. Look where each leaf joins the stem. Do you see anything new?  
@@ -459,7 +460,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent does:* Day 14. Measure both stems and count the side shoots again. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Measure and count again. Say what you thought, what you saw and why.
-  - Note: Typical result: the pinched stem grows side shoots at the leaf joints within a week, and ends up bushier but not taller. The unpinched stem grows taller with few side shoots. The tip makes a chemical signal, called auxin, that holds back the side buds. Remove the tip and the signal stops, so the side buds wake up. This was studied by Kenneth Thimann and Folke Skoog in 1933. If nothing happens, check that you pinched the very tip and gave the plant light and water.
+  - Note: Typical result: the pinched stem grows side shoots at the leaf joints within a week, and ends up bushier but not taller. The unpinched stem grows taller with few side shoots. The tip makes a chemical signal, called auxin, that holds back the side buds. Remove the tip and the signal stops, so the side buds wake up. This was studied by Kenneth Thimann and Folke Skoog in 1933. If nothing happens, wait a few more days, because slow plants take longer, and check that you pinched the very tip and gave the plant light and water.
   - Think: A gardener pinches a tulsi plant every week. What shape will the plant grow into?
   - Wait: Wait until day 14.
 

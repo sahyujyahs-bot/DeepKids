@@ -276,6 +276,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards show things that happen in a body. Each player gets two tokens. One says Quick defence and one says Learning defence. We will guess which defence does each thing.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take two tokens.
+  - Note: Use blunt scissors, and a grown-up helps if the cutting is slow. With one child, the child guesses and then checks the back. With 2 to 4 children, pass the reader's job round the table.
 - **s2 (6 min)**  
   *Parent does:* Play the first eight cards. After each one, read the back aloud. Ask the question below after card four.  
   *Parent says:* The reader reads the front. Everyone else picks a token. Turn the tokens over together. Now the reader reads the back. Who got a point?  
@@ -294,7 +295,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   - Note: A good answer says that the quick defence works at once but cannot remember or fit one germ, and the learning defence is exact but slow the first time. They need each other.
   - Think: Some cards had a bit of both. Which one was that?
 ### g2 · Shield the Town (20 min)
-- **rules:** The town is a board of 36 squares. Each square is a person. The germ will start in one square, chosen by dice.; Players work together. They agree on where to place 10 shields before the germ starts. A shielded square can never get sick.; To start the germ, roll two dice. The first is the row and the second is the column. If that square has a shield, roll again.; The starting square is sick. It rolls one die for each of its four neighbours, above, below, left and right. A 1, 2, 3 or 4 makes the neighbour sick. A 5 or 6 keeps the neighbour well.; Every newly sick square rolls the same way for its own neighbours. A square rolls for each neighbour only once.; When no new square gets sick, count the sick squares. The town wins if 8 or fewer squares are sick.; Play it again with a new start. Players can move up to 3 shields between rounds, but they must say why. After three rounds, add up how many rounds the town won.
+- **rules:** The town is a board of 36 squares. Each square is a person. The germ will start in one square, chosen by dice.; Players work together. They agree on where to place 10 shields before the germ starts. A shielded square can never get sick.; To start the germ, roll two dice, or one die twice. The first is the row and the second is the column. If that square has a shield, roll again.; The starting square is sick. It rolls one die for each of its four neighbours, above, below, left and right. A 1, 2, 3 or 4 makes the neighbour sick. A 5 or 6 keeps the neighbour well.; Every newly sick square rolls the same way for its own neighbours. A square rolls for each neighbour only once.; When no new square gets sick, count the sick squares. The town wins if 8 or fewer squares are sick.; Play it again with a new start. Players can move up to 3 shields between rounds, but they must say why. After three rounds, add up how many rounds the town won.
 - **Printable board: A six by six town board, numbered with a row number 1 to 6 down the side and a column number 1 to 6 along the top:** Draw a grid of 6 columns and 6 rows with squares about 3 centimetres wide.; Write the numbers 1 to 6 along the top and down the side.; Colour a square red when it becomes sick.
 - **Printable tokens: 12 shield tokens, small green paper squares:** Shield; Shield; Shield; Shield; Shield; Shield; Shield; Shield; Shield; Shield; Shield; Shield
 - **s1 (4 min)**  
@@ -307,12 +308,14 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent does:* Roll two dice to find the start. Colour that square red. Roll one die for each neighbour, above, below, left and right. A 1, 2, 3 or 4 makes it sick. Keep going until nothing new gets sick. Count the sick squares.  
   *Parent says:* Roll the two dice for the start. Colour it red. Now roll for each neighbour. One to four, and it is sick. Five or six, and it stays well. Keep going.  
   *Child mode:* Roll two dice for the start. Roll for each neighbour. One to four makes it sick. Colour it red.
+  - Note: With 2 to 4 children, split the jobs: one rolls, one colours the sick squares, one keeps a list of squares still waiting to roll. Swap each round. A single child does all three jobs. Chance matters, so one lost round does not mean the shields were wrong.
   - Check: A square next to a sick square has a shield. Can it get sick? → **No, a shield protects it**
 - **s3 (5 min)**  
   *Parent does:* Count the sick squares. If 8 or fewer squares are sick, the town wins. Look at the board. Where did the germ stop? Which shields did the most good? Move up to three shields and play again.  
   *Parent says:* Count the red squares. Eight or fewer, and the town wins. Look at where the germ stopped. Which shields helped most? You may move three shields. Where will you put them?  
   *Child mode:* Count the red squares. Eight or fewer is a win. Move up to three shields. Play again.
   - Ask: Which shields did the most good, and which did none? (good: The ones that blocked a path.; The ones near where the germ started.; The ones the germ never reached did nothing.)
+  - Note: With ten shields, shields scattered at random leave the town winning about half the time, and a wall of shields right across the town wins most rounds. Let the children find this by playing, and do not tell them first.
 - **s4 (3 min)**  
   *Parent does:* Play one more round. Add up how many of the three rounds the town won. Then ask the closing question.  
   *Parent says:* That was the last round. How many did the town win? Here is a question. If you could not choose where the shields go, what would that mean for a real town?  
@@ -325,7 +328,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 - **question:** If a body makes defender cells with random shapes, how many does it need to make before one of them fits a new germ? Does it need more when there are more possible shapes?
 - **predict:** Before you start, guess. How many random cells will you need before one fits the germ? Will you need more cells when each cell has more flips in its code? Why do you think so?
 - **fair test:** The germ's code is flipped once for each size of code, and it stays the same through all the rounds of that size. Every defender cell is made the same way, by flipping the same number of times. The only thing that changes between the three parts is the number of flips in the code, which is the number of shapes that are possible. That way, any difference in the number of cells needed comes from the number of shapes.
-- **record:** Write the number of cells you needed in each round in the table. At the end, add the numbers in each row and divide by the number of rounds to find the average. Then say what you thought, what you saw and why.
+- **record:** Write the number of cells you needed in each round (six rounds for three flips, eight for two flips, four for four flips) in the table. At the end, add the numbers in each row and divide by the number of rounds to find the average. Then say what you thought, what you saw and why.
 - **results table:** Flips in each code | Shapes possible | Cells needed in each round | Average cells needed
 - **s1 (4 min)**  
   *Parent does:* Read out the rules of the game. The germ has a code made of coin flips. The body makes random cells by flipping the same number of times. Ask for a guess and a reason, and write both down.  
@@ -345,26 +348,26 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent says:* Now you are the body. Make one cell at a time with three flips. Does it match the germ? If not, throw it away and make another. Count the cells. Do six rounds.  
   *Child mode:* Flip three times. Does the code match the germ? If not, make another cell. Count how many. Do six rounds.
   - Ask: Did any round take far longer than the others? What do you think happened? (good: I had bad luck.; The matching shape came up late.; It is random, so some rounds take longer.)
-  - Note: The average should be near eight, but single rounds can take from one cell to twenty or more. That is normal for chance. If your child is tired, share the flipping, one flips and one writes. Do not stop before six rounds.
+  - Note: Over many rounds the average is about eight, but single rounds can take from one cell to twenty or more, and the average of only six rounds can land anywhere from about 5 to 12. That is normal for chance. With siblings, each child plays six rounds, then add all the rounds together for a steadier average. If your child is tired, share the flipping, one flips and one writes. Do not stop before six rounds.
   - Check: Why do we flip the coin to make each defender cell, instead of choosing the best one? → **A real body does not know a new germ's shape in advance**
 - **s4 (4 min)**  
-  *Parent does:* Flip the coin two times and write the germ's new code. Make cells with two flips each. Count how many it takes to match. Do six rounds, and write each number in the table.  
-  *Parent says:* Now the shapes are simpler. Each cell has only two flips. There are fewer shapes to choose from. Do six rounds and write the numbers. I wonder if you will need fewer cells.  
-  *Child mode:* Now use two flips. Make a new germ code. Do six rounds. Write the numbers.
-  - Note: Two flips give four shapes. The average should be near four. Rounds will be quick, about half a minute each.
+  *Parent does:* Flip the coin two times and write the germ's new code. Make cells with two flips each. Count how many it takes to match. Do eight rounds, and write each number in the table.  
+  *Parent says:* Now the shapes are simpler. Each cell has only two flips. There are fewer shapes to choose from. Do eight rounds and write the numbers. I wonder if you will need fewer cells.  
+  *Child mode:* Now use two flips. Make a new germ code. Do eight rounds. Write the numbers.
+  - Note: Two flips give four shapes. The average is typically about four, but with eight rounds it may be anywhere from about 3 to 6. Rounds will be quick, about half a minute each.
 - **s5 (10 min)**  
-  *Parent does:* Flip the coin four times and write the germ's new code. Make cells with four flips each. Count how many it takes to match. Do three rounds. Each round may take a few minutes.  
-  *Parent says:* Now every code has four flips. That makes more shapes. Do three rounds. It may take a while. Keep counting.  
-  *Child mode:* Now use four flips. Make a new germ code. Do three rounds. Be patient.
+  *Parent does:* Flip the coin four times and write the germ's new code. Make cells with four flips each. Count how many it takes to match. Do four rounds. Each round may take a couple of minutes.  
+  *Parent says:* Now every code has four flips. That makes more shapes. Do four rounds. It may take a while. Keep counting.  
+  *Child mode:* Now use four flips. Make a new germ code. Do four rounds. Be patient.
   - Ask: While you flip, what do you notice about how long this is taking? (good: It is taking much longer.; The matching shape is harder to hit.; There are more shapes to get through.)
-  - Note: Four flips give sixteen shapes. The average is near sixteen, but with three rounds, yours may be far from that. Rounds may take thirty or more cells. If time runs short, do two rounds and ask a sibling to share their numbers.
+  - Note: Four flips give sixteen shapes. The average over many rounds is about sixteen, but with only four rounds yours can land anywhere from about 7 to 30, and single rounds may take forty cells or more. If time runs short, do two rounds and add a sibling's numbers to yours. Each cell is four flips, so use a die instead if your coin gets tiresome: odd is heads, even is tails.
 - **s6 (9 min)**  
   *Parent does:* Add the numbers in each row and divide by the number of rounds, to find the average. Look at the three averages. Ask your child to say what they thought, what they saw and why. Then ask the two questions below.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see in the numbers? Why do you think that happened? Then look at the three averages. What do you notice?  
   *Child mode:* Find the average for each row. Say what you thought, what you saw, and why.
   - Ask: What happened to the average each time we added one more flip to the code? (good: It about doubled.; It went up a lot.; More shapes meant more cells.)
   - Ask: A real body has billions of possible shapes. How could it ever find a match in time? (good: It makes lots and lots of cells.; It makes many at the same time.; It starts with many already made.)
-  - Note: A strong answer says that each extra flip doubled the shapes and about doubled the cells needed. The averages should come near four, eight and sixteen. After they have said what they saw, explain: a body does not shape a cell for a germ. It makes huge numbers of random cells, many at once, so that some fit almost any germ. When one fits, it multiplies. If your numbers did not follow the pattern, say so. Chance can hide a pattern, and more rounds would show it.
+  - Note: A strong answer says that each extra flip doubled the shapes and about doubled the cells needed. The averages are typically near four, eight and sixteen, but chance can bend them, especially the four-flip row. The safe thing to look for is the order: more flips, bigger average. After they have said what they saw, explain: a body does not shape a cell for a germ. It makes huge numbers of random cells, many at once, so that some fit almost any germ. When one fits, it multiplies. If your numbers did not follow the pattern, say so. Chance can hide a pattern, and more rounds would show it.
   - Check: In your results, the average number of cells rose when the code had more flips. What does this show? → **More possible shapes means more cells are needed to find a match**
   - Think: Nobody told the germ which cell to meet. Did the body learn the germ's shape, or did it find a cell that already fitted?
 ### e2 · Spread and Shield: does protecting some squares protect all? (37 min)
@@ -383,30 +386,30 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent does:* Draw a grid of five squares by five squares, each about 3 centimetres wide. Number the squares 1 to 25, row by row. Write the numbers 1 to 25 on slips of paper, but leave out 13. Put the 24 slips in the bowl. Draw the grid three times, for towns A, B and C.  
   *Parent says:* This is your town. Each square is a person. The middle square, number 13, is the first person who is sick. Colour it red. We draw the grid three times, one for each town.  
   *Child mode:* Draw a grid of five by five squares. Number them 1 to 25. Colour square 13 red. Draw it three times.
-  - Note: A ruler makes this go faster. Let your child draw one grid and trace the other two, or photocopy a grid.
+  - Note: A ruler makes this go faster. Let your child draw one grid and trace the other two, or photocopy a grid. With 2 to 4 children, each child draws one town and the slips are shared; one rolls, one colours, and the others check that no neighbour is missed.
   - Check: Why do we draw the shields from a bowl, and not choose the squares? → **So nobody can pick the best places to block the germ**
 - **s3 (8 min)**  
   *Parent does:* Play town A, which has no shields. Square 13 is sick. For each of its four neighbours, above, below, left and right, roll the die. A 1, 2, 3 or 4 makes that neighbour sick. Colour it red. Then each new red square rolls for its own neighbours, once per neighbour. Skip a neighbour that is already red. Stop when no new square gets sick. Count the red squares.  
   *Parent says:* Square 13 is sick. It rolls the die once for each neighbour. A one, two, three or four makes that neighbour sick. Colour it red. Then the new red squares roll for their neighbours too. Keep going until nothing new gets sick.  
   *Child mode:* Square 13 rolls for each neighbour. A 1, 2, 3 or 4 makes it sick. Colour it red. Keep going.
   - Ask: What path did the germ take through your town? (good: It spread outward from the middle.; It went in all directions.; It followed the squares next to each other.)
-  - Note: Each sick square rolls only once for each neighbour, the moment it becomes sick. Keep a list of squares waiting to roll so none is forgotten. With no shields the germ usually reaches most of the town, often fifteen to twenty-five squares. Sometimes it dies early, by chance.
+  - Note: Each sick square rolls only once for each neighbour, the moment it becomes sick. Keep a list of squares waiting to roll so none is forgotten. With no shields the germ typically reaches about sixteen to twenty-five squares. Rarely it dies out early by chance, so if it stops at a few squares, play town A again.
 - **s4 (7 min)**  
   *Parent does:* Play town B. Draw 8 slips from the bowl. Mark those squares with a green shield. Put the slips back. Square 13 is sick. Roll for the neighbours as before, but shielded squares never get sick. Count the red squares.  
   *Parent says:* Now eight squares get a shield. Draw eight slips and mark them green. A shielded square cannot get sick, so the germ cannot pass through it. Roll as before. How many squares get sick this time?  
   *Child mode:* Draw eight slips. Mark those squares green. Shielded squares never get sick. Roll for the germ. Count.
-  - Note: Put every slip back after drawing, so the bowl is full again for town C. Town B usually has about 3 to 14 sick squares. Chance matters a lot with so few squares. If a shield lands right next to square 13, that may block much of the spread.
+  - Note: Put every slip back after drawing, so the bowl is full again for town C. Town B typically has about 2 to 14 sick squares, around 8 on average. Chance matters a lot with so few squares. If a shield lands right next to square 13, that may block much of the spread.
 - **s5 (7 min)**  
   *Parent does:* Play town C. Draw 16 slips from the bowl. Mark those squares with a green shield. Square 13 is sick. Roll for the neighbours as before. Count the red squares. Then count the squares that are not shielded and still well.  
   *Parent says:* Now sixteen squares get a shield. Draw sixteen slips and mark them green. Roll as before. Count the sick squares. Then count the squares that have no shield and are still well.  
   *Child mode:* Draw sixteen slips. Mark them green. Roll for the germ. Count the sick squares.
   - Ask: Some squares have no shield and are still well. Why did the germ not reach them? (good: The shields around them blocked the germ.; The germ could not get to them.; They were behind the shielded squares.)
-  - Note: Town C usually has only 1 to 5 sick squares. Many unshielded squares stay well. That is the idea of herd protection: the shields protect the squares around them too.
+  - Note: Town C typically has only 1 to 5 sick squares, rarely up to 9. Many unshielded squares stay well. That is the idea of herd protection: the shields protect the squares around them too.
 - **s6 (6 min)**  
   *Parent does:* Write the results in the table. Draw a bar for each town to show the sick squares. Ask your child to say what they thought, what they saw and why. Then ask about the unshielded squares that stayed well.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see in the three towns? Why do you think that happened? Look at the unshielded squares that stayed well. What protected them?  
   *Child mode:* Write the numbers in the table. Draw a bar for each town. Say what you thought, saw and why.
-  - Note: A strong answer says that more shields meant fewer sick squares, and that shields protected some unshielded squares too. Dice are random, so one run can surprise you. If your results do not follow the pattern, run the towns again and add the results together. After they have said what they saw, explain: real germs differ in how easily they spread. Measles spreads very easily, so almost everyone must be protected to stop it. A germ that spreads less easily needs fewer shields.
+  - Note: A strong answer says that more shields meant fewer sick squares, and that shields protected some unshielded squares too. Dice are random, so one run can surprise you. Town B and town C can swap places by chance, because the slips decide where the shields go. If your results do not follow the pattern, run towns B and C again with a new draw and add the results together. With siblings, each child runs their own B and C and you compare the totals. After they have said what they saw, explain: real germs differ in how easily they spread. Measles spreads very easily, so almost everyone must be protected to stop it. A germ that spreads less easily needs fewer shields.
   - Check: In town C, several unshielded squares stayed well. What protected them? → **The shielded squares around them blocked the germ's paths**
   - Think: In a real town, some people cannot be vaccinated. Who protects them?
 
@@ -420,18 +423,18 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   - Ask: What do you notice about the dates and the vaccines? (good: Some vaccines appear again and again.; Most are given when the child is a baby.; There are different dates for the same vaccine.)
   - Note: Do not explain yet. Let your child notice. Write down what they say. The reasons come later in the unit. Cards differ by state and year. If your child's card is hard to find, ask a clinic.
 - **s2 (5 min)**  
-  *Parent does:* Ask your child to circle the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose.  
+  *Parent does:* Ask your child to circle the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose. Then count every dose on the card from birth to five years old, and write the total.  
   *Parent says:* Circle every vaccine that appears more than once. How many doses does each one have? Why do you think some have more than one?  
   *Child mode:* Circle each vaccine with more than one date. Count the doses. Why more than one?
   - Ask: Why do you think some vaccines are given more than once? (good: Maybe one dose is not enough.; The body may forget.; Maybe the second one makes it stronger.)
-  - Note: Wonder is the goal here. Good guesses appear as questions: does the body forget? Does it need reminding? Keep those questions for the explanation card on boosters.
+  - Note: Wonder is the goal here. Good guesses appear as questions: does the body forget? Does it need reminding? Keep those questions for the explanation card on boosters. The total is often around twenty doses and visits for a child to five years, but it differs by state and card. If two children have cards of different ages, compare their totals and say why they differ.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to find the small round scar on the top of one upper arm. Many Indian children have it, from the BCG vaccine. It is more often on the left arm. Not every child has one. Draw the scar in the notebook.  
   *Parent says:* Look at the top of your upper arm. Many children have a small round scar there. It is from one tiny injection when you were a baby. Why would a scar from long ago matter now?  
   *Child mode:* Look at the top of your upper arm. Is there a small round scar? Draw it.
   - Note: Not every child has a visible scar, and that does not mean the vaccine did not work. If there is no scar, skip the question and move on.
-### a2 · Faster the second time: the word puzzle model (15 min)
-- **record:** Write the time it took the first time and the second time. Draw two bars to show them. Say why you were faster.
+### a2 · Faster the second time: the word puzzle model (18 min)
+- **record:** Write the time it took the first time, the second time, and for the six new words. Draw three bars to show them. Say why the second time was faster.
 - **s1 (6 min)**  
   *Parent does:* Write the six scrambled words on paper: CANCIEV, ROMEMY, MREG, HPLYM, HEDLIS, LCEL. Start the timer. Your child unscrambles all six. Stop the timer when the last word is solved. Write the time.  
   *Parent says:* Here are six scrambled words. They all come from our unit. Unscramble them as fast as you can. I will time you. First, guess. Will the second time be faster or slower? Why do you think so?  
@@ -444,13 +447,13 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   - Ask: Why was the second time faster? (good: I remembered the answers.; I already knew them.; My brain kept them.)
   - Note: The second time is almost always much faster, often by half or more. If it is not, say so. Honest results matter.
   - Check: In the puzzle, why was the second time faster? → **You remembered the answers from the first time**
-- **s3 (4 min)**  
-  *Parent does:* Draw two bars, one for each time. Ask your child to say how the puzzle is like the body, and how it is not.  
+- **s3 (7 min)**  
+  *Parent does:* Now test whether you were only warmed up. Give your child six new scrambled words: OBDOL, SURIV, NEGE, VEREF, NOEB, KLIM. They are BLOOD, VIRUS, GENE, FEVER, BONE and MILK. Time it. Draw three bars: first try, second try and new words. Ask your child to say how the puzzle is like the body, and how it is not.  
   *Parent says:* Draw one bar for each time. How is this puzzle like what a body does the second time it meets a germ? How is it not?  
   *Child mode:* Draw a bar for each time. How is this like a body meeting a germ twice?
   - Ask: How is the puzzle like your body meeting a germ a second time? (good: The second time is faster.; Memory helps.; It is quicker when you have done it before.)
   - Ask: How is the puzzle not like your body? (good: My brain remembered, not cells.; My body does it without thinking.; The germ is not a puzzle.)
-  - Note: A strong answer says the puzzle is like memory cells because the second time is faster. It is different because the body does it with cells and chemicals, not by thinking, and the memory can last for years.
+  - Note: The new words will usually take about as long as the first try, or a little less. That shows the speed-up was memory of those very words, as a memory cell remembers one germ. A strong answer says the puzzle is like memory cells because the second time is faster, and the new words are slow again because memory fits one thing. It is different because the body does it with cells and chemicals, not by thinking, and the memory can last for years. With siblings, one solves while another times, and then swap roles with new words.
   - Think: A body keeps its memory of one germ in cells, not in a mind. What would the puzzle be like if your hands remembered, but you did not?
 ### a3 · Find your lymph nodes (10 min)
 - **safety:** Touch gently. Never press hard on the neck. If any lump is large, hard, painful for more than a few days, or lasts more than two weeks, show a doctor.
@@ -460,7 +463,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent says:* Use two fingers. Touch very gently under your jaw. Make tiny circles. Can you feel a small bump like a pea? Many children can. Try behind your ear too.  
   *Child mode:* Gently feel under your jaw. Make tiny circles. Is there a bump like a small pea?
   - Ask: What do you notice about the bumps? Are they soft or firm? Big or small? (good: They are small.; They are soft.; They move a bit.)
-  - Note: Healthy lymph nodes are small, soft, movable, and not painful. Some children can feel them easily and some cannot. Both are normal. Do not press hard. Stay with your child.
+  - Note: Healthy lymph nodes are small, soft, movable, and not painful. Some children can feel them easily and some cannot. Both are normal. Do not press hard. Stay with your child. With siblings, take turns and wash hands first; compare sizes using a pea or a grain of rice as a measure.
 - **s2 (5 min)**  
   *Parent does:* Draw a neck and mark where the nodes were felt. Ask why they think a sore throat makes these nodes swell. If anyone at home has a sore throat or a cold, ask them if you may gently feel their jaw nodes too. Compare.  
   *Parent says:* Draw a neck. Mark where you felt the bumps. When you have a sore throat, those bumps can swell. Why do you think that happens? What could be going on inside?  
@@ -471,11 +474,11 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 - **record:** Write each person's answers in a table. Draw a bar chart for each illness. Write one sentence about what you notice.
 - **schedule:** day 1: Ask five people the three questions. Write the answers in the table. (10 min); day 2: Add up the answers. Draw a bar chart. Say what you notice and why. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Ask your child to guess first. Which illness do people get most often: chickenpox, measles or a cold? Why? Write the guess. Then ask five people: have you had chickenpox? How many times? Measles? How many times? A cold? About how many times? Write the answers in a table.  
+  *Parent does:* Ask your child to guess first. Which illness do people get most often: chickenpox, measles or a cold? Why? Write the guess. Then ask five people: have you had chickenpox? How many times? Measles? How many times? A cold? About how many in the last year? Write the answers in a table.  
   *Parent says:* We will ask five people three questions. Have they had chickenpox, and how many times? Have they had measles, and how many times? A cold, and about how many times? First, which do you think they will have had most often? Why?  
   *Child mode:* Guess first. Which illness do people get most? Ask five people three questions. Write the answers.
   - Ask: Which illness do you think people will have had most often? Why do you think so? (good: Colds, because everyone gets them.; Colds, because they are common.; Chickenpox, because it is catching.)
-  - Note: Expect colds to be many times, and chickenpox and measles to be zero or one. Some people may not remember, and some may not have had them, because they were vaccinated. Write what they say. Be kind about forgetting.
+  - Note: Expect colds to be a few in a year, often two to five and more for children, and chickenpox and measles to be zero or one. Some people may not remember, and some may not have had them, because they were vaccinated. Write what they say. Be kind about forgetting. With 2 to 4 children, each asks a different five people, then you add the tables together. Phone calls to relatives are fine.
 - **s2 (10 min)**  
   *Parent does:* Add up the answers. Draw one bar for each illness, to show the average number of times people had it. Ask your child what they notice. Ask why colds might come again and again, while chickenpox rarely does.  
   *Parent says:* Add up the answers and draw a bar for each illness. What do you notice? Why might colds come again and again while chickenpox hardly ever does?  
@@ -492,7 +495,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent says:* These cards are germs. Each has a different notch. These Y shapes are antibodies. Each has a tip that fits one notch. Can you match all three?  
   *Child mode:* Cut three germs with different notches. Cut three Y shapes with matching tips. Match them.
   - Ask: Can one antibody fit all three germs? Why or why not? (good: No, each tip fits only one notch.; No, the shapes are different.; Only the one that matches.)
-  - Note: Cut out the notch with scissors, not a craft knife. A triangle notch about 1 centimetre wide works well. The tips must fit snugly to see the point.
+  - Note: Cut the antibody tip first as a small triangle point, then trace the tip onto the edge of the germ card and cut that notch, so the pair fits snugly. Use scissors, not a craft knife. With 2 to 4 children, each child cuts one pair and swaps with another to test the fit.
 - **s2 (6 min)**  
   *Parent does:* Now make a fourth germ. Copy the triangle germ, but cut the notch a little wider or at a slightly different angle. Try the triangle antibody on the new germ. See whether it fits.  
   *Parent says:* Now the germ changes a little, as flu viruses do. Make a fourth germ like the triangle one, but with a slightly different notch. Does the old antibody still fit?  
@@ -522,7 +525,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent does:* Draw a line across the poster. Mark the dates in order. Draw a small picture and write one sentence for each event. Use plain words. Start with the first four dates today.  
   *Parent says:* Draw the line first. Mark the dates in order. For each, draw a small picture and write one sentence. Use words that a friend your age would understand.  
   *Child mode:* Draw a long line. Mark the dates. Draw a small picture for each. Write one sentence.
-  - Note: Help with the spacing. The dates are not evenly spread. A broken line can show a long gap. Ask how the poster would look if all dates were evenly spaced.
+  - Note: Help with the spacing. The dates are not evenly spread. A broken line can show a long gap. Ask how the poster would look if all dates were evenly spaced. With 2 to 4 children, share the events between them and join the strips on one poster.
 - **s3 (20 min)**  
   *Parent does:* Finish the rest of the dates. Draw in one corner how a vaccine works, using what you know about memory cells. Write one sentence that says why smallpox could be stopped. Show the poster to someone and explain it.  
   *Parent says:* Finish the dates. In one corner, draw how a vaccine works, with memory cells. Then explain your poster to someone at home. Why do you think smallpox could be stopped completely?  
@@ -534,10 +537,11 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 ## Challenges
 ### c1 · The cold box: carry vaccines to a village (40 min)
 - **problem:** Most vaccines must be kept cool, at about 2 to 8 degrees. If they get warm, they stop working. If they freeze, many are ruined too. A health worker must carry vaccines for four hours, without a fridge. Design a box that keeps a bottle cool but not frozen.
+- **safety:** Use plastic bottles, not glass. Keep the boxes out of the sun and away from the stove.
 - **your turn:** Test three ways to keep a bottle cool for three hours. Check each bottle with a thermometer or by touch. Pick the best. Then say what would happen if the frozen bottle touched the vaccine.
 - **constraints:** Use only things you have at home.; The bottle of water must start cool from the fridge.; Nothing in the box may freeze the bottle.; The box must be easy to carry.; You must test your design for at least three hours and check the bottle.
 - **general:** Wrap the bottle in a towel and put it in a lid-closed box.; Pack newspaper around the bottle to slow warm air.; Put a frozen bottle beside the water bottle, with a cloth between them so they do not touch.
-- **creative:** Put the bottle inside a smaller box, inside a bigger box, with newspaper between them.; Wrap the frozen bottle in cloth so it melts slowly, and tuck it on top.; Use a thermocol box from a delivery, and cover it in a space blanket or foil to reflect heat.
+- **creative:** Put the bottle inside a smaller box, inside a bigger box, with newspaper between them.; Wrap the frozen bottle in cloth so it melts slowly, and tuck it on top.; Use a thermocol box from a delivery, and line it with aluminium foil, shiny side in, to reflect heat.
 - **s1 (10 min)**  
   *Parent does:* Take three bottles from the fridge. Leave one bare on the table. Wrap one in a towel. Put one in a closed box with newspaper packed around it. Write the time. If you have a thermometer, write each bottle's temperature.  
   *Parent says:* These three bottles are as cool as a vaccine should be. We will leave them in the warm room for three hours. Which do you think will stay coolest? Why?  
@@ -545,10 +549,10 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   - Ask: Which bottle do you think will stay coolest? Why? (good: The one in the box, because the box stops warm air.; The one in the towel.; The bare one will warm the fastest.)
   - Note: Use bottles of the same size and start. If you have a thermometer, check a bottle's temperature in the fridge. Leave them out of the sun.
 - **s2 (5 min)**  
-  *Parent does:* After three hours, check each bottle by touch, and with a thermometer if you have one. Write down which is coolest. Think about what the bottle with the frozen pack should look like.  
+  *Parent does:* After three hours, check each bottle by touch, and with a thermometer if you have one. For a fair touch test, keep one extra bottle in the fridge as a reference. Ask a sibling or parent to hand you the bottles with your eyes closed, and rank them from coldest to warmest. Write down which is coolest.  
   *Parent says:* Three hours have passed. Which bottle feels coolest? Which has warmed most? What does that tell you about the box?  
   *Child mode:* Check each bottle. Which is coolest? Which is warmest?
-  - Note: The bare bottle should be warmest. The boxed bottle is usually coolest. If you have a frozen pack, keep it from touching the bottle. A real vaccine must not freeze.
+  - Note: The bare bottle should be warmest. The boxed bottle is usually coolest, but after three hours without ice every bottle will have warmed above the 2 to 8 degrees a vaccine needs, and only the frozen pack can hold it that cool. If you have a frozen pack, keep it from touching the bottle. A real vaccine must not freeze. Touch is not exact, so write what you felt and say so if two bottles felt the same. With 2 to 4 children, one sets up, one hands over the bottles, and one writes the ranking.
   - Check: Why must the frozen pack not touch a vaccine? → **Freezing can ruin many vaccines**
 - **s3 (25 min)**  
   *Parent does:* Design your own best box using what you learned. Test it for three hours with a bottle from the fridge. Check it afterwards by touch or with a thermometer. Draw the design, and say why it worked.  
@@ -805,8 +809,8 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - [Your nearest clinic or health centre]() · place · Your nearest clinic: Ask a nurse to show your child a vaccine carrier, and to explain the vaccination card and when each dose is due.
 
 ## Things to buy
-- [A pack of six dice](https://www.amazon.in/s?k=dice+set+six+sided) (material): For Spread and Shield and Shield the Town. One die is enough, but more dice make the games faster with friends. Used in e2, g2. 
-- [Digital kitchen or body thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To check the temperature of the bottles in the cold box challenge. A kitchen thermometer that reads down to 0 degrees is best. Used in c1. 
+- [A pack of six dice](https://www.amazon.in/s?k=dice+set+six+sided) (material): For Spread and Shield and Shield the Town. A die from Ludo or Snakes and Ladders works, so you may not need to buy any. More dice make the games faster with friends. Used in e2, g2. 
+- [Digital kitchen thermometer (optional)](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): Optional, for the cold box challenge. You can do it by touch. A fever thermometer cannot read cold temperatures, so it will not work here. A kitchen thermometer that reads down to 0 degrees is best. Used in c1. 
 - [A children's book about the immune system or vaccines](https://www.amazon.in/s?k=children+book+immune+system+vaccines) (book): To read together after the unit. Choose one that explains antibodies and memory in plain words, and read it first yourself. Used in a1. Read it after the explanation cards. Stop at each picture and ask your child to say what is happening, before reading the words.
 
 ## Warm-up

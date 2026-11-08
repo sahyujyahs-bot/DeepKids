@@ -598,8 +598,12 @@
     },
     {
      "kind": "tokens",
-     "title": "12 time tokens: three sets of four",
+     "title": "16 time tokens: four sets of four",
      "items": [
+      "Hours",
+      "Days",
+      "Weeks to months",
+      "A year or more",
       "Hours",
       "Days",
       "Weeks to months",
@@ -628,7 +632,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 20 cards and the 12 tokens. Shuffle the cards and make a pile. Give each player one token of each kind.",
+     "do": "Cut out the 20 cards and the 16 tokens. Shuffle the cards and make a pile. Give each player one token of each kind.",
      "say": "These cards name a kind of cell. Each player gets four tokens. We will guess how long each kind lasts.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes four tokens.",
      "context": "This is the first step of the Replacement Race. You get the cards ready."
@@ -671,7 +675,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask your child the questions below. Let them answer in their own words.",
+     "do": "Lay the 20 cards in four rows by time: Hours, Days, Weeks to months, A year or more. Look at which cells are in the first rows. Then ask your child the questions below. Let them answer in their own words.",
      "say": "Look at the cells that last the longest. Why might it be good for a brain cell to last all your life? And why might it be good for a gut cell to be replaced in days?",
      "kid": "Which cells last the longest? Which are replaced fastest? Why?",
      "ask": [
@@ -717,8 +721,8 @@
    ],
    "materials": [
     {
-     "item": "12 moong (green gram) seeds, soaked overnight and sprouted in a damp cloth for a day, with roots 5 to 15 millimetres long",
-     "qty": 12
+     "item": "a small handful (about 15) of moong (green gram) seeds, soaked in the evening and sprouted in a damp cloth until the roots are 5 to 15 millimetres long (usually the next evening)",
+     "qty": 15
     },
     {
      "item": "2 flat plates or steel katoris with flat bottoms",
@@ -759,7 +763,7 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Soak the moong seeds for about 8 hours, then drain them and wrap them in a damp cloth."
+     "what": "In the evening, soak the moong seeds for about 8 hours or overnight, then drain them and wrap them in a damp cloth."
     },
     {
      "day": 2,
@@ -806,10 +810,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Soak 12 moong seeds in water for about 8 hours or overnight. Drain them. Wrap them in a damp cloth in a bowl. Keep them somewhere warm.",
+     "do": "Soak a small handful (about 15) of moong seeds in water for about 8 hours or overnight. Drain them. Wrap them in a damp cloth in a bowl. Keep them somewhere warm.",
      "say": "We will grow some moong sprouts first. Soak the seeds overnight. Tomorrow we wrap them in a damp cloth.",
      "kid": "Soak the moong in water overnight. Drain them. Wrap them in a damp cloth.",
-     "parent": "You need roots between 5 and 15 millimetres. In a warm kitchen this takes about one day after soaking. In cool weather it can take two. Sprinkle the cloth with water twice a day. It should be damp, not dripping.",
+     "parent": "You need roots between 5 and 15 millimetres. In a warm kitchen this usually takes about a day after soaking; in cool weather it can take two, so start earlier. Sprinkle the cloth with water twice a day. It should be damp, not dripping. Do not worry if a few seeds do not sprout: that is why you soak extra.",
      "context": "This is the first step of Cut the Tip. You start the sprouts one day before the test."
     },
     {
@@ -846,7 +850,7 @@
      "do": "Pick eight sprouts with straight roots. Label two plates A and B. Lay damp tissue on each. Put four sprouts on each plate, roots pointing the same way. Lay a thread along each root, then measure the thread. Write each length.",
      "say": "Put four sprouts on plate A and four on plate B. Lay the thread along each root. Then measure the thread on the ruler. Write down every length.",
      "kid": "Put four sprouts on each plate. Measure each root. Write it down.",
-     "parent": "Roots curve a little. A thread laid gently along the root and then measured on the ruler gives the real length. Do not pull the roots straight, because that can hurt them. Choose roots that are about the same length on both plates.",
+     "parent": "Roots curve a little. A thread laid gently along the root and then measured on the ruler gives the real length. Do not pull the roots straight, because that can hurt them. Choose roots that are about the same length on both plates. Four roots per plate is few, and one root may stall, so use five per plate if you have them. With 2 to 4 children, each child sets up their own pair of plates (A and B) and measures their own roots, and at the end everyone adds their numbers together for a class average. With one child, the parent holds the thread and the child reads the ruler.",
      "check": {
       "t": "mcq",
       "q": "Why do we put sprouts from the same bunch on both plates?",
@@ -895,7 +899,7 @@
        ]
       }
      ],
-     "parent": "Roots on plate A usually grow 10 to 25 millimetres in a day when the weather is warm. Roots on plate B usually grow 0 to 5 millimetres. The part just behind the cut can still stretch a little on the first day. If all roots on both plates grew the same, check that you cut across the tip and not just the seed side. If you see white fuzz, rinse the tissue and use fresh tissue.",
+     "parent": "Typical numbers, not promises: in warm weather uncut roots on plate A often grow about 10 to 25 millimetres in a day, and cut roots on plate B often grow only a few millimetres (about 0 to 8). The part just behind the cut can still stretch a little on the first day. If all roots on both plates grew the same, check that you cut across the tip and not just the seed side. In cool weather every root grows less, so compare plate with plate, not with these numbers. If you see white fuzz, rinse the tissue and use fresh tissue.",
      "check": {
       "t": "mcq",
       "q": "After one day, the roots on plate A grew a lot and the roots on plate B grew very little. What does this suggest?",
@@ -916,7 +920,7 @@
      "do": "After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate. Ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Measure again. Find the average for each plate. Draw two bars. Say what you thought, what you saw and why.",
-     "parent": "A strong answer says that roots with the tip cut off grew much less, that the tip is where cells divide, and that the part behind the tip is finished. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.",
+     "parent": "A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.",
      "think": "A farmer's goat nibbles the very tips of a row of young roots. What would you expect to happen to the roots?",
      "wait": "Wait one more day.",
      "context": "In this step, you measure for the last time, find the average growth for each plate, and explain what it shows."
@@ -940,13 +944,17 @@
    ],
    "materials": [
     {
-     "item": "4 sprouted moong seeds with straight roots at least 15 millimetres long (from the Cut the Tip test, or a new batch)",
+     "item": "4 sprouted moong seeds with straight roots at least 20 millimetres long (from the Cut the Tip test, or a new batch)",
      "qty": 4
     },
     {
      "item": "a fine-tip waterproof marker, or a toothpick dipped in kajal or ink",
      "qty": 1,
      "buy": "b-marker"
+    },
+    {
+     "item": "a toothpick and a little kajal or ink, as a backup if the marker will not mark a damp root",
+     "qty": 1
     },
     {
      "item": "a ruler marked in millimetres",
@@ -1016,13 +1024,13 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. If your child did Cut the Tip, they may guess that the gap nearest the tip grows most. Ask why they think so.",
+     "parent": "Do not correct the guess. If your child did Cut the Tip, they may guess that the gap nearest the tip grows most. Ask why they think so. With 2 to 4 children, each child marks one root and measures it, and the group compares roots. With one child, the parent dries the roots and the child makes the dots.",
      "context": "This is the first step of Dots on a Root. You guess before you mark anything."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "Dry one root gently with tissue. Lay it next to the marked card with the tip at zero. Touch a fine pen to the root at 1, 3, 5, 7, 9 and 11 millimetres. Make small dots. Do the same for two roots. Leave one root without dots.",
+     "do": "Dry one root gently with tissue. Lay it next to the marked card with the tip at zero. Touch a fine pen to the root at 1, 3, 5, 7, 9 and 11 millimetres. Make small dots. Do the same for two more roots. Leave the fourth root without dots, to check that the dots do not stop the growing.",
      "say": "Dry the root with tissue first. Lay the tip at zero on the card. Touch the pen very lightly at each mark. Make small dots, not lines.",
      "kid": "Dry the root. Lay it on the card. Make six small dots with the pen.",
      "adult": true,
@@ -1044,7 +1052,7 @@
      "do": "After one day, measure each gap between the dots. Start at the tip and go backward. Write the gaps in the table. Work out how much each gap changed. Draw a bar for each gap. Ask your child to say what they thought, what they saw and why.",
      "say": "Measure each gap, starting at the tip. Which gaps grew? Which stayed the same? Why do you think the growing happened where it did?",
      "kid": "Measure each gap from the tip back. Which gaps grew? Which stayed the same?",
-     "parent": "Typical results: the first one or two gaps next to the tip grow the most. The next gaps grow a little. Gaps past about 1 centimetre hardly change. Dots may fade, so measure the same day. If the dots washed off, say so, and try again with kajal. A fuzzy result is still a result.",
+     "parent": "Typical results, not promises: the first one or two gaps next to the tip grow the most. The next gaps grow a little. Gaps more than about 1 centimetre from the tip hardly change. Dots are tiny, so use a magnifier, or measure how far each dot is from the tip and subtract one number from the next. Dots may fade, so measure the same day. Compare the total growth of the unmarked root with a marked one: they should be about the same. If the dots washed off or the roots dried out, say so, and try again with kajal and a fresh root. A fuzzy result is still a result.",
      "check": {
       "t": "mcq",
       "q": "The gaps nearest the tip grew wider, and the gaps far from the tip stayed the same. What does this show?",
@@ -1124,7 +1132,7 @@
        ]
       }
      ],
-     "parent": "After 6 folds there are 64 boxes. A seventh fold is nearly impossible by hand. That is a good moment to talk about how a real cell does not need to fold anything: she divides again and again with no limit from paper.",
+     "parent": "After 6 folds there are 64 boxes. A seventh fold is nearly impossible by hand. That is a good moment to talk about how a real cell does not need to fold anything: she divides again and again with no limit from paper. With 2 to 4 children, each child folds a sheet and a different child writes down the table, then compare: does everyone get the same numbers?",
      "context": "In this step, you fold six times and write down how many boxes there are each time."
     },
     {
@@ -1133,7 +1141,7 @@
      "do": "Use the pattern to fill in a second table. 10 doublings give 1,024. 20 doublings give 1,048,576. 30 doublings give about 1,073 million. 45 doublings give about 35 trillion. Say that a body has about 30 to 40 trillion cells. Ask for a reason that the number grows so fast.",
      "say": "Ten doublings give 1,024. Twenty give about one million. Thirty give about one billion. Forty-five give about thirty-five trillion. That is close to the number of cells in a body.",
      "kid": "Ten doublings make 1,024. Forty-five doublings make about 35 trillion. That is a whole body!",
-     "parent": "In a real body cells also die and are replaced, so the total number of divisions across a life is much bigger than 45. 45 rounds is the least that would reach the number.",
+     "parent": "Compare with real cells. A bacterium that divided every 20 minutes without stopping would have about a billion descendants after 10 hours (30 doublings). In real life food and space run out long before that.",
      "think": "A body takes at least 45 doublings from one cell. Why do you think it takes many more divisions in real life?",
      "check": {
       "t": "mcq",
@@ -1215,7 +1223,7 @@
        ]
       }
      ],
-     "parent": "Some children make no mistake in 40 letters. If so, make a longer code of 120 letters and try again. Repeated letters like GG and TT are where mistakes happen most.",
+     "parent": "Some children make no mistake in 40 letters. If so, make a longer code of 120 letters and try again. Repeated letters like GG and TT are where mistakes happen most. With 2 to 4 children, everyone copies the same code at the same time, then swap papers and check each other's copy. Compare who made the fewest mistakes and where.",
      "context": "In this step, you copy once and count your mistakes."
     },
     {
@@ -1246,8 +1254,8 @@
    "days": 1,
    "materials": [
     {
-     "item": "clear sticky tape, about 3 centimetres long, 3 pieces",
-     "qty": 3
+     "item": "clear sticky tape, 3 centimetres long, 6 pieces (3 places, and a second piece for each place)",
+     "qty": 6
     },
     {
      "item": "a sheet of black paper or dark cloth",
@@ -1263,7 +1271,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use clean, unbroken skin only. Do not tape over sore, red or cut skin. Peel the tape off slowly. Stop if the skin hurts.",
+   "safety": "Use clean, unbroken skin only. Do not tape over sore, red, rashy or cut skin, or over thick hair. Peel the tape off slowly. Stop if the skin hurts.",
    "record": "Draw what you see under the tape. Write which place on your body gave the most flakes.",
    "context": "In this activity, you lift a layer of dry skin with sticky tape, and look at it on dark paper. You see some of the cells that your body has already finished with.",
    "setup": [
@@ -1284,7 +1292,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Choose three places, such as the back of the hand, the forearm and the heel. Ask your child to guess which one will give the most skin flakes.",
+     "do": "Choose three places, such as the back of the hand, the forearm and the heel. Ask your child to guess which one will give the most skin flakes. Plan to score each strip from 0 (clear) to 3 (very cloudy).",
      "say": "We will lift some skin from three places. Which place do you think will give the most? Why?",
      "kid": "Pick three places on your skin. Which will give the most flakes? Why?",
      "parent": "The heel and elbow often give the most because they are thick and dry. Do not use any place with a rash or sore.",
@@ -1293,7 +1301,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "For each place, press a strip of tape on the skin and rub it lightly for 5 seconds. Peel it off slowly. Stick it on black paper. Write the place under each strip. Look at each strip, with a magnifier if you have one.",
+     "do": "For each place, press a strip of tape on the skin and rub it lightly for 5 seconds. Peel it off slowly. Stick it on black paper. Write the place under each strip. Then press a second, fresh strip on the exact same spot and do the same. Score every strip from 0 to 3 for cloudiness, with a magnifier if you have one.",
      "say": "Press the tape on your skin. Rub it. Peel it off slowly. Stick it on black paper. What do you see on the tape?",
      "kid": "Press tape on your skin. Peel it off slowly. Stick it on black paper.",
      "ask": [
@@ -1313,7 +1321,7 @@
        ]
       }
      ],
-     "parent": "You will not see single cells. You will see a cloudy or whitish patch and small flakes. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. The top layer of skin is made of dead cells, and new cells keep pushing up from below. Scientists estimate that a person loses tens of thousands of dead skin cells every minute.",
+     "parent": "You will not see single cells. You will see a cloudy or whitish patch and small flakes, mixed with a few hairs and specks of dust. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. Dry places such as the heel, elbow or shin show the most. If you see almost nothing on soft or oily skin, that is normal: try a drier place and rub for 10 seconds. The second strip on the same spot usually shows less, because the first strip already took the loosest flakes. The top layer of skin is made of dead cells, and new cells keep pushing up from below. Scientists estimate that a person loses roughly 30,000 to 40,000 dead skin cells every minute. With 2 to 4 children, each child tapes their own arm and compares scores.",
      "think": "If your top skin is replaced about every month, where do the new cells come from?",
      "check": {
       "t": "mcq",
@@ -1354,6 +1362,10 @@
     },
     {
      "item": "a pen",
+     "qty": 1
+    },
+    {
+     "item": "a pair of scissors for cutting the strips",
      "qty": 1
     }
    ],
@@ -1430,11 +1442,12 @@
        ]
       }
      ],
-     "parent": "A correct split puts 6 strips in each bowl, with one of each colour pair. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare.",
+     "parent": "A correct split puts 6 strips in each bowl, with one of each colour pair. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare. With 2 to 4 children, give each child one colour pair to pull apart, and let one child hold each bowl.",
      "think": "Which would be worse for a cell: one chromosome too many, or one chromosome too few?",
      "context": "In this step, you pull the copies apart into two bowls, and see what happens if the sharing goes wrong."
     }
-   ]
+   ],
+   "safety": "Use blunt child scissors, or let a grown-up cut the strips. Keep tape and rubber bands away from the mouth."
   }
  ],
  "projects": [
@@ -1445,7 +1458,7 @@
    "mins": 50,
    "materials": [
     {
-     "item": "a tulsi (holy basil) plant in a pot, with two or more stems of about the same height",
+     "item": "a tulsi (holy basil) plant in a pot with two or more stems of about the same height (mint, basil or chilli also work)",
      "qty": 1,
      "buy": "b-tulsi"
     },
@@ -1462,7 +1475,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after handling the plant. Do not eat leaves from a plant that has been sprayed with anything.",
+   "safety": "Wash hands after handling the plant. Do not eat leaves from a plant that has been sprayed with anything. Tulsi is sacred in many homes, so ask the elders before you pinch it, or use mint or basil instead.",
    "schedule": [
     {
      "day": 1,
@@ -1518,7 +1531,7 @@
        ]
       }
      ],
-     "parent": "Pinch off the top bud and the two small leaves under it, using your fingertips. Pinch cleanly. Choose stems without flowers. Many families pinch tulsi to keep it bushy, so it is safe for the plant.",
+     "parent": "Pinch off the top bud and the two small leaves under it, using your fingertips. Pinch cleanly. Choose stems without flowers. Many families pinch tulsi to keep it bushy, so it is safe for the plant. Growth is slow below about 15 degrees C, so in a cold winter wait for warmer weather or use a plant kept indoors in good light. With 2 to 4 children, give each child their own pair of stems (or their own cheap pot of mint) and compare the results on day 14.",
      "context": "This is the first step of Pinch the Tulsi. You set up two stems and guess what will happen."
     },
     {
@@ -1545,7 +1558,7 @@
      "do": "Day 14. Measure both stems and count the side shoots again. Ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Measure and count again. Say what you thought, what you saw and why.",
-     "parent": "Typical result: the pinched stem grows side shoots at the leaf joints within a week, and ends up bushier but not taller. The unpinched stem grows taller with few side shoots. The tip makes a chemical signal, called auxin, that holds back the side buds. Remove the tip and the signal stops, so the side buds wake up. This was studied by Kenneth Thimann and Folke Skoog in 1933. If nothing happens, check that you pinched the very tip and gave the plant light and water.",
+     "parent": "Typical result: the pinched stem grows side shoots at the leaf joints within a week, and ends up bushier but not taller. The unpinched stem grows taller with few side shoots. The tip makes a chemical signal, called auxin, that holds back the side buds. Remove the tip and the signal stops, so the side buds wake up. This was studied by Kenneth Thimann and Folke Skoog in 1933. If nothing happens, wait a few more days, because slow plants take longer, and check that you pinched the very tip and gave the plant light and water.",
      "think": "A gardener pinches a tulsi plant every week. What shape will the plant grow into?",
      "wait": "Wait until day 14.",
      "context": "In this step, you finish the project and explain what pinching did."

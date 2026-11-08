@@ -394,8 +394,8 @@
           "caption": "1. Cut out the cards and tokens. Shuffle the cards into a pile."
         },
         {
-          "art": "One card held up by the reader, with two places A and B and a pull number for each, and the back hidden against the reader's chest.",
-          "caption": "2. The reader reads the front of a card aloud and hides the back."
+          "art": "One card held up by the reader, with two places A and B, the pull numbers hidden under a thumb, and the back hidden against the reader's chest.",
+          "caption": "2. The reader reads the two places aloud and hides the numbers and the back."
         },
         {
           "art": "Four players putting down one token face down each, then turning them over together.",
@@ -521,12 +521,12 @@
         }
       ],
       "rules": [
-        "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
-        "Every other player puts one token face down, Toward A or Toward B. Then everyone turns the tokens over together.",
-        "The reader reads the back. A player whose token matches the answer scores one point.",
+        "One player is the reader. The reader takes the top card and reads only the two places aloud, keeping the pull numbers hidden.",
+        "Every other player thinks which place holds its water tighter, and puts one token face down, Toward A or Toward B. Then everyone turns the tokens over together.",
+        "The reader now reads the pull numbers and the back. A player whose token matches the answer scores one point.",
         "A player who also says why, using the words 'bigger pull number' or 'holds water tighter', scores one more point. The reader decides, using the back of the card.",
         "After each card, the job of reader passes to the player on the left. With two players, swap after every card.",
-        "Playing alone: read the front, say your answer and your reason out loud, then read the back. Score 1 for the right answer and 1 for the reason. Aim for 36 out of 48.",
+        "Playing alone: read the two places, say your answer and your reason out loud, then read the numbers and the back. Score 1 for the right answer and 1 for the reason. Aim for 36 out of 48.",
         "The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win."
       ],
       "flow": [
@@ -563,7 +563,7 @@
           "id": "s2",
           "mins": 7,
           "do": "Play the first eight cards. The reader reads each front, everyone chooses a token, and then the back is read. Keep score on paper.",
-          "say": "Read the front. Everyone choose a token and say why before the back is read. Then see if you were right.",
+          "say": "Read the two places. Everyone choose a token and say why before the numbers are read. Then see if you were right.",
           "kid": "Read a card. Pick a token. Say why. Then read the back.",
           "ask": [
             {
@@ -582,8 +582,8 @@
           "id": "s3",
           "mins": 7,
           "do": "Play the next eight cards in the same way. Swap the reader after each card.",
-          "say": "Keep going. Look at the numbers, not at the pictures in your head. Which place holds water tighter?",
-          "kid": "Play the next eight cards. Look at the numbers. Which is bigger?",
+          "say": "Keep going. Think about which place holds water tighter. Then check the numbers.",
+          "kid": "Play the next eight cards. Think first. Then check the numbers. Which is bigger?",
           "ask": [
             {
               "q": "On which cards did the water leave a plant?",
@@ -1298,7 +1298,7 @@
           "qty": 1
         },
         {
-          "item": "measuring spoons: a quarter teaspoon, a half teaspoon and a teaspoon, and a tablespoon",
+          "item": "a teaspoon and a tablespoon (a quarter and half teaspoon measure too, if you have them)",
           "qty": 1,
           "buy": "b-spoons"
         },
@@ -1312,7 +1312,7 @@
           "buy": "b-lens"
         }
       ],
-      "safety": "Salt water is safe to touch but it is not for drinking. Wash hands after handling seeds. Keep small seeds away from children under five.",
+      "safety": "Salt water is safe to touch but it is not for drinking. Do not eat the seeds or sprouts from this test. Wash hands after handling seeds. Keep small seeds away from children under five. Throw away any seed that smells or looks mouldy.",
       "schedule": [
         {
           "day": 1,
@@ -1378,7 +1378,7 @@
               ]
             }
           ],
-          "parent": "Do not correct any guess. Any guess with a reason is a good start. Write the guesses at the top of the page, so you can look back at them on day 4. A seed counts as sprouted when a white root is at least 2 millimetres long.",
+          "parent": "Who does what: one child does all four cups. With 2 to 4 children, each takes one cup (or two cups if there are two of you), counts and measures it, and then you all put the numbers in one table. Do not correct any guess. Any guess with a reason is a good start. Write the guesses at the top of the page, so you can look back at them on day 4. A seed counts as sprouted when a white root is at least 2 millimetres long.",
           "context": "This is the first step of Salt and the Sprouts. You guess before you test."
         },
         {
@@ -1387,7 +1387,7 @@
           "do": "Label four tumblers A, B, C and D. Pour 200 millilitres of plain water into each. Leave A plain. Add a level quarter teaspoon of salt to B, a level half teaspoon to C and a level teaspoon to D. Stir each one until the salt is gone.",
           "say": "Label the tumblers A, B, C and D. Each gets the same plain water. Now add salt. A gets none. B gets a quarter spoon, C gets a half, and D gets a full teaspoon. Stir until you cannot see the salt.",
           "kid": "Make four waters. A has no salt. B, C and D have more and more. Stir them.",
-          "parent": "Level spoons, not heaped ones. Cup D is about as salty as sea water. Keep the tumblers: you will use the same water again on days 2 and 3. Cover each one with a saucer so the water does not evaporate.",
+          "parent": "Level spoons, not heaped ones. Cup D is close to sea water (about 3 percent). No quarter teaspoon? Make D first (one level teaspoon in 200 millilitres), then C is 100 millilitres of D topped up with 100 millilitres of plain water, and B is 50 millilitres of D topped up to 200 with plain water. Keep the tumblers: you will use the same water again on days 2 and 3. Cover each one with a saucer so the water does not evaporate.",
           "check": {
             "t": "mcq",
             "q": "Why does cup A get plain water with no salt?",
@@ -1452,7 +1452,7 @@
               ]
             }
           ],
-          "parent": "Water with the right tumbler: A's water on A's cup. If a seed has a mouldy smell or look, take that seed out and note it. Do not make the numbers look better than they are.",
+          "parent": "Water with the right tumbler: A's water on A's cup. If a seed has a mouldy smell or look, take that seed out and write that down. Do not make the numbers look better than they are.",
           "wait": "Leave the cups for one day, about 24 hours.",
           "context": "In this step, you check the cups after one day and give each its own water again."
         },
@@ -1499,7 +1499,7 @@
               ]
             }
           ],
-          "parent": "If cup A also has very few sprouts, the seeds are probably old. Repeat the experiment with a fresh packet. Results will not match every family's exactly. A pattern of fewer and shorter roots as salt rises is the thing to look for.",
+          "parent": "If cup A also has very few sprouts, the seeds are probably old. Repeat the experiment with a fresh packet. Results will not match every family's exactly. Typical counts after 3 days are about 9 or 10 in A, a little fewer in B, fewer again in C, and 0 to 2 in D; they depend on the packet and the weather. In hot, humid weather watch for mould and rinse the towels with the same water. A pattern of fewer and shorter roots as salt rises is the thing to look for.",
           "wait": "Leave the cups for one more day.",
           "context": "In this step, you take the final measurements and look closely at the roots."
         },
@@ -1538,7 +1538,7 @@
         "Air around the leaves",
         "Water level at the start (mm)",
         "Water level after 3 hours (mm)",
-        "Water level next morning (mm)",
+        "Water level next morning (or evening) (mm)",
         "Water lost (mm)"
       ],
       "materials": [
@@ -1547,7 +1547,7 @@
           "qty": 3
         },
         {
-          "item": "3 sprigs of mint, tulsi or coriander with 6 to 8 leaves each, about the same size, cut fresh",
+          "item": "3 sprigs of mint, tulsi or coriander, each with the same number of leaves (8 to 12) of about the same size, cut fresh; pick off any extra leaves",
           "qty": 3
         },
         {
@@ -1560,15 +1560,15 @@
           "buy": "b-bags"
         },
         {
-          "item": "tape and a marker, a ruler in millimetres, a ceiling fan or table fan",
+          "item": "tape and a marker, a ruler in millimetres, a ceiling fan or table fan, a spare bottle if you want a fourth 'no sprig' check",
           "qty": 1
         },
         {
-          "item": "a kitchen scale, if you have one, for a second way to measure",
+          "item": "a kitchen scale that reads to 1 gram, if you have one, for a second way to measure",
           "qty": 1
         }
       ],
-      "safety": "Keep fingers out of the fan. Put the bottle with the fan well away from the edge of a table.",
+      "safety": "Keep fingers out of the fan and keep the bottles well away from the edge of the table and from plugs and sockets; wipe up any spilt water or oil. A grown-up cuts the stems. Plastic bags are not toys: keep them away from small children's faces. Switch the fan off when you leave the room and at night.",
       "schedule": [
         {
           "day": 1,
@@ -1625,7 +1625,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Write the guesses down. The idea is that moving, dry air pulls water out of leaves faster, but let your child get there by seeing.",
+          "parent": "Who does what: with 3 children, each looks after one bottle, measures it and reports; with 2, one measures and one writes; with 4, the fourth child sets up the 'no sprig' bottle and checks that its oil level does not move. Alone, you do all three. Do not correct the guess. Write the guesses down. The idea is that moving, dry air pulls water out of leaves faster, but let your child get there by seeing.",
           "context": "This is the first step of the experiment. You guess before you test."
         },
         {
@@ -1634,7 +1634,7 @@
           "do": "Fill the three bottles with water right up into the neck. Add half a teaspoon of oil to each, so it floats on top of the water. Stick a strip of tape on each neck. Mark the top of the oil on the tape with the marker. Write A, B and C on the bottles.",
           "say": "Fill each bottle up into its neck. Float a little oil on top. The oil stops water from drifting into the air. Mark the oil level on a strip of tape. Write A, B and C.",
           "kid": "Fill three bottles into the neck. Add a little oil on top. Mark the level with tape.",
-          "parent": "Narrow necks make a small loss easy to see. If the oil level is hard to see, put a drop of food colour in the water. The three bottles should be the same shape.",
+          "parent": "Narrow necks make a small loss easy to see. If the oil level is hard to see, put a drop of food colour in the water. The three bottles should be the same shape. If you have a fourth bottle with oil and water but no sprig, its level should not move at all: that shows the oil really stops water leaving from the top.",
           "check": {
             "t": "mcq",
             "q": "Why do we float oil on top of the water?",
@@ -1655,16 +1655,16 @@
           "say": "Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck.",
           "kid": "Put a sprig in each bottle. Tie a bag over the leaves of bottle C.",
           "adult": true,
-          "parent": "A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag that is tied tight round the neck will keep the air inside damp. Leave the neck of the bag a little loose, so the sprig is not crushed.",
+          "parent": "A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag that is tied tight round the neck will keep the air inside damp. Leave the neck of the bag a little loose, so the sprig is not crushed. If a sprig leans or falls, tape its stem to the bottle neck. Mint and coriander droop fast once cut, so set up quickly.",
           "context": "In this step, you add the sprigs. One of them gets a bag."
         },
         {
           "id": "s4",
           "mins": 4,
-          "do": "Put bottle A on a shelf under a ceiling fan, or in front of a table fan on low, 1 metre away. Put bottles B and C in the same room, in still air, behind a standing book. Set the fan going. Write the time.",
+          "do": "Put bottle A under a ceiling fan, or in front of a table fan on low, about 1 metre away. Put bottles B and C in the same room, in still air. Use a corner or a spot behind a standing book, away from the fan. Switch the fan on and write the time.",
           "say": "A goes where the breeze reaches it. B and C go behind a book, out of the breeze. Switch the fan on and write down the time.",
           "kid": "Put A in the breeze. Put B and C in still air. Write the time.",
-          "parent": "Keep all three in the same light, at the same height. A table fan on low is enough. Leave them for at least 3 hours.",
+          "parent": "Keep all three in the same light, at the same height. A table fan on low is enough. Keep B and C out of direct sun: a bag in the sun gets hot and wilts the sprig. Hold a thin strip of tissue near B and C: it should hardly move. Leave them for at least 3 hours. Leave the fan on while someone is home and switch it off at bedtime; most of the difference between the bottles builds up in daylight, when the leaf pores are open. On a damp, rainy day the differences will be smaller.",
           "context": "In this step, you place the bottles. Only the air around the leaves is different."
         },
         {
@@ -1689,15 +1689,15 @@
               ]
             }
           ],
-          "parent": "The drop may be small, only 1 or 2 millimetres, in 3 hours. That is normal. If you have a kitchen scale, you can weigh each bottle at the start and now. One gram lost is one millilitre of water.",
+          "parent": "The drop may be small, only 1 or 2 millimetres, in 3 hours. That is normal, and in humid weather it can be even less. If every bottle has dropped by 1 millimetre or less, leave them until the evening and measure again. If you have a kitchen scale, you can weigh each bottle at the start and now. One gram lost is one millilitre of water.",
           "wait": "Wait 3 hours.",
           "context": "In this step, you check the bottles after three hours."
         },
         {
           "id": "s6",
           "mins": 8,
-          "do": "The next morning, measure the oil level in each bottle again. Fill in the table. Work out how much water each bottle lost. Look at the leaves. Which ones look tired?",
-          "say": "Now it is morning. Measure again. How many millimetres did each bottle lose? Which bottle lost the most? Which the least?",
+          "do": "The next morning (or in the evening of the same day), measure the oil level in each bottle again. Fill in the table. Work out how much water each bottle lost. Look at the leaves. Which ones look tired?",
+          "say": "Now it is morning (or evening, if you measured then). Measure again. How many millimetres did each bottle lose? Which bottle lost the most? Which the least?",
           "kid": "Measure the levels again. Which lost the most? Which lost the least?",
           "ask": [
             {
@@ -1715,7 +1715,7 @@
               ]
             }
           ],
-          "parent": "Usually the fan bottle loses most and the bagged one loses least, but real results can be messy. A sprig that wilts early will drink less. If the results are all small, repeat with more leaves.",
+          "parent": "Usually the fan bottle loses most and the bagged one loses least, but real results can be messy. A sprig that wilts early will drink less. If the results are all small, repeat with more leaves or a bigger sprig. The fan was probably off overnight, so the morning total mostly shows the daytime hours; the tired leaves show it too.",
           "wait": "Leave the bottles overnight.",
           "context": "In this step, you take the final measurements and compare the three bottles."
         },
@@ -1725,7 +1725,7 @@
           "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why.",
           "say": "Say three things. What do you think? What did you see, with numbers? Why do you think it happened?",
           "kid": "Say what you think, what you saw, and why.",
-          "parent": "A good answer sounds like: 'I think moving air makes leaves lose more water. The fan bottle went down 4 millimetres and the bag bottle went down 0. The bag air got damp, so it could not pull.' Look back at the first guess together.",
+          "parent": "A good answer, with example numbers only, sounds like: 'I think moving air makes leaves lose more water. The fan bottle went down 4 millimetres and the bag bottle went down 0. The bag air got damp, so it could not pull.' Look back at the first guess together.",
           "check": {
             "t": "mcq",
             "q": "The bagged sprig lost almost no water. What is the best reason?",
@@ -1754,11 +1754,11 @@
           "qty": 24
         },
         {
-          "item": "3 plates or katoris",
+          "item": "3 plates or katoris, and 3 small cups or glasses to collect the liquid",
           "qty": 3
         },
         {
-          "item": "a half teaspoon of salt and a half teaspoon of sugar",
+          "item": "a level half teaspoon of salt and a level half teaspoon of sugar",
           "qty": 1
         },
         {
@@ -1812,7 +1812,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is good.",
+          "parent": "Who does what: one child does the three plates. With 2 to 4 children, give each child a plate to watch, and let the extra children cut, time and record. Do not correct the guess. Any guess with a reason is good.",
           "context": "This is the first step of Salted Slices. You guess before you test."
         },
         {
@@ -1848,7 +1848,7 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "After 20 minutes, tilt each plate and spoon up the liquid. Count the spoonfuls, or count the drops from a teaspoon. Hold one slice from each plate by its edge. Does it droop? Write what you find.",
+          "do": "After 20 minutes, tilt each plate over its small cup so the liquid runs out, and spoon up what is left. Measure the liquid in teaspoons, or look at how high it stands in the cup. Hold one slice from each plate by its edge. Does it droop? Write what you find.",
           "say": "It has been 20 minutes. Tilt each plate. How much liquid is there? Pick up a slice from each plate. Does it stay stiff or bend?",
           "kid": "Spoon up the liquid from each plate. Test one slice from each. Does it droop?",
           "ask": [
@@ -1867,7 +1867,7 @@
               ]
             }
           ],
-          "parent": "Usually the salt plate has a clear puddle of 1 to 3 teaspoons in 20 minutes. Sugar draws water more slowly, so it has less. The plain plate has only a few drops. If your results differ, say so and wonder why.",
+          "parent": "Typically the salt plate has a clear puddle of about 1 to 2 teaspoons in 20 minutes. Salt works much faster than the same spoon of sugar, so the sugar plate has less, sometimes only a damp film. The plain plate has only a few drops. In damp weather salt clumps and works slower: wait 30 minutes, or crush the clumps. Thick or watery slices give different amounts. If your results differ, say so and wonder why.",
           "wait": "Wait 20 minutes. Do not touch the plates.",
           "context": "In this step, you measure what the salt and the sugar did to the cucumber."
         },
@@ -1891,7 +1891,8 @@
           },
           "context": "In this last step, you link the cucumber to a plant's roots."
         }
-      ]
+      ],
+      "safety": "A grown-up cuts the cucumber with a sharp knife. The plain slices can be eaten afterwards; do not eat the salted or sugared ones in a hurry, they are very salty or sweet. Wash hands after."
     },
     {
       "id": "a2",
@@ -1900,7 +1901,7 @@
       "days": 2,
       "materials": [
         {
-          "item": "2 strips of paper towel or thin cotton cloth, each about 3 centimetres wide and 20 centimetres long",
+          "item": "2 strips of dark cotton cloth (an old dark kurta or gamcha is fine, so a white crust shows up) or paper towel, each about 3 centimetres wide and 20 centimetres long",
           "qty": 2
         },
         {
@@ -1912,7 +1913,7 @@
           "qty": 1
         },
         {
-          "item": "2 pieces of tape, a pen, and a magnifying glass if you have one",
+          "item": "2 pencils or chopsticks to hold the strips up, 2 pieces of tape, a pen, and a magnifying glass if you have one",
           "qty": 1,
           "buy": "b-lens"
         }
@@ -1933,8 +1934,8 @@
       "context": "In this activity, a paper strip acts like a plant's xylem and the top of the strip acts like a leaf. You see what stays behind when water leaves.",
       "setup": [
         {
-          "art": "Two tall glasses side by side, one with clear salt water and one with plain water, each with a paper strip leaning over the rim with one end in the water.",
-          "caption": "1. Stand a paper strip in each glass, with one end in the water."
+          "art": "Two tall glasses side by side, one with clear salt water and one with plain water, each with a strip taped to a pencil that leans on the rim, the bottom 2 centimetres of the strip in the water and the rest standing up in the air.",
+          "caption": "1. Tape a strip to a pencil. Stand it in each glass, with its bottom end in the water and the top in the air."
         },
         {
           "art": "The strips after an hour, wet halfway up, with the wet line marked in pencil.",
@@ -1968,16 +1969,16 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is good.",
+          "parent": "Who does what: one child does both glasses. With 2 to 4 children, one child per glass; with four, add a second salt glass and put one salt glass in a sunny window and the other in the shade, and compare the crusts. Do not correct the guess. Any guess with a reason is good.",
           "context": "This is the first step of Leave the Salt Behind. You guess before you test."
         },
         {
           "id": "s2",
           "mins": 8,
-          "do": "Stir 2 teaspoons of salt into 100 millilitres of water until it is gone. Pour it into one glass. Pour 100 millilitres of plain water into the other. Fold the end of each strip over the rim of its glass and tape it outside. Keep the bottom 2 centimetres in the water.",
-          "say": "Mix the salty water. Pour it in one glass. Plain water goes in the other. Hang a paper strip in each, with its tip in the water. Tape the top to the glass.",
-          "kid": "Make salty water. Pour it in one glass. Put a paper strip in each glass.",
-          "parent": "The tape holds the strip in place. Put the glasses on a tray in a warm, airy place, out of the sun.",
+          "do": "Stir 2 teaspoons of salt into 100 millilitres of water until it is gone. Pour it into one glass. Pour 100 millilitres of plain water into the other. Tape each strip along a pencil. Lean each pencil on its glass. The bottom 2 centimetres of the strip is in the water. The rest stands up in the air.",
+          "say": "Mix the salty water. Pour it in one glass. Plain water goes in the other. Tape a strip to a pencil. Lean it in each glass, with the bottom tip in the water and the top in the air.",
+          "kid": "Make salty water. Pour it in one glass. Lean a strip on a pencil in each glass.",
+          "parent": "The pencil keeps the strip standing in the air, where the water can leave from its top. Do not let the strip hang over the rim and down the outside: it would drip like a tap instead of drying. The tape holds the strip in place. Put the glasses on a tray in a warm, airy place, out of the sun.",
           "check": {
             "t": "mcq",
             "q": "Why do we have a strip in plain water too?",
@@ -2013,7 +2014,7 @@
               ]
             }
           ],
-          "parent": "Both strips will probably wet to about the same height. The difference shows up as the paper dries.",
+          "parent": "Both strips will probably wet to about the same height, typically a few centimetres in an hour, higher on cloth than on thick paper. Salt water may climb a little more slowly. The difference shows up as the paper dries.",
           "wait": "Wait an hour.",
           "context": "In this step, you see how high the water goes in an hour."
         },
@@ -2039,7 +2040,7 @@
               ]
             }
           ],
-          "parent": "The crust forms where the water leaves, near the top of the wet part. If you do not see a crust, leave it another day. It can take a day or two in cool or humid weather.",
+          "parent": "The crust forms where the water leaves, near the top of the wet part. If you do not see a crust, leave it another day. It can take a day or two in cool or humid weather, and a fan or a sunny window makes it faster. Rub the dark cloth gently: a gritty white edge is salt.",
           "wait": "Leave the strips overnight.",
           "context": "In this step, you find what the water left behind."
         },
@@ -2063,7 +2064,8 @@
           },
           "context": "In this last step, you link the strip to leaves, soil and fields."
         }
-      ]
+      ],
+      "safety": "Salt water is not for drinking. Wipe up spills so nobody slips."
     },
     {
       "id": "a3",
@@ -2072,7 +2074,7 @@
       "days": 1,
       "materials": [
         {
-          "item": "a roll of sticky paper tape or strips of paper, and scissors",
+          "item": "a roll of sticky tape, sheets of paper to cut into strips (the longest strip is 94 centimetres, so tape 4 pieces end to end), and scissors",
           "qty": 1
         },
         {
@@ -2127,7 +2129,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess.",
+          "parent": "Who does what: one child does all six strips. With 2 to 4 children, share the strips out (two children can cut the long ones), then lay them down together. Do not correct the guess.",
           "context": "This is the first step of the String Staircase. You guess before you draw."
         },
         {
@@ -2190,7 +2192,7 @@
           "do": "Ask your child to say what the staircase shows. Ask what would happen to the dry-air strip on a foggy morning, and what that does to the water flow.",
           "say": "What does the staircase show? On a foggy morning the air is almost as damp as the leaf. How long would the air strip be then? What would happen to the water?",
           "kid": "What does the staircase show? What happens on a foggy morning?",
-          "parent": "A good answer: 'The last step is the biggest. The air pulls most of the water. In fog, there is no big step, so little water moves.'",
+          "parent": "Fog is about 99 percent damp, which is a pull number of about 1.4, or 14 millimetres. A good answer: 'The last step is the biggest. The air pulls most of the water. In fog, there is no big step, so little water moves.'",
           "check": {
             "t": "mcq",
             "q": "On a foggy morning, the air's strip is about 14 millimetres, and the leaf's is 15. What happens to the water flow?",
@@ -2204,7 +2206,8 @@
           },
           "context": "In this last step, you say what the staircase shows."
         }
-      ]
+      ],
+      "safety": "Use scissors with care. Young children use blunt scissors, or tear the strips instead."
     }
   ],
   "projects": [],
@@ -2221,15 +2224,15 @@
         "Both cups get 8 methi seeds and 2 tablespoons of plain water at sowing."
       ],
       "materials": [
-        "2 curd cups or plastic cups, each with 4 small holes poked in the bottom by a grown-up",
+        "2 curd cups or plastic cups of 250 millilitres or more, each with 4 small holes poked in the bottom by a grown-up",
         "2 saucers or trays to stand them on",
-        "300 grams of dry garden soil or potting soil, split into two equal lots",
+        "300 grams of dry garden soil or potting soil (if it is sticky clay, mix in a handful of sand), split into two equal lots",
         "half a teaspoon of salt, stirred into 100 millilitres of water",
         "600 millilitres of plain water in a jug",
         "16 methi (fenugreek) seeds, a spoon, a pencil and your notebook"
       ],
       "general": [
-        "Pour the plain water slowly through the soil in three lots and let each lot drain out through the holes. This is called flushing.",
+        "Pour the plain water slowly through the soil in three lots, each lot poured as two slow halves so the cup does not overflow, and let each lot drain out through the holes. This is called flushing.",
         "Make sure the holes are not blocked, so the salty water can leave the cup.",
         "Wait for the cup to stop dripping, then sow the seeds."
       ],
@@ -2270,7 +2273,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the ideas. Look for ideas that remove the salt, not just add water.",
+          "parent": "Who does what: one child runs both cups. With 2 to 4 children, share cup A, and give each child one more spoilt cup (150 grams of soil and 50 millilitres of the same salty water, so make a quarter teaspoon more salt in 50 millilitres of water for each extra cup) to rescue with their own plan and the same 600 millilitres of water. Do not correct the ideas. Look for ideas that remove the salt, not just add water.",
           "context": "This is the first step of the Rescue the Salty Pot challenge. You plan."
         },
         {
@@ -2286,7 +2289,7 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Leave cup A alone. For cup B, pour 200 millilitres of plain water slowly over the soil. Let it drain. Then pour another 200 millilitres and let it drain. Then pour the last 200 millilitres. Look at the water in the saucer.",
+          "do": "Leave cup A alone. For cup B, pour 200 millilitres of plain water slowly over the soil, in two halves. Let it drain. Then pour another 200 millilitres the same way and let it drain. Then pour the last 200 millilitres. Look at the water in the saucer.",
           "say": "Cup A stays as it is. Cup B gets three slow pours of plain water, one after another. Let each one drain before the next. What does the water in the saucer look like?",
           "kid": "Cup A stays as it is. Flush cup B with three slow pours of water.",
           "ask": [
@@ -2298,7 +2301,7 @@
               ]
             }
           ],
-          "parent": "Pour slowly, so the water spreads through the soil. Do not let the cup stand in the saucer of salty water. Empty the saucer.",
+          "parent": "Pour slowly, so the water spreads through the soil. Slow draining is normal and can take 10 minutes a lot. If soil washes out of the holes, put a small piece of cloth over them. Do not let the cup stand in the saucer of salty water. Empty the saucer.",
           "check": {
             "t": "mcq",
             "q": "What does the plain water do to the salt in cup B?",
@@ -2343,11 +2346,12 @@
               ]
             }
           ],
-          "parent": "Usually B has many more sprouts than A. If A also does well, the salt may have been too little. Try one full teaspoon next time.",
+          "parent": "Typically B has many more sprouts than A, though a few seeds in A may still sprout, so compare the counts and the shoot heights. If A also does well, the salt may have been too little. Try one full teaspoon next time.",
           "wait": "Leave the cups for 4 days. Water both with 2 tablespoons every day.",
           "context": "In this last step, you judge the rescue and think of a better way."
         }
-      ]
+      ],
+      "safety": "A grown-up pokes the holes (use a skewer or the point of scissors, pressed into the cup on a board). Salty water is not for drinking. Do not eat the methi sprouts from this test. Wipe up spills."
     }
   ],
   "videos": [
@@ -2939,5 +2943,5 @@
     "when": "1894 (the idea), and the early 1960s, with results published in 1965 (the measurement)",
     "wrong_idea": "Many scientists thought a thread of water pulled so hard must snap, so the pull idea could not be right. Scholander measured the pull and found that plants hold water under strong pull without it breaking."
   },
-  "playtest": "Read through as a parent and child in a city flat would use it, but not yet tried at home, so the amounts below are estimates to check. Salt and the Sprouts: salt strengths of about 0.75, 1.5 and 3 percent were chosen so moong germination falls in steps. Expect something like 9 or 10, 6 to 9, 1 to 6 and 0 or 1 sprouts, but results vary by seed batch. If cup A also fails, the seeds are old, so try a fresh packet. Fan, Still Air or Bag: the oil layer and the narrow bottle neck make small losses visible, and the drop may be only 1 to 5 millimetres. Leave it overnight if it is small. A kitchen scale gives a second reading. The bag usually shows droplets within 2 hours. Salted Slices: expect about 1 to 3 teaspoons of liquid on the salt plate after 20 minutes, and less on the sugar plate. Leave the Salt Behind: a white crust forms along the upper edge of the wet part of the salty strip in about a day, and may take longer in humid weather. String Staircase: the 94 centimetre strip needs a table or floor space. The pull numbers are rounded examples. Rescue the Salty Pot: soil with salt flushed by 600 millilitres usually sprouts methi and the unflushed cup usually does not, but a very salty or very clay soil may need more water. Which Way Does the Water Go: all 24 cards and 8 tokens are written out, and the solo version scores out of 48. Facts to verify before release: the 14 billion root hairs on one rye plant, the figure of 2,500 litres of water for 1 kilogram of rice, the typical pull numbers for soil, root, leaf, sea water and air (worked from the humidity formula and from standard plant-physiology figures), more than 90 percent salt exclusion in Rhizophora, the 7 to 8 in 10 fungus partner figure, neera being phloem sap, Scholander's measurement dates and the wording of the Rig Veda 10.9 hymn. All three videos are still to be found."
+  "playtest": "Read through as a parent and child in a city flat would use it, but not yet tried at home, so the amounts below are estimates to check. Salt and the Sprouts: salt strengths of about 0.75, 1.5 and 3 percent were chosen so moong germination falls in steps. Expect something like 9 or 10, 6 to 9, 1 to 6 and 0 or 1 sprouts, but results vary by seed batch. If cup A also fails, the seeds are old, so try a fresh packet. Fan, Still Air or Bag: the oil layer and the narrow bottle neck make small losses visible, and the drop may be only 1 to 5 millimetres. Leave it overnight if it is small. A kitchen scale gives a second reading. The bag usually shows droplets within 2 hours. Salted Slices: expect about 1 to 2 teaspoons of liquid on the salt plate after 20 minutes, and less on the sugar plate. Leave the Salt Behind: a white crust forms along the upper edge of the wet part of the salty strip in about a day, and may take longer in humid weather. String Staircase: the 94 centimetre strip needs a table or floor space. The pull numbers are rounded examples. Rescue the Salty Pot: soil with salt flushed by 600 millilitres usually sprouts methi and the unflushed cup usually does not, but a very salty or very clay soil may need more water. Which Way Does the Water Go: all 24 cards and 8 tokens are written out, and the solo version scores out of 48. Facts to verify before release: the 14 billion root hairs on one rye plant, the figure of 2,500 litres of water for 1 kilogram of rice, the typical pull numbers for soil, root, leaf, sea water and air (worked from the humidity formula and from standard plant-physiology figures), more than 90 percent salt exclusion in Rhizophora, the 7 to 8 in 10 fungus partner figure, neera being phloem sap, Scholander's measurement dates and the wording of the Rig Veda 10.9 hymn. All three videos are still to be found."
 }

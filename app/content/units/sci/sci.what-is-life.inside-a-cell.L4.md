@@ -230,7 +230,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 
 ## Games
 ### g1 · Cell City Emergency: which room is it? (20 min)
-- **rules:** Each player has a set of eight room tokens.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player pushes one token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the room and the reason. A player with the right room scores two points.; A player with a wrong room scores one point if they can say in one sentence what that room really does.; The reader changes after each card. The player with the most points when the pile ends wins.; You can also play alone. Turn over a card, say your answer aloud, check the back, and count your right answers out of twelve.
+- **rules:** Each player has a set of eight room tokens.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player pushes one token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the room and the reason. A player with the right room scores two points.; A player with a wrong room scores one point if they can say in one sentence what that room really does.; The reader changes after each card. The player with the most points when the pile ends wins.; You can also play alone. Turn over a card, say your answer aloud, check the back, and count your right answers out of twelve.; No printer? Write each question and answer on a slip by hand, and write the eight room names on eight scraps for each player. Two players can also share one set of tokens and take turns. A grown-up helps younger children with the scissors.
 - **Printable cards: 12 two-sided cards: an emergency in the cell on the front, and the room that matters with the reason on the back:** The food has arrived, but the cell has no way to turn it into usable energy. Which room is in trouble? (back: Mitochondria. They release energy from food with oxygen, and make ATP.); A heart muscle cell must work every second of your life. Which room will she have the most of? (back: Mitochondria. A heart muscle cell has thousands, to make the ATP that powers every beat.); A poison called cyanide stops the cell from using oxygen. Which room does it stop? (back: Mitochondria. They cannot finish releasing energy without oxygen, and the cell runs out of power quickly.); The master recipe book has been damaged by too much sunlight. Which room holds it? (back: The nucleus. It holds the DNA, so damage there can mean wrong recipes are copied.); A copy of a recipe has arrived at a workshop, but nobody is building the protein. Which room is missing? (back: Ribosomes. They read the messenger copy and build the protein.); A cell is making a lot of digestive juice, and the proteins are piling up unlabelled. Which room is slow? (back: The Golgi body. It labels and posts the proteins to where they are needed.); A poison has slipped into the cell through the gate. Which part should have kept it out? (back: The cell membrane. It lets some things through and keeps others out.); Sugar is waiting outside the cell and cannot get in by itself. Which part helps it in? (back: The cell membrane. Special proteins in it carry sugar across.); A white blood cell has swallowed a germ. Which room breaks the germ down? (back: The lysosome. It holds strong juices that digest the germ.); A leaf cell has been kept in a dark cupboard for a week. Which room cannot do its job? (back: The chloroplast. It needs light to make sugar.); A plant cell is wilting because her water store is empty. Which room is it? (back: The vacuole. In a plant cell, the big vacuole holds water and pushes the cell firm.); A copy of a gene is ready to leave the library, but the library stays closed. Which part holds the DNA and has tiny doors? (back: The nucleus. Its pores let copies out and keep the DNA inside.)
 - **Printable tokens: 8 room tokens: one set for each player (copy the sheet for every player):** Cell membrane; Nucleus; Ribosomes; Mitochondria; Golgi body; Lysosome; Chloroplast; Vacuole
 - **s1 (4 min)**  
@@ -256,7 +256,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **question:** Does the red of a beetroot stay inside its cells in cold water, in warm water, in hot water, and in soapy water?
 - **predict:** Before you start, guess. Which glass will turn the reddest, and which will stay clear? Why do you think so?
 - **fair test:** Every glass gets the same amount of water, two cubes of the same size, and the same 20 minutes. Only one thing changes between glasses: cold, warm, hot, or cold with soap. All the cubes are rinsed first, so the red you see comes from inside the cells.
-- **safety:** A grown-up cuts the beetroot and pours the hot water. The hot glass stays on the tray, away from the edge. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass.
+- **safety:** A grown-up cuts the beetroot and pours the hot water. The hot glass stays on the tray, away from the edge. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass. Nobody touches glass C until it has cooled.
 - **record:** Write a colour score for each glass at 5, 10 and 20 minutes: 0 for clear, 1 for the faintest pink, 3 for clearly pink, 5 for deep red. Write the colour of the cube at the end. Then draw the four glasses with the colours you saw.
 - **results table:** Glass | What is in it | Colour score at 5 min | Colour score at 10 min | Colour score at 20 min | Colour of the cube at the end
 - **s1 (6 min)**  
@@ -274,13 +274,13 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Pour about half a cup of water into each glass. A gets cold tap water. B gets warm water that feels hand-hot. C gets water just off the kettle, poured by a grown-up. D gets cold tap water and a teaspoon of dish soap, stirred gently. Drop two cubes into each glass at the same moment and start the timer.  
   *Parent says:* Here come the cubes. Two in each glass, all at once, so the glasses get the same time. The timer starts now.  
   *Child mode:* Pour water into each glass. A grown-up pours the hot water. Drop two cubes in each glass. Start the timer.
-  - Note: Hand-hot means as warm as you can comfortably touch, about 45 degrees. The kettle water is far too hot to touch, so keep glass C on the tray. Stir the soap gently so it does not foam over. If you have a thermometer, write the water temperatures in the table.
+  - Note: Hand-hot means as warm as you can comfortably touch, about 45 degrees. The kettle water is far too hot to touch, so keep glass C on the tray. Pour the hot water slowly into glass C, with a steel spoon standing in the glass. Stir the soap gently so it does not foam over. If you have a thermometer, write the water temperatures in the table.
 - **s4 (10 min)**  
   *Parent does:* Hold a sheet of white paper behind each glass at 5, 10 and 20 minutes. Give each glass a colour score from 0 to 5. Write the scores in the table. Do not stir.  
   *Parent says:* Look at each glass against the white paper. Give it a score from 0 for clear to 5 for deep red. Which glass changes first? What do you see?  
   *Child mode:* Look at each glass against white paper. Score its colour from 0 to 5. Do this three times.
   - Ask: Which glass changed first, and which has not changed at all? (good: The hot glass changed first.; The cold glass is still clear.)
-  - Note: Hot water should turn red within minutes. Soap is slower, often pinkish after 10 to 20 minutes. Warm water may give a faint pink. Cold water usually stays clear or very faintly pink. If your results differ, write them down as they are. That is a result too.
+  - Note: Hot water should turn red within minutes. Soap is usually slower and fainter than heat, and dish soaps differ, so D may be only pinkish at 20 minutes. Warm water may give a faint pink. Cold water usually stays clear or very faintly pink. If even the hot glass stays pale, the beetroot is probably old or has been cooked: use a fresh firm one and thinner cubes. Otherwise, if your results differ, write them down as they are. That is a result too. With two to four children, one child turns the labels away and scores the glasses without knowing which is which, then the others check the labels and compare. If you are alone, a grown-up shuffles the glasses for you. Each child can make a guess for one glass of their own.
   - Wait: Leave the glasses for 20 minutes in total.
 - **s5 (5 min)**  
   *Parent does:* Lift the cubes out of each glass with a spoon. Look at the colour of each cube. Write what you see in the last column of the table.  
@@ -297,8 +297,8 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 ### e2 · Banana DNA: can you pull the recipe book out of a cell? (38 min)
 - **question:** Can you see DNA with your own eyes if you break open the cells of a banana?
 - **predict:** Before you start, guess. Will you see anything, and what will it look like? Why do you think so?
-- **fair test:** Use the same ripe banana for the test glass. As a check, put the same amount of alcohol on a spoon of plain warm water with soap and salt but no banana. If strands appear only where the banana is, the strands came from the banana.
-- **safety:** A grown-up handles the rubbing alcohol. It burns easily, so keep it away from the stove and any flame. It is poisonous, so nobody tastes it or the banana mixture. Wash hands afterwards. Do not leave the glasses where a younger child can reach them.
+- **fair test:** The test glass holds the banana liquid. The check glass holds plain warm water with soap and salt but no banana, filled to the same depth. Both get the same amount of cold alcohol. If strands appear only where the banana is, the strands came from the banana.
+- **safety:** A grown-up handles the rubbing alcohol. It burns easily, so keep it away from the stove and any flame. It is poisonous, so nobody tastes it or the banana mixture. Wash hands afterwards. Do not leave the glasses where a younger child can reach them. Work near an open window, and check that nobody is allergic to banana or strawberry.
 - **record:** Write what you saw at the top layer after 5 minutes, in both glasses. Draw the tall glass with its layers: banana liquid at the bottom, alcohol on top, and the white strands between.
 - **results table:** Glass | What is in it | What I saw at the top after 5 minutes | Strands, yes or no
 - **s1 (5 min)**  
@@ -311,15 +311,15 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Mash half a ripe banana with a fork in a bowl until it is smooth like paste. Add half a cup of warm water and a quarter teaspoon of salt. Stir.  
   *Parent says:* Mashing breaks the banana into small pieces, so the soap can reach the cells. The salt will help the DNA clump together later.  
   *Child mode:* Mash the banana until it is smooth. Add warm water and salt. Stir.
-  - Note: Warm water from the tap is fine, not hot. The smoother the paste, the more cells are opened. A ripe banana works best.
+  - Note: Warm water from the tap is fine, not hot. The smoother the paste, the more cells are opened. A ripe banana works best. With two to four children, each child can mash a quarter banana in their own cup and make their own glass, and the grown-up pours the alcohol for each. Alone, make one banana glass and one check glass.
 - **s3 (6 min)**  
   *Parent does:* Add one teaspoon of dish soap. Stir slowly for three minutes. Try not to make foam. Leave it for five minutes.  
   *Parent says:* The soap breaks the fatty skins around the cells and around the nuclei. Remember the beetroot test. Stir gently, because foam traps the DNA.  
   *Child mode:* Add the soap. Stir slowly for three minutes. Do not make foam.
   - Ask: What did soap do to the beetroot cells? (good: It opened the skin and the red came out.)
-  - Note: This connects to the beetroot test. Soap dissolves the fatty membranes of the cells and the nuclei, so the DNA is set free.
+  - Note: This connects to the beetroot test. Soap dissolves the fatty membranes of the cells and the nuclei, so the DNA is set free. It helps to stand the cup in a bowl of hot tap water for ten minutes while it sits, but not water that is too hot to touch.
 - **s4 (6 min)**  
-  *Parent does:* Pour the mixture through a coffee filter into a tall glass. Fill the glass about one third full. Pour a second small glass with water, soap and salt but no banana, as a check.  
+  *Parent does:* Pour the mixture through a coffee filter or a clean thin cloth into a tall glass. Fill the glass about one third full. Pour a second small glass with water, soap and salt but no banana, as a check.  
   *Parent says:* The filter catches the lumps. The clear liquid has the DNA in it, but it is too thin to see. We make a check glass with no banana too.  
   *Child mode:* Strain the mixture into a tall glass. Make a check glass with no banana.
   - Note: Squeeze the filter gently, but do not tear it. Make the check glass the same depth as the banana glass.
@@ -328,7 +328,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent says:* Slowly now. The alcohol floats on top. DNA does not dissolve in alcohol. Watch the line between the two layers. What do you see?  
   *Child mode:* A grown-up pours cold alcohol down the side. Watch the line between the layers.
   - Ask: What do you see at the line between the layers? (good: White cloudy strands.; Stringy stuff rising up.)
-  - Note: If nothing shows after five minutes, wait five more. If it is still nothing, the alcohol may have been too warm or too weak (70 percent works poorly), or the mixture was stirred too hard. Pour more cold alcohol and try again with a new glass. A clear line with a white cloud on it is success.
+  - Note: If nothing shows after five minutes, wait five more. If it is still nothing, the alcohol may have been too warm or too weak (70 percent works poorly), or the mixture was stirred too hard. Pour more cold alcohol and try again with a new glass. A clear line with a white cloud on it is success. Banana gives a modest cloud, not a thick rope, so a few small white threads count. Strawberries give more.
   - Wait: Leave the glass still for five minutes.
 - **s6 (6 min)**  
   *Parent does:* Twirl a toothpick in the white strands and lift them out. Look at what you have. Ask your child to say what they thought, what they saw and why.  
@@ -340,12 +340,12 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **question:** Is a flask of sprouting moong warmer than a flask of boiled moong after a night?
 - **predict:** Before you start, guess. Will the sprouts be warmer, colder or the same as the boiled seeds? Why do you think so?
 - **fair test:** Both flasks get the same amount of moong, the same container, the same towel wrapping, and the same place in the house. Only one thing differs: the seeds in one flask are alive, and the seeds in the other are not.
-- **safety:** A grown-up boils the moong. Do not eat any seeds from the flasks, because the boiled ones can go bad. Wash the flasks afterwards. Keep the flasks in a safe place away from pets.
+- **safety:** A grown-up boils the moong. Do not eat any seeds from the flasks, because the boiled ones can go bad and smell sour. Wash the flasks well afterwards. Check that nobody is allergic to moong. Hot water and the stove are for the grown-up only. Keep the flasks in a safe place away from pets.
 - **record:** Write both temperatures at the start and the next morning. Work out the difference. Write whether the flask smells different. Draw a thermometer for each flask.
 - **results table:** Flask | What is in it | Start temperature | Next morning | Difference from the boiled flask
-- **schedule:** day 1: Soak 1 cup of moong in water overnight. (6 min); day 2: Drain the moong. A grown-up boils one cup for 10 minutes and cools it. Fill both flasks. Take the start temperature. (26 min); day 3: Measure both flasks again in the morning and compare. (8 min)
+- **schedule:** day 1: Soak 2 cups of moong in plenty of water for 8 hours or overnight. (6 min); day 2: Drain the moong. A grown-up boils half of it for 10 minutes and cools it. Fill both flasks to the top. Take the start temperature. (26 min); day 3: Measure both flasks again in the morning and compare. (8 min)
 - **s1 (6 min)**  
-  *Parent does:* On the evening before, soak one cup of moong in plenty of water for 8 hours or overnight. Ask for a guess and a reason. Write both down.  
+  *Parent does:* On the evening before, soak two cups of moong in plenty of water for 8 hours or overnight. Ask for a guess and a reason. Write both down.  
   *Parent says:* Seeds are alive. When wet, they wake up. Will a flask of waking seeds be warmer than a flask of boiled seeds? Why do you think so?  
   *Child mode:* Soak the moong overnight. Guess which flask will be warmer, and why.
   - Ask: Do you think living seeds make heat? Why? (good: Yes, because they are doing things.; No, because seeds just sit there.)
@@ -357,27 +357,28 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Child mode:* A grown-up boils half the moong. Cool it to room temperature. Keep the other half raw.
   - Note: The boiled seeds must be fully cool before they go in the flask, or the start temperatures will not match.
 - **s3 (10 min)**  
-  *Parent does:* Fill both flasks to the same level with moong. Put a thermometer in each, and press the lid down loosely. Write both starting temperatures. Wrap both flasks in towels and set them in a box in a quiet corner.  
+  *Parent does:* Fill both flasks right to the top with moong. Push a thermometer into the middle of the seeds in each, and set the lid on loosely. Write both starting temperatures. Wrap both flasks in towels and set them in a box in a quiet corner.  
   *Parent says:* Same container, same amount, same towel, same corner. What are the temperatures now? Write them down.  
   *Child mode:* Fill both flasks. Put in thermometers. Write the starting temperatures. Wrap them in towels.
-  - Note: Keep the lids loose, because the sprouts make carbon dioxide. If you only have one thermometer, read one flask and then the other, with no delay. The start temperatures should be within half a degree of each other.
+  - Note: Keep the lids loose, because the sprouts make carbon dioxide. A full flask has little air to carry the heat away. If the thermometer cannot stay in with the lid on, read the start temperature, close the flask, and read it again at the end by opening the lid and pushing the thermometer in at once. With two to four children, each child owns one job: filler, thermometer reader, writer and timekeeper, and swaps for the next reading. Everyone makes a guess first. If you only have one thermometer, read one flask and then the other, with no delay. The start temperatures should be within half a degree of each other.
 - **s4 (8 min)**  
   *Parent does:* The next morning, open each flask and read the temperature at once. Write the numbers. Work out the difference. Smell each flask.  
   *Parent says:* Open the flasks and read the temperatures quickly. Which is warmer? By how much? What do the seeds smell like?  
   *Child mode:* Read both temperatures at once. Which flask is warmer? Smell each one.
-  - Ask: Which flask is warmer, and by how much? (good: The sprouting one is warmer by a degree or two.)
-  - Note: A difference of one to three degrees is typical. It could be smaller if your flasks do not hold heat well. If both flasks warmed, the boiled seeds may carry microbes that also make heat. That is a real effect, so say so. If the difference is nothing, say so and try again with more seeds in a better flask.
+  - Ask: Which flask is warmer, and by how much? (good: The sprouting one is warmer by about a degree.)
+  - Note: In a good vacuum flask, the sprouts are typically warmer by about half a degree to two degrees. Seeds make only a little heat, so in a plain dabba the difference may be too small to see, or nothing. If both flasks warmed, the boiled seeds may carry microbes that also make heat. That is a real effect, so say so. If the difference is nothing, say so and try again with more seeds in a better flask.
   - Wait: Leave the flasks overnight.
 - **s5 (6 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then explain. Pour the seeds into the compost or bin.  
   *Parent says:* Tell me three things. What did you think? What did you see? Why do you think it happened?  
   *Child mode:* Say what you thought, what you saw, and why.
-  - Note: Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this. It is the same reason you warm up when you run.
+  - Note: Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this, though germs in them can make a little heat too, so the difference is small. It is the same reason you warm up when you run.
   - Check: Why was the boiled flask a check on the test? → **It showed what the flask does when the seeds are not alive.**
   - Think: Where did the heat come from, if nobody lit a fire?
 
 ## Activities
 ### a1 · The Copy Walk: from recipe book to bead necklace (25 min)
+- **safety:** Dry grains are small. Keep them away from toddlers, and nobody puts them in the mouth, nose or ears. If a child is allergic to any pulse, use coloured paper bits or beads instead.
 - **record:** Draw the recipe dots, the messenger copy, and the necklace you built each time. Write what changed when the dots changed.
 - **s1 (6 min)**  
   *Parent does:* Draw eight dots on the paper strip in this order: red, red, blue, yellow, yellow, red, blue, blue. Put the strip on the steel plate. Then write the code on another paper. RR, RB and YY mean chana. RY and YR mean rice. BR and BB mean moong. BY and YB mean rajma.  
@@ -393,7 +394,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* At the ribosome plate, read the note two dots at a time. Use the code to pick a grain for each pair. Line up the grains in order.  
   *Parent says:* You are the ribosome now. Read two dots, pick a grain. What is your necklace? It should have four grains.  
   *Child mode:* Read two dots. Pick a grain. Do it four times. Line them up.
-  - Note: The right answer is chana, rajma, rice, moong. Check the pairs RR, BY, YR and BB against the code.
+  - Note: The right answer is chana, rajma, rice, moong. Check the pairs RR, BY, YR and BB against the code. With two to four children, one guards the book on the nucleus plate, one copies the note, and one is the ribosome. Swap parts, and let the guard draw a new strip of eight dots for the next round. Alone, play all three parts and let a grown-up draw the new strip.
 - **s4 (8 min)**  
   *Parent does:* Now make a mistake on purpose. First, change the second dot of the first word from red to blue. Copy, read and build again. Then change the first dot of the first word from red to yellow. Copy, read and build again. Compare the three necklaces.  
   *Parent says:* A cell sometimes copies a letter wrongly. What happens to the necklace when one dot changes? Try both.  
@@ -409,25 +410,25 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Child mode:* Write five cell names on slips. Lay them from fewest mitochondria to most.
   - Ask: Which cell do you think has the fewest, and why? (good: The red blood cell, because she only carries things.)
   - Ask: Which has the most, and why? (good: The heart cell, because she never rests.)
-  - Note: Do not correct. Any order with a reason is a good start.
+  - Note: Do not correct. Any order with a reason is a good start. With more than one child, each lays out their own row first. Compare the rows before you show the true order.
 - **s2 (6 min)**  
   *Parent does:* Show the true order. A red blood cell has none. A sperm cell has about 50 to 75, packed in a spiral behind the head. A liver cell has about 1,000 to 2,000. A heart muscle cell has thousands. An egg cell has about 100,000 or more. Move the slips into this order.  
-  *Parent says:* Here is the true order. Which one surprised you? The egg cell is the biggest of the cells, and she has the most.  
+  *Parent says:* Here is the true order. Which one surprised you? The egg cell is the biggest cell in the human body, and she has the most.  
   *Child mode:* Move the slips into the true order. Which one surprised you?
   - Note: Numbers vary from cell to cell and from person to person, so say 'about'. The egg is surprising. After fertilisation she divides many times using her own mitochondria, so she carries most of what the first cells of a baby will need. The sperm cell's mitochondria sit in a tight spiral behind the head and power her swimming.
 - **s3 (4 min)**  
-  *Parent does:* Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each.  
+  *Parent does:* Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each. Then work out roughly how many liver cells an egg cell equals in mitochondria, using about 100,000 and about 1,000.  
   *Parent says:* A red blood cell carries oxygen and keeps none for herself. Why would that help? And why does the heart cell have thousands?  
   *Child mode:* Why does a red blood cell have none? Why does a heart cell have many?
-  - Note: A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells.
+  - Note: A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. The sum is 100,000 divided by 1,000, so about 100 liver cells. Say about, because the counts vary.
   - Think: If you trained for a race, would your muscle cells grow more mitochondria? Why?
 ### a3 · The Mother-Line Map: whose mitochondria do you carry? (20 min)
 - **record:** Draw your mother-line map. Write each woman's name and where she lived, as far back as you can.
 - **s1 (8 min)**  
-  *Parent does:* Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. Write each name and place. Draw a small bean-shaped mitochondrion beside each person.  
+  *Parent does:* Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. Write each name and place. Draw a small bean-shaped mitochondrion beside each person. If you can, ask an elder where each woman was born, and mark the places on a rough sketch map of India.  
   *Parent says:* Your mitochondria came mostly from your mother's egg. Hers came from her mother. Let us draw the line. How far back can we go?  
   *Child mode:* Draw yourself. Draw your mother above you. Add her mother. Go as far as you can.
-  - Note: If your family has adoption, loss or an unknown line, draw the line you know and stop there. That is part of the picture. Fathers and mothers both give DNA to the nucleus, but in most animals the mitochondria come from the egg.
+  - Note: If your family has adoption, loss or an unknown line, draw the line you know and stop there. That is part of the picture. Siblings share one mother-line, so they draw it together and each asks a different elder. Friends who are not related each draw their own and compare. Fathers and mothers both give DNA to the nucleus, but in most animals the mitochondria come from the egg.
 - **s2 (6 min)**  
   *Parent does:* Count the women on your map. Multiply by 25 years for each one to estimate how many years the line goes back. Write it on top.  
   *Parent says:* Count the women. Each one is about 25 years. How many years back does your line go?  
@@ -442,14 +443,14 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 
 ## Projects
 ### p1 · Cell City on a Tray: build the rooms and walk a protein through (60 min, 2 days)
-- **safety:** Dough is safe to touch. Do not eat the dough with the lentils mixed in. Keep toothpicks away from small children.
+- **safety:** Dough is safe to touch. Do not eat the dough with the lentils mixed in. Wheat and sesame are common allergens, so use clay and lentils instead if anyone is allergic. Dry lentils and toothpicks are for older children only, and keep them away from toddlers.
 - **record:** Take a photo or draw the finished city with every room labelled. Write the path of a protein from the nucleus to the outside. Write three things the model gets wrong.
 - **schedule:** day 1: Build the rooms and label them with job cards. (30 min); day 2: Walk a protein through the city and write three things the model gets wrong. (30 min)
 - **s1 (15 min)**  
   *Parent does:* Press a rope of dough around the rim of the tray for the membrane. Make a round nucleus and poke holes in it. Make five bean-shaped mitochondria. Make two small green ovals for chloroplasts if you build a plant cell.  
   *Parent says:* We are building a cell on a tray. The rope is the membrane. The ball with holes is the nucleus. The beans are mitochondria. What else will she need?  
   *Child mode:* Make a dough rope for the membrane. Make a nucleus with holes. Make bean mitochondria.
-  - Note: Leave space for the rooms to be crowded. The picture is meant to be packed.
+  - Note: Leave space for the rooms to be crowded. The picture is meant to be packed. Keep atta dough rooms in a closed box or under a damp cloth overnight, or they dry and crack. With two to four children, share one tray: each child makes some of the rooms, and on day two each takes a turn walking a protein through and saying what happens. Alone, expect the whole job to take the full hour.
 - **s2 (15 min)**  
   *Parent does:* Make the rough ER from folded strips of dough with lentils on them. Make a Golgi from a stack of curved strips. Make a lysosome from a small ball. Press a bowl in for the vacuole in a plant cell. Write a flag for each room, saying its job, and stick it in.  
   *Parent says:* Add the workshops. Lentils on the folded strips are ribosomes. The stack is the Golgi. Write a job on each flag.  
@@ -465,7 +466,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Ask your child to write three things the model gets wrong. For example, it stays still, it has a flat floor, and it shows only a few rooms. Look at the tray and compare.  
   *Parent says:* Our model sits still. A real cell never does. What else is different? Write three things the model gets wrong.  
   *Child mode:* Write three things the model gets wrong. Is there a boss in the city?
-  - Note: Good answers: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. The real cell is only about ten micrometres wide.
+  - Note: Good answers: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.
 
 ## Challenges
 ### c1 · A Cell for the Job: share out twenty rooms (40 min)
@@ -473,7 +474,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **your turn:** Pick a job from your own day: a cell in your eye, your tongue, your hair root or your bone. Share out twenty stickers and explain each choice. Then ask someone else to guess the job from your stickers alone.
 - **constraints:** Use exactly twenty stickers.; Give every cell at least one nucleus sticker, except a red blood cell.; Explain every choice in one sentence.; Only a plant cell can have chloroplasts.; Use what you learned about the rooms.
 - **general:** A muscle cell: one nucleus, twelve mitochondria stickers, a few ribosomes and some Golgi, because she needs lots of power.; A leaf cell: some mitochondria, many chloroplasts, one nucleus, a few ribosomes.; A digestive gland cell: lots of ribosomes and rough ER and Golgi, some mitochondria, because she makes and posts a lot of protein.
-- **creative:** A cell for a bird that flies over the Himalaya, such as the bar-headed goose: more mitochondria stickers than a runner, and a note on why.; A cell for a cave animal with no light and very little food: very few mitochondria, and a reason.; A cell with no nucleus, like a red blood cell, with only room for oxygen: no stickers at all, and a note on how long she can live.
+- **creative:** A cell for a bird that flies over the Himalaya, such as the bar-headed goose: more mitochondria stickers than a runner, and a note on why.; A cell for a cave animal with no light and very little food: very few mitochondria, and a reason.; A cell with no nucleus, like a red blood cell, with only room for oxygen: none of the six kinds of sticker, and a note on what she carries and how long she can live (about four months).
 - **s1 (6 min)**  
   *Parent does:* Read the problem together. Draw a big circle for the cell. Make a key with six colours for the six rooms. Ask what a leg muscle cell does all day.  
   *Parent says:* You are designing a cell for a job with twenty stickers. What does a runner's leg muscle cell do? Which rooms will she need most?  
@@ -676,9 +677,9 @@ Tiny Rooms, Big Life (sci.what-is-life.L4): Topic-level song
 - [Birla Industrial and Technological Museum, Kolkata]() · place · Kolkata: A science museum with models of the human body and of life.
 
 ## Things to buy
-- [Fresh raw beetroot, one or two](https://www.amazon.in/s?k=beetroot) (material): For the beetroot test. Fresh and firm works best. Cooked or tinned beetroot will not do. Used in e1. 
-- [A digital thermometer with a probe](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): For the sprout heat test. It can also read the temperature of water and milk later. Used in e1, e3. 
-- [Isopropyl rubbing alcohol, 90 percent or stronger](https://www.amazon.in/s?k=isopropyl+alcohol+99) (material): For the DNA test. A stronger alcohol gives a clearer result. A grown-up must handle it. Used in e2. 
+- [Fresh raw beetroot, one or two](https://www.amazon.in/s?k=beetroot) (material): For the beetroot test. Any vegetable seller or kirana has it. Fresh and firm works best. Cooked or tinned beetroot will not do. Used in e1. 
+- [A digital thermometer with a probe](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): For the sprout heat test, which needs to read a difference of half a degree. A digital probe thermometer costs a few hundred rupees. A glass lab thermometer from a stationery or science shop also works, but is harder to read to half a degree. A fever thermometer will not do, because it does not read room temperature. Used in e1, e3. 
+- [Isopropyl rubbing alcohol, 90 percent or stronger](https://www.amazon.in/s?k=isopropyl+alcohol+99) (material): For the DNA test. Ask a chemist or order online for isopropyl alcohol of 90 percent or more (often sold as IPA 99). The 70 percent rubbing alcohol gives few or no strands. About 100 millilitres is enough for each glass. A grown-up must handle it. Used in e2. 
 - [Coloured paper or beads in four colours](https://www.amazon.in/s?k=assorted+craft+beads) (material): For the Copy Walk, if you want colours instead of pulses. Used in a1, p1. 
 
 ## Warm-up

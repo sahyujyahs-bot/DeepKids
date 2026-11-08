@@ -598,7 +598,8 @@
      "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
      "say": "These cards show things in water or air. Each player gets two tokens. Floats or rises, and Sinks. We will guess what happens to each thing.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes two tokens.",
-     "context": "This is the first step of Harbour Master. You set up the cards and the tokens."
+     "context": "This is the first step of Harbour Master. You set up the cards and the tokens.",
+     "parent": "One child with a parent: play as the two-player rule says, swapping the reader after every card. Two to four children: use all the tokens. If the group is short of time, play 16 cards and stop."
     },
     {
      "id": "s2",
@@ -653,7 +654,8 @@
      "think": "Which card would change if the liquid were different?",
      "context": "This is the last step of Harbour Master. You look back at the game."
     }
-   ]
+   ],
+   "safety": "Use blunt-ended scissors for the cards, and an adult should cut for children under six."
   }
  ],
  "experiments": [
@@ -678,7 +680,7 @@
      "buy": "b-foil"
     },
     {
-     "item": "a ruler and a pair of scissors",
+     "item": "a ruler and a pair of scissors (blunt-ended ones are fine; foil cuts easily)",
      "qty": 1
     },
     {
@@ -686,8 +688,8 @@
      "qty": 1
     },
     {
-     "item": "about 50 identical coins, such as one-rupee coins, or about 50 identical steel nuts or washers",
-     "qty": 50
+     "item": "about 60 identical coins, such as one-rupee coins (each weighs about 4 to 5 grams), or about 60 identical steel nuts or washers",
+     "qty": 60
     },
     {
      "item": "a towel for wiping up spills",
@@ -698,7 +700,7 @@
      "qty": 1
     }
    ],
-   "safety": "Fold the foil edges over, because cut foil can be sharp. Keep coins and nuts away from children under five, who might put them in their mouths.",
+   "safety": "Fold the foil edges over, because cut foil can be sharp. Keep coins and nuts away from children under five, who might put them in their mouths. Wipe up spilt water at once so nobody slips.",
    "record": "For each boat, write how many coins it carried before it tipped or water came over the rim. Do each boat twice. Then draw a bar chart with one bar for each boat, using the bigger of the two numbers.",
    "context": "In this experiment, you fold the same foil into three different boats and find out how many coins each can carry. You also test a ball of foil.",
    "setup": [
@@ -740,7 +742,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. One child with a parent: the child folds and loads, the parent counts aloud and writes. Two to four children: each child folds and tests one boat (a different one each), then compares; one child is the counter, one adds coins, one writes. Make one set of boats per pair so every boat is tested twice. Nothing here needs more than one adult.",
      "context": "This is the first step of the Foil Boats test. You guess before you test."
     },
     {
@@ -749,7 +751,7 @@
      "do": "Measure and cut four squares of foil, each 15 centimetres by 15 centimetres. Fold the first square up 1 centimetre on every side. Fold the second up 3 centimetres on every side. Fold the third up 5 centimetres on every side. Pinch the corners so the sides stand up. Squeeze the fourth into a ball.",
      "say": "Fold each edge up, and press the corners to make the sides stand. The first boat has low sides and a wide base. The second has medium sides. The third has tall sides and a narrow base. The fourth is a ball.",
      "kid": "Cut four squares of foil. Fold up the edges of three. Make a ball with the last one.",
-     "parent": "Make the squares exactly the same size. Fold the sharp edges inwards so nobody scratches a finger. Write A, B and C on a small piece of paper by each boat.",
+     "parent": "Make the squares exactly the same size. Fold the sharp edges inwards so nobody scratches a finger. Write A, B and C on a small piece of paper by each boat. Fold the four corners flat against the sides and press them hard, so water cannot leak in through the corner folds.",
      "check": {
       "t": "mcq",
       "q": "Why must all four foil squares be the same size?",
@@ -798,7 +800,7 @@
        ]
       }
      ],
-     "parent": "Coins go in the middle. Stack them in small piles as the boat fills. If the boat tips, note it, and try again. Your numbers may differ between tries. That is normal, and it is why we do each boat twice.",
+     "parent": "Coins go in the middle. Stack them in small piles as the boat fills. If the boat tips, note it, and try again. Your numbers may differ between tries. That is normal, and it is why we do each boat twice. If you run out of coins before a boat fails, write 'more than 60' and add heavier items such as two-rupee or five-rupee coins. Foil boats are fussy: the numbers are likely to differ by several coins between tries, and that is normal.",
      "check": {
       "t": "mcq",
       "q": "Boat A carries 24 coins on try 1 and 26 coins on try 2. What does this show?",
@@ -819,7 +821,7 @@
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Draw a bar for each boat. Say what you thought, what you saw, and why.",
      "think": "Why did the ball of foil sink but every boat float?",
-     "parent": "A strong answer says that the boat with the most room for air pushed aside the most water. Many families find that the medium boat carries the most, the wide boat the next most, and the narrow deep boat the fewest because it tips. Yours may differ. After they have said what they saw, explain: each cubic centimetre of water pushed aside weighs one gram. The boat can carry cargo until the water it pushes aside weighs as much as the boat and the cargo together.",
+     "parent": "A strong answer says that the boat with the most room for air pushed aside the most water. By the volume of water each boat can hold, the medium boat should carry the most, and the narrow deep boat the fewest. But a tall boat can tip, and a wide shallow boat can fill over its low rim, so the order in your basin may differ. The pattern is not promised. Write what you actually saw, and give a reason for it. After they have said what they saw, explain: each cubic centimetre of water pushed aside weighs one gram. The boat can carry cargo until the water it pushes aside weighs as much as the boat and the cargo together.",
      "context": "This is the last step of the Foil Boats test. You draw the chart and explain what you found."
     }
    ]
@@ -839,7 +841,7 @@
    ],
    "materials": [
     {
-     "item": "a clear tall glass or a jar that holds about 300 millilitres",
+     "item": "a clear tall glass or jar that holds about 400 millilitres, so there is room for the salt",
      "qty": 1
     },
     {
@@ -851,7 +853,7 @@
      "qty": 1
     },
     {
-     "item": "about 6 level tablespoons of table salt",
+     "item": "about 5 level tablespoons of table salt (a finer salt dissolves faster)",
      "qty": 1
     },
     {
@@ -900,7 +902,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child adds salt and watches, and the parent counts the spoons and writes. Two to four children: give each child a glass and a piece of potato cut from the same potato; one child can test an egg instead of a potato (a raw egg usually floats after about 2 to 3 tablespoons, but yours may differ). Compare when they float.",
      "context": "This is the first step of the Potato and the Salt test. You guess before you test."
     },
     {
@@ -915,7 +917,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Take the potato out with a spoon. Add one level tablespoon of salt. Stir for 30 seconds, until the salt disappears. Put the potato back gently. Write what it does. Repeat, adding one tablespoon at a time, up to 5 tablespoons or until the potato floats.",
+     "do": "Take the potato out with a spoon. Add one level tablespoon of salt. Stir for about a minute, until the salt disappears. Put the potato back gently. Write what it does. Repeat, adding one tablespoon at a time, up to 5 tablespoons in all or until the potato floats.",
      "say": "Take the potato out first. Add one level tablespoon of salt, and stir until you can't see it. Put the potato back. Does it sink, hover or float? Do this again with another spoon.",
      "kid": "Take out the potato. Add one spoon of salt. Stir. Put the potato back. Write what it does. Repeat.",
      "ask": [
@@ -928,7 +930,7 @@
        ]
       }
      ],
-     "parent": "Hovering is when the potato stays in the middle of the glass and neither sinks nor floats. This tells you the salty water is about as dense as the potato. Most potatoes float after about 2 to 4 tablespoons. If salt stays at the bottom of the glass, the water is full of salt, and cannot take more. Try a smaller piece of potato.",
+     "parent": "Hovering is when the potato stays in the middle of the glass and neither sinks nor floats. This tells you the salty water is about as dense as the potato. Many potatoes float after about 2 to 4 tablespoons, but this is typical, not promised. A new, watery potato may need more, and an old one less. If salt stays at the bottom after a minute of stirring, the water cannot hold more. If the potato still sinks at 5 tablespoons, try a thinner slice of potato or a different potato: salt only changes the water, and some potatoes are denser than any salt water you can make. Stir warm tap water (not hot) if the salt is slow to dissolve.",
      "check": {
       "t": "mcq",
       "q": "After 3 tablespoons of salt, the potato floats. What has changed?",
@@ -952,7 +954,8 @@
      "parent": "A strong answer says that the potato was the same and that the salty water was denser. After they have said what they saw, explain: salt dissolves in the water and makes it heavier for its size. When the water is denser than the potato, the potato floats. This is also why it is easier to float in the sea than in a swimming pool.",
      "context": "This is the last step of the Potato and the Salt test. You explain what you found."
     }
-   ]
+   ],
+   "safety": "Salty water is not for drinking. Wash hands after handling the raw potato. If you try an egg, wipe up any broken egg at once."
   }
  ],
  "activities": [
@@ -967,7 +970,7 @@
      "qty": 1
     },
     {
-     "item": "a steel spoon, a wooden spoon, a one-rupee coin, a lemon, a whole potato, a candle stub, a plastic bottle cap",
+     "item": "a steel spoon, a wooden spoon, a one-rupee coin, a lemon (with its skin on), a whole raw potato, a candle stub, a plastic bottle cap",
      "qty": 7
     },
     {
@@ -1019,7 +1022,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guesses. Any guess is fine. The last two items are the same steel katori, set on the water mouth up, and then pushed under until it fills.",
+     "parent": "Do not correct the guesses. Any guess is fine. The last two items are the same steel katori, set on the water mouth up, and then pushed under until it fills. One child with a parent: take turns, the child guesses first and the parent second. Two to four children: each child writes their own guesses on their own table, then tests the items in turn; compare who guessed most right.",
      "context": "This is the first step of Guess and Sort. You guess before you test."
     },
     {
@@ -1028,7 +1031,7 @@
      "do": "Test the things one at a time. Lower each one gently into the water. Write down what happens. Keep the katori for last. Set it on the water mouth up. Then push it under so it fills with water.",
      "say": "Gently, one at a time. What happens? Does it match your guess? For the katori, first it sits on the water. Then we push it down until it fills. What changes?",
      "kid": "Test each thing in the water. Write what happens. Did you guess right?",
-     "parent": "Expected: the steel spoon, coin and potato sink. The wooden spoon, candle stub, bottle cap and closed bottle float. A lemon usually floats. The katori floats mouth up and sinks when it fills. If something differs, write it down.",
+     "parent": "Expected: the steel spoon, coin and potato sink. The wooden spoon, candle stub, bottle cap and closed bottle float. A lemon with its skin on usually floats (a peeled one may sink). Wood and candle wax can differ a little; write down what yours does, because your own result counts. The katori floats mouth up and sinks when it fills. If something differs, write it down.",
      "check": {
       "t": "mcq",
       "q": "The steel katori floats when set on the water mouth up, and sinks when it fills with water. What changed?",
@@ -1068,9 +1071,11 @@
      "say": "Tell me three things. What did you think would happen? What did you see? Why did the katori float when it held air, and sink when it held water?",
      "kid": "Say what you thought, what you saw, and why.",
      "think": "How would you test the pattern 'wooden things always float'?",
-     "context": "This is the last step of Guess and Sort. You explain what you found."
+     "context": "This is the last step of Guess and Sort. You explain what you found.",
+     "parent": "Count how many of the ten guesses were right, and write the score on the table. Count the katori twice, once for each way."
     }
-   ]
+   ],
+   "safety": "Coins, bottle caps and nuts are small parts: keep them from children under five. Wipe up spilt water so nobody slips."
   },
   {
    "id": "a2",
@@ -1087,7 +1092,7 @@
      "qty": 1
     },
     {
-     "item": "a few drops of food colour, or a pinch of turmeric",
+     "item": "a few drops of food colour (or a pinch of turmeric) for the syrup, and a few drops of a different colour for the water if you have one",
      "qty": 1
     },
     {
@@ -1101,13 +1106,17 @@
     {
      "item": "a spoon, and a cup or jug for pouring",
      "qty": 1
+    },
+    {
+     "item": "a few tiny things from the kitchen to drop in at the end, such as a peppercorn, a grain of rice, a raisin, a small piece of candle",
+     "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Make the sugar syrup. Pour the three layers. Look at the tower and explain it."
+     "what": "Make the sugar syrup. Pour the three layers. Look at the tower and explain it. Drop in small things to see which layer they stop in."
     }
    ],
    "record": "Draw the glass with three layers, and label each layer. Write which liquid is the densest and which is the least dense.",
@@ -1143,7 +1152,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Make the syrup thick, with as much sugar as dissolves.",
+     "parent": "Do not correct the guess. Make the syrup thick, with as much sugar as dissolves. One child with a parent: the child pours, the parent steadies the glass. Two to four children: make one tower per pair, so every child gets to pour, and compare towers. If you have only one colour, colour the syrup; the clear water layer will then show between the coloured syrup and the oil.",
      "context": "This is the first step of the Density Tower. You guess, and then make the syrup."
     },
     {
@@ -1160,7 +1169,7 @@
      "do": "Hold a spoon, bowl facing up, just above the syrup. Pour the plain water slowly onto the back of the spoon, so it runs gently on top of the syrup.",
      "say": "Pour the water onto the back of the spoon, so the water runs slowly onto the syrup. A fast pour would mix them.",
      "kid": "Pour water slowly over the back of a spoon onto the syrup.",
-     "parent": "If the layers mix a little, that is fine. Try again, more slowly.",
+     "parent": "Some mixing at the line between the layers is normal. Pour more slowly, or make the syrup thicker, and try again. Use a tall narrow glass, because a wide one is harder to pour into neatly. Over a few hours the syrup and water slowly blend at the edge. That is normal too.",
      "context": "In this step, you pour the second layer, the plain water."
     },
     {
@@ -1174,7 +1183,7 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Look at the tower from the side. Draw it and label each layer. Then gently stir the top with the spoon, and watch what the oil does. Ask your child to say what they thought, what they saw and why.",
+     "do": "Look at the tower from the side. Draw it and label each layer. Then gently stir the top with the spoon, and watch what the oil does. Drop in a few small things from the kitchen one at a time (a peppercorn, a grain of rice, a raisin). Write which layer each one stops in. Ask your child to say what they thought, what they saw and why.",
      "say": "Which layer is on top? Which is at the bottom? Why do you think each liquid is where it is? What happens to the oil when we stir it?",
      "kid": "Look at the three layers. Draw them. Stir the top gently. What does the oil do?",
      "check": {
@@ -1189,10 +1198,11 @@
       "why": "A liquid that floats on another liquid is less dense than it is. Thickness is a different idea. Honey is thick, but oil is thin and still floats."
      },
      "think": "What would happen if you poured honey into this glass?",
-     "parent": "When you stir, the oil breaks into drops and rises back to the top, because it is less dense than the water. The water and the syrup slowly mix. After they have said what they saw, explain: each liquid floats on the one that is denser than itself.",
+     "parent": "When you stir, the oil breaks into drops and rises back to the top, because it is less dense than the water. The water and the syrup slowly mix. After they have said what they saw, explain: each liquid floats on the one that is denser than itself. You cannot know beforehand which layer each small thing will stop in, and that is the point: it stops where the liquid below is denser than the thing and the liquid above is less dense. Write down what you see.",
      "context": "This is the last step of the Density Tower. You look at the layers and explain them."
     }
-   ]
+   ],
+   "safety": "Use warm tap water, not boiling. An adult should heat the water if it needs heating. Food colour stains clothes. Oil makes the floor slippery, so wipe spills at once. Do not drink the layers, and pour the oil into the dustbin, not the sink."
   },
   {
    "id": "a3",
@@ -1201,7 +1211,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a plastic drinking straw, as thick as you can find",
+     "item": "a plastic drinking straw, as thick as you can find, such as a juice or smoothie straw, cut to about 15 centimetres",
      "qty": 1
     },
     {
@@ -1214,11 +1224,11 @@
      "qty": 2
     },
     {
-     "item": "250 millilitres of plain water, and 250 millilitres of water with 5 level tablespoons of salt stirred in until it disappears",
+     "item": "250 millilitres of plain water, and 250 millilitres of water with 4 level tablespoons of salt stirred in until it disappears",
      "qty": 1
     },
     {
-     "item": "a marker pen and a ruler",
+     "item": "a marker pen that writes on plastic, and a ruler",
      "qty": 1
     },
     {
@@ -1256,7 +1266,7 @@
      "do": "Press about a centimetre and a half of clay firmly into one end of the straw, so that the end is sealed. Check that no water can get in.",
      "say": "The clay seals one end, and it also makes that end heavy. The heavy end will go down, and the straw will float upright.",
      "kid": "Press clay into one end of the straw. Seal it well.",
-     "parent": "Press the clay in about a finger-nail deep, and smooth it. If the straw leaks later, press more clay in.",
+     "parent": "Press the clay in about a finger-nail deep, and smooth it. If the straw leaks later, press more clay in. One child with a parent: the child makes the straw, the parent dries and measures. Two to four children: each child makes their own hydroscope, because every straw floats a little differently, then compares the gap between marks. Use real modelling clay (plasticine), not dough that dissolves in water.",
      "context": "This is the first step of the Hydroscope. You make the weighted straw."
     },
     {
@@ -1275,13 +1285,13 @@
        ]
       }
      ],
-     "parent": "If your straw lies on its side, add a small steel nut or pins at the clay end. If it sinks, take some clay off. Do not worry if it takes a few tries.",
+     "parent": "If your straw lies on its side, add a small steel nut or pins at the clay end. If it sinks, take some clay off. A straw of about 15 centimetres with a marble of clay at the bottom is a good start. Nothing exact is promised: a few tries is normal. Do not worry if it takes a few tries.",
      "context": "In this step, you float the straw in plain water and mark the waterline."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "Stir 5 level tablespoons of salt into 250 millilitres of water in the second glass, until the salt disappears. Ask your child to guess whether the straw will float higher or lower. Write the guess.",
+     "do": "Stir 4 level tablespoons of salt into 250 millilitres of water in the second glass, until the salt disappears. Ask your child to guess whether the straw will float higher or lower. Write the guess.",
      "say": "Salty water is denser. Will the straw float higher or lower in it? Why do you think so?",
      "kid": "Make very salty water. Guess if the straw floats higher or lower. Why?",
      "parent": "Do not correct the guess. Any guess with a reason is a good start.",
@@ -1304,7 +1314,7 @@
       "a": 0,
       "why": "A denser liquid pushes up harder on the same straw, so the straw does not need to sink as far. That is how a hydrometer works."
      },
-     "parent": "The straw should float about one or two centimetres higher in the very salty water. If you see no change, make the water saltier, or try a thinner straw.",
+     "parent": "The straw typically floats about one to two centimetres higher in the very salty water. Size depends on your straw. If you see no change, check that the salt really dissolved (all of it must disappear), dry the straw before the second glass, and make sure the clay end is sealed. A thicker straw is easier to read. Salt that stays at the bottom of the glass has not dissolved and does not count.",
      "context": "In this step, you float the straw in the salty water and measure the change."
     },
     {
@@ -1316,7 +1326,8 @@
      "think": "How could you use your hydroscope to check whether milk has been mixed with water?",
      "context": "This is the last step of the Hydroscope. You explain what you found."
     }
-   ]
+   ],
+   "safety": "Pins are sharp and a steel nut is a small part: an adult should handle the pins, and keep both away from children under five."
   }
  ],
  "projects": [
@@ -1327,15 +1338,15 @@
    "mins": 40,
    "materials": [
     {
-     "item": "a clear plastic bottle with a cap, 500 millilitres to 1 litre, with smooth sides that can be squeezed",
+     "item": "a thin, clear plastic bottle with a cap, such as a 500 millilitre mineral-water bottle, with smooth sides that squeeze easily (fizzy-drink bottles are too stiff)",
      "qty": 1
     },
     {
-     "item": "a small plastic pen cap, clear if possible, with the tiny hole in its top sealed with a speck of clay",
+     "item": "a small plastic pen cap (the kind with a clip works well, clear if possible); seal any tiny hole in its top with a speck of clay",
      "qty": 1
     },
     {
-     "item": "a small piece of modelling clay",
+     "item": "a small piece of modelling clay (plasticine), about the size of a marble",
      "qty": 1,
      "buy": "b-clay"
     },
@@ -1388,13 +1399,13 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child builds the diver, the parent tops up the bottle. Two to four children: each child makes their own diver and bottle, then you race: whose diver sinks first, and can anyone keep it still in the middle?",
      "context": "This is the first step of the Bottle Diver. You guess before you build."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Seal the tiny hole in the top of the pen cap with a speck of clay, if it has one. Stick a small blob of clay on the outside of the cap. Put the cap in a bowl of water with the open end down. Add or take off clay until it just floats, with only its top above the water.",
+     "do": "Seal the tiny hole in the top of the pen cap with a speck of clay, if it has one. Wrap a small ring of clay around the outside of the open end of the cap, so that it floats upright. Put the cap in a bowl of water with the open end down. Add or take off clay until it just floats, with only its top above the water.",
      "say": "The air trapped inside the cap makes it float. The clay makes it a little heavier. We want it to float just barely, with only the very top above the water.",
      "kid": "Put clay on the pen cap. Float it open end down. Add clay until it barely floats.",
      "parent": "If the cap floats too high, add more clay. If it sinks, take a little off. The balance has to be very fine. Do not worry if it takes a few tries. Make sure the open end of the cap faces down, so that air stays trapped inside.",
@@ -1435,7 +1446,7 @@
       "a": 0,
       "why": "Squeezing pushes water into the cap and squashes the air. The diver pushes aside less water, so the upthrust gets smaller and the diver sinks. When you let go, the air springs back and the diver rises."
      },
-     "parent": "If the diver does not move, squeeze harder, or take a little clay off. If it sinks and stays down, add a little less clay next time.",
+     "parent": "If the diver does not move, squeeze harder, or take a little clay off. If it sinks and stays down, add a little less clay next time. To make the test measurable, count how many seconds your diver takes to reach the bottom, or try to hold it in the middle of the bottle for ten seconds. A bubble of air left at the top of the bottle makes it hard to squeeze the diver down: top up the bottle to the brim. Some divers never work at first: add or remove a tiny bit of clay and try again.",
      "context": "In this step, you squeeze the bottle and watch the diver."
     },
     {
@@ -1448,7 +1459,8 @@
      "parent": "A strong answer says that squeezing made the air smaller, so the diver pushed aside less water and became denser overall, so it sank. A submarine changes its density with ballast tanks, and a fish with her swim bladder.",
      "context": "This is the last step of the Bottle Diver. You draw it and explain what you found."
     }
-   ]
+   ],
+   "safety": "A pen cap is a small part and clay should not be eaten: keep both from children under five. Wipe up spilt water so nobody slips."
   }
  ],
  "challenges": [
@@ -2620,7 +2632,7 @@
    "id": "b-clay",
    "item": "A small pack of modelling clay",
    "kind": "material",
-   "why": "For the straw hydroscope and the bottle diver. A small pack from a stationery shop is enough.",
+   "why": "For the straw hydroscope and the bottle diver. Ask for plasticine or modelling clay at a stationery shop; a small pack is usually cheap and enough. Do not use dough that dissolves in water.",
    "url": "https://www.amazon.in/s?k=modelling+clay+for+kids",
    "used_in": [
     "a3",

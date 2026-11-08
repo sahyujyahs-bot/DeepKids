@@ -688,7 +688,8 @@
      "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
      "say": "These cards show things that happen in a body. Each player gets two tokens. One says Quick defence and one says Learning defence. We will guess which defence does each thing.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take two tokens.",
-     "context": "This is the first step of Quick or Learning. You set up the cards and the tokens."
+     "context": "This is the first step of Quick or Learning. You set up the cards and the tokens.",
+     "parent": "Use blunt scissors, and a grown-up helps if the cutting is slow. With one child, the child guesses and then checks the back. With 2 to 4 children, pass the reader's job round the table."
     },
     {
      "id": "s2",
@@ -804,7 +805,7 @@
    "rules": [
     "The town is a board of 36 squares. Each square is a person. The germ will start in one square, chosen by dice.",
     "Players work together. They agree on where to place 10 shields before the germ starts. A shielded square can never get sick.",
-    "To start the germ, roll two dice. The first is the row and the second is the column. If that square has a shield, roll again.",
+    "To start the germ, roll two dice, or one die twice. The first is the row and the second is the column. If that square has a shield, roll again.",
     "The starting square is sick. It rolls one die for each of its four neighbours, above, below, left and right. A 1, 2, 3 or 4 makes the neighbour sick. A 5 or 6 keeps the neighbour well.",
     "Every newly sick square rolls the same way for its own neighbours. A square rolls for each neighbour only once.",
     "When no new square gets sick, count the sick squares. The town wins if 8 or fewer squares are sick.",
@@ -847,7 +848,8 @@
       "a": 0,
       "why": "A shielded square never gets sick, whatever the die says. The germ has to find another path. This is how protected people stop a germ from spreading to the people near them."
      },
-     "context": "In this step, you play the first round and watch where the germ spreads."
+     "context": "In this step, you play the first round and watch where the germ spreads.",
+     "parent": "With 2 to 4 children, split the jobs: one rolls, one colours the sick squares, one keeps a list of squares still waiting to roll. Swap each round. A single child does all three jobs. Chance matters, so one lost round does not mean the shields were wrong."
     },
     {
      "id": "s3",
@@ -865,7 +867,8 @@
        ]
       }
      ],
-     "context": "In this step, you score the round and change the shields."
+     "context": "In this step, you score the round and change the shields.",
+     "parent": "With ten shields, shields scattered at random leave the town winning about half the time, and a wall of shields right across the town wins most rounds. Let the children find this by playing, and do not tell them first."
     },
     {
      "id": "s4",
@@ -922,11 +925,11 @@
      "qty": 1
     },
     {
-     "item": "a grown-up or a sibling to be the helper, if you like",
+     "item": "a grown-up or a sibling to be the helper, if you like (with 2 to 4 children, each child is a separate body: each plays their own rounds, then you pool the numbers)",
      "qty": 1
     }
    ],
-   "record": "Write the number of cells you needed in each round in the table. At the end, add the numbers in each row and divide by the number of rounds to find the average. Then say what you thought, what you saw and why.",
+   "record": "Write the number of cells you needed in each round (six rounds for three flips, eight for two flips, four for four flips) in the table. At the end, add the numbers in each row and divide by the number of rounds to find the average. Then say what you thought, what you saw and why.",
    "context": "In this test, you play a body that makes defender cells at random, and a germ that has one shape. You count how many random cells you need to make before one of them fits.",
    "setup": [
     {
@@ -1011,7 +1014,7 @@
        ]
       }
      ],
-     "parent": "The average should be near eight, but single rounds can take from one cell to twenty or more. That is normal for chance. If your child is tired, share the flipping, one flips and one writes. Do not stop before six rounds.",
+     "parent": "Over many rounds the average is about eight, but single rounds can take from one cell to twenty or more, and the average of only six rounds can land anywhere from about 5 to 12. That is normal for chance. With siblings, each child plays six rounds, then add all the rounds together for a steadier average. If your child is tired, share the flipping, one flips and one writes. Do not stop before six rounds.",
      "check": {
       "t": "mcq",
       "q": "Why do we flip the coin to make each defender cell, instead of choosing the best one?",
@@ -1028,18 +1031,18 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Flip the coin two times and write the germ's new code. Make cells with two flips each. Count how many it takes to match. Do six rounds, and write each number in the table.",
-     "say": "Now the shapes are simpler. Each cell has only two flips. There are fewer shapes to choose from. Do six rounds and write the numbers. I wonder if you will need fewer cells.",
-     "kid": "Now use two flips. Make a new germ code. Do six rounds. Write the numbers.",
-     "parent": "Two flips give four shapes. The average should be near four. Rounds will be quick, about half a minute each.",
+     "do": "Flip the coin two times and write the germ's new code. Make cells with two flips each. Count how many it takes to match. Do eight rounds, and write each number in the table.",
+     "say": "Now the shapes are simpler. Each cell has only two flips. There are fewer shapes to choose from. Do eight rounds and write the numbers. I wonder if you will need fewer cells.",
+     "kid": "Now use two flips. Make a new germ code. Do eight rounds. Write the numbers.",
+     "parent": "Two flips give four shapes. The average is typically about four, but with eight rounds it may be anywhere from about 3 to 6. Rounds will be quick, about half a minute each.",
      "context": "In this step, you try the game again with fewer possible shapes. You are checking whether the number of shapes changes how many cells you need."
     },
     {
      "id": "s5",
      "mins": 10,
-     "do": "Flip the coin four times and write the germ's new code. Make cells with four flips each. Count how many it takes to match. Do three rounds. Each round may take a few minutes.",
-     "say": "Now every code has four flips. That makes more shapes. Do three rounds. It may take a while. Keep counting.",
-     "kid": "Now use four flips. Make a new germ code. Do three rounds. Be patient.",
+     "do": "Flip the coin four times and write the germ's new code. Make cells with four flips each. Count how many it takes to match. Do four rounds. Each round may take a couple of minutes.",
+     "say": "Now every code has four flips. That makes more shapes. Do four rounds. It may take a while. Keep counting.",
+     "kid": "Now use four flips. Make a new germ code. Do four rounds. Be patient.",
      "ask": [
       {
        "q": "While you flip, what do you notice about how long this is taking?",
@@ -1050,7 +1053,7 @@
        ]
       }
      ],
-     "parent": "Four flips give sixteen shapes. The average is near sixteen, but with three rounds, yours may be far from that. Rounds may take thirty or more cells. If time runs short, do two rounds and ask a sibling to share their numbers.",
+     "parent": "Four flips give sixteen shapes. The average over many rounds is about sixteen, but with only four rounds yours can land anywhere from about 7 to 30, and single rounds may take forty cells or more. If time runs short, do two rounds and add a sibling's numbers to yours. Each cell is four flips, so use a die instead if your coin gets tiresome: odd is heads, even is tails.",
      "context": "In this step, you try the game with even more possible shapes. You can see what happens to the search when the number of shapes grows."
     },
     {
@@ -1078,7 +1081,7 @@
       }
      ],
      "think": "Nobody told the germ which cell to meet. Did the body learn the germ's shape, or did it find a cell that already fitted?",
-     "parent": "A strong answer says that each extra flip doubled the shapes and about doubled the cells needed. The averages should come near four, eight and sixteen. After they have said what they saw, explain: a body does not shape a cell for a germ. It makes huge numbers of random cells, many at once, so that some fit almost any germ. When one fits, it multiplies. If your numbers did not follow the pattern, say so. Chance can hide a pattern, and more rounds would show it.",
+     "parent": "A strong answer says that each extra flip doubled the shapes and about doubled the cells needed. The averages are typically near four, eight and sixteen, but chance can bend them, especially the four-flip row. The safe thing to look for is the order: more flips, bigger average. After they have said what they saw, explain: a body does not shape a cell for a germ. It makes huge numbers of random cells, many at once, so that some fit almost any germ. When one fits, it multiplies. If your numbers did not follow the pattern, say so. Chance can hide a pattern, and more rounds would show it.",
      "check": {
       "t": "mcq",
       "q": "In your results, the average number of cells rose when the code had more flips. What does this show?",
@@ -1114,7 +1117,7 @@
      "qty": 1
     },
     {
-     "item": "a red pencil or pen, and a green pencil or pen",
+     "item": "a red pencil or pen, and a green pencil or pen (any two colours will do)",
      "qty": 1
     },
     {
@@ -1126,7 +1129,7 @@
      "qty": 1
     },
     {
-     "item": "one die",
+     "item": "one die (from Ludo or Snakes and Ladders is fine)",
      "qty": 1,
      "buy": "b-dice"
     }
@@ -1189,7 +1192,7 @@
       "why": "If we chose where the shields go, we might block the germ's paths in a clever way. Drawing from the bowl means that only the number of shields can make a difference."
      },
      "context": "In this step, you draw the three towns and prepare the slips. The slips decide where the shields go, so the test is fair.",
-     "parent": "A ruler makes this go faster. Let your child draw one grid and trace the other two, or photocopy a grid."
+     "parent": "A ruler makes this go faster. Let your child draw one grid and trace the other two, or photocopy a grid. With 2 to 4 children, each child draws one town and the slips are shared; one rolls, one colours, and the others check that no neighbour is missed."
     },
     {
      "id": "s3",
@@ -1207,7 +1210,7 @@
        ]
       }
      ],
-     "parent": "Each sick square rolls only once for each neighbour, the moment it becomes sick. Keep a list of squares waiting to roll so none is forgotten. With no shields the germ usually reaches most of the town, often fifteen to twenty-five squares. Sometimes it dies early, by chance.",
+     "parent": "Each sick square rolls only once for each neighbour, the moment it becomes sick. Keep a list of squares waiting to roll so none is forgotten. With no shields the germ typically reaches about sixteen to twenty-five squares. Rarely it dies out early by chance, so if it stops at a few squares, play town A again.",
      "context": "In this step, you play town A with no shields. This shows how far a germ spreads when nobody is protected."
     },
     {
@@ -1216,7 +1219,7 @@
      "do": "Play town B. Draw 8 slips from the bowl. Mark those squares with a green shield. Put the slips back. Square 13 is sick. Roll for the neighbours as before, but shielded squares never get sick. Count the red squares.",
      "say": "Now eight squares get a shield. Draw eight slips and mark them green. A shielded square cannot get sick, so the germ cannot pass through it. Roll as before. How many squares get sick this time?",
      "kid": "Draw eight slips. Mark those squares green. Shielded squares never get sick. Roll for the germ. Count.",
-     "parent": "Put every slip back after drawing, so the bowl is full again for town C. Town B usually has about 3 to 14 sick squares. Chance matters a lot with so few squares. If a shield lands right next to square 13, that may block much of the spread.",
+     "parent": "Put every slip back after drawing, so the bowl is full again for town C. Town B typically has about 2 to 14 sick squares, around 8 on average. Chance matters a lot with so few squares. If a shield lands right next to square 13, that may block much of the spread.",
      "context": "In this step, you play town B with 8 shields. You can compare it with town A."
     },
     {
@@ -1235,7 +1238,7 @@
        ]
       }
      ],
-     "parent": "Town C usually has only 1 to 5 sick squares. Many unshielded squares stay well. That is the idea of herd protection: the shields protect the squares around them too.",
+     "parent": "Town C typically has only 1 to 5 sick squares, rarely up to 9. Many unshielded squares stay well. That is the idea of herd protection: the shields protect the squares around them too.",
      "context": "In this step, you play town C with 16 shields. You look at the squares with no shield that stayed well."
     },
     {
@@ -1256,7 +1259,7 @@
       "a": 0,
       "why": "A germ can only travel from a sick square to a touching square. Shields block those paths. An unshielded square surrounded by shields has no path to it. That is how a crowd of protected people can protect the few who are not."
      },
-     "parent": "A strong answer says that more shields meant fewer sick squares, and that shields protected some unshielded squares too. Dice are random, so one run can surprise you. If your results do not follow the pattern, run the towns again and add the results together. After they have said what they saw, explain: real germs differ in how easily they spread. Measles spreads very easily, so almost everyone must be protected to stop it. A germ that spreads less easily needs fewer shields.",
+     "parent": "A strong answer says that more shields meant fewer sick squares, and that shields protected some unshielded squares too. Dice are random, so one run can surprise you. Town B and town C can swap places by chance, because the slips decide where the shields go. If your results do not follow the pattern, run towns B and C again with a new draw and add the results together. With siblings, each child runs their own B and C and you compare the totals. After they have said what they saw, explain: real germs differ in how easily they spread. Measles spreads very easily, so almost everyone must be protected to stop it. A germ that spreads less easily needs fewer shields.",
      "context": "This is the last step of the Spread and Shield test. You compare the three towns and explain what the shields did."
     }
    ]
@@ -1270,7 +1273,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "your family's vaccination card for your child, or any child in the family (often called the Mother and Child Protection card)",
+     "item": "your family's vaccination card for your child, or any child in the family (often called the Mother and Child Protection card). With 2 to 4 children, each child brings a card, or you compare the example card with your own.",
      "qty": 1
     },
     {
@@ -1321,7 +1324,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Ask your child to circle the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose.",
+     "do": "Ask your child to circle the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose. Then count every dose on the card from birth to five years old, and write the total.",
      "say": "Circle every vaccine that appears more than once. How many doses does each one have? Why do you think some have more than one?",
      "kid": "Circle each vaccine with more than one date. Count the doses. Why more than one?",
      "ask": [
@@ -1334,7 +1337,7 @@
        ]
       }
      ],
-     "parent": "Wonder is the goal here. Good guesses appear as questions: does the body forget? Does it need reminding? Keep those questions for the explanation card on boosters.",
+     "parent": "Wonder is the goal here. Good guesses appear as questions: does the body forget? Does it need reminding? Keep those questions for the explanation card on boosters. The total is often around twenty doses and visits for a child to five years, but it differs by state and card. If two children have cards of different ages, compare their totals and say why they differ.",
      "context": "In this step, you count the doses on the card. You notice that some vaccines come in several doses."
     },
     {
@@ -1351,7 +1354,7 @@
   {
    "id": "a2",
    "title": "Faster the second time: the word puzzle model",
-   "mins": 15,
+   "mins": 18,
    "days": 1,
    "materials": [
     {
@@ -1365,9 +1368,13 @@
     {
      "item": "the six scrambled words in the first step",
      "qty": 1
+    },
+    {
+     "item": "six new scrambled words, given in the last step",
+     "qty": 1
     }
    ],
-   "record": "Write the time it took the first time and the second time. Draw two bars to show them. Say why you were faster.",
+   "record": "Write the time it took the first time, the second time, and for the six new words. Draw three bars to show them. Say why the second time was faster.",
    "context": "In this activity, you solve a puzzle twice. The second time is a small model for how memory cells make the second meeting with a germ faster.",
    "setup": [
     {
@@ -1425,8 +1432,8 @@
     },
     {
      "id": "s3",
-     "mins": 4,
-     "do": "Draw two bars, one for each time. Ask your child to say how the puzzle is like the body, and how it is not.",
+     "mins": 7,
+     "do": "Now test whether you were only warmed up. Give your child six new scrambled words: OBDOL, SURIV, NEGE, VEREF, NOEB, KLIM. They are BLOOD, VIRUS, GENE, FEVER, BONE and MILK. Time it. Draw three bars: first try, second try and new words. Ask your child to say how the puzzle is like the body, and how it is not.",
      "say": "Draw one bar for each time. How is this puzzle like what a body does the second time it meets a germ? How is it not?",
      "kid": "Draw a bar for each time. How is this like a body meeting a germ twice?",
      "ask": [
@@ -1448,7 +1455,7 @@
       }
      ],
      "think": "A body keeps its memory of one germ in cells, not in a mind. What would the puzzle be like if your hands remembered, but you did not?",
-     "parent": "A strong answer says the puzzle is like memory cells because the second time is faster. It is different because the body does it with cells and chemicals, not by thinking, and the memory can last for years.",
+     "parent": "The new words will usually take about as long as the first try, or a little less. That shows the speed-up was memory of those very words, as a memory cell remembers one germ. A strong answer says the puzzle is like memory cells because the second time is faster, and the new words are slow again because memory fits one thing. It is different because the body does it with cells and chemicals, not by thinking, and the memory can last for years. With siblings, one solves while another times, and then swap roles with new words.",
      "context": "This is the last step of Faster the second time. You compare the puzzle with the body, and say where the comparison stops working."
     }
    ]
@@ -1503,7 +1510,7 @@
        ]
       }
      ],
-     "parent": "Healthy lymph nodes are small, soft, movable, and not painful. Some children can feel them easily and some cannot. Both are normal. Do not press hard. Stay with your child.",
+     "parent": "Healthy lymph nodes are small, soft, movable, and not painful. Some children can feel them easily and some cannot. Both are normal. Do not press hard. Stay with your child. With siblings, take turns and wash hands first; compare sizes using a pea or a grain of rice as a measure.",
      "context": "This is the first step of Find your lymph nodes. You feel where the nodes are when you are well."
     },
     {
@@ -1578,7 +1585,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Ask your child to guess first. Which illness do people get most often: chickenpox, measles or a cold? Why? Write the guess. Then ask five people: have you had chickenpox? How many times? Measles? How many times? A cold? About how many times? Write the answers in a table.",
+     "do": "Ask your child to guess first. Which illness do people get most often: chickenpox, measles or a cold? Why? Write the guess. Then ask five people: have you had chickenpox? How many times? Measles? How many times? A cold? About how many in the last year? Write the answers in a table.",
      "say": "We will ask five people three questions. Have they had chickenpox, and how many times? Have they had measles, and how many times? A cold, and about how many times? First, which do you think they will have had most often? Why?",
      "kid": "Guess first. Which illness do people get most? Ask five people three questions. Write the answers.",
      "ask": [
@@ -1591,7 +1598,7 @@
        ]
       }
      ],
-     "parent": "Expect colds to be many times, and chickenpox and measles to be zero or one. Some people may not remember, and some may not have had them, because they were vaccinated. Write what they say. Be kind about forgetting.",
+     "parent": "Expect colds to be a few in a year, often two to five and more for children, and chickenpox and measles to be zero or one. Some people may not remember, and some may not have had them, because they were vaccinated. Write what they say. Be kind about forgetting. With 2 to 4 children, each asks a different five people, then you add the tables together. Phone calls to relatives are fine.",
      "context": "This is the first step of Once or again. You guess, and then you ask five people about their illnesses."
     },
     {
@@ -1681,7 +1688,7 @@
        ]
       }
      ],
-     "parent": "Cut out the notch with scissors, not a craft knife. A triangle notch about 1 centimetre wide works well. The tips must fit snugly to see the point.",
+     "parent": "Cut the antibody tip first as a small triangle point, then trace the tip onto the edge of the germ card and cut that notch, so the pair fits snugly. Use scissors, not a craft knife. With 2 to 4 children, each child cuts one pair and swaps with another to test the fit.",
      "context": "This is the first step of Paper keys. You make three germs and three antibodies, and match them."
     },
     {
@@ -1815,7 +1822,7 @@
      "do": "Draw a line across the poster. Mark the dates in order. Draw a small picture and write one sentence for each event. Use plain words. Start with the first four dates today.",
      "say": "Draw the line first. Mark the dates in order. For each, draw a small picture and write one sentence. Use words that a friend your age would understand.",
      "kid": "Draw a long line. Mark the dates. Draw a small picture for each. Write one sentence.",
-     "parent": "Help with the spacing. The dates are not evenly spread. A broken line can show a long gap. Ask how the poster would look if all dates were evenly spaced.",
+     "parent": "Help with the spacing. The dates are not evenly spread. A broken line can show a long gap. Ask how the poster would look if all dates were evenly spaced. With 2 to 4 children, share the events between them and join the strips on one poster.",
      "context": "In this step, you draw the timeline and the first events."
     },
     {
@@ -1858,9 +1865,9 @@
     "three identical bottles of water kept in the fridge overnight",
     "towels or old cloth",
     "newspaper",
-    "a thermocol box or a lunch box with a lid",
+    "a thermocol box, a steel tiffin box or a lunch box with a lid",
     "a frozen water bottle or an ice pack",
-    "a thermometer, if you have one"
+    "a kitchen thermometer, if you have one (a fever thermometer cannot read cold temperatures)"
    ],
    "general": [
     "Wrap the bottle in a towel and put it in a lid-closed box.",
@@ -1870,7 +1877,7 @@
    "creative": [
     "Put the bottle inside a smaller box, inside a bigger box, with newspaper between them.",
     "Wrap the frozen bottle in cloth so it melts slowly, and tuck it on top.",
-    "Use a thermocol box from a delivery, and cover it in a space blanket or foil to reflect heat."
+    "Use a thermocol box from a delivery, and line it with aluminium foil, shiny side in, to reflect heat."
    ],
    "your_turn": "Test three ways to keep a bottle cool for three hours. Check each bottle with a thermometer or by touch. Pick the best. Then say what would happen if the frozen bottle touched the vaccine.",
    "context": "This is a design challenge about vaccines. You keep a bottle cool for three hours without a fridge, as health workers must do on long journeys.",
@@ -1911,10 +1918,10 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "After three hours, check each bottle by touch, and with a thermometer if you have one. Write down which is coolest. Think about what the bottle with the frozen pack should look like.",
+     "do": "After three hours, check each bottle by touch, and with a thermometer if you have one. For a fair touch test, keep one extra bottle in the fridge as a reference. Ask a sibling or parent to hand you the bottles with your eyes closed, and rank them from coldest to warmest. Write down which is coolest.",
      "say": "Three hours have passed. Which bottle feels coolest? Which has warmed most? What does that tell you about the box?",
      "kid": "Check each bottle. Which is coolest? Which is warmest?",
-     "parent": "The bare bottle should be warmest. The boxed bottle is usually coolest. If you have a frozen pack, keep it from touching the bottle. A real vaccine must not freeze.",
+     "parent": "The bare bottle should be warmest. The boxed bottle is usually coolest, but after three hours without ice every bottle will have warmed above the 2 to 8 degrees a vaccine needs, and only the frozen pack can hold it that cool. If you have a frozen pack, keep it from touching the bottle. A real vaccine must not freeze. Touch is not exact, so write what you felt and say so if two bottles felt the same. With 2 to 4 children, one sets up, one hands over the bottles, and one writes the ranking.",
      "check": {
       "t": "mcq",
       "q": "Why must the frozen pack not touch a vaccine?",
@@ -1938,7 +1945,8 @@
      "parent": "In India, health workers carry vaccines in insulated vaccine carriers with ice packs, and use a cold chain of fridges from the factory to the clinic. The cold chain is one of the hardest parts of vaccination.",
      "context": "This is the last step of the cold box challenge. You build your best box and test it."
     }
-   ]
+   ],
+   "safety": "Use plastic bottles, not glass. Keep the boxes out of the sun and away from the stove."
   },
   {
    "id": "c2",
@@ -3054,7 +3062,7 @@
    "id": "b-dice",
    "item": "A pack of six dice",
    "kind": "material",
-   "why": "For Spread and Shield and Shield the Town. One die is enough, but more dice make the games faster with friends.",
+   "why": "For Spread and Shield and Shield the Town. A die from Ludo or Snakes and Ladders works, so you may not need to buy any. More dice make the games faster with friends.",
    "url": "https://www.amazon.in/s?k=dice+set+six+sided",
    "used_in": [
     "e2",
@@ -3063,9 +3071,9 @@
   },
   {
    "id": "b-thermometer",
-   "item": "Digital kitchen or body thermometer",
+   "item": "Digital kitchen thermometer (optional)",
    "kind": "tool",
-   "why": "To check the temperature of the bottles in the cold box challenge. A kitchen thermometer that reads down to 0 degrees is best.",
+   "why": "Optional, for the cold box challenge. You can do it by touch. A fever thermometer cannot read cold temperatures, so it will not work here. A kitchen thermometer that reads down to 0 degrees is best.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer",
    "used_in": [
     "c1"
@@ -3214,5 +3222,5 @@
   "when": "1940 to 1984",
   "wrong_idea": "Antibodies are moulded around each germ, like clay around a coin. Nossal and Lederberg's single-cell test showed that each cell makes only one kind before it meets any germ, so the germ picks, and does not shape."
  },
- "playtest": "Read as a parent and child in a city flat would use it, and checked on paper, but not cooked at home with real children. The Key Shop test needs only a coin. Three flips give 8 shapes, so the average is about 8 cells, but single rounds range from 1 to 20 or more, and the steps say so. Spread and Shield and Shield the Town were checked by running their dice rules on a computer thousands of times. With no shields the germ reached about 21 of 25 squares on average. With 8 shields it reached about 8, and with 16 shields about 3, with wide ranges, so the steps tell families to repeat a town if chance misleads them. In Shield the Town with 10 shields on a 6 by 6 board, careless placement gave about 10 sick squares and careful placement does better, so 8 or fewer is a fair target. The word puzzle is a model and says so. Cold box: bottles should start cool from the fridge, and a frozen pack must not touch them. The vaccination card step has an example card for families without one, and the example is only an example. Facts a person should check before printing: the date vaccination reached India (1802, Bombay), India's last smallpox case (1975), Lady Mary Wortley Montagu's dates (1718 and 1721), the measles herd protection figure (about 95 percent), the Rotavac trial details, and that the Class 3 film still plays. Two videos still need an id."
+ "playtest": "Read as a parent and child in a city flat would use it, and checked on paper, but not cooked at home with real children. The Key Shop test needs only a coin. Three flips give 8 shapes, so the average is about 8 cells, but single rounds range from 1 to 20 or more, and the steps say so. Spread and Shield and Shield the Town were checked by running their dice rules on a computer thousands of times. With no shields the germ reached about 21 of 25 squares on average. With 8 shields it reached about 8, and with 16 shields about 3, with wide ranges, so the steps tell families to repeat a town if chance misleads them. In Shield the Town with 10 shields on a 6 by 6 board, careless placement gave about 10 sick squares and careful placement does better, so 8 or fewer is a fair target. The word puzzle is a model and says so. Cold box: bottles should start cool from the fridge, and a frozen pack must not touch them. The vaccination card step has an example card for families without one, and the example is only an example. Facts a person should check before printing: the date vaccination reached India (1802, Bombay), India's last smallpox case (1975), Lady Mary Wortley Montagu's dates (1718 and 1721), the measles herd protection figure (about 95 percent), the Rotavac trial details, and that the Class 3 film still plays. Two videos still need an id. Feasibility review: coin counts, shield counts and dice results were checked again by computer, and the text now gives typical ranges instead of promises. The cold box is judged by blind touch, and a thermometer is optional."
 }

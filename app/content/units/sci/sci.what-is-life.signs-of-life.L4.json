@@ -658,7 +658,7 @@
     "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
     "Every other player puts one token face down: Passes or Fails. Then everyone turns the tokens over together.",
     "The reader reads the back. Every player whose token matches the first word of the back scores one point.",
-    "The reader then says if the test was fooled or fair. A player who guessed that before the reveal, and was right, scores one more point.",
+    "The reader then says if the test was fooled or fair. Before the reveal, each player says aloud \"fooled\" or \"fair\" as they turn their token. A player who was right scores one more point.",
     "After each card, the reader writes F on a score sheet if the test was fooled, and a tick if it was fair. The reader's job passes to the player on the left.",
     "If you play alone, you are every player. Guess, then read the back, and score one point for each right guess. You win if you score 30 or more out of 48.",
     "The game ends when all 24 cards are read. The player with the most points wins. If there is a tie, the tied players share the win. Count the F marks too, to see how often tests are fooled."
@@ -667,7 +667,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player a Passes and a Fails token.",
+     "do": "Print and cut out the 24 cards and the 8 tokens. No printer? Copy each card onto a paper slip. Shuffle the cards and put them in a pile. Give each player a Passes and a Fails token.",
      "say": "Each card names a thing and a test for life. You decide if the thing passes the test or fails it. Then we find out if the test gave the right answer.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take a Passes and a Fails token.",
      "context": "This is the first step of Fool the Test. It is a card game about tests for life. Here you set up the game."
@@ -678,7 +678,7 @@
      "do": "Play the first three cards. The reader reads the front. Every other player puts one token face down. Turn the tokens over together. The reader reads the back.",
      "say": "Read the front aloud. Everyone picks Passes or Fails, face down. Turn the tokens over together. Then the reader reads the back.",
      "kid": "Read a card. Pick a token. Turn the tokens over. Read the back.",
-     "parent": "After the first reveal, ask your child what they notice. Keep the first rounds slow, so everyone sees how a round works.",
+     "parent": "After the first reveal, ask your child what they notice. Keep the first rounds slow, so everyone sees how a round works. Two players is enough: one reads and one guesses, and then swap. For three or four, the readers take turns.",
      "context": "In this step, you play the first three cards and learn how a round works."
     },
     {
@@ -777,7 +777,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the beetroot and pours the hot water. Keep children away from the kettle. Beetroot stains hands and clothes, so wear an old shirt.",
+   "safety": "A grown-up cuts the beetroot and pours the hot water. Keep children away from the kettle. Pour the just-boiled water into a thick glass or a steel tumbler, or let the kettle rest for one minute first, because thin glass can crack. Beetroot stains hands and clothes, so wear an old shirt.",
    "record": "For each glass, write a colour score at 5 minutes and at 20 minutes. Zero is clear water and four is deep red. Then draw a bar for each glass, using the 20-minute score.",
    "context": "In this experiment, you put beetroot cubes in water of four different temperatures and watch how much red leaks out. You find out what heat does to the cells.",
    "setup": [
@@ -819,7 +819,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it down so your child can compare it later.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it down so your child can compare it later. Two or more children: each child makes their own guess, then one child pours with the grown-up, one starts the timer and one scores. Swap jobs for the 20-minute look, and score the glasses separately before comparing. With one child, the grown-up only pours the hot water.",
      "context": "This is the first step of the Beetroot Bleed test. You guess before you test."
     },
     {
@@ -850,7 +850,7 @@
      "say": "A grown-up pours the hot water. A is cold, B is room water, C is as warm as a bath, and D is very hot. Each has the same amount.",
      "kid": "A grown-up pours the water. A is cold. B is room water. C is warm. D is very hot.",
      "adult": true,
-     "parent": "C should feel comfortably hot on the back of the wrist, about 50 degrees Celsius. D is hot enough to hurt, so keep your child's hands away. Put the white paper behind the glasses so the colours are easy to see.",
+     "parent": "C should feel comfortably hot on the back of the wrist, roughly 50 degrees Celsius, so about half boiled water and half tap water. D is hot enough to hurt, so keep your child's hands away. Put the white paper behind the glasses so the colours are easy to see. Use a thick glass or steel tumbler for D. Use the same cup to measure the water for every glass.",
      "check": {
       "t": "mcq",
       "q": "Why do all four glasses get the same amount of water and the same number of cubes?",
@@ -880,7 +880,7 @@
        ]
       }
      ],
-     "parent": "Hold the white paper behind each glass to judge the colour. Typical results are glass A and B clear to very pale pink, glass C light pink, and glass D deep red within minutes. If every glass looks the same, your cubes were too small or not rinsed enough. Start again with bigger cubes and fresh water.",
+     "parent": "Hold the white paper behind each glass to judge the colour. Typical results, which can vary with the beetroot, are glass A and B clear to very pale pink, glass C light pink, and glass D pink to deep red within minutes. Beetroot is cheap (a kilo is about Rs 40), so if the result is unclear, repeat with fresh cubes. If every glass looks the same, your cubes were too small or not rinsed enough. Start again with bigger cubes and fresh water.",
      "check": {
       "t": "mcq",
       "q": "Glass A stays clear and glass D turns deep red. What does this suggest?",
@@ -922,16 +922,16 @@
    ],
    "materials": [
     {
-     "item": "a digital thermometer of the kind used for fever, with a tip that can go in water",
+     "item": "a digital thermometer of the kind used for fever (many homes have one), covered with cling film or a tissue when it goes in water",
      "qty": 1,
      "buy": "b-thermo"
     },
     {
-     "item": "a steel tumbler",
+     "item": "a steel tumbler holding about one cup of water",
      "qty": 1
     },
     {
-     "item": "a small plastic or steel bottle with a screw cap",
+     "item": "a small plastic or steel bottle with a screw cap, filled with the same amount of water as the tumbler",
      "qty": 1
     },
     {
@@ -955,7 +955,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never use a glass thermometer with silver liquid. Use water no hotter than a warm bath, about 42 degrees Celsius at most. A grown-up pours the warm water. Wipe the thermometer tip with a clean tissue between uses, and wash it with soap and water at the end.",
+   "safety": "Never use a glass thermometer with silver liquid. Use water no hotter than a warm bath, about 42 degrees Celsius at most. A grown-up pours the warm water. Wipe the thermometer tip with a clean tissue between uses, and wash it with soap and water at the end. If the thermometer is used for water and for the armpit, put cling film over the tip for the water, and use a new piece each time. If several children take turns, wash the tip with soap and water between children.",
    "record": "Write the temperature of the tumbler and the bottle every 5 minutes for 30 minutes. Write your child's temperature at the start, at 15 minutes and at 30 minutes. Then draw one line for each.",
    "context": "In this experiment, you watch warm water and a child sit in the same room for half an hour. You find out which one stays warm by itself.",
    "setup": [
@@ -1036,7 +1036,7 @@
      "do": "At 5, 10 and 15 minutes, measure the tumbler and the bottle and write the numbers. At 15 minutes, measure your child under the arm too.",
      "say": "Measure the tumbler and the bottle every five minutes. At 15 minutes, measure yourself too. Sit quietly in between.",
      "kid": "Measure the tumbler and the bottle every five minutes. At 15 minutes, measure yourself.",
-     "parent": "Keep the room still, away from a fan pointing at the tumbler. Your child must sit still and not run about, because exercise warms the body.",
+     "parent": "Keep the room still, away from a fan pointing at the tumbler. Your child must sit still and not run about, because exercise warms the body. Measure the bottle quickly and screw the cap back on, so little heat escapes. Armpit readings can wobble by a few tenths of a degree, so take the same reading twice if it looks odd. With two or more children: one is the body being measured, one reads the tumbler, one the bottle, one writes. Swap roles if the thermometer is shared, and the second child can be measured at the end for a comparison.",
      "context": "In this step, you take the first readings while the water cools."
     },
     {
@@ -1055,7 +1055,7 @@
        ]
       }
      ],
-     "parent": "Typical results in a room near 28 to 30 degrees Celsius are the tumbler falling by 5 to 8 degrees, the wrapped bottle falling by 2 to 4 degrees, and the child changing by half a degree or less. In a very hot room the water falls less. Move to the coolest room, because the test needs a room cooler than your body.",
+     "parent": "Typical results, which vary with the room and the size of the tumbler, in a room near 28 to 30 degrees Celsius are the tumbler falling by roughly 4 to 8 degrees, the wrapped bottle falling by roughly 2 to 4 degrees, and the child changing by half a degree or less. In a very hot room the water falls less. If the wrapped bottle and the tumbler fall by almost the same amount, check that the sock is thick and the bottle is closed. Move to the coolest room, because the test needs a room cooler than your body.",
      "check": {
       "t": "mcq",
       "q": "Imagine the water went from 41 to 34 degrees, and the child went from 36.6 to 36.7 degrees. What does this show?",
@@ -1097,11 +1097,11 @@
    ],
    "materials": [
     {
-     "item": "whole seeds of one kind, such as whole green moong, whole chana or methi, from 3 or 4 packets or jars of different ages, with the date written on each",
+     "item": "whole seeds of one kind, such as whole green moong (the quickest and most reliable) or methi, from 3 or 4 packets or jars of different ages, with the date written on each. A packet bought today counts as the youngest. If you cannot find different ages, use a fresh packet, the oldest packet you have, and ten seeds boiled for 5 minutes by a grown-up as a dead group",
      "qty": 4
     },
     {
-     "item": "4 plates or lids",
+     "item": "4 plates or lids, and 4 more plates to cover them in hot weather",
      "qty": 4
     },
     {
@@ -1126,7 +1126,7 @@
      "qty": 1
     }
    ],
-   "safety": "Whole seeds are a choking risk for children under five. Throw away any seeds with mould. Wash your hands after touching damp seeds.",
+   "safety": "Whole seeds are a choking risk for children under five. Throw away any seeds with mould, and do not eat the seeds from this test. A grown-up does the boiling. Wash your hands after touching damp seeds.",
    "record": "Count the sprouts in each group on day 3 and day 4. Then draw a bar for each group.",
    "context": "In this experiment, you wake up seeds of different ages and count how many sprout. You find out if a seed that has waited longer is as ready to wake.",
    "setup": [
@@ -1168,7 +1168,7 @@
        ]
       }
      ],
-     "parent": "Use whole seeds, never split dal, because split dal cannot sprout. If you only have one packet, borrow seeds from a neighbour or buy a fresh packet of the same kind. Some shop seeds are heated or treated, so a group may not sprout at all. That is a result too. Write down what you find.",
+     "parent": "Use whole seeds, never split dal, because split dal cannot sprout. If you only have one packet, borrow seeds from a neighbour or buy a fresh packet of the same kind. Some shop seeds are heated or treated, so a group may not sprout at all. That is a result too. Write down what you find. Kitchen moong kept sealed and dry often still sprouts well after two or three years, so the groups may look almost the same. That is an honest result: say it, and say which groups were not very old. A boiled group will not sprout and shows what a dead seed does. Two or more children: each child looks after one or two plates and counts them, then everyone compares.",
      "check": {
       "t": "mcq",
       "q": "Why do all four groups use the same kind of seed?",
@@ -1188,7 +1188,7 @@
      "do": "Wet the tissue and lay it on each plate. Count out ten seeds from the first packet onto the first plate. Do the same for each packet. Label each plate.",
      "say": "Wet the tissue so it is damp but not dripping. Put ten seeds on each plate, spread out. Check each plate has the right label.",
      "kid": "Wet the tissue. Put ten seeds on each plate. Label each plate.",
-     "parent": "Damp, not soaking. Seeds that sit in water can rot instead of sprouting. Keep the plates in the shade, in the same place, and away from the fridge. Rewet the tissue each day if it dries.",
+     "parent": "Damp, not soaking. Seeds that sit in water can rot instead of sprouting. Keep the plates in the shade, in the same place, and away from the fridge. Rewet the tissue each day if it dries. In hot weather above about 35 degrees Celsius, cover each plate with another plate to stop the tissue drying out, and lift it once a day to let air in. Moong sprouts in 1 to 2 days in warm weather, so do not worry if some are well up by day 3. Count them anyway.",
      "context": "In this step, you set up one plate for each age of seed."
     },
     {
@@ -1308,7 +1308,7 @@
        ]
       }
      ],
-     "parent": "Take any rule they give. Common rules are 'it moves', 'it grows', 'it eats', 'it breathes' or 'it has babies'. Write the rule exactly as they say it.",
+     "parent": "Take any rule they give. Common rules are 'it moves', 'it grows', 'it eats', 'it breathes' or 'it has babies'. Write the rule exactly as they say it. Two to four children: each child writes their own rule in secret, then everyone tests all the rules on the same eight cases. The rule that gets the most cases right wins, and then mend it together. With one child, you can also write a rule and try to break it.",
      "context": "This is the first step of Break Your Own Rule. You write a rule for life."
     },
     {
@@ -1400,7 +1400,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The last four are a virus, a curd bacterium, a robot and a forest fire.",
+     "do": "Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The last four are a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.",
      "say": "We will use three real tests on eight cases. Test one is the seven signs, which you know. Test two is NASA's. Test three is Koshland's seven pillars.",
      "kid": "Draw a table. Three tests go across the top. Eight cases go down the side.",
      "parent": "The three tests in plain words. The seven signs: it feeds, breathes, grows, moves, senses, gets rid of waste and makes young. NASA's test: it is a chemical system that keeps itself going, and its kind can change by Darwin's rules over many generations. Koshland's pillars: it has instructions, it improvises when conditions change, it has a skin that makes compartments, it uses energy, it regenerates, it adapts and it keeps its chemical reactions apart.",
@@ -1412,7 +1412,7 @@
      "do": "Go down the table one case at a time. For each of the three tests, ask 'does it pass?' and write yes, no or maybe. Use the notes below to help.",
      "say": "For each case, ask: does this pass the seven signs? Does it pass NASA's test? Does it pass Koshland's pillars? Write yes, no or maybe.",
      "kid": "For each case, ask if it passes each test. Write yes, no or maybe.",
-     "parent": "A guide to the boxes. Flame: no, no, no. Salt crystal: no, no, no. Dry seed: maybe, yes, maybe, because the seven signs are not all seen while resting, and the seed is resting. Mule: yes with one exception on young, yes as part of the horse and donkey lines, yes. Virus: no, maybe, no. Curd bacterium: yes, yes, yes. Robot: no, no, no. Forest fire: no, no, no. Accept good reasons for different answers.",
+     "parent": "A guide to the boxes. Flame: no, no, no. Salt crystal: no, no, no. Dry seed: maybe, yes, maybe, because the seven signs are not all seen while resting, and the seed is resting. Mule: yes with one exception on young, yes as part of the horse and donkey lines, yes. Virus: no, maybe, no. Curd bacterium: yes, yes, yes. Robot: no, no, no. Forest fire: no, no, no. Accept good reasons for different answers. Two or more children: each child fills in one column for all eight cases, then you compare columns. With one child, the parent fills in the columns the child does not know yet.",
      "check": {
       "t": "mcq",
       "q": "A mule almost never has young, but passes NASA's test as part of the horse and donkey lines. Why?",
@@ -1429,7 +1429,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Look for the rows where the three tests do not agree. Circle them. Ask which tests are fooled and why.",
+     "do": "Look for the rows where the three tests do not agree. Circle them. Ask which tests are fooled and why. Compare with the guess made at the start.",
      "say": "Look at each row. Do the three tests agree? Circle the rows where they disagree. Why do you think they disagree?",
      "kid": "Circle the rows where the tests disagree. Why do they disagree?",
      "parent": "The rows that usually disagree are the dry seed and the virus. The seed passes NASA's test but is not doing all seven signs while resting. The virus evolves, but she needs a host cell. After the child has said their view, explain: scientists do not pick one test. They use all three as tools and look at where they disagree, because that is where they learn something.",
@@ -1493,7 +1493,7 @@
        ]
       }
      ],
-     "parent": "Any machine that holds a temperature works. Do not open any machine or touch a hot iron. Keep to looking at the dials and the lights.",
+     "parent": "Any machine that holds a temperature works. Do not open any machine or touch a hot iron. Keep to looking at the dials and the lights. Only a grown-up touches plugs, the geyser or the iron, and nobody opens a machine. Before the walk, ask your child to guess which machines will have a thermostat. If you have no geyser or AC, use a fridge, an iron, a rice cooker or pressure cooker, an electric kettle that clicks off, or a ceiling fan with a regulator for comparison.",
      "context": "This is the first step of Spot the Thermostats. You find four machines."
     },
     {
@@ -1502,7 +1502,7 @@
      "do": "For each machine, ask three questions. What does it sense? What does it switch on or off? Where does the energy come from? Write the answers in the table.",
      "say": "For each machine ask three things. What does it sense? What does it switch on or off? Where does its energy come from?",
      "kid": "For each machine: What does it sense? What does it switch? Where does its energy come from?",
-     "parent": "A fridge senses the temperature inside, switches the cooling on and off, and gets its energy from electricity. A geyser senses the water temperature, switches the heater, and uses electricity. The inside of a machine like this is called a thermostat.",
+     "parent": "A fridge senses the temperature inside, switches the cooling on and off, and gets its energy from electricity. A geyser senses the water temperature, switches the heater, and uses electricity. The inside of a machine like this is called a thermostat. Two to four children: each child takes one machine and reports to the others. With one child, do two machines yourself and let the child do the rest.",
      "check": {
       "t": "mcq",
       "q": "Which part of a fridge works like your skin sensing that you are cold?",
@@ -1537,7 +1537,7 @@
    "mins": 40,
    "materials": [
     {
-     "item": "a money plant (pothos) stem about 15 centimetres long, cut by a grown-up just below a node, which is the knob where a leaf joins",
+     "item": "a money plant (pothos) stem about 15 centimetres long, cut by a grown-up just below a node, which is the knob where a leaf joins. No money plant? A mint (pudina) or coleus stem with a node works the same way",
      "qty": 1
     },
     {
@@ -1545,7 +1545,7 @@
      "qty": 1
     },
     {
-     "item": "a potato that has started to sprout, from the back of the kitchen cupboard",
+     "item": "a potato that has started to sprout, from the back of the kitchen cupboard (a smooth potato piece with no eye is the second piece)",
      "qty": 1
     },
     {
@@ -1553,7 +1553,7 @@
      "qty": 3
     },
     {
-     "item": "kitchen tissue and a lidded dabba",
+     "item": "kitchen tissue and a lidded dabba. Leave the lid slightly open",
      "qty": 1
     },
     {
@@ -1566,7 +1566,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up does all the cutting. Never eat a sprouting or green potato, because it can make you ill. Wash your hands after touching the potato.",
+   "safety": "A grown-up does all the cutting. Never eat a sprouting or green potato, because it can make you ill. Wash your hands after touching the potato. Throw rotted potato in the dustbin, and do not smell it closely.",
    "schedule": [
     {
      "day": 1,
@@ -1632,11 +1632,11 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up cuts the potato into a piece with an eye and a piece without. Put the stem and the leaf in separate glasses of water. Lay the potato pieces on damp tissue in the dabba, and close it.",
+     "do": "A grown-up cuts the potato into a piece with an eye and a piece without. Put the stem and the leaf in separate glasses of water. Let the cut potato pieces dry in the air for an hour. Lay them on damp tissue in the dabba, and put the lid on loosely.",
      "say": "A grown-up does the cutting. The stem and the leaf go in water. The potato pieces go on damp tissue in the dabba, in a dark place.",
      "kid": "A grown-up cuts the potato. Put the stem and the leaf in water. Put the potato pieces in the dabba.",
      "adult": true,
-     "parent": "Put the glasses on a bright windowsill, but not in direct hot sun. Keep the potato dabba in a cupboard. Check the tissue is damp but not soaking. Label each piece with a small piece of paper.",
+     "parent": "Put the glasses on a bright windowsill, but not in direct hot sun. In hot, wet weather a closed damp dabba rots potato quickly, so keep the lid loose. Change the water in the glasses every three days. Two to four children: one set each, or one child per piece; each draws and measures their own, with the grown-up doing the cutting. Keep the potato dabba in a cupboard. Check the tissue is damp but not soaking. Label each piece with a small piece of paper.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep all four pieces in similar places, with water or damp tissue?",
@@ -1666,7 +1666,7 @@
      "do": "Look again. Measure any roots or sprouts with a ruler and write the lengths. Notice which pieces have changed and which have not.",
      "say": "Look closely. Use a magnifying glass for tiny roots. Which pieces are changing? Which are not?",
      "kid": "Look closely. Measure any roots or sprouts. Which pieces are changing?",
-     "parent": "A money plant stem may show small white roots by now, or only in a week more. If a potato piece has gone soft and smelly, throw it away and write 'rotted'. That is a result too.",
+     "parent": "A money plant stem may show small white roots or bumps by now, or only in a week more. Roots can take two to three weeks, so on day 10 small white bumps are a good result. If nothing has changed in a piece, keep it going for a few more days. If a potato piece has gone soft and smelly, throw it away and write 'rotted'. That is a result too.",
      "wait": "Day 6",
      "context": "In this step, you measure the pieces on day 6."
     },
@@ -2834,7 +2834,7 @@
    "id": "b-thermo",
    "item": "A digital thermometer",
    "kind": "tool",
-   "why": "For the Staying Warm test, to measure warm water and your own temperature. Many homes already have one for fever.",
+   "why": "For the Staying Warm test, to measure warm water and your own temperature. Many homes already have one for fever. A new one costs about Rs 100 to 200 at a medical shop.",
    "url": "https://www.amazon.in/s?k=digital+thermometer+fever",
    "used_in": [
     "e2"
@@ -2844,7 +2844,7 @@
    "id": "b-lens",
    "item": "A small magnifying glass",
    "kind": "tool",
-   "why": "For counting tiny sprouts and roots in the Waking Up test and the Cut It Up project.",
+   "why": "For counting tiny sprouts and roots in the Waking Up test and the Cut It Up project. It is optional, and a small one costs about Rs 50 to 100 at a stationery shop.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
    "used_in": [
     "e3",

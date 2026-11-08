@@ -227,118 +227,118 @@ That night the water ran along the edge of the barley field, soaking the dry gro
 - **rules:** Faster, about the same and slower mean compared with your usual resting pulse and breathing, unless the card says otherwise.; One player is the reader. The reader takes the top card and reads the front out loud, but not the back.; Everyone else picks one token and puts it face down. When the reader says now, everyone turns it over.; The reader then reads the back. Each player with the right token scores one point.; After each card, the reader asks one player to say, in their own words, what the cells are asking for. Then the reader role passes to the left.; Playing alone, put your token down, read the back, and score yourself. Try to beat your last score out of 24.; The game ends when the cards run out. The player with the most points wins. Everyone shares the best reason they heard.
 - **Printable cards: 24 two-sided cards: a situation on the front, and the verdict and the reason on the back:** You are sound asleep in bed at night. What happens to your pulse and breathing, compared with sitting awake? (back: Slower. Your cells need less energy while you sleep, so the heart and lungs slow down below the usual resting rate.); You are sitting and reading a story book. What happens, compared with your resting rate? (back: About the same. Sitting and reading is what we call resting, so this is your usual resting rate.); You stand up quickly after lying on the floor. What happens to your pulse for a moment? (back: Faster. Gravity pulls blood down to the legs, so the heart beats faster for a few beats to keep blood reaching the brain.); You run to catch a bus. What happens to your pulse and breathing? (back: Faster. Your leg muscles use energy faster, so they need more oxygen and make more carbon dioxide. The heart and lungs speed up to match.); You walk for ten minutes in the strong midday sun. What happens to your pulse? (back: Faster. The heart pumps extra blood to the skin to let heat out, as well as to the working muscles.); You have a fever and your temperature is 39 degrees Celsius. What happens to your pulse? (back: Faster. A warm body has cells that work faster, and the heart speeds up too. The pulse rises by about 10 beats for each degree of fever.); You breathe in slowly for four counts and out slowly for six counts, for two minutes. What happens? (back: Slower. Slow breathing sends calm signals to the heart, and the pulse often slows a little.); You watch the last over of a close cricket match. What happens to your pulse? (back: Faster. Excitement releases adrenaline, which makes the heart beat faster and harder even when you sit still.); You climb three floors of stairs. What happens to your pulse and breathing? (back: Faster. Climbing uses your big leg muscles hard, so they ask for more oxygen.); A runner who trains every day sits next to you, both at rest. How does her pulse compare with yours? (back: Slower. A trained heart pushes out more blood with each beat, so it does not have to beat as often.); A loud bang makes you jump. What happens to your pulse? (back: Faster. A fright releases adrenaline in seconds, and the heart speeds up even though you have not moved.); You sit wrapped in a blanket in a cold room. What happens to your pulse, compared with your resting rate? (back: About the same. In the cold, the vessels near the skin narrow, but the pulse changes little for a body that is resting.); You hold your breath for 20 seconds and then breathe again. What happens to your breathing rate right after? (back: Faster. Carbon dioxide builds up while you hold your breath, and the body breathes faster to clear it.); You skip with a rope for two minutes. What happens to your pulse and breathing? (back: Faster. Skipping works your whole body, and your muscles ask for oxygen.); You hold your breath with your face in a bowl of cold water. What happens to your pulse? (back: Slower. People have a diving reflex. Cold water on the face and a held breath slow the heart a little, which saves oxygen.); You have a half-hour nap on a hot afternoon. What happens to your pulse and breathing? (back: Slower. As you drift into sleep, your body needs less, and the pulse and breathing fall below the resting rate.); You are standing in a long queue at a shop. What happens, compared with your resting rate? (back: About the same. Standing quietly asks for a little more than sitting, but your pulse is close to your resting rate.); A visitor from Chennai arrives in Leh, at 3,500 metres, and sits down. What happens to her pulse and breathing? (back: Faster. Each breath has about one third less oxygen, so she breathes faster and her heart beats faster, even at rest.); You dance for ten minutes at a wedding. What happens to your pulse and breathing? (back: Faster. Dancing is exercise. Your muscles work hard and ask for more oxygen.); A young baby lies in a cot. How does the baby's pulse compare with yours? (back: Faster. A baby's heart is tiny and beats about 100 to 160 times a minute, much more than a school child's.); You sit in a waiting room, worrying about an injection. What happens to your pulse? (back: Faster. Worry releases a little adrenaline, and the heart speeds up even though your body is still.); You sit quietly for five minutes after a run that stopped five minutes ago. What happens, compared with right after you stopped? (back: Slower. The extra carbon dioxide has cleared, and the pulse and breathing have come back down to near rest.); You drink a glass of water while sitting. What happens to your pulse and breathing? (back: About the same. A glass of water asks almost nothing of the heart and lungs.); You swim ten laps in a pool. What happens to your pulse and breathing? (back: Faster. Swimming works the arms, legs and the whole body, so the muscles ask for more oxygen.)
 - **Printable tokens: 12 verdict tokens: four sets of three:** Faster; Faster; Faster; Faster; About the same; About the same; About the same; About the same; Slower; Slower; Slower; Slower
-- **s1 (3 min)**  
+- **s1 (2 min)**  
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards show situations in daily life. For each one, you decide whether your pulse and breathing go faster, stay about the same, or go slower. Get your tokens ready.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take one of each token.
-  - Note: The tokens are Faster, About the same and Slower. Four sets of three are enough for four players. Alone, use one set.
-- **s2 (7 min)**  
+  - Note: The tokens are Faster, About the same and Slower. Four sets of three are enough for four players. Alone, use one set. The game needs only paper, scissors and a pen; draw the three words on 12 small squares if you cannot print. A younger child can play with a parent as the reader.
+- **s2 (6 min)**  
   *Parent does:* Play the first eight cards. After each one, read the back aloud and ask what the cells are asking for.  
   *Parent says:* The reader reads the front. Everyone chooses a token and puts it face down. Turn them over together. Then read the back.  
   *Child mode:* The reader reads a card. Pick a token. Turn it over. Check the back.
   - Ask: What do your cells need more of when the pulse goes faster? (good: Oxygen.; Food and oxygen.; They need to get rid of carbon dioxide.)
   - Note: Do not tell the answers early. Let children argue. A child who guesses wrong and hears the reason is learning something.
-- **s3 (7 min)**  
+- **s3 (6 min)**  
   *Parent does:* Play the next eight cards in the same way. Keep score. Ask one child to explain a reason in their own words.  
   *Parent says:* Keep going. After each card, one player explains why in their own words. Keep your score.  
   *Child mode:* Play the next eight cards. Keep score. Explain one reason in your own words.
   - Think: Which cards were hardest to guess, and what did you learn from them?
-- **s4 (3 min)**  
+- **s4 (6 min)**  
   *Parent does:* Play the last eight cards. Add up the scores. Talk about the cards that were hardest.  
   *Parent says:* Last eight cards. Then we count the scores. Which cards surprised you?  
   *Child mode:* Play the last eight cards. Add up your score. Which cards surprised you?
   - Check: Many cards said faster when the muscles were busy. What do all those cards have in common? → **The cells were asking for more oxygen**
 
 ## Experiments
-### e1 · The Pulse Detective: what changes your pulse and your breathing? (54 min)
+### e1 · The Pulse Detective: what changes your pulse and your breathing? (39 min)
 - **question:** How do your pulse and your breathing change when you lie down, sit, stand and exercise, and how long do they take to settle afterwards?
 - **predict:** Before you start, guess. In which situation will your pulse be highest? Will your breathing change as much as your pulse? Why do you think so?
 - **fair test:** The same child is tested every time, with the same two fingers on the same wrist. Every count lasts 15 seconds, and the pulse is counted first and the breaths second. The same stopwatch is used, at the same time of day, and the child has not just eaten a big meal. Only the situation changes, so any difference comes from the situation.
 - **safety:** Use a low, firm step with no wobble, and keep a grown-up beside the child. Stop the step-ups at once if the child feels dizzy, has pain in the chest or cannot catch their breath. Any child with a heart or breathing condition should ask the doctor before doing the step-ups.
 - **record:** Fill the table as you go. Write the claim, the evidence and the reasoning at the end. Draw a line graph of the pulse per minute against the minutes after exercise.
 - **results table:** Situation | Pulse in 15 seconds | Pulse per minute | Breaths in 15 seconds | Breaths per minute
-- **s1 (5 min)**  
+- **s1 (3 min)**  
   *Parent does:* Show the child the results table. Ask for a guess and a reason for the pulse and for the breathing, before any counting. Write both down.  
   *Parent says:* We will count your pulse and your breaths in different situations. In which situation do you think your pulse will be highest? Why do you think so?  
   *Child mode:* We will count your pulse and your breaths. Where will your pulse be highest? Why do you think so?
   - Ask: Do you think your breathing will change as much as your pulse? Why? (good: Both will go up when I run, because I need more air.; Breathing will change more, because I can feel it.; The heart will change more, because it pumps blood everywhere.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it down so the child can compare it with the result.
-- **s2 (4 min)**  
+- **s2 (3 min)**  
   *Parent does:* Sit together. Show the child how to rest two fingers, not the thumb, on the inside of the wrist. Press gently until a small push is felt. Practise one 15-second count.  
   *Parent says:* Rest two fingers on the inside of your wrist. Do not use your thumb. Press gently until you feel a small push. I will say start and stop.  
   *Child mode:* Two fingers on your wrist, not your thumb. Press gently. Feel the small push. Count when I say start.
-  - Note: If the child cannot find it, slide the fingers a little towards the thumb side or press slightly harder. A heart is also easy to feel with a flat hand in the middle of the chest, a little to the left.
+  - Note: If the child cannot find it, slide the fingers a little towards the thumb side or press slightly harder. A heart is also easy to feel with a flat hand in the middle of the chest, a little to the left. With 2 to 4 children, work in pairs or threes: one is the subject, one counts the pulse, one holds the stopwatch and counts breaths, and everyone takes a turn at each job. Each child fills their own table, because pulses differ from child to child. One child with a parent: the child counts the pulse and the parent counts the breaths and keeps time.
   - Check: Why do we use two fingers and not the thumb to find a pulse? → **The thumb has a pulse of its own, which can fool you**
-- **s3 (8 min)**  
+- **s3 (6 min)**  
   *Parent does:* Ask the child to lie on the mat and look at the picture book for two minutes, quietly. Then say start, and the child counts the pulse for 15 seconds. Straight after, count the child's breaths by watching the belly rise for 15 seconds, without saying so. Write both numbers down.  
   *Parent says:* Lie on the mat and look at the book. Stay quiet for two minutes. Then count your pulse when I say start. Afterwards, I will tell you what else I counted.  
   *Child mode:* Lie down and read the book. After two minutes, count your pulse for 15 seconds.
   - Note: Count breaths without telling the child during the count. People change how they breathe when they know it is being counted. Count one rise and fall as one breath. Tell the child afterwards, and talk about why we did it that way.
   - Think: Why might it be better that the child did not know you were counting their breaths?
-- **s4 (6 min)**  
+- **s4 (4 min)**  
   *Parent does:* Ask the child to sit up on the mat for one minute without moving much. Then count the pulse for 15 seconds, and the breaths for 15 seconds. Write them down.  
   *Parent says:* Sit up and rest for one minute. Then we count again. Pulse first, and then breaths.  
   *Child mode:* Sit up and rest for one minute. Count your pulse for 15 seconds.
   - Ask: Is your pulse the same as lying down? Why do you think that happened? (good: It is a bit higher, because I sat up.; It is the same, because I am still resting.; I am not sure.)
-- **s5 (6 min)**  
+- **s5 (4 min)**  
   *Parent does:* Ask the child to stand still for one minute, with the arms by the sides and no leaning. Then count the pulse for 15 seconds, and the breaths for 15 seconds. Write them down.  
   *Parent says:* Stand up straight and still for one minute. Now count your pulse again, and then I count your breaths.  
   *Child mode:* Stand still for one minute. Count your pulse for 15 seconds.
   - Note: Most children find the standing pulse is a few beats higher, sometimes as much as 10 to 15. This is normal. If the child feels dizzy, sit down at once.
   - Check: Standing gave a higher pulse than lying down. What is the best reason? → **Blood sinks towards the legs, so the heart speeds up to keep it reaching the brain**
-- **s6 (8 min) · grown-up needed**  
+- **s6 (6 min) · grown-up needed**  
   *Parent does:* Ask the child to step up onto the step and down again, about one step-up every two seconds, for one minute. A grown-up stays beside the child. At once, count the pulse for 15 seconds and the breaths for 15 seconds. Write them down.  
   *Parent says:* Step up and down for one minute. I will count with you. When I say stop, count your pulse straight away.  
   *Child mode:* Step up and down for one minute. Stop. Count your pulse for 15 seconds.
   - Ask: What do you notice in your chest and your breathing? (good: My heart is thumping.; I am breathing fast and deep.; My legs feel warm.)
-  - Note: Count straight away, because the pulse starts to fall within seconds. A child may lose count when the pulse is fast. Count together for the first try. Stop at once if the child feels dizzy or has any pain.
-- **s7 (6 min)**  
+  - Note: Count straight away, because the pulse starts to fall within seconds. A child may lose count when the pulse is fast. Count together for the first try. Stop at once if the child feels dizzy or has any pain. Do this in a cool, shaded room and not in the afternoon heat, because a hot room raises the pulse by itself. Typical rested school-child pulses are about 70 to 100 a minute and rise to about 110 to 150 after a minute of stepping, but yours may differ.
+- **s7 (5 min)**  
   *Parent does:* Ask the child to sit quietly. At 1, 2, 3 and 4 minutes after stopping, count the pulse for 15 seconds and then the breaths for 15 seconds. Write each pair down.  
   *Parent says:* Sit still. We will count again at one minute, two minutes, three minutes and four minutes after you stopped. Look at how the numbers change.  
   *Child mode:* Sit still. Count your pulse at 1, 2, 3 and 4 minutes.
-  - Note: Use the stopwatch from the moment the step-ups stop. Most children are back close to their resting pulse by the fourth minute. A child who plays sport a lot often recovers a little faster.
-- **s8 (6 min)**  
+  - Note: Use the stopwatch from the moment the step-ups stop. Most children are back close to their resting pulse by the fourth minute. A child who plays sport a lot often recovers a little faster. Start each 15-second count at the minute mark, so the pulse is counted from 1:00 to 1:15 and the breaths from 1:15 to 1:30. The pulse is a little lower in the second count of each pair, which is fine.
+- **s8 (4 min)**  
   *Parent does:* Help the child turn each 15-second count into a count for one minute by multiplying by 4. Fill in the last two columns.  
   *Parent says:* Each count was for 15 seconds, and there are four of those in one minute. So multiply each number by 4. Write the answers in the table.  
   *Child mode:* Multiply each count by 4. That gives you beats and breaths in one minute.
-  - Note: For a count of 22 beats in 15 seconds, 22 times 4 is 88. Breaths counted in 15 seconds are small numbers, so the answers are rough. That is fine.
+  - Note: For a count of 22 beats in 15 seconds, 22 times 4 is 88. Breaths counted in 15 seconds are small numbers, so the answers are rough. That is fine. If two counts differ by only 1 beat, that is within the error of a 15-second count, so do not claim a change.
   - Check: You counted 30 beats in 15 seconds after exercise. What is the pulse per minute? → **120**
-- **s9 (5 min)**  
+- **s9 (4 min)**  
   *Parent does:* Ask the child to say or write a claim, the evidence and the reasoning. Compare with the first guess. Do not give the explanation until the child has said what they think.  
   *Parent says:* What did you find? Which number was highest, and when? What do you think made the heart and the breathing go up together?  
   *Child mode:* Tell me what you found. Which numbers went up? What do you think made them go up?
   - Ask: What do your cells need more of when you run? (good: Oxygen.; Air.; Energy from food and air.)
   - Note: Good evidence points to numbers in the table. A good claim might be: my pulse and my breathing went up together, then came down together. The explanation of why comes after this, in the cards.
   - Think: If both go up together, what might be telling them to go up?
-### e2 · Cold Fingers: how fast does the pink come back? (30 min)
+### e2 · Cold Fingers: how fast does the pink come back? (31 min)
 - **question:** How long does it take for the colour to return to a pressed fingernail when your hand is warm, at room temperature, or cold?
 - **predict:** Before you start, guess. In which hand will the pink come back fastest? Which will be slowest? Why do you think so?
-- **fair test:** The same finger on the same hand is pressed every time, for the same two seconds, with the same pressure. The same person counts the seconds, starting the moment the finger is let go. Each hand temperature is tested three times. Only the temperature of the hand changes.
+- **fair test:** The same finger (the middle finger) of the same hand is pressed every time, for the same two seconds, with the same pressure. The same person counts the seconds, starting the moment the finger is let go. Each hand temperature is tested three times, and the hand is left to settle between tests. Only the temperature of the hand changes.
 - **safety:** Keep the hand in the cold water for one minute only, and never more than two minutes. A grown-up watches the clock. Stop at once if the hand hurts or goes very white or numb. Do not do the cold part with a child who has poor circulation, and ask the doctor first if you are not sure. Never rub a very cold hand hard. Warm it gently.
-- **record:** Write the three times for each hand and the colour of the fingertips. Then write which hand was fastest, which was slowest, and why you think so.
+- **record:** Write the three times for each hand and the colour of the fingertips. Then write which hand was fastest, which was slowest, and why you think so. Say which room you did it in and whether the weather was hot, cool or damp.
 - **results table:** Hand | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Colour of the fingertips
 - **s1 (3 min)**  
   *Parent does:* Show the child how a pressed nail goes white. Ask for a guess and a reason for the warm hand, the room-temperature hand and the cold hand. Write them down.  
   *Parent says:* We will press a fingernail and time how fast the pink comes back. In which hand do you think it will come back fastest? Why do you think so?  
   *Child mode:* We will press a nail and time the pink coming back. Which hand will be fastest? Why?
   - Ask: What do you think happens to the blood in your fingers when they are cold? (good: It stops moving.; It goes slower.; It goes somewhere else.)
-  - Note: Accept any guess with a reason. A common idea is that blood freezes or stops. Do not correct it. Let the test show.
+  - Note: Accept any guess with a reason. A common idea is that blood freezes or stops. Do not correct it. Let the test show. With 2 to 4 children, work in pairs: one child is the hand, one presses and times. Share the two bowls, but run two pairs at the same time only if you have a helper to watch each cold-water minute. Every child tests their own hand, because skin and nails differ.
 - **s2 (6 min)**  
-  *Parent does:* Ask the child to rest the left hand in warm water for two minutes, then dry it. Press the nail of the middle finger firmly for two seconds, until it goes white. Let go and count the seconds until the nail looks as pink as the finger beside it. Do this three times.  
+  *Parent does:* Ask the child to rest the left hand in warm water for two minutes, then dry it. Press the nail of the middle finger firmly for two seconds, until it goes white. Let go and count the seconds until the nail looks as pink as the finger beside it. Do this three times. Use the left hand and the same finger for every test.  
   *Parent says:* Rest your hand in warm water for two minutes. Dry it. I will press your nail for two seconds and let go. Watch the pink come back, and I will count.  
   *Child mode:* Put your hand in warm water for two minutes. Dry it. Ask a grown-up to press and time your nail.
-  - Note: Count in half seconds if you can, saying one, and, two, and. Start counting the moment the finger is released. A warm hand often takes only about one second. Use the same finger, the same press and the same counter each time.
-- **s3 (4 min)**  
-  *Parent does:* Ask the child to rest the other hand on the table for one minute in the room. Press the same finger for two seconds and time the pink three times. Write the times down.  
-  *Parent says:* Now your other hand. Rest it on the table for one minute. We press and time the nail in the same way.  
-  *Child mode:* Rest your other hand for one minute. Press and time the nail again.
+  - Note: Count in half seconds if you can, saying one, and, two, and. Start counting the moment the finger is released. A warm hand often takes only about one second. Use the same finger, the same press and the same counter each time. Normal pink usually returns in about 1 to 2 seconds, so the differences are small and you must count carefully. A helper can say 'pink!' when the colour is back while the timer runs. If the nail colour is hard to see, press the soft pad of the fingertip instead and watch it go from pale to pink, and always use the same spot.
+- **s3 (5 min)**  
+  *Parent does:* Ask the child to rest the same left hand on the table for three minutes. This lets it settle back to normal. Press the same finger for two seconds and time the pink three times. Write the times down.  
+  *Parent says:* Now rest the same hand on the table for three minutes. We press and time the nail in the same way.  
+  *Child mode:* Rest the same hand on the table for three minutes. Press and time the nail again.
   - Note: A hand at room temperature is usually between the warm and the cold results. If the room is very cold or very hot, the result may be different. Write the room down in your notes.
 - **s4 (8 min) · grown-up needed**  
-  *Parent does:* A grown-up watches the clock. The child puts the hand into the iced water for one minute. Take it out, dry it, and at once press the nail for two seconds and time the pink three times. Look at the colour of the fingertips.  
+  *Parent does:* A grown-up watches the clock. The child puts the same hand into the iced water for one minute. Take it out, dry it, and at once press the nail for two seconds and time the pink three times. Look at the colour of the fingertips.  
   *Parent says:* Put your hand in the cold water for one minute. I will watch the clock. Take it out and dry it. Then we press and time the nail.  
   *Child mode:* Put your hand in cold water for one minute. Dry it. Then press and time the nail.
   - Ask: What do you notice about the colour and the feel of your fingertips? (good: They look pale.; They feel numb.; The pink took longer to come back.)
-  - Note: Do the three presses quickly, because the hand starts to warm up at once. If the times are all similar, note the colour of the fingertips as well. Pale, waxy fingertips are a clear sign. Stop the test if the hand hurts.
+  - Note: Do the three presses quickly, because the hand starts to warm up at once. If the times are all similar, note the colour of the fingertips as well. Pale, waxy fingertips are a clear sign. Stop the test if the hand hurts. A cold hand should be slower, but the size of the change differs from child to child, typically from about 2 seconds to 4 seconds or more. If it does not change at all, the water was not cold enough, or the hand warmed up while you dried it. Write that down honestly and try again with more ice.
 - **s5 (5 min)**  
   *Parent does:* Gently warm the cold hand under the other arm for two minutes. Press the nail again. Write down how long the pink takes now, and what the fingertips look like.  
   *Parent says:* Tuck your cold hand under your other arm, against your side. Wait two minutes. Then we press and time the nail once more.  
@@ -353,23 +353,23 @@ That night the water ran along the edge of the barley field, soaking the dry gro
 - **question:** Does the same amount of sugar dissolve faster as one lump, as crushed bits, or as a powder?
 - **predict:** Before you start, guess. Which glass will clear first, the lump, the crushed bits or the powder? Which will be last? Why do you think so?
 - **fair test:** Each glass holds 100 millilitres of the same warm tap water. Each glass gets one sugar lump's worth of the same sugar. No one stirs any glass. The glasses are started at the same moment and checked at the same times. Only the size of the pieces changes, so any difference comes from the size.
-- **safety:** Use warm water that is not hot. A grown-up grinds the powder in a clean mortar or a mixer jar, because the blades are sharp.
-- **record:** Write the time for each glass. Draw each glass at the end. Say how the size of the pieces changed the time.
+- **safety:** Use warm water that is not hot. A grown-up grinds the powder in a clean mortar or a mixer jar, because the blades are sharp. Do not drink the sugar water if the glasses were not food-clean, and keep the sugar away from ants.
+- **record:** Write the time for each glass. Draw each glass at the end. Say how the size of the pieces changed the time. Say how long a glass had to be clear and what you saw at the bottom.
 - **results table:** Glass | What is in it | Time until all the sugar has gone (minutes) | What you saw
 - **s1 (3 min)**  
   *Parent does:* Show the three kinds of sugar. Ask the child for a guess and a reason about which will clear first, and which last. Write them down.  
   *Parent says:* We have the same amount of sugar in three forms. Which glass do you think will clear first? Which will be last? Why do you think so?  
   *Child mode:* Same sugar, three forms. Which glass clears first? Which last? Why?
   - Ask: What is different between the three sugars? (good: One is a lump.; One is crushed.; One is powder, so it has many small pieces.)
-  - Note: Accept any guess with a reason. Some children think that more pieces will take longer, because there is more to dissolve. The test will show.
+  - Note: Accept any guess with a reason. Some children think that more pieces will take longer, because there is more to dissolve. The test will show. With 2 to 4 children: each child drops one sugar into one glass (A, B or C), and a fourth child, or the parent, runs the stopwatch and writes the times. Swap jobs and repeat if there is time. One child with a parent: the child drops all three and the parent keeps time.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* Pour 100 millilitres of warm water into each glass. Mark the glasses A, B and C. Ask the child to wrap one lump in the cloth and crush it with the rolling pin into bits. A grown-up grinds one lump into a fine powder.  
+  *Parent does:* Pour 100 millilitres of warm water into each glass. Mark the glasses A, B and C. Ask the child to wrap one cube in the cloth and crush it into bits. Keep every bit. A grown-up grinds one cube into a fine powder.  
   *Parent says:* Pour the same amount of warm water into each glass. Glass A gets a whole lump. Glass B gets a crushed lump. Glass C gets a powdered lump.  
   *Child mode:* Pour water into three glasses. A is the lump. B is crushed. C is powder.
-  - Note: The water in each glass must be at the same warmth. Pour from one jug to be sure. Do not use hot water, because hot water makes everything dissolve fast and the difference is hard to see.
+  - Note: The water in each glass must be at the same warmth. Pour from one jug to be sure. Do not use hot water, because hot water makes everything dissolve fast and the difference is hard to see. Each glass gets the sugar of one whole cube (about one level teaspoon). Do not lose any bits or powder, because less sugar would clear faster and spoil the test.
   - Check: Why do we use the same amount of sugar in each glass? → **So that only the size of the pieces is different**
 - **s3 (3 min)**  
-  *Parent does:* Drop the three sugars into the glasses at the same moment and start the stopwatch. Do not stir.  
+  *Parent does:* Drop the three sugars into the glasses at the same moment and start the stopwatch. Do not stir. Tip in the powder gently so it does not splash.  
   *Parent says:* Ready? Drop them in together, on three. One, two, three. Start the stopwatch. Do not stir, because stirring would hide the difference.  
   *Child mode:* Drop all three in together. Start the stopwatch. Do not stir.
   - Note: Stirring spreads the sugar and hides the effect of the size of the pieces, so keep the spoons away.
@@ -378,7 +378,7 @@ That night the water ran along the edge of the barley field, soaking the dry gro
   *Parent says:* Look at the glasses every minute. Which one has cleared? Which one still has sugar? Write the time when each one is clear.  
   *Child mode:* Look every minute. Write down the time when each glass is clear.
   - Ask: What do you notice about the water around each lump? (good: The water near the lump looks wavy.; There are fewer bits in glass C.; The powder disappears quickly.)
-  - Note: The powder may clear in under a minute. The crushed bits may take a few minutes. The lump can take 10 minutes or more. If the lump is not gone after 15 minutes, write 'more than 15'. That is a good result.
+  - Note: Call a glass 'clear' when you cannot see any grains at the bottom when you tilt it. The powder may be clear in about a minute, and may sit in a clump at first. The crushed bits take a few minutes. A plain sugar cube in warm water typically takes about 3 to 10 minutes without stirring, and mishri takes longer. If the lump is not gone after 15 minutes, write 'more than 15'. That is a good result. If all three finish at about the same time, the water was probably too hot: try again with cooler water.
 - **s5 (6 min)**  
   *Parent does:* Ask the child to write a claim, the evidence and the reasoning. Then ask how this could link to lungs. Do not explain until the child has said what they think.  
   *Parent says:* What did you find? Which glass cleared first? Think about how much of the sugar touches the water in each glass. What do you think made the difference?  
@@ -386,18 +386,18 @@ That night the water ran along the edge of the barley field, soaking the dry gro
   - Check: The powder dissolved fastest. What is the best reason? → **More of the sugar touches the water at once**
 
 ## Activities
-### a1 · Pulse Points: where else can you feel your heartbeat? (10 min)
+### a1 · Pulse Points: where else can you feel your heartbeat? (15 min)
 - **safety:** On the neck, use one finger very lightly on one side only. Never press hard on the neck, and never press both sides at once.
-- **record:** Write which places you found a pulse, and which place was the easiest. Write the number of beats in 15 seconds at two places and compare.
-- **s1 (10 min)**  
-  *Parent does:* Ask the child to find the pulse at the wrist, then at the temple. Next, very lightly at the side of the neck. Last, with a flat hand on the chest. At two of the places, count for 15 seconds and compare the numbers.  
+- **record:** Write which places you found a pulse, and which place was the easiest. Write the number of beats in 15 seconds at two places, at rest and after 20 star jumps, and compare.
+- **s1 (15 min)**  
+  *Parent does:* Ask the child to guess, with a reason, whether the pulse will be the same at every place. Then find the pulse at the wrist, then at the temple, just in front of the ear. Next, very lightly at the side of the neck. Last, with a flat hand on the chest. Count for 15 seconds at the wrist and at the neck. A partner can count one place each, at the same moment. Compare the numbers. Then do 20 star jumps and count again at the same two places.  
   *Parent says:* Find your pulse at your wrist. Now try in front of your ear, at your temple. Try very lightly on one side of your neck. Last, put a flat hand on your chest. Which is easiest?  
   *Child mode:* Find your pulse at four places. Which one is easiest? Count at two places and compare.
   - Ask: Why might the same number of beats show up in all four places? (good: It is the same heart.; The blood goes everywhere.; They are all connected.)
-  - Note: The numbers at the different places should match, within one or two beats. The pulse is a pressure wave from one heartbeat, so it arrives everywhere almost at once. On the neck, use a single light finger and only on one side.
+  - Note: The numbers at the different places should match, within one or two beats. The pulse is a pressure wave from one heartbeat, so it arrives everywhere almost at once. On the neck, use a single light finger and only on one side. With 2 to 4 children, work in pairs: one counts the wrist and the other the neck of the same person at the same moment, then swap. After exercise the numbers are higher, but both places should still match within one or two beats, and the pulse is easier to find.
   - Check: You count 21 beats in 15 seconds at your wrist and 22 at your temple. What does this suggest? → **It is the same heart beating, so the counts should be close**
 ### a2 · Who Breathes Fastest? A breath count of the family (15 min)
-- **safety:** Count only resting or sleeping people and pets, and watch from a little way off. Do not wake a sleeping baby or an animal.
+- **safety:** Count only resting or sleeping people and pets, and watch from a little way off. Do not wake a sleeping baby or an animal, and do not touch an unfamiliar animal. Wash your hands after touching any pet. If a child is allergic to fur, count that pet from a distance.
 - **record:** Write each name, the count for 15 seconds, and the breaths per minute. Draw a bar chart of breaths per minute for each being.
 - **s1 (5 min)**  
   *Parent does:* Ask the child to guess who breathes fastest and who breathes slowest, from a list of the beings to be counted. Write the guesses down with the reasons.  
@@ -409,45 +409,52 @@ That night the water ran along the edge of the barley field, soaking the dry gro
   *Parent says:* Watch a resting person or pet for 15 seconds. Count each time the chest or belly rises. Multiply your number by 4. Then draw a bar.  
   *Child mode:* Watch for 15 seconds. Count each rise. Multiply by 4. Draw a bar.
   - Ask: What pattern do you notice between age or size and breathing rate? (good: Babies breathe faster than grown-ups.; Small animals breathe faster.; Older people breathe slower.)
-  - Note: Usual resting rates are about 30 to 40 breaths a minute for a young baby, about 18 to 25 for a school child, about 12 to 20 for an adult, and about 15 to 30 for a resting dog or cat. Animals that have just played will be faster, so count only those who are calm.
+  - Note: Usual resting rates are about 30 to 40 breaths a minute for a young baby, about 18 to 25 for a school child, about 12 to 20 for an adult, and about 15 to 30 for a resting dog or cat. Animals that have just played will be faster, so count only those who are calm. Breath counts over 15 seconds are rough: a miss of one breath changes the answer by 4. For steadier numbers count for 30 seconds and multiply by 2. With 2 to 4 children, each child counts different beings, or two children count the same being and compare their numbers. With one child, the parent keeps time.
   - Check: Which being would you expect to breathe fastest while resting? → **A young baby**
-### a3 · Iron for the Blood: catch the iron in a bowl of cereal (20 min)
-- **safety:** A grown-up handles any strong magnet, and keeps it away from phones and cards. Small strong magnets must never be swallowed. Do not eat the cereal soup afterwards.
-- **record:** Draw the magnet bag at the end. Write whether you found flecks and how many, and what the nutrition label said about iron.
+### a3 · Iron for the Blood: catch the iron in a bowl of cereal (30 min)
+- **safety:** A grown-up handles any strong magnet, and keeps it away from phones, watches, cards and anyone with a pacemaker. Strong magnets can pinch fingers and snap together hard. Small strong magnets must never be swallowed. Do not eat the cereal soup afterwards.
+- **record:** Draw the magnet bag at the end of each test. Write whether you found flecks in the cereal and in the puffed rice, how many, and what the nutrition label said about iron.
 - **s1 (5 min)**  
   *Parent does:* Show the child the nutrition label and find the line for iron. Ask the child to guess whether a magnet can pull iron out of a soft, wet cereal, and why.  
   *Parent says:* This cereal has iron added to it, as a label says. Do you think a magnet can pull iron out of a soft, wet cereal? Why do you think so?  
   *Child mode:* The label says this cereal has iron. Can a magnet pull it out? Why?
-  - Note: Iron added to cereal is often a fine iron powder, which is magnetic. Not every cereal and not every magnet will show it. The magnet must be strong. If nothing shows up, that is a real result.
+  - Note: Iron added to cereal is often a fine iron powder, which is magnetic. Not every cereal and not every magnet will show it. The magnet must be strong. If nothing shows up, that is a real result. This works best with a cereal whose label shows a good share of the daily iron, and with a strong magnet. A fridge magnet will not do. If you cannot find a strong magnet, borrow one from a hardware shop or an old speaker, or skip this activity and read the nutrition label alone.
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* A grown-up helps the child to crush the cereal in warm water. Put the magnet in the zip bag and seal it. Stir the soup slowly with the bag for 10 minutes.  
+  *Parent does:* A grown-up helps the child to crush the cereal to a fine powder. Mix it with warm water in one bowl, to make a thin soup. Put the magnet in the zip bag and seal it. Stir the soup slowly with the bag for 10 minutes. With 2 to 4 children, take turns stirring for 2 or 3 minutes each.  
   *Parent says:* Crush the cereal into the warm water until it is soft. Seal the magnet in the bag. Stir slowly with the bag for 10 minutes.  
   *Child mode:* Crush the cereal in warm water. Stir with the magnet in a bag for 10 minutes.
   - Note: Stir slowly, so the iron has time to stick. Stay away from phones, watches and cards with the magnet.
 - **s3 (5 min)**  
-  *Parent does:* Lift the bag out of the soup. Hold it over a white plate and look at its outside for tiny dark flecks. Wipe them off onto the plate to see them better.  
+  *Parent does:* Lift the bag out of the soup. Hold it over a white plate and look at its outside for tiny dark flecks. Wipe them off onto the plate to see them better. Wash and dry the bag.  
   *Parent says:* Lift out the bag and look at its outside. Do you see tiny dark flecks? Those could be iron. Wipe them onto the white plate.  
   *Child mode:* Lift out the bag. Look for tiny dark flecks on the outside.
   - Ask: Why do you think your body needs iron? (good: For blood.; To carry oxygen.; To make haemoglobin.)
   - Note: If you see flecks, they are likely to be iron powder. If you see none, the magnet may be too weak or the cereal may not hold much loose iron. The iron in your blood is not a magnet. It is held inside haemoglobin.
   - Check: The magnet caught tiny dark flecks. Why does the body need iron? → **Iron is a part of haemoglobin, which carries oxygen**
-### a4 · Hand Up, Hand Down: where does the blood pool? (10 min)
-- **record:** Draw the back of each hand after one minute. Write the colour and whether the veins stood out.
-- **s1 (10 min)**  
-  *Parent does:* Ask the child to guess how the two hands will look after one minute. Then hold one hand high above the head and the other hanging down by the side for one minute. Bring both in front of the face and compare the colour and the veins on the backs.  
+- **s4 (10 min)**  
+  *Parent does:* Crush the plain puffed rice in warm water in the second bowl. Stir it with the clean bag and magnet for 5 minutes. Look for flecks in the same way. Compare the two plates.  
+  *Parent says:* Now we do the same with puffed rice that has no added iron. Will the magnet catch flecks this time?  
+  *Child mode:* Do the same with plain puffed rice. Do you find flecks again? Compare the two plates.
+  - Ask: Why do you think your body needs iron? (good: For blood.; To carry oxygen.; To make haemoglobin.)
+  - Note: If a second magnet is at hand, two children can stir both bowls at the same time. The puffed rice should show no flecks, or far fewer, which is what makes the cereal result believable. If neither shows flecks, say so: the magnet may be too weak.
+  - Check: The magnet caught tiny dark flecks. Why does the body need iron? → **Iron is a part of haemoglobin, which carries oxygen**
+### a4 · Hand Up, Hand Down: where does the blood pool? (15 min)
+- **record:** Draw the back of each hand after one minute, both times. Write the colour and whether the veins stood out, and how many seconds the veins took to fill after you lowered the raised hand.
+- **s1 (15 min)**  
+  *Parent does:* Ask the child to guess how the two hands will look after one minute, and why. Then hold one hand high above the head and the other hanging down by the side for one minute. Bring both in front of the face and compare the colour and the veins on the backs. Then lower the raised hand and count the seconds until its veins fill. Rest for two minutes, swap the hands (the other hand up this time), and repeat, to check that it is the position that matters and not the hand.  
   *Parent says:* Do you think the two hands will look the same after one minute? Why do you think so? Hold one hand up high and one down low. After one minute, look at both.  
   *Child mode:* Guess how the hands will look. Hold one hand up and one down for one minute. Then compare them.
   - Ask: What do you notice about the veins and the colour? (good: The low hand is pinker and the veins stand out.; The high hand is paler.; The low hand feels heavy.)
-  - Note: Usually the hanging hand looks pinker, with veins that stand out, and the raised hand looks paler, with flatter veins. Gravity pulls blood down. The effect is easy to see if you lower the raised hand afterwards and watch the veins fill.
+  - Note: Usually the hanging hand looks pinker, with veins that stand out, and the raised hand looks paler, with flatter veins. Gravity pulls blood down. The effect is easy to see if you lower the raised hand afterwards and watch the veins fill. If the veins are hard to see on darker skin, compare the colour of the palms and fingertips, how full or puffy the fingers look, or how tight a ring or bangle feels. The veins typically fill in about 5 to 15 seconds. With 2 to 4 children, work in pairs so that one child compares and the other times.
   - Check: The low hand looked pinker, with veins that stood out. Why? → **Gravity pulled more blood down into that hand**
-### a5 · Breathe Through a Straw: what narrow airways feel like (12 min)
-- **safety:** A grown-up stays with the child the whole time. Stop at once if the child feels dizzy, panicky or short of breath, and take the straw away. Skip this activity for any child with asthma or a breathing problem. Use a clean straw, and use it only once.
-- **record:** Write the pulse before and after, and how it felt. Write one sentence on what you learned about people whose airways are narrow.
+### a5 · Breathe Through a Straw: what narrow airways feel like (20 min)
+- **safety:** A grown-up stays with the child the whole time. Stop at once if the child feels dizzy, panicky or short of breath, and take the straw away. Skip this activity for any child with asthma or a breathing problem. Use a clean straw for each child, and use it only once. Marching is optional: a child who feels any discomfort should only sit and breathe through the straw.
+- **record:** Write the pulse and the breaths in 15 seconds before and after, with and without the straw, and how each felt. Write one sentence on what you learned about people whose airways are narrow.
 - **s1 (3 min)**  
   *Parent does:* Count the child's resting pulse for 15 seconds and write it down. Ask for a guess and a reason about how breathing through a straw will feel, and how it will change the pulse.  
   *Parent says:* First, count your pulse sitting. Now guess. How will it feel to breathe through a straw? Will your pulse change? Why do you think so?  
   *Child mode:* Count your pulse. How will breathing through a straw feel? Why?
-  - Note: Take the pulse before the straw. Tell the child they can stop at any time by taking out the straw.
+  - Note: Take the pulse before the straw. Tell the child they can stop at any time by taking out the straw. Each child counts their own pulse and a partner counts the breaths over 15 seconds.
 - **s2 (9 min) · grown-up needed**  
   *Parent does:* With a grown-up beside, the child breathes through the straw for one minute, with the nose gently pinched. Then the child marches on the spot for 20 seconds, still using the straw. Stop and take the straw out. Count the pulse for 15 seconds.  
   *Parent says:* Pinch your nose gently and breathe through the straw for one minute. Then march on the spot for 20 seconds. If you feel dizzy, stop at once.  
@@ -455,33 +462,40 @@ That night the water ran along the edge of the barley field, soaking the dry gro
   - Ask: What was it like to breathe through such a narrow tube? (good: It was hard work.; I felt like I could not get enough air.; My heart went fast.)
   - Note: Most children find the straw hard even sitting. Remember that some children and adults live with narrower airways every day. An inhaler widens the airways quickly. This is a good moment to talk about being kind to someone who is short of breath.
   - Check: Why did the straw make breathing hard work? → **The air has to squeeze through a very narrow tube**
-### a6 · A Calm Story and a Scary Story: does feeling change the pulse? (15 min)
-- **record:** Write the pulse for each story. Write whether it changed, and how sure you are, given that pulse counts are rough.
-- **s1 (15 min)**  
-  *Parent does:* Ask the child to sit still and rest for one minute. Read a calm story for two minutes, and then count the pulse for 15 seconds. Rest for two minutes. Read a suspenseful story for two minutes, and count the pulse again in the last 15 seconds.  
+- **s3 (8 min) · grown-up needed**  
+  *Parent does:* Rest until the pulse is back to the first resting number, about 3 to 5 minutes. Then the child marches on the spot for 20 seconds with no straw, breathing normally. Count the pulse for 15 seconds and the breaths for 15 seconds, and compare how it felt with the straw march.  
+  *Parent says:* Rest until you feel normal. Now we march for the same 20 seconds, with no straw. How is it different?  
+  *Child mode:* Rest, then march for 20 seconds with no straw. Count your pulse. How did it feel different?
+  - Note: Do the marching without the straw second, so the comparison is fair, and keep the marching time the same. With 2 to 4 children, only one child breathes through a straw at a time while the others watch, count and time, and each child has their own clean straw. The pulse numbers may be similar, because 20 seconds is short, but the effort and the breathing usually feel very different. Say so, and explain that pulse counts are rough.
+  - Check: Why did the straw make breathing hard work? → **The air has to squeeze through a very narrow tube**
+### a6 · A Calm Story and a Scary Story: does feeling change the pulse? (20 min)
+- **safety:** Choose a story that is exciting but not frightening, with no horror, and stop at once if the child becomes upset or scared. Tell the child it is only a story and that it is fine to say stop.
+- **record:** Write the three resting counts, then the pulse for each story. Write whether it changed by more than the resting counts varied, and how sure you are, given that pulse counts are rough.
+- **s1 (20 min)**  
+  *Parent does:* Ask the child to sit still and rest. Count the resting pulse for 15 seconds three times, one minute apart, to see how much it varies on its own. Read a calm story for two minutes, and then count the pulse for 15 seconds. Rest for two minutes. Read a suspenseful story for two minutes, and count the pulse again in the last 15 seconds. A helper holds the child's wrist and counts, so that the child can just listen.  
   *Parent says:* Do you think a scary story could change your pulse even if you sit still? Why do you think so? Listen to the calm story first. Count your pulse in the last 15 seconds.  
   *Child mode:* Listen to a calm story. Count your pulse. Then listen to an exciting story. Count again.
   - Ask: What do you think is telling your heart to speed up? (good: My brain.; My feelings.; A chemical like adrenaline.)
-  - Note: The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still.
+  - Note: The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still. The three resting counts show the 'noise': if they differ by 2 or 3 beats on their own, a story change of that size means nothing. With 2 to 4 children, work in pairs: one listens, one counts, then swap; all can listen to the same story. One child with a parent: the parent reads and then counts, so read the story in advance and count in the last 15 seconds of reading, or use a recorded story. Use the same position and time for both stories.
   - Check: The pulse was a little higher in the exciting story. What is a fair thing to say? → **The change might be real, but the count is rough, so we should test more times**
 
 ## Projects
 ### p1 · The Family Pulse Study: a pulse for every age (45 min, 2 days)
 - **safety:** Ask each person first. Count only people who are sitting quietly. Count a baby's heartbeat with a flat hand on the chest, and do not wake a sleeping baby.
 - **record:** Write each person's age and pulse per minute. Draw a bar chart. Write one sentence on the pattern you see and one sentence on what the study cannot tell you.
-- **schedule:** day 1: Ask each person to sit still for two minutes. Count each pulse for 15 seconds and multiply by 4. Write the age and the pulse. (25 min); day 2: Draw a bar chart of pulse against age. Write what you see. Write one thing you cannot tell from five people. (20 min)
+- **schedule:** day 1: Ask each person to sit still for two minutes. Count each pulse for 15 seconds twice, and use the average. Multiply by 4. Write the age and the pulse. (30 min); day 2: Draw a bar chart of pulse against age. Write what you see. Write one thing you cannot tell from five people. (15 min)
 - **s1 (5 min)**  
   *Parent does:* Ask the child to guess whether older or younger people have the faster resting pulse, and why. Write the guess. Choose five or more people of different ages.  
   *Parent says:* Do you think older people or younger people have a faster pulse at rest? Why do you think so? Choose five people to count.  
   *Child mode:* Who has the faster pulse, old or young people? Why? Choose five people.
   - Note: Include a baby or toddler if you can, a child, a parent, and a grandparent. Count all of them at the same time of day, if possible.
-- **s2 (20 min)**  
-  *Parent does:* Ask each person to sit still for two minutes. Count each pulse for 15 seconds. Multiply by 4. Write the age and the pulse.  
+- **s2 (25 min)**  
+  *Parent does:* Ask each person to sit still for two minutes. Count each pulse for 15 seconds, wait a minute, and count again. Add the two counts and multiply by 2 to get beats per minute. Write the age and the pulse.  
   *Parent says:* Ask each person to sit quietly for two minutes. Then count their pulse for 15 seconds and multiply by 4.  
   *Child mode:* Ask each person to sit still. Count the pulse for 15 seconds. Multiply by 4.
-  - Note: Usual resting rates are about 100 to 160 for a newborn, 70 to 110 for a school child, and 60 to 100 for an adult. A person who exercises regularly may be below 60.
+  - Note: Usual resting rates are about 100 to 160 for a newborn, 70 to 110 for a school child, and 60 to 100 for an adult. A person who exercises regularly may be below 60. With 2 to 4 children, share the people out, with each child counting their own people while a sibling times; swap for one person to check that two counters agree. A person can count their own pulse while the child times. Use the same time of day for all, and do not count anyone who has just run or eaten a big meal.
   - Check: You counted 18 beats in 15 seconds for a grandfather. What is his pulse per minute? → **72**
-- **s3 (20 min)**  
+- **s3 (15 min)**  
   *Parent does:* Draw a bar chart with the ages along the bottom and the pulse per minute going up. Write what you see. Write one thing you cannot tell from only five people.  
   *Parent says:* Draw a bar for each person. Look at the pattern. Does age change the pulse? What could you not tell from only five people?  
   *Child mode:* Draw a bar chart. Write the pattern you see. Write what five people cannot tell you.
@@ -752,8 +766,8 @@ Beat and Breath (sci.body.L4): Topic-level song
 
 ## Things to buy
 - [A simple sports stopwatch](https://www.amazon.in/s?k=sports+stopwatch) (tool): To count 15 seconds without holding a phone. Any phone or kitchen clock with a stopwatch also works. Used in e1, e2, e3, a1, a2, a5, a6, p1. 
-- [A small box of sugar cubes or rock sugar (mishri)](https://www.amazon.in/s?k=sugar+cubes) (material): For the Big Surface test. Rock sugar is sold in most grocery shops. Used in e3. 
-- [A strong magnet, such as a ceramic or neodymium block](https://www.amazon.in/s?k=strong+neodymium+magnet) (tool): For the iron-in-cereal activity. A fridge magnet is usually too weak. A grown-up must keep small strong magnets away from small children. Used in a3. 
+- [A small box of plain white sugar cubes](https://www.amazon.in/s?k=sugar+cubes) (material): For the Big Surface test. Sugar cubes are sold at most grocery shops for about Rs 40 to 80. Rock sugar (mishri) also works but dissolves much more slowly, so the times are longer. Used in e3. 
+- [A strong magnet, such as a ceramic or neodymium block](https://www.amazon.in/s?k=strong+neodymium+magnet) (tool): For the iron-in-cereal activity. A fridge magnet is too weak, so the magnet must be a strong one, such as a neodymium magnet, which is sold at hardware and electronics shops and online, or one taken from an old loudspeaker. Keep strong magnets away from small children and from phones and cards. If you cannot find one, skip the activity. Used in a3. 
 
 ## Warm-up
 - How do you find your pulse? → Rest two fingers, not the thumb, on the inside of the wrist and count the pushes.
