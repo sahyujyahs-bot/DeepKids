@@ -253,6 +253,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards. Draw one arrow on paper with 1 centimetre for each 10 newtons, as a practice.  
   *Parent says:* Let us learn the game. A force has a size and a direction. Here is a 30 newton pull to the right. Draw an arrow 3 centimetres long, pointing right.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Draw an arrow for a 30 N pull to the right.
+  - Note: One child with a parent works well: take turns being the reader, and swap after every card. With 3 to 5 players, nobody needs to be an adult. Cards can be copied by hand on small bits of paper if you cannot print.
 - **s2 (6 min)**  
   *Parent does:* Play the first 4 cards slowly. After each card, read the back aloud. Ask the question below after the second card.  
   *Parent says:* I read the front. You pick a token for the direction and write the size. Now we turn them over together. What was your reason?  
@@ -281,7 +282,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
 - **question:** A 500 millilitre bottle of water weighs about 5 newtons. When it hangs in the middle of a line, how hard does each end of the line pull? Is it less than 5 newtons, the same, or more? And what happens when you make the line flatter?
 - **predict:** Before you start, guess. When the line is almost flat, will each end pull with less than 5 newtons, exactly 5 newtons, or more than 5 newtons? Why do you think so?
 - **fair test:** Use the same bottle, the same thread and the same rubber band gauge every time. Only the sag of the line changes. Measure the sag the same way each time, from the stick down to the thread. Read the band at the same place with your eye level with it. Do each sag three times and take the middle value, because one reading can be a fluke.
-- **safety:** Stand to the side and keep your face away from the band, in case it snaps. Never go past the 3 packet load. Stop if the band looks thin and pale. Keep the packets over a soft cushion, so that they do not land on feet.
+- **safety:** Stand to the side and keep your face away from the band, in case it snaps. Never go past the 3 packet load. Stop if the band looks thin and pale. Keep the packets over a soft cushion, so that they do not land on feet. The thread under load can snap: keep faces and fingers away from the line, and hang the bottle over the cushion.
 - **record:** Write the band length for 0, 1, 2 and 3 packets. Draw the calibration graph. For each sag, write the three band lengths and the middle one, then read the pull from your graph. Last, write your claim, your evidence and your reasoning.
 - **results table:** Sag of the line (cm) | Band length, try 1 (cm) | Band length, try 2 (cm) | Band length, try 3 (cm) | Middle band length (cm) | Pull read from the graph (N)
 - **s1 (5 min)**  
@@ -289,12 +290,12 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent says:* This bottle weighs about 5 newtons. We will hang it in the middle of a line. Will each end of the line pull with less than 5 newtons, exactly 5, or more? Why do you think so?  
   *Child mode:* A bottle weighs 5 N. It hangs in the middle of a line. Will each end pull less, the same, or more than 5 N? Why?
   - Ask: Why do you think each end will pull with that much? (good: Each end holds half the bottle, so 2.5 newtons.; Each end holds the whole bottle, so 5 newtons.; A flat line has to pull harder, because it is pulling sideways.)
-  - Note: Do not correct any guess. Many children say 2.5 newtons, because the two ends share the weight. Write down whatever they say and the reason.
+  - Note: Do not correct any guess. Many children say 2.5 newtons, because the two ends share the weight. Write down whatever they say and the reason. One child with a parent: the child builds and reads, the parent turns the pencil and writes. With 2 to 4 children: one holds the stick steady, one turns the pencil, one reads the band at eye level, one writes. Swap roles for each sag. Every child writes their own guess first. A second rig is only needed if you want two groups to compare.
 - **s2 (10 min)**  
   *Parent does:* Lay the stick across the backs of two heavy chairs, about 1 metre apart. Tape both ends down. Tie the band round the stick near the right end. Hang the carrier bag from the band. Measure the band's length with the empty bag.  
   *Parent says:* The stick holds both ends of our line. Tie the band near this end and hang the empty bag from it. How long is the band now? Measure from knot to knot, and write it down.  
   *Child mode:* Lay the stick on two chairs and tape it down. Tie the band to the stick. Hang the bag. Measure the band.
-  - Note: The stick takes the sideways pull, so the chairs do not get dragged together. Tie the band round the stick twice so that it cannot slip. Measure the band the same way every time, from knot to knot, with your eye level with it. This is your 0 newtons length.
+  - Note: The stick takes the sideways pull, so the chairs do not get dragged together. Tie the band round the stick twice so that it cannot slip. Measure the band the same way every time, from knot to knot, with your eye level with it. This is your 0 newtons length. Test the band before you start: stretch it by hand 10 times to loosen it. If three packets stretch it to more than about four times its relaxed length, or it looks thin and pale, use two bands side by side or a stronger one. If three packets hardly stretch it (under 1 cm), the band is too stiff to read; use a thinner, longer one.
   - Check: Why do we measure the band's length from the same place every time? → **So that any change in length comes from the load, not from where we measured**
 - **s3 (10 min)**  
   *Parent does:* Put one 500 gram packet in the bag. Wait for the band to stop moving. Measure its length. Add the second packet, then the third, and measure each time. Then take all the packets out and measure the empty bag again.  
@@ -307,7 +308,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent says:* Hang the bottle on the clip. Turn the pencil to make the line flatter. When the sag is 25 centimetres, measure the band. Do it three times. Then try 15 centimetres, and then 10 centimetres.  
   *Child mode:* Hang the bottle on the thread. Turn the pencil to make a 25 cm sag. Measure the band. Do 15 cm and 10 cm.
   - Ask: What do you notice about the band as the line gets flatter? (good: The band gets longer.; The flatter line makes the band pull more.; The band reads more than a bottle should, more than 5 newtons.)
-  - Note: For a 1 metre line and a 5 newton bottle, expect about 6 newtons at 25 centimetres, 9 newtons at 15 centimetres and 13 newtons at 10 centimetres. Your span may differ, so your numbers may too. The clip should slide to the lowest point. If it sticks, tap the thread gently. Hold the stick still while you turn the pencil. Do not go flatter than 10 centimetres. If the band looks like it will go past the 3 packet length, stop. The graph cannot be trusted beyond that, and the band might snap. Read the band at eye level, three times for each sag, and take the middle value.
+  - Note: For a 1 metre line and a 5 newton bottle, expect about 6 newtons at 25 centimetres, 9 newtons at 15 centimetres and 13 newtons at 10 centimetres. Your span may differ, so your numbers may too. The clip should slide to the lowest point. If it sticks, tap the thread gently. Hold the stick still while you turn the pencil. Do not go flatter than 10 centimetres. If the band looks like it will go past the 3 packet length, stop. The graph cannot be trusted beyond that, and the band might snap. Read the band at eye level, three times for each sag, and take the middle value. The pencil is hard to turn when the line is tight. Wind several turns of thread on it, hold the turns with a finger, and tape the pencil to the band when the sag is right. Measure the sag after the band has stopped stretching, because the band lengthens a little as the line gets tighter. The pulls above are typical for a 1 metre span; in a damp or hot room a band may be softer, so always read your own graph, not these numbers. If the three sags give almost the same band length, the band is too stiff or the sags are too similar: use a softer band or try 30, 15 and 8 centimetres.
   - Check: The band is longer than it was with 2 packets (10 N) when the line has a 10 cm sag. The bottle weighs about 5 N. What does this tell you? → **Each end of the line pulls with more than 10 N, so more than the bottle weighs**
 - **s5 (5 min)**  
   *Parent does:* Read each pull from your graph. Look at your first guess. Write three sentences: a claim, the evidence and the reasoning. Draw one arrow picture, with two arrows pulling along the line and a short arrow for the weight.  
@@ -319,7 +320,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
 - **question:** A flat coin lying on the surface of water is held by the water. How big is the pull needed to lift it off? And does a drop of soap in the water change it?
 - **predict:** Before you start, guess. How many grains of rice, added to a little pan, will it take to pull the coin off the water? Will soap make the number bigger, smaller or the same? Why do you think so?
 - **fair test:** Use the same coin, the same bowl and the same balance every time. Dry the coin and balance the ruler again between tries. Only the water changes: first plain water, then water with soap. Do each water three times and take the middle value, because the coin sometimes tilts or pulls off early.
-- **safety:** Keep soap out of your eyes and wash your hands afterwards. Do not eat the rice after it has been used. Wipe up any spilt water so that nobody slips.
+- **safety:** Keep soap out of your eyes and wash your hands afterwards. Do not eat the rice after it has been used. Wipe up any spilt water so that nobody slips. Dish soap can sting eyes, so a parent measures the drops. Keep small rice grains away from younger brothers and sisters, and sweep up spilt grains.
 - **record:** Write how many grains weigh one gram, how many grains pulled the coin off the plain water and the soapy water, and the pull in newtons for each. Write one sentence for what the soap did.
 - **results table:** Water | Grains of rice, try 1 | Grains of rice, try 2 | Grains of rice, try 3 | Middle value (grains) | Pull (newtons)
 - **s1 (5 min)**  
@@ -327,7 +328,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent says:* A coin lying flat on water seems to stick. We will add rice grains to a pan until the coin comes off. How many grains do you think it will take? Will soap change it? Why do you think so?  
   *Child mode:* A coin sticks to water. How many rice grains will pull it off? Will soap change it? Why?
   - Ask: Why do you think soap might change the number? (good: Soap makes water slippery, so it holds less.; Soap makes the water thicker, so it holds more.; Soap does not change how water holds.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. The usual answer is roughly 10 to 60 grains for plain water, and clearly fewer with soap.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. The usual answer is roughly 10 to 60 grains for plain water, and clearly fewer with soap. One child with a parent: the child drops the grains, the parent watches the coin and keeps the table still. With 2 to 4 children: one drops grains, one counts aloud, one watches the coin, one writes; each child takes one of the three tries on each water, so the three tries are done by three different people. One balance is enough.
 - **s2 (8 min)**  
   *Parent does:* Count 300 grains of rice onto a plate, in 30 piles of 10. Weigh them on the kitchen scale. Divide the weight by 300 to find one grain's weight. Write it down.  
   *Parent says:* Count out 30 piles of 10 grains. Now weigh them all together. If the scale shows 6 grams for 300 grains, how much is one grain? Divide the weight by 300.  
@@ -338,19 +339,19 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent does:* Tape the pencil to the table edge. Balance the ruler across it. Tie the thread to the coin with a tiny piece of tape, and hang the coin from one end. Hang the paper cup from the other end. Add clay until the ruler is level.  
   *Parent says:* Tape the pencil to the table. Put the ruler across it like a see-saw. Hang the coin on one end and the empty cup on the other. Add a little clay until the ruler sits level.  
   *Child mode:* Tape a pencil to the table. Balance the ruler on it. Hang the coin and the cup. Add clay until it is level.
-  - Note: The coin must hang flat, like a tiny table, from its centre. Put a very small piece of tape on its top, and tie the thread to the tape. Check that the ruler is level before you add water. Place the bowl on books and slide it under the coin. Raise it until the coin just touches the water, with the ruler still level. If the coin hangs tilted, re-tape it nearer the centre. This step takes a few tries. Do not rush.
+  - Note: The coin must hang flat, like a tiny table, from its centre. Put a very small piece of tape on its top, and tie the thread to the tape. Check that the ruler is level before you add water. Place the bowl on books and slide it under the coin. Raise it until the coin just touches the water, with the ruler still level. If the coin hangs tilted, re-tape it nearer the centre. This step takes a few tries. Do not rush. Switch off fans and close the window, because a draught moves the ruler. Raise the bowl with books first, then fine-tune with sheets of paper under the bowl until the coin just touches the water. Stick the pencil to the table with tape so that it cannot roll.
   - Check: Why do we level the ruler before the coin touches the water? → **So that the only thing pulling the coin up is the grains we add**
 - **s4 (10 min)**  
   *Parent does:* With the coin touching the water, drop rice grains into the cup one at a time. Count aloud. Stop when the coin jumps off the water. Write the number. Dry the coin and level the ruler again. Do this three times.  
   *Parent says:* Add the grains slowly, one at a time. Count them out loud. Watch the coin. When it jumps off the water, stop and write the number. Dry the coin and do it again.  
   *Child mode:* Drop grains into the cup, one at a time. Count aloud. Stop when the coin jumps off. Write the number.
   - Ask: What do you notice about the numbers of grains from try to try? (good: They are close but not the same.; One try was much lower, maybe because the coin tilted.; They are around the same number.)
-  - Note: Expect somewhere between 10 and 60 grains. Numbers that are close but not equal are normal. If one try is far from the others, the coin probably tilted or touched the water unevenly. Repeat that try. Keep the middle value of the three.
+  - Note: Expect somewhere between 10 and 60 grains. Numbers that are close but not equal are normal. If one try is far from the others, the coin probably tilted or touched the water unevenly. Repeat that try. Keep the middle value of the three. What is typical, not promised: for a clean one-rupee coin, roughly 20 to 40 grains. If it comes off with fewer than 5 grains, the coin is greasy or tilted: wash it with soap, rinse, and dry it with a clean paper towel, and do not touch its face with your fingers. If 80 grains cannot pull it off, check that the thread is not touching the water and that the ruler was level.
 - **s5 (7 min) · grown-up needed**  
   *Parent does:* Add two or three drops of dish soap to the water. Stir gently with the spoon, and let the water go still. Dry the coin. Level the ruler. Repeat the test three times.  
   *Parent says:* Now we change one thing only. We add soap to the water and stir gently. We test again, three times. Does the coin need more grains or fewer to come off?  
   *Child mode:* Add a few drops of soap to the water. Stir gently. Test the coin three times.
-  - Note: Soapy water is a bit slippery, so the surface pulls less and fewer grains are needed. Expect about half or fewer. If there is foam on top, skim it off with the spoon before the test.
+  - Note: Soapy water is a bit slippery, so the surface pulls less and fewer grains are needed. Expect about half or fewer. If there is foam on top, skim it off with the spoon before the test. Use the second bowl for soapy water, so you can go back to plain water if a result looks odd. A damp or hot day does not matter much, but a dirty water surface does: do not touch the water with your fingers.
   - Think: Why might soap change the hold of water on the coin? What does soap do when it is washing a dish?
 - **s6 (5 min)**  
   *Parent does:* Find the middle value for each water. Multiply the grains by the weight of one grain, to get grams. Multiply by 0.01 to get newtons. Compare with the 1 newton of an apple. Write a claim, evidence and reasoning.  
@@ -367,11 +368,12 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent says:* Hold the packet still. It pulls down with about 5 newtons. What is your hand doing? Draw both forces as arrows, 1 centimetre for each newton.  
   *Child mode:* Hold a packet still. Draw its weight as an arrow. Draw your hand's push too.
   - Ask: How long should the arrow for your hand's push be, and why? (good: The same length as the weight arrow, 5 centimetres, because the packet is not moving.; It points up and it is the same size, so the forces are balanced.; Five centimetres, pointing the opposite way.)
-  - Note: The weight arrow points down. The hand arrow points up and is the same length. Because the packet stays still, the two forces are balanced and the net force is zero.
+  - Note: The weight arrow points down. The hand arrow points up and is the same length. Because the packet stays still, the two forces are balanced and the net force is zero. With 2 to 4 children: each child draws their own set of five pictures; take turns being the hand and the artist. A packet weighs about 5 N, so the arrow is 5 cm long on a 1 cm for 1 N scale.
 - **s2 (6 min)**  
   *Parent does:* Ask your child to raise the packet slowly and steadily, then to snatch it upward quickly. Ask what the hand feels in each case. Draw the hand's push arrow longer for the snatch.  
   *Parent says:* Lift slowly. Now snatch it up fast. When did your hand have to push harder? Draw a longer arrow for the harder push.  
   *Child mode:* Lift the packet slowly. Then snatch it up fast. When did you push harder?
+  - Note: Put the packet in the carrier bag and lift it by the handles, so the packet cannot fly out. Guess before you lift: which will feel heavier, slow or snatched? Typical: the snatch feels like 7 to 10 N for a moment, though it is not measured.
   - Check: A hand pushes a packet up with 7 N. The packet weighs 5 N. What is the net force? → **2 N up, so the packet speeds up upwards**
   - Think: When the hand pushes harder than the weight, what happens to the packet?
 - **s3 (6 min)**  
@@ -401,11 +403,12 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent does:* Hang the packet. Wait 10 seconds. Read the band to the nearest half millimetre. Take the packet off and rest the band for 20 seconds. Do this ten times. Write each reading.  
   *Parent says:* Hang the packet and wait until the band stops moving. Read it at eye level. Take the packet off and wait. Then do it again. Ten times in all.  
   *Child mode:* Hang the packet. Wait. Read the band. Take it off. Wait. Do it ten times.
-  - Note: Read at eye level, at the same spot on the ruler, to the nearest half millimetre. Write every reading, even when two are the same. Do not throw away the odd ones.
+  - Note: Read at eye level, at the same spot on the ruler, to the nearest half millimetre. Write every reading, even when two are the same. Do not throw away the odd ones. Typical spread is about 1 to 3 millimetres, but it depends on your band. If all ten readings come out exactly the same, that is a result too: the ruler cannot see the small changes. Then repeat with only 5 seconds of rest between hangs, and with a longer, softer band, to see if the readings now spread. The number 12.3 cm is an example, not what you will get.
 - **s3 (5 min)**  
-  *Parent does:* Ask two helpers to read the band while the packet hangs still. One looks from above, one looks from below. Write what each reads. Compare with your reading at eye level.  
+  *Parent does:* Ask a second person to read the band while the packet hangs still. Then each of you reads it three times: once from above, once at eye level and once from below. Write what each of you reads. Compare.  
   *Parent says:* Now two helpers will read the same band. One looks from above. One looks from below. Do they read the same as you?  
   *Child mode:* Ask two people to read the band. One looks from above. One from below.
+  - Note: Alone with a parent: the child reads, then the parent reads, and each moves their head to look from above and below. With 3 or more children, each child reads in turn.
   - Check: Three people read the same band and get slightly different numbers. What is the best explanation? → **Each looks from a slightly different place, so the pointer seems to sit in a slightly different place**
   - Think: Is the band different for each reader, or is it the readers?
 - **s4 (8 min)**  
@@ -422,12 +425,12 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent says:* The band is long now, because the bottle weighs 5 newtons. When the bottle swings, will the band end higher, lower or at the same place at the bottom of the swing? Why do you think so?  
   *Child mode:* The bottle hangs still. Mark the end of the band with a pencil. What will the band do when the bottle swings?
   - Ask: Why do you think the band will end at that place when the bottle swings? (good: The bottle is still the same weight, so it will end at the same place.; The bottle is moving, so it pulls harder.; The band will bounce, so it will go lower.)
-  - Note: Do not correct the guess. Write it down. A grown-up should do the release in the next step.
+  - Note: Do not correct the guess. Write it down. A grown-up should do the release in the next step. One child with a parent: the child watches and writes, the parent releases. With 2 to 4 children: one watches the band, one films, one writes, and the grown-up releases. Swap roles for each lift.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* A grown-up lifts the bottle sideways until it is 10 centimetres higher than when it hangs. Let go gently. Your child watches the bottom of the band, with the pencil still held in place. Do this three times. Then lift the bottle 25 centimetres and do it three times more.  
   *Parent says:* I lift the bottle to the side and let go. You watch where the band ends at the bottom of the swing. Is it higher, lower or at the pencil? Do we see the same each time?  
   *Child mode:* Watch the band at the bottom of the swing. Is it below the pencil?
-  - Note: Expect the band to reach lower than the pencil at the bottom of every swing. The higher you lift the bottle, the lower the band goes. A 25 centimetre lift with a 50 centimetre thread is roughly 60 degrees, and in theory the pull at the bottom is roughly double the weight. Do not lift the bottle higher than this. A phone video in slow motion helps if you can see only a blur.
+  - Note: Expect the band to reach lower than the pencil at the bottom of every swing. The higher you lift the bottle, the lower the band goes. A 25 centimetre lift with a 50 centimetre thread is roughly 60 degrees, and in theory the pull at the bottom is roughly double the weight. Do not lift the bottle higher than this. A phone video in slow motion helps if you can see only a blur. The band also bobs up and down by itself, so watch only the first swing after you let go. Best method: stand a ruler or a sheet marked in centimetres behind the band and film in slow motion with a phone, then pause the video at the lowest point. If you have no camera, tape a small paper flag to the bottom of the band, and watch it against the ruler. The band may stretch only about 1 to 2 centimetres more than hanging still, so expect small differences. Use a calm room with the fan off.
   - Check: At the bottom of the swing, the band is longer than when the bottle hangs still. What does this tell you? → **The pull at the bottom of the swing is bigger than the bottle's weight**
 - **s3 (6 min)**  
   *Parent does:* Use your calibration graph from the Sagging Line test, if you have it. Read the pull for the still bottle and for the swings. Compare the size of the extra pull with the bottle's weight.  
@@ -441,7 +444,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Child mode:* Think of a swing or a lift. When does it pull harder than its weight?
   - Ask: Where have you felt something pull or press harder when moving than when still? (good: On a swing, at the bottom, I feel heavier.; In a lift when it starts going up, I feel heavier.; On a bus when it turns, I get pushed.)
 ### a4 · Magnet Against the Earth: how many clips can it hold? (20 min)
-- **safety:** Use only an ordinary fridge magnet. Very strong magnets, such as small shiny ones, can pinch fingers and are dangerous if swallowed. Keep magnets away from phones and bank cards.
+- **safety:** Use only an ordinary fridge magnet. Very strong magnets, such as small shiny ones, can pinch fingers and are dangerous if swallowed. Keep magnets away from phones and bank cards. Paper clips are a swallowing risk for younger brothers and sisters, so pick them all up afterwards.
 - **record:** A table with the weight of one clip, the number of clips each magnet held and the pull in newtons.
 - **s1 (5 min)**  
   *Parent does:* Weigh 50 paper clips on the kitchen scale. Divide the weight by 50 to find one clip. Write it down. Ask your child to guess how many clips the magnet will hold.  
@@ -453,12 +456,13 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent does:* Hold the magnet in your hand with its flat face pointing down. Touch it to a clip and hook more clips into a chain, one by one, until it falls. Count the clips just before.  
   *Parent says:* Touch the magnet to one clip. Hook another clip to it, and another, one at a time. How many can it hold before the chain falls? Count them.  
   *Child mode:* Hook clips into a chain from the magnet. Add one at a time. Count until it falls.
-  - Note: A small fridge magnet might hold between 5 and 30 clips in a chain. Try three times and use the middle count. If the first clip sticks poorly, try the magnet's other end.
+  - Note: A thin rubber fridge magnet may hold only 1 to 5 clips in a chain, and a thicker ceramic magnet may hold 10 to 30 (typical, not promised). Try three times and use the middle count. If the first clip sticks poorly, try the magnet's other end. If the magnet holds only 1 or 2 clips, the small numbers are fine: compare magnets, not newtons.
   - Check: The magnet holds a chain of 20 clips, and each clip weighs about 0.5 grams. What does the magnet's pull have to be, at least? → **At least the weight of 10 grams of clips, about 0.1 newtons**
 - **s3 (7 min)**  
-  *Parent does:* Repeat with another magnet, if you have one. Write the number of clips for each magnet. Convert to newtons: clips times the weight of one clip in grams, times 0.01.  
+  *Parent does:* Repeat with another magnet, if you have one. Write the number of clips for each magnet. Then put 1 sheet of ordinary paper between the magnet and the first clip, count again, then try 2 and 3 sheets. Convert to newtons: clips times the weight of one clip in grams, times 0.01.  
   *Parent says:* Now we change the magnet. Which holds more clips? Turn the counts into newtons. Multiply by the weight of a clip, then by 0.01.  
   *Child mode:* Test a second magnet. Count the clips. Turn the count into newtons.
+  - Note: Guess first: will a sheet of paper make the pull much weaker? Typically each sheet removes a few clips from a strong magnet, which shows that the pull gets weaker as the distance grows. With 2 to 4 children, each child tests a different magnet, and the group compares.
   - Think: The whole Earth pulls every clip down. Yet a small magnet wins. What does that tell you about the two forces?
 ### a5 · Be a Weighbridge: weigh twice and take the difference (20 min)
 - **record:** A table with your weight alone, with the bag, the difference, and the bag's weight checked another way.
@@ -466,7 +470,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent does:* Ask your child to guess how heavy the loaded bag is in kilograms. Write the guess. Then weigh the bag on the bathroom scale.  
   *Parent says:* Guess how heavy your loaded bag is. Then step on the scale with it in your hands. What does the scale show?  
   *Child mode:* Guess how heavy the bag is. Step on the scale holding it. Read the scale.
-  - Note: A bathroom scale may freeze its first reading. Step on once more for each reading. A reading with the bag alone on the scale is also fine, if the scale can read small weights.
+  - Note: A bathroom scale may freeze its first reading. Step on once more for each reading. A reading with the bag alone on the scale is also fine, if the scale can read small weights. Keep the bag to about 3 to 5 kilograms, so that a child can lift it safely. An analog scale shows only to the nearest half or whole kilogram, which is a coarse reading: then use a heavier bag, 5 kilograms, to see a clear difference. With 2 to 4 children, take turns: one stands on the scale, one reads, one writes. The readings of a digital scale are typically within 0.1 to 0.2 kilograms of each other.
 - **s2 (6 min)**  
   *Parent does:* Weigh your child alone, then holding the bag. Write both readings. Subtract the first from the second to find the bag. Compare it with the weight of the bag alone, if the scale can read it.  
   *Parent says:* First we weigh you alone. Then you hold the bag and we weigh you again. How do we find the weight of the bag from the two numbers?  
@@ -489,16 +493,16 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
 - **record:** A graph of the bend of the ruler tip against the load in newtons, and a table of three objects with the weight from your ruler scale and the weight from the kitchen scale.
 - **schedule:** day 1: Build the ruler scale. Hang 1, 2, 3 and 4 packets. Measure the bend each time. Draw the graph. (25 min); day 2: Weigh three mystery objects with your ruler scale. Check each one against a kitchen scale. (20 min)
 - **s1 (5 min)**  
-  *Parent does:* Lay the ruler on the table with 10 centimetres sticking out over the edge. Put a heavy book on the other end. Ask your child to guess how many millimetres the tip will bend with one packet, and with four.  
+  *Parent does:* Lay the ruler on the table with a few centimetres sticking out over the edge (see the note for how far). Put a heavy book on the other end. Ask your child to guess how many millimetres the tip will bend with one packet, and with four.  
   *Parent says:* A ruler is a springy stick. When we hang a weight on its tip, it will bend. If one packet bends the tip by 1 centimetre, how far will four packets bend it? Why do you think so?  
   *Child mode:* A ruler bends when you hang a packet on it. Will four packets bend it four times as much?
   - Ask: Why do you think the bend will grow in that way? (good: Four packets pull four times as hard, so it should bend four times as far.; The ruler might bend more and more, so it will be more than four times.; I do not know, so I will test it.)
-  - Note: Do not correct the guess. The ruler must be held firmly, so press the book down hard. If your ruler is thin and plastic, 10 centimetres sticking out is about right. If it bends more than 3 centimetres with one packet, slide more of it onto the table.
+  - Note: Do not correct the guess. The ruler must be held firmly, so press the book down hard. How much it bends depends on your ruler: a thin, bendy plastic one needs only about 4 to 6 centimetres sticking out, and a stiff wooden or steel one may need 20 centimetres or may be too stiff to use. Slide the ruler until one packet makes the tip drop about 4 to 8 millimetres and four packets drop it no more than about 3 centimetres. If the tip does not move at all, use a thinner strip. With 2 to 4 children: one presses the book, one adds packets, one reads the tip, one writes; each child brings one mystery object on day 2.
 - **s2 (8 min)**  
   *Parent does:* Hang the bag on the ruler's tip with its loop of thread. Measure how far the tip drops, with the empty bag. Add one packet. Wait until it stops moving. Measure the tip again. Write the drop from the empty bag.  
   *Parent says:* Hang the empty bag. Measure the tip's height. Add one packet and measure again. How much has the tip dropped?  
   *Child mode:* Hang the empty bag. Measure the tip. Add a packet. Measure again.
-  - Note: Measure the tip from the floor or from a ruler standing upright by the tip. Be careful to measure at the same place each time. Millimetres are best. Take the bag's own drop away, and look only at the extra drop made by the packets.
+  - Note: Measure the tip from the floor or from a ruler standing upright by the tip. Be careful to measure at the same place each time. Millimetres are best. Take the bag's own drop away, and look only at the extra drop made by the packets. Wait for the tip to stop wobbling before you read it.
 - **s3 (12 min)**  
   *Parent does:* Add the packets one at a time. Measure the drop for 1, 2, 3 and 4 packets. Draw a graph with the load along the bottom and the drop up the side. Draw a line through the dots.  
   *Parent says:* Add one packet at a time. Measure the drop each time. Plot the dots on squared paper. Do they fall in a line? Draw a line through them.  
@@ -529,6 +533,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
   *Parent says:* Our bottle weighs 10 newtons. How can we hold it between two points so the thread pulls as little as possible? Draw some ideas first.  
   *Child mode:* Draw two or three ways to hold the bottle. Which will pull least? Why?
   - Ask: What would make the pull in the thread smaller? (good: A deeper sag, so the line is less flat.; Sharing the load between more threads.; A prop in the middle that takes some weight.)
+  - Note: One child with a parent: the child designs and reads, the parent holds the stick and guards the bottle. With 2 to 4 children: each child sketches a design; build them one at a time on the same rig and compare the pulls. Typical values for a 10 N bottle: about 13 N with a 20 centimetre sag, and about 7 N with a 60 centimetre sag.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Build your first design. Hang the bottle. Check that it is 20 centimetres above the floor. Read the band three times. Write the middle value. Look up the pull on your graph.  
   *Parent says:* Build your first design and measure the pull three times. Write the middle number, and find the pull on your graph. This is the number to beat.  
@@ -782,8 +787,8 @@ Grip and Glide (sci.forces.L4): Topic-level song
 
 ## Things to buy
 - [Wide rubber bands, about 6 millimetres wide, in a mixed pack](https://www.amazon.in/s?k=wide+rubber+bands+stationery) (material): For the rubber band gauges in the Sagging Line test, Ten Readings, the Swinging Bottle and the Gentlest Hold. A packet from a stationery shop costs a few rupees. Used in e1, a2, a3, c1. 
-- [A small digital kitchen scale that shows grams](https://www.amazon.in/s?k=digital+kitchen+scale+1g) (tool): For weighing rice grains and paper clips, and for checking the Bending Ruler Scale. Most kitchen scales that show whole grams are fine. Used in e2, a4, p1. 
-- [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For balancing the ruler in the Button and the Water test. A small pack from a stationery shop is enough. Used in e2. 
+- [A small digital kitchen scale that shows grams](https://www.amazon.in/s?k=digital+kitchen+scale+1g) (tool): For weighing rice grains and paper clips, and for checking the Bending Ruler Scale. Most kitchen scales that show whole grams are fine. It is a small purchase (usually above Rs 100), so borrow one or use the typical weights given in the steps: a rice grain about 0.02 grams and a paper clip about 0.5 grams. Used in e2, a4, p1. 
+- [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For balancing the ruler in the Button and the Water test. A small pack from a stationery shop is enough. A lump of atta dough works instead. Used in e2. 
 
 ## Warm-up
 - What two things does a full description of a force need? → A size and a direction.

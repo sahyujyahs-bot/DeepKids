@@ -488,7 +488,7 @@
      "qty": 5
     },
     {
-     "item": "20 clean, new cotton buds, or 20 small twists of clean tissue (one for each touch)",
+     "item": "20 clean, new cotton buds (one for each touch; a pack costs about Rs 20), or 20 small twists of clean tissue. With 2 or more testers, count 20 for each tester.",
      "qty": 20,
      "buy": "b-cotton"
     },
@@ -497,7 +497,7 @@
      "qty": 1
     },
     {
-     "item": "a small piece of raw karela (bitter gourd) as big as your thumb, or half a teaspoon of methi seeds soaked in water for 8 hours",
+     "item": "a small piece of raw karela (bitter gourd) as big as your thumb, or half a teaspoon of methi seeds soaked in 3 tablespoons of water the night before (8 hours)",
      "qty": 1
     },
     {
@@ -513,7 +513,7 @@
      "qty": 1
     }
    ],
-   "safety": "Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up does the grating. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.",
+   "safety": "Every tester gets their own new buds and never shares a bud. Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up does the grating. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.",
    "record": "Write the taste that was said and the strength from 0 to 3 for every touch. Then colour a drawing of the tongue to show where each taste was named correctly.",
    "context": "In this experiment, you test the tongue map from old books. You touch tiny drops of four tastes to different parts of the tongue, with the tester's eyes shut.",
    "setup": [
@@ -560,7 +560,7 @@
      "do": "A grown-up makes the cups while the child looks away. Cup 1: 1 teaspoon of sugar in 3 tablespoons of water. Cup 2: a quarter teaspoon of salt in 3 tablespoons of water. Cup 3: 1 teaspoon of lemon juice in 3 tablespoons of water. Cup 4: karela juice. Cup 5: plain water.",
      "say": "I will make five cups while you look away. One is sweet, one is salty, one is sour, one is bitter, and one is only water.",
      "kid": "Look away while a grown-up makes five cups. One of them is only water.",
-     "parent": "For the bitter cup, grate a piece of karela as big as your thumb, squeeze it through a clean cloth, and mix 1 teaspoon of the juice into 3 tablespoons of water. No karela? Soak half a teaspoon of methi seeds in 3 tablespoons of water for 8 hours, and use that water. Taste a drop of each cup yourself first. A cup that has almost no taste needs more sugar, salt, lemon or karela. A cup that is harsh needs more water. Write the key on a paper and fold it: 1 sweet, 2 salty, 3 sour, 4 bitter, 5 water. Keep it hidden.",
+     "parent": "For the bitter cup, grate a piece of karela as big as your thumb, squeeze it through a clean cloth, and mix 1 teaspoon of the juice into 3 tablespoons of water. No karela? Soak half a teaspoon of methi seeds in 3 tablespoons of water for 8 hours, and use that water. Taste a drop of each cup yourself first. A cup that has almost no taste needs more sugar, salt, lemon or karela. A cup that is harsh needs more water. The cups are the same for every tester. Write the key on a paper and fold it: 1 sweet, 2 salty, 3 sour, 4 bitter, 5 water. Keep it hidden.",
      "check": {
       "t": "mcq",
       "q": "Why is there a cup of plain water among the tastes?",
@@ -600,7 +600,7 @@
        ]
       }
      ],
-     "parent": "The order of the 20 touches, in cup and part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. Bitter comes mostly at the end on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.",
+     "parent": "The order of the 20 touches, in cup and part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. With 2 to 4 children, give each child a job and swap after each tester: tester (eyes shut), toucher (dips and touches), recorder (writes the table), and timer or rinse-helper. Every child can do the whole list in turn, which takes about 15 minutes each. If time is short, split the list: the first tester does touches 1 to 7, the next 8 to 14, the next 15 to 20, and you pool all the dots on one tongue drawing. One child alone with a parent works as written. Bitter comes mostly at the end on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.",
      "check": {
       "t": "mcq",
       "q": "Your child says 'sweet' for a touch of plain water. What does that mean for the test?",
@@ -621,7 +621,7 @@
      "say": "Tell me three things. What did you think? What did you find? Why do you think it came out that way?",
      "kid": "Colour a dot where each taste was named right. Say what you thought, what you found, and why.",
      "think": "Look at your first drawing. Which part did the test show to be wrong?",
-     "parent": "Most children find that every taste was named correctly in nearly every zone, though some were stronger than others. The tip and the edges are usually stronger than the middle, because they have more taste buds. If the dots do not look like that, say so. Messy results are real results. Wet buds, nerves and guessing can all spoil a result. After your child has said what they found, you can explain: taste buds for every taste are spread across the tongue. The old map came from a mistake in the 1940s. The card on the tongue map tells the whole story.",
+     "parent": "Most children find that every taste was named correctly in most zones, though some were stronger than others. If nothing is tasted at the back, check that the bud was wet enough, and try again with a bit more liquid on the bud. The tip and the edges are often a little stronger than the middle, because they tend to have more taste buds. The back is often strongest for bitter. These differences are small and vary from person to person. If the dots do not look like that, say so. Messy results are real results. Wet buds, nerves and guessing can all spoil a result. After your child has said what they found, you can explain: taste buds for every taste are spread across the tongue. The old map came from a mistake in the 1940s. The card on the tongue map tells the whole story.",
      "context": "This is the last step of the Blind Taste Test. You mark your results on a tongue and say what they show."
     }
    ]
@@ -633,7 +633,7 @@
    "days": 3,
    "question": "Does a moong seed that has been soaked, or soaked and sprouted, cook faster than a dry one? And how much heavier do the seeds get?",
    "predict": "Before you start, guess. Which will cook softest first: dry moong, soaked moong or sprouted moong? Why do you think so?",
-   "fair_test": "All three batches start as 50 grams of the same moong. They cook in the same amount of water, in pans of the same size, on the same low flame. Only the preparation differs: dry, soaked, or soaked and sprouted. The dry batch is the control. Each batch is tested for softness the same way, by pressing one cooled seed between thumb and finger.",
+   "fair_test": "All three batches start as 50 grams of the same moong. Twelve seeds from each batch are counted out and tied loosely in a small cloth bag (a different colour string for each), and all three bags cook together in the same big pan of gently boiling water, so the heat is exactly the same. Only the preparation differs: dry, soaked, or soaked and sprouted. The dry batch is the control. Each bag is tested for softness the same way, by pressing one cooled seed between thumb and finger.",
    "results_table": [
     "Seeds",
     "Weight at the start (g)",
@@ -643,38 +643,42 @@
    ],
    "materials": [
     {
-     "item": "150 grams of whole green moong, in three equal portions of 50 grams (about 4 level tablespoons each)",
+     "item": "150 grams of whole green moong (fresh stock, from a shop that sells a lot of dal), in three equal portions of 50 grams (about 4 level tablespoons each). Old moong may not sprout.",
      "qty": 1
     },
     {
-     "item": "a kitchen scale, or a measuring cup if you have no scale",
+     "item": "a kitchen scale that shows grams, or a measuring cup or tumbler if you have no scale. Your kirana shop can also weigh the seeds for you.",
      "qty": 1,
      "buy": "b-scale"
     },
     {
-     "item": "2 bowls for soaking, and 1 sieve or small colander for sprouting",
-     "qty": 3
+     "item": "3 bowls (A, B and C), and 1 sieve or small colander for sprouting",
+     "qty": 4
     },
     {
      "item": "a clean, damp cloth to cover the sprouting moong",
      "qty": 1
     },
     {
-     "item": "3 small pans of the same size, water (300 millilitres for soaking and 450 millilitres for cooking), a spoon and a plate",
+     "item": "water: 450 millilitres for soaking, and 1 big pan with about 1 litre of water for cooking",
+     "qty": 1
+    },
+    {
+     "item": "3 squares of old thin cotton cloth or muslin (about 15 centimetres across) and 3 strings or rubber bands, each a different colour, to make 3 small bags",
      "qty": 3
     },
     {
-     "item": "a ruler marked in millimetres, a timer and the results table",
+     "item": "a long spoon, a plate, a ruler marked in millimetres, a timer and the results table",
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cooking, because the pans and the steam are hot, and a grown-up lifts the seeds out with a spoon. Cooled seeds are pressed on a plate or between thumb and finger only after they have cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them.",
+   "safety": "A grown-up does all the cooking, because the pan, the boiling water and the steam are hot, and a grown-up lifts the bags out with a long spoon. Children stand back from the stove and only press the cooled seeds. Keep young children away from the stove. Cooled seeds are pressed on a plate or between thumb and finger only after they have cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them. This test cooks them well, so it is safe to taste at the end. Skip tasting if anyone has a pulse allergy.",
    "record": "Write the weights, the tail length and the cooking times in the table. Draw the three kinds of seed: dry, soaked and sprouted. Then write what you thought, what you saw and why.",
-   "context": "In this experiment, you wake up moong seeds by soaking and sprouting them. Then you cook all three batches and time how long each takes to turn soft.",
+   "context": "In this experiment, you wake up moong seeds by soaking and sprouting them. Then you cook all three batches together and time how long each takes to turn soft.",
    "setup": [
     {
      "art": "Three small bowls labelled A dry, B soaked and C sprouted, each with 50 grams of moong, and a kitchen scale on the table.",
-     "caption": "1. Weigh three equal portions of moong. Soak B and C in water overnight."
+     "caption": "1. Weigh three equal portions of moong. Soak B and C in water overnight. Leave A dry."
     },
     {
      "art": "Swollen soaked moong being drained in a sieve, with a damp cloth laid over the sieve, in a warm dark corner.",
@@ -685,8 +689,8 @@
      "caption": "3. On day 3, weigh each batch and measure the tails."
     },
     {
-     "art": "Three small pans on a stove with three timers, and a grown-up lifting a seed on a spoon onto a plate to cool.",
-     "caption": "4. Cook all three at once. Test one seed from each pan every 5 minutes."
+     "art": "One big pan on a stove with three small cloth bags tied with red, blue and green strings, and a grown-up lifting one bag on a long spoon onto a plate to cool.",
+     "caption": "4. Cook the three bags together in one pan. Every 5 minutes, test one seed from each bag."
     }
    ],
    "schedule": [
@@ -698,12 +702,12 @@
     {
      "day": 2,
      "mins": 8,
-     "what": "In the morning, drain and weigh B and C. Put B in fresh water in the fridge. Cover C with a damp cloth and let it sprout. Rinse C twice, morning and evening."
+     "what": "In the morning, drain B and C for 2 minutes, then weigh them. Put B in fresh water in the fridge. Cover C with a damp cloth and let it sprout. Rinse C twice, morning and evening."
     },
     {
      "day": 3,
      "mins": 54,
-     "what": "Weigh and measure all three. Cook them side by side and test every 5 minutes. Write what you found."
+     "what": "Weigh and measure all three. Cook 12 seeds of each in three bags in one pan and test every 5 minutes. Write what you found."
     }
    ],
    "flow": [
@@ -723,17 +727,17 @@
        ]
       }
      ],
-     "parent": "Do this in the evening. The soaking takes 8 to 10 hours. Write the guesses on the table. If you have no scale, write the volume of the seeds in a measuring cup instead.",
+     "parent": "Do this in the evening. With 2 or 3 children, each child looks after one bowl (A, B or C) and weighs and records it; with 4, one child is the timer and writer. One child alone looks after all three.  The soaking takes 8 to 10 hours. Write the guesses on the table. If you have no scale, write the volume of the seeds in a measuring cup instead.",
      "context": "This is the first step of Wake Up the Moong. You weigh the seeds and start soaking two bowls."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "In the morning, drain B and C. Weigh each one and write the weights. Put B back in clean water in the fridge. Put C in a sieve, cover it with a damp cloth, and keep it in a warm, dark place. Rinse C twice a day.",
+     "do": "In the morning, drain B and C in a sieve for 2 minutes and shake off the extra water. Weigh each one and write the weights. Put B back in clean water in the fridge. Put C in a sieve, cover it with a damp cloth, and keep it in a warm, dark place. Rinse C twice a day.",
      "say": "The seeds have soaked all night. Let us weigh them. Bowl B goes to the fridge in water. Bowl C goes in the sieve, to grow.",
      "kid": "Drain B and C. Weigh them. B goes in the fridge. C goes in the sieve under a damp cloth.",
      "wait": "Leave C to sprout for about a day, rinsing the seeds in the morning and evening.",
-     "parent": "In a warm kitchen, tiny white tails show by the next morning. In cool weather, sprouting can take two days. If C is not sprouting, keep it warm and give it another day. Do not let the seeds sit in water, or they will go sour. If sprouts smell bad or feel slimy, throw them away.",
+     "parent": "In a warm kitchen, tiny white tails show by the next morning. In cool weather, sprouting can take two days. In hot weather, rinse C three times a day, because sprouts can turn sour in the heat. If C is not sprouting, keep it warm and give it another day. If there is still no tail, the moong is too old. That is a result: write it down, and compare only A and B. Do not let the seeds sit in water, or they will go sour. If sprouts smell bad or feel slimy, throw them away.",
      "check": {
       "t": "mcq",
       "q": "The soaked moong weighs more than the dry moong. Where did the extra weight come from?",
@@ -750,7 +754,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "On day 3, look at C. Measure the longest tail with a ruler in millimetres. Weigh A, B and C and write the weights. Draw one dry, one soaked and one sprouted seed.",
+     "do": "On day 3, look at C. Measure the longest tail with a ruler in millimetres. Weigh A, B and C and write the weights. Count out 12 seeds from each bowl for the cooking test. Put the pan of water on to boil now. Draw one dry, one soaked and one sprouted seed.",
      "say": "Look closely at the three kinds of seed. What is different? How long is the tail on the sprouted ones?",
      "kid": "Look at A, B and C. Measure a tail on C. Draw one seed of each kind.",
      "ask": [
@@ -763,19 +767,19 @@
        ]
       }
      ],
-     "parent": "A tail is the first root, and a good length is a few millimetres to a centimetre. If your sprouts are very short, write that down. The seeds are alive, and have started to grow.",
+     "parent": "Weights are about, not exact: soaked moong often weighs roughly double the dry moong, but yours may differ. A tail is the first root, and a good length is a few millimetres to a centimetre. If your sprouts are very short, write that down. The seeds are alive, and have started to grow.",
      "context": "In this step, you look at what soaking and sprouting have done to the seeds."
     },
     {
      "id": "s4",
      "mins": 40,
-     "do": "A grown-up boils 150 millilitres of water in each of three pans. Add A, B and C, one to a pan. Turn the flame low and start a timer. Every 5 minutes, lift one seed from each pan onto a plate. Let the seed cool, and press the seed between thumb and finger. Soft means the seed squashes with no hard middle.",
-     "say": "All three pans start together. Every five minutes, I lift one seed from each pan. When it squashes with no hard middle, we write down the time.",
-     "kid": "Cook A, B and C together. Every 5 minutes, press one seed. Write the time when it is soft.",
+     "do": "A grown-up puts 12 seeds of each batch into its own cloth bag. The bag is tied loosely, so the seeds can swell. All three bags go into the gently boiling pan at the same moment. Start the timer. Every 5 minutes, lift each bag with the long spoon, take out one seed, and put the bag back. Let the seed cool on the plate for a minute, and press it between thumb and finger. Soft means the seed squashes with no hard middle. Keep the water covering the bags, and top up with hot water.",
+     "say": "All three bags go in together. Every five minutes, I lift one seed from each bag. When it squashes with no hard middle, we write down the time.",
+     "kid": "Cook A, B and C together in one pan. Every 5 minutes, press one seed from each bag. Write the time when it is soft.",
      "adult": true,
      "ask": [
       {
-       "q": "Which pan will be soft first? How can you tell?",
+       "q": "Which bag will be soft first? How can you tell?",
        "good": [
         "The sprouted one, because it is already awake.",
         "The seeds that soaked are softer to start.",
@@ -783,19 +787,19 @@
        ]
       }
      ],
-     "parent": "Stop at 40 minutes. If the dry moong is still hard at 40 minutes, write 40 plus. That is a result. You can read the card on old ways of preparing food while you wait. The time for each batch depends on your moong and your flame, so your numbers may differ from anyone else's. Use the same flame for all three pans.",
+     "parent": "Stop at 40 minutes. If the dry moong is still hard at 40 minutes, write 40 plus. That is a result. Typical times for whole moong are about 10 minutes for sprouted, about 15 to 20 for soaked, and 35 to 45 or more for dry, but yours may differ. Also, with 2 to 4 children, one reads the timer, one presses the cooled seeds and calls out soft or hard, and one writes; swap after each round. The grown-up still lifts the bags. You can read the card on old ways of preparing food while you wait. The time for each batch depends on your moong and your flame, so your numbers may differ from anyone else's. All three bags share one pan, so the heat is the same.",
      "check": {
       "t": "mcq",
       "q": "The sprouted moong turned soft in 10 minutes, and the dry moong needed more than 30. What does this suggest?",
       "options": [
        "The water in the seed and the start of growth made the seed softer to cook",
-       "The sprouted pan had a hotter flame",
+       "The sprouted bag sat in hotter water",
        "The dry moong is a different seed"
       ],
       "a": 0,
-      "why": "All three pans had the same seeds and the same flame. Only the preparation changed. A seed that has taken in water and begun to grow has already started to soften inside, so the seed cooks faster."
+      "why": "All three bags sat in the same boiling water. Only the preparation changed. A seed that has taken in water and begun to grow has already started to soften inside, so the seed cooks faster."
      },
-     "context": "In this step, you cook all three batches and time how long each takes to turn soft."
+     "context": "In this step, you cook all three batches in one pan and time how long each takes to turn soft."
     },
     {
      "id": "s5",
@@ -962,10 +966,10 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the cards. Draw a feast mat for each player. Shuffle the cards into a pile with the dish names facing up. Give each player a pencil.",
+     "do": "Cut out the 24 cards with blunt scissors. No printer? Copy the dish names onto 24 paper slips and let the parent read the back from the phone. Draw a feast mat for each player. Shuffle the cards into a pile with the dish names facing up. Give each player a pencil.",
      "say": "Today we will build a feast. Each dish gives energy, or builds the body, or protects it. Each dish also has tastes. Let us see how many we can fill.",
      "kid": "Cut out the cards. Draw your feast mat. Shuffle the cards.",
-     "parent": "The three jobs are the ones from Class 3. Energy foods are mostly grains, sugar and fats. Body-building foods are pulses, milk, eggs, fish, meat and nuts. Protective foods are vegetables and fruits. Remind your child, and explain the six tastes of shad rasa.",
+     "parent": "The game works for 1 to 4 players, and 24 cards give each of 4 players 6 cards. Some cards have fish or meat. Take out any card your family does not eat, and count the cards on the mats at the end. The three jobs are the ones from Class 3. Energy foods are mostly grains, sugar and fats. Body-building foods are pulses, milk, eggs, fish, meat and nuts. Protective foods are vegetables and fruits. Remind your child, and explain the six tastes of shad rasa.",
      "context": "This is the first step of Feast Builder. You make the mat and set up the cards."
     },
     {
@@ -1064,15 +1068,15 @@
      "qty": 1
     },
     {
-     "item": "a piece of raw mango, raw banana or amla as big as a thumb tip",
+     "item": "a piece of raw mango, raw banana or amla as big as a thumb tip (or a spoon of cold, strong black tea with no sugar, which is easy to find all year)",
      "qty": 1
     },
     {
-     "item": "a bowl, 6 teaspoons, a tumbler of plain water and paper for scoring",
+     "item": "a bowl, 6 teaspoons for each child (never share a spoon), a tumbler of plain water and paper for scoring",
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the raw mango and the chilli. Keep chilli away from eyes. Use a tiny amount, and skip it if your child does not want it. Use ground pepper, not whole peppercorns, which can be a choking risk. Skip any ingredient that anyone is allergic to. Only use neem flowers that are clean and fresh, and only 2 or 3 of them.",
+   "safety": "A grown-up cuts the raw mango and the chilli. Keep chilli away from eyes. Use a tiny amount, and skip it if your child does not want it. Use ground pepper, not whole peppercorns, which can be a choking risk. With 2 to 4 children, each child tastes from their own spoons. Skip any ingredient that anyone is allergic to. Only use neem flowers that are clean and fresh, and only 2 or 3 of them.",
    "record": "Write each taste and its strength from 0 to 3. Then write the strength of the mixed pachadi, and which taste is the boss.",
    "context": "In this activity, you taste six ingredients one by one, and then mix them into a small pachadi. You find out what it takes to keep six tastes in balance.",
    "setup": [
@@ -1144,7 +1148,8 @@
       "a": 0,
       "why": "A balanced pachadi has no boss taste. If sour is the boss, the other five tastes need a little more, or the sour needs to be thinned with water."
      },
-     "context": "In this step, you mix the six ingredients and balance the tastes."
+     "context": "In this step, you mix the six ingredients and balance the tastes.",
+     "parent": "With 2 to 4 children, give each child their own six spoons and score sheet. Each child writes their own 0 to 3 scores, and then you compare: do all of you give the same score to the same taste? Different scores are a real result, because tongues differ. The group then mixes one pachadi together, with one child adding each ingredient."
     },
     {
      "id": "s4",
@@ -1256,7 +1261,7 @@
      "do": "Each evening, ask your child to list what they ate that day. Make one mark in the right row for every dish. Do not change what you eat for the diary.",
      "say": "What did you eat today? Let us put each dish in its row.",
      "kid": "Write down what you ate today. Mark a row for each dish.",
-     "parent": "Repeat this each evening for days 2 to 6. If your child forgets a meal, ask what they had at school or at a friend's home. A snack counts. Do not change meals to make a better diary.",
+     "parent": "With 2 to 4 children, each child keeps their own diary, because school lunches and snacks differ. Compare the pictographs on day 7. Repeat this each evening for days 2 to 6. If your child forgets a meal, ask what they had at school or at a friend's home. A snack counts. Do not change meals to make a better diary.",
      "context": "In this step, you mark one day of food in your table. You repeat it each evening."
     },
     {
@@ -1358,7 +1363,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "For each food, write what grows or is gathered in that season. For example, sugarcane and new rice in January, raw mango and neem flowers in spring, and fresh vegetables after the monsoon.",
+     "do": "For each food, write what grows or is gathered in that season. For example, sugarcane and new rice in January, raw mango and neem flowers in spring, and fresh vegetables after the monsoon. Count how many foods use something from that very season. Write the count on the wheel.",
      "say": "What is fresh in the market at that time of year? Pongal comes after the rice harvest. Ugadi comes when raw mango and neem flowers appear.",
      "kid": "What grows in that season? Write it by each food.",
      "check": {
@@ -1381,7 +1386,7 @@
      "say": "Ask someone: what is made at your home for one festival? Why is that dish made? Write down what they tell you.",
      "kid": "Ask a grown-up what they cook for a festival, and why. Write it down.",
      "think": "Why do people cook special food on special days, and not the same food every day?",
-     "parent": "Listen to the answer without correcting it. Families often have a reason that goes beyond nutrition: it is what a mother made, it keeps well, or it is shared with neighbours. These reasons are part of the answer. Add a dish from your own family's tradition to the wheel.",
+     "parent": "With 2 to 4 children, each child asks a different person and adds their dish to the one shared wheel. Listen to the answer without correcting it. Families often have a reason that goes beyond nutrition: it is what a mother made, it keeps well, or it is shared with neighbours. These reasons are part of the answer. Add a dish from your own family's tradition to the wheel.",
      "context": "In this step, you ask someone about a festival dish from your own family and add it to the wheel."
     }
    ]
@@ -1393,7 +1398,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "ragi flour, or another millet flour such as jowar or bajra, about 2 tablespoons (buy a small packet if you have none)",
+     "item": "ragi flour, or another millet flour such as jowar or bajra, about 2 tablespoons (a small packet costs about Rs 30 to 50; if you cannot find any millet, use whole wheat atta instead and compare it with rice flour)",
      "qty": 1,
      "buy": "b-ragi"
     },
@@ -1402,7 +1407,7 @@
      "qty": 1
     },
     {
-     "item": "two small pans, 2 spoons, a stove and a grown-up to cook",
+     "item": "two small pans, 2 long spoons, a stove, a ruler and a grown-up to cook",
      "qty": 2
     },
     {
@@ -1414,7 +1419,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up works the stove, and the porridge is hot. Let it cool for a few minutes before tasting.",
+   "safety": "A grown-up works the stove, and the porridge is hot and can spit when it bubbles, so stand back and use a long spoon. Let it cool for a few minutes before tasting.",
    "record": "Write the colour, smell, thickness and taste of each porridge. Write one way the millet and rice are different.",
    "context": "In this activity, you cook a thin porridge of a millet and a thin porridge of rice, and compare them. You also read what is written on a millet packet.",
    "setup": [
@@ -1424,7 +1429,7 @@
     },
     {
      "art": "A grown-up stirring a thin brown porridge in one pan and a thin white porridge in another.",
-     "caption": "2. A grown-up stirs each pan on a low flame for 5 minutes."
+     "caption": "2. A grown-up stirs each pan on a low flame for 5 to 10 minutes, until it thickens and smells cooked."
     },
     {
      "art": "Two small bowls side by side, one dark brown and one white, with a child comparing them with a spoon.",
@@ -1435,7 +1440,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the label on the ragi packet. Find the name of the millet, how much fibre it has, and any other numbers. Then mix 1 tablespoon of ragi flour with half a cup of cold water in one pan. Do the same with rice flour in another.",
+     "do": "Read the label on the ragi packet. Find the name of the millet, how much fibre it has, and any other numbers. Then mix 1 tablespoon of ragi flour with half a cup of cold water in one pan. Do the same with rice flour in another. Guess which porridge will be thicker, and which will be darker.",
      "say": "Let us read the packet first. What does it say about fibre? Now we make two porridges, one of ragi and one of rice.",
      "kid": "Read the packet. Mix 1 spoon of flour with cold water in each pan.",
      "ask": [
@@ -1454,7 +1459,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up cooks each pan on a low flame, stirring all the time, for about 5 minutes, until it thickens. Add a pinch of salt or a little jaggery. Pour each into a bowl and let it cool for a few minutes.",
+     "do": "A grown-up cooks each pan on a low flame, stirring all the time, for 5 to 10 minutes. It should thicken and stop smelling raw. Ragi takes longer than rice. Add a pinch of salt or a little jaggery. Pour each into a bowl and let it cool for a few minutes.",
      "say": "Stir slowly so it does not form lumps. It will thicken in about five minutes. Let it cool a little before we taste.",
      "kid": "A grown-up cooks the porridge. Stir slowly. Wait for it to cool.",
      "adult": true,
@@ -1463,11 +1468,11 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Look at each porridge, smell it, feel it with a spoon, and taste a small amount. Write the colour, smell, thickness and taste of each. Say one way they are different.",
+     "do": "Look at each porridge, smell it, feel it with a spoon, and taste a small amount. Put one spoonful of each on a flat plate, wait 10 seconds, and measure how wide each spreads in centimetres. The thicker porridge spreads less. Write the colour, smell, thickness and taste of each. Say one way they are different.",
      "say": "Look at the colour. Smell it. How thick is it? What does it taste like? Tell me one way the two porridges are different.",
      "kid": "Look, smell and taste both. Write one way they are different.",
      "think": "Millets grow in dry land with little water. Why might a farmer in a dry region choose to grow them?",
-     "parent": "Ragi porridge is darker, thicker and earthy in taste. Ragi has a lot of calcium, more than rice has. Rice porridge is white and mild. Millets need little water, and grow in dry land where rice cannot. Do not say that millet is better. Both are food. Say what you found.",
+     "parent": "With 2 to 4 children, one child looks after each porridge and does the measuring, and everyone tastes both. Ragi porridge is darker, thicker and earthy in taste. Ragi has a lot of calcium, more than rice has. Rice porridge is white and mild. Millets need little water, and grow in dry land where rice cannot. Do not say that millet is better. Both are food. Say what you found.",
      "check": {
       "t": "mcq",
       "q": "Why are some farmers in dry regions choosing millets over rice?",
@@ -1496,15 +1501,15 @@
      "qty": 1
     },
     {
-     "item": "ingredients for 4 or 5 dishes that your family can cook, with a grown-up (a staple, a pulse or milk dish, two vegetable dishes, and something sweet or sour to finish)",
+     "item": "ingredients for 4 or 5 dishes that your family can cook, with a grown-up. Use what is already in your kitchen, so that you buy only a few things (about Rs 100 to 200 for a family) (a staple, a pulse or milk dish, two vegetable dishes, and something sweet or sour to finish)",
      "qty": 1
     },
     {
-     "item": "a banana leaf or plates for serving, and small cards for the menu",
+     "item": "a banana leaf (optional) or plates for serving, and small cards for the menu",
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cutting, the frying and everything on the stove. Check for allergies in every guest. Wash hands before cooking.",
+   "safety": "A grown-up does the cutting, the frying, hot oil and everything on the stove. Keep young children away from the stove. Check for allergies in every guest, and for fasting or foods a guest does not eat. Wash hands before cooking.",
    "schedule": [
     {
      "day": 1,
@@ -1555,7 +1560,7 @@
        ]
       }
      ],
-     "parent": "Choose dishes your family can actually cook. Simple is fine: a rice dish, a dal, a vegetable, a curd dish and one sweet make a balanced festival meal. If your family fasts or avoids certain foods, plan around that.",
+     "parent": "With 2 to 4 children, each child owns one dish: they plan it, write its card, help to cook it and present it. One child alone does the whole plan with a parent. Choose dishes your family can actually cook. Simple is fine: a rice dish, a dal, a vegetable, a curd dish and one sweet make a balanced festival meal. If your family fasts or avoids certain foods, plan around that.",
      "context": "This is the first step of Our Family Feast. You choose the festival and the dishes."
     },
     {
@@ -1580,7 +1585,7 @@
     {
      "id": "s3",
      "mins": 25,
-     "do": "Write a shopping list. Write a menu card for each dish with its name, where it is from, its jobs and its tastes. Prepare what can be done a day early, such as soaking dal.",
+     "do": "Write a shopping list. Write a menu card for each dish with its name, where it is from, its jobs and its tastes. Prepare what can be done a day early, such as soaking dal, setting curd, or making the sweet.",
      "say": "Let us write a list of what to buy. For each dish, write a small card to tell our guests what it is and what it does.",
      "kid": "Write what to buy. Write a card for each dish.",
      "parent": "Let your child write the cards in their own words. The cards are the point of the project. Soaking dal early is a good place to use what the Moong experiment showed.",
@@ -1593,7 +1598,8 @@
      "say": "Today we cook. You will wash, mix and arrange. I will do the stove and the knife. Tell me what each dish needs.",
      "kid": "Wash, mix and arrange. A grown-up does the stove and the knife.",
      "adult": true,
-     "context": "In this step, you cook the meal with a grown-up."
+     "context": "In this step, you cook the meal with a grown-up.",
+     "parent": "The child jobs take about 35 minutes. The grown-up cooking takes longer, so choose dishes that one grown-up can cook in about an hour in all, and make the sweet or curd dish a day early. Do not choose more than one fried dish."
     },
     {
      "id": "s5",
@@ -2716,7 +2722,7 @@
    "id": "b-scale",
    "item": "A kitchen weighing scale that shows grams",
    "kind": "tool",
-   "why": "For Wake Up the Moong, to weigh the seeds before and after soaking. A measuring cup also works, if you have no scale.",
+   "why": "For Wake Up the Moong, to weigh the seeds before and after soaking. It is optional: a measuring cup works, or your kirana shop can weigh the seeds.",
    "url": "https://www.amazon.in/s?k=kitchen+weighing+scale",
    "used_in": [
     "e2"

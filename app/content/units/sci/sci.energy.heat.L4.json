@@ -652,7 +652,7 @@
     "On your turn, take the top two thing cards and put them side by side. Do not turn them over yet.",
     "Say which card you think needs more heat to warm by one degree, and why. This is your first guess.",
     "Then say which one would warm by more degrees if each got the same heat, for example 1,000 calories. This is your second guess.",
-    "Turn both cards over to check. A right first guess scores 1 point. A right second guess scores 1 point. The second guess is always the card with the smaller number.",
+    "Turn both cards over to check. A right first guess scores 1 point. A right second guess scores 1 point. The second guess is always the card with the smaller number. If the two numbers are equal, both guesses are right.",
     "Then take the top question card. Another player reads it out, you answer, and they turn it over to check. A right answer scores 1 point. If you play alone, check it yourself.",
     "Play until all 24 thing cards are used. That is 12 turns. With 2 players, each has 6 turns. With 4 players, each has 3.",
     "The most points wins. Then everyone works together. Lay all 24 thing cards in one line, from the smallest heat per degree to the largest, and turn them over to check."
@@ -664,7 +664,7 @@
      "do": "Cut out the 24 thing cards and the 8 question cards. Make one pile of each. Give each player a pencil and a score sheet.",
      "say": "Each thing card shows something from home, and how much heat it takes to warm it by one degree. We will guess which of two things takes more heat.",
      "kid": "Cut out the cards. Make two piles. Get a pencil and a score sheet.",
-     "parent": "Read out the number on one card as an example: a cup of water takes 200 calories for each degree. Remind your child that a calorie is the heat that warms 1 gram of water by 1 degree.",
+     "parent": "Read out the number on one card as an example: a cup of water takes 200 calories for each degree. Remind your child that a calorie is the heat that warms 1 gram of water by 1 degree. Alone: you play both guesses and check yourself. With 2 to 4 players, take turns and share the pile of question cards.",
      "context": "This is the first step of Heat Bank. You set up the cards and the score sheet."
     },
     {
@@ -822,7 +822,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children expect water to warm faster, because water feels hot so quickly. Others expect no difference. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Many children expect water to warm faster, because water feels hot so quickly. Others expect no difference. Any guess with a reason is a good start. One child with a parent: the child pours, stirs and writes; the parent makes the bath. Two to four children: one reads and stirs the oil, one reads and stirs the water, one writes the table and watches the timer, one draws the graph. Swap jobs for a second run.",
      "context": "This is the first step of the Oil and Water test. You guess before you test."
     },
     {
@@ -862,7 +862,7 @@
      "say": "Stir gently, then read the oil, then the water. Write both numbers. What do you notice about the two numbers as time goes on?",
      "kid": "Stir. Read the oil. Read the water. Write both numbers. Again in 3 minutes.",
      "adult": true,
-     "parent": "A typical result in a 29 degree room, with a bath starting at 70: the oil reads 29, 41, 50, 56, 60. The water reads 29, 35, 40, 44, 47. The oil warms by about 31 degrees and the water by about 18, which is not quite twice as much but near it. Your numbers will differ. The bath cools by a few degrees. A thermometer in oil may need an extra wipe.",
+     "parent": "A typical result in a 29 degree room, with a bath starting at 70 (these are about-numbers, not promises): the oil reads 29, 41, 50, 56, 60. The water reads 29, 35, 40, 44, 47. The oil warms by about 31 degrees and the water by about 18, which is not quite twice as much but near it. Your numbers will differ. The bath cools by a few degrees. A thermometer in oil may need an extra wipe. If the oil and water rise almost the same, the tumblers are probably not standing in enough bath: the pan water should reach about the height of the liquid inside, and the liquids must be stirred before every reading. The oil should still rise clearly faster than the water.",
      "check": {
       "t": "mcq",
       "q": "Why do we stir each liquid gently before every reading?",
@@ -914,7 +914,7 @@
    ],
    "materials": [
     {
-     "item": "a small steel katori that holds about 150 millilitres",
+     "item": "a steel katori or small steel bowl that holds about 300 millilitres (a 150 millilitre katori will overflow once the ice goes in)",
      "qty": 1
     },
     {
@@ -980,7 +980,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most children say the hotter katori, because hotter seems stronger. That is the idea this test checks.",
+     "parent": "Do not correct the guess. Most children say the hotter katori, because hotter seems stronger. That is the idea this test checks. One child with a parent: the child counts and stirs, the parent makes the water. Two to four children: one child owns the katori, one owns the bowl, one counts cubes and one records. Both sets of hands start the ice at the same moment.",
      "context": "This is the first step of the Katori and the Bowl test. You guess before you test."
     },
     {
@@ -999,7 +999,7 @@
      "do": "Take 12 ice cubes from the same tray. Let them stand on a plate for 2 minutes, so the surface starts to melt. Then put 6 in the katori and 6 in the bowl at the same moment. Start the timer.",
      "say": "Six cubes in each, at the same moment. Why do we use the same number of cubes, from the same tray?",
      "kid": "Put six ice cubes in each. Start the timer.",
-     "parent": "Standing the cubes for 2 minutes lets them reach about 0 degrees, rather than the freezer's minus 18. If the cubes are tiny and all melt in both containers, repeat with 12 cubes in each.",
+     "parent": "Standing the cubes for 2 minutes lets them reach about 0 degrees, rather than the freezer's minus 18. If the cubes are tiny and all melt in both containers, repeat with 12 cubes in each. Home ice trays make cubes from about 15 to 25 grams. Six cubes is then 90 to 150 grams, more than the katori can melt (about 75 grams) and less than the bowl can melt (about 500 grams).",
      "check": {
       "t": "mcq",
       "q": "Why do we use the same number of ice cubes, from the same tray, in both?",
@@ -1019,7 +1019,7 @@
      "do": "Stir both gently with a spoon. At 5 minutes and at 10 minutes, count the ice cubes still floating, big or small, and write the numbers. At 10 minutes, read both temperatures.",
      "say": "Stir gently. How many cubes are left now? How many are left in the bowl? What is happening to each temperature?",
      "kid": "Stir. Count the cubes left. Read the temperatures. Write them down.",
-     "parent": "A typical result: after 10 minutes the katori still has 1 or 2 small pieces, and reads about 0 to 2 degrees. The bowl has no ice, and reads about 25 degrees. The katori has too little heat to melt all its ice, even though it started hotter. If the katori melts all the ice too, add 4 more cubes to each and repeat.",
+     "parent": "A typical result: after 10 minutes the katori still has two to four pieces floating, and reads about 0 to 3 degrees. The bowl has no ice, and reads about 25 to 30 degrees (the numbers depend on your cube size). The katori has too little heat to melt all its ice, even though it started hotter. If the katori melts all the ice too, add 4 more cubes to each and repeat.",
      "check": {
       "t": "mcq",
       "q": "The bowl started cooler than the katori, but melted more ice. Why?",
@@ -1075,11 +1075,11 @@
      "buy": "b-therm"
     },
     {
-     "item": "a steel tumbler of about 250 millilitres, and a cup for measuring 50 millilitres of water",
+     "item": "a thin steel tumbler of about 250 millilitres, and a cup for measuring 100 millilitres of water",
      "qty": 1
     },
     {
-     "item": "10 ice cubes, a clean cloth and a rolling pin, for cracking the ice",
+     "item": "4 ordinary ice cubes (about 60 to 80 grams), a clean cloth and a rolling pin or heavy spoon, for cracking the ice",
      "qty": 1
     },
     {
@@ -1089,6 +1089,10 @@
     {
      "item": "a spoon for stirring, a timer, a notebook and a pencil",
      "qty": 1
+    },
+    {
+     "item": "optional, for a second child: a second tumbler with 100 millilitres of cold tap water and no ice, and a second thermometer, to stand in the same bath as a comparison",
+     "qty": 1
     }
    ],
    "safety": "A grown-up cracks the ice and mixes the warm water. Keep the bath no hotter than a pleasant bath. Wipe up any water, because wet floors are slippery. Glass thermometers break easily, so never stir with them and lay them flat on a cloth.",
@@ -1096,7 +1100,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Crack the ice. Stand the tumbler in the bath. Read it every 2 minutes for 24 minutes. Draw the graph and say what you think, what you saw and why."
+     "what": "Guess. Crack the ice. Stand the tumbler in the bath. Read it every 2 minutes for 24 minutes, or longer if ice is still left. Draw the graph and say what you think, what you saw and why."
     }
    ],
    "record": "Fill in the table. Then draw a line graph with time along the bottom and temperature up the side. Circle the flat part, and write when the last ice melted.",
@@ -1132,13 +1136,13 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most children expect a steady rise. The flat part is the surprise of this test.",
+     "parent": "Do not correct the guess. Most children expect a steady rise. The flat part is the surprise of this test. One child with a parent: the child stirs and reads, the parent writes. Two to four children: take turns reading and stirring every 2 minutes, one child writes, one watches the timer. With a second thermometer, one child also reads a tumbler of plain cold water in the same bath: it rises steadily from the start, so the flat part in the ice stands out.",
      "context": "This is the first step of the Stuck at Zero test. You guess before you test."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "A grown-up wraps 10 ice cubes in a cloth and cracks them with a rolling pin. Put the pieces in the steel tumbler, with 50 millilitres of cold tap water. Stir with a spoon. Stand the thermometer in it and wait until the reading stops. Write the start.",
+     "do": "A grown-up wraps 4 ice cubes in a cloth and cracks them with a rolling pin. Put the pieces in the steel tumbler, with 100 millilitres of cold tap water. Stir with a spoon. Stand the thermometer in it and wait until the reading stops. Write the start.",
      "say": "I am cracking the ice into small pieces, so it can melt faster. The thermometer should read about zero. Is that what it reads?",
      "kid": "A grown-up cracks the ice. Put it in the tumbler with a little cold water. Read the thermometer.",
      "adult": true,
@@ -1161,7 +1165,7 @@
      "do": "Every 2 minutes, stir the ice gently with the spoon. Read the thermometer. Write the number and whether there is ice left. Keep going until all the ice is gone and the reading has risen at least 5 degrees.",
      "say": "Stir gently, then read. What number is it now? Is there ice left? What is the thermometer doing?",
      "kid": "Stir. Read. Write the number. Is there ice left? Again in 2 minutes.",
-     "parent": "A typical result: 0, 0, 0, 0, 0, 0, 1, 5, 10, 15, 20, 24 at the 2-minute marks. The reading stays at zero for 10 to 14 minutes, while there is ice, and then climbs fast once the last ice has gone. Your times will differ, but the flat part should appear. If the reading never stays flat, the bath may be too hot or the ice too small. Try again with fewer, bigger pieces.",
+     "parent": "A typical result: 0, 0, 0, 0, 0, 1, 5, 10, 15, 20, 24 at the 2-minute marks. The reading stays at zero for roughly 6 to 14 minutes, while there is ice (these are about-numbers). How long depends on your cube size and the bath. If the ice is all gone in under 5 minutes, repeat with 6 cubes. If lumps are still there after 24 minutes, a grown-up adds a little warm water to the bath and you keep reading. The flat part should always appear while ice is left.",
      "check": {
       "t": "mcq",
       "q": "For ten minutes the thermometer stayed at 0, though the bath kept giving heat. Where was the heat going?",
@@ -1206,7 +1210,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "an empty, dry plastic bottle of 1 litre, with thin smooth sides",
+     "item": "an empty, dry plastic bottle of 1 litre, with thin smooth sides (a second bottle and balloon let two children test at once)",
      "qty": 1
     },
     {
@@ -1222,12 +1226,12 @@
      "qty": 1
     },
     {
-     "item": "a thermometer, a timer, a notebook and a pencil",
+     "item": "a thermometer, a timer, a notebook and a pencil (the thermometer is optional: mix half boiled water and half tap water, about as hot as tea you can just sip)",
      "qty": 1,
      "buy": "b-therm"
     }
    ],
-   "safety": "A grown-up pours the hot water. It must not be boiling, because a thin plastic bottle goes soft in very hot water. Hold the bottle by its neck. Do not blow up the balloon while it sits on the bottle.",
+   "safety": "A grown-up pours the hot water. It must not be boiling, because a thin plastic bottle goes soft in very hot water. Hold the bottle by its neck. Do not blow up the balloon while it sits on the bottle. Keep balloon pieces away from small children, because a burst balloon can be swallowed.",
    "schedule": [
     {
      "day": 1,
@@ -1268,7 +1272,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children think the hot water or steam gets in. The bottle stays closed, so only the air already inside is involved.",
+     "parent": "Do not correct the guess. Many children think the hot water or steam gets in. The bottle stays closed, so only the air already inside is involved. One child with a parent: the child measures, the parent pours. Two to four children: two bottles and balloons, one in hot water and one in ice water at the same time, then swap. One child measures, one watches the clock, one writes.",
      "context": "This is the first step of the Balloon on the Bottle. You guess before you test."
     },
     {
@@ -1277,17 +1281,17 @@
      "do": "Fit the balloon over the mouth of the empty bottle. Wrap a string round the widest part of the balloon, and measure the string with a ruler. Write it down as the start.",
      "say": "The bottle looks empty, but it is full of air. The balloon seals the air inside. Measure round the balloon. What does the string measure?",
      "kid": "Fit the balloon on the bottle. Measure round it. Write the number.",
-     "parent": "The balloon will be flat, so the string measure is small, perhaps 4 to 6 centimetres. The balloon must fit tightly. If you can hear air hissing out, press the neck of the balloon down or use another balloon.",
+     "parent": "The balloon will be flat, so the string measure is small, a few centimetres. The balloon must fit tightly. If you can hear air hissing out, press the neck of the balloon down or use another balloon.",
      "context": "In this step, you fit the balloon on the bottle and measure it."
     },
     {
      "id": "a1s3",
      "mins": 8,
-     "do": "A grown-up pours hot water, about 5 centimetres deep, into a basin. Stand the bottle in the water and hold it by its neck. Watch the balloon for 3 to 4 minutes. Then measure round the balloon again.",
+     "do": "A grown-up pours hot water into a basin, deep enough to come up to the bottle's shoulder, about 10 centimetres. The empty bottle floats, so stand it in the water and hold it down by its neck. Watch the balloon for 3 to 4 minutes. Then measure round the balloon again.",
      "say": "Watch the balloon. What is it doing? Is the bottle leaking? Where is the air coming from?",
      "kid": "A grown-up pours the hot water. Stand the bottle in it. Watch the balloon.",
      "adult": true,
-     "parent": "Expect the balloon to swell slowly to the size of a lime or even an orange, and the string measure to climb to 15 to 25 centimetres. The balloon has to stretch before it starts, so the first minute can look slow. If nothing happens, the balloon may be too stiff or leaking.",
+     "parent": "Expect the balloon to swell slowly to about the size of a small lime, and the string measure to climb by 4 to 10 centimetres (about numbers; a soft, well-stretched balloon swells more). The balloon has to stretch before it starts, so the first minute can look slow. If nothing happens, the balloon may be too stiff or leaking: stretch it more, check it fits tightly, and make sure the water comes high up the bottle.",
      "check": {
       "t": "mcq",
       "q": "The balloon swelled up in the hot water, but the bottle was closed. Where did the extra air come from?",
@@ -1386,17 +1390,17 @@
        ]
       }
      ],
-     "parent": "Do not correct the answer. Some children say the warmth was hidden inside the hands. Ask: if I rub for an hour, will they keep getting warmer? A hidden store of heat would run out.",
+     "parent": "Do not correct the answer. Some children say the warmth was hidden inside the hands. Ask: if I rub for an hour, will they keep getting warmer? A hidden store of heat would run out. One child with a parent: take turns, with the parent watching the clip. Two to four children: each child has their own clip and band, and tries the tests while the others watch, then compares what each felt.",
      "context": "This is the first step of Heat from Movement. You make heat with your hands."
     },
     {
      "id": "a2s2",
      "mins": 7,
-     "do": "A grown-up watches. Bend the paper clip back and forth 15 times, quickly, away from the face. Then touch the bend lightly to the upper lip or the wrist. Compare it with a part of the clip that was not bent.",
+     "do": "A grown-up watches. First bend a clip back and forth 5 times and touch the bend lightly to the upper lip or wrist. Then use a fresh clip, bend it 15 times, quickly, away from the face, and touch the bend again. Compare it with a part of the clip that was not bent.",
      "say": "Bend the clip back and forth, 15 times, fast. Then touch the bend to your lip, only lightly. Now touch a part you did not bend. What do you notice?",
      "kid": "A grown-up watches. Bend the clip 15 times. Touch the bend lightly to your lip.",
      "adult": true,
-     "parent": "The bend should feel clearly warmer than the straight part. If it feels only slightly warm, bend it 5 more times, but stop before 20. Never bend until it snaps.",
+     "parent": "The bend should feel clearly warmer than the straight part. If it feels only slightly warm, bend it 5 more times, but stop before 20. Never bend until it snaps. The 15-bend clip should feel clearly warmer than the 5-bend clip, which is the comparison to write down.",
      "check": {
       "t": "mcq",
       "q": "The bend of the paper clip felt warmer than the straight part. Why?",
@@ -1416,7 +1420,7 @@
      "do": "Stretch the thick rubber band quickly 10 times. Hold it stretched against your upper lip for a moment, then let it go slack and press it to your lip again.",
      "say": "Stretch the rubber band fast, ten times. Press it to your lip while it is stretched. Then let it go slack. What do you feel?",
      "kid": "Stretch the band ten times. Press it to your lip. Then let it relax. Press again.",
-     "parent": "A stretched band feels slightly warmer. When it relaxes, it feels slightly cooler. The effect is small but real, and a thick band shows it best. Rubber is unusual: stretching it makes it warm, and letting it relax cools it.",
+     "parent": "A stretched band feels slightly warmer. When it relaxes, it feels slightly cooler. The effect is small but real, and a thick band shows it best. Rubber is unusual: stretching it makes it warm, and letting it relax cools it. If you feel nothing, use a wider, thicker band (a cut strip of a balloon also works) and stretch it faster. The effect is small, so say honestly if you could not feel it.",
      "context": "In this step, you stretch a rubber band and feel it warm up and cool down."
     },
     {
@@ -1499,7 +1503,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Some will say the water is cold. The tap water is at the same temperature as the room.",
+     "parent": "Do not correct the guess. Some will say the water is cold. The tap water is at the same temperature as the room. One child with a parent: the child ties, fans and reads. Two to four children: one fans each thermometer, one reads, one writes, and everyone predicts the difference first.",
      "context": "This is the first step of Wet and Dry. You guess before you test."
     },
     {
@@ -1528,7 +1532,7 @@
      "do": "Fan both thermometers with the stiff card for 3 minutes, from the same distance. Read both. Write the numbers and the difference. Try a second time if you like, wetting the cloth again.",
      "say": "Fan them both for three minutes, the same way. Read both. Which is lower? By how many degrees?",
      "kid": "Fan both for three minutes. Read both. Write the difference.",
-     "parent": "On a dry day, the wet thermometer often reads 3 to 6 degrees lower. In a very humid time, such as the Chennai or Mumbai monsoon, it may read only 1 or 2 degrees lower, because the air is already full of water and cannot take more. Either result is real, and tells you about the air.",
+     "parent": "On a dry day, the wet thermometer often reads 3 to 6 degrees lower. In a very humid time, such as the Chennai or Mumbai monsoon, it may read only 1 or 2 degrees lower, because the air is already full of water and cannot take more. Either result is real, and tells you about the air. A day-old cloth that has dried makes the result poor, so wet it again just before fanning. Note the day's weather in the notebook.",
      "check": {
       "t": "mcq",
       "q": "Why did the thermometer with the wet cloth read lower?",
@@ -1570,7 +1574,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "one raw unsalted groundnut kernel, or a small piece of dry coconut (copra) if anyone at home has a nut allergy",
+     "item": "one plain unsalted dry-roasted groundnut (bhuna), skin rubbed off and split in half so the oily surface shows. Raw groundnuts often will not keep burning. For a nut allergy at home, use a small piece of dry coconut (copra) instead.",
      "qty": 1
     },
     {
@@ -1637,7 +1641,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. A single groundnut kernel holds about 3 kilocalories, which is 3,000 calories. In theory, that could warm 100 grams of water by 30 degrees. In this test, most of the heat escapes, so the real rise is smaller.",
+     "parent": "Do not correct the guess. A single groundnut kernel holds about 3 kilocalories, which is 3,000 calories. In theory, that could warm 100 grams of water by 30 degrees. In this test, most of the heat escapes, so the real rise is smaller. One child with a parent: the child reads and calculates, the parent does all of the fire. Two to four children: the grown-up burns one nut at a time while the children guess, read the thermometer, work out the sum and compare two nuts or a nut and a piece of coconut. Children stay at arm's length.",
      "context": "This is the first step of How much heat is in a groundnut. You guess before you test."
     },
     {
@@ -1657,7 +1661,7 @@
      "say": "Watch the flame under the katori. It heats the water. When the flame dies, we stir the water and read the thermometer. Stand back from the fire.",
      "kid": "A grown-up lights the nut. Watch the water. When the flame dies, read the thermometer.",
      "adult": true,
-     "parent": "A groundnut often burns for 30 seconds to a minute. If it will not catch fire, hold the match to it for a few seconds, or use dry coconut. Keep the katori steady and close. The water usually rises 5 to 15 degrees. Keep the pin's tip away from fingers. Put the burnt nut in the bowl of water.",
+     "parent": "A groundnut often burns for 30 seconds to a minute. If it will not catch fire, hold the match to it for a few seconds, or use dry coconut. Keep the katori steady and close. The water usually rises 5 to 15 degrees. Keep the pin's tip away from fingers. Put the burnt nut in the bowl of water. If the water rises less than 3 degrees, the nut went out too early. Try again with 50 millilitres of water and multiply the rise by 50 instead of 100. If you have two nut halves, burn the second one the same way and compare.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep the katori close to the flame, rather than far above it?",
@@ -1696,7 +1700,7 @@
        ]
       }
      ],
-     "parent": "Most of the heat warms the air around the flame, the katori and the smoke. A good home result catches a quarter to a third of the heat. This is why scientists in a proper laboratory put the flame inside a closed container. Good measuring includes saying how much you may have lost.",
+     "parent": "Most of the heat warms the air around the flame, the katori and the smoke. A good home result catches about a fifth to a third of the heat, and many catch much less. This is why scientists in a proper laboratory put the flame inside a closed container. Good measuring includes saying how much you may have lost.",
      "think": "Your body also gets about 5 to 6 kilocalories from each gram of groundnut. What does your body do with it?",
      "context": "In this step, you compare your result with the real heat in a groundnut and think about where the rest went."
     }
@@ -1782,7 +1786,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children have walked on hot sand at a beach and say sand will win at noon. The night comparison is the surprise for most.",
+     "parent": "Do not correct the guess. Many children have walked on hot sand at a beach and say sand will win at noon. The night comparison is the surprise for most. One child with a parent: the child reads and writes. Two to four children: one child owns the sand plate and one the water plate, and everyone reads at each time.",
      "context": "This is the first step of Sand and Water in the Sun. You guess before you test."
     },
     {
@@ -1810,7 +1814,7 @@
      "do": "Read both thermometers at 9 at night, and again at 6 the next morning. Write the numbers.",
      "say": "It is night now. The sun has gone. Which plate is warmer? Is it the same plate that was hotter at noon?",
      "kid": "Read both at night. Read both again in the morning. Write the numbers.",
-     "parent": "This is the surprising part. The sand, which was hottest at noon, is often the coolest by morning. The water changes less, so it is often the warmer plate at 6 in the morning, though it was cooler at noon.",
+     "parent": "This is the surprising part. The sand, which was hottest at noon, is often the coolest by morning. The water changes less, so it is often the warmer plate at 6 in the morning, though it was cooler at noon. The difference at morning is small and can be a degree or two, because water also evaporates and cools. On a humid or windy night the plates may match. Report what you saw, whichever way it goes.",
      "check": {
       "t": "mcq",
       "q": "The sand was hotter at noon, but the water was warmer at 6 the next morning. Why?",
@@ -1831,7 +1835,7 @@
      "do": "Draw a line graph with two lines, sand and water. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Pour out the water.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened? Then we pour the water away so that mosquitoes cannot breed.",
      "kid": "Draw your two lines. Say what I think, what I saw, and why. Then pour out the water.",
-     "parent": "A good answer sounds like this. What I think: sand warms and cools faster than water. What I saw: the sand reached 44 degrees at noon but fell to 26 by morning, while the water went only from 28 to 35 and back to 29. Why: water needs more heat for each degree, so it changes temperature slowly.",
+     "parent": "A good answer sounds like this (example numbers; yours will differ). What I think: sand warms and cools faster than water. What I saw: the sand reached 44 degrees at noon but fell to 26 by morning, while the water went only from 28 to 35 and back to 29. Why: water needs more heat for each degree, so it changes temperature slowly.",
      "think": "How does this explain why a town by the sea has a smaller difference between day and night than a town in the desert?",
      "context": "In this step, you draw the graph and explain what happened, using what you think, what you saw, and why."
     }
@@ -1868,7 +1872,7 @@
     "Put the box inside a bigger box with a layer of cloth between them."
    ],
    "your_turn": "Draw your design. Build it and test it for 20 minutes. Change one thing, such as the number of bottles or the wrapping, and test again. Which design kept the box warmest? Why do you think it did?",
-   "safety": "A grown-up pours the hot water. Do not use boiling water in plastic bottles. Tighten lids before moving a bottle. Keep the box away from small children, and wipe up any spill.",
+   "safety": "A grown-up pours the hot water. Do not use boiling water in plastic bottles. Tighten lids before moving a bottle. Keep the box away from small children, and wipe up any spill. The hot box goes in the fridge only with a grown-up's say-so and away from food, and is taken out again afterwards.",
    "context": "This is a design challenge about heat stores. You use water to keep a shut box warm in a cold place.",
    "setup": [
     {
@@ -1901,7 +1905,8 @@
        ]
       }
      ],
-     "context": "This is the first step of the Warm Night Box challenge. You plan."
+     "context": "This is the first step of the Warm Night Box challenge. You plan.",
+     "parent": "Each child or pair builds their own box. One litre of hot water per team, so for a group a grown-up pours one litre for each team. A fridge shelf holds two shoeboxes. One child with a parent: the child designs and builds, the parent pours and times."
     },
     {
      "id": "c1s2",
@@ -1919,7 +1924,7 @@
      "say": "Build your first design. A grown-up pours the water. Read the thermometer at the start, at ten minutes and at twenty minutes. Write down the numbers so you have a score to beat.",
      "kid": "Build your box. A grown-up pours the water. Read at the start, ten minutes and twenty minutes.",
      "adult": true,
-     "parent": "Read the start before you shut the lid. Open a fridge door only briefly at each reading, or use a probe with a wire so you can read from outside. A typical result: the box starts at 28 and reads 36 or 38 with a big jar of hot water after 20 minutes in the fridge. A box with no water cools straight to about 10 or 12.",
+     "parent": "Read the start before you shut the lid. Open a fridge door only briefly at each reading, or use a probe with a wire so you can read from outside. The numbers depend on the box, the jar and the fridge, so these are only about-numbers: the box starts at 28 and reads somewhere from 35 to 48 after 20 minutes with a big jar of hot water. A box with no water cools to about 10 to 15. If the fridge is full, use a cool shaded balcony instead and compare the results only within the same place.",
      "context": "In this step, you build and test your first design."
     },
     {
@@ -3104,7 +3109,7 @@
     "p1",
     "c1"
    ],
-   "why": "Every test in this unit reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster."
+   "why": "Every test in this unit reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster. Cost: about Rs 60 to 150 each from a school-lab or science-kit shop, or online. Kirana and medical shops usually have only fever thermometers, so buy ahead. One thermometer is enough for every test if you read the two things one after the other."
   },
   {
    "id": "b-scale",

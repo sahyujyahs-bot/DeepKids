@@ -232,7 +232,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 
 ## Games
 ### g1 · Budget the Battery: plan a night without power (25 min)
-- **rules:** Each player draws a battery of 30 squares. One square is 100 watt-hours. Put the 12 appliance cards face up, with the fronts showing. Keep the 4 surprise cards face down.; Each player works out the watt-hours for every appliance card, by multiplying watts by hours. Turn the card over to check. One point for each card you got right before turning it.; Now plan the night. Each player chooses cards to run, and crosses out squares for each. You may not use more than 30 squares. A card costs its squares in full, and each card can be used once.; Then one player turns over a surprise card, and everyone follows it. If your plan no longer fits, put back the card with the fewest points.; Add up the points on your chosen cards, and the points for the sums you got right. The highest score wins.; Playing alone, try to beat 25 points. Notice that the card with the most points also costs the most squares. Ask yourself if it is worth it.; With a parent, take turns. The parent tries to find a plan that scores better, and explains the sums.
+- **rules:** Each player draws a battery of 30 squares. One square is 100 watt-hours. Put the 12 appliance cards face up, with the fronts showing. Keep the 4 surprise cards face down.; Each player works out the watt-hours for every appliance card, by multiplying watts by hours. Turn the card over to check. One point for each card you got right before turning it.; Now plan the night. Each player chooses cards to run, and crosses out squares for each. You may not use more than 30 squares. A card costs its squares in full, and each card can be used once by each player, so two players may choose the same card.; Then one player turns over a surprise card, and everyone follows it. If your plan no longer fits, put back the card with the fewest points.; Add up the points on your chosen cards, and the points for the sums you got right. The highest score wins.; Playing alone, try to beat 30 points, counting the points for your sums. Notice that the card with the most points also costs the most squares. Ask yourself if it is worth it.; With a parent, take turns. The parent tries to find a plan that scores better, and explains the sums.
 - **Printable cards: 16 two-sided cards: an appliance with its watts and hours on the front, and the squares and points on the back (12 appliance cards and 4 surprise cards):** Ceiling fan. 60 watts. Runs for 10 hours. (back: 60 watts times 10 hours is 600 watt-hours. That is 6 squares. Points: 4.); LED room light. 9 watts. Runs for 10 hours. (back: 9 watts times 10 hours is 90 watt-hours. That is less than one square, so it counts as 1 square. Points: 3.); Phone charger. 10 watts. Runs for 3 hours. (back: 10 watts times 3 hours is 30 watt-hours. That is less than one square, so it counts as 1 square. Points: 2.); LED television. 100 watts. Runs for 3 hours. (back: 100 watts times 3 hours is 300 watt-hours. That is 3 squares. Points: 2.); Fridge. 120 watts. Runs for half of 10 hours, which is 5 hours. (back: 120 watts times 5 hours is 600 watt-hours. That is 6 squares. Points: 3.); Water pump. 800 watts. Runs for 1 hour. (back: 800 watts times 1 hour is 800 watt-hours. That is 8 squares. Points: 5.); Mixer grinder. 500 watts. Runs for 12 minutes, which is one fifth of an hour. (back: 500 watts times one fifth of an hour is 100 watt-hours. That is 1 square. Points: 2.); Electric kettle. 1,500 watts. Runs for 4 minutes, which is one fifteenth of an hour. (back: 1,500 watts times one fifteenth of an hour is 100 watt-hours. That is 1 square. Points: 1.); Laptop. 50 watts. Runs for 4 hours. (back: 50 watts times 4 hours is 200 watt-hours. That is 2 squares. Points: 2.); Lift. 1,200 watts. Runs for 20 minutes in all, which is one third of an hour. (back: 1,200 watts times one third of an hour is 400 watt-hours. That is 4 squares. Points: 1.); Breathing machine for a neighbour. 300 watts. Runs for 8 hours. (back: 300 watts times 8 hours is 2,400 watt-hours. That is 24 squares. Points: 20.); Stair lights. Eight LED bulbs of 9 watts each. Run for 8 hours. (back: Eight bulbs of 9 watts is 72 watts. 72 watts times 8 hours is 576 watt-hours. That is 6 squares. Points: 3.); SURPRISE. The battery was not fully charged. (back: Cross out 3 squares of your battery. If your cards no longer fit, put back the card with the fewest points.); SURPRISE. A neighbour shares her battery. (back: Draw 2 more squares on your battery. You may add one more card if it fits.); SURPRISE. It is a very hot night. (back: The ceiling fan card is worth 3 more points. If you did not choose it, you may swap one card for it if it fits.); SURPRISE. The power cut lasts 2 hours longer than planned. (back: Cross out 4 squares of your battery. If your cards no longer fit, put back the card with the fewest points.)
 - **Printable board: Battery board: draw 30 squares in 3 rows of 10:** Each square is 100 watt-hours.; Thirty squares is a battery of 3,000 watt-hours.; Cross out a square for every 100 watt-hours your cards use.
 - **Printable score sheet: Night plan score sheet:** Player; Cards chosen; Squares used; Points
@@ -240,7 +240,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent does:* Cut out the 16 cards. Put the 12 appliance cards face up. Draw a battery of 30 squares for each player. One square is 100 watt-hours.  
   *Parent says:* This battery holds 3,000 watt-hours. A watt-hour is one watt used for one hour. We draw 30 squares, and each square is 100 watt-hours.  
   *Child mode:* Cut out the cards. Draw a battery of 30 squares.
-  - Note: Check that your child can say what a watt-hour is. If not, say that a 10 watt bulb on for 1 hour uses 10 watt-hours.
+  - Note: You need scissors, paper, a pencil and a calculator. With 2 to 4 players, each draws a battery and everyone plays at once from the same face-up cards. Check that your child can say what a watt-hour is. If not, say that a 10 watt bulb on for 1 hour uses 10 watt-hours.
 - **g1s2 (8 min)**  
   *Parent does:* Each player works out the watt-hours for every appliance card. Write the number under each card. Then turn the card over to check, and score one point for each right.  
   *Parent says:* Multiply watts by hours to get watt-hours. Then divide by 100 to get the squares. Do not turn the card over until you have your answer.  
@@ -284,7 +284,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent says:* Walk up with one hand on the rail. Start the stopwatch on the first step. Stop it on the last. Never run. Rest for two minutes between climbs.  
   *Child mode:* Hold the rail. Walk up at the speed we say. Rest two minutes each time.
   - Ask: How do your legs feel after the fast climb, compared with the slow one? (good: More tired.; Hotter.; My heart is beating faster.)
-  - Note: A slow climb of 20 steps may take about 30 seconds. A steady climb may take 15 seconds. A fast walk may take 8 to 10 seconds. Keep the three speeds clearly different. Stand beside your child on the first climb so they are safe. Number the six climbs one to six in the table.
+  - Note: A slow climb of 20 steps may take about 30 seconds. A steady climb may take 20 seconds. A fast walk may take 12 seconds. These are typical, and yours will differ. Keep the three speeds clearly different. Stand beside your child on the first climb so they are safe. Number the six climbs one to six in the table. With 2 to 4 children, take turns in four jobs: climber, timer, writer, and rail watcher. Each child climbs each speed once, and the others time. Their rests are the time spent timing a sibling. Each child uses their own mass, so compare watts, not who is stronger. Do not race, and never let a child go faster than a quick walk.
 - **s4 (7 min)**  
   *Parent does:* For each climb, divide the joules by the seconds. That gives the watts. Fill in the table. Compare the joules in each row, then the watts.  
   *Parent says:* Power is energy divided by time. Take the joules of the climb and divide by the seconds it took. What do you get for the slow climb? And for the fast climb?  
@@ -296,7 +296,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent does:* Draw a bar for the watts of each climb. Then ask your child to say what they thought, what they saw, and why. Compare their best climb with a 9 watt bulb and a 60 watt fan.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see in the table? Why do you think it happened?  
   *Child mode:* Say what you thought, what you saw, and why.
-  - Note: A good answer says the joules stayed about the same, because the climb was the same height, and the watts were bigger when the time was shorter. After they have said this, say the idea: the same energy in less time is more power. Say too that the muscles use about four times the watts you measured, because they turn only a quarter of their food energy into lifting. The other three quarters become heat, which is why you feel hot. A very fast climb may give 100 to 200 watts, more than a fan, but nobody can keep that up for hours.
+  - Note: A good answer says the joules stayed about the same, because the climb was the same height, and the watts were bigger when the time was shorter. After they have said this, say the idea: the same energy in less time is more power. Say too that the muscles use about four times the watts you measured, because they turn only a quarter of their food energy into lifting. The other three quarters become heat, which is why you feel hot. A quick walk up may give about 80 to 120 watts, more than a fan, but nobody can keep that up for hours.
   - Think: You made more watts than a bulb for a few seconds. Why can you not light a bulb all night this way?
 ### e2 · Meter Blink: how many watts is each appliance? (30 min)
 - **question:** Can the blinking light on the energy meter tell us how many watts each appliance takes, and does it match the rating plate?
@@ -315,25 +315,25 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent does:* Find the meter. Ask the building staff if it is in a shared box. Read the number that says imp/kWh. Divide 3,600,000 by that number to find the joules in each blink.  
   *Parent says:* Each blink means the meter has counted a fixed amount of energy. The number on the meter says how many blinks make one unit. A unit is 3,600,000 joules. Divide to find the joules in one blink.  
   *Child mode:* Find the blink number. Divide 3,600,000 by it. That is the joules in one blink.
-  - Note: Common numbers are 1,600 and 3,200 blinks per unit. At 3,200, each blink is 1,125 joules. At 1,600, each blink is 2,250 joules. Many flats have the meter in a common box, so ask a grown-up in the building to show you. Do not open it. If your meter has a spinning disc, it prints revolutions per unit instead. Count turns instead of blinks. If you cannot see the meter at all, do the Rating Plate Hunt instead.
+  - Note: Common numbers are 1,600 and 3,200 blinks per unit. At 3,200, each blink is 1,125 joules. At 1,600, each blink is 2,250 joules. Many flats have the meter in a common box, so ask a grown-up in the building to show you. Do not open it. Look from a safe distance, and do not lean into the box. If your meter has a spinning disc, it prints revolutions per unit instead. Count turns instead of blinks. If you cannot see the meter at all, do the Rating Plate Hunt instead.
   - Check: A meter says 1,600 blinks per unit. A unit is 3,600,000 joules. How many joules is one blink? → **2,250 joules**
 - **s3 (6 min)**  
   *Parent does:* Switch off everything you can. Keep the fridge on, because it must stay on. Count the blinks for 120 seconds, or time how long 10 blinks take. Write down the number and the seconds.  
   *Parent says:* First we measure the home with nothing extra on. Count every blink for two minutes. This is the background that we will take away later.  
   *Child mode:* Count blinks for two minutes. This is the home with nothing extra on.
   - Ask: Why do we measure the home before we switch anything on? (good: So we can take it away.; To see what the fridge uses.; So we only measure the new thing.)
-  - Note: The fridge, a router and clocks always use a little. This is the base. The meter may blink slowly, at around one blink every 5 to 20 seconds. If the fridge motor starts during your count, repeat it. Joules counted equals blinks times the joules in one blink. Watts equals joules divided by seconds.
+  - Note: The fridge, a router and clocks always use a little. This is the base. The meter may blink slowly, at around one blink every 5 to 20 seconds. Count the base twice. If the two counts differ by more than 2 blinks, the fridge motor started or stopped, so repeat until they agree. Switch off the air conditioner and geyser for the test, but keep the fan you will test. Joules counted equals blinks times the joules in one blink. Watts equals joules divided by seconds.
 - **s4 (10 min) · grown-up needed**  
-  *Parent does:* Switch on one appliance. For a slow blink, count blinks for 120 seconds. For a fast blink, time how long 10 blinks take. Switch it off. Do the fan, the light, and then the big appliance.  
-  *Parent says:* Now switch on the fan. Count the blinks for two minutes. Write it down. Then do the light. A grown-up will do the big one, and time ten blinks.  
+  *Parent does:* Switch on one appliance. For a slow blink, count blinks for 120 seconds. For a fast blink, time how long 10 blinks take. Switch it off. Do the fan, then the medium appliance, then the heating appliance.  
+  *Parent says:* Now switch on the fan. Count the blinks for two minutes. Write it down. Then do the medium one. A grown-up will do the heating one, and time ten blinks.  
   *Child mode:* Switch on one appliance. Count the blinks. Write the number. Switch it off.
-  - Note: Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts from step 3. Example at 3,200 blinks per unit: the base count was 11 blinks in 120 seconds, which is 12,375 joules, or about 103 watts. With the fan on, the count was 18 blinks, which is 20,250 joules, or about 169 watts. Take away the base and the fan is about 66 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds.
+  - Note: Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts from step 3. Example at 3,200 blinks per unit: the base count was 11 blinks in 120 seconds, which is 12,375 joules, or about 103 watts. With the fan on, the count was 18 blinks, which is 20,250 joules, or about 169 watts. Take away the base and the fan is about 66 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds. Be honest about the size of the error: one blink is 1,125 joules, so over 120 seconds a single blink is about 9 watts. For a weak result such as a fan, count for 300 seconds if you have time. A heating appliance such as an iron switches its heater on and off, so its average may be below its rating plate. With 2 to 4 children, one counts blinks aloud, one times, one writes, and the grown-up works the appliance. Swap jobs for each appliance.
   - Check: At 3,200 blinks per unit, switching on a fan adds 7 blinks in 120 seconds to the base count. Each blink is 1,125 joules. About how many watts is that? → **About 65 watts**
 - **s5 (4 min)**  
   *Parent does:* Find the rating plate on each appliance. Compare it with your watts. Then ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Does your number match the rating plate? Tell me what you thought, what you saw, and why you think it came out that way.  
   *Child mode:* Compare with the rating plate. Say what you thought and what you saw.
-  - Note: The numbers will not match exactly. The plate gives the most the appliance uses. A fan on a low speed uses less. A light with a dimmer uses less. If a result is far off, count again. The idea after they have spoken: the meter counts energy for the whole home, and a blink is a fixed amount of energy. Faster blinks mean more watts.
+  - Note: The numbers will not match exactly. The plate gives the most the appliance uses. A fan on a low speed uses less. A light with a dimmer uses less. If a result is far off, count again. The idea after they have spoken: the meter counts energy for the whole home, and a blink is a fixed amount of energy. Faster blinks mean more watts. One LED bulb of 9 watts adds less than one blink in two minutes, so the meter cannot see it. That is a result too: small loads hide in the blinks of big ones.
   - Think: If the meter blinks the same number of times in a day, does that mean the same energy was used?
 
 ## Activities
@@ -347,16 +347,16 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Ask: How many apples is the bottle? (good: Ten apples.; About ten.; Ten times heavier.)
   - Note: The bottle is about 10 times heavier than the apple, so lifting it the same height takes about 10 times the energy, 10 joules. Let your child say this before you do.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* Measure the table height in metres. Lift the bottle from the floor to the table, 20 times, at an easy pace. Your child counts each lift out loud and the grown-up times the 20 lifts.  
+  *Parent does:* First guess how many lifts you can do before you feel tired, and write it. Measure the table height in metres. Lift the bottle from the floor to the table, 20 times, at an easy pace. Your child counts each lift out loud and the grown-up times the 20 lifts.  
   *Parent says:* Lift the bottle onto the table, then put it back on the floor, and lift again. Count out loud. Stop if you get tired.  
   *Child mode:* Lift the bottle onto the table. Count each lift. Do it 20 times.
-  - Note: Only the lifts up count as energy, not the lowering. A table 80 centimetres high is 0.8 metres. One lift is 10 joules times 0.8, which is 8 joules. Twenty lifts are 160 joules. Time them. Twenty lifts in 40 seconds is 4 watts of lifting, but your body used about four times that.
+  - Note: Only the lifts up count as energy, not the lowering. A table 80 centimetres high is 0.8 metres. One lift is 10 joules times 0.8, which is 8 joules. Twenty lifts are 160 joules. Time them. Twenty lifts in 40 seconds is 4 watts of lifting, but your body used about four times that. With 2 to 4 children, each lifts 20 times while a sibling counts and another times. Compare the seconds: the joules are the same, so the child who was quicker made more watts. If your table is not about 80 centimetres, use its measured height.
 - **s3 (8 min)**  
   *Parent does:* First ask: how many bottle lifts would equal the energy of one chapati? Write a guess and a reason. Then work it out. A chapati holds about 420,000 joules. Divide by 8 joules for one lift.  
   *Parent says:* A chapati holds about 420,000 joules. One bottle lift is 8 joules. How many lifts is one chapati? First guess, and tell me why. Then use the calculator.  
   *Child mode:* How many lifts equal one chapati? Guess first. Then work it out.
   - Ask: Why does eating one chapati not let you lift the bottle 42,000 times at once? (good: The body lets the energy out slowly.; Muscles get tired.; Some energy becomes heat.)
-  - Note: The sum is 420,000 divided by 8, which is 52,500 lifts. Your child will probably guess far too low. Say that this is if none of the chapati's energy were wasted. Your muscles use about four times what the lift needs, so in real life about 13,000 lifts. A chapati could keep you lifting for hours.
+  - Note: The sum is 420,000 divided by 8, which is 52,500 lifts. Your child will probably guess far too low. Say that this is if none of the chapati's energy were wasted. Your muscles use about four times what the lift needs, so in real life about 13,000 lifts. A chapati could keep you lifting for hours. The 420,000 joules is typical for one chapati of about 100 kilocalories, and real chapatis vary.
   - Check: A chapati holds about 420,000 joules. Lifting the bottle once takes about 10 joules. About how many lifts is that? → **About 42,000 lifts**
 ### a2 · Rating Plate Hunt: the watts in our home (20 min)
 - **safety:** Read the plates only on appliances that are switched off and cool. A grown-up reads the geyser plate and moves the heavy things. Stand on the floor, never on a chair. Do not pull plugs or open anything.
@@ -371,7 +371,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent does:* Find the rating plate on each appliance, usually on the back or the bottom. Read the watts. Do not open anything or pull a plug. Write the watts in the table. Some plates show volts and amps instead. Multiply them to get watts.  
   *Parent says:* Look for a label with the letter W. This is the power of the appliance. Read it to me, and write it in the table.  
   *Child mode:* Find the label with a W. Read the number. Write it down.
-  - Note: A fan may say 60 or 75 W. An LED bulb says 9 W. A mixer grinder says 500 to 750 W. An iron says 1,000 W. A geyser says 2,000 W. A phone charger says 10 to 20 W. A fridge says 100 to 200 W. If a plate shows only volts and amps, multiply the two to get watts. For example, 230 volts times 0.5 amps is 115 watts.
+  - Note: A fan may say 60 or 75 W. An LED bulb says 9 W. A mixer grinder says 500 to 750 W. An iron says 1,000 W. A geyser says 2,000 W. A phone charger says 10 to 20 W. A fridge says 100 to 200 W. If a plate shows only volts and amps, multiply the two to get watts. For example, 230 volts times 0.5 amps is 115 watts. The fridge plate is often on the inside wall or the back, so look inside the door first and do not pull the fridge out. If you cannot find a plate, use the typical number given here and say so. With 2 to 4 children, give each child two appliances to read and write, then share the table.
 - **s3 (7 min)**  
   *Parent does:* For each appliance, guess the hours it runs in a day. Multiply watts by hours. Put the answers in order from most to least. Compare with the first guess.  
   *Parent says:* Now guess the hours each one runs in a day. Multiply watts by hours. Which one is biggest? Is it the one you guessed?  
@@ -379,7 +379,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Note: A geyser of 2,000 watts for half an hour is 1,000 watt-hours. A fan of 60 watts for 12 hours is 720. A fridge of 150 watts running half the time over 24 hours is 1,800. Often the fridge or the air conditioner is the biggest. Watch for the child who finds the quiet fridge beats the loud mixer.
   - Check: A 60 watt fan runs for 12 hours and a 2,000 watt geyser runs for 15 minutes. Which uses more energy? → **The fan, because it runs much longer**
 ### a3 · Litres and Litres a Minute: amount and rate (15 min)
-- **record:** Write the seconds to fill the bottle slowly and fast, and the litres a minute for each.
+- **record:** Write the seconds to fill the bottle slowly and fast, and the litres a minute for each. Also write your prediction for the 20 litre bucket.
 - **s1 (3 min)**  
   *Parent does:* Hold the bottle. Ask your child how long it will take to fill from a trickle, and from a full tap. Ask for a guess and a reason.  
   *Parent says:* We will fill this one litre bottle two ways. A thin trickle, and a full tap. How long will each take? Why do you think so?  
@@ -391,16 +391,16 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent says:* Open the tap just a little. Start the stopwatch. Stop when the bottle is full. Now open the tap wide, and do it again.  
   *Child mode:* Fill the bottle from a trickle. Time it. Fill it from a full tap. Time it.
   - Ask: The bottle held the same water both times. What was different? (good: How fast the water came.; The time.; The tap was open wider.)
-  - Note: A thin trickle may take 60 to 120 seconds. A full tap may take 4 to 8 seconds. Tell your child the amount is the same, one litre, but the rate is very different. If the tap is fast, fill over the sink.
+  - Note: A thin trickle may take 60 to 120 seconds. A full tap may take about 5 to 15 seconds, depending on the water pressure. Tell your child the amount is the same, one litre, but the rate is very different. If the tap is fast, fill over the sink. Pour the water into a bucket and use it for plants or mopping, so none is wasted. With 2 to 4 children, one holds the bottle, one works the tap, one times, one writes. Swap and repeat.
 - **s3 (4 min)**  
-  *Parent does:* Divide 60 by the seconds to get litres a minute. Do it for both. Say that watts work like litres a minute, and joules like litres.  
+  *Parent does:* Divide 60 by the seconds to get litres a minute. Do it for both. Say that watts work like litres a minute, and joules like litres. Then predict: how long would a 20 litre bucket take from the trickle, and from the full tap?  
   *Parent says:* Sixty seconds divided by the seconds it took gives litres in one minute. Do it for the trickle and the full tap. Joules are like the litres. Watts are like litres a minute.  
   *Child mode:* Divide 60 by your seconds. That is litres a minute.
-  - Note: A 5 second fill is 12 litres a minute. A 100 second fill is 0.6 litres a minute. The same single litre sits behind both numbers. In the same way, 3,600 joules could be 1 watt for an hour, or 3,600 watts for one second.
+  - Note: A 5 second fill is 12 litres a minute. A 100 second fill is 0.6 litres a minute. The same single litre sits behind both numbers. In the same way, 3,600 joules could be 1 watt for an hour, or 3,600 watts for one second. At 0.6 litres a minute, a 20 litre bucket would take over 30 minutes. At 12 litres a minute it takes under 2 minutes. Fill the bucket from the full tap to check the second one. This is the same idea as an appliance: the power sets how fast the energy is used.
   - Check: A tap fills a one litre bottle in 5 seconds. How many litres a minute is that? → **12 litres a minute**
 ### a4 · Where Does the Rest Go? Feel the warmth (15 min)
-- **safety:** Use the back of your hand, about 5 centimetres away first. Touch only if it feels no warmer than a cup of tea you can hold. Never touch a bulb that has been on for a long time, or an iron, a kettle or a geyser. A grown-up does the touching.
-- **record:** List the four things from warmest to coolest, and write where the warm energy came from.
+- **safety:** Use the back of your hand, about 5 centimetres away first. Touch only if it feels no warmer than a cup of tea you can hold. Never touch a bulb that has been on for a long time, or an iron, a kettle or a geyser. A grown-up does the touching. Never put fingers near fan blades or in a fan guard. Touch only the motor housing, with the fan switched off and the blades stopped.
+- **record:** List the four things from warmest to coolest, and write where the warm energy came from. Write each warmth score from 0 to 5.
 - **s1 (4 min)**  
   *Parent does:* Name four things that have been on for ten minutes. Ask which will feel warmest, and why. Write the order.  
   *Parent says:* These four things have been working for ten minutes. Which will feel warmest? Which will be coolest? Why do you think so?  
@@ -408,10 +408,10 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Ask: Why would a machine be warm if it is making light or sound or moving air? (good: Some energy turns into heat.; The motor works hard.; The wires are working.)
   - Note: Do not correct the order. Many children expect the bulb to be hottest because it makes light. An LED bulb is cool for its brightness, but its base can be warm.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* A grown-up checks that everything is safe. Hold the back of your hand 5 centimetres from each thing first. Then touch gently only if it feels no hotter than tea. Write the order.  
+  *Parent does:* A grown-up checks that everything is safe. Hold the back of your hand 5 centimetres from each thing first. Then touch gently only if it feels no hotter than tea. Give each a warmth score from 0 (cool as the table) to 5 (as warm as tea). Write the order.  
   *Parent says:* Hold the back of your hand near each one. Then touch very gently with the grown-up. Which is warmest? Does the order match your guess?  
   *Child mode:* Hold the back of your hand near each. Then touch gently. Which is warmest?
-  - Note: Chargers, laptops and fan motors are usually warm. A filament bulb would be too hot to touch, so only look at it. If nothing feels warm, the appliance may not have been on long enough. Switch it on for 10 minutes more.
+  - Note: Chargers, laptops and fan motors are usually warm. A filament bulb would be too hot to touch, so only look at it. If nothing feels warm, the appliance may not have been on long enough. Switch it on for 10 minutes more. For a fair comparison, also feel a charger that is plugged in with no phone on it. It should be cooler than the one that is charging. With 2 to 4 children, each scores separately without talking, then compare scores. Different scores are normal, because warmth is hard to judge by hand.
 - **s3 (3 min)**  
   *Parent does:* Ask: the machine was meant to make light, sound or movement. Why is it warm too? Say where the warmth came from.  
   *Parent says:* That machine was not meant to make warmth. Where did the warmth come from? Where does it go next?  
@@ -421,13 +421,14 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 
 ## Projects
 ### p1 · The Bill Detective: where does our electricity go? (35 min, 3 days)
+- **safety:** Only look at the meter. Never open the meter box or touch wires. Keep the bill private and do not share its numbers online.
 - **record:** Write the units used, the days, the units a day and a person, the chapatis, and the three biggest users with one change.
-- **schedule:** day 1: Read the bill. Find the units used and the days. Work out units a day and units a person. (15 min); day 2: Read the meter or the bill again. Check the units used for one day. (5 min); day 3: Turn units into chapatis. List the three biggest users and pick one change. (15 min)
+- **schedule:** day 1: Read the bill. Find the units used and the days. Work out units a day and units a person. (15 min); day 2: Read the meter total at the same time on day 1 and day 2, and subtract. Skip this if the meter is out of reach. (5 min); day 3: Turn units into chapatis. List the three biggest users and pick one change. (15 min)
 - **p1s1 (5 min)**  
   *Parent does:* Ask your child to guess how many units of electricity your home uses in one day. Write the guess and the reason.  
   *Parent says:* A unit on the bill is 3.6 million joules. How many units do you think our home uses in a day? Why do you think so?  
   *Child mode:* How many units do we use in a day? Why do you think so?
-  - Note: Do not correct the guess. A flat of four people often uses 5 to 10 units a day, but air conditioning can double that.
+  - Note: Do not correct the guess. A flat of four people often uses about 4 to 10 units a day, but air conditioning can double that.
 - **p1s2 (10 min)**  
   *Parent does:* Find the units used and the number of days on the bill. Divide the units by the days. Then divide by the number of people in the home. Write both answers.  
   *Parent says:* Look for the word units, or kilowatt-hours. Find how many days the bill covers. Divide units by days. Then divide by how many of us live here.  
@@ -436,15 +437,15 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Note: A bill for 240 units over 30 days is 8 units a day. For four people, that is 2 units each. Some bills show tiers, with the first units cheaper. Ignore the money for now. If you cannot find the bill, use these made-up numbers and say so.
   - Check: A bill shows 240 units used over 30 days. How many units a day is that? → **8 units a day**
 - **p1s3 (5 min)**  
-  *Parent does:* On day 2, read the meter or the bill again if you can, to check one day. Write it down.  
+  *Parent does:* On day 1, if your meter shows total units (kWh) at a button or screen, write the number and the time. On day 2, at the same time, read it again and subtract. That is the units for one day. Write it down.  
   *Parent says:* Let us check the sum on another day. Did we use about the same units today? Why might it change?  
   *Child mode:* Check one more day. Did we use the same?
-  - Note: Meters in many flats are out of reach. If you cannot read it, skip this step and use the bill's number. Days with a geyser, a guest or an air conditioner use more.
+  - Note: Meters in many flats are out of reach, and some prepaid meters show units only in an app. If you cannot read it, skip this step and use the bill's number. Days with a geyser, a guest or an air conditioner use more.
 - **p1s4 (15 min)**  
   *Parent does:* Turn the units a day into chapatis. One unit is about nine chapatis of 100 kilocalories each. Compare it with the food a person eats, about 20 chapatis a day. Name the three biggest users and choose one change.  
   *Parent says:* One unit is the food energy of about nine chapatis. So how many chapatis of electricity does each of us use in a day? Compare it with the chapatis we eat.  
   *Child mode:* One unit is about 9 chapatis. How many chapatis of electricity a day?
-  - Note: At 2 units a person, that is about 18 chapatis of electricity a day, nearly as much as the food a person eats. Many children are surprised. Say that this is one family's number, not a rule. The three biggest users often include the fridge, the fan or air conditioner, and the geyser or iron. The change can be small, like switching off a light.
+  - Note: At 2 units a person, that is about 18 chapatis of electricity a day, nearly as much as the food a person eats. Many children are surprised. Say that this is one family's number, not a rule. The three biggest users often include the fridge, the fan or air conditioner, and the geyser or iron. The change can be small, like switching off a light. If you did not do the Rating Plate Hunt, use the typical watts from that activity. With 2 to 4 children, one reads the bill, one divides, one turns units into chapatis, and each picks a change. Nine chapatis for a unit is rounded from about 8.6.
   - Think: Why do you think a person's electricity can be as much energy as their food?
 
 ## Challenges
@@ -462,9 +463,9 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Note: Write the rungs as 1, 10, 100, 1,000, and so on. Count the zeros. Explain that one kilojoule is 1,000 joules and one megajoule is 1,000,000.
 - **c1s2 (15 min)**  
   *Parent does:* Find a real thing for each rung. Some are in this unit. Others you must work out or look up. A bottle lift is 10 joules. A cell is about 10 kilojoules. Write each beside its rung.  
-  *Parent says:* Find something real for each rung. Lifting a bottle is about 10 joules. A small cell is about 10 kilojoules. A chapati is a bit less than 1 megajoule. What else can you find?  
+  *Parent says:* Find something real for each rung. Lifting a bottle is about 10 joules. A small cell is about 10 kilojoules. A chapati is about 0.4 megajoule, so two or three make 1 megajoule. What else can you find?  
   *Child mode:* Find a real thing for each rung. Write it beside the rung.
-  - Note: Helpful rungs: 1 J is an apple lift. 10 J is a bottle lift. 100 J is lifting a 10 kilogram bag of rice 1 metre. 1 kJ is 100 bottle lifts. 10 kJ is about an AA cell. 100 kJ is about two phone batteries. 1 MJ is about two and a half chapatis. 10 MJ is about a day of food for a grown-up. 100 MJ is about three litres of petrol. Treat the figures as rough. Look up what you cannot work out, and say where you found it.
+  - Note: Helpful rungs: 1 J is an apple lift. 10 J is a bottle lift. 100 J is lifting a 10 kilogram bag of rice 1 metre. 1 kJ is 100 bottle lifts. 10 kJ is about an AA cell. 100 kJ is about two phone batteries. 1 MJ is about two and a half chapatis. 10 MJ is about a day of food for a grown-up. 100 MJ is about three litres of petrol. Treat the figures as rough. A tenth rung of 1,000 megajoules is about 30 litres of petrol. Look up what you cannot work out, with a grown-up, and say where you found it. With 2 to 4 children, give each child some rungs, then join the strips. Use sticky notes or paper, not tape on a painted wall.
 - **c1s3 (10 min)**  
   *Parent does:* Mark where your stair climb sits on the ladder. Ask your child to find the biggest gap on the ladder and the biggest surprise.  
   *Parent says:* Where does your stair climb sit on the ladder? What surprised you most? Which rung has the thing you did not expect?  
@@ -696,8 +697,8 @@ Where Did It Come From? (sci.energy.L4): Topic-level song
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in/) · place · Kolkata: A large science museum with hands-on galleries on science and engineering. Check the opening times before you go.
 
 ## Things to buy
-- [A basic digital bathroom scale](https://www.amazon.in/s?k=digital+weighing+scale+bathroom) (tool): To find your child's mass for Stair Power. Many homes already have one, and a rough guess works too. Used in e1. 
-- [A plug-in power meter, also called a watt meter](https://www.amazon.in/s?k=plug+in+energy+meter+watt+meter) (tool): It shows the watts of anything plugged into it. Use it to check the Meter Blink and Rating Plate results. Used in e2, a2, p1. 
+- [A basic digital bathroom scale](https://www.amazon.in/s?k=digital+weighing+scale+bathroom) (tool): To find your child's mass for Stair Power. Many homes already have one, and a rough guess works too. A basic one costs about Rs 600 to 1,000. It is optional. Used in e1. 
+- [A plug-in power meter, also called a watt meter](https://www.amazon.in/s?k=plug+in+energy+meter+watt+meter) (tool): It shows the watts of anything plugged into it. Use it to check the Meter Blink and Rating Plate results for plug-in things. It cannot measure a ceiling fan or a geyser wired to the wall. It costs about Rs 400 to 900, and it is optional. Used in e2, a2, p1. 
 
 ## Warm-up
 - What does a joule count? → How much energy there is.

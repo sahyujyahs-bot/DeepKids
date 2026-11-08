@@ -282,7 +282,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **question:** If you hang more and more water from a rubber band, how does the stretch grow? Can you use the band as a scale to find the mass of something you do not know?
 - **predict:** Before you start, guess. If 100 grams stretches the band by 1 centimetre, how far will 300 grams stretch it? Will 500 grams stretch it exactly five times as far? Why do you think so?
 - **fair test:** Use the same band, the same cup and the same ruler every time. Add the water 100 millilitres at a time, and wait 10 seconds before reading, because a rubber band keeps creeping. Read at eye level from the same point on the cup. Only the load changes, so any change in the stretch comes from the load.
-- **safety:** A rubber band under load can snap and sting, so keep your face and eyes to one side, and never load more than 500 millilitres. If anyone has a latex allergy, use a latex-free band. Stop if the band stretches to three times its slack length. Work over a tray to catch spills, and wipe the floor if water goes on it.
+- **safety:** A rubber band under load can snap and sting, so keep your face and eyes to one side, and never load more than 500 millilitres. A grown-up makes the holes in the tub. If anyone has a latex allergy, use a latex-free band. Stop if the band stretches to three times its slack length. Work over a tray to catch spills, and wipe the floor if water goes on it.
 - **record:** Fill in the table. Draw a graph with the mass in grams along the bottom and the stretch in centimetres up the side. Join the dots with a smooth line. Write the mass of each of your three unknown things.
 - **results table:** Water in the cup (millilitres) | Mass added (grams) | Pointer reading (centimetres) | Stretch (centimetres)
 - **s1 (4 min)**  
@@ -290,9 +290,9 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent says:* We will hang a cup from a rubber band, and add water to it. 100 grams of water stretches the band a little. What will 300 grams do? And 500 grams? Why do you think so?  
   *Child mode:* A rubber band and a cup of water. How far will 300 grams stretch it? Why?
   - Ask: Why do you think it will stretch that far? (good: Three times the water, so three times the stretch.; It will stretch more each time.; It will stretch less each time.)
-  - Note: Do not correct the guess. Many children say three times the water gives three times the stretch. That is a good guess, and it is called Hooke's law. The test checks whether a rubber band follows it.
+  - Note: Do not correct the guess. Many children say three times the water gives three times the stretch. That is a good guess, and it is called Hooke's law. The test checks whether a rubber band follows it. Roles: one child reads the ruler at eye level, one pours, and one writes the table and draws the graph; swap after each reading. One child with a parent: the parent pours, and the child reads and writes. With 2 to 4 children, each child can hang a different band and compare graphs. The lines will differ, which is why every band must be calibrated.
 - **s2 (5 min)**  
-  *Parent does:* Hang the band from a hook, a nail or a shelf edge. Tape the ruler upright behind it with its zero at the top, level with the top of the band. Hang the empty cup from the band. Read where the bottom of the band, or the paper clip, points on the ruler. Write it as the reading for no water.  
+  *Parent does:* Stretch the band gently ten times by hand first, so that it settles. Hang it from a hook, a nail or a shelf edge. Tape the ruler upright behind it with its zero at the top, level with the top of the band. Hang the empty cup from the band. Read where the bottom of the band, or the paper clip, points on the ruler. Write it as the reading for no water.  
   *Parent says:* Here is the band, and here is the empty cup. Where does the pointer sit on the ruler now? That is our zero.  
   *Child mode:* Hang the band and the cup. Tape a ruler behind them. Read the pointer.
   - Note: Choose a pointer, such as the bottom of the paper clip, and always read the same point. The ruler must not move between readings. Read with your eye level with the pointer.
@@ -301,7 +301,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent does:* Pour 100 millilitres of water into the cup, slowly so it does not bounce. Wait 10 seconds. Read the pointer. Write it. Repeat with another 100 millilitres, up to 500 millilitres in all. Work out the stretch each time by taking away the first reading.  
   *Parent says:* Add 100 millilitres. Wait for ten seconds. Read the pointer. Do you think the next 100 will stretch it the same amount?  
   *Child mode:* Add 100 millilitres. Wait. Read. Write the number. Do it five times.
-  - Note: Each 100 millilitres of water has a mass of about 100 grams. A medium band stretches about 1 centimetre for each 100 grams. A thin band stretches much more, so stop earlier. The band can also creep for a while, which is why we wait. Do not worry if the steps are not exactly equal.
+  - Note: Each 100 millilitres of water has a mass of about 100 grams. A medium band typically stretches somewhere between 0.5 and 2 centimetres for each 100 grams, and bands differ a lot, so your numbers will not match ours. A thin band stretches much more, so stop earlier. If the first 100 grams moves the pointer by less than 3 millimetres, the band is too stiff, so use a thinner one. The band can also creep for a while, which is why we wait. Do not worry if the steps are not exactly equal.
   - Check: Why can we use 100 millilitres of water as a mass of 100 grams? → **Because 1 millilitre of water has a mass of about 1 gram**
 - **s4 (7 min)**  
   *Parent does:* Draw the graph. Put the mass along the bottom and the stretch up the side. Mark a dot for each reading. Draw a smooth line through the dots. Ask your child what shape the line makes.  
@@ -310,7 +310,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Note: If the dots lie on a straight line through zero, then twice the load gives twice the stretch. That is Hooke's law. A rubber band often bends a little, because rubber is softer at first and stiffer later. Both results are real. A steel spring gives a straighter line.
   - Check: A straight line through the zero mark means what? → **Twice the load gives twice the stretch**
 - **s5 (7 min)**  
-  *Parent does:* Empty the cup. Put the first unknown thing in it, and wait 10 seconds. Read the stretch. On the graph, go along from that stretch to the line, then down to the grams. Write the mass. Do the same for the other two, and check them on a kitchen scale or with a printed pack mass. Then say what I think, what I saw, and why.  
+  *Parent does:* Empty the cup. Guess the mass of the first unknown thing and write the guess. Then put it in the cup, and wait 10 seconds. Read the stretch. On the graph, go along from that stretch to the line, then down to the grams. Write the mass. Do the same for the other two, and check them on a kitchen scale or with a printed pack mass. Then say what I think, what I saw, and why.  
   *Parent says:* Now use your scale. Put a lemon in the cup. How much does the band stretch? Use your graph to find its mass. Then check on a kitchen scale.  
   *Child mode:* Put a lemon in the cup. Read the stretch. Use the graph to find its mass.
   - Note: A good answer sounds like this. What I think: a band can work as a scale if you calibrate it with known masses. What I saw: 100 grams stretched it by 1 centimetre, and the lemon stretched it by 0.8 centimetres, so I read about 80 grams from the graph. Why: the stretch depends on the pull, so the same pull gives the same stretch. Your answers may be 10 to 20 grams out. That is normal for a rubber band.
@@ -319,20 +319,20 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **question:** Where does a flat cardboard shape balance? Can the balance point be a place where there is no cardboard at all?
 - **predict:** Before you start, guess. Draw a dot on a paper copy of each shape where you think it will balance on a pencil tip. The shapes are a blob, a crescent and a ring. Why do you think the dot goes there?
 - **fair test:** Cut all three shapes from the same cardboard. Hang each one from three different holes, from the same pin, using the same plumb line. Wait until the shape and the thread have stopped swinging before you mark the line. If you do this for each shape in the same way, any difference between the shapes comes from the shape.
-- **safety:** A grown-up makes the three small holes with a pin or a nail, and the child cuts the shapes with scissors. Cut away from your body. Tape any sharp pin or nail point firmly so that no one can touch it.
-- **record:** On each shape, draw three lines from the holes. Mark the crossing point with a dot. Draw each shape in your notebook with the dot, and write whether the dot is on the cardboard or in the air.
+- **safety:** A grown-up makes the three small holes with a pin or a nail, and the child cuts the shapes with scissors. A grown-up also pokes the starting hole for cutting out the ring's middle. Cut away from your body. Tape any sharp pin or nail point firmly so that no one can touch it.
+- **record:** On each shape, draw three lines from the holes. Mark the crossing point with a dot. Draw each shape in your notebook with the dot, and write whether the dot is on the cardboard or in the air. Measure in millimetres how far your first guess was from the crossing point.
 - **results table:** Shape | My guess: the dot is on the shape or in the air? | Where the lines crossed: on the shape or in the air? | Did it balance there?
 - **s1 (3 min)**  
   *Parent does:* Show your child the three shapes drawn on paper. Ask them to mark with a dot where each will balance on a pencil tip, and why.  
   *Parent says:* Here are three shapes: a blob, a crescent and a ring. Where would each one balance on the tip of a pencil? Put a dot. Why there?  
   *Child mode:* Three shapes. Where does each one balance? Put a dot. Why there?
   - Ask: Why did you put the dot there? (good: In the middle of the shape.; Where there is the most cardboard.; I do not know where.)
-  - Note: Do not correct the guess. Many children put the dot in the middle of each shape, even for the ring, where the middle is a hole.
+  - Note: Do not correct the guess. Many children put the dot in the middle of each shape, even for the ring, where the middle is a hole. Roles: one child hangs the shape, one holds the thread, one marks the line. With 2 to 4 children, each cuts and tests one shape, then shows the others. One child with a parent: the child hangs and marks, and the parent holds the pin steady and the thread.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Cut the three shapes from the cardboard. A grown-up makes three small holes, about as wide as a pencil lead, near the edge of each shape, spaced well apart. Tape the pin or nail so it sticks out sideways from the table edge.  
   *Parent says:* Cut out a blob, a crescent and a ring. Each gets three small holes near its edge. We will hang each shape from its holes, one at a time.  
   *Child mode:* Cut out the three shapes. A grown-up makes three small holes in each.
-  - Note: The blob can be any rough shape, even one that looks like a map. The crescent should be quite curved. The ring should have a big hole, about half its width. The holes must be a little larger than the pin, so the shape can swing freely.
+  - Note: The blob can be any rough shape, even one that looks like a map. The crescent should be quite curved. The ring should have a big hole, about half its width. The holes must be a little larger than the pin, so the shape can swing freely. Keep the cardboard flat and dry. In damp weather it bends, and a bent shape gives wobbly lines. A grown-up pokes a starting hole in the ring's middle so the child can cut it out.
 - **s3 (8 min)**  
   *Parent does:* Hang the blob from one hole on the pin. Hang the plumb line from the same pin. Wait until both are still. Put a dot on the shape's edge where the thread crosses it. Take the shape off, and draw a line from the hole to the dot. Do this for the other two holes.  
   *Parent says:* Hang the blob from one hole. Hang the thread beside it. When both are still, mark where the thread crosses the edge. Draw a line from the hole to the mark.  
@@ -349,12 +349,12 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent does:* Try balancing each shape on a pencil tip or eraser at its crossing point. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Balance each shape. Then say what I think, what I saw, and why.
-  - Note: The blob balances on the pencil at the crossing point. The ring and the crescent cannot, since the point is in the air. You can balance the ring across a finger or a pencil laid under its middle, or show that it rests level on a thread stretched across the hole. A good answer sounds like this. What I think: the centre of gravity is where the plumb lines cross, and it may not be on the shape. What I saw: for the ring and the crescent, the lines crossed where there was no cardboard. Why: gravity pulls on every part, and the pulls add up to one pull at a point.
+  - Note: The blob balances on the pencil at the crossing point. Balancing on an eraser is fiddly and may take several tries. The crossing lines are the real result, so do not worry if the shape keeps sliding off. The ring and the crescent cannot, since the point is in the air. You can balance the ring across a finger or a pencil laid under its middle, or show that it rests level on a thread stretched across the hole. A good answer sounds like this. What I think: the centre of gravity is where the plumb lines cross, and it may not be on the shape. What I saw: for the ring and the crescent, the lines crossed where there was no cardboard. Why: gravity pulls on every part, and the pulls add up to one pull at a point.
 ### e3 · Where Does the Mass Go? Weighing before and after (35 min)
 - **question:** When sugar dissolves, ice melts and a bottle fizzes, does the total mass change? If it changes, where does the mass go?
 - **predict:** Before you start, guess for each test. Will the mass stay the same, go down or go up? Why do you think so?
 - **fair test:** Use the same kitchen scale on the same flat table for every weighing. Wipe the outside of each container dry before you weigh it, and wait until the number stops changing. In each test, weigh everything before and after, and change nothing else between. For the fizz test, do the closed bottle and the open cup in the same way, so the only difference is whether the gas can escape.
-- **safety:** Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bath water should be warm, not hot. Never use a glass jar or a thin bag for the fizz.
+- **safety:** Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bath water should be warm, not hot. Never use a glass jar or a thin bag for the fizz. Keep the scale dry.
 - **record:** Fill in the table with the mass before, the mass after, and the change for each test. Circle any change bigger than 1 gram, because the scale only reads whole grams.
 - **results table:** Test | Mass before (grams) | Mass after (grams) | Change (grams)
 - **s1 (4 min)**  
@@ -362,30 +362,30 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent says:* We will weigh things before and after they change. Sugar in water. Ice melting. A bottle fizzing. Will the mass stay the same, go down or go up? Why do you think so?  
   *Child mode:* Sugar in water. Melting ice. A fizzing bottle. Does the mass change? Why?
   - Ask: Why do you think the mass will change, or stay the same? (good: The sugar vanishes, so the mass goes down.; Nothing is lost, so it stays the same.; The fizz makes gas, so it goes up.)
-  - Note: Do not correct the guess. Many children say the sugar disappears and the mass goes down. A few say the fizz makes it heavier. All are good guesses to test.
+  - Note: Do not correct the guess. Many children say the sugar disappears and the mass goes down. A few say the fizz makes it heavier. All are good guesses to test. Roles: one child weighs, one handles the water, ice or bottle, one writes the table. A grown-up does the closed bottle. One child with a parent: swap jobs for each test. With 2 to 4 children, one scale is enough; take turns on one test each.
 - **s2 (6 min)**  
-  *Parent does:* Weigh a cup with 100 millilitres of water in it. Write it down. Weigh the sugar in a second cup and write it down. Add the two numbers. Pour the sugar into the water and stir until it dissolves. Weigh the cup of sugar water. Compare it with the added numbers.  
-  *Parent says:* Weigh the water. Weigh the sugar. Add them up. Now stir the sugar into the water. Weigh again. Has any mass gone?  
-  *Child mode:* Weigh the water. Weigh the sugar. Stir them together. Weigh again.
-  - Note: The sugar water should have the same mass as the water and sugar added up, within 1 gram. Leave the spoon in the cup the whole time, or weigh it too. Sugar seems to vanish, but every grain is still there, spread through the water as tiny pieces.
-  - Check: The water and the sugar added up to 250 grams. After stirring, the cup of sugar water weighs 250 grams. What does this show? → **The sugar is still in the water. No mass was lost**
+  *Parent does:* Put a cup of 100 millilitres of water, a cup with 2 tablespoons of sugar, and the spoon on the scale together. Write the total. Pour the sugar into the water and stir until it dissolves, scraping the sugar cup clean. Put both cups and the spoon back on the scale. Write the total and compare it with the first.  
+  *Parent says:* Weigh the water, the sugar and the spoon together. Now stir the sugar into the water. Weigh them all together again. Has any mass gone?  
+  *Child mode:* Weigh both cups and the spoon. Stir the sugar in. Weigh them again.
+  - Note: The total should be the same before and after, within 1 gram. Everything is weighed together, both cups and the spoon, so no sugar can hide in a cup or on the spoon. Sugar seems to vanish, but every grain is still there, spread through the water as tiny pieces.
+  - Check: The cups, water, sugar and spoon together weighed 250 grams. After stirring, they still weigh 250 grams. What does this show? → **The sugar is still in the water. No mass was lost**
 - **s3 (7 min)**  
   *Parent does:* Put the 6 ice cubes in the zip-lock bag and press the air out, then seal it. Dry the outside. Weigh it. Stand the bag in a bowl of warm tap water until the ice melts. Take it out, dry the outside very well, and weigh it again.  
   *Parent says:* Weigh the sealed bag with ice. Now let the ice melt in warm water. Dry the bag and weigh it again. Is it lighter, heavier or the same?  
   *Child mode:* Seal ice in a bag. Weigh it. Let it melt. Dry the bag. Weigh it again.
-  - Note: The mass should be the same within 1 gram. The bag must be sealed and dry. If you do not dry the outside, droplets from the warm bath will make the bag seem heavier. A cold bag also attracts water from the air, so dry it just before weighing.
+  - Note: The mass should be the same within 1 gram. The bag must be sealed and dry. If you do not dry the outside, droplets from the warm bath will make the bag seem heavier. A cold bag also attracts water from the air, so dry it just before weighing. In very damp or hot weather you may still see 1 or 2 grams of dew. Say so honestly, dry the bag again, and weigh once more.
   - Check: The sealed bag of ice has the same mass after it melts. What does this show? → **Melting changes the ice into water, and no mass is lost**
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* A grown-up pours 2 tablespoons of vinegar into the bottle. Wrap 1 teaspoon of baking soda in a tissue twist and drop it in. At once, screw the cap on tight. Weigh the closed bottle. Swirl it gently until the fizzing stops. Weigh it again. Then point the cap away from every face, open it slowly over the sink, close it again, and weigh it once more.  
   *Parent says:* Weigh the closed bottle. Swirl it gently. The gas stays inside. Weigh it again. Then a grown-up opens the cap slowly and we weigh once more.  
   *Child mode:* A grown-up closes the bottle. Weigh it. Swirl it. Weigh it again.
-  - Note: The closed bottle should weigh the same before and after the fizz, within 1 gram. The bottle will feel hard, because gas has made pressure. After the cap is opened and closed, the mass drops by about 1 gram, because some of the gas escaped. A scale that reads only whole grams may show a change of 0 or 1. If it shows 0, that is fine, because the test with the open cup shows it better.
+  - Note: The closed bottle should weigh the same before and after the fizz, within 1 gram. The bottle will feel hard, because gas has made pressure. After the cap is opened and closed, the mass drops by about 1 gram, because some of the gas escaped. If the cap hisses or leaks, the mass will drop. That is a finding too: tighten the cap and try again. A scale that reads only whole grams may show a change of 0 or 1. If it shows 0, that is fine, because the test with the open cup shows it better.
   - Check: The closed bottle weighs the same before and after the fizz, though a lot of gas appeared. What does this show? → **The gas has mass, and none of it left the bottle**
 - **s5 (6 min)**  
-  *Parent does:* Put the steel tumbler on the scale. Pour in 100 millilitres of vinegar, and press the zero button if it has one. Write the mass. Add 2 teaspoons of baking soda. Watch the number as the fizz goes on. Write the lowest number when the fizzing stops. Work out the change.  
+  *Parent does:* Put a plate on the scale, and the tall tumbler on the plate. Pour in 100 millilitres of vinegar, and press the zero button if it has one. Write the mass. Add the baking soda half a teaspoon at a time, 2 teaspoons in all, waiting for the foam to sink between spoonfuls. Watch the number. Write the lowest number when the fizzing stops. Work out the change.  
   *Parent says:* Weigh the tumbler with vinegar. Add the baking soda, and watch the number on the scale as it fizzes. What does it do?  
   *Child mode:* Weigh the vinegar. Add the baking soda. Watch the number. Write the lowest one.
-  - Note: The mass should drop by about 2 to 4 grams as the carbon dioxide gas escapes into the air. If you press zero before adding the baking soda, the scale will show the minus change directly. Keep the tumbler on the scale all the time. The foam may rise up the sides, so leave room in the tumbler.
+  - Note: The mass should typically drop by about 2 to 4 grams as the carbon dioxide gas escapes into the air. It depends on your vinegar, and some gas stays dissolved in the liquid. If it drops by only 1 gram, the vinegar is weak or old, so use fresh vinegar. If you press zero before adding the baking soda, the scale will show the minus change directly. Keep the tumbler on the scale all the time. The foam may rise up the sides, so leave room in the tumbler.
   - Check: In the open cup, the mass went down by 3 grams. Where did the 3 grams go? → **Into carbon dioxide gas that floated away into the air**
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -402,9 +402,9 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent says:* We are going to build a balance. A tomato goes in one cup and water goes in the other. How much water will balance the tomato? Why do you think so?  
   *Child mode:* A tomato in one cup. Water in the other. How much water will balance it?
   - Ask: Why do you think it will take that much? (good: The tomato is about as big as a cup of water.; The tomato is heavier than water.; I just know what a tomato feels like.)
-  - Note: Do not correct the guess. A medium tomato has a mass of about 100 to 150 grams. Remember that 1 millilitre of water has a mass of about 1 gram.
+  - Note: Do not correct the guess. Roles: one child pours, one watches the ruler and says stop, one writes. One child with a parent: the parent pours and the child calls stop. With 2 to 4 children, each brings a different fruit or vegetable to weigh on the same balance. A medium tomato has a mass of about 100 to 150 grams. Remember that 1 millilitre of water has a mass of about 1 gram.
 - **a1s2 (9 min)**  
-  *Parent does:* Tie a thread loop round the middle of the ruler, and hang it from the hook. Tape a thread loop near each end, the same distance from the middle on both sides, about 12 centimetres. Hang a cup from each loop. Slide a loop a few millimetres or tape a coin on the high side until the empty balance is level.  
+  *Parent does:* Tie a thread loop round the middle of the ruler. Tape it so it cannot slide. Hang it from the hook. Tape a thread loop near each end, the same distance from the middle on both sides, about 12 centimetres. Hang a cup from each loop. Slide a loop a few millimetres or tape a coin on the high side until the empty balance is level.  
   *Parent says:* First we build the balance. The cups hang the same distance from the middle. We make it level with the cups empty. Why must it be level when it is empty?  
   *Child mode:* Hang the ruler. Hang two cups. Make it level when empty.
   - Note: The ruler hangs from a loop at its middle. The cups hang below it, which keeps it steady. If it swings too much, shorten the thread of the cups. A tiny amount of tape on the lighter side is enough to fix a small lean.
@@ -416,7 +416,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Note: Pour 10 millilitres at a time near the end. The water in millilitres is the tomato's mass in grams. Your answer should be within about 10 grams of the kitchen scale. A tomato is mostly water, so it makes a good test.
   - Check: The tomato balanced against 120 millilitres of water. About what is its mass? → **About 120 grams**
 - **a1s4 (9 min)**  
-  *Parent does:* Now cheat. Slide the middle thread about 2 centimetres towards the left end, so the arms are unequal. Balance the tomato in the left cup with water in the right cup. Write the water. Then swap them: the tomato in the right cup and water in the left. Write the water again. Add the two answers and halve.  
+  *Parent does:* Now cheat. Slide the middle thread about 2 centimetres towards the left end, so the arms are unequal. Level the empty balance again with a little tape or a coin on the light side. Then balance the tomato in the left cup with water in the right cup. Write the water. Then swap them: the tomato in the right cup and water in the left. Write the water again. Add the two answers and halve.  
   *Parent says:* Now we make a cheating balance. The arms are unequal. Weigh the tomato once on each side. Do the two answers agree? Which one is right?  
   *Child mode:* Make the arms unequal. Weigh the tomato on the left. Swap sides. Weigh again.
   - Note: The two answers will be quite different, for example 90 and 150 millilitres. The true answer is between them. The average of the two, here 120, is close to the real mass. A shopkeeper who cheats with unequal arms is caught by swapping the pans. A fair balance gives the same answer both ways.
@@ -435,10 +435,10 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Child mode:* Hold the bottle. How would it feel on the Moon? Lighter or heavier?
   - Note: Do not correct the guess. The Moon pulls about one sixth as hard as the Earth. So the bottle would feel about as heavy as a small bag of 160 millilitres of water feels on Earth.
 - **a2s2 (6 min)**  
-  *Parent does:* Pour 160 millilitres of water into the small bag. This pulls on your hand like 1 kilogram on the Moon. Hold it, then hold the 1-litre bottle again. Repeat with 380 millilitres for Mars and 900 millilitres for Venus.  
+  *Parent does:* Pour 160 millilitres of water into the small bottle or bag. This pulls on your hand like 1 kilogram on the Moon. Hold it, then hold the 1-litre bottle again. Repeat with 380 millilitres for Mars and 900 millilitres for Venus. Then one person shuts their eyes, and another hands over the Moon, Mars and Venus bags in a mixed order. Can they sort them from lightest to heaviest by feel?  
   *Parent says:* A bag of 160 millilitres of water is how a 1-kilogram bottle would feel on the Moon. Hold it. Then Mars, 380 millilitres. Then Venus, 900 millilitres.  
   *Child mode:* Make a Moon bag, a Mars bag and a Venus bag. Hold each one.
-  - Note: The numbers come from the pull of each world: Moon 1.6, Mars 3.7, Venus 8.9 newtons for each kilogram, and Earth 9.8. Divide each by 9.8 to get the fraction of a kilogram. The bag does not have less matter. It is pulled less.
+  - Note: The numbers come from the pull of each world: Moon 1.6, Mars 3.7, Venus 8.9 newtons for each kilogram, and Earth 9.8. Divide each by 9.8 to get the fraction of a kilogram. The bag does not have less matter. It is pulled less. The empty bottle adds about 20 to 30 grams, which is small enough to ignore. With 2 to 4 children, one fills the bags and the others sort them blind, then swap. One child with a parent: the parent hands over the bags.
   - Check: A 1-kilogram bag on Mars pulls on your hand like a bag of about how much on Earth? → **About 380 grams**
 - **a2s3 (6 min) · grown-up needed**  
   *Parent does:* A grown-up helps. Put the two 1-litre bottles and the 500-millilitre bottle in the carry bag. This feels like 1 kilogram on Jupiter, at the cloud tops. Carry it a few steps, with a grown-up beside you. Then put it down.  
@@ -451,8 +451,9 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Child mode:* On each world, what changed in the bottle? What stayed the same?
   - Note: A good answer sounds like this. The mass stayed the same because the bottle has the same matter. The weight changed, because each world pulls differently. On the Moon, with a sixth of the weight, bones carry less, and astronauts' bones get weaker.
   - Think: If you lived on the Moon, would your bones get stronger or weaker than on Earth? Why do you think so?
-### a3 · How Heavy Is the Air in Our Room? (20 min)
-- **record:** Draw the room as a box with its length, width and height. Write the volume in cubic metres and the mass of the air in kilograms.
+### a3 · How Heavy Is the Air in Our Room? (28 min)
+- **safety:** A pump needle is sharp, so a grown-up fits it into the ball's valve. Stop pumping when the ball feels firm.
+- **record:** Draw the room as a box with its length, width and height. Write the volume in cubic metres and the mass of the air in kilograms. If you did the ball, write how many grams it gained.
 - **a3s1 (4 min)**  
   *Parent does:* Ask your child to guess the mass of the air in the room. Offer choices: a packet of rice, a child, an auto-rickshaw. Write the guess down.  
   *Parent says:* The air in this room feels like nothing. But air is made of tiny particles, and they have mass. Is the air in this room as heavy as a packet of rice, a child, or an auto?  
@@ -463,7 +464,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent does:* Measure the length and the width of the room along the floor, in metres. Measure the height from the floor to the ceiling, or work it out from the height of a door. Write the three numbers.  
   *Parent says:* Let's measure the room. How long is it? How wide? How high? Write the numbers in metres.  
   *Child mode:* Measure the length, the width and the height of the room.
-  - Note: A bedroom is often about 3 metres by 4 metres, and 2.7 metres high. Round to the nearest half metre. If you have no tape, use steps: one big step is about 1 metre for an adult and half a metre for a child.
+  - Note: A bedroom is often about 3 metres by 4 metres, and 2.7 metres high. Round to the nearest half metre. Roles: one child holds the tape end, one reads, one writes. One child with a parent: the parent holds the far end of the tape. With 2 to 4 children, each measures a different room and compares the air in each. If you have no tape, use steps: one big step is about 1 metre for an adult and half a metre for a child.
 - **a3s3 (6 min)**  
   *Parent does:* Multiply length by width by height to get the volume in cubic metres. Then multiply the volume by 1.2 to get the mass of the air in kilograms. Write the answer.  
   *Parent says:* Length times width times height is the volume of the room. Each cubic metre of air has a mass of about 1.2 kilograms. So how much does the air in this room weigh?  
@@ -476,15 +477,20 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Child mode:* The air has mass. Above every square metre is about 10 tonnes of air. Why are we not squashed?
   - Note: A good answer sounds like this. The air presses on us from all sides, and the fluids inside our bodies push back with the same pressure, so we are not squashed. Atmospheric scientists estimate that a small fair-weather cloud holds about 500 tonnes of water, which is reported to be about the mass of 100 elephants.
   - Think: Air pushes on you from every side, and also pushes from inside your body. What does that do to the push?
+- **a3s5 (8 min)**  
+  *Parent does:* Optional, if you have a football and a pump. Let the ball go flat, put it in a bowl on the scale, and write the mass. Pump it hard until it is firm, about 30 strokes. Put it back in the same bowl and write the new mass. Take away the first number.  
+  *Parent says:* Air has mass, and we can catch some of it. Weigh the flat ball. Pump it full of air. Weigh it again. How many grams of air did we pump in?  
+  *Child mode:* Weigh a flat ball. Pump it up. Weigh it again. How much more?
+  - Note: A football typically gains about 3 to 6 grams, and a volleyball less. A scale that reads whole grams shows this only roughly, so pump 30 more strokes and see if the number grows. If nothing changes, the ball leaked or the scale rounds too much. Say so honestly, and trust the room sum instead. Roles: one child pumps, one weighs, one writes.
 ### a4 · Heavy for Its Size: same jar, different mass (25 min)
-- **safety:** Use plastic jars or bottles, not glass. Do not taste the contents, and keep flour and fine salt away from the face and eyes. Tell a grown-up first if anyone has a wheat allergy.
+- **safety:** Use plastic tubs or bottles, not glass. Do not taste the contents, and keep flour and fine salt away from the face and eyes. Tell a grown-up first if anyone has a wheat allergy.
 - **record:** Draw the four jars. Under each, write what is in it, your guess for its mass, and its real mass in grams. Put the jars in order from the least to the most mass.
 - **a4s1 (5 min)**  
   *Parent does:* Fill each jar to the top with a different thing: cotton wool, flour, rice and salt. Shake gently so they settle and add more. Put on the lids. Ask your child to guess the order from the least to the most mass. Write it down.  
   *Parent says:* Four jars of the same size. One has cotton, one flour, one rice and one salt. Which has the most mass? Which has the least? Put them in order before you test.  
   *Child mode:* Four jars. Cotton, flour, rice, salt. Guess the order, least to most mass.
   - Ask: Why did you put them in that order? (good: Cotton is soft, so it is lightest.; Salt is tiny grains, so it is packed.; They are all the same, because the jars are.)
-  - Note: Do not correct the guess. The rice, the salt and the flour will be quite different. Typical masses for a 300 millilitre jar are about 10 grams for cotton, 150 grams for flour, 230 grams for rice and 350 grams for salt, but your jars will differ.
+  - Note: Do not correct the guess. Roles: one child fills a jar each, and one lifts with eyes shut. With 2 to 4 children, each fills one jar and the others sort the jars blind. One child with a parent: the parent hands over the jars. The rice, the salt and the flour will be quite different. Typical masses for a 300 millilitre jar are about 10 grams for cotton, 150 grams for flour, 230 grams for rice and 350 grams for salt, but your jars will differ.
 - **a4s2 (7 min)**  
   *Parent does:* Lift two jars at a time, one in each hand, with your eyes shut. Say which feels heavier. Sort the four jars from the lightest to the heaviest by feel.  
   *Parent says:* Close your eyes. Lift two jars, one in each hand. Which feels heavier? Put them in order by feel.  
@@ -503,10 +509,10 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Think: A jar of salt has about 35 times the mass of a jar of cotton. How many times as much matter is in the salt jar?
 
 ## Projects
-### p1 · Van Helmont's Pot: where does a plant's mass come from? (70 min, 18 days)
+### p1 · Van Helmont's Pot: where does a plant's mass come from? (75 min, 18 days)
 - **safety:** Use scissors with care. Wash your hands after touching soil. Do not eat the seedlings from this pot.
-- **record:** A table with these lines: dry soil at the start, dry seeds at the start, fresh seedlings at the end, dried seedlings at the end, dried soil at the end. Then write what changed and what did not.
-- **schedule:** day 1: Spread the soil on a tray in the sun to dry for a day. (10 min); day 2: Weigh 200 grams of dry soil into the pot. Weigh the dry seeds. Plant them and water them. (20 min); day 4: Water the pot and see which seeds have come up. (3 min); day 9: Water the pot and measure the height of the seedlings. (5 min); day 15: Water the pot and measure the height again. (5 min); day 16: Cut the seedlings at soil level and weigh them fresh. Spread the soil and the seedlings out to dry in the sun. (20 min); day 18: Weigh the dried soil and the dried seedlings. Compare with the start. (7 min)
+- **record:** A table with these lines: dry soil at the start, dry seeds at the start, fresh seedlings at the end, dried seedlings at the end, dried soil at the end in the seed pot, dried soil at the end in the comparison pot. Then write what changed and what did not.
+- **schedule:** day 1: Spread the soil on a tray in the sun to dry for a day. (10 min); day 2: Weigh 200 grams of dry soil into each of the two pots. Weigh the dry seeds. Plant them in one pot. Water both pots the same. (25 min); day 4: Water both pots and see which seeds have come up. (3 min); day 9: Water both pots and measure the height of the seedlings. (5 min); day 15: Water both pots and measure the height again. (5 min); day 16: Cut the seedlings at soil level and weigh them fresh. Spread both soils and the seedlings out to dry side by side in the sun. (20 min); day 18: Weigh both dried soils and the dried seedlings. Compare with the start and with each other. (7 min)
 - **p1s1 (5 min)**  
   *Parent does:* Tell your child the story of the willow in a pot. Ask where they think a plant's mass comes from. Write the guess.  
   *Parent says:* Almost 400 years ago, a man planted a small willow in a pot of soil. He gave the tree only water for five years. The tree grew heavy. Where did all that new mass come from? The soil? The water? The air?  
@@ -514,34 +520,34 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Ask: Why do you think so? (good: From the soil, because the roots are in it.; From the water.; From the air.)
   - Note: Do not correct the guess. Most people say soil. Van Helmont found that his soil lost almost nothing.
 - **p1s2 (20 min)**  
-  *Parent does:* Dry the soil in the sun for a day. Weigh 200 grams into the pot. Weigh the 8 dry seeds. Write both. Plant the seeds just under the soil. Water the pot until the soil is damp. Put it on a sunny sill.  
+  *Parent does:* Dry the soil in the sun for a day. Weigh 200 grams into each pot. Weigh the 8 dry seeds. Write both. Plant the seeds just under the soil in one pot. Leave the other pot with no seeds. Water both pots the same amount until the soil is damp. Put them side by side on a sunny sill.  
   *Parent says:* Weigh the dry soil. Weigh the dry seeds. Write both numbers down. Plant the seeds. Water the pot. Put it in the sun.  
   *Child mode:* Weigh the dry soil and the seeds. Plant them. Water the pot.
-  - Note: The soil must be dry at the start and dry at the end. Sun-dried soil on a tray for a day is dry enough for a kitchen scale. Seeds that weigh a few tenths of a gram may show as 0 or 1 on the scale. Just weigh all 8 together.
+  - Note: The soil must be dry at the start and dry at the end. Sun-dried soil on a tray for a day is dry enough for a kitchen scale. Eight moong seeds weigh only about half a gram, so the scale may show 0 or 1. Just weigh all 8 together. The comparison pot is there because sun-dried soil keeps a little water in damp weather, and both pots dry in the same way. With 2 to 4 children, each plants their own seed pot and all share one comparison pot. One child with a parent: the child does the weighing and the parent checks the numbers.
   - Wait: Dry the soil for a day first. Then plant.
 - **p1s3 (13 min)**  
-  *Parent does:* Water the pot a little each day, enough to keep the soil damp. On days 4, 9 and 15, look at the pot and measure the height of the tallest seedling in centimetres. Write the numbers.  
+  *Parent does:* Water both pots the same amount each day, enough to keep the soil damp. On days 4, 9 and 15, look at the pot and measure the height of the tallest seedling in centimetres. Write the numbers.  
   *Parent says:* Water the pot a little every day. Measure the tallest seedling on day four, nine and fifteen. How fast is it growing?  
   *Child mode:* Water the pot. Measure the tallest seedling. Write the height.
   - Note: Moong seedlings grow quickly, up to 10 or 15 centimetres in two weeks. The pot needs light but not strong midday sun, which can dry it. Do not add anything to the water.
   - Wait: Water every day, and measure on days 4, 9 and 15.
 - **p1s4 (20 min)**  
-  *Parent does:* On day 16, cut all the seedlings off at the soil level and weigh them together, fresh. Write the number. Pick out any big bits of root from the soil. Spread the soil and the seedlings on separate trays in the sun to dry.  
+  *Parent does:* On day 16, cut all the seedlings off at the soil level and weigh them together, fresh. Write the number. Pick out any big bits of root from the soil. Spread the two soils and the seedlings on separate trays, side by side in the sun, to dry.  
   *Parent says:* Cut the seedlings off at the soil. Weigh them fresh. Write the number. Spread the soil and the seedlings out to dry in the sun.  
   *Child mode:* Cut the seedlings. Weigh them fresh. Spread the soil and seedlings out to dry.
-  - Note: Eight seedlings may weigh about 8 to 15 grams fresh, while the seeds weighed about 1 gram when dry. Most of that fresh mass is water. That is why you must dry them to compare fairly. The soil should dry for two days.
+  - Note: Eight seedlings typically weigh about 5 to 15 grams fresh, while the seeds weighed less than 1 gram when dry. Most of that fresh mass is water. That is why you must dry them to compare fairly. The soil should dry for two days.
   - Check: The seedlings weigh much more fresh than the seeds weighed dry. Where did most of the extra mass come from? → **Water, and a little from the air**
 - **p1s5 (7 min)**  
-  *Parent does:* Weigh the dried soil and write the number. Weigh the dried seedlings and write the number. Compare the soil with the 200 grams at the start. Then say what I think, what I saw, and why.  
-  *Parent says:* Weigh the dried soil. Is it still about 200 grams? Weigh the dried seedlings. What do you notice?  
+  *Parent does:* Weigh the dried soil from each pot and write the numbers. Weigh the dried seedlings and write the number. Compare the two soils with each other and with the 200 grams at the start. Then say what I think, what I saw, and why.  
+  *Parent says:* Weigh the dried soil from both pots. Is it still about 200 grams, and is the seed pot lighter than the other? Weigh the dried seedlings. What do you notice?  
   *Child mode:* Weigh the dried soil and the dried seedlings. Compare with the start.
-  - Note: Expect the dried soil to be within about 2 grams of 200. The dried seedlings will weigh about 1 or 2 grams. A kitchen scale reading in whole grams cannot show tiny changes, so do not claim too much. A good answer sounds like this. What I think: the plants did not get their mass from the soil. What I saw: the soil still weighed about 200 grams, while the seedlings weighed many grams fresh. Why: the mass came mostly from water and from the air.
+  - Note: Expect the two dried soils to be within about 3 grams of each other. If both are well above 200 grams, they are still damp, so dry them one more day. The dried seedlings will probably show 0 or 1 gram, about the same as the dry seeds, because a young seedling lives on the food stored inside the seed. A kitchen scale reading in whole grams cannot show the gain in dry mass, which needs weeks of leaves and a finer scale, so do not claim too much. A good answer sounds like this. What I think: the plants did not get their mass from the soil. What I saw: the seed pot soil weighed about the same as the comparison soil, while the seedlings weighed many grams fresh. Why: the fresh mass is mostly water, and the soil did not give up mass to make it.
   - Think: Van Helmont thought it was all water. Today we know a plant's dry mass is built mostly from carbon dioxide in the air. How could you test that?
 
 ## Challenges
 ### c1 · The Overhang Challenge: how far can a stack stick out? (35 min)
 - **problem:** Stack 8 identical matchboxes, one on each layer, on the edge of a table. Make the stack stick out over the edge as far as possible without falling. Count how many box lengths the top box sticks out beyond the table.
-- **safety:** Work on the floor or a low table, so falling boxes do not hit anyone's toes. Keep small boxes away from small children who put things in their mouths.
+- **safety:** Use empty matchboxes only, never boxes with matches. Work on the floor or a low table, so falling boxes do not hit anyone's toes. Keep small boxes away from small children who put things in their mouths.
 - **your turn:** Sketch your plan. Build it and measure the overhang in box lengths. Change one thing and try again. How far did the best stack stick out? Why do you think it stayed up?
 - **constraints:** Use 8 identical matchboxes, laid flat in the same direction, one box on each layer.; No glue, no tape and no pushing from behind. The stack must stand for 10 seconds on its own.; Measure the overhang from the table edge to the front of the top box.; Build the stack from the bottom up, or from the top down, as you like.
 - **general:** Move each box a little further out than the one below it, by the same step each time. Keep going until the stack is about to fall, and step back one.; Find the furthest step that a single box can move out before it falls, and then build the stack from that idea.; Put one big heavy thing on the back of the stack, on the table, to hold it down.
@@ -551,7 +557,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent says:* You have 8 matchboxes and a table edge. How far can the top box stick out without falling? Half a box? A whole box? Why do you think so?  
   *Child mode:* Eight boxes and a table. How far can the top box stick out? Guess.
   - Ask: Why do you think so? (good: Half a box, or the box falls.; More than a whole box, if you are clever.; Only a little bit.)
-  - Note: Do not correct the guess. Most children and many adults say less than one box length. The answer for 8 boxes is more than one and a quarter box lengths.
+  - Note: Do not correct the guess. Roles: one child builds, one measures the overhang, one writes. With 2 to 4 children, each builds a stack and the group compares scores. One child with a parent: the parent measures and steadies the table. Most children and many adults say less than one box length. The answer for 8 boxes is more than one and a quarter box lengths.
 - **c1s2 (8 min)**  
   *Parent does:* Build the first stack with equal steps. Place the first box on the table, then each box a little further out than the one below. Keep going until it nearly falls. Measure the overhang and write it in box lengths.  
   *Parent says:* Build your first stack. Slide each box out a little further than the one below, by the same step. Stop before it falls. How far does it stick out?  
@@ -567,7 +573,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent does:* Build the stack from the top down. Use steps of a half, a quarter, a sixth, an eighth and so on, of a box length. Measure the total overhang in box lengths. Compare it with your first stack.  
   *Parent says:* Now use the pattern. Build from the top down. The top box sticks out a half. The next step is a quarter, then a sixth. How far does the whole stack stick out now?  
   *Child mode:* Build from the top down. Steps of a half, a quarter, a sixth. Measure again.
-  - Note: With 8 boxes, the total overhang is half of (1 plus one half plus one third plus one quarter plus one fifth plus one sixth plus one seventh plus one eighth). That is about 1.36 box lengths. Real boxes will give a little less, because it is hard to place them exactly. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.
+  - Note: With 8 boxes, the total overhang is half of (1 plus one half plus one third plus one quarter plus one fifth plus one sixth plus one seventh plus one eighth). That is about 1.36 box lengths. Real boxes will give a little less, typically 1.1 to 1.3, because it is hard to place them exactly, so leave a gap of a millimetre or two. Matchboxes are light and slide, so move them gently. If they keep sliding, use small books or blocks. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.
   - Check: With the half, quarter, sixth pattern, the stack sticks out further than the equal-steps stack. Why? → **Each box is placed exactly as far as its pile allows, so no box is wasted**
 - **c1s5 (4 min)**  
   *Parent does:* Compare the stacks. Ask where the centre of gravity of the whole stack lies, and why the stack does not fall.  

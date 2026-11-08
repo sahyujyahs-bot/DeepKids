@@ -283,54 +283,54 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   - Think: If you could make a bounce time shorter, what would you change in a bottle on a band?
 
 ## Experiments
-### e1 · Bounce Time: what changes how fast a spring bounces? (45 min)
+### e1 · Bounce Time: what changes how fast a spring bounces? (40 min)
 - **question:** Does a bigger bounce take longer than a small bounce? And what happens to the bounce time when the load is four times heavier?
 - **predict:** Before you start, make two guesses. First, will a big bounce take longer, shorter or the same time as a small bounce? Second, how will the bounce time change if the load is four times heavier? Say why you think so for each guess.
 - **fair test:** Use the same chain of two bands, the same stick and the same height every time. To test the size of the bounce, only the pull-down changes. To test the load, the pull-down stays at 4 centimetres and only the load changes. Time ten bounces each time, starting the clock at the moment you let go. Do every test three times, because one timing can be a fluke.
-- **safety:** Stand to the side and keep your face away from the bands, in case one snaps. Never use more than 1 kilogram of load. Keep the cushion on the floor under the bag, so that nothing lands on your feet.
+- **safety:** Stand to the side and keep your face away from the bands, in case one snaps. Never use more than 1 kilogram of load. Keep the cushion on the floor under the bag, so that nothing lands on your feet. Put a heavy book on each chair seat so the chairs cannot tip, and keep a grown-up in the room.
 - **record:** Write the time for ten bounces for each test and each try. For each test, find the middle time and divide it by ten to get the time of one bounce. Write your claims for the size of the bounce and for the load, with your evidence and your reasons.
 - **results table:** What we changed | Time for 10 bounces, try 1 (s) | Time for 10 bounces, try 2 (s) | Time for 10 bounces, try 3 (s) | Middle time (s) | Time for one bounce (s)
-- **s1 (5 min)**  
-  *Parent does:* Show your child the bands, the bag and the rice. Ask for two guesses and the reasons. Write them at the top of the page.  
+- **s1 (4 min)**  
+  *Parent does:* Show your child the bands, the bag and the rice. Ask for two guesses and the reasons. Write them at the top of the page. With one child, the parent holds the ruler and the clock while the child pulls and counts. With 2 to 4 children, one rig is enough. One pulls, one holds the ruler, one times and one writes. Swap after each load.  
   *Parent says:* We will bounce a bag of rice on two bands. Will a big bounce take longer than a small bounce? And if the rice is four times heavier, how will the bounce time change? Why do you think so?  
   *Child mode:* A bag bounces on bands. Does a big bounce take longer? What if the bag is four times heavier? Why?
   - Ask: Why do you think a big bounce will take that long? (good: A big bounce goes further, so it takes longer.; A big bounce is faster, so it takes the same time.; A bigger pull makes the bag go faster.)
   - Note: Do not correct the guesses. Many children say a big bounce takes longer, and a heavier load takes twice as long or four times as long. Write whatever they say with the reason.
-- **s2 (8 min)**  
+- **s2 (7 min)**  
   *Parent does:* Lay the stick across the backs of two heavy chairs, about 1 metre apart. Tape both ends down. Link the two bands like a chain and tie one end to the middle of the stick. Hang the bag from the other end. Put the 500 gram packet in the bag.  
   *Parent says:* Link the two bands like a chain. Tie the top band to the stick, and hang the bag from the bottom band. Put one packet in the bag. The bag should hang clear of the floor.  
   *Child mode:* Link the two bands. Tie them to the stick. Hang the bag. Put one packet in.
   - Note: The bag with the packet should hang at least 10 centimetres off the floor. If the bands stretch so far that they look thin and pale, or longer than three times their relaxed length, add a third band to share the pull, and use that chain for the whole test. Wait for the bag to settle before you start.
   - Check: Why do we use the same bands for all the tests? → **So that only the thing we change can alter the bounce time**
-- **s3 (12 min)**  
+- **s3 (11 min)**  
   *Parent does:* With the 500 gram packet in the bag, pull the bag down 2 centimetres and let go. Time ten bounces. Do this three times. Then pull the bag down 6 centimetres and time ten bounces three times. Write all six times.  
   *Parent says:* Pull the bag down exactly 2 centimetres, let go and count ten bounces. Stop the clock on the tenth. Do it three times. Then pull down 6 centimetres and do it three times more.  
   *Child mode:* Pull the bag down 2 cm. Let go. Time ten bounces. Do it three times. Then 6 cm.
   - Ask: What do you notice about the two sets of times? (good: They are about the same.; The big bounces took about the same time as the small ones.; The big bounces went faster.)
-  - Note: Expect about 7 to 11 seconds for ten bounces with the 500 gram load. The 2 centimetre and 6 centimetre times should be within a second or so of each other. Rubber bands damp the bounce, so count the first ten and stop. If the bounce dies away before ten, count eight and divide by eight. Start the clock when you let go, and call out the count as the bag passes the lowest point.
+  - Note: Expect about 7 to 11 seconds for ten bounces with the 500 gram load. The 2 centimetre and 6 centimetre times should be within a second or so of each other. Rubber bands damp the bounce, so count the first ten and stop. If the bounce dies away before ten, count eight and divide by eight. Start the clock when you let go, and call out the count as the bag passes the lowest point. Pull the bag straight down by the distance on the ruler, and let go without pushing. If it swings sideways, catch it and start again. Rubber bands vary, so your times may differ from these; what matters is the comparison between your own tests.
   - Check: Ten bounces from a 2 cm pull took 8.2 seconds, and ten bounces from a 6 cm pull took 8.4 seconds. What does this suggest? → **The size of the bounce hardly changes the bounce time**
-- **s4 (12 min)**  
+- **s4 (11 min)**  
   *Parent does:* Pull the bag down 4 centimetres every time. Time ten bounces three times with 250 grams, three times with 500 grams and three times with 1000 grams. Write all nine times.  
   *Parent says:* Now we change the load. Use 250 grams, then 500 grams, then 1000 grams. Pull down 4 centimetres each time. Time ten bounces, three times for each load.  
   *Child mode:* Pull down 4 cm each time. Use 250 g, 500 g and 1000 g. Time ten bounces, three times each.
-  - Note: Expect roughly 5 to 8 seconds for 250 grams, 7 to 11 seconds for 500 grams and 10 to 16 seconds for 1000 grams. The 1000 gram time should be about twice the 250 gram time, since 1000 grams is four times 250 grams. Rubber bands follow the rule only roughly, so a result between 1.7 and 2.3 is a good result. Keep the bag low over the cushion, and take the 1000 gram load off at once if the bands look thin and pale.
+  - Note: Typical times for ten bounces, though bands differ: roughly 5 to 8 seconds for 250 grams, 7 to 11 seconds for 500 grams and 10 to 16 seconds for 1000 grams. The 1000 gram time should be longer than the 250 gram time by a factor of about 2, since 1000 grams is four times 250 grams. Rubber bands stiffen when they are stretched a lot, so the factor is often a little under 2, perhaps 1.5 to 2.1. Any clear increase of about this size supports the idea. Keep the bag low over the cushion, and take the 1000 gram load off at once if the bands look thin and pale.
   - Check: Ten bounces took 5 seconds with 250 grams. About how long do you expect for 1000 grams? → **About 10 seconds**
   - Think: How much longer do you expect 1000 grams to take than 250 grams?
-- **s5 (8 min)**  
+- **s5 (7 min)**  
   *Parent does:* Find the middle time for each test. Divide each by ten for one bounce. Look at your first guesses. Write three sentences for the size of the bounce, and three for the load: claim, evidence and reasoning.  
   *Parent says:* What did you think? What did you find? Why did the load change the bounce time, but not the size of the bounce? Write what you think, what you saw and why.  
   *Child mode:* Find the middle time for each test. Was your guess right? Write what you think, what you saw and why.
   - Ask: Why does the size of the bounce not change the time, when the load does? (good: A bigger pull speeds the bag up, so the bounce takes the same time.; A heavier bag is harder to speed up.; The spring and the load set the beat.)
-  - Note: The ratio of the 1000 gram time to the 250 gram time is the key number. A ratio near 2 matches the square root rule. If yours is much different, check that every test used the same pull-down and the same bands.
+  - Note: The ratio of the 1000 gram time to the 250 gram time is the key number. A ratio near 2 matches the square root rule, and a ratio of 1.5 to 2.1 is typical for rubber. The size of the bounce should change the time very little. If your results are very different, check that every test used the same pull-down and the same bands.
 ### e2 · The Favourite Beat: which shake builds the biggest bounce? (35 min)
 - **question:** If you move the top end of a band up and down at different speeds, which speed makes a hanging bag bounce the most? And does the best speed change when the bag is heavier?
 - **predict:** Before you start, guess. Will a slow shake, a medium shake or a fast shake make the bag bounce the most? Will a heavier bag want a faster or a slower shake? Why do you think so?
 - **fair test:** Use the same bands, the same bag and the same size of hand movement every time, about 2 centimetres up and down. Only the speed of your hand changes. Shake at each speed for ten ups and downs, and measure the biggest bounce of the bag against the ruler. Then change only the load.
-- **safety:** Stand to the side and keep your face away from the bands. Keep the cushion on the floor under the bag. Never use more than 1 kilogram of load.
+- **safety:** Stand to the side and keep your face away from the bands. Keep the cushion on the floor under the bag. Never use more than 1 kilogram of load. A grown-up stays in the room, and a bag that swings wildly is caught and stopped, not hit.
 - **record:** Write the biggest bounce for each hand speed, once for 500 grams and once for 1000 grams. Circle the speed that gave the biggest bounce each time. Write what you found, and why.
 - **results table:** Time for one hand movement up and down (s) | Beats each minute | Biggest bounce of the bag with 500 g (cm) | Biggest bounce of the bag with 1000 g (cm)
 - **s1 (4 min)**  
-  *Parent does:* Show your child the bands and the bag. Say that you will shake the top end of the bands at different speeds. Write the guess and the reason.  
+  *Parent does:* Show your child the bands and the bag. Say that you will shake the top end of the bands at different speeds. Write the guess and the reason. With one child, the parent is the helper. With 2 to 4 children: one shakes, one reads the ruler, one calls the time or watches the metronome, one writes. Swap after each load.  
   *Parent says:* I will hold the top of the bands and move my hand up and down, a small amount. Which speed will make the bag bounce the most, slow, medium or fast? Why do you think so?  
   *Child mode:* Move the top of the bands up and down. Which speed makes the bag bounce most? Why?
   - Ask: Why do you think that speed will make the biggest bounce? (good: The fastest hand will make the biggest bounce.; A speed in the middle matches the bag's own beat.; Slow shaking makes the biggest bounce, because the bag can follow.)
@@ -345,13 +345,13 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Parent says:* Move your hand up and down once for each tick. Keep the movement small, about 2 centimetres. After ten ups and downs, the helper tells us how big the bag's bounce got. Then we speed up.  
   *Child mode:* Move your hand up and down to the ticks. Ten times at each speed. How big does the bag bounce?
   - Ask: At which speed did the bag bounce the most? (good: At the speed close to the bag's own beat.; Not the fastest, and not the slowest.; At about the speed we measured in the last step.)
-  - Note: The bag should bounce a lot more than the hand moves when the beat is close to its own, perhaps 5 to 10 centimetres for a 2 centimetre hand movement. At a much slower beat, the bag just follows the hand. At a much faster beat, it hardly moves at all. Rubber damps the bounce, so the best speed is a range rather than a single value. If you have no metronome, count seconds aloud against a clock, and move your hand once on each count.
+  - Note: The bag should bounce more than the hand moves when the beat is close to its own, perhaps 4 to 10 centimetres for a 2 centimetre hand movement, though rubber bands vary. At a much slower beat, the bag just follows the hand. At a much faster beat, it hardly moves at all. Rubber damps the bounce, so the best speed is a range rather than a single value. Read the biggest bounce as the distance between the highest and lowest place of the bottom of the bag. Hang the top loop over a pencil that you hold, so that the band cannot slip off your finger. No metronome? Use the stopwatch: the helper says go and stop, and you must finish ten ups and downs in 20 seconds (30 a minute), 15 seconds (40), 10 seconds (60), 7.5 seconds (75-80), 6 seconds (100) or 4 seconds (150).
   - Check: The bag's own beat is 80 beats a minute. At which hand speed do you expect the biggest bounce? → **About 80 beats a minute**
 - **s4 (8 min)**  
   *Parent does:* Add the second packet, so that the bag holds 1000 grams. Ask your child to guess whether the best speed is faster or slower. Test the same six speeds. Write the biggest bounce for each.  
   *Parent says:* Now the bag is twice as heavy. Will its favourite beat be faster or slower? Test the same six speeds and find out.  
   *Child mode:* Make the bag heavier. Will its favourite beat be faster or slower? Test it.
-  - Note: A heavier load has a slower natural beat, about 0.7 times the beat of the 500 gram load, since the square root of 2 is about 1.4. So the best speed should drop from about 80 beats a minute to about 57. The nearest speeds to test are 60 and 40. The 60 will give the biggest bounce.
+  - Note: A heavier load has a slower natural beat, about 0.7 times the beat of the 500 gram load, since the square root of 2 is about 1.4. So the best speed should drop from about 80 beats a minute to about 57. The nearest speeds to test are 60 and 40, and 60 will probably give the biggest bounce, though with soft bands the two may be close. If so, say that the best speed is between them.
   - Think: Why would a heavier bag want a slower shake?
 - **s5 (5 min)**  
   *Parent does:* Look at your table. Circle the biggest bounce in each column. Write a claim, evidence and reasoning about the favourite beat and the load.  
@@ -361,11 +361,11 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   - Think: If you shook much harder at the wrong beat, would the bounce grow? Try it.
 
 ## Activities
-### a1 · The Stiffness League: which stretchy thing is stiffest? (25 min)
-- **safety:** A grown-up takes the spring out of the pen, because it can spring out and the small parts are easy to lose. Keep the load low over a cushion, and stop if a band looks thin and pale.
-- **record:** A table with each thing, its relaxed length, its length with the load, its extension and its stiffness. A bar chart of the stiffness of the four things.
+### a1 · The Stiffness League: which stretchy thing is stiffest? (28 min)
+- **safety:** A grown-up takes the spring out of the pen, because it can spring out and the small parts are easy to lose. Count the pieces back afterwards, and keep them from the youngest child's mouth. Keep the load low over a cushion, and stop if a band looks thin and pale.
+- **record:** A table with each thing, its relaxed length, its length with the load, its extension and its stiffness. A bar chart of the stiffness of the four things. The extension of the spring and the wide band with 250 grams and with 500 grams.
 - **s1 (5 min)**  
-  *Parent does:* Line up the four things. Ask your child to guess the order, from softest to stiffest, and to say why. Write the guess down.  
+  *Parent does:* Line up the four things. Ask your child to guess the order, from softest to stiffest, and to say why. Write the guess down. With one child, the parent measures while the child hangs and writes. With 2 to 4 children, each child tests a different thing, then everyone shares the numbers and draws the chart.  
   *Parent says:* Pull each thing gently with your fingers. Which feels softest and which feels stiffest? Put them in order and say why.  
   *Child mode:* Pull each thing gently. Put them in order, softest to stiffest. Why?
   - Ask: How can you tell which thing is stiffest? (good: It is the hardest to stretch.; It needs the biggest pull for the same stretch.; It stretches the least under the same load.)
@@ -374,22 +374,22 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Parent does:* Measure the relaxed length of the first thing. Hang the 250 gram bag from it and wait for it to stop moving. Measure the new length. Take away the first to get the extension. Do this for all four.  
   *Parent says:* Measure the relaxed length. Hang the bag and wait. Measure again. The extension is the second length minus the first. Do this for each thing.  
   *Child mode:* Measure the length. Hang the bag. Measure again. Take away the first number.
-  - Note: The load is the same for every thing, which is what makes this a fair test. Measure each thing from the same two places, for example from the hook to the bottom of the knot. A grown-up should take the spring out of the pen. A pen spring may stretch very little, perhaps 1 or 2 centimetres, so measure it carefully.
+  - Note: The load is the same for every thing, which is what makes this a fair test. Measure each thing from the same two places, for example from the hook to the bottom of the knot. A grown-up should take the spring out of the pen. A pen spring may stretch very little, perhaps 1 or 2 centimetres, so measure it carefully. Hang the load gently, do not drop it. Wait about 10 seconds, because a band creeps a little longer. Measure a band or a hair tie as a loop, from end to end, lying relaxed.
   - Check: Why must the load be the same for all four things? → **So that the differences in stretch come from the things, not from the load**
-- **s3 (7 min)**  
-  *Parent does:* Work out each stiffness. Divide 2.5 newtons by the extension in centimetres. Draw a bar chart with four bars.  
+- **s3 (10 min)**  
+  *Parent does:* Work out each stiffness. Divide 2.5 newtons by the extension in centimetres. Draw a bar chart with four bars. Then hang a second 250 gram packet too (500 grams in all) on the pen spring and on the wide band. Does the stretch double?  
   *Parent says:* The load is 2.5 newtons. Divide it by the extension in centimetres. A bigger answer means a stiffer thing. Draw a bar for each one.  
   *Child mode:* Divide 2.5 by each extension. A bigger answer is stiffer. Draw a bar for each.
-  - Note: For example, an extension of 5 centimetres gives 2.5 divided by 5, which is 0.5 newtons for each centimetre. A pen spring might give 1 to 3. A wide band might give 0.3 to 1. A thin band is usually softer than a wide band of the same length.
+  - Note: For example, an extension of 5 centimetres gives 2.5 divided by 5, which is 0.5 newtons for each centimetre. Typical values, which will differ with your things: a pen spring 1 to 3, a wide band 0.3 to 1. A thin band is usually softer than a wide band of the same length. With 500 grams, a pen spring stretches about twice as far as with 250 grams, because a spring follows the rule that double the pull gives double the stretch. A rubber band may stretch more or less than double, because it is not so regular. Say what you saw, whatever it is.
   - Check: A thing stretches 5 cm under 2.5 N. A second thing stretches 1 cm under 2.5 N. Which is stiffer, and how many times? → **The second, 5 times as stiff**
 - **s4 (3 min)**  
   *Parent does:* Look at the chart. Compare it with your first guess. Ask your child which thing surprised them most.  
   *Parent says:* Was the order what you guessed? Which thing surprised you most? What would you use the stiffest thing for, and the softest?  
   *Child mode:* Was your order right? Which thing surprised you most?
   - Think: If you hang the same load on two bands side by side, how stiff is the pair?
-### a2 · Hot Lip: the band that warms when you stretch it (10 min)
-- **safety:** Do not do this if you are allergic to rubber. Hold the band in both hands, stretch it only to about three times its length, and never let go of it near your face. Stop if a band looks thin or cracked.
-- **record:** A table with three tests: a quick stretch, a held stretch then a release, and a slow stretch. For each, write warm, cool or no change.
+### a2 · Hot Lip: the band that warms when you stretch it (15 min)
+- **safety:** Do not do this if you are allergic to rubber. Each child uses their own band, because it touches the lip. Hold the band in both hands, stretch it only to about three times its length, point it away from the eyes, and never let go of it near your face. Old or sun-dried bands snap more easily, so stop if a band looks thin or cracked.
+- **record:** A table with three tests: a quick stretch, a held stretch then a release, and a slow stretch. For each, write warm, cool or no change. A blind-test score out of 6.
 - **s1 (2 min)**  
   *Parent does:* Show your child the thick band. Ask whether it will feel warm, cool or the same on the lip after a quick stretch. Write the guess.  
   *Parent says:* I will stretch the band and touch it to my lip. Will it feel warm, cool or the same? Why do you think so?  
@@ -399,7 +399,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Parent does:* Hold the band against your upper lip. Stretch it quickly to about three times its length. Feel it. Hold it stretched for 5 seconds, and then relax it quickly against the lip and feel it again.  
   *Parent says:* Hold the band to your lip. Stretch it fast, to three times its length. Is it warm? Hold it stretched for five seconds. Now let it relax and touch your lip again. Is it cool?  
   *Child mode:* Stretch the band fast. Feel it on your lip. Hold, then relax it. Feel again.
-  - Note: The change is small, about a degree or a few degrees, but a lip is sensitive. Stretch the band as fast as you can, and touch it within a second. The relaxed band should feel cool. If you feel nothing, try a thicker band or stretch it further.
+  - Note: The change is small, about a degree or a few degrees, but a lip is sensitive. Stretch the band as fast as you can, and touch it within a second. The relaxed band should feel cool. If you feel nothing, try a thicker band or stretch it further. In hot weather the band is already near body warmth, so the warm feel is small and the cool feel after release is easier to notice. Work in the coolest room.
   - Check: A band feels warm right after it is stretched and cool right after it is let go. What is the best explanation? → **Stretching lines up the rubber chains and gives out heat. Relaxing lets them tangle, which takes heat in**
 - **s3 (4 min)**  
   *Parent does:* Stretch another band very slowly, over about 30 seconds, and touch it to your lip. Compare this with the quick stretch. Write what you find.  
@@ -407,32 +407,38 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Child mode:* Stretch a band very slowly. Touch it to your lip. Is it as warm?
   - Note: A slow stretch gives the heat time to spread into the air and your fingers, so it hardly feels warm. This is one reason you must be quick.
   - Think: Why would a slow stretch feel less warm than a fast stretch?
-### a3 · Tired Clip: how many bends before it breaks? (20 min)
-- **safety:** A grown-up bends the clips. The broken ends are sharp and can fly. Hold the clip low, over the tray, and keep your face away. The bend gets warm, so touch it gently. Throw the pieces away safely.
+- **s4 (5 min)**  
+  *Parent does:* Blind test. One child shuts their eyes. Their partner tosses a coin six times in secret. On heads, the partner stretches the band quickly and touches the child's lip. On tails, the partner touches it with the unstretched band. The child says warm or no change each time. Count how many are right out of 6. With one child, the parent is the partner. With 2 to 4 children, take turns, with one as the coin-tosser and one as the writer.  
+  *Parent says:* Close your eyes. I will touch the band to your lip, sometimes stretched and sometimes not. Tell me warm or no change. Let us see how many you get right out of 6.  
+  *Child mode:* Shut your eyes. Say warm or no change. How many are right out of 6?
+  - Note: Pure guessing gets about 3 right out of 6. A score of 5 or 6 shows that the warmth is real and not imagined. If the score is low, stretch further and faster, touch within a second, and say honestly that the warming is small.
+  - Think: Why do we use a coin and closed eyes?
+### a3 · Tired Clip: how many bends before it breaks? (25 min)
+- **safety:** A grown-up bends the clips, or watches closely if an older child does it. The broken ends are sharp and can fly. Hold the clip low, over the tray, and keep your face away. The bend gets warm, so touch it gently. Count the pieces and throw them away safely, out of reach of small children.
 - **record:** A table with the angle of bend, the number of bends before the clip broke, and whether the bend felt warm.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* A grown-up bends one clip a little and lets go, and then bends another a lot and lets go. Ask your child what happened in each case. Ask them to guess how many back and forth bends it takes to break a clip.  
+  *Parent does:* A grown-up bends one clip a little and lets go, and then bends another a lot and lets go. Ask your child what happened in each case. Ask them to guess how many back and forth bends it takes to break a clip. First open each clip out into a straight wire, gently. Then every clip is bent at a fresh spot in the middle. With one child, the parent bends and the child counts. With 2 to 4 children, one counts, one touches the bend, one writes.  
   *Parent says:* The first clip sprang back. The second stayed bent. Now I will bend a clip back and forth. How many bends do you think it will take to break? Why?  
   *Child mode:* One bend: the clip springs back or stays bent. How many bends to break it?
   - Ask: Why do you think the clip will break after that many bends? (good: Each bend wears it out a little.; It needs a lot of bends, because a clip is tough.; It will break at the first big bend.)
   - Note: A small bend stays inside the elastic limit and the clip springs back. A big bend goes past the limit and the clip stays bent. Do not correct the guess. Write it down.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* A grown-up bends a clip back and forth by about 90 degrees, one bend each way counts as one. The child counts aloud. Touch the bend lightly between bends. Stop when the clip breaks. Do this with 2 clips.  
+  *Parent does:* A grown-up bends a clip wire back and forth by about 90 degrees against the paper guide. One bend each way counts as one. The child counts aloud. Touch the bend lightly between bends. Stop when the clip breaks. Do this with 3 clips.  
   *Parent says:* I bend the clip back, and then forward. That is one bend. You count out loud. Touch the bend lightly. Is it warm? Stop when it breaks.  
   *Child mode:* Count each bend aloud. Touch the bend lightly. Is it warm? Stop when it breaks.
-  - Note: A plain steel clip usually breaks after about 5 to 20 bends of 90 degrees. The bend feels warm. The break usually starts at the outside of the bend, where the metal is stretched most. Keep the clip low over a tray. Wear glasses if you have them.
+  - Note: Typical: a plain steel clip often breaks after about 5 to 20 bends of 90 degrees, but clips differ a lot, so use the middle of your three. The bend feels warm. The break usually starts at the outside of the bend, where the metal is stretched most. Keep the clip low over a tray. Wear glasses if you have them.
   - Check: A clip bends fine once, but snaps after 12 bends back and forth. What is the best explanation? → **Each bend leaves a tiny change, and tiny cracks grow until it snaps**
-- **s3 (7 min) · grown-up needed**  
-  *Parent does:* Bend two more clips back and forth by about 45 degrees. Count the bends to break. Compare with the 90 degree clips. Write what you find.  
-  *Parent says:* Now bend a clip by only half as far, about 45 degrees. Count the bends until it breaks. Does it take more bends or fewer?  
+- **s3 (12 min) · grown-up needed**  
+  *Parent does:* Bend three more clip wires back and forth by about 45 degrees, using the guide. Count the bends to break. Compare the middle count with the 90 degree clips. Write what you find.  
+  *Parent says:* Now bend a clip by only half as far, about 45 degrees, three times. Count the bends until each breaks. Does it take more bends or fewer?  
   *Child mode:* Bend clips by a smaller angle. Count the bends. More bends or fewer?
-  - Note: A smaller bend usually takes many more bends, often three times as many or more. If a clip does not break after 50 bends, stop and call it a long-lasting one. This shows why engineers keep bends small in parts that flex many times.
+  - Note: A smaller bend usually takes many more bends, often three times as many or more, but the numbers vary a lot. If a clip does not break after 50 bends, stop and write 50 or more. This shows why engineers keep bends small in parts that flex many times.
   - Think: Why might a smaller bend take more bends to break the clip?
-### a4 · The Tape Measure Snap: why a thin strip folds suddenly (15 min)
-- **safety:** A grown-up holds the tape measure. The tape edge is sharp and can cut, and it can snap back fast. Keep your fingers away from the tape's edge, and never let it spring back. Press the end gently.
-- **record:** A drawing of the tape standing out, the tape kinked, and a note about what flattening the curve did.
+### a4 · The Tape Measure Snap: why a thin strip folds suddenly (19 min)
+- **safety:** A grown-up holds the tape measure. The tape edge is sharp and can cut, and it can snap back fast. Keep your fingers away from the tape's edge, keep faces away from above the tape, and never let it spring back. Press the end gently.
+- **record:** A drawing of the tape standing out, the tape kinked, and a note about what flattening the curve did. How far the curved tape, the card strip and the pinched tape stand out before they droop.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* A grown-up pulls out 30 centimetres of tape. Ask your child to predict what will happen when the end is pressed.  
+  *Parent does:* A grown-up stands the tape measure on the table with the case flat. The grown-up pulls 30 centimetres of tape straight up and locks it. With one child, the parent holds and the child presses. With 2 to 4 children, one presses, one watches the middle, one writes.  
   *Parent says:* The tape is sticking out straight. If I press the end gently, what will happen? Will it bend slowly or suddenly?  
   *Child mode:* The tape stands out straight. What happens when the end is pressed?
   - Ask: What do you think will happen when you press the end? (good: It will bend slowly.; It will fold suddenly.; It will stay straight.)
@@ -443,17 +449,17 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Child mode:* Press the end gently. Does the tape bend slowly or all at once?
   - Note: Press gently along the tape, not sideways. Keep your fingers off the edge. The tape's curved cross-section makes it stiff, and it stays straight until the push passes a limit. Then it flips into a fold. This is buckling. A flat strip of card bends smoothly, with no sudden snap, and you can try it for comparison.
   - Check: The tape stays straight as you press harder, and then folds suddenly. What does this tell you? → **There is a limit to the push, and passing it makes the tape fold all at once**
-- **s3 (5 min) · grown-up needed**  
-  *Parent does:* Squeeze the tape flat between your finger and thumb. Press the end again. Compare it with the first time. Try a flat card strip for comparison.  
+- **s3 (9 min) · grown-up needed**  
+  *Parent does:* Squeeze the tape flat between your finger and thumb, and press the end again. Compare it with the first time. Now lay the case on the table edge and slowly pull the tape out sideways. Measure how far it stands out before it droops. Do the same with the card strip held at one end, and then pinch the tape flat just outside the case.  
   *Parent says:* Squeeze the tape flat for a moment. Now it is floppy. Why is the curved tape stiff, and the flat tape floppy?  
   *Child mode:* Squeeze the tape flat. Is it still stiff? Try a flat card strip.
-  - Note: The curve makes the tape like a very shallow tube, and a tube resists bending much more than a flat strip of the same material. Engineers use curved and tubular shapes for the same reason, in bicycle frames, bamboo, drinking straws and aeroplane bodies.
+  - Note: The curve makes the tape like a very shallow tube, and a tube resists bending much more than a flat strip of the same material. Engineers use curved and tubular shapes for the same reason, in bicycle frames, bamboo, drinking straws and aeroplane bodies. Typical: a curved tape stands out about half a metre to over a metre, depending on its width; a flat card strip droops at about 10 to 15 centimetres; a tape pinched flat folds at once. No tape measure? Roll a sheet of paper into a tube and tape it: stood on end, it holds a few books, while the same flat sheet folds at once.
   - Think: Why does a curve make a thin strip stiff?
 ### a5 · The One-Second Bouncer: tune a bag to bounce once each second (25 min)
 - **safety:** Stand to the side and keep your face away from the bands. Never use more than 1 kilogram of load, and keep the cushion under the bag.
 - **record:** A table with each load, the time for ten bounces, the time for one bounce, and a note of whether it is too fast or too slow.
 - **s1 (5 min)**  
-  *Parent does:* Time ten bounces with 500 grams, three times. Find the middle time and divide by ten. Write the bounce time for one bounce.  
+  *Parent does:* Time ten bounces with 500 grams, three times. Find the middle time and divide by ten. Write the bounce time for one bounce. With one child, the parent times and the child counts and writes. With 2 to 4 children, one pulls, one times, one calculates the load, one writes. Swap after each try.  
   *Parent says:* Time ten bounces with half a kilogram, three times. Find the middle time. Divide by ten. That is the time of one bounce. Is it more or less than one second?  
   *Child mode:* Time ten bounces with 500 g. Find one bounce. More or less than one second?
   - Note: A bounce time under one second with 500 grams is usual. For example, 7.5 seconds for ten bounces is 0.75 seconds for one bounce. The task is to make it exactly one second.
@@ -461,14 +467,14 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Parent does:* Work out the load needed. The bounce time must grow from your time to 1 second. Divide 1 by your time, and multiply the answer by itself. Multiply that by 500 grams. Write the load.  
   *Parent says:* We need a bigger bounce time, so we need a heavier load. Divide one second by your time. Multiply the answer by itself. That is how many times heavier. Multiply by 500 grams.  
   *Child mode:* Divide 1 by your time. Multiply the answer by itself. Multiply by 500 g.
-  - Note: Bounce time grows with the square root of the load, so the load grows with the square of the time. For example, a bounce time of 0.75 seconds needs a time of 1 second. 1 divided by 0.75 is 1.33. 1.33 times 1.33 is 1.78. 1.78 times 500 grams is about 890 grams. Use your own numbers. If the answer is over 1000 grams, stop at 1000 grams and choose a stiffer pair of bands to try next.
+  - Note: Bounce time grows with the square root of the load, so the load grows with the square of the time. For example, a bounce time of 0.75 seconds needs a time of 1 second. 1 divided by 0.75 is 1.33. 1.33 times 1.33 is 1.78. 1.78 times 500 grams is about 890 grams. Use your own numbers. If the answer is over 1000 grams, stop at 1000 grams, add a third band to the chain (that makes it softer and slower), and start again from the first step. If your time with 500 grams is already over one second, you need a lighter load.
   - Check: A load of 500 g bounces in 0.5 seconds. About what load will bounce in 1 second? → **About 2000 g**
   - Think: Why do you multiply the answer by itself?
 - **s3 (8 min)**  
   *Parent does:* Weigh out the new load on the kitchen scale. Hang it. Time ten bounces three times. Find the middle time. Write how close it is to ten seconds.  
   *Parent says:* Weigh out the load you worked out. Hang it and time ten bounces, three times. Is the middle time close to ten seconds?  
   *Child mode:* Weigh the new load. Hang it. Time ten bounces. Is it near 10 seconds?
-  - Note: Rubber bands follow the rule only roughly, so you may land within about 10 percent of ten seconds. That is a good result for this activity.
+  - Note: Rubber bands follow the rule only roughly, so you may land within about 10 percent of ten seconds. That is a good result for this activity. Timing by hand is only good to about 0.3 seconds, so a result of 9.5 to 10.5 is a fine place to stop.
 - **s4 (4 min)**  
   *Parent does:* If the time is too short, add a little rice. If it is too long, take a little out. Test again. Stop when ten bounces take between 9.5 and 10.5 seconds.  
   *Parent says:* Too fast, add some rice. Too slow, take some out. Try again. How close can you get to exactly one second a bounce?  
@@ -477,11 +483,11 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 
 ## Projects
 ### p1 · The Wobble Scale: weigh a lump of clay without gravity (50 min, 2 days)
-- **safety:** A ruler can snap if it is bent too far. Flick it gently, and keep your face away from it.
+- **safety:** A ruler can snap if it is bent too far, and plastic can crack into sharp edges. Flick it gently, keep your face away from it, and stop if it cracks. Clay is not food: wash hands afterwards.
 - **record:** A graph of the time for ten wobbles against the mass of the clay, and a table of two mystery lumps with the mass from your wobble scale and the mass from the kitchen scale.
 - **schedule:** day 1: Build the wobble scale. Time ten wobbles with three known lumps. Draw the graph. (25 min); day 2: Find the mass of two mystery lumps from their wobble times. Check each on the kitchen scale. Try the ruler on its side. (25 min)
 - **s1 (5 min)**  
-  *Parent does:* Hold the ruler under a heavy book, with 20 centimetres sticking out over the table edge. Ask your child to guess what happens to the wobble when the clay is heavier, and why.  
+  *Parent does:* Hold the ruler under a heavy book, with 20 centimetres sticking out over the table edge. Ask your child to guess what happens to the wobble when the clay is heavier, and why. Tape the ruler down over the book as well. Press the clay firmly round the end, with a strip of tape over it. With one child, the parent times and the child flicks and counts. With 2 to 4 children, one flicks, one times, one counts, one writes.  
   *Parent says:* A ruler is a springy stick. Put a lump of clay on its end and flick it. If the lump is heavier, will it wobble faster or slower? Why do you think so?  
   *Child mode:* Stick clay on the ruler's end. Flick it. Will a heavier lump wobble faster or slower?
   - Ask: Why do you think a heavier lump will change the wobble? (good: It is harder to move, so it wobbles slower.; The ruler pulls harder, so it wobbles faster.; A heavier lump pulls the end down more.)
@@ -490,7 +496,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Parent does:* Stick the 20 gram lump on the end of the ruler. Flick the end down about 1 centimetre and let go. Time ten wobbles. Do it three times and use the middle time. Do the same with 40 grams and 80 grams.  
   *Parent says:* Stick the lump to the end. Flick the end down a little and let go. Count ten wobbles and stop the clock. Do it three times. Then do the same with the 40 gram and 80 gram lumps.  
   *Child mode:* Stick the clay on the end. Flick. Time ten wobbles. Do three times. Then try heavier clay.
-  - Note: Expect about 3 to 8 seconds for ten wobbles. The 80 gram time should be about twice the 20 gram time, since 80 is four times 20. Use the same flick size each time. If the wobbles die away before ten, count eight and divide.
+  - Note: Typical: about 3 to 8 seconds for ten wobbles with a thin, bendy plastic ruler. The 80 gram time should be about 1.7 to 2 times the 20 gram time, not exactly 2, because the ruler has a little mass of its own. A stiff or thick ruler wobbles faster: if ten wobbles take under 3 seconds, slide more of the ruler out, or time 20 wobbles and halve. If the ruler droops more than about 5 centimetres under the 80 gram lump, slide less out. Use the same flick size each time. If the wobbles die away before ten, count eight and divide.
   - Check: Ten wobbles take 4 seconds with 20 grams. About how long do you expect for 80 grams? → **About 8 seconds**
 - **s3 (8 min)**  
   *Parent does:* Draw a graph with the mass in grams along the bottom and the time for ten wobbles up the side. Plot the three points. Draw a smooth curve through them, and carry it from 0 to 100 grams.  
@@ -498,18 +504,18 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Child mode:* Plot three points. Draw a smooth curve through them.
   - Note: The curve should bend over, rising quickly at first and then more slowly. Do not draw a straight line. Do not extend the curve far past 80 grams.
 - **s4 (12 min)**  
-  *Parent does:* On day 2, stick a mystery lump on the ruler. Time ten wobbles three times. Find the time on your graph, go across to the curve, and then down to the mass. Do the same for the second lump. Weigh both on the kitchen scale and compare.  
+  *Parent does:* On day 2, stick a mystery lump on the ruler. Time ten wobbles three times. Find the time on your graph, go across to the curve, and then down to the mass. Do the same for the second lump. Weigh both on the kitchen scale and compare. With 2 or more children, each shapes a mystery lump in secret for another to weigh by wobble.  
   *Parent says:* Day two. Time ten wobbles of a mystery lump. Find the time up the side of the graph, go across to the curve and down to read the mass. Then check it on the kitchen scale.  
   *Child mode:* Time a mystery lump. Use the graph to read its mass. Check it on the kitchen scale.
   - Ask: How close was your wobble scale to the kitchen scale? (good: It was within a few grams.; It was close for one lump and not so close for the other.; It worked, which is surprising for a ruler.)
-  - Note: A difference of 10 to 15 percent is a good result for a ruler. Use mystery lumps that weigh between 20 and 80 grams, so that the graph can be trusted. Lumps that are heavier or lighter than your known ones are out of range.
+  - Note: A difference of 10 to 15 percent is a good result for a ruler. Use mystery lumps that weigh between 20 and 80 grams, so that the graph can be trusted. Lumps that are heavier or lighter than your known ones are out of range. Wobble times of the same lump can differ by a few tenths of a second, so use the middle of three.
 - **s5 (13 min)**  
-  *Parent does:* Turn the ruler on its side, clamped under the book so it can wobble left and right along the table top. Stick on the 40 gram lump. Time ten wobbles. Compare with the up and down wobble.  
-  *Parent says:* Now the ruler wobbles sideways, along the table. Gravity does not pull along the wobble. Time ten wobbles with 40 grams. Is it the same as before?  
-  *Child mode:* Turn the ruler on its side. Flick it sideways. Time ten wobbles with 40 g.
-  - Note: The time should be close to the up and down time, within about 10 percent. This is the idea behind the astronaut's mass scale. Weight needs gravity, but a wobble depends only on the mass and the stiffness.
-  - Check: A ruler with a lump of clay wobbles at the same beat when laid on its side. What does this show? → **The beat depends on the mass and the stiffness, not on gravity**
-  - Think: If the time is the same, does the wobble need gravity?
+  *Parent does:* Keep the 40 gram lump on the end and change only how much ruler sticks out. Try 15, 20 and 25 centimetres. Time ten wobbles three times at each. Compare the three middle times.  
+  *Parent says:* Now we change the ruler, not the clay. A short ruler is stiff and a long ruler is soft. Which will wobble faster? Time ten wobbles at 15, 20 and 25 centimetres with the 40 gram lump.  
+  *Child mode:* Change how much ruler sticks out: 15, 20 and 25 centimetres. Time ten wobbles with 40 g.
+  - Note: The shorter ruler is stiffer and should wobble faster, and the longer one slower. Typical: 15 centimetres may take about half the time of 25 centimetres, but rulers differ. This is the idea behind the astronaut's mass scale. Weight needs gravity, but a wobble depends only on the mass and the stiffness. Gravity only bends the ruler down a little and then the wobble goes on around that place, so the same scale works in space.
+  - Check: With the same clay, a ruler sticking out 15 centimetres wobbles faster than the same ruler sticking out 25 centimetres. What does this show? → **The beat depends on the stiffness as well as the mass**
+  - Think: The clay is pulled down by gravity, but does the wobble need gravity? What sets the beat?
 
 ## Challenges
 ### c1 · Soft Landing: keep a stack of coins standing (40 min)
@@ -776,9 +782,10 @@ Grip and Glide (sci.forces.L4): Topic-level song
 - [CSIR-National Physical Laboratory](https://www.nplindia.org) · place · New Delhi: India's keeper of standard units, including the clocks that keep Indian Standard Time. For parents: how time is kept for the whole country.
 
 ## Things to buy
-- [Wide rubber bands, about 6 millimetres wide, in a mixed pack](https://www.amazon.in/s?k=wide+rubber+bands+stationery) (material): For the Bounce Time test, the Favourite Beat test, the Stiffness League and the Soft Landing challenge. A packet from a stationery shop costs a few rupees. Used in e1, e2, a1, c1. 
-- [A small digital kitchen scale that shows grams](https://www.amazon.in/s?k=digital+kitchen+scale+1g) (tool): For weighing out rice and clay in the Bounce Time test, the Stiffness League, the One-Second Bouncer and the Wobble Scale. Used in e1, a1, a5, p1. 
+- [Wide rubber bands, about 6 millimetres wide, in a mixed pack](https://www.amazon.in/s?k=wide+rubber+bands+stationery) (material): For the Bounce Time test, the Favourite Beat test, the Stiffness League and the Soft Landing challenge. A packet from a stationery shop costs a few rupees. Hot Lip needs a few thick ones, about 1 centimetre wide. Used in e1, e2, a1, a2, c1. 
+- [A small digital kitchen scale that shows grams (optional: borrow one, or ask a kirana or jeweller to weigh things)](https://www.amazon.in/s?k=digital+kitchen+scale+1g) (tool): For weighing exact loads in the One-Second Bouncer, and clay in the Wobble Scale. It costs a few hundred rupees, so borrow one or use a shop's scale. Water in a bottle can replace it for the loads, and sealed packets with their weight on them do in the Bounce Time test and the Stiffness League. Used in a5, p1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the lumps in the Wobble Scale. A small pack from a stationery shop is enough. Used in p1. 
+- [A steel tape measure, 3 metres, with a lock button](https://www.amazon.in/s?k=steel+measuring+tape+3+metre) (tool): For the Tape Measure Snap. A plain one costs about Rs 50 to 100 at a hardware shop. If you cannot find one, a rolled sheet of paper shows the same idea. Used in a4. 
 
 ## Warm-up
 - What does the stiffness of a spring tell you? → How much pull it needs for each centimetre it stretches.

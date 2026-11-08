@@ -382,8 +382,8 @@
    "context": "This is a guessing game. Each card shows a dead or leftover thing. You decide which crew will deal with it, and then say why.",
    "setup": [
     {
-     "art": "Twenty-four cards in a shuffled pile in the middle of a table, with tokens in four groups.",
-     "caption": "1. Cut out the 24 cards and the 8 tokens. Shuffle the cards into a pile."
+     "art": "Twenty-four cards in a shuffled pile in the middle of a table, with tokens in groups of four.",
+     "caption": "1. Cut out the 24 cards and the 16 tokens. Shuffle the cards into a pile."
     },
     {
      "art": "One child reading a card aloud while the other players each put a token face down.",
@@ -499,8 +499,16 @@
     },
     {
      "kind": "tokens",
-     "title": "8 tokens: two that say Scavenger, two that say Shredder, two that say Digester and two that say Nobody yet",
+     "title": "16 tokens in four sets of four: Scavenger, Shredder, Digester and Nobody yet in each set",
      "items": [
+      "Scavenger",
+      "Shredder",
+      "Digester",
+      "Nobody yet",
+      "Scavenger",
+      "Shredder",
+      "Digester",
+      "Nobody yet",
       "Scavenger",
       "Shredder",
       "Digester",
@@ -525,10 +533,10 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
-     "say": "These cards show dead things or leftovers. Each player gets four tokens: Scavenger, Shredder, Digester and Nobody yet. We will guess who comes to eat each thing.",
+     "do": "Cut out the 24 cards and the 16 tokens. Shuffle the cards and put them in a pile. Give each player one set of four tokens, one of each kind.",
+     "say": "These cards show dead things or leftovers. Each player gets one set of four tokens: Scavenger, Shredder, Digester and Nobody yet. We will guess who comes to eat each thing.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take four tokens.",
-     "parent": "Fold each card down the middle so the front is on one side and the back on the other, or glue the sheets back to back. A Scavenger finds dead animals and eats them. A Shredder chews dead things small. A Digester pours on enzymes. Nobody yet means no cleanup crew can eat it.",
+     "parent": "The game suits one child with a parent, or 2 to 4 children; a lone child plays against the cards. For fewer than 4 players, put the spare tokens away. Fold each card down the middle so the front is on one side and the back on the other, or glue the sheets back to back. A Scavenger finds dead animals and eats them. A Shredder chews dead things small. A Digester pours on enzymes. Nobody yet means no cleanup crew can eat it.",
      "context": "This is the first step of Cleanup Crew. You set up the cards and the tokens."
     },
     {
@@ -553,7 +561,7 @@
        ]
       }
      ],
-     "parent": "Stop and talk about any card that is hard. A termite is a Shredder (detritivore) who also has microbes in her gut, so the card makes a good talking point. Keep the score light. Learning from the backs is the point.",
+     "parent": "Stop and talk about any card that is hard. A termite is a Shredder (detritivore) who also has microbes in her gut, so the card makes a good talking point. If time is short, play 12 cards. Keep the score light. Learning from the backs is the point.",
      "check": {
       "t": "mcq",
       "q": "A fungus pours enzymes on a fallen branch and soaks up the food. Which crew is she?",
@@ -601,7 +609,7 @@
      "qty": 3
     },
     {
-     "item": "3 small steel katoris or small cups that stand inside a jar",
+     "item": "3 small cups or katoris that stand inside a jar (a clear glass cup shows the milkiness best; a steel katori also works, look at the top of the liquid)",
      "qty": 3
     },
     {
@@ -610,15 +618,15 @@
      "buy": "b-chuna"
     },
     {
-     "item": "soil from a healthy potted plant, or nursery potting soil, about 8 tablespoons",
+     "item": "soil from a healthy potted plant or a garden, about 8 tablespoons (not sterile bagged mix)",
      "qty": 8
     },
     {
-     "item": "a few finely chopped vegetable peels, such as carrot or banana, about 2 tablespoons",
+     "item": "a few finely chopped vegetable peels, such as carrot or banana, about 2 tablespoons, and half a teaspoon of jaggery powder or sugar",
      "qty": 2
     },
     {
-     "item": "a jug with 1 litre of tap water, a spoon, a drinking straw and a clear glass",
+     "item": "a jug with 1 litre of tap water, a spoon, a drinking straw, a clear glass, and a clean cloth or coffee filter to strain the limewater",
      "qty": 1
     },
     {
@@ -626,8 +634,8 @@
      "qty": 1
     }
    ],
-   "safety": "Chuna can burn skin and eyes. Only a grown-up handles it. Never taste chuna or limewater. If any splashes in an eye, rinse with plenty of clean water for several minutes and call a doctor. Blow out through the straw only, never suck. Keep jar B sealed, labelled, and on a separate fridge shelf away from food. Wash hands after touching soil and jars. Open the jars outdoors or near a window, because they may smell, and do not put your nose inside.",
-   "record": "Draw the three jars. Write the colour of the limewater in each katori after 1 day and after 2 days. Mark which jar sat in the fridge.",
+   "safety": "Chuna can burn skin and eyes. Only a grown-up handles it. Never taste chuna or limewater. If any splashes in an eye, rinse with plenty of clean water for several minutes and call a doctor. Blow out through the straw only, never suck. Keep jar B sealed, labelled, and on a separate fridge shelf away from food. Wash hands after touching soil and jars. Open the jars outdoors or near a window, because they may smell, and do not put your nose inside. Glass jars can break: a grown-up carries them. With 2 to 4 children, only the grown-up handles chuna and limewater.",
+   "record": "Draw the three jars. For each katori write a milkiness score after 1 day and after 2 days: 0 clear, 1 faint cloud or thin skin, 2 cloudy, 3 milky. Mark which jar sat in the fridge.",
    "context": "In this experiment, you find out what a jar of damp soil gives out. You use limewater, which turns milky when carbon dioxide is added.",
    "setup": [
     {
@@ -668,7 +676,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guesses on the results table. Your child met limewater in the animal breathing unit, if you have done it. If not, a quick breath test through a straw will show it in step 3.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guesses on the results table. Your child met limewater in the animal breathing unit, if you have done it. If not, a quick breath test through a straw will show it in step 3. One child with a parent: the child predicts and scores, the parent handles chuna. Two to four children: each child is the keeper of one jar and scores it, or each pair makes its own set of three jars (jars and soil are free); the grown-up makes one jug of limewater for all.",
      "context": "This is the first step of the Breathing Soil test. You guess before you set up."
     },
     {
@@ -678,14 +686,14 @@
      "say": "A grown-up does this step. Stir the chuna into the water. Then leave it alone. The white powder will sink to the bottom, and clear water will be left on top.",
      "kid": "A grown-up stirs chuna into water. Wait one hour for the powder to sink.",
      "adult": true,
-     "parent": "Edible chuna is calcium hydroxide. The clear water on top is limewater. If the water is still cloudy after an hour, wait a little longer. For the best result, make it the evening before. Keep the jug covered, because room air slowly turns the top of the limewater milky.",
+     "parent": "Edible chuna is calcium hydroxide. The clear water on top is limewater. If the water is still cloudy after an hour, wait a little longer. For the best result, make it the evening before. Strain the clear water through a clean cloth or coffee filter if it stays cloudy. Keep the jug covered, because room air slowly turns the top of the limewater milky.",
      "context": "In this step, you make limewater from chuna. It needs time to settle."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "Label the jars A, B and C. Put 4 tablespoons of soil into jar A and jar B. Add 1 tablespoon of finely chopped peel to each, and sprinkle on 1 tablespoon of water. Leave jar C with only air.",
-     "say": "Put soil in jars A and B. Add the chopped peel and a spoon of water. Do not put anything in jar C. It is our check on what the limewater does with only air.",
+     "do": "Label the jars A, B and C. Put 4 tablespoons of soil into jar A and jar B. Add 1 tablespoon of finely chopped peel to each. Stir half a teaspoon of jaggery into 2 tablespoons of water and sprinkle half of it over each soil jar. Leave jar C with only air.",
+     "say": "Put soil in jars A and B. Add the chopped peel and the jaggery water. Do not put anything in jar C. It is our check on what the limewater does with only air.",
      "kid": "Put soil and peel in jars A and B. Jar C stays empty.",
      "ask": [
       {
@@ -697,7 +705,7 @@
        ]
       }
      ],
-     "parent": "Chop the peel as fine as you can, because small pieces rot faster. Do not pack the soil down. The soil needs to be damp but not muddy. The jars will smell a little sweet and sour in a day. That is normal.",
+     "parent": "Chop the peel as fine as you can, because small pieces rot faster. Do not pack the soil down. The soil needs to be damp but not muddy. The jaggery is food for the soil microbes and makes the result quick and clear; both soil jars get the same. The jars will smell a little sweet and sour in a day. That is normal.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep jar C with only air?",
@@ -718,13 +726,13 @@
      "say": "First check your limewater by blowing through a straw. If it turns milky, it works. Then fill the three katoris, stand one in each jar, and close the lids quickly. Jar B goes in the fridge.",
      "kid": "Blow into the limewater. It turns milky. Fill three katoris, put one in each jar, close the lids.",
      "adult": true,
-     "parent": "Do not let the limewater touch the soil. Keep the powder at the bottom of the jug and pour only the clear water. If the breath test does not turn milky, the chuna may be old. Make a new jug, using a bigger spoon. Put jars A and C in a warm spot out of the sun, such as a kitchen shelf. If your room is cold, jar A may be slow.",
+     "parent": "Do not let the limewater touch the soil. Keep the powder at the bottom of the jug and pour only the clear water. If the breath test does not turn milky, the chuna may be old. Make a new jug, using a bigger spoon. Put jars A and C in a warm spot out of the sun, such as a kitchen shelf. Use jars with tight lids; if a lid is loose, put a layer of cling film under it. If your room is cold, jar A may be slow.",
      "context": "In this step, you check the limewater, and then seal a katori of it into each jar."
     },
     {
      "id": "s5",
      "mins": 12,
-     "do": "The next day, look at the limewater in each katori without opening the jar, if you can see in. Then a grown-up lifts out each katori, one at a time, and you look at the limewater in good light. Write what you see. Look again the day after.",
+     "do": "Look at each katori the same evening and the next day. A grown-up lifts out each katori, one at a time. Look in good light, score it 0 to 3 and write it down. Look again the day after.",
      "say": "Look at each katori. Is the limewater clear, a little cloudy, or milky? Write it down. Then tell me what you thought would happen, what you saw, and why you think it happened.",
      "kid": "Look at each katori. Write clear, cloudy or milky. Say what you thought, what you saw, and why.",
      "ask": [
@@ -737,7 +745,7 @@
        ]
       }
      ],
-     "parent": "Expected: jar A is milky within a day, and jar C stays clear, apart from a faint skin on top. Jar B is usually less milky than A, or turns milky later. If jar A is still clear after 2 days, add another tablespoon of chopped peel and a spoon of water, move it somewhere warmer, and look again in a day. Do not explain yet. Let your child say what they saw. Then explain: tiny living things in the soil, the decomposers, eat the peel and breathe out carbon dioxide. The cold slows them down.",
+     "parent": "Typically jar A is cloudy or milky within a day (2 to 3 on the scale) and jar C stays clear, apart from a faint skin on top. Jar B is usually less milky than A, or turns later, but a fridge does not stop microbes, it only slows them. If jar A is still clear after 2 days, the soil may be very dry, old or from sterile bagged mix, or the limewater is too weak: remake the limewater with a bigger spoon of chuna, use soil from a garden, add another tablespoon of peel and a spoon of water, move it somewhere warmer, and look again in a day. A clear result is a result too: say why it might have failed. Do not explain yet. Let your child say what they saw. Then explain: tiny living things in the soil, the decomposers, eat the peel and breathe out carbon dioxide. The cold slows them down.",
      "think": "If the soil is breathing, where does the peel's carbon go?",
      "check": {
       "t": "mcq",
@@ -761,8 +769,8 @@
     },
     {
      "day": 2,
-     "mins": 10,
-     "what": "Look at the limewater in each katori. Write the results and explain them. Look once more on day 3 if the colours are unclear."
+     "mins": 15,
+     "what": "Look at the limewater in each katori in the evening and the next day. Score it and explain. Look once more on day 3 if the colours are unclear."
     }
    ]
   },
@@ -773,7 +781,7 @@
    "days": 6,
    "question": "A whole carrot, chopped carrot and grated carrot weigh the same. Which one will rot first?",
    "predict": "Guess first. Which piece will go soft, smell, or grow mould first: the whole piece, the chopped pieces, or the grated carrot? Which will last longest? Why do you think so?",
-   "fair_test": "All three portions come from the same carrot, so they weigh the same. Each goes in the same kind of box with the same damp tissue, on the same shelf. Only the size of the pieces changes, so any difference comes from the size.",
+   "fair_test": "All three portions are cut from the thick end of the same carrot, so they weigh about the same (a kitchen scale, if you have one, shows it). Each goes in the same kind of box with the same damp tissue, on the same shelf. Only the size of the pieces changes, so any difference comes from the size.",
    "results_table": [
     "Carrot",
     "Day 1 score",
@@ -785,7 +793,7 @@
    ],
    "materials": [
     {
-     "item": "1 big, fresh carrot, about 150 grams",
+     "item": "1 thick, fresh carrot (about 150 grams), or 3 carrots of the same thickness",
      "qty": 1
     },
     {
@@ -809,13 +817,13 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up uses the knife and the grater. Do not open the boxes once they have fuzzy mould on them, because the spores can make some people sneeze or cough. Look through the clear lid. A grown-up wraps the boxes in a bag and puts them in the bin when the test is over. Wash hands after.",
+   "safety": "A grown-up uses the knife and the grater. Do not open the boxes once they have fuzzy mould on them, because the spores can make some people sneeze or cough. Look through the clear lid. A grown-up wraps the boxes in a bag and puts them in the bin when the test is over. Wash hands after. Anyone with asthma or a mould allergy should not open the boxes or smell them closely; a grown-up does it.",
    "record": "Each day, give each box a score: 0 for no change, 1 for a smell or a soft spot, 2 for slime or a little fuzz, 3 for mostly soft and fuzzy. Write the scores in the table. Draw a line for each carrot over the six days.",
    "context": "In this experiment, you cut one carrot in three ways and watch which part rots first. It tests whether small pieces rot faster than big ones.",
    "setup": [
     {
      "art": "A carrot cut into three equal lengths on a chopping board, with a knife beside it.",
-     "caption": "1. A grown-up cuts the carrot into three equal parts by length."
+     "caption": "1. A grown-up cuts three pieces of the same length from the thick end of the carrot."
     },
     {
      "art": "Three portions of carrot on a board: one whole piece, one heap of small cubes and one heap of grated carrot.",
@@ -834,8 +842,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the carrot. Say that you will cut it into three equal parts and treat them in three ways. Ask for a guess and a reason. Write them down.",
-     "say": "This carrot weighs the same however we cut it. One part stays whole. One part is chopped small. One part is grated. Which will rot first? Which will last longest? Why do you think so?",
+     "do": "Show your child the carrot. Say that you will cut it into three pieces of the same weight and treat them in three ways. Ask for a guess and a reason. Write them down.",
+     "say": "Three pieces of the same weight, cut three ways. One part stays whole. One part is chopped small. One part is grated. Which will rot first? Which will last longest? Why do you think so?",
      "kid": "One carrot, cut three ways. Which rots first? Why?",
      "ask": [
       {
@@ -847,16 +855,16 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is good. Some children guess that the whole carrot will rot first because it is bigger. Write it down and let the test answer it.",
+     "parent": "Do not correct the guess. Any guess with a reason is good. Some children guess that the whole carrot will rot first because it is bigger. Write it down and let the test answer it. One child: the child scores and draws the graph, the parent cuts. Two to four children: one child is cutter-helper, one fills the boxes, one scores each day; or each child makes their own three boxes from a thick-end carrot of their own (carrots are cheap).",
      "context": "This is the first step of Cut It Up. You guess before you start."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up cuts the carrot into three equal parts by length. Leave the first whole. Chop the second into cubes about 1 centimetre across. Grate the third. Wet each tissue with a spoon of water and put one in each box. Add one portion to each box and close the lid.",
+     "do": "A grown-up cuts three pieces, each about 4 cm long, from the thick end of the carrot (about 40 grams each, weigh them if you have a scale). Leave the first whole. Chop the second into cubes about 1 centimetre across. Grate the third. Wet each tissue with a spoon of water and put one in each box. Add one portion to each box and close the lid.",
      "say": "A grown-up cuts and grates. Each box gets one damp tissue and one portion. Mark the boxes whole, chopped and grated. Put all three on the same shelf in a warm room.",
      "kid": "A grown-up cuts the carrot. Put one portion in each box. Mark the boxes. Put them on the shelf.",
-     "parent": "Cut the carrot into three equal lengths of the same thickness, so the portions have about the same weight. If you have a kitchen scale, weigh each portion. The tissue should be damp, not dripping. Keep the boxes out of direct sun and away from food.",
+     "parent": "A carrot is thinner at the tip, so take all three pieces from the thick end, never from the tip, so the portions have about the same weight. If you have a kitchen scale, weigh each portion. The tissue should be damp, not dripping. Keep the boxes out of direct sun and away from food.",
      "check": {
       "t": "mcq",
       "q": "Why must all three portions start with the same weight?",
@@ -887,7 +895,7 @@
        ]
       }
      ],
-     "parent": "Expected: the grated carrot goes first, usually on day 2 or 3, with a smell and slime or white fuzz. The chopped cubes follow a day or two later. The whole piece is slowest and may only soften at the end, or get a bit of fuzz at the cut end. Results vary with the warmth of your room. If nothing changes by day 4, leave the boxes for 3 more days. If all three go together, check that the boxes sit in the same place.",
+     "parent": "Expected: the grated carrot goes first, often around day 2 to 4 (a typical guide, not a promise), with a smell and slime or white fuzz. The chopped cubes follow a day or two later. The whole piece is slowest and may only soften at the end, or get a bit of fuzz at the cut end. Results vary with the warmth of your room. In cold or dry weather it can be slower. If nothing changes by day 4, leave the boxes for 3 more days. If all three go together, check that the boxes sit in the same place.",
      "context": "In this step, you check the boxes every day and score what you see."
     },
     {
@@ -982,13 +990,13 @@
      "what": "Spread out the soil. Look for dead bits, threads and tiny animals. Sort what you find into three groups."
     }
    ],
-   "record": "A drawing of the soil on the plate. Label the dead bits, the white threads, the tiny animals and the bits of rock or sand.",
+   "record": "A drawing of the soil on the plate. Label the dead bits, the white threads, the tiny animals and the bits of rock or sand. A tally of how many of each kind you found in each soil.",
    "safety": "Wash hands after touching soil. Do not put soil near your face.",
    "context": "In this activity, you spread out a spoon of soil and look closely for the cleanup crew. You guess what each thing is before you decide.",
    "setup": [
     {
      "art": "A teaspoon of dark soil spread thinly on a white plate.",
-     "caption": "1. Spread one spoon of soil thinly on a white plate."
+     "caption": "1. Spread one spoon of pot soil and one of garden soil on a white plate."
     },
     {
      "art": "A child looking at soil through a magnifying glass, moving bits apart with a toothpick.",
@@ -1003,7 +1011,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Spread one spoon of soil on the plate. Ask your child to look without touching and say what they notice. Ask what they wonder.",
+     "do": "Spread one spoon of pot soil on one half of the plate. Spread one spoon of garden soil on the other half. Look without touching and say what you notice. Say what you wonder.",
      "say": "Look at the soil on the plate. What do you notice? What do you wonder? Is anything in it alive?",
      "kid": "Look at the soil. What do you notice? What do you wonder?",
      "ask": [
@@ -1023,16 +1031,16 @@
        ]
       }
      ],
-     "parent": "Do not explain yet. Write down your child's noticing and wondering. Pot soil is fine, and so is soil from a park or a garden.",
+     "parent": "Do not explain yet. Write down your child's noticing and wondering. Pot soil is fine, and so is soil from a park or a garden. Two to four children: share the plate and the lens in turns, and each child draws one kind of find. Each makes a tally of what they find.",
      "context": "This is the first step of Soil Detective. You notice before you explain."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Use the toothpick to move the bits apart. Look with the lens. Find three kinds of things: dead bits of plant, white or grey threads, and tiny animals. Draw each kind you find.",
+     "do": "Use the toothpick to move the bits apart. Look with the lens. Find three kinds of things: dead bits of plant, white or grey threads, and tiny animals. Draw each kind you find. Make a tally mark for each find, and compare the two soils.",
      "say": "Move the bits apart gently. Look for dead plant pieces. Look for fine white threads. Look for any tiny animals. Draw what you find.",
      "kid": "Move the soil bits apart. Find dead bits, white threads and tiny animals. Draw them.",
-     "parent": "You may find pale threads (fungus), small dead leaf pieces, bits of root, and sometimes tiny white or brown animals such as springtails or mites. Pot soil may have few animals. That is normal. A handful of soil from a garden or the base of a tree will have many more. Put the animals back in the soil after looking.",
+     "parent": "You may find pale threads (fungus), small dead leaf pieces, bits of root, and sometimes tiny white or brown animals such as springtails or mites. Pot soil may have few animals. That is normal. Garden or tree-base soil usually shows more animals and threads than pot soil, so the tally is a real comparison, though a dry spot may show little. Put the animals back in the soil after looking.",
      "check": {
       "t": "mcq",
       "q": "The white threads in soil are most likely...",
@@ -1052,7 +1060,7 @@
      "do": "Ask your child to say what the things they found are doing. Ask which ones are the cleanup crew.",
      "say": "Which of the things you found do you think are the cleanup crew? What do you think each one is eating?",
      "kid": "Which things are the cleanup crew? What are they eating?",
-     "parent": "A good answer is that the threads, the tiny animals and the tiny bits of dead plant are all part of the story. The dead plant is the food, and the threads and animals are the eaters. Say that soil is a living thing. A spoon of healthy garden soil has more living beings than there are people in India.",
+     "parent": "A good answer is that the threads, the tiny animals and the tiny bits of dead plant are all part of the story. The dead plant is the food, and the threads and animals are the eaters. Say that soil is a living thing. A spoon of healthy garden soil can hold up to about a billion tiny bacteria, nearly as many as the people in India. You cannot see them, only the larger ones.",
      "think": "If you could look at a spoon of soil from a forest, what would be different?",
      "context": "This is the last step of Soil Detective. You think about what each thing does."
     }
@@ -1069,7 +1077,7 @@
      "qty": 1
     },
     {
-     "item": "2 small pots or plastic cups with holes, with soil in each",
+     "item": "1 small pot or plastic cup with holes, with soil in it, and a saucer",
      "qty": 2
     },
     {
@@ -1103,8 +1111,8 @@
      "what": "Dig up the buried flowers. Compare with the dry ones. Explain what happened."
     }
    ],
-   "record": "A diary page for each day, with a drawing, a short note about colour, smell and softness, and a guess about who has been at work.",
-   "safety": "Wash hands after touching the soil and the flowers. Do not eat any of the flowers. Anyone with asthma or a mould allergy should not dig up or sniff the fuzzy flowers; a grown-up does it, with gloves.",
+   "record": "A diary page for each look (day 1, 4, 8 and 14), with a drawing, how many flowers still look like flowers, a short note about colour, smell and softness, and a guess about who has been at work.",
+   "safety": "Wash hands after touching the soil and the flowers. Do not eat any of the flowers. Anyone with asthma or a mould allergy should not dig up or sniff the fuzzy flowers; a grown-up does it, with gloves. Use unsprayed flowers if you can, and keep the pot out of reach of small children and pets.",
    "context": "In this activity, you watch a used flower garland change over two weeks. One half goes in damp soil, and one half stays dry.",
    "setup": [
     {
@@ -1124,10 +1132,10 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Split the flowers into two heaps. Bury one heap just under the soil in a pot, and sprinkle on a little water. Put the other heap on a dry saucer. Draw both. Ask your child what they think each will look like in two weeks.",
+     "do": "Split the flowers into two heaps with the same number of flowers (count them). Bury one heap just under the soil in a pot, and sprinkle on a little water. Put the other heap on a dry saucer. Draw both. Ask your child what they think each will look like in two weeks.",
      "say": "Half of the flowers go in damp soil. Half stay dry on a saucer. What do you think each will look like in two weeks? Why do you think so?",
      "kid": "Bury half of the flowers. Keep half dry. What will happen? Why?",
-     "parent": "Water the buried flowers a little every two or three days, so the soil stays damp. Do not water the dry heap. Do not correct the guess.",
+     "parent": "Water the buried flowers a little every two or three days, so the soil stays damp. Do not water the dry heap. Do not correct the guess. Two to four children: each child buries and keeps their own small heap, or one child keeps the buried pot, one the dry saucer, and they swap jobs at each look. If the garland has wire or plastic thread, remove it first.",
      "context": "This is the first step of the Marigold Diary. You set up the two heaps and guess."
     },
     {
@@ -1146,7 +1154,7 @@
        ]
       }
      ],
-     "parent": "Expected: the buried flowers turn dark, soft and slimy within a week, and may get white fuzz or a few tiny insects. The dry ones stay papery and keep their shape for weeks. Water makes the difference, as it does for mould on bread. If the buried flowers go sour and slimy, mix in a little dry soil.",
+     "parent": "On each look, count how many flowers still look like flowers. Typically in a damp warm week: the buried flowers turn dark, soft and slimy within a week, and may get white fuzz or a few tiny insects. The dry ones stay papery and keep their shape for weeks. Water makes the difference, as it does for mould on bread. If the buried flowers go sour and slimy, mix in a little dry soil.",
      "context": "In this step, you look at the two heaps and draw them."
     },
     {
@@ -1195,7 +1203,7 @@
     }
    ],
    "record": "A table with three columns: the leftover, who or what eats it, and what is left at the end. A last row for things that nobody can eat.",
-   "safety": "Use only cooked or clean leftovers, never raw meat or raw egg. Wash hands after handling bones, shells and wrappers.",
+   "safety": "Use only cooked or clean leftovers, never raw meat or raw egg. Wash hands after handling bones, shells and wrappers. Keep sharp bones and broken shells away from small children.",
    "context": "In this activity, you look at the leftovers of one meal and work out who would eat each one. Then you find the ones that nobody can eat.",
    "setup": [
     {
@@ -1218,7 +1226,7 @@
      "do": "Lay out the leftovers of one meal on a tray. Ask your child to name each one. Draw the table on a sheet of paper.",
      "say": "These are the leftovers from our meal. Let us name each one. Then we will think about who might eat it.",
      "kid": "Name each leftover from our meal. Draw a table.",
-     "parent": "Use real leftovers from the day's cooking. Include at least one thing that cannot rot, such as a wrapper or a plastic bag, because the later steps need it.",
+     "parent": "Use real leftovers from the day's cooking. Include at least one thing that cannot rot, such as a wrapper or a plastic bag, because the later steps need it. One child: the parent writes while the child sorts. Two to four children: one child lays out and names, one draws the table, one reads the crew words; swap at the next meal. Do not eat any of the leftovers during the activity.",
      "context": "This is the first step of Who Eats It? You list the leftovers."
     },
     {
@@ -1288,11 +1296,11 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Watch the same spot for 10 minutes. Count who comes to eat. Sort them into scavengers, detritivores and decomposers."
+     "what": "Watch the same spot for 10 minutes, then again at a different time of day if you can. Count who comes to eat. Sort them into scavengers, detritivores and decomposers."
     }
    ],
    "record": "A tally chart of every creature who came to eat, with their name or a drawing, and how many times.",
-   "safety": "Watch from a window or a safe distance. Never feed or touch street animals, and do not go near a bin or dropped food outdoors.",
+   "safety": "Watch from a window or a safe distance. Do not lean out of a balcony or window. Never feed or touch street animals, and do not go near a bin or dropped food outdoors. Do not put food where monkeys or stray dogs can come into the house.",
    "context": "In this activity, you watch one spot for ten minutes and count who comes to clean up the food. You sort them into the crews from this unit.",
    "setup": [
     {
@@ -1315,7 +1323,7 @@
      "do": "Choose a spot you can see from a window or a balcony, where food or fruit lies on the ground. Ask your child to guess who will visit in ten minutes.",
      "say": "We will watch this spot for ten minutes. Who do you think will come? Why do you think so?",
      "kid": "Pick a spot. Who will come in ten minutes? Why?",
-     "parent": "A spot near a rubbish corner, a fallen mango or guava, or the place where leftover rice is put out for the birds works well. If you live high up, watch the bin area from a window. Keep a safe distance from street animals.",
+     "parent": "A spot near a rubbish corner, a fallen mango or guava, or the place where leftover rice is put out for the birds works well. If you live high up, watch the bin area from a window. Keep a safe distance from street animals. If no waste is lying about, put a banana peel and a bit of cooked rice on a plate or tray on your balcony ledge or garden wall 30 minutes before, in a place monkeys or dogs cannot reach. Best of all, repeat the 10 minutes at a second time of day (morning and evening) and compare the tallies. One child: the child watches and tallies, the parent keeps time. Two to four children: one watches, one tallies, one keeps time and draws; swap at the second watch.",
      "context": "This is the first step of Street Cleaners. You guess before you watch."
     },
     {
@@ -1370,12 +1378,12 @@
    "mins": 50,
    "materials": [
     {
-     "item": "3 small pots or cups with holes in the bottom",
+     "item": "3 small pots or cups of about 250 millilitres with holes in the bottom",
      "qty": 3
     },
     {
-     "item": "cocopeat, a light brown material sold at nurseries, about 3 cups",
-     "qty": 3,
+     "item": "cocopeat, a light brown material sold at nurseries, about 2 cups when loose (a small block is enough; sand or old dry soil from a pot also works for pot A)",
+     "qty": 2,
      "buy": "b-cocopeat"
     },
     {
@@ -1388,7 +1396,7 @@
      "qty": 1
     },
     {
-     "item": "methi (fenugreek) seeds, about 24",
+     "item": "methi (fenugreek) seeds from the kitchen masala shelf, about 24 (moong dal works too, and is the choice for a child with a legume allergy)",
      "qty": 24
     },
     {
@@ -1419,7 +1427,7 @@
     }
    ],
    "record": "A table with the three pots and, for day 4, 8 and 14, the average height of the plants and their colour. A bar chart of height on day 14.",
-   "safety": "Wash hands after handling soil and compost. Do not eat the seeds or the sprouts from this test.",
+   "safety": "Wash hands after handling soil and compost. Do not eat the seeds or the sprouts from this test. Methi is a legume: a child allergic to peanuts, chickpeas or other legumes should not handle the seeds; use another seed and keep the sprouts away from food.",
    "context": "In this project, you grow methi in three different pots over two weeks. It tests whether rotted leaves feed a new plant.",
    "setup": [
     {
@@ -1446,7 +1454,7 @@
      "do": "Show your child the three pots and what goes in each. Ask for a guess and a reason about which pot will grow the best plants.",
      "say": "Pot A has only cocopeat. Pot B has cocopeat and rotted compost. Pot C has garden soil. Which pot will grow the best methi? Why do you think so?",
      "kid": "Three pots. Which will grow the best methi? Why?",
-     "parent": "Cocopeat holds water but has almost no nutrients. Vermicompost is made by worms and microbes from dead plant matter. Do not correct the guess.",
+     "parent": "Cocopeat holds water but has almost no nutrients. Vermicompost is made by worms and microbes from dead plant matter. Do not correct the guess. Pots A and B differ only by the compost, so they are the fair test; pot C is a bonus that shows ordinary soil. One child: the child measures and records. Two to four children: each child keeps one pot (or each pair its own set of three) and measures its plants; compare in a group chart.",
      "context": "This is the first step of the Methi project. You guess before you plant."
     },
     {
@@ -1455,7 +1463,7 @@
      "do": "Fill the pots. Plant 8 methi seeds about 1 centimetre deep in each. Water each pot with the same amount, about half a cup. Put all three on the same window ledge.",
      "say": "Fill the pots the same way, and plant 8 seeds in each. Water each pot with the same amount. Put them side by side in the light.",
      "kid": "Fill the pots. Plant 8 seeds in each. Water all three the same.",
-     "parent": "Methi seeds sprout in 2 to 4 days. Keep the soil damp, not soaked. The seeds hold their own food for the first week, so the differences between the pots only show clearly after about 10 days. Be patient.",
+     "parent": "Soak the seeds in water overnight to help them sprout. Methi seeds sprout in 2 to 4 days. Keep the soil damp, not soaked. The seeds hold their own food for the first week, so the differences between the pots only show clearly after about 10 days. Cocopeat from a shop is sometimes salty; rinse it once if it is a hard block. Be patient.",
      "check": {
       "t": "mcq",
       "q": "Why do all three pots get the same amount of seeds, water and light?",
@@ -1475,7 +1483,7 @@
      "do": "On days 4 and 8, water the pots equally and measure the height of the plants in each. Write down the colour, too. Look again on day 14.",
      "say": "Measure the tallest three plants in each pot. Write the height and the colour. Do all three pots look the same?",
      "kid": "Measure the plants in each pot. Write the height and the colour.",
-     "parent": "Use the average of the three tallest plants. Expected by day 14: pot A is pale or yellowish and short, pot B is tall and deep green, and pot C is in between or similar to B. If all three look the same, the seeds' own food may still be carrying them, so wait a few more days.",
+     "parent": "Use the average of the three tallest plants. Typically by day 14 pot A is paler and shorter than pot B, and pot C is similar to B or in between; the exact heights depend on your seeds and the weather. A small difference is still a result. If all three look the same, the seeds' own food may still be carrying them, so wait a few more days.",
      "context": "In this step, you watch the plants and write what you see."
     },
     {
@@ -2551,7 +2559,7 @@
    "id": "b-chuna",
    "item": "Edible chuna (lime paste), a small tub",
    "kind": "material",
-   "why": "To make the limewater for the Breathing Soil test.",
+   "why": "To make the limewater for the Breathing Soil test. It costs a few rupees at a paan shop. Only a grown-up handles it.",
    "url": "https://www.amazon.in/s?k=edible+chuna+lime+paste",
    "used_in": [
     "e1"
@@ -2561,7 +2569,7 @@
    "id": "b-lens",
    "item": "A 10 times magnifying glass",
    "kind": "tool",
-   "why": "For the Soil Detective, and for looking at mould, mushrooms and tiny animals.",
+   "why": "For the Soil Detective, and for looking at mould, mushrooms and tiny animals. A phone camera zoomed in also works.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+10x+for+kids",
    "used_in": [
     "a1"
@@ -2571,7 +2579,7 @@
    "id": "b-cocopeat",
    "item": "Cocopeat, a small block or bag",
    "kind": "material",
-   "why": "For the Methi project. Cocopeat holds water but has almost no nutrients.",
+   "why": "For the Methi project. Cocopeat holds water but has almost no nutrients. A small block costs about Rs 50 to 100; a nursery may sell a handful, or use sand for pot A.",
    "url": "https://www.amazon.in/s?k=cocopeat+block",
    "used_in": [
     "p1"
@@ -2581,7 +2589,7 @@
    "id": "b-vermi",
    "item": "Vermicompost, a small pack",
    "kind": "material",
-   "why": "For the Methi project. It is the rotted matter left by earthworms and microbes.",
+   "why": "For the Methi project. It is the rotted matter left by earthworms and microbes. A nursery or a neighbour with a compost pit can spare 3 tablespoons; a small pack costs about Rs 50.",
    "url": "https://www.amazon.in/s?k=vermicompost+organic+manure",
    "used_in": [
     "p1"

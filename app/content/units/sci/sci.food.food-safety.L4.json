@@ -683,7 +683,7 @@
      "do": "Do the other 12 guests. Add up each column in each row. Write the totals at the end of each row.",
      "say": "Keep going, one guest at a time. Every guest goes in every row. At the end, each row should add up to 16.",
      "kid": "Do all 16 guests. Add up each column. Each row adds up to 16.",
-     "parent": "Each row must add up to 16. If one does not, a card was missed. The totals for Mystery A are: samosa, 7 ate and 4 ill, 9 did not eat and 5 ill. Paneer roll, 9 ate and 5 ill, 7 did not eat and 4 ill. Mango lassi, 7 ate and 4 ill, 9 did not eat and 5 ill. Fruit chaat, 10 ate and 8 ill, 6 did not eat and 1 ill."
+     "parent": "Each row must add up to 16. If one does not, a card was missed. The totals for Mystery A are: samosa, 7 ate and 4 ill, 9 did not eat and 5 ill. Paneer roll, 9 ate and 5 ill, 7 did not eat and 4 ill. Mango lassi, 7 ate and 4 ill, 9 did not eat and 5 ill. Fruit chaat, 10 ate and 8 ill, 6 did not eat and 1 ill. With 2 to 4 players, give each player one or two foods to tally, while one player reads the cards aloud. Then compare the rows. Cut the 16 cards from a sheet of paper before you start, or just read them from the page and tally on paper."
     },
     {
      "id": "s4",
@@ -941,7 +941,7 @@
    ],
    "materials": [
     {
-     "item": "4 clear glasses or jars of the same size, tall rather than wide, each holding about 250 millilitres",
+     "item": "4 clear glasses or jars of the same size, tall rather than wide, each holding about 300 millilitres or more (a steel tumbler will not do, you cannot see the foam)",
      "qty": 4
     },
     {
@@ -962,7 +962,7 @@
      "qty": 1
     },
     {
-     "item": "a bowl big enough to hold one glass, and a jug of hand-hot water (hot, but comfortable to hold your finger in for 10 seconds)",
+     "item": "a bowl big enough to hold one glass, and a jug of warm bath water (hotter than lukewarm, but comfortable to keep a finger in for a full minute, about 40 to 45 degrees)",
      "qty": 1
     },
     {
@@ -1022,7 +1022,7 @@
      "id": "s2",
      "mins": 12,
      "context": "In this step, you make the yeast mixture and fill the four glasses. A grown-up heats the mixture for glass D.",
-     "do": "In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Wait 5 minutes. Pour 200 millilitres into each of glasses A, B and C. Pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes.",
+     "do": "In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Right away, pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes. When D is lukewarm, stir the jug. Pour 200 millilitres into each of A, B and C. Now all four start together.",
      "say": "This mixture is full of yeast. Glasses A, B and C get it just as it is. Glass D is heated until it steams, so the heat will show what it does to the yeast. Never taste any of it.",
      "kid": "Stir sugar and yeast into warm water. Pour 200 millilitres into each glass. A grown-up heats D.",
      "adult": true,
@@ -1037,16 +1037,16 @@
       "a": 0,
       "why": "Glass D shows what happens when microbes are heated a lot. If D stays flat while the others foam, we know that heat can stop yeast growing. This is the same reason that cooking makes food safer."
      },
-     "parent": "The water for the mixture should be lukewarm, like a bath for a baby. If it is too hot, it will kill the yeast in all the glasses and nothing will happen. Use a tray, because foam can spill."
+     "parent": "The water for the mixture should be lukewarm, like a bath for a baby. If it is too hot, it will kill the yeast in all the glasses and nothing will happen. Use a tray, because foam can spill. Check the date on the yeast packet. Old or damp yeast will not foam at all, and then the whole test shows nothing. Instant or dry baking yeast from a bakery or kirana shop is fine. The 'bath water' for glass C must not be so hot that you pull your finger out, because that kills yeast."
     },
     {
      "id": "s3",
      "mins": 8,
      "context": "In this step, you put each glass in its place and mark the starting level.",
-     "do": "Put a rubber band around each glass at the top of the liquid. Put A on a shelf in the fridge. Put B on the counter, in the shade. Stand C in a bowl of hand-hot water. Put D on the counter next to B, once it is lukewarm. Write down the time.",
-     "say": "Mark the top of the liquid with a rubber band. A goes in the fridge. B goes on the counter. C stands in a bowl of hand-hot water. D sits beside B. Write down the time, so we know when to measure.",
+     "do": "Put a rubber band around each glass at the top of the liquid. Put A on a shelf in the fridge. Put B on the counter, in the shade. Stand C in a bowl of warm bath water. Put D on the counter next to B, once it is lukewarm. Write down the time.",
+     "say": "Mark the top of the liquid with a rubber band. A goes in the fridge. B goes on the counter. C stands in a bowl of warm bath water. D sits beside B. Write down the time, so we know when to measure.",
      "kid": "Mark the liquid level. A to the fridge. B on the counter. C in warm water. D beside B.",
-     "parent": "Change the water in C's bowl for fresh hand-hot water after an hour, since it cools. Check that D is lukewarm before it goes on the counter, so it starts like the others. Write the room temperature if you can."
+     "parent": "Change the water in C's bowl for fresh warm bath water after an hour, since it cools. Check that D is lukewarm before it goes on the counter, so it starts like the others. Write the room temperature if you can. With 2 to 4 children, each child owns one glass: they label it, take it to its place, measure it and write its column. Two children can share a glass. With one child, the grown-up holds the ruler and the child does the writing."
     },
     {
      "id": "s4",
@@ -1056,7 +1056,7 @@
      "say": "Look at the foam on each glass and measure it from the rubber band. Which glass has the most? Which has none? Is the order changing?",
      "kid": "Every 30 minutes, measure the foam. Write it in the table.",
      "wait": "Wait 30 minutes between measurements. Four measurements take two hours.",
-     "parent": "Typical: glass C foams well within 30 to 60 minutes, often several centimetres. Glass B foams more slowly, and faster in a hot kitchen. Glass A hardly changes. Glass D should stay flat. If D foams, the heating was not enough, and the test should be repeated. Write down what really happens."
+     "parent": "Typical: glass C foams well within 30 to 60 minutes, often several centimetres. Glass B foams more slowly, and faster in a hot kitchen. Glass A hardly changes. Glass D should stay flat. If D foams, the heating was not enough, and the test should be repeated. Write down what really happens. In a hot kitchen (above 30 degrees) B may foam almost as fast as C. That is a real result, and shows why a warm kitchen is in the danger zone, so write the room temperature. Foam height depends on the glass and the yeast, so the numbers are 'typical', not promised. If nothing foams even in C after 45 minutes, the yeast is probably old or the water was too hot. Start again with fresh yeast and cooler water."
     },
     {
      "id": "s5",
@@ -1136,7 +1136,7 @@
     {
      "day": 3,
      "mins": 3,
-     "what": "Look at the bags without opening them. Count the spots. Write them down."
+     "what": "Look at the bags without opening them. Count the spots. Write them down. In hot weather, take a quick look on day 2 too."
     },
     {
      "day": 5,
@@ -1220,7 +1220,7 @@
       "a": 0,
       "why": "Slice A shows how much grows on a clean slice in the same bag. If A also has spots, we know some microbes came from the air or the bag, and we can tell what the fingers added."
      },
-     "parent": "Use the same finger of the same hand each time. A child's dry fingers pick up less than a damp or sticky finger, so rub the finger on the shoe each time for the same time. Wash your own hands after this step."
+     "parent": "Use the same finger of the same hand each time. A child's dry fingers pick up less than a damp or sticky finger, so rub the finger on the shoe each time for the same time. Wash your own hands after this step. With 2 to 4 children: one child does the whole set of four bags, or two children each do a full set of four (8 bags) and compare. Do not split one set between children, because then the finger is different as well. The others are the timer (counts the 20 seconds), the recorder and the artist who draws the bags on day 7."
     },
     {
      "id": "s4",
@@ -1230,7 +1230,7 @@
      "say": "Look through the bag without opening it. Do you see round spots? Do you see fuzzy patches? Count them. Which bag has the most today?",
      "kid": "Look at each bag. Do not open it. Count the spots. Write them down.",
      "wait": "Look at the bags on days 3, 5 and 7.",
-     "parent": "Spots are colonies of bacteria or yeast, each grown from one microbe or a few. Fuzzy patches are moulds. The first spots usually show on day 2 or 3. Never open a bag, and never smell it. If a bag is leaking, put it in a second bag and a grown-up puts it in the outside bin."
+     "parent": "Spots are colonies of bacteria or yeast, each grown from one microbe or a few. Fuzzy patches are moulds. The first spots usually show on day 2 or 3. Never open a bag, and never smell it. If a bag is leaking, put it in a second bag and a grown-up puts it in the outside bin. In hot, damp weather spots can show on day 2, and by day 5 every bag may be covered, even the clean one. Then the best clue is which bag showed spots first, so look for 30 seconds each day and write down the day. If a bag puffs up with gas, do not open it. A grown-up puts it into a second bag and then the outside bin. The magnifying glass is optional."
     },
     {
      "id": "s5",
@@ -1374,7 +1374,7 @@
      "do": "Label the plates plain, salt and sugar. Sprinkle a level teaspoon of salt over the slices on the salt plate. Sprinkle a level teaspoon of sugar over the sugar plate. Put nothing on the plain plate. Tilt each plate a little with a folded cloth. Write the time.",
      "say": "Salt on one plate, sugar on another, nothing on the third. Tilt them a little so that any liquid runs to one corner. Write down the time. We look again in thirty minutes.",
      "kid": "Salt on one. Sugar on one. Nothing on one. Tilt the plates. Write the time.",
-     "parent": "Tilt all three plates the same amount, on the same side. Spread the salt and sugar evenly over the slices, so that every slice gets some."
+     "parent": "Tilt all three plates the same amount, on the same side. Spread the salt and sugar evenly over the slices, so that every slice gets some. With 2 to 4 children, each child looks after one plate (plain, salt, sugar) and a fourth child is the timekeeper and recorder. With one child, the grown-up spoons the liquid while the child counts and bends the slices."
     },
     {
      "id": "s4",
@@ -1384,7 +1384,7 @@
      "say": "How much liquid is at the low edge of each plate? Count the teaspoons. Now bend a slice. Is it stiff, or floppy? Which plate has the floppiest slices?",
      "kid": "Spoon up the liquid. Count the teaspoons. Bend a slice. Stiff or floppy?",
      "wait": "Wait 30 minutes, then another 30 minutes, between looks.",
-     "parent": "Typical: the salt plate has one or two teaspoons by 60 minutes, and its slices are limp. The sugar plate has less, and the plain plate has a few drops, with stiff slices. Exact numbers differ. Salt is sprinkled as grains, which may draw water faster than the sugar grains."
+     "parent": "Typical: by 60 minutes the salt plate has gathered roughly half to one and a half teaspoons of liquid and its slices bend limply. The sugar plate gathers less, and the liquid is sticky. The plain plate has only a few drops, and its slices stay stiff. Exact numbers differ with the cucumber, the slice thickness and the room. If there is hardly any liquid, wait to 90 minutes. The order, salt then sugar then plain, is more reliable than the amounts. Salt draws more water than the same weight of sugar because the grains are smaller and there are more of them in a teaspoon."
     },
     {
      "id": "s5",
@@ -1436,6 +1436,7 @@
      "qty": 1
     }
    ],
+   "safety": "No tasting is needed. Read milk and paneer packets closed, and do not open any packet. Look at the allergen lines for any food allergy in your family.",
    "schedule": [
     {
      "day": 1,
@@ -1496,7 +1497,7 @@
       "a": 0,
       "why": "In India and many countries, ingredients are listed from the most to the least by weight. The first one, sugar here, is the biggest part. The order is not the order of cooking."
      },
-     "parent": "The FSSAI licence or registration number has 14 digits. The green dot in a green-edged square means vegetarian. A brown mark in a brown-edged square means non-vegetarian. If a packet has none of these, note that it does not show them."
+     "parent": "The FSSAI licence or registration number has 14 digits. The green dot in a green-edged square means vegetarian. A brown mark in a brown-edged square means non-vegetarian. If a packet has none of these, note that it does not show them. With 2 to 4 children, each child takes one or two packets and fills in those rows, then everyone compares. A packet with no FSSAI number or no date is itself a finding."
     },
     {
      "id": "s3",
@@ -1537,7 +1538,7 @@
    "context": "In this activity, you test three samples with iodine to see which ones hold starch. You use milk that you have mixed yourself, so you know what is in it. Food officers use the same test to look for flour in milk.",
    "materials": [
     {
-     "item": "tincture of iodine from a chemist, a small bottle",
+     "item": "tincture of iodine from a chemist, a small bottle. If you cannot find it, Betadine (povidone-iodine) solution from any medical shop works too: mix one part with four parts of water. It gives a weaker, bluer-black colour.",
      "qty": 1,
      "buy": "b-iodine"
     },
@@ -1554,11 +1555,11 @@
      "qty": 1
     },
     {
-     "item": "a thin slice of raw potato",
+     "item": "a thin slice of raw potato (also, for an extra round: a bit of bread, cooked rice, a biscuit, a pinch of sugar)",
      "qty": 1
     },
     {
-     "item": "2 teaspoons, a marker and 3 labels",
+     "item": "2 teaspoons, a toothpick or clean ear bud for putting on the drops, a marker and 3 labels",
      "qty": 1
     }
    ],
@@ -1569,7 +1570,7 @@
      "what": "Prepare the three samples. A grown-up adds the iodine. Watch the colours. Talk about what the test can and cannot tell us."
     }
    ],
-   "safety": "Tincture of iodine is poisonous if swallowed and it stains clothes and skin, it hurts if it gets in the eyes, and it catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap.",
+   "safety": "Tincture of iodine is poisonous if swallowed and it stains clothes and skin, it hurts if it gets in the eyes, and it catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap. Wear old clothes, because iodine stains. Only the grown-up touches the bottle, and iodine goes only on the saucers, never on skin or on food that will be eaten.",
    "record": "A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Draw the three saucers with their colours.",
    "setup": [
     {
@@ -1642,7 +1643,7 @@
      "say": "This test finds starch. It cannot find every cheat. Why do food officers test milk? What else might someone mix in?",
      "kid": "What can the test find? What can it not find?",
      "think": "If the test does not turn blue, does that prove the milk is perfect?",
-     "parent": "The test only finds starch. It does not find water, other additives or microbes. Milk from a reliable shop is usually fine. This activity is about how a test works, not a way to check the family's milk. Do not use iodine on food that will be eaten."
+     "parent": "The test only finds starch. It does not find water, other additives or microbes. Milk from a reliable shop is usually fine. This activity is about how a test works, not a way to check the family's milk. Do not use iodine on food that will be eaten. Extra round, if there is time: before testing, each child predicts which of bread, cooked rice, a biscuit and a pinch of sugar will turn blue-black, and the grown-up tests them. Bread, rice and biscuit do; sugar does not. With 2 to 4 children, one reads the colour, one records and one draws."
     }
    ]
   },
@@ -1697,7 +1698,7 @@
      "do": "Draw a fridge with a freezer on top, three shelves, a drawer at the bottom and a door. Write one food on each of 12 cards. The foods are raw fish in a covered box, cooked dal, cut papaya and curd. Then milk, washed vegetables, a sealed jar of lemon pickle and boiled eggs. Then leftover rice, idli batter, a sealed jar of jam and cut coconut.",
      "say": "Here is a fridge, and here are twelve foods. Where would you put each one, and why? Some may not need to go in a fridge at all.",
      "kid": "Draw a fridge. Make 12 food cards. Guess where each one goes.",
-     "parent": "No fridge at home? Draw one anyway, and also draw a cool, shaded corner of the kitchen. The puzzle is about reasons, not about the fridge."
+     "parent": "No fridge at home? Draw one anyway, and also draw a cool, shaded corner of the kitchen. The puzzle is about reasons, not about the fridge. In a vegetarian home, the raw fish card can be a picture on the card only, or be swapped for raw eggs in a tray. It stands for any raw meat that drips."
     },
     {
      "id": "s2",
@@ -1717,7 +1718,7 @@
       "a": 0,
       "why": "Raw fish and meat carry bacteria. If they were on a high shelf, juice could drip onto cooked food or fruit below, and nothing would kill those bacteria. The bottom shelf, in a covered box, keeps the drips away from everything else."
      },
-     "parent": "A good plan: raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya in covered containers on the middle shelves. Curd and milk covered. Vegetables in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once opened. Idli batter in a large covered container, because the cold slows its rising."
+     "parent": "A good plan: raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya in covered containers on the middle shelves. Curd and milk covered. Vegetables in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once opened. Idli batter in a large covered container, because the cold slows its rising. Score yourself: 1 point for each card placed where the key puts it, and 1 more for a good reason, out of 24. Then, with a grown-up opening the real fridge, check if anything raw sits above cooked food and if everything is covered. If there is a fridge thermometer, it should read 5 degrees or less. With 2 to 4 children, each child places 3 or 4 cards, and the others agree or argue."
     },
     {
      "id": "s3",
@@ -1760,11 +1761,12 @@
      "qty": 1
     },
     {
-     "item": "a kitchen or fridge thermometer, if you have one (optional)",
+     "item": "a kitchen or fridge thermometer, if you have one (optional). A fever thermometer only reads 35 to 42 degrees and cannot be used for the fridge or for hot water.",
      "qty": 1,
      "buy": "b-thermo"
     }
    ],
+   "safety": "A grown-up carries and pours anything hot, such as tea or boiling water. Children only read the thermometer. Never put a glass thermometer into boiling water or the freezer.",
    "schedule": [
     {
      "day": 1,
@@ -1815,7 +1817,7 @@
       "a": 0,
       "why": "35 degrees is between 5 and 60, so it is in the danger zone. Bacteria in the rice multiply quickly there. The rice should be eaten within about two hours, or cooled and put in the fridge."
      },
-     "parent": "With a kitchen thermometer, you could measure the fridge and a cup of tap water. A fridge should be at or below 5 degrees. A freezer should be at minus 18."
+     "parent": "With a kitchen thermometer, you could measure the fridge and a cup of tap water. A fridge should be at or below 5 degrees. A freezer should be at minus 18. Predict first. Each child puts each note where they think it goes before they are told the numbers, then corrects it. Count how many were right within one mark. With 2 to 4 children, share the notes out and then compare strips. 'A Chennai kitchen in May is at 35' is a typical figure, not exact."
     },
     {
      "id": "s3",
@@ -1824,7 +1826,8 @@
      "do": "Ask the questions below. Draw an arrow on your strip showing how hot food should cool, and how cold food should warm up.",
      "say": "Hot dal has to cool before it goes into the fridge. Does it help to leave it in a deep pot, or to spread it in a shallow dish? Why?",
      "kid": "How can hot food leave the red zone quickly?",
-     "think": "How could you tell if a big pot of food is still in the danger zone, without a thermometer?"
+     "think": "How could you tell if a big pot of food is still in the danger zone, without a thermometer?",
+     "parent": "Optional test (10 minutes extra): a grown-up pours the same amount of hot tap water into a deep katori and into a wide plate. After 10 minutes the children feel both with a finger (or read a thermometer). The plate is cooler, which is why shallow dishes cool food faster."
     }
    ]
   }
@@ -1950,7 +1953,8 @@
       ],
       "a": 0,
       "why": "Cup 1 is the control. It shows what the milk does on its own. If cups 2 and 3 set and cup 1 does not, the starter is what turned the milk into curd."
-     }
+     },
+     "parent": "With 2 to 4 children, each child looks after one cup: adds its starter, labels it and tilts it at each check. With one child, do all four cups yourselves. Use a clean spoon for each cup. In a cold kitchen (below about 25 degrees, in winter) curd may take a day or more, so put cups 1 to 3 in a closed steel box or casserole with a bottle of warm water beside them. Change the water in the evening."
     },
     {
      "id": "s4",
@@ -1960,7 +1964,7 @@
      "say": "Tilt each cup a little. Has it set? Is it thick? Is it still milk? Which cup is ahead?",
      "kid": "Tilt each cup gently. Set, thick or runny? Write it down.",
      "wait": "Leave the cups for 6 to 12 hours before the first check.",
-     "parent": "Typical in a warm kitchen at about 30 degrees: cup 3 sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day."
+     "parent": "Typical in a warm kitchen at about 30 degrees: cup 3 sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day. These times are typical, not promised. If nothing has set in cup 3 after 24 hours, the milk was probably too hot when the starter went in, or the starter was old. Say so, and try again with fresh curd."
     },
     {
      "id": "s5",
@@ -1980,7 +1984,7 @@
       "a": 0,
       "why": "The curd bacteria multiply and make acid. The acid thickens the milk, and it makes life hard for many harmful microbes. Useful microbes that get there first can protect the food."
      },
-     "parent": "A good answer: What I think: curd microbes in the starter turn milk into curd, and more starter works faster. What I saw: cup 3 set first, and cup 1 did not set. Why: the bacteria in the starter multiply in warm milk and make acid. The cold in the fridge slows them. Link to the card: Friend or foe? Never taste cup 1 or any cup that smells off."
+     "parent": "A good answer: What I think: curd microbes in the starter turn milk into curd, and more starter works faster. What I saw: cup 3 set first, and cup 1 did not set. Why: the bacteria in the starter multiply in warm milk and make acid. The cold in the fridge slows them. Link to the card: Friend or foe? Never taste cup 1 or any cup that smells off. Extra test of 'cold does not kill': on day 3, take cup 4 out of the fridge and leave it in the warm cupboard overnight. It will usually start to thicken, which shows the cold only slowed the curd bacteria. Cup 4 may also thicken a little in the fridge by day 3."
     }
    ]
   }
@@ -1990,15 +1994,15 @@
    "id": "c1",
    "title": "Keep the Ice: a lunch box that keeps cold",
    "mins": 45,
-   "problem": "Build a box that keeps three ice cubes frozen for as long as possible on a warm kitchen counter. The box that gives the least meltwater after two hours wins.",
+   "problem": "Build a box that keeps ice frozen for as long as possible on a warm kitchen counter. The box that gives the least meltwater after one hour wins.",
    "constraints": [
     "Use only things from home, and no ice pack bought for the purpose.",
-    "Start with three ice cubes from the same tray, of the same size, taken out at the same moment.",
+    "Start with three ice cubes from the same tray, of the same size, taken out at the same moment. Use the same kind of dabba in every box, and the same plain box as a comparison.",
     "Close the box with a lid, a plate or a cloth.",
-    "Leave every box on the same counter for exactly two hours, then measure the meltwater."
+    "Leave every box on the same counter for exactly one hour, then measure the meltwater. If even the best box has lost all its ice, repeat with bigger ice: freeze water overnight in a small katori and use one block in each box."
    ],
    "materials": [
-    "a steel dabba or plastic box with a lid, for each design",
+    "a steel dabba or plastic box with a lid, for each design (a steel glass and a plate for a lid also works)",
     "foil, newspaper, a cloth, bubble wrap or a woollen sock",
     "a measuring cup and a teaspoon",
     "ice cubes from one tray, and a clock",
@@ -2014,7 +2018,7 @@
     "Make a box inside a box inside a box, with air pockets in between.",
     "Pack the ice cubes tightly together, so that there is less surface to melt."
    ],
-   "your_turn": "Sketch your box. Build it and put in three ice cubes. After two hours, pour the water into the measuring cup and write down how much. Change one thing, such as one more layer, and test again. Which box kept the most ice? Why do you think it worked?",
+   "your_turn": "Sketch your box. Build it and put in three ice cubes. After one hour, pour the water into the measuring cup and write down how much. Change one thing, such as one more layer, and test again. Which box kept the most ice? Why do you think it worked?",
    "context": "This is a design challenge about keeping things cold. Ice is a stand-in for a cold lunch box, since a lunch box that keeps ice also keeps food cooler.",
    "setup": [
     {
@@ -2027,7 +2031,7 @@
     },
     {
      "art": "A measuring cup with meltwater from one box and a child comparing it with the water from a plain box.",
-     "caption": "3. After two hours, measure the meltwater from each box."
+     "caption": "3. After one hour, measure the meltwater from each box."
     }
    ],
    "flow": [
@@ -2052,18 +2056,18 @@
     {
      "id": "s2",
      "mins": 15,
-     "context": "In this step, you build your first design and start the two hours.",
+     "context": "In this step, you build your first design and start the one hour.",
      "do": "Build your box. Put in three ice cubes. Build a plain box with no wrapping too. Put them side by side on the counter. Write down the time.",
-     "say": "Both boxes start at the same time with the same ice. Write down the time. In two hours we measure the water.",
+     "say": "Both boxes start at the same time with the same ice. Write down the time. In one hour we measure the water.",
      "kid": "Build the box. Add three ice cubes. Write down the time.",
-     "wait": "Wait 2 hours before measuring the water.",
-     "parent": "Take the ice cubes out of the freezer at the same moment, and put them in the boxes straight away. Keep the boxes out of the sun and away from the stove."
+     "wait": "Wait 1 hour before measuring the water.",
+     "parent": "Take the ice cubes out of the freezer at the same moment, and put them in the boxes straight away. Keep the boxes out of the sun and away from the stove. On a 33 degree counter, three small cubes in a plain box often melt in 30 to 45 minutes, so one hour shows the difference. With 2 to 4 children, each child builds a different box and all boxes start together. Only a grown-up uses scissors on foil or bubble wrap."
     },
     {
      "id": "s3",
      "mins": 20,
      "context": "This is the last step of the Keep the Ice challenge. You measure the meltwater, change one thing and think about real lunch boxes.",
-     "do": "After two hours, pour the water from each box into the measuring cup. Write it down. Change one thing in your design and try again if you have time. Ask the question below.",
+     "do": "After one hour, pour the water from each box into the measuring cup. Write it down. Change one thing in your design and try again if you have time. Ask the question below.",
      "say": "How much water is in each box? Which box melted the least? What did you change? Does the same trick work for a lunch box with curd rice in it?",
      "kid": "Measure the water. Which melted least? Why?",
      "check": {
@@ -2089,7 +2093,8 @@
     "Choose four foods, with at least one dry food and at least one salty or sour food.",
     "No cut fruit or cooked rice may sit in the sun for more than two hours.",
     "Say what water you will use to wash anything and to drink.",
-    "Write one rule for the helpers about hands, covering or temperature."
+    "Write one rule for the helpers about hands, covering or temperature.",
+    "Put up a sign for the common allergens in your foods, such as groundnuts, milk and wheat."
    ],
    "materials": [
     "a sheet of paper and a pencil",
@@ -2099,7 +2104,7 @@
    "general": [
     "Dry snacks such as murukku, roasted chana or puffed rice in closed tins.",
     "A sealed packet of fruit juice or whole fruit with skin, such as bananas.",
-    "Hot food cooked on the spot and served at once, such as bajji or vada."
+    "Hot food cooked on the spot by a grown-up and served at once, such as bajji or vada."
    ],
    "creative": [
     "A cool box with a frozen water bottle for the curd, and a rule that the curd is only served from the box.",
@@ -3267,7 +3272,7 @@
    "id": "b-yeast",
    "item": "A packet of dry baking yeast",
    "kind": "material",
-   "why": "For the Yeast in Four Places test. A small packet from a bakery shop is enough.",
+   "why": "For the Yeast in Four Places test. A small packet of dry or instant yeast from a bakery or kirana shop is enough. Check the date.",
    "url": "https://www.amazon.in/s?k=instant+dry+yeast+baking",
    "used_in": [
     "e1"
@@ -3287,7 +3292,7 @@
    "id": "b-iodine",
    "item": "A small bottle of tincture of iodine",
    "kind": "material",
-   "why": "For the Starch Detective activity. A grown-up uses it. Chemist shops sell small bottles for a few rupees.",
+   "why": "For the Starch Detective activity. A grown-up uses it. Chemist shops sell small bottles for a few rupees. Betadine solution diluted with water is a substitute.",
    "url": "https://www.amazon.in/s?k=tincture+iodine",
    "used_in": [
     "a2"
@@ -3297,7 +3302,7 @@
    "id": "b-thermo",
    "item": "A fridge or kitchen thermometer",
    "kind": "tool",
-   "why": "To measure the fridge and a cup of hot or cold water for the Temperature Strip. A cheap alcohol thermometer works.",
+   "why": "To measure the fridge and a cup of hot or cold water for the Temperature Strip. A cheap alcohol or digital kitchen thermometer works. A fever thermometer does not, because it only reads 35 to 42 degrees.",
    "url": "https://www.amazon.in/s?k=fridge+thermometer",
    "used_in": [
     "a4"
@@ -3427,5 +3432,5 @@
    "World Health Organization, oral rehydration salts: home recipe of 6 level teaspoons of sugar and half a level teaspoon of salt in 1 litre of clean water"
   ]
  },
- "playtest": "Read through as a parent and child in a city flat would use it, but not yet run at home with children. Yeast in Four Places: dry yeast and sugar in lukewarm water foam within 15 to 30 minutes. In a warm-water bath the foam rises several centimetres in an hour. On a Chennai counter in May, the room is warm enough that glass B may foam nearly as fast as C. This is not a mistake, and is itself a lesson about the danger zone, so write down the room temperature. The fridge glass hardly changes, and the heated glass stays flat if the mixture was steaming for 2 minutes. Handprints on a Potato: a sealed bag of boiled potato at room temperature usually shows spots in 2 to 4 days and fuzzy mould by day 7. The order, from most to fewest, is usually dirty finger, then water rinse, then soap, then the untouched slice, but one potato and one finger is a small test, so any order is a real result. Never open the bags. Salt Pulls Water Out: 1 teaspoon of salt on 4 slices usually gives about 1 to 2 teaspoons of liquid in 60 minutes, and sugar gives less. Starch Detective needs a grown-up for the iodine. Curd Lab: on a 30 degree counter, a tablespoon of starter usually sets 150 millilitres of milk in 6 to 8 hours, and a teaspoon in 8 to 10 hours. Outbreak Detectives: the totals for both mysteries were counted by script, and are written in the step notes. Facts for a grown-up to verify before release: the 14-digit FSSAI number, the exact shape of the brown non-vegetarian mark (sources differ), the details of the 1906 to 1907 typhoid case and Dr. Sara Josephine Baker's part in it, the estimate of bacterial cells in the body, the handwashing reduction in diarrhoea, the WHO home recipe for a rehydration drink, the Chandogya, Quran and Tirukkural references, and the ids for the three videos."
+ "playtest": "Read through as a parent and child in a city flat would use it, but not yet run at home with children. Yeast in Four Places: dry yeast and sugar in lukewarm water foam within 15 to 30 minutes. In a warm-water bath the foam rises several centimetres in an hour. On a Chennai counter in May, the room is warm enough that glass B may foam nearly as fast as C. This is not a mistake, and is itself a lesson about the danger zone, so write down the room temperature. The fridge glass hardly changes, and the heated glass stays flat if the mixture was steaming for 2 minutes. Handprints on a Potato: a sealed bag of boiled potato at room temperature usually shows spots in 2 to 4 days and fuzzy mould by day 7. The order, from most to fewest, is usually dirty finger, then water rinse, then soap, then the untouched slice, but one potato and one finger is a small test, so any order is a real result. Never open the bags. Salt Pulls Water Out: 1 teaspoon of salt on 4 slices typically gives roughly half to one and a half teaspoons of liquid in 60 minutes, and sugar gives less. Starch Detective needs a grown-up for the iodine. Curd Lab: on a 30 degree counter, a tablespoon of starter usually sets 150 millilitres of milk in 6 to 8 hours, and a teaspoon in 8 to 10 hours. Outbreak Detectives: the totals for both mysteries were counted by script, and are written in the step notes. Facts for a grown-up to verify before release: the 14-digit FSSAI number, the exact shape of the brown non-vegetarian mark (sources differ), the details of the 1906 to 1907 typhoid case and Dr. Sara Josephine Baker's part in it, the estimate of bacterial cells in the body, the handwashing reduction in diarrhoea, the WHO home recipe for a rehydration drink, the Chandogya, Quran and Tirukkural references, and the ids for the three videos."
 }

@@ -657,7 +657,7 @@
      "do": "Draw the pond board. Put 16 fish tokens in the pond. Give each player a bowl. Put the year marker on Year 1.",
      "say": "This pond has 16 fish. We are three villagers, and we all live from this pond. Fish have young every year. Let's find out how many we can catch.",
      "kid": "Draw a pond. Put 16 beans in it. Each player gets a bowl.",
-     "parent": "Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now. Dried beans can choke a child under five, so keep them away from little ones."
+     "parent": "Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now. Dried beans can choke a child under five, so keep them away from little ones. With four villagers, use the same 16 fish. It gets tighter, which is part of the lesson. With one child and a parent, the parent plays one villager and the child plays two."
     },
     {
      "id": "s2",
@@ -853,7 +853,7 @@
      "do": "Each family draws a farm sheet. Lay out the five variety cards. Each family writes a variety in each of five boxes, and one in the seed jar. Do it in secret.",
      "say": "You are a farm family. Choose what to grow in each of your five fields. You can grow one kind or many. Pick one kind to keep in your seed jar.",
      "kid": "Draw five boxes and a jar. Write a rice in each. Keep it secret.",
-     "parent": "Do not explain the blight yet. Let the children choose without knowing what is coming."
+     "parent": "Do not explain the blight yet. Let the children choose without knowing what is coming. You need no special items: use scrap paper for the sheets and cut paper for the cards. Two to four players. Alone, play two families."
     },
     {
      "id": "s2",
@@ -957,7 +957,7 @@
      "qty": 1
     },
     {
-     "item": "about 240 dried chickpeas (kabuli chana) or rajma beans, counted out by a grown-up before the experiment",
+     "item": "about 240 dried white chickpeas (kabuli chana), which show a marker dot clearly. Dark rajma hides the dot, so use it only with a white marker or correction pen, counted out by a grown-up before the experiment",
      "qty": 1,
      "buy": "b-beans"
     },
@@ -966,7 +966,7 @@
      "qty": 1
     },
     {
-     "item": "a tablespoon or a small scoop that holds about 30 to 40 chickpeas (test it first; a katori is too big for 240 beans)",
+     "item": "a small steel serving spoon or a small cup that holds about 30 to 45 chickpeas when heaped (test it first. A katori is too big for 240 beans, and an ordinary tablespoon may hold only about 20)",
      "qty": 1
     },
     {
@@ -1024,7 +1024,7 @@
        ]
       }
      ],
-     "parent": "A grown-up counts the beans in tens the day before, puts exactly 240 in the jar, and writes the number on a folded slip hidden under the lid. Do not correct the guess. Any guess with a reason is a good start."
+     "parent": "A grown-up counts the beans in tens the day before, puts exactly 240 in the jar, and writes the number on a folded slip hidden under the lid. Do not correct the guess. Any guess with a reason is a good start. One child: the parent counts and hides the beans, the child does everything else. Two to four children: one scoops, one counts all the beans (C), one counts the dotted beans (R), one writes the table, and swap roles for each scoop. For a fair race, each pair can use its own jar and then compare averages."
     },
     {
      "id": "s2",
@@ -1033,7 +1033,7 @@
      "do": "Scoop one spoonful of beans onto the plate. Count the beans in the scoop. Write the number as M. Put a dot on each bean with the marker.",
      "say": "We take a scoop of beans and count them. Then we put a dot on each one. This is the number we marked.",
      "kid": "Scoop some beans. Count them. This is M. Put a dot on each bean.",
-     "parent": "Test your spoon first: it should hold about 30 to 40 chickpeas. If it holds many more than 60, use a smaller spoon. M can be any number, as long as you count it exactly."
+     "parent": "Test your spoon first by scooping from the jar and counting: it should hold about 30 to 45 chickpeas. If it holds fewer than 20 the dots are too few and the estimates swing wildly. If it holds more than 60, use a smaller spoon. M can be any number, as long as you count it exactly."
     },
     {
      "id": "s3",
@@ -1091,7 +1091,7 @@
        ]
       }
      ],
-     "parent": "Single estimates often range from about 150 to 400. The average of five usually lands closer to the real number. Averaging is how scientists make a sample more trustworthy."
+     "parent": "With 240 beans and a first scoop of about 40, single estimates typically fall between about 150 and 400. The average of five usually lands closer to the real number, though not always exact. A fairer method is to add up all five C values and all five R values, then work out M times total C divided by total R. Try both and see which is closer. If all five estimates are far from the truth, check that the jar was shaken well and the dots were not rubbed off. Averaging is how scientists make a sample more trustworthy."
     },
     {
      "id": "s6",
@@ -1238,7 +1238,7 @@
      "say": "A is plain tap water. B is the cloudy water from rinsing rice. C has a teaspoon of washing-up liquid in a cup of water. D has a teaspoon of salt in a cup of water. Never taste any of them.",
      "kid": "Make four liquids. Tap. Rice water. Soapy water. Salty water. Label them A to D.",
      "adult": true,
-     "parent": "Use the first, cloudiest rinse of the rice for B. Keep a glass of each liquid for the days ahead, covered, because you will need about 1 tablespoon of each for each of the next five days. Make a fresh batch on day 4 if the rice water smells sour."
+     "parent": "Use the first, cloudiest rinse of the rice for B. Keep a glass of each liquid for the days ahead, covered, because you will need about 1 tablespoon of each for each of the next five days. Make a fresh batch on day 4 if the rice water smells sour. Use a separate spoon for each liquid, or rinse the spoon between them. One child: do all four cups. Two to four children: each child looks after one cup (water it, count, measure), and all four compare at the end. With four or more children, a pair can run a second set of cups so the results can be checked."
     },
     {
      "id": "s3",
@@ -1266,8 +1266,8 @@
      "do": "On days 2 to 5, add 1 tablespoon of the right liquid to each cup. On day 3, count the seeds that show a root in each cup. Write the numbers in the table.",
      "say": "Look at the cups each morning. Add one tablespoon of the right water. On day three, count how many seeds have a root. Is it the same in every cup?",
      "kid": "Add one spoon to each cup every day. On day 3, count the sprouted seeds.",
-     "wait": "Leave the cups for 2 days between looking, adding a spoon of liquid each morning.",
-     "parent": "A root is a thin white tip poking out of the seed. Moong usually sprouts in plain water within 2 days. If cup A has not sprouted by day 3, the seeds are old, and the test is not fair. Start again with fresher seeds."
+     "wait": "Add a spoon of liquid to each cup every morning, and look closely on day 3.",
+     "parent": "In hot weather the towels can dry out in a few hours. If the towel is dry to touch, add the same extra spoon to every cup in the evening, and write it down. In monsoon, if the towels turn slimy or fuzzy, change the towels in every cup the same way. A root is a thin white tip poking out of the seed. Moong usually sprouts in plain water within 2 days. If cup A has not sprouted by day 3, the seeds are old, and the test is not fair. Start again with fresher seeds."
     },
     {
      "id": "s5",
@@ -1287,7 +1287,7 @@
       "a": 0,
       "why": "Salt pulls water out of seeds and roots, so they struggle to drink. This is why salty groundwater, in places where sea water has seeped into the ground, harms crops. Picking the second option means thinking more of anything is always better."
      },
-     "parent": "Typical results: tap water and rice water are both good, and rice water is often as good or a little better. Soapy water and salty water slow the sprouts, and may stop some seeds. If every cup looks the same, write that down. It may mean the teaspoon was too little to harm moong in 6 days, and you could try 2 teaspoons next time. Rice water is a good use for second-hand water. Soap and salt should not go on plants."
+     "parent": "On day 6, healthy moong sprouts on paper towel are typically about 3 to 8 centimetres tall. Typical results: tap water and rice water are both good, and rice water is often as good or a little better. Soapy water and salty water slow the sprouts, and may stop some seeds. If every cup looks the same, write that down. It may mean the teaspoon was too little to harm moong in 6 days, and you could try 2 teaspoons next time. Rice water is a good use for second-hand water. Soap and salt should not go on plants."
     }
    ]
   },
@@ -1333,7 +1333,7 @@
      "qty": 1
     },
     {
-     "item": "a measuring cup that shows 100 millilitres, and a spoon",
+     "item": "a measuring cup or a small medicine measure that shows 100 millilitres (without one, 100 millilitres is about 7 level tablespoons, but a cup is easier for reading what is collected), and a spoon",
      "qty": 1
     },
     {
@@ -1393,11 +1393,11 @@
      "id": "s2",
      "mins": 8,
      "context": "In this step, you build the four funnels. A grown-up cuts the bottles.",
-     "do": "A grown-up cuts each bottle across, about 10 centimetres below the cap. Turn each top half upside down. Push a small cloth plug into each neck. Stand each funnel in a glass.",
+     "do": "A grown-up cuts each bottle across, about 12 centimetres below the cap. Turn each top half upside down. Push a small cloth plug into each neck. Stand each funnel in a glass.",
      "say": "Each top half of a bottle is a funnel. The cloth plug lets water drip out but keeps the sand and soil in. Stand each funnel in its own glass.",
      "kid": "A grown-up cuts four bottles. Plug each neck with cloth. Stand them in glasses.",
      "adult": true,
-     "parent": "The cloth should sit snugly in the neck, but not be packed hard. If it is too tight, water will crawl through very slowly, and all four funnels will look alike. Use the same amount of cloth in each."
+     "parent": "The cloth should sit snugly in the neck, but not be packed hard. If it is too tight, water will crawl through very slowly, and all four funnels will look alike. Use the same amount of cloth in each. A little fine sand may wash through the cloth the first time, so ignore it. If the cut-off funnel is shallow, the water may reach the rim above the pressed soil. If so, pour the 100 millilitres in 3 or 4 small pours in all four funnels the same way. One child: do the four funnels one at a time. Four children: each takes one funnel, and all pour on the word go while one grown-up calls the time. With two children, each does two."
     },
     {
      "id": "s3",
@@ -1425,7 +1425,7 @@
      "do": "Start with funnel A. Pour in 100 millilitres of water in about 5 seconds. Start the timer. Write the time of the first drip. After 3 minutes, measure the water in the glass. Do the same for B, C and D, one at a time, and write the numbers.",
      "say": "Pour in the water evenly and start the timer. When does the first drip fall? After three minutes, how much water is in the glass? Is the rest still in the funnel?",
      "kid": "Pour in 100 millilitres. Start the timer. Watch for the first drip. Measure the water at 3 minutes.",
-     "parent": "Typical: the stones let almost all the water through in a few seconds. Sand lets most through within a minute. Loose soil is slow, and pressed soil is slower, with a puddle on top. Exact numbers will differ. If no water comes through D at all, write 0 and note the puddle. That is a result too."
+     "parent": "Pour as steadily as you can, and measure the water collected by pouring it from the glass into the measuring cup. Water still held is 100 minus what you collected. Very dry soil can soak up water at first, so these numbers are about, not exact. Typical: the stones let almost all the water through in a few seconds. Sand lets most through within a minute. Loose soil is slow, and pressed soil is slower, with a puddle on top. Exact numbers will differ. If no water comes through D at all, write 0 and note the puddle. That is a result too."
     },
     {
      "id": "s5",
@@ -1520,7 +1520,7 @@
        ]
       }
      ],
-     "parent": "Choose a person who has lived near you for thirty years or more. Keep the questions simple and open. Do not suggest answers. A phone recording is useful, but ask permission first."
+     "parent": "Choose a person who has lived near you for thirty years or more. Keep the questions simple and open. Do not suggest answers. A phone recording is useful, but ask permission first. One child: the parent writes while the child asks. Two to four children: share the five questions between them, or each child interviews a different elder and you compare tables."
     },
     {
      "id": "s2",
@@ -1584,12 +1584,12 @@
      "qty": 1
     },
     {
-     "item": "3 to 4 cups of clean sand",
+     "item": "3 to 4 cups of clean sand (more for a wide tub, so it should make a layer about 6 centimetres deep)",
      "qty": 1,
      "buy": "b-sand"
     },
     {
-     "item": "1 litre of water in a jug, and a teaspoon or a spoon",
+     "item": "1 litre of water in a jug, and a teaspoon",
      "qty": 1
     },
     {
@@ -1603,6 +1603,10 @@
     {
      "item": "a tray to stand the tub on",
      "qty": 1
+    },
+    {
+     "item": "2 short tubes of stiff card (a rolled and taped strip of card about 3 centimetres across and 8 centimetres tall), with a few holes poked near the bottom, to keep the wells open",
+     "qty": 2
     }
    ],
    "schedule": [
@@ -1636,7 +1640,7 @@
      "id": "s1",
      "mins": 6,
      "context": "This is the first step of Borewell in a Tub. You build the tub and guess what will happen before you pump.",
-     "do": "Fill the clear tub with about 6 centimetres of damp sand. Dig two holes against the front wall, one near each end, down to the bottom. Ask your child to guess what will happen to the other hole when you empty one.",
+     "do": "Fill the clear tub with about 6 centimetres of damp sand. Stand a card tube in each end against the front wall, and pack damp sand around and between them. (Plain holes in sand tend to collapse, so the tubes keep the wells open.) Ask your child to guess what will happen to the other hole when you empty one.",
      "say": "The sand is the ground. Each hole is a well. If we take water out of the left well, what will happen to the right well? Why do you think so?",
      "kid": "Fill the tub with sand. Dig two holes by the wall. Guess what will happen.",
      "ask": [
@@ -1649,7 +1653,7 @@
        ]
       }
      ],
-     "parent": "Damp sand stays in place better than dry sand. If the holes keep collapsing, press a thin strip of card against the wall to hold them open."
+     "parent": "Damp sand stays in place better than dry sand. If you skip the tubes and dig plain holes, they may collapse, which the tubes avoid. Measure the water depth in each well by dipping a ruler or pencil to the bottom and reading the wet mark. One child: do all the jobs. Two to four children: one pumps, one measures each well, one writes, and swap after each round."
     },
     {
      "id": "s2",
@@ -1664,7 +1668,7 @@
      "id": "s3",
      "mins": 7,
      "context": "In this step, you take water out of the left hole and watch what happens in the right hole.",
-     "do": "Use the spoon to scoop water out of the left hole. Do 10 scoops, quickly. After each 3 scoops, measure the water level in both holes. Write the heights down.",
+     "do": "Use the teaspoon to scoop water out of the left well. Do 10 scoops, quickly. After each 3 scoops, measure the water level in both holes. Write the heights down.",
      "say": "Now we are the borewell. Take out water from the left hole, fast. What is happening in the left hole? What is happening in the right hole?",
      "kid": "Spoon water from the left hole. Do 10 scoops. Measure both holes.",
      "check": {
@@ -1678,7 +1682,7 @@
       "a": 0,
       "why": "The water in the sand is joined, so taking it from one place lowers it nearby. This is why a new borewell can dry up an old well next to it."
      },
-     "parent": "Typical: the left hole empties and the right hole falls by half or more. If the right hole barely moves, the sand may be very coarse or wet. Move the holes closer together and try again."
+     "parent": "Typical: the left well empties and the right well falls, often by half or more, though it varies with the sand. Wet sand drains slowly, so wait a minute and measure again. If the right hole barely moves, the sand may be very coarse or wet. Move the holes closer together and try again."
     },
     {
      "id": "s4",
@@ -1769,7 +1773,7 @@
      "say": "Every seed is a plant waiting to grow. Let's save some from what we are eating. Rinse the pulp off, because it can make them rot.",
      "kid": "Scoop out the seeds. Rinse off the pulp. Wash your hands.",
      "adult": true,
-     "parent": "Chilli seeds sting. Wear gloves or wash your hands very well with soap, and keep them away from eyes. Use seeds from a variety you like. Many shop tomatoes and chillies are hybrids, so their seeds may grow into plants that differ from the fruit. Local or traditional kinds usually grow the same as their parents."
+     "parent": "Chilli seeds sting. Wear gloves or wash your hands very well with soap, and keep them away from eyes. Use seeds from a variety you like. Many shop tomatoes and chillies are hybrids, so their seeds may grow into plants that differ from the fruit. Local or traditional kinds usually grow the same as their parents. Tomato and papaya seeds are slimy, so rub them in a sieve under running water, and dry them on a plate, not paper, or they stick. Count the seeds each fruit gave and compare. One child: choose two fruits. Two to four children: each child takes a different fruit."
     },
     {
      "id": "s2",
@@ -1778,7 +1782,7 @@
      "do": "Spread the seeds in a single layer on paper. Put them in the shade, where air can reach them, and not in direct sun. Stir them once a day for 3 days.",
      "say": "Seeds that stay damp go mouldy. They need to dry, in the shade, for a few days. Why do you think we keep them out of strong sun?",
      "kid": "Spread the seeds on paper. Put them in the shade. Stir them each day.",
-     "wait": "Leave the seeds to dry for 3 days.",
+     "wait": "Leave the seeds to dry for 3 days. In damp monsoon weather you should dry them indoors near a fan and give them 5 to 7 days. Put a spoon of dry rice in the tin to soak up moisture.",
      "ask": [
       {
        "q": "Why do you think damp seeds are a problem?",
@@ -1828,7 +1832,7 @@
      "qty": 1
     },
     {
-     "item": "3 or more family members who agree to give a fingerprint",
+     "item": "3 or more family members who agree to give a fingerprint (if there are only 2 people, use two different fingers each, for example thumb and index finger, to make 4 sets)",
      "qty": 1
     },
     {
@@ -1889,7 +1893,8 @@
       ],
       "a": 0,
       "why": "Like fingerprints, the pattern of stripes is different on every tiger, and the pattern does not change over her life. So a photo from a camera trap is like a fingerprint card."
-     }
+     },
+     "parent": "Write down how many you matched out of the total. Smudged prints are hard to match, which is a good thing to talk about: camera trap photos can be blurry too. Two to four children: each makes a set, and the others try to match them."
     },
     {
      "id": "s3",
@@ -1983,7 +1988,7 @@
        ]
       }
      ],
-     "parent": "Count a visit each time a creature lands on a flower. Do not count one that only passes. Do not worry if few come. Write down zero if no one comes."
+     "parent": "Count a visit each time a creature lands on a flower. Do not count one that only passes. Do not worry if few come. Write down zero if no one comes. If few or no visitors come, try another plant (marigold, tulsi in flower, ixora or a flowering weed often draw more), and also count the open flowers so that counts can be compared. Write the weather and whether the flower was in sun or shade. One child: watch and tally alone. Two to four children: one watches the clock, one tallies, and each takes a different plant or time."
     },
     {
      "id": "s2",
@@ -2055,7 +2060,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the seeds away from children under five, as they can choke on them. Do not eat the sprouted seeds from a damp towel. If anyone in the family is allergic to pulses, mustard or fenugreek, a grown-up handles those seeds. Wash your hands afterwards.",
+   "safety": "Keep the seeds away from children under five, as they can choke on them. Do not eat the sprouted seeds from a damp towel. If anyone in the family is allergic to pulses, mustard or fenugreek, a grown-up handles those seeds. Do not sniff mouldy towels. Throw them away in a closed bag. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -2140,7 +2145,7 @@
       "a": 0,
       "why": "In a fair test, only one thing changes. If the plates had different towels or water, we would not know whether the seed or the plate made the difference."
      },
-     "parent": "Mustard and methi seeds are tiny. Count them onto the tip of a spoon. The towel should be damp like a wrung-out cloth, not wet. Too much water rots seeds."
+     "parent": "Mustard and methi seeds are tiny. Count them onto the tip of a spoon. The towel should be damp like a wrung-out cloth, not wet. Too much water rots seeds. One child: set up all six plates. Two to four children: each takes 1 or 2 plates, and everyone checks all the plates together on the counting days. Old seeds from the back of the kitchen may sprout less well than fresh ones, and that is a real result. In hot weather check the towels twice a day."
     },
     {
      "id": "s3",
@@ -3452,7 +3457,7 @@
    "id": "b-beans",
    "item": "White chickpeas (kabuli chana), about 500 grams",
    "kind": "material",
-   "why": "For the Beans in the Jar test. Any big dried bean works. Most kitchens already have chana or rajma.",
+   "why": "For the Beans in the Jar test. White chickpeas show the marker dots clearly. Most kitchens already have them.",
    "url": "https://www.amazon.in/s?k=kabuli+chana+500g",
    "used_in": [
     "e1"
@@ -3471,9 +3476,9 @@
   },
   {
    "id": "b-sand",
-   "item": "Clean fine sand, about 1 kilogram",
+   "item": "Clean fine sand, about 1.5 kilograms",
    "kind": "material",
-   "why": "For the Rain Pit Model and the Borewell in a Tub. Washed sand from a hardware shop or a pet shop is fine.",
+   "why": "For the Rain Pit Model and the Borewell in a Tub. Washed river sand from a hardware shop or aquarium sand is fine. Rinse dusty sand in a bucket and dry it first. You need about 6 cups in all.",
    "url": "https://www.amazon.in/s?k=aquarium+sand+1+kg",
    "used_in": [
     "e3",
@@ -3484,7 +3489,7 @@
    "id": "b-lens",
    "item": "A small magnifying glass",
    "kind": "tool",
-   "why": "To look at fingerprints, seeds and flower parts closely. A cheap one from a stationery shop is enough.",
+   "why": "Optional. To look at fingerprints, seeds and flower parts closely. A cheap one from a stationery shop is enough.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a4",
