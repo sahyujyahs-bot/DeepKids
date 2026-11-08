@@ -770,7 +770,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the 25 journey cards and the 10 cut cards. 2. Shuffle the journey cards. 3. Spread them out, writing side up.",
+     "do": "1. Print or draw the 25 journey cards and the 10 cut cards on card or paper before the game. 2. Cut them out. A group can share the cutting. 3. Shuffle the journey cards. 4. Spread them out, writing side up.",
      "say": "Five parasites are mixed up in this pile. Each one has five steps. Your job is to sort them into five journeys, and put each in order.",
      "kid": "Cut out the cards. Shuffle the journey cards. Spread them out.",
      "context": "This is the first step of Order the Journey. You set out the cards."
@@ -792,7 +792,8 @@
       "a": 0,
       "why": "The larvae that leave the foot are not yet ready to infect a person. They need about two weeks inside a copepod. That is why a cloth that holds back the copepods breaks the journey."
      },
-     "context": "In this step you sort the journey cards and put them in order."
+     "context": "In this step you sort the journey cards and put them in order.",
+     "parent": "For a race, each player needs their own set. Print two to four sets, or take turns against a clock and compare times. Sorting alone with a parent: the parent keeps the answer sides turned away."
     },
     {
      "id": "s3",
@@ -922,7 +923,8 @@
      "do": "Cut out the 12 clue cards and shuffle them. Choose a reader.",
      "say": "Each card has three clues. Guess early to score more. Is it a parasite, a carrier, or a way of breaking a journey?",
      "kid": "Cut out the cards. Choose a reader. Guess after each clue.",
-     "context": "This is the first step of Who Am I?, a guessing game with clues."
+     "context": "This is the first step of Who Am I?, a guessing game with clues.",
+     "parent": "Two to four players: take turns being the reader. One child with a parent: the parent is the reader first, then the child reads aloud, and the parent guesses."
     },
     {
      "id": "s2",
@@ -978,7 +980,7 @@
    "title": "The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?",
    "mins": 36,
    "days": 1,
-   "question": "A cloth over the pot held back the tiny water animals that carried the Guinea worm. Which cloth, and how many layers of it, catches pretend copepods, and how much slower does the water flow when the cloth is finer?",
+   "question": "A cloth over the pot held back the tiny water animals that carried the Guinea worm. Which cloth, and how many layers of it, catches pretend copepods, and how much slower (in seconds) does the water flow when the cloth is finer?",
    "predict": "Before you start, guess. Which cloth, with how many layers, will catch all the pretend copepods? Which filter will let the water through the slowest? Why do you think so?",
    "fair_test": "Every test uses the same amount of water, the same number of seeds, the same glass and the same slow pour. Only the filter changes. You use 10 mustard seeds as big pretend copepods and 10 khus khus seeds as small ones. You time how long 100 millilitres of water takes to pass, and you count the seeds that get through into the glass. If the water takes more than 3 minutes, you stop timing and write more than 3 minutes.",
    "results_table": [
@@ -1018,11 +1020,11 @@
      "qty": 2
     },
     {
-     "item": "a small katori or cup that holds about 100 millilitres, and a jug of tap water",
+     "item": "a small katori or cup that holds about 100 millilitres (use the same one every time; fill it once from a measuring jug to check), and a jug of tap water",
      "qty": 2
     },
     {
-     "item": "half a teaspoon of turmeric powder, and a sheet of white paper to hold behind the glass",
+     "item": "a few drops of food colour or washable blue ink, or half a cup of strong leftover tea, and a sheet of white paper to hold behind the glass",
      "qty": 2
     },
     {
@@ -1034,7 +1036,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the seeds away from babies and small children, who may put them in their mouth or nose. Mustard and poppy seeds cause allergies in some people, so if anyone at home is allergic, use dry dal and rice grains instead, and wash hands after handling seeds. Nothing in this test is eaten or drunk, so do not taste the water. Turmeric stains cloth and fingers yellow, so use an old cloth and wash your hands afterwards. Wipe up spilt water so nobody slips.",
+   "safety": "Keep the seeds away from babies and small children, who may put them in their mouth or nose. Mustard and poppy seeds cause allergies in some people, so if anyone at home is allergic, use dry dal and rice grains instead, and wash hands after handling seeds. Nothing in this test is eaten or drunk, so do not taste the water. Food colour, ink and tea stain cloth and fingers, so use an old cloth, keep ink away from the mouth and eyes, and wash your hands afterwards. Wipe up spilt water so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -1126,7 +1128,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess. A guess with a reason is a good start. If your child says the thicker cloth will be the slowest, ask why.",
+     "parent": "Do not correct any guess. A guess with a reason is a good start. If your child says the thicker cloth will be the slowest, ask why. One child with a parent: the parent pours and times, the child counts. Two to four children: share the jobs. One pours, one runs the clock, one counts seeds, one writes the table, and swap after each test. Everybody guesses first.",
      "context": "This is the first step of the Sari Filter Test. You guess before you test."
     },
     {
@@ -1163,7 +1165,8 @@
      "do": "Test 3 and Test 4. 1. Put the loose cloth in 4 layers over a clean, dry glass. 2. Stir in a new pile of each seed, pour slowly, time it and count. 3. Do the same with the tight cotton in 1 layer. 4. Write both results.",
      "say": "Same pour, same seeds, same time. Only the cloth is different. Write what you see.",
      "kid": "Test the loose cloth in four layers. Then the tight cotton in one layer. Count and time.",
-     "context": "In this step you run Test 3 with four layers of loose cloth and Test 4 with one layer of tight cotton."
+     "context": "In this step you run Test 3 with four layers of loose cloth and Test 4 with one layer of tight cotton.",
+     "parent": "Wet cloth tends to sag. If the khus khus stick in the cloth and few reach the glass, rinse them off the cloth with a little water into a bowl rather than counting them as through."
     },
     {
      "id": "s5",
@@ -1171,7 +1174,7 @@
      "do": "Test 5 and Test 6. 1. Put the tight cotton in 2 layers over a clean, dry glass. 2. Stir in a new pile of each seed, pour slowly, time it and count. 3. Do the same with the tight cotton in 4 layers. 4. Write both results.",
      "say": "Now the tight cotton in two layers and in four layers. Do more layers catch more seeds? Do they make the water slower?",
      "kid": "Test the tight cotton in two layers. Then in four layers. Count and time.",
-     "parent": "Four layers of tight cotton may take over 3 minutes. If so, write more than 3 minutes and move on. If every test catches every seed, try a looser cloth or the finest rava in place of khus khus.",
+     "parent": "Four layers of tight cotton may take over 3 minutes. If so, write more than 3 minutes and move on. If every test catches every seed, try a looser cloth or the finest rava in place of khus khus. A time over 3 minutes is only written as more than 3 minutes. All times are your own: kitchen water, cloth and glass sizes change them, so compare the filters with each other, not with the made-up example. The seed counts in the example are also made up and typical, not promised.",
      "check": {
       "t": "mcq",
       "q": "A filter with more layers catches more seeds but lets the water through more slowly. Why does a finer filter flow more slowly?",
@@ -1188,19 +1191,19 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Test 7, the turmeric test. 1. Stir half a teaspoon of turmeric into 100 millilitres of water. 2. Pour it slowly through the tight cotton in 4 layers. 3. Hold the glass of filtered water against a white sheet of paper. 4. Look at the colour.",
-     "say": "Turmeric makes the water yellow. We pour it through our finest filter. Is the water that comes out clear, or still yellow?",
-     "kid": "Stir turmeric into water. Pour it through four layers. Is the water still yellow?",
+     "do": "Test 7, the colour test. 1. Stir a few drops of food colour or ink into 100 millilitres of water. 2. Pour it slowly through your finest cloth that passes 100 millilitres in under 3 minutes. 3. Hold the filtered water against white paper, beside the coloured water you started with. 4. Compare the colours.",
+     "say": "This water is coloured. We pour it through our finest usable filter. Is the water that comes out clear, or still coloured?",
+     "kid": "Stir colour into water. Pour it through your finest filter. Is the water still coloured?",
      "ask": [
       {
        "q": "What does the yellow water tell us about what a cloth cannot catch?",
        "good": [
-        "Very tiny things pass through the gaps.",
+        "Very tiny things, like the colour, pass through the gaps.",
         "A cloth cannot catch germs, because they are much smaller than the gaps."
        ]
       }
      ],
-     "parent": "The water will usually still be yellow, even if a little paler. Turmeric colour is made of pieces much smaller than the gaps in cloth. Germs are smaller still, so the cloth would not catch them. This is why boiling is also needed.",
+     "parent": "The water will come out almost as coloured as it went in, because dissolved colour is made of pieces far smaller than the gaps in any cloth. (Tea leaves, if you use tea, are caught, but the brown colour passes.) Germs are also far smaller than the gaps, so a cloth cannot catch them. This is why boiling is also needed. Do not use turmeric powder here: part of it is lumps, and the cloth catches those, so the result is unclear.",
      "context": "In this step you test what the best cloth cannot catch."
     },
     {
@@ -1257,7 +1260,7 @@
      "qty": 4
     },
     {
-     "item": "tap water, about 750 millilitres for each pot",
+     "item": "tap water, about 750 millilitres for each pot. Leave the jug open for one day first, so the chlorine fades. Add 3 or 4 dry leaves to each pot.",
      "qty": 1
     },
     {
@@ -1290,7 +1293,7 @@
      "qty": 1
     }
    ],
-   "safety": "This test grows mosquito wrigglers on purpose, so it runs for only five days. A grown-up empties and scrubs every pot on day 5, and on day 6 at the latest, before any wriggler can turn into a mosquito. Never leave the pots out for a week or while the family is away. Pour the water and wrigglers down the toilet and flush. Place the pots where they cannot tip over or fall from a balcony. Wash hands after the count.",
+   "safety": "This test grows mosquito wrigglers on purpose, so it runs for only five days. A grown-up empties and scrubs every pot on day 5, and on day 6 at the latest, before any wriggler can turn into a mosquito. Never leave the pots out for a week or while the family is away. Pour the water and wrigglers down the toilet and flush. Place the pots where they cannot tip over or fall from a balcony. Wash hands after the count. Bring the pots in if a sudden storm or strong wind is coming, and keep the oil away from the stove.",
    "schedule": [
     {
      "day": 1,
@@ -1373,7 +1376,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess. In dry or cold weather no mosquitoes may come at all. If no pot grows wrigglers, that is still a result. Write it down and try again in a warmer or wetter week.",
+     "parent": "Do not correct any guess. In dry or cold weather no mosquitoes may come at all. If no pot grows wrigglers, that is still a result. Write it down and try again in a warmer or wetter week. Wrigglers usually show by day 3 to 5 in warm, damp weather, and most easily on a ground floor, a low balcony or near plants. On a high floor, or in cold, dry or very windy weather, nothing may come. Then say so honestly: the lid and net pots are still fair, but without a result in the open pot you cannot compare, so repeat in a warmer or wetter week. Counts in the example are made up, so your numbers will differ.",
      "context": "This is the first step of the Four Pots test. You guess before you test."
     },
     {
@@ -1394,7 +1397,8 @@
       "a": 0,
       "why": "In a fair test, only one thing changes. If one pot were in the sun or held more water, we could not tell whether the cover or the place made the difference."
      },
-     "context": "In this step you set up the four pots on day 1."
+     "context": "In this step you set up the four pots on day 1.",
+     "parent": "One child with a parent: the child does the labels and pouring, the parent carries the pots outside. Two to four children: each child looks after one pot (labels, guess, day 3 drawing, day 5 count), and all four compare at the end."
     },
     {
      "id": "s3",
@@ -1414,7 +1418,7 @@
      "say": "Pour slowly on to the white plate. The wrigglers show up dark against the plate. Count the ones that move. Do all four pots, one at a time.",
      "kid": "Pour each pot slowly on to a white plate. Count the wrigglers. Write the number.",
      "wait": "Day 5: count the wrigglers.",
-     "parent": "If a pot has too many wrigglers to count, write more than 20. If a lid stopped mosquitoes landing, the lid pot will be empty. If oil was put on the water, some wrigglers may be dead or struggling. Write what you see.",
+     "parent": "If a pot has too many wrigglers to count, write more than 20. Also mark the water line with tape on day 1 and on day 5, to see if any water was lost. If a lid stopped mosquitoes landing, the lid pot will be empty. If oil was put on the water, some wrigglers may be dead or struggling. Write what you see.",
      "check": {
       "t": "mcq",
       "q": "The covered pot with a tight lid had no wrigglers, and the open pot had many. What does this show?",
@@ -1484,7 +1488,7 @@
      "what": "Measure 80 centimetres of string. Wind 2 centimetres on to a pencil. Work out how many days the whole worm would take."
     }
    ],
-   "record": "A sentence saying how many days it would take to wind the whole worm, and a drawing of the string wound round the stick.",
+   "record": "A small table of days for different lengths and speeds, a sentence saying how many days it would take to wind the whole worm, and a drawing of the string wound round the stick.",
    "context": "In this activity you wind a pretend Guinea worm slowly on to a stick, the way it was done in villages, and work out how many days it takes.",
    "setup": [
     {
@@ -1500,7 +1504,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut an 80 centimetre piece of string. 2. Ask your child to guess how many days it would take to wind the whole string. Each day, only 2 centimetres are wound on.",
+     "do": "1. Cut an 80 centimetre piece of string. 2. Ask your child to guess how many days it would take to wind the whole string. Each day, only 2 centimetres are wound on. Write your guess.",
      "say": "A Guinea worm can be as long as your arm, and it was drawn out a little each day. Today we pretend each day gives 2 centimetres. How many days do you think the whole worm would take? Why do you think so?",
      "kid": "A pretend worm, 80 centimetres long. Each day you may wind 2 centimetres. Guess how many days.",
      "context": "This is the first step of Wind a Worm. You guess before you wind."
@@ -1528,7 +1532,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Work out how many days the whole string would take. 2. Write the answer. 3. Talk about the question below.",
+     "do": "1. Work out how many days the whole string would take. 2. Write the answer. 3. Try a 60 centimetre worm and a 100 centimetre worm, at 2 and at 3 centimetres a day. 4. Fill a small table. 5. Talk about the question below.",
      "say": "80 centimetres, 2 centimetres a day. How many days? Was your guess close? A Guinea worm larva is about half a millimetre long. How many times longer than the larva is the adult?",
      "kid": "80 divided by 2. How many days? Was your guess close?",
      "ask": [
@@ -1540,7 +1544,8 @@
       }
      ],
      "think": "One life, from a speck to an arm's length. Which one is the Guinea worm?",
-     "context": "In this step you work out the number of days and compare the sizes."
+     "context": "In this step you work out the number of days and compare the sizes.",
+     "parent": "Real worms are about 60 to 100 centimetres long, and often take weeks to come out. Answers: 80 centimetres takes 40 days at 2 centimetres a day. 60 takes 30 or 20 days, 100 takes 50 or about 34 days. With two to four children, each child winds a worm of a different length and the group compares days. With one child, the parent picks the second length."
     }
    ]
   },
@@ -1617,7 +1622,8 @@
      "do": "1. Draw three sets of axes with the days along the bottom and the temperature up the side. 2. Ask your child to guess what a malaria chart would look like.",
      "say": "A malaria parasite bursts out of red blood cells all at the same time, about every two days. What shape do you think the fever chart will make? Why do you think so?",
      "kid": "Draw three graphs. Guess what a malaria chart looks like.",
-     "context": "This is the first step of Fever Chart Detective. You guess before you draw."
+     "context": "This is the first step of Fever Chart Detective. You guess before you draw.",
+     "parent": "Alone: draw all three patients. In a group: one patient each, then swap and compare. Squared paper is not needed; mark a ruler line for each degree."
     },
     {
      "id": "s2",
@@ -1652,6 +1658,12 @@
         "The parasites burst out of the red blood cells at about the same time, every two days.",
         "Each new crowd of parasites gives another fever."
        ]
+      },
+      {
+       "q": "How many days apart are the peaks in Patient B, and what would Patient B temperature be on Sunday?",
+       "good": [
+        "Two days apart. About 40 degrees, a peak, because the pattern repeats."
+       ]
       }
      ],
      "think": "Doctors use patterns as clues, but a blood test tells which parasite it is. Why is a test better than a pattern?",
@@ -1682,7 +1694,7 @@
      "qty": 4
     }
    ],
-   "safety": "Keep the beans away from babies and small children, who may put them in their mouth or nose.",
+   "safety": "Keep the beans away from babies and small children, who may put them in their mouth or nose. If anyone has a food allergy, use stones or paper scraps.",
    "schedule": [
     {
      "day": 1,
@@ -1753,7 +1765,7 @@
      "do": "1. At Gate 1, roll the die once for each bean. A roll of 3, 4, 5 or 6 lets the bean through. A roll of 1 or 2 puts it in the lost heap. 2. At Gate 2, a roll of 4, 5 or 6 lets it through. 3. At Gate 3, a roll of 5 or 6. 4. At Gate 4, a roll of 4, 5 or 6. 5. Write the beans in and the beans through at each gate.",
      "say": "Roll for every bean, one at a time. Each gate has its own rule. Write down how many beans go in and how many come out. How many reach the end?",
      "kid": "Roll for each bean at each gate. Pass or lose. Write the numbers.",
-     "parent": "On average, about 24 beans pass Gate 1, about 12 pass Gate 2, about 4 pass Gate 3, and about 2 pass Gate 4. Dice give different numbers each time, and zero or three are both possible. That is chance at work.",
+     "parent": "On average, about 24 beans pass Gate 1, about 12 pass Gate 2, about 4 pass Gate 3, and about 2 pass Gate 4. Dice give different numbers each time, and zero or three are both possible. That is chance at work. Rolling about 75 times takes time. With two to four children, split the beans: each child sends 9 or 12 beans through the gates, then add up all your counts. One child with a parent: take turns rolling. Run the plain run twice if you want to see how chance changes the answer.",
      "check": {
       "t": "mcq",
       "q": "Two thirds of the eggs pass Gate 1, half pass Gate 2, one third pass Gate 3, and half pass Gate 4. Why do so few reach the end?",
@@ -1773,7 +1785,7 @@
      "do": "Now play the snail run. Put 36 beans through again. At Gate 3, every bean that passes is replaced by 3 beans. The young parasite makes copies of herself inside a snail. The 3 copies go on to Gate 4. Write the new table.",
      "say": "Some parasites, like the liver fluke, make copies of themselves inside a snail. At Gate 3, each bean that passes becomes three beans. How many reach the end now?",
      "kid": "Play again. At Gate 3, every bean that passes becomes three. How many reach the end now?",
-     "parent": "On average the snail run ends with about 6 beans instead of 2. Making copies in the middle of a journey makes up for the odds at the early gates.",
+     "parent": "On average the snail run ends with about 6 beans instead of 2. Making copies in the middle of a journey makes up for the odds at the early gates. Roll for the bean stack at Gate 3 together to save time. If you run short on beans, use coins or paper scraps.",
      "context": "In this step you run the gates again, with a snail that makes copies."
     },
     {
@@ -1819,7 +1831,7 @@
      "qty": 2
     }
    ],
-   "safety": "A grown-up cuts the window in the top plate with scissors and pushes the pin through, because scissors and pins are sharp.",
+   "safety": "A grown-up cuts the window in the top plate with scissors and pushes the pin through, because scissors and pins are sharp. Use a pencil pushed into a lump of clay for young children, so no pin point is exposed. Keep pins away from babies and small children.",
    "schedule": [
     {
      "day": 1,
@@ -1854,7 +1866,8 @@
      "do": "1. Divide one plate into five equal segments. 2. Draw one stage in each segment, in order, with a number. 3. Under each drawing, write the host it happens in: person, copepod, mosquito or snail.",
      "say": "Draw the stages in order, round the plate. Write which host each stage is in.",
      "kid": "Draw five stages round the plate. Write the number and the host under each.",
-     "context": "In this step you draw the five stages round the first plate."
+     "context": "In this step you draw the five stages round the first plate.",
+     "parent": "Two to four children: each picks a different journey and makes a wheel, then swaps wheels to guess the stage in the window. One child with a parent: the parent plays the guesser. One more paper plate is cheap at a kirana or stationery shop. Thick card cut into circles works too."
     },
     {
      "id": "s3",
@@ -1936,10 +1949,10 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "1. Read the label or the manual with a grown-up. 2. Write each part of the filter and what it does. 3. Use the guide in the parent note to check.",
+     "do": "1. Read the label or the manual with a grown-up. 2. Write each part of the filter and what it does. 3. Use the guide in the parent note to check. 4. Time how long it takes to fill one glass. 5. Find out when it was last cleaned or changed.",
      "say": "Read what each stage does. Which parts hold back big things like sand and copepods? Which parts deal with germs? Which does neither?",
      "kid": "Read the label. Write what each part does.",
-     "parent": "A cloth or a mesh holds back large things such as copepods and grit. A ceramic candle has far smaller gaps and holds back many bacteria and cysts. A UV purifier damages the genes of germs, but needs clear water to work. An RO purifier forces water through a very fine membrane and removes many germs and dissolved salts. Boiling kills germs and parasites. None of these works well unless it is kept clean and the filter is changed on time.",
+     "parent": "A cloth or a mesh holds back large things such as copepods and grit. A ceramic candle has far smaller gaps and holds back many bacteria and cysts. A UV purifier damages the genes of germs, but needs clear water to work. An RO purifier forces water through a very fine membrane and removes many germs and dissolved salts. Boiling kills germs and parasites. None of these works well unless it is kept clean and the filter is changed on time. Siblings can each take one water source (kitchen tap, tank, matka, bottled can). No filter at home: look at a neighbour, a school or a shop, or read about one.",
      "check": {
       "t": "mcq",
       "q": "A family uses only a cloth over their pot. Which of these will it NOT remove?",
@@ -2033,7 +2046,8 @@
        ]
       }
      ],
-     "context": "This is the first day of a 2-day project. You plan your comic."
+     "context": "This is the first day of a 2-day project. You plan your comic.",
+     "parent": "One child with a parent: the parent helps with the plan and the listener question. Two to four children: each makes a comic of a different journey, or share one comic with 3 panels each. Use only pens and paper."
     },
     {
      "id": "s2",
@@ -2056,7 +2070,7 @@
    "constraints": [
     "Use only things from home, such as old cotton cloth, a tea strainer, a net bag, string, rubber bands and a bowl.",
     "The filter must hold back all 10 khus khus seeds and all 10 mustard seeds.",
-    "One litre of water must pass in under five minutes.",
+    "One litre of water must pass in under five minutes. If your tightest cloth is too slow, test a wider area, or use a longer limit such as ten minutes and say so.",
     "A grown-up cuts any plastic bottle, and the edges are covered with tape."
    ],
    "materials": [
@@ -2120,7 +2134,7 @@
      "do": "Build your first design. Count out 10 mustard seeds and 10 khus khus seeds. Stir them into a litre of water. Pour the water slowly through the filter into the pot. Time how long it takes.",
      "say": "Build your first filter. Pour one litre through, slowly. Start the clock as you begin and stop it at the last drip. How long did it take?",
      "kid": "Build your filter. Pour a litre of water with seeds through it. Time it.",
-     "parent": "Tie the cloth tightly so that it does not slip into the pot. A funnel or a wide strainer holds a litre better than a cloth alone. If water is very slow, add a bigger area of cloth.",
+     "parent": "Tie the cloth tightly so that it does not slip into the pot. A funnel or a wide strainer holds a litre better than a cloth alone. If water is very slow, add a bigger area of cloth. Water flow depends on the area of cloth, so use the whole mouth of a pot or a steel vessel, not a small glass, or a litre will take much longer than five minutes. Pour in portions of 250 millilitres if the cloth overflows. Pour out all the filtered water on a plate to count the seeds; they sink to the bottom. One child with a parent: the child designs, the parent pours and times. Two to four children: each team builds one design and tests it, then compare.",
      "context": "In this step you build your first design and test it."
     },
     {
@@ -2159,12 +2173,12 @@
    "constraints": [
     "Use a model made on a large tray with sand or soil, a small katori for the well and a small bowl for the station.",
     "The station must be higher than the well, or the water must be able to run away from it.",
-    "Test with one cup of water coloured with turmeric. None of the yellow water may reach the well.",
+    "Test with one cup of water coloured with turmeric. Measure the yellow water that reaches the well katori with a teaspoon or by the level: the goal is none.",
     "The station must be easy for a person with a sore foot to use."
    ],
    "materials": [
     "a large tray or a baking dish",
-    "sand, soil or rangoli powder to make slopes",
+    "damp sand or garden soil (sand is not needed: soil from a plant pot works), to make slopes. Flour or rangoli powder is a fallback",
     "a small katori sunk in the sand as the well",
     "a small bowl as the station",
     "a cup of water with half a teaspoon of turmeric stirred in",
@@ -2207,7 +2221,7 @@
      "do": "Build the model on the tray. Shape the sand into a slope, sink the katori for the well, and put the bowl for the station. Pour the cup of yellow water into the station bowl and watch where it flows.",
      "say": "Build the village. Pour the yellow water at the station. Does any reach the well? Where does it go?",
      "kid": "Build the model. Pour yellow water at the station. Watch where it goes.",
-     "parent": "Press the sand firmly so that water does not simply sink in. If all the yellow water sinks into the sand and none runs, that is also a result. Test a steeper slope.",
+     "parent": "Press the sand firmly so that water does not simply sink in. If all the yellow water sinks into the sand and none runs, that is also a result. Test a steeper slope. One child with a parent: the child builds, the parent pours the cup. Two to four children: each builds one design, then pour the same cup into each and compare how much yellow reaches the well. Sand that is very dry drinks up the water, so dampen it a little.",
      "context": "In this step you build the model and test the first design."
     },
     {
@@ -2236,7 +2250,8 @@
      "say": "Which design kept the yellow water out of the well? Which link of the journey did you cut? What would a village need to make it real?",
      "kid": "Which design worked? Which link does it cut?"
     }
-   ]
+   ],
+   "safety": "Turmeric stains clothes, fingers and trays yellow, so use an old tray and wash your hands. Wipe up spilt water so nobody slips. Use a plastic or steel tray, not a good dish. Nothing in this model is drunk."
   }
  ],
  "worksheets": [

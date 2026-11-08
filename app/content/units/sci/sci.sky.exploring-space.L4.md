@@ -58,7 +58,7 @@ The space station is 400 kilometres up and takes 90 minutes for a lap. Navigatio
 - e.g. India's INSAT and GSAT satellites sit in geostationary orbit and carry TV, phone and weather signals.
 - e.g. A satellite that is a little lower than another one will slowly overtake it.
 - e.g. To move a satellite to a higher orbit, an engine speeds it up at the right moment, and afterwards it settles into a slower, higher circle.
-- e.g. Katherine Johnson, an American mathematician, worked out the paths of the first American crewed orbit flights by hand in the early 1960s.
+- e.g. Katherine Johnson, an American mathematician, worked out paths for the first American crewed space flights in the early 1960s, and checked the computer's numbers by hand for John Glenn's orbit flight.
 ### A rocket carries fuel to lift its fuel · *defined*
 **Definition:** A rocket speeds up by throwing its own gas backwards. A heavier rocket needs more push for the same speed, so most of a rocket's weight at lift-off is propellant.
 
@@ -105,7 +105,7 @@ On Earth, your legs and back work against gravity all day, and that keeps them s
 ### Space junk · *defined*
 **Definition:** Space junk is the broken and unused things that still orbit the Earth. At orbital speed even a tiny piece can do great damage.
 
-Since 1957, thousands of rockets and satellites have been launched. Dead satellites, empty rocket stages and the pieces from collisions still orbit the Earth. Tens of thousands of pieces bigger than a few centimetres are tracked, and there are millions of smaller flecks. Something moving at 8 kilometres a second carries more energy than a bullet, even if it is only a fleck of paint. In 2009, a working satellite and a dead one collided and made thousands of pieces. The space station has moved out of the way of junk several times. Junk in low orbits slowly falls back, because there is a trace of air even at that height, and it burns up. Junk at 36,000 kilometres stays for ages. So old satellites there are pushed a little higher, into a 'graveyard' orbit, before they die.
+Since 1957, thousands of rockets and satellites have been launched. Dead satellites, empty rocket stages and the pieces from collisions still orbit the Earth. Tens of thousands of pieces bigger than about 10 centimetres are tracked, and there are millions of smaller flecks. Something moving at 8 kilometres a second carries more energy than a bullet, even if it is only a fleck of paint. In 2009, a working satellite and a dead one collided and made thousands of pieces. The space station has moved out of the way of junk several times. Junk in low orbits slowly falls back, because there is a trace of air even at that height, and it burns up. Junk at 36,000 kilometres stays for ages. So old satellites there are pushed a little higher, into a 'graveyard' orbit, before they die.
 - e.g. A speck of paint has cracked a window of the space station.
 - e.g. The Moon's orbit has no air to clean it, so junk there would stay.
 - e.g. Future satellites may carry a way to drop out of orbit when their job is done.
@@ -271,7 +271,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 ## Games
 ### g1 · A, B or Same: which one is faster, longer or stronger? (20 min)
 - **rules:** One player is the reader. The reader shuffles the cards and takes the top one. Every other player takes one A token, one B token and one Same token.; The reader reads the front of a card aloud and does not show the back.; Every other player puts one token face down. Then everyone turns their tokens over together.; The reader reads the back aloud. A player who chose right scores 1 point.; A player who also gives the reason in their own words scores 1 more point. The reader checks it against the back.; After each card, the job of reader passes to the next player. Keep going until the cards are used up, or one player has 10 points.; With only two people, one reads and the other plays, then you swap after every card. Playing alone, read the front, say your answer and reason out loud, then turn the card over.
-- **Printable cards: 24 two-sided cards: a comparison on the front, and the answer with the reason on the back:** A: the space station, 400 km up. B: a satellite 36,000 km up. Which one takes longer to go round the Earth once? (back: B. Higher satellites are slower. One lap takes 24 hours there and about 90 minutes for the station.); A: a satellite at 36,000 km. B: the Moon. Which one moves faster? (back: A. Closer orbits are faster. The satellite moves at about 3 km a second and the Moon at about 1.); A: a balloon rocket with no paper clips. B: the same rocket with 20 clips. Which one goes farther? (back: A. The same push moves a lighter rocket farther.); A: the propellant in a big rocket at lift-off. B: the satellite on top. Which weighs more? (back: A. Around nine tenths of the weight at lift-off is propellant. The satellite is only a few percent.); A: sunlight reaching the Earth. B: moonlight reaching the Earth. Which light left its source more recently? (back: B. Moonlight left the Moon about 1.3 seconds ago. Sunlight left the Sun about 8 minutes ago.); A: a telescope mirror 1 metre wide. B: a mirror 2 metres wide. Which shows finer detail? (back: B. A wider opening collects more light and shows finer detail.); A: radio waves from space. B: X-rays from space. Which easily reach a telescope on the ground? (back: A. The air lets radio waves through and blocks most X-rays.); A: a telescope in a big city under bright lights. B: a telescope at Hanle in Ladakh, high, dry and dark. Which gets the darker, steadier sky? (back: B. Less air above it, little cloud and almost no city light make a better sky.); A: an astronaut after six months in orbit with no exercise. B: a person after six months at home. Whose leg bones are weaker? (back: A. Without weight to carry, bones lose strength.); A: a fleck of paint at 8 km a second. B: a cricket ball at 30 metres a second. Which carries more energy for each gram? (back: A. Energy grows very fast with speed. The fleck is about 270 times faster.); A: a marble rolled off a table fast. B: a marble dropped from the table's edge at the same moment. Which one hits the floor first? (back: Same. Sideways speed does not change how long the fall takes.); A: Chandrayaan-3's 40-day trip in many small burns. B: a direct push to the Moon in about 3 days. Which one needs the bigger rocket? (back: B. Many small burns trade time for rocket size.); A: a rocket's effort in climbing up through thick air. B: its effort in gaining sideways speed. Which is bigger? (back: B. Staying up needs about 8 km a second sideways. Climbing 400 km needs only about a third of that.); A: a hammer and B: a feather dropped together on the Moon, where there is no air. Which one lands first? (back: Same. With no air to slow the feather, both fall alike. An astronaut showed this in 1971.); A: a radio message to Mars at the closest. B: sunlight travelling to the Earth. Which one takes longer? (back: B. Sunlight takes about 8 minutes and 20 seconds. The message takes about 3 minutes at best.); A: one radio dish alone. B: the 30 dishes of the GMRT working together. Which can show finer detail? (back: B. Dishes spread far apart act like one huge telescope.); A: an infrared telescope on a hot, humid plain. B: the same telescope in space. Which one catches more clean infrared light? (back: B. The air blocks part of the infrared and glows warm itself.); A: gravity on the Moon's surface. B: gravity at the height of the space station. Which is stronger? (back: B. The station is only 400 km up, so gravity is about nine tenths of that on the ground. On the Moon it is about one sixth.); A: a TV dish aimed at a geostationary satellite. B: a dish aimed at the space station. Which one must keep turning to follow? (back: B. The station moves across the sky. The geostationary satellite stays above one spot.); A: a magnifying glass 5 cm wide. B: one 10 cm wide. Which gathers about 4 times as much light? (back: B. Twice as wide means four times the area.); A: a rocket that drops its empty stage. B: a rocket that keeps it. Which reaches the higher speed with the same fuel? (back: A. Dead weight dropped makes the rest easier to push.); A: Earth's pull on you on the ground. B: Earth's pull on you on the space station. Which is bigger? (back: A. It is a little weaker at 400 km up, but still about nine tenths.); A: an old satellite left at 36,000 km. B: a broken satellite left at 400 km. Which one stays up longer? (back: A. At 400 km a trace of air slows it, and it falls and burns up. At 36,000 km it can stay for ages.); A: a cannonball fired at 2 km a second from a very high mountain. B: one fired at 8 km a second. Which one goes right round the Earth? (back: B. At about 8 km a second the ground curves away as fast as the ball falls.)
+- **Printable cards: 24 two-sided cards: a comparison on the front, and the answer with the reason on the back:** A: the space station, 400 km up. B: a satellite 36,000 km up. Which one takes longer to go round the Earth once? (back: B. Higher satellites are slower. One lap takes 24 hours there and about 90 minutes for the station.); A: a satellite at 36,000 km. B: the Moon. Which one moves faster? (back: A. Closer orbits are faster. The satellite moves at about 3 km a second and the Moon at about 1.); A: a balloon rocket with no paper clips. B: the same rocket with 10 clips. Which one goes farther? (back: A. The same push moves a lighter rocket farther.); A: the propellant in a big rocket at lift-off. B: the satellite on top. Which weighs more? (back: A. Around nine tenths of the weight at lift-off is propellant. The satellite is only a few percent.); A: sunlight reaching the Earth. B: moonlight reaching the Earth. Which light left its source more recently? (back: B. Moonlight left the Moon about 1.3 seconds ago. Sunlight left the Sun about 8 minutes ago.); A: a telescope mirror 1 metre wide. B: a mirror 2 metres wide. Which shows finer detail? (back: B. A wider opening collects more light and shows finer detail.); A: radio waves from space. B: X-rays from space. Which easily reach a telescope on the ground? (back: A. The air lets radio waves through and blocks most X-rays.); A: a telescope in a big city under bright lights. B: a telescope at Hanle in Ladakh, high, dry and dark. Which gets the darker, steadier sky? (back: B. Less air above it, little cloud and almost no city light make a better sky.); A: an astronaut after six months in orbit with no exercise. B: a person after six months at home. Whose leg bones are weaker? (back: A. Without weight to carry, bones lose strength.); A: a fleck of paint at 8 km a second. B: a cricket ball at 30 metres a second. Which carries more energy for each gram? (back: A. Energy grows very fast with speed. The fleck is about 270 times faster.); A: a marble rolled off a table fast. B: a marble dropped from the table's edge at the same moment. Which one hits the floor first? (back: Same. Sideways speed does not change how long the fall takes.); A: Chandrayaan-3's 40-day trip in many small burns. B: a direct push to the Moon in about 3 days. Which one needs the bigger rocket? (back: B. Many small burns trade time for rocket size.); A: a rocket's effort in climbing up through thick air. B: its effort in gaining sideways speed. Which is bigger? (back: B. Staying up needs about 8 km a second sideways. Climbing 400 km needs only about a third of that.); A: a hammer and B: a feather dropped together on the Moon, where there is no air. Which one lands first? (back: Same. With no air to slow the feather, both fall alike. An astronaut showed this in 1971.); A: a radio message to Mars at the closest. B: sunlight travelling to the Earth. Which one takes longer? (back: B. Sunlight takes about 8 minutes and 20 seconds. The message takes about 3 minutes at best.); A: one radio dish alone. B: the 30 dishes of the GMRT working together. Which can show finer detail? (back: B. Dishes spread far apart act like one huge telescope.); A: an infrared telescope on a hot, humid plain. B: the same telescope in space. Which one catches more clean infrared light? (back: B. The air blocks part of the infrared and glows warm itself.); A: gravity on the Moon's surface. B: gravity at the height of the space station. Which is stronger? (back: B. The station is only 400 km up, so gravity is about nine tenths of that on the ground. On the Moon it is about one sixth.); A: a TV dish aimed at a geostationary satellite. B: a dish aimed at the space station. Which one must keep turning to follow? (back: B. The station moves across the sky. The geostationary satellite stays above one spot.); A: a magnifying glass 5 cm wide. B: one 10 cm wide. Which gathers about 4 times as much light? (back: B. Twice as wide means four times the area.); A: a rocket that drops its empty stage. B: a rocket that keeps it. Which reaches the higher speed with the same fuel? (back: A. Dead weight dropped makes the rest easier to push.); A: Earth's pull on you on the ground. B: Earth's pull on you on the space station. Which is bigger? (back: A. It is a little weaker at 400 km up, but still about nine tenths.); A: an old satellite left at 36,000 km. B: a broken satellite left at 400 km. Which one stays up longer? (back: A. At 400 km a trace of air slows it, and it falls and burns up. At 36,000 km it can stay for ages.); A: a cannonball fired at 2 km a second from a very high mountain. B: one fired at 8 km a second. Which one goes right round the Earth? (back: B. At about 8 km a second the ground curves away as fast as the ball falls.)
 - **Printable tokens: 12 tokens: four that say A, four that say B and four that say Same:** A; A; A; A; B; B; B; B; Same; Same; Same; Same
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one A, one B and one Same token.  
@@ -317,7 +317,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - **question:** A marble rolls off the edge of a table. If it leaves the table faster, does it land farther away? And does it take longer to reach the floor?
 - **predict:** Before you start, guess. Will a faster marble land farther away, in the same place, or nearer? Will it take longer to fall? Why do you think so?
 - **fair test:** Use the same marble, the same ramp and the same table every time. Only the height that you let the marble go from changes: 5, 10 and 15 centimetres above the table top. Let go of the marble without pushing it. Roll it three times from each height, and use the middle landing mark, because one try can be a fluke.
-- **safety:** Keep marbles away from children under five, who might put them in their mouths. Wipe up any water that drips on the floor, so nobody slips.
+- **safety:** Keep marbles away from children under five, who might put them in their mouths. Wipe up any water that drips on the floor, so nobody slips. Pick up stray marbles at once, because stepping on one can make you fall. Haldi stains cloth, so keep the saucer off carpets.
 - **record:** Fill in the table. Then draw three bars, one for each start height, as long as its middle landing distance. Write one sentence under the bars that says what the pattern is.
 - **results table:** Start height above the table (cm) | My guess for the landing distance (cm) | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Middle number (cm)
 - **s1 (5 min)**  
@@ -326,7 +326,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Child mode:* A marble rolls off a table. If it is faster, where does it land? Why?
   - Ask: Why do you think the faster marble will land there? (good: It has more speed, so it flies farther.; It stays in the air longer.; It lands in the same place because gravity is the same.)
   - Note: Do not correct the guess. Many children say a faster marble takes longer in the air. Any guess with a reason is a good start.
-- **s2 (8 min)**  
+- **s2 (6 min)**  
   *Parent does:* Lay the ruler so its low end rests on the table, 15 centimetres from the edge. Stack books under the other end. Tape a line on the newspaper right under the table edge. This is the zero line.  
   *Parent says:* The ruler is a ramp. The higher the marble starts, the faster it will be at the bottom. The tape under the edge is zero. We measure from there.  
   *Child mode:* Make a ramp. Tape a zero line on the floor under the table edge.
@@ -336,12 +336,12 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Parent does:* Dip the marble in the water and shake it once. Let it go from the 5 centimetre mark. Look for the wet spot nearest to the table. Mark it with a pencil dot. Measure from the zero line. Do it three times, then at 10 and at 15 centimetres.  
   *Parent says:* Let the marble go. Do not push it. Watch where it first touches the paper. Mark the first wet spot only. It may bounce on after that.  
   *Child mode:* Wet the marble. Let it go. Mark the first spot. Measure from zero.
-  - Note: A grown-up can watch the landing, because it is hard to roll and watch at the same time. The marble may bounce. Only the first wet spot counts. If a try goes very differently from the other two, repeat it. If the wet spots are too faint, wet the marble more or use a dry newspaper under a dark pen dot. Your numbers will differ from the example. What matters is that the higher start lands farther.
-- **s4 (5 min)**  
-  *Parent does:* Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew.  
+  - Note: A grown-up can watch the landing, because it is hard to roll and watch at the same time. The marble may bounce. Only the first wet spot counts. Alone, the child lets go and the grown-up watches the landing. With 2 to 4 children: one lets go, one watches and marks the spot, one measures, one writes; swap after each height. Typical landings are roughly 30 to 80 centimetres from the edge, but your numbers will differ. If a try goes very differently from the other two, repeat it. If the wet spots are too faint, wet the marble more or use a dry newspaper under a dark pen dot. Your numbers will differ from the example. What matters is that the higher start lands farther.
+- **s4 (7 min)**  
+  *Parent does:* Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew. Then the two-marble race: put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.  
   *Parent says:* Look at our numbers. Which start height gave the farthest landing? Did the landing double when the height doubled?  
   *Child mode:* Which height landed farthest? Draw a bar for each one.
-  - Note: The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed grows more slowly than the height does. Do not explain this yet. Just notice.
+  - Note: The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed grows more slowly than the height does. Do not explain this yet. Just notice. In the race, most clean tries sound like one click, because both marbles fall the same height in the same time. Two clicks usually mean one marble was let go late, so repeat and count only the clean tries.
   - Check: The marble that started higher left the table faster. Where did it land? → **Farther from the table**
 - **s5 (7 min)**  
   *Parent does:* Ask for what I think, what I saw and why. Then ask the Earth question.  
@@ -366,17 +366,17 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Parent does:* Thread the straw on the string. Tie the string between two chairs, 3 metres apart, at knee height, pulled tight. Tape the balloon to the straw. Mark a start line with a peg.  
   *Parent says:* The straw slides on the string like a train on a track. The balloon is the engine. We tape it on so that its neck points back along the string.  
   *Child mode:* Thread the straw on the string. Tape the balloon to the straw.
-  - Note: Tape the balloon along its side, not over the neck, so that its neck points straight back. Pinch the neck with a clothes peg when it is full, then take the peg off to launch. Practise one flight with no load to check that the straw slides freely.
+  - Note: Tape the balloon along its side, not over the neck, so that its neck points straight back. Pinch the neck with a clothes peg when it is full, then take the peg off to launch. The string must be pulled tight, because a sagging string stops the rocket. Practise one flight with no load to check that the straw slides freely.
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* Blow up the balloon until the string loop fits round it. Pinch the neck with the peg. Put the straw at the start line. Take off the peg. Mark where the front of the straw stops. Measure from the start line.  
   *Parent says:* Blow the balloon up to the same size every time. Count down from three. Let go. Where does the front of the straw stop?  
   *Child mode:* Blow up the balloon to the loop size. Let go. Mark where it stops.
-  - Note: This first flight has no clips. Do it twice. If the balloon gets floppy after a few uses, swap in the second one. The distance on the string may be limited by the chair. Then lengthen the string, or count it as 'the whole string'.
+  - Note: This first flight has no clips. Alone, the child blows and releases while the grown-up marks the stop. With 2 to 4 children: one blows up the balloon, one pinches the neck, one lets go, one marks and measures; swap after each load. Do it twice. If the balloon gets floppy after a few uses, swap in the second one. The distance on the string may be limited by the chair. Then lengthen the string, or count it as 'the whole string'.
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* Tape 10 clips under the straw. Fly the rocket twice. Then fly it with 20 clips and with 30. Measure each flight. Write the numbers in the table.  
   *Parent says:* Now we load the rocket. Tape on 10 clips. Same size balloon, same start line. Does it fly as far?  
   *Child mode:* Add 10 clips. Fly it twice. Then 20. Then 30.
-  - Note: Spread the clips evenly under the straw so the rocket does not tip. If the rocket barely moves with 30 clips, use 5, 10 and 15 instead. Your numbers will differ. What matters is the pattern.
+  - Note: Spread the clips evenly under the straw so the rocket does not tip. A typical party balloon carries 10 clips easily, 20 slowly, and may barely move with 30. If the rocket stops moving, that is a real result: write 0 and note it. If it already struggles at 10 clips, use 5, 10 and 15 instead. Your numbers will differ. What matters is the pattern.
   - Check: Why must the balloon be blown up to the same size each time? → **So the push is the same and only the weight changes**
 - **s5 (4 min)**  
   *Parent does:* Find the average of the two tries for each load. Draw the line graph. Look at how the distance changes with each extra clip.  
@@ -394,7 +394,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - **predict:** Before you start, guess. Will a faraway wall look bigger, smaller or the same through two lenses? Will it look the right way up or upside down? Why do you think so?
 - **fair test:** Use the same two lenses and look at the same faraway wall from the same spot every time. Only the gap between the two lenses changes. Try the gap that looks sharpest, then a gap 3 centimetres shorter and a gap 3 centimetres longer. Look at the same patch of wall each time.
 - **safety:** Never point the lenses at the Sun, and never look at the Sun through them. Sunlight through a lens can burn eyes and start a fire. Put the lenses away in a drawer when you finish. Go on a terrace or balcony only with a grown-up.
-- **record:** Fill in the table. Draw the wall as it looks through the telescope and as it looks to your bare eye. Write the gap at which the picture was sharpest.
+- **record:** Fill in the table. Draw the wall as it looks through the telescope and as it looks to your bare eye. Write the gap at which the picture was sharpest, the focal length of each lens, and whether your brick count was close to the front focal length divided by the eyepiece focal length.
 - **results table:** Gap between the lenses (cm) | Is the picture sharp, a little blurry or very blurry? | Right way up or upside down? | How many plain bricks or tiles fit across one magnified one?
 - **s1 (5 min)**  
   *Parent does:* Show your child the two lenses. Ask for a guess and a reason. Write the guess.  
@@ -402,21 +402,21 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Child mode:* Two lenses make a telescope. What will a faraway wall look like? Why?
   - Ask: Why do you think the picture will look that way? (good: A telescope makes things bigger.; It might flip the picture.; Lenses bend light, so it might turn upside down.)
   - Note: Do not correct the guess. Remind your child about the magnifying glass that made an upside-down picture of a window.
-- **s2 (6 min)**  
-  *Parent does:* Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does.  
+- **s2 (9 min)**  
+  *Parent does:* Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does. Then find each lens's focal length. Face a far window or a faraway building, never the Sun. Hold the lens up with a sheet of paper behind it. Slide the paper until a small, sharp, upside-down picture appears. Measure from lens to paper.  
   *Parent says:* Hold the weak lens far from your eye. What do you see? Now look through the strong magnifier. Which one makes the wall look bigger?  
   *Child mode:* Look through each lens alone. What does each one do?
-  - Note: The weak lens held at arm's length usually gives a blurry or upside-down picture. The strong magnifier close to the eye gives a very blurry wall, because it is made for near things. Neither is a telescope alone.
+  - Note: The weak lens held at arm's length usually gives a blurry or upside-down picture. The strong magnifier close to the eye gives a very blurry wall, because it is made for near things. Neither is a telescope alone. The window picture gives the focal length: expect about 40 to 50 centimetres for the glasses lens and about 3 to 5 centimetres for a pocket magnifier. Do not hold the paper in sunlight from the window.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* Use clay to stand the weak lens upright at the far end of the stick. Stand the strong lens at the near end. Hold the stick up to your eye. Slide the weak lens until the wall looks sharp. Measure the gap.  
   *Parent says:* Put your eye close to the small lens. Look through both at the wall. Slide the front lens back and forth, very slowly, until the picture is sharp.  
   *Child mode:* Look through both lenses. Slide the front lens slowly until it is sharp.
-  - Note: This takes patience and a steady hand. Rest the stick on a chair or a windowsill. The picture will be upside down, with coloured edges, and a bit blurry. That is normal for simple lenses. The gap that gives a sharp picture is about the two focal lengths added together, for example 50 plus 6, so 56 centimetres. If you cannot find a sharp picture, try the other way round, or change which lens is in front.
+  - Note: This takes patience and a steady hand. Alone, the child looks and the grown-up slides the front lens. With 2 to 4 children: one looks, one slides, one holds the stick steady on a chair, one reads the gap; swap every minute. Rest the stick on a chair or a windowsill. The picture will be upside down, with coloured edges, and a bit blurry. That is normal for simple lenses. The gap that gives a sharp picture is about the two focal lengths added together, for example 50 plus 6, so 56 centimetres. If you cannot find a sharp picture, try the other way round, or change which lens is in front.
 - **s4 (7 min)**  
   *Parent does:* Keep both eyes open. One eye looks through the telescope. The other looks at the wall. Count how many plain bricks fit across one magnified brick. Write the number. Then try the gap 3 centimetres shorter and 3 centimetres longer.  
   *Parent says:* Keep both eyes open. Your brain puts the two pictures on top of each other. How many plain bricks fit across one big brick?  
   *Child mode:* Keep both eyes open. Count how many plain bricks fit across one big brick.
-  - Note: It takes a moment for the two pictures to overlap. If it is too hard, count how many bricks you see across a fixed width through the telescope, and how many with the bare eye. The ratio is the magnifying. Expect about 5 to 15 times, depending on your lenses.
+  - Note: It takes a moment for the two pictures to overlap. If it is too hard, count how many bricks you see across a fixed width through the telescope, and how many with the bare eye. The ratio is the magnifying. Typically about 5 to 15 times, depending on your lenses. It should be close to the front focal length divided by the eyepiece focal length, for example 50 divided by 5 is 10. A weak 3x pocket magnifier gives a smaller number, about 6 to 8.
   - Check: Each brick looks 8 times wider through your telescope. What does this number tell you? → **The telescope magnifies 8 times**
 - **s5 (6 min)**  
   *Parent does:* Ask for what I think, what I saw and why. Then ask the question about stars.  
@@ -437,22 +437,22 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Parent does:* Tape the sheets together. Mark a dot in the middle. Hold the pencil on the string 6.4 centimetres from the dot, and draw a full circle. This is the Earth. Now draw a circle with a radius of 6.8 centimetres. This is the space station.  
   *Parent says:* Hold the string tight at the dot and swing the pencil all the way round. That is the Earth. Now make the string a little longer, 6.8 centimetres. That circle is the space station.  
   *Child mode:* Draw the Earth, 6.4 centimetres from the middle. Then the station, 6.8.
-  - Note: The station's circle is only 4 millimetres outside the Earth's. It almost touches the line. This is how close the space station is to the ground on a map of the real sizes.
+  - Note: The station's circle is only 4 millimetres outside the Earth's. It almost touches the line. Alone, the child holds the string end on the dot with a finger while the grown-up helps, or tape the string end to the dot. With 2 to 4 children: one holds the dot, one draws; swap for each circle. This is how close the space station is to the ground on a map of the real sizes.
   - Check: On the map the space station's circle is almost touching the Earth's circle. What does this tell you? → **The space station is very close to the Earth, compared to the size of the Earth**
 - **s3 (9 min)**  
-  *Parent does:* Draw two more circles. One has a radius of 26.6 centimetres, for the navigation satellites. One has a radius of 42.2 centimetres, for geostationary satellites. Write the lap times beside the circles: 90 minutes, 12 hours and 24 hours.  
-  *Parent says:* Now two much bigger circles. The navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which circle is slower to go round?  
+  *Parent does:* Draw two more circles. One has a radius of 26.6 centimetres, for the GPS navigation satellites. One has a radius of 42.2 centimetres, for geostationary satellites. Write the lap times beside the circles: 90 minutes, 12 hours and 24 hours.  
+  *Parent says:* Now two much bigger circles. The GPS navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which circle is slower to go round?  
   *Child mode:* Draw two big circles, 26.6 and 42.2 centimetres. Write the lap times.
   - Note: The numbers are 6,371 plus 20,200, and 6,371 plus 35,786. The bigger the circle, the longer the lap.
 - **s4 (8 min)**  
   *Parent does:* Lay the tape measure on the floor from the Earth's middle. Put a sticker on the floor at 3.84 metres. Walk to it. This is where the Moon would be on the map.  
   *Parent says:* The Moon is 384,000 kilometres away. On our map that is 384 centimetres. Let's walk there and see how far it is from our biggest circle.  
   *Child mode:* Put a sticker 3.84 metres from the Earth. This is the Moon.
-  - Note: The Moon's distance is about 9 times the radius of the geostationary circle. Note that on a map this size, the station's ring is thinner than your pencil line. Everyone who has ever flown to the Moon crossed all those rings in a few hours of the trip.
+  - Note: The Moon's distance is about 9 times the radius of the geostationary circle. Note that on a map this size, the gap between the Earth's line and the station's line is only about the width of a fingernail. Apollo crews crossed all those rings in about the first half-day of their trip. If your room is shorter than 4 metres, lay the tape along a corridor or into the next room.
   - Check: On the map, the geostationary circle is 42.2 centimetres from the middle and the Moon is 384 centimetres. About how many times farther is the Moon? → **About 9 times**
 ### a2 · Sound Needs Something: a tin-can telephone (25 min)
-- **safety:** A grown-up makes the holes with a pin, on a wooden board, pushing away from their hands. Plastic cups with sharp edges should be trimmed or taped.
-- **record:** Write a table with three rows: string tight, string slack, string pinched. Write what you heard.
+- **safety:** A grown-up makes the holes with a sharp pencil tip or a skewer, pressing the cup onto thick cardboard and pushing away from their hands. Plastic cups with sharp edges should be trimmed or taped. Never use matches as stoppers.
+- **record:** Write a table with three rows: string tight, string slack, string pinched. Write how many of the 5 numbers were heard right each time, and what you heard.
 - **s1 (5 min)**  
   *Parent does:* Show your child the cups and the string. Ask for a guess. Will the whisper travel along the string? What if the string is slack? Write the guesses down.  
   *Parent says:* We will make a telephone from two cups. Will a whisper go along the string? What if the string is slack? Why do you think so?  
@@ -460,39 +460,39 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   - Ask: Why do you think the string might carry the sound? (good: The string shakes and passes the shaking on.; The sound goes along the string.; It will not work, because there is only a string.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* A grown-up makes a small hole in the bottom of each cup with a pin. Thread the string through each hole from the outside. Tie a knot around a matchstick inside, so it cannot slip out.  
-  *Parent says:* Push the string through the hole from outside. Tie the end around the matchstick inside the cup. Do the same on the other cup.  
-  *Child mode:* Thread the string through the hole. Tie a knot round a matchstick.
-  - Note: The matchstick is only a stopper. Use a button or a bit of cardboard if you prefer. Do not use a lit match. Two cups, 5 metres of string, one knot at each end.
-- **s3 (8 min)**  
-  *Parent does:* Stand 5 metres apart, with the string pulled tight. One person whispers into a cup. The other holds the other cup to their ear. Then let the string go slack and try again. Then pinch the string with a finger and try again.  
+  *Parent does:* A grown-up makes a small hole in the bottom of each cup with a pin. Thread the string through each hole from the outside. Tie the end to a button inside, with a double knot, so it cannot slip out.  
+  *Parent says:* Push the string through the hole from outside. Tie the end to a button inside the cup, with a double knot. Do the same on the other cup.  
+  *Child mode:* Thread the string through the hole. Tie a double knot round a button.
+  - Note: The button is only a stopper, and a short bit of ice-cream stick works too. Use thin cotton thread, kite string or fishing line, not stretchy wool or elastic. Two cups, 5 metres of string, one knot at each end.
+- **s3 (9 min)**  
+  *Parent does:* Whisper five different numbers each time and count how many are heard right. Stand as far apart as the string allows, about 4 metres, with the string pulled tight. One person whispers into a cup. The other holds the other cup to their ear. Then let the string go slack and try again. Then pinch the string with a finger and try again.  
   *Parent says:* Pull the string tight and whisper a number into your cup. Can your friend hear it? Now let the string go loose. Now pinch the string. What changes?  
   *Child mode:* Whisper into the cup. Try tight, slack and pinched. What do you hear?
-  - Note: Expected: it works when tight, it fades or fails when slack, and it stops or goes quiet when the string is pinched. The sound is a shaking that passes along the string. A slack string cannot pass the shaking well.
+  - Note: Alone, the child whispers and the grown-up listens, then swap. With 2 to 4 children: one whispers, one listens, one pinches the string, one writes the score out of 5. Typical result, not promised: tight works well, slack gets fewer right, and pinched gets almost none. Expected: it works when tight, it fades or fails when slack, and it stops or goes quiet when the string is pinched. The sound is a shaking that passes along the string. A slack string cannot pass the shaking well.
   - Check: Why does the phone stop working when the string is pinched? → **The shaking cannot pass along the string past your finger**
-- **s4 (5 min)**  
+- **s4 (4 min)**  
   *Parent does:* Ask for what I think, what I saw and why. Then ask about space.  
   *Parent says:* Tell me three things. What do you think now? What did you hear that shows it? And why? In space there is almost nothing between the rocket and a person. Could you hear it?  
   *Child mode:* Say what I think, what I saw and why. Could you hear a rocket in space?
   - Note: A good answer: sound needs something to shake, such as air, string or water. In space there is almost nothing, so sound cannot travel. Astronauts talk by radio, and radio waves are a kind of light that needs nothing to carry them.
   - Check: Two astronauts float outside the space station, and one shouts. Why can the other not hear her shout directly? → **There is almost no air to carry the sound across the gap**
 ### a3 · Whispering Dishes: how a curved dish gathers waves (20 min)
-- **record:** Draw the two bowls facing each other. Mark with a cross the spot where the whisper was loudest.
-- **s1 (4 min)**  
+- **record:** Draw the two bowls facing each other. Mark with a cross the spot where the whisper was loudest. Write how many of the 5 numbers were heard right at the middle, at the side and with no bowl.
+- **s1 (3 min)**  
   *Parent does:* Show your child the two bowls. Ask whether a whisper from one bowl can be heard from the other, 2 metres away. Ask them to guess where the best place to listen is. Write down the guess.  
   *Parent says:* Radio telescopes use a big curved dish. We will use a bowl for sound. Can a whisper cross the room from one bowl to another? Where is the best place to put your ear? Why?  
   *Child mode:* Two bowls face each other. Can a whisper cross the room? Why?
   - Note: Do not correct the guess. Remind your child that a magnifying glass gathered light from a window into one picture.
-- **s2 (6 min)**  
+- **s2 (5 min)**  
   *Parent does:* Stand the bowls on their sides on two low tables, 2 metres apart, with their open faces towards each other. Make sure both face the other's middle. One person sits behind each bowl.  
   *Parent says:* Tilt each bowl so that its open face looks straight at the other bowl. One of you whispers a number into the middle of your bowl. The other puts an ear close to the middle of the other bowl.  
   *Child mode:* Face the bowls at each other. Whisper into one. Listen at the other.
-  - Note: The bowls need to be smooth and deep. If you cannot hear anything, bring the bowls closer, to 1 metre, and use a soft voice rather than a whisper. Switch off fans and the TV.
-- **s3 (6 min)**  
-  *Parent does:* Whisper a number. Your friend listens with the ear right at the middle of the bowl. Then move the ear 15 centimetres to the left or right, and whisper again. Then listen with no bowl at all, just across the room.  
+  - Note: The bowls need to be smooth and deep. If you cannot hear anything, bring the bowls closer, to 1 metre, and use a soft voice rather than a whisper. Switch off fans and the TV, and try it late in the evening when the house is quiet. Kitchen bowls give a small effect, not a loud one. For a steady sound, put a ticking watch or a soft phone tone at the middle of the first bowl.
+- **s3 (8 min)**  
+  *Parent does:* Whisper a number. Your friend listens with the ear right at the middle of the bowl. Then move the ear 15 centimetres to the left or right, and whisper again. Then listen with no bowl at all, just across the room. At each place, whisper five different numbers and count how many are heard right.  
   *Parent says:* Whisper the number. Can your friend say it back? Now they move their ear off to the side. Is it still loud? Now with no bowls at all?  
   *Child mode:* Whisper a number. Try listening in the middle, at the side, and with no bowl.
-  - Note: Expected: it is clearest with the ear at the middle of the bowl, weaker off to the side, and hardest with no bowl. The curved bowl bounces the sound so that it all arrives at one spot. If you hear little difference, try a larger bowl, or an old TV dish if you have one.
+  - Note: Expected: it is clearest with the ear at the middle of the bowl, weaker off to the side, and hardest with no bowl. The curved bowl bounces the sound so that it all arrives at one spot. Alone, the child listens and the grown-up whispers, then swap. With 2 to 4 children: one whispers, one listens, one moves the ear position, one writes the scores out of 5; swap after each place. If you hear little difference, move the bowls to 1 metre, try a larger bowl, or use the ticking watch. A small difference is still a true result, so write it down.
   - Check: Why is the whisper loudest when the ear is at the middle of the bowl? → **The curved bowl bounces the sound so it all meets at one spot**
 - **s4 (4 min)**  
   *Parent does:* Ask for what I think, what I saw and why. Then ask about the GMRT.  
@@ -502,7 +502,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   - Check: Where does a radio telescope put its receiver? → **At the spot where the curved dish gathers the waves together**
 ### a4 · Journey Strips: how many days to the Moon, the Sun's edge and Mars? (20 min)
 - **safety:** A grown-up helps with the scissors if the child is younger than eight.
-- **record:** Stick the four strips side by side on a page. Write the name and the number of days beside each one.
+- **record:** Stick the four strips side by side on a page. Write the name and the number of days beside each one. Write how many Apollo trips fit in the Mangalyaan trip.
 - **s1 (5 min)**  
   *Parent does:* Tell your child the four journeys and their days. Apollo 11 took about 4 days to land on the Moon. Chandrayaan-3 took 40. Aditya-L1 took about 126 days to reach its place near the Sun. Mangalyaan took about 320 days to reach Mars. Ask for a guess of which is the longest.  
   *Parent says:* Here are four real journeys. A trip to the Moon in 1969, India's Moon landing, India's Sun mission, and India's Mars mission. Which was the longest, and which the shortest?  
@@ -512,53 +512,53 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Parent does:* Cut a strip 4 millimetres long for Apollo 11. Cut one 40 millimetres long for Chandrayaan-3. Cut one 126 millimetres long for Aditya-L1. Cut one 320 millimetres long for Mangalyaan.  
   *Parent says:* One millimetre for each day. Apollo 11 is 4 millimetres. Chandrayaan-3 is 4 centimetres. Aditya-L1 is 12 centimetres and 6 millimetres. Mangalyaan is 32 centimetres.  
   *Child mode:* Cut four strips. One millimetre for each day.
-  - Note: Make the cuts as exact as you can. 4 millimetres is very short, about the width of a pencil. It makes a point.
+  - Note: With 2 to 4 children, each cuts one journey strip, then lay them together; alone, cut all four. Make the cuts as exact as you can. 4 millimetres is very short, about the width of a pencil. It makes a point.
 - **s3 (7 min)**  
-  *Parent does:* Lay the strips side by side with their left ends together. Compare them. Ask why Chandrayaan-3 took ten times as long as Apollo 11, though the Moon is the same distance away.  
+  *Parent does:* Lay the strips side by side with their left ends together. Compare them. Then count how many 4 millimetre Apollo strips would fit along the Mangalyaan strip. Ask why Chandrayaan-3 took ten times as long as Apollo 11, though the Moon is the same distance away.  
   *Parent says:* Both flew to the same Moon. Why did one journey take 4 days and the other 40? Think about the rocket and the burns.  
   *Child mode:* Why did the same Moon trip take 4 days and 40 days?
-  - Note: Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.
+  - Note: About 80 Apollo trips would fit in one Mangalyaan trip (the real trip took about 300 days). Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.
   - Check: Chandrayaan-3 took 40 days to reach the Moon and Apollo 11 took about 4. What is the best reason? → **Chandrayaan-3 used a smaller rocket and made many small engine burns**
 
 ## Projects
-### p1 · Straw Rockets: what do fins and a heavy nose do? (50 min)
-- **safety:** A grown-up helps with the scissors. Never aim a straw rocket at a face, and keep away from windows and glass. Test in a cleared space, and let the child blow only into the straw.
+### p1 · Straw Rockets: what do fins and a heavy nose do? (40 min)
+- **safety:** A grown-up helps with the scissors. Never aim a straw rocket at a face, and keep away from windows and glass. Test in a cleared space, let the child blow only into the straw, and never suck in through it, because the rocket or the clay could be breathed in. Keep the clay away from children under five.
 - **record:** Draw the three rockets. Under each one, write how far it flew on each try and whether it flew nose first or tumbled.
-- **s1 (5 min)**  
+- **s1 (4 min)**  
   *Parent does:* Show your child the paper, the straw and the clay. Say that you will make three rockets, one plain, one with fins and one with fins and a heavy nose. Ask for a guess and a reason.  
   *Parent says:* We will make three paper rockets. One has no fins. One has three fins. One has fins and a clay nose. Which will fly straightest and farthest? Why do you think so?  
   *Child mode:* Three rockets: plain, with fins, and with fins and a heavy nose. Which flies best? Why?
   - Ask: Why do you think that one will fly the best? (good: Fins keep it pointing the right way.; A heavy nose pulls it forward.; The plain one will go farthest because it is lightest.)
   - Note: Do not correct the guess. Write the guesses at the top of the page.
-- **s2 (12 min) · grown-up needed**  
+- **s2 (10 min) · grown-up needed**  
   *Parent does:* Roll a sheet of paper tightly round the pencil, 12 centimetres long. Tape it along the seam. Fold the top end flat and tape it shut to make the nose. Slide the tube off the pencil. Make three the same.  
   *Parent says:* Wrap the paper tightly round the pencil. Tape it down the side. Fold one end shut and tape it. That end is the nose. The open end goes on the straw.  
   *Child mode:* Roll paper round a pencil. Tape it. Close one end to make the nose.
   - Note: The tube should slide easily on the straw but not be baggy. A tube 12 centimetres long, about the size of a finger, flies well. Make all three the same length and width, so the test is fair.
-- **s3 (10 min) · grown-up needed**  
+- **s3 (8 min) · grown-up needed**  
   *Parent does:* Cut six fins from the card, each shaped like a small triangle about 3 centimetres tall. Tape three fins to the tail of the second rocket, evenly spaced. Tape three to the third rocket. Press the clay into the nose of the third rocket.  
   *Parent says:* Tape three fins to the open end of the second rocket, spaced like the spokes of a wheel. Do the same to the third one. Then press the clay into the nose of the third.  
   *Child mode:* Tape three fins to rockets two and three. Put clay in the nose of rocket three.
   - Note: Put the fins at the tail, the open end, with the flat edges along the tube. The clay changes the balance, and you can see this when you balance the rocket on one finger.
   - Check: Why do the three rockets have the same length and width and differ only in fins and clay? → **So that only the fins and the nose weight change**
-- **s4 (15 min) · grown-up needed**  
+- **s4 (11 min) · grown-up needed**  
   *Parent does:* Put the first rocket on a straw. Aim along the cleared space, away from people. Blow one short, hard puff. Measure where it lands. Do three launches for each rocket. Write down the distance and whether it flew nose first or tumbled.  
   *Parent says:* Slide the rocket onto the straw. Aim at the empty space. Take a breath and blow one sharp puff. Where did it land? Did it fly nose first, or tumble?  
   *Child mode:* Put the rocket on the straw. Aim at an empty space. Blow sharply.
-  - Note: Keep the same breath each time: one short hard puff. Do not aim at anyone. Expected: the plain rocket tumbles or wobbles. The finned rockets fly straighter. The clay-nosed rocket may fly straighter still but not as far. Your own results decide. Write them down as they are.
-- **s5 (8 min)**  
+  - Note: Keep the same breath each time: one short hard puff. Do not aim at anyone. Typical, not promised: the plain rocket may fly well or may wobble and tumble, fins tend to keep the nose pointing forward, and a clay nose may fly straighter but shorter. If all three fly alike, that is a result too. Let one child blow all nine launches, or let each child blow all three rockets and compare within that child, because breath strength differs. Others mark the landing and measure. Your own results decide. Write them down as they are.
+- **s5 (7 min)**  
   *Parent does:* Ask for what I think, what I saw and why. Then ask how real rockets steer.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Real rockets fly where there is no air, so fins cannot push on anything. How might a real rocket keep pointing the right way?  
   *Child mode:* Say what I think, what I saw and why. How does a rocket steer without air?
-  - Note: A good answer: fins keep the tail behind the nose, because air pushes on them if the rocket starts to turn sideways. That is true in air. In space there is no air, so real rockets steer by tilting their engines, or by firing small thrusters. India's PSLV swivels its engine nozzles to steer, a method called thrust vectoring.
+  - Note: A good answer: fins keep the tail behind the nose, because air pushes on them if the rocket starts to turn sideways. That is true in air. In space there is no air, so real rockets steer by tilting their engines, or by firing small thrusters. Rockets such as India's PSLV steer partly by tilting their engine nozzles, a method called thrust vectoring.
   - Check: Why can fins steer a paper rocket in a room but not a rocket in space? → **Fins work by pushing on air, and space has almost none**
 
 ## Challenges
 ### c1 · Soft Landing: land five coins from one metre without a bounce (40 min)
 - **problem:** Build a lander out of home things. A stack of five coins must ride inside it. A grown-up drops the lander from one metre. The coins must stay in a tidy stack inside, and the lander must stay the right way up.
-- **safety:** A grown-up does the dropping and helps with the scissors. Clear the floor of people and of glass before each drop. Keep coins away from children under five.
-- **your turn:** Sketch your lander. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Which design kept the coins in a stack? Why do you think it worked?
-- **constraints:** Use only paper, cups, straws, rubber bands, cotton wool or tissue, string and tape.; The lander must be no taller than 20 centimetres.; A grown-up drops it from one metre, with no throw and no push.; The five coins must be in a stack, and still in a stack after the landing.
+- **safety:** A grown-up does the dropping and helps with the scissors. Clear the floor of people and of glass before each drop. Keep coins and plastic bags away from children under five.
+- **your turn:** Sketch your lander. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Drop each design three times and count how many drops kept the coins in a stack. Which design did best? Why do you think it worked?
+- **constraints:** Use only paper, cups, straws, rubber bands, cotton wool or tissue, string and tape.; The lander must be no taller than 20 centimetres.; A grown-up drops it from one metre, with no throw and no push.; The five coins ride in a stack inside the lander (a paper sleeve or tube to hold them is allowed), and are still in a stack after the landing.
 - **general:** Cushion the coins inside the lander with crumpled paper or cotton wool, so that they stop slowly.; Make legs from straws that bend and crush, so that they soak up the landing.; A parachute from a plastic bag slows the fall.
 - **creative:** Make the lander land on a ring of paper cups, like air bags.; Hang the coin box inside by rubber bands, so it floats like a seat in a car.; Combine a small parachute with crushable legs.
 - **s1 (8 min)**  
@@ -570,7 +570,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Parent does:* Build the first design. Put the five coins inside. A grown-up drops it from one metre onto the floor. Write down what happened to the coins and to the lander.  
   *Parent says:* Build your first lander. Load the coins. Now the drop. Did the coins stay in a stack? Did the lander stay the right way up?  
   *Child mode:* Build your lander. Drop it from one metre. What happened to the coins?
-  - Note: Drop onto a hard floor from exactly one metre, and hold the lander level. The first number is the one to beat. Do not worry if the first one fails. Engineers learn most from a lander that fails.
+  - Note: Drop onto a hard floor from exactly one metre, and hold the lander level. Use the same kind of coin every time (Rs 1 or Rs 2). With 2 to 4 children, each builds their own lander and the grown-up drops all of them from the same height; then compare successes out of 3. Alone, build two designs and compare. The first number is the one to beat. Do not worry if the first one fails. Engineers learn most from a lander that fails.
 - **s3 (10 min)**  
   *Parent does:* Change one thing about the design. Drop it again. Compare with the first drop. Do this once or twice more.  
   *Parent says:* What went wrong the first time? Change one thing only. Now drop it again. Is it better?  
@@ -596,7 +596,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Parent does:* Draw the table with five rows and five columns. Score each place from 0 to 3 on each need. Add up the scores and find the winner.  
   *Parent says:* Give each place a score from 0 to 3 for each need. A high score is good. Add them up. Which place wins?  
   *Child mode:* Give each place a score. Add them up.
-  - Note: There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why.
+  - Note: With 2 to 4 children, each argues for a different place first, then you score together. Alone, argue both sides. There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why.
 - **s3 (10 min)**  
   *Parent does:* Write three sentences to the government. Say which place you chose and why. Say what you would give up. Read the ideas and see if one changes your mind.  
   *Parent says:* Which place did you choose? What is the one thing you gave up? Would any idea change your mind?  
@@ -854,8 +854,8 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 
 ## Things to buy
 - [A packet of long balloons or normal balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the Loaded Balloon Rocket. A normal party balloon works. Buy more than you need, because balloons wear out. Used in e2. 
-- [A pair of cheap reading glasses, plus 1.0 to plus 2.5](https://www.amazon.in/s?k=reading+glasses+plus+2.0) (tool): For the weak front lens of the two-lens telescope. A medical store or an optician sells them for a small price. Used in e3. 
-- [A pocket magnifier, 5 to 10 times](https://www.amazon.in/s?k=pocket+magnifier+10x) (tool): For the eyepiece of the two-lens telescope. A stationery shop or a watch repairer often has one. Used in e3. 
+- [A pair of cheap reading glasses, plus 2.0 to plus 2.5](https://www.amazon.in/s?k=reading+glasses+plus+2.0) (tool): For the weak front lens of the two-lens telescope. A medical store, an optician or a roadside stall sells them for about Rs 50 to 150, and a grandparent may have an old pair. Check that the number has a plus sign, because minus lenses are for short sight and will not work. Used in e3. 
+- [A pocket magnifier, 5 to 10 times](https://www.amazon.in/s?k=pocket+magnifier+10x) (tool): For the eyepiece of the two-lens telescope. A stationery shop or a watch repairer often has one for about Rs 30 to 80. Ask for the strongest one (10x is best, 5x works). Used in e3. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the clay nose of the straw rocket and for holding the lenses on the stick. A small pack is enough. Used in p1, e3. 
 
 ## Warm-up

@@ -679,7 +679,7 @@
     }
    ],
    "rules": [
-    "Cut out the 24 cards and put them in a pile with the shape side up. Every player cuts out their own set of ten number tokens.",
+    "Cut out the 24 cards (a parent can do this in advance) and put them in a pile, shape side up, in the printed order for your first game. Every player gets ten number tokens: cut the printed ones, or just write 1, 2, 3, 4, 6, 8, 10, 12, 16 and Endless on ten small paper slips. Two to four players is best.",
     "One player is the reader. The reader takes the top card and shows only the front. If a shape is hard to imagine, draw it quickly on scrap paper.",
     "Every other player chooses one number token and puts it face down. Think about turns first, and then flips.",
     "Everyone turns their tokens over together. Then the reader reads the back of the card aloud.",
@@ -692,7 +692,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and the tokens. Give each player a set of ten tokens. Put the cards in a pile.",
+     "do": "Before the game, a parent cuts out the 24 cards. Each player cuts or writes their ten tokens. Keep the cards in the printed order for the first game, so that the triangle and square come first. Shuffle them next time.",
      "say": "These cards show shapes. You will guess how many ways each shape fits back into its outline. Each player gets ten number tokens.",
      "kid": "Cut out the cards and tokens. Take your ten number tokens.",
      "context": "This is the first step of Fit-Back Guess. You set up the cards and the tokens."
@@ -718,8 +718,8 @@
     },
     {
      "id": "s3",
-     "mins": 6,
-     "do": "Play the next ten cards. Stop after card 12 and ask the question below.",
+     "mins": 5,
+     "do": "Play the next six cards. Stop after card 12 and ask the question below.",
      "say": "Look at the cards so far. The triangle had 6 ways. The square had 8. What do you notice about the number of sides and the number of ways?",
      "kid": "Look at the triangle and the square. Count the sides and the ways.",
      "ask": [
@@ -736,8 +736,8 @@
     },
     {
      "id": "s4",
-     "mins": 4,
-     "do": "Play the last cards. Talk about the cards with a low count, such as the letter F, the letter S and the hand.",
+     "mins": 5,
+     "do": "Play on from card 13 while time allows. Short of time? Jump to the letter F, the letter S, the fan and the hand. Talk about why their counts are low.",
      "say": "The letter F and the hand fit in only one way. The S fits in two. Why do these have so few ways?",
      "kid": "Look at the F, the S and the hand. Why do they have so few ways?",
      "ask": [
@@ -749,7 +749,7 @@
        ]
       }
      ],
-     "parent": "The fan and the pinwheel are handed. A flip turns them into their mirror twins, which are different shapes. Handed shapes have turns only.",
+     "parent": "The fan and the pinwheel are handed. A flip turns them into their mirror twins, which are different shapes. Handed shapes have turns only. Playing alone or with a parent, the reader and the player can be the same person. With 3 or 4 children, the reader changes after every card.",
      "context": "In this step, you look at the shapes with the lowest counts."
     },
     {
@@ -820,7 +820,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the card and pushes the pin. Keep fingers behind the scissors.",
+   "safety": "A grown-up cuts the card and pushes the pin. Keep fingers behind the scissors. Put the pin back in its cushion or stick it in an eraser when done.",
    "record": "Fill in the table. For each shape, also write down one of the letter patterns you found, going round the outline from the star. Draw the outline of the square with the star and the letters.",
    "context": "In this experiment, you cut six shapes from card and count how many ways each one can fit back into its own outline. You look for a pattern in your numbers.",
    "setup": [
@@ -881,7 +881,7 @@
      "do": "On the front of each shape, write the letter A at one corner. Write B, C and D going round. Turn each shape over like a page. Write the same letters at the same corners on the back. Trace each shape on paper. Put a star at one corner of each outline.",
      "say": "Every corner gets a letter on both sides. That way we can tell the fits apart. The star on the outline tells us where to start reading.",
      "kid": "Write letters at the corners on both sides. Trace each shape. Add a star.",
-     "parent": "The circle only needs one dot on its edge. For the triangles, use only the letters A, B and C. Write the letters small and clear so they show at the corners.",
+     "parent": "The circle only needs one dot on its edge. For the triangles, use only the letters A, B and C. Write the letters small and clear with a dark pen on the plain grey inside of the cereal box card, so they show at the corners.",
      "check": {
       "t": "mcq",
       "q": "Why do we write the letters on both sides of each shape?",
@@ -931,7 +931,7 @@
        ]
       }
      ],
-     "parent": "Expect: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. If a count is odd, check for a letter pattern counted twice, or a shape that did not fit properly. The triangle with three different sides has only the start pattern.",
+     "parent": "Expect: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. If a count is odd, check for a letter pattern counted twice, or a shape that did not fit properly. The triangle with three different sides has only the start pattern. With 2 to 4 children: one child turns and flips, one reads the letters from the star, and one writes them down. Swap roles for each shape. Each pair or group needs only one set of shapes, but a second child can cut a spare square to check the count on their own.",
      "context": "In this step, you find the fits for the other five shapes."
     },
     {
@@ -1050,7 +1050,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Cut the three strips. Mark a dot in the middle of one face of each strip. Write A, B and C at one end. Flatten strip A by rubbing it along the edge of the table in both directions until it lies flat. Curl strip B over the pencil with the dot on the inside. Curl strip C the other way.",
+     "do": "Cut the three strips (a grown-up helps younger children with the scissors). Mark a dot in the middle of one face of each strip. Write A, B and C at one end. Flatten strip A by rubbing it along the edge of the table in both directions until it lies flat. Curl strip B over the pencil with the dot on the inside. Curl strip C the other way.",
      "say": "Strip A is flat. Strip B is curled towards the dot. Strip C is curled away from the dot. Lay each on the table. A curl the thickness of a coin at the ends is enough.",
      "kid": "Cut three strips and mark a dot. Flatten A. Curl B and C gently.",
      "parent": "A gentle curl is enough. Lay the strip on the table. Its ends should lift about the thickness of a one-rupee coin. If the strip creases, throw it away and cut a new one. A crease is a sharp fold and spoils the test.",
@@ -1072,7 +1072,7 @@
        ]
       }
      ],
-     "parent": "A flattened card strip is rarely perfectly flat. Many children find strip A goes mostly one way, which tells us it has a hidden tiny curve. If it goes both ways about equally, that is a fine result too. Write what you see.",
+     "parent": "A flattened card strip is rarely perfectly flat. Many children find strip A goes mostly one way, which tells us it has a hidden tiny curve. If it goes both ways about equally, that is a fine result too. Write what you see. Pinch the ends flat between thumb and finger, keep the strip upright, and push until the middle has moved about 3 centimetres. Stop before it creases. If the strip folds sideways on its edge, it is too wide: trim it a little.",
      "context": "In this step, you push the flattened strip ten times and tally which way it bends."
     },
     {
@@ -1090,7 +1090,7 @@
        ]
       }
      ],
-     "parent": "Expect strip B to bend one way every time, and strip C the opposite way every time. The curl is the tiny difference that decides.",
+     "parent": "Expect strip B (dot on the inside, facing you) to bow away from you almost every time, and strip C to bow towards you almost every time. The curl is the tiny difference that decides. If a curled strip does not go the same way at least 8 times out of 10, curl it a little more. Numbers will vary a little from family to family. With 2 to 4 children: each child makes their own set of A, B and C and does the tries. A second child tallies. Then put all the tallies together in one table.",
      "check": {
       "t": "mcq",
       "q": "Strip B is curled towards the dot and bends the same way ten times out of ten. What is the best explanation?",
@@ -1163,11 +1163,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a card stencil of the capital letter F, about 4 centimetres tall, cut out by a grown-up",
+     "item": "a card stencil of the capital letter F, about 4 centimetres tall, cut out by a grown-up from a cereal box or old file cover",
      "qty": 1
     },
     {
-     "item": "5 strips of plain paper, each about 40 centimetres long and 8 centimetres wide",
+     "item": "5 strips of plain paper, each about 30 centimetres long and 10 centimetres wide (cut an A4 sheet lengthwise in two)",
      "qty": 5
     },
     {
@@ -1226,7 +1226,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Border one: trace the F at the left of a strip. Slide the stencil 6 centimetres to the right. Trace it again. Do this five times. Border two: trace the F. Flip the stencil like a page, so it faces the other way, and trace it beside the first. Repeat.",
+     "do": "Border one: trace the F at the left of a strip. Slide the stencil 6 centimetres to the right. Trace it again. Do this five times. Border two: trace the F. Flip the stencil like a page, so it faces the other way, and trace it beside the first. Keep flipping and tracing along the strip.",
      "say": "Border one is a slide. Every F faces the same way. Border two flips over a line across the strip, like a page. The Fs take turns facing left and right.",
      "kid": "Slide the F and trace it five times. Then trace an F, flip it, and trace again.",
      "check": {
@@ -1245,8 +1245,8 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Border three: trace the F. Flip the stencil upside down, like turning a page over from top to bottom, and trace it beside the first. Repeat. Border four: trace the F. Turn the stencil halfway round and trace it beside the first. Repeat. Border five: trace the F. Flip it upside down and slide it along as well, then trace it. Repeat.",
-     "say": "Border three flips the F upside down. Border four turns it halfway round, so it is upside down but not flipped. Border five is the glide. It flips and slides in one move.",
+     "do": "First draw a pencil line along the middle of the strips for borders three and five. Border three: trace the F above the line. Flip the stencil upside down over the line, and trace it directly below the first F. Slide the stencil 6 centimetres along and trace the pair again. Border four: trace the F. Turn the stencil halfway round and trace it beside the first. Repeat. Border five: trace the F above the line. Flip the stencil upside down and trace it below the line, but shifted 3 centimetres along. Keep going, alternating above and below.",
+     "say": "Border three flips each F over the middle line, so every F has an upside-down twin below it. Border four turns the F halfway round, so it is upside down but not flipped. Border five is the glide. It flips over the line and slides along at the same time, so the Fs zigzag.",
      "kid": "Make three more borders. One flips the F upside down. One turns it halfway. One does both a flip and a slide.",
      "parent": "Children often mix up the flip and the half turn. A flip makes a mirror image. A half turn does not. Look at the F: a half-turned F is still a proper F, but upside down. A flipped F reads backwards. If two borders look the same, one may have been done wrong. Try again with the stencil.",
      "context": "In this step, you make the other three borders: a flip along, a half turn and a glide."
@@ -1266,7 +1266,7 @@
        ]
       }
      ],
-     "parent": "There are seven kinds of border altogether. These five moves make five of them. The other two are made by mixing moves, such as a flip across and a half turn together.",
+     "parent": "There are seven kinds of border altogether. These five moves make five of them. The other two are made by mixing moves, such as a flip across and a half turn together. With 2 to 4 children: each child makes one or two borders. Then each hides the move name and the others guess it from the strip.",
      "context": "In this step, you collect your five borders and name the move for each."
     },
     {
@@ -1315,9 +1315,13 @@
     {
      "item": "a protractor, or the equal-sided triangle card from the Fit-Back Count, whose corner is 60 degrees",
      "qty": 1
+    },
+    {
+     "item": "a lump of atta dough or clay (or two books), to prop the mirrors upright",
+     "qty": 1
     }
    ],
-   "safety": "Glass mirrors can cut. A grown-up covers all the edges with tape, or use plastic mirrors. Do not drop them. Do not put the mirrors where they could reflect strong sunlight into anyone's eyes.",
+   "safety": "Glass mirrors can cut. A grown-up covers all the edges with tape, or use plastic mirrors. Do not drop them. Do not put the mirrors where they could reflect strong sunlight into anyone's eyes. Do not let the sun through a window shine on the mirrors while you work.",
    "schedule": [
     {
      "day": 1,
@@ -1358,7 +1362,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guesses. Many children guess 2 for every angle. The answers are 3, 4, 6 and 8 for 120, 90, 60 and 45 degrees.",
+     "parent": "Do not correct the guesses. Many children guess 2 for every angle. The answers are 3, 4, 6 and 8 for 120, 90, 60 and 45 degrees. Draw 90 degrees from the corner of the paper, 45 by folding that corner in half, 60 from the corner of the equal-sided card triangle, and 120 with a protractor (or by drawing two 60 degree angles side by side).",
      "context": "This is the first step of the Two Mirrors test. You guess before you test."
     },
     {
@@ -1388,7 +1392,7 @@
       "a": 1,
       "why": "Each mirror shows one copy, and the two mirrors also reflect each other's copy. That makes the real one plus three copies, which is 4 in all."
      },
-     "parent": "Place the object close to the hinge. Count only objects that look complete. At 90 degrees you should see 4: the real one and 3 copies.",
+     "parent": "Place the object close to the hinge. Count only objects that look complete. At 90 degrees you should see 4: the real one and 3 copies. Prop the mirrors upright with a little dough at the foot. With 2 to 4 children: one child holds the mirrors and moves the object, and each other child counts on their own, then you compare. If counts differ, the mirrors are not sitting exactly on the lines. Cheap glass mirrors show a faint second image because of the glass. Count the bright ones.",
      "context": "In this step, you set the mirrors at 90 degrees and count the objects."
     },
     {
@@ -1413,8 +1417,8 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Stand the two mirrors facing each other, parallel, with the object between them. Look along the gap. Count how many objects you can see.",
-     "say": "Now put the mirrors face to face, side by side, with the object in the middle. How many objects can you see?",
+     "do": "Peel off the tape. Stand each mirror upright in dough, 10 centimetres apart, shiny sides facing, with the object between. Look along the gap from slightly above. Count the objects.",
+     "say": "Now stand the mirrors face to face, with the object in the middle. How many objects can you see?",
      "kid": "Put the mirrors face to face. Look along the gap. How many objects do you see?",
      "ask": [
       {
@@ -1457,7 +1461,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "2 sheets of plain thin paper that you can see through, such as tracing paper or thin notebook paper, and a thick pen",
+     "item": "2 sheets of plain thin paper that you can see through, such as tracing paper or thin notebook paper, and a thick dark pen",
      "qty": 2
     },
     {
@@ -1465,8 +1469,8 @@
      "qty": 1
     },
     {
-     "item": "4 things with a screw thread: a jar lid, a bottle cap, a pen cap or tube cap, and a nut and bolt if you have them",
-     "qty": 4
+     "item": "as many things with a screw thread as you can find, at least 6: jar lids, bottle caps, pen caps or tube caps, and a nut and bolt if you have them",
+     "qty": 6
     },
     {
      "item": "a piece of rope, string or thick thread with a visible twist",
@@ -1481,7 +1485,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors for younger children.",
+   "safety": "A grown-up helps with the scissors for younger children. Test only lids and caps that are safe to open. Look at gas cylinder valves, but do not touch or turn them.",
    "schedule": [
     {
      "day": 1,
@@ -1538,7 +1542,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Trace your left hand on paper and cut it out. Try to fit the cut-out onto the outline of your right hand, with the same side up. Then flip the cut-out over and try again.",
+     "do": "Trace both of your hands on paper, left and right, with fingers spread. Cut out the left hand. Try to fit the cut-out onto the outline of your right hand, with the same side up. Then flip the cut-out over and try again.",
      "say": "Trace your left hand and cut it out. Lay it on the outline of your right hand. Does it fit? Now flip it over. What happens?",
      "kid": "Cut out your left hand. Try it on your right-hand outline. Then flip it.",
      "ask": [
@@ -1568,7 +1572,7 @@
        ]
       }
      ],
-     "parent": "Nearly every screw thread tightens clockwise when seen from above. This is a rule people agreed on, so tools fit everywhere. A few things, such as some gas cylinder valves, use the other hand on purpose, to avoid mistakes. A rope is made of strands twisted one way and then twisted together the other way, so the twist you see depends on the rope.",
+     "parent": "Nearly every screw thread tightens clockwise when seen from above. This is a rule people agreed on, so tools fit everywhere. A few things, such as some gas cylinder valves, use the other hand on purpose, to avoid mistakes. A rope is made of strands twisted one way and then twisted together the other way, so the twist you see depends on the rope. Tally the clockwise and anticlockwise lids in a table. Almost all should be clockwise. With 2 to 4 children: each child tests different lids from the kitchen, and you pool the tally. Do not force a stuck lid.",
      "context": "In this step, you test screw threads and rope twists to find out which way they wind."
     },
     {
@@ -1713,8 +1717,8 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child to say which move covered the page, and which move made the tile.",
-     "say": "Which move did you use to make the tile from the square? Which move covered the page? What would a flip do instead?",
+     "do": "Count how many tiles covered your sheet. Compare with the number of plain 6 centimetre squares that would cover it (about 17 for a whole A4 sheet). Ask your child to say which move covered the page, and which move made the tile.",
+     "say": "How many tiles covered the sheet? About how many plain squares would it take? Which move did you use to make the tile from the square? Which move covered the page? What would a flip do instead?",
      "kid": "Which move made the tile? Which move covered the page?",
      "ask": [
       {
@@ -1725,7 +1729,7 @@
        ]
       }
      ],
-     "parent": "Both moves are slides. A slide keeps every copy the same way up, so bumps and dents always meet.",
+     "parent": "Both moves are slides. A slide keeps every copy the same way up, so bumps and dents always meet. The count of tiles should be about the same as the count of squares, because the piece was moved, not thrown away. Edge tiles that run off the sheet make the count only approximate. With 2 to 4 children: each child cuts and tapes their own tile, then all tile one big sheet together, or swap tiles and try each other's.",
      "context": "In this step, you name the moves that made and covered the tiling."
     }
    ]
@@ -1804,7 +1808,8 @@
      "do": "On day 1, find three things around you that have a line of symmetry. Draw each one and add a dotted line. Find one thing with no line of symmetry and draw it.",
      "say": "Find three things with a line of symmetry. Draw them and add the dotted line. Find one thing with none. How do you test it?",
      "kid": "Find three things with a mirror line. Draw each one. Add the line.",
-     "context": "This is day 1 of the Symmetry Notebook. You find mirror lines."
+     "context": "This is day 1 of the Symmetry Notebook. You find mirror lines.",
+     "parent": "Each child keeps their own notebook. With 2 to 4 children, compare finds at the end of each day. Never touch live animals or pick up sharp tools while hunting. Look and draw only."
     },
     {
      "id": "s2",
@@ -1827,7 +1832,7 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "On day 4, find something lopsided on purpose. A heart, a spiral shell, a crab claw or scissors all work. Write how the lopsided part helps. Read all four pages to someone.",
+     "do": "On day 4, find something lopsided on purpose. A heart, a spiral shell, a picture of a crab claw, or a pair of scissors all work. Look, do not pick up live animals or sharp tools. Write how the lopsided part helps. Read all four pages to someone.",
      "say": "Find something lopsided that has a good reason to be lopsided. What does the lopsided part do? Read your pages aloud.",
      "kid": "Find something lopsided on purpose. Why is it lopsided? Read your pages aloud.",
      "wait": "Next day",
@@ -3072,7 +3077,7 @@
    "id": "b-mirrors",
    "item": "Two small flat mirror tiles or compact mirrors",
    "kind": "material",
-   "why": "For the Two Mirrors activity. Cheap mirror tiles from a hardware or craft shop work well.",
+   "why": "For the Two Mirrors activity. Two small mirror tiles or plastic mirror sheets from a hardware, craft or general store cost about Rs 20 to 50 each. A pair of compact mirrors from a stationery shop works too.",
    "url": "https://www.amazon.in/s?k=small+mirror+tiles+craft",
    "used_in": [
     "a2"
@@ -3098,7 +3103,9 @@
    "url": "https://www.amazon.in/s?k=thin+card+sheets+craft+a4",
    "used_in": [
     "e1",
-    "e2"
+    "e2",
+    "a1",
+    "a4"
    ]
   }
  ],

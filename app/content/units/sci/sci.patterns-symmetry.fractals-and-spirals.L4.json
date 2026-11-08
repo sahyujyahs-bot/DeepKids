@@ -520,7 +520,7 @@
   {
    "id": "g1",
    "title": "Stick and Wander: grow a branching cluster with a die",
-   "mins": 24,
+   "mins": 29,
    "players": [
     "alone",
     "with a parent",
@@ -562,14 +562,14 @@
     }
    ],
    "rules": [
-    "Each player has a grid sheet with the middle square shaded. The shaded square is the seed. Each player needs a marker, such as a bean or a button, for the walker. All players share one die.",
+    "Each player has a grid sheet with the middle square shaded. The shaded square is the seed. Each player needs a marker, such as a bean or a button, for the walker, and ideally a die of their own (a ludo die will do). Everyone plays at the same time on their own sheet. If there is only one die, pass it on each time a walker sticks. No die: toss two coins for each step instead (two heads is up, head and tail is right, tail and head is down, two tails is left), so no toss is wasted.",
     "To release a walker, roll the die to pick an edge: 1 is the top edge, 2 the right edge, 3 the bottom edge and 4 the left edge. On a 5 or 6, roll again.",
-    "Roll again to pick the starting square on that edge. Count that many squares from the left for the top or bottom edge, or from the top for the side edges. Put the marker there.",
+    "Roll again to pick the starting square on that edge. Count that many squares from the left for the top or bottom edge, or from the top for the side edges (a 6 means the last, seventh square). Put the marker there. If it starts next to the cluster, it sticks at once.",
     "Move the walker one square at a time. For each step, roll the die: 1 is up, 2 is right, 3 is down and 4 is left. On a 5 or 6, roll again. If the step would take the walker off the grid, the walker stays where it is.",
     "A walker sticks as soon as it is next to a shaded square, sharing a side. Touching only at a corner does not count. Shade the square the walker is on and write its number in it. The first walker is 1, the second is 2, and so on.",
-    "Take turns. On your turn, release one walker and walk it until it sticks. A round ends when a cluster has a shaded square on the edge of the sheet. The player who reaches the edge first wins the round.",
-    "Play 3 rounds, one on each sheet. The player who wins the most rounds wins the game. A tie is a shared win.",
-    "Playing alone: release walkers until the cluster reaches the edge, and count how many walkers it took. Play three rounds and try to beat your best."
+    "Take turns. On your turn, release one walker and walk it until it sticks. A round ends when a cluster has a shaded square on the edge of the sheet. The player who reaches the edge first wins the round. If a round has gone on for more than 10 minutes, stop it when a cluster has 9 shaded squares, and count the winner as the one with the most squares on the outer ring.",
+    "Play up to 3 rounds, one on each sheet. Two rounds are enough if time is short. The player who wins the most rounds wins the game. A tie is a shared win.",
+    "Playing alone: release walkers until the cluster reaches the edge, and count how many walkers it took. Play two or three rounds and try to beat your best."
    ],
    "flow": [
     {
@@ -583,10 +583,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Play the first few turns. Release a walker, roll to pick its edge and its square, and walk it until it sticks. Shade and number the square.",
+     "do": "Play the first few walkers. Release a walker, roll to pick its edge and its square, and walk it until it sticks. Shade and number the square.",
      "say": "Roll to choose the edge. Roll again for the square. Now roll for each step. When the walker is next to a shaded square, it sticks. Shade its square.",
      "kid": "Roll to pick the edge. Roll for each step. When it touches, shade it.",
-     "parent": "The first walkers can take 15 or more rolls each. That is normal. A walker that wanders off the grid stays put, so every walker eventually sticks.",
+     "parent": "Typical numbers, not promises: a walker needs about 10 to 80 steps before it sticks, so 15 to 120 rolls, and the first walkers are the slowest. A round usually needs about 6 to 12 walkers and 100 to 400 rolls, which is 5 to 10 minutes. That is normal; nothing is wrong. A walker that wanders off the grid stays put, so every walker eventually sticks. Beans and buttons are small parts: keep them away from little brothers and sisters, and use buttons or paper squares if anyone has a food allergy to beans. Two to four children can each play their own sheet side by side; one child with a parent can race the parent.",
      "context": "In this step, you play the first turns and learn the rules."
     },
     {
@@ -638,10 +638,10 @@
     },
     {
      "id": "s5",
-     "mins": 3,
-     "do": "Play rounds 2 and 3 more quickly. Write the walker counts on the score sheet. Add up the rounds won and name the winner.",
-     "say": "Play two more rounds, as fast as you can. Is each cluster the same? Is each the same kind of shape?",
-     "kid": "Play rounds 2 and 3. Count the walkers. Is each shape the same?",
+     "mins": 8,
+     "do": "Play round 2, and round 3 if there is time (a second sitting is fine). Write the walker counts on the score sheet. Add up the rounds won and name the winner.",
+     "say": "Play another round, or two. Is each cluster the same? Is each the same kind of shape?",
+     "kid": "Play round 2, and round 3 if there is time. Count the walkers. Is each shape the same?",
      "ask": [
       {
        "q": "Were the three clusters exactly the same?",
@@ -652,7 +652,7 @@
       }
      ],
      "parent": "Every cluster is different because the dice are random. All of them have arms with sub-branches. The kind of shape is the same each time, and the exact shape is not.",
-     "context": "In this step, you play the last two rounds and compare the shapes."
+     "context": "In this step, you play the later rounds and compare the shapes."
     }
    ]
   }
@@ -665,7 +665,7 @@
    "days": 1,
    "question": "When the boxes that cover a line are cut in half, how fast does the number of boxes touched grow? Does a crinkly coast grow like a straight line, like a filled page, or in between?",
    "predict": "Before you start, guess. A straight line touches 5 boxes of 4 centimetres. How many will it touch when the boxes are 2 centimetres? Will your crinkly coast grow by more, less or the same as the straight line? Why do you think so?",
-   "fair_test": "Draw the straight line and the coast on pages of the same size, 20 centimetres across. Use the same rule for counting a box every time: a box counts if the line passes through any part of it. Count each box size twice. Only the box size changes, so any difference in how fast the count grows comes from the line and not from the counting.",
+   "fair_test": "Draw the straight line and the coast on pages of the same size, 20 centimetres across. Work alone with a parent, or in a group of 2 to 4 where each child draws a coast. Use the same rule for counting a box every time: a box counts if the line passes through any part of it. Count each box size twice. Only the box size changes, so any difference in how fast the count grows comes from the line and not from the counting.",
    "results_table": [
     "Box size",
     "Boxes touched by the straight line",
@@ -674,7 +674,7 @@
    ],
    "materials": [
     {
-     "item": "2 sheets of 1 centimetre squared paper, A4 size, or two pages of a squared notebook",
+     "item": "2 sheets of 1 centimetre squared paper (graph paper from a stationery shop, a few rupees a sheet) for each child. If your squares are 5 millimetres, colour every second line first to make 1 centimetre boxes",
      "qty": 2
     },
     {
@@ -686,8 +686,8 @@
      "qty": 1
     },
     {
-     "item": "3 coloured pencils or pens, one for each box size",
-     "qty": 3
+     "item": "2 coloured pencils or pens, one for the 4 centimetre lines and one for the 2 centimetre lines",
+     "qty": 2
     },
     {
      "item": "a pencil and scrap paper for dividing, or a calculator",
@@ -792,7 +792,7 @@
      "do": "On page 2, count the boxes the coast touches. Do the 4 centimetre boxes first, then the 2 centimetre boxes, then the 1 centimetre boxes. Shade each box as you count it. Count each size twice. Write the counts in the table.",
      "say": "Now the coast. Shade each box the coast touches, so you do not count one twice. Start with the biggest boxes. Count twice.",
      "kid": "Count the boxes the coast touches. Shade each one. Do it for each box size.",
-     "parent": "For a coast about 20 centimetres across with bays inside bays, typical counts are 10 to 14 for the 4 centimetre boxes, 25 to 35 for the 2 centimetre boxes, and 60 to 90 for the 1 centimetre boxes. Your own counts may differ. If your two counts of the same size differ by 2 or 3, use the average.",
+     "parent": "For a coast about 20 centimetres across with bays inside bays, typical counts are 10 to 14 for the 4 centimetre boxes, 25 to 35 for the 2 centimetre boxes, and 60 to 90 for the 1 centimetre boxes. Your own counts may differ. If your two counts of the same size differ by 2 or 3, use the average. With a parent, let the parent do the second count, and compare. With 2 to 4 children, swap coasts and let a friend do the second count; if the friend's numbers differ by more than 3, count the box again together.",
      "context": "In this step, you count the boxes your coast touches at three box sizes."
     },
     {
@@ -811,7 +811,7 @@
        ]
       }
      ],
-     "parent": "A line gives a ratio of 2, which is roughness number 1. A filled page gives a ratio of 4, which is number 2. If your ratio is about 2.4, your coast is about 1.3. A hand drawn coast usually lands between 1.1 and 1.5. If your ratio is below 2, you probably missed boxes. Count again.",
+     "parent": "A line gives a ratio of 2, which is roughness number 1. A filled page gives a ratio of 4, which is number 2. If your ratio is about 2.4, your coast is about 1.3. A hand drawn coast usually lands between 1.1 and 1.5. If your ratio is below 2, you probably missed boxes. Count again. If the second ratio (1 centimetre over 2 centimetre) is smaller than the first, that is normal: your pencil line has run out of fine detail at 1 centimetre. This is why a roughness number is only true for the box sizes you used. Compare the numbers of friends: they will not match exactly.",
      "think": "If you drew a smooth coast with only two or three gentle curves, what ratio would you expect?",
      "context": "In this step, you turn your counts into a roughness number for your coast."
     },
@@ -853,7 +853,7 @@
    "days": 1,
    "question": "As leaves climb a stem, how much does each new leaf turn round the stem from the last one? Is it the same for every plant?",
    "predict": "Before you start, guess. How many leaves up the stem before you find one directly above the first? Will each leaf turn half a circle, a third, or something else? Why do you think so?",
-   "fair_test": "Use the same method on every stem: tag the leaves from the bottom, find the first leaf directly above the bottom one, count the leaves and follow a thread round the stem to count the turns. Count each stem twice, starting from a different leaf the second time, because one count can be wrong. Only the plant changes.",
+   "fair_test": "Use the same method on every stem: tag the leaves from the bottom, find the first leaf directly above the bottom one, count the leaves and follow a thread round the stem to count the turns. Count each stem twice, starting from a different leaf the second time, because one count can be wrong. Only the plant changes. With one child, the parent does the second count. With 2 to 4 children, each child takes a different plant: one holds the thread and one reads the tag numbers from above, then swap roles and compare.",
    "results_table": [
     "Plant or stem",
     "Leaves counted from bottom leaf to the leaf directly above it (n)",
@@ -863,7 +863,7 @@
    ],
    "materials": [
     {
-     "item": "a potted plant or a cut stem with at least 8 leaves growing one at a time up the stem, such as a hibiscus, chilli or brinjal plant",
+     "item": "a potted plant, garden plant or cut stem with at least 9 leaves growing one at a time up the stem, such as a hibiscus, chilli or brinjal plant (a neighbour's or school garden is fine)",
      "qty": 1
     },
     {
@@ -871,7 +871,7 @@
      "qty": 1
     },
     {
-     "item": "12 small paper tags or sticky notes, numbered 0 to 11",
+     "item": "12 small paper tags or sticky notes, numbered 0 to 11, for each stem. If they fall off in damp weather, tie paper tags loosely to the leaf stalks with thread",
      "qty": 12
     },
     {
@@ -887,7 +887,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Some plants, such as chilli, can sting the eyes, so keep hands away from your face. Wash hands afterwards.",
+   "safety": "Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Some plants, such as chilli, can sting the eyes, and brinjal stems can have small thorns, so keep hands away from your face and touch gently. Wash hands afterwards. Do not taste any leaf.",
    "record": "Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn.",
    "context": "In this experiment, you tag the leaves of a real stem, follow a thread round it and work out how far each leaf turns from the last. You compare your result with the fractions that plants often use.",
    "setup": [
@@ -939,7 +939,7 @@
      "do": "Look down on the plant. Find the first leaf directly above leaf 0, on the same side of the stem. Note its number, n. Tie the thread loosely to leaf 0. Take it to leaf 1, then 2, and on up to leaf n, always the short way round the stem. Count how many times the thread goes round the stem. Call this t.",
      "say": "Look from above. Which is the first leaf directly above leaf 0? That is n. Now wind the thread round the stem from leaf to leaf. How many times did it go round?",
      "kid": "Find the first leaf above leaf 0 on the same side. Follow the thread round. Count the turns.",
-     "parent": "Do not worry if no leaf is exactly above. Choose the closest. Typical results are n and t of 2 and 1, 3 and 1, 5 and 2, or 8 and 3. If the thread goes round the stem a different number of times when you check, use the second count.",
+     "parent": "Do not worry if no leaf is exactly above. Choose the closest, within about a quarter of a turn either side. Typical results are n and t of 2 and 1, 3 and 1, 5 and 2, or 8 and 3. If the thread goes round the stem a different number of times when you check, use the second count.",
      "check": {
       "t": "mcq",
       "q": "A thread winds twice round the stem from leaf 0 to the first leaf directly above it, which is leaf 5. How many degrees does each leaf turn from the last?",
@@ -1039,7 +1039,7 @@
      "qty": 1
     },
     {
-     "item": "a set square with a 60 degree corner, or a protractor",
+     "item": "a compass from the geometry box (best), or a set square with a 60 degree corner, or a protractor",
      "qty": 1
     },
     {
@@ -1055,6 +1055,7 @@
      "qty": 1
     }
    ],
+   "safety": "The compass point is sharp: keep it down on the paper and let a grown-up help younger children. Sharpen pencils with a grown-up.",
    "schedule": [
     {
      "day": 1,
@@ -1101,10 +1102,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Mark dots at 9 and 18 centimetres on the line. Rub out the line between the dots. At the left dot, draw a line of 9 centimetres going up and to the right at 60 degrees. At the right dot, draw a line of 9 centimetres going up and to the left at 60 degrees. They meet at a point. Add the lengths: 9, 9, 9 and 9.",
+     "do": "Mark dots at 9 and 18 centimetres on the line. Rub out the line between the dots. At the left dot, draw a line of 9 centimetres going up and to the right at 60 degrees. At the right dot, draw a line of 9 centimetres going up and to the left at 60 degrees. They meet at a point. (With a compass set to 9 centimetres, put the point on each dot in turn and draw two small arcs that cross: the crossing is the top of the tent.) Add the lengths: 9, 9, 9 and 9.",
      "say": "Mark the thirds. Rub out the middle piece. Draw the two sides of a tent, each 9 centimetres long. They meet at the top. Now add up the four pieces.",
      "kid": "Mark the thirds. Rub out the middle. Draw a tent with two 9 centimetre sides.",
-     "parent": "The tent sides and the rubbed-out piece are each 9 centimetres, so they make an equilateral triangle with the missing base. A 60 degree set square makes this easy. The total is 9 plus 9 plus 9 plus 9, which is 36 centimetres.",
+     "parent": "The tent sides and the rubbed-out piece are each 9 centimetres, so they make an equilateral triangle with the missing base. A 60 degree set square or a compass makes this easy. The total is 9 plus 9 plus 9 plus 9, which is 36 centimetres.",
      "check": {
       "t": "mcq",
       "q": "After one round, the Koch curve has 4 pieces, each 9 centimetres long. What is the total length?",
@@ -1124,13 +1125,13 @@
      "do": "Look at each of the four pieces. For each one, find the middle third, which is 3 centimetres. Rub it out and draw a tent with two sides of 3 centimetres. Always put the tent on your left as you walk along the piece from the left end of the page. Count the pieces and add the lengths.",
      "say": "Do the same to every piece. Find its middle third. That is 3 centimetres. Rub it out and put in a small tent. Keep the tent on your left as you walk along the curve.",
      "kid": "Do the same on each of the four pieces. Use 3 centimetre tents.",
-     "parent": "There will be 16 pieces of 3 centimetres, so the length is 48 centimetres. The tents on the slanting pieces point to the left of the walking direction. Do not worry if the tents are not perfect. The shape is still a Koch curve.",
+     "parent": "There will be 16 pieces of 3 centimetres, so the length is 48 centimetres. The tents on the slanting pieces point to the left of the walking direction. Do not worry if the tents are not perfect. The shape is still a Koch curve. The compass method (set to 3 centimetres) works on slanting pieces, where a set square is awkward. With 2 to 4 children, each takes one of the four pieces for round 2 on a shared drawing, then everyone checks one another's tents and adds up the total together. One child alone, with a parent, does all four pieces.",
      "context": "In this step, you do round 2 and measure the new length."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Fill in the table for rounds 0, 1 and 2. Ask your child to find the pattern in the lengths and to guess rounds 3 and 4.",
+     "do": "Fill in the table for rounds 0, 1 and 2. Ask your child to find the pattern in the lengths and to guess rounds 3 and 4. Then test round 3 on one 3 centimetre piece.",
      "say": "The lengths are 27, 36 and 48. How many times bigger does the length get each round? Can you guess the next two lengths?",
      "kid": "Fill in the table. Find the pattern. Guess the next two lengths.",
      "ask": [
@@ -1143,7 +1144,7 @@
        ]
       }
      ],
-     "parent": "Round 3 has 64 pieces of 1 centimetre, so 64 centimetres. Round 4 has 256 pieces of one third of a centimetre, so about 85 centimetres. Each round multiplies the length by 4 over 3, which is the same as adding one third.",
+     "parent": "Round 3 has 64 pieces of 1 centimetre, so 64 centimetres. Round 4 has 256 pieces of one third of a centimetre, so about 85 centimetres. To check the guess for round 3 without drawing 64 tiny pieces, draw round 3 on just one 3 centimetre piece: it becomes 4 pieces of 1 centimetre, so 4 centimetres, one third longer. Each round multiplies the length by 4 over 3, which is the same as adding one third.",
      "check": {
       "t": "mcq",
       "q": "Each round of a Koch curve makes the line 4 over 3 times as long. The length is 48 centimetres after round 2. What is it after round 3?",
@@ -1185,11 +1186,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a coil of rope, a coir mat, an unlit mosquito coil or a murukku that has been made already, or a picture of a coil",
+     "item": "a coil of thick rope or jute string that you lay flat in a spiral on the floor, a coir mat, a murukku that has been made already, or a picture of a coil",
      "qty": 1
     },
     {
-     "item": "a snail shell, a shankha or a shell from a shell stall, or a picture of a pointed shell or a nautilus",
+     "item": "an empty shell of a garden snail (common in gardens after rain), a shankha or a shell from a shell stall, or a picture of a pointed shell or a nautilus. Two different shells are better than one",
      "qty": 1
     },
     {
@@ -1205,7 +1206,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not light the mosquito coil. Do not use one that has been lit. Keep it away from your face and food, and wash your hands after touching it. If you use a murukku, it is food: check for allergies such as sesame, and do not eat the one you measured. Broken shells can have sharp edges, so handle them with care.",
+   "safety": "Use only empty shells, and wash them and your hands afterwards. Never take a living snail. If you use a murukku, it is food: check for allergies such as sesame, and do not eat the one you measured. Broken shells can have sharp edges, so handle them with care.",
    "schedule": [
     {
      "day": 1,
@@ -1255,7 +1256,7 @@
      "do": "Lay the ruler across the middle of the coil. Starting at the centre, measure the distance from each turn to the next. Write the gaps. Do the same on a second line across a different part of the coil.",
      "say": "Lay the ruler across the middle. Measure from one turn to the next, going outwards. Write each gap. Are they the same?",
      "kid": "Lay the ruler across the coil. Measure each gap. Are the gaps the same?",
-     "parent": "A rope coil has gaps that are almost the same, within a millimetre or two. A murukku made with a press is also nearly equal. A mosquito coil is close to equal as well. If your gaps differ by more than a few millimetres, check that the ruler goes through the centre.",
+     "parent": "A rope coil has gaps that are almost the same, within a millimetre or two. A murukku made with a press is also nearly equal. If your gaps differ by more than a few millimetres, check that the ruler goes through the centre.",
      "check": {
       "t": "mcq",
       "q": "A coil has gaps of 12, 12 and 11 millimetres. Which kind of spiral grows by adding the same amount each turn?",
@@ -1294,7 +1295,7 @@
        ]
       }
      ],
-     "parent": "For a shell, the take-aways grow while the divisions stay near the same number, often between 1.2 and 2. That number is the fraction by which each whorl is wider than the last. Some shells are less regular, especially if the shell is damaged or the growth was uneven.",
+     "parent": "For a shell, the take-aways grow while the divisions stay near the same number, often between 1.2 and 2. That number is the fraction by which each whorl is wider than the last. Some shells are less regular, especially if the shell is damaged or the growth was uneven. Real shells are only roughly regular: if the divisions are within about 0.2 of one another while the take-aways clearly grow, the shell passes. If nothing is steady, say so honestly; the shell may be damaged, or you may have measured at different places. With 2 to 4 children, each measures a different shell, then compare the ratios. Two shells of the same kind should give similar ratios, and different kinds can differ. One child alone measures two shells with a parent.",
      "check": {
       "t": "mcq",
       "q": "A shell has whorl widths of 10, 15 and 22.5 millimetres. What do you get by dividing each width by the one before?",
@@ -1335,7 +1336,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "4 strips of paper, each 3 centimetres wide and about 50 centimetres long, made by cutting plain A4 sheets lengthwise and joining two with tape",
+     "item": "4 thin strips of paper, each about 1.5 centimetres wide and about 55 centimetres long, made by cutting plain A4 sheets lengthwise and joining two with tape (a wider strip is too bulky and the folded dragon will overlap itself)",
      "qty": 4
     },
     {
@@ -1355,7 +1356,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps younger children with the scissors when cutting the paper strips.",
+   "safety": "A grown-up helps younger children with the scissors when cutting the paper strips. Fold slowly: thin paper can give a paper cut.",
    "schedule": [
     {
      "day": 1,
@@ -1425,7 +1426,7 @@
      "do": "Take a new strip and fold it in half three times in the same direction. Open it and set the creases to right angles. Trace the shape. Do the same with a fourth strip folded four times. Count the creases each time.",
      "say": "Fold again, one more time each. Three folds, then four folds. Always the same way. Open and trace. Count the creases.",
      "kid": "Fold three times. Open. Trace. Then fold four times. Open. Trace.",
-     "parent": "After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon with curls. After five folds the paper is thick and hard to fold, so stop at four.",
+     "parent": "After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon with curls. After five folds the paper is thick and hard to fold, so stop at four. If the creases will not hold, press each one flat with a ruler edge. With 2 to 4 children, each folds and traces their own strip, then lay the shapes side by side to compare. One child alone, with a parent, can fold one strip each and compare.",
      "context": "In this step, you fold 3 and 4 times and trace each shape."
     },
     {
@@ -1564,7 +1565,7 @@
      "do": "Roll the die. If it shows 1 or 2, go towards A. If 3 or 4, go towards B. If 5 or 6, go towards C. Measure the distance from your last dot to that corner. Put a new dot halfway. Repeat until you have 50 dots.",
      "say": "Roll. Choose the corner. Measure to it. Put the dot at the halfway point. Then roll again from that dot. Keep going for fifty dots.",
      "kid": "Roll. Pick a corner. Put a dot halfway to it. Do this 50 times.",
-     "parent": "Measuring in millimetres helps. A ruler placed from the dot to the corner gives the distance, and half of it is the new place. Ignore the first three or four dots. They may fall outside the pattern. If it is slow, take turns with a friend on the same page.",
+     "parent": "Measuring in millimetres helps. A ruler placed from the dot to the corner gives the distance, and half of it is the new place. Ignore the first three or four dots. They may fall outside the pattern. Fifty dots take about 12 to 15 minutes alone. If it is slow, stop at 40 dots, or share the work: one person rolls and calls the corner, one measures, and one marks the dot. Swap jobs every 10 dots. Do not worry about small errors; each halving shrinks an earlier mistake. No die: pick a paper chit from a bowl of six chits marked A, A, B, B, C, C, and put it back each time. Two to four children can each make their own page and then compare how the holes fall, which shows that chance changes the dots but not the pattern.",
      "context": "In this step, you place the dots using the die."
     },
     {
@@ -1583,7 +1584,7 @@
        ]
       }
      ],
-     "parent": "After 50 dots, the middle of the triangle usually has a clear hole, and smaller holes appear nearer the corners. With more dots, the pattern becomes the Sierpinski triangle, a triangle made of three smaller triangles, each made of three smaller ones, and so on. It is a triangle with triangles inside triangles.",
+     "parent": "After 50 dots, the middle of the triangle usually has a clear hole, and smaller holes appear nearer the corners. With 50 dots the holes are only hinted at: it is typical, not exact, so say what you see. With 200 or more dots, the pattern becomes the Sierpinski triangle, a triangle made of three smaller triangles, each made of three smaller ones, and so on. It is a triangle with triangles inside triangles.",
      "check": {
       "t": "mcq",
       "q": "In the Chaos Game, the dots go wherever the die says. Why does the same pattern still appear each time?",
@@ -1626,7 +1627,7 @@
    "mins": 60,
    "materials": [
     {
-     "item": "coloured paper or thin card, in two colours, 4 sheets of A4 in all",
+     "item": "coloured paper or thin card, in two colours (old gift wrap or magazine pages work too), 2 to 4 sheets of A4 in all",
      "qty": 4
     },
     {
@@ -1646,7 +1647,7 @@
      "qty": 1
     },
     {
-     "item": "a card triangle template with sides of 4 centimetres",
+     "item": "a card triangle template with sides of 4 centimetres (made from a cereal box or a spare piece of card)",
      "qty": 1
     }
    ],
@@ -1697,7 +1698,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "On day 2, glue the triangles in groups of 3. Put two triangles side by side with the corners touching, then the third on top, touching both. Make 9 groups. Count the holes.",
+     "do": "On day 2, glue the triangles in groups of 3. Put two triangles side by side with the corners touching, then the third on top, touching both. Make 9 groups. Count the holes. Triangles that touch only at corners hold badly. Overlap each corner by 5 millimetres and glue the overlap.",
      "say": "Today we make groups of three. Two triangles sit at the bottom, touching at the corners. The third sits on top. There is a triangular hole in the middle. Make nine groups.",
      "kid": "Glue 3 triangles into one group. Make 9 groups.",
      "wait": "Next day",
@@ -1717,9 +1718,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "On day 3, glue 3 of the groups corner to corner to make a bigger group. Make 3 of these. Then glue the 3 big groups corner to corner into one very big triangle on the backing card. Count the holes of different sizes.",
-     "say": "Now we put 3 groups together, then 3 of those. The same rule, bigger each time. How many sizes of hole can you see?",
-     "kid": "Glue 3 groups together. Make 3 bigger groups. Glue them into one big triangle.",
+     "do": "On day 3, lightly draw a guide triangle with 32 centimetre sides on the backing card. Lay 3 of the groups corner to corner to make a bigger group. Make 3 of these. Lay the 3 big groups corner to corner inside the guide. Check the holes, then glue every group down onto the card, in its place. Count the holes of different sizes.",
+     "say": "Now we put 3 groups together, then 3 of those, on the card. The same rule, bigger each time. How many sizes of hole can you see?",
+     "kid": "Lay 3 groups together. Make 3 bigger groups. Place them in one big triangle, then glue them down on the card.",
      "ask": [
       {
        "q": "How many different sizes of triangular hole do you see?",
@@ -1729,7 +1730,7 @@
        ]
       }
      ],
-     "parent": "The finished triangle has 27 paper triangles and holes of three sizes. The paper covers 27 out of 64 of the area of a full triangle of the same side, which is a little less than half. If you carried on for ever, the paper would cover less and less, and in the end almost nothing.",
+     "parent": "The finished triangle has 27 paper triangles and holes of three sizes. The paper covers 27 out of 64 of the area of a full triangle of the same side, which is a little less than half. If you carried on for ever, the paper would cover less and less, and in the end almost nothing. One child with a parent spreads the work over three days. Three children can finish in one sitting: each cuts 9 triangles, makes 3 groups and builds one big group of 9, then the three big groups go on the card together. Four children: the fourth draws the guide triangle and checks the holes. Scissors and glue are the only things to watch; a glue stick is safe for children.",
      "wait": "Next day",
      "context": "This is day 3 of the Sierpinski wall hanging. You build the big triangle."
     }
@@ -1804,7 +1805,7 @@
      "do": "Draw a separate pipe from the tap to each pot, along the grid lines. Count the squares from the tap to the nearest pot and to the furthest pot. Add up the pipe.",
      "say": "Try a star first. Is the nearest pot the same distance as the furthest? How much pipe is that in all?",
      "kid": "Draw a pipe from the tap to every pot. Which pot is nearest? Which is furthest?",
-     "parent": "The star gives different distances for pots near to and far from the tap, so the near pots would get water first. This shows the problem to solve.",
+     "parent": "The star gives different distances for pots near to and far from the tap, so the near pots would get water first. This shows the problem to solve. Along the grid lines the nearest pots are 2 squares away and the furthest 6, and the separate pipes add up to 64 squares. Work alone with a parent, or in a group of 2 to 4 where each child designs a network and then everyone checks the others.",
      "context": "In this step, you try a star-shaped network and find its weakness."
     },
     {
@@ -1842,7 +1843,7 @@
        ]
       }
      ],
-     "parent": "The H-tree uses 36 squares of pipe, which is 36 times 15 centimetres, which is 540 centimetres. Every pot is 6 squares away. A star has pots at different distances and may use more or less pipe depending on the layout. If a child finds a network with less pipe and equal distances, check it carefully and celebrate.",
+     "parent": "The H-tree uses 36 squares of pipe, which is 36 times 15 centimetres, which is 540 centimetres. Every pot is 6 squares away. A star has pots at different distances and, along the grid lines, uses 64 squares of pipe, almost twice as much. If a child finds a network with less pipe and equal distances, check it carefully and celebrate.",
      "context": "In this step, you add up the pipe and compare the designs."
     }
    ]

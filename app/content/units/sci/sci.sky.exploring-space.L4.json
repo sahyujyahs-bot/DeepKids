@@ -620,7 +620,7 @@
        "b": "A. Closer orbits are faster. The satellite moves at about 3 km a second and the Moon at about 1."
       },
       {
-       "f": "A: a balloon rocket with no paper clips. B: the same rocket with 20 clips. Which one goes farther?",
+       "f": "A: a balloon rocket with no paper clips. B: the same rocket with 10 clips. Which one goes farther?",
        "b": "A. The same push moves a lighter rocket farther."
       },
       {
@@ -964,20 +964,20 @@
      "qty": 4
     },
     {
-     "item": "a saucer with a little water in it, to wet the marble so that it leaves a spot",
+     "item": "a saucer with a little water in it, to wet the marble so that it leaves a clear spot (add a pinch of haldi or a drop of ink to the water)",
      "qty": 1
     },
     {
-     "item": "a measuring tape, a pencil and masking tape",
+     "item": "a second marble (or a small ball of clay) for the two-marble race, a measuring tape, a pencil and masking tape",
      "qty": 1
     }
    ],
-   "safety": "Keep marbles away from children under five, who might put them in their mouths. Wipe up any water that drips on the floor, so nobody slips.",
+   "safety": "Keep marbles away from children under five, who might put them in their mouths. Wipe up any water that drips on the floor, so nobody slips. Pick up stray marbles at once, because stepping on one can make you fall. Haldi stains cloth, so keep the saucer off carpets.",
    "schedule": [
     {
      "day": 1,
      "mins": 40,
-     "what": "Set up the ramp. Roll the marble from three heights, three times each. Measure the landing marks. Work out what speed a marble would need to miss a round floor."
+     "what": "Set up the ramp. Roll the marble from three heights, three times each. Measure the landing marks. Race two marbles off the edge and listen. Think about what speed a marble would need to miss a round floor."
     }
    ],
    "record": "Fill in the table. Then draw three bars, one for each start height, as long as its middle landing distance. Write one sentence under the bars that says what the pattern is.",
@@ -1003,7 +1003,7 @@
     },
     {
      "id": "s2",
-     "mins": 8,
+     "mins": 6,
      "do": "Lay the ruler so its low end rests on the table, 15 centimetres from the edge. Stack books under the other end. Tape a line on the newspaper right under the table edge. This is the zero line.",
      "say": "The ruler is a ramp. The higher the marble starts, the faster it will be at the bottom. The tape under the edge is zero. We measure from there.",
      "kid": "Make a ramp. Tape a zero line on the floor under the table edge.",
@@ -1028,16 +1028,16 @@
      "say": "Let the marble go. Do not push it. Watch where it first touches the paper. Mark the first wet spot only. It may bounce on after that.",
      "kid": "Wet the marble. Let it go. Mark the first spot. Measure from zero.",
      "adult": true,
-     "parent": "A grown-up can watch the landing, because it is hard to roll and watch at the same time. The marble may bounce. Only the first wet spot counts. If a try goes very differently from the other two, repeat it. If the wet spots are too faint, wet the marble more or use a dry newspaper under a dark pen dot. Your numbers will differ from the example. What matters is that the higher start lands farther.",
+     "parent": "A grown-up can watch the landing, because it is hard to roll and watch at the same time. The marble may bounce. Only the first wet spot counts. Alone, the child lets go and the grown-up watches the landing. With 2 to 4 children: one lets go, one watches and marks the spot, one measures, one writes; swap after each height. Typical landings are roughly 30 to 80 centimetres from the edge, but your numbers will differ. If a try goes very differently from the other two, repeat it. If the wet spots are too faint, wet the marble more or use a dry newspaper under a dark pen dot. Your numbers will differ from the example. What matters is that the higher start lands farther.",
      "context": "In this step you roll the marble from three heights and measure where it first lands."
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew.",
+     "mins": 7,
+     "do": "Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew. Then the two-marble race: put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.",
      "say": "Look at our numbers. Which start height gave the farthest landing? Did the landing double when the height doubled?",
      "kid": "Which height landed farthest? Draw a bar for each one.",
-     "parent": "The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed grows more slowly than the height does. Do not explain this yet. Just notice.",
+     "parent": "The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed grows more slowly than the height does. Do not explain this yet. Just notice. In the race, most clean tries sound like one click, because both marbles fall the same height in the same time. Two clicks usually mean one marble was let go late, so repeat and count only the clean tries.",
      "check": {
       "t": "mcq",
       "q": "The marble that started higher left the table faster. Where did it land?",
@@ -1154,7 +1154,7 @@
      "qty": 1
     },
     {
-     "item": "two chairs, a measuring tape, a clothes peg and a pencil",
+     "item": "two chairs, a measuring tape, a clothes peg (or a partner pinching the neck with fingers) and a pencil",
      "qty": 1
     }
    ],
@@ -1194,7 +1194,7 @@
      "say": "The straw slides on the string like a train on a track. The balloon is the engine. We tape it on so that its neck points back along the string.",
      "kid": "Thread the straw on the string. Tape the balloon to the straw.",
      "adult": true,
-     "parent": "Tape the balloon along its side, not over the neck, so that its neck points straight back. Pinch the neck with a clothes peg when it is full, then take the peg off to launch. Practise one flight with no load to check that the straw slides freely.",
+     "parent": "Tape the balloon along its side, not over the neck, so that its neck points straight back. Pinch the neck with a clothes peg when it is full, then take the peg off to launch. The string must be pulled tight, because a sagging string stops the rocket. Practise one flight with no load to check that the straw slides freely.",
      "context": "In this step you build the string track and the balloon rocket."
     },
     {
@@ -1204,7 +1204,7 @@
      "say": "Blow the balloon up to the same size every time. Count down from three. Let go. Where does the front of the straw stop?",
      "kid": "Blow up the balloon to the loop size. Let go. Mark where it stops.",
      "adult": true,
-     "parent": "This first flight has no clips. Do it twice. If the balloon gets floppy after a few uses, swap in the second one. The distance on the string may be limited by the chair. Then lengthen the string, or count it as 'the whole string'.",
+     "parent": "This first flight has no clips. Alone, the child blows and releases while the grown-up marks the stop. With 2 to 4 children: one blows up the balloon, one pinches the neck, one lets go, one marks and measures; swap after each load. Do it twice. If the balloon gets floppy after a few uses, swap in the second one. The distance on the string may be limited by the chair. Then lengthen the string, or count it as 'the whole string'.",
      "context": "In this step you fly the rocket with no clips, so you have something to compare with."
     },
     {
@@ -1214,7 +1214,7 @@
      "say": "Now we load the rocket. Tape on 10 clips. Same size balloon, same start line. Does it fly as far?",
      "kid": "Add 10 clips. Fly it twice. Then 20. Then 30.",
      "adult": true,
-     "parent": "Spread the clips evenly under the straw so the rocket does not tip. If the rocket barely moves with 30 clips, use 5, 10 and 15 instead. Your numbers will differ. What matters is the pattern.",
+     "parent": "Spread the clips evenly under the straw so the rocket does not tip. A typical party balloon carries 10 clips easily, 20 slowly, and may barely move with 30. If the rocket stops moving, that is a real result: write 0 and note it. If it already struggles at 10 clips, use 5, 10 and 15 instead. Your numbers will differ. What matters is the pattern.",
      "check": {
       "t": "mcq",
       "q": "Why must the balloon be blown up to the same size each time?",
@@ -1317,7 +1317,7 @@
    ],
    "materials": [
     {
-     "item": "a weak lens for the front: reading glasses for long sight with a plus number of 1.0 to 2.5, or a large weak magnifying glass",
+     "item": "a weak lens for the front: reading glasses for long sight with a plus (+) number of 2.0 to 2.5, which has a focal length of 40 to 50 centimetres (a grandparent's old glasses are fine; minus glasses will not work), or a large weak magnifying glass",
      "qty": 1,
      "buy": "b-readglass"
     },
@@ -1327,7 +1327,7 @@
      "buy": "b-lens"
     },
     {
-     "item": "a straight wooden stick or a metre ruler",
+     "item": "a straight stick or a metre ruler, about 1 metre long (the two lenses sit about 55 centimetres apart)",
      "qty": 1
     },
     {
@@ -1351,7 +1351,7 @@
      "what": "Look through each lens alone. Mount both on a stick. Slide them until the faraway wall is sharp. Measure the gap and count how many times bigger the wall looks."
     }
    ],
-   "record": "Fill in the table. Draw the wall as it looks through the telescope and as it looks to your bare eye. Write the gap at which the picture was sharpest.",
+   "record": "Fill in the table. Draw the wall as it looks through the telescope and as it looks to your bare eye. Write the gap at which the picture was sharpest, the focal length of each lens, and whether your brick count was close to the front focal length divided by the eyepiece focal length.",
    "flow": [
     {
      "id": "s1",
@@ -1374,11 +1374,11 @@
     },
     {
      "id": "s2",
-     "mins": 6,
-     "do": "Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does.",
+     "mins": 9,
+     "do": "Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does. Then find each lens's focal length. Face a far window or a faraway building, never the Sun. Hold the lens up with a sheet of paper behind it. Slide the paper until a small, sharp, upside-down picture appears. Measure from lens to paper.",
      "say": "Hold the weak lens far from your eye. What do you see? Now look through the strong magnifier. Which one makes the wall look bigger?",
      "kid": "Look through each lens alone. What does each one do?",
-     "parent": "The weak lens held at arm's length usually gives a blurry or upside-down picture. The strong magnifier close to the eye gives a very blurry wall, because it is made for near things. Neither is a telescope alone.",
+     "parent": "The weak lens held at arm's length usually gives a blurry or upside-down picture. The strong magnifier close to the eye gives a very blurry wall, because it is made for near things. Neither is a telescope alone. The window picture gives the focal length: expect about 40 to 50 centimetres for the glasses lens and about 3 to 5 centimetres for a pocket magnifier. Do not hold the paper in sunlight from the window.",
      "context": "In this step you try each lens on its own, to see what it does before you join them."
     },
     {
@@ -1388,7 +1388,7 @@
      "say": "Put your eye close to the small lens. Look through both at the wall. Slide the front lens back and forth, very slowly, until the picture is sharp.",
      "kid": "Look through both lenses. Slide the front lens slowly until it is sharp.",
      "adult": true,
-     "parent": "This takes patience and a steady hand. Rest the stick on a chair or a windowsill. The picture will be upside down, with coloured edges, and a bit blurry. That is normal for simple lenses. The gap that gives a sharp picture is about the two focal lengths added together, for example 50 plus 6, so 56 centimetres. If you cannot find a sharp picture, try the other way round, or change which lens is in front.",
+     "parent": "This takes patience and a steady hand. Alone, the child looks and the grown-up slides the front lens. With 2 to 4 children: one looks, one slides, one holds the stick steady on a chair, one reads the gap; swap every minute. Rest the stick on a chair or a windowsill. The picture will be upside down, with coloured edges, and a bit blurry. That is normal for simple lenses. The gap that gives a sharp picture is about the two focal lengths added together, for example 50 plus 6, so 56 centimetres. If you cannot find a sharp picture, try the other way round, or change which lens is in front.",
      "context": "In this step you mount the two lenses on the stick and find the gap that gives a sharp picture."
     },
     {
@@ -1397,7 +1397,7 @@
      "do": "Keep both eyes open. One eye looks through the telescope. The other looks at the wall. Count how many plain bricks fit across one magnified brick. Write the number. Then try the gap 3 centimetres shorter and 3 centimetres longer.",
      "say": "Keep both eyes open. Your brain puts the two pictures on top of each other. How many plain bricks fit across one big brick?",
      "kid": "Keep both eyes open. Count how many plain bricks fit across one big brick.",
-     "parent": "It takes a moment for the two pictures to overlap. If it is too hard, count how many bricks you see across a fixed width through the telescope, and how many with the bare eye. The ratio is the magnifying. Expect about 5 to 15 times, depending on your lenses.",
+     "parent": "It takes a moment for the two pictures to overlap. If it is too hard, count how many bricks you see across a fixed width through the telescope, and how many with the bare eye. The ratio is the magnifying. Typically about 5 to 15 times, depending on your lenses. It should be close to the front focal length divided by the eyepiece focal length, for example 50 divided by 5 is 10. A weak 3x pocket magnifier gives a smaller number, about 6 to 8.",
      "check": {
       "t": "mcq",
       "q": "Each brick looks 8 times wider through your telescope. What does this number tell you?",
@@ -1485,7 +1485,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "4 sheets of newspaper, taped together into a sheet about 90 centimetres across",
+     "item": "4 sheets of newspaper, taped together into a sheet at least 90 centimetres across",
      "qty": 4
     },
     {
@@ -1493,7 +1493,7 @@
      "qty": 1
     },
     {
-     "item": "a ruler or measuring tape, at least 4 metres long",
+     "item": "a 1 metre ruler for the circles, and a tape measure of 4 metres or more (or a string marked at 3.84 metres with the ruler) for the Moon",
      "qty": 1
     },
     {
@@ -1529,7 +1529,7 @@
      "do": "Tape the sheets together. Mark a dot in the middle. Hold the pencil on the string 6.4 centimetres from the dot, and draw a full circle. This is the Earth. Now draw a circle with a radius of 6.8 centimetres. This is the space station.",
      "say": "Hold the string tight at the dot and swing the pencil all the way round. That is the Earth. Now make the string a little longer, 6.8 centimetres. That circle is the space station.",
      "kid": "Draw the Earth, 6.4 centimetres from the middle. Then the station, 6.8.",
-     "parent": "The station's circle is only 4 millimetres outside the Earth's. It almost touches the line. This is how close the space station is to the ground on a map of the real sizes.",
+     "parent": "The station's circle is only 4 millimetres outside the Earth's. It almost touches the line. Alone, the child holds the string end on the dot with a finger while the grown-up helps, or tape the string end to the dot. With 2 to 4 children: one holds the dot, one draws; swap for each circle. This is how close the space station is to the ground on a map of the real sizes.",
      "check": {
       "t": "mcq",
       "q": "On the map the space station's circle is almost touching the Earth's circle. What does this tell you?",
@@ -1545,8 +1545,8 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "Draw two more circles. One has a radius of 26.6 centimetres, for the navigation satellites. One has a radius of 42.2 centimetres, for geostationary satellites. Write the lap times beside the circles: 90 minutes, 12 hours and 24 hours.",
-     "say": "Now two much bigger circles. The navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which circle is slower to go round?",
+     "do": "Draw two more circles. One has a radius of 26.6 centimetres, for the GPS navigation satellites. One has a radius of 42.2 centimetres, for geostationary satellites. Write the lap times beside the circles: 90 minutes, 12 hours and 24 hours.",
+     "say": "Now two much bigger circles. The GPS navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which circle is slower to go round?",
      "kid": "Draw two big circles, 26.6 and 42.2 centimetres. Write the lap times.",
      "parent": "The numbers are 6,371 plus 20,200, and 6,371 plus 35,786. The bigger the circle, the longer the lap.",
      "context": "In this step you add the higher orbits and their lap times."
@@ -1557,7 +1557,7 @@
      "do": "Lay the tape measure on the floor from the Earth's middle. Put a sticker on the floor at 3.84 metres. Walk to it. This is where the Moon would be on the map.",
      "say": "The Moon is 384,000 kilometres away. On our map that is 384 centimetres. Let's walk there and see how far it is from our biggest circle.",
      "kid": "Put a sticker 3.84 metres from the Earth. This is the Moon.",
-     "parent": "The Moon's distance is about 9 times the radius of the geostationary circle. Note that on a map this size, the gap between the Earth's line and the station's line is only about the width of a fingernail. Everyone who has ever flown to the Moon crossed all those rings in a few hours of the trip.",
+     "parent": "The Moon's distance is about 9 times the radius of the geostationary circle. Note that on a map this size, the gap between the Earth's line and the station's line is only about the width of a fingernail. Apollo crews crossed all those rings in about the first half-day of their trip. If your room is shorter than 4 metres, lay the tape along a corridor or into the next room.",
      "check": {
       "t": "mcq",
       "q": "On the map, the geostationary circle is 42.2 centimetres from the middle and the Moon is 384 centimetres. About how many times farther is the Moon?",
@@ -1602,15 +1602,15 @@
      "qty": 1
     },
     {
-     "item": "a pin or a thick needle, and a wooden board, for the grown-up to make the holes",
+     "item": "a sharp pencil or a skewer, and a folded cloth or thick cardboard to press on, for the grown-up to make the holes",
      "qty": 1
     },
     {
-     "item": "two pieces of matchstick or buttons, to stop the string slipping through",
+     "item": "two buttons or two short pieces of ice-cream stick, to stop the string slipping through",
      "qty": 2
     }
    ],
-   "safety": "A grown-up makes the holes with a pin, on a wooden board, pushing away from their hands. Plastic cups with sharp edges should be trimmed or taped. Use a button as the string stopper if you can, because matches are not toys.",
+   "safety": "A grown-up makes the holes with a sharp pencil tip or a skewer, pressing the cup onto thick cardboard and pushing away from their hands. Plastic cups with sharp edges should be trimmed or taped. Never use matches as stoppers.",
    "schedule": [
     {
      "day": 1,
@@ -1618,7 +1618,7 @@
      "what": "Make the phone. Try it with a tight string, a loose string and a pinched string. Work out what sound needs, and what that means for space."
     }
    ],
-   "record": "Write a table with three rows: string tight, string slack, string pinched. Write what you heard.",
+   "record": "Write a table with three rows: string tight, string slack, string pinched. Write how many of the 5 numbers were heard right each time, and what you heard.",
    "flow": [
     {
      "id": "s1",
@@ -1642,20 +1642,20 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "A grown-up makes a small hole in the bottom of each cup with a pin. Thread the string through each hole from the outside. Tie a knot around a matchstick inside, so it cannot slip out.",
-     "say": "Push the string through the hole from outside. Tie the end around the matchstick inside the cup. Do the same on the other cup.",
-     "kid": "Thread the string through the hole. Tie a knot round a matchstick.",
+     "do": "A grown-up makes a small hole in the bottom of each cup with a pin. Thread the string through each hole from the outside. Tie the end to a button inside, with a double knot, so it cannot slip out.",
+     "say": "Push the string through the hole from outside. Tie the end to a button inside the cup, with a double knot. Do the same on the other cup.",
+     "kid": "Thread the string through the hole. Tie a double knot round a button.",
      "adult": true,
-     "parent": "The matchstick is only a stopper. Use a button or a bit of cardboard if you prefer. Do not use a lit match. Two cups, 5 metres of string, one knot at each end.",
+     "parent": "The button is only a stopper, and a short bit of ice-cream stick works too. Use thin cotton thread, kite string or fishing line, not stretchy wool or elastic. Two cups, 5 metres of string, one knot at each end.",
      "context": "In this step you build the telephone."
     },
     {
      "id": "s3",
-     "mins": 8,
-     "do": "Stand as far apart as the string allows, about 4 metres, with the string pulled tight. One person whispers into a cup. The other holds the other cup to their ear. Then let the string go slack and try again. Then pinch the string with a finger and try again.",
+     "mins": 9,
+     "do": "Whisper five different numbers each time and count how many are heard right. Stand as far apart as the string allows, about 4 metres, with the string pulled tight. One person whispers into a cup. The other holds the other cup to their ear. Then let the string go slack and try again. Then pinch the string with a finger and try again.",
      "say": "Pull the string tight and whisper a number into your cup. Can your friend hear it? Now let the string go loose. Now pinch the string. What changes?",
      "kid": "Whisper into the cup. Try tight, slack and pinched. What do you hear?",
-     "parent": "Expected: it works when tight, it fades or fails when slack, and it stops or goes quiet when the string is pinched. The sound is a shaking that passes along the string. A slack string cannot pass the shaking well.",
+     "parent": "Alone, the child whispers and the grown-up listens, then swap. With 2 to 4 children: one whispers, one listens, one pinches the string, one writes the score out of 5. Typical result, not promised: tight works well, slack gets fewer right, and pinched gets almost none. Expected: it works when tight, it fades or fails when slack, and it stops or goes quiet when the string is pinched. The sound is a shaking that passes along the string. A slack string cannot pass the shaking well.",
      "check": {
       "t": "mcq",
       "q": "Why does the phone stop working when the string is pinched?",
@@ -1670,7 +1670,7 @@
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 4,
      "do": "Ask for what I think, what I saw and why. Then ask about space.",
      "say": "Tell me three things. What do you think now? What did you hear that shows it? And why? In space there is almost nothing between the rocket and a person. Could you hear it?",
      "kid": "Say what I think, what I saw and why. Could you hear a rocket in space?",
@@ -1711,7 +1711,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "2 big, smooth, round steel bowls or kadais, about 30 centimetres across",
+     "item": "2 big, deep, smooth, round steel bowls, kadais or basins, as wide as you have (30 centimetres or more)",
      "qty": 2
     },
     {
@@ -1720,6 +1720,10 @@
     },
     {
      "item": "a quiet room, or a quiet corner of the house",
+     "qty": 1
+    },
+    {
+     "item": "a ticking wristwatch or a phone playing a soft steady tick or tone, for a steady quiet sound if whispers are too faint (optional)",
      "qty": 1
     }
    ],
@@ -1730,11 +1734,11 @@
      "what": "Set up two bowls facing each other. Whisper into one and listen at the other. Move your ear to find the best spot, and see what that says about a radio dish."
     }
    ],
-   "record": "Draw the two bowls facing each other. Mark with a cross the spot where the whisper was loudest.",
+   "record": "Draw the two bowls facing each other. Mark with a cross the spot where the whisper was loudest. Write how many of the 5 numbers were heard right at the middle, at the side and with no bowl.",
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "Show your child the two bowls. Ask whether a whisper from one bowl can be heard from the other, 2 metres away. Ask them to guess where the best place to listen is. Write down the guess.",
      "say": "Radio telescopes use a big curved dish. We will use a bowl for sound. Can a whisper cross the room from one bowl to another? Where is the best place to put your ear? Why?",
      "kid": "Two bowls face each other. Can a whisper cross the room? Why?",
@@ -1743,20 +1747,20 @@
     },
     {
      "id": "s2",
-     "mins": 6,
+     "mins": 5,
      "do": "Stand the bowls on their sides on two low tables, 2 metres apart, with their open faces towards each other. Make sure both face the other's middle. One person sits behind each bowl.",
      "say": "Tilt each bowl so that its open face looks straight at the other bowl. One of you whispers a number into the middle of your bowl. The other puts an ear close to the middle of the other bowl.",
      "kid": "Face the bowls at each other. Whisper into one. Listen at the other.",
-     "parent": "The bowls need to be smooth and deep. If you cannot hear anything, bring the bowls closer, to 1 metre, and use a soft voice rather than a whisper. Switch off fans and the TV.",
+     "parent": "The bowls need to be smooth and deep. If you cannot hear anything, bring the bowls closer, to 1 metre, and use a soft voice rather than a whisper. Switch off fans and the TV, and try it late in the evening when the house is quiet. Kitchen bowls give a small effect, not a loud one. For a steady sound, put a ticking watch or a soft phone tone at the middle of the first bowl.",
      "context": "In this step you set up the two bowls."
     },
     {
      "id": "s3",
-     "mins": 6,
-     "do": "Whisper a number. Your friend listens with the ear right at the middle of the bowl. Then move the ear 15 centimetres to the left or right, and whisper again. Then listen with no bowl at all, just across the room.",
+     "mins": 8,
+     "do": "Whisper a number. Your friend listens with the ear right at the middle of the bowl. Then move the ear 15 centimetres to the left or right, and whisper again. Then listen with no bowl at all, just across the room. At each place, whisper five different numbers and count how many are heard right.",
      "say": "Whisper the number. Can your friend say it back? Now they move their ear off to the side. Is it still loud? Now with no bowls at all?",
      "kid": "Whisper a number. Try listening in the middle, at the side, and with no bowl.",
-     "parent": "Expected: it is clearest with the ear at the middle of the bowl, weaker off to the side, and hardest with no bowl. The curved bowl bounces the sound so that it all arrives at one spot. If you hear little difference, try a larger bowl, or an old TV dish if you have one.",
+     "parent": "Expected: it is clearest with the ear at the middle of the bowl, weaker off to the side, and hardest with no bowl. The curved bowl bounces the sound so that it all arrives at one spot. Alone, the child listens and the grown-up whispers, then swap. With 2 to 4 children: one whispers, one listens, one moves the ear position, one writes the scores out of 5; swap after each place. If you hear little difference, move the bowls to 1 metre, try a larger bowl, or use the ticking watch. A small difference is still a true result, so write it down.",
      "check": {
       "t": "mcq",
       "q": "Why is the whisper loudest when the ear is at the middle of the bowl?",
@@ -1832,7 +1836,7 @@
      "what": "Cut one strip for each journey, using 1 millimetre for each day. Lay them side by side. Compare them and ask why the journeys took such different times."
     }
    ],
-   "record": "Stick the four strips side by side on a page. Write the name and the number of days beside each one.",
+   "record": "Stick the four strips side by side on a page. Write the name and the number of days beside each one. Write how many Apollo trips fit in the Mangalyaan trip.",
    "flow": [
     {
      "id": "s1",
@@ -1849,16 +1853,16 @@
      "do": "Cut a strip 4 millimetres long for Apollo 11. Cut one 40 millimetres long for Chandrayaan-3. Cut one 126 millimetres long for Aditya-L1. Cut one 320 millimetres long for Mangalyaan.",
      "say": "One millimetre for each day. Apollo 11 is 4 millimetres. Chandrayaan-3 is 4 centimetres. Aditya-L1 is 12 centimetres and 6 millimetres. Mangalyaan is 32 centimetres.",
      "kid": "Cut four strips. One millimetre for each day.",
-     "parent": "Make the cuts as exact as you can. 4 millimetres is very short, about the width of a pencil. It makes a point.",
+     "parent": "With 2 to 4 children, each cuts one journey strip, then lay them together; alone, cut all four. Make the cuts as exact as you can. 4 millimetres is very short, about the width of a pencil. It makes a point.",
      "context": "In this step you measure and cut the four strips."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "Lay the strips side by side with their left ends together. Compare them. Ask why Chandrayaan-3 took ten times as long as Apollo 11, though the Moon is the same distance away.",
+     "do": "Lay the strips side by side with their left ends together. Compare them. Then count how many 4 millimetre Apollo strips would fit along the Mangalyaan strip. Ask why Chandrayaan-3 took ten times as long as Apollo 11, though the Moon is the same distance away.",
      "say": "Both flew to the same Moon. Why did one journey take 4 days and the other 40? Think about the rocket and the burns.",
      "kid": "Why did the same Moon trip take 4 days and 40 days?",
-     "parent": "Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.",
+     "parent": "About 80 Apollo trips would fit in one Mangalyaan trip (the real trip took about 300 days). Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.",
      "check": {
       "t": "mcq",
       "q": "Chandrayaan-3 took 40 days to reach the Moon and Apollo 11 took about 4. What is the best reason?",
@@ -1890,7 +1894,7 @@
    "id": "p1",
    "title": "Straw Rockets: what do fins and a heavy nose do?",
    "days": 1,
-   "mins": 50,
+   "mins": 40,
    "materials": [
     {
      "item": "3 sheets of A4 paper",
@@ -1901,7 +1905,7 @@
      "qty": 1
     },
     {
-     "item": "wide drinking straws, one for each launch",
+     "item": "ordinary thin drinking straws, at least 1 (a fresh or wiped straw for each child who blows)",
      "qty": 3
     },
     {
@@ -1926,7 +1930,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 50,
+     "mins": 40,
      "what": "Roll three paper rockets. Give one no fins, one fins, and one fins with a clay nose. Launch each three times. Measure and compare."
     }
    ],
@@ -1934,7 +1938,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
+     "mins": 4,
      "do": "Show your child the paper, the straw and the clay. Say that you will make three rockets, one plain, one with fins and one with fins and a heavy nose. Ask for a guess and a reason.",
      "say": "We will make three paper rockets. One has no fins. One has three fins. One has fins and a clay nose. Which will fly straightest and farthest? Why do you think so?",
      "kid": "Three rockets: plain, with fins, and with fins and a heavy nose. Which flies best? Why?",
@@ -1953,7 +1957,7 @@
     },
     {
      "id": "s2",
-     "mins": 12,
+     "mins": 10,
      "do": "Roll a sheet of paper tightly round the pencil, 12 centimetres long. Tape it along the seam. Fold the top end flat and tape it shut to make the nose. Slide the tube off the pencil. Make three the same.",
      "say": "Wrap the paper tightly round the pencil. Tape it down the side. Fold one end shut and tape it. That end is the nose. The open end goes on the straw.",
      "kid": "Roll paper round a pencil. Tape it. Close one end to make the nose.",
@@ -1963,7 +1967,7 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 8,
      "do": "Cut six fins from the card, each shaped like a small triangle about 3 centimetres tall. Tape three fins to the tail of the second rocket, evenly spaced. Tape three to the third rocket. Press the clay into the nose of the third rocket.",
      "say": "Tape three fins to the open end of the second rocket, spaced like the spokes of a wheel. Do the same to the third one. Then press the clay into the nose of the third.",
      "kid": "Tape three fins to rockets two and three. Put clay in the nose of rocket three.",
@@ -1983,17 +1987,17 @@
     },
     {
      "id": "s4",
-     "mins": 15,
+     "mins": 11,
      "do": "Put the first rocket on a straw. Aim along the cleared space, away from people. Blow one short, hard puff. Measure where it lands. Do three launches for each rocket. Write down the distance and whether it flew nose first or tumbled.",
      "say": "Slide the rocket onto the straw. Aim at the empty space. Take a breath and blow one sharp puff. Where did it land? Did it fly nose first, or tumble?",
      "kid": "Put the rocket on the straw. Aim at an empty space. Blow sharply.",
      "adult": true,
-     "parent": "Keep the same breath each time: one short hard puff. Do not aim at anyone. Expected: the plain rocket tumbles or wobbles. The finned rockets fly straighter. The clay-nosed rocket may fly straighter still but not as far. Your own results decide. Write them down as they are.",
+     "parent": "Keep the same breath each time: one short hard puff. Do not aim at anyone. Typical, not promised: the plain rocket may fly well or may wobble and tumble, fins tend to keep the nose pointing forward, and a clay nose may fly straighter but shorter. If all three fly alike, that is a result too. Let one child blow all nine launches, or let each child blow all three rockets and compare within that child, because breath strength differs. Others mark the landing and measure. Your own results decide. Write them down as they are.",
      "context": "In this step you launch each rocket three times and measure how far and how straight it flew."
     },
     {
      "id": "s5",
-     "mins": 8,
+     "mins": 7,
      "do": "Ask for what I think, what I saw and why. Then ask how real rockets steer.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Real rockets fly where there is no air, so fins cannot push on anything. How might a real rocket keep pointing the right way?",
      "kid": "Say what I think, what I saw and why. How does a rocket steer without air?",
@@ -2042,7 +2046,7 @@
     "Use only paper, cups, straws, rubber bands, cotton wool or tissue, string and tape.",
     "The lander must be no taller than 20 centimetres.",
     "A grown-up drops it from one metre, with no throw and no push.",
-    "The five coins must be in a stack, and still in a stack after the landing."
+    "The five coins ride in a stack inside the lander (a paper sleeve or tube to hold them is allowed), and are still in a stack after the landing."
    ],
    "materials": [
     "paper cups and a paper plate",
@@ -2064,7 +2068,7 @@
     "Hang the coin box inside by rubber bands, so it floats like a seat in a car.",
     "Combine a small parachute with crushable legs."
    ],
-   "your_turn": "Sketch your lander. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Which design kept the coins in a stack? Why do you think it worked?",
+   "your_turn": "Sketch your lander. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Drop each design three times and count how many drops kept the coins in a stack. Which design did best? Why do you think it worked?",
    "context": "This is a design challenge about landing gently. You build a lander that stops slowly, as India's Vikram did on the Moon.",
    "setup": [
     {
@@ -2106,7 +2110,7 @@
      "say": "Build your first lander. Load the coins. Now the drop. Did the coins stay in a stack? Did the lander stay the right way up?",
      "kid": "Build your lander. Drop it from one metre. What happened to the coins?",
      "adult": true,
-     "parent": "Drop onto a hard floor from exactly one metre, and hold the lander level. The first number is the one to beat. Do not worry if the first one fails. Engineers learn most from a lander that fails.",
+     "parent": "Drop onto a hard floor from exactly one metre, and hold the lander level. Use the same kind of coin every time (Rs 1 or Rs 2). With 2 to 4 children, each builds their own lander and the grown-up drops all of them from the same height; then compare successes out of 3. Alone, build two designs and compare. The first number is the one to beat. Do not worry if the first one fails. Engineers learn most from a lander that fails.",
      "context": "In this step you build your first design and test it."
     },
     {
@@ -2136,7 +2140,7 @@
      }
     }
    ],
-   "safety": "A grown-up does the dropping and helps with the scissors. Clear the floor of people and of glass before each drop. Keep coins away from children under five."
+   "safety": "A grown-up does the dropping and helps with the scissors. Clear the floor of people and of glass before each drop. Keep coins and plastic bags away from children under five."
   },
   {
    "id": "c2",
@@ -2191,7 +2195,7 @@
      "do": "Draw the table with five rows and five columns. Score each place from 0 to 3 on each need. Add up the scores and find the winner.",
      "say": "Give each place a score from 0 to 3 for each need. A high score is good. Add them up. Which place wins?",
      "kid": "Give each place a score. Add them up.",
-     "parent": "There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why."
+     "parent": "With 2 to 4 children, each argues for a different place first, then you score together. Alone, argue both sides. There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why."
     },
     {
      "id": "s3",
@@ -3356,9 +3360,9 @@
   },
   {
    "id": "b-readglass",
-   "item": "A pair of cheap reading glasses, plus 1.0 to plus 2.5",
+   "item": "A pair of cheap reading glasses, plus 2.0 to plus 2.5",
    "kind": "tool",
-   "why": "For the weak front lens of the two-lens telescope. A medical store or an optician sells them for a small price.",
+   "why": "For the weak front lens of the two-lens telescope. A medical store, an optician or a roadside stall sells them for about Rs 50 to 150, and a grandparent may have an old pair. Check that the number has a plus sign, because minus lenses are for short sight and will not work.",
    "url": "https://www.amazon.in/s?k=reading+glasses+plus+2.0",
    "used_in": [
     "e3"
@@ -3368,7 +3372,7 @@
    "id": "b-lens",
    "item": "A pocket magnifier, 5 to 10 times",
    "kind": "tool",
-   "why": "For the eyepiece of the two-lens telescope. A stationery shop or a watch repairer often has one.",
+   "why": "For the eyepiece of the two-lens telescope. A stationery shop or a watch repairer often has one for about Rs 30 to 80. Ask for the strongest one (10x is best, 5x works).",
    "url": "https://www.amazon.in/s?k=pocket+magnifier+10x",
    "used_in": [
     "e3"

@@ -47,7 +47,7 @@ A free-living animal, such as a frog, has a life cycle too. Egg, tadpole, frog, 
 ### The Guinea worm: a journey through a person and a water animal · *defined*
 **Definition:** The Guinea worm is a parasitic worm whose life cycle needs a person as the final host and a copepod as the intermediate host.
 
-A person drinks water that holds copepods. Some copepods carry baby worms, which are called larvae. Stomach acid kills the copepods, and frees the larvae. The larvae go through the wall of the gut and grow. About a year later, a female worm, up to about a metre long, moves to the skin of a leg or foot and makes a painful blister. The burning makes the person put the foot into water. The worm pushes out her head and lets out a cloud of tiny larvae. A copepod swallows the larvae. Inside the copepod the larvae grow for about two weeks, until they are ready to infect a person. Nobody can catch the Guinea worm from another person, or from touching the worm. People catch the worm only by drinking the water with the copepods. For centuries the worm was drawn out slowly, a little each day, round a stick. In dry parts of India, such as Rajasthan, people drank from step wells and ponds that were full of copepods. From the 1980s, health workers taught people to filter their water through cloth, and to keep an infected foot out of the water. They also treated ponds and step wells, and later dug wells and laid pipes. India was certified free of Guinea worm in 2000. In the 1980s there were several million cases a year in many countries, and now there are only a handful.
+A person drinks water that holds copepods. Some copepods carry baby worms, which are called larvae. Stomach acid kills the copepods, and frees the larvae. The larvae go through the wall of the gut and grow. About a year later, a female worm, about 70 to 120 centimetres long, moves to the skin of a leg or foot and makes a painful blister. The burning makes the person put the foot into water. The worm pushes out her head and lets out a cloud of tiny larvae. A copepod swallows the larvae. Inside the copepod the larvae grow for about two weeks, until they are ready to infect a person. Nobody can catch the Guinea worm from another person, or from touching the worm. People catch the worm only by drinking the water with the copepods. For centuries the worm was drawn out slowly, a little each day, round a stick. In dry parts of India, such as Rajasthan, people drank from step wells and ponds that were full of copepods. From the 1980s, health workers taught people to filter their water through cloth, and to keep an infected foot out of the water. They also treated ponds and step wells, and later dug wells and laid pipes. India was certified free of Guinea worm in 2000. In the 1980s there were several million cases a year in many countries, and now there are only a handful.
 - e.g. Larvae in a copepod take about two weeks to be ready. A person who drinks the copepod a year before the blister shows has no idea.
 - e.g. A person with a blister who keeps the foot out of the village water breaks the journey at the first link.
 - e.g. A cloth over the pot holds the copepods back, which breaks the journey at the second link.
@@ -59,7 +59,7 @@ A filter is not a trap. It is a gate with a fixed width. Anything wider than the
 - e.g. Turmeric stirred into water stays yellow after a cloth, because the colour is made of pieces much smaller than the gaps.
 - e.g. A ceramic candle filter has gaps small enough to hold back many bacteria, so it takes much longer to drip.
 ### Why a parasite lays so many eggs: the odds multiply · *defined*
-**Definition:** The chance of a parasite finishing its whole journey is the chances at every stage multiplied together.
+**Definition:** The chance of a parasite finishing her whole journey is the chances at every stage multiplied together.
 
 Suppose an egg has a 1 in 10 chance of getting through each of four stages. Maybe it must land in water, then be eaten by the right animal, then grow, then reach a person. The chance of finishing all four is 1 in 10, then 1 in 100, then 1 in 1,000, then 1 in 10,000. So to get one adult, the parasite needs about ten thousand eggs. Real parasites have worse odds than that, so they make many thousands. A female roundworm can lay many thousands of eggs a day. A tapeworm releases whole segments full of eggs. A liver fluke gets help from a snail, because one young fluke inside a snail makes hundreds of copies of herself. The more stages and hosts a journey has, the more eggs the parasite makes. This is not waste. It is how a very fragile journey carries on, when most of it fails.
 - e.g. If the chance at each of 4 stages is 1 in 10, about 10,000 eggs are needed for one adult.
@@ -107,10 +107,10 @@ Amoeba and Giardia are single-celled parasites that live in the gut and cause lo
 - e.g. An amoeba is soft and active in the gut, and a cyst is hard and still in the water.
 - e.g. A cyst in a glass of water can wait for days until somebody drinks it.
 - e.g. A ceramic candle filter holds back cysts, because they are bigger than its tiny gaps.
-### How a parasite finds its host: breath, warmth and smell · *defined*
+### How a parasite finds a host: breath, warmth and smell · *defined*
 **Definition:** Parasites find hosts by sensing signs of a living body, such as warmth, breath, smell, light and movement.
 
-A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that one kind of mosquito, Aedes, can also sense the heat that skin gives off, from a short distance. A tick waits on a blade of grass and senses breath and warmth from an animal passing by. Hookworm larvae in damp soil sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses it has, and each reads the world in its own way. A mosquito reads breath and warmth as food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.
+A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that the malaria mosquito, Anopheles, uses a heat-sensing receptor to find warm skin from a short distance. A tick waits on a blade of grass and senses breath and warmth from an animal passing by. Hookworm larvae in damp soil sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses she has, and each reads the world in her own way. A mosquito reads breath and warmth as food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.
 - e.g. A mosquito finds you more easily after you run, because you breathe out more carbon dioxide.
 - e.g. Hookworm larvae sense the touch of a bare foot, which is why chappals help.
 - e.g. A tick waits for hours on a blade of grass, ready to grip when the breath of an animal passes.
@@ -168,7 +168,7 @@ Mosquitoes carry malaria, filaria and dengue, and mosquito-borne illnesses kill 
 - **Scabies is caused by dirt, and only children who do not wash get it.** (An old and hurtful idea; *rejected*)  
   For: The rash and the scratching look untidy, and people link itching with dirt.  
   Against: Scabies is caused by a mite that spreads by close skin contact. Anyone can get it, however clean, and it spreads easily where many people live close together.
-- **A parasite that kills its host has done well.** (A common idea; *rejected*)  
+- **A parasite that kills her host has done well.** (A common idea; *rejected*)  
   For: A parasite that takes a lot from a host seems to be winning.  
   Against: A parasite that kills her host too soon dies with the host, unless she has already passed on. Many parasites do best when the host lives long enough to spread them, which is why most parasites harm their host only a little.
 
@@ -269,13 +269,14 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 - **Printable cards: 10 cut cards (the weak link it breaks is on the back):** CUT: a folded cloth over the water pot. (back: Guinea worm, between steps 2 and 3. The copepods are held back and cannot reach a mouth.); CUT: a person with a blister keeps the foot out of the pond. (back: Guinea worm, step 1. The larvae are never let out into the water.); CUT: a yearly tablet for everyone in the district. (back: Filaria, step 1. No baby worms are left in the blood for a mosquito to drink.); CUT: a mosquito net over the bed. (back: Filaria step 2, and malaria steps 1 and 3. The mosquito cannot bite the sleeper.); CUT: fill blocked drains and empty still water. (back: Filaria and malaria, before step 1. Fewer mosquitoes are born.); CUT: test and treat every case of malaria. (back: Malaria, step 1. A treated person has no parasites for a mosquito to drink.); CUT: keep dung out of the pond. (back: Liver fluke, between steps 1 and 2. The eggs never reach the water.); CUT: cook water plants before eating them. (back: Liver fluke, between steps 4 and 5. Heat kills the cysts.); CUT: treat the whole household on the same day. (back: Scabies mite, step 4. No mite is left to crawl on to another person.); CUT: wash clothes and bedding hot, or seal them away for a few days. (back: Scabies mite, step 4. Mites die away from a body after a short time.)
 - **Printable score sheet: Score sheet:** Journeys put in the right order: ____; Cut cards placed on the right link: ____; Fastest time for the sorting round: ____
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the 25 journey cards and the 10 cut cards. 2. Shuffle the journey cards. 3. Spread them out, writing side up.  
+  *Parent does:* 1. Print or draw the 25 journey cards and the 10 cut cards on card or paper before the game. 2. Cut them out. A group can share the cutting. 3. Shuffle the journey cards. 4. Spread them out, writing side up.  
   *Parent says:* Five parasites are mixed up in this pile. Each one has five steps. Your job is to sort them into five journeys, and put each in order.  
   *Child mode:* Cut out the cards. Shuffle the journey cards. Spread them out.
 - **s2 (8 min)**  
   *Parent does:* Sort the journey cards into five journeys, and put each in order. Then turn the cards over to check.  
   *Parent says:* Find the cards that belong together. What is the first step in each journey? Which step comes next? Turn the cards over when you are done.  
   *Child mode:* Sort the cards into five journeys. Put each in order. Then check.
+  - Note: For a race, each player needs their own set. Print two to four sets, or take turns against a clock and compare times. Sorting alone with a parent: the parent keeps the answer sides turned away.
   - Check: In the Guinea worm journey, why must a copepod come between the pond and the person? → **The larvae must grow inside the copepod before they can infect a person**
 - **s3 (6 min)**  
   *Parent does:* Take the 10 cut cards. Read one at a time. Say which journey and which link it breaks. Turn it over to check.  
@@ -295,6 +296,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* Cut out the 12 clue cards and shuffle them. Choose a reader.  
   *Parent says:* Each card has three clues. Guess early to score more. Is it a parasite, a carrier, or a way of breaking a journey?  
   *Child mode:* Cut out the cards. Choose a reader. Guess after each clue.
+  - Note: Two to four players: take turns being the reader. One child with a parent: the parent is the reader first, then the child reads aloud, and the parent guesses.
 - **s2 (10 min)**  
   *Parent does:* Play the cards, one at a time. After each, read the answer and ask for the weak link.  
   *Parent says:* Read the first clue only. Who can guess? If not, read the next clue. After the answer, ask which link would break its journey.  
@@ -308,10 +310,10 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 
 ## Experiments
 ### e1 · The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod? (36 min)
-- **question:** A cloth over the pot held back the tiny water animals that carried the Guinea worm. Which cloth, and how many layers of it, catches pretend copepods, and how much slower does the water flow when the cloth is finer?
+- **question:** A cloth over the pot held back the tiny water animals that carried the Guinea worm. Which cloth, and how many layers of it, catches pretend copepods, and how much slower (in seconds) does the water flow when the cloth is finer?
 - **predict:** Before you start, guess. Which cloth, with how many layers, will catch all the pretend copepods? Which filter will let the water through the slowest? Why do you think so?
 - **fair test:** Every test uses the same amount of water, the same number of seeds, the same glass and the same slow pour. Only the filter changes. You use 10 mustard seeds as big pretend copepods and 10 khus khus seeds as small ones. You time how long 100 millilitres of water takes to pass, and you count the seeds that get through into the glass. If the water takes more than 3 minutes, you stop timing and write more than 3 minutes.
-- **safety:** Keep the seeds away from babies and small children, who may put them in their mouth or nose. Nothing in this test is eaten or drunk, so do not taste the water. Turmeric stains cloth and fingers yellow, so use an old cloth and wash your hands afterwards. Wipe up spilt water so nobody slips.
+- **safety:** Keep the seeds away from babies and small children, who may put them in their mouth or nose. Mustard and poppy seeds cause allergies in some people, so if anyone at home is allergic, use dry dal and rice grains instead, and wash hands after handling seeds. Nothing in this test is eaten or drunk, so do not taste the water. Food colour, ink and tea stain cloth and fingers, so use an old cloth, keep ink away from the mouth and eyes, and wash your hands afterwards. Wipe up spilt water so nobody slips.
 - **record:** Fill in the table. Then draw a bar for each filter, as tall as the number of seeds that got through. Mark the filter that you would choose for a village pot.
 - **results table:** Filter | Mustard seeds that got through (out of 10) | Khus khus seeds that got through (out of 10) | Seconds for 100 millilitres to pass
 - **s1 (3 min)**  
@@ -319,7 +321,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent says:* A copepod is about as big as a poppy seed. Mustard seeds are our big copepods, and khus khus are our small ones. Which filter will catch them all? Which will be the slowest? Why do you think so?  
   *Child mode:* Seeds stand in for copepods. Which cloth will catch them all? Which will be slowest? Why?
   - Ask: Why do you think that filter will catch the seeds? (good: Its gaps are smaller than the seeds.; It is thicker, so there is less room to get through.)
-  - Note: Do not correct any guess. A guess with a reason is a good start. If your child says the thicker cloth will be the slowest, ask why.
+  - Note: Do not correct any guess. A guess with a reason is a good start. If your child says the thicker cloth will be the slowest, ask why. One child with a parent: the parent pours and times, the child counts. Two to four children: share the jobs. One pours, one runs the clock, one counts seeds, one writes the table, and swap after each test. Everybody guesses first.
 - **s2 (6 min)**  
   *Parent does:* 1. Count out 6 piles of 10 mustard seeds and 6 piles of 10 khus khus seeds on a plate. 2. Fold the loose cloth into 4 layers and keep another square as 1 layer. 3. Fold the tight cotton into 4 layers, another into 2, and keep another square as 1. 4. Write the name of each filter on the table.  
   *Parent says:* You need six piles of seeds, one for each test. Folding a cloth in half makes two layers. Folding it in half again makes four layers.  
@@ -334,18 +336,19 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* Test 3 and Test 4. 1. Put the loose cloth in 4 layers over a clean, dry glass. 2. Stir in a new pile of each seed, pour slowly, time it and count. 3. Do the same with the tight cotton in 1 layer. 4. Write both results.  
   *Parent says:* Same pour, same seeds, same time. Only the cloth is different. Write what you see.  
   *Child mode:* Test the loose cloth in four layers. Then the tight cotton in one layer. Count and time.
+  - Note: Wet cloth tends to sag. If the khus khus stick in the cloth and few reach the glass, rinse them off the cloth with a little water into a bowl rather than counting them as through.
 - **s5 (6 min)**  
   *Parent does:* Test 5 and Test 6. 1. Put the tight cotton in 2 layers over a clean, dry glass. 2. Stir in a new pile of each seed, pour slowly, time it and count. 3. Do the same with the tight cotton in 4 layers. 4. Write both results.  
   *Parent says:* Now the tight cotton in two layers and in four layers. Do more layers catch more seeds? Do they make the water slower?  
   *Child mode:* Test the tight cotton in two layers. Then in four layers. Count and time.
-  - Note: Four layers of tight cotton may take over 3 minutes. If so, write more than 3 minutes and move on. If every test catches every seed, try a looser cloth or the finest rava in place of khus khus.
+  - Note: Four layers of tight cotton may take over 3 minutes. If so, write more than 3 minutes and move on. If every test catches every seed, try a looser cloth or the finest rava in place of khus khus. A time over 3 minutes is only written as more than 3 minutes. All times are your own: kitchen water, cloth and glass sizes change them, so compare the filters with each other, not with the made-up example. The seed counts in the example are also made up and typical, not promised.
   - Check: A filter with more layers catches more seeds but lets the water through more slowly. Why does a finer filter flow more slowly? → **The gaps are narrower and longer, so water has a harder path**
 - **s6 (3 min)**  
-  *Parent does:* Test 7, the turmeric test. 1. Stir half a teaspoon of turmeric into 100 millilitres of water. 2. Pour it slowly through the tight cotton in 4 layers. 3. Hold the glass of filtered water against a white sheet of paper. 4. Look at the colour.  
-  *Parent says:* Turmeric makes the water yellow. We pour it through our finest filter. Is the water that comes out clear, or still yellow?  
-  *Child mode:* Stir turmeric into water. Pour it through four layers. Is the water still yellow?
-  - Ask: What does the yellow water tell us about what a cloth cannot catch? (good: Very tiny things pass through the gaps.; A cloth cannot catch germs, because they are much smaller than the gaps.)
-  - Note: The water will usually still be yellow, even if a little paler. Turmeric colour is made of pieces much smaller than the gaps in cloth. Germs are smaller still, so the cloth would not catch them. This is why boiling is also needed.
+  *Parent does:* Test 7, the colour test. 1. Stir a few drops of food colour or ink into 100 millilitres of water. 2. Pour it slowly through your finest cloth that passes 100 millilitres in under 3 minutes. 3. Hold the filtered water against white paper, beside the coloured water you started with. 4. Compare the colours.  
+  *Parent says:* This water is coloured. We pour it through our finest usable filter. Is the water that comes out clear, or still coloured?  
+  *Child mode:* Stir colour into water. Pour it through your finest filter. Is the water still coloured?
+  - Ask: What does the yellow water tell us about what a cloth cannot catch? (good: Very tiny things, like the colour, pass through the gaps.; A cloth cannot catch germs, because they are much smaller than the gaps.)
+  - Note: The water will come out almost as coloured as it went in, because dissolved colour is made of pieces far smaller than the gaps in any cloth. (Tea leaves, if you use tea, are caught, but the brown colour passes.) Germs are also far smaller than the gaps, so a cloth cannot catch them. This is why boiling is also needed. Do not use turmeric powder here: part of it is lumps, and the cloth catches those, so the result is unclear.
 - **s7 (4 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they think, what they saw, and why. 3. Ask the question below.  
   *Parent says:* What do you think happened? What did you see that shows it? Why do you think it happened that way? Which filter would you choose for a village pot, and why?  
@@ -361,7 +364,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 - **question:** A female mosquito lays her eggs on or near still water. If we put out four pots of water, each covered in a different way, in which pots will wrigglers grow?
 - **predict:** Before you start, guess. Which pots will have wrigglers after five days, and which will have none? Why do you think so?
 - **fair test:** All four pots are the same size, hold the same amount of tap water, and stand side by side in the same shady place outside. Only the cover is different. Pot A has no cover. Pot B has a tight lid. Pot C has a fine net or thin cloth tied tight. Pot D has a few drops of cooking oil on the water. You count on the same day for all four.
-- **safety:** This test grows mosquito wrigglers on purpose, so it runs for only five days. A grown-up empties and scrubs every pot on day 5, and on day 6 at the latest, before any wriggler can turn into a mosquito. Never leave the pots out for a week or while the family is away. Pour the water and wrigglers down the toilet and flush. Place the pots where they cannot tip over or fall from a balcony. Wash hands after the count.
+- **safety:** This test grows mosquito wrigglers on purpose, so it runs for only five days. A grown-up empties and scrubs every pot on day 5, and on day 6 at the latest, before any wriggler can turn into a mosquito. Never leave the pots out for a week or while the family is away. Pour the water and wrigglers down the toilet and flush. Place the pots where they cannot tip over or fall from a balcony. Wash hands after the count. Bring the pots in if a sudden storm or strong wind is coming, and keep the oil away from the stove.
 - **record:** Fill in the table on day 1, day 3 and day 5. Then draw a bar for each pot, as tall as the number of wrigglers you counted.
 - **results table:** Pot and cover | My guess: wrigglers or none? | Day 3: what I saw | Day 5: wrigglers counted
 - **schedule:** day 1: Set up the four pots in a shady place outside. Write your guesses. (20 min); day 3: Look at each pot with a torch. Draw what you see. (10 min); day 5: Count the wrigglers in each pot, then empty and scrub every pot. (20 min)
@@ -370,11 +373,12 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent says:* A female mosquito needs still water for her eggs. We will put out four pots with four different covers. Which pots will have wrigglers? Which will have none? Why do you think so?  
   *Child mode:* Four pots, four covers. Which will grow wrigglers? Why do you think so?
   - Ask: Why do you think that pot will get wrigglers, or not? (good: The open pot lets mosquitoes in.; A lid stops mosquitoes landing on the water.; Oil makes it hard for wrigglers to breathe.)
-  - Note: Do not correct any guess. In dry or cold weather no mosquitoes may come at all. If no pot grows wrigglers, that is still a result. Write it down and try again in a warmer or wetter week.
+  - Note: Do not correct any guess. In dry or cold weather no mosquitoes may come at all. If no pot grows wrigglers, that is still a result. Write it down and try again in a warmer or wetter week. Wrigglers usually show by day 3 to 5 in warm, damp weather, and most easily on a ground floor, a low balcony or near plants. On a high floor, or in cold, dry or very windy weather, nothing may come. Then say so honestly: the lid and net pots are still fair, but without a result in the open pot you cannot compare, so repeat in a warmer or wetter week. Counts in the example are made up, so your numbers will differ.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Label four pots A, B, C and D with tape. 2. Pour the same amount of tap water into each. 3. Leave Pot A open. 4. Cover Pot B with a tight lid. 5. Tie a net or cloth tightly over Pot C. 6. Put a few drops of cooking oil on the water in Pot D. 7. Put the pots in a shady place outside. 8. Write the start day.  
   *Parent says:* The pots are the same. Only the covers are different. Put them side by side in the shade. Write today's date. We will look again on day 3 and day 5.  
   *Child mode:* Label four pots. Pour the same water into each. Cover them in four ways.
+  - Note: One child with a parent: the child does the labels and pouring, the parent carries the pots outside. Two to four children: each child looks after one pot (labels, guess, day 3 drawing, day 5 count), and all four compare at the end.
   - Check: Why are all four pots the same size, with the same water, in the same place? → **So that the cover is the only thing that is different**
 - **s3 (10 min)**  
   *Parent does:* On day 3, look at each pot with a torch. Look at the surface and the walls just above the water. Draw what you see in each pot. Do not move the covers more than you need.  
@@ -386,7 +390,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* On day 5, count the wrigglers in each pot. 1. Pour the water in one pot slowly on to a white plate. 2. Count the wrigglers that move. 3. Write the number in the table. 4. Do the same for the other pots. 5. Look for any pupae, which are tumblers.  
   *Parent says:* Pour slowly on to the white plate. The wrigglers show up dark against the plate. Count the ones that move. Do all four pots, one at a time.  
   *Child mode:* Pour each pot slowly on to a white plate. Count the wrigglers. Write the number.
-  - Note: If a pot has too many wrigglers to count, write more than 20. If a lid stopped mosquitoes landing, the lid pot will be empty. If oil was put on the water, some wrigglers may be dead or struggling. Write what you see.
+  - Note: If a pot has too many wrigglers to count, write more than 20. Also mark the water line with tape on day 1 and on day 5, to see if any water was lost. If a lid stopped mosquitoes landing, the lid pot will be empty. If oil was put on the water, some wrigglers may be dead or struggling. Write what you see.
   - Check: The covered pot with a tight lid had no wrigglers, and the open pot had many. What does this show? → **A mosquito could not lay eggs on water she could not reach**
   - Wait: Day 5: count the wrigglers.
 - **s5 (5 min)**  
@@ -402,9 +406,9 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 
 ## Activities
 ### a1 · Wind a Worm: how long does a Guinea worm take to come out? (15 min)
-- **record:** A sentence saying how many days it would take to wind the whole worm, and a drawing of the string wound round the stick.
+- **record:** A small table of days for different lengths and speeds, a sentence saying how many days it would take to wind the whole worm, and a drawing of the string wound round the stick.
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut an 80 centimetre piece of string. 2. Ask your child to guess how many days it would take to wind the whole string. Each day, only 2 centimetres are wound on.  
+  *Parent does:* 1. Cut an 80 centimetre piece of string. 2. Ask your child to guess how many days it would take to wind the whole string. Each day, only 2 centimetres are wound on. Write your guess.  
   *Parent says:* A Guinea worm can be as long as your arm, and it was drawn out a little each day. Today we pretend each day gives 2 centimetres. How many days do you think the whole worm would take? Why do you think so?  
   *Child mode:* A pretend worm, 80 centimetres long. Each day you may wind 2 centimetres. Guess how many days.
 - **s2 (6 min)**  
@@ -414,10 +418,11 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   - Note: In real life the worm was wound a little at a time, because if it broke, the rest would stay in the body and cause swelling and infection. A day's winding was usually a few centimetres.
   - Check: Why was the worm wound out only a little at a time, and never pulled? → **If it broke, the rest would stay in the body and cause pain and swelling**
 - **s3 (6 min)**  
-  *Parent does:* 1. Work out how many days the whole string would take. 2. Write the answer. 3. Talk about the question below.  
+  *Parent does:* 1. Work out how many days the whole string would take. 2. Write the answer. 3. Try a 60 centimetre worm and a 100 centimetre worm, at 2 and at 3 centimetres a day. 4. Fill a small table. 5. Talk about the question below.  
   *Parent says:* 80 centimetres, 2 centimetres a day. How many days? Was your guess close? A Guinea worm larva is about half a millimetre long. How many times longer than the larva is the adult?  
   *Child mode:* 80 divided by 2. How many days? Was your guess close?
   - Ask: A larva is about half a millimetre. How many times longer is a worm of 80 centimetres? (good: 1,600 times longer. 80 centimetres is 800 millimetres, and 800 divided by one half is 1,600.)
+  - Note: Real worms are about 60 to 100 centimetres long, and often take weeks to come out. Answers: 80 centimetres takes 40 days at 2 centimetres a day. 60 takes 30 or 20 days, 100 takes 50 or about 34 days. With two to four children, each child winds a worm of a different length and the group compares days. With one child, the parent picks the second length.
   - Think: One life, from a speck to an arm's length. Which one is the Guinea worm?
 ### a2 · Fever Chart Detective: which chart looks like malaria? (20 min)
 - **record:** Three line graphs on one sheet, with a note on the one that has waves.
@@ -425,6 +430,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* 1. Draw three sets of axes with the days along the bottom and the temperature up the side. 2. Ask your child to guess what a malaria chart would look like.  
   *Parent says:* A malaria parasite bursts out of red blood cells all at the same time, about every two days. What shape do you think the fever chart will make? Why do you think so?  
   *Child mode:* Draw three graphs. Guess what a malaria chart looks like.
+  - Note: Alone: draw all three patients. In a group: one patient each, then swap and compare. Squared paper is not needed; mark a ruler line for each degree.
 - **s2 (10 min)**  
   *Parent does:* Draw each patient's line. Patient A, evening readings from Monday to Friday: 38.5, 38.8, 38.2, 37.4, 36.8. Patient B, evening readings from Monday to Saturday: 39.8, 37.0, 39.9, 37.1, 40.0, 37.2. Patient C, evening readings from Monday to Friday: 37.8, 38.4, 38.9, 39.4, 39.8.  
   *Parent says:* Mark each reading with a dot. Join the dots with a line. Do it for all three patients. What shape does each make?  
@@ -436,9 +442,10 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent says:* Which chart has waves? Why do you think a fever would go up and down in waves? What happens inside the blood every two days?  
   *Child mode:* Which chart has waves? Why would the fever come in waves?
   - Ask: Why does the fever of malaria come in waves? (good: The parasites burst out of the red blood cells at about the same time, every two days.; Each new crowd of parasites gives another fever.)
+  - Ask: How many days apart are the peaks in Patient B, and what would Patient B temperature be on Sunday? (good: Two days apart. About 40 degrees, a peak, because the pattern repeats.)
   - Think: Doctors use patterns as clues, but a blood test tells which parasite it is. Why is a test better than a pattern?
 ### a3 · The Odds Gates: how many eggs does it take to make one adult? (25 min)
-- **safety:** Keep the beans away from babies and small children, who may put them in their mouth or nose.
+- **safety:** Keep the beans away from babies and small children, who may put them in their mouth or nose. If anyone has a food allergy, use stones or paper scraps.
 - **record:** A table with four rows, one for each gate, and the number of eggs that got in and got through, for both runs.
 - **s1 (4 min)**  
   *Parent does:* 1. Count out 36 beans. 2. Put the four plates in a row. 3. Ask your child to guess how many beans will get through all four gates.  
@@ -448,13 +455,13 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* 1. At Gate 1, roll the die once for each bean. A roll of 3, 4, 5 or 6 lets the bean through. A roll of 1 or 2 puts it in the lost heap. 2. At Gate 2, a roll of 4, 5 or 6 lets it through. 3. At Gate 3, a roll of 5 or 6. 4. At Gate 4, a roll of 4, 5 or 6. 5. Write the beans in and the beans through at each gate.  
   *Parent says:* Roll for every bean, one at a time. Each gate has its own rule. Write down how many beans go in and how many come out. How many reach the end?  
   *Child mode:* Roll for each bean at each gate. Pass or lose. Write the numbers.
-  - Note: On average, about 24 beans pass Gate 1, about 12 pass Gate 2, about 4 pass Gate 3, and about 2 pass Gate 4. Dice give different numbers each time, and zero or three are both possible. That is chance at work.
+  - Note: On average, about 24 beans pass Gate 1, about 12 pass Gate 2, about 4 pass Gate 3, and about 2 pass Gate 4. Dice give different numbers each time, and zero or three are both possible. That is chance at work. Rolling about 75 times takes time. With two to four children, split the beans: each child sends 9 or 12 beans through the gates, then add up all your counts. One child with a parent: take turns rolling. Run the plain run twice if you want to see how chance changes the answer.
   - Check: Two thirds of the eggs pass Gate 1, half pass Gate 2, one third pass Gate 3, and half pass Gate 4. Why do so few reach the end? → **Each gate removes a share, and the shares multiply**
 - **s3 (7 min)**  
   *Parent does:* Now play the snail run. Put 36 beans through again. At Gate 3, every bean that passes is replaced by 3 beans. The young parasite makes copies of herself inside a snail. The 3 copies go on to Gate 4. Write the new table.  
   *Parent says:* Some parasites, like the liver fluke, make copies of themselves inside a snail. At Gate 3, each bean that passes becomes three beans. How many reach the end now?  
   *Child mode:* Play again. At Gate 3, every bean that passes becomes three. How many reach the end now?
-  - Note: On average the snail run ends with about 6 beans instead of 2. Making copies in the middle of a journey makes up for the odds at the early gates.
+  - Note: On average the snail run ends with about 6 beans instead of 2. Making copies in the middle of a journey makes up for the odds at the early gates. Roll for the bean stack at Gate 3 together to save time. If you run short on beans, use coins or paper scraps.
 - **s4 (4 min)**  
   *Parent does:* Compare the two runs. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* How many came through in the plain run? How many in the snail run? Why can a parasite that lays thousands of eggs and one that makes copies in a snail both do well?  
@@ -462,7 +469,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   - Ask: Why does a parasite lay so many eggs? (good: Most of them are lost at one gate or another, so she needs a great many to get one through.; The chances at each gate multiply, so the odds at the end are small.)
   - Think: If you could remove just one gate for a parasite, which one would you pick, and who would it help?
 ### a4 · Make a Life-Cycle Wheel (25 min)
-- **safety:** A grown-up cuts the window in the top plate with scissors and pushes the pin through, because scissors and pins are sharp.
+- **safety:** A grown-up cuts the window in the top plate with scissors and pushes the pin through, because scissors and pins are sharp. Use a pencil pushed into a lump of clay for young children, so no pin point is exposed. Keep pins away from babies and small children.
 - **record:** The finished wheel, and a sentence saying which stages happen in which host.
 - **s1 (4 min)**  
   *Parent does:* 1. Choose one journey, such as the Guinea worm, filaria or malaria. 2. Look at the five steps of that journey in the cards. 3. Decide what to draw in each step.  
@@ -472,6 +479,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* 1. Divide one plate into five equal segments. 2. Draw one stage in each segment, in order, with a number. 3. Under each drawing, write the host it happens in: person, copepod, mosquito or snail.  
   *Parent says:* Draw the stages in order, round the plate. Write which host each stage is in.  
   *Child mode:* Draw five stages round the plate. Write the number and the host under each.
+  - Note: Two to four children: each picks a different journey and makes a wheel, then swaps wheels to guess the stage in the window. One child with a parent: the parent plays the guesser. One more paper plate is cheap at a kirana or stationery shop. Thick card cut into circles works too.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a wedge-shaped window in the second plate, as big as one segment. 2. Pin the second plate on top of the first at the centre. 3. Turn the top plate to show each stage in turn.  
   *Parent says:* The window shows one stage at a time. Turn it slowly. Say what happens at each stage, and which host it is in.  
@@ -489,10 +497,10 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent says:* Our drinking water goes through something before we drink it. What do you think it holds back? Copepods, germs, or both? Why do you think so?  
   *Child mode:* How does our family clean drinking water? Guess what it holds back.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Read the label or the manual with a grown-up. 2. Write each part of the filter and what it does. 3. Use the guide in the parent note to check.  
+  *Parent does:* 1. Read the label or the manual with a grown-up. 2. Write each part of the filter and what it does. 3. Use the guide in the parent note to check. 4. Time how long it takes to fill one glass. 5. Find out when it was last cleaned or changed.  
   *Parent says:* Read what each stage does. Which parts hold back big things like sand and copepods? Which parts deal with germs? Which does neither?  
   *Child mode:* Read the label. Write what each part does.
-  - Note: A cloth or a mesh holds back large things such as copepods and grit. A ceramic candle has far smaller gaps and holds back many bacteria and cysts. A UV purifier damages the genes of germs, but needs clear water to work. An RO purifier forces water through a very fine membrane and removes many germs and dissolved salts. Boiling kills germs and parasites. None of these works well unless it is kept clean and the filter is changed on time.
+  - Note: A cloth or a mesh holds back large things such as copepods and grit. A ceramic candle has far smaller gaps and holds back many bacteria and cysts. A UV purifier damages the genes of germs, but needs clear water to work. An RO purifier forces water through a very fine membrane and removes many germs and dissolved salts. Boiling kills germs and parasites. None of these works well unless it is kept clean and the filter is changed on time. Siblings can each take one water source (kitchen tap, tank, matka, bottled can). No filter at home: look at a neighbour, a school or a shop, or read about one.
   - Check: A family uses only a cloth over their pot. Which of these will it NOT remove? → **Bacteria that cause typhoid**
 - **s3 (4 min)**  
   *Parent does:* Talk about whether the family's way of cleaning water breaks the journeys in this unit.  
@@ -509,6 +517,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent says:* A comic is a good way to show a journey. Which parasite will you pick? What will be in each panel? Which panel shows the cut?  
   *Child mode:* Pick one journey. Plan twelve panels. Mark the panel where you cut it.
   - Ask: Why does a comic help someone understand a life cycle? (good: It shows the stages in order, one at a time.; You can see where each stage happens, in which host.)
+  - Note: One child with a parent: the parent helps with the plan and the listener question. Two to four children: each makes a comic of a different journey, or share one comic with 3 panels each. Use only pens and paper.
 - **s2 (20 min)**  
   *Parent does:* 1. Draw and colour the twelve panels. 2. Write a few words in each. 3. Read the comic to someone. 4. Ask them where they would cut the journey, and why.  
   *Parent says:* Draw your comic neatly, with a few words in each panel. When you read it aloud, ask your listener where they would cut the journey. Do they choose the same place as you?  
@@ -518,9 +527,9 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 ## Challenges
 ### c1 · The Village Pot Filter (35 min)
 - **problem:** Design a filter for a clay pot or a bucket that holds back pretend copepods, lets one litre of water through in under five minutes, and can be washed and used again.
-- **safety:** A grown-up cuts any plastic bottle and covers the sharp edges with tape. Keep the seeds away from babies and small children. Wipe up spilt water so nobody slips, and wash the cloths and your hands afterwards.
+- **safety:** A grown-up cuts any plastic bottle and covers the sharp edges with tape. Keep the seeds away from babies and small children. Mustard and poppy seeds cause allergies in some people, so if anyone at home is allergic, use dry dal and rice grains instead. Wipe up spilt water so nobody slips, and wash the cloths and your hands afterwards.
 - **your turn:** Sketch your design. Build it and test it with seeds and one litre of water. Write how many seeds got through and how many seconds it took. Change one thing, such as the number of layers, and test again. Which design was best, and what did you trade away?
-- **constraints:** Use only things from home, such as old cotton cloth, a tea strainer, a net bag, string, rubber bands and a bowl.; The filter must hold back all 10 khus khus seeds and all 10 mustard seeds.; One litre of water must pass in under five minutes.; A grown-up cuts any plastic bottle, and the edges are covered with tape.
+- **constraints:** Use only things from home, such as old cotton cloth, a tea strainer, a net bag, string, rubber bands and a bowl.; The filter must hold back all 10 khus khus seeds and all 10 mustard seeds.; One litre of water must pass in under five minutes. If your tightest cloth is too slow, test a wider area, or use a longer limit such as ten minutes and say so.; A grown-up cuts any plastic bottle, and the edges are covered with tape.
 - **general:** Two layers of tight cotton tied over the mouth of the pot with string.; A tea strainer lined with one layer of tight cotton.; A cloth bag hung inside the mouth of the pot, so the water filters through the sides and base.
 - **creative:** A coarse net on top to hold back leaves and big grit, and a fine cloth below to catch the small copepods, so the fine cloth does not clog.; A cloth stretched over a wide ring, so that it has more area and the water passes more quickly.; A funnel made from a cut plastic bottle with a cloth in the neck, to pour from a jug without spilling.
 - **s1 (5 min)**  
@@ -532,7 +541,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* Build your first design. Count out 10 mustard seeds and 10 khus khus seeds. Stir them into a litre of water. Pour the water slowly through the filter into the pot. Time how long it takes.  
   *Parent says:* Build your first filter. Pour one litre through, slowly. Start the clock as you begin and stop it at the last drip. How long did it take?  
   *Child mode:* Build your filter. Pour a litre of water with seeds through it. Time it.
-  - Note: Tie the cloth tightly so that it does not slip into the pot. A funnel or a wide strainer holds a litre better than a cloth alone. If water is very slow, add a bigger area of cloth.
+  - Note: Tie the cloth tightly so that it does not slip into the pot. A funnel or a wide strainer holds a litre better than a cloth alone. If water is very slow, add a bigger area of cloth. Water flow depends on the area of cloth, so use the whole mouth of a pot or a steel vessel, not a small glass, or a litre will take much longer than five minutes. Pour in portions of 250 millilitres if the cloth overflows. Pour out all the filtered water on a plate to count the seeds; they sink to the bottom. One child with a parent: the child designs, the parent pours and times. Two to four children: each team builds one design and tests it, then compare.
 - **s3 (10 min)**  
   *Parent does:* Pour the water in the pot on to a steel plate and count the seeds that got through. Write the number of seeds and the time.  
   *Parent says:* Pour the water on to a plate. How many seeds got through? Did the filter meet both rules, no seeds through and under five minutes?  
@@ -544,8 +553,9 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Child mode:* What would you change? What did you trade away?
 ### c2 · The Foot-Soaking Station (30 min)
 - **problem:** A person with a painful blister wants to cool a foot in water. Design a station near a village well where the person can soak a foot, so that none of the water from the foot flows back into the well.
+- **safety:** Turmeric stains clothes, fingers and trays yellow, so use an old tray and wash your hands. Wipe up spilt water so nobody slips. Use a plastic or steel tray, not a good dish. Nothing in this model is drunk.
 - **your turn:** Build your model on the tray. Pour the cup of yellow water at the station. Watch where it goes. Change one thing, such as the slope or the channel, and test again. Which design kept the yellow water out of the well?
-- **constraints:** Use a model made on a large tray with sand or soil, a small katori for the well and a small bowl for the station.; The station must be higher than the well, or the water must be able to run away from it.; Test with one cup of water coloured with turmeric. None of the yellow water may reach the well.; The station must be easy for a person with a sore foot to use.
+- **constraints:** Use a model made on a large tray with sand or soil, a small katori for the well and a small bowl for the station.; The station must be higher than the well, or the water must be able to run away from it.; Test with one cup of water coloured with turmeric. Measure the yellow water that reaches the well katori with a teaspoon or by the level: the goal is none.; The station must be easy for a person with a sore foot to use.
 - **general:** Put the station on a slope that runs down away from the well.; Dig a channel from the station to a pit far from the well, so the water soaks into the ground.; Raise the well with a low wall, so water cannot run into it.
 - **creative:** A bucket on a raised platform, so the foot is cooled by pouring water over it and not by soaking.; A cloth-lined drain pit filled with gravel, where the foot water soaks away.; A station set up in a different part of the village, with a seat and a place to rest the leg.
 - **s1 (5 min)**  
@@ -556,7 +566,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   *Parent does:* Build the model on the tray. Shape the sand into a slope, sink the katori for the well, and put the bowl for the station. Pour the cup of yellow water into the station bowl and watch where it flows.  
   *Parent says:* Build the village. Pour the yellow water at the station. Does any reach the well? Where does it go?  
   *Child mode:* Build the model. Pour yellow water at the station. Watch where it goes.
-  - Note: Press the sand firmly so that water does not simply sink in. If all the yellow water sinks into the sand and none runs, that is also a result. Test a steeper slope.
+  - Note: Press the sand firmly so that water does not simply sink in. If all the yellow water sinks into the sand and none runs, that is also a result. Test a steeper slope. One child with a parent: the child builds, the parent pours the cup. Two to four children: each builds one design, then pour the same cup into each and compare how much yellow reaches the well. Sand that is very dry drinks up the water, so dampen it a little.
 - **s3 (5 min)**  
   *Parent does:* Change one thing, such as the slope or the channel. Pour a new cup of yellow water. Watch again.  
   *Parent says:* Change just one thing. Pour again. Did it help? Why?  
@@ -570,7 +580,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 ## Worksheets
 ### Life Cycles and Parasites (core) (core, 17 questions)
 1. (mcq) What is an intermediate host?  
-   Options: A host where a young stage of a parasite grows, but where the parasite does not become an adult / The host where the parasite becomes an adult and lays eggs / A carrier that moves the parasite and does not itself get ill  
+   Options: A host where a young stage of a parasite grows, but where the parasite does not become an adult / The host where the parasite becomes an adult and lays eggs / A carrier that moves the parasite and does not get ill herself  
    **Answer:** A host where a young stage of a parasite grows, but where the parasite does not become an adult. *Why:* The final host is where the adult lives and makes eggs, and a vector carries a parasite from one host to the next. An intermediate host is where a young stage grows.
 2. (sort) Sort each stage by the host it lives in.  
    **Answer:** an adult Guinea worm under the skin of a foot → In a person; a young Guinea worm growing for two weeks → In a copepod; baby filaria worms growing and moving to the mouthparts → In a mosquito; a young liver fluke making hundreds of copies → In a snail; baby filaria worms swimming in the blood at night → In a person; malaria parasites growing in the stomach → In a mosquito. *Why:* A parasite spends different stages in different hosts. The adult Guinea worm and the baby filaria worms live in people, while their young stages grow in a copepod or a mosquito, and the young fluke multiplies in a snail.
@@ -590,7 +600,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 9. (write) A village begins to filter its water this month. Why might new blisters still appear for another year?  
    **Answer:** A strong answer says that the Guinea worm takes about a year to grow inside a person. People who drank unfiltered water before the filters began may still show blisters, so the effect takes a year to show.. *Why:* A long gap between cause and effect makes it hard to tell quickly whether a change has worked, which is why scientists wait and count.
 10. (mcq) Which of these is a vector?  
-   Options: A mosquito that carries the malaria parasite from one person to another / The person who has malaria / The malaria parasite itself  
+   Options: A mosquito that carries the malaria parasite from one person to another / The person who has malaria / The malaria parasite herself  
    **Answer:** A mosquito that carries the malaria parasite from one person to another. *Why:* A vector carries a parasite or a germ between hosts. The mosquito does this for malaria, while the person and the parasite are the host and the parasite.
 11. (fill) The fever of malaria comes in waves because the parasites burst out of red blood cells at about the ________ time.  
    **Answer:** ['same']. *Why:* When many red cells burst together, a new crowd of parasites is released at once, and the body reacts with fever. The next burst brings the next wave.
@@ -614,7 +624,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
    **Answer:** 1,000. *Why:* 10 times 10 times 10 is 1,000. The chances at each stage multiply, so the odds of finishing all three are 1 in 1,000.
 2. (write) A child pours seeds through a cloth. All the mustard seeds stay on the cloth, but some khus khus seeds get through. What does this tell you about the gaps in the cloth?  
    **Answer:** The gaps are bigger than a khus khus seed and smaller than a mustard seed. A filter lets through things smaller than its gaps and holds back things bigger than its gaps.. *Why:* A filter is a size gate. Comparing which seeds pass and which do not gives the size of the gaps.
-3. (mcq) Two layers of tight cotton caught all the seeds and took 100 seconds for 100 millilitres. Four layers caught all the seeds and took 180 seconds. For a village that must filter a lot of water, which is the better choice?  
+3. (mcq) Two layers of tight cotton caught all the seeds and took 100 seconds for 100 millilitres. Four layers caught all the seeds and took more than 180 seconds. For a village that must filter a lot of water, which is the better choice?  
    Options: Two layers, because it protects just as well and is faster / Four layers, because more layers are always better / Neither, because cloth cannot filter  
    **Answer:** Two layers, because it protects just as well and is faster. *Why:* Both caught every seed, so the protection was the same. The two-layer filter was faster. More layers cost time and added no protection in this test.
 4. (truefalse) The young Guinea worms swim from the water straight into a person's skin.  
@@ -640,7 +650,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
    **Answer:** The bite of the mosquito. *Why:* A net stops the mosquito reaching the skin, so no parasite is picked up and none is passed on.
 13. (write) A liver fluke makes hundreds of copies of herself inside a snail. How does that help the parasite, even though most eggs are lost?  
    **Answer:** It makes up for the odds. One egg that reaches a snail becomes hundreds of young flukes, so many more have a chance of reaching a cow.. *Why:* A step that multiplies the parasite in the middle of the journey balances the steps that lose most of them.
-14. (truefalse) A parasite that kills its host quickly is the most successful kind.  
+14. (truefalse) A parasite that kills her host quickly is the most successful kind.  
    **Answer:** False. *Why:* False. A parasite that kills her host too quickly dies with the host, unless she has already passed on. Many parasites do best when the host lives long enough to spread them.
 15. (draw) Draw a circle of arrows showing how a person with a Guinea worm blister can infect other people through a village well. Then mark two places where you would cut it.  
    **Answer:** A circle of arrows: foot, water, copepod, mouth, person, with two marks, such as a cloth on the pot and a sore foot kept out of the well.. *Why:* Cutting the circle in two places is safer, because a parasite that gets past one cut can still be stopped at the next.
@@ -677,7 +687,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
    Options: Grown young worms were found in the mosquito's mouthparts, ready to enter the skin at a bite / Mosquitoes were found near water / People were found with swollen legs  
    **Answer:** Grown young worms were found in the mosquito's mouthparts, ready to enter the skin at a bite. *Why:* Young worms sitting in the mouthparts show that the bite is the route. Mosquitoes near water and swollen legs fit both ideas, so they could not decide between them.
 12. (write) The Culex mosquito who carries the filaria worm bites mostly at night, and the baby worms are mostly in the blood at night. Why does this match help the parasite?  
-   **Answer:** The baby worms are in the blood when the mosquito is feeding, so she picks up many of them. If they were in the blood in the day, she would pick up few.. *Why:* A parasite's timing is part of its journey. Being in the right place at the right time makes the cycle more likely to finish.
+   **Answer:** The baby worms are in the blood when the mosquito is feeding, so she picks up many of them. If they were in the blood in the day, she would pick up few.. *Why:* A parasite's timing is part of her journey. Being in the right place at the right time makes the cycle more likely to finish.
 13. (fill) Giving everyone in a district at risk the same medicine on the same days is called mass drug ________.  
    **Answer:** ['administration']. *Why:* Mass drug administration clears a parasite from the whole community, so the cycle cannot restart.
 14. (mcq) A liver fluke lives in the cows of a village. Why might treating the cows also protect the people?  

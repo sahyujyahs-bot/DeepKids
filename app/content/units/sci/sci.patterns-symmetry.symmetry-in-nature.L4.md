@@ -75,7 +75,7 @@ Many molecules come in a left-handed and a right-handed form, like gloves. Chemi
 - e.g. Two forms of the same molecule can smell different. One form of a molecule called carvone smells of spearmint and the other of caraway.
 - **Chance:** Early on, a tiny random excess of one hand in some place got copied and grew until life used only that hand. It could just as easily have been the other.
 - **A bias from physics:** Chien-Shiung Wu showed that one force inside atoms treats left and right differently. A few scientists think this nudged molecules a very little towards one hand. The effect is very small and not shown to be enough.
-- **A bias from space:** Some meteorites, such as the one that fell near Murchison in Australia in 1969, hold amino acids with a slight excess of the left-handed form. The idea is that such rocks seeded the young Earth. Whether this is the cause is not known.
+- **A bias from space:** Some meteorites, such as the one that fell near Murchison in Australia in 1969, hold amino acids, some of them reported with a slight excess of the left-handed form. The idea is that such rocks seeded the young Earth. Whether this is the cause is not known.
 ### Symmetry breaking: an even start, a lopsided end · *defined*
 **Definition:** Symmetry breaking happens when a system that is perfectly even at the start ends up lopsided, and a tiny difference decides which way it goes.
 
@@ -110,7 +110,7 @@ A grain of salt is a tiny cube because its particles stack in a cubic pattern th
 ### Patterns that never repeat: quasicrystals · *defined*
 **Definition:** A quasicrystal is an orderly solid whose pattern of particles never exactly repeats, even though it has a regular, five-fold or ten-fold symmetry.
 
-A pattern that repeats by sliding, such as wallpaper, can only have 2-fold, 3-fold, 4-fold or 6-fold symmetry. A five-fold pattern cannot fill a floor with repeating tiles. Pentagons leave gaps. In 1982, Dan Shechtman, a scientist in the United States, saw a five-fold pattern in a diffraction picture of a metal mixture. Most crystal scientists said it was impossible. The famous chemist Linus Pauling is reported to have said there were no quasicrystals, only quasi-scientists. Shechtman was asked to leave his research group. But the evidence held. In 2011 he won the Nobel Prize in Chemistry. The mathematician Roger Penrose had already drawn floor patterns with five-fold symmetry that never repeat, in the 1970s. Natural quasicrystals have since been found in a meteorite. Some medieval tilings in West Asia, such as those on a shrine in Isfahan, look like Penrose patterns.
+A pattern that repeats by sliding, such as wallpaper, can only have 2-fold, 3-fold, 4-fold or 6-fold symmetry. A five-fold pattern cannot fill a floor with repeating tiles. Pentagons leave gaps. In 1982, Dan Shechtman, a scientist in the United States, saw a five-fold pattern in a diffraction picture of a metal mixture. Most crystal scientists said it was impossible. The famous chemist Linus Pauling is reported to have said there were no quasicrystals, only quasi-scientists. Shechtman says he was asked to leave his research group. But the evidence held. In 2011 he won the Nobel Prize in Chemistry. The mathematician Roger Penrose had already drawn floor patterns with five-fold symmetry that never repeat, in the 1970s. Natural quasicrystals have since been found in a meteorite. Some medieval tilings in West Asia, such as those on a shrine in Isfahan, look like Penrose patterns.
 - e.g. Penrose tiling: two shapes of tile make a never-repeating floor.
 - e.g. A metal mixture of aluminium and manganese in which Shechtman saw a five-fold pattern.
 - e.g. Girih tilings on old buildings in Iran and Central Asia, which some scientists say come close to quasicrystal patterns.
@@ -163,7 +163,7 @@ We have counted the moves that leave a shape unchanged, and we have seen that an
 
 **Deep truth.** You pushed a straight strip equally from both ends. It still bent to one side. A tiny hidden curve in the strip chose which side. A small difference can turn an even start into a lopsided end.  
 *Habit it breaks:* We think a lopsided result must have come from a lopsided cause of about the same size, so we hunt for the big thing that tipped it. In the strip test the push was even, and the tipping came from a difference too small to see.  
-*Evidence:* In the strip test, the push at both ends was equal. A flattened strip mostly bent the same way, and a strip curled by a coin's thickness bent that way every time. When the strip was turned over, the bend turned over with it. If your own results differ, write them down as they are.
+*Evidence:* In the strip test, the push at both ends is equal. Card strips like this usually bend mostly one way when flattened, and a strip curled by a coin's thickness usually bends its curled way almost every time. If the strip is turned over, the bend should turn over with it. Only your own tally counts, so write your results down as they are.
 
 - *who am i:* You began as a ball of cells that looked almost the same on every side. Now your heart is on the left, and scientists think tiny spinning hairs in the early embryo started that difference.
 - *what is life:* The proteins in every living being are built from left-handed amino acids, and the DNA helix winds to the right. Life uses one hand, and nobody knows why.
@@ -253,11 +253,11 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 
 ## Games
 ### g1 · Fit-Back Guess: how many ways does it fit? (20 min)
-- **rules:** Cut out the 24 cards and put them in a pile with the shape side up. Every player cuts out their own set of ten number tokens.; One player is the reader. The reader takes the top card and shows only the front. If a shape is hard to imagine, draw it quickly on scrap paper.; Every other player chooses one number token and puts it face down. Think about turns first, and then flips.; Everyone turns their tokens over together. Then the reader reads the back of the card aloud.; A player with the exact number scores 2 points. A player whose token is the next one along in the row of tokens scores 1 point.; The reader passes the cards to the next player to be the reader. Play until all 24 cards are used, or for 15 minutes.; The player with the most points wins. A tie is a shared win.; Playing alone: be the reader and the player. Choose your token, turn the card, and score yourself. Try to beat your own score next time.
+- **rules:** Cut out the 24 cards (a parent can do this in advance) and put them in a pile, shape side up, in the printed order for your first game. Every player gets ten number tokens: cut the printed ones, or just write 1, 2, 3, 4, 6, 8, 10, 12, 16 and Endless on ten small paper slips. Two to four players is best.; One player is the reader. The reader takes the top card and shows only the front. If a shape is hard to imagine, draw it quickly on scrap paper.; Every other player chooses one number token and puts it face down. Think about turns first, and then flips.; Everyone turns their tokens over together. Then the reader reads the back of the card aloud.; A player with the exact number scores 2 points. A player whose token is the next one along in the row of tokens scores 1 point.; The reader passes the cards to the next player to be the reader. Play until all 24 cards are used, or for 15 minutes.; The player with the most points wins. A tie is a shared win.; Playing alone: be the reader and the player. Choose your token, turn the card, and score yourself. Try to beat your own score next time.
 - **Printable cards: 24 two-sided cards: a shape on the front, and the number of ways it fits back, with the reason, on the back:** A triangle with three equal sides. (back: 6. Three turns (counting no turn) and three flips.); A square. (back: 8. Four turns and four flips.); A rectangle that is not a square, such as a playing card. (back: 4. No turn, a half turn, and two flips. A quarter turn does not fit.); A regular pentagon, with five equal sides. (back: 10. Five turns and five flips.); A regular hexagon, like one cell of a honeycomb. (back: 12. Six turns and six flips.); A triangle with three sides of different lengths. (back: 1. Only the do-nothing move. No turn and no flip fits.); A triangle with two equal sides, but not three, like a Christmas tree outline. (back: 2. The do-nothing move and one flip down the middle.); A diamond shape with four equal sides that is not a square. (back: 4. No turn, a half turn, and two flips along the long and short lines.); A slanted rectangle, called a parallelogram, with no right angles and unequal neighbouring sides. (back: 2. The do-nothing move and a half turn. It has no flip that fits.); A kite shape, with two pairs of equal sides next to each other. (back: 2. The do-nothing move and one flip down the long middle.); A circle, such as a katori lid. (back: Endless. Every turn fits, and every flip over a line through the centre fits.); A regular octagon, like a stop sign. (back: 16. Eight turns and eight flips.); A plus sign with four equal arms. (back: 8. Four turns and four flips.); The capital letter H in plain, even lettering. (back: 4. No turn, a half turn, a flip down the middle and a flip across the middle.); The capital letter A in plain, even lettering. (back: 2. The do-nothing move and a flip down the middle.); The capital letter F. (back: 1. Only the do-nothing move. Its mirror twin is a different letter.); The capital letter S. (back: 2. The do-nothing move and a half turn. It has no flip that fits.); A long oval, like a rugby ball seen from the side. (back: 4. No turn, a half turn and two flips.); A five-petalled periwinkle flower with all petals alike. (back: 10. Five turns and five flips.); A three-bladed ceiling fan with its blades all twisted the same way. (back: 3. Three turns and no flip. A flip would make the blades twist the other way.); A four-bladed pinwheel with its blades all bent the same way round. (back: 4. Four turns and no flip. A flip would bend the blades the other way.); A regular five-pointed star. (back: 10. Five turns and five flips.); An ideal six-armed snowflake with six matching arms. (back: 12. Six turns and six flips.); The outline of your right hand with the fingers spread. (back: 1. Only the do-nothing move. A flip would make a left hand.)
 - **Printable tokens: 10 number tokens for each player: 1, 2, 3, 4, 6, 8, 10, 12, 16 and Endless:** 1; 2; 3; 4; 6; 8; 10; 12; 16; Endless
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 24 cards and the tokens. Give each player a set of ten tokens. Put the cards in a pile.  
+  *Parent does:* Before the game, a parent cuts out the 24 cards. Each player cuts or writes their ten tokens. Keep the cards in the printed order for the first game, so that the triangle and square come first. Shuffle them next time.  
   *Parent says:* These cards show shapes. You will guess how many ways each shape fits back into its outline. Each player gets ten number tokens.  
   *Child mode:* Cut out the cards and tokens. Take your ten number tokens.
 - **s2 (5 min)**  
@@ -266,17 +266,17 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Child mode:* The reader shows a card. Pick a token. Turn it over. Check the back.
   - Ask: What do the shapes with the most ways have in common? (good: They have many equal sides.; They look the same from every side.; They are very regular.)
   - Note: Do not tell the count before the guesses. After six cards, the numbers will already look like they follow a pattern.
-- **s3 (6 min)**  
-  *Parent does:* Play the next ten cards. Stop after card 12 and ask the question below.  
+- **s3 (5 min)**  
+  *Parent does:* Play the next six cards. Stop after card 12 and ask the question below.  
   *Parent says:* Look at the cards so far. The triangle had 6 ways. The square had 8. What do you notice about the number of sides and the number of ways?  
   *Child mode:* Look at the triangle and the square. Count the sides and the ways.
   - Ask: What is the link between the number of equal sides and the number of ways? (good: The ways are double the sides.; A triangle has 3 sides and 6 ways. A square has 4 sides and 8 ways.; Turns and flips are each as many as the sides.)
-- **s4 (4 min)**  
-  *Parent does:* Play the last cards. Talk about the cards with a low count, such as the letter F, the letter S and the hand.  
+- **s4 (5 min)**  
+  *Parent does:* Play on from card 13 while time allows. Short of time? Jump to the letter F, the letter S, the fan and the hand. Talk about why their counts are low.  
   *Parent says:* The letter F and the hand fit in only one way. The S fits in two. Why do these have so few ways?  
   *Child mode:* Look at the F, the S and the hand. Why do they have so few ways?
   - Ask: Why does the fan with twisted blades have turns but no flips? (good: A flip would twist the blades the other way.; A flip makes the mirror twin, which is a different fan.)
-  - Note: The fan and the pinwheel are handed. A flip turns them into their mirror twins, which are different shapes. Handed shapes have turns only.
+  - Note: The fan and the pinwheel are handed. A flip turns them into their mirror twins, which are different shapes. Handed shapes have turns only. Playing alone or with a parent, the reader and the player can be the same person. With 3 or 4 children, the reader changes after every card.
 - **s5 (2 min)**  
   *Parent does:* Add up the points and name the winner. Ask your child to make up a new card for the next game.  
   *Parent says:* Who won? Make a card for the next game. Draw a shape, and work out its count first.  
@@ -288,7 +288,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **question:** How many different ways can each of six cut-out shapes fit back into its own outline? Is there a pattern in the numbers?
 - **predict:** Before you start, guess. How many ways will the square fit back into its outline? Which of the six shapes will have the most ways, and which the fewest? Why do you think so?
 - **fair test:** Every shape is cut from the same card and labelled the same way, with a letter at each corner on both the front and the back. You find the ways the same way each time, by turning and flipping until no new letter pattern appears. Only the shape changes, so differences in the count come from the shape. You check each count twice.
-- **safety:** A grown-up cuts the card and pushes the pin. Keep fingers behind the scissors.
+- **safety:** A grown-up cuts the card and pushes the pin. Keep fingers behind the scissors. Put the pin back in its cushion or stick it in an eraser when done.
 - **record:** Fill in the table. For each shape, also write down one of the letter patterns you found, going round the outline from the star. Draw the outline of the square with the star and the letters.
 - **results table:** Shape | Number of equal sides | My guess | Ways by turning only | Ways by turning and flipping
 - **s1 (4 min)**  
@@ -306,7 +306,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Parent does:* On the front of each shape, write the letter A at one corner. Write B, C and D going round. Turn each shape over like a page. Write the same letters at the same corners on the back. Trace each shape on paper. Put a star at one corner of each outline.  
   *Parent says:* Every corner gets a letter on both sides. That way we can tell the fits apart. The star on the outline tells us where to start reading.  
   *Child mode:* Write letters at the corners on both sides. Trace each shape. Add a star.
-  - Note: The circle only needs one dot on its edge. For the triangles, use only the letters A, B and C. Write the letters small and clear so they show at the corners.
+  - Note: The circle only needs one dot on its edge. For the triangles, use only the letters A, B and C. Write the letters small and clear with a dark pen on the plain grey inside of the cereal box card, so they show at the corners.
   - Check: Why do we write the letters on both sides of each shape? → **So that we can tell the fits apart when the shape is flipped over**
 - **s4 (6 min)**  
   *Parent does:* Put the square in its outline. Read the letters clockwise from the star and write them down. Turn the square a quarter turn. Write the new letters. Keep going until you have all the fits from turning. Then flip it over and do the same again.  
@@ -319,7 +319,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Parent says:* Find the fits for each shape. Turn and flip it every way. Stop when nothing new appears. Write the count in the table.  
   *Child mode:* Find the fits for each shape. Turn and flip. Write the counts in the table.
   - Ask: Which shape surprised you? (good: The scalene triangle, which fits in only one way.; The circle, which has no end.; The rectangle, which has fewer than the square.)
-  - Note: Expect: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. If a count is odd, check for a letter pattern counted twice, or a shape that did not fit properly. The triangle with three different sides has only the start pattern.
+  - Note: Expect: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. If a count is odd, check for a letter pattern counted twice, or a shape that did not fit properly. The triangle with three different sides has only the start pattern. With 2 to 4 children: one child turns and flips, one reads the letters from the star, and one writes them down. Swap roles for each shape. Each pair or group needs only one set of shapes, but a second child can cut a spare square to check the count on their own.
 - **s6 (5 min)**  
   *Parent does:* Look at the table. Ask your child for a claim, the evidence and the reason. Ask them to look at the square and the triangle with three equal sides.  
   *Parent says:* What did you find? What did you see in the numbers? Why do you think the count is the way it is? Look at the equal-sided shapes. What is the link between sides and ways?  
@@ -341,7 +341,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Ask: Which way will a straight strip bend, and why? (good: It will bend either way, because both sides are the same.; It will go towards me, because I am pushing.; It will go the same way each time.)
   - Note: Do not correct the guess. Many children say it will go in any direction at random. Others say it must go straight. All guesses with a reason are good.
 - **s2 (4 min)**  
-  *Parent does:* Cut the three strips. Mark a dot in the middle of one face of each strip. Write A, B and C at one end. Flatten strip A by rubbing it along the edge of the table in both directions until it lies flat. Curl strip B over the pencil with the dot on the inside. Curl strip C the other way.  
+  *Parent does:* Cut the three strips (a grown-up helps younger children with the scissors). Mark a dot in the middle of one face of each strip. Write A, B and C at one end. Flatten strip A by rubbing it along the edge of the table in both directions until it lies flat. Curl strip B over the pencil with the dot on the inside. Curl strip C the other way.  
   *Parent says:* Strip A is flat. Strip B is curled towards the dot. Strip C is curled away from the dot. Lay each on the table. A curl the thickness of a coin at the ends is enough.  
   *Child mode:* Cut three strips and mark a dot. Flatten A. Curl B and C gently.
   - Note: A gentle curl is enough. Lay the strip on the table. Its ends should lift about the thickness of a one-rupee coin. If the strip creases, throw it away and cut a new one. A crease is a sharp fold and spoils the test.
@@ -350,13 +350,13 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Parent says:* Hold the strip with the dot facing you. Push the ends slowly together. Which way does the middle go? Mark it down. Flatten the strip each time.  
   *Child mode:* Hold strip A with the dot facing you. Push the ends together. Where does the middle go?
   - Ask: Did strip A bend the same way each time? (good: Mostly the same way.; Sometimes one way and sometimes the other.; Always towards me.)
-  - Note: A flattened card strip is rarely perfectly flat. Many children find strip A goes mostly one way, which tells us it has a hidden tiny curve. If it goes both ways about equally, that is a fine result too. Write what you see.
+  - Note: A flattened card strip is rarely perfectly flat. Many children find strip A goes mostly one way, which tells us it has a hidden tiny curve. If it goes both ways about equally, that is a fine result too. Write what you see. Pinch the ends flat between thumb and finger, keep the strip upright, and push until the middle has moved about 3 centimetres. Stop before it creases. If the strip folds sideways on its edge, it is too wide: trim it a little.
 - **s4 (5 min)**  
   *Parent does:* Test strip B ten times in the same way, with the dot facing you. Then test strip C ten times. Make a tally mark each time.  
   *Parent says:* Now the curled strips. B is curled with the dot inside. C is curled with the dot outside. Hold each with the dot facing you. Do ten tries each. Which way do they go?  
   *Child mode:* Test strip B ten times. Test strip C ten times. Tally each try.
   - Ask: What happened with the curled strips? (good: They went the same way every time.; B went one way and C went the other way.)
-  - Note: Expect strip B to bend one way every time, and strip C the opposite way every time. The curl is the tiny difference that decides.
+  - Note: Expect strip B (dot on the inside, facing you) to bow away from you almost every time, and strip C to bow towards you almost every time. The curl is the tiny difference that decides. If a curled strip does not go the same way at least 8 times out of 10, curl it a little more. Numbers will vary a little from family to family. With 2 to 4 children: each child makes their own set of A, B and C and does the tries. A second child tallies. Then put all the tallies together in one table.
   - Check: Strip B is curled towards the dot and bends the same way ten times out of ten. What is the best explanation? → **The curl in the strip decides which way it bends**
 - **s5 (3 min)**  
   *Parent does:* Take strip A again. Turn it over so the dot faces away from you. Push the ends together six times. Tally the bends.  
@@ -383,13 +383,13 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Ask: What will a border made by sliding the F look like? (good: The same F again and again, all facing the same way.; Like a row of the same picture.; Like a train.)
   - Note: Cut the F from stiff card so it can be traced many times. The F has no symmetry of its own. That makes every move easy to see.
 - **s2 (6 min)**  
-  *Parent does:* Border one: trace the F at the left of a strip. Slide the stencil 6 centimetres to the right. Trace it again. Do this five times. Border two: trace the F. Flip the stencil like a page, so it faces the other way, and trace it beside the first. Repeat.  
+  *Parent does:* Border one: trace the F at the left of a strip. Slide the stencil 6 centimetres to the right. Trace it again. Do this five times. Border two: trace the F. Flip the stencil like a page, so it faces the other way, and trace it beside the first. Keep flipping and tracing along the strip.  
   *Parent says:* Border one is a slide. Every F faces the same way. Border two flips over a line across the strip, like a page. The Fs take turns facing left and right.  
   *Child mode:* Slide the F and trace it five times. Then trace an F, flip it, and trace again.
   - Check: A border has the same F again and again, all facing the same way, each one further along. Which move made it? → **A slide**
 - **s3 (7 min)**  
-  *Parent does:* Border three: trace the F. Flip the stencil upside down, like turning a page over from top to bottom, and trace it beside the first. Repeat. Border four: trace the F. Turn the stencil halfway round and trace it beside the first. Repeat. Border five: trace the F. Flip it upside down and slide it along as well, then trace it. Repeat.  
-  *Parent says:* Border three flips the F upside down. Border four turns it halfway round, so it is upside down but not flipped. Border five is the glide. It flips and slides in one move.  
+  *Parent does:* First draw a pencil line along the middle of the strips for borders three and five. Border three: trace the F above the line. Flip the stencil upside down over the line, and trace it directly below the first F. Slide the stencil 6 centimetres along and trace the pair again. Border four: trace the F. Turn the stencil halfway round and trace it beside the first. Repeat. Border five: trace the F above the line. Flip the stencil upside down and trace it below the line, but shifted 3 centimetres along. Keep going, alternating above and below.  
+  *Parent says:* Border three flips each F over the middle line, so every F has an upside-down twin below it. Border four turns the F halfway round, so it is upside down but not flipped. Border five is the glide. It flips over the line and slides along at the same time, so the Fs zigzag.  
   *Child mode:* Make three more borders. One flips the F upside down. One turns it halfway. One does both a flip and a slide.
   - Note: Children often mix up the flip and the half turn. A flip makes a mirror image. A half turn does not. Look at the F: a half-turned F is still a proper F, but upside down. A flipped F reads backwards. If two borders look the same, one may have been done wrong. Try again with the stencil.
 - **s4 (5 min)**  
@@ -397,7 +397,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Parent says:* Put your borders in a column. Write the name of the move next to each. Which two look most alike? Which move is different?  
   *Child mode:* Put your five borders in a column. Name the move for each.
   - Ask: Which borders look most alike, and what is different? (good: The half turn and the glide, but the half turn is not flipped.; The two flip borders, but one flips across and the other flips along.)
-  - Note: There are seven kinds of border altogether. These five moves make five of them. The other two are made by mixing moves, such as a flip across and a half turn together.
+  - Note: There are seven kinds of border altogether. These five moves make five of them. The other two are made by mixing moves, such as a flip across and a half turn together. With 2 to 4 children: each child makes one or two borders. Then each hides the move name and the others guess it from the strip.
 - **s5 (8 min)**  
   *Parent does:* Look at a saree border, a bedsheet, a temple picture or a floor tile edge. For each, find the repeating unit. Decide which move takes one unit to the next.  
   *Parent says:* Find a real border. What is the shape that repeats? Does it slide, flip, turn or glide? Try covering all but two units with your hand to see.  
@@ -405,14 +405,14 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Ask: Which move does your real border use? (good: A slide. The same shape is repeated along.; A flip. Mangoes face one way and then the other.; A glide. Leaves point up and down alternately.)
   - Note: Most simple borders on cloth are slides. Borders with pairs of animals or birds facing each other use a flip across. Alternating up and down shapes use a glide. Do not worry if the real border looks messy. Pick the move that matches best.
 ### a2 · Two Mirrors: how many copies do you see? (25 min)
-- **safety:** Cover the edges of the mirrors with tape, because the edges can scratch. Do not drop them. Do not put the mirrors where they could reflect strong sunlight into anyone's eyes.
+- **safety:** Glass mirrors can cut. A grown-up covers all the edges with tape, or use plastic mirrors. Do not drop them. Do not put the mirrors where they could reflect strong sunlight into anyone's eyes. Do not let the sun through a window shine on the mirrors while you work.
 - **record:** A table with the angle, your guess, the number of objects you counted, and 360 divided by the angle.
 - **s1 (4 min)**  
   *Parent does:* Draw four angles on the sheet, with the same corner point. Use 120, 90, 60 and 45 degrees. Ask your child to guess how many objects they will see at each angle.  
   *Parent says:* We will put one small object between two mirrors. How many objects will you see in all, counting the real one? Guess for 90 degrees, then 60, then 45. Why do you think so?  
   *Child mode:* Guess how many objects you will see between two mirrors. Why?
   - Ask: How many objects will you see at 90 degrees, and why? (good: Two, one real and one in the mirror.; Four, because the mirrors also reflect each other.; More as the angle gets smaller.)
-  - Note: Do not correct the guesses. Many children guess 2 for every angle. The answers are 3, 4, 6 and 8 for 120, 90, 60 and 45 degrees.
+  - Note: Do not correct the guesses. Many children guess 2 for every angle. The answers are 3, 4, 6 and 8 for 120, 90, 60 and 45 degrees. Draw 90 degrees from the corner of the paper, 45 by folding that corner in half, 60 from the corner of the equal-sided card triangle, and 120 with a protractor (or by drawing two 60 degree angles side by side).
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Tape the two mirrors together along one edge, with the shiny sides facing each other. Cover the other edges with tape.  
   *Parent says:* Lay the mirrors face up side by side. Tape them along one edge. Now the mirrors can open and close like a book.  
@@ -422,7 +422,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Parent does:* Stand the mirrors on the sheet, with the hinge on the corner point and the mirrors along the 90 degree lines. Put the object between them, close to the hinge. Look in from above. Count the objects in all, including the real one.  
   *Parent says:* Open the mirrors to a right angle. Put the object near the hinge. Look in from above. How many objects can you count, including the real one?  
   *Child mode:* Open the mirrors to 90 degrees. Count all the objects you see. Include the real one.
-  - Note: Place the object close to the hinge. Count only objects that look complete. At 90 degrees you should see 4: the real one and 3 copies.
+  - Note: Place the object close to the hinge. Count only objects that look complete. At 90 degrees you should see 4: the real one and 3 copies. Prop the mirrors upright with a little dough at the foot. With 2 to 4 children: one child holds the mirrors and moves the object, and each other child counts on their own, then you compare. If counts differ, the mirrors are not sitting exactly on the lines. Cheap glass mirrors show a faint second image because of the glass. Count the bright ones.
   - Check: At 90 degrees, how many objects do you see in all, including the real one? → **4**
 - **s4 (5 min)**  
   *Parent does:* Open the mirrors to 120, 60 and 45 degrees in turn. Each time, count all the objects and write the number. Work out 360 divided by the angle.  
@@ -431,8 +431,8 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Ask: What link do you see between the angle and the number of objects? (good: A smaller angle gives more objects.; The number of objects is 360 divided by the angle.; At 90 degrees it is 4 and at 45 degrees it is 8.)
   - Note: Expect 3, 4, 6 and 8 objects. They match 360 divided by 120, 90, 60 and 45. At small angles the copies get hard to see. Count the ones you can see clearly.
 - **s5 (4 min)**  
-  *Parent does:* Stand the two mirrors facing each other, parallel, with the object between them. Look along the gap. Count how many objects you can see.  
-  *Parent says:* Now put the mirrors face to face, side by side, with the object in the middle. How many objects can you see?  
+  *Parent does:* Peel off the tape. Stand each mirror upright in dough, 10 centimetres apart, shiny sides facing, with the object between. Look along the gap from slightly above. Count the objects.  
+  *Parent says:* Now stand the mirrors face to face, with the object in the middle. How many objects can you see?  
   *Child mode:* Put the mirrors face to face. Look along the gap. How many objects do you see?
   - Ask: What happens to the number of objects when the mirrors face each other? (good: There are too many to count.; It goes on and on.; It is endless.)
   - Note: Parallel mirrors give a long row of copies, each one a little fainter and smaller, that seem to go on for ever. This is like the angle being zero, which gives an endless count.
@@ -442,7 +442,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Child mode:* At 60 degrees, how often does the pattern match in a full turn?
   - Check: Two mirrors are set at 72 degrees. What number does 360 divided by the angle give, and what does it tell you? → **5, the number of objects seen in all**
 ### a3 · Left, Right or Both? A handedness hunt (25 min)
-- **safety:** A grown-up helps with the scissors for younger children.
+- **safety:** A grown-up helps with the scissors for younger children. Test only lids and caps that are safe to open. Look at gas cylinder valves, but do not touch or turn them.
 - **record:** A table with two columns: 'Same as its mirror image' and 'Handed'. Write each thing you test in the right column.
 - **s1 (5 min)**  
   *Parent does:* Write the capital letters F, A, S, H, R and T big and dark on thin paper. Hold the paper up to a window. Look at each letter from the back. Sort the letters into 'looks the same from the back' and 'looks reversed'.  
@@ -452,7 +452,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Note: A, H and T look the same, because each has a line of symmetry. F, S and R look reversed. A letter that looks different from the back is handed in a flat drawing.
   - Check: A flat shape looks reversed when you see it from the back. What does that tell you? → **It has no line of symmetry, so it is handed**
 - **s2 (6 min)**  
-  *Parent does:* Trace your left hand on paper and cut it out. Try to fit the cut-out onto the outline of your right hand, with the same side up. Then flip the cut-out over and try again.  
+  *Parent does:* Trace both of your hands on paper, left and right, with fingers spread. Cut out the left hand. Try to fit the cut-out onto the outline of your right hand, with the same side up. Then flip the cut-out over and try again.  
   *Parent says:* Trace your left hand and cut it out. Lay it on the outline of your right hand. Does it fit? Now flip it over. What happens?  
   *Child mode:* Cut out your left hand. Try it on your right-hand outline. Then flip it.
   - Ask: What happens when you flip the cut-out of your left hand? (good: It fits the right-hand outline.; It becomes a right hand.)
@@ -462,7 +462,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Parent says:* Turn each lid to tighten it. Which way is it, clockwise or anticlockwise? Write it down. Then look at the twist in the rope. Does it slope like an S or a Z?  
   *Child mode:* Turn each lid to tighten it. Is it clockwise or anticlockwise? Look at the rope twist.
   - Ask: Which way did most of the lids tighten? (good: Clockwise.; All the same way.)
-  - Note: Nearly every screw thread tightens clockwise when seen from above. This is a rule people agreed on, so tools fit everywhere. A few things, such as some gas cylinder valves, use the other hand on purpose, to avoid mistakes. A rope is made of strands twisted one way and then twisted together the other way, so the twist you see depends on the rope.
+  - Note: Nearly every screw thread tightens clockwise when seen from above. This is a rule people agreed on, so tools fit everywhere. A few things, such as some gas cylinder valves, use the other hand on purpose, to avoid mistakes. A rope is made of strands twisted one way and then twisted together the other way, so the twist you see depends on the rope. Tally the clockwise and anticlockwise lids in a table. Almost all should be clockwise. With 2 to 4 children: each child tests different lids from the kitchen, and you pool the tally. Do not force a stuck lid.
 - **s4 (6 min)**  
   *Parent does:* Look at a snail shell or a picture of one. Hold it with the tip pointing up and the opening facing you. Do the coils wind to the right or to the left? Look at a hair whorl on the back of the head of a family member. Is it clockwise or anticlockwise? Ask five people and write the numbers.  
   *Parent says:* Look at the shell with the tip up and the opening facing you. Which way do the coils go? Now look at the swirl of hair at the back of someone's head. Which way does it spin?  
@@ -495,11 +495,11 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Ask: What creature did your tile become? (good: A bird.; A fish.; A dragon.)
   - Note: The artist M. C. Escher became famous for making tilings of birds, fish and lizards from tiles like this. He worked on many of them with simple shapes cut and slid in the same way.
 - **s5 (3 min)**  
-  *Parent does:* Ask your child to say which move covered the page, and which move made the tile.  
-  *Parent says:* Which move did you use to make the tile from the square? Which move covered the page? What would a flip do instead?  
+  *Parent does:* Count how many tiles covered your sheet. Compare with the number of plain 6 centimetre squares that would cover it (about 17 for a whole A4 sheet). Ask your child to say which move covered the page, and which move made the tile.  
+  *Parent says:* How many tiles covered the sheet? About how many plain squares would it take? Which move did you use to make the tile from the square? Which move covered the page? What would a flip do instead?  
   *Child mode:* Which move made the tile? Which move covered the page?
   - Ask: Which move covered the page, and which move made the tile? (good: Sliding covered the page and sliding the pieces made the tile.; Sliding for both.)
-  - Note: Both moves are slides. A slide keeps every copy the same way up, so bumps and dents always meet.
+  - Note: Both moves are slides. A slide keeps every copy the same way up, so bumps and dents always meet. The count of tiles should be about the same as the count of squares, because the piece was moved, not thrown away. Edge tiles that run off the sheet make the count only approximate. With 2 to 4 children: each child cuts and tapes their own tile, then all tile one big sheet together, or swap tiles and try each other's.
 
 ## Projects
 ### p1 · The Symmetry Notebook: four days of finding (60 min, 4 days)
@@ -509,6 +509,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Parent does:* On day 1, find three things around you that have a line of symmetry. Draw each one and add a dotted line. Find one thing with no line of symmetry and draw it.  
   *Parent says:* Find three things with a line of symmetry. Draw them and add the dotted line. Find one thing with none. How do you test it?  
   *Child mode:* Find three things with a mirror line. Draw each one. Add the line.
+  - Note: Each child keeps their own notebook. With 2 to 4 children, compare finds at the end of each day. Never touch live animals or pick up sharp tools while hunting. Look and draw only.
 - **s2 (15 min)**  
   *Parent does:* On day 2, find a real border pattern, such as a saree border, a tile edge or a carving in a picture. Draw one unit and an arrow showing how it repeats. Write the name of the move.  
   *Parent says:* Find a border today. What is the unit that repeats? Does it slide, flip, turn or glide? Draw an arrow.  
@@ -520,7 +521,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   *Child mode:* Find three things that come in a left and a right. Draw them.
   - Wait: Next day
 - **s4 (15 min)**  
-  *Parent does:* On day 4, find something lopsided on purpose. A heart, a spiral shell, a crab claw or scissors all work. Write how the lopsided part helps. Read all four pages to someone.  
+  *Parent does:* On day 4, find something lopsided on purpose. A heart, a spiral shell, a picture of a crab claw, or a pair of scissors all work. Look, do not pick up live animals or sharp tools. Write how the lopsided part helps. Read all four pages to someone.  
   *Parent says:* Find something lopsided that has a good reason to be lopsided. What does the lopsided part do? Read your pages aloud.  
   *Child mode:* Find something lopsided on purpose. Why is it lopsided? Read your pages aloud.
   - Check: A flounder has both eyes on the same side of the head. What does this give her? → **A flat body that rests on the sea floor and still sees upwards**
@@ -791,9 +792,9 @@ Pattern After Pattern (sci.patterns-symmetry.L4): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for the ones on mirrors and kaleidoscopes.
 
 ## Things to buy
-- [Two small flat mirror tiles or compact mirrors](https://www.amazon.in/s?k=small+mirror+tiles+craft) (material): For the Two Mirrors activity. Cheap mirror tiles from a hardware or craft shop work well. Used in a2. 
+- [Two small flat mirror tiles or compact mirrors](https://www.amazon.in/s?k=small+mirror+tiles+craft) (material): For the Two Mirrors activity. Two small mirror tiles or plastic mirror sheets from a hardware, craft or general store cost about Rs 20 to 50 each. A pair of compact mirrors from a stationery shop works too. Used in a2. 
 - [A geometry box with a protractor and a compass](https://www.amazon.in/s?k=geometry+box+protractor+compass) (tool): For making the equal-sided triangle in the Fit-Back Count, for drawing angles and for the Badge Designer challenge. Most children already have one. Used in e1, a2, c1. 
-- [A pack of thin card sheets](https://www.amazon.in/s?k=thin+card+sheets+craft+a4) (material): For the shapes in the Fit-Back Count and the strips in the Pushed Strip test. A cereal box also works. Used in e1, e2. 
+- [A pack of thin card sheets](https://www.amazon.in/s?k=thin+card+sheets+craft+a4) (material): For the shapes in the Fit-Back Count and the strips in the Pushed Strip test. A cereal box also works. Used in e1, e2, a1, a4. 
 
 ## Warm-up
 - Name the four moves that can leave a shape looking the same. → A flip, a turn, a slide and a glide.

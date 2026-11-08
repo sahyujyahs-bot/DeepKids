@@ -707,7 +707,7 @@
    ],
    "rules": [
     "Lay the five response cards in a row on the table. Shuffle the situation cards and put them face down in a pile.",
-    "Take turns. The reader takes the top card and reads the front aloud. The reader does not show the back.",
+    "Take turns. The reader takes the top card and reads the front aloud. The reader does not show the back. With three or four players, pass the reader's job to the left after each card.",
     "Every other player puts a finger on the response card they choose. Then they say why in one sentence.",
     "Turn the card over and read the back. A player scores 1 point for the best response and 1 more point for a reason that names the cause, such as a virus, bacteria, lost water or a danger sign.",
     "Playing alone? Read the card to yourself, choose and say your reason aloud, and then turn the card over.",
@@ -883,7 +883,7 @@
     }
    ],
    "rules": [
-    "One player is the Germ keeper and the other is the Health worker. Playing alone? Play both parts, and be fair to both.",
+    "One player is the Germ keeper and the other is the Health worker. Playing alone? Play both parts, and be fair to both. With three or four players, make two teams: a Germ team, who put the red token and spread the illness, and a Health team, who place the vaccine tokens.",
     "Round 1, nobody vaccinated: the Germ keeper puts the red token on house C3. At the end of each week, the illness spreads to every neighbour of an ill house. Put a red mark on each newly ill house. Play four weeks and count all the ill houses, including C3.",
     "Round 2, a ring at once: start again with house C3 ill. Before each week's spread, the Health worker puts 3 vaccine tokens on houses that are not ill. A vaccinated house can never become ill. Play four weeks and count.",
     "Round 3, a ring one week late: start again with house C3 ill. The Health worker puts no tokens in week 1, because nobody has noticed yet. From week 2, the Health worker puts 3 tokens before each spread. Play four weeks and count.",
@@ -942,7 +942,7 @@
      "do": "Play Round 4 and Round 5. Count the ill houses each time. Write down all five counts.",
      "say": "Now people are vaccinated before the illness arrives. First two thirds of the village, then only a third. Which village is safer?",
      "kid": "Deal the slips. Place the vaccine tokens. Play Round 4 and Round 5.",
-     "parent": "With two thirds vaccinated, the illness usually stays at 1 to 6 houses. With a third, it often reaches 5 to 17. Chance changes the results, so playing each round twice gives a fairer picture.",
+     "parent": "With two thirds vaccinated, the illness usually stays at 1 to 6 houses. With a third, it often reaches 5 to 17. Chance changes the results, so playing each round twice gives a fairer picture. Shuffle and deal the slips again each time. These numbers are typical, not promises, and a clever Germ keeper can choose a worse starting house.",
      "check": {
       "t": "mcq",
       "q": "In Rounds 4 and 5 nobody could add new tokens. Why was the village with more vaccinated houses safer?",
@@ -997,7 +997,7 @@
    ],
    "materials": [
     {
-     "item": "5 clear glasses of the same size, each holding at least 250 millilitres",
+     "item": "5 clear glasses of the same size, each holding at least 250 millilitres. Tall, narrow tumblers show the foam best.",
      "qty": 5
     },
     {
@@ -1046,7 +1046,7 @@
      "what": "Label five glasses. Add warm water, sugar and yeast. Add one test thing to each. Wait 20 minutes, then measure the foam in each glass."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each glass, as tall as its foam, starting with the Plain glass.",
+   "record": "Fill in the table. Then draw a bar for each glass, as tall as its foam, starting with the Plain glass. If you measured at 10 minutes too, mark that number on each bar with a line.",
    "context": "In this experiment you add salt, vinegar, garlic and turmeric to separate glasses of yeast, and measure which one holds back the foam. Yeast is a living microbe, so the test shows how a germ-killer works without any risk of illness.",
    "example_chart": {
     "type": "bar",
@@ -1116,7 +1116,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess. A guess with a reason is a good start. Yeast does not make people ill. She is a safe stand-in for a microbe, so the test works like a germ-killer test without any danger.",
+     "parent": "Do not correct any guess. A guess with a reason is a good start. Yeast does not make people ill. She is a safe stand-in for a microbe, so the test works like a germ-killer test without any danger. One child with a parent: the child does the pouring, stirring and measuring while the parent crushes the garlic and keeps the clock. Two to four children: each child owns one glass and does its sugar, yeast and test thing, and measures its own foam; the Plain glass is shared and measured by the youngest. Everyone stirs for the same 10 seconds, counted aloud.",
      "context": "This is the first step of the Yeast Test. You guess before you test."
     },
     {
@@ -1151,7 +1151,7 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "1. Look at the glasses every 5 minutes. 2. Draw what you see in each. 3. Wait until 20 minutes have passed since you stirred.",
+     "do": "1. Look at the glasses every 5 minutes. 2. Draw what you see in each. 3. At 10 minutes, quickly measure the foam in each glass and write it beside the table. 4. Wait until 20 minutes have passed since you stirred.",
      "say": "Look at the glasses every five minutes. Which glass starts to foam first? Which stays flat? Draw what you see.",
      "kid": "Look at the glasses every five minutes. Draw what you see.",
      "ask": [
@@ -1163,7 +1163,7 @@
        ]
       }
      ],
-     "parent": "Yeast is slow in the first minutes. Bubbles usually start to appear by 5 to 10 minutes in the Plain glass. If nothing at all has happened in the Plain glass after 15 minutes, the water was probably too cold or too hot, or the yeast is old. Start again with fresh yeast and hand-warm water.",
+     "parent": "Yeast is slow in the first minutes. Bubbles usually start to appear by 5 to 10 minutes in the Plain glass. If nothing at all has happened in the Plain glass after 15 minutes, the water was probably too cold or too hot, or the yeast is old. Start again with fresh yeast and hand-warm water. If the Plain glass has only a thin foam of under 5 millimetres at 20 minutes, give every glass 10 more minutes and measure all of them again, so they stay fair. In hot weather the foam comes faster, so measure a little earlier. In a cold room, stand the glasses together in a tray of hand-warm water. Yeast sachets from different shops behave a little differently, so only compare glasses made with the same sachet.",
      "context": "In this step you wait and watch the glasses for 20 minutes."
     },
     {
@@ -1172,7 +1172,7 @@
      "do": "1. After 20 minutes, hold the ruler beside each glass. 2. Measure the height of the foam, from the water up to the top of the foam, in millimetres. 3. Write the number in the table. 4. Wave the air above each glass towards your nose and write what you smell.",
      "say": "Measure from the water up to the top of the foam. If there is no foam, write zero. Then wave the air gently towards your nose.",
      "kid": "Measure the foam in each glass. Write the number. Wave the smell to your nose.",
-     "parent": "Expected pattern: a thick foam on the Plain glass and a similar one on the Turmeric glass, much less on the Salt glass, and less than Plain on the Vinegar and Garlic glasses. Your own result is the real one. If the glasses behave differently, write it down. Different yeast, water and room temperature can change the numbers.",
+     "parent": "Typical pattern, not a promise: a thick foam on the Plain glass and a similar one on the Turmeric glass, much less on the Salt glass, and less than Plain on the Vinegar and Garlic glasses. Your own result is the real one. If the glasses behave differently, write it down. Different yeast, water and room temperature can change the numbers.",
      "context": "In this step you measure the foam in every glass and write down the results."
     },
     {
@@ -1231,11 +1231,11 @@
    ],
    "materials": [
     {
-     "item": "about 250 grains of white rice, as the ordinary germs",
+     "item": "about 300 grains of white rice (a small katori full), as the ordinary germs",
      "qty": 1
     },
     {
-     "item": "30 whole green moong or any dal grains that look different from rice, as the tough germs",
+     "item": "30 whole green moong grains, or any dal that looks clearly different from the rice, as the tough germs. If you have only one kind of dal, use brown and white rice.",
      "qty": 30
     },
     {
@@ -1243,11 +1243,11 @@
      "qty": 2
     },
     {
-     "item": "a small bowl for mixing",
+     "item": "a small bowl for mixing, and a spoon for picking",
      "qty": 1
     },
     {
-     "item": "paper and a pencil, to write the table",
+     "item": "paper and a pencil, to write the table. Counting in fives and tens makes it quicker.",
      "qty": 1
     }
    ],
@@ -1345,7 +1345,8 @@
      "do": "1. Count 38 rice grains on to Plate A. 2. Add 2 dal grains. 3. Do the same on Plate B. 4. Write the start numbers in the table.",
      "say": "Each plate is a body with 40 germs. Most are ordinary. Two are tough, and they were already a little different before any medicine arrived. Each body has food for only 40 germs.",
      "kid": "Put 38 rice grains and 2 dal grains on each plate.",
-     "context": "In this step you set up the two bodies, each with 40 germs."
+     "context": "In this step you set up the two bodies, each with 40 germs.",
+     "parent": "One child with a parent: the child runs both plates, and the parent mixes, hides the picking and checks the counts. Two to four children: one child is Plate A's keeper, one is Plate B's keeper, one mixes and picks without looking, and one writes the table. Swap roles on the next game. Each plate needs its own space, so use two plates and a shared supply bowl. Count out the rice in fives to go quickly."
     },
     {
      "id": "s3",
@@ -1353,7 +1354,7 @@
      "do": "Play Day 1 on Plate B, with no medicine. 1. Night: count the rice grains on the plate and add the same number from the supply. 2. Do the same with the dal grains. 3. Crowding: put all the grains in the bowl and mix. 4. Look away and pick 40 grains, one at a time, back on to the plate. 5. Count the rice and the dal on the plate and write the numbers.",
      "say": "At night every germ splits in two, so each kind doubles. But the body has food for only 40 germs, so the rest die. We pick the 40 without looking, so the picking is fair.",
      "kid": "Add the same number of grains to each kind. Mix. Pick 40 without looking. Count.",
-     "parent": "On Plate B there are 76 rice and 4 dal after the night, which makes 80 grains. You pick 40 of the 80. The dal share usually stays small, around 2 out of 40. Chance changes it, so 1 or 3 is normal.",
+     "parent": "On Plate B there are 76 rice and 4 dal after the night, which makes 80 grains. You pick 40 of the 80. The dal share usually stays small, around 2 out of 40. Chance changes it, so 1 or 3 is normal. Slow children can count rice in fives. If you run short of time, stop after Day 2 and finish Day 3 later; leave the plates as they are and write the table first.",
      "context": "In this step you play the first day on Plate B, the plate with no medicine."
     },
     {
@@ -1362,7 +1363,7 @@
      "do": "Play Day 1 on Plate A, with the medicine. 1. Night: double each kind. 2. Crowding: if there are more than 40 grains, mix and pick 40 without looking. 3. Medicine: put the rice grains into piles of ten. Keep one grain from each pile and take away all the rest, including any left-over rice. 4. The medicine does not touch the dal. 5. Count the rice and the dal and write the numbers.",
      "say": "The medicine kills nearly all the ordinary germs. In each pile of ten, only one survives. But the medicine does not kill the tough germs, so every dal grain stays.",
      "kid": "Double each kind. Pick 40. Make piles of ten rice grains. Keep one from each pile.",
-     "parent": "After the medicine, Plate A usually holds about 3 rice grains and about 2 dal grains, in a plate that had 40 grains this morning. Many children are surprised how empty the plate looks.",
+     "parent": "After the medicine, Plate A usually holds about 3 rice grains and about 2 dal grains, in a plate that had 40 grains this morning. Many children are surprised how empty the plate looks. About one game in seventeen, chance throws both dal grains out in the crowding step on Day 1, and Plate A is then left empty. That is a real result, because with no tough germ the medicine wins. Write it down and play again.",
      "context": "In this step you play the first day on Plate A, the plate that gets the medicine."
     },
     {
@@ -1382,7 +1383,7 @@
       "a": 0,
       "why": "The medicine removes the ordinary germs, but the tough germs survive. Each night every surviving tough germ splits in two, so their number doubles. The medicine did not feed them. It only took away the others, which left them room and food."
      },
-     "parent": "On Plate A, a typical run is 3 rice and 2 dal after Day 1, then 0 rice and 4 dal after Day 2, then 0 rice and 8 dal after Day 3. On Plate B, a typical run keeps about 38 rice and 2 dal each day, though chance may give 1, 3 or 4 dal. About one game in five, the dal on Plate B disappear by chance. That is a real result. Write it down and play again.",
+     "parent": "On Plate A, a typical run is 3 rice and 2 dal after Day 1, then 0 rice and 4 dal after Day 2, then 0 rice and 8 dal after Day 3. On Plate B, a typical run keeps about 38 rice and 2 dal each day, though chance may give 1, 3 or 4 dal. About one game in four, the dal on Plate B disappear by chance, because only a few grains can be thrown out by luck. That is a real result. Write it down and play again.",
      "context": "In this step you play Day 2 and Day 3 on both plates."
     },
     {
@@ -1439,7 +1440,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the medicine box or shelf at home",
+     "item": "the medicine box or shelf at home. If there is no box, a few empty strips and bottles from a neighbour or a chemist, with the grown-up's permission.",
      "qty": 1
     },
     {
@@ -1487,7 +1488,7 @@
      "do": "1. Read the front of each packet: the name, what it is for, and the expiry date. 2. Write each in the table. 3. Mark whether it kills a germ, eases a sign, or is for the skin.",
      "say": "Read the name and what it is for. The line that says what it contains tells you more than the brand name. Does the medicine kill a germ, or only ease a sign like pain, fever or an itch?",
      "kid": "Read each label. Write the name and what it is for. Do not open anything.",
-     "parent": "Most home boxes hold medicines that ease signs, such as fever and pain medicine, plus ORS, creams and an antiseptic. Antibiotics should not be in a home box, because they are given for a particular illness. If there are some left over, ask a doctor or pharmacist what to do with them.",
+     "parent": "Most home boxes hold medicines that ease signs, such as fever and pain medicine, plus ORS, creams and an antiseptic. Antibiotics should not be in a home box, because they are given for a particular illness. If there are some left over, ask a doctor or pharmacist what to do with them. One child with a parent: the child reads and writes, the parent holds each packet. Two to four children: each child takes one group of medicines and fills in their own rows; then they swap and check each other. Also look for two packets that share the same active ingredient name, which is a good lesson in not giving two medicines for the same thing.",
      "check": {
       "t": "mcq",
       "q": "A tube says it is a cream for itchy skin. Does it kill the germ that causes a cold?",
@@ -1622,7 +1623,7 @@
      "do": "1. Write a different three-letter code on each of 30 cards. Use codes like KRT, PAM or LOB, and no two the same. 2. The helper secretly chooses three codes and writes each on a germ card. 3. Spread the 30 antibody cards face up on the table.",
      "say": "Each antibody card has its own code. Each germ card matches exactly one of them. The helper picks three germs in secret, so you will not know which cards to look for.",
      "kid": "Write 30 different codes on 30 cards. The helper writes three germ cards.",
-     "parent": "Help your child write the codes quickly. The three germ cards must each match one antibody card exactly, and the helper must keep them hidden. Name the germ cards 1, 2 and 3.",
+     "parent": "Help your child write the codes quickly. The three germ cards must each match one antibody card exactly, and the helper must keep them hidden from the searcher. Name the germ cards 1, 2 and 3. Use codes that look alike in a few cases, such as KRT and KRL, so the search takes real time. Two to four children: take turns as searcher, so each child makes the four searches, and use different codes for each turn. Add the times of the group and use the middle one. Before each timed search, shuffle the 30 antibody cards face up so the child cannot remember where a card lies.",
      "context": "In this step you make the cards for the game."
     },
     {
@@ -1650,7 +1651,7 @@
      "do": "1. The helper shows Germ 2 as a safe picture, which stands for a vaccine. Find the match with no timing and put it in the memory pile. 2. Germ 3 arrives for the first time, with no vaccine. Time the search. 3. Germ 2 arrives for real. Time the search. 4. Write both times.",
      "say": "The helper shows you a safe picture of Germ 2. That is the vaccine. You find the match and keep it safe. Now two germs arrive for real, Germ 3 with no warning and Germ 2 after the vaccine. Which will you find faster?",
      "kid": "A safe picture of Germ 2 is a vaccine. Find the match. Then time Germ 3 and Germ 2.",
-     "parent": "Expect the search for Germ 3 to take as long as for Germ 1, often 15 to 30 seconds. The search for Germ 2 after the vaccine takes a second or two. Your child's times will differ, and that is fine.",
+     "parent": "Expect the search for Germ 3 to take as long as for Germ 1, often 15 to 30 seconds. The search for Germ 2 after the vaccine takes a second or two. Your child's times will differ, and that is fine. The real body does not read codes; it keeps special cells that already know the germ, and this game only shows how having them saves time.",
      "context": "In this step you play the vaccine round and time the two real germs."
     },
     {
@@ -1734,7 +1735,7 @@
      "do": "1. Read the list of vaccines on the card. 2. Match each with the illness it protects against, using the list below. 3. Write each pair in your table. The list: BCG, tuberculosis. Polio drops or injection, polio. Hepatitis B, hepatitis B. Pentavalent, five illnesses including diphtheria, whooping cough and tetanus. Measles and rubella, measles and rubella. Rotavirus, a cause of loose motions. Booster at ten, tetanus and diphtheria.",
      "say": "Your card may use short names. Match each one to the illness it prevents. Some vaccines protect against several illnesses at once.",
      "kid": "Read each vaccine on the card. Write the illness it protects against.",
-     "parent": "Cards differ between states and years, and some families choose extra vaccines, such as those for typhoid or chickenpox. Match what your card shows. If a name is not on the list, ask a doctor or look it up with a grown-up.",
+     "parent": "Cards differ between states and years, and some families choose extra vaccines, such as those for typhoid or chickenpox. Match what your card shows. If a name is not on the list, ask a doctor or look it up with a grown-up. With several children, each child uses their own card or a photo of it, and they compare lists afterwards. Do not post the card online, because it has personal information.",
      "check": {
       "t": "mcq",
       "q": "One vaccine on the card protects against five illnesses at once. How can one needle do that?",
@@ -1778,7 +1779,7 @@
      "qty": 1
     },
     {
-     "item": "6 level teaspoons of sugar",
+     "item": "6 level teaspoons of sugar (about 30 grams, using a flat-topped teaspoon)",
      "qty": 1
     },
     {
@@ -1786,7 +1787,7 @@
      "qty": 1
     },
     {
-     "item": "a clean jug, a clean spoon and 3 clean cups",
+     "item": "a clean jug, 3 clean cups and a clean spoon for each cup",
      "qty": 3
     },
     {
@@ -1795,7 +1796,7 @@
      "buy": "b-ors"
     },
     {
-     "item": "paper and a pencil",
+     "item": "paper and a pencil, and a marker or tape to label the cups under the cup base",
      "qty": 1
     }
    ],
@@ -1852,7 +1853,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Take a small sip from each cup. 2. Write how each tastes. 3. If you have a packet of ORS, make a cup of it and compare.",
+     "do": "1. Ask a grown-up to hide the cup labels and mix the order of the cups. 2. Take a small sip from each cup. Use a clean spoon for each. 3. Guess which is plain water, sugar water and ORS. 4. Write how each tastes and check the guesses. 5. If you have a packet of ORS, make a cup of it and compare.",
      "say": "Take a small sip of each. Which tastes sweet? Which tastes a little salty? ORS tastes slightly salty, about as salty as tears.",
      "kid": "Take a small sip from each cup. Write how each tastes.",
      "context": "In this step you taste the three cups."
@@ -1873,7 +1874,8 @@
       }
      ],
      "think": "ORS does not kill the germ. How does it save a life?",
-     "context": "In this step you find out why ORS has both salt and sugar."
+     "context": "In this step you find out why ORS has both salt and sugar.",
+     "parent": "The home ORS should taste only a little salty, less than tears. If it tastes as salty as the sea, the salt was too much: throw it away and make it again with a level half teaspoon. With a packet, follow the amount of water printed on the packet and not this recipe. One child with a parent: the parent hides the labels. Two to four children: one makes the mixture, one pours, one hides the labels, and all taste and guess."
     }
    ]
   },
@@ -1884,7 +1886,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a digital thermometer",
+     "item": "a digital thermometer. Borrow one from a neighbour or a health worker, or buy one at a medical shop for roughly Rs 100 to 200.",
      "qty": 1,
      "buy": "b-thermometer"
     },
@@ -1893,7 +1895,7 @@
      "qty": 1
     },
     {
-     "item": "two family members who are well and agree to be measured",
+     "item": "two family members who are well and agree to be measured. If you have more children, measure each of them too.",
      "qty": 2
     },
     {
@@ -1966,7 +1968,7 @@
      "do": "1. Take the temperature of two well people in the morning. 2. Take it again in the afternoon. 3. Take it again in the evening. 4. Write every reading in the table.",
      "say": "Take each person's temperature three times today. The armpit gives a slightly lower number than the mouth. Use the same place every time.",
      "kid": "Measure two people three times today. Write each number.",
-     "parent": "Most well people read between about 36 and 37.5 degrees under the arm. The numbers are usually lowest in the early morning and highest in the late afternoon or evening. The difference is often half a degree or more. Do not take the temperature right after a hot meal, a bath or running.",
+     "parent": "Most well people read between about 36 and 37.5 degrees under the arm. The numbers are usually lowest in the early morning and highest in the late afternoon or evening. The difference is often half a degree or more. Do not take the temperature right after a hot meal, a bath or running. To see how much the thermometer itself varies, take each person's temperature twice in a row at one time of day, and compare the two readings. They often differ by about 0.1 degrees, which is smaller than the change across the day. In hot weather, rest for five minutes in the shade first. Two to four children: each child is measured and also measures the others, and each has a line in a different colour.",
      "check": {
       "t": "mcq",
       "q": "A well person reads 36.4 in the morning and 37.0 in the evening. What does this show?",
@@ -2041,7 +2043,8 @@
      "do": "1. Choose an elder to ask. 2. Write five questions with your child. For example: Which illnesses did children get when you were small? Which ones frightened people? What did the doctor or the village do? 3. Ask your child what they expect to hear.",
      "say": "Let's ask someone who remembers when there were fewer vaccines. What illnesses do you think they remember? What do you think was different?",
      "kid": "Write five questions for an elder. Guess what they will say.",
-     "context": "This is the first step of Ask an Elder. You plan your questions."
+     "context": "This is the first step of Ask an Elder. You plan your questions.",
+     "parent": "If the elder lives far away, the talk can be on the phone or a video call. With several children, each asks one of the questions and writes down that answer."
     },
     {
      "id": "s2",
@@ -2148,7 +2151,7 @@
      "do": "1. With a grown-up, meet the health worker, nurse or doctor. 2. Ask your questions and write the answers in the boxes. 3. Ask them to read the sheet and correct anything wrong. 4. Put the sheet on the fridge at home.",
      "say": "Say who you are and why you are asking. Write what they tell you, and ask them to check the sheet at the end. A health worker likes a child who asks.",
      "kid": "Ask your questions. Write the answers. Ask them to check your sheet.",
-     "parent": "If you cannot meet anyone in person, call the nearest health centre, or ask the family doctor on the phone. Make sure the doctor's number on the sheet is the right one, and add the number for emergency help.",
+     "parent": "If you cannot meet anyone in person, call the nearest health centre, or ask the family doctor on the phone. Make sure the doctor's number on the sheet is the right one, and add the number for emergency help: 112 is the national emergency number, and 108 is the ambulance number in most states. With several children, each child owns one box on the sheet and writes the answers for it.",
      "wait": "Day 2: meet the health worker or doctor.",
      "context": "This is the second day of the project. You ask a real health worker and finish the sheet."
     }
@@ -3497,7 +3500,7 @@
    "id": "b-yeast",
    "item": "A sachet of dry baking yeast",
    "kind": "material",
-   "why": "The living microbe in the Yeast Test. A sachet costs a few rupees at a grocer's or a bakery supplier.",
+   "why": "The living microbe in the Yeast Test. A sachet costs a few rupees at a grocer's, supermarket or bakery supplier. If you cannot find one, ask a local baker for a spoonful.",
    "url": "https://www.amazon.in/s?k=dry+baking+yeast+sachet",
    "used_in": [
     "e1"
@@ -3507,7 +3510,7 @@
    "id": "b-thermometer",
    "item": "A digital thermometer",
    "kind": "tool",
-   "why": "For A Day of Temperatures. Many homes already have one. A digital one is safer than a glass one.",
+   "why": "For A Day of Temperatures. Many homes already have one, and a neighbour or health worker may lend one. A digital one costs roughly Rs 100 to 200 at a medical shop and is safer than a glass one.",
    "url": "https://www.amazon.in/s?k=digital+thermometer+for+kids",
    "used_in": [
     "a5"
@@ -3656,5 +3659,5 @@
   "when": "1943 (the numbers test) and 1952 (the velvet stamp)",
   "wrong_idea": "Many scientists thought that bacteria become resistant because of the medicine, as if the medicine changed them. Esther Lederberg's velvet stamp showed that the resistant bacteria were already there, on a dish that had never met the medicine."
  },
- "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Yeast Test: the amounts (half a teaspoon of yeast and a teaspoon of sugar in about 100 millilitres of hand-warm water) usually foam within 10 to 15 minutes, but yeast and room warmth vary. The steps tell the parent what to do if the Plain glass stays flat, and say that the child's own result is the real one. Rice and Dal: the numbers were played out on paper and by computer many times. On Plate A the tough grains typically reach about 4 to 12 after three days, and on Plate B they stay near 2, but about one game in five loses the dal on Plate B by chance, and the steps say so. Ring the Germ: a ring at once ends at 2 to 4 houses, one week late ends near 17 to 23, and a plain spread reaches 31 of 36 houses after four weeks, as the steps state. Medicine or Not? is general learning and not medical advice, and says so. Facts to verify before release: the date and wording of Pasteur's Lille lecture, the wording of Tao Te Ching 64 and Thirukkural 948, the 1975 date for India's last smallpox case, the January 2011 date and place for India's last polio case, the 2014 polio-free date, and the exact length of the videos. Medicine doses in the unit are made-up examples for maths practice only."
+ "playtest": "Read as a family in a city flat would use it, but not yet tried at home. Yeast Test: the amounts (half a teaspoon of yeast and a teaspoon of sugar in about 100 millilitres of hand-warm water) usually foam within 10 to 15 minutes, but yeast and room warmth vary. The steps tell the parent what to do if the Plain glass stays flat, and say that the child's own result is the real one. Rice and Dal: the numbers were played out on paper and by computer many times. On Plate A the tough grains typically reach about 4 to 12 after three days, and on Plate B they stay near 2, but about one game in four loses the dal on Plate B by chance, and the steps say so. Ring the Germ: a ring at once ends at 2 to 4 houses, one week late ends near 17 to 23, and a plain spread reaches 31 of 36 houses after four weeks, as the steps state. Medicine or Not? is general learning and not medical advice, and says so. Facts to verify before release: the date and wording of Pasteur's Lille lecture, the wording of Tao Te Ching 64 and Thirukkural 948, the 1975 date for India's last smallpox case, the January 2011 date and place for India's last polio case, the 2014 polio-free date, and the exact length of the videos. Medicine doses in the unit are made-up examples for maths practice only."
 }

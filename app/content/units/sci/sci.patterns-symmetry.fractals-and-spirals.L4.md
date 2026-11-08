@@ -69,10 +69,10 @@ The mathematician Michael Barnsley showed in the 1980s that a picture of a fern 
 ### Why branches get thinner by a rule · *debated*
 Leonardo da Vinci noticed that when a tree branch splits, the areas of the cut ends of the daughter branches add up to the area of the cut end of the mother branch. So the cut ends of all the branches at one height add up to about the trunk. Blood vessels follow a different rule, found by Cecil Murray in 1926. For vessels, the cubes of the widths add up. Both rules help the living body move fluid at the least cost. But why trees follow Leonardo's rule is not settled.
 - e.g. A tree: the cut ends of all the branches at one height add up to about the trunk.
-- e.g. A blood vessel splitting in two: the narrower vessels are about 80 percent as wide as the wider one, if equal.
+- e.g. A blood vessel splitting in two: two equal daughter vessels are each about 80 percent as wide as the mother vessel.
 - e.g. A river: each tributary adds to the main river.
 - **The plumbing explanation:** A tree has to carry water from the roots to all the leaves. If the total width of the pipes stays the same at every height, the water can flow up evenly. This idea, called the pipe model, was put forward by Japanese botanists in the 1960s.
-- **The wind explanation:** In 2011 the scientist Christophe Eloy showed that a tree built by Leonardo's rule has about the same bending stress from wind in every branch, however small. So a tree built this way is equally safe against wind at every size. Many scientists now think both explanations are partly right.
+- **The wind explanation:** In 2011 the scientist Christophe Eloy showed that Leonardo's rule fits a tree whose branches, big and small, are about equally likely to snap in the wind. So a tree built this way is equally safe against wind at every size. Both explanations may be partly right.
 ### Real fractals are rough copies, over a limited range of sizes · *defined*
 **Definition:** A mathematical fractal repeats exactly for ever. A real coast, tree or cloud repeats only on average, and only between a biggest and a smallest size.
 
@@ -83,7 +83,7 @@ The Koch curve is exact: a small piece is a perfect copy of a bigger piece. A re
 ### Spirals that keep their shape: shells · *defined*
 **Definition:** A shell grows by making each new whorl a fixed fraction wider than the last. That is a logarithmic spiral, and the shell keeps the same shape as it grows.
 
-A rope coiled on the floor has equal gaps between its turns. It grows by adding the same amount each turn, and it is called an Archimedean spiral. A snail shell is different. Each new whorl is wider than the last by the same fraction, say 1.5 times. So the gaps get bigger and bigger. This is a logarithmic spiral. Because the fraction is always the same, a small shell and a big shell of one kind have the same shape, and you can work out the missing small whorls of a broken shell by dividing. In the 1960s, the palaeontologist David Raup showed that three numbers are enough to describe the shape of almost any coiled shell: how fast the whorls widen, how far the opening sits from the middle, and how fast the shell slides along its axis. The mathematician Jacob Bernoulli loved the logarithmic spiral so much that it is said he asked for one on his tombstone. The stonemason carved a different kind.
+A rope coiled on the floor has equal gaps between its turns. It grows by adding the same amount each turn, and it is called an Archimedean spiral. A snail shell is different. Each new whorl is wider than the last by the same fraction, say 1.5 times. So the gaps get bigger and bigger. This is a logarithmic spiral. Because the fraction is always the same, a small shell and a big shell of one kind have the same shape, and you can work out the missing small whorls of a broken shell by dividing. In the 1960s, the palaeontologist David Raup showed that four numbers are enough to describe the shape of most coiled shells: how fast the whorls widen, how far the opening sits from the middle, how fast the shell slides along its axis, and the shape of the opening. The mathematician Jacob Bernoulli loved the logarithmic spiral so much that it is said he asked for one on his tombstone. The stonemason carved a different kind.
 - e.g. A coiled rope: equal gaps, Archimedean.
 - e.g. A snail shell: growing gaps, logarithmic.
 - e.g. A broken shell: divide each whorl by the fraction to find the missing whorls.
@@ -126,7 +126,7 @@ A radio antenna works by having a long wire. A fractal antenna folds a long wire
 ## Mostly agreed
 - A line has dimension 1, a flat shape has dimension 2 and a solid has dimension 3, and a rough edge such as a coast can have a dimension between 1 and 2. *How we know:* You can measure it by box counting. Mandelbrot used Richardson's measurements to give the west coast of Britain about 1.25.
 - A Koch curve gets 4 over 3 times longer with each round, so it grows without end, yet it fits inside a small page. *How we know:* Anyone can draw the first two rounds and measure them. The pattern in the lengths, 27, 36, 48, 64, can be checked by arithmetic.
-- A coiled shell grows by making each whorl a fixed fraction wider than the last, so the shell keeps the same shape. *How we know:* Scientists such as David Raup showed that three numbers describe the shape of almost any coiled shell, and growth lines on shells match the pattern.
+- A coiled shell grows by making each whorl a fixed fraction wider than the last, so the shell keeps the same shape. *How we know:* Scientists such as David Raup showed that four numbers describe the shape of most coiled shells, and growth lines on shells match the pattern.
 - Leaves on many plants turn by a fraction of a circle such as 1 over 2, 1 over 3, 2 over 5 or 3 over 8 between neighbours, and these fractions approach the golden angle of about 137.5 degrees. *How we know:* Botanists have counted leaf turns for nearly two hundred years, and anyone with a plant can check by tagging leaves.
 - Cyclones spiral because the spinning Earth bends the path of air rushing in to a low-pressure centre. *How we know:* Cyclones rotate anticlockwise in the northern half of the Earth and clockwise in the southern half, as the Coriolis effect predicts.
 - When walkers wander at random and stick at first touch, the tips of the cluster catch the most walkers, and the cluster grows branches. *How we know:* Witten and Sander showed it in a computer in 1981, and anyone can repeat it with a die and a grid.
@@ -244,8 +244,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - Ask: Where else might you use a rule to work backwards from what is left?
 
 ## Games
-### g1 · Stick and Wander: grow a branching cluster with a die (24 min)
-- **rules:** Each player has a grid sheet with the middle square shaded. The shaded square is the seed. Each player needs a marker, such as a bean or a button, for the walker. All players share one die.; To release a walker, roll the die to pick an edge: 1 is the top edge, 2 the right edge, 3 the bottom edge and 4 the left edge. On a 5 or 6, roll again.; Roll again to pick the starting square on that edge. Count that many squares from the left for the top or bottom edge, or from the top for the side edges. Put the marker there.; Move the walker one square at a time. For each step, roll the die: 1 is up, 2 is right, 3 is down and 4 is left. On a 5 or 6, roll again. If the step would take the walker off the grid, the walker stays where it is.; A walker sticks as soon as it is next to a shaded square, sharing a side. Touching only at a corner does not count. Shade the square the walker is on and write its number in it. The first walker is 1, the second is 2, and so on.; Take turns. On your turn, release one walker and walk it until it sticks. A round ends when a cluster has a shaded square on the edge of the sheet. The player who reaches the edge first wins the round.; Play 3 rounds, one on each sheet. The player who wins the most rounds wins the game. A tie is a shared win.; Playing alone: release walkers until the cluster reaches the edge, and count how many walkers it took. Play three rounds and try to beat your best.
+### g1 · Stick and Wander: grow a branching cluster with a die (29 min)
+- **rules:** Each player has a grid sheet with the middle square shaded. The shaded square is the seed. Each player needs a marker, such as a bean or a button, for the walker, and ideally a die of their own (a ludo die will do). Everyone plays at the same time on their own sheet. If there is only one die, pass it on each time a walker sticks. No die: toss two coins for each step instead (two heads is up, head and tail is right, tail and head is down, two tails is left), so no toss is wasted.; To release a walker, roll the die to pick an edge: 1 is the top edge, 2 the right edge, 3 the bottom edge and 4 the left edge. On a 5 or 6, roll again.; Roll again to pick the starting square on that edge. Count that many squares from the left for the top or bottom edge, or from the top for the side edges (a 6 means the last, seventh square). Put the marker there. If it starts next to the cluster, it sticks at once.; Move the walker one square at a time. For each step, roll the die: 1 is up, 2 is right, 3 is down and 4 is left. On a 5 or 6, roll again. If the step would take the walker off the grid, the walker stays where it is.; A walker sticks as soon as it is next to a shaded square, sharing a side. Touching only at a corner does not count. Shade the square the walker is on and write its number in it. The first walker is 1, the second is 2, and so on.; Take turns. On your turn, release one walker and walk it until it sticks. A round ends when a cluster has a shaded square on the edge of the sheet. The player who reaches the edge first wins the round. If a round has gone on for more than 10 minutes, stop it when a cluster has 9 shaded squares, and count the winner as the one with the most squares on the outer ring.; Play up to 3 rounds, one on each sheet. Two rounds are enough if time is short. The player who wins the most rounds wins the game. A tie is a shared win.; Playing alone: release walkers until the cluster reaches the edge, and count how many walkers it took. Play two or three rounds and try to beat your best.
 - **Printable board: 3 grid sheets: each a 7 by 7 grid of squares with the middle square shaded as the seed:** Grid sheet for round 1: 7 by 7 squares, middle square shaded; Grid sheet for round 2: 7 by 7 squares, middle square shaded; Grid sheet for round 3: 7 by 7 squares, middle square shaded
 - **Printable score sheet: 1 score sheet: for each round, the number of walkers needed to reach the edge:** Round 1: walkers used to reach the edge; Round 2: walkers used to reach the edge; Round 3: walkers used to reach the edge
 - **s1 (3 min)**  
@@ -253,10 +253,10 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent says:* Each of you has a grid and a seed in the middle. A walker will wander in from the edge and stick to the seed. Let us see what shape grows.  
   *Child mode:* Shade the middle square. Get a bean. Get a die.
 - **s2 (6 min)**  
-  *Parent does:* Play the first few turns. Release a walker, roll to pick its edge and its square, and walk it until it sticks. Shade and number the square.  
+  *Parent does:* Play the first few walkers. Release a walker, roll to pick its edge and its square, and walk it until it sticks. Shade and number the square.  
   *Parent says:* Roll to choose the edge. Roll again for the square. Now roll for each step. When the walker is next to a shaded square, it sticks. Shade its square.  
   *Child mode:* Roll to pick the edge. Roll for each step. When it touches, shade it.
-  - Note: The first walkers can take 15 or more rolls each. That is normal. A walker that wanders off the grid stays put, so every walker eventually sticks.
+  - Note: Typical numbers, not promises: a walker needs about 10 to 80 steps before it sticks, so 15 to 120 rolls, and the first walkers are the slowest. A round usually needs about 6 to 12 walkers and 100 to 400 rolls, which is 5 to 10 minutes. That is normal; nothing is wrong. A walker that wanders off the grid stays put, so every walker eventually sticks. Beans and buttons are small parts: keep them away from little brothers and sisters, and use buttons or paper squares if anyone has a food allergy to beans. Two to four children can each play their own sheet side by side; one child with a parent can race the parent.
 - **s3 (7 min)**  
   *Parent does:* Keep playing until one cluster has a shaded square on the edge. Write the number of walkers used on the score sheet.  
   *Parent says:* Keep going. Who will reach the edge first? Write down how many walkers it took.  
@@ -268,10 +268,10 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Child mode:* Look at your cluster. Mark the tips with a dot. Where do walkers stick most?
   - Ask: Why did more walkers stick to the tips than to the hollows? (good: A walker coming from outside meets a tip first.; The hollows are hidden between the arms.; The tips stick out.)
   - Check: Why do the arms of the cluster keep growing longer? → **A wandering walker is most likely to bump into a tip before it reaches a hollow**
-- **s5 (3 min)**  
-  *Parent does:* Play rounds 2 and 3 more quickly. Write the walker counts on the score sheet. Add up the rounds won and name the winner.  
-  *Parent says:* Play two more rounds, as fast as you can. Is each cluster the same? Is each the same kind of shape?  
-  *Child mode:* Play rounds 2 and 3. Count the walkers. Is each shape the same?
+- **s5 (8 min)**  
+  *Parent does:* Play round 2, and round 3 if there is time (a second sitting is fine). Write the walker counts on the score sheet. Add up the rounds won and name the winner.  
+  *Parent says:* Play another round, or two. Is each cluster the same? Is each the same kind of shape?  
+  *Child mode:* Play round 2, and round 3 if there is time. Count the walkers. Is each shape the same?
   - Ask: Were the three clusters exactly the same? (good: No, but they were the same kind of shape.; No. Each had arms, but in different places.)
   - Note: Every cluster is different because the dice are random. All of them have arms with sub-branches. The kind of shape is the same each time, and the exact shape is not.
 
@@ -279,7 +279,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 ### e1 · How Rough Is Your Coast? Count the boxes it touches (35 min)
 - **question:** When the boxes that cover a line are cut in half, how fast does the number of boxes touched grow? Does a crinkly coast grow like a straight line, like a filled page, or in between?
 - **predict:** Before you start, guess. A straight line touches 5 boxes of 4 centimetres. How many will it touch when the boxes are 2 centimetres? Will your crinkly coast grow by more, less or the same as the straight line? Why do you think so?
-- **fair test:** Draw the straight line and the coast on pages of the same size, 20 centimetres across. Use the same rule for counting a box every time: a box counts if the line passes through any part of it. Count each box size twice. Only the box size changes, so any difference in how fast the count grows comes from the line and not from the counting.
+- **fair test:** Draw the straight line and the coast on pages of the same size, 20 centimetres across. Work alone with a parent, or in a group of 2 to 4 where each child draws a coast. Use the same rule for counting a box every time: a box counts if the line passes through any part of it. Count each box size twice. Only the box size changes, so any difference in how fast the count grows comes from the line and not from the counting.
 - **safety:** Sharpen pencils with a grown-up, or use a sharpener with a cover.
 - **record:** Fill in the table. Stick your straight line and your coast in your notebook. Write the roughness number you found, and the word line, in between, or page for how it compares.
 - **results table:** Box size | Boxes touched by the straight line | Boxes touched by my coast | Coast ratio: this count divided by the count for boxes twice as big
@@ -309,13 +309,13 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* On page 2, count the boxes the coast touches. Do the 4 centimetre boxes first, then the 2 centimetre boxes, then the 1 centimetre boxes. Shade each box as you count it. Count each size twice. Write the counts in the table.  
   *Parent says:* Now the coast. Shade each box the coast touches, so you do not count one twice. Start with the biggest boxes. Count twice.  
   *Child mode:* Count the boxes the coast touches. Shade each one. Do it for each box size.
-  - Note: For a coast about 20 centimetres across with bays inside bays, typical counts are 10 to 14 for the 4 centimetre boxes, 25 to 35 for the 2 centimetre boxes, and 60 to 90 for the 1 centimetre boxes. Your own counts may differ. If your two counts of the same size differ by 2 or 3, use the average.
+  - Note: For a coast about 20 centimetres across with bays inside bays, typical counts are 10 to 14 for the 4 centimetre boxes, 25 to 35 for the 2 centimetre boxes, and 60 to 90 for the 1 centimetre boxes. Your own counts may differ. If your two counts of the same size differ by 2 or 3, use the average. With a parent, let the parent do the second count, and compare. With 2 to 4 children, swap coasts and let a friend do the second count; if the friend's numbers differ by more than 3, count the box again together.
 - **s6 (5 min)**  
   *Parent does:* Work out the ratios. Divide the 2 centimetre count by the 4 centimetre count. Divide the 1 centimetre count by the 2 centimetre count. Take the middle of the two answers. Then read the roughness number from the table. A ratio of 2.0 gives 1.0. A ratio of 2.2 gives 1.1. A ratio of 2.4 gives 1.3. A ratio of 2.6 gives 1.4. A ratio of 2.8 gives 1.5. A ratio of 3.0 gives 1.6. A ratio of 3.5 gives 1.8. A ratio of 4.0 gives 2.0.  
   *Parent says:* Divide each count by the one before. That tells you how many times the count grows when the boxes halve. Find the middle of your two answers. Now look it up in the table.  
   *Child mode:* Divide the counts. Find the middle ratio. Look up your roughness number.
   - Ask: Is your coast's ratio nearer to 2, to 4, or in between? (good: In between.; A bit more than 2.; Closer to 2 than to 4.)
-  - Note: A line gives a ratio of 2, which is roughness number 1. A filled page gives a ratio of 4, which is number 2. If your ratio is about 2.4, your coast is about 1.3. A hand drawn coast usually lands between 1.1 and 1.5. If your ratio is below 2, you probably missed boxes. Count again.
+  - Note: A line gives a ratio of 2, which is roughness number 1. A filled page gives a ratio of 4, which is number 2. If your ratio is about 2.4, your coast is about 1.3. A hand drawn coast usually lands between 1.1 and 1.5. If your ratio is below 2, you probably missed boxes. Count again. If the second ratio (1 centimetre over 2 centimetre) is smaller than the first, that is normal: your pencil line has run out of fine detail at 1 centimetre. This is why a roughness number is only true for the box sizes you used. Compare the numbers of friends: they will not match exactly.
   - Think: If you drew a smooth coast with only two or three gentle curves, what ratio would you expect?
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say what they found. Write the claim, the evidence and the reason.  
@@ -327,8 +327,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 ### e2 · Leaf Staircase: how far does each leaf turn round the stem? (25 min)
 - **question:** As leaves climb a stem, how much does each new leaf turn round the stem from the last one? Is it the same for every plant?
 - **predict:** Before you start, guess. How many leaves up the stem before you find one directly above the first? Will each leaf turn half a circle, a third, or something else? Why do you think so?
-- **fair test:** Use the same method on every stem: tag the leaves from the bottom, find the first leaf directly above the bottom one, count the leaves and follow a thread round the stem to count the turns. Count each stem twice, starting from a different leaf the second time, because one count can be wrong. Only the plant changes.
-- **safety:** Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Wash hands afterwards.
+- **fair test:** Use the same method on every stem: tag the leaves from the bottom, find the first leaf directly above the bottom one, count the leaves and follow a thread round the stem to count the turns. Count each stem twice, starting from a different leaf the second time, because one count can be wrong. Only the plant changes. With one child, the parent does the second count. With 2 to 4 children, each child takes a different plant: one holds the thread and one reads the tag numbers from above, then swap roles and compare.
+- **safety:** Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Some plants, such as chilli, can sting the eyes, and brinjal stems can have small thorns, so keep hands away from your face and touch gently. Wash hands afterwards. Do not taste any leaf.
 - **record:** Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn.
 - **results table:** Plant or stem | Leaves counted from bottom leaf to the leaf directly above it (n) | Turns round the stem (t) | Fraction of a turn per leaf (t divided by n) | Angle per leaf in degrees (360 times t divided by n)
 - **s1 (3 min)**  
@@ -346,7 +346,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Look down on the plant. Find the first leaf directly above leaf 0, on the same side of the stem. Note its number, n. Tie the thread loosely to leaf 0. Take it to leaf 1, then 2, and on up to leaf n, always the short way round the stem. Count how many times the thread goes round the stem. Call this t.  
   *Parent says:* Look from above. Which is the first leaf directly above leaf 0? That is n. Now wind the thread round the stem from leaf to leaf. How many times did it go round?  
   *Child mode:* Find the first leaf above leaf 0 on the same side. Follow the thread round. Count the turns.
-  - Note: Do not worry if no leaf is exactly above. Choose the closest. Typical results are n and t of 2 and 1, 3 and 1, 5 and 2, or 8 and 3. If the thread goes round the stem a different number of times when you check, use the second count.
+  - Note: Do not worry if no leaf is exactly above. Choose the closest, within about a quarter of a turn either side. Typical results are n and t of 2 and 1, 3 and 1, 5 and 2, or 8 and 3. If the thread goes round the stem a different number of times when you check, use the second count.
   - Check: A thread winds twice round the stem from leaf 0 to the first leaf directly above it, which is leaf 5. How many degrees does each leaf turn from the last? → **144 degrees**
 - **s4 (5 min)**  
   *Parent does:* Work out t divided by n, the fraction of a turn per leaf. Multiply by 360 to find the angle. Write both in the table. Compare your fraction with 1 over 2, 1 over 3, 2 over 5 and 3 over 8.  
@@ -370,6 +370,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 
 ## Activities
 ### a1 · Grow a Koch Curve: a 27 centimetre line that keeps getting longer (30 min)
+- **safety:** The compass point is sharp: keep it down on the paper and let a grown-up help younger children. Sharpen pencils with a grown-up.
 - **record:** A table with columns for the round, the number of pieces, the length of each piece and the total length. Add your guess for round 3.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to draw a straight line 27 centimetres long, near the middle of the page. Ask them to guess what happens to the length if you replace the middle third with a tent.  
@@ -378,22 +379,22 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Ask: Will the line with a tent be longer, shorter or the same length? Why? (good: Longer, because the tent goes up and down.; The same, because we only moved it.; Longer, because there are two sides in place of one.)
   - Note: Do not correct the guess. Any guess with a reason is good. Most children say the same or longer.
 - **s2 (8 min)**  
-  *Parent does:* Mark dots at 9 and 18 centimetres on the line. Rub out the line between the dots. At the left dot, draw a line of 9 centimetres going up and to the right at 60 degrees. At the right dot, draw a line of 9 centimetres going up and to the left at 60 degrees. They meet at a point. Add the lengths: 9, 9, 9 and 9.  
+  *Parent does:* Mark dots at 9 and 18 centimetres on the line. Rub out the line between the dots. At the left dot, draw a line of 9 centimetres going up and to the right at 60 degrees. At the right dot, draw a line of 9 centimetres going up and to the left at 60 degrees. They meet at a point. (With a compass set to 9 centimetres, put the point on each dot in turn and draw two small arcs that cross: the crossing is the top of the tent.) Add the lengths: 9, 9, 9 and 9.  
   *Parent says:* Mark the thirds. Rub out the middle piece. Draw the two sides of a tent, each 9 centimetres long. They meet at the top. Now add up the four pieces.  
   *Child mode:* Mark the thirds. Rub out the middle. Draw a tent with two 9 centimetre sides.
-  - Note: The tent sides and the rubbed-out piece are each 9 centimetres, so they make an equilateral triangle with the missing base. A 60 degree set square makes this easy. The total is 9 plus 9 plus 9 plus 9, which is 36 centimetres.
+  - Note: The tent sides and the rubbed-out piece are each 9 centimetres, so they make an equilateral triangle with the missing base. A 60 degree set square or a compass makes this easy. The total is 9 plus 9 plus 9 plus 9, which is 36 centimetres.
   - Check: After one round, the Koch curve has 4 pieces, each 9 centimetres long. What is the total length? → **36 centimetres**
 - **s3 (10 min)**  
   *Parent does:* Look at each of the four pieces. For each one, find the middle third, which is 3 centimetres. Rub it out and draw a tent with two sides of 3 centimetres. Always put the tent on your left as you walk along the piece from the left end of the page. Count the pieces and add the lengths.  
   *Parent says:* Do the same to every piece. Find its middle third. That is 3 centimetres. Rub it out and put in a small tent. Keep the tent on your left as you walk along the curve.  
   *Child mode:* Do the same on each of the four pieces. Use 3 centimetre tents.
-  - Note: There will be 16 pieces of 3 centimetres, so the length is 48 centimetres. The tents on the slanting pieces point to the left of the walking direction. Do not worry if the tents are not perfect. The shape is still a Koch curve.
+  - Note: There will be 16 pieces of 3 centimetres, so the length is 48 centimetres. The tents on the slanting pieces point to the left of the walking direction. Do not worry if the tents are not perfect. The shape is still a Koch curve. The compass method (set to 3 centimetres) works on slanting pieces, where a set square is awkward. With 2 to 4 children, each takes one of the four pieces for round 2 on a shared drawing, then everyone checks one another's tents and adds up the total together. One child alone, with a parent, does all four pieces.
 - **s4 (5 min)**  
-  *Parent does:* Fill in the table for rounds 0, 1 and 2. Ask your child to find the pattern in the lengths and to guess rounds 3 and 4.  
+  *Parent does:* Fill in the table for rounds 0, 1 and 2. Ask your child to find the pattern in the lengths and to guess rounds 3 and 4. Then test round 3 on one 3 centimetre piece.  
   *Parent says:* The lengths are 27, 36 and 48. How many times bigger does the length get each round? Can you guess the next two lengths?  
   *Child mode:* Fill in the table. Find the pattern. Guess the next two lengths.
   - Ask: What is the pattern in the lengths, and what comes next? (good: 36 is 27 times 4 over 3. 48 is 36 times 4 over 3.; Each time it is one third longer. Next is 64.; It goes up by 9, then 12, then 16.)
-  - Note: Round 3 has 64 pieces of 1 centimetre, so 64 centimetres. Round 4 has 256 pieces of one third of a centimetre, so about 85 centimetres. Each round multiplies the length by 4 over 3, which is the same as adding one third.
+  - Note: Round 3 has 64 pieces of 1 centimetre, so 64 centimetres. Round 4 has 256 pieces of one third of a centimetre, so about 85 centimetres. To check the guess for round 3 without drawing 64 tiny pieces, draw round 3 on just one 3 centimetre piece: it becomes 4 pieces of 1 centimetre, so 4 centimetres, one third longer. Each round multiplies the length by 4 over 3, which is the same as adding one third.
   - Check: Each round of a Koch curve makes the line 4 over 3 times as long. The length is 48 centimetres after round 2. What is it after round 3? → **64 centimetres**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to imagine going on for ever. Show them that three Koch curves joined in a triangle make a snowflake. Ask the question below.  
@@ -402,7 +403,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Ask: If the rule were repeated for ever, would the line fit on the page, and how long would it be? (good: It would fit on the page but be endless in length.; It would never stop getting longer.; It would be longer than any number.)
   - Note: The curve never leaves the page, because the tents stay small. Yet the length grows by one third each round, without end. This is why the curve is a fractal.
 ### a2 · Equal Gaps or Growing Gaps? A rope coil against a shell (25 min)
-- **safety:** Do not light the mosquito coil. Do not use one that has been lit. Wash your hands after touching it.
+- **safety:** Use only empty shells, and wash them and your hands afterwards. Never take a living snail. If you use a murukku, it is food: check for allergies such as sesame, and do not eat the one you measured. Broken shells can have sharp edges, so handle them with care.
 - **record:** A table with the width of each turn for the coil and for the shell, and the ratio of each turn to the one before.
 - **s1 (4 min)**  
   *Parent does:* Show your child the coil and the shell. Ask them to guess whether the gaps will be equal or growing. Write the guess down.  
@@ -414,7 +415,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Lay the ruler across the middle of the coil. Starting at the centre, measure the distance from each turn to the next. Write the gaps. Do the same on a second line across a different part of the coil.  
   *Parent says:* Lay the ruler across the middle. Measure from one turn to the next, going outwards. Write each gap. Are they the same?  
   *Child mode:* Lay the ruler across the coil. Measure each gap. Are the gaps the same?
-  - Note: A rope coil has gaps that are almost the same, within a millimetre or two. A murukku made with a press is also nearly equal. A mosquito coil is close to equal as well. If your gaps differ by more than a few millimetres, check that the ruler goes through the centre.
+  - Note: A rope coil has gaps that are almost the same, within a millimetre or two. A murukku made with a press is also nearly equal. If your gaps differ by more than a few millimetres, check that the ruler goes through the centre.
   - Check: A coil has gaps of 12, 12 and 11 millimetres. Which kind of spiral grows by adding the same amount each turn? → **An Archimedean spiral, like this coil**
 - **s3 (7 min)**  
   *Parent does:* Measure the width of each whorl of the shell, from the biggest to the smallest. Hold the ruler across the shell at the same place each time. Write the widths in a list. If you have no shell, measure a picture of one.  
@@ -426,7 +427,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent says:* Take away each width from the one before it. Do the answers match? Now divide each width by the one before it. Which gives nearly the same answer each time?  
   *Child mode:* Take away. Then divide. Which gives the same answer each time?
   - Ask: Did taking away or dividing give nearly the same answer each time? (good: Dividing.; The take-aways kept getting bigger but the divisions stayed near the same.; Dividing gave about 1.5 each time.)
-  - Note: For a shell, the take-aways grow while the divisions stay near the same number, often between 1.2 and 2. That number is the fraction by which each whorl is wider than the last. Some shells are less regular, especially if the shell is damaged or the growth was uneven.
+  - Note: For a shell, the take-aways grow while the divisions stay near the same number, often between 1.2 and 2. That number is the fraction by which each whorl is wider than the last. Some shells are less regular, especially if the shell is damaged or the growth was uneven. Real shells are only roughly regular: if the divisions are within about 0.2 of one another while the take-aways clearly grow, the shell passes. If nothing is steady, say so honestly; the shell may be damaged, or you may have measured at different places. With 2 to 4 children, each measures a different shell, then compare the ratios. Two shells of the same kind should give similar ratios, and different kinds can differ. One child alone measures two shells with a parent.
   - Check: A shell has whorl widths of 10, 15 and 22.5 millimetres. What do you get by dividing each width by the one before? → **About 1.5 each time, so the shell grows by a fraction**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to explain the difference between the two spirals.  
@@ -434,7 +435,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Child mode:* How is the shell different from the rope? Which keeps its shape?
   - Ask: How does the shell grow differently from the rope coil? (good: The shell grows by multiplying, and the rope by adding.; The shell's gaps get bigger. The rope's stay the same.; The shell keeps the same shape as it gets bigger.)
 ### a3 · Fold a Dragon: a fractal from a paper strip (25 min)
-- **safety:** A grown-up helps younger children with the scissors when cutting the paper strips.
+- **safety:** A grown-up helps younger children with the scissors when cutting the paper strips. Fold slowly: thin paper can give a paper cut.
 - **record:** Draw the shape you get after 1, 2, 3 and 4 folds. Write the number of creases for each.
 - **s1 (3 min)**  
   *Parent does:* Show the strip. Ask your child to guess what shape appears. You will fold the strip in half, then in half again. Then you will open it with the folds at right angles.  
@@ -452,7 +453,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Take a new strip and fold it in half three times in the same direction. Open it and set the creases to right angles. Trace the shape. Do the same with a fourth strip folded four times. Count the creases each time.  
   *Parent says:* Fold again, one more time each. Three folds, then four folds. Always the same way. Open and trace. Count the creases.  
   *Child mode:* Fold three times. Open. Trace. Then fold four times. Open. Trace.
-  - Note: After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon with curls. After five folds the paper is thick and hard to fold, so stop at four.
+  - Note: After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon with curls. After five folds the paper is thick and hard to fold, so stop at four. If the creases will not hold, press each one flat with a ruler edge. With 2 to 4 children, each folds and traces their own strip, then lay the shapes side by side to compare. One child alone, with a parent, can fold one strip each and compare.
 - **s4 (5 min)**  
   *Parent does:* Fill in the number of creases for 1, 2, 3 and 4 folds. Ask your child to find the pattern and to guess the creases after 5 folds.  
   *Parent says:* The creases are 1, 3, 7 and 15. What do you notice? How many creases after five folds?  
@@ -465,7 +466,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent says:* Look at the shape after four folds. Can you see the shape from three folds inside it? What does that remind you of?  
   *Child mode:* Look at the four-fold shape. Can you see the three-fold shape inside?
   - Ask: Can you find a smaller dragon inside the bigger one? (good: Yes, the first half is the same shape as the earlier dragon.; Each part looks like a smaller dragon.; It looks like the Koch curve, with a shape made of smaller copies.)
-  - Note: The curve after many folds is called the dragon curve. It was described by three NASA scientists in 1966, and it was made famous by the writer Martin Gardner in 1967. Each part looks like a smaller dragon, so it is a fractal. If you folded for ever, the dragon curve would cover a patch of the page without crossing itself.
+  - Note: The curve after many folds is called the dragon curve. It was first worked out by three physicists, John Heighway, Bruce Banks and William Harter, in 1966, and it was made famous by the writer Martin Gardner in 1967. Each part looks like a smaller dragon, so it is a fractal. If you folded for ever, the dragon curve would cover a patch of the page without crossing itself.
 ### a4 · The Chaos Game: a pattern from dots chosen by a die (26 min)
 - **safety:** Sharpen pencils with a grown-up, or use a sharpener with a cover.
 - **record:** Stick your page in your notebook. Write how many dots you made, and what shape they made.
@@ -483,13 +484,13 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Roll the die. If it shows 1 or 2, go towards A. If 3 or 4, go towards B. If 5 or 6, go towards C. Measure the distance from your last dot to that corner. Put a new dot halfway. Repeat until you have 50 dots.  
   *Parent says:* Roll. Choose the corner. Measure to it. Put the dot at the halfway point. Then roll again from that dot. Keep going for fifty dots.  
   *Child mode:* Roll. Pick a corner. Put a dot halfway to it. Do this 50 times.
-  - Note: Measuring in millimetres helps. A ruler placed from the dot to the corner gives the distance, and half of it is the new place. Ignore the first three or four dots. They may fall outside the pattern. If it is slow, take turns with a friend on the same page.
+  - Note: Measuring in millimetres helps. A ruler placed from the dot to the corner gives the distance, and half of it is the new place. Ignore the first three or four dots. They may fall outside the pattern. Fifty dots take about 12 to 15 minutes alone. If it is slow, stop at 40 dots, or share the work: one person rolls and calls the corner, one measures, and one marks the dot. Swap jobs every 10 dots. Do not worry about small errors; each halving shrinks an earlier mistake. No die: pick a paper chit from a bowl of six chits marked A, A, B, B, C, C, and put it back each time. Two to four children can each make their own page and then compare how the holes fall, which shows that chance changes the dots but not the pattern.
 - **s4 (4 min)**  
   *Parent does:* Look at the dots together. Ask where there are gaps, and what shape the gaps make.  
   *Parent says:* Look at the page. Are there places with no dots? What shape are they? What do you see inside the gaps?  
   *Child mode:* Look at the dots. Where are there gaps? What shape are the gaps?
   - Ask: What do you notice about the gaps in the dots? (good: There is a hole in the middle, shaped like a triangle.; There are smaller holes round the edges too.; The dots make triangles with triangles inside.)
-  - Note: After 50 dots, the middle of the triangle usually has a clear hole, and smaller holes appear nearer the corners. With more dots, the pattern becomes the Sierpinski triangle, a triangle made of three smaller triangles, each made of three smaller ones, and so on. It is a triangle with triangles inside triangles.
+  - Note: After 50 dots, the middle of the triangle usually has a clear hole, and smaller holes appear nearer the corners. With 50 dots the holes are only hinted at: it is typical, not exact, so say what you see. With 200 or more dots, the pattern becomes the Sierpinski triangle, a triangle made of three smaller triangles, each made of three smaller ones, and so on. It is a triangle with triangles inside triangles.
   - Check: In the Chaos Game, the dots go wherever the die says. Why does the same pattern still appear each time? → **The rule of moving halfway to a corner never lands a dot in the middle holes, however the die falls**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say what surprised them. Ask them to think of one more thing where a simple rule and chance make a pattern.  
@@ -508,17 +509,17 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Child mode:* Make a template. Trace 27 triangles. Cut them out.
   - Note: To draw a triangle with three equal sides, use a set square or a protractor, or measure a 4 centimetre line and use a thread of 4 centimetres to find the third point. Alternate two colours if you like. Stack several sheets so one cut makes several triangles.
 - **s2 (20 min)**  
-  *Parent does:* On day 2, glue the triangles in groups of 3. Put two triangles side by side with the corners touching, then the third on top, touching both. Make 9 groups. Count the holes.  
+  *Parent does:* On day 2, glue the triangles in groups of 3. Put two triangles side by side with the corners touching, then the third on top, touching both. Make 9 groups. Count the holes. Triangles that touch only at corners hold badly. Overlap each corner by 5 millimetres and glue the overlap.  
   *Parent says:* Today we make groups of three. Two triangles sit at the bottom, touching at the corners. The third sits on top. There is a triangular hole in the middle. Make nine groups.  
   *Child mode:* Glue 3 triangles into one group. Make 9 groups.
   - Check: A group of 3 small triangles is glued corner to corner into a bigger triangle. What is in the middle of the bigger triangle? → **A triangular hole**
   - Wait: Next day
 - **s3 (20 min)**  
-  *Parent does:* On day 3, glue 3 of the groups corner to corner to make a bigger group. Make 3 of these. Then glue the 3 big groups corner to corner into one very big triangle on the backing card. Count the holes of different sizes.  
-  *Parent says:* Now we put 3 groups together, then 3 of those. The same rule, bigger each time. How many sizes of hole can you see?  
-  *Child mode:* Glue 3 groups together. Make 3 bigger groups. Glue them into one big triangle.
+  *Parent does:* On day 3, lightly draw a guide triangle with 32 centimetre sides on the backing card. Lay 3 of the groups corner to corner to make a bigger group. Make 3 of these. Lay the 3 big groups corner to corner inside the guide. Check the holes, then glue every group down onto the card, in its place. Count the holes of different sizes.  
+  *Parent says:* Now we put 3 groups together, then 3 of those, on the card. The same rule, bigger each time. How many sizes of hole can you see?  
+  *Child mode:* Lay 3 groups together. Make 3 bigger groups. Place them in one big triangle, then glue them down on the card.
   - Ask: How many different sizes of triangular hole do you see? (good: Three sizes: small, medium and big.; A big one in the middle and smaller ones in the groups.)
-  - Note: The finished triangle has 27 paper triangles and holes of three sizes. The paper covers 27 out of 64 of the area of a full triangle of the same side, which is a little less than half. If you carried on for ever, the paper would cover less and less, and in the end almost nothing.
+  - Note: The finished triangle has 27 paper triangles and holes of three sizes. The paper covers 27 out of 64 of the area of a full triangle of the same side, which is a little less than half. If you carried on for ever, the paper would cover less and less, and in the end almost nothing. One child with a parent spreads the work over three days. Three children can finish in one sitting: each cuts 9 triangles, makes 3 groups and builds one big group of 9, then the three big groups go on the card together. Four children: the fourth draws the guide triangle and checks the holes. Scissors and glue are the only things to watch; a glue stick is safe for children.
   - Wait: Next day
 
 ## Challenges
@@ -537,7 +538,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Draw a separate pipe from the tap to each pot, along the grid lines. Count the squares from the tap to the nearest pot and to the furthest pot. Add up the pipe.  
   *Parent says:* Try a star first. Is the nearest pot the same distance as the furthest? How much pipe is that in all?  
   *Child mode:* Draw a pipe from the tap to every pot. Which pot is nearest? Which is furthest?
-  - Note: The star gives different distances for pots near to and far from the tap, so the near pots would get water first. This shows the problem to solve.
+  - Note: The star gives different distances for pots near to and far from the tap, so the near pots would get water first. This shows the problem to solve. Along the grid lines the nearest pots are 2 squares away and the furthest 6, and the separate pipes add up to 64 squares. Work alone with a parent, or in a group of 2 to 4 where each child designs a network and then everyone checks the others.
 - **s3 (12 min)**  
   *Parent does:* Now draw an H-tree. From the tap, draw a pipe 2 squares left and 2 squares right. From each end, draw a pipe 2 squares up and 2 squares down. From each of those ends, draw a pipe 1 square left and 1 square right. From each of those ends, draw a pipe 1 square up and 1 square down. Check that each pipe ends at a pot. Add up the lengths from the tap to one pot, and to another.  
   *Parent says:* Draw the H in four steps. First two squares left and right. Then two squares up and down. Then one square left and right. Then one up and down. Every pot is reached. Is the distance the same for every pot?  
@@ -547,8 +548,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Add up all the pipe in the H-tree. Count the pieces of each length. There are 2 pieces of 2 squares and 4 more of 2 squares. There are 8 of 1 square and 16 of 1 square. Compare it with the star.  
   *Parent says:* Add up all the pipe. How many pieces of each length? How much pipe in all? Which design uses less pipe, the star or the H?  
   *Child mode:* Add up all the pipe in the H-tree. Compare it with the star.
-  - Ask: Which design is better, the star or the H-tree, and why? (good: The H-tree, because every pot gets water at the same time.; The star uses less pipe, but the distances are not the same.; It depends on what you want.)
-  - Note: The H-tree uses 36 squares of pipe, which is 36 times 15 centimetres, which is 540 centimetres. Every pot is 6 squares away. A star has pots at different distances and may use more or less pipe depending on the layout. If a child finds a network with less pipe and equal distances, check it carefully and celebrate.
+  - Ask: Which design is better, the star or the H-tree, and why? (good: The H-tree, because every pot gets water at the same time.; The star has pots at different distances, and it uses more pipe than the H-tree.; It depends on what you want.)
+  - Note: The H-tree uses 36 squares of pipe, which is 36 times 15 centimetres, which is 540 centimetres. Every pot is 6 squares away. A star has pots at different distances and, along the grid lines, uses 64 squares of pipe, almost twice as much. If a child finds a network with less pipe and equal distances, check it carefully and celebrate.
 
 ## Worksheets
 ### Doubling, Rules and Turns (core) (core, 16 questions)
@@ -704,7 +705,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
    **Answer:** 3 over 8 of a circle. *Why:* 3 over 8 of a circle is 135 degrees, which is the closest to the golden angle of about 137.5 degrees. 1 over 3 is 120 degrees, 1 over 4 is 90 and 1 over 2 is 180.
 10. (mcq) Which problem does the branching of the airways help a lung solve?  
    Options: Fitting a very large surface for air into a small space / Making the voice louder / Keeping the chest light / Keeping all dust out  
-   **Answer:** Fitting a very large surface for air into a small space. *Why:* Oxygen can only pass into the blood through a thin surface. Branching packs a surface as large as a badminton court into the chest.
+   **Answer:** Fitting a very large surface for air into a small space. *Why:* Oxygen can only pass into the blood through a thin surface. Branching packs a surface about as big as half a tennis court into the chest.
 11. (mcq) Why do cyclones spiral?  
    Options: The Earth's spin bends air rushing in to a low-pressure centre / Cyclones grow by a fixed fraction like shells / Water drains in a sink / Waves of squeezing move through stars  
    **Answer:** The Earth's spin bends air rushing in to a low-pressure centre. *Why:* Air moving over a long distance is bent by the spin of the Earth. Air rushing into a low-pressure centre is bent into a spiral.
@@ -718,7 +719,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - Engineers build fractal antennas that fold a long wire into a small space so a phone can catch several wavelengths.
 - Computer artists use a few simple rules and a die to draw ferns, clouds and mountains for films and games.
 - Plant breeders and gardeners use the arrangement of leaves to space plants so that every leaf gets light.
-- Shell researchers use three numbers to describe and compare the shapes of coiled shells, including fossils.
+- Shell researchers use a few numbers to describe and compare the shapes of coiled shells, including fossils.
 - Weather forecasters track the spiral of a cyclone to predict where it will land and how strong it will be.
 - Chemists and physicists use random-walker models to understand how crystals, soot and metals grow in branches.
 - Water engineers design pipe networks with equal path lengths, like the H-tree, to deliver water or signals to many places at the same time.
