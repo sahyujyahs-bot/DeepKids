@@ -7,7 +7,7 @@
   "art": "A tar road and a whitewashed wall side by side in strong sunshine, a phone held up to a TV remote showing a purple glow, and a small lamp far down the street looking dim."
  },
  "intro": {
-  "hook": "Stand barefoot on a tar road at noon, then step onto the whitewashed wall's cool shade. Same Sun, same sunlight. Why is the road so hot? Where did the light go when it landed on the road?",
+  "hook": "Imagine standing barefoot on a tar road at noon (do not try it, it can burn), then stepping into the cool shade of a whitewashed wall. Same Sun, same sunlight. Why is the road so hot? Where did the light go when it landed on the road?",
   "text": "Light does not just let us see. It carries energy, and when a surface takes the light in, that energy turns into heat. A lamp far away looks dim for a different reason. Its light spreads out over a wider and wider space, so each patch of your eye gets less. In this unit you will measure how fast a torch beam thins out, race ice cubes on black paper and white paper, and use a phone camera to catch light your eyes cannot see. You will also meet the long family of waves that light belongs to, from radio to X-rays.",
   "art": "A child in a dark room holding a torch toward squared paper on a wall, with the beam shown widening like a cone, and a bar of coloured light at the side labelled the family of light."
  },
@@ -140,7 +140,7 @@
   {
    "term": "Radiation pressure",
    "meaning": "Radiation pressure is the tiny push that light gives to anything it lands on. It is very weak, but it is real.",
-   "example": "Sunlight pushes on a spacecraft, with a force smaller than the weight of a grain of sugar on each square metre.",
+   "example": "Sunlight pushes on a spacecraft, with a force about the weight of a grain of sugar on each square metre.",
    "art": "A shiny spacecraft sail with tiny arrows of sunlight pushing on it."
   },
   {
@@ -297,7 +297,7 @@
    "concept": "Ultraviolet, X-rays and gamma rays: short waves with big energy",
    "status": "defined",
    "definition": "Ultraviolet, X-rays and gamma rays have very short wavelengths. Each photon carries a lot of energy, enough to damage living cells.",
-   "description": "A photon of ultraviolet light carries more energy than a photon of blue light. It can burn skin, which is why we wear hats and sunscreen at the beach. Bees, and many birds, can see some ultraviolet. X-rays carry even more energy. They pass through soft parts of the body but are stopped by bone, so doctors use them to see inside us. Rosalind Franklin used X-rays in 1952 to take the photograph that helped show the shape of DNA. Marie Curie built mobile X-ray units in the First World War to help doctors find bullets and broken bones. Because X-rays can harm cells, they are used carefully and only when needed. Gamma rays carry the most energy of all.",
+   "description": "A photon of ultraviolet light carries more energy than a photon of blue light. It can burn skin, which is why we wear hats and sunscreen at the beach. Bees, and many birds, can see some ultraviolet. X-rays carry even more energy. They pass through soft parts of the body but are stopped by bone, so doctors use them to see inside us. Rosalind Franklin and her student Raymond Gosling used X-rays in 1952 to take the photograph that helped show the shape of DNA. Marie Curie set up mobile X-ray units in the First World War to help doctors find bullets and broken bones. Because X-rays can harm cells, they are used carefully and only when needed. Gamma rays carry the most energy of all.",
    "examples": [
     "A hospital X-ray photo of a broken arm shows white bone against darker soft flesh.",
     "A bee sees patterns on a flower that are invisible to us, because they are painted in ultraviolet.",
@@ -351,7 +351,7 @@
    "definition": "",
    "description": "Telescopes can detect a faint glow of microwaves coming from every direction in the sky. It is the oldest light there is. It was set free about 380,000 years after the universe began, when the hot young universe cooled enough to let light travel. In the mid-1960s two radio engineers, Arno Penzias and Robert Wilson, found it by accident. Their antenna in New Jersey kept picking up a steady hiss. They even cleaned out pigeon droppings from the antenna, but the hiss stayed. As the universe grew, the waves of that old light were stretched until they became microwaves. Scientists agree the glow is real and very smooth. They argue about why it is so smooth, and about what came before it.",
    "examples": [
-    "A small part of the hiss between channels on an old analogue TV came from this old light.",
+    "A tiny part of the hiss and snow between channels on an old analogue TV is said to have come from this old light.",
     "The glow is a little bit warmer in some directions and cooler in others. Those tiny differences are the seeds of galaxies.",
     "The glow is about 3 degrees above absolute zero, the coldest anything can be."
    ],
@@ -511,7 +511,7 @@
   "read_aloud": true,
   "note": "A made-up story built on real events. In 1800, William Herschel really did spread sunlight into colours with a prism and measure the heat of each colour with thermometers. He really did find that the thermometer just past the red end got warmest. His sister Caroline, a real astronomer who found comets, lived in his house. Nell Hart, her questions and her part in the discovery are imagined. The words they speak are made up.",
   "text": [
-   "In the summer of 1800, in the town of Slough in England, there lived a famous astronomer named William Herschel. Years before, he had found a new planet. Now he lived in a house full of telescopes, brass tubes, mirrors and clocks.",
+   "In the year 1800, in the town of Slough in England, there lived a famous astronomer named William Herschel. Years before, he had found a new planet. Now he lived in a house full of telescopes, brass tubes, mirrors and clocks.",
    "Nell Hart was eleven. She came to the house every morning to help. She polished the brass and carried the tea. Best of all, when Mr Herschel's hands were busy, she wrote his numbers in a big book. Her handwriting was very neat.",
    "One bright morning, Mr Herschel closed the shutters of the sunniest room, and left one thin slit. A bar of sunlight came through. He held a glass prism in it. On the table, the white light spread into a band of colours. Red at one end, then orange, yellow, green, blue and violet at the other. Nell had seen rainbows in the sky. She had never seen one lying on a table.",
    "'Here is my puzzle,' said Mr Herschel. 'When I look at the Sun through my telescope, I put coloured glass in front of my eye. The red glass makes my hand warm. Some other glasses do not. Does each colour of sunlight carry its own amount of heat?'",
@@ -639,7 +639,7 @@
       },
       {
        "f": "Mission control at ISRO talks to a spacecraft far out in space.",
-       "b": "Radio waves. They cross empty space at the speed of light, and the long wavelength is easy to catch with a big dish."
+       "b": "Radio waves. They cross empty space at the speed of light, and a big dish can catch them. Some space signals use the short end of the radio range, which many people call microwaves."
       },
       {
        "f": "A giant dish near Pune listens to a spinning dead star far away.",
@@ -722,7 +722,7 @@
        "b": "Gamma rays. They are the shortest waves in the family and carry the most energy."
       },
       {
-       "f": "Spices and mangoes for export are sometimes treated with a beam to kill germs and pests.",
+       "f": "Mangoes sent abroad are sometimes treated with a beam to kill pests.",
        "b": "Gamma rays, in many cases. The beam does not make the food radioactive, and the food is kept in a sealed room while it is treated."
       }
      ]
@@ -742,15 +742,15 @@
     },
     {
      "kind": "tokens",
-     "title": "Paper stars, buttons or coins to count points (40 are enough)",
+     "title": "Paper stars, buttons or coins to count points (48 are enough)",
      "items": [
-      "Cut out 40 small paper stars, or use buttons or coins"
+      "Cut out 48 small paper stars, or use buttons or coins"
      ]
     }
    ],
    "rules": [
     "Lay the 7 signs of the Family Line in a row, with radio waves at the left and gamma rays at the right. This is the order from the longest waves to the shortest.",
-    "Shuffle the 24 cards and make a face-down pile. Put the 40 stars in a heap in the middle.",
+    "Shuffle the 24 cards and make a face-down pile. Put the 48 stars in a heap in the middle.",
     "On your turn, take the top card and read the front aloud. Do not read the back.",
     "Say which sign you think the card belongs under, and why. Put the card under that sign.",
     "Now read the back aloud. If you picked the right sign, take 2 stars. If you were wrong, move the card to the right sign and take 1 star for any good reason.",
@@ -850,7 +850,7 @@
   {
    "id": "g2",
    "title": "Lantern Stalls: how many lanterns does each stall need?",
-   "mins": 20,
+   "mins": 22,
    "players": "1 to 4 players. Alone, with a parent or with friends.",
    "context": "This is a number game about how light thins out with distance. Each card is a stall at a night fair, and you decide how many lanterns to hang on the post so that customers can read the prices.",
    "setup": [
@@ -984,15 +984,15 @@
     },
     {
      "kind": "tokens",
-     "title": "Paper stars, buttons or coins to count points (30 are enough)",
+     "title": "Paper stars, buttons or coins to count points (48 are enough)",
      "items": [
-      "Cut out 30 small paper stars, or use buttons or coins"
+      "Cut out 48 small paper stars, or use buttons or coins"
      ]
     }
    ],
    "rules": [
     "Put the Lantern Light Table where everyone can see it. It shows how much light one lantern gives at each distance. Light is counted in light units.",
-    "Shuffle the 24 stall cards and make a face-down pile. Put the 30 stars in a heap in the middle.",
+    "Shuffle the 24 stall cards and make a face-down pile. Put the 48 stars in a heap in the middle.",
     "On your turn, take the top card and read the front aloud. Do not read the back.",
     "Work out how many lanterns the post needs, so that the stall gets at least the light it needs. Say your number and show your working.",
     "Read the back. If your number is exactly right, take 2 stars. If you hung one lantern too many, take 1 star. If you hung too few, take none.",
@@ -1323,7 +1323,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never look straight at the Sun. If you use a lamp on a cloudy day, a grown-up must set it up, because the bulb gets hot.",
+   "safety": "Never look straight at the Sun. If you use a lamp on a cloudy day, a grown-up must set it up, because the bulb gets hot. A steel tray left in the sun gets hot, so touch it with care.",
    "record": "Fill in the table. Then draw a bar chart with one bar for each paper, showing how many minutes the cube lasted. Write which colour melted its cube first and which last.",
    "context": "In this experiment, you place ice cubes on black, blue, yellow and white paper in the sunshine. You find out which colour makes the ice melt first, and what that shows about what colours do with light.",
    "setup": [
@@ -1726,6 +1726,7 @@
     }
    ],
    "record": "A drawn chain of boxes with arrows from the Sun to an idli, with a short label in every box, and a second chain of your own choice.",
+   "safety": "Raw rice and dal are for looking only, not for eating, and small children must not put grains in their mouths or noses. If anyone has a food allergy, use pictures instead of the grains.",
    "context": "In this activity, you follow the energy in a plate of idli back to sunlight, step by step. You find that most of the energy in your food was sunlight a short while ago.",
    "setup": [
     {
@@ -2052,12 +2053,12 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 40,
+     "mins": 45,
      "what": "Make the oil spot paper. Compare the phone torch with one key-ring torch and work out how many times brighter the phone torch is."
     },
     {
      "day": 2,
-     "mins": 30,
+     "mins": 25,
      "what": "Tape the two key-ring torches together and test whether they give twice the light of one."
     }
    ],
@@ -2139,7 +2140,7 @@
     {
      "id": "s5",
      "mins": 25,
-     "do": "On day 2, tape the two key-ring torches together so that they point the same way. Repeat the test with the phone torch fixed at 50 centimetres. Find the new distance where the spot vanishes. Work out how many times brighter than the phone torch the pair is, and compare with the single torch.",
+     "do": "On day 2, tape the two key-ring torches together so that they point the same way. Repeat the test with the phone torch fixed at 50 centimetres. Find the new distance where the spot vanishes. Work out how many times brighter than one key-ring torch the pair is.",
      "say": "Now two torches give light on one side. Should the spot vanish at a different distance? Do the sum again. Is the pair about twice as bright as one?",
      "kid": "Tape the two small torches together. Find the new place where the spot vanishes. Do the sum again.",
      "parent": "The pair should balance at about 1.4 times the distance of a single torch, because 1.4 times 1.4 is about 2. That means the pair is about twice as bright. Real results will be rough. If your answer is between 1.5 and 2.5, the meter is working.",
@@ -2153,8 +2154,8 @@
   {
    "id": "c1",
    "title": "Ice Challenge: melt one cube first, and keep another one longest",
-   "mins": 40,
-   "problem": "You have two ice cubes of the same size and one hour of sunshine. Using only things from the kitchen, make one cube melt as fast as you can, and keep the other cube from melting for as long as you can.",
+   "mins": 35,
+   "problem": "You have two ice cubes of the same size and 30 minutes of sunshine. Using only things from the kitchen, make one cube melt as fast as you can, and keep the other cube from melting for as long as you can.",
    "constraints": [
     "The two cubes must start the same size and sit in the same sunshine.",
     "You may use paper, cloth, foil, cups, jars, plates and cardboard. You may not use any heater, stove or hot water.",

@@ -165,7 +165,7 @@
    "status": "defined",
    "context": "This card says how to read a decibel number and why the numbers grow in a special way.",
    "definition": "The decibel scale measures how strong a sound is. Every 10 decibels more means 10 times as much sound energy, and a sound that seems about twice as loud.",
-   "description": "A whisper is about 30 decibels. A conversation is about 60. That is 30 decibels more, which is three steps of 10. Each step multiplies the sound energy by 10, so a conversation has 10 times 10 times 10, or 1,000 times, the energy of a whisper. Yet it only sounds about 8 times as loud to us, because our ears squash a very big range into a smaller one. That is why the scale is useful. Our ears can handle sounds from the faintest to a jet plane close by, which differ in energy by a factor of about a trillion. The decibel numbers for these are only 0 to about 130. Common sounds: leaves rustling about 20, a quiet room 35, a refrigerator 40, a busy street 80, a mixer-grinder 85 to 90, a motorbike passing close 95, a car horn close by 110, a firecracker close by 140.",
+   "description": "A whisper is about 30 decibels. A conversation is about 60. That is 30 decibels more, which is three steps of 10. Each step multiplies the sound energy by 10, so a conversation has 10 times 10 times 10, or 1,000 times, the energy of a whisper. Yet it only sounds about 8 times as loud to us, because our ears squash a very big range into a smaller one. That is why the scale is useful. Our ears can handle sounds from the faintest to a jet plane close by, which differ in energy by a factor of about ten trillion. The decibel numbers for these are only 0 to about 130. Common sounds: leaves rustling about 20, a quiet room 35, a refrigerator 40, a busy street 80, a mixer-grinder 85 to 90, a motorbike passing close 95, a car horn close by 110, a firecracker close by 140.",
    "examples": [
     "A conversation at 60 decibels has 1,000 times the sound energy of a whisper at 30 decibels.",
     "A busy street at 80 decibels sounds about 4 times as loud as a conversation at 60.",
@@ -179,7 +179,7 @@
    "status": "defined",
    "context": "This card gives the rule for how long you can listen to a loud sound without harming your ears.",
    "definition": "The louder a sound, the shorter the time it is safe to listen. Health agencies say that about 85 decibels is safe for about 8 hours, and that every 3 decibels more means half the safe time.",
-   "description": "The hair cells in your cochlea can be damaged by loud sound, and in people they do not grow back. Damage depends on both the loudness and the time. At 85 decibels, such as a busy road or a mixer-grinder, the safe time is about 8 hours. At 88 decibels it is about 4 hours. At 91 it is about 2 hours, at 94 about 1 hour, at 97 about 30 minutes and at 100 decibels about 15 minutes. At 110 decibels, such as a loud speaker at a wedding, harm can start in a minute or two. Indian rules for noise say that in homes and residential areas, sound should be no more than 55 decibels by day and 45 by night, and that a firecracker should not be louder than about 125 decibels when measured 4 metres away. Earplugs or moving away reduce the level a lot. Most hearing damage from noise has no pain at the time, which is why we must go by numbers. Never push cotton buds, pins or anything else into the ear. The ear cleans itself, and a push can hurt the eardrum.",
+   "description": "The hair cells in your cochlea can be damaged by loud sound, and in people they do not grow back. Damage depends on both the loudness and the time. At 85 decibels, such as a mixer-grinder or very heavy traffic, the safe time is about 8 hours. At 88 decibels it is about 4 hours. At 91 it is about 2 hours, at 94 about 1 hour, at 97 about 30 minutes and at 100 decibels about 15 minutes. At 110 decibels, such as a loud speaker at a wedding, harm can start in a minute or two. Indian rules for noise say that in homes and residential areas, sound should be no more than 55 decibels by day and 45 by night, and that a firecracker should not be louder than about 125 decibels when measured 4 metres away. Earplugs or moving away reduce the level a lot. Most hearing damage from noise has no pain at the time, which is why we must go by numbers. Never push cotton buds, pins or anything else into the ear. The ear cleans itself, and a push can hurt the eardrum.",
    "examples": [
     "At 85 decibels, about 8 hours is the safe limit.",
     "At 100 decibels, such as a drill or a motorbike near the ear, only about 15 minutes is safe.",
@@ -518,7 +518,7 @@
    "evidence": "In the Sound Clock, pointing was good with two ears open and went wrong when one ear was covered, although the sound was exactly the same. If your results differ, write them down as they are and test again."
   },
   "three": {
-   "who_am_i": "You hear the world through a head with two ears and a brain that compares them. Someone with one ear hears the same room, and builds the places of its sounds in a slightly different way.",
+   "who_am_i": "You hear the world through a head with two ears and a brain that compares them. Someone with one ear hears the same room, and builds the places of the sounds in a slightly different way.",
    "what_is_life": "A barn owl has ears at different heights, so she can tell above from below. A cricket hears with her knees, and a mosquito with his antennae. Every kind of listener builds a world to suit their own body.",
    "what_is_this_world": "A sound is a wave of squeezes in the air, and it carries energy and rhythm, but no map. The map and the loudness are made where the wave is heard."
   },
@@ -758,7 +758,7 @@
        "q": "Which sound surprised you most, and why?",
        "good": [
         "Headphones turned up full, because I did not know they can be that loud.",
-        "The mosquito, because it seems so small.",
+        "The mosquito, because she is so tiny.",
         "A city street, because it is louder than I thought."
        ]
       }
@@ -834,8 +834,8 @@
      "buy": "b-earmuffs"
     },
     {
-     "item": "8 small paper slips marked Front, Front-right, Right, Back-right, Back, Back-left, Left and Front-left",
-     "qty": 8
+     "item": "24 small paper slips: 8 marked Front, Front-right, Right, Back-right, Back, Back-left, Left and Front-left for the floor circle, and 16 more to draw from, two for each place",
+     "qty": 24
     },
     {
      "item": "a pencil and the results table",
@@ -1012,6 +1012,8 @@
     "Digits right at 1 metre (out of 5)",
     "Digits right at 2 metres (out of 5)",
     "Digits right at 3 metres (out of 5)",
+    "Digits right at 4 metres (out of 5)",
+    "Digits right at 5 metres (out of 5)",
     "Furthest distance with 4 or 5 right (metres)"
    ],
    "materials": [
@@ -1638,7 +1640,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the music at the loudness of a normal conversation. Do not press the balloon hard against a speaker cone, because it can burst.",
+   "safety": "Keep the music at the loudness of a normal conversation. Do not press the balloon hard against a speaker cone, because it can burst. If anyone is allergic to latex, use a paper cup or a plastic tub with cling film stretched over the top instead. Pick up burst balloon pieces at once, and keep them away from small children.",
    "schedule": [
     {
      "day": 1,
@@ -2051,7 +2053,7 @@
     "A helper wearing earmuffs tests it. The helper is not allowed to peek at the door."
    ],
    "materials": [
-    "a torch or a lamp that can be switched on and off from the door",
+    "a battery torch that can be switched on and off (no mains lamp and no long electric wires)",
     "string, cloth or a small flag",
     "a phone, which can make a light flash or vibrate on the table",
     "tape and scissors, used by a grown-up",
@@ -2106,7 +2108,7 @@
      "do": "Choose the better idea. Build it. Make it work from the door to the kitchen. Test that it works while you stand next to it.",
      "say": "Choose the idea you like best. Build it, and check that it works when you press the switch or pull the string.",
      "kid": "Pick your best idea. Build it. Test it.",
-     "parent": "A grown-up should do any cutting or taping. Make sure strings run along walls where nobody will trip. Switch off any lamp after use.",
+     "parent": "A grown-up should do any cutting or taping. Make sure strings run along walls where nobody will trip. Use only a battery torch or a phone light, never mains wiring or an extension cord laid across the floor.",
      "context": "In this step, you build your signal and check that it works."
     },
     {
@@ -2985,9 +2987,9 @@
    "title": "How to truly listen",
    "channel": "TED (Evelyn Glennie)",
    "youtube": "IU3V6zNER4g",
-   "mins": 12,
+   "mins": 34,
    "why": "For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body, and explains what it means to listen.",
-   "check": "Title and channel confirmed. Preview it first. Some parts are long for a young child, so pick a section to watch."
+   "check": "Title and channel confirmed. The full talk is about 34 minutes. Preview it first and pick a section to watch with a young child."
   },
   {
    "title": "Auditory Transduction (2002)",

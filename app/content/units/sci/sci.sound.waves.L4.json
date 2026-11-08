@@ -422,7 +422,7 @@
   "title": "The Pebble on the Bridge",
   "mins": 10,
   "read_aloud": true,
-  "note": "A made-up story. The science in it is real. Footbridges do sway, and a crowd that moves in time with the sway can make it grow. In June 2000 the Millennium Bridge in London swayed on its opening days and was closed for about two years to fix it. It is also reported that a bridge near Manchester in England broke in 1831 when soldiers marched across in step, and soldiers have been told to break step on bridges ever since.",
+  "note": "A made-up story. The science in it is real. Footbridges do sway, and a crowd that moves in time with the sway can make it grow. In June 2000 the Millennium Bridge in London swayed on its opening days and was closed for about two years to fix it. It is also reported that a bridge near Manchester in England broke in 1831 when soldiers marched across in step, though an inquiry also found a weak iron bolt, and soldiers have been told to break step on bridges ever since.",
   "text": [
    "Dechen was nine, and every morning she crossed the Teesta river on the hanging bridge to get to school. The bridge was sixty steps long. It was made of steel cables and wooden planks, and it swayed a little whenever anyone walked on it.",
    "Dechen liked the swaying. She had a game. Tied to the rail near the middle was a long thread with a pebble on the end. Madam Lhamu, her science teacher, had shown her how to make it. When the bridge swayed, the pebble swung.",
@@ -515,7 +515,7 @@
   "art": "A child sitting still with two fingers on her wrist, a washer pendulum swinging beside her, and faint rings of ripples and a pulsar beam behind her."
  },
  "how_we_found_out": {
-  "story": "In 1967 Jocelyn Bell was a research student at Cambridge in England. She helped build a field of wires and posts that listened to radio waves from the sky. It drew long rolls of paper chart every day, and she read them all by eye. One night she spotted a tiny squiggle that she called a bit of scruff. At first the team thought it was interference from something on Earth, such as a car or a radio set. But the squiggle came back each night about four minutes earlier, the way the stars do, so it could not be from Earth. When she ran the chart faster, she saw a string of pulses about 1.3 seconds apart, as steady as a clock. Many astronomers thought no star could beat so evenly. The team joked that it might be little green men. Then Bell found a second beat in another part of the sky, and then more. Scientists soon agreed they were spinning neutron stars. The Nobel Prize in 1974 went to her supervisor, Antony Hewish, and not to her.",
+  "story": "In 1967 Jocelyn Bell was a research student at Cambridge in England. She helped build a field of wires and posts that listened to radio waves from the sky. It drew long rolls of paper chart every day, and she read them all by eye. One night she spotted a tiny squiggle that she called a bit of scruff. At first the team thought it was interference from something on Earth, such as a car or a radio set. But the squiggle came back each night about four minutes earlier, the way the stars do, so it could not be from Earth. When she ran the chart faster, she saw a string of pulses about 1.3 seconds apart, as steady as a clock. Many astronomers thought no star could beat so evenly. The team joked that it might be little green men. Then Bell found a second beat in another part of the sky, and then more. Scientists soon agreed they were spinning neutron stars. The Nobel Prize in 1974 went to her supervisor, Antony Hewish, who shared it with Martin Ryle, and not to her.",
   "who": "Jocelyn Bell Burnell (born 1943), an astronomer from Northern Ireland",
   "when": "1967 (the first beat), 1968 (the paper), 1974 (the Nobel Prize)",
   "wrong_idea": "Many thought the regular beat must be interference from Earth, or that no natural star could beat so steadily. She showed it followed star time, and the second beat showed it came from a new kind of star."
@@ -894,7 +894,7 @@
      "do": "Take off the extra washer. With the 50 centimetre thread, pull the washer 5 centimetres to the side and time 10 swings. Then pull it 25 centimetres to the side and time 10 swings. Do each twice.",
      "say": "Now a small swing and a big swing. Time 10 swings of each. Which takes longer? Watch the stopwatch carefully.",
      "kid": "Time 10 small swings. Then time 10 big swings. Which takes longer?",
-     "parent": "The two times will be within about half a second of each other. The big swing travels further but moves faster, so it takes about the same time. Keep the big swing under 25 centimetres to the side. For very wide swings the time does grow a little.",
+     "parent": "The two times will be within about half a second of each other. The big swing travels further but moves faster, so it takes about the same time. Keep the big swing to no more than 25 centimetres to the side. For very wide swings the time does grow a little.",
      "context": "In this step, you change only how wide the swing is."
     },
     {
@@ -1241,7 +1241,7 @@
        ]
       }
      ],
-     "parent": "Do not worry about the guess. A resting child's pulse is usually 20 to 25 beats in 15 seconds. If your child cannot find it, try the side of the neck, just below the jaw, with two fingers.",
+     "parent": "Do not worry about the guess. A resting child's pulse is usually 20 to 25 beats in 15 seconds. If your child cannot find it, try the other wrist, or help them find it. Press lightly with two fingers, never hard, and never on the neck.",
      "context": "This is the first step of Hertz Hunt. You guess, and then you count your pulse."
     },
     {
@@ -1428,7 +1428,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never look straight at the Sun, and never shine sunlight or a torch into anyone's eyes. Keep the shiny side of the CD pointing at the wall, not at faces.",
+   "safety": "Never look straight at the Sun, and never shine sunlight or a torch into anyone's eyes. Keep the shiny side of the CD pointing at the wall, not at faces. Use a CD with no cracks, because a broken edge is sharp. Use a plastic cup or a strong glass for the water, and a grown-up stays close.",
    "schedule": [
     {
      "day": 1,
@@ -1556,7 +1556,7 @@
      "do": "Check your order using the numbers in the parent note. Move any slip that is in the wrong place. Write the rough wavelength on each slip. Circle the two that surprised you.",
      "say": "Now we check. Write the rough wavelength on each slip, and move any that were wrong. Which two surprised you most?",
      "kid": "Check the order. Fix any wrong slip. Circle two surprises.",
-     "parent": "Surprises to expect: a Wi-Fi box, a microwave oven and a police whistle are all within a few centimetres of each other, although they are very different waves. A tsunami's wavelength is longer than the height of most countries. Light is a hundred times thinner than a hair.",
+     "parent": "Surprises to expect: a Wi-Fi box, a microwave oven and a police whistle are all within a few centimetres of each other, although they are very different waves. A tsunami's wavelength is over 100 kilometres, longer than many cities are wide. Light is a hundred times thinner than a hair.",
      "check": {
       "t": "mcq",
       "q": "Which of these has the shortest wavelength?",
@@ -1618,6 +1618,7 @@
      "qty": 1
     }
    ],
+   "safety": "Keep marbles and small nuts away from younger children, because they can be swallowed. Wipe up any splashed water at once, because a wet floor is slippery.",
    "schedule": [
     {
      "day": 1,
@@ -1935,6 +1936,7 @@
    "title": "The Thirty-Second Pendulum: build a timer from a thread",
    "mins": 35,
    "context": "This is a design challenge. You build a pendulum that counts thirty seconds for you, without looking at a clock.",
+   "safety": "A grown-up fixes the thread high up. Hang it where nobody walks past and nothing breakable is near, and stand to the side of the swing, because a steel washer that hits a face can hurt.",
    "problem": "Build a pendulum that makes exactly 30 swings in 30 seconds, give or take one second. It must do this twice in a row. Then use it to time 30 seconds of something fun.",
    "constraints": [
     "Use only thread, a washer or nut, tape and a measuring tape. No stopwatch while building, only to test.",
@@ -2695,7 +2697,7 @@
     {
      "t": "write",
      "p": "Gravitational waves from crashing black holes were first caught in 2015, though the idea is much older. Why might it have taken so long to catch one?",
-     "a": "The waves are extremely small by the time they reach us. The wave is so low that it changes the length of an instrument by far less than the width of an atom's middle. It took very careful, very sensitive instruments to measure that.",
+     "a": "The waves are extremely small by the time they reach us. The wave is so low that it changes the length of an instrument by far less than the width of a proton. It took very careful, very sensitive instruments to measure that.",
      "why": "A strong answer says that the amplitude is tiny by the time the wave reaches Earth, and that catching it needed instruments of great sensitivity.",
      "lines": 4,
      "outcome": 5

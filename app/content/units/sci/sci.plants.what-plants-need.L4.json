@@ -145,7 +145,7 @@
   },
   {
    "term": "Azolla",
-   "meaning": "A tiny floating water fern, with bacteria living in its leaves that fix nitrogen. Farmers in Asia have grown it in paddy fields to feed the rice.",
+   "meaning": "A tiny floating water fern, with bacteria living in the leaves that fix nitrogen. Farmers in Asia have grown it in paddy fields to feed the rice.",
    "example": "A green mat of azolla can cover a paddy field in a few weeks.",
    "art": "A paddy field with a thick green mat of tiny azolla ferns floating between the rice plants."
   },
@@ -210,7 +210,7 @@
     "Yellow leaves from the bottom of a potted plant in a full saucer may be root rot instead."
    ],
    "perspectives": [],
-   "art": "A tomato plant with its lower leaves pale yellow and its top leaves green, and a lemon plant with its top leaves yellow and the veins green.",
+   "art": "A tomato plant with pale yellow lower leaves and green top leaves, and a lemon plant with its top leaves yellow and the veins green.",
    "context": "A plant cannot tell you what is wrong, but their leaves can. This card shows how to read the clues."
   },
   {
@@ -339,7 +339,7 @@
     }
    ],
    "art": "A root tip approaching a rock and a patch of rich soil, bending away from the rock and branching into the rich patch.",
-   "context": "A root has no eyes and no brain, yet finds its way. This card shows how scientists describe what a root does, and where they disagree."
+   "context": "A root has no eyes and no brain, yet finds their way. This card shows how scientists describe what a root does, and where they disagree."
   },
   {
    "concept": "Do trees share food through fungus networks?",
@@ -559,7 +559,7 @@
    "A third-floor balcony in Chennai in heavy rain, with pots of tulsi and curry leaf and a big blue pot holding a brinjal plant with yellow drooping leaves.",
    "A girl kneeling on wet tiles pushing a finger into a soaked pot, with a saucer full of green water and a broken tile plugging the hole.",
    "A girl pouring water from a jug onto dry soil in a clear glass, with silver bubbles rising, and her mother watching.",
-   "A brinjal plant tipped out on newspaper, its root ball white at the top and brown and slimy at the bottom, with a grandmother, a father and a girl looking on.",
+   "A brinjal plant tipped out on newspaper, the root ball white at the top and brown and slimy at the bottom, with a grandmother, a father and a girl looking on.",
    "A new bright green leaf opening at the top of a brinjal plant in a clean pot on two small bricks, and a girl and her grandmother smiling."
   ]
  },
@@ -614,11 +614,11 @@
        "b": "Water is no longer short, and there is enough light, so the leaves make a fair amount of sugar."
       },
       {
-       "f": "HOT DRY SPELL. Every tree takes 2 sugar tokens. The fungus pays 1 mineral token of its choice to the pile.",
+       "f": "HOT DRY SPELL. Every tree takes 2 sugar tokens. The fungus pays 1 mineral token of their choice to the pile.",
        "b": "In dry soil, the fungus has to work hard to find water and minerals, and the plant closes the stomata to save water."
       },
       {
-       "f": "STORM. Every tree takes 0 sugar tokens and loses 1 sugar token it holds.",
+       "f": "STORM. Every tree takes 0 sugar tokens and loses 1 sugar token they hold.",
        "b": "A dark storm cuts the light, and wind damages the leaves."
       }
      ]
@@ -1269,7 +1269,7 @@
      "t": "truefalse",
      "p": "Plants grown with their roots in water holding only a few mineral salts, and no soil, can grow well and make seeds.",
      "a": true,
-     "why": "True. Julius Sachs and Wilhelm Knop showed this around 1860. The plant makes its own food from carbon dioxide and water, and takes only minerals and water from the roots.",
+     "why": "True. Julius Sachs and Wilhelm Knop showed this around 1860. The plant makes their own food from carbon dioxide and water, and takes only minerals and water from the roots.",
      "outcome": 3
     },
     {
@@ -1278,7 +1278,7 @@
      "opts": [
       "Little change, because phosphorus is still the shortest supply",
       "The plant will grow twice as fast",
-      "The plant will make its own phosphorus",
+      "The plant will make their own phosphorus",
       "The plant will stop needing phosphorus"
      ],
      "a": 0,
@@ -1298,7 +1298,7 @@
        "The plant gives sugar and the fungus gives water and phosphorus"
       ],
       [
-       "Azolla and the bacteria in its leaves",
+       "Azolla and the bacteria in the leaves",
        "The fern gives a home and the bacteria give nitrogen"
       ],
       [
@@ -1384,9 +1384,9 @@
     },
     {
      "t": "write",
-     "p": "A tree sends sugar down to a fungus on its roots. Explain why the tree does this, and what it gets back.",
+     "p": "A tree sends sugar down to a fungus on their roots. Explain why the tree does this, and what the tree gets back.",
      "lines": 3,
-     "a": "A strong answer says the fungus threads reach farther and into smaller gaps than the root, so they bring water and minerals, especially phosphorus, that the tree could not reach alone. The tree pays with some of the sugar it made. Both gain.",
+     "a": "A strong answer says the fungus threads reach farther and into smaller gaps than the root, so they bring water and minerals, especially phosphorus, that the tree could not reach alone. The tree pays with some of the sugar made in the leaves. Both gain.",
      "why": "The answer should state the exchange, and say why each side needs the other.",
      "outcome": 6
     },
@@ -1529,7 +1529,7 @@
     },
     {
      "t": "match",
-     "p": "Match each plant to the way it copes with its roots or its soil.",
+     "p": "Match each plant to the way they cope with their roots or their soil.",
      "pairs": [
       [
        "Rice",
@@ -1696,7 +1696,7 @@
       "Some carbon passes through the fungus"
      ],
      "a": 0,
-     "why": "The first three statements describe what was measured. The fourth claim says why the carbon moved. Moving a small amount of carbon does not show that a tree acts on purpose to help its young.",
+     "why": "The first three statements describe what was measured. The fourth claim says why the carbon moved. Moving a small amount of carbon does not show that a tree acts on purpose to help their young.",
      "outcome": 6
     },
     {
@@ -1948,7 +1948,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up reads the label and measures the fertiliser, because it can irritate eyes and skin. Keep it away from the mouth, and wash hands after touching the jars. Do not drink the water.",
+   "safety": "A grown-up reads the label and measures the fertiliser, because it can irritate eyes and skin. Keep it away from the mouth, and wash hands after touching the jars. Do not drink the water. Raw rajma seeds and sprouts are poisonous if eaten, so do not taste them, and cook none of this batch for food.",
    "record": "On days 4, 8, 12 and 18, measure the tallest shoot in each jar, match the leaf colour to a crayon, and note any brown or soft roots. Draw the three jars at the end.",
    "context": "In this experiment, you grow bean seedlings with their roots in water, with no soil. You find out if they need minerals, and if more fertiliser is better.",
    "setup": [
@@ -1986,7 +1986,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. A bean has a food store in the seed, so it can grow for a while in plain water. The question is for how long.",
+     "parent": "Do not correct the guess. A bean has a food store in the seed, so the seedling can grow for a while in plain water. The question is for how long.",
      "context": "This is the first step of the Seedlings Without Soil test. You guess before you test."
     },
     {
@@ -2017,7 +2017,7 @@
        "The fertiliser needs air"
       ],
       "a": 0,
-      "why": "Roots respire and need oxygen. If the whole root were under water in a still jar, it could run short of oxygen. The air gap, and the water level touching just the lower roots, help the roots breathe."
+      "why": "Roots respire and need oxygen. If the whole root were under water in a still jar, the root could run short of oxygen. The air gap, and the water level touching just the lower roots, help the roots breathe."
      },
      "context": "In this step, you make the three solutions and set up the seedlings."
     },
@@ -2539,11 +2539,11 @@
      "what": "Wash the roots. Find the nodules. A grown-up cuts one open. Look inside."
     }
    ],
-   "record": "Draw the root with its nodules. Count them. Draw one cut nodule and its colour.",
+   "record": "Draw the root with the nodules. Count them. Draw one cut nodule and its colour.",
    "context": "In this activity, you look at the roots of a bean-family plant and find the lumps where helpful bacteria live and fix nitrogen.",
    "setup": [
     {
-     "art": "A groundnut plant with its roots shaken and gently rinsed in a bowl of water.",
+     "art": "A groundnut plant with the roots shaken and gently rinsed in a bowl of water.",
      "caption": "1. Gently wash the soil off the roots of a bean-family plant."
     },
     {
@@ -2645,7 +2645,7 @@
      "what": "Visit five plants at home, in the balcony or on the street. Note the leaves, the soil and the light. Make a guess for each."
     }
    ],
-   "record": "A table with five plants: where it grows, which leaves look unusual, soil wet or dry by the finger test, light, and your best guess.",
+   "record": "A table with five plants: where the plant grows, which leaves look unusual, soil wet or dry by the finger test, light, and your best guess.",
    "context": "In this activity, you go on a walk to check five real plants like a plant doctor. You read the clues and say what each plant needs.",
    "setup": [
     {
@@ -2915,7 +2915,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Draw what you saw. Talk about how a pot plant, a rice plant and a lotus get air to their roots.",
-     "say": "How does a pot plant get air to its roots? How does a rice plant? Are the ways the same?",
+     "say": "How does a pot plant get air to their roots? How does a rice plant? Are the ways the same?",
      "kid": "Draw what you saw. How do roots in mud get air?",
      "think": "A mangrove tree grows in salty mud, and sends up pencil-like roots into the air. What might those roots be for?",
      "context": "In this step, you draw what you saw and compare different ways plants get air to their roots."
@@ -2955,7 +2955,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the bottle and makes the holes. Wash hands after touching compost. Do not put your nose close to the heap. Sniff gently from a distance. Keep it away from food and from small children who might put it in their mouths.",
+   "safety": "A grown-up cuts the bottle and makes the holes. Wash hands after touching compost. Do not put your nose close to the heap. Sniff gently from a distance. Keep it away from food and from small children who might put it in their mouths. Anyone with asthma or a mould allergy should not handle the compost, and a grown-up should wear a mask when stirring it if the heap looks mouldy.",
    "schedule": [
     {
      "day": 1,
@@ -3367,7 +3367,7 @@
    "t": "mcq",
    "p": "Plants grown with their roots in water that holds a few mineral salts, and no soil, grew well and made seeds. What did this show?",
    "opts": [
-    "Soil gives minerals, water and support, but the plant makes its own food",
+    "Soil gives minerals, water and support, but the plant makes their own food",
     "Plants eat soil",
     "Plants do not need minerals",
     "Plants need humus"
@@ -3864,7 +3864,7 @@
    "Darwin, C., The Formation of Vegetable Mould through the Action of Worms, 1881, and Darwin, C. and Darwin, F., The Power of Movement in Plants, 1880",
    "Taiz, L. and others, Trends in Plant Science, 2019 (a critical view of plant consciousness), and Mancuso, S. and Viola, A., Brilliant Green, 2015 (the view that plants are intelligent)",
    "Evenson, R. E. and Gollin, D., Science, 2003 (assessing the impact of the Green Revolution)",
-   "Thirukkural 1037 (ploughing and drying the soil), to be checked against a reliable translation"
+   "Thirukkural 1037 (ploughing and drying the soil), meaning as given in Tamil commentaries; the wording of a translation is still to be checked"
   ]
  },
  "roots": {
@@ -3879,7 +3879,7 @@
    "what_is_life": "No living being works alone. A bean has bacteria in her roots, a tree has fungi, and the soil has millions of tiny helpers. Life is a web of trades.",
    "what_is_this_world": "The soil under our feet is half empty space, and that space is full of air and life. What looks solid and still is full of room and movement."
   },
-  "thread": "Soil looks like one solid thing. Pour water on it and half of it is revealed to be air. The roots live in the gaps, and the bacteria and fungi do too. The gaps are not left over. They are where the work happens. Empty space and solid matter turn out to be two parts of one working soil, just as the breathing and the body are two parts of one living plant. The plant also depends on partners it cannot see, who live in the same gaps. Take away the gaps, or the partners, and the plant cannot live.",
+  "thread": "Soil looks like one solid thing. Pour water on it and half of it is revealed to be air. The roots live in the gaps, and the bacteria and fungi do too. The gaps are not left over. They are where the work happens. Empty space and solid matter turn out to be two parts of one working soil, just as the breathing and the body are two parts of one living plant. The plant also depends on partners they cannot see, who live in the same gaps. Take away the gaps, or the partners, and the plant cannot live.",
   "teachings": [
    {
     "source": "Atharva Veda, Prithvi Sukta (12.1)",
@@ -3888,7 +3888,7 @@
    },
    {
     "source": "Thirukkural 1037, Thiruvalluvar",
-    "teaching": "The Tamil poet Thiruvalluvar wrote that if the farmer ploughs and lets the soil dry well, the crop will grow even without a handful of manure.",
+    "teaching": "The Tamil poet Thiruvalluvar wrote that if the farmer ploughs so well that the soil dries down to a quarter of its weight, the crop will grow even without a handful of manure.",
     "link": "Ploughing opens the soil and lets air into the gaps. Thiruvalluvar saw, long before roots were studied, that air in the soil matters."
    }
   ],
@@ -3928,7 +3928,7 @@
   "art": "A cutaway of soil showing grains, white air gaps, a root hair, a nodule with bacteria and a thread of fungus, all sharing the same space."
  },
  "how_we_found_out": {
-  "story": "In the early 1800s, many farm scientists believed in the humus theory: that plants feed on humus, the dark rotting stuff in soil. In 1840, the chemist Justus von Liebig argued that plants take only simple minerals from the soil, and carbon dioxide from the air. A German scientist, Carl Sprengel, had written something similar in 1828, but few listened. Around 1860, two German scientists, Julius Sachs and Wilhelm Knop, tested the idea. They grew plants in glass jars with their roots in water. The water held only a few simple mineral salts, and there was no soil and no humus. The plants grew well, flowered and made seeds. So humus was not the plant's food. The soil gives minerals, water and a place to hold on. The plant makes its own food in its leaves.",
+  "story": "In the early 1800s, many farm scientists believed in the humus theory: that plants feed on humus, the dark rotting stuff in soil. In 1840, the chemist Justus von Liebig argued that plants take only simple minerals from the soil, and carbon dioxide from the air. A German scientist, Carl Sprengel, had written something similar in 1828, but few listened. Around 1860, two German scientists, Julius Sachs and Wilhelm Knop, tested the idea. They grew plants in glass jars with their roots in water. The water held only a few simple mineral salts, and there was no soil and no humus. The plants grew well, flowered and made seeds. So humus was not the plant's food. The soil gives minerals, water and a place to hold on. The plant makes their own food in their leaves.",
   "who": "Julius Sachs and Wilhelm Knop, German plant scientists, building on Carl Sprengel and Justus von Liebig",
   "when": "About 1860",
   "wrong_idea": "Many farm scientists believed that a plant feeds on humus, the dark rotting matter in soil. Plants grown in water with only mineral salts, and no humus, grew well and made seeds."

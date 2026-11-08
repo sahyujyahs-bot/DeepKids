@@ -458,7 +458,7 @@
    "claim": "Coal is made from dead dinosaurs.",
    "who": "A common idea in children's books and in conversation",
    "for": "Coal and dinosaurs both come from the distant past, and both are found buried in rock.",
-   "against": "Most coal formed from swamp plants about 300 million years ago. The first dinosaurs came later, after about 70 million more years. Oil comes mostly from tiny sea plants and animals, not from big land animals.",
+   "against": "Most coal formed from swamp plants about 300 million years ago. The first dinosaurs came many millions of years later. Oil comes mostly from tiny sea plants and animals, not from big land animals.",
    "status": "rejected",
    "context": "This card asks where coal and oil really come from."
   },
@@ -513,7 +513,7 @@
    "hint": "Think about what we would have to know before we could decide. Who decides what a mistake is?"
   },
   {
-   "q": "Janaki Ammal, Kamala Sohonie and Penny Chisholm all did important plant science. Why do we often learn the names of only a few scientists?",
+   "q": "Janaki Ammal, Kamala Sohonie and Penny Chisholm all did important science on plants and other photosynthesisers. Why do we often learn the names of only a few scientists?",
    "kind": "big",
    "hint": "Think about who gets into books, who gets prizes and who gets asked."
   }
@@ -1753,7 +1753,7 @@
      "buy": "b-jars"
     },
     {
-     "item": "3 big leaves of red cabbage, chopped small, and 1 cup of hot water (a grown-up pours it)",
+     "item": "6 big leaves of red cabbage, chopped small, and 4 cups (about 1 litre) of hot water (a grown-up pours it)",
      "qty": 1
     },
     {
@@ -1781,7 +1781,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours the hot water. Blow out through the straw and never suck in, because the water is not for drinking. Wash hands afterwards. Cabbage water stains clothes and fingers.",
+   "safety": "A grown-up pours the hot water. Blow out gently through the straw and never suck in, because the water is not for drinking. Stop and rest if you feel dizzy. Wash hands afterwards. Cabbage water stains clothes and fingers.",
    "record": "Photograph all four jars side by side on the white paper at the start and after one day. Colour in the table. Write your claim, your evidence and your reasoning.",
    "context": "In this experiment, you catch your own breath in water with a colour that changes. Then you find out what a leaf does to that breath in the light and in the dark.",
    "setup": [
@@ -1826,7 +1826,7 @@
      "id": "s2",
      "mins": 12,
      "adult": true,
-     "do": "A grown-up pours 1 cup of hot water over the chopped cabbage. Leave it 10 minutes. Strain it into a bowl and let it cool.",
+     "do": "A grown-up pours 4 cups (about 1 litre) of hot water over the chopped cabbage. Leave it 10 minutes. Strain it into a bowl and let it cool.",
      "say": "Pour the hot water over the cabbage. Wait 10 minutes. The water will turn a deep purple. Strain it and let it cool.",
      "kid": "Ask a grown-up to pour hot water on the cabbage. Wait 10 minutes. Strain it.",
      "parent": "The water should look blue-purple. If it looks pink or red, stir in a tiny pinch of baking soda until it turns blue-purple. Use the same water for all four jars.",
@@ -1992,7 +1992,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not drink the water. Wash your hands after touching it. Cover every jar with cloth, because uncovered standing water can breed mosquitoes. When the test is over, pour the water on the soil of a plant, away from the house.",
+   "safety": "Do not drink the water. A grown-up measures the fertiliser, which must be kept away from eyes and mouth. Wash your hands after touching it. Cover every jar with cloth, because uncovered standing water can breed mosquitoes. When the test is over, pour the water on the soil of a plant, away from the house.",
    "record": "On days 1, 3, 5 and 8, hold each jar in front of the white card with the cross. Give it a see-through score from 0 to 3. Draw the three jars on day 8.",
    "context": "In this experiment, you grow a crowd of tiny floating plants in three jars with different amounts of light. You find out how light changes how green a pond gets.",
    "setup": [
@@ -2142,7 +2142,7 @@
    "days": 1,
    "question": "Water holds some air inside it, which fish breathe. Does the water let the air go when it gets warm?",
    "predict": "Before you start, guess. Which glass will grow more tiny bubbles on its walls: the cold one or the warm one? Why do you think so?",
-   "fair_test": "Both glasses are filled from the same cold jug at the same time. They hold the same amount of water. Each stands in a bowl, and the only difference is the bowl water: ice-cold in one and hand-warm in the other. Any difference in bubbles comes from the temperature.",
+   "fair_test": "All three glasses are filled from the same cold jug at the same time. They hold the same amount of water. Each stands in a bowl, and the only difference is the bowl water: icy, cool or hand-warm. Any difference in bubbles comes from the temperature.",
    "results_table": [
     "Glass",
     "Bowl it stands in",
@@ -2314,7 +2314,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up paints the nail polish, in a room with an open window, because the smell is strong. Keep it away from your face and from flames.",
+   "safety": "A grown-up paints the nail polish, in a room with an open window, because the smell is strong. Keep it away from your face and from flames. Nail polish must never be swallowed or touched to the eyes.",
    "schedule": [
     {
      "day": 1,
@@ -2433,6 +2433,7 @@
      "what": "Pick a sun leaf and a shade leaf. Compare their colour, size, thickness and feel."
     }
    ],
+   "safety": "Pick leaves only with permission, from a plant you know. Avoid plants with milky sap or thorns, and wash your hands afterwards.",
    "record": "A table with the two leaves: colour match, area in squares, thickness by feel, and one other difference you notice.",
    "context": "In this activity, you compare a leaf that grew in bright sun with a leaf that grew in shade on the same plant. You find out how a leaf changes with the light it gets.",
    "setup": [
@@ -2526,7 +2527,7 @@
      "qty": 1
     },
     {
-     "item": "a steel spoon with a long handle, and a thick cloth to hold it",
+     "item": "a steel spoon with a long handle, a thick cloth to hold it, and a steel plate to rest it on",
      "qty": 1
     },
     {
@@ -2538,7 +2539,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up lights the diya and holds the spoon. Keep long hair tied back and loose sleeves away from the flame. Keep the bowl of water close. The spoon gets hot, so hold it with a cloth. Never leave a lit diya alone.",
+   "safety": "A grown-up lights the diya and holds the spoon. Keep long hair tied back and loose sleeves away from the flame. Keep the bowl of water close. The spoon gets hot, so hold it with a cloth. Never leave a lit diya alone. Use coconut oil if anyone at home is allergic to sesame.",
    "schedule": [
     {
      "day": 1,
@@ -2586,7 +2587,7 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "A grown-up lights the diya. Hold a cold spoon with a cloth 3 centimetres above the flame tip for 5 seconds. Then put the spoon on a plate.",
+     "do": "A grown-up lights the diya. Hold a cold spoon with a cloth 3 centimetres above the flame tip for 5 seconds. Then rest the spoon on the steel plate.",
      "say": "Watch the spoon. A black patch is forming. Where could the black stuff come from?",
      "kid": "A grown-up lights the diya and holds the spoon. Look for black.",
      "parent": "Use a clean, cool spoon. Do not touch the flame with it. The black soot forms on the underside of the spoon, where the flame tip is not getting enough air to burn the carbon fully. If the soot is faint, hold the spoon a second longer.",
@@ -2651,6 +2652,7 @@
      "what": "Count breaths at rest, after 30 jumps and after resting again. Compare."
     }
    ],
+   "safety": "Stop and sit down if you feel dizzy or breathless. Never hold your breath, and jump only on a clear, non-slippery floor.",
    "record": "A table with three counts of breaths in one minute. Write the biggest change and what it tells you.",
    "context": "In this activity, you count how fast you breathe at rest and after exercise. This shows how respiration speeds up when your cells need more energy.",
    "setup": [
@@ -2833,7 +2835,7 @@
        ]
       }
      ],
-     "parent": "On the sunny day, the line dips to about 2.8 at the next dawn, just below 3. On the cloudy day it dips below 3 from 9 pm and reaches 1.5 at dawn. The 3 level is a rough guide. Different fish can stand different levels.",
+     "parent": "On the sunny day, the line dips to about 2.8 at the next dawn, just below 3. The cloudy day starts at 2.8, below 3, rises above 3 by 9 am, falls back to exactly 3.0 at midnight, then dips below it and reaches 1.5 at dawn. The 3 level is a rough guide. Different fish can stand different levels.",
      "think": "The farmer cannot see these numbers without a meter. What signs could the fish give?",
      "context": "In this step, you mark the level where fish are stressed and find the dangerous times."
     }
@@ -2869,7 +2871,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash your hands after touching the soil. Keep the jar out of direct sun, because a closed jar in strong sun gets hot enough to cook the plants.",
+   "safety": "Wash your hands after touching the soil. If mould grows, a grown-up removes it and you do not sniff it. Keep the jar out of direct sun, because a closed jar in strong sun gets hot enough to cook the plants.",
    "schedule": [
     {
      "day": 1,
@@ -2989,7 +2991,7 @@
        ]
       }
      ],
-     "parent": "Many sealed jars last for months. A man named David Latimer is reported to have planted a bottle garden in 1960 and sealed it in 1972, and the plants were said to be alive decades later. If mould grows, open the lid for a day and remove it. If the plants die, that is a result too. Ask which need was missing.",
+     "parent": "Many sealed jars last for months. A man named David Latimer is reported to have planted a bottle garden in 1960, watered it once in 1972 and then sealed it, and the plants were said to be alive decades later. If mould grows, open the lid for a day and remove it. If the plants die, that is a result too. Ask which need was missing.",
      "think": "The jar had plants and soil bacteria and fungi. What do you think each does in the air cycle?",
      "context": "In this step, you look back at four weeks and explain how the jar kept itself going."
     }

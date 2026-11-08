@@ -52,14 +52,14 @@ A sound straight in front and a sound straight behind reach both ears at the sam
 ### The decibel scale · *defined*
 **Definition:** The decibel scale measures how strong a sound is. Every 10 decibels more means 10 times as much sound energy, and a sound that seems about twice as loud.
 
-A whisper is about 30 decibels. A conversation is about 60. That is 30 decibels more, which is three steps of 10. Each step multiplies the sound energy by 10, so a conversation has 10 times 10 times 10, or 1,000 times, the energy of a whisper. Yet it only sounds about 8 times as loud to us, because our ears squash a very big range into a smaller one. That is why the scale is useful. Our ears can handle sounds from the faintest to a jet plane close by, which differ in energy by a factor of about a trillion. The decibel numbers for these are only 0 to about 130. Common sounds: leaves rustling about 20, a quiet room 35, a refrigerator 40, a busy street 80, a mixer-grinder 85 to 90, a motorbike passing close 95, a car horn close by 110, a firecracker close by 140.
+A whisper is about 30 decibels. A conversation is about 60. That is 30 decibels more, which is three steps of 10. Each step multiplies the sound energy by 10, so a conversation has 10 times 10 times 10, or 1,000 times, the energy of a whisper. Yet it only sounds about 8 times as loud to us, because our ears squash a very big range into a smaller one. That is why the scale is useful. Our ears can handle sounds from the faintest to a jet plane close by, which differ in energy by a factor of about ten trillion. The decibel numbers for these are only 0 to about 130. Common sounds: leaves rustling about 20, a quiet room 35, a refrigerator 40, a busy street 80, a mixer-grinder 85 to 90, a motorbike passing close 95, a car horn close by 110, a firecracker close by 140.
 - e.g. A conversation at 60 decibels has 1,000 times the sound energy of a whisper at 30 decibels.
 - e.g. A busy street at 80 decibels sounds about 4 times as loud as a conversation at 60.
 - e.g. Sounds above 120 decibels can hurt at once, because they are far above the loudest comfortable level.
 ### How long is a sound safe? · *defined*
 **Definition:** The louder a sound, the shorter the time it is safe to listen. Health agencies say that about 85 decibels is safe for about 8 hours, and that every 3 decibels more means half the safe time.
 
-The hair cells in your cochlea can be damaged by loud sound, and in people they do not grow back. Damage depends on both the loudness and the time. At 85 decibels, such as a busy road or a mixer-grinder, the safe time is about 8 hours. At 88 decibels it is about 4 hours. At 91 it is about 2 hours, at 94 about 1 hour, at 97 about 30 minutes and at 100 decibels about 15 minutes. At 110 decibels, such as a loud speaker at a wedding, harm can start in a minute or two. Indian rules for noise say that in homes and residential areas, sound should be no more than 55 decibels by day and 45 by night, and that a firecracker should not be louder than about 125 decibels when measured 4 metres away. Earplugs or moving away reduce the level a lot. Most hearing damage from noise has no pain at the time, which is why we must go by numbers. Never push cotton buds, pins or anything else into the ear. The ear cleans itself, and a push can hurt the eardrum.
+The hair cells in your cochlea can be damaged by loud sound, and in people they do not grow back. Damage depends on both the loudness and the time. At 85 decibels, such as a mixer-grinder or very heavy traffic, the safe time is about 8 hours. At 88 decibels it is about 4 hours. At 91 it is about 2 hours, at 94 about 1 hour, at 97 about 30 minutes and at 100 decibels about 15 minutes. At 110 decibels, such as a loud speaker at a wedding, harm can start in a minute or two. Indian rules for noise say that in homes and residential areas, sound should be no more than 55 decibels by day and 45 by night, and that a firecracker should not be louder than about 125 decibels when measured 4 metres away. Earplugs or moving away reduce the level a lot. Most hearing damage from noise has no pain at the time, which is why we must go by numbers. Never push cotton buds, pins or anything else into the ear. The ear cleans itself, and a push can hurt the eardrum.
 - e.g. At 85 decibels, about 8 hours is the safe limit.
 - e.g. At 100 decibels, such as a drill or a motorbike near the ear, only about 15 minutes is safe.
 - e.g. Each extra 3 decibels halves the safe time, so 97 decibels gives half the time of 94.
@@ -175,7 +175,7 @@ We have tested how two ears find a sound, how noise hides a voice, and how the i
 *Habit it breaks:* We say a sound is over there, as if the place were inside the sound. A sound wave carries no label that says where it came from. The place is worked out by the listener from two ears.  
 *Evidence:* In the Sound Clock, pointing was good with two ears open and went wrong when one ear was covered, although the sound was exactly the same. If your results differ, write them down as they are and test again.
 
-- *who am i:* You hear the world through a head with two ears and a brain that compares them. Someone with one ear hears the same room, and builds the places of its sounds in a slightly different way.
+- *who am i:* You hear the world through a head with two ears and a brain that compares them. Someone with one ear hears the same room, and builds the places of the sounds in a slightly different way.
 - *what is life:* A barn owl has ears at different heights, so she can tell above from below. A cricket hears with her knees, and a mosquito with his antennae. Every kind of listener builds a world to suit their own body.
 - *what is this world:* A sound is a wave of squeezes in the air, and it carries energy and rhythm, but no map. The map and the loudness are made where the wave is heard.
 
@@ -271,7 +271,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   *Parent does:* Play the rest of the cards. For each, everyone guesses the band first. Then turn it over. Keep a score. After every six cards, ask the question below.  
   *Parent says:* Read the sound on the front. Guess the band. Then turn the card over and read the decibels. Right band is one point. The band next door is half a point.  
   *Child mode:* Read a card. Guess the band. Turn it over. Place it on the ladder.
-  - Ask: Which sound surprised you most, and why? (good: Headphones turned up full, because I did not know they can be that loud.; The mosquito, because it seems so small.; A city street, because it is louder than I thought.)
+  - Ask: Which sound surprised you most, and why? (good: Headphones turned up full, because I did not know they can be that loud.; The mosquito, because she is so tiny.; A city street, because it is louder than I thought.)
   - Note: Children often underestimate headphones and a mixer. Do not lecture. Let the numbers speak, and keep the score light.
 - **s4 (2 min)**  
   *Parent does:* Look at the finished ladder. Ask your child to point to the sounds that are safe all day and the sounds that need a time limit.  
@@ -331,7 +331,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **fair test:** The listener sits in the same place with eyes shut for every test. The whisperer uses the same quiet whisper for every digit. Only the noise changes. Five digits are whispered at each distance, picked in a mixed-up order. A distance counts as heard if the listener gets at least 4 of the 5 right.
 - **safety:** Do not make the noise louder than a loud conversation, so that nobody has to shout and nobody's ears are hurt. Wipe up water at once.
 - **record:** Fill in the table. Then finish this sentence: 'The louder the noise, the ...' and write one thing that helped a whisper be heard.
-- **results table:** Noise | My guess: how far will a whisper reach? (metres) | Digits right at 1 metre (out of 5) | Digits right at 2 metres (out of 5) | Digits right at 3 metres (out of 5) | Furthest distance with 4 or 5 right (metres)
+- **results table:** Noise | My guess: how far will a whisper reach? (metres) | Digits right at 1 metre (out of 5) | Digits right at 2 metres (out of 5) | Digits right at 3 metres (out of 5) | Digits right at 4 metres (out of 5) | Digits right at 5 metres (out of 5) | Furthest distance with 4 or 5 right (metres)
 - **s1 (5 min)**  
   *Parent does:* Show your child the corridor, the tap and the list of digits. Ask for a guess and a reason. Write the guess in the table.  
   *Parent says:* I will whisper numbers to you from different distances. First in a quiet room. Then with a tap running gently. Then with it running hard. How far will my whisper reach each time? Why do you think so?  
@@ -452,7 +452,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   *Child mode:* Curl the strip into a snail. Narrow end outside. Tape it.
   - Note: The paper snail will not curl perfectly. It does not need to. The point is to see how a 3.5 centimetre tube can fit into a space the size of a pea. The coil shape does not change how the wave travels.
 ### a3 · Feel the Music: a balloon and a drum beat (12 min)
-- **safety:** Keep the music at the loudness of a normal conversation. Do not press the balloon hard against a speaker cone, because it can burst.
+- **safety:** Keep the music at the loudness of a normal conversation. Do not press the balloon hard against a speaker cone, because it can burst. If anyone is allergic to latex, use a paper cup or a plastic tub with cling film stretched over the top instead. Pick up burst balloon pieces at once, and keep them away from small children.
 - **record:** Draw the balloon and write down which sounds you could feel the most: a low drum, a high whistle, or your own humming.
 - **s1 (3 min)**  
   *Parent does:* Show your child the balloon and the speaker. Ask them to guess whether they can feel sound with their hands, and which sounds they will feel the most.  
@@ -564,7 +564,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   *Parent does:* Choose the better idea. Build it. Make it work from the door to the kitchen. Test that it works while you stand next to it.  
   *Parent says:* Choose the idea you like best. Build it, and check that it works when you press the switch or pull the string.  
   *Child mode:* Pick your best idea. Build it. Test it.
-  - Note: A grown-up should do any cutting or taping. Make sure strings run along walls where nobody will trip. Switch off any lamp after use.
+  - Note: A grown-up should do any cutting or taping. Make sure strings run along walls where nobody will trip. Use only a battery torch or a phone light, never mains wiring or an extension cord laid across the floor.
 - **s3 (10 min)**  
   *Parent does:* Ask your helper to put on earmuffs and go to the kitchen, busy with a task. Go to the door and use your signal. Time how long they take to notice. Ask them how it felt.  
   *Parent says:* Helper, put on the earmuffs and do something in the kitchen. I will go to the door and use my signal. I will time how long it takes you to notice. Don't look at the door.  
@@ -701,7 +701,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    **Answer:** ['cochlea', 'balance canals', 'ear stone patch', 'nerve to the brain']. *Why:* The snail-shaped cochlea is for hearing. The three loops and the stone patches are for balance. The nerve carries the signals to the brain.
 
 ## Videos
-- **How to truly listen** (TED (Evelyn Glennie), 12 min) id `IU3V6zNER4g`: For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body, and explains what it means to listen. *Check:* Title and channel confirmed. Preview it first. Some parts are long for a young child, so pick a section to watch.
+- **How to truly listen** (TED (Evelyn Glennie), 34 min) id `IU3V6zNER4g`: For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body, and explains what it means to listen. *Check:* Title and channel confirmed. The full talk is about 34 minutes. Preview it first and pick a section to watch with a young child.
 - **Auditory Transduction (2002)** (Brandon Pletsch, 7 min) id `PeTriGTENoc`: For the parent and curious older children: a detailed animation of the cochlea, showing how a wave travels along the membrane and how different hair cells pick up high and low pitches. *Check:* Title and channel confirmed. Preview it first. It goes into more detail than this unit.
 - **How a cochlear implant works** (to be found, 4 min) id `to find`: To see how a microphone, a processor and a coil of tiny wires send signals straight to the hearing nerve. *Check:* Not yet found. Look for a short animation from a hospital or a hearing charity, watch it, and check that it shows wires inside the cochlea before adding it.
 

@@ -411,6 +411,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 
 ## Activities
 ### a1 · Shiny or Dull Hunt: twelve things and the window test (25 min)
+- **safety:** Never look at the Sun, or at its reflection in any shiny thing. Test with the window behind you, in daylight that is not direct sun, or use a lamp.
 - **record:** A table with twelve things, your guess for each, what you saw in each one (clear window, fuzzy window or none), and a final sort into three piles.
 - **s1 (6 min)**  
   *Parent does:* Line up the twelve things on a table near the window. Ask your child to guess for each one whether it will show the window clearly, fuzzily or not at all. Write the guesses in a table.  
@@ -552,7 +553,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
   *Parent does:* When you can see the toy, count the mirrors you used. Ask how a different layout might need fewer. Draw the final path.  
   *Parent says:* You can see the toy. How many mirrors did you use? Could you have used fewer? Draw the path the light takes.  
   *Child mode:* Count the mirrors you used. Could you use fewer? Draw the path.
-  - Check: Your bendy periscope shows the toy upright. Which statement fits best? → **Each mirror turns the path, and an even number of mirrors keeps the picture the right way round**
+  - Check: Your bendy periscope shows the toy. Which statement fits best? → **Each mirror turns the path, and an even number of mirrors keeps the picture the right way round**
 ### c2 · Wide-View Shop Mirror: see the whole room from one spot (30 min)
 - **problem:** You are a shopkeeper in a small room with a door on one side and two corners on the other. Find the shiny surface from the kitchen that lets you see the most of the room from your chair, without moving.
 - **your turn:** Sketch the room, the chair and the toys. Test each shiny thing and count the toys you can see. Which showed the most? What was the cost of the wider view? How would you improve it?

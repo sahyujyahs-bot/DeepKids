@@ -1012,7 +1012,7 @@
      "qty": 5
     },
     {
-     "item": "a big sheet of paper, about 50 centimetres wide, such as chart paper, and a protractor",
+     "item": "a big sheet of paper, about 90 centimetres wide and 45 centimetres tall (two chart papers taped side by side), and a protractor",
      "qty": 1
     },
     {
@@ -1463,6 +1463,7 @@
     }
    ],
    "record": "A table with twelve things, your guess for each, what you saw in each one (clear window, fuzzy window or none), and a final sort into three piles.",
+   "safety": "Never look at the Sun, or at its reflection in any shiny thing. Test with the window behind you, in daylight that is not direct sun, or use a lamp.",
    "context": "In this activity, you test twelve things around your home to see which show a clear image of a window, which show a blur, and which show nothing. You find out what the shiny ones have in common.",
    "setup": [
     {
@@ -2074,7 +2075,7 @@
      "kid": "Count the mirrors you used. Could you use fewer? Draw the path.",
      "check": {
       "t": "mcq",
-      "q": "Your bendy periscope shows the toy upright. Which statement fits best?",
+      "q": "Your bendy periscope shows the toy. Which statement fits best?",
       "options": [
        "Each mirror turns the path, and an even number of mirrors keeps the picture the right way round",
        "More mirrors always make the picture brighter",
