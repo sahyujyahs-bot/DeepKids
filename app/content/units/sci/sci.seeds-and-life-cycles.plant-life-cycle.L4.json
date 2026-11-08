@@ -9,7 +9,7 @@
  },
  "intro": {
   "hook": "Take two hard green mangoes. Put one in a paper bag with a very ripe banana. Put the other in a paper bag alone. Wait four days and press both. The mango that sat with the banana is usually softer. The banana never touched it. So how could one fruit change the other?",
-  "text": "Ripening looks like something each fruit does alone, slowly, as time goes by. But a ripe fruit also sends out a gas that changes the fruit next to them. In this unit you test that gas. You also find out why a leaf turns yellow, where a new money plant can grow its roots, and how long different plants live. Some plants flower for a single season and some flower for hundreds of years. At the end you will see a plant's life as a whole, from the first leaf to the last.",
+  "text": "Ripening looks like something each fruit does alone, slowly, as time goes by. But a ripe fruit also sends out a gas that changes the fruit next to them. In this unit you test that gas. You also find out why a leaf turns yellow, where a new money plant can grow roots, and how long different plants live. Some plants flower for a single season and some flower for hundreds of years. At the end you will see a plant's life as a whole, from the first leaf to the last.",
   "art": "A kitchen shelf with a ripe banana beside a mango, and faint wavy lines in the air between them, drawn as if you could see the gas."
  },
  "outcomes": [
@@ -309,7 +309,7 @@
   {
    "concept": "Copies and variety: cuttings, grafts and seedless fruit",
    "status": "defined",
-   "definition": "A plant grown from a cutting, a sucker or a graft is a clone, an exact copy of the parent. A plant grown from a seed is a little different, because it gets instructions from two parents.",
+   "definition": "A plant grown from a cutting, a sucker or a graft is a clone, an exact copy of the parent. A plant grown from a seed gets instructions from two parents, so the new plant is a little different.",
    "description": "A farmer who wants every mango tree to bear the same sweet mangoes cannot plant stones, because each stone grows into a different tree. Instead the farmer grafts a twig from a good tree onto a young rooted plant. The twig grows into a branch that bears the same mangoes as its parent. Most Alphonso trees are grafts. Bananas we eat are seedless. They cannot make seeds, so every banana plant comes from a sucker or from a lab-grown cutting. Copies are quick and sure, and they keep the fruit the same. But copies have no variety. If a disease can harm one plant of that kind, it can harm all of them. Seeds, in contrast, mix instructions from two parents, and in a field of seedlings there are always some that cope with a new disease or a new climate. Variety is a plant's insurance.",
    "examples": [
     "A money plant cutting rooted in water becomes a clone of the vine.",
@@ -396,7 +396,7 @@
    "status": "rejected"
   },
   {
-   "claim": "An annual plant dies after seeding simply because it is worn out.",
+   "claim": "An annual plant dies after seeding simply from being worn out.",
    "who": "Many gardeners.",
    "for": "A moong plant looks tired at the end, with yellow leaves and dry stems. The plant has used up a lot of food.",
    "against": "In soybean, taking off the flowers and young pods keeps the plant green and alive for much longer. So the seeds seem to take part in ending the plant. The end of the plant is partly set off by the seeds.",
@@ -410,7 +410,7 @@
    "status": "rejected"
   },
   {
-   "claim": "A plant can pass on to its seeds what it learned in its own lifetime, so cold-treated wheat gives seeds that no longer need cold.",
+   "claim": "A plant can pass on to their seeds what they learned in their own lifetime, so cold-treated wheat gives seeds that no longer need cold.",
    "who": "Trofim Lysenko, a Soviet agronomist with political power in the 1930s and 1940s.",
    "for": "Cold treatment of winter wheat really does change when the plant flowers, and some plants do pass on small chemical marks to the next generation.",
    "against": "Careful experiments showed that the seeds of cold-treated plants still need the cold. The strong claim was false, and it did great harm. Lysenko's power was used against geneticists. Nikolai Vavilov, who built a great seed collection, died in prison in 1943.",
@@ -473,7 +473,7 @@
    "'Bananas,' said Anjana. 'We need very ripe bananas.' By evening, Uncle Vinod had bought two dozen spotty bananas from the market, at half the usual price, because they were so ripe. They packed the forty mangoes into a big cardboard carton and tucked a banana in among them. Then Uncle Vinod sealed the whole carton with brown tape, all the way around, to keep the gas in. 'Tight as a drum,' he said proudly.",
    "On Thursday evening, they peeped through a corner. Nothing had changed. The mangoes were still hard. On Friday morning, Anjana opened the carton, and a sour smell rolled out, like old curd. A few of the bananas had turned black and soft. Some of the mangoes had a dull yellow patch, and the rest were still green. 'It has gone wrong,' said Uncle Vinod. 'Maybe we should have used the stones.' Anjana did not answer. She was thinking.",
    "She remembered the bags at school. Every morning, Rekha Madam had opened them for a minute and flapped them. 'Why?' someone had asked. 'Because fruit breathe,' said Madam. 'They need fresh air. Shut in a small space for too long, they use up the air, and they spoil instead of ripening.'",
-   "'Chacha,' said Anjana, 'we sealed them too tightly. They have no air.' 'But you said the bag keeps the gas in,' said her uncle. 'It does,' said Anjana. 'We need to keep the gas in and let the air in. Both.' Uncle Vinod scratched his head. 'How can you do both?'",
+   "'Uncle,' said Anjana, 'we sealed them too tightly. They have no air.' 'But you said the bag keeps the gas in,' said her uncle. 'It does,' said Anjana. 'We need to keep the gas in and let the air in. Both.' Uncle Vinod scratched his head. 'How can you do both?'",
    "Anjana thought of Ammamma's basket of rice. Rice is full of tiny gaps. Gas can stay among the grains, and air can seep in through them. 'We do not need to close it like a drum,' she said. 'We need to close it like a basket with a cloth.'",
    "They peeled off the tape. They threw out the black bananas and put in fresh ripe ones. They set the mangoes in a single layer, with a banana close to every few. They laid a thick cloth loosely over the top. And every morning and every evening, they lifted the cloth for a minute and fanned fresh air in.",
    "On Friday night, the first mangoes began to smell sweet. On Saturday morning, a third of them were yellow. By Saturday afternoon, Anjana pressed one with her thumb, and it gave softly. 'Warm and soft,' she said. They sorted them. Thirty-six mangoes were ready, soft, yellow and fragrant. Four were still hard.",
@@ -535,19 +535,19 @@
        "b": "ONE SEASON, but in the second year. The first year makes leaves and a fat root. The second year makes the flower and seeds. TIME: two years."
       },
       {
-       "f": "Rice. A grass grown in wet fields. Clue: it is harvested after the grain turns golden.",
+       "f": "Rice. A grass grown in wet fields. Clue: the crop is harvested after the grain turns golden.",
        "b": "ONE SEASON. About 4 to 6 months from seed to grain. TIME: a year or less."
       },
       {
        "f": "Marigold. A garland flower sold by the kilo. Clue: gardeners pinch off the old flowers.",
-       "b": "ONE SEASON. It flowers for many weeks, then makes seeds and dies. Pinching old flowers keeps it flowering longer. TIME: a year or less."
+       "b": "ONE SEASON. A marigold flowers for many weeks, then makes seeds and dies. Pinching old flowers keeps the plant flowering longer. TIME: a year or less."
       },
       {
        "f": "Sunflower. A tall plant with a huge flower head. Clue: the head is full of seeds when it dries.",
        "b": "ONE SEASON. About 3 to 4 months from seed to seed. TIME: a year or less."
       },
       {
-       "f": "Wheat. A grass grown for chapati flour. Clue: it is sown in the cool season and harvested in summer.",
+       "f": "Wheat. A grass grown for chapati flour. Clue: the crop is sown in the cool season and harvested in summer.",
        "b": "ONE SEASON. About 4 to 5 months from sowing to grain. TIME: a year or less."
       },
       {
@@ -563,7 +563,7 @@
        "b": "MANY SEASONS. A papaya plant fruits for about 3 to 4 years, then is replaced. TIME: a few years."
       },
       {
-       "f": "Tulsi. A holy basil kept in many courtyards. Clue: it is a woody little bush that keeps flowering.",
+       "f": "Tulsi. A holy basil kept in many courtyards. Clue: the plant is a woody little bush that keeps flowering.",
        "b": "MANY SEASONS. A tulsi bush flowers again and again, and with care lives a few years. TIME: a few years."
       },
       {
@@ -583,7 +583,7 @@
        "b": "MANY SEASONS. A neem tree can live for well over a hundred years. TIME: centuries or more."
       },
       {
-       "f": "Banyan. A huge tree with roots hanging from the branches. Clue: the Great Banyan near Kolkata is more than 250 years old.",
+       "f": "Banyan. A huge tree with roots hanging from the branches. Clue: the Great Banyan near Kolkata is said to be about 250 years old.",
        "b": "MANY SEASONS. A banyan fruits year after year and can live for centuries. TIME: centuries or more."
       },
       {
@@ -633,7 +633,7 @@
     "Cut out the 20 cards. Each player cuts out one set of the seven tokens. Shuffle the cards and put them face down.",
     "In each round, the reader turns over the top card and reads the front aloud. The reader keeps the back hidden.",
     "Every player secretly picks one season token, ONE SEASON or MANY SEASONS, and one time token, and puts both face down.",
-    "ONE SEASON means that the plant flowers in just one season of its life, then dies. MANY SEASONS means that the plant flowers in many seasons.",
+    "ONE SEASON means that the plant flowers in just one season of the plant's life, then dies. MANY SEASONS means that the plant flowers in many seasons.",
     "The time tokens are how long the plant lives: a year or less, two years, a few years, decades, or centuries or more. A few years means about 3 to 10 years. Decades means 10 to 99 years.",
     "Everyone turns their tokens over together. The reader reads the back. A right season token wins 1 point. A right time token wins 1 point. Both right wins 1 more point, so a card is worth up to 3 points.",
     "The job of reader passes to the next player after each round. After all 20 cards, the player with the most points wins. Ties share the win.",
@@ -676,7 +676,7 @@
      "kid": "Play the next nine cards. Pick your tokens. Check the back.",
      "check": {
       "t": "mcq",
-      "q": "A plant flowers in only one season of its life and dies, but it takes 48 years to get there. Which tokens fit?",
+      "q": "A plant flowers in only one season of a lifetime and dies, but it takes 48 years to get there. Which tokens fit?",
       "options": [
        "ONE SEASON and DECADES",
        "MANY SEASONS and DECADES",
@@ -1036,12 +1036,12 @@
       "Making the leaf grow bigger"
      ],
      "a": 0,
-     "why": "A leaf is taken apart in order. The plant breaks down the green chlorophyll and moves the nitrogen and other useful materials out. The yellow substances were in the leaf all along and show once the green goes. Picking 'giving up' misses that the plant is saving what it can.",
+     "why": "A leaf is taken apart in order. The plant breaks down the green chlorophyll and moves the nitrogen and other useful materials out. The yellow substances were in the leaf all along and show once the green goes. Picking 'giving up' misses that the plant is saving all that can be saved.",
      "outcome": 2
     },
     {
      "t": "match",
-     "p": "Match each plant to how it lives.",
+     "p": "Match each plant to the way they live.",
      "pairs": [
       [
        "Moong",
@@ -1205,7 +1205,7 @@
      "t": "truefalse",
      "p": "A fern spore contains a baby plant and a store of food, just like a seed.",
      "a": false,
-     "why": "False. A spore is a single tiny cell. A spore is a single tiny cell. The spore has no baby plant and no food store. The spore must land on damp ground and grow into a tiny heart-shaped plant, which then makes eggs and sperm.",
+     "why": "False. A spore is a single tiny cell. The spore has no baby plant and no food store. The spore must land on damp ground and grow into a tiny heart-shaped plant, which then makes eggs and sperm.",
      "outcome": 5
     },
     {
@@ -1381,7 +1381,7 @@
    "items": [
     {
      "t": "fill",
-     "p": "Growers thought that the heat from kerosene stoves coloured their lemons. To test this, Denny kept the ____ the same in every chamber and changed only the gas.",
+     "p": "Growers thought that the heat from kerosene stoves coloured their lemons. To test this, scientists kept the ____ the same in every chamber and changed only the gas.",
      "a": [
       "temperature",
       "heat",
@@ -1413,7 +1413,7 @@
     },
     {
      "t": "mcq",
-     "p": "Why might a plant gain from taking its leaves apart before it drops them?",
+     "p": "Why might a plant gain from taking leaves apart before dropping them?",
      "opts": [
       "It saves the nitrogen and minerals for the seeds or for next season",
       "It makes the leaves bigger",
@@ -1426,7 +1426,7 @@
     },
     {
      "t": "mcq",
-     "p": "In an experiment, a soybean plant that keeps its pods dies sooner than a plant whose flowers and pods are removed. Which idea does this best support?",
+     "p": "In an experiment, a soybean plant that keeps the pods dies sooner than a plant whose flowers and pods are removed. Which idea does this best support?",
      "opts": [
       "The developing seeds help to end the life of the plant",
       "Pods keep a plant alive",
@@ -1434,7 +1434,7 @@
       "Pods make plants taller"
      ],
      "a": 0,
-     "why": "When the seeds are removed, the plant stays green for much longer. So the seeds seem to take part in ending the plant, either by drawing off its food or by a chemical signal. Picking 'pods keep a plant alive' reads the result backwards.",
+     "why": "When the seeds are removed, the plant stays green for much longer. So the seeds seem to take part in ending the plant, either by drawing off the plant's food or by a chemical signal. Picking 'pods keep a plant alive' reads the result backwards.",
      "outcome": 3
     },
     {
@@ -1491,7 +1491,7 @@
     },
     {
      "t": "match",
-     "p": "Match each plant to the sign that tells it when to flower.",
+     "p": "Match each plant to the sign that tells them when to flower.",
      "pairs": [
       [
        "Traditional rice",
@@ -1518,7 +1518,7 @@
      "t": "mcq",
      "p": "Why do many scientists think a plant that lives a long time, like a mango tree, grows slowly, while a plant that lives a short time, like a moong plant, grows quickly?",
      "opts": [
-      "Each plant spends its energy in a different way: on growing and surviving, or on seeds quickly",
+      "Each plant spends energy in a different way: on growing and surviving, or on seeds quickly",
       "Moong has more water",
       "Mango trees do not use sunlight",
       "Slow growth always means a short life"
@@ -1613,7 +1613,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Mango sap near the stalk can sting the skin and lips, so wash your hands. Do not eat any fruit that smells sour or fizzy, or looks rotten.",
+   "safety": "A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Mango sap near the stalk can sting the skin and lips, so wash your hands. Do not give mango to anyone who is allergic to it. Do not eat any fruit that smells sour or fizzy, or looks rotten.",
    "schedule": [
     {
      "day": 1,
@@ -2093,7 +2093,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Note that a money plant already has small aerial roots at its nodes. That is a clue your child might notice."
+     "parent": "Do not correct the guess. Note that a money plant already has small aerial roots at the nodes. That is a clue your child might notice."
     },
     {
      "id": "s2",
@@ -2517,7 +2517,7 @@
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think these foods are for? What did you see? Why do you think it happened?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: a carrot, an onion and a potato are food stores for the plant. What I saw: the shoots grew with just water, using the stored food. Why: in the good season the plant made more food than it needed, and saved it so it could restart in the next season. A carrot plant, left alone, spends its savings in its second year to flower and make seeds.",
+     "parent": "A good answer sounds like this. What I think: a carrot, an onion and a potato are food stores for the plant. What I saw: the shoots grew with just water, using the stored food. Why: in the good season the plant made more food than the plant needed, and saved it so it could restart in the next season. A carrot plant, left alone, spends the savings in the second year to flower and make seeds.",
      "think": "We eat these stores. What would a carrot plant do if we did not?"
     }
    ]
@@ -2812,7 +2812,7 @@
      "do": "1. Tape sheets into a strip about 5 metres long. 2. Mark a 'start' line. 3. Measure and mark each plant: moong 0.25 millimetres, which is a dot. Papaya 4 millimetres. Coconut palm 70 millimetres. Mango tree 100 millimetres. Great Banyan 250 millimetres. Peepal 2,300 millimetres. Bristlecone pine 4,800 millimetres. 4. Write the plant's name at each mark.",
      "say": "One millimetre is one year. A moong plant lives about three months. That is a quarter of a millimetre, less than the tip of a pencil. A bristlecone pine is 4,800 millimetres. How long is that?",
      "kid": "Make a strip. One millimetre is one year. Mark each plant at the right length.",
-     "parent": "4,800 millimetres is 480 centimetres, which is 4 metres and 80 centimetres. The peepal's 2,300 millimetres is 2 metres 30 centimetres. The numbers for the trees are reported and rounded. A coconut palm is given a lifespan of about 70 years, and the Great Banyan is more than 250 years old. A moong plant, at about 3 months, is a quarter of a millimetre, which is a speck of a dot.",
+     "parent": "4,800 millimetres is 480 centimetres, which is 4 metres and 80 centimetres. The peepal's 2,300 millimetres is 2 metres 30 centimetres. The numbers for the trees are reported and rounded. A coconut palm is given a lifespan of about 70 years, and the Great Banyan is said to be about 250 years old. A moong plant, at about 3 months, is a quarter of a millimetre, which is a speck of a dot.",
      "check": {
       "t": "mcq",
       "q": "On the tape, a mango tree that lives 100 years is 100 millimetres long. How many centimetres is that?",
@@ -2890,7 +2890,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes holes in the bottom of a bucket. Wash your hands after touching soil and marigold plants. Marigold sap can irritate some people's skin.",
+   "safety": "A grown-up makes the holes in the bottom of each pot or bucket, with a nail or a drill, because these are sharp. Wash your hands after touching soil and marigold plants. Marigold sap can irritate some people's skin.",
    "schedule": [
     {
      "day": 1,
@@ -3028,7 +3028,7 @@
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about pinching and flowers? What did you see? Why do you think it happened?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: pinching off old flowers makes marigolds flower for longer. What I saw: the Pinch plants had more flowers than the Let Go plants in the last weeks. Why: a flower that has made seeds tells the plant that its job is nearly done, and the plant spends its food on the seeds. When we pinch, the plant tries again with new flowers. A plant that is allowed to make seeds slows down.",
+     "parent": "A good answer sounds like this. What I think: pinching off old flowers makes marigolds flower for longer. What I saw: the Pinch plants had more flowers than the Let Go plants in the last weeks. Why: a flower that has made seeds tells the plant that the job is nearly done, and the plant spends food on the seeds. When we pinch, the plant tries again with new flowers. A plant that is allowed to make seeds slows down.",
      "think": "If a plant that is allowed to make seeds slows down, what does that tell you about why some plants die after seeding?"
     }
    ]
@@ -3040,7 +3040,7 @@
    "title": "Ripe on Time: have a mango ready for a family dinner",
    "mins": 40,
    "problem": "Your family is having a dinner in four days. You need one hard green mango to be soft and ripe on that day, no sooner and no later. Design the best way to ripen it, using only things from the kitchen.",
-   "safety": "A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Do not eat any fruit that smells sour or looks rotten.",
+   "safety": "A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Do not give mango to anyone who is allergic to it, and mango sap can sting the skin. Do not eat any fruit that smells sour or looks rotten.",
    "constraints": [
     "Use one hard green mango for each design. All the mangoes must be the same kind and size.",
     "Use only ripe bananas or other ripe fruit, paper bags or boxes, cloth, newspaper, rice and a plate. No heater, stove, carbide or sealed plastic bag.",
@@ -3302,7 +3302,7 @@
   },
   {
    "t": "mcq",
-   "p": "A carrot plant stores food in its root in the first year. What does it do with the food in the second year?",
+   "p": "A carrot plant stores food in the root in the first year. What does the plant do with the food in the second year?",
    "opts": [
     "Uses it to grow a flower stalk and make seeds",
     "Makes a second, bigger carrot",
@@ -3310,7 +3310,7 @@
     "Stores it for a third year"
    ],
    "a": 0,
-   "why": "A carrot is a biennial. It saves up food in year one, and spends it in year two on flowers and seeds. Then the plant dies. We usually eat the carrot before it flowers.",
+   "why": "A carrot is a biennial. The plant saves up food in year one, and spends it in year two on flowers and seeds. Then the plant dies. We usually eat the carrot before the plant flowers.",
    "outcome": 3
   },
   {
@@ -3336,7 +3336,7 @@
     "It is half the old plant and half a new plant"
    ],
    "a": 0,
-   "why": "A cutting is a piece of the parent, so it has exactly the same instructions. A plant from a seed gets instructions from two parents, so it is a little different. Picking 'a little different' describes a seedling.",
+   "why": "A cutting is a piece of the parent, so it has exactly the same instructions. A plant from a seed gets instructions from two parents, so the new plant is a little different. Picking 'a little different' describes a seedling.",
    "outcome": 6
   },
   {
@@ -3514,7 +3514,7 @@
    "why_open": "Perennial grains would save ploughing and sowing each year. Plant breeders are trying, but so far the harvests are smaller than those of annual crops."
   },
   {
-   "q": "Why does an annual plant die after setting seed, when it could go on living?",
+   "q": "Why does an annual plant die after setting seed, when they could go on living?",
    "why_open": "Two main ideas, a food drain and a chemical signal from the seeds, both have support. Scientists do not agree on which matters most, and it may differ from plant to plant."
   }
  ],
@@ -3537,7 +3537,7 @@
   },
   {
    "j": "Why did the green mango blush?",
-   "a": "It overheard a ripe banana telling secrets."
+   "a": "They overheard a ripe banana telling secrets."
   },
   {
    "j": "What did the carrot say in its second year?",
@@ -3553,7 +3553,7 @@
   },
   {
    "j": "Why was the coriander in a hurry in summer?",
-   "a": "It had bolted before the others."
+   "a": "They had bolted before the others."
   },
   {
    "j": "What did the banana stem say to its sucker?",
@@ -3561,11 +3561,11 @@
   },
   {
    "j": "Why did the marigold keep flowering?",
-   "a": "Somebody kept pinching its old ideas."
+   "a": "Somebody kept pinching the old ideas."
   },
   {
    "j": "Why did the log tell the best stories?",
-   "a": "It had a ring for every year."
+   "a": "A log has a ring for every year."
   }
  ],
  "maths": [
@@ -3605,7 +3605,7 @@
    "why_maths": "Adding the weekly counts for each group lets you compare two lines of numbers with a single total."
   },
   {
-   "problem": "Mizoram bamboo flowered around 2006. It flowers about every 48 years. About what year will it flower next? A child who is 10 years old in 2026 will be how old then?",
+   "problem": "Mizoram bamboo flowered around 2006. The bamboo flowers about every 48 years. About what year will it flower next? A child who is 10 years old in 2026 will be how old then?",
    "answer": "About 2054. The child will be 38.",
    "explain": "2006 + 48 = 2054. A child who is 10 in 2026 was born in 2016. 2054 take away 2016 is 38. So the child will be about 38.",
    "math_unit": "math.addition-subtraction.mental-strategies.L4",
@@ -3899,7 +3899,7 @@
   ],
   "other_view": {
    "who": "Many plant scientists",
-   "view": "The banana does not speak to the mango. It releases a gas as part of its own ripening, and the mango reacts to the chemical, as iron reacts to damp. Calling this a message or a conversation is a way of talking that adds an idea the chemistry does not need."
+   "view": "The banana does not speak to the mango. A gas is released as part of the banana's own ripening, and the mango reacts to the chemical, as iron reacts to damp. Calling this a message or a conversation is a way of talking that adds an idea the chemistry does not need."
   },
   "practice": {
    "title": "Smell the message",
@@ -3915,9 +3915,9 @@
   "art": "A paper bag cut open to show a ripe banana and a raw mango, with wavy lines from one to the other, and a girl smelling the air from the open top."
  },
  "how_we_found_out": {
-  "story": "For years, citrus growers in the United States noticed that lemons turned yellow sooner in sheds heated with kerosene stoves. Everyone thought that the warmth of the stove did the work. In the 1920s, an American plant scientist, F. E. Denny, tested this. He kept lemons in chambers at the same temperature, and changed only the air. Lemons in air with a little of the stove's fumes turned yellow much faster than lemons in clean air. So the warmth was not the cause. A gas in the smoke was. He found that the active gas in the fumes was ethylene. In 1934, an English plant scientist, Richard Gane, showed that ripening fruit make ethylene themselves. A fruit does not need a stove at all. A ripe fruit makes the gas, and the gas ripens the fruit nearby.",
+  "story": "For years, citrus growers in the United States noticed that lemons turned yellow sooner in sheds heated with kerosene stoves. Everyone thought that the warmth of the stove did the work. In the 1920s, an American plant scientist, F. E. Denny, tested this. Other scientists had already found that a gas in the shed air, not the warmth, seemed to do the work. Denny reported that the active gas in the stove fumes was ethylene, and that even a tiny amount turned green lemons yellow. So the warmth was not the cause. A gas in the smoke was. In 1934, an English plant scientist, Richard Gane, showed that ripening fruit make ethylene themselves. A fruit does not need a stove at all. A ripe fruit makes the gas, and the gas ripens the fruit nearby.",
   "who": "F. E. Denny, an American plant scientist, and Richard Gane, an English plant scientist",
   "when": "The 1920s and 1934",
-  "wrong_idea": "Growers believed that the heat of the stoves coloured the lemons. Denny kept the temperature the same and changed only the gas, and the gas alone made the difference."
+  "wrong_idea": "Growers believed that the heat of the stoves coloured the lemons. Tests that kept the temperature the same and changed only the gas showed that the gas alone made the difference."
  }
 }

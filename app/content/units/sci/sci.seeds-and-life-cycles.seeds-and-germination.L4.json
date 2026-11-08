@@ -191,11 +191,11 @@
    "concept": "The keys that unlock a sleeping seed",
    "status": "defined",
    "definition": "Different seeds wait for different signs. The sign might be a thin spot in the coat, a spell of cold, a flash of light, smoke from a fire, or a big rain. A sign that wakes a seed is like a key.",
-   "description": "A hard coat can be thinned by sandpaper, by slowly rotting in the soil, or by passing through the gut of a bird or a bat. A spell of cold tells apple seeds that winter is over. Light tells tiny seeds that they are near the surface, so their small food store will last until the shoot reaches the sun. Smoke tells some Australian and South African seeds that a fire has just cleared the land and given them room. A big rain tells some desert wildflower seeds that the soil is wet deep down. In the 1940s, a plant scientist called Frits Went reported that seeds of some desert wildflowers have a chemical in the coat that only a large rain washes away. A small shower does not wash it away, so the seeds stay asleep. A small shower would wet the soil for only a day or two. The keys are all different. But each one is a sign that tells the seed that a good time has come.",
+   "description": "A hard coat can be thinned by sandpaper, by slowly rotting in the soil, or by passing through the gut of a bird or a bat. A spell of cold tells apple seeds that winter is over. Light tells tiny seeds that they are near the surface, so their small food store will last until the shoot reaches the sun. Smoke tells some Australian and South African seeds that a fire has just cleared the land and given them room. A big rain tells some desert wildflower seeds that the soil is wet deep down. In the 1940s, a plant scientist called Frits Went suggested that seeds of some desert wildflowers have a chemical in the coat that only a large rain washes away. A small shower does not wash it away, so the seeds stay asleep. A small shower would wet the soil for only a day or two. The keys are all different. But each one is a sign that tells the seed that a good time has come.",
    "examples": [
     "Tamarind: a rough rub thins the coat, so water can get in.",
     "Apple: weeks of cold tell the seed that winter has passed.",
-    "Some desert wildflowers: a big rain, about a centimetre or more, washes away the sleep chemical."
+    "Some desert wildflowers: a big rain washes away the sleep chemical."
    ],
    "art": "Six keys on a ring, each labelled with a sign: rub, cold, light, smoke, big rain and bird gut, next to six different seeds.",
    "perspectives": []
@@ -257,7 +257,7 @@
     "Chana and peas: seed leaves stay under the soil.",
     "Rice, wheat and maize: a pointed sheath pushes up, and the first leaf follows inside it."
    ],
-   "art": "Three seedlings in cutaway soil: moong with its seed leaves in the air, chana with its seed leaves buried, and rice with a pointed sheath.",
+   "art": "Three seedlings in cutaway soil: moong with seed leaves in the air, chana with seed leaves buried, and rice with a pointed sheath.",
    "perspectives": []
   },
   {
@@ -276,7 +276,7 @@
   {
    "concept": "Light flips the switch: how a seedling knows she has reached the sun",
    "status": "idea",
-   "description": "A seedling has light sensors, which are proteins that change shape when light hits them. The first ones found were called phytochromes, which sense red and far-red light. Others sense blue light. When a sensor catches light, it sends a message that changes which genes are switched on. The stem slows down, the leaves open and the cells start to make chlorophyll. Scientists have found many of the proteins and genes in this chain. A seedling cannot see the way we do, and they have no eyes. Yet they tell the difference between dark, shade and bright sun, and tells the direction the light comes from. How the seedling's cells combine all these messages is still being worked out.",
+   "description": "A seedling has light sensors, which are proteins that change shape when light hits them. The first ones found were called phytochromes, which sense red and far-red light. Others sense blue light. When a sensor catches light, it sends a message that changes which genes are switched on. The stem slows down, the leaves open and the cells start to make chlorophyll. Scientists have found many of the proteins and genes in this chain. A seedling cannot see the way we do, and they have no eyes. Yet they tell the difference between dark, shade and bright sun, and tell the direction the light comes from. How the seedling's cells combine all these messages is still being worked out.",
    "examples": [
     "A moong seedling moved from a dark box to a window starts to turn green the same day.",
     "A seedling under the shade of a bigger plant stretches taller, as if she senses the shade.",
@@ -298,7 +298,7 @@
    "concept": "How seeds keep for years: dry and cold slow the ageing",
    "status": "defined",
    "definition": "Seeds slowly age and get damaged inside, even when they are asleep. Dry and cold slow the damage. A drier, colder seed lives longer.",
-   "description": "A sleeping seed still uses a tiny bit of food and slowly wears out. Water is what drives the wearing out, so a very dry seed lasts longer. Warmth speeds it up, so a cold seed lasts longer too. An American seed scientist, James Harrington, wrote down two rough rules of thumb. For each 1 percent less water in a seed, the seed lives about twice as long. For each 5 degrees Celsius colder, the seed lives about twice as long. They only work within limits, but they show why seed banks dry their seeds and freeze them. India's national seed bank in New Delhi keeps crop seeds in very cold rooms at around minus 20 degrees Celsius. At home, a monsoon kitchen is bad for seeds, because the air is damp and warm. A tightly closed jar with a dry spoon of rice or a silica packet keeps the seeds much drier.",
+   "description": "A sleeping seed still uses a tiny bit of food and slowly wears out. Water is what drives the wearing out, so a very dry seed lasts longer. Warmth speeds it up, so a cold seed lasts longer too. An American seed scientist, James Harrington, wrote down two rough rules of thumb. For each 1 percent less water in a seed, the seed lives about twice as long. For each 5 degrees Celsius or so colder, the seed lives about twice as long. They only work within limits, but they show why seed banks dry their seeds and freeze them. India's national seed bank in New Delhi keeps crop seeds in very cold rooms at around minus 20 degrees Celsius. At home, a monsoon kitchen is bad for seeds, because the air is damp and warm. A tightly closed jar with a dry spoon of rice or a silica packet keeps the seeds much drier.",
    "examples": [
     "A sealed jar of dry chana in a cool cupboard keeps the seeds sprouting for years.",
     "The same chana in an open bowl in a monsoon kitchen can mould, or sprout too early.",
@@ -328,7 +328,7 @@
     "Farmers in some places soak seed overnight and dry the seed in the shade before sowing, so that the plants come up faster.",
     "Seeds from a plant that grew in a cool summer can stay dormant longer than seeds from a plant that grew in a hot summer."
    ],
-   "art": "A seed with a thin trail of tiny marks behind it leading back to a mother plant standing in rain and cold.",
+   "art": "A seed with a thin trail of tiny marks leading back to a mother plant standing in rain and cold.",
    "perspectives": [
     {
      "who": "Many seed scientists",
@@ -383,7 +383,7 @@
    "status": "debated"
   },
   {
-   "claim": "The deeper you sow a seed, the safer it is.",
+   "claim": "The deeper you sow a seed, the safer they are.",
    "who": "Many beginner gardeners.",
    "for": "Deep soil is cooler and wetter, and birds and ants cannot find seeds easily.",
    "against": "A small seed has only a small food store. If the seed is buried too deep, the shoot uses up the food before the shoot reaches the light. A seed should be sown about two or three times as deep as the seed is wide.",
@@ -762,7 +762,7 @@
       "KEY: A flash of light, which says the seed is near the top of the soil.",
       "SEED: A seed of a bush plant in Australia, lying in burnt ground.",
       "KEY: Chemicals in smoke from a fire.",
-      "SEED: A desert wildflower seed with a sleep chemical in its coat.",
+      "SEED: A desert wildflower seed with a sleep chemical in the coat.",
       "KEY: A big rain that washes the chemical away.",
       "SEED: A moong seed in a kitchen jar.",
       "KEY: Just water and warmth. The seed wakes in a day or two.",
@@ -970,7 +970,7 @@
      "t": "write",
      "p": "Explain in your own words why a rule says to sow a seed about two or three times as deep as the seed is wide.",
      "lines": 4,
-     "a": "A seed has to push its shoot up through the soil using its own food, because there is no light underground. A deeper sowing means a longer climb. A bigger seed has more food and can climb further. The rule matches the depth to the amount of food, so the shoot arrives at the surface before the food runs out.",
+     "a": "A seed has to push a shoot up through the soil using the food stored inside, because there is no light underground. A deeper sowing means a longer climb. A bigger seed has more food and can climb further. The rule matches the depth to the amount of food, so the shoot arrives at the surface before the food runs out.",
      "why": "A strong answer links the depth to the food store and says that the shoot lives on that food until it reaches the light.",
      "outcome": 3
     },
@@ -1121,7 +1121,7 @@
     },
     {
      "t": "mcq",
-     "p": "A tamarind seed soaked in water for a day does not swell. A tamarind seed with a rubbed patch on its coat swells in the same time. What is the best explanation?",
+     "p": "A tamarind seed soaked in water for a day does not swell. A tamarind seed with a rubbed patch on the coat swells in the same time. What is the best explanation?",
      "opts": [
       "The hard coat keeps water out until it is thinned",
       "The rubbed seed is hungrier",
@@ -1466,7 +1466,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Soaking a seed in water for a short time and then drying it again can make the seed wake faster the next time it gets wet.",
+     "p": "Soaking a seed in water for a short time and then drying it again can make the seed wake faster the next time the seed gets wet.",
      "a": true,
      "why": "True. This is called priming, and farmers and seed companies use it. It shows that the past of a seed can change how the seed behaves later.",
      "outcome": 2
@@ -1811,7 +1811,7 @@
      "qty": 1
     }
    ],
-   "safety": "If a grown-up cuts bottles, cover the cut edges with tape. Do not eat the seeds that have been in soil. Wash your hands after touching soil.",
+   "safety": "If a grown-up cuts bottles, cover the cut edges with tape. Do not eat the seeds that have been in soil. Wash your hands after touching soil. If anyone at home is allergic to mustard or chana, an adult should handle the seeds.",
    "schedule": [
     {
      "day": 1,
@@ -1851,7 +1851,7 @@
     },
     {
      "art": "A row of tumblers on a bright windowsill with green shoots coming up in some and none in others, and a child counting.",
-     "caption": "3. Water a little. Count the shoots at the top every two days."
+     "caption": "3. Water a little. Count the shoots at the top 3, 5 and 7 days after sowing."
     },
     {
      "art": "Soil tipped out onto newspaper, showing a plump chana with a green shoot and a mustard seed with a thin, pale, curled shoot.",
@@ -1907,7 +1907,7 @@
      "kid": "A tiny seed and a big seed. Which can climb from deep down? Why?",
      "ask": [
       {
-       "q": "Why might a big seed do better when it is deep?",
+       "q": "Why might a big seed do better when sown deep?",
        "good": [
         "Big seeds have more food.",
         "Big seeds are stronger.",
@@ -1915,7 +1915,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Children often say the big seed wins, but their reason is usually 'it is stronger'. That is a good start. The food store is the real reason, and the test will show it."
+     "parent": "Do not correct the guess. Children often say the big seed wins, but their reason is usually 'the big seed is stronger'. That is a good start. The food store is the real reason, and the test will show it."
     },
     {
      "id": "s2",
@@ -2372,7 +2372,7 @@
      "do": "After 48 hours, weigh both groups again. Write the weights and press a seed from each group. Ask your child to say what they see.",
      "say": "It has been two days. Which group has changed? How much heavier is it? Which is still hard?",
      "kid": "Weigh both groups again. Which changed? Which is still hard?",
-     "parent": "Rubbed seeds usually swell within a day, and the weight about doubles. Untouched seeds usually stay hard, though a few may swell slowly. If your results are different, write down what you saw, because that is a result too.",
+     "parent": "Rubbed seeds usually swell within a day, and the weight goes up a lot, often by half or more. Untouched seeds usually stay hard, though a few may swell slowly. If your results are different, write down what you saw, because that is a result too.",
      "wait": "Weigh after 48 hours"
     },
     {
@@ -2487,7 +2487,7 @@
      "do": "Rinse the sprouting chana with a little water. Squeeze out the extra. Cover them again.",
      "say": "The chana are waking. Keep them damp. We will test them in a few days.",
      "kid": "Rinse the sprouting chana. Keep the cloth damp.",
-     "wait": "Rinse on days 3 and 5"
+     "wait": "Rinse on day 3, and keep the cloth damp until day 7"
     },
     {
      "id": "s3",
@@ -2693,7 +2693,7 @@
      "qty": 1
     }
    ],
-   "safety": "Jackfruit sap is sticky, so rub a little cooking oil on your hands first. Do not eat the seeds from this test, because they are tested raw. Wash your hands afterwards.",
+   "safety": "Jackfruit sap is sticky, so rub a little cooking oil on your hands first. Mango skin and sap can irritate some people's skin, so a grown-up handles the mango stones. Do not eat the seeds from this test, because they are tested raw. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -2791,7 +2791,7 @@
      "do": "After three weeks, look at both pots. Count the shoots in each pot. Gently dig up a few seeds that did not sprout and look at them.",
      "say": "Count the shoots in the Fresh pot and in the Dried pot. Which is better? What do the seeds that did not sprout look like?",
      "kid": "Count the shoots in both pots. Dig up one seed that did not sprout.",
-     "parent": "Fresh seeds usually sprout in two to four weeks, so give them time. Results can vary. Many seeds that dried for a week do not sprout. Write down what you actually find.",
+     "parent": "Fresh seeds can take two to six weeks to sprout, so if the Fresh pot is still bare at three weeks, wait longer before you decide. Results can vary. Many seeds that dried for a week do not sprout. Write down what you actually find.",
      "wait": "Look after 3 weeks"
     },
     {
@@ -2801,7 +2801,7 @@
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about seeds that dry out? What did you see? Why do you think it happened?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: jackfruit seeds cannot survive drying out. What I saw: the dried seeds lost a lot of weight and fewer sprouted than the fresh seeds. Why: a wet-keeping seed has no way to survive losing most of its water, so the seed must be sown fresh. If both pots sprouted equally, say that. Some jackfruit seeds survive some drying, and a longer drying time would show a difference.",
+     "parent": "A good answer sounds like this. What I think: jackfruit seeds cannot survive drying out. What I saw: the dried seeds lost a lot of weight and fewer sprouted than the fresh seeds. Why: a wet-keeping seed has no way to survive losing most of the water, so the seed must be sown fresh. If both pots sprouted equally, say that. Some jackfruit seeds survive some drying, and a longer drying time would show a difference.",
      "think": "Chana can wait for years. A jackfruit seed cannot. How would each plant pay for that difference?"
     }
    ]
@@ -2928,7 +2928,7 @@
      "id": "s3",
      "mins": 8,
      "context": "In this step you make a labelled packet for each kind of seed.",
-     "do": "1. Fold four envelopes from paper. 2. Write on each: the name of the plant, the date, which fruit it came from and the number of seeds. 3. Put the dry seeds in. Keep 10 seeds of each kind out for the test.",
+     "do": "1. Fold four envelopes from paper. 2. Write on each: the name of the plant, the date, which fruit the seeds came from and the number of seeds. 3. Put the dry seeds in. Keep 10 seeds of each kind out for the test.",
      "say": "A good seed packet tells a story. What is the plant? When did you save it? Where did the seed come from?",
      "kid": "Make four packets. Write the name and the date on each. Keep ten seeds out for testing.",
      "parent": "Add a line for the germination percentage, which you will fill in later.",
@@ -3301,7 +3301,7 @@
    "opts": [
     "A living seed holds back from sprouting until the right sign comes",
     "A seed has died",
-    "A seed has grown its first root",
+    "A seed has grown a first root",
     "A seed has been stored in a jar"
    ],
    "a": 0,
@@ -3791,7 +3791,7 @@
  },
  "sources": {
   "founder": [
-   "Founder's notes in ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md: the weekly journey 'Let grow and grow' (look after a seed, record its progress, share it with friends), used in My Seed Library",
+   "Founder's notes in ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md: the weekly journey 'Let grow and grow' (look after a seed, record how the seed grows, share seeds with friends), used in My Seed Library",
    "The Class 3 unit on seeds and how they sprout, which this unit builds on: the five-cup test and what seeds need are taken to what makes seeds wake at different times, and why",
    "The founder's SCI card on Nikolai Vavilov, whose seed collecting was about keeping variety, used in the big question about who owns seeds"
   ],
