@@ -117,7 +117,7 @@ A commons is a resource that a whole community shares, such as a village pond, a
 - **Elinor Ostrom and her followers:** Real communities often solve this problem themselves. They know who may use the commons, set limits, watch each other, punish cheating fairly and talk often. Their rules work best when the people who use the commons help to make the rules.
 - **Many fisheries scientists today:** Both can be true. Small groups who know each other manage well. Large open seas, with many boats from many places and no shared rules, are the hardest to protect, and they need agreements between countries.
 ### Should we bring back animals that have disappeared? The cheetah in India · *debated*
-The Asiatic cheetah once ran across India's grasslands. It was declared extinct in India in 1952. In September 2022, eight cheetahs from Namibia in Africa were brought by aeroplane to Kuno National Park in Madhya Pradesh, and more came from South Africa in 2023. The plan is to start a group of cheetahs in India and help the dry grasslands that they live in. Some of the cheetahs have died since, and scientists and officials have argued about whether the plan is wise. This is called reintroduction, and it is being tried in many countries. The cheetahs are of an African kind, not the Asiatic cheetah that once lived here, and that is part of the argument. No one yet knows how it will end.
+Asiatic cheetahs once ran across India's grasslands. They were declared extinct in India in 1952. In September 2022, eight cheetahs from Namibia in Africa were brought by aeroplane to Kuno National Park in Madhya Pradesh, and more came from South Africa in 2023. The plan is to start a group of cheetahs in India and help the dry grasslands that they live in. Some of the cheetahs have died since, and scientists and officials have argued about whether the plan is wise. This is called reintroduction, and it is being tried in many countries. The cheetahs are of an African kind, not the Asiatic cheetah that once lived here, and that is part of the argument. No one yet knows how it will end.
 - e.g. Gray wolves were brought back to Yellowstone National Park in the United States in 1995, and some scientists report that the rivers and trees changed as the deer moved.
 - e.g. The one-horned rhino in Assam recovered from very few animals a century ago, after strong protection.
 - e.g. Gharials, a long-snouted crocodile of Indian rivers, are bred in centres and released into rivers like the Chambal.
@@ -201,7 +201,7 @@ Her grandmother was Ammamma, and Ammamma was a clam collector. For forty years s
 
 On the shelf above the kitchen window sat a row of clam shells. Under each one, in white chalk, was a number. Thirty-one shells, from 1 to 31. "Each year I keep the biggest clam I find," Ammamma said. "Don't touch."
 
-In the school holidays, Meenu was finally allowed to go out in the boat. Ammamma gave her a steel ring as wide as a bangle. "Any clam that slips through this ring is too small," she said. "It goes back in the water."
+In the school holidays, Meenu was finally allowed to go out in the boat. Ammamma gave her a steel ring as wide as a bangle. "Any clam that slips through this ring is too small," she said. "They go back in the water."
 
 Meenu found a clam, then another. Half of them slipped through the ring. She put them back, one by one, and the basket filled slowly. "Ammamma, it would be much faster if we kept the small ones too," she said.
 
@@ -248,7 +248,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   *Parent does:* Draw the pond board. Put 16 fish tokens in the pond. Give each player a bowl. Put the year marker on Year 1.  
   *Parent says:* This pond has 16 fish. We are three villagers, and we all live from this pond. Fish have young every year. Let's find out how many we can catch.  
   *Child mode:* Draw a pond. Put 16 beans in it. Each player gets a bowl.
-  - Note: Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now.
+  - Note: Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now. Dried beans can choke a child under five, so keep them away from little ones.
 - **s2 (6 min)**  
   *Parent does:* Play Year 1 with every villager catching 4 fish. Take 12 fish from the pond. Count what is left. Then add 1 new fish for every 2 left.  
   *Parent says:* Imagine we are all very hungry. Each of us catches 4 fish. That is 12 fish. How many are left in the pond? How many young fish will be born?  
@@ -313,8 +313,8 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 ### e1 · Beans in the Jar: how many are there, if you cannot count them all at once? (35 min)
 - **question:** If you mark 40 beans, mix them back into a jar and scoop again, can the number of marked beans in the scoop tell you how many beans are in the whole jar?
 - **predict:** Before you start, guess how many beans are in the jar just by looking. Then guess whether a few scoops can give a better answer than your eyes. Why do you think so?
-- **fair test:** Every scoop uses the same small katori, and you shake the jar the same way before each scoop. You return all the beans to the jar each time, so the jar never changes. Only the scoop changes, so any difference between estimates comes from chance, and from how many scoops you take.
-- **safety:** Dried beans can choke a child under five, so keep them away from little ones. Do not eat the marked beans. Use the marker pen in an open room and keep the cap on when you are not using it.
+- **fair test:** Every scoop uses the same small spoon, and you shake the jar the same way before each scoop. You return all the beans to the jar each time, so the jar never changes. Only the scoop changes, so any difference between estimates comes from chance, and from how many scoops you take.
+- **safety:** Dried beans can choke a child under five, so keep them away from little ones. Do not eat the marked beans, and never eat raw rajma, which can make you ill. If anyone in the family is allergic to chickpeas or beans, let someone else handle them. Use the marker pen in an open room and keep the cap on when you are not using it.
 - **record:** Fill in the table with one row for each scoop. Write M, the number of beans you marked, at the top. At the end, write the average of your estimates, and the true number from under the lid.
 - **results table:** Scoop number | Beans in the scoop (C) | Marked beans in the scoop (R) | Estimate of the jar: M times C divided by R
 - **s1 (5 min)**  
@@ -324,17 +324,17 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   - Ask: How did you decide on your number? (good: I looked at how big the jar is.; I guessed how many would fit in my hand.; I compared it with a jar I know.)
   - Note: A grown-up counts the beans in tens the day before, puts exactly 240 in the jar, and writes the number on a folded slip hidden under the lid. Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min)**  
-  *Parent does:* Scoop one katori of beans onto the plate. Count the beans in the scoop. Write the number as M. Put a dot on each bean with the marker.  
+  *Parent does:* Scoop one spoonful of beans onto the plate. Count the beans in the scoop. Write the number as M. Put a dot on each bean with the marker.  
   *Parent says:* We take a scoop of beans and count them. Then we put a dot on each one. This is the number we marked.  
   *Child mode:* Scoop some beans. Count them. This is M. Put a dot on each bean.
-  - Note: A scoop usually holds 35 to 45 chickpeas. If your katori holds many more than 60, use a tablespoon, and scoop twice. M can be any number, as long as you count it exactly.
+  - Note: Test your spoon first: it should hold about 30 to 40 chickpeas. If it holds many more than 60, use a smaller spoon. M can be any number, as long as you count it exactly.
 - **s3 (4 min)**  
   *Parent does:* Pour the marked beans back into the jar. Put the lid on. Shake the jar 20 times, turning it over and around. Wait a moment for the beans to settle.  
   *Parent says:* The marked beans must mix in with all the others. We shake the jar well. If they stayed at the top, the scoop would be unfair.  
   *Child mode:* Pour the marked beans back. Put the lid on. Shake it 20 times.
   - Check: Why must we shake the jar well before the second scoop? → **So the marked beans mix evenly with the others**
 - **s4 (8 min)**  
-  *Parent does:* Scoop one katori from the jar onto the plate. Count all the beans in it, and write the number as C. Count the dotted ones, and write the number as R. Work out M times C, then divide by R.  
+  *Parent does:* Scoop one spoonful from the jar onto the plate. Count all the beans in it, and write the number as C. Count the dotted ones, and write the number as R. Work out M times C, then divide by R.  
   *Parent says:* Now the second scoop. How many beans in all? How many have a dot? If a fraction of this scoop is marked, a fraction of the whole jar is marked too.  
   *Child mode:* Scoop again. Count all the beans. Count the dots. Work out the estimate.
   - Note: If R is 0, there is nothing to divide by. Put the beans back, shake, and scoop again. Write down that you had to do this, because it tells you something about small samples.
@@ -354,7 +354,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **question:** Which grows moong best: clean tap water, rice-washing water, water with a little washing-up liquid in it, or water with salt in it?
 - **predict:** Before you start, guess which cup will grow the tallest sprouts and which the shortest. Why do you think so?
 - **fair test:** The seeds come from the same packet, the cups and paper towels are the same, and each cup gets the same amount of liquid at the same time of day. The cups sit side by side at one window. Only the liquid is different, so any difference comes from the liquid.
-- **safety:** Do not taste any of the liquids. Pour the soapy and salty water down the drain at the end, not on garden plants. Wash your hands after touching the towels. A little white fuzz on the paper towel is mould, so do not breathe it in. A grown-up throws away the towels and seeds in a closed bag.
+- **safety:** Do not taste any of the liquids. If anyone in the family is allergic to moong or other pulses, a grown-up handles the seeds. Pour the soapy and salty water down the drain at the end, not on garden plants. Wash your hands after touching the towels. A little white fuzz on the paper towel is mould, so do not breathe it in. A grown-up throws away the towels and seeds in a closed bag.
 - **record:** Fill in the table. On day 6, draw one sprout from each cup, side by side, and colour the roots and leaves as they look.
 - **results table:** Cup and liquid | Seeds sprouted by day 3 (out of 10) | Height of the 3 tallest sprouts on day 6 (cm) | What the roots and leaves looked like
 - **schedule:** day 1: Guess. Make the four liquids and set up the four cups with 10 seeds each. (20 min); day 2: Add 1 tablespoon of each liquid to its cup. Look at the seeds. (3 min); day 3: Add 1 tablespoon of liquid. Count how many seeds have a root showing. Write it down. (5 min); day 4: Add 1 tablespoon of liquid to each cup. (3 min); day 5: Add 1 tablespoon of liquid to each cup. (3 min); day 6: Measure the 3 tallest sprouts in each cup. Draw one sprout from each. Say what you think, what you saw and why. (11 min)
@@ -390,7 +390,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **question:** When rain falls on the ground, which material lets it soak through fastest and most: stones, sand, loose soil or pressed-down soil?
 - **predict:** Before you start, guess the order of the four, from the fastest to let the water through to the slowest. Why do you think so?
 - **fair test:** Each funnel is cut from the same kind of bottle, plugged with the same cloth and filled to the same height. You pour the same 100 millilitres in the same way and start timing at the same moment. Only the material is different, so any difference comes from the material.
-- **safety:** A grown-up cuts the bottles with scissors or a knife. Rub the cut edge with a spoon handle so it is not sharp. Do the experiment on a tray or in a sink, as it will drip.
+- **safety:** A grown-up cuts the bottles with scissors or a knife. Rub the cut edge with a spoon handle so it is not sharp. Do the experiment on a tray or in a sink, as it will drip. Wash your hands after touching the soil.
 - **record:** Fill in the table. Draw the four funnels in a row with a line showing the height of the material, and draw blue arrows to show how much water came out of each.
 - **results table:** Funnel and material | Time for the first drip (seconds) | Water collected after 3 minutes (millilitres) | Water still held in the material (millilitres)
 - **s1 (5 min)**  
@@ -540,7 +540,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 
 ## Projects
 ### p1 · Kitchen Seed Bank: which seeds in my kitchen are still alive? (55 min, 8 days)
-- **safety:** Keep the seeds away from children under five, as they can choke on them. Do not eat the sprouted seeds from a damp towel. Wash your hands afterwards.
+- **safety:** Keep the seeds away from children under five, as they can choke on them. Do not eat the sprouted seeds from a damp towel. If anyone in the family is allergic to pulses, mustard or fenugreek, a grown-up handles those seeds. Wash your hands afterwards.
 - **record:** A table with a row for each seed and a column for each day you counted. At the end, work out the percentage of seeds that sprouted: sprouted seeds, divided by 10, times 100. Draw a bar chart.
 - **schedule:** day 1: Guess. Count 10 of each seed onto a damp paper towel in its own plate. (20 min); day 2: Look. Add a spoon of water if the towel is drying. Count the sprouted seeds. (5 min); day 3: Look. Add water if needed. Count the sprouted seeds. (5 min); day 5: Look. Add water if needed. Count the sprouted seeds. (5 min); day 8: Count the sprouted seeds. Work out the percentage for each. Draw a bar chart. Say what you think, what you saw and why. (20 min)
 - **s1 (5 min)**  
@@ -733,9 +733,9 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
    **Answer:** A strong answer says that both ideas appear in real life. Guards and fines help when people do not know each other, and shared rules help when a community is small and trusts each other. It names what it would want to know, such as how many families there are.. *Why:* This is a debated question. A strong answer uses the Hardin and Ostrom ideas and does not say that one child is simply wrong.
 
 ## Videos
-- **How scientists count wild tigers with camera traps** (to be found, 5 min) id `to find`: To see camera traps in a forest and how stripes tell one tiger from another. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Mark and recapture: how to count animals you cannot count** (to be found, 4 min) id `to find`: To see the marking and recapturing steps on a real population, like the bean jar. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How groundwater and aquifers work** (to be found, 5 min) id `to find`: To see water moving through sand and rock under the ground, and how wells and pumping change it. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **Camera Traps "Capture" Elusive Tigers | National Geographic** (National Geographic, 3 min) id `vDYVCVgSANg`: To see camera traps in a forest and how stripes tell one tiger from another. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Mark recapture population estimation** (SiouxScience, 5 min) id `240806aPHVg`: To see the marking and recapturing steps on a real population, like the bean jar. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What Is Groundwater?** (KQED QUEST, 5 min) id `oNWAerr_xEE`: To see water moving through sand and rock under the ground, and how wells and pumping change it. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A pond makes 6 new fish a year, and the village catches 9 fish a year. What will happen to the pond over time?  
@@ -821,7 +821,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - If a rule is hard to follow, who should decide to change it?
 
 ## Jokes
-- Why did the marked bean feel important? *It was spot on, and everyone kept counting it.*
+- Why did the marked bean feel important? *They were spot on, and everyone kept counting them.*
 - Why was the pond council so calm? *They always left enough fish to have babies.*
 - How does a camera trap know which tiger it is? *She shows her stripes, and they are her ID.*
 - Why did the borewell go on a diet? *It was told to take less than it was given.*

@@ -696,9 +696,9 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    **Answer:** The wax turned into carbon dioxide and water vapour, which floated away. *Why:* Burning joins the wax with oxygen from the air to make invisible gases. In an open room, they float away, and the candle looks lighter. If the burning were done in a sealed jar, the total mass would stay the same.
 
 ## Videos
-- **How does a spring scale work? Hooke's law** (to be found, 4 min) id `to find`: To see how a spring stretches evenly with the load, as in the Rubber Band Scale. *Check:* Not yet found. Find one, watch it, and check that it says the stretch grows with the load up to a limit, and shows a graph.
-- **Centre of gravity: why things balance and why they topple** (to be found, 5 min) id `to find`: To see how a balance point is found and why a low, wide thing is steady, as in Where Does It Balance. *Check:* Not yet found. Find one, watch it, and check that it shows a plumb line or a balance and explains the centre of gravity as one point for all the weight.
-- **How the Earth was weighed: the Cavendish experiment** (to be found, 4 min) id `to find`: To see the two lead balls and the twisting wire that Cavendish used to find the density of the Earth. *Check:* Not yet found. Find one, watch it, and check that it describes the torsion balance and the result of about 5.4 times the density of water, and does not say Cavendish weighed the Earth directly on a scale.
+- **How does a Mechanical Scale work? (Spring Scale)** (Jared Owen, 5 min) id `LdZLLR8AfkM`: To see how a spring stretches evenly with the load, as in the Rubber Band Scale. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Centre of Gravity | Middle School Science | Khan Academy** (Khan Academy India - English, 5 min) id `4wlEIXGeMFM`: To see how a balance point is found and why a low, wide thing is steady, as in Where Does It Balance. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Cavendish Experiment** (Animations for Physics and Astronomy, 5 min) id `vWlCm0X0QC0`: To see the two lead balls and the twisting wire that Cavendish used to find the density of the Earth. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A shopkeeper's two-pan balance holds a mango and a 300-gram weight, and the pans are level on Earth. On the Moon, what will the pans do?  

@@ -580,7 +580,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 
 ## Videos
 - **Types of Circuits Experiment - Series, Parallel, Combination STEM for kids!** (Tinkering With Tiny Humans, 5 min) id `8vRgp3YZ04Y`: A short demonstration of two bulbs in a row and two bulbs side by side, with one bulb being unscrewed. Good to watch after Bulb Teams. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **An electric eel lights a string of lights** (An aquarium or science museum channel, 4 min) id `to find`: A real electric eel powering lights, to see thousands of tiny cells in a row adding their pushes. *Check:* No video id yet. Find a clip from an aquarium or museum that treats the eel kindly and gives the voltage correctly. A parent should preview it first.
+- **Can an Electric Eel power the lights on a Christmas Tree? (SPOILER WARNING: Sort of.)** (Tennessee Aquarium, 3 min) id `O7cIZcjqi2A`: A real electric eel powering lights, to see thousands of tiny cells in a row adding their pushes. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **RCDs, RCBOs & MCBs Explained — What They Do Inside Your Fuse Box** (LEARN ELECTRICS, 8 min) id `nVi5Idyt-jE`: For the parent and older children: how a fuse wire melts and how an MCB trips, and why the size must match the wire. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz

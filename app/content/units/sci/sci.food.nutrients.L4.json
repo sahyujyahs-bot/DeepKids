@@ -2351,13 +2351,12 @@
  ],
  "videos": [
   {
-   "title": "Burning a nut to measure its energy (calorimetry)",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "The Great Peanut Problem",
+   "channel": "FlinnScientific",
+   "youtube": "sllK6S7buPo",
+   "mins": 5,
    "why": "To see the groundnut test done in a classroom, and how heat is measured with water.",
-   "check": "Not yet found. Find one that shows a nut burning under a tin of water with a thermometer, and check that the energy calculation is correct."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
    "title": "How to read a food label (nutrition table and ingredients)",
@@ -2369,13 +2368,12 @@
    "check": "Not yet found. Prefer one made for India that shows the per 100 grams column and the order of ingredients. Check that it matches the FSSAI rules."
   },
   {
-   "title": "How cells release energy from food (respiration)",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "(OLD VIDEO) Cellular Respiration and the Mighty Mitochondria",
+   "channel": "Amoeba Sisters",
+   "youtube": "4Eo7JtRA7lg",
+   "mins": 8,
    "why": "To see sugar and oxygen go into a cell, and energy, carbon dioxide and water come out.",
-   "check": "Not yet found. Choose a short, accurate animation for children and check the facts about ATP and heat."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

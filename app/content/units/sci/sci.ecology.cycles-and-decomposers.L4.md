@@ -559,9 +559,9 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
    **Answer:** ['heat']. *Why:* Heat is energy spread out into the surroundings. Living things cannot use it again, so energy must keep coming from the Sun.
 
 ## Videos
-- **How fungi digest their food, in time-lapse** (to be found, 4 min) id `to find`: To watch a mould or a mushroom grow through food, and see the enzymes at work. *Check:* Not yet found. Find a short time-lapse of mould or fungus on food, watch all of it, and check that it is accurate and has no scary content for children before adding it.
-- **Dung beetles: the cleanup crew** (to be found, 5 min) id `to find`: To see dung beetles rolling and burying dung, and how they clear it. *Check:* Not yet found. Look for a CSIRO or a wildlife documentary clip on dung beetles. Check that the facts match this unit before adding it.
-- **The vultures of India** (to be found, 6 min) id `to find`: To hear how vultures crashed in India, what caused it, and how the birds are being saved. *Check:* Not yet found. Look for a Bombay Natural History Society or similar clip on the vulture crisis. Watch it first, because some films show dead animals.
+- **Mould Time-lapse - The Great British Year: Episode 4 Preview - BBC** (BBC, 2 min) id `GY_uMH8Xpy0`: To watch a mould or a mushroom grow through food, and see the enzymes at work. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Flight of the Dung Beetle | Narrated by David Attenborough | Operation Dung Beetle | BBC Earth** (BBC Earth, 3 min) id `Z7bY2UgLrH8`: To see dung beetles rolling and burying dung, and how they clear it. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Why India's Vultures Are Disappearing: The Veterinary Drugs Impact Explained | Connecting The Dots** (DD India, 6 min) id `Jo0LTZQ3KA4`: To hear how vultures crashed in India, what caused it, and how the birds are being saved. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A fungus grows through a fallen branch and turns it soft. What is she doing?  

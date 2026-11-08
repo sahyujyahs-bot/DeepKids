@@ -625,8 +625,8 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 
 ## Videos
 - **Why does rubbing move charge? The triboelectric effect explained** (to be found, 6 min) id `to find`: For the parent and older children: how rubbing two materials moves electrons, and why a ladder of materials appears. *Check:* Not yet found. Find one, watch it, and check that it says the cause is still debated and does not call plus and minus a property of one material.
-- **Slow-motion lightning: the feeler and the bright return stroke** (to be found, 5 min) id `to find`: To see in slow motion how a faint feeler steps down and a bright stroke travels back up. *Check:* Not yet found. Find high-speed camera footage, watch it first, and check that the flash is shown going up from the ground. Some footage may frighten young children.
-- **How a laser printer uses static charge** (to be found, 5 min) id `to find`: To see how a charged drum picks up powder only where the pattern is, which is static charge used on purpose. *Check:* Not yet found. Find one, watch it, and check that the explanation matches the charged drum and toner.
+- **Lightning Storm Recorded at 7000 Frames Per Second** (Florida Tech, 3 min) id `QUIpltFo_fg`: To see in slow motion how a faint feeler steps down and a bright stroke travels back up. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How does a Laser Printer work?** (Physics with Rakesh | IIT Madras, 5 min) id `6A5dc7etdNo`: To see how a charged drum picks up powder only where the pattern is, which is static charge used on purpose. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A comb rubbed on a shawl gains 5 billion electrons. How many has the shawl lost?  

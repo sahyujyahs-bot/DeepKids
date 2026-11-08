@@ -597,7 +597,7 @@ She squeezed the lime, and smelled it, and smiled.
 
 ## Videos
 - **Terminal velocity on a skydiver** (Mr Riddz Science, 4 min) id `EabUUrZFnFE`: To see a real skydiver speed up and then fall at a steady speed, and how her body shape changes the top speed. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **A coin dropped and a coin flicked sideways, in slow motion** (to be found, 3 min) id `to find`: To see that a dropped coin and a coin shot sideways from the same height land at the same moment. *Check:* Not yet found. Find one, watch it, and check that both coins start at the same height and moment.
+- **Projectile Motion: Dropped and Projected Coins** (North Carolina School of Science and Mathematics, 3 min) id `Vyk-swWmC2k`: To see that a dropped coin and a coin shot sideways from the same height land at the same moment. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Why a ball tossed up on a moving train lands in your hand** (to be found, 4 min) id `to find`: To see sideways speed shared between a moving train and a tossed ball, filmed from inside and from outside. *Check:* Not yet found. Find one, watch it, and check that it explains sideways speed and does not claim the air alone carries the ball.
 
 ## Quiz

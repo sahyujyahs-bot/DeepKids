@@ -1539,28 +1539,28 @@
  ],
  "videos": [
   {
-   "title": "Energy, power and the watt, explained simply",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "E04 | Energy Units Explained: Watts, Joules, kWh & Horsepower Made Simple",
+   "channel": "Watt’s Next?",
    "mins": 5,
    "why": "To hear again the difference between how much energy there is and how fast it moves, with everyday appliances.",
-   "check": "Not yet found. Find one, watch it, and check that it says a watt is a joule every second before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "sH_jOrYiCBQ"
   },
   {
-   "title": "How an electricity meter counts units",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Energy meter me। 3200 imp / kwh  ka matlab kya hota hai  ?  1 यूनिट कब बनता है ? मीटर मे #electrical",
+   "channel": "shivdhar Electricals",
    "mins": 5,
    "why": "To see how a home energy meter counts energy, and what the blinking light means.",
-   "check": "Not yet found. Find one made for India if possible, watch it, and check that it explains blinks per unit."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "yo7QRzp1ZXw"
   },
   {
-   "title": "Richard Feynman on what energy is",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 6,
+   "title": "Feynman's Building Blocks of Thermodynamics - with Andrea Sella",
+   "channel": "The Royal Institution",
+   "mins": 3,
    "why": "For the parent and older children: a physicist explaining that energy is a number that stays the same.",
-   "check": "Not yet found. Find a trustworthy recording or reading of the 28 blocks idea, watch it, and check it matches the Feynman Lectures, Volume 1, chapter 4."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "Rw9tlSSellc"
   }
  ],
  "quiz": [

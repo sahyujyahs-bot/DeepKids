@@ -605,9 +605,9 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
    **Answer:** True. *Why:* True. The heat spreads into the cup and the air. It is still in the world, but too spread out to be of use.
 
 ## Videos
-- **A small ball on a big ball: the two-ball drop** (to be found, 3 min) id `to find`: To see a small ball bounce much higher than the height it was dropped from, and hear why in slow motion. *Check:* Not yet found. Find a short film of the stacked-ball drop in slow motion from a science museum or a university, watch it, and check that it says energy passes from the big ball to the small one.
-- **How pumped storage hydropower works** (to be found, 5 min) id `to find`: For the parent and older children: how a power station stores electricity by pumping water uphill and lets it fall again. *Check:* Not yet found. Find an explainer from an energy agency or a university, watch it, and check that it says about three-quarters of the energy comes back.
-- **Émilie du Châtelet and the energy of motion** (to be found, 5 min) id `to find`: For the parent and older children: how clay dents showed that movement energy grows with the square of the speed. *Check:* Not yet found. Find a short biography of her work from a museum or a university, watch it, and check that it matches the clay tests and her book of the early 1740s.
+- **Double Ball Bounce  in SLOW MOTION!** (Questacon, 3 min) id `afxN3RSwB_4`: To see a small ball bounce much higher than the height it was dropped from, and hear why in slow motion. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How does pumped hydro energy storage work?** (Queensland Hydro, 4 min) id `GKupzcJbSqE`: For the parent and older children: how a power station stores electricity by pumping water uphill and lets it fall again. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Simple Physics Experiment Anyone Can Do | Willem Gravesande Lead Balls | Emilie du Chatelet Clay** (STEPHEN BROUGH, 5 min) id `SgBWk_Tt7yQ`: For the parent and older children: how clay dents showed that movement energy grows with the square of the speed. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these stores its energy in height?  

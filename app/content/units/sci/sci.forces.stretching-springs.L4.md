@@ -657,9 +657,9 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
    **Answer:** The sundial, because it tells the time from the shadow of the Sun. The other three keep time by vibrating.. *Why:* A balance spring, a quartz crystal and a caesium atom all vibrate at a steady beat that a clock counts. A sundial has nothing that vibrates.
 
 ## Videos
-- **Resonance: how small pushes build a big swing** (to be found, 5 min) id `to find`: To see resonance on a swing, a tuning fork and a radio, and why timing matters as much as strength. *Check:* Not yet found. Find one, watch it, and check that it explains resonance correctly and does not blame the Tacoma Narrows Bridge on simple resonance before adding it.
-- **A Venus flytrap closing, in slow motion** (to be found, 3 min) id `to find`: To see the snap of the trap, and to count the two touches that make her close. *Check:* Not yet found. Find one, watch it, and check the claims about counting touches before adding it.
-- **How a mechanical watch keeps time with a balance spring** (to be found, 5 min) id `to find`: To see a tiny wheel and a fine spring swinging at a steady beat inside a watch. *Check:* Not yet found. Find one, watch it, and check that it explains the balance spring correctly before adding it.
+- **Why Tiny Pushes Send A Swing Sky High (Resonance)** (Proof The Puffin, 5 min) id `heYaT3MVssg`: To see resonance on a swing, a tuning fork and a radio, and why timing matters as much as strength. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Venus fly traps can COUNT! 😲 The Green Planet 🌱 BBC** (BBC, 2 min) id `_IEwRtNXTvw`: To see the snap of the trap, and to count the two touches that make her close. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How Does a Watch Balance Wheel Work? Meet the Hairspring** (Everyday Mechanisms, 5 min) id `l9K5mvB3HlU`: To see a tiny wheel and a fine spring swinging at a steady beat inside a watch. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What does the stiffness of a spring tell you?  

@@ -701,9 +701,9 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
    **Answer:** She changed two things at once, the material and the place, so she cannot tell which caused the difference. *Why:* A fair test changes only one thing. Here the material, the thickness and the sunshine all differ.
 
 ## Videos
-- **Specific heat capacity: why water heats up slowly** (to be found, 4 min) id `to find`: To see why the same heat warms different materials by different amounts, as in the oil and water test. *Check:* Not yet found. Find one, watch it, and check that it says water needs more heat than oil or metal for each degree, and does not say that water is hotter or colder.
-- **Why does the temperature stay still while ice melts? A heating curve** (to be found, 5 min) id `to find`: To see a heating curve with flat parts, like the Stuck at Zero test. *Check:* Not yet found. Find one, watch it, and check that it explains the flat parts as heat used to change state, and does not say the heat disappears.
-- **Why land heats faster than the sea, and how it drives the monsoon** (to be found, 4 min) id `to find`: To see why the difference in warming between land and sea matters to India's weather. *Check:* Not yet found. Find one, watch it, and check that it explains the difference by specific heat and mixing in deep water, and that it matches the monsoon winds of India.
+- **Heat capacity | Middle school chemistry | Khan Academy** (Khan Academy, 5 min) id `7L1EaURmvDs`: To see why the same heat warms different materials by different amounts, as in the oil and water test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Heating curve for water | Thermodynamics | AP Chemistry | Khan Academy** (Khan Academy, 8 min) id `MqAVc_XaIXQ`: To see a heating curve with flat parts, like the Stuck at Zero test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What is a monsoon?** (Met Office - Learn About Weather, 3 min) id `lpeVqICLTig`: To see why the difference in warming between land and sea matters to India's weather. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A thermometer reads 40 °C in a big bucket of water and 40 °C in a small cup of water. What is true?  

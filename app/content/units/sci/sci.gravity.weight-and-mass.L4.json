@@ -2004,31 +2004,28 @@
  ],
  "videos": [
   {
-   "title": "How does a spring scale work? Hooke's law",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 4,
+   "title": "How does a Mechanical Scale work? (Spring Scale)",
+   "channel": "Jared Owen",
+   "youtube": "LdZLLR8AfkM",
+   "mins": 5,
    "why": "To see how a spring stretches evenly with the load, as in the Rubber Band Scale.",
-   "check": "Not yet found. Find one, watch it, and check that it says the stretch grows with the load up to a limit, and shows a graph."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "Centre of gravity: why things balance and why they topple",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
+   "title": "Centre of Gravity | Middle School Science | Khan Academy",
+   "channel": "Khan Academy India - English",
+   "youtube": "4wlEIXGeMFM",
    "mins": 5,
    "why": "To see how a balance point is found and why a low, wide thing is steady, as in Where Does It Balance.",
-   "check": "Not yet found. Find one, watch it, and check that it shows a plumb line or a balance and explains the centre of gravity as one point for all the weight."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "How the Earth was weighed: the Cavendish experiment",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 4,
+   "title": "Cavendish Experiment",
+   "channel": "Animations for Physics and Astronomy",
+   "youtube": "vWlCm0X0QC0",
+   "mins": 5,
    "why": "To see the two lead balls and the twisting wire that Cavendish used to find the density of the Earth.",
-   "check": "Not yet found. Find one, watch it, and check that it describes the torsion balance and the result of about 5.4 times the density of water, and does not say Cavendish weighed the Earth directly on a scale."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "quiz": [

@@ -89,7 +89,7 @@ A microbe is a tiny cell wrapped in a thin skin. Water can pass through the skin
 ### Reading a food packet · *defined*
 **Definition:** A packet of food in India must show the name of the food, the ingredients, a date, a vegetarian or non-vegetarian mark, nutrition information and the maker's licence number. Each of these tells a buyer something important.
 
-The Food Safety and Standards Authority of India, or FSSAI, makes the rules for food sold in India, under a law passed in 2006. Look for the green dot in a square for vegetarian food, or the brown triangle in a square for non-vegetarian food. Ingredients are listed from the most to the least by weight, so the first one named is the biggest part. If sugar is first on a biscuit packet, there is more sugar than anything else. The nutrition table shows what is in 100 grams. A 14-digit licence or registration number from FSSAI shows that the maker is registered to sell food. Dates matter too. Best before is about quality, and use by is about safety. Packets also list allergens, such as groundnuts, milk, wheat or soya, because a small amount can seriously harm someone who is allergic. Labels with words such as preservative, antioxidant or INS followed by a number tell you what has been added.
+The Food Safety and Standards Authority of India, or FSSAI, makes the rules for food sold in India, under a law passed in 2006. Look for the green dot in a square for vegetarian food, or a brown mark in a square for non-vegetarian food. Ingredients are listed from the most to the least by weight, so the first one named is the biggest part. If sugar is first on a biscuit packet, there is more sugar than anything else. The nutrition table shows what is in 100 grams. A 14-digit licence or registration number from FSSAI shows that the maker is registered to sell food. Dates matter too. Best before is about quality, and use by is about safety. Packets also list allergens, such as groundnuts, milk, wheat or soya, because a small amount can seriously harm someone who is allergic. Labels with words such as preservative, antioxidant or INS followed by a number tell you what has been added.
 - e.g. A packet of chips that lists oil and salt before potato says there is more oil than potato by weight.
 - e.g. A packet of biscuits that says 'may contain groundnuts' warns families whose child is allergic.
 - e.g. Fresh paneer with a use by date should be eaten before that date, and thrown away if it is later.
@@ -134,7 +134,7 @@ Every packet in India shows a date. The dates are set by the maker, who tests ho
 - Smell and taste are not reliable tests of whether food is safe. *How we know:* Investigations of outbreaks have found illness from foods that looked, smelled and tasted normal.
 
 ## How we found out
-**George Soper, a sanitary engineer, and Dr. Sara Josephine Baker, with the New York health department, 1906 to 1907.** In 1906, six people in a rented house at Oyster Bay, near New York, fell ill with typhoid fever, a serious illness spread by bacteria in food or water. The owner hired a sanitary engineer named George Soper to find out why. At that time, most people believed that typhoid spread only from people who looked sick, or from dirty water. Soper found that the family's cook, Mary Mallon, had left soon after the illness began. She had never been ill. He traced her to other homes where she had cooked, and found typhoid in several of them. In 1907, health officers, including Dr. Sara Josephine Baker, found her, and tests showed typhoid bacteria in her body. She was the first healthy carrier of typhoid known in the United States. She was kept apart on an island for years, and people still ask whether she was treated fairly.  
+**George Soper, a sanitary engineer, and Dr. Sara Josephine Baker, with the New York health department, 1906 to 1907.** In 1906, six people in a rented house at Oyster Bay, near New York, fell ill with typhoid fever, a serious illness spread by bacteria in food or water. The owner hired a sanitary engineer named George Soper to find out why. At that time, most people believed that typhoid spread only from people who looked sick, or from dirty water. Soper found that the family's cook, Mary Mallon, had left soon after the illness began. She had never been ill. He traced her to other homes where she had cooked, and found typhoid in several of them. In 1907, health officers, including Dr. Sara Josephine Baker, found her, and tests showed typhoid bacteria in her body. She was one of the first healthy typhoid carriers identified in the United States. She was kept apart on an island for years, and people still ask whether she was treated fairly.  
 *What people believed before:* Many people thought only people who looked sick could pass on typhoid. Tracing the illness from home to home, and testing a cook who felt perfectly well, showed that a healthy carrier can spread it.
 
 ## Challenging perspectives
@@ -303,7 +303,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 - **question:** How do cold, room temperature, warmth and heat change how fast yeast grows in sugary water?
 - **predict:** Before you start, guess which glass will have the most foam after two hours, and which will have the least. Why do you think so?
 - **fair test:** All four glasses start with the same mixture, the same amount and the same glass. They stand on the same kind of surface, and you measure them at the same times. Only the temperature is different, so any difference in foam comes from the temperature.
-- **safety:** A grown-up heats the pan for glass D and handles all hot water. Never taste the yeast mixture. Do not seal the glasses with a lid, because the gas can build up. Wash your hands afterwards, and a grown-up pours the mixture down the sink.
+- **safety:** A grown-up heats the pan for glass D and handles all hot water. Steam can scald, so keep children away from the stove. Never taste the yeast mixture. Do not seal the glasses with a lid, because the gas can build up. Wash your hands afterwards, and a grown-up pours the mixture down the sink.
 - **record:** Fill in the table every 30 minutes for two hours. At the end, draw the four glasses side by side with their foam, and write what you think, what you saw and why.
 - **results table:** Time | A: fridge (centimetres of foam) | B: counter (centimetres of foam) | C: warm-water bath (centimetres of foam) | D: heated first, then counter (centimetres of foam)
 - **s1 (5 min)**  
@@ -313,7 +313,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Ask: Why do you think that glass will foam the most? (good: Warmth helps yeast to grow.; Yeast likes warm places.; The fridge will slow it down.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Yeast is a microbe that eats sugar and makes the gas that makes the foam. More foam means more yeast, busy and growing.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* In the jug, stir 4 teaspoons of sugar and 4 teaspoons of yeast into 800 millilitres of lukewarm water. Wait 5 minutes. Pour 200 millilitres into each of glasses A, B and C. Pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes.  
+  *Parent does:* In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Wait 5 minutes. Pour 200 millilitres into each of glasses A, B and C. Pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes.  
   *Parent says:* This mixture is full of yeast. Glasses A, B and C get it just as it is. Glass D is heated until it steams, so the heat will show what it does to the yeast. Never taste any of it.  
   *Child mode:* Stir sugar and yeast into warm water. Pour 200 millilitres into each glass. A grown-up heats D.
   - Note: The water for the mixture should be lukewarm, like a bath for a baby. If it is too hot, it will kill the yeast in all the glasses and nothing will happen. Use a tray, because foam can spill.
@@ -339,7 +339,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 - **question:** Do fingers carry fewer microbes after a quick rinse with water, or after washing with soap for 20 seconds?
 - **predict:** Before you start, guess which potato slice will grow the most spots, and which will grow the fewest. Will a quick rinse be enough? Why do you think so?
 - **fair test:** The slices come from one potato, cooked together and cut with the same clean knife. The same finger is used each time, pressed for the same 5 seconds, after being dirtied in the same way. All the bags sit side by side on one shelf. Only what was done to the finger is different.
-- **safety:** A grown-up boils the potato and cuts it. Never open the bags once they are sealed, and never smell them, because some of the growth may be harmful. Keep little children away from the bags. At the end, a grown-up puts the closed bags into a rubbish bag, ties it, and puts it in the outside bin. Wash your hands after touching the bags.
+- **safety:** A grown-up boils the potato and cuts it. Never open the bags once they are sealed, and never smell them, because some of the growth may be harmful. Keep little children away from the bags. At the end, a grown-up puts the closed bags into a rubbish bag, ties it, and puts it in the outside bin. Wash your hands after rubbing your finger on the shoe, and after touching the bags.
 - **record:** Fill in the table. On day 7, draw the four bags side by side and shade the spots and fuzzy patches you can see. Write what you think, what you saw and why.
 - **results table:** Slice and what touched it | Day 3: spots | Day 5: spots | Day 7: spots and fuzzy patches
 - **schedule:** day 1: Guess. A grown-up boils and cuts the potato. Press each finger on its slice. Seal and tape the bags. (30 min); day 3: Look at the bags without opening them. Count the spots. Write them down. (3 min); day 5: Look again. Count the spots. Write them down. (3 min); day 7: Look and count. Compare. Draw the four slices. Say what you think, what you saw and why. A grown-up disposes of the bags. (19 min)
@@ -420,9 +420,9 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Note: Do not correct the guesses. The first ingredient on a label is the largest part by weight, but children often guess the one they can taste.
 - **s2 (10 min)**  
   *Parent does:* On each packet, find six things and write them in the table. First, the first three ingredients. Second, the date, and whether it says best before or use by. Third, the vegetarian or non-vegetarian mark. Fourth, the FSSAI number. Fifth, any allergen line. Sixth, any storage advice. Write none if you cannot find it.  
-  *Parent says:* Look for a green dot or a brown triangle in a square. Look for a date. Look for a long number that begins with 1 or 2. Read the first three ingredients. What does the packet say about keeping it?  
+  *Parent says:* Look for a green dot or a brown mark in a square. Look for a date. Look for a long number that begins with 1 or 2. Read the first three ingredients. What does the packet say about keeping it?  
   *Child mode:* Find the date, the mark and the number. Read the first three ingredients.
-  - Note: The FSSAI licence or registration number has 14 digits. The green dot in a green-edged square means vegetarian. A brown triangle in a brown-edged square means non-vegetarian. If a packet has none of these, note that it does not show them.
+  - Note: The FSSAI licence or registration number has 14 digits. The green dot in a green-edged square means vegetarian. A brown mark in a brown-edged square means non-vegetarian. If a packet has none of these, note that it does not show them.
   - Check: A packet lists its ingredients as sugar, wheat flour, oil, salt. What does this order tell you? → **There is more sugar than anything else in it**
 - **s3 (10 min)**  
   *Parent does:* Find the sugar in grams per 100 grams on each packet's nutrition table. Write it down. Put the packets in order from the most sugar to the least. Compare your order with your guesses from step 1.  
@@ -436,7 +436,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   *Child mode:* Which packets go in the fridge after opening? Which stay in the cupboard?
   - Check: A packet of fresh paneer has a use by date of yesterday. What should you do? → **Throw it away, because it spoils easily and may not be safe**
 ### a2 · Starch Detective: is there flour hiding in this milk? (25 min)
-- **safety:** Tincture of iodine is poisonous if swallowed and it stains clothes and skin. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap.
+- **safety:** Tincture of iodine is poisonous if swallowed and it stains clothes and skin, it hurts if it gets in the eyes, and it catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap.
 - **record:** A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Draw the three saucers with their colours.
 - **s1 (5 min)**  
   *Parent does:* Show your child the three saucers. Ask for a guess about the colour in each one after iodine is added. Write down the guesses.  
@@ -501,7 +501,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 
 ## Projects
 ### p1 · Curd Lab: how do the good microbes win? (50 min, 3 days)
-- **safety:** A grown-up boils the milk and pours it. Never taste the cup with no starter, or any cup that smells strongly unpleasant, is slimy, or has pink, orange, green or black patches. Throw those away. Wash the cups with soap and hot water.
+- **safety:** A grown-up boils the milk and pours it. Anyone allergic to milk should not handle or taste the cups. Never taste the cup with no starter, or any cup that smells strongly unpleasant, is slimy, or has pink, orange, green or black patches. Throw those away. Wash the cups with soap and hot water.
 - **record:** A table with a row for each cup and columns for what was added, where it was kept, whether it had set at the morning check and at day 3, and how it looked.
 - **schedule:** day 1: Guess. Boil the milk and let it cool until lukewarm. Add the starters and put the cups in their places. (25 min); day 2: Tilt each cup gently to see if the milk has set. Write down what you see. (10 min); day 3: Check again. Compare the four cups. Say what you think, what you saw and why. (15 min)
 - **s1 (5 min)**  
@@ -524,7 +524,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   *Parent does:* After 6 to 12 hours, tilt each cup gently. Write down whether the milk has set into a block, is thick, or is still liquid. Do not stir, and do not taste cup 1.  
   *Parent says:* Tilt each cup a little. Has it set? Is it thick? Is it still milk? Which cup is ahead?  
   *Child mode:* Tilt each cup gently. Set, thick or runny? Write it down.
-  - Note: Typical in a warm kitchen at about 30 degrees: cup 3 sets first, within about 6 hours, and cup 2 a little later. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day.
+  - Note: Typical in a warm kitchen at about 30 degrees: cup 3 sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day.
   - Wait: Leave the cups for 6 to 12 hours before the first check.
 - **s5 (15 min)**  
   *Parent does:* Check the cups again. Compare them. Check your guess from step 1. Say or write three things: what I think, what I saw, and why. A grown-up decides if cups 2 and 3 are safe to taste.  
@@ -608,7 +608,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
    Options: From the most to the least by weight / In the order they were added in the factory / From the least to the most by weight  
    **Answer:** From the most to the least by weight. *Why:* The first ingredient is the biggest part of the food. If sugar is first on a biscuit packet, there is more sugar than anything else.
 12. (fill) A green dot inside a square on a food packet in India means the food is ____.  
-   **Answer:** ['vegetarian']. *Why:* A green dot in a square means vegetarian, and a brown triangle in a square means non-vegetarian. These marks help families who choose what they eat.
+   **Answer:** ['vegetarian']. *Why:* A green dot in a square means vegetarian, and a brown mark in a square means non-vegetarian. These marks help families who choose what they eat.
 13. (write) A friend says, 'This dal smells fine, so it must be safe to eat.' Write what you would tell your friend.  
    **Answer:** A fine smell does not prove that dal is safe. Many harmful bacteria do not change the smell. I would ask how long the dal sat warm. If it sat for many hours, it is better to throw it away.. *Why:* A strong answer says that smell is not a safe test, and names time spent warm as the thing to ask about.
 14. (draw) Draw the table you would use to find which food made guests ill at a party. Show four foods and four columns, and circle how you would spot the suspect.  
@@ -699,8 +699,8 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
    **Answer:** A strong answer says that it depends on how long the rice sat warm before it went into the fridge. Murali is right that cold slows bacteria but does not kill them or remove a toxin. Gita is right that rice cooled quickly and kept cold is much safer.. *Why:* This is a question where both children have part of it. A strong answer asks for the time and temperature before the fridge.
 
 ## Videos
-- **How soap works, seen up close** (to be found, 4 min) id `to find`: To see how soap molecules lift oil and microbes off a surface. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How health officers track down the cause of a food poisoning outbreak** (to be found, 5 min) id `to find`: To see a real who-ate-what investigation, like the picnic table. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **How soap kills the coronavirus** (Vox, 4 min) id `-LKVUarhtvE`: To see how soap molecules lift oil and microbes off a surface. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How FDA Investigates Foodborne Illness Outbreaks** (U.S. Food and Drug Administration, 4 min) id `EeJwvAdJ-JU`: To see a real who-ate-what investigation, like the picnic table. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How bacteria multiply in food and why temperature matters** (to be found, 4 min) id `to find`: To see bacteria dividing and the danger zone of temperature. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
 
 ## Quiz
@@ -755,7 +755,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 
 ## Spotted around us
 - A date printed on a packet, with the words best before or use by.
-- A green dot or a brown triangle in a square on a food packet.
+- A green dot or a brown mark in a square on a food packet.
 - A cook at a stall cooking food in hot oil and serving it at once.
 - A net cover or a steel lid over food on a table.
 - A hand-washing sink with soap in a school, hospital or restaurant.

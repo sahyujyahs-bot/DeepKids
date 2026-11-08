@@ -617,8 +617,8 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
    **Answer:** ['plasticiser', 'plasticizer']. *Why:* A plasticiser keeps the chains a little apart. Glycerine is a plasticiser for starch.
 
 ## Videos
-- **How a drop spindle or takli twists fibres into yarn** (to be found, 5 min) id `to find`: To watch fibres being drawn out and twisted into yarn, as in the Takli project. *Check:* Not yet found. Find one, watch it, and check that it shows the fibres gripping each other when twisted.
-- **Stephanie Kwolek and the invention of Kevlar** (to be found, 5 min) id `to find`: To hear how the cloudy liquid became a fibre stronger than steel. *Check:* Not yet found. Find one, watch it, and check that it matches the facts in this unit.
+- **Spinning Cotton on a Takli Support Spindle** (Spin2Weave, 5 min) id `RUHMTsfhshY`: To watch fibres being drawn out and twisted into yarn, as in the Takli project. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Stephanie Kwolek: the discovery of Kevlar** (Marloes Peeters, 5 min) id `OehW5i8AMBc`: To hear how the cloudy liquid became a fibre stronger than steel. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Why does plastic shrink in hot water? Heat shrink explained** (to be found, 5 min) id `to find`: To see stretched chains coil up again when heated. *Check:* Not yet found. Find one, watch it, and check it says that heating relaxes stretched chains.
 
 ## Quiz

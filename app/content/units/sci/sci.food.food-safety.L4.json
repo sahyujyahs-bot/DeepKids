@@ -2972,22 +2972,20 @@
  ],
  "videos": [
   {
-   "title": "How soap works, seen up close",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How soap kills the coronavirus",
+   "channel": "Vox",
+   "youtube": "-LKVUarhtvE",
    "mins": 4,
    "why": "To see how soap molecules lift oil and microbes off a surface.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "How health officers track down the cause of a food poisoning outbreak",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "How FDA Investigates Foodborne Illness Outbreaks",
+   "channel": "U.S. Food and Drug Administration",
+   "youtube": "EeJwvAdJ-JU",
+   "mins": 4,
    "why": "To see a real who-ate-what investigation, like the picnic table.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
    "title": "How bacteria multiply in food and why temperature matters",

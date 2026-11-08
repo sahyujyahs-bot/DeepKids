@@ -2431,13 +2431,12 @@
       "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "The Antikythera mechanism: a computer made of gears",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
-      "mins": 6,
+      "title": "The machine that changed our understanding of human history - Max G. Levy",
+      "channel": "TED-Ed",
+      "youtube": "XNEHP6qFeCs",
+      "mins": 5,
       "why": "To see an ancient Greek machine with at least 30 bronze gears.",
-      "check": "Not yet found. Find one, watch it, and check that it is based on the 2021 reconstruction and does not overstate what is known."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     }
   ],
   "applications": [

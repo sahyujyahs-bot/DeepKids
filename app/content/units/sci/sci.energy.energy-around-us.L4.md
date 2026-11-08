@@ -588,9 +588,9 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
    **Answer:** True. *Why:* True. 1 watt times 3,600 seconds is 3,600 joules. 3,600 watts times 1 second is also 3,600 joules. The amount is the same. The rate is different.
 
 ## Videos
-- **Energy, power and the watt, explained simply** (to be found, 5 min) id `to find`: To hear again the difference between how much energy there is and how fast it moves, with everyday appliances. *Check:* Not yet found. Find one, watch it, and check that it says a watt is a joule every second before adding it.
-- **How an electricity meter counts units** (to be found, 5 min) id `to find`: To see how a home energy meter counts energy, and what the blinking light means. *Check:* Not yet found. Find one made for India if possible, watch it, and check that it explains blinks per unit.
-- **Richard Feynman on what energy is** (to be found, 6 min) id `to find`: For the parent and older children: a physicist explaining that energy is a number that stays the same. *Check:* Not yet found. Find a trustworthy recording or reading of the 28 blocks idea, watch it, and check it matches the Feynman Lectures, Volume 1, chapter 4.
+- **E04 | Energy Units Explained: Watts, Joules, kWh & Horsepower Made Simple** (Watt’s Next?, 5 min) id `sH_jOrYiCBQ`: To hear again the difference between how much energy there is and how fast it moves, with everyday appliances. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Energy meter me। 3200 imp / kwh  ka matlab kya hota hai  ?  1 यूनिट कब बनता है ? मीटर मे #electrical** (shivdhar Electricals, 5 min) id `yo7QRzp1ZXw`: To see how a home energy meter counts energy, and what the blinking light means. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Feynman's Building Blocks of Thermodynamics - with Andrea Sella** (The Royal Institution, 3 min) id `Rw9tlSSellc`: For the parent and older children: a physicist explaining that energy is a number that stays the same. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which is the best description of a watt?  

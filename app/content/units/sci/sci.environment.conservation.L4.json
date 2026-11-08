@@ -3146,31 +3146,28 @@
  ],
  "videos": [
   {
-   "title": "How scientists count wild tigers with camera traps",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Camera Traps \"Capture\" Elusive Tigers | National Geographic",
+   "channel": "National Geographic",
+   "youtube": "vDYVCVgSANg",
+   "mins": 3,
    "why": "To see camera traps in a forest and how stripes tell one tiger from another.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "Mark and recapture: how to count animals you cannot count",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Mark recapture population estimation",
+   "channel": "SiouxScience",
+   "youtube": "240806aPHVg",
+   "mins": 5,
    "why": "To see the marking and recapturing steps on a real population, like the bean jar.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "How groundwater and aquifers work",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What Is Groundwater?",
+   "channel": "KQED QUEST",
+   "youtube": "oNWAerr_xEE",
    "mins": 5,
    "why": "To see water moving through sand and rock under the ground, and how wells and pumping change it.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

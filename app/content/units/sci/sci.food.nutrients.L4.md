@@ -574,9 +574,9 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
    **Answer:** An idea can only be tested if someone records exactly what was done and what was found. Careful notes and drawings let other people repeat the test, check it and trust it.. *Why:* A strong answer says that records let others repeat and check results. Credit for a discovery depends on this work as well as on the first idea.
 
 ## Videos
-- **Burning a nut to measure its energy (calorimetry)** (to be found, 4 min) id `to find`: To see the groundnut test done in a classroom, and how heat is measured with water. *Check:* Not yet found. Find one that shows a nut burning under a tin of water with a thermometer, and check that the energy calculation is correct.
+- **The Great Peanut Problem** (FlinnScientific, 5 min) id `sllK6S7buPo`: To see the groundnut test done in a classroom, and how heat is measured with water. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How to read a food label (nutrition table and ingredients)** (to be found, 5 min) id `to find`: To see a nutrition table and an ingredient list explained on a real packet, in the Indian style. *Check:* Not yet found. Prefer one made for India that shows the per 100 grams column and the order of ingredients. Check that it matches the FSSAI rules.
-- **How cells release energy from food (respiration)** (to be found, 4 min) id `to find`: To see sugar and oxygen go into a cell, and energy, carbon dioxide and water come out. *Check:* Not yet found. Choose a short, accurate animation for children and check the facts about ATP and heat.
+- **(OLD VIDEO) Cellular Respiration and the Mighty Mitochondria** (Amoeba Sisters, 8 min) id `4Eo7JtRA7lg`: To see sugar and oxygen go into a cell, and energy, carbon dioxide and water come out. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which food does all three jobs, giving energy, building material and protection?  

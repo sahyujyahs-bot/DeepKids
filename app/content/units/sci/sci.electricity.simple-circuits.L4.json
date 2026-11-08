@@ -1504,13 +1504,12 @@
    "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "An electric eel lights a string of lights",
-   "channel": "An aquarium or science museum channel",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Can an Electric Eel power the lights on a Christmas Tree? (SPOILER WARNING: Sort of.)",
+   "channel": "Tennessee Aquarium",
+   "youtube": "O7cIZcjqi2A",
+   "mins": 3,
    "why": "A real electric eel powering lights, to see thousands of tiny cells in a row adding their pushes.",
-   "check": "No video id yet. Find a clip from an aquarium or museum that treats the eel kindly and gives the voltage correctly. A parent should preview it first."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
    "title": "RCDs, RCBOs & MCBs Explained — What They Do Inside Your Fuse Box",

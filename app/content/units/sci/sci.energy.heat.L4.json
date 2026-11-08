@@ -1956,31 +1956,28 @@
  ],
  "videos": [
   {
-   "title": "Specific heat capacity: why water heats up slowly",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 4,
-   "why": "To see why the same heat warms different materials by different amounts, as in the oil and water test.",
-   "check": "Not yet found. Find one, watch it, and check that it says water needs more heat than oil or metal for each degree, and does not say that water is hotter or colder."
-  },
-  {
-   "title": "Why does the temperature stay still while ice melts? A heating curve",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
+   "title": "Heat capacity | Middle school chemistry | Khan Academy",
+   "channel": "Khan Academy",
+   "youtube": "7L1EaURmvDs",
    "mins": 5,
-   "why": "To see a heating curve with flat parts, like the Stuck at Zero test.",
-   "check": "Not yet found. Find one, watch it, and check that it explains the flat parts as heat used to change state, and does not say the heat disappears."
+   "why": "To see why the same heat warms different materials by different amounts, as in the oil and water test.",
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "Why land heats faster than the sea, and how it drives the monsoon",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 4,
+   "title": "Heating curve for water | Thermodynamics | AP Chemistry | Khan Academy",
+   "channel": "Khan Academy",
+   "youtube": "MqAVc_XaIXQ",
+   "mins": 8,
+   "why": "To see a heating curve with flat parts, like the Stuck at Zero test.",
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
+  },
+  {
+   "title": "What is a monsoon?",
+   "channel": "Met Office - Learn About Weather",
+   "youtube": "lpeVqICLTig",
+   "mins": 3,
    "why": "To see why the difference in warming between land and sea matters to India's weather.",
-   "check": "Not yet found. Find one, watch it, and check that it explains the difference by specific heat and mixing in deep water, and that it matches the monsoon winds of India."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "quiz": [

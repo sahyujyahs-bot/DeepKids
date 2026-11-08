@@ -608,9 +608,9 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    **Answer:** The motor at the base of a bacterium's thread → spins the thread so the bacterium swims; ATP synthase → turns to make the cell's fuel molecule ATP; The head of a muscle protein → pulls like a tiny lever to shorten the muscle. *Why:* A bacterium swims by spinning a thread with a rotary motor. ATP synthase turns like a wheel on an axle to make ATP. A muscle protein pulls like a tiny lever to shorten the muscle.
 
 ## Videos
-- **How pulleys and a block and tackle work (counting the ropes)** (to be found, 5 min) id `to find`: To see a moving pulley share a load between ropes, and the extra rope that must be pulled. *Check:* Not yet found. Find one, watch it, and check that it counts the supporting ropes correctly before adding it.
-- **Gears and gear ratios explained for children** (to be found, 5 min) id `to find`: To see meshing gears of different sizes and how teeth counts give the turns. *Check:* Not yet found. Find one, watch it, and check that it divides the teeth the right way round.
-- **The Antikythera mechanism: a computer made of gears** (to be found, 6 min) id `to find`: To see an ancient Greek machine with at least 30 bronze gears. *Check:* Not yet found. Find one, watch it, and check that it is based on the 2021 reconstruction and does not overstate what is known.
+- **Physics of pulleys: Mechanical advantage of a pulley system** (Science & Math Education Videos for All, 5 min) id `4jJ0WzP03Rc`: To see a moving pulley share a load between ropes, and the extra rope that must be pulled. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Gears and gear ratios: the basics demonstrated and explained: from fizzics.org** (Fizzics Organisation, 6 min) id `9gSnpZ6Yqvc`: To see meshing gears of different sizes and how teeth counts give the turns. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The machine that changed our understanding of human history - Max G. Levy** (TED-Ed, 5 min) id `XNEHP6qFeCs`: To see an ancient Greek machine with at least 30 bronze gears. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A flagpole has one pulley at the top. What does it do for you?  

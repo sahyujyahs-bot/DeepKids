@@ -2846,31 +2846,28 @@
  ],
  "videos": [
   {
-   "title": "Why suspension bridge cables sag in a curve",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Why Suspension Bridge Cables Sag #Shorts",
+   "channel": "AtomLab",
+   "youtube": "COCLEmI4r5I",
+   "mins": 1,
    "why": "To see how the pull in a cable changes with its sag, and why bridge builders choose a gentle curve.",
-   "check": "Not yet found. Find one, watch it, and check that it explains the sag and the pull correctly before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "Agnes Pockels and the button on a balance",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Agnes Pockels: Surface Science Pioneer",
+   "channel": "fyfluiddynamics",
+   "youtube": "jPsgzfKb5Fc",
    "mins": 4,
    "why": "To meet the woman who measured the pull of a water surface in her kitchen, and to see surface tension at work.",
-   "check": "Not yet found. Find one, watch it, and check the dates and the story against a reliable source before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "How a load cell and a strain gauge weigh things",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "The Ingenious Design of Strain Gauges",
+   "channel": "The Efficient Engineer",
+   "youtube": "CRa9djnZRu0",
+   "mins": 11,
    "why": "To see inside a digital scale and a weighbridge, and how a tiny bend becomes a number.",
-   "check": "Not yet found. Find one, watch it, and check that it explains the strain gauge correctly before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

@@ -118,7 +118,7 @@ Ask a class to taste a piece of raw karela. Some will say it is very bitter and 
 *What people believed before:* People believed that each taste is sensed only in its own zone on the tongue. A chart of small differences in how sensitive each part is had been turned into a map of separate zones. Collings tested people part by part and found that every taste is sensed everywhere.
 
 ## Challenging perspectives
-- **Each taste has its own zone on the tongue, with sweet at the tip and bitter at the back.** (This 'tongue map' was drawn in a textbook in 1942 and then copied into school books for decades.; *rejected*)  
+- **Each taste has its own zone on the tongue, with sweet at the tip and bitter at the back.** (This 'tongue map' was drawn in a book in 1942 and then copied into school books for decades.; *rejected*)  
   For: Some zones are a little more sensitive to some tastes. The tip is quite good at sweet, and the back is quite good at bitter.  
   Against: In 1974 Virginia Collings, and many scientists after her, found that every taste is sensed in every zone. The differences are small. Your own blind test shows this.
 - **Traditional food is always healthier than modern food.** (Many people, in advertisements and in conversations about old and new ways of eating.; *debated*)  
@@ -149,7 +149,7 @@ A bitter flower, a sweet lump of jaggery and a sour fruit are all made from the 
 
 - **Taittiriya Upanishad 2.2:** The text says that all beings are born from food, live by food, and go back into food when they die. It calls food the first of all things, because it is what a living being is made of. (Your tongue, your blood and your bones are made from the dal, rice and milk of past meals. The meal does not end at your mouth. It goes on being you.)
 - **Charaka Samhita, Sutrasthana 26:** This old Ayurvedic text teaches six tastes, sweet, sour, salty, pungent, bitter and astringent, and says that a good meal brings all of them in a fitting way. (The Ugadi pachadi is this teaching in a bowl. Science lists five tastes instead of six, but both ways of sorting ask the cook to look for balance, and not to let one taste be the boss.)
-- **Thich Nhat Hanh, The Miracle of Mindfulness (1975), the tangerine:** The Buddhist teacher Thich Nhat Hanh asks us to eat a tangerine slowly, giving it our whole attention. He says that a tangerine eaten without attention is hardly eaten at all. (The tongue test is a way of paying attention to taste. When you slow down, a taste is no longer one word, sweet, but a whole small world.)
+- **Thich Nhat Hanh, The Miracle of Mindfulness (1975), the tangerine:** The Buddhist teacher Thich Nhat Hanh asks us to eat a tangerine slowly, giving it our whole attention. He says that if our mind is somewhere else, we are not really eating the tangerine. (The tongue test is a way of paying attention to taste. When you slow down, a taste is no longer one word, sweet, but a whole small world.)
 - Science (settled): Taste cells for sweet, sour, salty, bitter and umami each use their own kind of sensor. Scientists have been finding these sensors for about twenty-five years. A child's tongue has them all over.
 - Science (debated): Whether fat is a sixth basic taste, and whether the body senses other things in food that we do not call tastes, is still argued.
 - Other view, Many nutrition scientists: Tastes are pleasant things to talk about, but a body needs nutrients, and nutrients are measured, not tasted. They would say that a meal with all six rasas is not proof that it is balanced, and that traditional meals, loved as they are, should still be checked against what children actually need.
@@ -258,7 +258,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - **question:** Is sweet sensed only at the tip, and bitter only at the back? Or can every part of the tongue sense every taste?
 - **predict:** Before you start, draw a tongue and mark where you think each taste is strongest: sweet, salty, sour and bitter. Say why you think so.
 - **fair test:** Every touch uses the same amount of liquid on a new cotton bud, for the same 2 seconds, with the tongue dried first. The tester has their eyes shut and does not know which cup is which. Only two things change: the taste and the part of the tongue. Plain water is the control. It checks whether the tester is really tasting or only guessing. The order of the touches is shuffled, so that no taste is always tested first or last.
-- **safety:** Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. Use a new bud for every touch, and never put a used bud back in a cup. Touch the back of the tongue gently, and stop at once if the child coughs or gags.
+- **safety:** Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up does the grating. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.
 - **record:** Write the taste that was said and the strength from 0 to 3 for every touch. Then colour a drawing of the tongue to show where each taste was named correctly.
 - **results table:** Cup | Tip: taste said and strength (0 to 3) | Left edge: taste said and strength (0 to 3) | Right edge: taste said and strength (0 to 3) | Back: taste said and strength (0 to 3)
 - **s1 (5 min)**  
@@ -283,7 +283,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   *Parent says:* Tell me what you taste, and how strong it is, from nothing to very strong. Rinse your mouth. Wait twenty seconds. Then we do the next one.  
   *Child mode:* Say what you taste. Say how strong it is, from 0 to 3. Then rinse.
   - Ask: What do you notice when the taste is on the back of your tongue? (good: It is the same taste as at the tip.; It was a bit weaker.; It was stronger than I thought.)
-  - Note: The order of the 20 touches, in cup and part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. Bitter is last on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.
+  - Note: The order of the 20 touches, in cup and part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. Bitter comes mostly at the end on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.
   - Check: Your child says 'sweet' for a touch of plain water. What does that mean for the test? → **Sometimes the tester guesses, so the other answers need careful reading**
 - **s5 (8 min)**  
   *Parent does:* Draw a tongue with four zones. For each taste, put a coloured dot in every zone where it was named correctly. Count the dots. Ask your child to say what they thought, what they saw, and why. Then compare with their first guess.  
@@ -292,10 +292,10 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   - Note: Most children find that every taste was named correctly in nearly every zone, though some were stronger than others. The tip and the edges are usually stronger than the middle, because they have more taste buds. If the dots do not look like that, say so. Messy results are real results. Wet buds, nerves and guessing can all spoil a result. After your child has said what they found, you can explain: taste buds for every taste are spread across the tongue. The old map came from a mistake in the 1940s. The card on the tongue map tells the whole story.
   - Think: Look at your first drawing. Which part did the test show to be wrong?
 ### e2 · Wake Up the Moong: what do soaking and sprouting change in a seed? (74 min, 3 days)
-- **question:** Does a moong seed that has been soaked, or soaked and sprouted, cook faster than a dry one? And how much heavier does it get?
+- **question:** Does a moong seed that has been soaked, or soaked and sprouted, cook faster than a dry one? And how much heavier do the seeds get?
 - **predict:** Before you start, guess. Which will cook softest first: dry moong, soaked moong or sprouted moong? Why do you think so?
 - **fair test:** All three batches start as 50 grams of the same moong. They cook in the same amount of water, in pans of the same size, on the same low flame. Only the preparation differs: dry, soaked, or soaked and sprouted. The dry batch is the control. Each batch is tested for softness the same way, by pressing one cooled seed between thumb and finger.
-- **safety:** A grown-up does the cooking, because the pans and the steam are hot. Cooled seeds are pressed on a plate or between thumb and finger only after they have cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them.
+- **safety:** A grown-up does the cooking, because the pans and the steam are hot, and a grown-up lifts the seeds out with a spoon. Cooled seeds are pressed on a plate or between thumb and finger only after they have cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them.
 - **record:** Write the weights, the tail length and the cooking times in the table. Draw the three kinds of seed: dry, soaked and sprouted. Then write what you thought, what you saw and why.
 - **results table:** Seeds | Weight at the start (g) | Weight after soaking or sprouting (g) | Length of the tail (mm) | Minutes to turn soft
 - **schedule:** day 1: Guess. Weigh three portions of moong. Put B and C to soak in water in the evening. (12 min); day 2: In the morning, drain and weigh B and C. Put B in fresh water in the fridge. Cover C with a damp cloth and let it sprout. Rinse C twice, morning and evening. (8 min); day 3: Weigh and measure all three. Cook them side by side and test every 5 minutes. Write what you found. (54 min)
@@ -303,13 +303,13 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   *Parent does:* Weigh three portions of 50 grams of moong, or measure 4 level tablespoons each. Put them in bowls A, B and C. Pour 150 millilitres of water on B and on C. Leave A dry. Write the weights.  
   *Parent says:* We will wake up two bowls of moong, and leave one asleep. Which will cook fastest? Why do you think so?  
   *Child mode:* Put equal moong in three bowls. Add water to B and C. Leave A dry.
-  - Ask: What do you think the moong in water will do overnight? (good: It will get bigger.; It will soak up the water.; It might start to grow.)
+  - Ask: What do you think the moong in water will do overnight? (good: The seeds will get bigger.; They will soak up the water.; They might start to grow.)
   - Note: Do this in the evening. The soaking takes 8 to 10 hours. Write the guesses on the table. If you have no scale, write the volume of the seeds in a measuring cup instead.
 - **s2 (8 min)**  
   *Parent does:* In the morning, drain B and C. Weigh each one and write the weights. Put B back in clean water in the fridge. Put C in a sieve, cover it with a damp cloth, and keep it in a warm, dark place. Rinse C twice a day.  
   *Parent says:* The seeds have soaked all night. Let us weigh them. Bowl B goes to the fridge in water. Bowl C goes in the sieve, to grow.  
   *Child mode:* Drain B and C. Weigh them. B goes in the fridge. C goes in the sieve under a damp cloth.
-  - Note: In a warm kitchen, tiny white tails show by the next morning. In cool weather, sprouting can take two days. If C is not sprouting, keep it warm and give it another day. Do not let it sit in water, or it will go sour.
+  - Note: In a warm kitchen, tiny white tails show by the next morning. In cool weather, sprouting can take two days. If C is not sprouting, keep it warm and give it another day. Do not let the seeds sit in water, or they will go sour. If sprouts smell bad or feel slimy, throw them away.
   - Check: The soaked moong weighs more than the dry moong. Where did the extra weight come from? → **Water that the seeds soaked up**
   - Wait: Leave C to sprout for about a day, rinsing the seeds in the morning and evening.
 - **s3 (8 min)**  
@@ -329,12 +329,12 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   *Parent does:* Look at the table. Compare the weights and the cooking times. Ask your child to say what they thought, what they saw, and why. Taste a little of each cooked batch if your child wants to.  
   *Parent says:* Tell me three things. What did you think would happen? What did you find? Why do you think it came out that way?  
   *Child mode:* Look at your numbers. Say what you thought, what you found, and why.
-  - Note: Most families find that the dry moong takes much the longest, the soaked moong is quicker, and the sprouted moong quickest of all. If your numbers do not follow this, say so. After your child has said what they found, explain: soaking lets water in and starts the seed waking up. Sprouting goes further. The seed makes enzymes that break down some of the stored food, and it makes a little vitamin C, which dry seeds do not have. The card on old ways of preparing food says more.
+  - Note: Most families find that the dry moong takes much the longest, the soaked moong is quicker, and the sprouted moong quickest of all. If your numbers do not follow this, say so. After your child has said what they found, explain: soaking lets water in and starts the seed waking up. Sprouting goes further. The seed makes enzymes that break down some of the stored food, and makes a little vitamin C, which dry seeds do not have. The card on old ways of preparing food says more.
   - Think: People soak dal before cooking, and sprout moong for salads. What might they have noticed?
 
 ## Activities
 ### a1 · Six Tastes in One Bowl: make a mini pachadi (25 min)
-- **safety:** A grown-up cuts the raw mango and the chilli. Keep chilli away from eyes. Use a tiny amount, and skip it if your child does not want it. Only use neem flowers that are clean and fresh, and only 2 or 3 of them.
+- **safety:** A grown-up cuts the raw mango and the chilli. Keep chilli away from eyes. Use a tiny amount, and skip it if your child does not want it. Use ground pepper, not whole peppercorns, which can be a choking risk. Skip any ingredient that anyone is allergic to. Only use neem flowers that are clean and fresh, and only 2 or 3 of them.
 - **record:** Write each taste and its strength from 0 to 3. Then write the strength of the mixed pachadi, and which taste is the boss.
 - **s1 (5 min)**  
   *Parent does:* Lay out the six ingredients, each in a separate spoon, with its name beside it. Ask your child which taste each one will have, and which they think will be the strongest.  
@@ -387,7 +387,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 ### a3 · Why This Food, Now? A festival food calendar (25 min)
 - **record:** Draw a year wheel with 12 months. Put each festival food in its month, with a label for its season and the food group it belongs to.
 - **s1 (8 min)**  
-  *Parent does:* Draw a wheel of twelve months. Place six foods on it. Pongal sweet goes in January, and til-gul at Makar Sankranti goes in January too. Ugadi pachadi goes in March or April, and Bihu pitha in April. Onam sadya goes in August or September, and Diwali sweets in October or November.  
+  *Parent does:* Draw a wheel of twelve months. Place six foods on it. Pongal sweet goes in January, and til-gul at Makar Sankranti goes in January too. Ugadi pachadi goes in March or April, and Bihu pitha in January (Magh Bihu) or April (Bohag Bihu). Onam sadya goes in August or September, and Diwali sweets in October or November.  
   *Parent says:* Here is a wheel of the year. Let us put six festival foods on it, one in each month where it belongs.  
   *Child mode:* Draw a wheel with 12 months. Put six festival foods in their months.
   - Ask: Which foods are close together on the wheel? Which are far apart? (good: Pongal and til-gul are both in January.; Diwali sweets are far from Ugadi.; There is a gap in the summer.)
@@ -513,7 +513,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 11. (odd) Which one is the odd one out, and why? Ragi, jowar, bajra, rice.  
    **Answer:** Rice, because the other three are millets.. *Why:* Ragi, jowar and bajra are millets, small-seeded grains that grow well in dry land. Rice is a different grain that needs much more water.
 12. (fill) Soaked moong seeds weigh more than dry moong because they have taken in ____.  
-   **Answer:** ['water']. *Why:* A dry seed has very little water. It soaks water in through its skin and swells. The extra weight is the water.
+   **Answer:** ['water']. *Why:* A dry seed has very little water. The seed soaks water in through their skin and swells. The extra weight is the water.
 13. (draw) Draw a plate for a festival meal that has all three food jobs. Label each food with its job.  
    **Answer:** A plate with at least one energy food such as rice or roti, one body-building food such as dal or curd, and one protective food such as a vegetable or fruit, each labelled.. *Why:* A strong drawing shows all three jobs on the one plate and labels them correctly. Two dishes may share a job, and one dish may do more than one job.
 14. (mcq) Why can many festival sweets, like laddu, be kept for weeks?  
@@ -596,9 +596,9 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    **Answer:** Answers vary. A strong answer may say that the rice in a meal becomes part of the body within days, so the meal does not end at the mouth. It may also say that the taste cells that sense the meal are themselves rebuilt from earlier meals. It may leave the question open, with a reason.. *Why:* This is an open question with no single answer. A strong answer gives a view, uses evidence from the unit, and stays honest about what is not known.
 
 ## Videos
-- **The tongue map myth: how taste really works** (to be found, 4 min) id `to find`: To see taste buds close up, and to hear how scientists corrected the old tongue map. *Check:* Not yet found. Find one, watch it, and check that it says every taste is sensed all over the tongue and that it does not say the tongue map is true.
-- **How a seed sprouts: a time-lapse of germination** (to be found, 4 min) id `to find`: To see a seed take in water, split open and grow a root, in a few seconds. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **India's millets: the old grains and why they grow in dry land** (to be found, 5 min) id `to find`: To see ragi, jowar and bajra growing in fields, and how they are cooked in different parts of India. *Check:* Not yet found. Find one, watch it, and check that it does not call millets a magic cure.
+- **Why This Taste Map Is Wrong | WIRED** (WIRED, 3 min) id `0klEcayEJ_o`: To see taste buds close up, and to hear how scientists corrected the old tongue map. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Bean Time-Lapse - 25 days | Soil cross section** (GPhase, 3 min) id `w77zPAtVTuI`: To see a seed take in water, split open and grow a root, in a few seconds. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Why millets in India?** (Down To Earth, 5 min) id `Nn7t7pBzouI`: To see ragi, jowar and bajra growing in fields, and how they are cooked in different parts of India. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A girl eats only rice and ghee every day and always feels full. What is the best way to describe her diet?  
@@ -676,11 +676,11 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 
 ## Jokes
 - What did the sweet say to the bitter in the Ugadi pachadi? *Do not worry, we are all in the same bowl.*
-- Why did the moong seed go to the spa? *It wanted a good long soak before it woke up.*
+- Why did the moong seed go to the spa? *They wanted a good long soak before they woke up.*
 - Why did the karela go to school? *To learn how to be a little less bitter.*
 - What did the idli say to the sambar? *Dip in. I am soft for you.*
 - Why was the tongue never lost? *It could find every taste in every direction.*
-- Why did the sprout get promoted? *It was always growing on the job.*
+- Why did the sprout get promoted? *They were always growing on the job.*
 - Why does the laddu only come on special days? *It does not like to be taken for granted.*
 - What did the ragi say to the rice? *You may be famous, but I can grow with very little water.*
 - Why did the thali have so many little bowls? *It could not decide, so it chose everything.*
@@ -692,7 +692,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - In a food diary, one picture stands for 2 servings. Energy foods have 7 pictures, body-building foods have 4, protective foods have 2 and snacks have 3. How many servings of protective food did the child eat? How many more servings of energy food than protective food? **4 servings of protective food. 10 more servings of energy food.**. 2 pictures of 2 servings each is 4 servings of protective food. Energy has 7 pictures of 2, which is 14 servings. 14 take away 4 is 10 more servings of energy food. (queues `math.data.pictographs.L4`)
 - A festival feast has 12 dishes: 5 energy foods, 3 body-building foods and 4 protective foods. What fraction of the dishes are protective? If the planner wants an equal number of each job, how many dishes of each job would that be? **4 out of 12, which is one third. Four dishes of each job.**. 4 out of 12 is the same as 1 out of 3, because both numbers divide by 4. An equal split of 12 dishes between 3 jobs is 12 divided by 3, which is 4 each. (queues `math.fractions.fractions-of-a-whole.L4`)
 - A packet says ragi has about 350 milligrams of calcium in every 100 grams, and polished rice has about 10 milligrams in every 100 grams. How many times as much calcium does ragi have? How many grams of ragi hold 700 milligrams of calcium? **35 times as much. 200 grams of ragi.**. 350 divided by 10 is 35, so ragi has 35 times as much calcium. 700 is twice 350, so you need twice 100 grams, which is 200 grams of ragi. (queues `math.fractions.ratio-and-proportion.L4`)
-- A child needs about 1,600 kilocalories a day. Advice from the World Health Organization is that sugar added to food and drink should be less than one tenth of that energy. One gram of sugar gives about 4 kilocalories. What is the most added sugar in grams for one day? A 250 millilitre bottle of a sweet drink has 10 grams of sugar in every 100 millilitres. Is the sugar in the bottle more than half of the day's limit? **160 kilocalories, which is 40 grams of sugar. The bottle has 25 grams, which is more than half of 40.**. One tenth of 1,600 is 160 kilocalories. 160 divided by 4 is 40 grams. 250 millilitres is 2 and a half times 100 millilitres, so the bottle holds 2 and a half times 10 grams, which is 25 grams. Half of 40 is 20, and 25 is more than 20. (queues `math.multiplication.multi-digit.L4`)
+- Suppose a child eats about 1,600 kilocalories a day. Advice from the World Health Organization is that sugar added to food and drink should be less than one tenth of that energy. One gram of sugar gives about 4 kilocalories. What is the most added sugar in grams for one day? A 250 millilitre bottle of a sweet drink has 10 grams of sugar in every 100 millilitres. Is the sugar in the bottle more than half of the day's limit? **160 kilocalories, which is 40 grams of sugar. The bottle has 25 grams, which is more than half of 40.**. One tenth of 1,600 is 160 kilocalories. 160 divided by 4 is 40 grams. 250 millilitres is 2 and a half times 100 millilitres, so the bottle holds 2 and a half times 10 grams, which is 25 grams. Half of 40 is 20, and 25 is more than 20. (queues `math.multiplication.multi-digit.L4`)
 
 ## Song
 Sunlight on My Plate (sci.food.L4): Topic-level song
